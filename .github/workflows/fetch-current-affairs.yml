@@ -1,0 +1,36 @@
+name: Fetch Current Affairs
+
+on:
+  schedule:
+    # Runs at 00:30 UTC daily = 06:00 IST
+    - cron: "30 0 * * *"
+  workflow_dispatch: # allow manual trigger from GitHub UI
+
+permissions:
+  contents: write # needed to commit and push current-affairs.md
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Fetch and process current affairs
+        env:
+          CURRENTS_API_KEY: ${{ secrets.CURRENTS_API_KEY }}
+        run: node fetch-current-affairs.mjs
+
+      - name: Commit and push
+        run: |
+          git config user.name "joey-news-bot"
+          git config user.email "joey-news-bot@users.noreply.github.com"
+          git add current-affairs.md
+          git diff --staged --quiet || git commit -m "chore: update current affairs $(date +'%Y-%m-%d')"
+          git push
