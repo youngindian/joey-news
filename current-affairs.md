@@ -1,3 +1,769 @@
+## 13 May 2026
+
+### Tamil Nadu Government Floor Test LIVE: Vijay’s TVK faces trust vote today as AIADMK faction rift deepens
+*Express Web Desk · legal*
+
+Tamil Nadu Chief Minister C Joseph Vijay. (ANI Photo)
+
+**Tamil Nadu Floor Test LIVE:** Tamil Nadu Chief Minister and Tamilaga Vettri Kazhagam (TVK) president C Joseph Vijay is set to face a floor test in the State Legislative Assembly today to prove his majority. Several TVK and AIADMK MLAs arrived at the Assembly premises at the Tamil Nadu Secretariat ahead of the trust vote. Vijay, whose party won 108 seats in the Assembly elections, secured support from the Congress, CPI, CPI(M), VCK and IUML, taking the coalition’s strength to 121 seats and paving the way for him to take oath as Chief Minister.
+
+Meanwhile, speculation over a split within the AIADMK has intensified, with reports of two factions emerging — one led by CV Shanmugam and another aligned with former Chief Minister and party general secretary Edappadi K Palaniswami. Shanmugam had alleged that a majority of party members rejected a proposal to form a government with DMK support. Adding to the political buzz, Vijay visited Shanmugam’s office on Tuesday, fuelling speculation over a possible shift in legislative alliances in the state.
+
+Story continues below this ad
+
+An AIADMK MLA told agencies that all decisions would be taken by Edappadi K Palaniswami and claimed the majority remained with the party leadership. AIADMK has also issued a whip ahead of the floor test, with Rajya Sabha MP IS Inbadurai warning that any MLA violating it could face disqualification under the anti-defection law. Separately, AMMK general secretary TTV Dhinakaran expelled party MLA S Kamaraj after he extended support to the TVK government. While the floor test is crucial for Vijay, it is also being seen as a major test for the AIADMK, which won 47 seats and is part of the NDA camp in Tamil Nadu.
+
+**Stay updated with the latest - Click here to follow us on Instagram**
+
+© IE Online Media Services Pvt Ltd
+
+-   Tags:
+-   Tamil Nadu
+
+---
+
+### Daily Briefing: NEET-UG scrapped after leak trail exposes paid WhatsApp networks, ‘guess paper’ racket
+*Ariba · legal*
+
+The Wrestling Federation of India’s (WFI) president Sanjay Singh, in an exclusive interview to The Indian Express, said the **rules could not be bent**, no matter a wrestler’s stature. Singh said this in reference to the closed doors on wrestler Vinesh Phogat’s chances of making it to the Asian Games trials on May 30. This is because of the paucity of time between her giving a detailed reply to a show cause notice and the WFI disciplinary committee taking a call on her participation eligibility. However, despite missing the trials window, there is still hope for her to compete in the trials for the World Championships to be held in Manama, Bahrain, in October-November.
+
+_With that, let’s move on to the top stories from today’s edition:_
+
+-   NEET-UG exam scrapped
+-   Rupee falls to record low
+-   Tamim Iqbal interview
+
+🚨 **Big Story**
+
+The National Testing Agency (NTA) Tuesday **cancelled the NEET-UG examinations** for admission to undergraduate medical courses – nine days after it was held on May 3, following an alleged paper leak. This is the first time such a decision has been taken by the agency since the exam was introduced in 2016 – a move which will affect over 22 lakh candidates. The NTA said that the exam will be held again on dates to be notified separately. Meanwhile, the Centre handed over the paper-leak probe to the CBI, which has now registered an FIR in connection with the alleged irregularities while forming multiple teams to conduct searches at different locations.
+
+**Anatomy of the leak:** According to officials of the Rajasthan Special Operations Group (SOG), firstly, there **existed a WhatsApp group** named ‘Private Mafia’, where the said paper was circulated among members who had paid various amounts to join the group. Despite strict “instructions” from the group administrators not to share the paper, it was circulated far and wide, soon turning into an automated fine print on a WhatsApp message: “Forwarded many times.” Officials said that preliminary investigation had indicated that the paper may have leaked from Nashik, Maharashtra.
+
+**Gathering dust:** This isn’t the first time such malpractices and breaches in the conduct of the NEET examination have been reported. In 2024, the Bharatiya Janata Party (BJP) government, which was under fire over an alleged NEET-UG paper leak, had **constituted a high-level committee** of experts led by former ISRO Chairman K Radhakrishnan to recommend reforms in the examination process, and improve security protocol. However, nearly two years after a CBI probe found that candidates allegedly paid to get solved NEET-UG papers before the exam, the committee’s key recommendations remain on paper.
+
+⚡ **Only in Express**
+
+Story continues below this ad
+
+Badem village, as was revealed in April 2022, has been the target of a criminal conspiracy. Vast tracts of land had allegedly been grabbed by real-estate agents in connivance with government officials in the villages across North Goa. However, what shook the gathering was this: the dead had been signing sale deeds in the village for years, and over half of its properties had already changed hands. As complaints poured in from several villages, the Goa government formed a seven-member Special Investigation Team (SIT), headed by the Superintendent of Police (Crime). As reviewed by **my colleague Pavneet Singh Chadha**, the land grab was part of a plot allegedly hatched by a group of real-estate brokers who used a trove of 500-year-old Portuguese-era land records to allegedly forge property titles.
+
+📰 **From the Front Page**
+
+Jitu Munda, a resident of Dianali village in Odisha’s Keonjhar district, is now tired telling the story that every fresh group of visitors wants to know — how he carried the skeleton of his sister to a local bank branch — and became a national headline. Every time that he does so, Jitu turns to his sister’s grave, located barely a few metres away, and folds his hand in apology. Jitu, on April 27, walked around 3.5 km barefoot to the Malliposi branch of Odisha Grameen Bank, carrying sister Kalara Munda’s skeleton. He wanted to prove to the bank officials that she was indeed dead, and they should let him withdraw the Rs 19,300 in her account. Much has changed since then. **Read the full story here**.
+
+**Record low:** On the day the Indian rupee hit an all-time low of 95.75 per dollar before closing at 95.63, Chief Economic Advisor (CEA) V Anantha Nageswaran, warning that ongoing structural shifts in the global economic order were **not going to reverse**, said that stopping the rupee from falling further was one of the “central macroeconomic imperatives” of the current fiscal. He said India’s exposure to the West Asia crisis was “structural” and presented a “live Balance of Payments stress test, with direct consequences for inflation, the current account, and the exchange rate.”
+
+**First Cabinet meet:** Triggering fresh apprehension among those whose names were deleted from electoral rolls under the Special Intensive Revision (SIR) exercise, the BJP governments in West Bengal and Bihar have said that **they will not be able to avail government schemes** in their states. However, those whose cases are under consideration before tribunals in West Bengal will continue to receive the same till their matter is decided, the state government said. At its first Cabinet meeting on Monday, the BJP government announced the continuation of all social schemes of the previous governments in the state, while making available the Central programmes that were blocked by the Trinamool Congress regime.
+
+📌 
+
+Story continues below this ad
+
+In our _Opinion_ section today, **C Raja Mohan lays down** the five principles guiding India’s sound diplomacy, while referring to Prime Minister Narendra Modi’s brief stop in Abu Dhabi en route to Europe this week. He writes: “Managing the consequences of geopolitical turbulence, the restructuring of global trade, and the rise of disruptive technologies requires rapid internal reform. That will not be easy. Bureaucratic resistance to change and the political comfort with the status quo remain formidable obstacles. But world history reminds us that only those countries that continually reinvent themselves at home are the ones that leverage the world for the peace and prosperity of their citizens.”
+
+**Trump-Xi meet:** In one of the most consequential encounters in years, United States President Donald Trump will arrive in Beijing today to meet his Chinese counterpart, Xi Jinping. Their meeting is less about reconciliation than it is about managing an increasingly adversarial relationship in which economic interdependence survives despite collapsing strategic trust. Washington and Beijing are no longer negotiating the terms of partnership, but the boundaries of coexistence within an increasingly fragmented international order. **We explain**.
+
+Actor-politician Vijay’s Tamilaga Vettri Kazhagam (TVK) has **formally appointed** astrologer Rickey Radhan Pandit Vetrivel the Chief Minister’s Officer on Special Duty (OSD). This move brings a figure long associated with political astrology, numerology and high-profile predictions in Tamil Nadu’s power circles, into the party’s inner structure. His influence within the actor’s emerging political ecosystem was visible during the election season. Here’s what his elevation means this time.
+
+⏳ **And Finally…**
+
+_**“I personally don’t think BCB and BCCI have any real issues anymore. A series here would be a great way to take the next step forward.”**_
+
+Story continues below this ad
+
+Tamim Iqbal, from being branded an “Indian agent” in the aftermath of Mustafizur Rahman being ousted from the Indian Premier League, now finds himself as the interim president of the Bangladesh Cricket Board at a time when the country is trying to restore its ties with the most powerful nation in the cricket world. **Iqbal shares with Sriram Veera** how he plans to get the country’s cricket back on track, both on and off the field.
+
+🎧 Lastly, don’t forget to tune in to **today’s episode** of our 3 Things podcast, where we discuss the mounting pressure on India’s oil marketing companies amid West Asia conflict; the murder of Suvendu Adhikari’s aide in Bengal; as well as partial collapse of Bihar’s Vikramshila bridge.
+
+**That’s all for today. Have a wonderful day!**
+
+_**Until next time,**_  
+_**Ariba**_
+
+ Business As Usual by E P Unny
+
+---
+
+### Anthropic wants Claude to be your lawyer, launches plugins for legal work
+*Armaan Agarwal · general*
+
+## Anthropic is making Claude better at doing a lot of different things. Now, the company wants its AI to be a lawyer with new plugins designed to do legal work. Here is everything you need to know.
+
+Claude can now do many legal tasks with new plugins. (Representational image made with AI)
+
+Anthropic is making Claude more useful. After raising fears of a SaaSpocalypse with Claude Cowork, the AI startup has now released new plugins that allow Claude to do legal work. As per Anthropic, these plugins are designed for lawyers, students and law firms.
+
+The new plugins expand upon Anthropic’s legal push for Claude, having launched Claude for Legal in February this year. At the time, the release had led to a steep decline in shares of publishing and legal software companies such as Pearson, Thomas Reuters, and Relx (owner of LexisNexis).
+
+### What can Claude for Legal do now?
+
+Anthropic says that the new plugins are designed to let legal users carry out more work inside Claude, including document search and review, legal research, deposition preparation, drafting and contract-
+
+Among the new plug-ins are tools such as commercial counsel, employment counsel, litigation associate and "law student". Anthropic said the tools are built for areas including commercial, privacy, corporate, employment, product and AI governance work.
+
+The vendor agreement reviewer plugin, for example, automatically tweaks supplier agreements based on your firm's contract templates. There’s also an NDA triager that can sort incoming NDAs automatically into colour-based tiers – green light for approval, red light to send an NDA to a lawyer for handling.
+
+### Link Claude to legal platforms
+
+Anthropic is also making it easier for you to use Claude in your existing legal framework. The company is adding connectors that link Claude to software already used across the legal sector.
+
+Users will be able to connect directly with platforms including DocuSign, Box, Everlaw and Thomson Reuters, as well as Harvey, a rival AI legal service.
+
+Anthropic's move comes as competition in legal AI heats up. In March, AI startup Harvey raised $200 million at a valuation of $11 billion. Last month Legora, another legal AI startup, raised $600 million in a Series D round.
+
+Anthropic and rival OpenAI have spent much of the past year building AI products for professional work in sectors such as finance, healthcare and law as they seek more business customers. And now it seems that Anthropic is looking to get a share of the pie in the legal sector too.
+
+### Lawyers are using AI
+
+Anthropic claims to have seen strong interest from legal users, according to Mark Pike, the company's associate general counsel. Pike told Bloomberg that lawyers are using Claude "at basically the highest rate of any other profession", excluding software developers.
+
+More than 20,000 legal professionals registered for a recent Anthropic webinar on legal use cases.
+
+Some believe that the new plugin can make Claude the cheapest lawyer out there.
+
+On X, users have started claiming that Claude may actually be their lawyer soon. One person wrote, “Anthropic has just launched the world's cheapest lawyer.” Another user added, “99 per cent of lawyers and law firms are going to get replaced by AI, and they don't even realise it.”
+
+Users wonder if Claude can replace lawyers soon.
+
+At the same time, AI use in law has raised concerns in courts. Dozens of lawyers have been found using AI-generated legal documents containing errors, and California last year fined an attorney who used ChatGPT to draft an appeal that included fake quotes.
+
+### Can I use Claude’s legal plugins?
+
+Anthropic has stated that the new features will be available to paying Claude customers and can also be embedded into firms' own systems or offered through third-party services built on Claude.
+
+Do note that the company has also shared the plugins on the developer platform Github.
+
+\- Ends
+
+Armaan Agarwal
+
+May 13, 2026 09:32 IST
+
+---
+
+### Tata Power shares crash 7% after Q4. What are Goldman Sachs and Motilal Oswal saying?
+*Veer Sharma · economy*
+
+Shares of Tata Power Company fell as much as 7% to their day’s high of Rs 391 on the NSE on Wednesday after it reported a consolidated net profit of Rs 996 crore for the fourth quarter of FY26, down 4% from Rs 1,043 crore recorded in the same period last year.
+
+Revenue from operations during the March quarter declined 13% year-on-year to Rs 14,900 crore, compared with Rs 17,096 crore in the corresponding quarter of the previous year. Despite the fall in revenue, EBITDA for the quarter rose 10% to Rs 4,216 crore.
+
+The renewable energy segment continued to remain a major growth contributor. Profit after tax before exceptional items from the renewables business rose 59% year-on-year to Rs 1,994 crore in FY26, while Q4 profit stood at Rs 406 crore. The solar manufacturing business’ FY26 profit more than doubled to Rs 857 crore. The company attributed the increase to ramp-up in module and cell manufacturing as well as yields exceeding 95%. The rooftop solar business reported a 150% jump in annual profit to Rs 499 crore.
+
+## Tata Power shares: Should you buy, sell or hold?
+
+Brokerage firm Goldman Sachs has maintained a “Sell” rating on Tata Power with a target price of Rs 300, a downside of 28%. The brokerage said Tata Power’s Q4 profit after tax came in 13% below estimates and remained broadly flat year-on-year, impacted by weaker renewable energy generation and lower contribution from joint ventures. While the brokerage sees strong long-term growth visibility in rooftop solar and distribution, it flagged renewable energy generation execution as a key risk amid curtailments and transmission constraints. It also said the stock’s current valuation already factors in much of the optimism, with Tata Power trading at a premium to its historical price-to-book valuation.
+
+Brokerage firm Motilal Oswal Financial Services has maintained a “Buy” rating on Tata Power with a target price of Rs 490, implying an upside potential of around 17%. The brokerage highlighted that rooftop solar installations doubled year-on-year to nearly 1.7 GW in FY26, with management expecting the rooftop solar business to grow at least 50-60% in FY27 while targeting a 20% market share over the next three years. Motilal Oswal also pointed to strong growth in the cell and module manufacturing business, where EBITDA more than doubled in FY26, and noted that the company has guided for renewable energy commissioning of 2.5 GW each in FY27 and FY28.
+
+Brokerage firm JM Financial has reiterated its “Buy” call on Tata Power and retained a target price of Rs 485, indicating a potential upside of nearly 16%. The brokerage said the company’s key growth drivers remain its 4.9 GW cell and module manufacturing facility, strong momentum in the rooftop solar business backed by a healthy order book, and steady performance at Odisha discoms. JM Financial also noted that the operationalisation of the Mundra plant following the supplementary power purchase agreement with Gujarat is expected to support growth, with the brokerage forecasting a FY26-28 CAGR of 13% in revenue, 14% in EBITDA and 19% in profit after tax.
+
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)
+
+---
+
+### Iran US War News LIVE Updates: Donald Trump warns US will ‘finish the job’ if Iran rejects Washington’s terms to end the war
+*Navya Beri · legal*
+
+President Donald Trump waves from the stairs of Air Force One as he boards upon his arrival at Joint Base Andrews, Md., Tuesday, May 12, 2026, for a trip to China to meet President Xi Jinping. (AP Photo)
+
+**Iran US War LIVE:** US President Donald Trump warned that the United States would “finish the job” if Iran refuses Washington’s terms to end the war and address its nuclear program. “They’ll either do the right thing, or we’ll finish the job,” he said on Tuesday (May 13), before departing the White ​House for his high-stakes visit to China, where he is set to meet his Chinese counterpart Xi Jinping to discuss smoothing trade relations hit by tariffs.
+
+**Trump says Americans’ financial struggles won’t shape Iran deal:** Trump said that Americans’ financial struggles were not influencing his negotiations with Iran, highlighting that preventing Tehran from acquiring nuclear weapons remains his administration’s primary objective. “I don’t think about Americans’ financial situations,” he said. “I don’t think about anybody.” “I think about one thing: we cannot let Iran have a nuclear weapon. That’s all.” “The most important thing by far is Iran cannot have a nuclear weapon,” Trump continued. “Every American understands it. If the stock market goes up or down a little bit, the American people understand it.”
+
+Story continues below this ad
+
+**Saudi Arabia launches covert attacks on Iran:** Saudi Arabia launched several covert strikes on Iran, late in March, retaliating for the attacks Tehran carried out against the country during the war, news agency Reuters reported on Wednesday (May 13), citing Western and two Iranian officials. One of the officials said the attacks were “tit-for-tat strikes in retaliation for when Saudi Arabia was hit.”
+
+**_Follow LIVE updates on the Iran-US war, Iran-Israel tensions, Strait of Hormuz crisis, oil price surge, ceasefire developments, Donald Trump’s response, and reactions from Tehran, Washington, and world leaders._**
+
+**Stay updated with the latest - Click here to follow us on Instagram**
+
+© IE Online Media Services Pvt Ltd
+
+-   Tags:
+-   donald trump
+-   Iran War
+-   Iran-Israel War
+
+---
+
+### Shillong Teer Result Today Live, May 13, 2026: Winning Numbers for Shillong, Juwai & Khanapara Teer
+*Nibandh Vinod · general*
+
+Shillong Teer Result Today, May 13, 2026: Check live updates and full winning numbers list for Shillong Teer, Juwai Teer, Khanapara Teer, Shillong Morning Teer and Night Teer draws
+
+[Read full article](https://www.news18.com/india/shillong-teer-result-today-live-may-13-2026-winning-numbers-all-teer-games-10087699.html)
+
+---
+
+### India’s defence ambitions soar as C-295 aircraft nears final rollout stage
+*Sourik Saha · general*
+
+## India's first privately manufactured military aircraft nears rollout in Gujarat, marking a breakthrough for Make in India and defence aerospace self-reliance.
+
+PM Modi, Spanish Prime Minister Pedro Sanchez, Defence Minister Rajnath Singh, Gujarat CM Bhupendra Patel at the inauguration of TATA Aircraft Complex in Vadodara. (Image: PTI)
+
+India’s push towards self-reliance in defence manufacturing may beapproaching a historic milestone, with the country’s firstdomestically assembled Airbus C-295 military transport aircraftreportedly nearing rollout from the Tata-Airbus facility in Vadodara,Gujarat.
+
+Visuals emerging from the Tata Advanced Systems Limited (TASL) finalassembly line suggest that the aircraft is now in the final stages ofproduction and could soon be formally unveiled. While there has beenno official confirmation from the Indian government, Airbus, TataAdvanced Systems, or the Indian Air Force, the development is alreadybeing viewed as a breakthrough for India’s aerospace and defencemanufacturing ambitions.
+
+If officially rolled out, the aircraft would become the firstmilitary aircraft to be manufactured in India by a private-sectorcompany, marking a significant shift in the country’s defenceproduction ecosystem traditionally dominated by state-owned firms.The project is also being hailed as a major success for thegovernment’s Make in India and Atmanirbhar Bharat initiatives aimedat reducing India’s dependence on imported defence equipment.
+
+External Affairs Minister S. Jaishankar had earlier stated that thefirst Made-in-India C-295 aircraft would roll out before September2026. The Vadodara facility itself was jointly inaugurated in 2024 byPrime Minister Narendra Modi and Spanish Prime Minister PedroSnchez, highlighting the growing defence partnership between Indiaand Spain.
+
+The Airbus C-295 is a medium tactical military transport aircraftdesigned for troop movement, cargo transport, medical evacuation, andspecial operations missions. Equipped with short take-off and landingcapabilities, the aircraft can operate from rugged, semi-prepared,and short airstrips, making it ideal for Indian operationalrequirements, especially in mountainous regions and remote forwardbases.
+
+The aircraft can carry more than 9,000 kilograms of payload andtransport up to 71 troops. It is expected to replace the Indian AirForce’s ageing Avro fleet and may eventually support the phasedreplacement of sections of the An-32 transport fleet as well.
+
+India signed a deal with Airbus in 2021 for 56 C-295 aircraft. Underthe agreement, the first 16 aircraft were delivered directly fromSpain, while the remaining 40 are being manufactured and assembled inIndia through a partnership between Airbus and Tata Advanced Systems.
+
+Beyond the aircraft itself, the programme has significantly boostedIndia’s domestic aerospace ecosystem. More than 13,000 aircraftparts and over 4,000 sub-assemblies are now reportedly being producedwithin India, involving numerous Indian companies and MSMEs.Indigenous content is expected to rise to nearly 75 per cent infuture production batches.
+
+The Indian Navy and Coast Guard have also placed additional ordersfor maritime surveillance versions of the aircraft, expanding theirrole beyond the Air Force. Defence experts believe the C-295programme could become a turning point for India’s long-termmilitary aviation and defence manufacturing ambitions.
+
+\- Ends
+
+indiatodayglobal
+
+May 13, 2026 09:28 IST
+
+---
+
+### Bought Gold Jewellery? These 5 Quick Home Tests Can Tell If It’s Real
+*Priyanka Das · lifestyle*
+
+From checking the BIS hallmark to using a magnet, here's a simple guide to spot fake gold.
+
+[Read full article](https://www.news18.com/photogallery/business/savings-and-investments/bought-gold-jewellery-here-are-5-quick-home-checks-to-know-if-it-is-real-and-when-to-get-a-professional-test-ws-l-10088107.html)
+
+---
+
+### She joined a work meeting from a farm while cutting grass with her mother. Her manager’s 'you could have told me' comment surprised the internet
+*Unknown · business*
+
+For many people, after shutting down their office laptop while working from home, it means stepping out with friends, cafe hopping, going shopping, heading to the movies, or enjoying some other leisure activity. But for one corporate woman, putting away her laptop meant heading out for farm-
+
+A young woman who goes by the name Rutuja took to X to share how an ordinary evening quickly turned into a wholesome moment for her and the internet as well. All she did was attend a meeting while standing on her farm beside her mother. But it was the manager’s comment after he realised where she had joined the call from that has the internet’s undivided attention.
+
+According to her post, she wrapped up work around 6 PM, shut her laptop, and immediately headed to the farm to help her mother cut grass for cattle. Like many people balancing corporate life with responsibilities back home, she moved from office mode to family duties without much pause in between.
+
+About half an hour later, her manager sent her a message asking if she could join a meeting. Instead of refusing or delaying it, she connected through her phone directly from the farm. During the call, the manager noticed that she was outdoors and asked whether she was outside somewhere. Rutuja explained that she was at the farm helping her mother, but assured him that the meeting could continue without any problem.
+
+  
+
+## Manager's response
+
+Instead of insisting on continuing the discussion, her manager reportedly told her that she could have informed him earlier because the matter was not urgent. He asked her to take care, enjoy the fresh air, and suggested they could discuss everything the next day instead.
+
+  
+
+## Internet's reaction  
+
+The post quickly gained attention online because many users said such understanding reactions are rare in modern work culture, where employees often feel pressured to stay constantly available even after office hours.  
+Several people pointed out how refreshing it felt to see a manager acknowledge that employees have lives outside work. Others said the moment reflected the importance of empathy in leadership, especially at a time when burnout and always-on work expectations have become increasingly common.
+
+One user wondered if her attendance portal did not show a red mark, indicating her absence. Rutuja, however, responded that that's not the case, since her manager knows she does her work on time. One user called it “a leader worth keeping,” adding that boundaries and empathy often create better results than any 6 PM urgency ever could, while also telling her to enjoy the fresh air.
+
+Another commented that she is “lucky” to have such a manager, noting that good leaders are rare, deeply valuable, and tend to leave a lasting imprint on people over time.
+
+---
+
+### Silver jumps Rs 17,000/kg, gold soars to Rs 1.62 lakh/10g after centre hikes import duty. What should investors do?
+*Veer Sharma · general*
+
+Gold and silver prices opened sharply higher on Multi Commodity Exchange (MCX) on Wednesday after the central government hiked customs duty on imports of gold, silver and other precious metals, with the revised rates taking effect from midnight.
+
+In the domestic market, MCX silver futures for July 2026 delivery jumped Rs 16,743 or 6% to Rs 2,95,805 per kg. Gold futures for June 2026 delivery rallied Rs 9,206 or 6% Rs 1,62,648 per 10 grams. In the previous session, silver ended higher, while gold dropped marginally lower.
+
+Following the revision, the total customs duty on gold and silver has been raised to 15% from 6% earlier. The government has imposed a 10% basic customs duty and a 5% Agriculture Infrastructure and Development Cess (AIDC) on gold and silver imports, taking the effective import tax to 15% from 6%.
+
+In the international market, spot gold fell 0.4% to $4,695.99 per ounce, while U.S. gold futures for June delivery rose 0.4% to $4,705.30. Among other precious metals, spot silver rose 0.2% to $86.71 per ounce after touching its highest level since March 11 earlier in the session. Platinum declined 0.8% to $2,109.53, while palladium slipped 0.2% to $1,487.47.
+
+Recent data showed U.S. consumer inflation accelerated further in April, with the annual inflation rate recording its sharpest increase in nearly three years. The figures have further reduced market expectations of a Fed rate cut this year, thus weighing on sentiment globally.
+
+  
+
+## How should you trade gold?
+
+Manoj Kumar Jain of Prithvi Finmart said both precious metals were witnessing extremely high volatility, although silver prices could hold support near $76.00 per troy ounce, while gold was likely to sustain support around $4,555.00 per troy ounce on a weekly closing basis.
+
+According to Jain, gold has support at $4,640-$4,610 and resistance at $4,740-$4,770 per troy ounce. Silver has support at $82.40-$80.00, while resistance is seen at $88.80-$92.00 per troy ounce in the current session.
+
+On MCX, gold has support at Rs 1,52,800-1,52,100 and resistance at Rs 1,54,000-1,54,850, while silver has support at Rs 2,74,400-2,70,700 and resistance at Rs 2,83,000-2,88,000.
+
+He advised traders holding long positions in both precious metals based on these recommendations to book profits near the target levels.
+
+## Gold rates in physical markets  
+
+  
+
+## Gold Price today in Delhi  
+
+Standard gold (22 carat) prices in Delhi stand at Rs 1,13,048/8 grams while pure gold (24 carat) prices stand at Rs 1,23,312/8 grams.
+
+## Gold Price today in Mumbai  
+
+Standard gold (22 carat) prices in Mumbai stand at Rs 1,12,928/8 grams while pure gold (24 carat) prices stand at Rs 1,23,192/8 grams.
+
+## Gold Price today in Chennai  
+
+Standard gold (22 carat) prices in Chennai stand at Rs 1,14,704/8 grams while pure gold (24carat) prices stand at Rs 1,25,072/8 grams.
+
+## Gold Price today in Hyderabad  
+
+Standard gold (22 carat) prices in Hyderabad stand at Rs 1,12,928/8 grams while pure gold (24 carat) prices stand at Rs 1,23,192/8 grams.
+
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)
+
+---
+
+### West Bengal Live Updates: New government gears up to roll out major welfare schemes from June
+*Express Web Desk · legal*
+
+West Bengal Chief Minister Suvendu Adhikari during a meeting with party MLAs and ministers at Nabanna Sabhaghar, in Howrah. (Handout via PTI Photo)
+
+**West Bengal Live Updates:** In a bid to redesign the state’s social support structure, the newly elected BJP government is now set to implement a series of major welfare schemes — starting with Annapurna Bhandar, the government’s proposed direct-benefit transfer (DBT) scheme for women, and free bus travel for female passengers, coming into effect from June 1.
+
+**First set of arrests:** Garga Chatterjee, founder of the Bangla Pokkho ethno-linguistic rights organisation, was arrested on Tuesday for allegedly making provocative statements in the run-up to the recently concluded West Bengal Assembly elections. The police said Chatterjee was also accused of spreading misinformation about the electoral process and Electronic Voting Machines (EVMs). The day before, the Enforcement Directorate arrested former minister Sujit Bose in connection with the alleged irregularities in municipal recruitment.
+
+Story continues below this ad
+
+**Suvendu aide murder probe:** Meanwhile, the Central Bureau of Investigation (CBI) has taken over the probe into the murder of Chandranath Rath, the personal assistant to West Bengal Chief Minister Suvendu Adhikari, who was targeted and killed in a brutal ambush on May 6 in Madhyamgram, North 24 Parganas. A seven-member Special Investigation Team (SIT), led by DIG Pankaj Kumar Singh, has been formed to probe. Three key suspects have already been arrested from Bihar and Uttar Pradesh in a joint operation by the police of West Bengal, Bihar, and UP.
+
+**Stay updated with the latest - Click here to follow us on Instagram**
+
+© IE Online Media Services Pvt Ltd
+
+-   Tags:
+-   Suvendu Adhikari
+
+---
+
+### Stock Market LIVE: Sensex trades volatile, Nifty near 23,400; SMIDs gain, metal, bank stocks lead
+*Business Standard · business, entrepreneur, finance*
+
+Sensex Today | Stock Market LIVE Updates Wednesday: In the broader markets, the Nifty MidCap and the Nifty SmallCap indices were trading 0.60 per cent and 0.63 per cent higher, respectively
+
+[Read full article](https://www.business-standard.com/markets/news/stock-market-live-may-13-nse-bse-sensex-today-gift-nifty-gold-import-duty-hike-ipos-q4-results-share-market-today-126051300097_1.html)
+
+---
+
+### B.Com From Lucknow, MBA From London: What Degrees Did Prateek Yadav Hold
+*Parishmita Saikia · general*
+
+From Lucknow classrooms to an MBA in the United Kingdom, Prateek Yadav carved a path far removed from politics - built instead on education, business and fitness
+
+[Read full article](https://www.news18.com/cities/lucknow-news/prateek-yadav-death-news-educational-qualifications-bcom-from-lucknow-mba-from-london-ws-l-10088038.html)
+
+---
+
+### Maduro capture-inspired fashion? Marco Rubio spotted in similar Nike tracksuit
+*India Today World Desk · general*
+
+## Marco Rubio drew attention online after appearing aboard Air Force One in a Nike Tech tracksuit that users linked to the outfit worn by ousted Venezuelan leader Nicolas Maduro during his capture and transfer to the US earlier this year.
+
+Marco Rubio travelled to China wearing the same Nike Tech sweatshirt Nicolas Maduro was seen in when he was captured and flown to the US earlier this year.
+
+US Secretary of State Marco Rubio became the talk of social media on Wednesday after travelling to China with Donald Trump wearing a Nike Tech tracksuit, evoking memories of ousted Venezuelan leader Nicols Maduro being photographed blindfolded in the same attire earlier this year while being flown to America following his capture.
+
+“Secretary Rubio rocking the Nike Tech ‘Venezuela’ on Air Force One!” one user wrote on X after Marco Rubio went viral on social media on Tuesday. Rubio was seen aboard Air Force One en route to China along with US President Donald Trump.
+
+Users linked Rubio’s Nike Tech tracksuit to deposed Venezuelan dictator Nicolas Maduro. The image quickly circulated online after users pointed out that Maduro had been photographed in what was described as the same model tracksuit following his capture by US forces in early January.
+
+The renewed interest in the outfit came after White House communications director Steven Cheung posted a photograph of Rubio travelling to China in a matching grey tracksuit. “He is ‘Maduromaxxing’,” another user pointed out.
+
+In a post on X, White House communications director Steven Cheung wrote, “Secretary Rubio rocking the Nike Tech ‘Venezuela’ on Air Force One!” The image of Rubio followed earlier photographs shared by President Donald Trump showing Nicolas Maduro handcuffed and blindfolded in Nike Tech sweats after a weekend raid in which the ousted Venezuelan leader and his wife, Cilia Flores, were captured by US forces and flown to the United States in the first week of January.
+
+According to images and posts that circulated online, Nicolas Maduro was wearing a grey Nike Tech tracksuit when he was taken into custody at the start of the year.
+
+Hours after the capture, Trump posted a photo of Maduro in the outfit, and social media users began claiming that the tracksuit had sold out because of the attention generated by the now-viral image. The posts also noted that Maduro wears size 3XL.
+
+Posts about Maduro’s clothing also focused on other items he was seen wearing. These included a Wanme sleep mask priced at $6 and a Flintronic anti-noise ear protector priced at $11.
+
+As the image spread widely, reactions on social media were mixed. Some users joked that the look would make an ideal Halloween costume, while others pointed to a rise in Google searches for the Nike Tech fleece. One user wrote, “This is absolutely savage. Well done sir,” while another said, “I’m trying to get that fit.”
+
+A different X user posted, “Nike just dropped the most exclusive Maduro collection yet,” and another wrote, “This was the moment when Nike was recorded in history.”
+
+Another clothing brand, Origin USA, also drew attention after Maduro was photographed in one of its blue hoodies after being brought to the US.
+
+The company, co-founded by author and podcaster Jocko Willink, said the item was sold out and available only on pre-order. In a post on X alongside a picture of Maduro, the company wrote, “Welcome to America. Unfortunately, our ‘Patriot Blue’ RTX shirt won’t be shipping ’till spring. But they are available for Pre-order.”
+
+That post also prompted more comments online. One user asked the company, “would you say your hoodies are Madurable?” Another wrote, “he looks happy lol, must be a comfy shirt!”, while one more commented, “Welcome to the USA maduro. As a Venezuelan American, I need like 10 of these shirts.”
+
+Maduro’s arrest also reminded many social media users of another Latin American leader associated with tracksuits, the late Fidel Castro.
+
+While Castro was known for wearing military uniforms earlier in his rule, he later came to favour Adidas athleisure wear. Rubio’s appearance in the Nike outfit, together with the earlier photographs of Maduro, kept the focus on a clothing detail that became one of the most discussed parts of the wider episode.
+
+\- Ends
+
+Sayan Ganguly
+
+May 13, 2026 09:20 IST
+
+---
+
+### Sam Altman says Elon Musk demanded full OpenAI control in 2017, wanted his children to inherit the company
+*Om Gupta · general*
+
+## Sam Altman told the court that Elon Musk once sought lasting control over OpenAI and suggested it could pass to his children. The testimony goes to the heart of the dispute over OpenAI's mission, governance and later commercial shift.
+
+Sam Altman says Musk wanted long-term control over OpenAI. (Representational image)
+
+Elon Musk wanted to build OpenAI for his children — OpenAI CEO Sam Altman, who took to the witness stand today in the OpenAI trial, used this claim to argue that Musk had previously pushed for centralised control over OpenAI, despite now criticising the company for moving away from its original non-profit mission. Altman said that Elon Musk once wanted a controlling stake in OpenAI and had even discussed the possibility of passing that control to his children in the future.
+
+Altman’s appearance was among the most anticipated testimonies of the three-week trial. The testimony is significant because Musk’s lawsuit accuses OpenAI of becoming too commercially driven and too closely aligned with Microsoft. Altman’s statements, however, attempt to show that Musk himself had once wanted substantial personal influence over the organization before leaving the company in 2018.
+
+### Altman says Musk’s control plans made cofounders uncomfortable
+
+Under direct examination by William Savitt, OpenAI’s lead defense counsel, Sam Altman described discussions with Elon Musk regarding Musk’s potential stake in a for-profit OpenAI affiliate.
+
+Altman said the idea of giving Musk a long-term controlling stake in OpenAI made him “extremely uncomfortable,” adding that his cofounders shared the same concerns.
+
+According to Altman, when the cofounders asked Musk what would happen to his controlling stake if he died, Musk’s response was unsatisfactory. Altman testified that Musk suggested his controlling shares and voting power could perhaps pass to his children.
+
+Altman also said Musk’s departure from OpenAI became a “morale boost” for some researchers who had been “demotivated” by Musk’s tough management tactics.
+
+### Musk does not know about to run research lab
+
+Sam Altman testified that, at one point, Elon Musk instructed Greg Brockman and Ilya Sutskever, another OpenAI cofounder, to rank researchers and fire many of them. According to Altman, the move caused damage to the company.
+
+“I don’t think Mr. Musk understood how to run a good research lab,” Altman testified.
+
+### Tesla does not have mission of OpenAI
+
+Some witnesses, including Shivon Zilis, have also reportedly confirmed that Elon Musk wanted to merge OpenAI with Tesla. During the proceedings today, Savitt presented November 2017 messages from Sam Teller, then a Musk employee, who told Altman that Musk “remains very open” to him joining Tesla’s board.
+
+Altman testified that he interpreted the message as a warning that Musk would build AI inside Tesla with or without OpenAI’s participation. He said he had serious concerns about “the Tesla path.”
+
+“Tesla is a car company, and it does not have the mission of OpenAI,” Altman testified.
+
+Altman added that joining Tesla would have destroyed OpenAI’s ability to pursue its mission. The merger, he said, might have “maybe destroyed” the nonprofit entirely.
+
+Sam Altman was examined by OpenAI’s own legal team, meaning Musk’s lawyers will now have the opportunity to cross-examine him following the direct examination.
+
+### Background of the case
+
+At the heart of the case is the growing legal battle between Elon Musk and Sam Altman over OpenAI’s transformation from a nonprofit into a for-profit company. Musk argues that OpenAI was originally created as a nonprofit organization focused on benefiting humanity, almost like a public-interest mission. According to him, the company’s later shift toward a profit-driven structure violated that original commitment and allowed those leading the company to enrich themselves unfairly.
+
+OpenAI’s leadership, including Altman, strongly disputes those claims. They argue that the move toward a for-profit structure was necessary to secure the enormous funding required to develop advanced AI systems. In their view, the transition was driven by the need to scale OpenAI’s mission and remain competitive, rather than by personal financial gain.
+
+\- Ends
+
+May 13, 2026 09:18 IST
+
+---
+
+### ‘I want my husband also to be there’: Pratibha Ranta’s unconventional uake on bachelorette parties; psychiatrist reacts
+*Vaibhavi Mishra · legal*
+
+Pratibha Ranta doesn't find the idea of inviting one's partner to bachelorrette party cinge (Image: Instagram/pratibha\_ranta)
+
+Pratibha Ranta recently shared a refreshingly unconventional take on bachelorette parties — saying she would actually want her future husband to attend hers too.
+
+Speaking in an interview with _Filmy Gyan_, the actor revealed that she does not really relate to the idea of completely separate pre-wedding celebrations. “_Meri bachelorette party mein, I want my husband also to be there_.  (I want my husband to also be at my bachelorette party). When she was asked whether that felt “cringe,” Pratibha quickly disagreed.
+
+“Why? _Meri bachelorette party mein aisa kuch nahi hoga jisme woh aayega toh kuch dikhat ho jaayegi_.” (There won’t be anything happening at my bachelorette party that would make his presence a problem.)
+
+She also jokingly added that having her future husband and his friends around might actually help her single friends, too. “Then maybe my other single girlfriends will also find someone. At least someone should benefit from the bachelorette party.”
+
+### Why modern couples are redefining traditions
+
+Traditionally, bachelor and bachelorette parties were viewed as separate celebrations with close friends before marriage.
+
+But according to Dr Abhinit Kumar, Senior Consultant – Psychiatry, ShardaCare–Healthcity,  modern relationships are becoming increasingly partnership-oriented, where many couples now prefer shared experiences instead of strict social boundaries.
+
+“When someone wants their future husband or wife to also be a part of their bachelor or bachelorette celebration, it may reflect a relationship based on strong friendship, emotional closeness, and companionship.”
+
+The psychiatrist explains that many people today see their partner not only as a romantic companion but also as their closest friend and emotional comfort zone.
+
+Story continues below this ad
+
+### Relationships today are more about emotional comfort
+
+Dr Kumar says this perspective may also reflect values like openness, trust, and emotional security within relationships. “Today, many couples **focus less on traditional expectations** and more on what makes them personally happy and emotionally secure.”
+
+At the same time, he adds that healthy relationships still require a balance between togetherness and individuality.
+
+“Maintaining a balance between togetherness and independent social connections remains important.”
+
+Pratibha Ranta’s comments struck a chord online precisely because they reflect how relationship dynamics are slowly evolving. For many younger couples today, romance is increasingly about companionship, inclusion, and friendship — even during celebrations that were once considered strictly separate.
+
+Story continues below this ad
+
+DISCLAIMER: _T__his article_ _is based on information from the public domain and/or the experts we spoke to._
+
+---
+
+### Gold jumps Rs 9,206, silver surges Rs 16,743 after import duty hike
+*India Today Business Desk · general*
+
+Gold and silver prices in India surged sharply on Wednesday after the government raised import duties on precious metals, making purchases more expensive in the domestic market.
+
+Gold futures on MCX jumped Rs 9,206, or 6%, to Rs 1,62,648 per 10 grams in early trade. Silver futures also rallied strongly, rising Rs 16,743, or 6%, to Rs 2,95,805 per kg as of 9 am.
+
+The sharp rise came after the government increased import duty on gold and silver to 15% from 6%.
+
+The move includes 10% basic customs duty, and 5% Agriculture Infrastructure and Development Cess (AIDC).
+
+### WHY DID GOLD AND SILVER PRICES JUMP?
+
+The duty hike immediately increased the landed cost of imported gold and silver in India, pushing domestic futures prices sharply higher.
+
+India imports most of its gold and silver needs. Higher import duty raises the overall cost for traders, jewellers and consumers.
+
+The government’s move comes at a time when India is facing pressure from:
+
+-   elevated crude oil prices
+-   a weakening rupee
+-   and rising import bills linked to the Iran war and tensions in West Asia.
+
+The rupee recently hit a record low of 95.75 against the US dollar, increasing concerns over the country’s foreign exchange outflows.
+
+The duty hike is aimed at reducing gold and silver imports, narrowing the trade deficit, and supporting the rupee.
+
+### PM MODI HAD RECENTLY URGED PEOPLE TO AVOID BUYING GOLD
+
+The decision also comes days after Prime Minister Narendra Modi urged Indians to avoid buying gold for weddings for one year amid the ongoing economic pressure caused by the global energy crisis.
+
+The Prime Minister had said conserving foreign exchange had become important as crude oil prices remained high globally.
+
+India is one of the world’s biggest gold importers, and economists often see large gold imports as a pressure point during periods of high oil prices and rupee weakness.
+
+### GLOBAL GOLD PRICES EDGE LOWER
+
+Interestingly, global gold prices moved lower even as Indian prices surged due to the import duty hike.
+
+Spot gold fell 0.4% to $4,695.99 per ounce, while US gold futures for June delivery gained 0.4% to $4,705.30.
+
+Analysts said stronger-than-expected US inflation data reduced hopes of interest rate cuts by the US Federal Reserve, putting some pressure on international gold prices.
+
+Recent US data showed consumer inflation rose further in April, with annual inflation recording its biggest increase in three years.
+
+According to CME Group’s FedWatch tool, traders are now pricing in a 30% chance of a US rate hike by December.
+
+### WHAT THIS MEANS FOR BUYERS
+
+The sharp jump in domestic prices could affect:
+
+-   jewellery demand
+-   wedding purchases
+-   and investment buying in the near term.
+
+Jewellers and traders are expected to closely watch consumer reaction over the next few days as higher duties make precious metals significantly more expensive.
+
+\- Ends
+
+May 13, 2026 09:18 IST
+
+---
+
+### Biswa Bangla To Civic Volunteers: BJP Govt In Bengal Mulls Scrutiny Of Mamata's Shadow Structures
+*Pragati Ratti · general*
+
+For years, Biswa Bangla had expanded far beyond a state handicraft label into a powerful political identity spanning airports, festivals, real estate branding, and beyond.
+
+[Read full article](https://www.news18.com/india/biswa-bangla-to-civic-volunteers-bjp-govt-in-bengal-mulls-scrutiny-of-mamatas-shadow-structures-ws-l-10088065.html)
+
+---
+
+### Rupee opens stronger at 95.52/$; Gold, Silver jump 6% on MCX
+*Express Web Desk · legal*
+
+Japan’s Nikkei 225 was little changed, inching up less than 0.1 per cent, while South Korea’s Kospi rose 0.9 per cent.
+
+The rupee opened marginally stronger at 95.52 against the US dollar compared to Tuesday’s close of 95.63, while gold and silver prices surged nearly 6 per cent each on the MCX amid continued demand for safe-haven assets.
+
+Jewellery players expect the recent duty hike on gold to impact imports, with industry executives indicating a likely 10-15 per cent reduction in gold imports going ahead. The sector is also witnessing a shift in consumer behaviour, with customers increasingly expected to exchange old gold for new jewellery purchases. Despite elevated duties, companies remain confident of achieving their FY27 value growth guidance of 20-25 per cent, while industry participants are preparing for at least a year of high import duties on gold.
+
+Asian markets traded mixed in early deals as fading enthusiasm around AI and technology stocks slowed Wall Street’s record-setting momentum.
+
+Japan’s Nikkei 225 was little changed, inching up less than 0.1 per cent, while South Korea’s Kospi rose 0.9 per cent after sharp losses earlier this week triggered by concerns over possible redistribution of AI-driven corporate windfall gains. Australia’s S&P/ASX 200 declined 0.3 per cent, while Hong Kong’s Hang Seng slipped 0.4 per cent. China’s Shanghai Composite was largely flat in early trade.
+
+---
+
+### Gold jewellery to get costlier: Here's how much more you need to pay on your next purchase
+*Trending Desk · business*
+
+Synopsis
+
+India has significantly raised import duties on gold and silver. This move aims to reduce foreign exchange outflow and ease pressure on reserves. Buyers will face higher prices for jewellery. The government encourages domestic recycling and reduced reliance on imported gold. This policy change impacts consumers, traders, and the overall economy.
+
+Agencies
+
+Gold prices to rise after import duty hike?
+
+The Centre’s decision to sharply increase import duty on gold and silver is expected to directly affect jewellery buyers, bullion traders and even household buying patterns ahead of the festive and wedding season. The move comes days after Prime Minister Narendra Modi appealed to citizens to avoid buying gold for a year as India looks to reduce pressure on foreign exchange reserves amid global uncertainty.
+
+From May 13, the effective import duty on gold has been increased from 6 per cent to 15 per cent through Customs Notification No. 16/2026 issued by the Ministry of Finance. While the government sees the step as an economic safeguard, buyers may soon feel the impact in jewellery showrooms across the country.
+
+  
+  
+
+### What Gold import duty hike means for your next jewellery purchase
+
+The biggest immediate effect of the duty hike is likely to be higher gold prices at the retail level.
+
+Gold imported into India will now attract 10 per cent Basic Customs Duty (BCD) and 5 per cent Agriculture Infrastructure and Development Cess (AIDC), compared to the earlier 5 per cent and 1 per cent respectively.
+
+  
+
+Component
+
+Earlier
+
+Now
+
+Basic Customs Duty
+
+5%
+
+10%
+
+1%
+
+5%
+
+Effective Import Duty
+
+6%
+
+15%
+
+Today, the 24K gold prices in India are around Rs 15,475 per gram, while silver prices range between Rs 2.78 lakh and Rs 2.90 lakh per kilogram.
+
+  
+
+Scenario
+
+Duty Rate
+
+Duty Amount on Rs 1,54,750
+
+Landed Value After Duty
+
+Earlier structure
+
+6%
+
+Rs 9,285
+
+Rs 1,64,035
+
+New structure
+
+15%
+
+Rs 23,212
+
+Rs 1,77,962
+
+The final retail price can climb even further after adding GST, jeweller margins and making charges.
+
+For buyers, this could mean:
+
+-   Paying significantly more for new jewellery
+-   Delaying wedding or festive purchases
+-   Opting for lighter jewellery designs
+-   Exchanging old ornaments instead of buying fresh gold
+-   Turning towards digital gold or gold ETFs
+
+The decision suggests the government is trying to discourage both investment-driven buying and ceremonial purchases through a mix of public messaging and higher pricing.
+
+### Why the government raised import duty on gold
+
+India imports almost all the gold consumed in the country, and these imports are paid for in US dollars. In 2025-26, India reportedly spent a record $71.98 billion on gold imports, with the metal accounting for nearly 9-10 per cent of the country’s total import bill.
+
+At the same time, global tensions linked to the Iran war and rising crude oil prices have increased pressure on India’s forex reserves. The concern is that a prolonged period of global instability could widen the current account deficit further.
+
+The government’s calculation appears simple: lower gold imports could help save dollars. Estimates mentioned in the report suggest that a 30-40 per cent drop in gold imports could potentially save India $20-25 billion annually.
+
+The move signals a broader push towards recycling and domestic recovery instead of relying entirely on imported gold.
+
+### Bullion traders warn of smuggling risks
+
+The sharp increase in import duty has also raised concerns within the bullion industry. Jeweller association has warned that illegal gold inflows reduced after tariff cuts introduced in 2024. However, traders fear that a 15 per cent duty could once again make smuggling profitable.
+
+Industry players fear that the sharp increase in import duty could once again make illegal gold trade profitable. According to the report, smuggling activity had reduced after tariff cuts in 2024, but the new 15 per cent duty may reopen illegal routes through neighbouring countries. Traders also fear a rise in cash-based transactions, while enforcement agencies such as customs authorities and the Directorate of Revenue Intelligence could face fresh pressure in tracking illegal inflows.
+
+## Jewellers and traders worries
+
+Jewellers and bullion traders are also preparing for slower business in the short term. The report points to expectations of lower customer footfalls as rising prices may discourage fresh purchases. Dealers may also face higher inventory costs and increased working capital pressure because imported gold will now become significantly more expensive. In addition, jewellery findings will now attract revised duties between 5 per cent and 5.4 per cent, adding to operational costs for the industry.
+
+Even as some trade groups worry about business losses, others have publicly backed the Prime Minister’s appeal in the interest of reducing pressure on India’s economy.
+
+The broader message from the government is clear: India wants to cut dependence on imported gold and conserve foreign exchange during a period of global economic stress.
+
+---
+
+### Prateek Yadav Death Updates: Akhilesh Yadav reaches postmortem centre, meets doctors
+*India Today News Desk · general*
+
+PRATEEK YADAV DEATH
+
+Prateek Yadav Death Live Updates: Prateek Yadav, the son of late Samajwadi Party founder Mulayam Singh Yadav and half-brother of SP chief Akhilesh Yadav, died in Lucknow on Wednesday at the age of 38. Prateek, who was also the husband of BJP leader Aparna Yadav, was brought to Civil Hospital around 6 am, where doctors declared him dead. His body was later shifted to the KGMU postmortem house, where a panel of forensic experts is conducting the autopsy under tight security and videography surveillance. Akhilesh Yadav reached the mortuary during the proceedings and went directly to meet doctors. The Samajwadi Party condoled Prateek’s death, calling it “extremely saddening” in a post on X. Stay tuned to indiatoday.in for all the latest updates.
+
+...
+
+Prateek Yadav was the son of late Samajwadi Party founder Mulayam Singh Yadav and his second wife Sadhana Gupta. (File Photo: ITG)
+
+May 13, 2026 09:54 IST
+
+### Prateek Yadav Death: Akhilesh Yadav says family will act as per legal process and relatives’ wishes
+
+Speaking to reporters after coming out of the postmortem house, Samajwadi Party chief Akhilesh Yadav said Prateek Yadav was very conscious about his health and remained focused on his business activities.
+
+Akhilesh Yadav said business losses can sometimes affect a person mentally. Recalling his last meeting with Prateek around two months ago, he said he had advised him to focus on his business. “He was a very good person,” Akhilesh said, adding that Prateek always stood by the family in difficult times.
+
+The SP chief further said the family would proceed according to the legal process and whatever decision the family collectively takes regarding the matter.
+
+(Ashish Srivastava)
+
+May 13, 2026 09:53 IST
+
+### Prateek Yadav Death News: Civil Hospital CMS says pulse absent, pupils fixed when he was brought in
+
+The Chief Medical Superintendent of Lucknow’s Civil Hospital told India Today that Prateek Yadav showed no signs of life when he was brought to the hospital on Wednesday morning. According to the official, his pulse was not functioning, his eyes were fixed, and the pupils were dilated and unresponsive – all symptoms indicative of death.
+
+(Samarth Srivastava)
+
+May 13, 2026 09:51 IST
+
+### Prateek Yadav Death: BJP leaders, workers reach postmortem house to meet Aparna Yadav’s family
+
+BJP MLAs and party workers began arriving at the KGMU postmortem house in Lucknow on Wednesday to meet the family members of Aparna Yadav following the death of her husband, Prateek Yadav. Heavy security deployment remains in place at the mortuary premises, where the postmortem of Prateek Yadav is being conducted under videography surveillance by a panel of doctors.
+
+May 13, 2026 09:48 IST
+
+### Prateek Yadav Death Update: KGMU panel set to conduct postmortem after videography process
+
+A panel of doctors from King George's Medical University is set to conduct the postmortem of Prateek Yadav in Lucknow, sources said. Doctors Mousami and Shivli from KGMU have been assigned for the autopsy, while a senior doctor from the institution will oversee the entire process.
+
+Officials said the videography procedure linked to the postmortem has been completed, and the autopsy is expected to begin shortly. Heavy police deployment continues at the postmortem house amid the presence of family members and political leaders.
+
+(Ashish Srivastava)
+
+May 13, 2026 09:46 IST
+
+### Prateek Yadav Death News: Brij Bhushan Sharan Singh says demise is ‘heart-wrenching and tragic’
+
+Former BJP MP Brij Bhushan Sharan Singh expressed grief over the death of Prateek Yadav, son of late Mulayam Singh Yadav and husband of BJP leader Aparna Yadav. In a post on X, Singh described the news of Prateek Yadav’s sudden demise as “extremely heart-wrenching and saddening”. He prayed for peace to the departed soul and strength for the bereaved family and well-wishers to bear the loss.
+
+May 13, 2026 09:44 IST
+
+### Prateek Yadav Death: Keshav Prasad Maurya condoles demise, says news is ‘deeply saddening’
+
+Uttar Pradesh Deputy Chief Minister Keshav Prasad Maurya condoled the death of Prateek Yadav, son of late Mulayam Singh Yadav and husband of BJP leader Aparna Yadav. In a post on X, Maurya described the news of Prateek Yadav’s sudden demise as “extremely saddening” and expressed condolences to the bereaved family. He also prayed for peace to the departed soul and strength for the family during the difficult time.
+
+May 13, 2026 09:39 IST
+
+### Prateek Yadav Death Updates: Akhilesh Yadav reaches postmortem house, meets doctors amid autopsy process
+
+Prateek Yadav Death Updates: Akhilesh Yadav reaches postmortem house, meets doctors amid autopsy process
+
+
+---
+
 ## 12 May 2026
 
 ### Not afraid of barbed wire: Bangladesh after Bengal's border fencing push
