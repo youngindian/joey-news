@@ -1,3 +1,585 @@
+## 14 May 2026
+
+### MGL Hikes Mumbai CNG Price To Rs 84/kg, Auto Unions Seek Fare Revision
+*Shuddhanta Patra · general*
+
+
+
+[Read full article](https://www.news18.com/india/mgl-hikes-mumbai-cng-price-to-rs-84-kg-auto-unions-seek-fare-revision-10090446.html)
+
+---
+
+### How did Donald Trump and Xi Jinping resolve diferences? Here’s what US President says
+*Express Global Desk · legal*
+
+President Donald Trump participates in a welcome ceremony with China's President Xi Jinping at the Great Hall of the People, Thursday, May 14, 2026, in Beijing. (AP Photo)
+
+Amid spiralling tensions between the two largest economies over trade, Taiwan, and Iran war, US President Donald Trump and his counterpart Xi Jinping met on Thursday, and high-stakes talks between the two are also scheduled.
+
+Despite significant differences on a host of issues, the Presidents of the two countries have worked through them and sorted things out, said Trump.
+
+In the first interaction with Xi, during his China trip, Trump said: “You and I have known each other now for a long time. In fact, the longest relationship of our two countries that any President and President has had. And that’s, to me, an honour.”
+
+Speaking more about their understanding and the relationship they have shared for years, Trump said, “We’ve had a fantastic relationship. We’ve gotten along. When there were difficulties, we worked it out. I would call you, and you would call me. Whenever we had a problem, we worked it out very quickly, and we’re going to have a fantastic future together…”
+
+Xi also acknowledged that he had always believed that the common interests between the two countries had outweighed their differences.
+
+**So, what are the issues that have plagued the relationship between the two countries in the past year?**
+
+**Reciprocal tariffs:** Beginning with Trump’s reciprocal “Liberation Day” tariffs on nearly all US trade partners in April 2025, average tariffs on China went from 34% to a high of 145% within a few days. China countered with 125% tariffs, and by May, both sides opened negotiations with top leaders meeting in Geneva. Tariffs affected the US-China trade deficit (the difference in imports and exports), which stood at $346 billion in 2016 and dropped significantly to $202 billion by 2025.
+
+Story continues below this ad
+
+China heavily leveraged its dominant position in processing rare earths, which are essential for manufacturing technological goods, to demand concessions. In fact, US Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng will meet in Seoul before Trump’s visit.
+
+**Taiwan flashpoint:** Rising tensions across the Taiwan Strait do seem partly fuelled by the Trump administration’s mixed signals about its Taipei policy. Last December, the US announced an $11billion arms deal with Taiwan, triggering protests from the Chinese government. Trump, however, has since downplayed the US willingness to defend Taiwan. “He considers it to be a part of China,” Trump said of Xi, adding that “(it’s) up to him, what he’s going to be doing (on Taiwan).”
+
+**Iran war:** With China being the largest buyer of Iranian oil, the conflict in the Middle East — triggered by the US-Israel joint attack on Iran — has increased pressure on Beijing’s economy and energy security. As disruptions in the Gulf have made commercial vessels vulnerable to attacks and delays, China has been urging for a **complete cessation of hostilities** and opening up of the Strait of Hormuz.
+
+The Express Global Desk at indianexpress.com which delivers authoritative, verified, and context-driven coverage of key international developments shaping global politics, policy, and migration trends. The desk focuses on stories with direct relevance for Indian and global audiences, combining breaking news with in-depth explainers and analysis. A major focus area of the desk is US immigration and visa policy, including developments 
+
+**Stay updated with the latest - Click here to follow us on Instagram**
+
+© IE Online Media Services Pvt Ltd
+
+-   Tags:
+-   donald trump
+-   Xi Jinping
+
+---
+
+### US, China could 'clash' if Taiwan issue mishandled: Xi to Trump
+*SECTIONS US · business*
+
+Chinese President Xi Jinping on Thursday warned US President Donald Trump that the US-China could clash or come to conflict if the issue over self-ruled Taiwan is mishandled, as the territorial conflict is the "most important" in the ties between the two countries.
+
+"The Taiwan question is the most important issue in China-US relations," Xi said, AFP reported, citing state broadcaster CCTV.
+
+"If mishandled, the two nations could collide or even come into conflict, pushing the entire China-US relationship into a highly perilous situation," he said.
+
+  
+
+China views democratically governed ⁠Taiwan as its territory, a claim that Taipei rejects, and opposes US arms sales to the island.
+
+Xi received Trump as he arrived at the Great Hall and introduced him to the Chinese officials, followed by Xi shaking hands with the US officials accompanying the president. Later, they inspected the guard of honour before going for talks.
+
+  
+
+## US-China relations in focus
+
+In his opening remarks at the key meeting, Xi told Trump that he expects 2026 to be "historic, landmark year" for China-US relations, and that the two countries must jointly answer the questions of the times.
+
+Trump said that he was looking forward to a "big discussion" with President Xi as he arrived in Beijing last night to a rousing welcome.
+
+---
+
+### Trump's China visit: US President hails Xi, says US-China ties will be ‘better than ever’
+*ET Online · business*
+
+US President Donald Trump met China's Xi Jinping in Beijing on Thursday (May 14), aiming to secure economic wins, maintain a fragile trade truce and navigate thorny issues such as the Iran war and arms sales to Taiwan. "The relationship between China and the USA is going to be better than ever before. We're going to have a fantastic future together. I have such respect for China, the job you've done. You're a great leader. I say it to everybody. Sometimes people don't like me saying it, but I say it anyway," US President Donald Trump said.
+
+---
+
+### Why did India ban sugar exports? Here’s what’s happening
+*India Today Business Desk · general*
+
+## The ban applies to exports of raw, white and refined sugar, although shipments already in the export pipeline under specific conditions will still be allowed. Certain quota-based exports to the US and European Union remain exempt.
+
+India, the world’s second-largest sugar producer after Brazil, is now expected to produce less sugar than it consumes for the second straight year. (Photo: Pexels)
+
+India has banned sugar exports with immediate effect until September 30, 2026, as the government moves to control domestic prices, protect local supplies and prepare for growing uncertainty around production and global commodity markets.
+
+The decision marks a major policy reversal because India had earlier allowed sugar mills to export up to 1.59 million metric tonnes this season, betting that domestic production would remain comfortably above demand.
+
+But that calculation has changed sharply over the past few months.
+
+The biggest concern is falling sugar production.
+
+India, the world’s second-largest sugar producer after Brazil, is now expected to produce less sugar than it consumes for the second straight year as cane yields weaken in key producing states such as Maharashtra and Karnataka.
+
+There are also growing fears that El Nino-linked weather disruptions and monsoon uncertainty could hit the next sugar season as well.
+
+### Rising sugar prices
+
+At the same time, domestic sugar prices have been rising steadily, increasing concerns around food inflation at a time when India is already battling record rupee weakness, rising crude oil prices and broader imported inflation pressures.
+
+That is why the government appears to have shifted priority from exports to domestic supply protection.
+
+The ban applies to exports of raw, white and refined sugar, although shipments already in the export pipeline under specific conditions will still be allowed. Certain quota-based exports to the US and European Union remain exempt.
+
+### Ethanol blending push also a factor?
+
+The sugar export ban is also linked to India’s ethanol-blending push.
+
+Over the past few years, India has increasingly diverted sugarcane towards ethanol production as part of its strategy to reduce dependence on imported crude oil and increase ethanol blending in petrol.
+
+India is targeting 20% ethanol blending, and sugar mills have rapidly expanded distillery capacities to benefit from the programme.
+
+But this creates a balancing problem.
+
+More sugarcane diverted towards ethanol means less sugar available for domestic consumption and exports.
+
+Several analysts and industry reports had already warned that India may eventually need to restrict sugar exports if it wants to aggressively expand ethanol blending while maintaining stable domestic sugar prices.
+
+It may be noted that India had already adopted a cautious approach in recent years. Sugar exports were restricted after production dropped in 2022-23, and export quotas this season were lower than industry expectations.
+
+The move also matters globally because India is one of the world’s biggest sugar exporters after Brazil.
+
+Any restriction on Indian exports tightens global sugar supplies and usually pushes international prices higher.
+
+That impact was visible immediately after the announcement. New York raw sugar futures rose more than 2%, while London white sugar futures jumped roughly 3%.
+
+The move is expected to benefit rival exporters such as Brazil and Thailand, which could now increase shipments to buyers in Asia and Africa.
+
+The sugar export ban also fits into a broader pattern of economic caution visible across sectors.
+
+In recent days, the government has intensified focus on fuel conservation and highlighted risks linked to rising global commodity prices and external-sector pressures.
+
+With crude oil prices rising amid the West Asia crisis and the rupee hitting record lows, policymakers appear increasingly focused on protecting domestic supplies, managing inflation risks and reducing pressure on India’s import bill and foreign exchange reserves.
+
+\- Ends
+
+Koustav Das
+
+May 14, 2026 09:37 IST
+
+---
+
+### PCA finds ‘grave misconduct’ by ASI, directs SSP to register FIR, probe by officer above rank of ASI
+*Jagpreet Singh Sandhu · legal*
+
+Daljit Singh in allegedly driving a Brezza car under the influence of liquor and causing multiple accidents, the Police Complaints Authority (PCA) of Chandigarh has directed the UT Police to book him under sections 125 (act endangering life or personal safety of others) and 281 (rash driving or riding on a public way.) of the Bharatiya Nyaya Sanhita (BNS). (Representative image)
+
+Holding that there was “grave misconduct” on the part of suspended Assistant Sub-Inspector (ASI) Daljit Singh in allegedly driving a Brezza car under the influence of liquor and causing multiple accidents, the Police Complaints Authority (PCA) of Chandigarh has directed the UT Police to book him under sections 125 (act endangering life or personal safety of others) and 281 (rash driving or riding on a public way.) of the Bharatiya Nyaya Sanhita (BNS).
+
+The order was passed by a PCA bench comprising retired Justice Kuldip Singh, Amarjot Singh Gill and Dheera Khandelwal in a suo motu complaint initiated based on newspaper reports published in December 2025.
+
+In its order dated May 13, the Authority observed, “In view of the foregoing discussion, we find that there is grave misconduct on the part of ASI Daljeet Singh in driving Breeza Car number…in uniform on December 3, 2025, under the heavy influence of liquor and causing an accident, hitting several vehicles, which attracts an offence under section 281 of BNS also.”
+
+The PCA further held that Section 281 of the BNS was a cognizable offence and no permission from higher authorities was required for registration of an FIR.
+
+The case pertains to an incident on the Kaimbwala road behind Sukhna Lake in December last year, where ASI Daljit Singh, posted in Chandigarh Police’s Security Wing, was alleged to have rammed multiple vehicles, including a school bus, while driving in an intoxicated state. The Authority had initiated suo motu proceedings after taking note of media reports and viral videos 
+
+According to a police report submitted before the PCA, PCR calls were received regarding rash driving and an accident involving a white Maruti Brezza car. Police said a damaged motorcycle was found at the spot and that the injured motorcyclist declined legal action. The report also stated that the smell of alcohol was detected during ASI Daljit Singh’s medical examination and that he refused to provide a blood sample. Police had challaned him under Section 185 of the Motor Vehicles Act and placed him under suspension.
+
+ASI Daljit Singh, in his reply before the Authority, denied driving under the influence of liquor or drugs and claimed that photographs and videos circulated on social media were misleading.
+
+Story continues below this ad
+
+However, the PCA found fault with the manner in which the Chandigarh Police handled the matter.
+
+The PCA bench observed, “It comes out that there is a deliberate attempt on the part of the police to play down the incident and save ASI from the rigour of trial under the 125 and 281 of BNS.”
+
+The order further noted that statements from PCR officials and the school bus driver were not initially recorded despite their availability. Referring to the police stand that no complainant had approached them, the PCA remarked: “It clearly shows that police deliberately overlooked recording the statements of the school bus driver and the PCR officials, who had extracted ASI Daljit Singh from the accidental Breeza car.”
+
+The PCA added that, “Even during the pendency of the present proceeding, higher police authorities tried to justify the non-registration of FIR and did not grant permission sought by ASI Chanderma to register FIR. It appears that the entire police administration was set to save ASI Daljit Singh.”
+
+Story continues below this ad
+
+Accordingly, the PCA directed the SSP, Chandigarh, and SHO of the Sector 3 police station to register an FIR against ASI Daljit Singh under sections 125 and 281 of the BNS and have the matter investigated by an officer above the rank of ASI.
+
+It clarified that the proceedings would be in addition to the kalandra already presented under Section 185 of the Motor Vehicles Act and that both matters could be tried jointly.
+
+Jagpreet Singh Sandhu is a Senior Correspondent at The Indian Express, based in Chandigarh. He is a veteran reporter with over a decade of experience, specializing in legal, crime, and environmental reporting across the tri-city area (Chandigarh, Mohali, and Panchkula). Professional Background Core Beat: He primarily covers the Punjab and Haryana High Court, District Courts, CBI Courts, and Consumer Commissions. His legal reporting is known for breaking down complex judgments and tracking long-standing criminal cases. Environmental Reporting: Jagpreet has become a key voice in reporting on the deteriorating air quality and weather patterns in the Punjab-Haryana region. Crime & Technology: He frequently reports on cybercrime, digital arrest scams, and the intersection of technology and law enforcement, such as the development of citizen-centric policing apps. Recent Notable Articles (Late 2025) His late 2025 coverage has focused on significant judicial verdicts, major financial scams, and public health concerns: 1. Legal & CBI Court Verdicts "12 years on, CBI court acquits Haryana judge, parents in wife’s death case" (Dec 17, 2025): Detailed coverage of the acquittal of a judicial officer in a high-profile dowry death case from 2013. "‘Wicked & evil mind’: Court gives man 30-year term for kidnapping, sexually assaulting 8-year-old" (Dec 16, 2025): A report on a stern judgment from a Chandigarh district court in a POCSO case. "Man acquitted in rape case after victim found ‘very happy’ in wedding reception" (Dec 9, 2025): Covering a unique legal observation regarding consensual relationships and age verification. 2. Investigative & Scams "CBI registers FIR in Rs 1.14-cr Patient Welfare Grant scam at PGIMER" (Dec 19, 2025): An exposé on how funds meant for poor patients were siphoned off through forged documents and a photocopy shop inside the PGIMER campus. "Month-long torture, Rs 85 lakh transfers: How ‘Innocence Certificate’ led to a ‘digital arrest’ of an elderly couple" (Dec 12, 2025): Detailing a sophisticated cyber fraud targeting senior citizens in Chandigarh. 3. Environment & Public Safety "Panchkula air turns ‘very poor’, fourth worst in country" (Dec 22, 2025): Reporting on the sudden spike in pollution levels in Panchkula compared to neighbouring cities. "Soon, you can snap that overspeeding car, and report to Chandigarh Police" (Dec 16, 2025): Breaking news on a new mobile application being developed to allow citizens to report traffic violations via geo-tagged photos. 4. Gangster Culture & Crime "City Beautiful in the crosshairs of gangsters" (Dec 14, 2025): A feature analysis of how Chandigarh has increasingly become a staging ground for extortion and rivalries between gangster modules. "Shooters wanted for Parry murder held by Delhi Police Special Cell" (Dec 18, 2025): Following the developments in a high-profile murder case in Chandigarh’s Sector 26. Signature Style Jagpreet is recognized for his tenacious follow-up on cold cases and his ability to report on courtroom drama with a focus on victim rights. His work often highlights administrative lapses, whether in the handling of patient welfare funds or the enforcement of environmental standards. ... 
+
+**Stay updated with the latest - Click here to follow us on Instagram**
+
+© The Indian Express Pvt Ltd
+
+-   Tags:
+-   chandigarh
+-   drunk driving
+-   drunk driving case
+-   Motor Vehicles Act
+
+---
+
+### Silver slides Rs 3,300/kg, gold drops Rs 1,600/10g as Trump-Xi talks in spotlight amid Iran war; key levels to watch
+*Veer Sharma · economy*
+
+Gold and silver prices opened lower on the Multi Commodity Exchange (MCX) on Thursday, as investors closely tracked talks between U.S. President Donald Trump and Chinese President Xi Jinping, while also watching for developments in the Iran conflict.
+
+In the domestic market, MCX silver futures for July 2026 delivery dipped Rs 3,359 or 1.1% to Rs 2,96,879 per kg. Gold futures for June 2026 delivery were down Rs 1,159 or 0.7%% Rs 1,61,027 per 10 grams. In the previous session, silver rallied over Rs 21,000, while gold gained 6% or nearly Rs 9,000.
+
+The drop also comes amid a one-time price adjustment following the central government's hike in customs duty on imports of gold, silver, and other precious metals. When import duties rise, imported bullion becomes more expensive, causing domestic prices to trade at a wider premium compared to international COMEX and LBMA prices. As a result, MCX futures contracts quickly adjust to reflect the higher landed cost of imports.
+
+In the international market, spot gold was steady at $4,688.43 per ounce, while U.S. gold futures for June delivery slipped 0.2% to $4,695. Among other precious metals, spot silver fell 0.9% to $87.18 per ounce, platinum declined 0.4% to $2,129.15, and palladium slipped 0.3% to $1,495.75.
+
+Trump is set to hold a series of meetings with Xi in Beijing, with the discussions expected to focus on economic issues, preserving the fragile trade truce and addressing geopolitical tensions, including the Middle East conflict.
+
+The U.S. president is also expected to seek China’s support in resolving the conflict launched alongside Israel in late February, though analysts believe Beijing is unlikely to provide the backing Washington is seeking.
+
+  
+
+## How should you trade gold?  
+
+Manoj Kumar Jain of Prithvi Finmart said gold and silver prices are likely to remain volatile this week amid fluctuations in the dollar index and the outcome of the summit between the U.S. and Chinese Presidents.
+
+He said gold has support at $4,681-4,634 per troy ounce, while resistance is placed at $4,740-4,770 per troy ounce. Silver has support at $86.60-84.00, while resistance is seen at $92.00-95.00 per troy ounce in today’s session.
+
+On the MCX, Jain said gold has support at Rs 1,60,200-1,58,000 and resistance at Rs 1,64,400-1,66,600, while silver has support at Rs 2,94,400-2,88,000 and resistance at Rs 3,04,000-3,10,000.
+
+He advised investors to avoid taking fresh buying positions at current levels ahead of the outcome of the summit between the U.S. and Chinese Presidents.
+
+## Gold rates in physical markets
+
+Gold Price today in Delhi
+
+Standard gold (22 carat) prices in Delhi stand at Rs 1,18,928/8 grams while pure gold (24 carat) prices stand at Rs 1,29,728/8 grams.  
+
+## **Gold Price today in Mumbai**
+
+Standard gold (22 carat) prices in Mumbai stand at Rs 1,18,808/8 grams while pure gold (24 carat) prices stand at Rs 1,29,608/8 grams.  
+**  
+
+## Gold Price today in Chennai
+
+**Standard gold (22 carat) prices in Chennai stand at Rs 1,12,008/8 grams while pure gold (24carat) prices stand at Rs 1,30,944/8 grams.
+
+##   
+Gold Price today in Hyderabad
+
+Standard gold (22 carat) prices in Hyderabad stand at Rs 1,18,808/8 grams while pure gold (24 carat) prices stand at Rs 1,29,608/8 grams.
+
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)
+
+---
+
+### Satya Nadella reveals Microsoft’s $25B plan to absorb OpenAI team after Sam Altman firing
+*Om Gupta · general*
+
+## Microsoft CEO Satya Nadella revealed in court that Microsoft prepared a $25 billion backup plan to absorb Sam Altman, Greg Brockman, and OpenAI employees after Altman's sudden firing in November 2023.
+
+Microsoft prepared OpenAI backup subsidiary within 24 hours of crisis. (Representational image, generated from AI)
+
+After Sam Altman was suddenly fired from OpenAI on November 17, 2023, Microsoft was ready to quickly absorb OpenAI’s top leadership and talent into a Microsoft-controlled organisation, Microsoft CEO Satya Nadella revealed during court testimony on Monday. Nadella’s statement highlighted how important OpenAI was to Microsoft’s AI strategy and how urgently Microsoft moved to protect its interests during the leadership turmoil. Nadella took the witness stand on the final day of testimony in the Elon Musk vs OpenAI trial in federal court in Oakland, California.
+
+He revealed that Microsoft reacted almost immediately by preparing a backup plan. Within just 24 hours, Microsoft had completed the legal paperwork to create a new subsidiary that could hire Altman, Greg Brockman, and potentially many other OpenAI employees if they chose to leave the company.
+
+### Microsoft estimated $25 billion cost
+
+In the tech industry, especially in AI, compensation packages are heavily tied to equity and future company value. Convincing OpenAI employees to move would have required Microsoft to offer extremely expensive packages. Nadella revealed that Microsoft estimated it would cost around $25 billion to fully bring Sam Altman, his leadership team, and a large number of OpenAI employees into Microsoft while matching the salaries, stock compensation, and equity they already had or expected at OpenAI.
+
+However, the plan was never carried out because Altman was later reinstated as OpenAI CEO. Once he returned and most employees stayed at OpenAI, Microsoft no longer needed to activate the alternative arrangement.
+
+### Nadella called Altman’s firing “amateurish”
+
+Nadella also highlighted how confusing and sudden the firing appeared even to Microsoft, despite its deep involvement with OpenAI. Nadella called the firing of Sam Altman “amateurish.” During his testimony, Nadella said that even though Microsoft was OpenAI’s biggest investor and closest business partner, the board never properly explained why Altman was fired.
+
+Nadella said his immediate concern was to understand whether there had been something serious involved, such as financial misconduct, fraud, security concerns, or ethical violations. However, according to his testimony, nobody gave Microsoft a clear answer. The only public explanation from OpenAI’s board was that Altman had not been “consistently candid” in his communications with them, a vague phrase that many people at the time felt did not justify such a dramatic decision.
+
+### Microsoft’s influence over OpenAI board
+
+Nadella’s testimony also explained the power struggle that happened after Sam Altman was reinstated at OpenAI following the November 2023 leadership crisis. After Altman returned, OpenAI planned to rebuild or “reconstitute” its board of directors, and Microsoft — as OpenAI’s biggest investor and closest commercial partner — suggested 13 to 14 people it believed could serve on the new board. However, none of Microsoft’s proposed candidates were initially selected.
+
+During testimony, Nadella admitted that Microsoft had no formal power to force the nonprofit OpenAI board to accept its recommendations. When asked what Microsoft could do if the board ignored its suggestions, he simply replied, “None,” highlighting that despite Microsoft’s multibillion-dollar investment, it did not directly control OpenAI’s governance structure.
+
+At the same time, Nadella revealed that Microsoft did try to influence who joined the board by objecting to certain candidates. He said he opposed Diane Greene because of her connections to Google and opposed Bing Gordon because of his ties to Amazon. This suggested Microsoft was concerned about competitors gaining influence inside OpenAI.
+
+Elon Musk’s legal team has claimed that Microsoft was attempting to shape OpenAI’s governance in ways that benefited Microsoft’s own business interests and strengthened its influence over the company.
+
+### OpenAI explored Anthropic merger talks
+
+Ilya Sutskever, co-founder and former chief scientist of OpenAI, also testified under cross-examination. He said OpenAI’s board explored drastic backup options to stabilise the organisation during the crisis. One of those options was reportedly holding discussions with Anthropic, a major rival AI startup, about the possibility of some kind of merger or partnership.
+
+Sutskever said he was not in favour of the idea of OpenAI combining with Anthropic, adding that he was “not excited” about the proposal.
+
+Apart from Microsoft CEO Satya Nadella’s testimony, several other Microsoft executives also took the witness stand to testify about Microsoft’s investment in OpenAI.
+
+\- Ends
+
+May 14, 2026 09:30 IST
+
+---
+
+### Shillong Teer Results Today, May 14, 2026: Winning Numbers For All Teer Games
+*Nibandh Vinod · general*
+
+Shillong Teer Result Today: Here's full list of winning numbers for Shillong Teer, Juwai Teer, Khanapara Teer, and more for May 14, 2026.
+
+[Read full article](https://www.news18.com/india/shillong-teer-result-today-may-14-2026-first-and-second-round-lottery-result-check-winning-numbers-full-list-10090086.html)
+
+---
+
+### West Bengal Politics Shifts: After TMC ouster, Suvendu Adhikari-led government revives cattle slaughter curbs
+*DNA Web Desk · general*
+
+## West Bengal Politics Shifts: After TMC ouster, Suvendu Adhikari-led government revives cattle slaughter curbs
+
+The government also banned public slaughterhouses, stating that the animal will only be slaughtered at the Municipal slaughterhouse or at a slaughterhouse designated by the local administration.
+
+Bharatiya Janata Party-led West Bengal government, citing the 1950 Bengal law and a 2018 Calcutta High Court order, issued a notice reiterating a complete ban on the slaughter of any cattle or buffalo without the mandatory fitness certificate.
+
+The government stated that the fitness certificate will only be issued by the Chairperson of any Municipality or the President of any Panchayat Samiti, jointly with a Government Veterinary Officer after the both of them agree in writing that the animal is over 14 years of age--rendering it unfit for work or breeding purposes--or that the animal has become permanently incapacitated due to old age, injury, deformity, or any other incurable disease.
+
+The government also banned public slaughterhouses, stating that the animal will only be slaughtered at the Municipal slaughterhouse or at a slaughterhouse designated by the local administration.
+
+The violation of the West Bengal Animal Slaughter Control Act, 1950, could lead to a fine of six months in jail, or to a fine extending up to ₹1,000, or to both.
+
+In the event of refusal to issue the fitness certificate, a person can appeal to the State Government within 15 days of receiving the communication regarding the rejection of the certificate.
+
+Chief Minister Suvendu Adhikari-led West Bengal government has taken a series of actions after ending 15-years of Mamata Banerjee's rule.
+
+The 2026 Assembly election results marked a decisive mandate for the BJP, registering a significant surge, winning 206 seats in the 294-member Assembly, a major shift in a state where it had earlier secured 77 seats in the previous election. The Trinamool Congress (TMC), which had won 212 seats in the last Assembly polls, finished a distant second with 80 seats and is leading in one constituency.
+
+(Except for the headline, the story hasn't been edited by DNA staff but is directly published from ANI)
+
+---
+
+### Kerala CM Announcement News LIVE: Satheesan, Venugopal Or Chennithala? Congress Set To Pick CM Today
+*Shuddhanta Patra · general*
+
+Kerala CM Announcement News Today Latest Updates Live: AICC general secretary K C Venugopal, LoP V D Satheesan and senior Congress leader Ramesh Chennithala are top contenders.
+
+[Read full article](https://www.news18.com/india/kerala-cm-announcement-news-live-kerala-new-chief-minister-congress-meeting-jairam-ramesh-rahul-gandhi-vd-satheesan-kc-venugopal-ramesh-chennithala-latest-news-liveblog-10090340.html)
+
+---
+
+### HC seeks details on security cover beneficiaries, unofficial police deployment in Moga
+*Jagpreet Singh Sandhu · legal*
+
+The Punjab and Haryana High Court has directed the Punjab Police to furnish details regarding the number of persons 'enjoying' security cover in Moga district and the number of police personnel officially and unofficially attached to them. (File Photo)
+
+The Punjab and Haryana High Court has directed the Punjab Police to furnish details regarding the number of persons enjoying’ security cover in Moga district and the number of police personnel officially and unofficially attached to them.
+
+The directions came from the bench of Justice Jagmohan Bansal, while hearing petitions concerning the withdrawal of security cover, including that of former cricketer and Rajya Sabha MP Harbhajan Singh.
+
+Justice Bansal observed that police personnel appeared to have been deployed beyond officially sanctioned strength at public expense.
+
+During the hearing, counsel appearing for Harbhajan Singh submitted that he was having 23 security personnel, all belonging to the Punjab Police. Referring to the record, the court observed that “from the perusal of the paperbook, it appears that there are two orders whereby eight police personnel were deputed in the security of the petitioner. It prima facie shows that respondents (Punjab Police) have unofficially attached 15 police personnel at the cost of the public exchequer.”
+
+The bench further observed, “To avoid the aforesaid situation, this Court finds it appropriate to select District Moga to ascertain how many persons have security cover and how many police officials are officially and unofficially attached to those persons.”
+
+The court directed the Additional Director General of Police (Security) to file an affidavit in compliance with an earlier order dated April 22, 2026, passed in a connected matter. It also ordered that an affidavit be filed by the Senior Superintendent of Police, Moga, in terms of the present directions.
+
+The matter has now been adjourned to May 20. The bench clarified that “no further adjournment shall be granted”.
+
+Story continues below this ad
+
+The court also reiterated its earlier protection order, stating, “The respondent, as duty-bound, shall ensure that no physical injury is caused to petitioner and their family members.”
+
+Harbhajan Singh had earlier approached the High Court challenging the withdrawal of his security cover through an order dated April 25, 2026. In his petition, he alleged that the withdrawal was arbitrary and carried out without any fresh threat assessment or prior notice. He had further claimed that the security cover granted to him in May 2022 was withdrawn shortly after he announced his exit from the Aam Aadmi Party, alleging a political vendetta behind the move.
+
+Jagpreet Singh Sandhu is a Senior Correspondent at The Indian Express, based in Chandigarh. He is a veteran reporter with over a decade of experience, specializing in legal, crime, and environmental reporting across the tri-city area (Chandigarh, Mohali, and Panchkula). Professional Background Core Beat: He primarily covers the Punjab and Haryana High Court, District Courts, CBI Courts, and Consumer Commissions. His legal reporting is known for breaking down complex judgments and tracking long-standing criminal cases. Environmental Reporting: Jagpreet has become a key voice in reporting on the deteriorating air quality and weather patterns in the Punjab-Haryana region. Crime & Technology: He frequently reports on cybercrime, digital arrest scams, and the intersection of technology and law enforcement, such as the development of citizen-centric policing apps. Recent Notable Articles (Late 2025) His late 2025 coverage has focused on significant judicial verdicts, major financial scams, and public health concerns: 1. Legal & CBI Court Verdicts "12 years on, CBI court acquits Haryana judge, parents in wife’s death case" (Dec 17, 2025): Detailed coverage of the acquittal of a judicial officer in a high-profile dowry death case from 2013. "‘Wicked & evil mind’: Court gives man 30-year term for kidnapping, sexually assaulting 8-year-old" (Dec 16, 2025): A report on a stern judgment from a Chandigarh district court in a POCSO case. "Man acquitted in rape case after victim found ‘very happy’ in wedding reception" (Dec 9, 2025): Covering a unique legal observation regarding consensual relationships and age verification. 2. Investigative & Scams "CBI registers FIR in Rs 1.14-cr Patient Welfare Grant scam at PGIMER" (Dec 19, 2025): An exposé on how funds meant for poor patients were siphoned off through forged documents and a photocopy shop inside the PGIMER campus. "Month-long torture, Rs 85 lakh transfers: How ‘Innocence Certificate’ led to a ‘digital arrest’ of an elderly couple" (Dec 12, 2025): Detailing a sophisticated cyber fraud targeting senior citizens in Chandigarh. 3. Environment & Public Safety "Panchkula air turns ‘very poor’, fourth worst in country" (Dec 22, 2025): Reporting on the sudden spike in pollution levels in Panchkula compared to neighbouring cities. "Soon, you can snap that overspeeding car, and report to Chandigarh Police" (Dec 16, 2025): Breaking news on a new mobile application being developed to allow citizens to report traffic violations via geo-tagged photos. 4. Gangster Culture & Crime "City Beautiful in the crosshairs of gangsters" (Dec 14, 2025): A feature analysis of how Chandigarh has increasingly become a staging ground for extortion and rivalries between gangster modules. "Shooters wanted for Parry murder held by Delhi Police Special Cell" (Dec 18, 2025): Following the developments in a high-profile murder case in Chandigarh’s Sector 26. Signature Style Jagpreet is recognized for his tenacious follow-up on cold cases and his ability to report on courtroom drama with a focus on victim rights. His work often highlights administrative lapses, whether in the handling of patient welfare funds or the enforcement of environmental standards. ... 
+
+**Stay updated with the latest - Click here to follow us on Instagram**
+
+© The Indian Express Pvt Ltd
+
+-   Tags:
+-   Moga
+-   Punjab High Court
+
+---
+
+### US President Donald Trump meets Xi Jinping in Beijing, calls Chinese President a ‘great leader’ during high-stakes summit
+*Monica Singh · general*
+
+US President Donald Trump and Chinese President Xi Jinping held a major meeting in Beijing focused on improving bilateral ties, trade cooperation and regional stability.
+
+US President Donald Trump and Chinese President Xi Jinping held a major bilateral meeting in Beijing on May 14, with both leaders signalling a willingness to improve ties between the world’s two largest economies. Trump praised Xi, calling him a 'great leader,' and expressed optimism regarding the future of relations between the two nations. 
+
+The talks began with a formal welcome ceremony at the Great Hall of the People, where Trump thanked Xi and the Chinese government for the hospitality extended to the American delegation. Calling the reception a 'great honour,' Trump highlighted the symbolic importance of the visit amid ongoing geopolitical and trade-
+
+During his opening remarks, the US President drew attention to the children who participated in the ceremony, describing them as a representation of hope and future cooperation between the two nations. Trump noted that their presence added warmth to the event and reflected optimism for long-term US-China relations.
+
+## **Focus on Personal Diplomacy and Bilateral Ties**
+
+Trump also stressed the value of his long-standing relationship with Xi, saying that direct communication between the two leaders had helped manage disagreements in the past. He described their interactions as constructive and suggested that personal diplomacy remains an important factor in stabilising relations between Washington and Beijing.
+
+The meeting comes at a time when both countries continue to navigate complex issues involving trade policies, technology restrictions, and regional security concerns. Analysts view the summit as a crucial opportunity to reduce tensions and reopen channels for deeper cooperation.
+
+The leaders exchanged a warm handshake before entering formal discussions, signalling an effort to maintain a cordial atmosphere despite broader strategic competition between the two nations.
+
+## **Business Leaders Join Key Discussions**
+
+A notable aspect of Trump’s delegation was the inclusion of several prominent American business executives. Trump emphasised that US companies remain eager to expand economic engagement with China and strengthen commercial partnerships.
+
+He described the summit as one of the most closely watched diplomatic events in recent years, underlining its global significance. The presence of business leaders reflected a broader strategy aimed at combining diplomatic outreach with economic cooperation.
+
+Trade relations have remained a central issue in US-China ties, particularly after years of tariff disputes and disagreements over market access. Observers believe the discussions could pave the way for fresh negotiations on economic and investment matters.
+
+## **Hope for Improved Cooperation**
+
+Concluding his remarks, Trump expressed confidence that relations between the United States and China could improve further in the coming years. He described Xi as a respected leader and reiterated his commitment to maintaining dialogue and cooperation between the two powers.
+
+---
+
+### US, China should be partners, not rivals: Xi's measured message for Trump
+*India Today World Desk · general*
+
+## Donald Trump opened talks with Xi Jinping in Beijing as both sides took up trade and regional flashpoints. The summit comes at a delicate moment, with Iran, Taiwan and technology tensions shaping the agenda.
+
+Chinese President Xi Jinping with US President Donald Trump at the Great Hall of the People in Beijing on May 14, 2026. (Photo: Reuters)
+
+As Chinese President Xi Jinping hosted Donald Trump in Beijing for the first time in nine years, he used his opening remarks during the bilateral talks with the US President on Thursday to deliver a gentle but pointed message on responsible global leadership, urging Washington to adopt a steadier approach as both powers navigate an increasingly unstable international order.
+
+As the two leaders opened a high-stakes summit at the Great Hall of the People, Xi appeared to offer what diplomats may read as a measured knock on Trump’s knuckles — a carefully calibrated call for maturity in world affairs, cooperation over rivalry, and restraint over confrontation.
+
+"Can we meet global challenges together and provide more stability for the world? Can we, in the interests of the well-being of our two peoples and the future of humanity, build a brighter future together for our bilateral relations?" Xi said, addressing Trump directly before their delegations.
+
+"These are the questions vital to history, to the world, and to the people. They are the questions of our times that you and I need to answer as leaders of major countries. I always believe that our two countries have more common interests than differences," Xi asserted.
+
+**Follow live updates here.**
+
+The Chinese leader continued and said that Beijing and Washington should view each other’s growth as mutually beneficial, arguing that stronger ties between the two nations would contribute to global stability.
+
+He urged cooperation over rivalry, saying both countries "stand to gain from cooperation and lose from confrontation," and called for a relationship where both sides support each other’s development and work toward peaceful coexistence as major powers in a changing world.
+
+The remarks came as Trump seeks to reset ties with China while facing mounting domestic and international pressures.
+
+His visit — the first by a sitting US president to China in nearly a decade — comes against the backdrop of a fragile trade truce, the widening Iran war, disputes over Taiwan, and escalating competition over semiconductors and artificial intelligence.
+
+While Xi's tone was diplomatically measured but unmistakably strategic, Trump chose to open with praise, telling Xi, "You're a great leader, sometimes people don't like me saying it, but I say it anyway," the Chinese leader steered the conversation toward shared responsibility and long-term stability.
+
+"There are those who say this may be the biggest summit ever. It's an honour to be with you. It's an honour to be your friend and the relationship between China and the USA is going to be better than ever before," Trump said.
+
+The visit marks Trump’s first trip to China since 2017 and the first by a sitting US president in nearly ten years. But unlike his previous visit, analysts say the balance of influence has shifted.
+
+Trump arrives under mounting domestic political pressure, while Xi faces comparatively fewer immediate constraints.
+
+Ali Wyne of the International Crisis Group said the relationship has evolved significantly since Trump’s last visit.
+
+Back then "China was trying to persuade the United States of its growing status. This time around, it's the United States, unprompted, of its own volition, that is acknowledging that status," Wyne said, referring to Trump’s recent revival of the term G2 to describe a US-China superpower pairing.
+
+Trump arrived in Beijing with a high-profile business delegation that included Tesla chief Elon Musk, Apple CEO Tim Cook and NVIDIA president Jensen Huang. The White House hopes to secure commercial wins including major Chinese purchases of Boeing aircraft, farm goods and energy products.
+
+On Thursday morning, Trump reached the Great Hall of the People in Beijing, where he was first greeted by Xi and then was accorded a ceremonial welcome before the Republican leader inspected the Guard of Honour walking shoulder-to-shoulder with his Chinese counterpart.
+
+Meanwhile, during the high-stakes deliberations, Xi is expected to press Trump on US arms sales to Taiwan, while both leaders are discussing export controls on advanced chips, AI safeguards and global security concerns linked to Iran.
+
+Trump called the gathering potentially "the biggest summit ever," saying, "It's an honour to be with you. It's an honour to be your friend and the relationship between China and the USA is going to be better than ever before".
+
+Yet Xi’s remarks set the broader tone - less ceremony, more caution. As global tensions mount, Beijing appears keen to frame itself as the steadier actor, nudging Washington toward cooperation and warning that rivalry between the two powers carries costs far beyond either capital.
+
+\- Ends
+
+May 14, 2026 09:14 IST
+
+---
+
+### US to persuade China to play 'more active role' in resolving Iran war crisis during Trump-Xi talks: Rubio
+*SECTIONS US · business*
+
+US Secretary of State Marco Rubio has said Washington hopes to convince Beijing during the talks between President Donald Trump and his Chinese counterpart to play a "more active role" in resolving the Iran war crisis.
+
+Trump arrived in Beijing last night for a three-day visit during which he is scheduled to have several rounds of talks with Xi. Trump was welcomed by Chinese Vice President Han Zheng at the airport, a rare honour that broke with usual diplomatic protocol.
+
+Speaking to Fox News aboard Air Force One on the way to Beijing, Rubio said the Iran war was a "huge source of instability" and "threatens to destabilise Asia more than any other part of the world because it's heavily reliant on the straits for energy".
+
+  
+
+"It's in (China's) interest to resolve this. We hope to convince them to play a more active role in getting Iran to walk away from what they're doing now and trying to do now in the Persian Gulf," he said, the Hong Kong-based South China Morning Post reported on Thursday.
+
+When departing for Beijing on Tuesday, Trump told reporters that he planned to have a "long talk" with the Chinese leader about Iran.
+
+But Trump also said he did not think he needed Xi's help with Iran and that the US would "win it one way or the other, peacefully or otherwise."
+
+In the Fox News interview, Rubio described Beijing as Washington's "top political challenge" but added that "it's also the most important relationship for us to manage".
+
+"(China is) a big, powerful country... We're going to have interests of ours that are going to conflict with interests of theirs, and to avoid wars and maintain peace and stability in the world, we're going to have to manage those," he said.
+
+"There are clearly areas where they're so important for the United States that we're going to have to raise those issues. And we'll continue to do so...There might be some areas of cooperation, too, and we want to make sure we don't walk away from those," he said.
+
+Rubio also said the US was "not trying to constrain China, but their rise cannot come at our expense".
+
+"Their rise cannot come at our fall," he said.
+
+"When (China's) plan conflicts with the national interest of the United States, we need to do what's right for the United States. And that'll come up on this trip, but more importantly, that'll be a feature of this relationship for a long time," he said.
+
+---
+
+### Influencer arrested for posts targeting Sunjay Kapur’s family
+*India Today News Desk · general*
+
+## Delhi Police arrested 'The Skin Doctor' for allegedly posting objectionable content targeting late industrialist Sunjay Kapur's family.
+
+Dr Neelam Singh alias The Skin Doctor (left) has been arrested by Delhi Police for comments against the Sunjay Kapur (right) family.
+
+Social media influencer 'The Skin Doctor' was arrested by the Delhi Police on Wednesday for allegedly posting objectionable content targeting the family of late industrialist Sunjay Kapur following his death, police sources said.
+
+The accused, Dr Neelam Singh, popularly known on social media as 'The Skin Doctor', was arrested after complaints were filed on behalf of the industrialist’s family, police sources told news agency PTI.
+
+Based on the complaint, the influencer was questioned and later taken into custody, while police initiated legal proceedings and launched an investigation into the matter, officers said.
+
+In multiple social media posts, The Skin Doctor had raised doubts over Sunjay Kapur’s will, which was reportedly made three months before his death and left his entire wealth to his wife, Priya Sachdev. In another post, the influencer also questioned cardiac failure being cited as the cause of his death. However, the police have not disclosed the specific comments in question.
+
+'The Skin Doctor', a dermatologist by profession, has nearly one million followers on X, over one lakh followers on Instagram, and a significant presence across other social media platforms as well.
+
+Sunjay Kapur, who headed auto components major Sona Comstar and also served as president of the Automotive Component Manufacturers Association, died in June 2025 at the age of 53 after collapsing during a polo match in Windsor, England. He was also the former husband of Bollywood actor Karisma Kapoor.
+
+Findings by a UK coroner said the death was due to natural causes linked to left ventricular hypertrophy and ischaemic heart disease.
+
+His sudden death triggered a massive succession and inheritance dispute over his estimated Rs 30,000 crore estate and family-controlled trusts involving his mother Rani Kapur, wife Priya Sachdev Kapur, and children from his earlier marriage with Karisma Kapoor.
+
+The ongoing legal dispute centres on ownership stakes in Sona Comstar and a contested will allegedly signed in March 2025 that reportedly left most of his personal estate to Priya Kapur. His children and mother have challenged the will’s authenticity, alleging suspicious circumstances and possible forgery.
+
+\- Ends
+
+May 14, 2026 09:12 IST
+
+---
+
+### HBSE 10 Results 2026 today at bseh.org.in: Check Haryana Board Matric direct link, how to download scores from DigiLocker, passing marks
+*Trending Desk · business*
+
+The Haryana Board of School Education (HBSE) Class 10 results are coming out today, putting an end to the long wait of lakhs of students for their examination outcomes, senior board officials have confirmed. Students can check and download their results on the official website - bseh.org.in. The Haryana Matric results will be announced through a press conference during which key details such as pass percentage, names of toppers, and best-performing districts will also be shared. Once the announcement is made, direct result links will be activated on the official portal and students will be able to access their scorecards by entering the required credentials.
+
+**
+
+## HBSE 10th Results 2026 Date and Time
+
+Date: 14th May, Thursday
+
+Time: Yet to be known
+
+There are various ways in which students will be able to check their results for HBSE Result 2026, such as the official site of the Board of School Education Haryana at BSEH Official Website, DigiLocker site, as well as an SMS service from the board.
+
+## How to check Haryana 10th HBSE Results online?
+
+Students can follow the below steps:
+
+Visit the official Haryana Board website at bseh.org.in.
+
+Click on the “Secondary Examination Result 2026” link available on the homepage.
+
+Select the examination type for which you want to check the result.
+
+Enter your roll number and date of birth in the required fields.
+
+Fill in the captcha code shown on the screen.
+
+Click on the “Search” button to view your result and marksheet.
+
+Download and save the marksheet for future reference.
+
+## Passing marks
+
+Students must score at least 33 per cent marks in each subject to pass the examination. This rule applies to all subjects under the Haryana Board Class 10 evaluation system.
+
+## How to check HBSE Board Results on DigiLocker?
+
+Students can download their HBSE Class 10 or Class 12 digital marksheets through DigiLocker by following these steps:
+
+Visit the DigiLocker website or open the DigiLocker mobile app
+
+Sign in using your registered mobile number
+
+New users must first complete the registration process using an Aadhaar-linked mobile number
+
+After logging in, go to the “Issued Documents” section
+
+Select the Haryana Board or HBSE result option
+
+Enter details such as roll number and date of birth
+
+Click on “Submit” to access the marksheet
+
+Download and save the digital copy for future reference
+
+
+---
+
 ## 13 May 2026
 
 ### Tamil Nadu Government Floor Test LIVE: Vijay’s TVK faces trust vote today as AIADMK faction rift deepens
