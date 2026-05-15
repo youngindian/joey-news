@@ -31,7 +31,8 @@ import traceback
 import xml.etree.ElementTree as ET
 import zlib
 from dataclasses import dataclass, field
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import Callable, Optional
 from urllib.request import Request, urlopen
@@ -50,6 +51,23 @@ DEFAULT_TIMEOUT = 25
 # carry multiple columnists, so 3 catches the freshest few.
 N_EDITORIAL = 2
 N_OPINION = 3
+
+# Drop articles whose extracted body is shorter than this. Caught at E2:
+# DH's "Speak Out" letters-compilation is 45 chars; a real editorial is
+# always > 1500 chars. 500 catches stub content without false negatives.
+MIN_BODY_CHARS = 500
+
+# Source order for stable per-date sorting (matches the 4-paper v1 set).
+_SOURCE_RANK = {
+    "The Hindu": 0,
+    "Deccan Chronicle": 1,
+    "Deccan Herald": 2,
+    "The New Indian Express": 3,
+}
+_TYPE_RANK = {"editorial": 0, "opinion": 1}
+
+# Indian Standard Time — display dates in IST since the audience is Indian.
+IST = timezone(timedelta(hours=5, minutes=30))
 
 OUTPUT_FILE = Path(__file__).resolve().parent.parent / "editorials.md"
 
@@ -453,29 +471,228 @@ SCRAPERS: list[tuple[str, Callable[[], list[Article]]]] = [
 ]
 
 
-def write_stub() -> None:
-    """E1-compatible stub. E3 replaces this with the real markdown writer
-    that consumes the Article records produced above."""
-    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    content = (
-        "# Editorials\n\n"
-        f"_Last updated: {now}_\n\n"
-        "This file is the aggregated daily editorial / opinion feed for "
-        "the Joey app's `joey.editorials` plugin. It is regenerated daily "
-        "by `.github/workflows/fetch-editorials.yml`.\n\n"
-        "**Scaffold only (Layer E2 — scrapers verified; markdown writer "
-        "lands at E3).**\n"
+# ── Date helpers ────────────────────────────────────────────────────────────
+
+
+def parse_published_at(s: str) -> Optional[datetime]:
+    """Parse either RFC 822 (RSS pubDate) or ISO 8601 (JSON-LD datePublished).
+    Returns timezone-aware datetime or None if unparseable."""
+    s = (s or "").strip()
+    if not s:
+        return None
+    # RFC 822: "Thu, 15 May 2026 14:29:56 +0530"
+    try:
+        dt = parsedate_to_datetime(s)
+        if dt is not None:
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            return dt
+    except (TypeError, ValueError):
+        pass
+    # ISO 8601: "2026-05-15T20:31:13Z" or "2026-05-15T20:31:13+05:30"
+    try:
+        # Accept trailing 'Z' which fromisoformat in <3.11 doesn't.
+        normalized = s.replace("Z", "+00:00") if s.endswith("Z") else s
+        dt = datetime.fromisoformat(normalized)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt
+    except ValueError:
+        return None
+
+
+# ── Markdown roundtrip ──────────────────────────────────────────────────────
+
+_HEADER_TMPL = (
+    "# Editorials\n\n"
+    "_Last updated: {now}_\n\n"
+    "Aggregated daily editorial / opinion feed for the Joey app's "
+    "`joey.editorials` plugin. Regenerated daily at 7 AM IST by "
+    "`.github/workflows/fetch-editorials.yml`.\n\n"
+)
+
+# Recognise YYYY-MM-DD or "15 May 2026" date headers. Strict match for ## DATE
+# (with at least one space after ##) so we don't mistake article titles for
+# date headers.
+_DATE_HEADER_RE = re.compile(r"^##\s+(.+?)\s*$", re.MULTILINE)
+
+
+def parse_existing_md(text: str) -> list["Article"]:
+    """Parse editorials.md back into Article records for merge-and-rewrite.
+
+    Tolerant by design — items whose source/type/url can't be parsed are
+    skipped silently (with a log line) rather than crashing the run. Matches
+    the "self-heal at read time, don't crash" principle from the Joey
+    architecture docs.
+    """
+    articles: list[Article] = []
+    if not text.strip():
+        return articles
+
+    # Split into date sections. Each section is everything between one
+    # ##-date header and the next.
+    matches = list(_DATE_HEADER_RE.finditer(text))
+    sections: list[tuple[str, str]] = []
+    for i, m in enumerate(matches):
+        date_str = m.group(1).strip()
+        body_start = m.end()
+        body_end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
+        sections.append((date_str, text[body_start:body_end]))
+
+    for date_str, body in sections:
+        # Each item ends at "\n---\n" or EOF.
+        item_blocks = re.split(r"\n---+\s*\n", body)
+        for raw in item_blocks:
+            block = raw.strip()
+            if not block:
+                continue
+            # Title: ### title (first line)
+            title_match = re.match(r"^###\s+(.+?)\s*$", block, re.MULTILINE)
+            if not title_match:
+                continue
+            title = title_match.group(1).strip()
+            after_title = block[title_match.end():].lstrip()
+            # Source line: *Source · Type*  (first line after title)
+            source_match = re.match(r"\*([^*\n]+)\*\s*$", after_title, re.MULTILINE)
+            if not source_match:
+                # No source line — skip this block (corrupted entry)
+                print(f"  ⚠ skipping un-parseable item '{title[:50]}' (no source line)", file=sys.stderr)
+                continue
+            source_line = source_match.group(1).strip()
+            # source_line is "Source · Type" — split on " · "
+            parts = [p.strip() for p in source_line.split("·")]
+            if len(parts) < 2:
+                print(f"  ⚠ skipping '{title[:50]}' (malformed source line: {source_line!r})", file=sys.stderr)
+                continue
+            source = parts[0]
+            article_type = parts[1].lower()
+            after_source = after_title[source_match.end():].strip()
+            # URL: [Read full article](URL)
+            url_match = re.search(r"\[Read full article\]\((https?://[^\)]+)\)", after_source)
+            url = url_match.group(1).strip() if url_match else ""
+            # Paragraphs: everything between source line and URL, split on blank lines.
+            content_region = after_source[:url_match.start()] if url_match else after_source
+            paragraphs = [p.strip() for p in re.split(r"\n\s*\n", content_region.strip()) if p.strip()]
+            articles.append(Article(
+                source=source,
+                type=article_type,
+                title=title,
+                url=url,
+                published_at=date_str,  # we only stored the rendered date — good enough for dedup + sort
+                paragraphs=paragraphs,
+            ))
+    return articles
+
+
+def _sort_key(a: "Article") -> tuple:
+    """Order: newest date first, then by source rank, then by type rank,
+    then by URL for deterministic ties.
+
+    Date is truncated to day-only in IST so intra-day publication times don't
+    reorder items within the same display group — opinion would jump above
+    editorial if the opinion piece happens to publish later in the morning.
+    """
+    dt = parse_published_at(a.published_at)
+    if dt is None:
+        # Try the rendered-date format ("15 May 2026") used by parse_existing_md.
+        try:
+            dt = datetime.strptime(a.published_at.strip(), "%d %B %Y").replace(tzinfo=IST)
+        except (ValueError, AttributeError):
+            dt = datetime(1970, 1, 1, tzinfo=IST)
+    date_only = dt.astimezone(IST).replace(hour=0, minute=0, second=0, microsecond=0)
+    return (
+        -date_only.timestamp(),
+        _SOURCE_RANK.get(a.source, 99),
+        _TYPE_RANK.get(a.type.lower(), 99),
+        a.url or a.title,
     )
-    OUTPUT_FILE.write_text(content, encoding="utf-8")
-    print(f"wrote {OUTPUT_FILE} ({len(content)} bytes)")
+
+
+def _ist_date_key(a: "Article") -> str:
+    """The date label under which this article gets grouped in the rendered md."""
+    dt = parse_published_at(a.published_at)
+    if dt is not None:
+        return dt.astimezone(IST).strftime("%-d %B %Y")
+    # Already a rendered date string (came from parse_existing_md round-trip).
+    return a.published_at.strip()
+
+
+def render_markdown(articles: list["Article"]) -> str:
+    """Render the merged Article list into the canonical editorials.md format.
+
+    Schema mirrors `current-affairs.md` (consumed by the existing Daily News
+    parser at `apps/joey/src/plugins/daily-news/currentAffairs.ts`) so the
+    Editorials plugin can fork-and-tweak that parser at E5 instead of writing
+    a fresh one. Only difference: source line is `*Source · Type*` with Type
+    being "Editorial" or "Opinion" (Title-case).
+    """
+    sorted_articles = sorted(articles, key=_sort_key)
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    out = [_HEADER_TMPL.format(now=now)]
+
+    # Group by date (preserving sort order).
+    current_date = None
+    for a in sorted_articles:
+        date_label = _ist_date_key(a)
+        if date_label != current_date:
+            out.append(f"## {date_label}\n\n")
+            current_date = date_label
+
+        type_titlecase = a.type.title()  # "editorial" -> "Editorial"
+        out.append(f"### {a.title}\n")
+        out.append(f"*{a.source} · {type_titlecase}*\n\n")
+        for p in a.paragraphs:
+            out.append(f"{p}\n\n")
+        if a.url:
+            out.append(f"[Read full article]({a.url})\n\n")
+        out.append("---\n\n")
+
+    return "".join(out)
+
+
+_TIMESTAMP_LINE_RE = re.compile(r"^_Last updated:.*$", re.MULTILINE)
+
+
+def _body_signature(text: str) -> str:
+    """Compare-only view of editorials.md content — strips the timestamp
+    line so we don't trigger spurious daily commits when only the
+    'Last updated' line differs."""
+    return _TIMESTAMP_LINE_RE.sub("", text).strip()
+
+
+def write_markdown(scraped: list["Article"]) -> None:
+    """Read existing editorials.md → drop new items whose URL is already
+    present → merge → sort → write back. Skip the write entirely if the
+    rendered body matches the existing body (modulo timestamp) — keeps the
+    daily GH Action from producing churn-only commits."""
+    existing_text = OUTPUT_FILE.read_text(encoding="utf-8") if OUTPUT_FILE.exists() else ""
+    existing = parse_existing_md(existing_text)
+    if existing:
+        print(f"  read {len(existing)} existing items from {OUTPUT_FILE.name}")
+
+    seen_urls = {a.url for a in existing if a.url}
+    new_items = [a for a in scraped if a.url and a.url not in seen_urls]
+    skipped_dup = len(scraped) - len(new_items)
+    if skipped_dup:
+        print(f"  deduped: {skipped_dup} new-scrape items already in file")
+
+    merged = existing + new_items
+    rendered = render_markdown(merged)
+
+    if _body_signature(rendered) == _body_signature(existing_text):
+        print(f"  no new content — skipping write ({len(merged)} items unchanged)")
+        return
+
+    OUTPUT_FILE.write_text(rendered, encoding="utf-8")
+    print(f"  wrote {OUTPUT_FILE} ({len(rendered)} bytes, {len(merged)} items total)")
 
 
 def main() -> int:
     print("=" * 60)
-    print(f"Editorials aggregator — E2 scraper run @ {datetime.now(timezone.utc).isoformat()}")
+    print(f"Editorials aggregator run @ {datetime.now(timezone.utc).isoformat()}")
     print("=" * 60)
 
-    all_articles: list[Article] = []
+    scraped: list[Article] = []
     failures: list[str] = []
     for name, fn in SCRAPERS:
         try:
@@ -486,21 +703,26 @@ def main() -> int:
                 continue
             for a in items:
                 print(f"  ✓ [{name}] {a.title[:64]} — {a.body_chars} chars / {len(a.paragraphs)} ¶")
-            all_articles.extend(items)
+            scraped.extend(items)
         except Exception as e:
             print(f"  ✗ [{name}] FAILED: {type(e).__name__}: {e}", file=sys.stderr)
             traceback.print_exc(file=sys.stderr)
             failures.append(f"{name}: {type(e).__name__}")
 
     print()
-    print(f"=== Total: {len(all_articles)} articles "
+    print(f"=== Scraped: {len(scraped)} articles "
           f"across {len(SCRAPERS) - len(failures)}/{len(SCRAPERS)} streams")
     if failures:
         print(f"=== Failures: {', '.join(failures)}")
 
-    # E1 verification path — still write the stub. E3 replaces this with
-    # the real markdown writer using `all_articles`.
-    write_stub()
+    # Filter out stub / not-really-an-article entries by body length.
+    filtered = [a for a in scraped if a.body_chars >= MIN_BODY_CHARS]
+    dropped = len(scraped) - len(filtered)
+    if dropped:
+        print(f"=== Filtered: dropped {dropped} item(s) below {MIN_BODY_CHARS}-char floor")
+
+    # Merge new items with existing editorials.md (URL-dedup), sort, write back.
+    write_markdown(filtered)
 
     # Exit non-zero only if every stream failed — partial success is OK.
     if failures and len(failures) == len(SCRAPERS):
