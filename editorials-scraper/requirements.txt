@@ -1,0 +1,2 @@
+# E1 scaffold: stdlib-only. Per-source HTML parsing deps land at E2.
+# When E2 lands, expect to add: lxml, beautifulsoup4
