@@ -1,3 +1,840 @@
+## 15 May 2026
+
+### NEET UG 2026 new date OUT; Examination rescheduled for June 21
+*Vanshika Tyagi · general*
+
+NEET UG 2026 new date OUT; Examination rescheduled for June 21
+
+[Read full article](https://www.dnaindia.com/education/report-neet-ug-2026-new-date-out-examination-rescheduled-for-june-21-3210364)
+
+---
+
+### Death toll from storms in Uttar Pradesh rises to 111
+*SECTIONS Death toll · business*
+
+New Delhi: Powerful storms that swept across India's northern Uttar Pradesh state this week killed at least 111 people, government officials said, raising an earlier death toll as more districts reported casualties.
+
+Gales, lightning and torrential rain battered the state on Wednesday, ripping tin roofs from buildings and uprooting trees that blocked roads, footage broadcast on television showed.
+
+  
+
+Uttar Pradesh, home to more than 240 million people, is frequently hit by storms during the summer months ahead of the monsoon rains, with lightning strikes a regular cause of death.
+
+The Relief Commissioner's office, the state aid agency, had initially said that on May 13, 89 people had been killed and 72 injured, with more than 200 homes damaged.
+
+It later updated the toll to 111 dead as more reports came in, according to published remarks in The Hindu newspaper on Friday.
+
+"Reports of 111 deaths were received," the statement read, adding that 72 people were injured.
+
+The Times of India reported the toll at 117, but AFP was not able to immediately confirm the figure.
+
+One video, widely shared by Indian media, appeared to show a man hurled high into the air in the state's Bareilly district, as a building roof was torn off.
+
+AFP was unable to immediately verify the video, but the Press Trust of India (PTI) news agency spoke to a survivor in hospital who said he was the man seen in the video.
+
+Nanhe Ansari, a labourer, said he was trying to secure a tin roof with a rope when an intense gust lifted the sheet metal, and he clung on.
+
+"The tin sheet started shaking due to strong winds, so I asked them to bring a rope to tie it down," he told PTI from his hospital bed.
+
+"While some of us were holding it and one person was tying it, a very strong gust of wind came. My grip did not loosen, and I was lifted nearly 50 feet (15 metres) into the air along with the tin sheet and thrown about 80 feet away," he added.
+
+"The sheet fell first, and then I fell into a maize field filled with water. I thought I would not survive, but I did."
+
+India's weather office has in recent years warned of an increase in extreme weather events, including intense thunderstorms and lightning, which experts link to rising temperatures and changing climate patterns.
+
+The statement said officials have been instructed to distribute financial aid to the affected families.
+
+The violent weather that tore across Uttar Pradesh on Wednesday was part of widespread pre-monsoon thunderstorm activity triggered by unstable atmospheric conditions.
+
+---
+
+### Musk accused of ‘selective amnesia,’ Altman of lying as OpenAI trial nears end
+*Reuters · technology*
+
+A lawyer for Elon Musk hammered at the credibility of OpenAI CEO Sam Altman on Thursday, near the end of a trial over whether to hold the ChatGPT maker and its leaders responsible for allegedly transforming the nonprofit into a vehicle to enrich themselves.
+
+OpenAI’s lawyers fought back, claiming the world’s richest person waited too long to claim OpenAI breached its founding agreement to build safe artificial intelligence to benefit humanity, and couldn’t claim he was essential to its success.
+
+“Mr. Musk may have the Midas touch in some areas, but not in AI,” said William Savitt, a lawyer for OpenAI. “To succeed in AI, as it turns out, all Mr. Musk can do is come to court.” The claims were made during closing arguments of a trial in the Oakland, California, federal court.
+
+Musk is ⁠suing OpenAI ​and Altman for breach of charitable trust and unjust enrichment.
+
+He accused them of manipulating him into giving $38 million as well as going behind his back by attaching a for-profit business to its original nonprofit and accepting tens of billions of dollars from Microsoft and other investors to grow.
+
+Musk is seeking about $150 billion in damages from OpenAI and Microsoft, which would be paid to OpenAI’s nonprofit. He also wants Altman and OpenAI President Greg Brockman removed from their roles.
+
+## Musk lawyers faults ‘arrogance’
+
+In his closing argument, Musk’s lawyer Steven Molo told jurors that five witnesses, including Musk, former ​OpenAI ​board members and former OpenAI Chief Scientist Ilya Sutskever, testified that Altman was a liar.
+
+Story continues below this ad
+
+Molo also noted ⁠that during cross-examination on Tuesday, Altman did not say yes unequivocally when asked if he was completely trustworthy and did not mislead people in business.
+
+“Sam Altman’s credibility is directly at issue in this case,” Molo said. “If you don’t believe him, they cannot win.”
+
+Molo accused ‌OpenAI of wrongfully trying to enrich investors and insiders at the nonprofit’s expense, and failing to prioritize AI’s safety. He also challenged Brockman’s goals for the business, citing Brockman’s statement that his own OpenAI stake was worth nearly $30 billion.
+
+“The arrogance, the lack of sensitivity, the failure to account for just common decency is really, really abhorrent.”
+
+Story continues below this ad
+
+Musk also accused Microsoft, which invested $1 billion in OpenAI in 2019 and $10 billion in 2023, of aiding and abetting OpenAI’s wrongful conduct.
+
+“Microsoft was aware of what OpenAI was doing every step of the way,” Molo said.
+
+## OpenAI says Musk wanted control, had ‘selective amnesia’
+
+Sarah Eddy, another lawyer for the OpenAI defendants, accused Musk and his legal team in her closing argument of resorting to “sound bites and irrelevant false accusations.”
+
+Eddy said by 2017, everyone associated with OpenAI – including Musk, then still on its board – knew ⁠it needed more money to fulfill its mission than ⁠it could raise as a nonprofit.
+
+Story continues below this ad
+
+“Mr. Musk wanted to turn OpenAI into a for-profit company that he could control,” she said. “But the other founders refused to turn the keys of AGI (artificial general intelligence) over to one person, ⁠let alone Elon Musk.”
+
+She also said if Musk truly ‌believed AI should serve humanity, he would not have pushed to fold OpenAI into his electric car company Tesla or made his rival ​xAI a for-profit company.
+
+Musk had a three-year statute of limitations to sue, and OpenAI’s lawyers said his Augst ‌2024 lawsuit came too late because he knew several years earlier about OpenAI’s growth plans.
+
+Eddy expressed disbelief that Musk claimed he did not read a four-page term sheet in 2018 discussing OpenAI’s plan to seek outside investments.
+
+Story continues below this ad
+
+“One of the most sophisticated businessmen in the history of the world” wouldn’t have “stuck ‌his head in the sand,” Eddy said. Savitt ​accused Musk of having “selective ​amnesia.”
+
+Microsoft’s lawyer Russell Cohen ​said in his closing statement that Microsoft wasn’t involved in the key events of the case, and was “a responsible partner at every step.” Altman and Brockman were in court for closing arguments. Musk is accompanying U.S. President Donald Trump in China.
+
+## Public concerned about AI
+
+The ​trial comes amid public concerns over AI as it penetrates society.
+
+People use AI for myriad purposes such ⁠as facial recognition, financial advice, journalism, medical diagnoses, and harmful deepfakes.
+
+Story continues below this ad
+
+Many people express distrust of the technology and worry it could displace people from their jobs.
+
+The nine-person jury is expected to deliberate on Monday.
+
+U.S. District Judge Yvonne Gonzalez Rogers and lawyers in the case will return to court that day to discuss how OpenAI should be restructured and what damages ‌should be paid if Musk wins. ⁠There will be no remedies if Musk loses. OpenAI competes with AI companies such as Anthropic and xAI, and is preparing for a possible initial public offering that could value the business at $1 trillion.
+
+Microsoft has spent more than $100 billion on its partnership with OpenAI, ​a Microsoft executive testified.
+
+Musk’s xAI is now part of his space and rocket company SpaceX, which is also preparing a potential blockbuster IPO.
+
+---
+
+### Five witnesses called Sam Altman a liar: Musk and OpenAI clash in explosive final courtroom showdown
+*Om Gupta · general*
+
+The courtroom battle between Elon Musk and OpenAI entered its final and most dramatic phase on Day 13. Closing arguments began in the closely watched trial that could reshape the future of one of the world’s most powerful AI companies. The jury is now preparing to decide whether OpenAI abandoned its original charitable mission and whether CEO Sam Altman, co-founder Greg Brockman, and the OpenAI Foundation should be held legally liable.
+
+Elon Musk’s lead lawyer, Steven Molo, opened with a blistering attack on OpenAI’s leadership, telling jurors that “five witnesses called Sam Altman a liar under oath.”
+
+Molo argued that the case ultimately revolves around three central claims: that Musk donated money to OpenAI for a specific charitable purpose that was later abandoned; that OpenAI executives unjustly benefited from those donations; and that Microsoft knowingly helped OpenAI violate its original mission.
+
+According to Molo, OpenAI insiders transformed a nonprofit research lab into a financial empire that enriched a small group of executives. He described them as “guys with $30 billion” who “never donated a nickel” yet now claim entitlement to the organisation’s value.
+
+The argument focused heavily on Altman’s public statements about ownership and control. Molo reminded jurors that Altman previously testified before the U.S. Senate that he held “no equity” in OpenAI. “That was a lie,” Molo said bluntly, arguing that the trial established Altman possesses a significant financial stake reportedly worth tens of billions of dollars.
+
+### Altman’s investments and Microsoft’s role come under scrutiny
+
+Molo also accused Altman of using his position to benefit personally through outside investments. He pointed to Altman’s undisclosed stakes in Helion Energy and Reddit, which Musk’s legal team characterised as self-dealing.
+
+Even without direct equity in OpenAI itself, Molo argued that Altman still exercised enormous influence through his power as CEO, including the ability to shape contracts, partnerships and business decisions.
+
+Trying to simplify the case for jurors, Molo used a dramatic analogy. Imagine someone steals $1 million from a bank, he said. It would not be a valid defense to argue that there was still $100 million left in the vault. According to Musk’s team, OpenAI’s nonprofit mission was breached regardless of how much value may remain inside the organisation.
+
+Molo further alleged that Microsoft was deeply involved in the transformation of OpenAI from the beginning. “Microsoft was aware of what OpenAI was doing every step of the way,” he told the jury, accusing the tech giant of helping Altman and Brockman violate OpenAI’s founding mission.
+
+### Billions of dollars could be at stake
+
+The stakes could become even larger in the coming days. While the current proceedings focus only on liability, a separate evidentiary hearing scheduled for Monday will determine how much money OpenAI may have to return if the jury sides with Musk. The potential disgorgement could involve billions of dollars.
+
+### OpenAI defense says Musk wanted control for himself
+
+But OpenAI’s defense team pushed back aggressively, portraying Musk not as a betrayed co-founder, but as a billionaire who originally wanted control of OpenAI for himself.
+
+Defense lawyer Sarah Eddy attacked the foundation of Musk’s case, arguing there is no evidence that his donations came with permanent binding restrictions. She told jurors Musk is trying to convince them that donations made years ago carried “strings” strong enough to “tie OpenAI up in knots forever.”
+
+Eddy also argued that no witness corroborated Musk’s version of events. According to the defense, Musk initially pushed to turn OpenAI into a for-profit company that he personally controlled. Other founders, she said, rejected the idea because they did not want one individual controlling artificial general intelligence, or AGI.
+
+“They refused to turn the keys of AGI over to one man,” Eddy said, “let alone Elon Musk.”
+
+### ‘Unilateral control’ allegation becomes key focus
+
+The defense went even further, accusing Musk of demanding “unilateral control” during critical 2017 negotiations over OpenAI’s future structure. Eddy presented evidence suggesting Musk wanted dominant authority over the organisation and even envisioned a future where his children could inherit control over AGI technology.
+
+The defense argued this directly contradicts Musk’s current public image as a defender of nonprofit governance and AI safety.
+
+Eddy also highlighted a financial inconsistency in Musk’s claims. While Musk had publicly pledged to donate $1 billion to OpenAI, the defense noted he ultimately contributed only about $38 million.
+
+### Jury prepares to decide OpenAI’s future
+
+As the trial now moves toward jury deliberations, the case has evolved far beyond a simple business dispute. At its centre lies a much bigger question: whether OpenAI’s transformation into an AI powerhouse represented a betrayal of its founding ideals — or whether Musk himself was the one who originally sought to reshape the organisation for personal control.
+
+\- Ends
+
+May 15, 2026 09:35 IST
+
+---
+
+### Bengaluru techie after quitting Rs 2.5 lakhs per month corporate job, now does odd jobs and travels: ‘Income has dropped but life is meaningful’
+*Unknown · business*
+
+For years, Bengaluru techie Apeksha Jain, lived the dream corporate life: a high-paying job, steady promotions, and a salary of Rs 2.5 lakh a month. But somewhere between office deadlines, dashboards, cubicles and long workdays, she says she stopped recognising herself. Today, her life looks completely different. She earns far less, works odd jobs while travelling through the mountains, and spends her days serving chai, managing hostels, and creating art. Yet according to her, this version of life finally feels meaningful and deeply fulfilling.
+
+Apeksha Jain, a former product manager with over 11 years of corporate experience, recently shared her unconventional journey through social media videos and interviews. In a reel that resonated widely online, Jain reflected on walking away from a stable corporate career to build something more personal and emotionally fulfilling. She explained that although leaving a secure job felt uncertain and frightening, choosing herself and her creative path finally felt right.
+
+  
+
+## Quitting the job for art  
+
+She also spoke about moments that reassured her after taking the leap. According to her, when strangers stopped at her art stall, listened to her story, and appreciated both her work and journey, it reminded her why she had chosen this path despite the risks.
+
+In a conversation with Hindustan Times, Jain revealed that her last drawn salary was around Rs 2.5 lakh per month. Over the years, she had worked with major companies including JPMorgan Chase, Accenture, and Wipro in Bengaluru.
+
+According to her social media posts, she once worked on building loan dashboards during her time at JPMorgan. But eventually, the fast-paced corporate structure stopped feeling meaningful to her. She later described how, somewhere between “deadlines and deliverables” in Bengaluru, she slowly lost touch with herself emotionally. Instead of chasing what she called a “perfect life,” she decided to search for a more real one.
+
+Now, her mornings often involve serving tea to travellers, interacting with strangers, volunteering at stays, and spending time in quieter mountain towns. She admitted that the lifestyle is not glamorous every single day, but she finally feels ownership over her life and choices.
+
+However, Jain has also repeatedly clarified that quitting a corporate job should never be romanticised as an impulsive decision. In another reel, she warned people against walking away from stable jobs without planning finances carefully. According to her, leaving a 9-to-5 role without preparation does not automatically create freedom and can instead create severe anxiety.
+
+## Questions to ask before quitting your 9-5 job  
+
+She advised people to first ask themselves practical questions before quitting, including whether they can survive several months without income, whether they have calculated fixed monthly expenses, and whether they are financially prepared for emergencies, loans, EMIs, or credit card bills.
+
+  
+
+Jain also stressed the importance of building sustainable freedom rather than temporary escape. Her advice included saving at least four to six months’ worth of expenses, exploring freelance or part-time work before quitting, and creating a small income stream in advance. According to her, the goal should not simply be escaping a job, but being able to live peacefully afterwards.
+
+## Her mother's death  
+
+A major turning point in her life came during the second wave of the COVID-19 pandemic, when she lost her mother, reported the Hindustan Times. The personal loss deeply affected her emotionally and forced her to rethink her definition of success, happiness, and fulfilment. After years of burnout and emotional exhaustion, she finally resigned from her corporate role in 2023 and began travelling full-time.
+
+Before taking that step, Jain planned her finances carefully. She calculated expected costs for hostel stays, food, travel, leisure activities, health emergencies, and even added a 20 per cent financial buffer for unexpected situations. Once she felt confident that her savings could comfortably support 8-9 months of budget travel, she decided to move ahead with the transition.
+
+## Her extensive travel and 'fulfilling' life  
+
+Following her resignation, she travelled extensively through places such as Spiti Valley, Manali, and Nainital.  
+During this journey, she volunteered at hostels and cafés before eventually working as a property manager and team manager at various travel stays. The work paid significantly less than her earlier corporate salary, often around Rs 15,000 to Rs 20,000 per month, but it gradually became her primary source of income.
+
+Despite the dramatic reduction in earnings, Jain says she has no regrets about the lifestyle downgrade. Success now means something entirely different from promotions and high salaries. She explained that while her earlier corporate life looked successful from the outside, it did not feel emotionally fulfilling internally. Now, even with a much smaller income and a far simpler lifestyle, she believes her life carries more meaning, peace, and personal satisfaction than before.
+
+---
+
+### OpenAI explores legal options against Apple: Reports
+*Reuters · technology*
+
+OpenAI is reportedly weighing legal options after growing frustrated with its AI partnership with Apple. (Image: Reuters)
+
+Apple’s two-year-old partnership with OpenAI has become strained, with the AI startup failing to see the expected benefits from its deal with the iPhone maker and preparing possible legal action, a person familiar with the matter said on Thursday.
+
+OpenAI wanted to resolve its issues with Apple without resorting to legal action, but its lawyers ⁠are ​actively working with an outside legal firm on a range of options, the source said. The options include notifying Apple of a breach of contract but not filing a full lawsuit, the source said, confirming ​a ​Bloomberg News report on OpenAI’s internal deliberations.
+
+Apple ⁠did not immediately respond to requests for comment.
+
+In 2024, Apple announced integration of its “Apple Intelligence” technology across ‌its apps incluing Siri and bringing OpenAI’s chatbot ChatGPT to its devices.
+
+Their partnership allows users to access ChatGPT results through Siri, while iPhone users can also sign up for ChatGPT memberships directly from the iOS settings menu.
+
+OpenAI believed that the deal would boost ChatGPT subscriptions and lead to deeper integration ⁠across Apple apps, but ⁠the relationship has deteriorated, the report said, adding that OpenAI’s attempts at renegotiating the deal have ⁠stalled.
+
+Bloomberg News ‌reported this month that Apple will allow users ​to select from third-party AI models and ‌OpenAI could lose its unique role within Apple’s software.
+
+Apple is testing integrations with both Anthropic’s Claude and Google Gemini ‌as part of ​this push, ​the report ​said.
+
+Story continues below this ad
+
+Apple’s embrace of other AI providers is not driving the company’s legal action, the source confirmed, ​because the partnership was not meant to be ⁠exclusive from the start.
+
+Google’s Gemini is expected to power Apple’s revamped Siri coming this year. Apple is scheduled to hold its ‌annual software developer ⁠conference in June, where it is expected to reveal more details about its AI plans.
+
+---
+
+### Indonesian woman’s filmy dupatta moment with Delhi man makes 52 million smile
+*India Today Trending Desk · general*
+
+## An Indonesian woman was standing near the doorway of a train at the New Delhi railway station while dressed in a white kurta set paired with a blue dupatta. As she leaned slightly out of the train, her dupatta accidentally slipped off and fell onto the railway tracks below.
+
+Indonesian woman’s filmy dupatta moment with Delhi man makes 52 million smile (Photos: Indah/Instagram)
+
+An Indonesian woman’s visit to India has gone viral after she found herself in the middle of a Bollywood-style moment at a railway station in New Delhi during her trip to India.
+
+Indah was standing near the doorway of a train at the New Delhi railway station while dressed in a white kurta set paired with a blue dupatta. As she leaned slightly out of the train, her dupatta accidentally slipped off and fell onto the railway tracks below.
+
+A local standing on the platform quickly noticed what had happened and immediately climbed down into the narrow gap between the train and the platform to retrieve the cloth. He then handed the dupatta back to her before walking away. Indah even offered him her hand to help pull him back up from the tracks, but he politely refused.
+
+Visibly surprised, Indah thanked the man repeatedly before boarding the train again.
+
+A video of the moment was shared on Instagram by Indah and it has now garnered over 52 million views.
+
+Social media users flooded the comments section, with many praising the man’s gesture and the way he handled the situation.
+
+“He risked his life for the dupatta,” one user wrote.
+
+Another commented, “He didn’t have a secret agenda. He didn’t hold her hand. He didn’t glance at her in a creepy way. He just saved the day and walked away like a hero.”
+
+Someone also noticed that, “He quietly picked up the shawl for the girl walking ahead and moved on without expecting even a simple ‘thank you’ in return.”
+
+During her India trip, Indah also visited several popular landmarks, including the Taj Mahal, Agra Fort and India Gate.
+
+\- Ends
+
+May 15, 2026 09:32 IST
+
+---
+
+### Hyderabad-bound Lufthansa flight from Frankfurt gets bomb threat via email
+*Abdul Basheer · general*
+
+A security alert was triggered at Hyderabad's Rajiv Gandhi International Airport after a bomb threat email was received regarding a Lufthansa flight arriving from Germany's Frankfurt, officials said on Friday.
+
+Airport sources told India Today that the airline's customer support received an email claiming that a bomb had been planted on flight LH-754 and that it would be detonated before the aircraft reached Shamshabad. Security agencies were immediately alerted, and emergency protocols were initiated.
+
+The flight landed safely at the airport, following which the aircraft was moved to the isolation bay for a detailed security inspection.
+
+Bomb disposal teams and airport security personnel began a thorough examination of the plane. Officials said further checks were underway and no immediate threat had been confirmed.
+
+Further details are awaited.
+
+### TWO FLIGHTS DIVERTED
+
+In a separate development, two incoming flights to Shamshabad Airport were diverted due to adverse weather conditions caused by strong winds.
+
+A flight arriving from Pune was diverted to Vijayawada, while an Emirates flight from Dubai was rerouted to Bengaluru.
+
+Sources said both flights attempted to land at Shamshabad twice but were unable to do so due to heavy wind impact. As a precaution, air traffic authorities directed the aircraft to alternate airports.
+
+Airport officials said operations were being monitored closely, with both security and weather-
+
+\- Ends
+
+Shipra Parashar
+
+May 15, 2026 09:32 IST
+
+---
+
+### Kerala SSLC Result 2026 Live: 10th scorecard at 3 pm today, how to download at keralaresults.nic.in
+*India Today Education Desk · general*
+
+### Download App
+
+NewsEducation TodayKerala SSLC Result 2026 Live: 10th scorecard at 3 pm today, how to download at keralaresults.nic.in
+
+Kerala 10th Result 2026
+
+Kerala SSLC 10th Result 2026 Live Updates: The Kerala Board will announce the Kerala SSLC result 2026 today at 3 pm. Over 4.17 lakh students who appeared for the Kerala Class 10 board exams can check their Kerala SSLC scorecard 2026 online through the official websites. Stay tuned for Kerala SSLC result date 2026 updates, toppers list, pass percentage, marks memo link, and Kerala SSLC marksheet download details.
+
+...
+
+Kerala SSLC 10th Result 2026 Live Updates: Kerala Board Class 10 scorecard, toppers, pass percentage, direct link (Photo: PTI)
+
+Kerala SSLC 10th Result 2026 Live: The Kerala Board of Public Examinations (KBPE) will declare the Kerala SSLC 10th Result 2026 today, May 15, at 3 pm.
+
+Students waiting for the Kerala SSLC result 2026 will be able to check their Kerala Class 10 result 2026 online through the official websites: keralaresults.nic.in, results.kite.kerala.gov.in, and sslcexam.kerala.gov.in.
+
+This year, more than 4.17 lakh students appeared for the Kerala board SSLC exam result 2026. The Kerala SSLC examinations were conducted from March 5 to March 30, 2026, across 3,031 exam centres in the state.
+
+To access the Kerala SSLC scorecard 2026, students will need their registration number and date of birth. The Kerala SSLC marksheet download link is expected to go live shortly after the official press conference.
+
+Students can also check the SSLC result 2026 Kerala through the Saphalam mobile application and DigiLocker services.
+
+Along with the Kerala 10th board exam result, the board is also expected to release details 
+
+Stay tuned for Kerala SSLC Result 2026 live updates, direct links, and Kerala Class 10 scorecard download steps.
+
+...
+
+May 15, 2026 09:57 IST
+
+### Kerala SSLC Result 2026: Exams were held from March 5 to 30
+
+The Kerala SSLC examinations 2026 were conducted from March 5 to March 30 across thousands of exam centres in Kerala, Lakshadweep, and Gulf regions. The Kerala Class 10 result 2026 will play a crucial role in Plus One admissions for students across the state.
+
+May 15, 2026 09:35 IST
+
+### Kerala 10th Result Live: How to check Kerala SSLC Result 2026 online
+
+Here are the steps to check Kerala SSLC scorecard 2026 online at keralaresults.nic.in:
+
+-   Visit keralaresults.nic.in
+-   Click on â€˜Kerala SSLC Result 2026â€™ link
+-   Enter registration number and DOB
+-   Submit details
+-   Download Kerala SSLC marksheet 2026
+-   Take a printout for future use
+
+May 15, 2026 09:34 IST
+
+### Kerala SSLC Result Live: Where to check scorecards
+
+Students can check the Kerala SSLC result 2026 on the official websites including keralaresults.nic.in, results.kite.kerala.gov.in, pareekshabhavan.kerala.gov.in, and sslcexam.kerala.gov.in.
+
+Due to heavy traffic after the result declaration, students are advised to keep their registration number and date of birth ready in advance.
+
+May 15, 2026 09:31 IST
+
+### Kerala SSLC Result 2026 Live: Class 10 results today at 3 pm
+
+The Kerala Pareeksha Bhavan will declare the Kerala SSLC 10th Result 2026 today, May 15, at 3 pm. More than 4.17 lakh students who appeared for the Kerala Class 10 board exams are waiting for the Kerala board SSLC exam result.
+
+Students can check the Kerala SSLC scorecard 2026 on keralaresults.nic.in and results.kite.kerala.gov.in
+
+---
+
+### Daily Briefing: India weighs withholding tax cut to woo foreign investors
+*Ariba · legal*
+
+For years, the term Polycystic Ovary Syndrome (PCOS) has been widely used to describe one of the most common hormonal conditions affecting women of reproductive age. However, experts have long argued that the name was incomplete, even misleading. But, now, after a landmark global effort led by Monash University, PCOS will be called Polyendocrine Metabolic Ovarian Syndrome (PMOS), which better reflects the condition’s complex, multisystem nature. Dr Garima Kachchawa, professor, obstetrics and gynaecology, All India Institute of Medical Sciences (AIIMS) Delhi, **explains the impact of the updated terminology**. Speaking to _The Indian Express_, she says: “the shift also underlines the need for women and clinicians to look beyond reproductive symptoms and recognise the broader health risks linked to the disorder”.
+
+_With that, let’s move on to the top stories from today’s edition:_
+
+-   Govt introduces a cut in withholding tax
+-   _A Woman’s Life_ at Cannes
+-   Karnataka hijab ban reversal
+
+🚨 **Big Story**
+
+Days after hiking import duty on gold, the Centre and the Reserve Bank of India are now considering multiple measures to **attract foreign investment inflows**, including a cut in the withholding tax rate on government bonds. Withholding tax is akin to a tax that is deducted at source and is paid by foreign investors on interest income they receive on their holding of Indian bonds. Amid the ongoing West Asia conflict, the policy makers are keen to conserve foreign exchange reserves and secure the external account.
+
+In our _Opinion_ section today, **Sachchidanand Shukla presents a case** for tax reforms in India to restore the confidence of foreign investors. Shukla writes: “Broader policy reforms that target energy security, distribution reforms, and the inclusion of the energy sector, specifically electricity and petroleum products, under GST will also have to be acted upon… India stands at a cusp, and the policy imperative is clear. Big bang reforms can draw capital, but structural reforms will ensure it stays and even grows the pie. The world is watching whether India can match ambition with execution.”
+
+**All ears:** External Affairs Minister **S Jaishankar told visiting Foreign Ministers** of the BRICS countries on Thursday that “safe and unimpeded maritime flows through international waterways, including the Strait of Hormuz and Red Sea, remain vital for global economic well-being”. He also underlined that “stability cannot be selective, and peace cannot be piecemeal”. Given the deep distrust between Iran and the UAE, Jaishankar tried to diplomatically balance the two sides, flagging energy disruptions as well as “unilateral coercive measures and sanctions”.
+
+⚡ **Only in Express**
+
+Story continues below this ad
+
+Our weekly columnist, **Neerja Chowdhury, delves into** the shifting norms of Indian democracy as the absence of outgoing leaders at the oath-taking ceremonies of new leaders in West Bengal and Tamil Nadu signals hardening faultlines. Chowdhury writes: “There has been a growing tendency now to dub political adversaries as “anti national” and view the Opposition as illegitimate. It betrays a mindset – that anyone opposed to the dominant viewpoint is not desirable. Such a trend may only go to justify one party rule. It is not surprising that the Opposition leaders are now getting disheartened amid claims that their turn may come only 20-30 years down the line. It does not give the younger politicians a stake in democracy.”
+
+📰 **From the Front Page**
+
+_**“Hijab requires neither politics, nor permission, nor public approval. But I am happy that those who come after me will be free to wear hijab in classrooms.”**_
+
+For the schoolgirls who once became the face of a fight they would rather not have fought, the Karnataka government’s withdrawal of the order that in 2022 effectively barred wearing of hijab in pre-university colleges (Classes 11 and 12) is a victory that holds little meaning for them. However, they hope it will mean more — that other girls who want to wear the hijab won’t have to make the choice between it and an education. The **four of them share how their lives** have changed since 2022.
+
+**Arrests:** The Biwal family in Rajasthan is now at the **centre of a storm** following the NEET 2026 paper leak, even as the Central Bureau of Investigation (CBI) officials remain tight-lipped. According to officials, it is alleged that Shubham Khairnar from Nashik, Maharashtra, shared the question paper with Yash Yadav of Gurgaon. Yash knew Vikas Biwal, Mangilal Biwal’s son, and shared the question paper with him. With the paper, for which they allegedly paid Rs 15-30 lakh, now in their possession, brothers Dinesh and Mangilal allegedly started selling it in Sikar for a profit. Dinesh, Mangilal, and Vikas have since been arrested by the CBI.
+
+📌 
+
+Story continues below this ad
+
+**Standoff:** Tensions between the Kuki and Naga communities spiralled on Thursday in Kangpokpi and Senapati districts, as dozens of villagers from each side were **abducted by groups** on the other. The abductions come a day after three church leaders were killed in an ambush in Manipur. There are 18 Liangmai Naga villagers who have been held captive by Kuki groups in Kangpokpi district, and around 29 Kuki villagers have been held by Naga groups, in Senapati district. Chief Minister Yumnam Khemchand Singh has appealed to both sides to maintain peace, stop the abductions, and “refrain from emotional responses.”
+
+**It’s Cannes time:** Charline Bourgeoise-Tacquet’s second feature, _A Woman’s Life_, (Cannes Competition section) attempts to answer the question filmmakers have continued to grapple with, as the society engages with the eternal dance of identity, gender politics, roles and responsibilities: _What is a woman’s life?_ **Shubhra Gupta, in her review, writes**: “Contemporary French cinema appears to delight in giving us fifty-something women, beautifully acknowledging their age, and the lines on their face, never downplaying their sensuality, and while a ‘A Woman’s Life’, does sink into occasion banality, it is never less than an enjoyable, thought-provoking drama.”
+
+⏳ **And Finally…**
+
+🏏With 15 runs needed off the final over, the fortunes of Mumbai Indians changed as Tilak Varma’s sparkling innings (75 no off 33) sealed the win and compounded Punjab Kings’s misery. The Indian Premier League (IPL) match on Thursday between MI and PBKS was quite a watch. Now, from 6 wins from 7 matches, Punjab have suffered five defeats in a row. In case you missed the match, **Venkata Krishna B describes**: “The sensational collapse has jeopardised their play-off prospects… With fluency missing, Punjab were one moment in the game and next moment paving a comeback for Mumbai.
+
+🎧 Lastly, don’t forget to tune in to **today’s episode** of our 3 Things podcast, where we discuss the selection of V D Satheesan as Kerala’s Chief Minister; new sociology curriculum at MS University in Vadodara that includes Modi Tattva, and RSS fieldwork. We also talk about a British-Indian doctor stranded in India following a Look Out Circular over a Facebook post.
+
+**That’s all for today. Have a wonderful day!**
+
+_**Until next time,**_  
+_**Ariba**_
+
+Story continues below this ad
+
+ Business As Usual by E P Unny
+
+---
+
+### CNG prices hiked by Rs 2/kg after petrol, diesel revision; check rates in your city
+*TOI Business Desk · business*
+
+NEW DELHI: After petrol and diesel prices were hiked, state-owned oil companies on Friday increased CNG prices by Rs 2 per kg, amid rising global energy crisis linked to the West Asia conflict.In Delhi, the price of CNG has been raised from Rs 77.09 per kg to Rs 79.09 per kg. The move comes a day after Mahanagar Gas Limited raised CNG prices across the Mumbai Metropolitan Region (MMR) by Rs 2 per kg, IANS reported.This development comes after petrol and diesel prices were hiked by Rs 3 per litre in petrol and diesel prices, pushing fuel rates higher across major metro cities.According to ANI, petrol in the national capital will now cost Rs 97.77 per litre, up from Rs 94.77, while diesel prices have risen to Rs 90.67 per litre from Rs 87.67.The latest increase is only a fraction of the hike required to fully offset the sharp rise in global energy prices since the outbreak of the West Asia conflict, PTI sources reported.
+
+### Petrol and diesel prices in metro cities  
+
+**City**
+
+**Petrol Price (Rs /litre)**
+
+**Change**
+
+**Diesel Price (Rs /litre)**
+
+**Change**
+
+Delhi
+
+Rs 97.77
+
++Rs 3.00
+
+Rs 90.67
+
++Rs 3.00
+
+Kolkata
+
+Rs 108.74
+
++Rs 3.29
+
+Rs 95.13
+
++Rs 3.11
+
+Mumbai
+
+Rs 106.68
+
++Rs 3.14
+
+Rs 93.14
+
++Rs 3.11
+
+Chennai
+
+Rs 103.67
+
++Rs 2.83
+
+Rs 95.25
+
++Rs 2.86
+
+Fuel prices had largely remained unchanged since April 2022, except for a one-time reduction of Rs 2 per litre each in petrol and diesel announced in March 2024 ahead of the Lok Sabha elections.The price revision comes amid growing concerns over global energy supplies after the conflict in West Asia disrupted trade routes, including the strategically important Strait of Hormuz.
+
+Oil prices have continued to soar ever since the Middle East conflict began, squeezing the crucial Strait of Hormuz. Earlier on Monday, Brent crude was up 2.69% to $104.01 a barrel while West Texas Intermediate, rose 2.54% to $97.84 a barrel. Despite the global turmoil, Centre has maintained that there is no shortage of fuel in the country and no plan to introduce rationing of petrol, diesel or LPG despite disruptions in global energy shipments linked to the Iran conflict and the Strait of Hormuz crisis.On May 12, Union petroleum and natural gas minister Hardeep Singh Puri said India had ensured stable fuel prices and uninterrupted energy supplies despite rising crude oil prices and global disruptions, while also significantly increasing domestic LPG production to meet growing demand.
+
+---
+
+### ‘What mistake did I make now?’: Ranveer Singh, Alia Bhatt’s co-star on how meeting Thalapathy Vijay changed his perspective of the Tamil Nadu CM
+*Trisha Dey · business*
+
+Thalapathy Vijay became the Honourable Chief Minister of Tamil Nadu on May 10, 2026. He assumed office following the Tamil Nadu Legislative Assembly election, where his party, Tamilaga Vettri Kazhagam (TVK), emerged victorious. Before joining politics, the Tamil superstar was last seen in the 2024 action-drama The Greatest of All Time. Vijay’s final film, Jana Nayagan, is yet to be released. Now, Bengali actor Tota Roy Chowdhury, who shared screen space with Ranveer Singh and Alia Bhatt in Rocky Aur Rani Kii Prem Kahaani, has shared his experience of working with Vijay in the 2014 action thriller Kaththi.
+
+## Tota Roy Chowdhury admires Thalapathy Vijay’s humbleness  
+
+Tota Roy Chowdhury, in a conversation with Sreemoyee Piu on her YouTube podcast, Straight Up With Shree, once revealed that the hierarchy in the South film industry is ‘very strict’, but he was surprised by how humble and polite Thalapathy Vijay was in their first interaction.
+
+Tota Roy Chowdhury, who played the role of Vivek Banerjee in director AR Murugadoss’ Kaththi, shared how Thalapathy Vijay’s secretary called the actor informing him that Vijay would like to have a random chat with him. This was after Tota had delivered a long page of dialogue in one take during the shoot.
+
+Tota Roy Chowdhury, who essayed the character of Alia Bhatt’s father in Rocky Aur Rani Kii Prem Kahaani, admitted that he was initially nervous, wondering if he had made a mistake on the sets. But his fears were quickly put to rest when Vijay welcomed him with remarkable warmth and humility. The Tamil Nadu CM politely invited Tota to sit, offered him coffee, and engaged him in a friendly conversation, asking about his film background and apologising for not knowing much about his work in regional cinema.
+
+## Tota Roy Chowdhury on Thalapathy Vijay  
+
+Much to Tota Roy Chowdhury’s surprise, Vijay praised him for his performance and expressed how much he had enjoyed working with him, leaving the Bengali actor deeply impressed by his graciousness and gentlemanly nature. Tota further shared that after the meeting, the film’s assistants were astonished to learn that Vijay had personally spent time chatting with him over coffee.
+
+Their reaction surprised Tota even more, as they spoke of Vijay with immense reverence and remarked that he was destined to become the future Chief Minister of Tamil Nadu. At the time, Tota did not fully grasp the weight of their words, but the memory resurfaced years later when Vijay officially entered politics.
+
+In February 2024, Vijay formally declared his political ambitions for the 2026 elections, marking his entry into active politics with the launch of his party, Tamilaga Vettri Kazhagam (TVK). Later that year, in October 2024, he strengthened his political presence by addressing his first major public rally.
+
+---
+
+### Petrol, Diesel Price Hike News LIVE: Fuel prices hiked by ₹3/litre after elections as crude costs bite | Mint
+*Tarunya Sanjay · economy*
+
+Live Updates
+
+## Petrol, Diesel Price hike news LIVE: Petrol and diesel prices across India were raised by ₹3 per litre on May 15, pushing fuel costs higher in Delhi, Mumbai, Kolkata, Chennai and other cities. The hike comes amid surging global crude oil prices and rising geopolitical tensions in West Asia.
+
+FILE - A man fills petrol in a two wheeler at a fuel pump in Prayagraj, in the northern Indian state of Uttar Pradesh, May 5, 2025. (AP Photo/Rajesh Kumar Singh, File)**(AP Photo/Rajesh Kumar Singh)**
+
+Petrol, Diesel Price hike news LIVE: Petrol and diesel prices were on Friday, May 15, increased by around ₹3 per per litre across major Indian metros including Delhi, Mumbai, Kolkata and Bengaluru. The revision comes amid ongoing volatility in global crude oil markets and domestic pricing adjustments by oil marketing companies. The hike is expected to add pressure on household budgets, transport operators, and logistics costs, with potential spillover effects on retail inflation.
+
+On social media, users widely expressed concern and frustration over rising living costs, making fuel prices a trending topic across platforms.
+
+Congress, the Opposition, has attacked the Modi government after petrol and diesel prices were increased by ₹3\. Consumers are also reacting to the fuel hike today as global crude prices go up. Congress, linking the fuel price hike to the completion of the Assembly election in four states and one union territory, said that PM Modi's "vasooli (extortion) begins" after the elections. Track Petrol, Diesel Price hike news LIVE here.
+
+15 May 2026, 10:00:44 AM IST
+
+## Petrol, Diesel Price hike news LIVE: Jabalpur consumer says fuel hike will hit lower-income families
+
+Jabalpur, Madhya Pradesh: Petrol and diesel prices have been hiked by ₹3 per litre each. A consumer, Shilpi Singh, says, "This will have a huge impact. For example, I go to college and I have to cover a distance of around 7-8 kilometers. You cannot always reach on time using public transport, so you are forced to use your own vehicle. I feel that this is affecting people a lot. I can clearly see its impact even in our homes. But I think the lower class and lower middle class people are the ones who are being affected the most by this."
+
+15 May 2026, 09:52:03 AM IST
+
+## Petrol, Diesel Price hike news LIVE: Delhi consumers react to fuel, CNG price rise
+
+As petrol and diesel prices go up by ₹3 per litre each and CNG prices rise by ₹2 per kg, a consumer at a fuel station in Delhi Gate says, "What can we do about this? These things come from other countries; they are not produced here. So whatever steps the government is taking, it is doing so in the interest of the country. What can we do in this situation? If all the goods are coming from outside, they will be expensive there too, and then they will have to be sold at higher prices here as well."
+
+Another consumer says, "It will definitely affect our expenses, and inflation is already high. The increase is not as much as expected, but it will still make a difference. The government has kept it somewhat under control, but there will still be an impact."
+
+15 May 2026, 09:42:59 AM IST
+
+## Petrol, Diesel Price hike news LIVE: DK Shivakumar attacks Centre over ₹3 fuel price hike
+
+Karnataka Deputy CM DK Shivakumar criticised the Centre over the ₹3 per litre hike in petrol and diesel prices, saying Prime Minister Narendra Modi had failed in managing international relations and controlling fuel costs. Referring to the government’s earlier Covid-era appeals, Shivakumar questioned how ordinary people could reduce fuel consumption when travel is essential for daily life. He also took a swipe at ministers’ security convoys and foreign trips amid rising fuel expenses. Catch LIVE updates on Petrol, Diesel Price hike news LIVE.
+
+15 May 2026, 09:21:57 AM IST
+
+## Petrol, Diesel Price hike news LIVE: Fuel prices hiked!
+
+Petrol, Diesel Price hike news LIVE: Petrol and diesel prices were hiked by ₹3 per litre across India on 15 May amid rising crude oil prices and tensions in West Asia. Petrol now costs ₹97.77 per litre and diesel ₹90.67 per litre in key cities, increasing fuel expenses for consumers and businesses. Catch LIVE updates on Petrol, Diesel Price hike news LIVE.
+
+HomeMoneyPetrol, Diesel Price Hike News LIVE: Fuel prices hiked by ₹3/litre after elections as crude costs bite
+
+---
+
+### Stock Market LIVE: Sensex up 300 pts, Nifty tops 23,800; Nifty Oil & Gas down post price hike
+*Business Standard · business, entrepreneur, finance*
+
+Sensex Today | Stock Market LIVE Updates Friday: In the broader markets, the Nifty MidCap and the Nifty SmallCap were trading 0.20 per cent and 0.55 per cent down, respectively
+
+[Read full article](https://www.business-standard.com/markets/news/stock-market-live-may-15-nse-bse-sensex-today-nifty-gift-nifty-trump-xi-meet-petrol-diesel-price-hike-ipos-q4-results-today-126051500093_1.html)
+
+---
+
+### Rahul Gandhi calls Narendra Modi 'compromised' PM who bargained for Adani in US & not trade deal
+*SECTIONS Rahul Gandhi calls Narendra Modi PM who bargained · business*
+
+Gautam Adani's likely relief in alleged criminal fraud case in the United States has drawn criticism by Opposition Leader Rahul Gandhi as the Congress leader said Prime Minister Narendra Modi did not strike a trade deal but bargained for Adani's release.
+
+Rahul Gandhi called Modi a 'compromised PM'.
+
+The compromised PM did not strike a trade deal, but a bargain for Adani's release, Rahul Gandhi wrote on X.
+
+  
+  
+
+This comes after Reuters reported citing unnamed sources that the US Justice Department is close to dropping criminal fraud charges against Indian billionaire Gautam Adani, who has pledged to invest $10 billion in the US economy.
+
+Bloomberg reported Gautam Adani and his nephew Sagar have agreed to pay a combined $18 million to settle allegations by the US Securities and Exchange Commission (SEC) that they made false and misleading statements about Adani Green Energy.
+
+Under the proposed settlement filed in a federal court on Thursday, Gautam Adani would pay $6 million, while Sagar would pay $12 million to resolve the SEC’s lawsuit filed in November 2024. The agreement still requires approval from a judge.
+
+The SEC had earlier alleged that Gautam Adani led efforts to pay or promise hundreds of millions of dollars in bribes to Indian officials to secure contracts needed by Adani Green for India’s largest solar power project. The regulator also claimed that he and his nephew wrongly promoted the company’s compliance with anti-bribery laws while raising $750 million through a bond offering.
+
+India and US have been engaged in talks for a trade deal for months and the countries declared on February the framework of the bilateral trade agreement. The text was released on February 7.
+
+However, the US Supreme on February 20 ruled against Trump's reciprocal tariffs, following which India is reportedly seeking to redraft the agreement.
+
+---
+
+### Who is Padma Jaiswal? IAS officer dismissed over corruption charges; a look at her career and education qualifications
+*Trending Desk · business*
+
+In a rare case of strict action against a serving IAS officer, the Centre has dismissed Padma Jaiswal, a 2003-batch AGMUT cadre officer, over corruption charges.
+
+Official sources said the dismissal order was issued earlier this week after receiving final approval from the President of India based on the recommendation of the Department of Personnel and Training (DoPT), which functions under the Prime Minister. In matters 
+
+When contacted, Jaiswal said, “I am not aware of any such development or any dismissal order being passed,” as per The Indian Express.
+
+  
+
+The action is linked to allegations from 2007-08, when Padma Jaiswal was serving as the Deputy Commissioner of West Kameng district in Arunachal Pradesh. A complaint lodged by local residents in February 2008 accused her of misusing her official position and misappropriating government funds. She was suspended in April 2008, although the suspension was later revoked in October 2010.
+
+During her career spanning more than two decades, Jaiswal held several important positions in Arunachal Pradesh, Delhi, Goa, and Puducherry.
+
+According to her LinkedIn profile, She studied at St. Xavier's School and later attended University Business School, Panjab University. She holds an MBA and is also a Company Secretary certified by Institute of Company Secretaries of India. In addition, she has worked as a UGC Research Fellow with academic focus areas including business administration, management, international affairs, financial management, and legal personnel management.
+
+---
+
+### Sensex opens 100 points up, Nifty above 23,700; IT stocks gain
+*Sonu Vivek · general*
+
+Benchmark stock market indices opened higher on Friday, despite the government raising petrol and diesel prices amid an energy crisis arising due to the West Asia war.
+
+The S&P BSE Sensex was up 292.55 points to 75,691.27, while the NSE Nifty50 gained 83.70 points to 23,773.30 as of 9:34 am.
+
+Dr. VK Vijayakumar, Chief Investment Strategist, Geojit Investments Limited, said that the 789 point rise in Sensex yesterday was mainly triggered by short covering.
+
+"FIIs were positioned heavily on the short side. There are rumours of measures to shore up the rupee and attract capital into the economy. We will have to wait for clarity on this," he added.
+
+After the opening bell, Infosys Ltd led the Sensex gainers, rising 2.87%. It was followed by Tech Mahindra Ltd, which gained 2.77%. Tata Consultancy Services Ltd moved up 2.14%, while HCL Technologies Ltd added 1.87%. Kotak Mahindra Bank Ltd also opened higher, rising 1.57%.
+
+Reliance Industries Ltd saw the sharpest fall, dropping 1.34%. Eternal Ltd declined 1.30%, State Bank of India Ltd was down 1.10%, Trent Ltd slipped 0.78%, and Bharat Electronics Ltd fell 0.70% in early trade.
+
+The market did not see any negative effect in early trade of the petrol, diesel prices rising by Rs 3 per litre.
+
+"The decision to increase the price of petrol and diesel by Rs 3 a litre and CNG by Rs 2 a kg indicate that the government is playing it safe through small increases, perhaps stage by stage, without triggering a sharp spike in cost-push inflation. This is a welcome step," said Vijaykumar.
+
+"There are some trends in the market which investors have to watch. The market is responding hugely positively to good Q4 results with double-digit price rises in some cases, and punishing poor results with double digit price crashes in some cases. This reflects the gap in market expectations and actual results," he added.
+
+"Another important trend is the continuing weakness in IT stocks and sustaining strength in pharmaceuticals stocks. This reflects the market perception of the prospects of these sectors in the present challenging environment," concluded Vijaykumar.
+
+_**(Disclaimer: The views, opinions, recommendations, and suggestions expressed by experts/brokerages in this article are their own and do not reflect the views of the India Today Group. It is advisable to consult a qualified broker or financial advisor before making any actual investment or trading choices.)**_
+
+\- Ends
+
+May 15, 2026 09:20 IST
+
+---
+
+### Guwahati: Pawan Khera appears before Crime Branch in case linked to Assam CM’s wife
+*ET Online · business*
+
+Pawan Khera appeared before investigators in Guwahati and said he answered all questions asked during the probe. He confirmed that he has been summoned again on May 25 and stated that “every responsible citizen must cooperate with an investigation.” When asked whether he stood by his earlier claims ...
+
+[Read full article](https://economictimes.indiatimes.com/news/india/guwahati-pawan-khera-appears-before-crime-branch-in-case-linked-to-assam-cms-wife/videoshow/131107553.cms)
+
+---
+
+### CBI arrests HPGCL Finance Director Amit Dewan in CREST scam, sent to four days remand
+*Jagpreet Singh Sandhu · legal*
+
+The alleged scam in CREST, involving nearly Rs 83 crore, had surfaced around two months ago.
+
+Probing the FIR registered in connection with the alleged Rs 83-crore scam involving the Chandigarh Renewable Energy and Science and Technology Promotion Society (CREST), the Central Bureau of Investigation (CBI) on Thursday arrested Haryana Power Generation Corporation Limited (HPGCL) Finance Director Amit Dewan, days after his arrest in the Rs 590-crore Panchkula bank fraud case.
+
+Dewan was produced before a special CBI court of Bhawna Jain in Chandigarh on Thursday after being brought from Ambala jail on a production warrant. The agency obtained his four-day custodial remand for further interrogation. He will now be produced before the court again on May 18.
+
+The CBI also secured a two-day remand of businessman Vikram Wadhwa, describing him as a key accused in both the Chandigarh Smart City and CREST scam cases.
+
+According to CBI sources, transactions worth Rs 75 lakh linked to CREST funds were traced to Wadhwa’s account and are currently under scrutiny. The alleged scam in CREST, involving nearly Rs 83 crore, had surfaced around two months ago.
+
+During the proceedings before the court, the CBI alleged that Dewan had close links with former IDFC Bank manager Ribhav Rishi, another accused in the case. CBI officials alleged that Rishi facilitated large cash payments to Dewan, allegedly ranging between Rs 25 lakh and Rs 50 lakh on multiple occasions.
+
+Sources from agency claimed that the money was allegedly used for personal expenses, including leisure trips.  
+The CBI is now examining the bank accounts and financial transactions of both the accused — Dewan and Wadhwa to trace the alleged diversion and withdrawal of government funds. CBI officials are also investigating suspected transactions and alleged cash movements connected to CREST accounts.
+
+As per sources from CBI, Dewan and Rishi allegedly floated shell companies and carried out suspicious transactions exceeding Rs 50 crore during Dewan’s tenure as Finance Director in HPGCL. It is also alleged that their association began through IPL cricket matches, where Rishi provided match tickets to Dewan.
+
+Story continues below this ad
+
+The agency has further alleged that government funds parked in fixed deposits were diverted through shell companies and later invested in the real estate sector. The alleged scam involved funds belonging to Chandigarh Smart City Limited and CREST that had been deposited with IDFC Bank.
+
+The agency officials also claimed that two delivery workers had allegedly been hired specifically to move cash and documents linked to the transactions. Efforts are underway to trace and question them.
+
+The case was initially unearthed by Chandigarh Police, which had detected alleged irregularities worth Rs 116.84 crore in Chandigarh Smart City Limited and around Rs 83 crore in CREST. Later, the Chandigarh Administration recommended a CBI probe to the Union Ministry of Home Affairs, following which two fresh FIRs were registered by the agency.
+
+Dewan was earlier arrested on March 18 in connection with the Panchkula bank fraud case and was subsequently dismissed from service.
+
+Story continues below this ad
+
+Separately, a case abetment to suicide was also registered against him after HPGCL finance officer Balwant Singh allegedly died by suicide by jumping from the eighth floor of Haryana Civil Secretariat. In his alleged suicide note, Singh had named Dewan.
+
+Jagpreet Singh Sandhu is a Senior Correspondent at The Indian Express, based in Chandigarh. He is a veteran reporter with over a decade of experience, specializing in legal, crime, and environmental reporting across the tri-city area (Chandigarh, Mohali, and Panchkula). Professional Background Core Beat: He primarily covers the Punjab and Haryana High Court, District Courts, CBI Courts, and Consumer Commissions. His legal reporting is known for breaking down complex judgments and tracking long-standing criminal cases. Environmental Reporting: Jagpreet has become a key voice in reporting on the deteriorating air quality and weather patterns in the Punjab-Haryana region. Crime & Technology: He frequently reports on cybercrime, digital arrest scams, and the intersection of technology and law enforcement, such as the development of citizen-centric policing apps. Recent Notable Articles (Late 2025) His late 2025 coverage has focused on significant judicial verdicts, major financial scams, and public health concerns: 1. Legal & CBI Court Verdicts "12 years on, CBI court acquits Haryana judge, parents in wife’s death case" (Dec 17, 2025): Detailed coverage of the acquittal of a judicial officer in a high-profile dowry death case from 2013. "‘Wicked & evil mind’: Court gives man 30-year term for kidnapping, sexually assaulting 8-year-old" (Dec 16, 2025): A report on a stern judgment from a Chandigarh district court in a POCSO case. "Man acquitted in rape case after victim found ‘very happy’ in wedding reception" (Dec 9, 2025): Covering a unique legal observation regarding consensual relationships and age verification. 2. Investigative & Scams "CBI registers FIR in Rs 1.14-cr Patient Welfare Grant scam at PGIMER" (Dec 19, 2025): An exposé on how funds meant for poor patients were siphoned off through forged documents and a photocopy shop inside the PGIMER campus. "Month-long torture, Rs 85 lakh transfers: How ‘Innocence Certificate’ led to a ‘digital arrest’ of an elderly couple" (Dec 12, 2025): Detailing a sophisticated cyber fraud targeting senior citizens in Chandigarh. 3. Environment & Public Safety "Panchkula air turns ‘very poor’, fourth worst in country" (Dec 22, 2025): Reporting on the sudden spike in pollution levels in Panchkula compared to neighbouring cities. "Soon, you can snap that overspeeding car, and report to Chandigarh Police" (Dec 16, 2025): Breaking news on a new mobile application being developed to allow citizens to report traffic violations via geo-tagged photos. 4. Gangster Culture & Crime "City Beautiful in the crosshairs of gangsters" (Dec 14, 2025): A feature analysis of how Chandigarh has increasingly become a staging ground for extortion and rivalries between gangster modules. "Shooters wanted for Parry murder held by Delhi Police Special Cell" (Dec 18, 2025): Following the developments in a high-profile murder case in Chandigarh’s Sector 26. Signature Style Jagpreet is recognized for his tenacious follow-up on cold cases and his ability to report on courtroom drama with a focus on victim rights. His work often highlights administrative lapses, whether in the handling of patient welfare funds or the enforcement of environmental standards. ... 
+
+**Stay updated with the latest - Click here to follow us on Instagram**
+
+© The Indian Express Pvt Ltd
+
+-   Tags:
+-   CBI
+
+---
+
+### Silver tumbles Rs 11,700, gold down Rs 1,600 as Iran war tensions stoke inflation worries. All eyes on Trump-Xi meet
+*Veer Sharma · economy*
+
+Gold and silver prices opened sharply lower on Multi Commodity Exchange (MCX) on Friday as rising energy prices revived inflation concerns and strengthened expectations that interest rates could stay elevated for longer. Investors were also closely monitoring talks between U.S. President Donald Trump and Chinese President Xi Jinping.
+
+In the domestic market, MCX silver futures for July 2026 delivery dipped Rs 11,700 or 4% to Rs 2,79,458 per kg. Gold futures for June 2026 delivery were down Rs 1,600 or 1%% Rs 1,60,355 per 10 grams. In the previous session, silver and gold ended flat.
+
+Market sentiment toward gold remained under pressure as higher crude oil prices pushed inflation worries back into focus, driving bond yields and the U.S. dollar higher. That, in turn, has weakened expectations of near-term rate cuts, weighing on bullion prices.
+
+In the international market, spot gold fell for a fourth straight session, declining 0.8% to $4,613.19 per ounce, its weakest level since May 6. The precious metal has fallen 2.1% so far this week. Among other precious metals, spot silver dropped 3.1% to $80.93 per ounce, platinum slipped 1.7% to $2,021.75, while palladium declined 0.9% to $1,423.75.
+
+Trump is set to hold a series of meetings with Xi in Beijing, with the discussions expected to focus on economic issues, preserving the fragile trade truce and addressing geopolitical tensions, including the Middle East conflict.
+
+The U.S. president is also expected to seek China’s support in resolving the conflict launched alongside Israel in late February, though analysts believe Beijing is unlikely to provide the backing Washington is seeking.
+
+  
+
+## How should you trade gold?
+
+Manoj Kumar Jain of Prithvi Finmart said gold and silver prices are expected to remain volatile in today’s session amid fluctuations in the dollar index and the outcome of the U.S.-China Presidents’ summit.
+
+He said gold has support at $4,634-4,600 per troy ounce and resistance at $4,722-4,770, while silver has support at $83.00-80.00 and resistance at $87.70-90.00 per troy ounce.
+
+On the MCX, gold has support at Rs 1,60,300-1,59,100 and resistance at Rs 1,63,200-1,64,400, while silver has support at Rs 2,85,500-2,78,800 and resistance at Rs 2,96,600-3,02,000.
+
+Jain advised investors to avoid fresh buying positions in gold and silver at current levels ahead of the outcome of the meeting between the U.S. and Chinese presidents.
+
+## Gold rates in physical markets
+
+### Gold Price today in Delhi  
+
+Standard gold (22 carat) prices in Delhi stand at Rs 1,19,168/8 grams while pure gold (24 carat) prices stand at Rs 1,29,816/8 grams.
+
+### Gold Price today in Mumbai  
+
+Standard gold (22 carat) prices in Mumbai stand at Rs 1,19,048/8 grams while pure gold (24 carat) prices stand at Rs 1,29,872/8 grams.
+
+### Gold Price today in Chennai  
+
+Standard gold (22 carat) prices in Chennai stand at Rs 1,20,408/8 grams while pure gold (24carat) prices stand at Rs 1,31,352/8 grams.
+
+### Gold Price today in Hyderabad  
+
+Standard gold (22 carat) prices in Hyderabad stand at Rs 1,19,048/8 grams while pure gold (24 carat) prices stand at Rs 1,29,872/8 grams.
+
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)
+
+---
+
+### Inaugural Air India flight lands at Halwara terminal from Delhi; turns into BJP show of strength
+*Express News Service · legal*
+
+Union minister Ravneet Singh Bittu with Rajya Sabha MPs Vikramjit Sahney and Rajinder Gupta landing at Halwara, Friday. (Express photo)
+
+The inaugural Air India flight from Delhi to Ludhiana landed at the newly developed Halwara Civil Terminal at 7.05 am on Friday.
+
+Union Minister of State and senior BJP leader Ravneet Singh Bittu, along with two Rajya Sabha MPs from Punjab — philanthropist and businessman Vikramjit Sahney and Trident Group chairman Rajinder Gupta — were among the passengers on the first flight.
+
+Both Sahney and Gupta were among the seven Rajya Sabha MPs who recently switched from the Aam Aadmi Party (AAP) to the BJP.
+
+In a post on X, Bittu said: “Ludhiana takes flight! A historic milestone reached today as we boarded the inaugural flight to Halwara Airport along with MP Vikramjit Sahney Ji and MP Rajinder Gupta Ji. Fulfilling a 30-year-old demand, this operationalisation is a massive boost for our local industry and economic growth. Huge thanks to PM Narendra Modi Ji for this visionary gift to Punjab. The sky is the limit for Ludhiana’s trade and exports.”
+
+> Ludhiana Takes Flight! 🛫
+> 
+> ​A historic milestone reached today as we boarded the inaugural flight to Halwara Airport along with MP Vikramjit Sahney Ji and MP Rajinder Gupta Ji.
+> 
+> ​Fulfilling a 30-year-old demand, this operationalization is a massive boost for our local industry… pic.twitter.com/8AtttH4mMx
+> 
+> — Ravneet Singh Bittu (@RavneetBittu) May 15, 2026
+
+Around 60 passengers arrived at Halwara on the inaugural flight, including several local BJP leaders from Ludhiana who had reached Delhi on Thursday.
+
+The Halwara airport has been developed by expanding the existing Indian Air Force (IAF) base in the Raikot subdivision of Ludhiana district.
+
+While airport authorities had planned a “water cannon salute” to welcome the first flight at Halwara, it was dropped at the last minute due to lack of permission from the IAF.
+
+Story continues below this ad
+
+“There were some security issues due to which we had to drop the water cannon salute,” said Jagir Singh, chief executive officer of Halwara airport with the Airports Authority of India (AAI).
+
+Meanwhile, celebrations were dampened for the ruling AAP in Punjab following the recent arrest of its Industry and Commerce Minister Sanjeev Arora by the Enforcement Directorate. Arora, the AAP MLA from Ludhiana West, had been vigorously pursuing the Halwara airport project and was scheduled to travel on the inaugural flight, but is currently in ED custody.
+
+Jagraon Additional Deputy Commissioner Manjit Singh Cheema, who welcomed the first flight, said: “We had arranged traditional Punjabi folk music and dance to welcome the passengers. Nearly 60 passengers arrived on the first flight.”
+
+According to the schedule released by Air India on its website, the Delhi-Halwara flight will operate two round trips daily. The morning flight will take off from Delhi at 5.55 am and land at Halwara at 7.05 am. From Halwara, it will depart for Delhi at 7.55 am and land in Delhi at 9.10 am.
+
+Story continues below this ad
+
+For the second trip, the aircraft will take off from Delhi at 12.55 pm and land at Halwara at 2.10 pm. The last flight of the day will depart from Halwara at 2.40 pm and land in Delhi at 3.55 pm.
+
+Divya Goyal is a Principal Correspondent at The Indian Express, based in Ludhiana (Punjab). She is widely recognized for her human-interest storytelling and in-depth investigative reporting on social and political issues in the region. Professional Profile Experience: With over 13 years in journalism, she joined The Indian Express in 2012. She previously worked with Hindustan Times. Education: A gold medalist in English Journalism from the Indian Institute of Mass Communication (IIMC), Delhi. Core Beats: She covers a diverse range of subjects, including gender issues, education, the Sikh diaspora, heritage, and the legacy of the Partition. She has also reported on minority communities in Pakistan and Afghanistan. Awards and Recognition Divya has earned significant acclaim for her sensitivity toward gender and social disparities: Laadli Media Award (2020): For her investigative report "Punjab: The Invisible Drug Addicts," which exposed the gender disparity in treating women addicts. Laadli Media Award (2023): For a ground report on the struggles of two girls who had to ride a boat to reach their school in a border village of Punjab. Signature Style Divya is known for "humanizing the news." Rather than just reporting on policy, she often focuses on the individuals affected by it—such as students dealing with exam stress, farmers struggling with diversification, or families impacted by crime. Her work often bridges the gap between West (Pakistan) and East (India) Punjab, exploring shared heritage and common struggles. X (Twitter): @DivyaGoyal\_ ... 
+
+**Stay updated with the latest - Click here to follow us on Instagram**
+
+© The Indian Express Pvt Ltd
+
+---
+
+### Sensex, Nifty surge led by IT; Rs 3 fuel hike too small as Brent tops $100, ONGC gains; what investors should note
+*Varsha Agarwal · general*
+
+The rally was narrow, led almost entirely by IT and select heavyweights like PowerGrid and Titan. Banking was split; HDFC Bank and Kotak Bank gained, but SBI, Axis Bank, and ICICI Bank closed lower. But OMC bleeds despite the Rs 3 fuel price hike. What investors should note?
+
+The Indian stock market opened in green on Friday, with benchmark indices traded with mild gains, holding above their previous closing levels amid mixed moves in heavyweights. despite mixed global cues and crude oil price movements. The BSE Sensex was up 51.10 points, or 0.07%, at 75,449.82 as of 9:20 AM. The index opened at 75,497.10 and touched an early high of 75,666.01 before easing. The day’s low so far is 75,251.15. On Thursday, Sensex closed at 75,398.72. The NSE Nifty 50 traded 36.90 points higher, or 0.16%, at 23,726.50 by 9:21 AM. Nifty opened at 23,731.40, hit a high of 23,774.95 and a low of 23,663.35 in early deals. Its previous close was 23,689.60.
+
+## **Sensex Nifty Today: ONGC gains, OMCs bleed on high crude, what experts say**
+
+The rally was narrow, led almost entirely by IT and select heavyweights like PowerGrid and Titan. Banking was split; HDFC Bank and Kotak Bank gained, but SBI, Axis Bank, and ICICI Bank closed lower.
+
+With a fuel price hike of Rs 3, the Oil and gas stocks showed a clear split in early trade, with upstream major ONGC gaining while oil marketing companies extended losses as Brent crude stayed above $100 per barrel.  In early trade, ONGC opened strong at Rs 303.80 but gave up gains to trade 0.55% lower by mid-morning. Hindustan Petroleum (HPCL) was the worst hit, falling 2.43% or ₹9.15 to Rs 367.95. Bharat Petroleum (BPCL) lost 1.22% to Rs 291.50, down Rs 3.60. Indian Oil Corporation (IOC) shed 0.89% to Rs 139.00, down Rs 1.25. 
+
+Abhishek Bhilwaria, AMFI-registered MFD, says, "Investors must note that this Rs 3 per litre hike is inadequate to bridge the severe under-recovery gap created by Brent crude soaring past $100 per barrel. Consequently, upstream giant ONGC remains the primary beneficiary due to expanding profit margins on exploration, making it a stronger choice for capital appreciation. Conversely, downstream oil marketing companies like IOCL, BPCL, and HPCL will continue to face depressed earnings, potential analyst downgrades, and dividend cuts until global oil prices stabilise or the Indian government grants them a multi-billion-dollar fiscal bailout package."
+
+## **Sensex Nifty Today: What investors should note**
+
+"Navigating the stock market successfully requires investors to balance macroeconomic realities with disciplined, research-backed execution. Investors must closely monitor global macroeconomic factors, such as sticky inflation keeping central bank interest rates higher for longer, volatile commodity prices like elevated crude oil, and major geopolitical trade updates, while simultaneously capitalising on long-term secular growth trends like artificial intelligence infrastructure. To manage risk effectively, individuals should completely avoid herd mentality and emotional market timing, choosing instead to focus on strict portfolio diversification, digital operational safety, and deep fundamental analysis of a company's free cash flow and debt-to-equity ratios, suggests Mr Bhilwaria. 
+
+"The market outlook for the near term remains cautiously optimistic, as buying interest from lower levels and improving market breadth indicate gradual strengthening in sentiment. However, with Nifty approaching the 23,900–24,000 resistance zone and Bank Nifty nearing key supply areas, some consolidation or stock-specific volatility cannot be ruled out. Stability in global markets and continued support from banking and broader market segments will remain crucial for sustaining the ongoing recovery momentum," suggests Mr Hitesh Tailor, Technical Analyst, Choice Broking.
+
+
+---
+
 ## 14 May 2026
 
 ### MGL Hikes Mumbai CNG Price To Rs 84/kg, Auto Unions Seek Fare Revision
