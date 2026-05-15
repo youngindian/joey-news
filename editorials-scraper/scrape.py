@@ -69,7 +69,13 @@ _TYPE_RANK = {"editorial": 0, "opinion": 1}
 # Indian Standard Time — display dates in IST since the audience is Indian.
 IST = timezone(timedelta(hours=5, minutes=30))
 
-OUTPUT_FILE = Path(__file__).resolve().parent.parent / "editorials.md"
+# Rolling window for the live editorials.md. Items older than this move to
+# the monthly archive in archive/editorials-YYYY-MM.md.
+WINDOW_DAYS = 90
+
+REPO_ROOT = Path(__file__).resolve().parent.parent
+OUTPUT_FILE = REPO_ROOT / "editorials.md"
+ARCHIVE_DIR = REPO_ROOT / "archive"
 
 
 # ── Data model ──────────────────────────────────────────────────────────────
@@ -475,8 +481,14 @@ SCRAPERS: list[tuple[str, Callable[[], list[Article]]]] = [
 
 
 def parse_published_at(s: str) -> Optional[datetime]:
-    """Parse either RFC 822 (RSS pubDate) or ISO 8601 (JSON-LD datePublished).
-    Returns timezone-aware datetime or None if unparseable."""
+    """Parse RFC 822 (RSS pubDate) → ISO 8601 (JSON-LD datePublished) →
+    '15 May 2026' (rendered date format from prior runs of this script).
+    Returns timezone-aware datetime in source TZ; None if unparseable.
+
+    Single source of truth used by `_sort_key`, `_ist_date_key`, and the
+    archive cutoff math — keep them all going through this one parser so
+    they can't drift apart.
+    """
     s = (s or "").strip()
     if not s:
         return None
@@ -491,12 +503,16 @@ def parse_published_at(s: str) -> Optional[datetime]:
         pass
     # ISO 8601: "2026-05-15T20:31:13Z" or "2026-05-15T20:31:13+05:30"
     try:
-        # Accept trailing 'Z' which fromisoformat in <3.11 doesn't.
         normalized = s.replace("Z", "+00:00") if s.endswith("Z") else s
         dt = datetime.fromisoformat(normalized)
         if dt.tzinfo is None:
             dt = dt.replace(tzinfo=timezone.utc)
         return dt
+    except ValueError:
+        pass
+    # Rendered-date format produced by render_markdown: "15 May 2026" or "5 May 2026".
+    try:
+        return datetime.strptime(s, "%d %B %Y").replace(tzinfo=IST)
     except ValueError:
         return None
 
@@ -592,13 +608,7 @@ def _sort_key(a: "Article") -> tuple:
     reorder items within the same display group — opinion would jump above
     editorial if the opinion piece happens to publish later in the morning.
     """
-    dt = parse_published_at(a.published_at)
-    if dt is None:
-        # Try the rendered-date format ("15 May 2026") used by parse_existing_md.
-        try:
-            dt = datetime.strptime(a.published_at.strip(), "%d %B %Y").replace(tzinfo=IST)
-        except (ValueError, AttributeError):
-            dt = datetime(1970, 1, 1, tzinfo=IST)
+    dt = parse_published_at(a.published_at) or datetime(1970, 1, 1, tzinfo=IST)
     date_only = dt.astimezone(IST).replace(hour=0, minute=0, second=0, microsecond=0)
     return (
         -date_only.timestamp(),
@@ -613,8 +623,7 @@ def _ist_date_key(a: "Article") -> str:
     dt = parse_published_at(a.published_at)
     if dt is not None:
         return dt.astimezone(IST).strftime("%-d %B %Y")
-    # Already a rendered date string (came from parse_existing_md round-trip).
-    return a.published_at.strip()
+    return a.published_at.strip()  # last-resort: pass through whatever we had
 
 
 def render_markdown(articles: list["Article"]) -> str:
@@ -660,11 +669,102 @@ def _body_signature(text: str) -> str:
     return _TIMESTAMP_LINE_RE.sub("", text).strip()
 
 
+# ── Rolling window + archive ────────────────────────────────────────────────
+
+
+def _archive_path(month_key: str) -> Path:
+    return ARCHIVE_DIR / f"editorials-{month_key}.md"
+
+
+def render_archive_markdown(articles: list["Article"], month_key: str) -> str:
+    """Same per-item format as the live file, but with an archive-specific
+    H1 and NO `_Last updated:` line (archives are immutable in spirit —
+    once a month rolls off the live file it stops being mutated except for
+    occasional late-arriving items)."""
+    sorted_articles = sorted(articles, key=_sort_key)
+    out = [f"# Editorials archive — {month_key}\n\n"]
+    current_date = None
+    for a in sorted_articles:
+        date_label = _ist_date_key(a)
+        if date_label != current_date:
+            out.append(f"## {date_label}\n\n")
+            current_date = date_label
+        type_titlecase = a.type.title()
+        out.append(f"### {a.title}\n")
+        out.append(f"*{a.source} · {type_titlecase}*\n\n")
+        for p in a.paragraphs:
+            out.append(f"{p}\n\n")
+        if a.url:
+            out.append(f"[Read full article]({a.url})\n\n")
+        out.append("---\n\n")
+    return "".join(out)
+
+
+def split_window(merged: list["Article"]) -> tuple[list["Article"], dict[str, list["Article"]]]:
+    """Split into (in_window, archive_buckets_by_YYYY-MM).
+
+    Date math gotcha per the plan: use the article's published_at, NOT today's
+    date. Otherwise late-arriving items (e.g. a column scraped a few days
+    after publication) would be measured from the wrong start.
+
+    Items with un-parseable published_at are KEPT in the live file rather
+    than silently orphaned — they'd otherwise be invisible.
+    """
+    cutoff_ist = (
+        datetime.now(IST)
+        .replace(hour=0, minute=0, second=0, microsecond=0)
+        - timedelta(days=WINDOW_DAYS)
+    )
+    in_window: list[Article] = []
+    archive_buckets: dict[str, list[Article]] = {}
+    for a in merged:
+        dt = parse_published_at(a.published_at)
+        if dt is None:
+            in_window.append(a)
+            continue
+        dt_ist = dt.astimezone(IST)
+        if dt_ist >= cutoff_ist:
+            in_window.append(a)
+        else:
+            month_key = dt_ist.strftime("%Y-%m")
+            archive_buckets.setdefault(month_key, []).append(a)
+    return in_window, archive_buckets
+
+
+def update_archives(archive_buckets: dict[str, list["Article"]]) -> int:
+    """For each month bucket, merge with existing archive file (URL-dedup),
+    write back if content changed. Returns count of archive files modified."""
+    if not archive_buckets:
+        return 0
+    ARCHIVE_DIR.mkdir(exist_ok=True)
+    modified = 0
+    for month_key, items_for_month in sorted(archive_buckets.items()):
+        path = _archive_path(month_key)
+        existing_text = path.read_text(encoding="utf-8") if path.exists() else ""
+        existing = parse_existing_md(existing_text)
+        seen_urls = {a.url for a in existing if a.url}
+        new_in_month = [a for a in items_for_month if a.url and a.url not in seen_urls]
+        if not new_in_month:
+            continue
+        merged_for_month = existing + new_in_month
+        rendered = render_archive_markdown(merged_for_month, month_key)
+        if rendered.strip() == existing_text.strip():
+            continue
+        path.write_text(rendered, encoding="utf-8")
+        print(
+            f"  archived {len(new_in_month)} item(s) to {path.relative_to(REPO_ROOT)} "
+            f"({len(merged_for_month)} items in month)"
+        )
+        modified += 1
+    return modified
+
+
 def write_markdown(scraped: list["Article"]) -> None:
-    """Read existing editorials.md → drop new items whose URL is already
-    present → merge → sort → write back. Skip the write entirely if the
-    rendered body matches the existing body (modulo timestamp) — keeps the
-    daily GH Action from producing churn-only commits."""
+    """Read existing editorials.md → dedup new items → merge with existing →
+    split at the 90-day window → write archive files for out-of-window items
+    → write the live file with only in-window items. Skip the live-file
+    write if its body is unchanged so quiet days don't produce churn commits.
+    """
     existing_text = OUTPUT_FILE.read_text(encoding="utf-8") if OUTPUT_FILE.exists() else ""
     existing = parse_existing_md(existing_text)
     if existing:
@@ -677,14 +777,22 @@ def write_markdown(scraped: list["Article"]) -> None:
         print(f"  deduped: {skipped_dup} new-scrape items already in file")
 
     merged = existing + new_items
-    rendered = render_markdown(merged)
 
+    # Roll the window — archive files first so out-of-window items are
+    # durable on disk before we remove them from the live file.
+    in_window, archive_buckets = split_window(merged)
+    n_to_archive = sum(len(v) for v in archive_buckets.values())
+    if n_to_archive:
+        print(f"  rolling window: {n_to_archive} item(s) older than {WINDOW_DAYS} days")
+    update_archives(archive_buckets)
+
+    rendered = render_markdown(in_window)
     if _body_signature(rendered) == _body_signature(existing_text):
-        print(f"  no new content — skipping write ({len(merged)} items unchanged)")
+        print(f"  no new content — skipping live-file write ({len(in_window)} items unchanged)")
         return
 
     OUTPUT_FILE.write_text(rendered, encoding="utf-8")
-    print(f"  wrote {OUTPUT_FILE} ({len(rendered)} bytes, {len(merged)} items total)")
+    print(f"  wrote {OUTPUT_FILE.name} ({len(rendered)} bytes, {len(in_window)} items)")
 
 
 def main() -> int:
