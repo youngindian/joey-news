@@ -1,3 +1,895 @@
+## 16 May 2026
+
+### Head of criminals: RG Kar victim's mother slams Mamata Banerjee after cops' suspensions
+*India Today News Desk · general*
+
+The mother of the RG Kar Medical College rape and murder victim, now BJP MLA Ratna Debnath, launched a blistering attack on former West Bengal chief minister Mamata Banerjee after the new state government suspended three senior police officers over alleged mishandling of the case. Debnath, MLA from Panihati, said Banerjee is the "head of criminals" and claimed that if she is jailed, the truth behind the case and the identities of others involved would come out.
+
+Speaking to reporters after the suspensions, Debnath alleged a larger conspiracy behind the crime and the subsequent investigation. "There are many criminals, and the head of them is Mamata Banerjee. If she is caught and jailed, then the names of all the criminals will come out," news agency ANI quoted her as saying.
+
+"The people who had dinner with my daughter that night have not been investigated yet. Only the principal is in jail," she added.
+
+The remarks come a day after West Bengal Chief Minister Suvendu Adhikari announced disciplinary action against former Kolkata Police Commissioner Vineet Kumar Goyal, former Deputy Commissioner of Police (North) Abhishek Gupta and Deputy Commissioner of Police (Central) Indira Mukherjee over alleged lapses in the investigation into the August 2024 rape and murder at RG Kar Medical College and Hospital.
+
+The state government has also ordered departmental proceedings against the officers.
+
+Ratna Debnath also directly accused the Trinamool Congress president and senior health officials of being responsible for the incident.
+
+"College authorities, including Mamata Banerjee, are responsible for this incident. Also, our then Health Secretary Narayanswaroop Nigam is also involved in the murder of my daughter," she alleged.
+
+Her husband, Sekharranjan Debnath, echoed the accusations, alleging that the case was deliberately covered up from the beginning.
+
+"An IPS officer attempted to cover up this case right from day one. These instructions came directly from former Chief Minister Mamata Banerjee. That fact has been proven today. She should have taken this step earlier, but she did not," he told _ANI_.
+
+At the same time, he welcomed the action taken by the present administration.
+
+"However, the new Chief Minister has now taken action. Therefore, I thank him. There are many other people involved; they must all be brought to justice, that is what needs to be done...," he added.
+
+## THE 2024 RG KAR RAPE AND MURDER CASE
+
+The case dates back to August 9, 2024, when a junior doctor was found dead inside a seminar hall at the state-run RG KAR Medical College in Kolkata.
+
+Sanjay Roy, a civic volunteer, was arrested and later sentenced to life imprisonment.
+
+However, the victim’s family has consistently maintained that Roy was not the only person involved, and that crucial leads were ignored during the probe.
+
+Ratna Debnath, who entered politics after the case and won the Panihati Assembly seat on a BJP ticket, has repeatedly pledged to push for a deeper investigation.
+
+Her latest remarks underscore the continuing political and legal fallout from one of Bengal’s most controversial criminal cases, with the family insisting that the full conspiracy remains concealed, and more arrests are yet to be made.
+
+\- Ends
+
+With ANI inputs
+
+May 16, 2026 09:11 IST
+
+---
+
+### Politics of revenge in Bengal: FIR against Mamata Banerjee's nephew Abhishek
+*Monica Singh · general*
+
+## Politics of revenge in Bengal: FIR against Mamata Banerjee's nephew Abhishek
+
+Bidhannagar Police have filed an FIR against TMC MP Abhishek Banerjee over alleged provocative and inflammatory election speeches shared on social media during the West Bengal Assembly polls.
+
+Bidhannagar Police Commissionerate has registered a first information report (FIR) against Trinamool Congress leader and Lok Sabha MP Abhishek Banerjee over alleged inflammatory remarks made during the recent West Bengal Assembly election campaign.
+
+According to police sources, the FIR was filed on Friday following a complaint accusing Banerjee of delivering provocative speeches that were later circulated on social media platforms. The complaint alleged that several statements made by the TMC national general secretary were objectionable and capable of creating social unrest.
+
+## **Complaint Filed by Local Resident**
+
+The case was initiated after Rajib Sarkar, a resident of the Bidhannagar area, submitted a formal complaint to the police on May 5, one day after the West Bengal Assembly election results were declared.
+
+In his complaint, Sarkar claimed that Banerjee used offensive language against Union ministers and leaders of rival political parties during campaign speeches. He further alleged that the remarks could incite tension among different communities and influence voters improperly during the electoral process.
+
+Police officials, speaking on condition of anonymity, confirmed that the FIR had been registered and an investigation was underway. However, no detailed public statement has yet been issued by the police administration regarding the next steps in the case.
+
+## **Charges Under BNS and Election Laws**
+
+The FIR includes several provisions of the Bharatiya Nyaya Sanhita (BNS), including charges 
+
+Banerjee has also been booked under sections of the Representation of the People Act dealing with interference in the free exercise of electoral rights and promoting enmity during elections on grounds such as religion, caste, language, or community.
+
+Legal experts noted that such provisions are often invoked in cases involving election speeches or political statements that authorities believe may disturb public order.
+
+## **No Official Response Yet**
+
+As of now, neither the Trinamool Congress leadership nor Banerjee himself has publicly responded to the FIR. Senior leaders of the ruling party in West Bengal have also remained silent on the matter.
+
+The development comes amid heightened political tensions in the state following the recently concluded Assembly elections, where campaign rhetoric from multiple parties drew sharp criticism from opponents. The investigation is expected to examine the speeches, videos, and
+
+---
+
+### SpaceX accelerates IPO timeline, targets June 12 listing on Nasdaq - The Economic Times
+*Reuters Follow us Share Font Size Abc Small Abc Medium Abc Large Save Print Comment · general*
+
+Elon Musk's rocket and satellite maker SpaceX is aiming to list its shares as early as June 12 and has picked the Nasdaq as the trading venue for its blockbuster market debut, people familiar with the matter told Reuters on Friday.
+
+The listing, one of the most anticipated in years, is expected to headline this year's crowded IPO ‌calendar that could also ⁠include AI ⁠heavyweights Anthropic and OpenAI, both of which are expected to tap public markets.
+
+SpaceX's debut comes at a pivotal moment for the IPO market, which has rebounded after ​struggling over the past couple of years amid volatility fueled by U.S. tariff policy and geopolitical uncertainty.
+
+Set to trade under the ticker 'SPCX', the ​company has accelerated its IPO timeline and is now aiming to make its prospectus public as early as next Wednesday, with a roadshow launch targeted for June 4 and the share sale as early as June 11, according to three sources familiar with the ​matter.
+
+The new plan to IPO during the second week of June represents a quicker-than-expected ⁠timeline for ‌SpaceX's offering, moving forward a process that had initially been targeted for late June - around the time ​of Musk's birthday - the sources ​said, requesting anonymity as the discussions are private.
+
+A faster-than-expected review of the company's IPO paperwork by the ⁠US Securities and Exchange Commission was partially responsible for the company's move to ​bring forward the listing timeline, the sources added.
+
+SPCX was previously the ticker for Tuttle Capital Management's ​SPAC-focused ETF before the firm switched to the SPCK ticker in April. The move at the time triggered speculation about SpaceX potentially choosing the newly available ticker.
+
+Reuters was first to report in March that SpaceX was leaning toward listing its shares on the Nasdaq, as it sought early inclusion on the Nasdaq-100 index.
+
+SpaceX did not immediately respond to requests for comment. Nasdaq and the SEC declined to comment.
+
+**Marquee offering**
+
+The listing would mark a major victory for Nasdaq, staving off competition from its crosstown rival, the ‌New York Stock Exchange.
+
+It comes on the heels of the recent rollout of Nasdaq's highly anticipated 'fast entry' rules to speed up the entry of newly listed large-cap companies to its benchmark Nasdaq-100 index. Other leading index ​operators like S&P Dow ​Jones Indices and FTSE Russell have ⁠also launched similar rules to fast-track new listings to their respective benchmarks, seeking to turbocharge the pipeline of IPOs.
+
+Nasdaq has previously said that it widely sought feedback from market participants on the fast-entry rules and that it had a transparent index governance process.
+
+SpaceX is ​likely to target a raise of about $75 billion at a valuation of roughly $1.75 trillion, which would make it the biggest stock market flotation of all time, Reuters has previously reported. The $1.75 trillion target represents a significant step up from the $1.25 trillion combined valuation set when SpaceX merged with Musk's artificial intelligence startup xAI in February.
+
+Morgan Stanley, Bank of America, Citigroup, JPMorgan, and Goldman Sachs are the lead bookrunners for the offering, with 16 other banks in smaller roles spanning institutional, retail and international channels.
+
+---
+
+### Iraqi national charged with plotting terror attacks on Jewish sites in US, Europe
+*India Today World Desk · world*
+
+## As per the US authorities, Mohammad Baqer Saad Dawood Al-Saadi, the arrested Iraqi militiaman, held close ties with Qasem Soleimani, the assassinated Islamic Revolutionary Guard Corps officer, and also sought revenge for the US war in Iran.
+
+Arrested Iraqi national Al-Saadi with Qasem Soleimani, photo shared by the US Department of Justice
+
+The United States law enforcement arrested Mohammad Baqer Saad Dawood Al-Saadi, an Iran-backed Iraqi national and a senior member of the Kata’ib Hizballah, a US-designated terrorist organisation.
+
+As per the US Justice Department, Al-Saadi worked closely with Iran’s Islamic Revolutionary Guard Corps (IRGC), including former military officer Qasem Soleimani, who was assassinated by the US forces in 2020. Saadi is accused of directing at least 20 attacks targeting the US citizens and the Jewish communities across the United States and Europe.
+
+Further, he also allegedly planned several attacks in the near future to seek revenge for the US’s war against Iran, a report by Iran International suggested.
+
+As per a report by the New York Times, it is unclear how Al-Saadi was captured by the US forces. However, he was brought to the United States and was taken to the Manhattan federal court on Friday. He has been charged with six counts of terrorism-
+
+Talking about the development, Acting Attorney General Todd Blanche said, “Thanks to the dedication and vigilance of law enforcement, this alleged terrorist commander is now in US custody.”
+
+“As alleged in the complaint, Al-Saadi directed and urged others to attack US and Israeli interests and to kill Americans and Jews in the US and abroad, and in doing so advance the terrorist goals of Kata’ib Hizballah and Iran’s Islamic Revolutionary Guard Corps. These charges show American law enforcement will never let such evil go unchecked and will use all tools to disrupt and dismantle foreign terrorist organisations and their leaders,” he added.
+
+As per John A Eisenberg, the Assistant Attorney General for the US National Security, Al-Saadi allegedly coordinated a wave of attacks across Europe, including bombings, arson, and assaults targeting American communities and interests. He also discussed attacking several locations in New York, California, and Arizona, including a Jewish synagogue.
+
+\- Ends
+
+Akash Chatterjee
+
+May 16, 2026 09:01 IST
+
+---
+
+### ‘Witchcraft’ murder: Jharkhand High Court says ‘no true story’, acquits brothers 22 years after life term award
+*Richa Sahay · legal*
+
+The Jharkhand High Court held that the trial court overlooked the material contradictions rendering the witnesses unreliable, and concluded on the guilt of the accused. (AI-generated image)
+
+Jharkhand High Court news: The Jharkhand High Court recently acquitted two brothers, setting aside the life imprisonment awarded to them in a witchcraft-linked murder case, observing that the “trend of evidence” in the matter did not inspire confidence to reflect a “truthful story”.
+
+Justices **Rongon Mukhopadhyay** and **Pradeep Kumar Srivastava** also pointed out that two key witnesses who were allegedly present with the victim at the time of the incident had turned hostile during the trial, which “itself speaks a different story.”
+
+ Justices Rongon Mukhopadhyay and Pradeep Kumar Srivastava pronounced the order on May 13.
+
+The Jharkhand High Court also observed that “mere silence” of the accused or failure to explain the allegations cannot substitute the prosecution’s burden to prove guilt beyond a reasonable doubt.
+
+“The trend of evidence adduced in this case does not inspire confidence to reflect a truthful story. The involvement of the appellants is absolutely doubtful, and there is no material to prove the guilt of the appellants beyond all shadow of reasonable doubt. Mere silence of the accused or not offering any explanation is not sufficient to infer their guilt; rather, the rigour of law is against the prosecution to prove the guilt of the accused persons to the hilt,” the May 13 order read.
+
+The Jharkhand High Court was hearing the appeal filed by the two brothers, Tarsius Sorang and Maryanus Sorang, challenging the trial court’s judgment dated January 19, 2004, and order of sentence dated January 21, 2004, by which they were convicted of murder and sentenced to undergo rigorous imprisonment for life.
+
+## ‘Eye-witnesses turned hostile’
+
+-   The Jharkhand High Court held that the trial court committed a serious error of law in appreciating the evidence of the witnesses and overlooked the material contradictions rendering the witnesses unreliable, and concluded on the guilt of the accused.
+-   It also found that both Sameer Lakra and Tintus Soren, who were allegedly with the victim immediately before the incident, did not support the prosecution’s case during the trial and were declared hostile.
+-   The bench also found inconsistencies in the statements of the victim’s family members, observing that they had no real occasion to see the accused fleeing from the spot as claimed later during evidence.
+-   The Jharkhand High Court held that the prosecution had failed to establish the guilt of the accused beyond a reasonable doubt and acquitted both brothers of the murder charge.
+
+## A visit, assault and death
+
+-   The case stems from the murder of a man called Alfosh Soren on November 2, 2000. The prosecution claimed that he went to the house of one Tintus Soren, where he was allegedly assaulted with a wooden log by accused Tarsius Soren and Mariyanus Soren.
+-   The motive behind the occurrence was alleged to be that the father and mother of the accused persons died, and they suspected some black magic was committed at the hands of the victim.
+-   According to the prosecution’s story, the victim was allegedly consuming “haria” (rice beer) with two men, Sameer Lakra and Tintus Soren, shortly before the alleged assault.
+-   Based on the information provided by the victim’s son, the informant, a First Information Report (FIR) was lodged on November 2 against the accused duo, and later a chargesheet was filed. Subsequently, the accused persons denied the charges.
+-   The trial court, after scrutinising the evidence placed on record, held the accused persons guilty of the offence under Section 302 (murder) of the Indian Penal Code (IPC) and awarded them life imprisonment.
+
+## Arguments
+
+Appearing for the duo, advocate A K Chaturvedi submitted before the Jharkhand High Court that there is no eyewitness to the occurrence. He added that the informant had initially claimed to have seen the accused persons fleeing after assaulting his father, but did not support the same version during the trial.
+
+The defence further argued before the Jharkhand High Court that the two main witnesses present at the spot had turned hostile during the trial and that there was no reliable evidence connecting the accused to the murder.
+
+Story continues below this ad
+
+On the other hand, special public prosecutor Vineet Kumar Vashistha argued that the trial court has very wisely and aptly analysed and appreciated the overall aspects of the case as well as the evidence of witnesses and arrived at the right conclusion.
+
+He added that, therefore, there is no illegality or infirmity in the judgment of the trial court calling for any interference in this appeal, which is devoid of merit and fit to be dismissed.
+
+Richa Sahay is a Legal Correspondent for The Indian Express, where she focuses on simplifying the complexities of the Indian judicial system. A law postgraduate, she leverages her advanced legal education to bridge the gap between technical court rulings and public understanding, ensuring that readers stay informed about the rapidly evolving legal landscape. Expertise Advanced Legal Education: As a law postgraduate, Richa possesses the academic depth required to interpret intricate statutes and constitutional nuances. Her background allows her to provide more than just summaries; she offers context-driven analysis of how legal changes impact the average citizen. Specialized Beat: She operates at the intersection of law and public policy, focusing on: Judicial Updates: Providing timely reports on orders from the Supreme Court of India and various High Courts. Legal Simplification: Translating dense "legalese" into accessible, engaging narratives without sacrificing factual accuracy. Legislative Changes: Monitoring new bills, amendments, and regulatory shifts that shape Indian society. ... 
+
+© IE Online Media Services Pvt Ltd
+
+-   Tags:
+-   Jharkhand High Court
+-   life sentence
+-   murder accused
+
+---
+
+### ‘No shortage’: Govt sets up monitoring cell to review fuel supply across state
+*Express News Service · legal*
+
+Following a high-level Cabinet meeting, Minister Jitu Vaghani announced a new monitoring cell to track fuel inventory daily and keep the state moving without disruptions (File)
+
+THE STATE government has set up a monitoring cell to review the supply of petrol and diesel in the state to avoid any possibility of dryout, officials said on Friday.
+
+Following instructions by Chief Minister Bhupendra Patel to monitor the quantity of petrol and diesel available in the state on a daily basis, the Food, Civil Supplies and Consumer Affairs Department is monitoring the situation from Gandhinagar.
+
+A meeting of the State Council of Ministers was convened under the chairmanship of CM Patel on Friday.
+
+“The monitoring cell has been set up in the state to review the supply system to ensure that citizens do not face any problem,” state Agriculture and Cooperation Minister Jitu Vaghani said while briefing mediapersons about the arrangements made.
+
+The monitoring cell was activated on May 11 and the situation has been monitored closely over the past two days, with the petroleum branch getting daily reports from the Oil Marketing Companies (OMCs) generating district as well as state wise reports along with reports from over 7,500 individual fuel stations across the state.
+
+Senior government officials said that although the OMCs too have monitoring cells, the government is strictly monitoring and immediately taking required action. “There is no shortage of fuel. In the past few days, outlets’ sales have increased by 30-40 per cent, possibly also due to price hike speculation but the situation has eased out today. To refill, the OMCs have extended the timings of their deports opening from 6 am instead of 9 am,” a government official told this newspaper.
+
+Officials added that the monitoring cell is taking regular review meetings and would remain active till the situation improves.
+
+Story continues below this ad
+
+On Friday, in accordance with the appeal made by Prime Minister Narendra Modi for economical use of the country’s resources and ‘Save Fuel’, the state government declared that 300 new buses would be pressed into service from Saturday on various routes of the state “without any grand inauguration ceremony.”
+
+“Despite the launch of such a large number of buses, no grand inauguration ceremony, ribbon cutting or VIP programmes as per protocol will be organised. The main objective behind this approach of the state government is to keep public welfare paramount instead of festivities. Usually, on the occasion of the launch of such big projects, thousands of litres of fuel and lakhs of rupees of government money are wasted in bringing buses from far and wide to the programme venue as per protocol and in grand events,” the state government said in a release.
+
+It added that keeping in mind the present situation, the Chief Minister has resolved to have ‘Zero Ceremony’ with the aim of saving fuel and also protecting the environment. Deputy Chief Minister Harsh Sanghavi said that with the implementation of the state government’s decision, these 300 new buses would start plying directly from the designated depots.
+
+---
+
+### The real NEET crisis? Parents who believe any price is worth an MBBS seat
+*Deebashree Mohanty · general*
+
+## The NEET scandal has exposed more than just leaked papers and broken exam systems. It has revealed the terrifying desperation inside India's middle-class homes, where becoming a doctor is no longer a dream, but a family survival project.
+
+There is a sentence quietly echoing across middle-class India today. It slips out at dinner tables, in coaching-centre corridors, in parent WhatsApp groups, and in late-night conversations between exhausted mothers and anxious fathers.
+
+_**“Bas ek seat mil jaye.”**_ **Just one seat.**
+
+Not happiness, not even purpose, but just one medical seat and somewhere along the way, India stopped asking how that seat was being secured.
+
+"Yes, I will pay Rs 30 lakh for a leaked NEET paper if it guarantees that my daughter gets into AIIMS. I will take a loan, but I will not bat an eyelid before cheating the system,” says Dipak Agarwal, a resident of Logix Blossom County in Noida’s Sector 137. His wife, Seema, who earlier worked with Adobe before becoming a homemaker, sounds even more certain.
+
+“A seat in AIIMS seals her future. Once she becomes a doctor, she will earn it all back anyway. At least we will know our daughter is financially secure for life.”
+
+There it is, that sentence which quietly explains modern middle-class India.
+
+For many families today, becoming a doctor is no longer just about prestige. It is being viewed as an economic recovery plan. It has become a social-security policy, and proof that the sacrifices of parenting were worth it.
+
+Their daughter recently passed Class 12 from Lotus Valley International School with 92 per cent overall and 95 per cent in Biology. The family says her NEET 2026 paper “went decently” and she expected a score above 650. Then, the mess unfolded.
+
+Over two years, the Agarwals have spent nearly Rs 8 lakh on coaching. Another Rs 1 lakh went into elite weekend mentorship programmes. Then came the “guess papers”. Photocopied predictions and encrypted PDFs circulating before exams.
+
+“Every set cost somewhere between Rs 700 and Rs 2,500,” the father says. “Everybody bought them, like buying notebooks.”
+
+### TWO FAILURES AT ONCE
+
+I know this family personally. I have watched their daughter grow up over the years. She loved storytelling and theatre, and as a child, she wanted to become a writer and make films... Then biology happened, because parents happened.
+
+And perhaps that is the real story behind the NEET scandal now unfolding before us. It's not just leaked papers, not proxy candidates, not even organised rackets operating through Telegram and WhatsApp channels. But an entire culture of pressure.
+
+The truth is uncomfortable because it forces us to confront two failures at once. India’s examination system is undeniably broken and vulnerable to manipulation. But Indian parenting, especially among the aspirational middle class, has also reached a point where morality is becoming negotiable in the race for success.
+
+When these two forces meet, scandals are no longer surprising. They become inevitable.
+
+### WHY SHOULDN'T WE CHEAT A WEAK SYSTEM?
+
+That question came up repeatedly during interviews for this story. “Twenty-two lakh students take NEET every year. Barely one lakh get medical seats. AIIMS is even more impossible. If these are the odds, why shouldn’t parents do whatever it takes?” asks Sonakshi Singh, an IIT graduate who now teaches as adjunct faculty at private universities.
+
+A single mother raising a 17-year-old son, Singh says she would “sell jewellery” if needed to secure his future. “If I don’t do it, somebody else will. First fix the system, then come to parents,” she says. Her tone is sharp, but beneath it sits something more familiar. We call it fear.
+
+This is what Indian parenting increasingly looks like today. Fear disguised as ambition.
+
+The NEET scandal did not emerge from nowhere. It emerged from a society where success has become frighteningly narrow. For millions of middle-class families, there are only a handful of acceptable professions left; doctor, engineer, government officer.
+
+### THE CHILD IS A FAMILY PROJECT
+
+If their children become doctors, they will recover the money soon.
+
+Sociologist Sanjay Srivastava says career choices in India are rarely individual decisions. “In many Indian homes, a child’s profession becomes a collective family aspiration. Parents often see their children’s success as validation of their own sacrifices and social worth,” he tells India Today.in.
+
+Anthropologist Tulasi Srinivas from Mumbai explains that the obsession with medicine and engineering is deeply linked to India’s economic anxieties. “The Indian middle class was built by generations that experienced scarcity and instability. Professional degrees like medicine came to symbolise certainty, respectability and protection from financial insecurity,” she says.
+
+Over time, these careers stopped being aspirations, they became emotional insurance policies. Parents now routinely justify massive investments in coaching because they believe the returns will eventually come back once the child becomes a doctor.
+
+One parent in Kota bluntly told this writer, “Even if we spend Rs 40 lakh now, a doctor will recover that money in five years.” It is this mindset that changes everything. The child slowly stops being an individual and becomes a long-term family investment.
+
+### THE PRESSURE COOKER NO ONE WANTS TO ACKNOWLEDGE
+
+India’s coaching economy today runs into thousands of crores. Entire neighbourhoods and cities revolve around competitive exams. Teenagers spend years trapped in cycles of mock tests, rank lists, anxiety and isolation. Many never fully recover from it emotionally.
+
+And yet, the pressure continues to intensify because failure in India is not treated as temporary, it is treated as humiliation. This is why so many student suicide notes in India read heartbreakingly similar. Again and again, children apologise to parents for not clearing NEET or JEE. For not becoming the doctor or engineer the family dreamed of.
+
+“I am sorry Papa, I could not fulfil your dream.” “Sorry Mummy, I disappointed you.” “I tried very hard.”
+
+These lines appear with terrifying frequency in student suicides reported from coaching hubs like Kota, Hyderabad and Delhi. Very few notes say, “I failed myself.” Most say, “I failed my parents.” It is this distinction that matters.
+
+Psychologist Anuttama Banerjee says many Indian children grow up internalising achievement as a condition for love and acceptance. “Parents may not realise it consciously, but children often absorb the message that their worth depends on performance. When emotional validation becomes tied to marks and ranks, failure starts feeling catastrophic,” she says.
+
+### THE NUMBERS EXPLAIN THE DESPERATION
+
+The scale of competition in India is brutal. Nearly 22 lakh students appear for NEET every year, around one lakh MBBS seats exist across India. Government medical seats are far fewer which means the overwhelming majority will not get the outcome they spent years preparing for.
+
+**See the graphic below for better understanding:**
+
+Numbers tell the story
+
+Engineering tells a similar story. Around 15 lakh students appear for JEE annually for roughly 50,000 premier seats. Then comes the retake culture. An estimated 50 to 60 per cent NEET aspirants are repeat candidates. Students lose years preparing again and again while watching peers move ahead.
+
+The pressure becomes financial too. Coaching, test series, hostel fees and counselling sessions can cost families several lakhs annually. In many homes, entire savings are redirected towards one child’s exam preparation. And once families invest that much emotionally and financially, desperation stops looking irrational.
+
+### WE BUILT A CULTURE WHERE CHEATING FEELS OKAY
+
+This is the uncomfortable part nobody says openly. India has slowly created a culture where cheating no longer shocks people, it only shocks them when they are caught.
+
+Leaked papers circulate on Telegram, proxy candidates are arranged through networks, solver gangs operate professionally. At the end of all of this, coaching centres market toppers like celebrity endorsements.
+
+Yet parents continue participating in the same ecosystem because many no longer believe merit alone is enough.
+
+In no way does this absolve the authorities conducting these exams. Repeated leaks, poor safeguards and glaring loopholes have severely damaged public trust in the examination process. Every scandal tells honest students that hard work alone may not protect them.
+
+But parents cannot entirely escape accountability either.
+
+A broken system explains desperation, it does not justify surrendering ethics.
+
+### STUDENTS SAY PLEASE FIX BOTH AND LET US BREATHE
+
+The students themselves sound far more balanced than the surrounding adults. “I feel like we are carrying our parents’ dreams more than our own,” says Rhea, an 19-year-old NEET aspirant from Delhi who narrowly missed a government seat last year.
+
+Another student, Aditya from Lucknow, says the atmosphere around these exams has become psychologically exhausting. “You stop feeling like a person after a point. You become a rank.”
+
+Nineteen-year-old Aarav, preparing for his second NEET attempt, says the constant leaks and controversies destroy morale for sincere students. “You study honestly for two years and then wonder whether someone bought the paper the previous night. It makes you question everything.”
+
+Career counsellor Nupur Garg from Allen, believes India urgently needs to redefine success itself. “Not every intelligent child has to become a doctor or engineer. We are forcing children into very narrow definitions of achievement and then acting surprised when the pressure explodes in unhealthy ways,” she says.
+
+Perhaps that is the real tragedy here. The NEET scandal is not merely exposing weak exam systems, it is exposing the emotional architecture of middle-class India itself. A country where children increasingly grow up believing that love must be earned through ranks, where parents confuse fear with care, and where ethics quietly bend under the weight of ambition.
+
+Until we fix both the system and the parenting surrounding it, another scandal is not a possibility. It is only a matter of time.
+
+\- Ends
+
+Deebashree Mohanty
+
+May 16, 2026 08:57 IST
+
+---
+
+### Punjab’s paddy dilemma: Can it save groundwater and preserve soil health at the same time?
+*Anju Agnihotri Chaba · legal*
+
+As Punjab moves into another **paddy sowing season**, concerns over the state’s shrinking groundwater reserves are once again colliding with the economic realities of rice cultivation. Despite repeated warnings from agricultural experts, environmentalists, and policy planners, the area under paddy in Punjab has continued to expand over the years.
+
+In 2025-26, it was a record-breaking 32.49 lakh hectares — up from 32.44 lakh hectares in 2024-25. This has deepened the state’s dependence on a crop that consumes enormous quantities of water.
+
+In response to the worsening groundwater crisis, the Punjab government has aggressively promoted direct-seeded rice (DSR) for the past decade or so as an alternative to the conventional puddled transplanted paddy system. This is being encouraged through financial incentives: Punjab’s 2026-27 budget proposed a Rs 40-crore allocation, wherein incentives of Rs 1,500 per acre will be given to farmers to cover 2.77 lakh acres under DSR cultivation. 
+
+Although DSR is being projected as a major water-saving and labour shortage solution, scientists are increasingly raising a difficult question: can Punjab save groundwater at the cost of increasing chemical dependence and potential deterioration of soil health?
+
+## **Punjab’s push for direct-seeded rice**
+
+Punjab’s groundwater situation has become alarming after decades of intensive paddy cultivation. Traditional puddled transplanted rice requires continuous flooding of fields for 7-8 weeks after transplantation. This consumes massive quantities of groundwater, especially in central Punjab districts where paddy cultivation dominates.
+
+DSR changes the method entirely. Instead of transplanting nursery-grown seedlings into flooded fields, seeds are directly sown into moist soil using seed drills. Since the field is not continuously flooded during the early growth period at least for three weeks, irrigation demand declines significantly.
+
+According to scientists from Punjab Agricultural University (PAU), Ludhiana, DSR can reduce water consumption by approximately 15-20% in Punjab’s conditions. It also reduces labour dependency, which has become another major challenge in Punjab agriculture due to rising labour costs and shortage of migrant workers during peak transplantation season.
+
+**Weeds remain the biggest challenge**
+
+Story continues below this ad
+
+Yet the very factor that helps DSR conserve water also creates its biggest agronomic problem.
+
+Unlike conventional transplanted paddy fields, where standing water naturally suppresses weed growth, DSR fields remain relatively dry or moist during the first few weeks. This creates ideal conditions for weeds to germinate simultaneously with rice plants.
+
+Agricultural experts say DSR fields witness the growth of multiple weed categories including grasses, sedges, broadleaf weeds, and even “weedy rice,” which resembles cultivated rice and is difficult to identify and control.
+
+Some commonly reported weeds in Punjab include _swank_, _madhana_, _chini gha_, _takri gha_, _mothas_ and paddy _motha_. In several districts, especially Pathankot, weedy rice has emerged as a serious concern because it directly competes with paddy plants and significantly reduces yield.
+
+Story continues below this ad
+
+According to the 2025 research paper “Weed Dynamics and Control Measures in Direct-Seeded Rice” published in the _International Journal of Research in Agronomy_, weeds in DSR can reduce crop yields anywhere between 15% and 100% depending upon infestation intensity and weed-management practices. The study described weed management as one of the “biggest challenges” in DSR cultivation systems.
+
+Because weeds emerge aggressively during the initial crop stage, herbicides become central to DSR cultivation.
+
+ The continued expansion of paddy cultivation has aggravated water scarcity issues in Punjab, which is already grappling with depleting groundwater. Photo: File
+
+In their joint paper titled “Tar-Wattar DSR: a solution to Labour Problem”, Jasvir Singh Gill and Makhan Singh Bhullar of the Department of Agronomy, PAU Ludhiana, recommended the spraying of the herbicide Stomp/Bunker 30 EC (pendimethalin) “at 1.0 liter/acre in 200 liters of water, in a moist field, immediately after sowing”. The paper explains that the herbicide effectively controls annual grass weeds and small-seeded broadleaf weeds during the early crop stage.
+
+Apart from pendimethalin, several post-emergence herbicides are also recommended depending upon weed intensity and weed type. These include Nominee Gold, Ricestar, Almix, Vijaya, and Counsil Active formulations.
+
+Story continues below this ad
+
+Experts say that unlike conventional puddled paddy — where flooding itself acts as a weed suppressant for nearly a month — DSR requires repeated and highly precise weed-management interventions.
+
+**Is Punjab saving water while increasing chemical load?**
+
+This is now emerging as one of the most debated questions surrounding DSR. While the technology undoubtedly helps conserve groundwater, scientists and researchers are increasingly examining whether excessive dependence on herbicides could create long-term ecological problems.
+
+The concern becomes even more significant because pendimethalin — considered almost mandatory for successful DSR weed control — has been under regulatory scrutiny.
+
+The Central government had included pendimethalin among a list of pesticides proposed for phase-out or ban due to toxicity-
+
+Story continues below this ad
+
+Scientists from PAU have clarified that more studies are needed regarding its long-term impact on soil ecology and environmental systems.
+
+**Soil health risks**
+
+The 2025 paper on weed dynamics examined that despite being promoted as a major water-saving technique, DSR is becoming increasingly dependent on herbicides because weeds germinate alongside rice plants in non-flooded fields. It warned that continuous reliance on herbicides could adversely affect soil biology over time.
+
+According to the researchers, excessive herbicide residues may interfere with soil microbial activity and reduce the biodiversity of beneficial microorganisms that play a crucial role in nutrient cycling, decomposition of organic matter, and maintenance of soil fertility.
+
+The paper noted that repeated herbicide use may gradually weaken natural biological processes that sustain long-term soil productivity.
+
+Story continues below this ad
+
+Researchers also warned about the emergence of herbicide-resistant weeds: a problem already reported in several agricultural regions globally. Continuous use of the same chemical formulations allows certain weed species to evolve resistance mechanisms, forcing farmers to apply stronger doses or multiple herbicide combinations over time. This creates a cycle of increasing dependence on chemicals.
+
+The study further cautioned that sustainability cannot be judged solely on the basis of water savings.
+
+**Overuse the bigger risk**
+
+Another serious concern in Punjab is not merely herbicide usage, but overuse. Agriculture department officials have repeatedly observed that many farmers apply pesticides and herbicides in quantities higher than officially recommended doses.
+
+One senior agriculture officer pointed out that if Punjab witnesses 5 lakh acres under DSR, the recommended pendimethalin requirement would be 5 lakh litres. However, actual consumption could rise substantially higher because of excessive or repeated applications. Such trends raise concerns not only about soil contamination but also about groundwater quality and ecological balance.
+
+Story continues below this ad
+
+Interestingly, PAU scientists themselves have acknowledged that alternatives need to be developed. Bhullar has suggested that if pendimethalin is banned in future, farmers may adopt traditional stale seedbed practices involving double pre-sowing irrigation (_rauni_). Under this method, weeds are first allowed to germinate after irrigation. They are then uprooted through light cultivation before sowing.
+
+The process may be repeated to reduce weed pressure further before final DSR sowing. Farmers can subsequently rely more on manual weeding if needed.
+
+The 2025 paper also strongly advocated integrated weed management instead of excessive chemical dependence. Researchers recommended combining limited herbicide use, crop rotation, mechanical weeding, mulching, stale seedbed preparation, competitive rice cultivars (cultivated plant), and biological and eco-friendly weed suppression methods. 
+
+The study also highlighted emerging research on allelopathic plant residues and beneficial microbial strains that may naturally suppress weed germination.
+
+**The larger agricultural contradiction**
+
+Story continues below this ad
+
+Punjab today finds itself trapped in a larger agricultural contradiction. On one hand, groundwater depletion has made traditional water-intensive paddy cultivation environmentally unsustainable. On the other hand, the most practical alternative currently available — DSR — depends heavily on herbicides for successful implementation.
+
+Agricultural scientists broadly agree that DSR remains an important climate-adaptive technology for groundwater-stressed states like Punjab. 
+
+“Unless weed management becomes chemical-free, Punjab may end up replacing one environmental crisis with another — groundwater depletion with gradual soil degradation and rising chemical stress on ecosystems,” said Devinder Sharma, distinguished agriculture and food expert, adding that the bigger question now is whether Punjab can develop a model of DSR that saves both water and soil together. He said that the system of rice intensification (SRI) technique can be promoted with more research, as it saves water and provides more yield without using chemicals to manage weeds.
+
+---
+
+### Inside Tenfa, a Magical Realist Story Set in the Fragile Landscape of Kinnaur
+*Alaka Sahani · legal*
+
+Over the past four years, filmmaker Nihaarika Negi has made multiple trips to Kinnaur, Himachal Pradesh, to reclaim her connections to her roots and ancestors. “I entered this process by listening to the stories of my family and the land as well as bearing witness to the ways in which the very ecology that sustained the tribe was being rapidly eroded by the march of industrialisation and progress,” says Negi, whose paternal side of the family belongs to the indigenous region of Kinnaur.
+
+During this period, Negi was moved by the “incredible acts of activism and preservation” that the community, especially the women, had undertaken and wanted to make a film that celebrated these everyday acts of heroism. And that’s how the idea of Tenfa (which in Kinnauri means a gift given by your elders) was born.
+
+The short film was showcased at the recent Indian Film Festival of Los Angeles (IFFLA). Tenfa started to take shape as Negi began spending time with Dolma, her bua (paternal aunt) during her visits to Kinnaur. Dolma, a midwife, soon became the central character and through her gaze the film unpacks larger themes of forgotten histories, building communities and the strength of storytelling.
+
+ Nihaarika Negi
+
+As someone who provides vital maternal healthcare in remote regions, in Tenfa, we see Dolma trekking to the village of Kandar to deliver the first baby to be born there in 10 years. Nestled in a rugged valley, the village lies almost abandoned following deadly landslides caused by massive hydroelectric construction. When the childbirth goes awry and without access to medical facilities, Dolma’s only hope to save the new mother’s life is to find a rare indigenous herb. The single person who can identify the plant is an elderly grandmother raising her granddaughter. “The three women journey across scarred ancestral land searching for the medicinal herb, their only guide being a folksong in a language that Dolma has forgotten and the granddaughter has never learnt,” says Negi.
+
+To build the narrative, Negi, an interdisciplinary artist, blends theatre, folktale and magical realism with cinematic elements. “My practice is centered around contemporary performance and participatory work. These are forms that inherently seek to question the boundaries of reality and fiction, of artistic agency and collective authorship, of the magical and the mundane. And I come to filmmaking through that lens,” says Negi, who holds a MA in Theatre Practice (Exeter) and an MFA from USC’s Peter Stark Producing Program.
+
+Negi wanted Tenfa, which is made in collaboration with the community, to reflect the multi-lingual reality of the region. The film features three languages that are spoken there: Hamskad (or Kinnauri), Pahadi Kinnauri and Hindi. “Since Kinnauri culture hasn’t really been depicted in mainstream storytelling, it was important for us to authentically represent the community before and behind the camera. Since we enter the film through the character of Dolma, we wanted to situate the film around my village, Sungra, in Nichar Valley.” The members of Negi’s family also are part of the cast.
+
+Story continues below this ad
+
+“Making this film was my way of attempting to understand how I could begin to archive and document the language, the landscape, the songs and the people through a form that seems deeply connected to the Kinnauri ethos: storytelling,” Negi says. In collaboration with her producing partners on this film – Storiculture and StarHooper Studio – she also wants to start a storytelling lab in Kinnaur for Kinnauris. The aim is to facilitate the meeting of elders and folklorists with narrative storytelling mentors to help them share their own stories on a bigger stage.
+
+Negi is currently engaged with the post-production for her first feature film, Birds of a Feather, which she has written, co-directed and produced along with filmmaker Tanmay Chowdhary. “I am also in advance development for my next directorial feature, Feral, which is supported by Sundance+WIF and Film Independent. It is about two indigenous maidservants in the Himalayas who take over the home of their British Madam and reclaim their wild, mystical selves. It’s an Indo-German co-production being produced by Naren Chandavarkar and Zorana Musikic,” says Negi.
+
+Alaka Sahani is a prominent film critic and journalist based in Mumbai. With a career spanning over two decades, she has established herself as one of India’s most authoritative voices in cinematic journalism, known for an analytical approach and insights that transcend the standard cycle of celebrity journalism. Expertise & Accolades In 2014, Alaka was honoured with the National Film Award for Best Film Critic. Her Swarna Kamal (Golden Lotus) citation specifically lauded her for "highlighting facets of cinema beyond glamour and gossip" and for her ability to delve into the contemporary relevance of iconic filmmakers. Her commitment to journalistic integrity was further recognised in 2019 with a Special Mention at the Red Ink Awards for her investigative feature, 'In Search of a Star'. Her article titled 'People Like Us', published in The Indian Express on March 27, 2022, was shortlisted for Red Ink Award, 2023. Global Industry Leadership Alaka’s expertise is sought after by major international and domestic film bodies: Golden Globes: In 2025, she joined the international voting body for the 83rd Annual Golden Globes. National Film Awards: She served on the prestigious jury for the 68th National Film Awards, helping select the finest contributions to Indian cinema. Global Perspective: Her work consistently bridges the gap between commercial Bollywood A-listers and emerging independent talents, offering nuanced insights into both Indian regional cinema and international film trends. Focus & Vision Beyond the screen, Alaka is a dedicated observer of Mumbai’s vibrant theatre scene and the historical evolution of the moving image. Through her long-form articles and deep-dive interviews, she continues to challenge "tried-and-tested" templates, providing readers with a deep understanding of the artistic and systemic workings of the Indian and global film industry. ... 
+
+© The Indian Express Pvt Ltd
+
+-   Tags:
+-   Express Premium
+
+---
+
+### Daily Briefing: NEET leak probe widens as CBI arrests key accused
+*Anupama Yadav · legal*
+
+In a major crackdown on bike taxi services, the Maharashtra government has asked **Apple and Google to remove Uber, Ola and Rapido** from their app stores, accusing the platforms of running illegal operations in the state. The move follows complaints over unlicensed bike taxis, passenger safety concerns and alleged violations of transport laws. Authorities claimed hundreds of vehicles linked to the apps were found operating without permission, leading to seizures, FIRs and fines worth lakhs. The crackdown gained urgency after reports of a fatal accident involving a bike taxi passenger, with the government now pushing for action under both the IT Act and Motor Vehicles Act while simultaneously exploring a new policy for electric bike taxis.
+
+**_With that, let’s move on to the top five stories from today’s edition:_**
+
+**🚨** **Big Story**
+
+The NEET-UG 2026 paper leak scandal has taken a dramatic turn with the CBI arresting **Pune-based chemistry lecturer P V Kulkarni**, who investigators describe as the alleged mastermind behind the operation. According to the agency, Kulkarni used his links to the examination process to access the question paper and allegedly conducted secret coaching sessions from his Pune residence days before the exam, dictating questions and answers that later matched the actual paper. The probe has already uncovered a sprawling network involving middlemen, coaching links and aspirants across multiple states, with leaked “guess papers” reportedly sold for lakhs of rupees. With nearly 22 lakh students affected and the exam eventually cancelled, the scandal has once again exposed the deepening crisis of paper leaks and the growing reach of India’s exam mafia.
+
+Meanwhile, in the wake of the massive NEET-UG 2026 paper leak scandal, the Centre has decided to **shift the exam to a computer-based test (CBT) format** from 2027 in a bid to tighten security and prevent future leaks. The move follows recommendations by the K Radhakrishnan committee, which flagged the multiple vulnerabilities involved in pen-and-paper exams, from printing and packaging to transport and storage. While the government argues that CBT will make the system more secure, the transition poses a huge logistical challenge given that nearly 22 lakh students take NEET every year. Concerns also remain over technical glitches, score normalisation across multiple shifts and whether students from rural backgrounds will be disadvantaged in a fully digital exam system.
+
+**⚡** **Only in Express**
+
+**_The golden grip_** 
+
+Gold prices may be soaring, but India’s obsession with the precious metal remains untouched. **Indian households now hold an estimated 34,000 tonnes** of gold, much of it locked away in lockers and almirahs rather than circulating through the economy. Despite the government hiking import duty from 6% to 15% and urging citizens to cut purchases to protect forex reserves, demand remains strong. Experts say gold is deeply tied to Indian culture, weddings, status and financial security, especially among lower and middle-income families who see it as their safest form of wealth. For many Indians, gold is not just jewellery or investment — it is emotion, tradition and insurance for uncertain times, making it nearly impossible to give up.
+
+**_Kerala’s gold jitters_**
+
+Meanwhile, some states are beginning to feel the strain of soaring gold prices. In Kerala, long considered one of India’s biggest gold markets, jewellers and buyers are growing increasingly uneasy as record rates dampen demand. Across hubs like Thrissur and Kozhikode, **customers are delaying purchases**, opting for lighter ornaments or recycling old jewellery instead of buying new pieces. Traders fear higher import duties and rising prices could hurt wedding and festive season sales, especially among middle-class families. Smaller jewellers are already grappling with weaker footfall and shrinking margins. Despite the slowdown, Kerala’s emotional and cultural attachment to gold remains hard to break, even if buyers are now thinking twice before every purchase.
+
+**💡** **Express Explained**
+
+Story continues below this ad
+
+Blistering May heat, moisture-laden winds and unstable atmospheric conditions came together to create the deadly storms that **killed over 100 people across Uttar Pradesh** this week. Amitabh Sinha explained how the collision of dry westerly winds and moist easterlies, along with a cyclonic circulation over northwestern Uttar Pradesh, rapidly fuelled massive thunderclouds, violent dust storms, lightning strikes and destructive winds strong enough to uproot trees and collapse walls. While such pre-monsoon storms are not unusual in north India, experts say the increasing intensity and frequency of these extreme weather events are becoming an alarming sign of a changing climate.
+
+**✍️** **Express Opinion**
+
+The Uttar Pradesh government faces criticism over its handling of workers’ protests in Noida’s industrial belt, with **CPI leader D Raja arguing** that the state is targeting democratic dissent rather than resolving labour issues. Police arrested hundreds of workers and invoked stringent laws, including the National Security Act, after protests over wages and working conditions turned violent in parts of the region. The editorial warns that linking labour unrest to conspiracies or attempts to “revive Naxalism” will create fear among workers already struggling with poor pay, exploitation and unsafe workplaces. 
+
+**🎥** **Movie Review**
+
+Blending Tamil folklore with courtroom drama, Karuppu emerges as an entertaining yet uneven tale of corruption and justice, elevated largely by Suriya Sivakumar’s powerful screen presence. **Yashaswini Sri writes** that Suriya is in top form, effortlessly balancing the vulnerability of an ordinary man with the larger-than-life aura of a deity figure. Directed by RJ Balaji, the film shines most in its gripping first half, emotional courtroom sequences and crowd-pleasing interval block. Trisha Krishnan adds emotional depth, while Sai Abhyankkar’s score and G K Vishnu’s earthy visuals strengthen the film’s rural atmosphere. Though the narrative loses momentum later, Karuppu still lands as a solid mass entertainer with plenty of striking moments.
+
+**_That’s it for today! Have a lovely weekend!_**
+
+**Until next time,****Anupama**
+
+---
+
+### PM Modi’s call amid West Asia crisis | Online meetings, simple functions & curbs in government vehicle usage: Gujarat issues austerity guidelines
+*Ritu Sharma · legal*
+
+Government spokesperson and Cabinet Minister Jitu Vaghani requested citizens not to panic and not to hoard resources unnecessarily. (File Photo)
+
+Avoid foreign travel, push for video-conferencing, curbs in govt vehicle usage and simple government functions — these are some of the measures in the guidelines announced by the Gujarat government on Friday in response to Prime Minister Narendra Modi’s appeal for austerity amid the West Asia crisis.
+
+Government spokesperson and Cabinet Minister Jitu Vaghani requested citizens not to panic and not to hoard resources unnecessarily.
+
+Appealing citizens to cooperate in the interest of the country, he expressed confidence that the citizens of Gujarat would extend their full cooperation just as they did to the call made by PM Modi during the Covid pandemic.
+
+The minister added that though these decisions were taken keeping in mind the current global situation, the state government is committed to protecting both the environment and the government treasury by drastically reducing the consumption of petrol and diesel. Giving detailed information about the guidelines, he said that travel for government work will have to be planned only as per need. Officers should avoid travel and make maximum use of modern means like video conferencing, telephone and e-mail. Instead of calling regional officers for meetings, meetings should be held through virtual means, except in cases of extreme necessity.
+
+“It has also been urged to join meetings of other central or state governments through online means as much as possible. Any foreign travel for participation in training, seminars and conferences should be avoided, except in unavoidable circumstances. If travel outside the state is unavoidable, senior officers have been instructed not to take unnecessary staff with them. If an officer is handling more than one charge, he should deposit all the additional vehicles except one main vehicle in the ‘Government Vehicle Pool’,” the guidelines issued by the Gujarat government stated.
+
+Further, travel outside the district for official work should be avoided as far as possible and if unavoidable, officials should inform their controlling officer before traveling.
+
+The government vehicles available in each administrative department and its subordinate systems should be reviewed and the additional vehicles should be put out of use. To promote use of electric vehicles, those officers who have electric vehicles (EV) available as an alternative to government vehicles should use only EV or hybrid vehicles.
+
+Story continues below this ad
+
+Officers and employees have been encouraged to use public transport services like Metro, state transport buses and railways instead of private vehicles. Metro timings have been extended by an hour to 11 pm for public convenience.  
+Procurement policy will be strengthened in all government institutions to give priority to indigenous goods, local products and MSMEs.
+
+Instructions have been issued to organise government programmes in a simple manner and insist on ‘virtual method’ in inauguration programmes. Also, Piped Gas Connectivity (PNG) will be made mandatory in all government canteens in the next 6 months.
+
+Ritu Sharma is an Assistant Editor with The Indian Express' Gujarat bureau, an editorial position that reflects her experience and Authority in regional journalism. With over a decade of concentrated reporting experience, she is a highly Trustworthy and specialized journalist, especially noted for her Expertise in the education sector across Gujarat and previously Chandigarh. Expertise Primary Authority (Education): With over ten years of dedicated reporting on education in both Gujarat and Chandigarh, Ritu Sharma is a foremost authority on educational policy, institutional governance, and ground realities from "KG to PG." Her coverage includes: Higher Education: In-depth scrutiny of top institutions like IIM-Ahmedabad (controversies over demolition/restoration of heritage architecture), IIT-Bombay (caste discrimination issues), and new initiatives like international branch campuses in GIFT City. Schooling & Policy: Detailed coverage of government schemes (Gyan Sadhana School Voucher Scheme), the implementation and impact of the Right to Education (RTE) Act, teacher recruitment issues, and the impact of national policies like the NEP. Student Welfare: Reporting on critical issues such as suicide allegations due to caste discrimination, and the challenges faced by students (e.g., non-delivery of NAMO tablets). ... 
+
+**Stay updated with the latest - Click here to follow us on Instagram**
+
+© The Indian Express Pvt Ltd
+
+-   Tags:
+-   Gujarat
+
+---
+
+### Three old thermal power sites shortlisted for new nuclear power projects
+*Pratyush Deep · legal*
+
+In a significant move to repurpose ageing coal-fired power infrastructure, a government panel has shortlisted at least three **old thermal power plant sites** for setting up of new nuclear power projects.
+
+Of the three shortlisted sites, two have been found suitable for large nuclear reactors of 700 megawatt-electric (MWe) capacity, while one site is being considered for smaller 220 MWe reactors.
+
+The disclosures were made during a presentation at a high-level workshop on the Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India (SHANTI) Act organised by Central Electricity Authority (CEA) showed.
+
+However, exclusion zone requirements have emerged as one of the key challenges in the broader exercise of repurposing old thermal power plant sites for large nuclear reactor projects.
+
+The site selection exercise was carried out by a sub-committee of the Standing Site Selection Committee formed by CEA in January 2025. The panel  included officials from CEA, Atomic Energy Regulatory Board (AERB) and the Nuclear Power  Corporation of India (NPCIL).
+
+It was tasked with evaluating the suitability of existing sites of thermal power plants — which are to be retired — for nuclear power projects and preparing a study report on the possibility of converting at least two such thermal power plants into nuclear facilities.
+
+The move comes as India seeks to expand its civil nuclear power capacity from the current 8.8 gigawatt-electric (GWe) to 100 GWe by 2047.
+
+Story continues below this ad
+
+In December, the Parliament passed SHANTI Act, 2025, marking a major shift in how India’s tightly-controlled nuclear power sector will be governed in the coming years. For the first time, the Act enabled private players to enter the operations side of this critical sector as well as areas such as fuel management, which had remained under tight public-sector control for decades.
+
+## Ageing coal fleet
+
+There are multiple reasons behind repurposing old thermal power plant sites for future nuclear projects.
+
+They include India’s ageing coal power fleet, rising emissions from older plants, increasingly stringent environmental norms, and the availability of existing land, water and infrastructure at these sites.
+
+Such a transition is also being viewed as an **opportunity to support the country’s broader clean energy transition**.
+
+Story continues below this ad
+
+The sub-committee initially shortlisted 28 sites based on age and operational status of the thermal power plants. The panel was specifically tasked to identify thermal power plants having either retired units or units older than 40 years.
+
+A detailed 17-point checklist was prepared for evaluation, covering parameters such as site location, accessibility, land and water availability, seismotectonics, site meteorology, and surrounding population details.
+
+Following scrutiny of data and deliberations, 10 sites have been shortlisted for site visits.
+
+One of the key criteria during the process was availability of water. The panel assessed whether the sites could provide 4,800 cubic metres per hour (m³/hour) for two units of 220 MWe reactors and 9000 m³/hour for two units of 700 MWe reactors.
+
+Story continues below this ad
+
+Similarly, a land requirement criteria of 340 hectares was prescribed for a nuclear plant comprising two 700 MWe reactor units. Sites located in an earthquake zone V — a region with the highest level of seismic risk — or those having active faults within a 5-kilometer radius were treated as disqualified.
+
+Subsequently, six sites have been shortlisted while four sites were excluded primarily because of inadequate water availability.
+
+## Exclusion zone hurdles
+
+After further deliberations, three sites were finally shortlisted for possible conversion into nuclear power plants.
+
+While specific details of these three sites were not available, it is learnt that at one site, water availability was found sufficient for two smaller reactor units of 220 MWe capacity. The remaining two sites were each found suitable for setting up two larger 700 MWe reactor units, meeting both land and water availability requirements. However, the respective state governments are yet to approve water linkage for these two sites.
+
+Story continues below this ad
+
+However, both large-reactor sites are facing hurdles 
+
+At present, nuclear reactors in India are required to maintain a minimum exclusion zone of around 1 km radius around the reactor site, within which no habitation or economic activity is permitted.
+
+At one of the shortlisted sites, around 15-20 families reside within the mandatory one-kilometre exclusion zone. At the second site, the project would become feasible only if the exclusion zone is reduced to 700 metres.
+
+A senior official familiar with the exercise told The Indian Express that existing exclusion zone norms are among the biggest constraints in identifying suitable thermal power sites for nuclear projects.
+
+Story continues below this ad
+
+According to the official, such repurposed sites may ultimately be more suitable for Small Modular Reactors (SMRs) and smaller-capacity nuclear projects rather than large conventional reactors.
+
+Notably, the government is also considering a proposal to reduce exclusion zone requirements around future nuclear plants, a presentation made at the workshop showed.
+
+The proposal has already been reviewed by AERB and the Department of Atomic Energy (DAE) from both safety and security perspectives and has received in-principle agreement.
+
+Under the proposal, the exclusion zone for 700 MWe reactors could be reduced from 1 km to 700 metres, while the exclusion zone for smaller 220 MWe reactors could be reduced to 500 metres.
+
+Story continues below this ad
+
+Meanwhile, a second phase of the site selection exercise is currently underway to identify thermal power plants with units aged between 30 and 40 years for possible future nuclear deployment. At least 11 additional sites have already been shortlisted under this phase.
+
+---
+
+### What a scientist studying spices wants us to know about masala
+*Dipanita Nath · legal*
+
+From cumin regulating blood sugar levels to black pepper boosting nutrient absorption, modern research at Pune University is proving what traditional cooking always knew—food is medicine. (Image for representation)
+
+Can the spice box in your kitchen lead you to better health? Dr Anjali Kulkarni, Associate Professor of Botany at Savitribai Phule Pune University, is among the scientists worldwide who are drawing out unknown characteristics of spices in their labs.
+
+“Since my lab works on diabetes, among others, we are very interested in cumin or jeera. Cumin inhibits a lot of enzymes that malfunction in diabetes, i. e they become hyperactive. If we add cumin, it reduces that hyperactivity of the enzymes and brings back the glucose level to a relatively normal level,” says Kulkarni.
+
+Her favourite ‘fun fact’ is about black pepper. “We think of it only as a hot spice. But, it is a bioavailability enhancer, i.e. it increases the way our intestine absorbs nutrients from food when we combine black pepper. Some of the components of our food, like curcumin in turmeric, might not be water soluble. Black pepper does the job of increasing its bio-availability and helps our intestine to absorb that nutrition,” says Kulkarni. Pune\-based Dr Raghunath Mashekar was one of the pioneers who conducted bioavailability studies in India, and proved this property of black pepper.
+
+Kulkarni has been interested in spices for years, largely because of her fondness for cooking. What saddens Kulkarni is that traditional Indian cooking knew what labs are only now rediscovering – but the old wisdom about spices is almost forgotten. This, she says, has given her a sense of purpose to spread awareness about the humble masala. On May 18, Kulkarni will take the stage at the Dorf Brewhouse in Baner to speak at the ‘Pint of Science festival’ on ‘Spices: The Forgotten Superheroes’.
+
+India has been the top spice producer and exporter for centuries. “Yet, we do not even study spices in our school syllabus. We are told about balanced diets but what about spices, which play a great role in boosting our immune system, improving cognition and controlling the gut microflora, besides having anti-cancer and anti-microbial properties,” she says.
+
+When Pint of Science, an initiative that helps science break down the walls with regular people, offered Kulkarni a platform to reach out to the public, she readily agreed. Pint of Science, spearheaded by Dr Debarati Chatterjee, a theoretical astrophysicist and Professor at IUCAA, Pune, is a series of talks by scientists presented in an engaging way – at pubs. This year, the Pint of Science festival is being held in Pune, Bengaluru, Guwahati, Delhi and Mumbai.
+
+After her talk, Kulkarni will be available to chat with visitors more about her work, especially her new patents on spices that bring down blood sugar levels. “I hope that, after the talk, visitors will understand that everybody uses spices in their daily life but these do more than just add hotness or flavor to the food. They have medicinal benefits and that is why we must use them judiciously. Spices are like superheroes, who with little effort and a small quantity, can give us very good benefits,” she says.
+
+Dipanita Nath is a Senior Assistant Editor at The Indian Express, based in Pune. She is a versatile journalist with a deep interest in the intersection of culture, sustainability, and urban life. Professional Background Experience: Before joining The Indian Express, she worked with other major news organizations including Hindustan Times, The Times of India, and Mint. Core Specializations: She is widely recognized for her coverage of the climate crisis, theatre and performing arts, heritage conservation, and the startup ecosystem (often through her "Pune Inc" series). Storytelling Focus: Her work often unearths "hidden stories" of Pune—focusing on historical institutes, local traditions, and the personal journeys of social innovators. Recent Notable Articles (December 2025) Her recent reporting highlights Pune’s cultural pulse and the environmental challenges facing the city during the winter season: 1. Climate & Environment "Pune shivers on coldest morning of the season; minimum temperature plunges to 6.9°C" (Dec 20, 2025): Reporting on the record-breaking cold wave in Pune and the IMD's forecast for the week. "How a heritage tree-mapping event at Ganeshkhind Garden highlights rising interest in Pune’s green legacy" (Dec 20, 2025): Covering a citizen-led initiative where Gen Z and millennials gathered to document and protect ancient trees at a Biodiversity Heritage Site. "Right to breathe: Landmark NGT order directs PMC to frame norms for pollution from construction sites" (Dec 8, 2025): Reporting on a significant legal victory for residents fighting dust and air pollution in urban neighborhoods like Baner. 2. "Hidden Stories" & Heritage "Inside Pune library that’s nourished minds of entrepreneurs for 17 years" (Dec 21, 2025): A feature on the Venture Center Library, detailing how a collection of 3,500 specialized books helps tech startups navigate the product life cycle. "Before he died, Ram Sutar gave Pune a lasting gift" (Dec 18, 2025): A tribute to the legendary sculptor Ram Sutar (creator of the Statue of Unity), focusing on his local works like the Chhatrapati Shivaji statue at Pune airport. "The Pune institute where MA Jinnah was once chief guest" (Dec 6, 2025): An archival exploration of the College of Agriculture, established in 1907, and its historical role in India's freedom struggle. 3. Arts, Theatre & "Pune Inc" "Satyajit Ray, Ritwik Ghatak were not rivals but close friends, says veteran filmmaker" (Dec 17, 2025): A deep-dive interview ahead of the Pune International Film Festival (PIFF) exploring the camaraderie between legends of Indian cinema. "Meet the Pune entrepreneur helping women build and scale businesses" (Dec 16, 2025): Part of her "Pune Inc" series, profiling Nikita Vora’s efforts to empower female-led startups. "How women drone pilots in rural Maharashtra are cultivating a green habit" (Dec 12, 2025): Exploring how technology is being used by women in agriculture to reduce chemical use and labor. Signature Style Dipanita Nath is known for intellectual curiosity and a narrative-driven approach. Whether she is writing about a 110-year-old eatery or the intricacies of the climate crisis, she focuses on the human element and the historical context. Her columns are often a blend of reportage and cultural commentary, making them a staple for readers interested in the "soul" of Pune. X (Twitter): @dipanitanath ... 
+
+* * *
+
+_**Click here** to join **Express Pune WhatsApp channel** and get a curated list of our stories_
+
+© The Indian Express Pvt Ltd
+
+-   Tags:
+-   pune
+
+---
+
+### Campaigning for ULBs elections ends | ‘Will win municipal corporations’: Sukhvinder Sukhu in Solan, Jai Ram Thakur holds road show in Mandi
+*Express News Service · legal*
+
+Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu. (File Photo)
+
+The campaigning for the Himachal Pradesh Urban Local Bodies (ULB) elections, scheduled for May 17, ended Friday, with Chief Minister Sukhvinder Singh Sukhu and Leader of Opposition Jai Ram Thakur addressing their rallies in Solan and Mandi, respectively.
+
+The ULBs elections will be held in four Municipal Corporations including Solan, Mandi, Palampur and Dharamshala, along with 25 Municipal Councils and 22 Nagar Panchayats. The municipal corporations elections will be contested with party symbols, while the municipal council and nagar panchayats polls will be contested without them.
+
+At Solan, the Himachal Pradesh CM said the Congress is poised to win in all four municipal corporations across the state as the party holds a strong position in each of them.
+
+Claiming that the BJP is wrecked by factionalism, Sukhu claimed that Jai Ram Thakur is under much stress as the saffron party may remove him from the post.
+
+He also accused the BJP for rising fuel prices. While petrol and diesel prices are being hiked, the PM has advised austerity, which may lead to a decline in revenue generation, the CM said.
+
+Meanwhile, former chief minister and Leader of Opposition (LoP) Jai Ram Thakur held a mega road show in all wards of Mandi.
+
+The State Election Commission declared dry-day for the areas where the ULB elections are to be held on May 17. The liquor vends and bars will remain closed till 3 pm on the day of voting.
+
+Story continues below this ad
+
+The Himachal SEC, Friday, also issued directions to all the District Election Officers-cum-Deputy Commissioners. The directions said the advocates — who have already cast their vote in the Bar Council elections and have indelible ink marked on the left index finger — will still be allowed to vote in the local body elections.
+
+The directions came in response to a reference received from the ARO/SDM Mandi (MC Election) on May 14 seeking guidance on the issue.
+
+The SEC Secretary, Surjeet Singh Rathore, directed that the advocates’ identity will first be verified through their Advocate Identity Card or Bar Council Identity Card. After the due verification, they will be permitted to cast their vote by applying indelible ink on the right-hand index finger instead.
+
+According to the SEC, a total of 1,147 candidates are in the fray for 439 posts across the state. Their electoral fate will be decided by nearly 3.80 lakh voters, including 1,80,963 male voters and 1,79,882 female voters. A total of 14 voters have registered under the “other” category.
+
+Story continues below this ad
+
+The Electronic Voting Machines (EVMs) and other election materials will be distributed to the polling parties on Saturday.
+
+The officials have directed all the polling teams to reach their respective stations by Saturday evening and complete booth preparations to ensure that voting begins on time the next day.
+
+Officials said that up to 15 candidates’ names can be accommodated on a single EVM unit.
+
+The NOTA (None of the Above) option will be placed at the end of the list of candidates on the EVMs.
+
+_– With PTI inputs_
+
+---
+
+### Abu Dhabi to store 30 million barrels in India’s strategic petroleum reserves, invest $5 bn in infra
+*Subhajit Roy · legal*
+
+Deepening bilateral relations amid the crisis in West Asia, India and the UAE signed a slew of pacts Friday including a framework for a strategic defence partnership, storage of 30 million barrels in Indian strategic petroleum reserves, supply of LPG and a ship repair cluster in Gujarat’s Vadinar. The UAE also pledged investments totalling USD 5 billion in Indian infrastructure and RBL Bank and Samman Capital.
+
+The upswing in ties marked Prime Minister Narendra Modi’s brief stopover in Abu Dhabi on his tour of four European nations, days after the UAE came under Iranian missile and drone attacks.
+
+Underlining that the Strait of Hormuz should be “free, open and safe”, Modi told President Sheikh Mohamed bin Zayed Al Nahyan that India stands “shoulder to shoulder” with the UAE. Criticising the attacks on the Emirates, he said the targeting was “unacceptable”.
+
+Modi expressed India’s support for efforts to restore peace and stability in the region. Addressing the President as “my brother”, he said, “The way UAE has handled the current situation with restraint is praiseworthy. We stand shoulder to shoulder with the UAE, and will do so in the future.”
+
+Noting that the impact of the West Asian conflict is being felt globally, he said, “India is ready to extend all possible support to bring peace in West Asia.”
+
+A statement by the Prime Minister’s Office said, “The two leaders held a series of detailed discussions, during which the Prime Minister reaffirmed India’s strong condemnation of the attacks on the UAE, as well as its solidarity with leadership and the people of the UAE. Prime Minister also conveyed India’s clear position in favour of ensuring safe transit passage and unimpeded navigation through the Strait of Hormuz, which is vital for enduring regional peace and stability, as well as energy and food security.”
+
+He was received at the airport by the President and accorded a guard of honour. In a special gesture, his aircraft was escorted by Emirati Air Force fighters.
+
+Story continues below this ad
+
+In a social media post, Modi thanked the President for the “gracious gesture” of receiving him at Abu Dhabi airport. He also thanked him for taking care of the Indian community in the UAE like “family members”.
+
+The President said, “The UAE and India share a longstanding strategic and economic partnership, and our discussions today focused on ways to advance cooperation in priority sectors including energy and technology. Together, we remain committed to driving lasting progress for our countries and promoting peace and stability throughout the region and the world.”
+
+Modi’s visit to the UAE came a day after he met Iranian Foreign Minister Seyed Abbas Araghchi who was in New Delhi for a meeting of BRICS Foreign Ministers.
+
+Energy security was a major focus of the visit. The PMO statement said, “The two leaders appreciated the vibrant and growing bilateral energy partnership, with the UAE maintaining its role as an important partner in India’s energy security, including in terms of crude oil, LNG and LPG supplies. The leaders agreed to promote new initiatives for a comprehensive energy partnership. In this context, they welcomed the conclusion of a Strategic Collaboration Agreement between Indian Strategic Petroleum Reserves Limited and Abu Dhabi National Oil Company to enhance UAE’s participation in India’s Strategic Petroleum Reserves to 30 million barrels, and work together to set up strategic gas reserves in India. They also welcomed the arrangement entered into between Indian Oil Limited (IOCL) Company and Abu Dhabi National Oil Company (ADNOC) on long-term LPG supplies.”
+
+Story continues below this ad
+
+Last year, the UAE was India’s fourth largest source of crude oil, meeting nearly 11 per cent of the requirement. The UAE is India’s largest source of LPG, catering to nearly 40 per cent of the requirement.
+
+Also, the UAE has been the first country to partner with India in strategic petroleum reserves. In 2018, the ISPRL and ADNOC entered into an agreement for the UAE to store over 5 million barrels of crude oil reserves at ISPRL’s facility in Mangaluru.
+
+The ISPRL is a specialised Indian public sector company under the Ministry of Petroleum & Natural Gas, responsible for maintaining the country’s strategic crude oil reserves, holding 5.33 MMT (million metric tons) of crude across three underground facilities to ensure energy security against supply disruptions.
+
+Investments by the UAE totalling USD 5 billion will have three major components: Abu Dhabi Investment Authority (ADIA) and National Infrastructure & Investment Fund (NIIF) of India will explore investments up to USD 1 billion in India’s infrastructure sector; Emirates New Development Bank (ENBD) will invest USD 3 billion in RBL Bank of India; and the International Holding Company will invest USD 1 billion in Sammaan Capital of India.
+
+Story continues below this ad
+
+“These investments underscore UAE’s sustained and long-term commitment to India’s growth story, while strengthening the bilateral strategic investment partnership,” the PMO statement said.
+
+On the defence pact, it said, “The leaders acknowledged the steady and strong bilateral defence cooperation as an important pillar of the Comprehensive Strategic Partnership. They welcomed the signing of the Framework for the Strategic Defence Partnership between the two countries during the visit. Under this, the two sides have agreed on deepening defence industrial collaboration and cooperation on innovation and advanced technology, training, exercises, maritime security, cyber defence, secure communications and information exchange.”
+
+---
+
+### Retired lecturer arrested in NEET leak has previously also set papers for State Board Exams, say colleagues
+*Soham Shah · legal*
+
+NEET paper leak case: Former colleagues of retired chemistry lecturer Prahlad Kulkarni say they were shocked by his arrest over the alleged exam leak. (File Photo)
+
+Prahlad Vitthal Kulkarni, who has now emerged as the “source of NEET-UG 2026 examination paper leaks”, was a chemistry lecturer at the reputed Dayanand Junior College in Latur. He retired in 2022-23, Prof Sidheshwar Bellale, principal of the college, told The Indian Express over phone.
+
+“Two years after his retirement, **he shifted from Latur to Pune and has been based there**. Our college has no relation with him after his retirement. No such incident had occurred when he was teaching here,” Bellale said.
+
+In addition to setting papers for the NTA, Kulkarni has, in the past, been involved in setting Class 12 board examination papers for the Maharashtra State Board of Secondary and Higher Secondary Education (MSBSHSE), Bellale said.
+
+Kulkarni has also served as the chief moderator of chemistry paper for the Latur Divisional Board of MSBSHSE, said Kishore Panse, another retired chemistry lecturer from Dayanand Junior College and a colleague of Kulkarni for 30 years.
+
+MSBSHSE chairperson Trigun Kulkarni did not respond to a request for comment on Kulkarni’s connection to the board.
+
+Panse said that Kulkarni hails from Beed. He has a MSc in physical chemistry, he added. “He has set papers for NEET and the state board previously as well, but **we never heard about any papers** leaked by him. The news of his arrest was completely unexpected,” Panse said.
+
+“Almost all work of the state board, like training of teachers or setting of papers, used to be done by him. He was very interested in government work that would give him some extra income. He used to take effort and fill out all the forms for such work meticulously. He is also a reserved person. But I never expected that he would be arrested in such a case,” Panse said.
+
+Soham Shah is a Correspondent with The Indian Express, based in Pune. A journalism graduate with a background in fact-checking, he brings a meticulous and research-oriented approach to his current reporting. Professional Background Role: Correspondent coverig education and city affairs in Pune. Specialization: His primary beat is education, but he also maintains a strong focus on civic issues, public health, human rights, and state politics. Key Strength: Soham focuses on data-driven reporting on school and college education, government reports, and public infrastructure. Recent Notable Articles (Late 2025) His late 2025 work highlights a transition from education-centric reporting to hard-hitting investigative and human-rights stories: 1. Investigations & Governance "Express Impact: Mother's name now a must to download birth certificate from PMC site" (Dec 20, 2025): Reporting on a significant policy change by the Pune Municipal Corporation (PMC) following his earlier reports on gender inclusivity in administrative documents. "44-Acre Mahar Land Controversy: In June, Pune official sought land eviction at Pawar son firm behest" (Nov 9, 2025): An investigative piece on real estate irregularities involving high-profile political families. 2. Education & Campus Life Faculty crisis at SPPU hits research, admin work: 62% of govt-sanctioned posts vacant, over 75% in many depts (Sept 12, 2025): An investigative piece on professor vacancies at Savitribai Phule Pune University. "Maharashtra’s controversial third language policy: Why National Curriculum Framework recommends a third language from Class 6" (July 2): This detailed piece unpacks reasons behind why the state's move to introduce a third language from class 1 was controversial. "Decline in number of schools, teachers in Maharashtra but student enrolment up: Report" (Jan 2025): Analyzing discrepancies in the state's education data despite rising student numbers. 3. Human Rights & Social Issues "Aanchal Mamidawar was brave after her family killed her boyfriend" (Dec 17, 2025): A deeply personal and hard-hitting opinion piece/column on the "crime of love" and honor killings in modern India. "'People disrespect the disabled': Meet the man who has become face of racist attacks on Indians" (Nov 29, 2025): A profile of a Pune resident with severe physical deformities who became the target of global online harassment, highlighting issues of disability and cyber-bullying. Signature Style Soham is known for his civil-liberties lens. His reporting frequently champions the rights of the marginalized—whether it's students fighting for campus democracy, victims of regressive social practices, or residents struggling with crumbling urban infrastructure (as seen in his "Breathless Pune" contributions). He is adept at linking hyper-local Pune issues to larger national conversations about law and liberty. X (Twitter): @SohamShah07 ... 
+
+* * *
+
+_**Click here** to join **Express Pune WhatsApp channel** and get a curated list of our stories_
+
+© The Indian Express Pvt Ltd
+
+-   Tags:
+-   NEET
+
+---
+
+### Vat Savitri vrat katha: How Savitri’s devotion moved Yama and saved her husband Satyavan- the inspiring story behind one of Hinduism’s most sacred festivals
+*Trending Desk · business*
+
+Vat Savriti is one of the most well-known and scared festivals observed by married Hindu women in Uttar Pradesh, Maharashtra, Bihar, Madhya Pradesh, Punjab and Haryana. Vat Savitri falls on Amavasya Tithi in the month of Jyeshtha i.e. May 16, Saturday, according to Drik Panchang. Vat Savitri Vrat is observed by married Hindu women for the longevity and well-being of their husbands.
+
+**
+
+## Vat Savriti Vrat Katha
+
+Goddess Parvati once asked Lord Shankar, “O Lord of Lords, please narrate to me the sacred story of देवी Savitri, the beloved of Brahma, who resides in the holy region of Prabhas. Tell me about the significance of her fast, the history behind it, and how her devotion blesses women with good fortune and prosperity.”
+
+Lord Shankar replied, “O Goddess, I shall tell you the extraordinary tale of Savitri, who is revered in the Prabhas region. At a sacred place known as Savitri-Sthal, Princess Savitri observed the noble Vat Savitri Vrat.”
+
+Long ago, in the kingdom of Madra, there ruled a noble and compassionate king named Ashvapati. Despite his virtues, he remained childless for many years. Following the advice of learned sages and astrologers, he performed a grand yajna seeking the blessing of a child. As a result of the sacred ritual, he was blessed with a daughter of exceptional beauty and grace, whom he named Savitri. Everyone who saw her believed she was divinely blessed.
+
+One day, after worshipping Goddess Savitri, the young princess stood beside her father, radiant like Goddess Lakshmi herself. Seeing that his daughter had come of age, King Ashvapati consulted his ministers and said to Savitri, “My daughter, the time has come for your marriage. Yet no suitable groom worthy of your virtues has been found. Therefore, you must choose a worthy husband yourself. Go with the royal ministers, visit the holy hermitages and kingdoms, and make your choice wisely.”
+
+Obeying her father’s command, Savitri travelled through forests, pilgrimage sites, and ashrams accompanied by elderly ministers and sages. After meeting revered saints and visiting sacred places, she eventually returned to the palace.
+
+There she found Sage Narada seated with her father. After greeting him respectfully, Savitri explained the purpose of her journey. She said, “In the kingdom of Shalva lives a righteous king named Dyumatsena. Though once powerful, he lost his eyesight and his kingdom was seized by enemies. He now lives in the forest with his wife and son, Satyavan. Satyavan is truthful, virtuous, noble, and compassionate. I have chosen him as my husband.”
+
+Hearing this, Sage Narada grew concerned and said to King Ashvapati, “O King, although Satyavan possesses every noble quality, he has one grave flaw—his life is short. Exactly one year from today, he is destined to die.”
+
+But Savitri remained firm. She replied, “A king gives his word only once, a wise man speaks only once, and a daughter is given in marriage only once. Whether Satyavan’s life is long or short, I have accepted him as my husband and shall never choose another.”
+
+Seeing her unwavering determination, Narada advised the king to proceed with the marriage. Soon, Savitri and Satyavan were married at an auspicious hour, and Savitri began living with her husband and in-laws in the forest.
+
+Though happy in her married life, Narada’s prophecy constantly remained in her thoughts. As the foretold day approached, Savitri observed a strict fast without food or water for three days. On the final day, after bathing and offering prayers to the gods and ancestors, she sought the blessings of her in-laws and accompanied Satyavan into the forest.
+
+While cutting wood in the forest, Satyavan suddenly complained of severe pain in his head. Savitri gently placed his head in her lap so he could rest. At that moment, she saw a majestic dark-complexioned figure dressed in yellow garments, radiant like the sun, standing before her.
+
+Folding her hands, Savitri respectfully asked, “Who are you?”
+
+The figure replied, “I am Yama, the god of death. Your husband’s life has come to an end, and I have come personally to take his soul.”
+
+Yama then drew Satyavan’s soul from his body and began walking toward Yamlok. But Savitri fearlessly followed him. Yama turned to her and said, “No mortal may walk this path before their destined time.”
+
+Savitri replied with calm devotion, “Where my husband goes, there lies my path as well. A wife’s rightful place is beside her husband. Since you are taking him away, I cannot turn back.”
+
+Deeply moved by her devotion, wisdom, and unwavering love, Yama was greatly pleased with Savitri.
+
+## Vat Savitri 2026 Puja Timings
+
+Amavasya Tithi Begins - May 16, 2026 - 05:11 AM
+
+Amavasya Tithi Ends - May 17, 2026 - 01:30 AM
+
+## Vat Savitri 2026: Puja Rituals
+
+Women wake up early in the morning and take a holy bath before beginning the rituals.
+
+They dress in traditional attire, especially elegant sarees, and adorn themselves with jewellery.
+
+Devotees prepare satvik food for bhog and gather puja items such as flowers, haldi, kumkum, a kalash filled with water, and kaccha soot (sacred raw white thread).
+
+They then visit a temple or a place where a Vat Vriksha (banyan tree) is present, light a diya with desi ghee, and offer prayers for their husband’s long life, good health, and prosperity.
+
+Women circumambulate the banyan tree seven times while tying the sacred white thread around it.
+
+After the rituals, they pray for blessings and seek the good wishes of elders in the family.
+
+---
+
+### US-Iran War Live: Trump says US allowed 3 Chinese tankers with Iranian oil to exit Hormuz
+*India Today World Desk · world*
+
+### Download App
+
+NewsWorldLive: Trump says US allowed 3 Chinese tankers with Iranian oil to exit Hormuz
+
+IRAN WAR LIVE
+
+US-Israel-Iran War Live Updates: Tensions persist in the Middle East as the US blockade on the Strait of Hormuz continues. US President Donald Trump said he allowed three Chinese tankers with Iranian oil to exit the vital strait as the blockade has sent global energy markets soaring. Iranian Foreign Minister Abbas Araghchi said at a Brics meeting in Delhi that Tehran had received messages from the Trump administration indicating a willingness to remain open to fresh peace talks. In another 
+
+...
+
+A ship passing through the Strait of Hormuz. (Photo: Reuters)
+
+May 16, 2026 09:02 IST
+
+### Middle East Crisis: Xi told me Iran shouldn't possess nukes, says Trump
+
+US President Donald Trump said Chinese President Xi Jinping agreed with his view that Iran should not possess nuclear weapons, following their summit in Beijing.
+
+Speaking to Fox News after returning from China, Trump said Xi had offered to help on the Iran issue, but added that the US did not need assistance.
+
+â€œHe would like to help, but we donâ€™t need help. You know the problem with help? When somebody helps you, they always want something on the other side,â€ he said.
+
+May 16, 2026 09:00 IST
+
+### Iran US War News: Trump says US allowed 3 Chinese tankers through Hormuz
+
+US President Donald Trump said during a Fox News interview that the US allowed three Chinese tankers carrying Iranian oil to pass through the Strait of Hormuz earlier this week.
+
+May 16, 2026 08:47 IST
+
+### Iran US War News: Israel, Lebanon agree to 45-day ceasefire extension
+
+Israel and Lebanon have agreed to extend their ceasefire for another 45 days following two days of talks facilitated by the United States in Washington. The negotiations ended with both sides committing to hold further meetings in the coming weeks as efforts continue to prevent renewed escalation along the Israel-Lebanon border. Lebanon joined the discussions despite objections from Hezbollah, while Israel continued to push for the groupâ€™s disarmament as part of any long-term settlement.
+
+
+---
+
 ## 15 May 2026
 
 ### NEET UG 2026 new date OUT; Examination rescheduled for June 21
