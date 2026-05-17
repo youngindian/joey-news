@@ -1,8 +1,368 @@
 # Editorials
 
-_Last updated: 2026-05-15 13:58 UTC_
+_Last updated: 2026-05-17 08:48 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 17 May 2026
+
+### ‘Bhojshala identity is a colonial-era rebranding, has no archival backing’
+*Deccan Herald · Opinion*
+
+The Madhya Pradesh High Court has declared that the disputed Bhojshala complex in Dhar district is a temple dedicated to goddess Saraswati. It has ruled that the Centre and the Archaeological Survey of India (ASI) can decide on its administration and management. The complex houses Kamal-al-Din congregational mosque, widely known as Kamal Maula mosque, and tombs, including that of Sufi saint Kamal Malawi.
+
+Historian of medieval India and Delhi University professor Ruchika Sharma tells DH that the structure’s identity as Bhojshala is a colonial-era rebranding that transformed the medieval mosque into a nationalist flashpoint.
+
+Since your research traces the term Bhojshala back only to 1903, how do you view the legal weight being given to a name that lacks a pre-colonial archival trail?
+
+It's sad because the association that they're making with the fact that this was once a Saraswati temple comes even after 1903.This ”massive discovery” by then ASI director K N Dixit, who found a sculpture in the British Museum that he said is Saraswati, was ridiculous because there is an inscription on the sculpture that says this is a statue of goddess Ambika/Amba who is a Jain goddess, and that it was made by a person called Vararuchi.
+
+In the judgment, they have said that at the end of the day, Jainism is part of Hinduism. This absolutely makes no sense because if you look at both of these religions historically, they've often been in loggerheads with each other...The remains which have been used to make the Kamal Maula mosque, which is now being misnomerised as Bhojshala, are basically Jain temple remains. And they have nothing to do with a Saraswati temple. Even the name Bhojshala is incorrect. What K K Lele (who was in charge of the archaeological department at Dhar), who in 1903 gave this name, wanted it to mean was King Bhoja’s school. But shala does not mean a school. A shala just means a place. A school would have been called vidyalay, vidyapeeth or gyanpeeth…
+
+This 120-year history is being given far more importance than the fact that an inscription on the mosque states that the structure was first repaired by Dilawar Khan Ghori, the governor of Malwa region, in 1392-93, which means it was even older at that time. It was the first jama masjid of Dhar…It's sad that this almost 700-year-old mosque has now been branded a temple.
+
+You describe these sites as palimpsests of reused materials. Does the legal search for an ‘original religious character’ overlook the functional ways medieval builders operated?
+
+What exactly is the legal framework looking for? Because if the argument is that this is a mosque which was made by reusing a temple wholesale, then they would have had to add the mihrab (a semicircular niche in the wall) and the minbar (a raised pulpit)… So, they did just this and let the temple be as it is? This is not the case in the Kamal Maula mosque. If you see the height of the pillars in the mosque, it is clear that these have been stacked one on top of the other. It's a hypostyle mosque.
+
+It being made out of reused material does not mean that the material itself, all of it, has come from a temple or temples. These could be pillars that might have come from a palace which has multiple histories associated with it. If you look at a 14th-century temple, and if you look at this particular mosque, which is a 14th-century congregational mosque, you will see that there is a huge difference in the size of the pillars. The temple pillars at that time were usually smaller in size. These pillars, stacked one on top of the other to achieve height, have been reused from multiple sources.
+
+Secondly, even the inscriptions found inside the mosque, which are being claimed as 'Hindu inscriptions' with grammatical sutras, are basically Sanskrit inscriptions and have a Jain connection.
+
+Lele, in the early 1900s, said the inscriptions are actually grammatical sutras. And because they are grammatical sutras, they must have been of the so-called Bhojshala. Those inscriptions have nothing to do with any of this.
+
+The minbar or a raised pulpit.
+
+Where exactly does the ASI’s scientific findings at Dhar clash with the ‘political mythology’ you’ve documented in your work?
+
+The ASI under English did a better job at understanding what the structure is than what happened from the 20th century onwards. They identified it as a mosque. They even documented the history of Kamal Malawi's (Kamal-al Din) tomb, and how the tomb and mosque are sort of related… And then found a 'Hindu inscription'. But they identified that this is reused temple material or reused material of an earlier structure.
+
+The British were one of the first to identify these sort of structures which have either been made out of reused material, or they have been entire temples that have been converted into a mosque, which is very rare in the subcontinent. So, they identify Kamal Maula's mosque as one made out of reused material... The biggest break is Lele, and then Dixit in 1917 radically changed the whole dynamic to this being a Saraswati temple...The judgment says that Jainism is part of Hinduism. I don't see how that is relevant in declaring this to be a temple of Saraswati, because Saraswati is not a Jain deity at all.
+
+The pillars, stacked one on top of the other to achieve height, have been reused from multiple sources, says Ruchika Sharma.
+
+If the 'Bhoja’s Saraswati' statue in the British Museum is not originally from this site, what remains as the primary physical evidence for the court's 'religious character' ruling?
+
+It's these reused materials. The only basis they have is the fact that this is built out of reused material. And also this idea presented before the court that it looks like a temple. No, it does not look like it. No temple looks like this at all. No temple has a mihrab, no temple has a minbar, no temple has such a height. The height in itself should give you the idea that this is not a temple at all…
+
+Based on your research, does the ASI possess the archival data to manage this site as a 'Sanskrit center', or is the state asking them to curate a legend?
+
+More than a legend, I think this is a carefully manufactured myth. Lele based his claim on the fact that there are two Sanskrit inscriptions inside.
+
+These are grammatical sutras and they have nothing to do with King Bhoja. Where is the name Bhoja coming from? There is zero documentation to support this or that it was a shala. The term Bhojshala is a misnomer.
+
+And there is a clear illusion of Jain history over here. What is associated with the mosque is Jain history because of the materials used. Indologist Michael Willis’ study has shown that the two inscriptions talk about a play by a disciple of a Jain scholar. There is Jain history associated with the site. And that needs to be acknowledged.
+
+Does moving Muslim worship to an 'alternative land', as suggested by court, settle the dispute, or does it effectively erase the site’s history as a shared space?
+
+100%. What it erases is the around 700 years of history of this being a mosque. It replaces it, not with history, but with a carefully manufactured myth.
+
+The Jain history associated with it does not mean that this suddenly becomes a Jain temple. Because it never served as that in the first place.
+
+It is sad that India is going down this path where the material used in a particular structure is going to decide the status of the structure — the religious status of the structure or the functional status of the structure.
+
+As sites like Ayodhya, Gyanvapi, and now Bhojshala are legally reclassified, is the historian’s role now to explain the past, or simply to act as a witness to its reconstruction?
+
+I think the historian's role is both of them. Historians before us have been doing this for a long time. Which is why we can say with complete surety that before 1903, we didn't have a Bhojshala.
+
+The history of this site has been documented through inscriptions. It has been documented through its architecture, through 700 years of prayers inside the mosque, and through English surveys, etc. There is documentation available of it only being a mosque. Documentation is a part of explaining history. You cannot explain history till you've documented the facts. A historian's role has always been this and should continue to be. And we need to create public awareness because more than the fact that you've erased 700 years of history of this being a mosque, what is problematic is the repercussions that it's going to have on the ground.
+
+[Read full article](https://www.deccanherald.com/opinion/interview/bhojshala-complex-dispute-bhojshala-identity-is-a-colonial-era-rebranding-has-no-archival-backing-says-historian-ruchika-sharma-4005690)
+
+---
+
+### Transparency runs into custom error
+*Deccan Herald · Opinion*
+
+Earlier this month, the Karnataka Information Commission (KIC) got its first woman Chief Information Commissioner. Now, the state has its full complement of 10-plus-one commissioners to decide disputes under the RTI Act. We also know their names and office locations, but that is nearly all the Commission will tell us about its functioning.
+
+Despite being the primary stakeholders of the transparency regime, we do not know which cases will be taken up for hearing, on which date, and by which information commissioner. At the time of writing, the ‘cause list’ link on the KIC’s website drew a blank when queried about the daily listing of cases for May 2026.
+
+The website is also silent about the KIC’s roster– which departments and public authorities have been assigned to which commissioner for deciding information-related grievances. We can only infer from the ‘contact us’ segment of the website that those stationed in Belagavi and Kalaburagi may be hearing cases from those parts of the state.
+
+Admirably, Karnataka was the first state in the country to establish and populate its Information Commission in 2005, even before the Central Information Commission (CIC) was set up. Its primary job is to entertain citizens’ grievances about the replies of public authorities to their requests for information or even the lack of response. It probes the appeals and complaints of RTI applicants unhappy with the quantity, quality, or correctness of the information supplied by public information officers (PIOs).
+
+Between 2017-18 and 2021-22, KIC disposed of almost 90,000 cases. We do not know what happened later because the Commission has not published its annual reports. What is worse is that the decisions of the information commissioners have become sarkari secrets as most of them are no longer uploaded on the Commission’s website.
+
+Strangely, 30 cases listed for the new state Chief Information Commissioner, for resolution in the month of May, only display the decision to adjourn every matter without any indication about the next date of hearing. Two commissioners are not even listed in the ‘decisions’ section.
+
+Twenty years on, the RTI story is still being writtenLast month, the information commissioner stationed at Kalaburagi claimed that the KIC had disposed of 40,000 cases in one year and that his contribution was resolving almost 1,187 cases within 90 days. A commendable achievement indeed, as several were apparently pending for 5-6 years. At the time of writing, clicking on this commissioner’s ‘date-wise orders’ for May displayed “404 custom error” messages.
+
+If the Commission’s decisions are not publicly accessible, where will appellants and public authorities find precedents to support their contentions during hearings? Cases decided over the last two decades by previous information commissioners have been removed from the website, for reasons best known to the KIC.
+
+Until 2021-22, Karnataka ranked just behind the Union government and Maharashtra in the volume of RTI applications. The departments of rural development, revenue, and urban development, in that order, reported handling more than 60% of the 3.79 lakh RTI applications that year – indicating the popularity of the law in both rural and urban areas. Interestingly, the departments of education, social welfare, food and civil supplies, and women and child welfare, which attract a large number of information requests in other states, did not make it to the top-10 list in Karnataka. In the absence of subsequent annual reports, we know nothing about recent trends.
+
+More than 10% of the RTI applications filed with Karnataka’s top three departments escalated to the first appeals stage in 2021-22. 50% of these matters decided by the appellate authorities ended up at the KIC. This indicates a very high level of dissatisfaction with the performance of those public authorities.
+
+We do not know the current pendency status because the KIC’s website does not display this data, unlike the CIC, which regularly updates pendency figures (36,307 pending cases as of today). The KIC’s mandatory disclosure of basic information, required under Section 4(1)(b) of the Act, is currently stuck in 2022-23, as evidenced by its budgetary data, even though the document is marked ‘2025-26’.
+
+The KIC, like its counterparts elsewhere in the country, is mandated to steer public authorities away from pointless opacity towards purposive transparency that strengthens our democracy. The Commission must practise what it preaches if it intends to remain relevant to the citizenry. The state Chief Information Commissioner must lead from the front.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH)
+
+[Read full article](https://www.deccanherald.com/opinion/transparency-runs-into-custom-error-4005819)
+
+---
+
+### Tehran, Moscow must walk the talk
+*The New Indian Express · Opinion*
+
+What the summit produced, beyond the predictable procedural failure, was a brazen and meticulously documented display of duplicitous diplomacy by two nations that routinely present themselves as India’s most dependable strategic partners: Iran and Russia. While their foreign ministers publicly extolled New Delhi’s virtues as peacemaker, bridge-builder and indispensable mediator, their prior actions had already told a different story. It was one of calculated exclusion dressed up in the language of admiration.
+
+Iran’s Foreign Minister Abbas Araghchi arrived in Delhi to press the BRICS members to unite against what he termed “violations of international law” and “Western hegemony”. The summit’s collapse, driven largely by Iran’s insistence on explicit condemnation of US-Israeli “aggression”, predictably left the conclave fractured and fruitless. Yet even amid this discord, Araghchi found time to lavish India with praise. In post-meeting remarks, he declared that New Delhi could play a “greater role” in promoting peace in West Asia, welcomed any “constructive role by India”, and rhapsodised about the Chabahar port as a “golden gate” to Central Asia, promising safe passage for friendly vessels through the Strait of Hormuz and readiness to resume oil supplies. The words flowed warmly, graciously, almost effusively. They were also entirely hollow.
+
+Russia’s Sergey Lavrov performed the same act with greater precision. He drew a pointed distinction between Pakistan’s current role as facilitator of short-term US-Iran dialogues and India’s vastly superior credentials for long-term, structural mediation. “If they seek a long-term mediator between Iran and its Arab friends,” he observed, “this role could be played by India, considering its vast diplomatic experience and international standing.” He also suggested that India as BRICS chair could host preliminary conversations between Iran and the UAE to forestall future hostilities, leveraging relationships built across decades of careful, patient diplomacy. These were not throwaway pleasantries. They were careful, calibrated affirmations precise in their praise, precise in their pointlessness.
+
+For both nations had already made their choices. And India was conspicuously absent from them. Since the US-Israeli strikes in February that killed Iran’s Supreme Leader Ali Khamenei and triggered a catastrophic spiral of missile barrages, a fragile ceasefire and a de facto blockade of Hormuz, India had signalled its readiness to intervene at every available turn. Prime Minister Narendra Modi advocated de-escalation from the very first day, drawing on historical relations with Iran rooted in three decades of energy cooperation and a deep cultural affinity. It offered back-channel facilitation. It offered mediation plainly, repeatedly, without condition as the one power capable of speaking credibly to all sides without the taint of ideological alignment. The offer was neither accepted nor acknowledged. Instead, Tehran turned to Islamabad.
+
+Pakistani mediation produced the April 2026 ceasefire framework. America-Iran talks were hosted in Islamabad on April 11-12. Iranian ministers made multiple visits to Pakistan, shuttling proposals across a fragile diplomatic corridor and personally sustaining the truce through repeated high-level engagement. Prime Minister Shehbaz Sharif seized the moment with characteristic fanfare, declaring it “a matter of pride for the nation” that Pakistan had brought the US and Iran to the table after 47 years of estrangement. Congratulatory calls flooded in from European capitals, Gulf monarchies and Asian diplomatic missions.
+
+In India, the reaction was sharp and unsparing. Strategic analysts and opposition voices alike demanded answers: why had India, with its deeper historical leverage with Tehran, superior infrastructure, broader global credibility and genuine desire for regional stability, been kept away from the high table? The choice of Islamabad as venue deepened the affront. The message was unmistakable: tactical convenience had been allowed to trump strategic partnership, and India had been made to watch from the gallery. Moreover, Iran’s decision to impose broader restrictions on movements through the Straits of Hormuz compounded this duplicity and disrupted supplies, and aggravated India’s energy calculations in ways other nations largely avoided a disparity that carried the unmistakable scent of deliberate pressure.
+
+Russia, Iran’s most steadfast political and military backer, bears its own share of culpability. Moscow possesses leverage over Tehran that no other power can replicate. Had Lavrov genuinely believed India to be the ideal long-term broker, it could have used every instrument to mount pressure on Iran. It did not. Modi’s personal rapport with President Trump, India’s singular ability to engage Washington, Tehran, Riyadh and Abu Dhabi simultaneously without ideological baggage are precisely the assets Lavrov publicly celebrated. That Moscow neither championed nor protected India’s inclusion was not an oversight. It was a deliberate choice dressed in the language of praise. India, the world’s fastest-growing major economy and one of its largest energy importers, has not merely a stake in resolution but a civilisational responsibility to pursue it.
+
+The reckoning, however, is coming and it is coming for Islamabad first. Pakistan’s mediation drive has collapsed under the weight of its own limitations. Its leverage was always transactional, never structural. Confidence in Islamabad’s ability to deliver durable outcomes has drained away. Iran now stands at a crossroads. Internally pressured, economically isolated and diplomatically exhausted, Tehran must confront a simple, inconvenient truth. India, the partner it flattered and sidelined, possesses everything it now desperately needs. India’s diplomatic capital is not borrowed. It has been earned across decades of principled, patient engagement with every stakeholder in this conflict. The BRICS summit inadvertently became a morality play about the cost of shortsightedness.
+
+For India, it delivered an unambiguous lesson: in diplomacy, as in life, being praised is not the same as being respected, and being celebrated is not the same as being included. A genuine pivot towards New Delhi would not merely vindicate the public endorsements offered so freely by Iran in Delhi. The stage now demands a statesman. Tehran, along with Moscow, must decide to walk the talk.
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/pc/2026/May/16/tehran-moscow-must-walk-the-talk)
+
+---
+
+### Build forex fortress: Monetise public assets in dollars
+*The New Indian Express · Opinion*
+
+This triggered a riveting spectacle of photo-ops. The durability of the self-certified austerity of politicians will show up sooner than later. The state actors didn’t come up with much beyond wheel arithmetic and theatrics. Meanwhile, the rupee careened to Rs 96 per US dollar, the stock indices slid further, bond yields went up, and wholesale inflation at 8.3 percent signalled higher retail inflation ahead. Any hope of a solution from Beijing was dashed by a “he said, Xi said” warble of words.
+
+India’s economic crises have almost always been about the gap between the economy’s need for dollars and its ability to earn dollars. The rupee’s troubles predate the war. They reflect the economy’s inability to compete consistently in global markets and deliver returns—foreign institutional investors sold Indian equities worth Rs 1.61 lakh crore in 2025.
+
+Now is the time to think big, think lateral. Governments and goats love weeds. Speculation is rife about cesses and surcharges on everything from travel to remittances. Chasing paise will not help. India must build a forex fortress leveraging its growth opportunities and sovereign assets. To that end, here are a few thoughts.
+
+From Robert Solow to Béla Balassa and Paul Samuelson, the economics is unambiguous: a currency is a claim on a nation’s productive capacity. India has the assets. James Tobin described the ‘Q ratio’ as the relationship between an asset’s market value and its replacement cost. By that metric, India’s public sector and sovereign assets are chronically undervalued.
+
+India needs to consolidate its resources. The value of its listed public enterprises is over Rs 39 lakh crore and that of its banks is over Rs 17 lakh crore. The strategic play is to carve out government shareholding above the statutory 51 percent threshold into a sovereign wealth fund (SWF)—say, the Amrit Kaal Fund—modelled on Singapore’s GIC. The SWF can cherry-pick high-performance counters and package them into dollar-denominated exchange-traded funds for overseas bourses (and GIFT City) and rupees for Indians.
+
+The SWF will enable raising dollar resources. It will also signal that India has matured as a custodian of capital. It strips away the “bureaucratic discount” and replaces it with an “India premium”. The SWF also becomes a kinetic anchor platform for India’s next-generation mega-projects capable of leveraging its assets to raise debt seamlessly—whether in rupees at home or in dollars overseas.
+
+Thomas Edison said the value of an asset is in its utility. The same principle applies to sovereign balance sheets. Yet India’s approach to its vast domestic wealth remains structurally constrained. Yes, it has monetised some assets, but for the better part it has treated its rupee-paid domestic assets—sprawling rail networks, land banks, highways—as entries in the fiscal ledger and not leveraged its potential for dollar realisation.
+
+It is time it recast its approach. The government has listed assets worth Rs 16.72 lakh crore for monetisation. Thus far, it has depended on anchor investors—global and Indian pension funds—to realise the value. The two friction points faced by investors are currency risk (to pensioners the funds must hedge) and ticket size. How about looking at the value potential of bundling these assets?
+
+Instead of listing individual infrastructure investment trusts for roads, power or rail, why not offer a diversified bundle denominated in dollars—thereby reducing currency risk? The world’s 500 top asset managers are now managing over $128 trillion and mega funds look for larger ticket sizes and reduced currency risks. This way, global institutional investors need not play the guessing game about an emerging market currency and focus on funding India’s growth on neutral terms.
+
+Dollar townships are another option. India needs homes for its burgeoning youth population—there are roughly 90 lakh marriages every year. India also needs new townships around the industrial corridors that are sustainable and smart. Urbanisation, which is a force multiplier and an employer at the intersection of rural and urban economies, could also be leveraged to woo patient foreign capital.
+
+Global players though do not want to navigate the friction points of India’s permission raj. To start with, the Union can ask the states to compete for 25 township slots with all the clearances in place. The government could then invite bids in dollars from global players (BentallGreenOak, TPG and Kohlberg Kravis Roberts, Blackstone et al) with or without local partners. The idea is to enhance the value of India’s most illiquid rupee asset into dollar resources, and set new standards in urbanisation.
+
+These are only some of the ideas, but they should suffice to frame the change in approach needed. India does not lack assets; it lacks the strategic audacity to leverage them. By professionalising ownership, recycling infrastructure and incentivising state-level competition, India can convert latent national wealth into a kinetic global advantage.
+
+What the government does to arrest the fall of the rupee and the rise of inflation in the next few weeks would matter. But what matters more is what it does to pave the way for sustainable growth. In the final accounting of history, it is not what was done that defines a crisis. It is what was not.
+
+Author of The Gated Republic, Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/May/16/build-forex-fortress-monetise-public-assets-in-dollars)
+
+---
+
+## 16 May 2026
+
+### ​Juggernaut rolls on: On the third phase of SIR of electoral rolls
+*The Hindu · Editorial*
+
+The Election Commission of India (ECI) has announced a third phase of its controversial Special Intensive Revision (SIR) of electoral rolls, covering 16 States and three Union Territories with a combined electorate of 36.73 crore. Given what transpired in Phase 2 — a staggering net trim of 10.2% in the rolls — it would be prudent for the ECI to make structural changes in how it conducts this third phase, so that the disenfranchisement visible particularly in States such as West Bengal is not repeated. At least, the exercise will not be hurried through because of an impending election. The SIR has produced mass deletions of varying scale across States, with West Bengal’s the most egregious. This was the cumulative result of the ECI’s reliance on faulty software, arbitrary criteria, and methodological flaws, which together led to the removal of a disproportionately higher number of electors from marginalised and minority communities, most notably in West Bengal. Across States, the SIR was marked by the centralisation of data and decision-making in ECI authorities in New Delhi rather than with empowered Electoral Registration Officers in the States; by booth rationalisation conducted in parallel with enumeration rather than after it, which obscured the scale of deletions and made it harder for electors to verify their inclusion; and by software errors that deleted entire sets of duplicate names rather than only the excess entries. Most fundamental of all is the design of the enumeration process itself, which places the onus on electors rather than on ECI officials to establish eligibility on the rolls. The aggregate result of these flaws is visible in the data: gender-ratio drops in the electorate across nearly every State where the SIR was conducted — Tamil Nadu being the notable exception — and mismatches with officially estimated elector-population ratios.
+
+Yet, none of this has moved the ECI to change course. That the lessons of Bihar were not absorbed in Phase 2 itself raises the suspicion that the insouciance is by design. Worryingly, the Supreme Court of India has chosen managerial supervision over adjudication, directing the acceptance of more identity documents, deploying judicial officers, even as the underlying questions on Section 21(3) of the Representation of the People Act and on the shifting of the burden of proof to electors remain unresolved. As Phase 3 commences, the burden now falls on political parties and civil society to sensitise electors to ensure that their enumeration forms are properly processed. The ECI should prioritise universal adult franchise over a method that places the onus of remaining on the rolls upon electors themselves.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/juggernaut-rolls-on-on-the-third-phase-of-sir-of-electoral-rolls/article70984164.ece)
+
+---
+
+### Superpower summit: On the Trump visit to China
+*The Hindu · Editorial*
+
+As U.S. President Donald Trump left Beijing on Friday after two days of talks with Chinese President Xi Jinping, the world’s two biggest powers appeared to have come to a temporary truce. How long it will last remains to be seen, given that the summit concluded without any apparent breakthroughs in the long list of differences, from trade to Taiwan, that have strained relations. Instead, both sides appear focused on injecting some stability into a relationship that has, of late, seen many ups-and-downs. Mr. Xi offered a new label for ties, calling for “a constructive relationship of strategic stability” for the remaining years of Mr. Trump’s term and beyond. If both agree on the need for some stability, their priorities appear to differ. Mr. Xi told Mr. Trump that Taiwan was the most important issue in the relationship, which could descend into conflict if not properly managed. The U.S. stance on Taiwan remains unchanged, which includes substantial arms sales. How this détente will handle the Trump administration’s next sale remains to be seen. For Mr. Trump, getting China to buy more American goods and relax controls on rare earths are key metrics of the health of ties. He said that Beijing had agreed to buy 200 Boeing aircraft, step up purchases of soyabean, and relax restrictions on U.S. beef exports – the “three Bs” he has emphasised. The U.S. has also allowed 10 Chinese firms to resume purchases of advanced Nvidia chips. Both sides have discussed setting up a Board of Trade to manage trade issues, including reducing tariffs on some Chinese goods, and a Board of Investment to green light Chinese investment in non-sensitive sectors.
+
+These deals, if confirmed, may at most lead to a pause in a bruising trade war. However, the Beijing summit has also served as a reminder of the broader changing structural dynamics in relations between the world’s two biggest powers. If the U.S. remains the pre-eminent military power today, it is the limits of its ability to command global influence that have come into question increasingly, all the more so after the Iran war. China, for its part, has made clear it is no longer interested in biding its time or hiding its global ambitions. As Mr. Xi put it to Mr. Trump, can China and the U.S. avoid the Thucydides Trap, of an inevitable conflict between the established power and the rising power, and create a new model of relations? This question holds significance for India and the rest of the world, which have to navigate this rivalry. Standing up to U.S. pressure, while managing difficult relations with an increasingly confident China, will be two key tests of India’s diplomacy in the years to come. Reinforcing India’s strategic autonomy and independence, rather than diluting it, will offer the best path forward.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/superpower-summit-on-the-trump-visit-to-china/article70983712.ece)
+
+---
+
+### Trade, supply chains and economic statecraft
+*The Hindu · Opinion*
+
+The past decade has collapsed the old boundary between economics and geopolitics, creating a world in which supply chains, trade routes, energy corridors and technology ecosystems have become the real battlegrounds of power. What once belonged to corporate strategy decks is now the daily fare of national security briefings. Tariffs behave like sanctions, semiconductor alliances resemble defence pacts, and the flow of critical minerals can tilt influence as decisively as troop deployments once did. In this new order, states compete not only with armies or ideologies but with regulatory regimes, infrastructure networks and the capacity to anchor global production. The fusion of markets and statecraft is no longer a trend; it is the organising principle of 21st century geopolitics.
+
+Trade as strategic leverageThis shift has also exposed the fragility of the older globalisation consensus — the belief that trade naturally fosters cooperation and shared prosperity. Increasingly, economic ties are being repurposed as instruments of strategic leverage. Tariffs, export controls, supply-chain restrictions and energy dependencies have become tools through which states attempt to shape the behaviour of others. The scramble over critical minerals, the weaponisation of interdependence (with China’s curbs on the export of rare earths allowing it to flex its muscles against the United States and India), and the resurgence of tariff politics (used by U.S. President Donald Trump to punitive effect) all underscore how easily commerce can be turned into coercion. In such an environment, economic diplomacy is inseparable from national security, and countries must navigate a world where prosperity and power are intertwined.
+
+For India, this shift has encouraged a more pragmatic approach to foreign policy, one that places greater emphasis on economic resilience and diversification. This fusion of economics and geopolitics has created a rare moment in which India’s structural strengths align with the world’s strategic needs. As companies and governments rethink their exposure to concentrated supply chains, India’s scale, stability and reform trajectory have moved it from the periphery of globalisation to the centre of boardroom strategies and diplomatic calculations. A country once viewed in the West as a promising but difficult market is now seen as an indispensable node in a diversified global economy — large enough to matter, stable enough to trust, and open enough to absorb investment at scale.
+
+Three shifts underpin this new positioning. First, India’s domestic reforms — digitisation, infrastructure expansion, and targeted deregulation — have lowered transaction costs and improved predictability, making it easier for global firms to build long-term capacity.
+
+Second, the geopolitical recalibration around China has created a structural demand for alternative production ecosystems, and India is one of the few economies with the labour force, political stability and market depth to meet that demand.
+
+Third, India’s own strategic imagination has expanded: it now sees trade agreements, technology partnerships and supply-chain diplomacy not as peripheral to national strategy but as central instruments of statecraft.
+
+The new order and IndiaIn this environment, India’s relationships with major powers are increasingly shaped by economic security rather than traditional geopolitics alone. Semiconductor collaborations, critical-mineral partnerships, defence-industrial co-production and digital-public-infrastructure exports are all examples of how India is weaving economic resilience into its foreign policy. These are not merely commercial arrangements; they are strategic bets on a world where influence flows through production networks as much as through military alliances. It is a world where Pax Silica complements Pax Americana, but unlike the latter, does not require a military partnership.
+
+At the same time, India must navigate the risks of this new order. Interdependence can empower, but it can also expose. Over-reliance on any single partner — whether for technology, minerals, or markets — creates vulnerabilities that can be exploited. The challenge is to build a diversified portfolio of economic relationships that enhances India’s autonomy rather than constraining it. Promiscuity is not a virtue in inter-personal relationships, but in the trade world of the third decade of the 21st century, it may be the only viable “default mode” for India’s conduct. Of course, like the other kind, trade promiscuity also requires precautions. Even as it pursues multiple partners, India must strike a careful balance: deepening integration without surrendering strategic space, attracting investment without becoming dependent on it, and embracing globalisation without repeating the mistakes of earlier eras. This global shift also places new demands on India’s internal economic strategy. To anchor global supply chains, India must continue improving logistics, regulatory clarity and workforce skills. To lead in emerging technologies, it must invest in research, intellectual property and trusted digital infrastructure. To secure critical minerals, it must build resilient partnerships abroad and sustainable extraction policies at home. And to maintain credibility as a democratic alternative in a world of authoritarian efficiency, it must ensure that economic growth is matched by institutional strength and social cohesion.
+
+The stakes are high because the opportunity is historic. For the first time since liberalisation, the global economy is not merely inviting India to participate — it is actively seeking India’s presence. The question is whether India can convert this moment of geopolitical demand into long-term economic capability.
+
+As the global trading system fragments into overlapping coalitions and custom-tailored economic arrangements, India’s task is not to retreat behind new walls but to remain confidently open on its own terms. The goal is neither complete individualism nor naive globalism, but a calibrated integration that avoids excessive dependence on any single partner. Serial dating works best when each partner is aware of your other relationships, knows multiple options exist but is not threatened by any of them. This is why energy security, technology partnerships and resilient supply chains have become central to India’s external engagement: they are the arenas in which the next phase of global competition will be decided.
+
+Economic diplomacy is no longer an adjunct to foreign policy; it is one of its organising principles. Countries that can align their economic strategy with their diplomatic posture will shape the emerging order rather than be shaped by it.
+
+This moment also coincides with a profound transition in the architecture of global trade. The multilateralism that defined the late 20th century — rooted in universal rules and broad consensus — has lost momentum under the weight of geopolitical rivalry and domestic political pressures. In its place, nations are turning to flexible bilateral and regional arrangements that allow them to tailor partnerships to strategic priorities. For India, this shift is not a setback but an opening. It creates space for a more agile, interest-driven diplomacy that can leverage India’s scale, stability, and reform trajectory to build coalitions across geographies and sectors.
+
+India at global crossroadsThe convergence of these trends places India at a pivotal juncture. The world is searching for diversified production bases, trusted digital ecosystems and stable democratic partners. India can meet that demand — but only if it continues to invest in competitiveness at home and credibility abroad. The choices made now will determine whether India becomes a central anchor of the new global economy or remains merely one of its many participants. The opportunity is historic, but it is not automatic. It requires clarity of purpose, institutional steadiness and the confidence to engage the world without fear or favour.
+
+In a world where prosperity and power now move through supply chains rather than shipping lanes, India’s future will be shaped not by choosing between globalisation and self-reliance, but by mastering the art of engaging the world on terms that protect its autonomy while amplifying its ambition.
+
+Shashi Tharoor is the fourth-term Member of Parliament (Congress party, Lok Sabha) for Thiruvananthapuram, the Chairman of the Parliamentary Standing Committee on External Affairs and the Sahitya Akademi Award-winning author of 29 books, including Pax Indica (2012) and The New World Disorder (2020)
+
+[Read full article](https://www.thehindu.com/opinion/lead/trade-supply-chains-and-economic-statecraft/article70984368.ece)
+
+---
+
+### Devi Kar | The Rewards & Challenges Of A Mixed Student Body In School
+*Deccan Chronicle · Opinion*
+
+Today, it is almost expected that all reputed schools will be “inclusive”. It is important to clarify at the outset that being inclusive and having a mixed or diverse student population are two different things. The term “inclusive” has a strong element of intentionality, whereas having a diverse student cohort may just be incidental.
+
+However, there are school leaders who look for homogeneity as they feel that a heterogeneous student population is likely to throw up all kinds of complications and challenges, which would definitely get in the way of a smooth teaching-learning process. Generally, teachers are used to dealing with mixed-ability classes and are trained in differentiated teaching, though some schools have a policy of grouping students into sections of each class according to their ability levels. I feel that this system may make teaching easier but it certainly introduces an element of undesirable superiority and inferiority complexes among the students and deprives them of learning lessons of life from students with different backgrounds and experiences.
+
+In many coveted schools that are known for their academic excellence -- not necessarily limited to commendable public examination results -- there may be diverse students, that is, hailing from different communities, regions or even countries, yet socio-economically they may be quite homogeneous. These schools ensure that only those candidates who are likely to perform well in academics are admitted, hence their classes do not pose the challenges that mixed-ability groups usually do. Other schools follow a policy where they admit a percentage of students who come from under-resourced and under privileged communities. In such cases, a different set of challenges has to be faced.Some parents prefer to send their children to schools where they will interact with other children of the same kind. They feel secure that they don’t have to worry about the polish and culture of the families of their children’s friends, the language they would use and the kind of homes they would visit. Befriending children from a different socio-economic stratum altogether would generate all kinds of complications and complexities. Further, even if they open their own homes to such children, they wouldn’t have the confidence to allow their children to visit theirs. Probably, the children from “poor” families would also hesitate to invite their affluent friends to their humble homes or even meet their uneducated, unsophisticated and vernacular-speaking parents.Why is it, then, that some of us strongly feel that a truly mixed student population is desirable in any school for a rich and complete education to be imparted? If a student has to be prepared for the real world, which is one of the purposes of a school education, society outside the school walls must be reflected within, as far as possible. Children will not be able to face life beyond school if they are kept cocooned in an artificial setting. School should give them opportunities to interact with different kinds of children with varied family backgrounds. Not only will they be the richer for it, but they will develop the skills needed to deal with different kinds of people in their adult lives.
+
+If a school has a policy of admitting students from different socio-economic strata, it indirectly strengthens the character of every student, irrespective of background. Those from wealthy homes learn to be compassionate and also to appreciate those who perform well without the facilities and advantages that they themselves are fortunate to have. The children of middle-class parents learn to be proud of their identity and accept that there would always be people who were better off than them and others who were worse. In some schools there are some “free students”, who are from low-income homes. I have seen them grow in resilience as well as self-confidence.
+
+In a conducive environment, children learn how to deal with each other’s sensitivities. I remember the time when I was discussing “inclusion” and “exclusion” with middle-schoolers, a student mentioned that it can happen even in an “expensive” school that a group of girls talking about their foreign holidays or the latest fashion trends make a few individuals feel “excluded” as they could not participate in such conversations. Similarly, those who come to school in chauffeur-driven limousines are unable to relate to the daily commute by public transport that many of their classmates are accustomed to. Reactions can be varied -- ranging from envy and admiration to pity and condescension.
+
+No doubt there are many complex issues that can arise in a diverse school community. However, the dividends are so rich that the challenges pale into insignificance. India is a country with multiple cultures and though there is a strong drive to make everything standard and uniform, I fervently hope and pray that we will always support plurality. We would be sadly impoverished if...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/devi-kar-the-rewards-challenges-of-a-mixed-student-body-in-school-1957165)
+
+---
+
+### Manish Tewari | Towards Tighter Online Censorship And Political Dictatorship
+*Deccan Chronicle · Opinion*
+
+When the Government of India introduced the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules in 2021, experts raised concerns about expanded executive influence that tantamounted to Constitutional overreach qua online speech.
+
+Since then, the Rules have steadily evolved through amendments, advisories and executive interventions. The Draft IT Rules Second Amendment, 2026, is yet another major turning point that could reshape the relationship between citizens, platforms, and regulators.
+
+According to MeitY, the proposed amendments are clarificatory and procedural in nature, aimed at strengthening intermediary compliance, improving legal certainty, and enhancing oversight mechanisms relating to online content regulation. However, a closer reading also raises important questions about the scope of executive oversight and the potential impact of the amendments on lawful online expression and the Constitutional Guarantee of Free Speech.
+
+Broadening the scope of online speech regulation
+
+One of the most significant changes is the expansion of the Rules from publishers to ordinary users. The amended Rule 8(1) seeks to bring “news and current affairs content” posted by non-publisher users under the regulatory framework of Part III of the IT Rules. This means the same mechanism originally designed for digital publishers and OTT platforms could now potentially apply to individual citizens posting commentary, analysis or opinions online that constitutes the most extreme form of censorship proscribing the individual’s freedom of speech and expression.
+
+The concern lies not only in the expansion, but also in the vagueness of the definition itself. “News and current affairs content” includes “noteworthy content” relating to socio-political, economic, or cultural issues. In practice, this could cover a wide range of online speech - from an Instagram story discussing elections to a WhatsApp forward about public policy or a tweet criticising government action.
+
+This marks a significant expansion of the regulatory framework into areas of ordinary online expression. The breadth of the language may create room for inconsistent interpretation and uneven enforcement. India has already seen repeated cases involving content takedown requests, blocking orders and pressure to remove politically embarrassing material especially for ruling dispensations both at the Centre and in the states. It would not be trite to state that the misuse of these take down provisions is exponentially more by the Central government. The proposed changes will exacerbate the gross abuse of executive discretion in content governance.
+
+Expanding executive oversight mechanisms
+
+Another notable aspect of the amendments is the expanded role of the Inter-Departmental Committee (IDC), an executive-led body that oversees digital content. The amended Rule 14(2) would give the ministry the power to refer matters directly to the IDC even where there is no complaint from an aggrieved party. This means that the executive authorities could proactively initiate the scrutiny of online content at their own discretion.
+
+This would represent a notable shift in the structure of content oversight. Previously, the framework at least nominally relied on complaints and grievance mechanisms. The new proposal appears to move toward a more proactive model of executive scrutiny where authorities may initiate review of content even absent a user complaint.
+
+The lack of independent or judicial oversight in this process raises serious constitutional concerns.
+
+The proposed amendments also come at a time when several provisions of the 2021 IT Rules are already under judicial challenge before the constitutional courts. The Bombay High Court had stayed portions of the Rules relating to the Code of Ethics and government oversight mechanisms, observing that they could have a chilling effect on free speech. The Madras High Court affirmed that the stay would apply nationally.
+
+Against this backdrop, the proposed expansion of similar oversight mechanisms raises questions about whether further judicial clarity should first be awaited.
+
+Expansion of Due Diligence Obligations
+
+Perhaps the most significant amendment is the insertion of Rule 3(4), which links intermediary safe harbour protections to compliance with government-issued advisories, clarifications, guidelines, directions, and standard operating procedures.
+
+Under Section 79 of the Information Technology (IT) Act, 2000, intermediaries are protected from liability for actions of their users so long as they follow due diligence obligations. This “safe harbour” principle forms the backbone of the modern internet.
+
+Advisories, clarifications, guidelines and standard operating procedures are administrative directions and are not laws made through parliamentary scrutiny. Unlike rules that are debated in Parliament or formally notified and subject to legislative oversight, executive instructions can be ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/manish-tewari-towards-tighter-online-censorship-and-political-dictatorship-1957160)
+
+---
+
+### Ranjona Banerji | Inside The Mind Of  An Internet Troll
+*Deccan Chronicle · Opinion*
+
+How do I insult thee? Let me count the ways.
+
+This must be the favourite poem of trolls who bottom feed on the Internet. Well, before the trolls get to me, I will be upfront: there is no such poem. There is a poem like it, but I have changed one word. Also, I would be impressed if trolls had heard of the poem and also know which word I have changed.
+
+I know. How snobbish of me. No wonder I get trolled. I probably deserve it.
+
+There are though, I have found, three aspects of one’s life which will inevitably lead to incessant trolling.
+
+The first is being female. Now this I had no control over. I imagine I should blame my father. But that makes little sense because it’s not as if he had control over which sperm, it’s just that the sperm determines the XX or XY or any other combinations. Although, I hear there is new research which suggests that the egg decides which sperm to choose. On the whole I think it’s better to blame both parents and thus absolve myself of all responsibility. It seems fairer this way.
+
+Although, don’t tell those trolls which thrive on misogyny that new genetic research also suggests that intelligence comes from the mother. On the other hand, I think I’m falling so deep into rabbit holes that I won’t be able to dig myself out. Because what about those mothers who produced these vicious trolls?
+
+O dear. I’ll stop now.
+
+Anyway, the thing is that trolls don’t like females. Or to be more definitive, females who have opinions which they express.
+
+And what really upsets them is if these trolls are from Bengal. I did not realise that the Bengali woman is such a hated person. How innocent you might say. Most of my life, I’ve been fed up of the other more usual cliches about Bengalis — so cultured, so artistic, so clever and so on. As if every Bengali was some combination of William Shakespeare, Leonardo Da Vinci and Albert Einstein combined. Or in Bengali, Rabindranath Tagore. If you meet half my relations, you would know what a laugh that is.
+
+It was after the sad death of actor Sushant Singh Rajput and the subsequent vilification of a Bengali starlet, that I learnt that the greatest attribute of Bengali women is that they are witches who are experts in black magic. Now, had anybody told me this before, I see that my life would have been very different. Sadly, there was no internet when I grew up and for a good part of my adult life. So, I never met a troll and never learnt this important fact about myself. If any troll reads this, I would be happy to fulfil their fantasies if they could point me in the direction of any witching school which specialises in “jaadu-tona” or is it “kaala jadu”? Either way, do forgive my attempt to try and use words associated with North Indian prejudices. However, surely it is not too late to learn how to punish those who deserve it and revenge they say is best served cold? Watch out, all ye who crossed my path in the past! Er, does this include the trolls? Hmmm. Food for thought. Although I have to find the local equivalent of Hogwarts or wherever Gandalf went to school, something perhaps like the Special Bengali Women’s Higher College of Kaala Jadu and Tona.
+
+Of course, I forgot to mention that many Bengalis are also Islamo-Christo-Fascist-Commie-Congressis. I am not certain what this political combination implies but it certainly makes it clear that these Bengalis are not the bigoted Hindutva right-wing. Except of course those of my relations in Bengal who voted for the BJP. Presumably they get trolled by Islamo-Christo-Fascist-Commie-Congressis, who from all accounts are not as successful as trolls than our dear pals (and relations) on the right.
+
+But you know what upsets these trolls even more than being female, Bengali, witches, Islamo whatever? It’s being all those things plus being concerned about the environment, trees, forests, wildlife, green cover, global warming and that sort of thing. That is the absolute tipping point.
+
+I realised this to my innocent amazement when I posted on social media about the Great Nicobar project. Now I had posted about this before. But posting it after a certain opposition leader had visited the islands of Nicobar was apparently the end of all tolerance. Every misogynistic sexual taunt and verbal assault was thrown at me, with no concern for the various black magic spells that I could throw their way. The rage was total! Bad enough that I was pro-rainforest and anti-development and national security concerns and whatever else enrages them. But to show support for the environment after a visit by an Opposition politician? No way. That cannot be tolerated.
+
+Forests can be chopped down. Wildlife destroyed. Tribals lose their homes. But opposition politicians must be opposed. And as long as thousands of crores of rupees are spent, we can be sure that our security and strategic interests are well looked after. Plus, those of a few friends. O no. I did not just write that. And shh. Not a word about border and security...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/ranjona-banerji-inside-the-mind-of-an-internet-troll-1957179)
+
+---
+
+### Congress, finally, reads the Kerala verdict
+*Deccan Herald · Editorial*
+
+Ten days after the Congress-led United Democratic Front (UDF) registered a landslide electoral victory in Kerala, the party’s high command chose V D Satheesan as the state’s new Chief Minister. The uncertainty that prevailed before the high command picked Satheesan did the party no good.
+
+The announcement was delayed because the central leadership backed All India Congress Committee (AICC) general secretary K C Venugopal, who did not contest the election, while the people clearly favoured Satheesan, who led the alliance to this resounding victory.
+
+By prioritising a coterie’s interests above the party and the people, the leadership risked serious damage, given that Kerala is one of the Congress’s few remaining pockets of influence. Left to themselves, the leaders would have decided against the overwhelming will and verdict of the people. This lack of political judgment is even more striking because Congress has lost states when it imposed chief ministers on the people or removed them from office against public opinion.
+
+Its final decision is being hailed as a victory of consensus and the spirit of internal democracy, but the credit should go to the positions taken by the public and the allied parties, the residual good sense of some leaders, and a media consistently critical of this post-results power play. It must be said that even before the euphoria of a massive victory settles, the Congress leadership has lost some credibility.
+
+Celebrations on in Kerala as V D Satheesan is named as Chief MinisterSatheesan was the face of the party and the UDF in the elections. He is not a dynast and is the first from his family to join politics. A leader who rose from the grassroots, the first-time Chief Minister has about three decades of political experience. He is seen by a large section of the cadre as a principled leader who would not cede space to communal interests. Satheesan is also the unlikely politician with a book: a voracious reader with a range of interests.
+
+The new Chief Minister will face multiple challenges in office. Financially, Kerala has just managed to stay afloat, while resisting the Centre’s unfriendly policies. The government will need a substantial revenue thrust to implement the five guarantee schemes announced during the campaign.
+
+The Lok Bhavan can be expected to be at odds with the government on many fronts. Satheesan may also face opposition from the party’s MLAs and even ministers, given the circumstances of his appointment. The high command must ensure that he gets the full backing in what could also be a crucial term for the party’s national footprint.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/congress-finally-reads-the-kerala-verdict-4004689)
+
+---
+
+### Tree felling exposes flawed priorities
+*Deccan Herald · Editorial*
+
+The renewed felling of 233 trees in Ballari for road-widening is more than a local environmental issue. It reflects a deeper policy failure in Karnataka’s approach to development – one that increasingly views mature trees as obstacles rather than vital urban infrastructure. What makes this particularly disturbing is not merely the scale of the proposed destruction, but the manner in which it began.
+
+Trees were reportedly felled during the night of April 24 without permission, before police and forest officials intervened to halt the exercise after 25 trees had already been cut down. Separate criminal cases have since been registered against Public Works Department (PWD) officials and contractors. Yet, despite the legal and public backlash, efforts to resume the felling continue.
+
+This episode stands in stark contrast to the vision once championed by former Chief Minister Ramakrishna Hegde, under whose leadership the state consciously invested in avenue plantations and green highways. Roadside trees were treated not as ornamental additions, but as ecological assets essential for shade, temperature regulation, and public well-being. Today, however, the focus appears to have shifted from social forestry to project-driven felling.
+
+While the Forest Department has suggested alternative engineering solutions, including remodelling road shoulders to preserve the trees, PWD officers argue that retaining them would obstruct drainage systems, pedestrian pathways, electricity infrastructure, and road signage.
+
+Around the world, and even in parts of Chandigarh and Lutyens' Delhi, planners increasingly adopt “design-around” solutions such as split carriageways and permeable pavements that protect mature root systems instead of treating tree felling as the default option. This is especially important in Ballari, one of Karnataka’s hottest districts. The removal of large roadside trees could intensify the urban heat island effect and sharply increase surface temperatures.
+
+In hot city Ballari, PWD wants to axe 233 trees for road widening The controversy also raises troubling legal questions. Under the Karnataka Preservation of Trees Act, 1976, large-scale felling requires statutory scrutiny and public consultation. Whether such processes were meaningfully followed before 233 trees were marked for destruction remains unclear.
+
+While the PWD has offered to cover the cost of compensatory afforestation, the Supreme Court has repeatedly observed that planting five or ten saplings for every tree cut is inadequate. A sapling cannot immediately replace the oxygen output, biodiversity value, or microclimatic cooling provided by a 50-year-old tree.
+
+This tree-felling controversy must therefore compel Karnataka to rethink its development priorities. True progress lies not in widening roads at any ecological cost, but in designing infrastructure that respects and preserves natural assets built over generations.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/tree-felling-exposes-flawed-priorities-4004690)
+
+---
 
 ## 15 May 2026
 
@@ -58,6 +418,56 @@ In this era of culture contests and tribalism, it is hard to see a natural affin
 Deepa M. Ollapally is Research Professor of International Affairs, The George Washington University, U.S.; N. Manoharan is Professor and Director, Centre for East Asian Studies, CHRIST University, Bengaluru
 
 [Read full article](https://www.thehindu.com/opinion/lead/the-iran-war-indias-strategic-autonomy-challenges/article70979587.ece)
+
+---
+
+### DC Edit | Bonhomie Only Takeaway From Trump-Xi Summit
+*Deccan Chronicle · Editorial*
+
+US President Donald Trump may have had four Ts uppermost on his mind while travelling to meet his Chinese counterpart Xi Jinping in Beijing — Trade, Tariffs, Tehran and Taiwan.
+
+Billed as the most consequential meeting in years between the world’s top economic powers, it may have ended up as an underwhelming event if not for the bonhomie that seemed the biggest takeaway for both sides.
+
+There was very little by way of tangible outcomes, not only for the US but also for the world itself if it had reason to believe Mr Trump could convince China into playing a big mediatory role in bringing the Iran war towards a close by getting the Strait of Hormuz opened. As China buys 90 per cent of Iran’s oil to meet 40 per cent of its consumption, it was fair to assume that China would take some interest in trying to see traffic resume unhindered.
+
+While concerns over trade with China represents a point of tension and it was open to Mr Trump to interpret what Mr Xi may have said about the United States being a declining nation as seen in the demise of the post-World War II order, the world may have been more taken with what China could potentially do to bring about an end to the conflict in West Asia which Mr Trump seems incapable of doing on his own.
+
+The roseate picture Mr Trump may have painted in his trademark bravado after grand shows of affability between him and Mr Xi Jinping in two full days of meetings, banquets and visits to the Temple of Heaven and the Chinese Communist party’s secret compound in Zhongnanhai collides with the truth that the prickliest issues remain unresolved, including China’s stand on the self-governing island of Taiwan over which Mr Xi issued a stern ‘keep off’ warning to the US.
+
+Speaking more in line with China’s aspirations to be considered an equal to the US, Beijing said the two countries were entering “new orientation” which it termed as “constructive strategic stability” and which it expected would last at least three years.
+
+This must have come as a shock to Mr Trump who had adopted a deferential posture in his interactions with Mr Xi, showering praise on their friendship. Such an attitude was far removed from the transactional dealings to which he reduced many of his meetings with the leadership of the rest of the world.
+
+Maybe, Mr Trump did convince China, the world’s largest aviation market, to commit to buy 200 Boeing aircraft. There was, however, no firm word regarding things like American corn and beef that the US had lined up hopefully as products that China would buy to the tune of at least $30 billion in an attempt to revive trade that is yet to attain old highs despite the truce on tariffs the two leaders had agreed upon when they met last in South Korea in October 2025.
+
+Had the two nations been able to forge deals about resuming their trade at scale, India might have been pushed to compete harder to sort out its export problem with US tariffs even as its status as a “China Plus One” manufacturing destination takes a hit. In the absence of constructive outcomes from Beijing meetings, India would be free to pursue its objective of setting its US trade on an even keel.
+
+The absence of firm indications of China helping with the straitened situation in the Strait of Hormuz means India would have to bear more pain from the chokepoint syndrome that has skewed its oil supply as well as that of much of the world.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-bonhomie-only-takeaway-from-trump-xi-summit-1956988)
+
+---
+
+### DC Edit | Fuel Hike To Hit Economy Hard
+*Deccan Chronicle · Editorial*
+
+The BJP-led NDA government’s decision to hike petrol and diesel prices by Rs 3 after absorbing the impact of soaring global crude oil prices is likely to have a cascading effect on the overall economy, affecting household budgets.
+
+With oil marketing companies losing at least Rs 14 per litre on petrol and Rs 42 per litre on diesel, the retail fuel prices could see a further rise in the country.
+
+Despite the government not passing on the crude oil price hike, wholesale inflation surged to 8.3 per cent in April, its fastest pace in three-and-a-half years. Though wholesale inflation does not guide the Reserve Bank of India’s decisions on interest rates or the government’s fiscal policy, wholesale inflation indicates supply side pressures and serves as a diagnostic tool of the broader economy.
+
+As the global oil supply situation is not expected to return to the pre-war situation for the next few months, energy prices could remain elevated throughout 2026, with colder regions adding further pressure to oil prices after October.
+
+With the government finally increasing prices of petrol and diesel, the impact of higher fuel prices could be passed on to farm produce and manufactured goods. It will have an impact on retail inflation and force the RBI to increase interest rates.
+
+The Indian economy has always suffered when crude oil prices shot up. As almost 90 per cent of the oil demand comes from the transportation sector, the government must crack down on non-essential travel within the country, if it is really resolute enough to save the economy from the oil surge.
+
+The government should also force freight companies to immediately shift to container trucks which could be transported to longer distances through rail freight. Though such a shift will take time, the demand for containers for lakhs of trucks will boost commercial activity in the country and provide an impetus to the economy.
+
+Extraordinary situations warrant extraordinary solutions. The government needs to decide whether it wants to save the economy or remain popular.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-fuel-hike-to-hit-economy-hard-1956972)
 
 ---
 
