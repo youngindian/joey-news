@@ -1,3 +1,891 @@
+## 17 May 2026
+
+### Posters targeting Congress' Rahul, Priyanka and Kharge surface in Wayanad; police register case
+*Pti · business*
+
+Wayanad: Police have registered a case after posters targeting Rahul Gandhi, Priyanka Gandhi Vadra and Mallikarjun Kharge appeared on the walls of Congress office and nearby areas in Wayanad, officials said on Sunday.
+
+Officials at Kalpetta police station said the case was registered following a complaint lodged by MLA T Siddique.
+
+According to the FIR, the posters targeting the three party leaders appeared at the Wayanad DCC office compound wall and nearby areas on May 13, when uncertainty prevailed over the selection of the next Kerala Chief Minister.
+
+  
+
+Officials said the posters also threatened that Vadra, who is the MP from Wayanad, would be defeated in the next election.
+
+It warned that "Wayanad will become the next Amethi".
+
+Police said that soon after the incident, Congress workers removed the posters.
+
+The case has been registered under various sections of the Bharatiya Nyaya Sanhita and the Kerala Police Act.
+
+Police have retrieved CCTV footage in which a person was seen pasting the posters on the walls, and efforts are underway to identify him, officials said.
+
+---
+
+### Bulldozers will roll across country against illegal constructions: Dilip Ghosh
+*ANI · business*
+
+Kharagpur: West Bengal Minister Dilip Ghosh on Sunday asserted that strict action would be taken against illegal constructions and encroachments, saying bulldozers would be deployed wherever unlawful structures exist.
+
+Speaking to reporters in Kharagpur, Ghosh said the newly formed government in West Bengal had initiated action against illegal constructions from the very first day of assuming office.
+
+"Bulldozers will roll across the entire country. Wherever there is illegal construction, bulldozers will be deployed. The new government that has come to power here in Bengal has initiated this process right from day one. I appeal to anyone involved in illegal activities to conduct their operations within the bounds of the law, and the government will extend its full cooperation to them... We will not tolerate any form of encroachment on government land," Ghosh said.
+
+  
+
+His remarks came amid demolition drives in Kolkata's Tiljala area following a devastating fire incident that claimed two lives and raised concerns over allegedly unauthorised structures in the locality.
+
+Earlier, West Bengal minister Agnimitra Paul had defended the demolition action, stating that the government would follow proper procedures before taking any action against illegal buildings.
+
+"If there is illegal construction, we will send you the notice and ask for the document. We will not allow you if you do not have any documents. We will surely give a time limit. We are not in a hurry," Paul told ANI.
+
+BJP leader Rudranil Ghosh also supported the demolition drive, alleging that the previous Trinamool Congress government had failed to act against illegal constructions.
+
+"The constructions which were demolished were illegal. It should have been done by Mamata Banerjee. They supported the criminals instead of punishing them. A bulldozer is not a symbol but is used for quick results. People are distressed," he said.
+
+Meanwhile, residents affected by the demolition questioned the administration's intent and sought more time to retrieve documents from the buildings.
+
+Resident Shakeel Ahmad claimed important documents remained locked inside the structure. Another resident, Nazia Firdous, appealed to Chief Minister Suvendu Adhikari for a 24-hour stay on the demolition to allow residents to present ownership papers.
+
+---
+
+### Is petrol cheaper in Bhutan than India? Here’s the truth
+*SECTIONS Is petrol cheaper · business*
+
+A video claiming that petrol is cheaper in Bhutan than in India is going viral on social media. In the clip, a person alleges that fuel supplied by Indian petroleum companies to Bhutan is being sold there at much lower prices than in India.
+
+However, the claim has been found to be misleading.
+
+According to the Press Information Bureau (PIB), the viral video is old and is being shared out of context to spread misinformation.
+
+  
+
+“A video circulating on social media claims that the petrol supplied by Indian petroleum companies to Bhutan is being sold at a significantly lower price in Bhutan than in India. This video is old and is used out of context to mislead citizens,” PIB said in a post on X.
+
+PIB also shared a link for users to check the latest fuel prices in Bhutan.
+
+Fuel prices in India were recently increased by Rs 3 per litre for both petrol and diesel. Meanwhile, several neighbouring countries had already implemented fuel price hikes earlier.
+
+  
+
+> — PIBFactCheck (@PIBFactCheck)
+
+Here’s how fuel prices compare across the region after converting them into Indian currency:
+
+### Pakistan
+
+-   Petrol: Around Rs 141 per litre
+-   Diesel: Around Rs 141 per litre
+
+According to the latest available rates, petrol in Pakistan costs Pakistani Rs 414.78 per litre, while diesel is priced at Pakistani Rs 414.58 per litre.
+
+### Nepal
+
+-   Petrol: Around Rs 134 per litre
+-   Diesel: Around Rs 139 per litre
+
+### Bangladesh
+
+-   Petrol: Around Rs 109 per litre
+-   Diesel: Around Rs 90 per litre
+
+The viral Bhutan petrol price claim, therefore, does not present the full picture and has been flagged as misleading by the government fact-checking agency.
+
+Meanwhile, CNG prices have been hiked in India for the second time. Today, CNG prices have been raised by Rs 1. Earlier, Parliamentary Affairs Minister Kiren Rijiju said that while many countries have seen petrol and diesel prices rise by 20 per cent to nearly 100 per cent, India has managed to keep the increase relatively low at 3.2 per cent for petrol and 3.4 per cent for diesel.
+
+---
+
+### TS EAMCET 2026 Result Date & Time: When will the board announce results at eapcet.tgche.ac.in? Check the latest update
+*Trending Desk · business*
+
+TS EAMCET Result 2026 will be announced today, May 17, at 11 AM by the Telangana State Council of Higher Education (TGCHE). Candidates who took the Engineering, Agriculture, and Pharmacy entrance exams can check their scores and ranks on the official website.
+
+## TS EAMCET 2026 Result Date & Time
+
+The results will be out today at 11 AM. Students can check their results from the official website, which is eapcet.tgche.ac.in.
+
+  
+
+## How to Check TS EAMCET 2026 Result Online
+
+Step 1: Go to the official TS EAMCET website at eapcet.tgche.ac.in.
+
+Step 2: Click on the “TS EAMCET 2026 Result” link available on the homepage.  
+Step 3: Enter your registration number, hall ticket number, and date of birth in the required fields.  
+Step 4: Submit the details to view your rank card along with normalized marks.  
+Step 5: Download the result PDF and keep a printed copy safe for the counselling and admission process.
+
+  
+
+## TS EAPCET 2026 Qualifying Marks Criteria
+
+-   General and OBC category students must obtain at least 25% marks, which equals 40 out of 160.
+-   Candidates belonging to SC and ST categories are exempted from the minimum qualifying marks requirement.
+
+  
+
+## Details Mentioned on TS EAPCET 2026 Rank Card  
+
+-   Candidate’s name along with the selected stream
+-   Hall ticket or admit card number
+-   Normalized marks secured in each subject
+-   Overall normalized score obtained in the exam
+-   Qualification status indicating whether the candidate has qualified or not
+-   State rank assigned to candidates who meet the qualifying criteria
+
+## What are the next steps after results
+
+Following the announcement of the results, the Telangana State Council of Higher Education (TSCHE) is set to start the TS EAMCET 2026 counselling process. Candidates who qualify in the entrance examination will be allowed to participate in the registration process. The entire counselling procedure will take place in online mode only.
+
+---
+
+### CNG prices increased by Re 1 in Delhi-NCR, second hike in two days
+*Business Standard · business, entrepreneur, finance*
+
+CNG will now cost Rs 80.09 per kg in Delhi and Rs 88.70 per kg in Noida-Ghaziabad after the latest increase
+
+[Read full article](https://www.business-standard.com/economy/news/cng-prices-hike-delhi-ncr-fuel-rate-today-126051700087_1.html)
+
+---
+
+### Top carmakers remain bullish on FY27 domestic demand amid global risks
+*Business Standard · business, entrepreneur, finance*
+
+Auto companies have not cut back on capex and are planning new launches, even as they remain cautious about margins amid input costs and supply-chain risks
+
+[Read full article](https://www.business-standard.com/industry/auto/top-carmakers-fy27-domestic-demand-capex-launches-global-risks-126051700103_1.html)
+
+---
+
+### Sarfaroshi
+*Suvir Saran · legal*
+
+There are truths that do not arrive all at once. They gather. Gently. Gradually. Like a raga rising from rehearsal into revelation. Like a seed swelling beneath soil before it dares to split the surface. Like a song you think you have learnt—until one day, you realise, it has been learning you.  
+There are mornings that do not leave you. Voices that do not fade. Rooms that remain, long after you have walked out of them, long after the bell has rung, long after the corridors have forgotten your footsteps. And somewhere between memory and meaning, between childhood and clarity, something continues—softly, steadily, stubbornly—within you.
+
+And if you listen closely enough, you will hear it.
+
+There are songs you remember.  
+And then there are songs that remember you.  
+Sarfaroshi ki tamanna ab hamaare dil mein hai…  
+Even now, if I close my eyes, I am back there—Modern School, Vasant Vihar. The morning light still mellow, not yet sharpened into scrutiny. The assembly ground a mosaic of blue uniforms, shifting, settling, whispering into silence. And at the front—three of us. Abhimanyu Katyal. Sonam Kalra. And I.  
+A harmonium that had to be coaxed into courage.  
+Manjira that chimed like memory finding rhythm.  
+Drums that waited for the certainty of touch.  
+And then—voice.  
+Tentative at first. Then tethered. Then trembling into truth. Then rising—always rising—until it found a place inside us we did not know existed.  
+Because this was never a song that allowed you to stay small.  
+Sarfaroshi ki tamanna ab hamaare dil mein hai, dekhna hai zor kitna baazu-e-qatil mein hai…  
+The moment those words left our lips, something shifted. Not just in us—but in the air itself. The assembly did not remain audience. It became accomplice. A chorus. A current. What began as three voices became three hundred. What began as sound became surge.  
+We were children. We did not yet understand sacrifice. We did not know the weight of revolution, the cost of courage, the consequence of conviction. But we knew this much: something inside us was being summoned.  
+And we rose to meet it.
+
+There were teachers—Toquir Ahmad, Indu Mahajan, Kiran Bhatt, Zal Daver, Zehra Sherwani, Shankar Dasgupta, Nalini Kumaran, Vanita Mehta, Sabiha Hashmi, Marie Arora, Neeta Mathur, Poonam Sahai, Mrs. Punia, Sakla Sharma, Mrs. Tuli, Savita Shahi, Tripta Sapra, Mrs. Gurbakshani, Satish Chandra, Mary George—names that now feel less like attendance and more like architecture. They built us, quietly. Patiently. Without proclamation.  
+Each one came carrying a world. Language. Literature. Logic. Lilt. Some brought poetry in their pauses, some discipline in their diction, some laughter in their looseness. But none brought fear.  
+That was their greatest gift.  
+They came from homes where education was not transaction but transformation. Where art was not extracurricular but essential. Where debate and dance, science and song, gardening and grammar were not rivals, but relatives. They did not rank knowledge—they respected curiosity.  
+And they were young. Wonderfully, vulnerably young. Learning as they taught. Listening as they led. There was something elastic about them—something willing to bend, to stretch, to meet us where we were.  
+Because what they created was not a classroom.  
+It was a cosmos.
+
+Waqt aane de bata denge tujhe ae aasman, hum abhi se kya batayein kya hamaare dil mein hai…  
+Let time come, the poem says. Let life reveal what words cannot yet hold.  
+That is exactly what they allowed us.  
+Time. Space. Becoming.
+
+I was not the easiest student to define. Not the topper, not the template. I was restless. Curious in ways that did not align neatly with syllabi. Hungry in a way that could not be contained by prescribed portions.  
+And somehow—they saw that hunger.  
+And they did not tame it.  
+They trusted it.
+
+Story continues below this ad
+
+I walked into meal planning as if I belonged there—though no one like me had walked in before. A boy, certain, unapologetic, carrying skills that did not come from textbooks but from instinct.  
+They didn’t flinch.  
+“What do you know?” they asked.  
+“A lot,” I said.  
+And I meant it.  
+“I can embroider. Stitch. Sew. Knit. Crochet. Iron. Cook. Lay a table. Make something beautiful. Tell a story through food.”  
+They didn’t laugh.  
+They leaned in.  
+And I didn’t just participate.  
+I excelled.
+
+Khainch kar laayi hai sab ko qatl hone ki umeed, aashiqon ka aaj jamghat koocha-e-qatil mein hai…  
+There is a pull in purpose, the poem says. A strange, sacred magnetism.  
+I was being pulled—towards everything that made me, me.
+
+Then came macramé.  
+Knots that became knowledge. Threads that turned into thought. Patterns that demanded patience and rewarded precision.  
+And when the teacher left, she did something extraordinary.  
+She said—I could teach.  
+And the school said—yes.  
+Twice a week, I stood not as student, but as guide. Teaching older students. Younger ones. Anyone who wished to learn.  
+We made hammocks that held weight and wonder.  
+We made holders that held shape and story.  
+And I, unknowingly, was being held too.
+
+We started a kitchen.  
+Children, still. Eighth. Ninth grade. Carrying casseroles and courage from home. Selling food at lunch. Raising money. Building something of our own.  
+A café before the word existed in our world.  
+And the school did not shut it down.  
+It made room.  
+Because Modern School did not resist curiosity.  
+It received it.
+
+Story continues below this ad
+
+And then there were the hours between hours.  
+When others ate, I listened.  
+Sat with teachers. Read poetry. Sang songs. Spoke of things I barely understood but deeply felt.  
+Sometimes I slipped out of class—not to escape learning, but to expand it.  
+And they knew.  
+Of course they knew.  
+And they allowed it.  
+Because what they were giving me was not indulgence.  
+It was identity.
+
+Because those were the years I was afraid of myself.  
+Class 10. 11. 12.  
+Aware. Quietly. Deeply. Of something within me I had no words for.  
+I was gay.  
+But I had no language. No mirror. No map.  
+And yet—I was not alone.  
+Because they made space.  
+Without asking. Without naming. Without forcing.  
+They allowed me to exist before I could explain my existence.
+
+Maane-e-izhaar tumko hai haya, humko adab, kuch tumhaare dil mein hai, kuch hamaare dil mein hai…  
+There are things we do not say.  
+And yet—they are understood.
+
+And then—the garden.  
+Mrs. Indu Mahajan. The gardeners. The quiet keepers of growth.  
+They opened the earth to me.  
+Chrysanthemums that grew into plates of perfection. Hydrangeas blooming like bursts of sky. I learnt to prune, to propagate, to wait.  
+To trust that what you remove allows something greater to emerge.  
+I learnt the language of leaves.  
+And it spoke back.
+
+Story continues below this ad
+
+And I stretched my days to hold it all.  
+Beyond bells. Beyond boundaries.  
+My parents did not question.  
+The school did not constrain.  
+And I was educated.  
+Not in parts.  
+But in wholeness.
+
+And then came sport.  
+The one space I had cleverly avoided.  
+Until I was called in—with my mother.  
+The school insisted.  
+And I, ever inventive, chose something the school did not offer.  
+“Tennis,” I said.  
+Certain I had escaped.  
+But my mother and the principal looked at each other—and smiled.  
+“Of course.”  
+And just like that—Gymkhana Club. Coach. Court. Commitment.  
+Even my rebellion was embraced.  
+Even my escape was expanded.
+
+Sarfaroshi ki tamanna ab hamaare dil mein hai…  
+The desire to stretch, to step forward, to stand in oneself—  
+was always there.  
+I just didn’t know I was living it.
+
+Looking back now, I realise:  
+We thought we were singing a song.  
+But the song was shaping us.  
+We thought we were learning subjects.  
+But we were learning selfhood.  
+We thought we were passing time.  
+But time was passing through us—leaving behind something luminous.
+
+Story continues below this ad
+
+There are songs you outgrow.  
+And then there are songs you grow into.  
+Sarfaroshi ki Tamanna was never just something we sang.  
+It was something that, quietly, patiently, persistently—  
+began to sing us into being.
+
+And even now—  
+hum abhi se kya batayein kya hamaare dil mein hai…  
+There is so much we do not say.  
+And yet—  
+everything is known.
+
+---
+
+### Fire Breaks Out In Thiruvananthapuram-Hazrat Nizamuddin Rajdhani Express In Kota; Train Services Hit
+*Shuddhanta Patra · general*
+
+Fire broke out in B-1 coach of Train No. 12431 Thiruvananthapuram-Hazrat Nizamuddin Rajdhani Express in Madhya Pradesh, all passengers safely deboarded, no injuries reported
+
+[Read full article](https://www.news18.com/india/fire-breaks-out-in-thiruvananthapuram-hazrat-nizamuddin-rajdhani-express-coach-all-passengers-safe-10095744.html)
+
+---
+
+### Tiger zinda hai, but kab tak? India’s big cat success faces a dangerous reality
+*Sibu Tripathi · general*
+
+## India's tiger recovery is colliding with shrinking habitats, blocked corridors and rising deaths. Experts say the next phase of conservation must move beyond headcounts to protect landscapes, connectivity and resilience.
+
+A tiger photographed repeatedly within a territory does not necessarily represent broader population stability. (Photo: Unsplash)
+
+There was a time when the tiger’s roar was fading from India’s forests.
+
+By the late 1960s and early 1970s, rampant hunting, habitat destruction and poaching had pushed India’s national animal dangerously close to collapse. The majestic predator that once ruled forests stretching from the Himalayas to the Western Ghats was disappearing so rapidly that the country launched one of the world’s most ambitious wildlife conservation programmes: Project Tiger.
+
+What followed became one of the greatest conservation success stories of modern times on the planet.
+
+Madhya Pradesh has seen a steady climb in tiger deaths. (Photo: Getty)
+
+From an estimated population of barely 1,400 tigers in the mid-2000s, India’s tiger numbers steadily climbed. Forest reserves expanded. Camera traps replaced older census methods. Conservation funding increased. Tiger tourism exploded. Villages were relocated from critical habitats.
+
+Today, India is home to over 3,000 tigers, nearly 75% of the world’s wild tiger population, and that's based on the 2022 census. That number has surely gone up as the new census awaits approval.
+
+But now, conservationists and wildlife experts warn that India’s greatest tiger success may also be creating its next major conservation crisis.
+
+The challenge is no longer simply about saving tigers.
+
+Tiger behaviour itself may be changing under pressure. (Photo: AFP)
+
+It is about whether India still has enough functioning wilderness left to sustain them.
+
+### TIGER ZINDA HAI
+
+Across the forests of Madhya Pradesh, Maharashtra, Uttarakhand and Rajasthan, a new pattern is emerging. Young tigers are increasingly straying outside reserves.
+
+Territorial fights are rising. Human-animal conflict is escalating. Tourism pressure is intensifying. Diseases are spreading. Forest corridors are collapsing under highways, railway tracks, mining belts and sprawling resorts.
+
+And tiger deaths are rising sharply.
+
+According to the latest data from the National Tiger Conservation Authority (NTCA), more than 71 tiger deaths have already been recorded across India in 2026 alone. Madhya Pradesh, India’s so-called Tiger State, accounts for 28 of those deaths within just the first five months of the year, including 12 deaths since early April.
+
+Graphic: NTCA
+
+The numbers have triggered uncomfortable questions inside India’s conservation circles: Has tiger conservation focused too heavily on increasing tiger numbers while neglecting the shrinking landscapes required to support them?
+
+Wildlife conservationist Latika Nath believes part of the problem lies in how India began measuring tiger success.
+
+“When the government undertook this exercise, it is important to go back to the beginning,” Nath told India Today.
+
+Tigers are considered solitary apex predators. (Photo: Getty)
+
+### FINDINGS PUG MARKS: TIGER STORY
+
+India initially relied on the pugmark census system, where forest staff physically tracked tiger footprints across forests. But concerns about accuracy led to the adoption of camera traps and capture-mark-recapture techniques pioneered by conservationists like Dr Ullas Karanth.
+
+The shift revolutionised tiger estimation, but Nath argues that tiger ecology itself makes population modelling more complex than simple statistical extrapolation.
+
+“Tigers are not randomly moving objects. They are territorial animals,” she explained.
+
+Graphic: NTCA
+
+A tiger photographed repeatedly within a territory does not necessarily represent broader population stability across fragmented landscapes. Yet the rising census numbers quickly became the central marker of conservation success.
+
+And while tiger populations increased, habitat expansion did not keep pace.
+
+“We have been talking about wildlife corridors, shrinking habitats and rising levels of human-animal conflict for quite some time now,” said wildlife biologist Imran Khan.
+
+Young dispersing tigers entering human-dominated landscapes are attacking livestock more frequently. (Photo: AFP)
+
+### TIGER'S SHRINKING HOME
+
+Corridors, the invisible ecological highways connecting forests, are critical for dispersing young tigers searching for territory. But many of these routes have now been blocked by human development.
+
+Tourism infrastructure, highways, railway lines, mining projects and expanding urbanisation are steadily fragmenting forests.
+
+Take the Terai Arc landscape stretching from Nepal into Uttarakhand and Uttar Pradesh. It once allowed elephants and tigers to move naturally across large habitats. Today, much of that movement is interrupted by roads, settlements and resorts.
+
+India initially relied on the pugmark census system to count the tigers. (Photo: Getty)
+
+“When a tiger moves out of its habitat and encounters human settlements, conflict begins,” Imran Khan, formerly with the Wildlife Institute of India, said. “Very often the tiger is unable to return to its original habitat.”
+
+The consequences are becoming increasingly visible.
+
+Young dispersing tigers entering human-dominated landscapes are attacking livestock more frequently. Some are tranquilised and relocated. Others are captured permanently after conflict incidents. Many die in territorial fights as overcrowded reserves push animals into shrinking spaces.
+
+According to Nath, even tiger behaviour itself may be changing under pressure.
+
+### INDIAN TIGERS ARE CHANGING FROM WITHIN
+
+Historically, tigers were considered solitary apex predators. But experts now report increasing behavioural adaptation in some reserves, where male tigers are occasionally participating in cub rearing, something rarely observed earlier.
+
+“There has also been a major behavioural adaptation in tigers,” Imran said. “Fathers have been observed caring for cubs, and tigresses appear to have adapted their social behaviour due to increasing pressures and shrinking territories.”
+
+Scientists are now beginning to document the psychological impacts of tourism and habitat stress on the animals themselves.
+
+Territorial fights are rising. Human-animal conflict is escalating. (Photo: AFP)
+
+A recent study by researchers from the Centre for Cellular and Molecular Biology published in the journal Animal Conservation found that wildlife tourism is significantly increasing stress levels in Indian tigers.
+
+The study revealed that tigresses are retreating deeper into forests to locate undisturbed breeding sites away from safari traffic. Stress markers were found to be significantly higher among tigers living close to tourism routes and human habitations.
+
+While Nath believes tourism alone is not directly harming tigers, pointing out that most parks expose only a small fraction of forest areas to tourists, she says India’s wildlife tourism system is deeply flawed.
+
+### WILDLIFE TOURISM IN INDIA IS POORLY PLANNED
+
+India’s tiger reserves have witnessed an explosion of poorly planned tourism infrastructure over the last decade. Luxury resorts now line forest edges.
+
+Safari traffic crowds limited tourism zones. Guides and drivers are often inadequately trained. Local economies have become heavily dependent on a six-month tourism cycle that incentivises aggressive wildlife chasing for tourist satisfaction.
+
+Tourism, Nath argues, is no longer being professionally designed as an ecological experience. Instead, it has become reactive crowd management.
+
+The deaths have triggered uncomfortable questions inside India’s conservation circles. (Photo: Getty)
+
+Imran, however, warns against portraying tourism purely negatively.
+
+Some of India’s most successful tiger landscapes, including Corbett Tiger Reserve, Bandhavgarh National Park, Ranthambore National Park and Kanha National Park, are also among the country’s strongest tourism destinations.
+
+“There is a clear correlation between areas with strong tourism presence and high tiger densities,” he said.
+
+Tourism generates jobs, political attention and conservation funding. The issue, experts say, is not tourism itself but unregulated tourism expansion without ecological planning.
+
+Then there is disease.
+
+### WHEN TIGERS ARE KILLED BY DOGS
+
+Canine distemper, a viral disease spread by feral and stray dogs, is now emerging as another serious threat to tiger populations in India.
+
+Recent outbreaks in Kanha have alarmed conservationists after several tiger deaths were linked to the disease. Nath warns that India has failed to adequately implement vaccination and sterilisation programmes around tiger reserves.
+
+The problem is particularly acute in rapidly developing landscapes. In areas like Ladakh, road-building projects have unintentionally created expanding feral dog populations as labour camps moved through remote regions and abandoned dogs behind.
+
+The mounting deaths of the fierce creatures could now directly impact local tourism and ecological balance. (Photo: X)
+
+Canine distemper spreads not only among dogs but also among wolves, foxes, jackals, hyenas and big cats. Once it enters tiger populations, transmission between mothers and cubs becomes possible.
+
+At the same time, climate change is intensifying pressure on forests already struggling with fragmentation.
+
+Experts say India today possesses very little truly biodiverse natural forest cover relative to its size and population pressures. Plantation drives and monoculture forests cannot replace naturally evolved ecosystems that regulate rainfall, temperature and prey dynamics.
+
+The central question now confronting India’s tiger conservation programme is uncomfortable but unavoidable: what exactly does success look like?
+
+An image of a dead tiger poached in Madhya Pradesh. (Photo: X/@NoAnimalPoachin)
+
+For decades, conservation policy was designed around preventing extinction. Rising tiger numbers became the symbol of victory.
+
+But India’s conservation debate is now entering a more complex phase, one where saving tigers may require rethinking the entire landscape around them.
+
+### INDIA'S TIGER CONSERVATION NEEDS A RESET
+
+Experts argue that the next phase of Project Tiger cannot focus only on tiger counts. It must focus on connectivity, coexistence and ecological carrying capacity.
+
+That means reopening wildlife corridors. Building wildlife overpasses and underpasses into highways. Expanding protected buffers. Regulating tourism infrastructure. Strengthening disease surveillance.
+
+Protecting natural forests rather than replacing them with monoculture plantations. And most importantly, recognising that tigers cannot survive as isolated populations trapped inside shrinking islands of forest.
+
+India succeeded in bringing the tiger back from the brink of extinction.
+
+Now comes the harder task: ensuring that the very success of Project Tiger does not become the reason the system begins to fail.
+
+\- Ends
+
+Sibu Kumar Tripathi
+
+May 17, 2026 09:30 IST
+
+---
+
+### Indian masseur in Australia abused 61 women in 9 months; jailed for 13 years
+*India Today World Desk · general*
+
+## An Adelaide court sentenced Sumit Satish Rastogi for sexually abusing 61 women at a massage parlour. The case laid bare escalating abuse, lasting trauma for victims and the likelihood of his deportation.
+
+Sumit Satish Rastogi, who moved to Adelaide from Delhi in 2011, was arrested in July 2022. (Screen grab)
+
+An Indian-origin massage therapist has been sentenced to 13 years and 10 months in prison in Australia for sexually abusing 61 women at a massage parlour in Adelaide, with a judge describing his conduct as “out of control” and “exploitative”.
+
+According to a report by ABC News, 39-year-old Sumit Satish Rastogi pleaded guilty to 97 offences – including 55 counts of indecent filming and 42 counts of aggravated indecent assault – committed between October 2021 and July 2022 at a massage business in Glenelg, in Adelaide’s western suburbs.
+
+Rastogi, who moved to Adelaide from Delhi in 2011, was arrested in July 2022. The court had earlier heard he was working as an unqualified massage therapist when the offences took place.
+
+### COURT SAYS ABUSE ESCALATED OVER MONTHS
+
+During a three-hour sentencing hearing on Friday, South Australia District Court Judge Carmen Matteo detailed the offences committed over nine months and said Rastogi had violated women who were “trusting, unsuspecting and entitled to safety, respect and dignity”.
+
+“You abused their trust and treated them with an utter lack of respect and dignity,” the judge said.
+
+Judge Matteo said the offending became more severe as Rastogi “developed confidence”, particularly after he began interfering with victims’ underwear and secretly capturing invasive images.
+
+“By June and July 2022, I would characterise your offending against client victims as being out of control and showing no signs of restraint until the moment you got caught,” she said.
+
+The judge also noted it was “somewhat remarkable” that Rastogi had been able to provide massage services for payment despite lacking formal qualifications.
+
+### VICTIMS RECOUNT LASTING TRAUMA
+
+Several victims described deep psychological trauma and loss of trust caused by the abuse. One woman told the court the assault took place during her honeymoon, turning what should have been “one of the happiest weekends” of her life into a “haunting memory”.
+
+She said the incident left her unable to trust male healthcare professionals, including doctors and physiotherapists, and affected openness within her marriage.
+
+Another victim criticised the “relentless delays” in the legal process, telling the court it had been 1,271 days since the assault and that prolonged proceedings had prevented survivors from beginning proper healing and therapy.
+
+Outside court after sentencing, two victims urged women not to ignore situations that felt wrong. “If it doesn’t feel right, it means it’s not right,” one woman said.
+
+Both women also questioned Rastogi’s remorse, saying his apology appeared filled with excuses rather than accountability.
+
+### VOYEURISTIC DISORDER CITED DURING HEARING
+
+The court heard Rastogi had been diagnosed by a psychiatrist with voyeuristic disorder, involving sexual arousal from observing unsuspecting semi-naked women.
+
+Judge Matteo said the diagnosis provided a “clinically plausible explanation” for the offending but did not absolve him of responsibility. The disorder remained untreated and could not be addressed while he was in prison, the court was told.
+
+Defence lawyer Adam Richards said Rastogi had asked him to reiterate his apology in court. “He can’t forgive himself and he expects no-one else to forgive him,” Richards said.
+
+Rastogi was sentenced to 13 years and 10 months behind bars, with a non-parole period of 10 years and 10 months. The sentence was backdated to his arrest, making him eligible for parole in 2035.
+
+The court also heard it was likely he would be deported from Australia after serving his sentence.
+
+\- Ends
+
+Priyanka Kumari
+
+May 17, 2026 09:30 IST
+
+---
+
+### TMC cries foul over 'selective FIR' against Abhishek Banerjee
+*ANI · business*
+
+Kolkata: TMC leader Tanmoy Ghosh on Sunday cried foul play days after an FIR was filed against TMC General Secretary Abhishek Banerjee over alleged inflammatory remarks and said "such selective FIRs are unacceptable".
+
+"We have heard many provocative statements from BJP leaders. I believe that politics should be conducted with dignity. Such selective FIRs are unacceptable. This should apply to everyone; why only against Abhishek, just because the TMC lost the election? This is not acceptable at all," he told ANI.
+
+  
+
+The FIR was registered at the Bidhannagar North Cyber Crime Police Station for allegedly making inflammatory statements ahead of the elections. The case was registered for his remarks regarding the playing of DJs and his statements against Union Home Minister Amit Shah.
+
+According to the FIR dated May 15, complainant Rajib Sarkar alleged that Banerjee delivered "provocative, threatening and inflammatory speeches" during political rallies and election campaigns, allegedly inciting violence, promoting enmity and disturbing public tranquillity.
+
+The FIR further noted that the remarks were made from Banerjee's official social media handle on Facebook, namely, 'Abhishek Banerjee Official', along with other social media news platforms.
+
+According to the FIR, the complainant specifically referred to speeches delivered at Maheshtala, Arambagh, Haringhata and Nandigram rallies during March-April, wherein the accused allegedly threatened opposition workers and used aggressive language likely to create public disorder and political unrest.
+
+Based on the complaint, a case has been registered under Sections 192, 196, 351(2), 353(1)(C) of the Bharatiya Nyaya Sanhita (BNS), along with Sections 123(2) and 125 of the Representation of the People Act, 1951.
+
+---
+
+### The 3-month SIR process in Delhi: Here’s what you need to know
+*Express News Service · legal*
+
+If you remember having voted in Delhi before 2002, you should be able to locate your name and details in the voters’ list of 2002 on the website of Chief Electoral Officer, Delhi. (Express Photo)
+
+**KEY DATES**
+
+Publication of draft electoral rolls: Aug 5  
+Claims & objections: Aug 5 to Sept 4  
+Hearings & verification: Aug 5 to Oct 3  
+Final rolls: Oct 7
+
+**Filling the form**
+
+-   From June 30-July 29, booth level officers (BLOs) will visit homes to distribute enumeration forms.
+-   Form will already have your name, EPIC number, address, Assembly constituency and photograph.
+-   You will have to fill in the missing fields: date of birth, parents’ names and their EPIC numbers (if available), mobile number, and Aadhaar (optional).
+-   Any adult member of the household can fill the form on your behalf.
+-   Form can also be filled online
+
+**Checking 2002 rolls**
+
+-   You will be asked to trace your, a parent’s, or a relative’s name in the rolls of 2002 – the last time SIR was conducted in Delhi.
+-   If you remember having voted in Delhi before 2002, you should be able to locate your name and details in the voters’ list of 2002 on the website of Chief Electoral Officer, Delhi.
+-   If you moved to Delhi after 2002, go to the website voters.eci.gov.in and find the voters’ list of the state where you lived earlier. Look for your name and details.
+-   If you can’t find your own name in any roll, or if you weren’t registered as a voter at the time, look for the name of a parent or close relative. If you can find those details, you can fill them in the form.
+
+**Submitting the form**
+
+\# Hand it over to your BLO; you will get an acknowledgment.  
+\# If you’ve submitted the form online on voters.eci.gov.in, take a screenshot or save the receipt.
+
+**Preparing your documents**
+
+-   This step applies only to voters who can’t trace their own name or that of a parent/ relative in the old rolls.
+-   After the draft rolls are published on Aug 5, you will be asked to produce one of the following documents:
+-   ID card or pension payment order issued to a regular employee or pensioner of the central/ state govts, PSUs; any ID issued by the government, local authorities, banks, post office, LIC or PSUs prior to 01.07.߃ birth certificate; passport; matriculation/educational certificate; permanent residence certificate; forest rights certificate; caste certificate. (List not exhaustive)
+-   Aadhaar is not sufficient to prove eligibility, and must be accompanied by another document.
+
+**Who has to submit what**
+
+-   Born in India before July 1, 1987: document proving date and/ or place of birth.
+-   Born between July 1, 1987, and December 2, 2004: Document for the elector and one parent.
+-   Born after December 2, 2004: Documents for elector and both parents.
+
+**After August 5**
+
+Story continues below this ad
+
+-   Check if draft electoral roll has your name.
+-   If your name is missing or details are incorrect, you can file a claim or objection between August 5 and September 9.
+-   Between August 5 and October 3, all voters who could not trace their own or their family’s name in the old SIR rolls will receive a notice from their Electoral Registration Officer seeking documents to prove eligibility.
+-   You will get this notice even if your name appears in the draft rolls, but you left the “past SIR roll” fields blank in the form.
+
+**After final rolls**
+
+-   Final electoral rolls will be published on Oct 7. If your name is not there, you can appeal the decision with the DM within 15 days.
+-   If your first appeal fails, you can submit a second appeal with the Chief Electoral Officer in the next 15 days.
+
+---
+
+### India–Sweden business links expand as business leaders welcome PM Modi’s visit
+*ET Online · business*
+
+Ahead of Prime Minister Narendra Modi's visit to Sweden as part of his five-nation tour, senior Swedish industry leaders and business representatives on Saturday highlighted the growing India-Sweden partnership and expressed confidence in India's economic growth and talent ecosystem. Speaking to ANI, Jens Holtinger, Chief Technology Officer (CTO) of Volvo Group, described Prime Minister Modi's visit to Gothenburg as a "great honour" and said it reflected the strong ties between India and Sweden. Highlighting Volvo Group's presence in India, he said the company has been operating in the country for 25 years and currently employs nearly 5,000 people there.
+
+---
+
+### Days after health minister’s visit, medical superintendent of Surat hospital transferred over ‘unhygienic conditions’
+*Express News Service · legal*
+
+Health Minister Praful Pansheriya. (File Photo)
+
+A week after Health Minister Praful Pansheriya visited the New Civil Hospital (NCH) in Surat for a surprise inspection and took serious note of “unhygienic conditions” in the wards and other premises, NCH Medical Superintendent Dr Dharitri Parmar was transferred on Saturday.
+
+Dr Parul Vadgama, head of the Department of Chest and Tuberculosis at NCH, was appointed as acting medical superintendent.
+
+The state government’s health and family welfare department issued an order stating that Dr Parmar has been transferred as Dean of Government Medical College, Vadodara. Dr R G Aiyer, who was in charge as Dean, has been relieved of these duties.
+
+This comes days after Health Minister Pansheriya’s May 9 visit to the NCH in Surat, during which he reviewed the facilities available for patients.
+
+While interacting with the doctors, professors, nursing staff, patients and their relatives, Pansheriya observed unhygienic conditions in the wards (a lawn area with broken tiles). He also took note of patients’ concerns about basic facilities across wards.
+
+The minister emphasised that it is mandatory for all staff to be compassionate, sensitive, clean and precise towards patients coming to hospitals. To safeguard patients’ interests, there would be no compromise in these matters and stricter legal and administrative measures would be taken soon, official sources said on Saturday.
+
+Pansheriya also told the medical staff that he would conduct more “surprise rounds” (random inspections) at hospitals in Surat and other areas across the state to ensure that citizens receive the best health services and that priority is given to patient care.
+
+Story continues below this ad
+
+Pansheriya told _The Indian Express_ on Saturday, “During my visit to NCH, I found unhygienic conditions in the wards and even the air-conditioners in the post-mortem and morgue room were not working. The floor tiles in some of the buildings were broken, so I told the medical superintendent that it was her duty to look into hospital management and ensure that patients and their family members did not face any inconvenience. A majority of patients are poor and they avail of facilities from government-run hospitals. As a minister, it is not my duty to check all this… It is the responsibility of the medical superintendent. I have come across complaints that the doctors and nursing staff were late-comers and patients had to suffer, so I have clearly instructed the NCH authorities that such negligence in their duties will not be tolerated. Everybody should report on time and and remain on duty during their work hours.”
+
+He added, “I want results and no excuses. After my surprise visit to NCH, Surat, the changes and impact are evident across the state in government hospitals. Repairing work and cleanliness is done in the government hospital across the state. We are there to serve the people, and we will not compromise in giving the best services to the poor patients.”
+
+Acting medical superintendent at NCH, Surat, Dr Parul Vadgama said, “We have to make changes such as renovation of the post-mortem room and provide better emergency services, better patient transport in the internal seven buildings of the hospital. We will also ensure that the hospital premises remain clean and tidy. My team will work to make NCH a better place. We will also ensure that the doctors and nurses remain present in their premises during duty hours, and no latecomers will be tolerated.”
+
+---
+
+### Huge fire breaks out on Delhi-bound Rajdhani Express in Madhya Pradesh, dozens of passengers evacuated, details here
+*Monica Singh · general*
+
+A fire broke out in the Rajdhani Express in Madhya Pradesh’s Ratlam district early Sunday, affecting two coaches.
+
+A major fire incident was reported early Sunday morning on the Thiruvananthapuram–Hazrat Nizamuddin Rajdhani Express in Madhya Pradesh’s Ratlam district, prompting an emergency evacuation of passengers and temporary disruption of rail services on the busy Delhi–Mumbai route.
+
+The incident occurred in coach B-1 and an adjoining SLR (Seating cum Luggage Rake) of Train No. 12431 between Luni Richha and Vikramgarh Alot stations under the West Central Railway’s Kota Division. Railway officials confirmed that 68 passengers were present in the affected coach at the time of the incident.
+
+## **Smoke Detected, Train Halted Immediately**
+
+According to railway sources, the train’s guard first noticed smoke and alerted the loco pilot. Following this, the train was brought to an immediate stop as flames were seen emerging from one of the coaches.
+
+> Kota, Rajasthan: Senior Divisional Commercial Manager, Kota Division, Saurabh Jain says, "This morning in the Kota Division, a fire incident was reported at around 5:15 AM in Train No. 12431, the Thiruvananthapuram–Nizamuddin Rajdhani Express. It was found that a fire had broken… pic.twitter.com/t9GGkSMhIG
+> 
+> — IANS (@ians\_india) May 17, 2026
+
+Quick response measures were initiated, and passengers were swiftly guided out of the affected compartments. Officials stated that no injuries or fatalities were reported.
+
+> #WATCH | Madhya Pradesh | Fire breaks out in B-1 coach (near SLR end) of Train No. 12431 Thiruvananthapuram–Hazrat Nizamuddin Rajdhani Express between Luni Richha (LNR) and Vikramgarh Alot (VMA) stations. All passengers of the affected coach were safely deboarded and no injury or… https://t.co/S0JK2JT9xw pic.twitter.com/6n7gVqAXOj
+> 
+> — ANI (@ANI) May 17, 2026
+
+> Fire in one of the coach of Rajdhani Express Train No. 12431 between Ratlam station and Kota Jn. Fire services here. pic.twitter.com/DFWZHBevvq
+> 
+> — Kartik Tiwari (@kartiktiwarii) May 17, 2026
+
+## **Emergency Measures and Coach Detachment**
+
+After the fire was detected, the overhead electric (OHE) supply was promptly switched off to prevent further risk. The affected coach was then separated from the rest of the train to stop the fire from spreading.
+
+Railway Protection Force (RPF) personnel, along with onboard staff, assisted in evacuating passengers from the impacted coach. The entire evacuation process was completed within approximately 15 minutes, and nearby coaches were also cleared as a precaution.
+
+A statement from the West Central Railway’s Kota Division confirmed that all passengers were safely deboarded and that swift action helped avoid any casualties.
+
+## **Rescue Teams and Senior Officials at Site**
+
+Following the alert, relief and rescue teams were dispatched from the Kota Railway Division. Senior officials, including Divisional Railway Manager Anil Kalra, along with police and fire brigade teams, reached the site to supervise operations and ensure safety protocols were followed.
+
+Authorities also initiated inspection and restoration work to determine the cause of the fire and assess damage to the train.
+
+## **Train Services Temporarily Affected**
+
+Due to the incident and subsequent safety operations, rail traffic on the Delhi–Mumbai corridor was disrupted for nearly two hours. Officials confirmed that train movement was restored after necessary checks were completed.
+
+Railway authorities also arranged additional coaches from Kota to accommodate passengers. The remaining portion of the Rajdhani Express was expected to resume its journey after completion of operational formalities.
+
+---
+
+### WHO declares Ebola outbreak a global emergency as over 80 die in Congo, Uganda
+*Reuters · general*
+
+## The WHO said the outbreak, caused by the Bundibugyo virus, does not meet the criteria of a pandemic emergency, but that countries sharing land borders with the DRC are at high risk for further spread.
+
+At least 80 people died in Congo due to the outbreak of Ebola
+
+The World Health Organization (WHO) on Sunday declared an Ebola outbreak in the Democratic Republic of Congo and Uganda a "public health emergency of international concern", posing risks to neighbouring countries.
+
+The WHO said the outbreak, caused by the Bundibugyo virus, does not meet the criteria of a pandemic emergency, but that countries sharing land borders with the DRC are at high risk for further spread.
+
+The UN health agency said in a statement that 80 suspected deaths, eight laboratory-confirmed cases and 246 suspected cases had been reported as of Saturday in DRC's Ituri province across at least three health zones, including Bunia, Rwampara and Mongbwalu.
+
+### INTERNATIONAL SPREAD DOCUMENTED, WHO SAYS
+
+The DRC health ministry had said on Friday that 80 people had died in the new outbreak in the eastern province.
+
+The outbreak – the 17th in the country since Ebola was first identified there in 1976 – could be much larger, given the high positivity rate of the initial samples and increasing number of suspected cases being reported, the WHO said.
+
+The outbreak is "extraordinary" as there are no approved Bundibugyo virus-specific therapeutics or vaccines, unlike for Ebola-zaire strains, it said. All but one of the country's previous outbreaks were caused by the Zaire strain.
+
+The DRC-Uganda outbreak poses a public health risk to other countries, with some cases of an international spread already documented, the agency said, advising countries to activate their national disaster and emergency-management mechanisms and undertake cross-border screening and screening at main internal roads.
+
+In Uganda's capital, Kampala, two apparently un
+
+A laboratory-confirmed case was also reported in the DRC capital, Kinshasa, from a person returning from Ituri, the WHO said.
+
+Bundibugyo virus-disease contacts or cases should not travel internationally, unless as part of a medical evacuation, the WHO said.
+
+The agency advised immediately isolating confirmed cases and monitoring contacts daily, with restricted national travel and no international travel until 21 days after exposure.
+
+At the same time, the WHO urged countries not to close their borders or restrict travel and trade out of fear, as this could lead to people and goods making informal border crossings that are not monitored.
+
+The DRC's dense tropical forests are a natural reservoir for the Ebola virus.
+
+The often-fatal virus, which causes fever, body aches, vomiting and diarrhoea, spreads through direct contact with the bodily fluids of infected persons, contaminated materials or persons who have died from the disease, according to the Africa Centres for Disease Control and Prevention.
+
+\- Ends
+
+Akash Chatterjee
+
+May 17, 2026 09:21 IST
+
+---
+
+### NEET paper leak an inside job? NTA official now under CBI scanner
+*India Today News Desk · general*
+
+The investigation into the NEET-UG 2026 paper leak is uncovering increasingly murky details, with an unnamed official associated with the National Testing Agency (NTA) now reportedly under the CBI’s scrutiny.
+
+The revelation comes following the arrests of Manisha Sanjay Waghmare and chemistry lecturer PV Kulkarni in connection with the paper leak, which led to the cancellation of the May 3 examination. Both the accused have been sent to 10-day CBI custody.
+
+### INSIDE JOB LEAD TO PAPER LEAK?
+
+Sources said that while seeking Waghmare’s custody, the CBI uncovered signs of a possible inside job. The agency alleged that Waghmare, in conspiracy with the other accused and an unnamed NTA official, allegedly received the question papers and answer keys on April 27.
+
+Waghmare was introduced to Kulkarni – the alleged kingpin behind the paper leak – through biology lecturer Manisha Mandhare, a member of the NTA’s paper-setting committee, who was arrested on Saturday, the agency said.
+
+According to the CBI, Waghmare collected the questions from Kulkarni and provided them to another accused, Dhananjay Lokhande, and others in exchange for money. Lokhande, who was arrested from Maharashtra’s Ahilyanagar on May 13, is accused of further distributing the questions.
+
+The handwritten chemistry questions shared by Kulkarni with aspirants have reportedly been destroyed. Waghmare is also said to have destroyed papers after the examination on May 3.
+
+### NEET\-UG 2026 EXAM ON JUNE 21
+
+Amid the CBI probe, the NTA announced that NEET-UG 2026 re-examination will now be conducted on Sunday, June 21, 2026, following the cancellation of the earlier exam amid the paper leak controversy that triggered nationwide outrage.
+
+Education Minister Dharmendra Pradhan has also announced that the NEET exam will be conducted as a computer-based test from next year onwards. Passing the examination opens the door to medical colleges across India.
+
+The controversy, however, has raised serious concerns regarding the credibility and security of one of India’s largest entrance examinations.
+
+\- Ends
+
+Aprameya Rao
+
+May 17, 2026 09:20 IST
+
+---
+
+### CNG prices hiked in Delhi-NCR by Re 1 per kg, second rise in two days
+*Express Web Desk · legal*
+
+Mirzapur: Auto-rickshaws queue up at a CNG station amid a shortage linked to the ongoing West Asian conflict affecting the global energy supply chain, in Mirzapur, Uttar Pradesh, Friday, May 15, 2026. (PTI Photo)
+
+The price of Compressed Natural Gas (CNG) has been increased by Re 1 per kg in Delhi and the National Capital Region (NCR) on Sunday, news agency ANI reported.
+
+This is the second hike in CNG prices in the past two days after they were increased to Rs 2 per kg on May 15.
+
+In Delhi, CNG will now cost Rs 80.09 per kilogram, while in Noida-Ghaziabad, it will cost Rs 88.70 per kg.
+
+---
+
+### CBSE’s three language rule explained: Can Class 9 students still opt for a foreign language?
+*Sophiya Mathew · legal*
+
+For Class 9 CBSE students, what is set to change immediately is that starting July 1, they will have to study three languages, with at least two of them being “native Indian languages”. In its May 15 circular, the CBSE said that students wishing to study a foreign language may do so only if the other two languages are native Indian languages, or as an additional fourth language.
+
+Until April, CBSE’s three-language rollout was being understood as a phased change beginning with Class 6 in the 2026-27 academic session. Under that plan, the current Class 6 batch would have been the first to carry the third language, or R3, into Class 10 in 2030-31.
+
+The May 15 circular changes this.
+
+It brings Class 9 students under the three-language formula from July 1, 2026, though the academic session had already begun in April. This means students who were studying only two languages will now have to study a third language as well, while students who had chosen a foreign language will have to check whether their existing subject combination satisfies the new rule.
+
+The key condition is that at least two of the three languages must be native Indian languages. Therefore, while a foreign language has not been dumped altogether, it can be taught only within the compulsory three-language structure if the other two languages are native Indian languages. Otherwise, it may be taken only as a fourth language, subject to whether the school offers it.
+
+**Why did CBSE take this mid-session decision?**
+
+The CBSE justified the mid-session change as part of an alignment with the National Education Policy 2020, the National Curriculum Framework for School Education 2023 and the newly released NCERT Class 9 syllabus for 2026-27.
+
+The Board said the new NCERT syllabus includes the study of three languages – R1, R2 and R3 – at the secondary stage. Since the current academic session had already begun in April, CBSE said it was adopting a “transitional approach” to align its ‘Scheme of Studies’ with the NCERT syllabus. In effect, CBSE’s stated rationale is that its subject framework for classes 9 and 10 had to be brought in line with the new NCERT syllabus.
+
+The disruption comes from the timing as the change is being implemented from July 1, after Class 9 students have already started the sessions in schools that have traditionally offered a minimum of two foreign languages.
+
+**What does this mean for students studying foreign languages?**
+
+Story continues below this ad
+
+The CBSE has not barred schools from teaching foreign languages. Students may still study French, German, Spanish, Japanese or any other foreign language, but not as a replacement for the two-native-Indian-language requirement.
+
+This means the impact will vary by school and by the student’s current language combination. A student studying two native Indian languages along with a foreign language may be able to continue the foreign language as part of the three-language structure. But a student studying English, Hindi and a foreign language may have to check whether this combination meets the Board’s requirement. In many English-medium schools, this is where the practical problem arises.
+
+For students who have studied a foreign language for several years, the change could mean having to shift to an Indian language such as Sanskrit, Bengali, Tamil, Telugu, Punjabi, Marathi or another CBSE-approved Indian language at the Class 9 level. If the school allows it, the foreign language may continue separately as a fourth language, club, activity period or optional programme, but that will depend on the school’s timetable, staffing and demand.
+
+**How will R3 be assessed?**
+
+The third language will not be part of the Class 10 Board examination. The CBSE said there will be no Board exam for R3 at Class 9 level as well, and all assessments for it will be school-based and internal.
+
+Story continues below this ad
+
+While the student’s performance in R3 will be reflected in the CBSE certificate, the Board clarified that no student will be barred from appearing in the Class 10 examination because of R3.
+
+This gives students some relief from Board-exam pressure, but it does not remove the subject from the curriculum. Schools will still have to teach it, assess it and maintain records of student performance. The CBSE said sample question papers and rubrics for internal assessment will be shared.
+
+**What are the practical challenges for schools?**
+
+The first challenge is textbooks. The CBSE acknowledged that dedicated R3 textbooks for the secondary stage are not yet available. As a transitional measure, Class 9 students will use Class 6 R3 textbooks for the chosen language until dedicated material is available. Schools have also been asked to supplement these books with local or state-level literary material such as short stories, poems or non-fiction.
+
+The second challenge is availability of teachers. Many private schools, especially in urban centres, have teachers for French, German or Spanish. But they may not have enough trained teachers for multiple Indian languages to teach at the Class 9 level.
+
+Story continues below this ad
+
+The CBSE has allowed interim arrangements. Schools may use existing teachers of other subjects who have functional proficiency in the concerned Indian language. They may also use inter-school resource sharing, virtual or hybrid teaching support, retired language teachers and suitably qualified postgraduates.
+
+The third challenge is the time constraint. Schools have been asked to update their R3 offerings for Classes 6 to 9 on the OASIS portal by June 30. This means schools have limited time to finalise language options, rework timetables, identify teachers and communicate the changes to parents and students before the July 1 implementation date.
+
+---
+
+### Fire breaks out in coach of Rajdhani Express, no casualties
+*Pti · general*
+
+A fire broke out in an AC coach of the Thiruvananthapuram-Hazrat Nizamuddin Rajdhani Express in Madhya Pradesh's Ratlam district early Sunday, railway officials said.
+
+No casualties have been reported in the blaze that broke out at 5:15 am in the Kota division of the railways.
+
+The fire broke out in the B-1 coach carrying 68 passengers prompting emergency measures, senior railways commercial manager Sourbah Jain said.
+
+  
+
+The affected coach was detached from the rake, and overhead electric supply (OHE) was promptly switched off to ensure safety.
+
+All the passengers were deboarded from the train. None of the passengers sustained injuries, Kota railway PRO Ravindera Lakhara told PTI.
+
+Arrangements have been made to accommodate them in other coaches for the journey up to Kota, the railways said.
+
+An additional coach will be attached at Kota station to restore full capacity.
+
+The cause of the fire is under investigation, the railways said.
+
+
+---
+
 ## 16 May 2026
 
 ### Head of criminals: RG Kar victim's mother slams Mamata Banerjee after cops' suspensions
