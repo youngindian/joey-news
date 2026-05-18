@@ -1,3 +1,448 @@
+## 18 May 2026
+
+### PM Modi visits Dutch water management project Afsluitdijk as India, Netherlands sign Kalpasar pact
+*Express News Service · legal*
+
+PM Modi and his Dutch counterpart Rob Jetten (Photo: X/Narendra Modi).
+
+Prime Minister Narendra Modi Sunday visited the iconic Dutch water management project Afsluitdijk, a 32-kilometre-long dam and causeway that has become a global benchmark in flood control and land reclamation.
+
+Modi was accompanied by Dutch Prime Minister Rob Jetten. The visit came at a time when the two countries had signed a Letter of Intent with regard to the Kalpasar project in Gujarat. The Letter of Intent was signed between India’s Ministry of Jal Shakti and the Netherlands’ Ministry of Infrastructure and Water Management for technical cooperation.
+
+In a statement, the Ministry of External Affairs (MEA) said, “The visit underscored the shared commitment of both nations to innovative water management solutions, climate resilience, and sustainable infrastructure.”
+
+“The visit to the Dam put a spotlight on the parallels between the Afsluitdijk and India’s ambitious Kalpasar project in the state of Gujarat. The Kalpasar project aims to create a freshwater reservoir across the Gulf of Khambhat, integrating tidal power generation, irrigation, and transportation infrastructure. In this regard, the two sides welcomed the signing of the Letter of Intent between Ministry of Jal Shakti of India and Ministry of Infrastructure and Water Management of the Netherlands for technical cooperation on the Kalpasar project,” it added.
+
+“The two leaders noted that Dutch expertise in hydraulic engineering and India’s scale of implementation present opportunities for mutually beneficial partnerships. The visit reaffirms the India-Netherlands Strategic Partnership on Water, highlighting shared commitment to innovation and sustainability,” the statement further stated.
+
+In a post on X, Prime Minister Narendra Modi said India wants to use modern technology to help in irrigation, flood control, and expand inland waterways.
+
+“An area in which the Netherlands has done pioneering work is water resources. There is a lot the entire global community can learn from them… We are working to bring modern technology to India aimed at helping in irrigation, flood control, and expanding the inland waterway network,” Modi said.
+
+Story continues below this ad
+
+The Netherlands prime minister also said that his country is looking forward to deepening cooperation in the water sector.
+
+“If there’s one thing the Netherlands excels at, it is dealing with water. India has shown considerable interest in our expertise in the field of water management. We’re looking to deepen our cooperation in this area,” Jetten posted on X.
+
+---
+
+### Woo investors, go electric
+*Neeraj Kaushal · opinion, regional*
+
+_To increase resilience, massively scale up renewables, electrify transport, and make India attractive for world’s best companies_  
+From an oasis-of-comfort to crisis-time (sankat kaal) in mere weeks? That was fast. Mid-April, GOI declared India an oasis of comfort and looked condescendingly at those countries responding to skyrocketing crude prices, triggered by Iran-US-Israel war, with fuel price increases, and mandatory shorter workweeks, to cut down their oil and gas consumption.  
+  
+India, GOI then claimed, didn’t need to resort to such emergency measures. By May, however, deep in sankat kaal , GOI itself appeared on the verge of adopting some of these very same steps.
+
+Read the full story TOI+.
+
+Facebook Twitter Linkedin Email
+
+###### Disclaimer
+
+Views expressed above are the author's own.
+
+###### END OF ARTICLE
+
+---
+
+### VD Satheesan takes oath as Kerala CM | UDF Cabinet swearing-in ceremony
+*ET Online · business*
+
+Congress leader V.D. Satheesan officially takes oath as the Chief Minister of Kerala at the Central Stadium in Thiruvananthapuram, marking the UDF's return to power. Top Congress leadership, including Rahul Gandhi, alongside coalition partners from the IUML and RSP, are attending the historic event ...
+
+[Read full article](https://economictimes.indiatimes.com/news/politics-and-nation/vd-satheesan-takes-oath-as-kerala-cm-udf-cabinet-swearing-in-ceremony/videoshow/131166443.cms)
+
+---
+
+### Silver ETFs Gain Up To 2% After Govt Tightens Import Rules For Silver Bars
+*Mohammad Haris · business*
+
+Silver ETFs rise up to 2% after DGFT changed some silver bar imports from 'Free' to 'Restricted', raising supply concerns amid rupee pressure and West Asia tensions.
+
+[Read full article](https://www.news18.com/business/markets/silver-etfs-gain-up-to-2-after-govt-tightens-import-rules-for-silver-bars-ws-l-10096953.html)
+
+---
+
+### Being alone vs feeling lonely: At 60, Salman Khan shares one life lesson - 'Alone is by choice and lonely...'
+*Unknown · business*
+
+Salman Khan is currently gearing up for the release of his much-awaited film Maatrubhumi: May War Rest in Peace, which was earlier titled Battle of Galwan. Directed by Apoorva Lakhia, the upcoming war drama also stars Chitrangada Singh in a key role. Amid the growing buzz around the movie, Salman has once again grabbed attention online, this time with a shirtless photo and a thought-provoking message about life, loneliness and self-worth.
+
+The actor took to social media to post a picture of himself shirtless, relaxing on a sofa in a dimly lit room. While fans quickly noticed his muscular physique and fitness at the age of 60, it was his caption that sparked widespread discussion online.
+
+  
+
+## Alone vs lonely explained by Salman Khan  
+
+In the post, Salman talked about the difference between being alone and feeling lonely. He wrote, ""By I me myself, 2 ways to be by yr self, Alone and Lonely, Alone is by choice n lonely when nobody wants to be with u….. Ab iske aage you Figure out what you need to do"
+
+  
+
+The actor suggested that being alone can often be a personal choice, while loneliness comes from feeling unwanted or disconnected from others. Ending the note on a cryptic tone, the actor asked followers to figure out for themselves what they truly need to do in life.
+
+The message instantly caught the attention of fans and celebrities alike. Salman’s close friend Iulia Vantur reacted with several fire emojis, appreciating the actor’s look and style in the picture.
+
+Soon after, celebrities including Remo D'Souza, Vatsal Sheth and Anita Hassanandani also joined the comments section with fire emojis and reactions praising Salman’s appearance.
+
+Fans, meanwhile, flooded the post with admiration and humorous comments. Many users praised the actor’s dedication to fitness and commented on how he continues to maintain his physique even at 60. One fan wrote that age is merely a number for Salman, while another jokingly wondered how anyone could sleep peacefully after seeing the actor’s latest picture.
+
+Over the years, Salman has built a strong connection with his audience by sharing not only film updates but also personal thoughts, fitness glimpses and candid moments from his life.
+
+  
+
+## About the movie Maatrubhumi  
+
+Meanwhile, the actor is preparing for one of his most physically demanding roles in recent years with Maatrubhumi: May War Rest in Peace. Reports suggest Salman underwent a major fitness transformation for the film. He reportedly trained under extreme weather conditions in Ladakh, where much of the movie was shot.
+
+According to HT report, the actor followed an intense training schedule that included endurance drills, heavy workouts and callisthenics-based exercises. Since transporting a complete gym setup to high-altitude shooting locations was difficult, Salman adapted his routine to maintain peak fitness throughout the filming schedule.
+
+The upcoming war drama has also gone through several changes during production. Earlier known as Battle of Galwan, the film was reportedly inspired by the real-life Galwan Valley clash between Indian and Chinese forces. However, recent reports suggest that the makers have changed the title and removed direct references to China and the Galwan Valley while reworking parts of the project through extensive reshoots.
+
+Despite the changes, excitement around the film remains high, especially among Salman Khan fans who are eager to see the actor in a completely new avatar on screen. The makers are yet to announce the new release date.
+
+---
+
+### 'Everything is alright': KC Venugopal welcomes dignitaries for VD Satheesan's swearing-in as Keralam CM
+*SECTIONS KC Venugopal welcomes dignitaries · business*
+
+Thiruvananthapuram: Congress MP KC Venugopal on Monday arrived at the airport in Thiruvananthapuram to welcome dignitaries arriving for the swearing-in ceremony of Chief Minister-designate VD Satheesan, as the United Democratic Front (UDF) prepared to assume power in Keralam after a decade.
+
+Speaking briefly to ANI, Venugopal said, "Everything is alright."
+
+Several senior Congress leaders and Chief Ministers from Congress-ruled states are expected to attend the oath-taking ceremony scheduled to be held at 10 am at the Central Stadium in Thiruvananthapuram.
+
+  
+
+Telangana Chief Minister A Revanth Reddy also arrived in Thiruvananthapuram to attend the swearing-in ceremony.
+
+Congress MP K Suresh said Congress president Mallikarjun Kharge, Rahul Gandhi, Priyanka Gandhi, and the Chief Ministers of Karnataka and Telangana would attend the swearing-in ceremony. He added that important decisions would be taken after the Cabinet meeting.
+
+"Today we are celebrating our victory in Keralam. VD Satheesan-led government is taking oath at 10 AM. Congress President Mallikarjun Kharge and Lok Sabha LoP Rahul Gandhi, Priyanka Gandhi, CM of Karnataka and Telangana will be coming to attend the ceremony. The people of Keralam are here. Very important decisions will be taken after the cabinet meeting following the swearing-in ceremony," he told ANI.
+
+Meanwhile, Congress MP Shafi Parambil described the swearing-in day as significant for both the Congress party and the people of the state.
+
+"This is a big day for the Congress party and the UDF allies. It is also a big day for the people of the state. We will fulfil all the promises we have made to our people," Parambil said.
+
+Earlier in the day, senior Congress leader Ramesh Chennithala confirmed that he would take charge of the Home portfolio in the new Cabinet and said the government would implement the five guarantees announced by Rahul Gandhi during the Assembly election campaign.
+
+The five guarantees include free bus travel for women, Rs 1000 monthly assistance for college-going girls, welfare pensions of Rs 3000, Rs 25 lakh Oommen Chandy Health Insurance coverage for every family, and interest-free loans up to Rs 5 lakh for small businesses.
+
+Satheesan is set to take oath as the Chief Minister of Keralam along with his full Council of Ministers, marking the return of the UDF to power after the end of the Left Democratic Front's (LDF) 10-year rule.
+
+The 20-member Cabinet includes senior Congress leaders Ramesh Chennithala, K Muraleedharan and KPCC chief Sunny Joseph, along with Indian Union Muslim League (IUML) leaders PK Kunhalikutty, PK Basheer, N Samsudheen, KM Shaji and VE Abdul Gafoor.
+
+Other ministers in the Cabinet are Mons Joseph, Shibu Baby John, Anoop Jacob, CP John, AP Anil Kumar, T Siddique, PC Vishnunath, Roji M John, Bindu Krishna, M Liju, KA Thulasi and O J Janeesh.
+
+Satheesan has also announced that senior Congress leader Thiruvanchoor Radhakrishnan will serve as Speaker of the Assembly, while Shanimol Usman will be the Deputy Speaker. MLA Apu John Joseph has been appointed as the Government Chief Whip.
+
+The UDF secured a landslide victory in the 2026 Keralam Assembly elections, winning 102 seats in the 140-member House. The Congress emerged as the single-largest party with 63 seats, while the IUML secured 22 seats. The LDF won 35 seats, while the BJP managed to win three constituencies.
+
+---
+
+### Woman delivers outside Faridabad health centre; Haryana govt orders probe, tweaks night-entry rules
+*Express News Service · legal*
+
+Both the woman and the newborn are healthy, officials said, adding that they were provided immediate medical attention. (Illustration: AI-generated/Gemni)
+
+The Haryana Health department has initiated a high-level probe after a woman allegedly had to deliver her baby near the entry gate of a primary health centre in Faridabad’s Sector 3 on Saturday morning, officials said.
+
+The department, they said, also overhauled night-access protocols at the facility.
+
+Both the woman and the newborn are healthy, officials said, adding that they were provided immediate medical attention.
+
+The woman arrived at the health centre late on Friday night. The facility has two gates — one designated for the OPD and another for emergency services. The OPD gate was shut, requiring emergency cases to use the second entrance. Unaware, the patient’s family reached outside the OPD gate. Finding it shut, the woman ended up delivering the baby outside the locked gate in the presence of her relatives who switched on the flashlight on their mobile phone during the process.
+
+Acting on the directives of the state’s Health Minister Aarti Singh Rao, an official inquiry was ordered to ascertain if there was any negligence on the part of the hospital staff.
+
+Taking cognisance of the matter, Dr Virender Yadav, Director of Maternal and Child Health (MCH), Haryana, also inspected the health centre. “We found that one of the two gates remains closed at night. Strict instructions have now been issued to keep both gates open,” Dr Yadav said. “An inquiry is being conducted by the Civil Surgeon (CMO Dr Jayant Ahuja) and Deputy Civil Surgeon (Dr Rachna) regarding the (role of) nurse and the Class-4 staff on duty. If found guilty, strict disciplinary action will be taken. This may include the termination or suspension of their contracts.”
+
+To prevent a recurrence, the Health department has also announced a series of immediate operational changes: both the OPD and emergency gates will now remain open round the clock, an ambulance will be permanently stationed outside the health centre to ensure zero delay in emergency treatment, and there will be enhanced surveillance on emergency services during the night.
+
+Story continues below this ad
+
+Dr Yadav also met the family of the woman. Highlighting issues 
+
+He further urged people, especially pregnant women, to dial 112 during emergencies to ensure institutional transport and avoid critical inconveniences.
+
+---
+
+### 'Taught to crack exams, not handle loneliness’: IAS officer, an IIT-Delhi and IIM-Bengaluru graduate, sparks debate on modern education
+*Unknown · business*
+
+What if the most elite education in the country teaches you how to solve equations, crack exams, and manage high-pressure roles, but leaves you unprepared for something far more basic, your own emotions? That question has sparked a wide debate online after an IAS officer reflected on what she believes modern education quietly ignores. Her post struck a chord because it came not from theory, but from someone who has studied at India’s top institutions and now works in public administration at the highest levels.
+
+Divya Mittal, an IAS officer, who as per her LinkedIn bio, is in the Uttar Pradesh cadre and currently serving as the CEO of UP Rural Roads Development Agency, shared her reflections on social media about what she feels is missing in formal education systems.
+
+She wrote that she studied at some of the most prestigious institutions in India, moving from the Indian Institute of Technology (IIT) Delhi to the Indian Institute of Management (IIM) Bangalore, and eventually entering the Indian Administrative Service. According to her, this journey taught her how to handle tough exams and demanding responsibilities, but it did not prepare her for emotional challenges such as loneliness or inner mental struggles.
+
+She expressed that while education trains people to achieve external success, it rarely teaches them how to simply be happy or how to understand their own minds. This gap, she suggested, becomes more visible in adulthood when academic structure disappears, and individuals are left to navigate life on their own.
+
+## Emotional regulation
+
+One of the key points she raised was emotional regulation. She reflected that students are taught science, mathematics, and memorisation, but not how to process emotional pain or mental overwhelm. She described how silence in classrooms was often mistaken for discipline, even when it may have suppressed emotional expression. According to her, this leads many adults to struggle with managing their internal emotional states later in life.
+
+  
+
+  
+
+## In-depth communication
+
+She also highlighted the lack of training in deep communication. While students are taught how to write essays and communicate formally, she noted that they are rarely taught how to express vulnerability, set boundaries, or say no in difficult professional situations. She pointed out that real-life communication often involves navigating conflict, asserting limits, and dealing with workplace pressure, skills that are not formally taught in school.
+
+  
+
+## Critical thinking
+
+Another area she discussed was critical thinking. She observed that education often rewards those who can provide correct answers quickly, rather than those who question assumptions. As a result, she suggested that many adults may grow up repeating established opinions without deeply examining where they come from.
+
+## Financial literacy
+
+Financial literacy was another major concern in her reflection. She wrote that while students spend years studying mathematics and problem-solving, they are rarely taught how to manage money in real life. She pointed out that understanding debt, savings, spending habits, and financial stress is essential for adult life, yet is often missing from the school curriculum.
+
+## Self-discipline
+
+She also spoke about self-discipline, explaining that school life is highly structured with fixed schedules, rules, and constant supervision. However, adulthood requires self-motivation and internal discipline without external enforcement. According to her, this transition becomes difficult for many because they were never trained to manage themselves independently.
+
+Loneliness was another theme she addressed in detail. She noted that school environments are socially active and constantly surrounded by peers, which can hide the reality of solitude that often appears in adult life. She suggested that many people struggle later because they were never taught how to be comfortable in their own company or understand solitude as a neutral or even positive state.
+
+## Importance of reading
+
+She further discussed the importance of reading people and understanding intentions. While school friendships are often straightforward and organic, she suggested that adult relationships require greater awareness of human behaviour, boundaries, and hidden motives.
+
+  
+
+## Mental health
+
+Mental health maintenance was also part of her reflection. She compared physical education in schools with the absence of emotional or mental well-being education. She noted that students are often taught to push through exhaustion, which can later contribute to burnout if not balanced with self-awareness and care.
+
+## Self-identity
+
+Finally, she spoke about self-identity. She observed that many people spend years trying to excel academically or professionally without ever learning who they truly are beyond achievements. According to her, the real challenge of life is not just success, but understanding personal values, desires, and identity.
+
+## Internet reacts
+
+The post sparked strong reactions online, with many users agreeing that it reflects gaps in the Indian education system. One user said the section on “deep communication” stood out, noting that students are trained to write long essays but often struggle to set boundaries or say a simple no in real life. Another comment appreciated the message and thanked her for sharing her thoughts.
+
+A debate also emerged when one user compared historical rulers and questioned formal education. She responded that formal education and intelligence are not the same, adding that leadership also depends on observation, emotional intelligence, and judgment. Another user highlighted the need to introduce psychology early in schools and stressed the importance of emotional intelligence alongside IQ.
+
+---
+
+### JEE Advanced 2026: IIT Roorkee issues question papers at jeeadv.ac.in
+*Education Desk · legal*
+
+Under the important announcement section, students will be able to download the PDF of the question papers.
+
+The Indian Institute of Technology, Roorkee, has released the question papers for JEE Advanced. Students can download the question paper from the official website–jeeadv.ac.in. Under the important announcement section, students will be able to download the PDF of the question papers. Aspirants will not need to enter their application number or date of birth to access or download the JEE Advanced question paper. The exam was conducted on May 17. While Paper 1 was conducted in the morning shift from 9 am to 12 noon, Paper 2 took place in the afternoon between 2:30 pm and 5:30 pm.
+
+JEE Advanced 2026 Exam Analysis
+
+As per students and teachers, the JEE Advanced paper one was moderate to highly challenging, with Mathematics proving to be the longest and toughest, while Physics required deep conceptual clarity, and Chemistry was tricky and tough. On the other hand, paper two is highly conceptual and time‑intensive, particularly in Mathematics, which was described as very tough. For more information on JEE Advanced 2026, results, and toppers, the aspirants can check IE Education.
+
+JEE Main Rank Predictor 2026: Check Here
+
+The paper one pattern comprised 4 SCQs, 4 MCQs, 4 Matrix‑match, and 4 Integer‑type questions, with no negative marking for integer‑type, and -1 mark deduction for MCQ, SCQ, and Matrix‑match questions.
+
+The second paper comprised 18 questions divided into two paragraphs, including 4 single‑correct (SCQ) questions carrying (+3, –1), 5 multiple‑correct questions (+4, –1), 5 integer‑type questions (+4, –1), and 4 paragraph‑based questions (+2, 0).
+
+IIT Roorkee had released the admit cards for the exam on May 11, 2026. It contains details about the candidates, their exam centre, reporting time and documents to carry. The results for the JEE Advanced will be released on June 1.
+
+---
+
+### Being Chipper
+*TOI Edit · opinion, regional*
+
+_With Tata-ASML deal, India’s finally getting into chip manufacturing, and in a big way_
+
+It won’t be long before semiconductors, or chips, sold in a year are worth more than oil. Just last week, TSMC, world’s largest chipmaker, said annual chip sales could touch $1.5tn by 2030. How many might be made in India? A few days ago, the answer would have been a clueless shrug. Now, after Saturday’s agreement between Tata Electronics and Dutch firm ASML, it’s fair to say we’ll be a significant player.
+
+Truth is, we are big players in chipmaking already. Only, not in the most obvious way, which is to manufacture the chips themselves.
+
+Our tech talent has a big role in the brainy job of chip design. By most estimates, 20% of world’s chip design engineers are Indian. Early this year, Qualcomm acknowledged the contribution of its Indian team in the making of 2nm chips – currently the most advanced. We’ve also become big players in back-end tasks of testing and packaging chips made by others. Two years ago, we were ranked the third most attractive destination for these tasks, behind Taiwan and Malaysia.
+
+The Tata-ASML deal, however, puts us on the road to actual chip manufacturing, the front end. ASML, if it’s slipped your attention, is the only manufacturer of machines that print out circuits on silicon wafers. Each of which costs a few hundred million dollars. And Tata’s plan is to invest $11bn in its brand-new chip factory at Dholera, Gujarat. But it won’t make headline-grabbing 2nm chips, or even the 4nm type that’s a smartphone staple now. Instead, it will make workhorse chips of sizes ranging from 28nm to 110nm.
+
+That’s not a bad thing, because bulk of chip demand is for these ‘mature’ types that have been around for years. For example, 2013’s iPhone 5s had a 28nm chip. These older generation chips cost a few dollars each now, but are indispensable in cars, and industrial equipment. Their shortage can jam assembly lines.
+
+And as the big-name firms pivot to making AI chips, shortages of mature chips are looming. That’s why China is ramping up capacity, and it’s a good opportunity for India to make the leap, too. The fact that Tata has chosen to use 300mm wafers, rather than 200mm, to fabricate chips shows it’s aiming for scale. GOI also wants 70-75% of India’s chip demand fulfilled locally. That will save billions in forex, and quell any doubts about our chipmaking ambitions.
+
+Facebook Twitter Linkedin Email
+
+###### Disclaimer
+
+Views expressed above are the author's own.
+
+###### END OF ARTICLE
+
+---
+
+### Protect, Don’t Lecture
+*TOI Edit · opinion, regional*
+
+_Himachal HC should have responded differently to a habeas corpus case_
+
+A man seeks Himachal HC’s help, for a woman whose life he believes to be under threat, going by her text messages to him.
+
+Himachal HC division bench, instead of stepping up, and maybe hearing the woman also, packs the petitioner off with a morality lecture. Only because the petitioner was the married woman’s live-in. And the petitioner feared her husband and mother-in-law detained her forcibly.
+
+The two judges were least mindful that SC decriminalised ‘adultery’ (extramarital sexual relationships), in 2018. They ignored a married woman’s perceived threat to life. The bench only saw a man in an “affair” with a married woman. HC refused to ‘enter’ a married couple’s ‘life’ – “It is not for this court to intervene in matrimonial issues inter se the woman and her husband.”
+
+It cannot be denied that the bench brought into their court a misplaced morality bias. It dismissed a habeas corpus – a very specific legal instrument to protect individuals from unlawful or arbitrary detention. This, when SC, in 2024, put out guidelines/safeguards for HCs to deal with ‘detention’ by those with family authority, following a case where a petitioner alleged that an LGBTQ+ person was being held by family, against their wish. In this case, HC glanced by that case. Instead, it said, “Judicial sanctity-cannot be given to adulterous relations.”
+
+Surely, a petitioner’s relationship should not have so much bearing where threat to life is alleged? There is nothing that would stop HC from penalising the petitioner, if the case were found to be frivolous.  
+Why not, instead, put out a query about the woman’s status? CJIs have repeated often that judges should desist from colouring verdicts with personal views, even in obiter dicta. But the judges barely looked beyond the fact of the woman’s relationship outside of her marriage. To that end, they only upheld traditional retrograde views, not so much the right to life or dignity.
+
+Facebook Twitter Linkedin Email
+
+###### Disclaimer
+
+Views expressed above are the author's own.
+
+###### END OF ARTICLE
+
+---
+
+### Better political representation, oppose SIR, restore quotas: Karnataka Muslim body in 3-tier demand
+*Express News Service · legal*
+
+The recent convention assumes significance in light of the bypolls results in Davanagere South, where, despite the Congress win, its margin of victory had dropped. (File photo/ X/Siddaramaiah)
+
+The Karnataka Federation of Muslim Organisations Saturday released a report on issues including reservation, political representation, and the upcoming Special Intensive Revision (SIR) exercise in the state, while also questioning the Congress over its poll promises to the community during the last elections.
+
+The recent convention assumes significance in light of the bypolls results in Davanagere South, where, despite the Congress win, its margin of victory had dropped from 27,900 to 5,700.
+
+The dissatisfaction amongst the Muslim voters, who are a third of the electorate in Davanagere South, was also apparent in a rebellion amongst Muslim Congress leaders, culminating in the suspension of MLC Abdul Jabbar and the removal of MLC Naseer Ahmed from the post of Karnataka Chief Minister Siddaramaiah’s political secretary and thus cabinet rank.
+
+The report, addressed to the CM, Deputy CM D K Shivakumar, and Assembly, said that after the support extended by the community to the Congress in 2023, “There have been improvements in education and welfare, but major concerns like reservation, dignity, livelihood, religious freedom, protection from hate, and political representation are still unresolved or only partly addressed.”
+
+The Federation also put forward a three-tier charter of demands seeking a formal withdrawal of the order barring hijabs for women students, protection of Waqf properties, and the restoration of the 4 per cent reservation for Muslims under Category 2B, which was scrapped by the previous Bharatiya Janata Party (BJP) government in 2023.
+
+It sought action against groups spreading “hatred and communal division”, noting, “FIRs alone have not created deterrence, as many repeat offenders continue to operate publicly without meaningful consequences.”
+
+The report also demanded the withdrawal of The Karnataka Prevention of Slaughter and Preservation of Cattle Act, 2020, citing the hardships caused to farmers, butchers, leatherworkers, and Muslim meat traders. It also noted that a Cabinet decision had been taken to withdraw the anti-conversion law, but the Bill had not subsequently been tabled.
+
+Story continues below this ad
+
+Political representation of Muslims within the Congress government was also amongst the various issues raised by the Federation, which said it was disproportionately low in the Karnataka Assembly. It pointed out that there were currently four MLCs from the community, which, given the state’s Muslim population, should be 9 or 10.
+
+The Federation also expressed serious concerns about the upcoming SIR exercise in Karnataka, citing the deletion of names from electoral rolls in Bihar and West Bengal. It called on the Karnataka Government to oppose the SIR exercise and suggested several measures, including ensuring that roll revisions were carried out in a democratic and transparent manner.
+
+It also suggested that a circular be issued to warn people against engaging in “malpractice,” such as the “misuse” of Form 7 applications to delete voters.
+
+Civil society groups in Bengaluru have previously come together against the Special Intensive Revision, as reported by The Indian Express.
+
+Story continues below this ad
+
+Other tiers of suggestions, such as allocating Rs 10,000 crore for minority welfare and strengthening the State Minorities Commission, were sought to be achieved by the end of the fiscal year or by May 2028, respectively.
+
+---
+
+### ICICI Prudential Life shares down 7% today: Why the insurance stock is falling sharply
+*India Today Business Desk · general*
+
+## ICICI Prudential Life shares dropped Rs 39.70, or 7.41%, to Rs 495.90 on the National Stock Exchange of India as of 9:32 am, making it one of the top losers on the benchmark indices.
+
+Analysts said the decline in ICICI Prudential Life shares appears to be driven more by ownership-
+
+Shares of ICICI Prudential Life Insurance Company Limited tumbled over 7% in early trade on Monday as investors reacted to Prudential plc’s move to acquire a majority stake in Bharti Life Insurance, triggering concerns over a possible large stake sale in ICICI Prudential Life.
+
+The insurance stock dropped Rs 39.70, or 7.41%, to Rs 495.90 on the National Stock Exchange of India as of 9:32 am, making it one of the top losers on the benchmark indices.
+
+The sharp selloff came after reports said UK-based Prudential plc will acquire a 75% stake in Bharti Life Insurance for around Rs 3,500 crore. The development has raised concerns that Prudential may now have to significantly reduce its holding in ICICI Prudential Life due to regulatory requirements.
+
+It may be noted that Prudential currently owns nearly 22% in ICICI Prudential Life. However, insurance regulations may require the company to bring down its stake below 10% if it takes controlling ownership in another Indian life insurance venture.
+
+That possibility has unsettled investors.
+
+Market participants fear Prudential could eventually offload a substantial portion of its holding in ICICI Prudential Life through block deals or open market transactions. At current market prices, Prudential’s stake in the insurer is estimated to be worth nearly Rs 17,000 crore.
+
+Whenever markets anticipate a large shareholder sale, stocks often come under immediate pressure because investors worry about excess supply hitting the market.
+
+Analysts said the decline in ICICI Prudential Life shares appears to be driven more by ownership-
+
+The development has also sparked speculation about Prudential plc’s long-term India strategy. For years, ICICI Prudential Life was considered the British insurer’s primary India insurance play through its joint venture with ICICI Bank. However, the Bharti Life acquisition signals a possible strategic shift towards having direct operational control over an insurance business in India.
+
+That change in perception has become a major overhang for the stock.
+
+Despite the sharp decline, analysts noted that ICICI Prudential Life remains fundamentally strong with stable operations and a large presence in India’s private life insurance market. However, uncertainty surrounding a potential stake dilution and future ownership structure is likely to keep investor sentiment under pressure in the near term.
+
+The fall in the stock also comes amid broader weakness in financial shares, although ICICI Prudential Life significantly underperformed the market due to the Prudential plc-
+
+\- Ends
+
+Koustav Das
+
+May 18, 2026 09:38 IST
+
+---
+
+### PM’s Self-Restraint appeal and Opposition’s Negativity
+*Keshav Upadhye · opinion, regional*
+
+Prime Minister Narendra Modi’s appeal to save fuel and stop gold purchases for a year has, as usual, not gone down well with the opposition parties. The debacle in West Bengal and Assam had taken away the opposition’s opportunity to vent its bitterness against Prime Minister Modi and Bharatiya Janata Party. After the appeal for fuel conservation, Yuvraj Rahul Gandhi and his colleagues lashed out at Prime Minister Narendra Modi, citing the country’s economic situation.
+
+As this gives them satisfaction, there is no reason for anyone to object. Due to their consecutive defeats and no chance of victory ahead, Congress and other opposition leaders like Arvind Kejriwal keep spreading false information to create misunderstandings about every decision of the Modi government. We have seen how rumours of a gas shortage, spread by the Congress after the Iran–U.S. war began, led to long queues for gas. In spite of this rumour-mongering, Bharatiya Janata Party still secured a majority in West Bengal and also retained a state like Assam with a huge majority. Now, Prime Minister Modi has appealed for self-restraint in fuel consumption and gold purchases. This does not mean that India is facing a grave crisis.
+
+India has sufficient foreign exchange available to import petrol, diesel and gas for the coming year. This is an indicator that India’s economy is strong even amid such a crisis. To avoid the way in which the United States, the World Bank and the International Monetary Fund held the country to ransom when its foreign exchange reserves were nearly exhausted in 1990’s, it is the duty of the central government to conserve as much foreign exchange as possible. It is important to cut down on imports.
+
+Crude oil, gold and edible oil are the three major items that India imports. The challenge before the government becomes relatively easier if citizens start saving these items or reduce the expenditure on them on their own, instead of the government imposing restrictions on imports of these items or on their use. We import about 50 lakh barrels of crude oil every day. That means India needs to import around 80 crore litres of crude oil, every day.
+
+This also means that we import nearly 90% of our crude oil requirements. The current crude oil price is approximately 104 dollars per barrel. This means we spend approximately 52 crore dollars on crude oil imports every day.
+
+In Indian rupees, this amount is about 4500 crores per day, which is Rs 15 lakh crore per year. If the price of crude oil increases by even one dollar per barrel in the international market, we have to pay an additional Rs 17,000 crore and even if the rupee depreciates by even one rupee against the dollar, it costs Rs 14,000 crore more. Today, the price of crude oil is more than 100 dollars, compared to less than 60 dollars last year. Therefore, we can understand how significantly it has affected our foreign exchange reserves.
+
+Prime Minister Narendra Modi has appealed to the citizens to maintain financial discipline after taking the international situation into consideration. The Prime Minister has asked for all possible measures to be taken to save foreign exchange. For everyday travel, the Prime Minister has appealed to citizens to opt for carpooling instead of using four-wheelers alone, to avoid using four-wheelers and use the metro or other public transport whenever possible and to work from home if possible. Our gold imports are massive. If we can reduce them, the country’s foreign exchange can be saved significantly. Therefore, Prime Minister Modi has also appealed not to buy gold jewellery for the next one year. Our country imports gold worth Rs 7 lakh crore every year.
+
+Even though we buy petrol, diesel and gold in rupees, oil and gold trade in the international market has to be done in US dollars only. A large amount of foreign exchange is spent by Indian tourists when they travel abroad. Therefore, the Prime Minister has also appealed to avoid such foreign tours. In accordance with the Prime Minister’s appeal, the state government has announced important measures for various departments. Special emphasis has been given to restricting foreign tours of ministers and officials along with encouraging use of public transport, energy conservation, promoting natural farming and holding meetings through digital platforms.
+
+A decision has been taken to increase the use of carpooling, public transport and electric vehicles. It has also been suggested that senior officials travel by metro, local trains or buses at least once a week. Emphasis will be given to increasing the use of video conferencing for conducting online meetings, training sessions and seminars for official work at the Mantralaya, departmental and district levels. It is our experience that the common man always responds positively to every appeal of Prime Minister Modi. There is no doubt that this time as well the common man will positively respond to the appeal for fuel conservation and restraint on gold purchases.
+
+Facebook Twitter Linkedin Email
+
+###### Disclaimer
+
+Views expressed above are the author's own.
+
+###### END OF ARTICLE
+
+---
+
+### INTACH Chandigarh marks World Museum Day with guided tour of Jeanneret Museum
+*Express News Service · legal*
+
+Jeanneret Museum. (Credit: chandigarhtourism.gov.in)
+
+In a vibrant celebration of heritage and discovery, INTACH Chandigarh organised a special guided tour of the Jeanneret Museum on Sunday to mark World Museum Day on May 18.
+
+The initiative aimed at reconnecting city residents with the architectural legacy of Pierre Jeanneret and fostering greater civic engagement with Chandigarh’s unique cultural narrative.
+
+The tour, led by Deepika Gandhi, Convenor of INTACH Chandigarh, drew enthusiastic participation from citizens across age groups.
+
+Participants were taken through the historic house where Jeanneret lived for over 11 years, which was meticulously restored to its original condition in 2017 and converted into a museum dedicated to the Swiss architect’s life and work.
+
+Gandhi highlighted Jeanneret’s profound contribution to the making of Chandigarh and emphasised that the true worth of a museum lies not in its grandeur but in the depth of its stories and its integral place in the city’s history. Attendees were shown rare black-and-white photographs of early Chandigarh and gained insights into the design philosophy behind the city’s housing, educational institutions, Panjab University, and the iconic Chandigarh furniture.
+
+The tour evoked a strong sense of wonder, particularly among children from NGO Project Udaan and young students.
+
+The event also saw active participation from retired bureaucrats, senior university professors, and long-time residents. Thoughtful interactions during and after the tour, accompanied by refreshments, turned the visit into an engaging intergenerational dialogue on Chandigarh’s identity and architectural heritage.
+
+Story continues below this ad
+
+Vivek Atray, Co-Convenor of INTACH Chandigarh, expressed satisfaction with the overwhelming response. “We are now planning a series of future events and curated heritage experiences to engage all sections of society and promote the art, culture, and heritage of Chandigarh in more meaningful and accessible ways.”
+
+---
+
+### Market Opens Lower: Sensex Declines Over 800 Points, Nifty Slips Below 23,400 As Crude Oil Spike Rattles Markets
+*Mohammad Haris · business*
+
+The Nifty 50 falls 251 points or 1.01 per cent to 23,394.95 in opening trade, while the Sensex declines 833 points, or 1.11 per cent, to 74,404.98.
+
+[Read full article](https://www.news18.com/business/markets/market-opens-lower-sensex-declines-over-800-points-nifty-slips-below-23400-as-crude-oil-spike-rattles-markets-10096902.html)
+
+
+---
+
 ## 17 May 2026
 
 ### Posters targeting Congress' Rahul, Priyanka and Kharge surface in Wayanad; police register case
