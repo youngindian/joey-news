@@ -1,3 +1,572 @@
+## 19 May 2026
+
+### ‘Violence in the name of protest unacceptable’: Delhi HC on 2022 stir outside J P Nadda’s home
+*Sohini Ghosh · legal*
+
+The residence of Union Minister and BJP National President JP Nadda in New Delhi. (Source: Express Archives)
+
+Refusing to discharge nine protesters for alleged attempt to murder by burning effigies outside former BJP president and now Union Health Minister J P Nadda’s house in 2022, the Delhi High Court last week held that “merely because nobody got injured”, it cannot be said that the offence is not made out.
+
+The nine protesters, students pursuing professional degrees at the time, had assembled outside Nadda’s official residence in June 2022 at Motilal Nehru Marg, protesting against the Agniveer scheme.
+
+Nadda was the BJP president at the time.
+
+An FIR was lodged at Tughlak Road police station for charges under the IPC alleging attempt to murder, mischief by fire or explosives, rioting, unlawful assembly, criminal conspiracy, among other charges.
+
+A trial court had dismissed the accused persons’ plea for discharge in the case, specifically for the charges under IPC Sections 307 (attempt to murder) and 436 (mischief by fire or explosives) in November 2025, following which they moved the Delhi HC challenging the trial court’s order.
+
+Advocate Tyagi said they plan to appeal against the HC verdict.
+
+Justice Manoj Jain, in an order on May 16, terming the protesters’ act as “a brazenly disruptive activity”, defined whether such acts can even constitute “protest”.
+
+“Can it be legitimately termed a ‘protest’ where the so-called protestors, after burning on road effigy of an individual, cross the road… the broad footpath and even the service road to throw burning portions of the effigy on the rooftop of the guard room of the official bungalow of the person being protested against when security men present inside the gate try to stop them… After which, the so-called protestors would immediately, in cowardly manner, flee, instead of as a mark of protest letting the law-enforcement agency take them into custody? The answer is a resounding No. This is nothing but brazenly disruptive activity,” the court held.
+
+Story continues below this ad
+
+The protesters, represented by advocate Vimal Tyagi, had argued that since no deadly weapon was used by them and their intention was only to protest, no case was made out for attempt to murder.
+
+“If it was a simple protest outside the house of that prominent person (Nadda), it remains unexplained as to why the petitioners would, after burning the effigy, go across to the other end… and throw the burning effigy… CCTV footage relied upon by both sides completely demolishes the argument of learned counsel for petitioners that it was simply a protest,” Justice Jain reasoned.
+
+“… merely because nobody got injured and fortunately so, it cannot be said that charge for offence under Section 307 IPC is not made out… the petitioners cannot deny knowledge that their act of throwing the burning effigy… was so imminently dangerous and that…, in all probability, would have caused death… Though for the good fortune of those security men, they escaped unhurt. In any case, the FIR itself specifically alleges that the petitioners tried to kill the security personnel present inside the gate,” Justice Jain recorded.
+
+Similarly for the offence of IPC Section 436, the court held, “… merely because no explosive was used, it cannot be said that the offence is not made out… The offence under Section 436 IPC covers mischief by not just explosive substance but even by fire…”
+
+Story continues below this ad
+
+While the protesters had emphasised that charges under IPC Section 285 (rash or negligent act involving fire or combustible matter) ought to have been framed, the court instead observed, “What the petitioners did was not a negligent act; it was clearly an intentional act.”
+
+Terming the petition to be frivolous and dismissing it with cost of Rs 25,000 to be paid to Bharat ke Veer, a voluntary donation arm for the armed forces run by the Ministry of Home Affairs, Justice Jain observed, “To reiterate, protests do form a significant part of a democracy. But violence in the name of protest cannot be acceptable to any tenet of demosprudence. Such acts of shoot and scoot do not constitute protest. It is indeed a matter of serious concern that a section of society today thrives on such disruptive activities in the name of protest.”
+
+Sohini Ghosh is a Senior Correspondent at The Indian Express. Previously based in Ahmedabad covering Gujarat, she recently moved to the New Delhi bureau, where she primarily covers legal developments at the Delhi High Court Professional Profile Background: An alumna of the Asian College of Journalism (ACJ), she previously worked with ET NOW before joining The Indian Express. Core Beats: Her reporting is currently centered on the Delhi High Court, with a focus on high-profile constitutional disputes, disputes over intellectual property, criminal and civil cases, issues of human rights and regulatory law (especially in the areas of technology and healthcare). Earlier Specialty: In Gujarat, she was known for her rigorous coverage in the beats of crime, law and policy, and social justice issues, including the 2002 riot cases, 2008 serial bomb blast case, 2016 flogging of Dalits in Una, among others. She has extensively covered health in the state, including being part of the team that revealed the segregation of wards at the state’s largest government hospital on lines of faith in April 2020. With Ahmedabad being a UNESCO heritage city, she has widely covered urban development and heritage issues, including the redevelopment of the Sabarmati Ashram Recent Notable Articles (Late 2025) Her recent reporting from the Delhi High Court covers major political, constitutional, corporate, and public-interest legal battles: High-Profile Case Coverage She has extensively covered the various legal battles - including for compensation under the aegis of North East Delhi Riots Claims Commission - pertaining to the 2020 northeast Delhi riots, as well as 1984 anti-Sikh riots. She has also led coverage at the intersection of technology and governance, and its impact on the citizenry, from, and beyond courtrooms — such as the government’s stakeholder consultations for framing AI-Deepfake policy. Signature Style Sohini is recognized for her sustained reporting from courtrooms and beyond. She specialises in breaking down dense legal arguments to make legalese accessible for readers. Her transition from Gujarat to Delhi has seen her expand her coverage on regulatory, corporate and intellectual property law, while maintaining a strong commitment to human rights and lacuna in the criminal justice system. X (Twitter): @thanda\_ghosh ... 
+
+© The Indian Express Pvt Ltd
+
+-   Tags:
+-   delhi high court
+-   J P Nadda
+
+---
+
+### Haryana lodges FIRs against 22 employees for skipping census duty
+*Sukhbir Siwach · legal*
+
+Two FIRs were lodged in Gurgaon against 10 employees, including teachers and Anganwadi workers.
+
+With census operations gathering pace in Haryana, authorities have lodged FIRs against 22 employees and recommended FIRs against 40 others for failing to participate in the exercise. A few employees have also been suspended.
+
+The move has drawn sharp criticism from employees’ bodies, which argued that registering FIRs or suspending staff without an inquiry was harsh and unjustified. Employee leaders said the reasons behind the absences should have been examined first, as some employees may have had genuine or unavoidable circumstances.
+
+Two FIRs were lodged in Gurgaon against 10 employees, including teachers and Anganwadi workers, while another FIR was registered against nine employees in Faridabad. In Kurukshetra, two clerks faced FIRs, and a teacher in Bhiwani district was also booked. Additional recommendations for FIRs against 22 employees have been sent to Faridabad police, while Sonipat police received recommendations against 18 more employees.
+
+Gurgaon Municipal Corporation Commissioner Pradeep Dahiya confirmed that two FIRs had been lodged against 10 employees for remaining absent from census duty without citing any reasons. The FIRs were filed under Section 11 of the Census Act, 1948.
+
+According to the FIR, the employees failed to discharge their duties with due diligence, thereby obstructing smooth census operations. One FIR registered at Gurgaon City Police Station on May 18 stated: “Their absence from the mandatory training demonstrates negligence and dereliction of duty in relation to an important national assignment… the enumerator failed to attend the mandatory census training and also refused to comply with repeated official instructions issued from time to time. Such conduct reflects gross negligence towards assigned government responsibilities and has caused obstruction in the smooth execution of official census work, thereby adversely affecting the preparedness and progress of census operations.”
+
+Dahiya said the departments concerned had been asked to suspend negligent employees. He added that 213 persons had not yet reported for census duty and warned that strict action would also be taken against them.
+
+“There is a provision of up to three years’ imprisonment for those who create hindrance in census work or refuse census duty,” he said.
+
+Story continues below this ad
+
+Dahiya added that employees from both government and private sectors, including banks and private schools, had been deputed for census work.
+
+In Sonipat, the Municipal Corporation lodged a police complaint against 18 employees assigned as enumerators or supervisors for remaining absent. In Bhiwani district, a teacher was booked for negligence and for allegedly using unparliamentary language with an official who had sought an explanation.
+
+In Kurukshetra, two clerks were suspended for failing to initiate census work, apart from an FIR being registered against them. Sub-Divisional Magistrate Shambhu Rathee said both clerks had ignored repeated notices and failed to respond.
+
+The action has upset employee leaders across Haryana. Haryana Vidyalaya Adhyapak Sangh president Prabhu Singh acknowledged the importance of census, election and disaster management duties, but argued that feasibility should be considered before assigning responsibilities.
+
+Story continues below this ad
+
+He said some teachers had been assigned census duties 60 km away from their schools, making it difficult to balance teaching and census work. He added that election duties had already disrupted teaching in many schools and that assigning census work to teachers amid thousands of vacancies was unfair.
+
+He suggested that unemployed youth should be deputed to assist census staff instead.
+
+Subhash Lamba, president of the All India State Government Employees Federation, said employees may have genuine reasons such as illness or family emergencies, and FIRs in such cases only add to their problems.
+
+Census work in Haryana officially began on May 1, 2026, with house-listing and enumeration operations launched across the state. Citizens can contact the national toll-free helpline number 1855 for information 
+
+Story continues below this ad
+
+Director of Census Operations, Haryana, Lalit Jain said census work had picked up pace after a recent meeting chaired by the Chief Secretary and expressed confidence that the exercise would be completed by May 30.
+
+He said work had commenced in more than 97 per cent of the total houselisting blocks across Haryana, with districts such as Yamuna Nagar, Kurukshetra, Kaithal, Karnal, Fatehabad, Hansi, Charkhi Dadri and Faridabad achieving 100 per cent commencement of houselisting activities.
+
+---
+
+### Foreigner ends over 100 years of bonded labour nightmare for Pakistani family, pays debt
+*India Today Trending Desk · general*
+
+## Aaron Hutchings paid off a Pakistani family's ancestral debt at a Kasur brick kiln. Their release after four generations in bonded labour has left the internet emotional.
+
+Aaron Hutchings and his team freed Pakistani families from bonded slavery of over 100 years. (Photo: Instagram)
+
+A foreigner named Aaron Hutchings has gone viral online after helping free a Pakistani family trapped in bonded labour for nearly 140 years by paying off their ancestral debt at a brick kiln factory in Pakistan’s Kasur region.
+
+The emotional story has left many social media users stunned, with several describing it as both heartbreaking and hopeful at the same time.
+
+The family had spent four generations working at the brick kiln under a system of inherited debt, where loans and unpaid dues are passed down within families, leaving them trapped in labour with little chance of escape.
+
+Hutchings reportedly stepped in through an initiative called Project Jubilee, an effort focused on freeing people living under slavery and bonded labour conditions. This is said to be the fifth family freed under the project.
+
+After the debt was cleared, the family was finally able to leave the kiln and regain their freedom after more than a century tied to the labour system.
+
+**See the videos:**
+
+The story quickly spread online, with many users expressing disbelief that such conditions still exist in modern times. Several people pointed out that generations of the same family had spent their entire lives trapped under debt they never created themselves.
+
+Many users also praised Hutchings for directly intervening instead of merely speaking about the issue online. Others described the incident as a reminder of how deeply poverty and exploitation remain connected in several parts of the world.
+
+Bonded labour, though illegal in many countries, continues to affect vulnerable communities where families become dependent on employers through debt and are unable to break free from the cycle.
+
+For many online, however, the focus remained on the emotional weight of the rescue itself. Users said the family’s release after four generations represented not just financial freedom, but the end of a burden that had shaped the lives of multiple generations.
+
+Several commenters described the incident as “humanity at its best,” while others said it was a powerful reminder that even one person’s intervention can completely alter the future of an entire family.
+
+\- Ends
+
+Srimoyee Chowdhury
+
+May 19, 2026 09:39 IST
+
+---
+
+### KCET 2026: CBSE, ISC, other board exam students asked to update Class 12 marks for UGCET merit list
+*Education Desk · legal*
+
+Candidates have been informed that there is no provision to manually enter marks or submit physical copies of mark sheets to KEA (Express photo by Vishal Srivastav/ representative)
+
+The Karnataka Examinations Authority (KEA) has asked candidates who passed their Class 12 examinations from Central Board of Secondary Education (CBSE), Council for the Indian School Certificate Examinations’ (CISCE) Indian School Certificate (ISC) and other state boards to update their marks through the KEA portal at cetonline.karnataka.gov.in/onlineapp2026\_nadmarks/forms/login.aspx for the Undergraduate Common Entrance Test (KEA UGCET) or the Karnataka CET (KCET) 2026 process.
+
+In an official notice issued by H Prasanna IAS, Executive Director, KEA said a dedicated link has been enabled on its portal for CBSE, ISC and other state board students to provide DigiLocker permission so that their Class 12 marks can be fetched automatically. These marks will be used to determine merit as per prescribed rules.
+
+Candidates have been informed that there is no provision to manually enter marks or submit physical copies of mark sheets to KEA.
+
+As per the notification , students must first log in to DigiLocker and download their Class 12 marksheet. KEA stated that this step is compulsory for updating marks in the CET online portal. A tutorial video has also been shared by the authority to guide students through the process.
+
+After completing the DigiLocker step, candidates need to log in to the KEA CET online portal and enable permission for marks retrieval.
+
+> #UGCET – 2026: Regarding Updation of 12th marks of CBSE / CISCE and other State Board candidates in KEA website. Please follow these steps to updation.
+> 
+> Link has been provided in the KEA website to CBSE / CISCE and other State Board candidates who have passed 12th Standard… pic.twitter.com/15itZ0rAAT
+> 
+> — ಕರ್ನಾಟಕ ಪರೀಕ್ಷಾ ಪ್ರಾಧಿಕಾರ KEA (@KEA\_karnataka) May 17, 2026
+
+KEA warned that candidates who fail to complete the process immediately may have their UGCET 2026 results withheld. The authority also clarified that students who have already updated their marks can ignore the notice.
+
+Also, KEA has started the data collection process for candidates who have applied for UGCET 2026 and also appeared for the National Eligibility cum Entrance Test Undergraduate (NEET UG). Candidates can submit their NEET UG roll number, application number, and upload their NEET UG admit card through a dedicated online link at cetonline.karnataka.gov.in/neetenroll2026/forms/login.aspx.
+
+---
+
+### Petrol, diesel price hike: Congress dubs PM Modi 'inflation man'; warns 'this is just the beginning'
+*Varsha Agarwal · general*
+
+Fuel prices across the country witnessed a sharp increase, as petrol and diesel rates were hiked by an average of 90 paise per litre on Tuesday.
+
+Congress on Tuesday launched a blistering attack on Prime Minister Narendra Modi over the rising cost of fuel. Dubbing him the "Inflation Man", the party asserted that the government is systematically burdening the common public once the elections concluded.
+
+## **Congress attacks Centre over fuel price hike, calls PM Modi 'inflation man'**
+
+The opposition party alleged that the central government has initiated a pattern of steep fuel price revisions to pass the economic burden onto regular citizens."The 'Inflation Man' Modi's whip has struck the public again. Petrol and diesel have been hiked by 90 paise. Modi has raised prices by 4 rupees in the last 4 days. With this increase, petrol has reached 109 rupees and diesel 96 rupees in the country. This is just the beginning. The Inflation Man will extract even more because the elections are over", the Congress party said.
+
+Fuel prices across the country witnessed a sharp increase, as petrol and diesel rates were hiked by an average of 90 paise per litre on Tuesday.
+
+In Delhi, petrol prices rose by 87 paise, climbing from Rs 97.77 to Rs 98.64 per litre, while diesel prices increased by 91 paise, moving from Rs 90.67 to Rs 91.58 per litre.
+
+Mumbai witnessed a price hike of 91 paise for petrol, bringing it to Rs 107.59 per litre, while its diesel price increased by 94 paise, which stood at Rs 94.08 per litre. In Chennai, petrol prices rose by 82 paise to Rs 104.49 per litre, while diesel prices surged by 86 paise to Rs 96.11 per litre.
+
+Kolkata registered a price hike of 96 paise for petrol, taking it to Rs 109.70 per litre, while diesel prices in the city increased by 94 paise to reach Rs 96.07 per litre. This marks the second increase in fuel rates in less than a week.
+
+## **Fuel price hike: Rs 3/litre to go Rs 10/litre?**
+
+Earlier, the central government increased the prices of petrol and diesel by Rs 3 per litre each on May 15 across the country. 
+
+With OMCs facing losses, Dhaval Popat, Energy Analyst at Choice Institutional Equities, warns that further hikes are required to offset the current losses. "In the above backdrop, provided there is no change in the global scenario, and the crude price continues to build, a rise of Rs 10/litre overall, which includes a Rs 3/litre hike, would be required to offset the losses," he says.
+
+"Based on industry sales volumes, every INR1/litre increase in fuel prices can improve annualised EBITDA by roughly INR15,000–16,000 crore for the three PSU OMCs combined, implying that the latest hike could translate into an annualised earnings benefit of nearly INR45,000–48,000 crore across OMCs.However, against estimated industry-wide losses currently running at nearly INR1 lakh crore monthly, the present hike only offsets a limited portion of the earnings erosion," Popat has said earlier.
+
+---
+
+### Supreme Court to announce ruling on feeding stray dogs: Recalling the case
+*Amaal Sheikh · legal*
+
+The Supreme Court will announce its verdict in the stray dogs case Tuesday. (File)
+
+The Supreme Court is set to pronounce the judgment on Tuesday in the stray dog suo motu matter that,  over the past year, has turned into a national debate on public safety, animal welfare and judicial intervention in managing India’s stray dog population.
+
+**What triggered the case?**
+
+The SC stepped into the **stray dogs issue last July** after taking suo motu cognizance of a news report about a 6-year-old girl in New Delhi who died after a dog bite and suspected rabies infection. Calling the incidents and the rise of dog attacks and rabies deaths “disturbing”, the court said the stray dog issue had become a serious public safety concern.
+
+The case first came before a bench of Justices JB Paridwala and R Mahadevan, who in August 2025 directed civic authorities across Delhi-NCR to pick up stray dogs from public places and move them to shelters. It also said the dogs should not be released back onto the streets, observing that people should be able to move around freely without the fear of being attacked.
+
+The order immediately triggered protests from animal welfare groups and dog feeders who argued that the directions were contrary to the Animal Birth Control Rules 2023. The rules require stray dogs to be sterilised and vaccinated before being released back into the same area from where they were picked up.
+
+Applications were filed in the SC seeking to have this order recalled. The matter was eventually placed before a larger 3-judge bench led by Justice Vikram Nath. The court eventually softened the earlier directions and restored the existing sterilisation and release policy under the ABC rules while allowing authorities to keep rabid or aggressive dogs in shelters. It also barred the feeding of stray dogs in public spaces outside designated feeding zones.
+
+**Previous hearings**
+
+Resident groups and families of dog bite victims argued that authorities had failed to control rising attacks, especially near schools, hospitals, residential colonies, etc. They told the court that the issue could no longer be treated only as an animal welfare concern when children and elderly people were repeatedly being attacked.
+
+Animal welfare groups took the opposite view, arguing that mass removal of dogs was neither sustainable nor effective. As dogs are territorial animals, removing sterilised dogs from an area would only create space for unsterilised dogs to move in, which would eventually worsen the problem over time.
+
+Story continues below this ad
+
+Gradually, the hearings broadened into a review of how municipal bodies and states were implementing sterilisation, shelter and vaccination policies.
+
+In November 2025, the court passed another interim order directing states and the National Highway Authority of India to remove stray animals from highways and institutional premises such as schools and hospitals. It also directed the fencing of such premises.
+
+## **What do the ABC Rules say?**
+
+The Animal Birth Control Rules, 2023, issued under the Prevention of Cruelty to Animals Act, 1960, treat sterilisation and anti-rabies vaccination as the primary way to control stray dog populations. They also require dogs to be released back into the same locality after sterilisation, recognising that stray dogs are territorial by nature.
+
+The Rules do not permit indiscriminate killing or relocation of dogs. Euthanasia is allowed only in limited situations involving rabid, terminally ill or fatally injured animals.
+
+Story continues below this ad
+
+The case also raised constitutional concerns. Animal welfare groups relied on Article 51A(g), which asks citizens to show compassion towards living creatures. Petitioners representing residents and bite victims argued that unchecked stray dog populations affected citizens’ rights under Articles 19 and 21, including the right to move freely and live safely.
+
+---
+
+### Heavy rain causes waterlogging; disrupts normal life, commute in parts of Karnataka
+*SECTIONS Heavy rain causes waterlogging · business*
+
+Heavy rainfall in Karnataka's Bengaluru Rural and Chikkaballapur districts has severely disrupted normal life, leading to waterlogging on several roads and causing major traffic congestion and inconvenience to commuters.
+
+According to officials, rainwater accumulated on roads in areas including Doddaballapur, Devanahalli, Hoskote, Chintamand Bagepalli, slowing vehicular movement and affecting daily commutes.
+
+In several low-lying areas, water entered residential houses, causing hardship for residents and disrupting routine activities.
+
+  
+
+Meanwhile, speaking to ANI on Monday, IMD scientist Akhilesh Shrivastav warned of humid conditions in eastern and southern regions, saying, "In Odisha, hot and humid weather conditions are expected over the next 3-4 days. In coastal Andhra Pradesh, heatwave conditions may arise in the next 3-4 days."
+
+He informed that Kerala, Karnataka, and Tamil Nadu are expected to receive rainfall and added that Karnataka may also see hailstorm activity.
+
+"On rainfall patterns, Shrivastav added, "Northwest India will remain largely dry, which will lead to a rise in temperatures. However, Kerala, Karnataka, and Tamil Nadu are expected to receive rainfall. A heavy to very heavy rainfall warning has been issued for Kerala. Karnataka may also see hailstorm activity, while Northeast India is expected to receive heavy to very heavy rainfall."
+
+For Delhi-NCR, he said temperatures are already high and expected to rise further and informed that an 'orange alert' has been issued for Delhi for the next two days.
+
+"Maximum temperatures recorded yesterday were between 42-43 degrees Celsius. Our estimate is that over the next week, temperatures in Delhi could remain between 42-44 degrees Celsius. In the next 3 days, temperatures could even reach 45 degrees, and isolated heatwave conditions are also expected in Delhi. An 'orange alert' has been issued for Delhi for the next two days.
+
+Highlighting severity in certain regions, he added, "In Western Rajasthan and Western Uttar Pradesh, a 'warm night' warning has been issued, and due to this, an 'orange alert' has also been issued. In Madhya Pradesh and Vidarbha, severe heatwave conditions may prevail, for which an 'orange alert' has also been issued."
+
+---
+
+### Delhi Taxi, Auto Drivers 3-Day Threaten Strike, Demand Fare Revision Amid Fuel Price Surge
+*Aanchal Sinha · general*
+
+The unions warned that if the government failed to notify revised taxi fares within the next one or two weeks, the agitation would intensify.
+
+[Read full article](https://www.news18.com/india/delhi-taxi-auto-drivers-3-day-threaten-strike-demand-fare-revision-amid-fuel-price-surge-ws-l-10098922.html)
+
+---
+
+### Shillong Teer Results Today Live, May 19, 2026: Winning Numbers For All Teer Games
+*Nibandh Vinod · general*
+
+Shillong Teer Result Today: Here's full list of winning numbers for Shillong Teer, Juwai Teer, Khanapara Teer, and more for May 19, 2026.
+
+[Read full article](https://www.news18.com/india/shillong-teer-result-today-may-19-2026-first-and-second-round-lottery-result-check-winning-numbers-full-list-10097492.html)
+
+---
+
+### Teachers, Beautician, Medical Student And More: 10 People Arrested In NEET-UG Paper Leak Case
+*Shuddhanta Patra · general*
+
+Investigation has uncovered a network involving teachers, middlemen, students and coaching operators spread across Maharashtra, Haryana, Rajasthan. Who are these people arrested?
+
+[Read full article](https://www.news18.com/india/teachers-beautician-medical-student-and-more-10-people-arrested-in-neet-ug-paper-leak-case-ws-l-10098929.html)
+
+---
+
+### No decision for 3 years, anti-defection pleas against 2 MPs lapse, reveals RTI
+*Ashok Upadhyay · general*
+
+Disqualification petitions under the anti-defection law remained pending for nearly three years during the previous Lok Sabha and eventually lapsed without any final decision after the House was dissolved, an RTI response accessed by India Today has revealed.
+
+The reply from the Lok Sabha Secretariat showed that only one disqualification petition has been received in the ongoing 18th Lok Sabha so far. The plea, filed in March 2026 by JD(U) MP Dileshwar Kamait against MP Giridhari Yadav, is currently pending before Lok Sabha Speaker Om Birla.
+
+The RTI response also shed light on how anti-defection proceedings in the previous Lok Sabha remained unresolved for years before becoming infructuous upon dissolution of the House.
+
+According to the Secretariat, a disqualification petition against Trinamool Congress MP Sisir Kumar Adhikari was filed in May 2021 by TMC leader Sudip Bandyopadhyay. Sisir Kumar Adhikari is the father of BJP leader and current West Bengal Chief Minister Suvendu Adhikari.
+
+Another petition was filed in July 2021 against YSRCP MP K Raghu Rama Krishna Raju by YSRCP Chief Whip Margani Bharat.
+
+Both petitions were referred to the Committee of Privileges in January 2022 for preliminary inquiry. However, no report was submitted by the committee and no final decision was taken by the Speaker before the 17th Lok Sabha was dissolved on June 5, 2024.
+
+The Lok Sabha Secretariat clarified in its response that both petitions effectively lapsed after dissolution of the House.
+
+Explaining the legal position, the Secretariat cited established parliamentary practice and said dissolution “passes a sponge over the parliamentary slate”, meaning all pending business before the House and its committees automatically comes to an end.
+
+Quoting the parliamentary reference text Practice & Procedure of Parliament by MN Kaul and SL Shakdher, the Secretariat stated: “Once the House has been dissolved, the dissolution is irrevocable. The consequences of a dissolution are absolute and irrevocable. In Lok Sabha, which alone is subject to dissolution under the Constitution, dissolution ‘passes a sponge over the parliamentary slate’. All business pending before it or any of its committees lapses on dissolution.
+
+The RTI application had also sought details regarding the total number of disqualification petitions pending before the Speaker, the number of petitions disposed of in the current Lok Sabha, and the time taken to decide such pleas in the current and previous Lok Sabhas.
+
+However, the Lok Sabha Secretariat declined to disclose parts of the information, citing exemption under Section 8(1)(c) of the RTI Act, which pertains to matters involving parliamentary privilege.
+
+\- Ends
+
+May 19, 2026 09:26 IST
+
+---
+
+### In Twisha Sharma's Death Case, Two Key Questions Emerge: The Missing Belt And Shifting Of Body
+*Prisha Vibhavari · general*
+
+The absence of the belt, a crucial piece of evidence, prevented doctors from matching the suspected ligature material with the marks found on Twisha Sharma’s neck.
+
+[Read full article](https://www.news18.com/india/twisha-sharma-death-case-how-one-missing-belt-emerged-as-a-crucial-link-husband-dowry-harrasment-samarth-drugs-ws-l-10098902.html)
+
+---
+
+### India emerges as a global leader in workplace AI adoption: ADP Research
+*Sreeradha Basu · business*
+
+India leads globally in AI adoption, with 80% of employees using AI multiple times a week and 41% using AI daily, according to ADP Research’s latest People at Work 2026 report. This comes at time when artificial intelligence adoption at the workplace has risen significantly overall, with half of employees globally using AI multiple times a week, and one in five (20%) using it nearly every day.
+
+However, the findings also reveal a growing disconnect between AI adoption and perceived productivity. While 30% of daily AI users report being fully engaged, they are also four times more likely than non-users to say they feel less productive. This suggests that as AI takes over routine tasks, employees may feel their contributions are harder to quantify and evaluate.
+
+This shift is particularly pronounced in India, where widespread adoption means many employees are already navigating new expectations around output, value, and performance.
+
+  
+
+“India is among the leading adopters of AI at work, but high adoption alone does not guarantee greater productivity. Many employees carry a quiet anxiety about the future of their careers, and whether AI is making their contribution harder to measure,” said Rahul Goyal, managing director, ADP India and Southeast Asia in a statement.
+
+“As AI takes on more routine and checklist-driven tasks, employees are increasingly focusing on work that requires judgment, creativity, and human connection. This shift calls for a rethinking of how organisations define and measure productivity. Employers have a critical role to play in helping their workforce build confidence with AI, integrate it meaningfully into daily workflows, and develop the skills needed to thrive alongside it. Ultimately, the organisations that succeed will be those that invest in making their people more adaptable, not just more efficient,” he added.
+
+  
+
+## Frequent AI Users Report Higher Engagement and Lower Stress
+
+The use of AI can contribute to a more positive workplace experience. According to the report, 11% of daily AI users report experiencing negative stress, roughly half the rate of non-users (23%).
+
+Frequent AI users also report stronger team dynamics. They are more likely to say they are part of a work team and more likely to report being on the “best team” at work. Daily users are also more likely than less frequent users to feel their jobs are safe from elimination, indicating a strong link between regular AI use and job confidence.
+
+## AI Adoption Varies Across Regions
+
+AI usage varies widely across markets. India (41%), Nigeria (39%), and Vietnam (36%) lead globally in terms of daily AI usage.
+
+In India, the report highlights several key trends shaping AI use at work across demographics and work types:
+
+Employees in India are optimistic about AI, with 31% feeling that AI will positively impact their job responsibilities in the coming year, second highest after Nigeria.
+
+Knowledge workers feel the most certain about AI with 37% feeling that AI will positively impact their job responsibilities, notably higher than skilled task workers (21%) and repetitive task workers (19%).
+
+Employees aged 18-39 are the most frequent AI users, with 43% of them using AI almost daily.
+
+Women in India are using AI more frequently than men, with 44% using AI nearly every day at work compared to men at 40%.
+
+The share of employees using AI nearly every day increases with firm size, with 54% of employees in large companies (1000+) using AI daily, compared with 39% in mid-sized firms (249-999) and 32% in small firms (1-249).
+
+People at Work 2026 features survey findings derived from ADP Research's annual Global Workforce Survey of more than 39,000 working adults in 36 markets to uncover global workforce sentiment.
+
+---
+
+### Rupee slips 18 paise to 96.38 against US dollar; stock markets open slightly higher
+*Express Web Desk · legal*
+
+Rupee Record Low Against Dollar: The currency fell 0.2% to 95.55 against the US dollar, breaching its previous all-time low of 95.4325 recorded last week.
+
+The Indian rupee continued to extend its weakness on Tuesday, falling to 96.38 against the US dollar in early trade, amid persistently high oil prices.
+
+The slip is driven by weakness in other Asian currencies amid subdued risk appetite, while high US yields added to the pressure. On a seven-day losing streak, the rupee has shed 2.2% and hit new lows.
+
+However, the stock markets opened slightly higher than Monday’s close, with the Nifty 50 rising 0.11% to 23,675.3 and the BSE Sensex ​adding 0.17% ​to hit 75,441.27, at 9.15 am.
+
+The marginal recovery can be attributed to the revival of hopes of a de-escalation ⁠of ​the US-Iran war which has been going on for almost three months now.
+
+The US President Donald Trump on Monday signalled a possible nuclear deal with Iran.
+
+Meanwhile, in a **second increase in less than a week**, the prices of **petrol and diesel were hiked by 90 paise** per litre on Tuesday.
+
+Fuel prices remained the cheapest in Delhi, as it stands at Rs 98.64 per litre, up from Rs 97.77 per litre. Diesel now costs Rs 91.58 a litre against a previous price of Rs 90.67, reported PTI.
+
+---
+
+### Petrol, diesel price hike impact: HPCL, BPCL & IOC shares jump 2% each. What lies ahead for the OMCs?
+*Debaroti Adhikary · economy*
+
+Shares of oil marketing companies, including HPCL, BPCL, and IOC, gained 2% each on Tuesday after the government announced the second petrol and diesel price hikes in less than a week, increasing prices by around 90 paise per litre.
+
+The latest hike follows the government's increase in fuel prices by up to Rs 3 per litre on Friday. After the fresh hike, the petrol price in Delhi now stands at Rs 98.64 a litre, up from Rs 97.77 per litre in Delhi. Diesel now costs Rs 91.58 a litre against a previous price of Rs 90.67, as per a news report by PTI.
+
+Kolkata saw the sharpest increase in petrol prices among the four metros, with rates jumping 96 paise to Rs 109.70 per litre. Diesel prices in the city also rose by 94 paise, reaching Rs 96.07 per litre. In Mumbai, petrol prices were increased by 91 paise while in Chennai, petrol prices went up by 82 paise.
+
+The back-to-back price hike will likely provide some relief to the OMCs who have been facing mounting financial pressure as global crude prices remain elevated due to disruption caused by the ongoing conflict in West Asia, and the closure of the Strait of Hormuz, a narrow 33-kilometre waterway connecting the Persian Gulf with the Gulf of Oman that handles over 20% of the world’s daily oil and gas shipments.
+
+After crossing the crucial $100 per barrel mark in March, oil prices have mostly sustained above the level this year so far. On Tuesday morning, Brent crude was trading above $110 per barrel while WTI Crude was hovering near $108 per barrel.
+
+  
+
+## Are the latest fuel price hikes enough?  
+
+Nomura in a report released after the previous price hike had pointed out that a mere Rs 3 increase is significantly lower than the current under recoveries on a blended basis. The analysts had however noted that it could be the first in a series of fuel price increases, similar to what was seen during the Russia-Ukraine war in 2022.
+
+“In the current situation, fuel price hikes were delayed for more than two months due to elections, with the government now opting for a one-time INR3/litre increase. If crude prices stay high, this could be the start of further gradual hikes to support OMC margins,” Nomura said, adding that the OMCs are trading at a premium to the valuations seen during the early period of the Russia-Ukraine war.
+
+## Which OMC is better placed now?  
+
+Given the strong diesel and ATF cracks, and least exposure to fuel marketing (as a proportion of refining throughput), Nomura believes that IOC will likely be best placed in the current situation. "We believe that high oil prices are here to stay at least in the medium term, and the government may not be able to pass on increased costs to end users to avoid the fallout from higher inflation. Also, the Rs 10/litre excise duty cuts taken in March may eventually need to be reversed once oil prices start moderating, implying marketing margins may not return to pre-war levels any time soon," it highlighted.
+
+Nomura believes the upcoming refining capacities of IOC may help the company outperform other OMC peers given the strong refining margins outlook and surplus petrol/diesel output from its own refineries, compared to its marketing volumes.
+
+The international brokerage has ‘Buy’ calls on the shares of IOC and BPCL, but a ‘Neutral’ call on HPCL. At the current run rate of integrated losses, Nomura expects HPCL to be the most impacted because of the higher losses it is currently making due to its leveraged marketing exposure. “We estimate ILC, BPCL and HPCL to completely run down their balance sheet equity over the next 10,4 and 2 years, respectively, if current run rate of losses sustain,” it added.
+
+_(**Disclaimer**: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)_
+
+---
+
+### GCCs: India’s golden egg
+*Sujit John · opinion, regional*
+
+In the current economic dullness, there’s a remarkably vibrant sector that Delhi policy wonks often miss because its best manifestations are in Bengaluru, Hyderabad, and Pune, and because our export categorisation masks it. It’s global capability centres (GCCs), the tech and operations centres of MNCs, of which there are some 2,400 in India today employing over 3.5mn people. And every week, one or more is being established in India.
+
+_**Read full story on TOI+**_
+
+Facebook Twitter Linkedin Email
+
+###### Disclaimer
+
+Views expressed above are the author's own.
+
+###### END OF ARTICLE
+
+---
+
+### Manipur CM Yumnam Khemchand Singh backs church-led peace bid amid hostage crisis tensions
+*Bikash Singh · business*
+
+Guwahati: Manipur Chief Minister Yumnam Khemchand Singh lauded the role being played by church leaders in trying to defuse the present crisis arising from the hostage situation following the killing of three church leaders on May 13 at Zero Point between Kotlen and Kotzim in Kangpokpi district.
+
+A 10-member team of church leaders representing the Council for Baptist Churches in Northeast India and the Manipur Baptist Convention called on the chief minister to discuss the tense situation between the two tribal communities. The meeting was also attended by Manipur Deputy Chief Minister Losii Dikho.
+
+The church leaders volunteered to broker peace between the two communities. Singh said he was touched by the church leaders meeting him and offering their help to restore peace. The state government lauded their efforts and encouraged them to engage with both sides.
+
+  
+
+The church leaders will further split into two teams to work towards peace. One team will travel to Kangpokpi district, while the other will visit Senapati district. The church leaders strongly feel that hostages on both sides should be released immediately on humanitarian grounds.
+
+The team travelling to Kangpokpi will meet the family members of the three deceased church leaders to offer condolences. The state government has assured ex gratia support for the three families. The team will then speak to Kuki church leaders in Kangpokpi in an effort to restore peace.
+
+The team planning to visit Senapati district will meet Naga church leaders and members of Naga civil society organisations to discuss the prevailing tension and hostage crisis.
+
+---
+
+### Google, Blackstone to launch AI cloud venture to meet data centre demand
+*Reuters · legal*
+
+Blackstone backs Google’s growing AI ambitions with massive cloud infrastructure deal (Source: Pexels)
+
+Alphabet’s Google and Blackstone said on Mondaythat they will form an artificial intelligence cloud business venture aimed at capitalising on an insatiable demand for AI computing services.
+
+Blackstone, the world’s ⁠largest ​alternative asset manager, will invest an initial $5 billion in equity to help bring 500 megawatts of data centre capacity online in 2027, with further expansion planned over time.
+
+The U.S.-based venture will provide data centre capacity along ​with ​Google’s custom AI chips, known as ⁠Tensor Processing Units, or TPUs, through a compute-as-a-service model.
+
+The total investment value could reach $25 billion, including leverage, according to ‌Bloomberg News.
+
+Both companies did not immediately respond to a request for comments on the Bloomberg report.
+
+Blackstone has appointed Benjamin Sloss, a long-time Google executive, as CEO of the new venture.
+
+Thomas Kurian, chief executive of Google Cloud, said the venture would help address growing demand for TPUs by offering organisations additional ways ⁠to access computing ⁠capacity.
+
+Story continues below this ad
+
+Analysts and investors have said Google is taking a sizeable share of new AI-driven computing demand, ⁠supported by ‌its business tools and custom chips that have ​attracted customers such as Anthropic.
+
+“This isn’t the biggest ‌headline number we’ve seen. But it’s a high-quality bet on sustainable growth in AI infrastructure,” said Brittain Ladd, AI ‌and supply chain consultant ​at Florida-based ​Chang Robotics.
+
+## Blackstone ramps up AI investments
+
+Blackstone has stepped up investments in AI-
+
+Those investments are valuable as the AI ⁠boom pushes operators to secure long-term energy supply deals.
+
+Story continues below this ad
+
+The new partnership reflects rising demand for AI infrastructure and the need for large-scale ‌capital deployment, Blackstone ⁠President Jon Gray said.
+
+Spending by Big Tech firms on AI infrastructure, including data centres, is expected to ​top $700 billion in 2026.
+
+---
+
+### Afcons Infrastructure shares crash 9% after Rs 89 crore net loss in Q4, guidance miss
+*Veer Sharma · economy*
+
+Shares of Afcons Infrastructure tumbled as much as 9% to their day's low of Rs 289 on the BSE on Tuesday after it reported a net loss of Rs 89 crore in the fourth quarter of FY26 against a profit after tax of Rs 111 crore in the same period last year. The company said net profit was impacted by macroeconomic uncertainties and certain one-time factors.
+
+The company’s revenue from operations also dipped by 18% to Rs 2,777 crore from Rs 3,387 crore posted in the corresponding quarter of the previous fiscal year, Afcons said in its investor presentation.
+
+EBITDA came in at Rs 170 crore, marking a 59% drop from Rs 415 crore posted in the year-ago period. Margins also witnessed a sharp fall, down 6.1% from 12.2% in Q4FY25. For the full year, the company’s order book stood at Rs 32,496 crore, ‘ensuring visibility on its future revenue and profitability’, it said.
+
+## Afcons infra guidance miss  
+
+Afcons Infrastructure also fell short of its revised guidance for the full year. At the start of the year, the company had projected topline growth of 20% to 25%. This guidance was later reduced to 10% in the second quarter and further lowered to 5% in the third quarter. However, the company eventually reported a 5% decline for the full year.
+
+Afcons Infra had estimated FY26 order inflows at Rs 20,000 crore, but the final figure came in at Rs 4,125 crore.
+
+The company had guided for margins of over 11%, including other income. Its margin for the year stood at 11.7%.
+
+The management said “FY26 was a challenging year for Afcons, particularly due to slower ordering activity in several segments, delays in project conversion and continued geopolitical and macroeconomic uncertainties. Despite these headwinds, our order book remained healthy at Rs 32,496 crore as of March 2026, providing good visibility on future revenues and profitability. Order inflow during the year stood at Rs 4,125 crore.”
+
+Despite operating in a challenging environment, Afcons Infrastructure continued to achieve key execution milestones during the year, including the commissioning of the HRRL Crude Oil Terminal at Mundra, the opening of a crucial stretch of the Central Silk Board double-decker corridor in Bengaluru, and successful trial runs on the Agra and Kanpur Metro projects.
+
+The company said these milestones demonstrate its strong execution capabilities and sustained focus on delivering complex infrastructure projects. Afcons added that it remains committed to disciplined project selection and execution, operational excellence, and long-term value creation for stakeholders.
+
+(**Disclaimer**: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)
+
+---
+
+### Who is Ankush Bahuguna and why did he face homophobic abuse on London streets? Here's everything you need to know
+*Trending Desk · business*
+
+Ankush Bahuguna, beauty influencer and content creator, shared a video of himself dressed in a pink suit as a group of men hooted at him and hurled homophobic abuse on the streets of London. In his video, Ankush said people made fun of his appearance and made comments like "Welcome to the Parade".
+
+  
+
+Ankush Bahugana and cisgender have been among the most searched Google keywords in the past few hours after the video went viral online. Ankush Bahuguna is widely known for his work in fashion, makeup, and breaking gender stereotypes, and is dominating the headlines after he shared he had an uncomfortable experience while walking in London.
+
+**
+
+## Who is Ankush Bahuguna?
+
+Born and brought up in East Delhi’s Mayur Vihar, Ankush Bahuguna has worked his way to become one of the biggest names in the Indian beauty and comedy content creation spaces with over a million followers on social media. According to reports, Ankush Bahuguna completed his schooling from Ahlcon Public School in New Delhi and pursued graduation in architecture from Sushant School of Art and Architecture and also trained as one.
+
+**
+
+From battling self-doubt during his childhood to navigating uncertainty in his early career, Ankush Bahuguna’s journey has been nothing short of inspiring. While pursuing architecture, he gradually discovered comfort in expressing himself through writing, and within a year, realised his true passion lay in content creation. Reflecting on the turning point in his life, Ankush shared that walking away from a professional degree and a secure job demanded immense courage and self-belief.
+
+  
+
+## From an actor's dream to content creation
+
+He shifted to Mumbai a few years back and trained as an actor and spent a lot of time auditioning as acting was always his Plan A, he told Elle. He began experimenting with comedy content on Instagram around 2017, before steadily building a voice and audience through 2018.
+
+"Acting was always Plan A and I'm finally at a place in life where I can give this dream my all. Along the way, I also realised how grateful I am to the audience I've built, and I'd never let that go. This is something I've built on my own, by my own rules. I'm hoping to become a mainstream actor but am also very happy and proud to be a creator," he was quoted as saying.
+
+  
+
+## Ankush Bahuguna’s rise in the makeup and K-Beauty space
+
+The pandemic was a turning point in his career. Around 2020, Ankush Bahuguna began taking beauty content more seriously and turned to makeup and self-expression through beauty content. As his popularity grew, major beauty brands also began taking notice and today, he collaborates with several leading international and Indian beauty labels, including Estée Lauder, Clinique, Dr. Jart+, The Ordinary and d'Alba, while also maintaining partnerships with Sephora and Rare Beauty.
+
+His growing association with K-beauty also reflects the rising influence of Korean skincare and beauty trends among Indian audiences. One of the biggest moments in his journey came in 2025, when he attended a Rare Beauty launch event and met Selena Gomez — an experience he described as surreal. In February this year, he attended Estée Lauder’s global product launch in Los Angeles, becoming the only creator from India invited to represent the country.
+
+## Ankush Bahuguna on cisgender privilege
+
+"I never started any of this to be the torchbearer of breaking gender norms and I'm aware of my cisgender privilege. I know that the thing I get so much support for, a lot of queer, trans, non-binary folks get abused and harassed for–and I wish that changes. Everybody, regardless of their gender or identity, should be accepted for the way they dress and express," he once told Elle magazine.
+
+## What happened to him in London?
+
+Ankush Bahuguna spoke about an experience he had in London through a video. Ankush Bahuguna shared a video showing men making homophobic remarks at him in London while he wore an all-pink outfit. Speaking about the incident, Ankush expressed his disappointment and shock. He said, “It’s 2026 for f\*\*\*’s sake, and this is what happens on the street if you just wear pink.” “You think this is London; it would be more progressive, more open-minded… clearly not," he added.
+
+In his video, Ankush also spoke about a wider issue linked to such behaviour. He said, “If a guy just minding his own business… is making you feel uncomfortable, it’s not his masculinity that’s weak.”
+
+
+---
+
 ## 18 May 2026
 
 ### PM Modi visits Dutch water management project Afsluitdijk as India, Netherlands sign Kalpasar pact
