@@ -1,3 +1,911 @@
+## 20 May 2026
+
+### Andrej Karpathy, OpenAI co-founder and creator of vibe coding, joins Anthropic
+*Armaan Agarwal · general*
+
+## Andrej Karpathy, who was a co-founder of OpenAI, has joined Anthropic. He announced his move on X, claiming that he would be working in research and development for the AI firm. Karpathy is known as one of the best AI researchers in the world, making it a big coup for Anthropic.
+
+Andrej Karpathy has joined Anthropic. (Representational image made with AI)
+
+Anthropic has just bagged arguably one of the biggest coups in AI talent wars. Andrej Karpathy, who co-founded OpenAI, has joined the Dario Amodei-led startup. Karpathy is widely regarded as one of the best AI researchers in the world, and was behind the term “vibe coding” that has become widely used today.
+
+Karpathy announced the move on X. He wrote, “Personal update: I’ve joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative.” He claimed that he will be working on research and development for Anthropic.
+
+Andrej Karpathy announced his move to Anthropic on X.
+
+### Who is Andrej Karpathy?
+
+Andrej Karpathy co-founded OpenAI a decade ago before moving to Elon Musk-led Tesla in 2017. At Tesla, Andrej led the automaker’s director of AI team for just over 5 years.
+
+In 2025, Karpathy coined the term vibe coding – the use of AI to write code. Since then, vibe coding has become a widely accepted term that is used by many when they use coding agents to work.
+
+After leaving Tesla in 2022, he briefly returned to OpenAI before later starting Eureka Labs, an AI-focused education company. Andrej also holds a PhD in computer science from Stanford. In recent years, Karpathy has become a prominent public educator building a large audience on YouTube and X through technical explainers and posts about AI.
+
+Recently he claimed that he had been in a “state of AI psychosis” since December last year, embracing “tokenmaxxing” and aggressively stress-testing frontier models.
+
+### Andrej Karpathy to start a new Claude team at Anthropic
+
+Anthropic’s Nicholas Joseph reposted Andrej’s post on X. Nicholas leads Claude’s pretraining team – the team responsible for the large-scale training work that gives Claude its core knowledge and capabilities.
+
+He wrote that Andrej will be working in the pretraining division, but will build a new team that will focus on using Claude itself to speed up pretraining research. This will essentially allow Anthropic to automate this key part of AI development. Anthropic has previously stated that Claude writes 90 per cent of the company’s code.
+
+Nicholas wrote, “Excited to welcome Andrej to the Pretraining team! He’ll be building a team focused on using Claude to accelerate pretraining research itself. I can’t think of anyone better suited to do it — looking forward to what we build together!”
+
+Anthropic's Nicholas Joseph revealed the work Andrej Karpathy will do at the AI startup.
+
+Anthropic’s hiring of Karpathy is another notable addition as competition for senior AI talent intensifies. Earlier this month, Ross Nordeen, a founding member of xAI and former Tesla employee, said he was joining Anthropic. The same day, Anthropic announced a deal with Elon Musk’s SpaceX to rent compute capacity at xAI’s Colossus 1 supercomputer.
+
+Karpathy’s work at OpenAI and Tesla also surfaced during Musk’s recent trial against OpenAI, which the tech billionaire ultimately lost. In one email shown in court, Elon Musk described Karpathy as “arguably the #2 guy in the world in computer vision.” In another message about hiring him, Musk wrote, “The OpenAI guys are gonna want to kill me, but it had to be done.”
+
+\- Ends
+
+May 20, 2026 10:00 IST
+
+---
+
+### Sensex declines over 600 pts, Nifty below 23,450; Key triggers behind market fall explained
+*Varsha Agarwal · general*
+
+Overall, out of the 30 stocks listed, only 8 were trading higher while 22 declined, keeping broader market sentiment cautious at open. Why market fall today? know what the key triggers are.
+
+The Indian stock market opened in red on Wednesday, with the benchmark BSE Sensex down 314.76 points or 0.42% at 74,886.09 at 9:35 am. The index opened at 74,806.49 against the previous close of 75,200.85, and touched an intraday high of 74,906.11 and a low of 74,529.41 so far. The NSE Nifty was trading 95.30 points or 0.40% lower at 23,522.70. It opened at 23,457.25 versus Tuesday's close of 23,618.00, hitting a high of 23,524.90 and a low of 23,397.30 in early trade.
+
+"With Gift Nifty trading at 23,431, down by 133 points. Global equities remained muted following weak cues from the US markets, as investors turned cautious amid rising bond yields and persistent geopolitical uncertainties," says Aakash Shah,Technical Research Analyst, at Choice Broking. " As long as the Nifty remains below the crucial resistance zone of 23,800, consolidation with a negative bias is likely to continue. A decisive close above 23,800 may improve sentiment and open the possibility of an upmove toward 24,000, followed by 24,250. On the downside, the 23,300 level remains an important immediate support zone, below which weakness may intensify further," opines Shah. 
+
+## **Sensex, Nifty fall: What are the key triggers? Know top gainers, top losers**
+
+BSE stocks traded mixed in early hours, with IT majors leading gains while PSU and metal names dragged. Infosys, TCS and L&T topped the gainers, up 0.61%, 0.53% and 0.51% respectively, followed by Tech Mahindra, Reliance, HCLTech, IndiGo and Sun Pharma in green. On the flip side, BEL and Tata Steel were the worst hit, sliding 2.66% and 2.46%. PSU banks and metals also saw pressure, with SBI down 1.21%, NTPC 0.66% lower, and PowerGrid off 0.85%. Among heavyweights, HDFC Bank, ICICI Bank, Kotak Bank and Axis Bank all traded in the red, along with HUL, UltraTech, M&M and Maruti. Overall, out of the 30 stocks listed, only 8 were trading higher while 22 declined, keeping broader market sentiment cautious at open.
+
+"The global stock market is falling primarily due to intensifying geopolitical tensions from the US-Iran conflict, which has fueled a 20% monthly surge in Brent crude oil prices over $111 a barrel and sparked severe inflation fears. This energy shock has triggered a deep global bond market selloff, pushing the 10-year US Treasury yield to its highest level since January 2025 (4.67%) and 30-year yields to a multi-year high of 5.18%, which directly pressures equity valuations and halts the previous technology-led rally," explains Abhishek Bhilwaria, AMFI-registered MFD.  
+
+"For emerging markets like India, these macro shocks have driven a massive Foreign Institutional Investor (FII) outflow and pushed the Indian rupee to a record low past 96 per US dollar, further exacerbating localised corporate valuation anxieties," adds Bhilwaria. 
+
+**What investors should note:**  Bhilwaria advises, "Market participants should expect continued near-term volatility and are advised to monitor the sustainability of critical technical support levels, track the potential extension of the Middle East conflict, and shift focus toward resilient, cash-rich defensive sectors while avoiding highly leveraged or purely speculative positions."
+
+## **Global market**
+
+Global Markets opened mixed in early trade, with Asian indices dragged as US Futures dip. Dow Jones Futures slipped 0.10% to 49,312.90, while tech-heavy Nasdaq futures fell 0.87% to 25,862.77 and S&P 500 futures dropped 0.67% to 7,353.61. Asia traded broadly lower, with the GIFT Nifty signalling a weak start, down 0.31% at 23,491.50. Japan’s Nikkei 225 tumbled 1.27% to 59,783.00, and South Korea’s KOSPI shed 1.39% to 7,172.23.  
+In commodities, Oil and gold both cooled. Brent Crude slipped 0.84% to $110.34/bbl, and WTI Crude fell 0.63% to $103.49/bbl. Gold CFD lost 0.47% to $4,467.56. In currencies, the Dollar Index was flat at 99.30, down 0.02%. USD/INR rose 0.31% to 96.8325. 
+
+"Bitcoin is trading in a narrow range around the $77,000 level as investors remain cautious amid broader macro uncertainty. Moody’s downgrade of the U.S. credit rating from Aaa to Aa1 pushed the 30-year Treasury yield to its highest level since July 2007, reducing appetite for risk assets like Bitcoin. Adding to the pressure, Bitcoin ETFs recorded single-day outflows of $648 million. Markets are now looking for a fresh catalyst to regain momentum, with today’s FOMC minutes likely to play a key role. A dovish tone from the Fed could improve sentiment. For now, $77,500 remains immediate resistance, while support stands near $76,200," says Akshat Siddhant, Lead quant analyst, Mudrex.
+
+---
+
+### The big Modi-Trump meeting may happen as early as next month
+*India Today News Desk · general*
+
+## Prime Minister Narendra Modi and Donald Trump may come face-to-face at the G7 Summit in France next month. Any pull-aside meeting could be watched closely amid India-US trade tensions.
+
+PM Narendra Modi and Donald Trump
+
+Few meetings between world leaders evoke as much buzz and interest as those between Prime Minister Narendra Modi and Donald Trump. Ever since their momentous meeting at the White House in February last year, the two leaders have somehow not managed to cross paths at major global summits. However, the two "great friends" may eventually come face-to-face at the G7 Summit in France next month.
+
+A pull-aside meeting cannot be ruled out -- especially given the unpredictable style of Trump. But will it smooth out the trade bump between India and the US? We have to wait for June to find out. While India is not a permanent member of the G7, it regularly participates in the annual summits as a special invitee. This year, French President Emmanuel Macron invited PM Modi to the June 15-17 G7 Summit in Evian-les-Bains.
+
+The duo last met in February 2025 when PM Modi became one of the first world leaders to visit the White House following Trump's return to office. At the high-profile meeting, which came against the backdrop of tariff tensions, Trump called PM Modi a "great friend", and the two pledged to double US-India trade to $500 billion by 2030.
+
+\- Ends
+
+Abhishek De
+
+May 20, 2026 09:53 IST
+
+---
+
+### Sensex, Nifty down: Why is stock market falling today?
+*Sonu Vivek · general*
+
+Stock markets opened lower on Wednesday as investors remained worried about rising crude oil prices, the falling rupee, foreign investor selling and growing tensions in West Asia.
+
+The BSE Sensex fell 389.19 points, or 0.52%, to 74,811.66 in early trade, while the NSE Nifty50 dropped 107.90 points, or 0.46%, to 23,510.10 as of 9:39 am.
+
+The market weakness came despite some support from IT stocks, with broader sentiment remaining cautious due to global uncertainty and pressure on India’s economy.
+
+### RUPEE HITTING RECORD LOW BECAME THE BIGGEST TRIGGER
+
+One of the biggest reasons behind today’s fall was the sharp decline in the rupee.
+
+The rupee fell to a fresh lifetime low of 96.8650 against the US dollar on Wednesday, crossing its earlier record low of 96.6150 touched in the previous session.
+
+The currency has now weakened around 6% since the Iran conflict began in late February.
+
+The falling rupee is worrying investors because it increases India’s import costs, especially crude oil imports, and raises inflation risks for the economy.
+
+A weaker rupee also makes foreign investors nervous, often leading to further selling in equity markets.
+
+### OIL PRICES REMAIN ABOVE USD 110
+
+Another major pressure point for markets remains crude oil prices.
+
+Brent crude was trading around USD 110.70 per barrel, while WTI crude stood near USD 107.77 per barrel on Wednesday morning.
+
+Although oil prices eased slightly during the session, they continue to remain at elevated levels because of concerns around the US-Iran conflict and possible disruptions in global energy supplies.
+
+Investors are closely tracking developments after US President Donald Trump renewed threats to strike Iran again.
+
+The prolonged conflict has pushed global energy prices sharply higher over the past few months, creating worries around inflation and economic growth worldwide.
+
+For India, which imports nearly 85% of its crude oil needs, high oil prices directly affect inflation, the trade deficit and the rupee.
+
+### FOREIGN INVESTORS CONTINUE TO PULL MONEY OUT
+
+Foreign institutional investor selling has also remained a key reason behind market weakness.
+
+Overseas investors have pulled out more than USD 22 billion from Indian stocks and bonds since the Iran war began, according to available data.
+
+Analysts say rising US bond yields, expensive crude oil and concerns around India’s economic outlook have made foreign investors cautious about emerging markets like India.
+
+Persistent foreign selling has also added pressure on the rupee and increased volatility in equity markets.
+
+### GLOBAL MARKETS ALSO WEAK
+
+Asian markets also traded lower on Wednesday as investors globally reacted to rising US bond yields and geopolitical uncertainty.
+
+Higher US Treasury yields have reduced risk appetite globally, as investors move money towards safer dollar assets offering better returns.
+
+This has hurt emerging market equities, including India.
+
+### WHICH SECTORS FELL THE MOST?
+
+Most sectoral indices were trading in the red during early trade.
+
+Nifty PSU Bank fell 1.14%, while Nifty Realty dropped 1.32%. Nifty Media declined 1.89% and Nifty Auto slipped 0.86%.
+
+Banking, consumer and metal stocks also remained under pressure.
+
+However, some defensive sectors showed resilience. Nifty Pharma rose 0.55%, while Nifty Healthcare gained 0.33%.
+
+IT stocks also managed to stay slightly positive, with Nifty IT rising 0.31%.
+
+### STOCKS THAT DRAGGED THE MARKET
+
+Among Sensex and Nifty stocks, Tata Steel was among the biggest losers, falling 2.51%.
+
+Other major losers included BEL, down 1.69%, Maruti, down 1.33%, SBI, down 1.11%, M&M, down 1.41%, Eternal, down 1.11%.
+
+Banking stocks also remained weak, with Kotak Mahindra Bank, ICICI Bank and HDFC Bank trading lower.
+
+On the positive side, Infosys, TCS, Reliance Industries and Tech Mahindra offered some support to the market.
+
+### INDIA VIX SHOWS INVESTOR FEAR
+
+India VIX, often called the market fear gauge, rose 3.22% to 19.28.
+
+A rising VIX usually indicates growing nervousness among traders and expectations of higher market volatility in the coming sessions.
+
+Analysts say investors are likely to remain cautious until there is more clarity around:
+
+-   the Iran conflict,
+-   crude oil prices,
+-   rupee movement,
+-   and foreign investor flows.
+
+### WHY MARKETS MAY REMAIN VOLATILE
+
+Markets are currently dealing with multiple global and domestic pressures at the same time.
+
+High crude oil prices are increasing inflation risks, the rupee is falling to fresh lows, and foreign investors continue to pull money out of Indian markets.
+
+At the same time, rising US bond yields and geopolitical uncertainty are keeping global sentiment weak.
+
+Unless crude oil prices cool sharply or tensions in West Asia ease meaningfully, analysts believe Indian markets may continue to remain volatile in the near term.
+
+_**(Disclaimer: The views, opinions, recommendations, and suggestions expressed by experts/brokerages in this article are their own and do not reflect the views of the India Today Group. It is advisable to consult a qualified broker or financial advisor before making any actual investment or trading choices.)**_
+
+\- Ends
+
+May 20, 2026 09:49 IST
+
+---
+
+### Rupee Slides 33 Paise To Hit All-Time Low Of 96.89 Versus Dollar
+*Varun Yadav · business*
+
+Indian rupee hits fresh record low at 96.89 against the US dollar, falling 33 paise in early Wednesday trade and extending its recent losing streak
+
+[Read full article](https://www.news18.com/business/economy/rupee-slides-33-paise-to-hit-all-time-low-of-96-89-versus-dollar-ws-l-10100997.html)
+
+---
+
+### 'Ye personal matter hai': Vaibhav Suryavanshi shares what his signature 'A' sign means. Watch
+*Trending Desk · business*
+
+Fifteen-year-old Vaibhav Suryavanshi may be making headlines for his fearless batting in the IPL, but it is a simple gesture off the field that has now captured the internet’s attention. The young Rajasthan Royals batter recently opened up about the meaning behind his now-viral signature “A” hand sign — and his response left fans smiling.
+
+In a candid interaction shared by Rajasthan Royals on social media, Vaibhav was asked what the “A” symbol he often flashes after reaching milestones actually stands for. With a shy smile, the teenager replied, “Ye personal matter hai,” before laughing and trying to dodge further questions. The moment instantly went viral, with fans flooding comment sections with praise for the youngster’s innocence and humility.
+
+  
+
+## Mystery around the ‘A’ gesture sparks curiosity online
+
+The Royals later hinted that the letter is connected to someone very close to him, adding another emotional layer to the growing fan fascination around the Bihar cricketer. While Vaibhav chose not to reveal more details publicly, the exchange triggered widespread curiosity online, with many users speculating that the gesture could be linked to a family member or someone special in his life.
+
+  
+
+For many viewers, however, the highlight was not the mystery itself but the way the teenager handled the moment. In an age where young sports stars are often polished in front of cameras, Vaibhav’s awkward smile and grounded response felt refreshingly natural. Several social media users called him “innocent,” “respectful,” and “a true small-town boy at heart.”
+
+## From Bihar’s Samastipur to IPL spotlight  
+
+Hailing from Bihar’s Samastipur district, Vaibhav’s rise has already become one of the standout stories of the IPL season. Coming from a modest background, the teenager has rapidly climbed through the ranks with fearless batting and remarkable composure against experienced bowlers.
+
+Despite the growing fame and constant spotlight, he continues to come across as a soft-spoken youngster deeply connected to his roots. His calm personality and humble nature have helped him win admiration beyond just cricket fans.
+
+  
+
+## More than just runs: Vaibhav continues to win hearts
+
+The viral clip has once again shown that fans are embracing not only Vaibhav’s performances on the field but also his personality beyond the boundary ropes. From smashing sixes to sharing shy interview moments, the Rajasthan Royals youngster is quickly becoming one of the most loved teenage faces in Indian cricket.
+
+---
+
+### 4 Republicans vote against Trump to advance resolution curbing Iran war powers
+*Reuters · general*
+
+The US Senate advanced a war-powers resolution on Tuesday that would end the Iran war unless President Donald Trump obtains Congress' authorisation, a rare rebuke of the Republican leader 80 days after US and Israeli forces began striking Iran.
+
+The vote on a procedural measure to advance the resolution was 50 to 47, as four of Trump's fellow Republicans voted with every Democrat but one in favour. Three Republicans missed the vote.
+
+The result was a victory for lawmakers who had been arguing that Congress, not the president, should have the power to send troops to war, as spelt out in the Constitution. However, it was only a procedural vote, and the resolution faces steep hurdles before going into effect.
+
+Even if it eventually passes the 100-member Senate, the resolution must also pass the Republican-led House of Representatives and garner two-thirds majorities in both the House and Senate to survive an expected Trump veto.
+
+Democratic Senator Tim Kaine of Virginia, who sponsored the resolution, said a ceasefire offered Trump an ideal opportunity to make his case to Congress as the president has said Tehran has made a new proposal to end the US-Israeli war that began on February 28.
+
+"That's the perfect time to have a discussion before we start up war again. The president is receiving peace and diplomatic proposals that he is throwing into the trash can without sharing them with us," Kaine said during debate before the vote.
+
+Trump's Republicans blocked seven previous attempts to advance similar resolutions in the Senate this year. They have also stopped three war-powers resolutions by narrow votes in the House this year.
+
+### MULTIPLE VOTES
+
+Senator John Fetterman of Pennsylvania was the only Democrat to vote against the measure. Republicans Rand Paul of Kentucky, Susan Collins of Maine and Lisa Murkowski of Alaska voted in favour, as did Senator Bill Cassidy of Louisiana, days after he lost his primary to an opponent backed by Trump.
+
+The war-powers vote was the second in the Senate since the conflict hit a deadline on May 1, 60 days after Trump formally informed Congress that the conflict had started, for Trump to come to Congress about the war.
+
+Under a 1973 US war-powers law passed in response to the Vietnam War, a US president can wage military action for only 60 days before ending it, asking Congress for authorisation or seeking a 30-day extension due to "unavoidable military necessity regarding the safety of the United States Armed Forces" while withdrawing forces.
+
+Trump declared on May 1 that a ceasefire had "terminated" hostilities against Iran.
+
+Despite that assertion, the US has been blockading Iranian ports and striking Iranian ships, and Iran has been effectively blocking the Strait of Hormuz and attacking US ships.
+
+Democrats, and a few Republicans, have called on Trump to come to Congress for authorisation to use military force, noting that the US Constitution says that Congress, not the president, can declare war. They have expressed concerns that Trump may have entered the country into a long conflict without setting out a clear strategy.
+
+Republicans, and the White House, say Trump's actions are legal and within his rights as commander in chief to protect the US by ordering limited military operations.
+
+Some congressional Republicans have accused Democrats of filing the war-powers resolutions only because of their partisan opposition to Trump.
+
+\- Ends
+
+May 20, 2026 09:45 IST
+
+---
+
+### tnresults.nic.in Tamil Nadu SSLC Results OUT at dge.tn.gov.in: Check steps to download and other details
+*Trending Desk · business*
+
+The wait is over! Students of Class 10 in Tamil Nadu can check their Board results at tnresults.nic.in and dge.tn.gov.in, DigiLocker and UMANG. The Directorate of Government Examinations, Tamil Nadu (TNDGE) has announced Tamil Nadu Class 10 board examination results today at 9.30 am. Candidates need to enter their hall ticket number and date of birth to download the provisional scorecard.
+
+**
+
+## TN SSLC Results 2026 How to check
+
+You can check TN SSLC Class 10 results using these steps:
+
+Visit the official website - tnresults.nic.in.
+
+Then, Click on the "TN SSLC Result 2026" link available on the homepage.
+
+Enter your registration number and date of birth.
+
+Submit the details to access the result.
+
+Download and keep a copy of the provisional marksheet for future reference.
+
+To qualify the TN SSLC Class 10 examinations 2026, students are required to secure at least 35 per cent marks overall and in each compulsory subject.
+
+**
+
+## How to check Tamil Nadu Class 10 results on DigiLocker?
+
+Students can alternatively use DigiLocker by signing in with a registered mobile number or Aadhaar-linked account. Candidates may also use the UMANG application for accessing digital scorecards.
+
+Step 1: Visit the official website digilocker.gov.in.
+
+Step 2: Sign in using a registered mobile number or Aadhaar-linked account.
+
+Step 3: Search for "Tamil Nadu Class 10 Result 2026".
+
+Step 4: Enter the required credentials such as roll number.
+
+Step 5: Download and save the digital marksheet.
+
+Students who do not already have a DigiLocker account can register by verifying their mobile number through OTP and creating login credentials.
+
+---
+
+### Who is Mahmoud Ahmadinejad? NYT Report claims ex-Iran President was considered for post-Khamenei leadership by US, Israel
+*Vanshika Tyagi · general*
+
+## Who is Mahmoud Ahmadinejad? NYT Report claims ex-Iran President was considered for post-Khamenei leadership by US, Israel
+
+US officials have revealed that an early objective of the war with Iran involved an ambitious regime-change strategy centred on reinstating former Iranian
+
+US officials have revealed that an early objective of the war with Iran involved an ambitious regime-change strategy centred on reinstating former Iranian President Mahmoud Ahmadinejad as the country's leader, according to The New York Times report.
+
+The news report stated that after strikes killed Iran's Supreme Leader Ali Khamenei, US President Donald Trump publicly suggested that it would be preferable if "someone from within" Iran assumed power
+
+## **Who is Mahmoud Ahmadinejad?**
+
+Mahmoud Ahmadinejad is an Iranian politician who served as the sixth President of Iran from 2005 to 2013. Before becoming president, he worked as an engineer, academic, and mayor of Tehran. He is known for his hard-line nationalist stance, anti-West rhetoric, and controversial comments on Israel and the Holocaust.
+
+## **What was the plan?**
+
+The plan, reportedly developed by Mossad (the national intelligence and covert operations agency of Israel) in consultation with Ahmadinejad, aimed to use the former hard-line Iranian president despite his past rhetoric calling to “wipe Israel off the map."
+
+While Ahmadinejad served as a fierce critic of the West during his presidency from 2005 to 2013, the news report noted that he had recently clashed with Iran's current theocratic establishment and was placed under house arrest in Tehran.
+
+According to the US daily, on the opening day of the war, an Israeli strike targeted Ahmadinejad's residence. Although the operation was allegedly intended to free him, it nearly resulted in his death. One associate described the strike as "in effect a jailbreak operation" designed to eliminate members of Iran's Islamic Revolutionary Guard Corps (IRGC) who were guarding him.
+
+Ahmadinejad reportedly survived the strike but later became disillusioned with the broader plan. An associate quoted in the news report said Washington viewed him as someone capable of managing "Iran's political, social and military situation" and able to "play a very important role" in a future government.
+
+White House spokeswoman Anna Kelly outlined the broader objectives of what she called “Operation Epic Fury," saying, "From the outset, President Trump was clear about his goals for Operation Epic Fury: destroy Iran's ballistic missiles, dismantle their production facilities, sink their navy, and weaken their proxy." She added that the military had achieved its objectives and that negotiators were working to end Iran's nuclear capabilities "for good."
+
+The NYT further stated that Ahmadinejad's recruitment into the alleged plan remains unclear. However, it cited a 2019 interview in which he described Trump as a “man of action" and a "businessman" capable of calculating "cost-benefits."
+
+The news report also noted that Ahmadinejad had recently travelled to Hungary and Guatemala, both interpreted as maintaining close ties with Israel, shortly before the conflict began.
+
+According to the NYT report, “Operation Epic Fury" envisioned a three-stage collapse of the Iranian government. However, despite Israeli strikes reportedly killing Khamenei, the anticipated political upheaval failed to produce a complete regime collapse, suggesting that planners may have significantly underestimated Iran's institutional resilience.
+
+Despite the reported setback, Mossad Director David Barnea allegedly told associates that the plan "had a very good chance of succeeding" if events had unfolded as intended.
+
+The New York Times added that Ahmadinejad has not appeared publicly since the strike on his home, and his current whereabouts remain unknown.
+
+(ANI inputs)
+
+---
+
+### Engaged 4 days ago, Lucknow woman strangled by ex-lover, head bashed in with brick
+*Ashish Srivastava · general*
+
+## The victim, Shivani, worked with a real estate company in Lucknow and lived with her family, who were preparing for her wedding after her engagement on May 14.
+
+Prem Kumar Manjhi, 23, worked as a delivery agent in Lucknow. (Photo: ITG)
+
+A 22-year-old woman was found murdered in a secluded area of Lucknow’s Sushant Golf City locality, just four days after her engagement, police said on Tuesday. Her boyfriend has been arrested for the murder.
+
+The victim, identified as Shivani, worked at a real estate company and had got engaged to a man named Prakash on May 14. Her family said wedding preparations were underway at their home.
+
+According to police, Shivani left her house around 10 am on Sunday for office work but did not return till late at night. Concerned family members approached the police on Monday, following which they were informed that a woman’s body had been found in the forests of Sushant Golf City. Shivani was identified by her mother through photographs shown by police.
+
+Police said Shivani’s father works as a daily wage labourer while her mother works as a domestic help. The family, struggling financially, was reportedly happy after her recent engagement.
+
+To crack the case, police formed four teams and examined CCTV footage along with electronic surveillance data. During the investigation, police arrested Shivani’s boyfriend, Prem Kumar Manjhi (23), a native of Bihar’s Chhapra who worked as a delivery agent in Lucknow.
+
+During interrogation, Prem told police that he had known Shivani for the past seven to eight years. However, he was upset over the last six months after noticing her growing closeness with a male colleague named Manish. Police said Prem had seen photographs of Shivani and Manish on her phone and had become enraged.
+
+According to investigators, the accused told police he had no objection to Shivani’s engagement, but could not tolerate her proximity to Manish.
+
+Police said Prem took Shivani on his motorcycle to a forested area near the Awas Vikas Colony on Sunday morning. He allegedly strangled her using a rubber water-level pipe before dragging the body into nearby bushes and smashing her head with a cement brick.
+
+After the murder, the accused allegedly threw Shivani’s mobile phone into a canal in an attempt to destroy evidence.
+
+Senior police officer Amit Kumar Anand said the accused had confessed to the crime. Police have also recovered the cement brick allegedly used in the murder based on his statement. After legal formalities and questioning, the accused was sent to jail, he added.
+
+\- Ends
+
+Priyanka Kumari
+
+May 20, 2026 09:40 IST
+
+---
+
+### TN SSLC Result 2026: Tamil Nadu Class 10 result announced at tnresults.nic.in, check how to download scorecard
+*Monica Singh · general*
+
+Tamil Nadu DGE has declared the SSLC Class 10 Result 2026 on May 20. Over 8 lakh students can check scores via tnresults.nic.in, DigiLocker, and UMANG.
+
+The Directorate of Government Examinations (DGE), Tamil Nadu, has officially announced the SSLC Class 10 results for 2026 on May 20 at 9:30 am, as per the scheduled timeline. The announcement brings relief and anticipation for lakhs of students who appeared for the state board examinations this year.
+
+Students can now view and download their provisional marksheets from the official result portals, including tnresults.nic.in, Directorate of Government Examinations Tamil Nadu website, as well as government platforms like DigiLocker and UMANG. Authorities have also advised candidates to use DigiLocker and UMANG in case of heavy traffic on the official website.
+
+## **Official Announcement and Exam Details**
+
+The results were formally released by School Education Minister Thiru Rajmohan during a press briefing. The Class 10 examinations were conducted between March 11 and April 6, 2026 across various centres in Tamil Nadu. This year, more than eight lakh students participated in the board exams.
+
+Officials highlighted that the results reflect consistent evaluation standards followed by the state education department.
+
+## **Passing Criteria and Supplementary Exams**
+
+To qualify in the TN SSLC examination, students must secure a minimum of 35 per cent marks in each subject as well as overall aggregate. Candidates who fail to meet the required threshold will have the opportunity to appear for supplementary or compartment examinations, expected to be held in June 2026.
+
+Education authorities have assured that students who could not clear the exams should not panic, as the supplementary exams provide another chance to improve their scores.
+
+## **Steps to Check Results Online**
+
+How To Check TN SSLC Result 2026 Via Official Website?
+
+Step 1: Go to the official website - tnresults.nic.in.
+
+Step 2: Click on the "TN SSLC Result 2026" link available on the homepage.
+
+Step 3: Enter the registration number and date of birth.
+
+Step 4: Submit the details to access the result.
+
+Step 5: Download and keep a copy of the provisional marksheet for future reference.
+
+## **How To Download TN SSLC Marksheet Via DigiLocker**
+
+Step 1: Visit the official website digilocker.gov.in.
+
+Step 2: Sign in using a registered mobile number or Aadhaar-linked account.
+
+Step 3: Search for "Tamil Nadu Class 10 Result 2026".
+
+Step 4: Enter the required credentials such as roll number.
+
+Step 5: Download and save the digital marksheet.
+
+---
+
+### PM Modi, Italian PM Meloni visit Colosseum after dinner, share pictures
+*Ani · business*
+
+Rome: Prime Minister Narendra Modi met his Italian counterpart Giorgia Meloni over dinner shortly after arriving in Rome on Tuesday, on the last leg of his five-nation visit.
+
+They both then undertook a visit to the iconic Colosseum, where they engaged in deep conversation over a wide range of subjects
+
+In a post on X, PM Modi shared glimpses of his visit with Meloni and said, " Upon landing in Rome, had the opportunity to meet Prime Minister Meloni over dinner, followed by a visit to the iconic Colosseum. We exchanged perspectives on a wide range of subjects. Looking forward to our talks today, where we will continue the conversation on how to boost the India-Italy friendship.
+
+  
+  
+
+"Upon landing in Rome, had the opportunity to meet Prime Minister Meloni over dinner followed by a visit to the iconic Colosseum. We exchanged perspectives on a wide range of subjects. Looking forward to our talks today, where we will continue the conversation on how to boost the... pic.twitter.com/df0bDYKCdU- Narendra Modi (@narendramodi) May 20, 2026"
+
+Giorgia Meloni welcomed Prime Minister Narendra Modi upon his arrival in Rome for the final leg of his five-nation tour.
+
+Sharing a picture with PM Modi on X, Meloni wrote, "Welcome to Rome, my friend!."
+
+Meloni shared an earlier picture of both leaders at the Colosseum in Italy.
+
+PM Modi received a warm welcome from the Indian diaspora upon his arrival in Rome. He interacted with members of the Indian community and witnessed cultural performances at his hotel. PM Modi also signed an autograph for a child who greeted him with a portrait.
+
+Among those who met the Prime Minister was Svamini Shuddhananda Ghiri, who said she was meeting PM Modi for the second time after 2021. She further said that the Sanatana Dharma Samgha had been recognised as an official religion in Italy by the Italian Parliament.
+
+"I am very happy, and this is the second time we have met him. We met him in 2021 and he also continued to sustain and to foster our mission...Sanatana Dharma Samgha is recognised as an official religion here in Italy by the Italian Parliament," she told ANI.
+
+PM Modi's Italy visit comes amid strong momentum in India-Italy relations, with both sides actively advancing the Joint Strategic Action Plan 2025-2029, a broad framework for cooperation across multiple areas. These include trade--which reached $16.77 billion in 2025--investment, with cumulative FDI of $3.66 billion (April 2000-September 2025), as well as defence and security, clean energy, innovation, science and technology, and people-to-people exchanges.
+
+Earlier, the Prime Minister was in Norway for the fourth leg of his five-nation tour and before his Oslo visit, he was in Sweden, the Netherlands and the United Arab Emirates.
+
+---
+
+### Top stocks to buy today: Stock recommendations for May 20, 2026 - check list
+*TOI Business Desk · business*
+
+Top stocks to buy today (AI image)
+
+Stock market recommendations: Ashok Leyland, Bikaji Foods International, and Waaree Energies have been picked as the top stocks to buy on May 20, 2026:Ashok Leyland: Fibonacci Confluence Support with Harmonic CompletionBuy: ₹153–150 | Stop Loss: ₹145 | Target: ₹165ASHOKLEY is showing signs of stability near the crucial ₹150 support zone. On the 3-hour chart, this area holds strong technical importance as it coincides with the 78.6% Fibonacci retracement level, completion of the AB=CD pattern at 100%, and the 1.618 external retracement level.
+
+Additionally, the MACD indicator is gradually losing downside momentum, indicating fading selling pressure and improving price stability. The overall setup suggests the possibility of a fresh upside move in the coming sessions.Bikaji Foods International: Retracement Support with Momentum ImprovementBuy: ₹660–650 | Stop Loss: ₹635 | Target: ₹700BIKAJI is witnessing stability near the important ₹640–650 support zone. On the 2-hour chart, this area aligns with the 61.8% Fibonacci retracement level, completion of the AB=CD pattern at 100%, and the 1.27 external retracement level, creating a strong confluence support setup.
+
+In addition, both MACD and DMI indicators are showing positive signals, reflecting improving momentum and strengthening price structure.
+
+The technical setup indicates the possibility of a fresh upside move in the coming sessions.Waaree Energies: Fibonacci Support with Long-Term EMA ConfluenceBuy: ₹3050–3000 | Stop Loss: ₹2800 | Target: ₹3500WAAREE ENERGIES has witnessed a healthy correction after the recent rally and is now approaching a crucial support zone near ₹3000 levels. Technically, this area coincides with the 50% Fibonacci retracement level along with the 200 EMA support on the daily chart, creating a strong confluence demand zone.
+
+Momentum indicators have cooled off significantly, with RSI slipping near the 40 mark, indicating that selling pressure may be easing gradually.
+
+The broader trend structure remains positive, and the current correction appears to be a healthy pullback within the larger uptrend, suggesting the possibility of a fresh recovery move in the coming weeks.(Disclaimer: Recommendations and views on the stock market, other asset classes or personal finance management tips given by experts are their own. These opinions do not represent the views of The Times of India.)
+
+---
+
+### Iran-US War News LIVE Updates: US Senate advances resolution to block Trump’s further strikes on Iran
+*Navya Beri · legal*
+
+US President Donald Trump as he addresses the attendees from the Blue Room Balcony of the White House during the annual Congressional Picnic on the South Lawn (AP Photo)
+
+**US Iran War News LIVE:** Four Republican senators joined Democrats to advance a resolution seeking to block US President Donald Trump from ordering further strikes on Iran. Four Republicans — Sens. Rand Paul (Kentucky), Susan Collins (Maine), Lisa Murkowski (Alaska) and Bill Cassidy (Louisiana) — shook hands with Democrats to discharge a war powers resolution from committee. The move marks the first step towards pushing Trump to bring the war to an end, which Congress never authorised. Sen. John Fetterman (Pennsylvania) was the only Democrat to vote no.
+
+**Donald Trump says Iran war will end ‘very quickly’, claims Tehran wants deal ‘so badly’:** Meanwhile, Trump said that the United States “will end the war very quickly” with Iran as Tehran wants to “make a deal so badly”. “We’re going to end that war (the war with Iran) very quickly. They want to make a deal so badly, they’re tired of this. This should have happened for 47 years. Somebody should have done something about it. And it’s going to happen and it’s going to happen fast. And you’re going to see oil prices plummet. They’re going to come down. There’s so much oil out there. They’re going to come plummeting down. But even with that, the stock market’s at an all-time high,” the US president said. He earlier told reporters that America may need to attack Iran again and that he was only an hour away from deciding on a strike before the American military postponed Tuesday’s attack after the Gulf nations urged Washington that “serious negotiations” are underway to end the war.
+
+Story continues below this ad
+
+**Tehran warns of ‘many more surprises’:** Iran’s Foreign Minister Abbas Araghchi has said that Tehran acquired military knowledge from previous hostilities, and warned that “a return to war will feature many more surprises”. The remarks come after US President Donald Trump gave the country “two to three days” to strike a deal, and his deputy, JD Vance, said both sides have made a “lot of progress” in talks.
+
+**_Follow The Indian Express Global Desk live coverage for the latest updates from the Middle East, the diplomatic corridors of Europe, and the evolving legal battles in Washington._**
+
+**Stay updated with the latest - Click here to follow us on Instagram**
+
+© IE Online Media Services Pvt Ltd
+
+-   Tags:
+-   donald trump
+-   Iran-Israel War
+
+---
+
+### Petrol, Diesel prices today on May 20: Check fuel rates in Delhi, Mumbai, Chennai, Kolkata and other metro cities
+*Unknown · business*
+
+The prices of petrol and diesel remained unchanged on May 20, Wednesday across major Indian cities after the fuel rates saw a hike of 90 paise per litre yesterday. Last week, the fuel prices were raised by Rs 3 per litre. The prices of petrol and diesel remain in key focus after US President Donald Trump threatened fresh strikes against Iran in the coming days, keeping global crude markets on edge.
+
+After the elections, expectations grew that petrol and diesel prices could be raised to help state-run oil marketing companies recover some of their losses, especially as Brent crude prices have surged sharply following the US and Israeli strikes on Iran in late February. Since then, crude oil prices have witnessed a steep rally amid rising geopolitical tensions in the Middle East.
+
+  
+
+## Petrol, Diesel prices today
+
+In Delhi, petrol is now retailing at Rs 98.64 per litre, up by 87 paise, while diesel costs Rs 91.58 per litre after a hike of 91 paise. Mumbai saw petrol prices rise by 91 paise to Rs 107.59 per litre, with diesel up 94 paise at Rs 94.08 per litre. Last week, Petroleum Minister Hardeep Singh Puri on Tuesday said public sector oil marketing companies may not be able to sustain daily losses of Rs 1,000 crore from selling petrol and diesel below market price.
+
+  
+  
+
+City
+
+Petrol (Rs/Litre)
+
+Diesel (Rs/Litre)
+
+Delhi
+
+98.64
+
+91.58
+
+Mumbai
+
+107.59
+
+94.08
+
+Kolkata
+
+109.70
+
+96.07
+
+Chennai
+
+104.51
+
+96.13
+
+Chandigarh
+
+98.12
+
+86.09
+
+Hyderabad
+
+111.84
+
+99.95
+
+Jaipur
+
+108.55
+
+93.81
+
+Bengaluru
+
+107.16
+
+95.04
+
+Lucknow
+
+98.40
+
+91.72
+
+## Hyderabad Sees Highest Petrol Price
+
+Following the latest fuel price hike, Hyderabad recorded the highest petrol price in the country, with rates reaching Rs 111.84 per litre as of May 19. Thiruvananthapuram was not far behind, where petrol was priced at Rs 111.70 per litre.
+
+Meanwhile, Chandigarh continued to have the lowest petrol price among the major cities listed, at around Rs 98.10 per litre. Petrol prices in Lucknow and Noida also remained comparatively lower than several metro cities, standing at Rs 98.42 and Rs 98.65 per litre respectively.
+
+For diesel, Thiruvananthapuram registered the highest rate in the country at Rs 100.59 per litre, followed by Hyderabad where diesel was priced at Rs 99.95 per litre.
+
+---
+
+### Market Open Weak: Sensex Falls 600 Points, Nifty Slips Below 23,450 Amid Global Jitters
+*Mohammad Haris · business*
+
+The NSE Nifty trades around 23,420, down 183 points or 0.84%, while the BSE Sensex slips 595.82 points to hover near 74,600 at 74,605.24 in the opening trade.
+
+[Read full article](https://www.news18.com/business/markets/market-open-weak-sensex-falls-600-points-nifty-slips-below-23450-amid-global-jitters-ws-l-10100992.html)
+
+---
+
+### Tamil Nadu SSLC result 2026 declared. Direct link to check Class 10 marks
+*India Today Education Desk · general*
+
+## The Tamil Nadu Directorate of Government Examinations has declared the Tamil Nadu SSLC Result 2026 for Class 10 students. Along with the TN SSLC result 2026, the board has also announced pass percentage, district-wise performance and other important result statistics.
+
+The Tamil Nadu Directorate of Government Examinations has declared the Tamil Nadu SSLC Result 2026 for Class 10 students.
+
+The Tamil Nadu Directorate of Government Examinations (DGE) has officially declared the Tamil Nadu SSLC Result 2026 for lakhs of Class 10 students across the state.
+
+Students who appeared for the Tamil Nadu board examinations can now check the TN SSLC result 2026 online through the official result portals.
+
+Of the 8.70 lakh students who appeared for the Tamil Nadu SSLC examinations this year, 8.21 lakh passed the exam.
+
+The pass percentage for this year is 94.31 per cent, with Pudukottai as the top performing district in SSLC board results.
+
+Girls outperformed boys in this year’s Tamil Nadu SSLC examinations, achieving a pass percentage of 96.47%, while boys recorded 92.15%.
+
+The Tamil Nadu SSLC exams 2026 were conducted between March and April across various centres in the state. More than 8 lakh students reportedly appeared for the Tamil Nadu 10th result 2026 examinations this year.
+
+### WHICH OFFICIAL WEBSITES ARE HOSTING TN SSLC RESULT 2026?
+
+Students can access the Tamil Nadu board exam result 2026 through these official websites:
+
+-   tnresults.nic.in
+    
+-   dge.tn.gov.in
+    
+-   apply1.tndge.org
+    
+
+Due to heavy traffic, students may experience temporary delays while checking the Tamil Nadu 10th result 2026 online.
+
+### HOW TO CHECK TAMIL NADU SSLC RESULT 2026 ONLINE?
+
+Students can check the Tamil Nadu SSLC result 2026 online by following these simple steps:
+
+-   Visit the official website: tnresults.nic.in
+    
+-   Click on the “Tamil Nadu SSLC Result 2026” link
+    
+-   Enter registration number and date of birth
+    
+-   Click on submit
+    
+-   The TN SSLC result 2026 will appear on screen
+    
+-   Download and save the provisional marksheet
+    
+
+The Tamil Nadu SSLC marksheet download option is available immediately after logging in successfully.
+
+**Direct link to check Tamil Nadu SSLC 2026 results**
+
+### DISTRICTS WITH HIGHEST PASS PERCENTAGE IN TN SSLC 2026 RESULTS
+
+Rank
+
+District
+
+Pass Percentage
+
+1
+
+Pudukkottai
+
+97.57%
+
+2
+
+Sivagangai
+
+97.54%
+
+3
+
+Thanjavur
+
+97.41%
+
+4
+
+Trichy
+
+97.31%
+
+5
+
+Kanniyakumari
+
+97.30%
+
+### WHAT ARE THE OTHER WAYS TO CHECK TN SSLC RESULT 2026?
+
+Apart from official websites, students can also use alternative methods to access their Tamil Nadu SSLC result 2026.
+
+### HOW TO CHECK TN SSLC RESULT ON DIGILOCKER?
+
+-   Login using Aadhaar-linked mobile number
+    
+-   Open education documents section
+    
+-   Select Tamil Nadu Directorate of Government Examinations
+    
+-   Download digital marksheet
+    
+
+### HOW TO CHECK TN BOARD SSLC RESULT 2026 VIA UMANG APP
+
+-   Download and open the UMANG app on your smartphone.
+    
+-   Log in using your registered mobile number.
+    
+-   Search for “Tamil Nadu SSLC Result 2026” in the services section.
+    
+-   Enter your registration number and date of birth.
+    
+-   Click on submit to view the TN Board SSLC Result 2026.
+    
+-   Download and save the provisional marksheet for future reference.
+    
+-   Students can also check the TN SSLC Result 2026 through DigiLocker and official websites.
+    
+-   Original marksheets will later be distributed by schools after official procedures are completed.
+    
+
+### HOW TO CHECK TN SSLC RESULT 2026 VIA SMS
+
+Students who are unable to access the internet during result hours can also check the Tamil Nadu SSLC Result 2026 through the SMS facility provided by the board.
+
+Candidates need to type `TNBOARD10` along with their registration number and date of birth and send it to 9282232585.
+
+The TN Board Class 10 result details will be sent directly to the same mobile number used to send the SMS request.
+
+### WHAT DETAILS ARE MENTIONED IN THE TAMIL NADU SSLC MARKSHEET?
+
+The provisional Tamil Nadu SSLC marksheet contains:
+
+-   Student’s name
+    
+-   Roll number
+    
+-   Subject-wise marks
+    
+-   Total marks
+    
+-   Result status
+    
+-   Date of birth
+    
+
+Students must carefully verify all details mentioned in the TN board Class 10 result.
+
+### WHAT NEXT AFTER TAMIL NADU SSLC RESULT 2026?
+
+After the declaration of the Tamil Nadu SSLC result 2026, students will begin the admission process for Class 11 in Science, Commerce, Arts and vocational streams.
+
+Students unhappy with their Tamil Nadu 10th result 2026 scores will also be able to apply for revaluation, retotalling and supplementary examinations once the board releases the official schedule.
+
+\- Ends
+
+Princy Shukla
+
+May 20, 2026 09:31 IST
+
+---
+
+### More output, fewer workers: Why are labour-heavy industries becoming leaner
+*Business Standard · business, entrepreneur, finance*
+
+SAIL, Coal India and NMDC are boosting output with fewer workers as automation, digitisation and retirements reshape India's industrial workforce.
+
+[Read full article](https://www.business-standard.com/industry/news/sail-coal-india-nmdc-automation-psu-workforce-retirements-126052000203_1.html)
+
+---
+
+### Google unveils Search for AI era, revamps Gemini app, debuts coding tools
+*Business Standard · business, entrepreneur, finance*
+
+Google also introduced a new subscription plan through which developers can get more access to the company's AI tools for $100 per month
+
+[Read full article](https://www.business-standard.com/technology/tech-news/google-unveils-search-for-ai-era-revamps-gemini-app-debuts-coding-tools-126052000236_1.html)
+
+---
+
+### Shillong Teer Results Today Live, May 20, 2026: Winning Numbers For All Teer Games
+*Nibandh Vinod · general*
+
+Shillong Teer Result Today: Here's full list of winning numbers for Shillong Teer, Juwai Teer, Khanapara Teer, and more for May 20, 2026.
+
+[Read full article](https://www.news18.com/india/shillong-teer-result-today-may-20-2026-first-and-second-round-lottery-result-check-winning-numbers-full-list-10100614.html)
+
+---
+
+### Rupee declines 20 paise to record low
+*Express Web Desk · legal*
+
+A Rupee symbol installation outside RBI HQ in Mumbai. (Express Photo by Amit Chakravarty)
+
+The Indian rupee slipped to a fresh record low against the US dollar in early trade on Wednesday, weighed down by rising crude oil prices and relenteless foreign fund outflows amid global uncertainty.
+
+The rupee opened at 96.86 against the US dollar, weaker than the previous session’s close of 96.53, before falling further to an all-time low of 96.8650. The domestic currency has now declined nearly 6% since the Iran conflict escalated in late February.
+
+According to the analysts, the continued deadlock in US-Iran peace talks has kept global crude oil prices elevated, raising concerns over a fresh wave of inflation worldwide. Higher bond yields and weak global equity markets have also added pressure on emerging market currencies, including the rupee.
+
+India’s external position has come under strain due to elevated energy import costs and weak foreign capital inflows. Overseas investors have withdrawn more than 22 billion dollars from Indian equities and bonds during the ongoing period, while Brent crude prices have surged over 50 percent.
+
+Benchmark indices opened lower on Wednesday, with the Sensex plunging 517.11 points to 74,667.51 and the Nifty slipping 152.45 points to 23,475.80 in early trade.
+
+Meanwhile, GIFT Nifty was trading 135 points lower ahead of the market opening, indicating a weak start for domestic equities amid negative global cues.
+
+---
+
+### 25,400 MW Output, 1.23 Lakh Jobs: Maharashtra Signs Nuclear Power Deals With 4 Energy Giants
+*Nitya Thirumalai · business*
+
+The four companies that signed the agreements are NTPC Limited, Adani Power, Reliance Industries, and Lalitpur Power Generation Company Limited, part of the Bajaj Group
+
+[Read full article](https://www.news18.com/cities/mumbai-news/25400-mw-output-1-23-lakh-jobs-maharashtra-signs-nuclear-power-deals-with-4-energy-giants-ws-l-10100861.html)
+
+---
+
+### Sensex drops 600 points, Nifty below 23,450. 6 key factors behind today's D-St rout
+*Debaroti Adhikary · economy*
+
+Indian stock markets opened deep in the red on Wednesday, with the Sensex and Nifty falling around 0.8% each as the rupee’s sharp decline and other macro concerns dampened investor sentiment.
+
+The Sensex declined more than 600 points to slip below the 74,600 mark, while the Nifty 50 fell over 190 points to trade below 23,450. This came as India VIX, which measures market volatility, rose more than 1% to hover near 18.93 in morning trade.
+
+Shares of Tata Steel, Zomato-parent Eternal, Bharat Electronics (BEL), Bajaj Finance, M&M, Maruti Suzuki, Power Grid, Hindustan Unilever, UltraTech Cement, SBI, Bajaj Finserv, and Tech Mahindra declined up to 2%, emerging as the top losers on the Sensex. Bucking the trend, TCS and Infosys traded with marginal gains. The bearish sentiment was broad-based, with the Nifty Midcap 100 and Nifty Smallcap 100 indices dropping around 1% each.
+
+All sectoral indices traded in the red, with the Nifty FMCG, Nifty Auto, Nifty Realty, and Nifty Metal indices falling more than 1% each. Around 1,879 stocks declined on the NSE, while 598 advanced and 83 remained unchanged.
+
+“While fourth-quarter earnings continue to underscore the resilience of domestic economic momentum, market focus is increasingly pivoting toward mounting inflationary pressures. Concerns over potential earnings downgrades for Q1FY27 are gaining traction, driven by higher-than-anticipated WPI readings, the gradual pass-through of elevated fuel prices, and persistently firm bond yields,” said Vinod Nair, Head of Research at Geojit Investments.
+
+  
+
+## Key factors dampening the sentiment on Dalal Street today:
+
+### 1) Rupee weakens to a fresh low, inches closer to 97  
+
+Rupee continued its free fall against the US dollar, hitting a fresh lifetime low of 96.8650 on Wednesday and eclipsing its previous all-time low of 96.6150, which it had hit yesterday. The currency is down 6% since the Iran war ⁠began in late February.
+
+Rupee’s weakness comes as elevated crude oil prices and continued pressure on capital flows kept the currency under stress, said Jateen Trivedi, VP Research Analyst of Commodity and Currency at LKP Securities. “Sustained higher crude prices are increasing concerns over India’s import bill and widening trade deficit, which is keeping sentiment weak for the rupee,” he said.
+
+“Market participants continue to prefer dollar buying and rupee selling as a hedge against ongoing volatility and external sector pressure. The broader trend remains weak, with the rupee expected to trade in a range of 96.25–97.00 in the near term,” according to the analyst.
+
+### 2) Bond yields remain high  
+
+The 30-year US Treasury yields rose to 5.20% late on Tuesday, their highest level since 2007. Yields on the benchmark 10-year bonds, which have an impact on the mortgage rates, meanwhile, surged to their highest level in over a year to about 4.67%. While the bond yields have slightly cooled down on Wednesday morning, the yields remain elevated.
+
+High bond yields typically make bonds attractive to investors, which in turn can lead to some downturn in equity markets.
+
+## 3) Iran-US conflict  
+
+US President Donald Trump told lawmakers at the White House that the country will “end the war very quickly” with Iran. "There's so much oil out there, they're going to come plummeting down..We're going to end that war very quickly. They want to make a deal so badly...You are going to see oil prices plummet. They're going to come down. There's so much oil out there, they're going to come plummeting down," he said at a press conference. This came after he threatened Iran, saying the US may launch new attacks if Tehran fails to agree to some of the terms of the peace deal.
+
+Meanwhile, US Vice President JD Vance said that the Iran conflict will not become a “forever war”. “We're going to take care of business and ⁠come home,” he said during a White House briefing.
+
+Iran, however, scaled up its threats. “With lessons learned and knowledge we gained, return to war will feature many more surprises,” Iran’s Foreign Minister Seyed Abbas Araghchi said in a post on X.
+
+### 4) Oil prices hold above $110/barrel  
+
+Brent crude declined marginally but remained above $110 per barrel. WTI Crude, meanwhile, hovered above $104 per barrel. Oil prices continued to remain elevated above $100 per barrel level amid the prolonged blockade over the Strait of Hormuz, a narrow 33-kilometre waterway connecting the Persian Gulf with the Gulf of Oman that handles over 20% of the world’s daily oil and gas shipments.
+
+### 5) FII selling resumes  
+
+Foreign investors remained net sellers of Indian equities on Tuesday, selling shares worth Rs 2,457 crore on Dalal Street. This comes after a three-session buying streak during which FII bought Indian shares worth Rs 5,240 crore.
+
+However, foreign investors have mostly remained bearish on Indian markets this month so far, remaining net sellers of Indian equities in eight out of 12 sessions so far in May.
+
+### 6) Global market crash  
+
+Dalal Street accompanied its global peers, which only declined sharply. In Asia, South Korea’s Kospi crashed more than 2% while Japan’s Nikkei fell around 1.5%. Hong Kong’s Hang Seng and China’s Shanghai Composite dropped around 0.5% each.
+
+Wall Street closed in the deep red yesterday, with tech-heavy Nasdaq declining 0.9% and S&P 500 falling 0.7%. European markets, however, closed mixed on Tuesday, with the UK’s FTSE and Germany’s DAX closing in the green with marginal gains.
+
+### What lies ahead?
+
+Technically, the 23,400–23,300 zone remains a crucial support band for the bulls, and a decisive breach could drag Nifty toward 23,100–23,000, said Rajesh Palviya, Head of Research at Axis Direct. “On the upside, unless Nifty reclaims 23,750 decisively, momentum is likely to remain capped, while only a sustained move above 23,900–24,000 would meaningfully improve the near-term outlook,” he said.
+
+Going ahead, Nifty’s failure to move above the recent breakdown area of 23,800 - 23,900 will keep the bias corrective, and the index will consolidate with downward bias in the range of 23,200 - 23,900, said Bajaj Broking. It added that the benchmark index needs to start forming higher highs and higher lows on a sustained basis in the daily chart and a move above the breakdown area of 23,800 - 23,900 to signal a pause in the recent downtrend.
+
+(With inputs from agencies)  
+(Disclaimer: Recommendations, suggestions, views, and opinions given by experts are their own. These do not represent the views of The Economic Times)
+
+
+---
+
 ## 19 May 2026
 
 ### ‘Violence in the name of protest unacceptable’: Delhi HC on 2022 stir outside J P Nadda’s home
