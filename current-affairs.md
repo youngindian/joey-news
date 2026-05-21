@@ -1,3 +1,663 @@
+## 21 May 2026
+
+### Parle Industries stock hits 5% again as ‘Melody’ Buzz conitnues to fuel rally
+*India Today Business Desk · general*
+
+## Parle Industries shares hit an upper circuit again after videos showed Prime Minister Narendra Modi gifting Melody toffees to Italian Prime Minister Giorgia Meloni. The move drew attention because the stock has no link to Parle Products, pointing to mistaken-identity buying.
+
+The viral “Melody” moment involving Prime Minister Narendra Modi and Italian Prime Minister Giorgia Meloni.
+
+Shares of Parle Industries continued their rally for a second straight session on Thursday, hitting the 5% upper circuit amid heightened investor interest following the viral “Melody” moment involving Prime Minister Narendra Modi and Italian Prime Minister Giorgia Meloni.
+
+Parle Industries Ltd shares rose 4.95% to Rs 5.51 apiece as of 10:03 am on the Bombay Stock Exchange (BSE).
+
+The stock had also hit its upper circuit limit in the previous session after videos from PM Modi’s Italy visit went viral online, showing the Prime Minister gifting Melody toffees to Meloni. The visuals revived the popular “Melodi” meme on social media and triggered a surge in retail interest around stocks linked to the “Parle” name.
+
+However, Parle Industries has no connection with Melody toffees or Parle Products, the privately held FMCG company that manufactures Melody candies along with brands such as Parle-G, Monaco and KrackJack. The rally is widely being seen as a case of mistaken-identity buying driven by viral social media chatter.
+
+Parle Products, meanwhile, said it was caught off guard by the attention the brand received after the diplomatic gesture.
+
+Speaking to India Today, Parle Products Vice President Mayank Shah said the company was “completely taken by surprise” after PM Modi gifted Melody to Meloni. He added that the company had already seen a spike in traction across quick commerce and online platforms since the video went viral.
+
+Shah said Melody is already the country’s largest-selling toffee brand and is sold in more than 200 countries. He added that the latest global attention could help accelerate demand overseas as well.
+
+Despite the sharp move in Parle Industries shares, there has been no major corporate announcement or business development from the company to explain the rally.
+
+Market experts said low-priced smallcap stocks often witness such momentum-driven activity when viral events, familiar brand names or social media trends capture retail investor attention.
+
+\- Ends
+
+Koustav Das
+
+May 21, 2026 10:12 IST
+
+---
+
+### OpenAI’s AI solves 80-year-old maths problem, marking major breakthrough for artificial intelligence
+*Om Gupta · general*
+
+## OpenAI says its AI model has autonomously solved a famous 80-year-old maths problem. This marks a major milestone for AI reasoning and scientific research.
+
+OpenAI AI solved famous maths problem without step-by-step human guidance. (Photo: Generated from AI)
+
+For decades, one of mathematics’ most famous unsolved problems quietly frustrated some of the world’s brightest minds. Now, OpenAI says one of its AI models has cracked it — not with step-by-step human guidance, but autonomously.
+
+The breakthrough involves the “planar unit distance problem,” a mathematical question first posed by legendary mathematician Paul Erds in 1946. While the name sounds intimidating, the core question is surprisingly simple: if you place points on a flat surface, how many pairs of points can be exactly one unit apart from each other?
+
+For nearly 80 years, mathematicians believed the best possible arrangements looked roughly like square grids. Researchers kept refining the theory, but nobody could fully disprove the long-standing assumption.
+
+According to OpenAI, its internal reasoning model has now done exactly that.
+
+The company says the AI discovered an entirely new family of mathematical constructions that performs better than the traditional grid-like approach. In simple terms, the AI found a smarter way to arrange points than humans had believed possible for decades.
+
+While the planar unit distance problem may sound highly theoretical, the mathematics behind it has applications in areas such as network design, computer chip layouts, wireless communication systems, robotics, and materials science. Problems involving how points are arranged efficiently in space are important in everything from sensor networks to crystal structures.
+
+### Why researchers are calling it a milestone
+
+What makes the result especially significant is not just the solution itself, but how it was achieved.
+
+OpenAI says the system was not specifically designed to solve this particular puzzle or even mathematics problems alone. Instead, it was a general-purpose reasoning model capable of handling long and complex chains of thought. The proof was later checked by external mathematicians, who verified the result.
+
+This marks the first time an AI system has autonomously solved a prominent open problem considered central to an active field of mathematics. For many researchers, that milestone is as important as the mathematical discovery itself.
+
+The achievement also offers a glimpse into how rapidly AI reasoning capabilities are evolving. Until recently, AI systems were mainly known for generating text, images, or computer code. Solving deep mathematical problems requires something very different — maintaining logical consistency over long arguments, connecting ideas across different areas of knowledge, and avoiding tiny mistakes that can collapse an entire proof.
+
+That is why many researchers see this as a turning point.
+
+### Why this matters beyond mathematics
+
+The implications could extend far beyond mathematics. OpenAI argues that if AI systems can sustain difficult reasoning and produce work that survives expert scrutiny, the same capabilities could eventually help scientists tackle complicated problems in biology, physics, engineering, materials science, and medicine.
+
+In other words, the real breakthrough may not simply be solving one old maths puzzle. It may be the emergence of AI systems capable of becoming genuine research collaborators.
+
+The development also highlights a growing shift in the relationship between humans and artificial intelligence. Instead of merely assisting researchers with calculations or data analysis, AI systems are beginning to independently explore ideas, test possibilities, and uncover solutions experts themselves may not have considered.
+
+\- Ends
+
+May 21, 2026 10:11 IST
+
+---
+
+### 'Cockroach Janta Party founder Abhijeet Dipke's post for AAP's Manish Sisodia before leaving for studies in US emerges: 'No distance will weaken my commitment...'
+*Trending Desk · business*
+
+Cockroach Janta Party or CJP, founded by former Aam Aadmi Party (AAP) social worker Abhijeet Dipke, is the newest political startup in India, a satirical online movement, and was founded by May 16. Dipke is a 30-year-old public relations student at Boston University and a former AAP social media volunteer from 2020 to 2023. A post of Abhijeet Dipke before he left for Boston, is now going viral on social media in which he thanked former Delhi Deputy Chief Minister Manish Sisodia for the opportunities. "Thank you for everything, @msisodia sir. I am truly grateful for all the opportunities you provided me while working with you. Leaving for Boston with your guidance as my compass. No distance will ever weaken my commitment to AAP," the post's caption read. The picture shows him and Manish Sisodia sharing a side hug with hashtag #TeamManishSisodiaforver
+
+> — iam\_shimorekato (@iam\_shimorekato)
+
+  
+
+Another old post read, "I would like to express my gratitude to @msisodia sir. His trust and the opportunities he gave me have brought me this far. Wish I could tell him this personally & take his blessings. I would also like to thank @AtishiAAP ma'am for all the support and guidance. And of course, this wouldn't have been possible without having friends like you and Pulkit." (sic)
+
+  
+  
+
+> — osintspectator (@osintspectator)
+
+**
+
+## How is Abhijeet Dipke linked to AAP?
+
+Abhijeet Dipke had previously volunteered with the social media team of the Aam Aadmi Party from 2020 to 2023. Currently, he is in the United States, completing his Master’s degree in public relations at Boston University. A political communication strategist, Dipke's work centres on narrative building, public messaging, and the influence of digital platforms on political opinion. He is a native of Chhatrapati Sambhajinagar, Maharashtra.
+
+**
+
+He completed his bachelor's degree in journalism in Pune before moving to the US for further studies. During the 2020 Delhi Assembly elections, which were won by the Arvind Kejriwal-led party, he worked on meme-driven digital campaigns aimed at boosting online outreach and youth engagement and in 2026, he launched the Cockroach Janta Party. Several handles on X allege that the CJP is a plant by the Aam Aadmi Party. Dismissing all such claims, Dipke said that his post was only sarcasm.
+
+  
+
+## How was the CJP founded?
+
+Abhijeet Dipke said he came across Chief Justice of India Surya Kant’s remarks while celebrating his graduation in Boston. “There are already parasites of society who attack the system and you want to join hands with them? There are youngsters like cockroaches, who don’t get any employment and don’t have any place in the profession,” Kant had said while referring to sections of the media, RTI activists, and other activists. He later clarified that his remarks were misquoted and were taken out of context.
+
+“What began as satire is now turning into something much bigger. People are messaging us saying they have lost hope in both the government and the Opposition,” Dipke said. Several political figures have also reacted online with TMC leaders Mahua Moitra and Kirti Azad posted on X saying they wanted to be part of the CJP, while lawyer Prashant Bhushan also expressed support for the party.
+
+## Sisodia backs CJP
+
+Senior Aam Aadmi Party (AAP) leader Manish Sisodia has publicly backed the 'Cockroach Janata Party' (CJP). In an Instagram reel posted on May 20, Sisodia declared, "If there is a war between a crocodile and cockroaches, I will proudly stand with the Cockroach Janata Party."
+
+Featuring a mock five-point manifesto focused on unemployment, education, healthcare, and government accountability, the movement quickly resonated with the youth. Within days, the CJP's Instagram account amassed over 6.6 million followers, with thousands registering online. On Thursday, CJP surpassed BJP on Instagram with more than 10 million followers.
+
+(With TOI inputs)
+
+---
+
+### Rains on approach: When will monsoon hit India? Latest forecast here
+*India Today Science Desk · general*
+
+## As North India reels under brutal heatwave conditions, all eyes are now on a weather system gathering strength far to the South.
+
+The IMD has forecast a below-average rain this year. (Photo: PTI)
+
+If you've stepped outside anywhere in North India this week, you already know the numbers don't do justice to the misery.
+
+Uttar Pradesh's Banda district hit a staggering 48°C on Wednesday, May 20, the hottest spot in the entire country. Delhi has been flirting with 44–45°C, with the India Meteorological Department (IMD) placing the capital under repeated heatwave alerts.
+
+Rajasthan, Punjab, Haryana, and Himachal Pradesh are all baking under the same relentless Sun, driven by dry, hot winds blowing in from the deserts of the northwest.
+
+A woman in New Delhi wipes sweat off her face. (Photo: PTI)
+
+This is what a North Indian summer at its worst looks like, and it has arrived with particular ferocity in 2026.
+
+The question that most are asking is when will monsoon arrive and send the heat packing?
+
+### WHEN WILL IT RAIN?
+
+The IMD has forecast that India's southwest monsoon, which is the seasonal rain system that delivers nearly 70% of the country's annual rainfall, is likely to arrive over the Kerala coast around May 26, nearly a week ahead of its usual date of June 1.
+
+Â Lightning streaks across the sky over buildings during rain and thunderstorm, in Jaipur. (Photo: PTI)
+
+That makes this an early monsoon year, and for millions of Indians sweltering through the heat, that is very welcome news.
+
+Once the monsoon touches down in Kerala, it takes several more weeks to reach the rest of the country. Maharashtra and Mumbai are expected to see monsoon rains around June 2–5.
+
+The monsoon will then soon journey northward, bringing cooler winds, raindrops and relief, to North India currently being baked.
+
+Delhi and most of North India, which are suffering the most right now, will have to wait until around the last week of June, roughly June 27, which is actually the normal, on-time arrival window for the capital.
+
+A man tends to a horse as a man rides a scooter during rain in Kolkata. (Photo: PTI)
+
+### WILL MONSOON ARRIVE EARLY?
+
+An early monsoon onset in Kerala does not automatically mean faster or heavier rains everywhere. Weather experts caution that once the monsoon makes landfall in the south, its northward march can slow or stall depending on wind patterns and atmospheric pressure over the Bay of Bengal and Arabian Sea.
+
+There's another caveat.
+
+Both the IMD and private forecaster Skymet Weather have warned that the 2026 monsoon season overall may deliver below-normal rainfall.
+
+A weather forecast map shows rain and storm moving northward from South India in the coming days. (Photo: Windy)
+
+The IMD estimates seasonal rainfall at around 92% of the long-period average, while Skymet pegs it at 94%. Both agencies point to the likely development of El Nino conditions, which is a warming of Pacific Ocean temperatures that historically tends to weaken India's monsoon. The growing likelihood of El Nino points to its arrival as the season progresses into July and August.
+
+In other words, this means that while the rains may begin on time or even early, it's not a safe bet to assume that the showers will carry through for a long period. Although uncertainty remains, the coming months will be watched closely.
+
+For now though, after weeks of historic heat, even the promise of rain feels like relief.
+
+\- Ends
+
+May 21, 2026 10:08 IST
+
+---
+
+### After school, West Bengal makes Vande Mataram compulsory in madrasas
+*India Today Education Desk · general*
+
+The West Bengal government has expanded its Vande Mataram mandate to madrasas across the state, making the singing of the national song compulsory during morning assemblies in all recognised institutions under the Minority Affairs and Madrasah Education Department.
+
+The latest directive comes just a week after the state government made the recital of Vande Mataram mandatory in all schools across West Bengal.
+
+According to an order issued by the Directorate of Madrasa, the national song must now be sung in all recognised, aided and unaided madrasas before the start of classes. The order applies to institutions functioning under the state government’s Minority Affairs and Madrasa Education Department.
+
+The move marks another major education-
+
+### FROM SCHOOLS TO MADRASAHS
+
+Last week, the West Bengal government had directed all schools under the School Education Department to make the singing of all six stanzas of Vande Mataram compulsory during morning assemblies.
+
+Students were instructed to sing the national song before the commencement of daily classes.
+
+Announcing the decision earlier, Chief Minister Suvendu Adhikari had stated in a social media post, “Overriding the previous directive, the West Bengal government has made it mandatory with immediate effect for all schools under the Department of School Education to sing the Indian national song Vande Mataram during the school assembly or morning prayer before the commencement of classes.”
+
+With the latest order, the same practice will now extend to madrasas as well.
+
+### WHY VANDE MATARAM IS BACK IN FOCUS
+
+Vande Mataram has remained a powerful symbol in India’s political and cultural discourse for decades. The song was widely used by freedom fighters during India’s struggle against British colonial rule and later became closely associated with nationalist movements.
+
+The issue returned to the political spotlight ahead of the West Bengal Assembly elections this year.
+
+In February, the central government granted Vande Mataram a status equal to the national anthem, Jana Gana Mana. Following that decision, it became mandatory for all six stanzas of the song to be sung at government functions and school events alongside the national anthem.
+
+The development triggered fresh debates across different states and political parties.
+
+### CONTROVERSIES ACROSS STATES
+
+In recent months, Vande Mataram became the centre of political controversies during oath-taking ceremonies in states such as Tamil Nadu and Kerala.
+
+In Tamil Nadu, the DMK criticised Chief Minister Joseph Vijay after the full version of the song was played before the national anthem during an official ceremony in Chennai.
+
+In Kerala, the Left parties criticised the government after the complete rendition of Vande Mataram was played during an oath ceremony. The ruling alliance later clarified that the event sequence had been decided by Raj Bhavan.
+
+The BJP, meanwhile, accused Communist parties of opposing Indian cultural traditions.
+
+With West Bengal now extending the Vande Mataram mandate to both schools and madrasas , the debate around the national song is likely to remain firmly in the national spotlight.
+
+\- Ends
+
+Princy Shukla
+
+May 21, 2026 10:07 IST
+
+---
+
+### European work culture shocks Indian man, says no one glorifies staying late at work, people turn down promotions...
+*Trending Desk · business*
+
+An Indian man living in Europe has triggered an online discussion after describing what he called the “biggest work culture shock” for Indians working there. In a video shared on Instagram through the account ‘Our Unscripted Life’, he said the most unexpected difference was not 
+
+In the video, he said people in Europe appeared more enthusiastic about their lives after office hours and did not treat work as the centre of their identity. According to him, employees did not glorify staying late at work or constantly remaining busy. He also noted that some people were willing to decline promotions in order to protect their peace and personal lives, adding that success was viewed differently in Europe.
+
+  
+
+## **Post highlights focus on life beyond work**
+
+The caption accompanying the video further expanded on the idea, stating that living in Europe changed the creators’ understanding of success. It said success no longer meant “always being busy” and highlighted family dinners, peaceful evenings and weekends that genuinely felt like breaks from work.
+
+The post suggested that people in several European countries appeared to prioritise personal time and relationships over professional ambition, contrasting this with perceptions of work culture in India.
+
+## **Mixed reactions from social media users**
+
+The video resonated with many viewers, especially those comparing professional environments in India and Europe. Several users agreed with the observations shared in the clip.
+
+One user commented, “Turning down promotions, true that,” while another wrote, “This is very true and honestly you see this if you have even travelled across Europe.”
+
+However, some users pointed out that experiences may differ depending on profession, country and individual circumstances. One person wrote, “Depends on the field. In my field in Netherlands this is not true.”
+
+Others offered alternative viewpoints, with one user saying, “Actually to be honest I prefer living in Goa bro.” Another comment suggested that such perspectives were influenced by economic privilege, stating, “This is what people say when they live in rich countries.”
+
+Several viewers also expressed agreement with the overall message shared in the video.
+
+---
+
+### SC issues notice to states and UTs, objects to misleading labelling
+*Dhananjay Mahapatra · general*
+
+SC issues notice to states and UTs, objects to misleading labelling (Image credit: PTI)
+
+NEW DELHI: The Supreme Court on Wednesday acknowledged the problems caused by sale of alcohol in tetra packs, deceptively labelled as ‘green apple vodka’ or ‘Chelly Mango Vodka’, and agreed to examine an anti-drunken driving NGO’s plea for standardization of excise policy for packaging and bottling of liquor across states.Appearing for petitioner NGO ‘campaign against drunken driving’ (CADD), advocate Vipin Nair told a bench of Chief Justice Surya Kant and Justices Joymalya Bagchi and Vipul M Pancholi that such deceptive sale of liquor in tetra packs, portable bottles and sachets increase the risk of under-age drinking and drunken driving.The CJI-led bench said the problem is the ‘very deceptive’ packaging which may create a misconception that these packs contained fruit juice.
+
+Nair said that the excise departments across India must follow a uniform policy and standardize the packaging of liquor. The bench responses of all states and UTs to the PIL.“These packages pose various risks, including consumption by juveniles, drinking in a moving vehicle, health risks, increased ease of smuggling, ease of public consumption, and environmental risks. Moreover, the tetra packs have attractive packaging with vivid colours but do not have prominent health warnings like in the case of cigarettes, which would dissuade people from drunken driving and responsible drinking,” the NGO said.
+
+It said, “Such packaging, being deceptively similar to fruit juices, facilitates easy access and concealment, encourages underage consumption, promotes public drinking and drunk driving, and even enables smuggling across State borders.”“It is alarming to note that these tetra packs are marketed under labels such as ‘Bunty Premium Vodka’, ‘Chelli Mango Vodka’ and ‘Premium Romanov Vodka – Apple Thrill’ clearly intended to mislead consumers,” it said.“The use of fruit names alongside colour photographs of apples and mangoes on the packaging further reinforces this deception. This reflects a deliberate marketing strategy to pass off alcoholic beverages as fruit juices, thereby to evade scrutiny by the authorities and further target underage consumers,” it said.After pointing out the problem, the NGO said it could be solved by the Union govt which can guide the states to adopt an uniform liquor packaging policy which would not permit sale in deceptive tetra packs that enables consumers, mostly youth and adolescent, to drink them in public places without any inhibition or fear of law.
+
+---
+
+### Testing Google's New Video Generation Model | TechPulse
+*ET Online · business*
+
+At Google I/O 2026, Google introduced its new Omni AI model for video generation, aimed at making AI-powered video creation more accessible to users. Available for Plus and Pro subscribers, the feature supports image-to-video generation and video-to-video animation conversion directly inside the Gemini app.We tested the new capabilities using the Gemini 3.5 Flash model and tried both image-to-video and video-to-video workflows. The results were impressive overall, delivering smooth animations and strong visual output, with only a few minor hiccups during testing.Watch our hands-on demo to see how Google’s latest AI video tools perform in real-world use cases.
+
+---
+
+### NEET whistleblower alleges paper leak was reported to Sikar cops, police deny claim
+*Sharat Kumar · general*
+
+The controversy surrounding the NEET-UG 2026 paper leak has taken a fresh turn with allegations that officials in Rajasthan’s Sikar district, including the local police administration, were aware of suspicious developments linked to the examination days before the matter became public. Senior police officers, though, have refuted the claims.
+
+The NEET\-UG 2026 exam held on May 3 was cancelled by the National Testing Agency (NTA) after allegations of paper leak. The exam is now rescheduled to be conducted on June 21.
+
+Shashikant Suthar, a teacher associated with a coaching institute in Sikar who claims to be a whistleblower in the case, has alleged that senior local officials, including Sikar Superintendent of Police Praveen Nayak, were informed about a viral "guess paper" soon after the NEET examination held on May 3.
+
+According to Suthar, his landlord Rakesh Swami, who runs a paying guest hostel in Sikar, approached him on the night of the examination with a set of question papers that had gone viral.
+
+Suthar claimed the two later visited the director of Gurukripa Coaching Institute, after which discussions allegedly took place involving administrative officials and the district police regarding how to handle the matter.
+
+The whistleblower has alleged that authorities decided not to address the issue locally and instead chose to escalate it directly to the National Testing Agency (NTA).
+
+He further claimed that from the evening of May 3 until May 7, officials were deliberating over the course of action before finally sending an email to the NTA.
+
+According to the allegations, the email was jointly sent on May 7 by Gurukripa Coaching officials, SP Praveen Nayak and hostel operator Rakesh Swami.
+
+Suthar also claimed that immediately after the email was sent, the group received a phone call from NTA Director General Abhishek Singh.
+
+### SENIOR COP REFUTES ALLEGATIONS
+
+However, Sikar SP Praveen Nayak has categorically denied the allegations.
+
+Responding to questions over the claims, Nayak said, “I have never met the so-called whistleblower, Shashikant Suthar. Ask him if he even recognises my face. I do not know why he is fabricating such a story.”
+
+The Sikar District Collector has also denied that the district administration had prior information regarding any paper leak.
+
+At the same time, SP Nayak confirmed that a few individuals had approached the Udyog Nagar Police Station carrying a large stack of papers connected to the alleged leak.
+
+He said the duty officer asked them to formally lodge a First Information Report (FIR), but they left the station saying they would return later and never came back.
+
+As the paper leak controversy expanded nationwide, speculation has intensified over what exactly transpired in Sikar during the four days between the examination and the formal complaint to the NTA.
+
+The Central Bureau of Investigation (CBI) is now probing the case and has widened its inquiry into possible insider involvement linked to the NTA.
+
+Despite Sikar emerging as one of the earliest centres where the alleged leak surfaced, no punitive action has yet been initiated in the district.
+
+Meanwhile, the NTA has announced that the cancelled NEET-UG 2026 examination will be reconducted on June 21 under tighter security protocols, with admit cards scheduled to be released on June 14.
+
+\- Ends
+
+May 21, 2026 10:01 IST
+
+---
+
+### Loud, broken, baffling: Britain reflects on America at 250 in the age of Trump
+*SECTIONS Loud · business*
+
+Washington, England: Loud. Broken. Baffling.
+
+Ask Brits what they think of their former colonies in 2026, and they note these long-held views of America and Americans. But after 250 years of independence from Britain, the country's former rulers cannot discuss the United States without mentioning President Donald Trump, almost always before listing the many qualities they admire and appreciate in the upstart nation across the pond.
+
+"It's Trump's world now, isn't it?" says Mark Keightley, a printer technician who serves the Cambridge area, about an hour north of London.
+
+  
+
+Over the past year, The Associated Press asked Britons - from George Washington's ancestral home near Scotland to Cambridge, Bristol and London - a neutral question: "What do you think of America now?" Virtually every answer, even from those like Keightley who support some of the president's policies, begins with a considered pause, followed by a crisp euphemism for Trump and the Trump era.
+
+"Your president ..." "The current state of politics ..." and "He ..." with no ambiguity about who, are typical. And they suggest as much about the British perception of their former colony as the commentary that tends to come next. Is it possible to talk about America now without referencing Trump, they are asked? The unanimous answer, according to these interviews: No.
+
+"My own opinion of America is now dictated by the president and he's not covering himself in glory as far as I'm concerned," said Eddie Boyle of Falkirk, Scotland, as he walked across Westminster Bridge in London last week. "It's a shame that such a long arrangement between the two countries has been tarnished."
+
+  
+
+## 'The Country disappoints me'
+
+Being British and disappointed by the reality of the United States isn't a new phenomenon.
+
+Charles Dickens wrote to a friend that he felt just that way during his 1842 visit to the new nation, where he was feted from Boston to New York and Washington - and reportedly earned a fortune from public readings of his work. But he was horrified by the ongoing practice of slavery, which Britain abolished in 1833. And the celebrated freedom of expression that Americans had enshrined in the First Amendment, he wrote, had gone awry with "a press more mean, and paltry, and silly, and disgraceful than any country I ever knew."
+
+Also, he wrote in a travelogue, Americans spit in public - a "filthy custom."
+
+"This is not the Republic I came to see. This is not the Republic of my imagination," he wrote to William Charles Macready on March 22, 1842. "In every respect but that of National Education, the Country disappoints me."
+
+Over time, the history of the U.S.-U.K. relationship unfolded in such a way that no one event or president can define it.
+
+Several inflection points inspired Britain to take America seriously as a permanent power and not a temporary, rebellious whim. Among them, the War of 1812 - a rematch of sorts between the two nations. It ended in a draw, but the conflict boosted the sense of American independence and established the United States as a sturdy trading and military force to be reckoned with.
+
+The new country then survived its own Civil War. Then, before a century elapsed, the United States helped Britain fend off Nazi occupation and, with the rest of the Allied powers, defeated Germany during World War II. Four decades later, the storied friendship between President Ronald Reagan and Prime Minister Margaret Thatcher helped drive the collapse of the Soviet Union in 1991.
+
+"They did something great there," Maria Miston of Suffolk, pausing recently near Big Ben, says of Thatcher and Reagan. "They actually managed to bring the Cold War to an end." She notes that the U.S.-led invasion of Iraq in 2003 damaged the superpower's image around the world. And, she thinks, it hasn't gotten better. "We've just gone backwards since then."
+
+## Trump rebrands the 'special relationship'
+
+During his second term, the American president first tolerated his fellow head of government, British Prime Minister Keir Starmer, but then dismissed him as " not Winston Churchill " over the premier's refusal to involve the U.K. in the U.S. war against Iran.
+
+Trump has suggested that he considers the king, not the prime minister, to be his peer. The president was deeply flattered by the king's invitation for an unprecedented second state visit to England - and a dazzling royal dinner at Windsor Castle - last year as well as Charles' recent visit to Washington. In the U.S., Charles said the four-century-long U.S.-British relationship is "more important today than it has ever been," even as he laid in support for checks and balances - seen as an implicit criticism of Trump.
+
+The White House posted on social media that the pair are "TWO KINGS," - in part, perhaps, a clapback to the "No Kings" rallies that drew crowds across the U.S. during Charles' visit. But the irony was not missed in the land of the Declaration of Independence, the U.S. Constitution, Thomas Paine's "Common Sense," and more founding-era documents that rejected the rule of Charles' five-times great-grandfather, King George III, and government by monarchy generally.
+
+Back home, where polls showed significant opposition to the king's visit beforehand, Charles' performance won raves as a show of soft power. That seemed all the more noteworthy given the obvious tension between the monarch and the president over climate issues, and Trump's threat to make Canada the 51st state, where Charles is sovereign.
+
+"May I say, well done in the Americas," rock star Rod Stewart told Charles at a May 11 gala within earshot of reporters. "You were superb, absolutely superb, put that little rat bag in his place."
+
+Polls show Britons have soured on America. Only 28% of British adults approved of U.S. leadership in a Gallup poll conducted in the late summer and early fall of 2025, while 68% disapproved. That's broadly in line with views of U.S. leadership during Trump's first term, and lower than approval of U.S. leadership under Democratic President Joe Biden, when around 45% of U.K. adults approved of American leadership.
+
+The Pew Research Center's 2025 Global Attitudes Survey, conducted in the spring of that year, found that roughly half of U.K. adults had a favorable view of the U.S. British adults had a sunnier view of America in the first two years of Biden's presidency, when about two-thirds had a favorable view of the U.S. That fell to 54% by the spring of 2024.
+
+U.S.-U.K. relations have been strained in recent history, The Suez Canal crisis in 1956, for example, proved a stark reminder of Britain's waning power and American ascendancy on the world stage. A decade later, Britain resisted pressure from the U.S. to join the Vietnam War.
+
+## Watching the American experiment under Trump
+
+Throughout the years, watching America has become something of a spectator sport in Britain, if only to gauge how well - or poorly, or amusingly - the cousins across the Atlantic are doing democracy their way.
+
+Nowadays, Brits readily acknowledge a long list of American qualities they admire alongside those that anger or mystify them. To the good: American ambition. The country's wealth. Its military might. Its vastness. Its television, music and movies. And its resilience despite racial tensions and the Jan. 6, 2021, insurrection at the U.S. Capitol.
+
+In parallel runs the rest: America's gun violence, which seems hard to fathom when viewed from Great Britain, where handguns were outlawed in 1997 after a school massacre. Immigration crackdowns in the U.S. seem puzzling to many Brits given that America was founded by immigrants. Though, like much of Europe, the U.K. has its own issues with people trying to enter the country illegally.
+
+Topping the list of mysteries is Trump, the 47th president during the snapshot in time when the United States celebrates 250 years of independence. Talking about him is socially sensitive, Brits say, with Brexit still a raw tear through society and populist reform, led by some Trump supporters, on the rise in recent local elections.
+
+"How can someone like that become president?" Mark Gibson asked over an ale recently at The Cross Keys pub in Washington, down the hill from the first president's ancestral home. He understands why Americans elected other men as their leaders, even if he didn't agree with them. But Trump? "I don't understand it. He's had bankruptcies and legal troubles."
+
+"But," Gibson adds, "I guess that's what people wanted. They elected him twice."
+
+---
+
+### Bought land, ran clinic: Bangladeshi man living in UP arrested after 14 years
+*Ashish Srivastava · general*
+
+## Lucknow Police and intelligence agencies are now investigating whether the Bangladeshi national was also involved in any suspicious activities. His family and close associates are also likely to be questioned.
+
+A case has been registered under multiple sections, including the Foreigners Act.
+
+Lucknow Police have arrested a Bangladeshi national who had been living in India illegally for the last 14 years using fraudulently obtained documents. Police believe he had also purchased land in a village near Lucknow, raising suspicion of a larger network at play.
+
+Foreign nationals are not allowed to buy land or property in India, as per Indian law.
+
+According to police officials, Arup Bakshi is originally from Narail district in Bangladesh. He illegally entered India in 2012 and lived with a doctor in Sitapur until 2014. During this period, he managed to obtain an Aadhaar card, voter ID, driving licence, and even an Indian passport. He also opened a bank account using these Indian documents, police said.
+
+In 2014, he began living a normal life in the Bakshi Ka Talab area of Lucknow while keeping his Bangladeshi identity hidden from local residents.
+
+Investigation revealed that the accused purchased about 800 square feet of land in Mampar Bana village of Lucknow district using these documents. Police are now preparing a list of his contacts in Sitapur and Lucknow in an effort to unravel the network that helped him forge documents and illegally acquire property.
+
+What shocked the police the most was that Bakshi was running a clinic without any medical degree.
+
+Police have recovered Aadhaar cards, mobile phones, and several other suspicious documents from him. A case has been registered under multiple sections, including the Foreigners Act.
+
+Lucknow Police and intelligence agencies are now investigating whether the Bangladeshi national was also involved in any suspicious activities. His family and close associates are also likely to be interrogated, officials said.
+
+The revelation that an illegal migrant was living in Lucknow has raised serious questions about possible lapses in the system.
+
+\- Ends
+
+Aprameya Rao
+
+May 21, 2026 09:58 IST
+
+---
+
+### I get angry when people say 99% of their code is written by AI: Linux creator
+*Armaan Agarwal · general*
+
+## Linus Torvalds, the creator of Linux, has revealed that while AI can be a great tool for coders, he gets furious whenever he hears someone say that 99 per cent of their code was written by AI.a
+
+Linus Torvalds says he gets angry when people use AI to write 99 per cent of code. (Representational image made with AI)
+
+AI is now everywhere, and for almost every task out there. And the biggest impact AI has arguably had is on coding. Tools like Anthropic’s Claude Code and OpenAI’s Codex are now being used widely as many switch to vibe coding – the use of AI to write code. But Linux creator, Linus Torvalds, says that coding still needs the human touch. So much so that Linus claimed that he gets angry whenever someone claims that almost all of their code was written by AI.
+
+Linus Torvalds created Linux – an open-source operating system – in 1991. Since then, Linux has found favour amongst programmers, and is widely used globally in the majority of web servers and supercomputers.
+
+At a time when companies like Anthropic claim that AI now writes almost all of its code, Linus believes that AI should actually be treated only as a tool. He said, as quoted by Zdnet, “My opinion has always been that AI is a great tool, but it's a tool.”
+
+The Linux creator had strong views on those who believe that AI can write all the code for them. He added, “When I see people saying, 'hey, 99 per cent of our code is written by AI,' I literally get angry."
+
+### AI won’t change the fundamentals
+
+Linus Torvalds accepted that AI was bringing change, but he stood firm to the fact that one needs to know the basics themselves. He explained, "I'm personally 100% convinced that AI is changing programming, but it's not changing the fundamentals."
+
+According to the Linux creator, the impact of AI on coding was going to be similar to compilers. He added that AI tools “will increase your productivity by a factor of 10.” Compilers are tools that can turn human-readable code into machine-readable binary code.
+
+Linus explained that the shift towards AI tools may be similar to how programmers moved to compilers in the past. He explained, “A lot of people will use AI to generate the code that the compilers use to generate the code that the assemblers then use to generate the machine code. This is revolutionary in the same sense that we've seen revolutions before."
+
+### AI is making it easier for new coders
+
+Linus Torvalds agreed that AI tools lower the barrier for new coders, with more programmers now contributing to Linux. However, he believes that even if a new developer is using AI to code, it is important for them to understand what the generated code does.
+
+He stated, “You need to understand not just your prompts, but you need to understand the end result too, because that's the only way you can maintain it long term.”
+
+Do note that Linus’ comments come at a time when many companies are increasingly pushing for more AI-written code, such as Meta and Amazon, who are also laying off workers to invest more in AI. However, some seem to have similar views to Torvalds. Recently, C++ creator Bjarne Stroustrup has claimed that AI-generated code is so bad that many developers are actually retiring instead of dealing with it.
+
+\- Ends
+
+Armaan Agarwal
+
+May 21, 2026 09:58 IST
+
+---
+
+### Iran reviews latest US response as Trump suggests he can wait
+*Reuters · business*
+
+DUBAI/WASHINGTON: Iran said on Thursday it was reviewing Washington's latest position on ending the war after U.S. President Donald Trump suggested he was prepared to wait a few days to "get the right answers" from Tehran but warned of renewed attacks if it did not agree to a deal.
+
+"We have received U.S. ​views and are reviewing them," Iranian state-run agency Nour News quoted Foreign Ministry spokesperson Esmaeil Baghaei as saying.
+
+Pakistan, which hosted peace talks last month and is acting as the conduit for messages between the two sides, continues to mediate between Tehran and Washington, he added, with several rounds of communication having taken place. Pakistan's interior minister was in Tehran on Wednesday.
+
+  
+
+Six weeks since a ‌fragile ceasefire came into force, ⁠talks to ⁠end the war have shown little progress, while soaring oil prices have raised concern over inflation and the impact on the global economy. Trump is also under pressure at home ahead of midterm elections ​in November, with his approval rating dropping close to its lowest level since he returned to the White House on the surge in fuel prices.
+
+"Believe me, if we don't get ​the right answers, it goes very quickly. We're all ready to go," Trump told reporters at Joint Base Andrews. Asked how long he would wait, Trump said, "It could be a few days, but it could go very quickly."
+
+Trump reiterated his determination not to allow Iran to acquire a nuclear weapon. "We're in the final stages of ​Iran. We'll see what happens. Either have a deal or we're going to do some things that are ⁠a little ‌bit nasty, but hopefully that won't happen," Trump told reporters earlier in the day. "Ideally, I'd like to see few people killed, as ​opposed to a lot. ​We can do it either way."
+
+Earlier, Iran's Revolutionary Guards warned against renewed attacks. "If aggression against Iran is repeated, the promised regional ⁠war will extend beyond the region this time," it said in a statement.
+
+Iran submitted its latest offer to the U.S. this week. Tehran's descriptions suggest it largely repeats terms Trump previously rejected, including demands for control of the Strait of Hormuz, compensation for war damage, lifting of sanctions, release of frozen assets and the withdrawal of U.S. troops.
+
+## CHINESE TANKERS CROSS STRAIT
+
+The Strait of Hormuz, which carried a fifth of oil and liquefied natural gas shipments before the war, has been all but closed since the war began in the most serious disruption to global energy supplies in history.
+
+On Wednesday, Iran released a map showing a "controlled maritime zone" at the strait and said transit would require authorisation from an authority set up to control the area. It says it aims to reopen the strait to friendly countries that abide by its terms. That could potentially include fees ‌for access, which Washington says would be unacceptable.
+
+Two Chinese supertankers carrying a total of around 4 million barrels of oil exited the strait on Wednesday, while a South Korean tanker with 2 million barrels of crude loaded in Kuwait was also crossing the strait ​in cooperation with Iran.
+
+Shipping ​monitor Lloyd's List said at least 54 ships ⁠had transited the strait last week, about double the previous week. Iran said 26 ships had crossed in the past 24 hours, still only a fraction of the 125 to 140 daily passages before the war.
+
+U.S.-Israeli bombing killed thousands of people in Iran before the ceasefire. Israel has also killed thousands more and ​driven hundreds of thousands from their homes in Lebanon, which it invaded in pursuit of the Iran-backed Hezbollah armed group. Iranian strikes on Israel and neighbouring Gulf states have killed dozens of people.
+
+Trump and Israeli Prime Minister Benjamin Netanyahu said their war aims were to curb Iran's support for regional militias, dismantle its nuclear programme, destroy its missile capabilities and make it easier for Iranians to topple their rulers.
+
+But Iran has so far retained its stockpile of near-weapons-grade enriched uranium, and its ability to threaten neighbours with missiles, drones and proxy militias. Its clerical rulers, who put down a mass uprising at the start of the year, have faced no sign of organised opposition since the war began.
+
+---
+
+### Ebola Scare In Delhi? IGI Airport Issues Health Alert For International Travellers
+*Anushka Vats · general*
+
+Ebola is a rare but serious viral disease that can spread between humans and has a high death rate in severe cases.
+
+[Read full article](https://www.news18.com/india/ebola-scare-in-delhi-igi-airport-issues-health-alert-for-international-travellers-ws-l-10103051.html)
+
+---
+
+### Tamil Nadu's Vijay-led TVK govt expands cabinet, 23 MLAs to take oath as ministers today
+*SECTIONS Tamil Nadu's Vijay-led TVK govt expands cabinet · business*
+
+Days after its first portfolio allocation, the Tamil Nadu government is set to induct 23 more newly elected MLAs into the State Cabinet on Thursday, after Governor Arlekar approved the appointments ahead of the swearing-in ceremony scheduled at Lok Bhavan in Chennai.
+
+The expansion marks the second major addition to the newly formed Vijay-led TVK government after the recent Assembly elections.
+
+  
+
+Among those to be inducted are Srinath from Thoothukudi, Kamal from Avinashi, C Vijayalakshmi from Kumarapalayam, RV Ranjithkumar from Kancheepuram and Vinoth from Kumbakonam. Rajeev from Thiruvadanai, B Rajkumar from Cuddalore and V Gandhiraj from Arakkonam also figure in the list.
+
+The new Council of Ministers will additionally include Mathan Raja from Ottapidaram, K Jegadeshwar from Rajapalayam, Rajesh Kumar from Killiyoor and M Vijay Bala from Erode East. MLAs Logesh Tamilselvan D from Rasipuram and Vijay Tamilan Parthiban A from Salem South are also among the appointees.
+
+Ramesh from Srirangam, P Viswanathan from Melur, Kumar R from Velachery and K Thennarasu from Sriperumbudur will take oath alongside V Sampath Kumar from Coimbatore North and Mohamed Farvas from Aranthangi.
+
+The remaining inductees are D Sarathkumar from Tambaram, N Marie Wilson from Dr Radhakrishnan Nagar and Vignesh K from Kinathukadavu.
+
+## Earlier portfolio allocation
+
+The Cabinet expansion comes close on the heels of the government’s portfolio allocation exercise earlier this week.
+
+According to an official statement issued from Lok Bhavan, Chief Minister Vijay retained several core departments including Home, Public, General Administration, Police, Municipal Administration, Urban and Water Supply, Special Programme Implementation, and Women and Youth Welfare.
+
+He will also oversee departments 
+
+N Anand was entrusted with Rural Development and Water Resources, while Aadhav Arjuna will handle Public Works and Sports Development. Dr K G Arunraj was assigned Health, Medical Education and Family Welfare, and senior leader K A Sengottaiyan will head the Finance portfolio.
+
+P Venkataramanan was allocated Food and Civil Supplies, while R Nirmalkumar will oversee Energy Resources and Law. Rajmohan, meanwhile, was made charge of School Education, Tamil Development, Information and Publicity, while Dr T K Prabhu will manage Natural Resources. Industries has been allotted to Selvi S Keerthana.
+
+The party emerged as the single largest formation in the Assembly elections with 108 seats and later secured support from Congress, VCK, Left parties and the IUML to form the government, ending the long-standing dominance of the DMK and AIADMK in the State.
+
+---
+
+### After Schools, Bengal Makes Vande Mataram Mandatory In All Madarsas
+*Anushka Vats · general*
+
+West Bengal government orders all madarsas under West Bengal Madrasah Education Board to make Vande Mataram compulsory.
+
+[Read full article](https://www.news18.com/india/after-schools-bengal-makes-vande-mataram-mandatory-in-all-madarsas-ws-l-10103034.html)
+
+---
+
+### Rupee jumps to 96.30 against US dollar; share markets open marginally higher
+*Express Web Desk · legal*
+
+Rupee settled at 96.82 during Wednesday's close.
+
+Indian stock markets opened higher on Thursday, amid a steep drop in oil prices over signals that the US and Iran may be nearing a deal to end the Middle East conflict.
+
+The BSE Sensex rose ⁠0.55% to 75,732.42, while Nifty 50 saw a 0.72% increase to ​23,830.05 ​as of 9.15 am.
+
+The Indian rupee jumped sharply by 0.54% in early trade to hit 96.30 against US dollar, after having settled at 96.82 during Wednesday’s close.
+
+At 7.28 am, GIFT Nifty futures were trading at 23,791.50, hinting at a higher opening for benchmark Nifty 50 than Wednesday’s close at 23,659.
+
+Asian markets gained 2.7% after US President Donald Trump Wednesday said that negotiations with Iran were in their final stages.
+
+INDIAN RUPEE OPENS UP 0.54% AT 96.30 PER U.S. DOLLAR; PREVIOUS CLOSE 96.82
+
+---
+
+### Bengaluru's Bowring Hospital Wall Hid Years Of Illegal Dumping. Seven People Paid With Their Lives | Probe Report Revealed
+*Sumedha Kirti · general*
+
+Seven dead, seven injured after Bengaluru's Bowring Hospital wall collapsed on April 29. Chief Secretary ordered a structural probe — and what it found is damning.
+
+[Read full article](https://www.news18.com/cities/bengaluru-news/bengalurus-bowring-hospital-wall-hid-years-of-illegal-dumping-seven-people-paid-with-their-lives-probe-report-revealed-10103000.html)
+
+---
+
+### Meta CEO tells employees he does not expect more company-wide layoffs this year
+*Reuters · legal*
+
+The ‌changes are part of a far-reaching ​overhaul taking place at Meta this ‌year, as the company surges its AI investments in a bid to center AI agents ‌in both ​its product ​offerings ​and its approach to work internally.(Express Image)
+
+Meta CEO Mark Zuckerberg told employees in an internal memo on Wednesday that he does not expect more company-wide layoffs this year, according to a copy of the memo seen by Reuters. He made the announcement on the ⁠same ​day the Facebook owner carried out a massive restructuring of the company, laying off 10% of its workforce globally and transferring 7,000 other employees to new initiatives ​
+
+“I want to ⁠be clear that we do not expect other company-wide layoffs this year. I also ‌want to acknowledge that we haven’t been as clear as we aspire to be in our communication, and that’s one area I want to make sure we improve,” he said in the memo.
+
+Employees left comments on his post quoting ⁠the words “company-wide” ⁠and “expect.”
+
+“Things sometimes go ‘unexpectedly,'” one person wrote.
+
+A Meta spokesperson declined to comment on the ⁠update.
+
+The ‌changes are part of a far-reaching ​overhaul taking place at Meta this ‌year, as the company surges its AI investments in a bid to center AI agents ‌in both ​its product ​offerings ​and its approach to work internally.
+
+In total, the layoffs and transfers announced this ​week are hitting about 20% of the ⁠company’s workforce. Some of the transfers have already happened, while in other cases employees are being notified on ‌Wednesday. Reuters ⁠previously reported that Meta was planning additional deep cuts for later this year.
+
+---
+
+### After Bihar poll drubbing, Prashant Kishor opts for ashram life till next polls
+*TOI News Desk · general*
+
+NEW DELHI: Jan Suraaj founder Prashant Kishor on Wednesday said that he had moved to an ashram on the outskirts of Patna till the next assembly polls in Bihar.While talking to reporters in Bihar's Darbhanga, PK said, "Last night, I shifted out of the place in Patna where I had been living.
+
+The Bihar Navnirman Ashram, situated close to IIT-Patna, shall be my abode till the next assembly polls when the Jan Suraaj Party will, hopefully, make an impact.
+
+"This comes months after the poll strategist-turned-politician launched his party before the Bihar assembly polls, but failed to win a single seat.Kishor had until now been operating from 'Sheikhpura House', a sprawling bungalow near Patna airport owned by the family of party national president and former BJP MP Uday Singh.Singh belongs to one of the prominent families of Bihar. NK Singh is a former Rajya Sabha MP and former chairman of the 15th Finance Commission, while their late mother, Madhuri Singh, was a senior Congress leader and multiple-term MP from Purnea.PK also targeted former Bihar chief minister Nitish Kumar after his son was inducted into the Bihar cabinet as health minister."The one who got elected as chief minister after the elections was unable to stop migration caused by economic distress.
+
+Instead, he chose to migrate himself, but not before ensuring that his son gets a foothold," he said.He urged voters in Bihar to prioritise their own interests rather than vote on the basis of caste, religion, or monetary inducements."The people of Bihar must think about the future of their own children while casting votes. They should not get swayed by leaders like Prime Minister Narendra Modi, Nitish Kumar or Lalu Prasad, nor should they sell their votes for Rs 10,000," he said.The remark was seen as a reference to the Mukhyamantri Mahila Rojgar Yojana launched ahead of the assembly elections, under which over 1.5 crore women received Rs 10,000 each.PK also warned of possible economic challenges arising from the situation in West Asia, claiming that fuel prices could rise sharply and fertiliser shortages may worsen."People may witness an increase in petrol and diesel prices by up to Rs 10 per litre. We may also face a major fertiliser crisis. Till now, farmers complained of black marketing; now they may face outright unavailability," he said.
+
+---
+
+### ‘Long-tainted record of genocidal acts’, India slams Pakistan over civilian deaths in Afghanistan at UNSC
+*Express Web Desk · legal*
+
+India's Permanent Representative to the UN Ambassador Harish Parvathaneni (Photo/ANI)
+
+India slammed Pakistan at the UNSC over its “long-tainted record of genocidal acts”, stating that cross-border violence perpetrated by Islamabad in Afghanistan killed 750 civilians and wounded several others.
+
+While speaking at the Annual UNSC Open Debate on “Protection of civilians in armed conflict”, India’s Permanent Representative to the UN Ambassador Harish Parvathaneni said that the documentation by the United Nations Assistance Mission in Afghanistan (UNAMA) attributed 94 of 95 incidents of civilian casualties to Pakistani Security forces.
+
+“It is ironic that Pakistan, with its long-tainted record of genocidal acts, has chosen to refer to issues that are strictly internal to India. The United Nations Assistance Mission in Afghanistan has reported that in the first three months of 2026, 750 civilian deaths and injuries were documented in Afghanistan as a result of cross-border armed violence perpetrated by Pakistani military forces, most of which occurred due to air strikes,” he said.
+
+Parvathaneni then said that Pakistan was behind the airstrike on Omid Addiction Treatment Hospital in Kabul, which killed 269 people, all civilians.
+
+“The UNAMA documentation attributed 94 of 95 incidents of civilian casualties to Pakistani Security forces. The world has not forgotten that it was during the holy month of Ramadan in March this year, at a time of peace, reflection, and mercy, that Pakistan conducted a barbaric airstrike on the Omid Addiction Treatment Hospital in Kabul. Again, according to UNAMA, this cowardly and unconscionable act of violence claimed the lives of 269 civilians and injured a further 122 in a facility which can by no means be justified as a military target,” he said.
+
+**‘Targeting innocent civilians in the dark’**
+
+The Indian envoy further condemned Pakistan for “ignoring” international calls to protect civilians.
+
+“It is hypocritical to espouse high principles of international law while targeting innocent civilians in the dark. The air strikes by Pakistan occurred at the conclusion of tarawih evening prayers, when numerous patients were leaving the masjid, as per UNAMA,” he said, referring to Pakistan’s strikes on Afghanistan earlier this year.
+
+Story continues below this ad
+
+Parvathaneni then stated that such “heinous acts of aggression” by Pakistan should not come as a surprise, as it was a country that “bombs its own people and conducts systematic genocide.”
+
+---
+
+### Delhi Horror: Mother, Teenage Son Stabbed To Death At Home; Cash, Jewellery Missing
+*Vani Mehrotra · general*
+
+A woman and her teenage son were allegedly stabbed to death inside their Govindpuri home in southeast Delhi during the early hours of Thursday.
+
+[Read full article](https://www.news18.com/india/delhi-govindpuri-double-murder-mother-son-stabbed-to-death-cash-jewellery-missing-police-investigation-ws-l-10103032.html)
+
+
+---
+
 ## 20 May 2026
 
 ### Andrej Karpathy, OpenAI co-founder and creator of vibe coding, joins Anthropic
