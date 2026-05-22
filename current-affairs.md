@@ -1,3 +1,715 @@
+## 22 May 2026
+
+### Honda City facelift, Z-RV launch live updates: Price, features, design and more
+*Saumya Shubham Jha · general*
+
+### Download App
+
+NewsAutoCarsHonda City facelift, Z-RV launch live updates: Price, features, design and more
+
+Live blog
+
+After a long gap without any major product launches, Honda Cars India is set to introduce two new models today, the updated Honda City and the ZR-V.
+
+Honda Z-RV (L) and Honda City facelift (R) (Photo: Instagram/@aryanverse\_)
+
+After a prolonged period without any significant product launches, Honda Cars India is introducing two new models today, the updated Honda City and the all-new ZR-V. The City receives the second facelift for its fifth-generation model, aimed at helping the sedan stay relevant in an SUV-centric market. The current-generation City was first updated in 2023, and this latest refresh is expected to keep the model competitive until the arrival of an all-new generation later this decade. Meanwhile, the ZR-V marks an entirely new nameplate for the Indian market and is likely to arrive as a full import, taking position as Honda’s flagship SUV in the country. Expected to be priced around Rs 40-50 lakh (ex-showroom), the ZR-V will enter the premium five-seat SUV segment.
+
+...
+
+May 22, 2026 10:10 IST
+
+### Honda City facelift design updates
+
+The updated Honda City will receive its most noticeable styling changes at the front. Spy shots indicate the sedan will get redesigned LED headlamps with integrated DRLs linked by a slim LED light bar running across the grille. The grille itself looks wider and features a layered mesh-style pattern, while the Honda badge has been repositioned closer to the bonnet edge, lending the sedan a more modern look inspired by Hondaâ€™s latest global models.
+
+May 22, 2026 10:06 IST
+
+### What are the launch timings and where will the event take place?
+
+Honda will launch the updated City facelift and the all-new ZR-V in Delhi at 12pm today.
+
+May 22, 2026 10:03 IST
+
+### Honda to launch the facelifted City and the Z-RV
+
+Honda Cars India is set to launch the updated Honda City today, marking the second major facelift for the sedan since the fifth-generation model made its debut in 2020. Meanwhile, the ZR-V will signal Hondaâ€™s return to the premium CBU segment following the exit of the Accord Hybrid from India. Positioned above the Honda Elevate, the ZR-V e:HEV will cater to buyers seeking a refined and premium five-seat SUV experience.
+
+---
+
+### Schools closed due to heat in several states, check the list here
+*India Today Education Desk · general*
+
+## With temperatures crossing 45 degrees Celsius in several regions, multiple states have either advanced or extended school summer vacations. District administrations and education departments are now prioritising student safety amid severe heatwave warnings issued by the IMD.
+
+School closures 2026 full list: Delhi, UP, Bihar, Punjab extend vacations due to heatwave
+
+As severe heatwave conditions continue sweeping across large parts of India, several state governments and district administrations have either advanced summer vacations or revised school timings to protect students from extreme temperatures.
+
+With temperatures crossing 45 degrees Celsius in many regions, authorities have cited health risks, heat-
+
+The India Meteorological Department (IMD) has already issued warnings for severe heatwave conditions across northern, central and eastern India, prompting urgent preventive measures in schools.
+
+### BIHAR TIGHTENS RULES AS HEAT INTENSIFIES
+
+In Bihar, the Patna District Magistrate has ordered a temporary change in school functioning due to the ongoing heatwave.
+
+According to the directive, classes up to Standard 5 will remain completely suspended from May 22 to May 26. Meanwhile, students from Standards 6 to 8 will attend classes only till 10:30 am during this period.
+
+The administration said the decision was taken to minimise students’ exposure to dangerous afternoon temperatures.
+
+### STATE-WISE SCHOOL HOLIDAY SCHEDULE
+
+State
+
+Holiday Dates / Orders
+
+Delhi
+
+May 11 to July 1
+
+Uttar Pradesh
+
+May 20 to June 15
+
+Bihar
+
+June 1 to June 20
+
+Rajasthan
+
+May 17 to June 20
+
+Haryana
+
+June 1 to June 30
+
+Punjab
+
+May 25 to July 1
+
+Telangana
+
+April 24 to June 11
+
+Andhra Pradesh
+
+April 24 to June 11
+
+Odisha
+
+From April 27
+
+Chhattisgarh
+
+April 20 to June 15
+
+West Bengal
+
+May 11 to May 31
+
+Patna
+
+Std 5 classes suspended till May 26
+
+Lucknow
+
+Summer vacation from May 22
+
+### LUCKNOW DECLARES EARLY SUMMER HOLIDAY
+
+In Uttar Pradesh, Lucknow District Magistrate Vishak G announced immediate summer holidays for all schools across educational boards from May 22, 2026.
+
+The order stated that despite repeated advisories issued by the meteorological department regarding extreme heat and loo conditions, several schools had not yet declared holidays.
+
+Calling student safety a priority, the administration directed all schools to strictly comply with the order. Officials expressed concern over children travelling and attending classes during peak heat hours.
+
+Apart from Lucknow, districts such as Noida and Ghaziabad had already instructed schools to operate only between 7 am and 12 pm before the holiday period officially began.
+
+### STATES ACROSS INDIA EXTEND SCHOOL BREAKS
+
+Several other states have also revised their academic calendars due to the heatwave.
+
+In Delhi, schools are closed from May 11 to July 1. Rajasthan announced summer holidays from May 17 to June 20, while Haryana schools will remain shut from June 1 to June 30.
+
+Punjab schools will begin holidays from May 25, with classes expected to resume on July 1 after an extended break.
+
+Meanwhile, Telangana and Andhra Pradesh declared holidays from April 24 to June 11. Odisha advanced its holiday schedule from April 27 following reports of severe heat conditions affecting students.
+
+Chhattisgarh is witnessing one of the longest summer breaks this year, with schools closed from April 20 to June 15.
+
+In West Bengal, government-aided and sponsored schools are observing summer holidays from May 11 to May 31 after the state extended the break due to rising temperatures.
+
+### SCHOOLS ASKED TO FOLLOW SAFETY MEASURES
+
+Apart from closures, education departments in multiple states have issued advisories asking schools to avoid outdoor activities, ensure proper drinking water facilities and conduct classes only during morning hours.
+
+Authorities have also urged schools to remain alert about symptoms of heatstroke and dehydration among students.
+
+\- Ends
+
+Princy Shukla
+
+May 22, 2026 09:49 IST
+
+---
+
+### Tamil Nadu CM C Joseph Vijay expands cabinet, VCK and IUML join
+*Prisha Vibhavari · general*
+
+Tamil Nadu CM C Joseph Vijay expands cabinet to 34, inducts VCK and IUML leaders, raises Dalit ministers to eight.
+
+[Read full article](https://www.news18.com/india/vijays-cabinet-expansion-two-mlas-from-tvk-allies-iuml-vck-take-oath-as-ministers-tamil-nadu-10105129.html)
+
+---
+
+### From love to tragedy: Twisha Sharma’s wedding video surfaces as mystery deepens
+*Ravish Pal Singh · general*
+
+## A wedding teaser featuring Twisha Sharma and Samarth Singh has surfaced as police investigate her death at her Bhopal matrimonial home. The video has added a poignant layer to a case that has sparked a massive controversy and a bitter fallout between the two families.
+
+Twisha Sharma and her husband Samarth Singh
+
+A newly surfaced wedding teaser video of Noida resident Twisha Sharma and her husband, Samarth Singh, has drawn intense public scrutiny amid an ongoing dowry death investigation into her tragic demise at her matrimonial home in Bhopal. The video has added a poignant layer to a case that has sparked a massive controversy and a bitter fallout between the two families.
+
+The five-and-a-half-minute cinematic video, shot with soft portrait lighting and a pronounced bokeh effect, captures numerous celebratory moments. Throughout the footage, Sharma and Singh speak candidly about their relationship, reflecting a seemingly deep bond. The couple tied the knot in December 2025 after dating for nearly a year.
+
+In one notable segment, Twisha's brother, Harshit Sharma, remarks, “You can only cherish love if you have some hatred towards each other. The next frame shows the couple sharing a warm embrace as they prepare to embark on their married life with a voice saying, "We were sworn enemies at one point."
+
+The affectionate exchanges and lighthearted reflections in the video depict a strong romantic connection, offering no hint of the tragedy that would unfold just five months later. Today, Sharma is deceased, having been found hanging from an exercise rod at her Bhopal residence. Singh remains at large as law enforcement officials continue their dowry death probe against him and his family members.
+
+### JIJU MIGHT BE A LAWYER, BUT TWISHA IS THE JUDGE AT HOME
+
+Other than Twisha and Samarth, a lot of their friends, relatives, and family members were also seen talking about them in a light-hearted manner.
+
+In one such frame, a relative of Twisha said, “Jiju lawyer honge court me, ghar me to judge Twisha hi hain (Brother-in-law might be a lawyer in court, but at home it is Twisha who is the boss), reiterating the age-old notion that women are the real bosses at home.
+
+Another relative of Twisha spoke about how excited she was after coming across Samarth’s profile for the first time on the dating app. “Look at this guy, he seems interesting. He is well-spoken, and his photos and videos are good,” said that person.
+
+The wit, the charm, and the celebrations that were captured in the video lasted for only five months. After Twisha’s death, both families are at each other’s throats. Twisha’s mother-in-law, Giribala Singh, made some derogatory remarks about the victim’s mental health while the victim’s family accused her in-laws of mental harassment over dowry claims.
+
+\- Ends
+
+Akash Chatterjee
+
+May 22, 2026 09:47 IST
+
+---
+
+### LIC shares jump 5% after Q4 results, first-ever bonus issue. Here's what brokerages say
+*Debaroti Adhikary · general*
+
+Synopsis
+
+LIC shares jumped around 5% on Friday after the state-run insurer announced its first-ever 1:1 bonus issue and a Rs 10 dividend, alongside strong Q4 results. Consolidated net profit rose 23% year-on-year to Rs 23,467 crore, while net premium income increased 12% to Rs 1.65 lakh crore. For FY26, net profit climbed over 19% and AUM crossed Rs 57 lakh crore.
+
+Listen to this article in summarized format
+
+ETMarkets.com
+
+Life Insurance Corporation of India (LIC) shares rose around 5% on Friday after the state-run insurer announced its results, declared its first-ever 1:1 bonus issue and a dividend of Rs 10 per share, triggering bullish calls from brokerages.
+
+LIC on Thursday reported a consolidated net profit of Rs 23,467 crore for the fourth quarter of FY26, marking a 23% year-on-year (YoY) rise from the Rs 19,039 crore profit reported in the corresponding quarter of the previous financial year. The firm’s net premium income, meanwhile, rose 12% YoY to Rs 1.65 lakh crore for the quarter under review against Rs 1.48 lakh crore a year earlier.
+
+For the financial year ended March 31, 2026, LIC reported a more than 5% rise in assets under management (AUM) to Rs 57.29 lakh crore, while net profit increased over 19% year-on-year to Rs 57,419 crore.
+
+As part of the bonus issue, LIC will issue one new fully paid-up equity share of Rs 10 each for every one existing fully paid-up equity share of Rs 10 each. May 29 has been fixed as the record date for determining shareholder eligibility. Meanwhile, the record date for the final dividend of Rs 10 for FY26 has been set as June 25.
+
+  
+
+## Citi on LIC share price
+
+Citi has a ‘Buy’ call on LIC, with a target price of Rs 1,475 apiece, implying an upside potential of more than 84% from the stock’s previous closing price of Rs 800 apiece on NSE.
+
+The global brokerage said the insurer reported strong operational performance in Q4, driven by a 690 bps year-on-year expansion in VNB margin, beating estimates. The improvement was aided by a higher non-par mix and favourable yield curve benefits in the rapidly growing non-par book. It added that the management highlighted efforts to sustainably improve persistency, drive product innovation, enhance productivity of existing agents, expand the agent base and increase business through non-agency channels.
+
+Valuation remains attractive, with projected FY27 core EV (excluding MTM EV) exceeding the current market value, Citi said. However, it added that visibility on the promoter holding structure remains a key overhang, even as operational performance stays strong.
+
+##   
+Bernstein on LIC share price
+
+Bernstein maintained a 'Market Perform' rating on LIC shares, with a target price of Rs 900 apiece, implying an upside potential of more than 12%.
+
+The international brokerage said the insurer reported healthy revenue growth in Q4. New sales grew 22% in the quarter and 18% year-on-year in FY26, driven by strong non-par sales. It added that the insurer continued to see margin improvement in FY26, aided by a shift in product mix towards non-par products and favourable yield curve movements.
+
+The brokerage further said the company’s management indicated that margins could converge with those of private peers over the medium term, although it acknowledged that the process would be gradual.
+
+##   
+JM Financial on LIC
+
+JM Financial maintained a 'Buy' rating on LIC shares and raised its target price to Rs 960 apiece.
+
+"We had upgraded the stock after Q1FY26, expecting it to rerate with growth in 2H. A diversifying product mix with improving margins augurs well for LIC, providing resilience to growth. The stock has remained range-bound as weak markets ensured that EV remained below Sep'24 levels. As macro conditions improve, EV is expected to grow going forward, alongside an improving growth profile, with an unwind of 9%+ and VNB at 2% of opening EV," JM Financial said, while upgrading its earnings estimates for the state-run insurer.  
+
+## **  
+LIC share price**
+
+LIC shares jumped 5% to trade at Rs 839 apiece on the NSE on Friday. Shares of the state-run insurer have declined 2% over the past month, 6% so far in 2026 and 5% over the past year. However, the stock has gained 39% over the last three years.
+
+The company had a market capitalisation of Rs 5.08 lakh crore at the end of the previous session.
+
+_(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)_
+
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+...moreless
+
+_(You can now subscribe to our ETMarkets WhatsApp channel)  
+_
+
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+...moreless
+
+---
+
+### Pakistan spy network busted: Punjab man arrested for installing CCTV near highway; police probe alleged monitoring of army movements
+*Monica Singh · general*
+
+## Pakistan spy network busted: Punjab man arrested for installing CCTV near highway; police probe alleged monitoring of army movements
+
+Punjab Police busted an alleged espionage network in Pathankot, arresting a man for installing a CCTV system to track Indian Army movements and transmit data to Pakistan-based handlers.
+
+In a major counter-espionage breakthrough, Punjab Police in Pathankot have dismantled an alleged surveillance network accused of tracking Indian Army and paramilitary movements and transmitting the data to handlers based in Pakistan and other countries. One individual has been arrested, while several others linked to the case are currently under investigation.
+
+## **CCTV Surveillance Used for Military Tracking**
+
+The arrested suspect, identified as Baljit Singh alias Bittu from Chakk Dhariwal village, is accused of installing an internet-enabled CCTV camera at a shop located near a bridge on the Pathankot–Jammu stretch of National Highway-44. According to senior police officials, the device was strategically placed to monitor the movement of defence and security forces passing through the area.
+
+Investigators said the live footage from the camera was allegedly being transmitted electronically to foreign operatives, including contacts based in Pakistan. During interrogation, the accused reportedly admitted to setting up the system in January and receiving instructions from unidentified handlers, including one believed to be operating from Dubai. Authorities also stated that he was paid approximately ₹40,000 for his involvement.
+
+Police recovered a CCTV camera and Wi-Fi router used in the setup during the search operation.
+
+## **Wider Network Under Investigation**
+
+Following intelligence inputs about suspicious activity along the highway corridor, police registered a case against four individuals. Along with the arrested suspect, three others, Vikramjit Singh alias Vikka, Balwinder Singh alias Vicky, and Taranpreet Singh alias Tannu, have also been named. Officials believe the group may be part of a broader cross-border espionage network, and raids are underway to apprehend the remaining accused.
+
+A detailed probe has been initiated to trace financial transactions, communication links, and possible foreign coordination behind the operation.
+
+## **Rising Concern Over Tech-Based Surveillance Modules**
+
+This case comes amid increasing concern over the use of low-cost, technology-driven surveillance devices to monitor sensitive military locations. In recent months, Punjab Police and intelligence agencies have uncovered multiple similar modules using SIM-enabled and solar-powered CCTV cameras to stream live data to foreign handlers.
+
+Senior officials said such devices, often manufactured abroad and designed for remote connectivity, allow operatives to bypass traditional wired monitoring systems. These tools have been found installed near strategic locations, including defence-linked establishments and transport corridors.
+
+## **Previous Espionage Busted in State**
+
+Earlier operations in Jalandhar and Kapurthala led to the arrest of several individuals accused of running similar surveillance setups. Investigations revealed that some accused were also involved in narcotics trafficking, allegedly receiving payments from cross-border handlers for both spying and drug distribution activities.
+
+Authorities have said that counter-intelligence operations will continue to identify and dismantle such networks operating in the region.
+
+---
+
+### Haryana Tourists Stripped, Assaulted By Mob In Rishikesh Over Allegedly Harassing Minor Girl | Video
+*Shobhit Gupta · general*
+
+As per the video, one of the accused can be seen running around naked, trying to save himself from the assault.
+
+[Read full article](https://www.news18.com/india/haryana-tourists-stripped-assaulted-by-mob-in-rishikesh-over-allegedly-harassing-minor-girl-video-ws-l-10105060.html)
+
+---
+
+### Govt admitted NEET breach. NTA chief says 'no leak': Does anyone know what happened?
+*Deebashree Mohanty · general*
+
+There is one sentence that the National Testing Agency (NTA) would probably like to become the official takeaway from the latest NEET controversy. Appearing before a parliamentary panel on May 21, the NTA Director General (DG) Abhishek Singh reportedly said that the NEET-UG 2026 paper was “not leaked through the system”.
+
+On paper, it sounds like a strong defence. But the problem is that the government’s own version of events sounds very different.
+
+Just days ago, Union Education Minister Dharmendra Pradhan publicly admitted that “there was a breach in the chain of command” in the NEET paper leak case and said the government was taking responsibility for it.
+
+We had reported it here.
+
+And that is where the contradiction becomes impossible to ignore.
+
+### A DEFENCE THAT RAISED EVEN BIGGER QUESTIONS
+
+It's a simple argument. If there was a breach in the chain of command, then what exactly is the NTA chief trying to say when he insists the paper was not leaked “through the system”?
+
+To students and parents, this distinction sounds less like clarity and more like careful wording.
+
+After all, the “system” is not just a computer server sitting inside an office building, it (the system) includes every layer involved in conducting an exam of this scale. From printing, packaging, transportation, and custody, to invigilation, coordination, security and oversight.
+
+**If the paper escaped somewhere in that chain, most people would still call it a system failure.**
+
+And honestly, they would not be wrong.
+
+### STUDENTS ARE NOT DEBATING TECHNICALITIES
+
+This is what makes the current messaging around NEET so confusing.
+
+On the one hand, the Centre has acknowledged a breach serious enough to trigger national outrage, CBI investigations and arrests across states. On the other hand, the agency conducting the exam appears focused on establishing that the leak did not originate from its internal digital infrastructure.
+
+That may help administratively. But it does very little to restore public trust because students are not debating technicalities.
+
+A teenager who spends two years preparing for NEET does not care whether the leak happened during printing, transit or distribution. Parents who emptied savings accounts for coaching classes are not going to pause and say, “At least the breach was not from the server.”
+
+For them, the question is painfully simple - How did the paper get out? And if nobody can answer that convincingly, then the credibility damage remains exactly the same.
+
+### GOVT'S OWN RESPONSE TELLS ANOTHER STORY
+
+What makes the situation even more striking is the government’s response after the controversy erupted. The Centre has already indicated that NEET may move towards a computer-based format in the future. Such decisions are not taken unless the existing process is seen as vulnerable.
+
+Which is why the current defence by NTA feels oddly incomplete.
+
+The Education Minister’s statement acknowledged institutional failure. The NTA chief’s statement, in contrast, sounded like an attempt to narrow liability. Those are not the same things.
+
+In fact, the language itself reveals the larger crisis unfolding around India’s biggest entrance exam. The issue is no longer only whether a paper leaked. It is whether students still believe the institutions conducting these exams are being fully transparent about what went wrong.
+
+Because students do not experience the exam system in fragments. If any part of the chain fails, the entire system loses credibility. And right now, that trust appears to be leaking faster than the explanations are arriving.
+
+\- Ends
+
+Deebashree Mohanty
+
+May 22, 2026 09:40 IST
+
+---
+
+### Honasa Consumer shares zoom 11% on robust Q4. Jefferies, CLSA see more room to run
+*Debaroti Adhikary · general*
+
+Synopsis
+
+Honasa Consumer, Mamaearth's parent company, saw its shares surge after reporting a 177% year-on-year jump in net profit to Rs 69 crore for Q4 FY26. Revenue also climbed over 23% to Rs 657 crore, with EBITDA soaring 186%. Analysts from CLSA and Jefferies maintain positive ratings, citing strong growth momentum and improving execution.
+
+Agencies
+
+Honasa shares surged on strong Q4 results
+
+Shares of Honasa Consumer, the parent company of Mamaearth, soared as much as 10.55% to Rs 398 on the BSE on Friday after the company reported a whopping 177% year-on-year (YoY) jump in consolidated net profit to Rs 69 crore for the fourth quarter of the financial year 2026, from Rs 25 crore in the year-ago period.
+
+Honasa’s revenue from operations, meanwhile, jumped over 23% YoY to Rs 657 crore during Q4 of FY26, as compared to Rs 533 crore revenue reported in the corresponding quarter of FY25. EBITDA surged a whopping 186% YoY to Rs 77 crore, while EBITDA margin more than doubled to 11.7% during the quarter under review.
+
+  
+
+## Honasa shares: Buy, sell or hold?
+
+Honasa Consumer received a positive outlook from CLSA, which maintained its “Outperform” rating on the stock with a target price of Rs 434 (21% upside).
+
+CLSA highlighted three key takeaways from the quarter. First, Mamaearth delivered growth in the teens and management expects double-digit growth momentum to continue. Second, offtake growth in both general trade and modern trade rose 30% year-on-year, indicating improving brand traction. Third, operating leverage, despite a softer base, helped EBITDA exceed expectations by more than 140 basis points.
+
+The brokerage said Honasa still has a long runway for scaling brands through its focus categories and hero products. It also noted that execution of the Mamaearth turnaround continues to improve and expects margin expansion to sustain going ahead.
+
+Wall Street major Jefferies maintained its “Buy” rating on Honasa Consumer with a target price of Rs 565, a staggering 57% upside. The brokerage said that after navigating one of its toughest phases during distribution realignment, Honasa has returned to a strong growth trajectory. Jefferies noted that performance improved further in the March quarter, led by mid-teen growth in Mamaearth, continued strong momentum in newer brands and margins touching record highs.
+
+It added that the company’s guidance of high-teen revenue growth along with 100 basis points of annual EBITDA expansion points towards a compounding growth story, which could bring investor attention back to the stock.
+
+**Honasa Consumer management commentary**  
+“FY26 was a year of strengthening the core and building a more resilient growth engine for the future. Over the last few quarters, we stayed sharply focused on the six pillars that defined our strategy for the year - improving execution across our Focus Categories, strengthening Product Superiority, scaling Hero Products, sharpening our content engine, rebuilding momentum in Offline Distribution, and unlocking Innovation Engines,” said Varun Alagh, Chairman, CEO and Co-founder of Honasa Consumer.
+
+He added that the momentum is now visible across brands and channels. “Mamaearth continued to gain market share across key categories, according to NielsenIQ. Our Hero SKUs grew 2x+ faster than the brand, led by products like Ubtan Face Wash and Onion Shampoo, as well as newer launches such as Rice Face Wash and Rosemary Anti-Hair Fall Shampoo, which continue to scale meaningfully. Our younger brands also maintained strong momentum, growing 40%+ during the year. In its first quarter of consolidation, Reginald Men crossed an ARR of INR 100 Cr+, doubling its revenue YoY,” he said.
+
+Alagh further added that the company’s investments across AI-led content systems, R&D, product innovation, and distribution infrastructure are beginning to reflect in stronger execution quality across the organization.
+
+_(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)  
+_
+
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+...moreless
+
+_(You can now subscribe to our ETMarkets WhatsApp channel)  
+_
+
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+...moreless
+
+---
+
+### Cop turns to tantrik in theft probe, Rajasthan court steps in, orders change of officer
+*Ashok Sharma · general*
+
+The Rajasthan High Court has reprimanded Nagaur Police for allegedly relying on a tantrik to investigate a case of theft, observing that no criminal investigation can be based on supernatural beliefs.
+
+A single-judge bench of Justice Munnuri Laxman also directed the Superintendent of Police, Nagaur, to transfer the investigation of a theft case to a sub-inspector-rank officer from another police station.
+
+The matter pertains to a theft reported at the petitioner's residence on March 7, 2026, in which gold and silver jewellery, along with cash, were stolen.
+
+The investigation was initially assigned to head constable Rati Ram, who, according to the petitioner, took the complainant and some villagers to a tantrik in Alwar after failing to crack the case. The tantrik allegedly identified Mohanram, the father of the petitioner’s daughter-in-law, as the accused, following which the police began probing in that direction.
+
+Counsel for the petitioner, Advocate Manohar Singh Rathore, argued before the court that there is no provision of law permitting investigations based on a tantrik’s alleged assertions, and that inquiries must be grounded strictly in evidence.
+
+The public prosecutor informed the court that the investigating officer had visited the location in Alwar where the tantrik resides. Taking note of this, the court observed that the investigation must be conducted in a fair and lawful manner.
+
+The court accordingly directed the replacement of the current investigating officer and ordered that the investigation be handed over to a new officer within 15 days.
+
+\- Ends
+
+Aprameya Rao
+
+May 22, 2026 09:37 IST
+
+---
+
+### Meet Indian-origin Antonio Gracias who could earn Rs 12.16 lakh crore from SpaceX IPO
+*Om Gupta · general*
+
+## Indian-origin investor Antonio Gracias, one of Elon Musk's closest allies, could see his SpaceX stake soar to nearly Rs 12.16 lakh crore as the rocket company prepares for its long-awaited IPO.
+
+Indian-origin investor Antonio Gracias has backed Elon Musk’s companies for nearly two decades. (Photo: Valor Equity Partners)
+
+When SpaceX finally opens its books to the public through its long-awaited IPO, the spotlight will not only be on Elon Musk. Another name quietly standing to gain billions is Indian-origin investor Antonio Gracias — one of Musk’s oldest and most trusted allies. Gracias may not be as famous as Musk, but in Silicon Valley circles, he has long been known as one of the people backing Musk’s empire from behind the scenes. And now, with SpaceX reportedly eyeing a valuation of up to $2 trillion, his fortunes could explode alongside the company’s IPO.
+
+### The Indian connection
+
+Antonio Gracias has roots in India through his father, who immigrated to the United States from Goa and later became a neurosurgeon in Detroit. His mother was a Spanish pharmacist who ran a pharmacy shop.
+
+Born and raised in America, Gracias built his career through finance, law and investing, eventually becoming one of the biggest names in private equity.
+
+He studied at Georgetown University, where he pursued international economics, and later attended the University of Chicago for law school. He also spent time studying in Japan at Waseda University before working with Nikko Securities in Tokyo.
+
+### The man who backed Musk early
+
+While still in law school in 1995, Gracias launched MG Capital — the foundation that later became Valor Equity Partners.
+
+Over the years, Valor became deeply tied to Musk’s business empire. The firm invested in Tesla, SpaceX and later became involved with xAI.
+
+Gracias joined SpaceX’s board and backed the rocket company as early as 2008, when many investors still considered private space exploration extremely risky.
+
+That early bet is now looking extraordinary.
+
+Why the IPO could make him one of the world’s richest people
+
+According to IPO disclosures, Gracias and Valor Equity control around 7.3% of SpaceX — making him the second-largest stakeholder after Musk.
+
+If SpaceX achieves a valuation close to $2 trillion, that stake alone could be worth roughly $128 billion (around Rs 12.16 lakh crore).
+
+To put that into perspective, it would place Antonio Gracias among the richest people on the planet — largely because he stayed close to Musk’s companies for nearly two decades while remaining mostly unknown to the public.
+
+### More than just SpaceX
+
+Gracias has also quietly helped build the infrastructure behind Musk’s AI ambitions.
+
+As per Bloomberg, Valor Equity recently worked on financing arrangements linked to xAI’s massive computing expansion. The firm reportedly raised capital to purchase AI chips and data-center equipment, then leased them back to xAI.
+
+Those deals turned into a lucrative business. xAI and 
+
+In many ways, Antonio Gracias represents a different kind of billionaire story — not the loud founder in the spotlight, but the investor operating behind closed doors, helping fund some of the world’s most ambitious technology companies.
+
+And if the SpaceX IPO becomes one of the biggest listings in history, the Indian-origin financier from a Goan family could suddenly become one of the most powerful names in global tech finance.
+
+\- Ends
+
+May 22, 2026 09:33 IST
+
+---
+
+### Shillong Teer Results Today Live, May 22, 2026: Winning Numbers For All Teer Games
+*Nibandh Vinod · general*
+
+Shillong Teer Result Today: Here's full list of winning numbers for Shillong Teer, Juwai Teer, Khanapara Teer, and more for May 22, 2026.
+
+[Read full article](https://www.news18.com/india/shillong-teer-result-today-may-22-2026-first-and-second-round-lottery-result-check-winning-numbers-full-list-10104199.html)
+
+---
+
+### Market Opens Higher: Sensex Rises 350 Points, Nifty Trades Above 23,750 Amid Positive Global Cues
+*Mohammad Haris · business*
+
+At 9:20 am, the Sensex rises by 358 points to trade at 75,542, while the Nifty 50 trades around 23,756, gaining 101 points.
+
+[Read full article](https://www.news18.com/business/markets/market-opens-higher-sensex-rises-350-points-nifty-trades-above-23750-amid-positive-global-cues-ws-l-10105071.html)
+
+---
+
+### Daily Briefing: Centre cracks down on ‘Cockroach Janta Party’ X handle, cites ‘national security threat’
+*Ariba · legal*
+
+**Ebola watch:** As the World Health Organization declared a new Ebola outbreak in the Democratic Republic of the Congo and Uganda “a public health emergency of international concern”, the Centre on Thursday **issued an advisory** for travellers from “high risk countries” entering India. It also announced the postponement of the India-Africa Forum Summit and the first International Big Cat Alliance Summit which were to be held in New Delhi in the coming weeks. “New dates for the Summit and its associated meetings will be finalised through mutual consultations and communicated in due course,” a statement by the Ministry of External Affairs read.
+
+_With that, let’s move on to the top stories from today’s edition:_
+
+-   Cockroach Janta Party’s X account withheld
+-   NALSAR model
+-   GT beat CSK by 89 runs
+
+🚨 **Big Story**
+
+The X handle of Cockroach Janta Party (CJP), a satirical platform, was **withheld in India** Thursday afternoon, its founder Abhijit Dipke announced in a post. “As expected Cockroach Janta Party’s account has been withheld in India,” Dipke posted. The account was launched by Dipke, a Boston University student, after Chief Justice of India Surya Kant’s remarks about those who “attack the system”. However, less than two hours later, Dipke announced a new handle for the platform, ‘Cockroach is Back’, and urged people to join it.
+
+**Centre’s order:** The CJP’s account was withheld on the **directions of the Centre** in the wake of inputs from the Intelligence Bureau (IB) that raised “national security concerns,” a senior government official told _The Indian Express_. The Ministry of Electronics and Information Technology (MeitY) asked X to withhold the account under Section 69 (A) of the Information Technology Act, 2000, the official said, adding that the input to do so came from the IB. Section 69 (A) of the Information Technology Act empowers the Centre to restrict public access to information in the interest of sovereignty, security, public order or preventing incitement to offences.
+
+**Interview:** In an interview with _The Indian Express_, Congress MP **Shashi Tharoor reflects on** what the viral CJP phenomenon reveals about the mood of India’s youth, the failures and possibilities it provides in mainstream politics. He shares: “Whereas if they work with the Opposition and with political parties in general including the ruling party, they should be able to get results that will actually make a tangible difference in their lives.”
+
+⚡ **Only in Express**
+
+Story continues below this ad
+
+**NALSAR model:** A brutal killing of a dog and her litter of four puppies inside the NALSAR University of Law shocked the university, giving birth to a **campus dog management initiative**. Today, the move has enabled docile campus dogs lounging around, loved and protected. This has led the Supreme Court to allow educational institutions to run controlled, campus-based stray dog housing initiatives, underlining that in the event of any stray dog bite occurring within the NALSAR campus, its Animal Law Centre “shall be liable to face tortious liability for the injury caused to the individual/s concerned”. “Lazing is the word, because they know that they do not have to fight for food,” Shubham Dhamelia, a volunteer and co-founder of the WhatsApp group ‘We for the Dogs,’ shares with _The Indian Express_.
+
+📰 **From the Front Page**
+
+**Reform:** Prime Minister Narendra Modi has urged the Council of Ministers to urgently **explore alternative energy sources**, including a push for biogas as a substitute for LPG cooking gas. This comes amid the crisis in West Asia and the blockade of the Strait of Hormuz that has put a strain on energy supplies. During the meeting, Modi’s focus was on reforms necessary for ease of living. In his remarks, Modi reiterated his governance mantra of ‘reform, perform, transform and inform’. He asked the ministers and top officials to work towards a developed India by 2047.
+
+**Crisis:** The Department for Promotion of Industry and Internal Trade (DPIIT), meanwhile, in a meeting with the petrochemical industry, has asked them to “urgently respond” on the scope to **indigenise the production** of over 200 highly import-dependent petrochemical items. These items are intermediate products used in packaging, construction, automotive, agricultural, textile and paints. They cumulatively account for annual imports worth over $50 billion. The missive comes amid the West Asia crisis that has caused price and supply 
+
+**Storm:** The West Bengal government has now made it **mandatory for madrasa students** to sing Vande Mataram during morning Assembly prayers. The move comes just a week after the Centre made the singing of six stanzas of the national song mandatory in all schools under the Department of Education. The order comes in the wake of the new Bharatiya Janata Party (BJP) government’s latest steps that have brought about a sense of disquiet in the state’s minority community. While the Opposition criticised the order, the BJP denied there was any controversy.
+
+📌 
+
+Story continues below this ad
+
+**India’s next steps:** United States President Donald Trump’s visit to China has led India to draw its parallels with Richard Nixon’s famous trip in 1972. Even though the bilateral relationship between India and the US has strengthened, there are structural faultlines between the two countries. In our _Opinion_ section today, **Samir Saran writes**: “New Delhi must respond with open-eyed diplomacy, not open-hearted sentiment. It must engage all strands of thought in the United States, a democracy almost as diverse and complex as ours. Trumpism may outlast Trump — both sides of the aisle asking, if in more polished terms, the same uncomfortable questions the current administration has posed.”
+
+**The global hub:** US President Donald Trump and Russian President Vladimir Putin’s visit to Beijing underlines China’s emergence as a central hub of global diplomacy. While Washington seeks to alleviate its strained ties, Moscow aims to secure Beijing’s sustained economic support and preserve its strategic relevance in global geopolitics. The nature of interactions between them is, therefore, central to the stability and future direction of the global order. **Expert Rajan Kumar delves into** the deep partnership between Russia and China, how it paves the way for a military alliance, and its implications for India.
+
+⏳ **And Finally…**
+
+**GT vs CSK:** Sai Sudarshan and Shubman Gill’s partnership led Gujarat Titans on Thursday to an impressive victory over Chennai Super Kings, putting the latter out of playoff contention. An all-round awesome performance put CSK out of their misery as the five-time champions were thrashed by 89 runs. “If Titans’ opening partnership regularly puts the opposition on the back foot, what follows them often sucks the life out of bowlers, effortlessly,” **Tushar Bhaduri describes**. GT’s performance has now made them strong contenders to win the Indian Premier League this year.
+
+🎧 Lastly, don’t forget to tune in to **today’s episode** of our 3 Things podcast, where we discuss Supreme Court’s reservations about a bench’s decision to deny bail to Umar Khalid and Sharjeel Imam; political parties invoking Dalit icons in the run-up to the Uttar Pradesh Assembly elections; as well as the case of Aadhaar and PAN card holder Dolly Vadalia, who has no nationality and cannot be issued a passport.
+
+**That’s all for today. Have a wonderful day!**
+
+_**Until next time,**_  
+_**Ariba**_
+
+Story continues below this ad
+
+ Business As Usual by E P unny
+
+---
+
+### Indians Lead UK Exit Numbers As Britain Sees Sharp Drop In Net Migration
+*Anushka Vats · business*
+
+Despite topping emigration figures, Indians continued to receive the highest number of visa extensions across several categories.
+
+[Read full article](https://www.news18.com/world/indians-lead-uk-exit-numbers-as-britain-sees-sharp-drop-in-net-migration-ws-el-10105067.html)
+
+---
+
+### Elon Musk-led SpaceX has a massive pile of Bitcoin, here is what it is worth now
+*Armaan Agarwal · general*
+
+## Elon Musk-led aerospace firm SpaceX is set to go public. As part of its proposed IPO filings, the company has disclosed that it has over 18,700 Bitcoin. Here is how much it is worth.
+
+Elon Musk's SpaceX has revealed its Bitcoin reserves as it prepares to go public. (Representational image made with AI)
+
+Elon Musk’s SpaceX is about to go public, with an IPO that may push the company’s valuation over $1.25 trillion. While this would make it one of the biggest IPOs in history, SpaceX’s recent filings have revealed another notable aspect – its large reserve of the cryptocurrency Bitcoin.
+
+As per SpaceX’s S1 filing with the US Securities and Exchange Commission (SEC), the company disclosed that it held 18,712 Bitcoin as of March 31, 2026. At the time of writing, Bitcoin was trading at just over $77,600 (roughly Rs 74.7 lakh). This would make SpaceX’s Bitcoin reserve worth over $1.45 billion (roughly Rs 13,990 crore).
+
+### How much has SpaceX gained with Bitcoin?
+
+As per the filing, SpaceX bought the Bitcoin for about $661 million (roughly Rs 6,380 crore). This translates to an average purchase price of roughly $35,320 (roughly Rs 34.1 lakh) per coin.
+
+The documents indicate that SpaceX began buying Bitcoin in early 2021, around the same period when Musk's Tesla also moved into the cryptocurrency. Bitcoin last traded near $35,000 in November 2023. In August that year, reports had said SpaceX sold a significant part of its Bitcoin holdings.
+
+At current levels, SpaceX has gained about $789 million (roughly Rs 7,616 crore) since it bought Bitcoin, at least on paper.
+
+The disclosed figure is more than double earlier estimates from Arkham Intelligence and BitcoinTreasuries, which had placed SpaceX's holdings at around 8,280 to 8,285 Bitcoin.
+
+### Elon Musk and cryptocurrencies
+
+Keep in mind that Elon Musk has often expressed interest in cryptocurrencies. Apart from accepting Bitcoin for Tesla vehicles for a couple of weeks in 2021, Musk has backed the popular memecoin called Dogecoin in the past. He has previously claimed that SpaceX will put a literal Dogecoin on the moon.
+
+Like SpaceX, Tesla too has a reserve of around 11,000 Bitcoin, as per its first quarter filing. This would be worth around $900 million at the time of writing.
+
+Earlier in 2025, Tesla also reported that a rise in Bitcoin prices lifted its income in the final quarter of 2024 by $600 million (roughly Rs 8,688 crore).
+
+While these reserves are quite large in the context of Bitcoin, they remain well behind the biggest corporate holder. American business software maker Strategy Inc holds more than 843,000 Bitcoin, valued at over $64 billion.
+
+### SpaceX IPO soon?
+
+SpaceX’s Bitcoin disclosure was part of a wider filing as the company prepares to go public with SPCX believed to be its ticker symbol. As per reports, SpaceX is planning to go public on June 12, 2026 with a valuation of around $1.25 trillion.
+
+SpaceX has stated in its filings that Elon Musk would continue as chief executive officer, chief technical officer and chairman after the listing. Ahead of the IPO plans, Musk also merged his AI startup xAI with SpaceX.
+
+Analysts believe that following SpaceX’s IPO, Elon Musk could become the world’s first trillionaire with his stake in SpaceX potentially crossing $600 million in valuation.
+
+\- Ends
+
+Armaan Agarwal
+
+May 22, 2026 09:28 IST
+
+---
+
+### 'Do epic s**t': Why billionaire Ankur Warikoo still wakes up at 4:30 am even after closing his Rs 100 crore business
+*Trending Desk · business*
+
+Days after announcing that he was shutting down his Rs 100 crore courses business, finfluencer and entrepreneur Ankur Warikoo shared another side of his life that quickly caught attention online — his daily morning routine. The creator, who said his education platform made Rs 100 crore in sales and Rs 25 crore in profit since 2020, revealed that he still follows the same disciplined schedule every single day, including weekends.
+
+From meditation and reading to tennis and weight training, Warikoo described a routine that begins before sunrise and ends with him sitting down for work at 9:30 am.
+
+  
+
+## The shutdown that surprised his followers
+
+Warikoo first announced the closure of his courses business in a post on X on May 15. The move surprised many because the business was profitable and had enrolled lakhs of students over the years.
+
+  
+
+"I am shutting down my Rs 100 crores courses business. We've grown beyond what I could have imagined since we started in 2020," wrote Warikoo in an X (formerly Twitter) post, adding, "5 lakh students. Rs 100 crores in sales. Rs 25 crores in profits. But it makes no sense to continue it."
+
+The creator built a strong following across social media platforms, with millions of followers on YouTube and Instagram and over seven lakh followers on X.
+
+  
+
+## A day that starts before sunrise
+
+Soon after the business announcement, Warikoo shared the routine he has been following for years. Unlike many people who use weekends to sleep in or spend hours on their phones, he said his mornings remain unchanged.
+
+"I wake up between 4:30 and 5 a.m. every day (including weekends). First thing I do is sip a glass of water for 10-15 minutes. This allows me to wake up slowly. To savour the first touch of water. To set the day's rhythm (which is to avoid feeling rushed)," he wrote.
+
+He said he avoids looking at screens immediately after waking up and instead focuses on slowing down mentally before beginning the day.
+
+## Meditation before messages
+
+Warikoo said meditation is the next part of his schedule and has remained non-negotiable for years. "So, before I listen to or attend to anyone, I attend to myself. Haven't missed a day for 6 years now!" he shared.
+
+According to his post, he meditates for 30 minutes and spends the time observing his thoughts rather than trying to control them. After meditation comes another 30 minutes of reading.
+
+"This is to feed my mind the right diet. So, before garbage enters my mind (through mindless scrolling, emails, or messages), I nourish it," he said.
+
+## Tennis, gym and school duty
+
+The entrepreneur also uses part of his morning to get his children ready for school, calling fatherhood the most important role in his life.
+
+He then moves to physical activity, beginning with tennis and later weight training at the gym.
+
+"Then I play tennis for an hour. This is to wake up my body. Get it moving. Taste the sweat," he revealed, adding, "Then I lift weights at the gym for an hour. This is to strengthen the body, build muscles, so that it can age well and hopefully provide me good company as I age."
+
+### No breaking news before 9:30 am
+
+One part of the routine that stood out for many online was his approach to consuming news. Warikoo said he reads newspapers for 15 minutes after returning home, which becomes his first interaction with the outside world since waking up.
+
+"But I am reading the news that I chose to read. To the extent I chose to read. I won't be dragged into a mindless debate, and I'm not being offered any breaking news," he added.
+
+After showering, he begins work at 9:30 am.
+
+## “Build yours today”
+
+Warikoo said he has been following this routine consistently for the past four to five years and believes it has helped him stay mentally and physically prepared.
+
+"It has cleansed and nourished my mind, soul, and body. Ready to face what the world offers," he wrote.
+
+At the same time, he clarified that his schedule may not suit everyone.
+
+The influencer further clarified that this routine has worked for him, and it might not work for everyone reading his post. However, he added that everyone should have a routine that works for them. "Build yours today," he concluded the post.
+
+
+---
+
 ## 21 May 2026
 
 ### Parle Industries stock hits 5% again as ‘Melody’ Buzz conitnues to fuel rally
