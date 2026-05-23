@@ -1,3 +1,754 @@
+## 23 May 2026
+
+### Petrol, diesel prices hiked by 87-91 paise per litre for third time in eight days
+*ET Online · business*
+
+Fuel prices in India have seen another increase, with petrol and diesel rates rising by approximately Rs 0.87 and Rs 0.91 per litre respectively in Delhi. This marks the third hike this month, driven by a surge in international crude oil prices due to Middle East conflict and the expiry of a US sanc...
+
+[Read full article](https://economictimes.indiatimes.com/industry/energy/oil-gas/petrol-diesel-prices-hiked-by-87-91-paise-per-litre-for-third-time-in-eight-days/videoshow/131271829.cms)
+
+---
+
+### Bank Holiday Today: Are Banks Open Or Closed Today, May 23? Check Holiday List For This Month
+*Mohammad Haris · business*
+
+Are Banks Open Or Closed Today, May 23? As today is the fourth Saturday of the month, banks will remain closed across the country.
+
+[Read full article](https://www.news18.com/business/banking-finance/bank-holiday-today-are-banks-open-or-closed-today-may-23-check-holiday-list-for-this-month-ws-l-10107485.html)
+
+---
+
+### Third hike in 8 days: Staggered fuel price hikes continue as petrol gets dearer by 87 paise, diesel by 91 paise
+*Sukalp Sharma · legal*
+
+Public sector oil marketing companies (OMCs) hiked retail petrol and diesel prices on Saturday, marking the third price increase in eight days as they look to offset losses from high international prices amid an unprecedented global energy crisis. The price of petrol rose by 87 paise per litre, while that of diesel was up 91 paise per litre in Delhi, with **corresponding changes in other parts of the country**.
+
+With Saturday’s price hike, petrol prices in Delhi have gone up by Rs 4.77 per litre and diesel by Rs 4.81 since May 15, when the first price increase in over four years was announced. As of Saturday morning, a litre of petrol was priced at Rs 99.51, while that of diesel was at Rs 92.49 in the capital. Fuel prices vary across the country due to differences in state-level taxes. The latest hike follows a 90-paise-per-litre increase on Tuesday, and a Rs 3-per-litre increase on May 15.
+
+The Rs 3-per-litre hike in petrol and diesel prices implemented on May 15 had provided some relief to OMCs, reducing their combined daily losses on sales of the two automobile fuels and liquefied petroleum gas (LPG) by a fourth, or about Rs 250 crore, to about Rs 750 crore a day, the Petroleum Ministry had said Monday. The two subsequent price hikes this week are likely to offer some more relief to them, although they continue bleeding by selling the fuels at a loss.
+
+According to industry sources and analysts, the quantum price hikes effected so far will only partially ease the pressure on the OMCs–Indian Oil, Bharat Petroleum, and Hindustan Petroleum–as the gap between the retail fuel **prices and the market price is significant**. More calibrated and staggered price hikes are being anticipated.
+
+Global crude oil prices have surged by over 50% due to the West Asia war and the consequent closure of the Strait of Hormuz, but in a bid to insulate domestic consumers, the government-owned OMCs hadn’t passed on the higher rates for retail petrol and diesel till last week. In fact, prices of the two auto fuels hadn’t been hiked for four years, although cut once—before the 2024 Lok Sabha polls.
+
+Discussions on a hike in petrol and diesel prices had gathered pace within the government, with a consensus that an increase was necessary. The key considerations were the timing and the quantum: whether to announce a steep hike in one go or adopt a staggered approach, according to a top government official. Evidently, a staggered approach was chosen.
+
+“The Rs 3 hike, alongside a marginal softening in crude prices, brings estimated residual under-recoveries down to Rs 10 and Rs 13 per litre, offering OMCs a degree of operational breathing room.The overhang is far from gone, though…The latest price increase is, therefore, aimed at containing incremental balance sheet stress rather than restoring marketing margins, and is better read as a policy acknowledgement that absorbed costs must eventually reflect in prices,” Sehul Bhatt, director, Crisil Intelligence had said on May 15.
+
+Story continues below this ad
+
+The timing of the global surge in energy prices, which clashed with assembly elections in some states, made it politically fraught for fuel prices to be hiked. With the elections over, a hike in prices was in the offing. Early May, a top government official had told The Indian Express that a hike was “inevitable” and “only a matter of time”. Retail prices of petrol and diesel are deregulated, but in practice, the government-owned OMCs — with 90% market share in fuel retail — kept prices stable in consultation with the government. They incurred losses when international oil prices surged, and earned profits when the prices slumped.
+
+A one-shot steep price hike wouldn’t have been politically palatable, and would have had a shock factor to it, industry sources said. Calibrated price hikes give the government the opportunity to pass on the higher prices to consumers gradually, while keeping a tab on the public reaction and the inflationary impact on an ongoing basis, instead of the inflationary shock and backlash that a steep hike might lead to.
+
+Besides directly having a bearing on the Consumer Price Index (CPI), fuel prices have an indirect impact on inflation as they affect the cost of freight and logistics, as well as energy and input costs for various sectors.
+
+“Given the weightage of petrol and diesel in the CPI basket, a 3-5% increase (in fuel prices) likely adds about 15-25 bp (basis points) to the headline inflation, besides second round impact,” Radhika Rao, senior economist and executive director, DBS Bank had said on May 15. She also recounted that back in 2022, amid the global oil and fuel price surge in the wake of Russia’s invasion of Ukraine, retail fuel prices were hiked by about 9-10% in two steps. Other analysts also expect staggered price hikes going forward.
+
+Story continues below this ad
+
+The crisis has put the OMCs under severe financial stress. On May 12, Petroleum Minister Hardeep Singh Puri had said that the combined losses of the three refiners-cum-fuel retailers were projected at Rs 1 lakh crore in the April-June quarter if prices stayed where they were, enough to wipe out their collective profits for the entire 2025-26 (FY26).
+
+Before hiking retail fuel prices, the government had slashed excise duty by Rs 10 per litre on petrol and diesel late March to blunt the impact of high international prices on the OMCs, but the retailers continue to bleed. The excise duty cut has resulted in the government foregoing revenue of about Rs 14,000 crore a month.
+
+While the country has managed to secure adequate crude oil volumes from non-Gulf suppliers and has not faced a shortage of crude, refiners have been paying for the oil through their nose, spending valuable foreign exchange. With uncertainty over how long the crisis might last, Prime Minister Narendra Modi recently appealed for conservation of petroleum fuels, among other measures, aimed at moderating imports and foreign exchange outgo.
+
+The Indian crude oil basket, which averaged $70 per barrel last year, averaged over $114 in April; so far in May, it has averaged at about $108 per barrel. Refiners are incurring high additional costs due to emergency sourcing from the spot market and surging shipping and insurance rates. Oil imports in 2025-26 stood at about $135 billion. If oil prices sustain at $100 in the current fiscal and import volumes don’t fall, the oil import bill could be upwards of $200 billion for the year.
+
+---
+
+### Pay Rs 4 lakh, pass SSC: Gang running exam scam busted in UP, 7 arrested
+*Arvind Ojha · general*
+
+The Uttar Pradesh Special Task Force (STF) has busted a major racket allegedly involved in rigging Staff Selection Commission (SSC) examinations by guaranteeing candidates a pass in exchange for nearly Rs 4 lakh per candidate. Seven accused, including the alleged mastermind of the operation, were arrested during a raid at an examination centre in Greater Noida, where officials recovered around Rs 50 lakh in cash, laptops, mobile phones, and several documents linked to the examinations.
+
+According to the STF, the gang was manipulating online examinations conducted for recruitment to the Central Armed Police Fores (CAPF), Secretariat Security Force (SSF) Constable GD, and Assam Rifles Rifleman Examination-2026.
+
+The accused allegedly used sophisticated technical methods to bypass the examination system and provide candidates with answers in real time during the test.
+
+The arrests were made after the STF received intelligence inputs about organised cheating in SSC online examinations.
+
+A covert investigation led officials to "Balaji Digital Zone," an examination centre located in the Knowledge Park area of Greater Noida.
+
+The STF conducted a raid on May 22 and apprehended seven accused identified as Pradeep Chauhan, Arun Kumar, Sandeep Bhati, Nishant Raghav, Amit Rana, Shakir Malik, and Vivek Kumar.
+
+Investigators said the accused did not directly hack the SSC examination system.
+
+Instead, they allegedly installed a proxy server by bypassing the company’s server at the examination centre. Through a screen-sharing viewer application, question papers were reportedly transmitted to solvers stationed outside the centre.
+
+These solvers would then remotely solve the questions and relay correct answers to candidates appearing for the examination.
+
+Police said Pradeep Chauhan had been running the racket for a long time and had set up the examination centre where SSC online examinations were conducted through the company Eduquity.
+
+Arun Kumar allegedly handled the technical operations, including the installation and management of the proxy server system used to facilitate the cheating network.
+
+The development comes amid heightened scrutiny over examination integrity across the country following the controversy surrounding the alleged NEET-UG 2026 paper leak.
+
+The examination faced nationwide criticism after reports emerged that question papers had been circulated before the test, triggering protests by students and parents.
+
+The controversy reignited concerns about organised cheating syndicates and vulnerabilities in large-scale recruitment and entrance examinations.
+
+The STF is now probing the wider network linked to the SSC examination racket, including the involvement of technical experts, middlemen, and beneficiaries.
+
+Officials are also expected to examine whether similar methods were used in other recruitment examinations conducted in recent years.
+
+\- Ends
+
+May 23, 2026 09:04 IST
+
+---
+
+### India's Forex Reserves Fall $8 Billion To $688.9 Billion; Gold Holding Down By $1.536 Billion
+*Mohammad Haris · business*
+
+Foreign currency assets (FCAs), which form the largest component of the forex reserves, decline by $6.48 billion to $545.90 billion during the week ended May 15.
+
+[Read full article](https://www.news18.com/business/economy/indias-forex-reserves-fall-8-billion-to-688-9-billion-gold-holding-down-by-1-536-billion-ws-l-10107474.html)
+
+---
+
+### Why Punjab and Haryana High Court used famous philosophy theory to deny bail to senior official
+*Jagriti Rai · legal*
+
+Invoking the famous ‘Speech Act Theory’ by John Searle and J L Austin, saying spoken words do not merely have a communicative purpose but also perform actions, the Punjab and Haryana High Court has dismissed the second anticipatory bail plea to a state government official, who is accused of making derogatory and inflammatory remarks against a specific community.
+
+While dealing with a plea of an official at Uttar Haryana Bijli Vitran Nigam Limited (UHBVNL), Justice **Semeet Goel** said that the use of derogatory and abusive remarks against a particular community, when allegedly made by a public servant holding a position of authority, assumes greater significance and carries a potential social impact.
+
+“Words have a consequential meaning; they carry an emotional, psychological, and even a physical impact. Intentions are carried through the words. That is why the learned wise people caution that words be spoken with care lest they cause an altercation, misunderstandings, or even a heartbreak,” the court said on May 20.
+
+ Justice Sumeet Goel said that language allegedly used is not only abusive in nature but is also prima facie capable of inciting resentment, hostility, and communal disharmony against specific community.
+
+Underscoring that any unwitting or unintentional remarks passed against a community, repeated articulations, or even a one-time intense diatribe, or even a forceful articulation, can have cascading ramifications, Justice Goel noted that against a person, such an inquiry caused by words could still be sutured, but against a community, the injury multiplies. The order added that, therefore, the healing hand needs to be in tandem.
+
+## ‘Words not only communicative but also perform actions’
+
+The court applied the ‘Speech Act Theory’, delineated by John Searle and J L Austin, to analyse the impact of the petitioner’s words. Justice Goel noted that spoken words do not merely have a communicative purpose but also perform actions.
+
+“The ‘Locutionary Act’ is the literal production of the sounds and words: the basic physical act of saying something with a specific grammar and meaning. Yet, the ‘illocutionary Act’ is the core purpose behind the words, representing what the speaker is actually doing – such as promising, warning, or commanding,” the court observed.
+
+The order contained that whereas the “Perlocutionary Act” is the effect or consequence the utterance has on the listener. This involves whether the listener is persuaded, alarmed, or convinced by what was said. Therefore, words have a consequential meaning; they carry an emotional, psychological, and even a physical impact.
+
+Story continues below this ad
+
+## ‘Language capable of inciting hostility, communal disharmony’
+
+-   The material collected during the course of the investigation prima facie reflects that objectionable and derogatory remarks targeting a particular community have been made in the course of the conversation in which the petitioner was an active participant.
+-   The language allegedly used is not only abusive in nature but is also prima facie capable of inciting resentment, hostility, and communal disharmony against a specific community.
+-   The contention raised on behalf of the petitioner that the conversation was private in nature cannot, at this stage, dilute the seriousness of the allegations, particularly when the contents entered the public domain and allegedly generated communal tension in the area.
+-   It is apt that the petitioner admittedly holds the post of superintending engineer in UHBVNL and is a senior public functionary entrusted with responsibilities affecting the public at large.
+-   A person occupying such a position is expected to maintain restraint, uphold constitutional morality, and exhibit sensitivity towards all sections of society, irrespective of caste, creed, or religion.
+-   The court also cannot lose sight of the fact that the investigation is at a nascent stage. The allegations are not confined merely to the utterance of objectionable words but also extend to the alleged misuse of official position.
+-   The possibility of the petitioner, thus, interference with the investigation cannot be ruled out at this stage.
+
+-   The plea of the petitioner that he has a good service record cannot, by itself, create a ground for the grant of anticipatory bail in the facts and circumstances of the present case.
+-   It is befitting to mention here that while considering a plea for grant of anticipatory bail, the court has to equilibrate between safeguarding individual rights and protecting societal interest(s).
+-   The court ought to reckon with the magnitude and nature of the offence; the role attributed to the accused; the need for fair and free investigation, as also the deeper and wider impact of such alleged iniquities on society.
+
+## Case of alleged derogatory remark on specific community
+
+The petitioner was a Superintending Engineer in Uttar Haryana Bijli Vitran Nigam Limited, participated in a conversation wherein derogatory, inflammatory, and abusive remarks were allegedly made against members of a particular caste/community, and was seeking anticipatory bail in a case registered under Section 196(1) of BNS, 2023.
+
+The FIR in question reflects that a video clip containing objectionable remarks against a particular community was circulated on social media, and the same became viral in the area. According to the prosecution’s case, the petitioner allegedly participated in a conversation where derogatory, inflammatory, and abusive remarks were made against members of a particular caste/community.
+
+It has been further stated that the allegations further suggest that the remarks had been further stated that the allegations further suggest that the remarks had tension. Accordingly, the investigation was set into motion for the commission of offences punishable under Section 196(1) BNS.
+
+---
+
+### IIT, IAS, MBA: The hidden dowry rate card still haunting Indian marriages
+*Roshni Chakrabarty · general*
+
+## Dowry may be illegal in India, but unofficial "rates" linked to education and jobs still survive. From IAS officers to IIT graduates, groom value often rises with degrees and salaries. This article explores dowry deaths, academic research, and why families are questioning a system that still monetises educated men.
+
+He could barely sit still, the excitement was spilling out of him.
+
+Aman (name changed) had cracked the SSC exam in 2023, a gateway to coveted Group B and Group C government jobs across ministries and departments, involving everything from taxation and investigations to clerical and administrative work.
+
+The moment his boss walked into office, he asked for a meeting, in private. "Ma’am, I’m going to resign," he said, unable to hide his grin. His reporting manager was stunned, Aman was doing well at work, and the announcement came out of nowhere. When she asked why he was leaving so suddenly, he replied proudly,
+
+"I cleared SSC, I am worth Rs 25 lakh now. Finally."
+
+His boss was confused. "The salary is that high?" Aman laughed, "No ma’am. My salary will be around Rs 35,000 a month. But my marriage rate card is now Rs 25 lakh because I’m a government employee."
+
+The room fell silent.
+
+Curious, his manager asked if such things still openly happened in India. "In Bihar? Absolutely," Aman replied matter-of-factly. "My family has already started discussing marriage proposals, and every year in government service, the rate only goes up."
+
+Few people talk about their "rates" this freely.
+
+Instead, it comes wrapped in softer words. "Expectations." "Wedding standards." "Gifts." "Settling the couple." "Status matching."
+
+But across many parts of India, an unofficial price chart for grooms still exists. And the higher a man's education or salary, the higher the expected dowry often becomes.
+
+An IIT graduate may attract demands running into tens of lakhs. An IAS officer is often considered a "premium match". In several old reports from Bihar and Uttar Pradesh, families and marriage brokers have spoken of IAS and IPS officers attracting dowries worth Rs 1 crore to Rs 5 crore, depending on rank, family background and posting.
+
+A 2013 report by Business Standard noted that the "going rate" for an IAS officer in Bihar could range between Rs 1 crore and Rs 5 crore, while engineers and doctors could attract dowries worth several lakhs.
+
+Older Bihar-focused reports in The Telegraph and regional Hindi media have also described approximate expectations where doctors and engineers could attract dowries ranging from Rs 20 lakh to Rs 1 crore, while government clerks and teachers often came with demands involving several lakhs along with cars, jewellery or gold.
+
+(AI-generated image)
+
+### INDIA'S UNOFFICIAL GROOM MARKET
+
+Some regional reports during UPSC result season have even described successful candidates as becoming "crorepati grooms overnight".
+
+There have also been reports of "package-based dowry", where expectations rise according to annual salary packages, especially in tech jobs, private sector roles and NRI matches.
+
+Still, there is no official national "dowry rate card". Since dowry is illegal, the numbers exist mostly through regional reporting, field studies, community discussions and anecdotal accounts.
+
+But decades of academic research and on-ground reporting point to one consistent pattern: higher education and secure government jobs often attract higher dowry expectations.
+
+A few sociology studies focused on Bihar and Uttar Pradesh villages have also noted that government jobs sharply increased expected dowry amounts compared to private employment or agricultural backgrounds.
+
+At the same time, the "rate card" is deeply hyperlocal. A Bihar IAS groom may command dramatically different expectations from one in Kerala or Bengaluru. Caste, land ownership, NRI status, family reputation and even district-level social dynamics can influence negotiations. In many ways, these expectations fluctuate more like social market value than fixed pricing.
+
+And in 2026, the contradiction feels sharper than ever because families are now spending lakhs, sometimes crores, educating daughters too.
+
+So why does the old math still survive?
+
+### INDIA'S DOWRY PROBLEM NEVER REALLY WENT AWAY
+
+India continues to report thousands of dowry deaths every year.
+
+According to NCRB data, India recorded 5,737 dowry deaths in 2024. That means around 16 women died every single day due to dowry-linked violence. Uttar Pradesh alone accounted for more than 2,000 of those deaths, followed by Bihar.
+
+In 2023, more than 15,000 cases were registered under the Dowry Prohibition Act. Over 6,100 women lost their lives that year.
+
+The numbers become even more disturbing because activists have long argued that dowry harassment is underreported. Many cases are buried as "kitchen accidents", suicides, family disputes or sudden illness.
+
+And despite urban education, social media awareness and women entering high-paying careers, dowry culture has not disappeared. In many places, it has simply modernised itself.
+
+(AI-generated image)
+
+### DOWRY WAS NOT ALWAYS ABOUT GREED
+
+Historically, dowry in India did not begin in the same form it exists today.
+
+In several communities centuries ago, families voluntarily gave daughters jewellery, clothes, cash or property as a form of inheritance and financial security because women often had limited rights to ancestral property.
+
+But over time, especially during colonial and post-colonial periods, marriage became increasingly tied to caste status, land ownership, income and social mobility. Dowry shifted from voluntary gifting to financial extraction.
+
+The groom’s education became a status symbol. Marriage negotiations started sounding more like business deals.
+
+A doctor groom meant a bigger dowry.
+
+An engineer meant more.
+
+An IAS officer meant even more.
+
+And government jobs became the jackpot because they represented stability, pensions, housing benefits and lifelong financial security in a country where employment uncertainty is high.
+
+### WHAT THE RESEARCH ACTUALLY SAYS
+
+This link between education and dowry is not just anecdotal anymore. Academic research has repeatedly found that a groom’s education directly affects dowry expectations.
+
+A widely cited paper titled 'Education and Dowry: An Economic Exploration' by economist Soumyanetra Munshi found that dowry rises with the groom’s level of education and is "largely un
+
+In simple terms, the degree itself becomes economic value.
+
+Another study published by Cambridge University using Indian Human Development Survey data reached a similar conclusion. Researchers found that dowry payments rise with the husband's education level. However, the increase becomes smaller when the bride is also highly educated.
+
+That finding reflects a changing reality in urban India. Families are now spending huge amounts educating daughters too. Engineering colleges, private universities, study abroad degrees, coaching centres, MBAs. Raising daughters is no longer financially "lighter" than raising sons.
+
+Yet many families still face dowry pressure during marriage negotiations.
+
+Researchers have also warned that dowry expectations can directly affect girls' education. One paper on dowry economics argued that expected dowry payments may discourage investment in daughters because families fear future marriage costs.
+
+In other words, dowry does not just affect marriages. It can shape how families value girls from childhood itself.
+
+(AI-generated image)
+
+### THE 'RATE CARD' EVERYONE KNOWS EXISTS
+
+Nobody publishes an official dowry list. But speak to people involved in arranged marriage networks and a pattern quickly appears.
+
+A private sector employee may attract expectations for luxury weddings, cars or cash.
+
+A government officer may attract far higher demands.
+
+An IAS or IPS officer can become the centre of bidding wars in some regions.
+
+Old reports from Bihar have described families openly discussing approximate "rates" for government employees. Teachers, bank officers, engineers and bureaucrats all carried different expectations.
+
+Even online, the conversation is startlingly open.
+
+On Reddit forums discussing arranged marriages, users frequently mention "government job premium", "IAS rates", and "package-based marriages".
+
+One user wrote, "In Bihar, UPSC groom rates are insane." Another commented, "A government job is basically a dowry multiplier."
+
+These are anecdotal statements, not verified datasets. But what makes them powerful is how casually people discuss them. The idea feels socially understood even when nobody says it publicly.
+
+And the irony is impossible to ignore.
+
+The same families who encourage daughters to become doctors, engineers or MBA graduates may still feel pressured to "give well" during marriage negotiations.
+
+### EDUCATED WOMEN, SAME OLD EXPECTATIONS
+
+This is where the system starts looking irrational even to families participating in it.
+
+Middle-class Indian parents today spend enormous amounts on daughters' education.
+
+Coaching classes, hostel fees, private schools, laptops, foreign degrees, internships, competitive exams. In many urban households, daughters are earning equally or more than male partners.
+
+Yet dowry expectations survive because marriage in India is still deeply tied to social prestige.
+
+Families fear judgment.
+
+Parents worry daughters may face mistreatment if demands are not met.
+
+(AI-generated image)
+
+In many communities, the pressure is so deeply normalised that refusing dowry itself can become socially awkward. Families that do not "give enough" are sometimes judged as stingy, disrespectful or incapable of properly marrying off their daughters.
+
+In some cases, parents of brides themselves insist on expensive gifts, cars or lavish weddings because dowry has become tied to family honour and social image, not just direct demands from the groom’s side.
+
+Some even justify dowry as "helping the couple start life".
+
+But critics argue that when "help" flows mostly one way, it stops being help and becomes pressure.
+
+### WHY GOVERNMENT JOBS STILL DOMINATE THE MARRIAGE MARKET
+
+India’s obsession with government jobs plays a huge role here.
+
+A stable government salary still carries enormous social power, especially in smaller cities and towns. It represents security in an economy where layoffs and job uncertainty are constant fears.
+
+That stability often converts directly into marriage bargaining power.
+
+A UPSC rank, SSC posting, PSU job or state government role can dramatically raise matrimonial demand.
+
+In many communities, a government-employed groom is seen as "safe", "respectable" and financially dependable for life.
+
+And where demand rises, social pricing follows.
+
+### WHEN EDUCATION FAILS TO CHANGE MINDSETS
+
+Perhaps the biggest irony is this: education, which should reduce regressive thinking, sometimes increases dowry expectations instead.
+
+Degrees become status markers, salaries become bargaining chips, and marriage becomes an economic transaction disguised as tradition.
+
+And that raises an uncomfortable question for modern India.
+
+If both sons and daughters are now equally educated, equally ambitious and equally employable, why is the daughter’s family still expected to "pay extra" for marriage?
+
+For a country racing toward global economic power, the persistence of dowry reveals how old social systems can survive inside modern lifestyles.
+
+The wedding hashtags may change.
+
+But the negotiations often do not.
+
+\- Ends
+
+May 23, 2026 09:00 IST
+
+---
+
+### Rain, cloudy skies bring relief to Delhi-NCR after days of scorching heat
+*TOI City Desk · regional*
+
+NEW DELHI: Light rainfall and cloudy skies brought much-needed relief to residents across parts of Delhi-NCR on Saturday morning after days of intense heatwave conditions.Several areas of the national capital received light showers, while neighbouring Noida also witnessed rainfall.Grey clouds covered the sky in Ghaziabad, and cool breezes offered respite from the sweltering heat.
+
+The brief spell of rain and cloudy weather led to a noticeable dip in temperatures after the city endured scorching conditions over the past few days.However, the India Meteorological Department (IMD) had on Friday issued an orange alert for heatwave conditions in parts of Delhi from Saturday till May 28.
+
+According to the weather department, the maximum temperature is expected to hover between 43 and 45 degrees Celsius on Saturday, and between 44 and 46 degrees Celsius from Sunday to May 28.Delhi recorded a minimum temperature of 29.3 degrees Celsius on Friday, three notches above normal. However, the city did not meet the criteria for a “warm night”, which the IMD declares when the maximum temperature exceeds 40 degrees Celsius and the minimum temperature remains at least 4.5 degrees above normal.On Thursday, Delhi experienced the season’s first warm night as the minimum temperature rose to 31.9 degrees Celsius, five notches above normal. It was also the warmest May night in the city since May 27, 2012, when the minimum temperature had touched 34.2 degrees Celsius.The IMD has predicted that the minimum temperature is likely to remain between 27 and 29 degrees Celsius on Saturday and between 29 and 31 degrees Celsius on Monday.
+
+---
+
+### Delhi Heatwave Update: Will it rain today? IMD shares 7-day weather forecast for Delhi, Noida, Gurugram and Ghaziabad
+*Unknown · business*
+
+Delhi and surrounding regions are expected to remain under strong heatwave conditions from 23 May to 28 May 2026, although intermittent thunderstorm activity has brought brief and localized rain relief in parts of the NCR. Despite these short-lived weather disruptions, the broader pattern continues to be dominated by hot and dry conditions, with only limited cooling effects following thunderstorm spells.
+
+  
+  
+
+## Synoptic Systems Influencing Delhi Weather
+
+A Western Disturbance persists as a cyclonic circulation over north Pakistan and neighbourhood at around 3.1 km above mean sea level, along with a trough in the middle and upper tropospheric westerlies near longitude 75°E north of latitude 25°N.
+
+  
+
+In addition, an upper air cyclonic circulation remains active over northwest Uttar Pradesh, extending up to 1.5 km above mean sea level, with an associated trough extending towards interior Odisha via East Uttar Pradesh and Chhattisgarh.
+
+Despite these systems, they are not expected to bring significant rainfall or heat relief to Delhi in the short term.
+
+  
+
+## Delhi Weather Forecast: 23 May to 28 May 2026
+
+**23 May 2026  
+**Light rainfall lashes parts of Delhi, bringing brief relief even as partly cloudy skies persist with isolated thunderstorm or lightning activity likely in some areas. However, heatwave conditions continue across many pockets of the city. Strong surface winds are also expected, ranging between 20–30 kmph and occasionally gusting up to 40 kmph.
+
+**24 May 2026  
+**Mainly clear sky with severe heatwave conditions expected at several locations. Strong surface winds of 20–30 kmph, gusting up to 40 kmph during the day.
+
+**25 May 2026  
+**Continued mainly clear sky. Heatwave conditions likely to persist with sustained strong surface winds of 20–30 kmph, occasionally gusting to 40 kmph.
+
+**26 May 2026  
+**Clear sky conditions expected. Heatwave conditions continue in several parts with strong winds reaching 20–30 kmph during daytime hours.
+
+**27 May 2026  
+**Mainly clear sky with persistent heatwave conditions at isolated places. Winds remain in the range of 20–30 kmph, with occasional gusts.
+
+**28 May 2026  
+**Partly cloudy sky expected. Heatwave conditions may continue in a few areas with sustained strong surface winds of 20–30 kmph.
+
+## Delhi Temperature Trend: Slight Fluctuations, No Major Relief
+
+Forecast data indicates a slight drop of around 1°C on 23 May 2026, followed by a gradual rise of about 1°C thereafter. Minimum temperatures are expected to remain stable initially, but may rise by around 3°C on 25 May 2026 before dipping slightly again later.
+
+Overall, the pattern suggests continued heat stress with minor short-term variations.
+
+## Delhi-NCR Weather: No Significant Rain or Thunderstorm Relief Expected
+
+Although a brief thunderstorm event did occur on 23 May 2026, there is no indication of sustained rainfall or widespread thunderstorm activity across the forecast period. Overall, Delhi continued to experience hot and largely dry conditions through 28 May 2026, with no significant or long-lasting weather system bringing major relief.
+
+## Delhi Weather Outlook: Extended Heatwave Spell Likely
+
+From 23 to 28 May 2026, Delhi is expected to remain under prolonged heatwave influence. With limited rain activity and persistent dry winds, daytime conditions will remain harsh.
+
+Authorities continue to advise residents to avoid prolonged outdoor exposure during peak afternoon hours and take necessary precautions against heat stress.
+
+---
+
+### After petrol, diesel, CNG prices hiked for third time by Re 1 per kg - check rates in your city
+*TOI Business Desk · business*
+
+NEW DELHI: Compressed Natural Gas (CNG) prices were increased by Re 1 per kg on Saturday, marking the third hike in less than 10 days amid rising global energy prices linked to the ongoing West Asia conflict and disruptions around the Strait of Hormuz.With the latest revision coming into effect immediately, CNG in Delhi will now cost Rs 81.09 per kg. Prices in Noida, Greater Noida and Ghaziabad have risen to Rs 89.70 per kg, while Gurugram will see CNG priced at Rs 86.12 per kg.The latest hike follows a Rs 2 per kg increase announced on May 15 and another Re 1 per kg hike on May 17. With the latest revision, CNG prices in Delhi climbed to Rs 80.09 per kg, breaching the Rs 80-mark for the first time.
+
+## Revised rates of CNG in major cities
+
+**City**
+
+**Pr****ices**
+
+Delhi
+
+Rs 81.09 per Kg
+
+Noida
+
+Rs 89.70 per Kg
+
+Ghaziabad
+
+Rs 89.70 per Kg
+
+Greater Noida
+
+Rs 89.70 per Kg  
+
+Gurugram
+
+Rs 86.12 per Kg
+
+The fresh revision comes even as petrol and diesel prices were also increased again on Saturday, marking the third hike in less than 10 days.Petrol prices were raised by up to 87 paise per litre, while diesel prices increased by as much as 91 paise per litre across major cities.In Delhi, petrol now costs Rs 99.51 per litre, up from Rs 98.64, while diesel prices rose from Rs 91.58 to Rs 92.49 per litre.The consecutive hikes in CNG, petrol and diesel prices come amid mounting pressure on global energy markets due to escalating tensions in the Middle East and continued disruptions around the Strait of Hormuz, a key global energy corridor through which nearly one-fifth of the world’s oil and gas trade passes.
+
+Global crude oil prices, which were hovering around $70–72 per barrel before the conflict, surged past $120 at one stage and are currently trading in the $104–110 range. India’s crude oil basket has averaged nearly $113–114 per barrel in recent months, compared to around $69 per barrel in February.India imports nearly 90 per cent of its crude oil requirements, making domestic fuel prices highly sensitive to international market movements.The back-to-back hikes in CNG, petrol and diesel prices are expected to increase transportation costs for private vehicle owners, cab drivers and commuters who depend on CNG as a relatively affordable fuel option.Meanwhile, commercial vehicle operators and taxi unions continued their protest across Delhi-NCR against rising fuel prices and stagnant fares.Transport bodies, including the All India Motor Transport Congress and Chalak Shakti Union, have demanded a rollback of recent fuel hikes, withdrawal of CNG surcharge and a revision in taxi fares, warning that mounting operational costs are severely impacting drivers’ livelihoods.
+
+---
+
+### 'Fleecing its own citizens': Congress slams Modi govt for petrol, diesel price increase by Rs 5 in 9 days
+*TOI News Desk · regional, india*
+
+NEW DELHI: With fuel prices seeing a third hike within just 10 days, Congress on Saturday launched a sharp attack on Prime Minister Narendra Modi, dubbing him “Mehengai Man” Modi and accusing the Centre of prioritising oil companies over ordinary citizens.The attack came after petrol, diesel and CNG prices were raised again early Saturday.In a strongly worded post on X, Congress wrote: "'Mehengai Man' Modi has hiked petrol and diesel prices by 5 rupees in just 9 days. Today again, petrol has been made 94 paise more expensive and diesel 95 paise."
+
+The main opposition party added, "Modi only cares about the profits of oil companies. While governments around the world are giving relief to their people, the Modi government is busy fleecing its own citizens. For once, think about the welfare of the people—how long will you keep benefiting the capitalists?"Meanwhile, state-run fuel retailers on Saturday raised petrol and diesel prices by under Rs 1 per litre, marking the third revision this month as the government looks to cushion losses triggered by high global crude prices amid the Iran conflict, according to Reuters.In New Delhi, petrol prices rose by Rs 0.87 per litre to Rs 99.51, while diesel prices climbed by Rs 0.91 to Rs 92.49 per litre, dealer data showed. CNG prices, too, went up by Rs 1 per kg with effect from May 23.
+
+---
+
+### Delhi gets breather from severe heat, dust storm, showers to bring down mercury
+*Ashutosh Mishra · general*
+
+## The RWFC has warned of dust storms, thunderstorms, light rain and lightning across parts of Delhi-NCR and nearby states over the next few hours. Officials have advised caution as strong winds may reduce visibility, disrupt traffic and create localised outages.
+
+Authorities continue to monitor the changing weather pattern closely as northern India moves closer to the monsoon season. (Photo: Business Tak)
+
+After days of intense heatwave conditions, parts of Delhi NCR witnessed a noticeable change in weather on Saturday morning as grey clouds covered the sky and cool winds brought relief to residents. Visuals from Rafi Marg region showed cloudy conditions and breezy weather, marking a temporary break from the scorching temperatures experienced over the past several days.
+
+The change in weather comes amid a fresh alert issued by the Regional Weather Forecasting Centre (RWFC), which warned of dust storms followed by thunderstorms, light rainfall, drizzle and lightning across several parts of Delhi and the National Capital Region (NCR).
+
+On Friday, Delhi saw its four-day heatwave spell ease slightly, but the IMD had said that residents are unlikely to get major relief from the scorching weather anytime soon. They had issued an orange alert for heatwave conditions from Saturday till May 28, warning that temperatures could rise to between 44 and 46 degrees Celsius from Sunday onwards.
+
+According to the forecast issued at 8:30 am on May 23, gusty winds with speeds of 30 to 50 kmph are likely to accompany the weather activity over the next few hours.
+
+Dust storms are very likely at many places, followed by moderate to severe thunderstorms with light rain/drizzle, lightning, and gusty winds of 60–80 km/h.
+
+The safety advisory urges securing outdoor items, avoiding open areas, and staying informed to minimise risks from the expected weather.
+
+The weather office said many areas across Delhi-NCR, along with parts of Haryana and Rajasthan, are expected to witness dust storms and thundershowers.
+
+The RWFC specifically named Sonipat, Kharkhoda, Charkhi Dadri, Mattanhail, Jhajjar, Farukhnagar, Kosali, Sohna, Rewari, Palwal, Nuh and Aurangabad in Haryana, as well as Bhiwadi in Rajasthan, among the areas likely to be affected.
+
+Officials advised residents to remain cautious during thunderstorm activity as strong winds and lightning may temporarily reduce visibility and disrupt traffic movement. People have also been advised to avoid taking shelter under trees and weak structures during gusty weather conditions.
+
+Friday’s minimum temperature in Delhi settled at 29.3 degrees Celsius, which was three degrees above normal. However, the city did not qualify for the India Meteorological Department (IMD)’s “warm night” category, as the criterion requires the minimum temperature to be at least 4.5 degrees above normal when the maximum temperature crosses 40 degrees Celsius.
+
+\- Ends
+
+Ritaban Misra
+
+May 23, 2026 08:52 IST
+
+---
+
+### £8M cartel crushed: Indian-origin man among 5 jailed for flooding London with drugs
+*Express Global Desk · legal*
+
+1.  News
+2.  World
+3.  £8M cartel crushed: Indian-origin man among 5 jailed for flooding London with drugs
+
+## The group was involved in importing and supplying cocaine and heroin into London and nearby areas.
+
+2 min readMay 23, 2026 08:51 AM IST First published on: May 23, 2026 at 08:51 AM IST
+
+An Indian-origin man is among five people jailed in the UK for a combined 84 years for their role in a drug trafficking network. (File Photo)
+
+An Indian-origin man is among five people jailed in the UK for a combined 84 years for their role in a drug trafficking network, according to Press Trust of India (PTI).
+
+The group was involved in importing and supplying cocaine and heroin into London and nearby areas.
+
+Police said the drugs had an estimated wholesale value of nearly £8 million.
+
+Jagjit Singh, 30, from Birmingham, was sentenced to 10 years and six months in prison. He had pleaded guilty at the start of his trial last year.
+
+Police said he was part of an organised crime group that handled large quantities of Class A drugs.
+
+Story continues below this ad
+
+## What police found
+
+During the investigation, officers seized more than 300kg of cocaine and over 60kg of heroin.  
+Detective Constable Leon Ure, who led the case, said: “This case has centred on a criminal venture planned on a gigantic commercial scale which would have likely caused violence and destruction on our streets.”
+
+He added: “These offenders organised a significant drug line into London and the surrounding counties over a prolonged period of time.”
+
+## How the network operated
+
+Police said the group used haulage routes and “ghost warehouses” to move drugs from mainland Europe into the UK.
+
+Lorries entering the country would leave their planned routes and stop at storage sites, where drugs were unloaded before continuing to their delivery points.
+
+Story continues below this ad
+
+The drugs were then repackaged and distributed. Some individuals travelled from Poland to assist with unloading and supply.
+
+The investigation began in July 2024 after officers observed a suspected exchange of boxes between vehicles in Slough.
+
+A later stop led to the seizure of cocaine and heroin, which helped police understand the scale of the operation.
+
+In April, officers tracked a lorry arriving from the Netherlands to a warehouse. After the cargo was unloaded, police moved in and arrested those involved, seizing large quantities of cocaine.
+
+Story continues below this ad
+
+The gang members were sentenced at Kingston Crown Court in south-west London, with prison terms ranging from 14 to 26 years.
+
+Police said the case led to the disruption of a major drug supply network and removed those involved from the streets.
+
+The Express Global Desk at indianexpress.com which delivers authoritative, verified, and context-driven coverage of key international developments shaping global politics, policy, and migration trends. The desk focuses on stories with direct relevance for Indian and global audiences, combining breaking news with in-depth explainers and analysis. A major focus area of the desk is US immigration and visa policy, including developments 
+
+© IE Online Media Services Pvt Ltd
+
+-   \# britain
+
+Loading Recommendations...
+
+-   01
+-   02
+-   03
+-   04
+-   05
+
+---
+
+### Maharashtra woman donates her eggs 37 times: What repeated egg harvesting does to a woman’s body
+*Purnima Sah · legal*
+
+The case of a woman from Maharashtra’s Ulhasnagar allegedly donating her eggs 37 times, following the reveal of an egg-harvesting racket, has raised troubling questions about the physical toll repeated egg retrieval can take on women.
+
+According to investigators probing an alleged egg donation racket operating across parts of Maharashtra, the woman is believed to have undergone **repeated hormonal stimulation and egg retrieval procedures** over several years, far exceeding India’s legal limit, which permits egg donation only once in a lifetime under the Assisted Reproductive Technology (Regulation) Act, 2021. Police have alleged that financially vulnerable women were repeatedly recruited into the network, with some allegedly being paid small sums for procedures that carried significant medical risks.
+
+Dr Prashant Bhamare, HOD and Director, Obstetrics and Gynaecology, at Fortis Hiranandani Hospital, Navi Mumbai, says undergoing dozens of donation cycles is medically unusual and concerning. “Repeated cycles could increase the risk of ovarian cysts, hormonal imbalance and, very rarely, early menopause. The physical stress from frequent anaesthesia and procedures is also a concern,” he says. He takes us through what happens inside a woman’s body.
+
+## Why egg donation is a long-drawn procedure
+
+Unlike blood donation, egg retrieval requires weeks of hormonal intervention, ovarian stimulation, sedation and invasive extraction. Repeated cycles can place serious stress on a woman’s reproductive and hormonal health, especially when performed frequently or without adequate monitoring.
+
+## What happens to the body during egg donation?
+
+In a natural menstrual cycle, a woman’s ovaries typically release one mature egg every month. During egg donation, however, doctors administer fertility hormones over 10 to 14 days to stimulate the ovaries into producing multiple eggs at the same time. These hormones force the ovaries to work far beyond their normal physiological rhythm. This is called ovarian stimulation.
+
+Once the eggs mature, they are removed through a transvaginal retrieval procedure performed under sedation or anaesthesia. While many women recover without major complications after a single medically supervised cycle, doctors say repeated stimulation can disrupt the body’s hormonal balance and place sustained stress on the ovaries.
+
+## Why are doctors especially worried about repeated cycles?
+
+The central concern is that the female body is not designed for repeated, aggressive ovarian stimulation over short intervals. Every cycle involves artificially elevating hormone levels to force the ovaries to mature multiple eggs simultaneously. Over time, this may lead to ovarian enlargement, pelvic pain, menstrual irregularities and metabolic stress.
+
+Story continues below this ad
+
+There is still limited long-term research on women who undergo excessive egg donation cycles because such cases are relatively rare and, in many countries, restricted by law. However, fertility experts caution that repeated ovarian punctures and hormonal stimulation may potentially affect ovarian reserve — the quantity and quality of eggs remaining in the ovaries — especially if procedures are carried out without sufficient recovery periods.
+
+Some specialists also fear that excessive cycles may contribute to premature ovarian ageing or early menopause, although conclusive evidence remains limited.
+
+## What is Ovarian Hyperstimulation Syndrome?
+
+One of the most serious complications linked to egg donation is Ovarian Hyperstimulation Syndrome (OHSS), a condition in which the ovaries react excessively to fertility hormones.
+
+In OHSS, the ovaries can become swollen and painful, sometimes developing fluid-filled cysts. Fluid may leak into the abdomen and chest cavity, leading to bloating, severe abdominal pain, nausea, vomiting and breathing difficulty. In severe cases, the condition can become life-threatening.
+
+Story continues below this ad
+
+Doctors say severe OHSS may cause dehydration, blood clotting complications, kidney problems and fluid accumulation around the lungs. In rare situations, ovarian rupture may also occur.
+
+While mild OHSS is relatively common and usually resolves on its own, fertility specialists say the risk increases significantly when women undergo repeated stimulation cycles too closely together or outside proper medical supervision.
+
+## Why does Indian law permit donation only once?
+
+India’s Assisted Reproductive Technology (Regulation) Act, 2021 introduced one of the strictest egg donation frameworks globally by allowing a woman to donate eggs only once in her lifetime. The law was framed specifically to prevent medical exploitation and reduce repeated hormonal exposure among donors.
+
+The legislation also states that donors should generally be between 23 and 35 years of age, and that only registered ART clinics and banks are authorised to conduct such procedures. The law additionally restricts the number of eggs retrieved in one cycle.
+
+Story continues below this ad
+
+The stricter approach reflects concerns that economically vulnerable women could otherwise be pushed into repeated donation cycles for money, especially in an expanding fertility market where demand for donor eggs remains high.
+
+Fertility treatment exists at the intersection of medicine, money and desperation. While assisted reproduction has enabled thousands of couples to conceive, weak oversight can also create conditions where women’s bodies become commercial assets.
+
+---
+
+### Barrie man accused of manslaughter in baby’s death granted bail under strict court conditions; check here
+*Divyadeep Singh · business*
+
+**Canada Crime News:** A 31‑year‑old Barrie man charged with manslaughter in the November 2024 death of a baby in Innisfil has been granted bail. The man, Anthony Fasullo, was released from jail after a surety posted $6,000 for bail. He faces strict conditions, including a curfew, a ban on owning weapons, and a prohibition against being alone with or caring for a child, as reported by CTV News.
+
+A 26‑year‑old Barrie woman has also been charged in connection with the same incident. She faces charges for failing to provide the necessities of life. The woman and Fasullo were arrested this week following a lengthy investigation into the November 2024 incident.
+
+South Simcoe police said they were called to a home on Algonquin Avenue on Nov. 8, 2024, for a medical emergency. Upon their arrival, officers found a four‑month‑old baby without vital signs. The child was taken first to Royal Victoria Regional Health Centre in Barrie and later transferred to SickKids Hospital in Toronto. The baby died in the hospital on Nov. 10, 2024, from injuries sustained two days earlier.
+
+  
+
+Following the investigation, the police gathered sufficient evidence to prove several criminal offences and lay multiple charges. On Wednesday, May 20, 2026, several warrants were executed at a Barrie home with the assistance of various police units, resulting in the arrests, according to CTV News. The accused were held in jail pending a bail hearing. The allegations against both accused have not yet been tested in court.
+
+---
+
+### US Secretary of State Marco Rubio visits Saint Teresa's Mother House in Kolkata
+*SECTIONS US Secretary · business*
+
+Kolkata, US Secretary of State Marco Rubio visited Mother House, the headquarters of Saint Teresa's Missionaries of Charity, here on Saturday.
+
+Rubio arrived in Kolkata this morning, marking the opening leg of his maiden four-day visit to India, and was welcomed by US Ambassador Sergio Gor at the city airport.
+
+He visited the headquarters of the Missionaries of Charity and spoke with its officials.
+
+  
+
+The Missionaries of Charity, founded by Mother Teresa in Kolkata, is a Catholic congregation dedicated to serving the poor, sick and destitute across the world.
+
+Rubio's arrival in the eastern metropolis ended a 14-year gap since a US secretary of state last visited the city. It also came only weeks after West Bengal witnessed a major political transition with a BJP-led government assuming office.
+
+In a post on X, Gor, the US Ambassador to India, said, "Secretary Marco Rubio has landed in Kolkata. This is his first trip to India. Later today, we will call on Prime Minister @narendramodi in New Delhi. Trade, Technology, Defense, QUAD, and many other items to discuss and advance over the next few days!"
+
+Rubio became the first US secretary of state to visit Kolkata since Hillary Clinton travelled to the city in May 2012.
+
+The US Department of State said Rubio would also visit the Children's Home in the city during his Kolkata stopover.
+
+Rubio's India itinerary, scheduled from May 23 to 26 and also covering Agra, Jaipur and New Delhi, is being viewed as diplomatically significant because of planned energy discussions with India and meetings involving ministers from the Quad nations.
+
+---
+
+### Marco Rubio's trip to 'great partner' India signals US need to repair ties
+*SECTIONS Marco Rubiogreat partner' India signals US need · business*
+
+WASHINGTON: U.S. Secretary of State Marco Rubio lands in India on Saturday on a mission to shore up a partnership battered by President Donald Trump's tariffs and Washington's renewed engagement with New Delhi's rivals Pakistan and China.
+
+The four-day trip, Rubio's first visit to India, will include stops in Kolkata, Agra, Jaipur and New Delhi for talks focused on trade, energy and defense cooperation, the State Department said.
+
+U.S. presidents, including Trump in his first term, have long tried to pull historically non-aligned India closer as a counterweight to Russian and rising Chinese influence in the Indo-Pacific. Those efforts appeared to take a blow last year when Trump slapped some of the highest U.S. tariffs on India.
+
+Many of those were rolled back in an ‌interim agreement, but the two ⁠countries are ⁠yet to finalize a comprehensive agreement on trade.
+
+New Delhi has pressed for a Trump visit to India tied to a summit of the Quad group of countries that includes the U.S., India, Japan and Australia, but analysts say that fell by the wayside amid trade tensions and distractions including of the U.S.-Israeli war with Iran.
+
+The U.S. has meanwhile grown closer to India's rival and neighbor Pakistan, with Islamabad emerging as a key interlocutor in efforts to end the war, a new irritant to the U.S.-India relationship.
+
+The energy crisis sparked by the U.S.-Israeli war on Iran has also set back U.S. efforts to wean India off Russian oil.
+
+Rubio said on Thursday energy would be a focus and the U.S. was already in talks to expand its share of India's energy supply.
+
+"We want to sell them as much energy as they'll buy," he said. "There's a lot to work on with India. They're ⁠a great ally, ‌a great partner. We do a lot of good work with them."
+
+**  
+For India, Trump's visit this month to Beijing amplified concerns about U.S. ties, said Basant Sanghera, a former State Department South Asia policy expert now with The Asia Group consultancy.
+
+Sanghera said Trump's approach had "created a perfect storm of anxiety" in India ⁠about the U.S. relationship, "but ties have stabilized and both sides are trying to build momentum in the areas that there is convergence."
+
+## INFLUENTIAL AMBASSADOR
+
+The Biden administration lavished attention on India as vital a strategic partner and feted Prime Minister Narendra Modi during a 2023 state visit. Trump also welcomed Modi to the White House early in his second term before imposing steep tariffs that threw ties off course.
+
+U.S. Ambassador Sergio Gor, dubbed "the India whisperer", by Michael Kugelman of the Atlantic Council think tank, arrived in New Delhi in January and has sought to reset ties. Gor is a friend of Trump's and previously a White House adviser.
+
+In February, the two countries reached a "framework for an interim agreement" on trade to lower Trump's tariffs on Indian goods to 18% from a punishing 50%, half of which had been linked to India's prior purchases of Russian oil.
+
+**  
+But talks to finalize the deal slowed after the U.S. Supreme Court in late February struck ‌down Trump's tariffs.
+
+That effectively brought the duty rate on Indian goods down to 10%, but New Delhi has been weighing its options as the Trump administration pursues investigations under unfair trade practices legislation widely expected to restore much of the prior levies.
+
+One person familiar with the talks said the U.S. had been disappointed with India's perceived foot-dragging and apparent belief that it ⁠could strike a good deal without giving much up, and this mood was likely to cloud Rubio's efforts to stabilize ties.
+
+"I do not expect Secretary Rubio will have much impact in changing the downward trajectory," said Richard Rossow of the Center for Strategic and International Studies think tank.
+
+"The lack of a trade agreement - more than three months after the announcement of the "interim deal" - clouds other areas of engagement."
+
+## DOWNGRADE OF GROUP COUNTERING CHINA?
+
+India's entreaties for the White House to schedule a Trump visit for a summit of the Quad, which was formed as a counter to China's growing influence, have so far gone unanswered, according to another person familiar with the talks.
+
+Rubio's meeting with other Quad foreign ministers in Delhi next week will be a third such gathering without a leader-level engagement and effectively an "unannounced downgrade" of the grouping, Rossow said.
+
+In a post on X the U.S. Embassy in New Delhi nevertheless emphasized the importance of the Quad, saying it stood "together for a free and open Indo-Pacific... From supporting regional security to diversifying critical minerals supply chains."
+
+---
+
+### CNG prices hiked by Rs 1 per kg in Delhi, third hike in 9 days
+*Express Web Desk · legal*
+
+CNG price has been hiked for the third time in 8 days. (PTI Photo)
+
+Compressed Natural Gas (CNG) prices have been increased by Re 1 per kg. The price hike comes into effect from Saturday, May 23. The increase in CNG price comes along with the hike in petrol and diesel prices. This is the third hike in prices in nine days.
+
+After the fuel price hikes, the Centre sought to reassure citizens about the availability of adequate fuel. “India has adequate availability of petrol and diesel supplies across the country continue to remain stable. Citizens are advised to avoid panic buying and purchase fuel only as per actual requirement,” the Ministry of Petroleum and Natural Gas posted on X. “Temporary pressure at some retail outlets is being addressed through continuous supply monitoring and coordinated distribution efforts by Oil Marketing Companies. Responsible consumption and public cooperation will help ensure smooth fuel availability for everyone during the ongoing high-demand period,” the ministry  further said.
+
+> India has adequate availability of petrol and diesel supplies across the country continue to remain stable.
+> 
+> Citizens are advised to avoid panic buying and purchase fuel only as per actual requirement. Temporary pressure at some retail outlets is being addressed through… pic.twitter.com/6WawJS51Cs
+> 
+> — Ministry of Petroleum and Natural Gas #MoPNG (@PetroleumMin) May 22, 2026
+
+Following the latest revision, CNG in Delhi will now be sold at a retail price of Rs 81.09 per kg, while consumers in Noida and Ghaziabad will pay Rs 89.70 per kg. Earlier, prices were raised by Rs 2 on May 15 and by another Re 1 on May 18.
+
+The latest increase comes as state-owned oil companies continue to pass on the impact of rising energy costs triggered by the ongoing Middle East crisis. Since May 15, this is the third upward revision in CNG prices.
+
+## **How the hike could affect consumers**
+
+The increase in CNG prices is likely to affect public transport costs and add to retail inflation. As a significant portion of buses, autos, and other public transport vehicles operate on CNG, operators are expected to transfer the added burden to passengers through higher fares.
+
+Global fuel supplies have also been hit by the closure of the Strait of Hormuz, a key route that carries nearly one-fifth of the world’s oil shipments. The disruption has pushed up energy prices globally, making domestic fuel rates difficult to sustain without revisions. According to _oilprice.com_, benchmark Brent crude was trading at $103 per barrel on Saturday morning, while the West Texas Intermediate (WTI) cude was priced at over $96.
+
+## **Oil companies under pressure**
+
+The rise in retail fuel prices comes amid growing losses faced by India’s oil marketing companies. State-run OMCs Indian Oil Corporation Limited (IOCL), Bharat Petroleum Corporation Limited (BPCL), and Hindustan Petroleum Corporation Limited (HPCL) are reportedly incurring losses in crores every day as they purchase crude oil at elevated prices while being unable to fully pass on the costs to consumers.
+
+Last week, Prime Minister Narendra Modi appealed to citizens to conserve fuel and opt for remote work wherever possible, saying the move could help reduce crude oil demand and curb India’s foreign exchange outflow.
+
+> #WATCH | Secunderabad, Telangana | On the impact of West Asia conflict, Prime Minister Narendra Modi says, “… Gold purchases are another area where foreign exchange is used extensively… In the national interest, we must resolve not to purchase gold for a year, no matter how… https://t.co/lNWTmHlf4q pic.twitter.com/konOsJ7Okp
+> 
+> — ANI (@ANI) May 10, 2026
+
+
+---
+
 ## 22 May 2026
 
 ### Honda City facelift, Z-RV launch live updates: Price, features, design and more
