@@ -1,3 +1,798 @@
+## 24 May 2026
+
+### BJP takes huge lead in Bengal's Falta Assembly repoll, Trinamool not in fray
+*India Today Web Desk · general*
+
+## After the first round of counting in the Falta assembly repoll, BJP's Debangshu Panda has taken a strong lead of 9,086 votes.
+
+Repolling in Falta took place under tight security measures (Photo: PTI)
+
+After the first round of counting in the controversial Falta assembly constituency, BJP candidate Debangshu Panda has secured a strong lead against the CPI(M) candidate Shambhunath Kurmi. As per the trends, Panda is leading by a margin of 9,086 votes.
+
+_This is a developing story. It will be updated._
+
+\- Ends
+
+Devika Bhattacharya
+
+May 24, 2026 10:01 IST
+
+---
+
+### Ganga Dussehra 2026 Date and Time: Why should devotees take a dip in Ganga? Check puja rituals, Vidhi, significance and more
+*Trending Desk · business*
+
+Ganga Dussehra is celebrated every year in Jayestha month in the Shukla Paksha on Dashmi. This year, it falls on Monday, 25th May 2026. One of the most important festivals of the Hindu religion, Ganga Dusshera is observed to celebrate Goddess Ganga's birth anniversary, when she descended from heaven to earth.
+
+According to Hindu mythology, Goddess Ganga came to Earth on this day after King Bhagirath performed intense penance for thousands of years, following the advice of his guru, Triphala. Before descending to Earth, River Ganga was believed to reside in Lord Brahma’s kamandal (sacred pot). Her arrival on Earth, also known as Ganga Avataran, is celebrated as Ganga Dussehra every year.
+
+**
+
+  
+
+## Ganga Dussehra 2026 Date and Time
+
+Date: May 25, 2026 (Monday)
+
+Dashami Tithi Begins at 04:30 a.m. on Monday, 25th May 2026.
+
+Dashami Tithi Ends at 05:10 a.m. on Tuesday, 26th May 2026.
+
+Hasta Nakshatra Begins at 04:08 a.m. on Tuesday, 26th May 2026.
+
+Hasta Nakshatra Ends at 05:56 a.m. on Wednesday, 27th May 2026.
+
+Vyatipata Yoga Starts at 03:11 a.m. on Wednesday 27th May 2026.
+
+Vyatipata Yoga Ends at 03:25 a.m. on Thursday, 28th May 2026.
+
+Ganga Dusshera is very significant both religiously and spiritually and people engage in spiritual and religious practices on this sacred day.
+
+## Ganga Dusshera 2026: Check significance
+
+Festival of Ganga Dussehra is celebrated in parts of North India and it is believed that taking a holy dip in the sacred river (Ganga) helps you get rid of all the sins. It is believed that the holy water of the Ganga cleanses the body, mind, and soul while washing away negativity and past sins. Many people also perform puja, offer food, light diyas, and take part in charitable activities, as donations made on this day are considered highly auspicious.
+
+For devotees, Goddess Ganga is not just a river but a divine mother who blesses her followers with peace, purity, and spiritual strength. It is widely believed that bathing in the Ganga on Ganga Dussehra brings prosperity, happiness, and divine blessings.
+
+## Ganga Dusshera Puja Rituals  
+
+Before sunrise, people take a sacred dip in the Ganga River and chant: "Om Namah: Shivaayai Narayanyai Dussehraayai Gangayai Namah"
+
+After this mantra, one should offer at least five flowers (Pushp) and while offering flowers the following mantra: "Un Namo Bhagwate Hri Shree Hili Hili Mili Mili Gange Maa Pavay Pavay Swaha", should be chanted.
+
+On the auspicious day, devotees offer prayers and Arghya to the rising sun and take a minimum of 10 dips in the Ganges. A minimum of 3 dips should be taken.
+
+Light a diya and present Goddess Ganga with flowers and sweets. You can also present sarees or dupattas to Goddess Ganga.
+
+On Ganga Dusshera, people donate food, clothes and other useful items among the needy ones and it us regarded as extremely fulfilling. In the evening, devotees take part in Ganga aarti.
+
+---
+
+### Jaipur Woman Dies By Suicide After Years Of Abuse, Children Recall Horror
+*Anushka Vats · general*
+
+Anu’s mother, Maya, said her daughter had often spoken about difficulties in her marriage.
+
+[Read full article](https://www.news18.com/cities/jaipur/jaipur-woman-dies-by-suicide-after-years-of-abuse-children-recall-horror-10108976.html)
+
+---
+
+### Garena Free Fire Max Redeem Codes for May 24, 2026: Unlock 10+ rewards now
+*Trending Desk · business*
+
+Garena Free Fire MAX continues to be a top choice among battle royale fans, thanks to its engaging tournaments, special events, and daily in-game rewards. Players can easily earn free items by using redeem codes, which are released regularly.
+
+These redeem codes consist of 12-character alphanumeric combinations and remain valid only for a limited time. Since each code can be redeemed just once, players should use them quickly before they expire.
+
+  
+
+## Garena Free Fire MAX Redeem Codes for May 24, 2026
+
+FFSGT7KNFQ2X
+
+FPSTQ7MXNPY5  
+4N8M2XL9R1G3  
+H8YC4TN6VKQ9  
+FF6YH3BFD7VT
+
+B1RK7C5ZL8YT
+
+4ST1ZTBZBRP9
+
+BR43FMAPYEZZ
+
+UPQ7X5NMJ64V  
+S9QK2L6VP3MR
+
+  
+
+## How to Redeem Free Fire Max Codes (24th May 2026)
+
+Step 1: Visit the official redemption site: reward.ff.garena.co  
+Step 2: Log in using one of your game-linked accounts (Facebook, Google, VK, Apple ID, Huawei ID, or Twitter)  
+Step 3: Enter the 12-digit redeem code in the provided text field  
+Step 4: A confirmation dialogue box will appear  
+Step 5: Click ok and claim your rewards
+
+---
+
+### Woman throws plastic from car on Uttarakhand road, founder returns it calmly
+*India Today Trending Desk · general*
+
+## Anoop Nautiyal confronted tourists after spotting plastic waste thrown from a car on the road to Mussoorie. The video has started a discussion on littering in hill areas and public responsibility.
+
+A video shows a man walking up to a car and reminding the passengers not to litter. (Photo: Instagram)
+
+A video from the road to Mussoorie in Uttarakhand, has gone viral on Instagram after a man calmly confronted a group of tourists for allegedly throwing plastic waste out of a moving taxi. The clip, shared by Anoop Nautiyal, founder of an environmental action and advocacy group, captured a quiet but firm lesson in civic sense amid the hills of Uttarakhand.
+
+According to Nautiyal, he noticed passengers in the taxi ahead tossing a plastic cup and spoon out of the vehicle window while travelling towards Mussoorie. Instead of ignoring the incident, he decided to stop and return the waste to them personally.
+
+In the now-viral video, the person filming points towards the taxi and says, “_Yeh inhone pheka tha gaadi mein se glass aur chammach plastic ka_” (“They threw this plastic cup and spoon from the car”).
+
+Before approaching the tourists, Nautiyal says, “_Aise nahi phekna chahiye. Kabhi bhi nahi phekna chahiye. Ab aawaz aise pahado mein aayegi, ab nahi phekenge yeh log_” (“One should not throw things like this. Never ever. Now this voice will echo in these hills, these people will not litter again”).
+
+**Watch the video here:**
+
+The clip later shows Nautiyal returning to his car after speaking to the group. When asked if the tourists accepted their mistake, he replied, “_Haan, unhone apni galti maani. Maine kaha ki Uttarakhand mein please aisa mat kariye_” (“Yes, they accepted their mistake. I told them, please do not do this in Uttarakhand”).
+
+What particularly resonated with viewers online was Nautiyal’s refusal to publicly shame the tourists despite confronting them. “Why embarrass someone unnecessarily? It is wrong no matter where you come from. This is not just about Uttarakhand, you should not throw waste from a moving car anywhere,” he says in the video.
+
+Sharing the clip on Instagram, Nautiyal urged travellers to keep Uttarakhand and the country clean by avoiding littering in public spaces.
+
+The video quickly drew praise online, with many users applauding the calm and respectful manner in which the issue was handled. Several people said the founder’s approach was more effective than aggressive confrontations, while others pointed out how littering in hill stations continues to remain a major concern despite repeated awareness campaigns.
+
+\- Ends
+
+Srimoyee Chowdhury
+
+May 24, 2026 09:46 IST
+
+---
+
+### From Delhi to Ahmedabad, why minimum temperature is not dipping below 30°C
+*India Today Science Desk · general*
+
+## Cities from Delhi to Ahmedabad are recording minimum temperatures near or above 30°C amid an intense heatwave. Experts say prolonged daytime heating and atmospheric moisture are trapping heat and driving oppressive warm nights.
+
+A woman covers her face while walking along a road amid dusty winds and scorching heat during a heatwave in Prayagraj (PTI Photo)
+
+Large parts of India are witnessing unusually hot nights, with minimum temperatures refusing to fall below 30 degrees Celsius even after sunset as an intense heatwave continues to grip the country.
+
+According to data from the India Meteorological Department (IMD), over 35 cities are currently recording night temperatures above the 30°C mark, highlighting how extreme daytime heat is now spilling deep into the night.
+
+Major cities, including Delhi, Ahmedabad, Kolkata, Mumbai, Chennai, and Hyderabad, are reporting minimum temperatures hovering near or above 30°C, even during late-night and early-morning hours.
+
+The minimum temperature in Delhi at 11:00 pm IST on Saturday was 33°C.
+
+### WHY MIN TEMPERATURE IS NOT FALLING BELOW 30°C
+
+Weather expert Devendra Tripathi explained that the primary reason behind the persistently high night temperatures is the prolonged period of extreme daytime heating across several states.
+
+“When temperatures remain continuously between 40°C and 45°C for many days, the outgoing long-wave radiation at night is unable to escape efficiently into the atmosphere,” he explained.
+
+“As a result, heat remains trapped both on the land surface and in the air, which keeps the minimum temperature elevated.”
+
+Devendra Tripathi, founder of Mausam Tak, said the current conditions are most severe across Rajasthan, Gujarat, Maharashtra, Madhya Pradesh and Uttar Pradesh, where daytime temperatures have repeatedly crossed 45°C. Regions including Punjab, Haryana, Delhi, Chhattisgarh, Odisha, Bihar and Jharkhand are also experiencing intense heat stress.
+
+The weather agency has also forecast a gradual rise of 2°C to 4°C in daytime temperatures. (Photo: Windy)
+
+Another major factor preventing nighttime cooling is moisture in the atmosphere. According to Tripathi, humid air acts like a thermal blanket over cities and plains.
+
+“Moisture creates a layer in the atmosphere that blocks heat from escaping easily,” he said. “Where dry winds prevail, and skies remain clear, temperatures cool faster at night and may fall to 25°C or 27°C. But in humid regions, the heat gets trapped.”
+
+This means that after daytime highs touching 45°C, temperatures may drop by only 12°C to 15°C overnight instead of cooling substantially.
+
+The result is oppressive “warm nights,” a growing feature of India’s worsening heatwave conditions.
+
+### WHAT TO EXPECT IN THE COMING DAYS?
+
+According to the India Meteorological Department, severe heatwave conditions are likely to persist across Central India over the next seven days, while Northwest India is expected to experience similar extreme heat between May 24 and May 29.
+
+The weather agency has also forecast a gradual rise of 2°C to 4°C in daytime temperatures across the plains of Northwest India in the coming days.
+
+In Delhi and the National Capital Region, isolated heatwave conditions are expected to begin from Sunday, with maximum temperatures predicted to climb between 43°C and 45°C.
+
+\- Ends
+
+Sibu Kumar Tripathi
+
+May 24, 2026 09:45 IST
+
+---
+
+### Making every possible effort to fix environment, says Delhi CM Rekha Gupta on pollution
+*SECTIONS Making every possible effort · business*
+
+New Delhi: Delhi Chief Minister Rekha Gupta has said that air pollution in the national capital is not a problem confined to a couple of months, but a year-round challenge that demands sustained and continuous efforts.
+
+Addressing the government's ongoing clean air initiatives, the Chief Minister said the administration is working on multiple levels to improve Delhi's environment and address pollution at its source.
+
+  
+
+"Pollution is not just a challenge for two months; it is a task that needs to be addressed throughout the year. Our government is making every possible effort to improve Delhi's environment and fix the pollution problem," Delhi CM Gupta said.
+
+She also noted that the government had sought innovative solutions to tackle air pollution and, in partnership with IIT Delhi, shortlisted three of the most promising projects for implementation in the city.
+
+"People came up with new measures to eliminate pollution. In collaboration with IIT Delhi, we selected the best three new projects, and now we are implementing them in Delhi," she added.
+
+Chief Minister said these steps are part of a broader, science-based approach aimed at reducing pollution levels in the capital through technological interventions, improved infrastructure, and long-term environmental planning.
+
+Delhi continues to face severe air quality issues, particularly during the winter season.
+
+In response, authorities have intensified anti-pollution measures such as dust suppression drives, road infrastructure upgrades, and pilot projects including cloud seeding and mist-based systems under the city's wider clean air strategy.
+
+Meanwhile on April 3, Delhi Chief Minister Rekha Gupta unveiled an aggressive and wide-ranging strategy to combat air pollution in the capital, signalling a decisive shift from intent to enforcement.
+
+Announcing the rollout of the Air Pollution Mitigation Action Plan 2026, she said the initiative builds on the government's 'historic' Green Budget for 2026-27 and aims to translate clean air goals into measurable outcomes, according to a press release issued by the CMO.
+
+The plan, prepared under the guidance of Prime Minister Shri Narendra Modi, lays out a structured roadmap for sustainable urban development, with a strong emphasis on accountability, technology and time-bound execution.
+
+A high-level review meeting regarding the effective control of pollution was held at the 'Mukhyamantri Janseva Sadan', presided over by the Chief Minister.
+
+---
+
+### Tamil Nadu govt running on DMK's mercy: MK Stalin says Vijay wave won't last long
+*Pramod Madhav · general*
+
+## MK Stalin attacked Chief Minister Vijay and said the TVK government was surviving on DMK's mercy. His remarks came as the new administration depends on post-poll support after falling short of a majority.
+
+Addressing party workers, DMK chief MK Stalin slammed Vijay-led TVK government. (PTI photo)
+
+DMK president MK Stalin on Sunday launched a sharp attack on Tamil Nadu Chief Minister Vijay and his newly formed government, claiming the ruling Tamilaga Vettri Kazhagam (TVK) administration would not survive a full five-year term and was "running on the mercy" of the Dravidian party.
+
+Addressing party workers, Stalin described the outcome of the recent Tamil Nadu Assembly election as a "cinema tsunami" rather than a political wave, arguing that voters had backed Vijay out of enthusiasm for a popular film star rather than political conviction.
+
+"People voted in excitement because their favourite actor launched a party. In a few days, they will lose interest in this toy," Stalin said. He added that voters would eventually "search for the DMK again, just like a child looks for its mother".
+
+The former Chief Minister also questioned the stability of the TVK-led government, pointing out that the party had failed to cross the majority mark of 118 seats on its own.
+
+"They could not even secure a majority. Today, the government is surviving because of our mercy. Anytime, any day, it can fall," he said.
+
+Stalin further alleged that attempts were made to split the AIADMK but had failed, and claimed the current political situation in the state remained unstable.
+
+Referring to supporting allies, he noted that parties such as the Communist parties, the Viduthalai Chiruthaigal Katchi (VCK) and the Indian Union Muslim League (IUML) had initially only extended outside support to the TVK government but later joined the Cabinet.
+
+"We will wait and watch what happens. Surely, this government will not last for five years," he said.
+
+In the recently concluded Tamil Nadu Assembly elections, Vijay-led TVK emerged as the single-largest party with 108 seats, falling short of the majority mark in the 234-member House.
+
+The Congress, IUML and VCK had contested the April 23 Assembly polls as part of the DMK-led alliance. However, shortly after the results, Congress, which won five seats, walked out of the alliance and extended support to TVK.
+
+The VCK and IUML later backed Vijay as he moved to secure enough numbers to form his maiden government in the state.
+
+The election marked a major setback for the DMK, which had won 133 seats in the 2021 Assembly polls but was reduced to just 59 seats this time. Stalin himself suffered defeat from the Kolathur constituency.
+
+\- Ends
+
+Sahil Sinha
+
+May 24, 2026 09:42 IST
+
+---
+
+### CBSE rechecking chaos: Dharmendra Pradhan seeks answers from board over glitches
+*India Today Education Desk · general*
+
+## Union Education Minister Dharmendra Pradhan has sought a detailed report after students and parents flagged repeated glitches in the CBSE re-evaluation process. The review will focus on technical preparedness, vendor accountability and the impact on students seeking re-evaluation services.
+
+CBSE re-evaluation portal chaos: Dharmendra Pradhan seeks answers from CBSE as glitches hit student
+
+Escalating complaints from students and parents over technical disruptions in the CBSE re-evaluation process have now reached the Centre. The development has prompted Union Education Minister Dharmendra Pradhan to seek a detailed report on the issue amid growing concerns over the handling of the post-result review mechanism.
+
+The intervention comes amid growing outrage over repeated portal crashes, payment gateway failures, server downtime and difficulties faced by students in accessing scanned answer sheets during the re-evaluation process.
+
+Sources said the minister has sought a detailed report on the technical failures, preparedness measures adopted before the launch, and accountability of agencies handling the process.
+
+The review is also expected to examine operational lapses and assess whether the existing digital infrastructure was equipped to handle the surge in applications after the declaration of results.
+
+### WHAT PROMPTED THE CENTRE’S INTERVENTION?
+
+The intervention follows days of complaints from students and parents who reported repeated login failures, inaccessible portals, payment gateway disruptions and abnormal fee displays while applying for re-evaluation and scanned answer books.
+
+Several users alleged that the system either crashed during transactions or generated unusually high charges for answer sheet access, adding to anxiety during the post-result phase. Reports also pointed to blurred scans and difficulties in downloading answer sheets, raising concerns over transparency in the review mechanism.
+
+### WHAT EXPLANATIONS HAVE OFFICIALS BEEN ASKED TO PROVIDE?
+
+Officials have reportedly been directed to submit a detailed explanation covering multiple aspects of the technical disruptions that affected the re-evaluation process, as reported by PTI.
+
+These include the reasons behind server downtime and repeated portal disruptions, the causes of payment gateway failures, and the preparedness measures put in place before the re-evaluation window was opened.
+
+Authorities have also been asked to clarify the technical oversight mechanisms adopted during the process, accountability of vendors and agencies involved, and the corrective measures taken after complaints from students and parents surfaced.
+
+The review is further expected to assess whether the digital infrastructure and system planning were adequately prepared to handle the surge in traffic following the declaration of CBSE results.
+
+### HOW HAS CBSE RESPONDED TO STUDENT CONCERNS?
+
+Amid growing anxiety, CBSE has assured students and parents that every “genuine concern” raised regarding scanned answer books and evaluation issues would be reviewed through the prescribed mechanism by subject experts.
+
+The board also urged students not to panic and reiterated its commitment to fairness, transparency and accuracy in the evaluation and re-evaluation process.
+
+CBSE further extended the deadline for applying for scanned answer books till May 24 after complaints emerged over portal crashes, blurred pages and payment glitches.
+
+### DID THE BOARD TAKE ANY CORRECTIVE MEASURES?
+
+In response to the larger controversy around evaluation and review procedures, CBSE earlier reduced charges 
+
+CBSE has also dismissed misinformation circulating online regarding any cancellation of the re-evaluation process, calling such notices fake and advising students to rely only on official communication.
+
+### WHAT NEXT FOR STUDENTS AWAITING REVIEW?
+
+With the Education Ministry stepping in, attention is now on the findings of the report and whether systemic changes will follow before future post-result processes. For students and parents, the episode has renewed questions over digital readiness in high-stakes examination systems.
+
+The Centre’s intervention signals that the technical disruptions will now face closer scrutiny, even as CBSE maintains that no student will be disadvantaged and all legitimate grievances will be examined fairly.
+
+\- Ends
+
+Apoorva Anand
+
+May 24, 2026 09:42 IST
+
+---
+
+### Chandigarh Smart City scam: CSCL’s former CFO seeks participation in probe, moves application before special court
+*Express News Service · legal*
+
+The Chandigarh Police had earlier registered two FIRs in connection with alleged financial irregularities — one relating to Chandigarh Smart City Limited involving around Rs 116.84 crore. (File Photo)
+
+Former chief financial officer (CFO) of Chandigarh Smart City Limited (CSCL), Nalini Malik, who is lodged in Model Jail, Burail, in connection with the alleged Rs 116.84-crore funds misappropriation case, has moved an application before the Special CBI Court seeking participation in the inquiry of the case.
+
+Special CBI Judge Bhawna Jain has issued notice to the CBI for May 27, the date already fixed in the matter. The application, dated May 14, was forwarded to the court by the Deputy Superintendent, Model Jail, Chandigarh, through jail warder Vijay.
+
+As per the court order, the application has been moved on behalf of accused-applicant Nalini Malik “seeking participation in the inquiry of the instant case” for “effective inquiry”. The case, earlier registered as FIR No. 2 dated March 9, is now being investigated by the CBI.
+
+The court ordered that the application be registered as an interlocutory application. “Notice of the above said application be issued to the CBI for May 27, 2026, the date already fixed,” the court said.
+
+Malik was arrested after her alleged role surfaced in the Smart City funds case. The matter pertains to alleged misappropriation of funds of CSCL, which were deposited with IDFC First Bank. The case was initially investigated by Chandigarh Police before being transferred to the CBI on the orders of the Ministry of Home Affairs.
+
+According to the allegations in the case, funds lying in the bank accounts of Chandigarh Smart City Limited were to be transferred to the Municipal Corporation (MC) after the Smart City project ended. However, it has been alleged that bank officials, in conspiracy with others, diverted the funds through shell companies and invested the money in real estate.
+
+The investigation had earlier alleged that while crores of rupees were to be transferred to the MC, Chandigarh, only Rs 81.20 was received from the Smart City account. The remaining amount was allegedly siphoned off by the accused persons.
+
+Story continues below this ad
+
+It has also been alleged that Malik, along with others, helped prepare fake fixed deposits to conceal the alleged diversion of funds. Several bank officials have also been arrested in the case.
+
+The Chandigarh Police had earlier registered two FIRs in connection with alleged financial irregularities — one relating to Chandigarh Smart City Limited involving around Rs 116.84 crore, and another relating to Chandigarh Renewable Energy and Science and Technology Promotion Society involving around Rs 83 crore. Both matters were later transferred to the CBI.
+
+Malik has also moved a bail application on medical grounds, which is listed for hearing on May 26. The CBI’s response to her application seeking participation in the inquiry will now be taken up on May 27.
+
+Arrested on April 2,Malik’s name surfaced in the disclosure statement of former IDFC First Bank manager Ribhav Rishi. She is accused of conspiring with bank officials and municipal staff to create 11 fake FDRs worth Rs 116.84 crore in the name of the Municipal Commissioner, Chandigarh.
+
+Story continues below this ad
+
+Police allege that after the merger of CSCL with the MC on March 28, 2025, Malik was part of the team handling the transfer of records. During this period, she allegedly colluded with officials, including Anubhav Mishra, to manipulate financial documents.
+
+It is further alleged that she received Rs 2 lakh from a shell company — Swastik Desh Project — and, during interrogation, admitted that over Rs 50 crore in cash was distributed among officials from the siphoned CSCL funds.
+
+---
+
+### Who is rapper Santy Sharma? What did he say about ‘Cockroach Janta Party’ that created a buzz on Instagram?
+*Trending Desk · business*
+
+Santy Sharma, Indian independent rapper and internet personality, has stirred fresh controversy after sharing his views on the viral “Cockroach Janta Party” (CJP) trend. In a strongly worded Instagram post, the rapper described the movement as “internet drama” and warned users against blindly following viral campaigns without checking facts or understanding the background of people leading them. His comments quickly spread across Instagram, X and YouTube, where users reacted sharply to his statements on nationalism, online activism and digital propaganda.
+
+### Who is Santy Sharma?
+
+Santy Sharma is an Indian rapper, singer and digital creator known for independent music releases and commentary on trending social and internet issues.
+
+  
+
+He has built an online following through his music, public opinions and discussions around influencer culture and viral controversies. Earlier, he had also attracted attention for supporting rapper Badshah during the controversy linked to the song “Tateeree.”
+
+### What did Santy Sharma say about ‘Cockroach Janta Party’?
+
+In his Instagram statement, Santy Sharma wrote, “ Cockroach Janta Party” feels more like internet drama than a serious movement.” He also questioned the intentions behind the campaign and the way many young users engage with viral online trends.
+
+“Today, many people blindly follow trends without properly researching the background of individuals leading such campaigns. The founder of this so-called CJP has reportedly been associated with AAP and has shared multiple posts in the past that appeared critical of India itself.”
+
+The rapper argued that national conversations should focus more on development and employment rather than emotionally charged internet movements.
+
+“If someone truly claims to be nationalist, then the focus should be on solving real issues of India, development, employment, education, innovation, and national unity, instead of emotionally provoking Gen Z into street protests inspired by situations seen in countries like Nepal or Bangladesh.”
+
+### ‘Criticism is part of democracy’
+
+Santy Sharma also clarified that criticism of political parties is necessary in a democracy and said no party is beyond criticism.
+
+“ No political party is perfect, including BJP, and criticism is part of democracy. But creating unnecessary instability, outrage culture, and online propaganda is not the solution for India’s growth.”
+
+The rapper said social media algorithms, meme culture and viral outrage are increasingly shaping political discussions among young people. According to him, emotionally driven campaigns without constructive direction can contribute to division and instability online.
+
+### Concerns over social media narratives
+
+In the latter part of his statement, Santy Sharma expressed concern over what he described as foreign-linked online narratives connected to the movement.
+
+“It is also concerning that a large portion of the social media support behind such movements reportedly comes from accounts linked to Pakistan, Bangladesh, and other anti-India narratives. Indians should stay aware of digital manipulation and propaganda tactics used online.”
+
+He concluded his note by saying, “India needs constructive discussions, not chaos driven by viral trends.
+
+I request the concerned authorities to monitor such activities carefully and take necessary steps to maintain peace, stability, and national interest.”
+
+### What is the ‘Cockroach Janta Party’ trend?
+
+The “Cockroach Janta Party” trend started as satirical internet content before turning into a larger online discussion around unemployment, inflation, education pressure and governance. The movement has gained traction among Gen Z users across meme pages and social media platforms.
+
+Supporters say the trend reflects frustration among young Indians, while critics argue that it promotes outrage culture and online polarization.
+
+Santy Sharma’s remarks have now added another angle to the debate, with some users supporting his concerns over digital propaganda while others defended internet-led activism as a reflection of genuine public sentiment.
+
+---
+
+### UP Madarsa Board Results Declared: 88.26% students pass, girls outshine boys
+*Express News Service · legal*
+
+In the Munshi/Maulvi (Secondary) examination, 47,036 of 62,232 registered students had appeared.
+
+The Uttar Pradesh Madarsa Education Board on Saturday declared the results of the munshi/maulvi (secondary) and alim (senior secondary) examinations for 2026, with an overall pass percentage of 88.26%.
+
+As many as 55,788 of a total of 80,933 registered students cleared the examinations, with girls outperforming boys across categories.
+
+According to the results, 29,229 girls passed with a success rate of 94.30%, while 26,559 boys qualified with a pass percentage of 85.13%.
+
+In the Munshi/Maulvi (Secondary) examination, 47,036 of 62,232 registered students had appeared.
+
+A total of 41,426 candidates passed, taking the overall result to 88.07%. Girls recorded a pass percentage of 91.46% (21,407 candidates), while 84.72% boys (20,019) cleared the examination with .
+
+Similarly, in the Alim (Senior Secondary) examination, 18,701 students had registered and 16,175 appeared. Among them, 14,362 students passed, resulting in an overall success percentage of 88.79%. Girls once again led the results, with 7,822 passing at a success rate of 90.88%, compared to 6,540 boys who passed with 86.42%.
+
+The examinations were conducted under CCTV surveillance and monitored directly from the Madarsa Board headquarters to ensure a cheating-free process. The state government said the measures reflected its focus on transparency and quality in madarsa education.
+
+Story continues below this ad
+
+Minority Welfare, Muslim Waqf and Haj Minister Om Prakash Rajbhar said the state government was committed to modernising madarsa education under the vision of “Quran in one hand and computer in the other”, as advocated by Prime Minister Narendra Modi and Chief Minister Yogi Adityanath.
+
+Students can check their results on the official Madarsa Board website.
+
+© IE Online Media Services Pvt Ltd
+
+---
+
+### How a Delhi Govt school student built a 3D-printing startup at age 22
+*Vidheesha Kuntamalla · legal*
+
+At night, when the lanes of Delhi’s Trilokpuri begin to empty and the sound of traffic recedes, the machines inside Nikhil’s building continue working.
+
+On the first two floors of his home, thirty-two 3D printers hum through the night, steadily producing architectural models, industrial prototypes, drone chassis and medical-device casings.
+
+Upstairs, on the third floor, Nikhil’s family — his father, mother, and younger sister sleep.
+
+Nikhil’s father manages the printing operations, and his sister handles the finance. Nikhil, 22 years old and still studying, spends his days balancing classroom lectures and client calls and production schedules while on the Metro to college.
+
+“If you think of something in your mind, we can make it,” he says about what his 3D printers can achieve.
+
+A few years ago, Nikhil did not even know what 3D printing was.
+
+Back then, he was a Class 12 student at RSKV Kalyanvas, a Delhi government school, trying to build a smart stick for visually impaired people, working with seed money that he had got from the Delhi government’s Business Blasters programme.
+
+Story continues below this ad
+
+The idea had appeared doable inside the classroom. Once he tried to build the smart stick, however, several issues arose.
+
+“We wanted to solve problems for blind persons,” he said. “But when we tried making a physical product, we faced problems, especially with the outer hardware box.”
+
+Every manufacturer that he went to, told him the same thing: mould-making was expensive. Industrial production was not designed for government-school students with limited money and no technical background.
+
+“Everyone told us, ‘It’s very costly. How will you do it?’” Nikhil said.
+
+Story continues below this ad
+
+And then, someone suggested a technology he had never heard of before: 3D printing.
+
+That suggestion changed the course of his life.
+
+The Business Blasters programme itself emerged from the Delhi government’s Entrepreneurship Mindset Curriculum, launched under the Aam Aadmi Party government as an attempt to encourage students in government schools to think beyond conventional career paths and become “job creators rather than job seekers”.
+
+The initiative provided Class 11 and 12 students small seed grants — usually Rs 2,000 per student — to develop startup ideas or community-focused projects in teams. Over time, lakhs of students across Delhi government schools participated in the program through school-level funding rounds, district showcases and state summits.
+
+The program was implemented with support from the Udhyam Learning Foundation, which worked as a technical and program partner.
+
+Story continues below this ad
+
+Mekin Maheshwari, founder and CEO of Udhyam Learning Foundation, said the larger aim was never simply to teach business.
+
+“Across our work, the idea has never been to teach entrepreneurship as a theoretical subject,” Maheshwari said. “It’s to help students look at the world around them a little differently, identify real problems they see in their homes, schools or communities, and build practical solutions to them.”
+
+“What makes these programs powerful is that students are not working on hypothetical case studies,” he said. “They are working on things that directly affect their lives, which changes the level of ownership and seriousness they bring to the process.”
+
+Maheshwari said that this broader transformation is precisely what the program was designed to create. “We’ve been doing similar work across 15 states since 2017, reaching close to 4.7 million students through different government partnerships and programmes, including initiatives like Delhi Business Blasters, Uttarakhand’s Kaushalam programme and Haryana’s KBC,” he said.
+
+Story continues below this ad
+
+After the government in Delhi changed in early 2025, the original Business Blasters programme was discontinued.
+
+For Nikhil, the consequences were immediate: “My startup had been approved for nearly Rs 7 lakh in support funding distributed in installments. But only around Rs 2 lakh ever arrived.”
+
+“The remaining amount stopped after the government changed,” he said. “I was never told the reason.”
+
+Still, Nikhil continued building. It was a team of seven — they called themselves the “G7”, Nikhil said.
+
+Story continues below this ad
+
+Nikhil grew up in Trilokpuri in East Delhi, and studied entirely in Delhi government schools before securing admission into an integrated BBA-MBA course at Maharaja Surajmal Institute.
+
+His father worked in an export company. His mother was a homemaker. “My father’s job was terminated during the coronavirus pandemic,” Nikhil said. “So everything (to ensure the family stayed afloat) was up to me.”
+
+After school finished in 2022, many of Nikhil’s classmates focused on college. He started working.
+
+“I did take admission in college,” he said. “But to continue the project, I needed to earn some money.”
+
+Story continues below this ad
+
+For one month, he worked in a call centre before joining a 3D-printing company.
+
+Since he initially knew nothing about the technology, he began approaching college students and teachers for help.
+
+“I connected with some college professors,” he said. “Teachers helped me financially as well.”
+
+Eventually, Nikhil found a company that was willing to print his computer-aided design (CAD) model. The relationship evolved into employment.
+
+Story continues below this ad
+
+For nearly eleven months, he worked while trying to continue college simultaneously. “I explained to the company that I have to attend college for some days,” he said. “They helped me a lot.”
+
+Those months became an informal industrial apprenticeship. “I made machines. I operated machines. I handled machines. I fixed machines,” he said. “I did almost everything.”
+
+The smart stick project itself eventually evolved beyond him.
+
+Nikhil said the company became interested in continuing the idea and acquired it from him for around Rs 3.2 lakh.
+
+“When I realised I wouldn’t be able to solve this problem in India alone, I handed the project to the company,” he said.
+
+He also quit his job. College schedules had become impossible to balance with full-time work. His original team had dispersed. And by then, Nikhil no longer wanted merely to build one product. He wanted to build a company.
+
+For five to six months, he immersed himself in research around 3D-printing technologies and manufacturing systems.
+
+On March 27, 2024, he officially launched Nova Nik 3DD. “Nova means new,” he explained. “Nik means Nikhil. And 3DD means 3 Dimensional Dynamics,” he said.
+
+In the beginning, the company had almost nothing. “One or two machines,” he said. So Nikhil started calling strangers.
+
+“I used to take out fifty contacts every day,” he recalled. “Then I started calling everyone — third parties, customers, everybody.”
+
+The business slowly expanded. First came 3D-printing services for architecture students at SPA Delhi. “We make building models for them,” he said. “They have to show designs, and we print them.”
+
+Then came industrial and institutional work. Through a third party, the company briefly worked on components connected to rover testing associated with India’s space program.
+
+The company later worked with IG Drones on drone manufacturing for defence-linked applications. “We manufactured around 2,000 drones,” he said. “The full body. The chassis.”
+
+It also developed ongoing work linked to medical-device manufacturing. “We permanently work with ICMR (Indian Council of Medical Research) projects,” he said. “Blood-testing machines, their outer plastic body work, I handle that.”
+
+---
+
+### Why label Indian youth as Pakistani? Cockroach Party counters minister's claim
+*India Today News Desk · general*
+
+## Abhijeet Dipke has countered Kiren Rijiju's suggestion that the Cockroach Janta Party drew support from Pakistan and George Soros-linked networks.
+
+Cockroach Janta Party founder Abhijeet Dipke. (Photo: ITG)
+
+The founder of the Cockroach Janta Party has hit back at Union Minister Kiren Rijiju after the latter suggested that the platform was drawing social media support from Pakistan and networks linked to billionaire philanthropist George Soros.
+
+Responding to Rijiju's remarks on X, Abhijeet Dipke shared what he described as a screen recording of the platform's audience demographics, claiming that over 94 per cent of its followers were from India.
+
+"This is the screen recording of our audience demographic which we have shared with media before our account was hacked. More than 94% of the audience is from India. Why is a Union Minister @KirenRijiju labelling Indian youth as Pakistani?" Dipke wrote on X.
+
+The response came after Rijiju posted a sharp attack on the platform without naming it directly.
+
+"I pity those who seek their followers in social media from Pakistan & George Soros gang. India has enough population and highly energetic youth population who could be genuine and valuable followers! No need to seek validation from the anti India gang," the Union Minister said.
+
+> I pity those who seek their followers in social media from Pakistan & George Soros gang.— Kiren Rijiju (@KirenRijiju) May 23, 2026
+
+The online exchange came amid a growing political controversy surrounding the Cockroach Janta Party, a satirical digital movement that rapidly gained traction on social media over the past week.
+
+The outfit first emerged after remarks attributed to Chief Justice of India Surya Kant during a court hearing on the issue of 'senior' designation for a lawyer sparked outrage online. Comments referring to 'cockroaches' and 'parasites' were widely circulated on social media, though the CJI later clarified that his observations were aimed at individuals allegedly entering the legal profession using "fake and bogus degrees" and had been misquoted.
+
+Capitalising on the online debate, the Cockroach Janta Party positioned itself as a youth-driven protest platform targetting issues such as unemployment, examination pressure and alleged irregularities in recruitment and entrance tests.
+
+The movement saw a major spike in popularity during nationwide anger over the NEET-UG 2026 paper leak controversy, which triggered protests among medical aspirants across the country. The platform projected itself as a voice for students frustrated with competitive examinations and the functioning of the education system.
+
+Within days of its launch, the Cockroach Janta Party overtook both the BJP and the Indian National Congress in Instagram followers, becoming one of the most-followed political pages on the platform.
+
+Dipke has also alleged a wider crackdown on the outfit. He claimed that the CJP's Instagram page, his personal Instagram account and the organisation's X handle had either been hacked or withheld. He said the group no longer had access to its official platforms and warned supporters against treating any subsequent posts as official communication.
+
+According to Dipke, the platform's website was also taken down and he had received death threats after launching a campaign demanding the resignation of Union Education Minister Dharmendra Pradhan over the alleged NEET-UG paper leak.
+
+"Action should have been taken against the education minister for the paper leak. For the student who lost his life due to the government's failure. But in New India, action is being taken against the Cockroach Janta Party for demanding accountability," Dipke said in another post.
+
+He claimed that before the website went offline, nearly 10 lakh users had registered with the platform and around six lakh supporters had signed an online petition seeking Pradhan's resignation.
+
+Despite the alleged takedowns, a backup X account titled "Cockroach is Back" claimed that the movement continued to grow online.
+
+Dipke, who founded the platform, is a Boston-based former social media campaign worker who was associated with the Aam Aadmi Party (AAP) during the 2020 Delhi Assembly elections.
+
+\- Ends
+
+Sahil Sinha
+
+May 24, 2026 09:27 IST
+
+---
+
+### UP maulana gets life term for raping 11-year-old girl inside mosque
+*Nahid Ansari · general*
+
+A special POCSO court in Uttar Pradesh’s Hamirpur has sentenced a mosque cleric to life imprisonment for raping an 11-year-old girl inside a mosque premises. Apart from life imprisonment, Special Sessions Judge Anil Kumar Kharwar of the POCSO court, also slapped a financial penalty of Rs 26,000 on the convict - Muntazir Alam.
+
+According to Government Counsel Rudra Pratap Singh, the incident took place on the morning of November 29, 2023, in a village under the Kurara police jurisdiction. The 11-year-old girl and her 10-year-old brother had gone to the village mosque for their routine lessons conducted by Alam.
+
+After their classes, the cleric sent the other children home early. He then instructed the girl's brother to wash utensils outside and ordered her to sweep the floor. While she was alone, Alam forcefully dragged her to a bed and assaulted her.
+
+The girl managed to escape, reached home, and narrated the ordeal to her grandmother. Realising the gravity of the crime, her uncle rushed her to the Kurara police station and lodged a formal complaint.
+
+The local police acted promptly, registering a case under the Bharatiya Nyaya Sanhita and the POCSO Act. Following a thorough investigation, a chargesheet was submitted to the court. Evaluating the critical evidence, the court ensured the convict remains behind bars for the rest of his natural life.
+
+\- Ends
+
+Ritaban Misra
+
+May 24, 2026 09:27 IST
+
+---
+
+### Who is Shamir Chandran? Indian-origin cancer specialist doctor banned in UK says, ‘I will never work in that country again’
+*Trending Desk · business*
+
+An Indian-origin cancer specialist who once worked in the UK’s National Health Service has been permanently banned from practising medicine in Britain after a tribunal ruled that he posed a risk to the public. The decision against Shamir Chandran came after he was convicted in a criminal case involving controlling behaviour and cruelty towards a minor. The doctor, who reportedly left the UK before the proceedings concluded, later told British medical authorities that he would “never work in that country again.”
+
+## Who is Shamir Chandran, Indian-origin doctore banned in UK?
+
+Shamir Chandran is an Indian-origin oncologist, or cancer specialist doctor, who earlier worked at a hospital in Newcastle in the UK. He completed his MBBS from the University of Calicut Academy of Medical Sciences in Pariyaram, Kerala.
+
+According to tribunal records cited by BBC, Chandran later informed the General Medical Council (GMC) that he no longer wanted to continue working in oncology and had started helping a friend in a private business while trying to rebuild his life.
+
+  
+  
+
+## Why was the doctor banned in the UK?
+
+Chandran was sentenced to four years in prison in November after being convicted on two counts of controlling and coercive behaviour and one count of cruelty to a person under 16.
+
+Following the conviction, the Medical Practitioners Tribunal Service (MPTS) ordered that his name be erased from the UK medical register. The ruling means he can no longer legally practise medicine in Britain.
+
+The tribunal described the offences as serious and said the behaviour targeted vulnerable people.
+
+“It was directed towards people who were vulnerable and involved elements of premeditation - seeking financial gain from \[his victim\] through intimidation,” the report said.
+
+The tribunal also said Chandran had shown little understanding of the seriousness of his actions.
+
+"The tribunal considered that there was a real risk of him harming someone in the future.”
+
+## Did Shamir Chandran leave the UK?
+
+According to the BBC report, Chandran did not attend either the criminal trial at Carlisle Crown Court or the disciplinary hearings. Authorities believe he fled the UK, and Cumbria Police confirmed there is an outstanding warrant for his arrest.
+
+Tribunal documents showed that he resigned from his NHS position after the GMC began action against him.
+
+“Due to the GMC action, I had to resign (from) my job and leave the UK. I don't know how I can help with these proceedings now, as I am not working at present,” he said in one of the emails submitted during the case.
+
+## ‘I will never work in that country again’
+
+Emails presented before the tribunal revealed Chandran’s anger over how he believed he was treated in Britain during the investigation and legal proceedings.
+
+“I don't care anymore about the proceedings, as my career has already been destroyed,” he wrote to the GMC.
+
+“I am utterly disgusted with the way I have been treated in the UK and I will never work in that country again. They treated me like a common criminal without giving any regard to what I had to say and the impact of what they were doing.”
+
+However, the tribunal concluded that Chandran had not accepted responsibility for his conduct or taken steps to address his behaviour. It also said allowing him to continue as a doctor would seriously damage public confidence in the medical profession.
+
+---
+
+### Hyderabad Horror: Senior lawyer dies after being rammed by Scorpio outside home, murder suspected
+*Monica Singh · general*
+
+## Hyderabad Horror: Senior lawyer dies after being rammed by Scorpio outside home, murder suspected
+
+Senior lawyer Khaja Moizuddin was killed after a car rammed into him outside his Hyderabad residence in Masab Tank.
+
+A senior advocate lost his life after being struck by a vehicle outside his residence in Hyderabad, in what police are treating as a possible premeditated killing. The incident occurred on Saturday in the Masab Tank area and has triggered serious concern within the legal community.
+
+The victim, identified as 63-year-old Khaja Moizuddin, was reportedly preparing to leave his home when the incident took place.
+
+## **Vehicle Rammed Into Advocate Outside Home**
+
+According to police and CCTV footage, Moizuddin was placing his belongings into his Toyota Innova before entering the driver’s seat. At that moment, a green-coloured Mahindra Scorpio approached the location and suddenly altered its direction before crashing into him.
+
+The impact of the collision was severe, throwing him nearly 15 to 20 feet away from his vehicle. Eyewitnesses in the locality rushed to assist and immediately shifted him to Mahavir Hospital. Due to the seriousness of his injuries, he was later transferred to another medical facility for advanced treatment, where he succumbed.
+
+## **Allegations of Targeted Attack Over Legal Disputes**
+
+Following the incident, Moizuddin’s family alleged that the crash was not accidental but a carefully planned attack. His son, advocate Mohammad Farhan, claimed that the lawyer had been involved in several sensitive cases 
+
+The family further stated that Moizuddin had received threats in the past due to his legal work and had previously survived attempts of intimidation. They also named two individuals as suspects and urged authorities to conduct a detailed investigation into the matter.
+
+## **Police Launch Investigation Teams**
+
+Law enforcement officials have registered a hit-and-run case and initiated a large-scale investigation. A senior police officer confirmed that multiple teams have been formed to trace the vehicle involved and identify those responsible.
+
+Authorities are currently reviewing CCTV footage and collecting evidence from the area to reconstruct the sequence of events.
+
+## **Legal Community Demands Action**
+
+The incident has caused widespread concern among lawyers in Hyderabad, with members of the bar association calling for swift action. Many have also urged authorities to ensure better protection for advocates dealing with high-conflict property and land-
+
+Police have assured that all angles, including the possibility of a planned attack, are being thoroughly examined as the investigation continues.
+
+---
+
+### Telangana Cabinet approves mid-day meal scheme in junior colleges
+*SECTIONS Telangana Cabinet approves mid-day meal scheme · business*
+
+Hyderabad: The Telangana Cabinet has decided to introduce the mid-day meal scheme for students in all junior colleges (11th and 12th standard) in the state and to sanction 2.50 lakh houses under the second phase of the 'Indiramma' housing scheme.
+
+Briefing reporters on Saturday after a meeting of the state Cabinet, Information and Public Relations Minister Ponguleti Srinivasa Reddy said the Congress government had sanctioned 4.50 lakh houses at a cost of about Rs 22,500 crore in the first phase.
+
+He said 2,000 houses would now be sanctioned for each Assembly constituency.
+
+  
+
+The Cabinet also decided to construct one lakh houses for LIG (Lower Income Group) in the 24 Assembly constituencies in the Greater Hyderabad region.
+
+"The Cabinet approved the introduction of a mid-day meal scheme in all junior colleges in the state," Reddy said.
+
+The Cabinet meeting also approved the Next-Generation Life Sciences Policy 2026-30, which was unveiled by Chief Minister A Revanth Reddy during his visit to the World Economic Forum (WEF) meeting at Davos.
+
+The policy aims at attracting investment of USD 25 billion and five lakh jobs in the next five years.
+
+The government aims to transform Telangana into one of the Top-5 life sciences hubs in the world by 2030, he said.
+
+The Cabinet approved the proposals of state Power Distribution Companies (DISCOM) to join the RDSS (Revamped Distribution Sector Scheme) of the Centre for improvement of power distribution and infrastructure facilities, he said.
+
+The cabinet also decided to sanction Rs 587 crore for land acquisition and others for the Palamuru - Ranga Reddy Lift Irrigation Scheme.
+
+---
+
+### Woman carries mother-in-law, 90, on back for 9 km to draw her pension from bank
+*India Today News Desk · general*
+
+## The video has triggered strong reactions online, with many users questioning why elderly and bedridden pensioners in remote regions are still required to travel long distances for verification despite repeated government claims of doorstep services and Digital India initiatives.
+
+Woman carries 90-year-old mother-in-law on back for 9 km to bank for pension in Chhattisgarh (Screen grab)
+
+Bent under the weight of her 90-year-old mother-in-law, a woman trudges through forest paths, rocky stretches and streams under the scorching sun. The visuals are strikingly reminiscent of the old Vikram-Betaal tales – a figure carrying another on their back through a harsh and unforgiving landscape. But this is not folklore. It is a glimpse of the struggle for basic welfare access in a remote part of Chhattisgarh.
+
+The viral video, reported from the Mainpat region in Surguja district, has triggered widespread reactions online and renewed questions over the realities of welfare delivery in remote rural India.
+
+According to local accounts, the woman, identified as Sukhmania Bai, walked nearly 9 kilometres carrying her elderly mother-in-law on her back, so the latter could collect her pension from a bank. Residents say poor transport connectivity in the forested region often forces villagers to travel long distances on foot through rough terrain and streams to access even basic services.
+
+Locals further claimed that Sukhmania Bai has been making similar journeys for months because pension rules require beneficiaries to be physically present at the bank for fingerprint or identity verification before payments can be released.
+
+What has especially caught public attention, however, is the conversation heard in the video.
+
+A man recording the visuals can be heard asking the woman in the local dialect why she was carrying her elderly mother-in-law over such a long distance. Responding to him, the woman says the pension money is released only when the elderly woman is physically brought to the bank.
+
+She further explains that there is no transport facility in the area and that the journey involves crossing streams and uneven forest routes. During the exchange, she says the family receives around Rs 1,500 in pension, sometimes paid together for multiple months.
+
+The woman also suggests that pension money was earlier delivered locally or reached beneficiaries more easily, but that arrangement is no longer functioning, forcing families like hers to undertake physically exhausting journeys for basic welfare support.
+
+The video has triggered strong reactions on social media, with many users questioning why elderly and bedridden pensioners in remote regions are still being required to travel long distances for verification despite repeated claims regarding Digital India initiatives and doorstep delivery of welfare services.
+
+For many viewers, the visuals have come to symbolise the gap between policy announcements and ground realities in tribal and forested regions, where difficult terrain, poor infrastructure and limited administrative access continue to turn even basic entitlements into a struggle.
+
+\- Ends
+
+Priyanka Kumari
+
+May 24, 2026 09:16 IST
+
+---
+
+### Doval, Rubio Set For Crucial Talks Amid West Asia Tensions; Regional Security In Focus | Exclusive
+*Vani Mehrotra · general*
+
+Ajit Doval is set to hold talks with Marco Rubio amid rising tensions in West Asia, with security concerns, and counter-terror cooperation expected to dominate the agenda.
+
+[Read full article](https://www.news18.com/india/india-us-talks-ajit-doval-marco-rubio-west-asia-tensions-energy-security-counter-terror-quad-modi-meeting-india-us-strategic-partnership-ws-l-10108936.html)
+
+---
+
+### Rajasthan Moves To Cut Costs: No Govt-Funded Foreign Travel, Orders Carpooling And EV Adoption
+*Aanchal Sinha · general*
+
+It also instructed that “officers and employees travelling towards the same destination shall give priority to car pooling (Car Pooling) in government/contract/private vehicles.”
+
+[Read full article](https://www.news18.com/india/rajasthan-moves-to-cut-costs-no-govt-funded-foreign-travel-orders-carpooling-and-ev-adoption-ws-l-10108962.html)
+
+
+---
+
 ## 23 May 2026
 
 ### Petrol, diesel prices hiked by 87-91 paise per litre for third time in eight days
