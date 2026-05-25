@@ -1,3 +1,875 @@
+## 25 May 2026
+
+### Ungrateful: Congress hits back at Udhayanidhi as row with DMK widens
+*Pramod Madhav · general*
+
+## Congress MP Manickam Tagore hit back at Udhayanidhi Stalin as the post-election rift with the DMK sharpened in Tamil Nadu. The exchange deepened the alliance rupture after Congress backed Vijay's TVK and Tagore alleged DMK-AIADMK contacts.
+
+Congress-DMK feud escalates as Manickam Tagore hits back at Udhayanidhi Stalin (File Photo: ITG)
+
+The bitter fallout between the Congress and the DMK intensified on Sunday, with Congress MP Manickam Tagore launching a sharp counterattack against DMK leader Udhayanidhi Stalin over his remarks accusing the national party of “betrayal” after the Tamil Nadu Assembly election results.
+
+Tagore termed Udhayanidhi’s comments “irresponsible” and accused him of forgetting the Congress party’s role in supporting his political rise. “It is very disheartening to see the Leader of Opposition, who should act responsibly, speaking irresponsibly,” Tagore said.
+
+“He forgot that Congress carried him on its shoulders as he became Minister and then Deputy Chief Minister. This is called being ungrateful,” he added.
+
+### CONGRESS CLAIMS DMK HELD TALKS WITH AIADMK
+
+Escalating the political attack, Tagore alleged that backchannel talks had taken place between the DMK and the AIADMK after the election results, allegedly with the BJP attempting to facilitate an arrangement aimed at preventing actor-turned-politician Vijay from becoming chief minister.
+
+“As the results were being announced and losing, talks were on between AIADMK and DMK with BJP’s control to form government,” Tagore claimed. “The only reason was to make sure TVK leader should not become CM,” he alleged.
+
+> #WATCH | Sivakasi, Tamil Nadu: On Tamil Nadu Legislative Assembly LoP & DMK leader Udhayanidhi Stalin’s statement, Congress MP Manickam Tagore says, “Congress had stood with DMK in difficult timeswe had waited outside when they had a minorityhis words are unacceptable. pic.twitter.com/U3fLiGLS9w— ANI (@ANI) May 25, 2026
+
+The Congress leader further claimed his party stayed away from the DMK after learning about the alleged discussions. “We didn’t reveal this and that is why we didn’t go there. If you ask why we didn’t go on the 5th, it is because they initiated talks on the 4th,” he said.
+
+Tagore also accused the BJP of attempting to engineer a political realignment in Tamil Nadu. “Congress always stood with the secular alliance. BJP was making the connecting call between the DMK and AIADMK, which is against our principle. Any understanding with the BJP will not be tolerated by the Congress,” he said.
+
+### UDHAYANIDHI'S STABBING REMARK
+
+The Congress response came a day after Udhayanidhi launched a blistering attack on the party, accusing it of “stabbing the DMK in the back” after benefiting electorally from the alliance.
+
+“For over 20 years, the Congress party rode on our backs. Today, they have stabbed us in the back. No one should ever forget this. We must never trust the Congress at any point in the future, nor should we ever let them come near us again,” Udhayanidhi said at a DMK Youth Wing meeting in Chennai.
+
+The remarks marked a dramatic rupture in one of Tamil Nadu’s longest-running political alliances.
+
+The Congress, which won five seats as part of the DMK-led Secular Progressive Alliance in the April 23 Assembly elections, later switched sides and extended support to Vijay-led Tamilaga Vettri Kazhagam (TVK), which emerged as the single-largest party but fell short of a majority.
+
+### HOW VIJAY’S TVK CHANGED TAMIL NADU POLITICS
+
+The TVK’s emergence disrupted the traditional dominance of the DMK and the AIADMK in Tamil Nadu politics.
+
+Vijay’s party won 108 seats in the 234-member Assembly, falling just 10 short of the majority mark. Congress later offered support with its five MLAs, while Left parties, the Indian Union Muslim League and the Viduthalai Chiruthaigal Katchi together added further support, eventually helping the TVK cross the majority threshold.
+
+After days of political negotiations and high drama, Vijay was sworn in as chief minister following a successful floor test.
+
+The election outcome sharply reduced the DMK-led alliance’s tally and triggered intense recriminations within the opposition camp.
+
+### DMK QUESTIONS CONGRESS’ GRATITUDE
+
+In his speech, Udhayanidhi claimed the Congress won seats only because of DMK cadre support and the popularity of party chief MK Stalin.
+
+“DMK cadre was the reason for Congress winning five seats. People voted for them because they wanted MK Stalin as the chief minister,” he said.
+
+“But today, for some positions, they ran away without informing us. We should never allow them near us again,” he added.
+
+The DMK leader also blamed the Congress, rather than Prime Minister Narendra Modi or Union Home Minister Amit Shah, for the BJP’s repeated national electoral successes.
+
+“Even in this election, a virtually non-existent Congress managed to win five seats solely because of our leader’s instructions and the tireless work of DMK cadres,” he alleged.
+
+\- Ends
+
+With agency inputs
+
+Priyanka Kumari
+
+May 25, 2026 10:23 IST
+
+---
+
+### AI forcing consulting firms like McKinsey to deliver results and not charge by hours: Report
+*Divya Bhati · general*
+
+## Artificial intelligence is reportedly forcing consulting firms such as McKinsey to rethink how they charge clients. As AI makes consulting work faster and more efficient, clients increasingly want to pay for results delivered rather than hours worked, challenging the industry's traditional business model.
+
+Artificial intelligence is not just changing how companies work, it is also reshaping how some of the world's biggest consulting firms make money. Clients are reportedly pushing firms such as McKinsey & Company to abandon pricing models based on the number of consultants assigned to a project or the hours they spend on it. Instead, they want to pay for the actual results these firms deliver.
+
+According to a recent Financial Times report, clients want consultants to link their fees to measurable outcomes such as cutting costs, boosting profits or increasing market share. The reason behind this shift is Artificial Intelligence. Companies are using AI to automate tasks and handle work that once required teams of analysts and junior consultants, including data analysis, research, identifying business problems and generating recommendations.
+
+For decades, consulting firms justified large bills through their expertise and manpower. A project could involve dozens of consultants working for months, with clients paying largely based on the resources deployed. However, AI is now challenging that model. Clients are reportedly pointing out that if software can analyse large datasets in minutes rather than days, there is less reason to keep paying for the number of hours worked rather than the value created.
+
+The report suggests that a similar change in pricing structures is also being seen across other professional services industries. Lawyers, accountants and auditors are facing pressure to pass on some of the efficiency gains created by AI. As businesses become more comfortable using AI tools themselves, they are increasingly willing to pay for the successful completion of a task rather than the effort involved in getting there.
+
+Notably, this approach is already visible in the AI industry. Some AI companies charge customers based on completed actions rather than subscriptions alone. FT highlights how AI agent company Fin, for instance, charges per customer case resolved by its bot, while identity verification platform iDenfy charges per verification completed. Salesforce has also introduced task-based pricing for some AI-powered functions.
+
+For consulting firms, however, the transition is not straightforward. Charging for outcomes can make revenue less predictable because results are not always entirely within a consultant's control. Economic downturns, geopolitical tensions, supply-chain disruptions or resistance within a client's organisation can all affect whether a project achieves its intended goals.
+
+Nevertheless, FT notes that McKinsey is already adapting internally to this new reality. The firm has reportedly increased the share of partners' compensation linked to equity and is retaining more cash, moves that could help it manage less predictable income streams if outcome-based pricing becomes more common.
+
+\- Ends
+
+May 25, 2026 10:22 IST
+
+---
+
+### This 8-year-old founder learns at hackathons, factories instead of classrooms
+*India Today Education Desk · general*
+
+## At eight, Hyderabad's Lakshveer Rao spends his days in factories, hackathons, and startup offices, learning alongside founders while pursuing a micro-schooling path that gives him the freedom to travel, build, and explore. His journey reflects an education shaped by curiosity, exposure, and problem-solving.
+
+Meet Lakshveer Rao, the 8-year-old hardware founder learning through micro-schooling (Image: X/@CaptVenk)
+
+Most eight-year-olds learn how the world works through textbooks. Lakshveer Rao is learning by stepping into it.
+
+Instead of limiting learning to classrooms and fixed schedules, Laksh spends time inside factories, startup offices, hackathons, and maker spaces across India, observing how things are built and problems are solved.
+
+His classroom stretches far beyond four walls. It exists on manufacturing floors, in innovation hubs, and alongside founders and builders working on real-world challenges.
+
+What makes Laksh’s story remarkable is not only that he is an eight-year-old hardware founder from Hyderabad. It is the clarity of purpose already shaping his journey: using technology to solve practical problems.
+
+Behind that journey is his father, Captain Venkat, who has intentionally built an environment around curiosity and exposure. From factory visits to founder meetups across cities, he has created experiences where learning happens through participation rather than instruction.
+
+Together, they are exploring a different model of education, one driven less by memorising answers and more by curiosity, exposure, and solving meaningful problems.
+
+### WHAT IS MICRO SCHOOLING?
+
+Laksh follows an online schooling programme that gives him the flexibility to travel, explore, and learn through experience rather than following a traditional academic path.
+
+“In microschooling, they focus only on the main topics. Once a concept is covered, they give us hands-on work and around 10–15 questions to practice. The classes are small, usually just 3–4 students, and then the session is done,” says the 8-year-old, who is currently working on a kitchen automation robot.
+
+This resembles what many describe as micro-schooling, a more flexible and personalised model where learning adapts to the child instead of the child adapting to the system.
+
+In Laksh’s case, education appears deeply connected to exploration, observation, and making things. Factory visits become lessons. Startup offices become classrooms. Problems observed during travel become opportunities to build.
+
+Instead of separating learning from life, the two become intertwined.
+
+The shift is subtle but powerful: moving from curriculum-led learning to problem-led learning.
+
+### WHY DOES EXPOSURE MATTER SO EARLY?
+
+Laksh frequently travels to startup and innovation hubs such as Mumbai, Pune, and Bengaluru, immersing himself in environments where products are built and ideas are turned into companies. He also attended VibeCon earlier this year.
+
+That exposure matters.
+
+Most children learn about entrepreneurship years later. Laksh is experiencing it firsthand. He is growing up around founders, engineers, operators, and makers in real time, turning exposure itself into education.
+
+Experiences that many adults actively seek out are becoming a normal part of their childhood.
+
+### GROWING UP AROUND BUILDERS
+
+An interesting aspect of Laksh’s journey is that he largely interacts with adults, especially entrepreneurs and builders.
+
+As a result, he is constantly surrounded by conversations about technology, manufacturing, product development, innovation, and solving problems.
+
+Those interactions inevitably shape how he sees the world. He is not only learning skills; he is absorbing ways of thinking.
+
+The surrounding ecosystem is not merely supporting learning, it is actively shaping it.
+
+### WHAT CAN EDUCATION LEARN FROM THIS STORY?
+
+Lakshveer Rao’s story is bigger than being India’s youngest hardware founder.
+
+It reflects a different model of learning, one built around curiosity, immersion, exposure, and self-directed growth.
+
+His journey raises a compelling question for the future of education: perhaps learning is not only about what children study, but also what environments they grow up in and what problems they are encouraged to solve.
+
+\- Ends
+
+Apoorva Anand
+
+May 25, 2026 10:16 IST
+
+---
+
+### Gold and silver price today, 25 May: Check retail rates of 24K, 22K gold and 999 silver in Delhi, Mumbai, other cities | Mint
+*Shivam Shukla · economy*
+
+## Gold and silver prices gained on 25 May, with gold reaching ₹160,060 per 10 grams and silver rising to ₹276,830 per kg. The rally was supported by a weaker dollar and lower crude oil prices amid growing optimism over a potential US-Iran peace deal.
+
+Gold prices climbed on the MCX on Monday morning as the dollar weakened.**(AFP)**
+
+**Gold and silver prices today on 25 May:** Gold rates rose in the domestic futures market this morning amid a decline in the US dollar following a drop in crude oil prices driven by rising optimism over a potential US-Iran peace deal. This deal, if closed, will bring much-needed respite from the escalating gas and oil prices worldwide.
+
+MCX gold June futures were 0.45% up at ₹160,060 per 10 grams, while MCX silver July futures were 1.67% up at ₹276,830 per kg around 9:45 am.
+
+The dollar index declined by nearly 0.31%, making greenback-denominated bullion cheaper for buyers in other currencies, as crude oil prices declined by more than 5%. The benchmark Brent crude touched $97.89 per barrel. Reports suggested that a peace deal between the US and Iran is imminent.
+
+## **Important geopolitical developments**
+
+Japan’s Nikkei 225 breached 65,000 for the first time on Monday, hitting a record high in holiday-thinned Asia trading after reports that the crucial Strait of Hormuz may reopen soon pushed oil prices down and lifted investor sentiment, as detailed in a report by _CNBC_.
+
+US President Donald Trump mentioned in a Truth Social post that negotiations with Iran were ‘proceeding in an orderly and constructive manner,’ adding that he had told his representatives ‘not to rush into a deal in that time is on \[their\] side.’ Washington and Tehran remain at odds over several key issues. Major discussion points such as Iran’s enriched uranium stockpile and tolls on the Strait of Hormuz are still under discussion.
+
+Here are the recent developments in gold and silver prices in various states of the country.
+
+In the retail market, gold is sold in 24-karat and 22-karat purity. While 24-karat gold is considered the purest form, 22-karat gold is commonly used for jewellery because it's more durable. Here's a look at the latest gold prices across major Indian cities on 25 May, 2026.
+
+### **Gold Prices in Mumbai — 25 May**
+
+24 karat gold rate in Mumbai — ₹159,760/10 gm
+
+22 karat gold rate in Mumbai — ₹146,447/10 gm
+
+Silver 999 Fine rate in Mumbai — ₹276,530/1 kg
+
+### **Gold Prices in New Delhi — 25 May**
+
+24 karat gold rate in New Delhi — ₹159,490/10 gm
+
+22 karat gold rate in New Delhi — ₹146,190/10 gm
+
+Silver 999 Fine rate in New Delhi — ₹276,050/1 kg
+
+### **Gold Prices in Bengaluru — 25 May**
+
+24 karat gold rate in Bengaluru — ₹159,880/10 gm
+
+22 karat gold rate in Bengaluru — ₹146,566/10 gm
+
+Silver 999 Fine rate in Bengaluru — ₹276,750/1 kg
+
+### **Gold Prices in Kolkata — 25 May**
+
+24 karat gold rate in Kolkata — ₹159,560/10 gm
+
+22 karat gold rate in Kolkata — ₹146,263/10 gm
+
+Silver 999 Fine rate in Kolkata — ₹276,050/1 kg
+
+### **Gold Prices in Hyderabad — 25 May**
+
+24 karat gold rate in Hyderabad — ₹160,030/10 gm
+
+22 karat gold rate in Hyderabad — ₹146,694/10 gm
+
+Silver 999 Fine rate in Hyderabad — ₹276,860/1 kg
+
+### **Gold Prices in Chennai — 25 May**
+
+24 karat gold rate in Chennai — ₹160,240/10 gm
+
+22 karat gold rate in Chennai — ₹146,887/10 gm
+
+Silver 999 Fine rate in Chennai — ₹277,220/1 kg
+
+---
+
+### ‘We Stood Together In Difficult Times’: War of Words Between Congress, DMK After Alliance Breakup
+*Shobhit Gupta · general*
+
+Udhayanidhi Stalin launched a sharp attack on the Congress party, saying the BJP’s repeated electoral victories were due more to Congress.
+
+[Read full article](https://www.news18.com/india/we-stood-together-in-difficult-times-war-of-words-between-congress-dmk-after-alliance-breakup-ws-l-10110357.html)
+
+---
+
+### India moves closer to mega Rafale fighter jet deal, finalises request letter
+*Shivani Sharma · general*
+
+## India has finalised a Letter of Request to France for 114 Rafale fighter aircraft. The proposed deal pairs a major local manufacturing push with a wider India-France defence partnership.
+
+New Delhi has also pressed the French side to expand the role of Indian companies in the Rafale production.
+
+India has finalised the Letter of Request (LoR) for the acquisition of 114 Rafale fighter aircraft for the Indian Air Force and is expected to send it to France within the next few weeks, sources said.
+
+Under the proposed deal, nearly 90 of the 114 fighter jets are planned to be manufactured in India through a partnership between French aerospace company Dassault Aviation and an Indian firm. The remaining aircraft are expected to be delivered in fly-away condition.
+
+Sources told _India Today TV_ that once France responds to the LoR, India will move ahead with issuing the formal Request for Proposal (RFP) for the procurement.
+
+The LoR is a formal government-to-government communication used to initiate defence procurement under the Foreign Military Sales (FMS) or Intergovernmental Agreement (IGA) framework.
+
+The Defence Acquisition Council (DAC) has already cleared the procurement proposal for the Indian Air Force. After the LoR is sent, France is expected to respond with details 
+
+The final contract will require approval from the Cabinet Committee on Security (CCS) before it can be signed.
+
+The Indian Air Force already has 36 Rafale fighter jets in service, while the Navy is preparing to induct 26 Rafale M aircraft for carrier-based operations in the coming years. Acquiring more Rafales is also expected to reduce logistics, maintenance and training expenses due to the existing operational ecosystem.
+
+Meanwhile, New Delhi has also pressed the French side to expand the role of Indian companies in the Rafale production ecosystem, seeking up to 50 per cent indigenous content in the fighter jets proposed for India. The demand is expected to feature in Dassault Aviation's bid for the Indian Air Force's planned procurement of 114 multirole fighter aircraft.
+
+The focus on domestic manufacturing is in line with India's broader Make in India initiative as well as France's push for strategic autonomy, both of which are emerging as key pillars of the growing industrial partnership between the two countries.
+
+Officials said future defence collaborations, including fighter aircraft production and combat engine development, are expected to be driven by co-design and co-production models.
+
+The Defence Acquisition Council's clearance for the procurement of 114 next-generation multirole fighter aircraft has accelerated discussions, with the expanded Rafale programme emerging as a leading contender. If the deal goes through, it would become one of India's biggest defence acquisitions and signal a transition from a traditional buyer-seller arrangement to a long-term industrial partnership centred on joint design, development and manufacturing.
+
+\- Ends
+
+Sahil Sinha
+
+May 25, 2026 10:06 IST
+
+---
+
+### Rubio says India’s concerns over Pakistan are focused on terror groups, not Iran mediation role
+*SECTIONS Rubio says India’s concerns over Pakistan are focused · business*
+
+US Secretary of State Marco Rubio on Monday said India’s concerns regarding Pakistan are primarily centred on cross-border terrorism rather than Islamabad’s role in facilitating dialogue in the US-Iran context.
+
+Speaking to reporters in New Delhi, Rubio noted that India has consistently highlighted the presence of armed terrorist groups operating from Pakistani territory that target the country.
+
+  
+
+“They’re always concerned about, obviously. India is always pointing to the fact that there are armed terrorist groups operating from Pakistani territory that target India. They’re always concerned about that,” Rubio said.
+
+However, he added that India did not raise objections regarding Pakistan’s role in facilitating or mediating discussions 
+
+“But as far as the role they played as a mediator and a facilitator in the Iran situation, it never came up. I don’t think that they would complain about that. I mean, their issue with Pakistan is different,” he said.
+
+Rubio’s remarks come amid ongoing global diplomatic engagements involving the US, Iran and regional interlocutors, as well as continuing India-Pakistan tensions over cross-border terrorism concerns.
+
+The US has in recent months engaged multiple regional partners in efforts to manage tensions with Iran, while India has repeatedly flagged security concerns
+
+---
+
+### Looking to buy the Tata Tiago? Here’s how the facelifted Tiago’s interior looks like
+*Auto Today · general*
+
+## Ahead of its May 28 launch, the 2026 Tata Tiago has revealed a thoroughly updated cabin with a redesigned dashboard, dual floating screens, added features and a noticeably more modern interior layout.
+
+The 2026 facelift of the Tata Tiago has received a significantly redesigned interior, with updates that are nearly as extensive as the changes made to the exterior. Ahead of its launch on May 28, Tata Motors has showcased a much more modern cabin layout featuring new screens, updated materials and added convenience features.
+
+### New dashboard and dual floating screens
+
+The biggest highlight inside the updated Tiago is the completely redesigned dashboard. Tata has introduced a layered dashboard layout replacing the older swooping design seen on the outgoing model. The cabin now gets two floating displays, a free-standing infotainment touchscreen and a new digital instrument cluster.
+
+While the infotainment system itself appears largely unchanged, the fully digital instrument cluster replaces the dated LCD unit from the current Tiago, giving the hatchback a more premium and contemporary feel.
+
+### More features and updated cabin elements
+
+The facelift also introduces several new convenience featureLos, including dual wireless charging pads integrated into the redesigned gloss-black centre console. However, the addition of the charging pads has removed the storage tray that was previously available in that area.
+
+Other updates include:
+
+-   New dual-tone black and grey fabric upholstery
+-   Redesigned door pads
+-   Front centre armrest
+-   Revised AC vents
+-   New floating panel for HVAC controls
+
+The HVAC switchgear itself has been carried forward unchanged, along with the familiar two-spoke steering wheel.
+
+### Exterior changes
+
+On the outside, the facelifted Tiago gets:
+
+-   Revised front and rear bumpers
+-   New LED headlamps and tail lamps
+-   Contrasting connecting light bands
+-   New alloy wheel designs
+
+The updates mainly focus on the soft parts, but they significantly modernise the hatchback’s appearance.
+
+### Powertrain expected to remain unchanged
+
+Mechanically, the updated Tiago is expected to continue with the same engine options:
+
+-   1.2-litre naturally aspirated petrol engine producing 86hp
+-   1.2-litre CNG version producing 75.5hp
+
+Both engines are expected to retain the choice of a 5-speed manual gearbox or a 5-speed AMT.
+
+The Tata Tiago EV is likely to share the same cabin layout, although it could receive EV-specific elements and potentially larger battery packs for improved range.
+
+****Subscribe to Auto Today Magazine****
+
+\- Ends
+
+May 25, 2026 10:00 IST
+
+---
+
+### Why eating less may be making thyroid weight gain worse
+*Smarica Pant · general*
+
+## Many people with thyroid disorders believe eating less will help them lose weight faster. Experts say this approach can actually slow metabolism further and make weight gain harder to control.
+
+Eating less may worsen thyroid weight gain
+
+Weight gain is often one of the first and most frustrating symptoms faced by people living with hypothyroidism. For many patients, the immediate reaction is to simply cut calories, skip meals, and eat less in the hope that the weighing scale will finally move down. But health experts warn that this common advice may actually worsen the problem instead of solving it.
+
+According to doctors and nutrition experts, hypothyroidism already slows down the body’s metabolism. When people drastically reduce food intake, the body responds by conserving energy even more aggressively. This can lead to fatigue, hormonal imbalance, increased stress levels, and stubborn weight retention despite strict dieting.
+
+On the occasion of World Thyroid Day, experts are urging people to shift the focus from “eating less” to “eating right.” They say thyroid-
+
+**WHY EATING LESS CAN BACKFIRE**
+
+Celebrity dietitian and nutrition consultant Simrat Kathuria says one of the most harmful pieces of advice thyroid patients receive is to simply reduce their food intake.
+
+“The body already experiences a slower metabolic rate in hypothyroidism. When calorie intake suddenly drops, the body interprets it as starvation and starts holding onto fat reserves more tightly,” she explains.
+
+This survival response also increases cortisol, commonly known as the stress hormone. Higher cortisol levels may further contribute to weight gain, especially around the abdomen. As a result, many patients feel trapped in a cycle where they eat less but continue gaining weight.
+
+Experts say this can also affect energy levels, mood, sleep quality, and muscle strength. Extreme dieting may leave patients feeling constantly tired, weak, and mentally exhausted.
+
+**NUTRITION MATTERS MORE THAN STARVATION**
+
+Rather than focusing only on restriction, experts recommend balanced and targeted nutrition for thyroid management.
+
+Kathuria explains that adequate protein intake plays an important role in supporting metabolism and maintaining muscle mass. Nutrients like selenium and zinc are also essential because they help in thyroid hormone conversion within the body.
+
+Foods such as Brazil nuts, pumpkin seeds, eggs, and other nutrient-rich options may support thyroid health when included as part of a balanced diet.
+
+She also highlights the importance of maintaining regular meal timings. Consistent eating schedules can help stabilise cortisol and insulin levels, which may support better metabolic balance.
+
+“This World Thyroid Day, the conversation should move from eating less to eating right,” she says. “For thyroid patients, proper nourishment is far more powerful than starvation.”
+
+**WHY MANY CASES GO UNDIAGNOSED**
+
+Public health analyst Dr. Sameer Bhati says many people continue struggling with unexplained weight gain without realising an underlying thyroid condition may be responsible.
+
+“For millions with undiagnosed hypothyroidism, calorie restriction quietly makes things worse,” he says. “This is not a failure of willpower. It is biology.”
+
+According to him, many patients spend months experimenting with diets and workout routines before thyroid testing is even considered.
+
+He points out that relying only on TSH testing may not always provide the complete picture. In autoimmune thyroid conditions like Hashimoto's thyroiditis, antibody testing is often necessary for accurate diagnosis.
+
+Women, in particular, may experience delays between early symptoms and final diagnosis. Symptoms such as fatigue, hair fall, dry skin, mood changes, irregular periods, and weight gain are sometimes dismissed as stress or lifestyle-
+
+**WHAT TESTS ARE IMPORTANT?**
+
+Experts say a detailed thyroid evaluation may include more than just a standard thyroid test.
+
+According to Dr Bhati, a complete workup can include:
+
+-   TSH
+    
+-   Free T3
+    
+-   Free T4
+    
+-   Anti-TPO antibodies
+    
+-   Anti-TG antibodies
+    
+-   Fasting insulin
+    
+-   HOMA-IR
+    
+-   HbA1c
+    
+-   Lipid profile
+    
+-   Vitamin D
+    
+-   Vitamin B12
+    
+-   CBC
+    
+-   hsCRP in inflammation-
+    
+
+Doctors may also recommend an ultrasound to examine the thyroid gland’s size, texture, or the presence of nodules. A heterogeneous echo texture may suggest Hashimoto’s thyroiditis.
+
+FNAC, or fine needle aspiration cytology, is generally reserved for suspicious thyroid nodules and is not required in every patient.
+
+**WHO SHOULD GET SCREENED?**
+
+Health experts recommend immediate screening for people experiencing symptoms linked to thyroid dysfunction.
+
+Dr Bhati advises women above the age of 30 to undergo thyroid screening every three years. Those with a family history of thyroid disease may need yearly screening.
+
+Regular monitoring is also advised for:
+
+-   Women after pregnancy
+    
+-   Patients with PCOS
+    
+-   People with diabetes
+    
+-   Individuals with persistent unexplained weight gain or fatigue
+    
+
+Experts stress that thyroid-
+
+“Weight gain is often a signal from the body,” says Dr Bhati. “The right approach is to diagnose first and then treat through medication, nutrition, and regular monitoring. If the scale is not responding despite your efforts, it is important to get tested.”
+
+\- Ends
+
+Smarica Pant
+
+May 25, 2026 09:58 IST
+
+---
+
+### 50,000 residents evacuated as Southern California officials trying to prevent explosion or leak from damaged chemical tank
+*Unknown · business*
+
+A damaged chemical tank in Southern California cracked over the weekend but the interior temperature rose as authorities worked to reduce the risks of a powerful explosion that has led to the evacuation of some 50,000 residents.
+
+The tank overheated Thursday and began venting vapors, leaving local and state officials scrambling to evade a worst possible scenario at a company site in Garden Grove, a city of roughly 170,000 about 40 miles (60 kilometers) south of downtown Los Angeles. No injuries have been reported.
+
+Firefighters have repeatedly sprayed the tank with water in an attempt to cool the chemicals. The tank's interior reached 100 degrees (37.7 Celsius) Sunday, an increase of 10 degrees Fahrenheit (5.5 Celsius) since Saturday, according to Democratic state Sen. Tom Umberg.
+
+  
+
+Fire officials over the weekend discovered the tank had cracked, lowering the potential for a devastating blast, and it did not appear any of the highly volatile chemicals had leaked, Orange County Fire Authority Capt. Wayhowe Huang said.
+
+"There's still the danger of a possible explosion," he said.
+
+  
+
+## Officials working to prevent a disaster
+
+Gov. Gavin Newsom declared a state of emergency Saturday and said he asked President Donald Trump to issue an emergency declaration to bolster federal support for local and state officials.
+
+The tank at GKN Aerospace Transparency Systems, which makes parts for commercial and military aircraft, holds 6,000 to 7,000 gallons (22,700 to 26,500 liters) of methyl methacrylate used to make plastic parts.
+
+Monitoring tests found air pollution around the evacuation zone was within normal limits and specialized equipment is being used to ensure gas is not released, state and federal environmental officials said Saturday.
+
+The first goal of firefighters is to cool off the chemical inside the tank to prevent a leak or explosion.
+
+Drones were monitoring temperatures at 10-minute intervals to watch for any spikes. Containment barriers have been set up to prevent the chemical from getting into storm drains or reaching creeks or the nearby ocean in the event of a spill, Orange County Fire Authority division chief Craig Covey said on social media.
+
+As the interior temperature rises, methyl methacrylate converts from a liquid to a gas and increases the pressure, according to Purdue University engineering professor Andrew Whelton, who said the crack could mean product or pressure is being released, reducing the chance of explosion.
+
+"Think of a soda can. If you leave it in a hot car it can explode," Whelton said. "But if you put a hole in the can, the product is released and the can itself doesn't explode."
+
+Firefighters are unlikely to consider making a hole in the tank, fearing a spark that might ignite the volatile and flammable gas. An explosion that could spread the chemical over a broad area and send shrapnel flying would be the worst-case scenario, he said.
+
+### Dealing with displacement and health concerns
+
+Aerial photos taken by The Associated Press showed streets in the area were empty Sunday, while several evacuation shelters were open. At a high school in neighboring La Palma, people slept in cars or on mats and sleeping bags on the asphalt.
+
+Garden Grove is next to Anaheim, home to Disneyland's two theme parks, which were not under evacuation orders. Park officials said they were monitoring the situation.
+
+Exposure to methyl methacrylate can cause serious respiratory problems, neurological problems and irritation to the skin, eyes and throat, according to fact sheets about the chemical.
+
+Whelton said if an explosion occurs, it will be crucial to conduct detailed air monitoring specifically for methyl methacrylate and not just generic tests for volatile organic compounds as officials did after a 2023 train derailment in East Palestine, Ohio, which released more than 115,000 gallons (435,000 liters) of vinyl chloride after officials blew open five tank cars and burned the chemical.
+
+Orange County health officials said the chemical is easy to smell and people may notice it over a large area without being harmed.
+
+#### Residents taking legal action
+
+Some Garden Grove residents filed a class-action federal lawsuit Saturday against GKN Aerospace Transparency Systems, which operates the facility where the tank is located. Lawyers for the residents argued that regardless of what happens, property values in the surrounding community are sure to be impacted.
+
+GKN Aerospace did not comment on the lawsuit but has apologized to residents and businesses forced to evacuate. It said Sunday it was "working around the clock to mitigate the risk of a leak."
+
+GKN Aerospace agreed in 2025 to pay state regulators more than $900,000 to settle violations involving recordkeeping, permitting issues and nitrogen oxide emissions, according to a report on the South Coast Air Quality Management District website.
+
+---
+
+### ‘Family Trip’: How Doctor Terror Module Surveyed Lucknow Targets For Bigger Attacks | Exclusive
+*Pragati Ratti · general*
+
+The NIA claims that between August 25 and August 30, 2025, Dr Muzammil Shakeel and Dr Shaheen Saeed travelled to Lucknow in the latter's Maruti Swift.
+
+[Read full article](https://www.news18.com/india/family-trip-how-doctor-terror-module-surveyed-lucknow-targets-for-bigger-attacks-exclusive-ws-l-10110358.html)
+
+---
+
+### 'Not fond of Indians': Taiwan candidate Lee Hung-Yi's billboards banning turban man, upside-down Indian flag sparks concern
+*Trending Desk · business*
+
+Billboards showing a turbaned man with a 'no entry' sign put up by a candidate for the upcoming local body elections in Taiwan have sparked a massive debate on social media. Political candidate Lee Hung-yi put up a controversial board on Shanming Road in the city's Siaogang District. Under the no symbol is a picture of a man wearing a turban and an inverted flag of India, promising to ban Indian immigration into Taiwan. This is among the many promises made by Lee Hung-Yi.
+
+**
+
+Hung Yi is currently the chief of Gangming ward in the city's Siaogang district, who is contesting as an independent candidate in the Nov city council elections. The images circulated widely on Taiwanese social media.
+
+"Clearly, it means I oppose introducing Indian migrant workers. I won't remove the billboard. Everyone is entitled to their own opinion," said the candidate to a local news channel.
+
+**
+
+## Indians found it offensive
+
+Ian Miles Cheong, a well-known Malaysian journalist and writer, took to X, formerly known as Twitter, to share a video from a Taiwanese news channel where the reporter claimed that Indian-born residents in the country said the sign made them feel uncomfortable. "The Taiwanese are not particularly fond of Indians. One political candidate in Kaohsiung vows to ban Indians from immigrating," wrote Miles Cheong in the caption.
+
+In an interview with the channel, Mrs V said "It's really unfriendly toward our people. You can't display such a racist sign in such a public place, I hope they'll remove the billboard."
+
+The reporter added that members of the Indian community found the billboard offensive and pointed out that the turban shown in the advertisement specifically represents followers of Sikhism rather than Indians as a whole. The report also noted concerns that the message could reinforce negative stereotypes about migrant workers.
+
+## Only against Indian workers
+
+When questioned by local media, Lee said he was not against migrant workers in general, only Indian ones, reports The Times of India. The statement drew immediate backlash from Joseph Wu, Taiwan's longest-serving former foreign minister and current secretary general of the National Security Council.
+
+"I feel ashamed to see a local politician doing this to catch attention. I condemn such despicable conduct in a very welcoming society. I will continue to work hard to strengthen Taiwan-India mutual cooperation," Wu said.
+
+## How are Indians reacting?
+
+An Indian engineer living in Taiwan for the past four years, who requested anonymity, said the anti-India sentiment has largely been limited to social media and has not affected everyday interactions. "We haven't faced any direct racism from anyone here. But we can definitely feel the undercurrent on social media, where Indians are targeted in racist posts being pushed by people with vested interests. This candidate seems to be trying to cash in on that trend to attract young voters," he was quoted as saying.
+
+"A certain section of the country's politicians ran campaigns against the move, creating a kind of fear psychosis as if Indian workers would land the very next day and take over the country. That is not going to be the case - there are many checks and balances in the hiring process," media professional and documentary-maker Suvam Pal said.
+
+## How is this legal?
+
+Numerous netizens reacted to the video, expressing concerns for the Indian residents in Taiwan. "As an Indian these things used to affect me but now this kind of hate and vile racism so common and happens so often that now I don't really feel anything, actually if now someone says good things about Indians , it feels weird to me," wrote a user.
+
+"Only 3500 to 4000 Indians work in Taiwan while people from countries like Vietnam and Indonesia go there in large numbers. They are spreading propaganda against Indians just to get votes," added another. "How is this legal? They allow this and expect the free world to save them if China attacks them?" asked one.
+
+More than 7,000 Indians reside in Taiwan at present, according to the National Immigration Agency, making them the ninth-largest foreign resident group on the island. According to them, the billboards are troubling but not entirely surprising.
+
+"It seems to be an extension of anti-India propaganda on popular social media platforms like TikTok and Threads in Taiwan, being pushed by certain countries that work against India's interests," said Arpita Biswas, a marine science research scholar at National Taiwan University who has lived in the country for past five years.
+
+She added that Taiwanese society was largely welcoming, but hostility towards Indians existed in a small section, and was being amplified online. "We come across anti-India propaganda posts almost every day. They are largely driven by a lack of understanding about Indians and their culture due to limited people-to-people contact," she added.
+
+## Taiwan condemns discriminatory remarks
+
+The Taipei Economic and Cultural Center (TECC), Taiwan’s main representative office in India, has strongly condemned discriminatory remarks directed at Indians. "Taiwan has long been committed to planning the introduction of Indian migrant workers. Regarding the recent discriminatory publications/comments made by certain individuals in Taiwan, we solemnly clarify that such biased remarks do not represent our stance. Taiwan cherishes the values of democracy, inclusivity, and diversity, and supports people-to-people exchanges between Taiwan and India. We deeply regret and strongly condemn any form of prejudice, racism and discrimination. TECC sincerely look forward to, and will continue to promote, further exchanges between both sides to enhance mutual understanding," the official statement read.
+
+(With TOI inputs)
+
+---
+
+### 'Maha Power Disaster': Akhilesh Yadav slams BJP over UP power crisis, Yogi Adityanath says 'providing power a priority'
+*Unknown · business*
+
+Lucknow: Samajwadi Party chief Akhilesh Yadav on Monday launched a sharp attack on the BJP government in Uttar Pradesh over the ongoing power crisis, alleging that the ruling party is trying to divert attention from growing public anger through political manoeuvring and cabinet reshuffles.
+
+In a strongly-worded post on X, Yadav accused BJP MLAs and MPs of trying to shield themselves from public outrage over what he described as a "Maha Power Disaster" in Uttar Pradesh. He claimed that leaders within the ruling party were issuing letters not in public interest, but to secure their political future ahead of the upcoming elections.
+
+"To escape the continuously rising public outrage due to the unbearable 'Maha Power Disaster' in UP, the terrified BJP MLAs and MPs are trying to shield themselves with a 'paper armor' in the form of a sham letter--but that letter is not, in fact, any 'public interest letter' written to their own government; rather, it is an 'application letter' to the opposition to secure tickets in the upcoming elections by jumping ship from the sinking BJP vessel," he wrote.
+
+  
+  
+
+> उप्र में असहनीय ‘महा विद्युत आपदा’ की वजह से लगातार बढ़ते आक्रोश से बचने के लिए भयभीत भाजपाई विधायक-सांसद दिखावटी चिट्ठी के रूप में जिस ‘काग़ज़ी कवच’ से ख़ुद को बचाना चाह रहे हैं, वो चिट्ठी दरअसल अपनी सरकार को लिखा कोई ‘जन हित का पत्र’ नहीं है बल्कि भाजपा रूपी डूबते जहाज़ को…
+> 
+> — Akhilesh Yadav (@yadavakhilesh) May 25, 2026
+
+The Samajwadi Party chief said prolonged power cuts during the intense summer heat had worsened hardships for the elderly, children, women and the sick, while accusing the government of ignoring public grievances.
+
+"There is no place in our alliance for such leaders who give the public nothing but suffering, pain, and hardships. In this deadly heat, only family members can truly understand the plight of the elderly at home, the sick, the children, and the women scorched while arranging food and water," Yadav added.
+
+Yadav further said those who once "looked for opportunities in disasters" are now facing a situation where the very "officer" they backed has himself become the disaster.
+
+"Those who once sought opportunities in disasters have now found that the 'officer' they hunted for opportunity has himself become the disaster. As long as those who escape by throwing up both hands and chanting slogans remain, the problems won't be resolved.
+
+He also questioned the functioning of the BJP's "double-engine government," saying, "Why should the public bear the consequences of this internal clash in the BJP's double-engine setup?"
+
+In another pointed remark, Yadav hinted that the cabinet reshuffle could be aimed at removing underperforming ministers.
+
+"For someone, this is a golden opportunity to remove a completely failed 'minister-messenger'--meaning, to pull out this thorn that's been pricking for so long--in other words, to seize the chance in this disaster to show someone the door. In such a case, no one will even be able to accuse the honorable one of acting with malice against anyone. After that, the Chief will get the chance to expand his cabinet and accommodate one of those poor, sympathy-worthy 'loss-makers' who, lured by the comforts of power, lied even to their own conscience and ended up just wringing their hands, unable to shed even tears of regret over the end of their politics," he wrote.
+
+"The UP BJP government also knows it will never return, which is why it is completely ignoring the public's troubles and demands, focusing solely on filling its own coffers. The people say: Today's BJP has become a burden on one and all!" Yadav added.
+
+Earlier UP CM Yogi Adityanath said that providing uninterrupted powere was the top priority of his government.
+
+"Providing uninterrupted power supply to every consumer in the state, including the general public, farmers, traders, and industries, is the top priority of the UP Govt. I reviewed the power supply system with officials from the Energy Department, Power Corporation, and Discoms. I have directed the concerned officials to work with complete sensitivity, promptness, and accountability to ensure smooth and uninterrupted electricity supply across the state.The double-engine government is committed to bringing the light of convenience, trust, and development into the life of every citizen of the state," the CM said
+
+State Energy Minister AK Sharma said that the state had broken the record of highest supply of power in the state and was committed to ensure the same.
+
+"We are providing the highest power supply in the history of Uttar Pradesh. This morning at 2:33 AM, the peak supply of Uttar Pradesh crossed 31,000 MW. Now, at 10:01 PM, breaking all previous records, our peak supply has reached 31,774 MW. It may reach 32,000 MW tonight itself. Believe me, this is the highest in the history of the state. It is also the highest in the country. We have broken our own record," he posted on X on Sunday.
+
+The latest face-off over power distribution in the state comes ahead of the 2027 Uttar Pradesh Assembly elections, with Akhilesh Yadav sharpening his attack on the BJP-led UP government over a range of issues, including widespread power outages across the state and the recent cabinet reshuffle, which he said reflected the ruling party's governance failures and internal contradictions.
+
+---
+
+### Maharashtra SUV crash: Eight killed after vehicle falls into gorge in Raigad
+*SECTIONS Maharashtra SUV crash Eight killed after vehicle falls into gorge · business*
+
+Mumbai: Eight persons were killed after a Sport Utility Vehicle (SUV) plunged into a deep gorge in Maharashtra's Raigad district, police said on Monday.
+
+The accident occurred in the Ambenali Ghat area on Poladpur-Mahabaleshwar road between 5 am and 6 am on Sunday when the victims were on their way from Dapoli to Satara. The vehicle was found in the gorge on Monday morning, a senior police official said.
+
+The victims left from Harne in Dapoli at around 2 am in the SUV. When they did not reach Satara, their relatives launched a search in the afternoon and later approached the police.
+
+  
+
+During the investigation, the victims' last location was traced through a mobile tower near Poladpur. While searching in the Ambenali Ghat section, the police spotted the SUV about 800 feet deep in the gorge on Monday morning, the official said.
+
+The police suspect that the accident occurred after the driver lost control of the vehicle in the ghat area, following which it plunged into the gorge, he said.
+
+So far, two bodies have been recovered with the help of the local disaster management team, while three more have been traced, the official said, adding that the search operation was underway.
+
+The victims have been identified as Ritesh Lokhande (22), Suhas Lokhande (20), Utkarsh Shingte (21), Nikhil Shingte (25), Mahesh Pawar (25), Aditya Salunkhe (21), Rajesh Katkar (35), all the residents of Satara, and Ansh Chavan (19), belonging to Ratnagiri, the police added.
+
+---
+
+### Australian FM Penny Wong to visit India for Quad FMM
+*SECTIONS Australian FM Penny Wong · business*
+
+Canberra: Foreign Minister of Australia, Penny Wong, announced that she will visit India to participate in the Quad Foreign Ministers' Meeting and hold the Australia-India Foreign Ministers' Framework Dialogue.
+
+Wong said, "In these uncertain times, the Quad is a vital partnership - four nations working together to shape a peaceful, stable and prosperous future for the Indo-Pacific region. Together, Australia, India, Japan and the United States are delivering concrete outcomes on shared interests including maritime security, critical minerals supply, infrastructure development and disaster relief."
+
+She added, "While in India I will hold the 17th Australia-India Foreign Ministers' Framework Dialogue with my counterpart, Minister for External Affairs Dr S. Jaishankar. Australia and India's partnership has never been more consequential."
+
+  
+
+Wong's Office further said that Australia and India are deepening cooperation.
+
+"As Comprehensive Strategic Partners, Australia and India are deepening cooperation in trade and investment, defence and maritime security, climate and energy transition, strategic technology, and education and skills; with an enduring social connection at the heart of our partnership. The Albanese Government will continue to strengthen Australia's relationships and work even harder in new and existing coalitions like the Quad as we keep building Australia's future in an ever less stable world," it said.
+
+At the invitation of External Affairs Minister S Jaishankar, the Foreign Minister of Australia, Ms. Penny Wong; the Foreign Minister of Japan, Toshimitsu Motegi; and the United States Secretary of State, Marco Rubio, will undertake an official visit to New Delhi to participate in the Quad Foreign Ministers' meeting on 26 May 2026.
+
+In keeping with the Quad vision for a Free and Open Indo-Pacific, the Ministers will build on discussions held in Washington, DC on 1 July 2025. They will exchange views on advancing Quad cooperation across priority areas, review progress on ongoing Quad initiatives, and reflect on recent developments in the Indo-Pacific region and other international issues of mutual concern.
+
+---
+
+### JEECUP 2026: UPJEE admit cards releasing today at jeecup.admissions.nic.in
+*Education Desk · legal*
+
+The exam will be held from June 2 to June 9, 2026, in computer-based mode.
+
+The Joint Entrance Examination Council, Uttar Pradesh (JEECUP) is set to release the JEECUP 2026 admit cards today (May 25) on its official portal, jeecup.admissions.nic.in. Registered candidates can download their UPJEE hall tickets using their application number and password. The exam is conducted for admission into engineering, pharmacy, polytechnic, and other diploma programmes across government and private colleges in Uttar Pradesh.
+
+The exam will be held from June 2 to June 9, 2026, in computer-based mode. The test will be conducted in two shifts daily — 9 am to 12 Noon and 2:30 pm to 5:30 pm. For more information, students can visit the IE Education Portal. 
+
+## UPJEE 2026: Steps to download the admit card
+
+Step 1: Visit the official site
+
+Step 2: Click on the ‘Admit-Card’ link
+
+Step 3: Enter your credentials, such as the application number and password
+
+Step 4: View and download the admit card
+
+Initially, the exam was supposed to be conducted between May 15 and May 22. However, the council decided to change the exam dates after multiple requests from candidates
+
+The JEEECUP exam consists of 100 Multiple-choice questions (MCQ). There are questions from Physics, Chemistry and Maths. There is negative marking for wrong answers; for every correct answer, +4 will be given, while for wrong answers, one mark will be deducted. For questions that are left unattempted, there will be no negative marking. Candidates who are appearing for the exam should carry their admit card, government ID, a photograph and a pen( for rough work) along with them to the exam centre.
+
+---
+
+### Sensex jumps 800 points: Why is stock market rising today?
+*Sonu Vivek · general*
+
+Stock markets rallied sharply in early trade on Monday as cooling crude oil prices, a stronger rupee and hopes of easing tensions between the US and Iran boosted investor confidence and triggered broad-based buying across sectors.
+
+The benchmark BSE Sensex surged 892.05 points, or 1.18%, to 76,307.40 around 9:24 am, while the NSE Nifty50 climbed 259.50 points, or 1.09%, to 23,978.80, moving close to the important 24,000 mark.
+
+The rally came after crude oil prices dropped below the $100-per-barrel level for the first time in more than two weeks, easing concerns around inflation, fuel prices and pressure on the economy.
+
+### FALLING CRUDE OIL BIGGEST TRIGGER
+
+The biggest trigger behind Monday’s sharp rally was the steep fall in global crude oil prices.
+
+Brent crude futures fell 5.58% to $97.76 per barrel, while WTI crude declined 5.85% to $98 per barrel as of 9:30 am.
+
+Oil prices slipped after hopes emerged that the US and Iran could be moving closer to an agreement that may ease tensions in West Asia and reopen the Strait of Hormuz, a key global oil shipping route.
+
+The Strait of Hormuz is extremely important because nearly one-fifth of global oil and LNG shipments pass through it. Any disruption there usually pushes oil prices sharply higher and creates inflation concerns across the world.
+
+For India, falling crude oil prices are a major relief because the country imports nearly 90% of its crude oil needs.
+
+Lower oil prices reduce:
+
+-   inflation pressure,
+-   fuel import costs,
+-   government subsidy concerns,
+-   and fears of interest rate hikes.
+
+This improves overall market sentiment and supports sectors such as banking, auto, aviation and consumption.
+
+### WHY MARKETS ARE RISING
+
+Dr VK Vijayakumar, Chief Investment Strategist at Geojit Investments Limited, said the sharp fall in crude oil prices could become a turning point for markets if tensions continue easing.
+
+“We are starting the week on a positive note. Crude has dipped by $5 to below $100 on expectations that US and Iran are close to a deal. The market will wait and watch for clarity and certainty since many similar expectations have been belied since the start of the war. If this expected deal holds and crude drifts down, that can turn out to be turning point for the market,” he said.
+
+He also highlighted that stronger-than-expected March quarter earnings have helped improve investor confidence.
+
+“Another positive trend is the better-than-expected Q4 results. An important trend to note is the impressive growth of most digital platform companies. The market has been rewarding performance,” Vijayakumar added.
+
+### RUPEE RECOVERY BOOSTS SENTIMENT
+
+Another major positive development for markets was the sharp recovery in the Indian rupee.
+
+The rupee opened 0.37% stronger at 95.34 against the US dollar compared to its previous close of 95.69.
+
+The currency had recently fallen to record lows near 97 per dollar amid elevated crude oil prices and fears around the Iran conflict.
+
+A stronger rupee is positive for markets because it reduces imported inflation and improves foreign investor confidence.
+
+According to Vijayakumar, currency stability will be important for bringing foreign investors back into Indian equities.
+
+“The appreciation in the rupee from the recent low of 96.96 is a welcome trend. Stability in the currency is necessary to bring back the FPIs who have been on a sustained sell mode. The resilience of the market during this period of crisis is a hugely positive factor. This is a reflection of partly the economy’s strength, and partly the confidence of Indian investors,” he said.
+
+### BANKING, AUTO AND AVIATION STOCKS LEAD RALLY
+
+The rally was broad-based, with most major sectors trading firmly in the green.
+
+Nifty Auto emerged as the top-performing sector, rising 2.31%, as lower crude oil prices improve outlook for automobile companies and reduce inflation worries.
+
+Financial stocks also saw strong buying:  
+Nifty PSU Bank rose 1.63%, Nifty Private Bank gained 1.56%, while Nifty Financial Services climbed 1.54%.
+
+Realty and oil & gas stocks also traded higher.
+
+Among Sensex gainers, Mahindra & Mahindra surged 2.33%, HDFC Bank rose 2.11%, Bajaj Finance climbed 2.01%, while Larsen & Toubro gained 1.79%.
+
+InterGlobe Aviation, which operates IndiGo, rose 1.72% as lower aviation turbine fuel costs are seen benefiting airline companies.
+
+Bajaj Finserv, SBI, ICICI Bank, Maruti Suzuki and Axis Bank were also among the major gainers.
+
+Only a few stocks traded lower, including TCS, Infosys, Tech Mahindra and Sun Pharma.
+
+### BROADER MARKETS ALSO SEE STRONG BUYING
+
+The positive mood was visible across the broader market as well.
+
+The Nifty Midcap100 index gained 0.77%, while the Nifty Smallcap100 index rose 1.13%, showing that investors were buying across segments and not just large-cap stocks.
+
+India VIX, often called the market’s fear gauge, fell sharply by 5.22% to 16.98, indicating easing volatility and improving confidence among traders.
+
+Despite the strong rally, analysts say markets will continue to remain sensitive to developments around the Iran conflict and movement in crude oil prices.
+
+Over the past few months, the Iran war has heavily impacted global markets, pushing oil prices higher and increasing inflation concerns worldwide.
+
+Foreign institutional investors (FIIs) have also been heavy sellers in Indian equities during this period due to rising oil prices, rupee weakness and global uncertainty.
+
+Market experts believe that if crude oil prices continue to remain below $100 and geopolitical tensions ease further, investor sentiment could improve significantly in the coming sessions.
+
+However, any fresh escalation in West Asia could again increase volatility in equities, oil and currency markets.
+
+_**(Disclaimer: The views, opinions, recommendations, and suggestions expressed by experts/brokerages in this article are their own and do not reflect the views of the India Today Group. It is advisable to consult a qualified broker or financial advisor before making any actual investment or trading choices.)**_
+
+\- Ends
+
+May 25, 2026 09:46 IST
+
+---
+
+### Musical chairs at the gymkhana
+*Siddharth Dhanvant Shanghvi · opinion, regional*
+
+In the childhood game of passing the parcel, the gift moves from hand to hand while the music plays. Each child holds it for a moment, hoping the song will stop. When it does, the child holding the parcel wins.Privilege in India is a bit like that – whimsical, unpredictable, transient. The controversy around Delhi Gymkhana Club is the lawn party where privilege jumps from hand to hand: from colonial official to civil servant, from club committee to govt file, from old elite to new guard. While the hand changes, the music remains the same: Power.
+
+_**Read full story on TOI+**_
+
+Facebook Twitter Linkedin Email
+
+###### Disclaimer
+
+Views expressed above are the author's own.
+
+###### END OF ARTICLE
+
+---
+
+### Nirjala Ekadashi 2026 Date: Know significance, puja timings, fasting rules, rituals and parana time
+*Trending Desk · business*
+
+Nirjala Ekadashi is regarded as the most important Ekadashi among all observed throughout the year. It is believed that observing a fast on this sacred day grants devotees the spiritual benefits equal to keeping every Ekadashi fast annually. The vrat is also said to help remove sins, illnesses, and financial hardships.
+
+## Nirjala Ekadashi 2026 Date
+
+This year Nirjala Ekadashi will fall on 25th June, 2026.
+
+  
+
+## Nirjala Ekadashi 2026: Auspicious Timings And Fasting Details
+
+**Nirjala Ekadashi 2026 Date And Timings**
+
+The Ekadashi Tithi of the Shukla Paksha in the Jyeshtha month will begin on June 24, 2026, at 6:12 pm and conclude on June 25, 2026, at 8:09 pm.
+
+**Puja Muhurat**  
+On the occasion of Nirjala Ekadashi, the auspicious time for worshipping Lord Vishnu will be from 10:39 am to 2:09 pm on June 25, 2026.
+
+**Nirjala Ekadashi Fast Breaking Time**
+
+Devotees observing the Nirjala Ekadashi fast can perform Parana (breaking of the fast) on June 26, 2026, between 5:25 am and 8:13 am.
+
+The Dwadashi Tithi associated with Parana will end at 10:22 pm on the same day.
+
+  
+
+## Nirjala Ekadashi Fasting Rules
+
+Unlike most other fasts, Nirjala Ekadashi involves complete abstinence from food and water. However, elderly people, children, pregnant women, and those with health conditions are generally advised to follow the vrat according to their physical capability.
+
+Many devotees also avoid consuming grains, rice, onion, garlic, and non-vegetarian food before and after the fast.
+
+## Nirjala Ekadashi Signifance
+
+Nirjala Ekadashi, also referred to as Jyeshtha Shukla Ekadashi, holds immense religious and spiritual significance in Hinduism. The term “Nirjala Vrat” means observing a fast without consuming either food or water. Devotees break their fast only on Dwadashi Tithi, when water and meals are permitted again. Considered one of the strictest and most sacred Ekadashi fasts, it is observed by a large number of devotees with deep faith and devotion while offering prayers to Lord Vishnu.
+
+## Rituals Followed On Nirjala Ekadashi
+
+Devotees usually wake up early before sunrise, take a holy bath, and wear clean clothes before beginning the vrat. Lord Vishnu is worshipped with flowers, tulsi leaves, fruits, incense sticks, and lamps.
+
+Many devotees recite Vishnu Sahasranama, Bhagavad Gita verses, and other sacred hymns dedicated to Lord Vishnu throughout the day.
+
+The fast begins from sunrise on Ekadashi and continues until the next day after the Dwadashi Parana, when the fast is broken following traditional rituals.
+
+## Charity And Donations Hold Special Importance
+
+Donating food, clothes, water, fans, umbrellas, and fruits to the needy is considered highly auspicious on Nirjala Ekadashi. Since the vrat falls during the peak summer season, offering water and cooling items to people is believed to bring blessings.
+
+
+---
+
 ## 24 May 2026
 
 ### BJP takes huge lead in Bengal's Falta Assembly repoll, Trinamool not in fray
