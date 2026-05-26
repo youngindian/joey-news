@@ -1,3 +1,589 @@
+## 26 May 2026
+
+### Shillong Teer Results Today Live, May 26, 2026: Winning Numbers For All Teer Games
+*Nibandh Vinod · general*
+
+Shillong Teer Result Today: Here's full list of winning numbers for Shillong Teer, Juwai Teer, Khanapara Teer, and more for May 26, 2026.
+
+[Read full article](https://www.news18.com/india/shillong-teer-result-today-may-26-2026-first-and-second-round-lottery-result-check-winning-numbers-full-list-10110315.html)
+
+---
+
+### Quad Foreign Ministers Meeting LIVE: Jaishankar Highlights Indo-Pacific Challenges, Rubio Says Forum Can Tackle Global Issues
+*Shobhit Gupta · general*
+
+Quad Foreign Ministers Meeting: The meeting includes US Secretary of State Marco Rubio, Australian Foreign Minister Penny Wong, and Japanese Foreign Minister Toshimitsu Motegi.
+
+[Read full article](https://www.news18.com/india/quad-foreign-ministers-meeting-live-updates-new-delhi-2026-jaishankar-indo-pacific-ties-liveblog-ws-l-10112459.html)
+
+---
+
+### NEET-UG 2026: Education Minister Dharmendra Pradhan calls for fair conduct of re-exam in letter to CMs, LGs
+*Education Desk · legal*
+
+The Ministry of Education confirmed the development through its official X handle, signalling the seriousness with which the Centre is approaching the re-examination for over 23 lakh medical aspirants. (Image; AI Generated)
+
+With the high-stakes NEET UG re-examination scheduled to be held on June 21, Union Minister of Education Dharmendra Pradhan has written to all Chief Ministers, Lieutenant Governors, and Administrators, seeking their active cooperation to ensure the exam is conducted smoothly, fairly, and successfully on June 21, 2026. The Ministry of Education confirmed the development through its official X handle, signalling the seriousness with which the Centre is approaching the re-examination for over 23 lakh medical aspirants.
+
+Minister Pradhan also flagged the prevailing severe heatwave conditions sweeping large parts of the country in his post and urged state governments and Union Territory administrations to ensure that all essential basic facilities are made available at examination centres. This directive takes on added significance given that India’s June temperature remains high in terms of heat in several states, routinely breaching 40–45°C.
+
+Earlier, Union Education Minister Dharmendra Pradhan reviewed preparations for the forthcoming NEET-UG re-examination and directed officials to ensure its conduct in a “secure, seamless and foolproof manner” under strict security protocols, officials said.
+
+During chairing the review meeting, Pradhan stressed that all gaps identified in the earlier examination process must be comprehensively addressed and eliminated to ensure complete integrity and transparency in the conduct of the examination, they said.
+
+“The minister emphasised that the Re-NEET examination must be conducted in a secure, seamless and foolproof manner under stringent security protocols,” the officials said.
+
+**READ| NEET UG cancellation Anatomy of a leak**
+
+Additionally, the National Testing Agency (NTA) on May 22 opened the online window for candidates to claim their examination fee refunds for the National Eligibility cum Entrance Test Undergraduate (NEET UG) 2026. According to the official notification issued jointly by the NTA and the National Medical Commission (NMC), a dedicated facility has been activated on the official NEET UG registration portal at neet.nta.nic.in.
+
+Story continues below this ad
+
+Candidates who are eligible for an examination fee refund can log in using their credentials and submit their preferred bank account details. This financial settlement comes after a period of unprecedented turmoil for the medical entrance exam. The re-examination is being conducted after the cancellation of the earlier NEET UG 2026 exam held on May 3 amid allegations of a paper leak and other irregularities. Over 22 lakh candidates are expected to appear for the re-test on June 21.
+
+---
+
+### Tamil Nadu CM Vijay Announces Farm Loan Waiver, Allows Extended Screenings Of Movies
+*Vani Mehrotra · general*
+
+Tamil Nadu Chief Minister Vijay announced a crop loan waiver for farmers. He also approved new rules allowing theatres across Tamil Nadu to screen five shows daily for seven days.
+
+[Read full article](https://www.news18.com/india/tamil-nadu-cm-joseph-vijay-farm-loan-waiver-cooperative-bank-farmers-five-shows-new-tamil-films-theatres-screening-rules-amendment-ws-l-10112431.html)
+
+---
+
+### Pune Police deny curfew rumours, say routine order issued ahead of Bakri Eid
+*Soham Shah · legal*
+
+The order prohibits meetings or processions of five or more persons without prior permission from the Pune City Police Commissioner. (Source: Express Archives/ Representational)
+
+After news reports and social media posts claimed that a 14-day curfew had been imposed in Pune, Police Commissioner Amitesh Kumar clarified to _The Indian Express_ that Pune Police had only issued a routine regulatory order ahead of festivals. The order was issued under Section 37 of the Maharashtra Police Act in view of the upcoming Bakri Eid festival on May 27.
+
+Responding to reports describing the order as a curfew, Kumar said, “It’s fake. There was a 37 (1-3) order for Bakri Eid, which is a routine thing before festivals. Not more than five people are allowed to gather for the sake of law and order. It is a regulatory order which is routine in nature.”
+
+The prohibitory order was issued by Deputy Commissioner of Police (Special Branch) Prashant Amrutkar on May 23 for a period of 14 days. It prohibits meetings or processions of five or more persons without prior permission from the Pune City Police Commissioner.
+
+The order stated, “Various political parties and social organisations organise protests such as rallies, sit-ins, demonstrations, bandhs and hunger strikes in Pune city over different public demands. Due to various reasons, including encroachment removal drives, there is a possibility of law and order issues arising. Therefore, it is necessary to maintain law and order within the jurisdiction of the Pune Police Commissionerate in connection with Bakri Eid and other festivals celebrated in the city.”
+
+Section 37(1) of the Maharashtra Police Act prohibits the carrying of arms, cudgels, swords, spears, bludgeons, guns, knives, sticks or lathis, corrosive substances or explosives. It also bars the collection of stones or missiles, display of effigies or corpses, public sloganeering, singing of provocative songs, delivery of inflammatory speeches, and similar acts that could disturb public order.
+
+A similar order was also issued by the Pimpri Chinchwad Police Commissionerate on May 22.
+
+Soham Shah is a Correspondent with The Indian Express, based in Pune. A journalism graduate with a background in fact-checking, he brings a meticulous and research-oriented approach to his current reporting. Professional Background Role: Correspondent coverig education and city affairs in Pune. Specialization: His primary beat is education, but he also maintains a strong focus on civic issues, public health, human rights, and state politics. Key Strength: Soham focuses on data-driven reporting on school and college education, government reports, and public infrastructure. Recent Notable Articles (Late 2025) His late 2025 work highlights a transition from education-centric reporting to hard-hitting investigative and human-rights stories: 1. Investigations & Governance "Express Impact: Mother's name now a must to download birth certificate from PMC site" (Dec 20, 2025): Reporting on a significant policy change by the Pune Municipal Corporation (PMC) following his earlier reports on gender inclusivity in administrative documents. "44-Acre Mahar Land Controversy: In June, Pune official sought land eviction at Pawar son firm behest" (Nov 9, 2025): An investigative piece on real estate irregularities involving high-profile political families. 2. Education & Campus Life Faculty crisis at SPPU hits research, admin work: 62% of govt-sanctioned posts vacant, over 75% in many depts (Sept 12, 2025): An investigative piece on professor vacancies at Savitribai Phule Pune University. "Maharashtra’s controversial third language policy: Why National Curriculum Framework recommends a third language from Class 6" (July 2): This detailed piece unpacks reasons behind why the state's move to introduce a third language from class 1 was controversial. "Decline in number of schools, teachers in Maharashtra but student enrolment up: Report" (Jan 2025): Analyzing discrepancies in the state's education data despite rising student numbers. 3. Human Rights & Social Issues "Aanchal Mamidawar was brave after her family killed her boyfriend" (Dec 17, 2025): A deeply personal and hard-hitting opinion piece/column on the "crime of love" and honor killings in modern India. "'People disrespect the disabled': Meet the man who has become face of racist attacks on Indians" (Nov 29, 2025): A profile of a Pune resident with severe physical deformities who became the target of global online harassment, highlighting issues of disability and cyber-bullying. Signature Style Soham is known for his civil-liberties lens. His reporting frequently champions the rights of the marginalized—whether it's students fighting for campus democracy, victims of regressive social practices, or residents struggling with crumbling urban infrastructure (as seen in his "Breathless Pune" contributions). He is adept at linking hyper-local Pune issues to larger national conversations about law and liberty. X (Twitter): @SohamShah07 ... 
+
+* * *
+
+_**Click here** to join **Express Pune WhatsApp channel** and get a curated list of our stories_
+
+© The Indian Express Pvt Ltd
+
+-   Tags:
+-   Bakri Eid
+-   pune
+
+---
+
+### IndiGo pilot captures India-Pakistan border like a glowing scar across the night sky
+*India Today Trending Desk · general*
+
+## An IndiGo pilot shared cockpit footage showing the illuminated India-Pakistan border during a night flight. The rare aerial view drew wide reactions online, ranging from awe to reflections on history and separation.
+
+A viral video shared by an IndiGo pilot shows a brilliantly lit India-Pakistan border. (Photo: Instagram)
+
+A stunning video captured from the cockpit of an IndiGo flight has left social media users mesmerised after showing the glowing India-Pakistan border illuminated against the darkness of the night sky.
+
+The viral footage was shared by Captain Pradeep Krishnan, who recorded the rare aerial view during a late-night flight. Seen from cruising altitude, the border appeared as a long, brightly lit line stretching across the landscape, sharply separating the two countries amid otherwise dark surroundings.
+
+In the clip, Captain Krishnan can also be heard addressing passengers over the aircraft announcement system. “Ladies and gentlemen, if you look outside the aircraft, you might capture a glimpse of one of the most sensitive, heavily guarded borders of the world, India and Pakistan border,” he says.
+
+The visuals highlighted parts of the Radcliffe Line — the international boundary between India and Pakistan established during Partition in 1947. Due to heavy security deployment and floodlighting in several sensitive sections, parts of the border often appear visibly illuminated from high altitudes during night flights.
+
+**Watch the clip here:**
+
+The video particularly captured viewers’ attention because of the surreal contrast created by the continuous yellow floodlights cutting through vast stretches of darkness. Border outposts, security installations, and patrol infrastructure on both sides added to the dramatic visual effect.
+
+“They say you can spot the India–Pakistan border from space at night, a glowing line of lights cutting across the darkness, visible even from orbit,” read the caption shared along with the clip.
+
+The footage quickly spread across social media platforms, with thousands of users reacting to the rare view. Many people described the visuals as breathtaking and said they had never seen the border from such a perspective before.
+
+Several users also reflected on the emotional and historical significance of the boundary, commenting on how ordinary people on both sides remain separated by politics and history.
+
+At the same time, the comments section also saw lighter reactions, with some users jokingly asking who was paying the electricity bill for the massive floodlights visible along the border.
+
+\- Ends
+
+Srimoyee Chowdhury
+
+May 26, 2026 09:42 IST
+
+---
+
+### Want to go back: H-1B hawk Laura Loomer's India praise amid Marco Rubio's visit
+*Devika Bhattacharya · general*
+
+## Laura Loomer praised India on X after Marco Rubio's visit revived memories of her own trip. The post drew fresh attention to her earlier anti-India remarks and continued criticism of H-1B visas.
+
+Laura Loomer has a history of denouncing the H-1B1 visa programme.
+
+"I love India," gushed Laura Loomer on X. For those unfamiliar with her brand of activism and political commentary, she is a Trump loyalist, a MAGA stalwart and, till recently, an India hater.
+
+What prompted this outpouring of love for a country whose human exports she previously professed to despise? It was US Secretary of State Marco Rubio’s four-day India visit, during which he hopped from Kolkata to Delhi, then Agra and Jaipur. Accompanied by his wife, he posed for pictures at the iconic Taj Mahal and toured the historic Amer Palace in the Pink City. Photos and videos of their cultural getaway were splashed all over social media.
+
+"Seeing all of Marco Rubio’s photos from India makes me want to go back to India! I love India. Such a beautiful country. So glad our Secretary of State and his supermodel wife were able to visit India and meet many of the same people I met while I was there," Loomer posted on X, along with a picture of herself in traditional Indian attire.
+
+Presumably, the photo was from her visit to India in May 2026. Prior to that, her social media was replete with posts denouncing the H-1B visa programme, which brings foreign workers -- mostly from India and China -- to fill tech jobs in Silicon Valley. Some of her tweets also used crude stereotypes to question the intellectual abilities and hygiene of Indian people.
+
+In 2024, she warned that if Indian-origin Democrat Kamala Harris won the presidential race, the White House would "smell like curry". America, she insisted, was built by "white Europeans, not third-world invaders from India".
+
+She was not done there. H-1B visas became her favourite punching bag, with rants about Indian techies "replacing" Americans and jibes such as: "Average IQ in India is 76. ‘Best and brightest’!"
+
+But after nine days in the country, Loomer changed her tune.
+
+"Honestly, as someone who has travelled a lot, India is the best country I have ever travelled to. It’s incredible," she said. "Indian people are the nicest people I have ever met... My misconceptions have been corrected."
+
+But the internet remembers. While attending the India Today Conclave in May, she was hauled over the coals for her anti-India vitriol online. Senior journalist Rajdeep Sardesai confronted her with a trove of tweets disparaging India and its people, characterising them as "brazenly racist".
+
+Loomer’s posts had been deleted before her visit, but not before others archived them.
+
+She immediately wilted, saying she "shouldn’t have said some of the things that I said in the other tweets", and adding, "I apologise if my remarks offended people."
+
+She, however, refused to back down from her criticism of the H-1B visa programme, saying her views were intended to protect the American people.
+
+"Our immigration laws have been exploited and abused, and our labour laws have also been exploited and abused," she claimed.
+
+After her latest post expressing her newfound appreciation for India, the internet once again showed that it neither forgets nor forgives. The comments section was packed with X users armed with receipts, mockingly reminding her of her track record of spewing hate against Indians. Others -- no doubt hardcore MAGA supporters -- slammed her for her about-face on India.
+
+"It seems like you used to despise India and Indians, Laura, but I’m glad you got to see India for what it actually is and changed your tune on it," wrote one X user.
+
+"You’re out here gushing about loving India like you didn’t tweet that the average IQ is 76, call their water ‘running out of people’s asses’, and mock them as not the ‘best and brightest’. Now suddenly it’s a ‘beautiful country’ for clout? The flip-flopping hypocrisy," tweeted another.
+
+"No amount of gaslighting from you is convincing us otherwise," said a third.
+
+\- Ends
+
+Devika Bhattacharya
+
+May 26, 2026 09:42 IST
+
+---
+
+### Southwest Monsoon: IMD predicts rainfall in Kerala, Lakshadweep; thundersquall in Karnataka
+*Express Web Desk · legal*
+
+Visitors at the Marine Drive on a rainy afternoon, in Kochi. (PTI Photo)
+
+The India Meteorological Department (IMD) has forecast favourable conditions for the advance of the southwest monsoon into parts of the Arabian Sea, the Comorin Area, the Bay of Bengal, and the Andaman Sea during the next two to three days.
+
+In a forecast bulletin issued on Tuesday, the weather agency predicted widespread light to moderate rainfall accompanied by thunderstorms, lightning and gusty winds over Kerala, Mahe and Lakshadweep from 26 to 29 May.
+
+It also predicted light to moderate rainfall in isolated places across Tamil Nadu, interior Karnataka, North Interior Karnataka, Telangana, Rayalaseema, and Coastal Andhra Pradesh during the same period. This will be accompanied by thunderstorms and gusty winds.
+
+Coastal Maharashtra and Goa to also receive light to moderate rainfall in isolated places from May 26 and 28. Madhya Maharashtra to witness similar conditions on May 27 and 28.
+
+ Monsoon clouds hover over the skyline of South Mumbai, in Mumbai. (ANI Photo)
+
+## Thundersquall in Karnataka
+
+The IMD has predicted thundersquall in Karnataka with wind speeds in the range 50-60 kmph, gusting to 70 kmph. The conditions are likely to persist in South Interior Karnataka from May 26 to 29.
+
+A thundersquall, which is a violent, fast-moving weather phenomenon combining a thunderstorm with a sudden, sharp increase in wind speed, will be accompanied by isolated hailstorm activity, may occur in North Interior Karnataka on May 27.
+
+Warning for this weather phenomenon, characterised by severe convective storms driven by extreme temperature differences, comes during a **period of heatwaves** and extreme temperatures across the country.
+
+Story continues below this ad
+
+The Karnataka State Natural Disaster Monitoring Centre had earlier predicted a possibility of very heavy rainfall (64.5 mm – 115.5 mm) in coastal and hilly districts of the state on May 27.
+
+## Rainfall in the Northeastern states
+
+The IMD has also predicted very heavy rainfall in isolated places across Assam and Meghalaya from 26 to 27 which will turn into heavy rainfall in these two states and Arunachal Pradesh from May 28 to 31.
+
+Nagaland, Manipur, Mizoram and Tripura are likely to receive heavy rainfall in Isolated places on May 26, 30 and 31.
+
+## North India may see relief
+
+Following days of heatwave-like conditions in northern India, the region is likely to receive some relief as IMD predicts scattered light to moderate rainfall with accompanied by thunderstorms over Punjab, Haryana, Chandigarh,  Delhi, East Uttar Pradesh on May 27. Rajasthan may witness similar weather conditions on May 28 and 29.
+
+Story continues below this ad
+
+On May 28 and 29, Punjab, Haryana Chandigarh and Delhi may witness thundersquall. West Uttar Pradesh and Eastern Uttar Pradesh will witness similar conditions on certain days between May 28 and 31.
+
+---
+
+### Quad foreign ministers meet in Delhi to discuss Indo-Pacific security, supply chains and maritime cooperation
+*Unknown · business*
+
+US Secretary of State Marco Rubio met counterparts from Australia, India and Japan on Tuesday in New Delhi as the Quad grouping seeks to regain strategic momentum amid shifting geopolitical dynamics in the Indo-Pacific and questions over the alliance’s long-term direction.
+
+The meeting comes amid broader concerns among US allies over Washington’s commitment to the grouping, even as it continues to be positioned as a key platform for coordination on regional security and supply chain resilience.
+
+Rubio’s visit is his first to India in his current role, and follows a series of Quad engagements that have continued intermittently since the grouping was elevated in recent years.
+
+  
+
+Here is a look at the key agendas from the Quad meeting:
+
+## India agenda
+
+The Quad discussions in New Delhi are focused on strengthening cooperation across maritime security, critical minerals, supply chain resilience and broader Indo-Pacific stability, even as member countries navigate differing geopolitical priorities and external pressures.
+
+US Secretary of State Marco Rubio said the grouping must move beyond dialogue and focus on deliverable outcomes.
+
+“We want to make sure we do the work necessary and position it so, when they do meet, they’ll have very specific deliverables and things that actually they can announce,” Rubio told India Today.
+
+He said cooperation on critical minerals remains a key priority, given its importance to high-end technology supply chains and concerns over concentration risks.
+
+Rubio also indicated that maritime security remains a central pillar of Quad cooperation, particularly in the Indo-Pacific region.
+
+## US position
+
+The meeting comes against the backdrop of uncertainty over the pace of high-level Quad engagement, including delays in convening a leaders’ summit that had been expected earlier.
+
+Rubio’s engagement with Quad counterparts follows earlier discussions in Washington and other bilateral meetings aimed at maintaining momentum within the grouping.
+
+Rubio said on Tuesday that the Quad is shifting from a consultative forum to an action-oriented platform focused on delivering tangible outcomes.
+
+“Our goal… has been to turn this from a forum in which we meet and talk about problems to one where we actually do something about them,” he said.
+
+He highlighted cooperation across four key areas, including maritime security, energy security, critical minerals and supply chain diversification, saying Quad members bring complementary strengths to address global challenges.
+
+“Each of these four nations… bring unique capabilities that collectively we can bring to bear on some of most significant problems facing the world,” Rubio said.
+
+## Japan position
+
+Japan has emphasised growing concerns over regional security dynamics and the need for stronger coordination among Quad partners.
+
+Japanese Foreign Minister Toshimitsu Motegi said the global security environment is undergoing significant structural change.
+
+“The world is faced with the most significant structural change in the post-World War II era, driven by a shift in the balance of power and the intensification of conflict and confrontation,” Motegi said during talks with Indian counterpart S Jaishankar.
+
+Tokyo has consistently pushed for deeper collaboration on supply chain resilience, particularly in critical sectors such as semiconductors and advanced manufacturing.
+
+On Tuesday, Motegi said the Quad signals a strong commitment to promoting a free and open Indo-Pacific through closer cooperation among member countries.
+
+“This Quad meeting signifies the firm message to the world that Quad will strongly promote cooperation to realise free and open Indo-Pacific,” Motegi said.
+
+He said Indo-Pacific nations must strengthen resilience and capabilities to determine their own future, including in the area of economic security.
+
+“The Indo-Pacific nations should strengthen resilience and the necessary capacity to determine their own future, including economic security,” he said.
+
+Motegi added that he expects frank discussions aimed at accelerating Quad cooperation.
+
+## Australia position
+
+Australian Foreign Minister Penny Wong said Quad members share broad alignment despite being sovereign nations with distinct histories and priorities, united by a vision for a free and open Indo-Pacific.
+
+She emphasised “freedom of choice” for regional countries in matters of security and sovereignty.
+
+“We meet in the world’s largest democracy and a power that is so important in the shaping of the Indo-Pacific and the world,” Wong said.
+
+She said the Quad has delivered results across disaster response, maritime security, critical infrastructure, undersea cables and critical minerals, and remains committed to sustaining momentum.
+
+“We all want the Quad to be as strong and as effective as we can make it be… and we are determined to continue its momentum,” she said.
+
+Australia is expected to focus on maritime security, regional stability and practical cooperation across infrastructure and capacity-building initiatives in the Indo-Pacific.
+
+Canberra has supported efforts to keep the Quad functional as a coordination platform on security and economic issues, even as geopolitical tensions in the region persist.
+
+## Regional context
+
+The Quad meeting comes amid broader geopolitical uncertainty, including tensions linked to maritime security in the Indo-Pacific and instability in global energy routes.
+
+The grouping continues to be viewed with suspicion by China, which has previously described it as a bloc aimed at containing its influence, while Quad members maintain it is focused on supporting a rules-based maritime order.
+
+The meeting also follows renewed debate over US foreign policy direction after President Donald Trump’s recent outreach to China, including remarks on closer US-China coordination, which has raised concerns among allies about strategic alignment.
+
+---
+
+### ‘Disarm AI’: Pope Leo XIV issues stark warning over rapid artificial intelligence growth
+*Tech Desk · legal*
+
+Artificial intelligence (AI) is rapidly reshaping human life. With Big Tech companies investing billions into AI research, and AI startups such as OpenAI and Anthropic introducing increasingly powerful AI capabilities, concerns over mass job displacement and security risks are growing. As a result, the world remains divided over the unchecked and unprecedented pace of AI development, as well as the responsible use and deployment of the technology.
+
+Joining the growing chorus of voices raising concerns about AI’s rapid growth and potential misuse, Pope Leo XIV on Monday, May 25, said AI must be “disarmed” so that it does not dominate human beings. In his first major encyclical (an official papal letter) since his election, titled _Magnifica Humanitas_, the Bishop of Rome underscored the ethical risks posed by AI and the responsibility of both its creators and those in positions of power.
+
+An encyclical is the highest-authority official document that the Pope uses to address Catholics worldwide. Among other papal documents, encyclicals carry the strongest binding force. The document titled ‘Magnifica Humanitas: On Safeguarding the Human Person in the Time of Artificial Intelligence’ begins by outlining the moral and social challenges posed by AI.
+
+## **What does the Pope’s encyclical say about AI?**
+
+In the section ‘The Grandeur of Humanity in Light of the Promise of AI,’ the Pope has deemed AI among challenges that ‘profoundly shape our way of living today.’ With technology rapidly transforming languages, relationships, institutions, and forms of power, the Pope bats for choice. He says that people must be able and should choose projects that safeguard and value the grandeur of humanity. “This is a choice not only for our future but also for our present, since artificial intelligence and other emerging technologies are already part of our daily lives.”
+
+While refraining from offering a comprehensive view of AI, the pontiff recalled a few elements for a moral and social discernment that safeguards the primacy of the human person. This is to ensure that it will always be human intelligence, with its conscience and freedom, that guides technical innovations and responsibly determines their use and limits.
+
+The Pope also cautioned about equating AI with human intelligence. “We must avoid the misconception of equating this type of “intelligence” with that of human beings. These systems merely imitate certain functions of human intelligence. In doing so, they often surpass human intelligence in speed and computational capacity, offering tangible benefits across many fields.” However, this power remains heavily dependent on data processing.
+
+The Pope wrote that AI does not possess a body, does not feel joy or pain, and does not mature through relationships. Most importantly, it intrinsically does not know what love, work, friendship, and responsibility mean. They do not possess a moral conscience.
+
+Story continues below this ad
+
+## Beneficial yet needs vigilance
+
+Even though the Pope assumes a critical view of AI, he also acknowledges it as a valuable tool that requires vigilance. “In light of what has been said, we can better understand why AI can be a valuable tool and, at the same time, why it calls for a measured and vigilant approach.” The Roman Pontiff said that, today, AI has become embedded in decision-making processes across many sectors at multiple levels—in communication, management, and control.
+
+However, he cautioned that despite the efficiency gains, ‘rapidly and uncritically adopting’ them exposes the world to a range of risks, including the tendency to overlook the environmental impact. At present, AI systems require enormous amounts of energy and water, significantly influencing the carbon dioxide emissions, and place heavy strain on natural resources. With large language models becoming more complex, the need for computing power and storage capacity too is growing by leaps and bounds. Resultingly, there is a greater need for energy-intensive infrastructure. Owing to this reason, the Pope is calling for more sustainable technological solutions.
+
+When it comes to governance, the document argues that AI is not morally neutral, and this can lead to it reinforcing exclusion, bias, and inequality. The Pope asserted that since AI systems reflect the values and assumptions of their creators, accountability, transparency, and ethical oversight are key.
+
+Further, the Supreme Pontiff seeks strong legal frameworks, public participation, and political responsibility for responsible AI governance. The Pope also warns against the monopolistic control of data, and computational power. He urged that technology should serve common good and not commerical and geopolitcial dominance. The Pope also appealed to AI developers to design systems with human dignity, justice, and solidarity in mind.
+
+---
+
+### After Salim Dola, India Seeks Extradition Of Two More Wanted Drug Traffickers From Turkey
+*Aanchal Sinha · general*
+
+Dola, allegedly associated with international drug syndicates, was extradited to India on April 28.
+
+[Read full article](https://www.news18.com/india/after-salim-dola-india-seeks-extradition-of-two-more-wanted-drug-traffickers-from-turkey-ws-l-10112454.html)
+
+---
+
+### Abraham Accords explained: What it means and why Pakistan is rattled by Trump’s push
+*Trending Desk · business*
+
+The Abraham Accords are back at the centre of global politics after US President Donald Trump publicly pushed six countries, including Pakistan and Saudi Arabia, to join the agreement as part of wider negotiations linked to Iran. Pakistan rejected the proposal almost immediately, while several Arab nations avoided giving a direct answer. The renewed push has reopened old questions: What exactly are the Abraham Accords? Why were they once celebrated as a historic breakthrough? And why has the Gaza war made the issue far more explosive today?
+
+## What are the Abraham Accords?
+
+The Abraham Accords were signed in September 2020 during Trump’s first term in office. Under the agreement, the United Arab Emirates and Bahrain officially normalized relations with Israel. Later, Morocco and Sudan also joined the framework.
+
+For decades, most Arab nations had refused to formally recognize Israel until the Palestinian issue was resolved. The accords changed that equation. Instead of waiting for a final Israel-Palestine settlement, the participating countries decided to build direct diplomatic, economic and security ties with Israel.
+
+  
+
+The signing ceremony at the White House was presented as a historic turning point in Middle East diplomacy. Supporters called it the biggest breakthrough in the region since the 1979 Egypt-Israel peace treaty.
+
+## What did the deal actually change?
+
+The agreements quickly produced visible results. Flights began operating between Israel and the UAE. Tourism increased sharply. Business partnerships expanded in sectors such as technology, defence, agriculture and finance. Trade between Israel and the UAE crossed billions of dollars within two years. Intelligence cooperation between countries that already shared concerns about Iran also deepened quietly.
+
+In practical terms, the accords worked well for governments that already had strategic interests in common. But the agreements had one major limitation: they avoided the Palestinian issue almost entirely.
+
+There was no concrete roadmap for Palestinian statehood. There was no commitment to halt Israeli settlements. Critics argued that Arab countries had rewarded Israel diplomatically without securing meaningful concessions for Palestinians.
+
+That criticism became far louder after the Gaza war began in October 2023.
+
+## Why is Trump trying to revive the accords now?
+
+Trump returned to the White House promising to revive what he sees as one of his biggest foreign policy achievements. Now he wants to expand the accords dramatically. His latest proposal links a possible Iran nuclear understanding with a larger regional arrangement where more Muslim-majority countries establish formal ties with Israel.
+
+Trump has publicly called on Saudi Arabia, Qatar, Pakistan, Turkey, Egypt and Jordan to join the framework. The logic behind the move is strategic. Washington wants a stronger regional bloc that can counter Iran’s influence while also integrating Israel more deeply into the Middle East.
+
+Supporters believe such a deal could redraw regional alliances for decades. Critics believe the proposal ignores political realities on the ground.
+
+## Why is Saudi Arabia the biggest target?
+
+Saudi Arabia remains the most important prize in the entire equation. The kingdom holds enormous religious and political influence because it is home to Islam’s two holiest sites. If Saudi Arabia formally recognizes Israel, it would transform regional diplomacy overnight.
+
+For years, US administrations have quietly tried to broker a Saudi-Israel normalization deal. But Riyadh has maintained one consistent public position: there must be a credible path toward Palestinian statehood before normalization can happen. That position became even harder to change after the Gaza war.
+
+Large sections of public opinion across the Arab world turned sharply against Israel following the conflict. Even countries that had already signed the Abraham Accords faced domestic anger and protests.
+
+Saudi Arabia understands the political risk of moving ahead without addressing Palestinian concerns.
+
+As Reuters noted on May 25, 2026: “For Saudi Arabia, birthplace of Islam and custodian of its two holiest sites, recognizing Israel is not just a diplomatic milestone. It is a deeply sensitive national security issue tied to one of the region's most intractable conflicts.”
+
+## Why Pakistan rejected the proposal so quickly?  
+
+Pakistan’s response stood out because it came within hours of Trump’s remarks. Islamabad has never formally recognized Israel. Support for the Palestinian cause remains deeply rooted across Pakistan’s political and religious spectrum. Any sudden normalization move during the Gaza conflict would likely trigger major domestic backlash.
+
+A Pakistani source familiar with the matter reportedly said the Iran issue and Israel normalization “are not interlinked and cannot be made so.” That response reflected more than a diplomatic disagreement. It signalled Pakistan’s rejection of the broader framework Trump is trying to build.
+
+For Pakistan, the timing also matters. With Gaza dominating headlines and civilian deaths continuing to fuel anger across the Muslim world, recognizing Israel now would carry enormous political costs.
+
+## Why are other countries staying silent?  
+
+The silence from several countries may be more revealing than a direct rejection. Egypt and Jordan already have diplomatic ties with Israel, but relations have become increasingly strained during the Gaza war. Turkey under President Recep Tayyip Erdoğan has repeatedly criticized the Israeli government. Qatar continues to play a delicate role in mediation efforts involving Gaza.
+
+Many governments in the region are balancing two competing pressures.
+
+On one side, they value strategic ties with Washington and security cooperation against Iran. On the other, public opinion inside their own countries remains strongly sympathetic toward Palestinians.
+
+That gap has become difficult to manage since 2023.
+
+## Did the Abraham Accords succeed or fail?
+
+The answer depends on what is being measured. Economically, the accords produced real gains. Trade, tourism and investment expanded rapidly between countries that normalized relations.
+
+Diplomatically, the agreements broke a long-standing taboo in the Arab world. But politically, the accords did not resolve the region’s biggest conflict.
+
+They did not create a Palestinian state. They did not prevent the October 7 attack or the Gaza war that followed. They also failed to build broad public support for normalization across the region.
+
+The accords survived the Gaza crisis, but the conflict exposed how fragile the arrangement can become when public anger rises.
+
+## What happens next?  
+
+Much now depends on two parallel developments, the Iran negotiations and the future of Gaza.
+
+If a ceasefire or political process emerges in Gaza, countries like Saudi Arabia may gain more room to reopen normalization discussions. Without such progress, governments risk appearing to reward Israel while civilian suffering continues to dominate regional politics.
+
+Trump still sees the Abraham Accords as the foundation for a larger Middle East realignment. But turning that ambition into reality may prove far more difficult than the original 2020 breakthrough.
+
+The accords changed diplomacy between a handful of governments. Transforming them into a wider regional order is a much bigger challenge altogether.
+
+---
+
+### Canada to send trade mission to India later this year, says minister
+*Ani · business*
+
+Ottawa: Canada's Minister for International Trade Maninder Sidhu said that a "Team Canada" business delegation will arrive in India later this year to further boost the economic ties as the two countries look forward towards tripling and taking their trade to USD 50 billion by 2030.
+
+Speaking at a joint press address with Union Minister Piyush Goyal, Sidhu recalled the sustained interactions between the Indian and Canadian leadership, along with the announcement of the uranium deal with Canada. He called Goyal's visit "very timely" and noted, "There's a lot of excitement to do more with India in terms of our economic partnership."
+
+Sidhu said, "I'm proud to announce that I will be taking a Team Canada trade mission to India later this year to match the energy that Minister Goyal brought here to Canada."
+
+  
+
+He highlighted the importance of diversifying trade for Canada and said that the country is focussed on unlocking about USD 300 billion in non-US exports.
+
+"We made a promise to Canadians that we'd diversify our trading partners and we'd unlock roughly $300 billion of additional non-US exports, and this is what we're focused on in this visit. But it's going to be a very productive session."
+
+At the address, Goyal hailed the growing momentum of ties between India and Canada during his visit to the country with the largest Indian delegation, that aims to take forward discussions on deepening the economic linkages between the two countries.
+
+The Union Minister's arrival in Ottawa commences a three-day official visit from 25 to 27 May, taking place as New Delhi and Ottawa aggressively push ahead with negotiations for the proposed Comprehensive Economic Partnership Agreement (CEPA), viewed as a vital step in rejuvenating economic relations between the two nations.
+
+---
+
+### Piyush Goyal, Mark Carney hold talks to boost India-Canada bilateral ties
+*Express Global Desk · legal*
+
+Union Commerce and Industry Minister Piyush Goyal met Canadian Prime Minister Mark Carney (Photo/X@MarkJCarney)
+
+Union Commerce and Industry Minister Piyush Goyal met Canadian Prime Minister Mark Carney and discussed strengthening bilateral ties, further expressing optimism over the early conclusion of the India-Canada Comprehensive Economic Partnership Agreement (CEPA).
+
+In a post on X, Goyal called on Carney and conveyed greetings from Prime Minister Narendra Modi while also discussing ways to deepen the relationship between the two nations.
+
+“Called on the Prime Minister of Canada, Mark J Carney, and conveyed warm greetings from Prime Minister Narendra Modi. Fondly recalled his recent visit to India, which has imparted fresh momentum and renewed confidence to the India-Canada partnership,” Goyal wrote.
+
+> Called on the Prime Minister of Canada, Mr. @MarkJCarney, and conveyed warm greetings from Prime Minister @NarendraModi ji. Fondly recalled his recent visit to India, which has imparted fresh momentum and renewed confidence to the India-Canada partnership.
+> 
+> We had forward-looking… https://t.co/cMueCqDrrV pic.twitter.com/MhzoD499lo
+> 
+> — Piyush Goyal (@PiyushGoyal) May 26, 2026
+
+“We had forward-looking discussions on further deepening bilateral cooperation and expressed optimism towards the early conclusion of the India-Canada Comprehensive Economic Partnership Agreement (CEPA), which would unlock new avenues of growth and prosperity for both nations,” he added.
+
+**‘Game changer for Canadian workers and businesses’**
+
+Following his meeting with Goyal, Carney also took to his official social media handle and highlighted the economic significance of the proposed trade deal, describing it as “a game changer” for Canadian workers and businesses.
+
+“We’re negotiating a free trade deal with India. This will be a game changer for Canadian workers and businesses — unlocking a massive new market,” he said.
+
+He said that both sides were moving quickly to explore opportunities for both countries across sectors, including energy, agri-food, tech, and education.
+
+> We’re negotiating a free trade deal with India. This will be a game changer for Canadian workers and businesses — unlocking a massive new market.
+> 
+> We’re working fast — I met Minister @PiyushGoyal to review our progress so far and explore the opportunities ahead for both our… pic.twitter.com/LmiuwQzDmE
+> 
+> — Mark Carney (@MarkJCarney) May 26, 2026
+
+“We’re working fast — I met Minister Piyush Goyal to review our progress so far and explore the opportunities ahead for both our countries in energy, agri-food, tech, and education.”
+
+Story continues below this ad
+
+Goyal is in Canada for a three-day visit as New Delhi and Ottawa intensify efforts to reset bilateral ties and conclude the Comprehensive Economic Partnership Agreement (CEPA) by the end of the year.
+
+Speaking to the press with Canada’s International Trade Minister Maninder Sidhu, Goyal said the Canadian prime minister’s visit to India in February set in motion the pathway of the relationship between New Delhi and Ottawa.
+
+Goyal added that India and Canada are working towards concluding a comprehensive free trade agreement by year-end and increasing bilateral trade from a current USD 17 million to USD 50 billion by 2030.
+
+The Express Global Desk at indianexpress.com which delivers authoritative, verified, and context-driven coverage of key international developments shaping global politics, policy, and migration trends. The desk focuses on stories with direct relevance for Indian and global audiences, combining breaking news with in-depth explainers and analysis. A major focus area of the desk is US immigration and visa policy, including developments 
+
+**Stay updated with the latest - Click here to follow us on Instagram**
+
+© IE Online Media Services Pvt Ltd
+
+-   Tags:
+-   Canada
+
+---
+
+### Is Pope joining Anthropic? What we know so far
+*Om Gupta · general*
+
+## Pope Leo XIV appeared alongside Anthropic co-founder Christopher Olah during the presentation of Magnifica Humanitas, the Vatican's major AI encyclical. Social media turned the exchange into a recruitment meme.
+
+Pope Leo XIV appeared alongside Anthropic co-founder Christopher Olah during the presentation of Magnifica Humanitas. (Photo: AP)
+
+Talent wars in the AI industry have become so intense that even the Pope is being recruited now. That was the reaction online after people saw Pope Leo XIV sharing the stage with Christopher Olah, the 33-year-old atheist co-founder of Anthropic, during a major Vatican event focused on artificial intelligence.
+
+As the pope stepped into a packed Vatican auditorium to personally present Magnifica Humanitas, an encyclical focused on protecting humanity in the age of AI, Olah was seated just a few chairs away among cardinals and theologians.
+
+During his speech, Pope Leo thanked Olah for attending and said the Church wanted to work together to “find a way for humanity in this time of artificial intelligence.” The statement quickly took over social media.
+
+Many users jokingly claimed that one of Silicon Valley’s hottest AI startups had somehow recruited the head of the Catholic Church.
+
+### “Pope has joined Anthropic”
+
+Anthropic already has a reputation for attracting high-profile talent, but the internet took things much further this time.
+
+One X user joked that Pope Leo XIV had joined Anthropic “as a safety consultant.”
+
+Another user posted an edited image showing the pope working on a computer while AI researcher Andrej Karpathy — who recently joined Anthropic — stood beside him.
+
+“We got pope as member of technical staff at Anthropic before GTA 6,” another user wrote.
+
+The memes kept spreading as people reacted to the unusual sight of a pope and an AI executive publicly appearing together to discuss the future of artificial intelligence.
+
+### What was actually happening
+
+Behind the jokes, however, the Vatican event carried a serious message.
+
+The encyclical presented by Pope Leo XIV, titled Magnifica Humanitas (“Magnificent Humanity”), warned about the growing crises facing society that are being intensified by rapid and unchecked technological development. The document criticised the concentration of digital power and argued that governments must regulate AI companies more aggressively.
+
+By appearing alongside Olah, the pope signaled that the Vatican wants a seat at the table where AI’s future is being shaped.
+
+### Why Anthropic’s co-founder wanted the Vatican involved
+
+Speaking before members of the Roman Curia, Olah openly admitted that the people building AI cannot solve its problems alone. He said there were three major areas where the Vatican’s voice was needed.
+
+The first was helping support people if AI displaces human labour “at a very large scale.” The second was ensuring humans can still “flourish” while using AI — including concerns around how chatbots could affect children’s minds.
+
+His third point was perhaps the most mysterious. Olah said humanity needs to better understand what is happening inside advanced AI systems and hinted that some models may even be showing signs of consciousness.
+
+He also argued that AI companies need outside critics who are not influenced by the financial and competitive pressures driving the industry.
+
+“We need informed critics who will tell the labs when we are failing,” Olah said. “We need moral voices that the incentives cannot bend.”
+
+### “A great sign of hope”
+
+Without directly addressing their obvious ideological differences, Pope Leo XIV called the public dialogue between the Church and the AI industry “a great sign of hope.”
+
+“What a great sign of hope that, with our differences, we can listen to one another,” he said.
+
+So no, the pope did not actually join Anthropic. But for a few hours online, the internet genuinely seemed ready to believe that Silicon Valley’s AI talent hunt had finally reached the Vatican.
+
+\- Ends
+
+May 26, 2026 09:34 IST
+
+---
+
+### Pope Leo demands international curbs on AI in first encyclical, warns of ‘endless war’
+*Varsha Agarwal · general*
+
+Pope Leo XIV recently presented his first encyclical, "Magnifica Humanitas" (Magnificent Humanity) in person at the Vatican, alongside AI experts including Christopher Olah, co-founder of U.S. giant Anthropic. In a nearly 43,000-word encyclical, Leo called for international regulation of Artificial Intelligence, warning that AI systems spread misinformation and could push the world towards endless war. 
+
+Pope Leo XIV recently presented his first encyclical, "Magnifica Humanitas" (Magnificent Humanity) in person at the Vatican, alongside AI experts including Christopher Olah, co-founder of U.S. giant Anthropic. In a nearly 43,000-word encyclical, Leo called for international regulation of Artificial Intelligence, warning that AI systems spread misinformation and could push the world towards endless war. 
+
+## **What did Pope Leo say about AI?**
+
+Pope Leo said AI development is dominated by wealthy transnational firms with more resources than many governments, which makes its power opaque and hard to regulate. He asked for slower AI adoption with caution on its control in a few companies' hands. 
+
+"When such power is concentrated in the hands of a few, it tends to become opaque and evade public oversight, increasing the risk of distorted forms of development that give rise to new dependencies, exclusions, manipulations and inequalities. Calling for prudence, rigorous evaluation and even, at times, a slower pace in adopting AI ​does not mean opposing progress; instead, it is an exercise of responsible care for the human family. It is not enough to invoke ethics in the abstract; robust ​legal frameworks, independent oversight, informed users and a political system that does not abdicate its responsibility are required," read a part of his first manifesto, as reported by Reuters.
+
+Pope said that it is essential that the use ⁠of AI, especially when it touches on public goods and fundamental rights, be guided by clear criteria and effective oversight. "Ownership of data cannot be left solely in private hands but ​must be appropriately regulated," he added. 
+
+"The digital revolution is changing the nature of conflict. Alongside conventional warfare, there are hybrid forms such as cyberattacks, information manipulation, campaigns of influence and the automation ​of strategic decisions. What is created for defence can be rapidly repurposed for offence, and the fine line between protection and aggression becomes blurred. While AI can enhance the defence and protection of civilians, it can also lower the threshold for the use of force, shield people from responsibility and foster a culture in which the enemy is reduced to a statistic and the victim to 'collateral damage', " read the manifesto.
+
+The "Magnifica Humanitas" touched upon war, disinformation, youth, and workers, as Pope said, indifference to truth threatens democracy. He called for schools, policy-makers and families to jointly protect youth from attention-driven business models, and stressed that automation is disrupting jobs. He urged that human dignity must come before profit, and international cooperation is needed since markets alone can’t safeguard workers.
+
+## **Pope Leo issues historic apology**
+
+In a key passage of his first papal encyclical, Leo issued an apology for the Catholic church's role in slavery. While acknowledging both its delay in condemning the practice and its historic involvement in legitimising it, he said the Church had taken centuries to fully recognise "the ​scourge of slavery" as incompatible with human dignity, calling the legacy "a wound in Christian ​memory."
+
+
+---
+
 ## 25 May 2026
 
 ### Ungrateful: Congress hits back at Udhayanidhi as row with DMK widens
