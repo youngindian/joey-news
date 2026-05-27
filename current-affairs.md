@@ -1,3 +1,534 @@
+## 27 May 2026
+
+### Uganda-Return Woman Quarantined In Bengaluru Over Suspected Ebola Infection Tests Negative
+*Shuddhanta Patra · general*
+
+According to Health Ministry, the individual reported mild body ache and has been admitted to the state-run Epidemic Diseases Hospital for observation and evaluation.
+
+[Read full article](https://www.news18.com/india/uganda-returned-woman-kept-in-isolation-in-bengaluru-amid-ebola-concerns-ws-l-10114586.html)
+
+---
+
+### Why Is Byju Raveendran Facing So Many Cases Across Countries? All You Need To Know About Byju's, Its Founder
+*Mohammad Haris · business*
+
+In fresh trouble, Byju Raveendran, once celebrated as the face of India's booming startup ecosystem, has been sentenced to six months' imprisonment by Singapore court.
+
+[Read full article](https://www.news18.com/business/markets/why-is-byju-raveendran-facing-so-many-cases-across-countries-all-you-need-to-know-about-byjus-its-founder-10114639.html)
+
+---
+
+### 'Gone absolutely crazy': Trump says media would portray Iran’s surrender as a victory over US
+*ET Online · world*
+
+U.S. President Donald Trump said that if Iran surrendered, media outlets would portray it as a ‘masterful and brilliant victory over the United States’ in a post on Truth Social on Tuesday (May 26). Iran said on Tuesday the United States had violated a ceasefire by striking targets near the conteste...
+
+[Read full article](https://economictimes.indiatimes.com/news/international/world-news/gone-absolutely-crazy-trump-says-media-would-portray-irans-surrender-as-a-victory-over-us/videoshow/131341595.cms)
+
+---
+
+### Trump calls off rare Camp David meeting due to weather
+*SECTIONS Trump calls off rare Camp David meeting due · world*
+
+Washington: US President Donald Trump said he had shifted a rare cabinet meeting planned for Wednesday at his Camp David retreat to the White House because of bad weather.
+
+The meeting at the secluded lodge in the Maryland hills -- which Trump has only visited once in his second term -- was expected to focus on talks to end the Iran war.
+
+"Based on the possible bad weather conditions tomorrow, we will be having our Cabinet Meeting in the White House, and will be postponing the Cabinet trip to Camp David," Trump said Tuesday on his Truth Social network.
+
+  
+
+The Washington area has been hit by several consecutive days of rain with more expected to follow.
+
+Camp David would have provided a more secluded environment for a Trump cabinet meeting, as opposed to the White House where they have tended to turn into three-hour televised marathons.
+
+Trump said Saturday that a deal with Tehran to end the Middle East war was close but negotiations are still tense, with the US leader warning that strikes on Iran could resume. On Monday, CENTCOM announced US strikes on southern Iran and boats, but said the ceasefire remained in place.
+
+Camp David has been the scene of major US-led diplomatic developments in the past, including the 1978 accords between Israel and Egypt under President Jimmy Carter and a failed 2000 Israeli-Palestinian summit under Bill Clinton.
+
+Trump has however been an infrequent visitor.
+
+His only previous trip there since returning to power was in June 2025, just days before the United States launched strikes on Iran's nuclear program.
+
+During his first term Trump said he had canceled a planned summit with Taliban leaders at Camp David following an attack on US forces.
+
+---
+
+### Mumbai Deal, Ahmedabad Hunt: How Red Fort Blast Module Built Its Supply Chain In India | Exclusive
+*Pragati Ratti · general*
+
+According to the NIA probe, the activities were linked to a radical module - Ansar Gazwat ul Hind Interim - whose members sourced materials from different parts of India.
+
+[Read full article](https://www.news18.com/india/mumbai-deal-ahmedabad-hunt-how-red-fort-blast-module-built-its-supply-chain-in-india-exclusive-ws-l-10114576.html)
+
+---
+
+### Delhi government monitors transportation, sale and sacrifice of animals ahead of Eid
+*TOI News Desk · general*
+
+NEW DELHI: Delhi government has formed rapid response teams across all 13 districts ahead of Bakrid to crack down on illegal animal sacrifice, unauthorised slaughter and cruelty to animals in the national capital.The teams, constituted under the Animal Husbandry Unit on directions of development minister Kapil Mishra, have already started inspections in markets and sensitive areas across North-West, North-East, North, Central, South-West and West Delhi.Officials said the teams will monitor transportation, sale and sacrifice of animals during Eid-al-Adha celebrations and take immediate action in case of violations."The advisory clearly states that no illegal sacrifice of any kind will be permitted during Bakrid. Sale and purchase of animals at public places is completely prohibited," Mishra said.According to the government advisory, animal sacrifice will be allowed only at authorised and designated locations. Sacrifices on roads, lanes and other public places have been strictly banned.The minister also reiterated that slaughter or sacrifice of cows, calves, camels and other prohibited animals is completely banned in Delhi.
+
+Authorities have been directed to register criminal cases in instances of illegal transportation, unauthorised slaughter or animal cruelty.The advisory further stated that no cruelty should be inflicted during transportation of animals and meat cannot be sold at unlicensed locations. Authorities have also been instructed to ensure that blood and animal remains are not dumped in drains, roads or public sewage systems.The Delhi government said awareness campaigns through posters and social media will also be launched to spread awareness about animal welfare rules and civic responsibilities ahead of Bakrid.
+
+---
+
+### ITR-2 online filing and excel utility for A.Y. 2026–27 are now enabled on the e-Filing ITR portal - The Economic Times
+*Neelanjit Das · finance*
+
+The Income Tax Department has enabled ITR-2 online filing and excel utility for A.Y. 2026–27 on the e-Filing ITR portal. Since the new income tax return (ITR) forms were also notified a few weeks ago, it means students, pensioners, salaried and others who are not required to undergo an income tax audit can now start filing their ITR the due date for which is on or before July 31, 2026.
+
+You can either use the offline excel utility or the online utility or ITR e-filing website to file your income tax return (ITR) by July 31, 2026.
+
+## Who can file ITR-2?
+
+Chartered Accountant Abhishek Soni, co-founder, Tax2Win says that ITR-2 is meant for individuals and Hindu Undivided Families (HUFs) who do not have income from business or profession but have more complex income structures. This includes income from salary or pension, income from multiple house properties, and income from capital gains or losses arising from the sale of investments or property (both short-term and long-term).
+
+It also covers income from other sources, including winnings from lotteries, racehorses, or other legal gambling activities, as well as agricultural income exceeding Rs 5,000. Individuals whose total income exceeds Rs 50 lakh, as well as non-residents and residents not ordinarily resident (RNOR), must file ITR-2.
+
+Moreover, individuals who serve as directors in a company or have invested in unlisted equity shares must mandatorily file ITR-2, irrespective of their income level.
+
+**
+
+  
+
+## What common mistakes should taxpayers avoid while filing ITR 2 this year?
+
+Chartered Accountant Abhishek Soni, co-founder, Tax2Win , says that the ITR-2 filings often involve more complexity, and taxpayers frequently make errors in areas such as residential status, capital gains reporting, and disclosure of foreign assets. Misclassification of short-term and long-term capital gains, or failure to provide detailed disclosures in Schedule 112A, is a common issue.
+
+According to Soni, resident taxpayers sometimes neglect mandatory reporting of foreign assets and overseas accounts in Schedule FA, which can lead to compliance issues. Similarly, incorrectly determining residential status—whether resident, non-resident, or RNOR—can result in incorrect tax computation and missed compliance requirements such as filing Form 67 for foreign tax credit.
+
+Errors are also common in reporting assets such as immovable property, bank balances, shares, jewellery, and vehicles. Taxpayers should carefully reconcile their disclosures with Form 26AS and AIS to avoid underreporting or overreporting of income.
+
+According to Soni, another frequent mistake is improper handling of carry-forward and set-off of losses, including failure to fill Schedule CFL and Schedule BFLA correctly or missing the filing deadline required to carry forward capital losses. Additionally, taxpayers should ensure that personal details such as address and employer information are updated, especially if they have changed jobs or cities during the year.
+
+Overall, careful classification of income, accurate disclosure, and thorough reconciliation with official tax statements are essential to avoid errors in ITR-2 filing.
+
+---
+
+### SIR Judgment Live Updates: Supreme Court to deliver verdict
+*Ashish Shaji · legal*
+
+The petitioners had contended that while there is no dispute that citizenship is a prerequisite for voting, the core question was whether the ECI can determine citizenship at all.
+
+**Supreme Court SIR Judgment LIVE**: The Supreme Court on Wednesday will pronounce judgment on petitions challenging the constitutional validity of the Special Intensive Revision (SIR) of electoral rolls carried out by the Election Commission of India (ECI).
+
+**Reserved**: Earlier this year, a bench of Chief Justice of India **Surya Kant** and **Justice Joymalya Bagchi** had reserved its decision in the matter. The pleas claimed that the Election Commission does not have the power to carry out SIR on such a large scale.
+
+Story continues below this ad
+
+The court, while refusing the stay on the SIR process, had, however, said that it would examine whether ECI had the powers to do the special revision.
+
+---
+
+### ‘Wives Not Deemed Maids’: Bombay High Court Says Refusal To Do Household Chores Not Cruelty
+*Shobhit Gupta · general*
+
+Setting aside the divorce decree, the High Court said the allegations made by the husband were “trivial” and reflected disagreements common in the early stages of marriage.
+
+[Read full article](https://www.news18.com/india/wives-not-deemed-maids-bombay-high-court-says-refusal-to-do-household-chores-not-cruelty-ws-l-10114574.html)
+
+---
+
+### Eid Mubarak 2026: Top 10 ChatGPT, Gemini prompts for Bakrid and Eid Al Adha posters, templates, images and more
+*Trending Desk · business*
+
+Eid Al Adha is celebrated as Bakrid or Bakrd Eid is a major festivals celebrated by Muslims across the globe. While most of the Arab and Muslim world will celebrate Eid Al Adha on Wednesday, India has announced that it will mark the holiday on Thursday, May 28, 2026.
+
+**
+
+On Eid Ul Adha, people also send wishes, quotes, greetings and messages to their friends and family and in this digital era, many turn to AI platforms like ChatGPT and Gemini to make posters, templates to share on social media platforms.
+
+  
+
+## 10 ChatGPT prompts to create Bakrid, Eid Ul Adha posters, templates and images
+
+“Create a luxurious Eid al Adha Mubarak poster with golden crescent moon, glowing lanterns, mosque silhouette, elegant Islamic patterns, warm lights, festive atmosphere, Arabic calligraphy style typography, high-resolution social media template.”
+
+“Design a modern Bakrid Mubarak poster template with green and gold theme, sheep illustration, moon and stars, minimal Islamic art, stylish typography, Instagram-friendly layout, clean background.”
+
+“Generate an elegant Eid ul Adha 2026 greeting poster with Kaaba-inspired elements, glowing lanterns, crescent moon, premium gold textures, soft lighting, realistic Islamic festive design.”
+
+“Create a colorful Eid al Adha Mubarak social media poster with family celebration theme, mosque background, fireworks, Islamic geometric patterns, vibrant festive colors, editable text space.”
+
+“Design a premium Eid Mubarak poster template featuring a white goat, moonlit night sky, Arabic motifs, hanging lanterns, luxurious typography, cinematic lighting, festive Islamic vibes.”
+
+“Generate a minimalist Eid ul Adha greeting card poster with beige and emerald green tones, elegant crescent moon, subtle Islamic patterns, modern typography, clean and aesthetic design.”
+
+“Create a realistic Bakrid Mubarak poster with prayer scene, mosque domes, glowing sunset sky, Islamic calligraphy, traditional festive mood, ultra-HD details, editable banner template.”
+
+“Design a creative Eid al Adha poster for WhatsApp and Instagram stories with golden lanterns, crescent moon, stars, sheep silhouette, dark royal background, stylish Eid typography.”
+
+“Generate a 3D Eid ul Adha Mubarak poster with luxury Islamic decor, floating crescent moon, glowing Arabic lanterns, elegant mosque architecture, festive golden effects, high-quality template.”
+
+“Create a festive Eid al Adha Mubarak banner with Islamic floral art, moon and stars, warm golden lighting, modern Arabic typography, social media post template, premium aesthetic design.”
+
+## 10 Google Gemini prompts to create Bakrid, Eid Ul Adha posters, templates and images
+
+**Minimalist & Elegant (Best for Professional/Corporate Wishes)  
+**  
+Prompt 1: A minimalist and modern Eid al-Adha greeting card design. A deep emerald green background with delicate, thin gold line art depicting a crescent moon, a mosque silhouette, and a clean geometric sheep symbol. Elegant gold typography in the center reads "Eid Mubarak". Clean, sophisticated, high-end graphic design style, 8k resolution, vector look.
+
+Prompt 2: An elegant and clean horizontal banner for Bakrid. A soft pastel beige background with a subtle marble texture. On the right side, a beautifully detailed, warm-glowing Arabic lantern (fanous) casting a soft light. On the left side, elegant calligraphy that reads "Eid al-Adha Mubarak". Professional, clutter-free, minimalist aesthetic suitable for WhatsApp status.
+
+**Warm & Festive Family Scenes (Best for Personal Greetings)  
+**  
+Prompt 3: A heartwarming illustration of a happy Muslim family—a mother, father, and two young children—dressed in festive traditional Eid clothes, smiling and sharing a plate of sweets. The background shows a beautifully decorated living room with fairy lights, a crescent moon visible through the window, and a warm, joyful atmosphere. Soft lighting, digital art style, Pixar-like 3D render animation style.
+
+Prompt 4: A festive Eid al-Adha celebration scene. A cheerful family standing together outdoors under a starry night sky with a large, glowing full moon. In the background, a beautifully illuminated mosque with minarets. Hanging lanterns and decorative lights frame the image. The text "Wishing You a Blessed Bakrid" is written in a friendly, elegant font at the top. Vibrant colors, warm glow, high quality.
+
+**Traditional & Calligraphic (Best for Classic Eid Aesthetics)  
+**  
+Prompt 5: A stunning Eid al-Adha poster featuring intricate Arabic calligraphy of "Eid Mubarak" as the central focus, glowing in a rich metallic gold. The background is a deep royal blue with complex Islamic geometric patterns and subtle mandalas. Soft bokeh lights and sparkles floating around. Luxurious, festive, and deeply spiritual vibe.
+
+Prompt 6: A traditional Bakrid greeting image. A close-up of a beautifully designed vintage brass lantern lit from within, casting intricate shadows on a Persian rug. In the soft-focus background, a silhouette of a majestic white sheep and a mosque dome under a starry violet twilight sky. Rich textures, cinematic lighting, photorealistic.
+
+**Cute & Whimsical (Great for Kids or Casual Group Chats)  
+**  
+Prompt 7: A cute and whimsical 3D animated style illustration for Eid al-Adha. A fluffy, adorable white cartoon sheep wearing a small colorful festive scarf, smiling happily next to a big crescent moon made of gold. Colorful confetti and stars bursting in the background. Bright, cheerful pastel colors, playful typography saying "Happy Bakrid!", highly detailed 3D claymation style.
+
+Prompt 8: A charming and artistic watercolor painting for Eid. A gentle illustration of a fluffy lamb surrounded by a wreath of vibrant summer flowers, eucalyptus leaves, and small golden stars. Soft, bleeding watercolor textures, elegant and artistic, white background, peaceful and joyful mood.
+
+**Social Media Template Style (Perfect for Editing/Adding Text Later)  
+**  
+Prompt 9: A blank social media template banner for Eid al-Adha. A beautiful aesthetic background split diagonally with cream white and matte navy blue. Decorated with hanging gold star ornaments, paper-cut style clouds, and a crescent moon. Ample negative space in the center left blank for custom text or quotes. Clean, modern, graphic design layout.
+
+Prompt 10: A photorealistic flat lay template for Bakrid. A wooden table surface viewed from above, decorated with a bowl of dates, a cup of traditional tea, a string of prayer beads (tasbih), and fresh jasmine flowers. A clean, blank card sits in the center, waiting for a message. Warm morning sunlight creating soft shadows across the setup.
+
+---
+
+### Punjab civic polls: Political workers clash at several places; 63.94 per cent voter turnout recorded
+*SECTIONS Punjab civic polls Political workers clash · business*
+
+Chandigarh: Clashes involving supporters of Congress, AAP, BJP and SAD and allegations of booth capturing were reported on Tuesday at several places in Punjab during the civic elections that saw 63.94 per cent polling amid a heatwave.
+
+The local body elections is being seen as crucial for all major political parties of the state as they are taking place ahead of the assembly polls next year. It is a litmus test for the ruling AAP which is hoping to retain power in Punjab.
+
+Polling through ballot papers began at 8 am and continued till 5 pm. Counting will take place on May 29.
+
+  
+
+According to officials, out of total 35 lakh voters, 22.38 lakh votes polled, showing a voter turnout of 63.94 per cent.
+
+Elections were held in 1,897 wards across eight municipal corporations -- Mohali, Bathinda, Abohar, Barnala, Kapurthala, Moga, Batala, and Pathankot -- besides 75 municipal councils and 19 nagar panchayats, officials said.
+
+They further said in polling for municipal corporations, the voter turnout was 59.91 per cent. In municipal councils and nagar panchayats, polling percentages were 65.06 and 76.18 respectively.
+
+There were reports of clash incidents at many places.
+
+Congress candidate from Ward number 4 in Raikot, Jagdev Singh Jagga was injured in an attack with sharp-edged weapons by a group of people. He was admitted to a private hospital in Ludhiana, officials said.
+
+Punjab Congress chief Amrinder Singh Raja Warring and Congress MLA Partap Singh Bajwa condemned the incident and slammed the AAP government over the law and order situation in the state.
+
+"The brutal attack on Congress candidate Jagdev Singh Jagga in Raikot exposes the complete collapse of law and order under the Bhagwant Mann government.
+
+"Gangsters and political goons are roaming freely while the government is busy with ads and reels. If election candidates are unsafe, imagine the condition of common people in Punjab," Warring said on X.
+
+Warring later in the evening inquired the health of Jagga after visiting the hospital in Ludhiana.
+
+"Any attack on my Congress worker is like an attack on my family. The brutal attack on Jagdev Singh Jagga is deeply disturbing and unacceptable. Violence has no place in democracy. Those responsible must be identified and brought to justice immediately. Punjab cannot be allowed to function through fear and intimidation," Warring said.
+
+In Barnala, the husband of BJP candidate from Ward number 15, Deepinder Kaur, was assaulted by a group of people following heated exchanges after he made allegations of bogus voting. His turban was removed and he suffered injuries, after which he was taken to a hospital.
+
+A clash erupted between the supporters of the Shiromani Akali Dal (SAD) and the ruling Aam Aadmi Party (AAP) in Gidderabha in Muktsar district during polling in Ward numbers 18 and 19, officials said.
+
+The SAD later lodged a complaint with the Punjab State Election Commission against AAP MLA Hardeep Singh Dimpy Dhillon and others, accusing them of indulging in booth capturing, assault and intimidation during municipal elections and demanded an FIR be registered against them.
+
+However, officials rejected the claims of any booth capturing incident during polling.
+
+Tension prevailed in Samana in Patiala supporters of two rival political parties clashed and later pelted stones at cops during polling in Ward number 19.
+
+The police resorted to cane charging to disperse the crowd and polling was temporarily stalled, the officials said.
+
+In Amritsar's Majitha, supporters of SAD and AAP clashed, prompting police to intervene in the matter, they said.
+
+SAD leader Bikram Singh Majithia attacked the Mann government over the incident and alleged that during the council elections in Majitha, AAP workers with the support of the Punjab Police, indulged in booth capturing, violence and intimidation.
+
+He further said that a Sikh youth was stripped of his turban and alleged that Majitha is no longer governed by the rule of law.
+
+He claimed that Congress candidates, independent candidates, opposition workers and ordinary voters were subjected to intimidation and hooliganism during polling.
+
+In Maur Mandi, the supporters of the BJP and AAP were involved in heated exchanges.
+
+Punjab Congress chief Amrinder Singh Raja Warring alleged that violence, intimidation and pressure tactics witnessed during elections are deeply shameful and completely unacceptable in a democracy.
+
+"I strongly demand strict action against every person involved in these attacks and acts of lawlessness, irrespective of political affiliation," he alleged.
+
+A total of 7,555 candidates were in the fray. The ruling party AAP has fielded the highest number of candidates at 1,801, followed by 1,550 from the Congress, 1,316 from the BJP, 1,251 from the Shiromani Akali Dal (SAD), and 96 from the Bahujan Samaj Party (BSP).
+
+Besides, there were 1,528 Independent candidates contesting the polls.
+
+Voters, particularly elderly individuals and women, were seen queuing up at polling booths in the morning to avoid scorching heat during the day.
+
+Among early voters, Punjab BJP working president Ashwani Sharma cast his vote at a polling booth in Pathankot.
+
+Punjab Congress chief Warring, along with his wife Amrita Warring, reached a polling station in Muktsar on a bullock cart. He said that he wanted to give a message to the Union government that ordinary citizens are "suffering" because of the frequent fuel price hike.
+
+A total of 740 polling booths were declared sensitive and 275 hyper-sensitive. Around 35,000 election personnel and 32,000 police personnel were deployed on election duty.
+
+---
+
+### Tamil Nadu CM Vijay to meet PM Modi on his maiden official visit to Delhi
+*SECTIONS Tamil Nadu CM Vijay · business*
+
+Chennai: Tamil Nadu Chief Minister C Joseph Vijay is scheduled to meet Prime Minister Narendra Modi in New Delhi on Wednesday to discuss matters concerning the state.
+
+This marks the TVK chief's maiden official visit to the national capital after assuming office earlier this month.
+
+Though the detailed official itinerary of Vijay's visit was not released, sources said that the CM is expected to take a 10 am flight from the Chennai airport.
+
+  
+
+The meeting with Modi is slated for 4.30 pm, where Vijay will submit a memorandum outlining the state's long-pending demands.
+
+The charter of demands is likely to push for welfare and infrastructure projects funding, clearances for developmental initiatives, and a resolution to the ongoing Mekedatu water dispute.
+
+Sources also added that the Chief Minister is likely to hold discussions with Union Finance Minister Nirmala Sitharaman to press for financial backing for ongoing development projects in the state.
+
+Similarly, Vijay is also expected to meet Congress leaders Sonia Gandhi and Rahul Gandhi during his visit.
+
+---
+
+### Delhi government to introduce CBDC-based smart ration distribution system for greater transparency and consumer choice
+*ANI · regional, india*
+
+Delhi government to introduce CBDC-based smart ration distribution system for greater transparency and consumer choice
+
+NEW DELHI: In a major welfare oriented decision aimed at expanding food security coverage in the national capital, the Delhi Cabinet has approved a proposal to increase the annual income eligibility limit for ration cards from Rs 1.2 lakh to Rs 2.5 lakh under the Public Distribution System (PDS).The decision is expected to benefit lakhs of families across Delhi who were previously excluded due to the lower income threshold, a release said.Speaking on the Cabinet decision, Minister for Food & Supplies Manjinder Singh Sirsa said the Delhi Government under CM Rekha Gupta is also working towards implementing a CBDC (Central Bank Digital Currency) enabled ration distribution mechanism.Under this system, financial assistance for ration will be directly deposited into beneficiaries' accounts, enabling them to purchase ration as needed through digital currency at ration shops."This will enhance transparency and eliminate mismanagement in the system," Sirsa said.The Minister said that the proposed CBDC-based model will gradually be operationalised at ration shops and integrated with banking systems, including private banks in the future. The initiative is aimed at ensuring efficient delivery of benefits, reducing leakages, and empowering beneficiaries with greater flexibility and dignity in accessing food supplies.
+
+CBDC in the PDS system refers to the use of Central Bank Digital Currency as the mode for delivering food subsidy benefits to beneficiaries, rather than relying solely on physical foodgrain distribution through Fair Price Shops (FPS) or unrestricted cash transfers into bank accounts. CBDC is a digital form of sovereign currency issued by the Reserve Bank of India and has the same legal status as physical currency.Under the proposed CBDC-based PDS model, the Government will calculate the subsidy equivalent of entitled foodgrains and transfer the amount into the beneficiary's CBDC wallet. Beneficiaries will then be able to purchase rations from authorised FPS outlets after authentication through Aadhaar/e-PoS systems, with all transactions digitally recorded and reconciled for greater accountability.CBDC-enabled PDS model is expected to make the system more transparent, portable and citizen-friendly, the release said.
+
+The mechanism will provide beneficiaries with greater flexibility in choosing authorised outlets, real-time visibility of subsidy entitlement and transaction history, and a stronger grievance redressal framework through digitally traceable records.The model is also expected to reduce disputes at FPS levels, strengthen audit trails, improve subsidy utilisation monitoring and simplify reconciliation processes.CM Rekha Gupta had earlier talked about enhancement of the income ceiling for ration card eligibility in Delhi.The income eligibility limit has been hiked from the earlier Rs 1 lakh to Rs 1.2 lakh and now to Rs 2.5 lakh to benefit more and more low-income households."Earlier, the income eligibility for ration cards was very low. In today's times, even an annual income of Rs 1 lakh is below the level of minimum wages for a family.
+
+Keeping this in mind, the Rekha Gupta-led Delhi Government has increased the income limit to Rs 2.5 lakh so that more deserving families can avail the benefits of subsidised ration under the PDS system," Sirsa said."The Delhi Government under CM Rekha Gupta is also working towards implementing a CBDC (Central Bank Digital Currency) - enabled ration distribution mechanism," he said."Under this system, financial assistance for ration will be directly deposited into beneficiaries' accounts, enabling them to purchase ration as needed through digital currency at ration shops. This will enhance transparency and eliminate mismanagement in the system," he added.
+
+---
+
+### Premanand ji Maharaj health latest news: 'Main milu ya na milun' emotional message appears amid health worries
+*Trending Desk · business*
+
+Followers of Premanand Maharaj are growing anxious after the spiritual leader’s regular padyatra and personal meetings with devotees were suspended indefinitely due to health concerns. The uncertainty around his condition has now deepened after a new emotional video message surfaced online, where Maharaj Ji urged devotees not to worry and to continue their spiritual path with faith.
+
+The Vrindavan-based preacher, known for his early morning spiritual walks and satsangs, addressed followers in a heartfelt tone, saying that his physical presence should not become the center of their devotion.
+
+  
+
+## “Hum Milen Ya Na Milen…”: Maharaj’s Emotional Appeal
+
+In the video shared on YouTube, Premanand Maharaj tells devotees:
+
+  
+
+“Bilkul chinta na karein. Hum milen na milen, hum bolen na bolen, lekin hum aap sabko bahut pyaar karte hain. Hum chahte hain ki sabko Shri Ji ki kripa milti rahe aur sab unke charanon tak pahunchein.”
+
+He further says devotees should not worry about whether he appears publicly or not, adding:
+
+“Main saamne aaun ya na aaun, is baat ki chinta bilkul nahi karni. Main bina bole hi aapke dimaag mein hoon.”
+
+The emotional tone of the message has left many followers concerned about his health, especially after the sudden suspension of his public activities.
+
+## Maharaj Speaks About Silence and Solitude
+
+In another part of the video, Premanand Maharaj says devotees should continue serving wherever they are and stay focused on naam jap and bhajan.
+
+“Bas naam jap karte raho. Main rahun ya na rahun, dikhun ya na dikhun, lekin tumhara mangal zaroor hoga.”
+
+He also spoke about choosing silence and seclusion, saying:
+
+“Jab hamara man hoga hum bol denge, warna maun ekaant rahenge. Yeh maun ekaant hum aapke liye hai, apne liye nahi.”
+
+His remarks have triggered speculation among devotees about whether his health has deteriorated further, although no official update has been issued.
+
+## Premanand Maharaj's message to devotees
+
+Through the video, Maharaj Ji encouraged followers to remain spiritually strong and avoid fear or anxiety. His message focused on devotion, surrender and faith rather than dependence on any individual.
+
+**Key points from his message included:**
+
+-   Continue naam jap regularly
+-   Stay devoted to Radha Rani
+-   Keep doing bhajan and seva
+-   Do not worry about personal salvation
+-   Remain fearless, peaceful and spiritually focused
+-   Sudden Halt to Daily Padyatra
+
+A few days ago, Premanand Maharaj’s daily 3 am padyatra was suspended indefinitely. The update was shared by sevadars at the Keli Kunj ashram, leaving devotees disappointed and worried.
+
+Now, after the release of this latest video, concern among followers has grown even stronger. Many devotees are praying for Maharaj Ji’s speedy recovery and hoping to see him return to public gatherings soon.
+
+---
+
+### UK spy chief warns Russia cyber threats could overwhelm Britain and allies
+*SECTIONS UK spy chief warns Russia cyber threats could overwhelm Britain · world*
+
+London: Britain and its allies risk losing a conflict in cyberspace against adversaries such as Russia unless citizens, corporations and governments treat cybersecurity with much greater urgency, a U.K. spy chief is warning.
+
+Anne Keast-Butler, director of the communications intelligence agency GCHQ, will warn Wednesday that Moscow is "relentlessly targeting critical infrastructure, democratic processes, supply chains and public trust" in Britain and Europe. In a speech at a World War II code breaking center near London, she will accuse Russia of stealing technology and plotting sabotage and assassination attempts.
+
+Keast-Butler plans to say that rapid advances in artificial intelligence mean that "the ground beneath our feet is shifting" and there is a "narrowing window for the U.K. and allies to stay ahead" of countries such as China, a science and technology "superpower."
+
+  
+
+She plans to argue there must be an effort "from boardrooms to living rooms" to make cybersecurity "10 times more urgent," according to extracts released in advance by GCHQ, short for Government Communications Headquarters.
+
+It is the latest in a string of warnings from Western spies and intelligence experts that Russia is stepping up hostile activity in a "gray zone" that falls just below the threshold of war.
+
+In recent months, authorities in countries including Sweden, Poland, Denmark and Norway have alleged that hackers linked to Russia targeted their critical infrastructure, including power plants and dams.
+
+The head of the U.K.'s National Cyber Security Centre, Richard Horne, warned last month that hostile states including Russia, China and Iran are behind the most serious cyberattacks the country faces. He said such attacks could increase dramatically if Britain becomes involved in an international conflict.
+
+Keast-Butler plans to stress the importance of international partnerships as U.S. President Donald Trump's "America First" foreign policy and disregard for longtime allies strains the relationship between London and Washington.
+
+Pointedly, she is delivering the annual GCHQ director's lecture speech at Bletchley Park, a manor house 45 miles (72 kilometers) northwest of London where hundreds of mathematicians, cryptographers, crossword puzzlers, chess masters and other experts worked to crack Nazi Germany's supposedly unbreakable secret codes.
+
+Their work both shortened the war and hastened the birth of modern computing.
+
+---
+
+### Silver gains Rs 2,000/kg, gold at Rs 1.58 lakh/10 gms on weak dollar, Iran war peace deal hopes. Key levels to watch
+*Veer Sharma · economy*
+
+Gold and silver prices opened marginally higher on Multi Commodity Exchange (MCX) on Wednesday aided by a weaker dollar, as investors tracked developments in peace talks between the United States and Iran while also evaluating the U.S. Federal Reserve’s policy outlook.
+
+In the domestic market, MCX silver futures for July 2026 delivery were up Rs 2,000 or 0.7% to Rs 2,72,628 per kg. Gold futures for June 2026 delivery rose marginally by Rs 215 at Rs 1,57,898 per 10 grams. In the previous session, silver and gold were marginally lower.
+
+Market participants are closely watching upcoming comments from U.S. Federal Reserve officials, including Fed Vice Chair Philip Jefferson and Governor Lisa Cook, for further clarity on how inflation could shape the central bank’s future monetary policy stance.
+
+Oil hovered near $100. Liquid gold prices influence inflation expectations. Elevated crude can fuel inflation and keep interest rates higher for longer. While gold is seen as an inflation hedge, higher rates tend to ⁠weigh on the non-yielding metal.
+
+In the international market, Spot gold rose 0.2% to $4,516.76 per ounce, while U.S. gold futures for June delivery gained 0.3% to $4,516.30. Among other precious metals, spot silver advanced 0.6% to $77.40 per ounce, platinum was largely unchanged at $1,957.75, while palladium climbed 0.9% to $1,391.68.
+
+##   
+How should you trade gold?
+
+Manoj Kumar Jain said gold has support at $4,500-4,467 per troy ounce, while resistance is placed at $4,574-4,600 per troy ounce in today’s session. Silver has support at $74.40-72.00 per troy ounce, while resistance is seen at $78.80-80.40 per troy ounce.
+
+He said Prithvi Finmart had recommended buying silver last week in the Rs 2,71,000-2,67,000 range with a stop loss below Rs 2,63,000 for targets of Rs 2,81,000-2,85,000. Investors holding long positions based on the recommendation have been advised to strictly maintain the given stop loss and book profits around Rs 2,75,000-2,78,000 levels.
+
+Jain added that the firm had also suggested buying gold in the Rs 1,58,500-1,57,700 range with a stop loss below Rs 1,56,650 for targets of Rs 1,59,350-1,60,300. Those holding long positions in gold have been advised to book profits around Rs 1,59,100-1,59,500 levels.
+
+##   
+Gold rates in physical markets
+
+**Gold Price today in Delhi**  
+Standard gold (22 carat) prices in Delhi stand at Rs 1,16,632/8 grams while pure gold (24 carat) prices stand at Rs 1,27,632/8 grams.
+
+**Gold Price today in Mumbai**  
+Standard gold (22 carat) prices in Mumbai stand at Rs 1,16,512/8 grams while pure gold (24 carat) prices stand at Rs 1,27,104/8 grams.
+
+**Gold Price today in Chennai**  
+Standard gold (22 carat) prices in Chennai stand at Rs 1,17,832/8 grams while pure gold (24carat) prices stand at Rs 1,28,544/8 grams.
+
+**Gold Price today in Hyderabad**  
+Standard gold (22 carat) prices in Hyderabad stand at Rs 1,16,512/8 grams while pure gold (24 carat) prices stand at Rs 1,27,104/8 grams.
+
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)
+
+---
+
+### 1 killed, 9 others feared dead in Washington state chemical tank implosion
+*Express Global Desk · legal*
+
+Damage is seen at Nippon Dynawave Packaging Co., after a tank containing hazardous liquid imploded, on Tuesday, May 26, 2026, in Longview, Wash. (Photo: The Seattle Times via AP)
+
+Washington chemical tank implosion: At least one person was killed, and nine others were missing after massive chemical tank imploded and collapsed Tuesday at a Washington paper mill, news agency Associated Press reported.
+
+The authories said there was no hope for rescue of the nine who were unaccounted for.
+
+The chemical tank had nearly a million gallons of a highly corrosive liquid. The cause of the accident remained unclear.
+
+Nine other people were injured, some of them gravely, in the spill at Nippon Dynawave Packaging Co. in Longview.  
+“At the moment we are not aware of any rescues that are yet to be made,” Cowlitz Fire and Rescue Chief Scott Goldstein said during a Tuesday evening news conference.
+
+In the recovery effort to be resumed on Wednesday morning, emergency responders would work on stabilising the collapsed tank, that was still holding about 90,000 gallons of “white liquor” inside, and then launch a search operation for the missing. The officials said they would be able to work only during daytime because the tanks still has a risk of leaking more caustic liquid and collapsing.
+
+Among the victims, some suffered burns or inhalation injuries. Among the injured was a firefighter who was responding to the situation.
+
+“We don’t know until we know, hopefully tomorrow, how we can stabilise the tank. Do we remove the product first? Do we stabilise the tank first or the vice versa?” Goldstein said.
+
+Story continues below this ad
+
+The authorities howver assured that there were no threat to the public.
+
+The Express Global Desk at indianexpress.com which delivers authoritative, verified, and context-driven coverage of key international developments shaping global politics, policy, and migration trends. The desk focuses on stories with direct relevance for Indian and global audiences, combining breaking news with in-depth explainers and analysis. A major focus area of the desk is US immigration and visa policy, including developments 
+
+**Stay updated with the latest - Click here to follow us on Instagram**
+
+© IE Online Media Services Pvt Ltd
+
+-   Tags:
+-   Washington
+
+---
+
+### Zypp founder shares story of rider who went from jobless to earning Rs 45,000
+*India Today Trending Desk · general*
+
+## A viral video shows how an EV bike rental programme helped an unemployed man start earning about Rs 45,000 a month. The story has sparked discussion on affordable mobility as a lifeline for gig workers in Indian cities.
+
+Zypp founder shared a feel-good video showing a rider's happy journey from being unemployed to earning Rs 1500 per day. (Photo: Instagram)
+
+A simple conversation between a delivery rider and a startup founder has struck a chord online after revealing how an electric bike helped a previously unemployed man earn nearly Rs 45,000 a month and rebuild his life.
+
+The viral interaction was shared by Zypp Electric co-founder Akash Gupta, who spoke to one of the company’s delivery riders during a ride. In the video, Gupta asks the rider who hails from Uttar Pradesh’s Firozabad, how life changed after getting access to the EV bike rental programme.
+
+The rider candidly explains that before joining the platform, he was unemployed and struggling financially. However, after receiving the electric bike through the rental model, he was finally able to start working consistently in the delivery and gig economy space.
+
+According to the rider, he now earns around Rs 45,000 every month with around Rs 1,500 per day.
+
+**Watch the video here:**
+
+The conversation quickly gained traction online because of how direct and grounded it felt. Instead of flashy startup jargon or motivational speeches, the clip simply showed how access to affordable transportation created a livelihood opportunity for someone who previously had none.
+
+The rider also spoke about how the EV bike allowed him to work independently without the burden of buying a vehicle outright — something many gig workers often struggle with initially.
+
+The story resonated with many social media users, especially at a time when unemployment and unstable income continue to affect large sections of young workers across Indian cities. Several people pointed out that mobility itself often becomes the first barrier to employment, particularly in delivery-based work.
+
+Online reactions poured in soon after the clip went viral. While many users praised the rider’s hard work and determination, others appreciated how practical solutions like EV rentals can quietly transform lives without dramatic headlines.
+
+For many viewers, the conversation served as a reminder that sometimes, economic change begins with something as simple as handing someone the keys to mobility.
+
+\- Ends
+
+Srimoyee Chowdhury
+
+May 27, 2026 09:43 IST
+
+---
+
+### Sensex, Nifty open flat as Middle East tensions keep investors cautious
+*Sonu Vivek · general*
+
+Benchmark stock market indices opened flat on Wednesday as investors remained cautious over the fragile ceasefire between the US and Iran and rising tensions in the Middle East.
+
+The S&P BSE Sensex slipped 22.10 points, or 0.03%, to 75,987.60 in early trade, while the NSE Nifty50 declined 6.95 points, or 0.03%, to 23,906.75.
+
+Investor sentiment remained subdued after Iran accused the US of violating the ceasefire by striking targets near the Strait of Hormuz, raising concerns that the three-month-long conflict may continue. Adding to worries, Israel launched more than 120 air strikes on Lebanon on Tuesday, according to Lebanese security sources. Iran has reportedly demanded an end to Israeli attacks in Lebanon as part of any broader peace agreement.
+
+The Indian rupee also weakened slightly, opening 0.07% lower at 95.75 against the US dollar, compared to its previous close of 95.68.
+
+Broader markets traded higher despite the cautious mood. The Nifty Midcap 100 gained 0.43%, while the Nifty Smallcap 100 rose 0.35%. India VIX edged up 0.23%.
+
+Among sectoral indices, Nifty Metal emerged as the top gainer, rising 1.48%, while Nifty Media advanced 0.76%. Nifty Realty gained 0.50%, and Nifty Consumer Durables climbed 0.47%. Nifty Auto and Nifty PSU Bank also traded in the green. However, Nifty Oil & Gas declined 0.55%, while Nifty Private Bank slipped 0.38% and Nifty Financial Services fell 0.32%.
+
+Among Sensex stocks, NTPC led the gainers, rising 2.97%. Eternal Ltd climbed 1.62%, while Adani Ports and Special Economic Zone gained 1.16%. Power Grid Corporation advanced 1.13%. Asian Paints and Tata Steel also traded higher.
+
+On the losing side, HDFC Bank dropped 1.57%, Infosys declined 0.61%, Bharat Electronics slipped 0.42%, Bharti Airtel fell 0.27%, and Reliance Industries was down 0.19% in early trade.
+
+Dr VK Vijayakumar, Chief Investment Strategist, Geojit Investments Limited, said, “With S&P 500, Nasdaq and Nikkei setting new records and KOSPI and Taiex getting bought on declines the bull rally in these markets is showing no signs of losing steam. So long as this trend continues, Indian market will remain on the back foot weighed down by FII selling.”
+
+“The market appears to be ignoring the concentration risk associated with the ongoing AI trade. We don’t know how long this will last and when India will turn attractive to FIIs again. This will certainly happen but the timing is unknown,” he added.
+
+Commenting on earnings trends, Vijayakumar said, “There are some positive developments from the Q4 results. Overall the results have turned out to be better-than-expected. Midcaps have outperformed largecaps. A significant trend is that profit growth has outpaced revenue growth.”
+
+“The sluggish revenue growth is indicative of the weak demand conditions in the economy. Fairly-valued financials have good prospects. Segments like pharmaceuticals with inelastic demand and good exports are showing great resilience since this segment will continue to do well even during tough times for the economy,” he added.
+
+\- Ends
+
+May 27, 2026 09:42 IST
+
+
+---
+
 ## 26 May 2026
 
 ### Shillong Teer Results Today Live, May 26, 2026: Winning Numbers For All Teer Games
