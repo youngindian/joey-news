@@ -1,3 +1,688 @@
+## 28 May 2026
+
+### Gold sitting idle in lockers? Why experts want Indians to monetise their yellow metal now
+*Kshitij Anand · economy*
+
+India’s centuries-old love affair with gold is once again under the spotlight, but this time, the conversation is shifting from buying more gold to making existing holdings work harder.
+
+Earlier this month, Prime Minister Narendra Modi urged citizens to voluntarily pause gold purchases for a year, a move aimed at easing pressure on India’s import bill and strengthening macroeconomic stability. Soon after, the government raised import duties on gold from 6 per cent to 15 per cent, reinforcing its intent to curb imports of the precious metal.
+
+India remains the world’s second-largest consumer of gold after China, importing nearly 600-800 tonnes annually, according to Bloomberg estimates. While gold continues to hold deep cultural and emotional significance in Indian households, financial experts now believe investors should reassess how they own and use the yellow metal.  
+
+## From emotional asset to productive wealth  
+
+Priti Rathi Gupta, Founder of Lxme, told ETMarkets, a significant portion of household gold remains locked away and underutilised, even as investors seek higher returns and long-term wealth creation.
+
+“Indian women have always understood the emotional and financial value of gold, but the conversation today is evolving from simply owning gold to optimising it,” Gupta said.
+
+“A large part of household gold still sits idle in lockers, while women simultaneously struggle to build diversified, inflation-beating portfolios,” she added.
+
+Gupta believes investors should evaluate whether a part of their dormant gold holdings can be monetised or shifted into more efficient financial products.
+
+“There is a strong case for women to evaluate whether a portion of this ‘dead asset’ can be made productive, either by selling underutilised jewellery, monetising dormant holdings, or even shifting from physical gold into smarter and more efficient forms like digital gold, Gold ETFs, or Sovereign Gold Bonds,” she said.
+
+The idea, according to her, is not to disconnect emotionally from gold, but to ensure that wealth generates better outcomes.
+
+“The objective is not to disconnect from gold emotionally, but to ensure wealth is working harder and more transparently,” Gupta added.
+
+## Gold rally may be an opportunity for profit booking  
+
+With gold prices having witnessed a sharp rally over the last few years, wealth advisors also believe investors should consider partial profit-booking rather than continuously accumulating more gold.
+
+In an interview with ETNow earlier in May, Feroze Azeez, Joint CEO at Anand Rathi Wealth, argued that Indian households collectively hold enough gold to significantly reduce the country’s dependence on imports if even a small portion is monetised.
+
+“Like last year, FIIs exited about Rs 1.68 lakh crore, which was the worst year of outflow. If all of us sell 2-3-4 per cent of our gold in the name of profit booking — people say _equity mein profit booking karni chahiye, gold mein bhi rally hui hai, toh profit book karo_,” Azeez said.
+
+According to him, reducing gold imports could have a meaningful impact on India’s external balances.
+
+“We can offset the entire FII outflow if you could bring gold imports down to zero. And it is not very difficult,” he said.
+
+## Are there better alternatives to gold?  
+
+Experts also point out that while gold remains a good hedge during uncertain times, its long-term return profile may not always outperform other financial assets.
+
+“The rolling return of gold is just about 8.5 per cent in rupee terms on a 10-year basis, and there are several assets which can deliver that,” Azeez said.
+
+He highlighted that even conservative savings instruments have historically delivered comparable post-tax returns.
+
+“Even a Sukanya Samriddhi Yojana would have delivered 8.25 per cent post-tax for all the young girls in India,” he added.
+
+Gupta echoed similar views, saying younger investors — especially women — are increasingly prioritising liquidity, flexibility, and long-term wealth creation over traditional accumulation.
+
+“For younger women investors especially, we are seeing a clear mindset shift. They value liquidity, flexibility, growth, and financial independence as much as tradition,” she said.
+
+She believes the future of wealth creation lies in diversification rather than excessive concentration in one asset class.
+
+“Gold will always remain culturally significant, but modern wealth creation requires diversification beyond a single asset class,” Gupta noted.  
+
+## The shift from sentimental saving to strategic investing  
+
+Financial planners believe the debate around gold is no longer about whether Indians should own gold, but about how much they should own and in what form.
+
+Instead of continuously adding physical gold, experts suggest investors consider a more balanced approach by combining gold exposure with equities, SIPs, mutual funds, retirement products, and other long-term investment avenues.
+
+“The future of wealth planning for women lies in moving from ‘saving sentimentally’ to ‘investing strategically’, where every asset, including gold, contributes meaningfully towards long-term financial security and freedom,” Gupta said.
+
+As India attempts to manage its import bill and channel household savings into productive financial assets, the country’s vast stockpile of idle gold may increasingly become part of a broader economic and investment conversation.
+
+_(**Disclaimer**: Recommendations, suggestions, views, and opinions given by experts are their own. These do not represent the views of the Economic Times.)_
+
+---
+
+### Iranians are back online after months-long shutdown but still face heavy restrictions
+*anians are back online after months-long shutdown but still face heavy restrictions AP · world*
+
+Iranians began to regain internet access on Wednesday after authorities ended a months-long shutdown. But users said service was slow and spotty in some areas, with apps like YouTube and Instagram heavily restricted, as they were before the cutoff began during nationwide protests in January.
+
+Authorities justified the outage as a military imperative after the United States and Israel attacked Iran on Feb 28. Their decision to lift some restrictions this week came as negotiators appeared to be closing in on a more permanent truce. But many Iranians feared access could be cut off again at a moment's notice.
+
+Internet tracking company Netblocks said Iran's connectivity, which measures the ability of devices to connect to the internet, is at around 86% of capacity from before the cutoff.
+
+  
+
+Internet analysis firm Kentik said internet traffic, which measures the amount of data transferred and is a good illustration of usage, was at around 40%.
+
+Amir Rashidi, an Iranian cybersecurity analyst, said there were still widespread disruptions. "It's too early to say the shutdown is over," he wrote on X.
+
+  
+
+> Iran’s internet traffic is currently at around 40% of normal levels, meaning the country is still effectively under an internet shutdown. There are also major disruptions on domestic networks, and services like @GooglePlay is blocked. It’s too early to say the shutdown is over.
+> 
+> — AmiR Rashidi (@Ammir) May 27, 2026
+
+Iran's roughly 90 million people have been cut off from the internet for most of 2026, one of the world's longest and strictest national shutdowns. Young people with online careers saw their incomes evaporate. Job losses and the closure of online businesses added to the war's steep economic costs.
+
+The cutoff made it difficult for Iranian families to communicate through months of unrest and war. At some points, phone lines were also cut off, though they were later restored.
+
+A woman living in Tehran said that for months she was barely able to speak to her sons living abroad. She couldn't believe authorities had restored access, saying she had assumed they would find some justification to prolong the outage.
+
+A taxi driver, said service was restored but weak. He expressed hope it would improve so he could use messaging apps with family and friends. Both spoke on condition of anonymity for security reasons.
+
+Prices spiked during the shutdown, with residents in Tehran at times paying around $7.50 per gigabyte. Prices are back down to around $2.25 for 30 gigabytes, roughly where they were before the protests.
+
+Even then, Iran tightly controlled access to popular social media sites, leading many to rely on virtual private networks, or VPNs. The cost of those workarounds soared during the shutdown, making them unaffordable for many as the economy was battered.
+
+Businesses have started reappearing online, announcing their return with posts on sites like Instagram and Telegram.
+
+A gamer and tech influencer in the central city of Isfahan said the shutdown had caused him to lose a lot of his audience on YouTube and Instagram, where he had spent years building up a large following.
+
+"All my views and interactions are way down. I've been erased from the algorithm," he said in a voice note sent by WhatsApp, adding that his internet connection was still slower than before the shutdown.
+
+"The situation is such that many content producers have had their income reduced to zero, have moved on to other jobs, or have been forced to sell their equipment to survive," he said. He spoke on condition of anonymity for fear of reprisal.
+
+Iranian authorities first shut down the internet in January during mass anti-government protests that were eventually stamped out in a violent crackdown. Thousands of people were killed and tens of thousands detained.
+
+That cutoff was just starting to ease when the government imposed a complete internet blackout after the start of the war, when U.S. and Israeli strikes killed Iran's supreme leader and other top officials.
+
+The government faced criticism for the prolonged shutdown, which caused even more harm to an economy devastated by inflation, strikes on key industries and a US blockade on Iranian ports.
+
+The internet cutoff cost an estimated $30-40 million daily, with indirect losses likely twice that much, a member of Iran's Chamber of Commerce, Afshin Kolahi, told a local newspaper last month. About 10 million people have jobs that depend on internet connectivity, according to Communications Minister Sattar Hashemi.
+
+Iranians still had access to a national net, but that has a far narrower reach, and users complained of poor service and heavy censorship. Senior government officials are given SIM cards granting them access to the global internet. Under pressure, the government expanded access to the SIM cards to some professions during the shutdown.
+
+---
+
+### PM Modi Advises Ministers To Carpool, Stay Connected With Public, Promote Heatwave Awareness
+*Vani Mehrotra · general*
+
+PM Modi has advised ministers to carpool, avoid new vehicles, adopt electric vehicles, and stay connected with citizens, stressing sustainability and heatwave precautions.
+
+[Read full article](https://www.news18.com/india/pm-modi-advises-ministers-to-carpool-stay-connected-with-public-promote-heatwave-awareness-ws-l-10116489.html)
+
+---
+
+### Trump will send Americans exposed to Ebola while abroad to a new facility in Kenya
+*SECTIONS Trump will send Americans exposed · world*
+
+NEW YORK: President Donald Trump's administration is planning to send Americans who are exposed to Ebola while abroad to a new facility in Kenya instead of flying them to the United States, an administration official said Wednesday.
+
+The quarantine and treatment center being set up by the Departments of Defense, State and Health and Human Services will be designed for Ebola patients who need to get out of the Democratic Republic of the Congo and receive care quickly, said the official, who insisted on anonymity to share the Republican administration's plans. The person said the plan would help patients avoid an hours long medical evacuation to the U.S.
+
+It was unclear where in Kenya the new facility will be built or whether the Kenyan government has signed off on the plan.
+
+  
+
+The official said the facility will be able to care for the full spectrum of Ebola, a rare but severe disease that is often fatal in people. But the official said people may be transported elsewhere for more advanced care as appropriate.
+
+Kenya's health minister confirmed officials there were talking with the U.S. about "preparedness and response mechanisms for Ebola" but didn't address whether the country would establish a treatment facility for Americans.
+
+"Any arrangements regarding international health cooperation will be guided by Kenya's national laws, public health regulations, biosafety and biosecurity standards, and the government's responsibility to safeguard the health and welfare of Kenyans," Health Minister Aden Duale said in a statement.
+
+For decades, medical experts have suggested moving patients suffering from Ebola and similar illnesses as little as possible in case their condition worsens, said Dr. Ali Khan, the public health college dean at the University of Nebraska Medical Center. But, he added, the quality of care must be equivalent to what someone would receive in American facilities.
+
+"You've got to make sure the patient gets the best quality care, and you need to ensure excellent infection control," said Khan, who earlier in his career led international responses to Ebola and other outbreaks for the U.S. Centers for Disease Control and Prevention.
+
+Dr. Craig Spencer, a public health professor and emergency medicine doctor at Brown University who survived Ebola in 2014, said he doesn't expect the facility in Kenya to provide the same quality of care that dedicated facilities in the United States do. He said refusing to consider bringing American Ebola patients home for treatment is "a moral abdication of what this country owes its own."
+
+## An earlier outbreak
+
+During a massive Ebola outbreak in west Africa in 2014 and 2015, more than a half dozen infected Americans were brought back to the United States. That experience prompted the establishment of a U.S. network of quarantine and isolation facilities across the country.
+
+But during that earlier outbreak, Trump, then a businessman and reality TV star, repeatedly criticized then-President Barack Obama, a Democrat, for bringing infected Americans home for care.
+
+"The U.S. cannot allow EBOLA infected people back. People that go to far away places to help out are great - but must suffer the consequences!" he wrote in a 2014 tweet.
+
+He also suggested a plan similar to the one described to the AP by the administration official: "Treat them, at the highest level, over there," Trump wrote in July 2014.
+
+During a Cabinet meeting on Wednesday, Secretary of State Marco Rubio said the State Department and other agencies were working "very, very hard to contain this crisis to the countries where it's currently located, particularly the Democratic Republic of the Congo."
+
+"We cannot and will not allow any cases of Ebola to enter the United States," he said.
+
+Americans who've been exposed to Ebola
+
+Earlier this month, an American doctor working in Congo tested positive for Ebola and was sent to Germany for medical care. Serge, a Christian missionary organization, identified him as Dr. Peter Stafford. Stafford's wife and four children did not have symptoms but also were flown to Germany and placed in isolation at Berlin's Charite University Hospital.
+
+On Wednesday, the hospital said the patient was in stable condition.
+
+"The viral load measured in the patient has dropped very, very rapidly over the course of the week," likely thanks to antiviral therapy, Dr. Leif Erik Sander, director of the hospital's infectious diseases department, told reporters.
+
+Another American medical missionary, Dr. Patrick LaRochelle, was transported to the Czech Republic for isolation after he was exposed to Ebola, though he did not have any symptoms, according to the missionary organization.
+
+Health authorities in Congo have been struggling to contain the outbreak, which the World Health Organization has said is outpacing them.
+
+The number of suspected Ebola cases in eastern Congo is nearing 1,000, with at least 220 suspected deaths. Congo's health ministry on Tuesday said 101 cases have been confirmed and it's looking into more than 3,000 possible contacts.
+
+Challenges include the threat of armed groups in eastern Congo, a large number of displaced people and poor infrastructure.
+
+The Wall Street Journal was first to report the Trump administration's plan for the Kenya facility.
+
+---
+
+### NASA to have first permanent base on Moon? US Space Agency unveils plan to build lunar outposts for Mars missions
+*Vanshika Tyagi · general*
+
+## NASA to have first permanent base on Moon? US Space Agency unveils plan to build lunar outposts for Mars missions
+
+The National Aeronautics and Space Administration (NASA) has unveiled a plan, one of the most ambitious space endeavours in history, to construct a permanent Moon base involving robotic landers, moon buggies and hopping drones- before eventually sending humans.
+
+The National Aeronautics and Space Administration (NASA) has unveiled a plan, one of the most ambitious space endeavours in history, to construct a permanent Moon base involving robotic landers, moon buggies and hopping drones- before eventually sending humans.
+
+The US space agency has envisaged a permanent lunar base sprawling over hundreds of square miles in the south polar region.
+
+“This initiative will secure American leadership in space, unlock groundbreaking scientific discoveries, and forge the technologies and operational experience needed to send humans to Mars," NASA said in a statement on Wednesday.
+
+"The moon base will be America's and humanity's first outpost on another celestial world," NASA
+
+Administrator Jared Isaacman said in a statement. “Every mission, crewed and uncrewed, will be a learning opportunity as we return to the lunar surface, build the infrastructure to stay and master the skills required to live and operate in one of the most demanding and dangerous environments imaginable," he said.
+
+The South Pole region is also scientifically significant because it lies near some of the oldest terrain on the Moon, including the South Pole-Aitken Basin, the largest and oldest known impact basin in the solar system.
+
+Samples collected from this region could provide insight into the early history of the Moon, the Earth-Moon system, and the broader evolution of the solar system.
+
+Three uncrewed lunar missions known as Moon Base I, Il and I|I are scheduled for launch later this year. On Wednesday, NASA also announced new partnerships supporting sustained lunar exploration. Companies, including Jeff Bezos Blue Origin, Intuitive Machines, and Astrobotic, have been awarded the contracts to build the machines.
+
+The agency has selected Astrolab and Lunar Outpost to develop the first phase of Lunar Terrain Vehicles. It has awarded Blue Origin, the aerospace company owned by Amazon founder Jeff Bezos, task orders supporting the delivery of those vehicles to the lunar surface. Further, the US space agency has selected Firefly Aerospace to build the spacecraft that will transport NASA'S MoonFall drones to the Moon.
+
+NASA said the award to Astrolab is worth $219 million, and the award to Lunar Outpost is worth $220 million.
+
+The opening mission, Moon Base I, is targeted for launch later this year using Blue Origin's Blue Moon Mark 1 cargo lander, known as Endurance. Moon Base II is planned for launch later this year aboard Astrobotic's Griffin lander. Moon Base III is also targeted for this year
+
+## **NASA Artemis II mission**
+
+Earlier this year, in April, NASA in the historic Artemis II mission, successfully sent four astronauts-NASA's Reid Wiseman, Victor Glover, and Christina Koch, alongside the Canadian Space Agency's Jeremy Hansen -on a nearly 10-day loop around the Moon.
+
+The US space agency is set to launch its Artemis III mission in 2027.
+
+## **India gears up for the Gaganyaan space mission**
+
+Meanwhile, India is also preparing to target its first crewed spaceflight mission in 2027 and crewed lunar missions under the Chandrayaan programme by 2028. The Gaganyaan space mission, which will mark India's first independent human. spaceflight, is scheduled for 2027. The programme is part of a long-term roadmap that includes building a national space station by 2035 and placing an Indian astronaut on the lunar surface by 2040. 
+
+India is among the countries that have signed the Artemis Accords, a US-led non-binding framework that sets principles for lunar exploration, including cooperation, interoperability and data sharing.  
+ 
+
+## **China plans to land humans on Moon**  
+ 
+
+Meanwhile, China is also going ahead with plans to land humans on the Moon by 2030. Earlier this week, it launched its Shenzhou-23 spacecraft, sending a crew of astronauts to the country's Tiangong space station.
+
+(ANI inputs)
+
+---
+
+### UGC-NET 2026: NTA adds new exam cities for North-East candidates in June session
+*Education Desk · legal*
+
+The inclusion of these cities is a direct response to long-standing concerns from students in remote North-Eastern locations who were previously forced to travel to far-off cities (Image via NTA/Improved with AI)
+
+In a move aimed at improving accessibility for candidates from the North-Eastern region of India, the National Testing Agency (NTA) has announced the addition of four new examination cities for the UGC-NET June 2026 examination. The public notice, dated May 27, 2026, expands city choice options for candidates belonging to eight North-Eastern states through the correction portal.
+
+Acknowledging the limited availability of examination city options for candidates from North-Eastern states, NTA has added the following cities to the UGC-NET June 2026 city choice list:
+
+–Namsai (City Code: AL03) — Arunachal Pradesh
+
+–Kakching (City Code: MN04) — Manipur
+
+–Bishnupur (City Code: MN05) — Manipur
+
+–Cherrapunji (City Code: MG02) — Meghalaya
+
+The inclusion of these cities is a direct response to long-standing concerns from students in remote North-Eastern locations who were previously forced to travel to far-off cities to appear in national-level competitive examinations, adding a significant financial and logistical burden.
+
+**Read | CSIR UGC NET 2026: NTA opens June session applications at csirnet.nta.nic.in**
+
+Candidates who wish to exercise the revised or additional city choice options must do so during the stipulated correction period through the official NTA website. The correction portal had already been made available following the closure of the online application window, which ran from April 29 to May 24, 2026. Candidates are advised to act promptly within the correction window and not miss this opportunity to select a more convenient exam city.
+
+In the correction window, candidates are allowed to edit details, including date of birth, gender, category, PwD status, subject, and examination city preferences. Applicants can also modify either candidate’s name, father’s name, or mother’s name. However, mobile number, email address, uploaded photograph, signature, and permanent or present address cannot be changed during the correction process.
+
+The UGC-NET is a national eligibility test conducted by NTA on behalf of the University Grants Commission (UGC) to determine the eligibility of Indian nationals for the award of Junior Research Fellowship (JRF), appointment as Assistant Professor, and direct PhD admission in Indian universities and colleges.
+
+Story continues below this ad
+
+For further queries, candidates may contact the NTA Helpdesk at 011-40759000 or write to ugcnet@nta.ac.in. Regular updates are available at nta.ac.in.
+
+---
+
+### West Bengal hands 142.79 acres to BSF for India-Bangladesh border fencing
+*Press Trust · general*
+
+## West Bengal Chief Minister Suvendu Adhikari said that the handover is part of the BJP government's decision, taken at its first cabinet meeting on May 11, to transfer 600 acres of land within 45 days for border fencing.
+
+West Bengal shares a 2,217-km border with Bangladesh. (File photo: ANI)
+
+The West Bengal government has handed over 142.79 acres of land to the BSF for setting up outposts and barbed-wire fencing infrastructure along the India-Bangladesh border, Chief Minister Suvendu Adhikari said.
+
+The handover is part of the BJP government's decision, taken at its first cabinet meeting on May 11, to transfer 600 acres of land within 45 days for border fencing and 
+
+"Govt of WB has initiated intensified measures to strengthen border security by facilitating construction of BSF outposts and barbed-wire fencing, further enhancing security in the border areas. Additional land has now been handed over to BSF, taking the total tally to 142.79 acres," the CM said in a social media post late on Wednesday.
+
+He also shared a district-wise chart detailing the land transferred to the BSF across nine districts.
+
+According to the chart, 22.92 acres of land have been handed over in Coochbehar, 35.16 acres in Jalpaiguri, 8.81 acres in Darjeeling, 2.84 acres in Uttar Dinajpur, and 20.17 acres in Dakshin Dinajpur.
+
+Additionally, 10.9 acres has been handed over in Malda, 38.8 acres in Murshidabad, 0.55 acre in Nadia, and 2.6 acres in North 24 Parganas.
+
+As part of the first phase of the initiative, 43 acres of purchased land across five districts and sanction orders for 31.9 acres of vested land were handed over to the BSF on May 20.
+
+The initiative follows a major policy announcement by Adhikari last week outlining a twin-pronged strategy involving accelerated fencing work and stricter administrative measures against illegal immigration.
+
+West Bengal shares a 2,217-km border with Bangladesh, the longest among Indian states.
+
+According to Adhikari, around 1,600 km of the border in the state has already been fenced, while nearly 600 km does not have any fencing.
+
+\- Ends
+
+Sahil Sinha
+
+May 28, 2026 09:50 IST
+
+---
+
+### Inside VFS Global’s Visa Monopoly: EU Reports Flag Data Risks, Appointment Irregularities In India
+*Devanshe Pandey · general*
+
+VFS Global has emerged as the dominant outsourced visa-processing company for most European nations operating in India.
+
+[Read full article](https://www.news18.com/india/inside-vfs-globals-visa-monopoly-eu-reports-flag-data-risks-appointment-irregularities-in-india-ws-el-10116562.html)
+
+---
+
+### Delhi Metro station rename list: From Rohini to Dwarka, check full list of new names here
+*Trending Desk · general*
+
+The Delhi government has made a few changes for Delhi metro names and public places across the capital. The decisions were approved during a meeting of the State Names Authority, chaired by Chief Minister Rekha Gupta on Wednesday.
+
+The few changes in the Delhi metro names include Rohini West Metro Station, Dwarka Metro Station and Britannia Chowk.
+
+Rohini West Metro Station will be renamed “Dr. Baba Saheb Ambedkar Hospital Metro Station,” while Dwarka Metro Station will be known as “Dwarka-Kakrola Metro Station.”
+
+  
+
+Additionally, the government has approved changing the name of Rohini East Metro Station to “Rohini Metro Station.”
+
+## Full List of changed Delhi Metro names
+
+Rohini West Metro Station → “Dr. Baba Saheb Ambedkar Hospital Metro Station”
+
+Rohini East Metro Station → “Rohini Metro Station”
+
+Dwarka Metro Station → “Dwarka-Kakrola Metro Station”
+
+Britannia Chowk, Shakurpur → “Ashwini Chopra (Minna) Chowk”
+
+Begampur Sports Complex → “Atal Khel Parisar”  
+Under-construction hospital in Jwalapuri → “Baba Ramdevji Maharaj Hospital”
+
+Officials stated that the renaming exercise is intended to connect public places with local identity and notable personalities. One of the most prominent changes is renaming Rohini West Metro Station after Dr. B.R. Ambedkar. The government noted that this will also help commuters better identify the station due to its close proximity to the hospital.
+
+One more reason to change the names of Delhi metro stations because then it will be easy for the people to remember the station names.
+
+---
+
+### ITR-2 filing begins: Who should file, who cannot – Check eligibility, exclusions, deadlines | Mint
+*Sanchari Ghosh · economy*
+
+## The Income Tax Department has launched online filing for ITR-2 for assessment year 2026-27, targeting individuals and HUFs with income from capital gains and other sources. Eligibility criteria are specified, while ITR-1 and ITR-4 have also been made available for small and medium taxpayers.
+
+ITR-2 Online Filing Now Available for Individuals and HUFs for AY 2026-27
+
+The Income Tax Department on Wednesday started online filing of ITR-2 for the assessment year 2026-27 on its e-filing portal. The form essentially meant for individuals and HUFs who do not earn income from business or profession, but have income from capital gains and other specified sources.
+
+The I-T Department said in a post on X, "Online filing and Excel utility for ITR-2 for AY 2026-27 are now enabled on the e-filing portal."
+
+Here's a look at the eligibility criteria for ITR-2:
+
+## Who should file ITR-2?
+
+ITR-2 is filed by individuals and HUFs who do not earn any income from business or profession, but have other types of income such as:
+
+-   Salary or pension income
+-   Income from more than one house property
+-   Capital gains from sale of assets
+-   Income from other sources (such as interest, dividends, etc.)
+
+## Who is not eligible to file ITR-2 ?
+
+ITR-2 cannot be filed by individuals or HUFs whose total income includes earnings from business or profession. It is also not applicable to taxpayers having income of the following nature:
+
+-   Interest
+-   Salary
+-   Bonus
+-   Remuneration received from a partnership firm.
+-   This also applies to taxpayers who have to club the income of their spouse, minor child, or others with their own income, if such income falls under any of the above categories.
+
+## All about ITR Form 1 (Sahaj) and ITR Form 4 (Sugam)?
+
+The department had, on May 15, enabled online filing of ITR Form 1 (Sahaj) and ITR Form 4 (Sugam), which are filed by small and medium taxpayers, for the assessment year 2026-27. These forms for filing ITRs for income earned in the 2025-26 fiscal were notified on March 30.
+
+ITR Form 1 (Sahaj) and ITR Form 4 (Sugam) are simpler forms that cater to a large number of small and medium taxpayers.
+
+Sahaj can be filed by a resident individual having annual income up to ₹50 lakh, and who receives income from salary, one house property, other sources (interest) and agricultural income up to ₹5,000 a year. It also allows reporting of long-term capital gains (LTCG) of ₹1.25 lakh a year.
+
+Sugam can be filed by individuals, Hindu Undivided Families (HUFs) and firms (other than Limited Liability Partnerships (LLPs)) having a total annual income up to ₹50 lakh and income from business and profession.
+
+## What’s new this year?
+
+One of the key developments this year is the gradual activation of both online filing and Excel-based utilities form-wise, instead of all forms being enabled together.
+
+The utilities for ITR-1, ITR-2 and ITR-4 are now available in the “Downloads” section of the income tax e-filing portal. With both online filing and Excel utilities enabled, taxpayers can now begin filing their income tax returns.
+
+## What is the last date for filing income tax returns?
+
+The last date for filing income tax returns by individual taxpayers in ITR-1 and ITR-2 is July 31, while for non-audit taxpayers filing ITR-4, the deadline is August 31.
+
+### About the Author
+
+Sanchari Ghosh
+
+Sanchari Ghosh is an Assistant Editor at Mint with over 12 years of experience in journalism, specialising in personal finance, DLT & DeFi, geopolitics and foreign policy, with a particular emphasis on how these areas intersect. <br> She writes extensively about how money works in everyday life—helping readers navigate personal finance decisions. <br> As AI reshapes investing behaviour, capital is increasingly flowing into decentralized ecosystems, redefining how assets are managed, traded, and valued. She focuses on explaining how money flows within frameworks like Distributed Ledger Technology (DLT), DeFi protocols, and crypto markets—while also exploring what the future of money could look like in a trustless, programmable financial world. <br> She also focuses on immigration-
+
+---
+
+### KCET 2026 Result Live Updates: KEA to release results likely in first week of June
+*Education Desk · legal*
+
+The test comprised multiple-choice questions carrying one mark each, with no negative marking. This year, around 3.3 lakh candidates registered for the KCET 2026.
+
+**KEA KCET Result 2026 Live Updates:** The Karnataka Examinations Authority (KEA) is likely to announce the KCET 2026 results in the first week of June at its official website, cetonline.karnataka.gov.in. Students will be able to access their scores by logging in with the required credentials. The exams were conducted from April 22 to 24, beginning with the Kannada language paper, followed by Physics and Chemistry on April 23, and concluding with Mathematics and Biology on April 24.
+
+Typically, the counselling process for the Common Entrance Test (CET) is conducted simultaneously with the NEET admissions. However, following the leak of the NEET question paper, KEA has decided to proceed with the KCET results and counselling process independently. Karnataka Higher Education Minister MC Sudhakar made this announcement after a meeting with representatives from private colleges and officials from the higher education and medical education departments.
+
+Story continues below this ad
+
+The test comprised multiple-choice questions carrying one mark each, with no negative marking. This year, around 3.3 lakh candidates registered for the KCET 2026.
+
+On May 19, the Karnataka Examinations Authority (KEA) requested that students who have completed Class 12 from CBSE, CISCE, and other state boards upload their marks on the KEA portal for the result processing. Students were required to provide access to their DigiLocker accounts so that their marks could be retrieved automatically.
+
+### KCET 2026 result is expected this week
+
+**Karnataka KCET 2026 Result Date, Time Live Updates:** The provisional answer key was made available in late April for all the 16 paper sets for Physics, Biology, Mathematics and Chemistry. Students were also allowed to raise objections till April 30, 2026. There was no fee for challenging the answer key, students were only required to fill out the objection form on the website. The final rank list will be prepared according to the performance of students in KCET 2026 and in the qualfiying examination. 50-50 weightabe will be given to marks scored in Physics, Chemistry and Mathematics in both the exams while calculating the result
+
+© IE Online Media Services Pvt Ltd
+
+-   Tags:
+-   college admissions
+-   kcet
+
+---
+
+### Amarnath Yatra 2026 Security Preparation In Full Swing, Over 670 CAPF Companies To Be Deployed
+*Pragati Ratti · general*
+
+The deployment, part of security arrangements under Operation SANJY-2026, will be carried out in a phased manner
+
+[Read full article](https://www.news18.com/india/amarnath-yatra-2026-security-preparation-in-full-swing-over-670-capf-companies-to-be-deployed-ws-bl-10116436.html)
+
+---
+
+### Daily Briefing: VFS Global faces EU red flags on data protection, fee transparency; company denies lapses
+*Ariba · legal*
+
+Amid concerns about the exemption of Assam’s Scheduled Tribes (ST) population, regulations on live-in relationships, and a demand for wider consultations, the Assam Assembly on Wednesday **passed the Uniform Civil Code (UCC) Bill**. The Bill – whose aim is to “govern and regulate the laws relating to marriage and divorce, succession, live-in relationships” and connected matters – was passed amid protests by Opposition MLAs and a demand that it be sent to a select committee. “This is the most secular, uniform and progressive law which will especially benefit Assam’s ‘nari shakti’ (women’s power) by protecting them from polygamy and love jihad, making these punishable offences and also ensuring women have full rights in case of inheritance, divorce and desertion,” Chief Minister Himanta Biswa Sarma said after the Bill was passed.
+
+_With that, let’s move on to the top stories from today’s edition:_
+
+-   VFS Global investigation
+-   SC on SIR
+-   Vaibhav Sooryavanshi’s 97 off 29 balls
+
+🚨 **Big Story**
+
+At the centre of almost all Schengen visa applications is VFS Global, the Zurich-and-Dubai-headquartered visa processing giant that serves as the gateway between India and Europe. However, for the first time, about 150 inspection reports by European authorities covering VFS Global visa centres across 20 EU member states from 2020-2025 were scrutinised.
+
+The **reports flagged concerns** about: how applicants’ personal and biometric data is stored on unencrypted discs, its transport and handling; widespread “visa shopping”, mainly by travel agents, in which Schengen visas were obtained from an EU nation, which typically offers faster approval, to reach another member state; and, unclear communication, even “lapses,” in informing applicants that value-added services (VAS), such as premium lounge access, are optional and have no link to visa approval.
+
+Responding to the findings of the global investigation, **VFS Global insisted** that its services are transparent, tightly audited and “subject to rigorous and continuous government oversight”. It stated that it operates under exceptional levels of oversight, undergoing “more than 10,000 audits and assessments annually, conducted by internal and external auditors, including those assigned by client governments”. It maintained that where problems are identified, “structured remediation plans are implemented”.
+
+⚡ **Only in Express**
+
+Story continues below this ad
+
+A 20-member EU delegation visited India to present internal reports and questionnaires filled by 11 member states. They identified several “common problems” in VFS Global’s India operations — from wrong data entry to appointment slots allegedly sold by staff. And, every country that took up these shortcomings with VFS reported the same result: temporary improvement followed by relapse. Beyond the inspection findings, leaked EU documents accessed as part of the investigation shed further light on the systemic pressures around Schengen visa processing in India. **Here’s what the team found**.
+
+📰 **From the Front Page**
+
+**SC on SIR:** The Supreme Court on Wednesday upheld the validity of the Special Intensive Revision (SIR) of the electoral rolls by the Election Commission (EC). However, at the heart of it is a striking contradiction. While the court underlined that the SIR was restricted to electoral eligibility and deletion from the voter’s list and “does not amount to a declaration that the individual is not a citizen of India,” it also directed that those excluded from the list will face “adjudication of their citizenship” before the next elections. **We explain**.
+
+**Bengal SIR:** Soon after the SC upheld the validity of the SIR exercise, West Bengal Chief Minister Suvendu Adhikari said “approximately 30 lakh” beneficiaries of “Lakshmir Bhandar” — a direct benefit transfer (DBT) scheme for women introduced by the previous Trinamool Congress (TMC) government — **were ineligible**. He said it was because they had been either permanently deleted from the voter list or they had not applied to a Special Intensive Revision (SIR)-linked tribunal or for citizenship under the Citizenship Amendment Act (CAA) for inclusion. The new BJP government has replaced Lakshmir Bhandar with its own Annapurna Yojana, which will come into effect from June 1.
+
+📌 
+
+The SC’s order on SIR exercise has caused dismay in rival camps, however, **Ashok Lavasa wonders** if it surprised anyone. In our Opinion section today, Lavasa, calling it a “knockout punch” favouring the Election Commission of India, writes: “The ECI now owes it to the people to share this “material on record” that prompted the exercise and present a complete report card on the health of the ERs following the SIR on the parameters of “integrity, accuracy and purity” and in comparison with the ERs prepared under its own supervision earlier.”
+
+Story continues below this ad
+
+**Decline:** With credit card points, cashbacks, and other benefits such as airport lounge access being curtailed across the industry, the tiny fraction of Indians who chase these rewards are finding it increasingly difficult to maximise their gains. As for the current wave of devaluations, recourse is limited for users as reward programmes and benefits are discretionary, and only a change in charges requires at least one month’s notice, my colleague **Siddharth Upasani explains**. Profits from the credit cards segment are also dwindling due to improved repayment behaviour.
+
+⏳ **And Finally…**
+
+**Record-breaker:** Vaibhav Sooryavanshi didn’t budge when Sakib Hussain tried to bluff him with a slower ball. As the ball angled away, he stood, waited, and sent it over long-off. That was six number 60 for the season. A world record in a T20 tournament, overtaking Chris Gayle. With this, Sooryavanshi passed 600 runs for the season too, the fastest to that landmark, at a strike rate of 237.77. No batter had touched 200 while scoring as many, Venkata Krishna B describes. Beyond the numbers, the manner of the sixes told their own story. **Read here**.
+
+🎧 Lastly, don’t forget to tune in to **today’s episode** of our 3 Things podcast, where we discuss the Supreme Court’s decision allowing a 15-year-old girl to terminate a 30-week pregnancy; higher nighttime temperatures and its impact on human health; as well as raids conducted by the Enforcement Directorate on former Kerala Chief Minister Pinarayi Vijayan.
+
+**That’s all for today. Have a wonderful day!**
+
+_**Until next time,**_  
+_**Ariba**_
+
+ Business As Usual by E P Unny
+
+---
+
+### Ground report: How Israel's Haifa underground health centre acts as wartime shield
+*Shivani Sharma · world*
+
+## Rambam Health Care Campus in Haifa operates a fortified underground hospital that can replace its parking structure within hours. The facility has become a marker of Israel's wartime preparedness amid continuing missile and drone attacks.
+
+The Rambam Health Care Campus was built in Israel's Haifa after the 2006 Lebanon war. (Photo: ITGD)
+
+Beneath the streets of Haifa in northern Israel, far from the sound of air raid sirens and missile interceptions above ground, the Jewish nation has built one of the world’s most extraordinary symbols of wartime resilience.
+
+Designed to function through sustained missile, drone and even chemical attacks, the underground hospital at Rambam Health Care Campus reflects how modern conflict is transforming civilian infrastructure, emergency medicine and national preparedness in a region shaped by near-constant security threats.
+
+Hidden nearly nine metres below sea level, Rambam Health Care Campus operates what is considered the world’s only large-scale underground fortified hospital a massive emergency medical facility that transforms from a three-level parking structure into a fully functional super-speciality hospital within hours.
+
+Built after the lessons learnt during the 2006 Lebanon War, the underground facility was designed over two years and took four years to construct at a cost of nearly USD 120 million.
+
+Spread across three underground floors measuring nearly 20,000 square metres each, the secure medical complex can accommodate up to 2,200 patients during wartime.
+
+The underground hospital is fortified against missile strikes and is also equipped to function in the event of chemical or biological attacks. According to hospital officials, every aspect of the structure was engineered keeping wartime survival in mind.
+
+Situated close to the Mediterranean coast, the construction itself posed a major engineering challenge.
+
+Nursing Director Ravit told India Today TV that the underground facility had to be built by continuously pumping out seawater using nearly 100 pumps every day for almost two years.
+
+Special waterproof construction material was used to ensure that water did not seep into the underground structure.
+
+Since the start of "Operation Rising Lion", the hospital has treated nearly 10,000 civilians injured in missile attacks across Israel.
+
+In addition, 144 Israeli soldiers injured in missile and drone strikes have been brought to the facility for treatment.
+
+At present, around 14 injured soldiers continue to undergo treatment at the hospital.
+
+Hospital officials say drone attacks are now causing some of the most devastating injuries. Unlike previous conflicts where head injuries were more common, doctors are now seeing severe injuries to limbs, leading to multiple amputations of hands and legs among soldiers and civilians alike.
+
+The hospital demonstrated its emergency preparedness when nearly 900 patients were shifted underground within just eight hours after an escalation in hostilities.
+
+Patients from the main hospital building were rapidly relocated to the fortified basement facility, where medical teams resumed treatment operations seamlessly.
+
+Ravit said every worker in the hospital, from doctors and nurses to technical staff, has clearly assigned wartime responsibilities.
+
+The underground complex also includes an obstetric unit and a fully operational daycare centre that accommodates nearly 70 children aged between three months and 12 years.
+
+The facility allows doctors, nurses and caregivers to continue working during prolonged conflicts without worrying about childcare.
+
+"This time we had to remain underground for nearly one and a half months," Ravit said, recalling the intensity of recent attacks.
+
+The hospital currently employs nearly 6,500 nurses and around 2,000 doctors who can continue operating even during sustained missile bombardment.
+
+The facility has become a model for emergency medical preparedness, drawing attention from several conflict-hit nations studying Israel’s wartime healthcare infrastructure.
+
+As wars increasingly involve long-range missiles, drones and attacks on civilian infrastructure, countries across the world are now looking at Israel’s underground hospital model as a possible blueprint for future emergency medical systems.
+
+In a region where sirens and missile interceptions have become routine, Rambam’s underground fortress hospital stands as both a medical lifeline and a reflection of how modern warfare is reshaping civilian preparedness.
+
+\- Ends
+
+May 28, 2026 09:36 IST
+
+---
+
+### West Bengal handed over 142.8 acres to BSF for fencing India-Bangladesh border: CM Suvendu
+*SECTIONS West Bengal handed over · business*
+
+Kolkata, The West Bengal government has handed over 142.79 acres of land to the BSF for setting up outposts and barbed-wire fencing infrastructure along the India-Bangladesh border, Chief Minister Suvendu Adhikari said.
+
+The handover is part of the BJP government's decision, taken at its first cabinet meeting on May 11, to transfer 600 acres of land within 45 days for border fencing and 
+
+"Govt of WB has initiated intensified measures to strengthen border security by facilitating construction of BSF outposts and barbed-wire fencing, further enhancing security in the border areas. Additional land has now been handed over to BSF, taking the total tally to 142.79 acres," the CM said in a social media post late on Wednesday.
+
+  
+
+He also shared a district-wise chart detailing the land transferred to the BSF across nine districts.
+
+According to the chart, 22.92 acres of land have been handed over in Coochbehar, 35.16 acres in Jalpaiguri, 8.81 acres in Darjeeling, 2.84 acres in Uttar Dinajpur, and 20.17 acres in Dakshin Dinajpur.
+
+Additionally, 10.9 acres has been handed over in Malda, 38.8 acres in Murshidabad, 0.55 acre in Nadia, and 2.6 acres in North 24 Parganas.
+
+As part of the first phase of the initiative, 43 acres of purchased land across five districts and sanction orders for 31.9 acres of vested land were handed over to the BSF on May 20.
+
+The initiative follows a major policy announcement by Adhikari last week outlining a twin-pronged strategy involving accelerated fencing work and stricter administrative measures against illegal immigration.
+
+West Bengal shares a 2,217-km border with Bangladesh, the longest among Indian states.
+
+According to Adhikari, around 1,600 km of the border in the state has already been fenced, while nearly 600 km does not have any fencing.
+
+---
+
+### ONGC yet to take control of Cambay Block as Vedanta challenges govt move
+*SECTIONS ONGC yet · general*
+
+New Delhi: State-owned Oil and Natural Gas Corporation (ONGC) has yet to take operational control of the Cambay basin block CB-OS-02 in Gujarat after Vedanta challenged the government's decision not to extend the block's contract term.
+
+The Ministry of Petroleum and Natural Gas, through a September 19, 2025, directive, rejected an extension of the contract for the block, in which ONGC holds a 50 per cent participating interest, Vedanta holds 40 per cent, and Invenire Petrodyne Limited holds 10 per cent.
+
+Following the government's decision, ONGC said it was instructed to immediately take over operations of the block and deployed an operational team to Suvali in Gujarat from September 20, 2025. However, the company said Vedanta has not yet handed over operations.
+
+  
+
+"Pursuant to the Government of India directive, ONGC requested Vedanta for the immediate handover and deployed its operational team at Suvali, Gujarat, from September 20, 2025. However, Vedanta has not yet handed over the operations," ONGC said in notes to its FY26 earnings statement.
+
+According to ONGC, Vedanta filed a writ petition before the Delhi High Court on September 22, 2025, challenging the said rejection of the extension of the terms of the contract.
+
+"The court asked the respondents to file their response/counter affidavit and directed them to maintain the status quo in the matter. Further, all the hearings have been completed on May 18, 2026, and the matter has been reserved for order by the court," it said.
+
+"Pending the outcome of the proceedings, Vedanta continues to act as the operator for the block," ONGC said. "The company remains in preparedness to assume operational control of the block as and when directed by the Government of India."
+
+"The courts have ordered the parties to maintain status quo. We cannot comment beyond this as the matter is sub-judice," a Vedanta Cairn spokesperson said.
+
+Vedanta Cairn Oil and Gas, a unit of Mumbai-listed Vedanta Ltd, was the operator of the Gujarat offshore block CB-OS/2 with a 40 per cent stake. The Ministry of Petroleum and Natural Gas has, in a September 19, 2025, letter, informed the partners that the application to extend the production sharing contract (PSC) for CB-OS/2 has not been accepted.
+
+While no reasons were stated for the move, ONGC was asked to take over the operations in the interim period.
+
+PSC is an agreement between the government and a resource extraction company. It gives the company time-specified right to explore, develop and produce resources in exchange for a pre-agreed share of the produced output (known as profit petroleum) once costs are recovered.
+
+The CB-OS/2 block, which holds Lakshmi and Gauri fields and produces about 3,400 barrels of oil per day and 3.4 lakh standard cubic metres of gas per day, was one of the three properties operated by Cairn India when billionaire Anil Agarwal's group acquired the firm in 2011 for USD 8.67 billion.
+
+The other assets of Cairn India were the Barmer oil fields in Rajasthan and the Ravva oil and gas fields in the Krishna Godavari basin off the Andhra coast.
+
+Cairn India was merged into Vedanta Ltd in 2017.
+
+Vedanta Cairn Oil & Gas spokesperson had in September last year stated that the block contributed less than 0.3 per cent to the overall EBITDA of Vedanta.
+
+The PSC for CB-OS/2 block was signed on August 30, 1998, and the contract expired on June 30, 2023. The Vedanta-led consortium continued to operate the block during the pendency of its application for extension of the PSC.
+
+After the PSC extension was rejected, the block had to return to the government.
+
+Prior to the denial of extension for CB-OS/2, the government had extended the contracts for Vedanta Cairn's two other blocks - a 10-year PSC extension was approved for the Rajasthan block RJ-ON-90/1 till May 14, 2030, and a similar period was given for the PKGM-1 block, more commonly known as the Ravva field, till October 27, 2029.
+
+According to a DeGolyer and MacNaughton reserve report commissioned by Vedanta Cairn in 2019, CB-OS/2 block's two discoveries, Gauri and Lakshmi, held a total in-place reserves of 13.6 million barrels of oil and oil equivalent gas.
+
+While the block PSC expired, Vedanta Cairn had pressed ahead with its development plan for the discoveries in the 3,314 square kilometre shallow water block.
+
+---
+
+### ‘Hisaab Barabar Karne Ka Samay…’: Jan Suraaj party eyes BJP bastion Bankipur in Bihar bypoll
+*ET Online · business*
+
+Jan Suraaj founder Prashant Kishor on Wednesday expressed confidence in his party winning the Bankipur seat in the bye-elections, opening its account in Bihar, after BJP President Nitin Nabin vacated the seat and moved to the Rajya Sabha in March this year. Speaking to ANI, Prashant Kishor acknowledged that the seat has been a BJP bastion and said that Jan Suraaj will contest with "full force." Kishor said, "It will not be difficult for Jan Suraaj at all. Jan Suraaj has resolved that Bankipur, which has served as a BJP stronghold for the past 40 years, and currently happens to be the seat held by the BJP's National President, will be contested by Jan Suraaj with full force, and every effort will be made to ensure that they are defeated there."
+
+---
+
+### ‘Spider-Noir’ X review: Nicolas Cage in black and white wins the internet; ‘Do yourself a favour, don't watch it in colour’
+*TOI Entertainment Desk · entertainment*
+
+Nicolas Cage's 'Spider-Noir' series, set in 1930s New York, is captivating audiences, with viewers overwhelmingly preferring its black and white presentation. This alternate universe take on Spider-Man, inspired by the comic, is being lauded for its gritty noir aesthetic, sharp writing, and compelling execution, making it a must-watch for many.
+
+When it comes to Spiderman, the first thing that comes to mind about the look is the blue and red suit. However, in ‘Spider-Noir’, these colours, or any other hue for that matter, have no space.
+
+It is an alternate universe spin-off, which has taken a slightly darker turn, and hence, this time, the story unfolds in black and white. Based on the comic ‘Spider-Man Noir,’ the new OTT release ‘Spider-Noir’ tells the tale of a private investigator in 1930s New York. Though the streamer has offered both black and white and coloured versions of the Nicolas Cage-starrer series, the internet seems to be leaning more towards the monochrome side.
+
+According to the netizens, there’s no other way to watch ‘Spider-Noir’ but in black and white.
+
+## ‘Spider-Noir’ X review: Netizens are in love with the black and white version
+
+Released on May 27, 2026, ‘Spider-Noir’ has been creating a lot of buzz, and for the right reasons. On the one hand, where the internet can’t get enough of the seasoned actor Nicolas Cage, on the other hand, they have simply fallen in love with the black and white version of the series.“Really digging Spider Noir. Do yourself a favor, don't watch it in color.
+
+Best in B&W Nic Cage be old, but he is having a ball with that accent,” wrote one of the internet users.When a curious X user asked what viewers prefer - the colour of the B&W version? The reply was, “The whole point is it spider noir, black and white is the only option”
+
+“I speak for everyone when I say we are watching Spider-Man Noir in black and white,” added another netizen, while a user asked, “Why would anyone watch spider noir on @PrimeVideoin color?”
+
+## Netizens laud ‘Spider-Noir’
+
+In addition to the colour vs black and white debate, where without a doubt the latter is winning, the series is getting praised for its writing, vision and execution.
+
+“Give whoever wrote Spider-Noir an award already,” read an X post, while another user wrote, “Alright, full transparency: I’m pretty ambivalent (borderline indifferent) about both Nicolas Cage and Spider-Man. Then I randomly stumbled on Spider-Noir on Amazon Prime… and I’m actually digging it.
+
+Hard. The format, the filmmaking, that gritty noir vibe - it works. It feels fresh.”“Okay, fully locked in. Even just the opening couple of seconds of Spider-Noir is awesome with how they captured 1930s New York. Night sorted,” wrote another user reviewing ‘Spider-Noir’
+
+Meanwhile, some simply called it ‘brilliant’ and ‘the best show ever.’
+
+## ‘Spider-Noir’
+
+‘Spider-Noir,’ featuring Nicolas Cage in the lead, is a homage to Hollywood filming style. Back in the 1940s and 50s, it was a hallmark in the industry to make films in noir style, with shadowy looks and gritty plots.The series is available for streaming on Prime Video.
+
+---
+
+### Shillong Teer Results Today Live, May 28, 2026: Winning Numbers For All Teer Games
+*Nibandh Vinod · general*
+
+Shillong Teer Result Today: Here's full list of winning numbers for Shillong Teer, Juwai Teer, Khanapara Teer, and more for May 28, 2026.
+
+[Read full article](https://www.news18.com/india/shillong-teer-result-today-may-28-2026-first-and-second-round-lottery-result-check-winning-numbers-full-list-10114758.html)
+
+
+---
+
 ## 27 May 2026
 
 ### Uganda-Return Woman Quarantined In Bengaluru Over Suspected Ebola Infection Tests Negative
