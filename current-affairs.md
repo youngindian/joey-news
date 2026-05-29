@@ -1,3 +1,580 @@
+## 29 May 2026
+
+### No WiFi, no proper roads: In Rishikesh, architect brothers built a Harry Potter-inspired mud house using biomaterials, complete with jungle trails and Ganga views
+*Unknown · business*
+
+Far away from noisy traffic, endless notifications and crowded city life, a magical mud house hidden in the forests of Rishikesh is drawing attention online for looking straight out of the Harry Potter universe. Perched on a ridge near the Ganga, the cave-like Tiny Farm Fort offers sweeping views of emerald-green waters, dense valleys and forest trails. There are no proper roads leading to the property and no WiFi waiting inside. Instead, guests hike through forests, wake up to birdsong and experience a slower life surrounded by nature.
+
+The enchanting mud house has been built by architect brothers Raghav and Ansh Kumar, who left behind urban chaos to create something rooted in simplicity, sustainability and natural living. The property, now listed on Airbnb, has become popular among travellers for its resemblance to Hagrid’s hut and its fairytale-like atmosphere tucked away in the mountains of Rishikesh.
+
+Tiny Farm Fort sits quietly amid thick greenery overlooking the Ganga. The structure itself feels untouched by modern excess. Small windows bring in plenty of sunlight during the day, naturally brightening the interiors. The rooms have a cave-like design with earthy textures, curved walls and rustic details that remind visitors of fantasy films and storybooks.
+
+  
+
+According to details shared on Airbnb, the experience is intentionally raw and immersive. The listing mentions that guests may hear barking deer calls and other animals in the surrounding forest. Elephants have also reportedly been spotted nearby. A solar fence has been installed around the property for protection.
+
+## Stay connected to nature: No wifi  
+
+The Airbnb information also makes it clear that reaching the property is an adventure in itself. Visitors must be comfortable hiking nearly 1.5 kilometres through a forest trail with a backpack because the house is inaccessible by car. The listing further notes that there is no WiFi in the forest, making it an ideal escape for people wanting to disconnect from screens and reconnect with nature.
+
+The story behind the house began during the pandemic when Raghav found himself stuck at home in New Delhi. At the time, he had started planting vegetables in his parents’ backyard and was increasingly drawn towards the idea of rural living and self-sustainable communities. What began as curiosity slowly transformed into a life-changing decision.
+
+  
+
+  
+
+## Sustainable construction  
+
+Together, Raghav and his brother Ansh started experimenting with alternative building materials while quarantining at home. As reported by Business Insider, the duo explored making their own sustainable construction materials. They tested mycelium grown from mushrooms and learned how to create cob, a natural material made using soil, straw and water. That phase eventually inspired them to move away from corporate city life and start building in the mountains.
+
+Today, through their initiative Tiny Farm Lab, the brothers are working towards creating a self-sustainable community model that focuses on natural harmony, biomaterials and resource-sharing among villagers. Their project combines architecture, sustainability and local living practices in a way that feels both modern and deeply rooted in nature.
+
+As reported by Business Insider, Raghav shared that different visitors interpret the house differently. Some see it as a Harry Potter house, while others compare it to a Hobbit home or a fairytale cottage hidden in the woods.
+
+## Their educational backgrounds  
+
+Both brothers come from architecture backgrounds and have explored creative fields beyond conventional careers. Ansh studied architecture at the University School of Architecture and Planning. Over the years, he has worked as a freelance graphic designer, artist and augmented reality artist. Raghav pursued architecture at Chandigarh College of Architecture and later became the co-founder of Tiny Farm Lab.
+
+## Electrical work in mud house  
+
+Apart from its magical appearance, the mud house also challenges common assumptions people have about sustainable construction. In a separate LinkedIn post, Raghav Kumar explained that electrical work in a mud house is not very different from what is done in conventional red brick and RCC structures.
+
+Many people believe mud houses cannot support concealed wiring, switches or modern electrical systems. However, the same safety principles still apply. Proper circuits, load calculations, earthing systems, MCBs and electrical protection remain essential. Conduits can be placed inside the walls and the structure can later be refilled with cob.
+
+The process typically happens after the base coat and before the finish coat. However, the builders pointed out that excessive wall chasing can weaken the structure, poor refilling may lead to cracks and using cement patches can create compatibility issues with natural materials.
+
+## The vibe of the place  
+
+The property has also caught the attention of travel creators and content platforms. Curly Tales described Tiny Farm Fort as an enchanting 600-square-foot escape that instantly reminds Harry Potter fans of Hagrid’s hut. The platform highlighted the stone-arched entrance and fantasy-like atmosphere that transport visitors back to childhood imagination and magical worlds.
+
+Beyond the house itself, the surrounding area offers several outdoor experiences. The trails around the property are popular among runners and hikers. Visitors can explore nearby village life, hike to the Kota Temple located above the property or go rafting on the Ganga.
+
+## What more does the stay offer?  
+
+As per more information on Airbnb, the forest landscape is also a paradise for bird watchers. Guests may spot species like the white-crested Himalayan forest laughing thrush, white-throated kingfisher, red-billed blue magpie, striated laughingthrush, orange-flanked bush robin and even peacocks.
+
+For travellers tired of crowded resorts and luxury hotels, Tiny Farm Fort offers something completely different. No traffic noise. No endless scrolling. Just forests, mountain air, birdsong and a mud house that feels like it belongs in a fantasy novel.
+
+---
+
+### Not Just Twisha Sharma: India’s Dowry-Suicide Crisis Has Barely Changed Since 1995, Reveals Data
+*Apoorva Misra · general*
+
+Since 1995, India has lost an average of six women every day to dowry-related suicides, five of them aged between 18 and 30 years
+
+[Read full article](https://www.news18.com/india/not-just-twisha-sharma-indias-dowry-suicide-crisis-has-barely-changed-since-1995-reveals-data-ws-l-10118763.html)
+
+---
+
+### Trump's face on US currency? White House plans to break 150-year-old rule
+*India Today World Desk · general*
+
+## The US Treasury has begun preliminary planning for a proposed $250 banknote featuring Donald Trump, pending congressional approval. If passed, the change would break the long-standing bar on living people appearing on American currency and tie the note to the nation's 250th anniversary.
+
+If approved, Trump would become the first living person to appear on American currency in more than 150 years. (AI-generated image)
+
+The US Treasury Department has begun preliminary preparations for a proposed $250 banknote featuring President Donald Trump, with Treasury Secretary Scott Bessent saying the department is ready to move forward if Congress approves the plan.
+
+Speaking at a White House press briefing on Thursday, Bessent said the Treasury currently follows two rules when it comes to US currency: no living individual can appear on banknotes, and all currency must carry the phrase "In God We Trust".
+
+He said lawmakers on Capitol Hill are now pushing legislation that would alter the first rule, allowing a sitting president -- specifically Donald Trump -- to appear on a newly introduced USD 250 note.
+
+"Within Treasury, we prepare in advance," Bessent said, adding that officials have already started planning for the possibility of the bill's approval while stressing that the department would continue to operate within existing law unless Congress acts.
+
+According to a _Washington Post_ report, the Trump administration has directed the Bureau of Engraving and Printing (BEP), the agency responsible for producing US currency, to work on a mock-up design placing Trump's portrait at the centre of the note.
+
+If approved, Trump would become the first living person to appear on American currency in more than 150 years.
+
+Bessent defended the proposal by linking it to celebrations surrounding the United States' upcoming 250th anniversary, arguing there was "nothing untoward" about featuring the president serving during the milestone year on a commemorative-style banknote.
+
+"I don't think that there's anything untoward about having the President of the United States, the person who was President of the United States on the 250th anniversary bill," he said.
+
+The legislation backing the move was introduced last year by Republican Congressman Joe Wilson of South Carolina. The bill was referred to the House Financial Services Committee in February 2025 and has remained there since. Any change would require approval from both the House and Senate before reaching Trump's desk for signature.
+
+A Treasury spokesperson told _NBC News_ that the BEP is conducting "appropriate planning and due diligence" and is "moving proactively" should the legislation eventually become law.
+
+The proposed note would not be the only currency-
+
+British artist Iain Alexander, who created an early concept design for the note, told _The Washington Post_ that Trump personally reviewed the artwork and suggested modifications. According to Alexander, Trump asked for the inclusion of American flag colours and a special logo commemorating the nation's 250th year.
+
+\- Ends
+
+Sahil Sinha
+
+May 29, 2026 10:04 IST
+
+---
+
+### Kailash Kher’s sharp reply to the ‘sing 2 lines’ request, decoded by experts
+*Vaibhavi Mishra · legal*
+
+Singer Kailash Kher recently had a sharp response when asked to sing “just two lines” during a public event. At the seventh edition of the Six Sigma Leadership Summit in Healthcare, held at Taj Palace on April 25, Kher pushed back against the casual expectation that artists should perform on demand to “set the mood.”
+
+“_Yeh bahut galat hai. Yeh request hi mat kijiye,_” Kher said, adding, “_clown mat banane dijiye kalakar ko. Sadhak ko ek manoranjak mat banaiye.”_ (This is very wrong. Please don’t even make such requests. Don’t turn artists into clowns. Don’t reduce a devoted artist to mere entertainment)
+
+His remarks struck a chord because the request itself feels familiar. Singers are often expected to perform spontaneously at social gatherings, public events, or even casual interactions, as though talent should always be available on cue.
+
+While some online felt the reaction was too harsh, others argued he was voicing something many artists quietly feel.
+
+### Appreciation or entitlement?
+
+For many people, asking a singer to perform may come from admiration, not disrespect. But intent and impact can be very different.
+
+Manjula Senthil, Program Director, Sangamam, The Shibulal Family Philanthropic Initiatives (SFPI), says singing is often seen as spontaneous enjoyment rather than skilled professional work.
+
+“Singing is a professional skill that requires training, effort, and emotional energy, and asking someone to perform casually without context may overlook that value,” she tells indianexpress.com.
+
+Social media may have only deepened this sense of familiarity. Audiences often feel emotionally close to artists they follow, making it easier to blur personal and professional boundaries. Add the excitement of seeing a beloved singer in person, and a “just two lines” request can feel harmless to the person asking.
+
+But that assumption reveals a larger issue.
+
+Story continues below this ad
+
+“Creative skills like singing, acting, or writing are often seen as **natural talents** rather than professions that require years of training, practice, and discipline,” Senthil points out. That may explain why artists are expected to perform on cue in ways other professionals rarely are.
+
+But what about Kher’s lash out? Mental health experts say his emotional reaction is understandable too.
+
+According to Dr Sharadhi C, Consultant – Psychiatry, Aster CMI Hospital, Bangalore, repeated casual demands can feel dismissive because they reduce years of hard work into something that sounds instantly available.
+
+“Such requests can feel disrespectful to singers because they may reduce years of hard work, training, and emotional effort into something that sounds casual or replaceable,” she says.
+
+Story continues below this ad
+
+A sharper reaction may not always be about that one interaction alone. Built-up frustration, exhaustion, or the pressure to protect one’s creative identity can all play a role.
+
+Kher’s frustration, then, may not just be about one awkward request—but about a larger culture that celebrates artists while sometimes undervaluing their craft.
+
+DISCLAIMER: _This article is based on information from the public domain and/or the experts we spoke to. Always consult your health practitioner before starting any routine._
+
+---
+
+### Siddaramaiah, DK Shivakumar Hold Talks With Rahul, Sonia In Delhi; Cabinet Overhaul On Agenda
+*Prisha Vibhavari · general*
+
+Siddaramaiah meets Rahul Gandhi and Sonia Gandhi as Congress plans new DK Shivakumar led government in Karnataka.
+
+[Read full article](https://www.news18.com/india/siddaramaiah-dk-shivakumar-hold-talks-with-rahul-sonia-in-delhi-cabinet-overhaul-on-agenda-ws-l-10118759.html)
+
+---
+
+### Wipro jumps 5%, lifts IT stocks as AI deal sparks sector rally
+*India Today Business Desk · general*
+
+## Wipro shares: Wipro stock gained as much as 4.76% during the day to Rs 211.20, while its American Depositary Receipts (ADRs) listed in the US had jumped more than 18% overnight.
+
+ADRs surged over 18%, biggest gain since 2008.
+
+Wipro shares surged nearly 5% on Thursday, leading a broad rally in information technology stocks after the company announced an expanded artificial intelligence partnership with US-based software firm ServiceNow.
+
+The stock gained as much as 4.76% during the day to Rs 211.20, while its American Depositary Receipts (ADRs) listed in the US had jumped more than 18% overnight.
+
+Wipro's ADRs rallied 18.54% to close at $2.43 on the New York Stock Exchange after surging as much as 21% during the session, marking their biggest single-day gain since October 2008. The sharp move came after the Bengaluru-based IT services company unveiled an expanded collaboration with ServiceNow focused on deploying agentic AI workflows across enterprise operations.
+
+Under the expanded partnership, Wipro will integrate Wipro Intelligence, its suite of AI-powered platforms and solutions, with the ServiceNow AI Platform. The companies aim to help businesses automate and streamline processes across key functions including IT, human resources, procurement and cybersecurity.
+
+Wipro said the partnership would help organisations reduce procurement bottlenecks, improve service quality and issue resolution in telecom operations, and strengthen cybersecurity response systems through AI-driven workflows.
+
+The rally in Wipro quickly spread across the broader IT sector. Infosys jumped 3.80%, Tata Consultancy Services gained 1.70%, HCL Technologies rose 1.46%, and Tech Mahindra advanced 0.91%. The Nifty IT index climbed more than 2%, making it one of the top-performing sectoral indices of the day.
+
+The strong gains in IT heavyweights also helped support the broader market. At a time when several banking, industrial and consumer stocks were trading in the red, buying in Infosys, TCS, HCL Technologies, Tech Mahindra and Wipro helped keep benchmark indices in positive territory.
+
+Apart from the AI partnership, investor sentiment has also been supported by Wipro's upcoming share buyback. In April, the company's board approved a Rs 15,000 crore buyback at Rs 250 per share. Wipro plans to repurchase up to 60 crore equity shares, representing more than 5% of its equity capital. The record date for the buyback has been fixed as June 5.
+
+With a sharp ADR rally, fresh optimism around AI-led growth opportunities and continued interest ahead of the buyback, Wipro has emerged as one of the best-performing large-cap IT stocks in recent sessions.
+
+\- Ends
+
+May 29, 2026 10:01 IST
+
+---
+
+### 'Curb unfair practices by drivers': Court orders Ola to pay Rs 50,000 to passenger driven 25 km away from destination
+*Trending Desk · business*
+
+A consumer court in Andhra Pradesh has held ride-hailing platform Ola responsible for the actions of one of its drivers after a woman travelling for a judicial examination was allegedly left stranded on a highway. The District Consumer Disputes Redressal Commission in Kurnool directed the company to pay Rs 50,000 as compensation and Rs 5,000 towards litigation costs to the complainant, Ullaji Chennamma, a TOI report stated. The commission said the incident caused serious mental stress and emotional trauma to the candidate at a crucial moment when she was travelling to appear for the Andhra Pradesh Junior Civil Judge Mains Examination.
+
+## Ride to exam centre turns stressful
+
+According to the complaint, the incident took place on October 11, 2025. Chennamma had booked an Ola Auto at 7:08 am from Pottur Vari Thota in Guntur to Acharya Nagarjuna University. Her mother accompanied her for the journey.
+
+The complaint stated that the driver arrived in a vehicle with a registration number different from the one displayed in the Ola app. Even after the mismatch was noticed, the driver allegedly insisted that the OTP be shared before starting the ride.
+
+  
+
+Instead of taking the route towards the university, the driver allegedly diverted the vehicle and travelled nearly 25 kilometres away from the destination. The complaint further stated that he stopped near Sitaram Nagar on the Narasaraopet–Guntur Road and demanded extra money to continue the trip.
+
+When the passenger refused to pay more, the driver allegedly left both the woman and her mother on the roadside around 7:28 am. The complainant said she was forced to cancel the ride despite being on her way to an important examination.
+
+  
+
+## Commission says exam candidate suffered emotional distress  
+
+While hearing the matter, the consumer commission underlined the seriousness of the situation and the impact it could have had on the candidate’s mental state before a competitive examination.
+
+"This Commission cannot ignore the fact that the complainant was proceeding to attend a highly competitive judicial mains examination, which required mental composure, punctuality, and emotional stability. Leaving a woman candidate and her mother stranded on a public road under such circumstances undoubtedly caused immense mental agony, fear, inconvenience, humiliation, and emotional distress," the commission said.
+
+The order noted that the situation went beyond a routine ride dispute because the complainant was travelling for a major career-
+
+## Ola says it was only a platform  
+
+During the proceedings, Ola argued that it only provides an online platform connecting customers with independent drivers and therefore should not be held directly responsible for the conduct of the driver.
+
+The company also informed the commission that no payment had been collected from the complainant. It further stated that the driver had been suspended and the vehicle was off-boarded after the complaint was raised.
+
+## However, the commission rejected this defence  
+
+"Merely describing itself as an 'online platform' does not absolve the Opposite Party from its responsibility towards consumers who avail services through its application. Once the service was booked and commenced through the platform operated by the Opposite Party, the latter owed a duty of care and responsibility to ensure reasonable safety, reliability, and accountability in the service rendered through its associated drivers," the commission further noted.
+
+The commission also observed that Ola’s own decision to suspend the driver weakened its stand before the court.
+
+"Such action on the part of the opposite party itself indicates that there was substance in the grievance raised by the complainant and that the conduct of the driver was improper."
+
+## Rs 5 lakh demand reduced to Rs 50,000
+
+The complainant had sought compensation of Rs 5 lakh. However, the commission described the amount as excessive and instead awarded Rs 50,000.
+
+At the same time, the panel recognised the seriousness of the emotional impact caused by the incident.
+
+The order referred to "the mental agony, inconvenience, emotional distress, and the anxiety caused to the complainant at a crucial stage of her examination" while deciding the compensation amount.
+
+The commission directed Ola to comply with the order within 45 days of receiving it.
+
+## Consumer court asks for stricter checks
+
+The commission also advised the platform to strengthen monitoring of drivers linked to its service.
+
+"Ola should implement and maintain stricter internal monitoring and verification mechanisms to curb such unfair and negligent practices by drivers operating through its platform, so as to safeguard the interests and safety of consumers," the commission concluded.
+
+---
+
+### IMD retains below-normal monsoon forecast; Raises worries for farms and food bills
+*SECTIONS IMD retains below-normal monsoon forecast · business*
+
+The India Meteorological Department (IMD) on Friday retained its forecast for below-average monsoon rainfall in 2026, with the weather office warning that the El Nino weather pattern is likely to develop during June and July.
+
+The weather watchdog said monsoon rainfall this year is expected to be at 90% of the long-term average, while rainfall in June is likely to be around 92% of the long-term average.
+
+The IMD said neutral ENSO conditions over the equatorial Pacific are now transitioning towards El Nino, with a 92% probability of El Nino conditions prevailing during the 2026 monsoon season. Most global climate models indicate that the weather pattern is likely to strengthen as the season progresses.
+
+  
+
+According to the IMD’s forecast, June is expected to witness weak El Nino conditions, while July and August could see weak-to-moderate El Nino conditions. By September, the weather office expects El Nino to intensify into a moderate-to-strong phase.
+
+The weather office also warned that the monsoon core zone, which includes most rain-fed agricultural regions across central and northwest India, is likely to receive below-normal rainfall of less than 94% of the long-period average (LPA). Northwest India is expected to receive rainfall below 92% of the LPA, while central India and the southern peninsula are also likely to see below-normal rains.
+
+Only northeast India is forecast to receive normal rainfall, in the range of 94-106% of the long-period average.
+
+The IMD’s probability forecast showed that below-normal rainfall is likely over most parts of the country during the June-September monsoon season. However, some areas in northwest India, parts of the southern peninsula, adjoining east-central India and isolated pockets in the northeast could receive normal to above-normal rainfall.
+
+The forecast comes at a time when concerns are rising over the impact of weaker rains on farm output and food prices, further adding to already rising inflation in India amid the ongoing Iran-US war.
+
+El Nino conditions, which are associated with lower rainfall in the Indian subcontinent, are expected to emerge in the coming weeks, the weather office said. The phenomenon typically leads to hotter temperatures and uneven rainfall distribution across several parts of the country.
+
+A below-normal monsoon could put pressure on agricultural production and may increase risks of higher food inflation later in the year. India’s farm sector remains heavily dependent on seasonal rains as a large part of cultivated land still lacks irrigation coverage.
+
+The monsoon usually begins over Kerala in June and accounts for nearly 70% of India’s annual rainfall. The June-September rainy season is critical for kharif crop sowing, reservoir replenishment and rural consumption.
+
+---
+
+### ‘Prepare for bigger roles’: Chandrababu Naidu backs 33% women quota in Andhra Pradesh politics
+*ET Online · business*
+
+Andhra Pradesh Chief Minister Chandrababu Naidu urged women to prepare for bigger political roles during the TDP Mahanadu conclave. Naidu approved the proposal for 33% reservation for women in elections and said the Telugu Desam Party will independently implement the legislative quota in Andhra Prad...
+
+[Read full article](https://economictimes.indiatimes.com/news/india/prepare-for-bigger-roles-chandrababu-naidu-backs-33-women-quota-in-andhra-pradesh-politics/videoshow/131381837.cms)
+
+---
+
+### iOS 27 Leak Reveals Everything New Coming to Your iPhone This Year
+*Shaurya Tomer · technology, mobile*
+
+With iOS 27, users will reportedly be able to hold back-and-forth conversations with Siri.
+
+[Read full article](https://www.gadgets360.com/mobiles/news/ios-27-leak-standalone-siri-app-apple-intelligence-search-photo-editing-iphone-report-11562371)
+
+---
+
+### Google engineer made $1.2 million betting on secret company info, charged with insider trading
+*Armaan Agarwal · general*
+
+## A Google engineer has been accused of using confidential information to make over $1.2 million on prediction market platform Polymarket. He faces charges of wire fraud and money laundering, which carry a combined sentence of up to 50 years in prison.
+
+A Google employee allegedly made millions on Polymarket using confidential information. (Photo: Reuters)
+
+A Google engineer has been accused of using confidential information to make more than $1.2 million (roughly Rs 11.4 crore) in profits on the prediction market platform Polymarket. As per the US Department of Justice, the employee, Michele Spagnuolo, traded on the platform under the alias “AlphaRaccoon” and used non-public Google information to place a series of Google-
+
+Polymarket is a prediction market platform where users can make bets on various topics, including on the release of new AI models from Google or OpenAI, as well as market valuations of companies by a given date.
+
+The Department of Justice said Spagnuolo, a 36-year-old Italian citizen living in Switzerland, created the Polymarket account in May 2024. He is said to have placed bets of around $2.75 million on markets linked to Google’s internal information on the platform between October 15, 2025 and December 4, 2025.
+
+Keep in mind that this is not the first time that there have been fears of insider trading on prediction markets. Earlier this year, the White House warned staff members not to use insider information to place bets on such platforms. Previous reports had raised concerns over government officials potentially using non-public information to make such bets.
+
+### Google employee faces up to 50 years in prison
+
+As per the US attorney’s office, Spagnuolo profited from the bets once the information became public and the markets were settled. He has been charged under the Commodity Exchange Act, with wire fraud and with money laundering. The charges carry a combined maximum sentence of 50 years in prison.
+
+Spagnuolo is also facing a civil case from the Commodity Futures Trading Commission (CFTC), which alleges insider trading.
+
+Spagnuolo was arrested on Wednesday morning in New York. He appeared before a federal magistrate judge and did not enter a plea. The Google employee was released on a $2.25 million bond.
+
+US Attorney Jay Clayton said, "Today’s charges reinforce a decades-old message: corporate insiders cannot use confidential business information to turn a profit in our markets.”
+
+The complaint said Spagnuolo had access to Google’s internal data systems, including an internal software tool that gave him access to confidential, non-public data. Prosecutors said the tool displayed a banner reading "Google Confidential" in red text, and that Spagnuolo had certified his understanding of Google’s confidentiality and ethics policies.
+
+According to his LinkedIn profile, Michele Spagnuolo was part of the team that created the “inventory of AI Agents across Alphabet/Google.”
+
+Google said in a statement, as quoted by CNBC, “The employee accessed our marketing material using a tool available to all employees, but using such confidential information to place bets is a serious breach of our policies.” The company has put the employee on leave, and plans to take “appropriate action.”
+
+### What bets did the Google employee make?
+
+As per the complaint, Spagnuolo used confidential information to place correct bets that singer D4vd would be Google’s most searched person in 2025. The complaint also said the AlphaRaccoon account correctly predicted the outcomes of other search-
+
+According to the complaint, Google publicly announced its Year in Search 2025 results on or about December 4, 2025, after which the AlphaRaccoon account made about $1.2 million in profit on those bets. As per reports, some observers on Polymarket had flagged the AlphaRaccoon account in December over suspicious trades on the most searched person contracts.
+
+Polymarket has stated that it is committed to maintaining accurate, fair and transparent markets and to enforcing its rules while working with regulators and law enforcement.
+
+\- Ends
+
+Armaan Agarwal
+
+May 29, 2026 09:45 IST
+
+---
+
+### Govt exploring option of using IAF for transportation of NEET retest papers
+*ption · business*
+
+New Delhi: The government is exploring the possibility of using the Indian Air Force (IAF) for transportation of NEET-UG papers to ensure foolproof conduct of the retest on June 21, official sources said on Thursday.
+
+The option was explored at a high-level meeting chaired by Defence Minister Rajnath Singh and attended by Education Minister Dharmendra Pradhan and Minister for Communications Jyotiraditya Scindia here.
+
+The ministers and senior officials discussed whether IAF aircraft could be used for transportation of the NEET-UG test papers, the sources said.
+
+  
+
+However, as of now, no final decision has been taken and the option will be placed before Prime Minister Narendra Modi for a final view, they said.
+
+The prime minister is believed to have been personally monitoring the preparations for the June 21 retest and he is being updated on every details 
+
+Thursday's meeting gave attention to the entire examination process, from the setting of question papers by teachers and printing of papers to transportation and security arrangements.
+
+National Testing Agency (NTA) Director General Abhishek Singh and senior officials from the Education Ministry, among others, attended the meeting.
+
+The National Eligibility cum Entrance Test (Undergraduate) or NEET-UG was conducted on May 3 across 551 Indian cities and at 14 overseas centres. Nearly 23 lakh candidates had registered for the test, which was conducted by the NTA.
+
+According to the NTA, information regarding alleged malpractices was received on the evening of May 7, four days after the exam was held.
+
+The NTA said the inputs were shared with the central agencies the next morning for "independent verification and necessary action".
+
+On May 12, the NTA cancelled NEET-UG amid allegations of paper leak. A re-examination has been scheduled for June 21.
+
+The CBI registered a case based on a written complaint by the Department of Higher Education under the Ministry of Education.
+
+The central probe agency formed special teams to probe the case, conducted searches across the country and made prompt arrests
+
+So far, 13 accused have been arrested in this case from Delhi, Jaipur, Gurugram, Nasik, Pune, Latur and Ahilyanagar.
+
+The investigation conducted so far has brought out the actual source of the leakage of the question papers, the CBI had said earlier.
+
+---
+
+### IRCTC staff caught washing utensils in Duronto Express toilet, FSSAI steps in
+*India Today Trending Desk · general*
+
+## A viral video allegedly showed IRCTC catering staff washing utensils inside a toilet on the Mumbai-Ernakulam Duronto Express. The footage prompted FSSAI to seek an explanation from IRCTC over hygiene violations.
+
+IRCTC staff caught washing utensils in Duronto Express toilet (Photos: Truth on Track/X)
+
+The Food Safety and Standards Authority of India (FSSAI) has issued a notice to the Indian Railway Catering and Tourism Corporation (IRCTC) after a viral video allegedly showed catering staff washing utensils inside a train toilet on board the Mumbai–Ernakulam Duronto Express.
+
+The video, shared on X by the account Truth On Track, shows an IRCTC staff member inside the train toilet, with utensils placed in a basket on top of a closed seat. The post alleged that food plates and cutlery used for onboard catering services were being handled in unhygienic conditions.
+
+The account also claimed that the incident occurred in the train's First AC coach, where passengers generally expect higher standards of service and cleanliness. It also questioned how such hygiene concerns could arise in a premium class and sought an update from railway authorities and IRCTC regarding action taken on the complaint.
+
+In the video, a passenger recording the incident was heard confronting the IRCTC staff member, asking, “What are you doing? Is this an appropriate place for this?”
+
+The employee remained silent in the clip. The passenger then turned to an attendant standing outside the toilet and asked whether he was aware of what was happening.
+
+“No, I have just seen this now,” the attendant replied.
+
+The passenger further said, “You are an attendant of the Duronto Express and you do not know that utensils are being washed inside the toilet. Are you serving food using these utensils?”
+
+“I did not see it. The people who wash them usually do it there,” the attendant responded, gesturing somewhere outside the toilet.
+
+> A complaint was raised regarding alleged hygiene concerns onboard Train 12223 Duronto Express (First AC Coach H1) after visuals reportedly showed food plates and cutlery placed near/on a toilet seat area during onboard lunch service, raising serious passenger concerns around pic.twitter.com/1OgUCuyjlX— Truth On Track (@truth\_on\_track) May 27, 2026
+
+Taking note of the viral video, FSSAI served a notice to IRCTC seeking a factual explanation regarding the alleged incident.
+
+In its notice, the food safety regulator said the alleged practice was contrary to the hygiene and sanitary requirements laid down under Schedule 4 of the Food Safety and Standards (Licensing and Registration of Food Businesses) Regulations, 2011.
+
+According to FSSAI, the regulations require food business operators to maintain hygienic processing, handling, washing and cleaning practices to prevent contamination of food and food-contact surfaces.
+
+"It has come to FSSAI's notice through a video circulating on social media that utensils used for catering services in Train No 12223 – LTT-ERS Duronto are allegedly being washed inside the toilet of the train by catering staff or contractual personnel engaged for onboard catering services," the regulator said.
+
+FSSAI has asked IRCTC to provide factual comments and an explanation regarding the incident shown in the video.
+
+The railway catering agency is yet to publicly respond to the notice.
+
+\- Ends
+
+May 29, 2026 09:34 IST
+
+---
+
+### Japan population sees record five-year drop, census shows
+*Afp · world*
+
+Tokyo: Japan's population dropped by a record 2.5 percent in the span of five years, census data showed Friday, as the world's fourth-largest economy struggles to overcome demographic woes.
+
+A preliminary tally of Japan's census, released every five years, found that the population slipped to 123 million people in 2025 -- more than three million fewer than when the survey was last carried out in 2020.
+
+It was the biggest decrease since the twice-a-decade survey started in 1920, and more than triple the decline recorded between 2015 and 2020.
+
+  
+
+The data "once again confirmed the population decline in our nation is deepening," top government spokesman Minoru Kihara told reporters.
+
+Japan has one of the world's lowest birth rates and an ageing population.
+
+While immigration is often floated as a solution to Japan's shrinking demographic, Prime Minister Sanae Takaichi is pushing for tougher measures against an inflow of foreigners.
+
+Official data showed that the number of births in Japan fell for the 10th straight year in 2025, with a total of 705,809 babies born.
+
+Central and local government officials have tried with limited success in recent years to incentivise marriage and childbirth, from launching dating apps to boosting child-rearing allowances and subsidising parental leave.
+
+---
+
+### From Didi's Fortress To Faction Factory: Why Trinamool Congress Seems More Fragile Than Ever
+*Apoorva Misra · general*
+
+The Trinamool Congress is not collapsing overnight. But, for the first time since its birth, the party looks vulnerable not merely because of the opposition, but because of itself
+
+[Read full article](https://www.news18.com/india/from-didis-fortress-to-faction-factory-why-trinamool-congress-seems-more-fragile-than-ever-ws-l-10118700.html)
+
+---
+
+### Using Air Force to transport NEET question papers would reflect governance failure: Raut
+*SECTIONS Using Air Force · business*
+
+Mumbai: Shiv Sena (UBT) leader Sanjay Raut has criticised the Centre over reports that the
+
+In a post on X, Raut said that the armed forces protect the country's borders, not "cover up NTA (National Testing Agency) and the education ministry's incompetence".
+
+"This is a shameful admission of governance failure. After years of NEET paper leaks destroying the dreams of lakhs of students, the government now wants the Air Force to transport question papers," he said.
+
+  
+
+The Rajya Sabha MP alleged that instead of fixing the system and punishing the guilty, the Centre was attempting to use the military as a "band-aid solution".
+
+"Why should the Defence Minister have to chair meetings with the Education Minister for basic exam logistics? This only exposes the incompetence of the NTA and the Education Ministry," Raut claimed.
+
+He demanded strict action against those responsible for paper leaks and called for reforms to restore transparency and credibility in the system.
+
+"Students deserve real accountability," the Sena (UBT) leader added.
+
+> This is a shameful admission of governance failure. After years of NEET paper leaks destroying lakhs of students’ dreams, the Modi government now wants the Indian Air Force to transport question papers.  
+> Defence Minister chairing meetings with Education Minister for basic… https://t.co/tFg12QN12w
+> 
+> — Sanjay Raut (@rautsanjay61) May 28, 2026
+
+The government is exploring the possibility of using the IAF for transportation of NEET-UG papers to ensure the foolproof conduct of the retest on June 21, official sources had said on Thursday.
+
+The option was explored at a high-level meeting chaired by Defence Minister Rajnath Singh and attended by Education Minister Dharmendra Pradhan and Minister for Communications Jyotiraditya Scindia in New Delhi.
+
+However, as of now, no final decision has been taken, and the option would be placed before Prime Minister Narendra Modi for a final view, they said.
+
+The National Eligibility cum Entrance Test (Undergraduate), or NEET-UG, was conducted on May 3 across 551 Indian cities and at 14 overseas centres. Nearly 23 lakh candidates had registered for the test, which was conducted by the NTA.
+
+On May 12, the NTA cancelled NEET-UG amid allegations of paper leak. A re-examination has been scheduled for June 21.
+
+The CBI, which is probing the case, has conducted searches across the country.
+
+So far, 13 accused have been arrested in this case from Delhi, Jaipur, Gurugram, Nasik, Pune, Latur and Ahilyanagar.
+
+---
+
+### NEET UG 2026: Supreme Court to hear plea seeking dismantling of NTA today
+*Education Desk · legal*
+
+The Supreme Court will today hear a petition seeking the dismantling or restructuring of the National Testing Agency (NTA) in connection with the alleged NEET UG 2026 paper leak. The plea is filed by the Federation of All India Medical Association (FAIMA) and United Doctors Front (UDF). Earlier, on Monday, the top court said it was “sad that NTA has not learned lessons from the earlier NEET paper leak” as it sought a response from the Centre, NTA, and CBI on pleas for the replacement of the testing agency with a robust and autonomous body to conduct the medical entrance exam.
+
+As ordered by the bench of Justices PS Narasimha and Alok Aradhe, the National Testing Agency (NTA) will file an affidavit by Thursday on compliance with the directions issued by the court in 2024. A copy of the petitions will also be served to Solicitor General Tushar Mehta, besides other parties and asked the National Testing Agency (NTA) to file an affidavit by Thursday on compliance with the directions issued by the court in 2024.
+
+The apex court also directed the NTA to file its counter-affidavit in the case. The court further directed the chairman of the monitoring committee to ensure compliance with its directions.
+
+In their plea, FAIMA and UDF sought directions to replace or overhaul the NTA and establish a more secure and autonomous mechanism for conducting the National Eligibility cum Entrance Test – Undergraduate (NEET UG).
+
+**READ| NEET UG cancellation Anatomy of a leak**
+
+In its plea, FAIMA argued that the widespread paper leak allegations and the subsequent cancellation of the NEET UG 2026 examination reflected a “systemic failure” on the part of the NTA in ensuring the integrity and security of one of the country’s largest entrance examinations.
+
+## **What are the petitioners seeking?**
+
+According to an earlier _Indianexpress.com report_, the petitioners have sought multiple directions from the Supreme Court aimed at overhauling the examination system and ensuring greater transparency and security in future medical entrance tests.
+
+Among the key demands in the plea is a direction to replace or fundamentally restructure the NTA with a “robust, technologically advanced and autonomous body” for conducting NEET UG examinations.
+
+Story continues below this ad
+
+The plea has also sought the appointment of a high-powered monitoring committee comprising a retired Supreme Court judge, a cybersecurity expert, and a forensic scientist. According to the petitioners, the committee should supervise the re-conduct of NEET UG 2026 until a proposed National Examination Integrity Commission (NEIC) is formally constituted to oversee the examination process.
+
+**Interview | NTA Chief on NEET UG cancellation** 
+
+FAIMA and UDF have further requested the court to direct the NTA, or any newly appointed examination body, to strictly implement the recommendations of the K Radhakrishnan Committee, which was constituted after the NEET 2024 controversy, to suggest reforms for improving the functioning of the testing agency.
+
+The petition additionally seeks a re-conduct of the NEET UG 2026 examination under the scrutiny of a judicially monitored committee until the proposed NEIC or an interim oversight panel verifies and certifies the security of the revised examination process.
+
+Another major demand in the plea is the introduction of “digital locking” of question papers and a transition to a Computer-Based Test (CBT) model. The petitioners argued that such measures would eliminate physical chain-of-custody risks associated with the transportation and handling of question papers.
+
+Story continues below this ad
+
+The plea has also sought directions to the Central Bureau of Investigation (CBI) to submit a status report on the NEET paper leak probe, including details of the network identified, arrests made, individuals charged, and the progress of prosecution in the case.
+
+NEET UG 2026 was conducted earlier this month for medical aspirants across the country. The controversy surfaced after allegations of a paper leak emerged from multiple centres, prompting widespread protests and demands for the cancellation of the examination. The issue subsequently escalated with calls for a court-monitored probe and scrutiny of the NTA’s examination processes, drawing attention to concerns over exam security and transparency.
+
+— _with inputs from PTI_
+
+---
+
+### Shillong Teer Results Today, May 29, 2026: Winning Numbers For All Teer Games
+*Nibandh Vinod · general*
+
+Shillong Teer Result Today: Here's full list of winning numbers for Shillong Teer, Juwai Teer, Khanapara Teer, and more for May 29, 2026.
+
+[Read full article](https://www.news18.com/india/shillong-teer-result-today-may-29-2026-first-and-second-round-lottery-result-check-winning-numbers-full-list-10116685.html)
+
+---
+
+### Anthropic’s valuation surges to $965 billion, surpassing OpenAI
+*Reuters · legal*
+
+AI startup Anthropic ramps up compute capacity as Claude adoption surges globally(Image: Reuters)
+
+Anthropic said on Thursday it has raised $65 billion at a post-money valuation of $965 billion, as it aims to bolster computing capacity to meet growing demand for chatbot Claude and scale its products.
+
+The new valuation after the series H funding round puts Anthropic ahead of OpenAI, last valued at $852 billion post-money in March, intensifying a ⁠fierce ​battle between the two for dominance in the rapidly evolving AI sector.
+
+Anthropic’s valuation has more than doubled from $380 billion in February, reflecting its swift rise as a leading competitor in the AI ​race and ​intense investor demand for stakes in frontier ⁠companies.
+
+“Since our series G in February, adoption has continued to grow across global enterprise customers, and ‌our run-rate revenue crossed $47 billion earlier this month,” Anthropic said in a blog.
+
+Anthropic’s pursuit of private funding coincides with preparations for a public listing, according to investors and bankers familiar with the company.
+
+Both Anthropic and OpenAI are planning to tap the public market, possibly as quickly as this year, ⁠to acquire the computational ⁠resources necessary to power their services and train new models.
+
+Anthropic has struggled to meet demand in ⁠recent ‌months, forcing it to institute usage limits during ​peak hours and incentivize off-peak use by offering ‌more compute during that time.
+
+Story continues below this ad
+
+Its latest round was led by Altimeter Capital, Dragoneer, Greenoaks and Sequoia Capital, with ‌Coatue and ICONIQ ​as co-leads, among ​others.
+
+Anthropic’s strategic ​infrastructure partners Micron, Samsung and SK Hynix also joined the round, which comprises $15 billion of previously ​committed investments from hyperscalers, including $5 billion from Amazon .
+
+Amazon ⁠had said in April it would invest up to $25 billion in Anthropic, as the AI startup commits to spending more ‌than $100 billion ⁠over the next 10 years on Amazon’s cloud technologies. This is in addition to Amazon’s previous $8 billion ​investment.
+
+
+---
+
 ## 28 May 2026
 
 ### Gold sitting idle in lockers? Why experts want Indians to monetise their yellow metal now
