@@ -1,3 +1,695 @@
+## 30 May 2026
+
+### Shooter accuses trainer of rape; he alleges abduction | Delhi News - The Times of India
+*The Times · regional*
+
+New Delhi: An elite international shooter has accused her mental conditioning trainer in Jhajjar of drugging and raping her and then blackmailing her with videos.While an FIR was registered based on the shooter's complaint, police said they had also received a complaint from the trainer, accusing some of the shooter's family members of kidnapping and confining him and forcing him into unnatural sex.
+
+An FIR against the shooter's family members has also been filed.DCP Bahadurgarh Mayank Mishra confirmed the FIRs to TOI on Friday and said both complaints were received on May 20, within an hour of each other. "In one case, the shooter has alleged rape, blackmail and mental harassment. The other incident relates to a monetary dispute the trainer had with the shooter's family. Both cases are under investigation," Mishra said.In his complaint, the trainer alleged he was abducted on April 29 by several individuals, kept in confinement for nearly 20 days, subjected to unnatural sexual acts, and robbed of his belongings before being abandoned near a toll plaza close to Asaudha on May 17."Around an hour after this complaint, a counter complaint was filed by the shooter at the women's police station in Jhajjar, alleging rape and blackmail through videos and photographs, as well as extortion. The complaint named only the trainer," a source said.
+
+---
+
+### DK Shivakumar Likely To Take Oath As Karnataka CM On June 3
+*Anushka Vats · general*
+
+Siddaramaiah submitted his resignation to the Governor's office, stating that he was acting in accordance with the party leadership's decision.
+
+[Read full article](https://www.news18.com/india/dk-shivakumar-likely-to-take-oath-as-karnataka-cm-on-june-3-10120657.html)
+
+---
+
+### Video: Bihar teacher's roadside confrontation with cops amid affair allegations
+*India Today News Desk · general*
+
+A dramatic public confrontation in Bihar’s Hajipur has triggered widespread discussion after a BPSC-appointed teacher, Gunjan Kumari, was seen engaged in a heated argument with police officers who intervened following allegations of an extra-marital affair. The incident unfolded after Gunjan’s husband, Aman Kumar, alerted police, claiming he had caught his wife and her alleged lover together in a compromising situation at a rented accommodation in Lichchavi Nagar.
+
+Videos from the scene show a chaotic roadside confrontation involving Gunjan, her husband, police personnel and local residents.
+
+As tempers flared, a police officer attempted to calm the situation and warned the teacher against creating a law-and-order problem.
+
+The officer can be heard saying, "Do not shout excessively; if you attempt to disrupt law and order, we will teach you a lesson you won't forget".
+
+Gunjan responded defiantly, saying, "No one can teach me a lesson". The sharp exchange, recorded in full public view, has since become a major talking point across the district.
+
+### WHAT IS THE MATTER?
+
+The controversy centres around allegations made by Aman Kumar, a resident of Bidupur in Bihar’s Vaishali district.
+
+Aman claims that he made significant sacrifices to help his wife achieve her dream of becoming a teacher.
+
+According to him, when the couple married in 2013, Gunjan had completed only her intermediate education but aspired to pursue higher studies and secure a government job.
+
+Aman alleges that despite financial hardships, he supported her education and, in 2022, sold a large portion of his ancestral land to fund her graduation, B.Ed. studies and preparation for the Bihar Public Service Commission (BPSC) teacher recruitment examination.
+
+His efforts, he says, eventually paid off when Gunjan cleared the BPSC TRE-02 examination and was appointed as a teacher for Classes 6 to 8.
+
+### TWIST IN THE TALE
+
+However, Aman claims their relationship began deteriorating after her selection.
+
+He alleges that during a training programme in Supaul district, Gunjan grew close to Prem Prakash, whom he describes as her college friend.
+
+According to Aman, the friendship gradually developed into a romantic relationship and the two continued meeting frequently.
+
+The husband further alleges that Gunjan had been living separately from him for nearly a year in a rented house in Hajipur’s Lichchavi Nagar area.
+
+He claims that Prem Prakash regularly visited the residence. Acting on information about his presence there, Aman says he reached the house on May 23 and found the two together, prompting him to call the police.
+
+### SON TESTIFIES AGAINST GUNJAN KUMARI
+
+The controversy deepened after the couple’s 10-year-old son also made allegations against his mother.
+
+The child claimed that "Prem Prakash Uncle" frequently visited their home and that he was instructed to identify him as a maternal uncle whenever anyone asked questions.
+
+He further alleged that he was sent away whenever the visitor arrived and was punished when he threatened to inform his father.
+
+At present, the allegations remain claims made by Aman Kumar and his son, and no official findings have been confirmed.
+
+The public altercation, however, has thrust the family dispute into the spotlight, with police expected to examine the matter further as discussions continue over the sensational case that has captivated Hajipur and beyond.
+
+\- Ends
+
+Inputs by Vikash Kumar
+
+May 30, 2026 09:46 IST
+
+---
+
+### Gujarat Man Alleges Harassment By Wife, Seeks Nod To Euthanasia Over Legal Inaction
+*Devanshe Pandey · general*
+
+Surat man alleged that his wife used legal proceedings and financial demands to target spouses.
+
+[Read full article](https://www.news18.com/india/gujarat-man-alleges-harassment-by-wife-seeks-nod-to-euthanasia-over-legal-inaction-ws-el-10120668.html)
+
+---
+
+### US, China deepen media row as Donald Trump revokes Xinhua journalist’s visa
+*SECTIONS US · business*
+
+Washington: The Trump administration has revoked the visa of a Chinese national working for the state news agency Xinhua in the United States, in an apparent reciprocal act to Beijing's decision to expel a New York Times reporter.
+
+A person familiar with the matter confirmed the visa had been revoked. The person spoke on condition of anonymity because the matter involves visa privacy. A State Department official confirmed there was a plan to revoke the visa.
+
+  
+
+The tit-for-tat move by the Trump administration has followed the expulsion by Beijing of Vivian Wang, a China correspondent for The New York Times, apparently over the appearance of the Taiwanese leader in a DealBook event in which Wang had no role. It was a rare occasion of the U.S. government directly retaliating against Beijing's expulsion of American journalists.
+
+The Times, which first reported the reciprocal move by the Trump administration, said the newspaper does not ask governments to revoke media credentials or otherwise interfere with the work of any journalist. On Friday, the paper issued a statement calling for Wang to be reinstated as a credentialed journalist in China and urging both governments to "reverse this deterioration in journalist access."
+
+"The Chinese government's decision to expel Vivian Wang is wrong," Joseph Kahn, the paper's executive editor, said in a statement published on the Times' corporate website. "Her expulsion will make it even harder for our global audience to get accurate, independent and in-depth reporting about the world's second largest economy at a critical time."
+
+The Chinese embassy in Washington did not immediately respond to a request for comment.
+
+## US media presence in China already dwindled
+
+Wang is leaving China when the presence of U.S. media is already thin after previous rounds of disputes over journalistic credentials, leaving several U.S. news organizations with skeleton staffing in their China bureaus.
+
+"The number of correspondents from American media outlets allowed to work in China has now fallen to an alarmingly low level, at a time when the need for people everywhere to understand China is greater than ever," Kahn wrote.
+
+Beijing moved to expel Wang, a China correspondent for the newspaper since 2020, after the media group's DealBook Summit 2025 featured Taiwanese President Lai Ching-te in a recorded interview with host Andrew Ross Sorkin. Sorkin called Taiwan a country, and Lai warned of Beijing's aggressive behavior in the Taiwan Strait and vowed that "Taiwan will do everything necessary to protect itself."
+
+The Chinese government claims sovereignty over Taiwan, which split from the mainland in 1949 after Mao Zedong's communists won a civil war. In the latest summit with President Donald Trump in Beijing, in mid-May, Chinese President Xi Jinping warned that China and the U.S. could "collide or even clash" over Taiwan if the issue is not handled properly.
+
+## Other Western media watching closely
+
+The decision against The New York Times also has created unease among other Western media that might interview Lai, giving the self-governed island a voice, at the risk of losing their abilities to report within China.
+
+All foreign journalists must be accredited by China's foreign ministry to report in China, and Beijing has used the accreditation and visa policy to expel or keep out foreign journalists whose work has upset the Chinese leadership or to show displeasure with what Beijing views as unfavorable or malicious coverage of China.
+
+In 2020, for example, the Chinese government expelled three Wall Street Journal correspondents after the financial newspaper ran an opinion piece titled "China is the Real Sick Man of Asia" following the outbreak of the COVID-19 pandemic.
+
+As U.S.-China relations soured, the U.S. State Department in 2020 designated some major Chinese news groups as "foreign missions". Xinhua, for example, is tasked by the ruling Chinese Communist Party to serve as the mouthpiece of the party and the government, which includes distributing their official news.
+
+Beijing in turn drastically limited visas for journalists working for U.S. media.
+
+In total, at least 18 foreign journalists working for The Washington Post, The New York Times and The Wall Street Journal were expelled in the first half of 2020, according to the Foreign Correspondents' Club of China. Many others were given short visas ranging from one month to three months, according to the group's annual survey.
+
+The two governments later reached a one-time agreement that allowed U.S. media to send in a small number of correspondents to mainland China. Wang was one of them.
+
+---
+
+### D K Shivakumar's astrologer predicts long stint for him as Karnataka CM
+*SECTIONS D K Shivakumar's astrologer predicts long stint · business*
+
+Bengaluru: A prominent astrologer has predicted a long tenure for Karnataka Congress president D K Shivakumar at the helm of the state administration.
+
+His prediction assumes significance as Shivakumar is widely expected to be elected as the leader of the Congress Legislature Party in Karnataka.
+
+Astrologer Dwarakanath Guruji has given three dates for Shivakumar, the Kanakapura MLA, to take charge as the new CM.
+
+  
+
+"I have given him some three dates. I mean, Sunday (May 31), June 5 and June 6," Guruji told PTI Videos.
+
+He also said that Shivakumar would return to power after the 2028 Assembly elections.
+
+Top Congress leaders have been engaged in hectic deliberations over the new government formation in Karnataka after Governor Thaawarchand Gehlot formally accepted the resignation of Chief Minister Siddaramaiah and dissolved the Cabinet.
+
+The CLP in Karnataka will meet on Saturday at 4 pm in the conference hall in Vidhana Soudha, Bengaluru, to elect their new leader in the state.
+
+Asserting that Shivakumar will have a long stint as chief minister, the astrologer said the former would get the backing of the Congress high command.
+
+"He is not a one-day chief minister or one-time CM. He will play a long innings. His horoscope is very good. He will be there for Karnataka for a longer period of time," the astrologer said.
+
+He was also optimistic that the state would become healthy and wealthy under Shivakumar's rule since he has a lot of vision for the state.
+
+Regarding the prospects of winning the 2028 Assembly election, Guruji said, "Undoubtedly, he (Shivakumar) has to win the next election. Then only he is the real chief minister. Now, only he is loaded with responsibilities".
+
+"Discharge the responsibilities now and enjoy the chief ministership in the next term," he added. PTI
+
+---
+
+### Outgoing CDS General Anil Chauhan receives ceremonial Guard of Honour in National Capital as tenure ends
+*Anil Chauhan receives ceremonial Guard · business*
+
+Outgoing Chief of Defence Staff General Anil Chauhan on Saturday was accorded a ceremonial Guard of Honour at the South Block lawns in the national capital, marking the culmination of his tenure as the country's top military officer.
+
+The ceremonial farewell comes as General Chauhan completes his extended tenure as CDS and Secretary, Department of Military Affairs, which was approved by the Appointments Committee of the Cabinet (ACC) on September 24, 2025, extending his service up to May 30, 2026, or until further orders.
+
+Commissioned into the Indian Army in 1981, General Chauhan has had a long and distinguished military career spanning over four decades, holding key command and staff appointments. He has been awarded the Param Vishisht Seva Medal, Uttam Yudh Seva Medal, Ati Vishisht Seva Medal, Sena Medal and Vishisht Seva Medal for his exemplary service.
+
+  
+
+During his tenure as CDS, he played a key role in advancing jointness and integration among the three services.
+
+Outgoing CDS released the Joint Air Defence Doctrine on Friday. Integrated Defence Staff HQ on X called it a significant step towards enhancing synergy, integration and operational preparedness across the armed forces.
+
+"General Anil Chauhan #CDS released the Joint Air Defence Doctrine, marking a significant step towards greater integration, synergy and operational preparedness among the Defence Forces. The doctrine aims to strengthen India's multi-layered #air\_defence capability in the evolving battlefield environment," HQ IDS's X post read.
+
+Earlier on May 25, outgoing CDS Chauhan chaired the concluding meeting of the Chiefs of Staff Committee.
+
+"Today marked the concluding Chiefs of Staff Committee (COSC) meeting for General Anil Chauhan #CDS & Permanent Chairman #COSC and Admiral Dinesh K Tripathi, #CNS ahead of their superannuation later this month. As members, their leadership strengthened Jointness, Integration, Operational Synergy amongst the Services including the march towards Theaterisation, leaving a lasting imprint on the Defence Forces. The Indian Defence Forces express deepest gratitude and best wishes to both distinguished leaders," HQ IDS's X post read.
+
+On the same day, General Chauhan also launched the Tri-Services Tele Directory Web Application, developed in-house by the Directorate General of Signals, aimed at improving coordination, efficiency and integrated functioning across the defence establishment.
+
+He also addressed personnel at HQ IDS and the Department of Military Affairs, emphasising the importance of "JAI" -- Jointness, Atmanirbharta and Innovation -- as the guiding principle for transforming the armed forces.
+
+With the ceremonial Guard of Honour at South Block, the CDS concluded a tenure marked by a strong push towards integration, technology adoption and enhanced tri-services coordination.
+
+---
+
+### Gold Prices Rise Today: Check 22K and 24K Rates In Delhi, Mumbai, Other Cities On May 30
+*Mohammad Haris · business*
+
+Gold and Silver Rates in India Today, May 30: In Mumbai, the price of 24-carat gold stands at Rs 1,57,650 per 10 grams, while 22k gold is available at Rs 1,44,510 per 10 grams.
+
+[Read full article](https://www.news18.com/business/savings-and-investments/gold-prices-rise-today-check-22k-and-24k-rates-in-delhi-mumbai-other-cities-on-may-30-ws-l-10120647.html)
+
+---
+
+### Pentagon chief Hegseth says U.S. ready to restart strikes on Iran if no deal
+*SECTIONS Pentagon chief Hegseth says U S ready · business*
+
+SINGAPORE: The U.S. is ready to restart attacks on Iran if a deal cannot be reached, Defense Secretary Pete Hegseth said on Saturday, as negotiators from Washington and Tehran worked to bridge major differences blocking an agreement.
+
+"Our ability to recommence if necessary...we are more than capable," ‌Hegseth said ⁠in ⁠Singapore.
+
+"Our stockpiles are more than suited for that, both there and around ​the globe, so we're in a very good place," he added.
+
+  
+
+**
+
+Hegseth, ​speaking at the Shangri-La Dialogue, Asia's premier forum for defence leaders, militaries and diplomats, said the U.S. has not turned ​its back on the Asia-Pacific region ⁠despite being engaged ‌in conflict with Iran.
+
+"We can do two ​things at ​one time. We're super-charging our defence industrial base ⁠so that we're building 2X, 3X, 4X ​the munitions very soon to ensure that all ​of our (operations) plans are properly funded throughout the world," he said.
+
+The Pentagon chief said President Donald Trump was "patient" and wants to make a "great deal" that ensures Iran does not get a nuclear weapon.
+
+On Friday, Trump said he would meet ‌in a secure White House room to make a "final determination" on a proposal to end the Iran ​war, which ​would extend an ⁠early-April truce for another 60 days, giving negotiators time to forge a permanent end to the conflict.
+
+The war launched by the U.S. ​and Israel on February 28 has killed thousands of people, mainly in Iran and Lebanon, and caused global economic pain by pushing up energy prices due to Iran's effective closure of the Strait of Hormuz.
+
+---
+
+### ‘We don’t know how we will survive’: 10, including 2 brothers dead in Pimpri-Chinchwad hooch tragedy
+*Manoj Dattatrye More · legal*
+
+As many as **10 persons have died** after consuming “toxic liquor” in the Phugewadi-Dapodi areas of Pimpri-Chinchwad under Pune district in the last two to three days. The Pimpri-Chinchwad police said four persons have been arrested in the case till evening and more arrests were likely. Though the police have released the list of 10 deceased, they said they are verifying if one more death that also occured was due to spurious hooch, which would take the toll up to 11.
+
+“At YCM hospital, some were brought dead, and some died a few hours after being admitted. So far, six have died, and three are undergoing treatment,” Dr Rajendra Wable, Dean, YCM Hospital and Medical College, told _The Indian Express_.
+
+Dr Wable further said, “As of now, it appears to be a case of “poisoning” because of alcohol and some additives in it. The methanol content in the country-made liquor in its pure form can prove dangerous when consumed. It seems the spurious liquor was mixed with other contents by accident or by design.”
+
+The viscera of the deceased have been sent for chemical analysis. “Only after receiving the chemical analysis report, we will come to know the exact cause of death,” Dr Wable said.
+
+Deputy Commissioner of Police (DCP) Sandeep Atole said, “The toll may go up as some of those admitted to the hospitals are in serious condition.”
+
+Atole said the liquor was reportedly brought from Urli Kanchan and mixed with some other content in the Khadki area. “Our investigation is underway,” he added.
+
+The dead include: Pandurang Phuge (57), Vijay Rathod (31), Rajendra Rathod (34), Rajesh Rajput (51), Akbar Pathan (48), Anand Desai (53), Anand Nikalje (70), Akshay Avasarmal (28), Sachin Netke, Bhimanna Nagral (27), Surrappa Bangari (55).
+
+**2 brothers dead**
+
+Story continues below this ad
+
+Vijay and Rajendra Rathod are brothers who lived in the same house. They are survived by their wives and two kids each. They lived in the Sanjay Nagar area of Phugewadi.
+
+Speaking to this paper, Sarika Vijay Rathod said, “Both my husband and brother-in-law used to drink liquor. The day before yesterday, my husband went to work. He worked in a chemical unit. He called me on my cellphone and told me that he was feeling uneasy and there were blisters on his arm. I sent my brother, who admitted him to the Cantonment Hospital in Khadki, where he passed away yesterday (Thursday).”
+
+Sangeeta Rathod said, “My husband (Rajendra Rathod) returned home on Wednesday, had dinner, and slept. But he did not wake up in the morning. We admitted him to Khadki hospital, where he was declared dead.”
+
+Both women grieved that they had lost the pillars of their home. “We are living in a rented house. We have no savings. As of now, we don’t have a single penny with us. We don’t know how we will survive. Both the brothers were the only earning members,” Sangeeta and Sarika Rathod said. Their father-in-law was rushed to YCM hospital this afternoon as he too complained of uneasiness.
+
+Story continues below this ad
+
+A little distance away, Usha Netke, who lost her brother Sachin Netke, said, “My brother slept off yesterday around 10 pm. He got up around midnight and was sweating profusely. After a while, he dozed off. He didn’t get up in the morning. We admitted him to YCM hospital, where he was declared dead.”
+
+Sunita Ghodke, another sister of Sachin Netke, said there are two to three illicit liquor dens in the Phugewadi area. “They operate brazenly. The police take action against them. After a few days, they again start operating.”
+
+DCP Atole said the police have been taking action against the illicit liquor dens in the Phugewadi area. “We have been regularly taking action against the illicit liquor dens in the Phugewadi area… We have also made a few arrests in the past,” the officer added.
+
+Local corporators Sanjay Kate said,”Of the total dead, there are at least two from Dapodi area, rest are from Phugewadi area. As per my information, at least 15 persons have been admitted to various hospitals. Some of them are in serious condition and therefore the toll may go up.”
+
+---
+
+### Blue Moon May 31, 2026: Will this rare lunar event be visible in India? When, where & how to watch it; What it means for zodiac signs, and how it differs from Supermoon
+*Unknown · business*
+
+A rare blue moon is set to light up the night sky on May 31, 2026, marking one of the most awaited lunar events of the year. According to space experts and reports from NASA and EarthSky, this will be the first calendar blue moon since August 30, 2023. Although it will appear slightly smaller than usual due to its position in orbit, the event is still expected to draw global attention from astronomy enthusiasts and skywatchers alike.
+
+## What Is a Blue Moon? NASA Explains the Rare Lunar Event  
+
+A blue moon is not actually blue in colour. As explained by NASA, it refers to the second full moon that appears within a single calendar month. Since the lunar cycle lasts about 29.5 days, slightly shorter than most calendar months, some months occasionally experience two full moons.
+
+This second full moon is known as a “calendar blue moon.” According to EarthSky, this phenomenon occurs roughly once every two to three years, making it a relatively rare celestial event that continues to fascinate sky observers around the world.
+
+  
+
+Yes, the Blue Moon will be visible from India. It can be spotted on Saturday evening, May 30, during dusk. At moonrise, it will appear large and glowing in an orange hue, and as it rises higher in the sky, it will gradually turn into its usual bright white colour.
+
+## Why the Blue Moon Happens: The Science Behind It  
+
+The timing mismatch between the lunar cycle and the calendar month is the main reason behind a blue moon. Because the moon completes its orbit around Earth in about 29.5 days, a second full moon can sometimes fit into the same month.
+
+NASA explains that the moon’s orbit is not perfectly circular, which also leads to variations in its distance from Earth. This affects how large or small the moon appears in the sky, though these differences are often not noticeable to the naked eye.
+
+  
+
+## Micromoon on May 31: Why the Moon Will Look Smaller  
+
+The May 31, 2026 blue moon will also be a micromoon. According to EarthSky, this happens when a full moon occurs near apogee, the farthest point of the moon’s orbit from Earth.
+
+NASA notes that during apogee, the moon can be about 252,334 miles (406,093 kilometres) away from Earth, compared to its average distance of around 238,855 miles (384,400 kilometres). This makes it appear slightly smaller and dimmer, although the difference is difficult to detect without comparison tools.
+
+Despite its “micro” status, astronomers say the visual impact for casual viewers will still be striking, especially during moonrise.
+
+## When and Where to Watch the Blue Moon  
+
+The blue moon will peak at around 4:45 a.m. ET on Sunday, just before sunrise. However, visibility will vary depending on location.
+
+Observers in the Americas, Africa and Europe will see the fullest moon on the night of May 30, while viewers in Asia, Australia and New Zealand will experience peak brightness on May 31.
+
+Experts suggest that moonrise, typically between 5:30 a.m. and 6:30 a.m. local time, offers the best opportunity for photography, as the moon appears larger and more dramatic against the early morning sky.
+
+## Blue Moon vs Supermoon: What’s the Difference?  
+
+NASA explains that the last calendar blue moon in August 2023 was actually a supermoon, meaning it occurred when the moon was closest to Earth at perigee. In contrast, the 2026 event will be a micromoon, occurring at the farthest point in its orbit.
+
+While both events are visually interesting, supermoons appear larger and brighter, whereas micromoons appear slightly smaller but still full and luminous.
+
+## Will the Blue Moon Affect Zodiac Signs?  
+
+Astrologers often associate full moons with emotional intensity and reflection. Although there is no scientific evidence supporting direct astrological effects, many believe blue moons amplify these energies due to their rarity.
+
+Different zodiac signs are said to experience heightened intuition, emotional clarity, or relationship shifts during such lunar phases, making this blue moon a symbolic moment for personal reflection.
+
+## Why the Blue Moon Feels So Special  
+
+The term “once in a blue moon” has long been used to describe rare occurrences, and this event lives up to that reputation. Historical references trace the phrase back centuries, although modern usage became standard after documentation in the 1937 Maine Farmer’s Almanac, as noted by Britannica.
+
+Occasionally, atmospheric conditions like volcanic dust can make the moon appear bluish in colour, such as after the 1883 Krakatoa eruption. However, this is un
+
+## A Must-Watch Celestial Event  
+
+The May 31, 2026 blue moon is expected to be one of the most photographed astronomical events of the year. While it will not appear blue, its rarity, timing, and micromoon status make it a unique skywatching opportunity.
+
+## Blue Moon 2026 Highlights  
+
+-   A rare calendar blue moon will occur on May 31, 2026, making it one of the most anticipated celestial events of the year.
+-   This will be the first calendar blue moon since August 30, 2023.
+-   A blue moon refers to the second full moon appearing in a single calendar month, not its colour.
+-   The phenomenon happens due to the mismatch between the lunar cycle of 29.5 days and the calendar month.
+-   The May 31, 2026 blue moon will also be a micromoon, appearing slightly smaller due to its position at apogee.
+-   At apogee, the moon is at its farthest point from Earth, making it look less bright and smaller than usual.
+-   The blue moon will be visible in India on the evening of May 30 during moonrise at dusk.
+-   During moonrise, the moon may appear orange before turning bright white as it rises higher in the sky.
+-   NASA explains that supermoons and micromoons are opposite events based on the moon’s distance from Earth.
+-   Despite its name, the blue moon will not appear blue, but will still be a striking astronomical sight for skywatchers worldwide.
+
+_Inputs from agencies_
+
+---
+
+### Marco Rubio thanks Pakistan for 'role in advancing peace in Middle East' after meeting Ishaq Dar
+*SECTIONS Marco Rubio thanks Pakistan · business*
+
+US Secretary of State Marco Rubio met PakistDeputy Prime Minister and Foreign Minister Ishaq Dar and thanked Pakistan for its role in advancing peace in the Middle East, the State Department said on Thursday.
+
+In a post on X, Rubio said, "Met with Pakistani Deputy Prime Minister and Foreign Minister Ishaq Dar and thanked him for the role Pakistan continues to play in advancing peace in the Middle East."
+
+"We agreed upon the importance of working together to further strengthen a meaningful partnership for better security and more prosperity for our two nations," he added.
+
+  
+  
+
+Meanwhile, in a development that could reshape West Asia's security landscape, US President Donald Trump announced Friday that he will convene an emergency meeting in the White House Situation Room to make a final decision on a broad, multi-part peace deal with Iran.
+
+Taking to Truth Social, Trump outlined the rigid, unyielding terms under which the United States is prepared to permanently lift its unprecedented naval blockade, end hostilities, and orchestrate the highly complex excavation and destruction of Iran's deeply buried enriched nuclear materials.
+
+The President made it explicitly clear that any comprehensive settlement hinges on Tehran permanently relinquishing its nuclear weapons ambitions, alongside the immediate, unconditional opening of the world's most critical oil chokepoint.
+
+"Iran must agree that they will never have a Nuclear Weapon or Bomb," Trump declared. "The Hormuz Strait must be immediately open, no tolls, for unrestricted shipping traffic, in both directions. All water mines (bombs), if any, will be terminated (we have removed, through detonation, numerous such mines with our great underwater mine sweepers. Iran will complete the immediate removal and/or detonation of any mines that are left, which will not be many!" Trump said in a post on Truth Social.
+
+Signalling an imminent end to the maritime standoff, Trump announced that commercial and international ships previously trapped by the U.S. Navy's defensive perimeter are free to depart.
+
+---
+
+### After 3 Mayors in single term, Moga votes for stability: AAP wins majority in Moga MC; loses Raikot, Payal in Ludhiana
+*Divya Goyal · legal*
+
+Moga outgoing Mayor’s wife Kamlesh Rani (left) lost, but his daughter in law Tamanna won. Both on AAP ticket. (Express Photo)
+
+The AAP Friday won a clear majority in the Moga Municipal Corporation House, winning 30 of 50 wards. Congress and Independent candidates won seven seats each and there each were won by SAD and BJP, as per the final results.
+
+Dr Amandeep Kaur Arora, Moga’s AAP MLA and party’s women’s wing state president, had led the campaigning for the ruling party for civic body elections. “This a mandate for AAP government’s welfare schemes. It is for the first time that one party has won a clear majority in MC House,” say said.
+
+In 2021 Moga Municipal Corporation polls, then ruling Congress had won 20 of 50 seats, and failed to win majority. SAD had won 15, AAP 4, BJP 1 and 7 were won by Independents. Later, all 10 Independents had announced their support for Congress and Nikita Bhalla was elected as Moga’s first woman Mayor.
+
+However, after AAP came to power in Punjab in 2022, a no-confidence motion was passed against Bhalla, as majority of Congress councillors had moved to AAP. She was replaced by Baljit Singh Chani who had become AAP’s first Mayor in Punjab in 2023.
+
+But in a unique turn of events, Chani was expelled by AAP as the party claimed having “concrete evidence of his link with drug traffickers”. Chani was then replaced by Parveen Kumar Sharma alias Peena as Moga Mayor in January this year. Sharma is an ex-Congressman.
+
+In the latest elections, incumbent Mayor Parveen Kumar Sharma did not contest, but both his wife Kamlesh Rani and daughter-in-law Tamanna Rani contested from ward number 38 and 36, respectively. While daughter-in-law Tamanna won the election, his wife Kamlesh lost to Congress’s Dimple Arora.
+
+Voting for Moga MC was held for 49 wards as AAP’s Sarabjit Kaur was elected unopposed from ward number 44. While AAP contested from all wards, BJP contested 39, Congress 48 and SAD 39.
+
+Story continues below this ad
+
+Meanwhile, AAP has also won majority in Kot Ise Khan nagar panchayat of Moga district, winning 12 of 13 wards.
+
+**AAP loses Payal, Raikot; tie in Jagraon**
+
+In Ludhiana district, results were declared for six Municipal Councils, of which AAP won majority in three, lost two and is tied with the Congress in 1.
+
+Of the 112 wards for which results were declared in Ludhiana district, AAP won 57, Congress 36, SAD eight, BJP six and Independent five.
+
+AAP has lost both Raikot and Payal Muncipal Councils, failing to win majority seats. Both these councils were won by Congress. In Payal, which had 11 wards, AAP won just 3, Congress 5 and SAD 2. In Raikot, Congress won 11 wards and AAP 4.
+
+Story continues below this ad
+
+The polls in Raikot were marred with violence as Congress candidate from ward number 4 Jagdev Singh Jagga was allegedly attacked on the day of polling. Both Congress and AAP had blamed each other for violence.
+
+In Jagraon, where a major controversy had erupted over local AAP MLA Sarvjit Kaur Manuke’s husband’s “fake candidature”, AAP and Congress are tied with wins on nine wards each. Of 23 seats, Congress and AAP won nine each, BJP four and Independent one.
+
+In Doraha, Samrala and Khanna, ruling AAP has won clear majority. In Doraha (15 wards), AAP has won 8, Congress 5 and Independent 2. In Samrala (15 wards), AAP has won 8, BJP 1, Congress 2 and SAD 4.
+
+In Khanna, which had the highest 33 wards and from where cabinet minister Tarunpreet Singh Sond is the MLA, AAP has won 25, BJP 1, Congress 4, Independent 1 and SAD 2.
+
+Divya Goyal is a Principal Correspondent at The Indian Express, based in Ludhiana (Punjab). She is widely recognized for her human-interest storytelling and in-depth investigative reporting on social and political issues in the region. Professional Profile Experience: With over 13 years in journalism, she joined The Indian Express in 2012. She previously worked with Hindustan Times. Education: A gold medalist in English Journalism from the Indian Institute of Mass Communication (IIMC), Delhi. Core Beats: She covers a diverse range of subjects, including gender issues, education, the Sikh diaspora, heritage, and the legacy of the Partition. She has also reported on minority communities in Pakistan and Afghanistan. Awards and Recognition Divya has earned significant acclaim for her sensitivity toward gender and social disparities: Laadli Media Award (2020): For her investigative report "Punjab: The Invisible Drug Addicts," which exposed the gender disparity in treating women addicts. Laadli Media Award (2023): For a ground report on the struggles of two girls who had to ride a boat to reach their school in a border village of Punjab. Signature Style Divya is known for "humanizing the news." Rather than just reporting on policy, she often focuses on the individuals affected by it—such as students dealing with exam stress, farmers struggling with diversification, or families impacted by crime. Her work often bridges the gap between West (Pakistan) and East (India) Punjab, exploring shared heritage and common struggles. X (Twitter): @DivyaGoyal\_ ... 
+
+**Stay updated with the latest - Click here to follow us on Instagram**
+
+-   Tags:
+-   Aam Aadmi Party
+-   Moga
+
+---
+
+### Breather for now? For how long?
+*Jane Kinninmont · opinion, regional*
+
+###### FROM TOI PRINT EDITION
+
+Facebook Twitter Linkedin Email
+
+The emerging agreement between US and Iran, will likely create some breathing space for the world economy. Trump is yet to sign off on this. If he does, per initial reports, the focus will be on reopening Strait of Hormuz, providing some sanctions relief for Iran, and implementing a temporary ceasefire for the next two months.
+
+**_Read full story on TOI+_**
+
+Facebook Twitter Linkedin Email
+
+###### Disclaimer
+
+Views expressed above are the author's own.
+
+###### END OF ARTICLE
+
+##### TOP VOICES
+
+---
+
+### CBI files first chargesheet in Reliance ADA Group bank fraud cases
+*Express News Service · legal*
+
+The CBI has filed its first chargesheet in a Reliance ADA Group-linked bank fraud case, naming Reliance Communications, five executives and 10 bank officials over the alleged diversion of loans.
+
+The Central Bureau of Investigation (CBI) on Thursday filed its first chargesheet in one of the cases linked to the Reliance ADA Group, naming 16 accused, including Reliance Communications Ltd (RCom), five senior company executives and 10 bank officials.
+
+The **chargesheet was filed before the Special Judge** for CBI Cases in Mumbai in connection with RC0742025E0005, one of the multiple FIRs registered against companies linked to the Anil Ambani-led group.
+
+Those named include officials of the State Bank of India (SBI), Bank of Maharashtra and the erstwhile Syndicate Bank. The accused have been charged with criminal conspiracy, cheating, criminal misappropriation under the IPC and criminal misconduct under the Prevention of Corruption Act.
+
+According to the CBI, the chargesheet pertains to the alleged misuse and diversion of loans and credit facilities worth over Rs 2,000 crore sanctioned to Reliance Communications.
+
+The agency alleged misuse of a Rs 1,200-crore term loan sanctioned by SBI, Rs 500-crore letter of credit facilities extended by Bank of Maharashtra and Rs 350-crore letter of credit facilities sanctioned by Syndicate Bank.  
+CBI said further investigation remains open to examine other loans sanctioned by consortium banks and to identify the role of additional conspirators in the alleged diversion and misappropriation of public funds. Supplementary chargesheets are expected to follow.
+
+The FIR in the case was registered on the basis of a complaint by SBI against Reliance Communications Ltd and Anil Ambani for allegedly causing losses of Rs 2,929.05 crore to the bank.
+
+According to the FIR, rupee term loans were sanctioned to Reliance Communications by a consortium of 11 banks led by SBI. The total exposure across 17 public sector banks stood at Rs 19,694.33 crore.
+
+Story continues below this ad
+
+CBI has also registered six additional FIRs against Reliance Communications (RCom), Reliance Home Finance Ltd (RHFL), Reliance Commercial Finance Ltd (RCFL) and Reliance Telecom Ltd (RTL)  all of which remain under investigation. The probe into the seven cases registered against companies linked to the Reliance ADA Group is currently being monitored by the Supreme Court.
+
+---
+
+### 3 months to mend habits, then fine for violations: Bengal cracks down on littering
+*Sweety Kumari · legal*
+
+Under the plan, dustbins will be installed at a distance of every 100 meters. (File Photo)
+
+In a significant move against littering, the West Bengal government is set to impose strict fines from September 1 for throwing plastic waste or garbage on roads.
+
+Agnimitra Paul, Minister for Urban Development and Municipal Affairs, has said that a pilot project will be launched on Saturday in 10 municipalities to improve the waste management and cleanliness system, and spread awareness.
+
+“We are focusing on ensuring that civic services are not disrupted in municipalities where councillors have resigned and where administrators are absent. If people take photos upon seeing garbage anywhere and send them, the staff concerned will also be required to take action on it. The project will be inaugurated on May 30.”
+
+The Minister said that cleanliness must be maintained by involving the police, administration, and the general public. Paul added, “When our people go abroad, to malls… they behave like civilised individuals. But upon stepping on to the streets here, they throw away coconut shells, plastic and chip packets. This will not be allowed. Keeping our cities clean is a shared responsibility for all of us. We will give it three months… People must improve their habits during this period. After that, from September 1, fines will be levied in accordance with the existing rules.”
+
+Under the plan, dustbins will be installed at a distance of every 100 meters. Even after this, if anyone throws garbage on the road or in a public place, a fine will be imposed from September 1.
+
+How much fine can be imposed? This may vary across cities, based on the respective municipal corporation. For instance, fines ranging from Rs 50 to Rs 1,000 can be imposed for littering on the road. This amount can also increase up to Rs 5,000, said officials.
+
+Sweety Kumari is a seasoned journalist reporting from West Bengal for The Indian Express. With over a decade of experience in the media industry and eight years specifically with The Indian Express, she demonstrates considerable Expertise and Authority across a diverse range of critical beats. Experience & Authority Current Role: Journalist, The Indian Express, reporting from West Bengal. Extensive Tenure: Over 10 years of experience in the media industry, with a long association (8 years) with The Indian Express, contributing to a high level of Trustworthiness. Diverse Coverage: Covers crucial beats including Crime, Defence, Health, and Politics, alongside writing on trending topics. Investigative Focus: Possesses a keen eye for investigative and human-interest stories, demonstrating depth and skill in impactful journalism. Beat Versatility: Has honed her craft across diverse beats, including aviation and reporting on various incidents, ensuring well-rounded and comprehensive reportage. Career Start: Began her journalistic journey as an Entertainment and lifestyle journalist with a news portal in Kolkata, providing a foundational understanding of media landscape and audience engagement. Education Advanced Education: Holds a PG in Mass Communication from Jadavpur University, equipping her with advanced media theory and skills. Undergraduate Education: Holds an Honours degree in Journalism from Jaipuria College. Multilingual Skill: Her fluency in English, Hindi, Bengali, and Maithili enhances her reach and capability to connect with diverse sources and communities in the region, adding a layer of accessibility and authenticity to her reporting. Regional Roots: Originally from Bihar, she was brought up and educated in Kolkata (Kendriya Vidyalaya Salt Lake), giving her a deep, personal understanding of the cultural and political nuances of her reporting region. Sweety Kumari's combination of significant experience, specialization in key beats like Crime and Politics, and strong academic background makes her a trusted and authoritative contributor to The Indian Express. ... 
+
+**Stay updated with the latest - Click here to follow us on Instagram**
+
+-   Tags:
+-   West Bengal
+
+---
+
+### Yum Brands in exclusive talks to sell Pizza Hut to LongRange Capital, source says
+*Reuters · business*
+
+Yum Brands is in exclusive talks to sell its Pizza Hut chain to private-equity firm LongRange Capital, a source familiar with the matter said on Friday.
+
+The two parties are advancing in discussions about a potential deal that could come together in ‌several weeks, ⁠the source ⁠said, adding there is no guarantee a deal will be reached.
+
+LongRange declined to comment on Reuters' request, while Yum Brands did not immediately respond.
+
+  
+
+The move comes when the fast-food industry is contending with sustained demand weakness, as growing adoption of GLP-1 weight-loss drugs encourages consumers to choose healthier foods.
+
+The pressure has been compounded by rising inflation and a decline in ⁠consumer sentiment, ‌which has forced diners to think twice before eating out and weighed on U.S. pizza giants already facing elevated commodity ⁠costs.
+
+Last year, Yum said it was reviewing "strategic options," including a possible sale, for Pizza Hut as the unit struggles to keep pace with its other fast-casual dining brands, including Taco Bell.
+
+U.S. comparable sales at Pizza Hut, which contributed 12% to Yum's total revenue in 2025, have declined for 10 straight quarters.
+
+Reuters reported in April that along with LongRange, Sycamore Partners and Apollo Global Management, ‌among others, were vying for the chain.
+
+Shares of Yum Brands, which also owns KFC, were up about 3% in extended trading. Bloomberg News first ⁠reported the development earlier in the day.
+
+The U.S. restaurant industry is witnessing a dealmaking trend wherein several small chains have left the public market, including Denny's, Potbelly, California Pizza Kitchen, amid mounting input costs and deteriorating dining-out demand.
+
+Papa John's International has also been looking to sell its business. Investment firm Irth Capital Management was working with the pizza chain's largest U.S. franchisee to take it private, Reuters reported this month.
+
+---
+
+### ‘Growing communication gap’: BJP councillors fume following their Mayor’s ‘inaccessibility’
+*Hina Rohtaki · legal*
+
+Joshi told The Indian Express that there was not a “discussion” on his inaccessibility. (Photo: Facebook/thesaurabhJoshi)
+
+Discontent appears to be brewing within the BJP Chandigarh over the functioning of its Mayor Saurabh Joshi, with the party’s state in-charge Atul Garg reportedly expressing displeasure after repeated complaints from councillors that the Mayor was not taking calls or responding to party men.
+
+Sources said the matter escalated after Garg, who is also an MP from Ghaziabad, himself initially failed to get through to the Mayor on one occasion while he was here in Chandigarh. Sources in the party further said several BJP councillors had approached Garg alleging that Joshi had become inaccessible and that even routine civic and ward-
+
+The complaints reportedly snowballed after multiple councillors conveyed that their works and recommendations were pending despite repeated follow-ups.
+
+Sources added that after the displeasure expressed by Garg, Joshi, however, told him that sometimes he is in the “middle of a meeting” due to which he is unable to respond to councillors’ issues.
+
+While speaking to _The Indian Express_, Garg said, “usually some people get through, some people say they can’t contact him (Joshi). I also contacted later with a different number and he took the call”.
+
+“I just said in the meeting that everyone should be available for each other. For the grievances they have, we have made a seven-member committee, which will assist in the functioning of the Municipal Corporation,” Garg added.
+
+The MP even chaired a meeting of all the councilors and Mayor, however, Joshi told _The Indian Express_ that there was not a “discussion” on his inaccessibility.
+
+Story continues below this ad
+
+Sources said that even the party’s own Chandigarh president Jatinder Malhotra couldn’t get through the Mayor.
+
+“Most of us conveyed to the leadership that we elected representatives were finding it difficult to coordinate with the Mayor’s office and that the growing communication gap was affecting both governance and internal party coordination. Moreover the state in-charge expressed concern that the perception of inaccessibility could politically hurt the party at the grassroots level as civic polls were scheduled to be held this year,” a senior councillor of the BJP said.
+
+The discontent also comes amid the recent controversy involving the Lions company, where the BJP and the Congress councillors were seen sharing the same platform over concerns linked to the sanitation system in the city.
+
+“The incharge was convinced that he (Mayor) may not have called a meeting but incidentally one after the other, the councillors gathered and expressed their discontent over the sanitation issue,” the senior councillor added.
+
+Story continues below this ad
+
+The development had triggered murmurs within BJP circles, with some leaders privately questioning the political messaging emerging from the episode.
+
+Hina Rohtaki is a Special Correspondent at The Indian Express, based in Chandigarh. She is one of the most prominent journalists covering the Chandigarh Administration, civic issues, and the unique political status of the Union Territory. Professional Background Experience: She has been in the field for over a decade and is known for her investigative reporting on administrative waste and urban governance. Awards: She is a recipient of the prestigious Ramnath Goenka Excellence in Journalism Award, which was presented to her by the President of India in January 2020. She was also awarded the Jethmalani prize (The Will of Steel Awards) in 2025 in the Empowerment category for a series of articles that highlighted the struggles of Covid widows. Core Beat: Her primary focus is the Chandigarh administrative structure, the Union Territory's financial management, and urban development projects. Recent Notable Articles (Late 2025) Her recent work highlights a focus on government accountability, administrative expenditures, and civic trends: 1. Investigative & Financial Reporting "Fuelling power: Senior UT IAS officers guzzled petrol worth Rs 30 lakh in 2 yrs" (Dec 14, 2025): An investigative report detailing the high fuel bills of top bureaucrats, including the Finance Secretary and Chief Secretary’s staff. "Admn spends Rs 1.5 crore on dismantling road railings and fixing again after increasing height" (Dec 8, 2025): Highlighting administrative waste on "non-viable" solutions for pedestrian control. "Chandigarh’s finances under ministry’s watch now" (Nov 27, 2025): Reporting on the new requirement for MHA approval for all new projects in the UT. 2. Governance & Constitutional Status "What will it mean for Chandigarh if it is brought under Article 240?" (Nov 24, 2025): An "Explained" piece on the potential constitutional shift that would grant the President more power over the UT's governance. "MP Manish Tewari moves Bill seeking directly elected Mayor with 5-year tenure" (Dec 6, 2025): Covering the legislative push to reform Chandigarh's municipal leadership structure. "No proposal to increase Mayor's term in Chandigarh by 5 years: Centre" (Dec 10, 2025): Reporting on the Union government's response to demands for a longer mayoral term. 3. Urban Infrastructure & Environment "Chandigarh admn cuts power to India's tallest air purifier, asks firm to dismantle it" (Nov 17, 2025): A critical report on the failure of a high-cost environmental project deemed "of no use" by experts. "UT rethinks 24/7 water supply project as costs soar" (Nov 26, 2025): Detailing the financial challenges and delays in modernizing the city's water network. "Centre 'obfuscating, covering up' MC's shifting deadlines for clearing Dadu Majra dump" (Dec 12, 2025): Reporting on the ongoing controversy surrounding the city's major waste dump. 4. Lifestyle & Local Trends "Chandigarh turns into a Thar city as women fuel the surge" (Dec 2, 2025): A feature on a unique automotive trend in the city, with a record 600 registrations by women drivers this year. "After fivefold spike in 2023, EV sales struggle to pick pace in Chandigarh" (Dec 2, 2025): Analyzing the slowdown in electric vehicle adoption despite previous surges. Signature Beat Hina is known for her meticulous tracking of RTI (Right to Information) data to expose administrative inefficiency. Her "Ground Zero" reporting on the Dadu Majra garbage dump and her scrutiny of the Chandigarh Smart City projects have made her a key figure in the city’s civil society discourse. X (Twitter):  @HinaRohtaki ... 
+
+**Stay updated with the latest - Click here to follow us on Instagram**
+
+-   Tags:
+-   Bharatiya Janata Party
+-   Congress
+
+---
+
+### BJP demands Siddaramaiah to clear last year's Gruha Lakshmi scheme arrears before demitting office
+*SECTIONS BJP demands Siddaramaiah · business*
+
+BJP MLA S Suresh Kumar on Saturday urged outgoing Karnataka Chief Minister Siddaramaiah to explain the fate of Rs 5,000 crore allegedly meant for beneficiaries of the Gruha Lakshmi scheme, claiming that payments for February and March 2025 had not reached eligible families.
+
+He said he should pay the dues to the beneficiaries before demitting office.
+
+In a letter addressed to Siddaramaiah, the Rajajinagar MLA said the issue was first raised in the Assembly by BJP legislator Mahesh Tenginakai during the winter session at Belagavi's Suvarna Soudha on December 9, 2025, and remained unanswered despite the passage of five months.
+
+  
+
+"As the person who had complete control over the state treasury, it is your responsibility to inform the people of the state about the status of the Gruha Lakshmi payments for February and March 2025 that were meant to reach the beneficiaries. This is a question of the moral responsibility of any government," Suresh Kumar said.
+
+The BJP leader recalled that Tenginakai had alleged in the Assembly that payments under the Congress government's flagship Gruha Lakshmi scheme for February and March 2025 had not reached families across the state.
+
+"He alleged that the Gruha Lakshmi payments for February and March 2025 had not reached families in the state. The total amount involved was Rs 5,000 crore," he said in the letter.
+
+Suresh Kumar said a minister in the Siddaramaiah Cabinet had initially claimed that the payments had been made, but Tenginakai later produced documentary evidence in the House to show otherwise and sought an explanation from the government.
+
+Referring to the alleged missing funds, he said, "Even today, the citizens of the state do not know where this huge sum of money went or who received it." The MLA termed the amount substantial and said the failure to deliver the money to beneficiaries could not be treated as a minor lapse.
+
+He further said that as both Chief Minister and Finance Minister, Siddaramaiah bore responsibility for clarifying the matter and accounting for public funds collected through taxes.
+
+"I urge you to discharge that responsibility honestly and provide the people of the state with a clear explanation regarding the fate of this enormous amount of public money," Suresh Kumar said.
+
+The non-payment of the Gruha Lakshmi guarantee offering Rs 2,000 to 1.26 crore women head of the families belonging to the Below Poverty Line (BPL) for the months of February and March had led to the uproarious scene in the Belagavi session of Karnataka Assembly.
+
+The opposition BJP and its ally had even staged a walkout in protest on December 17.
+
+---
+
+### India's Forex Reserves Fall $7.5 Billion To Over One-Year Low Of $681.4 Billion
+*Mohammad Haris · business*
+
+According to the central bank's data released on May 29, gold reserves drop by $4.53 billion during the reporting week to $114.786 billion.
+
+[Read full article](https://www.news18.com/business/economy/indias-forex-reserves-fall-7-5-billion-to-over-one-year-low-of-681-4-billion-ws-l-10120643.html)
+
+---
+
+### Dry run
+*TOI Edit · opinion, regional*
+
+_Brace for weak monsoon, and hope for best_
+
+It should have been a good day for markets, with Iran and US talking peace, but Friday ended with Sensex and Nifty down roughly 1.5% each. The dampener was El Nino, which is now expected to weaken this year’s monsoon further. In April, IMD had forecast rainfall at 92% of long-term average – below but still close to normal. Now, it’s revised it down to 90%. That doesn’t seem like a big change, but averages don’t tell the whole story. Drought in the food basket states, and excess rainfall elsewhere, can add up to a good average, but food production, inflation, consumer demand, and govt budgets, will all take a hit. That’s why the seemingly small, 2 percentage point change is a big deal. And markets are naturally worried.
+
+Not only is it looking like the worst monsoon since 2015, it comes at a time when the Hormuz blockade has pushed Indian fuel prices to their highest levels ever. While diesel for farmers is costlier, govt’s subsidy bill for fertilisers could more than double to ₹3.8L cr this year – again because of Hormuz. Given that almost half of India’s population is dependent on farming, and half of agriculture is rain-dependent, govt can’t ask farmers to share the fertiliser bill. That will strain its finances, curbing infra spending. And while the country’s food stocks are adequate, higher food prices due to reduced production will stretch budgets of most families. It’s not a full-blown crisis, but the situation demands deft handling. Centre and states will need to coordinate better, to soften the impact on farmers. The outlook could improve quickly if Iran and US make a deal, easing the pressure of energy and fertiliser prices in a couple of months. Fingers crossed.
+
+_
+
+India warns of weakest monsoon in 11 years, inflation risks rise
+
+Explainer: How El Nino-driven weaker monsoon rains could impact India
+
+Exclusive: IMD Chief Explains India’s Weak Monsoon Warning | What It Means For You?
+
+Facebook Twitter Linkedin Email
+
+###### Disclaimer
+
+Views expressed above are the author's own.
+
+###### END OF ARTICLE
+
+---
+
+### ED raids 8 locations in illegal sand mining case, unearths Rs 1.53 crore cash
+*SECTIONS ED raids · business*
+
+Hyderabad: The Enforcement Directorate conducted multi-city searches at eight locations in Hyderabad, Jaipur, and Coimbatore on May 26 under the Prevention of Money Laundering Act, targeting firms and individuals linked to alleged illegal sand mining in Andhra Pradesh, the agency said on Thursday.
+
+According to an ED press release, searches were carried out at the official premises of GCKC Projects and Works Pvt. Ltd., Prathima Infrastructure Ltd., and Turnkey Enterprises Pvt. Ltd. Residential premises of Boinipally Srinivas Rao, Ashok Kumar, and V.G. Venkata Reddy in Hyderabad and Jaipur, as well as a farmhouse belonging to Boinipally Srinivas Rao, were also covered.
+
+The ED initiated its investigation based on an FIR registered by the CIU, Anti-Corruption Bureau, NTR District, Vijayawada, against V.G. Venkata Reddy, then Director of Mines & Geology, along with M/s Jaiprakash Power Ventures Ltd., Prathima Infrastructure Ltd., and GCKC Projects and Works Pvt. Ltd. The FIR alleged various violations in sand mining operations, including illegal mining and breaches of tender provisions and agreements.
+
+  
+
+The agency said investigation revealed that District Level Sand Committees formed by the Supreme Court had found two types of illegal excavations by JPVL, GCKC Projects and Works Pvt. Ltd., and Prathima Infrastructure Ltd. - excavation beyond permitted depth and mining from areas not authorised in permits.
+
+Following this, the Office of the Director, Mines & Geology issued several show cause notices to the companies, followed by demand notices. ED said analysis of these notices showed that the DMG raised demand notices amounting to Rs 2,407.70 crore against the three entities.
+
+The searches resulted in the seizure of Indian currency worth Rs 1.53 crore, foreign currency of 1,800 USD, silver bullion valued at Rs 1.29 crore, several digital devices, and incriminating documents. The documents included details of movable and immovable properties held in the names of the accused persons and their family members, the ED release stated.
+
+Further investigation is underway, the agency added.
+
+---
+
+### US judge orders Donald Trump’s name removed from Kennedy Center, calls renaming illegal
+*Monica Singh · general*
+
+## US judge orders Donald Trump’s name removed from Kennedy Center, calls renaming illegal
+
+A US federal judge ruled that the Kennedy Center was illegally renamed after President Donald Trump, ordering his name removed within 14 days.
+
+A federal judge has ruled that the renaming of the Kennedy Center for the Performing Arts after US President Donald Trump was not legally authorised, ordering that Trump’s name be removed from the iconic Washington venue.
+
+Judge Christopher Cooper stated that the centre’s governing board exceeded its authority when it approved the name change late last year. According to the ruling, only the US Congress has the power to alter the official name of the institution, which was originally established to honour former President John F. Kennedy.
+
+The court directed the administration to remove references to Trump from the building’s facade and 
+
+## **Kennedy Center at the centre of controversy**
+
+The dispute began after the Kennedy Center’s board, which had been reshaped with Trump allies following his return to office, voted to rename the institution the 'Trump Kennedy Center.' Soon afterwards, large gold-letter signage featuring Trump’s name was installed on the building.
+
+The decision drew criticism from cultural groups, legal experts and political opponents who argued that the board lacked the legal authority to make such a significant change without congressional approval.
+
+Judge Cooper’s ruling reinforced that position, emphasising that the centre’s name is protected under federal law and cannot be altered through a board vote alone.
+
+## **Trump announces exit from venue management**
+
+Following the ruling, Trump sharply criticised the decision and announced plans to step away from overseeing the performing arts centre.
+
+In a statement posted on his social media platform, he said he would work with Congress to transfer responsibility for the institution back to lawmakers. Trump argued that the centre had been struggling financially and artistically before his involvement and claimed he was unable to implement the changes he believed were necessary.
+
+The court also temporarily halted plans to shut down the Kennedy Centre for a two-year renovation project that had been scheduled to begin in July.
+
+## **Broader debate over presidential branding**
+
+The controversy comes amid a wider effort by the Trump administration to place the president’s name and image on government-linked institutions and projects. Critics argue that such moves break with long-standing political traditions in the United States.
+
+Recent proposals have included renaming federal institutions, displaying large presidential banners at government buildings and exploring the possibility of featuring Trump on a commemorative USD 250 bill. These actions have sparked ongoing debate about the role of personal branding in public institutions
+
+
+---
+
 ## 29 May 2026
 
 ### No WiFi, no proper roads: In Rishikesh, architect brothers built a Harry Potter-inspired mud house using biomaterials, complete with jungle trails and Ganga views
