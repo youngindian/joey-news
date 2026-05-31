@@ -1,3 +1,1041 @@
+## 31 May 2026
+
+### Messi India Tour organiser Satadru Dutta files FIR against Aroop Biswas over alleged ticket diversion, intimidation
+*Unknown · business*
+
+Kolkata: Satadru Dutta, the main organiser of Lionel Messi's GOAT India Tour-Kolkata Edition, has filed an FIR against former West Bengal Sports Minister, Aroop Biswas, alleging extortion, criminal intimidation, abuse of influence and the illegal diversion and sale of complimentary tickets, accreditation cards and close-proximity passes linked to the high-profile event held in Kolkata last year.
+
+The FIR, lodged at Bidhannagar South Police Station on Saturday, seeks an investigation into Biswas and his alleged associates over their purported role in the distribution and monetisation of event access materials issued for the GOAT India Tour-Kolkata Edition featuring Argentine football legend Lionel Messi at Vivekananda Yuba Bharati Krirangan on December 13, 2025.
+
+In his complaint, Dutta alleged that Biswas, who was the Sports Minister at the time of the event, repeatedly demanded a large number of complimentary tickets, accreditation cards and close-proximity passes and exerted pressure on the organisers.
+
+  
+
+"During the organisation of the event, Aroop Biswas, the then Sports Minister, repeatedly demanded a substantial number of complimentary tickets, accreditation cards and close-proximity passes and continuously threatened and pressured me by stating, directly and indirectly, that without his intervention, the event would not be permitted to take place smoothly and would face serious obstacles," the FIR stated.
+
+Dutta further alleged that he was compelled to hand over around 22,000 complimentary tickets, accreditation cards and close-proximity passes due to fear that the event could face disruption.
+
+"Acting under such coercion, intimidation, and fear of disruption of the event, I was compelled to hand over approximately 22,000 complimentary tickets, accreditation cards, and close-proximity passes to him. These tickets were not voluntarily given but were obtained through persistent pressure," the complaint alleged.
+
+The FIR comes days after Dutta publicly levelled allegations against Biswas and several officials over alleged irregularities surrounding Messi's visit to Kolkata.
+
+Messi's Kolkata leg of the GOAT Tour descended into chaos as fans who paid high ticket prices at Salt Lake Stadium's event began throwing bottles and attempting to break the gates between the stands after the Argentine legend left early.
+
+Angry fans resorted to vandalism at the Kolkata stadium, alleging poor event management and criticising VIPs and politicians for hogging the football icon's attention and time to the extent that fans did not even get a glimpse of Messi. The situation escalated when angry fans attempted to enter the ground to vandalise the tent and the goal post. To control the situation, police personnel used mild force to disperse the angry crowd from the ground.
+
+Earlier this month, while speaking to ANI, Dutta alleged misconduct by Biswas, his relatives, and other officials over alleged irregularities and security lapses during the showpiece event. He claimed there was pressure over issuing access cards and questioned how unauthorised people entered the venue despite his control over entries.
+
+Dutta also accused Biswas of misuse of tickets and said he faced threats in relation to event access management. He further criticised police handling of the situation. He stated that he has filed a formal complaint, plans to seek Rs 50 crore in damages, and will also pursue a defamation case, insisting that the investigation should be impartial.
+
+"I have come here to file a complaint against the Sports Minister and against his relatives. Furthermore, regarding certain high-ranking government officials and former government officials who entered the venue and specifically regarding the police's failure on that day. The Sports Minister Arup Biswas, who took a ticket from me, I suspect, sold them in the black. He subjected me to severe threats regarding the issuance of access cards," Satadru Dutta said.
+
+"Even after I refused to provide the access cards, people still managed to enter the venue. How did they get in? I have filed a complaint covering all these specific grievances. I will file a lawsuit seeking damages amounting to Rs 50 crore and I will file a separate defamation suit. They made a scapegoat out of me. The investigation must be unbiased," he added.
+
+---
+
+### Trump addresses health concerns, says medical exam results were 'extremely good'
+*SECTIONS Trump addresses health concerns · business*
+
+US President Donald Trump on Sunday said the results of his latest physical examination at Walter Reed Military Medical Center were "extremely good" and highlighted a perfect score on a cognitive assessment.
+
+In a post on Truth Social, Trump said he scored 30 out of 30 on what he described as an approved, high-difficulty cognitive test, calling the result a sign of "extreme intelligence". He also claimed that he had achieved perfect scores on four such tests over the years.
+
+  
+
+"All people running for President and Vice President should be forced to take high difficulty Cognitive Tests," Trump wrote, arguing that Congress should push for mandatory screening of candidates seeking the country's highest offices.
+
+The president contrasted his record with that of previous US presidents, claiming that none had taken an approved cognitive test of similar difficulty.
+
+Trump's health and cognitive fitness have remained subjects of political debate throughout his public career, particularly as questions over the age and health of senior political leaders have featured prominently in recent US election cycles.
+
+---
+
+### I tried to sell my house with a chatbot
+*Karan Mahadik · technology*
+
+I was sitting in my car when I got a phone call that was potentially worth more than half a million dollars. It was a real estate agent whose client was considering making an offer on my house. She wanted to clarify a few details, including: Had I really handled the whole listing privately? She couldn’t quite believe that I was an amateur.
+
+“So — you’re not a Realtor?” she asked.
+
+“No,” I said. “It’s the first house I’ve ever sold.”
+
+“I’ve been in this job for, well, more than a day, and I was sure you were a Realtor,” she said. “Everything — the language you used, the organization, the emails.”
+
+But none of that was me. It was all AI.
+
+A few days earlier, I had pressed go on an experiment involving my family’s single largest financial asset. Could I sell our home without a human real estate agent, relying almost entirely on a couple of chatbots?
+
+As a technology journalist, I had watched artificial intelligence transform medicine, business and even warfare. But I didn’t know how it would function in the far more intricate world of Hudson Valley real estate.
+
+“Can we really do that?” my wife asked. “We don’t know anything.”
+
+Story continues below this ad
+
+“Just trust me” was the best I could come up with. “AI can handle it.”
+
+Our three-bedroom, two-bath ranch was set on a marshy acre in upstate New York. My wife and I had bought the house for about $520,000 four years ago, and I quickly fell in love with its vaulted sunroom and giant kitchen island, where we’d gather for Cheerios every morning and the occasional Negroni at night. But in March, with a second child on the way, we decided it was time to move. In the beginning, we expected to do what 91% of people do when they sell a home: Hire a real estate agent.
+
+The single most important part of the process is setting the listing price, and agents say they play an essential role — using their wealth of experience to synthesize market data with intangibles like local demand and neighborhood quality. My wife and I figured our house could fetch $550,000, but that was pure guesswork, based on nothing more than glancing at Zillow. We looked forward to the agents’ more sophisticated approach. Yet when we interviewed a few and mentioned that figure, they mostly just shrugged and agreed.
+
+A few days later, I got curious about how our home would look to potential buyers, so I gave an AI chatbot the basic details and asked for a listing description. It generated glowing prose — describing an “inspiring” place that was “flooded with light” and “perfect for bird lovers.”
+
+Story continues below this ad
+
+So much of a real estate agent’s job seemed straightforward: Follow the rules; take cues from comparable homes. Any human edge that agents may have once provided seemed archaic. They no longer have total control of listings or home sale data, and the personal networks that once helped a property sell have long since been obviated by websites like Zillow and Redfin.
+
+With my wife’s support, I decided to replace the agent entirely with AI.
+
+Once I started using AI, I couldn’t stop. To get our house ready for sale, I asked hundreds of questions over three weeks. When I needed to hire a photographer, the chatbot offered a list of local businesses, then gave advice on staging. It told me how to organize the resulting photo gallery for maximum impact. (Exterior &gt; kitchen > floor plan.) As I obsessively fine-tuned the listing language, it indulged my every request.
+
+Real estate agents used to tightly control access to the Multiple Listing Service, the master database of homes for sale. But a rule change more than 20 years ago allowed those listings to circulate far more easily online, and I used a service called Homecoin to publish mine for $200. The documents I needed to fill out were intimidating at first, but AI quickly explained jargon like “selling concessions” and “automated valuation model.”
+
+Story continues below this ad
+
+The chatbot did make one major mistake. I wasn’t using an agent to sell, but I would still be expected to pay the eventual buyer’s agent a commission of up to 3%. When I complained about this to the chatbot, it said I should explain in the listing that I was offering 0%. That’s not allowed, under a 2024 settlement that would have exposed me to fines. Thankfully, I knew that already, because Homecoin had flagged it as a common mistake.
+
+Aside from that snag, AI made the process of creating and submitting our listing feel easy. I arranged for it to be published Thursday, March 19. That morning, when I logged into Zillow, my home popped up right away. It blended in perfectly with the houses represented by real estate agents. It was impossible to tell that I had no idea what I was doing.
+
+A flurry of bookings to view our house over the coming weekend arrived in my inbox within hours. I struggled to manage the appointments until, again, I just let the chatbot do everything for me. I told agents that they had to email or text — no phone calls. Whatever they wrote, I copied and pasted into the chatbot; whatever it replied, I copied and pasted right back to the agents. I was worried that pushy ones would prey on my inexperience, so I had the chatbot come up with a list of potential conflicts and write confident responses I could have ready.
+
+It was now almost impossible for me to make a decision without getting AI’s opinion. By Friday evening, I was starting to worry that the interest in our house was a little too strong. We had nearly 20 viewings scheduled for the weekend. I confessed to the chatbot my anxiety that we had underpriced the home. It offered some needed reassurance, saying that by pricing low, I had stumbled into an “accidental strategy” that could result in multiple offers. “When you get 1,100 views and 91 saves, you haven’t just listed a house; you’ve started a localized ‘gold rush,’” it wrote.
+
+Story continues below this ad
+
+On Monday, I took stock. After a weekend full of showings, we had lots of rejections. Everything from the neighbors to the price seemed like problems. One buyer said the house was too small; another complained it was too big.
+
+The chatbot insisted that this did not matter. “I know hearing ‘no’ 14 times feels like a series of bad dates,” it wrote, “but in the real estate world, those numbers are a sign that your listing is healthy.” The chatbot was right. I got three offers by our 5 p.m. deadline. All were for a lot more than the asking price.
+
+The chatbot raved about our shared victory. But we were entering the stage I dreaded the most: negotiations. I’m the kind of person who gets sweaty palms when asking for a better table at a restaurant, and I’m incapable of shushing someone in a movie theater. So how could I handle the high-stakes back-and-forth of a real estate sale, while my family’s life savings were on the line?
+
+When I looked at our three offer letters, though, I saw something different. They were simple, one-page documents, and only a few things seemed to matter: mostly the price, conditions and deposit. All three bidders waived inspection and appraisal, and they all had healthy financing. I uploaded the offers to the chatbot. It spat out a verdict that my wife and I agreed with: The offer with the most certainty was the winner, even if the price was a smidgen lower than the highest.
+
+Story continues below this ad
+
+Chatting with the bot about possible counteroffers, I struck upon an idea. Would the buyers agree to pay their own agent a 2% commission instead of making me pay? That would instantly save me more than $12,000. If I were using my own agent, making a commission the focus of a negotiation would feel awkward, even insulting. The commission is the lifeblood of the entire industry. But I had no agent to worry about, and my chatbot supported the idea. So I went for it. My counterparty accepted almost instantly.
+
+We accepted the offer at just over $600,000. And my AI experiment came to a close. To handle the closing, I hired a lawyer — a human one — for a small fee.
+
+In the end, using AI netted me more than $90,000. That includes the premium over the asking price, plus the roughly $36,000 in fees I didn’t pay.
+
+I’m not sure how replicable my experience would be for anyone less versed than me in technology. I’m paid to be an expert on AI. Selling the house was a big and complex undertaking that worked in part because I was transacting in a thriving market, with no special circumstances. Many people would probably be happy to pay fees to avoid the hassle. Some will be too afraid to sell their home without a paid professional in their corner — someone who knows all the rules and, unlike a bot, is obligated to follow a code of conduct.
+
+Story continues below this ad
+
+But I’m persuaded that AI may well transform real estate agents into something more like travel agents. Once essential to navigating an opaque process, they could soon become more of a nice-to-have for busy people who want a more carefree experience.
+
+Selling my home for $605,000 without any agent fees put as much cash in my pocket as a $643,000 sale when paying agents their normal commission. Maybe I could have sold for more with a human’s help, but that wouldn’t have necessarily benefited me. (And it certainly wouldn’t have benefited the buyer.) The only people guaranteed to gain would have been the real estate agents.
+
+---
+
+### AUKUS deal streamlined: Australia to receive used US nuclear powered submarines for cost-effectiveness
+*SECTIONS AUKUS deal streamlined Australia · business*
+
+Australia will only receive used nuclear-powered submarines from the United States as part of an agreement to "streamline" the AUKUS deal, with the move branded on Sunday as a "cost-effective" measure by Defence Minister Richard Marles.
+
+The two nations — together with the third partner in their security pact, Britain — met at Singapore's Shangri-La Dialogue, which brings together top defence officials and experts from about 45 countries.
+
+Under the 2021 AUKUS deal, Australia is expected to receive at least three so-called "Virginia-class" nuclear-powered submarines from the United States within 15 years.
+
+  
+
+Australia had been expecting to receive two used submarines and one new one, but the countries announced Saturday that all three will now be in-service vessels from the US Navy stock.
+
+When asked why Canberra was now receiving only used equipment, Marles, who is also deputy prime minister, told reporters on Sunday it would be more cost-effective.
+
+"In the context of a very complicated endeavour, we need to place a premium on simplicity," said Marles, who added that the submarines will also be the same model.
+
+"I cannot overstate the significance of that, both in terms of the submariners who are operating them, but also the people who are working on them to sustain those submarines," Marles said.
+
+"It is definitely cost-effective. And to be clear, this is a very expensive programme... and so we are trying to find every cost-effective option as we walk down this path."
+
+In a joint statement on Saturday, Marles, US Minister for Defence Pete Hegseth, and the UK Secretary for Defence John Healey confirmed the tweak to the submarine agreement.
+
+"The deputy prime minister and secretaries welcomed the proposed approach to streamline Australia's acquisition of Virginia-class submarines (VCS), simplifying supply chain management, operational and maintenance requirements, and maximising cost efficiencies," the statement said.
+
+"This approach would enable Australia to acquire three in-service VCS in lieu of a mixture of new and in-service VCS variants."
+
+The US Navy has 24 Virginia-class vessels but American shipyards are struggling to meet production targets set at two new boats each year.
+
+In the United States, critics have questioned why Washington would sell nuclear-powered submarines to Australia without stocking its own military first.
+
+The AUKUS submarine programme lies at the heart of Australia's defence strategy and could cost up to US$235 billion over 30 years, according to government forecasts.
+
+---
+
+### Meta tool to track employee mouse clicks on collision course with EU privacy rules
+*Karan Mahadik · technology*
+
+Meta Platforms’ plan to collect detailed records of U.S. employees’ computer usage for training its AI models is more extensive than initially described and set to capture non-U.S. data in the process, according to internal documentation seen by Reuters.
+
+The documents introduce fresh complications for the project — a key component of CEO Mark Zuckerberg’s broader plan to transform how the company operates around AI agents — that could draw Meta into a new European privacy fight, rights groups told Reuters. The Facebook and Instagram owner told staff last month it was launching the tool to capture how people use computers, including mouse movements, clicks and navigation through dropdown menus, in order to build AI agents that can perform everyday software tasks autonomously.
+
+The tool, called Model Capability Initiative, or MCI, is pulling in data from more than 200 apps and websites, according to a list Meta shared with staffers. The company said it would impact only U.S. employees and that safeguards were in ⁠place to protect ​sensitive information.
+
+In the weeks since its launch, however, Meta employees have complained that MCI was consuming so much data that it was causing their home internet usage to spike, in some cases using up an entire month’s quota within days, according to internal posts seen by Reuters.
+
+Meta also acknowledged in a question-and-answer document provided to employees that the tool would capture the contents of any emails or direct messages sent to U.S. personnel, regardless of the sender’s location.
+
+In a statement, Meta spokesperson Dave Arnold said MCI was installed only on U.S. employees’ devices and that its focus was on how people interact with computers, not the content on their screens.
+
+“In the interest of ​transparency, ​we notified non-U.S. employees that it was deployed on the computers of U.S. colleagues they may email or chat with ⁠in the normal course of business,” said Arnold.
+
+Story continues below this ad
+
+He confirmed the approximate number of apps and websites the tool is tracking, but declined to answer detailed questions about how much data it is ingesting and its legality.
+
+“We carefully considered and mitigated potential privacy risks in both the development and deployment of this tool, ‌and we are committed to complying with applicable laws and regulations,” he said.
+
+## GDPR compliance questions emerge
+
+The findings could deepen Meta’s regulatory troubles in the European Union, where tech companies are facing heated legal clashes over how they collect and deploy data.
+
+While U.S. workers have few protections against employer surveillance, companies operating under the EU’s General Data Protection Regulation must have a legal basis for processing personal data, disclose what is collected and meet strict conditions for especially sensitive data like health information.
+
+Story continues below this ad
+
+In Meta’s FAQ document on MCI, one entry addressed the tracking from the perspective of a non-U.S. employee: “I’m based outside the U.S. Will my conversations or data be captured if I’m communicating with a U.S.-based colleague who has the tool enabled?”
+
+The company’s response: “If a U.S.-based colleague has the tool enabled while gchatting or emailing with someone outside the U.S., that activity would be captured.”
+
+Meta also said in the FAQ that data collected by MCI would be “dissociated” from identifying employee information and therefore could not be looked up ⁠or deleted for individuals, a requirement in Europe.
+
+Kleanthi Sardeli, a legal ⁠expert at privacy advocacy group NOYB (“none of your business”), told Reuters that even limited or indirect capture of EU employee data could put Meta in violation of GDPR rules.
+
+Story continues below this ad
+
+Key sticking points could include whether the tool’s collection of European data is considered “incidental” or counted as ⁠monitoring under the GDPR, and whether the initiative can pass a “purpose limitation” ‌test, she added.
+
+“This data was originally collected for the purpose of work communication and fulfilling an employment contract. Taking an employee’s chat and ingesting it into ​an AI model is incompatible with that initial purpose,” said Sardeli.
+
+Meta told the Irish Data Protection Commission, its lead EU privacy ‌regulator under GDPR, that neither EU employee data nor the recording of screen content “falls within the primary purpose of the tool,” a DPC spokesperson told Reuters, without elaborating.
+
+Arnold, the Meta spokesperson, declined to comment on the company’s exchanges with regulators.
+
+Story continues below this ad
+
+## Employee backlash over data scope
+
+The MCI project is part of a far-reaching restructuring at Meta aimed at handing large swaths of ‌work over to AI agents, which has prompted an ​angry backlash among employees, who ​have likened Meta to an “Employee ​Data Extraction Factory.”
+
+In an internal post, one employee shared findings of a detailed analysis of MCI log files performed with the aid of Anthropic’s Claude, the type of AI tool Meta has been pushing staffers to incorporate into their workflows.
+
+According to the analysis — replicated by others — MCI was tacked on to the ​company’s existing data security software, giving it access to additional details including employees’ code changes, their computers’ sleep and wake cycles, ⁠URLs visited and any clipboard content they copy and paste, which it then stored less securely in unencrypted form.
+
+Compiling that volume of data would make it possible to build “a complete behavioral model of how a knowledge worker does their job,” the employee wrote.
+
+Story continues below this ad
+
+“Not ‘an AI that clicks a dropdown for you’ but ‘an AI that knows which dropdown to click, what to select, which document to paste it into, and what to do ‌next,’” she wrote.
+
+The employee’s post later ⁠vanished, two other employees told Reuters.
+
+Arnold, the Meta spokesperson, called the post’s conclusions “fundamentally inaccurate,” but declined to address questions about its claims or say whether the company had removed it.
+
+Johnny Ryan, director of the Irish Council for Civil Liberties’ Enforce unit, said the exchanges inside Meta reinforced why he considers it “essential” that ​the DPC investigate the initiative.
+
+Story continues below this ad
+
+“This situation, this case, is not limited to Meta employees. It relates to every employee in every sector where they could be replaced. Everybody cares about this if they understand what it is,” he said.
+
+---
+
+### PM Modi pays tribute to Lokmata Ahilyabai Holkar on her birth anniversary, recalls her contribution to nation-building
+*Unknown · business*
+
+New Delhi: Prime Minister Narendra Modi on Sunday paid tribute to Lokmata Ahilyabai Holkar on her birth anniversary, recalling her immense contributions to public welfare, cultural preservation, and nation-building.
+
+In a post on X, the Prime Minister offered his salutations to Ahilyabai Holkar and remembered her for her intelligence, compassion, and unwavering commitment to the welfare of the people.
+
+Highlighting her legacy, PM Modi said that her life remains an exemplary model of good governance, patriotism, and cultural pride. He noted that she led with courage and a strong sense of duty throughout her life.
+
+  
+
+"On the occasion of the birth anniversary of Lokmata Ahilyabai Holkar Ji, countless salutations to her! The entire nation remembers her with respect and honour for her intelligence, compassion, and unwavering dedication to public welfare. Her life is an exemplary model of good governance, patriotism, and cultural pride," the Prime Minister wrote.
+
+"She always led with courage and a commitment to duty. From the reconstruction of sacred temples and pilgrimage sites across the country to ensuring justice and welfare for all, she made unparalleled contributions. She further strengthened India's cultural consciousness. Her devotion to society, culture, and nation-building will continue to inspire every generation of the country," he added.
+
+  
+
+> लोकमाता अहिल्याबाई होल्कर जी को उनकी जयंती पर कोटि-कोटि नमन! बुद्धिमत्ता, करुणा और जनकल्याण के प्रति अटूट निष्ठा को लेकर पूरा देश उन्हें आदर और सम्मान के साथ स्मरण करता है। उनका जीवन सुशासन, राष्ट्रभक्ति और सांस्कृतिक गौरव का एक उत्कृष्ट उदाहरण है। उन्होंने सदैव साहस और…
+> 
+> — Narendra Modi (@narendramodi) May 31, 2026
+
+Modi further highlighted her contributions, ranging from the reconstruction of sacred temples and pilgrimage sites across the country to ensuring justice and welfare for all sections of society.
+
+Lokmata Ahilyabai Holkar is remembered for her people-centric policies, deep commitment to economic and socio-cultural issues, especially those that affected the lives of women. She encouraged the education of women and their participation in the social and religious life of the local community. She supported and encouraged women weavers to make Maheshwari sarees.
+
+Her contributions were wide-ranging, from infrastructure development (water bodies, roads, dharamshalas) to the reconstruction and revival of temples across the length and breadth of the land. The edifices created by her have not only left an indelible mark on India's cultural and spiritual landscape but also stood the test of time.
+
+---
+
+### Delhi High Court ruling on Google keyword ads could reshape online advertising
+*Karan Mahadik · technology*
+
+Google Chrome is the most used browser on the planet. (Image Source: Google)
+
+An Indian court ruling that Google infringed the trademark rights of a bathroom fittings maker by allowing rivals to use its name as an advertising keyword could reshape the online ads market, Indian businesses said on Friday.
+
+The court ordered Google to pay ⁠damages ​of $31,600 in a ruling issued on May 22 by the Delhi High Court, which businesses have since been responding to.
+
+\-Google said in a statement it operates ​in ​accordance “with all local laws, and in instances ⁠where the orders are overbroad or inconsistent with our policies, we work to explain ‌our position as per the legal process”.
+
+\-The court said Google allowed rivals of India’s Hindware to use “Hindware” as a keyword to target their own advertising.
+
+\-The ruling said “the manner in which Google operates its AdWords Policy makes it clear ⁠that Google ⁠sells or auctions the use of the trademark … without any authorisation from the proprietor of ⁠the ‌trademark.”
+
+\-Lawyers, Indian businesses and brand ​managers on Friday took to social media ‌to support the ruling, which they said will have major implications.
+
+\-Nithin Kamath, founder of ‌Indian brokerage ​firm Zerodha, said ​his ​brand had suffered from similar issues for years, and the ruling “now opens up a ​route for legal recourse”.
+
+Story continues below this ad
+
+\-“You create the ⁠brand. Someone else bids on it. Google takes the fee,” said Anupam Mittal, founder of Indian matchmaking company, ‌Shaadi.com. The ⁠ruling “could change the economics of online advertising for millions of businesses.”
+
+\-Google counts ​India as one of its most critical markets.
+
+---
+
+### Kidney damage often shows no symptoms until it’s too late, warns doctor
+*Smarica Pant · general*
+
+## A doctor has warned that kidney damage can progress for years without obvious symptoms. The delay in detection can leave patients needing dialysis or other long-term treatment.
+
+Kidney disease may emerge only after severe damage, doctor warns
+
+Most people expect a serious illness to come with clear warning signs. However, when it comes to kidney disease, that is often not the case. Experts warn that kidney damage can silently progress for years without causing noticeable symptoms, making it one of the most overlooked health conditions.
+
+The kidneys play a vital role in keeping the body healthy. These bean-shaped organs filter waste products from the blood, regulate fluid balance, control blood pressure, and help maintain healthy levels of minerals and electrolytes. Despite their importance, kidney disease frequently goes unnoticed because the organs have an incredible ability to continue functioning even when they are partially damaged.
+
+According to Dr Vishnuvardhan B R, Consultant – Nephrology and Transplant Physician at Manipal Hospital, this adaptability is both a strength and a challenge.
+
+“Our kidneys are remarkable organs with the capacity to adjust to a great extent and compensate for any damage. However, this also means that kidney damage can occur without warning signs until the disease is already far advanced,” he explained.
+
+Experts say that by the time obvious symptoms appear, the kidneys may already have lost around 85–90% of their function. This makes relying on symptoms alone a dangerous approach.
+
+**WHY KIDNEY DISEASE IS CALLED A SILENT DISEASE**
+
+Unlike many other health conditions, chronic kidney disease often develops gradually. In its early stages, people may feel completely normal and continue their daily activities without any indication that something is wrong.
+
+As a result, many patients are diagnosed only when the disease has reached an advanced stage. Some people learn about their kidney failure only after routine blood tests or when they develop complications that require immediate medical attention.
+
+This silent progression is why doctors often refer to kidney disease as a “silent killer.”
+
+**THE EMOTIONAL IMPACT OF A LATE DIAGNOSIS**
+
+One of the biggest challenges of late-stage kidney disease is the shock it brings to patients and their families.
+
+Dr Vishnuvardhan noted that many patients arrive at the hospital believing they are healthy, only to be told that their kidneys are severely damaged and that they may need dialysis.
+
+“For many patients, it feels like they were perfectly fine yesterday and suddenly need lifelong treatment today,” he said.
+
+Such a diagnosis can be emotionally overwhelming. Families often struggle to process the news while also facing concerns about treatment costs, lifestyle changes, and future healthcare needs.
+
+**WHY EARLY DETECTION MATTERS**
+
+Doctors stress that the best way to protect kidney health is not to wait for symptoms.
+
+Regular health check-ups can help detect kidney problems before significant damage occurs. Simple blood and urine tests can identify early signs of kidney dysfunction, even when a person feels healthy.
+
+Early diagnosis offers several important advantages:
+
+-   It provides a chance to slow or stop disease progression.
+-   It may help preserve kidney function.
+-   It can reduce the risk of complications.
+-   It may delay or prevent the need for dialysis or kidney transplantation.
+-   It gives patients and families time to prepare emotionally and financially if long-term treatment becomes necessary.
+
+According to experts, early intervention often leads to better outcomes than when treatment started after severe damage has already occurred.
+
+**WHO SHOULD GET THEIR KIDNEYS CHECKED?**
+
+While everyone can benefit from periodic health screenings, certain groups are at a higher risk of kidney disease.
+
+These include:
+
+-   People with diabetes
+-   Individuals with high blood pressure
+-   Those with a family history of kidney disease
+-   People who are overweight or obese
+-   Smokers
+-   Adults over the age of 60
+-   Individuals with heart disease
+
+Doctors recommend regular kidney function tests for people in these high-risk groups.
+
+**SIMPLE STEPS TO PROTECT YOUR KIDNEYS**
+
+Experts say that maintaining kidney health often starts with healthy lifestyle habits.
+
+Some important steps include:
+
+-   Keeping blood pressure under control
+-   Managing diabetes effectively
+-   Staying hydrated
+-   Eating a balanced diet low in excess salt
+-   Exercising regularly
+-   Avoiding smoking and excessive alcohol consumption
+-   Using painkillers only when necessary and under medical advice
+-   Going for routine health screenings
+
+The biggest takeaway, experts say, is that kidney disease should not be judged by how a person feels.
+
+Because the kidneys can continue functioning despite significant damage, symptoms may not appear until the disease is already advanced. By then, treatment options may be limited to dialysis or kidney transplantation.
+
+Regular health checks, awareness of risk factors, and early medical intervention remain the most effective tools for protecting kidney health.
+
+“Identifying kidney damage before symptoms develop gives patients the best chance of recovery and the best possible outcomes,” Dr. Vishnuvardhan said.
+
+For a condition that often stays hidden for years, early detection could make all the difference.
+
+\- Ends
+
+Smarica Pant
+
+May 31, 2026 10:00 IST
+
+---
+
+### BJP condemns attack on Abhishek Banerjee but says "public anger has to show up somewhere"
+*SECTIONS BJP condemns attack · business*
+
+West Bengal Minister Dilip Ghosh on Sunday condemned the attack on Trinamool Congress (TMC) national general secretary Abhishek Banerjee, but added that it reflected rising public anger against the former ruling party.
+
+Reacting to the attack, Ghosh said no one had the right to take the law into their own hands, but argued that people in West Bengal had been suffering under TMC rule for years.
+
+"What happened to Abhishek Banerjee should not have happened. No one has the right to take the law into their own hands, but the public has been enduring what they've been putting up with for the past 15 years. Every single person has been harassed. The anger inside the public has to show up somewhere," Ghosh told reporters.
+
+  
+
+Ghosh further questioned Banerjee's decision to visit the area amid heightened tensions following the recently concluded Assembly elections.
+
+"Looking at the election results, you should have understood the situation. Why did you go there to play the hero? What will happen if someone who roams around with a convoy of 22 cars tries to act like a hero like that? The public has seen everything, and they were just waiting for an opportunity. Why are you giving people these opportunities?" he added.
+
+Earlier in the day, TMC MP Mahua Moitra claimed that BJP worker Sushmita Dutta was caught on camera pelting stones at Banerjee and accused the party of spreading lies.
+
+"Filthy junglee BJP - stop peddling lies. Normal people not attacking TMC. Sushmita Dutta BJP worker seen with top BJP leaders caught on camera pelting stones at @abhishekaitc. BJP competitive hooliganism," Moitra wrote on X.
+
+The remarks came a day after Banerjee was allegedly attacked with bricks, stones and eggs while visiting Sonarpur in South 24 Parganas district to meet families affected by post-poll violence.
+
+The TMC leader later alleged that the attack was "BJP-sponsored" and claimed there was an attempt to kill him. He added that despite reporting the incident, the police failed to provide adequate protection.
+
+"They wanted to kill me. The whole incident has been captured on camera. We will definitely let the High Court know about this. We will also let the Governor know about this. I will definitely move to court," Banerjee said.
+
+He sustained injuries to his eye during the attack and stated, "They hit my eye with a brick, and I can't open my eye. I was wearing a helmet, otherwise my head would have been split in two. You can make my body fall, but my resolve is strong and stronger; the passion and enthusiasm are still there, and this head won't bow down."
+
+Former West Bengal Chief Minister and TMC chairperson Mamata Banerjee also alleged that the BJP was pressuring hospitals not to admit Banerjee following the attack.
+
+Speaking after visiting him in Belle Vue Hospital, she said, "Those who are in power are threatening all the hospitals and the maximum authorities not to admit Abhishek Banerjee because they don't want him to be treated... In front of me, the police were threatening. They said they need permission. If any patient comes, then you need permission from the BJP party, who will be treated, and who will not. They have become inhuman."
+
+---
+
+### UP Police Constable Exam City Intimation Slip 2026 at uppbpb.gov.in: Direct link, steps to download, exam dates and admit card schedule
+*Trending Desk · business*
+
+The Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB) is set to release the UP Police Constable City Intimation Slip 2026 on May 31, 2026. Candidates who have registered for the UP Police Constable Recruitment Examination 2026 will be able to check their allotted exam city and centre details through the official website.
+
+## Exam City Details for Candidates
+
+The city intimation slip helps applicants know their exam location in advance so they can make necessary travel and accommodation arrangements. It is an important pre-exam document that provides clarity about where the examination will be conducted.
+
+It is important to understand that the city intimation slip is not the admit card. The UP Police Constable Admit Card 2026 will be issued separately a few days before the examination date.
+
+  
+
+The offline OMR-based written examination will be conducted over three days, June 8, June 9, and June 10, 2026. The exam will be held in multiple shifts across key districts of Uttar Pradesh, including Lucknow, Kanpur, Agra, Gorakhpur, Bareilly, Varanasi, and Prayagraj.
+
+After the release of the city intimation slip, the UP Police Constable Admit Cards will be issued between June 1 and June 3, 2026, containing detailed information such as the exact exam centre and shift timings.
+
+  
+
+## How to Download UP Police Constable City Intimation Slip
+
+Once the Uttar Pradesh Police Recruitment and Promotion Board enables the download link, candidates can check their allotted exam city by following these simple steps:
+
+Step 1: Go to the official website at uppbpb.gov.in.
+
+Step 2: On the homepage, click on the link titled “UP Police Constable City Intimation 2026.”  
+Step 3: Enter your Registration Number along with your Date of Birth or Password in the login section.
+
+Step 4: Submit the details to view your assigned exam city and download the slip for future reference.
+
+---
+
+### Ghaziabad 'Bakrid Invite' Murder Case: Main accused Asad, linked to class 11 student Surya Pratap killing, gunned down in late-night police encounter
+*Unknown · business*
+
+A major development has taken place in the Ghaziabad ‘Bakrid invite’ murder case, with the main accused, Asad, being shot dead in a police encounter late on Saturday night. The accused was wanted in connection with the killing of a Class 11 student in Khoda Colony earlier this week.
+
+The incident has triggered shock in the local area, while police say the accused was attempting to flee and allegedly opened fire before being neutralised in retaliatory action.
+
+  
+
+## Who Was the Victim in the Khoda Colony Stabbing Case?  
+
+The victim, 17-year-old Surya Pratap, a Class 11 student of a private school and resident of Navneet Vihar in Khoda Colony, was stabbed during an altercation on Thursday evening near Sharma Dairy.
+
+  
+
+He was rushed to hospital but succumbed to his injuries on Friday afternoon.
+
+According to Surya’s elder brother, Yash, the attack was intentional and brutal.
+
+“My brother and his friends Ayush and Vicky were together. They encountered Asad in the lane. He started abusing and stabbed my brother four times in the abdomen with intent to kill,” Yash told police.
+
+  
+
+## How Did the Ghaziabad Encounter Take Place?  
+
+Police said they received intelligence that Asad was planning to meet associates in the Khoda police station area and possibly flee after collecting money.
+
+Security teams set up checkpoints and began combing the area.
+
+According to officials: “Asad and one of his friends were seen arriving on a bike. The police team tried to stop them, but instead of stopping, they opened fire,” a senior officer said.
+
+Police added that they responded in self-defence, leading to the encounter in which Asad was shot. He was taken to hospital but later died of his injuries.
+
+A constable was also injured during the exchange of fire and is currently receiving treatment.
+
+## ‘Bakrid Invite’ Angle and What Witnesses Said  
+
+The case gained attention due to disturbing claims made by witnesses regarding how the confrontation began.
+
+Friend Vicky, who was present during the incident, said Surya was initially invited by a neighbourhood youth in connection with Bakrid.
+
+He told police: “They met Asad in the lane and the conversation turned into an argument.”
+
+Vicky also recounted the accused’s alleged remarks during the confrontation: “Tumne kabhi bakra halal hote dekha hai?” Asad allegedly asked.
+
+To which Surya reportedly replied: “Nahi.”
+
+Vicky further said Asad then added: “Aao dikhate hain (Come, we will show you).”
+
+He added that when Surya tried to leave, the situation escalated into violence.
+
+## Police Investigation Into Ghaziabad Murder Case  
+
+Police have confirmed that Asad was wanted in the Ghaziabad murder case and was under active search. His motorcycle and weapon were recovered after the encounter.
+
+Officials said a detailed investigation is underway to examine the sequence of events, including the initial stabbing incident and the encounter that followed.
+
+Authorities have assured that all angles will be thoroughly examined as part of the ongoing probe.
+
+_Inputs from TOI_
+
+---
+
+### Mcap of 7 top valued firms erodes by ₹1.54 trn, Reliance takes biggest hit
+*Business Standard · business, entrepreneur, finance*
+
+From the top 10 pack, Reliance Industries, HDFC Bank, Bharti Airtel, ICICI Bank, Tata Consultancy Services (TCS), Bajaj Finance and Hindustan Unilever faced erosion in their valuations
+
+[Read full article](https://www.business-standard.com/markets/news/mcap-of-7-top-valued-firms-erodes-by-1-54-trn-reliance-takes-biggest-hit-126053100110_1.html)
+
+---
+
+### India becomes BlaBlaCar's largest market as fuel price surge boosts carpooling
+*AFP · auto*
+
+New Delhi: Rising fuel prices triggered by the Middle East war are driving a sharp increase in carpooling, with a ride-sharing platform reporting a surge in new users seeking cheaper ways to travel.
+
+The world's largest carpooling platform BlaBlaCar said soaring energy costs have pushed 600,000 additional drivers onto the app this year -- 20 percent more than initially projected -- as commuters look to offset the rising cost of fuel.
+
+In India, its single biggest market with more than 20 million users in 2025, the number of passengers has increased by 40 percent since the start of the US-Israeli airstrikes against Iran on February 28.
+
+  
+
+Last year, the global carpooling leader posted record-breaking figures in the world's most populous country India -- outpacing Brazil with 19 million users and France with seven million, according to Benjamin Retourne, the platform's product director.
+
+This trend has been more pronounced in countries where fuel price increases driven by the war have been sudden and significant, combined with limited government support, such as in France.
+
+The platform works by connecting drivers and passengers willing to travel together between cities to share costs, with the app in most of its 21 operating nations taking a 20 percent commission.
+
+## Saves fuel
+
+Indian Prime Minister Narendra Modi earlier in May urged the country's 1.4 billion citizens to save fuel by making greater use of carpooling and public transport.
+
+India imports approximately half of its crude oil via the Strait of Hormuz, which Tehran effectively closed in retaliation to US-Israeli strikes launched in February.
+
+Retourne said a decade ago, when BlaBlaCar first launched in India, even "after two or three years, it just wasn't catching on".
+
+The company, founded in France in 2006, therefore stopped investing in the world's fastest growing economy but kept its application running from its Paris headquarters, unlike many large foreign groups that outsourced their services to India.
+
+Growth finally began to pick up after the Covid-19 pandemic, driven by the country's economic and digital acceleration, as well as word of mouth.
+
+Retourne pointed to a growth in private car ownership as well as rapid urbanisation, with 200 million additional city dwellers over the past decade.
+
+"People are very connected," he said, adding that "today, wherever you go, there is 5G".
+
+That proved to be the "recipe for carpooling to take off".
+
+But he was surprised that a driving factor was not the cost -- but rather to avoid often crowded buses or trains.
+
+"The number one reason people choose carpooling is not price, but comfort", he said.
+
+The market potential remains vast, with "a new segment of the population" eager to travel for leisure and visit friends and family.
+
+## 'Saves time'
+
+Assistant bank manager Pratyush Anuraj, 24, from India's financial capital Mumbai, said he used the carpooling platform to travel to his family's home in Pune every weekend -- a 150 kilometre (93 mile) journey of around 2.5 hours.
+
+"It's cheaper than the train, the bus, or a private taxi," he said. "It also saves time, as there are few stops and the vehicle doesn't wait beyond the scheduled time."
+
+He does, however, point out some drawbacks: either the trip is often cancelled at the last minute, or the drivers don't answer calls.
+
+So far, the French platform has not monetised carpooling in India, where people pay each other directly, often using the popular digital UPI mobile telephones payment systems.
+
+It now wants to evolve its model.
+
+The next objective is to "build a platform that aggregates multiple modes of transport" -- connecting cars to buses and trains.
+
+---
+
+### ‘Turned into advertisers’: Punjab school teachers furious after being forced to hand out AAP pamphlets to parents
+*Express News Service · legal*
+
+Parents holding pamphlets during the meetings with teachers in Punjab government schools (Express photo/Special arrangement).
+
+Pamphlets advertising the populist schemes of the AAP-led Punjab government were distributed to over 20 lakh parents who attended the ‘Mega Parent Teacher Meeting’ (PTM) across government schools Saturday.
+
+The four-page pamphlet titled ‘Shaandar 4 Saal, Bhagwant Mann de naal’ (Four glorious years with Bhagwant Mann), apart from the government’s achievements in the education sector, also highlighted the free Tirath Yatra scheme, free power, Gangsteran tey Vaar and Yuddh Nasheyaan Viruddh drives of Punjab Police, Rs 10 lakh CM health insurance cover scheme, **Maawan Dheeyan Satkar Yojana** (Rs 1,000 for each woman), Rs 1 crore ex gratia for families of martyrs, among others.
+
+The pamphlets were distributed in government schools, as Punjab goes for the 2027 Assembly polls in less than a year.
+
+Teachers said that they were directed to distribute the printed publicity material to each parent who attended the PTM. The government had termed Saturday’s PTM as “Sikhiya da Maha Jashan” to celebrate Punjab’s top rank in the NITI Aayog report on school education.
+
+In a statement, the Democratic Teachers Front (DTF), led by Digvijay Pal Sharma, said the government has turned teachers into AAP publicists.
+
+“The education department bureaucracy is now using the parent-teacher meetings for advertising. Pamphlets praising the Punjab government have been handed over to school heads, and orders have been issued to distribute them among the parents and praise the government,” said DTF president Sharma.
+
+“The Punjab government is claiming that according to the NITI Aayog survey, **Punjab has become the number one state in the education sector,** while the reality is that about 1,150 posts of principals and 750 posts of head teachers, as well as about 150 posts of block primary education officers, **are lying vacant**,” said Sharma.
+
+Story continues below this ad
+
+DTF press secretary Rajwinder Baihniwal questioned the state government’s policy of self-promotion. “The Punjab government is claiming to build 45,000 boundary walls and 12,000 new toilets, while the reality is that the state government has only contributed its share in the grant being released under the Centre’s SAMAGRA scheme, which is the duty of every state government. The Punjab government had already inaugurated or laid foundation stones for buildings constructed in schools, the burden of which also fell on teachers’ pockets. The money of the taxpayers was being ruthlessly looted only for publicity and advertisement,” he said.
+
+ Parents and teachers holding the pamphlets during the meetings in Punjab government schools (Express photo/Special arrangement).
+
+## Celebration of rise to top, says government
+
+Meanwhile, in a statement, the Punjab government said that it celebrated “its meteoric rise to the top of the national education rankings by holding Mega PTM across 19,000 government schools.”
+
+Divulging the details of ‘Sikhiya Da Maha Jashan’, Education Minister Harjot Singh Bains said that the grand event marks Punjab’s No. 1 ranking in NITI Aayog’s School Education Quality Report 2026, where it surpassed Kerala, long considered India’s gold standard in school education, on key foundational learning metrics.
+
+Bains informed that teachers and non-teaching staff were felicitated for their relentless efforts. Outstanding students, including board exams toppers, achievers of the English Edge Programme and JEE qualifiers, received special recognition and certificates.
+
+Story continues below this ad
+
+Bains said that over 20 lakh parents attended the Mega PTM and parents’ workshop. The grand event focused on summer learning continuity, holiday homework management, and building positive routines to support their children’s learning during the summer holidays.
+
+To ensure high-quality implementation of the grand event, all teachers and school heads were trained through a live YouTube session. Trained facilitators and active school management committees supported parent mobilisation, coordination and on-ground execution of the activities, he added.
+
+---
+
+### Gen Subramani takes charge as new Chief of Defence Staff: ‘Transformation of armed forces, organisational reforms key focus’
+*Express Web Desk · politics*
+
+Lt Gen NS Raja Subramani speaks to the media during a ceremony marking his assumption of charge as the new Chief of Defence Staff (CDS), in New Delhi, Sunday, May 31, 2026. (PTI Photo)
+
+General NS Raja Subramani Sunday took charge as the new Chief of Defence Staff, news agency _PTI_ reported.
+
+Subhramani succeeded **General Anil Chauhan, who stepped away on Saturday** after ending his tenure as the country’s senior-most military commander.
+
+ Lt Gen NS Raja Subramani accorded a Tri-Services Guard of Honour during a ceremony marking his assumption of charge as the new Chief of Defence Staff (CDS), in New Delhi, Sunday, May 31, 2026. (PTI Photo)
+
+Subramani’s primary mandate will be to put in place the military theaterisation plan and strengthen tri-services synergy.
+
+Taking over as the new CDS, he said, “Transformation of armed forces and organisational reforms to enhance synergy and integration will be the primary focus. We will accelerate the development, induction, and integration of indigenous weapons in our armed forces.”
+
+Known for his expertise on Pakistan and China, Subramani retired as the Vice Chief of Army Staff on July 31 last year, and was serving as the Military Advisor at the National Security Council Secretariat (NSCS) ever since.
+
+Throughout his 40-year career, General Subramani served across a wide spectrum of conflict profiles and held numerous Command, Staff, and Instructional positions.
+
+_**–with PTI inputs**_
+
+© IE Online Media Services Pvt Ltd
+
+---
+
+### Is Ukraine using robots and drones against Russia? Here’s what we know
+*Monica Singh · world*
+
+Ukraine is increasingly relying on drones and robotic systems to fight Russia, reducing the need for frontline troops.
+
+Ukraine's fight against Russia is increasingly being driven by technology, with drones and robotic systems taking on roles that were once performed by frontline soldiers. Military commanders who previously led troops in intense ground battles now oversee operations remotely through live video feeds, digital maps and control stations.
+
+In many missions, unmanned vehicles equipped with explosives are sent toward Russian positions while surveillance drones monitor developments from above. The operations can be conducted without Ukrainian troops entering direct combat zones, reducing risks to personnel while maintaining pressure on enemy forces.
+
+## **From Trench Warfare to Remote Combat**
+
+The shift reflects a major transformation in the nature of modern warfare. Commanders who once relied on traditional battlefield tactics say the growing use of automation has fundamentally changed military operations.
+
+One Ukrainian deputy commander, who previously fought in eastern Ukraine's Donbas region, described the difference as dramatic. He noted that years ago, success depended largely on physical endurance, combat training and battlefield discipline. Today, advanced technology has become a decisive factor in determining outcomes.
+
+Military officials believe many lives could have been saved if such systems had been available during earlier phases of the conflict.
+
+## **Robots Earning a Fearsome Reputation**
+
+According to Ukrainian forces, some captured Russian soldiers have reportedly nicknamed explosive-carrying robotic vehicles "silent death" because of their ability to approach targets with little warning. Troops often become aware of the machines only when they are already dangerously close.
+
+The use of robotic platforms has expanded beyond offensive missions. They are also being deployed to transport supplies, evacuate wounded personnel and support frontline units operating in high-risk areas.
+
+## **Ukraine Expands Unmanned Warfare Strategy**
+
+Ukraine's increased dependence on unmanned technology is largely driven by manpower challenges after years of conflict. With casualties mounting and uncertainty surrounding future foreign military assistance, Kyiv has prioritised domestic production of drones and robotic systems.
+
+President Volodymyr Zelensky recently stated that Ukrainian forces successfully captured a Russian position using only unmanned systems, marking a significant milestone in the country's military strategy. He also revealed that tens of thousands of drone-
+
+## **A Glimpse Into the Future of War**
+
+As the conflict continues, military analysts view Ukraine's battlefield innovations as an indication of how future wars may be fought. The growing reliance on drones, robotics and remote operations is changing combat dynamics and reducing the need for large numbers of troops in dangerous frontline engagements, potentially redefining warfare for years to come.
+
+---
+
+### 9.5K views · 50 reactions | An explosion and fire at a Dallas apartment building killed at least 3 people, including a child, on Thursday. | WVUE FOX 8
+*Unknown · commodity, natural-gas*
+
+An explosion and fire at a Dallas apartment building killed at least 3 people, including a child, on Thursday.
+
+[Read full article](https://www.facebook.com/FOX8NOLA/posts/an-explosion-and-fire-at-a-dallas-apartment-building-killed-at-least-3-people-in/1474618938026042/)
+
+---
+
+### 'You are arrogant': Mamata Banerjee heard scolding Kolkata hospital authorities
+*TOI News Desk · general*
+
+NEW DELHI: A video purportedly showing Mamata Banerjee confronting officials at Kolkata's Belle Vue Hospital has gone viral on social media. The incident reportedly occurred while her nephew and TMC MP Abhishek Banerjee was receiving treatment after the mob attack.In the video, Banerjee is seen speaking sharply to hospital officials and appears to target Belle Vue Hospital CEO Pradip Tandon. According to the viral clip, she can be heard saying, "You're running the hospital, you are arrogant."The footage also shows Abhishek Banerjee lying on a stretcher as medical staff attend to him.Sharing the video on X, BJP commentator Sudhanidhi Bandyopadhyay wrote: "Last night Mamata Banerjee was shouting at the Hospital Authorities of Belle Vue & especially against Mr.
+
+Pradip Tandon (CEO), her arrogance isn't going away either."
+
+BJP West Bengal chief spokesperson also shared the video on X and accused TMC supremo of pressuring hospital authorities despite medical assessments reportedly indicating that Abhishek had not suffered any major injuries."Shame on Mamata Banerjee for allegedly threatening Belle Vue Hospital CEO Pradeep Tandon and pressuring hospital authorities to admit Abhishek Banerjee despite medical reports indicating no significant injuries," he wrote.
+
+"It represents a disturbing attempt to misuse medical institutions for political narratives. Hospitals exist to serve patients based on medical necessity, not political convenience. Any effort to intimidate doctors, administrators, or healthcare institutions undermines public trust and violates the basic principles of democracy and governance," he further wrote. The video surfaced amid a political storm over the alleged attack on Abhishek Banerjee during his visit to Sonarpur in South 24 Parganas district on Saturday.According to West Bengal police, five people have been arrested in connection with the attack, ANI reported. Belle Vue Hospital in a statement said, "There is no serious physical sign of injury except for bruises on the chest. Patient is talking and is full conscious and oriented. Hence, the patient does no require any admission." 
+
+Visuals from the scene showed his shirt torn during the scuffle as security personnel escorted him away.
+
+Following the incident, Mamata Banerjee alleged that hospitals and doctors were being pressured over Abhishek Banerjee's treatment. Addressing reporters, she claimed that hospital authorities had received threatening calls and were allegedly being discouraged from admitting the TMC MP despite medical advice."Those who are in power are threatening all the hospitals and the maximum authorities not to admit Abhishek Banerjee because they don't want him to be treated," Banerjee alleged."When I was sitting with the hospital administrator, he told me that he was getting threat calls from the police. Doctors are sad, but they are pressured," she said.The allegations triggered a fresh political row, with Leader of Opposition in the Lok Sabha Rahul Gandhi expressing support for Abhishek Banerjee and condemning the attack. According to Mamata Banerjee, Rahul personally called her and offered assistance, including helping arrange treatment for the TMC leader outside West Bengal if required.The BJP has denied any involvement in the attack, while several Opposition leaders, including Congress president Mallikarjun Kharge and Samajwadi Party chief Akhilesh Yadav have condemned the incident and demanded action against those responsible.
+
+---
+
+### Two market manipulation stories, one lesson | Mint
+*Dhirendra Kumar · economy*
+
+Insiders have always sought to trade ahead of information. (AI-Generated Image)
+
+Summary
+
+The market has never been a level playing field, and recent events have merely underscored how uneven it remains. The rational response is not to chase headlines, but to avoid playing a timing game
+
+A few days ago, Securities and Exchange Board of India's (Sebi) 234-page interim order against Hemant Gupta and six members of his family offered a detailed account of how a finfluencer operation allegedly accumulated positions in 82 small and medium enterprise (SME) stocks, promoted them through X handles and Telegram channels with tens of thousands of followers, and then sold into the buying frenzy it had created, earning an estimated ₹20 crore in unlawful gains. It was a substantial piece of regulatory work
+
+That same week, financial markets were abuzz with reports of traders placing nearly a billion dollars' worth of oil futures bets 15 minutes before US President Donald Trump posted on Truth Social about "productive conversations" with Iran. The post sent crude prices tumbling and equities rallying within minutes.
+
+Read side by side, the two stories become difficult to separate. The Gupta case is about Sebi cracking down on influencer-driven market manipulation. It is also a scale model of something happening at the highest levels of global finance, where the mechanism is similar.
+
+The American story has been building for months. Reports in March and April highlighted large and well-timed positions in oil and S&P futures ahead of Trump's posts about pauses, negotiations or ceasefires involving Iran. Each post triggered sharp market moves, with crude prices falling by as much as 10-15%, and the trades, by the most conservative estimate, running into hundreds of millions of dollars.
+
+The polite description is that the pattern is 'unusual' and 'warrants investigation', and Trump's opponents have duly written letters to the SEC and the CFTC. The less polite framing is that someone close enough to know what the US President is about to post is trading on that knowledge, and doing so often enough that coincidence has become an increasingly difficult explanation.
+
+None of this is new in principle. Insiders have always sought to trade ahead of information. What has changed is the scale, speed and visibility. A scheme like the Gupta family's might once have taken months to build; today it can be assembled rapidly across multiple channels.
+
+Viewed together, the two cases show how the entire architecture of finfluencer regulation that Sebi is building (the registration requirements, the prohibitions on unregistered recommendations, the impounding of gains, the freezing of accounts) rests on one tacit assumption: that the finfluencer can actually be reached.
+
+A finfluencer operating from India with Indian bank accounts and securities holdings is eminently reachable. The world's most market-moving social media account, held by the president of the world's largest economy, is effectively beyond the reach of any securities regulator. Those positioned to trade on its contents in advance are, for now, reachable only by sternly worded protest letters.
+
+Treating the Trump-linked trades as a distant problem misses the larger point. The Gupta case and the trades around the White House sit at opposite ends of the same spectrum. At one end is a family allegedly pumping SME stocks to Telegram followers. At the other end is somebody in or near the US President's circle front-running posts that move the global oil market.
+
+Between them is the retail investor, who reacts to news after it breaks, performing the same role: providing exit liquidity for whoever got there first.
+
+Ignoring the news is, on balance, the most profitable thing a small investor can do. By the time news reaches the public, it has often already been traded upon. Sometimes by operators who may eventually face regulatory action. Sometimes by people who are unlikely to face any consequences at all.
+
+The market has never been a level playing field, and recent events have merely underscored how uneven it remains. The rational response is not to chase headlines, but to avoid playing a timing game that others are structurally better positioned to win. The sensible response is not to chase the news but to avoid playing a timing game.
+
+### About the Author
+
+Dhirendra Kumar (Value Research)
+
+Dhirendra Kumar is the founder and chief executive of Value Research, India's oldest independent investment research organisation. Founded in 1992, Value Research has no affiliation with any fund house, distributor, or financial product manufacturer. This structural independence has defined Kumar's approach to investing and financial journalism for over three decades.<br><br>Kumar has written about personal finance for Indian households across leading publications for more than three decades, including for Hindustan Times and, now, Mint. His writing addresses a single enduring question: how should an ordinary Indian investor make sound decisions about their money, without being misled, overwhelmed, or sold to? The answer, as his columns consistently demonstrate, lies not in market prediction or product promotion, but in evidence, discipline, and time.<br><br>As the architect of Value Research's ratings, among the most referenced in the Indian advisory ecosystem, Kumar brings three decades of proprietary research and fund performance data to every piece he writes. Value Research's ratings and editorial opinions are not influenced by its advertising relationships. No fund house can buy a better rating or a favourable column. He serves on the advisory committees of SEBI, PFRDA, and IEPFA.
+
+---
+
+### True friendship developing: US defence chief's praise for Asim Munir, Pakistan
+*India Today World Desk · general*
+
+## Pete Hegseth said the US does not currently regard India or Pakistan as a missile threat. His remarks highlighted Washington's effort to deepen ties with both countries amid shifting South Asian security dynamics.
+
+The Pentagon chief reaffirmed Washington's growing strategic partnership with India. (File photo)
+
+US Defense Secretary Pete Hegseth on Saturday highlighted what he described as improving ties between Washington and Islamabad, praising Pakistan's civilian and military leadership and calling the evolving relationship with the United States an important development for regional peace.
+
+Speaking at the Shangri-la Dialogue in Singapore, Hegseth said US President Donald Trump had developed a "true friendship" with Pakistan's leadership and credited Islamabad with playing a constructive role in efforts aimed at maintaining stability in South Asia.
+
+"I very easily could have mentioned Pakistan and the role that the field marshal and the prime minister are playing in peace negotiations," Hegseth said, referring to Pakistan Army Chief Field Marshal Asim Munir and Prime Minister Shehbaz Sharif.
+
+Calling the warming ties between Washington and Islamabad "an unexpected development", Hegseth said the relationship was becoming increasingly important. He also pointed to what he described as President Trump's role in helping broker peace between India and Pakistan, two nuclear-armed neighbours.
+
+### 'INDIA AND PAKISTAN ARE NOT A MISSILE THREAT FOR US'
+
+Hegseth's remarks came during a discussion on regional security, where he was also asked about the missile capabilities of India and Pakistan. Responding to the question, he said the United States does not currently view either country as a missile threat.
+
+"We're not pointing a finger at either country and calling them a threat to us," he said, adding that both India and Pakistan face legitimate security concerns from each other and are likely to continue developing strategic deterrence capabilities.
+
+The question referenced testimony by Tulsi Gabbard before the US Senate Intelligence Committee in March, during which she listed Pakistan among countries developing missile systems capable of eventually putting the US homeland within range.
+
+At the same event, Hegseth also reaffirmed Washington's strategic partnership with India, describing the country as "a critical anchor" in South Asia. He praised India's military modernisation efforts and confirmed that the two countries were moving ahead with plans for co-production of Javelin anti-tank guided munitions, while expanding cooperation in the Indian Ocean region.
+
+\- Ends
+
+Ritaban Misra
+
+May 31, 2026 09:32 IST
+
+---
+
+### How an Indian figured out the science of sound 17 centuries before the West did
+*Radifah Kabir · general*
+
+It looks like something you would carry water in: a round-bellied pot of baked clay, narrow-mouthed. Then the musician draws it against his bare stomach, lays his fingers on the clay, and the pot begins to speak.
+
+A bass note that deepens as he presses the pot into his stomach, a clear high tone struck near the rim, and a fast flutter of fingers that races the beat and settles back upon it.
+
+The vessel is singing, and there is no trick. The _ghatam_ is the clay pot at the rhythmic heart of South Indian Carnatic music, fired in the Tamil Nadu town of Manamadurai from clay threaded with tiny shards of brass.
+
+A ghatam player coaxes a full range of pitches from a single clay pot, deepening the bass by pressing its mouth against the stomach and drawing crisp, higher tones from near the rim. (Photo: Unsplash)
+
+It carries a question the world took 2,000 years to answer: what kind of instrument is a singing pot?
+
+It has no strings, no skin stretched across it like a drum. There is only the clay, the whole body of it trembling when the hand lands.
+
+To know where it belongs, beside the bell, not the drum, you need a system for sorting every sound made.
+
+The Natya Shastra, Bharata Muni's treatise on performance, in Manomohan Ghosh's English translation. (Photo: X)
+
+The West built one, named after two Germans, and treats it as the origin of the science of sound.
+
+But the logic at its heart was reasoned out in India 17 centuries earlier, written into a Sanskrit treatise called the Natya Shastra, and carried to Europe by an Indian scholar whose name the West forgot.
+
+This article, the latest instalment of the _Science of Sound_ series, is the story of who answered first. The next part will take up the German system that grew from this Indian foundation, and the science of why a _raga_ moves us at all.
+
+### THE FOURFOLD ANSWER
+
+Sometime between the first century before the Common Era and the second century after it, a scholar named Bharata Muni completed that treatise, a work so ambitious it still has no real equivalent.
+
+It treats dance, drama, poetry, prosody, stagecraft and music as one science of performance, seven of its chapters on sound alone.
+
+In Chapter 28, Bharata makes a claim of extraordinary nerve. Every musical instrument that exists or could ever exist, anywhere on Earth, can be sorted into four groups by the physical thing that vibrates to make the sound.
+
+Four groups, he argues, are enough. Four are necessary. Four are complete.
+
+The first, _tata vadya,_ is sounded by a stretched, vibrating string. The _veena_, the _sitar_, the _tanpura_, and the violin are stringed instruments.
+
+The second, _sushira vadya_, by a vibrating column of air. The flute, the _shehnai_, and the _nadaswaram_ are wind instruments.
+
+Shehnai maestro Ustad Bismillah Khan performs as sarod player Ustad Amjad Ali Khan looks on during their jugalbandi in Delhi on August 18, 2003. (Photo: PTI)
+
+The third, _ghana vadya_, is a solid instrument of metal, stone, wood or fired clay that rings as a whole body. Cymbals, bells, _manjira_, _ghatam_, and _ghoongroo_ are solid instruments.
+
+The fourth, _avanaddha vadya_, is faced with a stretched membrane that beats when struck. The drum, the _tabla_, the _dhol_, and the _mridangam_ are percussion instruments.
+
+The _ghatam_, whose entire clay body vibrates when struck, is _ghana vadya_, akin not to the drum it sits beside on stage but to the bell.
+
+Most of the finest ghatams come from Manamadurai in Tamil Nadu, where the clay is mixed with fine shards of brass to give the pot its bright, ringing voice. (Photo: Unsplash)
+
+There is a quiet marvel in that placement. The _ghatam_ may once have been a drum: its earliest forms, some scholars believe, had a skin across the mouth, gone by the sixth century, after which the pot became a body that sings on its own.
+
+A single instrument had crossed from one of Bharata's classes into another, and his system catches that, because it never asks what an instrument is made of or called, only what, precisely, is vibrating.
+
+Those four divisions map, almost without a seam, onto the four primary classes that modern museums and scholars still use, the Hornbostel-Sachs classification.
+
+A ghatam rests on its ring-shaped base, narrow-mouthed and round-bellied, looking every bit the ordinary clay pot it descends from, until a player presses its mouth to the body and the whole vessel begins to sing. (Photo: Unsplash)
+
+According to a paper published by the German musicologists Erich Moritz von Hornbostel and Curt Sachs in 1914 and translated into English in _The Galpin Society Journal_, Vol. 14, in March 1961, musical instruments can be divided into four classes: chordophones, aerophones, idiophones and membranophones.
+
+Chordophones are stringed instruments, aerophones have a vibrating column of air, idiophones produce sounds through the vibration of the entire solid body, and membranophones have a stretched skin.
+
+The Hornbostel-Sachs classification system arrived 17 centuries after Bharata, who devised the Natya Shastra not by sorting instruments by resemblance but by reasoning from physics.
+
+A bronze Nataraja, Shiva as the lord of dance, ringed by a circle of flame. The same image presides over the Natya Shastra, the treatise that wove dance, drama and music into a single science of performance. (Photo: X)
+
+The principle sounds almost too plain to be powerful. A string vibrates. A column of air vibrates. A solid body vibrates. A membrane vibrates. Acoustically, that exhausts the possibilities. Everything else is elaboration on one of those four events.
+
+“All instruments, anywhere in the world, invariably come under one of these classifications,” musicologist and educationist Pappu Venugopala Rao renders directly from the music chapters of the Natya Shastra.
+
+Two thousand years on, the claim holds. The only large thing modern organology, or the science of how we classify instruments, has added is a fifth class, electrophones, which carry sound through electronic circuitry.
+
+A notched wooden scraper, played by drawing the rod across its carved ridges so the body itself rasps and rings. It is an idiophone, or ghana vadya in the Natya Shastra, the same family of solid sounders as the bell, the gong and the clay ghatam. (Photo: X)
+
+This new class was folded in by the MIMO Consortium, a partnership of instrument museums, in 2011. A man writing before the Common Era can be forgiven for not anticipating the synthesiser.
+
+What is so often missed is that the Natya Shastra was not idle speculation. It is full of working acoustics.
+
+Bharata described measuring the 22 _shrutis_, the microtonal steps into which Indian music divides the octave.
+
+A string makes sound by vibrating, and the faster it vibrates, the higher the pitch.
+
+The number of vibrations per second is its frequency, and two strings are in tune when their frequencies match exactly, sounding as one. A _shruti_ is the smallest difference in pitch the human ear can detect.
+
+A 19th-century engraving of an Indian musician with a gourd-resonator string instrument, a tata vadya, or string sounder, in the Natya Shastra's scheme. Such images carried Indian music into the Western eye in the very decades Tagore was exporting its theory. (Photo: X)
+
+Imagine sliding orange toward red, shade by shade: the last point where you can still tell them apart is one _shruti_.
+
+Bharata's method was this, in sound: he tuned two identical _veenas_ alike, then loosened one string by the tiniest amount, until the two stopped sounding unified, and the ear caught them as two notes.
+
+That gap was the measurement. A note is what the ear hears when an object vibrates at one steady frequency, a regular wave rather than the chaotic jumble that makes noise.
+
+So, plainly: pitch is the quality of highness or lowness of a sound, a tone is a smooth sound with a clear pitch, and a note is a named tone musicians build music from.
+
+Bharata Muni, author of the Natya Shastra, in a metal relief beside a dancing Nataraja, part of a waste-to-art installation in Delhi.
+
+Both Indian and Western music name seven notes, _Sa Re Ga Ma Pa Dha Ni_ and _Do Re Mi Fa So La Ti_, but these are just the main notes, and there are smaller steps hidden between them.
+
+The West splits the octave into 12 of these small steps, while Indian classical music splits the very same stretch into 22 even finer ones called _shrutis,_ the way a millimetre ruler sees distances a centimetre ruler misses.
+
+Bharata gives a whole chapter to _tala_, the architecture of musical time, writing bluntly that a musician who does not know rhythm is fit neither to sing nor to play.
+
+This was a civilisation measuring sound exactly, long before it owned any instrument but the ear.
+
+### THE SCHOLAR WHO SENT INDIA'S SOUND TO EUROPE
+
+For most of the next 2,000 years, that knowledge stayed within the Sanskrit and regional traditions, refined by theorists such as Sarngadeva but rarely known to the world beyond India.
+
+The man who changed that, and who belongs nearer the centre of this story than he is usually allowed, was the Bengali aristocrat and musicologist Sourindro Mohun Tagore.
+
+According to the Metropolitan Museum of Art, which holds many of the instruments he sent into the world, he became one of the most determined ambassadors Indian music has ever had.
+
+Smooth, red and unremarkable, this is the everyday earthen pot from which the ghatam is born; only the choice of clay, the evenness of its walls and the skill of the potter separate a water jar from a tuned instrument.
+
+Born in Calcutta in 1840 into the Pathuriaghata branch of the Tagore family, he rendered the deep theory of Indian music into terms the 19th century West could read, without letting it pass as curiosity.
+
+In 1875, he published, in Bengali with notes in English, the Yantra Kosha, a treasury of musical instruments and the first concise modern catalogue of its kind.
+
+According to it, the fourfold scheme Indian theory had carried since Bharata held firm: _tata, sushira, ghana_ and _anaddha_, which mean string, air, solid and membrane, respectively.
+
+Then Tagore did something shrewder than publishing. He sent the instruments themselves abroad.
+
+A player strikes tuned slabs of rock laid over the Earth, drawing distinct notes from the stone itself. This is a lithophone, the stone instrument that is, to the Natya Shastra, ghana vadya, kin to the bell and the gong. (Photo: X)
+
+In 1876, a gift of close to a hundred Indian instruments reached the Musical Instruments Museum in Brussels. His books travelled with musical instruments, and the curator was commissioned to catalogue the collection.
+
+So the curator held not only the objects but Tagore's own framework for reading them.
+
+The knowledge did not drift westward by accident. An Indian scholar exported it, with the theory needed to read it, at the very moment Europe was building the institutions that would define the field.
+
+The politics of that moment matter, because science does not float free of it.
+
+Shaped and graded by a maker who trusted the ear over any instrument, these stone bars, or lithophones, hold their pitches the way a xylophone's wooden keys do, proof that rock, cut to the right size, can be tuned as precisely as any metal or wood.
+
+The great European instrument collections of the 19th century were assembled inside the machinery of the Belgian, British, French and other colonial enterprises, then carving up Africa and Asia, stocked in part with objects taken from colonised societies and shown as specimens of other people’s ingenuity.
+
+Tagore worked inside that asymmetry and tried to bend it, using correspondence, gifts and relentless publication to place Indian musical science into European scholarship on his own terms.
+
+That he survives as a footnote in most Western histories of organology, while the men who received his work supply the headline, is itself part of this series's reason for being.
+
+### THE LOGIC EUROPE BORROWED
+
+The curator in Brussels was Victor-Charles Mahillon, a Belgian instrument-maker and acoustician who in 1877 became the first head of what is now the Musical Instruments Museum, a collection that would grow past 4,000 instruments.
+
+His difficulty was not acquiring them but arranging them. The system he settled on divided every instrument into four classes by the nature of the vibrating body, classes that were, in all but name, Bharata's. Not a coincidence, but transmission.
+
+The judgment is not this article's alone.
+
+Dr Arun M Kumar, who teaches engineering design at IIT Madras, tells IndiaToday.in that the Hornbostel-Sachs scheme “is on the lines of the Natya Sastra,” because Mahillon “classified the collection of thousands of musical instruments around the world using the Natya Sastra system that he learnt from S.M. Tagore's books, particularly Yantra Kosh.”
+
+The order the West came to treat as its own invention was, on this account, an Indian inheritance that went uncredited.
+
+That single discipline is what made a real classification possible, where others had failed.
+
+A metal singing bowl, sounded by running a mallet around its rim until the bronze hums. It is an idiophone, the bowl's own body vibrating, the same family the Natya Shastra calls ghana vadya. (Photo: X)
+
+Ancient China sorted instruments by the eight materials of their making, placing a metal trumpet beside a metal bell while parting a bamboo flute from a bone one.
+
+Europe, inheriting from Greece and Rome, split them loosely into strings, winds and percussion, confusing what vibrates with how it is played.
+
+Bharata's one question cut through all of it.
+
+### WHAT THE NUMBER CANNOT HOLD
+
+There is a limit to all of this, and it is not a limit of physics, but of what a classification, however elegant, is built to see.
+
+Return to the clay pot. Bharata would have called it _ghana vadya_, and rightly so.
+
+But ask an engineer whether that label captures the _ghatam_, and the answer is a careful no.
+
+The same is true of its cousin the _mridangam_, the two-headed Carnatic drum whose heads carry a loading of tuning paste, applied by hand, that forces the skin's tuneless ring into an ordered, musical series, so the drum sings with the clarity of a string.
+
+To call it a membrane sounder, says Dr Arun Kumar, “describes just the trigger mechanism, but it fails to describe the acoustic phenomena. It obscures the exquisite material science and structural engineering developed over centuries that forces a simple membrane to behave like a perfectly tuned, harmonic stringed instrument.”
+
+The category is not wrong. It is narrow. It says nothing of the centuries of knowledge in the clay of that Manamadurai pot, the brass shards mixed into it, the curing of the wood, the proportioning of a drumhead, knowledge that lives in no system of names because it never lived in writing.
+
+It lived in hands, and in another body of Sanskrit science which the West never folded into its story.
+
+If the Natya Shastra taught how to classify an instrument, the Shilpa Shastras, the ancient treatises on arts and crafts, taught how to make one, codifying the working of wood, stone and metal a drum depends on.
+
+And hands, unlike fired clay, do not last. Dr Savio Sebastian, who spent years in the laboratories of General Motors and General Electric before turning to acoustics at IIT Madras, has watched that knowledge thin out.
+
+“Old artisans had a qualitative knowledge of wood behaviour, and they made the best use of that knowledge,” Dr Savio Sebastian tells IndiaToday.in. “Also, high quality wood was easily available, which is not so any more.”
+
+The loss runs deeper than scarce wood.
+
+Steel is easy to model because it behaves the same in every direction, Dr Sebastian explains, but wood never does: it changes with age, with how it is cut and cured, and differs along the grain and across it.
+
+"It is intractably complex," he says, and so the craftsperson's trained hand could judge what no formula could capture.
+
+A classification records what an instrument is. It has no column for whether anyone alive still knows how to make it.
+
+That same gap, between what a sound is and what it means, runs through the way the music itself is written about.
+
+Jaideep Giridhar, former editor of the music magazines Rave and Time Out, traces it to the desk it comes from.
+
+“Most of the writing about this kind of music in the Indian press comes from the culture desk and not the science desk,” Jaideep Giridhar tells IndiaToday.in.
+
+It is precisely that gap, between the culture desk and the science desk, that this series was built to close.
+
+The habit that follows, he says, is to treat _ragas_ as “self-contained vehicles for emotion,” so that “a so-called sad _raga_ holds sadness within it.”
+
+A _raga_ is the melodic framework of Indian classical music, a set of notes and rules a musician improvises within, each tied by tradition to a mood.
+
+A potter at the wheel, the first maker of any clay instrument. As engineers note, a ghatam lives or dies by the evenness of its walls, knowledge that survives in the potter's hands, not in any book. (Photo: Unsplash)
+
+The science behind this is humbler. “The juxtaposition of notes and timbre triggers these emotional responses in listeners,” Jaideep Giridhar says.
+
+Timbre is the texture of a sound, which lets you tell a flute from a violin on the same note.
+
+The feeling is not sealed inside the music; it is made in the person who hears it, so that, in the former music editor’s phrase, “the burden of manifestation is transferred to the receiver.”
+
+And because it is assembled in the listener, it is not the same for everyone. “A _raga_ that the aesthetic theory claims is sad,” Jaideep Giridhar says, “need not necessarily trigger sadness in every listener,” because the response is shaped by memory, by setting, by all a listener brings.
+
+Why a particular arrangement of notes moves the brain at all belongs to another science, the subject of a later part of this series.
+
+It is the same lesson Bharata’s system teaches in another key. The classification can tell you, with 2,000 years of authority, exactly what an instrument is.
+
+What it means, the devotion it serves, the memory it carries, lives where no category follows: in the room, in the ritual, and in the listener.
+
+### THE SOUND WAS ALWAYS FIRST
+
+Bharata understood this before Europe had a word for it. He looked at every instrument the world could make: a string, a reed, a bell, a drum, a clay pot, and saw beneath each only four ways for matter to speak.
+
+He reasoned from the vibration itself, and reached an answer so complete that 2,000 years and a synthesiser later, it needed only one more category.
+
+A Bengali scholar, working inside an empire that would forget his name, carried that answer abroad and set it down in Brussels, where the world would build its science on top of it without asking whose foundation it was.
+
+A handwritten manuscript of the Natya Shastra. India's science of sound was carried for centuries in copies like this one, before it ever reached a European museum. (Photo: X)
+
+The names on the system are German. The logic is older, and it is ours.
+
+The clay pot still sings in the halls of the South, longer than the system that knows where to file it.
+
+The classification came later. The sound came first.
+
+The world learnt to name the sound. India had already learnt to listen.
+
+\- Ends
+
+Radifah Kabir
+
+May 31, 2026 09:31 IST
+
+
+---
+
 ## 30 May 2026
 
 ### Shooter accuses trainer of rape; he alleges abduction | Delhi News - The Times of India
