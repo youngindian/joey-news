@@ -1,3 +1,1039 @@
+## 1 June 2026
+
+### Big Setback For Mamata Banerjee: Diamond Harbour Civic Body Dissolved After 9 TMC Councillors Quit
+*Aveek Banerjee · general*
+
+The party received a fresh blow on Sunday after nine TMC councillors resigned, leading to the dissolution of the Diamond Harbour municipal board.
+
+[Read full article](https://www.news18.com/india/big-setback-for-mamata-banerjee-diamond-harbour-civic-body-dissolved-after-9-tmc-councillors-quit-ws-l-10123571.html)
+
+---
+
+### IndiGo shares rise despite Q4 loss. What's driving the rally?
+*India Today Business Desk · general*
+
+## IndiGo shares rose even after the airline posted a March-quarter loss. Here's why the aviation company's stock price is rising today.
+
+Analysts believe this was largely an accounting and currency-
+
+Shares of InterGlobe Aviation, the parent company of IndiGo, rose as much as 5% on Monday before trimming some gains. At around 10:10 am, the stock was still trading higher at Rs 4,528, up 2.79% or Rs 123 on the National Stock Exchange (BSE).
+
+The rally came despite IndiGo reporting a consolidated net loss of Rs 2,537 crore for the March quarter, compared with a profit of Rs 3,068 crore in the same period last year.
+
+So why are investors cheering a loss-making quarter? The answer lies in what caused the loss and how the market is interpreting it.
+
+A major part of IndiGo's quarterly loss came from foreign exchange losses linked to the sharp depreciation of the rupee. The airline reported a massive forex hit during the quarter, which significantly impacted its bottom line.
+
+Analysts believe this was largely an accounting and currency-
+
+Operationally, the picture was stronger than the headline profit number suggests.
+
+Revenue from operations rose to Rs 22,438 crore, while capacity continued to expand despite disruptions linked to the West Asia conflict and higher fuel costs. The airline also maintained its dominant position in the domestic aviation market.
+
+Investors are also focusing on IndiGo's long-term growth plans rather than a single weak quarter. The airline recently approved a plan to deploy up to $450 million towards acquiring aircraft, engines and aviation assets, signalling continued confidence in future expansion.
+
+Another factor supporting sentiment is the company's aggressive international expansion strategy. IndiGo has been increasing overseas routes, adding destinations and expanding fleet capacity as it looks to strengthen its position beyond the domestic market.
+
+Brokerages also remain largely constructive on the stock despite near-term pressures from fuel prices, currency volatility and geopolitical disruptions. Several analysts believe demand for air travel remains strong and expect earnings to improve once forex-
+
+In short, investors appear to be looking past the March-quarter loss and focusing on IndiGo's market leadership, expansion plans and the belief that the biggest drag on earnings came from temporary external factors rather than a deterioration in demand.
+
+\- Ends
+
+Koustav Das
+
+Jun 1, 2026 10:40 IST
+
+---
+
+### Fire breaks out at Education Ministry office building in Delhi's ITO
+*Anshul Singh · general*
+
+## A fire broke out on the second floor of a building housing Ministry of Education offices in Delhi's ITO area on Sunday morning. Eight fire tenders were sent and no injuries were reported.
+
+Firefighters launched operations immediately after reaching the premises.
+
+A fire broke out on the second floor of the School of Planning building located in Delhi's ITO area on Sunday morning, prompting a swift response from the fire department.
+
+According to officials, the Delhi Fire Service received a call about the incident at around 9.37 am. Initial information indicated that thick smoke was billowing from the second floor of the building, which houses offices under the Ministry of Education.
+
+Eight fire tenders were rushed to the spot to bring the blaze under control. Firefighters launched operations immediately after reaching the premises.
+
+No casualties or injuries have been reported so far. The cause of the fire is yet to be ascertained, and further details are awaited.
+
+\- Ends
+
+Sahil Sinha
+
+Jun 1, 2026 10:39 IST
+
+---
+
+### Worried AI will take your job? This economist says there is zero evidence of AI-driven job losses
+*Om Gupta · general*
+
+## Apollo economist Torsten Slok said there is zero evidence of AI-caused job losses, citing ADP data. His view adds to a wider debate over whether firms are blaming AI for layoffs driven by other pressures.
+
+Torsten Slok, Partner and Chief Economist at Apollo Global Management says there is no evidence of AI job losses. (Photo: AI generated)
+
+If you talk to any working professional these days, one anxiety seems to be common across industries: getting replaced by AI. That fear did not emerge simply because AI can now write, reason, and interact in ways that often appear human. It has also been fueled by a growing number of companies that have cited AI while announcing layoffs. Tech giants such as Cisco, Atlassian and Cloudflare, among others, have linked artificial intelligence to workforce reductions. However, one economist believes the evidence tells a different story.
+
+### 'Zero evidence' of AI-
+
+In a blog post published on Friday, Torsten Slok, Partner and Chief Economist at Apollo Global Management, said there is "zero evidence of job losses because of AI," citing data from the ADP National Employment Report.
+
+Instead of replacing workers, Slok argues that companies are increasingly looking for people who can help them implement and work with AI.
+
+"Many firms are hiring AI implementation experts, and the data center buildout is putting upward pressure on salaries for AI experts and on prices of semiconductors, equipment and energy," Slok wrote.
+
+### Why Slok thinks AI could create more jobs
+
+Slok believes that the surge in AI spending is boosting both employment and inflation. His view is based on an economic concept known as Jevons paradox, which suggests that when a technology becomes more efficient and cheaper to use, demand for it often rises rather than falls.
+
+He made a similar argument in an April blog post.
+
+"When steam engines made coal more efficient, Britain didn't burn less coal, it burned more," he said. "The same pattern is happening for cheaper legal services, consulting services and financial services."
+
+In his latest blog post, Slok wrote that nonfarm payrolls for May could come in significantly higher than the 95,000 expected by economists.
+
+"It is Jevons paradox playing out in real time: cheaper technology is creating more demand and more jobs," he added.
+
+### Other tech leaders are saying something similar
+
+Slok's comments are increasingly aligning with views expressed by several prominent figures in the technology industry.
+
+Last week, OpenAI CEO Sam Altman admitted that some of his earlier concerns about AI-driven job losses may have been misplaced. Speaking virtually at a conference hosted by Commonwealth Bank of Australia in Sydney, Altman said AI has not replaced as many workers as he expected, particularly in entry-level white-collar roles.
+
+Jeff Bezos has also argued that AI is more likely to make workers more productive than replace them entirely.
+
+In an interview with CNBC, Bezos pushed back against claims that professions such as software engineering or radiology will disappear because of AI tools. According to him, AI can automate some tasks, but humans will still be needed to identify problems, think creatively, and design systems.
+
+Using software engineers as an example, Bezos said that writing code is only one part of the job. The larger responsibility is deciding what needs to be built and why.
+
+### Then why are so many people worried?
+
+The anxiety around AI and jobs is not without reason.
+
+Over the past year, several companies have linked layoffs to artificial intelligence. Cisco, Atlassian, Cloudflare, Coinbase, IBM, and Snap are among the firms that have cited AI while discussing workforce reductions. More recently, Wix, known for its do-it-yourself website building platform, has announced plans to cut significant portions of their workforce because of advancements in artificial intelligence.
+
+But not everyone is convinced that AI is the real reason behind those cuts.
+
+Altman has described the practice of attributing layoffs to AI as "AI washing." Nvidia CEO Jensen Huang has also criticised executives who use AI as the explanation for job reductions.
+
+"I think the narrative that connects AI to job loss for many of the CEOs that are doing it, it is just too lazy," Huang said in an interview with Singapore broadcaster CNA.
+
+According to Huang, many layoffs may be more closely tied to cost-cutting measures, restructuring efforts, or broader business challenges than to AI itself.
+
+Over the past few weeks, Zoho founder Sridhar Vembu has repeatedly voiced similar concerns on X. He has argued that actual productivity gains from AI remain limited and that some companies are using AI as a convenient explanation for layoffs that are really being driven by economic pressures and investor expectations.
+
+\- Ends
+
+Jun 1, 2026 10:35 IST
+
+---
+
+### AP EAMCET 2026 results today: Websites to check
+*Education Desk · legal*
+
+**AP EAMCET results 2026:** The Andhra Pradesh State Council of Higher Education (APSCHE) will declare the results of the Andhra Pradesh Engineering, Agriculture, and Medical Common Entrance Test (AP EAMCET) today. The EAPCET results will be published today on their official website — cets.apsche.gov.in. Candidates who had appeared for the exam can check their results at the website mentioned earlier. Apart from the website, the results can be checked at APSCHE myCET.
+
+**AP EAMCET 2026 Results Live Updates**
+
+AP EAPCET results, counselling dates, top colleges, check IE Education.
+
+ Homepage of AP EAMCET official website (screengrab from website)
+
+The question paper for the AP EAMCET consisted of 160 questions in total, with one mark allotted to each question. The question paper was divided into three parts: 80 questions for Mathematics, 40 questions for Physics, and Chemistry. There is no negative marking for wrong answers or unattempted questions, while for correct answers, candidates will be awarded one mark.
+
+ Candidates checking the result of AP EAMCET (image generated by AI)
+
+The AP EAMCET exam was conducted between May 12 to May 20, 2026. For engineering, the exam was held between May 12 to May 15 and May 18, while for agriculture and medical, the exam was conducted between May 19 and May 20, 2026. After that the provisional answer key was opened on May 25, and the objection window was opened till May 27.
+
+ List of preliminary answer key (screengrab from website)
+
+To check the results on the mobile app of APSCHE myCET, download the app on your phone. Then the candidate has to select the exam for which they have appeared, and then go to the results section. After that, enter the required details and submit. The result will appear on the screen. Download it or take a screenshot for future reference.
+
+ The results will be available on the mobile app
+
+After the results are declared, the counselling process will start for eligible candidates. For that, candidates have to register for the counselling process, after which their documents will be verified. Then a mock allotment will happen followed by which there will be a final allotment. Candidates who get into their preferred college are advised to pay the fees to secure the seat, while the rest of them can wait for the next round. The counselling process strictly happens online and is based on marks.
+
+ Eligible candidates have to appear for the counselling process. (Image generated by AI)
+
+---
+
+### Civic sense needs upgrade: Harsh Goenka shares 2019 Swiss hotel rules for Indians
+*India Today Trending Desk · general*
+
+## Harsh Goenka linked viral videos of Indians abroad to a broader lack of civic sense. His remarks revived memories of a Swiss hotel's special rules for Indian guests and renewed debate on public behaviour overseas.
+
+Harsh Goenka recalled his 2019 Switzerland visit to talk about civic sense. (Photo: X)
+
+Industrialist Harsh Goenka has reignited a debate on Indians’ behaviour abroad after recalling a Swiss hotel notice that was meant exclusively for Indian guests.
+
+Goenka said the incident, which he had first shared publicly in 2019, was a reminder that while Indians are earning global recognition for their achievements, certain public behaviours continue to attract criticism overseas.
+
+Responding to the debate, Goenka said India's growing global influence should also be accompanied by greater civic responsibility.
+
+In a post on social media, he recalled visiting Gstaad, a luxury resort town in Switzerland, where he came across a notice displayed at Hotel Arc-en-ciel. According to Goenka, the hotel had put up a separate set of guidelines specifically for Indian guests.
+
+The notice, reportedly issued by hotel manager Christian Matti, welcomed Indian visitors before listing rules that guests were expected to follow during their stay. Goenka said he was “appalled” to see a separate set of instructions targeted at one nationality.
+
+Drawing parallels with recent incidents, he pointed to viral videos showing groups of Indians dancing garba inside restaurants overseas. He also referred to loud conversations in airports and instances where airline cabins are turned into informal picnic spots, with passengers opening and sharing home-cooked meals during flights.
+
+**See the post here:**
+
+> A Swiss hotel once displayed a list of special rules exclusively for Indian guests which I personally saw and was appalled.
+> 
+> Today, videos of garba in restaurants, loud conversations in airports, and turning aircraft cabins into picnic spots keep doing the rounds. Even in Davos, pic.twitter.com/ccljdLmDfk— Harsh Goenka (@hvgoenka) May 31, 2026
+
+The discussion began after videos of Indians performing garba in public spaces abroad sparked mixed reactions online. Some viewed the displays as celebrations of culture, while others argued that such activities can be disruptive when carried out in inappropriate settings.
+
+Goenka further cited an incident from Davos, where he claimed an Indian businessman played Punjabi music so loudly at a club that it could be heard across the town, describing it as “soft power” despite the disturbance it caused.
+
+While acknowledging that Indians are making their mark around the world in business, technology and innovation, Goenka argued that civic sense remains an area requiring improvement.
+
+He pointed to Japan as an example of how courtesy, discipline and respect for shared spaces have helped shape a positive global image.
+
+“If India wants to be a true global superpower, the world should remember Indians for excellence, consideration and respect for others,” he said, adding that the country’s civic sense “seriously needs to be upgraded.”
+
+His remarks have since triggered a wider conversation online about balancing cultural expression with public etiquette when travelling abroad.
+
+\- Ends
+
+Srimoyee Chowdhury
+
+Jun 1, 2026 10:27 IST
+
+---
+
+### Petrol, Diesel prices today, June 1, 2026: Check rates in Delhi, Mumbai, Kolkata, Chennai and more
+*Anshika Pandey · general*
+
+## Petrol, Diesel prices today, June 1, 2026: Check rates in Delhi, Mumbai, Kolkata, Chennai and more
+
+Petrol in Mumbai was priced at Rs 111.18 per litre on June 1, 2026, while diesel stood at Rs 97.83 per litre. Fuel rates remained largely stable, with future prices dependent on crude oil trends, currency movements and tax policies.
+
+Petrol and diesel prices in Mumbai on June 1, 2026, remained largely stable compared to the previous day. Petrol is priced at Rs 111.18 per litre, down marginally by Rs 0.03, while diesel remained unchanged at Rs 97.83 per litre. Over the past 10 days, petrol prices in Mumbai have fluctuated between Rs 108.45 and Rs 111.21 per litre, while diesel prices have moved between Rs 95.02 and Rs 97.83 per litre.
+
+Across India, petrol prices currently range from approximately Rs 89 to Rs 118 per litre, while diesel prices vary between Rs 85 and Rs 105 per litre, depending on state taxes, transportation costs, dealer commissions, and regional pricing policies.
+
+Fuel prices continue to be influenced by international crude oil prices, fluctuations in the rupee-US dollar exchange rate, and domestic taxation policies. Despite volatility in global energy markets, oil marketing companies have largely maintained stable retail fuel prices. However, fuel prices in India remain higher than in several neighbouring countries due to substantial taxes imposed by both the central and state governments.
+
+## **Petrol and diesel rates in major cities:**
+
+-   New Delhi: Petrol Rs 102.12, Diesel Rs 95.20
+-   Mumbai: Petrol Rs 111.18, Diesel Rs 97.83
+-   Kolkata: Petrol Rs 113.47, Diesel Rs 99.82
+-   Bengaluru: Petrol Rs 110.53, Diesel Rs 98.47
+-   Chennai: Petrol Rs 107.84, Diesel Rs 99.65
+-   Patna: Petrol Rs 113.46, Diesel Rs 99.47
+-   Jaipur: Petrol Rs 112.66, Diesel Rs 97.78
+-   Thiruvananthapuram: Petrol Rs 115.49, Diesel Rs 104.40
+
+Fuel prices differ across cities due to variations in VAT, local taxes, freight charges, and dealer commissions. Among major cities, Hyderabad and Thiruvananthapuram continue to record some of the highest petrol prices, while regions such as the Andaman and Nicobar Islands maintain comparatively lower fuel prices.
+
+## **Why fuel prices remain stable:**
+
+Fuel prices in India have stayed relatively stable due to calibrated pricing strategies adopted by oil marketing companies, government oversight, and prevailing tax structures. Key factors influencing fuel prices include global crude oil prices, exchange rate fluctuations, domestic fuel demand, transportation costs, and central and state taxes. Petrol consumption in India continues to rise steadily due to increasing vehicle ownership and expanding transport activity across the country.
+
+India consumed around 220 million metric tonnes of crude oil and petroleum products in 2023, with fuel demand continuing to grow in both urban and rural areas. Diesel remains especially important for India’s logistics and transportation sector, accounting for a major share of commercial fuel consumption nationwide. Nearly 81% of diesel consumption is linked to goods transportation and supply-chain operations, making diesel prices a key factor in overall inflation and logistics costs.
+
+## **Will fuel prices rise?**
+
+While public sector oil marketing companies are currently maintaining price stability, any sharp increase in global crude oil prices, geopolitical tensions in oil-producing regions, supply disruptions, or weakening of the rupee against the US dollar could lead to an upward revision in petrol and diesel prices in the coming months. Rising domestic fuel demand and changes in central or state tax structures could also influence future fuel price movements.
+
+---
+
+### Dua Lipa ties the knot with Callum Turner in London; wedding photos take over the internet
+*Manisha Chauhan · general*
+
+## Dua Lipa ties the knot with Callum Turner in London; wedding photos take over the internet
+
+Dua Lipa and Callum Turner have reportedly married in a private London ceremony, with wedding photos from the event now circulating online.
+
+Singer Dua Lipa and actor Callum Turner have reportedly tied the knot in a private wedding ceremony held in London. The couple exchanged vows on May 31 at the historic Old Marylebone Town Hall, with only close friends and family members in attendance.
+
+The wedding attracted widespread attention after photographs of the newlyweds leaving the venue were published by media outlets and quickly circulated across social media platforms.
+
+> DUA LIPA IS OFFICIALLY MARRIED, OH MY GOD  pic.twitter.com/Hcfe15llm7
+> 
+> — dua lipa crave (@addictionlipa) May 31, 2026
+
+For the ceremony, Dua Lipa reportedly chose a custom Schiaparelli couture ensemble designed by Daniel Roseberry. Her bridal look featured an ivory blazer paired with an asymmetric skirt, complemented by white gloves, a wide-brimmed hat by Stephen Jones and Christian Louboutin heels.
+
+> DUA LIPA AND CALLUM TURNER HAVE MARRIED IN LONDON pic.twitter.com/OG5GpNmSWR
+> 
+> — dua lipa crave (@addictionlipa) May 31, 2026
+
+Turner opted for a navy double-breasted suit from Ferragamo, completing the look with a matching shirt and tie.
+
+According to reports, the London ceremony will be followed by a larger three-day celebration in Palermo, Sicily. Several high-profile names from the music and fashion industries, including Elton John, Charli XCX, Mark Ronson, Donatella Versace and Simon Porte Jacquemus, are reportedly expected to attend.
+
+Dua and Callum were first linked romantically in early 2024 after they were spotted together at an afterparty for Masters of the Air, in which Turner starred. The couple later made several public appearances together, fueling speculation about their relationship.
+
+In June 2025, Dua confirmed their engagement during a British Vogue cover interview, revealing that Turner had proposed with a custom-designed 18-karat gold ring.
+
+The reported wedding marks a new chapter for one of entertainment's most talked-about celebrity couples.
+
+---
+
+### Beyond rice, wheat: Why India must revive native ‘orphan crops’ for protein security
+*SECTIONS Beyond rice · business*
+
+As India pushes crop diversification to improve nutrition and build climate resilience, experts argue that the country must look beyond a handful of staple crops and embrace a wider range of indigenous, protein-rich crops that have gradually disappeared from both farms and diets.
+
+Despite being the world’s largest producer of rice, India continues to depend heavily on imports of pulses and edible oils. At the same time, many traditional crops once cultivated across regions have lost prominence, contributing to a food system that remains calorie-rich but often nutritionally inadequate.
+
+A report by the Good Food Institute (GFI) India highlights the untapped potential of underutilised or “orphan crops”, such as horse gram, winged bean, grass pea, lupin, bambara groundnut, and several indigenous millets and legumes. According to the report, these crops are rich in protein, resilient to climate stress, and require fewer agricultural inputs than many conventional crops.
+
+  
+
+“Scientists and policymakers increasingly see these crops not as “minor” crops, but as strategic resources for future food and nutrition security, especially under climate variability,” says Padma Ishwarya S., Senior Scientist at GFI India.
+
+The report says that India has a significant opportunity to build domestic ingredient supply chains around indigenous crops and emerge as a major player in the rapidly growing global plant-based food industry.
+
+Countries such as Canada, Australia, the Netherlands, and China have already leveraged alternative crops to develop strong plant-protein ecosystems. India could follow a similar path by investing in processing infrastructure and value-added products derived from traditional crops.
+
+According to GFI India, converting indigenous crops into protein concentrates, plant-based meat products, dairy alternatives, and functional foods could generate substantially greater economic value than selling grains in raw form. The report estimates that the global plant-based meat market could reach between $88 billion and $368 billion by 2035, creating a major export opportunity for India in plant-protein ingredients and smart protein products.
+
+**Dependence on imports**  
+Globally, only about 170 of the world’s 30,000 edible plant species are cultivated commercially for food. Rice, maize, wheat, and potatoes account for nearly 60% of total calorie consumption, while just a few crops supply the majority of plant-derived proteins.
+
+The plant-based food industry currently relies heavily on soy, pea and wheat gluten, with mung bean and chickpea gaining traction more recently.
+
+In India, however, the emerging smart protein sector remains dependent on imported ingredients from China and Europe.
+
+“The plant-based smart protein sector currently depends heavily on imported protein ingredients from regions such as China and Europe. This reliance arises partly from the limited domestic availability of crops like peas, soy, and chickpeas that meet the functional specifications required for food processing,” the report notes.
+
+High import duties and logistics costs further increase production costs, making plant-based foods less competitive compared to conventional animal-based products, say experts.
+
+**Challenges in diversification**  
+For decades, India’s agricultural ecosystem has been built around cereals, supported by extensive procurement systems, irrigation infrastructure, input subsidies, and established markets, note experts.
+
+“Crop diversification in India is a gradual structural transition rather than a single policy shift, because the existing cereal-focused system has significantly contributed to food security, farmer income stability, and national procurement efficiency,” notes Padma Ishwarya S.
+
+Farmers often face practical challenges in shifting to alternative crops, including limited access to quality seeds, weak market linkages, inconsistent demand, and insufficient agronomic support.
+
+While diversification into pulses, oilseeds, horticulture, and other high-value crops offers significant benefits, it also requires stronger post-harvest infrastructure, processing capacity, storage facilities, and reliable markets, many of which remain underdeveloped.
+
+Nevertheless, the report notes that diversification is steadily increasing in several states as awareness grows about the benefits of millets and pulses for soil health, water efficiency and climate resilience.
+
+**Structural gaps in protein economy**  
+The report identifies two major barriers to expanding protein-rich crop production. First, productivity levels for pulses and oilseeds remain below potential due to uneven access to quality seeds, irrigation, mechanisation, and region-specific extension services.
+
+Second, cereals continue to enjoy stronger policy support through assured procurement and stable market channels, making them a less risky choice for farmers than pulses and oilseeds, which are often exposed to greater price volatility. As a result, India continues to face shortages in critical protein and oilseed crops despite being a major agricultural producer.
+
+The report argues that India's agricultural policies have historically focused on improving yields rather than increasing protein output per hectare. While the country has achieved significant gains in cereal production, many staple crops remain relatively low in protein content.
+
+Future agricultural strategies, it says, should prioritise both grain productivity and protein productivity to meet growing demand for affordable, high-quality protein sources.
+
+Many neglected and underutilised crops are attracting renewed global attention because of their climate resilience and low input requirements. However, lower yields continue to limit their adoption by the food processing industry.
+
+To unlock their potential, the report recommends identifying suitable crops, improving breeding programmes, developing efficient protein extraction technologies and creating commercially viable supply chains.  
+**_  
+By :- Vaishnavi Kumari_**
+
+---
+
+### Poverty forced him to leave school in Class 4. Worked as a tailor, then started his own shop. Today, he is one of the top Malayalam actors and a National Award winner
+*Unknown · business*
+
+Suriya's Karuppu is currently enjoying a successful run in theatres, with audiences praising the actor's commanding screen presence and the film's storyline. However, alongside the Tamil star, it is veteran Malayalam actor Indrans who stole the show. Without depending on dramatic speeches or larger-than-life moments, Indrans has won hearts with his portrayal of Sukumaran, a helpless father desperately searching for his daughter's stolen gold.
+
+As Karuppu continues to attract audiences and generate positive word-of-mouth, many viewers have singled out Indrans' performance as one of the film's most emotionally powerful elements. His ability to convey pain, vulnerability and determination through subtle expressions has reminded audiences why he is regarded as one of Malayalam cinema's finest actors today.
+
+  
+
+## From a school dropout to a tailor: Indrans journey  
+
+The journey to this recognition was anything but easy. Long before he became a celebrated actor, Indrans, whose real name is K. Surendran, faced severe financial hardships during his childhood in Thiruvananthapuram, Kerala. According to a 2023 report by Mathrubhumi, poverty forced him to leave school after completing Class 4.
+
+  
+
+Unable to continue his education, he began learning tailoring under the guidance of his uncle. What started as a necessity soon became a profession. Over time, he developed his skills and eventually opened his own tailoring establishment called "Indrans Brothers Tailors."
+
+Interestingly, the shop would later inspire the screen name by which millions know him today. Even after becoming a successful actor, Indrans never forgot his roots. During the COVID-19 pandemic, he even demonstrated his tailoring skills in a public awareness video released by the Kerala Health Department, showing that the craft remained close to his heart.
+
+Years later, despite his achievements, Indrans continued to value education. According to the same report, the National Award-winning actor was preparing to appear for a Class X equivalency examination, a goal he pursued decades after being forced to leave school.
+
+## Entering cinema through the costume department  
+
+Indrans did not enter films as an actor. Instead, he stepped into the industry in the early 1980s as a costume designer while continuing his tailoring work. His experience with costumes helped him build connections in Malayalam cinema, and gradually he started receiving small acting opportunities.
+
+For several years, however, those appearances went largely unnoticed. He worked steadily but remained on the fringes of the industry. His breakthrough eventually came with CID Unnikrishnan B.A., B.Ed., a film that helped establish him as a comedian and rose him to fame among audiences.
+
+What followed was a long and productive career filled with memorable supporting roles. Whether it was Ponnappan in Mannar Mathai Speaking, Gafoor in Spadikam, Krishnankutty in Kalyana Sowgandhikam, or the quirky PP Sasi in the Aadu franchise, Indrans consistently left an impression regardless of the size of the role.
+
+One of the qualities that set him apart was his ability to completely transform into different characters. Unlike many performers who carry a familiar screen persona from film to film, Indrans became known for disappearing into his roles, making each character feel unique.
+
+## Reinventing himself and winning national recognition  
+
+As Malayalam cinema evolved, so did Indrans. While many viewers initially associated him with comedy, he gradually expanded his range and began taking on more serious and emotionally complex characters.
+
+The post-pandemic rise in the popularity of Malayalam cinema also helped introduce his work to a wider audience. In interviews, Indrans has credited this growing visibility for bringing him stronger lead and character-driven roles. Films such as Home and Aashaan showcased a different side of his talent and earned widespread critical acclaim.
+
+His performance in Home proved to be a major turning point. The film earned him the National Film Award, adding to the State honours he had already received during his career.
+
+Today, Indrans stands as one of the most respected actors in Malayalam cinema. His journey from a struggling tailor to a National Award-winning performer remains an inspiring story.
+
+Now, with Karuppu, he has once again demonstrated the power of understated acting. While Suriya leads the film with his star presence, Indrans' moving portrayal of Sukumaran has quietly become one of the film's biggest strengths.
+
+---
+
+### UP records 90% attendance in B Ed entrance exam; over 4.44 lakh candidates appear
+*PTI · legal*
+
+Uttar Pradesh Higher Education Minister Yogendra Upadhyay expressed satisfaction over the successful conduct of the exam. (Express Photo)
+
+The B.Ed Joint Entrance Examination (JEE) 2026 was conducted successfully at 1,011 centres across 72 districts of Uttar Pradesh on Sunday, the state government said in a statement. It said 90 per cent of the 4,44,958 registered candidates appeared for the exam, which was conducted by Bundelkhand University, in two shifts.
+
+The first shift consisted of the general knowledge and language paper and the second shift consisted of the aptitude test and subject competency paper. Uttar Pradesh Higher Education Minister Yogendra Upadhyay expressed satisfaction over the successful conduct of the exam. “The B.Ed Joint Entrance Examination-2026, conducted at 1,011 examination centres across 72 districts of the state, was completed with complete fairness, transparency and in a peaceful environment,” he said.
+
+“Under the leadership of Chief Minister Yogi Adityanath, Uttar Pradesh has emerged as a model for transparent, cheating-free and technology-based examinations in the country,” he said.
+
+“A total of 4,44,958 candidates had registered for the examination, including 2,72,659 women, 1,72,297 men and 2 transgender candidates,” he added.
+
+According to the statement, Kasganj and Pilibhit recorded the highest attendance at 95 per cent, followed by Ghaziabad and Gautam Buddh Nagar at 84 per cent.
+
+“An advanced Integrated Command and Control Centre (ICCC) was established at Bundelkhand University, Jhansi, from where live monitoring of all 1,011 examination centres across the state was carried out. Around 22,000 CCTV cameras and 5,651 biometric machines were installed for this purpose.
+
+“During the examination, artificial intelligence-based face recognition technology, fingerprint-based biometric verification and a real-time attendance system were used to ensure that only genuine candidates were present,” Upadhyay said.
+
+Story continues below this ad
+
+Through the modern AI system, strongrooms, entry and exit gates, and examination halls at the centres were continuously monitored, he said.
+
+“For the first time this year, GPS-based body-worn cameras were provided to university representatives to further strengthen the fairness and transparency of the examination.
+
+“Through these cameras, the representatives’ live locations, inspections of examination centres and activities 
+
+Upadhyay said the government will not tolerate any compromise with the future of the youth.
+
+---
+
+### Amid tiger deaths at Kanha National Park, court demands answers from Centre, MP government
+*Ashish Shaji · legal*
+
+The tigress had been moving with four cubs in Sarhi area before the deaths. With the loss of the tigress and her cubs, five tiger deaths have been recorded in Kanha in April. (File photo for representation)
+
+Tiger death news: The Madhya Pradesh High Court has sought responses from the Centre and the state government within two weeks over the recent deaths of tigers at Kanha National Park.
+
+A division bench of Justices **Vivek Jain** and **Ajay Kumar Nirankari** also directed the authorities to record the preventive and curative measures taken by them, along with their reply.
+
+“The respondents shall come out with specific averments regarding the preventive and curative measures taken by them in the matter of tiger deaths in the Kanha National Park along with their reply which shall be filed within two weeks,” the bench ordered on May 29.
+
+ Justices Vivek Jain and Ajay Kumar Nirankari heard the matter on May 29.
+
+## Tiger deaths
+
+-   In April, a tigress and all four of her cubs died within a span of nine days at Kanha Tiger Reserve, with forest officials attributing the deaths to a respiratory infection, wildlife officials said.
+-   According to officials, the deaths started on April 21 when a cub was found dead in the Sarhi area of the reserve.
+-   Three days later, a decomposed carcass of another cub was discovered on April 24, followed by a third cub on the very next day.
+-   All three cubs were around a year old. Initially, officials suspected the cubs may have died due to starvation, but after the third cub’s death, forest officials said the death was linked to a lung infection.
+-   After the deaths of the three cubs, the tigress, identified as T-141, and her last surviving cub were located in a distressed condition. They were tranquilised and shifted to a quarantine facility in the Mukki range for treatment.
+-   According to the officials, the tigress, aged around 10–11 years, was suffering from severe respiratory distress, including difficulty in breathing and an inability to feed. She died during treatment.
+-   The cub, which was also showing similar symptoms and was in critical condition, died later the same day.
+-   With the death of a male tiger in Madhya Pradesh in early May, the total toll in the state had risen to 28 this year.
+
+## Samples preserved for analysis
+
+“The deaths were due to a lung infection. We are still trying to ascertain how this infection impacted the tiger family… The cubs may have become extremely weak while fighting off the infection,” Kanha Tiger Reserve deputy director Prakash Kumar Verma told _The Indian Express_.
+
+Forest authorities said samples from the tigress have been preserved for examination to ascertain details of the infection. The area from where the animals were found is being sanitised, and water samples from nearby sources are being collected as a precaution.
+
+The tigress had been moving with four cubs in the Sarhi area before the deaths. With the loss of the tigress and all four cubs, five tiger deaths have been recorded in Kanha in April, officials said.
+
+## 55 deaths in 2025
+
+As many as 55 tigers died in Madhya Pradesh in 2025 alone. Officials estimate that 11 of the 55 tiger deaths were due to unnatural causes.
+
+Story continues below this ad
+
+Of these, an estimated eight were killed by electrocution, largely from illegal traps laid by villagers to protect crops from wild animals.
+
+Forest department officials maintain that a majority of the deaths were due to natural causes and are a consequence of an expanding tiger population.
+
+According to senior officials, increased territorial conflicts, age-
+
+Ashish Shaji is a Senior Sub-Editor at The Indian Express, where he specializes in legal journalism. Combining a formal education in law with years of editorial experience, Ashish provides authoritative coverage and nuanced analysis of court developments and landmark judicial decisions for a national audience. Expertise Legal Core Competency: Ashish is a law graduate (BA LLB) from IME Law College, CCSU. This academic foundation allows him to move beyond surface-level reporting, offering readers a deep-dive into the technicalities of statutes, case law, and legal precedents. Specialized Legal Reporting: His work at The Indian Express focuses on translating the often-dense proceedings of India's top courts into clear, actionable news. His expertise includes: Judicial Analysis: Breaking down complex orders from the Supreme Court and various High Courts. Legal Developments: Monitoring legislative changes and their practical implications for the public and the legal fraternity. Industry Experience: With over 5 years in the field, Ashish has contributed to several niche legal and professional platforms, honing his ability to communicate complex information. His previous experience includes: Lawsikho: Gaining insights into legal education and practical law. Verdictum: Focusing on high-quality legal news and court updates. Enterslice: Working at the intersection of legal, financial, and advisory services. ... 
+
+-   Tags:
+-   Kanha National Park
+-   Madhya Pradesh High Court
+-   Tiger deaths
+
+---
+
+### Who helped Twisha Sharma's husband while on the run? CBI widens dowry death probe
+*Ravish Pal Singh · general*
+
+## The CBI has tracked Samarth Singh's movements after Twisha Sharma's death and is questioning his time on the run. Officials are now examining possible helpers and medical claims as they rebuild the sequence of events.
+
+Twisha Sharma was found dead at her maternal home on May 12. (Photo- ITGD)
+
+The Central Bureau of Investigation (CBI), which is probing the death of former model and actor Twisha Sharma, has obtained fresh details from the interrogation of the prime accused, Samarth Singh, regarding his movements after her death and during the time the Madhya Pradesh Police was on the lookout for him.
+
+According to sources, Samarth told CBI officials that he remained in Bhopal for two days after Twisha's death before leaving for Jabalpur, where he remained until May 22, the day he surrendered in a local court.
+
+The disclosures have shifted the focus of the investigation towards identifying those who may have assisted Samarth during his time on the run. CBI officials are now examining who provided him accommodation, transport, or any other logistical support in Bhopal and Jabalpur. Sources indicated that Samarth has not been forthcoming with details on this aspect during questioning.
+
+The probe agency is also expected to question some doctors linked to the case. The move came in the wake of claims made by Twisha's mother-in-law, Giribala Singh, who had alleged that Twisha was addicted to drugs and had consumed them in large quantities. According to Giribala Singh, this was one of the reasons doctors had approved a Medical Termination of Pregnancy (MTP) procedure.
+
+Officials are also looking into Twisha's consultations with a psychiatrist. The CBI is likely to examine both the treating doctors and the psychiatrist to verify the claims made by Giribala Singh and assess whether they are supported by medical records and professional assessments.
+
+Officials are expected to cross-check medical documents and witness statements as part of efforts to reconstruct the circumstances leading up to Twisha's death.
+
+The CBI recently took over the investigation into Twisha Sharma's death after re-registering a Madhya Pradesh Police FIR that names her husband, Samarth Singh, and mother-in-law, Giribala Singh, as accused. Twisha, 33, was allegedly found hanging at her marital home in Bhopal on May 12.
+
+Before the case was transferred to the central agency, a Special Investigation Team (SIT) of the Madhya Pradesh Police arrested Samarth, a lawyer by profession, from Jabalpur and brought him to Bhopal. A local court subsequently remanded him to police custody for seven days.
+
+Twisha's family has alleged that she was subjected to harassment by her in-laws over dowry-
+
+The allegations have been strongly contested by Giribala Singh, who, in multiple media interactions, raised questions about Twisha's medical treatment and mental health. Samarth was arrested on May 22 after remaining absconding for 10 days.
+
+Last week, the CBI arrested former district judge Giribala Singh a day after the Madhya Pradesh High Court set aside her anticipatory bail. Officials have indicated that officials plan to confront the mother-son duo with each other's statements as they attempt to establish the sequence of events that culminated in Twisha's death.
+
+Twisha's family has also accused Giribala Singh of attempting to tamper with evidence after obtaining bail. They have claimed that while police seized CCTV footage from the family's residence on May 13, selected clips were later circulated on social media in an alleged attempt to influence the course of the investigation.
+
+\- Ends
+
+Sahil Sinha
+
+Jun 1, 2026 10:13 IST
+
+---
+
+### JEE Advanced AIR 1 studied just 6 hours a day: Toppers reveal what really worked
+*India Today Education Desk · general*
+
+The Indian Institute of Technology (IIT) Kanpur announced the JEE Advanced 2026 results late on May 31, bringing months and, for many students, years of preparation to a dramatic close. Out of 1,87,389 registered candidates, 1,79,694 appeared for both papers. A total of 56,880 candidates qualified, including 10,107 female candidates.
+
+Leading the pack is Shubham Kumar, who secured the All India Rank (AIR) 1 with 330 marks out of 360, followed by Kabeer Chillar with 329/360, and Jatin Chahar with 319/360. Remarkably, the top three ranks have all gone to candidates from the IIT Delhi zone.
+
+The highest-ranked female candidate is Arohi Deshpande, also from the IIT Delhi zone, who secured CRL 77 with 280 marks.
+
+Here's a look at the students who topped one of the toughest entrance exams in the country and the stories behind their success.
+
+### 'I LEARNED HOW TO STUDY FROM MY SISTER': SHUBHAM KUMAR, AIR 1
+
+For Shubham Kumar, the road to AIR 1 appears to have begun at home.
+
+The Bihar native, whose elder sister is pursuing BTech at IIT Patna, has often credited her for inspiring him to take the IIT route. In an earlier interaction uploaded by Allen Career Institute online after his stellar performance in JEE Main 2026, Shubham said, "I got motivated for JEE by watching my sister. She had chosen JEE as a pathway for her career, and I wanted to follow the same path."
+
+His preparation strategy was rooted in consistency rather than marathon study sessions. Rejecting the common belief that toppers study 16 to 18 hours every day, he revealed that he spent about six hours in classes and another six hours on self-study.
+
+"Nobody can study for 18 hours a day. I did almost six hours of self-study daily," he said in the interview.
+
+Shubham also highlighted the importance of reviewing mistakes and discussing doubts with peers. "When we discuss doubts, we learn from others' mistakes and they learn from ours. There is mutual development," he said.
+
+Even for the AIR 1 holder, exam-day nerves were real. "There is always some stress before the exam starts. But once the paper begins, you get involved and it starts feeling normal."
+
+The student from Gaya also stressed the value of mentor guidance. "The most basic advice is to follow your teachers and mentors. They have years of experience, and reviewing mistakes after tests is extremely important."
+
+That disciplined approach has now delivered the country's top rank.
+
+### 'FOCUS ON QUALITY, NOT STUDY HOURS': KABEER CHHILLAR, AIR 2
+
+Just one mark behind the topper stands Kabeer Chhillar.
+
+The IIT Delhi zone candidate scored 329 out of 360 to secure AIR 2 and emerge as one of the closest challengers in this year's examination.
+
+In a video message shared after his strong JEE Main performance, Kabeer pushed back against one of the biggest myths surrounding competitive exam preparation.
+
+"A stereotypical topper mindset has developed where people think you must study 15 hours a day and do nothing else. That is not true. I never did that," he said.
+
+Instead, he argued that conceptual understanding matters far more than clocking endless study hours.
+
+"If your concepts are clear, you won't forget things easily. Focus on the quality of your study time, not the quantity," Kabeer said.
+
+His message is particularly relevant for students who often feel pressured by social media narratives about extreme study schedules. Kabeer's approach suggests that deep understanding and consistent effort may matter more than simply increasing study hours.
+
+He also emphasised perseverance and discipline. "Hard work and determination are very important for success," he said.
+
+That philosophy has now translated into one of the best performances in the country, with Kabeer finishing just a single mark behind AIR 1.
+
+### 'A ROUTINE MATTERS': JATIN CHAHAR, AIR 3
+
+AIR 3 holder Jatin Chahar, who scored 319 out of 360, followed a preparation strategy that revolved around structure and routine.
+
+Speaking about his daily schedule in an online interaction, Jatin described a day that started at 6 am and was carefully planned from morning to night.
+
+His coaching classes ran from 7 am to 2 pm. After returning home and taking some rest, he would begin studying again around 3:30 pm.
+
+"The first thing I did was revise the notes that were taught in class. After that, I attempted sheets and practice questions," he said.
+
+Jatin also built recovery time into his schedule. Around 7 pm, he would step out briefly to refresh his mind before returning to studies. After dinner, he often continued working late into the night and planned the tasks that needed to be completed the next day.
+
+His account offers a reminder that many successful candidates rely on routine rather than last-minute bursts of preparation. Revision, practice, regularity and realistic breaks formed the backbone of his preparation.
+
+That disciplined structure ultimately helped him secure a place among the top three rankers in India.
+
+### THE FEMALE TOPPER: AROHI DESHPANDE'S RELAXED APPROACH
+
+While she narrowly missed the overall top ranks, Arohi Deshpande emerged as the highest-ranked female candidate with CRL 77 and 280 marks.
+
+In an earlier interview uploaded online by Allen after JEE Main 2026, Arohi offered an interesting perspective on handling exam pressure.
+
+"I went with a very relaxed mind and scored much better. The less you keep thinking that this is a very important exam, the better it can be," she said.
+
+She also rejected the idea that success requires sacrificing sleep.
+
+"I sleep as much as I need. I don't think studying for very long hours automatically makes you productive," she said.
+
+Arohi credited organised notes and colour-coding techniques, especially for chemistry, and emphasised the importance of maintaining mental stability throughout the long preparation journey.
+
+### WHAT HAPPENS NEXT?
+
+With the results now declared, attention shifts to the JoSAA 2026 counselling process, which will determine admissions to IITs, NITs, IIITs and other participating institutes.
+
+All qualified candidates have been advised to participate in counselling regardless of their Class 12 scores. However, final admission will remain subject to eligibility conditions mentioned in the JEE Advanced 2026 information brochure.
+
+For now, though, the spotlight belongs to four students whose names have become synonymous with success in one of India's toughest examinations: Shubham Kumar, Kabeer Chhillar, Jatin Chahar and Arohi Deshpande.
+
+Their stories may differ, but they share one common message: consistency beats panic, and understanding beats memorisation.
+
+\- Ends
+
+Jun 1, 2026 10:12 IST
+
+---
+
+### Gujarat Hardlook | Cyber terror in labour room: Curtains left open, weak passwords, eight hackers, and viral clips
+*Brendan Dabhi · legal*
+
+February 17, 2025. Around 5 pm, a chilling video began circulating on social media. It showed a nurse administering an injection to a female patient at a private body part.
+
+Police traced the video to a maternity hospital in Rajkot, about 220 km west of Ahmedabad. Over the next five months, they arrested eight men and booked them for cyber terrorism, a section usually applied in cases pertaining to **national security and to protect critical national strategic** assets from cyber attacks.
+
+How did such a video of a patient in a hospital end up online? Police began their probe at the hospital.
+
+The hospital in question is housed in a four-storey commercial building. Couples sit in joined metal chairs in the waiting room, many with medical reports in their hands. A video playing on a screen shows “success stories” of couples leaving the hospital with new-born babies in their arms.
+
+The hospital administrator recollected the shock of discovering the crime last year. “A patient had just gone into labour, and the staff was busy. In the middle of that, a reporter approached us and said footage of our hospital was being shown on the Internet. We were horrified… We didn’t know,” the administrator said.
+
+“We immediately went to the police station. The Rajkot City police told us they were already aware and an FIR had been **registered by the Cybercrime Branch in Ahmedabad City**. We had no facts, other than knowing that CCTV footage from our labour room was being sold online,” he said.
+
+But it wasn’t just one video, and not just one hospital. Investigators soon found that several clips from CCTV footage of women patients in the labour room were being sold on closed Telegram groups, with “trailer” clips advertised on YouTube for potential “buyers”. Prices ranged from Rs 800 to Rs 2,000, depending on the nature of the content.
+
+Story continues below this ad
+
+Staff and patients at the hospital were questioned for days, and CCTV footage was scanned for clues. “The police were here for three-four days,” the hospital administrator said. “They interviewed staff, took our electronic gadgets and spoke to patients… We cooperated, we even went to Ahmedabad a couple of times as part of the investigation. Eventually, they concluded that the CCTV system had been hacked from outside the hospital.”
+
+## The arrests and uproar
+
+On February 18, 2025, the Ahmedabad City Cybercrime Branch found videos on three YouTube channels. They wrote to Google seeking details of the operators of the channels, and following a prompt response from Google, identified people based in Maharashtra and Uttar Pradesh.
+
+Teams were sent to both states, and three accused were apprehended. At a press conference on February 19, 2025, Ahmedabad City Police Joint Commissioner (JCP) Sharad Singhal, DCP (Cybercrime) Lavina Sinha, and DCP (Crime) Ajit Rajian announced that Prajwal Ashok Teli (23) had been arrested in Latur, Maharashtra, Praj Rajendra Patil (19) in Sangli, Maharashtra, and Chandraprakash Phoolchand (33) in Prayagraj, Uttar Pradesh.
+
+Singhal said the men used virtual numbers to communicate with hackers in Romania and Atlanta in the US. The police alleged that CCTV feeds of several hospitals, malls, and commercial buildings had been hacked. The accused allegedly clipped videos of women patients while they were being examined, uploaded snippet-like teasers on YouTube, and offered them for sale. Singhal stressed that prima facie, no hospital staff appeared to be involved.
+
+Story continues below this ad
+
+“The phones of the arrested accused revealed contacts of the other accused persons. We also found videos, groups, and financial transactions on their electronic devices,” an investigator said.
+
+The police unearthed 22 channels that were being run under a Telegram group, ‘Megha Demos’, where videos were categorised by “kinks” such as voyeurism and exhibitionism. Police also found several other Telegram groups — ‘Demo CCTV’, ‘CCTV Injection Group’, ‘CCTV Demo Premium’, and ‘CCTV Group’. While previews were shared on the ‘Demo Group’, videos were sold on the ‘Premium Group’, police officers said. They estimated that the accused may have earned more than Rs 8 lakh from the sale of these videos before the racket was busted.
+
+On February 23, police arrested three more accused: Vaibhav Bhandu Mane (24) of Sangli, Parit Ghanshyam Dhameliya (36) of Surat, and Ryan Robin Pereira (20) of Vasai, Maharashtra.
+
+On February 24 last year, Gujarat Home Minister Harsh Sanghavi told the Assembly that two hackers had hacked more than 50,000 CCTVs in the last eight months, and that these videos were from all across India — including from premises such as corporate offices, schools, colleges, movie theaters and personal videos of homes, apart from hospitals.
+
+Story continues below this ad
+
+On February 26, Delhi resident Rohit Sanjaykumar Sisodia (27) was arrested. Police filed the first chargesheet against the seven on May 17 before the 13th Additional Chief Judicial Magistrate at Gheekanta, Ahmedabad.
+
+An eighth accused, Tushar Anil Santramsingh Bhatia (22) of Dehradun, Uttarakhand, was arrested on June 12 — the same day as the deadly Air India flight AI-171 crash.
+
+“We recovered hacking tools and monetary transactions in Tushar’s digital devices. We also found CCTV footage from other places they had hacked, as well as Telegram groups and communication links to the other accused.”
+
+Police also recovered alleged bank statements and financial paper trails. A supplementary charge sheet was filed on September 12.
+
+Story continues below this ad
+
+## Legal provisions
+
+Prajwal, Praj Patil and Chandraprakash were initially booked under Sections 66E (violation of privacy) and 67 (publication of obscene material) of the IT Act. However, these sections carry a maximum sentence of three-five years and fine, and there was fear that the accused could get bail easily since the quantum of sentence was less than seven years.
+
+The alleged crime, on the other hand, would have lasting repercussions on the victims and their families, officers in the Cybercrime Branch of the Ahmedabad City Police felt.
+
+At a meeting in the Cybercrime Branch headquarters in Shahibaug, police officers debated how the legal knot around the accused could be tightened. One of the officers flagged Section 66F of the IT Act, sources said. On February 21, 2025, the Investigation Officer (IO) sought the permission of the court to add Sections 61 (criminal conspiracy) and 77 (voyeurism) of the Bharatiya Nyaya Sanhita 2023 (BNS) and Sections 43(b) (digital extraction of data), 66 (hacking and data theft), and 66F(2) of the IT Act to the FIR. The last section deals with cyber terrorism and carries a maximum punishment of life imprisonment.
+
+Clause (A) of Section 66F(2) applies when a person illegally accesses or attempts to access a computer system with the intention of threatening the country’s unity, security or sovereignty, or to strike terror among the public.
+
+Story continues below this ad
+
+Clause (B) covers situations where someone knowingly gains unauthorised access to a computer resource and obtains access to restricted or sensitive digital data, and investigators believe that the information could be used in a way that harms national security, foreign relations, public order, decency or morality.
+
+“We were able to invoke Section 66F(2) because prerequisite (B) contains the words, ‘or any restricted information, data or computer data base, with reasons to believe that such information, data or computer data base so obtained may be used to cause or likely to cause injury to the interests of… public order, decency or morality’…,” a senior officer who has associated with the case from the beginning, said.
+
+## Modus operandi of crime
+
+The chargesheet details how the accused coordinated through Telegram, exchanged hacking tools, shared CCTV access credentials, and routed payments via UPI and gift vouchers.
+
+Tushar and Parit were allegedly in touch through the Telegram group. “They…exchanged information on CCTV hacking…and hacking tools, for which they made financial transactions…and got payments to their bank accounts through UPI. They further exchanged QR codes for CCTV access from each other, based on which they hacked the hospital’s CCTV,” says the chargesheet.
+
+Story continues below this ad
+
+“IP logs of Tushar…have been found in the Digital Video Recorder (DVR) of the hospital. Four CCTV hacking applications have been found \[on his mobile phone\]… Eight other hacking tools have been found on his laptop,” it says.
+
+Parit allegedly hacked CCTV cameras of the hospital using hacking tools. “IP logs of accused Parit…have been found in the DVR of the hospital,” says the chargesheet.
+
+According to the chargesheet, footage of the medical examination of a female patient was hacked, and that the accused forwarded the IP address list and photographs to co-accused Rohit Sisodia.
+
+“Based on this IP address…Rohit…entered this IP and password in an application…through which he got access to the CCTV camera of the hospital in Rajkot and hacked \[it\],” says the chargesheet, adding that an Internet Protocol Details Record (IPDR) was also found in the DVR.
+
+Story continues below this ad
+
+Rohit is alleged to have then “downloaded live videos of the medical examination of a female patient…and shared 150 more videos from the CCTV footage…on his Telegram group. To get live access to watch and download videos of the labour room of the hospital, people were asked to pay Rs 700”.
+
+Prajwal allegedly joined the Telegram group after paying Sisodia Rs 700. According to police, he then “downloaded the videos of the hospital and put them up on his own YouTube channel. He further shared the videos with Praj Patil, who, in turn, uploaded them on his YouTube channel.”
+
+Praj Patil too allegedly shared the YouTube links to these videos on his Telegram channel, and set up a payment QR code with a menu of different types of videos for customers.
+
+Vaibhav, police said, is accused of allegedly joining Prajwal to market the videos and share the proceeds from their sale. Parit is also accused of allegedly teaching co-accused Ryan how to hack CCTV cameras, giving him access to the hospital’s footage. Police found Ryan’s IPDR in the DVR of the hospital.
+
+Pereira is accused of deleting evidence from his electronic devices, selling hacking tools to another person named as a witness in the case, and taking payment by means of Amazon gift vouchers, police said.
+
+Another accused, Chandraprakash Phoolchand, also obtained videos from the hospital and uploaded them, along with voyeuristic videos of women at the Mahakumbh, on his YouTube channel.
+
+## Oversight, way forward
+
+Police have not included hospitals as accused, but officers acknowledged there were “oversights” on their part.
+
+They had not changed the default password of the CCTV cameras from “admin@123” after they were installed. And they sometimes failed to draw the privacy curtains in the labour room to shield the patient from the camera.
+
+ACP Hardik Makadia of Ahmedabad City Cybercrime Branch told The Indian Express, “…They had no criminal intent. Staff forgot to draw the curtains sometimes…but we did not find their involvement…”
+
+The hospital administrator conceded there was “mismanagement” on the part of staff who had failed to draw the curtains to ensure patient privacy. But he said that CCTV cameras were necessary in labour rooms and operation theatres to protect doctors against possible “allegations”. “Every patient is different, and there are unexpected risks,” he said. The hospital took patients’ consent, he said, and “The government has not issued any guidelines.”
+
+ACP Makadia stressed on the need for robust cybersecurity. “People are still not doing enough to invest in it,” he said. “The hospital had not changed the default password. The situation is so bad, but many institutions still refuse to pay enough attention to this matter, making themselves vulnerable to hacks.”
+
+Dr Nitin Vora, president of the Gujarat Medical Council (GMC), told The Indian Express, “There are many doctors who display surgeries in the interest of patients and satisfaction of the families. Here, there is no violation because it is done with consent and access is limited to persons involved in the process. As far as certain delicate processes are concerned, the hospital must make sure that unauthorised persons are not able to access such data.”
+
+Dr Vora also stressed on having safer systems. “…We have seen that hackers can breach several layers of security, in which case, the hospital may not be held accountable — but that does not mean we don’t pay attention to cybersecurity, it is the need of the hour,” he said.
+
+The incident has led to an internal study at the Gujarat State Branch of the Indian Medical Association (IMA-GSB) to frame guidelines to ensure the safety and privacy of both patients and medical practitioners.
+
+“In a medical setting, CCTV cameras are placed either for HR purposes – for administrators or unit heads to monitor work – or for safety purposes, to which the privacy of patients is linked, IMA-GSB president Dr Mehul Shah said. “Our team is working on a set of draft guidelines after this incident and we hope to release it in Gujarat soon,” he said.
+
+Dr Bharat Gadhvi, convenor of the Gujarat Association of Hospitals, Nursing Homes and Allied Healthcare Services (GAHNA), said the privacy of patients cannot be compromised.
+
+“While this is enshrined in ethics, it is now also in the Digital Personal Data Protection Act (DPDP) Act, which means it’s the hospital’s responsibility to protect patient data. At the same time, the culprits should be punished severely to deter others,” he said.
+
+---
+
+### Odisha: Massive fire breaks out at Cuttack daily market
+*SECTIONS Odisha Massive fire breaks out · business*
+
+Cuttack: A fire broke out at the fish market section of Cuttack's Link Road daily market section around 3:00 AM on Monday, officials said.
+
+Fire continues to smoulder hours later, highlighting the intensity of the blaze that has kept firefighters engaged throughout the morning.
+
+According to Fire Officer Prashant Kumar Dal, "At 3 am we received information about a fire in the fish market located in the Daily Market on Cuttack Link Road... A total of 8 fire tenders and 50 firefighters are deployed here... The fire extinguishing operation is still going on... There is no danger right now... The fire will be completely extinguished in some time."
+
+  
+
+Fire tenders and supervising officers have been involved in the operation.
+
+Deputy Fire Officer AbKumar Swain said, "We received information around 3 am that a fire had broken out at the fish market on Link Road. Upon reaching the spot, we found that the fish market as well as a nearby building were on fire... The fire has been brought under control for now, there is no problem..."
+
+The fire was so intense that even several hours after it first broke out, smoke continued to billow from the site.
+
+Fire crews remain on the ground working to completely extinguish the blaze.
+
+Earlier in another incident on Friday, a major fire that erupted in a coal-loaded goods train as it passed through Kesinga town in Odisha was completely doused by emergency teams after a swift rescue operation.
+
+Railway authorities acted immediately upon detecting the blaze on Friday at 7:15 PM, successfully preventing injuries or major damage.
+
+According to the East Coast Railways, "a fire was noticed in a coal-loaded goods train in Sambalpur Division while passing through Kesinga at approximately 19:15 hrs today. Railway officials immediately initiated emergency response measures and alerted local authorities."
+
+The train was brought to Titlagarh at around 20:15 hrs, where firefighting operations were promptly undertaken. The Fire Brigade reached the site at about 20:25 hrs and started efforts to extinguish the fire, the release stated.
+
+As per preliminary information, five wagons of the goods train were affected. Senior railway officials and emergency teams are present at the site and closely monitoring the situation.
+
+---
+
+### 10 government jobs that pay more than most private sector salaries in India - Forget the private sector. These Government jobs pay up to ₹2.5 lakh a month
+*ET Online · finance*
+
+Jun 01, 2026, 10:11:09 AM IST
+
+1/11
+
+## Forget the private sector. These Government jobs pay up to ₹2.5 lakh a month
+
+With India's job market still recovering from prolonged hiring slumps, millions of graduates are making a sharp pivot toward government careers. And the numbers explain why. The highest-paying government roles in India offer ₹56,100 to ₹2,50,000+ per month in base pay alone, before housing, transport, and medical perks are added. Here are the top 10.  
+
+ET Online
+
+2/11
+
+## #1: Indian Foreign Service Officer: India's Highest-Paid Diplomats
+
+**Salary**: ₹60,000 – ₹2,50,000+ per month  
+IFS officers represent India on the world stage, managing embassies, negotiating treaties, and shaping foreign policy. Senior ambassadors and the Foreign Secretary sit at the very top of the government pay scale, with postings in global capitals and a lifestyle that very few careers can match.  
+
+Getty Images
+
+3/11
+
+## #2: IAS officer: The most powerful job in Indian bureaucracy
+
+**Salary:** ₹56,100 – ₹2,50,000 per month  
+Indian Administrative Service officers run districts, oversee state governments, and lead central ministries. The role is demanding and highly competitive, but for those who crack it, it offers unmatched authority, job security, and a salary that grows steadily with each promotion through the pay matrix.  
+
+Getty Images
+
+4/11
+
+## #3: IPS and IFoS Officers: Uniform service, top-tier pay
+
+**Salary:** ₹56,100 – ₹2,25,000 per month  
+Indian Police Service officers lead law enforcement and national security operations. Indian Forest Service officers manage environmental policy and forest resources. Both services offer identical pay scales and share a common entry route through the UPSC Civil Services Examination.  
+
+Getty Images
+
+5/11
+
+## #4: RBI Grade B officer: The most coveted banking job in India
+
+**Salary:** ₹78,450 – ₹1.54 Lakh+ per month  
+Working at the Reserve Bank of India is the dream of every banking aspirant and for good reason. RBI Grade B officers help shape India's monetary policy and banking regulations. The competition is fierce, the prestige is enormous, and the perks, including subsidised housing and medical coverage, push total compensation well above the base figure.  
+
+Getty Images
+
+6/11
+
+## #5: PSU executives: Government pay with corporate-scale bonuses
+
+**Salary:** ₹60,000 – ₹1,80,000+ per month  
+Executives at Maharatna companies like ONGC, IOCL, and NTPC occupy a rare sweet spot, the stability of a government job with performance bonuses that rival the private sector. Add in perks like free housing colonies, company vehicles, and children's education allowances, and the real compensation is significantly higher than the headline salary.  
+
+Getty Images
+
+7/11
+
+## #6. ISRO and DRDO Scientists: Prestige, purpose, and a strong paycheque
+
+**Salary:** ₹56,000 – ₹1,50,000+ per month  
+India's space and defence research organisations attract the country's brightest engineering and science graduates. Beyond the salary, ISRO and DRDO scientists receive substantial research allowances, access to world-class facilities, and the rare privilege of working on missions that make national headlines.  
+
+Getty Images
+
+8/11
+
+## #7: Indian Economic Service officer: India's most underrated government career
+
+**Salary**: ₹56,000 – ₹2,20,000 per month  
+IES officers serve as economic advisors and policy architects across central ministries. Entry requires a postgraduate degree in economics and clearing the IES examination, but those who get in earn some of the highest salaries in the civil services, with a career path that touches the highest levels of economic policymaking.  
+
+Getty Images
+
+9/11
+
+## #8: Government doctors and medical specialists: High pay, high impact
+
+**Salary:** ₹70,000 – ₹2,00,000+ per month  
+Government medical professionals start at a higher base than most other services — and rightly so. Senior specialists in central government hospitals also receive a Non-Practising Allowance (NPA), a bonus paid specifically because they are prohibited from running private practice. The result is one of the most financially rewarding career tracks in public service.  
+
+Getty Images
+
+10/11
+
+## #9: University professors (UGC): Academic freedom with a serious salary
+
+**Salary:** ₹57,000 – ₹1,82,000+ per month  
+Central and state university professors governed by the 7th Pay Commission earn far more than their private college counterparts. Professors at the senior scale and above, particularly in premier institutions, combine strong base salaries with research grants, sabbatical opportunities, and lifelong job security.  
+
+Getty Images
+
+11/11
+
+## #10: Defence officers: Risk allowances that put most jobs to shame
+
+**Salary:** ₹56,100 – ₹2,25,000+ per month  
+Army, Navy, and Air Force officers earn competitive base salaries, but the real story is in the allowances. Risk and hardship pay, free accommodation, subsidised ration, canteen access, medical coverage for the entire family, and a pension for life make this one of the most comprehensive compensation packages any Indian employer offers. The uniform comes with a price. The rewards match it.  
+
+Getty Images
+
+---
+
+### Dilip Ghosh hits back at Mamata over Abhishek attack allegation, says ‘Be thankful BJP is in power’
+*ET Online · business*
+
+BJP leader Dilip Ghosh strongly responded to West Bengal Chief Minister Mamata Banerjee over allegations regarding an attack on Abhishek Banerjee. Ghosh said the state government should be thankful that the BJP is in power at the Centre, escalating the ongoing political war of words in Bengal.
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/dilip-ghosh-hits-back-at-mamata-over-abhishek-attack-allegation-says-be-thankful-bjp-is-in-power/videoshow/131434117.cms)
+
+---
+
+### Pune Crime Files: How a Bangladeshi woman with 2 Aadhaar cards was deported twice from India
+*Chandan Haygunde · legal*
+
+Police officers with the Bangladeshi woman before she was deported for the second time (Express photo/Special arrangement).
+
+The deportation of **illegal Bangladeshi immigrants** remains a focal point for law enforcement agencies in India. One recent case highlights the complexity of the issue: a 36-year-old Bangladeshi woman who was deported twice within the last year, first by the Mumbai police and then by the Pimpri-Chinchwad police. The case took a surprising turn when authorities discovered that the woman, identified as Fatima Amjad Akhtar, had obtained two Indian Aadhaar cards under entirely different names.
+
+Acting on a tip-off, the Anti-Terrorist Bureau (ATB) of the Pimpri-Chinchwad police apprehended Fatima in the Bhosari area on November 4, 2025. During the investigation, officers recovered two Aadhaar cards from her possession. Both featured her photograph, but with different names: Mala Vitthal Davkhar and Fatima Fahimuddin.
+
+## From tourist visa to illegal resident
+
+A subsequent police probe revealed that Fatima initially travelled from Bangladesh to India on a tourist visa in July 2019, crossing the international border by road through West Bengal. She returned to Bangladesh in October 2019. However, she re-entered India on another tourist visa on February 25, 2020, and failed to return after her visa expired, the police said.
+
+The police suspect that during her illegal stay, she took the help of an agent in Pune to procure an Aadhaar card in the name of Mala Vitthal Davkhar using forged documents. Sometime later, she married a man named Mohammad Fahimuddin from Karnataka and later obtained a second Aadhaar card under the name Fatima Fahimuddin, the police said.
+
+According to the police, Fatima and Fahimuddin claimed they had married in Karnataka before relocating to Bhosari in Pimpri-Chinchwad, and they produced photographs of their marriage to support their claim. At the time of her arrest, Fatima was working as a domestic worker in Pune, while her husband was employed as an electrician, according to the police.
+
+## Crossing borders again
+
+However, further investigation revealed that the Mumbai police had already arrested Fatima for overstaying her visa and deported her to Bangladesh just three months prior, in August 2025. She allegedly returned to India within two months by illegally crossing the West Bengal border with the assistance of agents. She then returned to Pune and resumed her life with Fahimuddin in Bhosari as an Indian citizen, the police said.
+
+The Pimpri-Chinchwad police successfully gathered evidence of Fatima’s Bangladeshi nationality. “It was known that she was already married to a man in Bangladesh, and they also had a child. But due to some issues, she left her husband and entered India. She procured two Aadhaar cards in India,” a police officer said.
+
+Story continues below this ad
+
+Inspector V D Raut of the ATB confirmed that the process to deport Fatima back to Bangladesh for a second time was quickly initiated.  
+“As per standard procedure, a restriction order was initially issued against her,” said Raut. “Then, on December 8, 2025, she was escorted from Pimpri-Chinchwad and **handed over to the Border Security Force (BSF) in West Bengal** for deportation.”
+
+Chandan Haygunde is an Assistant Editor at The Indian Express, based in Pune. With over 20 years of experience in journalism, he is one of the region's most authoritative voices on crime, national security, and legal affairs. Professional Profile Specialization: He specialises covering issues 
+
+* * *
+
+_**Click here** to join **Express Pune WhatsApp channel** and get a curated list of our stories_
+
+-   Tags:
+-   Bangladeshi immigrants
+-   Pimpri-Chinchwad
+-   Pune Crime Files
+-   pune police
+
+---
+
+### 'Day turned into night': Watch giant wall of dust swallowing China's Harbin as rare sandstorm darkens skies with 13-level winds, flying debris and near-zero visibility
+*Trending Desk · general*
+
+The city of Harbin in Northeast China was hit by extremely strong winds and sandstorm at around 5 pm on Sunday, Global Times reported. The sandstorm was so severe that it led to the uprooting of trees, flying of roof sheets and the gusts reached level 13. The visibility in some areas dropped to less than 100 meters, as fierce winds swept sand and dust through urban areas in China's Heilongjiang Province, the report stated. The fierce winds swept sand and dust through urban areas and briefly turned daytime as dark as night, the China Central Television (CCTV) News reported.
+
+**
+
+## Sky turns dark as powerful sandstorm sweeps through Harbin
+
+Residents of Harbin witnessed an unusual weather event on Sunday when strong winds and blowing sand engulfed parts of the city and turned the sky dark in the middle of the day. Videos shared online showed a massive wall of dust moving across the city, with visibility dropping as the sandstorm advanced.
+
+**Watch the video here  
+**
+
+> — yangyubin1998 (@yangyubin1998)
+
+## Temperatures soared before weather took a dramatic turn
+
+According to meteorologists, Heilongjiang province experienced unusually warm conditions during the day with temperatures in many areas crossing 30°.Harbin recorded a high of 35.3°C, creating ideal conditions for atmospheric instability. The intense heat helped build up energy in the atmosphere before weather conditions changed rapidly later in the afternoon.
+
+  
+
+## Cold air triggered violent weather system
+
+Around 3 pm, a powerful cold air mass swept across Heilongjiang from west to east. As the cold air collided with the existing warm air, it triggered a fast-developing squall line — a band of severe thunderstorms known for producing strong winds and intense weather. The weather system quickly spread across central and western parts of the province, including Harbin.
+
+The sudden clash led to:
+
+Powerful gusty winds  
+Thunderstorms  
+Lightning activity  
+Rapid cloud formation  
+Blowing sand and dust
+
+## Why did a sandstorm occur in Harbin?
+
+Experts noted that sand and dust storms are relatively uncommon in China's Harbin during May. Weather analysts explained that strong southwesterly winds carried dust from dry and sandy regions, including parts of western Jilin Province and Inner Mongolia.
+
+As the winds intensified, loose soil and dust were lifted into the air and transported hundreds of kilometres, eventually reaching Heilongjiang. According to weather experts, the temperature difference between the incoming cold air and the existing warm air was unusually large.
+
+One analyst described the event as being similar to "winter-level cold air colliding with summer-level warm air," creating exceptionally strong winds and severe convective weather. The sharp contrast helped fuel the intensity of the storm system.
+
+## Trees uprooted, vehicles damaged
+
+The extreme weather caused disruption across several parts of Harbin and led to damages including:
+
+Trees being uprooted
+
+Damage to parked vehicles
+
+Power line disruptions
+
+Debris scattered across roads
+
+Emergency teams were deployed to clear fallen trees, restore electricity and remove debris from affected areas.
+
+## More storms forecast this week
+
+Weather officials have warned that unstable conditions are expected to continue across Heilongjiang over the coming days. The province may experience:
+
+Frequent rainfall  
+Thunderstorms  
+Strong winds  
+Hailstorms  
+Sharp temperature swings
+
+Some areas could also face severe convective weather, including the possibility of tornadoes accompanied by damaging winds and hail. Authorities have advised residents to stay alert as weather conditions remain highly unpredictable throughout the week.
+
+---
+
+### Monsoon arrival pushed back again: When will rains finally reach India?
+*India Today Science Desk · general*
+
+India's southwest monsoon, which was supposed to have arrived in Kerala by now, is running behind schedule, and the latest forecast suggests it won't make landfall before June 3, with some weather experts now saying it could slip even further.
+
+This is now the third time forecasters have had to push the date back.
+
+The Indian Meteorological Department (IMD) initially predicted the monsoon would hit Kerala on May 26, earlier than the usual June 1 date, raising hopes of an early start to the rainy season.
+
+That date, however, passed without any onset. The forecast then shifted to May 28, and then back to the usual time of around June 1.
+
+Now, the IMD says onset will not happen before June 3, and the actual arrival could be later still.
+
+A policeman takes cover amid rainfall, in Kolkata. (Photo: PTI)
+
+### WHY IS INDIA'S MONSOON LATE?
+
+Every year, the southwest monsoon makes its first landfall on the Kerala coast before travelling northward to eventually cover the entire country by around late June to early July.
+
+The monsoon's arrival in Kerala is one of the most closely watched weather events of the year, because it marks the official start of India's four-month rainy season.
+
+For the IMD to declare a monsoon onset, three conditions must be met simultaneously: sustained rainfall across at least 60% of Kerala's designated weather stations, westerly winds of a certain speed over the Arabian Sea, and sufficient cloud cover as detected by satellite.
+
+Right now, the winds are the problem.
+
+People cover themselves during heavy rainfall. (Photo: PTI)
+
+Westerly winds over the Kerala coast have remained too weak to trigger the official onset, even though moisture is present and scattered rains have already been falling across parts of the state and Lakshadweep.
+
+A cyclone that formed over the Bay of Bengal made matters worse, as cyclones tend to disrupt and weaken the organised wind flow that the monsoon depends on to push inland.
+
+The IMD expects the winds to gradually strengthen from around June 1, which should set the monsoon in motion, but with conditions still unsettled, the exact date remains uncertain.
+
+### WHAT DOES MONSOON DELAY MEANS FOR INDIA?
+
+A few days' delay in Kerala does not automatically mean trouble for the rest of the country.
+
+The IMD has clarified that the monsoon is only considered officially late, if it fails to arrive by June 8, which is a week after its normal date. So there is still a window for things to fall into place, but the window is closing fast.
+
+Furthermore, the delay is arriving in an already difficult year, where extreme heat has swept large parts of the country, and warnings are being sounded about an intense El Nino, which could further affect the weather patterns.
+
+A weather map for June 1 shows weather systems around India. (Photo: IMD)
+
+It's also due to the strengthening El Nino that the IMD has forecast a below-normal monsoon for 2026, with rainfall expected at just 90% of the long-period average for the season. This latest forecast is, in fact, a downgraded estimation from what the IMD had predicted in April, an estimate of 92%.
+
+A strengthening El Nino is expected to suppress rains, particularly in the second half of the season across central and southern India.
+
+For now, the monsoon has been delayed yet again, and people across the country will have to wait a bit longer to experience cooling showers and winds.
+
+\- Ends
+
+Jun 1, 2026 10:03 IST
+
+
+---
+
 ## 31 May 2026
 
 ### Messi India Tour organiser Satadru Dutta files FIR against Aroop Biswas over alleged ticket diversion, intimidation
