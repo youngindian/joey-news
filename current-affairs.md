@@ -1,3 +1,703 @@
+## 2 June 2026
+
+### Why Trump Cut Tariffs On Farm, Industrial Equipment From 25% To 15% And What It Means For India
+*Shuddhanta Patra · general*
+
+The move comes at a time when trade negotiations between India and the United States are continuing, with an interim deal yet to be finalised.
+
+[Read full article](https://www.news18.com/india/why-trump-cut-tariffs-on-farm-industrial-equipment-from-25-to-15-and-what-it-means-for-india-ws-l-10125457.html)
+
+---
+
+### Suspended Punjab Vigilance reader Rana surrenders, court sends him to 7-day custody
+*Jagpreet Singh Sandhu · legal*
+
+Holding that “custodial interrogation is indispensable as mere questioning may not yield the effective results”, a special CBI court in Chandigarh on Monday granted seven days’ police custody of suspended Punjab Vigilance Bureau reader Om Prakash Singh Rana in a bribery case being investigated by the Central Bureau of Investigation (CBI).
+
+Special Judge Bhawna Jain allowed the CBI’s plea seeking police remand till June 8 after observing that Rana’s custodial interrogation appeared necessary for the recovery of electronic devices and digital evidence, the identification of the larger conspiracy and other beneficiaries, and verification regarding the alleged misuse of confidential vigilance information.
+
+Rana, who had surrendered before the trial court earlier in the day pursuant to an order of the Punjab and Haryana High Court, was represented by Advocate Sumesh Jain. The CBI was represented by Public Prosecutor Narender Singh, assisted by Inspector Kuldeep Singh of CBI ACB Chandigarh.
+
+Seeking seven days of custody, the CBI submitted that a complaint against Amit Kumar, state tax officer, Malout, was pending before the office of the DGP (Vigilance), Punjab, and that co-accused Vikas Goyal and Raghav Goyal facilitated a meeting between the complainant and Rana, who was then serving as Reader to the DGP (Vigilance).
+
+According to the agency, Rana allegedly showed the complainant the vigilance complaint pending against him and thereafter the complainant was taken to a guest house in Sector 30, Chandigarh, where co-accused Vikas and Raghav allegedly demanded illegal gratification of Rs 20 lakh on behalf of Rana and other senior officers for closure of the complaint.
+
+The CBI further submitted that co-accused Ankit Wadhwa, stated to be the driver of Raghav, collected the bribe money and a mobile handset and was apprehended during a trap operation.
+
+Referring to digital evidence, the prosecution submitted that “…Whatsapp chats reveal the active involvement of Rana with co-accused Raghav and Vikas in the conspiracy and even the make, model and the colour of the above said mobile handset purchased by the complainant as per demand, was shared by Raghav with Rana”.
+
+Story continues below this ad
+
+The CBI further submitted that Raghav also shared the complaint made against Amit Kumar with accused Rana through Whatsapp, which “establishes his active knowledge, participation and intention in the commission of the said offence”.
+
+The agency also argued that Rana had remained absconding after registration of the case and did not join the investigation even after dismissal of his anticipatory bail application by the trial court. The prosecution submitted that after he joined in the investigation with the court’s permission on Monday, “he did not disclose anything and did not co-operate, nor did he disclose anything regarding whereabouts of his mobile phones and gave evasive and vague replies”.
+
+The CBI told the court that custodial interrogation was required “to unearth the larger criminal conspiracy and ascertain the nexus between private middlemen and public servants involved in the commission of offence”, trace the money trail, recover mobile phones and electronic gadgets, retrieve deleted WhatsApp chats, confront the accused with co-accused and witnesses, identify facilitators, investigate alleged leakage of confidential vigilance information and ascertain whether similar acts of corruption or extortion had been committed with other persons.
+
+Opposing the remand plea only on the question of duration, counsel for Rana argued that seven days’ police custody was unwarranted. The defence submitted that the accused was ready to facilitate the investigation, that only digital devices were to be recovered, and that confrontation with co-accused could be carried out while they remained in judicial custody. It was argued that one day’s police custody would be sufficient.
+
+Story continues below this ad
+
+After considering the rival submissions, the court observed that “the custodial interrogation of Rana… seems to be necessary for fair investigation of the case”.
+
+The court further noted that Rana had failed to surrender or join the investigation despite dismissal of his anticipatory bail plea and remained on the run until his surrender on Monday. It also observed that the seven-day period sought by the CBI did not appear excessive “keeping in view the nature of the offence, conduct of the accused, his position, his contacts/links and the nature of the evidence which is to be collected at his instance”.
+
+Allowing the CBI’s application, the court remanded Rana to police custody till June 8 and directed the investigating agency to produce him before the court on that date. The court also directed that he be provided all necessary medication as per prescription and permitted him to meet his lawyer, Amardeep Singh Saran, daily from 5 pm to 5.30 pm during the period of police remand, within the sight of a CBI officer.
+
+Meanwhile, Rana’s application seeking regular bail was declined at this stage.
+
+---
+
+### 'First Ram, Then Bam' Was a Result, Not the Cause, of Left's Decline in Bengal
+*Sagarneel Sinha · regional*
+
+_**(This article is a Counterview to an opinion piece published by**_ **The Quint** _**on 18 May, in which author Niladri Chatterjee argues that the ‘First Ram, Then Bam’ idea is a political self-sabotage dressed up as tactical realism. Read the View here.)**_
+
+While analysing the maiden victory of the Bharatiya Janata Party (BJP) in West Bengal, a section of intelligentsia is directly or indirectly trying to blame the Left, primarily the Communist Party of India (Marxist) or CPI(M), for helping the former in ending the 15-year rule of the Trinamool Congress (TMC)-led by Mamata Banerjee. To reinforce their argument, they cite the slogan—_Aagey Ram, Pore Bam_ (First Ram, then Left).
+
+In a recent piece for **The Quint,** author Niladri Chatterjee too cited this slogan, linking it to the self-inflicted political sabotage of the Left. He further wrote, “It (Left) cannot revive class politics while helping legitimise a force (read BJP) that reframes inequality through religious majoritarianism.”
+
+The thesis, while capturing the disillusionment many former Left-supporters/sympathisers feel over the Left's deteriorating form, misidentifies the causes and oversimplifies reality.
+
+## Not Approved by Left Leadership
+
+Those sections of the intelligentsia citing the slogan “_Aagey Ram, Pore Bam_” as the sole cause of the Left's downfall must know that it was never approved by the CPI(M) or the Left leadership. On the contrary, senior Left leaders, including late former state chief minister Buddhadeb Bhattacharjee, repeatedly warned supporters against such tendencies.
+
+During the recent state elections as well, the CPI(M)-led Left Front leaders consistently appealed to its former support base to vote for the Left candidates rather than the BJP.
+
+> From state party secretary Mohammad Salim to former Tripura chief minister Manik Sarkar, former politburo member Brinda Karat to party’s new state face Meenakshi Mukherjee, all projected the Left as an alternative to both the TMC and the BJP.
+
+These statements run counter to the argument that “the Left legitimised the BJP”, though they often remain missing from critical discourse. In fact, “_Aagey Ram, Pore Bam_” slogan, embraced by large sections of the Left’s grassroots, emerged due to the weakness of the Left.
+
+The slogan was **the outcome** of the Left’s diminishing effectiveness and influence, **not the cause**. To present this slogan as a crucial reason for the Left’s decline is to confuse consequence with the cause, and amounts to a flawed understanding of the state’s political dynamics.
+
+## Between Cause and Effect
+
+After the fall of the 34 years of CPI(M)-led Left front government in 2011, the Left failed to properly present itself as a strong Opposition in the state, despite having issues like Saradha scam, and large-scale unemployment.
+
+Internally, there was a leadership vacuum within the CPI(M), with former CM Buddhadeb slowly withdrawing himself from politics due to his failing health. In his absence, there was no other mass-appealing and strong face within the party. Former minister Suryakanta Mishra, who was made the Leader of Opposition, failed to emerge as a popular and strong Opposition leader.
+
+Meanwhile, the conditions of the other Left parties—All India Forward Bloc (AIFB), Revolutionary Socialist Party (RSP), and Communist Party of India (CPI)—were worse than CPI(M).
+
+> Amid this, the Left cadres and supporters across the state faced brutal violence at the hands of the TMC’s local leaders and their supporters. The Left leadership not only failed to protect their base but also failed to launch a grassroots movement to challenge the TMC.
+
+It wasn’t that the Left completely lost ground post-2011 elections. In the 2013 three-tier panchayat elections, the Left performed well in North Bengal, winning the undivided Jalpaiguri Zilla Parishad and was just one seat short of majority in the North Dinajpur Zilla Parishad. It tied with the Congress to emerge as the largest political front in the Malda Zilla Parishad, while losing to the ruling TMC in a closely contested election in South Bengal’s Nadia Zilla Parishad.
+
+But within a year, the Left’s graph not only decreased more but there were signs of the BJP growing at the expense of the Left, which managed to win only two seats in the 2014 Lok Sabha elections with a vote share of 29.61 percent—a loss of more than 11 percent votes in comparison with the 2011 elections. On the other hand, the BJP polled 16.84 percent—a rise of more than 12 percent votes in 2014 elections in comparison to the 2011 elections—and even won two seats.
+
+> This was the first major sign of the Left’s base shifting to the BJP, which was then in ascendance in national politics, riding on a massive "Modi wave".
+
+This section saw the nationally emerging saffron force as a safer option in comparison to the Left, which despite being the main Opposition in the state assembly failed to put up a strong and a sustained resistance against the ruling TMC.
+
+## Setbacks and Defeat
+
+Two years later, CPI(M)-led Left Front allied with its once-arch rival Congress and tried to present a strong opposition against the ruling TMC but this loosely built alliance didn’t receive support from people, including a section of Congress voters. This alliance only got 77 seats while the TMC upped its tally to 211. The CPI(M) ceding too many seats to the Congress—including in areas where it was a weak force—didn’t go down well with the Left’s support base.
+
+Following this setback, the shift of the Left Front’s support base towards the BJP resumed after a brief pause. This shift fastened after the 2018 panchayat elections where the ruling TMC using its state power, brutally suppressed the Opposition by preventing candidates from filing nominations or forcing them to withdraw from contests.
+
+> Once again the Left leadership appeared unable to effectively defend their candidates. This failure fastened the shift of the Left support base to the BJP, which went on to win 18 seats in the 2019 Lok Sabha seats.
+
+In this election, the saffron party’s vote increased to 40.25 percent votes while Left’s vote share dropped to 7.46 percent. In comparison to the 2014 elections, the Left’s vote decreased by around 22 percent while the BJP’s votes increased by 23 percent—a clear indication of a large section of the Left’s support base (mostly Hindus) moving to the BJP.
+
+The 2019 results gave hope among the minds of the Opposition’s voters, mostly Left, that the TMC could be defeated by the BJP—and it was this hope that prevented the former Left support base from returning back to the Left.
+
+It was during the 2019 election that the slogan “_Aagey Ram, Porey Bam_” emerged. Later, this slogan became popular among former Left’s support base that had moved to the BJP.
+
+In the 2021 elections, the Left’s vote share stood at 5.67 percent while in 2024 it increased to 6.3 percent. But again dropped to 5.18 percent in this recent state election. These figures show that post-2019 elections, the Left's loss was minimal, indicating that most of the electoral alignment had already occurred by 2019.
+
+## A Polarised Background
+
+Notably, the TMC government's pro-minority stance caused dissatisfaction among a large section of Hindus. At this time, the BJP emerged with its Hindutva politics as a counter to the TMC’s pro-Muslim identity politics—and this attracted a significant section of the majority Hindus, including the Left’s Hindu base.
+
+> When Hindu consolidation was gradually taking shape in favour of the BJP, the Left leadership failed to respond effectively. Its inability to look things beyond class politics, and understand identity politics is a major reason for the Left’s decline, contributing to the shift of its large Hindu base to the saffron party.
+
+Identity—both caste and religion—is an integral part of people's lived experience. Ignoring identity issues in the name of class struggle has always hurt the Left.
+
+This was evident in North India during the 1980s and 1990s, where the Left suffered setbacks from which it never fully recovered. It thought identity politics wouldn't shape its once old bastion of West Bengal’s politics. Hence, it was never bothered about how to engage with identity politics. As a result, the Left failed to properly engage with identity politics when it started becoming a factor in the state in the last decade.
+
+> Apart from this, the Left’s traditional criticism against capitalism ignores the post-1991 economic realities and seems outdated, having limited appeal among the younger generation.
+
+While it is true that the CPI(M) has been able to bring many young faces and some of them have been able to attract crowd attention, this change was too late to reverse the political realignment of the state.
+
+In addition, the political language and messaging of many of these leaders remains largely unchanged.
+
+_(Sagarneel Sinha is a political commentator and tweets @SagarneelSinha. This is an opinion piece and the views expressed above are the author’s own._ **The Quint** _neither endorses nor is responsible for them.)_
+
+### Read Latest News and Breaking News at The Quint, browse for more from opinion
+
+### Topics:  TMC   CPI(M)   BJP West Bengal
+
+---
+
+### Hezbollah has agreed to ‘mutual cessation of attacks’ with Israel, says Lebanon
+*Express Global Desk · legal*
+
+Rescuers work at the site of an Israeli airstrike that hit a building and damaged a hospital in the southern port city of Tyre, Lebanon. (AP Photo)
+
+Lebanon said that Hezbollah has agreed to a US-proposed plan involving “mutual cessation of attacks” with Israel. According to the country’s embassy in Washington, the Iran-backed group has agreed to halt attacks in exchange for Israel refraining from launching strikes in Beirut.
+
+According to news agency _Reuters_, Hezbollah lawmaker Hassan Fadlallah said the group would support a full ceasefire across Lebanon as a precursor to the withdrawal of Israeli troops.
+
+The statement came after US President Donald Trump said that he held productive talks with Israeli Prime Minister Benjamin Netanyahu and representatives of the Lebanese militant group. He said that there “will be no Troops going to Beirut” and that Hezbollah “agreed that all shooting will stop.”
+
+Benjamin Netanyahu confirmed that he spoke with the US President, but warned that “if Hezbollah does not cease attacking our cities and citizens—Israel will attack terror targets in Beirut.”
+
+Despite Trump’s announcement, exchanges from both sides were reported. The _BBC_ reported Hezbollah saying that it launched three attacks on personnel and assets near two villages in northern Israel, and cited Lebanon’s state-run _National News Agency_ reporting Israeli strikes on several southern areas and an explosion in the town of Debbine.
+
+Netanyahu earlier said that Israel would attack Beirut’s southern suburbs in response to rocket and drone attacks by Hezbollah.
+
+## Operations in Southern Lebanon to continue
+
+While confirming the agreement, Netanyahu said that “the IDF will continue to operate as planned in southern Lebanon.” The development comes days after Israeli forces captured Beaufort Castle — a strategically and symbolically vital location it withdrew from in 2000 — past the Litani River.
+
+Story continues below this ad
+
+Israeli ground ​forces are pushing toward the Zaharani River, marking the deepest incursion in Lebanon in 25 years, _Reuters_ reported.
+
+Tel Aviv intensified its operations in the buffer zone it established south of the Litani River in Lebanon — a region from which Hezbollah launched attacks — last week as the US-Iran ceasefire talks picked up pace.
+
+Following the development, Foreign Minister Abbas Araghchi reiterated that the US-Iran truce was “unequivocally a ceasefire on all fronts, including in Lebanon” — a stance Tehran has maintained since March, when both sides were working towards a ceasefire.
+
+## Trump pressures Netanyahu
+
+After Netanyahu’s statement on social media, _Axios_ reported that Trump lashed out at the Israeli PM and called him “crazy” in an **expletive-laden conversation** over the operation in Lebanon, before he put the brakes on Tel Aviv’s plans to hit Beirut. The operation in Lebanon has killed over 3,000 people and displaced over a million, according to the United Nations, citing Lebanese authorities.
+
+Story continues below this ad
+
+According to a _New York Times_ report last week, the distance between Washington and Tel Aviv has grown, with Israeli officials being kept out of the loop in the peace talks between US and Iranian officials as both sides set the conditions for a deal.
+
+The agency, citing US officials, reported that Trump had viewed Netanyahu as a war ally, but not as a close partner when it came to negotiating with Tehran, as their priorities appeared to diverge over time. The White House has been more focused on ending the war as global oil prices surge owing to the closure of the Strait of Hormuz and the US mid-term elections scheduled to take place in November, this year.
+
+In the initial weeks of the war, Tel Aviv and Washington were on the same page, although their goals seemed to oscillate between regime change, Iran’s nuclear capability and ballistic missiles programme.
+
+The Express Global Desk at indianexpress.com which delivers authoritative, verified, and context-driven coverage of key international developments shaping global politics, policy, and migration trends. The desk focuses on stories with direct relevance for Indian and global audiences, combining breaking news with in-depth explainers and analysis. A major focus area of the desk is US immigration and visa policy, including developments 
+
+**Stay updated with the latest - Click here to follow us on Instagram**
+
+-   Tags:
+-   Hezbollah
+-   Iran-Israel War
+-   Lebanon
+
+---
+
+### Meet the first wave of Nvidia RTX Spark laptops launching later this year
+*Tech Desk · legal*
+
+The upcoming devices promise all-day battery life, slim designs and powerful AI capabilities, with launches expected later this year. (Image: Reuters)
+
+Nvidia has officially entered the consumer laptop processor market with its new RTX Spark platform, marking a major expansion beyond its traditional graphics card business. Nvidia made the announcement at Computex 2026 by revealing its Arm-based RTX Spark superchip, which is already being used in some of the world’s leading PC brands’ laptops.
+
+Microsoft, Asus, Dell, HP, Lenovo, and MSI are among the companies preparing RTX Spark laptops for launch this fall, with Nvidia promising high-performance AI computing, long battery life, and ultra-thin designs.
+
+The flagship RTX Spark configuration features 20 CPU cores, 6,144 GPU cores, and up to 128GB of LPDDR5X memory. The chip is closely 
+
+## **Microsoft Surface Laptop Ultra**
+
+Microsoft is introducing the Surface Laptop Ultra, which it describes as the most powerful Surface laptop ever built. The device features a 15-inch PixelSense Ultra mini-LED touchscreen capable of reaching 2,000 nits of peak HDR brightness.
+
+The laptop includes HDMI, USB-C, USB-A, SD card and headphone jack connectivity, along with Microsoft’s largest-ever haptic touchpad. While detailed specifications and pricing remain under wraps, the company is positioning the device as a flagship AI-powered productivity machine.
+
+## **Asus targets creative professionals**
+
+Asus has revealed two RTX Spark-powered models under its ProArt lineup: the ProArt P16 and ProArt P14.
+
+The larger ProArt P16 features a 16-inch 4K OLED display with a 120Hz refresh rate, up to 128GB LPDDR5X memory, up to 2TB SSD storage and a 99.9Wh battery. The more compact ProArt P14 offers a 14-inch 3K OLED display, up to 128GB memory and up to 1TB storage.
+
+Story continues below this ad
+
+Both laptops are aimed at creative professionals and include Pantone-validated displays, Dolby Vision support, touch functionality and multiple USB-C ports. Asus has also replaced its signature DialPad control wheel with new haptic touchpad features.
+
+## **MSI joins with convertible design**
+
+MSI’s RTX Spark offering, the Prestige N16 Flip AI Plus, adopts a 2-in-1 convertible form factor. The laptop features a 16-inch 4K OLED display with more than 1,000 nits of brightness and 100% DCI-P3 colour coverage.
+
+The device will also support MSI’s Nano Pen stylus, which can function as both a writing tool and an AI microphone for Microsoft Copilot experiences.
+
+## **Dell, HP and Lenovo prepare launches**
+
+Dell has confirmed a refreshed XPS 16 powered by RTX Spark, while HP is preparing the OmniBook X 14 and OmniBook Ultra 16. Lenovo is also bringing the new chipset to its Yoga Pro 9n lineup.
+
+Story continues below this ad
+
+Although detailed specifications have not yet been announced, Nvidia says all RTX Spark laptops will offer all-day battery life and slim designs measuring as little as 14mm thick.
+
+More than 30 RTX Spark-powered laptops are expected to launch globally later this year, signalling Nvidia’s biggest push yet into the AI PC market and setting up fresh competition with processors from Intel, AMD and Qualcomm.
+
+---
+
+### 'Singham' Returns? Why Annamalai Remains Relevant In Tamil Nadu With Zero Election Wins
+*Pragati Ratti · general*
+
+Annamalai is set to meet Home Minister Amit Shah in Delhi on Tuesday amid speculation that he may quit Tamil Nadu BJP and form his own party.
+
+[Read full article](https://www.news18.com/explainers/singham-returns-why-annamalai-remains-relevant-despite-not-winning-a-single-election-ws-l-10125456.html)
+
+---
+
+### ‘There was no 16-hour study schedule, played sports’: JEE Advanced AIR 10
+*Vidheesha Kuntamalla · legal*
+
+On the days when his preparation for JEE (Advanced) took a toll on him, Sikka would step away from his desk. He would play chess, head out to play sports with friends, or simply leave the books behind for a few hours.
+
+“I tried studying 14-15 hours a day for two days,” he recalled. “It didn’t work for me. The cognitive load became too much. I couldn’t process things properly and my problem-solving ability started going down.” he told The Indian Express on Monday.
+
+Among the 1,79,694 candidates who appeared for both papers of JEE (Advanced) 2026 on May 17, Sikka secured an All India Rank (AIR) 10 with a score of 311 out of 360 marks. The results, declared on Monday, placed him among the country’s highest-performing engineering aspirants.
+
+All three top rankers — Shubham Kumar, Kabir Chhillar, and Jatin Chahar — belong to the IIT Delhi zone, which dominated the Common Rank List (CRL) this year.
+
+While Kumar scored 330 out of 360 marks, Chhillar received 329 marks. Chahar secured the third place with 319 marks.
+
+For Sikka, who lives near South Extension and studied at Delhi Public School, R.K Puram, the journey to crack one of India’s toughest examinations began much earlier, in Class 9.
+
+Some of his friends had started preparing for competitive examinations, and he found himself drawn to the challenge. “I tried some problem-solving and liked the idea of solving difficult questions,” he said. “I wanted to take it up as a challenge. And Indian Institute of Technology (IIT) is one of the most prestigious institutions, so I wanted to get into it.”
+
+Story continues below this ad
+
+Sikka says chemistry wasn’t his strong suit. “Chemistry was my major weakness during preparation,” he said. “I kept revising repeatedly, and because of support from my teachers, I was able to improve my performance.”
+
+“There wasn’t a 16-hour study schedule,” he said with a laugh. Instead, he generally limited himself to around 10 or 11 hours of study each day and made sleep non-negotiable.
+
+“I tried to get seven hours of sleep every day,” he said. “My mother made sure of it. If I wasn’t getting enough sleep, she would practically force me to sleep.”
+
+His father played a different but equally important role. When mock test scores dipped and frustration mounted, the solution was often not another practice paper. “My father would say, ‘let’s go somewhere,'” Sikka said. “Just getting out with family helped.”
+
+Story continues below this ad
+
+The breaks, he believes, were essential. “Studying continuously for very long hours didn’t work for me. The mental load became too much to handle.”
+
+Throughout his preparation, he maintained friendships, continued playing sports and occasionally turned to chess to clear his mind. The friendships extended to his coaching centre as well.
+
+“My friend group was very good,” he said. “The teachers were also quite chill. There were a lot of jokes and fun interactions in class.”
+
+Sikka expects to pursue Computer Science, choosing between IIT Bombay and IIT Delhi. At the moment, IIT Bombay appears to be the frontrunner, though he says he has not made a final decision.
+
+Story continues below this ad
+
+“I’ll get to meet new people and make new friends. I think the peer group will be very good.” he said, adding that he is excited to step into an IIT for further studies.
+
+However, if there is one thing he remains uncertain about, it is the future beyond college. When he was younger, Sikka developed a strong interest in web development and imagined building a career around it. But the rapid rise of Artificial Intelligence (AI) has forced him to rethink his options.
+
+“I used to think web development was a great career option,” he said. “Then, a couple of years later everyone started saying that AI would build websites.”
+
+“Right now, I want to keep an open mind,” he added. “I’ll explore different things in college and then decide what interests me the most.”
+
+Story continues below this ad
+
+Now, with the examination behind him, Sikka is rediscovering the hobbies that had taken a back seat due to the preparation. Tennis, video games and hangouts with friends have returned to his routine. Later this month, he will visit relatives in Punjab before heading to Scotland with his family.
+
+---
+
+### 'I Fear For My Life': Key Witness Assaulted By Accused Husband’s Friends In Twisha Sharma Case
+*Aanchal Sinha · general*
+
+Describing the incident, Dubey said he was standing near his parlour when four to five friends of Samarth Singh arrived and surrounded him.
+
+[Read full article](https://www.news18.com/india/i-fear-for-my-life-key-witness-assaulted-by-accused-husbands-friends-in-twisha-sharma-case-ws-kl-10125421.html)
+
+---
+
+### Coforge shares gain over 2% after unveiling agentic AI platform for insurance industry
+*Veer Sharma · general*
+
+Shares of Coforge rose more than 2% to their day’s high of Rs 1,495 on the BSE on Tuesday after the company announced the launch of its "Nexa Agentic AI Platform", a business platform that aims to cater to the global insurance industry.
+
+According to the company, the platform is designed to help insurers derive greater value from their existing insurance platforms and speed up time-to-market without replacing core systems. Instead, it layers AI orchestration capabilities over incumbent platforms while operating within the guardrails of leading platform providers.
+
+Built on the Coforge One AI platform, Nexa Agentic AI Platform offers a marketplace of more than 30 insurance AI assets covering underwriting, claims, product development, customer service and platform modernisation. The company said the platform is modular and composable, allowing insurers to deploy specific capabilities or adopt the full suite through an Insurance-in-a-Box model.
+
+Coforge said the platform is purpose-built for the global insurance market across Property & Casualty, Life & Annuities, Specialty insurance, as well as managing general agents (MGAs) and intermediaries. It incorporates human-in-the-loop oversight, full auditability and measurable outcomes.
+
+The platform includes six flagship orchestrators spanning the insurance value chain. These include an AI-enabled Submission Centre, which the company said can increase underwriting capacity by more than 30% through automated data extraction, validation and prioritisation.
+
+Another offering, the Agentic State Rollout Factory, is designed to automate rates, forms and filings across jurisdictions, enabling more than 25% faster realisation of new revenue. The AI-enabled Product Rollout Factory aims to accelerate product launches by 30% while improving quality and responsiveness to regulatory changes.
+
+Coforge also introduced an Agentic AI Global Expansion capability to support market entry across geographies, a Core Platform Modernisation capability that it said can reduce total cost of ownership by more than 30%, and an Agentic Claims Triaging Centre that can enable more than 35% faster claims triaging and higher straight-through processing.
+
+Rajeev Batra, Executive Vice President and Global Practice Head of Insurance at Coforge, said the platform combines the company's AI engineering capabilities with its insurance domain expertise to help clients scale AI adoption and business outcomes.
+
+**  
+The company said the platform is designed around key insurance stakeholders, including brokers, underwriters, claims adjudicators and customer service agents. Looking ahead, Coforge plans to progressively integrate insurance knowledge graphs into the platform to enhance insurance-specific reasoning across submissions, policies, claims and customer interactions.
+
+Coforge said Nexa Agentic AI Platform will form a key part of its insurance go-to-market strategy, helping clients accelerate AI adoption while preserving existing technology investments and complying with platform guardrails.
+
+(**Disclaimer**: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)
+
+---
+
+### Trump administration proposes 25% tariff to punish Brazil over trade practices
+*SECTIONS Trump administration proposes · general*
+
+The Trump administration has proposed a new punitive tariff of 25% on many imports from Brazil, after deciding its practices were unfair on a range of issues from digital trade to illegal deforestation, top trade official Jamieson Greer said on Monday.
+
+The measures, under the Section ‌301 trade legislation, ⁠cover areas such ⁠as electronic payment services, preferential tariffs, intellectual property protection and ethanol market access as well, the Office of the United States Trade Representative said.
+
+It proposed ​the new duties as it released the results of its unfair trade practices investigation into Brazil that started last year under Section 301 ​of the Trade Act of 1974.
+
+  
+
+But it excluded some items, such as beef, coffee, rare earths, other metals and aircraft parts from the new tariffs.
+
+Brazil's practices in the areas investigated "are unreasonable and burden or restrict U.S. commerce, are thus actionable under ​Section 301(b) of the Trade Act," the USTR said in a statement.
+
+The tariffs ⁠would partially ‌replace a tariff of 50% on many Brazilian goods imposed last year by President Donald Trump, with ​40% as a ​punishment for Brazil's prosecution of its former president, Trump ally Jair Bolsonaro.
+
+However, the U.S. Supreme ⁠Court struck down those duties in February.
+
+In a statement, Greer said he launched ​the Section 301 investigation to tackle "longstanding and pervasive U.S. concerns with certain of Brazil's trade ​policies and practices."
+
+Despite recent engagement with Brazilian President Inacio Lula da Silva and his cabinet, Greer said the United States and Brazil "continue to have substantial differences in resolving issues identified in this investigation."
+
+## PUBLIC HEARING ON PROPOSED TARIFFS SET FOR JULY 6
+
+The trade agency invited comment on the proposed tariffs through July 1, with a public hearing set for July 6. It faces a July 15 deadline for taking "responsive action" in the Section 301 investigation.
+
+Trump used the same statute to impose sweeping ‌tariffs on Chinese goods during his first term.
+
+The USTR has several other open Section 301 investigations that are expected to lead to new duties.
+
+Among these are one covering excess industrial capacity in China and ​15 other trading ​partners, as well as one ⁠into enforcement of forced labor bans in 60 countries.
+
+The agency opened a new investigation on Friday into Vietnam's intellectual property practices.
+
+Regarding its Brazil findings, the USTR said the proposed new 25% tariff would not apply to Brazilian imports subject to national security-
+
+These include 50% duties on steel, aluminum and copper and 25% duties on finished products made from those metals, as well as a 25% duty on motor vehicles and auto parts.
+
+The USTR said products exempted from the proposed 25% tariffs included many fruits and nuts, crude oil and petroleum products, pharmaceutical compounds, organic chemicals and fertilizers.
+
+These are in addition to beef, coffee, rare earths, certain other metals and ores and Brazilian aircraft and aircraft parts.
+
+---
+
+### Why teenagers grow silent around parents and feel emotionally unsafe
+*Dr Alisha Lalljee · legal*
+
+A major reason why children stop expressing themselves is the fear of judgment and criticism (Image: Ai generated)
+
+5 min readJun 2, 2026 10:00 AM IST First published on: Jun 2, 2026 at 10:00 AM IST
+
+“I needed someone to listen and understand what I was going through. I couldn’t think of anyone else but my mother. I told her what I was dealing with, but instead of understanding my emotions, she started giving me life lessons, which didn’t help at all in making me feel better. I still thought that I felt safe after sharing things with her, but it was only after a while that she used what I had shared with her against me in an argument. When I confronted her, the words that came out of her mouth were, ‘too sensitive’. Sharing my thoughts always felt like a burden since then, and I stopped sharing anything with my parents.”
+
+For many families, exchanges like these have become painfully normal. Parents often describe their children as distant or secretive, while children describe feeling misunderstood, judged, or emotionally unheard. What appears to be simple teenage silence is often far more complex. Children rarely stop communicating all at once. Most grow quieter gradually, after repeated moments where speaking honestly no longer feels safe or meaningful.
+
+Some children grow quiet not because they no longer care about their parents, but because silence feels emotionally safer than communication. Silence becomes a defense mechanism for them. Today’s teenagers face constant social media exposure, online judgment, academic competition, and rising mental health struggles. Many young people feel that their parents cannot fully understand these pressures because their own childhood experiences were different. When children expect misunderstanding, they often stop explaining themselves altogether.
+
+Another major reason why children stop expressing themselves is the fear of judgment and criticism. Phrases like “too sensitive” had it much worse than often make the child feel neglected, and they grow up believing that honesty will lead to criticism instead of understanding. This also results in the child thinking that silence protects them from disappointment, lectures, or conflict.
+
+Emotional invalidation also creates distance between children and their parents.
+
+ Teens may also stop talking when they feel that their emotions no longer have a safe place to exist (Image: Pexels)
+
+While many parents feel that they are helping by minimising problems, children often interpret their responses as dismissal. This emotional distance leads to children feeling emotionally neglected and hence stopping expressing themselves. The effects of emotional distance often create low self-esteem, anxiety, and a **sense of loneliness** due to children being unable to trust or open up to anyone. Yet, the solution to this is not perfect parenting. It is quite simple.
+
+### Communication and emotional safety
+
+What children often seek is to feel heard without any judgment, correction, or dismissal of their emotions. They want to be understood without the fear of disappointment, shame, or criticism. Communication grows where emotional safety exists. When children feel safe and understood, silence becomes unnecessary. In many homes, it is not the absence of love that is making children grow silent, but the absence of understanding and emotional neglect.
+
+Children do not stop talking because they stop loving their parents; they stop talking when they slowly begin feeling that their emotions no longer have a safe place to exist. Silence is rarely created by one major incident. More often, it is built through small moments that may seem insignificant to adults but stay with children for years. A feeling being dismissed, a struggle being compared, a vulnerability being used in an argument, or emotions being met with criticism instead of comfort can quietly shape the way a child views communication within a home. Over time, these moments can make children believe that opening up will only lead to disappointment, misunderstanding, or judgment.
+
+Children need someone who listens without interruption
+
+This conversation is not about blaming parents or placing unrealistic expectations on families because parenting itself is not easy. Most parents act out of love and genuinely want the best for their children. They work hard to provide security, opportunities, and guidance because they believe they are protecting their children from future pain. However, children are not always searching for solutions, life lessons, or immediate answers. Sometimes they simply need someone who will listen without interruption and understand without dismissing their feelings.
+
+Children may forget many things that are said to them while growing up, but they rarely forget how they were made to feel. A child who grows silent is not
+
+asking for less love or attention. More often, they are asking for understanding, emotional safety, and reassurance that their thoughts and emotions matter.
+
+When children feel heard and understood, silence no longer feels like protection.
+
+(This article has inputs from Ishika Singh, 16, a Class 12 student of Ann Mary School in Dehradun).
+
+---
+
+### CBSE Class 12 post-result portal inaccessible, left in lurch, say students amid OSM row
+*Vidheesha Kuntamalla · legal*
+
+For a Class 12 student who scored 97 marks each in Physics and Mathematics but 79 in Chemistry, the delay in re-evaluation of his Chemistry answer book has become a source of anxiety. (Source: AI generated)
+
+Amid complaints over errors in this year’s Class 12 board results linked to **CBSE’s On-Screen Marking (OSM),** a digital evaluation system introduced for the first time this year, the Post-Result Activities portal — that was to become operational from Monday to address re-evaulation concerns— remained inaccessible throughout the day, claimed students and principals. Amid looming college admission and counselling deadlines, the delay in the re-evaluation has left students in lurch.
+
+A CBSE official, speaking on condition of anonymity, told _The Indian Express_ that the technical team was working to fix the website and oversee its rollout. “The portal will open soon. IIT Madras and IIT Kanpur teams are working closely with us to make the platform as robust as possible,” the official said, acknowledging the inconvenience caused to students.
+
+A principal of a private school in Southwest Delhi said students had been closely monitoring the portal since Monday morning “All my students were waiting for the portal to open. We are just waiting, and they are all very worried,” the Principal said.
+
+“Counselling for several colleges is about to begin. That is what is bothering the students.”
+
+Students say that repeated delays in re-evaluation have created uncertainty at a time when admission processes are beginning across institutions.
+
+For 17-year-old Kushal Jain, a Class 12 student who scored 97 marks each in Physics and Mathematics but 79 in Chemistry, the delay in re-evaluation of his Chemistry answer book has become a source of anxiety. “The registration for Joint Admission Counselling (JAC) Delhi for admission to engineering and B Arch programme closes on June 9. My counselling starts on June 2. CBSE keeps extending the dates and students are stuck in limbo… my revised score may give me a better chance in the admission process. But delayed revision won’t help,” he said.
+
+The latest delay comes after multiple glitches were faced by students while trying to access their scanned answer books.
+
+Story continues below this ad
+
+On May 29, CBSE had said that the portal would become operational from June 1.
+
+The board said the delay was intended to ensure a “transparent and glitch-free process” and maintain the “highest standards and protocols of evaluation”.
+
+The facility is available to candidates who have already obtained scanned copies of their evaluated answer books.
+
+Under the revised post-result process introduced this year, students must first obtain scanned copies of their evaluated answer books, compare them with the official marking scheme and question paper, and then submit applications identifying specific questions they believe require re-evaluation, along with reasons.
+
+Story continues below this ad
+
+Initially, applications for scanned copies of evaluated answer books were to be accepted from May 19 to May 22. On May 24, CBSE extended the deadline the second time for obtaining scanned copies until midnight of May 25, stating that students required additional time to submit requests.
+
+The new post-result mechanism has been introduced this year alongside a significantly revised fee structure. The board reduced the fee for obtaining scanned copies of evaluated answer books from Rs 700 to Rs 100, the fee for verification of issues observed from Rs 500 to Rs 100, and the re-evaluation fee from Rs 100 per question to Rs 25 per question. CBSE has also said that fees will be refunded if marks increase after re-evaluation.
+
+© The Indian Express Pvt Ltd
+
+Vidheesha Kuntamalla is a Senior Correspondent at The Indian Express, based in New Delhi. She is known for her investigative reporting on higher education policy, international student immigration, and academic freedom on university campuses. Her work consistently connects policy decisions with lived realities, foregrounding how administrative actions, political pressure, and global shifts affect students, faculty, and institutions. Professional Profile Core Beat: Vidheesha covers education in Delhi and nationally, reporting on major public institutions including the University of Delhi (DU), Jawaharlal Nehru University (JNU), Jamia Millia Islamia, the IITs, and the IIMs. She also reports extensively on private and government schools in the National Capital Region. Prior to joining The Indian Express, she worked as a freelance journalist in Telangana and Andhra Pradesh for over a year, covering politics, rural issues, women-centric issues, and social justice. Specialisation: She has developed a strong niche in reporting on the Indian student diaspora, particularly the challenges faced by Indian students and H-1B holders in the United States. Her work examines how geopolitical shifts, immigration policy changes, and campus politics impact global education mobility. She has also reported widely on: \* Mental health crises and student suicides at IITs \* Policy responses to campus mental health \* Academic freedom and institutional clampdowns at JNU, South Asian University (SAU), and Delhi University \* Curriculum and syllabus changes under the National Education Policy Her recent reporting has included deeply reported human stories on policy changes during the Trump administration and their consequences for Indian students and researchers in the US. Reporting Style Vidheesha is recognised for a human-centric approach to policy reporting, combining investigative depth with intimate storytelling. Her work often highlights the anxieties of students and faculty navigating bureaucratic uncertainty, legal precarity, and institutional pressure. She regularly works with court records, internal documents, official data, and disciplinary frameworks to expose structural challenges to academic freedom. Recent Notable Articles (Late 2024 & 2025) 1. Express Investigation Series JNU’s fault lines move from campus to court: University fights students and faculty (November 2025) An Indian Express investigation found that since 2011, JNU has appeared in over 600 cases before the Delhi High Court, filed by the administration, faculty, staff, students, and contractual workers across the tenures of three Vice-Chancellors. JNU’s legal wars with students and faculty pile up under 3 V-Cs | Rs 30-lakh fines chill campus dissent (November 2025) The report traced how steep monetary penalties — now codified in the Chief Proctor’s Office Manual — are reshaping dissent and disciplinary action on campus. 2. International Education & Immigration ‘Free for a day. Then came ICE’: Acquitted after 43 years, Indian-origin man faces deportation — to a country he has never known (October 2025) H-1B $100,000 entry fee explained: Who pays, who’s exempt, and what’s still unclear? (September 2025) Khammam to Dallas, Jhansi to Seattle — audacious journeys in pursuit of the American dream after H-1B visa fee hike (September 2025) What a proposed 15% cap on foreign admissions in the US could mean for Indian students (October 2025) Anxiety on campus after Trump says visas of pro-Palestinian protesters will be cancelled (January 2025) ‘I couldn’t believe it’: F-1 status of some Indian students restored after US reverses abrupt visa terminations (April 2025) 3. Academic Freedom & Policy Exclusive: South Asian University fires professor for ‘inciting students’ during stipend protests (September 2025) Exclusive: Ministry seeks explanation from JNU V-C for skipping Centre’s meet, views absence ‘seriously’ (July 2025) SAU rows after Noam Chomsky mentions PM Modi, Lankan scholar resigns, PhD student exits SAU A series of five stories examining shrinking academic freedom at South Asian University after global scholar Noam Chomsky referenced Prime Minister Narendra Modi during an academic interaction, triggering administrative unease and renewed debate over political speech, surveillance, and institutional autonomy on Indian campuses. 4. Mental Health on Campuses In post-pandemic years, counselling rooms at IITs are busier than ever; IIT-wise data shows why (August 2025) Campus suicides: IIT-Delhi panel flags toxic competition, caste bias, burnout (April 2025) 5. Delhi Schools These Delhi government school grads are now success stories. Here’s what worked — and what didn’t (February 2025) ‘Ma’am… may I share something?’ Growing up online and alone, why Delhi’s teens are reaching out (December 2025) ... 
+
+**Stay updated with the latest - Click here to follow us on Instagram**
+
+-   Tags:
+-   CBSE
+-   CBSE 12th Results
+
+---
+
+### Srinagar Airport announces partial runway closures for maintenance starting July 2026; total runway shutdown from October 1
+*Unknown · general*
+
+Srinagar: Srinagar International Airport has outlined a schedule for runway maintenance work proposed by the Indian Air Force, which may impact flight operations starting this July. As part of the planned runway maintenance, it is proposed that the runway at Srinagar Airport may remain unavailable on every Monday and Tuesday from 01 July 2026 to 30 September 2026.
+
+Further, a total closure of runway operations is proposed from 01 October 2026 to 16 October 2026.
+
+According to the Srinagar Airport authority, " the passengers are requested to stay connected with Srinagar Airport and their respective airlines for authentic and timely information, and avoid relying on unverified sources. "
+
+  
+
+In response to the upcoming runway maintenance schedule, Srinagar Airport issued an advisory through a post on X.
+
+The airport stated, "Important Notice for Passengers, Under the proposed runway maintenance (maintenance) works by the Indian Air Force, it has been planned that the runway at Srinagar Airport will be unavailable every Monday and Tuesday from 01 July 2026 to 30 September 2026."
+
+Airport further emphasised the importance of staying informed through official channels regarding the proposed runway maintenance.
+
+It said, "Additionally, it is also proposed to keep the runway operations completely closed from 01 October 2026 to 16 October 2026. Passengers are informed that the above plan is currently in the planning phase. As soon as it receives formal approval, detailed information will be shared through official channels."
+
+> Passenger Advisory from Srinagar Airport ✈️
+> 
+> As part of the planned runway maintenance works by the Indian Air Force, it is proposed that the runway at Srinagar Airport may remain unavailable on every Monday and Tuesday from 01 July 2026 to 30 September 2026.
+> 
+> Further, a total… pic.twitter.com/KZpVLKurwt
+> 
+> — Srinagar Airport (@SrinagarAirport) June 2, 2026
+
+Meanwhile, due to a NOTAM (Notice to Airmen) issued for Srinagar Airport and ongoing runway maintenance resulting in temporary runway length restrictions, payload limitations have been imposed on aircraft operations in the interest of flight safety, according to the Ministry of Minority Affairs.
+
+To avoid disruption to Hajj flight schedules and minimise inconvenience to pilgrims, the return journey of Hajj pilgrims operated by Akasa Airlines to the Srinagar Embarkation Point has been planned via Ahmedabad with 35 kg check-in baggage allowance up to Ahmedabad.
+
+Thereafter, 5 kg check-in baggage per pilgrim will be carried on the Ahmedabad-Srinagar flight, while the remaining 30 kg baggage will be transported separately by road to Srinagar. There is no change in the cabin baggage allowance.
+
+These arrangements were necessitated solely by airport operational constraints and aviation safety requirements. The Ministry of Minority Affairs, Hajj Committee of India and J&K State Hajj Committee are in constant coordination with all stakeholders to ensure the safe, smooth and dignified return of pilgrims.
+
+Safety cannot be compromised, and all decisions have been taken in the best interests of the pilgrims, the ministry stated. (ANI)
+
+---
+
+### City records over 20,000 MTP cases | 716 abortions among girls below 19 in Mumbai in 2024-25: RTI data
+*Purnima Sah · legal*
+
+RTI data from the BMC reveals that women aged 25-29 accounted for the highest number of medical terminations of pregnancy in the city. (File)
+
+At least 716 abortions were recorded among girls below the age of 19 in Mumbai between April 2024 and March 2025, according to information obtained under the Right to Information (RTI) Act. The data further shows that the city recorded a total of 20,950 Medical Termination of Pregnancy (MTP) procedures during the year, with failure or inadequate use of contraception emerging as the most commonly cited reason.
+
+The information was provided by the Brihanmumbai Municipal Corporation’s (BMC) Family Welfare Unit in response to an RTI application filed by activist Chetan Kothari seeking details on abortions, maternal deaths, and abortion-
+
+According to the RTI data, women in the 25-29 age group accounted for the highest number of abortions, with 7,296 cases recorded during 2024-25. This was followed by women aged 30-34 years, among whom 5,673 abortions were reported. The 20-24 age group accounted for 3,314 cases, while 716 abortions were recorded among girls below 19 years of age.
+
+Kothari said, “The data indicates that contraceptive failure or inadequate use of contraceptive methods accounted for the overwhelming majority of abortions. Of the 20,685 cases for which reasons were recorded, 19,495 were attributed to improper or inadequate use of contraception or failure of contraceptive methods.”
+
+A senior BMC health official, however, said, “I would not interpret this data as evidence of contraceptive failure alone. In many cases, women may not have used contraception correctly, may not have fully understood how to use it, or may be hesitant to disclose contraceptive use due to social stigma or embarrassment. Collecting such information requires detailed counselling and careful questioning by doctors. The data provided through the RTI is based on information recorded during medical consultations, but these records may not always capture the complete picture. Therefore, it would be inaccurate to conclude that all these cases resulted from contraceptive failure.”
+
+Other reasons cited included danger to the life of the pregnant woman in 271 cases, grave injury to her physical health in 288 cases, grave injury to mental health in 358 cases, pregnancies resulting from rape in 27 cases, substantial risk of foetal abnormalities in 246 cases, and other reasons in 265 cases.
+
+The RTI response also provides a ward-wise break-up of abortion cases across Mumbai. K-West ward reported the highest number of MTP cases at 3,248, followed by F-North ward with 1,960 cases, S ward with 1,650 cases, R-North ward with 1,297 cases and G-South ward with 1,288 cases.
+
+Story continues below this ad
+
+Religion-wise data shows that Hindu women accounted for 15,765 abortions, followed by Muslim women at 3,442 cases. The figures also include 649 Christian women, 354 Sikh women and 740 women from other communities.
+
+Apart from induced abortions, the city also reported 4,226 spontaneous abortions, or miscarriages, during the same period, according to the RTI response.
+
+Kothari had also sought similar information through an RTI application in 2017. The response, covering the period between April 2017 and March 2018, recorded 19 maternal deaths linked to abortion. Of these, 13 deaths were reported among women aged 19–25 years, three in the 26–29 age group, and another three among women aged 30–35 years.
+
+Religion-wise, the data recorded nine maternal deaths each among Hindus and Muslims, and one among Christians. During the same period, Mumbai recorded a total of 35,358 medical terminations of pregnancy (MTPs).
+
+---
+
+### 'Israel has made its choice, will not wait for drones to detonate': Israel slams Hezbollah at UNSC
+*ET Online · business*
+
+As Lebanon on Monday (June 1) was announcing a partial ceasefire between Hezbollah and Israel, international leaders found blame for both parties during a United Nations Security Council meeting. The new deal would amount to a limited de-escalation of a conflict that has killed thousands of people and inflamed the broader war with Iran. According to Lebanon's embassy in Washington, the agreement, which would not end the conflict in that country, calls for Israel to refrain from strikes on Beirut and its suburbs controlled by Hezbollah, while the Iran-aligned group would halt its attacks on Israel.
+
+---
+
+### Journalists barred from Pentagon press office: States that it has been designated as a 'Sensitive Compartmented Information Facility'
+*Unknown · business*
+
+New York: In another of a series of moves restricting media access at the Pentagon, the Defence Department has declared that its press office is now a classified space inaccessible to journalists.
+
+On X, acting Pentagon press secretary Joel Valdez confirmed the move, saying there was "nothing controversial" about it and that it came because speechwriters, who use classified material, were now occupying the space.
+
+"The Pentagon Press Office has been redesignated as a Sensitive Compartmented Information Facility due to speechwriters from the Office of the Secretary of War sharing the facility," Valdez wrote.
+
+  
+
+"These speechwriters routinely handle classified material ... as a result, journalists will no longer be permitted to enter the office space. There's nothing controversial about that."
+
+  
+
+> This is the most transparent War Department in history. No amount of spin from the Fake News media will change that.
+> 
+> The Pentagon Press Office has been redesignated as a Sensitive Compartmented Information Facility due to speechwriters from the Office of the Secretary of War… https://t.co/tlWb1XIeOk
+> 
+> — Acting Press Sec Joel Valdez (@JoelValdezDOW) June 1, 2026
+
+The latest move, first reported by The Washington Post, took place against a backdrop of escalating tensions between the U.S. media and the second Trump administration, which has played out both in the public arena and at times in the courts.
+
+For many years, Pentagon reporters had credentials granting them wide movement in the building as they sought to interact with press officials there. But last October, most news outlets turned in access badges and walked out of the Pentagon rather than agree to government-imposed restrictions on their work,
+
+The New York Times sued the Defense Department on May 18 for the second time in five months, arguing that a requirement that journalists be escorted while on Pentagon grounds violates the First Amendment and is "an unconstitutional attempt by the Pentagon to prevent independent reporting on military affairs."
+
+The paper said it had filed the additional lawsuit after first suing the Pentagon in December over new rules imposed by Defense Secretary Pete Hegseth, to challenge an interim policy "that the Pentagon hastily put into place after a federal judge ruled in The Times's favor in its original lawsuit." The new policy included the requirement that journalists be accompanied by escorts at all times while in the Pentagon.
+
+The policy was implemented in March following a ruling by US District Court Judge Paul L. Friedman that had struck down earlier restrictions. The following month, the judge ruled that the interim policy violated his March order. But the escort policy remained in place when an appeals court stayed part of Friedman's ruling while the government appeals. The appeals process is ongoing.
+
+---
+
+### Moderna and other groups get $60 million to develop Ebola vaccine
+*SECTIONS Moderna · business*
+
+Global health organisation CEPI will give roughly $60 million to Moderna and to two other groups to accelerate the development of shots against Ebola Bundibugyo, the deadly virus that has swept through eastern Democratic Republic of Congo.
+
+The Coalition for Epidemic Preparedness Innovations was one of the early investors that helped to develop ‌a vaccine at ⁠the height of ⁠the COVID-19 pandemic.
+
+Richard Hatchett, head of CEPI, told Reuters it was possible to get vaccines against Ebola Bundibugyo ready for trials within a couple ​of months.
+
+  
+
+There are no approved vaccines or treatments for Ebola Bundibugyo.
+
+"Every day counts in the race against this deadly disease," Hatchett said.
+
+He also ​said the promise of vaccines on "a not infinitely distant horizon" should help to start conversations about who would buy it and fund any roll-out.
+
+But he cautioned vaccine development can be unpredictable and the challenging security situation in eastern Congo ​would make trials complex. The outbreak has caused 282 confirmed cases, including 42 deaths, and ⁠around 1,100 ‌suspected cases, according to the Africa Centres for Disease Control and Prevention and the World Health ​Organization.
+
+In addition to ​the deaths in Congo, nine cases have been confirmed in Uganda, including one death.
+
+The global ⁠health agencies have declared the outbreak a public health emergency.
+
+## EARLY CLINICAL TESTING OF ​MODERNA VACCINE CANDIDATE
+
+CEPI has committed up to $50 million to support preclinical development and early ​clinical testing of Moderna's investigational Ebola Bundibugyo vaccine candidate.
+
+The funding would also support manufacturing and progression to later-stage trials if early data are positive, Moderna said.
+
+CEPI said it would also invest up to $8.6 million for a shot developed by the University of Oxford and manufactured by the Serum Institute of India, and an initial $3.2 million for a vaccine developed by the International AIDS Vaccine Initiative.
+
+IAVI's single-dose Bundibugyo vaccine candidate uses the same technology as Merck's approved vaccine Ervebo for the ‌Zaire strain, the first strain of Ebola to be discovered in what was then Zaire and is now Democratic Republic of Congo.
+
+It has shown survival benefit in animal studies.
+
+Oxford's candidate, ​ChAdOx1 Bundibugyo, uses ​the same technology as that of the ⁠Oxford/AstraZeneca COVID-19 vaccine.
+
+Hatchett said Oxford and Serum had demonstrated in a different outbreak last year - Rift Valley Fever in Mauritania and Senegal - that they could make doses ready for trial in around six weeks, far quicker than typical timescales that ​have in the past run to years.
+
+Once a vaccine is developed, Hatchett said the next challenge was ensuring access to the shots where they are needed. He said 300,000 doses of Ervebo were needed to bring the 2018-2020 Ebola Zaire outbreak in a similar region of Congo under control.
+
+Separately, global vaccine alliance Gavi on Friday committed up to $50 million to the Ebola response, and the World Bank's Pandemic Fund announced up to $220.6 million in grants.
+
+---
+
+### 'Will Declare War On Centre': Revanth Reddy Pushes For Govt To Purchase Paddy, Other Crops From State
+*Meemansa Shekhawat · general*
+
+The Chief Minister demanded that Union Minister G Kishan Reddy — an MP from Telangana's Secunderabad — convince the Centre to purchase paddy from the state
+
+[Read full article](https://www.news18.com/india/will-declare-war-on-centre-revanth-reddy-pushes-for-govt-to-purchase-paddy-other-crops-from-state-ws-l-10125295.html)
+
+---
+
+### Taiwan says 2 dead in military training plane crash
+*SECTIONS Taiwan says · business*
+
+A Taiwanese military training aircraft crashed on Tuesday during a simulated engine failure exercise, killing the two pilots on board, the defence ministry said in a statement.
+
+The T-34 plane crashed at 8:08am (0008 GMT) at the northern end of the runway at Gangshan Air Base in the island's southern port city of Kaohsiung, the ministry said.
+
+The Air Force has set up a task force to investigate what caused the crash. The pilots have been identified only by their rank and surnames, Lieutenant Colonels Lu and Guo.
+
+  
+
+President Lai Ching-te said he was "deeply saddened" at the loss of life, describing the pilots as "heroic" and thanking them for their "sacrifice and dedication" to Taiwan.
+
+A spokesperson for the Air Force declined to provide further details when contacted by AFP.
+
+Taiwan's Air Force uses Beechcraft single-engine propeller planes as the primary trainer aircraft for its pilots, according to the defence ministry's website.
+
+The planes were first delivered to Taiwan in 1984.
+
+In January, a F-16 fighter jet crashed into the sea off eastern Taiwan during a routine training mission. The pilot is believed to have ejected from the aircraft but has not been found.
+
+---
+
+### Nine dead, dozens wounded as Russia launches major attack across Ukraine
+*Reuters · business*
+
+Synopsis
+
+Tragedy unfolded as Russian air raids targeted significant Ukrainian urban centers such as Kyiv, Dnipro, and Kharkiv, resulting in at least nine fatalities and injuries to more than 60 civilians. The strikes wreaked havoc on homes and essential services. Prior to the assaults, Ukraine's President alerted the nation about the imminent threat of an extensive offensive.
+
+Nine dead, dozens wounded as Russia launches major attack across Ukraine
+
+Kyiv: Russian air attacks on major Ukrainian cities ​such as Kyiv, Dnipro and Kharkiv killed at least nine and wounded more than 60 early on Tuesday, authorities said, following days of warnings that Moscow was planning a major assault.
+
+  
+
+Russia has targeted Ukraine's power supply and infrastructure while Ukraine has stepped up attacks this year on Russian oil ‌facilities in a ⁠war now ⁠more than four years old, sometimes causing casualties, but both deny targeting civilians.
+
+Five people were killed and 25 injured in a Russian missile and drone ​attack on the southeastern city of Dnipro, regional governor Oleksandr Hanzha said on messaging app Telegram.
+
+All the injured were in hospital ​in moderate condition, he added, posting pictures of destroyed residential buildings, burnt-out vehicles and a damaged children's playground.
+
+At least four were killed and 51 injured, including children, across the capital of Kyiv, Mayor Vitali Klitschko said.
+
+A suspected missile strike on a 24-storey ​apartment building triggered a collapse, leaving people probably trapped under the rubble, Klitschko said.
+
+A ⁠nine-storey apartment ‌block was among other buildings set ablaze by suspected missile debris, he added.
+
+"In the Obolon ​district, cars are ​burning after being struck by falling missile debris," Klitschko said. "There are also fires at two locations ⁠in open areas, including one near a kindergarten."
+
+Thousands of residents flooded into the ​Kyiv subway system seeking shelter early on Tuesday, witnesses said, some carrying belongings and mattresses, ​as the sound of defence systems repelling Russian attacks filled the air.
+
+WARNINGS OF A MAJOR ATTACK Air raid warnings sounded over much of the country early on Tuesday after Ukrainian President Volodymyr Zelenskiy reiterated warnings the previous day of a possible major assault.
+
+"Intelligence warnings regarding Russian strikes remain in effect. A massive strike is possible. They have prepared one," Zelenskiy said in his nightly video address.
+
+"Our defenders are ready 24/7 to the fullest extent possible with the supplies currently available." Russia warned last ‌week that it intended "systematic strikes" on targets in Kyiv linked to the Ukrainian military as well as decision-making centres, and urged foreigners to leave. It said the action was in response to a ​drone strike last ​month on a dormitory in Ukraine's ⁠Russian-held region of Luhansk, which killed 21. Ukraine denied the attack.
+
+In Ukraine's northeastern region of Kharkiv, a child was among 10 injured in drone and missile attacks, Mayor Ihor Terekhov said on Telegram. Russia's Ilsky oil refinery, in the southern region ​of Krasnodar, caught fire after a drone attack, local authorities said on Telegram on Tuesday.
+
+Air defence systems were also repelling drone attacks over Sevastopol, a Russian naval fleet base, in Russia-occupied Crimea, authorities there said.
+
+Reuters could not independently verify all the reports. The Ukraine war has ground on since Russia launched its full-scale invasion in February 2022. Efforts to end it have made little progress, with the administration of U.S. President Donald Trump focused on conflicts in the Middle East.
+
+---
+
+### Heads To Roll At CBSE? Ministry Seeks Report, Reviews OSM Contract Awarded To Coempt EduTeck
+*Prisha Vibhavari · general*
+
+The Education Ministry has launched an internal probe into CBSE's OSM system and the tender awarded to Coempt EduTeck, with accountability likely to be fixed at multiple levels.
+
+[Read full article](https://www.news18.com/india/heads-to-role-at-cbse-ministry-seeks-report-reviews-osm-contract-awarded-to-coempt-edutech-class-12-board-results-ws-l-10125417.html)
+
+
+---
+
 ## 1 June 2026
 
 ### Big Setback For Mamata Banerjee: Diamond Harbour Civic Body Dissolved After 9 TMC Councillors Quit
