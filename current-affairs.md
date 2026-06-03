@@ -1,3 +1,639 @@
+## 3 June 2026
+
+### When a taxpayer dies, filing ITR remains a legal obligation | Mint
+*Shipra Singh · economy*
+
+A spouse, adult child, parent, executor of a will, administrator of the estate, or guardian of a minor heir can act as the legal representative.
+
+Summary
+
+Under Indian tax law, a person's obligation to file and pay taxes does not end with death. The responsibility passes to their legal representative or legal heirs, and overlooking it can lead to notices, penalties and delays in settling financial affairs.
+
+When a family member passes away, sorting out their income tax return (ITR) is unlikely to be at the top of anyone's mind. But under Indian tax law, a person's obligation to file and pay taxes does not end with death. The responsibility passes to their legal representative or legal heirs, and overlooking it can lead to notices, penalties and delays in settling financial affairs. With the ITR filing season approaching, here's what families should know.
+
+## **Who has to file**
+
+Under Section 302 of the Income Tax Act, 2025 (corresponding to Section 159 of the old Act), the legal representative of a deceased taxpayer has to complete their tax obligations, including filing the ITR and paying any outstanding dues. “The legal representative of the deceased is typically a legal heir executor, or administrator of the estate,” said Suresh Surana, Chartered Accountant and founder of RSM India.
+
+Broadly, the legal representative can be a spouse, adult child or parent if the person died intestate, meaning without a Will. Otherwise, the executor of the will can file the ITR and pay any due taxes from the estate before it is distributed among heirs.
+
+Where the legal heirs are minors, the responsibility falls on their natural or legal guardian. "The minor children themselves cannot independently discharge such tax compliances. In such situations, the natural or legal guardian of the minor child may act on behalf of the minor heir," said Surana.
+
+## **The registration process**
+
+The legal representative cannot simply log into the deceased's e-filing account on the tax portal. There is a registration process that must be completed first to be authorised to file ITR on the deceased assessee's behalf.
+
+The representative needs to log into their own account on the Income Tax e-filing portal and go to the ‘Authorised Partners’ section, where they can select the option to register as a representative assessee. From there, they initiate a new request by selecting the relevant category, such as legal heir, and submit supporting documents, including the PAN of the deceased, the death certificate and proof of legal heir status.
+
+“Once the tax department verifies and approves the request, the legal representative can access the deceased’s account through their own login credentials. After logging in, the representative can switch to representative assessee in the ‘profile section’ and proceed with filing the tax return,” Akhil Chandna, Partner & Global People Solutions Leader, Grant Thornton Bharat, explained.
+
+The tax return should cover all income, including salary, pension, rent, interest, dividends and any other income the deceased earned from the start of the financial year up to the date of death.
+
+Income that continues to accrue after death, such as rent or interest, is handled separately. If the deceased left a will, the executor files returns on that ongoing income until the estate is distributed. If there was no will, the assets are divided under applicable succession law and the heirs report the income under their own PANs thereafter.
+
+## **Penalties for default**
+
+The consequences of non-filing follow the rules as they do for any taxpayer. The tax department can issue notices, initiate assessment proceedings and impose monetary penalties, all of which will have to be handled by the legal representative. “All the penalties applicable to a regular taxpayer–including interest on delayed filing or tax payment, late filing fees and in some cases, penalties–would be applicable in this case as well,” said Chandna.
+
+The consequences are not just limited to non-filing of ITR, but will also apply if the representative defaults on any tax payment on the deceased assessee's behalf. For instance, say there was advance tax that went unpaid due to death. In this case, interest under Sections 234B and 234C could apply. Interest under Section 234B applies when less than 90% of the total tax due has been paid during the year, while Section 234C applies when advance tax instalments are missed or underpaid across the four due dates. Both accrue at 1% per month on the shortfall and can apply simultaneously.
+
+“The liability to pay such tax and interest would devolve upon the legal representative or legal heirs, limited to the value of the estate inherited from the deceased,” said Surana.
+
+Not filing of tax return also runs the risk of missing refunds, if any. If the legal representative misses the belated return deadline of 31 December, the refund cannot be claimed.
+
+The process, while procedural, is manageable with some advance planning. Identifying who will act as legal representative early, gathering the necessary documents and completing the portal registration before the filing season begins can prevent most of the complications that arise when this is left unattended.
+
+### About the Author
+
+Shipra Singh
+
+Shipra joined Mint’s personal finance team in September 2021, and writes on tax, credit cards, banking, estate planning and investments. She began her career in personal finance as an intern with Outlook Money magazine in 2017, and has since worked with The Economic Times and Entrepreneur India as a business journalist covering fintech and emerging financial services.<br><br>Over the years, she has reported on key aspects of household finance, tracking regulatory changes, market trends and evolving consumer behaviour. Shipra’s main beats are tax and banking products, with a focus on compliance gaps and their real-world impact for readers navigating complex financial decisions. Her reporting on GST and personal tax, particularly foreign asset disclosures and NRI taxation, has contributed to wider policy discussions and subsequent changes.<br><br>She also interviews market experts for the Mint Money podcast, covering topics ranging from stock market investing to how credit scores shape financial outcomes and access to credit.<br><br>Shipra has a keen interest in data-driven analysis and writing human-centric features that explore how people’s habits around spending, investing and wealth creation are evolving. Her work focuses on helping readers make informed financial decisions in an increasingly complex economic landscape.<br><br>Shipra holds a Bachelor’s degree (Honours) and a Master’s in English Literature from Delhi University.
+
+---
+
+### ‘Gentlemen officers, not actors’: Viral Army aviation graduation proposal sparks heated debate online
+*Trends Desk · legal*
+
+Captain Bhardwaj completed his flight training at the Combat Army Aviation Training School (CAATS) in Nashik (Photo: @ANI/X)
+
+An Indian Army aviation graduation ceremony turned into a heartwarming moment for Captain Bharat Bhardwaj after he proposed to his longtime girlfriend, Arushi.
+
+Captain Bhardwaj completed his flight training at the Combat Army Aviation Training School (CAATS) in Nashik, Maharashtra. Following the passing-out parade and aviation display held on June 2 to celebrate the completion of the training, he went down on one knee and proposed to his girlfriend.
+
+The now-viral video shows an Army helicopter stationed nearby, which formed a striking backdrop for the proposal. Taken completely by surprise, Arushi accepted the proposal as family members, fellow officers, instructors, and guests applauded and cheered for the couple.
+
+Speaking to ANI, Captain Bhardwaj reflected on why he chose the occasion for the proposal.
+
+“We have all become pilots, instructors today. It was a big day for all of us. Our hard work yielded fruit today. Both of us have known each other for the past five years. I don’t think that there is any better day than this to propose marriage to her. This is a big day for my family, too. I wanted to make this day memorable for my fiancee too. That was the whole idea,” Captain Bhardwaj said.
+
+**Watch here:**
+
+> #WATCH | Maharashtra: The passing out parade at the Combat Army Aviation Training School in Nashik, concluded on an emotional note for a couple as Captain Bharat Bhardwaj proposed marriage to his partner. pic.twitter.com/8Un1ZNBP1F
+> 
+> — ANI (@ANI) June 2, 2026
+
+However, the video sparked criticism as several users found the timing of the proposal inappropriate. “Social media will end the delusion of people who respect armed forces. They will very soon be on par with judges & politicians,” a user wrote. “In today’s Instagram and YouTube culture.. even uniformed personnel aren’t spared. Uncalled for a person in uniform and that too during a ceremonial parade,” another user commented.
+
+“Officers should refrain from doing these type of theatrics I front of the camera. They are gentlemen officers not actors,” a third user reacted.
+
+_**DISCLAIMER:** This article is published for general informational purposes and does not convey official commentary, institutional policy, or professional advice._
+
+---
+
+### Trump administration proposes additional tariffs on India, 59 other countries on goods produced with forced labour
+*Express Global Desk · legal*
+
+US President Donald Trump. (File Photo)
+
+The Trump administration on Tuesday proposed imposing additional duties of 10% or 12.5% on imports from 60 countries, including India, for failing to “impose and effectively enforce a prohibition on the importation of goods produced with forced labor.”
+
+Following an investigation, the United States Trade Representative (USTR) said that the non-compliance is “unreasonable” and is actionable under Section 301(b) of the Trade Act, which allows the imposition of tariffs or trade restrictions.
+
+After the US Supreme Court struck down President Donald Trump’s global tariffs under the International Emergency Economic Powers Act (IEEPA) in February, his administration said it would pursue alternative legal routes to impose duties.
+
+Section 301 allows the USTR to investigate and take action against unfair trade practices. The federal agency must complete an investigation within 12 months.
+
+_(This is a developing story)_
+
+The Express Global Desk at indianexpress.com which delivers authoritative, verified, and context-driven coverage of key international developments shaping global politics, policy, and migration trends. The desk focuses on stories with direct relevance for Indian and global audiences, combining breaking news with in-depth explainers and analysis. A major focus area of the desk is US immigration and visa policy, including developments 
+
+**Stay updated with the latest - Click here to follow us on Instagram**
+
+-   Tags:
+-   donald trump
+
+---
+
+### Why NCP is in turmoil in Pune and why its top leaders are upset
+*Manoj Dattatrye More · legal*
+
+For the first time since Ajit Pawar’s death on January 28, the Nationalist Congress Party (NCP) is facing a severe internal crisis in Pune district, Maharashtra. A large section of the party’s top leadership has revolted over the sudden nomination of Vikram Kakade for the upcoming Legislative Council (MLC) seat.
+
+Breaking away from traditional party discipline, senior leaders have openly criticised the candidate selection process. NCP insiders note that this level of “mass rebellion” was completely unprecedented during Ajit Pawar’s lifetime.
+
+While multiple senior leaders have aired their grievances publicly, one high-ranking official has already resigned, arguing that organisational loyalty has lost its value under the new dispensation led by national president Sunetra Pawar.
+
+According to party insiders, the main source of resentment stems from the influential role played by Sunetra Pawar’s elder son, Rajya Sabha MP Parth Pawar, in selecting the candidate.
+
+While NCP state president Sunil Tatkare was preoccupied with securing a nomination for his own son in Raigad district, Sunetra Pawar reportedly delegated the selection of the Pune candidate to Parth. The decision to pick a newcomer over seasoned loyalists has alienated the party’s grassroots rank and file.
+
+## High-profile resignation exposes resentment
+
+Resigning from his post as working president of the Parvati Assembly constituency in Pune, Ramdas Gade-Patil said, “I have resigned from my position as Working President because there is no place for loyalists in the party. In the past, Sanjay Kakade, father of Vikram Kakade, worked to split the NCP. Giving a ticket to the son of that same Sanjay Kakade is wrong. I have resigned from my post as Working President because Vikram Kakade has been given the candidature.”
+
+In the letter, Patil added, “Today, the wrong candidate was announced for the local self-government constituency of the Legislative Council. We staked everything to grow the NCP, remained loyal to the party for 30 years, and even went into debt for its sake. And yet, if the party is giving a ticket to the son of Sanjay Kakade, the same man who broke the party in 2017, poached our two-term corporators to take them into the BJP, provided them with resources, stabbed Ajit Dada in the back, and went and sat in Devendra Fadnavis’s lap, then what value is left for loyal workers like us in the party? Therefore, I am hereby submitting my resignation from all my posts to you.”
+
+Story continues below this ad
+
+Speaking to The Indian Express, Sunil Tingare, former city president of the NCP, who filed his nomination as a rebel candidate, said, ”All senior leaders were taken aback when the name of Vikram Kakade was announced. If the party had picked up any of us, we would have had no problem. But the moment Vikram Kakade’s name was announced, we all felt let down. This is because all senior leaders have worked relentlessly under Ajit Dada’s leadership to ensure the party’s growth. We have remained loyal to the party throughout. When Ajit Dada decided to join Mahayuti, we accepted his move. We never thought we would be treated in this manner, and a newcomer would be picked ahead of us.”
+
+## Parth Pawar on a sticky wicket
+
+Parth Pawar met Tingare at their residence in Pune and promised to do him justice in the future. ”Whatever I had on mind, I told the party about it. I made no bones of the fact that I was not happy with the decision to nominate Vikram Kakade…The party leadership has assured that it will ensure appropriate respect for me in future.” After meeting Parth Pawar, Tingare has decided to withdraw his nomination.
+
+In the same breath, Tingare said it is possible that the party leadership was misguided in its choice of candidate. ”I feel some leaders might have misguided the party leadership about choosing the candidate. Anyway, I am not leaving the party. I had assured Ajit Dada that I will always remain loyal to the party and will continue to be loyal,” he said.
+
+In Pimpri-Chinchwad, all top leaders are upset with the party’s decision. Former mayor Vilas Lande, known for his proximity to Ajit Pawar, was also livid at the party’s decision.
+
+Story continues below this ad
+
+”Party workers like us feel that he possesses financial strength… Workers are discussing among themselves that the person who has been given the ticket is a major organiser and powerful. He is financially affluent, they say. There is a feeling among some workers that he received the ticket because he is financially capable,” Lande said.
+
+Recalling Ajit Pawar’s leadership qualities, Lande said, “If Ajitdada were here, he would have given an opportunity to a sincere worker. With him not being here, we are now completely helpless.”
+
+Yogesh Behl, former mayor of Pimpri-Chinchwad, said he was promised by Ajit Pawar during civic elections in December-January that he would be nominated to the state Council. I have been a party corporator for 35 years and have been loyal to Ajitdada. He had promised that he would nominate me for the council elections. Yet the party has given a ticket to someone who joined just hours before nominations were filed. All the NCP leaders in Pimpri-Chinchwad are upset by the party’s decision. We feel injustice has been done to the party.”
+
+The Council elections have put Parth Pawar on a sticky wicket. Vikram Pawar is considered close to him. ”It seems just because Vikram Kakade was close to Parth Pawar, he has been favoured. If this is the criterion, then the future course of action is open to us. I am loyal to the party for now….I will decide what to do in future,” said a top NCP leader.
+
+---
+
+### How an IITian-turned ‘guru’ built a following through YouTube and exploited women through Gandharva marriages in Mathura
+*Trending Desk · business*
+
+A former IIT Roorkee student who left a high-paying corporate job to become a self-styled spiritual leader in Uttar Pradesh's Mathura has been arrested on allegations of sexually exploiting women who joined his religious circle. Police claim the accused used social media to attract followers, persuaded them to join his group, and later manipulated some women under the guise of spiritual and social practices.
+
+The accused, identified as Abhishek Mishra, also known as Adikarta Narayan Das, was arrested near Radha Kund in Govardhan. Investigators say a complaint from a young nursing student triggered a probe that uncovered allegations of sexual harassment, blackmail, and exploitation.
+
+  
+
+## Arrest follows complaint from nursing student
+
+The case surfaced after a 22-year-old BSc Nursing student from Chhattisgarh approached police with serious allegations against Mishra. According to her complaint, she had travelled to Mathura to meet her elder sister, who was linked to Mishra's religious group while undergoing training with a public sector company.
+
+  
+
+The student alleged that Mishra served her milk as "prasad" and claimed it contained an intoxicating substance. She told police that she lost consciousness after consuming it and was later sexually assaulted. She further alleged that photographs and videos were recorded without her consent.
+
+Police said the accused later demanded Rs 5 lakh and allegedly threatened to release the videos if the money was not paid.
+
+An FIR was subsequently registered at Govardhan police station under relevant provisions of the Bharatiya Nyaya Sanhita, including charges 
+
+  
+
+## What is Gandharva Vivah?  
+
+Gandharva Vivah is one of the eight traditional forms of marriage described in ancient Hindu texts. It is generally understood as a marriage based on the mutual consent of a man and a woman, without the involvement of elaborate rituals, parental approval, or formal ceremonies. Unlike conventional Hindu weddings that include sacred rites such as the saptapadi (seven steps around the holy fire), Gandharva Vivah is said to take place through the voluntary acceptance of each other as partners. Historical and religious texts often associate this form of marriage with unions arising out of love and personal choice. However, in modern India, legal recognition of a marriage depends on compliance with applicable laws and procedures rather than solely on references to ancient traditions.
+
+## From engineering graduate to online spiritual influencer
+
+Investigators said Mishra originally belonged to Bhubaneswar and had been living in Mathura for the past three years. During questioning, he reportedly told police that he completed a Mechanical Engineering degree from IIT Roorkee and worked in the Delhi-NCR region before shifting to Mathura.
+
+According to police, he initially operated from rented accommodation and later bought a house near Radha Kund, where he ran activities resembling an ashram.
+
+Officials suspect that Mishra built his following through YouTube and other social media platforms, where he regularly posted spiritual discourses. Police believe these online sessions helped him attract educated followers, including professionals and women employed in large companies.
+
+## Alleged ‘Gandharva marriages’ under scrutiny
+
+Investigators claim that Mishra encouraged followers to enter into so-called "Gandharva marriages", a form of union that does not involve traditional ceremonies, witnesses or formal rituals.
+
+Police allege that he gradually gained influence over members of the group and used that influence to establish inappropriate relationships with women associated with the organisation.
+
+“He manipulated women associated with the group and established physical relationships with them,” DSP Anil Kumar said.
+
+## Obscene photos recovered, followers rescued
+
+During the investigation, police examined the accused's mobile phone and reportedly recovered more than a dozen obscene photographs involving different men and women.
+
+Authorities also rescued two young women and a man from the premises and later handed them over to their families. Police said at least three women have been freed from the ashram-linked setup so far.
+
+Sources associated with the investigation indicated that multiple people connected to the group have come forward with complaints. A joint complaint letter signed by several men and women has also been submitted against the accused.
+
+## Police continue wider investigation
+
+Confirming the arrest, Mathura (Rural) SP Suresh Chandra Rawat told TOI, “The accused, 30-year-old Abhishek Mishra, alias Adikarta Narayan Das, was arrested near Radha Kund in the Govardhan area on Monday night.”
+
+Police are now examining the accused's activities, his online network, and the extent of his influence on followers. Officials said further inquiries are underway to identify additional victims and gather more evidence.
+
+Additional Superintendent of Police (Rural) Suresh Chandra Rawat said legal proceedings are continuing and the accused has been sent to jail while the investigation moves forward.
+
+---
+
+### Rupee Falls 34 Paise Amid Stalled US-Iran Peace Talks, Elevated Oil Prices
+*Varun Yadav · business*
+
+Indian rupee falls intraday to 95.70 against US dollar from 95.36, pressured by stalled Iran-US talks, stronger dollar and higher crude.
+
+[Read full article](https://www.news18.com/business/economy/rupee-falls-34-paise-amid-stalled-us-iran-peace-talks-elevated-oil-prices-ws-l-10127654.html)
+
+---
+
+### Amit Shah to review India-Bangladesh border security in Tripura
+*Bikash Singh · business*
+
+Guwahati: Union Home Minister Amit Shah will visit Tripura on June 4-5 to assess the preparedness of the Border Security Force (BSF) and other agencies on issues 
+
+He will be chairing the 73rd Plenary Session of the Northeastern Council (NEC) in Meghalaya’s capital Shillong on June 4.
+
+  
+
+“He will also visit select border locations in West Tripura district to personally assess the prevailing situation,” an official said.
+
+Tripura, which shares an 856-km-long international border with Bangladesh is surrounded on three sides by the neighbouring country.
+
+Meanwhile, while addressing the BSF Investiture Ceremony and Rustamji Memorial Lecture in New Delhi last month, Shah announced that the Narendra Modi-led government would establish an impregnable border security grid over the next year under the ‘Smart Border Project’, by deploying drones, radars, advanced surveillance cameras, and other cutting-edge technologies.
+
+He said the governments of Tripura, Assam, and West Bengal are committed to preventing illegal infiltration and that the BSF must work in close coordination with the respective state governments to strengthen border management.
+
+He directed BSF formations in Tripura, Assam, and West Bengal to coordinate closely with district administrations, police stations, panchayats, and revenue officials to prevent infiltration and enhance border security.
+
+Shah will also attend the crucial meeting of the North Eastern Council (NEC) in Shillong on June 4. Shah is the chairman of the regional planning body.
+
+Union Minister for Development of North Eastern Region (DoNER) and Communications Jyotiraditya Scindia, who is the vice-chairman of the NEC, will also attend the meeting.
+
+In a post on its X handle, the NEC said: “This important gathering will bring together leaders and stakeholders to deliberate on key initiatives for the growth, connectivity, and sustainable development of the Northeastern region.”
+
+Tripura Chief Minister Manik Saha said he will visit Meghalaya to attend the 23rd Plenary Session, and on June 5, Shah will arrive in Tripura to visit the bordering areas and attend the bhoomi pujan of the proposed five-star hotel at Puspabanta Palace (Old Raj Bhawan) in Agartala.
+
+Saha said that the 22nd Plenary Session was held last year in Tripura, and this time it will be held in Meghalaya.
+
+---
+
+### Delhi working on rationalisation project to ensure everyone gets equal access to water: Minister
+*Gayathri Mani · legal*
+
+According to Singh, DJB has already started repair and replacement work on a significant portion of the network while also increasing monitoring of water quality. (Express Photo)
+
+Facing frequent complaints of water shortages from several parts of the city, the Delhi government is planning to rationalise water distribution to ensure a more equitable supply across neighbourhoods, irrespective of their socio-economic profile, Water Minister Parvesh Sahib Singh said on Monday.
+
+Delhi’s water demand continues to rise every year while its available resources remain limited. During peak summer, the city requires nearly 1,250 million gallons per day (MGD) of water. However, a prolonged dry spell in the Yamuna has reduced production by nearly 100 MGD over the last several days, affecting supplies in parts of the city.
+
+Singh told _The Indian Express_ that complaints regarding water shortage have increased in the last 10 days. “Of the 70 Assembly constituencies in Delhi, while not all face a shortage of water, the majority of the complaints are received from 12-13 constituencies every summer. At the same time, there are areas receiving comparatively higher water supply. This imbalance has existed for years.”  
+“We are now working on a water rationalisation project to ensure that every resident, irrespective of where they live, gets equitable access to water,” Singh added.
+
+The project is set to scientifically assess population density, demand patterns, supply levels and infrastructure availability across different parts of Delhi. The aim is to create a more balanced and efficient distribution system so that no locality remains underserved while others receive disproportionately higher supply, Singh said.
+
+On complaints 
+
+“These old pipelines should have been fixed by the previous government… These cannot be fixed in just one year. The DJB (Delhi Jal Board) is working on a mission to replace old pipelines and strengthen the entire distribution system,” Singh said.
+
+“The work that should have been done 10 or 20 years ago is now being taken up on priority. Replacing old pipelines, reducing leakages, modernising distribution systems and strengthening water infrastructure are essential if Delhi has to become water secure,” he further said.
+
+Story continues below this ad
+
+According to Singh, DJB has already started repair and replacement work on a significant portion of the network while also increasing monitoring of water quality. Around 1,700 water samples are being collected daily to check contamination complaints from across the city, he said.
+
+As part of a broader reform agenda, the DJB is also working on reducing Non-Revenue Water (NRW) – treated water lost due to leakages, theft and inefficiencies in the distribution system.
+
+Further, Singh said, DJB is working on converting the open Delhi Sub-Branch (DSB) canal into a closed pipeline-based system. He added that at present, nearly 40-45% of water is currently lost through the canal network before it reaches consumers.
+
+“To address water leakage, IIT Roorkee has been engaged to conduct a feasibility study. Once the canal is converted into a pipeline-based system, water losses will reduce drastically and supply efficiency will improve significantly,” he said.
+
+Story continues below this ad
+
+“People should understand that Delhi’s water resources are finite while its population continues to grow. The answer is not only to bring more water to Delhi but also to manage every drop more efficiently. We are building a system that can serve Delhi not just today, but for decades to come,” said Singh.
+
+He further said that the government is preparing long-term measures aimed at conservation and recycling through a ‘Dual Piping System’.  
+Under this model, highly treated recycled water will be supplied through a separate network for non-potable purposes such as toilet flushing, horticulture, landscaping, construction activities and vehicle washing, while freshwater will be reserved for drinking and household use.
+
+“Delhi cannot afford to flush drinking water down toilets. Every day, large quantities of potable water are used for purposes that do not require drinking-quality water. By using highly treated recycled water for such activities, we can save millions of litres of freshwater daily. This is the future of urban water management and Delhi is moving decisively in that direction,” the minister said.
+
+The government, Singh said, plans to begin implementing the dual piping system in government buildings and public institutions before expanding it to hotels, commercial establishments, group housing societies and large residential complexes. Incentives are also being considered for institutions and residential societies that adopt the system, he added.
+
+Story continues below this ad
+
+The minister said Delhi has already contributed its share towards the Renuka Dam project, which is expected to be completed by 2032 and is likely to augment the Capital’s water supply.
+
+---
+
+### Karnataka tribal corporation scam: Rs 89 crore diverted to 600 bank accounts, CBI names ex-minister B Nagendra
+*Express News Service · legal*
+
+The Central Bureau of Investigation (CBI) on Tuesday filed a chargesheet in the Karnataka Maharshi Valmiki Scheduled Tribes Development Corporation (KMVSTDC) funds misappropriation case, naming former Karnataka Congress minister B Nagendra and 29 others
+
+In the chargesheet, the CBI said that Rs 89.63 crore of state government funds was fraudulently diverted through forged cheques and RTGS transactions. The diverted funds were further layered through approximately 600 bank accounts and ultimately converted into cash, bullion, and luxury vehicles for the benefit of the accused, the central agency added.
+
+The CBI said that Nagendra, his close associate Nekkanti Nagaraj, Hyderabad\-based businessman Satyanarayana Varma, and Padmanabha J G, then managing director of KMVSTDC, conspired to siphon the money. It also claimed that Nagendra received a bribe of Rs 1.20 crore for awarding a tender of Rs 13.95 crore to a private firm.
+
+The development came a day before D K Shivakumar’s swearing-in as Karnataka’s new chief minister on Wednesday. Nagendra is known to be a Shivakumar loyalist. This is the third chargesheet that the CBI has filed in the case. In all three, Nagendra has been named as a key accused.
+
+The misappropriation came to light in June 2024 after P Chandrashekaran, a corporation official involved in auditing and coordinating with Union Bank of India, allegedly died by suicide, detailing the fraud and the people involved in a six-page note he left behind.
+
+The CBI began investigating the case based on a Union Bank of India complaint, which said that Rs 84.63 crore of the corporation was allegedly misappropriated through illegal transfers/withdrawal between February 21 and May 6, 2024. The money was allegedly used for the Lok Sabha elections.
+
+According to the CBI, the ST Welfare Department and the Karnataka German Technical Training Institute were also allegedly involved in the scam.
+
+Story continues below this ad
+
+“The CBI investigation has established the role of 30 persons, including the former Minister B Nagendra, his close associate Nekkanti Nagaraj, officials of KMVSTDCL, state government officials, bank officials of UBI (MG Road Branch) and IOB (Kukatpally, Hyderabad), and various private individuals and middlemen,” the chargesheet said.
+
+#### Bogus bank accounts, fake business entities
+
+According to the CBI, Rs 89.63 crore of KMVSTDC funds was fraudulently diverted through forged cheques and RTGS transactions, via approximately 600 bank accounts, and converted into cash, bullion, and luxury vehicles to benefit the accused.
+
+The officials of the Union Bank of India’s M G Road branch actively facilitated these transactions in violation of banking norms, the CBI said.
+
+Businessman Satyanarayana Varma allegedly conspired with Etakari Satyanarayan, chairman of First Finance Credit Cooperative Society Ltd (FFCCSL), Hyderabad, in opening 18 bogus bank accounts in the names of fictitious business entities using forged registration certificates and fabricated KYC documents.
+
+Story continues below this ad
+
+The MD and accounts officer of KMVSTDCL shared specimen signatures and sensitive banking information with Varma through Nekkanti Nagaraj and other accused, the CBI said. Forged rubber seals or stamps of the KMVSTDCL MD and accounts officer were fabricated through a graphic designer in Hyderabad and used to execute fraudulent banking transaction, it added. Approximately Rs 187 crore was allegedly pooled into KMVSTDCL’s Union Bank of India account by the MD and accounts officer.
+
+#### Crores changed hands
+
+The CBI said in its chargesheet that in 2023-24, tenders worth Rs 13.95 crore for Smart Computer Labs and Roti Making Machines were awarded by the ST Welfare Department to M/s SKR Infrastructure, Bengaluru, a firm owned by K. Srinivas Reddy, who is allegedly connected to Nekkanti Nagaraj. The CBI said its investigation established that Nagendra received illegal gratification of Rs 1.20 crore through Nagaraj, routed into the accounts of the minister’s sister, brother-in-law, personal assistant, and a farmhouse owner in Bellary. Nagaraj himself received Rs 5.72 crore from SKR Infrastructure and its sister concerns, the CBI alleged.
+
+“Investigation also revealed that skill development training work worth Rs 4.90 crores was awarded by the SC/ST Nomadic Tribes Development Corporation to KGTTI, Bengaluru, at the instance of the minister, and sub-contracted without any tender process to M/s Sadguru Education Trust and M/s Sadguru Solutions, which was further sub-contracted to M/s Skillpoint Training and Services, Guntur. For this, Rs 64 lakh was paid as illegal gratification to Nagaraj’s family, and Rs 15.50 lakh was paid to Prakash N, Section Officer, ST Welfare Secretariat, as bribe,” the chargesheet stated.
+
+Meanwhile, the Enforcement Directorate is probing the money-laundering aspect of the scam.
+
+---
+
+### US proposes trade action against 60 economies, including India, over forced labour concerns
+*Monica Singh · general*
+
+The US Trade Representative has proposed action against 60 economies, including India, over alleged failure to curb imports linked to forced labour.
+
+The Office of the United States Trade Representative (USTR) has proposed possible trade measures against 60 economies, including India, following findings 
+
+The announcement was made under Section 301 of the US Trade Act of 1974, which allows Washington to act against foreign practices considered unfair or harmful to American commerce. According to the USTR, the identified policies and practices 'burden or restrict US commerce,' making them eligible for further action under US trade law.
+
+## **India Among Countries Reviewed for Compliance Gaps**
+
+India is listed among 54 economies flagged for failing to enforce effective restrictions on goods produced using forced labour. Other countries mentioned include Australia, China, Japan, the United Kingdom, Singapore and the United Arab Emirates.
+
+US Trade Representative Jamieson Greer said the lack of strong enforcement by key trading partners creates an uneven global marketplace, placing American workers at a disadvantage.
+
+## **Proposed Tariffs and Public Consultation Process**
+
+As part of the proposed response, the USTR has suggested additional import duties on affected economies. Countries that already have measures in place or commit to introducing them may face a 10% tariff, while others could be subject to duties of up to 12.5 percent. A separate mechanism targeting textile and apparel imports has also been outlined.
+
+The review process began on March 12, with the USTR receiving input from around 500 stakeholders and testimony from nearly 60 experts during consultations.
+
+The agency noted that weak enforcement of forced labour prohibitions can distort global trade by lowering production costs for non-compliant suppliers and disadvantaging companies that adhere to labour standards.
+
+## **Impact on India-US Trade Relations**
+
+The development comes at a crucial moment in ongoing India-US trade discussions. Both countries are engaged in negotiations aimed at finalising the initial phase of a broader bilateral trade agreement, with issues such as tariffs, digital trade rules, agriculture and market access under discussion.
+
+Earlier trade tensions had emerged following tariff-
+
+## **Next Steps in the Review Process**
+
+The USTR has invited written submissions on the proposed measures until July 6, followed by public hearings scheduled for July 7. A final decision will be taken after reviewing stakeholder feedback.
+
+While the findings do not automatically lead to new tariffs, Section 301 allows the US administration to impose duties or other restrictions if it chooses to proceed after completing its review.
+
+---
+
+### Will Annamalai Put His Resignation On Hold? Inside BJP's Decision To Hit Pause Button On Exit
+*Apoorva Misra · general*
+
+For BJP, Annamalai remains one of the few leaders in Tamil Nadu with state-wide visibility and a dedicated support base
+
+[Read full article](https://www.news18.com/india/will-annamalai-put-his-resignation-on-hold-inside-bjps-decision-to-hit-pause-button-on-exit-ws-l-10127508.html)
+
+---
+
+### Gold and silver prices today, 3 June: Check retail rates of 24K, 22K gold and 999 silver in Delhi, Mumbai, other cities | Mint
+*Shivam Shukla · economy*
+
+## Gold and silver prices rose on 3 June amid a weaker dollar and higher crude oil prices due to US-Iran tensions. MCX gold stayed above ₹1.59 lakh/10g, while silver held firm. Check 24K, 22K gold and 999 silver rates across major Indian cities.
+
+Check out gold and silver prices in your city today. (June 3) **(AFP)**
+
+**Gold price today 3 June:** Gold rate rose in morning deals on MCX on Wednesday, 3 June, supported by a slightly weaker dollar and higher crude oil prices, even as investors' focus remained on developments surrounding a potential US-Iran peace deal.
+
+MCX gold rate today for August futures contracts was trading 0.21% higher at ₹1,59,730 per 10 grams. MCX silver futures, on the other hand, were trading 0.29% higher at ₹2,68,170 per kg at around 9:39 am.
+
+The war in the Middle East continues to drag on, with the US military saying that Iranian missile attacks on Bahrain, ​Kuwait and other regional targets were either thwarted or failed as the possibility of peace and ​diplomacy between Washington and Tehran showed little positive change.
+
+Following these developments, crude oil prices jumped by more than 1%, deepening concerns about inflation, economic uncertainty, ​and interest rate hikes.
+
+## **Important geopolitical developments**
+
+### **Japan’s Nikkei hits record high as Asia markets rise amid Middle East concerns**
+
+Asia-Pacific markets opened broadly higher on Wednesday, with Japan’s Nikkei 225 hitting a record high, according to _CNBC_, as investors appeared to look past uncertainty over US-Iran negotiations aimed at ending the Middle East conflict and bringing in peace.
+
+### **US proposes fresh tariffs on 60 economies over forced labour trade practices**
+
+According to another _CNBC_ report, the Office of the US Trade Representative has proposed additional tariffs of up to 12.5% on imports from 60 economies for failing to ban goods made with forced labour, in a sweeping action that would hurt most prominent trading partners, including China, the European Union, India and Japan.
+
+### **Oil climbs as US-Iran trade strikes while Trump says negotiations with Tehran are underway**
+
+Oil prices rose on Wednesday as investors weighed uncertainty over US-Iran talks, even as the two countries launched fresh strikes on Tuesday, and US President Donald Trump said negotiations with Tehran were ongoing.
+
+West Texas Intermediate futures for July delivery gained more than 1% to $94.81, while the international benchmark Brent crude for August delivery advanced 0.88% to $96.84 per barrel.
+
+Here are the most recent price changes in gold and silver across various cities in India.
+
+## Gold Prices in Mumbai — 3 June
+
+24 karat gold rate in Mumbai — ₹159,430/10 gm
+
+22 karat gold rate in Mumbai — ₹146,144/10 gm
+
+Silver 999 Fine rate in Mumbai — ₹267,350/1 kg
+
+## Gold Prices in New Delhi — 3 June
+
+24 karat gold rate in New Delhi — ₹159,150/10 gm
+
+22 karat gold rate in New Delhi — ₹145,888/10 gm
+
+Silver 999 Fine rate in New Delhi — ₹266,890/1 kg
+
+## Gold Prices in Bengaluru — 3 June
+
+24 karat gold rate in Bengaluru — ₹159,550/10 gm
+
+22 karat gold rate in Bengaluru — ₹146,254/10 gm
+
+Silver 999 Fine rate in Bengaluru — ₹267,560/1 kg
+
+## Gold Prices in Kolkata — 3 June
+
+24 karat gold rate in Kolkata — ₹159,220/10 gm
+
+22 karat gold rate in Kolkata — ₹145,952/10 gm
+
+Silver 999 Fine rate in Kolkata — ₹266,990/1 kg
+
+## Gold Prices in Hyderabad — 3 June
+
+24 karat gold rate in Hyderabad — ₹159,680/10 gm
+
+22 karat gold rate in Hyderabad — ₹146,373/10 gm
+
+Silver 999 Fine rate in Hyderabad — ₹267,770/1 kg
+
+## Gold Prices in Chennai — 3 June
+
+24 karat gold rate in Chennai — ₹159,790/10 gm
+
+22 karat gold rate in Chennai — ₹146,474/10 gm
+
+Silver 999 Fine rate in Chennai — ₹267,890/1 kg
+
+---
+
+### CBSE website lesson: Indian digital infra is not ready for AI tools like Mythos
+*Javed Anwer · general*
+
+## The fiasco with CBSE website and its On Screen Marking (OSM) system has jeopardised the future of thousands of Class 12 students. Yet, it can also teach a lesson to the country if our government is willing to learn. It is a lesson that may come handy in the AI era when tools like Mythos arrive.
+
+India's digital infrastructure may not be ready for advanced AI tools like Claude Mythos. (Representational image made with AI)
+
+For a country that calls itself an IT powerhouse, it is a matter of shame, utter and plain shame, that we cannot secure one of our most important websites. Not even days after a couple of teenagers breached it, pawned it, played around with it. It’s the CBSE website. So shoddy is its security that it deserves nothing but contempt. And contempt is what it is getting from a few teenagers, who have repeatedly hacked it in the last one week.
+
+To give you an idea of what I am talking about, India Today Tech asked a digital security expert to rate CBSE website on a scale 1 to 10. He rated it zero!
+
+No doubt as sad and pathetic is this saga that has impacted hundreds of thousands Class 12 students, an even more alarming aspect of the story is that CBSE website is not an exception. Indian organisations, both government and private, are, for various reasons, terribly poor at digital security. Every website, every piece of digital infrastructure is suspect.
+
+Call it poetical given that we are talking about CBSE, an agency that is supposed to teach our children the right lessons, but there is a lesson to be learnt from the organisation’s incompetency. It is an important lesson and I wish our government and policy-makers are paying attention. It is a lesson that is also timely, because if we don’t fix our digital security now, in the AI world with tools like Mythos available easily, India’s digital infrastructure will crash and burn. I am certain of that.
+
+Like many other issues that plague our country, digital security — or the lack of it — too is self-inflicted. India indeed is an IT powerhouse. As a country we have some of the best IT security people. There are Bug Bounty Programs run by companies like Google and Apple, where Indian hackers and security researchers often win thousands of dollars. But all these skilled people mostly work with big tech companies. Or independently, again for big tech companies.
+
+Lack of skilled engineers is not a problem, not when it is about something as elementary as website security. Instead, the problem is the policy and the mindset that govern our digital hygiene and security. And, of course, there is corruption.
+
+Take the example of CBSE website and its OSM system. All signs indicate that it is managed by starkly incompetent people who happen to be in the position of managing such important digital systems because they know someone who knows someone and who knows someone very important. They are not the best people for the job. And the best people are not on the job because somewhere someone, along with a bunch of some more, is making some money from this incompetence in the system. This money can only be made by creating a system full of incompetent people, something on the lines of peanuts, salaries and monkeys.
+
+It is the same for the entire digital infrastructure in India. It is our culture to cut corners, and when corners are cut in digital security, it creates systems that leak like chai ka channi.
+
+CERT-In is supposed to be the premier cyber security organisation India. My first brush with the organisation was around 15 years ago. One meeting with its staff and I realised, despite my lack of any technical knowhow, that I was dealing with people who are not very keen on cyber security. Over the years, I have seen Indian CERT mostly do one thing — issue advisories. These advisories are almost always based on news pieces or security bulletins published by tech companies. For example, Apple will release an update to iOS and highlight that it has patched ABC vulnerability. Next day CERT-In will take the details of that update and push out an advisory saying everyone must update their iPhones to this version of iOS because it patches the ABC vulnerability. At least outwardly, there seems to be no original work or research that CERT carries out. Similarly, we never hear of any publicly transparent audits of the government systems.
+
+At the same time, almost all government departments follow archaic security methods. And they practice zero digital hygiene. They all use third-party emails, such as Gmail. Almost all of them have leaky servers, from which people keep stealing data and then keep selling them on the open web.
+
+One area where CERT-IN has fallen short is in creating the best digital practices in the country, and bringing about a policy change that makes digital security and privacy a central tenet of our websites and systems. Instead, with no policy framework available, digital security is an afterthought in India. After all, even companies that are part of critical sectors such as telecom and finance, are never punished or made accountable for poor security or data breaches.
+
+The result of willing or unwilling lack of giving digital security a priority has turned Indian digital infrastructure into a joke that even 17 and 19 year old boys can crack. It is not WWW in India. It is the Wild Wild West. God forbid one day India faces a truly catastrophic challenge, say a war with a tech-savvy country like China. In such a moment, the country would likely lose access to its CCTVs, critical infrastructure like airports and railway stations, its most important websites within days.
+
+Anything that is connected to the internet would be at risk because of how poorly we seem to have secured everything. Most of the custom software we have in our systems has holes. A lot of it is rarely updated and patched. Most of our hardware runs on outdated firmware and unsafe components.
+
+Equally alarming is the fact that a hostile country is not the only danger now. There is adversarial AI as well. Just months ago, Anthropic announced Mythos, an AI system created specifically to breach digital infrastructure. Its role is supposed to be that of a white-hat hacker. In other words, it is supposed to test the digital security of websites, apps, servers, and find vulnerabilities that can be patched. It is extremely good at its job. But a knife cuts both ways. Once people have access to something like Mythos, it is bound to be used not just for defence but also for offence.
+
+In general, I find the digital infrastructure in India so shoddily secured that a tool like Mythos will burn it down within days, like the storied dragons of Daenerys Targaryen scorching King’s Landing. But Mythos, and similar tools, are not yet out in the open. It will take a while for them to become publicly available. At least a few months. Or possibly a year or two. That is also the time the Indian government, organisations and companies have to secure their digital systems.
+
+India needs an iron-clad policy around cyber security and privacy, particularly in critical systems. It needs it now. A policy that has no ifs and buts, no exceptions on this account or that, a policy that penalises lethargy and incompetence through regulatory and monetary fines. It also needs a serious audit and overhaul of government digital infrastructure, without corruption and with a serious intent. Failure to do so will make the CBSE fiasco look like a blip in the AI era where even the tiniest of vulnerabilities will be exploited.
+
+\- Ends
+
+Armaan Agarwal
+
+Jun 3, 2026 10:08 IST
+
+---
+
+### 'If You Want To Stay In India…': Suvendu Adhikari’s Vande Mataram Remark Amid Muslim Body’s Objection
+*Vani Mehrotra · general*
+
+Suvendu Adhikari has said people should say Vande Mataram if they want to live in this country, amid AIMPLB’s opposition to Bengal’s school order.
+
+[Read full article](https://www.news18.com/india/suvendu-adhikari-vande-mataram-if-you-want-to-live-in-this-country-remark-west-bengal-aimplb-row-ws-l-10127451.html)
+
+---
+
+### RBI MPC Meeting Begins Today: Pause Or Rate Hike? Sanjay Malhotra To Announce Repo Rate Decision On June 5
+*Mohammad Haris · business*
+
+RBI MPC Meeting June 2026: Most market participants expect the RBI to keep the benchmark repo rate unchanged at 5.25 per cent.
+
+[Read full article](https://www.news18.com/business/banking-finance/rbi-mpc-meeting-begins-today-pause-or-rate-hike-sanjay-malhotra-to-announce-repo-rate-decision-on-june-5-ws-l-10127610.html)
+
+---
+
+### CBSE transfers a cover-up: Congress demands Dharmendra Pradhan's removal amid OSM row
+*India Today Education Desk · general*
+
+The political battle over the CBSE's On-Screen Marking controversy escalated on Tuesday, with the Congress alleging that the transfer of two senior CBSE officials was an attempt to shield the government from accountability rather than address concerns raised by students.
+
+The remarks came shortly after CBSE Chairman Rahul Singh and Secretary Himanshu Gupta were transferred amid allegations surrounding the digital evaluation system used for Class 12 board examinations.
+
+### TRANSFERS TRIGGER FRESH POLITICAL FIRE
+
+Leader of Opposition Rahul Gandhi described the move as a "cover-up" and questioned why Union Education Minister Dharmendra Pradhan had not been held responsible.
+
+In a post on X, Gandhi argued that removing officials while leaving the minister untouched did not amount to accountability. He demanded that Pradhan be dismissed and called for an independent judicial enquiry into the matter.
+
+(Photo: SS/X/Rahul Gandhi)
+
+The Congress leader also met Sarthak Sidhant, an 18-year-old student from Jharkhand who has raised concerns regarding the tendering process for the OSM system. Sidhant, along with his family, met Gandhi before making a presentation before the Parliamentary Standing Committee on Education.
+
+After the meeting, Gandhi posted a message of support for the student, urging him to remain firm in his principles.
+
+### CONGRESS STEPS UP PRESSURE
+
+Congress president Mallikarjun Kharge termed the transfer of the CBSE chairman and secretary a "mere eyewash" and said nothing short of the education minister's removal would deliver justice to the nearly 18.5 lakh students who appeared for the Class 12 examinations.
+
+(Photo: SS/X/Mallikarjun Kharge)
+
+Congress leader Jairam Ramesh also questioned the timing of the transfers, arguing that the action appeared designed to place responsibility on officials rather than political leadership.
+
+He claimed the developments suggested that irregularities in the procurement process needed deeper scrutiny.
+
+With an enquiry now underway and political pressure mounting, the OSM controversy has moved beyond an education issue and become a major political flashpoint, with opposition parties continuing to demand answers from the government.
+
+(Photo: SS/X/Jairam Ramesh)
+
+### THE OSM CONTROVERSY
+
+The controversy began after several Class 12 students alleged that scanned copies of answer sheets uploaded through the OSM process did not match their handwriting, raising concerns about possible answer-sheet mismatches and evaluation irregularities.
+
+The issue soon gained national attention, with students taking their concerns to social media and later before lawmakers.
+
+In response, the Cabinet Secretariat announced the formation of a one-member enquiry committee headed by S Radha Chauhan, Chairperson of the Capacity Building Commission. The committee has been tasked with examining matters 
+
+**(With PTI inputs)**
+
+\- Ends
+
+Princy Shukla
+
+Jun 3, 2026 10:06 IST
+
+---
+
+### More than two lakh H-1B applicants paid $100,000 for entry to US, says DHS - The Economic Times
+*PTI Follow us Share Font Size Abc Small Abc Medium Abc Large Save Print Comment · general*
+
+US Homeland Security Secretary Markwayne Mullin revealed over two lakh applicants paid USD 100,000 for faster H-1B visa processing in fiscal year 2026. This fee allows for processing in about 15 days. Senator Susan Collins raised concerns about rural doctor shortages and asked about fee exemptions f...
+
+[Read full article](https://economictimes.indiatimes.com/nri/work/more-than-two-lakh-h-1b-applicants-paid-100000-for-entry-to-us-says-dhs/articleshow/131475879.cms)
+
+---
+
+### “One sick leave might cost you ₹1,000”: Job seeker’s HR conversation goes viral, sparking debate on leave policies
+*Trending Desk · business*
+
+A LinkedIn post by Upasana Sarbajna describing an unusual conversation with a recruiter has triggered widespread discussion online. According to Sarbajna, she received an unexpected call from a company she chose not to name. While she acknowledged that HR outreach is common in today’s job market, she said this particular interaction stood out due to its unusual policy discussion.
+
+## Initial Conversation About Company Profile
+
+Sarbajna noted that the first part of the call lasted around 10 minutes and focused on the company’s vision and client base. However, she said the tone changed when the discussion moved to employee benefits.
+
+  
+  
+  
+
+## Controversial Leave Policy Claim
+
+Describing what she was told, she wrote: “The other day I received a very surprising call from a company. I shall not take their name, but it was surprising enough for me to pen my thoughts about it,”.
+
+She further added: “At the end, they finally brought up their leave policy and that is when things went south,” she wrote. “They said to me, ‘We have a flexible leave policy. You will get holidays on festivals and stuff, however, our leave policy does not entertain employees taking sick or personal leaves whatsoever,’”.
+
+  
+
+## Alleged Loss of Pay on Sick or Personal Leave
+
+Sarbajna also claimed that any sick or personal leave would be marked as loss of pay. She explained the impact with an example, stating: “If the employee does take a leave for personal reason, it will be considered a loss of pay. So, if you are hypothetically getting paid ₹10,000 a month, one leave might cost you ₹1,000,”.
+
+  
+
+## Reaction and Conversation End
+
+She said she chose to end the call after hearing the policy and took time to process the conversation.
+
+“I told them I needed some time to think it through and I disconnected the call. And I still feel in shock at how companies take advantage of the lack of a stern labour law to exploit employees to this extent. How is this even allowed?” she wrote.
+
+## Online Reactions
+
+The post quickly drew reactions from users online, with some criticizing the alleged policy. One user commented, “The leave policy is truly sick!” Another added, “Sick leave is mandatory in all states in India.”
+
+**Disclaimer:** This article is based on a user-generated post on LinkedIn. ET.com has not independently verified the claims made in the post and does not vouch for their accuracy. The views expressed are those of the individual and do not necessarily reflect the views of ET.com_._ **Reader discretion is advised.**
+
+
+---
+
 ## 2 June 2026
 
 ### Why Trump Cut Tariffs On Farm, Industrial Equipment From 25% To 15% And What It Means For India
