@@ -1,3 +1,879 @@
+## 4 June 2026
+
+### No music, different timings for men, women: Kerala Islam-friendly gym sparks row
+*Shibimol KG · general*
+
+## A gym in Kerala's Palakkad drew criticism after promoting itself as Islam-friendly with separate timings, spaces and trainers for men and women, and no music.
+
+A gym in Kerala's Palakkad drew criticism after promoting itself as Islam-friendly. (Representational image)
+
+An announcement by a fitness centre in Kerala's Palakkad district describing itself as an "Islamic-friendly gym" has sparked a row, with many questioning the concept.
+
+The controversy began after the gym in Puthunagaram released a promotional video, in which owner Nawaz Muthu T said the facility would operate without loud music and would have separate workout timings and spaces for men and women.
+
+He also said that trainers would be segregated.
+
+The video, however, drew widespread criticism, with many social media users questioning whether the initiative was intended exclusively for Muslims.
+
+Following the backlash, the original promotional video was removed and in a new clip, Nawaz said the facility is open to people of all faiths and was not intended to be a Muslim-only gym.
+
+"A lot of people say this is a Muslim gym or a gym only for Muslims. I am not saying that. I have never said this is a gym only for Muslims," he said.
+
+Explaining the idea behind the project, Nawaz said the term "Islamic-friendly" refers to certain operational practices rather than restrictions on who can join.
+
+"When it comes to an Islamic-friendly gym, women and men should not work out together. Women should have a separate time and separate space. Men should have a separate time. There should be no loud music," he said.
+
+Nawaz added that many people who strictly follow such practices currently avoid gyms because they are uncomfortable with mixed workout spaces or loud music.
+
+"A lot of Muslims live according to Islamic principles. They don't listen to music. There is no gym for them. When you go to a gym, it is not possible to switch off the music. There are women who are uncomfortable working out in mixed spaces. These are people who have not been able to access gyms until now," he said, adding that his own family members had stayed away from fitness centres for similar reasons.
+
+"Because I am a Muslim, I know many such people. Even among my relatives, there are people who do not go to gyms. This facility will be useful for them," he said.
+
+Seeking to address allegations that the gym was exclusionary, he stressed that membership would not be limited on religious grounds.
+
+"Everyone can come. The only condition is that there will be no open music. Those who want to listen to music can do so through headphones. There is nothing wrong with that," he said.
+
+After the owner's clarification, there have been mixed reactions, with some praising the initiative for creating separate workout areas.
+
+"It doesn’t have to be religion-specific nor advertised as one, It is not at all a bad idea to have separate gyms for both genders! I swear there would be more women joining a gym if they knew they wouldn’t have to parade in front of strange men," a user posted on X.
+
+"It's not like all other gyms are forced to convert as Islam-compliant gyms! You will have perfectly normal regular gyms where you can go, and let people who believe in this to go here. Peace," another person added.
+
+"This is the business model I suppose to attract gym trainees. Most Muslim women refrain from going to the gym because there is no separation for men and women. State is not doing this," an X user posted.
+
+However, the backlash also continued over the "Islamic-friendly" tag.
+
+While one person asked, "What is the need to create a religion-based division everywhere?" another said, "eing 100 percent literate means going back by 1,000 years."
+
+\- Ends
+
+Karishma Saurabh Kalita
+
+Jun 4, 2026 10:41 IST
+
+---
+
+### Man stabs ex-girlfriend on neck, face, her sister injured while trying to intervene
+*Ravish Pal Singh · general*
+
+## A man allegedly stabbed his former girlfriend repeatedly in a Bhopal locality, and injured her elder sister when she intervened. CCTV footage captured the attack as police opened a probe and launched a search for the absconding accused.
+
+The accused allegedly continued the assault until local residents began gathering at the spot.
+
+A man allegedly attacked his former girlfriend with a knife in broad daylight in Bhopal, stabbing her repeatedly on the neck, face, back and hands. Her elder sister was also injured while trying to save her. The accused fled the spot, and the attack was captured on CCTV.
+
+According to police, the accused, identified as Akshay Chandel, allegedly intercepted his former girlfriend. He then brought up old disputes and started arguing. Following a verbal scuffle, he suddenly launched a brutal knife attack. He is accused of repeatedly stabbing the woman on her neck, face, back and hands, leaving her severely injured.
+
+The victim's elder sister, who rushed to her rescue after witnessing the assault, was also attacked. Police said the accused allegedly struck her on the face with the knife, causing a deep injury to her cheek.
+
+Eyewitnesses said panic gripped the area as the attack unfolded in full public view. The accused allegedly continued the assault until local residents began gathering at the spot. He then fled the scene before he could be apprehended.
+
+The injured sisters were provided medical treatment, while police launched an investigation into the incident. CCTV footage from the area, which reportedly captured the entire attack, has been seized and is being examined as part of the probe.
+
+Police identified the accused as the victim's former boyfriend and said the motive behind the attack is being investigated. A case has been registered against Akshay Chandel under charges including attempt to murder, assault, criminal intimidation and other relevant sections of law.
+
+Police teams have been formed to trace the accused, who remains absconding. Officials said efforts are underway to arrest him at the earliest.
+
+The incident has sparked concern among residents, with many questioning how such a violent attack could take place in a busy residential locality in broad daylight.
+
+\- Ends
+
+Ritaban Misra
+
+Jun 4, 2026 10:38 IST
+
+---
+
+### Traffic curbs expected near ITO and DDU Marg due to protest
+*India Today Information Desk · general*
+
+## Delhi Traffic Police has issued an advisory for a political party's protest march on DDU Marg on June 4. Diversions and delays are likely on key central Delhi routes, with rail passengers asked to leave early.
+
+Delhi Traffic Police has issued an advisory for a political party's protest march on DDU Marg on June 4.(File Photo: Reuters)
+
+The Delhi Traffic Police has issued a traffic advisory in view of a protest march scheduled to take place on DDU Marg on June 4, 2026. The march, organised by a political party, is expected to be held between 10:00 AM and 5:00 PM, during which traffic diversions and restrictions may be imposed depending on the situation on the ground.
+
+### ROUTES LIKELY TO BE AFFECTED
+
+According to the advisory, traffic movement may be impacted on several key routes in the area. These include:
+
+-   ITO to DDU Marg
+    
+-   Minto Road Red Light to DDU Marg
+    
+-   Minto Road Red Light to Roundabout Kamla Market
+    
+-   Motorists using these corridors may experience congestion and delays during the hours of the protest.
+    
+
+### COMMUTERS ADVISED TO TAKE ALTERNATE ROUTES
+
+To minimise inconvenience, the Delhi Traffic Police has urged commuters to use alternate routes and avoid travelling through affected areas unless necessary.
+
+Traffic diversions may be implemented in real time depending on the size of the gathering and prevailing road conditions.
+
+### SPECIAL ADVISORY FOR RAILWAY PASSENGERS
+
+Passengers heading to New Delhi Railway Station have been advised to leave early and factor in additional travel time.
+
+The recommended route for reaching the station is:
+
+-   Kotla Cut Mirdard Chowk Minto Road Bhavbhuti Marg
+    
+-   Authorities have said that using this route may help commuters avoid congestion around the protest venue.
+    
+
+### STAY UPDATED ON TRAFFIC CONDITIONS
+
+The Delhi Traffic Police has advised residents and visitors to stay updated through its official communication channels for real-time traffic information and diversion updates.
+
+Given the expected movement of participants and possible traffic restrictions, commuters are encouraged to plan ahead to avoid delays and ensure smoother travel across the city.
+
+\- Ends
+
+Chaitanya Dhawan
+
+Jun 4, 2026 10:37 IST
+
+---
+
+### Pune woman shares Rs 2.2 lakh monthly spend and asks a question many relate to
+*India Today Trending Desk · general*
+
+## A Pune woman shared her family's Rs 2.2 lakh monthly expense sheet online and asked if they were overspending. The post sparked a wider debate on rising urban living costs, lifestyle inflation and what counts as reasonable spending.
+
+A Pune woman's video of Rs 2.2 lakh monthly budget for a 3-member family has gone viral. (Photo: Instagram)
+
+A Pune woman's detailed breakdown of her family's monthly expenses has sparked a debate online after she revealed that her household spends nearly Rs 2.2 lakh every month and then asked a simple question: "Are we overspending?"
+
+The post shared by Smriti Singh, which quickly gained attention on social media, offered a transparent look into the finances of an upper middle-class urban family and reignited conversations about how expensive city life has become in India.
+
+According to the expense sheet shared online, housing formed one of the largest chunks of the family's budget. Rent alone accounted for a significant portion of their monthly spending, while groceries, utilities, household help and transportation added steadily to the total.
+
+The family also allocated sizeable amounts towards children's education, dining out, entertainment and other lifestyle expenses. What surprised many viewers was not the presence of luxury purchases, but how quickly seemingly routine expenses added up to more than Rs 2 lakh a month.
+
+**Watch the video here:**
+
+Singh explained that despite earning well, she often felt that money disappeared faster than expected. Her post was less about showing off a lifestyle and more about understanding whether her spending patterns were reasonable for a family living in a major Indian city.
+
+The discussion soon moved beyond her individual finances. Many users pointed out that expenses such as rent, school fees, groceries and healthcare have risen sharply over the past few years, making six-figure monthly budgets increasingly common among urban professionals.
+
+Others, however, felt there was room for improvement. Some suggested reviewing discretionary spending such as dining out, shopping and subscriptions, while others argued that the family's expenses appeared largely aligned with their income and lifestyle.
+
+The post also prompted comparisons with other viral budget breakdowns that have surfaced online in recent months. From professionals spending less than Rs 40,000 a month in Pune to couples investing lakhs despite high monthly expenses in Gurgaon, social media has become an unexpected forum for discussions about money, saving and lifestyle inflation.
+
+As the debate continued, one thing became clear: the definition of "overspending" varies widely. For some, a Rs 2.2 lakh monthly budget seemed excessive. For others navigating rising urban costs, it felt surprisingly relatable.
+
+The woman's question ultimately struck a chord because it reflected a concern shared by many households today, not whether they are earning enough, but whether they are spending wisely.
+
+\- Ends
+
+Srimoyee Chowdhury
+
+Jun 4, 2026 10:36 IST
+
+---
+
+### Western Express Highway Jam Alert: BEST Bus Crash Near Malad East Disrupts Morning Commute
+*Sumedha Kirti · general*
+
+BEST bus number 8184, returning to Wadala Depot after its scheduled run, allegedly rammed into multiple vehicles near Pushpa Park at 6.50 am, mangling at least one cab.
+
+[Read full article](https://www.news18.com/cities/mumbai-news/western-express-highway-jam-alert-best-bus-accident-malad-east-traffic-disrupt-10129536.html)
+
+---
+
+### Rajesh Exports share price falls 5% to hit lower circuit as Sebi alleges revenue inflation
+*India Today Business Desk · general*
+
+Shares of Rajesh Exports Ltd hit the 5% lower circuit on Wednesday after market regulator Sebi passed an interim order against the company and its promoter, Rajesh Mehta, alleging large-scale financial irregularities, possible revenue inflation and non-cooperation during an ongoing investigation.
+
+The sharp fall came after Sebi said a forensic review had found prima facie evidence suggesting that nearly 97-99% of the company's reported revenue may have been inflated, calling the findings "egregious and unheard of."
+
+The regulator has barred promoter Rajesh Mehta from buying, selling or dealing in Rajesh Exports securities until further orders.
+
+### WHY DID RAJESH EXPORTS SHARES FALL TODAY?
+
+The stock came under intense selling pressure after Sebi's interim order raised serious questions over the authenticity of the company's financial statements.
+
+According to the regulator, its investigation and forensic review uncovered prima facie evidence that a substantial portion of Rajesh Exports' reported revenue may not be genuine. Sebi said approximately 97% to 99% of the company's revenue appeared to be inflated based on the findings available so far.
+
+Such allegations are among the most serious that can be levelled against a listed company because they directly impact investor confidence in the company's reported earnings, revenue and financial health.
+
+The development triggered panic selling in the stock, pushing it to the lower circuit limit.
+
+### WHAT HAS SEBI ACCUSED RAJESH EXPORTS OF?
+
+The market regulator has accused Rajesh Exports of financial misrepresentation, failing to cooperate with investigators and withholding key records required for a forensic audit.
+
+According to Sebi, the company did not provide access to critical accounting systems, failed to furnish complete documentation and withheld important financial records sought by investigators and forensic auditors.
+
+The regulator said the forensic auditor was unable to independently verify large portions of the company's transactions because supporting records were incomplete or unavailable. Only a small fraction of sampled transactions could be fully substantiated through documentation.
+
+The investigation was launched after a shareholder complaint received in March 2024 raised concerns about large outstanding trade receivables on the company's books.
+
+### WHAT DID SEBI FIND?
+
+The order, which runs over 100 pages, stems from an investigation covering the period between April 2020 and March 2024. Sebi had appointed BDO India Services as the forensic auditor to examine the company's books.
+
+The regulator also raised concerns about transactions involving overseas subsidiaries and step-down subsidiaries, including entities in Singapore and Switzerland. These included REL Singapore, Global Gold Refineries AG and Swiss precious metals refiner Valcambi.
+
+According to Sebi, the lack of access to underlying accounting records significantly restricted the forensic review and prevented independent verification of several reported figures.
+
+The regulator further alleged that funds may have been routed in a manner that obscured their origin and destination, raising questions about the authenticity of the company's financial statements.
+
+### WHAT ACTION HAS SEBI TAKEN?
+
+Given the seriousness of the findings, Sebi said immediate intervention was necessary to protect investors and maintain market integrity.
+
+The regulator has restrained promoter Rajesh Mehta from dealing in Rajesh Exports securities until further orders. It has also directed the company to provide all pending information sought by investigators within 30 days.
+
+In addition, Sebi has ordered the appointment of a fresh forensic auditor to conduct a more detailed review of the company's books and transactions.
+
+The Sebi order is currently an interim order and the investigation is still ongoing. However, the allegations have significantly increased uncertainty around the company.
+
+Investors are likely to closely monitor the company's response, future regulatory developments and the findings of the fresh forensic audit ordered by Sebi.
+
+For now, the market appears focused on the seriousness of the allegations, which is why Rajesh Exports shares witnessed sharp selling pressure and hit the lower circuit following the regulator's action.
+
+\- Ends
+
+Jun 4, 2026 10:24 IST
+
+---
+
+### Monsoon at Kerala’s door, but knock not strong enough: What’s missing?
+*India Today Science Desk · general*
+
+Despite heavy rains and wind sweeping Kerala and other regions, the Indian Meteorological Department (IMD) has not yet declared the arrival of monsoon, as of 10:15 am on June 4.
+
+The southwest monsoon is expected to arrive over Kerala today, on June 4, marking the beginning of India's crucial rainy season after a brief delay from its usual onset date of June 1.
+
+The IMD said conditions have become favourable for the monsoon to advance into parts of Kerala, Tamil Nadu and adjoining areas of the Arabian Sea and Bay of Bengal.
+
+A satellite image showing the monsoon system over Kerala. (Photo: IMD)
+
+On Thursday morning, heavy rain continued to batter several parts of the state, with the IMD issuing an orange alert for Alappuzha, Kottayam and Ernakulam districts for three hours on Thursday morning, warning of thunderstorms, heavy rainfall and surface winds that could reach speeds of up to 40 kmph.
+
+Then, why has the weather department not announced the arrival of the southwest monsoon?
+
+### WHY HAS IMD NOT DECLARED THE MONSOON?
+
+Despite widespread rain across Kerala over the past two days, the IMD does not declare the onset of the monsoon based on rainfall alone.
+
+The weather department follows a set of guidelines adopted in 2016 that require three separate conditions to be met before the monsoon can be officially declared.
+
+People cover themselves as they walk amid rainfall. (Photo: PTI)
+
+According to reports, the rainfall requirement appears to have been satisfied. However, forecasters were still assessing whether the remaining atmospheric conditions, having to do with the monsoon winds and cloud cover, had fully reached the required thresholds.
+
+These checks help the IMD confirm that the rains are part of a sustained seasonal shift rather than a temporary spell of wet weather.
+
+As a result, even though Kerala is already experiencing monsoon-like conditions, the official declaration is still awaited.
+
+That then brings the focus on what these thresholds are.
+
+### WHAT ARE IMD'S CONDITIONS TO DECLARE MONSOON?
+
+The first requirement is widespread rainfall, requiring at least 60% of 14 selected weather stations across Kerala, Lakshadweep and coastal Karnataka to record 2.5 mm or more rainfall for two consecutive days.
+
+The 14 selected weather stations include, Minicoy, Thiruvananthapuram, Punalur, Amini, Kollam, Kottayam, Kochi, Alappuzha, Thrissur, Thalassery, Kannur, Kozhikode, Kasaragod and Mangaluru.
+
+A weather image showing peninsular India, including Kerala facing rainy conditions. (Photo: Windy)
+
+Then comes the second requirement, which relates to the monsoon winds.
+
+These moisture-filled winds blow in from the Arabian Sea and bring rain towards India. The IMD checks whether the winds are strong enough and spread high enough into the atmosphere to support a sustained monsoon advance.
+
+More specifically, the winds must be strong and deep enough to reach up to 600-hectopascal level in the atmosphere, which is roughly about 4 kilometres above the Earth's surface.
+
+The third and the final requirement has to do with cloud cover.
+
+Using satellites, the IMD monitors the extent of thick rain-bearing clouds over the region, as a well-developed cloud pattern is one of the key signs that the monsoon system has become established.
+
+An image of a tea garden estate under an overcast sky and rain. (Photo: Unsplash)
+
+The weather agency monitors the cloud cover using Outgoing Longwave Radiation (OLR), a metric used to measure the amount of heat escaping from the Earth into space.
+
+In simple terms, lower OLR values indicate that the skies are covered by dense clouds capable of producing widespread rain.
+
+The monsoon onset criteria demand OLR to be below 200 watts per square metre.
+
+### RAIN IS HERE, ALMOST
+
+These criteria are what stands between the ongoing rain showers in Kerala being deemed as the arrival of monsoon.
+
+Once the three conditions align, the IMD will declare the onset over Kerala, and will continue to monitor the monsoon as it travels across the country.
+
+Visitors at the Marine Drive amid rain in Kochi, Kerala. (Photo: PTI)
+
+After arriving over Kerala, the southwest monsoon typically advances northward in stages over the next four to six weeks. It usually reaches coastal Karnataka, Goa and parts of northeastern India within the first week of onset, before spreading across Maharashtra, Telangana, Andhra Pradesh, Chhattisgarh and eastern India through June.
+
+The monsoon generally arrives in Delhi around June 27 and covers most of northwest India by the end of June or early July.
+
+Under normal conditions, it reaches the farthest parts of Rajasthan and Punjab by around July 8, completing its journey across the country.
+
+\- Ends
+
+Jun 4, 2026 10:23 IST
+
+---
+
+### 'Chief Adviser And Guide': Has Mamata Lost The Trinamool Congress Party She Had Built?
+*Prisha Vibhavari · politics*
+
+West Bengal TMC faces major split as rebel MLA Ritabrata Banerjee, backed by most MLAs, becomes Leader of Opposition, leaving founder Mamata Banerjee isolated
+
+[Read full article](https://www.news18.com/india/chief-adviser-and-guide-has-mamata-lost-the-trinamool-congress-party-she-had-built-ws-l-10129605.html)
+
+---
+
+### 8 years on, proposal for IAS-like medical cadre still awaiting states' views
+*Anuja Jaiswal · regional, india*
+
+NEW DELHI: More than seven years after the Centre informed Parliament that it was consulting states on the creation of an All India Medical Service, a proposed national cadre of doctors on the lines of the IAS and IPS, the plan remains under consideration with the Union health ministry still awaiting responses from states and Union Territories.The proposed service is aimed at creating a dedicated cadre of medical professionals who could serve both the Centre and states, similar to officers of the Indian Administrative Service and Indian Police Service.In a reply to an RTI application dated May 26, 2026, the ministry said the proposal for creation of an All India Medical Service is under consideration and that views of the remaining states and Union Territories have been sought before the matter is taken up with the Department of Personnel and Training (DoPT).The proposal has been pending for years. In a Lok Sabha reply in December 2018, the health ministry had said that a committee constituted for the cadre review of the Central Health Service had examined the need for creation of an All India Medical Service and recommended seeking states' views before finalising the proposal.At the time, Goa, Mizoram, Dadra and Nagar Haveli, and the Andaman and Nicobar Islands supported the proposal, while Kerala and Sikkim opposed it.
+
+Andhra Pradesh sought a more comprehensive framework to address manpower needs in the health sector.The latest RTI response suggests that despite years of deliberations, consultations with states are still continuing and a final decision on the proposed cadre is yet to be taken.Supporters of the proposal argue that a national medical cadre could help strengthen public health administration, improve deployment of specialists and create a leadership pipeline for the healthcare sector. Critics, however, have expressed concerns about states' control over health personnel and service conditions.
+
+---
+
+### Rs 15 Lakh Crore Inflated Revenue, Missing Records, Data Gaps: Inside SEBI's Case Against Rajesh Exports
+*Varun Yadav · business*
+
+In the interim order, SEBI imposed restrictions on Rajesh Exports and its promoter-chairman Rajesh Mehta pending further investigation, citing concerns over investor protection.
+
+[Read full article](https://www.news18.com/business/markets/rs-15-lakh-crore-inflated-revenue-missing-records-data-gaps-inside-sebis-case-against-rajesh-exports-ws-l-10129575.html)
+
+---
+
+### Migrant children separated under Trump policy face renewed family breakups
+*SECTIONS Migrant children separated under Trump policy face renewed family breakups AP · business*
+
+San Francisco: Eleven-year-old Ederson Galicia Alva had just stepped off the plane and into the Miami airport's dim hallways when federal agents pulled his mother aside for questioning. Again.
+
+Panic welled up. His excitement at soon being back at recess with his Florida classmates fell away. Would the government take her away again?
+
+  
+
+This was not his first trauma. In 2018, when he was just 3 years old, Ederson was taken from his mother's arms at the US-Mexico border under the first Trump administration's family separation policy and kept apart from her in a government facility for months. They were finally reunited after lawyers intervened. Then, in June of last year, he and his mother were separated a second time, despite legal protections meant to keep them and families like theirs together.
+
+He later joined his mother in Guatemala. After a destitute, torturous 11 months in the indigenous highlands, Ederson's family was allowed to return to Florida last week, following a federal judge's order that the government had acted illegally.
+
+Now, eight years after President Donald Trump's forcible border separations came to an official halt following global outrage, an Associated Press investigation has found that the government has re-separated dozens of children from their families, despite a landmark legal settlement meant to keep them together. Some of their parents have been locked in immigration detention facilities for months, while others have been deported back to their home countries after being taken from their families once again. In some cases, immigration officials conducting interior arrests deported people despite discovering they were legally off limits for removal, according to emails obtained by AP.
+
+"Not only has the government refused to acknowledge the horror of the initial separations during Trump I, but it is now detaining and deporting these same families," said Lee Gelernt, an attorney for the American Civil Liberties Union and lead counsel in the lawsuit that ended the policy. "These children have suffered enough without re-traumatising them."
+
+Trump successfully ran for reelection on an anti-immigration platform. Under his second term, the administration has vowed to deport more than 1 million people per year. Federal agents have been plucking people from their communities so swiftly that, according to the Brookings Institution, now the parents of tens of thousands of children have been detained.
+
+This time, family separations often look different from Trump's first term. In 2018, Ederson and other children at the border were taken from their parents, who were detained separately and overwhelmingly charged criminally with illegal entry. Then, the government was unable to reunite them for months because adults' and children's information was kept in different computer systems. A judge barred the government from separating most families at the border and ordered the government to bring the families back together after the ACLU filed a class action lawsuit. Later, a court settlement banned most family separations to deter immigration until December 2031.
+
+Today, if parents are arrested or deported under the president's push for mass deportations, they are being made to choose whether to leave their children behind in the United States.
+
+"DHS complies with all court orders, even as radical NGOs shop for the most favourable forum and activist judges seek to thwart our operations," acting Assistant Secretary Lauren Bis, a Department of Homeland Security spokesperson, said in response to AP requests for comment about the government's policies toward separated families.
+
+Government attorneys have argued in recent court filings that there are no legal restrictions on "the government's statutory authority to execute orders of removal." Bis added that enforcing immigration law was "not optional," and that "every removal of an illegal alien helps restore order and reinforce the rule of law."
+
+Ederson's family was recently allowed to return, but their status is still on shaky ground.
+
+## Separated at the border, then again in Florida
+
+After being taken from his mother, Mirsy Maricela Alva Lopez, and confined to a government shelter in Arizona as a toddler for four and a half months, Ederson barely recognised her once they were reunited, she said. Vivid nightmares haunted him throughout his time in elementary school, where he learned to read in English in classrooms amid lush lawns and palm trees less than 10 miles from Mar-a-Lago, Trump's Winter White House.
+
+Once a federal judge approved a settlement to the class action suit under the Biden administration, Ederson's family and those like his got legal status to stay in the US, with pathways for residency and asylum, and his mother got a work permit. And after months of mental health services to address his ongoing fear that his mother would never return, in early June last year - about five months after the beginning of Trump's second administration and the president's resumed anti-immigration push - his therapist finally said he had made so much progress he could put his weekly sessions on pause.
+
+Two weeks later, Alva Lopez was stopped by federal agents as she and co-workers were en route to a landscaping job near Mar-a-Lago. The agents, wearing brown uniforms, never gave a reason for the stop or identified themselves before transferring Alva Lopez to two Florida jails, then to ICE custody in Louisiana, and finally to a plane full of shackled deportees heading to Guatemala City, she said.
+
+"I felt the very same thing I went through the first time," Alva Lopez said, weeping. "I was living it all over again."
+
+Alva Lopez was separated from Ederson and his older sister, Briseidy, for a week, and not given the chance to speak with an immigration official about her status or legal protections, said Kelly Kribs, an attorney with the Young Centre for Immigrant Children's Rights, which has supported Alva Lopez's family's return to the US
+
+When she finally managed to call Ederson and Briseidy, they couldn't stop sobbing. Alva Lopez said she asked her sister to buy aeroplane tickets to send them to Guatemala City. She met them the next day at the airport and travelled with them nine more hours down highways and rutted roads to reach San Martin Cuchumatan, a hamlet in the highlands where the children were born.
+
+The three of them shared a tiny bedroom with a dusty floor with Alva Lopez's parents and brother in an adobe brick home with a sheet metal roof, nothing like the leafy cul-de-sacs of South Florida. The school, where all lessons are in Spanish, was a mile's walk, and none of the children in town spoke English, Ederson said.
+
+Instead of clocking in to trim the gardens of West Palm Beach estates, each day Alva Lopez fed the chickens and ducks in a small coop behind the house, washed the family's laundry by hand and cooked meals on an open fire.
+
+And Ederson was back to waking up at night, fearing his future. At Northmore Elementary School, he had been doing well in fifth grade. In Guatemala, he repeated fourth grade, this time in Spanish, and was quizzed on the history and culture of a country he barely knew. His friendships weren't as close as they were in West Palm Beach. Sometimes when he felt sad, he watched the school's old online videos to see his old friends.
+
+"We used to play and chat. Sometimes they would help me when I didn't understand the lesson, and I would help them with math," he said, fighting back tears. "I have very few friends here."
+
+Ederson still doesn't want to talk about the separations, and he can't stop asking his mother why she went to work that day. But he is clear on one thing: he never wants to be apart from his mother again.
+
+## Lasting, excruciating harm'
+
+In late 2017, immigration officials began forcibly separating parents and children at the US-Mexico border, under a policy championed by Stephen Miller, Trump's then-senior policy advisor who is now White House deputy chief of staff. After advocates got word, the ACLU filed a lawsuit in February 2018 to halt the practice called Ms L v. US Customs and Immigration Enforcement, on behalf of a Congolese mother, the Trump administration separated her 7-year-old daughter for four months. It later became a class action suit.
+
+It wasn't until thousands of families were torn apart that a judge ordered the government to end separations, saying it caused "lasting, excruciating harm." According to the ACLU's most recent accounting, the number of separated parents and children, and their impacted family members covered by the settlement is far greater than had been previously reported - over 11,800 - and because the government deported so many people before the practice was banned, the full scope may never be known. The ACLU also provided AP with new information surrounding Ms L's class members who have been detained and deported during the second Trump administration, including that dozens of children were re-separated. Legal filings in the Ms L case and other immigration attorneys working with separated families also detailed the re-separations of children.
+
+Under a 2023 settlement agreement signed by the Biden administration, Ms L's class members - including separated parents, children and other close relatives - received special legal protections, pathways toward asylum and access to attorneys, work permits and support services. Over eight years, advocates and attorneys have been trying to help the families reunite and recover, travelling to the Guatemala rainforest and remote Honduran villages to inform class members of their rights, and offering them to apply for everything from humanitarian parole to work authorisation permits to psychological counselling, benefits meant "to prevent any ongoing harm caused by the initial separation," according to the settlement.
+
+That changed when Trump began his second term. Support for separated families was never encoded by an act of Congress, and soon it started shrinking.
+
+First, funding for legal services temporarily ended. Instead, the Trump administration said it would charge families USD 1,000 each to enter or stay in the country. Then, attorneys said, some parents were told to appear for more frequent ICE check-ins and ordered to wear ankle monitors to record their movements. Many class members lost access to counselling.
+
+By late last year, emails show the government had deported some protected family members even after being told by the ACLU that they were off limits as protected Ms L class members.
+
+Seven days before Christmas, ACLU attorney Natalie Behr wrote an urgent email to Department of Justice contacts, saying her team had learned that a protected relative was once again in ICE custody.
+
+"We ask that you tell us why we were not notified of this class member's detention within 24 hours. ... this class member should not be removed," Behr wrote.
+
+A Washington DOJ trial attorney emailed back, saying he would ask ICE. ACLU attorneys followed up.
+
+By the day after Christmas, it was already too late. He had been deported.
+
+The problem is still surfacing. While the government is required by judges' orders to immediately tell the ACLU when Ms L's class members are detained and to return re-separated families who have been deported, the Trump administration only disclosed in April that it had deported another protected person to Guatemala back in September, court filings show.
+
+The same thing nearly happened to one of Alva Lopez's neighbours, who was picked up in West Palm Beach a few months after her deportation. The father also had done landscaping near Mar-a-Lago and had been separated at the US-Mexico border in 2017 from his daughter. Under the first Trump administration, he was swiftly returned to Guatemala. As ACLU attorneys and government lawyers hashed out what separated families were due, he came back to Florida in 2021 to reunite with his children, one of whom had been released after spending months in a government detention facility.
+
+In October, the government locked him up, first in Alligator Alcatraz, an immigration detention centre in the Florida Everglades, then inside Camp East Montana in Texas, Kribs said.
+
+At Camp East Montana, he was fed mouldy food with worms, berated by guards and learned that a fellow detainee died after being mistreated by ICE officials, he said, speaking on condition of anonymity for fear of government reprisal. ICE said the detainee died after experiencing "on-site medical distress," and the El Paso medical examiner's office later ruled the detainee experienced "asphyxia due to neck and torso compression." Christmas and New Year's Eve came and went, and by January, he found it hard to keep up his hopes when his children called.
+
+The ACLU filed a motion about Ms L's parents being detained, and the father was released from government detention in April. While he's grateful to be back home in Florida with his children, he told AP he feels like he is still being tracked through his ankle monitor and the ICE check-ins he's required to do every two weeks. His children still worry he won't be there when they get out of school, he said.
+
+Bis said DHS could impose conditions on parole, including electronic monitoring, regular reporting requirements, and even detention."
+
+## A place where we can all be safe'
+
+Sinri Baltazar, a mother from Honduras who was first separated from her then-5-year-old daughter in 2018, was also allowed under a judge's order in April to return to Louisiana with her three children, including her youngest, a US citizen.
+
+It has not been easy. Baltazar, a member of the Afro-indigenous Garifuna community that faces discrimination in Honduras, was deported with her children last year after she said immigration officials told her to sign a document they said would permit her to keep her family together - only if they all left. Back in New Orleans, she said she was grateful her children could seek a better life, but they have been struggling to get by while living with an acquaintance from church.
+
+"The only thing my children say is that they want to be home, in their own house," Baltazar said. "I'm just trying to get us to a place where we can all be safe, and I hope for that for all the other families."
+
+As deportations have risen in the last year and a half, attorneys say separated families have become increasingly fearful about filling out government paperwork, and many don't know they can apply for asylum, a key benefit of the settlement that expires in December. The administration also hasn't said whether it will extend a current, trimmed-back legal services contract for families that ends in August. Another deadline is looming as well: thousands of separated families need to request that any pending removal orders be cancelled by December, or lose their ability to stay in the US legally.
+
+"There was never enough funding to keep up with the need," said Anilu Chadwick, an attorney and senior director at the legal nonprofit Together & Free, which she said has supported 15 families that have been re-separated, including Baltazar's. "Now we have to see if the government awards a new contract, and I gotta say, as someone who has been on the clock to find and locate services, that is not enough time even in the best of circumstances."
+
+For separated families who are waiting for loved ones to be released from detention, or for paperwork to return to the US, however, time has been moving at a glacial pace.
+
+Ever since Alva Lopez was deported back to Guatemala nearly a year ago, she checked her phone each morning for word of when she and her children could return. Money started drying up. The children began forgetting their English slang. Briseidy, now 14, worried she would drift away from her American friends. Finally, two weeks ago, there was news: the government would bring her and her children back to Florida on an American Airlines flight, under a judge's order.
+
+The puppies she had bought Ederson to lighten his mood had died, and there were few friends and relatives to say goodbye to. So she packed up the siblings and their few possessions, their clothes now loose on their frames after losing weight since returning to Todos Santos Cuchumatan.
+
+And finally, in the last week of May, passports and travel documents in hand, the family flew to Miami. Ederson said it felt like a miracle. But soon after landing, immigration officials pulled Alva Lopez in for questioning, taking her photo and fingerprints all over again and re-examining every document she held. Their stay in the US may be short. An immigration official granted her just two weeks' humanitarian parole.
+
+The government declined to comment specifically on Alva Lopez's case.
+
+"I still haven't told the children" about the two weeks' parole, Alva Lopez said the first day she woke up back in the family's old neighbourhood in West Palm Beach. "They're going to worry that the same thing will happen again," she said.
+
+---
+
+### Child not ‘pawn’: Court orders father to return son taken from school against custody decree
+*Vineet Upadhyay · legal*
+
+The father argued that the child had made complaints against the mother during an interaction and the circumstances warranted a change in the custody arrangement. (AI-generated image)
+
+A father cannot take the law into his own hands and disregard a court-ordered custody arrangement, the Kerala High Court has held while directing that a minor boy be returned to his mother after finding that the father had retained the child in violation of a family court decree.
+
+Emphasising that a child’s welfare must remain the foremost consideration, the court observed that child cannot be treated as a “pawn” in parental disputes and that any grievance over custody arrangements must be addressed through legal remedies rather than unilateral action.
+
+A bench of Chief Justice **Soumen Sen** and Justice **Syam Kumar V M** was hearing a habeas corpus petition filed by Hayarunisa Abdul Hakkim, who sought the return of her minor son after alleging that the child’s father had taken him away from school and continued to keep him despite a family court decree granting her permanent custody.
+
+ Chief Justice Soumen Sen and Justice Syam Kumar V M referred to comprehensive child custody guidelines approved by the Calcutta High Court in September 2025. (AI-enhanced image)
+
+“It is unfortunate that the child is being treated like a pawn in the hands of the parents. The parents are not expected to behave irresponsibly. In our view, the child should now be returned to the mother, who shall continue to be the guardian of the child unless and until the order of the Family Court is modified,” the court said on June 1, directing that custody of the child be restored to the mother.
+
+## Mother moved HC after child taken away
+
+-   The case stemmed from a custody arrangement formalised through a compromise decree passed by the family court, Attingal, on June 24, 2025, under which permanent custody of the child was granted to the mother.
+-   According to the petition, the father subsequently removed the child from school without informing the mother and continued to retain custody despite the subsisting decree.
+-   Claiming that her son was being unlawfully kept away from her, the mother approached the high court through a habeas corpus petition seeking his immediate return.
+
+## ‘Boy expressed desire to stay with mother’
+
+-   During the hearing, the judges independently interacted with the child as well as both parents.
+-   The court recorded that the child ultimately expressed a clear desire to stay with his mother.
+-   Although he initially stated that he wished to go with his father, the bench noted that the statement did not appear to have been made entirely of his own free will.
+-   The judges further observed that there could be no doubt that the father had taken custody of the child in violation of the family court decree.
+
+## ‘Father should have approached court’
+
+-   The father argued that the child had made complaints against the mother during an interaction at school and that circumstances warranted a change in the custody arrangement.
+-   Rejecting the justification, the high court said that even if such concerns existed, the father was required to seek modification of the decree before the family court.
+-   The bench observed that while circumstances may arise requiring a custody order to be revisited, no parent can bypass legal procedures and unilaterally assume custody in defiance of a court order.
+-   The court remarked that the father ought to have filed an application for modification of the compromise decree rather than taking the law into his own hands.
+
+## Failed to return boy
+
+During the proceedings, the father’s counsel referred to execution proceedings pending before the family court and an order dated April 24, under which the child was apparently allowed to stay with him for a few days before being returned to the mother.
+
+The high court noted that more than a month had passed since that order, but the child had not been returned.
+
+Observing that the habeas corpus petition had been filed on May 24, the bench said it was prima facie of the view that the father had breached the assurance given before the family court by failing to restore custody to the mother.
+
+Story continues below this ad
+
+## ‘Child’s welfare must override parental conflict’
+
+Stressing that custody disputes should never become an extension of matrimonial battles, the court reiterated that the welfare of the child must remain paramount.
+
+The bench held that the mother would continue as the child’s guardian unless and until the family court modified the existing custody arrangement.
+
+The court also recorded that the child was present before it and that custody was handed over to the mother in court itself.
+
+## HC endorses child-centric custody framework
+
+-   In an important development with wider implications for family law cases in Kerala, the high court referred to comprehensive child access and custody guidelines approved by the Calcutta High Court in September 2025.
+-   The bench said those guidelines, along with parenting plans, may be followed by family courts in Kerala until a committee constituted to examine the framework submits its recommendations and formal rules are framed.
+-   The court also directed the registrar general to circulate the guidelines to district judges, family courts, and magistrates dealing with custody disputes, matrimonial matters, and cases under the Protection of Women from Domestic Violence Act.
+
+## Social investigation report ordered
+
+-   To assist in future proceedings, the court directed a child welfare officer to submit a social investigation report regarding the child before the family court in the pending execution proceedings.
+-   At the same time, the bench clarified that its observations in the habeas corpus case should not influence the family court while deciding the execution matter.
+-   The court further directed both parents to strictly comply with the terms of the compromise decree as it presently stands.
+
+## Mediation proceedings pending
+
+The high court was informed that mediation proceedings relating to matrimonial disputes between the parties are ongoing.
+
+Story continues below this ad
+
+Expressing hope that the parents would act responsibly, the bench said it trusted that they would take informed decisions, keeping the welfare and future of their child at the centre of their choices. The petition was accordingly disposed of.
+
+Vineet Upadhyay is an Assistant Editor with The Indian Express, where he leads specialized coverage of the Indian judicial system. Expertise Specialized Legal Authority: Vineet has spent the better part of his career analyzing the intricacies of the law. His expertise lies in "demystifying" judgments from the Supreme Court of India, various High Courts, and District Courts. His reporting covers a vast spectrum of legal issues, including: Constitutional & Civil Rights: Reporting on landmark rulings regarding privacy, equality, and state accountability. Criminal Justice & Enforcement: Detailed coverage of high-profile cases involving the Enforcement Directorate (ED), NIA, and POCSO matters. Consumer Rights & Environmental Law: Authoritative pieces on medical negligence compensation, environmental protection (such as the "living person" status of rivers), and labor rights. Over a Decade of Professional Experience: Prior to joining The Indian Express, he served as a Principal Correspondent/Legal Reporter for The Times of India and held significant roles at The New Indian Express. His tenure has seen him report from critical legal hubs, including Delhi and Uttarakhand. ... 
+
+-   Tags:
+-   father
+-   Kerala High Court
+-   minor boys
+
+---
+
+### Australia's lower house passes bill for biggest overhaul of taxes in decades
+*SECTIONS Australia's lower house passes bill · business*
+
+Sydney: Australia's lower house of parliament passed a ​bill on Thursday ​for the government's biggest overhaul of taxes in ​decades, curbing tax breaks for property investors to make housing more affordable and scrapping a capital gains discount.
+
+The measure cleared the House ‌of Representatives ⁠94-48 ⁠after failed amendment bids by the opposition and some independents. Some businesses ​had urged the government to exempt them from the capital gains ​overhaul and confine changes to real estate.
+
+  
+
+"Passed the House: tax cuts for every worker and a fair ​go for first home buyers," Prime ⁠Minister Anthony ‌Albanese said on X.
+
+The measure now goes ​to the ​Senate, where the government lacks a majority ⁠and will require crossbench support.
+
+The reforms, unveiled ​in last month's federal budget, will see a ​tax on inflation-adjusted gains replace a capital gains discount of 50% for assets held longer than a year. A 30% minimum tax on net capital gains will start from July 2027.
+
+The bill aims to ‌limit negative gearing to newly built homes so as to steer capital toward new housing supply, narrowing a rule that ⁠lets investors offset property losses against taxable income.
+
+The bill also gives workers a new tax cut, through a tax offset of ​A$250 and a new instant tax deduction of A$1,000 ($710). These will be in addition to already legislated tax cuts giving annual savings of up to A$536 to individual taxpayers.
+
+---
+
+### ThynkTech Pune India closure: Noida IT Firm shutdown leaves 500+ jobless after Rs 15,000 deposit over issuing laptops, 2 months' salary unpaid
+*Trending Desk · business*
+
+The sudden shutdown of ThynkTech India OPC Pvt Ltd, a Noida-based IT firm, leaving more than 500 engineers, interns, and employees jobless in Pune’s Hinjewadi, has led to a major disruption in the tech market, reports TOI's Mihir Tanksale, Shashank Didmishe and Priya Kothari.
+
+The company reportedly closed its divisional office without any prior notice on April 22, triggering chaos among fresh hires and trainees who were still in the onboarding phase.
+
+**
+
+  
+
+## ₹15,000 “laptop deposit” and unpaid salaries spark scam allegations
+
+What initially looked like a regular campus hiring opportunity soon turned into a financial and employment crisis for many. Employees alleged that the company collected a ₹15,000 security deposit from each one of them for laptops. On top of that, salaries were allegedly not paid for two months before operations stopped completely.
+
+Police officials confirmed that the total financial loss being investigated so far is around ₹11.25 lakh across employees, with more complaints expected.
+
+**
+
+## Inside the company: training, promises, and sudden collapse
+
+Former employees said recruitment drives were conducted last year, especially targeting fresh engineering graduates from smaller towns. The firm offered training in full-stack development, Java, Python, and AI/ML integration, along with promises of future CTCs up to ₹5.5 lakh.
+
+But, things reportedly started going wrong in February 2026 when salary delays started, leaving employees and interns confused. “However, trouble began in Feb 2026 when salaries were not credited on the usual dates of the 7th or 8th of the month,” Vangnekar told TOI.
+
+Employees say they were repeatedly told that an internal audit was causing delays, with assurances that payments would be cleared by the end of the month—but that never happened.
+
+## “No laptop, no salary”: employees describe financial stress
+
+Many young engineers who relocated to Pune say they were left stranded with rent, food, and living costs, while still waiting for promised payments. “Neither did the stipend for the two months come nor did the laptop,” he said.
+
+Another employee added that most communication lines suddenly stopped when the office shut down and the premises were locked after rent default.
+
+For many interns, the entry into the company itself required upfront payment, which is now under scrutiny. “We can’t even put our company’s name on our CV because it doesn’t count as work experience. Who will give us a job?” she added.
+
+A 22-year-old intern from Nandurbar described how he paid the deposit after receiving what looked like a formal offer.
+
+“After my Google Meet interview and I got an email from ThynkTech saying that if I paid a Rs 15,000 deposit, I would get my offer letter. I found it strange, but my friends had been working there for 2-3 months, so I paid up. I was still training when the company shut. I am poor and have no support, yet I paid the deposit,” he added.
+
+## Police action and CEO detention in Nashik
+
+Following a complaint filed by an intern, Hinjewadi police registered a case under Sections 316 (criminal breach of trust) and 318 (cheating) of the Bharatiya Nyaya Sanhita (BNS) against senior company officials, including the CEO, HR head, and training head.
+
+A senior officer confirmed action in the case: “We will question him regarding his involvement in the shutting down of the company and his intention behind the move,” Pandhare said.
+
+The CEO, Harshal Thakre, was later detained in Nashik and is being brought to Pune for further questioning. Before his detention, he had acknowledged his position but refused detailed comments.
+
+## Group chats, broken promises, and growing anger
+
+Even after operations stopped, employees were reportedly added to a group chat where updates about pending payments continued until mid-May, raising hopes of recovery that never materialized.
+
+Police continue to record statements, and more affected employees are expected to come forward in the coming days.
+
+(With TOI inputs)
+
+---
+
+### Mumbai University 3rd Merit List: Check UG admission cut-offs and other details
+*Trending Desk · business*
+
+Mumbai University is set to release the third merit list for undergraduate admissions on Thursday. Candidates seeking admission to programmes such as BA, BCom, BSc, BMS, BAF, BBI and other undergraduate courses offered by affiliated colleges can check their allotment status on the respective college websites.
+
+Colleges will publish course-wise cut-offs and the names of shortlisted candidates based on the seats remaining vacant after the earlier rounds of admissions. The third merit list will indicate whether a candidate has secured admission to their preferred course and college.
+
+As per the admission schedule, shortlisted candidates will be required to complete document verification and fee payment between June 5 and June 9, 2026. Admissions will be confirmed only after successful verification of documents and payment of the prescribed fees.
+
+## How to check Mumbai University 3rd Merit List 2026
+
+-   Visit the official website of the respective Mumbai University-affiliated college.
+-   Navigate to the Admissions or Merit List section.
+-   Click on the link for the Third Merit List 2026 for the relevant programme.
+-   Download the merit list PDF.
+-   Search for your name, application number or category.
+-   Follow the admission instructions issued by the college.
+
+The third merit list has been prepared based on seats left vacant after admissions under the second merit list. Candidates allotted seats in this round should complete all admission formalities within the stipulated deadline to secure their admission.
+
+---
+
+### 'CEC is messaging me': Rahul Gandhi's explosive claims over Modi's governance and downfall
+*ET Online · business*
+
+Addressing a public gathering, the leader described tribal communities as the cultural roots of India and stressed that the country's progress is impossible without them. He then launched a sharp political attack, claiming an "economic tsunami" is approaching and alleging that institutions are witnessing an internal revolt. Referring to the election process, he made fresh claims about the system being "shaken" and suggested that significant political changes could unfold in the coming year.#Politics #IndiaPolitics #narendramodi #gyaneshkumar #indiaeconomy #TribalRights #ElectionRow #system #indiangovernance #rahulgandhi #congress #bjp #PoliticalStatement #Opposition #Democracy #Governance #BreakingNews #IndianPolitics
+
+---
+
+### Historic BJP Office In Kolkata Likely To Be Converted Into Shyama Prasad Mukherjee Museum | Exclusive
+*Pragati Ratti · general*
+
+Party leaders believe the building represents an important chapter in Bengal’s political history and remains closely connected to the legacy of Shyama Prasad Mukherjee.
+
+[Read full article](https://www.news18.com/india/historic-bjp-office-in-kolkata-likely-to-be-converted-into-shyama-prasad-mukherjee-museum-exclusive-ws-l-10129533.html)
+
+---
+
+### TS LAWCET, PGLCET Results 2026: Scorecards releasing today at 4 pm at lawcet.tgche.ac.in
+*Education Desk · legal*
+
+The final answer keys for the law entrance tests will also be published today. Students can check and download scorecards at lawcet.tgche.ac.in. (Image: AI Generated)
+
+The Osmania University, Hyderabad, will release the TS LAWCET and PGLCET 2026 results today (June 4) on behalf of the Telangana State Council of Higher Education (TSCHE). Candidates who appeared for the computer-based state-level entrance exam can access their scorecards online at 4 pm. The final answer keys for the law entrance tests will also be published today. Students can check and download scorecards at lawcet.tgche.ac.in.
+
+The rank cards for both TS LAWCET and TS PGLCET 2026 will be available on the official candidate portal at lawcet.tsche.ac.in. Students should keep their login credentials ready and ensure a stable internet connection while accessing their results online.
+
+## **TS LAWCET Result: How to download the results**
+
+Step 1:  Go to the official website – _lawcet.tsche.ac.in._
+
+Step 2:  Select the link to download the rank card on the home page
+
+Step 3: Log in using the necessary credentials like date of birth and hall ticket number
+
+Step 4: The candidate’s rank will appear on the screen
+
+Step 5: Candidates are requested to download and save the results for further reference.
+
+Story continues below this ad
+
+Candidates are advised to thoroughly check all information printed on their scorecards. The result document will mention the candidate’s name, roll number, total marks, rank, and qualifying status. These details will be crucial during counselling and admission, and any discrepancy must be reported to the authorities without delay.
+
+## TS LAWCET, PGLCET Results: Qualifying marks
+
+To qualify the TS LAWCET and TS PGLCET exams this year, students are required to achieve a minimum passing percentage of 35 per cent; i.e. at least 42 marks from the total of 120 marks. Furthermore, there is no minimum max criteria for candidates belonging to ST and SC categories.
+
+TS LAWCET is held for admissions to three-year and five-year integrated LLB programmes, whereas TS PGLCET is conducted for candidates seeking admission to two-year LLM programmes across various law colleges in Telangana.
+
+Following the declaration of results, candidates who qualify will be invited to participate in the counselling process. During counselling, candidates must choose their preferred colleges and submit required documents for verification. Final seat allotments will be made based on candidates’ ranks and preferences.
+
+---
+
+### Saheb and Bibi
+*TOI Edit · opinion, regional*
+
+_Trump should call out Netanyahu publicly for prolonging the conflict. He has the cards. Use them._
+
+Having the courage to tell a friend he is wrong is hard. It’s no different in international diplomacy. Trump’s reported expletive-ridden phone call with Netanyahu – although Tel Aviv denies any personal attacks from the American president – shows how complicated the US-Israel relationship has become in the context of the Iran war. Trump publicly still maintains an image of coordination with the Israelis. But the cracks are showing.  
+It’s apparent Tel Aviv’s goals for this war are vastly different from Washington’s. The latter, despite Trump’s contradictory messaging, can be boiled down to denying Iran a nuclear bomb. The former seemingly aim to reorient West Asian geopolitical landscape in favour of Israel. Hence, Tel Aviv appears to be following a three-pronged approach – hit Iran to weaken the regime and its regional sinews, make it impossible to have a viable Palestine state – Netanyahu’s ordered reoccupation of 70% of Gaza – and create a buffer zone with Lebanon. The problem: serious economic pain for the world through the Iranian closure of Hormuz.
+
+But Tel Aviv, backstopped by US, doesn’t seem to care. And when an Israeli PM seemingly appears to give short shrift to an American president on ending the war, the world suffers. The equation is simple: Iran wants an end to hostilities on all fronts, including Lebanon. Lebanon wants a stop to the war that has killed more than 3,400 of its residents. Palestinians, who have suffered tremendously, want their nightmare to end. Hamas and Hezbollah are hugely weakened and battered. Yet, Netanyahu pursues policies that seem to sync with Israeli radicals dreaming of ‘Greater Israel’.
+
+So, Trump – also looking for an exit – now has two problems: the Ayatollahs and Netanyahu. Tehran, with its Hormuz chokehold, is willing to wait for what it sees as a fair deal. That’s bad for Trump and the world. Netanyahu wants to continue the war – again bad for Trump and the world. Trump isn’t the first US president to be frustrated with Netanyahu. But Bibi is increasingly a stumbling block to peace and global stability. Perhaps it’s time for Trump to publicly call out his pal on this. He has the cards.
+
+Facebook Twitter Linkedin Email
+
+###### Disclaimer
+
+Views expressed above are the author's own.
+
+###### END OF ARTICLE
+
+---
+
+### South Delhi blaze: Owner’s two other properties under scanner for safety violations
+*Sakshi Chand · legal*
+
+Officials, meanwhile, said that the policemen, with the help of locals, broke the locks at the entries to the basement and the roof to make way for the people stuck in the building. They also arranged mattresses onto which people jumped in a desperate bid to escape, officials added.
+
+When the fire broke out at Flourish Stays B&B in South Delhi’s Malviya Nagar on Wednesday morning, the owner rushed to the area, but after seeing from the main road that the property was engulfed in flames, he left, police said.
+
+“The owner Lavkesh Bajaj’s house is located directly opposite the property where the fire broke out,” a police officer said. “He kept driving through the day before being apprehended on Wednesday night,” police said.
+
+Police investigation into the fire, which claimed 21 lives, revealed the owner also operated two other properties in the area which are now under scrutiny for alleged safety and regulatory violations, police sources said. Police officers said it appears that the fire, one of the deadliest in recent years, was caused by a short circuit.
+
+Officials said preliminary inspections of both establishments have allegedly uncovered multiple violations, including unauthorised construction, inadequate fire-safety arrangements and the presence of only a single entry-exit stairway. The properties are shut now.
+
+Sources said that these properties lacked several permissions required to operate as a hotel.
+
+During questioning, police said Bajaj, who was arrested on Wednesday night, claimed he had purchased the Flourish Stays property around three years ago from a man identified as Ahluwalia.
+
+Investigators said the building is approximately 40 years old, although substantial renovation work, including modifications to the façade and interiors, was carried out over the last two to three years.
+
+Story continues below this ad
+
+Police sources said the structure comprised a basement with four rooms and a kitchen, a ground floor housing the reception area, restaurant and two rooms, and four upper floors containing around five rooms each. There was also a kitchen running on the top floor.  
+Investigators are examining whether changes made during the renovation altered the original structure and compromised safety norms.
+
+According to police, the owner was arrested after allegedly attempting to evade authorities by frequently changing locations in Saket and switching vehicles before heading to the residence of a known acquaintance.
+
+The prima facie cause of the fire appears to be a short circuit, investigators said. While LPG cylinders were present inside the premises, officials found no evidence to suggest that any of them exploded during the incident.
+
+Police officials said there were some fire extinguishers present inside the hotel but were of no use or help.
+
+Story continues below this ad
+
+Police said they received information about the fire at 8.49 am, with callers reporting that several people were trapped inside the building. Teams reached the spot within minutes and launched rescue operations.
+
+Officials said police began evacuations within seven to eight minutes of their arrival, while local residents had already started rescuing occupants before the fire and police teams reached the site.
+
+Authorities are also examining alleged violations of food-safety regulations at the restaurant operating on the premises where the fire took place.
+
+Officials have since declared the fire-ravaged building dangerous. Portions of the interiors have become unstable following the blaze, with glass panels, tiles and other fittings reportedly coming loose.
+
+Story continues below this ad
+
+According to the FIR registered on the complaint of a police officer, the owner failed to ensure adequate safety measures at the building, resulting in a fire that caused multiple deaths.
+
+© The Indian Express Pvt Ltd
+
+Sakshi Chand is an Assistant Editor at The Indian Express, based in New Delhi. With over a decade of experience in investigative journalism, she is a leading voice on crime, the prison system, and institutional governance in the National Capital. Professional Background Specialization: Her reporting focus includes high-stakes crime, national security, prison reforms, and traffic governance. Key Coverage: She has been on the frontlines of major events such as the 2G spectrum case, the 2020 North-East Delhi riots, and communal clashes across Uttar Pradesh (Kasganj, Aligarh). Earlier Career: Before joining The Indian Express, she was a reporter for The Times of India. Personal Interests: Outside of her career in journalism, Sakshi is a National-level basketball player and coach, bringing a unique sporting discipline to her professional life. Major Recent Coverage (Late 2025) Her reporting in the latter half of 2025 has been dominated by a major terror investigation and administrative accountability: 1. The Red Fort Blast Investigation Throughout November and December 2025, Sakshi led the coverage of a car explosion near Delhi's Red Fort: Forensic Breakthroughs: She reported on the use of TATP and ammonium nitrate in the IED and identified the shops where raw materials were sourced (Nov 14-16, 2025). The "i20 Route": She meticulously tracked the journey of the vehicle used in the blast, tracing it to a Pulwama-based resident who entered Delhi via the Badarpur toll plaza (Nov 12, 2025). Victim Support: She recently reported on the Delhi Police providing a list of damaged vehicle owners to the Finance Ministry to expedite insurance claims for those caught in the blast (Dec 4, 2025). 2. Crime & Police Accountability "Crackdown on Extortion Gangs": In December 2025, she reported on a syndicate that was blackmailing traffic cops. Following five arrests, the Special CP directed officers to report all such attempts (Dec 12, 2025). "Corruption in the Ranks": She covered the arrest of five Delhi Police personnel by the Vigilance branch following a wave of public complaints (May 19, 2025). Cold Cases & International Murders: She has extensively tracked the case of a man who allegedly killed his wife in London and fled to India, reporting on his "Proclaimed Offender" status and the denial of his anticipatory bail (May 2025). 3. Governance & Public Policy "13,000 Homes for 90,000 Cops": A data-driven feature on why the majority of Delhi Police personnel are forced to live on rent despite the city's housing projects (May 4, 2025). Traffic Decongestion: Using her interest in urban logistics, she detailed how the Traffic Police eased congestion on Vikas Marg by switching off signals and creating U-turns (April 2, 2025). Signature Style Sakshi Chand is known for a data-driven and investigative approach. She frequently uses forensic reports, CCTV analysis, and administrative data to go beyond the "official version" of a crime story. Her work in prison reporting is particularly noted for highlighting the legal and humanitarian conditions of foreign detention centers and local jails. ... 
+
+**Stay updated with the latest - Click here to follow us on Instagram**
+
+-   Tags:
+-   Delhi fire
+
+---
+
+### Higher qualifications cannot be considered for lower-eligibility posts: Supreme Court
+*India Today Education Desk · general*
+
+The Supreme Court has ruled that a person who has higher educational qualifications cannot be selected for a job that is clearly meant for candidates with lower qualifications.
+
+The Court said that if someone hides their higher education to get such a job, it takes away the chance from other candidates who are truly eligible.
+
+### CASE OF A BANK ATTENDANT
+
+The case was about a temporary bank attendant in Syndicate Bank. The job was meant only for candidates who had studied up to Class 10.
+
+However, it was found that the person had not revealed that he was a graduate when applying for the job. The Court said this was wrong and affected the fairness of the selection process.
+
+### WHY RULES MATTER
+
+The Court explained that the government is expected to act as a fair employer. That is why certain jobs are kept for people with lower qualifications, so they get equal chances in public recruitment.
+
+If more qualified candidates apply for these posts, it can reduce opportunities for those the job was actually meant for.
+
+### LEGAL POSITION CLEAR
+
+The Court also referred to an earlier judgment and said that public jobs must always follow the rules written in the recruitment notice. Having a higher qualification does not give anyone a right to apply for a lower qualification post.
+
+### COURT DECISION
+
+The Supreme Court cancelled the order of the Madras High Court that had reinstated the employee. It supported the decision to remove him from service, saying the appointment itself was not valid.
+
+\- Ends
+
+Princy Shukla
+
+Jun 4, 2026 10:06 IST
+
+---
+
+### Buffalo named Donald Trump for his golden locks is a sensation at a Bangladesh zoo
+*SECTIONS Buffalo named Donald Trump · business*
+
+With his shock of golden hair and trim 700-kilogram (1,500-pound) build, Donald Trump has been drawing crowds from across Bangladesh since he arrived at the national zoo last week.
+
+The rare albino buffalo became a sensation when a farmer noticed that his blond tuft of hair resembled the distinctive locks of the U.S. president. After a video of the pale horned mammal went viral on social media, large numbers of people started showing up at the farm outside Dhaka to see him for themselves.
+
+The animal was originally meant to be slaughtered for the Muslim festival of sacrifice. But citing security concerns, the government ordered him transferred to the zoo in the capital, where large crowds are now braving sweltering heat to see him.
+
+  
+
+On Tuesday, visitors pressed against the fence of the buffalo's enclosure, filming with their phones as some fathers hoisted small children on their shoulders for a better view.
+
+A zoo worker pampered the animal, brushing his hair to one side and hosing him down with water to keep him cool as fans blew on him.
+
+"There is a resemblance to Donald Trump in its eyes, hairstyle, and skin color," said Mohammed Nasim, a student in Dhaka. "And just as Donald Trump has a distinctive personality and lifestyle, this buffalo, after going viral, is now living a similar kind of life, enjoying a lot of attention and special treatment."
+
+Local media reported that the exhibit initially included a sign that said "Donald Trump," which has since been removed. The zoo curator was fired Saturday, though no official cause was given for the dismissal.
+
+Some clearly found the naming in poor taste.
+
+"Giving a farm animal the name of one of the world's most influential leaders was certainly the wrong thing to do," said Dhaka resident Mohammad Joynal Adedin, who visited the zoo to see the buffalo anyway. "It seems disrespectful. I think the farmer who did this made a poor decision."
+
+The buffalo was sold ahead of Eid al-Adha, the "Feast of Sacrifice." When Home Minister Salahuddin Ahmed ordered police to take the animal into custody, the authorities refunded the buyer.
+
+"Since before Eid, I had been seeing posts on Facebook saying that 'Donald Trump' would be sacrificed. Later, I heard that instead of being sacrificed, it had been placed in a zoo," said Mohammad Habibur Rahman, a visitor to the zoo from the southwestern Bangladeshi city of Jashore.
+
+"So, I thought I would come to the zoo and see 'Donald Trump' for myself," he said.
+
+---
+
+### IIT Panel Says AI Tools Used To Breach CBSE Portals, Vendor Lacked Expertise To Secure System
+*Meemansa Shekhawat · general*
+
+The panel was deployed by the Centre to secure the portals of the Central Board of Secondary Education (CBSE) and the OSM portals after irregularities in the system surfaced
+
+[Read full article](https://www.news18.com/education-career/iit-panel-says-ai-tools-used-to-breach-cbse-portals-vendor-lacked-expertise-to-secure-system-ws-l-10129458.html)
+
+---
+
+### Exclusive | Licence in accountant’s name: How South Delhi hotel owner bypassed rules
+*Alok Singh · legal*
+
+Delhi Police arrests co-owner of Hotel Flourish Stays, Lovkesh Bajaj, in connection with the Malviya Nagar fire incident in which 21 people lost their lives, in New Delhi. (ANI Photo)
+
+After the arrest of the owner of Flourish Stays B&B in South Delhi where a fire killed 21 people on Wednesday, the Delhi Police are **looking into his accountant in whose name** the licence to operate the facility was allegedly obtained.
+
+During the investigation, police found that the building was purchased six years ago by Lavkesh Bajaj, a resident of Saket, from a person who had been running a garment business from the premises. At the time, the property was a three-storey building, sources said.
+
+After acquiring the property, Bajaj converted it into a Bed and Breakfast (B&B) establishment, seeing a high demand of foreign patients and medical tourists in this area.
+
+Under the Delhi government’s earlier scheme, a B&B facility is required to be owned by a private homeowner. To meet this criterion, police said **Bajaj allegedly obtained the licence** in the name of his accountant, Jay Mishra, who also manages Bajaj’s other properties.
+
+“While applying for the licence, Bajaj showed in the documents that the property belonged to Mishra and that he lived there,” a police source said.
+
+Given the steady stream of foreign patients visiting Max Hospital, located across the property, Bajaj allegedly decided to expand the building by adding more floors and rooms. The property eventually grew from six rooms to 26 rooms spread across six levels, including the ground floor and five additional floors.
+
+The B&B Scheme had allowed homeowners to register their residences as legal tourist accommodations. The scheme was introduced during the 2010 Commonwealth Games. Since then, many homeowners in areas like Karol Bagh and Paharganj have converted their residential properties into B&B establishments. Licences under the scheme are issued by the Delhi Tourism Department.
+
+Story continues below this ad
+
+The Indian Express has seen a list of Bed and Breakfast establishments in South Delhi, in which Flourish Stays is listed at number 88 among 133 registered facilities. The owner’s section mentions  Jay Mishra. It says it is a silver category property  with registration up to May 2, 2027.
+
+According to police sources, Bajaj allegedly misused the B&B scheme by illegally increasing the number of rooms from six to 26 and by obtaining the licence in another person’s name while projecting him as the property’s owner.
+
+Bajaj is expected to be produced before a court after noon on Thursday. Police will seek his custody to recover property-
+
+
+---
+
 ## 3 June 2026
 
 ### When a taxpayer dies, filing ITR remains a legal obligation | Mint
