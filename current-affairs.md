@@ -1,3 +1,894 @@
+## 5 June 2026
+
+### RBI MPC Meeting 2026: Sanjay Malhotra & Co hold rates steady at 5.25% as oil shock, weak rupee & West Asia war cloud outlook
+*Unknown · business*
+
+The Reserve Bank of India (RBI) on Friday unanimously voted to keep the benchmark repo rate unchanged at 5.25 per cent, with the Monetary Policy Committee (MPC) retaining its neutral stance as policymakers weighed mounting inflation risks from elevated crude oil prices, a weakening rupee, and concerns over a below-normal monsoon against the need to support economic growth.
+
+The six-member MPC, chaired by RBI Governor Sanjay Malhotra, also left the Standing Deposit Facility (SDF) rate unchanged at 5 per cent and the Marginal Standing Facility (MSF) rate and Bank Rate at 5.5 per cent. The committee decided to continue with the neutral policy stance, signalling flexibility to respond to evolving inflation and growth dynamics.
+
+Announcing the decision after the three-day policy meeting, Malhotra said the global environment had deteriorated since the RBI's last policy review in April, with the continuing geopolitical impasse in West Asia weighing on the economic outlook. "Faced with difficult trade-offs, monetary policy has turned more cautious," he said.
+
+  
+
+The governor said sharply elevated energy prices and global supply chain disruptions were hindering economic activity worldwide, while risk-off sentiment and safe-haven demand were imparting volatility to foreign exchange markets. Despite the turbulent global backdrop, he noted that the Indian economy had entered the current phase of uncertainty in a much stronger position than during previous external shocks.
+
+Ahead of the policy announcement, economists were largely expecting the MPC to remain on hold. Eleven of the 15 economists surveyed by _ET_ anticipated no change in the repo rate, with State Bank of India Chairman CS Setty saying a pause would help "stabilize in terms of ensuring that the smooth growth rates are achieved."
+
+A separate _Reuters_ poll conducted between May 22 and May 29 showed nearly 80 per cent of economists, or 44 of 56 respondents, expecting the MPC to leave the benchmark repo rate unchanged at 5.25 per cent.
+
+The RBI entered the June policy review facing a difficult balancing act. Retail inflation stood at 3.48 per cent in April, remaining below the central bank's medium-term target of 4 per cent. At the same time, wholesale inflation accelerated sharply to 8.3 per cent in April, global crude prices remained elevated, and the rupee weakened significantly amid foreign capital outflows and geopolitical tensions.
+
+While noting that CPI inflation had remained below target despite the global shock, Malhotra said the MPC saw "considerable risks" to its baseline assumptions on both growth and inflation. He said the pass-through of higher global prices to domestic inflation had so far been limited and underlying inflation pressures remained benign. However, baseline projections pointed to headline inflation firming up towards the upper tolerance level later this year.
+
+The central bank sharply revised its macroeconomic projections, lowering its FY27 real GDP growth forecast to 6.6 per cent from 6.9 per cent projected in April, while raising its consumer price inflation estimate for the fiscal year to 5.1 per cent from 4.6 per cent earlier. The revisions underscore the RBI's concerns over the impact of elevated crude oil prices, supply-chain disruptions and weather-
+
+The governor also cautioned that rising energy prices and supply constraints were beginning to leave a visible imprint on economic activity. "Overall, the economic situation has broadly exhibited resilience and withstood the conflict spillovers, although the impact of cost pressures is becoming visible," he said.
+
+## Indian economy resilient amid global turbulence
+
+Use these paras immediately after the introduction:
+
+Malhotra said India had entered the current phase of global uncertainty from a position of relative strength, helping the economy absorb the spillovers from the West Asia conflict better than in previous episodes of external stress.
+
+The MPC noted that while economic activity had remained resilient overall, there were emerging signs of moderation in some sectors as reflected in high-frequency indicators. Elevated energy prices coupled with supply constraints were increasingly weighing on economic activity, while rising input costs were beginning to affect businesses and consumers.
+
+Reflecting these concerns, the RBI trimmed its FY27 real GDP growth projection to 6.6 per cent from 6.9 per cent estimated earlier. Malhotra said elevated energy prices and supply constraints were already having adverse spillovers on economic activity, while some high-frequency indicators pointed to an incipient moderation in certain sectors.
+
+"Going ahead, the rise in prices of energy and other inputs coupled with supply disruptions is likely to weigh on economic activity," the governor said, adding that policymakers would continue to closely monitor evolving global and domestic developments.
+
+## Monsoon uncertainty clouds inflation outlook
+
+Apart from geopolitical risks, the RBI flagged weather-
+
+Malhotra said the food outlook remained uncertain due to forecasts of a sub-normal southwest monsoon and the risks associated with El Nino conditions. The MPC noted that these factors could have implications for food prices in the coming months, particularly if rainfall deficiencies affect agricultural output.
+
+While inflation has so far remained below target despite the global shock, the central bank warned that weather-
+
+## Finance ministry flags inflation risks
+
+Just days before the RBI's policy decision, the finance ministry warned that policymakers needed to remain vigilant as multiple factors threatened to reignite inflationary pressures.
+
+In its May economic review, the Department of Economic Affairs described the economy as "cautiously resilient" but cautioned that rising fuel prices, a depreciating rupee, increasing upstream cost pressures and the prospect of below-normal monsoon rainfall posed significant risks.
+
+"The confluence of elevated global energy prices, a depreciating rupee, rising upstream cost pressures and the prospect of a below-normal monsoon calls for sustained policy vigilance," the ministry said.
+
+The review also stressed that policymakers would need to remain "agile across monetary, fiscal, and structural dimensions" to navigate what it described as a period of "compounded uncertainty, external and climatic, while keeping medium-term growth objectives firmly in view."
+
+## West Asia war clouds inflation and growth outlook
+
+The conflict in West Asia has emerged as one of the biggest risks confronting the RBI and the broader economy.
+
+India imports nearly 90 per cent of its crude oil requirements, making it particularly vulnerable to sustained disruptions in global energy markets. Since the outbreak of the Iran conflict earlier this year, crude prices have remained significantly above pre-conflict levels, increasing pressure on inflation, the fiscal position and the current account balance.
+
+The finance ministry identified disruption to shipping through the Strait of Hormuz as the most critical variable for India's economic outlook.
+
+"The duration of the Strait of Hormuz disruption remains the 'single most consequential variable for India's external and price outlook'," the ministry said.
+
+Economists have warned that prolonged elevated oil prices could force a reassessment of the inflation outlook. While many believe supply-driven inflation does not warrant an immediate rate response, a sustained pass-through of fuel and transportation costs into broader consumer prices could eventually compel policy action.
+
+The RBI itself, in its latest annual report, acknowledged that a prolonged West Asia conflict could pose downside risks to growth while simultaneously creating upside risks for inflation through higher global fuel and commodity prices.
+
+The sharp weakening of the rupee added another layer of complexity to the RBI's policy calculus.
+
+The Indian currency touched record lows against the US dollar earlier this year and remains among Asia's weaker-performing currencies amid foreign fund outflows and higher oil import bills.
+
+Rupee has declined more than 5 per cent this year, prompting the RBI to spend billions of dollars intervening in the foreign exchange market to curb volatility.
+
+---
+
+### Why the BJP Can't Afford to Lose Annamalai
+*Sumanth C Raman · regional*
+
+For a party that claims to be the largest in the world and which dominates India like a colossus, the scenes that unfolded this week were most unusual. The sight of party president Nitin Nabin and Home Minister Amit Shah spending hours trying to pacify a man who is yet to win an election but was threatening to leave the party raised eyebrows across the political spectrum.
+
+Kuppuswamy Annamalai, the IPS-officer-turned-politician who was the state chief of the Bharatiya Janata Party (BJP) in Tamil Nadu for three years, was miffed with the BJP high command and wanted to quit and set up his own political party.
+
+In normal circumstances, the BJP would not have bothered. But with Tamil Nadu and Kerala being the last frontiers of sorts for the BJP—and with Annamalai having given them a brief glimpse of hope of a breakthrough in Tamil Nadu—the party was not keen to let him go.
+
+## A Growing Rift With the High Command
+
+Ever since he was replaced as the state party president in 2025, Annamalai has been in a sulk. His large army on social media have kept up demands for his reinstatement wailing that the BJP would be wiped out without him. Indeed, to some extent his disagreement with the party high command over the alliance with the All India Anna Dravida Munnetra Kazhagam (AIADMK) had been vindicated with the National Democratic Alliance (NDA) suffering a big defeat in the recent Assembly elections in Tamil Nadu. 
+
+> There has long been a view that the former police officer has been given a long rope by the BJP. Within two years of joining the party he was made state party chief, something almost unheard of in a party like the BJP. Soon, he came to be seen as a favourite of the Prime Minister.
+
+Before the 2024 Lok Sabha elections, he advocated going in alone and exited the alliance with the AIADMK. In the elections, both the NDA and the AIADMK were routed and Annamalai was blamed by many, especially as the BJP fell short of a majority and results showed that an alliance with the AIADMK may have yielded up to 15 seats. His term as state BJP chief ended—and he was replaced by Nainar Nagendran, a former AIADMK man seen as close to former Chief Minister and AIADMK General Secretary Edappadi Palanisamy. 
+
+## The Annamalai Phenomenon
+
+During his stint as Tamil Nadu’s party president, Annamalai was the centre of attraction across the political landscape of Tamil Nadu.
+
+With his strident attacks on the then ruling DMK, it was almost as if the BJP with just 4 MLAs in the Assembly was the real Opposition instead of the AIADMK that had 66 MLAs. Every move of Annamalai got huge traction on social media—and with a separate IT wing (distinct from the party IT wing) to exclusively promote him—Annamalai was on a charge.
+
+> The results of the 2024 Lok Sabha elections—though disastrous in terms of seats for the BJP—did yield a significant increase in vote share. The NDA alliance polled over 18 percent votes, and the BJP itself which contested 23 Lok Sabha Seats edged to over 11 percent. For a party that was derisively called a 3 percent party, this was an impressive jump.
+
+However, Annamalai was deeply unpopular with the leaders of the state unit of the party who saw him as an interloper. With a few exceptions, they ganged up against him, and he did little to reach out to them. During his tenure, the state BJP remained a divided house, with a passionate younger pro-Annamalai faction pitched against the party's old guard. When he was replaced as state president, it appeared that his political career had hit a speed breaker—but not for long.
+
+## Could Annamalai Go Solo?
+
+The electoral success of actor Vijay and his Tamilaga Vettri Kazhagam (TVK) must surely have inspired Annamalai to try to go solo. Whether he can attract a similarly large voter base remains uncertain.
+
+If he does strike out on his own, he could potentially draw a sizeable portion of the BJP's limited vote share, as well as a section of the AIADMK's support base. Whether that would be enough to emerge as a serious challenger remains to be seen.
+
+But we may be getting ahead of ourselves here. He is yet to quit the BJP, and there still remains a possibility that the party could work out a deal to retain him. In any case, very few leaders have managed to make Prime Minister Modi and Shah bend to their demands. If Annamalai succeeds, he may well script a rare chapter in BJP history.
+
+_(Sumanth C Raman is a television anchor and political analyst. He tweets @sumanthraman. This is an opinion piece and the views expressed are the author's own._ **The Quint** _neither endorses nor is responsible for them.)_
+
+### Read Latest News and Breaking News at The Quint, browse for more from opinion
+
+### Topics:  BJP   K Annamalai
+
+---
+
+### RBI MPC key takeaways: Here are the major announcements by Governor Sanjay Malhotra on GDP, inflation and repo rate
+*Unknown · business*
+
+The Reserve Bank of India today kept interest rates unchanged at 5.25% and maintained a neutral policy stance, signalling continuity, as it grapples with a sharply weaker rupee while trying to support economic growth.
+
+The MPC on Friday flagged a deteriorating global environment marked by geopolitical tensions, supply chain disruptions and heightened market volatility, even as it expressed confidence in India's ability to withstand these shocks.
+
+"We remain confident to withstand these shocks with minimum pain," Malhotra said, adding that it was important to not just confront these challenges but also use them as an opportunity to enhance India's resilience.
+
+The governor noted that the Indian economy had entered this episode of global turbulence in a much stronger position compared to previous such episodes.
+
+On the global outlook, Malhotra said the environment had "deteriorated" with the conflict in West Asia lingering amid a fragile truce, sharply escalating energy prices, and continued supply chain disruptions hindering economic activity. "The global economic outlook remains clouded," he said.
+
+Here is a quick look at the takeaways from the the last MPC:
+
+**Repo rate**  
+The RBI held its key repo rate steady at 5.25% in its first policy meeting since the outbreak of the Iran conflict. All six members of the Monetary Policy Committee, comprising three RBI officials and three external experts, voted unanimously to maintain the rate, while the MPC retained its "neutral" policy stance.
+
+**GDP outlook**  
+The Reserve Bank of India revised its FY27 real GDP growth forecast down to 6.6%, from an earlier projection of 6.9%, even as it warned that the Iran war, higher oil prices and geopolitical tensions could weigh on the outlook.
+
+The quarterly projections see growth at 6.8% in Q1, 6.7% in Q2, before picking up to 7% in Q3 and 7.2% in Q4. The revision assumes a normal monsoon and no major exogenous or policy shocks.
+
+**Inflation outlook**  
+Amid global uncertainties, the RBI has forecasted inflation at 5.1% for the fiscal year 2026-27, as against 4.6% forecasted in the April meeting. The central bank now expects GDP growth of 6.6% in the first quarter, 6.3% in the second quarter, 6.5% in the third quarter and 6.8% in the fourth quarter of FY27.
+
+**Forex**  
+India’s foreign exchange reserves rebounded to $697.1 billion as of April 3, RBI Governor said during, signaling a recovery after recent sharp declines caused by currency market interventions.
+
+---
+
+### RBI Policy June 2026 LIVE Streaming: Watch Governor Sanjay Malhotra's Speech Live Here
+*Mohammad Haris · business*
+
+The RBI Governor announces the policy decision at 10 am today, on the final day of the MPC meeting.
+
+[Read full article](https://www.news18.com/business/banking-finance/rbi-policy-june-2026-live-streaming-watch-governor-sanjay-malhotras-speech-live-here-10131712.html)
+
+---
+
+### Massive Fire Breaks Out on 12th Floor of Ivy County in Noida Sector 75
+*The Quint · regional*
+
+A fire broke out at the Ivy County apartment complex in Noida Sector 75 on 5 June 2026. The incident occurred on Friday, and initial reports confirmed that the blaze was contained within the premises. There were no immediate reports of casualties or injuries. Emergency services responded to the situation, and the fire was brought under control. The cause of the fire and the extent of property damage have not been officially detailed as of the latest updates.
+
+According to _The Indian Express_, the fire at Ivy County was reported by residents on social media, with calls for assistance circulating online. The incident follows a recent pattern of fire-
+
+Coverage revealed that Noida has experienced several fire incidents in residential buildings in recent months, often attributed to electrical faults such as short circuits. However, authorities have not confirmed the cause of the Ivy County fire at this stage.
+
+Fire department officials have previously advised residents to maintain electrical systems and ensure compliance with fire safety norms following recent incidents. In the case of Ivy County, emergency protocols were activated promptly, and evacuation procedures were followed as per standard guidelines.
+
+> "We received information from local residents around 3:15 am about a fire in a flat in Tower 7 of Lotus Boulevard in Sector 100," a fire officer stated in a separate incident, highlighting the importance of timely alerts and functional safety systems.
+
+Fire safety remains a significant concern in Noida, with authorities conducting inspections of firefighting systems and emergency exits in residential and commercial buildings. Analysis showed that similar vulnerabilities exist in other urban centres, underscoring the need for regular maintenance and adherence to safety protocols.
+
+In the aftermath of the Ivy County incident, residents and management have been urged to cooperate with fire officials during investigations and to review safety measures within the complex as details emerged.
+
+> "Fire department teams will assess compliance with fire safety norms, verify the availability of emergency equipment, and ensure that evacuation routes are clearly marked and unobstructed," officials stated regarding ongoing safety drives in Noida.
+
+While the Ivy County fire did not result in casualties, the incident has prompted renewed attention to fire preparedness in high-rise residential complexes. Reporting indicated that city authorities are expected to continue inspections and enforce compliance to mitigate future risks.
+
+**_Note: This article is produced using AI-assisted tools and is based on publicly available information. It has been reviewed by The Quint's editorial team before publishing._**
+
+### Read Latest News and Breaking News at The Quint, browse for more from news and breaking-news
+
+### Topics:  News   Breaking News
+
+---
+
+### Putin's Sukhoi Pitch: Why India Remains Reluctant As Russia Pushes For Su-57 Fighter Jet Deal
+*Pragati Ratti · general*
+
+India is simultaneously trying to modernise its air force, bridge a shrinking squadron strength, and push ahead with its own indigenous fifth-generation fighter programme.
+
+[Read full article](https://www.news18.com/explainers/putins-sukhoi-pitch-why-india-remains-reluctant-as-russia-pushes-for-su-57-fighter-jet-deal-ws-l-10131747.html)
+
+---
+
+### RBI MPC highlights: Top decisions announced by Governor Sanjay Malhotra & Co
+*SECTIONS RBI MPC highlights Top decisions announced by Governor Sanjay Malhotra · business*
+
+Reserve Bank Governor Sanjay Malhotra on Friday announced the Monetary Policy Committee's (MPC) decision, with repo rate remaining unchanged at 5.25%. The status quo reflects the RBI's cautious approach amid uncertainties arising from the ongoing West Asia conflict, which has heightened concerns over inflation and economic growth.
+
+At its previous policy review in April, the RBI had kept rates unchanged, choosing to closely monitor the evolving geopolitical situation and its potential impact on energy prices, inflation and economic activity.
+
+All six members of the rate panel, which includes three central bank officials and three external appointees, voted to hold rates. The MPC decided to continue with its "neutral" stance.
+
+  
+
+"The central bank's rate panel noted that the global environment has deteriorated," RBI Governor Sanjay Malhotra said.
+
+  
+
+## Key Policy Rates Unchanged  
+
+-   Repo rate: 5.25%
+-   Standing Deposit Facility (SDF): 5.00%
+-   Marginal Standing Facility (MSF) & Bank Rate: 5.50%
+-   Stance: Neutral
+
+  
+
+## MPC cuts GDP projections:
+
+The Reserve Bank of India on Friday trimmed its FY27 GDP growth forecast to 6.6% from 6.9%, citing heightened uncertainties stemming from the West Asia conflict, elevated crude oil prices, supply-chain disruptions and weather-
+
+The RBI now projects GDP growth at 6.6% in the first quarter of FY27, 6.3% in the second quarter, 6.5% in the third quarter and 6.8% in the fourth quarter.
+
+  
+
+## Inflation update
+
+Amid West Asia war, the RBI has forecasted inflation at 5.1% for the fiscal year 2026-27, as against 4.6% forecasted in the previous meeting.
+
+For the four quarters of FY27, the RBI MPC has projected inflation to be at 4.2% in the first quarter; Q2 at 5.1%; Q3 at 5.9% and Q4 at 5.9% with risks evenly balanced.
+
+---
+
+### ‘Mamata Is Our Supreme Leader, Not Adviser’: Internal Discord Hits TMC Rebel Camp Over Ritabrata’s Plan
+*Prisha Vibhavari · general*
+
+Rebel TMC MLAs back Ritabrata Banerjee but insist Mamata Banerjee remain supreme leader, reject plan to make her only chief adviser.
+
+[Read full article](https://www.news18.com/india/mamata-is-our-supreme-leader-not-adviser-internal-discord-hits-tmc-rebel-camp-over-ritabratas-plan-ws-l-10131742.html)
+
+---
+
+### Who Is Lavkesh Bajaj? The Man Behind Delhi's Malviya Nagar Fire | See Full List Of Properties He Owns
+*Sumedha Kirti · general*
+
+Lavkesh Bajaj, believed to be around 60 and a resident of Saket in South Delhi, maintained a deliberately low profile.
+
+[Read full article](https://www.news18.com/india/who-is-lavkesh-bajaj-man-behind-delhi-malviya-nagar-fire-his-businesses-list-10131710.html)
+
+---
+
+### US job growth likely slowed in May, labor market seen stable despite oil shock
+*Reuters · business*
+
+Washington: U.S. employment ​growth likely moderated in May after two straight months of strong gains, but the ​pace would probably remain consistent with stable labor market conditions.
+
+Economists expected the Labor Department's closely watched employment report on Friday to confirm that the ​Middle East conflict, which has stoked inflation through a surge in oil prices, was yet to have material impact on the jobs market.
+
+  
+
+Fiscal stimulus, in the form of tax and tariff refunds, has bolstered corporate profits and allowed businesses to refrain from large-scale layoffs, they said.
+
+Businesses have been cautious about boosting hiring as they deal with uncertainty, first from President Donald Trump's sweeping tariffs last year and now the U.S.-Israeli war with Iran. Low layoffs are anchoring the labor market, ‌keeping it in what economists have ⁠termed a "slow-hire, ⁠slow-fire" equilibrium, that gives the Federal Reserve room to keep interest rates unchanged while monitoring the inflation fallout from the war.
+
+"I'm a bit surprised that things have held up as long as they have, but there's a couple of things that are playing out, tariff ​and tax refunds, those two factors, at least so far, have been sufficient to offset the higher gasoline and fuel prices," said Brian Bethune, an economics professor at Boston College.
+
+"Tariff refunds, which are playing out ​probably to the tune of $150 to $200 billion, support corporate profits, so corporations are not really under severe pressure. The environment remains positive, although not terrific."
+
+Nonfarm payrolls likely increased by 85,000 jobs last month after rising 115,000 in April, a Reuters survey of economists predicted. Estimates for job growth ranged from 50,000 to 125,000. Payrolls surged by 185,000 in March. May's anticipated gain would be above the monthly average of 76,000 so far this year.
+
+Economists saw limited scope for large revisions to the prior payrolls counts after the Bureau of Labor Statistics, which compiles ⁠the employment ‌report, updated the "birth-death" model it uses to try to estimate how many jobs were gained or lost because of companies opening or closing in a given month.
+
+They ​estimated the economy needs to ​create between zero and 50,000 jobs per month to keep up with growth in the working-age population. The so-called break even rate has dropped because of an ⁠immigration crackdown that has reduced the labor force, limiting the rise in the unemployment rate.
+
+The unemployment rate was forecast ​unchanged at 4.3% for a third straight month, though some economists expected it could round up to 4.4%, which would not change ​the narrative of a stable labor market. The labor force has declined by about 500,000 since February, and a rebound was possible, which would lift the jobless rate.
+
+Financial markets expect the U.S. central bank to keep its benchmark overnight interest rate in the 3.50%-3.75% range into next year. The U.S. Supreme Court in February struck down the tariffs and some businesses have filed for refunds. Corporate profits increased by $40.4 billion in the first quarter and have been rising since the second quarter of 2025.
+
+## OIL SHOCK UNCERTAINTY
+
+The Middle East conflict, now in its fourth month, has boosted gasoline prices by more than 40%. Inflation increased at its fastest pace in three years in April, the government reported last week.
+
+Given the oil shock uncertainty, hiring is marginal, and historically low layoffs account for much of the growth in payrolls. The Fed's Beige ‌Book report on Wednesday noted that "hiring remained selective and primarily focused on critical roles or attrition replacement" in May.
+
+"The stability is going to persist, but we're not betting on a strong rebound," said Stephen Douglass, chief economist at NISA Investment Advisors. "The risk is tilted toward the unemployment rate creeping higher over the next 12 months ​or so, and that will ​be enough to get the Fed to deliver a ⁠few more cuts after the war is resolved conclusively." The anticipated moderation in employment growth last month would reflect the fading boost from favorable weather in April. A strike by 4,000 Harvard Graduate Students Union members was also expected to hold back job gains. Job losses in the transportation sector after the federal government restricted commercial driver licenses to non-U.S. citizens were likely, with economists' projections around 10,000 per ​month.
+
+A further decline in federal government employment is expected. The White House last year launched an unprecedented campaign to slash the federal workforce as it seeks to remake the government. But there has recently been a push in some agencies to rebuild staff levels.
+
+Economists were divided on how soon the bankruptcy of Spirit Airlines would show up in the payrolls data. The healthcare sector was expected to continue anchoring payrolls amid an aging population. Gains were expected in the leisure and hospitality industry, partly linked to early hiring for the soccer World Cup tournaments.
+
+Economists at JPMorgan noted the recent acceleration in job growth was concentrated among industries with the most non-citizens and believed it could be sustained.
+
+"Although immigration enforcement remains high, it is not in the headlines as much these days, and immigrants at risk of deportation could have become more focused on finding work given limited savings," they wrote in a note.
+
+---
+
+### PwC review flags accounting irregularities in IndusInd Bank treasury operations
+*India Today Business Desk · general*
+
+Fresh questions have emerged around IndusInd Bank's treasury operations after a confidential review by consulting firm PwC found accounting lapses that led to an overstatement of the bank's profits and assets, reported The Economic Times (ET).
+
+According to a report, manual accounting entries were used to offset trading losses in the bank's treasury operations. The exercise allegedly created a receivable pool of more than Rs 2,200 crore and resulted in profits and assets being overstated by Rs 1,817.58 crore.
+
+The findings relate to transactions carried out between April 1, 2023 and June 30, 2024.
+
+The 71-page report was commissioned by IndusInd Bank to examine the accounting treatment of derivative trades undertaken by its treasury desk. PwC was hired in October 2024 and submitted its findings in April 2025, according to the report.
+
+### WHAT PwC FOUND
+
+At the heart of the review was the relationship between two important treasury functions within the bank.
+
+The Asset Liability Management (ALM) Desk is responsible for managing balance sheet risks, while the Trading Desk executes transactions in financial markets.
+
+According to the PwC review, there was no direct linkage between the two functions when it came to certain transactions and hedging activities.
+
+The report reportedly found that the treasury back office posted manual accounting entries to offset losses generated by the trading desk.
+
+As of March 31, 2024, these manual adjustments had created a receivable from the ALM Desk amounting to Rs 2,201.76 crore.
+
+After adjusting for Rs 384.18 crore of swap-cost amortisation recorded by the ALM Desk, PwC concluded that the accounting treatment led to an overstatement of profits and assets worth Rs 1,817.58 crore.
+
+"The bank cannot clearly establish whether the on-balance sheet assets and liabilities of the bank, although covered by ALM at an intra-bank level, are hedged externally at bank level," the report said, according to The Economic Times.
+
+PwC also reportedly noted that in the absence of a direct link between internal transactions and external hedging deals, it was difficult to establish whether exposures taken by the ALM Desk were properly hedged.
+
+### MORE ACCOUNTING ISSUES FLAGGED
+
+The review reportedly identified additional issues beyond the manual adjustments.
+
+According to report, PwC found that forward contracts entered into by the ALM Desk with external counterparties were not marked to market at reporting dates. Instead, gains and losses were recognised only when the contracts were settled.
+
+As a result, unrealised losses of Rs 121.46 crore as of March 2024 and Rs 161.43 crore as of June 2024 were not recognised during the relevant reporting periods.
+
+The report also flagged accounting errors 
+
+These resulted in alleged misstatements of Rs 31.88 crore and Rs 15.93 crore, respectively.
+
+### REVIEW COVERED OVER ONE MILLION TRADES
+
+PwC's review was extensive.
+
+The consulting firm examined more than one million trades across seven different product categories. The exercise included scrutiny of 331,387 internal transactions.
+
+The review also looked at the interaction between treasury platform Calypso and core banking platform Finacle, including system configuration, monitoring and reconciliation processes.
+
+### CONCERNS OVER MANUAL ENTRIES
+
+One of the key concerns raised in the report relates to manual accounting adjustments.
+
+PwC reportedly warned that stronger controls and governance mechanisms were needed around manual entries and out-of-system adjustments.
+
+The report said weaknesses in maker-checker reviews and a lack of adequate controls over manual entries could result in inaccurate accounting records.
+
+According to the report, there were not enough checks in place to prevent errors or potential misuse when manual changes were made in the system.
+
+Neither IndusInd Bank nor PwC immediately responded to queries regarding the report.
+
+The joint statutory auditors of IndusInd Bank during the period under review were MSKA & Associates and MP Chitale & Co.
+
+The report adds another layer to the scrutiny around accounting and treasury operations at private sector banks, highlighting the importance of strong internal controls, transparent accounting practices and effective oversight of complex treasury transactions.
+
+\- Ends
+
+Jun 5, 2026 09:47 IST
+
+---
+
+### Google quietly cuts more jobs as AI spending rises across big tech
+*Om Gupta · general*
+
+## Google has reportedly cut jobs across its Cloud division, including key cyber teams. The move adds to tech sector layoffs as companies weigh AI spending against headcount.
+
+Google Cloud teams reportedly affected by fresh job cuts.
+
+There seems to be no end to layoffs in the tech industry. Every time a company announces job cuts, it often cites restructuring efforts aimed at improving efficiency. The assumption is that after a round of layoffs, operations will become leaner and further cuts may not be necessary. Yet, the same companies often return months later with another round of layoffs. Now, just weeks after Meta began laying off thousands of employees, Google has reportedly made fresh cuts within its Cloud division.
+
+According to a report by Business Insider, employees working at Google Cloud have been affected by layoffs over the last two weeks. The report, citing people familiar with the matter, said one of the impacted teams was Google's Threat Intelligence Group, one of the company's top security units that regularly publishes research on hackers and cyber threats.
+
+Some employees have also posted about the layoffs on LinkedIn.
+
+The cuts were reportedly not limited to that unit. Other teams at Mandiant, the cybersecurity company which was acquired by Google in 2022, and additional groups within Google Cloud were also affected, according to the report.
+
+### Why is Google cutting jobs?
+
+At the moment, it remains unclear exactly how many employees were impacted or why the cuts are happening now. However, in at least one instance, Google reportedly cited the need to reinvest resources into growth areas such as artificial intelligence.
+
+"We regularly evaluate our internal structures to ensure we are best positioned to meet the evolving demands of our customers and the industry," a Google spokesperson told Business Insider.
+
+While the company has not publicly linked these layoffs directly to AI, the timing comes as major technology companies continue pouring billions of dollars into artificial intelligence infrastructure, products, and research.
+
+## Google joins a growing list of tech companies cutting jobs
+
+Google is the latest company to reduce headcount in recent months.
+
+On May 20, around 8,000 Meta employees reportedly received an email at 4 a.m. informing them that their services were no longer required. The layoffs accounted for roughly 10 per cent of the company's global workforce.
+
+Microsoft has also been reducing costs through multiple rounds of job cuts. As of June 2025, the company had around 228,000 employees worldwide, including 125,000 in the United States. Most recently, the company cut 9,000 jobs. Earlier this year, Microsoft also offered voluntary retirement buyouts to up to 7 per cent of its workforce, marking the first time it has implemented a programme of that scale.
+
+Other companies have been more direct about the role of AI. Firms such as Coinbase and Block have previously pointed to artificial intelligence while announcing significant workforce reductions.
+
+Even cybersecurity companies have not been spared. Cloudflare laid off more than 1,100 employees last month as it prepared for what it described as the "agentic AI era."
+
+### Is AI really replacing workers?
+
+As layoffs continue across the industry, a growing number of voices are questioning whether artificial intelligence is truly replacing workers at the scale some companies suggest.
+
+Critics argue that AI is increasingly being used as an explanation for workforce reductions, even when companies may already be looking to cut costs or reorganise operations.
+
+That debate recently gained attention when OpenAI CEO Sam Altman suggested that some companies may be using AI as a justification for layoffs that would have happened anyway.
+
+\- Ends
+
+Jun 5, 2026 09:46 IST
+
+---
+
+### OnePlus 15, Nord 6, Pad 4 Receive Discounts During Community Sale 2026
+*Shaurya Tomer · technology, mobile*
+
+OnePlus is offering up to six months of no-cost EMI on select credit card transactions across eligible models.
+
+[Read full article](https://www.gadgets360.com/mobiles/news/oneplus-community-sale-price-offers-oneplus-15-nord-6-pad-4-11593912)
+
+---
+
+### Punjab’s border bloodshed: Guns, grenades and a trail police can’t crack
+*Kamaldeep Singh Brar · legal*
+
+Giving details of the incident, Soni said he was sitting at his petrol pump around 10.30 pm when two men arrived on a motorcycle with their faces covered and suddenly opened fire.
+
+It was not an isolated incident.
+
+A wave of targeted killings, weapon snatching, extortion-linked attacks and a hospital bombing has exposed the deep roots of organised crime and cross-border smuggling networks in Amritsar, Gurdaspur and Ferozpur, even as police struggle to break the chain.
+
+In barely ten days, Punjab’s border districts have witnessed a chilling sequence of violence: a police officer shot dead on his morning commute, a Home Guard jawan attacked and disarmed at a strategic headworks, a grenade detonated inside a hospital emergency ward, and two men — a grocer and a schoolteacher — murdered in separate incidents in broad daylight.
+
+On the night of June 4, the firing at Soni’s petrol pump became the latest addition to the growing list of violent incidents that have rattled the border belt.
+
+## A policeman’s last ride
+
+On the morning of May 24, Assistant Sub-Inspector Joga Singh, 54, was riding his scooter towards Amritsar when two motorcycle-borne assailants intercepted him on the Fatehgarh Churian-Majitha road, barely a kilometre before Majitha town. They shot him dead and vanished.
+
+A traffic department officer with decades of service, Singh was a resident of Ghaniye village in Gurdaspur district.
+
+Story continues below this ad
+
+SP (D) Aditya Warrier said arrests were “a day or two away”.
+
+## The rifle that vanished
+
+Four days later, in the dead of night on May 28, Home Guard jawan Sukhwinder Singh was on sentry duty at the Harike Headworks bridge in Ferozpur district when unknown assailants armed with sharp-edged weapons attacked him. They inflicted serious injuries, overpowered him and fled with his SLR rifle, magazine and ammunition.
+
+Singh was rushed to Government Medical College, Faridkot.
+
+SP (D) Ferozpur Manjit Singh said, “We have been investigating the case and the accused will be arrested soon.”
+
+## A grenade in a hospital ward
+
+On June 2, a blast ripped through the emergency ward of a private hospital near the bus stand in Kalanour town of Gurdaspur district. The hospital owner had reportedly received ransom calls, though police have not yet established the motive behind the attack.
+
+Story continues below this ad
+
+Within six hours, police apprehended Dharminder alias Tindi of Tarn Taran, who allegedly executed the blast.
+
+But his arrest only deepened the central question: where did he get a live grenade?
+
+SSP Gurdaspur Aditya said, “Of course, someone here must have been involved. There is definitely local involvement. People received them and handled them. But we haven’t identified everyone yet.”
+
+## The modular crime network
+
+The same district is still awaiting answers in another high-profile case. Police have yet to arrest those who supplied the weapon used in the killing of two police personnel at a border check-post in Adhian village in February.
+
+Story continues below this ad
+
+Explaining the challenge, the SSP said: “The modular chain makes it harder. People work through separate modules, so the first, second, third and fourth persons often have no direct connection with each other. Often, a packet is handed to someone who carries it for money. He hides it somewhere and doesn’t know who will pick it up. Those who pick it up don’t know who kept it there.”
+
+The supply chain for weapons and grenades in Punjab’s border belt appears to have been engineered specifically to frustrate investigation.
+
+## Two murders, one afternoon
+
+On June 1, two unidentified motorcycle-borne gunmen rode up to Gaba Kirana Store in Makkhu town of Ferozpur district and opened fire on its owner, Gurcharan Singh, killing him on the spot before disappearing into the afternoon traffic.
+
+SP (D) Manjit Singh said the investigation was underway and arrests would be made soon.
+
+Story continues below this ad
+
+Hours later, in Amritsar, government school teacher Jagdeep Singh had just dropped his daughter at a tuition centre and was riding home. Near the Naraingarh drain, a group of assailants surrounded him on a deserted stretch of road and attacked him with sharp-edged weapons, slitting his throat.
+
+He died where he fell, his body later found face down on the roadside.
+
+DSP Jandiala Baljit Singh said raids were underway.
+
+No arrests have been made in either case.
+
+## Questions that refuse to go away
+
+The spate of attacks has raised troubling questions about the reach of organised crime networks operating across Punjab’s border districts and the ease with which weapons continue to circulate despite repeated police crackdowns. Investigators acknowledge that smuggling and criminal syndicates increasingly operate through compartmentalised modules, making it difficult to trace the chain from handlers and suppliers to executors on the ground.
+
+Congress MP from Gurdaspur Sukhjinder Singh Randhawa alleged, “I have told the DGP several times that two DSPs in our district are directly involved with gangsters. So far, no action has been taken. They can even take action against me and say I am making false allegations. I will provide the evidence. I have conference calls
+
+---
+
+### RBI MPC Meeting at a Glance: Your one-stop guide for all key decisions
+*SECTIONS RBI MPC Meeting · business*
+
+Reserve Bank Governor Sanjay Malhotra on Friday announced the Monetary Policy Committee's (MPC) decision on Friday, with the committee keeping the key policy rate unchanged at 5.25%. The pause reflects a cautious stance amid the ongoing West Asia conflict, which poses risks to both inflation and economic growth. The six-member MPC began its three-day policy meeting on Wednesday.
+
+In April, the Reserve Bank left the benchmark policy rate unchanged, opting for a cautious wait-and-watch approach as it evaluated the impact of the West Asia conflict on energy markets, inflationary pressures and economic growth.
+
+  
+
+## Repo Rate decisions:  
+
+  
+
+-   Repo rate unchanged at 5.25%  
+    
+-   Standing Deposit Facility (SDF) rate retained at 5%  
+    
+-   Marginal Standing Facility (MSF) rate and Bank Rate held at 5.5%
+
+---
+
+### ITR filing AY 2026-27: Which ITR form should you file to avoid tax notices? | Mint
+*Sheetal Goel · economy*
+
+## Filing an Income Tax Return starts with selecting the right ITR form based on your annual income, sources of income and taxpayer category. There are seven ITR forms, and selecting the right one is essential to avoid errors and remain compliant with tax regulations.
+
+Which ITR form is right for you? (AI-Generated Image)
+
+Filing an Income Tax Return starts with selecting the right ITR form based on your annual income, sources of income and taxpayer category. There are seven ITR forms, and selecting the right one is essential to avoid errors and remain compliant with tax regulations.
+
+Let's look at the seven ITR forms and find the one that's right for you.
+
+## 7 Types of ITR Forms
+
+The applicable ITR form depends on the taxpayer's income sources and tax category.
+
+**ITR-1 (Sahaj):** Resident individuals with income up to ₹50 lakh from salary, one house property, pension, or other specified sources.
+
+**ITR-2:** Individuals and HUFs with capital gains, multiple house properties, foreign assets/income, or total income above ₹50 lakh, but no business income.
+
+**ITR-3:** Individuals and HUFs earning income from a business or profession, including partners in partnership firms.
+
+**ITR-4 (Sugam):** Resident individuals, HUFs and firms (other than LLPs) opting for the presumptive taxation scheme with income up to ₹50 lakh.
+
+**ITR-5:** Partnership firms, LLPs, AOPs, BOIs and other similar entities.
+
+**ITR-6:** Companies, except those claiming exemption for charitable or religious purposes under Section 11.
+
+**ITR-7:** Charitable and religious trusts, political parties, educational institutions, hospitals and other entities claiming exemptions under specific provisions of the Income Tax Act.
+
+## ITR-1 to ITR-7: Who can file and who cannot?
+
+The eligibility requirements for different ITR forms are explained below.
+
+### ITR-1 (Sahaj)
+
+## Who can file ITR-1?
+
+-   Resident individuals with total income up to ₹50 lakh during the financial year
+-   Income from salary or pension
+-   Income from one house property
+-   Agricultural income up to ₹5,000
+-   Long-term capital gains under Section 112A up to ₹1.25 lakh
+-   Income from other sources, such as savings account interest, fixed deposit interest, and family pension
+-   Clubbed income of spouse or minor child, subject to prescribed conditions
+
+## Who cannot file ITR-1?
+
+-   RNORs and NRIs
+-   Individuals with total income exceeding ₹50 lakh
+-   Individuals with agricultural income above ₹5,000
+-   Individuals with taxable capital gains or LTCG under Section 112A exceeding ₹1.25 lakh
+-   Individuals with income from a business or profession
+-   Individuals owning more than one house property
+-   Directors in a company or investors in unlisted equity shares
+-   Individuals with income from lotteries, racehorses, or gambling activities
+-   Individuals covered under Section 194N or with deferred tax on ESOPs from eligible start-ups
+
+### ITR-2
+
+## Who can file ITR-2?
+
+-   Individuals and HUFs with income from salary, pension, house property, capital gains, or other sources, but no income from business or profession
+-   Individuals with total income exceeding ₹50 lakh, more than one house property or foreign assets/income
+-   NRIs, RNORs and individuals with clubbed income of a spouse or minor child
+-   Partners in a partnership firm who do not earn business income directly but receive interest, salary, bonus, commission or remuneration from the firm
+-   Individuals whose income includes clubbed income of a spouse, minor child, or any other person, provided such income falls under the eligible categories for ITR-2
+
+## Who cannot file ITR-2?
+
+-   Individuals or HUFs with income from a business or profession
+-   Taxpayers earning profits and gains from business or professional activities
+-   Partners in a partnership firm who have business income and receive interest, salary, bonus, commission, remuneration or any similar payment from the firm
+
+### **ITR-3**
+
+## Who can file ITR-3?
+
+-   Individuals and HUFs having income from business or profession, including those opting for the presumptive taxation scheme.
+-   Partners in a partnership firm earning income, such as salary, commission, bonus or remuneration from the firm
+-   Individuals who have invested in unlisted equity shares during the financial year
+-   Taxpayers who also earn income from salary, pension, house property, capital gains or other sources, along with business or professional income
+
+## Who cannot file ITR-3?
+
+-   Companies, charitable trusts, partnership firms, LLPs, AOPs and BOIs cannot file ITR-3
+-   Individuals and HUFs eligible to file ITR-1, ITR-2 or ITR-4 should not use ITR-3
+
+### ITR-4 (Sugam)
+
+## Who can file ITR-4?
+
+-   Resident individuals, HUFs, and firms (other than LLPs) with total income up to ₹50 lakh
+-   Taxpayers opting for the presumptive taxation scheme under Sections 44AD, 44ADA or 44AE
+-   Individuals earning income from salary or pension, up to two house properties, and agricultural income up to ₹5,000
+-   Taxpayers with long-term capital gains under Section 112A up to ₹1.25 lakh
+-   Individuals earning interest income, family pension, or other income from permitted sources
+
+## Who cannot file ITR-4?
+
+-   RNORs and NRIs
+-   Individuals with short-term capital gains or long-term capital gains under Section 112A exceeding ₹1.25 lakh
+-   Individuals with agricultural income above ₹5,000 or income from more than two house properties
+-   Directors in a company or investors holding unlisted equity shares
+-   Individuals with income from lotteries, racehorses, or income taxable at special rates
+-   Individuals with deferred tax on ESOPs received from eligible start-ups
+
+### ITR-5
+
+ITR-5 is meant for entities such as partnership firms, LLPs, Associations of Persons (AOPs), Bodies of Individuals (BOIs), and other similar organizations. It cannot be used by taxpayers who are required to file ITR-7.
+
+### ITR-6
+
+ITR-6 is applicable to companies that are required to file income tax returns in India. However, companies claiming exemption under Section 11 for income from property held for charitable or religious purposes cannot file ITR-6 and must use ITR-7 instead.
+
+### ITR-7
+
+ITR-7 is meant for charitable and religious trusts, political parties, educational institutions, hospitals, research associations, business trusts, investment funds, and other specified entities that are required to file returns under Sections 139(4A) to 139(4F) of the Income Tax Act.
+
+_Disclaimer: This is only for informational and educational purposes. Please consult a qualified tax expert for the latest tax laws and regulations._
+
+### About the Author
+
+Sheetal Goel
+
+Sheetal Goel is a Content Producer at Livemint, where she covers corporate developments, personal finance, business trends, markets, and SEBI-
+
+---
+
+### This AI startup will give you up to $10 million if its AI tool fails to be productive
+*Armaan Agarwal · general*
+
+## As companies rethink the use of AI tools due to rising costs, one AI startup, Cognition, has come out with "AI Productivity Guarantee." Cognition claims that if its AI agent, Devin, fails to deliver you value, the startup will make it up to you by giving up to $10 million (roughly Rs 95.7 crore).
+
+AI startup Cognition will give you up to $10 million in credits if its AI tool doesn't deliver the value you paid for. (Representational image made with AI)
+
+If you have browsed through the news about AI lately, you may notice a new issue. Companies are getting cautious when it comes to how much AI they use, largely due to rising costs. That is, some companies are worried that it may not be worth spending millions of dollars on AI, and are starting to put caps on how much AI their employees use – such as Uber and Walmart. To address this concern, the AI startup Cognition has come with a new idea – AI Productivity Guarantee. The startup claims that if its AI agent Devin does not deliver you value, you will receive up to $10 million (roughly Rs 95.7 crore).
+
+Cognition announced this new guarantee on X, stating that “AI should earn its keep.” The company added, “If Devin delivers less engineering value than you’re paying for, Cognition will fund your usage until it does, up to $10 million.”
+
+Devin is Cognition’s agentic AI that is aimed at being your virtual software engineer. You can delegate tasks to Devin, which then completes everything from start to finish in the background.
+
+The startup claimed that now AI companies should no longer focus on tokenmaxxing, but deliver value. The post read, “It’s time for the AI industry to stop maximising tokens and start maximising productive output.”
+
+Do note that companies like Amazon have started to crack down on how employees use AI tools after reports emerged that some were using AI for any task just to show higher token usage.
+
+### But how does this work?
+
+On the surface, this may sound like a good idea. For companies who are starting to worry about high costs it can be positive to hear that they can get back millions if the AI tool fails to be productive. But measuring if the AI is productive may not be easy. And to do this, Cognition claims to have come up with a new system. This system does not focus on tokens, and instead measures productivity in hours.
+
+In a blog post by Cognition CEO Scott Wu wrote that the company had built an AI estimator to measure the productive engineering output Devin provides to enterprise customers.
+
+The system reviews each completed Devin session and asks two questions – would a human engineer have actually found this useful? And if yes, how long would that engineer have taken to do the same thing themselves? Cognition said it measures output in hours rather than lines of code because a small code change can still take hours of investigation, while some useful tasks may produce no code at all.
+
+The company said the guarantee works by converting estimated engineering hours into a dollar value using a standard global rate. This is then compared with a customer's actual consumption near the end of an annual contract.
+
+If the value falls short – that is, a customer has paid more than what this system shows the AI has done – Cognition will give up to $10 million to compensate for the gap in value provided. But this $10 million will be issued in credits, and not in cash. The credits can then be used by the customer in the future.
+
+Though keep in mind that Cognition is evaluating the productivity from its own AI tools in this system, and then deciding the value.
+
+### How did Cognition come up with this?
+
+Cognition states that it validated the system using human time estimates collected from enterprise users, covering 258 sessions from 126 users across a range of deployments.
+
+The company added that individual estimates can be noisy, with errors of two to three times in either direction. However, these errors are expected to average out across many sessions.
+
+This AI productivity programme is meant for Cognition’s entreprise customers that are deploying Devin Cloud at “meaningful scale” and meeting technical and engagement requirements, while existing customers can also enrol if they qualify.
+
+Cognition also said the estimator is not a measure of full return on investment. It described the system as a baseline for productive output, saying ROI depends on broader business context and that hours saved do not by themselves capture business value or quality. The company said it plans to keep refining the system and publishing what it learns.
+
+The announcement comes as investors and companies scrutinise AI costs more closely. Reports in recent weeks have said Microsoft has asked engineers to move away from Claude Code to an internal AI tool by June 30, while Uber executives have said the company exhausted its annual AI budget in five months.
+
+OpenAI CEO Sam Altman recently stated that high usage costs for AI tools had become a “huge issue” for companies.
+
+\- Ends
+
+Armaan Agarwal
+
+Jun 5, 2026 09:43 IST
+
+---
+
+### What happens when AI starts building AI? Anthropic explains
+*Tech Desk · legal*
+
+Artificial intelligence (AI) is developing at an unprecedented pace. This rapid progress could eventually lead to a future where human involvement in AI development becomes increasingly limited. That is the warning from AI frontier lab Anthropic in its latest blog post, _“When AI Builds Itself: Our Progress Toward Recursive Self-Improvement and Its Implications.”_
+
+“Taken far enough, and given enough compute, that trend points to an AI system capable of fully autonomously designing and developing its own successor. This is called recursive self-improvement. We are not there yet, and recursive self-improvement is not inevitable. But it could come sooner than most institutions are prepared for,” the blog post said.
+
+## What is recursive self-improvement?
+
+In simple words, recursive self-improvement (RSI) means an AI system capable of fully autonomously designing and developing its own successor. Anthropic claims that its research indicates that this phenomenon might happen far sooner than anticipated. The company, further, warned that AI is not only changing how people work, but it is also beginning to change how AI itself gets built.
+
+The AI startup claims that its data revealed that frontier models are now demonstrating advanced coding, debugging, and research abilities. This may likely end up creating a feedback loop where AI systems may create even more sophisticated versions of themselves.
+
+“AI that can build itself would be a major development in the history of technology—one that could bring enormous good for the world in science, healthcare, and beyond. But full recursive self-improvement also might increase the risks of humans losing control over AI systems,” the AI startup wrote in its blog.
+
+In a recent interview with _Axios_, Anthropic co-founder Jack Clark said that the big story is that AI progress is going to speed up in coming years rather than stay the same or diminish. The executive said that it is especially promising for progress in science and medicine. However, it requires planning for its impact on AI itself and how it aligns with existing work in those industries.
+
+## Why is this different from usual technological progress?
+
+A look back in history reveals that human progress largely limited most technological advancements. Earlier, engineers needed time to research, test, and install new systems. However, with recursive self-improvement, this equation seems to be changing. Simply put, if an AI system can improve itself much faster than humans can, the pace of progress could accelerate dramatically. This possibility is often referred to as an ‘intelligence explosion’ by researchers. Under this scenario, improvements may happen in days or weeks instead of years.
+
+Story continues below this ad
+
+While Anthropic’s concern is not that this has already happened, rather, based on the blog, it believes the conditions that could allow it are gradually surfacing as AI systems become better at coding, research, and problem-solving.
+
+## Is AI already improving itself?
+
+While this is the biggest question, the answer is plain – not fully. At present, AI systems are not capable of autonomously redesigning their entire architecture and creating successors that are vastly superior to them without human intervention. However, researchers seem to spot early signs of self-improvement, such as the ability to generate and debug software code, suggest improvements to algorithms, assist researchers in conducting experiments, evaluate and refine their own outputs, etc.
+
+Meanwhile, some academic studies have also indicated that AI systems can improve problem-solving performance via iterative self-review and self-correction. While these are not instances of full recursive self-improvement, they are steps in that direction.
+
+## Why does Anthropic see risks?
+
+When it comes to Anthropic’s concerns, the biggest issue is control. If AI systems become capable of rapidly improving themselves, humans may struggle to understand exactly how those improvements are occurring. Such systems could become increasingly complex and difficult to monitor.
+
+Story continues below this ad
+
+According to the blog post, Anthropic worries that a highly capable self-improving AI could develop unexpected behaviours, exploit weaknesses in safety measures, or pursue goals that contradict human intentions. Though the system may not be malicious, its actions could still result in unintended consequences. The company also cautions that while future AI systems could help solve some of today’s safety challenges, they could also amplify existing problems if alignment issues become harder to detect and correct over time.
+
+“If systems are capable of fully building their own successors, the ways we secure them, monitor them, and shape their behaviour all grow much more important.”
+
+Another challenge is speed. If progress accelerates dramatically, governments, regulators and society may not have enough time to adapt.
+
+Story continues below this ad
+
+Perhaps this is why Anthropic argues that AI companies should work towards coordinated slowdowns or pauses in development if warning signs appear. The company has proposed international cooperation and verification mechanisms similar to those used in arms-control agreements.
+
+## Does this mean a Terminator scenario is coming?
+
+For all the alarms that could go off, it does not necessarily mean we are moving towards a ‘Terminator’ scenario. Experts believe that technical barriers persist before fully autonomous recursive self-improvement becomes possible. Advanced AI systems are built using enormous amounts of computing power, specialised hardware, vast datasets, and extensive testing.
+
+According to experts, these practical limitations may slow progress considerably. At the same time, the idea is no longer pure science fiction, as there are researchers across the AI industry who are actively studying if self-improving systems could emerge within the next decade and how they should be governed if at all they do.
+
+While today’s AI systems are not yet fully self-improving, many researchers believe the building blocks are already appearing. Anthropic’s message is not that an intelligence explosion is inevitable; rather, it argues that society should prepare now for a future in which AI contributes increasingly to its own development. And, if that future arrives, the challenge will be to ensure that AI remains aligned with human goals and under meaningful human oversight.
+
+---
+
+### ‘Leaving my fate in hands of Constitution’: Cockroach Janta Party founder Abhijeet Dipke leaves for India
+*Jatin Anand · legal*
+
+Cockroach Janta Party founder Abhijeet Dipke (left) has planned a protest to demand the resignation of Education Minister Dharmendra Pradhan (right). (Credit: ANI/screengrab)
+
+Cockroach Janta Party founder Abhijeet Dipke on Friday said he was en route to India a day before the ‘youth pressure group’ he founded called for a peaceful sit-in protest at Delhi’s Jantar Mantar.
+
+Dipke, who is in Boston, is scheduled to land in the national capital around 8 am on Saturday, following which he and prominent activists, including Sonam Wangchuk, intend to go to the Parliament Street police station to seek the requisite permissions required for the protest.
+
+“On my way to India…Leaving my fate in the hands of the Constitution. #JaiBhim,” Dipke said in a post on X.
+
+Addressing its maiden press conference at the Constitution Club, a stone’s throw from Parliament on Wednesday, the group’s chief spokesperson Saurav Das said protesters “of all political shades” were welcome to join their protest on Saturday.
+
+Led by Dipke, who was formerly associated with the Aam Aadmi Party (AAP) for a short while before going to the United States to pursue a public relations course, has proposed a sit-in protest to demand the resignation of Education Minister Dharmendra Pradhan this Saturday.
+
+“Abhijeet Dipke ji will land at the Delhi airport at 8 am on June 6. He has called upon his supporters to come to the airport and receive him. All those who will be there, including Wangchuk ji, will go to the Parliament Street police station and will ask the police for permission to protest at Jantar Mantar,” Das said.
+
+“Jantar Mantar is a designated protest site…all protesters are welcome (to join) from all parties—whether the ruling or Opposition party…should come without their respective banners because this is an issue of the youth and the youth constitute the biggest majority in this country. We invite everybody from all political shades to come and be part of this movement,” he added.
+
+Story continues below this ad
+
+In a clearer indication that the group has added a structural dimension to its ranks after catching social media by surprise with a satirical post last month, it has urged India’s Gen Z to be part of the protest to demand accountability from the BJP-led NDA government on a slew of issues.
+
+Jatin Anand is an Assistant Editor with the national political bureau of The Indian Express. With over 16 years of experience in mainstream journalism, he is a seasoned expert in national governance, electoral politics, and bureaucratic affairs. Having covered high-stakes beats including the Election Commission of India (ECI), intelligence, and urban development, Jatin provides authoritative analysis of the forces shaping Indian democracy. He is an alumnus of Zakir Husain Delhi College (DU) and the prestigious Asian College of Journalism (ACJ), Chennai, where he specialized in Print Journalism. Expertise High-Stakes Beat Coverage: Throughout his decade-and-a-half career, Jatin has covered some of the most sensitive and influential beats in the country, including: The Election Commission of India (ECI): Monitoring electoral policy, reforms, and the conduct of national and state polls. National Security & Intelligence: Reporting on the internal mechanisms and developments within India's security apparatus. Urban Development: Analyzing the policies and bureaucratic processes driving the transformation of India’s cities. National Political Bureau: In his current role, he tracks the intersection of policy and politics, offering deep-dive reporting on the Union government and national political movements. Academic Credentials: Zakir Husain Delhi College (DU): Alumnus of one of Delhi's premier institutions. Asian College of Journalism (ACJ), Chennai: Specialized in Print Journalism at India's most prestigious journalism school. ... 
+
+**Stay updated with the latest - Click here to follow us on Instagram**
+
+-   Tags:
+-   Bharatiya Janata Party
+-   Cockroach Janata Party
+-   Dharmendra Pradhan
+-   Jantar Mantar protest
+
+---
+
+### Nifty tops 23,450, Sensex gains 150 points ahead of RBI policy decision
+*Express Web Desk · legal*
+
+The Nifty 50 rose 0.27% to 23,478.95, while the BSE Sensex gained 0.36% or 150 points to 74,629.94 as of 9:15 am.
+
+Indian benchmark indices opened higher on Friday ahead of the Reserve Bank of India’s monetary policy decision, while the rupee strengthened by 8 paise to 95.66 against the US dollar in early trade.
+
+The Nifty 50 rose 0.27% to 23,478.95, while the BSE Sensex gained 0.36% or 150 points to 74,629.94 as of 9:15 am.
+
+The RBI is widely expected to keep its key policy rate unchanged at 5.25%, according to a Reuters poll. However, investors will closely watch for any change in the central bank’s policy stance or measures to support the rupee, which has emerged as Asia’s worst-performing currency in 2026 amid a prolonged decline.
+
+All 16 major sectoral indices traded in positive territory. The broader market also advanced, with the Nifty Midcap 100 and Nifty Smallcap 100 indices rising 0.4% and 0.3%, respectively.
+
+---
+
+### Hezbollah rejection clouds Lebanon ceasefire and prospects for ending Iran war
+*SECTIONS Hezbollah rejection clouds Lebanon ceasefire · business*
+
+The pro-Iran Hezbollah movement rejected a new ceasefire in Lebanon on Thursday and Israel said it would not withdraw troops from the country, undermining U.S. President Donald Trump's efforts to halt fighting there to forge peace with Tehran.
+
+Iran has made a ceasefire in Lebanon a condition for any peace deal with Washington, and has suggested in recent days that it could intervene directly in support of its proxy Hezbollah if Israel keeps up or escalates attacks there.
+
+**
+
+Lebanese President Joseph Aoun said the ceasefire would come into force within 24 hours of all concerned parties approving it. However, Hezbollah leader Naim Qassem rejected the Washington declaration, insisting "resistance will continue".
+
+There was no immediate response from Israel, Lebanon or the U.S. to Qassem's remarks. Hezbollah is not a party to the U.S.-brokered agreement reached between Israel and the Lebanese government on Wednesday, but would ‌be required to halt attacks.
+
+Israel ⁠kept up ⁠strikes in southern Lebanon on Thursday and Defence Minister Israel Katz said Israeli forces would not be withdrawing from the area or halting operations in the country, which they invaded in March in parallel with the war in Iran.
+
+The commander of Iran's Revolutionary Guards Quds Force - which established Hezbollah in 1982 - said "the minimum demand of the resistance" was Israel's withdrawal to positions it held before the war began.
+
+"Our initial condition for accepting a ceasefire in the regional war was a ceasefire on all fronts, including Lebanon," a separate statement from the Guards said.
+
+Israel must stop its attacks in Lebanon, evacuate the areas it occupies and retreat behind international borders, said the statement, carried by state media on Thursday.
+
+Hostilities between Hezbollah and Israel reignited on March 2, when the group opened fire in support of Tehran as it came under U.S.-Israeli attack. The war has continued despite several ceasefires declared from Washington since April.
+
+## FLARE-UP IN GULF
+
+The attempt to reach a ceasefire in Lebanon comes after a flare-up in violence across ⁠the region ‌that put Trump's efforts to end the war in new jeopardy. Iranian and U.S. forces traded attacks in the Gulf on Wednesday in one of the most intense bouts of fighting since a separate ceasefire halted large-scale U.S.-Israeli bombing of Iran in early April.
+
+Iranian forces struck Kuwait, damaging its airport and injuring dozens of people, authorities said, while ⁠the U.S. military carried out strikes near the Strait of Hormuz. The strait, through which a fifth of the global oil and liquefied natural gas supplies normally flow, remains largely closed more than three months after the U.S. and Israel launched their strikes on Iran.
+
+Oil prices fell by about 3% on Thursday on hopes that a Lebanon ceasefire could help Washington and Iran find a diplomatic off-ramp from their war.
+
+Trump, under pressure at home to end the war and bring down fuel prices, suggested there could be progress in negotiations with Iran soon.
+
+"If it happens, it could happen over the weekend," Trump told reporters in the White House's Oval Office on Wednesday, without elaborating on what he expected to happen within that timeframe.
+
+He said that parties were working to separate the issue of reopening the strait from the conflict in Lebanon.
+
+## IRAN DENIES TARGETING KUWAIT AIRPORT
+
+Wednesday's strikes on Kuwait damaged airport facilities and diplomatic missions, killing one person and injuring more than 60 others, Kuwaiti authorities and state media said.
+
+Iran's Revolutionary Guards blamed the destruction on U.S. interceptor ‌missiles that failed to hit their targets, according to Iranian state media. The U.S. military said Iranian drones targeted the airport deliberately.
+
+Iranian media reported the Revolutionary Guards also attacked the headquarters of the U.S. Fifth Fleet in Bahrain and a U.S. airbase.
+
+U.S. Central Command denied its bases had been hit and said it had carried out a new round of "defensive strikes" in southern Iran and conducted strikes on ⁠Qeshm Island near the strait after attempted Iranian attacks.
+
+## IRAN SETS CONDITIONS FOR PEACE
+
+Last week, Iran and the U.S. signalled progress towards a tentative initial agreement to halt the war and reopen the strait, but the two sides have yet to sign off on the deal, which would leave more complex negotiations for later.
+
+Iran's Supreme Leader Ayatollah Mojtaba Khamenei said on Thursday that Iran's enemies had already been defeated on the battlefield and were now seeking to sow internal divisions.
+
+Khamenei has not been seen in public since he succeeded his father, who was killed in an airstrike at the start of the war.
+
+In addition to Tehran conditioning a deal on an end to fighting in Lebanon, it also wants access to billions of dollars in oil revenue, waivers on sanctions on crude exports, a lifting of a U.S. blockade on its ports and leverage over the strait.
+
+Trump has said his top priority is to stop Iran from acquiring nuclear weapons. Iran says its atomic programme is for peaceful purposes.
+
+The U.N. nuclear watchdog sent a report to member states on Thursday repeating its calls on Iran to urgently inform the agency of the fate of its enriched uranium since its atomic sites were bombed a year ago and let inspections resume fully.
+
+---
+
+### 'We Don't Take It Seriously': CM Pema Khandu Brushes Aside China's Claims On Arunachal Pradesh
+*Aanchal Sinha · general*
+
+He also rejected the notion that Arunachal Pradesh shares a border with China, asserting instead that the state borders Tibet.
+
+[Read full article](https://www.news18.com/india/we-dont-take-it-seriously-cm-pema-khandu-brushes-aside-chinas-claims-on-arunachal-pradesh-ws-kl-10131693.html)
+
+
+---
+
 ## 4 June 2026
 
 ### No music, different timings for men, women: Kerala Islam-friendly gym sparks row
