@@ -1,3 +1,943 @@
+## 7 June 2026
+
+### Pilibhit farmers protest over pending sugarcane payments and closed mill
+*Ani · general*
+
+Pilibhit: Farmers staged a protest march towards the residence of Minister of State for Sugarcane Development and Sugar Mills, Sanjay Singh Gangwar, in Pilibhit on Saturday, demanding "payment of pending sugarcane dues" and the reopening of the Majhola Cooperative Sugar Mill.
+
+City Magistrate Vijay Vardhan Tomar said some farmers from Nawabganj gathered near the minister's residence seeking the release of payments from a sugar factory, which has been closed for some years. He added that the pending dues will be cleared after the auction 
+
+  
+
+"They demanded payment from the Oswal factory, which closed three-four years ago, be released. The payment will be made after the auction is completed. Secondly, they wanted the payment from a Barkhera-based sugar factory that is being delayed. The Minister has assured them that the issue will soon be resolved," he said.
+
+Indian Sugar and Bio-Energy Manufacturers Association (ISMA) said in April that India's sugar production has increased by around 8 per cent in the ongoing sugar season (SS 2025-26), reaching 274.8 lakh tons as of April 15, compared to 254.96 lakh tons during the same period last year.
+
+ISMA said Uttar Pradesh has produced 89.26 lakh tonnes, slightly lower than 91.10 lakh tons recorded in the corresponding period last year.
+
+Deepak Ballani, Director General of the Indian Sugar & Bio-energy Manufacturers Association (ISMA), said earlier this week that there is scope for improvement in sugar realisations as current ex-mill sugar prices in major producing states remain below production costs.
+
+Speaking with ANI, Ballsaid ex-mill sugar prices in Uttar Pradesh are around Rs 41-41.50 per kg, while prices in Maharashtra are close to Rs 39 per kg, against an estimated production cost of about Rs 42 per kg.
+
+"We still have scope of increasing the sugar price because unless the mill realises the right value of sugar, it will be difficult to pay farmers on time," Ballani said.
+
+He noted that sugar prices have remained largely stable despite restrictions on exports and added that sugar inflation over the past decade has been among the lowest compared to other commodities.
+
+According to Ballani, retail sugar prices are currently hovering around Rs 46.50-47 per kg. He added that whenever the Fair and Remunerative Price (FRP) of sugarcane is increased, there should be a corresponding rise in sugar realisations to maintain the financial viability of mills and ensure timely payments to farmers.
+
+---
+
+### 'Don't even go near': Muslim youth warned to stay away from Cockroach Janta Party's protest
+*SECTIONS t even go nears protest ET Online · general*
+
+As preparations gathered pace for a protest called by the Cockroach Janta Party (CJP) in Delhi, messages advising Muslims to avoid the demonstration circulated widely across social media platforms and through community networks, according to a Times of India report, by Ismat Ara.
+
+The advisories, shared on WhatsApp, Instagram and X, as well as through announcements at some mosques, urged members of the community — particularly young people — to stay away from the protest venue. Several messages warned that participation in demonstrations could have long-term repercussions if any law-and-order situation were to arise.
+
+  
+
+The cautionary campaign emerged ahead of the event announced by CJP founder Abhijeet Dipke, who travelled from the United States for the protest. Community members, religious leaders and social media users were among those who urged Muslims not to attend, reflecting concerns that have become more pronounced in recent years following investigations linked to anti-CAA protests and the 2020 Delhi riots, the report said.
+
+Among those choosing to stay away was Sarita Vihar resident Ashraf Masood, a college student, who said his father advised him against joining the gathering.
+
+According to the report, one widely circulated social media post urged Muslims to avoid not just the protest site but nearby areas as well, claiming that members of the community could face scrutiny, arrests or adverse media attention if disturbances were reported.
+
+The appeals were not restricted to online platforms. During Friday prayers at a mosque in Shaheen Bagh, an imam reportedly encouraged young people to carefully assess the value and consequences of participating in demonstrations, emphasising education and community engagement as other avenues for social change.
+
+Similar views were expressed by Imam Ahmad of Masjid Shahab in Batla House, who said individuals should evaluate the purpose of a protest, the organisers behind it and the likelihood of it remaining peaceful before deciding whether to participate.
+
+The report added that a section of Muslim leadership has increasingly argued that community resources and efforts should be directed towards education and institution-building.
+
+At the same time, some voices disagreed with the calls for disengagement, maintaining that peaceful protest remains a constitutional and democratic right available to all citizens.
+
+**_With inputs from TOI_**
+
+---
+
+### JEE Advanced 2026 AAT Result: When and where to check results
+*Education Desk · legal*
+
+The JEE Advanced AAT 2026 result will be declared on June 7, 2026 (Representative Image/AI)
+
+**JEE Advanced AAT 2026:** The JEE Advanced Architecture Aptitude Test (AAT) 2026 result will be announced today, on June 7 on the official website at jeeadv.ac.in. This year JEE Advanced and AAT exams were conducted by IIT Roorkee.
+
+The test was held on June 4 from 9 am to 12 pm. Candidates applying to IITs’ Bachelor of Architecture (B.Arch.) programs must have taken the Architecture Aptitude Test. They could only register and take the AAT if they passed JEE Advanced 2026.
+
+### **JEE Advanced AAT Result 2026: When and where to check?**
+
+The JEE Advanced AAT 2026 result will be declared on June 7, 2026.
+
+To access the result, applicants must first visit the official website jeead.ac.in. Next, find the tab titled “AAT 2026 Result”. Enter login credentials as required, such as roll number, date of birth, etc, and click “Submit”. The result will be displayed on the screen. Students can download and save this result as it will be needed during the admission process to various IITs.
+
+In the AAT exam, no ranks are assigned to candidates. The result will only show whether or not a candidate has passed the test. Those who meet the requirements will be able to apply for admission to B.Arch. programs at participating IITs through the Joint Seat Allocation Authority (JoSAA) counseling process. The Bachelor of Architecture (BArch) program is currently offered by IIT BHU Varanasi, IIT Kharagpur, and IIT Roorkee.
+
+The JoSAA registrations began on June 2. Students who qualify AAT will be able to fill in their choices from June 7, after the result is declared. Allotment of seats will be solely based on the category-wise All India Rank in the JEE Advanced 2026. Students must have also scored a minimum of 75 per cent marks in their Class 12 board exams.
+
+Last year, the AAT exam was conducted on June 5 and the result was announced on June 8 by IIT Kanpur.
+
+---
+
+### War, debt and cuts: The price of Israel's security push
+*SECTIONS War · general*
+
+Jerusalem: The enormous costs of Israel's multi-front war and Prime Minister Benjamin Netanyahu's determination to turn his country into a "super-Sparta" of the Middle East are driving up the defence budget and raising fears of cutbacks in education and healthcare.
+
+The total cost of the series of interconnected regional conflicts that began with Hamas's attack on Israel on October 7, 2023 stood at 405 billion shekels ($138 billion) as of late April, according to the governor of the Bank of Israel, Amir Yaron.
+
+  
+
+"That's a huge figure, more than 17 percent of GDP," he said during a recent economic conference in Herzliya, north of Tel Aviv.
+
+Just the military campaign against Iran, which began with a wave of US-Israeli strikes on February 28, incurred an additional cost of 35 billion shekels ($12 billion) for the state up until a ceasefire took effect on April 8, according to an initial estimate by the finance ministry.
+
+Following the adoption of the 2026 budget in late March, the government noted the defence ministry's budget had more than doubled since October 2023.
+
+To support the war effort, the government borrowed heavily on international markets in 2024 and 2025.
+
+It has reached the point where public debt now accounts for more than 69 percent of GDP, compared to 60 percent before the war, according to the Treasury.
+
+Taxes and social security contributions have also increased.
+
+## \- 'Trauma economy' -
+
+Israelis are "paying twice" for the war, said Esteban Klor, an economics professor at Jerusalem's Hebrew University.
+
+The first cost, he told AFP, is via the decline in government social spending and reduced investment in public services resulting from several successive "across-the-board" budget cuts, even as "we are... increasing the debt".
+
+"Education will suffer, the quality of infrastructure will decline, as will the performance of the healthcare system," he said.
+
+The second cost is to economic growth, though this has been less visible as the Israeli economy quickly overcame the initial shock of the war. GDP had returned to its 2022 level by 2024 and is continuing to grow at an enviable rate.
+
+But the ongoing mobilisation of tens of thousands of reservists since October 2023 is also taking a toll.
+
+"Since... many of our workers are in the army rather than at their jobs, this affects production," Klor explained.
+
+According to a survey published on June 1 by the Israel Democracy Institute (IDI) think tank, 31 percent of respondents said they had experienced a decline in their wages or income since October 7, 2023.
+
+The phenomenon is hitting the self-employed and lowest-income workers the hardest.
+
+At the Herzliya conference, the deputy head of budgets at the finance ministry, Tamar Levy-Boneh, warned against a "trauma economy" -- in which the sense of shock and failure from October 7 lead the military to constantly demand more funding to ensure the country's security.
+
+"The security establishment must learn to meet its needs in a way that does not undermine the standard of living and must assume its share of responsibility," Levy-Boneh said.
+
+## \- 'Super-Sparta' -
+
+But Netanyahu advocates the opposite view.
+
+In September 2025, he said Israel had no choice but to become a "super-Sparta", a reference to the ancient Greek city-state devoted entirely to war.
+
+As divergences emerge between Netanyahu and US President Donald Trump regarding Israel's offensive against Hezbollah in Lebanon and how to end the war with Iran, the Israeli premier is pushing for greater self-sufficiency.
+
+Under his vision, Israel would gradually wean itself off its reliance on the massive military aid it receives from the United States.
+
+He confirmed as such on May 3, vowing to invest 350 billion shekels over the next decade in the national defence industry to ensure "overwhelming aerial superiority".
+
+Economics professor Klor warned that the defence budget could exceed 10 percent of GDP and called for a swift return to a "more reasonable" level.
+
+Israel is one of the developed countries where inequality is most glaring, and the dragging war is not helping.
+
+According to the latest available study by the Israeli National Insurance Institute, the proportion of children living below the poverty line rose from 27.6 percent to 28 percent between 2023 and 2024.
+
+---
+
+### ‘Teachers are going to hate it’: How social media apps hooked teens at school
+*Karan Mahadik · legal*
+
+Snapchat sent phone alerts to adolescents during school hours, urging them to share what was going on in their classrooms.
+
+Meta paid “teen ambassadors” to promote Instagram and hand out swag to their friends at school.
+
+TikTok gave the National PTA millions of dollars, in part to throw school events about online safety and provide favorable comments to journalists.
+
+Again and again, the world’s leading social media companies have targeted students, even as complaints have mounted that they are hurting teenagers’ mental health and academic performance, according to a New York Times review of internal documents that lay bare for the first time these tactics to hook young users.
+
+The documents emerged from lawsuits filed by more than 1,400 school districts against Meta, Snap, TikTok and YouTube amid a rising backlash against social media, with parent movements and bestselling books blaming the platforms for loneliness, bullying, eating disorders and sexual exploitation.
+
+The outcry, long focused on social media’s harm to mental health, has now shifted to its upending of the classroom. Many school districts are banning smartphones, and some are reevaluating their reliance on devices like Chromebooks, the inexpensive laptops made by YouTube’s parent company, Google.
+
+The companies’ push to keep children glued to their screens has overshadowed concerns from parents, teachers and even their own trust and safety teams about interfering with school, according to the documents and interviews with dozens of parents, teachers and former tech company employees.
+
+Story continues below this ad
+
+TikTok’s leaders decided not to disable notifications during school hours, rejecting a change that its safety teams had pushed for years. A Snapchat strategy document referred to classroom phone use as “under the desk” time. Google managers knew YouTube was recommending videos to students during the school day that had nothing to do with their lessons.
+
+The school districts contend that the apps’ addictive designs made teachers’ jobs more difficult. “It is so constantly tempting to these kids to be on a platform that promises endless, infinite, varied entertainment rather than actually focusing on what they should be at school to do,” said Previn Warren, one of the lead lawyers for the schools.
+
+The companies argue that the COVID-19 pandemic and other factors have harmed adolescents’ mental health, and that parents, schools and cellphone makers bear responsibility for children’s phone habits. They also say that they have made their platforms safer with parental-control features and account restrictions for minors.
+
+All four companies recently settled with Breathitt County Schools, a small district in rural Kentucky that served as a test case for the litigation nationwide. The district, which has about 1,500 students, had sought $3 million in damages and about $60 million that it had planned to put toward a long-term education and mental health plan. The companies agreed to pay Breathitt $27 million: $9 million from Meta, $8 million each from Snap and TikTok and $2 million from Google, according to documents released May 29 and first reported by Bloomberg.
+
+Story continues below this ad
+
+While it’s hard to say how the ongoing litigation might ultimately affect classrooms, it poses a substantial financial risk to the companies, possibly costing billions of dollars, said Alexandra Lahav, a civil litigation professor at Cornell Law School. She noted that the companies were also facing a barrage of claims from families and state attorneys general.
+
+Breathitt was the first of six so-called bellwether cases, whose outcomes are likely to guide the rest. The next plaintiff in line for trial, Tucson Unified School District in Arizona, which has about 40,000 students, is seeking more than $1 billion.
+
+“These are massive, massive lawsuits,” Lahav said.
+
+## Winning with teens
+
+In the early days of social media, before the industry came under angry public scrutiny, some company leaders were candid about their pursuit of teenagers — a key demographic that they knew could drive the next hit app and yield lifelong users.
+
+In 2012, a few months after the launch of Snapchat, its co-founder Evan Spiegel, then 21, wrote a blog post about feedback he had heard from some of the app’s early users.
+
+Story continues below this ad
+
+“We were thrilled to hear that most of them were high school students who were using Snapchat as a new way to pass notes in class,” Spiegel wrote, indicating that “peaks of activity” occurred during school hours.
+
+Meta also tried to promote its brand in schools, desperate to keep young users from leaving its flagship apps, Facebook and Instagram, for competitors.
+
+“Winning schools is the way to win with teens,” read an internal document from 2018.
+
+Beginning that year, the company recruited teen ambassadors to “act as our plug at local high schools within five key markets.” The students received branded gear to share, and they earned $45 gift cards for completing monthly challenges, such as posting Instagram video chats with friends.
+
+Story continues below this ad
+
+Leia Immanuel, a former teen ambassador who is now an artist in New York City, said her Instagram followers supported her when she was bullied at school. But she now feels conflicted about the role she played in encouraging other young people to use the platform.
+
+“In recent years I have been rethinking it,” she said. She still feels addicted to posting online and believes it is unhealthy. “I didn’t understand that at 14.”
+
+Meta said its outreach efforts at schools, including the ambassadors program, had largely focused on promoting kindness and soliciting feedback on new products.
+
+“We proudly work with parents, schools, safety organizations and teens themselves to inform safety features,” said Liza Crenshaw, a spokesperson for Meta. She added that some of the documents produced in the lawsuit represented the ideas of individuals, not the company.
+
+Story continues below this ad
+
+Google employees cited classrooms as a source of long-term customers. A 2020 slide deck said that “investing in schools helps onboard kids into Google’s ecosystem.”
+
+With its Chromebook laptops and software tailored for schools, Google has come to dominate the education technology market over the past 15 years. That business boomed during the pandemic, as many districts provided students with their own devices for remote learning. The majority of U.S. schools now use Google products to teach.
+
+Members of the company’s education department were often excited about products they thought could improve learning, such as affordable laptops and educational YouTube videos, according to court documents and interviews. They worked alongside product managers, however, who were focused on a different upside: increasing YouTube’s viewership.
+
+In one 2015 memo, YouTube employees noted that Saturdays drew 80 million hours’ more watch time than Thursdays, and that “increasing usage in schools M-F could decrease this gap!”
+
+Story continues below this ad
+
+It was clear even back then that YouTube was proving problematic for schools, according to documents first reported by The Wall Street Journal. The company’s education team repeatedly complained that the algorithm often led children into a spiral of un
+
+One slide presentation illustrated how this could happen. If someone began a YouTube session with a query about linear equations, the platform would first offer a learning video, the presentation showed. But after that, the algorithm would recommend a Will Ferrell comedy video.
+
+A Google spokesperson said the documents were outdated. In 2022, the company released a tool that allows teachers to remove ads and recommendations on videos they assign students to watch, said the spokesperson, José Castañeda. He also said YouTube could be blocked, and that browsing on the site had been turned off by default on school Chromebooks for a decade.
+
+But teachers and parents said that even when YouTube and other sites were blocked, students used internet proxies and other workarounds. And schools often allowed YouTube browsing so children could do research, which Google said highlighted its educational value but which made policing its use more difficult.
+
+Story continues below this ad
+
+Joanna Houston, the mother of a sixth grader in Richmond Hill, Georgia, said her son had watched more than 1,500 noneducational YouTube videos on his Chromebook during school between August and January.
+
+She was concerned that her son’s school had embraced Chromebooks and YouTube, but she blamed Google for marketing to schools and making it so easy to mindlessly consume its content.
+
+“It’s this whole ecosystem that ultimately benefits this company, and I don’t think it very much benefits students,” she said.
+
+## ‘The #1 cause of drama’
+
+The companies heard complaints not only from parents and teachers but from their own internal trust and safety teams.
+
+At a conference on student safety in 2023, Snap representatives met with education officials from across the United States. According to internal emails, school administrators there raised alarms about their experiences with Snapchat — including children as young as 9 sending nude pictures.
+
+A superintendent from Alabama told the executives that he had warned about the app in a newsletter to parents, which he shared with them. “Snapchat is the #1 cause of drama in school aged children,” it said, citing bullying and inappropriate images. “If YOU want to protect your child, make them delete it.”
+
+That same year, a Snap employee pushed back against a new feature that sent high school students phone notifications during the day. The alerts urged the adolescents to share what was in their backpack or what their class was up to.
+
+The employee said children should be able to opt out of the notifications to “avoid legal risks around dark patterns” — a term referring to manipulative design features. The suggestion was not taken.
+
+A Snap spokesperson said the company was pleased to have resolved the Breathitt lawsuit amicably and that many of the documents showed the company was listening to feedback.
+
+“We do not target schools,” said Monique Bellamy, the spokesperson, adding that Snapchat is simply popular among teenagers. “We care deeply about the safety and well-being of all Snapchatters, and our teams have worked for years to raise the bar on safety.”
+
+At TikTok, some employees warned that frequent interruptions in the classroom would lead to a backlash.
+
+“Teachers are going to hate it,” an employee wrote in 2022 to an internal group focused on child safety, referring to a new feature prodding users to post within the next three minutes. “Kids already have smartphone addiction in class.”
+
+In response, a manager said the team’s job was to support as well as challenge the business. Competitors, she said, were doing the same thing.
+
+“If we assume teens are going to do this anyway, we’d rather them be here on TikTok,” she wrote. The company removed the feature in 2023.
+
+That same year, TikTok considered turning off notifications altogether for minors during school hours, but the plan was scrapped. Internal documents about the feature noted it would reduce the number of daily active users and would be difficult for the company to administer because of the variety of school schedules.
+
+TikTok declined to comment on the internal documents about app features that affected children in school. A spokesperson said the app had dozens of privacy and safety settings, including parental controls.
+
+## PTA ‘propaganda’
+
+Leading technology companies have long partnered with parent-teacher associations to burnish their reputations and promote internet safety. But the new documents show how the National PTA, a nonprofit that represents some 22,000 local chapters, actively solicited such contracts.
+
+In a 2024 email pitching its services to Snap, the National PTA promised it could “help with sentiment” and create “more understanding and comfort” among parents. (Snap ultimately declined to offer funding.)
+
+Exactly how much the National PTA has received from social media companies remains secret, but some details emerged in the documents. In 2024, a National PTA official told Snap executives that companies generally paid the organization $250,000 to $500,000 a year, and that a handful gave millions of dollars a year.
+
+“Parents, students and school communities rely on PTA to help them navigate the challenges of a changing world,” said Heidi May Wilson, a spokesperson for the National PTA, in a statement responding to questions about the lawsuit documents. “That includes technology and social media, which are now central parts of children’s lives.”
+
+TikTok signed the first of several contracts with the group in 2019, just as the app’s thriving business in America was coming under fire. Prominent lawmakers like Sen. Marco Rubio, R-Fla., had accused its Chinese parent company, ByteDance, of censorship, painting it as a propaganda tool of the Chinese Communist Party.
+
+The deal with the National PTA aimed to “positively raise ByteDance’s profile among parents,” according to a PTA slide deck for the company that was quoted in a plaintiff brief.
+
+In November 2019, a National PTA employee asked its new sponsor where it should host an internet safety event. In emails, TikTok employees discussed that the ideal schools would be in “major market media centers” and “sensitive political districts.”
+
+Tampa, which was represented by Rubio and had the most populous TV viewing area in Florida, met both criteria. The National PTA gave a county chapter $1,000 to put on the event at Buchanan Middle School.
+
+In addition to about 75 parents and children, local TV reporters showed up to the cafeteria event in February 2020. Surrounded by balloons with TikTok’s logo, parents talked about screen-time rules, and a panel of students answered questions. A local influencer said TikTok had helped her build a career traveling the world.
+
+While many parents appreciated that the event helped them talk about social media with their children, the influencer’s presence felt like “propaganda,” said Damaris Allen, who was then the chapter president. “I just remember being very, very annoyed.”
+
+Later that year, TikTok gave the National PTA $2 million for support during the pandemic. It paid another $3 million in 2024 for the group to promote the company’s youth safety efforts, including providing “positive” quotes to news outlets. The TikTok spokesperson said the company was proud to fund the organization.
+
+Last December, a publication in northeast Ohio covered a TikTok-sponsored event about online safety. A National PTA representative told the outlet: “It was important for the youth to illustrate how they use platforms and how they use TikTok for good.”
+
+---
+
+### What to know about a rare visit by China's Xi to North Korea for talks with Kim Jong Un
+*SECTIONS What · world*
+
+SEOUL, South Korea: China's Xi Jinping is traveling to North Korea for the first time in nearly seven years in a trip that offers North Korean leader Kim Jong Un a stage to showcase an increasingly assertive foreign policy anchored by closer ties with his country's former Cold War allies.
+
+China, the North's economic pipeline, is expected to reassert its influence over a traditionally allied government that has grown closer to Russia in recent times.
+
+  
+
+The meeting between the two leaders is their first since Kim traveled to Beijing for a World War II event in September 2025.
+
+Here is a look at what they may be seeking from their upcoming meeting:
+
+  
+
+## What Kim wants
+
+After years of prioritizing Russia - dispatching thousands of troops and munitions to support Moscow's invasion of Ukraine - North Korea's leader is now seeking stronger ties with China to break further out of isolation, embracing the idea of a "new Cold War" and projecting Pyongyang as part of a united front against Washington.
+
+Since the era of its previous leaders, North Korea has long maintained an "equidistance" approach toward Beijing and Moscow, playing its two main benefactors against each other to maximize its gains.
+
+While he is receiving crucial support from Russia for backing its war effort, likely including military technologies and aid, Kim cannot fulfil his promise to improve the living standards of his populace without greater economic assistance from China, according to Koh Yu-hwan, a former president of Seoul's Institute of National Unification.
+
+"North Korea vows to maintain a self-reliant economic system and focus on advancing its nuclear capabilities, but in reality it's nearly impossible to raise living standards by mobilizing internal resources alone," Koh said.
+
+The Kim-Xi meeting could include discussions on resuming Chinese tourism to North Korea and opening a bridge over the Yalu River that has remained unused years after its completion, Koh said. The leaders could also discuss joint economic development projects in border regions shared by North Korea, China and Russia.
+
+It remains to be seen whether Kim at some point will use his increased diplomatic footing to reengage with Washington after his talks with U.S. President Donald Trump collapsed in 2019 over disagreements about sanctions on North Korea.
+
+Pyongyang has so far rebuffed Trump's offers to resume talks after the American president entered his second term, insisting that Washington first drop its demand for North Korea's denuclearization as a precondition for negotiations. Kim also met Xi before traveling to Singapore and Vietnam for his summits with Trump in 2018 and 2019, moves widely interpreted as efforts to bolster his bargaining position. "From North Korea's perspective, there's belief that having China's backing provides a sense of security and confidence when seeking to improve relations with the United States," said Park Won Gon, a professor at Seoul's Ewha University.
+
+## What Xi wants
+
+For China, the visit is a chance to bring back a traditional ally closer into its orbit, by offering possible economic incentives and food aid, traditional assets it has given to North Korea.
+
+"I think the Chinese are privately a little uneasy at the embrace of Kim Jong Un and Vladimir Putin, that the North Koreans have really gravitated towards very heavily towards the Russians. Part of Xi Jinping's goal is to correct the balance," said Mike Chinoy, a former CNN journalist and author of an upcoming book about the insular country.
+
+Xi is making his first overseas trip in 2026 after become increasingly selective about making state visits since the pandemic. Coming on the heels of separately hosting both Trump and Putin, the choice is strategic.
+
+"The trip ensures no one can reshape the peninsula's security architecture without his concurrence," Seong-Hyon Lee, a senior fellow at the George H.W. Bush Foundation for U.S.-China Relations, said.
+
+Beijing is also realistic in response to Kim's clear nuclear ambitions.
+
+In April, China's Foreign Minister Wang Yi visited Pyongyang and met with Kim. Observers noted the absence of the word "denuclearization" from the statement on the visit, a departure from the standard line that China usually deploys which calls for denuclearization of the Korean Peninsula.
+
+"The most telling sign of the visit may be a silence: if China's official readout omits the word 'denuclearization,' Beijing has effectively accepted North Korea as a nuclear state, folding the issue into its broader buffer strategy against the U.S.," said Lee.
+
+In exchange, China could seek greater access to the estuary of the Tumen River, which forms part of the border between the two countries, and navigational rights in waters off the Korean Peninsula's east coast.
+
+Ultimately Kim is likely to give Xi a grand and lavish welcome at the symbolic level, but China may not be able to extract much from an increasingly confident Kim, experts say.
+
+"He's going to give Xi Jinping a welcome befitting of the head of state of their giant neighbor, but he's not going to play the pliant 'little brother,'" said Chinoy. \_\_ Wu reported from Bangkok.
+
+---
+
+### Silver ETFs delivered a 50%+ 3Y CAGR. What does the gold-silver ratio show now? | Mint
+*Kirti Jha · economy*
+
+Silver has emerged as one of the best-performing asset classes for Indian investors over the past few years. Silver exchange-traded funds (ETFs) have delivered a three-year CAGR of more than 50%, while generating returns of over 13% so far in 2026.
+
+The sharp rally has left many investors wondering whether silver still offers value or if the metal has already priced in most of the optimism.
+
+One way to answer that question is through the gold-silver ratio, a widely tracked metric that compares the price of gold with that of silver and helps assess whether silver is relatively cheap or expensive.
+
+Here's a closer look at what the ratio indicates and what it could mean for investors considering silver today.
+
+## What is the gold-silver ratio?
+
+The gold-silver ratio measures how many ounces of silver are required to buy one ounce of gold.
+
+The formula is simple:
+
+Gold-Silver Ratio = Price of Gold ÷ Price of Silver
+
+If gold trades at $3,300 an ounce and silver at $55 an ounce, the ratio works out to 60.
+
+For investors, the ratio serves as a relative valuation indicator.
+
+A rising ratio means gold is outperforming silver, making silver appear cheaper relative to gold. A falling ratio means silver is outperforming gold, suggesting that silver's valuation discount is narrowing.
+
+## Where does the gold-silver ratio stand today?
+
+The gold-silver ratio currently stands at 60.7, according to data from GoldPrice.
+
+The figure has declined sharply over the past year. In June 2025, the ratio was above 90 and went on to touch a 52-week high of 94.5, indicating that silver was significantly underperforming gold.
+
+View full Image
+
+Source: GoldPrice
+
+Since then, silver has staged a powerful rally. The ratio plunged to a low of 44 in January 2026 before stabilising around current levels.
+
+The move is significant because it suggests that much of silver's valuation catch-up relative to gold has already played out. Put differently, investors needed nearly 95 ounces of silver to buy one ounce of gold at the peak of the ratio last year. Today, they need only about 61 ounces.
+
+## What does the current ratio indicate?
+
+A year ago, the ratio was making a strong valuation case for silver.
+
+At levels above 90, many investors argued that silver was significantly undervalued relative to gold. The subsequent decline in the ratio suggests that the market has already corrected a large part of that imbalance.
+
+At 60.7, the ratio no longer points to the kind of deep undervaluation that existed in 2025.
+
+That does not mean silver is expensive. Rather, it suggests that the easy valuation trade may be behind us.
+
+For investors buying silver today, the case is less about silver catching up with gold and more about whether the metal's underlying fundamentals remain supportive.
+
+## What should investors watch now?
+
+If the gold-silver ratio is no longer sending a strong valuation signal, investors may need to focus more closely on other drivers of silver prices.
+
+Industrial demand remains the most important. Silver consumption is increasingly tied to solar installations, electronics manufacturing and the broader energy transition.
+
+Interest rates are another key factor. Like gold, silver tends to benefit when borrowing costs fall and the opportunity cost of holding non-yielding assets declines.
+
+Supply conditions also warrant attention. The silver market has recorded deficits in recent years, with demand exceeding supply. Continued supply tightness could support prices.
+
+Finally, ETF flows remain an important indicator. Strong inflows into silver ETFs can amplify price moves, particularly because the silver market is significantly smaller than the gold market.
+
+## So, should investors buy silver?
+
+The gold-silver ratio suggests silver is no longer the bargain it appeared to be a year ago.
+
+The fall in the ratio from 94.5 to 60.7 indicates that a large part of silver's relative undervaluation has already been priced in.
+
+At the same time, the current reading does not point to excessive optimism either. The ratio is close to historical norms and does not suggest that silver has entered overvalued territory.
+
+For investors, the takeaway is that the gold-silver ratio remains a useful valuation tool, but it is only one part of the picture. The next phase of silver's performance is likely to depend less on its valuation relative to gold and more on factors such as industrial demand, economic growth, supply dynamics and interest-rate trends.
+
+---
+
+### SpaceX inks $30 billion deal to provide Google with AI computing power
+*Karan Mahadik · legal*
+
+SpaceX acquired ‌xAI in February in a deal that ​valued the AI startup at $250 billion, giving the ‌aerospace company greater flexibility to restructure xAI's capital. (Image: Reuters)
+
+SpaceX revealed in a regulatory filing Friday that Google will pay it $920 million a month for computing power, pumping billions of dollars into Elon Musk’s rocket company as it prepares for a blockbuster initial public offering.
+
+The agreement, which starts in October and runs through June 2029, could earn SpaceX about $30 billion in total. It also helps establish SpaceX — which owns Musk’s artificial intelligence lab, xAI — as a major infrastructure provider as companies compete in a fierce global race to dominate AI.
+
+As part of the agreement, Google will gain access to about 110,000 AI chips from Nvidia, which Google said would help it meet larger-than-expected customer demand for its AI models. The tech giant said in April that its cloud business had contracts totaling $460 billion that had yet to be fulfilled as revenue, indicating enormous demand for its services.
+
+“Google Cloud and SpaceX are longtime partners,” a Google Cloud spokesperson said in a statement. “This is a short-term, timely agreement to ensure we have bridge capacity to meet surging customer demand for our agent platform, Gemini Enterprise, which has been even higher than we expected.”
+
+SpaceX did not immediately respond to a request for comment.
+
+SpaceX reached a similar deal last month to provide Anthropic, another leading AI lab, with computing power. Anthropic, which is also expected to go public this year, is paying SpaceX $1.25 billion a month.
+
+SpaceX is expected to go public next week in a deal that could value the company at more than $1.7 trillion and make Musk a trillionaire. As part of that process, the company has shed more light on its financial details in recent weeks to entice investors.
+
+Story continues below this ad
+
+Musk has built a massive supercomputer in Memphis, Tennessee, to power xAI. But the company has largely lagged behind competitors like OpenAI, Anthropic and Google.
+
+In the run-up to SpaceX’s going public, Musk has increasingly leaned into AI. He has promoted xAI’s computing power as an asset, demonstrating that it can be turned into revenue through deals with Anthropic and Google.
+
+Musk has also announced details of a giant chip factory he’s building in Texas. And in April, SpaceX announced a $60 billion deal to acquire AI startup Cursor, which makes a code-writing assistant.
+
+The deal with Google deepens ties between the search giant and the rocket maker. Google owns a roughly 5% stake in SpaceX, and has explored the possibility of using SpaceX as a launch partner as Google seeks to put data centers in space, an effort known as Project Suncatcher.
+
+---
+
+### Gas at $4: Americans cut back on discretionary spends as fuel bills mount
+*SECTIONS Gas · business*
+
+New York: U.S. consumers haven't stopped spending money since the Iran war drove up fuel prices, but many shoppers are reassessing what they buy and where, according to company executives and retail analysts.
+
+The behavior changes observed so far are subtle, such as altered routines for buying gasoline and fewer visits to clothing and furniture stores. They also are uneven across the population. During recent earnings calls with analysts, executives from American mainstays like Walmart, McDonald's and Dollar General cited overall shopper resilience as well as noticeable cutbacks by lower-income customers.
+
+But the new signs of strain cited by major retailers as generous income tax refunds helped shore up their sales make some economists and analysts think they will see a wider retrenchment when the refunds are gone and consumers face the cumulative impact of more expensive gas and higher prices for food, clothing, insurance and other goods and services.
+
+  
+
+Trevor Chapman, a communications executive in West Hills, California, said that instead of going to a local independent gas station, he and his wife now plan their fuel stops around Costco stores with filling stations. The couple also is doing more online food shopping to avoid impulse buys, he said.
+
+"Gas is a kind of catalyst," Chapman said. "It trickles down into the entire budget. We're trying to keep everything as normal as possible. But it's starting to feel like it's adding up more and more."
+
+Well before the U.S. and Israel launched the war, many consumers already were being more choosy with their discretionary purchases, fatigued by several years of stubborn inflation and tariffs on imported goods imposed last year.
+
+The U.S. Commerce Department reported last week that higher prices, not more purchases, accounted for most of the growth in Americans' spending in April, when a key inflation gauge reached the highest level since October 2023.
+
+## Topping up instead of filling up
+
+Members-only warehouse stores like Costco, Walmart's Sam's Club and BJ's Wholesale Club have seen more traffic at their fuel pumps since the war began in late February, according to the companies. Fuel typically costs less at the wholesale clubs.
+
+But many drivers are not filling their tanks up, Walmart Chief Financial Officer John David Rainey told analysts late last month. For the first time since 2022, Walmart customers and Sam's Club members are buying an average of less than 10 gallons per trip, he said.
+
+"That's an indication of stress," Rainey said.
+
+Costco members also are making changes. They are visiting store gas stations more frequently to "top up in between what would have normally been a gap between getting the tank to empty because of the concern about what might the gas price be tomorrow," Chief Financial Officer Gary Millerchip said in late May.
+
+Meanwhile, the gas price surge has hurt convenience stores, where 80% of all fuel is sold in the U.S., according to Jeff Lenard, a vice president at the National Association of Convenience Stores.
+
+A sales analysis by the trade group found that the number of pump transactions at the properties of 130 convenience store companies fell by nearly 10% across March and April compared to the same two months last year. The number of sales inside the companies' stores dropped by 10.4%, according to the analysis.
+
+"When you lose gallons to the big box, you also lose in-store sales," Lenard said.
+
+## Changing eating habits
+
+Higher gas prices did not stop many Americans from dining out in the first two months of the war with Iran. Tax refunds helped, the National Restaurant Association said. Customer traffic at U.S. restaurants in April was unchanged from the same month last year, although a 2.6% increase in restaurant spending resulted largely from higher menu prices, according to market research firm Circana.
+
+But cracks are starting to form as budget-conscious U.S. residents shoulder the combined weight of paying more for gas and other consumer goods on top of increasing costs in other areas from inflation past and present.
+
+The price of gas won't help bring customers with household incomes of $45,000 or less back to U.S. fast-food restaurants, McDonald's Chairman and CEO Chris Kempczinski said last month. People in that income group began scaling back their fast-food purchases after the period of inflation that accompanied the end of the COVID-19 pandemic, and the trend picked up speed last year.
+
+U.S.-based restaurant consulting firm Revenue Management Solutions analyzed 14.6 billion restaurant transactions from the last ‌four years ⁠and found that as gasoline gets more expensive, restaurant visits gradually decline, according to Chief Research Officer Sebastian Fernandez. The analysis indicated the impact doubles when gas hits the $4 mark, which it did as a nationwide average on March 31.
+
+Consumers also are making concessions when they shop for groceries, according to Stew Leonard, president of an eight-store supermarket chain his father founded, Stew Leonard's. He's noticed customers buying meat in bulk to freeze and being less tempted to buy the products showcased during live food demonstrations or offered for sampling.
+
+"It's telling me that people are sticking more to their shopping list," Leonard said.
+
+Dollar General CEO Todd Vasos also cited $4 a gallon gas as a tipping point that had more consumers with household incomes above $100,000 frequenting the discount chain. Vasos told analysts Tuesday that many of Dollar General's core shoppers, who have mid-to-low incomes and live in rural areas, were paring back their food spending.
+
+Sophie Tolsdorf, 29, of La Grange, Kentucky, said she is one of the consumers stocking up on meat when the price is reasonable. She also switched to buying whole fruit instead pre-cut fruit in containers and cut back on the rawhide bones for her dog that cost $40 a pack.
+
+"He might have noticed," Tolsdorf said. "He's definitely a little bit bored during the workday now."
+
+## Needs versus wants
+
+Before the war, retailers had spent multiple earnings seasons highlighting consumer caution and selectivity as factors that could weigh on sales of nonessential products. Shoppers appear to have curbed their discretionary spending even more as the cost of buying gas went up, said Marshal Cohen, chief retail advisor at Circana.
+
+Between April 25 and May 23, U.S. retailers sold 6% fewer non-grocery products than they did during the comparable four-week period of 2025, Cohen said. Housewares, clothing, footwear and sports equipment had the biggest declines, anywhere from 5% to 7%. Circana reported that toys and beauty items remained bright spots, registering at least an 8% increase in the number of units sold.
+
+Location intelligence company Placer.ai, which tracks people's movements based on cellphone usage, saw visits to the gas stations of BJ's, Costco and Sam's Club stores start to accelerate in early March, aligning with a sharp rise in fuel prices, according to R.J. Hottovy, the company's head of analytical research.
+
+By early May, Placer.ai's data showed four consecutive weeks of reduced foot traffic at clothing, electronics and home furnishing stores, and more trips to grocery stores and dollar stores.
+
+"Consumers are prioritizing value-oriented retailers like warehouse clubs, superstores, and off-price chains," Hottovy said.
+
+---
+
+### US: First came Congress. Now a national redistricting battle may turn to statehouses and city councils
+*SECTIONS US First came Congress Now a national redistricting battle may turn · business*
+
+After a blitz of congressional redistricting ahead of the midterm elections, a national battle for partisan control is about to enter a new phase that could affect representation on everything from tax rates to social safety net programs, teacher salaries, housing regulations and local road repairs.
+
+Georgia's Republican-led Legislature will convene June 17 for a special session focused on redistricting for the 2028 elections. The agenda includes new voting districts not only for Congress, but also for the state House and Senate - and potentially even the state's utility regulatory commission.
+
+It will mark the first time since a recent U.S. Supreme Court ruling weakened minority voting protections that a state legislature will attempt to redraw its own districts. Mississippi Republicans and New York Democrats also could undertake legislative redistricting before their 2027 and 2028 elections, respectively.
+
+  
+
+Ir remains to be seen, though, how many legislatures will follow, and whether the outburst of mid-decade redistricting will extend down to county commissions, city councils and school boards that make myriad decisions affecting people's lives. The impact could be widespread.
+
+"The stakes here are not political, they are deeply human," said Joe Kennedy III, founder of Groundwork Project, a nonprofit that supports local civil rights and democracy organizations.
+
+  
+  
+
+## What's fueling the redistricting movement?
+
+Voting district boundaries typically are redrawn once a decade after each U.S. census to account for population changes. But last summer, President Donald Trump urged Texas Republicans to redraw congressional districts to try to win additional seats in the midterm elections. Other states followed with their own partisan gerrymandering.
+
+Then a 6-3 Supreme Court ruling in late April jumpstarted even more redistricting. The court struck down a majority-Black congressional district in Louisiana as an illegal racial gerrymander, providing grounds for Republicans in other states to reshape districts with large minority populations that have elected Democrats.
+
+## Why is Georgia redrawing its districts?
+
+A federal judge ruled in 2023 that some of Georgia's congressional, state Senate and state House districts were drawn in a racially discriminatory manner. The Legislature quickly approved revised maps with new majority-Black districts, though they resulted in little change to Republican majorities in the 2024 elections.
+
+Republican Gov. Brian Kemp has called lawmakers into special session to again redraw districts in light of the Supreme Court's decision in the Louisiana case. That could allow Republicans to undo the court-ordered changes they made in 2023 and potentially redraw other Democratic-held minority districts to the GOP's advantage.
+
+Republicans have yet to unveil details of their plans. But Democratic state Rep. Tanya Miller, who is running for attorney general, denounced the upcoming redistricting as a means of "rigging maps to maintain power."
+
+## How many seats are at stake?
+
+Several months before the Supreme Court ruling, a report by Fair Fight Action and Black Voters Matter forecast that Republicans in 10 Southern states could eliminate 191 Democratic-held legislative seats - including 140 districts with Black or Hispanic majorities - if the Supreme Court gutted federal Voting Rights Act protections for minorities.
+
+"If anything, our report was an understatement," Cliff Albright, co-founder and executive director of Black Voters Matter, recently told The Associated Press. "What's at stake is the future of this democracy."
+
+Other analysts don't expect that many seats to be redistricted. But they do expect the Supreme Court's decision to ripple through states.
+
+"We're going to potentially see a lot of frenzied efforts at every level, including at the local level, to try out undoing district maps and configurations that have performed quite well in providing improved representation for communities of color," said Kareem Crayton, vice president of the Washington office of the Brennan Center for Justice.
+
+## What states have pending court cases?
+
+The precedent from the recent Supreme Court decision already is being applied in several states. In light of the ruling, a federal appeals court is allowing Alabama to use a state Senate mapproved by Republican lawmakers in this year's election instead of one imposed by a federal judge who found the state had diluted the voting power of Black residents. The change affects two state Senate districts in the Montgomery area.
+
+The Supreme Court has sent legislative redistricting cases filed on behalf of Black voters in Mississippi and Native Americans in North Dakota back to lower courts for further consideration in light of its Louisiana decision. The Washington attorney general has asked the Supreme Court to do the same for legislative redistricting cases involving Hispanic voters in that state.
+
+## What's stopping states from redistricting?
+
+About half the states have provisions in their constitutions prohibiting mid-decade redistricting of state legislative seats, said Justin Levitt, a law professor at Loyola Marymount University in Los Angeles who runs the "All About Redistricting" website.
+
+But even in states where it's allowed, lawmakers may have fewer reasons to redraw their own districts than those for Congress, Levitt said. Politicians who promoted congressional redistricting for the 2026 midterms often justified it as a way to counter gerrymandering in other states and win as many seats as possible for their party. They had extra motivation because a swing of only a few seats nationally in the November elections could affect control of the closely divided U.S. House.
+
+By contrast, most state legislative chambers already are dominated by one party.
+
+"There's a lot less incentive, if you already control the state legislature by 10 or 12 seats, to eke out an incremental one or two at the expense of really ticking off your own party membership, or at the expense of maybe risking losing seats in a broader way," Levitt said.
+
+## Could local governments also redraw districts?
+
+The Supreme Court decision making it more difficult to prove Voting Rights Act violations already has affected some local governments.
+
+Plaintiffs have voluntarily dismissed a challenge to commission districts in Meriwether County, Georgia. A federal court has accepted new legal briefs in a challenge to Board of Supervisors districts in DeSoto County, Mississippi. And Indiana's attorney general has asked a federal appeals court to take note of the Louisiana case when deciding a challenge to how judges are selected in Lake County.
+
+Over roughly the past four decades, data from the University of Michigan shows that cities, counties and school boards have been involved in more than three-fifths of the 466 lawsuits alleging violations of Section 2 of the Voting Rights Act, which forbids providing minorities less opportunity than other voters to elect the representatives of their choice.
+
+But that doesn't necessarily mean local governments will rush to redistrict as a result of a weakened Voting Rights Act. The Supreme Court decision cleared the way for officials to justify redistricting based on partisan ambitions. But many local offices are officially nonpartisan.
+
+---
+
+### Revanth Reddy's 'Inspired By Hitler' Remark Draws BJP's Ire: 'Emergency Mindset Out In Open'
+*Aveek Banerjee · politics*
+
+Revanth Reddy the word 'Hydra' was the favourite word of Adolf Hitler and that he had formed the core team of HYDRAA that "could assassinate anyone."
+
+[Read full article](https://www.news18.com/india/revanth-reddys-inspired-by-hitler-remark-draws-bjps-ire-emergency-mindset-out-in-open-ws-l-10134632.html)
+
+---
+
+### Caught At Border: BSF Foils Infiltration Bid Along India-Bangladesh Border In Murshidabad, 5 Arrested
+*Aanchal Sinha · general*
+
+Police arrest Bangladeshi family in Murshidabad for alleged illegal entry, BSF foils separate attempt by 10 to 11 Bangladeshi nationals to cross border in Cooch Behar
+
+[Read full article](https://www.news18.com/india/caught-at-border-bsf-foils-infiltration-bid-along-india-bangladesh-border-in-murshidabad-5-arrested-ws-l-10134557.html)
+
+---
+
+### Planning an international trip? Credit card vs forex vs pre-paid travel card — Compare which option works best for you | Mint
+*Jocelyn Fernandes · economy*
+
+Indian travellers choosing a foreign destination have multiple options to choose from when it comes to facilitating payments. Popular among these are credit cards, forex cards and pre-paid travel cards. But is any one option better for travellers compared to the other?
+
+“There is no single ‘best’ option,” believes Vivek Bagree, Chief Business Officer, Cards at Niyo, he added, “the right choice depends on how a traveller spends, how long they are travelling, and how much certainty they want on exchange rates.”
+
+## Do forex and prepaid travel cards have an edge?
+
+Forex and prepaid travel cards are a strong fit for travellers who want budgeting discipline and exchange-rate certainty. Here funds are loaded in advance, which locks in the rate and shields the traveller from currency fluctuations during the trip, Bagree noted. “Compared to a traditional credit card carrying a 2–4% forex mark-up, this alone can save ₹4,000– ₹8,000 on a ₹2 lakh trip,” he added.
+
+Bagree that while credit cards offer flexibility, rewards and universal acceptance, which makes them useful for large purchases, hotel pre-authorisations and emergencies. But the two key costs can add up quickly when it comes to foreign travel.
+
+“The 2–4% forex mark-up (plus GST), and steep ATM cash withdrawal charges — typically 2.5–3.5% of the amount withdrawn (subject to a minimum fee), plus interest from day one and the forex mark-up on top. A single ATM withdrawal on a regular credit card can therefore cost the traveller 6–8% before they have even spent the cash. Raising the credit limit, too, is rarely instant — it usually involves an application, a fresh bureau check, and a wait of several days,” he explained.
+
+## Zero-forex-markup cards a growing option?
+
+Bagree noted that this is the fastest-growing category as it combines the “convenience of a regular debit or credit card with transparent pricing and no mark-up on international spends”. It can be a smart alternative for “students heading abroad, young professionals on their first overseas trip, or anyone still building a credit history”, he added.
+
+For most travellers, the most practical setup is a combination: a zero-forex-markup debit card for day-to-day spends and ATM withdrawals, a credit card (ideally a zero-forex or secured zero-forex variant for first-timers) for hotel bookings and large transactions, and a small float of local cash for places where digital acceptance is still patchy, feels Bagree.
+
+## Quick comparison of pros and cons
+
+Credit cards vs forex / pre-paid travel cards vs zero-forex mark-up cards: A quick comparison across the four options travellers consider today:
+
+**Card Type**
+
+**Pros**
+
+**Cons**
+
+**Traditional Credit Card**
+
+-   Earns rewards, cashback and loyalty points on spends 
+-   Widely accepted globally; useful for hotel pre-auths and emergencies 
+-   Allows travellers defer payment and manage cash flow
+
+-   Typically attracts a 1–3.5% forex mark-up plus GST on the mark-up 
+-   ATM cash withdrawals abroad are expensive: 2.5–3.5% cash advance fee plus interest from day one and the forex mark-up on top — often 6–8% all-in
+-   Credit limit increases require an application and bureau check; rate is not locked, and interest costs add up sharply if dues are not paid in full 
+-   Available to only High Credit Score holders with low card eligibility rates Many Students, Senior Citizen or Self Employed Individuals don't qualify.
+
+**Forex Card / Pre-paid Travel Card**
+
+-   Locks in the exchange rate before travel 
+-   Helps with budgeting and disciplined planned spending; many providers offer free or low-cost ATM withdrawals 
+-   Safer than carrying large amounts of cash
+
+-   Funds need to be loaded in advance; reloading mid-trip can involve form-filling and processing time 
+-   Limited set of currencies usually 14 -15 maximum; cross-currency usage attracts extra fees 
+-   Reload, issuance and encashment charges vary widely by provider 
+-   Limited options for UPI transfers and account interoperability, no possibility of International UPI or domestic usage
+
+**Zero-Forex-Markup Debit Card** 
+
+-   Zero forex mark-up on international spends at live Visa/Mastercard rates 
+-   Load in INR and spend directly — no need to pre-load or guess amounts. No conversion back and forth post trip. 
+-   Bundled benefits: free international ATM withdrawals, global airport lounge access, savings interest on the balance, real-time spend tracking, instant freeze/unfreeze and international toggle controls 
+-   Instant self-service limit increases — transfer funds into the linked account from the app and the available limit updates automatically
+
+-   Exchange rate is not locked in advance — savings depend on currency movement on the day of spend
+-   ATM withdrawal limits apply per the issuer's policy
+
+**Secured Credit Card with Zero Forex** 
+
+-   Accessible without prior credit history — ideal for students, first-time travellers and the self-employed; helps build a domestic credit score
+-   Zero forex mark-up and free ATM cash withdrawals abroad — benefits unsecured credit cards almost never offer
+-   Instant credit limit increases — top up the linked FD from the app and the credit limit adjusts on the fly, with no fresh application or bureau check
+
+-   Requires a fixed deposit as collateral
+-   Credit limit is tied to the security amount, which may be lower than an unsecured card
+
+## What are the key things to keep in mind?
+
+The biggest cost differentiator is the forex mark-up — Most traditional credit cards charge 2–4% on every international transaction, with GST applied on top of the mark-up.
+
+Further, ATM cash withdrawals on a regular credit card overseas attracts a 2.5–3.5% cash advance fee (subject to a minimum), interest from day one until the dues are paid, plus the forex mark-up on the rupee equivalent. Withdrawing the equivalent of ₹20,000 in cash can therefore cost upwards of ₹1,200– ₹1,600 in fees and finance charges alone.
+
+According to Bagree, beyond fees, travellers should also be mindful of Liberalised Remittance Scheme (LRS) limits and TCS, which can apply depending on the nature and value of the transaction.
+
+“Ultimately, travellers should evaluate the total cost — forex mark-up, GST, exchange rate spread, ATM cash withdrawal fees, reload or encashment fees, and applicable taxes — rather than focus on a single line item. Even a 2–4% difference compounds into meaningful savings over the course of an international trip,” according to Bagree.
+
+The bottom line? Choosing the right card means significant savings (2–4% on every international transaction or 6–8% in ATM cash advance fees). “For the frequent travellers, this could add up to a free trip every few years,” he noted.
+
+_**Disclaimer:** This story is for educational purposes only. The views and recommendations made above are those of individual analysts or broking companies, and not of Mint. We advise investors to check with certified experts before making any investment decisions._
+
+### About the Author
+
+Jocelyn Fernandes
+
+Jocelyn Fernandes is a journalist and editor with nearly 13 years of experience covering the business, corporate, economy and markets beats in news.<br> As chief content producer for around three years at Livemint (Hindustan Times), Jocelyn publishes breaking stories, explainers, features and live blogs on a range of business and economy topics, including the Budget, corporate developments, stock markets, income tax, money and personal finance, cryptocurrency, government policy, impact of US tariffs, international developments and more.<br> Jocelyn's writing philosophy is focused on delivering news in an accurate and accessible format for readers. She thus focuses her news coverage on explainers and FAQs in order to breakdown business, corporate, economic, and policy topics that are of importance to everyday readers.<br> She holds a Bachelors in Mass Media (BMM) and Post Graduate Diploma (PGD) in Journalism and Communication and has previously written for online business and markets news site Moneycontrol (Network18), Business-to-business (B2B) trade publications — the industry magazines Power Today and Solar Today (ASAPP Media), and the national news agency United News of India (UNI).<br> Outside of work, Jocelyn keeps up-to-date with local and international news, enjoys reading fiction books, novels and short stories, and enjoys movies, travelling and art. <br> She can be found on X and LinkedIn, and reached by email: <a href="jocelyn.fernandes@htdigital.in">jocelyn.fernandes@htdigital.in</a> <br> X/ Twitter handle: <a href="https://x.com/scribeJocelyn">@scribeJocelyn</a> <br> LinkedIn: <a href="https://in.linkedin.com/in/jocelyn-fernandes-journalist">LinkedIn</a>
+
+---
+
+### The Chennai-born architect behind Trump’s AI push is leaving the White House
+*SECTIONS The Chennai-born architect behind Trump’s AI push is leaving the White House ET Online · business*
+
+Chennai-born technology executive Sriram Krishnan, one of the key figures shaping US President Donald Trump’s artificial intelligence agenda, has announced that he will step down from his role as Senior Policy Adviser for Artificial Intelligence at the White House later this month.
+
+Krishnan, 42, confirmed his departure in a post on X on Saturday, marking the end of an 18-month stint during which he played a central role in drafting the administration’s AI strategy.
+
+  
+
+"I'll be leaving my role at the White House at the end of this month. After a break I'll be working on helping tackle some of the large challenges facing America on AI (more on that later)," Krishnan said.
+
+> 🇺🇸🚀 SOME NEWS: I'll be leaving my role at the White House at the end of this month. After a break I’ll be working on helping tackle some of the large challenges facing America on AI (more on that later).
+> 
+> It is hard to express how big a privilege it has been to serve the…
+> 
+> — Sriram Krishnan (@sriramk) June 6, 2026
+
+During his tenure, Krishnan helped shape the Trump administration’s “AI Action Plan”, which aimed to accelerate the development of artificial intelligence infrastructure in the US while easing regulatory barriers around the emerging technology. He was also involved in crafting an executive order that restricted states from independently regulating AI systems.
+
+"It is hard to express how big a privilege it has been to serve the American people and how grateful I am to have had the opportunity to do so. First and foremost, it has been an honour to serve under President Donald Trump. Without his leadership, we would not be leading in the AI race," Krishnan said.
+
+His exit comes at a time when artificial intelligence policy has become a major focus area for the Trump administration, particularly around data centres, energy requirements and global competition in AI technologies.
+
+David Sacks, co-chair of the President’s Council of Advisers on Science & Technology and a close associate of Krishnan, praised his contribution in a post on X.
+
+"Your skills are genuinely unique: a rare combination of deep technical fluency in AI, sharp policy instincts, exceptional strategic thinking, and true diplomatic talent," Sacks said.
+
+> Thank you @sriramk for this generous post. It has been one of the great privileges of my time in the Administration to work so closely with you over the past 18 months. Your skills are genuinely unique: a rare combination of deep technical fluency in AI, sharp policy instincts,… https://t.co/Wgq7h3R4N3
+> 
+> — David Sacks (@DavidSacks) June 6, 2026
+
+Krishnan said his work at the White House included contributing to the American AI Action Plan, the National AI Policy Framework and AI acceleration partnerships involving US allies.
+
+"The past 18 months have given me a front row seat to this critical moment on AI facing America and our allies. Whether it is energy, data centres or a clear path for Americans to experience the benefits of AI, there are many tough issues we all need to navigate together," Krishnan said.
+
+"I plan on building institutions that help tackle some of those challenges for America and its allies," he added.
+
+Before joining the White House, Krishnan worked as a general partner at venture capital firm Andreessen Horowitz and held roles at Microsoft, Facebook and Twitter. He was also closely associated with Elon Musk and advised him during the 2022 acquisition of Twitter, later rebranded as X.
+
+Born in Chennai in 1984, Krishnan graduated in Information Technology from SRM University in 2005 before moving to the United States to join Microsoft in 2007.
+
+Krishnan’s appointment to the White House had earlier triggered criticism from sections of Trump’s right-wing support base, including activist Laura Loomer, over his reported views on easing pathways for skilled foreign workers and green card caps, positions viewed by critics as inconsistent with Trump’s “Make America Great Again” agenda.
+
+---
+
+### FIIs, weak global cues among 5 factors that could keep D-St under pressure this week
+*Debaroti Adhikary · economy*
+
+The Indian stock market ended last week in the red, with analysts flagging multiple factors that could keep pressure on Sensex and Nifty when trading resumes on Monday.
+
+On Friday, the Sensex closed 117 points lower at 74,243, while the Nifty 50 declined 50 points to settle at 23,367. Among the top laggards on the Sensex were Trent, TCS, Tata Steel, NTPC, HCL Tech, Bharti Airtel, Kotak Mahindra Bank and Reliance Industries, with losses of 1-2%.
+
+Here are five key factors likely to drive the stock market in the week ahead.
+
+**1) Weak global cues**
+
+Wall Street ended sharply lower on Friday, with the tech-heavy Nasdaq plunging more than 4% to log its steepest single-day decline since April 2025, after a stronger-than-expected US jobs report fuelled concerns that the Federal Reserve may keep interest rates higher for longer.
+
+The Nasdaq Composite tumbled 4.2%, dragged down by a more than 6% slide in Nvidia and an almost 8% drop in Broadcom. Broadcom’s weaker-than-expected guidance heightened concerns that AI-driven demand may not expand as rapidly as markets had anticipated. The Dow Jones fell 1.4%, while the S&P 500 dropped nearly 3%.
+
+European markets closed mixed, while Asian equities ended broadly lower. Japan’s Nikkei 225 and Hong Kong’s Hang Seng declined more than 1%, while South Korea’s Kospi plunged nearly 6%. China’s Shanghai Composite also ended about 1% lower.
+
+_
+
+**  
+2) RBI policy impact**  
+Reserve Bank of India (RBI) Governor Sanjay Malhotra on Friday announced that the central bank’s Monetary Policy Committee (MPC) unanimously decided to keep the policy repo rate unchanged at 5.25%, as it assessed the impact of rising energy prices and supply disruptions linked to the West Asia conflict. The RBI also increased the investment limit for Non-Resident Indians (NRIs) and Overseas Citizens of India (OCIs) in equity instruments.
+
+Indian equity markets are likely to remain range-bound next week amid a mix of domestic and global triggers, according to Siddhartha Khemka, Head of Research, Wealth Management, at Motilal Oswal Financial Services.
+
+“While the Reserve Bank of India’s measures to attract foreign capital and the government’s tax relief for foreign investors in government securities could support sentiment, we expect market movement to be driven largely by bottom-up stock picking and sector-specific action in the near term,” he said.
+
+Khemka noted that the central bank raised its FY27 inflation forecast to 5.1% and lowered its FY27 GDP growth projection to 6.6%, reinforcing concerns over energy prices, geopolitical tensions in West Asia and weather-
+
+“If inflationary pressures remain elevated and external risks persist, the possibility of a future monetary tightening cycle could increase, keeping investors cautious. Going forward, investors will closely track energy prices, developments in the West Asia conflict, monsoon progress, FII flows and the impact of RBI’s policy measures for further market direction,” he added.
+
+**3) FII selling continues**  
+Foreign Institutional Investors (FIIs) remained net sellers in the Indian market during the first week of June, offloading shares worth Rs 31,120 crore, according to Pabitro Mukherjee, Deputy Vice President – Research at Bajaj Broking. Domestic Institutional Investors (DIIs), meanwhile, continued to provide support as net buyers.
+
+“Investor sentiment remained subdued amid persistent geopolitical tensions, which kept crude oil prices elevated. Heightened global uncertainty, coupled with prevailing macroeconomic challenges, led to cautious market participation. Going forward, institutional flows are likely to remain highly sensitive to developments in US-Iran relations and movements in oil prices,” he said.
+
+**4) Iran-US tensions**  
+US forces struck Iranian coastal radar sites on Saturday after intercepting drones launched by Iran toward the Strait of Hormuz, the US military said. _Reuters_, citing a US official, reported that the military believes the four Iranian drones were targeting regional maritime traffic. US Central Command said on X that it subsequently struck Iran’s surveillance sites in Goruk and Qeshm Island, both located along the Strait of Hormuz.
+
+Meanwhile, Iran’s Revolutionary Guard Corps said it had targeted US bases in Kuwait and Bahrain in retaliation for the strikes and fired on four tankers attempting to cross the strait without its permission. The developments renewed concerns over escalating tensions in the oil-rich Middle East.
+
+**  
+5) Bond yields**  
+Rising inflation concerns pushed US Treasury yields higher. The yield on the 2-year Treasury note, which is highly sensitive to expectations around Federal Reserve policy, climbed to a 15-month high. Elevated interest rates typically make bonds more attractive relative to equities, weighing on stock market sentiment.
+
+**Technical view on Nifty**  
+The benchmark Nifty index ended lower for the second consecutive week, reflecting the cautious undertone prevailing in the market, said Sudeep Shah, Head of Technical and Derivatives Research at SBI Securities.
+
+According to Rupak De, Senior Technical Analyst at LKP Securities, Nifty 50 has been moving within a defined range as markets digest the RBI’s policy announcement. He noted that sentiment remains weak, with the index continuing to trade below key moving averages. The Relative Strength Index (RSI) also remains subdued, indicating a lack of positive momentum.
+
+“In the near term, the index is likely to consolidate within the 23,300–23,500 range. A decisive breakout above 23,500 could trigger an upmove towards 25,700 and beyond, while a break below the 23,300 support level may result in a sharper correction,” he said.
+
+_(With inputs from agencies)_
+
+_(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)_
+
+---
+
+### US forces shoot down two Iranian attack drones in Strait of Hormuz amid fresh escalation
+*anian attack drones · business*
+
+Florida: The United States military has intercepted and destroyed two Iranian attack drones that posed an immediate hazard to commercial shipping lanes in the Strait of Hormuz, according to an official statement by the US Central Command late Saturday.
+
+The kinetic engagement underscores a fresh escalation of hostilities in West Asia, severely straining the existing ceasefire framework just a day after Iran targeted the strategic waterway and its Gulf neighbours, including Kuwait and Bahrain, with a barrage of missiles and unmanned aerial vehicles.
+
+  
+
+"Earlier today, US forces in the Middle East shot down two Iranian one-way attack drones that threatened international maritime traffic in the Strait of Hormuz," US Central Command announced on its X account.
+
+The military command added that "American forces remain postured and ready to continue defending against Iranian aggression."
+
+This drone interception is part of a broader flare-up of military confrontations between US and Iranian forces in the strategic shipping corridors of West Asia, exposing the extreme fragility of the existing ceasefire and raising significant international concern over a wider regional escalation.
+
+The immediate cycle of friction began early on Saturday, when US forces launched targeted strikes against Iranian coastal radar installations located in Goruk and on Qeshm Island within the critical Strait of Hormuz.
+
+According to US Central Command, this pre-dawn military operation was initiated directly after the interception of earlier Iranian drones that were deemed a threat to maritime traffic in the strategic waterway.
+
+In direct retaliation for those radar strikes, Iran launched a barrage of missiles aimed at US military facilities situated in Kuwait and Bahrain.
+
+Commenting on the defensive situation, Kuwaiti authorities confirmed that seven ballistic missiles crossed over populated areas, resulting in structural damage but causing no casualties, while Bahrain activated its public warning sirens and advised residents to seek shelter immediately.
+
+An official statement from Iran's Revolutionary Guard claimed that its retaliatory strikes successfully targeted American military installations located in both Gulf nations.
+
+However, the US military countered that assessment, stating that six incoming missiles were intercepted by regional air defences, while another failed to reach its intended target.
+
+Despite these intense kinetic exchanges on the ground, parallel diplomatic channels have managed to remain functional, with Pakistan continuing its active diplomatic efforts to bridge differences between the two sides.
+
+As part of this mediation track, PakistInterior Minister Mohsin Naqvi arrived in Tehran on Saturday, carrying what Iranian media described as a special message from Pakistan's military and political leadership for Iran's Supreme Leader, Mojtaba Khamenei.
+
+This high-level political engagement comes amidst reports that broader diplomatic negotiations have slowed down significantly, primarily because Tehran continues to pursue access to its frozen financial revenues, comprehensive relief from international sanctions heavily impacting its oil exports and maritime ports, and ultimate leverage over shipping through the Strait of Hormuz.
+
+Highlighting the scale of the financial deadlock, an adviser to Iran's supreme leader had previously suggested that the release of USD 24 billion in Iranian assets frozen by the United States remained a critical element of any peace arrangement.
+
+The ongoing challenges to the ceasefire are also expanding across multiple fronts beyond the Gulf, notably in Lebanon, where three members of the Lebanese armed forces, including two officers, were killed following an Israeli strike on a military vehicle in the southern region of the country.
+
+Israeli officials stated that they were investigating the circumstances of the incident.
+
+This active front in Lebanon has become increasingly entangled with the wider matrix of US-Iran diplomacy, as Tehran has explicitly linked progress in its ongoing negotiations with Washington to a formal ceasefire involving Israel and Hezbollah.
+
+Conversely, Israel has indicated its intent to continue military operations and maintain its active troop deployment.
+
+Amid these complex diplomatic alignments, Lebanese Army Commander General Rudolf Haykal travelled to Pakistan at the explicit invitation of Pakistan's military chief, a visit that has drawn considerable attention from regional observers monitoring the ongoing efforts involving Islamabad.
+
+The continuing clashes across both the Gulf and Lebanon highlight the immense hurdles currently facing international negotiators who are seeking to transform the volatile ceasefire into a broader and more durable peace agreement.
+
+---
+
+### NEET UG 2026 re-exam: NTA calls paper leak claims fraud, warns students
+*India Today Education Desk · general*
+
+## NTA has dismissed claims of a NEET (UG) 2026 re-exam paper leak as fake and fraudulent. The agency warned of strict action against those spreading misinformation, filed complaints with cybercrime authorities, and urged students to ignore rumours and rely only on official communication channels.
+
+NTA has dismissed claims of a NEET (UG) 2026 re-exam paper leak as fake (Photo: PTI)
+
+The National Testing Agency (NTA) has taken note of messages circulating on social media and messaging platforms claiming that the NEET (UG) 2026 re-examination question paper has been leaked, is available in advance, or is being sold online.
+
+NTA has categorically denied these claims, stating that they are false, fraudulent, and intended to mislead students and their families.
+
+According to the agency, such messages are being spread by organised cheating rackets that exploit the anxiety of aspirants and their parents. Their primary objective is to extort money by selling fake question papers, and NTA has clarified that every such claim currently circulating is fabricated.
+
+> The National Testing Agency (NTA) has noted certain messages circulating on social media and messaging platforms claiming a "leak," advance access, or "sale" of the NEET (UG) 2026 re-examination question paper.
+> 
+> These claims are false, fraudulent, and intended to mislead.
+> 
+> Such— National Testing Agency (@NTA\_Exams) June 6, 2026
+
+### NTA WARNS OF STRICT ACTION
+
+NTA has said that the integrity of the examination process remains fully intact and that all necessary safeguards are in place to ensure a fair and secure examination for every candidate. The agency added that it is actively identifying and reporting the channels, accounts, and content responsible for spreading such claims to the relevant platforms and cybercrime authorities for immediate action and removal.
+
+Further, NTA is filing a formal complaint with law enforcement and cybercrime authorities. The agency said that creating, circulating, or forwarding such fraudulent content, and attempting to defraud students, is a serious, punishable offence. It added that strict action will be taken against those found responsible.
+
+Candidates and parents are strongly advised not to engage with, pay for, or forward any such messages and not to fall prey to these fraudulent solicitations.
+
+NTA has urged all aspirants to ignore these rumours and rely solely on official communications issued through its verified website and channels. The agency stressed that any genuine information regarding the examination will be communicated only through these official sources.
+
+NTA urged candidates appearing for NEET (UG) 2026 to focus on their preparation with confidence, stating that their hard work is what matters. The agency reiterated its commitment to conducting a fair, secure, and credible examination.
+
+\- Ends
+
+Karan Yadav
+
+Jun 7, 2026 09:36 IST
+
+---
+
+### World’s hottest market has Korea bulls reaching for protection
+*SECTIONS World’s hottest market has Korea bulls reaching · economy*
+
+A wave of optimism over South Korean stocks is giving way to growing caution, as some investors hedge positions and pare back crowded trades on concerns that the rally has run too hot, too fast.
+
+Hedge fund Golden Horse Fund Management has trimmed exposure and added derivative protection, while M&G Investments has cut memory and foundry holdings to broaden out down the AI supply chain. A Bloomberg Intelligence analysis of options on the iShares MSCI South Korea ETF shows investors seeking protection against a decline. The fund tumbled 14% Friday in the US.
+
+The moves highlight the challenge facing global money managers. While investors remain upbeat about Samsung Electronics Co. and SK Hynix Inc., the two chip giants that powered Kospi’s more than 90% rise this year, many are becoming pickier about where to put new money and keeping cash ready for opportunities elsewhere.
+
+Friday’s selloff in US tech stocks, driven by fears of higher interest rates, shows how quickly popular trades can unwind once sentiment shifts. That risk could spillover into Korea once local markets open.
+
+“We’ve been trimming gross exposure at the margin and layering derivative protection over the last few weeks,” said Yi Ling Ong, managing partner at Golden Horse Fund. Several large IPOs, including a SpaceX listing this month, could lead to rotation as funds raise cash to participate, making it “prudent to hold some dry powder,” she said.
+
+  
+
+Agencies
+
+Over the past year, Korean stocks captured global attention as a combination of the AI boom and the government’s successful corporate reform propelled the index to new highs. Strong earnings potential continues to underpin bullish sentiment, but the extended rally has led to crowding in a few major players, leaving the market vulnerable to abrupt reversals. The benchmark tumbled 7% at one point on Friday.
+
+The caution is showing up in the derivatives market.
+
+“The debate isn’t whether the Kospi story remains attractive — it’s how to stay invested without giving back a portion of the gains,” said Tanvir Sandhu, global chief derivatives strategist at Bloomberg Intelligence. Options activity in the EWY ETF suggests investors are becoming more cautious, with demand shifting from upside exposure to downside protection, he said.
+
+Some investors are looking for opportunities beyond Samsung Electronics and SK Hynix, whose meteoric rise propelled them into the $1 trillion valuation club and helped Korea briefly overtake India as the world’s sixth-largest stock market.
+
+“The alpha lies lower down the value chain — in the picks-and-shovels of the picks-and-shovels,” said Vikas Pershad, portfolio manager at M&G, referring to companies that benefit from spending on AI infrastructure without being at the heart of the trade.
+
+**Not Bearish**
+
+To be sure, the rotation doesn’t signal investors turning bearish on Korea. Valuations remain cheaper than in rival tech hub Taiwan and investors say the market still offers one of the strongest AI-linked stories in global equities.
+
+At 8.6 times forward earnings, the Kospi trades below its five-year average of 10 times and is much cheaper than Taiwan’s benchmark, which trades at about 20 times, data compiled by Bloomberg show.
+
+Earnings upgrade cycle has also started to broaden. Excluding Samsung and SK Hynix, the rest of the Kospi is now expected to deliver more than 50% profit growth this year, up from just 20% in January, according to Golden Horse Fund.
+
+Agencies
+
+“The speed of the rally has been vertiginous but in this type of market I would rather let the rally continue,” said Rajeev De Mello, global macro portfolio manager at Gama Asset Management SA. “Exiting now will make it very difficult to re-invest later if the market doesn’t correct.”
+
+Still, foreign outflows have become a concern. Global funds have pulled a record $76 billion this year, selling in every session over the past month. While part of the retreat is due to technical limits on single-stock holding, the selling has been absorbed by more fickle retail investors — a dynamic that may heighten volatility.
+
+At the same time, some investors are growing wary of rising retail leverage. The concern is that popularity of leveraged ETFs and the planned weekly single-stock options could amplify swings in an already-volatile market.
+
+While the products are “really interesting” and show retail participation is growing, they also leave the market “in somewhat of a precarious position in case of a reversal,” Stephane Martin, head of derivatives institutional sales for Asia at Optiver, said at a panel discussion at Bloomberg’s Volatility Forum last week.
+
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)
+
+
+---
+
 ## 5 June 2026
 
 ### RBI MPC Meeting 2026: Sanjay Malhotra & Co hold rates steady at 5.25% as oil shock, weak rupee & West Asia war cloud outlook
