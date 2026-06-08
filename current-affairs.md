@@ -1,3 +1,852 @@
+## 8 June 2026
+
+### Scrap Dealer Declares Rs 3 Lakh Income, Gets Rs 44 Lakh Tax Notice; ITAT Steps In
+*Varun Yadav · business*
+
+Scrap dealer Wajeed Khan got a Rs 44 lakh tax demand over Rs 1.28 crore cash deposits, but ITAT, citing consistency with past years, ruled in his favor against the tax department
+
+[Read full article](https://www.news18.com/business/tax/scrap-dealer-declares-rs-3-lakh-income-gets-rs-44-lakh-tax-notice-itat-steps-in-ws-l-10135618.html)
+
+---
+
+### Gold and silver prices today, 8 June: Check retail rates of 24K, 22K gold and 999 silver in Delhi, Mumbai, other cities | Mint
+*Shivam Shukla · economy*
+
+## On 8 June, gold prices fell by 0.94% to ₹1,54,290 per 10 grams, influenced by rising Middle East tensions and higher crude oil prices. Silver also declined by 1.6% to ₹2,45,120 per kg.
+
+Check out gold and silver prices in your city today. (June 8) **(AFP)**
+
+**Gold price today 8 June:** Gold rate declined in morning deals on MCX on Monday, 8 June, due to rising tensions in the Middle East. The uncertainty has resulted in higher crude oil prices and a flat dollar index, as investors carefully wait for the next developments in the ongoing war between US and Israel against Iran.
+
+The prospects of a peace deal between the US and Iran continue to look bleak, due to the most recent developments and the actions of Israel and a counter from Iran.
+
+MCX gold rate today for August futures contracts was trading 0.94% lower at ₹1,54,290 per 10 grams. MCX silver futures, on the other hand, were trading 1.6% lower at ₹2,45,120 per kg at around 9:52 am.
+
+## Important geopolitical developments
+
+### **Foreign investors dump billions of dollars' worth of South Korean stocks this year**
+
+Foreign investors have dumped billions of dollars’ worth of South Korean stocks this year, even as the Kospi has emerged as one of the world’s standout performers thus far, with record year-to-date gains, as per a report by _CNBC_.
+
+On Monday, overseas investors had unloaded a net 1.24 trillion won (about $801 million) worth of Kospi-listed shares as of 11 am Singapore time (11 pm ET Sunday), according to Korea Exchange data.
+
+### **Iran and Israel exchange strikes, threatening fragile ceasefire**
+
+In yet another concerning development, Iran on Sunday fired missiles at Israel, which retaliated with its own strikes as a tenuous ceasefire between Washington and Tehran hangs in the balance, as detailed in a report by _CNBC_.
+
+The reports of missile fire from Iran come after the Iranian Parliamentary Speaker, MB Ghalibaf, said in a post to X that the US “naval blockade and violation of agreements regarding Lebanon” amount to violations of the ceasefire.
+
+### **Oil prices spike over 3% as Iran and Israel trade strikes**
+
+Oil prices rose on Monday amid escalating tensions in the Middle East as Iran and Israel traded missile and air strikes, raising concerns over a fragile ceasefire and an extended conflict.
+
+International benchmark Brent crude futures for July advanced 3.18% to $96.05 per barrel. US West Texas Intermediate futures for August gained 3.46% to $93.67 a barrel.
+
+Here are the most recent price changes in gold and silver across various cities in India.
+
+### **Gold Prices in Mumbai — 8 June**
+
+24 karat gold rate in Mumbai — ₹154,080/10 gm
+
+22 karat gold rate in Mumbai — ₹141,240/10 gm
+
+Silver 999 Fine rate in Mumbai — ₹244,770/1 kg
+
+### **Gold Prices in New Delhi — 8 June**
+
+24 karat gold rate in New Delhi — ₹154,020/10 gm
+
+22 karat gold rate in New Delhi — ₹141,185/10 gm
+
+Silver 999 Fine rate in New Delhi — ₹244,440/1 kg
+
+### **Gold Prices in Bengaluru — 8 June**
+
+24 karat gold rate in Bengaluru — ₹154,410/10 gm
+
+22 karat gold rate in Bengaluru — ₹141,543/10 gm
+
+Silver 999 Fine rate in Bengaluru — ₹245,050/1 kg
+
+### **Gold Prices in Kolkata — 8 June**
+
+24 karat gold rate in Kolkata — ₹154,080/10 gm
+
+22 karat gold rate in Kolkata — ₹141,240/10 gm
+
+Silver 999 Fine rate in Kolkata — ₹244,530/1 kg
+
+### **Gold Prices in Hyderabad — 8 June**
+
+24 karat gold rate in Hyderabad — ₹154,350/10 gm
+
+22 karat gold rate in Hyderabad — ₹141,488/10 gm
+
+Silver 999 Fine rate in Hyderabad — ₹245,410/1 kg
+
+### **Gold Prices in Chennai — 8 June**
+
+24 karat gold rate in Chennai — ₹154,550/10 gm
+
+22 karat gold rate in Chennai — ₹141,671/10 gm
+
+Silver 999 Fine rate in Chennai — ₹245,740/1 kg
+
+---
+
+### 'Rahul Gandhi Lacks Consistency': Poster War Turns Up Heat Ahead Of INDIA Bloc Meet In Delhi
+*Vani Mehrotra · general*
+
+Ahead of the INDIA bloc's first formal meeting in over a year, posters carrying opposition leaders' remarks on Rahul Gandhi appeared across key locations in Delhi.
+
+[Read full article](https://www.news18.com/india/india-bloc-meeting-delhi-posters-against-rahul-gandhi-opposition-alliance-congress-mamata-banerjee-sharad-pawar-arvind-kejriwal-ws-l-10135783.html)
+
+---
+
+### Anshul Kuncha Murder: Duo Caught On Cam Ordered The Pizzas? Philly Cops Announce $20K Reward
+*Nitya Thirumalai · general*
+
+Who ordered the pizzas? Philadelphia Police have announced a $20,000 reward as investigators probe the killing of Hyderabad native Anshul Kuncha during a delivery
+
+[Read full article](https://www.news18.com/cities/hyderabad-news/hyderabad-student-anshul-kuncha-murder-who-ordered-pizzas-cctv-footage-philadelphia-police-probe-ws-l-10135726.html)
+
+---
+
+### NEET Re-examination: What steps has NTA taken to ensure fool-proof security of question papers amid leak claims?
+*Varsha Agarwal · general*
+
+NTA has built a multi-layer security system for NEET-UG 2026 re-exam after the leak controversy. Here, know what security measures are taken by the authorities after the leak controversy cancelled the May exam.
+
+NEET-UG 2026 re-examination will be conducted in pen-and-paper mode on June 21(Source: AI-generated image)
+
+The NEET-UG 2026 re-examination will be conducted in pen-and-paper mode on June 21 from 2 pm to 5.15 pm. Ahead of the examination, the National Testing Agency have enforced stringent measures to restore trust and confidence after the leak controversy that has led to several suicides and political and social outrage. 
+
+## **Re-NEET 2026: What steps has NTA  taken to ensure the security of question papers**
+
+With the NEET-UG 2026 re-examination just a few weeks away, authorities have directed every expert involved in setting, moderating and translating the NEET re-exam question paper to move to a secure and undisclosed location. They are placed under strict lockdown until the examination concludes on June 21. Only authorised personnel have access to the premises. Usage of phones, laptops, internet access and virtually all outside communication has been restricted under an unprecedented security protocol. The measures come into place after paper leak allegations forced the cancellation of the original test and affected more than 22 lakh candidates.
+
+NTA has built a multi-layer security system for NEET-UG 2026 re-exam after the leak controversy. Every stage - from question creation, translation, printing, packaging, storage, transport, to distribution - is under tighter scrutiny with compartmentalised access so no one person sees the full chain. Transport is getting high-security treatment, including possible use of Indian Air Force aircraft. The Education Ministry and NTA say they’ve reviewed past vulnerabilities and added safeguards to improve confidentiality and accountability.
+
+## **NEET re-exam paper leak claims: NTA urges students to ignore rumours**
+
+National Testing Agency (NTA) has issued a warning to students, urging them to ignore social media rumours alleging a "leak" or "sale" of the upcoming NEET (UG) 2026 re-examination question paper. The testing agency labelled such claims as "false, fraudulent, and intended to mislead".
+
+In a post on X, the NTA said that these tactics are the work of "organised cheating rackets" aiming to exploit the anxiety of students and are part of a scam designed to "extort money".
+
+"The National Testing Agency (NTA) has noted certain messages circulating on social media and messaging platforms claiming a "leak," advance access, or "sale" of the NEET (UG) 2026 re-examination question paper. These claims are false, fraudulent, and intended to mislead. Such content is the work of organised cheating rackets that prey on the anxiety of students and their families. Their objective is to extort money by selling fake "papers," and every such claim circulating is a fabrication," the NTA said.
+
+Further, NTA said that they are "actively identifying and reporting the offending channels, accounts, and content to the concerned platforms and to cybercrime authorities for immediate takedown and action." "NTA is filing a formal complaint with law enforcement and cybercrime authorities. Creating, circulating, or forwarding such fraudulent content -- and attempting to defraud students -- is a serious punishable offence, and strict action will be taken against those responsible," the post said.
+
+(With inputs from ANI)
+
+---
+
+### I asked ChatGPT to assign every rupee of my salary a job: AI suggests zero-based budgeting | Mint
+*Sounak Mukhopadhyay · economy*
+
+I asked ChatGPT to assign every rupee of my salary a job. A large chunk of my salary keeps sitting in my savings account earning poor interest. I asked AI to help me invest and allocate every rupee intelligently.
+
+## My ChatGPT Prompt
+
+I want ChatGPT to act as a personal finance decision-maker, behavioural economist, and wealth-allocation coach.
+
+Help me build a zero-based budgeting system where every rupee of my income is assigned a purpose, rather than passively sitting in my savings account.
+
+Money enters my account and stays there because:
+
+-   I delay investing
+-   I feel uncertain
+-   I wait for the “right time”
+-   I keep large balances for comfort
+
+Eventually, I lose track of what the money was supposed to do. I want a realistic and psychologically-sustainable money system.
+
+Please assume:
+
+-   I live in India
+-   I am 32; my wife is 27
+-   I earn a ₹8 LPA salary
+-   My income arrives monthly
+-   I already keep too much idle cash
+-   I want liquidity, but not laziness
+-   I want flexibility without waste
+-   I still want guilt-free spending
+
+Please first help me audit my current financial behaviour.
+
+### Income
+
+Monthly take-home: ₹8 LPA (zero tax)
+
+Bonuses: None
+
+Spouse income: ₹3.6 LPA
+
+Side income: None
+
+### Current Assets
+
+Savings account balance: ₹71,000
+
+Emergency fund: Same as my savings balance
+
+FDs: None
+
+Mutual funds: ₹44,000 (SIPs ₹2,000 every month)
+
+Stocks: None
+
+EPF: ₹1.07 lakh
+
+PPF: None
+
+NPS: None
+
+Cash reserves: None
+
+### Existing Obligations
+
+Rent: None, own house
+
+EMIs: ₹8,000 (Home appliances)
+
+Insurance: ₹2,600 (paid monthly)
+
+Subscriptions: ₹800 (OTT)
+
+Family support: ₹10,000 (for parents)
+
+Annual expenses: ₹50,000 (Travel)
+
+### Goals
+
+Emergency fund: 6-month salary
+
+House: Maybe after 5 years
+
+Retirement: No planning yet
+
+Travel: An international trip in a couple of years
+
+Education: Not immediately, my baby is 2 years old
+
+Business: None
+
+Early retirement: Haven’t thought about it
+
+Please specifically answer:
+
+-   How much cash should realistically remain in savings?
+-   At what point does liquidity become laziness?
+-   Should I invest monthly or accumulate first?
+-   Should annual expenses remain invested?
+-   How much “sleep well at night” money should I keep?
+
+Estimate:
+
+-   Expected return difference
+-   Flexibility
+-   Psychological stress
+-   Wealth creation impact
+
+Do not push risky investing. Help me build a practical zero-based budgeting system where every rupee has a job without making life feel restrictive.
+
+## ChatGPT’s Response
+
+You do not have a spending problem. You have a capital sitting idle problem. At 32, with a house already owned, dual income, low EMIs and a young child, your biggest financial risk is not overspending. It is under-compounding. The good news is that your situation is genuinely straightforward to fix.
+
+Your household earns around ₹96,700 per month. Your salary contributes around ₹66,700, and your spouse adds ₹30,000. Your known fixed outflows total roughly ₹25,600 monthly.
+
+That covers your EMI of ₹8,000, insurance at ₹2,600, OTT subscriptions at ₹800, parents at ₹10,000, and a travel reserve of ₹4,200.
+
+Even after accounting for ₹35,000 to ₹40,000 in daily household living costs, your likely monthly surplus is ₹30,000 to ₹40,000. Your money is not disappearing. It is simply waiting with no direction.
+
+Your total investable wealth stands at approximately ₹2.22 lakh. That includes ₹71,000 in savings, ₹44,000 in mutual funds, and ₹1.07 lakh in EPF. Your idle cash ratio is around 32%. Your investment ratio is low. Your retirement allocation is almost absent. The diagnosis is not that you are reckless. You are simply too cautious. That caution is costing you compounding years you cannot recover.
+
+Your emergency fund target should be ₹3 to ₹4 lakh, not ₹4.8 lakh. Since your spouse also earns, a six-month single salary target is higher than necessary.
+
+## Zero-Based Allocation System
+
+Every rupee needs a job. Here is how to assign them across your ₹96,700 monthly inflow.
+
+Survival expenses account for 45%, or approximately ₹43,500. This covers food, utilities, insurance, EMIs, and parents. Stability takes 15%, around ₹14,500. Direct ₹10,000 toward your emergency fund each month until it reaches ₹4 lakh. Then, stop.
+
+Wealth creation takes 25%, approximately ₹24,000. Increase your SIP from ₹2,000 to ₹15,000 immediately. Allocate ₹5,000 to retirement and ₹4,000 to long-term investing. Future goals take 10%, around ₹9,500.
+
+Split this among international travel, your child's future, and a house upgrade. The final 5%, roughly ₹5,000, is your freedom money. Spend it without guilt or justification.
+
+### Automate Everything
+
+Remove financial decisions entirely from your daily life. On Day 1, send ₹15,000 directly to your SIP. On Day 2, move ₹10,000 to your emergency fund. On Day 3, transfer ₹5,000 to your travel fund. Let everything else stay for living expenses. No decisions required after that.
+
+### How Much Cash Should You Keep?
+
+Keep ₹75,000 to ₹1 lakh in your savings account for daily life. Build your emergency fund separately to ₹3 to ₹4 lakh. Anything beyond that should be deployed.
+
+Liquidity becomes laziness when your cash exceeds three months of spending, and you cannot explain why it is sitting there.
+
+### Recommended Approach
+
+Keep ₹3 lakh in cash, run a monthly SIP of ₹15,000 to ₹20,000, and maintain a ₹5,000 travel allocation. This delivers low to medium stress with strong long-term wealth creation. Your sleep-well number is ₹1 lakh in savings plus ₹3 lakh in emergency funds.
+
+Set up four separate accounts. One for salary, one for bills, one for goals, and one for investments. Review cash flow monthly, asset allocation quarterly, and life goals annually.
+
+Your problem is not that your money earns low returns. Your problem is that your money currently has no identity. Giving every rupee a job will reduce more financial anxiety than chasing higher interest rates ever will.
+
+_**Disclaimer:** This article contains AI-generated analysis and is intended only for informational and educational purposes. It should not be treated as financial, investment, tax, insurance, legal or retirement advice. Consult a financial adviser before making investments._
+
+---
+
+### Masked Visitors, 30 Minutes, 1,400-Km Journey: How DU Professor's Murder Unfolded
+*Shobhit Gupta · general*
+
+According to the police, the accused couple had been living since 2023 in Paul's ancestral property in Burdwan.
+
+[Read full article](https://www.news18.com/india/masked-visitors-30-minutes-1400-km-journey-how-du-professors-murder-unfolded-ws-l-10135716.html)
+
+---
+
+### Rope-less free fall activity in Rishikesh sparks concern over tourist safety
+*India Today Trending Desk · general*
+
+## A viral video of a rope-less jump in Rishikesh has sparked questions over how the activity is being run. The reaction has renewed concern over safety checks, approvals and accountability in India's adventure tourism sector.
+
+A video showing a rope-less jumping activity in Rishikesh has invited backlash from the internet. (Photo: X)
+
+A viral video from Rishikesh has started a conversation about safety in India's booming adventure tourism industry after viewers were left stunned by an extreme activity that appears to involve participants being dropped from a significant height with no visible ropes or harnesses attached.
+
+The clip shows people attempting a SCAD (Suspended Catch Air Device) jump, an adventure sport in which participants free-fall before landing in a specially designed safety net. Unlike bungee jumping, where jumpers remain connected to a cord throughout the experience, SCAD jumping relies entirely on the net below to absorb the impact of the fall.
+
+As the video spread across social media, many users reacted with concern rather than excitement. Several questioned whether the activity was being conducted under adequate safety protocols, pointing out that even a minor misalignment during the fall could potentially lead to serious injuries.
+
+**See the viral clip here:**
+
+> Saw this "Adventure Sport" video from Hrishikesh
+> 
+> Is this safe???? No rope, no safety guards. One wrong fall can damage your neck & spine for life
+> 
+> Are these activities approved by any official authorities? pic.twitter.com/ICv639seDB— Arnaz Hathiram Jain (@ArnazHathiram) June 6, 2026
+
+Others wondered what emergency measures would be available if something went wrong. Questions were raised about the presence of trained rescue personnel, medical preparedness, equipment inspections and whether the operators conducting the activity had received the necessary certifications and approvals.
+
+One social media user summed up the concerns by writing, "No adventure ride is safe in India. No regulation, periodic check and no accountability and in case of mishap owners are just free with court case lingering for decades."
+
+The viral debate has also reignited broader concerns surrounding adventure tourism in India. Over the past few years, several incidents involving ziplining, trekking, paragliding and other high-risk recreational activities have prompted calls for stricter oversight and uniform safety standards across the sector.
+
+While adventure sports are designed to offer an adrenaline rush, many online users argued that thrill should never come at the expense of safety. Some called for authorities to publicly clarify the safety framework governing such activities, while others urged tourists to thoroughly research operators and safety records before participating.
+
+\- Ends
+
+Srimoyee Chowdhury
+
+Jun 8, 2026 10:14 IST
+
+---
+
+### Rupee Falls 17 Paise Against Dollar As Oil Prices Surge, West Asia Tensions Weigh
+*Mohammad Haris · business*
+
+The US dollar index, which tracks the American currency against a basket of six major peers, rises 0.42 per cent to 95.33.
+
+[Read full article](https://www.news18.com/business/economy/rupee-falls-17-paise-against-dollar-as-oil-prices-surge-west-asia-tensions-weigh-ws-l-10135758.html)
+
+---
+
+### Forced Conversion? Muslim girl, father arrested for 'coercing' Hindu boy to embrace Islam, details here
+*DNA Web Team · general*
+
+## Forced Conversion? Muslim girl, father arrested for 'coercing' Hindu boy to embrace Islam, details here
+
+Physiotherapist Chandni Qureshi and her father have been arrested in Uttar Pradesh after a businessman alleged that his son was coerced into converting to Islam and changing his identity.
+
+A physiotherapist from Uttar Pradesh has been arrested along with her father after a businessman alleged that his son was coerced into changing his religion and distancing himself from his family as part of a larger conspiracy.
+
+The case, which is being investigated under Uttar Pradesh's anti-conversion law, has drawn attention after police arrested Chandni Qureshi and her father, Islam Qureshi, based on a complaint filed by Shamli businessman Devaraj Malik.
+
+**Who Is Chandni Qureshi?**
+
+According to the FIR, Chandni Qureshi is a physiotherapist who first came into contact with Ayush Malik in 2018 when he visited a local hospital for treatment of a leg injury. Police documents state that the two gradually developed a relationship over the years. The complainant has alleged that Chandni and members of her family later influenced Ayush to embrace Islam.
+
+Beyond these details, police have not publicly released extensive information about Chandni Qureshi's personal or professional background.
+
+**What Are The Allegations?**
+
+The complaint was filed by Devaraj Malik, who alleged that his son, a B-Pharma graduate involved in managing the family's medical store business, was persuaded to convert to Islam. According to the FIR, Ayush was allegedly taken to Delhi in 2023, where he was converted and given the name Mohammad Ali.
+
+The complaint further alleges that a nikah ceremony was conducted in Delhi. However, police sources have said that no marriage certificate has been recovered so far during the investigation.
+
+**Family Alleges Property-
+
+Devaraj Malik has claimed that the alleged conversion was not merely religious in nature but part of a wider conspiracy linked to gaining control of family assets worth crores of rupees. He approached police after learning about what he described as significant changes in his son's identity, lifestyle and religious practices.
+
+According to police sources, Ayush allegedly adopted Islamic customs, including growing a beard, offering namaz five times a day and changing his style of dressing.
+
+**Police Arrest Chandni And Her Father**
+
+Acting on the complaint, Uttar Pradesh Police arrested Chandni Qureshi and her father, Islam Qureshi. A case has been registered under relevant provisions of the Bharatiya Nyaya Sanhita (BNS) and the Uttar Pradesh Prohibition of Unlawful Conversion of Religion Act.
+
+Apart from the two arrested accused, several members of the Qureshi family and two unidentified clerics have also been named in the FIR.
+
+**SIT Formed To Probe Wider Links**
+
+Police say the investigation is still at an early stage and are examining whether other individuals were involved.
+
+"We have constituted an SIT and LIU teams are investigating the matter. We will conduct a thorough enquiry to determine how far the links of this case extend and what its deeper aspects are. Further action will be taken accordingly," SP Narendra Pratap Singh said.
+
+Investigators have formed multiple teams to locate and question the remaining accused named in the case.
+
+**Investigation Underway**
+
+The allegations made in the FIR are currently under investigation, and police have not yet presented evidence in court to substantiate the claims. Authorities say further action will depend on the findings of the SIT probe.
+
+The case has once again brought focus on Uttar Pradesh's anti-conversion law, which has been invoked in several high-profile cases in recent years.
+
+---
+
+### Short staff, ancient equipment challenges before Delhi Fire Service as scrutiny mounts
+*Pti · business*
+
+New Delhi: Delhi's fire fighting force, DFS is battling staff shortage as well as poor communication systems, amid a scrutiny in the wake of recent tragedy in Malviya Nagar that has claimed 22 lives.
+
+Sources in Delhi Fire Service (DFS) said that more than one-fourth of sanctioned posts of firefighters are vacant at the department.
+
+Official data reveal 853 firefighter posts, out of the 3,312 sanctioned, are currently vacant. Also, out of 90 sanctioned posts of station officers, only 18 are occupied.
+
+  
+
+The last direct recruitment for the position was held more than a decade ago in 2011, sources said.
+
+A fire risk and infrastructure assessment commissioned by the Ministry of Home Affairs (MHA) in 2011 flagged significant deficiencies in Delhi's firefighting infrastructure, manpower, and emergency response systems.
+
+The DFS uses a decades old wireless system which the current government is now considering to upgrade.
+
+The department continues to use two very high frequency (VHF) channels, 148.525 MHz and 148.725 MHz. While the radio sets have been upgraded over the years and are now digital mobile radio devices, the communication architecture remains largely unchanged.
+
+Delhi Fire Service introduced wireless communication system in 1969, since then no revamping or upgradation of the wireless frequencies has been carried out, sources said.
+
+Over a period of time due to highrises coming up in Delhi, the communication network increased from 17 fire stations to 71 fire stations.
+
+Due to these two vital factors - line of sight and access coverage became beyond the capacity of the existing system.
+
+The shortcomings have led to poor communication between fire control rooms and fire stations, and their communications with the firefighters, sources added.
+
+---
+
+### Despite an Amazon offer, techie says applications still end in rejection: Reddit explains how to leverage engineer role for better opportunities
+*Trending Desk · business*
+
+Landing a job offer from a US tech giant Amazon is often seen as a major achievement for software engineers. But does having an offer from one of the world's biggest tech companies automatically open doors elsewhere?
+
+That question recently sparked a discussion on Reddit after a software engineer with an Amazon India offer shared their dilemma. Despite securing a Software Development Engineer (SDE) 1 role at Amazon, the user said they were still receiving rejection emails or no responses from other product-based companies they were applying to.
+
+**
+
+  
+
+## Amazon Offer in Hand, But Job Hunt Continues
+
+The Reddit user revealed that they have 1.8 years of experience and currently hold an offer from Amazon India for a Software Development Engineer (SDE 1) position.
+
+**  
+However, their goal is not just to join Amazon but also to explore opportunities at other product companies, potentially securing a stronger offer or finding a role that aligns better with their career plans.
+
+The user wrote:
+
+"Currently I hold an offer from Amazon India (SDE 1 role) and I have 1.8 yoe. My goal is to use this offer to get interview opportunities or potentially better offers from other product-based companies." Despite the strong credential, the engineer said applications were still resulting in rejections or silence from recruiters.
+
+## Questions That Sparked Discussion
+
+Seeking practical advice from professionals who had gone through a similar experience, the user asked:
+
+"How did you approach recruiters?"
+
+"Did you apply through referrals, LinkedIn, cold emails, or career portals?"
+
+"At what stage did you mention your existing offer?"
+
+"Is there any effective strategy to get faster interview callbacks when holding an offer from a top company?"
+
+The post quickly attracted responses from software engineers, recruiters and job seekers who shared their own experiences of navigating the competitive tech hiring market. "That might be because your company isn't very well known. Getting into Amazon is easier (surviving isn't easy) than getting into other companies that offer similar compensation. For now, you can join Amazon and keep looking for other opportunities," a netizen adviced.
+
+"Join Amazon and try to join better companies as a SDE2 when you have 3 yoe," another comment read.
+
+> Holding an Amazon India offer but still getting rejections from other product companies — how can I leverage it effectively?  
+> byu/Sad\_Independent\_2084 indevelopersIndia
+
+## Why an Amazon Offer May Not Guarantee More Interviews
+
+Several commenters pointed out that while an Amazon offer can strengthen a candidate's profile, it does not automatically translate into interview calls from other companies.
+
+Many firms continue to evaluate applicants based on factors such as skill fit, relevant experience, hiring requirements and the specific role being filled. Others noted that recruiters often receive thousands of applications, making referrals and networking just as important as a strong offer letter.
+
+## Strategies Suggested by Professionals
+
+Among the common suggestions discussed were:
+
+**Use Referrals Wherever Possible  
+**  
+Many users said employee referrals remain one of the most effective ways to get a resume noticed. Rather than relying solely on career portals, candidates were advised to connect with employees working at target companies.
+
+**Reach Out to Recruiters Directly**
+
+Some professionals recommended contacting recruiters on LinkedIn with a concise message highlighting experience, current role and the Amazon offer.
+
+The idea is not to lead with the offer itself but to use it as supporting information once a conversation begins.
+
+**Mention the Offer at the Right Time  
+**  
+A recurring theme in the discussion was timing. Several users suggested mentioning an existing offer after establishing interest from a recruiter rather than including it in the first message.
+
+Doing so can sometimes create urgency if a company is actively hiring.
+
+**Highlight Deadlines**
+
+If an offer comes with an acceptance deadline, candidates can politely communicate that timeline to recruiters. This may help accelerate interview scheduling in some cases.
+
+**A Competitive Hiring Market  
+**  
+The Reddit discussion also reflected a broader reality in the technology sector. Even candidates with offers from leading companies can face challenges when applying elsewhere, particularly in a market where employers are becoming more selective.
+
+For many engineers, networking, referrals and targeted applications continue to play a bigger role than brand names alone.
+
+The conversation highlights a common misconception among job seekers—that a prestigious offer automatically unlocks opportunities everywhere else.
+
+---
+
+### Venus-Jupiter Conjunction 2026: 8 Stunning Facts To Watch On June 9
+*Nibandh Vinod · lifestyle*
+
+A rare Venus-Jupiter conjunction lights up the sky on June 9, 2026. Explore 8 facts, best viewing times, and photography tips for this celestial event.
+
+[Read full article](https://www.news18.com/photogallery/astrology/horoscope/venus-jupiter-conjunction-2026-impact-on-zodiac-signs-ws-e-10135756.html)
+
+---
+
+### A year on, Air India crash victims' father rebuilds life, says son kept his promise even after death
+*Pti · business*
+
+Ahmedabad: Nearly a year after the Ahmedabad plane crash snatched away his filmmaker son Mahesh Jirawala, who had promised to rebuild the family's life, 62-year-old Girdharbhai Kalawadia still struggles to accept the loss.
+
+Yet, sitting inside the modest two-bedroom flat bought with compensation received after the tragedy, the grieving father says his son ultimately fulfilled that promise, even in death.
+
+Today, Girdharbhai shares the flat in the Naroda area here with his wife, younger son Kartik and granddaughter, as the family makes a slow, fragile attempt to put life back on track after the tragedy. Still, Mahesh's absence continues to haunt them every day.
+
+  
+
+"We are trying to pick up the pieces. But how can parents forget their son? Every evening, I still feel he will return home," an emotional Girdharbhai told PTI ahead of the first anniversary of the June 12 tragedy.
+
+"Mahesh always told me not to worry. After my heart surgery, he promised he would clear all our debts and buy a house for the family. Today, because of him, we are living in our own home. My son fulfilled his promise even after his death," the distraught father said.
+
+Mahesh Kalawadia, also known as Mahesh Jirawala, was among the 260 persons killed when Air India flight AI-171 crashed into a medical hostel complex in Ahmedabad's Meghaninagar area shortly after take-off for London Gatwick last year.
+
+The 34-year-old filmmaker, who produced and directed Gujarati songs and albums, was among the 19 persons killed on the ground after the aircraft crashed and burst into flames near the road where he was passing by on his scooter while returning home.
+
+Recalling the days before the tragedy, Girdharbhai said he had suffered a heart attack barely two weeks before the plane crash.
+
+"I was a diamond worker at a polishing unit. After my surgery, I could no longer work. Mahesh told me to retire and rest at home. He said he would take responsibility for the family and buy our own house before Diwali," he said.
+
+At the time, the six-member family, comprising Mahesh, his wife Hetal, his parents, younger brother Kartik and the latter's six-year-old daughter, lived in a rented house in Ahmedabad's Naroda area and was struggling with mounting debt.
+
+Following Mahesh's death, the family received a collective compensation of Rs 1.29 crore from Air India, the Tata Group and the Gujarat government.
+
+According to Girdharbhai, Mahesh's wife got Rs 54 lakh from the compensation amount and later moved to her parental home.
+
+"Mahesh had got married just three months before the tragedy. Kartik had divorced earlier and now his daughter lives with us," he said.
+
+From the remaining compensation amount, Girdharbhai said the family first repaid debts of nearly Rs 15 lakh.
+
+"Then I bought this flat in the Naroda area for around Rs 45 lakh and fulfilled my son's wish. Around Rs 10 lakh was spent on furniture, while Rs 5 lakh was kept aside for my granddaughter," he said.
+
+"Now nothing is left from that money, but I have peace that Mahesh ensured dignity for his family," he remarked.
+
+His younger son has now opened a hair-cutting salon in the same residential complex in an effort to stabilise the family's finances.
+
+"Kartik is slowly settling in his profession and we are hoping to get him remarried soon so that life can move forward," Girdharbhai said.
+
+He remembered how Mahesh always prioritised the family's well-being and dreamt of giving his parents a secure life.
+
+"Mahesh worried about everyone - his parents, brother and daughter. Whatever dignity we have today is because of him only," he added.
+
+---
+
+### From Kargil to IIT: Isma Jabeen beats the odds, clears JEE Advanced with AIR 723
+*Sheen Kachroo · legal*
+
+Drass is known for two things: bitter cold and the memory of war. It is not a place people associate with IIT. But this year, a 20-year-old girl from Khunda village in Drass sat for JEE Advanced and, in her second attempt, she came out with AIR 723, making her one of the few girls from Ladakh to clear the exam.
+
+In conversation with indianexpress.com, JEE ranker Isma Jabeen shares that she is the first person in her family to have not just appeared for but cleared JEE Advanced. She is aware of what that might mean for those who come after her – siblings, neighbours, younger students in Kargil and Drass who may not have known the exam existed until now.
+
+**Read | No relaxation in 75% rule for JEE admissions, says IIT Roorkee**
+
+“I feel that now everyone has come to know a little more about (JEE) Advanced, and they will go, they will research, and they will definitely join,” she says.
+
+## **Weighing options**
+
+With AIR 723, Isma was initially weighing her options between Civil Engineering and Computer Science. The choice, she explains, was shaped by where she intends to end up.
+
+“I want to live in Ladakh. In Ladakh, there isn’t much scope for Computer Science, and there aren’t any private companies here, so that’s why I am oriented towards civil,” she says. Civil Engineering, in a Union Territory with massive infrastructure needs and ongoing development work, makes practical sense for her and her parents.
+
+**Read | No data breach: IIT Roorkee refutes privacy violation claims affecting JEE Advanced 2026 students**
+
+Story continues below this ad
+
+She is open to internships abroad, even to spending time outside Ladakh for studies, but only for a while. “At the end, I want to come back to Ladakh.”
+
+When asked if there is family pressure behind that, she responds, “No, it’s my own decision. I am comfortable here, and I don’t want to leave this place for my whole life. I can’t live outside.”
+
+## “Why don’t you join medical?”
+
+Isma claims that she is one of only two girls from Ladakh to have cleared JEE Advanced this year. This holds special significance in Drass, where awareness about the exam is still nascent, where internet connectivity can disappear with a snowfall, and where the advice for a girl who is good at Biology is to become a doctor.
+
+**Read | House painter’s son overcame financial hurdles to crack JEE Advanced 2026**
+
+Story continues below this ad
+
+Isma heard that advice too. More than once. “Some people did tell me that if your Biology is so good, then why don’t you join medical? Go into the medical field; there is a lot of scope there,” she recalls.
+
+“But later on, I didn’t really listen to them,” she says.
+
+For her, it was a small act of defiance, but her family was never the problem. “My family was quite supportive. They didn’t really have any negative reaction.” That support, she says, made all the difference, not just in the JEE Advanced results, but in how she experienced the two attempts leading up to IIT.
+
+Isma first heard about JEE in Class 10, when she knew she wanted to do something in Mathematics. She finished Class 12 from JKBOSE in 2025 and took a drop year, joining RISE coaching.
+
+Story continues below this ad
+
+## Preparing at the edge of the map
+
+Drass is one of the coldest inhabited places in the world. It sits in the Kargil district of Ladakh, far from the infrastructure that most JEE aspirants use in Delhi or Kota. Connectivity is unreliable. There are no big coaching institutes. The peer group chasing IIT seats is small.
+
+For most students, this would read as a list of disadvantages. Isma sees it differently.
+
+“Because in Kota all the kids are competing, so at least, staying in Drass I was on a safer side,” she says when asked how preparing in Drass was an advantage for her than in Kota or Delhi.
+
+Story continues below this ad
+
+“If maybe I were somewhere else, I would feel stress there, and then I would give up, but since I was here, I was close to my family, so it helped to stay away from the rat race.”
+
+She did not keep a small phone or cut herself off from social media. She did not study 12 or 13 hours a day. Her preparation philosophy was different from other toppers, and that was, “Keep revising in early stages, don’t create any backlog, don’t do too much, but keep reading consistently.”
+
+There were hard moments – stretches where she just wanted it to be over. “In many stages, it feels like, let it just be over now, when will it end!” she says. “Then it just passes like that.”
+
+## The drop year
+
+“Everyone was like, ‘Why are you wasting a year? Why are you doing this? Join some college,’,” Isma recalls.
+
+Story continues below this ad
+
+She had backup plans – she had filled forms for CUET and IISER, and her JEE Main score of 91 percentile would have fetched her a decent NIT. But she held her ground, and her family supported her. “In the end, my family was supportive, so it turned out well,” she says.
+
+Her message to students in Kargil and Ladakh who want to follow a similar path is, “Don’t listen to society too much, do what you want, and just go and do it. That’s it.”
+
+---
+
+### INDIA Bloc Meet Live Updates: 23 Opposition Parties Set To Discuss Road Ahead In Delhi Today. Will DMK, TVK Join?
+*Shuddhanta Patra · general*
+
+INDIA Bloc Meet Live Updates: Among those expected are Rahul Gandhi, Mallikarjun Kharge, Mamata Banerjee, Abhishek Banerjee, Akhilesh Yadav, Tejashwi Yadav, Uddhav Thackeray.
+
+[Read full article](https://www.news18.com/india/india-bloc-janbandhan-meeting-live-updates-congress-tmc-sp-rahul-gandhi-kharge-mamata-banerjee-akhilesh-yadav-uddhav-thackeray-opposition-constitution-club-liveblog-10135759.html)
+
+---
+
+### Strong winds send ground equipment crashing into planes at Delhi airport. Watch
+*Trends Desk · legal*
+
+Two of the damaged aircraft are expected to return to service within the next few days (Photo: @27saurabhsinha/)
+
+A sudden storm and heavy rain caused ground support equipment to break loose and collide with parked aircraft at Indira Gandhi International Airport in Delhi Sunday. According to Delhi International Airport Limited (DIAL), three narrow-body aircraft operated by Air India were damaged in the incident.
+
+The PTI reported that the incident occurred around 4.40 pm at aircraft parking bays near Terminal 2, following a sudden change in weather in the national capital. According to airport officials, equipment, including a step ladder and trestles used by ground handling and engineering teams of Air India and IndiGo, shifted from their positions due to strong winds and struck the parked aircraft.
+
+DIAL said all three affected Air India A320 aircraft were immediately withdrawn from operations for inspection and repairs.
+
+The viral video captured the moment the ground support equipment was blown away by strong winds. Airport staff could be seen running behind the equipment to avoid damage.
+
+**Watch here:**
+
+> HEART STOPPING MOMENT AT DELHI AIRPORT T2.  
+> FIRST FOOTAGE.  
+> 3 Air India aircraft parked at Delhi Airport’s Terminal 2 were damaged after ground equipment broke loose during a sudden storm and slammed into the planes. Sources claim no prior ATC weather warning was issued to airlines… pic.twitter.com/c8Y9pl9RX9
+> 
+> — Rahul Shivshankar (@RShivshankar) June 8, 2026
+
+The video has since gone viral, drawing numerous reactions.
+
+“The ground staff who ran into the storm to stop those step ladders showed great bravery. ATC failing to report such a natsy storm to the Airlines and Airport operators is worrying as well as seriously case of service deficiency. People’s lives were put on risk because they failed to report the storm in advance,” a user wrote.
+
+“No brakes on these equipments! What a careless way to handle operations at an airport!” another user commented.
+
+“Not the first time this has happened. Met officials are primarily responsible in not predicting this weather disturbance,” a third user said.
+
+Story continues below this ad
+
+As per PTI, two of the damaged aircraft are expected to return to service within the next few days, while the third aircraft suffered more substantial damage and could remain grounded for a longer duration.
+
+The news agency said Air India declined to officially comment on the incident.
+
+An airline source told PTI that aircraft from other operators were also affected by the severe weather.
+
+---
+
+### INDIA bloc Meeting Live Updates: 23 Opposition parties meet in Delhi to rebuild alliance against BJP
+*Unknown · legal*
+
+Leaders including Rahul Gandhi, Mallikarjun Kharge, Mamata Banerjee, Akhilesh Yadav, Tejashwi Yadav and Uddhav Thackeray are expected to attend the gathering. (Source: File)
+
+**INDIA bloc Meeting LIVE:** Twenty-three opposition parties are gathering in Delhi on Monday, aiming to reset strategy against the BJP after a series of electoral setbacks. The discussions are expected to focus on rebuilding coordination, preparing for upcoming state elections and the 2029 Lok Sabha contest and presenting a united front on issues ranging from inflation and unemployment to electoral reforms. Congress leaders have stressed that despite differences, the coalition remains united in its opposition to the BJP government.
+
+_**Why is this meeting more important?**_ The political dynamics have changed since the alliance last met. Regional players have suffered electoral defeats, altering the balance of power within the opposition camp. While the DMK is staying away after its fallout with the Congress in Tamil Nadu, the Trinamool Congress (TMC) is expected to play a more active role following its loss in West Bengal. Leaders including Rahul Gandhi, Mallikarjun Kharge, Mamata Banerjee, Akhilesh Yadav, Tejashwi Yadav and Uddhav Thackeray are expected to attend the gathering.
+
+Story continues below this ad
+
+_**What tensions and disagreements could surface at the meeting?**_ Behind the display of unity, several parties are expected to raise grievances against the Congress. The CPI(M) is likely to seek an explanation over Congress leaders’ attacks on former Kerala Chief Minister Pinarayi Vijayan during the Assembly polls, while the Jharkhand Mukti Morcha is upset over the Congress’s handling of a Rajya Sabha nomination in the state. TMC may also seek support over alleged attacks on its leaders in Bengal.
+
+---
+
+### Indian envoy Vinay Mohan Kwatra meets senior United States counter-terror official Sebastian Gorka to discuss collaboration to tackle major terror groups
+*Unknown · business*
+
+Washington: India's Ambassador to the US Vinay Mohan Kwatra discussed threats posed by terrorism across the world during a meeting with senior US counter-terrorism official Sebastian Gorka.
+
+"Had an engaging conversation with @SebGorka Deputy Assistant to the President & Senior Director for Counterterrorism, National Security Council," Kwatra said in a post on X on Sunday.
+
+  
+
+"We shared perspectives on the threats of terrorism, and our counter-terrorism cooperation outlined in India-USA Joint Statement of February 2025," Kwatra said.
+
+Prime Minister Narendra Modi and US President Donald Trump, in February last year, reaffirmed that the global scourge of terrorism must be fought, and terrorist safe havens eliminated from every corner of the world.
+
+  
+
+> Had an engaging conversation with @SebGorka Deputy Assistant to the President & Senior Director for Counterterrorism, National Security Council.
+> 
+> We shared perspectives on the threats of terrorism, and our counter-terrorism cooperation outlined in India-USA Joint Statement of… pic.twitter.com/lBGewwyrzu
+> 
+> — Amb Vinay Mohan Kwatra (@AmbVMKwatra) June 7, 2026
+
+"They committed to strengthen cooperation against terrorist threats from groups, including Al-Qaida, ISIS, Jaish-e-Mohammad, and Lashkar-e-Tayyiba in order to prevent heinous acts like the attacks in Mumbai on 26/11 and the Abbey Gate bombing in Afghanistan on August 26, 2021," said a joint statement issued after Modi's meeting with Trump here on February 13, 2025.
+
+The US had also announced the extradition of 2008 Mumbai terror attack mastermind Tahawwur Rana.
+
+Trump and Modi had also called on Pakistan to expeditiously bring to justice the perpetrators of 26/11, and 2016 Pathankot air base attack, and ensure that its territory is not used to carry out cross-border terrorism.
+
+The leaders also pledged to work together to prevent proliferation of weapons of mass destruction and their delivery systems, and prevent terrorists and non-state actors from accessing them, the joint statement from February 2025 had said.
+
+---
+
+### Digital arrest scam: Fake ED officers dupe retired government employee of ₹87 lakh in Nagpur– 5 warning signs to know | Mint
+*Shivam Shukla · economy*
+
+## Shocking digital arrest scam exposes how fake ED officers in Nagpur cheated an 85-year-old retiree of ₹87 lakh through fear tactics, forged documents and constant surveillance. 
+
+Digital arrest scam in Nagpur: Fake ED officers steal ₹87 lakh from a retiree: Check out five warning signs to avoid such scams. (Representational image).
+
+A shocking cyber fraud case from Nagpur has once again highlighted the growing menace of ‘digital arrest’ scams. An 85-year-old retired government employee reportedly lost ₹87 lakh after scammers posing as Enforcement Directorate (ED) officials trapped him in a fake, fabricated money laundering investigation, as reported by _The Times of India._
+
+The basic method deployed is the use of forged documents, threats, fear and continuous video surveillance. The fraudsters tricked the senior citizen into transferring his life savings to different accounts, as instructed.
+
+This case is yet another incident that highlights the importance of staying vigilant against such scams. There is no such thing as ‘digital arrest’; if anyone attempts to arrest you digitally, that in itself is an offence.
+
+Fraudsters exploit authority and psychologically put undue pressure on victims, rather than trying to hack into confidential details technically. For example, in this case, the victim was continuously kept secluded from family members, under constant digital monitoring and coerced into complying with fabricated legal instructions, showcasing how easily these scams are planned and executed through social media engineering, tricks and threats.
+
+## **How the scam took place**
+
+In this case, the fraudsters targeted and contacted the senior citizen through WhatsApp and phone calls. They convinced him that his name had surfaced in a money laundering probe and placed him under a fraudulent ‘digital arrest.’
+
+The fraudsters forced him to stay on video calls, away from his near and dear ones, while also ensuring that communication with legitimate authorities remained restricted. Under continuous surveillance, threats and pressure, the victim eventually transferred hard-earned life savings across multiple accounts for the so-called ‘verification process’. A complaint was registered only after he realised that the entire arrest was fabricated, but not before he had lost a significant amount of money.
+
+## **5 warning signs for such scams**
+
+**1\. Claims of arrest or investigation over calls:** There is no law and no authority in India that issues ‘digital arrest warrants’. Anyone who claims to have arrested you digitally is committing a crime himself. Stay away from such messages, calls, and WhatsApps and report the issue to the cybersecurity authorities immediately.
+
+**2\. Pressure to stay isolated:** Fraudsters often force victims to maintain secrecy and prevent them from contacting family and friends or banking institutions. If you are a law-abiding citizen and the arrest authority is fair, where is the need to hide facts from near and dear ones? Do not fall for empty threats.
+
+**3\. Requests for money transfers for verification:** This is yet another red flag; no authority will ever ask you to transfer funds for verification or checking purposes. Any such request is a clear case of digital fraud. Never agree to any such requests or threats. Keep your banking funds and credentials confidential.
+
+**4\. Continuous video monitoring demands:** This is also a clear fraud tactic. Be aware that every citizen has a right to privacy under Article 21 of the Constitution. This principle has been laid down in the landmark judgment of Justice K S Puttaswamy vs Union of India (2017). This means that no official can force you to sit for hours of video monitoring; you have a fundamental right to preserve your privacy.
+
+**5\. Threats and fake legal documents:** Fake documents, such as copies of SC judgements, sent online, along with arrest warrants, fake FIRs, etc., are all fear tactics only. They are designed to create panic and force victims to react in a certain way. The Supreme Court doesn’t issue judgments online in minutes; it takes years of debate and deliberation. Without hearing both sides, it is against the law and ethics to issue any judgment.
+
+Digital arrest scams exploit fear and trust in authority. Fraudsters copy and imitate high-ranking officers from CBI, ED, RBI, etc. This is the most common way to cheat unsuspecting victims.
+
+To combat such situations, verify any fraudulent claims through official channels, stay calm and consult trusted contacts. If you face such a fraud, report it on: https://www.cybercrime.gov.in/Webform/Accept.aspx.
+
+---
+
+### Sensex falls 700 points: 3 reasons why stock market is falling today
+*Sonu Vivek · general*
+
+## Markets opened sharply lower on Monday as rising Middle East tensions, higher crude prices and global weakness hit sentiment. The slide sharpened concerns over inflation, foreign outflows and pressure on technology stocks.
+
+Nifty IT, Realty, Auto, Metal indices declined sharply.
+
+Stock markets opened sharply lower on Monday, with the Sensex falling more than 600 points and the Nifty slipping below 23,200, as investors reacted to rising tensions in the Middle East, a jump in crude oil prices and weakness across global markets.
+
+At around 9:30 am, the BSE Sensex was down 627.47 points, or 0.85%, at 73,615.87, while the NSE Nifty50 fell 195.40 points, or 0.84%, to 23,171.30.
+
+The selloff was broad-based. Most sectoral indices traded in the red, with Nifty IT falling 1.61%, Nifty Realty declining 1.68%, Nifty Auto dropping 1.21% and Nifty Metal slipping 1.31%. Broader markets were also under pressure, with the Nifty Midcap 100 falling 0.73% and the Nifty Smallcap 100 declining 0.63%.
+
+Among Sensex stocks, only Sun Pharmaceutical Industries, Axis Bank, Power Grid Corporation of India and State Bank of India were trading in the green. The biggest losers included Mahindra & Mahindra, Tata Consultancy Services, Trent, InterGlobe Aviation, Bajaj Finance, Tata Steel, Eternal, HCL Technologies and Infosys.
+
+### IRAN-ISRAEL CONFLICT PUSHES CRUDE OIL PRICES HIGHER
+
+The biggest trigger for today's fall is the fresh escalation in the Middle East conflict.
+
+Iran launched missiles at Israel following Israeli strikes on Beirut, sharply reducing hopes of a near-term peace agreement. The renewed hostilities have increased concerns about disruptions to global oil supplies and have pushed crude oil prices higher.
+
+Brent crude rose 3.56% to $96.40 per barrel, while WTI crude climbed 3.32% to $93.55 per barrel.
+
+For India, which imports most of its crude oil requirements, higher oil prices are a major concern. Rising crude increases fuel costs, puts pressure on inflation, widens the current account deficit and can hurt economic growth. These concerns typically weigh on stock market sentiment.
+
+### GLOBAL MARKET SELLOFF HITS INVESTOR CONFIDENCE
+
+Another reason behind today's weakness is the sharp selloff in global markets.
+
+According to Bajaj Broking's Morning Bell report, Wall Street witnessed an intense and broad-based selloff on Friday after stronger-than-expected US jobs data raised concerns that the US Federal Reserve may keep interest rates elevated for longer. The report noted that Asian markets were also trading deep in the red, with Japan's Nikkei plunging nearly 3.7% in early trade.
+
+A stronger US economy usually supports higher interest rates. That reduces the chances of quick rate cuts and makes investors less willing to take risks in emerging markets such as India.
+
+Dr VK Vijayakumar, Chief Investment Strategist at Geojit Investments Limited, said the sharp 4.18% fall in the Nasdaq on Friday rattled global markets, particularly technology-heavy markets such as South Korea and Taiwan.
+
+### IT STOCKS TUMBLE AFTER RECENT RALLY
+
+Information technology stocks, which had been supporting the market in recent sessions, turned into major losers on Monday.
+
+The Nifty IT index fell 1.61% in early trade. Heavyweights such as TCS declined 1.97%, Infosys dropped 1.32%, HCL Technologies fell 1.36%, Tech Mahindra slipped 0.99% and LTIMindtree was under pressure.
+
+The weakness follows a sharp rally in IT shares over the past few sessions. Investors appear to be booking profits after the recent gains.
+
+Global technology stocks also came under pressure after Friday's Nasdaq selloff, adding to concerns around the sector.
+
+### FOREIGN INVESTOR SELLING REMAINS A CONCERN
+
+Foreign investor selling continues to be another major headwind for Indian equities.
+
+According to Bajaj Broking data, foreign institutional investors (FIIs) sold shares worth Rs 8,776 crore in the previous session, while domestic institutional investors (DIIs) remained buyers. The report also highlighted that FIIs have pulled out more than Rs 3.27 lakh crore from Indian equities so far this year.
+
+Persistent foreign outflows have been one of the key reasons behind market volatility in recent months.
+
+### WHAT TO EXPECT?
+
+Dr VK Vijayakumar said there are strong headwinds for the market at the start of the week. According to him, higher crude oil prices, uncertainty in the Middle East, global technology weakness and expectations that the US Federal Reserve may keep interest rates unchanged for longer are weighing on investor sentiment.
+
+However, he added that India's strong FY26 GDP growth of 7.7%, better-than-expected March quarter earnings and continued domestic investor participation could provide support to the market if the selling intensifies.
+
+The Sensex was down 627 points at 73,615.87, while the Nifty fell 195 points to 23,171.30.
+
+Among sectoral indices, Nifty IT fell 1.61%, Nifty Realty lost 1.68%, Nifty Auto declined 1.21% and Nifty Metal slipped 1.31%.
+
+Sun Pharma, Axis Bank, Power Grid and SBI were among the few gainers, while M&M, TCS, Trent, IndiGo, Bajaj Finance, Tata Steel, Eternal, HCLTech and Infosys led the losses.
+
+_**(Disclaimer: The views, opinions, recommendations, and suggestions expressed by experts/brokerages in this article are their own and do not reflect the views of the India Today Group. It is advisable to consult a qualified broker or financial advisor before making any actual investment or trading choices.)**_
+
+\- Ends
+
+Jun 8, 2026 09:53 IST
+
+
+---
+
 ## 7 June 2026
 
 ### Pilibhit farmers protest over pending sugarcane payments and closed mill
