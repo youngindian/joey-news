@@ -1,3 +1,1083 @@
+## 10 June 2026
+
+### 'Each Prime Minister Faced A Different India': Former Union Minister Compares PM Modi's Legacy With Nehru
+*Devanshe Pandey · general*
+
+Former Union Minister Karan Singh recalled that Nehru inherited a nation emerging from colonial rule, Partition and widespread socio-economic challenges.
+
+[Read full article](https://www.news18.com/india/each-prime-minister-faced-a-different-india-former-union-minister-compares-pm-modis-legacy-with-nehru-ws-bl-10140071.html)
+
+---
+
+### 'Powerful Affirmation Of Democracy's Strength': Nitish Kumar On Modi's Historic Milestone As PM
+*Vani Mehrotra · general*
+
+Nitish Kumar congratulated PM Modi on his record tenure, praising his governance, welfare delivery, anti-corruption stance and role in elevating India's global standing.
+
+[Read full article](https://www.news18.com/india/nitish-kumar-praises-pm-narendra-modi-longest-serving-elected-prime-minister-tenure-indian-democracy-nda-ws-l-10140039.html)
+
+---
+
+### Gold Falls Below Rs 1.5 Lakh Amid Global Sell-Off: Check 24K, 22K Bullion Prices In Your City On June 10
+*Mohammad Haris · business*
+
+MCX gold futures for August delivery open lower by Rs 2,517, or 1.65%, at Rs 1,49,926 per 10 grams, against the previous close of Rs 1,52,443.
+
+[Read full article](https://www.news18.com/business/savings-and-investments/gold-falls-below-rs-1-5-lakh-amid-global-sell-off-check-24k-22k-bullion-prices-in-your-city-on-june-10-ws-l-10140030.html)
+
+---
+
+### Former SBI Capital Markets chief Arun Mehta named Edelweiss ARC CEO
+*Joel Rebello · business*
+
+Former SBI Capital Markets CEO, Arun Mehta, has taken over as the CEO of Edelweiss Asset Reconstruction Co for a three-year term, a person familiar with the appointment told ET. The banking regulator has approved his appointment.
+
+Edelweiss ARC did not have a full time CEO for about two years.
+
+“Mehta took over as CEO of Edelweiss ARC earlier this month and has received RBI approval. He was selected as CEO after a process run by executive search firm Korn Ferry,” a person familiar with the details said.
+
+  
+
+Edelweiss did not reply to an email seeking comment.
+
+Edelweiss ARC has been looking for a CEO since Reserve Bank of India (RBI) declined to reappoint RK Bansal as MD and CEO of the company in 2024. Bansal had served two terms of three years each as Edelweiss ARC's CEO and the company had approached the RBI for his extension, which was declined. The regulator had not given any reason for declining Bansal another term.
+
+Mehta, a State Bank of India veteran, held various positions at India’s largest bank in diverse areas including corporate banking, international banking and capital markets. He was CEO of the investment banking arm of SBI between 2020 and 2022.
+
+---
+
+### The Modi Legacy In Your Pocket: Everyday Digital Services That Changed India In The Past 12 Years
+*Pragati Ratti · general*
+
+The story of the Modi years is, in many ways, the story of India's digital public infrastructure that has transformed how citizens interact with money, govt and public services.
+
+[Read full article](https://www.news18.com/india/the-modi-legacy-in-your-pocket-everyday-digital-services-that-changed-india-in-the-past-12-years-ws-l-10140008.html)
+
+---
+
+### How the spread impacts your home loan EMI | Mint
+*Ananya Grover · economy*
+
+As lenders reserve their lowest rates for borrowers with 800-plus credit scores, spreads are becoming as important as the repo rate in determining home loan costs.
+
+Summary
+
+Understanding the spread can make the difference between assuming you are benefiting from an RBI rate cut and discovering that much of the benefit has been offset by the bank's pricing decisions.
+
+The Reserve Bank of India (RBI) cut the repo rate by 125 basis points to 5.25% through 2025 before shifting to a neutral stance and keeping rates unchanged at its last two policy meetings.
+
+Repo rate is the rate at which the central bank lends to other banks, serving as the benchmark interest rate that influences most floating-rate home loans linked to the External Benchmark Lending Rate (EBLR).
+
+For home-loan borrowers, that should have meant cheaper loans. But a closer look may reveal a different picture.
+
+The reason lies in a less visible component of loan pricing: the spread. Understanding it can make the difference between assuming you are benefiting from a rate cut and discovering that much of the benefit has been offset by the bank's pricing decisions.
+
+## **How does it work?**
+
+Since October 2019, the RBI has required banks to link all floating-rate retail loans to an external benchmark, typically the repo rate. This pricing system is commonly referred to as the EBLR.
+
+When the repo rate changes, the benchmark rate changes as well. But the interest rate a borrower ultimately pays is made up of two parts: the benchmark and a spread. The benchmark is linked to the RBI's policy rate, whereas the spread is determined by the bank and reflects factors such as the borrower's credit profile, loan-to-value ratio, operating costs and commercial considerations.
+
+For new loans, under the banking regulator's EBLR framework, banks are free to determine their own spreads. While credit-risk factors such as credit scores and loan-to-value ratios play an important role, lenders also have discretion to factor in broader commercial considerations and customer relationships when pricing loans.
+
+For existing loans, Mukesh Chand, senior counsel, Economic Laws Practice, explained that while RBI guidelines generally provide that the spreads should not be increased during the tenure of the loan, an increase in the credit-risk premium component of the spread may be permissible where there is a significant deterioration in the borrower’s credit profile.
+
+Banks retain discretion in terms of board-approved policies, the loan contract, and the RBI framework for reviewing and revising components of the spread. However, he added, banks generally don't increase spreads for existing borrowers because of the competitive landscape and customer retention considerations.
+
+These policies are mentioned in the loan agreements, as the RBI mandates that banks disclose any provisions or clauses that allow for the revision of the costs of various components in the spread.
+
+Some sanction letters seen by _Mint_ state that banks are entitled to change the credit-risk premium at any time or at a specified time, such as after two years, when a borrower’s credit assessment changes, and the operating cost component can also be changed at the bank’s discretion.
+
+According to Jagadeesh Mohan, chief executive of EMI Saver, repricing happens annually or every three years, and it is important to periodically review not just your interest rate but also tenure.
+
+Part of the reason spreads have increased is that banks themselves are under margin pressure, Mohan said, adding that while margins on home loans are relatively thin, they help banks acquire customers who may later buy other products such as insurance, investment services, credit cards and personal loans.
+
+Due to this, many lenders have increasingly relied on risk-based pricing and wider spreads to protect profitability, particularly for borrowers who do not fall into their top credit-score bands.
+
+## **How important is a credit score?**
+
+An analysis of historical home loan rates offered by the country's five largest banks, sourced from Paisabazaar, shows that between February 2025, when the RBI began its rate-cut cycle, and the end of May 2026, lenders reduced home loan rates by 65 to 125 basis points. While some passed on the full benefit of the repo rate cuts, others transferred only half of it by increasing spreads for new borrowers.
+
+However, the advertised rates apply only to borrowers with exceptional credit profiles, typically those with credit scores above 780-800. According to a TransUnion CIBIL report, the average credit score among monitoring consumers stood at 728 as of December 2025.
+
+For borrowers with scores below 780, the picture looks very different. In some cases, home loan rates for new borrowers have increased despite the RBI's 2025 easing cycle, driven by a widening spread.
+
+Data from Peaceful-Loans, a home loan advisory company, shows that State Bank of India, which reserves its lowest rates for borrowers with CIBIL scores of 825 and above, increased rates for the 750-824 score bucket from 7.55% on or before 31 March to 7.70% from 1 April 2026 on new loans. Similarly, ICICI Bank raised rates for borrowers with scores between 780 and 799 from 7.30% to 7.60%, while Union Bank of India increased rates for the 750-799 category from 7.3% to 7.35% over the same period.
+
+These banks did not respond to _Mint_ queries till press time.
+
+Amit Prakash, co-founder and chief business officer of Urban Money, a loan advisory platform, said banks have increasingly adopted sharper risk-based pricing models. “As a result, the transmission of lower rates is not uniform across all borrower segments,” he said.
+
+Prakash said banks are increasingly reserving their most competitive rates for borrowers with scores above 780-800, while widening spreads for the 700-780 segment. He said lenders are differentiating more aggressively based on credit quality, repayment behaviour, income stability and overall risk assessment. Historically, pricing differences within the 750-plus score range were narrower at many lenders.
+
+“A credit score above 780 or 800 is genuinely rare, and only an estimated 10-20% of borrowers reach that level. Banks increasingly treat the 750-799 band as a statistical grey zone when it comes to longer tenure home loans. The borrower is not risky enough to reject, but not clean enough to fully trust over a 20-30 year tenure,” said Harsh Grover, co-founder of LoansJagat.
+
+According to Grover, a score in this range often signals one single past repayment issue, a delayed EMI or a period of high credit utilization.
+
+At Bank of Maharashtra, a salaried borrower with a CIBIL score above 800 gets a home loan rate of 7.10%, while a borrower with a score between 750 and 799 pays 7.25%. In other words, a score that would once have comfortably qualified for the best rates now attracts a higher borrowing cost.
+
+## **What do rising spreads mean?**
+
+Even small differences in spreads can have a meaningful impact over a 15-20 year loan tenure, said Adhil Shetty, CEO of BankBazaar.
+
+Consider a borrower taking a home loan of ₹80 lakh for 20 years. At an interest rate of 8%, the EMI works out to approximately ₹66,900, and the total interest paid over the loan tenure comes to around ₹80.6 lakh. If the rate rises by just 10 basis points to 8.10%, the EMI increases to roughly ₹67,400, and the total interest paid rises to about ₹81.8 lakh.
+
+That seemingly small increase adds nearly ₹1.2 lakh in interest costs over the life of the loan. A 25-50 basis point increase can translate into several lakhs of additional interest.
+
+These calculations are illustrative and assume that the revised rate remains in effect throughout the loan tenure. In practice, floating-rate home loans are repriced periodically, which may alter their actual cost.
+
+Mangesh Zope, founder of Peaceful-Loans, said that when three or four large banks control roughly 60-65% of the home loan market, they gain considerable pricing power. According to him, some lenders have used that advantage over the past 12-14 months by gradually increasing spreads for new borrowers whenever market conditions allow.
+
+“They increase the margin by around 15 basis points and observe whether volumes fall. If demand remains stable, the higher spread directly benefits bank profitability,” he said. Borrowers who took loans 12-18 months ago may still be paying lower spreads for similar credit profiles, unless newer loans with higher spreads refinance their loans. According to Zope, these changes primarily affect new borrowers.
+
+For example, he said SBI's home loan rate for a borrower with the same CIBIL score is currently about 0.3 percentage points higher than it was 12-14 months ago.
+
+## **How to navigate?**
+
+Shetty believes that a borrower may focus on RBI rate decisions, but the spread applied by the lender ultimately determines the final borrowing cost.
+
+“Borrowers with similar profiles may receive materially different loan offers across banks. In a market where some lenders are maintaining spreads while others are adjusting them, periodic review of the loan rate becomes important. If the gap between a borrower's existing rate and prevailing market rates becomes significant, refinancing or negotiating with the existing lender may help reduce the overall interest burden over the life of the loan,” he said.
+
+Mohan advises borrowers to monitor their credit scores and seek a rate review if their score rises above 800. If the lender refuses, borrowers can use competing loan offers to negotiate or refinance. He also recommends considering a home-loan overdraft facility, where surplus funds parked in the linked account reduce the balance on which interest is charged.
+
+As lenders sharpen risk-based pricing and reserve their best rates for borrowers closer to the 800-plus range, the spread has become almost as important as the repo rate in determining borrowing costs. For borrowers, comparing lenders, monitoring credit scores and periodically reviewing loan terms may matter as much as the next RBI rate move.
+
+### About the Author
+
+Ananya Grover
+
+Ananya is a journalist with over four years of experience, specialising in stock markets and personal finance. Currently working with the Mint Money team, she focuses on simplifying complex financial concepts to help readers make informed decisions about their money. Her work spans market trends, regulatory and policy developments, and in-depth analytical stories that decode shifts in India’s financial landscape. She has consistently covered key developments in the stock market, combining data-driven insights with on-ground reporting to provide clarity and context. <br><br>Before joining Mint, Ananya worked with Financial Express, NDTV Profit, and Informist, where she built a strong foundation in reporting, writing, and editing across fast-paced news environments. Her expertise lies in translating intricate financial and policy matters into accessible, reader-first narratives without compromising on depth or accuracy. Driven by a commitment to impactful and trustworthy journalism, Ananya believes credible financial information is essential for empowering individuals in an increasingly complex economic environment. A Delhiite now based in Mumbai, she brings a keen observational lens to both her reporting and everyday life. Outside of work, she enjoys reading, writing poetry, and people-watching.
+
+---
+
+### ‘Man Of Destiny For India’: Venkaiah Naidu Hails PM Modi As He Becomes Longest Serving Elected PM
+*Shobhit Gupta · general*
+
+Former Vice President M Venkaiah Naidu hailed Prime Minister Narendra Modi's leadership and described him as the "Man of Destiny for India".
+
+[Read full article](https://www.news18.com/india/man-of-destiny-for-india-venkaiah-naidu-hails-pm-modi-as-he-becomes-longest-serving-elected-pm-ws-l-10139968.html)
+
+---
+
+### Air India Asking Families Of Crash Victims To Waive Claims Before Completion Of Probe, Airline Responds
+*Prisha Vibhavari · general*
+
+Radhika Mishra alleges Air India is pressuring crash victims families to sign full and final settlements before probe ends, Air India denies imposing any deadline
+
+[Read full article](https://www.news18.com/india/air-india-asking-families-of-crash-victims-to-waive-claims-before-completion-of-probe-airline-responds-ws-l-10139985.html)
+
+---
+
+### West Bengal: Muslim woman forced to chant 'Vande Mataram', 'Bharat Mata Ki Jai', details here
+*Monica Singh · general*
+
+A viral video from West Bengal shows BJP MLA Koustav Bagchi prompting a woman beneficiary of the Annapurna Yojna to chant 'Bharat Mata Ki Jai' and 'Vande Mataram' during a public event.
+
+A video featuring BJP MLA Koustav Bagchi interacting with a woman beneficiary during the launch of the Annapurna Yojna in Barrackpore has triggered widespread discussion on social media and political circles.
+
+The incident took place on June 3 during the inauguration of the newly introduced women’s welfare scheme at Sukanta Sadan in Barrackpore. Bagchi, who attended the event as a guest, was seen speaking with a Muslim woman seated in the front row of the auditorium.
+
+In the viral clip, the MLA asks the woman whether the BJP has treated her unfairly and whether she considers the party good or bad. The conversation then shifts to the newly launched welfare scheme, under which eligible women are expected to receive financial assistance from the state government.
+
+## **Slogans Prompted During Public Interaction**
+
+During the exchange, Bagchi encourages the woman to chant 'Bharat Mata Ki Jai' and later 'Vande Mataram.' The video shows the woman responding softly after repeated prompting from the MLA. At one point, Bagchi remarks that as Indians, people should express such sentiments.
+
+The footage has generated mixed reactions online. Critics have questioned whether a welfare beneficiary should be placed in a situation where she feels compelled to publicly respond to political or nationalist slogans, particularly in a public setting involving elected representatives and government-linked programmes.
+
+Observers have pointed to the visible imbalance in the interaction, noting that the woman appeared hesitant while responding before an audience.
+
+> He is Kaustav Bagchi, BJP’s MLA from Barrackpore.  
+> Two Muslim women came to submit forms for Annapurna Bhandar, where he insults them and stereotypes them. pic.twitter.com/do4qjeHVi3
+> 
+> — Kamru Choudhury (@Kamru\_Choudhury) June 4, 2026
+
+## **Wider Questions Over Welfare and Political Messaging**
+
+The controversy has reignited discussions about the relationship between welfare schemes and political messaging. Some commentators argue that access to government benefits should remain entirely separate from ideological expressions or displays of political loyalty.
+
+The Annapurna Yojna was introduced by the BJP government in West Bengal following its electoral victory in 2026. The programme provides eligible women between the ages of 25 and 60 with a monthly financial benefit of Rs 3,000. The scheme replaced the previous Lakshmir Bhandar programme, under which beneficiaries received between Rs 1,500 and Rs 1,800 per month.
+
+## **From Congress Leader to BJP MLA**
+
+Bagchi entered the BJP in February 2024 after leaving the Congress, citing dissatisfaction with the party's internal functioning. He later contested the 2026 Assembly election from Barrackpore and defeated filmmaker Raj Chakraborty of the Trinamool Congress.
+
+As the video continues to circulate online, the incident has become a fresh flashpoint in the ongoing debate over politics, identity, and welfare programmes in West Bengal.
+
+---
+
+### Modi surpasses Nehru's elected-tenure record, enters 13th year as PM
+*Qubool Ahmad · general*
+
+## As Narendra Modi completes 12 years as Prime Minister and overtakes Jawaharlal Nehru's record for the longest continuous tenure leading an elected government, attention is turning to the challenges and ambitions that lie ahead for his third term.
+
+Narendra Modi became the first leader since 1962 to serve a third consecutive term as Prime Minister. (File Photo: PTI)
+
+Prime Minister Narendra Modi has crossed a significant political milestone, surpassing the tenure record set by India's first Prime Minister, Jawaharlal Nehru, in terms of leading an elected government after the Constitution came into force.
+
+Having first taken office on May 26, 2014, Modi has now completed 4,399 consecutive days as Prime Minister. The milestone places him ahead of Nehru's 4,398-day tenure as the head of an elected government formed after the first general elections in 1952.
+
+Nehru, who was sworn in as Prime Minister on May 13, 1952 following India's first Lok Sabha election, served continuously for 4,397 days in that capacity until May 1964. While Nehru remained Prime Minister from August 15, 1947 until his death on May 27, 1964, historians generally distinguish between his tenure as head of the interim government and his period leading an elected government after the adoption of the Constitution and the first general election.
+
+The latest milestone comes as Modi enters his third consecutive term in office after being sworn in again on June 9, 2024, following the NDA's victory in the Lok Sabha elections.
+
+### A POLITICAL MILESTONE
+
+The achievement underscores Modi's enduring political influence and the BJP's electoral success over the past decade. Under his leadership, the party has expanded its footprint across much of the country and remains a dominant force in national politics.
+
+Winning three consecutive mandates and remaining in office for more than 12 years places Modi among the most successful political leaders in independent India's history.
+
+However, the record also marks the beginning of a new phase for the Prime Minister, with expectations increasingly focused on delivering long-term economic and developmental goals.
+
+### THE CHALLENGE AHEAD
+
+As Modi begins the next chapter of his tenure, the government's focus remains centred on its "Viksit Bharat 2047" vision -- an ambitious roadmap aimed at transforming India into a developed nation by the centenary of Independence.
+
+Among the government's key priorities are sustaining high economic growth, expanding manufacturing, strengthening infrastructure, promoting semiconductor production, developing green hydrogen capabilities, and accelerating digital governance initiatives.
+
+The government has also set its sights on making India one of the world's largest economies in the coming years. Policymakers have repeatedly stated their goal of overtaking Germany and Japan to position India behind only the United States and China in terms of economic size.
+
+India's startup ecosystem has also expanded dramatically over the past decade, while the government is pushing for growth in emerging sectors such as space technology, artificial intelligence and advanced manufacturing.
+
+### VISION 2047 AND INFRASTRUCTURE PUSH
+
+The broader Vision 2047 programme envisages a major transformation of India's infrastructure and economic landscape over the next two decades.
+
+Projects such as high-speed rail corridors, expressway networks, modern railway stations, logistics hubs and digital public infrastructure are being positioned as key pillars of that strategy.
+
+The government has also emphasised skilling India's young population, viewing human capital development as essential to sustaining long-term growth and enhancing India's global competitiveness.
+
+On the foreign policy front, India has sought a more active role in global affairs in recent years, projecting itself as a voice of the Global South while seeking greater influence in international institutions, including a permanent seat on the UN Security Council.
+
+### FROM INSTITUTION-BUILDING TO EXPANSION
+
+The comparison between Nehru and Modi reflects two distinct phases of India's post-independence journey.
+
+Nehru's tenure was defined by nation-building in the aftermath of Partition, the establishment of democratic institutions and the creation of scientific, educational and industrial infrastructure. Institutions such as the IITs, AIIMS, major public sector enterprises and large infrastructure projects trace their origins to that period.
+
+Supporters of the current government argue that Modi's tenure has focused on expanding and modernising that foundation through digital transformation, infrastructure development, welfare delivery reforms and efforts to boost domestic manufacturing.
+
+At the same time, analysts note that the government faces significant challenges, including job creation, managing coalition dynamics, sustaining growth amid global economic uncertainties and addressing rising expectations from a young population.
+
+As PM Modi moves beyond a record-setting tenure, the central question is no longer how long he remains in office, but whether his government's Vision 2047 agenda can deliver the transformation it promises over the next two decades.
+
+\- Ends
+
+Priyanka Kumari
+
+Jun 10, 2026 09:47 IST
+
+---
+
+### The Death Of The Cover Letter: Why Recruiters No Longer Trust It, And What Works Now
+*Shilpy Bisht · general*
+
+As AI tools make it easier to generate polished cover letters, employers are increasingly focusing on skills, portfolios, referrals, case studies and proof of work instead
+
+[Read full article](https://www.news18.com/india/the-death-of-the-cover-letter-why-recruiters-no-longer-trust-them-and-what-works-now-shil-ws-el-10139902.html)
+
+---
+
+### UPSC Weekly Concepts Snapshot: Why are E85 fuel, G-Secs and earthquakes making headlines?
+*Roshni Yadav · legal*
+
+Headlines tell you what happened, but UPSC asks why. The UPSC Civil Services Examination, whether at the Prelims or Mains stage, increasingly rewards conceptual clarity and the ability to apply core ideas. That is especially true in the most dynamic areas of the syllabus: Science, Economy and Environment.
+
+The **UPSC Weekly Concepts Snapshot** brings you, every **Wednesday**, simplifies three important current themes from these subjects through an exam-oriented lens, focusing on concepts and clarity.
+
+**Read the article, understand the concept, and then crack the quiz.**
+
+Q1 of 5 • SCIENCE
+
+What property of ethanol makes it suitable for blending with petrol as a biofuel?
+
+It is derived from petroleum refining at low temperatures It is a renewable fuel derived from biomass or biological waste It contains more carbon per molecule than petrol, increasing energy output
+
+Ethanol is a biofuel because it comes from biomass — plants, agricultural waste, or industrial biowaste. At 99%-plus purity, it can be blended with petrol for use as vehicle fuel, making it renewable unlike fossil-derived fuels.
+
+Next →
+
+Q2 of 5 • SCIENCE
+
+How does a flex-fuel vehicle adapt to different ethanol-petrol blends without driver input?
+
+The driver manually adjusts fuel injection settings before refuelling A separate secondary engine activates depending on fuel type Onboard sensors detect the blend and automatically alter fuel injection and ignition timing
+
+FFVs use sensors to detect the fuel blend in real time, then adjust engine parameters like fuel injection and ignition timing automatically. No manual intervention by the driver is required at any point.
+
+Next →
+
+Q3 of 5 • ECONOMY
+
+Why are Government Securities described as "gilt-edged instruments"?
+
+They are printed on gold-embossed paper as a mark of sovereign authenticity They offer the highest interest rates among all fixed-income instruments in India They carry virtually no default risk because they are backed by the sovereign guarantee of the government
+
+The term "gilt-edged" historically referred to high-quality bonds with minimal risk. G-Secs earn this label because the government, backed by its sovereign authority, is considered incapable of defaulting on domestic currency debt.
+
+Next →
+
+Q4 of 5 • ECONOMY
+
+What is the key structural difference between the General Route and FAR for foreign investment in G-Secs?
+
+FAR applies only to State Development Loans; the General Route covers Central Government bonds The General Route is restricted to domestic investors; FAR is open to foreign investors only The General Route carries caps on investment size and holding period, while FAR imposes no such restrictions
+
+Under the General Route, FIIs face caps on investment in individual securities, minimum holding periods, and overall limits. FAR removes all these restrictions for select G-Secs, making it a fully open-access channel.
+
+Next →
+
+Q5 of 5 • ENVIRONMENT
+
+Which property of seismic S waves distinguishes them from P waves in terms of propagation?
+
+S waves travel faster than P waves and arrive first at seismograph stations S waves compress and expand rock particles along their direction of travel S waves create shear motion in rock and cannot travel through liquids or gases
+
+S waves move rock particles sideways (shear motion), which means they cannot propagate through fluids. This is why S waves do not pass through the Earth's liquid outer core — a key tool for mapping Earth's interior structure.
+
+See my score →
+
+How closely are YOU following? Share your score!
+
+Indian Express InfoGenIE
+
+### **SCIENCE**
+
+### **E85 fuel and  flex-fuel vehicles (FFVs)  
+**
+
+**Core Concept:**
+
+— To understand E85, it is important to first know what Ethanol is. Ethyl alcohol, or Ethanol, is a liquid with several uses. At 95% purity, it is called rectified spirit and is used as the intoxicating ingredient in alcoholic beverages.
+
+— At 99%-plus purity, ethanol is used for blending with petrol. It is a common type of biofuel, a renewable fuel derived from biomass, from plants or agricultural, animal, domestic, and industrial biowaste.
+
+Story continues below this ad
+
+ (Infographic AI-generated)
+
+— **E85** is a high-ethanol blended fuel comprising 80-85% ethanol and 14-19% petrol, specifically designed for use in flex-fuel vehicles.
+
+—  Regular petrol vehicles cannot use E85 as it is engineered exclusively for specialized flex-fuel vehicles. To push consumer adoption, the government has launched E85 at nearly Rs 20 per litre cheaper than normal petrol. 
+
+**What are Flex-fuel vehicles?**
+
+— Flex-fuel vehicles are equipped with modified internal combustion engines that can run on petrol, ethanol, or any combination of the two without requiring manual adjustments by the driver. 
+
+### **India’s first mass-market flex-fuel passenger car**
+
+Maruti Suzuki India has launched the WagonR Flex Fuel billed as the country’s first mass-market flex-fuel passenger car, marking a significant step in India’s push towards alternative fuels. The car is capable of running on pure ethanol (E100), although it has been homologated to run on E85 fuel—85% ethanol and 15% petrol. 
+
+— Sensors in the vehicle detect the fuel blend and automatically alter engine settings such as fuel injection and ignition timing to ensure optimal performance.
+
+Story continues below this ad
+
+— NITI Aayog officially classifies ethanol-based Flex-Fuel Vehicles (FFVs), including vehicles running on high ethanol blends such as E85, as Zero-Emission Vehicles.
+
+### **📍****UPSC Twist Points:** **Butanol and ABE biofuels**
+
+— Butanol and acetone-butanol-ethanol (ABE) mixtures as fuel are superior to ethanol. These products are synthesised naturally by solventogenic Clostridia – bacteria capable of fermenting a broad spectrum of cellulosic and hemicellulosic substrates. Among them, Clostridium beijerinckii BA101 has been identified as a particular butanol tolerant, high-yield strain.  
+
+— However, ABE downstream processing for product recovery is more complex than a single product like ethanol, as the former involves separating multiple solvents (acetone-butanol-ethanol) while the latter needs water-ethanol separation. Researchers are also working on finding ways to make the ABE product recovery more viable.  
+
+### **ECONOMY**
+
+### **Government Securities (G-Secs)**
+
+### **Core Concept:** 
+
+**—** **G-secs** are tradable instruments issued by the Central Government or the State Governments. It is used by the government to borrow money from the public. 
+
+Story continues below this ad
+
+**—** The two key categories of G-Secs are **treasury bills** and **dated securities**. Treasury bills are short-term instruments which mature in 91 days, 182 days, or 364 days, and dated securities or government bonds are long-term instruments, which mature anywhere between 5 years and 40 years.
+
+— In 2010, the RBI introduced a new short-term instrument, known as **Cash Management Bills** (CMBs) with the aim to manage the temporary cash flow mismatches. CMBs, having the same generic character of T-Bills, are issued for maturities less than 91 days.
+
+**— Treasury bills, or T bills** are zero coupon securities and pay no interest. They are issued at a discount and redeemed at the face value at maturity.  Let’s understand this through an example:
+
+A 91 day Treasury bill of ₹100 (face value) may be issued at say ₹ 98.20, that is, at a discount of say, ₹1.80 and would be redeemed at the face value of ₹100. The return to the investors is the difference between the maturity value or the face value (that is ₹100) and the issue price (that is ₹ 98.20).
+
+Story continues below this ad
+
+— According to the RBI, “In India, the Central Government issues both, treasury bills and bonds or dated securities while the State Governments issue only bonds or dated securities, which are called the State Development Loans (SDLs). G-Secs carry practically no risk of default and, hence, are called risk-free gilt-edged instruments.”
+
+### Government Securities (G-Secs) Explained
+
+What are G-Secs? Two Types How T-Bills Work Cash Mgmt Bills Centre vs States Foreign Access
+
+Definition
+
+Tradable debt instruments issued by the government
+
+Government Securities (G-Secs) are tradable instruments issued by the Central or State Governments to borrow money from the public. They carry practically no risk of default, earning them the label of risk-free gilt-edged instruments.
+
+◆
+
+Tradable instruments
+
+G-Secs can be bought and sold in the market, unlike fixed deposits, giving them liquidity.
+
+★
+
+Gilt-edged instruments
+
+Backed by the sovereign guarantee of the government — virtually zero default risk.
+
+⚖
+
+RBI as sole authority
+
+The RBI issues G-Secs through auctions conducted on E-Kuber, its Core Banking Solution platform.
+
+Short-term
+
+Treasury Bills (T-Bills)
+
+Mature in 91, 182, or 364 days. Zero coupon — issued at discount, redeemed at face value.
+
+Long-term
+
+Dated Securities / Bonds
+
+Mature between 5 and 40 years. State versions are called State Development Loans (SDLs).
+
+91d
+
+Shortest T-Bill maturity
+
+364d
+
+Longest T-Bill maturity
+
+Mechanics
+
+Zero coupon: profit from the discount
+
+T-Bills pay no interest. Instead, they are issued below face value and redeemed at full face value on maturity. The difference between the two is the investor's return.
+
+→
+
+Issue price: ₹98.20
+
+A 91-day T-Bill with face value ₹100 is issued at a discount of ₹1.80.
+
+✓
+
+Redemption: ₹100
+
+At maturity, the investor receives the full face value of ₹100, regardless of issue price.
+
+★
+
+Return: ₹1.80
+
+Investor's profit is face value minus issue price — no periodic coupon payment involved.
+
+RBI Innovation — 2010
+
+Cash Management Bills: plugging short-term cash gaps
+
+The RBI introduced Cash Management Bills (CMBs) in 2010 to manage temporary cash flow mismatches in government accounts. They share the same character as T-Bills but are issued for maturities of less than 91 days.
+
+2010
+
+Year introduced by RBI
+
+<91d
+
+Maturity — shorter than any T-Bill
+
+Issuance Split
+
+Not all governments issue the same instruments
+
+The Central Government issues both T-Bills and dated bonds. State Governments can only issue bonds — called State Development Loans (SDLs) — and have no power to issue T-Bills.
+
+Central Government
+
+T-Bills + Dated Bonds
+
+Issues both short-term (T-Bills) and long-term instruments (Government Bonds).
+
+State Governments
+
+SDLs only
+
+Can only issue State Development Loans — long-term bonds. No T-Bills permitted.
+
+General Route
+
+Standard channel
+
+Allows foreign investors to buy permitted G-Secs with caps on investment size, holding period, and security-level limits.
+
+FAR — Fully Accessible Route
+
+Open-access channel
+
+Foreign investors can invest in select G-Secs without the restrictions that apply under the General Route.
+
+◆
+
+Who can invest?
+
+Commercial banks, UCBs, insurance companies on E-Kuber; foreign investors via General Route or FAR.
+
+— The RBI is the sole authority for the G-Secs which issues it through auctions. The auctions are conducted on an electronic platform called the E-Kuber, the Core Banking Solution (CBS) platform of RBI. 
+
+— Commercial banks, Urban Co-operative Banks (UCBs), Insurance companies, and others who are members of E-Kuber can place their bids in the auction through this electronic platform.
+
+— Foreign investors can invest in Indian G-Secs through routes such as the **General Route and the Fully Accessible Route (FAR)**. 
+
+Story continues below this ad
+
+**(i) General Route** is the standard channel for foreign investors. It allows them to buy and sell permitted Indian G-secs, but comes with certain restrictions, such as caps on how much can be invested in a particular security, how long it must be held, and an overall investment limit. 
+
+**(ii) FAR** is an open-access channel where foreign investors can invest in select G-Secs without restrictions that apply under the General Route.
+
+### **📍****UPSC Twist Points:** **Bond yield** 
+
+— The effective interest on the government bonds is called yield. G-sec yields change over time; often several times during a single day. This happens because of the manner in which G-secs are structured.
+
+— Every G-sec has a face value, a coupon payment and price. The price of the bond may or may not be equal to the face value of the bond.
+
+Story continues below this ad
+
+— Here’s an example: Suppose the government floats a 10-year G-sec with a face value of Rs 100 and a coupon payment of Rs 5.
+
+If one were to buy this single G-sec from the government, it would mean that one will give Rs 100 to the government today and the government will promise to 1) return the sum of Rs 100 at the end of tenure (10 years), and 2) pay Rs 5 each year until the end of this tenure. At this point, the face value of this G-sec is equal to its price, and its yield (or the effective interest rate) is 5%.
+
+### **ENVIRONMENT**
+
+### Earthquakes
+
+**Core Concept:** 
+
+— An earthquake is an intense shaking of the ground caused by movement under the earth’s surface. It happens when two blocks of the earth suddenly slip past one another, according to USGS. This releases stored-up ‘elastic strain’ energy in the form of seismic waves, which spreads through the earth and cause the shaking of the ground.
+
+Story continues below this ad
+
+ In this photo provided by the Philippine Red Cross, rescuers inspect the damage after an earthquake in General Santos, Philippines. (Photo: AP)
+
+— The earth’s outermost surface, crust, is fragmented into tectonic plates. The edges of the plates are called plate boundaries, which are made up of faults. The tectonic plates constantly move at a slow pace, sliding past one another and bumping into each other. As the edges of the plates are quite rough, they get stuck with one another while the rest of the plate keeps moving.
+
+— Earthquake occurs when the plate has moved far enough and the edges unstick on one of the faults. The location below the earth’s surface where the earthquake starts is called the **hypocenter**, and the location directly above it on the surface of the earth is called the **epicentre**.
+
+### **📍****UPSC Twist Points:** **Earthquake Wave Types**
+
+— When an earthquake occurs, it generates seismic waves that cause the shaking we experience. There are two major types of seismic waves: body waves and surface waves. Body waves comprise P and S waves, and they are called body waves because they can travel through the Earth’s interior, rather than being confined near the surface.
+
+— Primary or ‘P’ wave is a type of sound wave that travels through rock. In a P wave, the rock particles are alternately compressed and expanded, a process known as compressions and dilatations. This is why P waves are also referred to as compressional waves. They are capable of traveling through solids, liquids, and gases. Notably, P waves can move through the liquid outer core of the Earth.
+
+### How Earthquakes Work: From Fault Slip to Seismic Waves
+
+Fault to Shaking Hypocenter vs Epicentre Body vs Surface Waves P waves vs S waves Love vs Rayleigh
+
+THE SEQUENCE
+
+How a fault slip becomes an earthquake
+
+Tectonic plates constantly move at a slow pace. Their rough edges get stuck against each other at plate boundaries while the rest of the plate keeps moving. This builds up elastic strain energy. When the plate has moved far enough, the edges suddenly unstick — releasing that stored energy as seismic waves that shake the ground.
+
+◆
+
+Plates lock at rough edges
+
+Tectonic plate edges (faults) are rough and get stuck even as the rest of the plate continues moving, building pressure.
+
+●
+
+Elastic strain accumulates
+
+Stored-up elastic strain energy builds in the rocks along the fault over time — the longer the lock, the more energy stored.
+
+★
+
+Sudden slip releases energy
+
+When the fault edges finally unstick, the stored energy releases explosively as seismic waves — causing the ground to shake.
+
+KEY LOCATIONS
+
+Two points every earthquake report mentions
+
+Every earthquake has two key reference points: one below the ground and one on the surface. News reports typically cite the epicentre, but the hypocenter is where the rupture actually begins.
+
+Below the surface
+
+The point inside the Earth where the earthquake originates — where the fault first ruptures and seismic waves begin.
+
+On the surface
+
+The point on Earth's surface directly above the hypocenter. This is what news reports reference as the quake's location.
+
+WAVE TYPES
+
+Two major families of seismic waves
+
+When an earthquake occurs, it generates seismic waves that cause the shaking we feel. These fall into two major families — defined by where they travel.
+
+BODY WAVES
+
+Travel through Earth's interior
+
+Not confined to the surface. Include P waves and S waves. Can probe the deep interior of the planet.
+
+SURFACE WAVES
+
+Confined near Earth's surface
+
+Travel along the surface rather than through the interior. Include Love waves and Rayleigh waves. Typically cause more damage.
+
+BODY WAVES
+
+P waves and S waves — the key differences
+
+Both are body waves that travel through Earth's interior, but their particle motion and travel medium differ critically — a distinction that helped scientists map the Earth's liquid outer core.
+
+P
+
+Primary (P) wave — compressional
+
+Rock particles alternately compress and expand (compressions and dilatations). Travels through solids, liquids, and gases — including Earth's liquid outer core.
+
+S
+
+Secondary (S) wave — shear
+
+Rock particles slide past one another, creating shear. Cannot travel through liquids or gases — blocked by the ocean and Earth's liquid outer core.
+
+SURFACE WAVES
+
+Love waves and Rayleigh waves compared
+
+Both are surface waves confined near Earth's surface, but their particle motion patterns are distinct.
+
+LOVE WAVES
+
+Shear motion, trapped at surface
+
+A type of shear wave that is trapped near the Earth's surface. Particle motion is horizontal and perpendicular to the direction of travel.
+
+RAYLEIGH WAVES
+
+Rolling motion like ocean waves
+
+Particle motion resembles that of water particles in ocean waves — an elliptical rolling motion. Travel along the surface.
+
+— In Secondary or ‘S’ wave, the rock particles slide past one another, which creates shear – hence, S waves are also known as shear waves. S waves cannot travel through liquids or gases, which means they do not propagate through the ocean or the outer core.
+
+**— Surface waves** are named for their tendency to be confined near the Earth’s surface, as opposed to traveling through the Earth’s interior like P and S waves. There are two main types of surface waves: **Love waves**, which are shear waves that are trapped near the surface, and **Rayleigh waves**, which exhibit particle motions similar to those of water particles in ocean waves.
+
+### **_Prelims Practice MCQ_**
+
+**_Let’s see how much can you recall_**
+
+**Consider the following statements:**
+
+1\. E85 is a high-ethanol blended fuel designed for use in flex-fuel vehicles.
+
+2\. Treasury Bills pay periodic coupon interest to investors during their tenure.
+
+3\. S-waves cannot travel through liquids.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 1 and 3 only
+
+(c) 1 and 2 only
+
+(d) 1, 2 and 3
+
+**ALSO CHECK**
+
+**UPSC Prelims Weekly Snapshot: GPS interference, RBI’s Monetary Policy, Heatwaves**
+
+**UPSC Prelims Weekly Snapshot: Dimethyl Ether, CPI overhaul, Tar Balls** 
+
+**UPSC Prelims Weekly Snapshot : Induction cooktop, Forex reserve, and Earth’s energy imbalance** 
+
+**UPSC Prelims Weekly Snapshot: Talking cars, GDP rebasing and Nor’westers — quick look** 
+
+**🚨** **Click Here** **to read the UPSC Essentials magazine for May 2026. Share your views and suggestions in the comment box or at manas.srivastava@****indianexpress.com****🚨** 
+
+**Subscribe to our** **UPSC newsletter.** **Stay updated with the latest UPSC articles by joining our Telegram channel –** **Indian Express** **UPSC Hub, and follow us on** **Instagram** **and X.**
+
+---
+
+### RIL, Meta partner to develop 168 MW AI enabled data centre in Gujarat
+*Business Standard · business, entrepreneur, finance*
+
+This is the first built-to-suit data centre capacity in India for Meta and represents a significant milestone in India's emergence as a global hub for AI infrastructure
+
+[Read full article](https://www.business-standard.com/technology/artificial-intelligence/ril-meta-partner-to-develop-168-mw-ai-enabled-data-centre-in-gujarat-126061000157_1.html)
+
+---
+
+### Philippines earthquake death toll rises to 46 as rescue efforts continue
+*SECTIONS Philippines earthquake death toll rises · business*
+
+Rescuers in the southern Philippines pulled a body from the rubble of a collapsed supermarket on Wednesday, as the death toll from a major earthquake climbed to 46.
+
+The 7.8-magnitude tremor just off the coast of Mindanao on Monday brought down buildings, triggered landslides and set off tsunami warnings across a swathe of the southern island.
+
+Joey Deluvio, 39, was one of two employees at a supermarket in General Santos City that has been the focus of recovery efforts despite the constant threat of aftershocks.
+
+  
+
+Life-detecting equipment had traced a "weak pulse" earlier in the operation, local rescuer Michelle Chua told AFP on Wednesday, but "when they got to the body... there were no signs of life".
+
+Deluvio's body was found pinned between two beams, Chua added.
+
+The national disaster agency raised the death toll to 45 on Wednesday, while the number of people missing jumped dramatically from four to 17.
+
+However, the figure for fatalities did not include Deluvio, the civil defence office confirmed.
+
+Most of the additional dead were from Davao Occidental province, and most had been killed in landslides or collapsing buildings, civil defence official Rafaelito Alejandro said in a radio interview.
+
+pam-cwl/cgm/mjw
+
+---
+
+### Stock Market LIVE: Sensex jumps 500 pts, Nifty above 23,350; Meesho share price rises 5%
+*Business Standard · business, entrepreneur, finance*
+
+Sensex Today | Stock Market LIVE Updates Wednesday: In the broader markets, the Nifty MidCap and the Nifty SmallCap indices were trading 0.01 per cent and 0.25 per cent higher, recently
+
+[Read full article](https://www.business-standard.com/markets/news/stock-market-live-june-10-nse-bse-sensex-today-nifty-gift-nifty-us-iran-strikes-cmr-green-technologies-ipo-listing-126061000115_1.html)
+
+---
+
+### 'Hands, legs were shaking': Rs 78,00,00,000 lottery win for Nepali Security Guard in UAE, he plans to build a house and own Mahindra Thar
+*Trending Desk · business*
+
+A Nepali security guard working in Abu Dhabi witnessed a life-changing moment after winning a massive UAE Lottery jackpot worth Dh30 million (around ₹78 crore). What makes the story even more striking is how the prize was shared among five friends who pooled their money together for the ticket. Tayab Khan, now dreams of a Mahindra Thar, a new house, and a completely new life path, reports The Indian Express.
+
+## From security guard to crorepati overnight
+
+Tayab Khan, originally from Nepal, had been working in the UAE for around four years as a security guard. Khan and his friends decided to try their luck together — pooling money and buying UAE Lottery tickets as a group. That decision ended up changing everything.
+
+**
+
+When the winning numbers matched, Khan wasn’t even watching the draw. He found out later through an email notification. At first, he thought it was just another small update, until reality sank in.
+
+As he described his reaction, he said: “My hands and legs were shaking. It felt like a dream.”
+
+## The first big goal: A house and a Mahindra Thar
+
+Despite the sudden wealth, Khan’s first priority remains simple: building a proper home for his family in Nepal. For him, the win is less about luxury and more about stability — a chance to finally give his parents and loved ones a secure life after years of hard work abroad.
+
+**
+
+Like many young Indian subcontinent car enthusiasts, Khan also has a few personal dreams on his wishlist.
+
+Among them is the popular SUV Mahindra Thar, which he reportedly wants to buy as a personal reward for years of struggle and discipline. Alongside it, he has also mentioned interest in luxury items like a watch and possibly upgrading his lifestyle after years of modest living.
+
+But he has also hinted that big decisions — like leaving his security job — are likely, as he now considers entrepreneurship and investment opportunities.
+
+## What he plans next
+
+With financial pressure gone, Khan is now looking beyond employment. Reports suggest he may explore:
+
+Real estate investment  
+Business opportunities in the UAE  
+A long-term move into entrepreneurship
+
+Still, he hasn’t rushed into decisions, preferring to first settle family responsibilities.
+
+## A win shared with friends, not just fortune
+
+One of the most emotional parts of the story is how the winnings are not going to a single person. Khan and four friends had been pooling money regularly, treating the lottery as a shared hope rather than a gamble.
+
+Their persistence and determination finally paid off when their ticket hit the Dh30 million jackpot. The prize is split equally, giving each friend around Dh6 million (about ₹13 crore).
+
+Each friend in the group had their own struggles, one away from family for years, another newly married, and one recently a father. The win, for them, is collective relief. The group’s bond, jokingly calling themselves the “Future Millionaires” — has now turned into reality.
+
+## Why this story is going viral
+
+Stories like this resonate because they blend struggle, friendship, and sudden fortune. A security guard’s routine life turning into crores overnight feels almost cinematic — especially when grounded in real-world details like family responsibilities and humble dreams.
+
+From night shifts to a Mahindra Thar dream and a new house back home, Khan’s journey is now being seen as a classic modern “rags to riches” moment — shared, not solo.
+
+---
+
+### Biker crushed to death as cement mixer truck topples on him in Pune’s Navale Bridge area
+*Express News Service · legal*
+
+Between 2022 and 2024, the Navale Bridge area in Pune has witnessed several accidents that have led to 12 deaths and seven critical injuries. (Screen grab)
+
+A 31-year-old biker was crushed to death in Pune on Wednesday morning after a speeding cement mixer truck toppled onto him at the accident-prone ‘black spot’ Navale Bridge stretch on the Katraj Dehu Road bypass of the Mumbai-Bangalore Highway. The driver of the cement mixer truck was also injured.
+
+According to officials at Narhe police station, the mishap took place around 12.30 am on Wednesday. The police have identified the deceased as 31-year-old Rameshwar Machhindra Bhogale, who is believed to have died on the spot. The injured driver has been identified as Gorakh Laxman Ransure.
+
+“The accident occurred in the Navale Bridge area opposite Pulse Hospital in Narhe, when a cement mixer truck travelling from Katraj towards Bavdhan overturned while taking a turn near Navale Chowk. The truck fell onto a motorcycle travelling alongside it towards Bavdhan, crushing the rider, who died on the spot. The cement mixer driver sustained head injuries,” an officer from Narhe police station said.
+
+The accident caused a traffic jam on the Bengaluru\-Mumbai corridor of the highway bypass. The officer added that the damaged vehicles were removed from the spot to restore traffic flow.
+
+While the driver has been sent for medical tests and treatment, the deceased was shifted to Sassoon Hospital for post-mortem examination. Necessary legal action is being initiated in the case.
+
+#### An accident-prone stretch
+
+The Navale Bridge area has been on the list of accident-prone stretches in Pune for several years now. According to the norms set up by the Union Ministry of Road Transport and Highways (MoRTH) and the Indian Roads Congress, the apex body of highway engineers in India, a patch of 500 metres of the road on which five or more accidents with fatalities or grievous injuries have taken place in three years is referred to as a ‘black spot’.
+
+The District Level Road Safety Committee, chaired by the district collector, is the nodal authority that monitors ‘black spots’ and the remedial measures adopted by stakeholder agencies to reduce the risk factors on these road patches.
+
+Story continues below this ad
+
+Between 2022 and 2024, Navale Bridge witnessed 12 deaths and seven critical injuries in accidents.
+
+In November last year, in a major accident in the Navale Bridge area, a speeding truck collided with multiple vehicles, causing the death of seven people and leaving about 20 more injured.
+
+In November 2022, a truck carrying gunny bags of rice went on to hit at least 48 vehicles, of which 24 were heavily damaged. Twenty-five people were injured in the accident.
+
+---
+
+### Iran claims US strikes hit 2 reservoirs, coastal town left without drinking water
+*India Today World Desk · general*
+
+## Tehran alleged that US strikes disrupted essential services in Sirik, with local authorities reporting a loss of drinking water access. The Iranian Consulate in Mumbai condemned the attack and called it a breach of humanitarian norms.
+
+A woman stands amid the rubble of her home, damaged in a US strike in Iran. (Reuters)
+
+Iran on Wednesday said that overnight US attacks on its territory hit two water storage tanks in Sirik, disrupting water access for residents across the coastal city.
+
+Condemning the strike as a violation of human rights, the Iranian Consulate in Mumbai wrote, "US terrorist strikes on Sirik have hit two water storage tanks, cutting off access to drinking water for local residents. Targeting civilian water infrastructure raises serious humanitarian concerns."
+
+Iranian state media also reported that the US strikes in Sirik hit two water tanks, disrupting the city's drinking water supply.
+
+"In the enemy's attack on Sirik tonight, two water tanks in the Bamani district were hit and drinking water has been cut off," the report said, according to Iran International.
+
+Iran's Revolutionary Guards said on Wednesday that they had fired long-range missiles at four locations inside the US al-Azraq base in Jordan, according to Iranian media reports. The Guards said the sites they had aimed at included hangars used for F-35 fighter aircraft and a command-and-control facility, and said they were prepared to give a "crushing and decisive" answer to any new US attack.
+
+The statement came after the United States carried out strikes on Iranian targets, with President Donald Trump accusing Tehran of bringing down an American Apache helicopter over the Strait of Hormuz. The latest exchange signalled a sharp escalation in hostilities between Washington and Tehran.
+
+The US military described its operation as a "proportional response to unjustified Iranian aggression."
+
+A US official told Reuters that the Apache had been downed by an Iranian one-way attack drone. Trump said the two pilots on board survived without injury and said Washington would respond.
+
+As the operation continued, a US official told Axios that American forces had struck several Iranian air defence and radar installations around the Strait of Hormuz.
+
+US Central Command said the action was taken in "self-defence" after the helicopter was shot down. The US military later said CENTCOM had hit Iranian air defence systems, ground control stations and surveillance radar positions near the Strait of Hormuz, adding that the strikes against Iran had been completed.
+
+Reports of blasts emerged from several parts of southern Iran early on Wednesday. Iran's Fars news agency said explosions were heard in eastern parts of Hormozgan province, while Mehr news agency reported blasts in the port city of Bandar Abbas. Iranian state media also said a projectile impact had been confirmed in Sirik and reported that Qeshm Island had come under attack.
+
+Iranian Foreign Minister Abbas Araqchi did not directly comment on the helicopter incident, but said foreign military forces operating near Iran were always exposed to the risks of accidents, miscalculation or getting caught in crossfire. "To reduce risk, the best solution is for them to leave," Araqchi said in a social media post.
+
+Iran's Revolutionary Guards also said they had launched drones at the US Fifth Fleet in Bahrain in retaliation for the US strikes on targets in southern Iran earlier in the day, according to state media. The Guards said fighting was continuing and warned of a "more severe response" if what they called continued US aggression went on. They also said the US attacks had damaged a telecommunications tower and two water tanks in the Iranian port town of Sirik.
+
+Before the US strikes, Iranian state media had quoted a military source as saying that Iran had not carried out any offensive air operations in the Strait of Hormuz in the previous 24 hours.
+
+The same source warned that Iran would give a "decisive response" if it faced renewed hostility linked to the helicopter incident. The exchange amounted to one of the most serious direct confrontations between the United States and Iran in recent years, adding to concerns over security in the Gulf and global energy supplies.
+
+\- Ends
+
+Sayan Ganguly
+
+Jun 10, 2026 09:42 IST
+
+---
+
+### 'An Exception To Global Trend': Ram Nath Kovind Hails PM Modi's Record-Breaking Tenure
+*Vani Mehrotra · general*
+
+Former President Ram Nath Kovind says PM Modi's 12-year tenure reflects a broader political, cultural and civilisational shift in post-Independence India.
+
+[Read full article](https://www.news18.com/india/pm-modi-longest-serving-elected-pm-ram-nath-kovind-opinion-nehru-record-nda-meeting-bharat-transition-ws-l-10139965.html)
+
+---
+
+### Sensex, Nifty open flat as Middle East tensions escalate
+*Express Web Desk · legal*
+
+As many as 11 of the 16 major sectors advanced ​at ​the open, even though the gains ⁠were marginal
+
+Share markets opened flat on Wednesday, as renewed hostilities between the US and Iran dampened hopes for a ceasefire in the vicinity, keeping global markets on edge.
+
+As of 9.15 am, the Nifty 50 plummeted 0.04% ⁠to ​23,233.95, while the BSE Sensex rose 0.09% to 73,988.27, news agency _Reuters_ reported.
+
+As many as 11 of the 16 major sectors advanced ​at ​the open, even though the gains ⁠were marginal.
+
+Both the benchmark indices gained about 0.5% each in the previous session, riding on the forex swap facility provided by the Reserve Bank of India for banks’ overseas foreign-currency borrowing ⁠and a halt in the Middle East conflict.
+
+Meanwhile, the rupee falls 15 paise, or 0.2 per cent, to 95.56 against the US dollar in early trade, as fresh exchange of strikes between the US and Iran led to a spike in crude oil prices and put pressure on the home currency.
+
+---
+
+### ‘Got the call within minutes’: Gujarat Ex-CM Vijay Rupani’s son on Air India crash
+*Parimal A Dabhi · legal*
+
+“My father would say that cemeteries across the world are full of people who believed they were indispensable; never think that the world will stop \[functioning without you\]…” Rushabh Rupani said as he remembered his father and former Gujarat chief minister Vijay Rupani, who died in the crash of Air India Flight 171 on June 12 last year.
+
+In an exclusive interview with The Indian Express, Rushabh said he, like the families of other victims, was waiting to find out why the plane crashed. “I have full faith in the Government of India, the Ministry of Civil Aviation, and the Directorate General of Civil Aviation. And I urge all families to have full faith in the government and the system. The report will be out soon: the investigation is ongoing, so it will be inappropriate for me to comment on it at the moment. I can only say that one must have faith; it will have results soon. And all will get justice,” the 30-year-old said.
+
+The former CM’s family plans to observe his death anniversary with the launch of welfare activities through a newly established Vijay Rupani Foundation.
+
+Vijay Rupani was one of the 241 people on board the Air India Dreamliner heading to Gatwick (London) that crashed minutes after taking off from the Sardar Vallabhbhai Patel International Airport in Ahmedabad on June 12, 2025. He was scheduled to join his London-based daughter Radhika for a family get-together. His wife Anjali had flown there earlier.
+
+Rushabh, a mechanical engineer, was working for a start-up in the United States when a friend employed with Air India called him to inform him about the accident.
+
+“It was afternoon (of June 12) here in India, and in the US, it was the night of June 11. I have many friends in Air India. Personally, I like aviation. As an engineer, aviation and aircraft are among my favourite subjects. Many of my friends are pilots. One of my friends called me at night. I can never forget that phone call. In the middle of the night, \[the friend\] said that there is bad news and that this accident has happened,” Rushabh said. “I got the call within minutes of the crash.”
+
+“His death was a paramount loss not only for my family, but also for innumerable party workers and others who came to him for mentorship and guardianship. And this loss can never be filled.”
+
+Story continues below this ad
+
+Rupani’s body was identified after the DNA samples matched those of his sister Charu and cousin Aminesh.
+
+After the crash, Prime Minister Narendra Modi met Rupani’s family members, especially his wife Anjali, at the Ahmedabad airport to express condolences. Rusbhabh said, “PM Sir and my father worked together for so many years… I was not there (during the meeting), but I came to know that his (PM Modi’s) eyes were moist… The warmth he showed to the family at that difficult hour…we are grateful to him forever.”
+
+Recalling a lesson taught to him by his father, Rushabh said, “My father would say never think that the world would stop \[functioning\] if something was to happen to us. That the world would always move on. The show must go on. My father taught us to have ‘sthitpragyata (steadfastness)’ and not allow either happiness or sorrow to overwhelm us.”
+
+“The loss of a parent is very difficult to put into words. There is an absence of a mentor, a guide, and it will be there forever. However, his thoughts, values, and principles are still alive. The pain of losing a dear one is still there, but we are moving with courage on the path paved by him,” he added.
+
+Story continues below this ad
+
+After the crash, the family invited people from across the board to share their memories of Vijay Rupani. They got a huge response from people from different spheres, including industrialists, politicians, bureaucrats, and social workers. And now, the family is planning a book that will recount those ‘memories’.
+
+“The book will be released soon,” Rushabh said.
+
+Also, the Rupanis have formed a voluntary organisation, Vijay Rupani Memorial Foundation, that will carry out welfare activities in the field of health, education, and community service. It will also help youngsters in their careers.  
+Rushabh said the foundation would work on the principles of his late father.
+
+“My father believed that the focus should be on ‘sarva’ (all) and not swa (oneself). With that mantra, and for the wholesome development of people, and to reach the poorest, we have organised welfare activities on June 13 and 14 in Rajkot \[to mark the anniversary of the plane crash\],” he said.
+
+The programmes include a kidney awareness seminar and a free medical camp in coordination with the Indian Medical Association.
+
+Story continues below this ad
+
+It is to be noted that the Rupani family has been carrying out welfare activities for children from underprivileged sections for years now under the aegis of Pujit Rupani Trust. The trust was founded by Vijay Rupani and his wife Anjali in memory of their son Pujit, who died in an accident when he was three years old.
+
+Asked if he will visit the crash site on June 12, Rusbhabh said, “Whenever I pass by that place, I stop and offer my obeisance. But otherwise, there is no specific plan to visit the site on the day.”
+
+**On the crash site**
+
+The plane crashed in Ahmedabad city’s Meghaninagar area, where a hostel and mess of BJ Medical College were situated. The facilities were severely damaged. Recently, the Gujarat government announced plans to demolish the damaged hostel blocks and build a new PG hostel complex at the spot with Rs 105 crore. Against this announcement, some grieving relatives of the victims have appealed to the state government to build a memorial at the crash site.  
+On this development, Rushabh said, “Whenever such a question arises, I imagine what could have been my father’s thought on it. This attitude helps me. If there is a development project where students will stay, study, get higher education and make their careers, then my father would never oppose it.”
+
+Story continues below this ad
+
+“I understand that people’s emotions are attached… It is in my opinion that developmental work should never stop. But a small place may be allocated (at the crash site) where people can visit and pay their respects. But I must add that neither my father nor our family would ever be against any developmental project.”
+
+**On joining politics**
+
+Asked if he would join active politics, Rushabh said that his entire family has been associated with the RSS and the BJP for years. “I want to stay a party worker forever. I am a party worker and will remain one. There was no other expectation in the past, and it is not there (even now).”
+
+---
+
+### Gold, Silver Rate Today: Check live price of 22K, 24K, 18K gold & silver on 10 June 2026 in Mumbai, Delhi, other cities | Mint
+*Jocelyn Fernandes · economy*
+
+## Gold, Silver Rate Today: Here is how much gold and silver costs in key Indian cities on Wednesday, 10 June 2026. Check the price of 18K, 22K and 24K gold and 999 Fine silver in Ahmedabad, Bengaluru, Chennai, Delhi, Hyderabad, Kolkata, and Mumbai.
+
+Gold, Silver Rates Today: Here are gold and silver rates in key Indian cities. Check the price of 18K, 22K and 24K gold and 999 Fine silver in Ahmedabad, Bengaluru, Chennai, Delhi, Hyderabad, Kolkata, and Mumbai on 10 June. **(AFP / File)**
+
+**Gold, Silver Rate Today:** The yellow metal declined today on 10 June (Wednesday) amid renewed tensions between the United States and Iran. Prices slipped further after the US launched attacks on Iran against the downing of a helicopter jolting global markets and hiking inflation fears.
+
+Bullion fell as much as 2% to below $4,175 an ounce on Wednesday, having slid 1.6% in the previous session, according to Bloomberg. Spot gold fell 2% to $4,175.85 an ounce at 10:55 a.m. in Singapore, it added.
+
+Silver slid 2.3% to $63.86 an ounce. Platinum and palladium also retreated. The Bloomberg Dollar Spot Index, a gauge of the US currency, was little changed.
+
+Gold is about a fifth below where it was trading before the war broke out at the end of February. Its recent decline through its 200-day moving average has spooked sell offs by institutional investors, as per the report.
+
+## Gold, silver rates today: 18K, 22K, 24K gold and 999 Fine silver prices across Indian cities
+
+Here are gold and silver rates in key Indian cities on Wednesday, 10 June 2026. Check the price of 18K, 22K and 24K gold and 999 Fine silver in Ahmedabad, Bengaluru, Chennai, Delhi, Hyderabad, Kolkata, and Mumbai today as follows:
+
+### Gold, Silver Rates in Mumbai
+
+The gold price in Mumbai today, 10 June, was in line with the overall gold rate in India. The 24-karat gold price in Mumbai was ₹1,49,890 per 10 grams. Meanwhile, the price of 22-karat gold in Mumbai was ₹1,37,399 per 10 grams. On the other hand, the 18-karat gold rate in Mumbai was ₹1,12,418 per 10 grams.
+
+The silver price in Mumbai today, 10 June, was in line with the overall silver rates in India. The price of Silver 999 Fine in Mumbai was ₹2,35,930 per kg.
+
+### Gold, Silver Rates in Delhi
+
+The gold price in Delhi reflected the overall gold rates across India on 10 June. The 24-karat gold price in Delhi was ₹1,49,630 per 10 grams. Meanwhile, the price of 22-karat gold in the national capital was ₹1,37,161 per 10 grams, while the rate of 18-karat gold was ₹1,12,223 per 10 grams.
+
+The silver price in Delhi today, 10 June, was in line with the overall silver rates in India. The price of Silver 999 Fine was ₹2,35,520 per kg.
+
+### Gold, Silver Rates in Bangalore
+
+The 24-karat gold price in Bengaluru was at ₹1,50,010 per 10 grams, on 10 June. Meanwhile, the 22-karat gold price in the city was ₹1,37,509 per 10 grams, and the 18-karat gold rate in Bengaluru was ₹1,12,508 per 10 grams.
+
+The silver price in Bengaluru today, 10 June, was in line with the overall silver rates in India. The price of Silver 999 Fine was ₹2,36,110 per kg.
+
+### Gold, Silver Rates in Kolkata
+
+The gold price in Kolkata was in line with the trend seen in other major Indian cities on 10 June. The 24-karat gold price in Kolkata was ₹1,49,690 per 10 grams. Meanwhile, the 22-karat gold price in Kolkata stood at ₹1,37,216 per 10 grams, and the 18-karat gold rate in Kolkata was ₹1,12,268 per 10 grams.
+
+The silver price in Kolkata today, 10 June, was in line with the overall silver rates in India. The price of Silver 999 Fine was ₹2,35,610 per kg.
+
+### Gold, Silver Rates in Chennai
+
+The gold price in Chennai was like in other major cities in India, as per bullion data for 10 June. The 24-karat gold price in Chennai was ₹1,50,390 per grams. Further, the 22-karat gold price in the city was ₹1,37,858 per 10 grams. The 18-karat gold rate was ₹1,12,793 per 10 grams.
+
+The silver price in Chennai today, 10 June, was in line with the overall silver rates in India. The price of Silver 999 Fine was ₹2,36,800 per kg.
+
+### Gold, Silver Rates in Hyderabad
+
+The gold price in Hyderabad followed national and global trends today. The 24-karat gold price in Hyderabad was ₹1,50,200 per 10 grams, up 1,120/10 grams. The 22-karat gold was priced at ₹1,37,683 per 10 grams, and the 18-karat gold rate was ₹1,12,650 per 10 grams.
+
+The silver price in Hyderabad today, 10 June, was in line with the overall silver rates in India. The price of Silver 999 Fine was ₹2,36,480 per kg.
+
+### Gold, Silver Rates in Ahmedabad
+
+The gold price in Ahmedabad corresponded with the overall gold rate trend across India, according to bullion data today. The 24-karat gold price in Ahmedabad was ₹1,50,220 per 10 grams. The 22-karat gold price in the city was ₹1,37,702 per 10 grams, and the 18-karat gold rate was ₹1,12,665 per 10 grams.
+
+The silver price in Ahmedabad today, 10 June, was in line with the overall silver rates in India. The price of Silver 999 Fine was ₹2,36,730 per kg.
+
+_(With inputs from Bloomberg)_
+
+_**Disclaimer:** This story is for educational purposes only. The views and recommendations made above are those of individual analysts or broking companies, and not of Mint. We advise investors to check with certified experts before making any investment decisions._
+
+### About the Author
+
+Jocelyn Fernandes
+
+Jocelyn Fernandes is a journalist and editor with nearly 13 years of experience covering the business, corporate, economy and markets beats in news.<br> As chief content producer for around three years at Livemint (Hindustan Times), Jocelyn publishes breaking stories, explainers, features and live blogs on a range of business and economy topics, including the Budget, corporate developments, stock markets, income tax, money and personal finance, cryptocurrency, government policy, impact of US tariffs, international developments and more.<br> Jocelyn's writing philosophy is focused on delivering news in an accurate and accessible format for readers. She thus focuses her news coverage on explainers and FAQs in order to breakdown business, corporate, economic, and policy topics that are of importance to everyday readers.<br> She holds a Bachelors in Mass Media (BMM) and Post Graduate Diploma (PGD) in Journalism and Communication and has previously written for online business and markets news site Moneycontrol (Network18), Business-to-business (B2B) trade publications — the industry magazines Power Today and Solar Today (ASAPP Media), and the national news agency United News of India (UNI).<br> Outside of work, Jocelyn keeps up-to-date with local and international news, enjoys reading fiction books, novels and short stories, and enjoys movies, travelling and art. <br> She can be found on X and LinkedIn, and reached by email: <a href="jocelyn.fernandes@htdigital.in">jocelyn.fernandes@htdigital.in</a> <br> X/ Twitter handle: <a href="https://x.com/scribeJocelyn">@scribeJocelyn</a> <br> LinkedIn: <a href="https://in.linkedin.com/in/jocelyn-fernandes-journalist">LinkedIn</a>
+
+---
+
+### 'Powerful Testament': US Envoy Sergio Gor Greets PM Modi On Becoming India's Longest-Serving Prime Minister
+*Devanshe Pandey · general*
+
+PM Modi surpassed the record of India's first Prime Minister, Jawaharlal Nehru, by completing an uninterrupted tenure of 4,399 days in office.
+
+[Read full article](https://www.news18.com/india/powerful-testament-us-envoy-sergio-gor-greets-pm-modi-on-becoming-indias-longest-serving-prime-minister-ws-l-10139899.html)
+
+---
+
+### CleanMax shares soar 15% to record high on Meta partnership
+*SECTIONS CleanMax shares soar · economy*
+
+CleanMax Enviro Energy Solutions shares jumped 15% to a fresh 52-week high of ₹1,421.20 on the NSE on Wednesday after the company announced a 900 MW renewable energy partnership with Meta Platforms.
+
+CleanMax will develop and operate the new renewable energy capacity, which includes large-scale solar and wind projects. Meta will purchase 100% of the environmental attributes from these projects. The renewable energy initiatives support Meta’s efforts to add new generation capacity to the grid and advance its goal of matching its electricity use with 100% clean and renewable energy.
+
+“The announcement builds on an existing relationship between the two companies and reflects the growing role of innovative corporate procurement models in accelerating India’s energy transition,” a company press release said.
+
+Kuldeep Jain, Founder and Managing Director of CleanMax Enviro Energy Solutions Limited, said, “Meta connects billions of people every day through platforms such as Facebook, Instagram, WhatsApp, and Threads while helping shape the future of digital and AI infrastructure. We are thrilled to partner with Meta. Every generation builds infrastructure that defines its future. For us, that infrastructure is increasingly digital, AI-driven, and interconnected. It must also be powered by clean energy. We look forward to supporting Meta’s renewable energy ambitions while contributing to India’s clean energy transition.”
+
+Sensex, Nifty today: Catch all the LIVE stock market action here
+
+Amanda Yang, Head of Clean and Renewable Energy at Meta, said, “These agreements represent meaningful progress in supporting our renewable energy goals in the region. We’re pleased to continue working with CleanMax to help bring new renewable energy capacity onto the grid in India and support the growth of the country’s clean energy ecosystem.”
+
+CleanMax Enviro Energy Solutions is India’s largest pure-play commercial and industrial renewable energy company, with more than 15 years of operations. The company’s contracted renewable energy portfolio reached 5.7 GW in FY25, with approximately 74% of new contracted capacity driven by existing customers, reflecting strong retention and long-term business visibility.
+
+---
+
+### Shillong Teer Results Today Live, June 10, 2026: Winning Numbers For All Teer Games
+*Nibandh Vinod · general*
+
+Shillong Teer Result Today: Here's full list of winning numbers for Shillong Teer, Juwai Teer, Khanapara Teer, and more for June 10, 2026.
+
+[Read full article](https://www.news18.com/india/shillong-teer-result-today-june-10-2026-first-and-second-round-lottery-result-check-winning-numbers-full-list-10137871.html)
+
+
+---
+
 ## 8 June 2026
 
 ### Scrap Dealer Declares Rs 3 Lakh Income, Gets Rs 44 Lakh Tax Notice; ITAT Steps In
