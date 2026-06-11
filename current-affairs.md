@@ -1,3 +1,540 @@
+## 11 June 2026
+
+### States Yet To Set Up Cyber Crime Centres Get Fresh MHA Push As Online Frauds Rise
+*Apoorva Misra · general*
+
+According to the ministry, the centres will serve as state-level nodal agencies to coordinate efforts towards the prevention, detection, and prosecution of cybercrime
+
+[Read full article](https://www.news18.com/india/states-yet-to-set-up-cyber-crime-centres-get-fresh-mha-push-as-online-frauds-rise-ws-l-10142566.html)
+
+---
+
+### Uttar Pradesh Sets New Record, Meets Peak Power Demand Of 31,824 MW In May
+*Prisha Vibhavari · general*
+
+Uttar Pradesh under Chief Minister Yogi Adityanath has doubled power capacity since 2014 and now meets record demand, delivering near 24 hour supply in cities.
+
+[Read full article](https://www.news18.com/india/uttar-pradesh-sets-new-record-meets-peak-power-demand-of-31824-mw-in-may-ws-l-10142557.html)
+
+---
+
+### On Cam: 25-Year-Old Gym Owner Shot Dead By Bike-Borne Assailants In Haryana’s Hansi
+*Aanchal Sinha · general*
+
+The victim was taken to a nearby hospital, where doctors declared him dead. One more person is stated to have sustained injuries in the incident.
+
+[Read full article](https://www.news18.com/india/on-cam-25-year-old-gym-trainer-shot-dead-by-bike-borne-assailants-in-haryanas-hansi-ws-l-10142503.html)
+
+---
+
+### 'India's AI index beat Mag-7 plus Nvidia': Hiren Ved says stop mourning FII exits and start investing smarter
+*Unknown · general*
+
+Synopsis
+
+India is in an 'Opportunity Kaal', not an AI drought, and that companies using AI aggressively will leave rivals behind within five years, says Hiren Ved, Director and CIO of Alchemy Capital Management. The AI adoption is creating a significant divide between leading firms and those lagging behind. Investors are urged to identify companies leveraging AI effectively. The strategic use of AI will drive competitive advantages and future growth for businesses.
+
+ETMarkets.com
+
+India does not lack an AI story, investors are just not looking hard enough. That was the blunt message from Hiren Ved, Director and CIO of Alchemy Capital Management, speaking at the ET Alpha Wealth Summit in Mumbai.
+
+While the broader panel including Vikas Khemani, Founder & Chief Investment Officer, Carnelian Asset Management & Advisors, Saurabh Mukherjea, Founder & Chief Investment Officer, Marcellus, and Kailash Kulkarni, CEO, HSBC Mutual Fund, India, debated whether the next decade is India's 'Amritkaal' or 'AI-Kaal', Ved reframed the question entirely, calling it 'Opportunity Kaal'.
+
+  
+
+## India's AI index vs Mag-7: the numbers that surprised everyone
+
+Ved arrived at the summit with data that challenged a dominant market narrative — that India has no meaningful AI play and that foreign institutional investors are right to stay away. He constructed a proprietary India AI index of roughly 12 reasonably large mid-to-large cap stocks and compared it against an equal-weighted basket of the Magnificent 7 plus Nvidia.
+
+### India AI index: 1 yr (USD)
+
+45%
+
+  
+
+### Mag-7 + Nvidia: 1 yr (USD)  
+
+19%
+
+  
+
+### India AI index: 3 yr CAGR (USD)
+
+52%
+
+  
+
+### Mag-7 + Nvidia: 3 yr CAGR (USD)  
+
+24%
+
+The outperformance held across every time frame, one year, two years, and three years, all measured in dollar terms, after accounting for currency depreciation. "If you think hard, if you think creatively, there are ways to make money," Ved said, dismissing the headline-driven view that India is being left behind in the AI race.
+
+"Capital is very smart. Capital will go where the returns are the best. And everybody gets their time," said Ved.
+
+  
+
+## The AI adopters vs the laggards; a widening gap  
+
+Ved's more urgent warning was for stock-pickers: the divide between companies that actively use AI and those that ignore it will become decisive within three to five years, even if it is not visible in year one. He cited Bajaj Finance as a live example, noting the NBFC has already deployed AI across six to seven core processes, improving cost-to-income ratios, revenue potential, and credit risk management simultaneously.
+
+For investors, this means a new due-diligence question must enter every portfolio review: what is this company actually doing with AI? Those that leverage it well will compound their competitive advantage; those that do not will, in his words, "fall by the wayside."
+
+## Disruption as a driver, not a disaster
+
+Beyond markets, Ved offered a philosophical lens on disruption itself, arguing that both incentives and shame are equally powerful motivators for reform. The gradual disappearance of conventional office career ladders, he suggested, will push more Indians toward entrepreneurship and sharper thinking about what skills actually matter in the decade ahead.
+
+His bottom line: stop lamenting what India lacks and start identifying where it quietly leads. "I become very happy when there are disruptions," he said, "because there is an impulse to change."
+
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+...moreless
+
+_(You can now subscribe to our ETMarkets WhatsApp channel)  
+_
+
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+...moreless
+
+---
+
+### Iran Says Hormuz 'Completely Closed': These 7 Everyday Items Could Become More Expensive For You
+*Apoorva Misra · general*
+
+India imports around 88 per cent of its crude oil needs, with roughly half of those imports typically linked to supplies moving through Hormuz
+
+[Read full article](https://www.news18.com/explainers/iran-says-hormuz-completely-closed-these-7-everyday-items-could-become-more-expensive-for-you-ws-l-10142468.html)
+
+---
+
+### Two Indian sailors dead, 1 chief engineer missing after vessel attack near Hormuz: Seamen's Union of India
+*SECTIONS Two Indian sailors dead · general*
+
+Mumbai: Two Indian sailors have been confirmed dead, and one remains missing following an attack on a commercial vessel near the Strait of Hormuz, according to the Forward Seamen's Union of India (FSUI).
+
+General Secretary of FSUI Manoj Yadav said communication with the vessel has been severely disrupted, and details are still being verified.
+
+"We have been unable to establish a connection with the ship," Yadav told ANI, adding, "The latest information I have indicates that two have died, while the Chief Engineer is still reported as missing."
+
+  
+
+He further said that the three affected sailors were from different Indian states.
+
+"The three are from Himachal Pradesh, Deoria (Uttar Pradesh), and Andhra Pradesh," he said.
+
+Yadav further said that he believes US naval forces were aware of the nationalities of those onboard the vessels and that detention could have been considered as an alternative if instructions were not followed.
+
+"I absolutely refuse to believe that the US lacked information regarding the nationalities of the people on board those ships. That is simply not possible. I am 101% certain that US naval forces knew exactly how many Indians and foreign nationals were on those vessels. If the ships failed to heed their instructions, detaining them was a viable alternative," Yadav said.
+
+Earlier, the Ministry of External Affairs (MEA) had condemned the attack on the vessel MT Settebello off the coast of Oman on Monday, stating that 21 of the 24 Indian crew members onboard had been rescued, while three Indians remained missing.
+
+"We condemn the attack on the commercial vessel Settebello off the coast of Oman, earlier today. Of the 24 Indian crew onboard, 21 Indians have been rescued thus far and 03 Indians are reportedly missing. Our Embassy in Oman is closely monitoring the situation and proactively coordinating with the Omauthorities in the ongoing Search and Rescue operation," the MEA said in a statement.
+
+Expressing concern over the broader security situation in the region, the MEA said, "The continuing incidents of attacks on shipping in the region are deeply worrisome and a direct result of the ongoing conflict in the region.
+
+"India reiterated its appeal for "de-escalation", stating, "We reiterate our call for immediate de-escalation of tensions, and the conclusion of ongoing negotiations for a diplomatic solution so that peace and stability can return to the region."
+
+---
+
+### AI can’t substitute judicial scrutiny, says court, cautions judges over fake citations in orders
+*Ashish Shaji · legal*
+
+The court noted that the citations attributed to the two principal judgments forming the basis of the impugned order were incorrect. (Image generated using AI)
+
+The Jammu and Kashmir and Ladakh High Court has cautioned judicial officers against relying on AI\-generated legal research without independent verification, after discovering incorrect and untraceable case citations in a trial court order.
+
+The court’s observations came while dismissing a plea challenging the execution of an interim order directing payment of salary to a former employee. While examining the trial court’s order, Justice **Wasim Sadiq Nargal** found that some of the judicial precedents relied upon were incorrectly cited.
+
+In one instance, the judgment referred to by the trial court could not be traced despite verification efforts, while another carried a citation that did not correspond to the actual decision.
+
+“This Court undertook an independent verification of the judgments referred to and relied upon in the impugned order. Upon such examination, it transpires that the citations attributed to the two principal judgments forming the basis of the impugned order are incorrect,” the high court noted in its order dated June 6.
+
+ Justice Wasim Sadiq Nargal cautioned judges against AI use.
+
+## Court cautions against use of AI
+
+The court noted that there is an increasing use of artificial intelligence\-based tools and digital research platforms in legal and judicial work. While such tools may assist research, the court stressed that they cannot replace judicial scrutiny.
+
+“This Court is also conscious of the increasing use of artificial intelligence-based tools and digital research platforms in legal and judicial work. While such tools may serve as useful aids for research they cannot substitute judicial scrutiny and verification,” the court noted.
+
+It emphasised that any proposition of law, citation, extract, or precedent generated or suggested by an artificial intelligence tool must be independently verified from authentic and authoritative sources before being relied upon in a judicial order.
+
+Story continues below this ad
+
+The court cautioned that the use of technological tools must be accompanied by appropriate caution and rigorous verification so as to ensure that judicial determinations are founded only upon genuine and verifiable legal authorities.
+
+“This Court considers it appropriate to caution the judicial officers to exercise greater care and circumspection while citing judicial precedents in future,” the court said.
+
+The court urged judicial officers to ensure that the judgments relied upon are correctly cited, capable of verification and faithfully reflect the proposition of law sought to be applied. It further expressed hope that due diligence shall be exercised in this regard so as to avoid recurrence of such lapses.
+
+To prevent similar lapses, the High Court laid down guidelines for the guidance of all judicial officers in the Union Territory:
+
+Story continues below this ad
+
+-   Any citation, precedent, extract, factual assertion or proposition of law obtained through artificial intelligence platforms or similar technological tools must be independently verified from authentic and authoritative sources before being relied upon or incorporated in any judicial order.
+-   Every precedent relied upon in a judicial order shall be accompanied by a complete and accurate citation;
+-   Wherever a precedent constitutes the foundation of a finding or conclusion, the relevant extract of the judgment should, as far as practicable, be reproduced verbatim rather than paraphrased;
+-   Citations obtained from unofficial compilations, secondary sources or electronic databases should be cross-verified with authentic sources before being incorporated into judicial orders.
+
+## Supreme Court AI committee’s draft regulation
+
+A complete ban on using artificial intelligence (AI) to decide judicial outcomes; restrictions on AI tools that predict or profile parties and witnesses; and a prohibition on undisclosed or unexplainable AI systems in court processes, these are among the draft regulations proposed by the Supreme Court AI Committee on the use of the technology in courts.
+
+The preliminary draft of the ‘Regulations for Use of Artificial Intelligence (AI) in Courts, 2026’ published by the top court on Wednesday emphasises that the use of AI in court processes will always “remain strictly subservient to human judgment and judicial authority”.
+
+Every AI system, it says, will function solely in an assistive capacity and “shall not supplant or compromise the independent exercise of judicial authority by a duly appointed judicial officer” and “the ultimate authority to determine matters of law, fact and justice shall vest exclusively in the judicial officers of the competent jurisdiction”.
+
+Ashish Shaji is a Senior Sub-Editor at The Indian Express, where he specializes in legal journalism. Combining a formal education in law with years of editorial experience, Ashish provides authoritative coverage and nuanced analysis of court developments and landmark judicial decisions for a national audience. Expertise Legal Core Competency: Ashish is a law graduate (BA LLB) from IME Law College, CCSU. This academic foundation allows him to move beyond surface-level reporting, offering readers a deep-dive into the technicalities of statutes, case law, and legal precedents. Specialized Legal Reporting: His work at The Indian Express focuses on translating the often-dense proceedings of India's top courts into clear, actionable news. His expertise includes: Judicial Analysis: Breaking down complex orders from the Supreme Court and various High Courts. Legal Developments: Monitoring legislative changes and their practical implications for the public and the legal fraternity. Industry Experience: With over 5 years in the field, Ashish has contributed to several niche legal and professional platforms, honing his ability to communicate complex information. His previous experience includes: Lawsikho: Gaining insights into legal education and practical law. Verdictum: Focusing on high-quality legal news and court updates. Enterslice: Working at the intersection of legal, financial, and advisory services. ... 
+
+-   Tags:
+-   Jammu and Kashmir High Court
+
+---
+
+### Cantor V founder and Indian-origin California businessman Mahender Makhijani accused in $100 million fraud; sex party and blackmail claims surface
+*Trending Desk · business*
+
+A California-based Indian-origin businessman, Mahender Makhijani, is facing accusations of $100 million fraud and explosive allegations that go far beyond financial misconduct. Federal prosecutors have accused Mahender Makhijani, linked to Newport Beach-based Cantor Group V (also referred to in reports as Cantor V), of orchestrating a large-scale bank fraud scheme. The court filings and witness accounts have also raised claims involving sex parties, intimidation, and blackmail.
+
+The case has drawn significant attention in the United States due to the scale of the alleged fraud and the sensational accusations surrounding Makhijani's personal and business dealings.
+
+**
+
+  
+
+## What Are the Allegations against Mahender Makhijani?
+
+According to federal authorities, Mahender Makhijani allegedly secured nearly $100 million from a regional bank by using forged real-estate documents and misleading financial information. Investigators claim altered property records were submitted to support loan applications and financing arrangements.
+
+> — smitaprakash (@smitaprakash)
+
+Authorities alleged that the scheme operated through a network of companies connected to Makhijani and involved manipulated title documents and inflated collateral values. The missing funds have not yet been recovered, according to reports.
+
+**
+
+“Makhijani has significant financial resources, but the government has not fully traced and accounted for those resources, which are almost certainly not held in Makhijani’s name,” the complaint states.
+
+## Sex Parties and Blackmail Claims
+
+The fraud allegations have been accompanied by disturbing claims about Makhijani's conduct outside the boardroom. Court documents cited in TOI stated that he hosted private parties involving sex workers and luxury entertainment.
+
+Some attendees were reportedly individuals connected to his business network. Prosecutors and witnesses have alleged that information gathered from these events was later used to pressure or blackmail participants.
+
+## Threats and Intimidation Alleged
+
+Investigators also accused Makhijani of creating a culture of fear among employees and associates.
+
+Federal filings cited by media reports allege he threatened staff members who failed to follow instructions and used intimidation tactics to maintain control over business operations. Reports state that employees were allegedly warned of severe consequences if they did not follow orders.
+
+## Luxury Lifestyle Under Scrutiny
+
+Authorities say Makhijani lived an extravagant lifestyle while allegedly carrying out the scheme. Reports describe private jet travel, high-end vehicles, luxury properties, and lavish spending habits. Federal agents arrested him during a raid at his upscale California residence. The arrest marked a dramatic turn in an investigation that had been building for months.
+
+## Previous Legal Troubles
+
+The businessman has also been linked to other high-profile real-estate disputes in California. In a separate arbitration matter, an arbitrator found that entities connected to Makhijani engaged in fraudulent conduct involving a large Southern California property portfolio. The ruling resulted in a damages award exceeding $1 billion, although that matter is separate from the current federal criminal case.
+
+## What Happens Next?
+
+Makhijani now faces serious federal charges 
+
+For now, prosecutors continue to investigate the alleged financial misconduct, while the claims involving sex parties, blackmail, and intimidation are expected to receive further scrutiny as the case moves through the legal system. Makhijani has not been convicted, and the allegations remain subject to judicial review.
+
+---
+
+### TS Inter Supply Results 2026: IPE 1st,2nd year marks memo likely to be out today
+*Education Desk · legal*
+
+TGBIE is set to declared the IPASE examination results. (Image: AI generated)
+
+**TS Inter Supply Results 2026:** The Telangana Board of Intermediate Education (TGBIE) is likely to announce the Intermediate Public Advanced Supplementary Examinations (IPASE) 2026 results today at 11:30 am, as per reports. The official websites to download marks memo are tsbie.cgg.gov.in and results.cgg.gov.in. The links will be activated once the results are officially released.
+
+Students who appeared for the TG IPE supplementary examinations for both first-year and second-year Intermediate courses will be able to check their results through the official TGBIE portal once the results are declared.
+
+The supplementary examinations were conducted for students who could not clear one or more subjects in the regular Intermediate Public Examinations. The Telangana Board held the Intermediate Public Advanced Supplementary Examinations (IPASE) 2026 for both General and Vocational streams from May 13 to May 21.
+
+As per the schedule, first-year theory examinations were conducted in the forenoon session from 9 am to 12 noon, while second-year examinations were held in the afternoon session from 2:30 pm to 5:30 pm. The examinations began with Second Language papers on May 13, followed by English papers on May 14 and subject-wise examinations thereafter.
+
+Practical examinations for eligible students were conducted between May 22 and May 25 in two sessions — from 9 am to 12 noon and from 2 pm to 5 pm.
+
+The supplementary examinations were conducted for students from both General and Vocational streams. TGBIE had earlier clarified that the examination schedule was applicable to Intermediate Vocational Courses as well.
+
+Students are advised to keep their hall ticket details ready to access their results once the scorecards are made available online. In case of any issues, students may contact the board’s helpline at 040-24603315 or visit the official website.
+
+Story continues below this ad
+
+The announcement of the supplementary examination results will provide students with an opportunity to continue their academic progression and participate in higher education admission processes without losing an academic year.
+
+---
+
+### Infosys, HCL Tech, TCS fall up to 3%: Why are IT stocks falling today?
+*Sonu Vivek · general*
+
+Information technology (IT) stocks witnessed heavy selling on Thursday, dragging benchmark indices lower, as a sharp overnight fall in US technology shares, rising concerns over artificial intelligence (AI)-led disruption, and fears of prolonged high interest rates hurt investor sentiment.
+
+The Nifty IT index fell 2.67% to 27,525.80, emerging as the worst-performing sector on Dalal Street. The decline also weighed heavily on the Sensex, where IT majors were among the biggest losers.
+
+HCL Technologies was the biggest Sensex loser, falling 2.85%, followed by Infosys, which declined 2.66%. Tech Mahindra fell 1.65%, while TCS dropped 1.48%.
+
+Other IT stocks also came under pressure. OFSS fell 3.75%, Persistent Systems dropped 2.84%, Coforge declined 2.76%, LTIMindtree fell around 2.7%, Mphasis slipped 2.56%, while Wipro fell 1.50%.
+
+### US TECH SELLOFF TRIGGERS FALL IN IT STOCKS
+
+The biggest reason behind the decline in Indian IT shares was the weakness in global technology stocks.
+
+Wall Street witnessed its sharpest selloff in weeks on Wednesday, with the tech-heavy Nasdaq Composite falling nearly 2%. The correction was led by a sharp fall in artificial intelligence\-linked stocks, as investors booked profits in companies that had seen a strong rally.
+
+AI chip giant Nvidia dropped 3.7%, while Broadcom fell 5.1%, triggering a broad selloff in semiconductor and technology shares.
+
+The weakness spread to Asian markets as investors reacted to the risk-off sentiment coming from the United States.
+
+### AI-LED DISRUPTION CONCERNS RETURN
+
+Another key reason behind the fall was renewed worries over the long-term impact of artificial intelligence on the IT services industry.
+
+While AI has created new business opportunities, investors are increasingly concerned that automation and AI-led productivity gains could reduce demand for traditional IT services.
+
+Global brokerage HSBC warned that AI-led deflation could continue to pressure the growth outlook for IT services companies for another six to eight quarters.
+
+The brokerage also highlighted that rising merger and acquisition activity could create additional risks for the sector and said IT sector valuations may eventually fall towards 13–14 times price-to-earnings multiples.
+
+### RISING US INFLATION RAISES FEARS OF HIGHER INTEREST RATES
+
+The latest US inflation data has added another layer of concern for technology stocks globally.
+
+The US Consumer Price Index (CPI) rose 4.2% year-on-year in May, the highest level in three years, largely due to rising energy prices amid the Middle East conflict.
+
+Higher inflation reduces the possibility of interest rate cuts by the US Federal Reserve and increases the chances of rates staying elevated for longer.
+
+This hurts technology and growth stocks because a large part of their valuation depends on expected future earnings. Higher interest rates reduce the present value of those future cash flows, making such stocks less attractive.
+
+### IT STOCKS FACE PRESSURE AFTER RECENT VOLATILITY
+
+The latest decline highlights the continuing volatility in IT stocks as investors assess whether AI will become a growth driver or a threat to the traditional outsourcing business model.
+
+The sector is also facing pressure from slower global technology spending, uncertainty around client budgets and concerns over the economic impact of higher interest rates.
+
+For Indian IT companies, which earn a significant share of revenue from the US market, weakness in American technology stocks and concerns over US economic conditions remain key factors that investors are closely tracking.
+
+_**(Disclaimer: The views, opinions, recommendations, and suggestions expressed by experts/brokerages in this article are their own and do not reflect the views of the India Today Group. It is advisable to consult a qualified broker or financial advisor before making any actual investment or trading choices.)**_
+
+\- Ends
+
+Jun 11, 2026 09:56 IST
+
+---
+
+### ‘Earned My Trust’: Australian Influencer Is All Praise For Yogi’s UP Police After Stolen iPhone Recovery
+*Shobhit Gupta · general*
+
+Jeakings' iPhone was reportedly stolen during the IPL final held at the Narendra Modi Stadium in Ahmedabad on May 31.
+
+[Read full article](https://www.news18.com/india/earned-my-trust-australian-influencer-is-all-praise-for-yogis-up-police-after-stolen-iphone-recovery-ws-l-10142466.html)
+
+---
+
+### Heavy rain coming: IMD issues orange alert for Delhi, weather to turn
+*India Today Science Desk · general*
+
+The India Meteorological Department (IMD) has issued an orange alert for Delhi, indicating the likelihood of thunderstorms, lightning, and gusty winds that could bring rain to the region within the next hour.
+
+The alert arrives after days of intense heat, with temperatures often crossing 43°C, giving residents hope for some relief from hot days and warm nights, and previewing what an incoming monsoon will feel like.
+
+The reason behind the sudden shift is a weather system moving out of Uttar Pradesh which is expected to bring light to moderate rains along with gusty winds to parts of Noida, Ghaziabad, and north and east Delhi soon.
+
+The weather system is seen over UP and Delhi-NCR in this satellite image. (Photo: IMD)
+
+These initial showers are likely to be brief.
+
+### WILL IT RAIN IN DELHI-NCR?
+
+The approaching cluster of clouds could deliver sudden downpours, thunder, and winds in scattered pockets of the region.
+
+This activity stems from heat-induced thunderstorms developing nearby, which often bring a mix of dust-raising winds followed by rain.
+
+Skies are expected to remain partly cloudy with chances of thunderstorms-like conditions developing as the day passes.
+
+Although this incoming morning spell of rain and wind will be short-lived, more widespread action is forecast for later in the day.
+
+Fresh thunderstorms are likely to develop in the late evening, impacting Punjab, Haryana, Delhi-NCR, parts of Rajasthan, and western Uttar Pradesh through the night and into early morning on Friday, June 12, possibly bringing moderate rainfall in some areas, along with lightning and gusty winds.
+
+Overcast skies are seen in Delhi on June 11 morning. (Photo: X/@bsf\_l)
+
+### WHY IS THE WEATHER CHANGING?
+
+This weather shift is primarily linked to a fresh western disturbance affecting northwest India.
+
+After a prolonged period of heatwave conditions that pushed temperatures well above normal, the system is introducing moisture and instability into the region.
+
+The IMD has noted that such western disturbances often trigger thunderstorm activity and a gradual drop in temperatures over the next couple of days.
+
+Recent days have seen similar spells of dust storms and scattered rains in Delhi-NCR, highlighting the typical pre-monsoon pattern where intense heating builds up convective activity.
+
+The current orange alert underscores the potential for squalls with winds reaching 40-60 kmph at times, offering a break from the scorching conditions that have gripped the capital.
+
+Overall, Delhi-NCR is set for a busy weather day with intermittent rain and cooling effects expected to continue in the short term as a new weather system breaks the warm trend gripping the region.
+
+\- Ends
+
+Jun 11, 2026 09:52 IST
+
+---
+
+### Rs 10 Lakh PMEGP Loan & Big Dreams: UP Man Becomes Entrepreneur, Creates Employment in Rural UP
+*Devanshe Pandey · general*
+
+UP man took Rs 10 lakh PMEGP loan in 2024 to start a dairy. His unit produces around 5 to 8 quintals of milk daily and employing three others.
+
+[Read full article](https://www.news18.com/india/rs-10-lakh-pmegp-loan-big-dreams-up-man-becomes-entrepreneur-creates-employment-in-rural-up-ws-l-10142465.html)
+
+---
+
+### Feature not a bug: Anthropic CEO Dario Amodei says AI could cause significant enduring job loss
+*Om Gupta · general*
+
+## Anthropic chief Dario Amodei has renewed his warning that AI could cause lasting job losses and urged governments to act. He says the technology's gains could be vast, but institutions must prepare faster to protect workers and spread the benefits.
+
+Anthropic CEO Dario Amodei maintains his warnings about AI job losses.
+
+OpenAI CEO Sam Altman has recently appeared to soften his stance on AI-driven job losses, increasingly suggesting that some of his earlier predictions may have been overstated. But his biggest rival, Anthropic CEO Dario Amodei, is not having a similar change of heart. Instead, Amodei is doubling down on his warnings about the impact of artificial intelligence on jobs. More importantly, he is increasingly focusing on what governments can do to reduce the damage and ensure that the benefits of AI are shared more broadly.
+
+The Anthropic CEO recently published an essay titled "Policy on the AI Exponential." In the essay, Amodei argues that there is a "decent possibility" that, despite efforts to soften the blow, AI could cause "significant enduring job loss" and that this "may be an intrinsic property of the technology and the way it broadly replicates human cognition."
+
+In other words, Amodei argues that widespread job displacement may not simply be an unintended side effect of AI. According to him, it could stem from the very nature of the technology, which is designed to replicate human cognition and perform tasks that would otherwise require human thinking.
+
+Amodei has sounded alarms on this before. Earlier this year, he warned that AI could eliminate half of entry-level white-collar jobs within five years and push unemployment to between 10 per cent and 20 per cent. At the time, he urged companies and policymakers to stop "sugarcoating" the risks.
+
+His latest essay expands on those concerns. Amodei argues that AI is advancing far faster than governments and institutions can respond. He says society is approaching an era of "Powerful AI", systems capable of performing many cognitive tasks at or above the level of human experts, and that policymakers need to act now rather than later.
+
+Amodei warns that it may replace human cognitive work on a much broader scale than previous technological revolutions, potentially leading to long-lasting job displacement rather than temporary disruption.
+
+### How Amodei wants governments to respond
+
+Rather than focusing only on the risks, Amodei outlines several measures that governments could take to prepare for AI-driven disruption. He called for better measurement and tracking of AI's impact on the labour market, including expanded government statistics. He also endorsed what he described as "pro-employment incentives," including wage insurance for workers who are forced to take lower-paying jobs because of AI, retention tax incentives, workforce training grants, and improved job-matching infrastructure.
+
+The goal, according to Amodei, is to help workers adapt to technological change while ensuring that the gains from AI are distributed more widely.
+
+### Not predicting doom, but urging preparation
+
+Despite his warnings, Amodei is not calling for AI development to be slowed down, nor is he arguing that catastrophe is inevitable. Instead, he says AI's benefits could be enormous, but governments, businesses, and societies need to adapt much faster than they are today.
+
+Speaking recently to Bloomberg, Amodei responded to critics who suggested that his warnings about AI risks were simply a marketing strategy. He rejected that idea and said his message is not that "doom is coming," but rather that society should recognise the potential risks early and prepare for them before they become harder to manage.
+
+\- Ends
+
+Jun 11, 2026 09:47 IST
+
+---
+
+### Bengaluru traffic, cybercrime: Karnataka Home Minister Priyank Kharge reviews policing
+*Express News Service · legal*
+
+Highlighting Bengaluru's position as one of the country's leading technology hubs, Kharge described cybercrime as a growing challenge. (Express Photo/Special Arrangement)
+
+In his first major review of Bengaluru’s policing and law-and-order system after taking charge as Karnataka Home Minister, Priyank Kharge said Wednesday that the government is considering a comprehensive Urban Mobility Plan to address traffic congestion.
+
+The Karnataka home minister made the remarks after chairing a review meeting with senior Bengaluru police officers at the City police commissioner’s office. The meeting focused on cybercrime, women’s safety, narcotics control, traffic management and law and order.
+
+“We are contemplating a Bengaluru Urban Mobility Plan involving all stakeholders, including the Greater Bengaluru Authority (GBA), BMRCL (Bangalore Metro Rail Corporation Limited ), the Transport Department, traffic police, and other civic agencies. The objective is to bring everyone onto a common platform and formulate a long-term strategy to address Bengaluru’s mobility challenges,” Kharge said.
+
+Highlighting Bengaluru’s position as one of the country’s leading technology hubs, Kharge described cybercrime as a growing challenge and said the review meeting discussed measures to strengthen prevention and enforcement.
+
+“Since the departments of e-Governance, IT-BT and Home are under my charge, it allows us to formulate integrated policies to address cybercrime, narcotics-
+
+**Police-criminal link**
+
+Kharge also warned of action against police personnel found maintaining links with criminals and said such instances would not be tolerated.
+
+“There have been cases where police officials were found attending parties and social gatherings with rowdy elements. Such matters must be viewed seriously and appropriate action will be initiated wherever necessary,” he said.
+
+Story continues below this ad
+
+The minister also stressed the need for stricter monitoring of habitual offenders and said Anti-Rowdy Squads have been constituted at the police station level to curb criminal activities and deter repeat offenders.
+
+The minister said detailed discussions were also held on drug trafficking networks, particularly the smuggling of narcotics and psychotropic substances through neighbouring states.
+
+“Psychotropic substances are easier to transport and conceal than conventional narcotics. We reviewed the various trafficking patterns and discussed ways to strengthen enforcement and improve detection capabilities,” he said, adding that the government plans to increase the availability of drug detection and testing kits.
+
+Kharge said the government had taken complaints about delays in registering FIRs and filing charge sheets seriously, adding that corrective measures would be implemented to ensure timely investigations and the prompt submission of charge sheets.
+
+Story continues below this ad
+
+He said the issue had been discussed during the review and that steps would be taken to improve the efficiency of the criminal justice process.
+
+---
+
+### 'Not Aimed At Cutting Beneficiaries': Shivakumar Defends Gruha Lakshmi Verification In Karnataka
+*Vani Mehrotra · general*
+
+DK Shivakumar said beneficiary verification under the Gruha Lakshmi scheme was launched to weed out irregularities, including payments allegedly made to deceased recipients.
+
+[Read full article](https://www.news18.com/india/karnataka-dk-shivakumar-gruha-lakshmi-scheme-beneficiary-verification-eligible-women-payments-irregularities-bjp-rs-5000-crore-question-ws-l-10142463.html)
+
+---
+
+### Viral Video: Thane Cab Driver Beats 70-Year-Old For Objecting To Spitting, Victim Left With Fractured Leg
+*Sumedha Kirti · general*
+
+Thane Viral Video: Both Chief Minister Devendra Fadnavis and Deputy CM Eknath Shinde directed Thane Police Commissioner Ashutosh Dumbre to take strict action against the accused.
+
+[Read full article](https://www.news18.com/cities/mumbai-news/viral-video-thane-cab-driver-beats-70-year-old-objecting-spitting-leg-fractured-10142364.html)
+
+---
+
+### Over 6.9 lakh skip the UP Police Constable exam, 9 arrested for fraud
+*Santosh Kumar Sharma · general*
+
+The Uttar Pradesh Police Constable Recruitment Examination concluded across the state with high participation levels, even as authorities reported multiple cases of cheating, impersonation and misinformation during the three-day exercise.
+
+The recruitment drive, being conducted for 32,679 constable posts, attracted 2,886,798 registered candidates. According to official figures, 2,192,236 candidates appeared for the examination, resulting in an attendance rate of 75.94 per cent.
+
+However, 694,562 candidates did not turn up for the test. This means nearly one in four registered applicants, around 24 per cent, skipped the examination despite completing the registration process.
+
+The examination was conducted across 1,183 centres spread over all 75 districts of Uttar Pradesh, making it one of the state's largest recruitment exercises.
+
+### CHEATERS IN THE SPOTLIGHT
+
+While the examination concluded largely peacefully, authorities remained alert to attempts at unfair practices. Over the course of the recruitment exercise, 12 FIRs were registered across the state and nine accused were arrested before being sent to jail.
+
+Police said alleged solvers and impersonators using forged documents were caught in Noida, Aligarh and Kanpur. These individuals were reportedly attempting to appear for the examination on behalf of other candidates or use fake identities.
+
+### SOCIAL MEDIA UNDER WATCH
+
+Officials also took action against the spread of misleading content 
+
+In Lucknow, six FIRs were registered at the Hussainganj police station against individuals accused of circulating false or misleading information through social media platforms and YouTube channels.
+
+Authorities said strict monitoring helped identify suspicious activity quickly and ensured that misinformation did not affect the conduct of the recruitment process.
+
+With the examination now over, attention will shift to the evaluation process and the next stages of recruitment for thousands of aspiring candidates seeking a place in the Uttar Pradesh Police force.
+
+\- Ends
+
+Princy Shukla
+
+Jun 11, 2026 09:43 IST
+
+---
+
+### Indian-Origin Man Arrested In US For $100 Million Bank Fraud, Used Thugs To Seize Hotels, Hosted Sex Parties
+*Prisha Vibhavari · general*
+
+US officials say Mahender Makhijani defrauded a bank of nearly USD 100 million with fake loan documents, faces up to 30 years.
+
+[Read full article](https://www.news18.com/world/indian-origin-man-arrested-in-us-for-100-million-bank-fraud-used-thugs-to-seize-hotels-hosted-sex-parties-ws-l-10142475.html)
+
+
+---
+
 ## 10 June 2026
 
 ### 'Each Prime Minister Faced A Different India': Former Union Minister Compares PM Modi's Legacy With Nehru
