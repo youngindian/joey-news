@@ -1,3 +1,658 @@
+## 12 June 2026
+
+### The Meenakshi Natarajan Episode is About More Than One Rajya Sabha Seat
+*Deshdeep Saxena · regional*
+
+The controversy over the rejection of Congress Rajya Sabha candidate Meenakshi Natarajan’s nomination form in Bhopal on 10 June is more than about one Rajya Sabha seat or one candidate. It is about the Bharatiya Janata Party (BJP)'s aggressive style of politics that uses every available political lever to put Opposition parties on the defensive.
+
+**The basic facts of the recent controversy are clear.**
+
+For the three Rajya Sabha vacant seats in Madhya Pradesh, the state Assembly math would have allowed two for the BJP and one for the Congress, for which Natarajan was the candidate. The BJP, however, made its motives clear by fielding Mahesh Kevat as the third candidate.
+
+> His nomination would have been possible only with the cross-voting of 8 to 10 Congress candidates.
+
+The failure to list a private complaint against Natarajan (not a case) in a Telangana court, and its subsequent notice, was cited as the reason for rejecting the candidacy. State Congress president Jitu Patwari, however, alleged that there was no heading or section in the nomination form under which this could have been mentioned in the form.
+
+> Anger and frustration were visible among Congress workers in Bhopal and Delhi as party cadres and MLAs staged a series of protests. A senior Congress leader admitted that the cadre was “demoralised and dejected”, but added that the party was “down but not out.”
+
+Many felt that the rejection of the nomination was part of a larger political environment, where Opposition parties increasingly find themselves fighting not just elections but also a constant battle against the ruling party’s tactics. Even as the Congress accused the BJP's political tactics, the BJP argued that the Congress was responsible for its own failure due to poor planning and internal mismanagement.
+
+## Institutional Hostility Against Opposition
+
+Natarajan, a former MP from Mandsaur, alleged that the controversy began when the BJP decided to field a third candidate despite not having the required numbers.
+
+According to her, the move was designed to create uncertainty and put pressure on the democratic process. She argued that the issue was not limited to her candidature but was connected to the larger question of protecting democratic values. She said, "First the BJP indulged in vote _chori_, and now in seat _chori_".
+
+The BJP, however, presented a different argument. Chief Minister Mohan Yadav and BJP state president Hemant Khandelwal blamed the Congress leadership for the crisis, claiming that the party had failed to manage its own affairs. Publicly, the BJP shifted responsibility towards the Congress, but behind the scenes, the episode revealed a carefully planned political strategy.
+
+> A senior BJP leader admitted to **The Quint** that the party had worked on securing support from MLAs and was short of the required numbers by only a small margin. He claimed that the party had a backup strategy ready. When political negotiations did not appear successful, the BJP moved towards a legal challenge.
+
+This approach reflects the BJP’s broader political style—one that combines electoral strategy, legal avenues, and pressure tactics. The party has shown a willingness to explore every possible opportunity to weaken opponents and expand its political advantage. Critics argue that this has created an uneven political environment where Opposition parties are forced to constantly defend themselves against unexpected moves.
+
+> The Election Commission of India (ECI) and other institutions, meanwhile, face questions over their role and response. In a democracy, institutions responsible for overseeing elections are expected to maintain public confidence by ensuring transparency and fairness.
+
+The ECI's gates were closed for the Congress leaders who wanted to meet the officials in Delhi immediately after the rejection of the nomination form in Bhopal.
+
+## Lessons for Congress
+
+The Congress’ biggest failure in this episode, however, was its inability to anticipate the BJP’s strategy. The party did not appear to have a backup plan or a dummy candidate ready.
+
+Jitu Patwari argued that considering the history of Rajya Sabha elections and the party’s numbers, nobody expected such a situation. But that explanation also highlights the larger weakness within the organisation—the failure to prepare for political possibilities created by an opponent known for its aggressive tactics.
+
+A senior Congress leader admitted that while the party has young leadership at the state level, the situation required more experienced political handling. The leadership needed to act faster and manage the crisis with greater precision.
+
+> Phool Singh Barraiya, Congress MLA from Bhander in Datia district, told **The Quint**, "We failed to anticipate this scenario," and admitted that the party "should have a backup plan."
+
+The confusion over transporting Congress MLAs further exposed organisational weaknesses. For several hours, the airport authority did not allow the aircraft carrying party MLAs to take off. But, prior to this, there was uncertainty over who should board—only MLAs, family members, supporters or staff. In a high-pressure political battle, such confusion can prove costly.
+
+> The Rajya Sabha controversy may eventually be decided through legal and constitutional processes, but its political message is already clear.
+
+Unless Opposition parties learn to anticipate such moves and build stronger systems of response, they will continue to find themselves reacting to a political game whose rules are constantly being rewritten.
+
+_(Deshdeep Saxena is an independent jouranlist reporting on news and politics from Madhya Pradesh.)_
+
+### Read Latest News and Breaking News at The Quint, browse for more from opinion
+
+### Topics:  Congress    Madhya Pradesh
+
+---
+
+### Grief And Silence Surround Air India Crash Site As Families Gather To Remember Loved Ones
+*Devanshe Pandey · general*
+
+Air India's Boeing 787-8 crashed soon after takeoff on June 12, 2025, killing 241 people onboard and 19 on the ground.
+
+[Read full article](https://www.news18.com/india/grief-and-silence-surround-air-india-crash-site-as-families-gather-to-remember-loved-ones-ws-l-10144583.html)
+
+---
+
+### PM Modi Marks '12 Years Of Nari Shakti', Highlights Women-Led Development Under NDA
+*Aanchal Sinha · general*
+
+The remarks came a day after PM Modi completed 4,399 days in office, becoming India's longest-serving democratically elected Prime Minister in continuous tenure.
+
+[Read full article](https://www.news18.com/india/pm-modi-marks-12-years-of-nari-shakti-highlights-women-led-development-under-nda-ws-l-10144653.html)
+
+---
+
+### SpaceX IPO To Make Elon Musk Richer Than Taiwan's Economy: 10 Facts To Know About $75-Billion Mega Share Sale
+*Mohammad Haris · business*
+
+SpaceX has priced its IPO at $135 per share and plans to raise $75 billion, potentially pushing Musk's net worth beyond $1 trillion and making him the world's first trillionaire.
+
+[Read full article](https://www.news18.com/business/ipo/spacex-ipo-to-make-elon-musk-richer-than-taiwans-economy-10-facts-to-know-about-75-billion-mega-share-sale-10144586.html)
+
+---
+
+### ‘I am thief’ written on chest, head shaved: Mob assaults theft suspect in Ludhiana
+*Express News Service · legal*
+
+The mob tied the man to a pole, pasted a note on his chest which read "Main chor hun" (I am a thief) and shaved his head and an eyebrow. (Source: Express Photo)
+
+A man suspected of snatching a mobile phone was allegedly assaulted by a mob in Kailash Nagar area of Ludhiana.
+
+The mob tied the man to a pole, pasted a note on his chest which read “_Main chor hun”_ (I am a thief) and shaved his head and an eyebrow.
+
+The Ludhiana Police booked unidentified persons for wrongful restraint, causing hurting, intentional insult and other offences after the video went viral on social media .
+
+The FIR against unidentified persons for assaulting the man has been registered at Basti Jodhewal police station.
+
+ASI Balbir Singh, investigation officer in the case, said that police registered the FIR after the video went viral on social media. “We are yet to identify the victim. The suspects in the videos are also yet to be identified. Prima facie, the incident happened on Wednesday. The man was suspected of snatching a mobile phone,” said the ASI.
+
+In the purported video, the mob is seen tying the man’s arms and waist with a rope and he is then tied to a pole. He is also constantly hit on the head even as he keeps begging for mercy. His head was shaved from the middle and shirt removed.Some people in the mob say that “earlier also he was caught for stealing but did not mend his ways”. Some keep shooting the incident on their phones. Some others kick him and say “now will you dare to steal again?”
+
+The FIR against unidentified persons has been registered under the sections 115(2)(voluntarily causing hurt), 127 (2)(wrongful confinement), 127 (8), (wrongful confinement in secret),352(intentional insult with intent to provoke breach of peace), 351 (2) (criminal intimidation) and 190 (unlawful assembly) of BNS.
+
+---
+
+### Meghan Markle and Prince Harry reportedly furious over Pippa Middleton's security detail
+*TOI Entertainment Desk · entertainment*
+
+Meghan Markle and Prince Harry are reportedly furious over what they see as preferential treatment being extended to Kate Middleton's sister, Pippa Middleton and her husband James Matthews, after the couple was granted permission to increase security around their Berkshire mansion.
+
+The Duke and Duchess of Sussex, who had their own government-funded security removed after stepping back from royal duties, are said to be outraged by the contrast.A source told RadarOnline. com that the situation has reignited longstanding frustrations about how the couple feel they have been treated compared to other members of the extended royal circle.
+
+## Meghan Markle and Prince Harry angered over the 'Double Standard'
+
+"What infuriates Meghan and Harry is the double standard," the insider claimed.
+
+"Harry and Meghan have no issue with Pippa and James being allowed to have this gate, if they feel they need protection, they should have it," the source added, making clear the couple's frustration was not directed at Pippa and James personally but at the perceived inconsistency in how security decisions are made.
+
+## James Matthews defends security measures
+
+Following an inquiry into the additional security measures at their Berkshire home, James Matthews defended the need for the increased protection.
+
+"There are implications for my family, due to their high public profile, which means there is a need for a higher level of security than would otherwise be the case if the circumstances were different," he said in a statement via Sky News.
+
+"Therefore, to improve security for my family, before we moved in, I arranged for an electric security gate to be erected on the drive," he added. "Unfortunately there has been a continued need to enhance security."
+
+## Prince Harry and Meghan Markle's security under review
+
+Despite having their security removed, the British government is currently reviewing that decision. Royal expert Jennie Bond told The Mirror that the review was a significant development. "I think this is a big win for Harry and the review is what he deserves," she said. "He can't change the fact that he is King Charles III's son. He is also a former army officer who has taken part in armed conflict in Afghanistan during two tours of duty.
+
+"Bond also pointed to specific concerns about Harry's personal safety. "He has, foolishly many would argue, admitted killing 25 Taliban in his book 'Spare'. That admission must only have made the target already on his back even bigger. So, I think he has legitimate concerns about his security and the risk his family could face if he brings them to the UK."
+
+She also drew a comparison with the protection afforded to former prime ministers.
+
+"If our eight surviving former prime ministers are entitled to a high level of security in some cases, round the clock, then I think Prince Harry has the right to ask why he is not entitled to the same when he is in this country," she said.
+
+## Security at the heart of Prince Harry's rift with his family
+
+According to Bond, the security dispute is central to Harry's estrangement from the royal family and stands as the biggest obstacle to any meaningful reconciliation. "Security worries lie at the very heart of Harry's estrangement from his family here," she said. "He has said that the dispute has always been the sticking point in any reconciliation with his father. He viewed the court's decision against him as 'an old-fashioned establishment stitch up.
+
+'"
+
+---
+
+### ‘Sensible Leader’: Kiren Rijiju's Rare Praise For Omar Abdullah Over Remarks On Fuel Supplies
+*Shobhit Gupta · general*
+
+Abdullah's comments were interpreted as an acknowledgement of India's relatively stable fuel supply situation despite growing concerns over disruptions in global energy markets.
+
+[Read full article](https://www.news18.com/india/sensible-leader-kiren-rijijus-rare-praise-for-omar-abdullah-over-remarks-on-fuel-supplies-ws-l-10144567.html)
+
+---
+
+### Western disturbance to bring rain, thunderstorms to Delhi-NCR; IMD issues Yellow alert
+*Express Web Desk · politics*
+
+A woman crosses street through a dust storm accompanied by rain in Jammu. (AP Photo)
+
+**Delhi-NCR Weather Update:** Under the influence of a western disturbance, a wet spell is expected across parts of the northwest on Friday, with thunderstorms, gusty winds and isolated hailstorms likely in several states, including Delhi. The India Meteorological Department (IMD) has issued a yellow alert for the national capital and surrounding NCR cities for June 12.
+
+ Delhi nowcast. (Source: IMD)
+
+## Rain, thunderstorms in Delhi-NCR
+
+For Friday, the IMD has forecast a generally cloudy sky over Delhi. Two spells of very light rain to light rain are expected, one during the morning and another in the afternoon/evening, accompanied by thunderstorms, lightning and strong winds of 40-50 kmph, gusting up to 60 kmph.
+
+The forecast covers all districts of Delhi as well as adjoining NCR cities such as Faridabad, Gurugram, Noida and Ghaziabad.
+
+## Weekend outlook
+
+From June 13 to 15, the weather department expects partly cloudy conditions with the possibility of brief spells of light rain or thunderstorms, mainly during the afternoon and evening hours. Winds may continue to reach 40-50 kmph, gusting to 60 kmph during thunderstorms.
+
+## Temperature check
+
+Delhi’s maximum temperature is forecast to remain around 34-36 degree celsius on June 12 and 35-37 degree celsius on June 13, which is actually below normal for this time of year. The mercury is expected to rise gradually thereafter, reaching 37-39 degree celsius by June 14-15 and potentially 39-41 degree celsius by June 17.
+
+The IMD said no heat wave conditions have been recorded over Delhi during this period.
+
+The weather department according to the latest weather bulletin has also warned of thundersquall conditions with wind speeds of 60-70 kmph, gusting up to 80 kmph over parts of Haryana, Chandigarh, Delhi, Punjab and Rajasthan on June 12. Isolated hailstorm is also likely over Delhi, Haryana, Punjab, Uttarakhand and parts of Uttar Pradesh on Friday.
+
+Story continues below this ad
+
+## Northwest forecast
+
+The western disturbance is expected to bring fairly widespread to widespread rainfall across Jammu & Kashmir, Ladakh, Himachal Pradesh, Uttarakhand, Punjab, Haryana and Delhi through June 12, with scattered rain likely to continue over parts of the region through June 17.
+
+Uttarakhand is under a warning for isolated heavy rainfall on June 12, while duststorm is possible over parts of Rajasthan.
+
+Delhi-NCR is set for a cooler-than-usual spell through June 13, with repeated chances of rain, thunderstorms and strong winds. While widespread flooding is not indicated, short-duration storms may cause localised disruptions, especially during the morning and evening periods on June 12.
+
+---
+
+### SpaceX IPO: Giant Elon Musk protest effigy stuns Times Square in New York, has a warning for investors. Watch video
+*Trending Desk · general*
+
+New Yorkers residents were stunned to see a giant inflatable version of trillionaire entrepreneur Elon Musk towering above the busy streets just hours before SpaceX's historic stock market debut.
+
+The massive blow-up figure appeared overnight as SpaceX locked in its IPO price at $135 per share, setting the stage for what is being called the largest IPO in history. The offering values the company at around $1.77 trillion and is expected to begin trading on Nasdaq on June 12 under the ticker symbol SPCX.
+
+**
+
+  
+
+## Why Was the Inflatable Elon Musk Installed?
+
+The giant sculpture was not a celebration of Musk's success. But it was part of a protest campaign organised by Safe AI Now (SAIN), a coalition that says it includes faith leaders, child-safety organisations and advocacy groups. The shirtless inflatable featured several provocative messages aimed at Musk and his companies. One of the most visible slogans read:
+
+"SpaceX's Grok makes AI child porn". The message refers to past criticism surrounding Grok, the AI chatbot developed by xAI and later integrated into SpaceX's business operations.
+
+> — WUTangKids (@WUTangKids)
+
+  
+
+**
+
+## Grok Controversy Resurfaces Ahead of IPO
+
+The protest comes as investors closely examine SpaceX's public offering documents. According to the company's S-1 filing, SpaceX acknowledged that Grok's not-safe-for-work features could expose the company to "heightened risks" and "reputational harm" because the AI system could potentially generate "nonconsensual or exploitative imagery."
+
+The issue has drawn scrutiny from regulators, child-safety groups and critics of generative AI technology.
+
+Earlier this year, Musk responded to concerns by saying: "anyone using Grok to make illegal content will suffer the same consequences as if they upload illegal content."
+
+Meanwhile, the official X account stated that its policy has: "zero tolerance for any forms of child sexual exploitation."
+
+## SAIN Issues Warning to Investors
+
+The organisation behind the inflatable said the display was designed to send a message to potential SpaceX investors before trading begins.
+
+In a statement, SAIN said: "The goal of this effigy of Musk is to deliver a simple warning to investors: Musk built a dangerous and exploitative AI, covered up the damage, merged it with SpaceX, and is now selling the liability to the public at $135 a share."
+
+The group added: "SpaceX shareholders are on the hook for every Grok lawsuit, criminal investigation, and regulatory fine that is coming."
+
+SAIN continued its criticism by comparing the inflatable itself to Musk's business empire:
+
+"While this inflatable is a fitting metaphor — much like Musk and his companies, it is inflated, full of hot air, and could pop at any minute — it serves as a warning to investors eager to buy into Musk's SpaceX IPO on Friday morning."
+
+SpaceX did not immediately respond to requests for comment. Reports indicate the inflatable was scheduled to remain on display in Times Square until Thursday evening.
+
+## Another Message References Musk's Ketamine Use
+
+The inflatable also featured a tattoo on its arm showing a heart alongside the word "ketamine."
+
+The reference appears linked to Musk's previous comments about using ketamine. In 2024, Musk said he takes a small amount of ketamine "every other week" to help manage mental states "like depression."
+
+## Not the First Giant Musk Protest
+
+This is not the first time oversized Musk-themed protest art has appeared in public. In 2025, following staffing cuts at the National Park Service linked to government efficiency initiatives, another large sculpture depicting Musk was reportedly seen travelling through several US national parks on a trailer as part of an anonymous protest campaign.
+
+---
+
+### India On 'Highest Alert' Near Hormuz After US Strike Kills 3 Indian Seafarers: 'Ready To Respond'
+*Aveek Banerjee · general*
+
+The government said it was coordinating with the Navy, Indian Missions abroad, friendly maritime administrations and other relevant stakeholders to protect Indian seafarers.
+
+[Read full article](https://www.news18.com/india/india-on-highest-alert-near-hormuz-after-us-strike-kills-3-indian-seafarers-ready-to-respond-ws-l-10144566.html)
+
+---
+
+### At NITI Aayog meet, Soren seeks Centre’s support for new universities in Jharkhand
+*Express News Service · politics*
+
+Delhi Chief Minister Rekha Gupta, Haryana Chief Minister Nayab Singh Saini, Jharkhand Chief Minister Hemant Soren and Karnataka Chief Minister DK Shivakumar at the 11th meeting of the Governing Council of NITI Aayog, in New Delhi on Thursday. (Source: ANI Photo)
+
+Seeking to equip Jharkhand’s youth for jobs in emerging sectors such as artificial intelligence (AI), green energy and financial technology, Chief Minister Hemant Soren on Thursday urged the Centre to support an estimated Rs 800-crore proposal to establish a skill university and a fintech university in the state.
+
+The demand was raised at the 11th Governing Council meeting of NITI Aayog, chaired by Prime Minister Narendra Modi, where chief ministers discussed the theme “Inclusive Human Development for Viksit Bharat @2047”.
+
+Addressing the meeting, Soren said rapid advances in AI, automation and the green economy were transforming the labour market and underscored the need to prepare young people for future jobs. He said Jharkhand had already expanded skill development programmes in areas such as solar technology, electric vehicle repair, drone operations, healthcare and digital services.
+
+According to Soren, the proposed universities would help create a skilled workforce for new-age industries and strengthen Jharkhand’s ability to attract investments in technology-driven sectors.
+
+The Chief Minister also sought central support for strengthening education among tribal communities. Noting that Jharkhand is home to around 32 tribal and regional languages, he urged the Centre to establish an NCERT regional centre in the state to develop educational material in tribal languages and support mother-tongue education.
+
+Soren further sought assistance for sports infrastructure and residential academies in tribal and former Maoist-affected districts, arguing that such investments could create opportunities for youth in remote regions.
+
+He also reiterated Jharkhand’s demand for the release of around Rs 1.36 lakh crore in dues from coal companies and central public sector undertakings, and called for greater support to mineral-rich states facing developmental challenges.
+
+---
+
+### Japan flagship H3 rocket successfully launches after earlier failure
+*SECTIONS Japan flagship H · business*
+
+Japan's flagship H3 rocket successfully blasted off Friday, live footage showed, months after its previous mission to put a geolocation satellite into orbit ended in failure.
+
+The H3 was developed to boost the international competitiveness of Japan's rocket industry, and the country's space agency has come under pressure to increase the success rate of launches.
+
+The rocket has been mooted as a rival to SpaceX's Falcon 9, and could one day deliver cargo to bases on the Moon.
+
+  
+
+On Friday, the rocket - which was carrying six small satellites - lifted off at 9:53 am (0053 GMT) from Tanegashima Space Center in southern Japan.
+
+"The second-stage combustion, action control and trajectory are all normal," the Japan Aerospace Exploration Agency (JAXA) said in a live YouTube broadcast, about six minutes after blast-off.
+
+The satellites loaded onto the rocket included Tokyo University of Science's "Umitsubame", which observes the Earth and other targets with a high-performance camera, and Shizuoka University's "Shiraito", which is testing space debris capture technology, according to JAXA.
+
+Designed for "high flexibility, high reliability, and high cost performance", JAXA had toasted five successful launches of the H3 before Friday, but there have been two failures, including the last one in December.
+
+H3 project manager Makoto Arita said prior to lift-off that the latest attempt was "crucial for our comeback" following December's failed mission, in which a second-stage engine terminated prematurely.
+
+The space agency is targeting up to eight H3 rocket launches a year, according to a JAXA official who spoke on the live broadcast.
+
+---
+
+### Energy Prices To Jobs: What Was Discussed At NITI Aayog Meet Chaired By PM Modi?
+*Karishma Jain · general*
+
+For the first time, Chief Ministers of all 28 states attended the NITI Aayog Governing Council meeting chaired by PM Modi, including those from seven Opposition-ruled states.
+
+[Read full article](https://www.news18.com/india/energy-prices-to-jobs-what-was-discussed-at-niti-aayog-meet-chaired-by-pm-modi-ws-l-10144532.html)
+
+---
+
+### From Nalanda to now: Can Bihar’s universities rediscover their purpose?
+*Sanjay K Srivastava · opinion, regional*
+
+_In the age of artificial intelligence and the global knowledge economy, Bihar’s universities are sitting on one of the most consequential opportunities in the state’s modern history. The question is whether they choose to seize it._
+
+Sometime in the twelfth century, one of the world’s greatest centres of learning fell silent. Nalanda University — which at its height housed ten thousand students and two thousand teachers, attracted scholars from as far as China, Korea, Persia, and Greece, and held a library so vast that it reportedly burned for months — ceased to exist. For nearly eight centuries after, Bihar carried that loss quietly, the memory of what it had once been sitting uneasily alongside the reality of what it had become.
+
+That tension is still visible in the data today. Bihar’s composite score on the NITI Aayog SDG India Index stands at 57, against a national average of 71 — among the lowest in the country. Education, innovation, poverty: the deficits are real, and they are deep. And yet — and this detail rarely gets the attention it deserves — Bihar ranks third in all of India on clean water and sanitation, with a near-perfect score of 98. The same state so often written off as a permanent laggard achieved world-class delivery on a critical public goal through sheer institutional will. The lesson is simple: Bihar is not incapable of transformation. When it decides something matters, it delivers.
+
+The question now is whether higher education can become Bihar’s next great delivery story. In the age of artificial intelligence, that question is more urgent — and more loaded with possibility — than it has ever been.
+
+**The world has moved on. Has Bihar’s university system?**
+
+For most of the modern era, a state’s economic fortunes were shaped by what lay under its soil, how many factories it could build, and how many roads connected its towns. By those measures, Bihar — landlocked, flood-prone, under-industrialised — was always fighting from behind. But those measures are being fundamentally rewritten.  
+The defining competitive resource of the twenty-first century is not coal or steel. It is human intelligence — trained, tested, and set to work by institutions of learning. Countries and states that have grasped this are no longer treating universities as social welfare facilities to be funded and forgotten. They are treating them as core economic infrastructure: the place where raw demographic potential is turned into productive human capital, where ideas become enterprises, and where a society builds the capacity to adapt to changes that cannot yet be fully anticipated.
+
+Bihar’s own inaugural AI Summit — held in Patna just this May, with both the Governor and the Chief Minister in attendance — signalled that the state’s political leadership is beginning to understand this shift. Policymakers, entrepreneurs, researchers, and students came together to ask what artificial intelligence can do for Bihar’s farms, hospitals, classrooms, and government offices. That conversation was overdue, and its energy was real. But political summits set directions; universities build the roads. The harder, quieter, more sustained work of turning that ambition into a generation of capable graduates falls to Bihar’s colleges and universities. And right now, too many of them are not yet equipped for it.
+
+Artificial intelligence is not a distant horizon. It is already reshaping which skills employers will pay for, which industries will grow, and which communities will be left behind. The graduates who thrive in that environment will not be those who memorised the most; they will be those who can think across disciplines, work fluently with data, navigate uncertainty, and build things that do not yet exist. Producing those graduates is what universities are supposed to do. It is what Nalanda did, in its own time and on its own terms. It is what Bihar’s universities must learn to do again.
+
+**The real problem is not the buildings**
+
+It is tempting — and not wrong — to point to infrastructure when explaining Bihar’s higher education deficit. Crumbling laboratories, overstretched faculty, patchy internet, lecture halls designed for a different century. These problems are genuine and they must be fixed.
+
+But they are symptoms. The root cause is something harder to see and harder to budget for: the absence, in too many institutions, of genuine intellectual leadership. A university is not a building or a budget or an examination schedule. It is a community organised around the serious pursuit of knowledge. And that community — its culture, its standards, its ambitions — is shaped, more than anything else, by the people who lead it.
+
+Intellectual leadership in a university has very concrete meaning. It means leaders who are active scholars themselves — people whose research is known beyond their own campuses, whose credibility opens doors to collaboration, funding, and talent that no infrastructure grant can replicate. It means departments where faculty are expected to publish and innovate, not merely teach and invigilate. It means doctoral students who are genuinely mentored, not left to find their own way. It means a culture where a bright undergraduate from a district town feels that her curiosity is valued and her potential taken seriously.
+
+This is precisely what Nalanda offered. It did not draw the greatest minds of its age by offering comfortable rooms or generous stipends. It drew them because the intellectual environment was serious, demanding, and alive. Rebuilding that environment in Bihar’s universities is not an exercise in nostalgia. It is, arguably, the single most rational development investment the state can make.
+
+**AI, innovation and Bihar’s second chance**
+
+History rarely offers a second-mover advantage. Bihar may be looking at one now, and it would be a profound waste to miss it.  
+The global transition to AI-driven economies is not just changing what people do at work. It is changing what universities are for. Research institutions building serious capacity in machine learning, geospatial analysis, climate modelling, agricultural data science, and digital public health are not indulging in abstract scholarship. They are producing the tools and the talent that governments, industries, and international bodies will genuinely depend on for the foreseeable future.
+
+Here is where Bihar’s apparent disadvantages become, from the right angle, strategic assets. Chronic flooding, agricultural fragility, health infrastructure gaps, spatial poverty — these are not just problems to be managed. They are, from a research perspective, some of the most data-rich and policy-relevant challenges in all of South Asia. A Bihar university that builds genuine expertise in these domains does not just serve the state. It produces knowledge of global significance. It attracts international partnerships. It sends graduates into the world as specialists in problem sets that the world genuinely needs solved.
+
+The opportunity is not to become a pale imitation of the IITs. It is to build world-class intellectual authority in the questions that are uniquely Bihar’s own — and, in doing so, to make Bihar’s universities indispensable rather than peripheral.
+
+**BR Ambedkar Bihar University: A case in point**
+
+Among all the institutions where this potential is both most concentrated and most unrealised, BR Ambedkar Bihar University stands out. One of the oldest, largest, and most geographically strategic universities in the state, it serves a vast student population across north Bihar — a region that is, in many ways, the demographic heart of the state.
+
+Scale, in this context, is not just a logistical challenge. It is a civic responsibility of enormous proportions. A university this size does not merely educate individuals; it shapes the intellectual formation of entire communities and generations. A curriculum that embeds data literacy, critical thinking, and applied digital skills across every degree programme — arts, sciences, and commerce alike — does not produce a handful of exceptional graduates. It shifts the floor for an entire region.
+
+The university has the foundations. It has history, reach, and a student body that is hungry for something better. What it needs is the intellectual ambition, and the leadership, to match that foundation to the moment. Research centres focused on flood resilience, agricultural innovation, and AI applications for public service would not merely produce academic papers. They would produce answers to problems that Bihar’s farmers, doctors, and government officials face every single year.
+
+The bones are there. The question is who will build on them.
+
+**What reclaiming the legacy actually takes**
+
+Nalanda did not become the world’s greatest university by accident. It was the result of sustained, deliberate choices — choices made over generations — to treat intellectual excellence as the central organising principle of an institution, and to resource it accordingly. Bihar can make those choices again. But it must make them consciously, and the time for making them is now.
+
+That begins with the people in leadership. A Vice Chancellor who brings a genuine research record, international standing, and the network to attract collaboration and funding is worth more to a university’s transformation than any single capital grant. It continues with incentive structures that reward publication, innovation, and engagement — and hold departments accountable for producing them. It extends to connecting Bihar’s universities to the global flows of funding, talent, and ideas from which they have been, for too long, largely absent.
+
+The SDG score of 57 is, in the end, not a judgment on Bihar’s people. It is a measure of what Bihar’s institutions have, or have not, done for them. Universities that truly lead — that set the intellectual pace, equip their students to compete on any platform in the world, and generate knowledge that solves problems that matter — are the most powerful instrument a state possesses for changing that number.
+
+Bihar had Nalanda once, and the world took note. The age of artificial intelligence, of knowledge economies, of a world reorganising itself around who can think and build and innovate — this is Bihar’s moment to be noticed again.
+
+The only question is whether the opportunity is taken.
+
+Facebook Twitter Linkedin Email
+
+###### Disclaimer
+
+Views expressed above are the author's own.
+
+###### END OF ARTICLE
+
+---
+
+### Sensex surges 800 points after recent losses: Why is stock market rising today?
+*Sonu Vivek · general*
+
+Stock markets witnessed a sharp rally on Friday, with the Sensex surging more than 800 points and the Nifty gaining over 1%, as easing tensions between the United States (US) and Iran led to a sharp fall in crude oil prices and improved investor confidence.
+
+The BSE Sensex jumped 873.88 points, or 1.18%, to 74,706.43 in early trade, while the NSE Nifty50 rose 236.40 points, or 1.02%, to 23,398.
+
+The biggest trigger behind the rally was Brent crude slipping below the key $90-per-barrel mark after US President Donald Trump backed away from his earlier threat of military action against Iran and said that Washington was close to reaching a settlement to end the conflict.
+
+The decline in crude prices brought relief to investors as high oil prices had been one of the biggest concerns for India’s economy during the West Asia conflict.
+
+### CRUDE OIL FALL BELOW $90
+
+Brent crude dropped 1.59% to $88.94 per barrel, while WTI crude fell 1.47% to $86.42 per barrel.
+
+India, which imports the majority of its crude oil needs, benefits significantly from lower oil prices. A decline in crude reduces inflationary pressure, improves the current account position and supports the rupee.
+
+Dr. VK Vijayakumar, Chief Investment Strategist at Geojit Investments Limited, said the fall in crude is a major positive for India.
+
+"The good news is that Brent is sharply down to $89 with potential for more downside if the agreement becomes real," he said.
+
+According to him, a fall in oil prices could help India manage its balance of payments concerns, while the rupee may stabilise and strengthen.
+
+### FII SHORT COVERING MAY FUEL THE RALLY
+
+Another major factor supporting the market is the possibility of foreign investors covering their short positions.
+
+Vijayakumar said that since foreign institutional investors (FIIs) are heavily short on the market, a fall in crude prices and improving sentiment could trigger short-covering, leading to a sharp market rally.
+
+He added that Bank Nifty has the potential to outperform in this phase, supported by improving domestic conditions.
+
+However, he cautioned that FIIs may return to selling on rallies because the AI-driven technology rally has regained strength in markets such as South Korea and Taiwan, making those markets more attractive.
+
+### GLOBAL MARKETS RALLY AS US-IRAN PEACE HOPES RISE
+
+Global sentiment improved after indications of a possible diplomatic breakthrough between the US and Iran reduced fears of a wider conflict in West Asia.
+
+Rajesh Palviya, Head of Research at Axis Direct, said the improved global backdrop triggered a strong rally in US markets, particularly in technology stocks, while Asian markets also moved higher.
+
+He said the sharp fall in Brent crude below $90 has reduced inflation concerns and improved the outlook for risk assets, supporting the positive momentum in Indian equities.
+
+### WHICH STOCKS WILL BENEFIT FROM LOWER CRUDE PRICES?
+
+Lower crude prices are especially positive for sectors that use oil-linked products as raw materials.
+
+According to Vijayakumar, investors should watch sectors such as paints, tyres and adhesives, which benefit from lower input costs.
+
+He also said capital goods companies with operations in West Asia could gain significantly if peace is restored in the region.
+
+### NIFTY OUTLOOK: KEY LEVELS TO WATCH
+
+According to Axis Direct, the Nifty’s technical outlook has improved after the strong rebound.
+
+The index is expected to remain positive as long as it trades above the 23,300-23,350 zone.
+
+A decisive move above 23,500 could push the index towards 23,700 and higher levels. On the downside, 23,100 remains an important support level, and a break below this could trigger fresh selling towards 22,900.
+
+For now, crude oil prices, developments in the US-Iran peace negotiations and foreign investor activity will remain the key triggers for Dalal Street.
+
+_**(Disclaimer: The views, opinions, recommendations, and suggestions expressed by experts/brokerages in this article are their own and do not reflect the views of the India Today Group. It is advisable to consult a qualified broker or financial advisor before making any actual investment or trading choices.)**_
+
+\- Ends
+
+Jun 12, 2026 09:54 IST
+
+---
+
+### Indira Gandhi faced Mamata-moment twice. How did she emerge the winner?
+*Sushim Mukul · general*
+
+## As reports suggest, former West Bengal CM Mamata Banerjee could lose control of the Trinamool Congress she founded. There's an intriguing parallel. Former PM Indira Gandhi was expelled from her party twice. Once while she was in power. This is what she did and how she emerged a winner both times.
+
+Former Prime Minister Indira Gandhi was expelled from the Congress twice, but she emerged stronger both times. (Image: India Today Archive)
+
+"Sorrow comes in like a circle and cannot be rolled up as a mat."
+
+That's how Indira Gandhi described the pain of betrayal after her and the Congress' defeat in the 1977 Lok Sabha polls, according to biographer Pupul Jayakar. Many of her closest associates had deserted her. This was the first election after the **Emergency was imposed in 1975**. The Congress party she had led to historic victories wanted her gone. Political rivals were convinced her career was over. The rivals had said something similar in 1969, eight years earlier.
+
+The first time Indira Gandhi was expelled from the Congress was by the party's powerful old guard, the Syndicate, after a bitter tussle over the presidential election. Around a decade later, in 1978, after the **Emergency was lifted and the Janata wave swept India**, Indira Gandhi again found herself isolated in the Congress. She was eventually expelled by the Congress leadership. They wanted to move beyond her. Twice, she lost control of the Congress. Twice, she built new Congress factions. Twice, she returned stronger than before.
+
+Now in 2026, these two stories of Indira have interesting and fascinating parallels amid reports suggesting former West Bengal CM **Mamata Banerjee might be losing control over the Trinamool Congress**, the party she founded nearly three decades ago. The breakaway faction, led by MLA Ritabrata Banerjee, has taken control of the Trinamool Congress in the Assembly. "Real Trinamool" is the suggested name. In the Parliament, even her loyalists have joined the rebel group. Mamata's former aide and MP Kakoli Ghosh Dastidar said the Election Commission would now determine the "real Trinamool Congress".
+
+Then there was a buzz that Mamata was considering a **merger of the Trinamool Congress with the Congress**. The Congress leadership, after marathon meetings, has refuted such claims. And, if the signs are anything to go by, Mamata could be losing the name and symbol of Trinamool Congress.
+
+But, as you know, parallels have limits. The Congress of the 1960s and 1970s was different from the Trinamool Congress of today. Indira Gandhi and Mamata Banerjee are different political personalities operating in different times. Circumstances are vastly different too. Still, a comparison is tempting and inevitable. Indian politics has seen this movie before, mind tells you. A mass leader is losing control of her own party.
+
+The first time, in 1969, Indira Gandhi's party bosses turned against her. She bypassed the organisation and directly appealed to the people. Congress (R) was born. The second expulsion in 1977 gave birth to Congress (I). In both instances, the organisation was larger, experienced and seemingly more powerful than the individual. This is the story of how Indira beat the odds.
+
+### INDIRA GANDHI'S FIRST EXPULSION FROM CONGRESS. WHY SYNDICATE TOOK ON INDIRA?
+
+When PM Lal Bahadur Shastri died in January 1966, many Congress bosses believed Indira Gandhi would be easier to manage than Morarji Desai. He had been the CM of Bombay State, a Union minister under PM Jawaharlal Nehru, the Finance Minister in PM Lal Bahadur Shastri's Cabinet. Many Congress MPs saw him as the natural successor of PM Shastri. The powerful group of regional satraps later known as the "Syndicate" supported Indira Gandhi's elevation.
+
+The Syndicate comprised of leaders such as K Kamaraj, S Nijalingappa, Atulya Ghosh, SK Patil and Biju Patnaik. According to Neerja Chowdhury's How Prime Ministers Decide, they exercised an "unyielding grip" over the Congress and controlled many state units.
+
+But the Syndicate's assumption did not last. The leaders who had helped **make Indira Gandhi PM** discovered that she was far less pliable than they had imagined.
+
+### THE PRESIDENTIAL ELECTION THAT BROKE THE CONGRESS FIRST
+
+By 1969, Indira Gandhi and the Syndicate were locked in a struggle over who would control the Congress and the government. The immediate flashpoint was the presidential election following the death of President Zakir Husain. The Syndicate-backed Congress Parliamentary Board chose Neelam Sanjiva Reddy. Indira backed Vice-President VV Giri and called for a "conscience vote", appealing MPs and MLAs to vote independently. **VV Giri won**.
+
+The victory shattered the authority of the party Syndicate. Congress president S Nijalingappa responded by expelling Indira Gandhi from the party in November 1969.
+
+The face-off culminated in "the formal split in the Indian National Congress", former President Pranab Mukherjee wrote in his book, The Dramatic Decade The Indira Gandhi Years.
+
+Congress split into Congress (R), led by Indira, and Congress (O), led by the old guard.
+
+### WHAT HELPED INDIRA? BET ON PEOPLE OR LEFT TURN?
+
+PM Indira responded. She didn't retreat. She challenged the legitimacy of those trying to remove her. **Pranab Mukherjee recorded Indira saying** it was "presumptuous on the part of this handful of men to take disciplinary action against the democratically elected leader of the people".
+
+The numbers in Parliament initially appeared to favour Congress (O). It controlled much of the party machinery and veteran leaders. But Indira had something they lacked; a mass appeal.
+
+By then, Indira Gandhi had made a Left turn, nationalising 14 major banks in July 1969 and projecting herself as a leader willing to confront entrenched interests. Mukherjee described bank nationalisation as a "bold and decisive action" through which Indira "once again assumed the initiative and occupied centre stage".
+
+Author Pupul Jayakar, in Indira Gandhi: A Biography, noted that after the split, Indira lost her parliamentary majority and had to rely on support from parties such as the CPI and the DMK. But attempts to unseat Indira Gandhi through a no-confidence motion failed. Congress (O) had the party. Indira retained the prime ministership and increasingly the public imagination.
+
+Soon came the decisive test. The 1971 Lok Sabha election. Indira turned the contest into a presidential-style battle between herself and the Syndicate. Her "Garibi Hatao" campaign resonated with voters. Congress (R) swept the polls while Congress (O) was reduced to the margins.
+
+The organisation or the old guard expelled Indira. It lost the party's biggest vote-puller.
+
+### INDIRA GANDHI EXPELLED FROM CONGRESS AGAIN, THIS TIME AFTER EMERGENCY
+
+The second expulsion of Indira Gandhi was arguably more serious. This was at a time when she had been defeated.
+
+In 1977, Indira Gandhi suffered the worst defeat of her career. **The Emergency had damaged her image**. The Janata Party swept to power. Many Congress leaders believed the party needed to distance itself from her.
+
+Pupul Jayakar wrote that the defeat left Indira with a "deep sense of betrayal and sorrow". She recalled how many associates abandoned her when power slipped away. This was when she said, "Sorrow comes in like a circle and cannot be rolled up as a mat."
+
+Within the Congress, a struggle emerged over whether Indira should continue to lead the party.
+
+Pranab Mukherjee, who remained loyal to her, provided a detailed account of the period. He wrote that efforts were made to isolate Indira Gandhi and that she "was not even considered a part of the collective leadership". While she travelled across the country, many local party organisations avoided her programmes with the tacit support of the national leadership.
+
+### HOW INDIRA GANDHI STAYED POPULAR WITHOUT CONGRESS LEADERSHIP's SUPPORT
+
+The Congress leadership, after the 1977 debacle (led by Brahmananda Reddy), tried to write Indira off. But she continued to draw crowds wherever she went.
+
+Pranab Mukherjee recounted that after emerging from a period of self-imposed confinement, she toured India, visiting places such as Belchi in Bihar (now a block Patna District).
+
+The visit to Belchi in 1977 was one of her most politically symbolic journeys, **where she rode on an elephant through flood-hit terrain** to meet Dalit victims of caste violence, a visit that helped revive her image as a leader connected to the masses.
+
+Her visits "drew huge crowds" and demonstrated that "the crowd-puller in her remained as active as ever". The former President added that the "surge of popular enthusiasm for Indira Gandhi reassured us that the party could overcome all crises under her leadership".
+
+This became the foundation of Indira Gandhi's comeback. Congress workers were mobilised. A leadership change was demanded by the Indira camp. They argued that Congress could not recover without Indira. Pranab Mukherjee publicly said that "Mrs Gandhi is indispensable for the Congress organisation" and warned that leaders humiliating her were responsible for pushing the party towards a split. Indira loyalists had already begun building parallel networks, including a youth forum.
+
+### WHY INDIRA GANDHI WAS EXPELLED FROM CONGRESS IN 1978
+
+The confrontation culminated on the first and the second days of January 1978.
+
+Thousands of Indira Gandhi's supporters, Congress workers, AICC members, MPs, MLAs and members organised a "National Convention of Congressmen" in New Delhi. They elected Indira Gandhi as Congress president. It was a challenge to the leadership of Brahmananda Reddy.
+
+The party leadership under Reddy responded by expelling Indira. According to Neerja Chowdhury's How Prime Ministers Decide, 54 Congress MPs moved with Indira Gandhi while many senior leaders stayed with the old organisation. Her faction became Congress (I) — the "I" standing for Indira.
+
+It was a risky move. The gamble paid off. Within two years, in 1980, **Indira Gandhi reclaimed the political centre stage**. The Congress (I) came to power. It became the principal Congress faction, while the rival one steadily declined.
+
+Pupul Jayakar quoted academic-historian Raj Mohan Gandhi's observation after Indira's death that no chronicler could ignore "her 1980 comeback" and her ability to "stand unmoved before a hostile crowd".
+
+All said, comparison with Mamata Banerjee has limits. However, Indira Gandhi's story shows us that losing a party does not always mean losing the people. For Indira, the sorrow of betrayal and expulsion turned into her resurrection. Twice.
+
+\- Ends
+
+Anand Singh
+
+Jun 12, 2026 09:54 IST
+
+---
+
+### Former TMC MP Imran Has Links With Bangladesh’s Extremist Organisations: Kakoli’s Big Accusation
+*Prisha Vibhavari · general*
+
+Rebel MP Kakoli Ghosh writes to Chief Minister Suvendu Adhikari seeking probe into alleged extremist links of former TMC MP Ahmed Hassan Imran.
+
+[Read full article](https://www.news18.com/india/former-tmc-mp-imran-has-links-with-bangladeshs-extremist-organisations-kakolis-big-accusation-ws-l-10144574.html)
+
+---
+
+### Why Is Share Market Rising Today? Know Key Reasons Behind Sensex, Nifty Rally On June 12
+*Mohammad Haris · business*
+
+As of 9:48 am, the BSE Sensex rises 781 points, or 1.06%, at 74,614, while the NSE Nifty 50 gains 216 points, or 0.93%, to trade at 23,378.
+
+[Read full article](https://www.news18.com/business/markets/why-is-share-market-rising-today-know-key-reasons-behind-sensex-nifty-rally-on-june-12-10144562.html)
+
+---
+
+### No Indian weapons ever used to attack Europe: Jaishankar's sharp take on Russian oil
+*ET Online · business*
+
+Speaking about India’s decision to purchase Russian oil, External Affairs Minister S Jaishankar on Friday said that the country started purchasing the oil from 2022 onwards because of its lower prices and availability and added that the decision was taken at the request of the United States to keep the global oil prices low.“At that time, the US specifically asked India to buy Russian oil to stabilise the oil market," said Jaishankar while speaking at an event in Finland.#India, #IndianOil, #EnergySecurity, #OilImports, #GlobalSupplyChains, #CrudeOil, #StrategicAutonomy, #ForeignPolicy, #EconomicDiplomacy, #EnergyPolicy, #Geopolitics, #NationalInterest, #Europe, #DefencePolicy, #ArmsTrade, #SecurityConcerns, #IndianWeapons, #EuropeanWeapons, #IndiaEuropeRelations, #GlobalPolitics, #InternationalRelations, #OilMarkets, #TradePolicy, #StrategicInterests, #IndiaFirst, #DiplomaticRelations, #DefenceExports, #EnergyIndependence, #WorldAffairs, #PolicyDebate
+
+---
+
+### Rebel TMC MP Arup Chakraborty Says New Faction Will Back Both Centre and State | News18
+*Unknown · general*
+
+In a major political development, Rebel TMC MP Arup Chakraborty announced that he has joined the TMC (Rebel) faction and is prepared to support both the Government of India and the West Bengal government. The statement comes amid growing turmoil and factionalism within the Trinamool Congress. n18oc_...
+
+[Read full article](https://www.news18.com/videos/india/rebel-tmc-mp-arup-chakraborty-says-new-faction-will-back-both-centre-and-state-news18-10144591.html)
+
+---
+
+### Was RSS chief targeted? Swarn Shatabdi Express pelted with stones at Firozabad in UP, with Mohan Bhagwat on board, details here
+*Monica Singh · general*
+
+RSS chief Mohan Bhagwat was unharmed after stones were allegedly thrown at the Swarn Shatabdi Express near Firozabad, damaging a coach window.
+
+The window glass of a coach on the Delhi-bound Swarn Shatabdi Express carrying RSS chief Mohan Bhagwat was damaged after unidentified persons allegedly pelted stones at the moving train on Thursday evening.
+
+Bhagwat was unharmed in the incident, and the train resumed its journey after a brief halt at Tundla Junction in Uttar Pradesh's Firozabad district, officials said.
+
+## **Stone Hits Moving Train Near Firozabad**
+
+According to the Government Railway Police (GRP), the incident occurred around 7.20 pm when Train No. 12003, the Swarn Shatabdi Express, was travelling from Kanpur to Delhi. The train had crossed Makkhanpur station without stopping when a stone struck the window of the E-1 coach.
+
+The impact damaged the glass pane of the coach, prompting railway authorities to halt the train at the outer signal of Tundla Junction for inspection.
+
+## **Mohan Bhagwat Unharmed**
+
+GRP Inspector Sher Singh said RSS Sarsanghchalak Mohan Bhagwat was travelling in the same coach where the stone struck.
+
+"Bhagwat was seated on the opposite side of the coach and remained completely safe. No passenger was injured in the incident," Singh said.
+
+After officials inspected the damage, the train resumed its journey towards Delhi at approximately 7.41 pm.
+
+## **Senior Officials Reach Spot**
+
+Following the incident, Additional Director General (ADG) of Police, Agra Zone, S.K. Bhagat, and Deputy Inspector General (DIG) of Police, Agra Range, Shailesh Pandey, visited the site in Firozabad.
+
+Bhagat said police had launched a search operation to identify and arrest those responsible.
+
+"No one was injured, and only the outer glass pane of the First AC coach was damaged," he said.
+
+## **One Person Detained, Investigation Underway**
+
+Firozabad Senior Superintendent of Police (SSP) Aditya Langhe said one person had been taken into custody for questioning, and an investigation was underway.
+
+"The incident occurred around 7.15 pm when the train was passing through an area near the Rasoolpur and Dakshin police station limits. We received information that RSS chief Mohan Bhagwat was travelling on the train," Langhe said.
+
+Police teams, including the Special Operations Group (SOG) and surveillance units, have been deployed to identify others who may have been involved.
+
+## **CCTV Footage Being Examined**
+
+SP City Ravi Shankar Prasad reached the spot near Pemeshwar Gate along the railway track after the incident. Authorities are reviewing CCTV footage from the area and collecting evidence.
+
+According to police, an unidentified person threw a stone at the moving train, damaging a window. GRP and Railway Protection Force (RPF) personnel immediately responded and ensured the train continued safely towards its destination.
+
+A formal case is being registered based on a complaint 
+
+## **Stretch Known for Stone-Pelting Incidents**
+
+Officials noted that the railway stretch passing through Firozabad has witnessed several incidents of stone-pelting in the past.
+
+SSP Langhe said police would review previous cases and strengthen security measures to prevent similar incidents in the future.
+
+"We will take into account both past incidents and this latest case and put in place effective measures to curb such activities," he said.
+
+---
+
+### Saugata Roy's Warning, Merger Buzz & A Letter By Rebels: Inside TMC's 48-Hour Meltdown
+*Apoorva Misra · politics*
+
+Rebel MPs have publicly challenged the party leadership, another Rajya Sabha MP has resigned, and speculation over a possible merger with Congress has triggered political intrigue
+
+[Read full article](https://www.news18.com/india/saugata-roys-warning-merger-buzz-a-letter-by-rebels-inside-tmcs-48-hour-meltdown-ws-l-10144542.html)
+
+
+---
+
 ## 11 June 2026
 
 ### States Yet To Set Up Cyber Crime Centres Get Fresh MHA Push As Online Frauds Rise
