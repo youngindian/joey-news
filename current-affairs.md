@@ -1,3 +1,825 @@
+## 13 June 2026
+
+### ED Raids, Cash Under Bed: Fresh Heat On Abhishek Banerjee, Madan Mitra As TMC Crisis Deepens
+*Aveek Banerjee · general*
+
+A team from Paschim Medinipur's Salboni Police station, assisted by Kolkata Police personnel, searched Abhishek Banerjee's home at 2 am in connection with a land scam probe
+
+[Read full article](https://www.news18.com/india/tmc-faces-fresh-heat-cops-search-abhishek-banerjees-home-ed-raids-madan-mitras-properties-ws-l-10146921.html)
+
+---
+
+### Manipur violence: 4 Naga bodies identified after hostage crisis, NIA investigates
+*Bikash Singh · business*
+
+Guwahati: Four of the six bodies recovered on June 10 in Manipur have been identified by the family members. These bodies were of Liangmai Nagas who are believed to have been killed in captivity in Manipur.
+
+The bodies are in Jawaharlal Nehru Institute of Medical Sciences (JNIMS) in Imphal. A senior police official who does not want to be named said, “DNA testing may be required if visual identification of the remaining bodies is not possible”.
+
+A family member said the identification process took several hours and that only four bodies could be identified. “The were found with their hands tied and bodies were mutilated.”
+
+  
+
+Manipur Home Minister K. Govindas said that kidnapping and killing of innocent people was highly condemnable and assured that the perpetrators would be arrested soon. "It is a heinous crime against humanity. Kidnapping innocent people and butchering them is highly condemnable. We have committed that the perpetrators will be arrested very soon," the Home Minister said.
+
+Inspector General of Manipur Police Ningshen Worngam said the case has been handed over to the National Investigation Agency (NIA), while the Manipur Police will extend all necessary assistance to facilitate the investigation.
+
+Manipur police on June 10 stated in X, “After nearly 24 hours of sustained search operations involving around 450 personnel of the Manipur Police, CRPF, and Assam Rifles, assisted by sniffer dogs and forensic expert teams, the mortal remains of six persons were recovered this afternoon. The deceased are believed to be among those taken hostage from Leilon Vaiphei on 13 May 2026. Necessary legal formalities are being carried out by the police, and the investigation is underway.”
+
+The recovery of the bodies of the six Naga civilians came just hours after 14 hostages belonging to the Kuki community were released on Tuesday (June 9) following nearly four weeks in captivity.
+
+At least 50 people belonging to the Kuki and Naga communities were allegedly held hostage by different armed groups in Kangpokpi and Senapati districts following the violent incidents of May 13, during which three church leaders were killed, and four others were injured in Kangpokpi district. Around 30 individuals from both communities were released on May 14 and May 15 following sustained efforts by authorities, community leaders, and several civil society organisations.
+
+Various organisations representing both the Naga and Kuki communities had since been staging protests and demanding the safe rescue of the abducted persons -- six Nagas and 14 members of the Kuki community.
+
+---
+
+### What is El Niño and how does it affect India? Could it bring a drought-like monsoon and higher grocery bills?
+*Trending Desk · business*
+
+The India Meteorological Department (IMD) has confirmed that El Niño conditions are now active over the equatorial Pacific Ocean and are expected to strengthen during the monsoon season. This comes just as the southwest monsoon begins its journey across India. The development has sparked concerns because El Niño has historically been linked to weaker monsoon rains, higher temperatures and stress on agriculture in India.
+
+So what exactly is El Niño, and does it mean India is heading for a drought-like monsoon? Here's what you need to know.
+
+## What is El Niño?
+
+El Niño is a natural climate phenomenon that occurs when sea surface temperatures in the central and eastern equatorial Pacific Ocean become warmer than normal. When temperatures go up, these warmer waters alter global wind patterns and atmospheric circulation, influencing weather conditions around the world.
+
+  
+
+When that engine heats up abnormally, weather patterns across continents can shift, affecting rainfall, temperatures and storms thousands of kilometres away.
+
+The opposite phase is called La Niña, which features cooler Pacific waters and often supports stronger monsoon activity in India.
+
+  
+
+## Why is IMD concerned this year?
+
+According to IMD, both the ocean and atmosphere are now showing clear El Niño signals, indicating that the phenomenon has officially developed. Forecast models suggest it is likely to strengthen further during the June-to-September southwest monsoon season.
+
+"The atmosphere has responded to the warming sea surface temperatures, and the coupled ocean-atmosphere system now exhibits characteristics consistent with El Nino conditions," the weather agency said.
+
+El Nino is known to have a warming effect over the planet and might bring less rainfall in India. The IMD has already projected that India could receive below-normal monsoon rainfall this year, with El Niño being one of the key reasons behind that outlook.
+
+## How does El Niño affect India's monsoon?
+
+The Indian monsoon depends on a delicate balance between ocean temperatures, atmospheric pressure and wind circulation.
+
+During El Niño years, that balance can get disrupted. Warmer Pacific waters tend to weaken the large-scale circulation patterns that help draw moisture-laden winds toward the Indian subcontinent. As a result, rainfall may become less abundant or unevenly distributed.
+
+Historically, several major drought years in India have coincided with strong El Niño events, including 2002, 2009 and 2015.
+
+## What could change in India's weather this summer?
+
+**1\. Hotter-than-normal temperatures  
+**  
+One of the most immediate effects of El Niño is an increase in temperatures. Parts of India could experience longer and more intense heat spells, especially in northern, central and western regions.
+
+**2\. Uneven rainfall distribution  
+**  
+A weaker monsoon doesn't necessarily mean it will rain less everywhere. Some regions may still witness heavy downpours, while others could face prolonged dry spells. Weather experts increasingly note that El Niño can contribute to rainfall becoming more erratic.
+
+**3\. Stress on agriculture  
+**  
+Nearly half of India's farmland still depends heavily on monsoon rainfall. If rains arrive late, become patchy or remain below normal, sowing of key kharif crops such as rice, pulses and oilseeds could be affected.
+
+**4\. Water shortages in some regions  
+**  
+Reduced rainfall can lower reservoir levels, groundwater recharge and river flows, potentially affecting drinking water supplies and irrigation in vulnerable areas.
+
+**5\. Higher food prices  
+**  
+A weaker monsoon often translates into lower agricultural output, which can eventually push up prices of vegetables, grains and other food items.
+
+## How El Nino might burn your pockets?
+
+El Niño can affect your monthly household budget even if you are not a farmer.
+
+Here's how the chain reaction works:
+
+**Step 1: El Niño can weaken monsoon rains  
+**  
+During an El Niño year, some parts of India may receive less rainfall or experience long dry spells. Farmers who depend on monsoon rains may struggle to grow crops normally.
+
+**Step 2: Lower crop production  
+**  
+If there isn't enough rain, yields of crops such as rice, pulses, vegetables, sugarcane and oilseeds can decline. Even when crops survive, production may be lower than expected.
+
+**Step 3: Supply becomes tighter  
+**  
+When less produce reaches markets, supply falls. But demand from consumers remains the same.
+
+**Step 4: Food prices rise  
+**  
+With fewer vegetables, grains and pulses available, wholesale and retail prices often increase. This is where consumers start feeling the impact.
+
+For example:
+
+-   Tomatoes, onions and potatoes may become more expensive.
+-   Pulses such as tur dal and moong dal may see price increases.
+-   Edible oils can become costlier if oilseed production falls.
+-   Rice and sugar prices may face upward pressure if production is affected.
+
+**Step 5: Your grocery bill increases  
+**  
+A family spending ₹8,000 a month on groceries could find itself spending ₹8,500-₹9,500 or more if food inflation rises significantly.
+
+This not just impacts the prices of food but also affects milk, meat, electricity and your other daily expenses. Here's how:
+
+**Milk prices  
+**  
+If rainfall is poor, fodder for cattle becomes costlier. Dairy farmers face higher costs, which can eventually push up milk prices.
+
+**Meat and poultry  
+**  
+Feed costs may increase, making chicken, eggs and meat more expensive.
+
+**Electricity bills  
+**  
+If reservoir levels drop due to weak rains, hydropower generation can be affected. Utilities may have to rely more on costlier power sources in some regions.
+
+**Restaurant bills  
+**  
+Hotels and restaurants pay more for vegetables, grains, milk and cooking oil. These higher costs are often passed on to customers.
+
+## Does El Niño always mean a bad monsoon?
+
+Not necessarily. While El Niño increases the risk of below-normal rainfall, it does not guarantee drought conditions. Other climate factors, including conditions in the Indian Ocean and regional weather systems, can either amplify or offset El Niño's impact.
+
+Scientists have also found that the relationship between El Niño and the Indian monsoon is not always identical from one event to another. That's why meteorologists continue to monitor ocean temperatures and atmospheric conditions throughout the season.
+
+---
+
+### Bihar, Bengal-style poll loot, dishonesty could end elections in UP: Akhilesh Yadav
+*India Today News Desk · general*
+
+## Akhilesh Yadav accused the BJP in Kasganj of trying to manipulate Uttar Pradesh's electoral process. He tied the charge to voter roll scrutiny, reservation, and wider complaints on governance.
+
+Samajwadi Party president and former Uttar Pradesh chief minister Akhilesh Yadav on Friday accused the Bharatiya Janata Party (BJP) of manipulating elections and alleged that if the "same dishonesty" witnessed in Bihar and West Bengal was repeated in Uttar Pradesh, future elections could be jeopardised.
+
+Addressing a public meeting after inaugurating Urmila Garden at Soron Gate in Kasganj, Yadav said, "The kind of dishonesty seen in the Bihar and West Bengal elections, if the same loot and dishonesty happen in Uttar Pradesh, then there may never be elections in the future."
+
+He alleged that the BJP was trying to reshape the electoral process to suit its interests.
+
+"The BJP has also played games with women's reservation. They want a Lok Sabha of their own design, one in which opposition leaders are unable to win," he said.
+
+Referring to the Special Intensive Revision (SIR) of electoral rolls, Yadav claimed that the BJP had been preparing to "steal votes" but asserted that the SP was now fully prepared.
+
+"We have to ensure, village by village and house by house, that no voter's name is deleted," he said.
+
+The SP chief alleged that scrutiny of voter lists for panchayat and assembly elections would expose the BJP. He claimed that the ruling party had sought to delete votes but ended up affecting its own supporters.
+
+"The BJP has snatched the rights of PDA (Backward, Dalit and Minority communities) and looted reservation benefits," he said, adding that people of Uttar Pradesh had made up their minds to "teach the BJP a lesson" and that a Samajwadi Party government would be formed in 2027.
+
+Raising the issue of alleged fake encounters, Yadav warned that those responsible would face action if the SP returned to power.
+
+"Those who have carried out fake encounters will face action in accordance with justice when the Samajwadi government is formed, and they will go to jail," he said.
+
+According to a statement issued by the SP headquarters, Yadav also said, "There was open dishonesty in the Bengal elections. The BJP does not believe in Babasaheb's Constitution. If it has its way, there will be no elections in the country."
+
+Targeting the BJP government in Uttar Pradesh, Yadav claimed inflation and corruption had increased while farmers continued to suffer.
+
+In a swipe at Uttar Pradesh Chief Minister Yogi Adityanath, Yadav said, "The chief minister says this region had no identity before 2017, whereas he himself had no identity before 2017. Socialists have always worked for the development of the state."
+
+He also alleged deterioration in public services, claiming that ambulance services launched during the SP regime had been weakened and that government hospitals were facing shortages of doctors and medicines.
+
+Yadav further accused the BJP government of failing farmers and youth, alleging that farmers had neither received a legal guarantee for minimum support prices nor seen their incomes double. He also alleged widespread examination paper leaks, saying they had adversely affected the future of young people, including candidates appearing for NEET.
+
+\- Ends
+
+With PTI inputs.
+
+Akshat Trivedi
+
+Jun 13, 2026 10:05 IST
+
+---
+
+### Telangana: Rajnath Singh advises cadets to "Adapt, Adopt, Amend" at Combined Graduation Parade ceremony
+*ANI · business*
+
+Hyderabad: Union Defence Minister Rajnath Singh on Saturday advised the newly graduated cadets to adapt, adopt, and, when necessary, amend in war-like situations, and to innovate, execute, and gain an edge in all of this during the Combined Graduation Parade (CGP) ceremony of the 217th Course at the Air Force Academy (AFA).
+
+During the ceremony, Singh congratulated the trainees for completing their training. Empowering them to become part of a historic journey, he recalled the contributions made by the Indian Air Force, from the war in Kashmir through the Srinagar airlift during 1947-48 to the decisive air strikes on Dhaka in 1971.
+
+He stated, "Today, it is a matter of pride for me to be among all of you at the Combined Graduation Parade of the Indian Air Force Academy. First of all, I congratulate you all on the successful completion of your training."
+
+  
+
+"This is a service that changed the course of the war in Kashmir through the Srinagar airlift during 1947-48, and which created history in just 13 days through decisive air strikes on Dhaka in 1971. You are about to become part of this very service. The Indian Air Force has always stood as both the shield and sword of India," the Defence Minister said.
+
+Pointing to the essential element of service, which is responding to the call of the nation, he said that as the cadets' journey of cadet life comes to an end today, they must be feeling a mix of satisfaction and excitement. But he reminded them that their journey is only just beginning. He said they are joining a service that has always given its best in response to every call of the nation.
+
+Highlighting the extraordinary performance during Operation Sindoor, he said the Air Force acted with clarity and precision and destroyed terrorist targets. He added that the operation was not only successful because of indigenous platforms but also due to the important contribution of trained, courageous, and disciplined Air Force officers.
+
+Sharing key strategies for the future, he advised them to adapt, adopt, and, when necessary, amend. He also asked them to innovate, execute, and gain an edge in all these areas, stating that every conflict around the world should serve as a new learning experience. Along with hard work, he said, they will need smart work and brilliance in equal measure.
+
+He further added, "Until now, warfare has typically had two vectors: the soldier and the equipment. However, in today's wars, we often cannot see the soldier or the weapon used to launch the attack. Numerous systems such as radar, satellites, drones, sensors, and robotics are deployed in today's warfare, which make it impossible to detect either the fighter or its machinery and equipment."
+
+Singh said that such scenarios are now emerging where even traffic systems and CCTV cameras are being controlled by adversaries. He noted that the definition of warfare has changed significantly. He expressed confidence that their training, programmes, and exercises have prepared them well to face uncertain and unexpected challenges. He urged all of them, the new generation of warriors, to thoroughly understand future war systems and strategies.
+
+---
+
+### IIT Patna-IIM Bodh Gaya dual-degree students flag lack of clarity on fees, course, placements
+*Mridusmita Deka · legal*
+
+Two years after a dual degree programme was offered by the Indian Institute of Technology (IIT), Patna, and the Indian Institute of Management (IIM), Bodh Gaya, students say key details, including fees, curriculum structure, internships and placements, remain unclear.
+
+The BS/BTech + MBA (3+2) programme, introduced in 2024 through the counselling process of the Joint Seat Allocation Authority (JoSAA), combines three years of technical education at IIT, Patna, with two years of management training at IIM, Bodh Gaya.
+
+As per the programme-wise seat matrix released by IIT, Patna, on the JoSAA portal for 2025 admissions, the integrated BS/BTech-MBA programme has 54 seats – MBA (24), MBA in Digital Business Management (15), and MBA in Hospital and Healthcare Management (15). The inaugural 2024 batch had a similar intake of around 55 students.
+
+While integrated IIT-IIM programmes remain relatively rare, students pointed out that IIT, Patna, already runs a separate BTech Mechanical Engineering-MBA programme in collaboration with IIM, Mumbai, formerly NITIE. According to students enrolled in that programme, details regarding fees, internships, placements, and the course structure were clearly communicated at the time of admission.
+
+“Students here knew what they were signing up for from the beginning,” said one student (requesting anonymity), who studies at IIT, Patna.
+
+Other IIT-IIM collaborations also follow different structures. For instance, IIT Jammu offers a 4+2 dual-degree programme, where students become eligible to opt for the MBA track only after the seventh semester of their BTech programme. Unlike IIT Patna’s model, students are not admitted to the integrated pathway during JoSAA counselling.
+
+The MBA fee component in the IIT Jammu programme is also linked to its prevailing fee structure at the time of admission, indicating that there is no common curriculum or uniform fee structure governing IIT-IIM dual-degree programmes across institutions.
+
+Story continues below this ad
+
+As the three years of their IIT, Patna, course draw to a close, students say the lack of clarity has been there since the counselling stage, with information on the course structure or fee breakdown not publicly available. “We had to make our choices without a clear written course structure,” said one student.
+
+Repeated emails and multiple phone calls to IIT, Patna, on the programme structure, fees, placements, and student concerns did not elicit any response.
+
+Students said the absence of a clearly communicated fee policy during counselling made it difficult for families to fully assess the programme’s long-term financial implications before accepting admission offers.
+
+During an online open house, administrators at IIT, Patna, told students the estimated cost would be around Rs 7.5 lakh per year; a regular two-year MBA at IIM Bodh Gaya currently costs around Rs 18 lakh.
+
+Story continues below this ad
+
+As per another student, during the first semester, when he sought details about the MBA fee, he was told that it was “expected to be lower than their usual fees”.
+
+Later, students said, a document issued by IIT, Patna, for education loans stated that the expected fees would be around Rs 8.14 lakh per year, and that they may vary.
+
+Students said the only written document referring to the MBA fee component at IIM, Bodh Gaya, surfaced later through a fee structure sheet issued by IIT, Patna, for a junior student applying for an education loan.
+
+The document stated that students would be “supposed to pay” around Rs 8.14 lakh per year at IIM, Bodh Gaya, while also noting that the amount could vary over time. Students claimed that despite repeated requests for clarity on the programme’s financial structure, the document was never formally circulated among those enrolled in the inaugural batch.
+
+Story continues below this ad
+
+“We had been writing to the administration since the first year asking for a written fee structure, but this document was never officially shared with us,” said a student, requesting anonymity. “We only learnt about it later when a junior obtained it for loan-
+
+Students further claimed that at the time of admission, there was no written mention of a possible fee escalation clause or any undertaking specifically outlining the financial commitments associated with the integrated programme. Several students from economically weaker backgrounds, they said, joined the course without a clear understanding of the total cost involved, while no formal guidance on education loans or long-term financial planning was provided during counselling or at the time of admission.
+
+The concerns intensified after students said they learned — through the fee structure sheet issued for an education loan application and verbal communication from institute officials — that the MBA component would likely follow the prevailing fee structure of the regular MBA programme at IIM, Bodh Gaya.
+
+“Most of us assumed the MBA component would be comparatively affordable because it was part of an integrated academic programme,” said another student. “Realising later that the fee could effectively align with the regular MBA structure became a serious concern, especially for students who had planned their finances around much lower estimates.”
+
+Story continues below this ad
+
+When contacted by indianexpress.com, IIM-Bodh Gaya, officials confirmed that the integrated programme would indeed follow the prevailing fee structure of its regular MBA course at the time students enter the management phase.
+
+## Course structure
+
+Students also talked about the compression of the four-year BTech curriculum into three years, though they are required to complete the same number of credits as in a four-year course (167), the rescheduling of summer internships, and the replacement of some final-year technical electives with Humanities and Social Sciences courses.
+
+Students also question the condition that they must complete the IIM programme and cannot leave after the three-year undergraduate course.
+
+“If a student chooses not to continue after completing the 3-year BS/BTech phase, the policy is that no degree will be awarded, as it is a five-year programme. There is no specific binding clause mentioned… but the policy remains that no degree will be awarded as it is a 5-year programme,” an IIM, Bodh Gaya, official told the indianexpress.com.
+
+Story continues below this ad
+
+According to one student, the Associate Dean (Undergraduate), IIT, Patna, explained during a meeting that students would not be permitted to exit after the undergraduate phase because the institute had already committed a fixed number of MBA seats to IIM, Bodh Gaya, under the integrated arrangement.
+
+“We have committed a certain number of seats to IIM Bodh Gaya, so an exit option after three years is not possible,” the official told students, according to those present in the meeting.
+
+Students said the clarification added to concerns among those who had expected at least an interim undergraduate degree or a formal exit pathway after completion of the three-year BTech component.
+
+Regarding internships, students say that during counselling, they were told they might participate in placement processes at both IIT Patna and IIM Bodh Gaya. Later, they were informed that the IIT Patna option was not available to them.
+
+---
+
+### When teenagers turn distant: understanding the silence behind the closed door
+*Nishtha Grover · legal*
+
+The teenage years are marked by one of the most important psychological tasks of human development: the formation of identity (Photo: Freepik)
+
+Few experiences unsettle parents more than watching a once-affectionate child become distant, withdrawn, and seemingly uninterested in family life. One day, they are eager to tell you about every detail of their school day; the next, conversations are reduced to one-word answers. Parents often describe feeling shut out, confused and even hurt. “She barely talks to me anymore,” a **mother** recently told me. “It’s as if I have lost my daughter.”
+
+As a parenting counsellor, I hear this concern almost daily. Yet what many parents interpret as rejection is often something very different.
+
+The teenage years are marked by one of the most important psychological tasks of human development: the formation of identity. Adolescents are trying to answer fundamental questions about who they are, what they believe, and how they fit into the world. To do this, they must gradually separate from their parents emotionally, even while remaining dependent on them in many ways. This process may appear like coldness, but psychologically it is often a sign of growth rather than disconnection.
+
+The irony is that teenagers frequently pull away from the people they trust most. A child who feels secure in the love of their parents is more likely to experiment with independence because they unconsciously know there is a safe base to return to. This explains why many teenagers who seem dismissive at home can suddenly seek comfort, guidance, or reassurance from the very parents they appeared to be avoiding. Their behaviour may seem contradictory, but it reflects the tension between wanting freedom and still needing support.
+
+I remember working with the mother of a 14-year-old boy who had become increasingly withdrawn. Every evening, she would ask him about school, homework, friends, and future plans. Concerned by his silence, she questioned him more intensely, hoping to reconnect. Instead, he retreated further. Eventually, she tried a different approach. Rather than asking a series of questions, she simply spent time with him while he helped prepare dinner. For several days, they exchanged only a few casual remarks. Then one evening, he began talking about a disagreement with a friend. Over time, those conversations became more frequent. What changed was not the teenager’s personality but the emotional atmosphere. He no longer felt under examination.
+
+This points to an important truth about adolescent psychology. Teenagers are highly sensitive to perceived judgment and control. The more they feel pressured to open up, the more likely they are to protect their privacy. Many parents unintentionally turn conversations into interrogations because their concern is driven by love. However, adolescents are often more willing to communicate when they feel they have a choice. A casual conversation during a walk, a drive, or a shared activity frequently achieves what repeated questioning cannot.
+
+Another common mistake is rushing to solve every problem a teenager shares. Parents naturally want to protect their children from disappointment and distress. Yet adolescents are not always looking for solutions; often, they are looking for understanding. When a teenager describes a conflict with a friend or anxiety about exams, immediate advice can sometimes feel dismissive. They want to know first that their feelings make sense. Feeling understood creates emotional safety, and emotional safety creates connection.
+
+Story continues below this ad
+
+A second case comes to mind. A 17-year-old girl appeared completely absorbed in her friends and social media. Her father felt increasingly irrelevant in her life. Then one night, after a painful argument with a close friend, she came to his room and talked for nearly an hour. Later, she explained that although she rarely showed it, she always knew he would listen without judging her. For months, he had mistaken her independence for indifference. In reality, his quiet availability had become one of her greatest sources of security.
+
+Perhaps this is the lesson parents need most. Teenagers often express love and attachment differently from younger children. They may not seek constant conversation, affection or approval, yet they continue to rely on their parents as emotional anchors. Behind the eye rolls, closed doors, and distracted behaviour is usually a young person struggling to navigate a rapidly changing inner world. Their silence is not always a sign that they have stopped caring; sometimes it is simply evidence that they are wrestling with challenges they do not yet know how to put into words.
+
+Parents cannot force teenagers to open up, but they can create conditions that make connection more likely. By remaining calm, listening more than lecturing, and respecting a teenager’s growing need for autonomy, they communicate a powerful message: “I am here when you need me.” In my experience, this message matters far more than any perfectly timed piece of advice.
+
+The **teenage years** can make even the closest families feel uncertain. Yet parents should remember that a closed bedroom door is not necessarily a closed heart. More often, it is the door of a young person learning who they are. The challenge is not to push that door open, but to remain close enough that when it eventually opens, they know exactly where to find you.
+
+---
+
+### FDs, SCSS or mutual funds? The best way to invest Rs 50 lakh after retirement
+*Jasmine Anand · general*
+
+## Retiring with Rs 50 lakh may sound reassuring, but the real challenge begins after retirement: how do you turn that lump sum into a steady monthly income without running out of money?
+
+For many retirees, Rs 50 lakh represents a lifetime of savings. (Photo: India Today)
+
+“_Mogambo khush hua..._” was my uncle’s favourite line whenever his pension arrived on time and covered all his bills and post-retirement expenses. A small moment of relief. A big emotional milestone.
+
+But in today’s India, that _“khushi” (happiness),_ rarely lasts without a follow-up thought. Will this monthly income still be enough 20–25 years later, when groceries, medicines, and hospital bills refuse to stay still?
+
+This is exactly where many retirees with a Rs 50 lakh corpus quietly find themselves. Cash-rich on paper, but unsure how to turn it into a stable, inflation-proof monthly income.
+
+The challenge is no longer earning after retirement.  
+It is about protecting income from slowly losing meaning.
+
+### THE RETIREMENT PUZZLE: SAFETY FEELS GOOD, BUT IS IT ENOUGH?
+
+For most Indian households, retirement planning still begins and often ends with fixed deposits. Familiar. Safe. Predictable.
+
+But safety can be misleading.
+
+In an inflation-heavy economy, FDs alone can feel like running on a treadmill. Movement is there. Progress is not.
+
+That is why financial planners now push a blended approach—SCSS (Senior Citizen Savings Scheme), FDs, and mutual funds working together, not competing.
+
+As Ramneek Ghotra, Chief Growth Officer at Finvasia, puts it, “A retiree's portfolio should be designed around three objectives: regular income, capital preservation, and inflation protection. Relying entirely on one asset class can expose retirees to reinvestment risk, inflation risk, or liquidity constraints. Therefore, diversification is critical.”
+
+Simple idea. Powerful impact.
+
+SCSS for stability. FDs for steady cash flow. Mutual funds for inflation protection. Liquid funds for emergencies. A system, not a single bet.
+
+### WHY SCSS AND FDs STILL MATTER
+
+There is a reason these instruments still dominate retirement conversations.
+
+They are predictable. They are tangible. They feel safe.
+
+SCSS offers government-backed assurance with regular payouts. Fixed deposits provide structured income and liquidity when laddered properly across tenures.
+
+Comforting? Yes.  
+Complete? Not quite.
+
+Because over time, even “safe” income can lose its strength against rising prices.
+
+### THE SILENT PRESSURE: INFLATION DOESN'T ANNOUNCE ITSELF
+
+It doesn’t shock you in one day. It creeps in.
+
+A medical bill that once felt manageable. A grocery basket that keeps expanding. A utility bill that never really comes down.
+
+This is the real retirement risk.Not volatility. But erosion.
+
+Which is why retirement planning is no longer just about “protecting money.” It is about protecting lifestyle.
+
+### WHERE MUTUAL FUNDS CHANGE THE EQUATION
+
+Mutual funds enter here; not as aggressive tools, but as quiet inflation buffers.
+
+Conservative hybrid and equity savings funds combine debt stability with limited equity exposure. Less drama than pure equity. More growth than pure deposits.
+
+They don’t replace SCSS or FDs. They complete them. They help the portfolio breathe over time.
+
+### A PRACTICAL Rs 50 LAKH STRUCTURE
+
+Most modern retirement strategies now follow a layered approach.
+
+Not one bucket. Multiple layers.
+
+Around 30% is often placed in SCSS for guaranteed income, about 25% in fixed deposits for predictable cash flow, and nearly 30% in conservative hybrid mutual funds for inflation protection. The remaining portion is kept in liquid funds and cash for emergencies, says Ghotra.
+
+As he suggests, the logic is not complexity. It is balance.
+
+### HOW MUCH MONTHLY INCOME CAN Rs 50 LAKH REALLY GENERATE?
+
+This is the question that ultimately matters.
+
+Malhotra says, “Depending on structure and market conditions, a retiree with a corpus of Rs 50 lakh can generate an annual income of around Rs 2.5 lakh at a 5% withdrawal rate, which works out to roughly Rs 20,800 per month.”
+
+“However, if the corpus is invested across a diversified mix of instruments such as the Senior Citizens Savings Scheme (SCSS), fixed deposits, debt funds and hybrid funds, generating an average portfolio return of 7-8%, the monthly income could increase to around Rs 25,000-35,000. This approach may also help preserve a significant portion of the original capital over time.a Rs 50 lakh corpus can typically generate around Rs 20,000 to Rs 35,000 per month in retirement,” he added.
+
+### A BLENDED MARKET REALITY
+
+As Siddharth Maurya, Founder & Managing Director, Vibhavangal Anukulakara Pvt. Ltd., points out, retirement income works best when multiple instruments work together rather than in isolation.
+
+He suggests combining SCSS, FD ladders, post office schemes, debt mutual funds, and systematic withdrawal plans from hybrid funds to generate around Rs 30,000–Rs 35,000 monthly income.
+
+The key, he says, is balancing capital protection with a small growth component, so income does not lose relevance over time.
+
+### WHY DIVERSIFICATION IS NO LONGER OPTIONAL
+
+Earlier, retirement planning was simple.
+
+Save. Park in deposits. Live off interest. Today, that formula is under pressure.
+
+Interest rates move. Inflation stays sticky. Lifespans stretch. Medical costs rise unpredictably.
+
+Retirement portfolios now behave differently.
+
+They are systems. Not silos.
+
+_SCSS anchors. FDs steady the flow. Mutual funds add long-term resilience. Liquid funds absorb shocks._
+
+No single instrument carries the weight alone any more.
+
+### THE REAL OBJECTIVE: INCOME THAT EVOLVES WITH TIME
+
+Retirement investing is not about chasing the highest returns or finding the “perfect” scheme. It is about ensuring that money continues to support daily life without stress.
+
+FDs and SCSS offer comfort and predictability. Mutual funds add resilience against inflation. Liquid funds provide flexibility when life becomes unpredictable.
+
+Together, they do something more important than generating income.
+
+They keep income meaningful.
+
+Simply put, a Rs 50 lakh retirement corpus is not just a savings milestone—it is a responsibility. Structured wisely, it can provide dignity, independence, and comfort for decades. Mismanaged, it can quietly lose relevance in just a few years.
+
+So the real answer is not FDs versus mutual funds. Or SCSS versus market-linked options.
+
+_It is combination. Carefully built. Thoughtfully balanced._
+
+Because in retirement, wealth is not about how much you have.
+
+It is about how reliably it shows up, month after month, year after year, when life quietly keeps getting more expensive.
+
+\- Ends
+
+Jasmine anand
+
+Jun 13, 2026 10:00 IST
+
+---
+
+### Streets go quiet in Humayunpur after MCD crackdown at Delhi’s popular food hub
+*Mishal Mussaddique · legal*
+
+The action follows a major fire last week at a bread and breakfast facility in Hauz Rani area of Malviya Nagar, which killed 23 people, including 14 foreign nationals. (Express Photo)
+
+Glowing neon signs of the rooftop cafes and restaurants are not lighting up the streets of Humayunpur in South Delhi’s Safdarjung Enclave anymore. Food buffs, who frequent the area, miss the nightlife and flavours from North Eastern states, Nepal and Tibet, which many popular restaurants offer here. Among the Capital’s major food hubs, Humanyupur this week witnessed a crackdown from the Municipal Corporation of Delhi (MCD) with **notices on violations pasted** outside more than 20 restaurants. The action followed a major fire last week at a bread and breakfast facility in Hauz Rani area of Malviya Nagar, which **killed 23 people, including 14 foreign nationals**.
+
+As a majority of popular eating outlets in Humanypur continued to have their shutters down on Friday, the staff working at the restaurant expressed concern about an uncertain future. Among the popular outlets, which are closed in the area, are Chak-Khum, Tuoi Moi Eats, Soul Plate, Lha Kitchen, Haomee Cafe, the Roof Eatery, and Pema’s.
+
+On June 9, according to restaurant owners, MCD officials pasted sealing notices outside their premises. “…Total violation of permissible/sanctioned use of the said property… against the Master Plan-2021/ Zonal Plan/ Sanctioned plan and amounts to misuse of premises under reference,” read the notices. This pertains to ‘mixed use regulations’ in the Delhi Master Plan 2021, which has set guidelines for commercial activities within residential areas. The properties have been found to be allegedly violating the guidelines, according to the notices.
+
+Staff members claimed that this is the first time that they have faced such a situation. Amugha (28), from Nagaland, is working a part-time job at the Boba Tea shop in the area currently. He has been in Humayunpur for three months and was working at a rooftop dining cafe till earlier this week, until the shutter went down earlier this week. “We got no prior warning. The fire happened in Malviya Nagar, so we had to shut down. That’s what the boss told us. I am helping out here at the Boba for now. But I am hopeful that the restaurant will open up soon, and I can go back to work,” he said.
+
+Lha Kitchen, a popular outlet offering Himalayan cuisine, was among the handful of restaurants that opened on Friday. The MCD notice is still pasted outside the shop. The staff said they are unsure of the rules that have been violated.
+
+A majority of these establishments are on rooftops or in the basement. An employee at a well-known Manipuri Cuisine restaurant claimed that some restaurants have opened with the permission of building owners and “due to good relations”. According to him, restaurants operating out of rooftops and basements are mainly targeted and surveilled by the authorities due to the possibility of more violations.
+
+The Indian Express reached out to the South MCD office to get the total number of restaurants which have received such notices but could not get a response.
+
+Story continues below this ad
+
+Much like Hauz Rani, Humayunpur is a densely-packed residential and market area, which consists of narrow alleyways, tangled overhead wires and buildings extremely close to each other.
+
+The crackdown on illegal constructions by the Delhi government, which began on June 5, still continues across the city with MCD issuing show-cause, sealing notices and demolition orders.
+
+Residents and visitors of Humayunpur are optimistic that the nightlife will return to the area that has fallen into a deep slumber.
+
+---
+
+### India joins elite group as DRDO conducts 3 successful missile tests boosting India's defence shield
+*ET Online · business*
+
+DRDO today conducted three consecutive flight-tests, demonstrating multi-layered defence against long-range ballistic missiles and anti-ship capability at medium range.Defence Minister Rajnath Singh in a post on X wrote, "The interceptors successfully engaged their respective targets. The systems are designed and developed with the latest technologies to address the emerging missile threats. These tests have put India in the elite group of nations having Ballistic Missile Defence Capabilities to engage Ballistic Missiles up to ICBMs. Anti-ship defence at medium range was demonstrated during the maiden flight test of Naval Anti-Ship Missile-Medium Range."
+
+---
+
+### 'Bought Within Price Cap': Finland Defends India's Russian Oil Imports
+*Shuddhanta Patra · general*
+
+Finland backs India on Russian oil, with Elina Valtonen saying it complies with the price cap. S Jaishankar defends Indias energy policy and criticises European double standards.
+
+[Read full article](https://www.news18.com/world/bought-within-price-cap-finland-defends-indias-russian-oil-imports-ws-l-10146950.html)
+
+---
+
+### West Bengal: Police search TMC MLA Abhishek Banerjee's Kolkata residence for over 4 hours
+*SECTIONS West Bengal Police search TMC MLA Abhishek Banerjee's Kolkata residence · business*
+
+Kolkata: In a dramatic pre-dawn operation that triggered a fresh political storm in West Bengal, police personnel, accompanied by central forces, conducted a raid at TMC national general secretary Abhishek Banerjee's residence here on Saturday in connection with an alleged financial fraud, officials said.
+
+The operation, led by a team from Paschim Medinipur's Salboni Police station and assisted by Kolkata Police personnel, began shortly after 3 am and continued for more than four hours, triggering sharp reactions from the TMC.
+
+  
+
+The sudden police action prompted former chief minister and TMC supremo Mamata Banerjee to rush to Abhishek's residence after being informed about the development.
+
+According to the police, officers repeatedly knocked on the doors of Banerjee's Kalighat residence but received no response.
+
+The TMC alleged that the police personnel broke open a lock and entered the premises to carry out the search operation.
+
+Coming out of the house later, Abhishek Banerjee alleged that police personnel had forcibly entered the residence after breaking open a lock and searched the entire premises.
+
+"They broke the lock and searched the entire house," he told reporters.
+
+The premises in Kalighat's Patuapara area remained heavily guarded throughout the operation, with central forces cordoning off the neighbourhood while personnel from Kalighat and Bhabanipur police stations assisted the search team.
+
+Police officers said the search was linked to an ongoing investigation into a financial fraud case registered at Salboni Police Station in Paschim Medinipur district. However, they declined to disclose further details about the nature of the allegations or the specific evidence being sought.
+
+According to the authorities concerned, the police were searching for the TMC MP's personal assistant in connection with the ongoing investigation.
+
+Police sources said personnel, including women officers, participated in the search. At one point during the operation, some officers briefly stepped out of the residence for discussions before re-entering and continuing the exercise.
+
+As news of the search spread, Mamata Banerjee rushed to the residence and remained there for a considerable period, closely monitoring developments. Her arrival heightened political activity in the area, with TMC workers and supporters gathering near the house.
+
+The police personnel left Abhishek Banerjee's house this morning, but it was not immediately known whether any documents or materials were seized during the search.
+
+The development came barely two days after the West Bengal CID questioned Banerjee in connection with the alleged forged-signature case linked to the state assembly and amid a series of fresh summons issued to him by multiple investigating agencies.
+
+Banerjee was also summoned for a second round of questioning on June 14 in connection with the alleged signature forgery case after the state CID sleuths were reportedly dissatisfied with his responses during questioning at the department headquarters two days ago.
+
+The Calcutta High Court had directed Banerjee to cooperate with investigators probing the assembly signature forgery case, and observed that the CID would not take any coercive action against Banerjee for two weeks.
+
+On Friday, CID officers again visited his Kalighat residence to serve a notice in connection with a cyber complaint lodged over certain remarks allegedly made by him. After initially finding him unavailable, investigators later handed over the notice when he returned home.
+
+Banerjee has been asked to appear before the CID on June 16 in connection with the cyber case.
+
+The TMC Diamond Harbour MP stated publicly that he would cooperate with both investigations.
+
+In addition, the Enforcement Directorate has summoned him on June 15 in connection with its probe into the alleged primary school recruitment irregularities case.
+
+The pre-dawn search on Saturday has intensified the political heat in the state, with sections of the TMC alleging that Banerjee was being selectively targeted through successive investigations.
+
+The ruling BJP, however, maintained that investigative agencies were merely following due process and that no individual was above the law.
+
+---
+
+### US bans Claude Fable 5 and Mythos for foreigners, Anthropic switches off access for all
+*Reuters · world*
+
+## Anthropic said it will abruptly disable Fable 5 and Mythos 5 for all users after a US directive targeting foreign nationals. The company said the order cited national security concerns but gave no specific details.
+
+Anthropic's relationship with the government ruptured this year after it refused to allow the US military to use its ​AI models for domestic surveillance and fully autonomous weapons systems.
+
+Anthropic said on Friday it will "abruptly disable" its most advanced AI models for all users after the US government ordered it to suspend access to the models for foreign nationals, citing national security concerns.
+
+The company received the export control directive to suspend access to Fable 5 and Mythos 5 for all foreign nationals, without being given specific details of its national security concern, Anthropic said in a statement.
+
+It is Anthropic's understanding that the government believes there is a method of bypassing, or "jailbreaking," a safeguard that would prevent Fable 5 from being used in identifying software vulnerabilities, the company said.
+
+The order comes just as a previous dispute between Trump administration officials and IPO-bound Anthropic showed signs of easing across parts of the US government.
+
+Anthropic's relationship with the government ruptured this year after it refused to allow the US military to use its AI models for domestic surveillance and fully autonomous weapons systems. The government responded by putting Anthropic on a supply chain blacklist, set to take effect later in the year.
+
+The action also marks a major escalation of US efforts to halt foreign adversaries' AI capabilities. For years, US export controls have focused on the chips and tools that power AI rather than on restricting foreign access to AI itself.
+
+Anthropic said the government has given it only "verbal evidence of a potential narrow, non-universal jailbreak".
+
+"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people," the company said.
+
+The government directive and Anthropic's response highlight growing tension between AI developers and regulators over how to assess risks from so-called "jailbreaks," or methods used to bypass model safeguards.
+
+As recently as Wednesday, Anthropic had called for greater US oversight of AI, including the ability to block models with unacceptable risks. It said, however, the government action on Friday did not follow principles of fair and fact-based regulation.
+
+The Pentagon's chief information officer, Kirsten Davies, said in a post on X that the Defense Department supported prioritizing national security.
+
+"Some things are simply more important than revenue cycles, clickbait, and pre-IPO valuation. America First. Always," Davies said.
+
+Anthropic confidentially filed for a US IPO last month, edging ahead of rival OpenAI in the race to reach public markets.
+
+### SOPHISTICATED CYBERATTACKS
+
+Earlier this week, Anthropic rolled out an AI model named Claude Fable 5, representing a new tier of capability it calls "Mythos-class." The model is accompanied by guardrails barring its use in risky areas such as cybersecurity, which some users have complained are "overly broad," Anthropic said.
+
+Experts have said that Mythos models, in the wrong hands, could dramatically accelerate sophisticated cyberattacks, particularly in sectors such as banking that rely on complex, interconnected, and often decades-old technology systems.
+
+Anthropic said it had worked with the US government, among others, on safety ahead of the Fable launch and that models from rival AI providers showed a similar ability to unearth minor bugs in code.
+
+"The net effect of this order is that we must abruptly disable Fable 5 and Mythos 5 for all our customers to ensure compliance. Access to all other Anthropic models will not be affected," Anthropic said.
+
+Anthropic said that it believed there was a "misunderstanding" and that it is working to restore access to the models as soon as possible.
+
+"If this standard was applied across the industry, we believe it would essentially halt all new model deployments for all frontier model providers," the company said.
+
+Amazon's cloud unit AWS said late on Friday that Anthropic has asked it to revoke access to the models for "all users in all regions."
+
+A US official confirmed that the Commerce Department had issued an export control directive to suspend all access to Fable 5 and Mythos 5 by foreign nationals.
+
+Dean Ball, a former White House official who contributed to the AI Action Plan the administration issued in the summer of 2025, said in a post on X that the order suggests all "non-Americans" would be restricted from using Anthropic's latest models, including those based in the US.
+
+"This means you should expect to have to prove your citizenship to use Anthropic models," Ball said.
+
+Several key Anthropic personnel, including co-founder Chris Olah, AI researcher Andrej Karpathy and philosopher Amanda Askell, were born outside the United States. Reuters was unable to determine their citizenship status, and an Anthropic spokesperson declined to comment on whether such staff would lose AI model access.
+
+\- Ends
+
+Sonali Verma
+
+Jun 13, 2026 09:50 IST
+
+---
+
+### BKC’s first Public Transport Friday cuts morning traffic, highlights last-mile gaps
+*Sabah Virani · legal*
+
+The first edition of Public Transport Friday in the Bandra-Kurla Complex (BKC) led to a modest reduction in traffic congestion during morning peak hours, with traffic police estimating a 10-15 per cent drop in vehicle movement. However, commuters said the initiative’s long-term success would depend on addressing persistent last-mile connectivity issues, particularly between railway stations, metro stations, and office complexes.
+
+The initiative, spearheaded by the Mumbai Metropolitan Region Development Authority (MMRDA) and WRI India, aims to encourage employees in the city’s premier business district to shift from private vehicles to public transport.
+
+“During the peak hours in the morning, traffic was less by 10 to 15%. While typically, traffic disperses after 11:30am, today the roads largely cleared by 10:45 to 11am,” said a senior traffic police officer who overlooks the BKC area.
+
+“While traffic returned in the evening, it was slightly lesser than normal.”
+
+The private bus service operator, Cityflo, noted a 22 to 25% increased in the ridership of their buses plying to and from from BKC, and a whopping 154% increase in ridership in their metro feeder buses.
+
+BKC sees an estimated 4-6 lakh people enter the district every day. Studies have estimated that around 20,000 private vehicles enter the area during peak hours, contributing to chronic congestion.
+
+Ahead of Friday, several companies and institutions encouraged employees to use public transport. Puneet Saxena, chairman of the Association of Members of G Block, said he had written to at least 15 companies in the area, including UTI, NSE, PNB and ICICI, urging them to participate.
+
+Story continues below this ad
+
+“Even one person taking the step towards public transport can have an influence on others,” said Saxena.
+
+“In the first half of the day, I saw considerable improvement on the roads. People showed a good response.”
+
+Officials said organisations such as Bharat Diamond Bourse and SEBI circulated advisories encouraging employees to leave their cars at home. BEST deployed seven additional buses on BKC routes, while Cityflo plans to add another 50 buses to the 100 buses currently servicing the business district.
+
+For some commuters, the experience demonstrated that public transport could be a viable alternative if services remained reliable.
+
+Story continues below this ad
+
+“If the journey through public transport is as predictable and dependable as mine was today, I might consider ditching my car more often,” said Ashish, a banking technology professional in G Block who travelled by BEST bus from Bhandup to BKC.
+
+“The ride to the office took around 45 minutes, which is around 15 minutes more than my usual transit. But instead of focusing on the driving, I had some time to sit with my thoughts. And, I was helping my country while at it.”
+
+The journey back in the evening for Ashish by train took 45 minutes, quicker than what it takes him by car.
+
+But commuters said reaching offices from Bandra and Kurla stations remains one of the biggest challenges.
+
+Story continues below this ad
+
+“Coming from the train through Kurla station, I don’t take the BEST bus because it takes a long route, which takes over 30 minutes.
+
+Rickshaws are faster, typically taking 10 to 15 minutes, because the distance to ply to my office in the Capital building is not that much, and traffic too is manageable. But the pain point is finding a rickshaw. 9 out of 10 rickshaws at Kurla station refuse to go to the destination, which means us passengers end up walking for almost a kilometer to fetch a rickshaw. After an exhausting train journey, facing rejections by so many rickshaws is frustrating,” said Vidyasagar Jagadesan, who works in BKC.
+
+Evening travel remains a bigger challenge, several commuters said, with traffic often forcing people to walk large stretches to reach railway stations.
+
+“While going by bus or auto is manageable in the mornings, although many informal and low salaried workers find rickshaws expensive, in the evenings, people walk the entire or half the journey. You can find many people leaving BEST buses at the Equinox signal, which is jammed, and walking the rest of the way to Kurla station,” said Nishant Bangera.
+
+Story continues below this ad
+
+“And walking is not pleasant; there is little space between cars and pedestrians, leaving us walking neck to neck.”
+
+Commuters suggested increasing the frequency of BEST buses, introducing dedicated internal BKC shuttle services and streamlining shared-rickshaw operations at Bandra and Kurla stations.
+
+“The response was very encouraging to me, and that was delightful. People need to look at the positive strides public transport has made in BKC, and take the first step towards using it. I hope this becomes an organic sustainable movement. In the coming week, I appeal to more people to take on this initiative to use public transport,” said Sanjay Mukherjee, commissioner.
+
+---
+
+### Daily Briefing: Trump blames Iran for attacks on ships with Indians; families of Air India crash victims seek closure a year on
+*Richa Shrivastava · legal*
+
+**A year on, search for answers lingers on..**
+
+A year after the Air India AI171 crash claimed 241 lives, **grieving families gathered at the Ahmedabad crash** site to remember loved ones and attempt to seek closure. British national Amanda Donaghey paid tribute to her son Fiongal Greenlaw-Meek, while Sita Patni remembered her 13-year-old son Aakash, who was killed on the ground when burning debris fell near the family’s tea stall. Mourners revisited painful memories of final phone calls, missed reunions and futures that never arrived. Some laid flowers amid the charred remains of the hostel buildings, while others carried photographs of spouses, parents and children. Though compensation has been paid, families say their biggest question remains unanswered: what caused the crash that changed their lives forever?
+
+**With that, let’s move on to the top five stories from today’s edition:**
+
+## 🚨 Big Story
+
+**India steps up pressure:** As the US-Iran conflict widened, India stepped up pressure on Washington over the safety of Indian lives at sea. After **three Indian seafarers were killed** in attacks on commercial vessels in the Gulf of Oman, External Affairs Minister S Jaishankar also raised the issue directly with US Secretary of State Marco Rubio, calling the use of lethal force against civilian shipping unjustified. New Delhi summoned the top US diplomat for the second time in less than 48 hours. US President Donald Trump blamed Iran for attacks on Indian sailors. A Palau-flagged oil tanker, Marivex, carrying 24 Indian seafarers, was disabled by US forces on June 8. All crew members were safely rescued. On June 10, the US struck another Palau-flagged tanker, Settebello, killing three out of the 24 Indian sailors on board. Another vessel, Jalveer, a Guinea-Bissau-flagged tanker with 20 Indians, was attacked on Thursday.
+
+## ⚡ Only in Express
+
+**The making of ‘Khan Sir’:** From teaching test-series classes for Rs 150 a session to building one of India’s most influential coaching brands, Faizal Khan, better known as **Khan Sir, has become a phenomenon** for millions of students. His low-cost classes, relatable teaching style and massive online following transformed Bihar’s coaching landscape after the pandemic. However, his success has brought fierce competition. Khan Global Studies is now at the centre of a bitter dispute with rival educator Raushan Anand, of Gyan Bindu GS Academy, culminating in violence, allegations of gunfire, FIRs and a police investigation. For many students, it is a dispute between two teachers; for Bihar’s booming coaching industry, it is a glimpse into the high stakes of an increasingly powerful education business.
+
+## 💡 Express Explained
+
+**PM Modi heads to France:** As Prime Minister **Narendra Modi begins his France visit** this weekend, the focus goes far beyond ceremonial handshakes. In Nice and Paris, the spotlight will be on innovation, technology and future-ready partnerships, with more than 120 Indian startups set to participate in major events including Bharat Innovates and Europe’s biggest tech gathering, VivaTech.
+
+But beneath the buzz around AI and innovation lies something more enduring: trust. France has long been one of India’s most reliable partners, standing by New Delhi during critical moments such as after the 1998 nuclear tests to work closely on defence, space and nuclear energy.
+
+Story continues below this ad
+
+## ✍️ Express Opinion
+
+**A decade long planning:** India’s business sector is standing at a crossroads. In the Opinion section today, Chief Economic Adviser V. Anantha Nageswaran argues that years of global shocks – from the 2008 financial crisis and Covid-19, to wars and tariff tensions – have **pushed companies towards short-term thinking.** Nageswaran writes: “A private sector that captures domestic demand but remains technologically dependent — a consumer of intellectual property rather than a generator of it — is one whose future profitability is under slow but accumulating existential threat. As competitors from East Asia continue to climb the value chain, the space available to Indian businesses that decline to invest in frontier capabilities will narrow. The business community has historically looked to the state to create the conditions for its prosperity, and the state’s obligations in this regard are not trivial. But the capacity for strategic influence is not the state’s to create unilaterally.”
+
+## 🎥 Movie Review
+
+Wondering what to watch this weekend? Well, we’ve got you covered!
+
+**Main Vaapas Aaunga:** In Main Vaapas Aaunga, a 95-year-old man’s final wish to return to his childhood home in Pakistan becomes a moving journey through the wounds left by Partition. The film follows two love stories across generations, exploring how trauma, loss and displacement echo through families decades later. While the first half moves slowly, the emotional payoff is powerful, with the film refusing to blame any one community for the horrors of 1947 and instead highlighting shared grief and humanity, writes film critic Shubhra Gupta. Naseeruddin Shah delivers a standout performance, while Diljit Dosanjh, Vedang Raina and Sharvari add heart to this poignant tale of love, memory and belonging.
+
+_**That’s it for today! Have a lovely weekend!**_
+
+_**Until next time,**_
+
+_**Richa**_
+
+ Business As Usual by E P Unny
+
+---
+
+### Anthropic disables top-tier AI models after US order limiting foreign access
+*Reuters · legal*
+
+Anthropic said on Friday it will “abruptly disable” its most advanced AI models for all users after the U.S. government ordered it to suspend access to the models for foreign nationals, citing national security concerns.
+
+The company received the export control directive to suspend access to Fable 5 and Mythos 5 for all foreign nationals, without being given specific details of its national security concern, Anthropic said in a statement.
+
+It is Anthropic’s understanding that the government believes there is a method of bypassing, or “jailbreaking,” a safeguard that would prevent Fable 5 from being used in identifying software vulnerabilities, the company ⁠said.
+
+The order ​comes just as a previous dispute between Trump administration officialsand IPO\-bound Anthropic showed signs of easing across parts of the U.S. government.
+
+Anthropic’s relationship with the government ruptured this year after it refused to allow the U.S. military to use its AI models for domestic surveillance and fully autonomous weapons systems. The government responded by putting Anthropic on a supply chain blacklist, set to take effect later in the year.
+
+The action also marks a major escalation of U.S. efforts to halt foreign adversaries’ AI capabilities. For years, U.S. export controls ​have ​focused on the chips and tools that power AI rather than on restricting foreign access to ⁠AI itself.
+
+Anthropic said the government has given it only “verbal evidence of a potential narrow, non-universal jailbreak”.
+
+Story continues below this ad
+
+“We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,” the company ‌said.
+
+The government directive and Anthropic’s response highlight growing tension between AI developers and regulators over how to assess risks from so-called “jailbreaks,” or methods used to bypass model safeguards.
+
+As recently as Wednesday, Anthropic had called for greater U.S. oversight of AI, including the ability to block models with unacceptable risks. It said, however, the government action on Friday did not follow principles of fair and fact-based regulation.
+
+The Pentagon’s chief information officer, Kirsten Davies, said in a post on X that the Defense Department supported prioritizing national security.
+
+Story continues below this ad
+
+“Some things are simply more important than revenue cycles, clickbait, and pre-IPO valuation. America First. Always,” Davies said.
+
+Anthropic confidentially filed for a U.S. IPO last month, edging ahead of rival OpenAI in the race to reach public markets.
+
+## Sophisticated cyberattcacks
+
+Earlier this week, Anthropic rolled out an AI model named Claude Fable ⁠5, representing a new tier of capability ⁠it calls “Mythos-class.” The model is accompanied by guardrails barring its use in risky areas such as cybersecurity, which some users have complained are “overly broad,” Anthropic said.
+
+Experts have said that Mythos models, in the wrong hands, could ⁠dramatically accelerate sophisticated cyberattacks, particularly in sectors such as banking ‌that rely on complex, interconnected, and often decades-old technology systems.
+
+Story continues below this ad
+
+Anthropic said it had worked with the U.S. government, among others, on ​safety ahead of the Fable launch and that models from rival AI providers showed a similar ability ‌to unearth minor bugs in code.
+
+“The net effect of this order is that we must abruptly disable Fable 5 and Mythos 5 for all our customers to ensure compliance. Access to all other Anthropic models will not be affected,” Anthropic said.
+
+Anthropic said that it believed there was ‌a “misunderstanding” and that it is working to ​restore access to the models ​as soon as ​possible.
+
+“If this standard was applied across the industry, we believe it would essentially halt all new model deployments for all frontier model providers,” the company said.
+
+Story continues below this ad
+
+Amazon’s cloud unit AWS said late on Friday that Anthropic has asked it to revoke access to ​the models for “all users in all regions.”
+
+A U.S. official confirmed that the Commerce Department had issued an export ⁠control directive to suspend all access to Fable 5 and Mythos 5 by foreign nationals.
+
+Dean Ball, a former White House official who contributed to the AI Action Plan the administration issued in the summer of 2025, said in a post on X that the order suggests all “non-Americans” would be restricted from using Anthropic’s latest models, ‌including those based in the ⁠U.S.
+
+“This means you should expect to have to prove your citizenship to use Anthropic models,” Ball said.
+
+Story continues below this ad
+
+Several key Anthropic personnel, including co-founder Chris Olah, AI researcher Andrej Karpathy and philosopher Amanda Askell, were born outside the United States. Reuters was unable to determine ​their citizenship status, and an Anthropic spokesperson declined to comment on whether such staff would lose AI model access.
+
+---
+
+### '8647' mystery: What does the numbers mean? Sign appears in Washington's iconic National Mall
+*SECTIONS mystery What does the numbers mean Sign appears · business*
+
+Washington, D.C. has been hit by a bizarre mystery after giant numbers reading "8647" suddenly appeared across a stretch of grass on the iconic National Mall, triggering a federal investigation and igniting political controversy just days before a major event linked to President Donald Trump.
+
+The massive message, etched into the lawn near the World War II Memorial, was visible from aerial cameras and webcams but much harder to spot from ground level. Images showed the numbers formed by patches of dead or discolored grass, leaving authorities scrambling to determine who was behind the unusual display and how it was created.
+
+Investigators say the markings appeared sometime within the last week. Photos taken on June 5 showed no sign of the numbers, suggesting the message emerged recently.
+
+  
+
+The timing has raised eyebrows. The discovery comes just before large crowds are expected in Washington for a UFC event associated with Trump's birthday celebrations. While officials have not linked the two events, the appearance of the message has fueled intense speculation online and in political circles.
+
+At the center of the controversy is the meaning of "8647." In American slang, "86" can mean "remove" or "get rid of." Combined with "47" — a reference to Trump as the 47th President of the United States — the phrase has been used by some critics as a symbolic anti-Trump slogan.
+
+  
+  
+
+However, Trump allies and administration officials have argued that the slogan carries more sinister implications, viewing it as a potential threat against the president.
+
+The issue gained national attention earlier after former FBI Director James Comey faced scrutiny over a social media post featuring the numbers "86 47," prompting a heated debate over the phrase's meaning.
+
+Federal agencies are now involved in the investigation. The United States Secret Service and the Federal Bureau of Investigation have referred inquiries to the United States Park Police, which is leading the probe.
+
+Officials say grass samples have been collected and are undergoing laboratory testing to determine what caused the discoloration. Investigators are also reviewing time-lapse footage that appears to show the message gradually materializing over several days.
+
+Authorities have not revealed whether chemicals, landscaping equipment, or another method was used.
+
+The U.S. Department of the Interior blasted the incident as "deranged vandalism" and warned that those responsible would be held accountable.
+
+White House officials also condemned any form of political intimidation, stressing that threats or references to political violence should be taken seriously.
+
+For now, no suspects have been identified. But as investigators work to uncover who created the giant "8647" message, the mysterious markings have already become the latest flashpoint in America's increasingly heated political battle — turning a patch of grass on the National Mall into a national controversy.
+
+
+---
+
 ## 12 June 2026
 
 ### The Meenakshi Natarajan Episode is About More Than One Rajya Sabha Seat
