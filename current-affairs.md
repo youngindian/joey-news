@@ -1,3 +1,479 @@
+## 14 June 2026
+
+### At Anthropic only one person reports to CEO Dario Amodei, and she is not his sister
+*Divya Bhati · general*
+
+## Anthropic CEO Dario Amodei is leading an AI company valued at nearly $1 trillion, yet only one person reports directly to him. In a recent interview, he explained why his unusual management structure frees him to focus on AI strategy, culture and the future.
+
+Anthropic CEO Dario Amodei speaking at the World Economic Forum in Davos, where he warned of deep job disruption from AI.
+
+Anthropic CEO Dario Amodei may be leading one of the world's most valuable artificial intelligence companies, but almost nobody at the company reports directly to him. In a recent interview with Bloomberg's Emily Chang, Amodei revealed that he has just one direct report at Anthropic, his chief of staff, Avital Balwit.
+
+The arrangement may come as a surprise given that Anthropic is now estimated to be worth nearly $1 trillion. Unlike most large technology companies, where CEOs oversee several senior executives, Anthropic has adopted a different structure. The executive leadership team reports to company president and co-founder Daniela Amodei, Dario's sister, who handles much of the company's day-to-day operations.
+
+### Why Dario has only one direct report
+
+Speaking about the setup, Amodei said it allows him to focus on the areas where he can add the most value.
+
+"It's incredibly freeing," he told Bloomberg. "It lets me do all the things that I do much more easily than I would otherwise."
+
+According to Amodei, separating long-term strategy from day-to-day management helps him concentrate on research, company culture and the broader implications of artificial intelligence. He described the structure as a balance between "zooming out" to think about the future and "zooming in" on operational details.
+
+The arrangement perhaps makes sense given everything Dario has on his plate. Earlier this month, Anthropic confidentially filed draft paperwork with the US Securities and Exchange Commission (SEC) for a potential initial public offering (IPO), setting the stage for what could become one of the largest technology listings in recent years.
+
+Founded in 2021 by former OpenAI executives, including siblings Dario and Daniela Amodei, Anthropic has grown at a remarkable pace. The company recently raised $65 billion in a Series H funding round led by Altimeter Capital and Sequoia Capital, pushing its valuation to around $965 billion. If the IPO proceeds as expected, Anthropic could soon cross the $1 trillion mark, placing it among the world's most valuable companies.
+
+The startup has emerged as one of OpenAI's biggest rivals, driven by strong demand for its Claude family of AI models and enterprise products such as Claude Code. Alongside building the company, Amodei has also become one of the industry's most outspoken voices on AI safety, regulation and the potential risks posed by increasingly powerful AI systems.
+
+Despite Anthropic's rapid growth, Amodei said a significant portion of his time is devoted to maintaining the company's culture. During the interview, he explained that fast hiring brings its own challenges, particularly when employees arrive from large technology companies with deeply ingrained ways of working.
+
+Without clear guidance, he said, new hires often recreate the cultures of their previous employers rather than adapting to Anthropic's approach. That's one reason he continues to spend considerable time discussing the company's values, operating principles and long-term mission with employees.  
+
+\- Ends
+
+Divya Bhati
+
+Jun 14, 2026 10:34 IST
+
+---
+
+### Will PM Modi, Trump Discuss India-US Trade Deal In France? US Says Talks Will Focus On Economic Ties
+*Shuddhanta Patra · general*
+
+PM Modi and Trump meet comes at a time when India and US are also facing differences over recent American missile strikes on India-linked commercial vessels in Strait of Hormuz.
+
+[Read full article](https://www.news18.com/world/g7-pm-modi-and-donald-trump-discuss-india-us-trade-deal-tariff-us-attack-indian-ships-iran-war-ws-l-10148445.html)
+
+---
+
+### 'His Mask & Wig Both Came Off': Mahua Moitra Slams TMC MP Sudip Bandyopadhyay Over BJP Meeting In Delhi
+*Devanshe Pandey · general*
+
+Mahua Moitra accused TMC MP Sudip Bandyopadhyay of 'secretly' meeting Union minister Bhupender Yadav in Delhi.
+
+[Read full article](https://www.news18.com/india/his-mask-wig-both-come-off-mahua-moitra-slams-tmc-mp-sudip-bandyopadhyay-over-bjp-meeting-in-delhi-ws-l-10148472.html)
+
+---
+
+### Why Trump and other G7 leaders meeting without China might be a mistake
+*SECTIONS Why Trump · business*
+
+PARIS: From the outset, China wasn't included when major powers gathered in 1975 at a chateau outside Paris to fix the slumping global economy, the first of what have become annual summits by the G7 club of wealthy nations to forward their interests.
+
+No surprise there. Imagining Chinese revolutionary leader Mao Zedong brainstorming with U.S. President Gerald Ford and other leaders would have been unthinkable.
+
+China was in turmoil, nowhere close to becoming the economic giant it is now. Mao had also helped defeat France and U.S. forces in Vietnam, by militarily supporting Ho Chi Minh's communists that took power. So Mao would have been the odd man out had he been at the inaugural Rambouillet summit of six nations, growing into the G7 when Canada joined the following year.
+
+  
+
+But as U.S. President Donald Trump and his G7 counterparts gather again in France from Monday, China's exclusion from the informal club's summits also looks odd, given its now immense sway over the world's economic well-being and affairs.
+
+Put simply: Without China, does the G7 make sense?
+
+Here's a closer look:
+
+By the numbers, China would be a shoo-in If determined only by economic success, China would already be in the club.
+
+Its economy, swollen by decades of growth since Mao's death in 1976, now dwarfs those of G7 nations Germany, Japan, the United Kingdom, France, Italy and Canada - leaving only the United States to catch. By this measure, a G7 summit without China is arguably like a soccer World Cup without 5-time winner Brazil.
+
+From being "only a tiny, benign, panda bear" in 1975, "China has become a great global dragon," says John Kirton, a University of Toronto specialist on the G7.
+
+"So many understandably ask: Would the G7 and the global community be better off if China became a member of the G7 club? A plausible answer is 'Yes.'"
+
+But it's only for democracies A year ago, Trump mused about possibly expanding the club to include China, saying " it's not a bad idea " when a journalist asked him.
+
+But an unwritten G7 rule has always been that it's only for democracies.
+
+"We are each responsible for the government of an open, democratic society, dedicated to individual liberty and social advancement," the founding leaders declared in Rambouillet in 1975.
+
+China wouldn't have cleared that bar then, during Mao's rule that claimed many millions of lives through famine and revolutionary upheaval.
+
+Nor, under President Xi Jinping, would China do so now. By multiple measures, including the annual Freedom in the World study the World Press Freedom Index or the Canadian Fraser Institute's ranking of economic freedom, China lags far behind G7 nations for civil liberties.
+
+China a priority subject for the G7 China's clout impacts all G7 countries, in myriad ways. It sells far more goods than it buys, announcing a record trade surplus of almost $1.2 trillion in 2025, which is a source of friction with other industrial powers. It controls supplies of crucial rare minerals. Its technological advances and growing military strength are giving rivals cold sweats. And it is the world's biggest emitter of climate-warming pollution.
+
+All this means that China will be an elephant in the room at the Monday-to-Wednesday summit in the Alpine spa town of Evian-les-Bains.
+
+As host, French President Emmanuel Macron has carved out time for the leaders to talk about how to rebalance trade with China, amid fears that soaring Chinese exports of cars and other products could wreck G7 industries.
+
+The chemistry between Trump and other G7 leaders has been bad of late - over the Iran war and other bones of contention - but China could be an issue that unites them, said Cedric Dupont, who specializes in international politics at the Geneva Graduate Institute.
+
+"They agree on the same thing, you know: China is a problem," he said.
+
+Beijing looking on warily China's Communist Party-led government has in the past criticized the G7's exclusiveness and painted it as a relic of the Cold War when the world was more divided along ideological lines.
+
+But in a statement to The Associated Press ahead of the Evian gathering, the Chinese Foreign Ministry took a more nuanced view, saying "the G7 should serve as a catalyst for solidarity and cooperation rather than an amplifier of division and confrontation."
+
+Beijing-based analyst Wang Zichen says that "Beijing is wary of the G7 because it sees the group as structurally aligned with U.S.-led Western power, and increasingly as a venue where China is discussed as a challenge or threat."
+
+But Chinese leaders cannot ignore it.
+
+"China recognizes that the G7 still represents a very significant concentration of economic, technological, military and financial power," said Wang.
+
+China seen as a threat to G7 cohesion Analysts say that admitting China into the club could wreck its cohesion, not only because Beijing's authoritarian system of government, interests and its positions on Russia, Iran and other major issues don't align with those of G7 democracies but also because its presence could test their long-standing alliances.
+
+"China inside would indeed be a Trojan horse," said Kirton. With a Chinese leader at the table, "individual members might be tempted to break G7 ranks to secure special favors from him on the economic, critical minerals, digital technology and other issues they address."
+
+Chris Alden, an international relations expert at the London School of Economics and Political Science, said that adding China "would make it very difficult for it to function."
+
+Russia's example is also a barrier to China The G7's last expansion - accepting Russia as a member in 1998 - didn't end well.
+
+The club froze out Russian President Vladimir Putin when he seized Crimea from Ukraine in 2014, foreshadowing the full-scale war now raging since 2022.
+
+Trump said last year that excluding Russia "was a very big mistake."
+
+But Kirton said the experience convinced other leaders "that they should never take a chance on a less than fully democratic power becoming a full member of their fully democratic club again."
+
+---
+
+### Bharat Innovates 2026 in France to feature Indian innovators, higher education Institutions, investors
+*Ani · business*
+
+Prime Minister Narendra Modi and French President Emmanuel Macron will inaugurate Bharat Innovates 2026 here on Sunday.
+
+PM Modi arrived in Nice on Saturday, marking the start of his visit to France that will also include engagements in Evian and Paris, aimed at deepening India's bilateral and multilateral partnerships.
+
+He will also have bilateral meeting with the French President during which the two leaders will review the progress made since February, and chart the next steps in bilateral cooperation. They will also discuss pressing global issues of mutual interest as well.
+
+  
+
+An initiative of the Education Ministry, Bharat Innovates 2026 will feature about 120 Indian innovators, nearly 15 Higher Education Institutions (HEIs) and over 500 investors, including leading corporates and venture capital firms, along with global CEOs and industry leaders.
+
+The event will cover 13 key sectors such as advanced computing, semiconductors, space technology, biotechnology, energy, healthcare, and manufacturing, highlighting India's growing innovation and Deep Tech ecosystem.
+
+PM Modi said in his departure statement that he is eagerly looking forward to inaugurating 'Bharat Innovates' along with President Macron.
+
+"This landmark event, being held against the backdrop of the India-France Year of Innovation, will connect India's most promising start-ups with global investment and serve as a major accelerator for innovations emerging from India's higher education ecosystem," he said.
+
+The maiden edition of Bharat Innovates 2026 will showcase India's deep tech innovators and start-ups to the global investors and industry in Nice. The event is expected to serve as a high-impact platform for advancing innovation-led partnerships between India and global stakeholders. Several key announcements and outcomes are expected during the event, including strengthened collaboration frameworks in Deep Tech, research and development, start-up scaling, and cross-border investment facilitation.
+
+The Event will also highlight new avenues for institutional partnerships between Indian and French innovation ecosystems, with a focus on co-development, technology exchange, and acceleration of emerging technologies. Bharat Innovates is designed to connect participating innovators and institutions with investors, corporations, universities, research organisations, and government stakeholders for investments, technology validation, co-development opportunities, pilot projects, manufacturing partnerships, create pathways for technology transfers and absorption, market entry and international scaling of Indian innovations.
+
+Bharat Innovates 2026 is being organised under the aegis of India-France Year of Innovation, which was inaugurated jointly by the Prime Minister of India and the President of France in February 2026 in Mumbai.
+
+PM Modi arrived in Nice on Saturday, marking the start of his visit to France that will also include engagements in Evian and Paris, aimed at deepening India's bilateral and multilateral partnerships.
+
+After his arrival in Nice, PM Modi received a warm welcome at his hotel with a captivating cultural performance titled 'Echoes of Tradition, Spirits of Innovation'.
+
+The performance showcased the Kathak, Odissi, and Bharatanatyam in perfect harmony.
+
+Set to Pandit Madhup Mudgal's composition 'Charishnu', the presentation featured artists Isabelle Anna (Kathak), Chloe Romero (Odissi), and Marianna Biadene (Bharatanatyam).
+
+The performance celebrated India's timeless cultural heritage and its spirit of innovation, reflecting a modern India deeply rooted in tradition yet evolving and engaging with the world through art and cultural dialogue.
+
+From Nice, PM Modi will travel to the Slovak Republic for a two-day State Visit.
+
+He will travel to Evian from Slovakia and participate in the G7 Summit on June 16 and 17.
+
+---
+
+### Stumbling Bloc: If 'INDIA' Can't Even Ensure Alliance Amity, Are Congress Merger Murmurs Mindless?
+*Pathikrit Sen Gupta · general*
+
+Despite strategic advantages, the ground-level execution of such mergers faces immense friction from entrenched state units
+
+[Read full article](https://www.news18.com/india/stumbling-bloc-if-india-cant-even-ensure-alliance-amity-are-congress-merger-murmurs-mindless-10148285.html)
+
+---
+
+### Redmi Turbo 5 India Launch Roundup: Here’s Everything That We Know So Far
+*Dhruv Raghav · technology*
+
+Redmi Turbo 5 will be powered by a MediaTek Dimensity 8500 Ultra chipset in India.
+
+[Read full article](https://www.gadgets360.com/mobiles/features/redmi-turbo-5-roundup-price-in-india-launch-date-availability-specifications-features-11627849)
+
+---
+
+### Tap water reaches 1.2 crore rural homes in UP as Jal Jeevan Mission nears completion
+*TIMESOFINDIA COM · general*
+
+Uttar Pradesh has provided functional household tap connections (FHTCs) to over 1.2 crore rural households, achieving nearly 90 per cent coverage under the Jal Jeevan Mission (JJM), according to data from the ministry of jal shakti, as the scheme approaches its 2024 target of "Har Ghar Jal", piped water to every rural home.Launched in August 2019, JJM aims to deliver potable water at 55 litres per capita per day to all rural households through individual tap connections, replacing the earlier system of shared standposts. The programme, with a combined central and state outlay exceeding Rs 3.6 lakh crore.In UP, which has 1.3 crore rural households, the state's Jal Nigam (Rural) is the nodal implementing agency, executing the scheme across 822 blocks and over 59,000 Gram Panchayats.
+
+Officials said multi-village water supply schemes, connecting clusters of villages to shared treatment and pumping units, have driven rapid progress, particularly in the Terai region and eastern UP.Each village under the scheme has a Paani Samiti, or Village Water and Sanitation committee, responsible for overseeing construction, collecting user charges for maintenance, and managing operations. A Jal Sahiyya, typically a woman from the village, conducts mandatory quarterly water quality testing at multiple points across the village to ensure compliance with Bureau of Indian Standards and World Health Organisation drinking water standards.
+
+The expansion of piped water access is expected to significantly ease the burden on women and girls in rural households, who have traditionally spent hours collecting water from distant sources, time that development researchers say could now be redirected toward education, work, and health.
+
+---
+
+### IPO Calendar: Two companies to launch public offers in a quiet week for the primary market
+*Akash Podishetti · finance, ipo*
+
+Synopsis
+
+The IPO market will see limited activity next week, with only two SME issues, Liotech Industries and Leapfrog Engineering, opening on June 17. Together aiming to raise around Rs 125 crore, the offerings reflect continued investor interest in SME listings despite muted activity in the mainboard segment.
+
+Agencies
+
+Two SME IPOs to open in a quiet primary market week  
+
+The IPO market will remain relatively quiet next week, with just two SME public issues, Liotech Industries and Leapfrog Engineering, scheduled to open for subscription on June 17. Together, the companies are looking to raise about Rs 125 crore through a mix of fresh issues and offer-for-sale components.
+
+While the mainboard IPO market is still muted, SME offerings continue to attract investor interest. The two upcoming issues represent businesses from distinct sectors, engineering services and industrial hardware manufacturing, and will test investor appetite in the SME segment amid a selective primary market environment.
+
+Both IPOs will close on June 19 and are slated to list on the BSE SME platform on June 24.
+
+**Leapfrog Engineering Services IPO**
+
+Leapfrog Engineering Services is the larger of the two offerings, aiming to raise Rs 88.5 crore through a book-built issue. The IPO comprises a fresh issue of Rs 79.6 crore and an offer for sale worth Rs 8.9 crore.
+
+The company has fixed a price band of Rs 21-23 per share. Investors can bid for a minimum of 12,000 shares, requiring an investment of Rs 2.76 lakh at the upper end of the price band.
+
+Incorporated in 2005, Leapfrog Engineering provides integrated engineering and EPC solutions across sectors such as oil and gas, pharmaceuticals, food processing and metals. Its services span electrical systems, industrial automation, fire protection systems and building automation solutions.
+
+The company plans to use the fresh issue proceeds primarily for setting up an assembling unit and meeting working capital requirements.
+
+For the nine months ended December 2025, Leapfrog reported revenue of Rs 105 crore and profit after tax of Rs 14.2 crore. For FY25, it posted revenue of Rs 137.4 crore and net profit of Rs 16.2 crore.
+
+The company said it has built a diversified project portfolio, a strong order book and a presence across multiple geographies, supported by an experienced management team.
+
+**Liotech Industries IPO**
+
+Liotech Industries will raise Rs 36 crore through a fixed-price issue at Rs 321 per share. The offering comprises a fresh issue of Rs 28.9 crore and an offer for sale of Rs 7.1 crore.
+
+Retail investors will need to invest at least Rs 2.57 lakh for one lot of 800 shares.
+
+The Rajkot-based company manufactures hardware structures and accessories, including door kits, hinges, locks, handles, tower bolts and other architectural hardware products. It caters to sectors such as housing, infrastructure, agriculture, automotive, electricity, mining and solar energy.
+
+Liotech operates a manufacturing facility in Gujarat and offers more than 150 product specifications. It also trades complementary products such as door stoppers, magnets and bed lifters.
+
+The company intends to utilise the IPO proceeds for machinery purchases, loan repayment and working capital requirements.
+
+Financially, Liotech reported revenue of Rs 51.8 crore and net profit of Rs 5.5 crore for the nine months ended December 2025. In FY25, it recorded revenue of Rs 40.7 crore and profit after tax of Rs 4.2 crore.
+
+The allotment for both IPOs is expected to be finalised on June 22, with listing scheduled for June 24 on the BSE SME platform.  
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)
+
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+...moreless
+
+_(You can now subscribe to our ETMarkets WhatsApp channel)  
+_
+
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+...moreless
+
+---
+
+### Homestay manager's daughter allegedly molested in Nainital, two cops accused
+*Lila Singh Bisht · general*
+
+## Two constables on fair duty in Kainchi Dham were accused of molesting a local homestay operator's daughter. The allegation sparked protests, exposed tensions over security measures and prompted a police investigation.
+
+Locals protest in Kainchi Dham after two policemen accused of molesting homestay operator's daughter (Screen grab)
+
+A major controversy erupted in Uttarakhand's Kainchi Dham a day before the temple's annual foundation day celebrations after two police constables deployed on fair duty were accused of molesting a local homestay manager's daughter, triggering protests and public anger against the police.
+
+According to the girl's father, the incident occurred when his daughter and her sister were returning from the temple. He alleged that the two policemen, who were staying at a nearby homestay, misbehaved with the young woman. The father further claimed that both constables were heavily intoxicated at the time of the incident.
+
+The allegations sparked outrage among local residents, who allegedly caught the two policemen, assaulted them and took them to a nearby police outpost, where a large crowd gathered and staged a protest.
+
+Senior police officials rushed to the spot after being informed about the incident. Nainital Senior Superintendent of Police (SSP) Manjunath TC confirmed the episode and described the matter as serious. He said strict action had been ordered against the accused personnel and assured a fair and impartial investigation.
+
+According to local reports, medical examinations conducted on the two constables reportedly confirmed alcohol consumption. Police are preparing to register a criminal case against the accused personnel.
+
+The incident has also intensified resentment among local traders and residents over security arrangements ahead of the Kainchi Dham foundation day fair, which is observed annually on June 15 and attracts lakhs of devotees from across the country.
+
+Local traders accused the police of creating a "curfew-like" atmosphere in the area days before the event. They claimed that barricades had been erected across the Kainchi Dham region and vehicle movement restricted well in advance, causing inconvenience to pilgrims, tourists and business owners.
+
+Residents alleged that traffic restrictions and roadblocks had been imposed three days before the event, something they said had never happened in previous years. They accused the police of enforcing rules arbitrarily and disrupting normal life in the temple town.
+
+The controversy has raised questions over security and crowd-management arrangements ahead of one of Uttarakhand's biggest religious gatherings. With lakhs of devotees expected to visit the globally renowned Kainchi Dham temple, the incident has further strained ties between the local community and the police, with attention now focused on the outcome of the investigation and the administration's response.
+
+\- Ends
+
+Priyanka Kumari
+
+Jun 14, 2026 09:59 IST
+
+---
+
+### 2 second-year medical students drown in Gwalior's Tighra dam; one body recovered
+*Ani · business*
+
+Gwalior: Two second-year medical students drowned in Tighra Dam near Gwalior on Saturday, while a search operation is still underway for one of the students, officials said.
+
+Speaking to ANI, Gajra Raja Medical College Dean RKS Dhakad described the incident as "truly unfortunate", noting that a group of eight students had visited the area when the mishap occurred.
+
+"It is truly unfortunate. These students came to this area, which resembles a 'desert', and, according to their friends, two of them went under, and suddenly water deepens abruptly at the edge, so it seems they were in the water and suddenly sank," Dhakad said.
+
+  
+
+He added that one of the students was likely from Bina and the other from Bihar.
+
+"They are 2nd-year medical students. There were 8 students in total. Two of them went into the water. I received a call from a student's family just a while ago. We informed them about the ongoing procedures," he said.
+
+Dhakad further said that hostel authorities maintain oversight, but it is not possible to physically restrict students at all times.
+
+"All wardens maintain constant vigilance regarding hostel guidelines; however, it is impossible to physically stop every single student from going out at 5:00 PM; their schedules require them to attend clinics and classes... it is deeply unfortunate," he said.
+
+Gwalior City Superintendent of Police Krishna Pal Singh said the incident was reported around 6:30 pm on Friday.
+
+"We received information around 6:30 PM that a group of students from GRMC Medical College had visited a remote area near Tigra Dam. While bathing, two of them drowned. Upon receiving the news, we immediately summoned the SDRF team and launched a search operation with local support and police assistance," he said.
+
+He confirmed that one body had been recovered while efforts were continuing to trace the second student.
+
+"We have currently recovered the body of Gopal Agarwal, and the search for the second student is ongoing; the SDRF team is still in the water working on it," he added.
+
+---
+
+### Trump's 80th birthday: White House cage fight spectacle amidst war and controversy
+*SECTIONS Trump's · business*
+
+President Donald Trump celebrates turning 80 on Sunday with a showstopping birthday spectacle that once would have seemed unfathomable: a cage-fighting show on the storied South Lawn of the White House.
+
+This week, the hard realities of the office have threatened to overshadow the ostentatious UFC mixed martial arts extravaganza, where combatants sealed inside a wire-mesh octagon try to punch, kick, chop and pummel each other into submission.
+
+Trump has found himself boxed into an unpopular and costly war he helped start in Iran. An agreement to end the conflict could be close, but the crucial details are still to be negotiated. Meanwhile, about a mile from Trump's birthday bash, crews pried the president's name off the Kennedy Center after a judge ruled naming it after Trump had gone too far.
+
+  
+
+Regardless, the president will walk out of the White House and be surrounded by Cabinet leaders, top administration officials, Republican lawmakers and 4,000-plus spectators screaming themselves hoarse in a temporary arena under " The Claw," a spaceship-like metal arch fitted with lighting, sound equipment and large screens. Thousands more will be watching on big screens from the nearby Ellipse.
+
+"This event is a one of one event, incredible event. I love it," said UFC chief Dana White, a close friend of the president, during a Friday night hype session at the Lincoln Memorial where pairs of fighters shoved and scuffled for the cameras under the stoic gaze of Honest Abe's marble likeness.
+
+The president has sought to tie Sunday's event - which features seven fights running past midnight - to larger, months-long celebrations of the 250th anniversary of the signing of the Declaration of Independence.
+
+But it is much more geared toward feting himself, so much so that the G7 summit for leaders of industrialized nations pushed back their get-together so that the president could attend his cage-match party and then fly straight to France for the meetings.
+
+The weather, though, could put a major damper on things. Strong thunderstorms and heavy lightning disrupted Friday's Lincoln Memorial event, and the forecast for Sunday evening also looks threatening.
+
+"I'm sick and tired of hearing about the weather," White declared on Friday, before conceding that he'll prefer to hold future UFC events inside arenas only.
+
+## A dramatic departure from how the last president marked his 80th
+
+When Trump's predecessor, President Joe Biden, turned 80 in November 2022, he celebrated with a private family brunch at the White House, laying bare just how much and how quickly things have changed.
+
+Asked about the contrast, White House spokesperson Allison Schuster said that the fight "will be one of the most entertaining nights in American history" and said that the timing was appropriate. "Having this spectacle take place at the people's house on Flag Day during our nations' semiquincentennial anniversary is a fitting tribute," Schuster said in a statement.
+
+When he turned 80, Biden was the oldest president in U.S. history, and was months away from launching a reelection bid that he would ultimately abandon after a disastrous debate against Trump and mutiny among Democrats concerned he was too old to handle a second term.
+
+Trump has now supplanted Biden as the oldest person to be elected U.S. president. He's constitutionally barred from running again, yet constantly toys with the notion publicly. That's despite polls showing rising public skepticism about Trump's mental and physical health - recalling concerns Biden faced as he turned 80.
+
+A Washington Post/ABC News/Ipsos poll conducted in April found that less than half of U.S. adults think Trump has the mental sharpness or physical health to serve effectively as president.
+
+The White House countered with a lengthy statement from Trump's former White House physician, Texas Republican Rep. Ronny Jackson, saying Trump's "stamina, focus, and strength are exceptional and on display every day. Claims to the contrary are pure fiction." Jackson added that polling concerns were "being propagated by the same biased, liberal, Trump-hating press that completely ignored the absolute cognitive and physical disaster that was President Biden."
+
+Trump has nonetheless undergone four publicly announced physical examinations this term alone, with White House physician Dr. Sean Barbabella recently declaring him in "excellent health."
+
+## 'Bread and circuses' - Trump-style
+
+The UFC event is an apt metaphor for Trump's pugilistic political style. He is as big a fan of cage-match-style politics as he is of cage-fighting itself.
+
+But Trump has also long been a master of political misdirection, purposely presenting people with something other than his presidency to focus on when things aren't going well.
+
+With the war in Iran grinding on despite weeks of assurances from Trump that its end is nigh, gas prices staying high, renewed concerns about inflation and plummeting job approval ratings for Trump - a White House birthday party unlike anything America has ever seen is definitely a diversion.
+
+"This is all distraction," said Mike Fontaine, a classics professor at Cornell University, who likened it to the gladiatorial games of Imperial Rome, when combatants brutalized each other for public entertainment meant to bolster rulers' popularity and quell potential unrest.
+
+"This is a classic strategy," Fontaine said. "In ancient Rome, the phrase would be, 'bread and circuses.'"
+
+Trump says the UFC is paying for the event and while its full costs haven't been divulged, the National Park Service said in a court filing that $60-plus million and tens of thousands of hours of labor have gone into it, while seven government agencies have "allocated significant resources and manpower."
+
+UFC also announced on Friday that it was adding as an official partner for the event World Liberty Financial to create a special $250,000 athlete bonus pool for Sunday night's winners. The cryptocurrency company is co-owned by the Trump family, founded with the president's special diplomatic envoy Steve Witkoff and run by his son, Zach. The arrangement further blurs lines between the Trump family's financial interests and the events and construction projects the president has prioritized and used government resources to pull off.
+
+Still, Fontaine said that when it comes to a personal flair for pageantry, the president's second-term tendency to lean into "hardcore masculinity and brute fighting" is marrying the UFC's blood sport with Trump's trademark humor and enduring sense of showmanship.
+
+"President Trump has a once-in-a-generation talent for this stuff," he said.
+
+---
+
+### Delhi Electricity Bill Hike: Who will pay more, how much BRPL, BYPL and TPDDL customers will be charged, and from when
+*Unknown · business*
+
+Thousands of electricity consumers in Delhi could soon face higher monthly power bills after the Delhi Electricity Regulatory Commission (DERC) approved an increase in the surcharge charged by power distribution companies. The revised surcharge is expected to affect households with higher electricity consumption, particularly those using more than 500 units a month and not covered under the government's subsidy scheme.
+
+## Why Are Electricity Bills Rising in Delhi?  
+
+The increase stems from higher costs incurred by power distribution companies while purchasing electricity. To help utilities recover these expenses, DERC has allowed them to levy a higher Fuel and Power Purchase Adjustment Surcharge (FPPAS), also known as the Power Purchase Adjustment Cost (PPAC).
+
+Power companies have cited a sharp rise in electricity procurement costs during April, when demand surged due to increasing temperatures across the capital.
+
+  
+  
+
+## Who Will Be Affected?  
+
+The revised surcharge is expected to impact consumers who do not receive electricity subsidies from the Delhi government. Households enjoying either full subsidy benefits or the 50% subsidy scheme are unlikely to see any immediate impact from the surcharge revision.
+
+Consumers with high electricity usage, especially those crossing the 500-unit monthly consumption mark, are likely to notice an increase in their upcoming bills.
+
+  
+
+## New PPAC Rates for Delhi Consumers  
+
+Following DERC's approval, the surcharge applicable in areas served by BSES distribution companies has been revised upward.
+
+  
+
+-   For consumers under BSES Rajdhani Power Limited (BRPL), the PPAC has increased from 14.5% to 17.9%.
+-   For BSES Yamuna Power Limited (BYPL) consumers, the surcharge has risen from 11.7% to 17.4%.
+-   Customers of Tata Power Delhi Distribution Limited (TPDDL) will see only a minor change, with the surcharge remaining relatively stable at around 16%.
+
+  
+
+## What Led to the Hike?  
+
+According to officials, electricity generation and procurement costs have increased because of rising fuel prices, including coal, as well as higher transportation and import expenses. Distribution companies argued that the existing cap on surcharge recovery was preventing them from recovering the actual cost of supplying power.
+
+After reviewing the request, DERC relaxed the recovery limits, allowing utilities to pass on a larger portion of these additional expenses to consumers.
+
+The regulator noted that the actual surcharge requirement for April was significantly higher than the amount utilities were permitted to recover under existing rules.
+
+As a result:
+
+-   BRPL has been allowed to recover an additional surcharge, taking its effective PPAC to nearly 18%.
+-   BYPL has received approval for a similar increase, pushing its surcharge above 17%.
+-   TPDDL has been permitted to recover the full surcharge calculated for the month.
+-   DERC has also indicated that this arrangement will continue on a monthly basis until a fresh order is issued.
+
+  
+
+## When Will Consumers See the Impact?  
+
+The revised surcharge is expected to be reflected in upcoming electricity bills, with the effect likely becoming visible from June-July billing cycles. Consumers with higher power consumption and those outside the subsidy net are expected to bear the maximum impact of the increase.
+
+---
+
+### PM Modi, Trump Set For Key G7 Bilateral Talks On Wednesday; Trade, Strategic Ties In Focus
+*Vani Mehrotra · general*
+
+PM Modi and Donald Trump are set for their first face-to-face talks since February last year, with trade, bilateral ties and regional issues likely to feature in discussions.
+
+[Read full article](https://www.news18.com/world/pm-modi-donald-trump-meeting-g7-summit-france-india-us-bilateral-talks-trade-deal-tariffs-strait-of-hormuz-press-conference-ws-l-10148449.html)
+
+---
+
+### UK, Japan set to agree $24 billion investment, tech partnerships
+*Reuters · business*
+
+Britain and Japan ​are set to agree ​investment and technology partnerships worth ​more than £18 billion ($24 billion), expected to create tens of thousands of jobs, as Prime Minister Keir ‌Starmer meets ⁠his ⁠Japanese counterpart Sanae Takaichi on Sunday.
+
+The agreements include a Japanese five-year investment pipeline of more than £9 ​billion in infrastructure and ⁠financial services, alongside ‌plans to unlock up ​to £9 ​billion for UK offshore wind projects.
+
+  
+
+The offshore wind component is expected ​to support 5.9 gigawatts of capacity ​across projects in Scotland and the Celtic Sea.
+
+The two countries will also launch a new technology partnership covering areas such as AI, semiconductors ‌and quantum computing.
+
+Separately, companies including Hitachi Energy, Rolls-Royce and Eisai are ​also expected ​to announce ⁠investments and collaborations spanning power grid expansion, nuclear technology and life sciences.
+
+Other business and ​government agreements are expected to be signed during Takaichi's visit, which comes ahead of the June 15-17 G7 summit in France.
+
+
+---
+
 ## 13 June 2026
 
 ### ED Raids, Cash Under Bed: Fresh Heat On Abhishek Banerjee, Madan Mitra As TMC Crisis Deepens
