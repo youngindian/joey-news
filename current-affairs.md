@@ -1,3 +1,1081 @@
+## 15 June 2026
+
+### CIC orders CBSE to reveal answer sheet procurement records and exam expenditure
+*India Today Education Desk · general*
+
+## The Central Information Commission (CIC) has directed CBSE to provide RTI-permissible information on Class 10 and 12 board exam expenditure, answer sheet procurement, and tender processes. Setting aside CBSE's earlier denial, the Commission said exempt information may be redacted, while refusals under RTI exemptions must be properly justified.
+
+The Central Information Commission (CIC) has instructed the Central Board of Secondary Education (CBSE) to provide point-wise, category-specific information, as allowed under the Right to Information (RTI) Act, regarding expenditure incurred on Class 10 and Class 12 board examinations. The information will also include details on answer books, as well as the tendering and procurement procedures used to conduct the exams.
+
+Overturning CBSE’s earlier refusal to share the information, the Central Information Commission directed the board to issue revised responses under the RTI Act. The Commission said any information exempt from disclosure can be suitably redacted under Section 10 of the Act, while any refusal to provide information under Section 8(1)(d) must be backed by clear and valid reasons.
+
+### RTI APPLICANT SOUGHT ANSWER BOOK PROCUREMENT DETAILS
+
+The matter stemmed from an RTI application that sought information on the answer books used in Class 10 and Class 12 board examinations for the 2023–24 and 2024–25 academic sessions. The applicant requested details such as the quality, size, and page count of the answer sheets, their procurement cost, total expenditure incurred, GST payments, and information 
+
+In its reply, CBSE shared some specifications of the answer books, stating that the paper quality ranged between 60 GSM and 120 GSM. The board also informed that the answer books were produced in formats of 8, 20, 32, 40, and 48 pages, and were available in dimensions of 22 x 28 cm and 37.5 x 54.5 cm.
+
+### CBSE CITES RTI EXEMPTIONS TO WITHHOLD INFORMATION
+
+The board stated that it does not maintain records on the weight of individual answer books. It also refused to disclose details such as the purchase cost of answer books, the quantity procured, and the total expenditure incurred on their procurement, citing exemption under Section 8(1)(e) of the RTI Act.
+
+Regarding information on the tendering process, including the names of participating firms, the rates quoted, and the criteria for vendor selection, CBSE argued that these pertained to the "confidential" and "sensitive" aspects of board examinations. The board claimed exemption from disclosure under Sections 8(1)(d), 8(1)(e), and 8(1)(g) of the RTI Act.
+
+CBSE further stated that examination fee-
+
+### APPELLANT RAISES TRANSPARENCY CONCERNS BEFORE CIC
+
+Dissatisfied with the response, the appellant approached the CIC, contending that information 
+
+Information Commissioner Sudha Rani Relangi noted that the central issue in the appeal was CBSE's refusal to disclose details regarding the tender process for procuring answer sheets and other stationery items, despite the appellant's argument that a larger public interest warranted such disclosure.
+
+### CIC FINDS DENIAL LACKED ADEQUATE JUSTIFICATION
+
+The Commission observed that the Central Public Information Officer (CPIO) had invoked multiple exemption provisions to withhold information without providing adequate reasons for doing so. It also pointed out that the CPIO neither attended the hearing nor submitted a written explanation defending the decision to deny the requested information.
+
+As a result, the CIC set aside the CPIO’s reply dated March 18, 2025, noting that the denial lacked proper justification.
+
+Emphasising the importance of transparency in public procurement, the Commission further remarked that both the Supreme Court and the CIC have repeatedly held that exemptions under the RTI Act must be interpreted narrowly to promote accountability and openness in procurement processes and public contracts undertaken by government bodies.
+
+"Now, considering the averments of the Appellant during the hearing regarding irregularity on such tenders, the Commission deems it fit to direct CPIO to revisit the contents of the RTI application in question and provide revised point-wise categorical replies along with relevant permissible information that can be provided as per the provisions of the RTI Act, 2005," the CIC said.
+
+The CIC further observed that the CPIO should have provided all information that could legally be disclosed and withheld only those portions specifically protected under the RTI Act. The Commission stated that any exempt information ought to have been severed from the records by applying the provisions of Section 10 of the RTI Act, rather than denying the information in its entirety.
+
+It noted that information exempt from disclosure should be suitably redacted or masked in accordance with Section 10 of the RTI Act, 2005.
+
+### WHAT SECTION 8(1)(d) OF THE RTI ACT SAYS
+
+The Commission further stated that if any of the requested information falls within the ambit of Section 8(1)(d) of the RTI Act, the CPIO must clearly justify the denial by meeting the burden of proof prescribed under Section 19(5) of the Act.
+
+According to the order, Section 8(1)(d) provides an exemption for information relating to commercial confidence, trade secrets, or intellectual property, where disclosure could adversely affect the competitive position of a third party. However, such information may still be disclosed if the competent authority determines that a larger public interest outweighs the need for confidentiality.
+
+(With inputs from PTI)
+
+\- Ends
+
+Karan Yadav
+
+Jun 15, 2026 10:40 IST
+
+---
+
+### Indian techie in Poland explains work-life balance gap with Europe’s office culture
+*India Today Trending Desk · general*
+
+## Pradeep Pankaj Singh compared his decade in India's IT sector with four years working in Poland in a video shared online. His account of shorter hours, overtime pay and fewer after-hours calls drew strong reactions about work culture.
+
+A video showing an Indian techie's work-culture comparison with Europe has gone viral. (Photo: Instagram)
+
+A video shared by an Indian IT professional, Pradeep Pankaj Singh, has reignited conversations around work culture differences between India and Europe, after he compared a decade spent in India’s tech industry with his four years in Poland.
+
+In the clip, Singh reflects on what he describes as a deeply ingrained culture of long working hours in Indian IT workplaces. He recalls that during his ten years in India, a standard office day rarely ended before 6–8 pm, even when employees arrived by 8 or 9 am.
+
+Leaving on time, he says, often carried a silent social penalty, with colleagues and managers subtly questioning those who exited earlier than the rest.
+
+He explains that even after completing a full shift, there was an unspoken expectation to stay longer, and employees were often observed for how late they remained in the office.
+
+“If someone left at six after a full day, it would immediately draw attention,” he notes in the video, adding that this behaviour felt routine across workplaces in the sector.
+
+Drawing a contrast with his current experience in Poland, Singh says the structure and expectations are markedly different. According to him, the workday is strictly limited to eight hours unless an employee voluntarily chooses to extend it.
+
+He adds that managers do not typically expect staff to remain beyond scheduled hours, and work-life boundaries are more clearly respected.
+
+**Watch the video here:**
+
+He also highlights that any additional hours worked are compensated at significantly higher rates, describing overtime pay as substantially higher than regular wages. Another key difference he points out is after-hours communication. While calls beyond office time were common in India, he says such contact is rare in Poland and not socially or professionally enforced.
+
+“If a manager does call outside working hours, it is entirely optional to respond,” he says, adding that employees are not penalised for not picking up. On the contrary, responsiveness outside office time is often appreciated rather than expected.
+
+The video, captioned as a comparison of “10 years in India vs 4 years in Poland,” has sparked widespread discussion online, with viewers divided over whether India’s evolving corporate culture is keeping pace with global work-life balance standards.
+
+\- Ends
+
+Srimoyee Chowdhury
+
+Jun 15, 2026 10:36 IST
+
+---
+
+### What's in the US-Iran peace deal? A look at the 14-point framework
+*India Today World Desk · general*
+
+## The US and Iran have agreed to a draft framework to halt hostilities, reopen the Strait of Hormuz and restart nuclear talks. The interim plan offers sanctions relief and a 60-day negotiating window while bigger disputes remain unresolved.
+
+The US and Iran could sign an interim peace deal on the sidelines of the G7 summit in France next week. (Photo: Reuters/Getty Images)
+
+The US and Iran have agreed to a draft framework aimed at ending the ongoing West Asia conflict, reopening the Strait of Hormuz and restarting negotiations over Tehran's nuclear programme.
+
+The proposed agreement — expected to be signed on June 19 — could ease concerns over oil supplies, reduce the risk of a wider Middle East conflict and remove one of the biggest sources of uncertainty in global markets.
+
+While the full text of the agreement has not been made public, news agency Reuters has reported several key provisions based on information from a senior Iranian official familiar with the draft memorandum.
+
+A more detailed 14-point breakdown has also been published by Iranian media, though not all of its provisions have been independently verified by international news agencies.
+
+### INSIDE THE US-IRAN PEACE DEAL
+
+At its core, the framework is designed to halt hostilities and create space for a broader settlement.
+
+The agreement centres on three broad areas: reopening the Strait of Hormuz, providing economic relief to Iran and restarting negotiations over Tehran's nuclear programme. It also establishes a 60-day window for negotiations on the issues that have long divided Washington and Tehran.
+
+Importantly, this is not a final peace treaty. It is an interim framework intended to de-escalate tensions immediately while negotiators work towards a more comprehensive agreement.
+
+### REOPENING HORMUZ AND RESTORING OIL FLOWS
+
+One of the most significant elements of the framework concerns the Strait of Hormuz, the narrow waterway connecting the Persian Gulf to the Arabian Sea.
+
+Around a fifth of global oil trade passes through Hormuz, making it one of the world's most important energy chokepoints. Any disruption can quickly drive up oil prices, shipping costs and inflation across major economies.
+
+Under the reported framework, Iran would reopen the strait to commercial shipping while the US would lift restrictions on Iranian ports. The move is expected to restore confidence in energy markets and reduce fears of supply disruptions that emerged during the conflict.
+
+For countries such as India, which depend heavily on imported crude, the reopening of Hormuz could help stabilise oil prices and lower the risk of further energy shocks.
+
+### FROZEN ASSETS AND SANCTIONS RELIEF
+
+Economic relief forms another major pillar of the proposed deal.
+
+According to the provisions reported so far, the US would refrain from imposing new sanctions while negotiations continue, provide temporary waivers for Iranian oil exports and release billions in frozen Iranian assets.
+
+For Tehran, these measures represent one of the biggest incentives to remain engaged in the process. Years of sanctions have restricted Iran's access to international financial systems and reduced its ability to fully benefit from energy exports.
+
+The release of frozen assets would provide immediate liquidity to the Iranian government while broader negotiations continue.
+
+### NUCLEAR TALKS RESTART
+
+The nuclear issue remains the most sensitive part of the US-Iran relationship and is likely to determine whether the framework evolves into a lasting agreement.
+
+Iran has long insisted that its nuclear programme is intended for civilian purposes. The US and its allies, however, have argued that high levels of uranium enrichment could significantly shorten the time needed to develop a nuclear weapon.
+
+Under the reported framework, Iran would commit not to pursue nuclear weapons, halt further uranium enrichment and stop expanding nuclear facilities during the negotiating period.
+
+In return, both sides would enter a 60-day process aimed at negotiating a broader agreement covering inspections, sanctions relief, enrichment limits and the future of Iran's uranium stockpile.
+
+### WHAT'S IN THE REPORTED 14-POINT FRAMEWORK?
+
+This is where things become less clear.
+
+Neither the US nor Iran has publicly released the full text of the draft memorandum. News agency Reuters has independently reported several key provisions, but it has not published a complete 14-point list.
+
+The more detailed breakdowns have come primarily from Iranian media outlets, which describe the agreement as a 14-point framework covering military, economic and nuclear issues.
+
+Based on those reports, the framework is said to include:
+
+An immediate halt to hostilities
+
+Reopening of the Strait of Hormuz to commercial traffic
+
+Lifting of US restrictions on Iranian ports
+
+No new US sanctions during negotiations
+
+Temporary waivers for Iranian oil exports
+
+Release of frozen Iranian assets
+
+A 60-day negotiating period
+
+An Iranian commitment not to pursue nuclear weapons
+
+A halt to further uranium enrichment.A freeze on the expansion of nuclear facilities
+
+Negotiations on Iran's enriched uranium stockpile
+
+Regional de-escalation measures
+
+Economic and reconstruction-
+
+Negotiation of a final comprehensive agreement
+
+Some versions of the reported framework also refer to wider economic cooperation, reconstruction assistance and regional security arrangements.
+
+### WHY THE 14-POINT FRAMEWORK MATTERS
+
+The significance of the framework lies not only in what it contains but also in what it seeks to prevent.
+
+The conflict raised fears of a wider regional war, disruptions to global energy supplies and a prolonged period of uncertainty for financial markets.
+
+The framework attempts to address all three risks simultaneously by restoring shipping, offering economic incentives and creating a diplomatic pathway for resolving the nuclear dispute.
+
+Even if a final settlement remains some distance away, the framework marks the first structured attempt by both sides to move from confrontation to negotiation.
+
+### WHAT HAPPENS NEXT?
+
+The proposed agreement may help end the immediate crisis, but the hardest negotiations still lie ahead.
+
+Long-term sanctions relief, inspection mechanisms, enrichment limits and the future of Iran's nuclear programme remain unresolved. Those issues are expected to be negotiated during the proposed 60-day period.
+
+For now, the success of the framework will be judged on three things: whether hostilities actually cease, whether commercial traffic returns to the Strait of Hormuz and whether the next round of nuclear negotiations produces a more durable agreement.
+
+If those conditions are met, the reported 14-point framework could become the foundation of the most significant US-Iran diplomatic breakthrough in years.
+
+\- Ends
+
+Karishma Saurabh Kalita
+
+Jun 15, 2026 10:34 IST
+
+---
+
+### Lawyer says he used AI to beat Mark Zuckerberg in court case
+*Armaan Agarwal · general*
+
+## Mark Lanier, an American lawyer who won a landmark social media addiction trial against Mark Zuckerberg-led Meta as well as Google earlier this year, has revealed that his team used a custom AI tool to prepare for the case, which cost him hundreds of thousands of dollars every year.
+
+The lawyer who defeated Meta and Google in court says that he used AI tools. (Photo: Reuters)
+
+In March this year, tech giants Meta and Google lost a case in a US court. The two companies were ordered to pay $6 million in a landmark social media addiction case where the jury concluded that Meta and Google knew their platforms were "dangerous" but failed to warn the plaintiff The lawyer in this case, Mark Lanier, has now revealed that he used AI to review material before he went into court, including on the day he cross-examined Meta chief executive Mark Zuckerberg after sleeping for around four hours.
+
+Mark Lanier represented a 20-year-old plaintiff identified by her initials, “KGM.” She claimed that she was harmed as a child by addictive features on platforms including Instagram, TikTok and YouTube. TikTok and Snap settled before the trial.
+
+Lanier revealed that he and his team were able to get a lot more done thanks to AI. He told Business Insider, "In the 10 hours I might be working outside of court, I can get 30 hours of work done." He described AI in law as a "total game changer.”
+
+Mark Lanier revealed that the main tool he relied on before and during the trial was Boodlebox, calling it “Disney World compared to a swing set in the backyard.” The platform gives access to multiple models including ChatGPT, Claude and Gemini. Users can also work collaboratively with the tools together.
+
+### Custom AI tool costs thousands of dollars, says lawyer
+
+However, Mark pointed out that his team was not using a stock Boodlebox tool. Rather, he had worked with Boodlebox on a custom licence costing six figures – hundreds of thousands of dollars – a year, and tailored to his needs.
+
+"We could, in essence, take my brain, take 42 years of my experience, take the things that I have learnt and studied and published and not published and incorporate it into the brain that drove my AI queries and results," he said.
+
+### 10 additional workers who don’t need restroom breaks, says lawyers
+
+At a time when there is intense debate over lawyers using AI in court, with many judges slamming the use of such tools over fake citations in documents, Mark Lanier says that AI in a way expanded his team. He explained, “It's as if I have 10 additional workers who are incredibly well-trained, who know the file inside and out, who work 24 hours a day and don't even need to take a break for the restroom, much less PTO.”
+
+Lanier said he does not use AI in a way that hands over core legal work unchecked. "I'm not going to say, 'Go do my research and write my brief'," he said. He added that there was one point in the case when AI cited something from the record and he knew it was not correct. "It's not unbridled," he said. "You are an important part of the equation."
+
+The verdict he secured was closely watched because it was a bellwether for thousands of similar lawsuits against social media companies. The plaintiff was awarded $6 million, which included $3 million in compensatory damages, with Meta ordered to pay 70 per cent of that amount and Google-owned YouTube the rest, as well as a further $3 million in punitive damages.
+
+During the trial, the plaintiff said she created YouTube and Instagram accounts when she was eight and nine years old respectively, and that she soon began spending most of her time on Instagram. Her lawyer argued that design choices such as "infinite scroll" were intended to keep users hooked.
+
+At the time, Meta said it disagreed with the verdict and was evaluating its legal options, while Google said the case misunderstood YouTube and that it planned to appeal.
+
+\- Ends
+
+Armaan Agarwal
+
+Jun 15, 2026 10:31 IST
+
+---
+
+### Parag Parikh vs HDFC Flexi Cap Fund: Returns, risk, expenses, and portfolio holdings compared | Mint
+*Sheetal Goel · economy*
+
+Parag Parikh Flexi Cap Fund and HDFC Flexi Cap Fund are two of the largest and most popular flexi cap mutual funds in India. Parag Parikh Flexi Cap Fund currently leads the category with an AUM of ₹1,41,447 crores, while HDFC Flexi Cap Fund follows closely with assets worth ₹1,01,822 crores.
+
+While Parag Parikh's NAV stands at ₹89.29 and HDFC's at ₹2,155.38, a higher per unit cost (NAV) does not necessarily mean a fund is better or more expensive to invest in. What matters more is how efficiently the fund has generated returns relative to the risk taken.
+
+So, when it comes to performance, risk-adjusted returns, and long-term wealth creation, which of these two flexi cap giants comes out on top? Let's find out.
+
+## Parag Parikh vs HDFC Flexi Cap Fund: Past returns
+
+**Period**
+
+**Parag Parikh Flexi Cap Fund**
+
+**Final Amount ( ₹1 lakh invested)**
+
+**HDFC Flexi Cap Fund**
+
+**Final Amount ( ₹1 lakh invested)**
+
+1-Yr Return
+
+\-1.94%
+
+₹98,060
+
+0.86%
+
+₹1,00,860
+
+3-Yr Return
+
+15.45%
+
+₹1,53,880
+
+17.82%
+
+₹1,63,552
+
+5-Yr Return
+
+14.95%
+
+₹2,00,699
+
+17.55%
+
+₹2,24,043
+
+10-Yr Return
+
+17.61%
+
+₹5,06,340
+
+16.64%
+
+₹4,66,096
+
+\*Data as on June 12, 2026, Direct Plans, Source: Value Research
+
+If you had invested ₹1,00,000 in Parag Parikh Flexi Cap Fund one year ago, your final value would have fallen to ₹98,060. In comparison, HDFC Flexi Cap Fund's investment would have grown to ₹1,00,860.
+
+Over the 3-year period, a ₹1,00,000 invested in Parag Parikh Flexi Cap Fund would have grown to ₹1,53,880, while the same investment in HDFC Flexi Cap Fund would be worth ₹1,63,552.
+
+Over the 10-year period, Parag Parikh Flexi Cap Fund would have created a larger corpus of ₹5,06,340, compared with ₹4,66,096 for HDFC Flexi Cap Fund.
+
+While HDFC Flexi Cap Fund outperformed across the 1-year, 3-year, and 5-year periods, Parag Parikh Flexi Cap Fund has delivered better long-term wealth over the 10-year horizon.
+
+## Parag Parikh vs HDFC Flexi Cap Fund: Risk ratios
+
+**Risk & Return Metric**
+
+**Parag Parikh Flexi Cap Fund**
+
+**HDFC Flexi Cap Fund**
+
+Alpha (%)
+
+4.38
+
+5.28
+
+Beta (%)
+
+0.60
+
+0.82
+
+Standard Deviation (%)
+
+9.91
+
+13.11
+
+Sharpe Ratio (%)
+
+0.93
+
+0.90
+
+Sortino Ratio (%)
+
+1.26
+
+1.10
+
+\*Data as on May 31, 2026, Direct Plans, Source: Value Research
+
+Looking at the risk-return metrics, HDFC Flexi Cap Fund has a higher alpha of 5.28 compared to 4.38 for Parag Parikh Flexi Cap Fund, indicating slightly better excess returns over its benchmark.
+
+However, Parag Parikh Flexi Cap Fund has a lower beta of 0.60 and a lower standard deviation of 9.91, suggesting that it has experienced less volatility and is less sensitive to market movements than HDFC Flexi Cap Fund.
+
+Parag Parikh also performed marginally better on risk-adjusted return measures, with a sharpe ratio of 0.93 and a sortino ratio of 1.26. A higher sharpe ratio indicates that the Parag Parikh fund has generated better returns for each unit of total risk taken, while a higher sortino ratio means that the fund has delivered better returns relative to downside risk or harmful volatility.
+
+Overall, HDFC Flexi Cap Fund has delivered higher excess returns, but Parag Parikh Flexi Cap Fund has generated those returns with lower risk and volatility.
+
+## Parag Parikh vs HDFC Flexi Cap Fund: Expense ratio and minimum investment
+
+**Basis**
+
+**Parag Parikh Flexi Cap Fund**
+
+**HDFC Flexi Cap Fund**
+
+Base Expense ratio
+
+0.53%
+
+0.58%
+
+Minimum Investment
+
+₹1,000
+
+₹100
+
+Minimum SIP Investment
+
+₹1,000
+
+₹100
+
+Exit Load
+
+2% exit load on redemptions exceeding 10% of the investment within 365 days.
+
+1% exit load on redemptions exceeding 10% of the investment between 366 and 730 days.
+
+1% for redemption within 365 days
+
+\*Direct Plans, Source: Value Research
+
+When it comes to costs and investment requirements, Parag Parikh Flexi Cap Fund has a slightly lower expense ratio of 0.53% compared to 0.58% for HDFC Flexi Cap Fund, which can help investors retain a larger share of their returns over time.
+
+However, HDFC Flexi Cap Fund is more accessible for new investors, requiring a minimum investment and SIP amount of just ₹100, whereas Parag Parikh Flexi Cap Fund requires ₹1,000 for both.
+
+In terms of exit load, HDFC charges 1% if units are redeemed within one year, while Parag Parikh has a relatively stricter structure, charging 2% on units exceeding 10% of the investment if redeemed within one year and 1% if redeemed between one and two years.
+
+Parag Parikh Flexi Cap Fund is better in terms of costs, while HDFC Flexi Cap Fund offers a lower entry barrier and has a simpler exit load structure.
+
+## Parag Parikh vs HDFC Flexi Cap Fund: Portfolio holdings
+
+**Basis**
+
+**Parag Parikh Flexi Cap Fund**
+
+**HDFC Flexi Cap Fund**
+
+Portfolio Allocation
+
+Equity: 81.13%
+
+Debt: 9.87%
+
+Real Estate: 4.10%
+
+Cash & Cash Equivalents: 4.90%
+
+Equity: 92.72%
+
+Debt: 0.50%
+
+Real Estate: 2.23%
+
+Cash & Cash Equivalents: 4.61%
+
+Market-Cap Exposure
+
+Large Cap: 93.11%
+
+Mid Cap: 2.17%
+
+Small Cap: 4.72%
+
+Large Cap: 81.29%
+
+Mid Cap: 10.32%
+
+Small Cap: 8.38%
+
+Top Sector Exposure
+
+Financials: 25.57%
+
+Technology: 21.52%
+
+Consumer Discretionary: 8.88%
+
+Financials: 36.04%
+
+Consumer Discretionary: 14.51%
+
+Technology: 11.65%
+
+Top 5 Holdings
+
+HDFC Bank, Power Grid, ITC, Coal India, ICICI Bank
+
+ICICI Bank, Axis Bank, HDFC Bank, SBI, SBI Life Insurance
+
+\*Data as on May 31, 2026; Direct Plans, Source: Value Research
+
+The portfolio composition of the two funds reflects very different investment approaches of the fund managers.
+
+Parag Parikh Flexi Cap Fund maintains a more diversified allocation with 81.13% in equities, 9.87% in debt, and 4.10% in real estate, while HDFC Flexi Cap Fund is more aggressively positioned with 92.72% of assets invested in equities and only 0.50% to to debt.
+
+In terms of market cap allocation, Parag Parikh has a strong large-cap bias, whereas HDFC allocates a larger share to mid-cap and small-cap stocks, which can enhance growth potential but may also increase volatility.
+
+Both funds have significant exposure to the financial sector, although HDFC's concentration is higher at 36.04% compared to 25.57% for Parag Parikh.
+
+The funds also differ in their key stock holdings. Parag Parikh Flexi Cap Fund's top three holdings are HDFC Bank, Power Grid, and ITC, whereas HDFC Flexi Cap Fund is more concentrated in the banking sector, with ICICI Bank, Axis Bank, and HDFC Bank among its largest holdings.
+
+Overall, Parag Parikh Flexi Cap Fund appears more diversified and defensive, while HDFC Flexi Cap Fund takes a more equity-heavy and growth-oriented approach that may offer higher upside along with higher risk.
+
+_Disclaimer: This is purely for educational/ informational purposes and should not be taken as any sort of investment advice. Always consult a SEBI-registered advisor before making any investment decisions._
+
+---
+
+### New home of TMC rebels, Nationalist Citizens Party once called to 'reject turncoats'
+*India Today News Desk · general*
+
+## Twenty rebel Trinamool Congress MPs have merged with the Nationalist Citizens Party of India and sought separate recognition in Parliament. The move has pushed a fringe Tripura outfit into the national spotlight amid the party's widening internal rebellion.
+
+The NCPI was formed in 2023 and has had a presence primarily in Tripura and West Bengal. However, its electoral footprint has been extremely limited.
+
+A little-known political outfit that struggled to make an impact in the 2023 Tripura Assembly elections has suddenly found itself at the centre of national politics after 20 rebel Trinamool Congress MPs announced their merger with it and sought recognition as a separate group in Parliament.
+
+The Nationalist Citizens Party of India (NCPI), registered in 2023 ahead of the Tripura Assembly elections, was virtually unknown outside a handful of constituencies in Tripura and parts of West Bengal until Sunday's dramatic political developments thrust it into the spotlight.
+
+The move came amid an escalating rebellion within the Trinamool Congress, with dissident MPs meeting Lok Sabha Speaker Om Birla and seeking separate seating arrangements in the House.
+
+"We have merged with the NCPI. We will decide our strategy over time," rebel TMC MP Satabdi Roy told reporters after meeting the Speaker.
+
+Asked about the party symbol, Roy said, "We did not claim it. The Speaker will decide what to do."
+
+### FROM TRIPURA FRINGE OUTFIT TO NATIONAL SPOTLIGHT
+
+The NCPI was formed in 2023 and has had a presence primarily in Tripura and West Bengal. However, its electoral footprint has been extremely limited.
+
+According to party functionaries, Shantanu Saha oversees the party's activities in Tripura, while Tarun Kumar Roy is associated with its operations from Kolkata.
+
+So far, the party has contested only the 2023 Tripura Assembly elections.
+
+Election records show that the NCPI fielded candidates in four constituencies - Chawamanu, Ambassa, Karamchara and Kailashahar.
+
+Its campaign slogan was strikingly anti-defection in tone: "To save your rights, reject political turncoats. Support social workers, not political personalities."
+
+The party contested on the pen nib symbol, allotted to it as a registered unrecognised political party.
+
+### HOW DID NCPI FARE IN THE POLLS?
+
+The results offered little indication that the party would one day become the vehicle for a major parliamentary realignment.
+
+In Chawamanu, NCPI candidate Barjeda Tripura secured 536 votes and finished fifth, only marginally ahead of the NOTA tally of 500 votes.
+
+The constituency was won by BJP candidate Sambhu Lal Chakma, who defeated TIPRA Motha's Hangsa Kumar Tripura by 2,899 votes.
+
+The party's other candidates also failed to make a mark.
+
+While TIPRA Motha won Karamchara and Ambassa, the Congress emerged victorious in Kailashahar.
+
+Another NCPI candidate, Jahangir Ali, contested from Kailashahar in Unakoti district during the election.
+
+### CANDIDATE LEFT STUNNED
+
+Perhaps the most surprising reaction came from Barjeda Tripura himself, one of the party's former candidates.
+
+Speaking to PTI after learning about the merger, the 62-year-old daily wage labourer expressed disbelief.
+
+"I contested the polls in 2023. What has happened now, three years later?" he asked after being informed that a group of Lok Sabha MPs had joined the party under whose banner he had contested.
+
+Barjeda said he entered the electoral fray after being approached by a person named Krishna Debbarma.
+
+"In 2023, a person called Krishna Debbarma reached out to me about the election. So I contested. Many years ago, I was a supporter of the Congress," he said.
+
+His election affidavit from 2023 listed assets worth Rs 4 lakh and described him as a social worker educated up to Class 8.
+
+### WHY NCPI MATTERS NOW
+
+The party's sudden rise to prominence is directly linked to the rebellion within the Trinamool Congress.
+
+After meeting Lok Sabha Speaker Om Birla, rebel MP Kakoli Ghosh Dastidar said two-thirds of the TMC's Lok Sabha members had submitted a letter seeking recognition as a separate group.
+
+"Two-thirds of the TMC MPs have given a letter to the speaker for a separate seating arrangement. We will merge with the Nationalist Citizens Party of India and support the NDA," she said.
+
+Senior TMC leader Sudip Bandyopadhyay also confirmed that the dissident camp had merged with the NCPI, describing it as a regional party.
+
+The development has transformed the NCPI overnight from a little-known registered unrecognised political party into a key player in one of the biggest political upheavals facing the Trinamool Congress.
+
+### WHAT IS A REGISTERED UNRECOGNISED PARTY?
+
+Registered unrecognised political parties are organisations registered with the Election Commission but which have not yet met the criteria required to be recognised as either a state party or a national party.
+
+While such parties often remain on the fringes of electoral politics, the NCPI's sudden acquisition of 20 Lok Sabha MPs has propelled it into the national conversation, giving it a visibility that far exceeds its electoral record so far.
+
+\- Ends
+
+With inputs from Indrajit Kundu and Tanmay Singh.
+
+Sonali Verma
+
+Jun 15, 2026 10:27 IST
+
+---
+
+### Mutual fund investing: 5 key ratios to check before choosing a fund | Mint
+*Kirti Jha · economy*
+
+A mutual fund's return is often the first number investors look at. However, two funds can deliver similar returns over three or five years, yet one may have taken significantly more risk, experienced sharper swings or relied heavily on market momentum to get there.
+
+This is why mutual fund factsheets include a range of risk and performance metrics such as standard deviation, beta, alpha, Sharpe ratio and Sortino ratio. These numbers help investors understand not just how much a fund earned, but how it earned those returns.
+
+While they cannot predict future performance, they can offer valuable insights into how a fund has behaved in the past and how it compares with its peers. Here's what these commonly used ratios mean and how investors can use them to make better fund comparisons.
+
+## **1\. Standard deviation**
+
+Imagine two mutual funds that delivered 15% annualised returns over the last three years. At first glance, they look equally good. But there is one important difference.
+
+The first fund moved steadily higher over the period. The second saw sharp ups and downs, falling significantly during some months before recovering later. While both delivered the same return, the experience for investors was very different.
+
+This is what standard deviation measures. It tells investors how much a fund's returns have fluctuated around their average return over time.
+
+A higher standard deviation means the fund's returns have been more volatile, while a lower figure suggests a smoother journey. The number is calculated by measuring how far individual returns deviate from the average return over a period.
+
+For investors, standard deviation is often the first indicator of risk. When comparing funds with similar returns, the one with the lower standard deviation has generally delivered those returns with less volatility.
+
+## **2\. Beta**
+
+Beta measures how sensitive a fund is to movements in its benchmark index. It helps investors understand whether a fund tends to rise and fall more than the market or less.
+
+A beta of 1 means the fund broadly moves in line with its benchmark. If the market rises 10%, the fund is also expected to rise by around 10%.
+
+A beta above 1 indicates higher sensitivity. For example, a beta of 1.2 suggests the fund may rise about 12% when the market gains 10%, but it could also fall around 12% when the market declines by the same amount.
+
+A beta below 1 indicates that the fund is relatively less volatile than the market.
+
+The metric is calculated by comparing the movement of a fund's returns with those of its benchmark over time. For investors, beta is a useful way to gauge how aggressive or defensive a fund is likely to be during market swings.
+
+## **3\. Alpha**
+
+A fund may have delivered impressive returns, but that does not automatically mean the fund manager made great investment decisions.
+
+Sometimes markets are so strong that simply staying invested is enough to generate good returns. Alpha tries to separate the impact of the market from the contribution of the fund manager.
+
+In simple terms, alpha measures how much a fund outperformed or underperformed after accounting for the level of risk it took.
+
+Suppose two funds have similar exposure to the market and take comparable levels of risk. If one fund delivers higher returns, it is likely to have a higher alpha.
+
+A positive alpha suggests the fund delivered more than its risk profile would have predicted. A negative alpha indicates that the fund failed to adequately reward investors for the risk it took.
+
+For investors, alpha is often viewed as a measure of a fund manager's ability to create value beyond simply riding a rising market.
+
+## **4\. Sharpe ratio**
+
+Imagine two funds delivered identical returns of 15%. If one achieved that return with significantly lower volatility, most investors would consider it the superior fund. The Sharpe ratio helps identify such cases.
+
+The ratio measures how much excess return a fund has generated for each unit of risk taken. Rather than focusing solely on returns, it evaluates how efficiently those returns were produced.
+
+The ratio is calculated by dividing the fund's excess return over the risk-free rate by its standard deviation. A higher Sharpe ratio generally indicates that investors were rewarded more generously for the volatility they endured.
+
+This makes the metric particularly useful when comparing funds within the same category that have similar return profiles.
+
+## **5\. Sortino ratio**
+
+Not all volatility is undesirable. Most investors do not mind upside surprises. What concerns them is the risk of losses.
+
+The Sortino ratio addresses this by considering only downside volatility rather than total volatility. It tells investors how much return a fund generates for every unit of downside risk taken.
+
+As a result, it provides a clearer picture of how effectively a fund has generated returns relative to the risk of negative outcomes. A higher Sortino ratio suggests that a fund has been more effective at rewarding investors without exposing them to excessive downside risk.
+
+## The takeaway?
+
+No single ratio can determine whether a mutual fund is good or bad. Standard deviation helps measure volatility, beta shows market sensitivity, alpha evaluates manager skill, while Sharpe and Sortino ratios assess risk-adjusted returns.
+
+Used together, these metrics can help investors look beyond headline returns and make more informed comparisons between funds in the same category.
+
+---
+
+### Farmers, Who Gave Up Land, Take First Flight As Noida Airport Begins Commercial Operations | Watch
+*Shobhit Gupta · general*
+
+Commercial flight services officially commenced at Noida International Airport with an IndiGo flight arriving from Lucknow at around 7.55 am.
+
+[Read full article](https://www.news18.com/india/farmers-who-gave-up-land-take-first-flight-as-noida-airport-begins-commercial-operations-watch-ws-l-10149863.html)
+
+---
+
+### US-Iran peace deal may help boost India's exports, stabilise rupee
+*Pti · business*
+
+New Delhi: The announcement that the US and Iran have finalised a deal to end their 107-day conflict and reopen the Strait of Hormuz is expected to boost India's exports to West Asia, which was severely impacted by the hostilities, spur manufacturing activity and help stabilise the rupee, according to exporters and experts.
+
+They said the announcement, if implemented successfully, would reduce pressure on India's import bill, ease inflationary covers and create a more conducive environment for trade.
+
+The peace agreement would be signed on June 19 in Switzerland.
+
+  
+
+The US and Iran have reached a peace deal to end a four-month war that disrupted global energy supplies, pushed oil prices above USD 100 per barrel, and brought the Middle East to the brink of a wider regional conflict.
+
+For India, which relies heavily on West Asia for crude oil, LPG and LNG supplies, the deal promises relief from high energy prices, pressure on the rupee, and inflation risks that intensified during the conflict, economic think tank GTRI said.
+
+"For India, the agreement brings immediate economic relief as the conflict has exposed India's dependence on West Asia, from where it sources roughly 50 per cent of its crude oil imports, around 70 per cent of its LPG supplies and nearly 90 per cent of its LNG imports," GTRI Founder Ajay Srivastava said.
+
+The disruption of shipping through the Gulf raised India's energy import bill, increased inflation risks, weakened the rupee and forced refiners to seek alternative supplies from distant markets.
+
+Reopening the Strait of Hormuz is expected to stabilise energy markets, ease pressure on oil and gas prices, strengthen the rupee and improve India's growth outlook, he said.
+
+Mumbai-based exporter and Founder Chairman, Technocraft Industries India, Sharad Kumar Saraf said the announcement paves way for the end of uncertainties, economic slow down and unwarranted hardships.
+
+"The end of war and hostilities will not only help in quantum jump in India's exports but will throw open a host of new business opportunities. Next 2-3 years will accelerate India's efforts for a Viksit Bharat," he said.
+
+Federation of Indian Export Organisations (FIEO) President S C Ralhan said any easing of geopolitical tensions in the region should help restore normalcy in global energy supplies and moderate prices.
+
+"For India, this would reduce pressure on the import bill, normalise exports, support rupee stability, ease inflationary concerns, and create a more conducive environment for trade and economic growth," he said.
+
+Experts also said opening the Strait of Hormuz would help smoothen the movement of ships in international waters. The closure has led to an increase in insurance and freight rates. Ships are carrying goods from the Cape of Good Hope, encircling Africa, which has increased the delivery time of consignments.
+
+**INDIA-WEST ASIA TRADE**
+
+The war (started has severely affected India's exports and imports with that region. All six members (UAE, Oman, Qatar, Saudi Arabia, Bahrain, and Kuwait) of the region are key trading partners of India.
+
+The conflict began on February 28 when the US and Israel jointly launched military operations against Iran over its nuclear programme.
+
+Due to this, India's exports posted the steepest fall in five months, declining 7.44 per cent in March to USD 38.92 billion.
+
+India's exports to the Middle East or West Asia region fell 57.95 per cent to USD 3.5 billion in March, while imports from the Gulf nations fell 51.64 per cent. Normally India exports goods worth about USD 6 billion to this region.
+
+India's exports to the GCC (Gulf Cooperation Council) grew about 1 per cent to about USD 57 billion in 2024-25 against USD 56.32 billion in 2023-24. Imports rose 15.33 per cent to USD 121.7 billion in 2024-25 from USD 105.5 billion in 2023-24.
+
+The UAE was India's third-largest trading partner in 2025-26. India's exports to the nation rose about 2 per cent to USD 37.4 billion in 2025-26, while imports were up 0.78 per cent USD 63.9 billion in the last fiscal year, resulting in a trade deficit of USD 26.53 billion in 2025-26.
+
+Saudi Arabia was India's fifth-largest trading partner during the last fiscal year. Exports to the kingdom dipped 12.55 per cent to USD 110.28 billion in 2025-26, while imports were up 2.22 per cent to USD 30.8 billion, leading to a trade deficit of USD 20.5 billion in 2025-26.
+
+Exports to Qatar dip 3.7 per cent to USD 1.62 billion last fiscal year, while imports declined 1.37 per cent to USD 12.3 billion, resulting in a trade deficit of USD 10.7 billion in 2025-26.
+
+Shipments to Oman dipped 1 per cent to USD 4.02 billion in 2025-26, while imports were up 9.43 per cent to USD 7.16 billion. The trade deficit was 3.14 billion.
+
+Exports to Kuwait dipped 14.63 per cent to USD 1.65 billion, while imports were down 4.4 per cent to USD 7.91 billion, leading to a trade deficit of USD 6.26 billion.
+
+Similarly, India's outbound shipments to Bahrain were down 2.32 per cent in the last fiscal year to USD 779 million in the last fiscal year. Imports were up 5.25 per cent to USD 887.76 million, leaving a trade deficit of USD 108.78 million.
+
+India's key exports to GCC countries include engineering goods, refined petroleum products, food and agricultural products, cereals, rice, meat, marine products, gems and jewellery, chemicals, pharmaceuticals, textiles, and machinery.
+
+The country's major imports include comprise crude oil, liquefied natural gas (LNG), liquefied petroleum gas (LPG), petrochemicals, fertilisers, plastics, aluminium and other mineral fuels.
+
+---
+
+### Book profits or stay invested at market highs? Historical data may settle the debate | Mint
+*Sheetal Goel · economy*
+
+Indian equity benchmark indices opened sharply higher on Monday, with the Nifty 50 jumping 1.53% to 23,984.85 from Friday’s close of 23,622.90. The Sensex also surged 1.59%, opening at 76,725.27 against its previous close of 75,527.95. The rally was driven by optimism over the upcoming US-Iran peace deal and easing crude oil prices, which pushed WTI crude down to around $80 a barrel.
+
+At market highs, one of the most common dilemmas faced by investors is whether they should book profits after the stock market delivered strong gains or simply remain invested for the long term. While profit booking may seem like a thoughtful strategy, historical data suggests that patience often pays off.
+
+A FundsIndia’s Wealth Conversations analysis of 17 rolling 10-year periods between 2000-2009 and 2016-2025 shows that a buy-and-hold strategy generally outperformed various profit booking approaches.
+
+The study found that investors who adopted a simple buy-and-hold strategy in the Nifty 50 TRI generally outperformed investors who systematically booked profits and shifted those gains to a money market fund.
+
+The analysis compared a buy-and-hold investor with four profit-booking approaches:
+
+-   Booking profits whenever absolute gains reached 20%
+-   Booking profits whenever absolute gains reached 30%
+-   Booking profits whenever absolute gains reached 50%
+-   Booking profits whenever the Nifty touched an all-time high
+
+In each case, the booked profits were assumed to be transferred to the HDFC Money Market Fund, while the remaining capital continued to stay invested in equities.
+
+## Buy-and-hold outperformed in most periods
+
+The data reveals that investors who stayed invested in Nifty 50 TRI for the entire 10-year period earned annualised returns ranging from 6.7% to 20.1%.
+
+For example, during the 2001–2010 period, the buy-and-hold approach delivered an annualized return of 19.1%. This simple strategy outperformed the profit booking at 20% gains strategy by 5.1 percentage points annually. Also, it beat the 30% profit-booking strategy by 5 percentage points and the 50% profit-booking approach by 4.5 percentage points annually.
+
+Similarly, investors who remained invested during 2003-2012 made annualised returns of 20.1%, with buy-and-hold outperforming the 20%, 30%, and 50% profit-booking strategies by 4.2, 3.9, and 3.3 percentage points, respectively.
+
+View full Image
+
+Source: FundsIndia’s Wealth Conversations (June 2026); 'Buy & Hold' Investor invests into equities and holds the same for the entire period; 'Profit Booking @ X% Gains' indicates portfolios of investors who deploy the profits made in equity into debt whenever the absolute gains reach 20%, 30% and 50% levels; 'Profit Booking @ All-time Highs' indicates the portfolio of an investor who deploys the profits made in equity into debt whenever the Nifty index touches an all-time high; Nifty 50 TRI is considered as the equity option and HDFC Money Market Fund is considered as the debt option.
+
+## The myth of selling at market highs
+
+Many investors believe that selling at all-time highs is a smart way to earn the highest returns. However, the analysis indicates that this approach also resulted in lower returns than staying invested.
+
+The underperformance was particularly visible during several periods. Between 2001 and 2010, buy-and-hold outperformed the all-time high profit-booking strategy by 5.4 percentage points annually.
+
+Similarly, outperformance was seen during 2003-2012 (4.2 percentage points) and 2016-2025 (2.9 percentage points).
+
+This highlights an important reality of equity investing. Selling simply because markets have reached a new peak may result in missing the next phase of wealth creation.
+
+## Timing market highs proved difficult
+
+This was visible across multiple time periods over the past 25 years (2001–2010, 2003–2012, 2012–2021, and 2016–2025). Buy-and-hold generated annualised excess returns ranging from 2.9 to 5.4 percentage points over the all-time high profit-booking strategy in different periods.
+
+This shows the challenge of accurately timing exits and re-entries. Investors who exited after markets reached new highs often missed subsequent rallies that contributed significantly to long-term wealth creation.
+
+## Why profit booking often underperforms
+
+The findings highlight a fundamental characteristic of equity investing. Strong returns often come from staying invested during both bear and bull markets.
+
+When investors book profits and move money into debt instruments, they reduce their exposure to future equity gains. While debt investments offer stability, they typically generate lower returns than equities over long periods.
+
+The data suggests that this trade-off often worked against long-term wealth creation. In most rolling periods, the reduction in equity exposure outweighed the benefits of moving profits to a safer asset.
+
+## There were a few exceptions
+
+But the advantage of staying invested was not universal. During the 2006-2015 and 2007-2016 periods, buy-and-hold marginally underperformed some profit-booking strategies. However, the difference was relatively small, ranging between 0.2 and 1.7 percentage points annually.
+
+These exceptions suggest that profit booking can occasionally work in specific market environments, particularly when there are long periods of continued volatility.
+
+## The compounding effect matters
+
+Compounding works best when investments in equity remain untouched. While investors may still choose to rebalance portfolios or book profits to meet financial goals, the data indicate that systematically exiting after predefined gains often results in lower long-term returns compared with remaining invested.
+
+The analysis of 25 years of rolling market data suggests that remaining fully invested in equities generally produced better long-term returns than systematically transferring gains to debt after reaching predefined profit targets or market highs.
+
+_Disclaimer: This is purely for educational/ informational purposes and should not be taken as any sort of investment advice. Always consult a SEBI-registered advisor before making any investment decisions._
+
+### About the Author
+
+Sheetal Goel
+
+Sheetal Goel is a Content Producer at Livemint, where she covers corporate developments, personal finance, business trends, markets, and SEBI-
+
+---
+
+### E20 vs E85: Which is actually cheaper per kilometre?
+*Saumya Shubham Jha · general*
+
+## E85 may be nearly Rs 20 per litre cheaper than petrol, but does that actually make it cheaper to run? The answer depends on one crucial factor: fuel efficiency.
+
+E85 is priced at Rs 82.12, costing Rs 20 less than E20.
+
+The launch of India's first E85 fuel station has ignited the debate around ethanol-based fuels. At first glance, E85 looks like a bargain. In Delhi, E85 is currently priced at Rs 82.12 per litre, almost Rs 20 cheaper than regular E20 petrol, which retails at around Rs 102 per litre.
+
+But does that lower pump price actually translate into lower running costs? The answer is more complicated than it appears.
+
+### Understanding the fuel difference
+
+E20 contains 20 per cent ethanol and 80 per cent petrol, making it the mainstream fuel grade in India today. E85, meanwhile, contains up to 85 per cent ethanol and can only be used in flex-fuel vehicles (FFVs) designed to run on high ethanol blends.
+
+The biggest challenge for E85 is energy density. Ethanol contains around 30 per cent less energy per litre than petrol. As a result, vehicles running on high ethanol blends consume more fuel to travel the same distance.
+
+This is a point even highlighted in KPMG's latest report, which notes that lower fuel efficiency remains one of the key hurdles for consumer acceptance of higher ethanol blends.
+
+### The numbers game
+
+With E85, the efficiency drop is generally about 20-30% depending on the model. Let's assume a petrol car delivers 18kmpl on E20.
+
+Because of ethanol's lower energy density, the same vehicle could see fuel economy fall to around 13-14kmpl on E85.
+
+### Running cost comparison
+
+E20
+
+-   Fuel price: Rs 102 per litre
+-   Fuel efficiency: 18kmpl
+-   Cost per kilometre: Rs 5.67
+
+E85
+
+-   Fuel price: Rs 82.12 per litre
+-   Fuel efficiency: 13.5 kmpl
+-   Cost per kilometre: Rs 6.08
+
+In this example, despite being almost Rs 20 cheaper per litre, E85 actually ends up being slightly more expensive per kilometre.
+
+### So why does Brazil love E85?
+
+Brazil, the world's largest flex-fuel market, follows a simple rule of thumb. Ethanol becomes financially attractive only when it costs less than 70 per cent of petrol's price.
+
+In Delhi, E85 is priced at about 80 per cent of E20 petrol's price.
+
+-   E85: Rs 82.12/litre
+-   E20: Rs 102/litre
+-   Price ratio: 80 per cent
+
+That means E85 currently falls short of the threshold where it starts making clear economic sense for most motorists.
+
+For E85 to become truly competitive, its price may need to fall closer to Rs 70-72 per litre, assuming current petrol prices remain unchanged.
+
+### The equation could change
+
+The economics of E85 are not fixed.
+
+If global crude oil prices rise sharply, petrol prices could increase much faster than ethanol prices because ethanol is domestically produced. In such a scenario, the price gap between E20 and E85 could widen significantly, making E85 more attractive.
+
+This is precisely why the KPMG report describes ethanol as a potential "crude shock buffer" that could protect India from global oil price volatility.
+
+### More than just economics
+
+There are other benefits that support higher ethanol blends:
+
+-   Lower dependence on imported crude oil
+-   Additional income for farmers and ethanol producers
+-   Reduced carbon emissions
+-   Better energy security for India
+
+However, consumers usually make fuel choices based on one simple question: which option is cheaper to drive?
+
+At current prices, E85's lower pump price does not necessarily mean lower running costs. Unless ethanol becomes significantly cheaper relative to petrol or crude prices surge sharply, most motorists are unlikely to see meaningful savings from switching to E85.
+
+Cheaper per litre? Yes.
+
+Cheaper per kilometre? Not necessarily.
+
+For now, E85 appears to be more of an energy security play than a money-saving proposition for Indian car buyers. But if petrol prices spike in the future, the equation could change quickly, potentially making ethanol the cheaper fuel to run.
+
+****Subscribe to Auto Today Magazine****
+
+\- Ends
+
+Jun 15, 2026 10:18 IST
+
+---
+
+### BJP, JD(S) target Karnataka township project, write to Rahul Gandhi over land grab
+*Sagay Raj · general*
+
+## The proposed Rs 18,000-crore Bidadi township project has triggered a political showdown in Karnataka, with the BJP and JD(S) writing to Rahul Gandhi seeking his intervention against the acquisition of nearly 7,500 acres of farmland.
+
+Bidadi township sparks political storm; BJP, JD(S) urge Rahul Gandhi to stop land acquisition without farmers' consent (Photo: PTI)
+
+The political battle over Karnataka's proposed Greater Bengaluru Integrated Township (GBIT) project in Bidadi intensified over the weekend, with the BJP and JD(S) separately writing to Congress leader and Lok Sabha Leader of Opposition Rahul Gandhi, urging him to intervene and stop the acquisition of thousands of acres of farmland for the ambitious township project.
+
+In a letter dated June 14, Karnataka BJP president BY Vijayendra accused the Congress government of disregarding the concerns of more than 3,500 farmers from 25 villages who are opposing the acquisition of land for the proposed 18,000-crore township between Bidadi and Harohalli.
+
+Vijayendra claimed that around 7,481 acres of fertile agricultural land were being acquired despite prolonged protests by farmers and appealed to Rahul Gandhi to direct the state government to withdraw what he described as a "state-engineered land grab."
+
+A day earlier, Karnataka Pradesh Yuva Janata Dal (Secular) president Nikhil Kumaraswamy also wrote to Rahul Gandhi, alleging that the state government had issued final land acquisition notifications without securing adequate public consent.
+
+Nikhil claimed the acquisition would affect hundreds of farming families and alleged that the government had bypassed safeguards under the Right to Fair Compensation and Transparency in Land Acquisition Act, 2013. He further argued that the move would disproportionately impact small and marginal farmers, Dalits, backward-class communities and landless agricultural labourers, and urged Rahul Gandhi to ensure the withdrawal of the final notifications.
+
+The controversy deepened after Union Minister HD Kumaraswamy launched a sharp attack on Chief Minister DK Shivakumar, alleging that the township project was being driven by a nexus between the government and real estate interests.
+
+Kumaraswamy accused the state government of attempting to acquire fertile agricultural land against the wishes of farmers and alleged that police pressure was being used to intimidate those resisting the acquisition. Describing the proposal as a "real estate venture" rather than a development initiative, he questioned plans to raise 12,000 crore through HUDCO loans and claimed the project would ultimately benefit private developers under a public-private partnership model rather than farmers or the public.
+
+The Karnataka government, however, has strongly defended the township project, arguing that it is essential for Bengaluru's long-term urban expansion and for reducing pressure on the city's existing infrastructure.
+
+Responding to criticism and dismissing Kumaraswamy's threat of a legal challenge, Shivakumar maintained that the project was being pursued in line with earlier planning efforts and said it would move ahead despite opposition.
+
+Referring to his recent meeting with Narendra Modi, Shivakumar said on Friday that the Prime Minister had praised the initiative, telling him that the creation of new townships would help ease pressure on Bengaluru.
+
+The proposed Bidadi township has emerged as a major political flashpoint in Karnataka, with the BJP and JD(S) portraying it as an assault on fertile farmland and farmers' livelihoods, while the Congress government insists the project is crucial to decongest Bengaluru and support future urban growth.
+
+\- Ends
+
+Priyanka Kumari
+
+Jun 15, 2026 10:17 IST
+
+---
+
+### ITR filing AY 2026–27: What is AIS, how it differs from Form 16 and Form 26AS and how to download AIS? | Mint
+*Sheetal Goel · economy*
+
+The Annual Information Statement (AIS) is a comprehensive statement that provides detailed financial information about a taxpayer for a specified financial year. It includes data on income, tax deductions, financial transactions and other relevant information available with the Income Tax Department.
+
+So, let's understand AIS in detail: what it covers, how it differs from Form 16 and Form 26AS, and how you can download it.
+
+## What is AIS?
+
+AIS provides taxpayers with a comprehensive and consolidated view of their financial data. The AIS helps with voluntary compliance by enabling easier pre-filing of returns, while simultaneously improving transparency and reducing the risk of errors.
+
+As per Section 285BB of the Income Tax Act, read with Rule 114-I of the Income-tax Rules, 1962, the AIS is uploaded by the Principal Director General of Income-tax (Systems) or an authorised authority.
+
+It consolidates a wide range of information of a taxpayer, including TDS and TCS details, specified financial transactions (SFT), tax payments, demand and refund records, pending and completed proceedings, and data received from various government bodies and regulatory authorities.
+
+It also covers information such as GST returns, foreign remittances, dividend and mutual fund transactions, interest on income tax refunds and details reported by depositories and other reporting entities.
+
+AIS only contains information currently available with the Income Tax Department. However, it may not include all transactions 
+
+## What are the two sections of AIS?
+
+AIS is structured into two main sections that present a detailed view of a taxpayer’s financial data.
+
+**Part A –** General Information includes basic taxpayer details such as PAN, masked Aadhaar number, name, date of birth or incorporation (for non-individuals), contact information like mobile number and email ID and the registered address.
+
+**Part B –** Tax and Financial Information section covers various financial transactions. It includes details of tax deducted or collected at source (TDS/TCS), along with 
+
+It also covers information reported under Statement of Financial Transactions (SFT) from different entities, tax payments such as advance tax and self-assessment tax, and details of refunds issued or demands raised during the financial year.
+
+Additionally, it includes other reported data like salary-
+
+## How is AIS different from Form 16 and Form 26AS?
+
+AIS, Form 26AS and Form 16 serve different purposes and provide different levels of financial information to taxpayers.
+
+Form 26AS is a tax credit statement that mainly reflects TDS and TCS details linked to a taxpayer’s PAN. From AY 2023–24 onwards, its scope has been limited largely to tax deducted or collected at source.
+
+Form 16 is an employer-issued certificate that provides a detailed summary of salary income and the TDS deducted from it. It also includes a breakup of salary components, exemptions, and deductions under Chapter VI-A, and is specific only to employment income.
+
+However, the AIS is a more comprehensive statement that consolidates a wide range of financial information, including interest, dividends, securities transactions and other income-
+
+It also allows taxpayers to review the data and provide feedback, and includes a Transaction Information Summary (TIS) that presents aggregated information from multiple sources.
+
+## How to download and view AIS?
+
+Here is the step-by-step guide to download AIS from the e-filing portal.
+
+**Step 1:** Visit the Income Tax e-filing portal and log in to your account. New users must first complete the registration process.
+
+**Step 2:** After logging in, go to Services, and click “Annual Information Statement (AIS).”
+
+**Step 3:** Click on “Proceed” to be redirected to the AIS portal.
+
+**Step 4:** On the instruction page, you will see key details along with the Taxpayer Information Summary (TIS), which shows category-wise information along with original and revised values used for return pre-filling.
+
+**Step 5:** Click on the AIS tab. On the next screen, you will see two options: AIS and TIS. Select the relevant financial year from the dropdown and click on the AIS tile.
+
+**Step 6:** The AIS dashboard will open, showing information in two parts:
+
+-   Part A: Basic details such as PAN, Aadhaar (masked), name, DOB, contact details, and address
+-   Part B: Detailed financial data including TDS/TCS, SFT, tax payments, demand and refund, and other information
+
+**Step 7:** To download AIS, choose the format: Excel, JSON, or PDF.
+
+-   Excel download is available category-wise
+-   Full AIS can be downloaded in PDF or JSON format
+
+**Step 8:** If you download the PDF, it will be password-protected. Enter your password as PAN (in lowercase) + Date of Birth/Date of Incorporation (DDMMYYYY).
+
+_(Disclaimer: This is only for informational and educational purposes. Please consult a qualified tax expert for the latest tax laws and regulations.)_
+
+---
+
+### IndiGo, HPCL, MRF Among 10 Stocks That Jumped Up To 7% As Iran-US Deal Sent Crude Oil Prices Lower
+*Mohammad Haris · business*
+
+IndiGo, SpiceJet, IOC, HPCL, BPCL, MRF and other stocks gain up to 7% after oil prices slumped following Iran-US peace deal, boosting hopes of lower fuel costs and strong earnings.
+
+[Read full article](https://www.news18.com/business/markets/why-are-indigo-hpcl-mrf-and-other-stocks-rallying-after-the-iran-us-peace-deal-ws-l-10149881.html)
+
+---
+
+### Sensex jumps 1,100 points, Nifty near 24,000: Why is stock market rising today?
+*Sonu Vivek · general*
+
+Stock markets witnessed a sharp rally on Monday, with the Sensex soaring over 1,100 points and the Nifty inching closer to the crucial 24,000 mark, as a breakthrough in the US-Iran conflict and a steep fall in crude oil prices boosted investor confidence.
+
+The S&P BSE Sensex surged 1,137.66 points, or 1.51%, to 76,665.61 in early trade, while the NSE Nifty50 climbed 349.75 points, or 1.48%, to 23,972.65.
+
+The rally was broad-based, with strong buying visible across banks, automobiles, real estate, financial services and broader market stocks.
+
+### US-IRAN PEACE DEAL BRINGS RELIEF TO MARKETS
+
+The biggest trigger behind today's rally was a potential peace agreement between the United States and Iran. The two countries indicated that an initial deal had been reached to end the conflict and resume shipping through the Strait of Hormuz, reducing fears of a prolonged disruption to global oil supplies.
+
+The easing of geopolitical tensions sparked a strong rally across global markets and triggered a sharp correction in crude oil prices.
+
+Brent crude fell nearly 5% to $83.32 per barrel, while WTI crude plunged over 5% to $80.62 per barrel. For India, which imports the majority of its crude oil requirements, lower oil prices are a major positive as they reduce pressure on inflation, improve the current account balance and support the rupee.
+
+Dr VK Vijayakumar, Chief Investment Strategist at Geojit Investments Limited, said the sharp fall in crude prices could significantly improve India's macroeconomic outlook.
+
+"With the dawn of peace in West Asia, hopefully, and the consequent sharp correction in Brent crude to below $84 in early trade, the prospects for the Indian economy and stock market have turned for the better. The GDP growth rate and CPI inflation projections for FY27 can be revised in this changed scenario to 6.9% and 4.6% respectively," he said.
+
+He added that a stronger rupee could limit foreign portfolio investor (FPI) selling, while domestic investors, including retail investors and domestic institutional investors (DIIs), are likely to continue supporting the market.
+
+### BANKS, AUTO AND REALTY STOCKS LEAD THE RALLY
+
+The market rally was led by financial and consumption-
+
+Among Sensex stocks, IndiGo emerged as the biggest gainer, rising 4.44%, followed by Eternal, which climbed 3.84%. Bajaj Finserv gained 3.64%, Bajaj Finance advanced 3.52%, Larsen & Toubro rose 3.12% and Maruti gained 2.88%.
+
+UltraTech Cement climbed 2.65%, M&M added 2.29%, Reliance Industries rose 2.18% and HDFC Bank gained 1.86%. Sun Pharma was among the few laggards, slipping 0.18%.
+
+The sectoral performance reflected the broad-based nature of the rally. Nifty Realty was the top performer, rising 2.42%, followed by Nifty Consumer Durables, which gained 2.35%, and Nifty Auto, which climbed 2.34%.
+
+Nifty Financial Services jumped 2.08%, Nifty Oil & Gas advanced 1.94%, while Nifty Private Bank and Nifty PSU Bank gained 1.02% and 1.43%, respectively.
+
+Vijayakumar said banks could remain in focus as large private banks are witnessing short covering due to attractive valuations.
+
+### BROADER MARKETS ALSO JOIN THE RALLY
+
+The optimism was not limited to large-cap stocks. The broader market also saw strong participation, signalling improvement in overall risk appetite.
+
+The Nifty Midcap 100 index climbed 1.47%, while the Nifty Smallcap 100 gained 1.60%. Nifty Midcap 50 rose 1.47%, while the Nifty 500 index advanced 1.67%.
+
+However, analysts remain cautious on valuations. According to Vijayakumar, the Nifty is currently trading at around 20 times earnings, while the Nifty Midcap and Smallcap indices are trading at much higher valuations of around 29 times and 33 times earnings, respectively.
+
+### WHAT SHOULD INVESTORS WATCH NEXT?
+
+While the immediate outlook has improved due to easing geopolitical tensions and falling crude prices, investors will continue to monitor the sustainability of the US-Iran agreement, movement in crude oil prices and foreign investment flows.
+
+A stable rupee, improving inflation outlook and continued domestic liquidity could support Indian equities in the near term.
+
+However, expensive valuations in broader markets and the strength of the AI-driven rally in countries such as South Korea and Taiwan could continue to influence foreign investor flows.
+
+_**(Disclaimer: The views, opinions, recommendations, and suggestions expressed by experts/brokerages in this article are their own and do not reflect the views of the India Today Group. It is advisable to consult a qualified broker or financial advisor before making any actual investment or trading choices.)**_
+
+\- Ends
+
+Jun 15, 2026 10:11 IST
+
+
+---
+
 ## 14 June 2026
 
 ### At Anthropic only one person reports to CEO Dario Amodei, and she is not his sister
