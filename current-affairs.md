@@ -1,3 +1,458 @@
+## 16 June 2026
+
+### Kavach rollout approved across 1,409 km in Ambala and Ahmedabad divisions
+*India Today Information Desk · general*
+
+## Indian Railways has approved Rs 341 crore for the expansion of the Kavach train protection system across Ambala and Ahmedabad divisions, covering 1,409 route kilometres to improve rail safety and operations.
+
+Indian Railways has cleared Rs 341 crore for Kavach deployment across Ambala and Ahmedabad divisions, extending the train protection system over 1,409 route kilometres to improve safety and reduce collision risks.
+
+Indian Railways has approved projects worth Rs 341 crore to expand the Kavach system across the Ambala Division of Northern Railway and the Ahmedabad Division of Western Railway. The move will bring the indigenous Automatic Train Protection (ATP) technology to more busy passenger and freight routes, covering a total of 1,409 route kilometres.
+
+The approval is part of the Railways’ ongoing effort to improve train safety, reduce the risk of collisions and strengthen operations on key corridors.
+
+The projects will be implemented under the umbrella programme for providing Kavach with an LTE-based communication backbone on the remaining routes of the railway network.
+
+### AMBALA DIVISION PROJECT TO COVER 811 KM
+
+The larger of the two projects has been approved at a cost of Rs 201 crore and will cover 811 route kilometres in the Ambala Division. The work will include the Ambala Cantonment–Ludhiana, Kalka–Chandigarh–New Morinda–Sahnewal, Sirhind–Daulatpur Chowk, Rajpura–Bathinda–Shri Ganganagar and Ludhiana–Dhuri–Jakhal sections. These routes connect Haryana, Punjab and Himachal Pradesh and carry heavy passenger and freight traffic.
+
+### AHMEDABAD DIVISION TO GET FULLER KAVACH COVERAGE
+
+In Ahmedabad Division, Railways has approved a Rs 140 crore project for the installation of Kavach Version 4.0 across 598 route kilometres covering 48 block sections.
+
+Earlier, Kavach work had already been sanctioned on around 702 route kilometres in the division. With this latest approval, the remaining sections will also come under the safety system, allowing wider deployment across the division.
+
+### HOW THE KAVACH SYSTEM IMPROVES TRAIN SAFETY
+
+Kavach is an Indian-developed Automatic Train Protection system designed to improve railway safety. It helps prevent Signal Passing at Danger (SPAD), automatically applies brakes when unsafe situations arise, controls train speed in critical conditions and reduces the risk of train collisions.
+
+The expansion of the Kavach system forms part of Indian Railways’ broader push to improve safety, reliability and efficiency on high-density and strategically important routes across the country.
+
+\- Ends
+
+vaishnavi parashar
+
+Jun 16, 2026 11:06 IST
+
+---
+
+### India blocks Telegram ahead of NEET re exam to prevent paper leak
+*Prisha Vibhavari · general*
+
+The government has also directed Telegram to disable its message-editing feature in India until June 30.
+
+[Read full article](https://www.news18.com/india/india-blocks-telegram-till-june-22-ahead-of-neet-re-examination-neet-paper-leak-row-10152186.html)
+
+---
+
+### ‘Modi Changed India, Yogi Changed UP’: Jewar Farmers Recount Development Journey
+*Devanshe Pandey · general*
+
+Jewar farmers praise Yogi Adityanath and PM Narendra Modi for Jewar International Airport and Film City. They also hail better law and order in the state.
+
+[Read full article](https://www.news18.com/india/modi-changed-india-yogi-changed-up-jewar-farmers-recount-development-journey-ws-l-10152035.html)
+
+---
+
+### ‘Khela Hobe…’: TMC Crisis Deepens As Rebel MPs Seek Control Of Party Symbol, Name
+*Shobhit Gupta · general*
+
+Senior rebel leader Sudip Bandyopadhyay said that the faction would approach the courts to establish itself as the "real" TMC.
+
+[Read full article](https://www.news18.com/india/khela-hobe-tmc-crisis-deepens-as-rebel-mps-seek-control-of-party-symbol-name-ws-l-10152187.html)
+
+---
+
+### E85 is here. Revisiting Gadkari's 2023 fuel claim
+*Shivang Shukla · general*
+
+-   India Today
+-   Aaj Tak
+-   India Today Hindi
+-   NewsTak
+-   GNTTV
+-   Lallantop
+-   Business Today
+-   Bangla
+-   Malayalam
+-   Northeast
+-   BT Bazaar
+-   Harper's Bazaar
+-   Sports Tak
+-   Crime Tak
+-   Astro Tak
+-   Gaming
+-   Brides Today
+-   Cosmopolitan
+-   Kisan Tak
+-   Ishq FM
+-   Reader’s Digest
+
+-   India Today
+-   Aaj Tak
+-   India Today Hindi
+-   NewsTak
+-   GNTTV
+-   Lallantop
+-   Business Today
+-   Bangla
+-   Malayalam
+-   Northeast
+
+---
+
+### Microsoft turns to Amazon to keep GitHub running amid intensifying AI boom
+*Om Gupta · general*
+
+## Microsoft is reportedly relying on Amazon to ease GitHub capacity issues after AI-led outages. The move shows how the scramble for compute power is reshaping rivalries across the cloud market.
+
+Microsoft reportedly leans on Amazon as AI demand strains GitHub. (Photo: Reuters)
+
+The AI boom is creating strange new alliances. Just days after reports emerged that SpaceX had struck massive computing deals with Google and Anthropic, Microsoft is now reportedly turning to one of its biggest rivals, Amazon, to help keep GitHub running smoothly. The reason is simple: there just isn't enough computing power to go around. Earlier this month, SpaceX and Google disclosed a new deal under which Google will pay SpaceX $920 million a month for AI compute capacity from October 2026 to June 2029. SpaceX has also signed a similar deal with Anthropic.
+
+The scramble for computing power, however, is no longer limited to AI companies building chatbots and large language models. It is now affecting some of the internet's most popular services as well.
+
+According to a Business Insider report, Microsoft is leaning on Amazon to address capacity issues on GitHub, its coding platform, after a series of AI-driven outages.
+
+### AI coding boom floods GitHub
+
+The problem stems from the rapid rise of AI coding tools. These tools have made it easier for developers to write software, leading to an explosion in the amount of code being created. That surge has flooded GitHub with new projects and code updates, putting immense pressure on the platform's computing resources.
+
+GitHub, which Microsoft acquired in 2018, is one of the world's most popular platforms for developers to store and manage code and collaborate on projects.
+
+As an independent company, GitHub mostly operated its own data centres. Microsoft, however, had planned to move the coding platform entirely to its Azure cloud service by 2027. That plan is now facing an unexpected challenge: demand.
+
+### Code growth is exploding
+
+GitHub commits, records of code changes that serve as a proxy for development activity, are on pace to reach 14 billion in 2026, up from 1 billion in 2025, Chief Operating Officer Kyle Daigle wrote on X in April. That extraordinary growth has pushed GitHub's infrastructure to its limits.
+
+"The incredible spike in agentic development that began late last year has tested our infrastructure's limits," a Microsoft spokesperson told Business Insider.
+
+To cope with the surge, Microsoft is "both accelerating our move to Azure and continuing to explore a multi-cloud strategy to ensure we have the future capacity, compute elasticity and horizontal scale required to support continued growth," the spokesperson added.
+
+### Why this deal is surprising
+
+The reported move is notable because Microsoft and Amazon are fierce rivals in the cloud computing market. Microsoft's Azure and Amazon Web Services (AWS) have spent years battling for market share, competing for the same enterprise customers and AI workloads.
+
+A Microsoft spokesperson confirmed to Business Insider that GitHub is tapping multiple cloud providers but declined to comment on any specific involvement by Amazon. Still, the reported partnership highlights a new reality emerging in the AI era. Companies that compete fiercely in one area may still have to work together if they want enough computing power to meet soaring demand.
+
+\- Ends
+
+Jun 16, 2026 10:53 IST
+
+---
+
+### Condoms, Massage Machine & Make-Up Room: Here's What Was 'Found' In A TMC Councillor's Ward Office
+*Sumedha Kirti · general*
+
+Ananya Bandyopadhyay Controversy: The row centres on a yellow notebook allegedly containing a detailed record of money collected from individuals in exchange for government jobs.
+
+[Read full article](https://www.news18.com/cities/kolkata-news/condoms-massage-machine-make-up-room-tmc-councillor-ananya-banerjee-ward-office-10152158.html)
+
+---
+
+### BREAKING: India Revives Tulbul Project Linked To Jhelum River In Kashmir Amid IWT Freeze | News18
+*Unknown · general*
+
+In a significant strategic move, India is laying a fresh blueprint for the Tulbul navigation project linked to the Jhelum River in Kashmir, renewing focus on the long-stalled lock-gate after Pakistan red-flagged it four decades ago.Work on Tulbul or Wular barrage in Wular, Asia's second-largest fres...
+
+[Read full article](https://www.news18.com/videos/india/breaking-india-revives-tulbul-project-linked-to-jhelum-river-in-kashmir-amid-iwt-freeze-news18-10152217.html)
+
+---
+
+### What happens to embryos during IVF? Here's how clinics keep them safe
+*Smarica Pant · general*
+
+## Questions about embryo safety often arise whenever concerns about IVF procedures come into public discussion. Experts say modern fertility clinics follow multiple safeguards, advanced technologies, and strict protocols to protect eggs, sperm, and embryos throughout treatment.
+
+How fertility clinics protect embryos: Understanding the safety measures behind IVF. (Photo: Representational)
+
+A recent allegation by a Gurugram couple regarding an IVF mix-up has brought renewed attention to an important question many aspiring parents have: How safe are embryos during fertility treatment?
+
+For couples undergoing In Vitro Fertilisation (IVF), trust is at the heart of the process. IVF involves handling highly sensitive biological materials, including eggs, sperm, and embryos, which makes safety and accuracy critical at every stage. While reports of alleged mix-ups can naturally cause concern, fertility experts emphasise that modern IVF laboratories are designed with multiple layers of protection to minimise risks and ensure that every patient's reproductive material is carefully tracked and safeguarded.
+
+The purpose of understanding these systems is not to create fear, but to help patients make informed decisions about their fertility journey. Today's leading fertility centres employ advanced laboratory technologies, strict identification protocols, continuous monitoring systems, and highly trained embryologists to maintain the highest standards of safety.
+
+Experts say that while no medical process can ever be considered entirely risk-free, modern IVF laboratories follow extensive checks and balances to ensure accuracy and accountability.
+
+Understanding these safeguards can help couples feel more confident and know what factors to evaluate when selecting a fertility clinic.
+
+## 1\. STRICT LABORATORY STANDARDS FORM THE FOUNDATION OF IVF SAFETY
+
+The IVF laboratory is often described as the heart of a fertility centre. It is where eggs and sperm are handled, fertilisation takes place, and embryos are cultured before transfer.
+
+According to Dr PGL Lalit Kumar, Head of Embryology and Scientific Director at Nova IVF Fertility, maintaining international standards is essential for ensuring embryo safety.
+
+"At Nova IVF Fertility, we adhere to European-standard protocols in our IVF laboratories and follow all processes as per the ART Act 2021," he explains.
+
+Modern IVF laboratories are designed to maintain highly controlled conditions, including precise temperature regulation, air quality management, humidity control, and contamination prevention. These environmental conditions are crucial because embryos are extremely sensitive during the early stages of development.
+
+By maintaining a stable laboratory environment and adhering to established protocols, clinics aim to provide the safest possible conditions for embryo growth and development.
+
+## 2\. ELECTRONIC WITNESSING SYSTEMS HELP PREVENT MIX-UPS
+
+One of the most important concerns for patients is whether eggs, sperm, or embryos could be mistakenly exchanged between individuals.
+
+To address this risk, many advanced fertility centres have implemented electronic witnessing systems, a technology-driven safety mechanism that tracks reproductive samples throughout the IVF process.
+
+Dr Kumar notes that this precision-led technology monitors gametes and embryos at every stage of treatment.
+
+"It is a global standard that helps prevent mix-ups involving sperm, eggs, and embryos," he says.
+
+The system continuously verifies patient identification and sample tracking in real time. If any discrepancy or mismatch is detected, an immediate alert is generated, allowing embryologists to intervene and investigate before the process can proceed further.
+
+This technology adds a layer of security beyond manual verification and significantly reduces the possibility of human error.
+
+## 3\. MULTIPLE VERIFICATION STEPS ENSURE ACCURACY THROUGHOUT TREATMENT
+
+Safety in IVF is not dependent on a single technology or protocol. Instead, clinics follow numerous validation and verification processes throughout the treatment cycle.
+
+From sample collection and labelling to fertilisation, embryo culture, freezing, storage, and transfer, each stage undergoes repeated checks. Every movement of reproductive material is documented and verified according to established laboratory procedures.
+
+According to Dr Kumar, extensive validation is conducted at every step of the IVF process to ensure accuracy and traceability.
+
+These quality-control measures create multiple checkpoints where potential errors can be identified and corrected. Such systems are designed to provide complete accountability and maintain confidence in laboratory procedures.
+
+Experts believe that combining technological safeguards with rigorous validation protocols creates one of the strongest safety frameworks available in modern reproductive medicine.
+
+## 4\. HIGHLY TRAINED EMBRYOLOGISTS TO PLAY A CRITICAL ROLE
+
+While technology plays an important role, skilled embryologists remain central to the IVF process.
+
+Embryologists are responsible for handling eggs, sperm, and embryos during some of the most delicate stages of fertility treatment. Their expertise directly influences laboratory quality and patient safety.
+
+To ensure consistency and high standards, Nova IVF Fertility provides extensive training to embryologists through the Nova Academy of Clinical Embryology Training (NACET).
+
+Before joining laboratory operations, embryologists receive intensive practical training covering all critical aspects of IVF laboratory work, including andrology and embryology. The training is designed to ensure that professionals are fully prepared to work within highly controlled laboratory environments.
+
+Dr Kumar explains that this training framework supports embryologists across more than 120 centres in over 75 cities, helping maintain standardised practices and quality care throughout the network.
+
+Continuous learning, regular assessments, and adherence to best practices help ensure that laboratory teams remain updated with evolving scientific and technological advancements.
+
+## 5\. WHAT COUPLES SHOULD LOOK FOR WHEN CHOOSING A FERTILITY CLINIC
+
+For couples considering IVF treatment, understanding a clinic's safety measures can be just as important as evaluating success rates.
+
+Experts recommend asking clinics about:
+
+-   Laboratory accreditation and regulatory compliance
+-   Sample identification and tracking systems
+-   Use of electronic witnessing technology
+-   Quality control and validation procedures
+-   Embryologist qualifications and training programs
+-   Transparency in communication and patient care
+
+A reputable fertility centre should be willing to explain its laboratory processes and answer questions regarding safety protocols.
+
+Dr Kumar emphasises that ethical and transparent care remains a fundamental responsibility for fertility providers.
+
+"We completely understand the emotional impact that a couple can undergo during IVF treatments and take the utmost care to honour that trust through the highest standards of care, transparency, and scientific precision," he says.
+
+Couples should feel comfortable discussing concerns with their fertility specialists and seeking detailed information about how their reproductive material will be handled and protected throughout treatment.
+
+IVF is not only a medical procedure but also an emotional journey for many families. As fertility treatments continue to evolve, safety systems within IVF laboratories have become increasingly sophisticated. Advanced technologies, strict laboratory protocols, extensive validation processes, and specialised embryologist training work together to protect eggs, sperm, and embryos at every stage.
+
+While concerns about potential mix-ups can understandably raise questions, experts stress that modern fertility centres employ multiple safeguards designed to maintain accuracy, accountability, and patient trust.
+
+For couples considering IVF, understanding these protections can provide reassurance and help them make informed decisions as they take the next step toward parenthood.
+
+\- Ends
+
+Smarica Pant
+
+Jun 16, 2026 10:38 IST
+
+---
+
+### TMC fallout: Lok Sabha Speaker Om Birla to hear both sides over merger request by rebels
+*TOI News Desk · general*
+
+NEW DELHI: Lok Sabha Speaker Om Birla will hear both sides in the Trinamool Congress split before deciding on a request by rebel MPs to merge their faction with the Nationalist Citizens Party (NCPI), ANI reported citing sources said.TMC sources, however, claimed that Abhishek Banerjee was not given a reasonable opportunity to present the party's case. According to the sources cited by ANI, the Lok Sabha Speaker's office emailed Abhishek Banerjee on June 15 at around 2pm, while he was undergoing questioning by the Enforcement Directorate (ED) and did not have access to his phone or emails. The email reportedly asked him to appear before the Speaker in Delhi by 4pm the same day.
+
+TMC sources further said that within an hour of the email, party MP Kirti Azad received a call from the Speaker's office informing him of the appointment. Azad subsequently visited the Speaker's office and conveyed that Banerjee was cooperating with the ED investigation and would be unable to attend the meeting, while seeking a later date and time for the hearing.20 Lok Sabha MPs elected on the All India Trinamool Congress (AITC) ticket had met Speaker Om Birla on Sunday and submitted a letter seeking recognition as a separate group.
+
+They expressed their intent to merge with the Nationalist Citizens Party and support the ruling NDA.Rebel MP, Sudip Bandyopadhyay, suggested that the faction would eventually seek legal recognition over the Trinamool Congress name. He argued that since the group represented more than two-thirds of the party's parliamentary strength, it would pursue its claim through legal channels at a later stage.The move was strongly opposed by the TMC leadership. In a letter to the Speaker, Abhishek Banerjee urged him not to recognise any separate faction, asserting that the TMC remained a single and indivisible political party. He argued that no group of MPs could independently carve out a parallel faction within the party and seek separate recognition in Parliament. If eventually approved by the Speaker, the merger could significantly alter the political landscape in the Lok Sabha, reducing the TMC's strength in the House and boosting the NDA's numbers.
+
+---
+
+### Government bans Telegram messaging app until Neet re-test over use of platform by 'cheating rackets'
+*India Today News Desk · general*
+
+The Telegram app has been temporarily restricted in India ahead of the NEET UG 2026 re-examination over viral allegations of paper leaks sourced from the app.
+
+As Telegram channels flooded students with claims of leaked question papers, edited screenshots and promises of guaranteed access to the exam, the National Testing Agency has now issued its strongest statement yet, explaining why Telegram access has been temporarily restricted in India and why one of the platform's most-used features has been disabled.
+
+The move comes days before the NEET UG 2026 re-exam scheduled for June 21.
+
+### WHAT ACTION HAS BEEN TAKEN?
+
+The Ministry of Electronics and Information Technology has issued two separate directions.
+
+The first restricts access to Telegram in India until June 22, covering the examination period and the immediate aftermath.
+
+The second requires Telegram to disable editing of already-posted messages in India until June 30.
+
+NTA described both measures as "calibrated and bounded in time" and said they were adopted only after other remedies, including large-scale takedowns of channels and groups, failed to adequately address the problem.
+
+**The NTA statement noted that it welcomed the two directions from the Government of India:**
+
+(a) a direction under Section 69 A of the Information Technology Act, 2000, restricting access to the Telegram platform in India for a defined and limited period ending 22 June 2026, covering the day of the NEET (UG) 2026 re-examination and its immediate aftermath; and
+
+(b) a direction requiring the platform to disable, in India, the message-editing feature in respect of messages already posted, for a defined period ending 30 June 2026, addressing the specific structural feature through which the platform has been used to fabricate after-the-event “paper leak” evidence in respect of national examinations.
+
+## WHY TELEGRAM CAME UNDER SCRUTINY
+
+According to NTA, the action follows months of monitoring of Telegram channels allegedly being used by organised cheating and cyber fraud networks.
+
+The agency said channels with names such as "PAPER LEAKED NEET", "Re-NEET 2026", "Private Mafia" and "REE NEET MAFIAA" openly advertised access to the examination paper and demanded payments ranging from a few thousand rupees to several lakh rupees from candidates and their families.
+
+NTA has reiterated that no such paper exists outside the secured examination process.
+
+"The promise of any such material is, in every instance, a fraud," the statement said.
+
+### TELEGRAM AND PAPER LEAKS
+
+Telegram's popularity has surged globally over the past decade, including among millions of users in India. The platform became known for its privacy-focused reputation, encryption features, large channels, anonymous usernames and the ability to share files with massive audiences.
+
+While these features attracted educators, businesses and content creators, they also made Telegram a preferred platform for groups claiming to offer leaked exam papers and insider access to competitive tests.
+
+In recent years, several paper leak rumours and exam-
+
+### THE EDIT FEATURE THAT TRIGGERED CONCERN
+
+One of the most striking parts of the statement relates to Telegram's message editing feature.
+
+According to NTA, administrators could edit previously posted messages while retaining the original timestamp. In some cases, they could even replace attached PDF files.
+
+The agency says this loophole was allegedly used to manufacture fake proof of paper leaks.
+
+Explaining the process, NTA said channel administrators would first post an ordinary message before an examination. After the exam was over, they would edit that older message and insert the actual question paper. Screenshots would then be circulated as supposed proof that the paper had been available before the test.
+
+NTA called these fabricated "paper leak" artefacts and said the direction requiring Telegram to disable message editing in India until June 30 was intended to shut down that route.
+
+## ARRESTS, TAKEDOWNS AND CYBER FRAUD PROBE
+
+The NTA statement reveals that the Indian Cyber Crime Coordination Centre (I4C) has been coordinating action against Telegram-based fraud operations for weeks.
+
+Acting on inputs from NTA and state police agencies, I4C reportedly facilitated the takedown of numerous channels, groups and bots involved in spreading misinformation and fraudulent offers.
+
+NTA also highlighted enforcement action by state agencies.
+
+It cited a June 9 advisory issued by Bihar Police's Economic Offences Unit warning students about fake paper leak claims. It also referred to the arrest of members of an inter-state cyber fraud gang by Ahmedabad City Cyber Crime Branch. Investigators found the group allegedly operated eight Telegram channels, handled transactions worth around Rs 1.5 crore through fraudulent accounts and contacted nearly 1,000 mobile numbers within a month.
+
+### NTA SAYS 'NO ONE' HAS ACCESS TO THE PAPER
+
+On June 15, NTA posted a blunt warning on X.
+
+"Don't let rumours decide your NEET (UG) 2026 journey."
+
+It added: "No one, repeat, no one has access to the question paper before the exam."
+
+Students were urged to report fake websites, paper leak offers and anyone pretending to be an NTA official.
+
+### EXAM ON JUNE 21, NTA OFFERS REASSURANCE
+
+Acknowledging that many students use Telegram for legitimate educational and personal purposes, NTA said it "sincerely regrets the inconvenience" caused by the restrictions.
+
+At the same time, the agency stressed that the examination itself remains secure.
+
+"The security of the examination is unaffected by the action taken; it is, in fact, the very purpose of the action," the statement said.
+
+For lakhs of students heading into one of India's biggest entrance exams, NTA's message is simple: ignore rumours, avoid anyone selling papers, and trust only official updates.
+
+\- Ends
+
+Karishma Saurabh Kalita
+
+Jun 16, 2026 10:37 IST
+
+---
+
+### Stand-Off At India-Bangladesh Border After Bangladeshi National Left Stranded In No-Man’s Land
+*Prisha Vibhavari · general*
+
+Tension rises at India-Bangladesh border after a Bangladeshi man is left stranded in no-man's land following a BSF pushback and BGB refusal.
+
+[Read full article](https://www.news18.com/india/stand-off-at-india-bangladesh-border-after-bangladeshi-national-left-stranded-in-no-mans-land-ws-l-10152161.html)
+
+---
+
+### How are Ram Mandir donations counted, deposited? SIT conducts 8-hour probe
+*Unknown · general*
+
+## The three-member Special Investigation Team examined how Ram Mandir donation boxes are opened, counted and deposited. The inquiry was ordered following claims of missing donations, which the trust has rejected.
+
+The Ram Mandir in Ayodhya sees an average daily visitor count of 70,000 to 80,000
+
+The process by which donation boxes are opened, cash is collected, and deposited in the bank was the focus of the Special Investigation Team (SIT) that began its probe into alleged misappropriation of funds at the Ram Mandir in Ayodhya on Monday. The investigation continued on Tuesday, with the SIT questioning employees of the Shri Ram Janmabhoomi Teerth Kshetra, the trust managing the temple, as well as those involved in counting the cash and preparing the currency bundles.
+
+The controversy erupted earlier this month after Samajwadi Party chief Akhilesh Yadav cited reports claiming that crores of rupees offered as donations at the Ram temple were missing. While Champat Rai, the general secretary of the trust, dismissed the claims, the Yogi Adityanath government constituted a three-member SIT to probe the allegations.
+
+Since its inauguration in January 2024, the Ram Mandir has been receiving massive donations (PTI)
+
+### HOW CASH DEPOSITS ARE COUNTED
+
+On Monday, the SIT conducted an intensive probe, spanning almost eight hours, which saw it closely examining the entire process -- from how donation boxes are opened, cash is collected, and bundles are prepared for bank deposits.
+
+Upon arrival at 2 pm, the SIT, led by Lucknow divisional commissioner Vijay Vishwas Pant, first offered prayers at the Ram temple. Sources said the team then inspected the donation boxes in the temple premises. The SIT examined whether cash could be removed directly from the donation boxes. The possibility appeared unlikely.
+
+There are around 40 donation boxes inside the complex. Money from these boxes is collected daily.
+
+After the temple closes, these boxes are opened in a designated room of the trust. The trust has authorised the SBI to count the cash. The SBI, in turn, has engaged a Varanasi-based private firm for counting.
+
+The room where the donation boxes are opened and cash is collected is equipped with CCTV cameras. Nearly 50 employees are involved in the entire process. Of these, around 24 employees from the private agency prepare bundles of currency notes. They are monitored by 12 trust employees.
+
+Later, employees of TCS, which handles CCTV and technical operations at the Ram Mandir, along with 14 SBI staffers, count the bundles before the money is deposited into the bank. The amount is entered into official records.
+
+### SIT CONDUCTS INTENSIVE PROBE
+
+On Monday, the SIT team scrutinised employee entry and exit records, security checks conducted during arrival and departure, and details of staff who left or joined the temple administration over the past year. The officials also examined donation-
+
+During the investigation, the temple administrator, Gopal Rao, briefly left the premises. There was visible tension on his face. Rao also avoided questions from journalists present outside the temple. He returned over an hour later.
+
+The SIT team left the temple premises around 10 pm. It has been given 15 days to submit its report to the government.
+
+The decision to involve a private agency in a sensitive activity like counting of donations has been questioned by Akhilesh Yadav. He has also demanded that CCTV footage of the counting process be made public.
+
+Since its inauguration by Prime Minister Narendra Modi in January 2024, the Ram Mandir has been receiving massive donations.
+
+Last year, the temple trust reported earnings of nearly Rs 327 crore during FY 2024-25. Donations accounted for Rs 153 crore.
+
+So far, police have detained a temple employee, Lavkush Mishra, who is reportedly associated with the counting of donations. During a search at his home, police recovered around Rs 10 lakh in cash. However, the police have not yet officially linked the money to the allegations around donations.
+
+It remains to be seen if the SIT probe leads to more skeletons tumbling out of the closet.
+
+\- Ends
+
+Abhishek De
+
+Jun 16, 2026 10:32 IST
+
+---
+
+### PM Modi witnesses schoolchildren from Slovakia perform Yoga during his visit, shares pictures
+*TOI News Desk · regional, india*
+
+PM Modi and Slovakia President Pellegrini witness a special Yoga demonstration by schoolchildren.
+
+NEW DELHI: Ahead of International Yoga Day, Prime Minister Narendra Modi and Slovak President Peter Pellegrini witnessed a yoga demonstration by Slovak schoolchildren during his visit to Bratislava.PM Modi said he was pleased to see young people embracing yoga and highlighted its role in promoting well-being and bringing people together across cultures."President Pellegrini and I were delighted to witness a special Yoga demonstration by schoolchildren from Slovakia. As the world counts down to International Yoga Day, it is delightful to see the youth embrace Yoga. Also happy to see Yoga continuing to bring people together in the shared pursuit of well-being," PM Modi posted on X.
+
+PM Modi also praised an exhibition on Varanasi held at the Presidential Palace in Bratislava.
+
+The exhibition featured works by Slovak artists who had recently visited the ancient Indian city. PM Modi said the showcase reflected the power of art and culture to strengthen ties between people and nations.In a post on X, the Prime Minister said, "A Banaras connect in Bratislava! At the Presidential Palace in Bratislava yesterday, President Pellegrini and I viewed a fascinating exhibition centred on Varanasi, including works by Slovak artists who had recently visited the city.
+
+Art and culture truly have a unique ability to bring people closer. My compliments to all those whose works featured in this exhibition."
+
+During his visit, PM Modi held discussions with President Pellegrini on a range of issues, including manufacturing, transport, innovation, investment, energy, biofuels and digital technology. He said both sides also explored ways to deepen people-to-people connections.The visit saw further progress in India-Slovakia relations, with Prime Minister Modi and Slovak Prime Minister Robert Fico reaffirming their commitment to multilateralism and reform of global institutions.
+
+According to the India-Slovakia Joint Statement, the two leaders stressed the need for comprehensive reforms of the United Nations, particularly the UN Security Council, to make it more representative, inclusive and reflective of present-day geopolitical realities.
+
+They also supported the expansion of the Security Council in both permanent and non-permanent categories.India and Slovakia additionally agreed to strengthen cooperation in defence, cybersecurity, critical infrastructure protection and connectivity, identifying these sectors as key pillars of their growing bilateral partnership.
+
+
+---
+
 ## 15 June 2026
 
 ### CIC orders CBSE to reveal answer sheet procurement records and exam expenditure
