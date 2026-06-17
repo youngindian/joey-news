@@ -1,3 +1,619 @@
+## 17 June 2026
+
+### 'They Hit Me With Rods': Assam Farmer Recalls Torture In Bangladesh, Thanks CM Sarma For Safe Return
+*Pragati Ratti · general*
+
+Ranjit Das returned with visible injuries and a bandaged head after being handed over to Indian authorities by the Border Guard Bangladesh (BGB).
+
+[Read full article](https://www.news18.com/india/they-hit-me-with-rods-assam-farmer-recalls-torture-in-bangladesh-thanks-cm-sarma-for-safe-return-ws-l-10154939.html)
+
+---
+
+### Amid 'Operation Tiger' Buzz, Sena MP Arvind Sawant Asks Om Birla To Reject Split, Merger Claims
+*Vani Mehrotra · general*
+
+Amid defection rumours, Arvind Sawant asked Lok Sabha Speaker Om Birla to reject any bid by Shiv Sena (UBT) MPs seeking recognition as a separate group.
+
+[Read full article](https://www.news18.com/india/arvind-sawant-letter-om-birla-shiv-sena-ubt-mp-split-merger-claim-operation-tiger-eknath-shinde-maharashtra-politics-ws-l-10154868.html)
+
+---
+
+### Top actresses rejected him, labelled as a B-grade star. He was told he could never become a hero. How a St. Xavier's College educated model-actress helped rewrite the superstar's destiny
+*Unknown · business*
+
+Today, he is known as one of Indian cinema's most iconic stars and a recipient of the prestigious Dadasaheb Phalke Award. But long before the fame, awards and blockbuster success, Mithun Chakraborty was fighting an uphill battle in Bollywood. The actor faced repeated rejection, struggled to find acceptance among leading actresses and was often told he lacked what it took to become a mainstream hero. At one point, he even feared he would remain stuck in B-grade films forever. However, one actress's decision changed everything.
+
+## Mithun Chakraborty's difficult journey to stardom
+
+For many movie lovers, Mithun Chakraborty's rise may seem like a classic success story. Yet the actor has often spoken about the hardships he endured before becoming one of the biggest names in the industry.
+
+During an appearance on Zee TV's Sa Re Ga Ma Pa in 2023, Mithun looked back on those painful years and revealed how difficult it was to establish himself in Bollywood. According to him, he constantly had to fight for opportunities while dealing with criticism and rejection from people within the industry.
+
+  
+
+The veteran actor recalled that many leading actresses of the time were unwilling to work with him. He said he was often viewed as a minor star and that several people openly questioned whether he could ever become a successful hero. Mithun admitted that hearing such remarks repeatedly was emotionally exhausting and left a lasting impact on him.
+
+## The fear of remaining a B-grade actor  
+
+Mithun also revealed that there was a period when he genuinely believed he might never make the transition from B-grade films to mainstream cinema.
+
+"There was a time when I thought I wouldn't transition from B-grade films to A-grade films. There were times when the actresses walked out even after the film was announced. There was pressure, and other actors were insecure that I would make it big someday. So they may have warned those heroines, 'Iske saath kaam karogi toh hamare saath kaam nahin kar sakti' (If you worked with Mithun, we don't work with you in films)."
+
+The repeated disappointments made him wonder whether he would ever be accepted as a leading man. Despite the setbacks, however, he continued to work hard and remained determined to prove his critics wrong.
+
+## The actress who changed everything  
+
+The turning point came when actress Zeenat Aman agreed to work with Mithun in the film Taqdeer.
+
+By then, Zeenat Aman was one of the most respected and sought-after stars in the country. Known for redefining the image of the Bollywood heroine, she had built an impressive career in both modelling and films. Before entering the entertainment industry, she studied at St. Xavier's College in Mumbai. She later moved to the United States to study at the University of Southern California on a scholarship before eventually pursuing modelling and acting full-time.
+
+According to Mithun, Zeenat's willingness to work with him sent a strong message across the film industry. He recalled that she had expressed confidence in him and had no hesitation in signing the project.
+
+For Mithun, that decision proved to be life-changing.
+
+## How Taqdeer transformed his career  
+
+The actor said Zeenat's support effectively broke the negative perception surrounding him. Since she was regarded as one of the biggest heroines of her era, her decision encouraged others to reconsider their views.
+
+Mithun explained that after Taqdeer, more actresses became open to working with him. The shift was noticeable and helped him gain acceptance as a mainstream leading man.
+
+He shared, "Zeenat ji said, 'What a good-looking man he is!' I will do the film with him. It was Zeenat ji who broke the jinx. Zeenat ji had a status of the number 1 heroine of that time, so following her footsteps, every other actress started saying yes to the films that I worked in. With Taqdeer's release, I became an A-category actor."
+
+Over the years, Mithun has never forgotten the role Zeenat Aman played in his journey. Even after achieving massive success, he has continued to publicly acknowledge her contribution.
+
+During the television show, Mithun expressed deep appreciation for Zeenat Aman and said he would always remain indebted to her for believing in him when many others did not.
+
+The actor described her support as a defining moment in his career and credited her with helping him overcome one of the most challenging phases of his professional life.
+
+Today, Mithun Chakraborty stands as one of Indian cinema's most celebrated performers.
+
+---
+
+### New labour code: 3 employee-friendly changes that could make working life easier - The Economic Times
+*Neelanjit Das · general*
+
+The new labour code along with the central government rules has introduced several practical changes that are beneficial for employees. One such change is the removal of distinct rules for each central law. Now, all the regulations are combined into a single act, which simplifies things and makes it easier for employees to look up the relevant law and its rules.
+
+Moksha Bhat, Managing Partner, AP & Partners, told _ET Wealth Online_ that the rules framed under the four labour codes, at a basic level, make it easier for employers to comply. Instead of having to navigate through different sets of rules for each Central Act, employers now have to refer to one set of Rules for each Code.
+
+## Three practical aspects that the new labour code and central government rules have made easier for employees
+
+Here's how the new labour code have made some practical changes:
+
+### Single registration
+
+Bhat mentions that the new labour codes have simplified compliance requirements by introducing a single registration system under the OSH framework, replacing the multiple registrations that were previously required under the Factories Act, Contract Labour (Regulation and Abolition) Act, Inter-state Migrant Workmen Act, BOCW Act, and other laws.
+
+### Electronic filings
+
+Bhat says that both the new labour code and central government rules encourage a move towards electronic filings and electronic maintenance of unified registers, rather than numerous statute?specific paper registers and returns.
+
+### Replacement of old fragmented law into a unified framework
+
+Preetha Soman, Partner, JSA Advocates & Solicitors, said to _ET Wealth Online_ that the central government labour code rules put into action the Labour Codes, that collectively replace 29 fragmented central labour laws with a unified and coherent framework.
+
+According to Soman, the unified framework of the new labour code and rules bring in a much-needed procedural clarity to compliance obligations by prescribing the necessary forms, registers, digital filing requirements, and inspection protocols.
+
+Soman says: "The rules essentially help translate broad statutory intent into implementable obligations; something that had been a significant source of anxiety for industry since the Labour Codes were notified but remained unaccompanied by corresponding rules."
+
+From a business perspective, this is as important as the substantive legal changes themselves as employers now have a clearer compliance roadmap rather than having to navigate an uncertain transitional vacuum. The rules also streamline compliance architecture significantly.
+
+Soman explains how this has resulted in practical convenience. For instance, multiple registrations, licences, and returns across legacy laws have been replaced by consolidated registrations and returns, while inspections have shifted to a risk-based, digital model under the new Inspector-cum-Facilitator framework.
+
+For employees, the new framework brings much-needed clarity and expansion of protection, by recognising gratuity entitlement of fixed-term employees who have completed at least one year of service and by providing for a National Social Security Board and dedicated schemes for gig and platform workers under the Social Security Code. It also ensures that employees receive a formal appointment letter, thus ensuring greater transparency and formalisation of employment.
+
+---
+
+### Pizza Hut Sold for $2.7 Billion: Yum! Brands Sells Business In 2 Deals, Approves $4 Billion Share Buyback
+*Mohammad Haris · business*
+
+
+
+[Read full article](https://www.news18.com/business/markets/pizza-hut-sold-for-2-7-billion-yum-brands-sells-business-in-2-deals-approves-4-billion-share-buyback-10154869.html)
+
+---
+
+### iPhone 17 gets cheaper in India, here are the details
+*INDIATODAY · general*
+
+The iPhone 17 is selling on Vijay Sales at the lowest price with a combination of flat and bank discount offers, making the device cheaper in India. Here are all the details of the latest iPhone deal.
+
+Currently, the iPhone 17 is selling on Vijay Sales with a starting price of Rs 80,990. This is for the base model with 256GB storage version.
+
+To recall, the device was launched for Rs 82,900. This means that you are getting a flat discount of Rs 1,910, which no other online platform is offering right now.
+
+On top of that, buyers can avail bank offers of up to Rs 4,500 on HDFC, ICICI, and HSBC bank credit cards. This will further reduce the price of the phone if you use the eligible bank cards for payment.
+
+And to save even more, you can exchange your old device. The savings in this case will depend on the condition of the phone you trade in for the iPhone 17. You can consider selling your old phone to Cashify.
+
+The iPhone 17 is Apple’s latest vanilla iPhone. The device brings a solid all-around package at this price. Here is everything you need to know about the flagship phone.
+
+Under the hood, the iPhone 17 uses Apple’s A19 chipset. In our review, the device was easily able to handle heavy multitasking or long gaming sessions on titles such as Genshin Impact.
+
+On the front, you get a 6.3-inch OLED panel. The iPhone 17 finally gets a 120Hz refresh rate, something that was missing from the iPhone 16. We found the screen itself to be quite vibrant with minimal bezels.
+
+The iPhone 17 features a dual rear camera setup – a 48-megapixel main and a 48-megapixel ultrawide. Both sensors can give you good results, even in some challenging lightning conditions.
+
+During our review, the iPhone 17 lasted for a day and more on a single charge. To top it up, the device supports USB-C charging and MagSafe.
+
+---
+
+### Admissions lost, seats slip away: Pending CBSE results derail college plans
+*India Today Education Desk · general*
+
+## As admissions progress, over 1.6 lakh CBSE Class 12 students awaiting re-evaluation results say delays are putting college seats, scholarships and overseas opportunities at risk. Uncertainty persists for students affected by the West Asia conflict, with a government policy still under consideration.
+
+Admissions lost, seats slip away: Pending CBSE results derail college plans
+
+For many CBSE Class 12 students, the battle is no longer about marks. As colleges race ahead with admissions, those awaiting re-evaluation results are finding that time, not merit, may determine their future.
+
+As colleges and universities across India press ahead with admissions, students say they are losing seats, scholarships and opportunities because revised scores have yet to arrive.
+
+The situation has sparked concerns that a system designed to correct errors may be creating a new injustice for those seeking a fair assessment.
+
+### WHY ARE STUDENTS LOSING COLLEGE ADMISSIONS?
+
+At the heart of the crisis is the delay in issuing revised marksheets following CBSE's re-evaluation process. Universities and colleges have continued with admission schedules, document verification and seat allotments, leaving little room for students whose results remain under review.
+
+Several students say institutions are unwilling to hold seats until revised scores are released.
+
+As a result, many risk losing admissions despite completing all other formalities. For merit-based programmes where even a marginal increase in marks can alter admission prospects, every passing day is proving costly.
+
+### HOW BIG IS THE PROBLEM?
+
+The growing number of re-evaluation requests highlights the scale of the issue. CBSE data shows that more than 1.6 lakh students sought verification and re-evaluation of their results between June 2 and June 7, involving nearly 3.8 lakh answer books.
+
+With admission and counselling processes underway, parents say the delay in releasing revised results is adding to students' stress. Amit Gupta, a parent from Noida, said many families are worried that deserving candidates could lose opportunities while waiting for the review process to conclude.
+
+"Colleges are continuing with admissions as per schedule, but students awaiting revised marks have no clarity on when their results will be updated. Some institutions are unwilling to keep seats on hold, leaving students anxious about whether they will miss out despite applying for a legitimate review," Gupta said.
+
+Educators have also expressed concern over the impact of the delays on students' admission prospects. A teacher at a Delhi school said students should not be forced to choose between seeking a fair assessment and securing a college seat.
+
+"Re-evaluation is an important safeguard for students who believe there may have been errors in the evaluation process. Those opting for a review should not be placed at a disadvantage because of delays in the system. There must be provisions to ensure that students do not lose admission opportunities while their applications are being processed," the teacher said.
+
+### WHAT IS DRIVING THE SURGE IN RE-EVALUATION REQUESTS?
+
+The unprecedented number of applications follows complaints from students regarding the evaluation and answer-sheet review process. Many candidates have alleged issues such as blurred scanned copies, unchecked responses, missing pages and discrepancies in awarded marks.
+
+For students whose future admissions depend on small differences in scores, these concerns have prompted a rush towards verification and re-evaluation, adding further pressure on the board's post-result machinery.
+
+### ARE SCHOLARSHIPS AND INTERNATIONAL ADMISSIONS ALSO AT RISK?
+
+The impact extends beyond domestic college admissions. Students applying to foreign universities say delayed revised marksheets are jeopardising conditional offers, scholarships and enrolment deadlines. Many international institutions require final board results within strict timelines, leaving little flexibility for candidates awaiting re-evaluation outcomes.
+
+Likewise, aspirants targeting competitive programmes in engineering, medicine, law and management fear they may miss counselling rounds or lose seats while waiting for revised scores.
+
+### WHAT DOES CBSE SAY?
+
+CBSE has maintained that the re-evaluation process is being carried out as per established procedures. However, the absence of a clear timeline for the release of all revised results has left students and parents uncertain about their academic future during one of the most crucial phases of the admission cycle.
+
+### WHAT ABOUT STUDENTS AFFECTED BY THE WEST ASIA CONFLICT?
+
+The CBSE result uncertainty has also affected students in West Asia. During a recent Supreme Court hearing, the Centre said it is working on a policy for private CBSE students whose results could not be declared because of the ongoing conflict in the region.
+
+The issue arose after CBSE cancelled Class 12 board examinations scheduled between March 16 and April 10, 2026, in Bahrain, Iran, Kuwait, Oman, Qatar, Saudi Arabia and the UAE due to security concerns.
+
+The government informed the court that a framework is being considered to address the concerns of affected students and ensure their academic progress is not disrupted by circumstances beyond their control.
+
+### CAN THE SYSTEM PREVENT SUCH CRISES IN THE FUTURE?
+
+Education experts say better coordination between examination boards and colleges is needed, including provisional admissions and flexible deadlines for students awaiting re-evaluation results.
+
+The controversy has highlighted a growing gap between examination timelines and college admissions. For thousands of students, the issue is no longer just about marks but about opportunities and futures at stake. With admission deadlines approaching, stakeholders say students should not suffer because of administrative delays or circumstances beyond their control.
+
+\- Ends
+
+Apoorva Anand
+
+Jun 17, 2026 10:20 IST
+
+---
+
+### B52 crashed: Why are jumbo jet sized bombers such as B-52, Tu-95 and H-6 still flying amid advanced air defenses and stealth fighter jets
+*Unknown · business*
+
+In the modern era, as air defences become more sophisticated, aircraft grow stealthier and drones become smaller, the continued use of airliner-sized bombers as strategic assets begs the question: why?
+
+Large strategic bombers such as the B-52 Stratofortress, Tu-95 Bear and H-6 remain key components of the air forces of the United States, Russia and China despite the rise of stealth aircraft and advanced combat systems.
+
+The continued use of these aircraft comes at a time when modern militaries are fielding radar-evading platforms such as the B-2 Spirit, while the United States is also developing the B-21 Raider for long-range strike missions. Even so, these large bombers continue to operate alongside faster aircraft including the B-1 Lancer, Tu-22M and Tu-160.
+
+  
+
+## Vulnerable in modern combat environments
+
+The B-52 and Tu-95 face considerable risks on contemporary battlefields. Their large size, subsonic speeds and prominent radar signatures make them susceptible to advanced air-defence systems, including long-range surface-to-air missiles and modern fighter aircraft.
+
+Their ageing airframes also increase exposure to electronic warfare, cyber interference and precision-guided weapons. Operations within contested airspace protected by integrated air-defence networks or stealth fighters could significantly reduce their chances of survival without extensive support and escort.
+
+  
+
+## Range and payload remain key advantages
+
+Despite these challenges, the bombers continue to perform missions that capitalise on their strengths. Their long operational range and ability to carry heavy payloads enable them to deploy substantial quantities of conventional or nuclear weapons.
+
+They can also launch large cruise missiles from outside hostile air-defence zones, allowing them to strike targets without entering heavily defended airspace. Many of these weapons are too large to be carried by smaller aircraft.
+
+  
+
+Feature
+
+B-52 Stratofortress
+
+Tupolev Tu-95
+
+Xian H-6
+
+Country
+
+United States
+
+Russia
+
+China
+
+First entered service
+
+1955
+
+1956
+
+1969
+
+Crew
+
+5
+
+7
+
+4
+
+Powerplant
+
+8 turbofan engines
+
+4 turboprop engines
+
+2 turbofan engines
+
+Maximum speed
+
+1,046 km/h
+
+925 km/h
+
+1,050 km/h
+
+Range
+
+14,080 km
+
+About 15,000 km
+
+About 6,000 km
+
+Maximum payload
+
+31,750 kg
+
+Up to 15,000 kg
+
+Up to 12,000 kg
+
+Primary role
+
+Strategic nuclear and conventional bomber
+
+Strategic cruise missile carrier
+
+Regional strike and cruise missile carrier
+
+Nuclear capable
+
+Yes
+
+Yes
+
+Yes
+
+Current status
+
+In service
+
+In service
+
+In service
+
+  
+
+### Key takeaway
+
+-   The B-52 carries the heaviest payload and remains the backbone of US long-range bomber operations.
+-   The Tu-95 has the greatest range among the three and is known for its large contra-rotating propellers.
+-   The H-6 is the smallest of the three and has lower range and payload figures, but modern variants compensate with advanced cruise missile and standoff strike capabilities.
+
+## Stealth bombers: B-2 and B21
+
+The United States' two stealth bombers, the B-2 Spirit and the next-generation B-21 Raider, are designed for penetrating heavily defended airspace and delivering both conventional and nuclear weapons. The B-2, which entered service in the 1990s, is a flying-wing aircraft crewed by two pilots. It has a top speed of about 1,010 km/h, an unrefuelled range of roughly 11,100 km and can carry up to 18,000 kg of weapons internally. The B-21 Raider, currently entering service, remains highly classified, but it is known to feature a similar flying-wing design with a two-person crew, improved stealth characteristics, open-architecture systems and lower operating costs. Public estimates suggest it will carry around 13,600 kg of weapons and possess intercontinental range while being smaller and more maintainable than the B-2. The US Air Force plans to acquire at least 100 B-21s as the future backbone of its bomber fleet.
+
+## Modernisation extends operational relevance
+
+Upgrades to avionics, communications systems and weaponry have helped keep the aircraft effective in modern warfare. These improvements support standoff strike capabilities and allow integration into networked combat operations.
+
+The aircraft also offer a cost-effective alternative to replacing entire bomber fleets, while maintaining proven levels of reliability and endurance for long-distance missions.
+
+## Central to strategic deterrence
+
+Military planners continue to rely on these bombers because of their ability to project power across vast distances, support nuclear deterrence missions and adapt to evolving technologies. These capabilities ensure that the long-serving aircraft remain an important part of strategic air forces despite the emergence of newer and more advanced platforms.
+
+---
+
+### ‘Don't Come To Washim Or…’: UBT Leader Warns Sanjay Deshmukh Against Joining Shinde Camp
+*Shobhit Gupta · general*
+
+Vijay Shendge posted a message on Facebook warning Sanjay Deshmukh against switching camps without first resigning from his Lok Sabha seat.
+
+[Read full article](https://www.news18.com/india/dont-come-to-washim-or-ubt-leader-warns-sanjay-deshmukh-against-joining-shinde-camp-ws-l-10154865.html)
+
+---
+
+### US drops ‘Indo’ from Pacific Command name, reverts to original designation
+*Rohit Sharma · general*
+
+## The US has renamed the Indo-Pacific Command back to the Pacific Command. The move restores the command's historic identity while keeping its mission and area of responsibility unchanged.
+
+The US Department of War said the restoration of the original name is intended to honour the command’s historical identity and institutional legacy.
+
+The United States Department of War has announced that the US Indo-Pacific Command (USINDOPACOM) will officially revert to its original designation — the US Pacific Command (USPACOM), restoring the name under which the military command operated for more than seven decades.
+
+The move reverses a symbolic but strategically significant change introduced in 2018, when then US Defense Secretary Jim Mattis redesignated the command as the US Indo-Pacific Command to reflect what Washington described at the time as the growing strategic importance of the Indian Ocean region and its increasing integration with Pacific security dynamics.
+
+Announcing the latest decision, the Department of War said the restoration of the original name is intended to honour the command’s historical identity and institutional legacy.
+
+The department said restoring the USPACOM designation "honors the command's deep historical roots, fostering a sense of pride and collective spirit among all who serve in the Pacific".
+
+Officials also stressed that the renaming does not alter the command’s operational role, strategic mission or geographic scope.
+
+According to the statement, USPACOM’s area of responsibility — extending from waters off the western coast of the US to India’s western boundary — remains unchanged. The department added that its commitment to maintaining a "free and open theater alongside regional allies and partners" will continue without interruption.
+
+### WHY THE COMMAND HOLDS KEY
+
+Originally established on January 1, 1947, under President Harry S Truman, the command became one of the oldest and largest unified combatant commands in the US military system.
+
+Over decades, it played key roles in shaping post-World War II security arrangements across Asia and coordinated joint military operations during major conflicts, including the Korean War and the Vietnam War, alongside humanitarian and disaster-response missions.
+
+Until this latest change, USINDOPACOM functioned as the principal US military command responsible for operations, planning, defence partnerships and regional security across the wider Indo-Pacific.
+
+Headquartered in Hawaii, the command oversees an enormous strategic zone covering the Pacific Ocean, much of the Indian Ocean, East Asia, Southeast Asia, Australia and parts of South Asia.
+
+Its responsibilities extend across deterrence and defence readiness, military exercises with partner nations, maritime security operations, disaster response and contingency planning.
+
+### COMMAND RENAMED IN 2018
+
+The 2018 renaming to Indo-Pacific Command was widely viewed as more than administrative. It signalled Washington’s acknowledgement that developments in the Indian Ocean and South Asia had become increasingly interconnected with security outcomes in the Pacific.
+
+For India, USINDOPACOM emerged as an important institutional channel for expanding defence cooperation with the US.
+
+The command became closely associated with growing India–US military engagement through joint exercises, maritime coordination, information sharing and wider strategic cooperation under the broader Indo-Pacific framework.
+
+Its area of responsibility and strategic approach also aligned with expanding regional conversations around securing sea lanes, ensuring freedom of navigation and maintaining balance across one of the world’s most important maritime corridors.
+
+### SHASHI THAROOR TAKES VEILED DIG
+
+The development has also sparked political reactions in India.
+
+Congress MP Shashi Tharoor responded to the announcement on social media with a brief but pointed remark, "One more nail in the coffin of the Quad?", while sharing screenshots of the order issued by the Department of War.
+
+Tharoor’s reaction reflected concerns among some observers that removing "Indo" from the command’s title could be interpreted as a shift in messaging around Washington’s Indo-Pacific strategy and the role of groupings such as the Quad.
+
+However, US officials have maintained that the decision is limited to nomenclature and historical continuity, insisting that the command’s structure, responsibilities and regional commitments remain intact.
+
+Whether the symbolic shift influences regional perceptions or future strategic signalling remains to be seen, but the renaming is likely to continue drawing attention across Indo-Pacific capitals in the weeks ahead.
+
+\- Ends
+
+Jun 17, 2026 10:12 IST
+
+---
+
+### Shiv Sena UTB Crisis LIVE: Poaching Row Deepens, Uddhav Camp Rebel MPs To Meet Speaker Om Birla At 11 AM
+*Vani Mehrotra · general*
+
+Shiv Sena Operation Tiger, Maharashtra Politics Live Updates: Maharashtra political crisis deepens as Raut alleges poaching and UBT moves to block a possible split among MPs.
+
+[Read full article](https://www.news18.com/india/shiv-sena-ubt-crisis-live-updates-operation-tiger-udhhav-thackeray-party-split-rebel-mps-join-nda-maharashtra-politics-eknath-shinde-latest-news-liveblog-ws-l-10154783.html)
+
+---
+
+### Sena UBT MPs offered Rs 15 crore to switch, claims Sanjay Raut amid revolt rumours
+*India Today News Desk · general*
+
+## A late-night claim of a Rs 15 crore offer to MPs has intensified speculation of a major rebellion within Shiv Sena UBT, prompting the party to issue a whip and scramble to contain the crisis.
+
+Sena UBT issues whip as Sanjay Raut claims Rs 15 crore bid to lure MPs.
+
+A late-night allegation by Shiv Sena (UBT) leader Sanjay Raut that Maharashtra MPs were being offered an advance of Rs 15 crore each to switch sides has dramatically escalated the political storm surrounding a possible rebellion within the Uddhav Thackeray-led party.
+
+The claim came as speculation intensified that six to seven of the party's nine Lok Sabha MPs could break away and join the ruling Shiv Sena led by Maharashtra Deputy Chief Minister Eknath Shinde.
+
+In a post on X late Tuesday night, Raut wrote, "Apna sapna money...money! There is information that an advance of Rs 15 crore will be given tonight to buy MPs from Maharashtra. This is shocking and disgusting!"
+
+The allegation surfaced amid mounting concerns within Shiv Sena (UBT) over the loyalty of some of its MPs and reports that several lawmakers were in New Delhi as political activity gathered pace.
+
+### PARTY ISSUES WHIP AMID DEFECTION FEARS
+
+With rumours of a split refusing to die down, Shiv Sena (UBT) issued a whip directing all its MPs to attend a meeting in New Delhi to discuss what sources described as "important issues".
+
+According to party sources, lawmakers who skip the meeting could face disqualification proceedings.
+
+The move mirrors the strategy adopted by the party during the 2022 rebellion led by Eknath Shinde, when 39 MLAs revolted against the Uddhav Thackeray leadership, triggering the collapse of the Maha Vikas Aghadi government and eventually splitting the Shiv Sena.
+
+### SIX TO SEVEN MPS MAY SWITCH: SOURCES
+
+Sources said six to seven MPs of Shiv Sena (UBT) were inclined to join the Shinde-led Shiv Sena, deepening concerns within the Opposition camp.
+
+A leader from the Shinde camp claimed the discontent was linked to a possible expansion of Aditya Thackeray's role within the party.
+
+According to sources, Shiv Sena (UBT) was considering an announcement regarding Aditya Thackeray on June 19, the 60th foundation day of the undivided Shiv Sena. Some MPs were allegedly unhappy with the prospect of his further elevation, the leader claimed.
+
+Sources also said Eknath Shinde was expected to arrive in New Delhi late Tuesday, further fuelling speculation over possible political developments.
+
+### SARNAIK'S REMARKS ADD TO SPECULATION
+
+Adding to the intrigue, Shiv Sena leader and Maharashtra Transport Minister Pratap Sarnaik appeared to leave the door open for disgruntled lawmakers.
+
+"If public representatives like MPs and MLAs do not trust their leadership... If they believe in the ideals of Sena founder Bal Thackeray and are willing to trust the leadership of Eknath Shinde, then the doors of the Shiv Sena are open to them," Sarnaik said.
+
+He added, "We will give them priority if they thought of it (any time) in the future."
+
+His remarks came a day after Shiv Sena (UBT) MP Sanjay Deshmukh met Union minister and Shiv Sena leader Prataprao Jadhav in New Delhi.
+
+Deshmukh had earlier skipped a meeting convened by Uddhav Thackeray at his Mumbai residence on Sunday, citing family reasons. His meeting with Jadhav later fuelled speculation about a possible switch.
+
+### ATTENDANCE AT THACKERAY MEETING RAISES QUESTIONS
+
+The perception of a brewing rebellion strengthened after only four of the party's nine MPs attended Sunday's meeting in person.
+
+Those present physically were Arvind Sawant, Anil Desai, Rajabhau Waje and Sanjay Patil. Omprakash Raje Nimbalkar, Bhausaheb Wakchaure, Nagesh Bapurao Patil Ashtikar and Sanjay Deshmukh joined online, while MP Sanjay Jadhav reportedly spoke to Thackeray over the phone.
+
+Raut insisted the absence of some MPs should not be interpreted as a sign of rebellion.
+
+He said all the MPs had reaffirmed their loyalty to Uddhav Thackeray and the party.
+
+"They swore in the name of their mother, children, Saibaba and Goddess Tuljabhavani that they will not abandon party chief Uddhav Thackeray," Raut said.
+
+### RAUT DISMISSES SPLIT TALK
+
+Rejecting reports of an imminent breakaway, Raut maintained that all MPs remained united.
+
+"All Shiv Sena (UBT) MPs are together and will remain together," he told reporters in the Parliament House complex in New Delhi.
+
+Asked whether he had travelled to the national capital to meet Lok Sabha Speaker Om Birla amid reports that some MPs might form a separate group on the lines of the Trinamool Congress rebels, Raut dismissed the suggestion.
+
+"The (undivided) Shiv Sena has a legacy of 60 years and has a history of agitating for different causes. We have seen many ups and downs in the past. But ours is a cadre-based party. MLAs and MPs come and go, but the party remains," he said.
+
+Raut also attacked the BJP, accusing it of engineering splits in opposition parties and calling the practice harmful for the country's political health.
+
+"Hamara din jab aayega, hum dikhayenge party kaise todi jata hai," he said.
+
+### DESAI SAYS ALL MPS REMAIN WITH PARTY
+
+Echoing Raut's position, Lok Sabha MP Anil Desai rejected claims that a section of the parliamentary party was preparing to break away.
+
+"There is no such thing. A series of meetings have been conducted by Uddhav Thackrey ji in the last one-and-a-half years, and everyone attended," he said.
+
+"In the last meeting, four of us were there in person while five of them were on video conferencing. They could not come to Matoshree in Mumbai because they had their individual engagements, which were fixed much earlier."
+
+Even as the leadership attempts to project unity, the combination of a party whip, reports of MPs camping in New Delhi, Shinde's expected visit to the capital and Raut's explosive 15 crore allegation has ensured that questions about the stability of Shiv Sena (UBT) remain firmly at the centre of Maharashtra politics.
+
+\- Ends
+
+Sonali Verma
+
+Jun 17, 2026 10:07 IST
+
+---
+
+### Corruption claims against Karnataka Congress MLA casts shadow over cabinet hopes
+*Nagarjun Dwarakanath · general*
+
+## The complaint comes at a time when Mahadevappa is being discussed as a potential entrant in the Karnataka cabinet expansion expected before the end of June. The Congress leader, considered close to former chief minister Siddaramaiah, has been among the names mentioned for a ministerial berth.
+
+Corruption complaint against Congress MLA HC Mahadevappa sent to Karnataka Governor (Photo: X/HC Mahadevappa)
+
+A Bengaluru resident has submitted a complaint to Karnataka Governor Thaawarchand Gehlot seeking an independent probe into alleged corruption and irregularities involving Congress MLA and former Social Welfare Minister HC Mahadevappa.
+
+The complaint alleges misuse of welfare funds, manipulation of tenders issued by the Karnataka Residential Educational Institutions Society (KREIS), fabrication of records and abuse of official position during Mahadevappa's tenure as a minister.
+
+According to the representation, the Governor has been urged to order a time-bound investigation into the award of several high-value tenders and verify the authenticity of documents submitted by contractors. The complainant has also sought action against those found responsible and called for Mahadevappa's disqualification from the Legislative Assembly if the allegations are established.
+
+The development comes at a politically sensitive time, with Mahadevappa considered a contender for a berth in the Karnataka cabinet expansion expected before the end of the month.
+
+The complaint has surfaced amid intense lobbying within the ruling Congress ahead of the cabinet reshuffle. Karnataka BJP president BY Vijayendra recently alleged that competition for ministerial positions had triggered a fresh round of factional politics within the party.
+
+Speaking to India Today on Friday, Vijayendra criticised the Congress government, claiming the past three years had been consumed by internal power struggles. He alleged that newly appointed Chief Minister DK Shivakumar would spend much of the remaining term focused on retaining his position rather than governance.
+
+The BJP leader also claimed that several Congress legislators were camping in Delhi in pursuit of ministerial berths and alleged that Shivakumar was attempting to keep leaders associated with former chief minister Siddaramaiah's camp, including Mahadevappa and BZ Zameer Ahmed Khan, out of the cabinet.
+
+Earlier, Dalit organisations staged protests at Freedom Park in Bengaluru demanding that Mahadevappa, a senior Dalit leader and former minister, be included in the new cabinet.
+
+Neither Mahadevappa nor the Congress has publicly responded to the allegations contained in the complaint. The allegations remain unverified, and no findings have been made by any investigating agency.
+
+\- Ends
+
+Priyanka Kumari
+
+Jun 17, 2026 10:03 IST
+
+---
+
+### The Delhi Flight Plan: Tracking The Rebel Uddhav Sena MPs At Centre Of Fresh Defection Buzz
+*Apoorva Misra · general*
+
+Four years after Eknath Shinde's rebellion redrew Maharashtra’s political map, the question confronting Uddhav is a familiar one: is yet another breakaway faction taking shape?
+
+[Read full article](https://www.news18.com/india/the-delhi-flight-plan-tracking-the-6-uddhav-sena-mps-who-have-sparked-fresh-defection-buzz-ws-l-10154809.html)
+
+---
+
+### India’s Annual Defence Production Surges To All-Time High Of Rs 1.78 Lakh Crore: Rajnath Singh
+*Shuddhanta Patra · general*
+
+India's defence production hit a record Rs 1.78 lakh crore in FY2025-26.
+
+[Read full article](https://www.news18.com/india/indias-annual-defence-production-surges-to-all-time-high-of-rs-1-78-lakh-crore-rajnath-singh-ws-l-10154867.html)
+
+---
+
+### IAF launches project to produce indigenous long-range kamikaze drones
+*SECTIONS IAF launches project · business*
+
+The Indian Air Force (IAF) has launched a major project to jointly develop long-range kamikaze drones with domestic partners, aimed at strengthening preparedness for drone-centric warfare in the future. The initiative is focused on building a fully indigenous ecosystem for the design, development, manufacturing and sustainment of one-way attack unmanned aerial systems (OWA-UAS), according to Chaitanya Marpakwar's Times of India report.
+
+Under the programme, the IAF has issued a limited tender inviting Indian companies to participate in the development of these self-sacrificing unmanned aerial vehicles, which are designed to fly to target areas, identify enemy positions and detonate on impact. The tender calls for “invitation of bids for indigenous design, development, setting up of manufacturing facilities and training for unmanned aerial systems”.
+
+  
+
+To promote self-reliance (Atmanirbharta) in defence production, the project will be handled by the 5 Base Repair Depot (BRD) at Sulur near Coimbatore in Tamil Nadu, which has been designated as the nodal agency. The platforms are to be designed, developed and manufactured entirely in India with the help of domestic companies and startups.
+
+As per specifications, the IAF will retain Intellectual Property Rights (IPR) of the drone system. The kamikaze drones are expected to operate up to 16,000 feet and function in both day and night conditions, enabling faster upgrades, modifications and operational customisation as per requirements.
+
+Defence Minister Rajnath Singh recently said recent global conflicts are proof that drones and counter-drone technologies will play a decisive role in future warfare, making self-reliance in this domain essential.
+
+Meanwhile, the defence ministry has received 10 bids from Indian private and public sector firms for a ₹30,000 crore programme to procure 87 medium-altitude long-endurance unmanned aerial vehicles for the IAF. The bids were submitted on the last day of the tender process. The project, cleared last year, aims to equip the force with drones for surveillance, reconnaissance and strike capabilities.
+
+**_(With TOI inputs)_**
+
+---
+
+### India’s defence output more than doubles in five years, hits record Rs 1.78 lakh crore
+*SECTIONS India’s defence output more than doubles · business*
+
+India's annual defence production rose to an all-time high of Rs 1.78 lakh crore in the financial year 2025-26, more than doubling in five years as the government's push for self-reliance in military manufacturing gathered pace.
+
+The record output marks a 15.6 per cent increase from Rs 1.54 lakh crore in FY 2024-25 and a 110 per cent jump from Rs 84,643 crore in FY 2020-21, according to the Ministry of Defence (MoD). Indigenous defence production has nearly quadrupled from Rs 43,746 crore in FY 2013-14, underscoring the rapid expansion of domestic manufacturing capabilities.
+
+Defence Minister Rajnath Singh hailed the milestone, crediting Prime Minister Narendra Modi's leadership and the efforts of stakeholders across the sector.
+
+  
+
+"Under the inspiring leadership of PM Shri @narendramodi, India's defence production is reaching new heights every year. I am delighted to inform everyone that India's annual defence production has surged to an all-time high of Rs 1.78 lakh crore in the Financial Year (FY) 2025-26," Singh said in a post on X.
+
+> — rajnathsingh (@rajnathsingh)
+
+  
+
+The ministry said Defence Public Sector Undertakings (DPSUs) and other public sector units accounted for around 76 per cent of the total production during FY26, while the private sector contributed 24 per cent. The private sector's share increased from 22 per cent in the previous fiscal and touched an all-time high of nearly Rs 42,000 crore, reflecting its growing role in the country's defence manufacturing ecosystem.
+
+The surge in domestic production also translated into record defence exports. India exported military equipment worth Rs 38,424 crore during FY26, the highest ever, the ministry said.
+
+Calling the rise in output an indicator of India's expanding defence industrial base, Singh said the achievement was the result of the "collective efforts of the Department of Defence Production and all other stakeholders".
+
+He added that sustained policy support, new initiatives, increasing private sector participation and rising export capabilities would continue to accelerate growth in the sector.
+
+
+---
+
 ## 16 June 2026
 
 ### Kavach rollout approved across 1,409 km in Ambala and Ahmedabad divisions
