@@ -1,3 +1,904 @@
+## 18 June 2026
+
+### 7 ways to reuse old pillow covers - Turn Them Into Reusable Vegetable Storage Bags
+*Istock · business*
+
+Jun 18, 2026, 10:27:57 AM IST
+
+1/7
+
+## Turn Them Into Reusable Vegetable Storage Bags
+
+Instead of storing onions, garlic, potatoes, or ginger in plastic bags, use old cotton pillow covers. The fabric allows better airflow, helping vegetables stay fresh for longer while keeping your kitchen organized.  
+
+iStock
+
+2/7
+
+## Use Them As Dust Covers For Appliances
+
+Got an old mixer, sewing machine, water purifier, or microwave that gathers dust? An unused pillow cover can work as a ready-made dust cover and protect appliances when they're not in use.  
+
+iStock
+
+3/7
+
+## Create A Laundry Bag For Delicate Clothes
+
+Old pillow covers make excellent laundry bags for handkerchiefs, socks, baby clothes, or delicate garments. Simply tie the open end before putting it into the washing machine.  
+
+iStock
+
+4/7
+
+## Make A Travel Shoe Pouch
+
+Packing shoes directly inside suitcases can dirty clothes. Old pillow covers can be reused as travel shoe bags, helping keep footwear separate and luggage cleaner during trips.  
+
+iStock
+
+6/7
+
+## Use Them For Garden Compost Collection
+
+If you compost kitchen waste at home, old pillow covers can be used to collect dry leaves, garden waste, or compost materials. The breathable fabric helps prevent moisture buildup while storing organic waste.  
+
+iStock
+
+7/7
+
+## Make A DIY Car Dusting & Cleaning Kit
+
+Keep an old pillow cover in your car and use it to store cleaning essentials like a microfiber cloth, dashboard wipes, or a small brush. The fabric itself can also be cut into dusting cloths for cleaning mirrors, windows, fans, and furniture around the house.  
+
+iStock
+
+---
+
+### Psychology explains why intelligent, confident people often stay silent in groups, and how that silence can create the illusion that everyone agrees
+*Unknown · world*
+
+A meeting is wrapping up at work. A new proposal is presented, and one by one, everyone around the table expresses support. You have reservations. In fact, you can already see several problems with the plan. Yet when your turn comes, you simply nod and move on.
+
+Hours later, you wonder why you didn't say anything.
+
+Most people assume silence means agreement. Psychology suggests otherwise. Researchers who study group behavior, social influence, and public opinion have long observed that individuals often suppress their true beliefs when they think they are in the minority. This tendency can occur in workplaces, classrooms, friendships, online communities, and even entire societies.
+
+  
+
+Known as the Spiral of Silence, the phenomenon was first proposed by German political scientist Elisabeth Noelle-Neumann, who argued that people's willingness to express opinions is strongly influenced by their perception of what others think.
+
+The theory suggests that the fear of social isolation can be so powerful that many people choose silence over disagreement, even when they believe they are right.
+
+At the center of the Spiral of Silence is a basic human need: belonging.
+
+Psychological research has consistently shown that social acceptance is deeply important to human well-being. Studies on social exclusion have found that rejection can trigger emotional responses similar to physical pain.
+
+Noelle-Neumann argued that people continuously scan their social environment to determine which opinions appear popular and which do not. When individuals believe their views align with the majority, they tend to express them confidently. When they perceive themselves to be in the minority, they often become more cautious and less willing to speak publicly.
+
+The result is not necessarily dishonesty. More often, it is a protective response designed to avoid criticism, conflict, or exclusion.
+
+## Silence can create the illusion that everyone agrees
+
+One of the most important insights of the theory is that public opinion and perceived public opinion are not always the same thing.
+
+When people with minority viewpoints remain silent, their opinions become less visible. Others observing the situation may conclude that nearly everyone supports the dominant position. This perception then encourages even more people to withhold dissenting views, creating a self-reinforcing cycle.
+
+Communication researchers have found that this process can significantly influence public discussions. The more silent people become, the stronger the appearance of consensus grows. Over time, viewpoints that may actually be widespread can seem rare simply because few people are willing to express them openly.
+
+The spiral becomes powerful not because opinions disappear, but because they become invisible.
+
+## Social media may have intensified the spiral
+
+Although the theory was developed in the 1970s, many scholars believe its relevance has increased in the digital age.
+
+Social media platforms provide constant feedback about which opinions receive approval and which attract criticism. Likes, comments, shares, and trending topics can create the impression that certain viewpoints are overwhelmingly dominant. Research published in communication journals has found that users are often less likely to share opinions when they expect backlash from their online networks.
+
+Ironically, platforms designed to amplify voices can sometimes make individuals more hesitant to speak.
+
+## The consequences extend far beyond opinions
+
+The Spiral of Silence is often discussed in politics, but its effects appear in many areas of everyday life.
+
+Employees may avoid challenging a flawed workplace decision because everyone else appears supportive. Students may hesitate to question a classroom consensus. Friends may agree to activities they dislike simply because nobody wants to be the first person to object.
+
+Research on conformity, including the famous experiments conducted by psychologist Solomon Asch, has repeatedly shown that group pressure can influence behavior even when individuals privately disagree with the group.
+
+While these situations may seem minor, the same psychological forces can affect more serious decisions involving ethics, personal boundaries, and risky behavior.
+
+---
+
+### Delhi Police Bust Major Inter-State Infant Trafficking Syndicate, 12 Held
+*Meemansa Shekhawat · general*
+
+The Delhi Police has busted an inter state infant trafficking syndicate, arresting 12 accused from Rajasthan and Delhi. An investigation remains underway
+
+[Read full article](https://www.news18.com/cities/new-delhi-news/delhi-police-bust-major-inter-state-infant-trafficking-syndicate-12-held-ws-l-10157373.html)
+
+---
+
+### Baby trafficking gang arrested by Delhi Police, several newborns rescued including a five day old infant
+*Trending Desk · business*
+
+Delhi Police have dismantled a kids trafficking network involved in the illegal sale and purchase of newborn babies, arresting 12 people, including the suspected mastermind, a woman who allegedly posed as a doctor, reports ANI.
+
+According to police sources, the woman runs a nursing home and claimed to be a medical practitioner. Authorities are verifying her educational and professional qualifications and have not yet confirmed whether she is a licensed doctor.
+
+  
+
+## Infants allegedly sold for lakhs after records manipulated
+
+Investigators suspect the syndicate sourced newborn babies from multiple states, altered birth records and 
+
+  
+
+Police have rescued five newborns during the operation. The infants include one four-month-old baby, two aged 27 days, one aged 20 days, and another just five days old.
+
+## Arrests made in Delhi and Rajasthan
+
+The accused were apprehended in Delhi and Rajasthan. Preliminary findings indicate that some of the infants were allegedly sold in Haryana.
+
+Police sources said evidence gathered so far suggests that more than 20 newborn babies may have been trafficked through the network.
+
+Further investigation is underway.
+
+## UP Police recently busted separate child trafficking gang
+
+In a separate case on June 2, Uttar Pradesh Police rescued a 17-year-old child who had been missing for several days and uncovered an alleged child trafficking gang in Hapur district.
+
+Speaking to ANI, DSP Varun Mishra said four people had been arrested as part of the investigation launched to trace the missing child.
+
+Mishra said a teenager aged around 14 to 15 had gone missing a few days earlier, prompting a search operation. The investigation subsequently revealed the existence of a child trafficking gang allegedly linked to the disappearance.
+
+He said four accused from different districts were arrested and a 17-year-old child was rescued from their custody. According to Mishra, the group targeted children of various age groups.
+
+---
+
+### ‘A hill I will die on’: Foreigner woman shares honest India experience after travelling solo for a month; watch video
+*Trending Desk · business*
+
+A traveller named Paige shared a video from the mountains during her journey across India, describing Indians as the "most hospitable" people she has ever met. Reflecting on her experiences, she highlighted several heartfelt moments that left a lasting impression.
+
+  
+
+  
+
+## Late-Night Arrival in Delhi
+
+She recalled an incident when her flight to Delhi arrived late at night, and the road leading to her hotel was closed to vehicles. Her Uber driver went the extra mile, parking as close as possible and then walking her to the hotel to ensure her safety.
+
+"A complete stranger making sure I got there safely," she said in the video, appreciating the driver’s kindness.
+
+## Small Acts of Kindness
+
+Another moment that stood out to her took place at a pharmacy. Since the cashier didn’t have exact change, he offered her a hand sanitiser for free instead.
+
+"There was the lady who walked me to my bus station when I was lost. The man from the local restaurant who offered me a ride on his scooter when I got stuck in the rain. The old lady who gave me a plate of pakora simply because I 'must try!'" she wrote in the video's caption, adding more examples of generosity.
+
+  
+
+## A Memorable Solo Journey
+
+Paige shared that these were only a few of the many kind gestures she experienced during her month-long trip in India. She admitted feeling nervous about travelling alone as a solo female traveller but said her concerns quickly disappeared.
+
+"These are just a few of the many incredible acts of kindness I've experienced travelling in India over the past month. Honestly, I was nervous coming back entirely on my own as a solo female traveller, but I couldn't have felt more welcome."
+
+## Falling in Love with India
+
+She further observed that people in India consistently go out of their way to help others, which deeply touched her. "...it's one of the many reasons I've fallen in love with this country," she said.
+
+## Social Media Reactions
+
+Her video received warm responses online, with many users echoing her sentiments.
+
+"Thanks for the positive reviews about Indians. I wish this reaches the world. Bad stuff and prejudices spread like wildfire. I wish good stuff would spread too," one user wrote.
+
+"Enjoy your trip," another user stated.
+
+**Disclaimer:** This article is based on a user-generated post on Instagram. ET.com has not independently verified the claims made in the post and does not vouch for their accuracy. The views expressed are those of the individual and do not necessarily reflect the views of ET.com_._ **Reader discretion is advised.**
+
+---
+
+### US Trade Representative To Visit India Next Week As Trade Talks Gain Momentum
+*Anushka Vats · general*
+
+Greer's visit comes at a time when India is engaging with the United States over proposed tariff measures under Section 301 proceedings.
+
+[Read full article](https://www.news18.com/india/us-trade-representative-to-visit-india-next-week-as-trade-talks-gain-momentum-ws-l-10157410.html)
+
+---
+
+### Taiwan's Lai says defending democracy is not a provocation against China
+*Reuters · business*
+
+Taipei: Taiwan safeguarding its own security and refusing rule by China's Communist ​Party should not be seen as a ​provocation, President Lai Ching-te said on Thursday, adding he hoped a new U.S. ​arms sale package can be approved soon.
+
+Democratically governed Taiwan is viewed by China as its own territory and Beijing has stepped up military and diplomatic pressure against the island.
+
+  
+
+Speaking to the Taiwan Foreign Correspondents' Club in Taipei, Lai reiterated his desire for ‌talks based on "parity ⁠and respect" ⁠with China, but said Taiwan had a right to protect its interests and that only the Taiwanese people can decide their future.
+
+"Taiwan's safeguarding ​of its own national security and maintaining its democratic and free way of life, its refusal to accept unification, and ​its refusal to accept rule by the Chinese Communist Party should not be seen as a provocation against China," he added.
+
+China calls Lai a separatist and has rebuffed his multiple offers of dialogue.
+
+China's military is extending ​into the Western Pacific, and its various forms of coercion continue to ⁠intensify, Lai ‌said.
+
+"It is clear that China is the main driving force changing the status quo ​in the Taiwan ​Strait and affecting regional peace and stability."
+
+Neither China's Taiwan Affairs Office nor Foreign ⁠Ministry immediately responded to requests for comment.
+
+## ARMS SALES
+
+Taiwan has also been unnerved ​by comments last month from U.S. President Donald Trump after he met China's ​Xi Jinping in Beijing that he was still considering whether to approve new arms sales for Taiwan, saying they were "a very good negotiating chip" with China.
+
+Lai said the U.S. security commitment to Taiwan has not changed.
+
+"The key is that Taiwan must not change course in strengthening its own defence capabilities, nor can it slow its pace," he said.
+
+"We will continue to maintain close communication with the U.S. government, and we also hope ‌the arms purchases can be approved as soon as possible."
+
+Lai has championed increased defence spending, in line with calls from Trump for allies to spend more on their military.
+
+However, ​last month Taiwan's ​opposition dominated parliament only approved two-thirds ⁠of the $40 billion supplementary defence budget Lai had proposed, cutting the part that had been meant for drones and domestically produced weapons.
+
+On Thursday, Taiwan's defence ministry said it was proposing another special defence package worth T$210 ​billion ($6.66 billion) for surveillance, coastal attack and small unmanned surface drones.
+
+Lai said China should renounce the use of force, and that Taiwan's weapons purchases send an important message to the world that it is willing to defend itself.
+
+Taiwan "is willing to safeguard its own national security, and is also willing to share collective defence responsibilities with the international community, in order to create a deterrent effect and achieve regional peace and stability".
+
+---
+
+### Delhi Water Shortage: Week's wait for a single tanker; Residents say crisis is affecting their jobs
+*SECTIONS Delhi Water Shortage Week's wait · business*
+
+As Delhi continues to reel under intense summer heat, several areas in the Patel Nagar Assembly constituency are facing a severe water crisis, forcing residents to queue for hours and depend on water tankers for their daily needs.
+
+Neighbourhoods such as Baljit Nagar, Nehru Nagar, Gulshan Chowk, Holi Chowk and Punjabi Basti are among the worst affected. Residents say that despite the installation of water pipelines, many households are still not receiving a regular piped water supply.
+
+For thousands of families living in these localities, securing drinking water has become a daily challenge. Locals claim they often spend hours waiting for water tankers, which arrive only occasionally. The limited supply frequently leads to overcrowding and arguments as residents rush to collect water.
+
+  
+
+According to ANI, residents expressed frustration over what they described as a long-standing problem. "This has been our reality for years. The administration sends a tanker only once a week. In this scorching heat, how can a large family survive on such a limited supply?" a resident told ANI.
+
+## Workers forced to miss jobs due to water shortage  
+
+The water shortage is also affecting the livelihoods of many working-class families and migrant workers living in the area. Residents say they are often forced to take time off work to collect water whenever tankers arrive.
+
+Pushpa, who recently moved to Delhi with her husband, said the situation has put additional financial pressure on her family. Speaking to ANI, she said, "We came to a big city like Delhi to earn a living and feed our family. But the water situation is so bad that we often have to take unpaid leave from our jobs just to stand in line and fill our buckets. When the tanker doesn't come, or the water falls short, we are forced to spend our hard-earned money to buy water from private sellers."
+
+  
+
+## Residents seek permanent solution  
+
+Many residents said the weekly tanker supply is not enough, especially for large families. They have urged the authorities to ensure a regular water supply and find a long-term solution to the recurring crisis.
+
+With temperatures remaining high across the national capital, families in the affected parts of Patel Nagar continue to struggle for access to water, hoping civic authorities will address the issue before conditions worsen further.
+
+_Inputs from ANI_
+
+---
+
+### WhatsApp courts to parking wars: Bengaluru woman’s post nails housing society life
+*India Today Trending Desk · general*
+
+## A Bengaluru resident's humorous post likening apartment complexes to sovereign nations went viral on social media. The reactions turned the joke into a broader discussion about how RWAs wield power in gated communities.
+
+A Bengaluru woman's post describing housing societies is too apt to miss. (Photo: AI-generated)
+
+If you've ever muted your society WhatsApp group after a heated argument over parking slots or pet rules, a Bengaluru woman's viral post may feel uncomfortably familiar.
+
+Comparing modern Indian housing societies to fully functioning nations, she has sparked laughter, and a surprisingly serious conversation, about the politics of gated communities.
+
+The post, shared by Bengaluru resident Dipika Jaikishan, humorously argued that apartment complexes have evolved far beyond being mere residential spaces.
+
+"At this point, Indian apartment complexes aren't residential communities. They're sovereign nations," she wrote.
+
+According to Dipika, these societies now come complete with their own political ecosystems. "They have their own government, opposition parties, bureaucracy, law enforcement, and a Parliament that meets exclusively on WhatsApp."
+
+Her tongue-in-cheek observation resonated with countless residents who have witnessed the often intense workings of Resident Welfare Associations (RWAs). Taking the analogy further, she joked that apartment politics can be just as dramatic as national politics.
+
+"There are elections. There is campaigning. There are factions. There are lifelong political rivalries that began over visitor parking in 2019."
+
+One of the most widely shared lines from her post poked fun at the visibility of housing society leaders. "The RWA President has more visibility than some MLAs."
+
+She also highlighted how residents who rarely participate in larger democratic processes often become deeply invested in society elections.
+
+"People who haven't voted in a state election in years will spend three weeks passionately debating the position of Treasurer."
+
+The post then turned to the endless list of issues that can trigger fierce debates in apartment communities.
+
+**See the post here:**
+
+> At this point, Indian apartment complexes aren't residential communities.
+> 
+> They're sovereign nations.
+> 
+> They have their own government, opposition parties, bureaucracy, law enforcement, and a Parliament that meets exclusively on WhatsApp.
+> 
+> There are elections. There is— Dipika Jaikishan (@dipikajaikishan) June 17, 2026
+
+"Every issue becomes a constitutional crisis. Dogs. Parking. Fire exits. GAIL gas lines. Swimming pool timings."
+
+According to Dipika, the intensity of these discussions can sometimes feel disproportionate. "The intensity suggests we're negotiating a peace treaty rather than discussing maintenance charges."
+
+She concluded with a line that many social media users found both funny and surprisingly accurate: "Honestly, the spirit of democracy is alive and well. It just moved into gated communities."
+
+The post quickly struck a chord online. "True India is seen in two spots. RWA WhatsApp groups. WhatsApp status updates. Everything else is posturing," one user commented. Another joked, "New version of Panchayati Raj, carrying on our glorious traditions."
+
+While the post was clearly written in jest, it has also reignited discussions about the growing influence of RWAs and whether community governance sometimes crosses the line into overregulation.
+
+\- Ends
+
+Srimoyee Chowdhury
+
+Jun 18, 2026 10:12 IST
+
+---
+
+### India monsoon starts almost 40% short as El Niño upends weather
+*SECTIONS India monsoon starts almost · general*
+
+India’s monsoon has had an unusually weak start and the lackluster rainfall is likely to persist, threatening crops and industrial activity as the El Niño weather phenomenon takes hold.
+
+Nationwide monsoon rainfall was nearly 40% below normal as of Wednesday, according to the latest data from the India Meteorological Department. The season runs from June through September and is responsible for the bulk of the country’s annual rainfall. The poor start is hampering the growing season for staples from rice to soybeans, as well as disrupting key sectors like construction.
+
+  
+
+“We do not currently see a signal strong enough to recover the existing national rainfall deficit back toward normal,” said Takahisa Nishikawa, senior decision support meteorologist at Atmospheric G2. “The expected improvement looks more like a temporary or regional pickup rather than a full-scale normalization of the monsoon.”
+
+Monsoonal rains that sweep across India are crucial for the country’s agriculture and energy industries. The country is one of the world’s largest producers of rice, sugar and cotton, and farmers depend on the seasonal deluges to irrigate their fields. Poor harvests raise the risk that authorities could impose export restrictions.
+
+Mumbai’s water authority also recently suspended supplies to construction sites, the first such intervention in 12 years on developers. The agency has reduced distribution to business, factories and sports clubs stopped supplying to swimming pools.
+
+There may be slight improvements to rainfall next week, helped by moist southwesterly winds that will allow the monsoon to continue advancing north into early July, but broader conditions remain unfavorable beyond that period, Nishikawa said.
+
+Farmers are in the midst of the biggest planting period of the year, and crop conditions have time to recover if rains pick up soon. Still, official forecasts point toward the weakest monsoon in more than a decade.
+
+“The developing strong El Niño is a key driver, as it raises the risk of a weaker and more uneven Indian monsoon,” Keatinge said.
+
+---
+
+### 'Stop playing with national security': Schumer lays into Trump for tying SAVE America Act to FISA
+*ET Online · world*
+
+Senate Democratic Leader Chuck Schumer (D-NY) spoke on the Senate floor slamming President Trump for jeopardizing America’s national security by trying to tie the SAVE America Act to the FISA reauthorization and keeping Acting Director of National Intelligence Bill Pulte in his role and abruptly wit...
+
+[Read full article](https://economictimes.indiatimes.com/news/international/world-news/stop-playing-with-national-security-schumer-lays-into-trump-for-tying-save-america-act-to-fisa/videoshow/131817474.cms)
+
+---
+
+### LIC won’t sell stake in NSE IPO OFS, betting on exchange's long-term potential
+*Akash Podishetti · finance*
+
+Synopsis
+
+Life Insurance Corporation of India will not sell its stake in the National Stock Exchange's IPO. LIC holds a significant 10.7% stake in NSE. The insurer believes NSE has long-term value creation potential. This decision aligns with LIC's strategy of building substantial stakes in major Indian companies. NSE's growth and market dominance support LIC's long-term investment view.
+
+Listen to this article in summarized format
+
+ETMarkets.com
+
+Life Insurance Corporation of India (LIC) will not be selling any part of its stake in the National Stock Exchange (NSE) as part of the exchange's initial public offering, choosing instead to hold on to one of the most valuable holdings in its portfolio as NSE moves towards a public listing.
+
+LIC holds a 10.7% stake in NSE, translating into about 26.5 crore shares. The holding is significant enough that, despite NSE being an unlisted entity, it ranks among LIC's top six most valuable investments as of the March 2025 quarter.
+
+The insurer's decision to stay out of the offer for sale suggests it is betting on further value creation in the exchange well beyond the listing itself, rather than using the IPO as an exit opportunity the way several private equity and venture capital investors in the offer are doing.
+
+LIC's continued backing of NSE fits into a broader pattern for India's largest institutional investor, which has steadily built significant stakes across some of the country's biggest companies as part of its portfolio diversification strategy.
+
+The insurer's exposure to NSE stands out precisely because it has been built in the unlisted space, a relatively unusual position for LIC, whose portfolio is typically dominated by listed blue-chip names.
+
+NSE IPO: 10 key things investors need to know about India’s largest IPO in history
+
+NSE itself has used its DRHP to lay out the scale of the operations LIC is staying invested in. The exchange said its operations are supported by proprietary technology infrastructure that is resilient and secure, supporting high-speed and high-frequency transactions while ensuring seamless market operations, comprehensive market data dissemination, and rapid implementation of regulatory directives.
+
+The exchange has also positioned itself as having played a pivotal role in transforming India's capital markets by democratising access and enabling efficient capital flows through a transparent, technology-driven ecosystem.
+
+That expansion shows up starkly in its investor base, which grew at a compounded annual rate of 26.9%, from 3.087 crore unique registered investors as of March 2020 to 12.91 crore as of March 2026. In FY2026 alone, the exchange facilitated total fund mobilisation of Rs 20.3 lakh crore through its platform, with investors now spread across more than 99% of India's postal codes as of March 2026.
+
+That reach highlights why NSE commands a near-total share of trading volumes across India's two most actively traded asset classes, a position that has made it one of the most closely watched unlisted names on Dalal Street for years.
+
+For an investor like LIC, analysts say holding on to a stake in a business with that kind of structural dominance, rather than booking gains at listing, points to a conviction that the bulk of the value creation from NSE's scale and market position is still ahead of it.
+
+Analysts believe the NSE IPO could become one of the biggest capital market events in recent years and help revive investor interest in new listings, a dynamic that would only reinforce the case for long-term holders such as LIC to stay invested through the listing rather than around it.
+
+_(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of Economic Times)_
+
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+...moreless
+
+_(You can now subscribe to our ETMarkets WhatsApp channel)  
+_
+
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+...moreless
+
+---
+
+### 7 killed after car plunges into a gorge in Himachal Pradesh's Chamba
+*India Today News Desk · general*
+
+## According to information, all seven occupants of the vehicle died on the spot. The victims include six passengers — three women and three men — along with the driver.
+
+The victims were killed on the spot after the car plunged off the gorge.
+
+Seven people were killed after an SUV plunged into a deep gorge in Himachal Pradesh's Chamba district, officials said.
+
+The accident took place near Chhatrund on the Masrund-Hamal route when the driver of the Mahindra Bolero reportedly lost control and fell into a deep gorge.
+
+According to information, all seven occupants of the vehicle died on the spot. The victims include six passengers — three women and three men — along with the driver.
+
+The victims were returning home after attending a religious ceremony when the accident occurred.
+
+Following the incident, police personnel, district administration officials and local residents rushed to the spot and launched relief and rescue operations.
+
+The bodies were retrieved from the gorge and a probe is underway to ascertain what led to the accident.
+
+\- Ends
+
+Jun 18, 2026 10:04 IST
+
+---
+
+### Thailand revives $30 billion coast-to-coast corridor to rival Malacca Strait
+*SECTIONS Thailand revives · world*
+
+Chaiyaporn Arunrasamee hunched over his fishing nets, overlooking the waters of the Andaman Sea, where Thailand's government is proposing an ambitious "Land Bridge" that will ferry goods between ports on opposite sides of the peninsula.
+
+"Personally, I don't want it to happen at all," Chaiyaporn said of the project, which Thai Prime Minister Anutin Charnvirakul has resuscitated after the war in Iran and the closure of the Hormuz Strait highlighted countries' reliance on strategic maritime chokepoints.
+
+Plans envision a 1 trillion baht ($30.45 billion) logistics corridor to offer an alternative route to the congested Strait of Malacca by connecting two new deep-sea ports: Chumphon, on the Gulf of Thailand to the east, and Ranong, along the western Andaman coast, where Chaiyaporn, 50, has fished for his entire life.
+
+  
+
+"This thing will be located in the area where we make our living," he said last month in the small fishing hamlet of Baan Hat Sai Dam on an island ringed by mangrove forests. "Where will we go?"
+
+Reuters crisscrossed the land and communities in the path of the proposed Land Bridge and interviewed more than 15 residents, local officials, experts, planning leaders and others ‌involved or affected by the process.
+
+The ⁠interviews, as well ⁠as government documents reviewed by Reuters, reveal previously unpublished details of a project with promises of savings and speedy shipments, but hampered by complicated logistics, local opposition and a staggering cost that has yet to attract major investors.
+
+Analysts say the project currently appears economically ambitious and is unlikely to compete with Malacca as a global transit ​route, but it could prove viable as a smaller-scale strategic corridor for Thailand.
+
+The 900-km (550-mile) long Malacca Strait is bounded by Indonesia, Thailand, Malaysia and Singapore and provides the shortest sea route from East Asia to the Middle East and Europe.
+
+"The land bridge may ultimately...emerge as a modular national security asset aimed at securing local energy routes and boosting Thailand's own western export capabilities," said Eugene Mark at Singapore's ISEAS-Yusof Ishak Institute.
+
+## Alternative to Malacca
+
+An internal government presentation seen by Reuters says the proposed corridor could reduce logistics costs by nearly 30% and cut transit times by up to 14 days for cargo moving between southern China and ports in the Indian Ocean serving South Asia and the Middle East.
+
+At the core of the project is a standard-gauge railway across the 90 km (56 miles) between ​the two deep-sea ports, which will be capable of handling up to 20 million Twenty-foot Equivalent Unit (TEU) a year, according to the presentation.
+
+One TEU represents the volume of ⁠a single, ‌standardized 20-foot shipping container.
+
+Another meter-gauge rail line will link the cargo flow to the existing national railway network. The corridor would also be supported by multi-lane highways and local roads, all integrated with Thailand's broader ​transport network.
+
+About 80% of all container traffic ​handled at major regional ports along the Malacca Strait, including Singapore, consists of trans-shipment cargo waiting to be transferred between vessels rather than goods destined for local markets, according to Thai estimates.
+
+"We want ⁠to capture some of this 80% market, particularly the feeder segment," said Jiraroth Sukolrat, Director-General of Thailand's Office of Transport and Traffic Policy and Planning, referring to freight ships with 12,000 TEU capacity or lower.
+
+Overall, feeder-to-feeder cargo movements from the Gulf of Thailand to the Andaman Sea - or vice versa - could ​be around 10% cheaper and six days faster than comparable routes through Singapore, largely because of lower congestion, according to the internal government presentation.
+
+"We are not targeting giant mainline vessels," Jiraroth said.
+
+### Diplomatic balancing act
+
+A Thai government-appointed panel, currently reviewing the projects and its previous impact assessment reports, is due to submit its findings before the end of July.
+
+The Land Bridge plan, first floated around 2020, is a successor to a series of infrastructure schemes pursued by Thai governments over two decades that did not materialise due to shifting policies and lack of continued investment support.
+
+Unlike earlier iterations, the current version of the project excludes petrochemical complexes and oil refineries, focusing instead on ports, railways and light industries.
+
+"The concept hasn't really changed. What has changed is the packaging," said Wipawadee Panyangnoi, an independent researcher who wrote her doctoral dissertation on the Land Bridge proposal.
+
+"In the past they openly talked about industrial estates and petrochemicals, which people opposed. Today the project is framed as transport infrastructure and logistics because that language is easier for the public to accept."
+
+The government ‌faces an uphill effort to convince cargo liners to bear the financial and time costs of unloading, moving goods overland, and reloading them onto another vessel, said Mark of the ISEAS-Yusof Ishak Institute.
+
+"Proving that this double-handling model can genuinely compete with the seamless transit through the Strait of Malacca remains a major hurdle," he said.
+
+But authorities have learned from unsuccessful past projects and the state will play a regulatory and ​supporting role, while the financing primarily ​comes from private investors, said Jiraroth.
+
+"It has to be a consortium involving ⁠shipping lines, port operators, financiers and land developers," he said.
+
+So far, investor interest has been decidedly cautious and non-committal due to shifting policy frameworks and immense capital requirements, Mark said.
+
+The project also faces a tricky geopolitical situation, with neighbours watching with both cautious interest and wariness, he said.
+
+"Chinese state enterprises are unlikely to commit significant capital unless they secure strong operational leverage, which would trigger intense domestic political pushback in Thailand over foreign control," Mark said.
+
+"Thailand must navigate a delicate diplomatic balancing act ​to prevent the corridor from becoming a geopolitical flashpoint."
+
+The Singapore foreign ministry did not immediately respond to Reuters requests for comment.
+
+#### Expanding resistance
+
+Chaiyaporn is among a dozen residents along the 90-kilometers (56-mile) corridor between the two seas, home to fishing and farming communities that would be upended by the project, who told Reuters that they are opposed to the plan.
+
+In the middle of the proposed land bridge corridor in the fertile Phato district, where durian plantations and coffee farms bring in substantial income, some residents question whether this scale of industrialisation is needed at all.
+
+"My hometown's durian industry alone generates around 10 billion baht a year without needing to build anything new," said coffee entrepreneur Chalermchart Seekhiao, 30.
+
+"People need to understand: this isn't an empty wasteland."
+
+The project suffered a blow this month when regulators ordered a completely new Environmental and Health Impact Assessment because of a large discrepancy between government and private research estimates on the density of marine life near the proposed ports.
+
+"Local opposition alone rarely cancels a top-down mega-project in Thailand, but it acts as a powerful regulatory drag that compounds investor risk," Mark said.
+
+($1 = 32.8400 baht)
+
+---
+
+### First Amendment at 75: The bargain that still shapes India’s rights
+*Avirup Bose · regional, india*
+
+On June 18, 1951, the First Amendment to the Indian Constitution came into force. Few constitutional changes have had a deeper impact on the Republic. Introduced less than 16 months after the Constitution’s adoption, it reshaped the relationship between the State, the judiciary and citizens at a formative moment in India’s democratic life.The amendment altered the scope of three fundamental rights: freedom of speech, equality and property rights. It also created a new constitutional mechanism through which certain laws could be protected from challenge on the ground that they violated fundamental rights. Significantly, these changes were enacted before independent India’s first general elections.The First Amendment expanded the grounds on which the State could impose reasonable restrictions on free speech under Article 19(2), including public order and friendly relations with foreign states.
+
+It enabled special provisions for socially and educationally backward classes under Article 15(4). It also inserted Articles 31A and 31B and created the Ninth Schedule, initially to protect land reform laws from being invalidated on fundamental-rights grounds.The amendment arose from a clash between constitutional rights and the social and political priorities of a newly independent nation. To its supporters, it was a pragmatic response to urgent demands of reform and nation-building.
+
+To its critics, it marked an early narrowing of the liberal promise of fundamental rights. Seventy-five years later, debates over speech, affirmative action, property, Parliament and judicial review still carry the imprint of choices made in 1951.
+
+## When speech met public order
+
+The central question before the young Indian State and the Supreme Court was stark that how far could speech, especially press freedom, be restricted in the interest of public order?In Brij Bhushan v State of Delhi, the Supreme Court struck down a pre-censorship order against the Organiser under the East Punjab Public Safety Act, holding that prior restraint violated press freedom under Article 19(1)(a).
+
+In Romesh Thappar v State of Madras, it invalidated a ban on the magazine Cross Roads under the Madras Maintenance of Public Order Act, ruling that the restriction went beyond the then-existing limits under Article 19(2).
+
+Speech and the State
+
+These judgments prompted a constitutional response. The First Amendment expanded Article 19(2), giving the State wider grounds to impose reasonable restrictions on speech.The contrast with the United States is often noted. The American First Amendment is framed as a restriction on Congress’s power to abridge speech or press freedom.
+
+India’s First Amendment moved in a different direction: it recalibrated the balance between freedom and regulation, placing greater emphasis on constitutionally recognised grounds for restriction.Critics have long argued that this altered the liberal architecture of the original Constitution. Historian Tripurdaman Singh, in Sixteen Stormy Days, describes the First Amendment as a moment that narrowed individual liberty and civil rights.
+
+Others, including advocate Abhinav Chandrachud, have argued that the amendment must be understood against the anxieties of a newly independent country still dealing with Partition, communal violence and the challenge of maintaining order. Chandrachud has also noted that the insertion of the word “reasonable” gave courts a standard by which to test disproportionate restrictions.The legacy of this compromise remains visible. Modern disputes over speech, censorship, platform restrictions, films, books and public order continue to be argued within a framework in which free expression is constitutionally guaranteed but also subject to defined restrictions.
+
+The enduring question is whether that framework remains balanced in an age of instant communication, digital mobilisation and expanding State capacity.
+
+##   
+When reform was shielded from courts
+
+The most far-reaching provisions of the First Amendment 
+
+Land reform vs rights
+
+The stated purpose was to protect a major programme of agrarian reform from being stalled by litigation over property rights.
+
+Nehru expressed this concern in letters to chief ministers, writing that urgent social change could not be indefinitely delayed because the Constitution stood in the way, and that a remedy might require a constitutional change.The deeper constitutional question was larger than land reform. Could Parliament place certain laws beyond ordinary fundamental-rights scrutiny in pursuit of social and economic transformation? The First Amendment answered that question by creating a special shield for selected laws.A comparison is sometimes drawn with Franklin D Roosevelt’s New Deal struggle with the United States Supreme Court. Both Roosevelt and Nehru faced judicial resistance to transformative socio-economic programmes. But the constitutional routes differed. Roosevelt’s confrontation unfolded within the existing constitutional framework, while Nehru’s government amended the Constitution to reduce the vulnerability of land reform laws to rights-based challenge.Over time, the Ninth Schedule expanded far beyond its original land-reform setting. Laws relating to areas such as industrial regulation, reservations, electoral matters and taxation were also placed in it. This growth sharpened the tension between parliamentary power and constitutional supremacy.The Supreme Court addressed that tension in I.R. Coelho in 2007. A nine-judge bench held that laws placed in the Ninth Schedule after the Kesavananda Bharati judgment could still be tested if they damaged or destroyed the basic structure of the Constitution.
+
+In effect, the Court restored a constitutional limit: the Ninth Schedule could not become a blanket route to avoid judicial review.
+
+##   
+When equality made room for social justice
+
+The First Amendment also inserted Article 15(4), allowing the State to make special provisions for socially and educationally backward classes, as well as Scheduled Castes and Scheduled Tribes.This change followed the Supreme Court’s decision in State of Madras v Champakam Dorairajan, which struck down the Communal G.O. governing admissions in Madras on the ground that it violated the equality provisions of the Constitution. The case involved admissions to educational institutions and raised a foundational question: how should a constitutional promise of formal equality respond to deeply unequal social realities?
+
+Article 15(4) became the constitutional basis for affirmative action in education. It later shaped the broader trajectory of reservation policy, including debates that culminated in the Mandal Commission and the Supreme Court’s Indra Sawhney judgment.The larger debate has never disappeared. India continues to wrestle with how to reconcile equality of opportunity, historical disadvantage, representation and social mobility.
+
+The First Amendment did not settle that argument. It created the constitutional space in which the argument would unfold.
+
+## The bargain that still governs India
+
+The First Amendment remains one of the most consequential moments in Indian constitutional history. Its critics see it as the point at which the Constitution’s promise of liberty was qualified by the imperatives of governance. Its supporters see it as a necessary adjustment by a fragile new democracy confronting social inequality, public disorder and urgent reform.Both readings contain a measure of truth. The amendment reminds us that constitutional democracies are sustained neither by rights alone nor by State power alone, but by a continuing negotiation between the two.As India marks 75 years of the First Amendment, the question is not simply whether the amendment was right or wrong in 1951. The more urgent question is whether the balance it struck between freedom and regulation, reform and rights, Parliament and courts, remains adequate for a twenty-first-century democracy.Avirup Bose is Professor of Competition Law and Policy at Jindal Global Law School
+
+---
+
+### How many Americans can afford high-quality healthcare? A new poll finds the number has fallen
+*SECTIONS How many Americans can afford high-quality healthcare A new poll finds the number has fallen AP · business*
+
+Washington: Twannetta Weaver felt like she made the responsible choice when she enrolled in a high-deductible health insurance plan through her employer, an option that avoided high premiums and allowed her to save for retirement.
+
+Then, in 2025, she slipped a disk in her back, requiring medication and physical therapy. Suddenly, the medical bills were so overwhelming that Weaver, an adult learner working toward a leadership degree on the side, had to delay graduation by a year.
+
+  
+
+"I had to start calculating, am I going to be able to afford to pay my tuition, as well as my books, as well as my living expenses, and continue to care for my family?" the 43-year-old in Sanford, Florida, said in an interview. "It makes you feel powerless as a consumer."
+
+Weaver's experience is familiar to a growing number of Americans, according to new data from the West Health-Gallup Affordability Index, which shows only about half of U.S. adults could afford their healthcare and had access to quality care last year. Concerns about affording healthcare in the year ahead were at a record high since tracking began in 2021, signaling that many were feeling anxious about rising healthcare costs as 2025 ended.
+
+The new findings published Thursday draw on a survey conducted from October to December 2025 - before major recent changes to health policy, like Congress' Medicaid cuts or its decision not to extend Affordable Care Act subsidies, took effect. It demonstrates how the country's fraught healthcare system is increasingly straining Americans at a time when inflation is driving high costs and affordability concerns are top of mind as midterm elections approach.
+
+  
+
+## Americans are worried they won't be able to pay for care
+
+The index used the responses from multiple questions to place Americans into three categories depending on their access to quality care and ability to pay for care and medicine. In the new data, 49% of U.S. adults were considered "cost secure," meaning that they had access both to high-quality, affordable care and they had recently been able to afford the care and medicine they needed. In 2021, when the measurement began, 56% of U.S. adults were "cost secure." That rose to 61% in 2022 but has been falling ever since.
+
+In the survey, about three-quarters of U.S. adults said healthcare costs were a "major" or "minor" financial burden for them and their family. Only about 3 in 10 said they're not a burden.
+
+Meanwhile, about half of respondents were "extremely concerned" or "concerned" that their household would be unable to pay for needed healthcare services in 2026, up from 42% who said that in 2022.
+
+Inger Perez, 59, from Encino, Texas, is one of those worried Americans. She has a family history of diabetes, high blood pressure and cancer. She said she did blood work recently, and while she wants to know the results, she's bracing herself for what they could show.
+
+"I literally was crying last night because I'm nervous about what I'm going to find out and how much care that is and how much money that is," she said in an interview. "I'm terrified that I'll start a plan of treatment but won't be able to afford to keep up with it."
+
+More than half of survey respondents said the cost of healthcare contributes "a lot" or "some" to stress to their daily lives. That's compared to about 3 in 10 who said these costs contribute "very little stress" and about 2 in 10 who said they contribute "no stress at all."
+
+Perez said she is also frustrated by the quality of the care she receives, in part because she lives in a rural area about an hour from a doctor's office. To fit her budget, she had to choose a lower-cost Affordable Care Act marketplace plan with a limited network of covered providers, creating another obstacle to finding good care.
+
+## Healthcare affordability is declining across demographics
+
+Younger adults, older adults and women were among several groups of Americans that saw drops in healthcare affordability and access in 2025, according to the findings.
+
+Among Americans under 30, only about one-third were categorized as "cost secure," down from 46% in 2021. Women were already less likely to be "cost secure" than men, but the gap widened last year. About 57% of men were "cost secure" in the 2025 survey - down from a high of 67% in 2022 - compared to 42% of women.
+
+Older Americans, most of whom are covered by the government's Medicare health insurance program, are generally more likely to be "cost secure." However, this group saw meaningful decreases as well, falling from 73% in 2021 to 61% in 2025.
+
+## Patients make sacrifices to pay the bills
+
+Several survey respondents who talked to The Associated Press discussed things they have had to give up to pay their health bills.
+
+About 2 in 10 U.S. adults in the 2025 poll said there had been a time in the prior three months when they or a member of their household was unable to pay for medicine or drugs that a doctor had prescribed because of costs. About 3 in 10 said they or someone in their household did not seek treatment for a health problem because of the expense.
+
+One dad in Arizona, 55-year-old Xavier Chapa, said his 50-year-old wife has been fighting her insurance company over a preventive colonoscopy that her doctor had recommended.
+
+He said the company verbally assured her it would be covered, but didn't honor that after the procedure was completed.
+
+The looming $3,000 bill means they've had to cut back their 8-year-old son's summer camp schedule from full-day to half-day programs, along with trimming their budget elsewhere.
+
+"It's a lot to deal with," said Chapa, who moved back to the U.S. from Europe three years ago. "What point does it serve if you're living in this country and having to pay such a high price and you can't get some of the basic things?"
+
+The West Health-Gallup Center poll of 5,660 adults was conducted Oct. 27-Dec. 22, 2025 using a sample drawn from Gallup's probability-based Gallup Panel. The margin of sampling error for adults overall is plus or minus 2.1 percentage points.
+
+---
+
+### Not just jade or aloe vera: 7 exotic plants believed to bring luck, wealth and happiness
+*SECTIONS Not just jade or aloe vera · business*
+
+Plants have always been connected with beliefs of prosperity, positivity and protection across cultures. While popular choices like jade plant, aloe vera, holy basil and lucky bamboo are commonly found in homes, several unique plants from different corners of the world are also believed to bring good luck. These exotic beauties not only add charm to your space but are also surprisingly easy to grow at home.
+
+Here are seven exotic plants that can bring a touch of nature and a sense of positivity to your home garden.
+
+  
+
+## Bird of Paradise
+
+Native to South Africa, the Bird of Paradise plant is one of the most striking tropical plants you can grow at home. Known for its large leaves and flowers that resemble a colourful bird in flight, the plant is often associated with joy, freedom and good fortune.
+
+  
+
+This dramatic-looking plant can instantly transform a balcony, living room or garden corner into a tropical escape. Despite its exotic appearance, it is relatively easy to maintain. It grows well in bright indirect sunlight and needs regular watering when the soil begins to dry. Many plant lovers also consider it a symbol of growth and new opportunities.
+
+## Purple Shamrock (Oxalis triangularis)
+
+The Purple Shamrock, scientifically known as Oxalis triangularis, is a beautiful plant native to South America. Its deep purple triangular leaves and delicate flowers make it stand out among common houseplants. Because of its three-leaf pattern, the plant is often linked with luck and positivity. Some people keep it at home as a symbol of good fortune and harmony.
+
+The Purple Shamrock is also beginner-friendly. It prefers bright indirect light and does not need excessive watering. Its leaves open during the day and fold at night, adding a unique movement to your indoor garden.
+
+  
+
+## Sweetheart Plant (Hoya kerrii)
+
+The Sweetheart Plant, also called Hoya kerrii, comes from Southeast Asia and is famous for its heart-shaped leaves. Often gifted as a symbol of love and affection, this plant is believed by many to attract happiness and positive energy.
+
+Its thick leaves store water, making it a low-maintenance plant for busy households. It can survive with occasional watering and prefers bright, indirect sunlight.
+
+A single heart-shaped leaf in a small pot is already a charming decoration, while a mature plant can grow into a beautiful trailing vine.
+
+## Gollum Jade (Crassula ovata ‘Gollum’)
+
+A unique cousin of the traditional jade plant, Gollum Jade is a fascinating succulent native to South Africa. Unlike regular jade plants, it has unusual tube-shaped leaves with reddish tips, giving it a distinctive appearance. Like other jade varieties, it is often associated with wealth and abundance. Many believe keeping it at home encourages prosperity and financial growth.
+
+The plant is extremely easy to care for because it stores water in its leaves. It thrives in sunlight and requires watering only when the soil is completely dry.
+
+## String of Pearls (Senecio rowleyanus)
+
+The String of Pearls plant, native to Southwest Africa, is one of the most eye-catching succulents for a home garden. Its long trailing stems, covered with tiny pearl-shaped leaves, make it a perfect hanging plant. The plant is often admired for its unique appearance and is associated with growth and positive energy. It can add a different texture to balconies, shelves and indoor spaces.
+
+String of Pearls prefers bright light and well-draining soil. Since it stores water in its round leaves, it does not require frequent watering.
+
+## Ginseng Ficus Bonsai (Ficus ginseng)
+
+The Ginseng Ficus Bonsai is a beautiful indoor tree that comes from Southeast Asia. With its thick exposed roots and miniature tree-like structure, it is a favourite among bonsai enthusiasts. In many traditions, bonsai plants represent patience, strength and longevity. The Ginseng Ficus is often seen as a symbol of stability and prosperity.
+
+It is also easier to maintain compared to many bonsai varieties. It grows well indoors with bright light and needs watering when the soil starts feeling dry.
+
+## Anthurium
+
+Native to Central and South America, Anthurium is known for its bright heart-shaped flowers and glossy green leaves. Its vibrant appearance has made it a popular choice for homes around the world. The plant is often associated with love, abundance and positive energy. Its colourful blooms can last for weeks, making it a beautiful addition to any room.
+
+Anthuriums prefer indirect sunlight and slightly moist soil. With basic care, they can continue flowering and add a tropical feel to your home.
+
+---
+
+### Assam and Arunachal Pradesh strengthen cooperation in excise administration
+*Bikash Singh · business*
+
+Guwahati: A ministerial-level meeting between the Governments of Arunachal Pradesh and Assam was held at the Civil Secretariat, Itanagar, to discuss matters of mutual interest concerning Excise administration and to explore avenues for enhanced inter-state cooperation.
+
+The meeting was chaired by Deputy Chief Minister Chowna Mein, who also holds the portfolio of Finance, Tax, Excise & Narcotics, and was attended by Atul Bora, Minister for Panchayati Raj & Rural Development, Excise, Border Protection & Development, Government of Assam, along with senior officials of Finance and Excise Departments from both the States.
+
+Chowna Mein highlighted the longstanding relationship between Arunachal Pradesh and Assam founded on mutual trust, cooperation and shared aspirations for regional development. He emphasized that close coordination between neighbouring states is essential for addressing emerging challenges in governance and ensuring effective implementation of laws and policies.
+
+  
+
+The discussions focused on strengthening collaboration in the areas of excise management, prevention of illicit trade, revenue mobilisation, enforcement mechanisms and capacity building. The meeting also discussed ways and means for developing mutually beneficial excise policies and augmenting State Own Revenue through enhanced cooperation and coordinated initiatives.
+
+Mein stated that the challenges confronting excise management require coordinated efforts, technological innovation and sustained inter-state engagement. He expressed confidence that regular dialogue and joint initiatives would further strengthen governance systems and contribute to the protection of public interest.
+
+The meeting also featured presentations by officials from both states, highlighting ongoing initiatives, operational challenges and potential areas for future collaboration. Discussions were held on developing a roadmap for continued engagement through periodic review meetings and coordinated action on issues of common concern.
+
+Both sides reaffirmed their commitment to strengthening inter-state cooperation and fostering a collaborative approach to address shared challenges. The meeting concluded with a shared resolve to deepen institutional partnerships and work together towards efficient and transparent management of excise matters.
+
+---
+
+### NSE’s IPO may deliver 6,400-fold return for early backers
+*SECTIONS NSE’s IPO may deliver 6 · finance*
+
+The National Stock Exchange’s planned initial public offering is set to unlock the value of long-term investments for a group of backers including Morgan Stanley, Temasek Holdings Pte. and State Bank of India.
+
+Among the biggest beneficiaries is SBI, which is selling 24.75 million shares. It stands to gain about 50 billion rupees ($529 million), based on the grey market price of 2,055 rupees a share on unlisted stock trading platform sharescart.com and its average acquisition cost of 80 paise apiece. That’s an almost 2,568-fold gain for the stake SBI acquired between 1993 and 1999 and does not include the increase in the value of its remaining holding.
+
+Other founding shareholders, including Stock Holding Corporation of India Ltd., General Insurance Corp. of India, New India Assurance Co. Ltd., National Insurance Co. Ltd. and Oriental Insurance Co. are also in line for sizable windfalls — as much as 6,422 times returns for the last three. Stock Holding Corp., which is selling about 11 million shares, acquired much of its stake at a cost of 46 paise per share and is on track for 4,467-fold returns based on the grey market price.
+
+Bloomberg
+
+  
+
+## NSE IPO set to deliver massive windfall for investors  
+
+Many investors have been seeking an exit since NSE, the operator of the world’s busiest derivatives market, first attempted to go public in 2016 with a plan that was derailed by regulatory and legal hurdles. The pressure has built as NSE’s value soared over the past decade with India’s capital markets expanding and retail participation surging. The exchange now dominates domestic equity derivatives trading and has emerged as one of the world’s largest exchanges by contracts traded.
+
+NSE IPO: 10 key things investors need to know about India’s largest IPO in history
+
+Among international investors, Singapore investment company Temasek Holdings Pte. plans to sell about 11.25 million shares. It acquired NYSE Euronext’s 5% stake in NSE in 2010 for more than 7.8 billion rupees and the grey market implies an about 33-fold increase in value since then, making it one of the most successful financial sector bets in India. Morgan Stanley’s return is on track for about 31 times. In comparison, the benchmark Nifty 50 stock index has risen 4.61 times since 2010.
+
+For long-time shareholders, the IPO is more than just a liquidity event. It represents the end of years of uncertainty and provides a rare opportunity to monetise investments that have generated extraordinary paper returns while remaining largely illiquid.
+
+Even shareholders not participating in the offering stand to make gains.
+
+Life Insurance Corporation of India is the biggest shareholder, with a stake of almost 11%. While LIC will not be selling any shares in the offering, the company, which was among the first shareholders to subscribe to NSE’s shares in 1992, is set for a sharp revaluation of its ownership.
+
+---
+
+### Ram Temple donation case: SIT finds CCTV tampering clues, security staff under probe
+*Ashish Srivastava · general*
+
+## The SIT has found clues of possible CCTV tampering in the Ram Mandir donation theft probe. According to documents examined by the SIT, nearly Rs 10 crore was spent on security arrangements at the temple complex over the past 11 months.
+
+The SIT is also scrutinising the donation-counting process and the role of the bank involved. (Photo: PTI)
+
+The Special Investigation Team (SIT) probing the alleged theft of cash and jewellery from donation boxes at the Ram Mandir has uncovered clues suggesting possible tampering with CCTV footage, a development that has significantly widened the scope of the investigation.
+
+The breakthrough came during the third day of intensive inquiries inside the temple complex, where investigators closely examined surveillance systems, recorded footage and security management protocols. Sources said the indications of CCTV tampering have prompted the SIT to focus on personnel linked to monitoring, maintaining and overseeing the camera network.
+
+As part of the probe, Ramashankar Yadav alias Tinnu Yadav was questioned for several hours. Investigators are also examining the roles of employees associated with CCTV surveillance, gate-checking operations and overall security arrangements at the temple.
+
+According to documents reviewed by the SIT, nearly Rs 10 crore was spent on security arrangements at the temple complex over the past 11 months. The alleged theft of cash and ornaments from donation boxes despite such expenditure has raised serious concerns over the effectiveness of the security system.
+
+The SIT is also scrutinising the donation-counting process and the role of the bank involved. Investigators are examining whether any negligence occurred during counting operations, particularly as the number of trust employees involved in the process was reportedly limited compared to bank personnel.
+
+Sources said several individuals who directly reported to senior trust functionaries have also come under the scanner. Investigators are gathering information about officials responsible for CCTV maintenance and surveillance operations, as well as employees overseeing visitor access and pass issuance within the temple complex.
+
+The probe is also looking into whether there were any lapses or possible collusion at various levels of the security apparatus. Sources said information regarding service records and other details of some staff members linked to surveillance and security management is being collected.
+
+The SIT has prepared a list of around 200 people for questioning. More than 125 individuals have already been examined, while several have been called in multiple times as investigators seek to establish how the alleged theft took place and whether it involved a larger network. Officials said the investigation remains ongoing and that more individuals could come under the scanner as the probe progresses.
+
+\- Ends
+
+Priyanka Kumari
+
+Jun 18, 2026 09:53 IST
+
+---
+
+### Stock Market LIVE: Sensex off lows, up 100 pts, Nifty above 24,100; Nifty IT down over 1%
+*Business Standard · business, entrepreneur, finance*
+
+Sensex Today | Stock Market LIVE Updates Thursday: In the broader markets, the Nifty MidCap and the Nifty SmallCap indices were trading 0.17 per cent and 0.24 per cent higher, respectively
+
+[Read full article](https://www.business-standard.com/markets/news/stock-market-live-june-18-nse-bse-sensex-today-nifty-gift-nifty-federal-reserve-interest-rates-us-iran-deal-brent-crude-oil-prices-ipos-126061800114_1.html)
+
+---
+
+### El Niño leaves India's monsoon nearly 40% below normal, raising concerns
+*Business Standard · business, entrepreneur, finance*
+
+The climate pattern is historically associated with dryness in South Asia, and US scientists expect it to be one of the strongest on record
+
+[Read full article](https://www.business-standard.com/india-news/el-nino-leaves-india-s-monsoon-nearly-40-below-normal-raising-concerns-126061800188_1.html)
+
+---
+
+### After 8,000 layoffs and AI shake-up, Meta CTO says employee morale is near its lowest in company history
+*Om Gupta · general*
+
+## Meta CTO Andrew Bosworth told employees morale is among the worst in the company's history amid layoffs and its AI reorganisation. His remarks and internal memo underscored staff unease over forced role changes, weak communication and the company's AI-first shift.
+
+Meta's CTO Andrew Bosworth says employee morale is near historic lows.
+
+Meta is racing to win the artificial intelligence battle. But inside the company, many employees are struggling to keep pace. In May this year, the tech giant laid off around 8,000 employees and reassigned thousands more as part of a major push to reorganise the company around AI. The company created a new Applied AI division, with around 6,500 engineers and product managers moved from different teams to work on AI projects. Reports at the time suggested that employees were unhappy with the sweeping changes. Now, those concerns have been publicly acknowledged by one of Meta's top executives.
+
+According to a Business Insider report, Meta Chief Technology Officer Andrew "Boz" Bosworth said morale at the company is near an all-time low as recent mass layoffs and internal AI initiatives continue to unsettle many longtime employees.
+
+Morale is "maybe not the worst it's ever been in 20 years here, but it's probably up there. It's definitely up there," Bosworth said during an internal "Tuesdays with Boz" chat on June 2, four people who were on the call told Business Insider.
+
+"I can think Cambridge Analytica was probably the worst," Bosworth added, referring to the scandal in which millions of Facebook users' data was used to target voters during the 2016 election.
+
+He then added that morale is "probably one of the worst it's ever been."
+
+### Meta admits it made mistakes
+
+This is not the first time the senior Meta executive has spoken about the company's recent missteps. According to a report by Wired, Bosworth, who is regarded as a loyalist of Meta CEO Mark Zuckerberg, in a memo told employees that the company did an "atrocious" job of rolling out its new artificial intelligence division.
+
+He wrote, "We obviously did an atrocious job explaining the vision, giving people a clear picture of how we would support them and their careers in the shift, and painting a picture of how it would change over time."
+
+The admission offered a rare glimpse into the uncertainty many employees have reportedly felt as Meta rapidly reshapes itself around AI.
+
+### Employees felt 'drafted' into AI work
+
+The creation of the Applied AI division was one of the biggest changes in Meta's AI overhaul. As part of the restructuring, around 6,500 engineers and product managers were moved from different teams to work on AI projects. Business Insider previously reported that some employees referred to joining the mandatory task force as being "drafted" and viewed much of the work as data labelling.
+
+The company also faced employee backlash in April over an initiative to track mouse movements and keystrokes to improve Meta's AI models.
+
+Together, the changes added to concerns among employees as Meta accelerated its push into artificial intelligence.
+
+### Trying to rebuild morale
+
+Meta's leadership says it has already begun taking steps to improve morale. In the same memo to staff, Bosworth wrote about how Meta needs to "be the best place for the best people to do their best work" and said he hoped to "rekindle the best of the culture" that employees originally joined, according to a copy obtained by Business Insider and first reported by Wired.
+
+\- Ends
+
+Jun 18, 2026 09:49 IST
+
+---
+
+### Restoring India’s land, securing India’s future through science and collective action
+*Unknown · business*
+
+Every year, World Desertification and Drought Day (June 17) reminds us that land is far more than a natural resource. It is the foundation of our food systems, livelihoods, water security and climate resilience. Restoring degraded lands is therefore not merely an environmental imperative; it is central to India's journey towards a sustainable and prosperous future.
+
+Under the leadership of Prime Minister Narendra Modi, India has adopted an integrated approach to natural resource management that recognises the inter-connectedness of agriculture, water, forests, biodiversity, climate action and rural livelihoods. This "Whole-of-Government" approach has emerged as a defining feature of India's development trajectory.
+
+As the country's premier agricultural research institution, the Indian Council of Agricultural Research (ICAR) has been at the forefront of this transformation. Over the last 12 years, ICAR has aligned its scientific innovations with national priorities with a focus on easing farmers' operations by combating land degradation and enhancing climate resilience through sustainable land-use systems. We have built climate-resilient crop varieties, promoted integrated farming systems, advanced digital agriculture, strengthened precision natural resource management, expanded weather-based advisories and supported evidence-based policymaking at national and state levels.
+
+  
+
+India today faces significant challenges arising from land degradation. Water and wind erosion continue to threaten agricultural productivity, especially in dryland and rainfed regions. ICAR’s recent assessment (2020-2024) indicates that an average annual soil loss rate of > 50 t ha-1 yr-1 (equivalent to loss of 3.3 mm top soil annually) occurs due to wind erosion in almost 11.4 million hectares (ha) of land. Sand dune stabilisation and shelterbelt plantation technologies have transformed vast stretches of degraded arid landscapes, stabilising nearly 0.44 million ha of sand dunes. These interventions have not only protected fertile soils but have also generated substantial economic and environmental benefits for farming communities. A comprehensive Land Resource Inventory (LRI) for >100 lakh ha has been developed, enabling micro-level land-use planning that can raise productivity by 10–25% and reduce soil degradation by 20–40% under sustainable management practices.
+
+Similarly, ICAR’s soil and water conservation technologies including contour bunding, graded bunding, vegetative barriers, check dams, gully plugging and farm ponds have significantly reduced water-induced land degradation and enhanced water-use efficiency in vulnerable landscapes.
+
+However, scientific innovation alone is insufficient. Success lies in convergence.
+
+The Government has increasingly adopted a ‘Whole-of-Government’ approach that brings together multiple ministries, programmes and institutions towards common outcomes. Flagship initiatives such as the _Pradhan Mantri Krishi Sinchayee Yojana_–Watershed Development Component (PMKSY-WDC), National Mission for Sustainable Agriculture (NMSA), National Innovations in Climate Resilient Agriculture (NICRA), Green India Mission, National Agroforestry Policy, Mission LiFE and various state-level natural resource management programmes are now creating synergistic impacts on the ground. Programmes such as VB-GRAMG (Viksit Bharat–Guarantee for Rozgar and Ajeevika Mission Gramin), India's flagship rural employment scheme. , and other rural transformation initiatives can further strengthen this ecosystem of convergence by integrating village-level planning, ecosystem restoration and livelihood generation.
+
+For instance under the NICRA project, ICAR has developed 448 climate-resilient, model villages benefiting 8.5 lakh farmers across crops, livestock, and fisheries, and scaled Integrated Farming Systems (IFS) to 1.04 lakh farm households in 79 districts, enhancing incomes to Rs 1.5–3.6 lakh/ha/yr.
+
+As India moves towards the vision of _Viksit Bharat_ 2047, restoring degraded lands will be indispensable for achieving sustainable agricultural growth. India has nearly 6.73 million ha salt affected soils (sodic 3.77 million ha and saline 2.95 million ha), which is expected to reach 16.2 million ha by 2050, if not managed. In this direction, in the last 12 years alone, ICAR developed 141 soil and water conservation technologies delivering 30–50% reduction in runoff and soil erosion, 20–45% higher groundwater recharge, 20–60% yield increase, and 25–100% farm income improvement. This integrated approach reflects a fundamental shift from treating land restoration as an isolated environmental activity to recognising it as an investment in national development. Further, soil diagnostics has been scientifically strengthened through the National Soil Spectral Library (>40,000 spectra), and _Mrida Parikshak_ kits enabling 28 million Soil Health Cards, improving nutrient management decisions. Reclamation of 2.22 million ha of salt affected soils has contributed to 17 million tons of additional food grain to the national food basket and generated 310 million man-days of employment valued for nearly Rs. 20,000 crores.
+
+Agroforestry deserves special mention in this context, as it simultaneously enhances carbon sequestration, conserves biodiversity, improves soil health, reduces erosion and provides additional sources of income through timber, fodder, fruits and fuelwood. The mapped area under agroforestry in the country is estimated as 28.427 million ha. Through institutions such as the ICAR-Central Agro-Forestry Research Institute (CAFRI) and our network of research centres across the country, some 80 region-specific agroforestry models have been developed. These integrate trees, crops and livestock into resilient production systems that have the potential to sequester nearly 6 billion carbon equivalents contributing significantly to climate resilience _vis-à-vis_ carbon neutrality. These evidence-based solutions support India's commitments towards Land Degradation Neutrality, climate action and achieving net-zero aspirations.
+
+The pathway forward is clear. No single institution can address the challenges of desertification and climate change alone. Success will depend upon partnerships between farmers, communities, scientists, policymakers, civil society organisations and multiple ministries working together in a coordinated manner. Historically, India has demonstrated that science, policy convergence and community participation can deliver transformative outcomes. ICAR will continue to serve as a knowledge partner and innovation engine in this national endeavour, guided by the principles of sustainable natural resource management and the R3 framework – Respect, Recognise and Restore. Let us Respect the land. Recognise its value. Restore its potential. Only then can we secure a resilient, prosperous and sustainable India.
+
+_(The author is Secretary, Department of Agricultural Research and Education (DARE) & Director General, Indian Council of Agricultural Research (ICAR). Views expressed are personal)_
+
+(Disclaimer: The opinions expressed in this column are that of the writer. The facts and opinions expressed here do not reflect the views of www.economictimes.com.)
+
+---
+
+### Man Industries and its Saudi arm bag fresh orders worth ₹1,000 crore
+*Business Standard · business, entrepreneur, finance*
+
+While Man Industries bagged new orders worth ₹300 crores, its Saudi Arabia-based step-down subsidiary, National Pipe Company, received orders worth ₹700 crore
+
+[Read full article](https://www.business-standard.com/companies/news/man-industries-saudi-arm-bag-fresh-orders-worth-rs-1000-crore-126061800178_1.html)
+
+
+---
+
 ## 17 June 2026
 
 ### 'They Hit Me With Rods': Assam Farmer Recalls Torture In Bangladesh, Thanks CM Sarma For Safe Return
