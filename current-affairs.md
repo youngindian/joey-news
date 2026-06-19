@@ -1,3 +1,746 @@
+## 19 June 2026
+
+### India test it heaviest 120mm mortar system 'Garudastra', check range, firing rate, drone integration and key features
+*Unknown · business*
+
+The Garudastra long-range 120mm vehicle-mounted mortar system was demonstrated by Nibe Limited at the Infantry School in Mhow, showcasing capabilities including rapid shoot-and-scoot operations, Multiple Rounds Simultaneous Impact (MRSI), a high rate of fire and precision engagement using GPS and laser-guided munitions.
+
+Developed in collaboration with a foreign original equipment manufacturer, the system is designed to engage targets at ranges of 7 to 10 kilometres. It is equipped with a 17kg penetrating warhead capable of defeating 20 centimetres of reinforced concrete, enabling it to strike bunkers and fortified positions from safer distances.
+
+  
+
+## Difference between artillery and mortar
+
+A mortar is a short-barrelled indirect fire weapon that launches explosive shells on a high trajectory, allowing them to descend almost vertically onto a target. While artillery guns offer greater range and firepower, mortars are lighter, easier to deploy and better suited for supporting infantry operations in rapidly changing battlefield conditions.
+
+  
+  
+  
+
+## Capabilities of Garudastra
+
+Garudastra uses soft-recoil technology, allowing the 120mm mortar to be mounted on a lightweight 4x4 tactical vehicle. Compared with smaller 81mm and 82mm systems, the 120mm calibre provides a balance of firepower, range and mobility and remains one of the most widely used heavy mortar calibres.
+
+The vehicle-mounted platform enables the system to rapidly deploy, fire multiple rounds and relocate before enemy forces can identify its position and launch a counterattack. This shoot-and-scoot capability is considered increasingly important on modern battlefields dominated by drone surveillance, counter-battery radars and precision-guided weapons.
+
+  
+
+## High rate of fire and network integration
+
+The system is capable of burst firing between 12 and 16 rounds per minute and sustaining a firing rate of three to four rounds per minute. Its rate of fire allows forces to quickly engage moving targets and provide continuous fire support during critical combat operations.
+
+Garudastra can also integrate with C4I and Battle Management Systems, enabling it to receive real-time targeting information from drones, radars and command networks. Drone feeds provide target coordinates and course corrections, improving responsiveness against mobile threats.
+
+  
+
+## Precision-guided munitions enhance accuracy
+
+The mortar system can employ both GPS-guided and laser-guided munitions, providing greater accuracy than conventional mortars that rely primarily on ballistic trajectories and area bombardment.
+
+GPS-guided rounds use satellite navigation coordinates to strike pre-designated targets, while laser-guided munitions home in on laser energy reflected from targets designated by ground troops, drones or forward observers. The use of GPS guidance improves first-round hit probability while reducing ammunition consumption.
+
+## Supports indigenous defence manufacturing goals
+
+According to the company, the Garudastra system aligns with the Government of India's Atmanirbhar Bharat initiative aimed at strengthening the country's indigenous defence industrial base and meeting the operational requirements of the Indian armed forces.
+
+---
+
+### Is This ‘World’s Number 1 Airplane Seat’? Travel Influencer Shows His Hotel Room In The Sky That Costs...
+*Mallika Bhagat · lifestyle*
+
+A travel creator shared his experience flying Etihad’s ultra-luxury ‘The Residence’, a private three-room suite complete with a living room, bedroom and shower.
+
+[Read full article](https://www.news18.com/viral/is-this-worlds-number-1-airplane-seat-travel-influencer-shows-his-hotel-room-in-the-sky-that-costs-10160080.html)
+
+---
+
+### Telegram ban: Delhi HC upholds India's temporary ban on Whatsapp rival ahead of NEET re-test
+*SECTIONS Telegram ban Delhi HC upholds India's temporary ban · business*
+
+The Delhi High Court on Friday upheld the Centre's decision to temporarily restrict access to Telegram until June 22, backing the Centre's argument that extraordinary measures were necessary to curb the spread of fake NEET (UG) 2026 re-examination papers and exam-
+
+"Government order on emergency ban does not suffer from non-application of mind," the high court said, dismissing the petition filed by Telegram. "Government's order is well founded. A platform can be banned under Section 69A of the IT Act," observed Justice Tejas Karia, noting there are “sufficient” reasons to temporarily ban the app ahead of the re-tests.
+
+  
+
+A day earlier, the high courty had reserved a verdict and raised concerns over the Centre's decision to temporarily restrict access to the Pavel Durov-owned app ahead of the major all-India re-examination.
+
+It had further asked whether the rights of millions of users could be curtailed to safeguard the interests of a smaller group of examinees.
+
+Hearing a petition filed by the Dubai-based company challenging the temporary restriction until June 22, Justice Karia observed that the government would need to justify why a platform used by nearly 150 million people in India should face a blanket curtailment.
+
+"The question is, can you block somebody else's rights to protect someone else's rights?" the judge had remarked, while reserving the order and asking both sides to suggest alternatives that could tackle concerns over paper leaks and misinformation without imposing broad restrictions.
+
+Defending the government's move, Solicitor General Tushar Mehta argued that Telegram's architecture poses unique challenges for law enforcement.
+
+He said the platform's bot ecosystem allows rapid creation of multiple channels, making it difficult to curb the spread of leaked material or misinformation effectively.
+
+According to Mehta, a single Telegram account can create up to 40 bots, unlike other messaging platforms that impose stricter limitations. Even if one bot or channel is removed, several others can quickly emerge under different identities, he said.
+
+The Solicitor General also argued that Telegram's cloud-based structure makes it difficult for investigating agencies to trace individuals involved in unlawful activities. "Even if we block content and someone commits mischief, the law enforcement agency cannot easily reach that person," he told the court.
+
+He added that the government does not face similar challenges with other major messaging platforms and maintained that the temporary restrictions were imposed under emergency powers in view of the exceptional circumstances surrounding the examination.
+
+**What happened and why Telegram was restricted**
+
+Telegram has been temporarily restricted in India until June 22 as part of the PM Modi government's efforts to curb the circulation of fake NEET (UG) 2026 re-examination papers and exam-
+
+The National Testing Agency said the Ministry of Electronics and Information Technology (MeitY) acted on its recommendations and issued directions under Section 69A of the Information Technology Act to restrict access to Telegram for a limited period covering the examination and its immediate aftermath.
+
+The ministry has also asked Telegram to disable its message-editing feature in India for already posted content until June 30.
+
+According to the NTA, the feature had been misused in previous examinations to create fabricated evidence of paper leaks by editing older messages after exams had concluded.
+
+The agency said cheating rackets had been using Telegram channels, groups and bots to spread misinformation and lure candidates with false promises of access to leaked question papers.
+
+It further identified several channels carrying names such as "Re-NEET 2026", "Private Mafia" and "REE NEET MAFIAA", which allegedly demanded money from students and parents in exchange for fake exam papers.
+
+The NTA maintained that no examination paper was available outside the secured system and warned candidates against falling prey to such fraudulent claims. It added that the temporary restrictions were imposed only after coordinated takedowns of channels and accounts failed to adequately contain the spread of misinformation.
+
+---
+
+### Delhi-NCR Weather Report Today June 19: Delhi, Noida, Gurgaon and Ghaziabad under rain alert; IMD predicts stormy conditions till June 21
+*Unknown · business*
+
+Residents of Delhi and the National Capital Region (NCR) can expect relief from intense summer heat over the coming days as the India Meteorological Department (IMD) has forecast light to moderate rainfall, thunderstorms and gusty winds across the region.
+
+According to the latest IMD forecast, changing weather conditions are likely to continue over the next week, with cloud cover and intermittent rain expected to keep temperatures below the 40-degree Celsius mark.
+
+**
+
+  
+
+## Delhi-NCR Weather Today: Rain and Thunderstorms Likely on June 19  
+
+The IMD has predicted partly cloudy skies along with light rain and thundershower activity across Delhi-NCR today, June 19. Strong surface winds may also accompany rainfall in some areas, providing temporary relief from the prevailing heat. The maximum temperature is expected to be around 39 degrees Celsius, while the minimum temperature may settle near 28 degrees Celsius.
+
+## IMD Weather Forecast for Delhi-NCR Till June 21  
+
+Rain and thunderstorm activity is expected to continue across the region until June 21. Weather officials have indicated that western disturbances and local weather systems are contributing to the unsettled conditions. These systems are likely to bring intermittent showers and maintain relatively comfortable daytime temperatures compared to recent weeks.
+
+The forecast for the next few days is as follows:
+
+-   June 20: Maximum temperature around 37°C, minimum around 29°C
+-   June 21: Maximum temperature around 38°C, minimum around 30°C
+
+During this period, residents may experience brief spells of rain, cloudy skies and gusty winds.
+
+  
+
+## Delhi Weather Temperature Forecast: Maximum Temperature to Stay Below 40°C  
+
+One of the key highlights of the latest forecast is that daytime temperatures are expected to remain below 40 degrees Celsius over the next several days. Meteorologists say rainfall and cloud cover will help prevent extreme heat conditions from developing across Delhi and neighbouring areas.
+
+The combination of rain-bearing systems and strong winds is likely to keep temperatures within the normal range for this time of year.
+
+## Delhi-NCR Weather Forecast for June 22 and June 23  
+
+The weather is expected to become relatively stable on June 22 and June 23, although partly cloudy skies are likely to persist.
+
+According to the IMD:
+
+-   June 22: Maximum temperature around 38°C, minimum around 31°C
+-   June 23: Maximum temperature around 39°C, minimum around 31°C
+
+While widespread rainfall may reduce, cloud cover is expected to continue across much of the NCR region.
+
+## Has IMD Issued Any Weather Alert for Delhi-NCR?  
+
+At present, the IMD has not issued any major weather warning or alert for Delhi-NCR. However, residents are advised to stay updated with the latest forecasts, especially during periods of thunderstorm activity, as local weather conditions can change quickly.
+
+## Will Delhi Get Relief From Heatwave Conditions?  
+
+The latest forecast suggests that Delhi-NCR is likely to remain free from severe heatwave conditions in the coming days. Rainfall, thunderstorms and strong winds are expected to provide relief from extreme heat, although humid conditions may continue at times, particularly after rainfall.
+
+Overall, the coming week is expected to bring a mix of clouds, rain and pleasant spells, offering much-needed respite from the harsh summer weather across Delhi-NCR.
+
+_Inputs from agencies_
+
+---
+
+### Meta Explores Investment, Acquisition Options In Fintech Unicorn Cred: Report
+*Varun Yadav · business*
+
+Meta is in talks to invest in or fully acquire Indian fintech Cred at a lower valuation, aiming to deepen its India payments play as Cred grows revenue and cuts losses
+
+[Read full article](https://www.news18.com/business/economy/meta-explores-investment-acquisition-options-in-fintech-unicorn-cred-report-ws-l-10160028.html)
+
+---
+
+### Andhra ranks first in PM SHRI fund utilisation, claims Education Minister Lokesh
+*Pti · business*
+
+Amaravati: Andhra Pradesh Education Minister Nara Lokesh claimed that the state has secured the top position in the country in the utilisation of funds under the PM SHRI scheme, a central government initiative aimed at modernising government schools.
+
+The minister reviewed the performance of the Education Department with senior officials and congratulated them for achieving the milestone under the Pradhan Mantri Schools for Rising India (PM SHRI) programme.
+
+  
+
+"Andhra Pradesh has emerged as the No 1 state in India in the utilisation of funds under the PM SHRI scheme," Lokesh said in an official release late on Thursday, directing officials to construct 844 smart kitchens across the state this year based on the successful Kadapa model.
+
+The PM SHRI scheme targets to upgrade 14,500 schools and is expected to benefit 1.8 million students. It also aims to ensure these schools serve as model institutes and encapsulate the spirit of National Education Policy (NEP) 2020.
+
+Officials informed the minister that distribution of Sarvepalli Radhakrishnan Vidyarthi Mitra Kits has begun and efforts are underway to complete the process before the upcoming Mega Parent-Teacher Meeting (PTM), the release said.
+
+Lokesh directed officials to immediately take up installation of 53,180 bunk beds for 1.06 lakh girl students studying in 430 Kasturba Gandhi Balika Vidyalayas (KGBVs) across the state.
+
+He further instructed officials to extend the facility to Andhra Pradesh Residential Schools and Colleges.
+
+The minister was informed that educational kits are also being distributed to 2.03 lakh students studying in government junior colleges across the southern state.
+
+Reviewing private unaided schools, Lokesh directed officials to remove unnecessary regulations in the approval process and ensure that the approved fee structure is displayed prominently on school premises and made available in the public domain for transparency.
+
+Further, the Education Minister directed officials to ensure that orphaned children are covered under the Talliki Vandanam scheme, which promises Rs 15,000 to every school-going child per annum.
+
+He asked officials to collect guardian details of such children and said that in cases where no guardian is available, the funds should be transferred to the District Collector, who would ensure that benefits reach them.
+
+Lokesh also suggested exploring a permanent mechanism to deposit the amount directly into the bank accounts of orphaned children and make it accessible after completion of their education to provide long-term financial security.
+
+The minister directed officials to make textbooks published by the Telugu Academy available through e-commerce platforms such as Amazon and Flipkart, enabling people to purchase them online.
+
+Emphasising improvement in learning outcomes and attendance, Lokesh called for special focus on educationally lagging districts such as Kurnool, Anantapur, Markapuram, Alluri Sitarama Raju and Polavaram.
+
+He directed officials to review teacher availability and prepare a dedicated action plan to improve student performance in these regions.
+
+According to Lokesh, student attendance across the state should not fall below 95 per cent and the Mid-Day Meal Scheme should be implemented with the highest standards of quality and transparency.
+
+The minister noted that Telugu should not be neglected and instructed officials to sensitise teachers, prepare bridge-course material for Mathematics, Science and Telugu, identify academically weak students and conduct remedial classes.
+
+He also directed officials to expedite the establishment of computer laboratories equipped with Chromebooks for high school students.
+
+---
+
+### Retired employee claims tax exemption on Rs 19 lakh leave encashment; I-T dept issues notice and caps it at Rs 3 lakh; ITAT Chennai grants him full relief - The Economic Times
+*Neelanjit Das · general*
+
+When Balasubramanian Venkatachalaperumal retired from Oil and Natural Gas Corporation (ONGC) in FY20, he received Rs 19.05 lakh as leave encashment. Accordingly, he filed his income tax return (ITR) on October 29, 2021, declaring a total income of Rs 31.62 lakh after claiming tax exemption on the entire leave encashment amount under Section 10(10AA)(ii).
+
+But he soon received a notice from the income tax department. While processing his ITR, the department's centralised cell in Bengaluru restricted his leave encashment exemption at Rs 3 lakh and added the remaining amount to his taxable income, calculating his total income at Rs 47.68 lakh.
+
+Aggrieved by the order of the CPC, Bengaluru, Venkatachalaperumal filed an appeal before the Commissioner of Appeals (CIT(A)) on November 26, 2021. Venkatachalaperumal argued that in the absence of further notification issued by the central government having regard to the wordings of Notification No.123/2022 (F.No.200/23/98-ITA-I) PSU employees are entitled to parity with the central government employees in respect of benefits of tax exemption on leave encashment under Section 10(10AA).
+
+Accordingly, he argued that the maximum tax exemption of Rs 3 lakh, which was fixed in 2002, should be increased or adjusted to align with the Rs 25 lakh tax exemption received by government employees.
+
+The CIT (A) said that Venkatachalaperumal, being an employee of a public sector undertaking (PSU), cannot be considered an employee of the central and state governments. Accordingly, in respect of encashment of earned leave on superannuation, the CIT (A) ruled that Venkatachalaperumal is entitled to claim exemption under Section 10(10AA)(ii) read with Notification No. 123/2002 dated May 31, 2002, and cannot claim exemption u/s. 10(10AA) (i).
+
+Feeling disappointed, he filed an appeal with the Income Tax Appellate Tribunal (ITAT) Chennai. On May 4, 2026, Venkatachalaperumal won the case as ITAT Chennai granted him enhanced tax exemption limit under Section 10(10AA)(ii) for leave encashment received on retirement.
+
+The ITAT Chennai said that raising the tax exemption limit on leave encashment from Rs 3 lakh to Rs 25 lakh, as per Notification No. 31/2013, is a significant upward revision after nearly two decades and aims to make the benefits for non-government employees more alike those for government employees, thereby removing an evident disparity.
+
+**
+
+## ITAT Chennai judgement summary
+
+Chartered Accountant Suresh Surana told the _ET Wealth Online_ that in this case, the ITAT Chennai ruled in favour of Venkatachalaperumal and allowed exemption of the entire leave encashment amount of Rs 19.06 lakh received on retirement under Section 10(10AA)(ii) of the Income-tax Act, 1961.
+
+Surana said that the ITAT Chennai accepted the taxpayer's contention and observed that the enhancement of the exemption limit from Rs 3 lakh to Rs 25 lakh was not a new exemption but merely a rationalisation and updation of an existing benefit to reflect current economic realities.
+
+The ITAT Chennai also observed that the amendment which enhanced the leave encashment tax exemption was remedial and beneficial in nature and intended to ensure parity between government and non-government employees.
+
+Accordingly, the ITAT Chennai held that beneficial provisions intended to remove hardship should be interpreted liberally and, where appropriate, applied retrospectively, particularly when no vested right of the income tax department is adversely affected.
+
+According to Surana, the ITAT Chennai also observed that denying the enhanced exemption to employees who retired prior to the notification date would create an artificial and inequitable distinction between similarly placed taxpayers, thereby defeating the very objective of the amendment.
+
+The ITAT also relied on several coordinate bench decisions wherein the enhanced exemption limit had been extended to earlier assessment years on the ground that the amendment was curative and beneficial in nature.
+
+**
+
+Accordingly, the Tribunal held that the taxpayer (Venkatachalaperumal) was entitled to exemption of the entire leave encashment amount of Rs 19.06 lakh and directed the Assessing Officer to allow the claim.
+
+---
+
+### ‘Bringing us closer’: PM Modi announces wider UPI rollout, education initiatives in France
+*TOI World Desk · general*
+
+Prime Minister Narendra Modi along with French President Emmanuel Macron. Photo credit: ANI
+
+NEW DELHI: Prime Minister Narendra Modi on Thursday announced the expansion of India's homegrown Unified Payments Interface (UPI) in France. PM Modi also unveiled a series of measures to strengthen bilateral ties, including greater mobility for students and professionals, enhanced educational cooperation, and easier travel for Indian nationals.Addressing the Indian diaspora in Paris, the PM said the expansion of India's digital payments system would further deepen connectivity between the two countries."Now, the scope of UPI usage in France is also going to expand further. This means instant India-France connect and instant mutual payments. Through all these initiatives, we are bringing India and France closer," he said.The announcement comes days after PM Modi and French President Emmanuel Macron discussed the expansion of UPI services in France.
+
+Foreign Secretary Vikram Misri had earlier said that UPI was already available at several locations in the country, including the Eiffel Tower.UPI was launched in Paris on July 3, 2024.Highlighting recent developments aimed at benefiting the Indian community in France, PM Modi pointed to the opening of India's consulate in Marseille and the introduction of visa-free transit facilities for Indian nationals at French airports.
+
+"Before I leave, I have some more good news for all of you. Last year, a consulate was opened in Marseille. This is providing significant convenience. A few weeks ago, visa-free transit for Indian nationals began at French airports," he said.The prime minister also outlined ongoing efforts to strengthen educational and professional exchanges between the two countries."Whether it's increasing the mobility of students and professionals, mutual recognition of educational qualifications, or the opening of French university campuses in India, we are moving forward together on all of these," the PM stated.PM Modi said these initiatives reflected the shared commitment of both countries to deepen cooperation across sectors and strengthen people-to-people ties.Earlier in his address, the prime minister praised the Indian diaspora for reflecting India's cultural diversity and values abroad.Addressing members of the Indian community, he noted that people from across India, including tamils, punjabis, gujaratis, marathis and bengalis, were represented in Paris and contributing to the city's multicultural character."When historians look back 50 or 100 years from now and assess this period in India's journey, one fact will stand out: this era was driven by the aspirations of the people of India. This is a new age of Indian aspirations," he said.Highlighting India's progress over the past decade, he added, "What was once a dream is now a reality. What once seemed impossible has now become possible."Earlier PM Modi addressed technology leaders at VivaTech 2026, where he spoke about India's growing digital infrastructure and technological transformation."The last decade, India has been going through a rapid transformation that is powered by technology," he said.Pointing to India's digital public infrastructure, the Indian prime minister said, "You can now use UPI in France too at the Eiffel Tower or the Paris airport. We have several examples of such world-class digital public goods. Digilocker is one of the world's largest digital document wallet."
+
+---
+
+### Need to think seriously about this "betrayal": Congress' Rajesh Thakur after Pranav Jha's loss in Rajya Sabha elections in Jharkhand
+*Unknown · business*
+
+Ranchi: Congress leader Rajesh Thakur on Friday alleged "betrayal" within the opposition alliance after the party's candidate Pranav Jha lost in the Rajya Sabha elections in Jharkhand, saying the result indicates that they might not have recieved votes from the Rashtriya Janata Dal (RJD) and the Communist Party of India (Marxist-Leninist) Liberation.
+
+He said the Congress expected 26 votes but secured only 21, with one vote declared invalid.
+
+"We had 26 votes, and we got 21 votes, with one vote invalid. In our alliance, 16 votes were ours, four were from JMM, four were from RJD, and two were from CPI(ML)L. It appears that we may not have received the votes of RJD and CPI(ML)L," Thakur told ANI.
+
+  
+
+"There has been a betrayal, and betrayal happens only where there is trust. We all have to think seriously about this," he added.
+
+The remarks came after Congress candidate Pranav Jha suffered a setback in the Rajya Sabha polls, while NDA-backed independent Parimal Nathwemerged victorious.
+
+Earlier in the day, BJP leaders congratulated NDA-backed independent Nathwani after he secured victory in the biennial elections held for two Upper House seats from Jharkhand. For the two Rajya Sabha seats, three candidates were in the fray.
+
+INDIA alliance's Baidyanath Ram, the Jharkhand Mukti Morcha (Jharkhand Mukti Morcha) candidate, and NDA-backed independent candidate Parimal Nathwani emerged victorious, while Congress candidate Pranav Jha faced defeat in the contest.
+
+Following his victory, Parimal Nathwani expressed gratitude and reaffirmed his commitment towards development-oriented work, particularly focusing on Jharkhand's rural regions.
+
+---
+
+### Mishmi Takins: A mysterious Himalayan mammal spotted in Sikkim that looks like an antelope but is actually a rare goat-like creature
+*Trending Desk · general*
+
+A rare wildlife sighting in Sikkim has caught the attention of nature lovers after a video showing a group of Mishmi takins roaming through the Eastern Himalayas went viral on social media. The unusual animals were spotted at Bakuchaang by staff members from the Tourism and Forest departments of Sikkim, offering a rare glimpse of one of the region’s most elusive mammals.
+
+**
+
+The video, shared by All India Radio News on X (formerly Twitter), showed the animals moving through their natural habitat. Union Minister of Environment, Forest and Climate Change Bhupender Yadav also highlighted the sighting, noting that such visual records of Mishmi takins in Sikkim are rare.
+
+  
+
+## A rare visitor of the Eastern Himalayas
+
+The Mishmi takin is one of the lesser-known large mammals found in the Himalayan region. Although it may look like a mix between a goat and an antelope, the animal belongs to a unique group of goat-antelopes and is known for its unusual appearance.
+
+Its bulky body, curved horns and thick coat make it stand out among mountain animals. However, spotting one in the wild is difficult because it usually lives in remote and high-altitude areas away from human activity.
+
+The recent sighting at Bakuchaang gave wildlife enthusiasts a rare opportunity to see the animal in its natural surroundings.
+
+  
+
+## What makes Mishmi takin special?
+
+Mishmi takins are found in parts of India, China and Myanmar, especially in the Eastern Himalayan landscapes. In India, they are mainly associated with Arunachal Pradesh, though they can occasionally be seen in other Himalayan regions.
+
+The animal survives in some of Asia’s toughest terrains, including mountain forests, bamboo-covered areas, alpine grasslands and rocky landscapes located thousands of metres above sea level.
+
+Its strong legs and large hooves help it navigate steep mountain slopes, while its powerful body allows it to survive in harsh weather conditions.
+
+## Built to survive freezing Himalayan conditions
+
+The Mishmi takin has developed several unique features to handle extreme mountain climates.
+
+Its thick fur helps protect it from cold temperatures, while the oily coating produced by its skin works as a natural shield against rain, snow and fog. These adaptations allow the animal to survive in areas where weather conditions can change quickly.
+
+Unlike many mountain animals that prefer isolation, takins are social creatures. They often move in groups, especially during warmer months when vegetation is available at higher altitudes. During winter, they usually move towards lower forest regions in search of food and shelter.
+
+## Why scientists are studying this rare animal
+
+Despite being a large Himalayan mammal, the Mishmi takin remains poorly understood compared with many other wildlife species. Scientists continue to study the animal to understand its population, habitat and future survival.
+
+Research has suggested that climate change could affect the takin’s natural habitat. Studies have indicated that rising temperatures and changing environmental conditions may reduce suitable areas for the species in the coming decades.
+
+Other research on Eastern Himalayan wildlife has also recorded Mishmi takins among important mammal species found in the region. However, scientists say limited systematic studies make it difficult to track population trends and understand how the animal is adapting.
+
+**  
+The rare Sikkim sighting has once again brought attention to a unique Himalayan creature that remains hidden in some of the world’s most challenging landscapes.
+
+---
+
+### 8 militants arrested for extortion, supply of arms in Manipur
+*SECTIONS · business*
+
+Imphal: Security forces arrested eight militants belonging to two factions of a proscribed outfit for their alleged involvement in extortion activities and supply of arms and explosive items to various parts of Manipur's valley districts, police said on Friday.
+
+Four members of the banned KCP (Peoples' War Group) were apprehended from several locations in Imphal East district for allegedly supplying hand grenades, a police statement said.
+
+All are residents of Imphal East, the police said.
+
+  
+
+Security forces also arrested four active members of the outlawed KCP (MFL) from Kakching district for allegedly being involved in extortion activities and the supply of arms.
+
+> — manipur\_police (@manipur\_police)
+
+  
+
+Chief Minister Y Khemchand Singh recently said that peace is unlikely in the state unless all the people who have illegal weapons are disarmed.
+
+The illegal weapons, including firearms, looted from the security forces and those purchased illicitly, have been used since the beginning of the ethnic violence in Manipur in 2023.
+
+Security forces have been conducting search operations in Manipur since ethnic violence broke out two years ago.
+
+More than 260 people have been killed and thousands rendered homeless in ethnic violence between Meiteis and Kuki-Zo groups since May 2023.
+
+---
+
+### Father's Day 2026: When life stopped after class 12, a father’s support changed everything, helping him rise, rebuild, and find his own path
+*Trending Desk · business*
+
+A father’s love for his son understands every spoken pain. And then quietly, walks beside him for life.
+
+The Better India posted a heartwarming story on Instagram. After studying till class 12th when circumstances closed in, and brought Rahul’s journey to a halt, it was his parents who never let him feel small. They didn't let him break. And Rahul made a choice not to live dependent, but to become independent.
+
+  
+
+  
+  
+
+## Choosing Independence Over Struggles
+
+He set up a small paan stall, just to take care of everyday expenses. Every single day, his father would drop him to the shop and come back to pick him up. Rahul said “Life comes only once. Don't live it leaning on others, learn to stand on your own.”
+
+## A Reminder This Father’s Day
+
+This Father’s Day, it’s worth remembering that a father’s love isn’t always spoken aloud.
+
+Often, it’s reflected in his constant presence and quiet support.
+
+  
+
+## Strength Beyond Circumstances
+
+When Rahul had to discontinue his education after Class 12, his path could have gone in an entirely different direction. However, his parents chose not to let circumstances shape his destiny.
+
+## The Power of Quiet Support
+
+Throughout this journey, his father stood by him, not through big gestures, but through silent strength and unwavering faith. Because some fathers don’t just guide their children in life, they empower them to stand strong on their own.
+
+**Disclaimer:** This article is based on a user-generated post on Instagram. ET. com has not independently verified the claims made in the post and does not vouch for their accuracy. The views expressed are those of the individual and do not necessarily reflect the views of ET. com_._ **Reader discretion is advised.**
+
+---
+
+### Monster bites back: India calls Pakistan 'Frankenstein state' over terror links at UN
+*India Today News Desk · general*
+
+## India told the UN Human Rights Council that Pakistan had harboured and nurtured terrorism as state policy. It said Islamabad's claim of being a victim exposed a paradox that only Pakistan could sustain.
+
+First Secretary at the Permanent Mission to UN Anupama Singh and Pakistan's Shehbaz Sharif
+
+India described Pakistan as a "Frankenstein state" that harboured and nurtured terrorism as a state policy and was now facing the consequences of its own actions. In a stinging response to Pakistan at a United Nations Human Rights Council (UNHRC) session on Thursday, India's Anupama Singh questioned Islamabad's claims of being a victim of terrorism, stressing that it gets "shocked when its own monster bites back".
+
+Singh, who is the First Secretary at the Permanent Mission to the United Nations, described the situation as a paradox that "only Pakistan could sustain". "This is the country where the sitting Defence Minister boasts of hosting, training and deploying terrorists as a state policy and yet Pakistan calls itself a victim of terrorism," Singh said.
+
+"It is a living example of a Frankenstein state which is shocked when its own monster bites back," she further said.
+
+While Singh did not specify, she was likely referring to Pakistan Defence Minister Khawaja Asif's remarks last year. In a rare public acknowledgement during an interview, Asif admitted that Pakistan backed, trained, and funded terror organisations for over three decades.
+
+Asif said Pakistan did the "dirty work" for the US and the West post-9/11. However, he called it a "mistake" that Pakistan has paid a heavy price for.
+
+### SLAMS PAKISTAN ON POK UNREST, KASHMIR
+
+The Indian diplomat also drew attention to what she described as the deteriorating conditions in Pakistan-occupied Kashmir (POK), referring to recent unrest in Rawalakot.
+
+Earlier this month, massive protests erupted across POK against rising prices, electricity tariffs and economic hardships. The protesters also demanded subsidised wheat and rice. A crackdown on the protests by the Pakistani army left 16 dead and more than 40 injured.
+
+Following the crackdown, the Jammu Kashmir Joint Awami Action Committee (JKJAAC) said there was a near-total breakdown of communications and curbs on the movement of essential supplies.
+
+"Demands for bread were met with bullets and brutality," Anupama Singh said at the UNHRC session.
+
+"The ongoing tragedy in Rawalakot, the killing of hundreds of civilians and the brutal crackdown across POK are the predictable outcome of a system built on forcible occupation and sustained through repression," she further pointed out.
+
+She also underlined that Pakistan's propaganda on Kashmir was designed to mask its domestic failures. Singh urged Pakistan to put its own house in order rather than making claims over Indian territory.
+
+At the same breath, Singh said Jammu and Kashmir remained an integral part of India. "The only unresolved issue is of Pakistan's illegal occupation of Indian territories and their return," she said.
+
+\- Ends
+
+Abhishek De
+
+Jun 19, 2026 10:17 IST
+
+---
+
+### X makes neglected Meta employees an offer, lures engineers with snacks
+*Om Gupta · general*
+
+## X is courting Meta employees as unrest grows after layoffs and AI reshuffling. The move highlights how the AI race is increasingly centred on hiring and holding skilled talent.
+
+Meta's low employee morale is creating a hiring opportunity for X. (Photo: Reuters)
+
+In the tech industry, one company's crisis often becomes another company's opportunity. As Meta struggles with low employee morale following mass layoffs and a sweeping AI-driven restructuring, rival X appears to be seizing the moment. The company is openly trying to recruit Meta employees, with X's head of product, Nikita Bier, even joking that the company would match or exceed Meta's snack budget to lure engineers and data scientists.
+
+"Neglected Meta employees: X is hiring web and data engineers & scientists. We will match or even exceed any snack budget offer," Bier wrote in an X post.
+
+The light-hearted pitch underscores a serious reality: as companies race to dominate AI, the battle is no longer just about building better models. It is increasingly about attracting and retaining the people capable of building them.
+
+In a follow-up post, Bier shared a link to xAI's engineering job board and playfully told prospective applicants to mention "snacks" when applying.
+
+### Why are Meta employees unhappy?
+
+The recruitment pitch comes at a time when Meta employees are grappling with sweeping changes inside the company. Meta has been facing growing concerns over employee morale after laying off around 8,000 employees in May this year and reorganising thousands more as part of a major push into artificial intelligence. Around 6,500 engineers and product managers were moved from different teams to work on AI projects.
+
+Reports at the time suggested that employees were unhappy with the sweeping changes. Those concerns have since been publicly acknowledged by one of Meta's top executives.
+
+According to a Business Insider report, Meta Chief Technology Officer Andrew "Boz" Bosworth said employee morale is near an all-time low as recent mass layoffs and internal AI initiatives continue to unsettle many longtime employees.
+
+Business Insider had previously reported that some employees referred to joining the mandatory AI task force as being "drafted" and viewed much of the work as data labelling.
+
+The company also faced employee backlash in April over an initiative to track mouse movements and keystrokes to improve Meta's AI models.
+
+### Meta is trying to rebuild morale
+
+Meta's leadership says it has already begun taking steps to improve morale. In a memo to staff, Bosworth wrote that Meta needs to "be the best place for the best people to do their best work" and said he hoped to "rekindle the best of the culture" that employees originally joined, according to a copy obtained by Business Insider and first reported by Wired.
+
+But as Meta works to win back employee confidence, rivals appear eager to capitalise on the uncertainty.
+
+\- Ends
+
+Jun 19, 2026 10:17 IST
+
+---
+
+### Sensex down 600 points: Why is stock market falling today after a 5-day rally?
+*Sonu Vivek · general*
+
+Dalal Street started in the red with benchmark indices opening sharply lower on Friday, with a massive selloff in information technology (IT) stocks dragging the broader market into the red despite supportive factors such as lower crude oil prices, easing foreign investor selling and improving domestic macroeconomic conditions.
+
+The S&P BSE Sensex was down 635.85 points, or 0.84%, at 76,774.13, while the NSE Nifty50 fell 170.10 points, or 0.70%, to 23,997.90 as of 10:13 am. The decline snapped a strong rally that had seen the Sensex gain nearly 4.8% and the Nifty rise over 4.3% in the previous five sessions.
+
+The culprit behind Friday's fall was clear: IT stocks.
+
+### ACCENTURE SHOCK HITS INDIAN IT STOCKS
+
+The trigger for the selloff came from Accenture, one of the world's largest technology consulting companies.
+
+While Accenture reported its quarterly earnings, investors were spooked by its outlook and management commentary, which suggested that demand visibility remains weak and clients continue to be cautious about technology spending.
+
+That warning was enough to trigger a wave of selling across Indian IT stocks.
+
+Goldman Sachs said Accenture's results have a negative read-across for Indian IT companies because demand visibility remains weak.
+
+Since Indian IT giants such as Infosys, TCS, HCLTech, Wipro and Tech Mahindra derive a large portion of their revenue from global clients, especially in North America, investors often view Accenture's outlook as a leading indicator for the sector.
+
+### NIFTY IT CRASHES 6%
+
+The impact was immediate.
+
+The Nifty IT index plunged 6.02% to 26,752.85, making it by far the worst-performing sectoral index on Dalal Street.
+
+Every constituent of the index traded in the red.
+
+Infosys was the biggest casualty, plunging 8.03% to Rs 1,037.
+
+Other major losers included:
+
+Mphasis: down 6.21%TCS: down 6.07%Tech Mahindra: down 5.81%Larsen & Toubro Technology Services: down 5.47%HCLTech: down 5.28%Persistent Systems: down 5.21%Coforge: down 4.57%Wipro: down 3.34%
+
+The weakness was also visible on the Sensex, where Infosys, TCS, Tech Mahindra and HCLTech emerged among the top losers. "We see a negative read-aross for Indian IT companies from Accenture's results, given continued low visibility on demand outlook," said Goldman Sachs' analysts.
+
+### WHY DOES ACCENTURE MATTER SO MUCH?
+
+For a layman investor, the connection is straightforward.
+
+Accenture works with many of the same global clients that also outsource projects to Indian IT firms.
+
+If Accenture says clients are delaying projects, cutting technology budgets or becoming cautious about spending, investors assume Indian IT companies could face similar challenges.
+
+This raises concerns about future revenue growth, deal wins and profit margins.
+
+As a result, investors often react to Accenture's earnings almost as closely as they react to the results of Infosys or TCS.
+
+### FED'S HAWKISH STANCE ADDS TO THE PAIN
+
+The selloff was worsened by the US Federal Reserve's latest commentary.
+
+Although the Fed left interest rates unchanged, policymakers indicated that inflation remains a concern and another rate hike later this year remains a possibility.
+
+Higher US interest rates are generally bad news for technology companies.
+
+When borrowing costs remain high, businesses tend to cut discretionary spending and delay large technology projects. That directly affects outsourcing demand, which is the lifeblood of Indian IT companies.
+
+Dr VK Vijayakumar, Chief Investment Strategist at Geojit Investments Limited, said guidance cuts by Accenture have triggered a selloff in Indian IT majors and their US-listed ADRs.
+
+He added that buying interest may emerge at lower levels as valuations become more attractive after the correction.
+
+## WHY THE BROADER MARKET MAY REMAIN RESILIENT
+
+Interestingly, the market's fall comes despite improving macroeconomic conditions.
+
+Crude oil prices remain near multi-month lows after the US-Iran peace agreement, easing concerns about inflation and India's current account deficit.
+
+Foreign institutional investor selling has also started tapering, while domestic institutional investors continue to provide strong support.
+
+Vijayakumar pointed out that improving macro fundamentals, lower crude prices and short-covering in banking stocks continue to provide a cushion to the broader market.
+
+This is why analysts believe Friday's decline is largely an IT-led correction rather than a sign of broader weakness in the Indian economy or stock market.
+
+### SHOULD INVESTORS WORRY?
+
+Choice Equity Broking, in its note said, "We view the quarter as a cautiously mixed read-through for Indian IT services. While continued strength in Managed Services, resilient BFSI spending and accelerating AI adoption support the medium-term demand outlook, near-term commentary remains less encouraging."
+
+It further added that weak bookings, elongated deal cycles, Middle East-
+
+"Overall, Accenture's commentary suggests that AI is becoming an increasingly meaningful demand driver; however, it remains insufficient to offset near-term weakness from discretionary spending pressures, elongated deal cycles and delayed large-program conversions. Therefore, we continue to expect a gradual recovery trajectory for Indian IT rather than a broad-based acceleration in FY27. Within Tier-1, we prefer INFO and TECHM and among mid-caps we have PSYS and COFORGE as our preferred ideas," it added.
+
+The sharp fall has undoubtedly hurt sentiment, but analysts do not see it as a structural problem for the sector.
+
+The key question now is whether Accenture's cautious outlook signals a prolonged slowdown in technology spending or merely reflects short-term uncertainty.
+
+Investors will closely watch upcoming earnings commentary from Infosys, TCS, HCLTech and Wipro for clarity on demand trends, deal pipelines and client spending patterns.
+
+For the broader market, crude oil prices, FII flows and developments at Reliance Industries' AGM will remain important near-term triggers.
+
+_**(Disclaimer: The views, opinions, recommendations, and suggestions expressed by experts/brokerages in this article are their own and do not reflect the views of the India Today Group. It is advisable to consult a qualified broker or financial advisor before making any actual investment or trading choices.)**_
+
+\- Ends
+
+Jun 19, 2026 10:15 IST
+
+---
+
+### In 1981, when ISRO carried its APPLE on bullock cart for just Rs 150, the world laughed; Today, the same story is hailed as a masterstroke of innovation
+*Unknown · business*
+
+Today, India is recognised as a major space power. From missions to the Moon and Mars to launching satellites for countries around the world, the Indian Space Research Organisation (ISRO) has come a long way. But decades before these achievements, India's space scientists were working with limited resources, relying on creativity and determination to achieve ambitious goals.
+
+One of the best examples of this spirit came in 1981 with APPLE, India's first experimental communication satellite. The mission not only marked a major milestone in the country's space programme but also produced one of the most memorable images in Indian scientific history, a satellite being transported on a bullock cart.
+
+**
+
+  
+
+## APPLE Satellite Launch: A Turning Point in India's Space Programme  
+
+On June 19, 1981, the Ariane Passenger PayLoad Experiment (APPLE) was launched aboard the Ariane-1 rocket from Kourou in French Guiana. The mission was a landmark achievement for ISRO. APPLE became India's first three-axis stabilised experimental geostationary communication satellite and played a crucial role in developing the country's future satellite communication capabilities.
+
+Although the satellite was experimental, its success laid the foundation for India's later communication satellite programmes and helped strengthen the nation's telecommunications infrastructure.
+
+## Why Did ISRO Use a Bullock Cart for APPLE Satellite Testing?  
+
+The famous bullock cart story emerged during the testing phase of the mission. At the time, ISRO was operating with limited resources. Engineers faced a challenge while conducting antenna tests because they needed a non-magnetic environment to avoid signal interference.
+
+Rather than spending large amounts of money on specialised facilities, the team found a practical solution. APPLE was transported on a simple bullock cart to an open field where testing could be carried out under suitable conditions.
+
+The cost of the exercise was reportedly around Rs 150. The image of a sophisticated satellite travelling on a traditional bullock cart became a powerful symbol of Indian innovation. It demonstrated how scientists could overcome obstacles through creative thinking rather than expensive equipment.
+
+  
+
+## How Scientists Worked Around Resource Constraints  
+
+The APPLE mission was developed during a period when advanced computing resources were not widely available in India. Engineers and researchers often worked late into the night at institutions such as the Indian Institute of Science (IISc), IIT Madras and the Tata Institute of Fundamental Research (TIFR) to complete critical mission calculations and analyses.
+
+The challenges were significant. Tasks that are now performed quickly using modern computers often required extensive manual effort and careful planning.
+
+Despite these limitations, the team successfully completed the mission, proving that determination and expertise could compensate for resource shortages.
+
+## What Made APPLE Satellite Special?  
+
+APPLE was designed as an experimental communication satellite and served as a test platform for future technologies. The spacecraft weighed approximately 672 kilograms and had a cylindrical structure measuring around 1.2 metres in diameter and 1.2 metres in height.
+
+Its payload included two 6/4 GHz transponders connected to a parabolic antenna. The satellite was intended to test communication technologies that would later become essential for India's growing satellite network. On July 16, 1981, APPLE was positioned at 102 degrees East longitude in geostationary orbit.
+
+## APPLE Satellite's Role in Communication Experiments  
+
+The satellite was used for several communication experiments that helped India gain valuable experience in space-based telecommunications.
+
+Among its key applications were:
+
+-   Television programme transmission
+-   Radio networking experiments
+-   Satellite communication testing
+-   Development of future communication infrastructure
+
+These experiments provided technical knowledge that contributed to the development of later Indian communication satellite systems. Even though one of APPLE's solar panels failed to deploy, the satellite continued to perform its intended functions and delivered important operational experience to ISRO.
+
+## Who Led the APPLE Mission?  
+
+The APPLE project was led by R. M. Vasagam, who served as the mission's project director between 1977 and 1983. Under his leadership, the team successfully navigated technical, financial and logistical challenges to deliver one of the most important early achievements in India's space history.
+
+The mission showcased the capabilities of Indian scientists and engineers at a time when the country's space programme was still in its early stages.
+
+## Why the APPLE Satellite Story Still Matters Today  
+
+More than four decades later, the APPLE mission continues to inspire people across India. The bullock cart photograph is often shared as a reminder that innovation is not always about having the latest technology or the biggest budget. Sometimes it is about finding practical solutions to difficult problems.
+
+The mission demonstrated that scientific progress depends on knowledge, persistence and creative thinking. As India celebrates achievements such as Chandrayaan and other major space missions, the story of APPLE serves as a reminder of where that journey began.
+
+## From a Bullock Cart to Global Space Success  
+
+The success of APPLE marked an important chapter in India's space journey. It helped establish the technological foundation for future communication satellites and strengthened confidence in the country's growing space capabilities.
+
+From engineers working through the night to a satellite transported on a bullock cart, the APPLE mission remains one of the most remarkable examples of Indian ingenuity. Its legacy continues to live on in every major achievement of ISRO, proving that determination and innovation can turn even the most limited resources into historic success.
+
+_Inputs from agencies_
+
+---
+
+### Gold, Silver ETFs Sink Up To 5%: Why Are Global Precious Metal Prices Falling Today?
+*Mohammad Haris · business*
+
+Most gold ETFs fall 2-2.5%, while silver ETFs plunge over 5% as global investors react to a stronger US dollar and a hawkish US Federal Reserve outlook.
+
+[Read full article](https://www.news18.com/business/markets/gold-silver-etfs-sink-up-to-5-why-are-global-precious-metal-prices-falling-today-ws-l-10159993.html)
+
+---
+
+### US-Iran MoU Under Strain: Israeli strikes in Lebanon kill 16, JD Vance delivers ‘strong’ warning
+*Varsha Agarwal · general*
+
+Despite the US-Iran MoU agreement, Israeli air strikes in southern Lebanon continue, killing at least sixteen people on Thursday, Al Jazeera reported, citing Lebanese state media. The immediate and permanent termination of military operations on all fronts, including Lebanon, has been violated, despite Israel's Ambassador Yechiel Leiter's assurance to the world of Israel's commitment to the deal.
+
+US-Iran MoU Under Strain: Israeli strikes in Lebanon kill 16 ( File photo)
+
+Despite the US-Iran MoU agreement, Israeli air strikes in southern Lebanon continue, killing at least sixteen people on Thursday, Al Jazeera reported, citing Lebanese state media. The immediate and permanent termination of military operations on all fronts, including Lebanon, has been violated, despite Israel's Ambassador Yechiel Leiter's assurance to the world of Israel's commitment to the deal.
+
+"Israel remains committed to the ceasefire agreement reached between Israel, Lebanon and the US. If Hezbollah does not violate the agreement, it will be kept. Under all circumstances, Israel retains its right to respond to attacks against it and to thwart threats to its territory, citizens and soldiers," he wrote on X.
+
+It is being reported that US Vice President JD Vance had “very strong” words for Israel amid reported criticism from Israeli officials and pro-Israel groups in the US of the deal made with Iran. According to Al Jazeera, some questions have been raised among those Israeli-supporting members of Congress. President Trump has reportedly had heated conversations with the Israeli prime minister, particularly when he feared that Israel’s operations in Lebanon would infringe on getting this memorandum of understanding past, reported Al Jazeera.
+
+However, Vice President JD Vance has been defending the MoU to end the US-Israeli war with Iran. He responded to criticism of the deal from members of the opposing Democratic Party and Republicans alike, and those from Israeli officials, including far-right ministers Bezalel Smotrich and Itamar Ben-Gvir.
+
+“And I guess my response to them would be: What is your exact proposal? You’re a country of nine million people. You can’t just kill your way out of solving every single national security problem that you have,” he said. Calling on Israel to let negotiations play out, he said the Israelis should “give a little bit of credit to the United States of America, which I think has been an incredible partner for the Israeli government for a long time”.
+
+---
+
+### Democratic socialists surge in mayoral races across the country as anti-Trump fervor rises
+*SECTIONS Democratic socialists surge · business*
+
+As Janeese Lewis George paves a path to the mayor's office in Washington, D.C., she's told voters they could have it all.
+
+Her unapologetically expansive, left-wing agenda includes subsidized or even free childcare, increased down payment assistance for homebuyers and community resources to reduce crime, plus a promise to aggressively confront President Donald Trump's attempts to reshape the nation's capital.
+
+"People are tired of hearing what government can't do. They want to hear what government can do," Lewis George said in an interview before the city's primary, where she defeated her Democratic opponents and positioned herself to win the general election in November in a city dominated by Democrats.
+
+  
+
+Lewis George's victory signals a break with a quarter-century of centrist governance in Washington, and it puts her in the vanguard of democratic socialists who have ascended in urban politics over the last year. Zohran Mamdani toppled Andrew Cuomo, the scion of a political dynasty, on his way to becoming New York City mayor. Katie Wilson won an upset victory to lead Seattle last fall. And this month, Nithya Raman clinched a spot in the November runoff against Los Angeles Mayor Karen Bass.
+
+All of them are members of the Democratic Socialists of America, or DSA. The political organization has seen its membership ranks swell from a few thousand to more than 100,000 nationwide over the last decade after an influx of younger Americans joined following the presidential bids of Vermont Sen. Bernie Sanders, also a self-described democratic socialist.
+
+There's little sign of national coordination among the candidates, and it's unclear whether voters are gravitating toward their promises of improved government services, their vows to fight the Trump administration or their critiques of capitalism.
+
+But from coast to coast, confrontational progressives are advancing in mayoral races. City leaders can draw outsized attention for their successes and failures, and democratic socialists will be under pressure from residents to deliver on their vows for a new kind of governance. Whether that translates to national politics is a next test for their movement.
+
+"They are all channeling a displeasure with a status quo and a serious desire for economic populism that the establishment Democratic Party hasn't been preaching," said Eric Stern, a Democratic strategist with Fight Agency, a political consulting firm that strategized Mamdani's mayoral campaign.
+
+Stern added that Democratic voters appeared more willing to support the most progressive candidate in mayoral races rather than in contests for the U.S. House. Candidates like Mamdani and Raman, Stern said, are "daring voters to dream and fall in love not just with the individual candidates but also the political process as a whole."
+
+A rising left navigates America's urban challenges
+
+The trend of progressives surging in urban areas may have limits for its broader impact on Democratic politics. Democratic mayors in cities including Atlanta, Houston, Miami and San Francisco won on relatively moderate platforms in recent years.
+
+Progressive have also faced noteworthy challenges. Chicago Mayor Brandon Johnson was endorsed by the city's DSA chapter during his 2023 mayoral run but has since faced criticism from both moderate and liberal local leaders on issues such as immigration, the local budget and public safety. Recalls and public pressure ousted progressives elected to district attorney offices in multiple jurisdictions over the last five years, when criminal justice reform efforts ran into dissatisfaction over public disorder following the COVID-19 pandemic.
+
+Trump's hardline immigration and law enforcement tactics have also become a challenge for liberal cities. The president's agenda poses an especially serious threat to Washington, D.C., because of its status as a federal territory.
+
+"Maybe we take back Washington and run it on a federal basis," Trump told reporters this month when asked about the potential election of a democratic socialist as the district's mayor. "We won't put up with it."
+
+But progressives hope the current wave of anti-Trump furor in deep blue cities across the country will help buoy the chances of those on the hard left.
+
+"It's not folks looking for the leftmost option so much as looking for a candidate who's gonna be on their side," said Ravi Mangla, speaking for the left-wing Working Families Party. The party often endorses the same candidates as the DSA and is readying to target more mayoral offices in the country's biggest metropolises this fall and in 2028.
+
+"It's less about whether you are on the right or on the left so much as whether you are willing to punch up at the powerful," he added.
+
+Mamdani and Lewis George are both self-described "sewer socialists" who emphasize the need for responsive government services rather than critiques of market economics. The phrase recalls the socialist Gilded Age mayors whom critics derided as too preoccupied with managing public works projects.
+
+The term's revival is partly a strategic move to align leftist ideas with concerns over affordability and the economy, voters' top concern in the midterm elections, and shift the public perception of democratic socialists from firebrands who support radical policies to independent-minded public servants.
+
+"This is absolutely a change election and I'm excited to bring the change that people want, which is really putting people first in the city and having the moral clarity and courage to stand up to Trump," Lewis George said.
+
+For voters the 'socialist' label did not seem to matter
+
+While conservatives have used the "socialist" label to attack Democrats as extreme or incompetent, some D.C. voters appeared ambivalent before Tuesday's primary.
+
+Several lifelong residents said they believed Lewis George was a "fighter" but didn't think she'd have much of an impact on the local economy, given the city's status as a federal district.
+
+"I go back and forth on my own labels and whether I am supportive of that movement or not, but I am supportive of making D.C. more affordable," Owen Fitzgerald, a University of Maryland graduate student, said of his support for democratic socialism.
+
+Fitzgerald voted for Lewis George because she would stand up to Trump and said he'd first learned of her campaign from friends in his neighborhood. But he didn't know she was a democratic socialist until he saw news reports describing her with the label.
+
+"It sends a cultural message to this administration that the people who are surrounding them in the capital are opposed to their platform, opposed to their political agenda, and I think that it will send a message, both nationally and internationally," Fitzgerald said.
+
+
+---
+
 ## 18 June 2026
 
 ### 7 ways to reuse old pillow covers - Turn Them Into Reusable Vegetable Storage Bags
