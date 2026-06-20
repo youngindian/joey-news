@@ -1,3 +1,569 @@
+## 20 June 2026
+
+### Shiv Sena UBT Crisis Live: 3 Rebel MPs Spotted With Shiv Sena Leader At Delhi Hotel Amid 'Operation Tiger' Buzz
+*Meemansa Shekhawat · general*
+
+Shiv Sena UBT Crisis, Maharashtra Politics Live Updates: Rebel Shiv Sena-UBT MPs arrived in Delhi today amid the buzz over 'Operation Tiger'
+
+[Read full article](https://www.news18.com/india/shiv-sena-ubt-crisis-live-updates-maharashtra-politics-latest-news-uddhav-thackeray-eknath-shinde-rebel-mps-liveblog-ws-l-10162093.html)
+
+---
+
+### Fire Breaks Out At AIIMS Bhubaneswar Nursing College Building, Short Circuit Suspected
+*Devanshe Pandey · general*
+
+According to preliminary reports, several pieces of furniture and other materials kept inside the laboratory were damaged in the incident.
+
+[Read full article](https://www.news18.com/india/fire-breaks-out-at-aiims-bhubaneswar-nursing-college-building-short-circuit-suspected-ws-l-10162096.html)
+
+---
+
+### PM Modi greets people of West Bengal on 'Paschimbanga Divas'
+*SECTIONS PM Modi greets people · business*
+
+New Delhi: Prime Minister Narendra Modi on Saturday greeted the people of West Bengal on 'Paschimbanga Divas' and said the central government will work with the state government to fulfil their dreams and aspirations.
+
+The new BJP government has decided to observe 'Paschimbanga Divas' or West Bengal Day on June 20.
+
+June 20 marks the day in 1947 when the Bengal Legislative Assembly voted in favour of the creation of a separate province that eventually became West Bengal after Partition.
+
+  
+
+"Warm greetings to my sisters and brothers of West Bengal on the occasion of Paschimbanga Divas. The Central Government will work with the West Bengal Government to fulfil the dreams and aspirations of the people. I pray for the progress of West Bengal and the prosperity of its people," Modi said in a post on X.
+
+The prime minister said this day celebrates a state that has profoundly shaped India's history through its contributions to diverse areas, be it literature, music, art, spirituality, science, trade and commerce, social reform and more.
+
+He said time and again, West Bengal has enriched India's national consciousness in countless ways.
+
+"Today, 20th June is of immense significance in West Bengal's history. This was the day which ensured that West Bengal remains an integral part of India. The role of Dr. Syama Prasad Mookerjee was invaluable in the same. This year, 2026, we are also marking the 125th Jayanti of Dr. Mookerjee," Modi said.
+
+---
+
+### Court Grants Interim Relief To Khan Sir, Extends 'No Coercive Action' Order
+*Aanchal Sinha · general*
+
+The anticipatory bail plea is scheduled to come up again for further hearing on the next date fixed by the court.
+
+[Read full article](https://www.news18.com/india/court-grants-interim-relief-to-khan-sir-extends-no-coercive-action-order-ws-kl-10162078.html)
+
+---
+
+### Surat man fakes his own kidnapping, demands Rs 50 lakh from family. Video goes viral
+*India Today Trending Desk · general*
+
+## An accountant from Surat staged his own kidnapping and sent ransom videos to his family, demanding Rs 50 lakh from them. Investigators believe he did it to recover heavy stock market options trading losses.
+
+Surat man fakes his own kidnapping, demands Rs 50 lakh from family
+
+A Surat man who staged his own kidnapping and demanded Rs 50 lakh from his family has been arrested after police tracked him down to a hotel, uncovering what they say was an elaborate attempt to recover massive losses from stock market options trading.
+
+According to Surat Police, 36-year-old Jignesh Talaviya, an accountant living in the Mota Varachha area of the city, disappeared on June 12, prompting his wife Meenakshiben Talaviya to file a missing person complaint at the Utran Police Station.
+
+Soon after, the family received a chilling message on the wife's phone, claiming that Jignesh had been kidnapped and demanding a ransom of Rs 50 lakh. The message warned that if the family approached the police or attempted to freeze bank accounts, they would be responsible for his death.
+
+A video showing Jignesh bound and appearing to be held hostage was also sent to the family, leaving them terrified.
+
+Watch the video here:
+
+Given the seriousness of the case, Utran police launched an extensive investigation, using technical surveillance, CCTV footage and human intelligence to trace the missing man. Police teams were dispatched to multiple locations as Jignesh's movements kept changing.
+
+At one point, authorities tracked his location to Madhya Pradesh. Another video later surfaced, purportedly showing him tied up, with threats that his body would be returned if the ransom was not paid. However, investigators eventually determined that the footage had been recorded in Godhra.
+
+On June 15, at around 1pm, police located Jignesh safe and sound at Shiv Hotel in Godhra, Panchmahal district.
+
+During questioning, police said Jignesh confessed that the entire kidnapping story had been fabricated by him. He had allegedly typed the threatening messages himself and recorded the hostage videos to convince his family that he had been abducted. According to investigators, he even demonstrated before police how he had tied himself up and filmed the videos.
+
+Speaking about the case, the Surat DCP said police had treated the matter with the utmost seriousness and pursued every possible lead.
+
+He said the investigation eventually revealed that Jignesh had suffered losses of Rs 50-60 lakh in call and put options trading in the stock market. According to the officer, the accountant had led a simple life and worked for a private company, but had entered options trading in the hope of earning more money.
+
+Police believe the fake kidnapping was an attempt to obtain money from his family to cover those losses.
+
+DCP Jhala added that multiple teams from Utran Police and the Local Crime Branch had been mobilised across Madhya Pradesh and Godhra, and that officers pursued every angle before ultimately locating the missing man.
+
+Following his arrest, police booked Jignesh under several provisions of the Bharatiya Nyaya Sanhita (BNS), including Sections 212, 217 and 233, for misleading police, fabricating evidence, and wasting valuable government resources.
+
+Authorities said he has been sent to jail and further investigations are underway.
+
+_(With inputs from Sanjay Singh J Rathod)_
+
+\- Ends
+
+Yashna Talwar
+
+Jun 20, 2026 09:45 IST
+
+---
+
+### Heavy security in place as Cockroach Janta Party stages second protest at Jantar Mantar
+*SECTIONS Heavy security · business*
+
+New Delhi: Heavy security arrangements were put in place across the national capital on Saturday as the Cockroach Janta Party will hold its second protest at Jantar Mantar, with police deploying extensive surveillance and crowd-control measures, officials said.
+
+The protest, led by CJP founder Abhijeet Dipke, is scheduled to begin at 1 pm amid heightened police presence, with supporters arriving from different parts of Delhi and neighbouring states.
+
+Authorities have granted permission for the demonstration, officials said.
+
+  
+
+CCTV cameras were installed in and around the protest venue to monitor the gathering in real time, while around 270 body-worn cameras will be used by police personnel deployed at the site to ensure transparency and document proceedings, according to officials.
+
+Delhi Police videographers were also stationed at the venue to record the protest and track any developments on the ground, they said.
+
+Multiple layers of barricades have been placed around Jantar Mantar and adjoining roads, with vehicles being checked at key entry and exit points across the city as part of preventive measures.
+
+Senior Delhi Police officers, including top brass, have been assigned field duties to oversee the arrangements and ensure law and order, police sources said. Reserve forces have also been kept on standby to tackle any untoward situation.
+
+"Delhi Police has made adequate arrangements and we appeal to protesters to maintain peace and cooperate with law enforcement," a senior officer said.
+
+The Special Branch is keeping a close watch on developments at the protest site as well as 
+
+Security has also been strengthened at major transport hubs, including the Indira Gandhi International Airport, railway stations, inter-state bus terminals and border points, as a precautionary measure.
+
+Traffic diversions have been planned in parts of central Delhi depending on the size of the gathering, while metro services continue to operate normally, officials added.
+
+On June 15, Dipke was slapped multiple times and manhandled by miscreants while he was being carried on supporters' shoulders during a protest in Jaipur.
+
+The CJP, which started as a satirical online campaign following remarks made by Chief Justice of India Surya Kant during a court hearing last month, has since grown into an organised protest platform, drawing considerable traction on social media.
+
+---
+
+### Indian Embassy hosts Yoga session ahead of International Yoga Day in Washington DC
+*ET Online · business*
+
+The Indian Embassy in the United States organised a yoga session at the Lincoln Memorial in Washington, DC, ahead of the International Day of Yoga on June 21. The session was part of a series of pre-event celebrations leading up to the International Day of Yoga, which is observed annually on June 21...
+
+[Read full article](https://economictimes.indiatimes.com/news/india/indian-embassy-hosts-yoga-session-ahead-of-international-yoga-day-in-washington-dc/videoshow/131870269.cms)
+
+---
+
+### Breaking News Live: NEET re-exam 2026 preparations intensify with nationwide mock drill - The Economic Times
+*Economic Times · business*
+
+20 Jun 2026 | 10:09:14 AM IST
+
+NEET re-exam 2026
+
+Synopsis
+
+Breaking News Live Updates: A nationwide mock drill is being conducted across the country ahead of the NEET re-examination to ensure a smooth, secure, and transparent exam process.
+
+A nationwide mock drill is being conducted across the country ahead of the NEET re-examination to ensure a smooth, secure, and transparent exam process.
+
+## PM to join Paschimbanga Divas celebrations, Yoga Day programme during Bengal visit
+
+Prime Minister Narendra Modi will arrive in West Bengal on Saturday on a two-day visit, during which he will join Paschimbanga Divas celebrations, lead the main event of the International Day of Yoga from Kolkata, and commission three indigenously built naval ships.
+
+### 6 lakh organisations register to perform yoga with PM Modi on IDY 2026
+
+### NEET re-exam 2026 preparations intensify with nationwide mock drill
+
+A nationwide mock drill is being conducted across the country ahead of the NEET re-examination to ensure a smooth, secure, and transparent exam process.
+
+### NEET-UG Re-exam: "Adequate police force, CCTV surveillance deployed at 47 exam centers in Prayagraj; all preparations complete to ensure a fair and cheat-free examination," says DCP Manish Kumar Shandilya.
+
+### Fire breaks out in electrical goods godown in Delhi's Shahdara, one rescued
+
+One person was rescued after a fire broke out in an electrical goods godown in east Delhi's Shahdara area early Saturday morning, officials said.
+
+### BEST strike day two: Commuters face hardships as buses remain off roads
+
+Despite appeals by the Maharashtra Transport Minister and invocation of the Essential Services Maintenance Act, employees of the Brihanmumbai Electric Supply and Transport remained firm on strike, with common people bearing the brunt on the second day on Saturday.
+
+### Modi ‘tough cookie’, ‘great leader’ who has been in power for over 12 years: Trump
+
+US President Donald Trump lavished praise on Prime Minister Narendra Modi, saying he is a “great leader” and “tough guy”, who has been in power for more than 12 years.
+
+### India preferred hub for manufacturing, GCCs: Experts at Houston roundtable
+
+India’s policy reforms, skilled workforce, competitive costs and robust digital infrastructure are positioning the country as a preferred destination for advanced manufacturing and Global Capability Centres (GCCs), industry leaders said at a roundtable in Houston.
+
+---
+
+### Shubman Gill, Gautam Gambhir Urged To 'Bite The Bullet' And Take Big Call In 3rd ODI Against Afghanistan
+*Unknown · sports*
+
+Aakash Chopra did not include Harshit Rana as he picked India's playing XI for the third and final ODI match against Afghanistan on Saturday.
+
+[Read full article](https://sports.ndtv.com/india-vs-afghanistan-2026/shubman-gill-gautam-gambhir-urged-to-bite-the-bullet-and-take-big-call-in-3rd-odi-against-afghanistan-11662334)
+
+---
+
+### 'Major win for India': Vivek Aggarwal elected as FATF vice president
+*TOI News Desk · regional, india*
+
+Vivek Aggarwal, secretary, government of India
+
+India has secured a key position in the leadership of the Financial Action Task Force (FATF), with senior bureaucrat Vivek Aggarwal elected as vice president of the global watchdog responsible for combating money laundering and terrorist financing.
+
+Announcing the development on X, ministry of external affairs spokesperson Randhir Jaiswal described it as a “major win for India in FATF”.“Major win for India in FATF! Shri Vivek Aggarwal, Secretary, Government of India, has been elected the Vice President of the Financial Action Task Force. As India continues to champion a zero-tolerance policy against terrorism, this leadership role reinforces our relentless focus on combating global terrorist financing networks and dismantling illicit financial systems.His profound expertise as the former Head of India's FATF delegation and former Director of FIU-IND will advance FATF's mandate to secure financial integrity,” Jaiswal posted.
+
+The MEA said that the appointment reflected country's growing role in international efforts aimed at tackling terrorist financing and illicit financial networks. It noted that Aggarwal’s experience leading India’s FATF delegation and heading the Financial Intelligence Unit-India (FIU-IND) would contribute to advancing the organisation’s mandate of safeguarding financial integrity.
+
+The ministry of culture also welcomed the development, saying it highlighted the confidence and credibility India has built across more than 200 jurisdictions and underlined the country’s role in shaping global policy responses to emerging challenges.“It reflects the immense trust and credibility India has built across more than 200 jurisdictions, highlighting the nation's proactive role in shaping global policy on emerging risks like digital payments and virtual assets,” the ministry said in a post on X.The FATF is an intergovernmental body that formulates standards and policies to combat money laundering, terrorist financing and other threats to the international financial system.Aggarwal, a 1994-batch IAS officer of the Madhya Pradesh cadre, currently serves as Secretary in the Ministry of Culture. He has more than three decades of administrative experience and has held senior positions in both the Union and state governments across sectors including finance, agriculture, urban development, infrastructure and public policy.Before assuming charge as Culture Secretary in April 2025, he served as additional secretary in the department of Revenue under the ministry of finance. During that tenure, he headed the FIU-IND and led India’s delegation to the FATF. He was responsible for matters
+
+---
+
+### NEET UG re-test 2026: NTA allots Abu Dhabi centre to Nagpur student
+*India Today Education Desk · general*
+
+## A Nagpur student was mistakenly allotted an Abu Dhabi examination centre for the NEET UG 2026 re-exam despite selecting centres in Maharashtra. The error sparked fresh criticism of the NTA, which later acknowledged a technical glitch and promised a revised admit card.
+
+Nagpur student allotted Abu Dhabi centre despite local preferences
+
+The National Testing Agency (NTA) will conduct the NEET UG 2026 re-examination on June 29. However, ahead of the exam, a fresh controversy has emerged.
+
+In a reported case of mismanagement, Abdullah, a student from Nagpur, was allotted an examination centre in Abu Dhabi, UAE, for the upcoming NEET UG re-exam. The development has left the student and his family distressed, especially as only a day remains before the examination. Notably, Abdullah had been allotted a centre in Nagpur during the previous examination.
+
+### NAGPUR STUDENT ALLOTED ABU DHABI CENTRE
+
+The incident has once again brought the NTA's administrative functioning under scrutiny. Abdullah had selected Nagpur, Wardha, and Bhandara as his preferred examination centres while filling out the application form. Despite listing these local preferences, he was assigned a centre in Abu Dhabi, thousands of kilometres away from his hometown.
+
+Nagpur student allotted Abu Dhabi centre
+
+The student's father told Aaj Tak that the family was shocked upon discovering the allotment. He said they had carefully selected centres in and around Nagpur while submitting the application, and could not understand how a foreign examination centre had been assigned instead.
+
+The situation became even more challenging because the student does not possess a passport. Under such circumstances, it would have been virtually impossible for the family to complete passport and visa formalities and send him abroad to appear for the examination within such a short period.
+
+Reacting to the incident, former Maharashtra minister and Congress leader Dr Anees Ahmed expressed strong displeasure and alleged that the NTA had made a mockery of the examination process. Speaking to Aaj Tak, he demanded that the agency immediately issue a revised admit card and rectify the error.
+
+### NTA ACKNOWLEDGES ERROR
+
+Following the discovery of the mistake, the student's parents immediately contacted the NTA helpline and lodged a complaint. According to the family, NTA officials acknowledged that a technical glitch had occurred and assured them that corrective action would be taken.
+
+However, despite the assurance, the student and his family have remained under considerable stress while awaiting an updated hall ticket.
+
+Speaking to Aaj Tak over the phone, Dr Anees Ahmed said he personally raised the issue with the NTA and contacted the helpline on the student's behalf. According to him, after discussions late on Friday night, the student was informed that he would be allotted an examination centre in Nagpur and that a revised admit card would be issued by 4 PM on Saturday.
+
+While the agency's assurance has provided some relief, the incident has once again sparked concerns over the robustness of the NTA's examination management systems, particularly at a time when the agency is facing heightened scrutiny over the conduct of national-level entrance examinations.
+
+(With inputs from Yogesh Pande)
+
+\- Ends
+
+Karan Yadav
+
+Jun 20, 2026 09:30 IST
+
+---
+
+### Shillong Teer Results Today Live, June 20, 2026: Winning Numbers For All Teer Games
+*Nibandh Vinod · general*
+
+Shillong Teer Result Today: Here's full list of winning numbers for Shillong Teer, Juwai Teer, Khanapara Teer, and more for June 20, 2026.
+
+[Read full article](https://www.news18.com/india/shillong-teer-result-today-june-20-2026-first-and-second-round-lottery-result-check-winning-numbers-full-list-10157469.html)
+
+---
+
+### No, An Indian Woman Didn’t Pull a Knife on a Chinese Man To Force Marriage
+*Aishwarya Varma · regional*
+
+A video showing a man holding a woman's arm to restrain her movement is being widely widely shared on social media.
+
+-   The clip shows the woman with a knife in a crowded place, before being apprehended by security and being restrained during what appears to be a music performance in Kuala Lumpur, Malaysia.
+    
+
+**The claim:** The video is being shared with text claiming, "Indian woman Anita Patel pulled a knife at a Chinese man in concert after he refused her marriage proposal as she wanted to get Chinese citizenship for free food facilities (sic)."
+
+_(Archived versions of more posts sharing this claim can be seen here and here.)_
+
+**Is it true?:** No, the claim is false. The woman was identified as one Shannon Anne-Ooi, and there are no credible sources which state her nationality or the intentions behind her actions.
+
+**How do we know?:** We ran a reverse image search on the clip, which led us to a YouTube short shared by _Channel News Asia_, on 4 May 2026.
+
+-   It said that a woman had been arrested for brandishing a knife during an event called the Rain Rave Water Music Festival in Malaysia's Kuala Lumpur on 2 May 2026.
+    
+
+-   Taking a cue from this, we ran a keyword search with the festival's name and 'knife'.
+    
+-   This led us to a report by news website _Free Malaysia Today_, which said that the woman, identified as one Shannon Anne-Ooi had been arrested, remanded, and then referred to the hospital for psychiatric evaluation.
+    
+
+-   The report added that she was charged with carrying an offensive weapon in a public place for unlawful purposes, which was punishable by up to two years in prison and whipping, if convicted.
+    
+-   Another report by _Malay Mail_ also identified the woman as one Shannon Anne-Ooi, not Anita Patel.
+    
+-   Both publications did not mention anything about the woman being Indian or wanting to get married to a Chinese man, establishing that the claim has no basis in fact.
+    
+
+**Conclusion:** A video of a knife-wielding woman in Malaysia is being shared to falsely claim that it shows an Indian woman threatening a Chinese man after he refused to marry her.
+
+_(Not convinced of a post or information you came across online and want it verified? Send us the details on WhatsApp at 9540511818 , or e-mail it to us at webqoof@thequint.com and we'll fact-check it for you. You can 
+
+### Read Latest News and Breaking News at The Quint, browse for more from news and webqoof
+
+### Topics:  Attack   Webqoof   Fact-Check
+
+---
+
+### President Murmu, PM Modi to launch projects worth over Rs 47,600 crore in Odisha
+*SECTIONS President Murmu · general*
+
+Bhubaneswar: President Droupadi Murmu and Prime Minister Narendra Modi will jointly unveil development projects worth more than Rs 47,600 crore in Odisha on Saturday, officials said.
+
+Murmu, who arrived in the state on Friday evening, will join the prime minister at Rairangpur in Mayurbhanj district for the event, marking a rare occasion when both leaders will participate in a development programme together.
+
+The projects, spanning sectors such as energy, industrial infrastructure, roads, drinking water, health, education, tourism and irrigation, are being unveiled on the second anniversary of the BJP government in Odisha.
+
+  
+
+According to an official statement, the initiatives are aimed at strengthening infrastructure, improving connectivity, enhancing energy security and creating employment opportunities across the state.
+
+"Reflecting the prime minister's vision of inclusive and holistic development, these initiatives will accelerate growth in tribal and rural regions and extend the benefits of development to every corner of the state," the statement said.
+
+Among the major projects for which foundation stones will be laid are the 600-MW Upper Indravati pumped storage project and the Stage-II expansion of the IB Thermal Power Station, comprising two 660-MW units.
+
+The foundation stone for the Bharat Coal Gasification and Chemicals Limited (BCGCL) project at Lakhanpur in Jharsuguda district will also be laid.
+
+Other projects include a 300-tonne-per-day municipal solid waste-based compressed biogas plant in Bhubaneswar, a bridge over the Kathajodi river connecting Bhubaneswar and Cuttack, widening and strengthening of the Dhalpur-Harbhanga road in Boudh district, four-laning of the Nuapada-Ghatipada section of NH-353, the Kusumdihi mega lift irrigation project, an IGNOU regional centre and an indoor badminton complex at Rairangpur.
+
+PM Modi will also dedicate two railway multi-tracking projects worth more than Rs 732 crore to the nation.
+
+The 19-km Jakhapura-Jajpur Keonjhar Road-Baitarani Road multi-tracking project, built at a cost of Rs 323 crore as part of the Bhadrak-Nergundi multi-tracking project, is expected to ease congestion on the heavily loaded Howrah-Chennai main line and improve passenger and freight movement.
+
+The 27-km Hindol Road-Meramandali multi-tracking project, completed at a cost of Rs 409 crore as part of the Budhapank-Salegaon multi-tracking project, will enhance train handling capacity and facilitate smoother movement of coal, steel, power-sector inputs and other industrial commodities.
+
+Modi will also inaugurate the 300-bed district headquarters hospital building at Boudh, 24 Atal bus stands and nine automated testing stations in different districts.
+
+Other projects to be inaugurated include the Nayagarh town bypass on NH-57, the underground pipeline component of the Kusumi Smart Irrigation Project, and a sports complex and tribal research centre at Rairangpur.
+
+---
+
+### Trump calls Modi a great leader and tough guy in Axios interview
+*India Today World Desk · world*
+
+## Donald Trump lauded Prime Minister Narendra Modi in an Axios interview after their G7 meeting. The remarks spotlight Modi's global stature even as India-US trade ties remain under strain.
+
+Stock photo used for illustration
+
+US President Donald Trump has praised Prime Minister Narendra Modi, calling him a "great leader" and a "tough guy" in an interview with Axios. Trump also said Modi and Chinese President Xi Jinping were the two leaders he liked the most for their power, leverage and ability to deliver results.
+
+Trump said the US does a lot of business with India and described Modi as a leader who "stays out of wars", adding that this was "smart". He also spoke about his recent meeting with Modi on the sidelines of the G7 Summit in France on Wednesday, which came as India-US ties have been under strain over the past year.
+
+Responding to a question on the two greatest leaders he likes the most in terms of power, leverage and the ability to execute, Trump said: "I think Modi is very good. Yeah. They've had some very good numbers announced. He stays out of wars, which is smart. He's 1.5 billion people. He's actually the biggest. India's actually the biggest. And Modi's a great leader."
+
+On trade, Trump said: "And we do a lot of business with them, but now we do fair business. They used to really rip us off. I don't blame them for that. You know, we had stupid politicians that allowed that to happen. But now we do a lot of business." He added: "They're not that happy about it because they used to do a lot better. So Modi's great."
+
+Trump also praised Xi, calling him a leader of great stature and confidence. "If you were going to make a movie about either one of them, you wouldn't be able to find the man in Hollywood," he said. Speaking further about Modi, Trump said: "Modi in a very different way. Just highly respected. I know the real Modi is a very tough cookie. I'll tell you, I got to know some that I didn't know very well."
+
+Trump said he had watched India over the years and had seen leaders change often. "Somebody would be there for six months and then a year. And then all of a sudden, Prime Minister Modi ended up; he's been there for more than 12 years, very solid. And he does it through, like, there's a great calmness, and yet he's not a calm person. He's a very tough guy," he said. Trump also named Pakistan Army chief Asim Munir and Prime Minister Shehbaz Sharif among the leaders he liked. Overall, the interview saw Trump repeatedly praise Modi's leadership, while also referring to trade, diplomacy and his recent meeting with the Prime Minister.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Jun 20, 2026 09:26 IST
+
+---
+
+### Falta candidate Jahangir Khan's wife Sarina Bibi arrested in bid to free TMC leader from police custody
+*TOI News Desk · regional, india*
+
+NEW DELHI: West Bengal Police have arrested Sarina Bibi, wife of jailed former Trinamool Congress leader Jahangir Khan, for allegedly orchestrating an attack on Falta police station and attempting to secure her husband's release from custody.Police said Sarina Bibi was arrested in connection with the June 17 incident, during which supporters of Khan allegedly tried to storm the police station. More than 25 people have been arrested so far in the case.
+
+Acting on intelligence inputs, police and central forces were deployed in advance to prevent any attempt to attack the station.
+
+Investigators alleged that the demonstrators intended to forcibly secure Khan's release and create unrest in the area. An FIR was subsequently registered against Bibi, whom police described as the alleged mastermind behind the plan.The latest arrest is part of an ongoing crackdown on the network of Jahangir Khan, popularly known as "Pushpa", who was arrested near the India-Nepal border on June 8.Khan, a former Trinamool Congress strongman from Falta, became a controversial figure during the West Bengal Assembly elections after allegations of irregularities in the constituency led to a repoll.
+
+He had withdrawn from the contest shortly before voting, though his name remained on the ballot.His arrest came weeks after the Calcutta High Court refused to extend interim protection granted to him in five FIRs. Khan had approached the court seeking protection from arrest, alleging that multiple criminal cases were being filed against him.The politician earned the nickname "Pushpa" after comparing himself to the character portrayed by actor Allu Arjun in the blockbuster Telugu film franchise.
+
+During the election campaign, he referred to himself as "Pushpa" in response to Election Commission-appointed police observer Ajay Pal Sharma being likened to the "Singham" character from the popular Bollywood films.Khan is facing multiple charges, including extortion. Since his arrest, police have carried out a series of operations in Falta aimed at dismantling his alleged criminal network and restoring law and order in the region.Police said the investigation into the June 17 incident is continuing and further arrests have not been ruled out.
+
+---
+
+### ‘Voicemails for Isabelle’ X review: Fans rave about new age comedy; call it ‘a truly unique kind of romcom’
+*TOI Entertainment Desk · entertainment*
+
+Jill sends voicemails to her sister's number after her death, only for Wes to receive them after being reassigned her number to him.
+
+‘Voicemails for Isabelle’ is one of the latest OTT romantic comedy releases that people have been raving about recently. Within a day, the film has managed to rise to the top of the viewership ranks.
+
+The film's plot revolves around Jill, who is having a hard time dealing with the death of her younger sister, Isabelle. To cope with everything, she sends voicemails to her old number. However, she is left completely unaware that the voicemails are going to Wes, a real estate agent from Texas who has been reassigned Isabelle’s number.Fans and netizens alike have been raving about the new-age romantic comedy online.
+
+Here is a look at what many people have to say about the OTT release.
+
+## Fans praise Nick Robinson and Zoey Deutch’s acting on screen
+
+Many people have been praising the rom-com film for bringing back the classic 2000s energy to the OTT platform. Not only that, but there have also been many comments and posts about how great and natural Deutch and Robinson’s chemistry is. Both of the actors rose to fame for their starring roles in romantic comedy films, and many people have been rejoicing that they joined hands for the project.
+
+Voicemails to Isabelle Twitter review
+
+One social media user stated, “STOP, they were such a wholesome duo from beginning to end. ───♡ #voicemailsforisabelle”, while sharing a scene from the film where the two of them go around the city on a date. Another person shared, “#VoicemailsForIsabelle is a truly unique kind of romcom, and I really loved the story (heart emoji). Such a fun yet emotional movie with a beautiful plot and well-crafted storyline. The acting was superb.
+
+I’d give it a 7.9/10.”
+
+Voicemails to Isabelle Twitter review
+
+Another fan of the film wrote online: “Zoey Deutch and Nick Robinson dancing together to Robyn’s 'Dancing on My Own' at the end of Voicemails for Isabelle. I'm OBSESSED.” Fans also praised the typical genre-
+
+”
+
+Voicemails to Isabelle Twitter review
+
+## ‘Voicemails for Isabelle’: Netizens say they were not expecting to like
+
+Many people also ended up commenting about how they did not have many expectations from the film, however, they were left fairly surprised. One person wrote, “Voicemails for Isabelle is so good, I can’t remember the last time a romcom made me feel something”, while another shared that “I wasn’t prepared for how much Voicemails for Isabelle was going to make me laugh and cry.”
+
+Fans rave about how they were not expecting to like 'Voicemails for Isabelle' but ended up loving the film.
+
+Another netizen online on X posted that, “Voicemails for Isabelle is a fantastic movie.
+
+Just sit back and enjoy.” Another social media user further praised the film and added that “Absolutely ADORED Netflix’s latest romcom VOICEMAILS FOR ISABELLE Zoey Deutch gives a powerhouse performance as a grieving sister, badass chef/business owner and comedic genius! I am so here for the Nick Robinson leading man renaissance too! Highly recommend this one!.
+
+”
+
+## More about ‘Voicemails to Isabelle’
+
+The film is written and directed by Leah McKendrick and is an original romantic comedy.
+
+The film, along with Nick Robinson and Zoey Deutch, also stars names such as Nick Offerman as Chef Bastien, Lukas Gage as Arthur, Toby Sandeman as Tyler, Harry Shum Jr. as Andy, Ciara Bravo as Isabelle, Spencer Lord as Scott, Gil Bellows as Jill and Isabelle’s Dad, Tanis Dolman as Jill and Isabelle's Mom, Leah McKendrick as Breeda, Megan Danso as Zella, and Chirag Naik as Felix.Originally, Hailee Steinfeld had been selected to play the lead when the project was first announced in 2019; however, it was later confirmed that Zoey Deutch had been recast as the lead. The principal photography and overall production happened last year in Vancouver, Canada.Zoey Deutch and Nick Robinson’s film ‘Voicemails to Isabelle’ has officially been released on Netflix and is available for streaming now.
+
+---
+
+### Sena not born to merge with anyone: Uddhav Thackeray rubbishes rebel MPs' claim
+*India Today News Desk · general*
+
+Shiv Sena (UBT) chief Uddhav Thackeray has dismissed speculation that his party could merge with the Congress, rejecting concerns raised by six rebel Lok Sabha MPs amid growing signs of another split within the organisation. His remarks came after he publicly offered to step aside as party chief if workers no longer had confidence in his leadership, while insisting he would continue fighting for the party’s ideology.
+
+Addressing party workers in Mumbai on the 60th foundation day of the undivided Shiv Sena established by his father Bal Thackeray, Uddhav asserted that the party’s identity remained unchanged.
+
+"The Shiv Sena was not born to merge with anyone. It was created to fight for the rights of Marathi people and protect Hindutva," he said.
+
+The statement was seen as a direct response to rebel MPs who have reportedly justified their revolt by claiming they feared the Uddhav-led party was drifting too close to the Congress and could eventually merge with it.
+
+The rebellion escalated after six of the party’s nine Lok Sabha MPs skipped an important parliamentary meeting in New Delhi despite a party directive.
+
+Those absent included Nagesh Aashtikar, Sanjay Jadhav, Sanjay Deshmukh, Sanjay Dina Patil, Omprakash Rajenimbalkar and Bhausaheb Wakchaure.
+
+Rejecting their reasoning, Thackeray said, "If we didn't merge with the BJP despite being an ally for 30 years, how can we merge with the Congress. I fear the Maharashtra BJP might merge with the Shinde Sena."
+
+He acknowledged that Shiv Sena had longstanding political disagreements with the Congress but argued that the party had never attempted to weaken the Sena in the way he accused the BJP of doing.
+
+In an emotional moment, Thackeray apologised to supporters over the rebellion. "Today I apologise to voters because they voted for us but our MPs left," he said.
+
+Responding to criticism that he had become inaccessible to party workers, Thackeray defended his leadership and campaign efforts.
+
+"If I didn't move out to meet party workers and travel across the state, how did all of them win elections. During the (2024) Lok Sabha elections, I held seven to ten meetings in every constituency. They became MPs because of the faith of Shiv Sainiks and voters."
+
+Referring to the events of 2019, Thackeray said he accepted the chief minister’s post out of responsibility after alleging that the BJP had betrayed the united Shiv Sena.
+
+He also warned that India was moving towards a "one party, no election" model, arguing that defections engineered through political pressure threatened democratic institutions and public trust in the electoral process.
+
+\- Ends
+
+With PTI inputs
+
+India Today Web Desk
+
+Jun 20, 2026 09:20 IST
+
+---
+
+### RBI's 'Debt Wish' Will Make India's Forex Reserves More Precarious Going Forward
+*Subhash Chandra Garg · regional*
+
+On 5 June, the government and the Reserve Bank of India (RBI) announced a slew of measures targeted at attracting more foreign debt into India.
+
+This included a tax exemption on foreigners’ investment in government securities; the RBI bearing the full hedging cost for banks raising Foreign Currency Non-Resident Bank (FCNR\[B\]) deposits; and subsidising the hedging cost for external commercial borrowings (ECBs) raised by public sector enterprises.
+
+There has been significant pressure on India’s foreign exchange reserves, resulting in massive depreciation of the rupee against the US dollar of more than 12 percent in the last year. **The government and the RBI are willing to take on more debt ostensibly to prevent further erosion in forex reserves—and to provide a safety belt to the rupee exchange rate.** 
+
+Conspicuously, no measures, barring a token effort permitting Persons Resident Outside India (PROI) to invest in India’s listed companies and a _pro forma_ increase in the overall investment limit from 10 to 24 percent, have been taken for boosting foreign investment.
+
+> Is there a panic in the government and the RBI rushing for more debt? Will these measures trade prudential safeguards for risky foreign debt inflows? Will there be a flood of debt inflows? Will it secure India’s foreign reserves and external stability or make it more vulnerable?
+
+## India’s Foreign Debt and Targeted Constituents
+
+India’s outstanding foreign debt liabilities amounted to $765.5 billion on 31 December 2025, as per the quarterly external debt report of the Ministry of Finance. India’s total external liabilities on that date were $1,458.51 billion and external assets $1,198.02 billion (including forex reserves of $687.43 billion), as per the RBI's Quarterly International Investment Position data released in May 2026.
+
+India’s foreign debt exceeded India’s total forex reserves by 11 percent and other assets ($510.6 billion) by about 50 percent. India’s foreign debt is quite high with respect to its external reserves and assets.
+
+> Over the years, India’s external debt has become heavily non-governmental (commercial and banking), rising to $596.8 billion (about 78 percent of the total debt of $765.5 billion).
+
+Banks owed $202.7 billion; non-banking financial corporations (Power Finance Corporation or PFC, EXIM, and so on) $75.7 billion; commercial enterprises and businesses $281.6 billion; and inter-corporate borrowings $36.8 billion.
+
+Non-government external debt constitutes 86.8 percent of India’s forex reserves and exceeds 16 percent of India’s GDP. There are no firm estimates of PSUs' outstanding external debt. My estimates are about 5 percent of commercial debt ($14 billion) and 50 percent of non-bank financial corporations ($37 billion). In all, about $50 billion.
+
+> NRI deposits ($165.7 billion on 31 March 2026) make up the bulk of banks’ external liabilities. FCNR(B) deposits, targeted by the RBI's decision to bear full hedging cost, at $33.76 billion make up about 20 percent of the total NRI deposits. The Non-Resident External \[NR(E)\] Deposits, which are also freely repatriable and exempt from income tax like FCNR(B) deposits ($98.56 billion), are larger and make up 60 percent of the total deposits. The NR(E) depositors bear foreign exchange risk. The RBI announced no support for NR(E) deposits.
+
+Foreigners’ investment in government securities is made in rupee (they also bear full exchange risk) and is not counted in India’s foreign debt liabilities. At the end of December 2025, the FPIs held 2.96 percent of outstanding central government securities of Rs 123.94 trillion, or about Rs 3.66 trillion ($38 billion at Rs 96 to a US dollar).
+
+The 5 June debt measures target flows, which currently amount to about 85 billion of foreign debt \[PSUs and FCNR(B) deposits\] and 38 billion of government securities. 
+
+## Bet on Government Securities Unlikely To Succeed
+
+Many factors enter into FPIs’ decision to invest in central government securities:
+
+-   Interest rate differences between what India pays and what they can earn on US securities of comparable tenor.
+    
+-   Rupee depreciation partly managed by hedging (typically available for short periods, whereas interest flows and repayment are long-term).
+    
+-   And income tax payable on interest (there are negligible capital gains). 
+    
+
+The FPIs have been reducing their exposure in government securities since 2018. The inclusion of Indian bonds in two emerging market global bond indices had revived their interest to some extent from 2024. In the last six months, the FPIs, however, have been net sellers (net reduction $0.3 billion in 2025-26). 
+
+The amendment to the Income Tax Act, 2025 to exempt FIIs, which are predominantly FPIs, from income tax on interest and capital gains impacts only one of the considerations. This will also benefit only the FIIs/FPIs from countries which do not have a double tax avoidance agreement (DTAA) or have not been given specific tax exemptions. This universe may not exceed 25 percent of the total FPI investments in government securities.
+
+The RBI is also streamlining the FPI regime by removing many irritants (many quotas and sub-quotas, concentration limits, no investment in short-term securities, etc) on a mechanism termed the 'general route'. These measures make the general route more akin to the other route—the fully accessible route (FAR), which accounts for about 85 percent of FPIs’ investment in government securities.
+
+The RBI measure is largely _pro forma,_ and not going to make any difference. The RBI may as well abolish the general route. 
+
+> The income tax exemption is unlikely to make much difference and might not bring even an additional $5 billion if the rupee depreciates more than 3-4 percent in the rest of 2026-27. It will also leave Indian investors unhappy at discriminatory treatment as they remain subject to income tax.
+
+## Hedging Subsidy Will Damage PSUs' Credit Rating
+
+The PSUs—both financial (SBI, PFC, EXIM Bank, etc) and non-financial (Indian Oil, ONGC, etc)—raise external debt in many formats like ECBs, trade credit, corporate bonds, etc. The borrowing needs of the oil sector and fertiliser PSUs have gone up sharply after the breakout of the US/Israel-Iran war.
+
+> The RBI hedging subsidy of 1.5 percent for borrowings up to 30 September will encourage the PSUs (both financial and non-financial) to rush to raise ECBs, bonds, and trade credits by offering up to a 1.5 percent higher interest rate than they were doing thus far. As Indian PSUs are proxy sovereigns, the foreigners may not resist the temptation of earning up to 1.5 percent extra interest.
+
+This will raise India’s external borrowing cost, including other borrowers (in the private sector, not accorded the favour) who may also have to raise interest payable on their external borrowing. 
+
+There is also prudential distortion in domestic financial markets, as this measure essentially shifts the hedging cost from the PSUs’ balance sheet to the RBI balance sheet. The PSUs’ borrowings after 30 September may also become more uncertain. 
+
+Depending upon the efficiency of PSUs, they may raise an additional $10-15 billion in debt, which is subsidised for them but costlier for the nation. 
+
+## FCNR(B) Deposits Hedging Subsidy Is Pernicious
+
+The RBI will bear the full hedging cost on FCNR(B) deposits. The measure alters incentives for both the banks and the NRIs. A great FCNR(B) rush has begun. There are various estimates floating around—$50 billion and higher.
+
+The banks can now offer an interest rate as high as their cost of rupee borrowing as the difference between their rupee and foreign currency borrowing vanishes. The banks have announced schemes for accepting FCNR(B) deposits at 6 percent (some going up to 7 percent). They were paying 3-3.5 percent interest on FCNR(B) deposits earlier. 
+
+> The NRIs have two big opportunities. First, they can make new FCNR(B) deposits, as they would be able to earn higher interest than they are getting for their deposits abroad (including by taking loans at a lower effective cost). Second, they can convert their NR(E) deposits into FCNR(B) deposits as interest spread between the two schemes disappears. 
+
+Interest rates are going up abroad. Recently, the US Treasury paid about 5 percent interest on a 30-year bond, and deposits of 3-5 years are getting interest in excess of 4 percent. Extra interest on FCNR(B) deposits is about 2 percent—large enough but not as big as in 2013. Conversion of NR(E) deposits appears to be clearly attractive. The NRIs can keep their dollars and get interest payable on rupee deposits.
+
+It is difficult to figure out how exactly the NRIs will behave. As things stand today, it looks likely that the FCNR(B) deposits might go up to about $100 billion (from $34 billion), with fresh inflows amounting to about $25-30 billion. 
+
+> The move on FCNR(B) deposits is quite a dangerous one. In one sweep, the RBI has removed the distinction between rupee and dollar liabilities on NRI deposits for the banks and the country. This positions India and Indian banks as much poorer credits, besides significantly raising India’s interest servicing cost. 
+
+## A Fatal 'Debt Wish'
+
+It has been a core part of India’s prudential external debt management that the businesses and banks bear the full cost of borrowing abroad, including currency risk or its hedging cost. This makes their incentives fully aligned to their real cost of external borrowing, tempering a rush for foreign borrowings to take advantage of the interest rate differential between rupee and foreign currency borrowings. 
+
+The government and the RBI, by taking currency risk hedging cost out of the prudential debt management toolkit, has distorted credit markets and made India, banks, and businesses tempted to binge on foreign debt recklessly. 
+
+The fact that the government and the RBI ignored foreign investment completely and focused on raising easy and costly debt only indicates their lack of faith in India’s long-term growth story and foreign reserves and financial sector stability.
+
+> Their "debt wish" will make India’s external investment account and foreign exchange reserves more precarious going forward, making it a fatal attraction.
+
+_(Subhash Chandra Garg is the Chief Policy Advisor, SUBHANJALI, and Former Finance and Economic Affairs Secretary, Government of India. He's the author of many books, including_ 'The $10 Trillion Dream Dented, 'We Also Make Policy', and 'Explanation and Commentary on Budget 2025-26'_. This is an opinion piece, and the views expressed above are the author’s own._ **The Quint** _neither endorses nor is responsible for the same.)_
+
+---
+
+### ‘Some Are Dogs, But Not Loyal’: Sanjay Raut’s Cryptic Message Amid ‘Operation Tiger’ Buzz
+*Anushka Vats · general*
+
+The post came as the Uddhav Balasaheb Thackeray-led faction faces what could become a second major split in the party, following the 2022 rebellion led by Deputy CM Eknath Shinde.
+
+[Read full article](https://www.news18.com/india/some-are-dogs-but-not-loyal-sanjay-rauts-cryptic-message-amid-operation-tiger-buzz-ws-l-10162065.html)
+
+
+---
+
 ## 19 June 2026
 
 ### India test it heaviest 120mm mortar system 'Garudastra', check range, firing rate, drone integration and key features
