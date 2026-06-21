@@ -1,3 +1,752 @@
+## 21 June 2026
+
+### Ram Temple Donation Row: CCTV Footage Flags Irregularities In Cash Handling, SIT To Submit Report Soon
+*Anushka Vats · general*
+
+The probe has also revealed serious lapses in the mechanism meant to monitor and count donations, sources said
+
+[Read full article](https://www.news18.com/india/ram-temple-donation-row-cctv-footage-flags-irregularities-in-cash-handling-sit-to-submit-report-soon-ws-l-10163692.html)
+
+---
+
+### Dust storms and rain in North India next week? Why relief will be only temporary; here's what we know
+*Monica Singh · general*
+
+## Dust storms and rain in North India next week? Why relief will be only temporary; here's what we know
+
+A Western Disturbance moving from the Mediterranean is set to trigger dust storms, thunderstorms and scattered rain across northwest India.
+
+High above northwest India, a fast-moving weather system is approaching after travelling thousands of kilometres from the Mediterranean region.
+
+The India Meteorological Department (IMD) expects this system to affect Rajasthan, Punjab, Haryana, Delhi and western Uttar Pradesh between Sunday and Tuesday. It is likely to bring strong winds, dust storms, thunderstorms and short spells of rain.
+
+But the striking question remains: why does this weather often begin with a wall of dust before any rain appears?
+
+## **The system behind it: Western disturbance**
+
+The driver of this change is known as a western disturbance.
+
+It is a storm system that forms outside the tropics, over the Mediterranean and surrounding regions. Instead of developing in warm tropical air like monsoon systems, it originates in cooler mid-latitudes and travels eastward.
+
+Guided by high-altitude winds called the subtropical jet stream, it moves across West Asia and enters northern India after passing through countries like Iran, Afghanistan and Pakistan. Unlike monsoon clouds that carry moisture closer to the ground, this system brings moisture mainly in the upper layers of the atmosphere.
+
+## **Why dust storms come first**
+
+Northwest India is already extremely hot in June, with ground temperatures often soaring beyond 40 degrees in parts of Rajasthan. This heat makes the lower atmosphere highly unstable, storing energy that is ready to be released suddenly.
+
+When the Western Disturbance arrives, it introduces cooler air above this heated surface layer. The sharp temperature contrast triggers rapid storm development. Rain may form inside these clouds, but as it falls, it passes through very dry, hot air below. Much of it evaporates before reaching the ground.
+
+This process cools the surrounding air quickly, causing it to sink in strong downward bursts known as downdrafts.
+
+When these downdrafts hit the surface, they spread out forcefully in all directions, creating powerful wind gusts that can reach 60–80 kmph.
+
+## **The 'aandhi' effect in the desert**
+
+In Rajasthan’s desert region, the ground is dry and covered with fine, loose soil.
+
+So when strong storm winds sweep across the surface, they easily lift large amounts of dust into the air, forming the dense, rolling dust wall locally known as an 'aandhi.' This dust wave usually arrives just before rainfall begins, acting as a visible warning of the incoming storm.
+
+## **Why storms build up in the evening**
+
+These weather events tend to follow a daily pattern. The strongest heating of the land happens in the afternoon, which is when the atmosphere becomes most unstable. By evening, this stored energy is released as warm air rises rapidly, forming thunderstorm clouds.
+
+Storm clusters often develop over the Aravalli region and western Himalayas, then travel eastward overnight, reaching cities like Delhi, Haryana and Punjab during late evening or early morning hours.
+
+## **Why Rajasthan faces the strongest impact**
+
+Rajasthan typically experiences the most intense conditions during these events. It lies directly in the path of incoming Western Disturbances and has some of the highest surface temperatures in the country.
+
+The dry desert landscape provides plenty of loose dust, while the lack of vegetation allows winds to move without much resistance. Because of this combination, wind speeds in parts of the state can reach 70–80 kmph during strong storm activity.
+
+## **Relief From Heat, Not the Monsoon**
+
+Although this system will bring temporary cooling and rain, it is not part of the monsoon advance. It may reduce temperatures and offer short-term relief from the heat, but rainfall remains uneven, and overall seasonal deficits are still significant in many areas.
+
+For now, northwest India should expect a mix of dramatic skies, gusty winds, dust-laden air and brief but intense showers over the next few days.
+
+---
+
+### When the Machine speaks, who is talking?
+*Dr Ruchi Tewari · general*
+
+## While LLMs like ChatGPT and Claude have processed text at a scale that no human mind can approach, the AI does not have the intelligence or knowledge that accrues from experience which is strictly human.
+
+An AI model does not know what it is saying, but It knows what tends to come next. (Representational image made with AI)
+
+Communication, in large part of the twentieth century, has been understood, taught and propagated as a ‘signal-transmission’ concept. This idea was proposed by Claude Shannon in 1948, where he presented the mathematical theory of communication. It became the most seductive and misleading metaphor of communication primarily because of the over simplification of the communication process that it offered. Communication, as he presented, was a signal transmission problem which involved the sender, channel, receiver, and had noise. Success meant the message arrives intact and therefore indicating that the process can be engineered.
+
+Over a period of time, this view of communication came out as highly flawed and ironically, in 2026, we have developed a technology that perfects this model of communication and we have once again labelled this perfection as ‘communication’ and ‘intelligence’.
+
+### The communication argument that ran for a century
+
+Communication debates over the 20th century put our every conceivable argument to contest Shannon’s understanding of communication hinged on the core thesis that this model simply captured the plumbing but missed the point entirely.
+
+Communication is not just delivery, and neither is even an exchange. At its core, communication is the act of constructing a shared meaning and that act, every school of thought insists, is irreducibly human. Every school of thought, from the phenomenologists to the social constructivists, from Stuart Hall's encoding-decoding model to Watzlawick's axioms of human communication, was making a version of the same argument: the model captures the infrastructure and misses the act entirely.
+
+The first objection was about the receiver that the model treated as a passive recipient. Communication evidences indicate that actual human beings receiving messages and making meaning of it is considerably more complicated. The same message, received by the same person in a different emotional state, produces a different meaning and the same message received by a different person with different stakes and different history, it can produce an entirely opposite meaning. The message does not travel like a packet. It arrives, and then it is made.
+
+The second objection was more fundamental. A significant strand of communication scholarship argued that communication's primary function has nothing to do with information transfer.
+
+People communicate to build relationships, to signal care, to create the experience of being understood. The words chosen are not merely vessels for content. They are the content. When a chairperson's note tells shareholders the firm navigated a difficult year with resilience, they are not reporting facts. They are constructing a version of reality, making deliberate choices about what to foreground and what to leave in the shadow, where to claim credit and where to quietly reassign blame. This is not writing. It is thinking made visible.
+
+That distinction matters enormously. Because thinking, unlike writing, cannot be automated
+
+### What does AI and Large Language Models actually do?
+
+Large language models (LLMs), that seem to be substituting for human communication, actually work on predictions. Trained over large sets of textual data, this technology has mastered in predicting the most statistically probable next word given everything that preceded it. This is done with such extraordinary sophistication, and the output generated is often fluent, structurally sound, and contextually responsive that it can be mistaken for communication. In the engineering sense, it is good communication. Clean signal. Low noise. Reliable delivery.
+
+It is not, however, understanding, which is the core to communication. And the reason this distinction matters is not philosophical vanity. It matters because understanding, from the outside, looks almost exactly like sophisticated pattern completion. The model produces writing that resembles human writing because it has been trained on the most widely circulated human writing. It does not know what it is saying. It knows what tends to come next.
+
+And here I do not mean to criticise technology but describe precisely how it works and to highlight the associated risks which not merely is misinformation, or hallucinations but the human misunderstanding. The risk is that we as humans mistake the fluency of the technology for something it does not possess, and in that mistake quietly surrender the only thing that distinguishes communication from a mere transfer.
+
+### The consequence of AI mediated communication: We all will sound the same
+
+The greatest threat of AI-mediated communication is the high likelihood of homogenisation. With the growing number of users employing the same model to draft their communications, what they are producing is not a million distinct messages but variations on a probability distribution.
+
+The model has learned from the most widely read human writing and produces writing that resembles it, which means balanced, cautious, structurally conventional, and smoothed toward the statistical average. Corporate English is already the most relentlessly averaged form of language in circulation. AI does not correct this tendency. It scales it; industrialises it and it is concerning because uniqueness and authenticity in the communicative voice is not an aesthetic preference.
+
+It is through communication that organisations express their identity and discover what they actually believe in. The email that flouts the template, the chairperson’s letter that speaks the difficulties of a genuinely difficult year, the proposal that argues against the consensus are often the most consequential communications a company ever produces. They require someone willing to make a choice and place their own judgment visibly on the line that the probability engine would not make.
+
+Watzlawick's first axiom of communication states that one cannot not communicate. Every silence carries meaning. Every evasion is a statement. Every word chosen over another word is a choice with consequences. A world of AI-generated communication is a world in which those choices are quietly outsourced to a system that cannot, by definition, have intentions. The signal keeps arriving. The meaning slowly drains away.
+
+### The human intelligence that AI is still far from
+
+While the LLMs have processed text at a scale that no human mind can approach but it does not have the intelligence or knowledge that accrues from experience which is strictly human. The experience of from having been wrong in front of people who trusted you, from watching a difficult conversation deteriorate and knowing precisely why; from caring, genuinely and personally, about the person on the other side of the message.
+
+A communicator who thinks does something specific. They re-create the situation, realities, emotions and perspectives of the audience before they ask for facts, build arguments and finally draft the communication. The communicator creates a world of the audience to think through what the audience most needs to understand, what the audience will most resist, and what they themselves are willing to be honest about. They know that every communication is a small act of world-building, and they take the responsibility that comes with it. Therefore, they may sometimes communicate through silence.
+
+This is what a century of communication theory was arguing for. Communication is not, at its root, a technical act. It is a moral one. It involves a mind that chooses, in full awareness of consequences, what meaning to create and what reality to construct in another person's understanding. That is not a function. It is a judgment. And judgment is exactly what the pattern-completion engine cannot exercise.
+
+### Prudent choices for the future
+
+There is a version of the AI-communication future that works. The machine handles the mechanical labour of drafting while the human thinks more carefully, with more time and less friction, about what actually needs to be said. Judgment deepens because effort is redirected. The tool serves the thinker. This version is available to us.
+
+To conclude, I would therefore, I would say that , use of LLM and AI-mediated communication is not a technology question. It never was. It is a thinking question. And thinking, as it turns out, was always the skill. We just forgot to say so, right up until the moment a machine offered to say it for us.
+
+_(Dr Ruchi Tewari is the Associate Professor and Associate Dean – Marketing, Communication and Public Affairs, Chief Marketing Officer at MICA. An academician with over 25 years of experience, she holds a PhD in Management with a focus on CSR communication in the Indian IT sector. She also holds an MPhil and an MA in English Literature.)_
+
+\- Ends
+
+Jun 21, 2026 10:32 IST
+
+---
+
+### ITR-3 Filing Begins For AY 2026-27: Income Tax Department Enables Online Form, Excel Utility
+*Varun Yadav · business*
+
+ITR-3 is meant for individuals and Hindu Undivided Families (HUFs) earning income from business or profession.
+
+[Read full article](https://www.news18.com/business/tax/itr-3-filing-begins-for-ay-2026-27-income-tax-department-enables-online-form-excel-utility-ws-l-10163683.html)
+
+---
+
+### Crackdown on illegal construction in posh Gurugram society; PGs, stores razed
+*Neeraj Vashistha · general*
+
+## The Town and Country Planning Department (DTCP) has intensified demolition and sealing action in Gurugram's DLF Phase-3 over illegal commercial use of residential buildings. The High Court-backed drive has expanded after a large survey found widespread violations and infrastructure strain.
+
+Illegal 45-room PG demolished in Gurugram’s DLF Phase-3 amid large-scale crackdown (Photos: ITG)
+
+A major enforcement drive in Gurugram’s upscale DLF Phase-3 intensified on Sunday with authorities demolishing an illegal mega PG operating out of a residential building, even as a wider crackdown on unauthorised constructions and commercial misuse of homes continued across the township.
+
+The latest action, carried out with heavy police deployment and demolition teams, comes days after a wider anti-encroachment campaign was launched across DLF Phase 1 to 5, where over 300 violations were identified in Phase-3 alone during a detailed survey of nearly 5,100 properties.
+
+Officials said the enforcement action stems from a writ petition filed by the DLF Residents' Welfare Association (RWA) nearly two years ago, prompting a court-directed survey of the entire DLF township.
+
+During inspection, authorities categorised violations under EWS and general categories and issued restoration orders to property owners. After the expiry of compliance deadlines, demolition and sealing operations were initiated. DTCP Enforcement officials said the department is acting strictly in line with High Court and Supreme Court directions.
+
+### CLINICS, PGs OPERATING WITHOUT PERMISSION SEALED
+
+The crackdown has revealed widespread misuse of residential plots for commercial purposes, including illegal clinics, guest houses, PG accommodations, gyms, departmental stores and beauty parlours operating without mandatory approvals.
+
+Officials confirmed that multiple illegal establishments, including at least three guest houses and unauthorised clinics, have been sealed during the ongoing operation. Authorities said such activities were overloading civic infrastructure and violating building norms.
+
+### ENCROACHMENT ON PUBLIC RIGHT OF WAY REMOVED WITH JCBs
+
+The enforcement teams also targeted encroachments on government land between buildings, known as Right of Way (ROW), where residents had allegedly constructed garden areas, guard rooms, genset installations and small kiosks.
+
+Officials said these encroachments were contributing to traffic congestion and putting additional strain on local infrastructure. The structures were demolished using JCB machines as part of the ongoing drive.
+
+### 45-ROOM ILLEGAL MEGA PG BUSTED IN DLF PHASE-3
+
+In a separate major action on Sunday, DTCP officials demolished an illegal mega PG operating from Amaltas Apartments (S-23/1) in DLF Phase-3, where a single residential building had been converted into a heavily overcrowded accommodation unit.
+
+Officials said the structure violated basic occupancy norms, with each floor illegally subdivided into multiple rooms. The building, which was permitted for four families under Stilt+4 norms, had been converted into a 45-room setup with an equal number of attached toilets.
+
+DTCP officials, who carried out the operation with police support, said the building was severely overloading water, sewage and electricity infrastructure, posing a major safety risk. The electricity supply was disconnected before sealing action was taken.
+
+DTP Enforcement officer Amit Madholia said notices had already been served to the owner, adding that such overburdened structures could lead to serious safety incidents. He also indicated that FIR proceedings against violators are likely as part of further legal action.
+
+### THREE-DAY ENFORCEMENT DRIVE TO CONTINUE ACROSS DLF
+
+Authorities said the crackdown would continue for at least three days across multiple phases of DLF, with action planned against all properties where violations were identified and no court stay orders exist.
+
+Officials warned that illegal PGs, clinics, gyms, salons and other commercial activities operating inside residential properties across DLF Phase 1 to 5 will face similar demolition and sealing action in the coming days.
+
+\- Ends
+
+Priyanka Kumari
+
+Jun 21, 2026 10:24 IST
+
+---
+
+### Summer Solstice 2026 June 21: Why it’s the longest day of the year, its significance, science behind it, and how it affects you
+*Unknown · business*
+
+Summer Solstice 2026 is being observed today, 21 June, marking the longest day and shortest night of the year in the Northern Hemisphere. This annual astronomical event occurs when the Sun reaches its highest point in the sky, giving many places their maximum amount of daylight.
+
+For centuries, the Summer Solstice has fascinated scientists, astronomers and cultures around the world. Interestingly, it also falls on International Yoga Day, making 21 June a day associated with both science and well-being.
+
+But why does today have more daylight than any other day of the year? The answer lies in the way Earth is tilted as it travels around the Sun.
+
+  
+  
+
+## What is the Summer Solstice?  
+
+The Summer Solstice is the moment when the Northern Hemisphere is tilted most directly towards the Sun. Because of this position, the Sun appears higher in the sky and remains above the horizon for a longer period than on any other day of the year.
+
+In 2026, the Summer Solstice falls on 21 June, officially making it the longest day of the year for countries in the Northern Hemisphere.
+
+  
+
+## Why is 21 June the longest day of the year?  
+
+The reason is Earth's 23.5-degree axial tilt. As Earth orbits the Sun, different parts of the planet receive varying amounts of sunlight. On 21 June, the Northern Hemisphere is tilted towards the Sun more than at any other time during the year.
+
+This means:
+
+-   Daylight lasts longer than on any other day
+-   The Sun follows its highest and longest path across the sky
+-   The Northern Hemisphere receives the most direct sunlight
+-   Night-time hours are at their shortest
+
+As a result, today experiences the greatest amount of daylight in the year.
+
+  
+
+## The science behind the Summer Solstice  
+
+Although the Summer Solstice is often linked with summer holidays and warm weather, it is actually an astronomical event.
+
+The phenomenon occurs because:
+
+-   Earth is tilted at approximately 23.5 degrees
+-   The Sun is positioned directly above the Tropic of Cancer
+-   The Northern Hemisphere receives maximum solar exposure
+-   The Sun reaches its highest noon position of the year
+
+These factors combine to create the longest day and shortest night.
+
+## How does the Summer Solstice affect India?  
+
+In India, the difference in daylight hours is noticeable but not extreme compared with countries located much further north.
+
+On the Summer Solstice:
+
+-   Days are slightly longer than average
+-   Sunrise occurs earlier
+-   Sunset takes place later
+-   The Sun appears higher overhead
+
+Cities such as Delhi, Mumbai and Chennai experience only modest variations in daylight compared with regions closer to the Arctic Circle.
+
+## Why is the Summer Solstice linked to International Yoga Day?  
+
+Every year, International Yoga Day is celebrated on 21 June, the same day as the Summer Solstice. The date was chosen because the solstice has long been associated with balance, energy and renewal in many traditions.
+
+The connection symbolises:
+
+-   Harmony between humans and nature
+-   Physical and mental well-being
+-   Balance in everyday life
+-   Awareness of natural cycles
+
+This gives 21 June both scientific and cultural importance.
+
+## Does the longest day mean the hottest day?  
+
+No. The longest day of the year is not necessarily the hottest. Even after the Summer Solstice, the Earth's surface and oceans continue to absorb heat. This process, known as thermal lag, causes temperatures to keep rising for several weeks.
+
+As a result:
+
+-   Peak summer temperatures often arrive later
+-   July and August are usually hotter than June
+-   Land and water take time to warm fully
+
+This is why the hottest days generally occur after the Summer Solstice.
+
+## What happens after 21 June?  
+
+Once the Summer Solstice has passed, daylight hours gradually begin to decrease.
+
+After today:
+
+-   Days slowly become shorter
+-   Nights become longer
+-   The Sun's position shifts southward
+-   The journey towards the Winter Solstice begins
+
+The change is gradual at first but becomes more noticeable as the year progresses.
+
+## Why has the Summer Solstice been important throughout history?  
+
+For thousands of years, people have celebrated the Summer Solstice as a significant moment in the seasonal calendar.
+
+Historically, it has been viewed as:
+
+-   A symbol of light and abundance
+-   A marker for agriculture and harvest cycles
+-   A seasonal turning point
+-   A time for cultural and spiritual celebrations
+
+Ancient sites such as Stonehenge are famously aligned with the solstice sunrise, highlighting its importance to earlier civilisations.
+
+## Summer Solstice 2026: A celebration of Earth's journey  
+
+The Summer Solstice is much more than the longest day of the year. It is a reminder of the remarkable way Earth moves through space and how its tilt creates the changing seasons.
+
+As people around the world mark International Yoga Day and enjoy the extra daylight, the Summer Solstice continues to inspire curiosity about the natural world and our place within it.
+
+_Inputs from agencies_
+
+---
+
+### PM Modi Commissions Three Indigenous Naval Platforms, Says 'Aatmanirbharta Key To India's Progress'
+*Vani Mehrotra · general*
+
+PM Modi said Aatmanirbhar Bharat is vital for national progress as he commissioned three indigenous naval platforms, highlighting India's growing maritime strength.
+
+[Read full article](https://www.news18.com/india/pm-modi-commissions-ins-dunagiri-ins-sanshodhak-ins-agray-kolkata-aatmanirbhar-bharat-indigenous-naval-ships-indian-navy-maritime-strength-ws-l-10163661.html)
+
+---
+
+### Fire broke out, elevators failed, earthquake struck: How this Indian startup’s balcony escape system could save lives in high-rise buildings
+*Trending Desk · business*
+
+An Indian startup has introduced a new safety solution aimed at residents of high-rise buildings, offering a potential evacuation option during emergencies such as fires or earthquakes when lifts become inoperable.
+
+The company, Skydrop, showcased its balcony-mounted safety cable system in a video demonstrating how the equipment could be used during an emergency. The firm said free training is provided to every user to help them understand the operation of the system.
+
+  
+
+> — Iam\_Rohit\_G (@Iam\_Rohit\_G)
+
+  
+
+### Demonstration shows emergency evacuation process
+
+In the demonstration, a company representative explained the functioning of the system after its installation on a residential balcony. Wearing a safety harness around his waist, the representative showed how a carabiner would be attached to an adult using the device.
+
+According to the explanation in the video, an adult could use the system while carrying a child in their arms during an evacuation.
+
+### Company highlights low-maintenance design
+
+During the demonstration, the representative said the system does not require chemical infusion, water spraying or extensive maintenance procedures. He added that the equipment only needs to be cleaned with a dry cloth.
+
+  
+
+### Focus on safety in high-rise buildings
+
+The company promoted the product as a potential emergency evacuation option for residents of high-rise buildings when every second is critical. The presentation also highlighted the need for residential societies to consider investments in safety infrastructure alongside luxury amenities.
+
+_**Disclaimer:**_ _This article is based on claims, statements, images, videos and other information shared by users on social media platforms. The Economic Times has not independently verified the authenticity, accuracy or completeness of these claims unless expressly stated otherwise. The views, allegations and assertions contained in the social media content are those of the respective users and do not reflect the views of The Economic Times. The publication bears no responsibility for the accuracy of such claims and readers are advised to exercise their own judgment and seek independent verification where necessary._
+
+---
+
+### Weather tomorrow: IMD warns of very heavy rain, thunderstorms across several states; heatwave alert in East UP, Vidarbha
+*TOI City Desk · regional*
+
+Heavy rain warnings have been issued for Assam and Meghalaya and Sub-Himalayan West Bengal and Sikkim, while thunderstorm activity is expected over parts of north, east, central and southern India.
+
+NEW DELHI: The India Meteorological Department (IMD) has forecast heavy to very heavy rainfall over parts of northeast India, thunderstorms accompanied by lightning and gusty winds across several states, and heatwave conditions in isolated pockets of East Uttar Pradesh and Vidarbha on Monday.Heavy rain warnings have been issued for Assam and Meghalaya and Sub-Himalayan West Bengal and Sikkim, while thunderstorm activity is expected over parts of north, east, central and southern India. Gusty winds reaching up to 50 kmph are likely in several states.
+
+### IMD issues heavy rain, thunderstorm alert
+
+According to IMD, heavy to very heavy rainfall is very likely at isolated places over Assam and Meghalaya and Sub-Himalayan West Bengal and Sikkim on Monday.Heavy rainfall is also likely over Arunachal Pradesh, Karnataka, Kerala and Mahe, Lakshadweep, Nagaland, Manipur, Mizoram and Tripura, Rayalaseema, Tamil Nadu, Puducherry and Karaikal and Telangana.Thunderstorms accompanied by lightning and gusty winds reaching 40-50 kmph are likely at isolated places over Bihar, Chhattisgarh, Haryana, Chandigarh and Delhi, Jharkhand, Kerala and Mahe, Madhya Pradesh, Odisha, Punjab, Rajasthan, Telangana, Uttarakhand and Vidarbha, among other regions.
+
+### Delhi-NCR weather tomorrow
+
+For Delhi-NCR, IMD has forecast isolated thunderstorms accompanied by lightning and gusty winds reaching 40-50 kmph over Haryana, Chandigarh and Delhi.
+
+### State-wise forecast
+
+Northeast India: Heavy to very heavy rainfall is likely over Assam and Meghalaya and Sub-Himalayan West Bengal and Sikkim. Heavy rainfall is also likely over Arunachal Pradesh and Nagaland, Manipur, Mizoram and Tripura.Bihar, Jharkhand and Odisha: Thunderstorms accompanied by lightning and gusty winds are likely at isolated places.Punjab, Haryana, Chandigarh, Delhi and Rajasthan: Isolated thunderstorm activity accompanied by lightning and gusty winds is likely.Himachal Pradesh and Uttarakhand: Rainfall activity is likely, with thunderstorms and gusty winds forecast at isolated places.South India: Heavy rainfall is likely at isolated places over Karnataka, Kerala and Mahe, Rayalaseema, Tamil Nadu, Puducherry and Karaikal and Telangana.
+
+### Heatwave alert
+
+Heatwave conditions are very likely at isolated places over East Uttar Pradesh and Vidarbha on Monday, according to IMD.
+
+### Monsoon update
+
+Rainfall activity is expected to continue over northeast India during the week, with fairly widespread to widespread rain forecast over Arunachal Pradesh, Assam and Meghalaya, and Nagaland, Manipur, Mizoram and Tripura.Fairly widespread to widespread rainfall is also likely over Coastal Karnataka, Kerala and Mahe and Lakshadweep over the coming days.IMD has also forecast isolated heavy rainfall over northeast India and Sub-Himalayan West Bengal and Sikkim during the week.
+
+### IMD warning
+
+The weather office has warned that heavy rainfall may lead to localised flooding of roads, waterlogging in low-lying areas, traffic disruptions and reduced visibility in affected regions.Thunderstorms and strong winds may result in damage to trees, power and communication lines, while heatwave conditions could increase the risk of heat-
+
+---
+
+### NEET aspirant dies by suicide in Hyderabad day ahead of re-exam, says this in note
+*Vaishali Shastri · general*
+
+A NEET aspirant allegedly died by suicide in Hyderabad's Miyapur on Saturday, a day before the NEET UG re-exam, said police. The 19-year-old also left a suicide note behind.
+
+[Read full article](https://www.dnaindia.com/india/report-neet-aspirant-dies-by-suicide-in-hyderabad-day-ahead-of-re-exam-says-this-in-note-sheikh-sana-neet-suicides-neet-exam-3213885)
+
+---
+
+### International Day of Yoga draws global crowds under healthy ageing theme
+*India Today World Desk · general*
+
+## Indian missions organised International Day of Yoga events across major world cities on Sunday. The worldwide turnout underscored yoga's growing appeal as a tool for health, wellness and healthy ageing.
+
+Thousands of yoga enthusiasts across the world marked the International Day of Yoga on Sunday, with Indian missions abroad organising events to underline the ancient practice's role in promoting health and well-being. International Day of Yoga has been observed globally on June 21 every year since it was adopted by the United Nations in 2014. The theme this year is "Yoga for Healthy Ageing".
+
+Events were held across countries including China, the US, Saudi Arabia, Japan, Canada and Nepal, drawing diplomats, officials, yoga practitioners, members of the Indian diaspora and local communities. Indian missions said the programmes focused on yoga's wider appeal across age groups and borders.
+
+In China, around 400 people, including diplomats, academics, yoga practitioners and members of the Indian diaspora, took part in celebrations organised by the Consulate General of India in Shanghai at the Bund Finance Centre. Addressing the gathering, Consul General Pratik Mathur described yoga as India's gift to the world and highlighted its growing role in promoting holistic health, mental well-being and active ageing, according to a consulate statement. Mathur said yoga "transcends national boundaries" and continues to inspire millions globally to adopt healthier and more balanced lifestyles. The programme included a guided meditation session, a Manipuri dance performance, an Indian classical music recital and a demonstration on the benefits of yoga. "A comprehensive yoga session incorporating breathing techniques, asanas, and meditation was conducted for participants, emphasising the importance of regular practice in maintaining physical fitness, mental resilience, and overall wellness, particularly in advancing age," the statement said.
+
+In the US, hundreds of participants gathered at the Lincoln Memorial in Washington DC for a yoga session organised by the Embassy of India. "The Embassy of India marked #IDY2026 in Washington D.C. under the theme 'Yoga for Healthy Ageing' - a reminder that yoga is for everyone, at every stage of life," the mission said in a post on X. The embassy also organised events at venues including Dupont Circle and the World Bank with local communities, and set up an Ayurveda corner showcasing traditional wellness practices. In Saudi Arabia, nearly 500 participants, including government officials, diplomats, school children and members of the Indian community, attended an International Day of Yoga event in Riyadh. The session was led by Saudi women yoga instructors Sima Ghannam and Malak Almughira, the Indian Embassy in Riyadh said in an X post. "The growing popularity of yoga in Saudi Arabia marks yet another milestone in India–Saudi Arabia cultural ties," it said.
+
+In Japan, more than 2,100 yoga enthusiasts joined celebrations organised by the Indian Embassy at the historic Tsukiji Hongan-ji Temple in Tokyo. "Despite the rain, with the motto 'Yoga together, rain or shine!', the venue was filled with energy and smiles," the embassy said in a post on X. In Canada, the Consulate General of India in Toronto marked the day with a large gathering against the backdrop of the Legislative Assembly of Ontario. Around 800 participants, including government representatives, members of the diplomatic corps, yoga practitioners, wellness organisations and community leaders, took part, the mission said in a social media post. Addressing the gathering, Consul General Mahavir Singhvi said yoga can transcend cultural, linguistic and national boundaries, bringing people together in a "shared pursuit of well-being and reaffirming its timeless relevance as a universal path to health, harmony, and inner balance". "Celebrating this year's theme - 'Yoga for Healthy Ageing', a beautifully synchronised yoga session served as a powerful celebration of community, connection, and collective well-being," the post said.
+
+In Nepal, the Embassy of India, in collaboration with the Lumbini Development Trust, organised a yoga demonstration near the Eternal Peace Flame and the Maya Devi Temple in the Lumbini Sanskritik area, a UNESCO World Heritage Site. More than 600 yoga enthusiasts joined the event, which was attended by Lumbini Province Governor Krishna Bahadur Gharti Magar. Indian missions in several other countries also organised yoga sessions and 
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Jun 21, 2026 10:10 IST
+
+---
+
+### Uttarakhand government rejects "communal angle" in Hemkund Sahib Yatra incident
+*SECTIONS Uttarakhand government rejects · business*
+
+Dehradun: The Uttarakhand Government has appealed to people that the recently reported incident during the Hemkund Sahib Yatra, involving a group of Sikh pilgrims and local residents, should not be viewed as a religious dispute under any circumstances.
+
+The government has warned that strict action will be taken against anyone attempting to give the matter a communal angle.
+
+State Home Secretary Shailesh Bagauli stated on Saturday that the preliminary inquiry suggests the incident appears to be a dispute between two parties arising out of emotional reactions and differences, rather than a religious issue.
+
+  
+
+He emphasised that Devbhoomi Uttarakhand respects all religions and faiths equally, and that the state's cultural heritage has always been rooted in harmony, peace, and mutual respect. The government, he said, will not allow this atmosphere of communal harmony to be disturbed at any cost.
+
+The Home Secretary further informed that the Inspector General (IG) of Garhwal has been directed to conduct a fair and transparent investigation into the matter. Appropriate action will be taken based on facts after hearing all concerned parties. In addition, the Additional Director General (ADG) of Law and Order has been asked to submit a detailed status report on the incident.
+
+To ensure the prompt resolution of grievances faced by pilgrims and the general public, the government is strengthening its grievance redressal mechanism. The existing Char Dham Cell will also be linked to the Hemkund Sahib Yatra, and this system will function round the clock (24x7) throughout the pilgrimage period.
+
+State Home Secretary Bagauli also stated that instructions have been issued to the IG Garhwal to identify and initiate legal action against individuals attempting to spread misinformation and give the incident a misleading communal narrative through social media, thereby trying to disturb the peaceful environment of Devbhoomi Uttarakhand. Strict action will be taken against anyone spreading rumours, false information, or social discord.
+
+He reiterated that the Uttarakhand Government and Police Administration remain fully committed to ensuring the safety, dignity, and convenience of all pilgrims, tourists, and local residents. Any untoward incident or dispute will be addressed strictly in accordance with the law, and no one will be allowed to take the law into their own hands.
+
+The State Home Secretary appealed to all pilgrims, local residents, and concerned stakeholders to maintain restraint and to seek assistance through the legal and administrative mechanisms established by the government and police in the event of any complaint or dispute.
+
+---
+
+### Indian Navy commissions three indigenously built warships: Dunagiri, Sanshodhak, and Agray
+*SECTIONS Indian Navy commissions three indigenously built warships Dunagiri · business*
+
+The Indian Navy on Sunday commissioned three indigenously built warships – Dunagiri, Sanshodhak, and Agray – in Kolkata. The landmark ceremony was presided over by Prime Minister Narendra Modi.
+
+The three vessels are designed by the India Navy's Warship Design Bureau and GRSE, and constructed by Garden Reach Shipbuilder Engineers (GRSE). These vessels represent key operational capabilities across maritime combat, hydrographic surveying, and anti-submarine warfare.
+
+"They reflect the Navy's balanced approach to capability development, strengthening blue-water operations, enhancing maritime domain awareness, securing coastal waters against evolving threats," the Defence Ministry said in a statement.
+
+  
+
+INS Dunagiri, the fifth Project 17A stealth frigate, is equipped with advanced weapons and sensors, including BrahMos surface-to-surface missiles and the Medium Range Surface-to-Air Missile system.
+
+  
+
+INS Sanshodhak, the fourth Survey Vessel (Large), is equipped with advanced survey systems including Autonomous Underwater Vehicles and Remotely Operated Vehicles. The vessel is designed for coastal and deep-water hydrographic surveys and collection of oceanographic and geophysical data for defence and civil applications.
+
+Today, 21 June is also celebrated as World Hydrography Day, PM Modi said, adding that it is a truly remarkable coincidence that on this very day India has commissioned India's most advanced hydrography ship “INS Sanshodhak."
+
+INS Agray, the fourth of the Arnala-class Anti-Submarine Warfare Shallow Water Craft, is equipped with lightweight torpedoes, indigenous rocket launchers, and shallow-water sonar systems to detect and engage underwater threats in littoral waters.
+
+Speaking at the tri-Commissioning ceremony, Navy chief Admiral Krishna Swaminatha said, "This second commissioning in Kolkata today, just 17 months after independent India's first tri-commissioning by the PM in Mumbai last year, demonstrates the new impetus to modernity, self-reliance, and confidence in India's warship construction capabilities."
+
+He noted that these three projects have also set several new milestones.
+
+The ministry noted that the three platforms demonstrate the growing maturity of India’s indigenous shipbuilding ecosystem, with indigenous content exceeding 75 percent.
+
+"The country whose maritime strength is robust, its economic and strategic influence will be equally robust. And India understands this reality well. India is preparing itself for this," the prime minister said at the commissioning ceremony.
+
+He highlighted that India has begun to move forward with a new vision for the shipbuilding sector. Citing numerous policy reforms undertaken by the government in recent years, he said, "Special steps have been taken to enhance domestic construction capacity. Shipbuilding, ship repair, and MRO are being viewed as part of a major national mission."
+
+The prime minister asserted India has always regarded the ocean as a medium of cooperation, but the country also knows that strength is essential to safeguard peace. He added that security is necessary to protect prosperity, and self-reliance is imperative for building the future.
+
+---
+
+### Income-tax returns: Here's how rent earned from self-occupied house property, unrealised rent is calculated in ITR-4 | Mint
+*Jocelyn Fernandes · economy*
+
+## The Income-Tax Department has introduced key changes in how taxpayers report income using the ITR-4 form this tax year and two of these updates are 
+
+From AY27, taxpayers can disclose income earned from up to two house properties, in ITR-4.
+
+All income-tax return (ITR) forms for assessment year 2026-27 (AY27) i.e. financial year 2025-26 (FY26) have been notified by the Income-Tax Department. It has also enabled Excel Utility for the ITR-1 (Sahaj), ITR-2, ITR-3, and ITR-4 (Sugam) online forms for taxpayers on its e-filing portal for AY27 / FY26.
+
+Taxpayers have till 31 July to file their returns by logging into the e-filing portal with your User ID and password. Notably, availability of excel utility means that you can prepare your returns offline before uploading them digitally. To make use of this facility, log into the portal, download your ITR form, fill it out, generate a JSON file, and upload it online after proper verification and cross-checking of details. 
+
+## Who should choose ITR-4 (Sugam)?
+
+The ITR-4 or Sugam form is applicable for individual taxpayers or Hindu Undivided Family (HUF), who is a resident of India, other than not ordinarily resident or a resident firm (other than LLP) having total income up to ₹50 lakh and having income from business or profession which is computed on a presumptive basis (under sections 44AD / 44ADA / 44AE of Income Tax Act,1961) and income from salary or pension, agricultural income up to ₹5,000, capital gain under section 112A of Income Tax Act,1961 up to up to ₹1,25,000, and other sources.
+
+Other sources which include interest from savings account, interest from deposit (bank / post office / cooperative society), interest from income tax refund, family pension, interest received on enhanced compensation and any other interest income (such as interest income from unsecured loan).
+
+## ITR-4: Key things to know about earnings from rent
+
+Notably, the Income-Tax Department has introduced some key changes in how taxpayer report income using the ITR-4 / Sugam form online for this tax year (FY26 / AY27). Two of these changes are 
+
+-   Taxpayers can now report income from up to two house properties in ITR-1, rather than just one house property. 
+-   A new, specific field for “rent which cannot be realised” has been added, aiding taxpayers with rented properties.
+
+## ITR-4: Top FAQs on reporting rent and taxation
+
+**How do I compute income from a house property which is partly self-occupied and partly let-out?** According to the official income-tax website, house property may consist of two or more independent units, one of which is self-occupied, and the remaining is used for any other purpose (i.e., let-out or used for own business).
+
+Income from such property will be computed in the following manner:
+
+-   Part / unit which is occupied by you for your residence throughout the year will be treated as an independent property and income from such a part / unit will be computed in the manner as described in the ITR-4 user manual in case of a self-occupied property. 
+-   Part / unit which is let out will be treated as an independent property and income from such a part/unit will be computed in the manner as described in the ITR-4 user manual in case of let out property. ​ 
+-   Please Note: From AY 2026-27, you can disclose income from up to two house properties, in ITR-4.
+
+**What is the tax treatment of unrealised rent that is subsequently realised?** Any subsequent recovery of unrealised rent will be deemed to be your income under the head ‘Income from House Property’ in the year in which such rent is realised (whether or not you are the owner of that property in that year).​ 
+
+It will be charged to tax after deducting a sum equal to 30% of unrealised rent.​
+
+_Disclaimer: This story is for educational purposes only. The views and recommendations made above are those of individual analysts or broking companies, and not of Mint. We advise investors to check with certified experts before making any investment decisions._
+
+### About the Author
+
+Jocelyn Fernandes
+
+Jocelyn Fernandes is a journalist and editor with nearly 13 years of experience covering the business, corporate, economy and markets beats in news.<br> As chief content producer for around three years at Livemint (Hindustan Times), Jocelyn publishes breaking stories, explainers, features and live blogs on a range of business and economy topics, including the Budget, corporate developments, stock markets, income tax, money and personal finance, cryptocurrency, government policy, impact of US tariffs, international developments and more.<br> Jocelyn's writing philosophy is focused on delivering news in an accurate and accessible format for readers. She thus focuses her news coverage on explainers and FAQs in order to breakdown business, corporate, economic, and policy topics that are of importance to everyday readers.<br> She holds a Bachelors in Mass Media (BMM) and Post Graduate Diploma (PGD) in Journalism and Communication and has previously written for online business and markets news site Moneycontrol (Network18), Business-to-business (B2B) trade publications — the industry magazines Power Today and Solar Today (ASAPP Media), and the national news agency United News of India (UNI).<br> Outside of work, Jocelyn keeps up-to-date with local and international news, enjoys reading fiction books, novels and short stories, and enjoys movies, travelling and art. <br> She can be found on X and LinkedIn, and reached by email: <a href="jocelyn.fernandes@htdigital.in">jocelyn.fernandes@htdigital.in</a> <br> X/ Twitter handle: <a href="https://x.com/scribeJocelyn">@scribeJocelyn</a> <br> LinkedIn: <a href="https://in.linkedin.com/in/jocelyn-fernandes-journalist">LinkedIn</a>
+
+---
+
+### US Vice President JD Vance lands in Switzerland to launch talks with Iran on its nuclear program
+*SECTIONS US Vice President JD Vance lands · business*
+
+U.S. Vice President JD Vance arrived in Switzerland on Sunday for peace talks with Iran as both nations seek a durable end to their war while disagreeing over Iran's claims that it had closed the vital Strait of Hormuz.
+
+Although the U.S. and Iran had agreed to a 60-day ceasefire while negotiations take place, Tehran's Islamic Revolutionary Guard Corps on Saturday declared the Strait of Hormuz shut, though the U.S. military said commercial vessels had continued operating in the waterway. Those developments could complicate talks in which both sides want to advance an interim deal brokered by Pakistan and signed on Wednesday by Presidents Donald ‌Trump and Masoud Pezeshkian to end ⁠the almost ⁠four-month war. Pointing to what it called Israeli "crimes" in Lebanon that violated U.S. commitments to a ceasefire, the Revolutionary Guards warned ships would be at risk if they approached the Strait, a vital conduit for global oil and gas supplies. But U.S. Central Command said 55 ​merchant ships transited the strait on Saturday with more than 17 million barrels of oil bound for global markets.
+
+  
+
+## STRAIT OF HORMUZ, LEBANON REMAIN FLASHPOINTS
+
+U.S. forces will ensure commercial traffic continues, Central Command said.
+
+  
+
+Trump said no toll would be ​charged for passage through the strait during or after the 60-day ceasefire — unless the U.S. imposes one should peace talks fail. In a social media post, he cited the possibility of a toll levied by the United States "for services rendered as the Guardian Angel to the countries of the Middle East" if a peace deal is not completed. Mohammad Mokhber, an adviser to Iran's supreme leader, Ayatollah Mojtaba Khamenei, accused the U.S. ​on X of failing to implement the first clause of its 14-point interim deal with Iran, which includes a ceasefire "on all fronts", including ⁠Lebanon.
+
+He said ‌that, as long as the agreement was only on paper, the flow of Middle East energy would remain halted.
+
+The Lebanon truce appeared fragile as Israeli forces and the Iran-backed militant group Hezbollah attacked each other.
+
+The Iranian delegation is led by chief negotiator Mohammad Baqer Qalibaf and includes Foreign Minister Abbas Araqchi as well as senior security, central bank and ⁠oil officials, Iranian media said. In addition to Vance, the U.S. negotiating team includes envoys Steve Witkoff and Jared Kushner, Trump's son-in-law.
+
+Iranian ​Foreign Ministry spokesperson Esmaeil Baghaei said Iran would press in Switzerland for fulfilment of commitments, citing past failures by the other side to ​honour agreements.
+
+Pakistani Prime Minister Shehbaz Sharif and the army chief, Field Marshal Syed Asim Munir, will attend this weekend's sessions, the country's ministry of foreign affairs said. Vance, in an interview with Fox News before leaving the U.S., said he was confident the ceasefire would hold, and that he had seen no evidence that the Strait of Hormuz was closed. Negotiators will likely have a "couple days of talks", he told reporters at Joint Base Andrews in Maryland. "I think we're going to hopefully make progress on the nuclear issue, make progress on the Lebanon ceasefire issue." The vice president and second lady Usha Vance arrived at Emmen Air Base in Switzerland at 5:59 a.m. (0359 GMT), a vice presidential spokesperson said.
+
+## ISRAEL VOWS TO DEFEND ITS FORCES IN LEBANON
+
+A halt to fighting in Lebanon was one of the conditions for starting U.S.-Iranian talks on Tehran's nuclear programme and other ‌issues. But Lebanese Civil Defence said 20 people had been killed by Israeli strikes in Lebanon on Saturday, hours after a truce took effect there.
+
+Israel said it was responding to attacks from Hezbollah, while the Iran-backed militant group said it would not allow Israel "freedom of movement" in Lebanon. Israel says it is not party to the Iran-U.S. ​deal and will keep its ​forces in the Lebanese territory it occupies.
+
+A military statement said ⁠Israel was committed to the ceasefire but would continue to act against any threat to Israel or its forces.
+
+Israeli broadcaster Channel 12 reported that the prime minister and defence minister had instructed the military to hold fire in Lebanon but that it would not withdraw from areas it had captured.
+
+A poll by Israel's Hebrew University, shared with Reuters, found that some 92% of Israelis believe Iran benefited more ​from the joint Israeli-U.S. military campaign than Israel and only some 8% think Israel emerged victorious. Almost 90% of Israelis said the goals of the war were not met and more than 70% do not believe Prime Minister Benjamin Netanyahu's claims that there were major achievements.
+
+Lebanon's state news agency NNA said Israeli warplanes and drones had struck locations across southern Lebanon and the Bekaa Valley on Saturday, both Hezbollah strongholds.
+
+An Israeli military official said Hezbollah fired more than 50 projectiles at Israeli forces in southern Lebanon overnight, and that Israel had attacked what it described as Hezbollah targets in response.
+
+Lebanon's health ministry says 4,057 people have been killed in Israeli attacks since March 2, including medics, women and children, though it does not specify how many of the dead were combatants.
+
+Israeli authorities say at least 32 soldiers and four civilians have been killed in fighting with Hezbollah.
+
+---
+
+### Increasing farmers' income is key to rural, state development: Tripura CM Manik Saha
+*anik Saha Ani · business*
+
+Agartala (Tripura) \[India\]: Tripura Chief Minister Manik Saha said that increasing the income of the farmers of the state is one of the goals of the present state government while participating in the direct payment of the 23rd instalment of the Pradhan Mantri Kisan Samman Nidhi to the accounts of farmers at the Tripura State Agriculture Research Centre in Arundhatinagar in Agartala.
+
+Agriculture Minister Ratan Lal Nath was also present at the program.
+
+According to the Tripura CMO published on Saturday, Chief Minister Saha said, "If villages develop, the state develops, and only if the state develops is real development of the country possible. In the past, farmers used to get into debt in various ways to grow crops on their agricultural land. Prime Minister Narendra Modi has launched the PM Kisan scheme with the aim of freeing farmers from this situation. Farmers are the backbone and breadwinners of society. They are the ones who provide food to people even in adverse conditions."
+
+  
+
+Participating in the program, Saha also said that the state government has been implementing various projects since 2018 for the socio-economic development of farmers and for doubling farmers' income in the state.
+
+"Various projects have already been implemented. As a result of the direct purchase of paddy from farmers, more than Rs 529 crore has been transferred to the accounts of farmers. Due to the proper implementation of every project of the central and state governments, including the Central Government's Pradhan Mantri Kisan Samman Nidhi, Pradhan Mantri Fasal Bima Yojana and Krishi Vikas Yojana, the production in the agricultural sector has increased today, and the income of farmers has also increased," said Saha.
+
+He said that the state government has laid special emphasis on increasing the fertility of agricultural land. So far, more than 2 lakh 53 thousand soil health cards have been issued in the state.
+
+"Various improved agricultural inputs have been provided to farmers by offering subsidies of Rs 233 crore 63 lakh. In 2018-19, through the Pradhan Mantri Kisan Samman Nidhi, Rs 30 crore 37 lakh was transferred to the accounts of more than 1 lakh 51 thousand farmers. In the current financial year, more than 2 lakh 16 thousand farmers of the state will benefit from this program by receiving more than Rs 43 crore 32 lakh in their accounts," he said.
+
+The Chief Minister said that development work can be carried out in the right direction in a beautiful and peaceful environment.
+
+"Development work is going on at a fast pace because a beautiful environment has been created in the state today. A Viksit Bharat will be built through building a Viksit State," he added.
+
+---
+
+### Dad brain: How fatherhood reshapes the male mind
+*Daphne Clarance · general*
+
+## The modern dad is quietly undergoing a biological makeover, and babies seem to be driving it.
+
+Fatherhood is a biological transition that can reshape the male brain. (Photo: Getty Images)
+
+When Neelima (name changed) became a mother, she found herself swept up in the emotional whirlwind that accompanies the arrival of a baby. Sleepless nights, endless feeds and the joy of first smiles transformed her life in ways she had expected. What she had not anticipated, however, was the quieter transformation taking place in her husband.
+
+"Watching him with our daughter completely changed the way I looked at fatherhood," she recalled. "This six-foot-tall man, who once had strong opinions about almost everything, now happily says 'yes' to a three-foot toddler. He has become softer, more patient and fiercely protective. Every decision he makes somehow includes our daughter," she tells India Today Digital.
+
+For decades, scientists have focused on what pregnancy and childbirth do to mothers.
+
+But a growing body of research suggests that babies leave their mark on fathers too.
+
+Fatherhood, it turns out, is not just a social role. It is a biological transition that can reshape the male brain.
+
+### THE MAKING OF A FATHER
+
+The idea that men undergo biological changes after becoming parents is not entirely new. Early studies in mammals showed that males involved in raising their offspring experienced hormonal shifts similar to those associated with motherhood.
+
+The first evidence in humans emerged in 2000, when Canadian researchers Katherine Wynne-Edwards and Anne Storey demonstrated that fathers experience hormonal changes after the birth of a child.
+
+Since then, scientists have consistently found that men who become fathers tend to have lower testosterone levels than men without children.
+
+Early studies in mammals showed that males involved in raising their offspring experienced hormonal shifts similar to those associated with motherhood.
+
+But one question remains unanswered: do these changes begin only after birth, or do they start much earlier?
+
+Research suggests the transition begins even before the baby arrives.
+
+James K. Riling, the director of the Laboratory for Human Social Neuroscience at Emory University in the US, released a study last year that found that expectant fathers have shown that testosterone and vasopressin levels start falling during pregnancy itself.
+
+Intriguingly, researchers found that men with lower testosterone levels become more involved with both their partners and their babies after birth.
+
+Meanwhile, oxytocin, called the "love hormone", rises when fathers hold their newborns or spend time in close physical contact with them. The increase appears to be linked to the amount of time fathers devote to caring for their children.
+
+Playful interaction, skin-to-skin contact and even holding a baby for the first time can trigger a rise in oxytocin, strengthening emotional bonds between father and child.
+
+### INSIDE THE FATHER'S BRAIN
+
+Scientists are now discovering that these hormonal changes are accompanied by physical changes inside the brain.
+
+Research suggests the biological transition in fathers begins even before the baby arrives. (Photo: Getty Images)
+
+Researchers from the University of Southern California and Spain's Instituto de InvestigaciÃ³n Sanitaria Gregorio MaraÃ³n scanned the brains of 40 first-time fathers during their partner's pregnancy and again six months after childbirth. They also followed a group of childless men over the same period.
+
+The study revealed noticeable changes in regions of the brain involved in visual processing, attention and empathy. These alterations were absent in men who had not become fathers.
+
+The researchers believe these changes help fathers become more attuned to their babies' needs.
+
+Another study, published this year in Translational Psychiatry by German researchers, provided further evidence.
+
+Brain scans showed reductions in grey matter volume during the first 24 weeks after childbirth. Scientists believe these changes reflect the brain's ability to reorganise itself in response to the demands of parenthood.
+
+Changes in dad's brain across 24 weeks postpartum
+
+A surprising change is seen in ‘grey matter’, with MRI scans showing a reduction in grey matter volume in the brain's ‘mentalizing network’ (areas associated with empathy and understanding others), according to Nandini Chatterjee Singh, Health of Department, Psychology and Cognitive Sciences, Ashoka University, New Delhi.
+
+Far from being harmful, such changes are thought to help fathers adapt to their new role.
+
+### DAD'S INVOLVEMENT MATTERS
+
+Researchers say the father's brain is be shaped by experience.
+
+As fathers spend more time feeding, playing with and soothing their babies, the neural circuits associated with caregiving become stronger.
+
+In other words, parenting itself helps build the "dad brain".
+
+Over the past five decades, the amount of time fathers spend caring for children has increased dramatically in many countries.
+
+Across many high-income countries, fathers are spending more time caring for their children than previous generations. The change has been particularly pronounced in countries such as Sweden, Iceland, Germany and Spain, where generous paid leave policies have helped normalise involved fatherhood.
+
+In India, too, change is witnessed, but research is limited to urban areas. A 2024 review in Sociology Compass by Delhi University researcher Ameeta Motwani concluded that the involvement of fathers in caring for newborns and young children is increasingly becoming "a fact of life" in contemporary urban India.
+
+Based on interviews with two generations of middle-class fathers, the study found that both attitudes and practices surrounding childcare are shifting, with younger fathers participating more actively than their own fathers did.
+
+Studies also suggest that children with engaged fathers enjoy better physical health, improved cognitive performance and stronger emotional wellbeing.
+
+Small studies from India suggest that fathers are taking a more active role in family health.
+
+Over the past five decades, the amount of time fathers spend caring for children has increased dramatically in many countries. (Photo: Getty Images)
+
+In a 2024 study from Kolkata, most fathers reported buying groceries, setting rules around junk food and encouraging healthier habits among their children.
+
+Evidence also suggests that early father-child bonding plays an important role in a child's self-esteem, emotional health and long-term cognitive development.
+
+### FATHERHOOD RESHAPED CONSTANTLY
+
+Scientists believe that fatherhood is not a fixed instinct that automatically appears at birth.
+
+Instead, it develops through repeated interactions with a child. Time spent rocking a baby to sleep, changing diapers or responding to cries may be doing more than creating memories, it may be reshaping the father's brain itself.
+
+Perhaps that is what Neelima witnessed in her own home.
+
+"I've watched the man I married become a father who would do absolutely anything for his little girl," she said. "Maybe that's what fatherhood really is. It's not just about raising a child. Sometimes, it's the child who quietly reshapes the father from within."
+
+As science continues to unravel the hidden biology of fatherhood, one thing is becoming increasingly clear. Babies change fathers too.
+
+The rise of the involved dad is quietly transforming the male mind in ways we are only beginning to understand.
+
+\- Ends
+
+Daphne Clarance
+
+Jun 21, 2026 10:00 IST
+
+---
+
+### JD Vance reaches Switzerland for high-stakes US-Iran nuclear talks
+*India Today World Desk · general*
+
+## JD Vance has reached Switzerland to open formal talks with Iranian leaders on the nuclear programme and a wider interim war deal. The 60-day push now faces pressure from Strait of Hormuz tensions and Israel-Hezbollah fighting.
+
+Stock photo used for illustration
+
+US Vice President JD Vance arrived in Switzerland on Sunday to formally launch talks with Iranian leaders on curbing Tehran's nuclear programme and expanding a fragile interim deal aimed at ending the war in Iran. The framework was signed last week, and top US and Iranian negotiators now have 60 days to agree on the technical details, with major implications for the world economy and global security.
+
+The first days of that period have already been complicated by heavy exchanges of fire in Lebanon between Israel and the Iranian-backed Hezbollah, and by Iran's announcement that it had closed the Strait of Hormuz, a waterway through which a fifth of the world's traded oil and natural gas passes. US Central Command disputed Iran's claim and said US forces were continuing to monitor the situation to ensure traffic keeps moving through the strait.
+
+Vance had originally been due to arrive at the Brgenstock resort near Lucerne on Friday, but his departure from the United States was delayed after fighting escalated in Lebanon and Iranian officials cancelled plans to attend the talks. He left the US shortly after Iranian state television said Tehran's negotiators had reached Switzerland. Iran's team includes parliamentary speaker Mohammad Bagher Qalibaf and Foreign Minister Abbas Araghchi, along with central bank and oil officials.
+
+Vance joins special envoy Steve Witkoff and Jared Kushner, President Donald Trump's son-in-law, who were already in Switzerland to begin work on the technical details of the nuclear talks. The talks will also include Pakistani Prime Minister Shehbaz Sharif and army chief Field Marshal Asim Munir, along with Qatari mediators. Vance said he planned to stay in Switzerland for just "a day or two", leaving much of the detailed negotiations to Witkoff and Kushner.
+
+His role in the talks has drawn greater attention at a time when he is actively considering a 2028 presidential campaign. Trump and Vance have faced sharp criticism from parts of their own party over the deal, with Republican hardliners comparing it unfavourably to the nuclear agreement signed under the Obama administration, which Trump and the Republican Party have long said did not end Iran's nuclear programme.
+
+The agreement signed by Trump and Iranian President Masoud Pezeshkian immediately allows Tehran to sell its oil freely and opens the way for Iran to access billions of dollars in frozen assets. It also calls on Iran to dilute its stockpile of highly enriched uranium, believed to be under nuclear sites targeted in US strikes last summer. The agreement says commercial vessels can pass through the Strait of Hormuz for 60 days without a charge, though it does not rule out future fees imposed by Iran. Trump said on Saturday that he would impose US tolls on the strait if there is no deal with Iran in 60 days, saying in a social media post that the money would pay for "services rendered as the Guardian Angel to the countries of the Middle East." Vance has said millions of barrels of oil have moved through the strait in recent days.
+
+The wider regional conflict remains a major complication. Neither Israel nor Hezbollah are signatories to the US-Iran deal, and Israeli Prime Minister Benjamin Netanyahu has said his forces will remain in southern Lebanon until any threat to Israel is removed, while Hezbollah has refused to stop its attacks unless Israel commits to leaving Lebanon. In the first days after the US-Iran agreement, fighting between Israel and Hezbollah killed 47 people in Lebanon and four Israeli soldiers, underlining the tensions surrounding the negotiations now under way in Switzerland.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Jun 21, 2026 09:58 IST
+
+
+---
+
 ## 20 June 2026
 
 ### Shiv Sena UBT Crisis Live: 3 Rebel MPs Spotted With Shiv Sena Leader At Delhi Hotel Amid 'Operation Tiger' Buzz
