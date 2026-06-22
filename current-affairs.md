@@ -1,3 +1,496 @@
+## 22 June 2026
+
+### The 'Tiger' Trap: How Shrikant Shinde Engineered The Decisive Split In Uddhav’s Sena | Exclusive
+*Apoorva Misra · general*
+
+One of the earliest breakthroughs came when MP Ashok Ashtikar was convinced that a realignment within the party was imminent, sources said
+
+[Read full article](https://www.news18.com/india/the-tiger-trap-how-shrikant-shinde-engineered-the-decisive-split-in-uddhavs-sena-ws-l-10165089.html)
+
+---
+
+### More Scrutiny Awaits TMC? BJP May Table Four Pending CAG Reports During Bengal Budget Session
+*Vani Mehrotra · general*
+
+West Bengal's new BJP government may release four pending CAG reports during the Budget session, alongside plans focused on jobs, investment and fiscal reforms.
+
+[Read full article](https://www.news18.com/india/west-bengal-budget-2026-bjp-tmc-cag-reports-suvendu-adhikari-swapan-dasgupta-tmc-corruption-audit-investment-jobs-fiscal-reforms-ws-l-10165095.html)
+
+---
+
+### Women In Punjab To Get Monthly Financial Aid Under Maavan Dheeyan Scheme From July: CM Mann
+*Aanchal Sinha · general*
+
+Under the scheme, Dalit mothers and sisters will receive Rs 4,500, while women from all other categories will get Rs 3,000.
+
+[Read full article](https://www.news18.com/india/women-in-punjab-to-get-monthly-financial-aid-under-maavan-dheeyan-scheme-from-july-cm-mann-ws-l-10165081.html)
+
+---
+
+### Odisha Woman Delivers Twins, One In Train, Other On Ambulance, RPF Wins Praises For Quick Response
+*Nikhil Singh · general*
+
+Woman on Rourkela-Gunupur Rajyarani Express gives birth to twins with RPF help, one in coach and one in ambulance. A fellow traveler helped with first aid for the mother and babies
+
+[Read full article](https://www.news18.com/india/in-a-rare-case-odisha-woman-delivers-twins-one-on-a-train-the-other-in-an-ambulance-ws-l-10165074.html)
+
+---
+
+### Praise for Munir and JD Vance's balancing act amid push for India-US reset
+*India Today World Desk · general*
+
+## JD Vance praised Prime Minister Shehbaz Sharif and Field Marshal Asim Munir for facilitating US-Iran dialogue. The remarks have sharpened attention on Washington's attempt to balance its India reset with continued engagement with Pakistan's military leadership.
+
+JD Vance meets Pakistan's Field Marshal Asim Munir and PM Shehbaz Sharif during high-level talks aimed at advancing a deal to end the Middle East conflict. (Photo: Reuters)
+
+Just days after an unmistakable push by Washington to steady ties with New Delhi, US Vice-President JD Vance seemed to walk the diplomatic tightrope, showering praises on Pakistan's Field Marshal Asim Munir as the United States tries to exit from a deadlocked war with Iran.
+
+Speaking during the US–Iran diplomatic discussions in Switzerland, Vance singled out Pakistan's leadership for what he described as their role in facilitating dialogue between Washington and Tehran. Standing next to a smiling Shebaz Sharif and a beaming Asim Munir, Vance made his praise starkly personal and, oddly enough, brought an Indian angle that arguably could be seen as unnecessary.
+
+_**FOLLOW US-IRAN TALKS LIVE UPDATES HERE**_
+
+"Since Field Marshal Asim Munir welcomed us with the (Pakistani) Prime Minister (Shehbaz Sharif) in Islamabad, I have joked that I have two very, very important people in my life. An Indian and a Pakistani. The Indian is my wife, and the Pakistani is Field Marshal Munir," Vance said.
+
+"I have probably talked to Munir more than I have talked to anyone else over the last three months. We would not have been here without his statesmanship and military leadership. He has shown himself to be a great diplomat," Vance went on to say in remarks that came at an interesting time.
+
+### US-INDIA RESET
+
+Vance's Sunday comments followed last week's meeting in France between President Donald Trump and PM Narendra Modi on the sidelines of the G7 Summit. This was the first face-to-face meeting between the two leaders in around 16 months, a period marked by turbulence in ties between India and the US.
+
+The downturn in the relationship between the two countries was linked to punitive tariffs announced by President Trump as well as Washington's discomfort with India's independent diplomatic strategy with respect to the Russia-Ukraine war.
+
+What also did not help matters was several US leaders, including President Trump, making comments on Operation Sindoor that were seen in India to be unwarranted and unnecessary.
+
+It was against this backdrop that President Trump and PM Modi met last week in an effort to stabilise and reset ties. The days around the meeting were marked by President Trump's deep praise for PM Modi. In different interactions, President Trump called the Indian Prime Minister a "tough cookie", a "great leader", and among the two world leaders he admires the most (the other being China's Xi.
+
+### JD VANCE'S BALANCING ACT?
+
+Seen in this context, JD Vance's comments on Asim Munir and the US Vice President's attempt to strike a balancing act becomes even more evident. The past two months have seen Pakistan work to project itself as a facilitator in US-Iran backchannel diplomacy.
+
+Islamabad's role has been seen as increasingly important for a US President who has found himself struggling to find a face-saving off-ramp four month safter a launching a war on Iran that seems to be going nowhere.
+
+Vance's praise for Munir also stands out because it once again underlines Washington's dual efforts to deepen strategic convergence with India in the Indo-Pacific while maintaining its transactional relationship with Pakistan with respect to regional security and crisis management.
+
+Vance's remarks also underscore how Pakistan's army chief -- whom Trump loves to call his "favourite Field Marshal" -- continues to occupy a central place in Washington's conversations with Islamabad. In separate instances, US officials have described Munir as a key interlocutor in facilitating dialogue channels during sensitive regional negotiations.
+
+During the first round of US-Iran peace talks in April this year, which eventually collapsed after 21 hours, JD Vance heaped praise on Pakistan's leadership, describing Shehbaz Sharif and Asim Munir as "incredible hosts" and "incredible statesmen" for helping bridge the long-standing communication gap between Washington and Tehran.
+
+He also stressed that the failure of the talks could not be attributed to Islamabad's role. According to Vance, Munir and his team "did an amazing job" in trying to facilitate a breakthrough, even as decades of mistrust between the US and Iran ultimately derailed the negotiations.
+
+The comments this weekend, including the eyebrow-raising attempt to hyphenate India and Pakistan, simply complete that circle.
+
+For now, the optics are unmistakable. While the Trump administration pushes for a reset with India, its top leadership is simultaneously signalling that Pakistan's military leadership remains a relevant player in certain diplomatic tracks.
+
+\- Ends
+
+Sahil Sinha
+
+Jun 22, 2026 10:54 IST
+
+---
+
+### Monsoon moves in: Mumbai gets first showers. But will it continue to rain?
+*India Today Science Desk · general*
+
+Mumbai woke up to heavy rains on Monday, June 22, a day after the city received its first monsoon shower, bringing much-needed relief from the hot and humid weather and offering hope to a city grappling with dwindling water reserves.
+
+Several parts of Mumbai and adjoining regions received showers early on Monday, June 22, marking a significant change after an unusually weak start to the southwest monsoon. A yellow alert has also been issued for June 22 and Tuesday, June 23.
+
+The India Meteorological Department's (IMD) latest forecast has indicated that rain activity over the Konkan region, including Mumbai, is likely to increase further over the coming days.
+
+### WHAT'S AHEAD FOR MUMBAI?
+
+As rain continues in Mumbai, rainfall over North Konkan is expected to become fairly widespread on June 22 and remain active through the week.
+
+Meanwhile, the broader Konkan and Goa region is likely to witness widespread rainfall from June 23 onwards. The IMD has also forecast isolated heavy rainfall over Konkan and Goa from June 22-28.
+
+A weather map shows expected rain and storms in and around Mumbai. (Photo: Windy)
+
+The weather department has said thunderstorms accompanied by lightning and gusty winds reaching 40-50 kmph, with winds going up to 60 kmph, are possible over Konkan and Goa between June 22 and June 25.
+
+Areas in and around Mumbai, including Thane, Palghar and Raigad, are also expected to experience increased rain activity in the coming days.
+
+### RELIEF FROM MOUNTING WORRIES
+
+The arrival of sustained rainfall comes after a prolonged delay in monsoon activity over Maharashtra.
+
+While the southwest monsoon reached parts of the state earlier this month, weak monsoon currents kept Mumbai largely dry, resulting in one of the city’s poorest June rain spells in more than a decade.
+
+The dry conditions had raised concerns over water availability as seven of Mumbai’s water reservoirs had fallen to low levels, prompting authorities to impose restrictions on industrial and commercial water consumption and curb supply to construction activities.
+
+Historically, Mumbai receives most of its annual rainfall between June and September, making the southwest monsoon vital for replenishing reservoirs and ensuring uninterrupted water supply.
+
+Although the rains have been late, they are now here and are expected to drench Mumbai, just like they usually do.
+
+With rainfall activity expected to strengthen this week, the city may finally see the monsoon gather pace after a delayed and anxious start.
+
+\- Ends
+
+Jun 22, 2026 10:45 IST
+
+---
+
+### In 1979, 'Uncle Moosa' quit his govt job, took a suitcase full of books to remote Arunachal & led a revolution that changed children’s lives forever
+*Unknown · business*
+
+Can a single suitcase full of books change an entire generation? More than 40 years ago, a man from Kerala made a decision that would transform the lives of countless children in one of India's most remote regions. He left behind a secure government job, travelled thousands of kilometres to Arunachal Pradesh and dedicated his life to bringing books and education to young minds.
+
+That man was Sathyanarayan Mundayoor, affectionately known as "Uncle Moosa".
+
+As highlighted by The Better India, his journey is not just a story about libraries. It is a story about belief, persistence and the power of reading to open doors that once seemed impossible.
+
+  
+
+Today, Uncle Moosa is celebrated across Arunachal Pradesh for helping create a culture of reading among tribal communities. His work eventually earned him the Padma Shri in 2020, but his biggest achievement remains the thousands of children whose lives were changed through books.
+
+## Who Is Sathyanarayan Mundayoor?  
+
+Sathyanarayan Mundayoor is an educationalist and social activist from Kerala who has spent more than four decades working in Arunachal Pradesh.
+
+Born in Thrissur district of Kerala, he completed his education and later moved to Mumbai for work. He was employed as a Revenue Officer, a stable government position that many people would have been reluctant to leave.
+
+But in 1979, Mundayoor chose a very different path.
+
+He left his job and travelled to the Lohit district of Arunachal Pradesh, where he began working to improve access to education and literacy.
+
+At a time when many villages had limited resources and difficult road connectivity, books were often considered a luxury. Mundayoor believed they should be a necessity.
+
+## Why Did He Move to Arunachal Pradesh?  
+
+Unlike many social workers who arrive with large projects and funding, Mundayoor started with a simple idea. He wanted children to read.
+
+He believed that reading could help young people dream bigger, learn independently and create opportunities for themselves. In communities where educational resources were scarce, books could become windows to entirely new worlds.
+
+His mission was not limited to classrooms. He wanted reading to become a habit and a way of life.
+
+## Building Libraries in Remote Villages  
+
+During his years with Vivekananda Kendra Vidyalaya, where he worked as an education officer until 1996, Mundayoor organised book exhibitions and encouraged children to develop a love for reading.
+
+One of his most important achievements was establishing the first community library in Etalin, located in the remote Dibang Valley region.
+
+What started as a single library soon grew into something much larger.
+
+Within a few years, the initiative expanded into a network of libraries across the region, bringing books to children who previously had little access to reading material.
+
+## The Lohit Youth Library Movement  
+
+Mundayoor's efforts gained further momentum through the Lohit Youth Library Movement, an initiative that would go on to transform literacy efforts in the region.
+
+In 2007, working alongside the Association of Writers and Illustrators for Children (AWIC) and the Vivekananda Trust, he helped establish the first Bamboosa Library in Tezu. The project quickly expanded.
+
+Under his guidance, libraries were opened in Wakro, Chongkham, Lathaw, Anjow and several other locations.
+
+Many of these libraries housed more than 10,000 books, covering everything from comics and children's stories to novels, history and educational material.
+
+For many young readers, these libraries became places of discovery, imagination and learning.
+
+## Taking Books Directly to Children's Homes  
+
+Uncle Moosa understood that not every child could easily visit a library. To address this challenge, he launched the Home Library Movement, which focused on delivering books directly to homes. The idea was simple but effective.
+
+Instead of waiting for children to come to the books, the books would go to the children.
+
+This initiative helped create reading habits within families and encouraged children to engage with books regularly, even in remote areas.
+
+## Why Children Call Him 'Uncle Moosa'  
+
+The nickname "Uncle Moosa" has an interesting origin. According to reports, it began as a pen name that Mundayoor used while writing a column for a local newspaper. Over time, the name stuck.
+
+Today, children, parents and educators across Arunachal Pradesh know him by that affectionate title. For many young readers, he is not just a librarian or educator but a trusted mentor who helped shape their futures.
+
+## Recognition with the Padma Shri  
+
+In 2020, the Government of India recognised his extraordinary contribution to education by awarding him the Padma Shri, the country's fourth-highest civilian honour.
+
+The award acknowledged decades of tireless work in promoting literacy and creating opportunities for children in remote communities.
+
+Yet those who know him often say that recognition was never his goal. His focus has always remained on books, children and learning.
+
+## The Lasting Impact of One Man's Mission  
+
+The story of Sathyanarayan Mundayoor shows that meaningful change does not always begin with grand plans or huge resources. Sometimes it starts with a simple belief. In his case, that belief was that every child deserves access to books.
+
+More than four decades after arriving in Arunachal Pradesh, the libraries he helped establish continue to inspire young readers. Many former library users have gone on to pursue higher education, careers and opportunities that once seemed out of reach.
+
+His journey proves that a single person, armed with determination and a love for learning, can leave a lasting mark on an entire generation.
+
+And in the hills of Arunachal Pradesh, thousands of readers are living proof of that legacy.
+
+_Inputs from agencies_
+
+---
+
+### Two dead after speeding BMW crashes into divider on Baroda-Panvel Highway
+*SECTIONS Two dead after speeding BMW crashes into divider · business*
+
+A high speeding car crashed into a divider, killing 2 people on the Baroda-Panvel Highway in Maharashtra's Badlapur. A case was registered against the driver, an official said.
+
+The accident took place at around 2:39 am on June 21. The accident is within the jurisdiction of Badlapur West Police Station.
+
+The driver, identified as Angad Gill was driving the car at around 250 kmph when it crashed into a divider.
+
+  
+
+Badlapur Senior Police Inspector Kishore Shinde said, "On June 21, 2026, at 2:39 a.m., within the jurisdiction of Badlapur West Police Station, police received a call regarding a road accident on the Baroda-Panvel Highway. Upon investigation, it was found that a BMW car with three occupants, including the driver, had collided with a divider and was completely damaged, with vehicle parts scattered at the scene."
+
+The official also added that two occupants, identified as Rebecca Jacob and Yogesh Kishan Negi, sustained severe injuries in the crash.
+
+The accident victims were taken to Badlapur Rural Hospital, where they succumbed to their injuries.
+
+"Two occupants, Rebecca Jacob and Yogesh Kishan Negi, were found on the spot with severe injuries. Both were then taken to Badlapur Rural Hospital, where they later succumbed to their injuries," Shinde said.
+
+Police also added that the investigation revealed that the driver had allegedly violated traffic regulations and was driving at an extremely high speed at the time of the accident.
+
+"Investigation revealed that the driver, Angad Gill, disregarded traffic rules and drove at a speed of approximately 250 kmph, resulting in two deaths," the senior police inspector said.
+
+A case has been registered against the accused, and further investigation into the incident is underway, police said.
+
+_(With inputs from ANI)_
+
+---
+
+### 'We will talk in 5 years': Sridhar Vembu reacts to IBM CEO Arvind Krishna's statement on 'muli-trillion dollar AI data center bubble'
+*Unknown · business*
+
+Zoho founder Sridhar Vembu has weighed in on IBM CEO Arvind Krishna's warning that the multi-trillion-dollar AI data centre buildout could be a bubble, saying his company would focus on building core AI capabilities rather than chasing what he described as an investment frenzy.
+
+Responding to a social media post highlighting Krishna's remarks, Vembu said: "IBM CEO Arvind Krishna says the multi-trillion-dollar AI data centre buildout is a bubble."
+
+He added that Zoho is investing in capabilities such as data curation, reinforcement learning and, most importantly, compiler infrastructure to ensure AI-generated outputs can be verified.
+
+  
+
+"We will not chase the investment bubble. This is just our normal prudence. To some people that would sound defeatist, but we will talk in five years," Vembu said.
+
+Vembu was reacting to a post by technology author David Linthicum, who endorsed Krishna's concerns over the massive spending on AI infrastructure.
+
+  
+  
+
+In the post, Linthicum argued that the industry is repeating a familiar pattern seen during the dot-com, blockchain and metaverse booms, where companies assume that building large-scale infrastructure will automatically generate corresponding demand and profits.
+
+Citing Krishna's calculations, Linthicum noted that a 1-gigawatt AI data centre currently costs around $80 billion to build. According to the estimates, a company investing in 20-30 gigawatts of capacity could spend nearly $1.5 trillion, while total industry commitments aimed at pursuing artificial general intelligence (AGI) could reach about 100 gigawatts, translating into roughly $8 trillion in capital expenditure.
+
+To justify such investments, the industry would need to generate about $800 billion in profits merely to cover financing costs, Krishna reportedly argued.
+
+Linthicum contended that current enterprise adoption remains slow, consumer AI is still evolving, and demand may not be sufficient to support the scale of infrastructure being planned. He warned that the sector could eventually face write-downs, strategic pivots and project shutdowns if expected demand fails to materialise.
+
+---
+
+### US-Iran talks continue in Switzerland despite Trump remarks
+*India Today World Desk · world*
+
+## US and Iranian negotiators resumed talks in Switzerland despite a brief disruption over Trump's remarks. The discussions will test whether mediation can keep Hormuz open and stabilise Lebanon's ceasefire.
+
+US and Iranian negotiators were set to continue talks in Switzerland on Monday for a second day, with the aim of securing a permanent end to the war between the two countries. The first day of the mediation process saw what Qatar and Pakistan described as "encouraging progress", even as the discussions were briefly disrupted by sharp remarks from US President Donald Trump.
+
+The talks focused on several issues, including steps to keep the Strait of Hormuz open for global energy shipments and efforts to ensure that a ceasefire in southern Lebanon holds. Pakistan and Qatar said high-level talks had ended and that technical negotiations would continue in Switzerland for the rest of the week.
+
+The first full day of talks between the US and Iran, with Qatari and Pakistani officials also present, was unsettled by comments Trump made from afar that offended the Iranian side. Iranian state media said the talks had paused after the "publication of an insulting message by the US president". It said the Iranian delegation then met Qatari mediators and left the negotiating site. However, a senior US diplomat, speaking on condition of anonymity, said late on Sunday that the Iranian team had remained on site and that negotiations were still on.
+
+Iranian President Masoud Pezeshkian had said his country would "never back down from the right to enrich uranium", according to state media. Trump later told Fox News in a phone interview that Pezeshkian should watch what he says and also threatened to take over Iran, according to one of the channel's correspondents. As the negotiators were meeting, Trump also posted on social media: "Iran must immediately stop their highly paid PROXIES in Lebanon from causing trouble. If they don't, we'll hit Iran very hard again, just like we did last week, only harder!!!"
+
+The US team is being led by Vice President JD Vance, special envoy Steve Witkoff and Jared Kushner, the president's son-in-law. Iran is represented by parliamentary speaker Mohammad Bagher Ghalibaf and Foreign Minister Abbas Araghchi. It was not clear when Vance would leave Switzerland, though he told Fox News on Saturday that he expected to stay only a "day or two". Kushner and Witkoff are handling much of the technical work for the US side.
+
+In a joint statement, Pakistan and Qatar said the two sides had agreed to create a "communication line" to ensure safe passage of ships through the Strait of Hormuz. They also said a mechanism had been worked out to help end the fighting between Israel and the Iranian-backed Hezbollah in Lebanon. The US did not comment immediately, while Iran praised the mediators. Araghchi wrote on X that the first "real test" of the talks would be whether the mechanism could stop the fighting between Israel and Hezbollah.
+
+The senior US diplomat said one of the issues discussed was Iran's messaging on the Strait of Hormuz, after Iran's military said on Saturday that it had closed the waterway in response to continued fighting in Lebanon. US Central Command has disputed that Iran closed the strait again. The interim agreement signed last week by the leaders of the US and Iran has given negotiators 60 days to decide the future of Tehran's nuclear programme, amid concerns that it could be used for military purposes, which Iran denies. The fate of frozen Iranian assets and other difficult issues is also on the agenda, though Iran wants the talks to focus first on the fighting in Lebanon.
+
+For now, Saturday's renewed ceasefire in Lebanon appeared to be holding, and the Israeli military said it would lift movement restrictions for residents near the Israel-Lebanon border on Monday morning. Neither Israel nor Hezbollah is a signatory to the US-Iran deal, but the outcome in Lebanon has emerged as an early test of whether the wider negotiations can deliver on the issues already identified.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Jun 22, 2026 10:38 IST
+
+---
+
+### 'Useless Fellows': Kharge Rebukes Congress Workers Over 'DK-DK' Chants At Bengaluru Event | WATCH
+*Anushka Vats · general*
+
+Visibly irritated by the chants of 'DK, DK', Kharge told the crowd that the programme belonged to the Congress party and was not meant to celebrate an individual.
+
+[Read full article](https://www.news18.com/india/useless-fellows-kharge-rebukes-congress-workers-over-dk-dk-chants-at-bengaluru-event-watch-ws-l-10165030.html)
+
+---
+
+### TVK government scraps 46 DMK-era temple projects worth Rs 245.85 crore
+*Pramod Madhav · general*
+
+## The TVK government has withdrawn sanctions for 46 temple-funded projects cleared under the previous DMK administration. The HR&CE Department said court stays and the burden on temple finances led to the shift towards temple and devotee-focused schemes.
+
+The department cited court stay orders and the financial burden on temples as the primary reasons for withdrawing the approvals.
+
+The Tamilaga Vettri Kazhagam (TVK) government has cancelled administrative sanctions for 46 projects worth Rs 245.85 crore that were approved during the previous Dravida Munnetra Kazhagam (DMK) administration and were to be funded through temple resources.
+
+The decision was announced by the Hindu Religious and Charitable Endowments (HR&CE) Department, which said the projects included the construction of marriage halls and commercial complexes across the state. The department cited court stay orders and the financial burden on temples as the primary reasons for withdrawing the approvals.
+
+According to the order, administrative sanction has been revoked for 29 marriage hall construction projects estimated at Rs 115.77 crore and 17 commercial complex projects estimated at Rs 130.08 crore. None of the projects had commenced construction despite being announced earlier.
+
+In total, approvals for 46 projects valued at Rs 245.85 crore have now been cancelled.
+
+The HR&CE Department said the funds earmarked for these projects will instead be utilised for new schemes aimed at benefiting temples and devotees. The move marks a significant policy shift in the use of temple resources, with the government emphasizing temple welfare and religious infrastructure over the previously planned commercial and community development projects.
+
+\- Ends
+
+Zafar Zaidi
+
+Jun 22, 2026 10:30 IST
+
+---
+
+### Another Nihang leaves Uttarakhand gurdwara as standoff with management continues
+*Ankit Sharma · general*
+
+## One more Nihang came down from the Nagrasu gurdwara roof as officials continued talks with the group. The standoff remains linked to tensions after the Karnaprayag clash, while prayers and langar continue.
+
+A large police force was deployed after a group of Nihangs occupied the gurdwara terrace.
+
+One more Nihang came down from the roof of a gurdwara in Uttarakhand's Rudraprayag on Monday, leaving five members of the group still stationed on the terrace as the administration continued talks to end the standoff.
+
+The district administration said the situation was under control and expressed confidence that the matter would be resolved soon. Officials also warned against the circulation of misleading information, saying the incident was an internal dispute between the gurdwara's sewadars and the Nihangs.
+
+During discussions with the administration, the Nihangs have so far not mentioned the Karnaprayag clash, which had led to the arrest of four members of their sect, officials said.
+
+The standoff began on Saturday evening when a group of Nihangs allegedly entered the gurdwara, armed with weapons including swords, spears, axes and kirpans. According to police, they vandalised parts of the premises and took an elderly Sikh devotee hostage on the rooftop.
+
+A large police force was deployed after the incident, with officials from the district administration and the gurdwara management committee holding continuous talks with the group.
+
+Rudraprayag Superintendent of Police Niharika Tomar said the dialogue had shown positive progress, with one of the Nihangs coming down from the roof to interact with officials and police. Talks with the remaining members are continuing.
+
+District Magistrate Vishal Mishra said the Nihangs had locked the third floor leading to the terrace, where the elderly man was allegedly being held.
+
+The gurdwara management claimed that the Nihangs had demanded 50-60 rooms to accommodate supporters expected to arrive for a proposed protest against the arrest of four members of their sect following a clash in Chamoli's Karnaprayag area. When the request could not be fulfilled, the group allegedly resorted to violence and took control of the upper floor of the building.
+
+The incident is linked to a June 16 clash in Karnaprayag market, where a group of Nihangs returning from Sri Hemkund Sahib allegedly got into an argument with locals over parking near a hotel. Police said the confrontation escalated, with swords allegedly being used, leaving four locals injured. A Nihang was also injured in the clash.
+
+Four Nihangs from Mohali in Punjab were later arrested in connection with the incident. The Uttarakhand government has ordered an inquiry into the Karnaprayag clash.
+
+Following the arrests, some Nihangs approached the management of the Nagrasu gurudwara, seeking support for a proposed protest against what they described as "one-sided action" in the case.
+
+The Nagrasu gurdwara, located on the Badrinath Highway between Rudraprayag and Gauchar, serves Sikh pilgrims travelling to and from Sri Hemkund Sahib.
+
+According to gurdwara manager Beant Singh, the Nihangs arrived from Mohali around 4 pm on Saturday and demanded arrangements for dozens of rooms for protesters. After the request was not accepted, they allegedly created a disturbance, moved to the third floor, blocked access to the terrace and held a person hostage.
+
+The administration has maintained that pilgrimage activities, including prayers and langar services, continue as usual at the gurdwara.
+
+\- Ends
+
+Sahil Sinha
+
+Jun 22, 2026 10:28 IST
+
+---
+
+### Uddhav Sena Questions BJP's 'Real Shiv Sena' Claim Amid Split Within: 'How Can Amit Shah Decide?'
+*Shuddhanta Patra · general*
+
+Saamana attacks Amit Shah, BJP and Eknath Shinde over real Shiv Sena remark as six Shiv Sena UBT MPs plan to join Shinde camp, Uddhav and Aaditya Thackeray hit back
+
+[Read full article](https://www.news18.com/india/operation-tiger-uddhav-thackeray-shiv-sena-questions-bjps-real-shiv-sena-claim-amid-split-within-how-can-amit-shah-decide-mp-revolt-ws-l-10165045.html)
+
+---
+
+### Markets on edge as US-Iran ceasefire deal leaves investors rattled by uncertainty: Seth R. Freeman
+*Nandini Sanyal · general*
+
+Synopsis
+
+Despite a US-Iran ceasefire framework, markets remain volatile due to unresolved issues like Iran's nuclear program and the Strait of Hormuz. While oil prices are sensitive, China's markets struggle with property woes. India, however, shows promise, potentially emerging as a long-term AI powerhouse. Investors are advised caution until a concrete, enforceable deal is reached.
+
+Listen to this article in summarized format
+
+ETMarkets.com
+
+The ink on the US-Iran memorandum of understanding is barely dry, but financial markets are already showing signs of strain. Despite the historic signing of a 14-point ceasefire framework on June 17, electronically signed by US President Donald Trump and Iranian President Masoud Pezeshkian, seasoned market watchers say the deal is far from a green light for risk assets.
+
+"We are just ripe with uncertainty," says Seth R. Freeman, Senior Managing Director at GlassRatner Advisory. "Market players do not like this level of uncertainty."
+
+  
+
+## A deal that raises as many questions as it answers  
+
+The agreement extends the current US-Iran ceasefire for 60 days, with the goal of a permanent end to the war, but critical issues including the fate of Iran's nuclear program remain unresolved.
+
+Adding to the tension, Iran said it would close the Strait of Hormuz again after accusing the US and Israel of violating the memorandum of understanding by Israeli troops not withdrawing from southern Lebanon. That threat alone is enough to send shockwaves through energy and equity markets worldwide.
+
+Freeman points to the whipsaw effect of competing declarations from both sides. On one hand, Trump declared the strait open; on the other, Iranian leadership pushed back, blaming Washington for not reining in Israel. Senator Lindsey Graham has already warned that if the deal fails, "President Trump is going to take the Strait of Hormuz over by force."
+
+  
+
+## Crude oil: A market held hostage  
+
+Brent crude, currently trading sub-$80, remains highly sensitive to every development. Freeman notes that oil was in the mid-$60s before hostilities began, meaning the market has only recovered half its war-time surge. The outlook is complicated further by depleted global reserves and a global food price lag that could worsen inflationary pressure in the months ahead.
+
+The ongoing closure of the Strait of Hormuz has prevented oil from leaving the Gulf, driving up prices across the world, and any re-escalation risks pushing crude back toward $90 or higher.
+
+## China: A market still struggling
+
+While the Middle East dominates headlines, China's markets remain a separate concern for global investors. Freeman attributes continued underperformance of the Shanghai and Hang Seng indices not to oil exposure, China has sourced crude from alternative suppliers, but to a deeply troubled property sector. A massive residential real estate overhang continues to strain large Chinese banks, creating a persistent "risk-on, risk-off" dynamic that foreign investors find difficult to navigate.
+
+## India: A relative safe harbour?  
+
+Interestingly, Freeman sees India as somewhat insulated from the AI-driven bubble risk facing US tech markets. Unlike Wall Street's mega-cap giants trading at sky-high multiples on distant earnings promises, India's equity landscape is different. More importantly, Freeman is bullish on India's long-term AI potential. "I can imagine some real mega companies coming out of India given the computing knowledge and power and mathematicals," he says, citing the country's deep bench of engineering and data talent.
+
+  
+
+## The bottom line for investors  
+
+While "encouraging progress was made" in the first round of US-Iran talks, all sides have agreed only to a High-Level Committee to continue technical negotiations within the 60-day deadline. Until a durable, enforceable agreement emerges, one that addresses nuclear enrichment, Lebanon, and Hezbollah, markets are likely to remain trapped in a cycle of volatility.
+
+For now, Freeman's advice is implicitly clear: this is not a week to chase risk.
+
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+...moreless
+
+_(You can now subscribe to our ETMarkets WhatsApp channel)  
+_
+
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+...moreless
+
+---
+
+### Power Mech Projects jumps 4% as company bags Rs 1,009 crore JSW Thermal Energy contract
+*Ritesh Presswala · general*
+
+Shares of Power Mech Projects climbed 3.59% to Rs 2,941.80 during Monday's trading session after the company announced a major order win worth Rs 1,008.90 crore from JSW Thermal Energy Limited.
+
+The contract involves executing civil and structural works for the Boiler, Turbine and Generator (BTG) area of a 2x800 MW thermal power project at Salboni, West Bengal. The project is expected to be completed within 36 months from the commencement of work.
+
+According to the company's disclosure, the order was awarded by a domestic entity and carries a total contract value of Rs 1,008.90 crore, inclusive of GST.
+
+The development strengthens Power Mech Projects' order book and reinforces its position in India's power infrastructure and EPC segment. The company also clarified that neither its promoters nor promoter group entities have any interest in JSW Thermal Energy Limited, and the contract does not fall under 
+
+Investors cheered the announcement, pushing the stock higher as the sizeable order is expected to provide strong revenue visibility over the next three years.
+
+## Stock performance and technical outlook
+
+Power Mech Projects has delivered impressive returns to shareholders, rallying around 45% over the past three months and an astounding 726% over the last five years. The company currently commands a market capitalisation of approximately Rs 8,978 crore, while its 52-week high stands at Rs 3,415.
+
+On the valuation front, the stock trades at a price-to-earnings (P/E) ratio of 24.67 and a price-to-book (P/B) ratio of 3.47.
+
+From a technical perspective, the stock continues to exhibit strong momentum. Its 14-day Relative Strength Index (RSI) stands at 66.4, approaching the overbought zone but still below the key threshold of 70. Additionally, Power Mech Projects is trading above all eight of its tracked simple moving averages (SMAs), indicating a firmly bullish trend.  
+_  
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)_
+
+
+---
+
 ## 21 June 2026
 
 ### Ram Temple Donation Row: CCTV Footage Flags Irregularities In Cash Handling, SIT To Submit Report Soon
