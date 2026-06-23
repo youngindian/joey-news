@@ -1,3 +1,422 @@
+## 23 June 2026
+
+### Manipur CM reduces summer vacation to one week due to law and order, discusses NEP 2020 reforms
+*Bikash Singh · business*
+
+Guwahati: Manipur Chief Minister Yumnam Khemchand Singh said on Tuesday due to the current law and order situation in the State, the summer vacation had been reduced from three weeks to one week.
+
+He attended the inaugural function of a three-day workshop on “Reforms in School Education of Manipur: An Approach to Implementation, Challenges and Opportunities of NEP-2020”. The workshop was organised by Vidya Bharati Shiksha Vikash Samiti, Manipur, at the City Convention Centre, Imphal.
+
+Singh quoted Nelson Mandela on the importance of education and said that education is one of the most powerful tools to change the world.
+
+  
+
+He noted that the normal functioning of educational institutions and government offices were disrupted for nearly a month after the Tronglaobi incident. As a result, Saturdays were declared as working days for all government departments to make up for the lost time.
+
+He added that Saturdays would be again made as holiday once the pending work are completed.
+
+On the successful implementation of NEP 2020, the Chief Minister said that everyone is equally responsible and the duty should not be left to the government alone. He said that the policy can be implemented successfully only when the government, employees and people work together with strong determination.
+
+Puneet Kumar Goel, Chief Secretary, Manipur said that India aims to become a fully developed nation by the 100th year of its Independence, guided by the vision of Viksit Bharat 2047. He said that the National Education Policy 2020 is a key driver in this journey, with teachers and education stakeholders playing a major role in shaping the nation’s future.
+
+Professor Ganga Prasad Prasain, President of Vidya Bharati Purvottar Kshetra said that from Class VI onwards, students should be introduced to skill development and vocational courses along with regular academic subjects. The aim is to give them practical skills and improve their chances of self-employment in the future.
+
+---
+
+### Telegram Still Blocked? Users Say App Inaccessible Even After June 22 Expiry Of Curbs
+*Meemansa Shekhawat · general*
+
+In an interim order issued on June 16, the Centre had directed that Telegram and its associated URLs be blocked across India till June 22
+
+[Read full article](https://www.news18.com/india/telegram-still-blocked-users-say-app-inaccessible-even-after-june-22-expiry-of-curbs-ws-l-10167083.html)
+
+---
+
+### Telangana school bandh today: Why ABVP is protesting and what it means for students
+*SECTIONS Telangana school bandh today Why ABVP is protesting · business*
+
+Schools across Telangana may witness disruptions today as the Akhil Bharatiya Vidyarthi Parishad (ABVP) has called for a statewide school bandh to protest what it describes as the government's neglect of public education. The student organization has urged students, parents, and educational institutions to support the strike.
+
+### Why Is ABVP Protesting?
+
+ABVP has raised multiple concerns 
+
+  
+
+> — ABVPTelangana (@ABVPTelangana)
+
+According to the student body, despite the presence of nearly 27,000 government schools and 23,000 private schools in the state, public education continues to face neglect. The organization has called on the government to take immediate steps to improve educational infrastructure and staffing.
+
+### Key Demands of ABVP
+
+-   Introduce strict regulations on fees charged by private and corporate schools.
+-   Take action against schools that impose annual fee hikes of up to 25%.
+-   Fill vacant teaching and non-teaching positions in government schools through fresh recruitment drives.
+-   Improve basic infrastructure in government schools and allocate adequate funds for their development.
+-   Ensure the availability of essential facilities such as toilets, drinking water, and other basic amenities in all schools.
+-   Implement the National Education Policy (NEP) 2020 effectively across the state.
+-   Appoint teachers and support staff on a permanent basis to address staff shortages.
+-   Relieve government school teachers of non-academic responsibilities so they can focus on classroom teaching.
+
+ABVP says the bandh is intended to draw attention to these issues and press the state government to take corrective measures to improve the quality of school education in Telangana.
+
+### So, Are Schools Shut Today?
+
+According to media reports, several private and corporate schools in Hyderabad have declared a holiday today in anticipation of possible disruptions due to the ABVP-called school bandh. However, the Telangana government has not issued any official order announcing a statewide closure of schools.
+
+Students and parents are therefore advised to check with their respective schools regarding holiday declarations, class schedules, and any other updates before heading to campus.
+
+---
+
+### US Suspends Iran Oil Sanctions Till August 21. What Does It Mean For India?
+*Shuddhanta Patra · general*
+
+The US waiver on Iranian oil permits transactions related to the production, sale and delivery of Iranian-origin crude oil, petrochemicals and petroleum products until August 21.
+
+[Read full article](https://www.news18.com/india/us-suspends-iran-oil-sanctions-till-august-21-what-does-it-mean-for-india-ws-l-10167052.html)
+
+---
+
+### Lucknow fire: Single staircase, blocked exit turned building into death trap
+*Santosh Kumar Sharma · general*
+
+## The tragedy has put the spotlight on more than just the fire itself. Investigators are examining how a building with a single staircase, one exit route and AC units crowding the narrow passage was allowed to operate commercially. The enclosed, box-like design trapped smoke inside, leaving firefighters to carve through neighbouring walls to reach those trapped.
+
+Fire personnel conduct a dousing operation after fire broke out at a commercial building in Aliganj. Students were killed after a massive fire blazed through a three-floor commercial building in a residential area (PTI Photo)
+
+With just one way in and one way out, a three-storey, box-like building in Lucknow's Aliganj area turned into a death trap after a fire broke out on Monday afternoon, killing 15 people by suffocation. That lone access route was lined with air-conditioning panels, tangled wires and other equipment fixed along a narrow passage, leaving those inside with little room to escape once the blaze spread.
+
+According to the details available, the air-conditioning units and electrical fittings allegedly intensified the fire, turning the building's only escape path into a choke point. The structure also had a single narrow staircase linking the upper floors to the ground floor and basement, further limiting movement as smoke filled the premises.
+
+The basement was being used by a pet shop for storage and operations, while the first floor housed the pet shop itself. The fire is believed to have started there before quickly spreading to the upper floors, which were occupied by a studio and a coaching centre.
+
+By the time rescue teams reached the site, the building's enclosed design had trapped dense smoke inside, and the absence of alternative emergency exits or external evacuation points left firefighters with few options.
+
+As they could not reach those trapped through the usual routes, fire personnel used hydraulic cutters, hammers and drilling machines to break through neighbouring walls. They created a large opening in a second-floor wall shared with an adjacent house. When the wall was first punctured, a thick cloud of black smoke burst out, briefly overwhelming the rescuers before exhaust fans were brought in to clear the area and make entry safer.
+
+That opening then became one of the main rescue routes, with stretchers carrying survivors and victims moved through the neighbouring property while emergency teams continued operations inside the smoke-filled building. Outside, firefighters also pulled down parts of the boundary wall to make space for hydraulic platforms and more than a dozen fire tenders that had reached the narrow lanes of Aliganj.
+
+The incident has also prompted questions over how a commercial, box-like building was operating in a residential area. Officials of the Lucknow Development Authority are facing scrutiny over how a structure approved for residential use in a residential locality came to be used for commercial activities.
+
+\- Ends
+
+Sayan Ganguly
+
+Jun 23, 2026 09:34 IST
+
+---
+
+### Mumbai Gets Drenched, Vidarbha On Orange Alert — Check Maharashtra's Rain Forecast For Today
+*Sumedha Kirti · general*
+
+After a two-week lull, the monsoon is back over Maharashtra — with orange alerts in Vidarbha and yellow flags for Mumbai, Konkan and Satara. Check what's coming your way.
+
+[Read full article](https://www.news18.com/cities/mumbai-news/mumbai-drenched-vidarbha-orange-alert-check-maharashtra-rain-forecast-today-10167028.html)
+
+---
+
+### Shillong Teer Results Today Live, June 23, 2026: Winning Numbers For All Teer Games
+*Nibandh Vinod · general*
+
+Shillong Teer Result Today: Here's full list of winning numbers for Shillong Teer, Juwai Teer, Khanapara Teer, and more for June 23, 2026.
+
+[Read full article](https://www.news18.com/india/shillong-teer-result-today-june-23-2026-first-and-second-round-lottery-result-check-winning-numbers-full-list-10166614.html)
+
+---
+
+### Delhi University releases PG round 2 list as 8,150 seats locked in after round 1
+*India Today Education Desk · general*
+
+Delhi University has released the second round of postgraduate seat allocations for the 2026-27 academic session, taking the admission process a step further after thousands of students secured seats in the first round.
+
+According to the university, 2,964 fresh allocations have been made under the Common Seat Allocation System for postgraduate programmes.
+
+The latest announcement comes after a busy first round that saw 11,548 seat allocations offered across various master's programmes. Of these, 10,393 candidates accepted their allotted seats.
+
+By the fee payment deadline on June 19, a total of 8,150 students had completed the admission process, confirming their seats by paying the required fees.
+
+### FREEZE, UPGRADE OR WAIT?
+
+The university's data offers a glimpse into how students are navigating the admission process. Among those who secured admissions in the first round, 3,399 candidates chose to freeze their allotted seats, signalling satisfaction with their current choice.
+
+Meanwhile, 2,448 students opted for an upgrade, hoping to secure a higher preference in subsequent rounds. Another 2,303 candidates neither selected the freeze option nor sought an upgrade.
+
+The second-round allocations have now been made available on the postgraduate admissions portal. The university has also published the minimum allocation scores for various programmes, allowing candidates to assess their chances in upcoming rounds.
+
+### MORE ADMISSIONS STILL UNDERWAY
+
+Delhi University is simultaneously conducting admissions for its five-year integrated law programme and B Tech courses. The university said 104 admissions have been confirmed so far in the integrated law programme, while the third round of seat allocations began on Monday.
+
+For B Tech admissions, registrations closed on June 18 with 3,620 applications received. A correction window remained open until June 20, and the first admission list is scheduled to be released on June 24.
+
+University officials have advised candidates to regularly monitor the admissions portal for updates on seat allocations, document verification and fee payment deadlines.
+
+With thousands of seats still in play and multiple admission rounds remaining, the coming weeks are expected to be crucial for applicants waiting for preferred programmes and colleges. The university said timely action by candidates will be essential to avoid missing admission opportunities during the ongoing process.
+
+**(With PTI inputs)**
+
+\- Ends
+
+Princy Shukla
+
+Jun 23, 2026 09:27 IST
+
+---
+
+### Meet Larry the Cat, Chief Mouser of 10 Downing Street who outlasted 6 UK PMs
+*India Today Trending Desk · general*
+
+## Larry the Cat's parody account has joked on X about choosing a 'new chief servant' as leadership talk returns to the UK.
+
+Larry the cat at 10 Downing Street in the UK. (Photo: X)
+
+British politics may be preparing for yet another leadership shuffle, but one resident of 10 Downing Street remains completely unbothered by the drama. While prime ministers come and go through the famous black door, Larry the Cat is still very much in charge.
+
+The parody account of the Downing Street Chief Mouser recently delivered another masterclass in feline political commentary after posting on X.
+
+“I have accepted Keir Starmer's resignation as my chief servant and have invited Andy Burnham to lay out details for how many meals a day he'll give me,” the post read.
+
+> "I have accepted Keir Starmer's resignation as my chief servant and have invited Andy Burnham to lay out details for how many meals a day he'll give me" pic.twitter.com/7Ix95PMsN7— Larry the Cat (@Number10cat) June 22, 2026
+
+In a country that has witnessed enough political turbulence to keep constitutional experts permanently caffeinated, Larry has become Britain's most reliable institution. Since arriving at Downing Street from Battersea Dogs & Cats Home in 2011, he has quietly outlasted six prime ministers — David Cameron, Theresa May, Boris Johnson, Liz Truss, Rishi Sunak and Keir Starmer.
+
+Frankly, that's an impressive survival record.
+
+Most employees would be thrilled to keep the same job for a decade. Larry has managed to keep the same address while watching an entire conveyor belt of national leaders cycle through Britain's top office.
+
+He has witnessed Brexit battles, leadership contests, cabinet reshuffles and enough political scandals to fill several lifetimes, all while maintaining the air of someone mildly annoyed that humans continue interrupting his naps.
+
+Then there was Liz Truss's famously brief stint in office, which was so short that a lettuce became one of the most talked-about political commentators in Britain. Larry survived that too.
+
+Officially, his role remains pest control. Unofficially, he has evolved into 10 Downing Street's furry historian, chronicling Britain's political chaos one deadpan tweet at a time. During every leadership transition, journalists inevitably turn their attention to the only resident whose position appears completely secure.
+
+> Japanese PM visit highlight - Larry the Cat made a surprise detour to check out the Japanese media team during a high-profile diplomatic summit between Prime Minister Takaichi and Prime Minister Starmer at No. 10.#japanuk pic.twitter.com/QtHjo9fmUN— Embassy of Japan UK (@JAPANinUK) June 20, 2026
+
+As speculation swirls over who might occupy the Prime Minister's office next, Larry seems to have already established the criteria for the job: competence is nice, stability is welcome, but regular meal service remains non-negotiable.
+
+After all, governments may rise and fall. Larry, meanwhile, simply carries on.
+
+\- Ends
+
+Srimoyee Chowdhury
+
+Jun 23, 2026 09:23 IST
+
+---
+
+### Meta halts AI training program that records employee computer activity after company-wide data leak
+*Om Gupta · general*
+
+## Meta has paused its internal Model Capability Initiative after a leak made employee data widely accessible. The incident has sharpened privacy concerns and added to unease over the company's AI-driven changes.
+
+Meta pauses AI training program after an internal data leak. (Photo: Reuters)
+
+It seems Meta employees won't be getting relief from low morale anytime soon. Just recently, Meta Chief Technology Officer Andrew "Boz" Bosworth said employee morale at the company was near an all-time low as mass layoffs and internal AI initiatives continued to unsettle many longtime workers. Now, according to a new report, the social media giant has paused one of those AI initiatives after sensitive employee data was reportedly accessible across the company.
+
+According to screenshots obtained by Business Insider, Meta has temporarily halted an internal AI training program after a leak exposed employees' private conversations, performance data and transcriptions. The incident was classified as a SEV 2 on Meta's internal scale of one to five, with one being the most severe.
+
+A Meta spokesperson confirmed the incident and said the company is investigating.
+
+"We have carefully designed this program with privacy safeguards, and while we have no indication at this time that any data was improperly accessed by Meta employees, we're pausing it while we investigate," the spokesperson said.
+
+### The AI project that sparked privacy concerns
+
+The programme at the centre of the controversy is called the Model Capability Initiative, or MCI. Meta installed the software on computers used by employees in the United States to collect mouse movements, clicks and keystrokes that can be used to train its artificial intelligence models.
+
+According to an internal memo that was previously shared by a staff AI research scientist, the tool runs on work-
+
+For most employees, participation in the programme was mandatory. That decision had already sparked criticism inside the company, with many workers reportedly uncomfortable about having their activity recorded.
+
+The latest leak appears to have intensified those concerns. According to screenshots seen by Business Insider, some employees were frustrated that the data had not been locked down from the start and questioned why sensitive information was accessible so broadly within the company.
+
+### Another security headache for Meta
+
+The incident is also the latest in a series of security problems for Meta. Last month, a flaw in the company's AI chatbot reportedly allowed people to hijack multiple Instagram accounts. The issue came to light after hackers allegedly gained access to several high-profile accounts, including the Obama-era White House Instagram handle, beauty brand Sephora and the account of a senior US Space Force official.
+
+The latest leak is unlikely to ease concerns among Meta employees, many of whom are already grappling with rapid changes driven by AI.
+
+\- Ends
+
+Jun 23, 2026 09:22 IST
+
+---
+
+### RBI seen in no rush to press rate hike pedal, decision may get deferred to second half of FY27
+*Rozebud Gonsalves · business*
+
+Mumbai: Timelines for an interest-rate increase by the Reserve Bank of India (RBI) are gradually being pushed further back, with economists now visibly tilting toward the second half of FY27 for any rate tightening instead of earlier expectations of a decision by monetary policymakers in the August review itself.
+
+This assessment by economists, despite some concerns about wholesale prices, inflationary pressures and rate increases by several other central banks, is driven by two key factors.
+
+First, coordinated measures announced by the government and the RBI are expected to attract sizable foreign currency inflows, likely easing the pressure on the rupee. Second, the recent moderation in crude oil prices, after the US and Iran agreed to a broad peace framework, has reduced upside risks to inflation while also underpinning growth, economists said.
+
+  
+
+ET Bureau
+
+Citibank has now withdrawn its forecast for two RBI rate hikes through March 2027, while Yes Bank and Canara Bank have pushed their rate-hike expectations to the second half of FY27.
+
+Similarly, State Bank of India said the fall in oil prices and rupee appreciation can provide relief to imported inflation. Saugata Bhattacharya, external member of the monetary policy committee, told ET in an interview that growth could exceed RBI's forecast of 6.6% in FY27.
+
+  
+
+## Monsoon Impact
+
+This is possible on account of a steeper decline in oil prices than what has been estimated, he said.
+
+Madhavan Kutty G, Canara Bank’s chief economist, who earlier expected an increase as early as June, now believes ‘there are good chances’ of a hike in the October policy.
+
+“The consumer price index-based inflation is projected at 4.2% for Q1, while for Q2, it is projected at 5.1%. So, the possibility of CPI reaching closer to 5.1% is only in Q3,” Kutty G said. “In this context, rate hike chances get pushed toward Q3 and there is a good chance of a hike in October as the entire southwest monsoon impact would be seen by then.”
+
+The RBI has projected inflation for FY27 at 5.1%.
+
+SBI did not forecast a near-term rate increase, but Citigroup and Yes Bank economists, who had earlier expected policy tightening to begin in the coming months, have now taken a view that any rate hike would now be deferred.
+
+“If the oil prices sustain at around $70-75 per barrel, with the government not undertaking any further pass-through, the need for the RBI to move into a hiking cycle reduces significantly,” said Indranil Pan, chief economist, Yes Bank.
+
+Brent oil is currently trading at $79 per barrel, according to Reuters. Oil prices were around $90 per barrel just ahead of the June policy, after reaching a peak of nearly $120 per barrel mid-May.
+
+“A decline in oil prices and rupee appreciation may provide some respite to imported inflation and this may keep CPI under the RBI’s target range. Taking all these factors under account, we believe that to talk about rate hike is unwarranted at this juncture,” SBI said in a report on Monday.
+
+---
+
+### Ayodhya Ram Temple Trust's financial row: Petition filed in SC seeks court-monitored probe
+*SECTIONS Ayodhya Ram Temple Trust's financial row Petition filed · business*
+
+New Delhi: A fresh petition has been filed in the Supreme Court seeking a court-monitored investigation into the alleged financial irregularities of Shri Ram Janmabhoomi Teerth Kshetra Trust in Ayodhya.
+
+The petition sought registration of an FIR and the formation of a Special Investigation Team (SIT) under the Central Bureau of Investigation (CBI) to probe into the reported missing funds, financial irregularities, mismanagement, and other alleged illegalities concerning the affairs and administration of Shri Ram Janmbhoomi Teerth Kshetra Trust.
+
+**
+
+The petition filed by advocates Ajay Kumar Rai and Dinesh Kumar Yadav also sought direction to the Trust and the Uttar Pradesh government to preserve all physical, digital and financial records, including donation registers, audit reports, CCTV footage, bank records and other documents 
+
+It further sought directions restraining the Trust and the government from destroying, altering, tampering with, transferring or otherwise dealing with any record, asset, fund, document or electronic data connected with the matter.
+
+The petitioners further prayed Trust, Uttar Pradesh government, and the Union of India constitute and operationalise such regulatory, supervisory, and audit mechanisms as may be necessary to safeguard public interest and maintain the confidence of millions of devotees and donors.
+
+**
+
+The plea stated, "Opaque funds/ assets handling by an institution serving in a fiduciary capacity directly impacts faith, sentiments, and confidence of countless devotees and members of the public who have voluntarily donated funds for the construction of Bhagwan Shri Ram Temple at Janmbhoomi."
+
+The petition also raises doubts on the utility of the SIT constituted by the Uttar Pradesh government to investigate the allegations of missing funds and accounting discrepancies.
+
+It claims that the mandate, powers and scope of investigation of the enquiry at the state level are not clear and might not be adequate to deal with the complexity of the allegations, it added.
+
+"Special Investigation Team constituted by the State of Uttar Pradesh has
+
+commenced its inquiry without the registration of a First Information Report (FIR) or any regular criminal case. In such circumstances, the evidentiary value and admissibility of material collected during the inquiry may remain vulnerable to challenge, potentially undermining future prosecution, if any," the plea stated.
+
+Asking the apex court to intervene, the petition said intervention of this Court has become imperative to preserve institutional integrity, uphold the rule of law and maintain public confidence in the administration and management of Shri Ram Janmbhoomi Teerth Kshetra Trust.
+
+The petition further submitted that the scope of reference of the ongoing SIT inquiry remains unclear and the initial stages of a criminal investigation are crucial for preserving evidence, warning that any delay could lead to tampering with material evidence and hamper timely investigative measures.
+
+The petition contended that such measures may be beyond the scope of the SIT's preliminary inquiry and sought an independent and impartial investigation to ascertain the truth and ensure accountability if any wrongdoing is established.
+
+Earlier, an advocate had sent a letter petition to the Supreme Court alleging concerns over alleged misappropriation, disappearance and irregularities in the handling of donations and offerings made by devotees at the Shri Ram Janmabhoomi Mandir.
+
+---
+
+### Nifty India Internet Index explained: Top holdings, latest returns, sector allocation and funds tracking benchmark | Mint
+*Sheetal Goel · economy*
+
+The Nifty India Internet Index is designed to capture the performance of companies that derive a major portion of their business from digital and online platforms.
+
+As India's internet economy continues to expand, this index offers investors a way to gain exposure to leading players across e-commerce, fintech, online travel, digital media and more.
+
+Let's take a look at the index's key constituents, recent performance, and ways to invest in it.
+
+## What is the Nifty India Internet Index?
+
+The Nifty India Internet Index tracks the performance of companies that primarily operate through digital and online platforms. It includes eligible internet-focused businesses from the Nifty Total Market Index and assigns weights based on their free-float market capitalization.
+
+The index was launched with a base date of 1 October 2021 and a base value of 1,000. To ensure it reflects the evolving digital economy, the index is reviewed and reconstituted twice a year and rebalanced every quarter. Additionally, the weight of any single stock is capped at 20%, helping maintain diversification within the index.
+
+## What is the Nifty India Internet Index portfolio composition?
+
+The Nifty India Internet Index currently includes 27 stocks, offering exposure to a diverse range of internet-driven businesses.
+
+Its largest constituent is Eternal at 19.30%, followed by PB Fintech (13.86%), One 97 Communications (11.24%), Info Edge (India) (9.09%), FSN E-Commerce Ventures (8.57%), and Swiggy (8.46%).
+
+From a sector perspective, the index is heavily tilted towards consumer services, which accounts for 59.86% of the portfolio, followed by financial services at 38.63%. Media, entertainment and publication companies make up the remaining 1.51%, reflecting the index's strong focus on India's growing digital consumer and fintech ecosystem.
+
+## Performance of the Nifty India Internet Index
+
+**Period**
+
+**Return**
+
+1 Week (1W)
+
+5.06%
+
+1 Month (1M)
+
+3.24%
+
+3 Months (3M)
+
+12.90%
+
+6 Months (6M)
+
+\-11.43%
+
+Year-to-Date (YTD)
+
+\-10.58%
+
+\*Data as on June 19, 2026, Source: NSE
+
+If you had invested ₹1,00,000 in the Nifty India Internet Index, your investment would have grown to approximately ₹1,05,060 in the last week, ₹1,03,240 over the past month and ₹1,12,900 over the last three months.
+
+However, due to recent market volatility, the same investment would have declined to around ₹88,570 over six months and ₹89,420 on a year-to-date basis.
+
+## Pros and cons for investing in the Nifty India Internet Index
+
+The Nifty India Internet Index provides exposure to a wide range of businesses that primarily operate through digital and online platforms. These include companies involved in internet and catalogue retail, fintech, e-commerce, digital entertainment, web-based media and services, e-learning and electronic media.
+
+The index also includes qualified stockbroking firms, online travel agencies and travel aggregators, as well as pharmacy retailers that deliver a significant portion of their services through digital channels. This diverse mix allows investors to participate in multiple segments of India's growing internet and digital economy through a single investment.
+
+However, investors should be aware of certain risks. The index is relatively concentrated, with the top few stocks accounting for a significant share of the portfolio, which can increase volatility. The index is also heavily tilted toward consumer services and financial services, limiting sector diversification.
+
+Additionally, the index has delivered negative returns over the last six months, reflecting its relatively recent launch and limited track record.
+
+## How to invest in the Nifty India Internet Index?
+
+One of the easiest ways to invest in the Nifty India Internet Index is through index funds and ETFs that track the index. These funds replicate the index's performance by investing in the same set of stocks with similar weightings.
+
+Here is the list of passive mutual funds that track the Nifty India Internet Index:
+
+**Fund Name**
+
+**AUM (in ₹ Cr)**
+
+Groww Nifty India Internet ETF
+
+33
+
+Mirae Asset Nifty India Internet ETF
+
+28
+
+Groww Nifty India Internet ETF FoF
+
+12
+
+\*Data as on May 31, 2026; Source: Value Research
+
+_Disclaimer: This is purely for educational/ informational purposes and should not be taken as any sort of investment advice. Always consult a SEBI-registered advisor before making any investment decisions._
+
+### About the Author
+
+Sheetal Goel
+
+Sheetal Goel is a Content Producer at Livemint, where she covers corporate developments, personal finance, business trends, markets, and SEBI-
+
+
+---
+
 ## 22 June 2026
 
 ### The 'Tiger' Trap: How Shrikant Shinde Engineered The Decisive Split In Uddhav’s Sena | Exclusive
