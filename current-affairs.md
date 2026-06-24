@@ -1,3 +1,864 @@
+## 24 June 2026
+
+### From climbing stairs to carrying heavy groceries: 10 exercises to ace daily tasks
+*Vidhya Das · general*
+
+## Fitness is not just about weight loss or building muscle. Experts say the ability to climb stairs, carry groceries, maintain balance and get up from the floor may be a better measure of overall health, mobility and healthy ageing.voidh
+
+Functional fitness exercises can improve strength, mobility and balance daily.
+
+Most people associate fitness with weight loss, visible muscles or hours spent in the gym.
+
+But physiotherapists say the true test of fitness is far more practical: whether your body can comfortably handle the demands of everyday life.
+
+Can you climb a few flights of stairs without losing your breath? Carry grocery bags without straining your back? Sit on the floor and stand up without support?
+
+These everyday tasks rely on what experts call functional fitness - the strength, mobility, balance and endurance needed to perform daily activities safely and independently.
+
+The concept recently gained attention after a report in _The Guardian_ highlighted exercises designed to prepare the body for real-world movement rather than athletic performance. Rising rates of back pain, poor posture, obesity and sedentary lifestyles have also made mobility and strength key public health concerns.
+
+“Functional fitness is the ability to perform everyday activities safely, efficiently and independently,” said Mr S. Benedic Kingslin Suresh, Chief Physiotherapist at MGM Healthcare, Chennai.
+
+According to Suresh, functional fitness goes beyond building muscle. Every adult should maintain strength to lift and carry objects, mobility to move joints through their full range of motion, balance to prevent falls, endurance to sustain daily activities and core stability to protect the spine and maintain posture.
+
+The true goal of fitness is not just appearance, it is preserving independence and quality of life throughout ageing.
+
+### THE 10 EXPERT-RECOMMENDED EXERCISES
+
+Based on the movement patterns most commonly used in daily life, experts recommend focusing on the following exercises:
+
+**1\. Squats**
+
+Squats mimic everyday movements and help build functional strength.
+
+One of the most important functional exercises, squats mimic sitting down and standing up from chairs, toilets and cars. They strengthen the thighs, hips and core while supporting knee health.
+
+**2\. Lunges**
+
+Lunges build lower-body strength and improve balance for daily life.
+
+Lunges improve balance, coordination and lower-body strength, making activities such as climbing stairs and getting up from the floor easier.
+
+**3\. Step-Ups**
+
+Step-ups mimic stair climbing and help improve everyday mobility.
+
+This movement closely mirrors stair climbing and helps build strength and endurance required for daily mobility.
+
+**4\. Deadlifts**
+
+Deadlifts train the body to lift household items safely and efficiently.
+
+Deadlifts train people to lift groceries, buckets and household items safely while reducing strain on the lower back.
+
+**5\. Push-Ups**
+
+Push-ups improve upper-body strength and support everyday activities.
+
+Whether performed on the floor or against a wall, push-ups strengthen the upper body and help with pushing movements and getting up from the floor.
+
+**6\. Rows**
+
+Rows strengthen the upper back and help improve everyday posture.
+
+Rows strengthen the upper back and shoulders, helping counter poor posture caused by prolonged desk work and screen use.
+
+**7\. Overhead Press**
+
+Overhead presses help strengthen the shoulders for daily tasks.
+
+This exercise helps people safely place objects on high shelves and improves shoulder strength and mobility.
+
+**8\. Farmer's Carry**
+
+Farmer's carries build grip strength for everyday lifting tasks.
+
+Walking while carrying weights mimics everyday tasks such as carrying grocery bags, luggage or even young children.
+
+**9\. Planks**
+
+Planks strengthen the core, helping support posture and daily movement.
+
+A strong core supports posture, protects the spine and reduces the risk of back pain, making planks a key functional exercise.
+
+**10\. Single-Leg Balance**
+
+Single-leg balance exercises improve stability and support healthy ageing.
+
+Balance naturally declines with age. Practising standing on one leg can improve stability and help prevent falls.
+
+### HOW INACTIVE LIFESTYLES AFFECT MOBILITY
+
+Physiotherapists say prolonged sitting, lack of physical activity and excessive screen time are contributing to poor posture, weak core muscles, reduced flexibility and balance problems.
+
+Dr Sobiya Altaf Shaikh, Consultant Physiotherapist at Motherhood Hospitals, Pune, said many people today struggle with mobility because of sedentary lifestyles.
+
+"Children, pregnant women and adults tend to experience poor posture, reduced flexibility, weak core strength and balance issues. These limitations can affect walking, climbing stairs, lifting objects and maintaining overall mobility," she said.
+
+### A SIMPLE TEST OF HEALTHY AGEING
+
+Experts say one everyday movement stands out as a strong indicator of overall fitness: the ability to sit on the floor and stand up again without support.
+
+According to Suresh, this movement requires lower-body strength, hip and ankle mobility, balance, coordination and core stability.
+
+Similarly, being able to stand on one leg for 10 to 30 seconds or comfortably carry a moderate weight can indicate good physical resilience and independence.
+
+As Indians live longer and spend more time sitting than previous generations, experts say fitness goals may need to shift from looking fit to moving well.
+
+The ability to climb stairs comfortably, carry groceries, maintain balance and get up from the floor without assistance may ultimately matter more than achieving a perfect physique.
+
+\- Ends
+
+Jun 24, 2026 10:00 IST
+
+---
+
+### From Brazil to Southeast Asia: 5 exotic plants that make your home look luxurious
+*SECTIONS · business*
+
+A luxurious-looking home does not always need expensive furniture, designer décor, or a major renovation. Sometimes, the right plants can completely transform a space by adding colour, texture, and a touch of elegance. From dramatic tropical leaves to rare-looking varieties that feel straight out of a luxury resort, indoor plants can instantly elevate your home’s vibe without burning a hole in your pocket. Here are seven beautiful plants from across the world that bring an expensive feel to any corner.
+
+## String of Turtles: The tiny luxury plant
+
+Native to the tropical rainforests of Brazil, the String of Turtles is one of those plants that looks almost too unique to be real. Its delicate trailing vines are covered with small, round leaves that have patterns resembling tiny turtle shells, giving it its charming name.
+
+Unlike typical leafy houseplants, this variety adds texture and personality to a space. When placed in a hanging planter, on a bookshelf, or cascading from a shelf edge, its unusual appearance creates a stylish, designer-like feel.
+
+The plant belongs to the succulent family and stores water in its thick leaves, which makes it relatively low-maintenance compared to many indoor plants. It prefers bright, indirect light and does well in spaces where it can slowly trail and grow.
+
+Because of its compact size and sculptural look, String of Turtles is perfect for apartments, workspaces, or homes where you want a touch of greenery without taking up much room. Its rare appearance makes it feel like a luxury décor piece, even though it can be an affordable addition to your plant collection.
+
+  
+
+## Calathea Orbifolia: The designer-looking beauty
+
+Originating from South America, Calathea Orbifolia is known for its wide, striped leaves that almost look hand-painted. Its silver-green patterns give a sophisticated feel, making it a favourite among people who love modern interiors. This plant works beautifully in minimal homes because its natural patterns add character without needing extra decoration.
+
+  
+  
+
+## Begonia Maculata: The polka-dot plant
+
+Native to Brazil, the Begonia Maculata is one of the most eye-catching houseplants you can add to your home. Also known as the Polka Dot Begonia, this plant gets its name from the beautiful silver-white spots scattered across its dark green, wing-shaped leaves.
+
+The real charm of this plant comes from the contrast between its patterned leaves and deep red undersides. When the leaves move, the flashes of burgundy create a dramatic look that feels more like a piece of artwork than a regular houseplant. With its tall stems and elegant foliage, Begonia Maculata instantly gives a space a boutique hotel or luxury café vibe. It looks especially beautiful placed on side tables, shelves, or in a stylish planter where its unique patterns can stand out.
+
+The plant originally grows in warm, humid forests and prefers bright, indirect sunlight with well-draining soil. While it enjoys humidity, it does not like overwatering, making a little care and attention important. Beyond its beauty, the Begonia Maculata is loved by plant enthusiasts because every leaf looks slightly different, making each plant feel one-of-a-kind. It is a perfect choice for anyone who wants their home to look more elegant without spending heavily on décor.
+
+## Fiddle Leaf Fig: The elegant corner plant
+
+Native to the tropical rainforests of West Africa, the Fiddle Leaf Fig is one of the most popular plants in modern home décor. Its name comes from its large, violin-shaped leaves that have a glossy texture and a bold, sculptural appearance. The Fiddle Leaf Fig can instantly transform an empty corner into a stylish statement area. It is often seen in luxury apartments, cafés, and interior design spaces because of its clean, architectural look.
+
+The plant’s deep green foliage adds a sense of calm and sophistication, making it a perfect match for minimal interiors, wooden furniture, neutral walls, and contemporary décor. Even a single Fiddle Leaf Fig in a simple pot can make a room feel more thoughtfully designed.
+
+While it looks high-end, the plant does not require complicated care. It thrives in bright, indirect sunlight and prefers a consistent watering routine. One thing to remember is that it can be sensitive to sudden changes in location, so it is best placed in a spot where it can stay comfortable.
+
+## Hoya Kerrii
+
+Native to Southeast Asia, Hoya Kerrii is a charming indoor plant known for its thick, heart-shaped leaves that instantly make it stand out. Often called the Sweetheart Plant or Heart Leaf Hoya, this unique variety has become popular among plant lovers because of its adorable shape and sculptural appearance.
+
+Unlike many leafy plants that grow in clusters, Hoya Kerrii has a simple yet elegant look. Its fleshy green leaves store water, giving them a slightly waxy texture that adds to their premium feel. When placed in a stylish pot, it looks less like a regular houseplant and more like a piece of living décor.
+
+This plant is naturally a slow grower. With time and the right care, it can develop long vines covered with multiple heart-shaped leaves, making it beautiful for hanging planters, shelves, or windowsills. Hoya Kerrii prefers bright, indirect sunlight and does well with occasional watering, making it a good choice for people who want a beautiful plant without too much maintenance. When mature, it can even produce clusters of small, star-shaped flowers with a sweet fragrance.
+
+Its unusual leaf shape, low-maintenance nature, and charming appearance make Hoya Kerrii a perfect choice for adding a subtle luxury touch to homes without spending much.
+
+---
+
+### ‘Dutton Ranch’ rumours: Is Cole Hauser’s Rip Wheeler going to be replaced soon?
+*TOI Entertainment Desk · entertainment*
+
+Rip Wheeler's new role in 'Dutton Ranch' causes fans to speculate about whether he is leaving or not
+
+The ‘Yellowstone’ spin-off series ‘Dutton Ranch’ has caused quite a stir amongst fans as of late. The latest events of the series have left many fans wondering about Rip Wheeler’s future in the show.
+
+Wheeler, played by Cole Hauser, sported a new look as the turn of events devastated the Dutton Ranch’s operations; however, fans commented that this may point toward the character being written off.
+
+## What happened in ‘Dutton Ranch’ that led many to believe that Rip Wheeler is being replaced
+
+In a recent turn of events in ‘Dutton Ranch’, Wheeler and Beth, played by Kelly Reilly, face the devastating truth that they must execute their own cattle. When foot-and-mouth disease runs amok on their ranch, they must decide to stop operations and kill their own cattle before it spreads.
+
+After this, since they no longer have any way to make an income, the couple starts working for their neighbour in the area for the time being, Beulah Jackson, played by Annette Bening.As Rip Wheeler takes over managing the neighbouring 10 Petal ranch, many wonder whether the shift in his looks, along with his new role, points toward him being replaced in the coming episodes.Not only that, but the fixing duties at Dutton Ranch have been distributed between two newly introduced characters: Azul, played by JR Villarreal, and Zachariah, played by Marc Menchaca.
+
+In an interview with Us Weekly, Menchaca opened up about his character and shared, “He was a cowboy that they trashed around and he'd go work on ranches here and there. He was just one of those guys who rodeo and worked to get by. That's the part of the cowboy life that's the whole core.
+
+” He also added that it is an extremely exciting opportunity for him to be on the show in Texas.As of right now, there is no definite answer provided for whether Rip is being written off or replaced; however, fans and netizens have been speculating.
+
+## What do fans think of the recent developments in ‘Dutton Ranch’
+
+Many people have commented on the latest developments in ‘Dutton Ranch,’ wondering whether Wheeler may be getting replaced as the Dutton Ranch’s fixer. One person’s comment on the matter read, “If this is true, I won’t watch another episode after he leaves.” Another social media user further commented that, “Rip’s character cannot be removed from the show I will not have that”, while another shared, “Rip cannot go wth.
+
+”
+
+## Plot of ‘Dutton Ranch’
+
+The premise of the show is based around Rip and Beth moving out of Montana after her father’s death. They go all the way to Texas and establish their own ranch; however, things can never truly go smoothly for the Dutton family. On their journey to establishing the ranch, the couple faces all kinds of problems, which include diseases, missing people, and mysterious bodies turning up around the area, along with hostile and judgmental neighbours.
+
+---
+
+### 'Where is our silver?': Donors seek clarity on ₹7 crore Ram Mandir donation in Ayodhya
+*ET Online · business*
+
+Dr. Raju V. Manwani, Chairman and Managing Director of Castles Group of Companies, said donors from the Sindhi community have sought details on the utilisation of 200 silver bricks donated for the Ram Mandir in Ayodhya in 2021, stating that "people certainly have the right to ask" about contributions made for the temple. Manwani said donors became concerned after media reports and added, "If the silver wasn't used for the temple, it is deeply distressing," while calling for accountability if any misuse of donations is established.
+
+---
+
+### JD Vance wanted Indian troops in Ukraine, Trump shot him down, reveals book
+*Pranay Upadhyaya · general*
+
+## A new book claims Donald Trump rejected JD Vance's proposal to consider Indian peacekeepers for a Ukraine ceasefire mission, saying "Indians won't pay." The account describes internal debates within Trump's administration over ending the Russia-Ukraine war and alternative peacekeeping arrangements.
+
+Book reveals why Trump rejected Vance's India peacekeeper proposal
+
+A book titled Regime Change, released on June 23, describes a behind-the-scenes disagreement within Donald Trump's second administration over its approach to the war in Ukraine, including discussions on whether Indian or Saudi Arabian troops could be deployed as peacekeepers in the conflict involving Russia, a key Indian ally.
+
+According to the book authored by Maggie Haberman and Jonathan Swan, the disagreement unfolded during an Oval Office meeting on January 30, 2025, ten days after Trump’s second swearing-in, when Vice President JD Vance raised the possibility of a non-European force for a ceasefire mission.
+
+The book says Trump rejected the idea of India’s involvement straight away, responding with a laugh and saying, “The Indians won’t do that. They won’t pay for something like that.”
+
+The exchange took place at a meeting called by retired Army Lieutenant General Keith Kellogg, whom Trump had named special presidential envoy for Ukraine and Russia, to set out the administration’s “commander’s intent” for bringing the war to an end.
+
+At the meeting, Kellogg presented a draft plan titled “An America First Plan: Trump’s Historic Peace Deal for Russia-Ukraine War.” Under the proposal, the United States would not formally recognise Russia’s claims over occupied Ukrainian territory, while Ukraine would agree not to try to take those areas back by force. The plan also included a ceasefire monitoring arrangement involving foreign troops on the ground.
+
+Regime Change says Kellogg’s draft proposed that European countries such as France, Britain and the Netherlands could send peacekeeping forces to Ukraine. Vance is said to have objected to that part of the proposal, arguing that the presence of troops from North Atlantic Treaty Organisation, or Nato, member states inside Ukraine could be seen by Moscow as a serious provocation.
+
+According to the book, he warned that such a move could heighten tensions, widen the conflict and increase the chance of the United States being drawn further into the war.
+
+Looking for an alternative to a mission staffed by Nato countries, Vance reportedly asked National Security Advisor Michael Waltz whether troops from outside Europe could oversee a ceasefire in Ukraine.
+
+After Waltz agreed that a non-European force would be preferable, Vance suggested India and Saudi Arabia as possible countries for the role.
+
+The book says Trump dismissed India’s participation despite remarking that he had a strong relationship with Prime Minister Narendra Modi and that Modi “really liked him and wanted to visit.” It adds that Trump said “the Indians do not ever pay for anything” and repeated that “they won’t pay for something like that.”
+
+Trump, according to the book, said he had no basic objection if Britain or France chose to send their own troops to monitor the zone, as long as the United States was protected from any financial or military commitment. Beyond that exchange, the book describes an administration that was deeply distrustful of the Ukrainian leadership and guided heavily by Trump’s own instincts.
+
+During Kellogg’s presentation, the book says Trump repeatedly cut in to attack Ukrainian President Volodymyr Zelenskyy, calling him a “bad negotiator” who had “destroyed his country” but was “really good at getting stuff from the Biden administration.” Trump also allegedly described Ukraine as “the most corrupt country in the world.”
+
+\- Ends
+
+Sayan Ganguly
+
+Jun 24, 2026 09:46 IST
+
+---
+
+### Meta's $900 mn Cred bet fuels hopes of turning WhatsApp into a super-app
+*Business Standard · business, entrepreneur, finance*
+
+The global tech firm announced this week that it will own 20% of Bengaluru-based Cred, which rewards people who pay their credit-card bills on time
+
+[Read full article](https://www.business-standard.com/companies/news/meta-s-900-mn-cred-bet-fuels-hopes-of-turning-whatsapp-into-a-super-app-126062400183_1.html)
+
+---
+
+### Imposing vegetarianism: TMC's Derek O'Brien targets BJP over Bengal mid-day meal
+*anism TMCBrien targets BJP over Bengal mid-day meal ANI · business*
+
+Kolkata: Trinamool Congress Rajya Sabha leader Derek O'Brien on Wednesday criticised the BJP over reports suggesting eggs could be removed from the mid-day meal menu in West Bengal schools, alleging that such a move would deprive children of nutrition.
+
+In a post on X, O'Brien linked the issue to recent political controversies surrounding eggs in the state and accused the BJP of attempting to impose vegetarianism.
+
+"After the fish-eating tamasha during the election campaign, the Gujarat Gymkhana finally reveals itself. New BJP govt at work in Bengal. Throw eggs at rivals. But deprive children of nutrition by taking eggs off from midday meals. Imposing vegetarianism. Bengal rejects this," he wrote.
+
+  
+  
+
+> — derekobrienmp (@derekobrienmp)
+
+The remarks came amid speculation on social media that eggs in mid-day meals could be replaced with alternatives such as paneer and soyabean.
+
+The controversy follows the West Bengal government's decision to entrust ISKCON with the responsibility of serving cooked mid-day meals in schools located within the Kolkata Municipal Corporation area.
+
+However, ISKCON Kolkata Vice President Radharaman Das dismissed the reports regarding the proposed menu and clarified that no decision had been taken on the matter.
+
+"It has come to my notice that some people are sharing the following proposed menu for the midday meal in Kolkata. However, I would like to clarify that no such menu has been finalized, and this list has not been issued by us. Once the menu is finalised, we will make an official announcement. Kindly refrain from sharing this incorrect information," Das said in a post on X.
+
+In 2024, the Government of India launched the PM Poshan Scheme, which was a significant effort to bolster the health and education of students. The Ministry of Education has launched the 'Pradhan Mantri Poshan Shakti Nirman (PM POSHAN)' scheme, which succeeds the long-standing National Programme for Mid-Day Meal in Schools.
+
+---
+
+### Stock Market LIVE: Sensex up 100 pts, Nifty above 23,800; Hitachi Energy, IIFL top SMID losers
+*Business Standard · business, entrepreneur, finance*
+
+Sensex Today | Stock Market LIVE Updates Wednesday: In the broader markets, the Nifty MidCap and the Nifty SmallCap were trading 0.04 per cent and 0.12 per cent lower, respectively
+
+[Read full article](https://www.business-standard.com/markets/news/stock-market-live-june-24-nse-bse-sensex-today-nifty-gift-nifty-brent-crude-ipo-it-stocks-126062400111_1.html)
+
+---
+
+### Adani AGM 2026: All eyes on Gautam Adani as AGM begins at 10 AM - The Economic Times
+*Economic Times · business*
+
+24 Jun 2026 | 10:12:55 AM IST
+
+Ahmedabad, Jun 24 (ANI): Adani Group Chairman Gautam Adani addresses the Annual General Meeting (AGM) of Adani Group, in Ahmedabad on Tuesday. (Adani Group/ANI Video Grab)
+
+Synopsis
+
+Adani AGM 2026: Seven listed Adani Group companies are set to hold their Annual General Meetings (AGMs) with shareholders expected to vote on key resolutions including dividend declarations, director reappointments, auditor appointments, 
+
+The Adani Group enters a crucial AGM week as seven of its listed companies—Adani Ports & SEZ, Adani Enterprises, Ambuja Cements, Adani Total Gas, Adani Power, Adani Green Energy, and Adani Energy Solutions—convene shareholder meetings between June 24 and June 26.
+
+Key matters on the agenda include approval of FY26 financial statements, dividend payouts, director reappointments, auditor remuneration, and corporate governance resolutions. Adani Enterprises will seek shareholder approval for a ₹15,000 crore capital raise, while Adani Ports, Ambuja Cements and Adani Total Gas have proposed dividends for FY26.
+
+All AGMs will be held via video conferencing or other audio-visual means, with shareholders able to participate and vote electronically through CDSL and NSDL platforms.
+
+## The 13th AGM of Adani Energy Solutions Ltd will be held on June 25 at 12:30 p.m.
+
+The record and voting cut-off dates are June 18. Voting shall include the reappointment of rotational directors and the appointment and remuneration of statutory and cost auditors. CDSL e-voting will continue to be open from June 21 to June 24.
+
+### The 21st AGM of Adani Total Gas will be held on June 25, 2026, at 5 p.m.
+
+Adani Total Gas posted 4% year-on-year growth in standalone Q4 FY26 profit at ₹156 crore, where revenues increased 16% to ₹1,696 crore, and EBITDA increased by 13% to ₹310 crore.
+
+### The 43rd Annual General Meeting of Ambuja Cements will take place on June 26, 2026, at 2:30 p.m
+
+There will be a vote on the adoption of FY26 accounts and a dividend of ₹2 per share, 100% of the face value
+
+### Adani Enterprises to Seek Approval for ₹15,000 Crore Capital Raise
+
+The 34th AGM of Adani Enterprises is set for June 24, 2026, at 10:30 AM. Adani Enterprises had reported an increase of 32% in consolidated profit after tax at ₹9,339 crore for the FY26. The board recommends a final dividend of ₹1.30 per share on June 12, 2026.
+
+### Adani Ports AGM on June 24; ₹7.50 Dividend Proposed
+
+The 27th AGM of Adani Ports and SEZ is scheduled for June 24, 2026, at 12 noon. The board has declared a final dividend of ₹7.50 per equity share which amounts to 375% of the ₹2 face value of the equity share
+
+### Adani AGM 2026: Seven companies belonging to the Adani Group are set to hold their AGMs during the week for the FY 2025-2026
+
+These seven companies include Adani Ports & SEZ (APSEZ), Adani Enterprises Ltd, Ambuja Cements, Adani Total Gas, Adani Power, Adani Green Energy, and Adani Energy Solutions. The AGMs will be held via VC or OAVM. Shareholders can exercise their voting rights online via CDSL or NSDL portals.
+
+---
+
+### Mumbai Rains LIVE Updates: Heavy Rainfall Hits Trans Harbour Railway Line, Andheri Subway Shut
+*Shobhit Gupta · general*
+
+Mumbai Rains LIVE Updates: The southwest monsoon finally hit Mumbai on Tuesday, 13 days after its normal onset date, bringing much- needed relief from the sweltering heat.
+
+[Read full article](https://www.news18.com/cities/mumbai-news/mumbai-rains-live-updates-june-24-2026-imd-red-alert-southwest-monsoon-onset-maharashtra-waterlogging-local-trains-liveblog-10169514.html)
+
+---
+
+### Punjab Police Admit Card 2026 released: Check direct link, how to download, recruitment details, and everything else you need to know
+*Unknown · job*
+
+The Punjab Police Department has released the Punjab Police Constable Admit Card 2026 on its official website, punjabpolice.gov.in. Candidates can now thus go to the official website to download their admit cards.
+
+The admit card has been released ahead of the Phase 1 Computer-Based Test (CBT) which is scheduled to commence on July 1, 2026. The recruitment drive, being conducted under Advertisement No. 01 of 2026, aims to fill 3,298 Constable vacancies in the District Police Cadre and Armed Police Cadre. Candidates who registered for the recruitment process in March 2026 can now download their admit cards online.
+
+The admit card contains important information, including the candidate's roll number, examination date, reporting time, exam centre details and instructions for the test day. Candidates must carry a printed copy of the admit card to gain entry into the examination centre.
+
+  
+
+The recruitment drive will fill a total of 3,298 vacancies, including 2,522 posts in the District Police Cadre and 776 posts in the Armed Police Cadre.
+
+According to the official schedule, the Computer-Based Test will begin on July 1, 2026. Candidates who qualify in the written examination will be called for the Physical Screening Test (PST), Physical Measurement Test (PMT) and document verification stages.
+
+  
+
+## How to download Punjab Police Constable Admit Card 2026  
+
+1\. Visit the official Punjab Police website.
+
+2\. Click on the "Recruitment" section on the homepage.  
+3\. Select the "Punjab Police Constable Admit Card 2026" link.
+
+4\. Enter your Registration Number/Login ID and Password.  
+5\. Click on the submit button.  
+6\. Download and verify the admit card details.  
+7\. Take a printout and keep it safe for future reference.
+
+Candidates are advised to carefully check all details mentioned on the admit card and follow the instructions issued by the Punjab Police Department.
+
+## Punjab Police Constable Admit Card 2026 FAQs
+
+**1\. When was the Punjab Police Constable Admit Card 2026 released?  
+**The Punjab Police Constable Admit Card 2026 was released Wednesday on the official website, allowing registered candidates to download their hall tickets before the examination.
+
+**2\. What is the exam date for the Punjab Police Constable CBT 2026?  
+**The Phase 1 Computer-Based Test (CBT) is scheduled to begin on July 1, 2026.
+
+**3\. How can I download my Punjab Police Constable Admit Card 2026?  
+**Candidates can download the admit card by visiting the official Punjab Police website, clicking on the Recruitment section, entering their login credentials, and downloading the hall ticket.
+
+**4\. What details are mentioned on the Punjab Police Admit Card 2026?  
+**The admit card includes the candidate's name, roll number, exam date, reporting time, examination centre details, photograph, and important exam-day instructions.
+
+**5\. What should I do if there is an error in my admit card?  
+**Candidates should immediately contact the Punjab Police recruitment authorities through the official website and get the discrepancy corrected before the examination date.
+
+---
+
+### How this 19-year-old non-IIT student built a Rs 1 crore-a-month AI business
+*India Today Education Desk · general*
+
+When people talk about successful young founders, the conversation often begins with elite colleges, powerful networks or access to resources. But the story of 19-year-old Ayush Singh is being discussed for a different reason.
+
+According to a post shared on X, Ayush Singh is now earning around Rs 1 crore a month through his artificial intelligence education business. What makes his story stand out is that he is "not an IITian, not an MIT grad, and wasn't born with a silver spoon," as the post points out.
+
+Instead, his journey began at the age of 13, when the Covid-19 pandemic pushed his family into financial difficulty, and he decided to teach himself machine learning from scratch. What he had at the time was limited: "outdated courses, a patchy internet, a laptop, and a ridiculous amount of curiosity."
+
+Rather than giving up, he decided to teach himself machine learning.
+
+### LEARNING THE HARD WAY
+
+The X post says Ayush spent his early teenage years studying artificial intelligence and machine learning independently. The effort reportedly paid off quickly.
+
+"Within months, he was working with startups abroad," the post states. It further says that at the age of 14, "MIT recommended his course publicly," giving his work early recognition.
+
+Over the next few years, Ayush reportedly worked on natural language processing systems for a United States-based startup and also took on roles as an MLOps engineer and data scientist.
+
+### BUILDING MORE THAN A CAREER
+
+As his technical experience grew, so did his ambitions. According to the post, Ayush went on to found Antern and later co-found Second Brain Labs.
+
+The post notes that, by most standards, he had already achieved what many young professionals spend years working towards. Yet another challenge remained.
+
+### TURNING KNOWLEDGE INTO A BUSINESS
+
+"Today, he's teaching Al to hundreds of engineers across India, helping them land the kind of work that once felt out of reach," the post says. He helps learners gain skills that can open doors to new opportunities in the technology sector.
+
+However, despite teaching hundreds of people, monetising that expertise was initially difficult.
+
+"And yet, for all of it, the teaching was never paying him back," the post adds.
+
+What changed was not the quality of his knowledge but the way it was presented and delivered. "What was missing was packaging, positioning, and a system to sell it."
+
+Today, he is working through Topmate. He has turned that expertise into a thriving business, earning nearly Rs 1 crore a month.
+
+\- Ends
+
+Princy Shukla
+
+Jun 24, 2026 09:36 IST
+
+---
+
+### Trump blasts Senate war powers rebuke on Iran conflict, attacks GOP senators; 'Republican losers with Dumocrats'
+*Varsha Agarwal · general*
+
+According to CNN, the resolution was adopted by a vote of 50-48, with Republican Senators Rand Paul, Susan Collins, Lisa Murkowski and Bill Cassidy joining Democrats in support of the measure.
+
+Trump blasts Senate war powers rebuke on Iran conflict(Representative image, source: ANI)
+
+Hours after the United States Senate voted to limit President Donald Trump's war powers in the Iran conflict, President Trump on Tuesday (local time) lambasted the legislative move, stating that the Senators have made his "job more difficult," and have "provided aid and comfort to the enemy."
+
+According to CNN, the resolution was adopted by a vote of 50-48, with Republican Senators Rand Paul, Susan Collins, Lisa Murkowski and Bill Cassidy joining Democrats in support of the measure.
+
+In a post on his Truth Social platform, Trump specifically targeted these senators, calling them "Republican Losers" for voting alongside Democrats to challenge his administration's approach to Iran, but vowed to continue his approach, "one way or the other."Trump further claimed that his administration had Iran "on the ropes" and that the Islamic Republic is "willing to give us practically anything." He argued that the Senate vote emboldened the "Number One Sponsor of Terror in the World."
+
+"So, I have Iran on the "ropes," ready to go down for the fall, willing to give us practically anything, and for the first time in decades, respecting the hell out of the United States and its President, ME, and the U.S. Senate decides to have a poorly timed and meaningless War Powers Act Vote, telling the Number One Sponser of Terror in the World that the United States doesn't like what I am doing to them, and I must stop, and by so doing has provided aid and comfort the Enemy. Four Republican Losers voted with the Dumocrats, and Iran asked my people, "what does that all mean?" These Senators have just made my job more difficult, but I will get it done, one way or the other, because I always get it done! President DJT," he wrote.
+
+His remarks come after the US Senate on Tuesday (local time) approved a resolution directing US President Donald Trump to remove American military forces from the conflict with Iran, marking a rare bipartisan rebuke of the administration's military authority and signalling concerns in Congress over potential escalation in the region. The absence of Republican Senators Mitch McConnell and Dave McCormick, who had previously opposed advancing similar war powers measures, contributed to its passage, CNN reported.
+
+The vote comes amid continued efforts by Democrats in both chambers of Congress to limit the president's authority to engage in military action against Iran without congressional approval. CNN reported that support for such efforts has gradually expanded among some Republicans in recent weeks. The measure had earlier passed the US House of Representatives by a vote of 215-208, with four Republicans voting alongside Democrats.
+
+Following that vote, Trump criticised the lawmakers on Truth Social, describing them as "GRANDSTANDERS" and calling their actions "unpatriotic".The resolution directs the president to remove US armed forces from hostilities against Iran. However, the White House maintained that such a requirement was unnecessary because "there are no hostilities from which to remove US forces, as hostilities terminated with the ceasefire on April 7th", as reported by CNN.
+
+Despite its passage in both chambers, the resolution is a concurrent resolution and therefore does not require the president's signature. It also does not carry the force of law, a White House official said.
+
+(Except for the headline, the story hasn't been edited by DNA staff but is directly published from ANI)
+
+---
+
+### ‘You cannot rescue a drowning family if you go broke’: CA shares the brutal truth of first-generation wealth
+*Unknown · business*
+
+Building wealth for the first time in a family often comes with a hidden responsibility. The moment someone becomes the first person to create a strong financial base, expectations start changing. They are no longer seen only as an individual but as the person who can solve everyone’s problems. CA Nitin Kaushik recently highlighted this emotional and financial burden, explaining why helping family without boundaries can quietly damage the very wealth one is trying to build.
+
+Taking to X, CA Nitin Kaushik wrote about the difficult reality faced by first-generation wealth creators. He said that a person cannot save a drowning family if they end up going broke while trying to rescue everyone. According to him, when someone becomes the first in their family to build a meaningful corpus, they often automatically become the family’s financial support system. Relatives dealing with medical expenses, struggling businesses, or even lifestyle upgrades may start turning to them first.
+
+However, Kaushik warned that carrying an entire family’s financial responsibilities without limits can destroy one’s own ability to create long-term wealth. He explained that the biggest trap often begins with guilt, where people feel obligated to solve every financial problem around them.
+
+He gave an example, saying that giving away Rs 1 lakh when your own emergency fund has only Rs 1.2 lakh does not make you a hero. Instead, it leaves you financially exposed. Once someone damages their own financial foundation, they stop building wealth and risk returning to the same cycle of instability they were trying to escape.
+
+Kaushik suggested treating family support like a planned financial commitment rather than an unlimited source of money. He recommended creating a separate bank account only for family-
+
+  
+
+> — Finance\_Bareek (@Finance\_Bareek)
+
+The CA also stressed the importance of separating genuine emergencies from non-essential demands. A sudden medical crisis or necessary education expense should be treated differently from an unplanned business idea or a luxury purchase. He added that asking for details like hospital estimates or business plans before providing money can remove emotion from financial decisions and lead to better choices.
+
+Kaushik acknowledged that saying no to family members can feel extremely difficult. The guilt may make people feel like they are failing their loved ones. However, he argued that financial boundaries are not selfish.
+
+He concluded that if someone keeps exhausting their own assets to solve every immediate family problem, the cycle of financial dependence never truly ends. Building wealth requires not only earning more but also protecting the foundation that makes future support possible.
+
+---
+
+### UN Secretary General asks tech companies to come clean on environmental cost of running AI data centres
+*Om Gupta · general*
+
+## Antonio Guterres has urged major AI companies to disclose the full environmental impact of their systems. The call sharpens scrutiny of the land, water and power demands behind the AI boom.
+
+UN Secretary-General wants AI firms to disclose the true environmental impact of AI. (File Photo: ITG)
+
+Artificial intelligence is becoming more powerful with each passing year, but the technology's rapid progress comes with a growing environmental cost. United Nations Secretary-General Antonio Guterres has called on major AI companies to publicly disclose the full environmental impact of their systems, arguing that the public deserves greater transparency about the resources required to power AI.
+
+"AI data centres are hungry for land, water & power," Guterres said.
+
+"I'm calling on every major AI company to publicly disclose the full environmental impact of its systems – as a matter of transparency."
+
+"No more hidden costs. No more shifting the burden onto those least able to bear it. It is time to come clean."
+
+### Why is the UN concerned?
+
+The growing concern stems from the massive data centres that power modern AI systems. While users interact with AI through simple chat windows and voice assistants, the technology relies on huge networks of servers housed in large data centres. These facilities are used to train AI models and generate responses whenever people use AI tools.
+
+Running these centres requires enormous amounts of electricity to power servers, networking equipment, cooling systems, and other infrastructure. They also consume significant quantities of water to keep equipment from overheating. As AI usage continues to grow, so does the demand for these resources.
+
+### Public concerns are also growing
+
+The environmental impact of data centres is becoming a concern for many communities. Some residents oppose the construction of data centres in their areas because of worries about electricity consumption, water usage, and land requirements.
+
+A Reuters/Ipsos poll conducted in 2025 found that only about one-third of Americans approve of the rapid pace of data-centre construction supporting artificial intelligence. The survey also found that many people would oppose having a data centre built in their own community. The findings reflect broader public unease about the ongoing boom in AI infrastructure across the United States.
+
+### Tech companies are looking for solutions
+
+Major technology companies are also aware of the growing concerns surrounding the energy and resource demands of AI. Google is reportedly pursuing an ambitious project known as Project Suncatcher, which aims to place AI data centres in space using solar-powered satellites equipped with the company's Tensor Processing Units (TPUs), specialised chips designed for artificial intelligence.
+
+Elon Musk has also discussed the possibility of developing space-based data centres powered by solar satellites to meet the increasing computing demands of AI.
+
+Meta is exploring a similar direction. The company recently announced a partnership aimed at collecting solar energy from space to help power its data centres and AI infrastructure. It has also partnered with another company to store renewable energy for extended periods.
+
+\- Ends
+
+Jun 24, 2026 09:31 IST
+
+---
+
+### Shillong Teer Results Today, June 24, 2026: Winning Numbers For All Teer Games
+*Nibandh Vinod · general*
+
+Shillong Teer Result Today: Here's full list of winning numbers for Shillong Teer, Juwai Teer, Khanapara Teer, and more for June 24, 2026.
+
+[Read full article](https://www.news18.com/india/shillong-teer-result-today-june-24-2026-first-and-second-round-lottery-result-check-winning-numbers-full-list-10167667.html)
+
+---
+
+### Markets open flat as crude slump offsets hawkish Fed concerns
+*Sonu Vivek · general*
+
+Benchmark indices opened on a cautious note on Wednesday, attempting to stabilise after Tuesday's sharp selloff, as lower crude oil prices and a rebound in technology stocks helped offset concerns over a hawkish US Federal Reserve and weak global market sentiment.
+
+The S&P BSE Sensex rose 113.27 points to 76,313.95 in early trade, while the NSE Nifty50 gained 22.15 points to 23,845.50 as of 9:22 am.
+
+The recovery comes a day after the Sensex plunged 893 points and the Nifty lost nearly 279 points amid heavy selling in IT and metal stocks.
+
+### IT STOCKS LEAD THE RECOVERY
+
+Technology shares, which bore the brunt of Tuesday's selloff, emerged among the top gainers in early trade.
+
+Tech Mahindra climbed 2.70%, Infosys rose 1.46% and TCS gained 0.65%, helping the Nifty IT index advance over 1%.
+
+The rebound followed a recovery in South Korean markets after Tuesday's sharp correction in semiconductor stocks sparked fears of a broader technology-led selloff across Asia.
+
+According to Dr VK Vijayakumar, Chief Investment Strategist at Geojit Investments Limited, excessive volatility in semiconductor-heavy markets such as South Korea and Taiwan is likely to continue, but India's relatively stable growth profile makes it comparatively resilient.
+
+### CRUDE OIL FALL OFFERS RELIEF
+
+One of the biggest positives for Indian equities continues to be the sharp correction in crude oil prices.
+
+Brent crude slipped below $77 a barrel, extending losses after signs emerged that oil tanker movement through the Strait of Hormuz was normalising amid ongoing US-Iran peace negotiations.
+
+For India, a major oil importer, lower crude prices help reduce inflation risks, improve the current account balance and support corporate earnings.
+
+Vijayakumar said the collapse in Brent crude has effectively removed one of the biggest macroeconomic headwinds facing the Indian economy.
+
+### PHARMA STOCKS ATTRACT BUYING
+
+Defensive sectors also remained in demand.
+
+The Nifty Pharma index rose 0.88%, while the Nifty Healthcare Index gained 0.77%.
+
+Sun Pharma was among the notable gainers on the Sensex, rising 0.48%.
+
+Market participants are increasingly viewing pharmaceutical stocks as relatively insulated from concerns around monsoon variability and rural demand.
+
+While benchmark indices traded in positive territory, broader market participation remained mixed.
+
+The Nifty Midcap 50 rose 0.21%, while the Nifty Midcap 100 was up just 0.05%.
+
+The Nifty Smallcap 100 slipped marginally into the red.
+
+Among sectoral indices, Nifty IT, Pharma and Private Banks traded higher, while Auto, Media and Consumer Durables witnessed mild weakness.
+
+### MONSOON REMAINS A KEY CONCERN
+
+Despite improving global and commodity-
+
+India's monsoon rainfall remains significantly below normal so far this season, raising concerns over rural demand, agricultural output and inflation.
+
+Vijayakumar warned that sectors dependent on rural consumption, including FMCG companies and entry-level two-wheeler manufacturers, could face pressure if rainfall deficiencies persist.
+
+Going ahead, investors will closely monitor monsoon progress, foreign institutional investor activity and signals from the US Federal Reserve.
+
+While lower crude prices, a stable rupee and moderating foreign outflows continue to support sentiment, concerns around global growth and domestic weather conditions are likely to keep markets range-bound in the near term.
+
+_**(Disclaimer: The views, opinions, recommendations, and suggestions expressed by experts/brokerages in this article are their own and do not reflect the views of the India Today Group. It is advisable to consult a qualified broker or financial advisor before making any actual investment or trading choices.)**_
+
+\- Ends
+
+Jun 24, 2026 09:29 IST
+
+---
+
+### Mumbai Rain Live: Orange alert issued as heavy rain batters city, Andheri subway closed
+*India Today News Desk · general*
+
+NewsCitiesMumbaiLive: Orange alert issued as heavy rain batters Mumbai, Andheri subway closed
+
+Mumbai Rain
+
+Mumbai Rain News Live Updates: Mumbaikars were faced with widespread waterlogging on Wednesday after intense overnight rainfall accompanied the delayed arrival of the southwest monsoon. Several areas across the city and Mumbai Metropolitan Region experienced disruptions, with roads inundated and traffic movement affected. Visuals from locations such as King’s Circle in Matunga showed vehicles moving slowly through flooded stretches, while areas around Dadar station were also impacted. According to the MeT department, Mumbai recorded more than 300 mm of rain in 24 hours, placing it in the “extremely heavy rainfall” category. The weather agency initially issued a red alert for Mumbai and Palghar in the early hours, warning of thunderstorms, lightning, very heavy rainfall and strong winds reaching 40–60 kmph. By 7 am, the alert was reduced to orange, though moderate to intense rain activity was expected to continue across Mumbai, Thane, Raigad, Palghar and Sindhudurg over the following hours. Follow IndiaToday.in for the latest updates.
+
+...
+
+People cross a road under umbrellas during heavy rainfall, in Mumbai, Tuesday, June 23, 2026. (PTI Photo)
+
+Jun 24, 2026 10:12 IST
+
+### Mumbai Rains: Downpour disrupts suburban rail services, commuters face delays and overcrowding
+
+Suburban railway services in Mumbai were also affected after rainwater accumulated on tracks at several locations, though officials said the water level remained below the danger mark that would require suspension of train operations.
+
+Despite services continuing, commuters reported delays and overcrowding in local trains during the morning peak hours, particularly on Central Railway corridors, leading to a difficult commute for office-goers.
+
+Railway authorities monitored affected stretches as intermittent rain led to waterlogging in low-lying track sections. While train movement was not halted, services were reported to be running with delays on multiple routes.
+
+Jun 24, 2026 10:11 IST
+
+### Mumbai rains Live: Waterlogging reported in key low-lying areas, traffic movement disrupted
+
+The overnight rain in Mumbai led to waterlogging in several low-lying parts of the city by Wednesday morning, severely affecting road traffic and disrupting the daily commute of thousands of residents. Civic officials said water accumulation was reported in areas including the Andheri subway, Hindmata, and King’s Circle during the early hours. The inundation slowed vehicular movement and triggered congestion on multiple key arterial roads, causing delays for office-goers and public transport users.
+
+Authorities noted that the persistent rainfall over the night had overwhelmed drainage systems in certain stretches, leading to temporary submergence of road sections. Traffic police were deployed at affected points to regulate movement and ease congestion.
+
+Jun 24, 2026 09:52 IST
+
+### Mumbai Rains Live: Wall collapses near Vikhroli West residential building, no details of damage yet
+
+A retaining wall adjacent to a residential building collapsed late Tuesday night in Mumbai’s Vikhroli West as heavy rainfall lashed the city, officials said. The incident occurred amid intense overnight showers across several parts of Mumbai, which triggered waterlogging and multiple rain-
+
+Jun 24, 2026 09:45 IST
+
+### Mumbai Rains Live: Mumbai wakes up to waterlogging after heavy overnight rain as monsoon hits city
+
+Mumbaikars woke up to heavy overnight rains on Wednesday, which disrupted suburban train services, inundated low-lying areas and caused hardship to commuters. With downpour continuing across parts of the Mumbai Metropolitan Region, the India Meteorological Department (IMD) issued a red alert for Mumbai and Palghar at 4 am on Wednesday, valid for three hours, warning of thunderstorms, lightning, intense to very intense rainfall, and winds of 40-60 kmph. The alert was downgraded to an orange alert at 7 am for the next three hours, with moderate to intense spells of rain forecast for Mumbai, Thane, Raigad, Palghar and Sindhudurg. Read full story here
+
+---
+
+### Bhagwant Mann Video Row: FIR Says Punjab Police Officers Paid Rs 10 Lakh To Forge Forensic Report
+*Shuddhanta Patra · general*
+
+The Akal Takht, the highest temporal authority of the Sikhs, has declared the video authentic and described Mann as “Guru dokhi” and “panth virodhi”.
+
+[Read full article](https://www.news18.com/india/bhagwant-mann-video-row-forensic-report-controversy-akal-takht-punjab-police-sacrilege-video-ws-l-10169523.html)
+
+---
+
+### Can AI replace Infosys? Nandan Nilekani responds
+*Armaan Agarwal · general*
+
+## At a time when there are fears that Indian IT companies may struggle in the age of AI, Infosys Chairman Nandan Nilekani has responded to such comments. Here is what he said.
+
+Some fear that Infosys and other Indian IT giants may be replaced by AI.
+
+In recent months, there has been a growing debate on the potential impact of AI on SaaS companies, particularly Indian giants like Infosys and TCS. Shares of Indian IT firms have often taken a hit due to this uncertainty. However, Infosys Chairman Nandan Nilekani remains confident that AI cannot replace his company, and rather may serve as a new opportunity for growth.
+
+During Infosys’ 45th Annual General Meeting on Tuesday, Nilekani discussed the potential impact AI may have. The Infosys chairman insisted that companies that adapt to AI, may see their business grow. He said, “AI will not replace companies like ours. It will amplify those who move with purpose and adapt with speed.”
+
+While Indian SaaS companies do not make their own models, Nandan Nilekani pointed out that the companies can help clients integrate AI models into their systems. He explained, "Value will come from combining the world of models, agents with traditional transaction systems.”
+
+Keep in mind that Indian IT companies have been helping modernise and maintain software systems for clients for decades. This could be particularly useful as Nilekani pointed out that AI deployment gap remains a real issue for large clients. The Infosys chariman added, "The AI deployment gap in large enterprise clients is real, and closing that gap is where the work is.”
+
+AI deployment refers to the integration of AI models into pre-existing systems of a company. And a gap here means that a client may need to hire a company like Infosys to complete the integration.
+
+### Infosys to focus on billion dollar AI-first services
+
+According to Nandan Nilekani, "More than three years after GenAI was launched, Infosys is more relevant than ever before and well positioned for the decade ahead.”
+
+He added that AI-first services is a massive market that can help Infosys grow. Nilekani said, "Infosys keen to tap into AI-first services opportunity of $300 to $400 billion by 2030." He said Infosys was already positioned to benefit from that shift and was working with 90 per cent of its top 200 clients on their AI journeys
+
+Earlier this year, OpenAI and Anthropic began their own AI service companies. India Today Tech previously reported that this could be good news for Indian IT firms as it potentially validates the need for service tools even as AI goes mainstream.
+
+Infosys CEO Salil Parekh also said AI-led technology modernisation was emerging as one of the company’s biggest growth areas. "Modernisation of technology using agents is one of the largest areas today," Parekh said.
+
+Parekh added, "All big frontier AI and compute companies are working with Infosys closely. The Infosys CEO claimed that the company was already seeing rapid growth in AI services. He noted, "We already see about annualised $1 billion of AI services revenue, growing at a very good pace."
+
+\- Ends
+
+Armaan Agarwal
+
+Jun 24, 2026 09:21 IST
+
+---
+
+### London court orders Nirav Modi to pay Bank of India Rs 100 crore
+*SECTIONS London court orders Nirav Modi · business*
+
+A London High Court judge on Tuesday ruled in favour of Bank of India in a civil recovery case against fugitive diamantaire Nirav Modi, holding him liable to pay the public sector lender over $10.7 million, or a little over Rs 100 crore, according to Naomi Canton’s TOI report.
+
+Judge Simon Tinkler, delivering judgment in the London Circuit Commercial Court, said Modi was liable under a personal guarantee he had signed for a loan extended to one of his companies. "Mr Modi is liable under the personal guarantee to the bank for the principal amount due of $4.1 million. The interest calculated on the basis set out by the bank is to be added. Mr Modi has not provided any defence to explain why the bank was not entitled to that sum," Tinkler said.
+
+  
+
+Bank of India had in July 2012 extended a loan to Firestar Diamond FZE, a Dubai-based company belonging to Modi. Modi signed a personal guarantee for the loan on August 3, 2013.
+
+When reports of an alleged fraud on Punjab National Bank (PNB) involving Modi surfaced in early 2018, Bank of India moved to call in the loan. Demands sent to Firestar Diamond and Modi in March and April 2018 went unanswered.
+
+In an email dated February 17, 2018, Modi himself had written to the bank acknowledging the crisis. "A media frenzy has led to immediate search and seizure of operations, which has in turn resulted in Firestar International Pvt Ltd and Firestar Diamond International Pvt Ltd effectively ceasing to be going concerns. This has thereby jeopardised our ability to discharge the dues of the group to the banks," he wrote.
+
+The court had on March 8, 2024 already granted Bank of India summary judgment for the principal sum of $4.1 million plus interest. The bank subsequently served a further demand on Modi in October 2025.
+
+At trial, Modi had contested the case on three grounds — that the personal guarantee was unenforceable, that he had not received valid demands from the bank, and that no material adverse effect had occurred to justify terminating the loan. The court rejected all three arguments.
+
+On the question of whether Modi had received the bank's demands, Tinkler said he was satisfied that both the April 2018 and October 2025 demands had been delivered. The court noted that the October 2025 demand had also been sent to HMP Thameside prison in London, where Modi is currently lodged, and that Modi had himself provided a copy of the April 2018 demand to his solicitors in 2019.
+
+"From mid-February 2018, it was reasonable to infer that the borrower and every company in the Firestar Group was likely to be materially and negatively affected" by the alleged PNB fraud, the judge said, adding that "the value of the guarantees provided by Mr Modi was very likely substantially impaired."
+
+Nirav Modi, 49, has been in UK custody since his arrest in London in March 2019 in connection with the PNB fraud case. He is accused of using unauthorised Letters of Undertaking to obtain credit from overseas branches of Indian banks. The UK High Court dismissed his appeal to reopen extradition proceedings in March 2026, clearing the path for his return to India. Tuesday's ruling is a separate civil proceeding brought by Bank of India to recover dues under the personal guarantee.
+
+---
+
+### International boxing championship held in Shimla to mark Virbhadra Singh's 93rd birth anniversary
+*ET Online · business*
+
+International boxing championship held in Shimla to mark Virbhadra Singh's 93rd birth anniversary
+
+[Read full article](https://economictimes.indiatimes.com/news/videos/international-boxing-championship-held-in-shimla-to-mark-virbhadra-singhs-93rd-birth-anniversary/videoshow/131954258.cms)
+
+---
+
+### Waterways Leisure Tourism IPO Day 2: GMP signals flat debut - Should you apply?
+*Ritesh Presswala · finance, ipo*
+
+The initial public offering (IPO) of Waterways Leisure Tourism, the operator of the Cordelia Cruises brand, entered its second day of bidding with investor enthusiasm remaining muted. Grey market sentiment has also been subdued, with the IPO's grey market premium (GMP) hovering around 1%, indicating expectations of a largely flat listing.
+
+On the first day, the issue garnered only 19% overall subscription against the 41.84 lakh shares available, reflecting cautious investor participation. While the retail investor portion attracted relatively stronger interest and was nearly fully subscribed at 99%, demand from institutional investors remained weak.
+
+The Rs 585 crore IPO is entirely a fresh issue, with no offer-for-sale (OFS) component. The company has fixed the price band at Rs 769–808 per share, and investors can bid in lots of 18 shares and in multiples thereafter. The issue closes on June 25, while the shares are expected to debut on the BSE and NSE on July 1.
+
+The proceeds from the offering will primarily be used to meet lease-
+
+##   
+Waterways Leisure Tourism IPO GMP today
+
+The grey market premium (GMP) for the Waterways Leisure Tourism IPO stands at Rs 6 per share, representing a premium of around 1% over the upper price band of Rs 808. Based on the current GMP, the IPO's estimated listing price is around Rs 814 per share.
+
+Note: GMP is an unofficial market indicator based on trading in the grey market and should not be considered a reliable predictor of listing performance. Grey market activity is unregulated and can change rapidly ahead of listing.
+
+## **Waterways Leisure Tourism IPO Subscription Snapshot**
+
+As of the close of Day 1, the IPO had received bids for 19% of the 41.84 lakh shares on offer.
+
+Retail Individual Investors (RIIs): 99% subscribed against the 7.60 lakh shares reserved.
+
+Non-Institutional Investors (NIIs): just 4% subscribed against the 11.41 lakh shares allocated.
+
+Qualified Institutional Buyers (QIBs): no bids received yet for the 22.82 lakh shares reserved.
+
+With subscription levels still modest and grey market signals pointing to limited listing gains, investors may want to closely evaluate the company's long-term growth prospects before making a decision.
+
+## **India's largest cruise operator**
+
+Waterways Leisure Tourism is India's leading domestic ocean cruise operator and owns the Cordelia Cruises brand. The company currently operates MV Empress, a cruise vessel with a capacity of over 2,000 passengers, offering domestic itineraries covering Mumbai, Goa, Kochi, Chennai, Lakshadweep, Visakhapatnam and Puducherry, along with select international routes to Sri Lanka, Thailand, Singapore and Malaysia.
+
+According to its RHP, the company accounted for nearly 79% of India's domestic ocean cruise market by value in FY25. It has served more than 7.3 lakh passengers since commencing operations and plans to expand its fleet by inducting Norwegian Sky in FY27 and Norwegian Sun in FY28 under long-term lease arrangements.
+
+## Financials
+
+For FY26, the company reported revenue from operations of Rs 579.7 crore and net profit of Rs 52.1 crore. Net worth improved to Rs 80.2 crore from Rs 32.8 crore a year earlier.
+
+## Should you subscribe?
+
+Brokerage Swastika Investmart has assigned a "Neutral" rating to the IPO. It said the company enjoys a dominant position in India's nascent cruise tourism industry and stands to benefit from rising demand for experiential travel and the government's Cruise Bharat Mission.
+
+However, the brokerage also highlighted key risks, including the company's dependence on a single cruise vessel, the capital-intensive nature of the business and execution risks associated with fleet expansion.
+
+JM Financial, in its IPO note, said the company is well placed to benefit from the expected growth in India's cruise tourism industry through its planned asset-light fleet expansion and increasing passenger capacity.
+
+With the grey market premium remaining at just 1%, the issue is not indicating strong listing gains at present. Investors with a long-term view may consider the company's leadership position and expansion plans, while those looking primarily for listing gains may prefer to watch subscription trends before taking a call.
+
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)
+
+---
+
+### ‘A photograph can become a memory, a song can become an emotion’: Anupam Kher shares what he loves about social media
+*Unknown · business*
+
+The social media debate is an endless discussion. While some believe that the platform can have a negative impact on mental health, relationships, and societal connections, others view it as a powerful tool for self-expression and community building. But at its core, what matters is how we as people decide to use it. Veteran actor Anupam Kher also shares a similar thought. The 71-year-old, who often makes our day with his delightful social media entries, has now weighed in on the matter in his latest X-post.
+
+## Anupam Kher on the humane side of social media  
+
+Anupam Kher, in his thought-provoking write-up, acknowledged that social media, like every aspect of life, comes with its own set of drawbacks and challenges. However, he said he has also witnessed its more beautiful side over the years.
+
+According to the film veteran, the power of social media lies in how a photograph can turn into a cherished memory, a song can evoke deep emotions, and even a simple thought can travel across continents to connect with someone one has never met. He added that even a simple post can sometimes spark a conversation, while a conversation can eventually grow into a meaningful relationship.
+
+## Anupam Kher on why social media is ‘magic’  
+
+Sharing his personal perspective, Anupam Kher noted that social media is much more than a platform for sharing updates. For him, it is a medium of storytelling. It allows him to blend words, pictures, music, memories and emotions into a single creative expression. Kher further noted that when used with positivity, kindness and imagination, social media can serve as a powerful canvas for creativity and genuine human connection.
+
+In conclusion, Anupam Kher pointed out that the platform itself is not the issue. The real difference lies in how people choose to use it and what they decide to share on the medium. The actor also admitted that even after all these years, he still feels excited when a picture, a thought and a song come together to tell a story. For him, that remains the true magic of social media.
+
+  
+
+## Anupam Kher’s latest project  
+
+Workwise, Anupam Kher was last seen in Tanvi the Great. The film, directed by the actor himself, centres around the inspiring journey of Tanvi Raina, played by debutant Shubhangi Dutt, a 21-year-old woman on the autism spectrum. Driven by the memory of her deceased father, an Indian Army captain whose dream was to salute the national flag at the Siachen Glacier, Tanvi becomes fiercely determined to join the armed forces and fulfill his wish herself. Pallavi Joshi, Boman Irani, and Arvind Swami are also a part of the cast.
+
+---
+
+### No IIT, No MIT: After facing financial crisis during COVID-19, a 19-year-old is now earning Rs 1 crore by selling courses
+*Trending Desk · business*
+
+Success in the technology industry is often linked to degrees from elite institutions, but 19-year-old Ayush Singh has taken a different path. According to a post shared by Topmate, the young entrepreneur is now earning around Rs 1 crore a month through his AI-focused venture, which he built after self-learning during the COVID-19 pandemic.
+
+Details of the story were shared by entrepreneur Dinesh Singh, co-founder and CTO at Topmate.
+
+The young entrepreneur he referred to is Ayush Singh.
+
+  
+
+"He's not an IITian, not an MIT grad, and wasn't born with a silver spoon. At 13, during COVID, his family hit a financial crisis. All he had was outdated courses, a patchy internet, a laptop, and a ridiculous amount of curiosity," the entrepreneur wrote as he shared Ayush's journey. "So, he taught himself machine learning the hard way."
+
+Dinesh further said that within months, Ayush was working with startups abroad, and by the age of 14, the Massachusetts Institute of Technology (MIT) had publicly recommended his course.
+
+In the early phase, his projects did not generate significant income. According to the founder, the turning point was not additional technical expertise, but learning how to package and sell his skills. Ayush now runs premium AI cohorts on the Topmate platform.
+
+  
+
+## Check post here:  
+
+## Read full post here:  
+
+_A 19-year-old is earning ₹1 crore a month on Topmate.  
+That's Ayush Singh._
+
+_He’s not an IITian, not an MIT grad, and wasn’t born with a silver spoon.  
+At 13, during COVID, his family hit a financial crisis. All he had was outdated courses, a patchy internet, a laptop, and a ridiculous amount of curiosity.  
+So, he taught himself machine learning the hard way._
+
+_\- Within months, he was working with startups abroad.  
+\- At 14, MIT recommended his course publicly._
+
+_He went on to write NLP systems for a US startup, worked as an MLOps engineer and a data scientist, founded Antern, and co-founded Second Brain Labs._
+
+_By every measure, Ayush had made it._
+
+_Today, he's teaching AI to hundreds of engineers across India, helping them land the kind of work that once felt out of reach._
+
+_And yet, for all of it, the teaching was never paying him back._
+
+_What was missing was packaging, positioning, and a system to sell it. That is the part Topmate helped build._
+
+_Now, he earns around ₹1 crore per month from Topmate through premium cohorts._
+
+_I see this so often in the creator economy that it’s a pattern I can’t ignore.  
+Just like Ayush, most creators are sitting on something people would gladly pay to learn, and almost none of them earn a rupee from it._
+
+
+---
+
 ## 23 June 2026
 
 ### Manipur CM reduces summer vacation to one week due to law and order, discusses NEP 2020 reforms
