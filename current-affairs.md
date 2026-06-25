@@ -1,3 +1,521 @@
+## 25 June 2026
+
+### US President Donald Trump's showdown with Republican Senator Bill Cassidy: Inside the blow-up on Capitol Hill
+*Unknown · world*
+
+"Would you really like to know?" Sen. Bill Cassidy asked President Donald Trump.
+
+Just hours after refusing to sign a bipartisan housing bill that Republicans hoped would boost their election-year prospects, the president was attending a private lunch Wednesday with the Senate GOP. Trump wondered aloud how anyone could have voted for a war powers resolution a day earlier that seeks to block further U.S. military action against Iran.
+
+Cassidy, one of the four Republicans who backed the measure, was ready with an answer.
+
+  
+
+"I stood and said, 'You have not told the American people what's going on,'" Cassidy, a Louisiana Republican, recounted to reporters afterward. "This is supposed to last four weeks. It's lasted four months. Our original objectives have not been achieved."
+
+Things deteriorated from there.
+
+When Cassidy told Trump he would continue voting for war powers resolutions until there's a congressional briefing on developments in Iran, the senator recalled that Trump "did not particularly care for my comments" and "raised his voice."
+
+Trump repeatedly told Cassidy to sit down, according to a person familiar with the situation who spoke on condition of anonymity to describe a private meeting. At one point, the president called the senator a "lunatic," the person said.
+
+Cassidy acknowledged losing his temper, which he said was "not appropriate."
+
+"But I again matched his tone and volume," Cassidy said, before recalling that he eventually sat down. "And so I sat down and tried to de-escalate. I guess my point is, though, that the American people need to know more than we're being told."
+
+A remarkable exchange between a GOP senator and Trump
+
+The back-and-forth was a remarkable exchange between a two-term Republican senator and a president from his own party. It's a departure from the posture many congressional Republicans have adopted during Trump's second term as they mostly avoid criticizing him in public while expressing frustration in private.
+
+But the comments reflected the growing unease among congressional Republicans about the durability of their thin majorities on Capitol Hill in this year's elections, particularly in the turmoil of the Iran war. And it reflected the long-festering enmity between Trump and Cassidy that came to a head this year.
+
+Trump effectively ended Cassidy's political career by backing a Republican rival in Louisiana's Republican primary. Cassidy last month became the first incumbent senator in 14 years to lose a primary, driven largely by his vote to convict Trump in the impeachment trial for his role in the Jan. 6, 2021, attack on the U.S. Capitol.
+
+Cassidy said Trump brought up his election defeat as they argued. He described the president's comments as part of "whatever comes to mind as to demean another person."
+
+Before his losing the primary, Cassidy spent much of his time trying to make amends, largely supporting the president's policies and nominees. He has taken a tougher stance since losing his primary, freed from having to face Republican voters who remain loyal to Trump.
+
+"It does not appear, although I don't know for sure, that the course of (the Iran war) is going the way that we were told," Cassidy said. "And so I make no apologies for standing up to the president, if you will, trying to demand that more information be shared with the Senate, and more information be shared with the American people."
+
+Republicans try to play down the episode
+
+Cassidy's colleagues didn't offer robust support, with Trump in the room, though Cassidy said they didn't have much of a chance.
+
+"The president just kind of talked and talked and talked and talked and talked," Cassidy said.
+
+The White House didn't respond to a request for comment on Cassidy's characterization of the meeting and some Republicans tried to play down the clash.
+
+"Y'all act like no one ever yelled at each other," Sen. Roger Marshall, R-Kansas, told reporters.
+
+Sen. Tommy Tuberville, an Alabama Republican and former college football coach, described the encounter as "halftime talk" in the aftermath of the senator's defeat.
+
+"Probably needed to be said, end of the day," he said. "I think they got a lot of - both of them - got a lot off their chests."
+
+Others noted dryly that the meeting had been advertised as a chance for Trump and the Republicans to get on the same page.
+
+"That was quite a unity message," said Sen. John Cornyn, the Texas Republican who lost his primary to a Trump-backed challenger just weeks after Cassidy.
+
+Asked if he was being sarcastic, Cornyn stepped into an elevator and let the doors close.
+
+---
+
+### 'Treated Unfairly': New Book Reveals Trump Insisted India Charged 175% Tariffs, Rejected US Data
+*Apoorva Misra · general*
+
+The book suggests that Trump's tariff strategy was often driven less by technical trade statistics and more by his belief that US was being treated unfairly by trading partners
+
+[Read full article](https://www.news18.com/india/treated-unfairly-new-book-reveals-trump-insisted-india-charged-175-tariffs-rejected-us-data-ws-l-10172036.html)
+
+---
+
+### An Ajmer legend whistles past 150
+*Shoeb Khan · general*
+
+Some of the sounds of Ajmer are age-old. Like the cry of the azaan at the dargah of Khwaja Moinuddin Chishti. Or the bells of Mayo College, ringing through corridors trod by the sons of the well-known and well-heeled.
+
+A third, perhaps less perceptible now, is provided by the sirens at Ajmer Railway Workshop, which quietly chugs into its 150th year in Aug, mostly without remark but still bearing a precious part of the city’s identity.If the dargah brings seekers of the 13th century Sufi mystic’s grace from near and far — as it drew Mughal Emperor Akbar over four centuries back — and the school imparts an aristocratic gloss to the city, it is the railway workshop that gave Ajmer a remarkably cosmopolitan character, still very much evident even if not as palpable as it once was.
+
+### Melting Pot
+
+Set up in 1876 — a year after the opening of Mayo Colege — under the Rajputana-Malwa Railway, what began as a modest repair facility grew into a key pillar of Indian Railways. It was also the third-oldest railway workshop in undivided India.But its story runs beyond machines and tracks. British and Jewish engineers, Parsi technicians, and workers from present-day UP, Gujarat, Kerala and Maharashtra didn’t just work here — they settled, built homes, and formed communities.
+
+Over time, their presence gave Ajmer a distinctly cosmopolitan character, still visible in colonial bungalows, old railway institutes, churches, the Jewish cemetery near Ana Sagar, Parsi fire temples, and markets shaped by trading families like the Agarwals.Some railway colonies still carry fading Bombay, Baroda and Central India Railway (BB&CI) markings on their walls. In older neighbourhoods near the workshop, rusted iron gates, century-old rainwater pipes and sloping tiled roofs survive amid newer construction.
+
+In many ways, the workshop became the centre around which modern Ajmer grew.The workshop’s arc also mirrors national history: from building India’s first indigenously made steam locomotive in 1895 to becoming a munitions hub during WW-I. During the war years, it produced artillery like 12-pounder guns and thousands of howitzer shells, and built fully equipped armoured trains fitted with machine guns and communication systems for deployment in war zones such as Mesopotamia.But the workshop’s most enduring impact may be social. As the railway network drew people from across India and abroad, Ajmer became one of Rajasthan’s earliest cosmopolitan cities.
+
+### Enduring Signs
+
+British and Anglo-Indian communities established clubs, churches and residential colonies that shaped Ajmer’s colonial character. The Railway Institute became a major social centre with ballrooms, and sports and cultural events.The workshop also reshaped Ajmer’s urban landscape: planned colonies, churches, officers’ bungalows and institutional campuses grew around the railway zone, leaving a colonial imprint that still survives in parts of the city.
+
+Ajmer railway workshop
+
+Bengalis arrived largely as teachers, clerks and railway officials. Institutions like Mayo College attracted Bengali educators who contributed to literature, theatre and music in the city.
+
+Gujarati traders expanded businesses in textiles, grain trade and transport, while Agarwal businessmen became deeply linked with Ajmer’s commercial economy.Prashant Patel, a fourth-generation Gujarati tobacco businessman, recalled stories of his great-grandfather, who moved from Gujarat to Ajmer for business after the railways arrived. “Ajmer embraced us like its own. Not only have we preserved our cultural practices, but Gujarati continues to be widely spoken in Ajmer’s trading communities,” said Patel.Sister Pearl, principal of Sophia College, said the railways also helped seed institutions such as Mayo College, Sophia College, St. Anselm’s School and several convent schools, laying the foundation for the city’s educational culture. “Even the railways opened a school for British children and others. The attendance sheets are still preserved, and many people who spent their childhood here continue to visit the place,” she said.Parsis played an important role in the workshop’s technical development, arriving as engineers, technicians and supervisors. Their mechanical expertise made them indispensable in the early decades of railway expansion. Hosi Dorabshah, 78, living in Mount Abu, represents the fourth generation of his family to serve in railways. “My great-grandfather came to Ajmer from Gujarat and served in the railways. I also retired as a guard,” he said.Calling himself part of the “last generation” of Parsis in railway service, Dorabshah said there are now around 28 Parsis living in Mount Abu and about 15 in Ajmer — among the last remaining members of the community in the state. “My children have discontinued the tradition of joining the railways, and I expect that the younger generation will eventually move to Mumbai or Gujarat,” said Dorabshah.Many old Parsi and AngloIndian homes now stand locked or have been sold as younger generations migrate to Mumbai, Pune and abroad.
+
+Some railway quarters that once housed large Parsi families are now occupied by elderly couples or caretakers.Ajmer’s small Jewish community also arrived in the railway era. Nearly 300-400 Jews once lived in the city, many linked to railways. Today, the Jewish cemetery near Ana Sagar remains among the few visible traces of Rajasthan’s Jewish heritage.The workshop has continued evolving with railway technology. From nearly 15,000 at its early-20th-century peak, the workforce now stands at around 4,500 due to modernisation, and restructuring. Today, it maintains modern coaches and locomotive stock, freight wagons and premium trains, including Palace on Wheels and Vande Bharat.
+
+---
+
+### Air India plane takes wrong turn, comes face to face with IndiGo flight in Gujarat
+*Brijesh Doshi · general*
+
+## An Air India aircraft and an IndiGo flight were stopped on the same taxiway at Ahmedabad airport after the Air India jet took an unintended turn. Quick intervention by air traffic control prevented an accident, and the incident is now under investigation.
+
+Air India has informed aviation regulators about the incident, and an investigation has been initiated. (AI-generated image)
+
+A potential runway accident was narrowly averted at the Sardar Vallabhbhai Patel International Airport in Ahmedabad on Wednesday evening after an Air India aircraft and an IndiGo flight came face to face on the same taxiway, officials said.
+
+The incident took place around 6.30 pm when an Air India flight, which had arrived from Mumbai, made an incorrect turn while taxiing toward its parking bay and entered an active taxiway.
+
+At the same time, an IndiGo flight bound for Mumbai was moving on the same taxiway in preparation for take-off. The two aircraft were brought to a halt with roughly 200 metres between them after air traffic control intervened and issued immediate instructions to both pilots.
+
+According to sources, the prompt response from ATC and strict adherence by the pilots ensured that the situation did not escalate. No injuries or damage were reported.
+
+The Air India aircraft was later towed to its designated parking bay, after which normal taxiing and departure operations resumed for the IndiGo flight.
+
+In a statement, Air India said flight AI-2493, which landed from Mumbai on June 24, took an unintended turn during taxiing after landing. The airline added that there was no compromise on passenger or crew safety and confirmed that the aircraft was moved to its correct bay with ground assistance.
+
+IndiGo said its flight 6E-5160 was taxiing for departure to Mumbai when another aircraft entered its path, prompting both aircraft to be stopped as a precaution. The airline confirmed that its flight later departed safely and landed at Chhatrapati Shivaji Maharaj International Airport in Mumbai.
+
+Air India has informed aviation regulators about the incident, and an investigation has been initiated.
+
+Both aircraft involved were Airbus A320-family narrow-body jets, typically configured to carry around 150 to 180 passengers. The number of passengers onboard at the time was not disclosed.
+
+\- Ends
+
+Sahil Sinha
+
+Jun 25, 2026 09:46 IST
+
+---
+
+### Market Updates: Sensex Climbs Over 450 Points, Nifty Tops 24,150 On Global Cues, Lower Crude; Auto, Realty Lead
+*Mohammad Haris · business*
+
+As of 9:28 am, the BSE Sensex trades 454.62 points, or 0.61%, higher at 77,443.70, while the Nifty gains 134 points, or 0.53%, to 24,153.56.
+
+[Read full article](https://www.news18.com/business/markets/stock-market-today-sensex-nifty-live-updates-auto-realty-stocks-reliance-hdfc-bajaj-infosys-tcs-ws-l-10171996.html)
+
+---
+
+### Kota News: Inside The Religious Conversion Plan To 'Trap, Blackmail, Convert' Hindu Women
+*Nitya Thirumalai · general*
+
+Kota news: Allegations that Hindu women were targeted online for religious conversion has triggered a major controversy. Here's what the FIR alleges and what police say
+
+[Read full article](https://www.news18.com/cities/jaipur/kota-news-religious-conversion-racket-blackmail-love-jihad-targeting-hindu-women-ws-l-10171813.html)
+
+---
+
+### Japan earthquake jolts Iwate coast, no tsunami risk or major damage
+*India Today World Desk · general*
+
+## A strong earthquake struck off Iwate during Japan's morning rush hour, shaking the north-east and Tokyo. Officials reported no tsunami risk or major damage, but warned residents about possible aftershocks.
+
+A powerful earthquake struck off Japan's northern coast on Thursday morning, but the country's meteorological agency said there was no tsunami risk. The quake, which hit during the morning rush hour, shook parts of the north-eastern region and was also felt mildly in Tokyo.
+
+The Japan Meteorological Agency said the earthquake had a magnitude of 7.2, upgraded from an initial reading of 6.9, and struck off the eastern coast of Iwate at a depth of about 50 kilometres. The US Geological Survey also put the magnitude at 6.9. There were no immediate reports of injuries or damage.
+
+The shaking occurred in an area where strong earthquakes have been repeatedly reported in recent months, including one in December that led to a weeklong mega-quake caution advisory.
+
+Top government spokesperson Minoru Kihara said there were no immediate reports of injuries or damage. He also said nuclear power plants and facilities, including the Fukushima Daiichi plant damaged in the 2011 earthquake and tsunami, and a spent fuel reprocessing plant in Aomori, had not reported any abnormalities after Thursday's quake.
+
+Prime Minister Sanae Takaichi told reporters in Tokyo that her government's emergency team is "putting people's lives first" while assessing information and preparing for relief operations, if needed. She urged residents in the affected areas to remain alert for possible aftershocks.
+
+Tomoko Nagane, a primary school principal in the town of Hashikami in Aomori prefecture, told NHK that she was driving when the quake alert sounded and felt moderate sideways shaking. She said children who had already reached the school were safe, though some were crying in fear. Classes were cancelled for the day and all the children returned home safely, she said.
+
+NHK footage quoted journalists in several hard-hit towns, including Sendai and Morioka, as saying they felt the shaking for a couple of minutes but had not seen any damage. The footage showed people commuting as usual.
+
+East Japan Railway Co said some bullet trains and other local rail lines in the north-eastern region were suspended for safety checks. Japan, one of the world's most earthquake-prone countries, saw strong shaking off its northern coast on Thursday, but authorities said there was no tsunami danger and no immediate sign of major damage.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Jun 25, 2026 09:42 IST
+
+---
+
+### iPhone 17 Pro Max now available at its lowest price with new offers: Details inside
+*INDIATODAY · general*
+
+There has been a significant price cut on the iPhone 17 Pro Max. It is now available at a much lower price.
+
+You can purchase the iPhone 17 Pro Max for thousands of rupees less. This premium iPhone from Apple was launched last September.
+
+Apple originally launched the device at a starting price of Rs 1,49,900. Attractive offers on the iPhone 17 Pro Max are currently available on Flipkart.
+
+Flipkart is currently offering the iPhone 17 Pro Max for Rs 1,42,900. Buyers can also avail of a Rs 6,000 discount using SBI, ICICI Bank, or Axis Bank credit cards.
+
+These offers bring the effective price of the iPhone 17 Pro Max down to Rs 1,36,900, allowing buyers to save up to Rs 13,000.
+
+Apple has introduced several design changes to the device, including a larger rear camera module and new colour options.
+
+The phone is powered by Apple's A19 Pro chipset. It handles multitasking smoothly and can run demanding games for extended periods without significant issues.
+
+On the front, it features a 6.9-inch OLED display with ProMotion support and a 120Hz refresh rate. The screen remains bright even outdoors and offers an excellent viewing experience for videos.
+
+The iPhone 17 Pro Max sports a triple-camera setup on the rear, consisting of a 48MP primary camera, a 48MP ultra-wide camera, and a 48MP telephoto camera.
+
+For selfies and video calls, it features an upgraded front camera with support for Center Stage. Battery life is another standout feature of the device.
+
+---
+
+### 'Emergency was direct assault on our Constitution': PM Modi, BJP leaders mark 'Samvidhan Hatya Diwas'
+*TOI News Desk · general*
+
+PM Modi and prominent BJP leaders observe 'Samvidhaan Hatya Diwas' (Constitution Murder Day)
+
+NEW DELHI: Prime Minister Narendra Modi on Thursday led the nation in observing 'Samvidhaan Hatya Diwas' (Constitution Murder Day) to mark the 51st anniversary of the Emergency, paying homage to those who defended democratic values during what he called "one of the darkest chapters in India's history.
+
+"In a statement, PM Modi said the Emergency was a "direct assault on our Constitution" that witnessed the suspension of civil liberties, curbs on freedom of expression, arrests of political leaders and journalists, and an assault on democratic institutions.
+
+"At the same time, it also revealed the extraordinary courage of countless citizens who refused to remain silent and upheld the ideals enshrined in our Constitution," PM Modi said."For all of us, our Constitution is an embodiment of the aspirations, rights and duties of 140 crore Indians. We reaffirm our collective commitment to safeguarding constitutional values. Guided by the spirit of our Constitution, we will build an India that remains ever committed to justice, liberty, equality and fraternity," he added.The Prime Minister said the day reminds us of the dark era when democracy was "brutally crushed" and inspires us to always remain committed to protecting democracy, the Constitution and citizens' rights.
+
+"My respectful salutations to all the luminaries who opposed the Emergency," he said.
+
+### Rajnath Singh: 'Darkest chapter'
+
+Defence Minister Rajnath Singh termed the Emergency as the "darkest chapter" in India's democratic history. He said the Emergency saw the suspension of fundamental rights, the crushing of press freedom, and the arrest of thousands of political workers, activists and journalists without reason.
+
+Singh said the Emergency, imposed on June 25, 1975, saw the suspension of fundamental rights, the crushing of press freedom, and the arrest of thousands of political workers, activists and journalists without reason.
+
+He paid tribute to those who resisted authoritarian rule and fought to restore democracy."Today, on 'Constitution Murder Day,' I pay tribute to all those democracy warriors who endured torture and dedicated themselves to the restoration of democracy. Their sacrifice continues to inspire us," Singh said in a statement.
+
+### Yogi Adityanath leads tributes
+
+As part of the nationwide observance, the BJP organised programmes across Bihar, Haryana and other states to highlight what it described as the impact of the Emergency on democratic institutions and civil liberties .Uttar Pradesh Chief Minister Yogi Adityanath, in a post on X, called June 25, 1975, a "dark chapter" when an attempt was made to crush the constitutional spirit of the country. "The darkness of the Emergency, imposed by the Congress Party in its arrogance of power, deeply hurt freedom of speech and civil liberties. My heartfelt tribute to all those great democratic fighters who endured severe torture during that difficult period and fought to protect democracy," Adityanath said.
+
+The Ministry of Home Affairs had issued a notification on July 12, 2024, declaring June 25 as 'Samvidhaan Hatya Diwas' to commemorate the struggles of those who opposed the abuse of power during the Emergency era.The government has been observing the day since 2025, marking the 50th anniversary of the Emergency, with events at Raj Bhavans and other institutions to reaffirm the nation's commitment to constitutional values.
+
+---
+
+### At White House, NATO'S Rutte tries to ease tensions with Trump over Iran
+*SECTIONS · general*
+
+Washington: NATO Secretary-General Mark Rutte sought to calm tensions with President Donald Trump at the White House on Wednesday, using a mix of flattery and gentle pushback to argue that examples of allies' reluctance to support the U.S. war with Iran were "isolated cases."
+
+The NATO chief is visiting Washington to try to ease strains over the Iran war and U.S. ‌threats to draw ⁠down troops ⁠in Europe ahead of a pivotal NATO leaders' summit in July in Ankara.
+
+  
+
+Trump, a longtime NATO critic ​who has called the alliance a "paper tiger," has been angered by its reluctance to support the ​U.S. in the Middle East conflict or help reopen the Strait of Hormuz after a U.S.-Israeli attack on Iran on February 28 disrupted the major oil shipping route.
+
+During ​the Oval Office meeting, Rutte used cardboard charts to ⁠show how ‌much NATO countries have stepped up their defense spending since ​Trump first came ​into office in 2017.
+
+He also said thousands of U.S. military planes ⁠had operated from bases in Europe during the war, ​pointing to that cooperation as a sign of the allies' support.
+
+"I ​know there have been isolated cases about which you are really disappointed, but generally speaking your European allies have been there," Rutte said.
+
+Trump appeared largely unconvinced, though he praised Rutte's efforts.
+
+"You really have done a good job, and I think if anybody else were in that position, we wouldn't even be meeting today, to be ‌honest with you, because we were let down. We didn't need help on this at all," Trump said.
+
+One of Rutte's primary roles since ​Trump's second ​election victory in November ⁠2024 has been managing the president's hostility toward the alliance and preventing tense moments, including Trump's push to acquire Greenland, from spiraling into lasting crises.
+
+Tensions between Washington and NATO ​have escalated in recent months. After NATO allies refused to back Trump's Iran campaign, which he began without prior consultation, Trump openly questioned whether the U.S. should stand by NATO's mutual defense pact and said he was considering leaving the alliance.
+
+---
+
+### 'One Of Darkest Chapters In India's History': PM Modi On 51st Anniversary Of 1975 Emergency
+*Meemansa Shekhawat · general*
+
+An emergency was imposed on June 25, 1975, by the then-PM Indira Gandhi. It lasted until March 21, 1977, a period widely regarded as one of the darkest phases in India’s history
+
+[Read full article](https://www.news18.com/india/one-of-darkest-chapters-in-indias-history-pm-modi-on-51st-anniversary-of-1975-emergency-ws-l-10172019.html)
+
+---
+
+### France detects first Ebola case outside Africa in current outbreak
+*SECTIONS France detects first Ebola case outside Africa · business*
+
+Paris: France on Wednesday announced its first confirmed case of Ebola identified on its territory, a doctor back from the Democratic Republic of Congo, which is fighting a major outbreak.
+
+The case is the first of the deadly haemorrhagic fever identified outside the African continent during the current outbreak, which has also affected Uganda.
+
+It's also the first time Ebola has been detected in France.
+
+  
+
+In 2014, during a major outbreak in West Africa, two patients were transported to France, but they had been diagnosed abroad.
+
+The health ministry "confirms today the identification of a first positive case of Ebola virus disease on national territory", said a statement.
+
+Contacted by AFP, the ministry specified that the case had been identified in mainland France.
+
+The doctor was isolated on arrival in France, even before the disease was officially identified, the ministry added.
+
+Prime Minister Sebastien Lecornu is monitoring the situation "very closely", his office said.
+
+The DRC's 17th Ebola outbreak was declared on May 15 after several unexplained deaths in the mineral-rich but volatile eastern Ituri province.
+
+The Bundibugyo strain of the virus that has caused the outbreak currently has no approved vaccine or treatment.
+
+Public health experts estimate that the risk of the outbreak spreading worldwide remains low, due to the relatively low contagiousness of the Ebola virus.
+
+---
+
+### Shillong Teer Results Today Live, June 25, 2026: Winning Numbers For All Teer Games
+*Nibandh Vinod · general*
+
+Shillong Teer Result Today: Here's full list of winning numbers for Shillong Teer, Juwai Teer, Khanapara Teer, and more for June 25, 2026.
+
+[Read full article](https://www.news18.com/india/shillong-teer-result-today-june-25-2026-first-and-second-round-lottery-result-check-winning-numbers-full-list-10170973.html)
+
+---
+
+### Venezuela Earthquake: 'Devastating no. of deaths, early reports not good', Trump says US willing to help
+*Unknown · business*
+
+US President Donald Trump on Thursday said that twin earthquakes that hit Venezuela have hit the 'great people' of the country and have a 'devastating number of deaths'. He added that the United States is willing to help its 'new and great friends' as early reports are not good.
+
+"The two major earthquakes that just hit the great people of Venezuela are both massive in scale and have left a devastating number of deaths. The USA stands ready, willing, and able to help! I have instructed all agencies of our government to get ready to move quickly. We will be there for our new and great friends. Early reports are not good!!!" he said in a post on Truth Social.
+
+  
+
+Twin earthquakes in Venezuela jolted the capital Caracas causing buildings in the capital to crumble and forcing the closure of the country's main airport.
+
+The first quake, with an epicenter 21 kilometers (13 miles) west of the coastal town of Moron, occurred at 2204 GMT, the United States Geological Survey (USGS) said, estimating the death toll to range from 10,000 to 100,000.
+
+According to the USGS, the first earthquake of magnitude 7.2 struck near San Felipe, about 284km (176 miles) west of Caracas, at 22:04 GMT. It was followed almost immediately by a magnitude 7.5 quake near Yumare, about 293km (182 miles) west of the capital.
+
+## US mobilizing assistance after Venezuela earthquakes
+
+The United States authorities said it was in touch with Venezuelan government following strong ​earthquakes and was mobilizing assistance for the same.
+
+"We're in touch with the authorities and mobilizing assistance," Deputy Secretary of State ‌Christopher Landau ⁠said ⁠on X. He said the earthquakes were "devastating."
+
+Meanwhile, US ​State Department official Jeremy Lewin said ⁠that the department had mobilized a ​disaster assistance ​team and task force to deliver and ⁠coordinate critical assistance to Venezuelans.
+
+"Working with our ​partners in the interim Venezuelan government, the ​U.S. will be sending search and rescue teams, medical and humanitarian supplies and other resources in the crucial first days after this tragic natural disaster," he said in a post on X.
+
+The US embassy in Caracas reported that all American ‌personnel were accounted for.
+
+The ties between the Washington and Venezuela have warmed in recent months after ​US forces ​seized the country's ⁠then-President Nicolas Maduro in a deadly raid on the capital in January.
+
+Trump's administration has engaged with an ​interim government led by former Maduro ally Delcy Rodriguez, including on an agreement for the US to sell Venezuelan oil, and it has issued sanctions waivers to encourage American investment.
+
+---
+
+### Gold prices fall Rs 6,000/10 gram in two days; silver tanks Rs 15,500/kg on rate hike fears. Time to sell precious metals?
+*Veer Sharma · gold, commodity*
+
+Gold and silver prices extended their losses for a second straight session on the MCX on Thursday, pressured by a stronger U.S. dollar and mounting expectations that the Federal Reserve could raise interest rates this year.
+
+In the domestic market, MCX silver futures for July 2026 delivery were down Rs 15,526 in two days (7%) to Rs 2,10,308 per kg. Gold futures for August 2026 delivery declined by Rs 5,863 to Rs 1,40,666 per 10 grams. In the previous session, the two declined by up to 0.2%.
+
+According to the CME FedWatch Tool, traders are now expecting three rate hikes this year and see roughly a 67% probability of a hike in September. The U.S. dollar rose for a third consecutive session on Wednesday, touching a 13-month high and making gold more expensive for holders of other currencies.
+
+Gold, traditionally viewed as a hedge against inflation, tends to lose some of its appeal when interest rates rise because it does not offer any yield.
+
+In the international market, spot gold slipped 0.4% to $3,985.89 per ounce by 0043 GMT, after falling to its lowest level since November 2025 on Wednesday. U.S. gold futures for August delivery were down 0.2% at $4,001.60. Bullion dropped below the key $4,000-an-ounce mark on Wednesday for the first time since November 2025.
+
+Among other precious metals, spot silver eased 0.2% to $57.33 per ounce, platinum fell 0.2% to $1,575.85, while palladium edged up 0.3% to $1,170.25.
+
+## How should you trade gold?
+
+Manoj Kumar Jain of Prithvi Finmart said gold and silver prices are likely to remain volatile this week amid fluctuations in crude oil prices and the dollar index, as well as ahead of the release of U.S. GDP and Core PCE price index data.
+
+According to Jain, gold has support at $3,980-$3,920 per troy ounce and resistance at $4,040-$4,085, while silver has support at $55.50-$53.80 and resistance at $60.00-$61.40 per troy ounce in the current session.
+
+On MCX, gold has support at Rs 1,40,000-Rs 1,38,800 and resistance at Rs 1,42,400-Rs 1,43,350. Silver, meanwhile, has support at Rs 2,09,100-Rs 2,05,000 and resistance at Rs 2,16,600-Rs 2,21,000.
+
+Jain advised investors against bottom-fishing in precious metals at current levels but suggested exiting short positions as the market has entered an oversold zone.  
+
+## **Gold, Silver rates today, 25 June, across major cities**
+
+### **Gold price today in Delhi**
+
+Standard gold (22 carat) prices in Delhi stand at Rs 1,05,952 per 8 grams, while pure gold (24 carat) prices stand at Rs 1,15,576 per 8 grams.
+
+**Gold price today in Mumbai**  
+Standard gold (22 carat) prices in Mumbai stand at Rs 1,05,832 per 8 grams, while pure gold (24 carat) prices stand at Rs 1,15,456 per 8 grams.
+
+**Gold price today in Chennai**  
+Standard gold (22 carat) prices in Chennai stand at Rs 1,06,792 per 8 grams, while pure gold (24 carat) prices stand at Rs 1,16,504 per 8 grams.
+
+**Gold price today in Hyderabad**  
+Standard gold (22 carat) prices in Hyderabad stand at Rs 1,05,832 per 8 grams, while pure gold (24 carat) prices stand at Rs 1,15,456 per 8 grams.
+
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)
+
+---
+
+### Stock Market LIVE: Sensex gains 300 pts; Nifty tops 24,100; IT, realty stocks advance
+*Business Standard · business, entrepreneur, finance*
+
+Sensex Today | Stock Market LIVE Updates Thursday: In the broader markets, the Nifty MidCap and the SmallCap were trading 0.56 per cent and 0.36 per cent higher, respectively
+
+[Read full article](https://www.business-standard.com/markets/news/stock-market-live-june-25-nse-bse-sensex-today-nifty-gift-nifty-ipo-it-stocks-sell-off-126062500107_1.html)
+
+---
+
+### NCERT includes Emergency in Class 9 textbook for first time, 50 years after 1975 declaration
+*DNA Web Desk · general*
+
+An official at NCERT has confirmed that this is the first time that a section on Emergency has been added in the Class 9th textbook.
+
+NCERT includes Emergency in Class 9 textbook (Representative image)
+
+Nearly five decades after the Emergency was imposed in India, NCERT has, for the first time, introduced the topic in a Class 9 textbook, presenting it as "one of the major challenges," as the majority of fundamental rights were suspended.
+
+The reference appears in the newly developed Social Science textbook, Understanding Society: India and Beyond, where the Emergency has been included in a chapter examining the strengths and challenges of Indian democracy.
+
+An official at NCERT has confirmed that this is the first time that a section on Emergency has been added in the Class 9th textbook.
+
+The inclusion marks a significant addition to the school curriculum, coming as the country recently observed 50 years since the declaration of the Emergency in 1975."One of the major challenges to democracy in India was recorded when an Emergency was imposed in 1975-77. In the early 1970s, public dissatisfaction with the government led by Indira Gandhi was growing. Rising unemployment, inflation, and allegations of misgovernance led to widespread protests," the section reads.
+
+"In June 1975, a National Emergency was imposed by the government on the grounds of internal disturbance. During this period, a majority of Fundamental Rights were suspended, the press was censored, and numerous political leaders and activists were arrested. Democratic institutions came under severe strain, and citizens' freedom was restricted," it added.
+
+The book also highlighted the role of Jayaprakash Narayan in the movement against the Emergency."Mass movements led by Jayaprakash Narayan -a political leader and socialist thinker, popularly known as Lok Nayak-mobilised students and citizens, especially in Bihar and Gujarat. The Emergency was lifted in 1977, and general elections were held, allowing people to express their will through the ballot. The defeat of the ruling government demonstrated the strength of Indian democracy and highlighted the importance of Democracy," read the book.
+
+The Emergency section forms part of a broader discussion on challenges facing democratic systems. Alongside the Emergency, the textbook discusses issues such as fake news, misinformation, damaging public property, violation of public rules, poverty, regionalism, social discrimination and gender inequality as challenges to democratic practice.
+
+The chapter also introduces a new section titled "Democracy and You", which NCERT says has been added for the first time to help students connect classroom learning with their role as citizens and participants in democratic processes.
+
+Apart from the Emergency, the revised textbook places considerable emphasis on India's democratic traditions and institutions. It traces democratic practices in India to early historical periods and explores their relevance in contemporary governance.
+
+The book also contains a dedicated section on the role of media in a democracy, describing the media as the "fourth pillar of democracy" and highlighting its role in amplifying public concerns and safeguarding democratic values.
+
+To underline the scale of India's democratic system, the textbook includes facts and figures on voter participation, polling infrastructure and political representation. It notes that India had over 96.8 crore registered voters in 2024 and highlights the vast network of polling stations across the country.
+
+The chapter further uses case studies of grassroots democracy, including a panchayat in Gujarat and a women-friendly panchayat in Tripura, to demonstrate citizen participation in governance. A separate section has also been devoted to women's voting rights and reservations in local bodies.
+
+(Except for the headline, the story hasn't been edited but is directly published from ANI)
+
+---
+
+### Rupee Gains 30 Paise To 94.25 Against US Dollar In Opening Trade
+*Mohammad Haris · business*
+
+
+
+[Read full article](https://www.news18.com/business/economy/rupee-gains-30-paise-to-94-25-against-us-dollar-in-opening-trade-10171995.html)
+
+---
+
+### RBI wants to mandate AI kill switch for all banks, human oversight for all decisions
+*Armaan Agarwal · general*
+
+## The Reserve Bank of India is planning to bring new rules for banks and financial institutions that use AI. As per the latest draft guidelines, the RBI wants to mandate a kill-switch that would override or stop any AI model being used within a bank's systems.
+
+The Reserve Bank of India wants to bring new guidelines for how banks use AI.
+
+At a time when AI tools are becoming more popular, there lies a fear about how these tools are used and the potential risks that may come with it. This is particularly true for AI models being used in banks and other financial institutions that manage sensitive financial data and information. Now, the Reserve Bank of India is planning to issue new guidelines that will make it necessary for all banks to have a kill switch that could turn off any AI model being used in their system.
+
+On Wednesday, the RBI issued new draft guidelines that propose a wide-ranging framework for banks and other regulated entities using AI. If mandated, this would require them to have the ability to instantly override, suspend or deactivate any such system, including through a kill-switch arrangement. That is, a bank must be able to shut down any and all AI systems it uses, essentially with just a flip of a switch.
+
+The RBI said banks must establish override, suspension and deactivation mechanisms to ensure that no AI model operates without the ability to be immediately shut down if it produces harmful or erroneous outputs.
+
+This move comes at a time when Anthropic’s Claude Mythos AI model raised fears of cybersecurity, particularly for financial institutions.
+
+### Human oversight, AI risk tiering
+
+But that is not all. The draft guidelines also state that all AI-driven decision-making must remain subject to human oversight. That is, even when AI is supposed to be doing tasks, a human must be overseeing any decisions being made.
+
+The draft framework would apply to all models used by regulated entities, from simple spreadsheet-based calculators to complex frontier AI systems.
+
+The bank will also be held fully responsible for the outcomes of any model it uses, regardless of whether the model was built in-house or acquired from a third-party. RBI has asked banks to carry out proper due diligence before using such models.
+
+The Reserve Bank of India has proposed a risk-based tiering structure under which entities must classify models by risk level and apply proportionate oversight, validation and controls.
+
+If assessed risk exceeds a bank's risk appetite, the guidelines say, the organisation must take swift action, including enhanced controls, restrictions on use, remediation or decommissioning of the model, and submit a report to the board's risk management committee.
+
+The risk tier of a model must be reviewed at least once a year, and high-risk models must receive approval from the Risk Management Committee of the Board before deployment rather than being cleared only by the technology or risk team.
+
+### Model Risk Management Framework for all AI models
+
+For the first time, the RBI has placed AI and model governance squarely at the board level. Every regulated entity must have a board-approved Model Risk Management Framework covering all models, whether developed in-house, obtained from vendors or built through a combination of both.
+
+The RBI said, “Considering model usage has expanded significantly and regulated entities are increasingly using models, including those employing artificial intelligence / machine learning, across various business and decision-making processes; weaknesses in their governance, oversight, risk management and controls may expose the regulated entities to financial, operational, compliance, and reputational risks.”
+
+It added, “If not managed effectively, such risks may lead to inaccurate outcomes, flawed decisions, financial losses, operational disruptions, compliance failures and other adverse consequences for entities, consumers and the financial system.”
+
+The central bank also flagged supply chain risk arising from overdependence on a limited number of AI model providers and said banks must actively manage that risk. It further said banks should ensure that deploying AI models does not introduce vulnerabilities into the model.
+
+On customer-facing systems, the RBI said banks must disclose when a customer is interacting with an AI system and must provide the option to switch to a human at any point.
+
+The draft also warned against automation bias, or the risk of employees relying too heavily on AI outputs without applying their own judgement. For generative AI models that interface with customers or external users, the RBI said additional cybersecurity controls should be put in place.
+
+The RBI has invited feedback on the draft guidelines by July 24.
+
+\- Ends
+
+Armaan Agarwal
+
+Jun 25, 2026 09:16 IST
+
+---
+
+### Nothing Phone 3 now available at its lowest price: Where to buy
+*INDIATODAY · general*
+
+The price of the Nothing Phone 3 has seen a massive reduction once again. You can now bring it home for nearly half its original price.
+
+On Amazon, the phone's price has been slashed by up to Rs 40,000. This flagship phone from Nothing was launched last year.
+
+This premium device is equipped with a triple-camera setup, a powerful processor, and several impressive features. It is the most premium smartphone launched by the company to date.
+
+The Nothing Phone 3 was originally launched in India with a starting price of Rs 79,999. It is now listed on Amazon at a starting price of Rs 43,999.
+
+Additionally, buyers can get Rs 2,250 cashback using an SBI credit card, bringing the effective price down to Rs 41,749.
+
+The phone features a 6.67-inch AMOLED display with a resolution of 2800 x 1260 pixels (1.5K). The display supports a 120Hz refresh rate and offers peak brightness of up to 4,500 nits.
+
+It is powered by the Qualcomm Snapdragon 8s Gen 4 processor, paired with up to 16GB of RAM and up to 512GB of internal storage.
+
+The flagship device packs a 5,500mAh battery and supports 65W wired charging as well as 15W wireless charging.
+
+The phone features a triple-camera setup comprising a 50MP primary camera, a 50MP periscope camera, and a 50MP ultra-wide camera. For selfies and video calls, it includes a 50MP front-facing camera.
+
+The device runs on Nothing OS 3.5, based on Android 15, and the company promises five years of software updates.
+
+
+---
+
 ## 24 June 2026
 
 ### From climbing stairs to carrying heavy groceries: 10 exercises to ace daily tasks
