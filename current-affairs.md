@@ -1,3 +1,413 @@
+## 26 June 2026
+
+### NIA charges 11 over bid to expand terror group's ideology in Bengal, Northeast
+*Jitendra Bahadur Singh · general*
+
+The National Investigation Agency (NIA) has filed charges against 11 persons in connection with an alleged terror conspiracy orchestrated by an offshoot of the proscribed Jama'atul Mujahideen Bangladesh (JMB) terrorist organisation.
+
+The accused have been charged under various sections of the Bharatiya Nyaya Sanhita (BNS) and the stringent Unlawful Activities (Prevention) Act (UAPA) for allegedly attempting to expand extremist ideology in multiple parts of India.
+
+The chargesheet has been filed before the special NIA court in Guwahati. The central agency's probe has allegedly revealed the active involvement of the accused persons in a conspiracy to expand the radical ideology of Imam Mahmuder Kafila (IMK) – a manifestation of the JBM – in West Bengal and north-eastern states, including Assam and Tripura.
+
+The conspiracy allegedly involved promotion of the terror outfit's extremist agenda, radicalisation of vulnerable young people, and expansion of its network in India.
+
+According to the NIA, its investigators found that IMK was established by Imam Mahmud Habibullah, senior member of the JMB, in order to promote the banned outfit’s nefarious agenda on Indian soil.
+
+NIA investigations have also allegedly revealed that the 11 accused had conspired to grow the presence of IMK and JBM in the nation through clandestine meetings, religious indoctrination programmes, circulation of extremist literature, and use of digital platforms for anti-India propaganda.
+
+They were promoting allegiance to the leadership of the two outfits, per the anti-terror agency. Two key accused among the 11 named in NIA's chargesheet have been identified as Nasimuddin, who was allegedly spearheading IMK's activities in Assam, and Jagir Mia, who is accused of leading the outfit in Tripura.
+
+During the course of the investigation, NIA purportedly uncovered a trail of incriminating documents, electronic devices and digital records, which were used to build the case against the accused. Further investigation into the case is underway.
+
+\- Ends
+
+Jun 26, 2026 10:07 IST
+
+---
+
+### Hijab, dupatta allowed for Maharashtra TET, but face must be visible: Exam body
+*India Today Education Desk · general*
+
+Just days before the Maharashtra Teacher Eligibility Test (TET), the Maharashtra State Council of Examination (MSCE) has clarified that women candidates can wear a hijab, burqa or dupatta during the examination.
+
+However, no clothing will be allowed above the neck while inside the examination hall, ensuring that the candidate's face remains fully visible.
+
+The revised clarification comes after several women candidates submitted representations against the council's earlier instructions, which had prohibited hijab, burqa, masks and caps during the examination scheduled for June 28.
+
+### WHY THE RULE HAS BEEN REVISED
+
+In its official note, the council said the Teacher Eligibility Test is a highly sensitive examination where preventing malpractice is a priority. It pointed to growing concerns over the misuse of electronic devices such as AI-enabled gadgets, Bluetooth devices and miniature cameras concealed in clothing.
+
+According to the council, the faces of nearly six lakh candidates must remain clearly visible on live CCTV footage throughout the examination to maintain transparency and prevent unfair practices.
+
+The MSCE also referred to a 2024 Bombay High Court judgment, which upheld a college dress code and observed that wearing a hijab or naqab was not an essential religious practice.
+
+### WHAT CANDIDATES CAN CARRY
+
+The council clarified that female candidates are free to wear clothing such as a dupatta, covering or burqa while entering the examination centre. However, during the examination, the face, ears, head and mouth must remain uncovered so that CCTV cameras can clearly record each candidate.
+
+Apart from the dress code, candidates will not be allowed to wear shoes or socks inside the examination hall.
+
+Only a black or blue ballpoint pen, identity proof, a photocopy of the identity document and a transparent water bottle will be permitted.
+
+The council also noted that similar face visibility norms are followed in several national and state-level recruitment examinations, including those conducted by UPSC, SSC, IBPS, SBI, RRB, MPSC, GPSC and BPSC.
+
+\- Ends
+
+Princy Shukla
+
+Jun 26, 2026 10:04 IST
+
+---
+
+### Shouldn't sound like suburb of Islamabad: Denmark plans ban on azaan
+*India Today News Desk · general*
+
+## Denmark has revived plans for a nationwide ban on the Islamic call to prayer, coming months after the European country outlawed the Islamic full-face veil in public spaces. The proposal comes amid concerns over growing Islamisation in Denmark.
+
+Denmark has been pursuing some of Europe's toughest immigration policies under Prime Minister Mette Frederiksen.
+
+Denmark has revived plans for a nationwide ban on the Islamic call to prayer - the azaan - amid growing anxieties over 'Islamisation' in the country, according to a report in The Daily Mail. The plan was announced by the country's hardline immigration minister Morten Bodskov, who emphasised that parts of the country have come to feel like "a suburb of Islamabad".
+
+In unusually blunt remarks, Bodskov told Danish news agency Ritzau that creeping "Islamisation" in Denmark was taking up too much public space. Muslims account for around 5% of Denmark's population, making them the largest minority community. "The call to prayer should not be heard over Danish rooftops," the Leftist leader of the Social Democrats party said.
+
+The remarks come at a time when Denmark has been pursuing some of Europe's toughest immigration policies under Prime Minister Mette Frederiksen. Earlier this year, Denmark passed a law banning the Islamic full-face veil in public spaces.
+
+"It has no place in Denmark, and you shouldn't be in any doubt whether you have ended up in a suburb of Islamabad when you walk around Denmark," Bodskov further said.
+
+### DENMARK'S TRYST WITH AZAAN BAN
+
+Such a proposal, however, is not new. Denmark has previously tried, in 2020 and 2025, to enact a law banning the azaan in public places. However, the proposal never moved to the Parliament stage.
+
+However, parts of the European country already restrict public calls to prayer. For example, in Copenhagen, strict noise regulations prevent mosques from broadcasting the azaan through loudspeakers. The Grand Mosque of Copenhagen does not conduct an outdoor call to prayer.
+
+However, a nationwide ban on the axaan is likely to invite legal challenges. Denmark's Constitution protects the right to public worship.
+
+Bodskov said the government would first investigate whether the Muslim call to prayer can be outlawed nationwide, while remaining compatible with constitutional safeguards for religious freedom.
+
+\- Ends
+
+Abhishek De
+
+Jun 26, 2026 09:54 IST
+
+---
+
+### Kim Jong Un oversees weapons tests as South Korea ramps up drone force
+*India Today World Desk · general*
+
+## Kim Jong Un oversaw new weapons tests and urged a stronger offensive posture. South Korea answered with a sweeping drone expansion, deepening the arms race amid stalled talks.
+
+North Korean leader Kim Jong Un oversaw major weapons tests and called for the military’s “deadly and destructive offensive posture” to be strengthened, state media reported on Friday, as South Korea said it would sharply expand its drone warfare capabilities. The moves come at a time of high tension on the Korean Peninsula, with Kim pushing to build both nuclear and conventional military strength while refusing to return to talks with South Korea and the United States.
+
+The tests observed by Kim on Thursday were aimed at assessing the power of a “special mission” warhead for a tactical ballistic missile, an upgraded multiple rocket launch system, and the strike accuracy of extended-range shells fired from a self-propelled gun-howitzer, according to the official Korean Central News Agency, or KCNA.
+
+KCNA said Kim described the test results as proof of technological progress in efforts to change the fire posture in southern border areas, indicating that the weapons systems were meant for targets in South Korea, including US military bases there. Kim said North Korea’s self-defence policy includes an objective to strengthen “the deadly and destructive offensive posture to make no enemy dare to confront”, KCNA reported.
+
+“To make the enemies feel constant uneasiness and fear is just an important aspect of the exercise of war deterrent,” KCNA quoted Kim as saying. The agency added that the special mission warhead was intended to cause “fatal damage on major targets including airfields, ports and power facilities of the enemy”.
+
+Later on Friday, South Korea’s Defence Ministry announced plans to expand its drone forces, citing growing military threats from North Korea, which it said had also received technology assistance from Russia. The plans include developing long-range exploding drones, buying more than 20,000 low-cost reconnaissance and attack drones, and training the country’s entire 500,000 troops as “drone warriors”.
+
+“North Korea is also currently receiving technology transfers from Russia, so there’s an urgent need for us to respond proactively to the changing nature of warfare and the evolving operational environment,” Defence Minister Ahn Gyu-back told reporters. He said the plans reflected the growing importance of low-cost loitering munitions in modern warfare, including in Russia’s invasion of Ukraine, where thousands of North Korean troops have also fought alongside Russian forces. Ahn said South Korea’s military plans to have 500,000 “drone warriors” across the army, navy, air force and marines who can operate drones “easily like personal firearms”.
+
+North Korea has been focused on expanding its nuclear and missile arsenals since Kim’s high-stakes diplomacy with US President Donald Trump collapsed in 2019. Kim later stressed the need to develop advanced conventional weapons as well. On Tuesday, North Korea commissioned the 5,000-ton destroyer Choe Hyon, which Kim presented as a symbol of the country’s rising naval and nuclear capabilities.
+
+In response to Trump’s repeated outreach to restart diplomacy, Kim has indicated that talks could resume if the US drops its demand for North Korea’s denuclearisation as a condition for diplomacy. He has also adopted a tougher line on South Korea, calling it his country’s “principal enemy” and building more military structures along the heavily fortified border. In recent years, Kim has widened ties with Russia through his support for its war in Ukraine, while Chinese President Xi Jinping earlier this month visited North Korea for the first time in seven years for a meeting with him.
+
+The latest tests by North Korea and South Korea’s response with a major drone expansion underline the continuing military build-up on both sides amid stalled diplomacy and persistent tensions on the Korean Peninsula.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Jun 26, 2026 09:38 IST
+
+---
+
+### UK arrests Indian merchant navy captain over Russian crude shipment, breaching law
+*India Today News Desk · general*
+
+## The Indian High Commission is pursuing consular access after Captain Ajay Pant's arrest in the UK sanctions case. The outreach underscores concerns over his rights, safety and legal support before the July 16 hearing.
+
+Captain Ajay Pant was part of a crew that was on the vessel carrying Russian crude transiting through the English Channel. (Photo for representation)
+
+The Indian High Commission in London is monitoring the case of Captain Ajay Pant, a merchant navy officer from Uttarakhand who has been arrested in the United Kingdom over an alleged breach of British sanctions on Russian oil shipments, state government officials said on Thursday.
+
+According to an official release, the High Commission conveyed the update to Uttarakhand Chief Minister Pushkar Singh Dhami in a letter. The mission said Captain Pant is in judicial custody at HMP Winchester and that it is taking up the matter with the UK authorities.
+
+Officials from the diplomatic mission contacted Captain Pant on June 19 through the prison telephone system. During the conversation, he said he was in good health, was receiving medical facilities in prison and was in regular touch with his wife.
+
+The High Commission has raised the matter with the UK Foreign, Commonwealth and Development Office to secure timely consular access and to ensure his safety, health and rights.
+
+The letter said the mission is in constant contact with Captain Pant's wife, his legal representatives and his employer, Energios Maritime Private Limited.
+
+The employer has assured the High Commission that it will provide legal assistance to Captain Pant and necessary support to his family. Captain Pant is scheduled to appear for his next hearing on July 16. The High Commission also assured the chief minister that consular assistance and support would continue for him and his family.
+
+Chief Minister Dhami said the state government is sensitive to the interests of its citizens and is in constant touch with the Union government, the Ministry of External Affairs and the Indian High Commission.
+
+He expressed confidence that all concerned agencies were working in coordination to provide necessary assistance to Captain Pant. Pant, 38, was the captain of MV Smyrtoz, a Russian shadow fleet tanker reportedly carrying 98,000 tonnes of crude, which was intercepted in the English Channel on June 14 during a joint operation by the UK National Crime Agency and the British Armed Forces.
+
+The case concerns Captain Pant's arrest in the UK, the Indian High Commission's efforts to secure consular access and support, and the next court hearing scheduled for July 16.
+
+\- Ends
+
+India Today Web Desk
+
+Jun 26, 2026 09:36 IST
+
+---
+
+### Are BJP governments allergic to eggs? Here's the reality with evidence
+*Avinash Kateel · general*
+
+"_Sunday ho ya Monday, roz khao anday._" Few public health campaigns in India are as memorable as the National Egg Coordination Committee's (NECC) iconic jingle urging people to eat eggs every day. The message was simple: eggs are among the most affordable and nutrient-dense foods available. Rich in high-quality protein and almost every essential vitamin except vitamin C, eggs are often described as a superfood. There are many scientific studies that prove this. They are cheaper, easier to procure, and nutritionally superior to many common alternatives.
+
+Recognising their value in combating malnutrition, governments introduced eggs into school midday meal programmes across several states. But today, eggs are not being offered in all states in India. Data suggests that a majority of BJP-ruled states do not offer eggs to students under their midday meal schemes.
+
+The latest to join the list is Chief Minister Suvendu Adhikari\-led BJP government in West Bengal, which has handed over the **preparation of midday meals in Kolkata schools to ISKCON** (the International Society for Krishna Consciousness), and will reportedly no longer serve eggs in midday meals.
+
+West Bengal Finance Minister Swapan Dasgupta, **while presenting the BJP government's maiden budget** on Monday (June 22), said that ISKCON was expected to assist in food preparation and distribution under the midday meal scheme in Kolkata.
+
+The decision to likely remove eggs from the menu has turned into a political slugfest in West Bengal, with Trinamool Congress (TMC) leaders criticising the newly sworn-in government. TMC joint secretary Derek O'Brien on Wednesday alleged in a post on X that the BJP was depriving West Bengal's children of nutrition and was trying to "impose vegetarianism" in the state.
+
+"After the fish-eating tamasha during the election campaign, the Gujarat Gymkhana finally reveals itself. New BJP government at work in Bengal," O'Brien said in a post on X.
+
+"Throw eggs at rivals. But deprive children of nutrition by taking eggs off from midday meals. Imposing vegetarianism. Bengal rejects this," O'Brien added.
+
+West Bengal was among 15 states and Union Territories (UTs) that included eggs as a supplementary nutrition item under the government's midday meal programme.
+
+Today, out of 28 states and eight UTs, eggs feature in midday meals in only 14. A closer look at the states that exclude them shows a dominance of BJP-ruled governments.
+
+### ONLY FIVE BJP-RULED STATES CURRENTLY OFFER EGGS IN MIDDAY MEALS
+
+The **Maharashtra government in 2025 decided to stop funding eggs** in school meals. With that move, Maharashtra was effectively the latest to join the list of BJP-ruled states where eggs were either absent from the midday meal menu or provided only in a limited manner. Now, West Bengal is on the path to being added to that list.
+
+Among the states governed by the BJP, only five states, Assam, Odisha, Uttarakhand, Bihar, and Maharashtra, currently have a consistent state-supported egg programme in school meals.
+
+The **BJP currently has 17 chief ministers** and 5 CMs of its coalition partners.
+
+Following the uproar, the BJP-ruled Maharashtra government permitted eggs to be served in midday meals, but government funding was withdrawn, and schools were asked to arrange resources on their own if they still wanted to include eggs in school meals.
+
+Most BJP-governed states, particularly in northern and western India, also do not provide eggs through the PM POSHAN scheme. The PM POSHAN scheme, formerly known as the Mid-Day Meal Scheme, is jointly funded by the Centre and states, generally in a 60:40 ratio. Notably, Uttar Pradesh, Gujarat, Madhya Pradesh, Rajasthan, Haryana, Chhattisgarh, Goa, Arunachal Pradesh, Manipur, Delhi, and Tripura also neither provide eggs, nor have any consistent statewide policy supporting them.
+
+The contrast becomes sharper when compared with non-BJP states: Karnataka, Kerala, Tamil Nadu, Telangana, Himachal Pradesh, Mizoram, and several Union Territories continue to provide eggs through school nutrition programmes.
+
+In many of these states, eggs are viewed not as a political or social issue but as a public health intervention aimed at improving child nutrition.
+
+### THREE STATES REMOVED EGGS AFTER A CHANGE IN POLITICAL PRIORITIES
+
+Previously, the saffron party, after coming to power in at least four states, tried to push for a similar policy as it's seemingly attempting to implement in West Bengal.
+
+Chhattisgarh is seemingly the most direct example of such a push. The Congress government, led by Bhupesh Baghel, introduced and expanded the distribution of eggs in schools and Anganwadis in 2019. However, after **the BJP returned to power in 2023**. Under the chief ministership of Vishnu Deo Sai, the state informed the Union Ministry of Education that it would discontinue eggs and instead focus on millet-based nutrition programmes.
+
+Goa also saw a similar move. The BJP government briefly introduced eggs in school meals in 2022, and withdrew the **decision soon after facing backlash** from sections of society.
+
+Maharashtra followed a slightly different route. Eggs were limited to only once a week in 2023. However, after **the BJP-led Mahayuti government retained power** in 2024, state funding for the programme was withdrawn in early 2025. Schools still continue serving eggs, but through independently mobilised funds.
+
+Madhya Pradesh is another state that no longer serves eggs in school meals. The Kamal Nath-led Congress government proposed introducing eggs in midday meals during its brief tenure, but the plan never materialised after the **government fell in 2020 and the BJP returned to power**.
+
+### SOUTHERN STATES REMAIN AN EXCEPTION
+
+While northern and western India reveal a political divide over eggs, southern India narrates a very different story.
+
+Every southern state currently provides eggs in some form through school meals or Anganwadi programmes, irrespective of the political party in power. Karnataka, Tamil Nadu, Kerala, Telangana, and Andhra Pradesh all include eggs as part of their nutrition strategy despite being governed by parties with vastly different ideological positions.
+
+The consistency is particularly notable in Karnataka, which is the only **southern state that gives the BJP an opportunity to govern**. The BJP government continued to serve eggs in midday meals in 2021 despite criticism from sections of the Lingayat community and opposition from some party leaders. BJP's Tejaswini Ananth Kumar had argued that eggs were not the only source of nutrition and that the policy discriminated against vegetarian students. Nevertheless, the BJP stood by the decision. After the Congress came to power in 2023, the egg allocation was expanded further in Karnataka.
+
+Andhra Pradesh has adopted one of the strongest pro-egg positions in the country. Taking cognisance of recommendations from the National Institute of Nutrition (NIN), the state made eggs mandatory in government-run schools. Authorities directed district education officers to strictly implement the menu and refused to exempt organisations such as Akshaya Patra Foundation or ISKCON from serving eggs on religious grounds. Andhra Pradesh's case is interesting as it also has a midday meal prepared by ISKCON, similar to what Bengal is planning now, but never stopped offering eggs.
+
+Even after Chandrababu Naidu's Telugu Desam Party (TDP) returned to **power in alliance with the BJP in 2024**, the egg programme has been intact, suggesting that in much of southern India, nutritional considerations have largely trumped ideological disagreements.
+
+### EGGS REMAIN A CONTENTIOUS ISSUE DUE TO SOCIAL AND RELIGIOUS CONSIDERATIONS
+
+The debate around eggs has rarely been about nutrition alone, and wholly blaming the BJP would not be an accurate argument.
+
+In Maharashtra, religious organisations had opposed the inclusion of eggs in school meals as early as 2023. Similar objections have surfaced in Karnataka, Goa, and several other states whenever governments have attempted to introduce eggs into publicly funded nutrition programmes.
+
+Supporters of egg distribution argue that the science is unequivocal. Nutritionists, paediatricians, and public health experts have consistently maintained that eggs provide one of the most affordable and effective sources of high-quality protein for children.
+
+According to the National Institute of Nutrition (NIN), protein derived from eggs has a bioavailability of around 94%, which is significantly higher than many plant-based alternatives, such as Bengal gram, which has a protein bioavailability of about 76%, and **soybean, at around 54%**.
+
+Eggs are also rich in essential amino acids, vitamins, and micronutrients required for child development.
+
+However, the decision on what food items are served is largely left to state governments. As a result, children's access to eggs often depends less on nutritional science and more on where they live and who governs their state. The BJP is not the only party that rejected eggs, but states like Rajasthan, Haryana, and Punjab have also not implemented eggs in midday meals, even when the BJP was not in power in these states.
+
+\- Ends
+
+Avinash Kateel
+
+Jun 26, 2026 09:29 IST
+
+---
+
+### Scammed, coerced, blackmailed: UP man dies by suicide after Rs 6 lakh job fraud
+*Usman Chaudhary · general*
+
+A 37-year-old man allegedly died by suicide in Uttar Pradesh’s Meerut district after reportedly enduring prolonged mental distress over an alleged job fraud in which he claimed to have lost around Rs 6 lakh to a man he trusted. Before taking the extreme step, the victim recorded a video message accusing the man of deceiving him with false promises of employment, collecting money from others in his name, and later blackmailing him.
+
+The victim, identified as Manmohan Singh alias Monu, was a resident of Mawana Khurd village in Meerut’s Mawana area. According to police, he was found hanging at his residence on Thursday morning.
+
+After receiving information, local police reached the spot and carried out an inspection, while a forensic team collected evidence. The body was later sent for post-mortem examination.
+
+During the inquiry, investigators recovered a video recorded by Manmohan shortly before his death.
+
+In the recording, he alleged that Kunal Singhaniya, a resident of the Inchauli area, had taken lakhs of rupees from him on the promise of securing a job but failed to either arrange employment or return the money.
+
+In the video, Manmohan said, "I have fallen prey to a huge conspiracy. It is impossible for me to come to terms with that. My life has been ruined. It is all because I trusted someone. I have been depressed for a long time now. But he is out of reach. When I try to contact him, he makes excuses. His name is Kunal Singhaniya. He took money from me promising me a job. He took money from a few more people in my name. He took cash from me. He also deposited some money in my account too, and later made me forward that money to him".
+
+He further alleged that he had been drawn into situations that later became a source of pressure and intimidation.
+
+In the video, Manmohan claimed, "He would often take me to Lucknow, where he made me ask people if some girl could be arranged. I know, he is now going to blame me for spending the money on my personal pleasures".
+
+He also accused the man of coercion and blackmail, adding, "I know he will put the blame on me to calling a woman to the house. He is blackmailing me, torturing me. I don’t know what to do".
+
+The incident triggered protests outside the Mawana police station, where family members and villagers gathered and briefly attempted to block the road. Police intervened and brought the situation under control.
+
+Based on a complaint filed by the victim’s brother, Jagmohan Singh, police registered a case under relevant provisions of the Bharatiya Nyaya Sanhita (BNS) against two named accused and several unidentified persons.
+
+Officials said the matter remains under investigation and efforts are underway to trace the accused and determine the full extent of the alleged fraud.
+
+\- Ends
+
+Jun 26, 2026 09:24 IST
+
+---
+
+### Security guard tells Gurugram CEO his salary, gets honest career advice in return
+*India Today Trending Desk · general*
+
+## Akash Gupta, founder and CEO of Zypp Electric, shared a video on social media with the text overlay: "Founder poaching his own employee," showing him speaking to a security guard employed at his office in Gurugram.
+
+Security guard tells Gurugram CEO his salary, gets honest career advice in return (Photos: Akash Gupta/Instagram)
+
+A conversation between a Gurugram-based CEO and the security guard at his office has gone viral after the executive joked that he had “poached” his own employee by encouraging him to switch to a better-paying role within the company’s ecosystem.
+
+Akash Gupta, founder and CEO of Zypp Electric, shared a video on social media with the text overlay: “Founder poaching his own employee,” showing him speaking to a security guard employed at his office in Gurugram.
+
+During the conversation, the security guard told Gupta that he had joined Zypp around two months ago and currently earns about Rs 18,000 a month. When Gupta mentioned that delivery workers often earn more, the employee admitted he had already been considering switching roles.
+
+Saying the current job no longer felt worthwhile, the guard explained that he was thinking of buying a vehicle and moving into delivery work, where he believed earnings were significantly higher. “_12 ghante denge wahan toh Rs 1500-1600 ho jayega din ka_ (If I put in 12 hours there, I could earn Rs 1,500-1,600 a day),” he said, comparing it to his current daily earnings of roughly Rs 600 for similar working hours.
+
+Gupta agreed that delivery partners could earn around Rs 40,000-50,000 a month, though he pointed out that the job involved far more physical effort. Rather than discouraging the move, he encouraged the employee to give it a shot, assuring him there would be no issue since both roles existed within the company’s ecosystem.
+
+In the caption of his post, Gupta wrote, “Oops, I poached my own employee in my business,” using the interaction to reflect on opportunities within India’s growing gig economy.
+
+“Sometimes all it takes is one conversation to open up a new possibility,” he said, adding that the employee’s reaction to learning about delivery earnings was not disbelief but curiosity.
+
+Gupta concluded by describing the exchange as a reminder of how new opportunities often begin with a simple thought: “Maybe, I can do that too.”
+
+Earlier this month, Akash Gupta had also made headlines after sharing a video of a conversation with a cab driver, in which the two discussed income, self-employment and the growing role of gig workers in India’s evolving economy.
+
+\- Ends
+
+Jun 26, 2026 09:21 IST
+
+---
+
+### 'Tumse Na Ho Payega': Chetan Rebuked Siya After Two Failed Attempts At Ketan's Life
+*Sumedha Kirti · general*
+
+Siya Goyal said she watched Chetan Chaudhary weep when their first attempt to kill Ketan Agarwal failed. Days later, they 'tried again' — after 2,000 calls and 238 hours on phone.
+
+[Read full article](https://www.news18.com/cities/pune/chetan-broke-down-siya-watched-him-cry-then-238-hours-on-phone-lohagad-plot-10174062.html)
+
+---
+
+### Kitchen fire leaves 2 brothers injured in Delhi's Ajmeri Gate
+*TOI City Desk · regional*
+
+A kitchen fire erupted late at night in Delhi's Ajmeri Gate (Representative image)
+
+NEW DELHI: Two brothers were injured after a late-night fire broke out in the kitchen of their house in central Delhi's Ajmeri Gate area, prompting a swift response from firefighters and local residents.Both sustained burn injuries and were rushed to hospital, while authorities launched an investigation into the cause of the blaze.According to the Delhi Fire Services (DFS), a call about the fire was received around 11.25 pm on Thursday from a house in Mohalla Nitaryana, behind GB Road near Ajmeri Gate.Two fire tenders were immediately dispatched to the spot.By the time firefighters arrived, the two occupants had already suffered burn injuries.They were shifted to Lok Nayak Jai Prakash (LNJP) Hospital with the help of PCR personnel and local residents, officials said.The fire was confined to the kitchen of the house and was brought under control before it could spread to other parts of the building, PTI reported.The injured were identified as 14-year-old Waris, who sustained around 35 per cent burns, and his 18-year-old brother Fareed, who suffered nearly 20 per cent burns.Hospital authorities said both are undergoing treatment at LNJP Hospital and their condition is being monitored.Police and fire department officials are investigating the exact cause of the fire.(With PTI inputs)
+
+---
+
+### In A First, Centre Announces Names Of 6 Soldiers Martyred During 'Op Sindoor' | Check Details
+*Meemansa Shekhawat · general*
+
+The Government of India has announced the names of six army personnel who were martyred during Operation Sindoor, the country's military response to the Pahalgam terror attack
+
+[Read full article](https://www.news18.com/india/unsung-heroes-of-operation-sindoor-to-be-honoured-at-delhis-national-war-memorial-check-details-ws-l-10174177.html)
+
+---
+
+### Prince William's "bolted shut" approach signals no private reunion with Prince Harry
+*TOI Entertainment Desk · entertainment*
+
+The Duke and Duchess of Sussex continue to attract attention as discussions around their relationship with the royal family and future visits to Britain resurface.Image credit (Instagram)
+
+Prince William has reportedly drawn a clear line regarding his interactions with Prince Harry and Meghan Markle ahead of their upcoming visit to the United Kingdom. According to royal commentator Dan Wakeford, the future king will only be in the presence of the Duke and Duchess of Sussex during formal, publicly scheduled events.Speaking to Fox News Digital, Wakeford outlined the stark difference in approach between Prince William and King Charles III regarding their younger family members. While reports suggest that King Charles will spend time with Harry, Meghan and their two children during the summer visit, Prince William appears to have taken a distinctly different stance on family reconciliation.
+
+## Prince William's firm boundaries toward Prince Harry and Meghan Markle
+
+Wakeford described the current state of William's household with particularly telling language.
+
+"The Wales household is completely bolted shut right now," the expert told the outlet, emphasizing the closed nature of William and Kate's family unit.When asked about the likelihood of William arranging a private meeting with Harry and Meghan, Wakeford was unequivocal. "\[William's\] stance has not changed and they would not arrange to see Harry and Meghan outside an official public engagement," he said. "I don't even think that is going to happen."
+
+Speculation surrounding the Sussexes' upcoming trip to Britain has renewed conversations about their ties with the monarchy and the possibility of rebuilding relationships.Image credit (Instagram)
+
+## "That's a much firmer line than Charles' side of the street" he went on explain.
+
+Wakeford offered further insight into the potential trajectory of Harry and Meghan's future visits to Britain. "Whether it becomes the first of many trips, which is the phrase being used around this, depends entirely on how Charles handles it and whether William keeps his distance," he continued. "William's position is hardened just as much as ever and it seems permanent."
+
+## The fundamental shift in Prince Harry and Prince William's relationship
+
+According to sources, the relationship between the two brothers has undergone a fundamental change that may not be reversible.
+
+Rob Shuter's Naughty But Nice Substack reported that William attributes this shift largely to Harry and Meghan's public statements about the royal family following their departure from formal royal duties in 2020."William believes the relationship has fundamentally changed," a source told the outlet. "He's moved on emotionally and that's very hard to reverse," the insider noted, suggesting that William has made a deliberate emotional decision to distance himself from his younger brother rather than attempting reconciliation.
+
+While reports suggest the Duke of Sussex remains open to repairing family bonds, questions continue over whether meaningful progress can be made in the near future.Image credit (Instagram)
+
+## Prince William's resistance to forgiveness and reconciliation
+
+Despite Harry's reported reconciliation with King Charles, sources close to Prince William suggest that the heir to the throne remains unmoved by any potential gesture toward healing the family breach. Heat World reported comments from an insider close to the Prince of Wales that paint a picture of someone who feels profoundly betrayed and has little interest in moving past those feelings."William is still livid and says even if he wanted to forgive his brother, letting him in would send the wrong message to the public," an insider told the outlet.
+
+"He's the least bit tempted to anyway, he still feels completely betrayed and has no interest in pretending everything is fine just for appearances."The source continued to describe William's perspective on the damage inflicted by Harry and Meghan's public statements and their departure from royal duties. "He is sick and tired of reminding people that they've inflicted so much grief and stress on the family" the insider alleged.
+
+---
+
+### 'AI can change the whole tax system': Former NITI Aayog member on economic growth
+*ET Online · business*
+
+Former NITI Aayog member Arvind Virmani said manufacturing will be the key driver of India's economic growth over the next 10–15 years and called for a simpler, more predictable tax system, adding that artificial intelligence could "completely transform the whole tax system." He also said India shou...
+
+[Read full article](https://economictimes.indiatimes.com/news/videos/ai-can-change-the-whole-tax-system-former-niti-aayog-member-on-economic-growth/videoshow/132006540.cms)
+
+---
+
+### Zydus, Sunshine to set up $20 million pharma JV in Sri Lanka
+*SECTIONS Zydus · general*
+
+Zydus Lifesciences and Sunshine Healthcare Lanka on Friday announced a 50:50 joint venture to build a pharmaceutical manufacturing facility in Sri Lanka, with a total investment commitment of over $20 million.
+
+According to a stock exchange filing, Zydus will invest up to $5 million in one or more tranches to acquire 50% equity in the newly incorporated Zydus Sunshine Lifesciences.
+
+The facility will come up in the Horana Export Processing Zone and will manufacture pharmaceutical products for Sri Lanka's retail market. The companies said the project aims to strengthen local production, reduce import dependence, improve access to medicines, and enhance supply-chain resilience.
+
+  
+
+The joint venture combines Zydus' manufacturing and technical expertise with Sunshine's local distribution and healthcare network. The partners also expect the project to support technology transfer, local capability building, and job creation in Sri Lanka.
+
+Construction has formally commenced with the foundation stone laid on June 26, the companies said.
+
+Speaking on the partnership, Dr. Sharvil P Patel, Managing Director, Zydus Lifesciences Ltd said, “We have always believed that strong local capabilities are key to resilient healthcare ecosystems. By combining Zydus’ global experience and manufacturing excellence with Sunshine Holdings’ local expertise, this collaboration marks an important step in strengthening Sri Lanka’s healthcare ecosystem and building sustainable pharmaceutical capabilities for the future.”
+
+"This partnership is a strategic investment in Sri Lanka’s healthcare security and industrial growth. Together with Zydus, we aim to enhance local pharmaceutical manufacturing, create skilled employment, and improve access to essential medicines for Sri Lankan consumers," said Shyam Sathasivam, Group CEO Sunshine Holdings PLC.
+
+---
+
+### Kerala Lottery Result Live: Suvarna Keralam SK-58, June 26, 2026 Winners | News18
+*Nibandh Vinod · general*
+
+Kerala Lottery Result Today: Suvarna Keralam SK-58 lottery result will be declared today, on Friday, June 26. Check the live updates and full list of winning numbers from 3 pm.
+
+[Read full article](https://www.news18.com/india/kerala-lottery-result-today-suvarna-keralam-sk-58-june-26-live-10172622.html)
+
+
+---
+
 ## 25 June 2026
 
 ### US President Donald Trump's showdown with Republican Senator Bill Cassidy: Inside the blow-up on Capitol Hill
