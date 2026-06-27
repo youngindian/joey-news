@@ -1,8 +1,144 @@
 # Editorials
 
-_Last updated: 2026-06-26 05:49 UTC_
+_Last updated: 2026-06-27 05:29 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 27 June 2026
+
+### ​Tragic evening: On the earthquake in Venezuela
+*The Hindu · Editorial*
+
+On Wednesday two earthquakes, of magnitudes 7.1 and 7.5, struck seconds apart, levelling large parts of Caracas, Venezuela. On Friday, Jorge Rodriguez, the president of the country’s National Assembly, put the dead at 920 and the injured at 3,360. In La Guaira, the worst-hit State, over a hundred buildings crumpled to rubble. Geologically speaking, such destruction is, in Venezuela, an aberration. The country sits where the South American and Caribbean plates grind past one another, a boundary that slips sideways rather than thrusting upward — unlike the frequent quakes along the Pacific’s Ring of Fire. Strain here accumulates quietly, over generations, before the ground settles its accounts in a single afternoon. It is early days, but seismologists have explained the twin quakes as a ‘doublet,’ what the US Geological Survey (USGS) calls a “complex rupture-interaction”. Northern Venezuela saw a smaller doublet last year; the Türkiye-Syria earthquakes of 2023, which killed over 55,000 people, were of the same provenance. Their shallowness — under 30 kilometres — drove the fury straight into the streets above. The USGS has flagged a plausible toll exceeding 10,000, and the past is proof that such fears are likely to bear out rather than be refuted.
+
+India, which has already offered help, should make relief its first duty — search teams, medical supplies, and the unglamorous logistics of a disaster zone. But there is a lesson here that it ought not to file away and forget. This year the Bureau of Indian Standards withdrew a decade’s worth of commissioned work that found seismic hazard along the Himalayan front badly underestimated — a revision that nearly doubled design forces in the highest zones and added a sixth zone to a map that stopped at five. It was shelved after a Cabinet Secretariat order warned the standards “materially affected” ongoing infrastructure, metro projects among them. India’s Zone V still designs for 0.36g, where g measures for how much the ground can shake. Pakistan and Nepal, on the same colliding front, reckon on nearly 0.75g, the United States and Japan on a full g or more. Nearly 79% of Indians live under moderate to severe seismic threat, and 95% of earthquake deaths occur in the one- to three-storey houses that no code ever reaches. Venezuela is a portent of the implicit danger that exists. The science of prediction will remain, for the foreseeable future, hope filling the gaps of uncertainty. What can be done is build structures that hold and keep their inhabitants safe. The earth follows its rhythm; the only choice is whether or not to be ready.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/tragic-evening-on-the-earthquake-in-venezuela/article71150773.ece)
+
+---
+
+### Whites on green: On Wimbledon 2026
+*The Hindu · Editorial*
+
+No tournament marries old world charm with new age freshness quite like Wimbledon. This will be on display yet again when the year’s third Major gets underway on Monday. If the pristine grass courts and all-white attire are reminders of tennis’s origins and traditions, the introduction of video review technology from 2026 is the latest example of the event marching with the times. Another throwback to the old days will be the return of Serena Williams, a seven-time singles champion at the All England Club. She is 44, and has not played competitively in nearly four years, but appears leaner and fitter, thanks in large measure to modern-day weight-reduction medication. The legendary American is a wildcard entrant in doubles as well, where she will partner her illustrious sister and five-time Wimbledon singles winner Venus, with the duo looking for their seventh doubles crown at SW19. But unranked as Serena is, the probability of meeting high-profile opponents from the get-go is high. Women’s tennis is also a crowded market-place, with as many as five Slam champions and three others with runner-up finishes among the top-10 seeds. Chief among them are World No. 1 Aryna Sabalenka, 2022 winner Elena Rybakina, defending champion Iga Swiatek and the teenaged Mirra Andreeva, who clinched her maiden Major at Roland-Garros recently.
+
+The men’s section will be equally intriguing. Carlos Alcaraz, a two-time Wimbledon titlist and a fan-favourite in south-west London, is absent because of a wrist injury. Reigning champion Jannik Sinner suffered a dispiriting second-round loss at the French Open and has had no competitive matches since then. The defeat in Paris came under extremely hot conditions, and with western Europe in the midst of a heatwave, it will be interesting to see how the Italian World No. 1 copes. Second seed Alexander Zverev will look to cash in, like he did at Roland-Garros, but grass is his weakest surface. This presents Novak Djokovic with his best chance to claim a record-extending 25th Slam. At 39, the lush green lawn is where the Serb is most comfortable. With four trophies, two finals and one semifinal appearance in his last seven visits to Wimbledon, he is also the most pedigreed. However, for a second straight Major, there is likely to be an unpleasant backdrop with leading players set to expand their protest at what they deem as an inadequate increase in prize money (less than 22% of the tournament revenue). Actions at the biggest competitions do garner attention but they also benefit the elite players more than the rank and file. Tennis needs an equitable solution for the betterment of all. If the argument of the top players is that the organisers keep most of the revenue, then it can also be said that they earn disproportionately more than their lower-ranked peers. The gap between the haves and have-nots is only widening.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/whites-on-green-on-wimbledon-2026/article71150801.ece)
+
+---
+
+### The cracks beneath the peddled story of India’s growth
+*The Hindu · Opinion*
+
+For over a decade, the Narendra Modi government has projected India as the world’s fastest-growing major economy, an emerging manufacturing hub, a Vishwaguru, a global power, a preferred destination for global capital, and a Viksit Bharat on track for 2047. Yet, behind this carefully crafted narrative lies a more troubling reality. The economy faces multiple external shocks while carrying deep structural weaknesses that threaten its long-term prospects.
+
+The warning signs are unmistakable. But instead of addressing them, the ruling establishment appears more focused on manufactured controversies, communal polarisation and divisive politics. As television studios debate temples, mosques, medieval rulers and invented enemies, the economy’s foundations continue to weaken.
+
+Imported energy, growing risksThe most immediate challenge is India’s growing vulnerability to external shocks. The country imports nearly 90% of its crude oil and about half of its natural gas requirements. Every rise in global energy prices is quickly transmitted to the domestic economy. The recent rise in fuel prices underscores a stark reality: despite the rhetoric of renewable energy, self-reliance and global leadership, India remains heavily dependent on imported energy.
+
+The consequences are severe. Rising oil and liquefied natural gas prices widen the trade deficit, weaken the rupee and raise production costs across the economy. In FY2025-26, the Reserve Bank of India sold over $53 billion in the foreign exchange market to support the rupee — its largest intervention in more than a decade. Foreign exchange reserves have fallen from over $720 billion to around $681 billion. An economy with strong fundamentals should not have to spend such vast sums merely to slow its currency’s decline. The issue is politically significant as well. Narendra Modi, as Gujarat Chief Minister, often linked the rupee’s value to national pride. Today, despite that rhetoric, the rupee has fallen to a historic low of about ₹95 against the U.S. dollar.
+
+Compounding the problem is the uncertainty surrounding fertilizers and agriculture. Again, India’s apparent strength in manufacturing fertilizers masks a dangerous vulnerability. Domestic urea production depends heavily on imported LNG. Almost all the fertilizers India produce are linked to heavy imports such as LNG and potash. Any disruption in global gas supplies, any sharp increase in LNG prices or supply chain disruption immediately threatens fertilizer availability and affordability.
+
+The challenge is compounded by the monsoon outlook. A weak monsoon affects far more than agriculture. Lower crop yields reduce rural incomes, weaken consumption, fuel food inflation. They also increase the need for government spending on relief, procurement and subsidies, which is unlikely under the Bharatiya Janata Party’s rule. These risks reinforce one another. Rising fuel costs, expensive fertilizers and a weak monsoon together create a vicious cycle that suppresses demand when the economy needs stronger domestic consumption.
+
+Weakening rural safety netsA responsible government would respond by strengthening employment guarantees and social protection. Instead, the Modi government abolished the Planning Commission and has steadily weakened MGNREGA, one of the country’s most effective rural safety nets. As a result, millions of rural households now face greater economic uncertainty with fewer protections than they had a decade ago.
+
+Beyond these immediate pressures lies a deeper structural concern. India’s external sector remains heavily dependent on services exports and remittances. The record $135 billion in remittances received in FY2024-25 has been a key factor in financing the current account deficit.
+
+Even this strength carries a warning. Increasingly, India’s remittances come not from migrant workers in West Asia but from highly skilled professionals in the United States, the United Kingdom and other advanced economies. The rise of right-wing politics and anti-immigration sentiment — championed by leaders such as U.S. President Donald Trump and echoed across much of the West — poses a growing threat to this model. At the same time, artificial intelligence (AI) is transforming software, data processing and other professional services in which Indian workers have traditionally excelled.
+
+The danger is not that remittances will disappear overnight, but that one of the pillars supporting India’s external balance could gradually weaken. If remittance growth slows while energy imports remain high, pressure on the current account and the rupee will intensify.
+
+International investors are already turning cautious. Foreign portfolio investors have withdrawn over ₹2.2 lakh crore from Indian equities this year, while India has slipped from sixth to seventh in global market-capitalisation rankings. Domestic retail investors have limited the damage, but the message is clear: global investors are becoming less convinced by India’s growth story.
+
+Even more worrying is India’s position in the technological transformation currently reshaping the global economy. Mr. Modi’s hollow guarantees have not only weakened what was built earlier but also his diversionary politics has prevented a discussion on what the future would be like and what India’s role in it would be.
+
+The 21st century will be defined by AI, semiconductors, advanced manufacturing, robotics and frontier science. Yet, India remains largely absent from these strategic sectors. Although the country has a vibrant startup ecosystem, much of it is concentrated in digital intermediation rather than technological innovation. Food delivery, ride-hailing and quick-commerce platforms may create high valuations, but they do not build technological sovereignty. Many of India’s celebrated startups still depend on organising abundant low-cost labour through digital platforms rather than developing globally competitive technologies.
+
+The contrast with global leaders here is striking. Taiwan dominates advanced semiconductor manufacturing through TSMC. South Korea commands critical positions through Samsung. The U.S. and China lead in AI, advanced chips and foundational technologies. India possesses immense engineering talent but remains heavily dependent on imported semiconductors, imported technology and imported capital equipment. Despite years of slogans about innovation and self-reliance, the country remains a marginal player in the industries that will define the future.
+
+Scant transformationThis is perhaps the most serious indictment of the Modi decade. The promised manufacturing revolution has not materialised. The demographic dividend remains unutilised. Millions of young people continue to confront precarious employment, stagnant wages and shrinking opportunities.
+
+Every failure has been passed on to ordinary people with a dose of hyper-nationalism. Wealth and opportunity continue to concentrate in fewer hands. The burden is socialised; the benefits are privatised.
+
+Electoral victories should not be mistaken for economic success. A government can win elections while pursuing policies that weaken the long-term foundations of economic development.
+
+The tragedy of contemporary India is that while the economy sends increasingly urgent distress signals, public attention is repeatedly diverted towards communal polarisation and manufactured controversies. Citizens are encouraged to fear one another rather than question policies that affect their livelihoods.
+
+India possesses the resources, talent and productive capacity to chart a different path. But doing so requires confronting the policies that have brought the country to this point. It requires defending public investment, strengthening social protection, rebuilding employment generation, investing in science and technology, reducing external dependence and restoring economic priorities to the centre of public life.
+
+Above all, it requires a resolute and united struggle against policies that enrich a few corporates while burdening millions with poverty. The choice before the country is stark: continue down the present path of division and economic fragility, or build a broad democratic movement with left-of-centre economics, capable of defending livelihoods, jobs and the future itself. The time to wake up is now, before it is too late.
+
+D. Raja is General Secretary, Communist Party of India (CPI)
+
+[Read full article](https://www.thehindu.com/opinion/lead/the-cracks-beneath-the-peddled-story-of-indias-growth/article71151549.ece)
+
+---
+
+### Rule of compliance: Amend, restrain
+*Deccan Herald · Editorial*
+
+The amendment to the Foreign Contribution (Regulation) Act [FCRA] rules, notified by the Union government this week, has made the law’s provisions more stringent, constraining the activities of NGOs and other organisations that fall under the law’s purview.
+
+This is the 10th amendment to these rules since 2011. Questions arise on the risks of repeated amendments altering the law’s character and eventually diluting its original purpose. Earlier this year, the government brought forward an FCRA Amendment Bill ahead of Assembly elections in some states, but shelved it following public criticism, especially from minorities groups. The question of legislative propriety is relevant, given that the latest amendment is seen as a revival of this aborted intent.
+
+According to the new rules, all associations seeking foreign funding must register for a specific field of work, ending the broad permissions previously available under the law. NGOs are now required to disclose their social media accounts, websites, publications, and other activities, significantly expanding the obligations of compliance. While foreign contributions may still support social, educational, religious, economic, and cultural programmes, organisations must clearly specify both the purpose and location of fund utilisation; violations attract penalties. The rules identify 105 permitted activities but do not specifically include health, despite it being a major area of work for many NGOs. While religious education, documentation of faith traditions, and preservation of indigenous beliefs remain permissible, proselytisation is prohibited. Minority organisations fear that legitimate religious or cultural activities could nevertheless be interpreted as attempts at conversion, exposing them to scrutiny. By confining organisations to narrowly defined fields, the regulations may force many to curtail their work or seek multiple registrations, increasing costs without guaranteeing approval. Mandatory disclosure of publications is seen as restricting freedom of expression and undermining an organisation's right to communicate its work.
+
+The cumulative impact of these restrictions is to shrink the operational space of NGOs while raising the risk of penalties for actions that authorities may interpret as rule violations. The regulations also grant the government greater scope to monitor, influence, and potentially control the functioning of civil society organisations. Critics fear the rules could extend beyond minority organisations to target citizen rights groups, environmental organisations, research institutions, and other bodies that challenge official policies. The broad scope for interpretation raises concerns that dissent and criticism may be selectively suppressed. Reflecting these anxieties over the amended rules, some Christian organisations have called for June 28 to be observed as a Day of Prayer.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/rule-of-compliance-amend-restrain-4053600)
+
+---
+
+### Step one on the promised path
+*Deccan Herald · Editorial*
+
+Bengaluru Development Minister Krishna Byre Gowda’s announcement of a city-wide ‘Safe Footpath Campaign’ beginning on July 1 is a long-overdue intervention. In a city where pedestrians are treated as an afterthought, the decision to reclaim footpaths and prioritise walking infrastructure addresses one of Bengaluru’s most neglected civic concerns. Footpaths are not a luxury. They are a basic component of urban life and a fundamental right. Every day, thousands of schoolchildren, senior citizens, office-goers, and ordinary residents are forced onto busy roads because pavements are broken, encroached upon or converted into parking lots.
+
+The consequences are visible: pedestrians account for nearly 30% of Bengaluru’s annual road fatalities. The government’s focus on clearing encroachments, towing vehicles parked on walkways, and repairing damaged pavements along 2,000 kilometres of major roads is, therefore, both necessary and overdue. The allocation of Rs 70 crore to fix uneven surfaces, broken slabs, and other structural deficiencies is equally welcome. If implemented sincerely, these measures could significantly improve safety and restore a measure of dignity to daily commuting. Yet Bengalureans have reasons to remain sceptical. Successive governments have unveiled grand visions of transforming Bengaluru into a global metropolis while failing to provide basic civic infrastructure. Residents no longer seek futuristic dreams; they simply want footpaths they can walk on, roads free of potholes, efficient garbage collection, and streets that do not flood after every heavy shower. If Byre Gowda succeeds in ensuring uninterrupted, safe, and accessible footpaths, citizens will gladly judge the campaign a success. The public must also become active participants. Authorities should establish a dedicated platform through which residents can upload photographs and videos of broken pavements, illegal parking, construction debris, and other obstructions. Citizen monitoring can help officials quickly identify problem areas.
+
+Street vendors may pose the toughest challenge. Previous clearance drives failed because authorities often neglected the requirements of the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014. Any lasting solution must balance pedestrians’ rights with vendors’ livelihoods through surveys, Town Vending Committees, and demarcated vending zones. Without legal rehabilitation mechanisms, eviction drives are unlikely to endure. The true test of the ‘Safe Footpath Campaign’ will be its longevity. Bengaluru’s pedestrians have heard enough promises. They now deserve results.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/step-one-on-the-promised-path-4053595)
+
+---
+
+### Clothe the law, not the statue: Why 'Modesty of a Woman' must go
+*Deccan Herald · Opinion*
+
+In a Class 9 arts textbook, the National Council of Educational Research and Training (NCERT) presented students with a familiar image. The Dancing Girl of Mohenjo-daro from approximately 4,500 years ago appeared with her torso shaded from the shoulders downward, her nudity covered, her body effectively clothed.
+
+The backlash was swift. Historians called it censorship. NCERT, to its credit, reversed the decision. But the reversal does not undo the meaning of the act. Someone, at some institutional level, looked at a pre-Vedic civilisational artefact and decided that its nude female form required covering. No policy was cited. No explanation was offered. The instinct simply operated, but the law has a name for this instinct. It is called “modesty of a woman”.
+
+The phrase entered criminal law through the Indian Penal Code (IPC) of 1860, which penalised the “outraging” of a woman’s modesty without defining the term. Courts filled the gap by treating modesty as a natural feminine attribute requiring no elaboration. In practice, the protectable woman was implicitly upper-caste, middle-class, domestically confined, and behaviourally deferential. Women outside this norm found their claims to protection structurally weakened by the very framework that claimed to protect them.
+
+When Parliament enacted the Bharatiya Nyaya Sanhita (BNS) in 2023, it was presented as a historic rupture with colonial criminal law. BNS Section 79 penalises actions intended to insult the “modesty of a woman”. The language is almost verbatim from the IPC. The colonial concept survived the decolonising reform. This is not a minor drafting oversight. It is a substantive failure.
+
+The NCERT episode illustrates this framework’s logical endpoint. The Dancing Girl was made in a time that predates the textual traditions of female modesty as a Brahminical virtue and the Victorian sexual morality carried in the IPC. She stands in a posture that the archaeologist who named her in 1926 associated with nautch girls: professional female entertainers who, in the colonial-Brahminical social order of their time, occupied the category of the “immodest woman”. The naming was itself an act of gendered-colonial classification, projecting anachronistic social hierarchy onto an object.
+
+To now clothe her – in textbooks, in 2026 – is to extend the modesty framework across four and a half millennia, to a time and place where it may not have existed. The absurdity of this move is the argument: when a legal-cultural reflex reaches back across millennia to dress a statue, it reveals its incoherence.
+
+Consider the recent invocation of Sections 75 and 79 of the BNS, that is, sexual harassment and intent to insult the modesty of a woman, in connection with social media posts describing women journalists as prostitutes.
+
+Here, publicly visible and professionally assertive women are reaching for the “modesty” provision because it is the closest available instrument to what they need: a legal recognition that their dignity as persons – not their conformity to behavioural norms – has been violated. The modesty framework cannot deliver this. Modesty, as constructed in the law, is precisely what women who refuse domestic confinement are presumed to lack. To invoke it against those who publicly degrade them is to use a framework against its own logic.
+
+Protection by hierarchy
+
+This is not a new problem. In 1979, in the Mathura rape case, the Supreme Court infamously held that a young Adivasi woman's prior sexual history rendered her consent to intercourse with two policemen plausible (Tukaram v. State of Maharashtra). The Court's reasoning reproduced the modesty framework's deepest assumption: that a woman already classified as immodest has no further modesty to protect.
+
+In its landmark decisions, such as Navtej Singh Johar (2018), the Supreme Court has progressively articulated dignity as a constitutional value – one that belongs to the person and cannot be made conditional on behavioural conformity. Dignity does not require a woman to be modest to be protectable.
+
+The law reform argument is, therefore, not merely that modesty is a colonial residue. It is that the concept actively produces a hierarchy of protectable and unprotectable women. Women who conform to the Brahminical-Victorian template of femininity receive its protection. Women who do not – by virtue of caste, profession, gender non-conformity, or simply the refusal to be silent – are disadvantaged by the very provision that claims to protect them.
+
+Replacing modesty with dignity is a fundamental change in the kind of subject the law recognises as deserving protection. The BNS had the opportunity to make that change in 2023. It did not. The next reform effort must.
+
+(The writer is a professor of law at the Jindal Global University)
+
+[Read full article](https://www.deccanherald.com/opinion/clothe-the-law-not-the-statue-why-modesty-of-a-woman-must-go-4053596)
+
+---
 
 ## 26 June 2026
 
@@ -61,6 +197,44 @@ Ashwani Kumar is Senior Advocate, Supreme Court of India, an author and a former
 
 ---
 
+### DC Edit | An Indian Passport Shows You're Indian: Or Doesn't It?
+*Deccan Chronicle · Editorial*
+
+The confusion created by the clarification issued by the ministry of external affairs that Indian passports are primarily travel documents to prove identity of the person abroad and that they are not conclusive proof for citizenship is unsettling for a large section of people in the country. The time, the cause and the aim of the statement about the document when citizenship does not appear to be a point of debate in the country do not help clear the confusion either.
+
+Indian citizenship by birth, naturalisation and descent are governed by Articles 4 to 11 of the Constitution and the Citizenship Act, 1955. While the Constitution primarily defines citizenship immediately after the formation of the Republic, the Citizenship Act governs it ever since it has come into force.
+
+While the Constitution and the law define citizenship and the conditions thereof, they do not expressly talk of a “document” which “conclusively” establishes the citizenship of a person. While there are legal provisions in India for the acquisition of several documents such as passport, driving licence, PAN card, Aadhaar card and voter identity card which specify the nationality of the holder as Indian, none of them require the person concerned to present a document to prove their citizenship to acquire them.
+
+There appears to be a certain urgency in certain sections of the administration to put an unusual focus on citizenship and the documents to prove them. The RSS and the Sangh Parivar organisations including the BJP have been talking about a national register of citizens (NRC) in India. Home minister Amit Shah has talked about it as a real possibility and a tool to identify non-citizens and get rid of them. He is on record talking about the Citizenship (Amendment) Bill, 2019, as a precursor to the NRC. Those who read the intent of the government warned against its passage as it has all the ingredients of being used as a tool to target sections of people who do not exactly fall in the demographic groups right wingers would approve of.
+
+It may be recalled that a routine special intensive revision (SIR) of the electoral roll has put crores of Indians into hardship. The legal requirements to remain on the roll were next to impossible for many; in fact the Supreme Court observed that it would be tough even for a judge to procure them at a short notice. It must not be forgotten that the apex court, however, approved the patently unjust exercise which still has several lakh people externed from the roll for no fault of theirs. Reports say the West Bengal government is using the exclusion from the roll as an excuse to delete their names from the list of ration-card holders.
+
+Right wing governments have a penchant for putting ‘citizenship’ on a high pedestal. There are many around who applaud the use of the Immigration and Customs Enforcement (ICE) agency by the Donald Trump administration in the US to target people who do not form part of the national mainstream. That even American Indians have fallen prey to the tactics of the agency has not deterred them. India with crores of people who cannot even prove their right to be on the electoral roll will not be able to withstand such a special intensive revision of it.
+
+The government better employ transparent and inclusive rules that will cover every Indian as an Indian citizen. It should be incumbent on it to provide everyone who has the eligibility to be an Indian citizen with a document should a need be felt for one, and not the other way around. After all, the Constitution was adopted, enacted, and given to ourselves not by “we, the citizens of India”, but by “we, the people of India”.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-an-indian-passport-shows-youre-indian-or-doesnt-itdc-1966485)
+
+---
+
+### DC Edit | Crude Falls: But Where's The Relief?
+*Deccan Chronicle · Editorial*
+
+Nearly four months after the United States and Israel launched unprovoked attacks on Iran, forcing the world, especially India, to scramble for oil and gas, crude oil price has crawled back to the pre-war levels of $73 a barrel. The fall in the crude oil price offers great respite to the general public and the global economy.
+
+Though oil marketing companies (OMCs) did not hike prices initially, they hiked retail prices of domestic LPG cylinder, commercial LPG cylinder, compressed natural gas, petrol and diesel to partially offset the rising crude oil price, which went up to nearly $120 a barrel at the peak of hostility.
+
+Now that the global prices have returned to the pre-war levels, there is a growing demand for the reduction in the prices of petroleum products. However, the OMCs are unlikely to revise prices immediately as they seek to recoup losses that they suffered due to underrecoveries for the last 120 days. Before the prices were hiked, they lost around Rs 1,000 every day, and after the hike, they lost Rs 600 crore a day — taking the aggregate underrecoveries to the tune of around Rs 80,000 crore.
+
+Apart from underrecoveries, the government will have to take into consideration the future oil supply scenario before restoring the fuel price to the pre-war levels. Currently, the fall in crude oil appears to be partially led by a glut in the oil market caused by the opening up of the Strait of Hormuz and the oil that hundreds of ships stuck for weeks are bringing into the market.
+
+Though the peace appears to have returned to the Persian Gulf, some oil and gas facilities could take at least over six months to resume their production. The government, therefore, must continue to be vigilant about the energy market, restore its emergency oil reserves and diversify its oil sources and make moves towards energy independence by promoting non-fossil fuel alternatives.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-crude-falls-but-wheres-the-relief-1966471)
+
+---
+
 ### Dilip Cherian | How Justice Cannot Keep Looking Away From The Case Of Sanjiv Chaturvedi
 *Deccan Chronicle · Opinion*
 
@@ -103,6 +277,108 @@ The appointment also reflects India’s growing stature in global governance. Wh
 There is also a larger...
 
 [Read full article](https://www.deccanchronicle.com/opinion/columnists/dilip-cherian-how-justice-cannot-keep-looking-away-from-the-case-of-sanjiv-chaturvedi-1966275)
+
+---
+
+### OF CABBAGES AND KINGS | As Starmer, Finally, Decides To Go…  Ill Burnham’s Rise Be UK’s Sign Of Hope? | Farrukh Dhondy
+*Deccan Chronicle · Opinion*
+
+“Sleeping dogs never lie
+
+So why do we say ‘let them’?
+
+They never laugh, they never cry
+
+Not even when you pet them…
+
+The horse was proud to win the race
+
+But as it won, it fell
+
+These proverbs have to keep apace
+
+With technology to sell.”
+
+From Silly Cone Sally, by BachchooAfter repeatedly asserting that he won’t jump ship, Prime Minister Sir Keir Starmer had, as is the traditional practice, the lectern set outside the doors of No. 10 Downing Street on Monday. He stood behind it and announced his resignation.
+
+With characteristic dignity he said he had taken note of the opinion of Labour MPs and of his Cabinet and concluded that the honourable course was to go.
+
+The precipitating factor for his decision was the victory of the ex-mayor of Manchester, Andy Burnham, in the byelection in Makerfield. Mr Burnham resigned his mayoralty when Josh Simons, his supporter for the leadership of the Labour Party and consequently the country, stood down to make way for him. Mr Burnham has now entered Parliament as a Labour MP with almost guaranteed support from the majority of Labour MPs to project him into the leadership and thence into No. 10.
+
+Mr Burnham won 55 per cent of the vote of the Makerfield constituency, beating the two far-right parties, Reform and Restore, whose surge in the public polls and victories in the local elections in May is categorically attributable to their “policies” of anti-immigration, deportations, surreptitious anti-Islam, anti-Europe and fervent, one might even say un-British, nationalism.
+
+Mr Burnham’s vote exceeded that of the combined votes of Restore and Reform, which adds an optimistic twist to the country’s decades-long obsession with xenophobia of one sort or the other.
+
+Reform, the “party” led by Nigel Farage, inherited it’s guiding directions from the fact that Mr Farage was one of the main advocates of Brexit, arguing to keep Johnny European out of the UK. (The name Farage means he is the descendant of Huguenot refugees from France!)
+
+After Brexit, Mr Farage joined the Reform Party and formulated its strong anti-immigrant, anti-asylum-seeker and pro-deportation policies.
+
+Yes, the world is divided into rich and poor, relatively peaceful and factionally, ideologically or war-torn territories. People inevitably try and move from the poor to the rich, from the troubled to the relatively peaceful. They perhaps rely on traditions of welcome.
+
+Having watched American films through my teenaged years, I am convinced that the native inhabitants of America weren’t overjoyed when Europeans decided to flood in and claim their lands. These immigrants now claim to be “natives” and now their Orangebooby President and his Make-America-Gaga-Again supporters are anti-immigrant and even impertinently venture to voice support for anti-immigration parties and trends in countries which are none of their fandango-ing business!
+
+I don’t know what Mrs J.D. Vance’s opinions are on immigration and deportation. We do know that she is the daughter of Indian immigrants to the United States and that her husband, the vice-president, supports Orangeboob’s policies, which are stridently for building walls along American borders and expelling people from the country on very feeble grounds.
+
+Then in Britain there is a famous quintet (maybe more) of recent descendants of immigrants, formulating and advocating anti-immigrant and deportation policies. The parents of former Tory office-holders, Priti Patel, Rishi Sunak and Suella Braverman are all immigrants to the UK. So too are the African and West Indian-origin Tories Kwasi Kwarteng and James Cleverly. They all supported a failed Tory policy to deport would-be immigrants and asylum-seekers to Rwanda.
+
+Of these, Suella Braverman has defected from the Tories and joined Nigel Farage’s Reform Party. She was photographed in the newspapers hugging him and declaring that she felt she had “come home”. Where from? Not Rwanda!
+
+Apart from these politicians there are the journalists with the same phobias -- xeno, Islamo, and other “isms”.
+
+A lady called Lionel trilling regularly writes diatribes -- I expect she calls them columns -- against immigrants in a right-wing weekly called the Spectator edited now by the ex-Tory minister Michael Gove. These anti-immigrant diatribes sometimes descend into Islamophobia. This lady is an American and so an immigrant to the UK, though she recently said she has been compelled (by the imagined influx of immigrants?) to move to Portugal. I believe Ms Trilling is also a writer of fiction, though I don’t know her books. Now it has been my firm conviction that writers of fiction should be endowed with a strong sense of irony -- but alas!
+
+There are others with perhaps more justification for being anti-immigrant. One such, in the same publication, is a person called Douglas Murray who is, from his name, Scottish.
+
+Both Ms Trilling and Mr Murray quote in these diatribes the horrific crimes of non-white, or in some cases specifically Muslim,...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/of-cabbages-and-kings-as-starmer-finally-decides-to-go-ill-burnhams-rise-be-uks-sign-of-hope-farrukh-dhondy-1966466)
+
+---
+
+### Shobhaa De | Shaadi Power: Big Fat Weddings Alive & Well
+*Deccan Chronicle · Opinion*
+
+One thing is for sure. Political shaadis are far more challenging than organising a G-7 summit. So much avian activity… baap re baap!
+
+Birds of a feather flock together at a grand venue wondering about the pecking order: will it be enforced strictly by the hosts? Or will kites and eagles flit freely around the ballroom to fake-mingle with kabootars and sparrows? How many fair-weather friends will pose for the paps: hugging, kissing, feet-touching for the benefit of onlookers?
+
+Will the knives be visibly out for rivals daring to display proximity to bigwigs? Who will be neatly stabbed in the back? Ousted? Which luminary will win the Chief Chamcha Award at the function? The brazen opportunist jumping from one camp to the next, pretending to be everybody’s best friend? Or the discreet networker, nudging reticent powerbrokers to meet and greet the next VVIP who was making a grand entrance?
+
+All this and much more was happening at this season’s most watched wedding -- the opulent shaadi of Revati Sule (daughter of Supriya and Sadanand Sule) to Sarang (son of Arun Lakhani). Since it was a large public function attended by thousands, very little can be considered off-limits by attendees: what with dozens of presswallahs swarming around. Such is the inherent nature of political alliances -- nothing can be camouflaged and everything is out there in full public view. But the one thing that was noted and widely commented on in the media was the impressive turnout of political bigwigs who came from a wide spectrum of dramatically divergent ideologies. Why the surprise?
+
+Let’s start with the Big Daddy of them all.
+
+Presiding over the beautifully put together nuptials of his beloved grand-daughter was the stately grand old man of politics himself -- Sharad Pawar, seated on a comfortable sofa, receiving a long line of invitees, nodding and smiling at a few, ignoring most, while his gracious wife Pratibha looked on expressionlessly.
+
+Guests speculated: Will Prime Minister Narendra Modi put in an appearance? Will Melody toffees be distributed? What about the Union home minister, Amit Shah?
+
+That didn’t happen. And as a cynic commented later: “Why would they even bother? They don’t need Sharad Pawar any longer.” This is a totally galat observation. Everybody needs Sharad Pawar. And there are no exceptions.
+
+Others of his age may have retired sensibly and blended into the woodwork. Not Sharad Pawar. He’s right there: destined to outlive rivals and adversaries half his age. God bless him! It’s naïve to underestimate Pawar’s power in India’s constantly shifting political scenario.
+
+Loyalties change faster than soiled bedsheets. But Sharad Pawar goes on, undeterred by the political blows that could destroy a lesser person. He has weathered devastating storms stoically and survived countless political battles. Going forward, no matter how his fragile health holds up, Sharad Pawar will be there: a political force nobody can afford to ignore.
+
+That much was undisputedly evident at the wedding.
+
+People chattered about the presence of RSS supremo Mohan Bhagwat seated near the stage. But why? The groom’s family is from Nagpur. The groom’s father is a seasoned politician with his businesses in Nagpur. Nagpur protects its own.
+
+Ummmm… Rahul Gandhi attended. Significant? Yes and no. But a cute guy in a white tee definitely stands out in a grandiose setting filled with men in Swarovski-studded sherwanis.
+
+But the asli show stoppers were the Paithani saree-clad Vahinis.
+
+Maharashtra loves its feisty vahinis (brother’s wives) -- those amazing, ambitious ladies who don’t allow anything or anyone to stop them from achieving their political goals: not even personal tragedies. Apart from the gorgeously dressed Vahinis, there were lovely young Tais (sisters) in becoming designer lehengas. There was also an army of Bhau-log (brothers) and Dadas (older brothers), but the Bro Code was sadly absent: each one was hustling and jostling solo. Some had brought personal video-graphers as a part of their entourage, and were busy throwing their arms around startled strangers as the cameras whirred to capture every moment.
+
+Good strategy! If the paps and social media ignore your presence -- no worries.
+
+Shoot your own Insta reels with celebrities and circulate them widely.
+
+Back home, gullible, awestruck mandali will be impressed enough to believe you are best friends with Mukesh Ambani, Gautam Adani and many others. Of course, the Poonawalas attended. But where was Lakshmi Mittal? Did anyone spot the Birlas? No? That’s okay. The Delhi crowd was definitely under-represented… No Shobhana? But Kashmir was visible: thanks to Farooq Abdullah.
+
+Musical chairs anyone?
+
+Socio-political gatherings that cross party lines are choreographed with the precision of a Bolshoi ballet. There’s nothing accidental about any of the arrangements. From the seating plan to the entrances and exits of VVIPs, an enormous amount of strategic plotting is at play. Who to avoid! Which...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/shobhaa-de-shaadi-power-big-fat-weddings-alive-well-1966529)
 
 ---
 
