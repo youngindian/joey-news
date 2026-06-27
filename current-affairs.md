@@ -1,3 +1,512 @@
+## 27 June 2026
+
+### Govt notifies 1.03 crore square metres land in South Goa as No Development Zone
+*SECTIONS Govt notifies · general*
+
+Panaji: The Goa government has notified 1.03 crore square metres of ecologically sensitive land in South Goa's Salcete taluka as No Development Zone (NDZ) under the Regional Plan, state Minister Vishwajit Rane has said.
+
+The Town and Country Planning (TCP) minister on Friday said that the notified area comprises salt pans, paddy fields and other environmentally sensitive lands spread across seven villages under Salcete taluka.
+
+  
+
+According to Rane, the largest chunk of the notified land is in Talaulim village, covering 29.13 lakh square metres, followed by Majorda (17.64 lakh square metres), Seraulim (16.81 lakh square metres), Loutolim (16.71 lakh square metres), Utorda (9.92 lakh square metres), Orlim (9.49 lakh square metres) and Calata (4.08 lakh square metres) (total 103.78 lakh square metres).
+
+The decision aimed to strengthen environmental conservation while protecting Goa's fragile ecosystems, he said.
+
+The notification is part of the state government's ongoing exercise to identify and protect environmentally sensitive areas from developmental activities under the Regional Plan.
+
+Earlier this month, the TCP department initiated the process of notifying large stretches of ecologically sensitive land across the coastal state as NDZs, a move aimed at preserving natural landscapes and agricultural heritage.
+
+The latest notification significantly expands the protected area in Salcete, one of Goa's rapidly urbanising talukas.
+
+---
+
+### Germany could revive conscription by mid-2027, senior MP tells AFP
+*ption by mid- · general*
+
+Berlin: Germany is struggling to recruit soldiers and will have to decide by July 2027 at the latest whether to reintroduce compulsory military service, a senior parliamentarian has told AFP.
+
+Faced with a growing threat from Russia and an unpredictable United States, Berlin is looking to revamp its army and has committed to increase its troop strength to at least 260,000 soldiers -- up from the current 185,000 -- by 2035.
+
+  
+
+The government in November introduced a new voluntary military service model, along with compulsory registration for 18-year-old men.
+
+However, between January and May, the scheme resulted in only 530 new recruits -- despite around 300,000 young people being contacted.
+
+If Germany cannot reach its targets through the voluntary system, "we will have to return to conscription", said conservative MP Thomas Roewekamp, chairman of the German parliament's defence committee.
+
+"We must take that decision by July 31 of next year," he said.
+
+**'Serious doubts'**
+
+"In the first half of next year... we will need to have a very fundamental discussion about whether we can achieve the very ambitious growth requirements for active forces and reservists on a voluntary basis," Roewekamp said.
+
+"I still have serious doubts that we can."
+
+Compulsory conscription would not apply to all men who turn 18 in any given year -- estimated to be around 350,000.
+
+Instead, the army would recruit as many new soldiers as it needs to fulfil its annual targets.
+
+"My great concern is the growth in the number of career and contracted soldiers -- because they are the ones who fly the fighter jets, navigate the ships, operate the tanks and man the Patriot air defence systems," Roewekamp said.
+
+Germany has seen several large demonstrations against compulsory military service in recent months.
+
+Roewekamp said he could "understand that there is uncertainty on this issue".
+
+Since compulsory military service was suspended in 2011, "we have not discussed questions of war and peace and the need for defence with the younger generation at all", he said.
+
+"That is why I strongly advocate that we talk with this generation, not just about them," he added, repeating a warning often cited by Berlin that Russia could be ready to attack a NATO country by 2029.
+
+**Rearming Europe**
+
+According to Roewekamp, Russian President Vladimir Putin not only has Ukraine in his sights but liberal Western democracy as a whole.
+
+Europe urgently needs to rearm independently of the United States, he said -- partly because of Trump's plans to reduce troops in Europe, but also because Washington is not able to reliably supply European armies in a context of repeated international crises.
+
+Europe must therefore develop its own military capabilities, based on actual needs rather than on the interests of industrial players, he said -- a nod to the doomed FCAS fighter jet project, which recently fell apart over rivalry between Dassault and Airbus.
+
+"In the past -- this I freely admit -- joint armaments projects were often heavily shaped by national industrial interests, including in Germany," Roewekamp said.
+
+"But I believe that by now all those involved understand that national industrial interests are no longer the right answer."
+
+Roewekamp said he hoped a July 7-8 NATO summit in the Turkish capital Ankara will send a clear message to Putin, after a shift by Trump towards a tougher line against Moscow at a recent G7 summit in France.
+
+"It is now absolutely crucial to once again express our determination to act together. Because I believe one of Putin's war aims is also to attack the unity of the NATO defence alliance," he said.
+
+---
+
+### Quicker Medical Claims For Govt Staff, Pensioners As Centre Raises CGHS Approval Limits
+*Karishma Jain · general*
+
+Claims of up to Rs 50 lakh can now be cleared at senior departmental levels, reducing the need for ministry approval.
+
+[Read full article](https://www.news18.com/india/quicker-medical-claims-for-govt-staff-pensioners-as-centre-raises-cghs-approval-limits-ws-l-10176408.html)
+
+---
+
+### When PM Modi Met Pranab Mukherjee After 2014 Win, The Former President Had Just One Question
+*Meemansa Shekhawat · general*
+
+Sharmistha Mukherjee, daughter of the late former President Pranab Mukherjee, shared an intriguing anecdote as she recalled a conversation between PM Narendra Modi and her father
+
+[Read full article](https://www.news18.com/india/when-pm-modi-met-pranab-mukherjee-after-2014-win-the-former-president-had-just-one-question-ws-l-10176380.html)
+
+---
+
+### Shillong Teer Results Today Live, June 27, 2026: Winning Numbers For All Teer Games
+*Nibandh Vinod · general*
+
+Shillong Teer Result Today: Here's full list of winning numbers for Shillong Teer, Juwai Teer, Khanapara Teer, and more for June 27, 2026.
+
+[Read full article](https://www.news18.com/india/shillong-teer-result-today-june-27-2026-first-and-second-round-lottery-result-check-winning-numbers-full-list-10175290.html)
+
+---
+
+### Telegram Now Key Hub For Drug Advertisements, Myanmar Route Adds To India's Security Worries: NCB
+*Anushka Vats · general*
+
+Myanmar has now replaced Afghanistan as the largest producer of illicit opium, according to the report.
+
+[Read full article](https://www.news18.com/india/telegram-now-key-hub-for-drug-advertisements-myanmar-route-adds-to-indias-security-worries-ncb-ws-el-10176399.html)
+
+---
+
+### Pulling Joe Sacco's book on riots is a joke on publishing, India's freedoms
+*Business Standard · business*
+
+Sacco's 'reporting' is incredibly granular but there are areas where he can be faulted. Don't let this undermine where his true focus is, in showing how local disputes led to riots
+
+[Read full article](https://www.business-standard.com/opinion/columns/pulling-joe-sacco-s-book-on-riots-is-a-joke-on-publishing-india-s-freedoms-126062601262_1.html)
+
+---
+
+### UK man accused of drugging wife, raping her along with 13 others for over 20 years
+*India Today World Desk · general*
+
+## The man, who is in his 60s, has been charged alongside 13 other men, aged between 28 and 73, with drugging his wife and raping her for over 20 years.
+
+The identity of the man, who is in his 60s and from the UK's Greater Manchester, cannot be revealed in order to protect his wife’s anonymity. (Representative image)
+
+A man accused of drugging his wife to rape her along with other men has admitted a string of sexual offences in the United Kingdom. The main defendant is accused of drugging and sexually assaulting his wife over more than two decades and conspiring with other men to abuse her.
+
+The identity of the man, who is in his 60s and from the UK's Greater Manchester, cannot be revealed in order to protect his wife’s anonymity. However, the identities of 13 men charged alongside him have now been made public after a court lifted reporting restrictions in the case.
+
+The man has pleaded guilty to 15 offences, including five counts of rape, three counts of sexual assault, six counts of assault by penetration and one count of sharing intimate images without consent, according to a report in The Guardian. He denies a further 33 charges.
+
+Prosecutors allege that the man repeatedly drugged his wife and sexually assaulted her between 2004 and his arrest last year. They further claim that between 2018 and 2025, he invited other men to sexually assault and rape his wife while she was unconscious.
+
+The 13 co-defendants, aged between 28 and 73, face charges including conspiracy to rape and conspiracy to assault by penetration. Ten of them are also accused of participating directly in sexual offences against the woman, while others allegedly encouraged the abuse online.
+
+Among the accused is 59-year-old technician Keith Fotheringham from Dundee, who has pleaded guilty to assault by penetration, conspiracy to assault by penetration, conspiracy to rape and conspiracy to administer a substance with intent. He has been remanded in custody and will be sentenced at a later date.
+
+The other defendants include a senior paramedic, a football coach, a taxi driver, a recruiter, a former football club chief executive and several other professionals. All have denied the charges against them.
+
+Jonathan Kirk, 43, a senior paramedic from Stockport, who had previously met Prince Harry during the royal's visit to emergency workers in Manchester following the 2011 riots, has denied charges of conspiracy to rape, conspiracy to assault by penetration and rape.
+
+Among the co-accused, 58-year-old taxi driver Philip Wild from Stockport has denied five charges, including conspiracy to rape, conspiracy to assault by penetration, sexual assault, attempted rape and assault by penetration.
+
+Sean Peers, 37, of Stockport, has denied charges of assault by penetration and conspiracy to assault by penetration, while Jordan Wallace, 31, a dog walker from Manchester, has pleaded not guilty to charges of rape, attempted rape and conspiracy to rape.
+
+Alan Keelan, 42, who coached at a junior football club in Manchester until his arrest, has denied one charge of conspiracy to rape and two counts of rape. Robert Stewart, 70, a DJ from Stockport, has also pleaded not guilty to one count of conspiracy to rape and two counts of rape.
+
+Recruiter Mohammed Sabir, 28, has denied charges of conspiracy to rape, conspiracy to assault by penetration and three counts of rape.
+
+Graham Brougham, 73, from Cheshire, who previously performed in a 1970s tribute band and is a member of a walking football team, has pleaded not guilty to conspiracy to rape, conspiracy to assault by penetration and one count of rape.
+
+Richard Townsend, 37, a metal worker from Heywood in Greater Manchester, has denied charges of assault by penetration and conspiracy to assault by penetration.
+
+Meanwhile, Karl Lindsay, 55, from Taunton; David Graves, 59, from Ilkeston in Derbyshire; and Daniel Rayner, 42, from Whitstable in Kent, have all denied three alleged "non-contact" offences: conspiracy to assault by penetration, conspiracy to rape and conspiracy to administer a substance with intent. Lindsay resigned as chief executive of Taunton Town FC following his arrest.
+
+Five of the defendants have been granted bail, while the remainder remain in custody. All of the accused, except Fotheringham, are due to stand trial at Manchester's Minshull Street Crown Court in September.
+
+\- Ends
+
+Shipra Parashar
+
+Jun 27, 2026 09:26 IST
+
+---
+
+### Woman confronts Nikhil Kamath over email he never replied to, what he does next...
+*India Today Trending Desk · general*
+
+## At a live event, a woman asked Zerodha co-founder Nikhil Kamath why he had not replied to her email about his WTF podcast. His response to her confrontation left the audience, as well as the internet, in splits.
+
+Woman confronts Nikhil Kamath over email he never replied to, what he does next... (Photos: @nandinijain04/Instagram)
+
+A woman confronted Zerodha co-founder Nikhil Kamath during a live event over an email she claimed he never replied to, putting him on the spot in front of a packed audience and prompting an unexpected response.
+
+The moment was shared on Instagram by user Nandini and took place during an event featuring Nikhil Kamath and comedian Tanmay Bhatt. During the audience interaction, she explained that she had followed advice about reaching out to people with a clear value proposition but had never heard back from Kamath.
+
+Addressing him directly, she said she had written him an email titled, "WTF can be improved with WTF," referring to his podcast, WTF. She added that the email had been sent on December 9, but she had never received a reply. Holding up her phone, she jokingly pointed out that she even had the email with her before asking what else she could have done.
+
+Kamath immediately apologised, saying it became difficult to read the large volume of emails he receives. However, he added that the suggestion she had just shared was valuable. As the audience laughed, he promised to reply to her email now that she had mentioned it publicly.
+
+Tanmay Bhatt chimed in, joking that bringing it up on stage had been a very convenient way to get a response. Kamath laughed along before confirming that he would personally reply, prompting more laughter from the audience.
+
+Nandini later revealed in the caption that Kamath had stayed true to his word. "Plot twist, he stayed true to his promise and replied," she wrote.
+
+Watch the video here:
+
+The interaction received plenty of comments online. While many appreciated that Kamath acknowledged the missed email instead of brushing it aside, others praised Nandini for confidently calling him out in a light-hearted manner.
+
+Several users also said her persistence paid off, pointing to the caption's revelation that he eventually replied after the interaction.
+
+\- Ends
+
+Yashna Talwar
+
+Jun 27, 2026 09:26 IST
+
+---
+
+### 'Vote Bank Politics': BJP Tears Into Congress After Sonia Gandhi Questions ‘India's Silence’ On Gaza
+*Aanchal Sinha · general*
+
+Poonawalla further accused the Congress of making "cheap vote bank politics" a part of its approach to India's foreign policy.
+
+[Read full article](https://www.news18.com/india/vote-bank-politics-bjp-tears-into-congress-after-sonia-gandhi-questions-indias-silence-on-gaza-ws-l-10176373.html)
+
+---
+
+### 5.4-magnitude earthquake jolts parts of Pakistan, no damage reported
+*India Today News Desk · general*
+
+## A magnitude 5.4 earthquake struck Pakistan on Saturday at a depth of 35 km (22 miles), according to the European-Mediterranean Seismological Centre. There were no immediate reports of casualties or major damage as authorities monitored the situation.
+
+A magnitude 5.4 earthquake struck Pakistan on Saturday, according to the European-Mediterranean Seismological Centre (EMSC).
+
+The earthquake occurred at a depth of 35 kilometres (22 miles), the EMSC said, according to Reuters. Tremors were felt in parts of the country, though there were no immediate reports of casualties or significant damage.
+
+Authorities are monitoring the situation and assessing the impact of the quake.
+
+_This is a developing story. It will be updated._
+
+\- Ends
+
+Zafar Zaidi
+
+Jun 27, 2026 09:13 IST
+
+---
+
+### Kolkata Metro Services On Blue Line Hit After Suicide Attempt At Kalighat Station
+*Shuddhanta Patra · general*
+
+Kolkata Metro Blue Line briefly disrupted after an alleged suicide attempt at Kalighat station.
+
+[Read full article](https://www.news18.com/india/kolkata-metro-services-disrupted-kalighat-station-suicide-attempt-ws-l-10176395.html)
+
+---
+
+### GTA VI pre-orders: PS5 startup screen takeover, release date, price and physical edition explained
+*Trending Desk · business*
+
+PlayStation has launched its biggest console-level promotional campaign for Grand Theft Auto VI (GTA VI) as pre-orders officially opened, marking the first time a single game has taken over the PS5 startup experience and PlayStation App branding.
+
+The promotion coincides with Rockstar Games confirming GTA VI's release date, pricing and physical edition plans. At the same time, new reports have suggested that a traditional disc edition could arrive after launch, while Xbox file listings have fuelled speculation about a standalone GTA Online release.
+
+  
+
+> — PlayStation (@PlayStation)
+
+## **PS5 gets first-ever game startup screen takeover**
+
+Players began spotting the GTA VI startup animation on June 24, 2026, a day before pre-orders opened on June 25. The custom animation prompts users to pre-order the game before loading the PS5 interface and can be dismissed so it does not appear again.
+
+While PlayStation has previously highlighted major releases on the PlayStation Store tab, this is the first time a title has replaced the PS5 welcome screen with a dedicated startup animation. Sony has also updated the PlayStation App icon with GTA VI's purple and pink colour scheme, extending the game's branding across its ecosystem.
+
+## **Rockstar confirms release date and editions**
+
+Rockstar Games has confirmed that GTA VI will launch on November 19, with preloads beginning on November 12.
+
+The Standard Edition is priced at $79.99, while the Ultimate Edition costs $99.99 and includes additional in-game content. Players who purchase the Standard Edition will also have the option to upgrade later.
+
+## **Physical copies to launch with download code**
+
+Rockstar has confirmed that physical launch copies of GTA VI will include a download code instead of a game disc, ending months of speculation about the retail version.
+
+However, Polish media outlet PPE.pl, citing insider Graczdari, reported that the code-in-a-box version will be limited to the initial production run. According to the report, PlayStation 5 and Xbox Series X disc editions are expected to launch in December 2026, potentially ahead of the holiday shopping season.
+
+The report also said Rockstar Support informed a customer that current pre-orders are for the digital version only and that a physical copy will be available for purchase in the coming months.
+
+Rockstar has not officially announced a release date for a disc edition.
+
+## **Xbox listings spark GTA Online speculation**
+
+Separate findings from Xbox file listings have generated speculation about GTA VI's online component.
+
+According to social media creator Synth Potato, who credited GlowDevs, the game's story mode appears as a separate downloadable component alongside optional content, including the Vintage Vice City Pack and Ultimate Edition bonuses.
+
+The file structure has led to speculation that Rockstar could release GTA Online separately from the single-player campaign, similar to previous standalone versions of GTA Online. However, the company has not confirmed the existence, pricing or release timeline of a standalone multiplayer version.
+
+## **PlayStation campaign highlights GTA VI launch**
+
+PlayStation's platform-wide branding campaign and Rockstar's confirmed launch details underscore the scale of GTA VI's release. Meanwhile, reports about a future disc edition and speculation surrounding GTA Online remain unconfirmed developments to watch after the game's launch.
+
+_**Disclaimer:**_ _This article is based on claims, statements, images, videos and other information shared by users on social media platforms. The ET.com has not independently verified the authenticity, accuracy or completeness of these claims unless expressly stated otherwise. The views, allegations and assertions contained in the social media content are those of the respective users and do not reflect the views of The ET.com. The publication bears no responsibility for the accuracy of such claims and readers are advised to exercise their own judgment and seek independent verification where necessary._
+
+---
+
+### Key points from US-Israel-Lebanon agreement
+*SECTIONS Key points · general*
+
+Synopsis
+
+A landmark US-brokered framework aims to end hostilities between Israel and Lebanon, paving the way for lasting peace. The 14-point agreement emphasizes verified disarmament of non-state armed groups, allowing Lebanese forces to regain full control. Israel will redeploy its forces as security is established, with reconstruction efforts to follow. Both nations will form working groups to draft a comprehensive peace accord.
+
+US-Israel-Lebanon agreement
+
+Washington: Washington on Friday released text of a trilateral framework between Israel, Lebanon and the United States aimed at ending hostilities that have been a violent second front of the Middle East war.
+
+The following are highlights of the 14-point agreement signed in the US capital:
+
+  
+  
+
+## 'Lasting peace'
+
+Israel and Lebanon, with US support, "affirm their shared goal of achieving lasting peace and security," the agreement begins.
+
+The neighboring states "declare their intent to conclusively end the conflict, address its underlying causes, and to therewith formally conclude any state of war between them."
+
+  
+
+## 'Verified disarmament'
+
+The framework determines to make "irreversible progress" towards resolving all issues between Israel and Lebanon, while doing so is to be achieved through "direct bilateral talks, with the mediation and support of the United States."
+
+The Lebanese Armed Forces (LAF) "will restore effective sovereignty over all Lebanese territory, pending the verified disarmament of non-state armed groups and dismantlement of associated infrastructure."
+
+This will enable the Israel Defense Forces (IDF) to "progressively redeploy out of the Lebanese territory." The framework will set out the steps and verification mechanisms to advance this process.
+
+## Pilot zones
+
+The LAF will "gradually assume full and effective security responsibility in pilot zones, which will serve as the mechanism for phased and verified redeployments of the IDF and the deployments of the LAF."
+
+Two initial zones have been agreed to by both sides, and future pilot zones will be agreed by mutual consent.
+
+Upon confirmation of the disarmament of non-state armed groups, notably the Iran-backed Hezbollah, the LAF will assume full security responsibility in these zones.
+
+"Internationally supported reconstruction efforts will begin, and Lebanese civilians will be able to safely return to these areas under the exclusive control of Lebanese state authorities," the agreement states. "The United States intends to work closely with both countries to verify and support this process."
+
+## Working groups
+
+Lebanon's government under the deal reaffirms its commitment to restoring full sovereignty over its territory. It will "rebuild the State's monopoly on the use of force, achieve the complete and verified disarmament of all non-state armed groups, and ensure that such groups will have no military or security role and no armed capabilities anywhere in Lebanon."
+
+Lebanon asks for the support of international and particularly Arab partners, under the leadership of the United States, to do this.
+
+Israel and Lebanon also are to establish "working groups to draft the full comprehensive peace and security agreement" between them, the framework says, and "immediately establish complementary tracks of ongoing direct engagement, facilitated by the United States."
+
+## 'No territorial ambitions'
+
+Israel for its part states that its military actions in Lebanon "are solely a consequence of the attacks, threat posed by, and hostile intent of non-state armed groups, particularly Hezbollah."
+
+"Termination of this threat," notably through disarmament of such non-state groups and "additional security arrangements to be agreed upon between the two countries," will eliminate any future necessity for IDF military action or presence in Lebanon, it said.
+
+It also stressed that "the Government of Israel declares that it has no territorial ambitions in Lebanon."
+
+---
+
+### Congress' Shubhankar Sarkar opposes UCC, says 'healthy debate and discourse are essential'
+*ET Online · business*
+
+Congress' Shubhankar Sarkar opposes UCC, says 'healthy debate and discourse are essential'
+
+[Read full article](https://economictimes.indiatimes.com/news/videos/congress-shubhankar-sarkar-opposes-ucc-says-healthy-debate-and-discourse-are-essential/videoshow/132028157.cms)
+
+---
+
+### 3 workers die after inhaling toxic gas while cleaning septic tank at Delhi factory
+*India Today News Desk · general*
+
+## A cleaning job was underway at a printing press factory when one worker entered a septic tank and collapsed after being exposed to poisonous gas. Two others went in one after another to rescue him, but were also overcome by the fumes.
+
+A relative of one of the victims alleged that the factory authorities failed to provide safety equipment.
+
+Three workers died after inhaling poisonous gas while cleaning a septic tank at a factory in Delhi's Mundka industrial area on Friday afternoon, officials said.
+
+The victims were identified as Arun (38), Sandeep (32) and Chand (42), all residents of the Indrajheel area in Sultanpuri area. Their bodies were recovered from the septic tank and sent to Sanjay Gandhi Memorial Hospital in Mangolpuri for post-mortem examination.
+
+According to the Delhi Police, a PCR call was received regarding workers being trapped inside a septic tank at a factory. Police said Marwah Printers had hired a person to clean the septic tank located inside the factory premises. The workers were carrying out the cleaning work when the incident occurred.
+
+During the initial rescue operation, firefighters faced difficulties due to heavy traffic congestion in the Jwala Puri area. An additional fire tender was sent through an alternate route to reach the spot.
+
+Preliminary investigation revealed that one worker entered the septic tank and fell unconscious after being exposed to toxic gas. Two others entered the tank in an attempt to rescue him but were also overcome by the fumes.
+
+Delhi Fire Service personnel managed to pull all three workers out of the tank after a difficult rescue operation. However, they had already died.
+
+"All three bodies have been recovered and shifted to Sanjay Gandhi Memorial Hospital, Mangolpuri, for post-mortem proceedings to ascertain the cause of death. Further, appropriate legal action is being taken under relevant sections of law," Delhi Police said.
+
+Mundka SDM Shiv Singh Meena said authorities visited the site to assess the circumstances surrounding the incident. He said officials found a printing press facility where two septic tanks were present and chemicals were being discharged into them.
+
+"The police have been directed to take immediate action, register an FIR, and proceed with the necessary legal steps," Meena said. He added that the families of the deceased had been assured government assistance.
+
+A relative of one of the victims alleged that the factory authorities failed to provide safety equipment to the workers.
+
+"I went to the scene, but the police didn't let anyone enter. They said that the first person went in, then he was overcome by gas and collapsed inside. Another went to rescue him and also collapsed inside. Then a third went to rescue them and got stuck inside as well. It happened one after another. If we talk about the fault, it lies with the factory owner. They didn't provide any equipment," he said while speaking to _news agency ANI_.
+
+\- Ends
+
+(With inputs from Om Pratap Shukla.)
+
+Sahil Sinha
+
+Jun 27, 2026 09:06 IST
+
+---
+
+### PM Modi's Seychelles visit: Will see greater impetus on defence, security, says Indian High Commissioner
+*Ani · business*
+
+Victoria \[Seychelles\]: Ahead of Prime Minister Narendra Modi's two-day State Visit to Seychelles, Indian High Commissioner to Seychelles Rohit Rathish on Saturday expressed confidence that the visit would give a fresh boost to bilateral cooperation between the two sides, particularly in the areas of defence and security, while further strengthening the longstanding partnership between the two countries.
+
+Speaking to ahead of PM Modi's arrival in the East African island nation, Rathish described the Prime Minister's visit as "a historic milestone" in India-Seychelles relations.
+
+"India and Seychelles enjoy very deep-rooted and historic ties with cultural affinities. We inhabit a shared region and also share the values of democracy and the rule of law. These are the anchors of our bilateral partnership," he said.
+
+  
+
+"With this visit, I think we will see a greater impetus on defence and security," the envoy added, underscoring the significance of the visit in the strategic domain.
+
+Highlighting the historical connection between the two nations, the High Commissioner said their relationship stretches back over two centuries.
+
+"Our destinies have been intertwined for 250 years. The bilateral partnership, the diplomatic relations, are but the latest chapter in this relationship," Rathish said.
+
+He further expressed optimism about the outcomes of the visit, noting that both countries are looking to elevate their cooperation across multiple sectors.
+
+"We look forward to an intense period of bilateral relations, building upon our deep-rooted and historic ties and taking them to new heights," he said.
+
+Rathish also indicated that several development initiatives could be unveiled during the visit.
+
+"We are looking to hopefully inaugurate a few of the projects on both the civilian side as well as on the defence and security aspects as well," he said.
+
+Prime Minister Modi is visiting Seychelles from June 27 to June 29 at the invitation of Seychelles President Patrick Herminie to attend the Golden Jubilee celebrations of the country's National Day as the Guest of Honour.
+
+According to the Ministry of External Affairs (MEA), a contingent of the Indian Armed Forces, along with two Indian Navy ships, will also participate in the National Day celebrations, underlining the close defence and maritime partnership between the two countries.
+
+During the visit, Prime Minister Modi will also hold bilateral talks with President Herminie to review the full spectrum of India-Seychelles cooperation and exchange views on regional and international issues of mutual interest.
+
+He is also scheduled to address the National Assembly of Seychelles and interact with members of the Indian diaspora.
+
+India and Seychelles share a longstanding partnership rooted in historical, cultural and people-to-people ties. As a key maritime neighbour in the Indian Ocean Region, Seychelles occupies a special place in India's Vision MAHASAGAR (Mutual and Holistic Advancement for Security and Growth Across Regions) and New Delhi's commitment to the Global South.
+
+The MEA said the visit is expected to reaffirm the strong and enduring friendship between India and Seychelles while reinforcing the shared commitment of both countries to further deepen bilateral cooperation across diverse sectors.
+
+---
+
+### Will Donald Trump impose 100% tariff on countries charging digital services tax? Could India be affected; Here's what we know
+*Monica Singh · general*
+
+US President Donald Trump has warned of a 100% tariff on imports from countries that impose digital services taxes on American tech firms.
+
+US President Donald Trump on Friday warned that countries imposing a digital services tax on American technology companies could face a 100% tariff on all goods exported to the United States.
+
+## **In a post on his Truth Social platform, Trump wrote:**
+
+"Any Country that imposes such a Tax will immediately be met with a 100% TARIFF on any and all Goods sent to the United States of America."
+
+He also said the new tariff would override any existing trade agreements with those countries, whether the deals have already been implemented or are yet to come into effect.
+
+## **Why is Trump opposing digital services taxes?**
+
+The Trump administration has consistently opposed digital services taxes (DSTs), arguing that they unfairly target major American technology companies such as Alphabet (Google's parent company), Meta Platforms, Amazon and Apple.
+
+Several countries have introduced these taxes to ensure large digital companies pay taxes on revenue earned within their borders, even if they do not have a physical presence there. According to Trump, these taxes discriminate against US businesses and create unfair barriers to American exports.
+
+## **Will India be affected?**
+
+Most likely, no. India has already abolished both components of its Equalisation Levy, popularly known as the "Google Tax," which primarily applied to foreign digital companies.
+
+The levy was introduced in 2016 as a 6% tax on payments made to non-resident companies for providing online advertising services in India. Later, India expanded the levy by introducing a 2% tax on non-resident e-commerce operators.
+
+**However:**
+
+The 2% Equalisation Levy on e-commerce companies was removed through the Finance Act, 2024.  
+The 6% levy on digital advertising services was abolished through the Finance Bill, 2025, effective April 1, 2025.
+
+At the time, government officials said the move was partly aimed at easing trade tensions with the United States. Since India no longer imposes a digital services tax on foreign technology companies, it is unlikely to be affected by Trump's latest warning.
+
+## **Which countries could face the tariff?**
+
+The warning is expected to affect several European Union (EU) countries that continue to impose digital services taxes.
+
+Trump's statement came just a day after EU member states approved a trade agreement with the United States that caps tariffs on most European imports at 15%. However, digital services taxes were not included in the agreement and remain a major point of disagreement.
+
+Countries such as France, Spain, Austria and the United Kingdom have introduced or continue to maintain digital taxes on large technology firms.
+
+## **France is already in Trump's list**
+
+Earlier this month, Trump threatened to impose a 100% tariff on French wine and champagne unless France withdrew its digital services tax. France introduced a 3% digital services tax in 2019, which applies to revenue earned in the country by large technology companies, including Meta, Amazon, Apple and Alphabet.
+
+## **EU responds**
+
+Responding to Trump's latest warning, the European Union said it would defend its interests if the US imposed additional tariffs.
+
+According to news agency AFP, a spokesperson for the European Commission said the bloc would "respond swiftly and decisively to defend its rights and regulatory autonomy." The Office of the US Trade Representative has also warned countries including France, Britain, Austria and Spain in recent years that they could face retaliatory tariffs over digital services taxes.
+
+---
+
+### Kerala Lottery Result Live: Karunya KR-759, June 27, 2026 Winners | News18
+*Nibandh Vinod · general*
+
+Kerala Lottery Result Today: Karunya KR-759 lottery result will be declared today, on Saturday, June 27. Check the live updates and full list of winning numbers from 3 pm.
+
+[Read full article](https://www.news18.com/india/kerala-lottery-result-today-karunya-kr-759-june-27-live-10175267.html)
+
+---
+
+### After Embryo Mix-Up Allegation, Govt Tightens Rules On Sale Of IVF Lab Supplies
+*Karishma Jain · general*
+
+The advisory covers specialised liquids, chemicals and other laboratory supplies used to grow, preserve and handle eggs and embryos during IVF treatment.
+
+[Read full article](https://www.news18.com/india/after-embryo-mix-up-allegation-govt-tightens-rules-on-sale-of-ivf-lab-supplies-ws-l-10176382.html)
+
+
+---
+
 ## 26 June 2026
 
 ### NIA charges 11 over bid to expand terror group's ideology in Bengal, Northeast
