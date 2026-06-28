@@ -1,8 +1,80 @@
 # Editorials
 
-_Last updated: 2026-06-27 05:29 UTC_
+_Last updated: 2026-06-28 05:55 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 28 June 2026
+
+### Defending digital India: Why technology alone will not protect us
+*Deccan Herald · Opinion*
+
+India’s digital transformation has been one of its great public policy successes. Aadhaar, UPI, digital governance platforms and the digitisation of banking, education, healthcare, and commerce have created an ecosystem of unprecedented scale that is now integral to India’s economic and social life. Yet, the very success of this digital revolution has created a new strategic vulnerability.
+
+The World Economic Forum’s Global Risks Report identifies cybersecurity as one of the most immediate and significant risks facing India. Cyber-attacks are no longer isolated incidents; they represent a systemic threat to economic stability, national security, and public trust. India’s digital infrastructure has outpaced the capabilities needed to secure it. The numbers are striking. Industry reports indicate millions of cyber-attack attempts against Indian systems annually, and CERT-In has reported handling large numbers of cyber incidents.
+
+Education, healthcare, manufacturing, financial services, and government institutions have emerged as targets. More concerning is the changing nature of the threat. Cyber-attacks are no longer the work of isolated hackers seeking notoriety. They are increasingly conducted by criminal enterprises, state-sponsored groups, and organised networks. Ransomware groups have evolved into agile, distributed operations capable of attacking entire supply chains.
+
+In an earlier era, a disruption of physical infrastructure required military force. Today, a well-executed cyber operation can potentially disrupt financial transactions, interrupt electricity supply, compromise government databases, or undermine confidence in digital institutions. Cybersecurity has therefore become not merely an IT concern but a matter of national resilience. Just as nations invest in military academies to prepare for conventional threats, they must now invest in cyber academies to prepare for conflicts in the digital domain. The Government of India has recognised the challenge through increased investments, an expanded role for CERT-In, stronger sectoral frameworks, and initiatives such as the Financial Fraud Risk Indicator and the national cyber fraud helpline. These initiatives are necessary and commendable.
+
+However, a critical question that receives insufficient attention is: who will operate, manage, and continuously improve these defensive systems? Technology can be purchased. Human expertise cannot. India today faces a significant shortage of highly skilled cybersecurity professionals. While many institutions offer cybersecurity courses, most focus on theory, compliance or basic network administration. What is urgently needed is advanced, specialised training capable of producing professionals who can operate at the highest levels of cyber defence.
+
+The cybersecurity workforce required by India over the next decade cannot consist solely of security analysts monitoring dashboards. The country needs cyber threat hunters, digital forensics experts, industrial control systems specialists, cloud security architects, cyber intelligence analysts, cryptography experts, and specialists capable of defending critical infrastructure against state-sponsored attacks. Such expertise requires cyber ranges, live attack simulations, advanced laboratories, and collaboration with defence organisations, intelligence agencies, technology companies, and critical infrastructure operators. It also requires continuous upskilling because the threat landscape evolves faster than traditional curricula.
+
+This is where policy must shift from awareness to capability building. What might such a capability-building agenda look like? First, India should establish a National Cyber Workforce Mission on the lines of the Skill India and Digital India initiatives. The objective should be to create a pipeline of cybersecurity professionals at multiple levels: from technicians and SOC analysts to elite cyber operators capable of defending critical infrastructure. The mission should bring together government, industry, universities, defence establishments, and technology firms for training, certification and deployment.
+
+India needs a network of advanced cybersecurity academies equipped with cyber ranges, digital forensics laboratories, malware analysis centres, and simulated critical infrastructure environments. These academies should provide specialised programmes for defence, law enforcement, public-sector, and critical infrastructure personnel. Their purpose should not merely be education but the creation of operational readiness.
+
+Several practical measures can be undertaken immediately. Critical infrastructure operators should be required to conduct annual cyber resilience exercises and independent red-team assessments. Sector-specific Cyber Security Operations Centres should be established for power, healthcare, transportation, and manufacturing.
+
+Universities should introduce interdisciplinary cybersecurity programmes combining computer science, law, public policy, and intelligence studies. A national cyber scholarship programme should support talented students entering specialised fields such as cryptography, digital forensics, and AI security. Structured public-private threat intelligence-sharing mechanisms should be institutionalised to enable faster detection and response to emerging threats.
+
+India’s digital economy is expected to become one of the largest in the world. Our aspirations in AI, semiconductor manufacturing, defence technology, and digital public infrastructure depend on trust in digital systems. That trust cannot be maintained through software alone. The question before India is not whether cyber-attacks will occur, but whether we will possess the institutional capacity and specialised talent required to anticipate, withstand, and recover from them.
+
+India has demonstrated its ability to build world-class digital infrastructure. The next national mission must be to build world-class cyber defenders.
+
+The writer is the former civil servant enjoys traversing the myriad spaces of ideas, thinkers, and books.
+
+Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
+
+[Read full article](https://www.deccanherald.com/opinion/defending-digital-india-why-technology-alone-will-not-protect-us-4054642)
+
+---
+
+### Nothing is delivered
+*Deccan Herald · Opinion*
+
+Bob Dylan’s 1967 song from The Basement Tapes, ‘Nothing Was Delivered’, is a classic American folk parable, falling somewhere between a prophecy and a joke. Someone was promised something. Someone waited. Nothing came. Isn’t that more or less the entire economic, ecological, and psychic condition of Gen Z today?
+
+‘Nothing was delivered/ And I tell this truth to you/ Not out of spite or anger/ But simply because it’s true’.
+
+For those who haven’t yet heard, there is a South Korean website called FoodNeverComes. It looks and behaves exactly like a food-delivery app. You browse dishes, add them to your cart, proceed to checkout, and track a rider as he approaches your doorstep. The familiar theatre of anticipation: the icon moving, the countdown shrinking, the delicious illusion of imminence. But no money is charged. No kitchen is alerted. No food arrives. Nothing gets delivered. That is the point.
+
+Adults are aghast, yet again, at the depths of absurdity that Gen Z turns to. But I disagree completely. I don’t see FoodNeverComes as a fake delivery simulator. I see it as a training module for the future, preparing the young for a world in which the forms of satisfaction remain while the substance disappears. The button remains. The tracking map remains. The dopamine hit remains. What vanishes is the food, the wage, the house, the secure job, the stable climate, the plausible adulthood. Our generation promised them a lot. Nothing will be delivered.
+
+These platforms are called “dopamine sites”, digital spaces that simulate rewarding behaviours without real-world consumption. A fake shopping site lets you fill a cart without buying. A fake smoking-break site lets you take a cigarette break without a cigarette. The apparatus of desire is preserved; the object of desire is removed. This is supposed to be the therapeutic part.
+
+One can see the appeal. A 25-year-old, hungry at 2 am and trying not to waste half a day’s wages on noodles, opens the site, clicks, tracks, waits, and somehow feels relieved. It is pathetic to us adults only if we pretend that the real delivery economy is better. But what is so noble about the “real” version? A hungry worker summons another hungry worker, through an app owned by investors, to deliver overpriced food cooked by underpaid labour, while all parties are algorithmically monitored and none is happy. The real transaction is already a simulation of abundance built on scarcity. FoodNeverComes merely removes the food and, in doing so, accidentally reveals the truth.
+
+‘Now you must provide some answers/ For what you sell has not been received’.
+
+The hunger was never only for food. It was for agency; for the tiny sovereignty of saying: I want this, and therefore I shall have it. As young people lose control over the major architecture of their lives, consumer choice is the last toy kingdom left to them. You may not be able to buy a house, breathe clean air, or retire. But you can choose between biryani, ramen, shawarma, and molten chocolate cake at 1:37 am.
+
+This is why FoodNeverComes feels less like a novelty than a parable. It belongs to a generation that was promised education as mobility; they inherited it as debt. They were promised the internet as liberation; they inherited surveillance, addiction, and the monetisation of hate. They were promised meritocracy; they met entry-level positions demanding three years of experience and gratitude for exploitation.
+
+So, what is Gen Z asked to do? Work harder for jobs that may not exist. Study longer for professions that may be automated. Save in economies designed to extract. Build lives on a planet whose weather is deranged. Stay optimistic while doomscrolling through ecological collapse, war footage, rent inflation, and billionaires discussing Mars as though Earth were an old gf they plan to ghost. Under these circumstances, FoodNeverComes is not escapism, but realism.
+
+Still, there is something oddly hopeful in its absurdity. The joke knows it is a joke. It does not confuse simulation with nourishment. The website states plain and clear what most institutions conceal: “this will not feed you”. The fake app is more truthful than the real economy. It does not take your money. It does not pretend to love you. It says: here is the ritual, here is the craving, here is the little hit, here is the nothing at the end.
+
+‘Nothing was delivered/ But I can’t say I sympathise/ With what your fate is going to be’...
+
+The writer, as Dr Jekyll, is a Professor of Philosophy, Politics and Law, author and editor of over 20 books and counting, and as Mr Hyde, one of India’s top-ranking Ironman triathletes.
+
+Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
+
+[Read full article](https://www.deccanherald.com/opinion/nothing-is-delivered-4054649)
+
+---
 
 ## 27 June 2026
 
@@ -74,6 +146,131 @@ Above all, it requires a resolute and united struggle against policies that enri
 D. Raja is General Secretary, Communist Party of India (CPI)
 
 [Read full article](https://www.thehindu.com/opinion/lead/the-cracks-beneath-the-peddled-story-of-indias-growth/article71151549.ece)
+
+---
+
+### Anita Anand | How More Indians Are Feeling Lonely: Is There Anything That Can Be Done?
+*Deccan Chronicle · Opinion*
+
+Every now and then, we all feel lonely and sad. Why does this happen, and what does it mean for us, as individuals and as a society?
+
+Loneliness is an unpleasant emotional response to perceived or actual isolation, as social pain, and a psychological mechanism that motivates individuals to seek social connections. It can be caused by multiple interrelated factors, including genetic inheritance, cultural influences, a lack of meaningful relationships, a significant loss, an excessive reliance on passive technologies (particularly the Internet in the 21st century), and a self-perpetuating mindset.
+
+Research shows that loneliness is pervasive in society, affecting people in marriages, in other strong relationships, and those with successful careers. Most people experience loneliness at some point in their lives, and some experience it frequently.
+
+In 2018, more than 46,000 volunteers from 237 countries, aged 16 to 99, participated in the BBC Loneliness Experiment, making it the most diverse study in loneliness research at the time. The study found that 40% of people aged 16-24 and 27% of those aged 75 and over reported feeling lonely. Middle-aged people were lonelier than older people, and young people were lonelier than middle-aged people. Men reported loneliness more often than women.
+
+People living in individualistic societies (such as the United States), where individual success is an important life goal, reported more frequent loneliness than those in more collectivistic societies (such as Guatemala), where the needs and goals of a larger group, such as the family, are prioritised over individual success. This effect was stronger among men and older people.
+
+We often think of loneliness as a problem affecting people who live alone, have few friends, or lack social interaction. But a new global study suggests that the reality is far more complex.
+
+Despite a world connected by smartphones, social media, instant messaging, and video calls, millions still struggle with isolation and emotional emptiness.
+
+The 2026 Global Loneliness Study, published by the digital platform JB.com and conducted across 36 countries, ranked countries on parameters such as loneliness, isolation, sadness, and household composition. The worrying finding: some of the most socially connected societies are experiencing significant emotional disconnection.
+
+One such example is India, known for its family-oriented culture, multi-generational households, and strong community traditions, which prides itself on its core belief in family structures. Yet, it ranked as the second loneliest country in the world and scored significantly higher on the loneliness index than typically individualistic Western societies such as Canada.
+
+According to the JB.com study, India recorded a loneliness score of 89 out of 100, trailing Turkey, which topped the list with 100. The report found that nearly 58% of Indians experience loneliness, while 34% of respondents felt isolated. Furthermore, 37% of Indians answered “yes” when asked whether they felt “frequently sad”.
+
+Loneliness and sadness often reinforce each other. People who feel disconnected may experience emotional distress, while those struggling emotionally may find it harder to maintain meaningful relationships. Loneliness is increasingly recognised as a key factor in overall well-being and mental health.
+
+Experts who prepared the report noted that loneliness in India is emotional rather than physical, given that the average family size in the country is at least four people. This raises the question: why is India still so lonely?
+
+The Swiss psychiatrist and psychoanalyst Carl Jung viewed loneliness not as the absence of people, but as the inability to communicate what truly matters to oneself. He emphasised that loneliness arises from emotional disconnection rather than physical isolation. A person can be surrounded by friends, family or colleagues and still feel profoundly alone if they cannot express their inner thoughts, feelings, or beliefs that are important to them, or if those beliefs are not accepted by others.
+
+Over the last three decades, across classes, Indian society has witnessed a gradual shift from the family as the central core of existence to greater individualisation. Young people want to follow their passion rather than live out their parents’ and their family’s expectations. Often economically and emotionally dependent on their parents, they feel responsible for their elders, often at the expense of their own aspirations. This creates a chasm in their personalities.
+
+Additionally, hierarchical and patriarchal family structures do not allow for genuine communication across generations beyond a superficial level. Young and old alike feel judged and withdraw, leading to sadness and loneliness.
+
+Jung believed that healing loneliness involves learning to communicate what matters most.
+
+This requires self-reflection, which means identifying thoughts, feelings, and truths that remain...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/anita-anand-how-more-indians-are-feeling-lonely-is-there-anything-that-can-be-done-1966723)
+
+---
+
+### Manish Tewari | How Close Was Iran To A Nuclear Bomb?
+*Deccan Chronicle · Opinion*
+
+How close was Iran to a nuclear bomb when the US and Israel decided to bomb it in June 2025 and then again February 2026 onwards? Was it yet another red herring like myriad others before this over the course of the United States’ tortured and convoluted history in the Middle East and Israel’s forever wars in the region since 1948?
+
+Alternatively, was it an attempt to nip in the bud, preemptively proscribe, a portentous situation that could have ominously manifested itself in the not-too-distant future?
+
+In a report published on the website scientificamerican.com 11 days after the US-Israel attack, Jeffery Lewis, director of the James Martin Centre for Non-proliferation Studies and a professor at the Middlebury Institute of International Studies, was quoted as saying, “There was no evidence that Iran was close to a nuclear weapon.”
+
+His observations were endorsed by other independent experts. These assessments are broadly in sync with the earlier determination of the International Atomic Energy Agency (IAEA) in June 2025.
+
+These assessments were also concurred by periodic estimates of
+
+US intelligence agencies too, according to open-source reporting on the Iranian Nuclear conundrum.
+
+An IAEA estimate of June 2025 suggested that Iran possessed 441 kilograms of 60 per cent enriched uranium, where the percentage refers to the share of the isotope uranium 235 (U-235) found in the material. That material
+
+could be enough for ten
+
+nuclear weapons if it could
+
+be enriched further to full ninety percent weapons-grade concentrations.
+
+Moreover, a 90% enrichment is easier said than done and even if achieved still does not constitute a “breakout situation” because Iran would have had to secure and enrich the gas to 90% in centrifuges, extract and chemically segregate it back to solid uranium, then cast it into spheres of uranium metal, and finally craft explosive devices around it.
+
+That further enrichment could perhaps have happened in a “matter of weeks” provided Iran had a fully operational nuclear industrial complex which clearly was not the case even back in June 2025 courtesy the stiff sanctions imposed on Iran going all the way back to 1979.
+
+To recap a bit of history, Iran has been pursuing a nuclear quest since 1957 thanks to the Atoms for Peace programme of US President Eisenhower. This was back in the day when Iran was an American ally during the reign of Shah Reza Mohmmad Pahlavi. The Shah was toppled in the 1979 Islamic Revolution and the following year on September 22, 1980, Saddam Hussein-ruled Iraq invaded Iran.
+
+Over the next decade, an entire generation of Iranian strategic thinkers internalised a very vital strategic lesson as the West supplied weapons to Iraq and global organisations including the United Nations turned a Nelson’s eye as Saddam Hussein unleashed chemical and other sophisticated weapons on Iranian troops and civilians.
+
+The learning was that as long as long as Iran lacked nuclear weapons, any dictator in the neighbourhood or a hegemon far away could transgress upon its sovereignty. Thus began Iran’s clandestine march for
+
+nuclear weapons to acquire that strategic autonomy and a credible deterrent .
+
+This is where the Pakistan connection came in. A.Q. Khan, who lorded it over the “Walmart of Nuclear Proliferation” started supplying nuclear material to Pakistan. This Pakistani-Iranian nuclear relationship had the consent and blessings of the then Pakistani military dictator, Gen. Zia-ul-Haq, and his military successors, a fact publicly confirmed by former Iranian President Akbar Hashemi Rafsanjani in 2015.
+
+The Pakistani military, in turn, successfully kept successive civilian governments in the dark about this dynamic. Prime Minister Benazir Bhutto stumbled upon this by chance when Mr Rafsanjani asked her to confirm the agreement between the two countries on “special defence matters” during a visit to Tehran in 1989. By that time scores of Iranian scientists had already been trained in various institutes in Pakistan.
+
+On August 14, 2002, National Council of Resistance of Iran, an umbrella organisation consisting of Iranian dissident groups, made public the location of two nuclear sites that Iran had ostensibly concealed from the IAEA, thereby triggering a perennial endeavour to cap Iranian nuclear capability. The current round is the latest episode in that saga.
+
+However, it still does not provide an answer to the question posed earlier: Exactly how many screw turns and months or years away is/was Iran from a usable nuclear device capable of being delivered from a plane or mated to a missile delivery system?
+
+This question becomes all the more germane because of another red herring that became the cause celebre for the 2003 American Invasion of Iraq. On September 12, 2002, the then US President George W. Bush told the United Nations General Assembly (UNGA) to cull Iraq’s decade of defiance to UN demands. On February 5, 2003, US secretary of state Colin Powell briefed the...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/manish-tewari-how-close-was-iran-to-a-nuclear-bomb-1966737)
+
+---
+
+### Ranjona Banerji | 27, Don’t Be Scared Of 70!
+*Deccan Chronicle · Opinion*
+
+“Can you imagine us years from today/Sharing a park bench quietly?/How terribly strange to be 70.” Paul Simon and Art Garfunkel’s album Bookends, which contains the song ‘Old Friends’, was released in 1968. They were 27 at the time. At 27, anything above 40 seems terribly strange and old. That’s the age of your grandparents.
+
+Which is why these old friends are sitting on park benches, surrounded by flying newspapers, dust, sunset and a city trembling all around but far away from them.
+
+That’s how much things have changed from 1968.
+
+At 70 today, you might still be working, in some form or manner. You probably ought to be doing something, not just believing rubbish on the Internet and forwarded to your phone. If so many of the global politicians who rule our lives and make us miserable can be over 70, no reason for the average citizen not to be out and about as well. Not making everyone miserable, obviously. There are better things to do.
+
+The first is to break the old mould of the old person. The knitting grandma, soft and cuddly. The pipe-smoking grandpa, gruff but find. Across cultures there are variations of this trope. Which used to be sort of true at some point in time. But today’s 70-year-olds are the Internet generation. Tim Berners-Lee who invented the World Wide Web is 71. Today, anyone with a smartphone, regardless of their age, uses the Internet.
+
+But this is not a lecture. I should start where I wanted to start. With a story. A story about how you can rediscover friends, as you grow older and as your life settles down to new routines. So many, caught in the large net of life, family, work, obligations, lose touch with those first friends who saw you through your early days. Who knew your first grazed knee and wiped the tears caused by first crush. Old friends, in fact.
+
+There are so many stories of how old school friends have found each other, often through social media platforms. And it happened a bit like that for me as well. Some of us met after years, since we left school over 40 years ago. And for some of us, it was like we had never been apart. We picked up where we left off. Gathering threads, retelling stories, laughing uncontrollably and sharing the life we had lived in the interim.
+
+There is a comfort like no other in old friends. They’ve seen you shine and at your most vulnerable. There is the mutual contempt for the bad teachers, and the recounting of all the crazy things teachers did to us and we did to them. No one else can understand those tales and there’re not half as funny without context and the feeling of being there.
+
+Some of us travel together, a perk of growing older and being free of responsibility. It’s wonderful the way we all find our levels. A massive plan of endless sightseeing sounds exciting when you make and frighteningly tiring as you get closer to setting your alarm for some unearthly hour. Not all grandmas like to wake up at the crack of dawn any more. Maybe they never did and just had to be forced to conform to stereotypes. Mine hated waking up early, actually.
+
+So as the thrill of ancient architecture wanes and one fantastic sculpture starts to merge into every other, you offset the history lesson with a little retail therapy. Suddenly, no one’s that tired anymore and even the person who swore they’d never buy anything has succumbed. A busy day turns into a long evening of food and conversation. Comforting and sustaining, till you have to get back to the real world.
+
+If you’ve not yet remade these old connections, don’t leave it too late. Although, on the other hand, my late father, when he was in his 80s, reconnected with friends from his bachelor days, when they had all started working and used to share rooms and chummeries. The gales of laughter as they looked back on the vagaries of youth were enough to thrill even the stoniest heart. So, maybe any time is a good time.
+
+Let’s not forget new old friends, who seem like you’ve known them all your life. These too add to the spice of your life and you can give two hoots to anyone who thinks you’re too old to have fun. That’s another form of comfort, where you just fit into the crannies and edges of each other’s life. And make new discoveries about each other and yourselves, without the burden of old encrusted preconceived notions.
+
+I do have one friend though, my closest, and she’s not given to large group outings and hectic holidays. We planned together our old age as bookends, sitting on our park bench like the song says. The trouble was when we embarked upon it some 15 years ago, we laughed at the older people in the park until we realised they were all younger than us. It was an eye-opener even though we laughed even more. Judgmental of us it was, because our dress sense had not yet matched our age. Even if our hair and wrinkles gave us away!
+
+So maybe she and I will find ourselves “silently sharing the same fears”. Although neither she nor I are very silent. And while 70 is not that far away...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/ranjona-banerji-27-dont-be-scared-of-70-1966730)
 
 ---
 
