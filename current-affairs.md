@@ -1,3 +1,557 @@
+## 28 June 2026
+
+### What Happened At Lohagad Fort? Police Recreate Ketan Agarwal Murder Scene With Siya And Chetan
+*Anushka Vats · general*
+
+Ketan Agarwal Murder Case: The access to the fort has been temporarily restricted during the exercise, with tourists and other visitors not being allowed.
+
+[Read full article](https://www.news18.com/india/what-happened-at-lohagad-fort-police-recreate-ketan-agarwal-murder-scene-with-siya-chetan-ws-l-10177904.html)
+
+---
+
+### 7 India-Bound Cargo Ships Cross Hormuz In Past 3 Days; Over 10 More In Queue
+*Aanchal Sinha · general*
+
+Among them, the India-flagged bulk carrier APJ Priti 2 crossed the Strait of Hormuz on Saturday carrying 65,000 tonnes of fertilisers.
+
+[Read full article](https://www.news18.com/india/7-india-bound-cargo-ships-cross-hormuz-in-past-3-days-over-10-more-in-queue-ws-l-10177894.html)
+
+---
+
+### Good girls, bad health: The hidden cost of ADHD in India
+*Daphne Clarance · general*
+
+## Girls diagnosed with ADHD in childhood face higher long-term health risks as adults. But many of them, unfortunately, are never diagnosed early because they present symptoms very different from boys. In short, the "good girl" behaviour masks one of the most common neurodivergent people.
+
+The study found that women with childhood ADHD were more likely to develop several long-term health conditions later in life. (Photo: Getty Images)
+
+She sits quietly in class, hands in her homework on time and rarely gets into trouble. Teachers praise her for being attentive, while parents describe her as the "good girl."
+
+Unlike the stereotypical image of ADHD as a condition marked by hyperactive, disruptive boys, girls often experience the disorder differently. Their struggles are quieter, internalised and easier to overlook, delaying diagnosis until adolescence or even adulthood.
+
+ADHD is one of the most common neurodevelopmental conditions, making those affected part of the neurodivergent population, a term used for people whose brains process information differently from what is considered typical.
+
+A new study has found that girls diagnosed with ADHD in childhood are at a higher risk of developing multiple long-term physical and mental health conditions as adults, especially if they also grow up in socioeconomically disadvantaged households.
+
+Unlike the stereotypical image of ADHD as a condition marked by hyperactive, disruptive boys, girls often experience the disorder differently. (Photo: Getty Images)
+
+The findings suggest that ADHD in girls is not simply a childhood learning difficulty but a lifelong health issue that requires earlier diagnosis and more comprehensive care.
+
+Researchers say girls with ADHD from disadvantaged backgrounds should be considered a high-risk group for long-term health complications. They also argue that public health policies should address both neurodevelopmental disorders and social disadvantage together rather than treating them as separate issues.
+
+### WHY GIRLS ARE OVERLOOKED IN ADHD DIAGNOSIS
+
+For decades, ADHD has largely been associated with hyperactive boys who struggle to sit still or frequently interrupt in class. Girls, however, present differently.
+
+"When we think about ADHD, many of us picture a restless boy who can't sit still in class. But girls with ADHD frequently don't fit that familiar picture at all," said Dr. Kersi Chavda, Consultant Psychiatrist at P. D. Hinduja Hospital and Medical Research Centre.
+
+"Many of them are quiet, conscientious and eager to please. They're the ones sitting attentively at their desks, handing in their homework, trying their absolute best, and no one suspects a thing. They often mask their difficulties by working much harder than their peers, so their struggles remain hidden," he explained.
+
+Girls with ADHD frequently don't fit that familiar picture at all. They are struggling to understand concepts, are very quiet and eager to please. (Photo: Getty Images)
+
+Instead of being disruptive, many girls internalise their difficulties. They daydream, lose focus, forget instructions or spend far longer completing simple tasks, but because they are well-behaved, these signs are usually mistaken for personality traits rather than symptoms of ADHD.
+
+### THE INVISIBLE BURDEN
+
+Constantly trying to hide ADHD symptoms comes at a cost.
+
+Many girls develop coping strategies to avoid criticism or disappointing others. They become perfectionists, over-prepare for assignments and suppress their struggles until they are emotionally exhausted.
+
+Over time, this constant effort can affect both mental and physical health.
+
+The study found that women with childhood ADHD were more likely to develop several long-term health conditions later in life.
+
+While the research does not establish a direct cause-and-effect relationship, it highlights how untreated ADHD combined with social disadvantage can shape health across the lifespan.
+
+ADHD in the long run can translate to physical health problems. (Photo: Getty Images)
+
+Dr. Chavda said the emotional impact begins much earlier.
+
+"Many girls with undiagnosed ADHD grow up believing they're lazy, careless or not good enough. This increases the risk of anxiety, depression, low self-worth, burnout, sleep problems, eating disorders and, in some cases, substance misuse," he said.
+
+"They constantly feel they are not 'good enough' and see their peers managing to produce greater output with much less effort," he added.
+
+Researchers believe earlier diagnosis and integrated care could help reduce these long-term risks. They also recommend future studies to examine whether ADHD treatment, including stimulant medication, influences lifelong health outcomes and how sex-sensitive interventions can improve quality of life.
+
+### LOOKING BEYOND GRADES
+
+Good academic performance should never rule out ADHD.
+
+Many girls achieve high grades, but only by putting in extraordinary effort that often goes unnoticed.
+
+"Parents often tell me, 'But she's doing well in school.' My response is, 'What does it cost her to do well?'" Dr. Chavda said.
+
+"If she's coming home exhausted, melting down over small things, taking far longer than expected to finish homework or constantly losing track of her belongings, those are clues that deserve attention, not dismissal."
+
+Undiagnosed ADHD increases the risk of anxiety, depression, low self-worth, burnout, sleep problems, eating disorders and, in some cases, substance misuse. (Photo: Getty Images)
+
+He also pointed to another common warning sign that often goes unnoticed: relentless self-criticism.
+
+"I see loads of relentless self-criticism, which is sometimes almost frightening. They feel they are just never 'good enough'," he said.
+
+Researchers say future work should explore how early, sex-sensitive interventions can interrupt the combined effects of ADHD and social disadvantage across the life course.
+
+They also call for studies in different countries and healthcare systems to better understand whether these patterns hold true globally.
+
+For parents, teachers and doctors, consider this: the quiet, compliant girl in the classroom may not be coping as well as she appears.
+
+Looking beyond the label of the "good girl" could mean recognising ADHD early enough to change the course of her health and wellbeing.
+
+\- Ends
+
+Daphne Clarance
+
+Jun 28, 2026 10:00 IST
+
+---
+
+### Rajasthan horror: Girl, 13, sold to hotel owner, raped by 30 men over 5 days
+*India Today News Desk · general*
+
+A 13-year-old girl was allegedly raped by more than 30 men over five days in Rajasthan's Sri Ganganagar. The purported instances of sexual assault are said to have taken place in several hotels.
+
+According to the FIR filed by the police, the survivor's ordeal began after she went missing from her home and was subsequently sold to a hotel owner by a rickshaw puller.
+
+Several other hotel operators are also accused of being involved in the alleged sexual exploitation of the minor. An attempt was allegedly made to suppress the criminal episode.
+
+A number of hotel owners and managers have been arrested in connection with the case. The teenage girl was forced to consume alcohol whenever she experienced pain from the repeated instances of rape, she has claimed in the FIR.
+
+The alleged incident has sparked a wave of outrage across the district. Even though it is not a popular tourist destination, there are more than 150 illegal hotels operating in Sri Ganganagar. The incident has resulted in demands to shut down such establishments.
+
+The Congress staged a protest, demanding strict action against all the accused, including the rickshaw puller and the hotel operators.
+
+Congress MLA from Karanpur, Rupinder Singh Kunnar, participated in the demonstration, saying that the culprits should be given capital punishment.
+
+The opposition party has warned the administration that a broader agitation will be launched to ensure justice if immediate action is not taken in the case.
+
+It has also demanded the suspension of officials of the concerned police station. Kunnar said that the alleged incident exposed the failure of the local police and administration.
+
+\- Ends
+
+(Based on inputs from Harnek Singh)
+
+Jun 28, 2026 09:58 IST
+
+---
+
+### Kunal Shah's Message To Reel-Obsessed Youth On Wealth Creation Goes Viral
+*Varun Yadav · business*
+
+After Meta invests 900 million in CRED and names Kunal Shah global head of WhatsApp, his old video on wealth, productivity and short form content use sparks online debate
+
+[Read full article](https://www.news18.com/business/economy/kunal-shahs-message-to-reel-obsessed-youth-on-wealth-creation-goes-viral-ws-l-10177911.html)
+
+---
+
+### Demon Slayer Infinity Castle streaming date: Is the anime film arriving on OTT on July 29? Latest update revealed
+*Unknown · business*
+
+Fans eagerly waiting for _Demon Slayer: Kimetsu no Yaiba – The Movie: Infinity Castle_ may have to wait a little longer, as the reported July 29 OTT release date has not been officially confirmed.
+
+According to IGN, Prime Video Canada has clarified that the first film in the _Demon Slayer Infinity Castle_ trilogy will arrive on the streaming platform at a later date. The statement effectively dismisses ongoing speculation that the movie would begin streaming on July 29, with no official digital release date announced so far.
+
+The clarification comes after reports suggested that the film's Blu-ray and DVD release date had been finalized, leading many fans to believe that an OTT release could follow shortly afterward.
+
+  
+
+Meanwhile, anime enthusiasts are also looking ahead to July 3, when the creators are expected to share fresh details about the second installment of the _Demon Slayer Infinity Castle_ trilogy.
+
+## All about Demon Slayer: Kimetsu no Yaiba – The Movie: Infinity Castle
+
+_Demon Slayer: Kimetsu no Yaiba – The Movie: Infinity Castle_ is a dark fantasy action anime based on the popular _Infinity Castle_ arc from Koyoharu Gotouge's best-selling manga series. Serving as the first chapter of the franchise's final trilogy following _To the Hashira Training_ (2024), the film takes the story into its most intense phase yet.
+
+The movie follows the Demon Slayer Corps after they are drawn into the mysterious Infinity Castle by the powerful demon Muzan Kibutsuji. Trapped within the ever-shifting fortress, Tanjiro and the Hashira must battle deadly Upper Rank demons while searching for their ultimate enemy.
+
+Originally released in theatres in July 2025, the film completed its theatrical run on April 9, 2026. While it enjoyed significant commercial success, it fell short of surpassing Demon Slayer: Kimetsu no Yaiba – The Movie: Mugen Train, which remains the highest-grossing anime film of all time.
+
+_Infinity Castle_ ended its run with an impressive $271.1 million (¥40.21 billion) at the Japanese box office and attracted more than 27.4 million admissions, cementing its place among the country's most successful anime releases.
+
+The story centers on Tanjiro Kamado, a young swordsman who joins the Demon Slayer Corps after demons slaughter his family. His mission becomes even more personal when his sister, Nezuko Kamado, survives the attack but is transformed into a demon.
+
+As the opening chapter of the franchise's final battle, _Infinity Castle_ sets the stage for the climactic showdown between the Demon Slayer Corps and Muzan. The film combines large-scale action sequences, emotional storytelling, and stunning animation as Tanjiro, Nezuko, and the Hashira venture deep into the dangerous Infinity Castle.
+
+For those looking to catch up on the story before the trilogy continues, previous seasons of _Demon Slayer: Kimetsu no Yaiba_ are currently available on Netflix, Amazon Prime Video, and JioHotstar.
+
+---
+
+### Kailash Vijayvargiya Says RSS Needs 'Good Human Beings', Triggers Political Row
+*Vani Mehrotra · general*
+
+Kailash Vijayvargiya said the RSS must introspect as organisational growth means little without people of integrity, prompting sharp political reactions from the Congress.
+
+[Read full article](https://www.news18.com/india/kailash-vijayvargiya-rss-remarks-good-human-beings-scarcity-ws-l-10177891.html)
+
+---
+
+### NEET UG 2026 result date and time: Check expected release date, how to download scorecard, official websites and latest NTA update
+*Trending Desk · business*
+
+The National Testing Agency (NTA) is expected to announce the NEET UG 2026 result after completing the answer key challenge process for both the main examination and the Re-NEET examination held on June 21, 2026. Candidates are awaiting the release of the scorecard, All India Rank (AIR), merit list, cut-off marks, and counselling schedule.
+
+However, NTA has not announced the official date and time for the declaration of the NEET UG 2026 result. The agency will publish the results only after processing the provisional answer key, OMR response sheets, objections submitted by candidates, and the final answer key.
+
+  
+
+## NEET UG 2026 result date
+
+NTA has not issued any official notification regarding the NEET UG 2026 result date. Candidates are advised to rely only on the official NEET and NTA websites for verified updates.
+
+  
+
+Based on previous years' trends, the NEET UG result is generally declared 30 to 40 days after the examination. Since the Re-NEET UG 2026 examination was conducted on June 21, 2026, the result is expected to be announced sometime in July 2026. The official date for downloading the Re-NEET 2026 scorecard will be announced by NTA.
+
+## NEET UG 2026 answer key latest update
+
+The National Testing Agency conducted the Re-NEET UG 2026 examination on June 21, 2026, from 2:00 pm to 5:15 pm (IST).
+
+NTA has uploaded the question papers for all four sets on its official website. It also released the provisional answer key for paper codes 50, 60, 70, and 80 on June 25, 2026. Candidates can raise objections against the provisional answer key during the challenge window.
+
+Unofficial answer keys prepared by Physics Wallah are also available. According to the analysis, Physics was the toughest section, while Biology was largely based on NCERT.
+
+## How to download the Re-NEET UG 2026 result
+
+Once the result is declared, candidates can follow these steps to download their scorecard:
+
+Step 1: Visit the official NEET UG website.
+
+Step 2: Click on the "NEET UG 2026 Re-Exam Result" link available on the homepage.
+
+Step 3: Enter the application number, date of birth, and security pin, if required.
+
+Step 4: Click on the Submit button.
+
+Step 5: The Re-NEET UG 2026 result and scorecard will be displayed on the screen.
+
+Step 6: Download the scorecard and take a printout for future admission and counselling purposes.
+
+Candidates should keep their application number, date of birth, and password ready to access the scorecard immediately after the result is announced.
+
+## Documents to keep after downloading the scorecard
+
+Candidates are advised to save both digital and printed copies of the NEET UG 2026 scorecard. These documents may be required during counselling registration, document verification, and admission procedures.
+
+## Official websites to check NEET UG 2026 result
+
+Candidates can check the NEET UG 2026 result only through the official portals:
+
+-   neet.nta.nic.in  
+    
+-   nta.ac.in  
+    
+
+Students should use only the official websites to avoid misinformation and fake links.
+
+---
+
+### UK: 25-year-old Indian student from Telangana found dead in London; probe underway
+*Monica Singh · general*
+
+## UK: 25-year-old Indian student from Telangana found dead in London; probe underway
+
+A 25-year-old Telangana student, S. Srinath Reddy, was found dead in his London room on June 23 while pursuing higher studies. His family has sought a thorough investigation, questioned the circumstances surrounding his death
+
+A 25-year-old student from Telangana, who had travelled to the United Kingdom for higher studies last year, was found dead in his room in London on June 23. His family has appealed to the Centre and the Telangana government for assistance in bringing his body back to India and seeking clarity on the circumstances surrounding his death.
+
+The deceased has been identified as S. Srinath Reddy, a resident of Talamadla village in Tadvai mandal of Kamareddy district.
+
+## **Student had been pursuing higher studies in London**
+
+Srinath Reddy had moved to London around 14 months ago to pursue higher education. His father, Madhusudhan Reddy, said the family is devastated and has not yet received complete information about what led to their son's death.
+
+The family has requested the Indian and Telangana governments to coordinate with British authorities to expedite the repatriation of the body and ensure a thorough investigation into the incident.
+
+## **Family recalls last conversation**
+
+According to the family, Srinath attended a friend's birthday party on the night of June 22. His father said he spoke to him over the phone later that evening and that Srinath sounded cheerful and normal during the conversation. The family said there was nothing to suggest that anything was wrong.
+
+## **Roommate found him dead, family raises questions**
+
+A relative of the family, whose son also lives in London, said Srinath's roommate found him dead in his room on the morning of June 23.
+
+According to the relative, the roommate told the family that Srinath had allegedly died by hanging. However, this has not been officially confirmed by authorities.
+
+The relative further claimed that the roommate did not immediately inform Srinath's friends about the incident. The family says the alleged delay has raised several questions and is seeking a detailed investigation into the circumstances surrounding the death.
+
+## **Police investigation underway**
+
+London police have registered a case and launched an investigation into the incident. Authorities have not yet announced the official cause of death. Meanwhile, Srinath's sudden death has left his family and residents of Talamadla village in deep mourning as they await answers and the return of his mortal remains.
+
+---
+
+### Breaking News Live: Police raid homes of accused in Ayodhya Ram Temple embezzlement case, recover Rs 79.85 lakh - The Economic Times
+*Economic Times · business*
+
+28 Jun 2026 | 10:13:25 AM IST
+
+Synopsis
+
+Police today raided the homes of eight accused in the Ayodhya Ram Temple embezzlement case and recovered Rs 79.85 lakh.
+
+The Ram Mandir donation case refers to an ongoing investigation into the alleged misappropriation of donations made by devotees to the Ram Temple in Ayodhya. The controversy surfaced after discrepancies were found in the handling of cash and valuables donated at the temple. The Shri Ram Janmabhoomi Teerth Kshetra Trust sought a probe, following which the Uttar Pradesh government constituted an SIT.
+
+Based on the SIT's preliminary findings, an FIR was registered against eight people, including staff responsible for handling and counting donations. They face allegations of criminal breach of trust and embezzlement of temple donations.
+
+Amid the controversy, Trust General Secretary Champat Rai and trustee Anil Mishra stepped down, taking moral responsibility.
+
+The case has triggered political reactions, with Opposition parties demanding greater transparency and, in some cases, a Supreme Court-monitored investigation, while the Uttar Pradesh government has maintained that the allegations are being investigated through due legal process.
+
+## Trump calls new book 'largely fiction' in Truth Social post
+
+US President Donald J. Trump posted on Truth Social: "Based on a very quick and boring briefing concerning the Margot Hagerman book about me, it is mostly made up, Fake News, largely fiction, as have been most of the things she has written about me for so many years. She is a third rate writer and intellect, who has made a first rate income because of your favorite President, ME. She was wrong about me on the Elections, although she knew I was going to win, BIG! She was wrong about me on the Russia, Russia, Russia Hoax, and she was wrong about me on just about everything else. But she continues to spew out garbage, and people continue to buy it. REMEMBER, I WON THE ELECTION, BIG - ALL SEVEN SWING STATES, THE POPULAR VOTE, 86% of the Counties… And they don’t have the audio tapes that they imply they have. Just another Margot Con Job! And Iran will never have a Nuclear Weapon!!!"
+
+### Waaree Energies says US probe found no Chinese cells in exported solar panels
+
+-   **Waaree Energies: US investigation did not find company exported solar panels made with Chinese cells**
+-   **Waaree Energies: US investigation was limited to a narrow subset of certain historical import entries**
+-   **Waaree Energies: US business operating normally; no impact on manufacturing or deliveries​**
+
+### Waaree Energies: U.S. investigation did not find co exported solar panel made with Chinese cells
+
+### Police raid homes of accused in Ayodhya Ram Temple embezzlement case, recover Rs 79.85 lakh
+
+### Tamil Nadu: Last rites of popular actor and director K. Bhagyaraj to begin shortly from his residence in Chennai.
+
+He passed away yesterday.
+
+### A Bailey Bridge over Phee Khola at Phidang in Dzongu, North Sikkim, was completely washed away on Saturday night following heavy rainfall, cutting off the Phidang–Sankalang route. The incident has disrupted road connectivity in the area.
+
+### Mann ki baat programme of this month at 11 AM today.
+
+### Lucknow: Massive fire broke out at Himalayan Cold Storage in the Chinhat police station area. Efforts to douse the fire are underway.
+
+### Ketan Agarwal Murder Case
+
+Pune Rural Police took both accused, Siya and Chetan, to Lohagad Fort for investigation and to recreate the crime scene: Pune Rural Police officials
+
+---
+
+### Pakistan hikes petroleum levy on petrol, diesel; keeps retail prices unchanged
+*Ani · business*
+
+Islamabad: The Pakistan government on Saturday increased the petroleum levy on petrol and high-speed diesel (HSD) while leaving retail fuel prices unchanged for another week, despite a decline in international oil prices, The Express Tribune reported.
+
+According to The Express Tribune, citing figures released by Pakistan's Petroleum Division, the petroleum levy on high-speed diesel (HSD) has been raised by PKR 6.57 per litre to PKR 79.54 per litre, while the levy on petrol has been increased by 39 paisa per litre to PKR 66.64 per litre.
+
+The petroleum levy on kerosene oil remains unchanged at PKR 20.36 per litre.
+
+  
+
+The latest revision comes after the government decided not to pass on the benefit of lower global oil prices to consumers, opting instead to maintain petrol and diesel prices at existing levels for the coming week.
+
+However, the Pakistgovernment has reduced the price of kerosene oil by PKR 6.85 per litre. According to a notification issued by Pakistan's Oil and Gas Regulatory Authority (OGRA), the new price of kerosene has been fixed at PKR 227.05 per litre, down from PKR 233.90 per litre, as reported by The Express Tribune.
+
+Officials in the country's Petroleum Division said the increase in the petroleum levy applies only to petrol and high-speed diesel, while the levy on kerosene has not been revised.
+
+The latest changes mean consumers will continue paying the same retail prices for petrol and diesel, even as the government's revenue from the petroleum levy on the two fuels has increased.
+
+In a separate revision, the Pakistani government also cut the price of commercial aviation jet fuel by PKR 7.15 per litre, bringing the new rate down to PKR 231.72 per litre, The Express Tribune reported.
+
+Notably, on Thursday, oil prices saw a massive drop to pre-war levels after an agreement was reached between the US and Iran to end the hostilities in West Asia and also the opening of the strategic Strait of Hormuz, with Brent crude slipping to USD 72/barrel.
+
+The decline comes after a sharp 4 per cent fall in the previous session on that day, bringing Brent back to its closing level seen before the US-Iran conflict began.
+
+Furthermore, a clear sign of easing tensions has been the exit of stranded tankers from the strait following an initial accord to end the conflict, easing supply concerns after months of disruptions.
+
+---
+
+### Union Minsiter Sonowal inaugurates Goa's new Captain of Ports Terminal building, announces phase-I priority for Goa water metro
+*Unknown · general*
+
+Panaji: Union Minister of Ports, Shipping and Waterways (MoPSW) Sarbananda Sonowal, in Panaji, inaugurated Goa's new Captain of Ports Terminal Building, a Rs 48.87 crore waterfront facility designed to strengthen maritime administration, improve vessel monitoring and navigation, and support the state's vision of sustainable maritime development.
+
+The release issued on Saturday stated that the G+3 building, developed by the Goa State Infrastructure Development Corporation (GSIDC), spans more than 4,405 square metres and replaces the existing Captain of Ports office, which had become inadequate for the department's growing operational requirements.
+
+  
+
+Inspired by the form of a ship docked along the riverbank, the new terminal overlooks the Mandovi River and has been designed to serve as both an administrative hub and a landmark celebrating Goa's maritime heritage.
+
+The inauguration was attended by Goa Chief Minister Pramod Sawant, Union Minister of State for Power and New & Renewable Energy Shripad Naik, Goa Minister for Captain of Ports, Digambar Kamat, Goa Minister for River Navigation Subhash Phal Dessai, Members of Parliament, Members of the Legislative Assembly, senior government officials and representatives of the maritime sector.
+
+Speaking on the occasion, Sarbananda Sonowal said the new facility represents far more than a government building. "Today, we are dedicating much more than a building. We are dedicating a symbol of Goa's maritime identity, its commitment to modernisation and its vision for a sustainable and people-centric future."
+
+The new terminal has been built on a pile foundation using a composite steel-and-reinforced-concrete structure to enhance durability along the riverfront. Besides housing the Captain of Ports Department, the building includes modern passenger facilities, a double-height public lobby, conference facilities, marine and hydrographic offices, navigational control infrastructure, a radio communications centre and public amenities.
+
+A rooftop amphitheatre with a seating capacity of about 450, an indoor restaurant and an open terrace have also been incorporated, enabling the facility to host public and maritime events while creating additional revenue opportunities for the department.
+
+Highlighting the transformation of India's maritime sector over the past twelve years under Prime Minister Narendra Modi, Sonowal said the country's ports have nearly doubled their capacity while vessel turnaround time has been reduced from 95 hours to 41 hours. India's seafaring workforce has grown to more than 3.23 lakh, coastal cargo movement has more than doubled, cruise passenger traffic has increased more than fourfold, and operational National Waterways have expanded from three to 32.
+
+Sonowal also noted that India has emerged as the world's leading ship recycling nation by gross tonnage, reflecting the country's commitment to environmentally responsible and globally compliant maritime practices.
+
+The Union Minister praised the Goa Government for emerging as a leader in maritime reforms, noting that Goa became the first state to implement the Inland Vessels Act, 2021. He said the proposed Goa Maritime Board, the Goa Shipbuilding and Ship Repair Policy and the Maritime Master Plan would further strengthen the state's maritime ecosystem.
+
+Sonowal also highlighted the rapid development of the Mormugao Port Authority, where infrastructure projects worth more than Rs 1,300 crore have already been completed since 2014, while projects exceeding Rs 2,000 crore are under implementation. These include the redevelopment of Berth No. 9, the Vasco Bay Project with a new fishing harbour, capital dredging for deep-draft berths and a modern Seafarers' Club. Mormugao Port has also become India's first Green Port and the first to introduce Green Ship Incentives.
+
+In a major announcement, Sonowal said the proposed Goa Water Metro project has now been brought under Phase-I implementation priority.
+
+"Goa's waterways have immense potential to provide sustainable, efficient and environment-friendly urban mobility. Under the dynamic leadership of Prime Minister Shri Narendra Modi, I am confident that Goa will soon witness this transformative project becoming a reality while further enhancing the state's tourism experience," Sonowal said.
+
+The Union Minister also commended the Captain of Ports Department for strengthening river transport through modern floating jetties, passenger terminals and improved navigational safety systems, which are enhancing connectivity and commuter convenience across the state.
+
+Congratulating the Goa Government on establishing the Goa Institute of Maritime Excellence (GIME), Sarbananda Sonowal said the institute would emerge as a centre of excellence for maritime education, inland waterways training, vessel operations, safety, water sports and skill development.
+
+The Minister reaffirmed the Ministry's commitment to supporting Goa's maritime ambitions and said the Centre would continue working closely with the state to develop world-class maritime infrastructure.
+
+The Captain of Ports Terminal Building is expected to become the nerve centre for Goa's river navigation administration while standing as a prominent architectural landmark reflecting the state's centuries-old maritime legacy. The project also aligns with the Government of India's broader vision of port-led development under the Sagarmala Programme and the Maritime India Vision 2030, which aim to strengthen coastal connectivity, improve logistics efficiency and promote sustainable economic growth.
+
+---
+
+### Odisha woman rejects man's advances. He sets her house ablaze with her inside
+*Ajay Nath · general*
+
+## A woman in Sundargarh suffered severe burns after a man allegedly set her house on fire. Police have arrested the accused as investigators examine an alleged case of one-sided obsession.
+
+Woman critically burnt after man allegedly torches house over rejected advances in Odisha (Screen grabs)
+
+A 26-year-old woman suffered serious burn injuries after a man allegedly set her house on fire in an alleged case of unrequited love in Odisha's Sundargarh district. The accused has been arrested, and further investigation is underway, police said. The incident took place late on Friday night at a village in Bisra block of the district.
+
+According to the preliminary investigation, the accused was allegedly obsessed with the woman and attacked her after she rejected his marriage proposal. Police said the woman was asleep inside her room when the accused allegedly poured petrol through a window before setting it on fire with the intention of killing her.
+
+The victim's father, Jena Toppo, alleged that his younger brother's wife spotted the accused, identified as Rajat Kiro, near the window moments before the fire broke out. He further claimed that Kiro had harassed his daughter on several occasions after she rejected his marriage proposal.
+
+Hearing the woman's screams and noticing the flames, family members and local residents rushed to the spot, rescued her from the burning house and shifted her to a private hospital in Rourkela. Doctors said she sustained severe burn injuries – around 40 per cent, according to hospital sources – and remains in critical condition.
+
+Police, accompanied by a scientific investigation team, inspected the scene and collected forensic evidence. Investigators suspect the attack was motivated by the accused's obsession with the woman, though the exact circumstances are still being probed.
+
+"The accused has been arrested and will be produced before the court. Further investigation is going on," police told the reporters.
+
+\- Ends
+
+With agency inputs
+
+Priyanka Kumari
+
+Jun 28, 2026 09:32 IST
+
+---
+
+### Maharashtra TET Paper Leak: SIT Tracks Interstate Racket Across Bengal, Bihar, Delhi, Haryana
+*Aanchal Sinha · general*
+
+Police sources said all four accused had travelled from Delhi to Thane for the deal. Three have been arrested, while efforts are underway to trace and apprehend the fourth accused.
+
+[Read full article](https://www.news18.com/india/maharashtra-tet-paper-leak-sit-tracks-interstate-racket-across-bengal-bihar-delhi-haryana-ws-kl-10177868.html)
+
+---
+
+### US strikes Iran again after Bahrain, Kuwait attacks and tanker hit
+*India Today World Desk · general*
+
+## The US carried out a second round of airstrikes on Iran after attacks on Bahrain, Kuwait and a Qatar-linked tanker. The exchange has exposed the fragility of the interim deal and sharpened tensions over Strait of Hormuz shipping.
+
+Stock photo used for illustration
+
+The US military carried out a second round of airstrikes on Iran on Saturday on President Donald Trump's orders, after Tehran targeted Bahrain and Kuwait and after a tanker linked to Qatar was attacked at sea. The developments have sharply raised tensions and put further strain on an interim US-Iran deal meant to stop the fighting.
+
+The attack on Kuwait early Sunday was the first since the two sides signed the deal. At the same time, a US Navy-overseen multinational maritime body said it would expand a route near Oman in the Strait of Hormuz to allow both inbound and outbound traffic, setting up another point of friction with Tehran.
+
+The US military's Central Command said it struck Iranian military "surveillance infrastructure, communication systems, air defense sites, drone storage facilities and minelayer capabilities" after the attack on the Panamanian-flagged tanker Kiku early on Saturday. The ship was carrying crude oil for Qatar's state-run energy company. According to ship tracking websites, the Kiku had left a Qatari oil field in the middle of the Persian Gulf earlier in the week and was headed to a port in the United Arab Emirates on the Gulf of Oman, just beyond the Strait of Hormuz. It appeared to be using a route near Oman's coast that has emerged as an alternative to the Iran-approved route through Iranian waters.
+
+In a social media post, Trump said the US had "struck Iranian missile and drone storage locations, and coastal radar sites, for violating the Cease Fire Agreement, AGAIN!" He warned that there could come a point when the US would no longer be able to be reasonable "and will be forced to militarily complete the job". "If that happens, the Islamic Republic of Iran will no longer exist!" he wrote on Truth Social. The latest exchange followed a similar episode days earlier, when an Iranian drone struck a merchant vessel off Oman on Thursday and the US responded with strikes.
+
+The US military said "Iran had a chance to honor the ceasefire agreement" but "elected not to" when its forces attacked the Kiku. Iran state TV reported explosions in an area just north of the Strait of Hormuz. After the US strikes early Sunday, Kuwait's military said its air defences intercepted incoming Iranian drones and missiles, but gave no immediate details on damage. Kuwait hosts a major US Army base.
+
+Earlier on Saturday, Bahrain's Foreign Ministry said a "number of Iranian drones" had targeted the country and described the attack as "a flagrant threat to the security of citizens and residents". There were no immediate reports of damage. Iran's paramilitary Revolutionary Guard, in a statement carried by the state-run IRNA news agency, said it had targeted several locations "of the US terrorist army in the region", without naming them. Bahrain, home to the US Navy's 5th Fleet, had just hosted US Secretary of State Marco Rubio for a meeting of Gulf Cooperation Council foreign ministers that ended with a call for an end to Iran's attacks and for the strait to be fully open.
+
+Overnight into Saturday, Central Command said it had struck Iranian missile and drone sites and coastal radar positions. US Vice President JD Vance, who has led the negotiations with Iran, said on social media on Friday night that Iran should "pick up the phone" if there were disagreements over the ceasefire, "but violence will be met with violence". The two sides are negotiating the terms of the deal, including the movement of ships through the strait, which is vital to global oil and natural gas supplies, as well as the future of Iran's nuclear programme and its stockpile of highly enriched uranium. Under the interim deal, they have 60 days to settle the details, with ending the fighting in Lebanon between Israel and the Iran-backed Hezbollah militant group a key part of the agreement.
+
+The British military's United Kingdom Maritime Trade Operations centre said a tanker was attacked in the strait on Saturday, adding that the crew was safe and there was no environmental damage. No one immediately claimed the strike, though suspicion fell on Iran. Soon after, the Joint Maritime Information Center, overseen by the US Navy, said the route near Oman's shore was being expanded to allow traffic in both directions. Iran has said ships must follow its orders and warned that it would begin charging transit fees through the strait, even as more vessels have been trying to leave the Gulf in recent days. Ebrahim Azizi, who heads the Iranian parliament's national security commission, wrote on Friday: "the Strait of Hormuz is governed by Iran, so: Respect the rules." The US and Gulf Arab states have rejected Iran's position, saying the strait is an international waterway, though it lies within the territorial waters of Iran and Oman. The Joint Maritime Information Center said the threat to ships was "substantial" and warned mariners about mines as naval clearance operations continued. The International Maritime Organization said on Friday it had halted a new evacuation effort for ships and would not restart it until there were guarantees that vessels would not be attacked. It said about 115 ships had managed to move out of the strait in recent days.
+
+The latest strikes, the attacks on Bahrain and Kuwait, and the growing tension over shipping routes show how fragile the interim US-Iran deal remains, even as both sides continue talks on the ceasefire, maritime access and wider security issues.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Jun 28, 2026 09:24 IST
+
+---
+
+### Anant Ambani Visits Tirumala Temple, Announces Donation Of 25 Electric Buses For Tirupati Devasthanams
+*Vani Mehrotra · general*
+
+Anant Ambani visited Tirumala temple, performed tonsure as part of his pilgrimage, and announced Reliance's donation of 25 electric buses for TTD.
+
+[Read full article](https://www.news18.com/india/anant-ambani-tirumala-temple-tonsure-reliance-25-electric-buses-ttd-donation-ws-l-10177870.html)
+
+---
+
+### Iran war latest ground report: Interim deal imperilled further as both sides go ballistic again
+*SECTIONS Iran war latest ground report Interim deal imperilled further as both sides go ballistic again AP · business*
+
+DUBAI: The U.S. military launched a second round of airstrikes Saturday targeting Iran at President Donald Trump's direction as Tehran hit both Bahrain and Kuwait, underscoring rising tensions that threaten the interim deal between the two nations to stop the war.
+
+The attack on Kuwait early Sunday was the first since the two sides signed a deal that aimed to halt fighting, and came as a multinational maritime body overseen by the U.S. Navy said Saturday that it would expand a route near Oman in the strait to allow for both inbound and outbound traffic - likely setting up a new flashpoint with Tehran.
+
+The U.S. military's Central Command said it struck Iranian military "surveillance infrastructure, communication systems, air defense sites, drone storage facilities and minelayer capabilities" following an attack on a ship at sea early Saturday morning. That ship, the Panamanian-flagged tanker Kiku, carried crude oil for the state-run energy company of Qatar, a key negotiator between Iran and the U.S.
+
+  
+
+In a social media post, Trump said the U.S. had "struck Iranian missile and drone storage locations, and coastal radar sites, for violating the Cease Fire Agreement, AGAIN!" He warned of a point where the U.S. may no longer be able to be reasonable "and will be forced to militarily complete the job."
+
+"If that happens, the Islamic Republic of Iran will no longer exist!" Trump wrote on Truth Social.
+
+The incident follows a similar back and forth that occurred just days prior when an Iranian drone struck a merchant vessel off the coast of Oman on Thursday and the U.S. military retaliated with strikes.
+
+  
+
+## US says strikes were a response to Iranian attack on oil tanker
+
+According to ship tracking websites, the Kiku left a Qatari oil field in the middle of the Persian Gulf earlier in the week and was bound for a port in the United Arab Emirates that sits on the Gulf of Oman, just on the other side of the Strait of Hormuz.
+
+It appeared to be attempting to use a route that was established near the coast of Oman that is serving as an alternative to the route sanctioned by Iran that runs through its own waters.
+
+The U.S. military said that "Iran had a chance to honor the ceasefire agreement" but "elected not to" when its forces attacked the Kiku.
+
+Iran state TV reported explosions in an area just north of the Strait of Hormuz.
+
+After the U.S. strikes early Sunday, Kuwait's military said air defenses intercepted incoming Iranian drones and missiles. It offered no immediate information on any damage. Kuwait is home to a major U.S. Army base.
+
+## Bahrain condemns Iran's drone attack
+
+Earlier on Saturday, a statement from Bahrain's Foreign Ministry said a "number of Iranian drones" targeted the country. It called the attack "a flagrant threat to the security of citizens and residents." There were no immediate reports of damage.
+
+Iran's paramilitary Revolutionary Guard earlier issued a statement carried by the state-run IRNA news agency saying it had targeted several locations "of the U.S. terrorist army in the region." It did not name what areas were targeted.
+
+Bahrain has been one of the strongest critics of Iran and is home to the U.S. Navy's 5th Fleet. It just hosted U.S. Secretary of State Marco Rubio for a meeting of the Gulf Cooperation Council's foreign ministers, which ended with a call for an end to Iran's attacks and for the strait to be completely open.
+
+Overnight into Saturday, the U.S. military's Central Command said it had struck Iranian missile and drone locations and coastal radar sites.
+
+U.S. Vice President JD Vance, who has led the negotiations with Iran, said on social media Friday night that Iran should "pick up the phone" if there are disagreements about the ceasefire agreement, "but violence will be met with violence."
+
+The U.S. and Iran are negotiating terms of the deal including issues such as getting ships through the strait that's vital to global supplies of oil and natural gas and addressing the future of Iran's nuclear program and stockpile of highly enriched uranium.
+
+Under the interim deal, the two sides have 60 days to work out the details. Ending the fighting in Lebanon between Israel and the Iranian-backed Hezbollah militant group is a key part of the deal.
+
+## Ship comes under attack as strait route expands
+
+The British military's United Kingdom Maritime Trade Operations center said that a tanker was attacked Saturday in the strait, with the crew safe and no environmental damage reported. No one immediately claimed the strike, but suspicion fell on Iran.
+
+Just after that report, the Joint Maritime Information Center, overseen by the U.S. Navy, said the route near Oman's shore is expanding to allow for inbound and outbound traffic.
+
+Iran has insisted that ships must obey its orders and warned it will start charging fees for transit through the strait. However, ships have been increasingly trying to leave the Gulf in recent days.
+
+Ebrahim Azizi, who heads the Iranian parliament's national security commission, wrote Friday that "the Strait of Hormuz is governed by Iran, so: Respect the rules."
+
+The U.S. and Gulf Arab states have rejected Iran's demands. The strait is considered as an international waterway, despite being the territorial waters of Iran and Oman.
+
+The Joint Maritime Information Center warned that the threat to ships was "substantial," adding that "mariners are advised of the existence of mines and should expect a naval presence as clearance operations continue."
+
+The International Maritime Organization on Friday halted a new effort to evacuate ships said it won't resume until there are guarantees that the other ships won't be attacked. It said about 115 ships have been able to move out of the strait in recent days.
+
+---
+
+### Delhi-Varanasi Bullet Train To Cut Jewar-Lucknow Travel Time To Just 100 Minutes: Ashwini Vaishnaw's Big Plan
+*Anushka Vats · general*
+
+Delhi-Varanasi Bullet Train: The Delhi-Varanasi route is among the seven new high-speed rail corridors announced in the Union Budget 2026-27.
+
+[Read full article](https://www.news18.com/india/delhi-varanasi-bullet-train-to-cut-jewar-lucknow-travel-time-to-just-100-minutes-ashwini-vaishnaws-big-plan-ws-e-10177869.html)
+
+
+---
+
 ## 27 June 2026
 
 ### Govt notifies 1.03 crore square metres land in South Goa as No Development Zone
