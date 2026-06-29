@@ -1,10 +1,289 @@
 # Editorials
 
-_Last updated: 2026-06-28 05:55 UTC_
+_Last updated: 2026-06-29 06:17 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
 
+## 29 June 2026
+
+### Buyer beware: On the QR code-based drug traceability framework
+*The Hindu · Editorial*
+
+The Health Ministry’s notification to expand Schedule H2 drugs to entire therapeutic classes now from a curated list of brands earlier is a commendable change from regulating based on revenue to regulating based on risk. The government had introduced Schedule H2 in 2022-23, which required a barcode or QR code on each pack of specific drugs to verify the pack’s authenticity. It is part of a framework that also touches on regulating active pharmaceutical ingredients and export-oriented pharmaceutical compliance. Now, with the additional symbols encoding a product identifier, the manufacturing licence number, batch number, and other details, authorities hope to better track down defective batches. Counterfeit networks have long targeted vaccines, cancer medicines and antimicrobials, with WHO flagging high volumes of fake antimicrobials in low- and middle-income countries. India has one of the world’s highest antimicrobial resistance rates, and substandard antimicrobials can lead to sub-therapeutic dosing, exerting selection pressure on resistant strains. The Narcotics Control Bureau has also expressed concerns about medicinal opioids and psychotropic substances ‘leaking’ into illicit markets. The government will hope that the new system addresses the U.S. FDA’s and the European Medicines Agency’s recurring concerns about quality control, an issue on which India has found itself on the back foot over contaminated cough syrups. The U.S. Trade Representative has also repeatedly identified India as a leading source of counterfeit medicines, with many fake pharmaceuticals seized at the U.S. border originating from or transiting through India.
+
+Together with policy changes effected by the Jan Vishwas Act 2026, the new framework finally distinguishes between procedural non-compliance and substantial non-compliance, considering only the latter constitutes meaningful enforcement. In the long term, the government should rationalise the compliance burden and eliminate the risk of corruption associated with discretionary enforcement. The government must also recognise that the QR code system will only be effective if backed by a state-managed database that pharmacists and regulators can access in real time, supported by interoperable software and scanning infrastructure across States. Second, pharmacists and consumers must develop a habit of verifying medicines before a sale. Third, the compliance needs imposed by new packaging requirements and the IT integration will strain MSME manufacturers in particular. Finally, prescription data on controlled substances is sensitive information and will need to be handled with a digital governance layer that does not yet exist. Thus, whether the new framework will improve India’s reputation as a pharmacy comes down to its implementation.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/buyer-beware-on-the-qr-code-based-drug-traceability-framework/article71158371.ece)
+
+---
+
+### Sharing waters: On the Tungabhadra model
+*The Hindu · Editorial*
+
+The coming together of the Chief Ministers of Karnataka (D.K. Shivakumar), Telangana (A. Revanth Reddy) and Andhra Pradesh (N. Chandrababu Naidu), along with Union Jal Shakti Minister C.R. Patil, at the inauguration of the 33 spillway gates of the Tungabhadra dam on June 25 was significant beyond the optics. The three leaders pledged greater inter-State cooperation, which is welcome given that the dam has largely remained free of major disputes due to an established water-sharing formula and the Tungabhadra Board’s regulation of releases. Located in Karnataka’s Koppal district, the dam is considered to be the lifeline of the three southern States, providing irrigation to about 16.4 lakh acres — 9.26 lakh in Karnataka, 6.25 lakh in Andhra Pradesh, and 87,000 in Telangana. It hit the headlines in August 2024 when a crest gate was washed away during heavy inflows — which also happened when the dam was full with 105 thousand million cubic feet (tmc ft) of water. The damaged gate was replaced with a temporary one, but with much water wasted, the authorities, who did not want to take chances with the other 32 gates, chose to install high-grade steel gates, at ₹51 crore and which are expected to last 60 years.
+
+Notwithstanding the bonhomie, the differences among the leaders on some issues concerning the larger Tungabhadra project cannot be brushed aside. The Upper Bhadra project, a major lift irrigation scheme under implementation in the central region of Karnataka and upstream of the Tungabhadra dam, has emerged as an irritant for Andhra Pradesh and Telangana. At one stage, the BJP-led Union government had made a provision of ₹5,300 crore in its budget for 2023-24, a few months before the Karnataka Assembly elections. However, the Centre later chose not to include it under any of its schemes, but this is being implemented by a Karnataka government undertaking. It remains to be seen whether the spirit of camaraderie will help the three neighbours to overcome their differences on the Upper Bhadra issue. The Tungabhadra dam is also facing excessive siltation, which has reduced its storage capacity from the original 133 tmc ft to about 106 tmc ft. Mr. Patil has assured the Chief Ministers about the Centre’s plan to remove silt from water reservoirs across the country including the Tungabhadra. More importantly, the Union government should closely monitor and expedite, wherever required, the execution of dam rehabilitation and improvement projects being taken up in 19 States. Any laxity with regard to dam safety may have disastrous consequences. The focus must be on prevention, not reparation.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/sharing-waters-on-the-tungabhadra-model/article71158393.ece)
+
+---
+
+### The new digital slavery needs constitutional guardrails
+*The Hindu · Opinion*
+
+In his profound encyclical, Magnifica Humanitas, Pope Leo XIV grounds the contemporary crisis of technology in elemental theology, reminding humanity that the individual stands at the absolute centre of divine creation. Yet, this sacred human dignity faces an unprecedented challenge. The Holy Father warns that artificial intelligence (AI), left unchecked, threatens to turn the ownership of our personal data into a new form of digital slavery — a subjugation as cruel as human bondage. Because the stakes are so inherently tied to human dignity, the Pontiff insists that the governance of AI cannot rely on vague good intentions, nor can it be left to the private consciences of the engineers who build these systems. Instead, he issues an urgent call for robust, binding law over abstract ethics, independent public oversight over the empty promises of Silicon Valley’s modern pharaohs — and a clear requirement that a human being remains accountable whenever an automated system decides who gets a loan, a job, a medical bed, or an education. Pope Leo XIV’s core demand is that this new electronic Curia be strictly regulated rather than quietly surrendered to a handful of private tech monopolies whose reach and resources already outstrip most sovereign governments. He even goes so far as to commend the courage to deliberately slow down the development of AI.
+
+Also Read | The science of AI and the AI of science
+
+When regulation lagsHowever, a fundamental problem remains: AI and morality do not observe the same time. AI is developed at the breakneck speed of the start-up culture, driven by an ethos to move fast and run perpetual beta tests on society in the guise of progress. This velocity is fuelled not just by commercial rivalries, but by relentless mathematical innovation spanning from Silicon Valley to Shenzhen. It presents a deeper hurdle for lawmakers worldwide: parliament can govern what a person does, but it can never forbid a mathematical theorem, a discovery, or an equation from being made. How do lawmakers fulfil the Pope’s wishes?
+
+Power politics in the age of AILaw in most democracies moves slowly. By the time landmark legislation such as the European Union’s Artificial Intelligence Act or the United Kingdom’s Online Safety Act were painstakingly debated and passed, the specific technical harms they were built to combat had already mutated, leaving an entire generation to grow up inside unaddressed digital vulnerabilities. Policymakers have historically been behind the innovation curve, and under current paradigms, we will be again.
+
+If legislation is fated to lag behind innovation, the consequences for democratic societies are not merely regulatory; they are existential. Democracy cannot function if citizens cannot distinguish reality from fabrication. At its core, democratic governance relies on a shared epistemic foundation: a collective agreement on basic facts from which public debate, policy, and electoral choices can flow. When that foundation is systematically undermined, the entire democratic project is threatened. Today, AI-generated disinformation and advanced synthetic media (“deepfakes”) have advanced to a level of fidelity where the human eye and ear can no longer reliably detect forgery. This is already our reality. Highly convincing audio and video duplications of political leaders are deployed strategically during sensitive electoral cycles to depress voter turnout, fabricate scandals out of thin air, and instantly shatter public trust in legitimate state institutions.
+
+Related StoriesWhy has the government issued a directive on deepfake? | Explained
+
+War, deepfakes and the fragility of truth
+
+Deepfakes and the death of truth
+
+This vulnerability is hyper-charged by algorithmic manipulation. Big Tech platforms operate on business models engineered exclusively to maximise user engagement. Because outrage, fear, and sensationalism generate the highest click-through rates, platform algorithms systematically prioritise and amplify hyper-partisan content, driving radicalisation. By trapping citizens within hyper-customised echo chambers, these systems normalise online hate and accelerate social fragmentation. In doing so, private platforms exert an unprecedented form of unaccountable power, effectively rewriting the rules of the public square to optimise quarterly corporate profits at the expense of social cohesion.
+
+Democracy’s digital vulnerabilityWhen a society is deeply polarised and stripped of a shared reality, it becomes a soft target for foreign interference. Adversarial nation-states and non-state actors have weaponised these platform vulnerabilities, transforming them into a theatre for sophisticated information warfare. Foreign information manipulation operations are no longer clumsy, bot-driven spam campaigns; they are highly targeted, AI-driven psychological operations designed to covertly exploit pre-existing religious, ethnic, or socioeconomic fault lines within a target nation. By covertly funding, generating, and amplifying divisive narratives, hostile foreign actors can destabilise a democracy from within, turning its own citizens against one another. These coordinated campaigns represent nothing less than a direct, strategic threat to democratic sovereignty itself. As the world’s largest democracy and a global technology hub, India stands at the absolute epicentre of this crisis. In an environment where digital adoption outpaces structural digital literacy, the weaponisation of synthetic media and algorithmic polarisation poses a unique threat to India’s pluralistic society.
+
+If traditional, reactive legislation is doomed to always trail behind mathematical innovation, India cannot rely on standard, backward-looking regulatory frameworks. Instead, an enduring law and policy framework for India must be anchored in five foundational pillars that operate concurrently.
+
+First, AI governance must adopt a strictly rights-based framework that prioritises individual human dignity and digital autonomy, ensuring citizens possess unalienable rights over their personal data, strict consent protocols, and clear protections against algorithmic discrimination in critical sectors such as employment, credit, and health care. Second, platforms must be subjected to genuine democratic accountability; large technology firms can no longer hide behind absolute safe-harbour immunities while their algorithms profit from the viral spread of destabilising disinformation. They must be legally compelled to introduce structural transparency, allowing independent audits of their recommendation engines and forcing them to accept systemic liability for algorithmic amplification that results in real-world violence.
+
+Third, even as these frameworks are constructed, free speech protections must remain fully intact. The power to define and combat disinformation must never devolve into a tool for state-sponsored censorship or the silencing of political dissent. The focus of regulation must remain strictly on structural platform mechanics, such as automated bot networks and deepfake originators, rather than the heavy-handed policing of individual ideological speech.
+
+Fourth, because technical fixes are entirely insufficient without building cognitive resilience within the populace, India must launch a massive, state-backed educational initiative focused on media literacy and digital citizenship. This curriculum must be integrated across schools, universities, and rural community centres to train citizens to critically evaluate digital sources and identify emotional manipulation tactics. Finally, to defend national sovereignty, India must establish sophisticated, cross-sector early-warning systems capable of detecting coordinated misinformation operations in real-time. By leveraging advanced detection tools and fostering deep collaboration between state security apparatuses, independent fact-checking networks, and ethical hackers, the nation can identify and neutralise foreign information warfare campaigns before they achieve viral velocity.
+
+A constitutional imperativeUltimately, the lesson of our era is clear: AI governance cannot remain merely regulatory or technical. It is a profound mistake to treat the manipulation of the information ecosystem as a series of isolated technical glitches to be patched with minor corporate updates or narrow statutory tweaks. Because these technologies possess the unique capability to distort truth, polarise societies, and erode the sovereign choice of voters, AI governance must rise to the level of a constitutional imperative. The right to an unmanipulated information ecosystem, where reality can be clearly distinguished from corporate or state fabrication, must be viewed as an indispensable extension of the fundamental right to life, liberty, and free expression.
+
+Furthermore, this governance must be thoroughly democratic. It cannot be quietly negotiated behind closed doors between Silicon Valley executives and our bureaucracy. The rules that govern the digital public square must be forged through open parliamentary debate, public participation, and transparent institutional oversight, ensuring that technology serves the collective will of the people rather than the financial interests of any corporate oligarchy. And AI governance must be explicitly geopolitically conscious. Information space is the new frontline of global warfare. For sovereign India, maintaining a hands-off approach to algorithmic manipulation is equivalent to unilateral disarmament. Democratic states must recognize that the code running our public square is just as critical to national security as physical border infrastructure. Only by elevating AI governance into a constitutional shield, a democratic mandate, and a core pillar of national sovereignty can India’s democracy hope to survive the storms of the digital age.
+
+Shashi Tharoor is the fourth-term Member of Parliament (Lok Sabha) for Thiruvananthapuram (Congress party), the Chairman of the Parliamentary Standing Committee on External Affairs and the Sahitya Akademi Award-winning author of 29 books, including, most recently, ‘The Sage Who Reimagined Hinduism: The Life, Lessons and Legacy of Sree Narayana Guru’
+
+[Read full article](https://www.thehindu.com/opinion/lead/the-new-digital-slavery-needs-constitutional-guardrails/article71158538.ece)
+
+---
+
+### Glitches catch BMRCL flat-footed yet again
+*Deccan Herald · Editorial*
+
+Before the dust had settled on one disruption, Bengaluru’s Namma Metro Purple Line suffered another. Two major interruptions in three days have again exposed the fragility of the city’s most vital transport corridor — not merely because failures occurred, but because no effective plan existed to manage their consequences.
+
+The first, an electrical fault, halted services near Cubbon Park station during the evening rush hour, stranding thousands as operations were curtailed across the central section. Barely two days later, another train bound for Challaghatta was immobilised at the same station when a passenger’s metal chain jammed a door. Though not a system failure, safety protocols required evacuation, delaying subsequent services.
+
+Bengaluru (South) MP Tejasvi Surya has claimed that these are part of nearly 21 disruptions since 2024, with the Purple Line accounting for most of them. Given this, his demand for an independent safety audit deserves consideration. The Bangalore Metro Rail Corporation Limited (BMRCL) is a joint venture of the Union and Karnataka governments, making this a shared responsibility. No metro system in the world is immune to technical glitches. What distinguishes a well-run network is not the absence of failures but the efficiency with which it responds. Here, the BMRCL fell short. Passengers received little useful information. Poor mobile connectivity inside underground stations left many confused about alternatives, while outside, auto-rickshaw drivers demanded exorbitant fares as commuters scrambled for transport.
+
+This is where contingency planning becomes indispensable. The government should have immediately deployed BMTC buses to shuttle passengers. During such exigencies, the response must extend beyond buses to include temporarily capping surge pricing on ride-hailing apps and strictly enforcing auto-rickshaw fares to prevent the exploitation of stranded citizens.
+
+Station staff must have clearly rehearsed standard operating procedures to guide commuters, make frequent public announcements and co-ordinate with traffic police and civic agencies — something that was missing in the recent instance. Such protocols should be tested through periodic mock drills, rather than improvised during emergencies. Mumbai faced similar criticism after a recent glitch, highlighting that as India’s metro systems expand, emergency preparedness must match engineering advancement.
+
+For Bengaluru, the repeated disruptions are a reminder that the Purple Line's central corridor is operating at or near its structural capacity. Routine maintenance must be complemented by technical audits and predictive monitoring to identify vulnerabilities before they escalate. In short, Namma Metro must become proactive rather than reactive. A world-class metro is judged not by whether it breaks down, but by how confidently it carries its passengers through the unexpected.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/glitches-catch-bmrcl-flat-footed-yet-again-4055413)
+
+---
+
+### Now the spotlight is on citizenship
+*Deccan Herald · Editorial*
+
+The statement made by an official of the Ministry of External Affairs that a passport is only a travel document and not conclusive proof of Indian citizenship has raised questions and created confusion. Strictly speaking, the statement is not news.
+
+It does not lay down any new policy. Passports are issued under the Passports Act, and citizenship is governed by the Citizenship Act,1955. Although passports are generally issued after confirming citizenship, in special cases, they can be issued to non-citizens. The courts have also affirmed that it is a travel document. The Constitution defines citizenship, but does not mention a document that conclusively establishes it. Even procedures for obtaining voter IDs or PAN cards do not demand proof of citizenship.
+
+The statement about the passport may, therefore, not be about it, but about citizenship. It might be meant to create uncertainties about citizenship, and to show that citizenship needs to be proved afresh. By law, citizenship may be acquired through birth, descent, registration, naturalisation or incorporation of territory. The citizenship of all those who are now citizens, or deem themselves to be citizens, may be seen as valid only on any of those grounds. The MEA statement on the passport’s inadequacy suggests that citizenship must be established in the way the government wants it to be proved.
+
+The situation could be like the demand made by the Election Commission of India (ECI) to the voters that they prove their status as voters. Millions of names have been removed from the voters’ rolls, and lakhs of people are waiting for a decision on their voting status. The ECI asked for a clutch of documents to prove that a person is a voter. Many could not provide them because it was practically not possible for them to procure them. The names of many who produced the documents were also removed. It could be much worse in the case of citizenship.
+
+The only document that could prove citizenship is the birth certificate, that too with conditions relating to the year of birth or parentage attached to it. Many people do not have it and can’t get it even if they try because the original records may not exist.
+
+So, the situation in India will be much worse than the SIR of the electoral rolls if there is a special intensive revision of citizenship. There has been talk about a National Register of Citizens (NRC) and a Citizenship (Amendment) Bill. The reference to passports has caused concern that it might lead to a citizenship survey, with all its consequences.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/now-the-spotlight-is-on-citizenship-4055415)
+
+---
+
+### The real work of manifestation
+*Deccan Herald · Opinion*
+
+We all want something. A promotion that feels long overdue. A relationship that finally clicks. A life that, even just a little, resembles the one we dreamed of when we were younger, when the world still felt wide open. Ask anyone what they hope for, and they will tell you straight away. Wanting has never been the difficult part. The real question is whether truly believing in something can help bring it closer.
+
+That is what manifestation is really about. Not daydreaming or crossing your fingers and hoping for the best, but something far more intentional. It is about holding what you want not as some distant maybe, but as something already on its way to you.
+
+The Law of Attraction puts it this way: what you consistently pour into yourself, you eventually draw toward you. Many people will tell you it genuinely changed things for them.
+
+Others think it is not true. But most who give it a real try will quietly admit that something inside them shifts. It is not the world and it is not immediate, but it is them.
+
+They live their lives, knowing better what they want. They do not waste time on things that never would have taken them where they wanted to go. They begin to see possibilities they would have just passed by before. And something that once seemed like a dream begins to feel like a destination.
+
+Honestly, this might be the most real thing anyone can say about manifestation. Life will wear you down. The small let-downs, the waiting, the moments when giving up feels like the smartest thing you could do. Believing in something will not stop any of that from happening. But it keeps you from falling apart when it does. It brings you back to why you started. And sometimes that is all you need to show up one more time.
+
+Going from “maybe one day” to “this is happening” rewires something in you. The way you think, the chances you are willing to take, the effort you show up with, even on the flat and unremarkable days when nothing feels worth it.
+
+Whether the universe is listening or your own mind is simply performing at its best when it has a clear target, that question may miss the point entirely. Believe in it enough and you will find a way. That has probably always been true.
+
+[Read full article](https://www.deccanherald.com/opinion/the-real-work-of-manifestation-4055420)
+
+---
+
 ## 28 June 2026
+
+### The Transgender Persons Amendment Bill is a flawed fix
+*The Hindu · Opinion*
+
+The Transgender Persons (Protection of Rights) Amendment Bill, 2026 (Bill No. 79 of 2026), introduced in the Lok Sabha on March 13, 2026 — and now passed by the Rajya Sabha on March 25, 2026 — makes several sharp changes to the 2019 Act. It narrows the definition of “transgender person” to only specific socio-cultural identities such as kinner, hijra, aravani, jogta, eunuch, or biologically-defined intersex variations, or persons forcibly compelled into such an identity through mutilation, castration, amputation, or any surgical, chemical or hormonal procedure. It explicitly excludes persons with different sexual orientations and non-heteronormative gender fluid identities.
+
+The Bill removes the right to “self-perceived gender identity” from Section 4(2), replaces the simple District Magistrate process with a medical board “authority” headed by a Chief Medical Officer, and mandates hospitals to report every transgender surgery to the District Magistrate and the authority.
+
+Self-identification no more: the mental health ramifications of the Trans Amendment Act
+
+Perpetuating structural problemsThe government claims that the new amendments fix the vagueness and implementation failures of the 2019 Act. Every year, thousands of intersex infants are killed or undergo medically unethical, non-consensual sex-selective surgeries that mutilate their bodies without regard for lifelong physical and psychological trauma, all in pursuit of a false “normalcy”. Millions of intersex individuals remain ghosts in our Census systems, their births and deaths unregistered, rendering them invisible to legal protections and social services.
+
+Related StoriesWhat are the changes being proposed to Transgender Persons (Protection of Rights) Act, 2019 | Explained
+
+Two members from National Council for Transgender Persons resign, citing ‘regressive’ Amendment Bill
+
+Activists condemn Transgender Bill passage in Lok Sabha, says haste in Rajya Sabha 'scary'
+
+Supreme Court-appointed panel asks Centre to withdraw Transgender Bill that removes right to gender self-determination
+
+Four queer voices explain the impact of the Trans Amendment Bill 2026
+
+Transgender rights Bill: Minister ‘skips’ key meeting with NCTP members
+
+Even the highest authorities fail to grasp the fundamental distinctions between sex identity and gender identity, or between intersex variations and transgender identities, which fuels rampant discrimination. The Bill itself refers to male and female as “gender identity”, which is fundamentally wrong — male and female are sex identities. By clubbing sex identity under the gender column, the Bill creates new problems where it is meant to solve existing ones.
+
+The government does not have reliable data on transgender and intersex persons in India. They want to grant us rights but do not know who we are. Separating sex and gender identity as different categories on official documents would address the root causes of this problem.
+
+Despite the new wording, the Bill still lumps “persons with intersex variations” inside the definition of a “transgender person.” The term “transgender persons” often conflates distinct identities. The Trans Act’s definition includes persons with intersex variations under “transgender”, which erases intersex-specific needs. Intersex is a natural biological spectrum (recorded 1%-2% globally). Transgender identity is a psychological and social construct.
+
+Fighting a looming threat of erasure: The outrage over amendments to trans rights lawRetaining this conflation under one label violates rights under Article 21 to bodily integrity and privacy. It leaves out intersex infants without any specific ban on “normalising” surgeries and ignores repeated calls for separate intersex legislation.
+
+The Bill’s definition also contradicts established international standards: the United Nations and the World Health Organization define intersex as innate variations in sex characteristics that do not fit typical male or female binaries, requiring distinct legal recognition and explicit protections against non-consensual medical interventions. By forcing intersex persons into a transgender category, the Bill undermines these global definitions and erodes the very human rights framework that India has committed to uphold.
+
+The Bill leaves the outdated title, National Council for Transgender Persons, and all State Welfare Boards unchanged. It ignores the long-standing proposal to rebrand them as a National GIESC Welfare Council and State GIESC Welfare Boards (GIESC is Gender Identity/Expression and Sex Characteristics). This keeps the entire policy architecture trapped under the problematic “transgender” umbrella instead of creating a scientifically accurate, inclusive framework. The government continues to promote a single identity at the national level.
+
+This heteronormative bill erases the reality that GIESC communities, including transgender persons, may have diverse sexual orientations such as transgay, translesbian, transbisexual, or queer.
+
+Legally empowering exploitative structuresNew clauses in Section 18 introduce rigorous imprisonment (between five to 14 years) for forcing adults or children into “transgender presentation” plus begging or servitude. Yet, the Bill does nothing to regulate or dismantle the colonial hijra jamath-gharana system. By targeting only external perpetrators while leaving internal hierarchies untouched, the amendment effectively legitimises and empowers the long-standing hijra jamath-gharana system, codifying it into law. These structures are not inherently traditional; earlier Indic frameworks were more inclusive and rooted in a broader, affirmative understanding of diverse identities, free from later external influences.
+
+At present, chief hijra nayaks control chelas’ earnings from begging and prostitution, trapping gender non-conforming children (often abandoned) in bonded labour. Meanwhile, thousands of gender non-conforming children, abandoned or rejected by families, are thrust into exploitative hijra jamath gharanas, havelis, and dayars, where education is a distant dream; instead, and forced into begging and prostitution.
+
+State police often refuse to register missing child complaints for gender non-conforming children, and there are no dedicated policies to address their vulnerability to trafficking and abuse. There is also no framework for reform, rehabilitation, or protection of minors within these systems. By protecting these colonial-era identities without evidence-based safeguards, the government is undermining earlier inclusive traditions.
+
+The Bill contains no requirement for genetic counselling by medical geneticists before certification, intersex surgeries and health management. It offers no mandate for India-specific longitudinal studies on “affirming surgeries” and raises serious privacy concerns due to inadequate safeguards.
+
+In Focus podcast | Why was the National Transgender Council kept in the dark about the 2026 Amendment Bill?Instead of addressing the problems faced by diverse GIESC communities such as administrative barriers and unregulated medical practices which include gender-affirming surgeries and hormone therapies (Government of India promotes freely despite severe health risks) the Bill offers only superficial measures with little relevance to their needs. Despite the 2019 UN CRPD recommendations to prioritise intersex welfare and dignity, these concerns remain largely neglected.
+
+No intersectionalityThe Bill contains no intersectional lens for caste, disability, poverty or religion. Transgender persons from Scheduled Caste/Scheduled Tribe or disabled backgrounds will continue to face compounded discrimination with zero targeted remedies. It also fails to protect India’s family-dependent societal structures by skipping any requirement for rigorous, evidence-based research before policy changes. Most critically, the Bill is completely silent on civil and marriage rights of diverse GIESC identities. It offers no provisions for marriage, adoption, inheritance, divorce, or succession for transgender persons, leaving them without full legal recognition in family law, and perpetuating their exclusion from the very institutions that define citizenship and dignity in Indian society.
+
+ALSO WATCH Lok Sabha passes Transgender Rights Amendment Bill amid opposition uproar
+
+The 2026 Amendment Bill tightens some definitions and increases penalties for forced exploitation, but leaves every core structural flaw untouched — the hetero-normative erasure of diverse SOGIESC identities, the complete neglect of civil and marriage rights, the legal entrenchment of colonial hijra structures at the expense of ancient Indic heritage. India needs a scientific, culturally grounded approach that separates biological sex characteristics from gender identity, prioritises evidence over ideology, bans non-consensual intersex surgeries, ensures equal rights, dismantles exploitative systems, and protects the dignity of intersex persons and gender non-conforming children. The Constitution demands nothing less.
+
+Gopi Shankar Madurai is a Special Monitor for Sexual orientation, gender identity and expression and sexual characteristics (SOGIESC) Rights, National Human Rights Commission of India
+
+[Read full article](https://www.thehindu.com/opinion/lead/the-transgender-persons-amendment-bill-is-a-flawed-fix/article70784907.ece)
+
+---
+
+### DC Edit | SIT Must Get To Bottom Of Ayodhya Temple Theft
+*Deccan Chronicle · Editorial*
+
+The arrest of eight people associated with the Ram temple in Ayodhya and the resignations of the Shri Ram Janmabhoomi Teerth Kshetra Trust secretary Champat Rai and trustee Anil Mishra amid the ongoing controversy over the alleged embezzlement of donations at the temple raise more questions about the running of the temple than they seek to answer. The BJP which built its political foundation on the temple movement and the government it runs in Uttar Pradesh will also be required to explain what went wrong. The whole episode will also trigger discussions on the handling of the public money that lay with religious institutions and places of worship and the urgency to set up mechanisms to ensure accountability by those who run them.
+
+The theft at the temple shocked not only those who believed in the temple, the deity and the movement that led to its construction after razing a mosque that was standing there for centuries but also those who attached a certain amount of integrity with the people who ran it. Allegations of wrongdoing had been raised against those who are associated with the temple earlier, too, but they pale in front of the latest ones. The special investigation team (SIT) the state government has appointed to investigate it is yet to quantify the theft of donations that belonged to the deity and the temple but reports say they run into thousands of crores of rupees. Valuables and embellishments of the deity which are considered sacred by the devotees are in the list of stolen properties. It is important that the SIT get to the bottom of it and bring before the law all those who are involved in it.
+
+The BJP will be made to answer questions starting from the commitment it has to the deity and its believers. The temple was not the project of the believers; it was that of the Hindutva pracharaks for several decades. It was a tool which the party used to divide Indian society and catapult itself to power. The gamble paid off. This is the time of reckoning for the party as to investigate how genuine its concern was for the cause and what it did to ensure that the interests of the temple and the devotees were protected. Uttar Pradesh chief minister Yogi Adityanath’s attempts to portray the demands for proper investigation as an attack on the temple and the deity are unlikely to succeed.
+
+The Hindutva forces often complain about the control of the secular government over temple properties across the country, especially in southern India. They point out that the affairs of the places of worship of other religions are under the total control of the people who belong to those religions. The Ayodhya episode must now force a rethink for them. It has come to the fore because it has an element of public representation in the trust. The larger society must also look into the possibility of instituting similar arrangements for the other religions, too, where handling of funds donated by devotees, who are essentially part of the general public, is subjected to public scrutiny. Transparency in financial matters of their shrines will in no way affect the power of the gods who reside there. It will be a model that can be rolled out across the country covering all religions and their various denominations.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-sit-must-get-to-bottom-of-ayodhya-temple-theft-1966923)
+
+---
+
+### DC Edit | Venezuela Worst Hit In Quake Season
+*Deccan Chronicle · Editorial*
+
+This appears to be the season of earthquakes and, as Nature expresses its fury periodically, typhoons too. A series of earthquakes struck parts of Indonesia, China and Japan last week, with the shifting of different tectonic plates on successive days. This was just a couple of days after a set of two ‘doublet’ earthquakes had struck the northeastern coastal region of Venezuela June 24-26 and caused untold damage to people and housing infra.
+
+Japan and Indonesia sit along the Pacific Ring of Fire — one of the world’s most active earthquake belts. However, the loss of human lives was minimal — less than 10 in Indonesia, one in China and possibly none in Japan. It can be said that Japan, an industrially advanced nation, is accustomed to earthquakes and its civil engineering is structured around buildings being able to withstand up to a point the effect of temblors.
+
+The story is not the same with Venezuela. There a twin quake had caused so much damage that there is not even an accurate count so far of loss of human lives. With more than 125 buildings flattened in the coastal state of La Guaira, the human toll is expected to be anywhere from an undercounted 1,400 so far to several tens of thousands.
+
+The human tragedy unfolding in La Guaira is of a far higher dimension with people still thought to be buried under the debris of apartment complexes. Usually, a powerful earthquake can be followed by a series of smaller afterquakes but a powerful ‘doublet’ can cause far more damage, and shallow ones like those that hit Venezuela would invariably lead to buildings shaking like leaves.
+
+An outpouring of support in times of tragedy reflects human empathy that goes beyond boundaries and borders. More than two dozen nations have rushed aid, water, medicines and men to help, but this may have led to a suffusion of traffic too so as to obstruct relief work along the only narrow highway leading to the coastal areas. It appears there is no end to human suffering because there is no wherewithal to withstand the force and fury of Nature.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-venezuela-worst-hit-in-quake-season-1966929)
+
+---
+
+### Bharat Bhushan | Clueless in Dhaka: Polite Tweet Hits Major Tripwire
+*Deccan Chronicle · Opinion*
+
+On the day India’s incoming high commissioner to Bangladesh Dinesh Trivedi presented his credentials in Dhaka, he received friendly “warm wishes” from US ambassador to India Sergio Gor. In his X post, Mr Gor said: “As the US special envoy for South and Central Asia, I look forward to working closely with him.” Mr Trivedi reciprocated by saying: “I too look forward to working closely with you.”
+
+This has caused quite a stir.
+
+US ambassadors to India normally confine themselves to bilateral matters and do not reach out to Indian envoys in third countries such as Bangladesh -- such correspondence usually goes through the US embassy in Dhaka. Mr Gor, however, holds two titles -- ambassador to India, which New Delhi acknowledges, and special envoy for South and Central Asia, which it finds problematic.
+
+Former foreign secretary Kanwal Sibal publicly admonished Mr Trivedi on X, saying that he saw no issues on which the US ambassador to India should “work closely” with Indian envoys elsewhere in South Asia, including Bangladesh. Mr Sibal said: “For anything relating to India’s dealings with other South Asian countries, the point of contact is Delhi. By reaching out to you the US ambassador is asserting his wider mandate of coordinating relations within the subcontinent.”
+
+While recognising that Mr Trivedi had replied to Mr Gor as a matter of courtesy, Mr Sibal was making a substantive point: that there was a structural problem when Mr Gor addressed Mr Trivedi as the “US Envoy to South Asia”. It was an assertion that his job description covered India’s relations with its neighbours, including Bangladesh.
+
+Mr Sibal likened this to the 2009 “(Richard) Holbrooke mandate” for Afghanistan and Pakistan, which India had successfully resisted being included in, fearing it would invite outside interference in Kashmir. India had at that point warned that such a mandate covering India would be deeply unpopular. Mr Trivedi, perhaps unaware of this history, had effectively agreed to work with Mr Gor in his disputed capacity.
+
+The government has offered no rebuttal, apparently hoping to let the matter fade -- just as it was former diplomats, not the ministry of external affairs, who objected when Mr Gor was first given his dual title. This leaves the episode framed by the MEA’s own structural ambiguity. Mr Sibal, a known supporter of the Narendra Modi government, was not attacking Mr Trivedi but flagging the nuance, asking pointedly: “On what issues does our new HC in BD intends to work closely with the US ambassador to India?”
+
+Mr Trivedi, reacting with surprise, offered only a courteous non-answer to Mr Sibal -- largely a non-sequitur about global cooperation during Covid and disasters. Mr Trivedi’s reply neither engaged nor rebutted Mr Sibal's actual point about titles and mandates. Mr Trivedi seemed to have misunderstood it as a dig about being too friendly with the US ambassador rather than as a substantive diplomatic point.
+
+Mr Sibal was right about there being little scope for the US ambassador to India and India’s high commissioner to Bangladesh to usefully coordinate. There’s no looming “disaster” in Bangladesh for the two to avert jointly. Some observers note that since the US welcomed Sheikh Hasina's ouster and backed the Muhammad Yunus interim government, the possibility of joint US-India work in Bangladesh is prima facie questionable. India also worked hard ahead of Bangladesh’s February 2026 election to prevent the Jamaat-e-Islami-aligned Islamic forces gaining power. So?
+
+Even with closer coordination, India and the United States could not have prevented Bangladesh from signing 13 agreements with China following Bangladesh PM Tarique Rahman's Beijing visit -- including the Mongla Port modernisation project, the Chattogram economic zone, and the Teesta River management project. India was not a contender for Mongla, and its own Teesta cooperation was undercut by internal political disputes, especially with West Bengal.
+
+Neither the Indian high commissioner nor the US ambassador has any institutional standing to win Bangladesh projects for India. Neither controls financing decisions, the role of Indian states in river-sharing politics, or Bangladesh's sovereign choice of partners. This reinforces Mr Sibal's core point: that India's Bangladesh policy runs through New Delhi, not through Mr Trivedi's personal rapport with a US envoy. No social-media-coordinated push between the two could produce so much as a single project contract.
+
+Mr Trivedi's appointment illustrates the risks of installing retired politicians as envoys to neighbouring countries. They are opportunists riding the gravy train. Mr Trivedi, for example, has the dubious distinction of moving from the Congress to V.P. Singh’s Jan Morcha and the Janata Dal, then to the Trinamul Congress, and finally the BJP, never letting ideology stand in the way of opportunity.
+
+Political appointments to diplomatic posts are not new: Jawaharlal Nehru and later PMs made...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/bharat-bhushan-clueless-in-dhaka-polite-tweet-hits-major-tripwire-1966916)
+
+---
+
+### Parsa Venkateshwar Rao Jr | India Needs To Urgently Review Israel’s Current Military Power
+*Deccan Chronicle · Opinion*
+
+The US-Israel war against Iran hurt the Indian economy, and this is evident from the government’s assessments as well as the remarks of the RBI’s Monetary Policy Committee meeting last month. The war hasn’t triggered a crisis or a sharp slide in the growth figures, though the estimate for 2026-27 was reduced to 6.6 per cent, compared to 7.8 per cent in 2025-26.
+
+But there is another aspect Indian experts must assess, though it doesn’t directly impact the country. The strategy and security pundits must re-examine the military aspect of the months-long war to understand the balance of power in a region of utmost economic and strategic importance to India.
+
+The war hasn’t yet ended, and it can’t be deemed to have ended until US and Iran reach a final agreement in Switzerland, with Pakistan and Qatar playing mediators. But the hostilities that lasted between February 28 and April 6 do reveal the strengths and weaknesses of the combatants.
+
+It was evident from the start that Israel can’t take on Iran on its own, and needed the help of the US. This was proved in June 2025 when Israel’s bombers hit Iran’s nuclear installations, and President Trump said Israel couldn’t do it alone and needed America’s B-52 bombers to complete the job. When the B-52s joined the fray, they damaged the installations a little more, but not much.
+
+It was no surprise when the second attack was planned in February, the US and Israel decided to do it together. But this time too, the results didn’t match the intent. Iran still seems to possess enriched uranium. Mr Trump wants Iran to surrender it. In one of his exaggerated outbursts, Mr Trump declared that the Americans would enter Iran and whisk away the enriched uranium. Israeli PM Benjamin Netanyahu’s assertions imply that the nuclear threat Iran posed to Israel has been countered by the attacks, though he doesn’t claim the enriched uranium has been blocked. Of course, the claim was that Iran was not far away from making the nuclear bomb, and somehow the US-Israel attacks on Iran have disabled Iran from doing so. One of the terms of the MoU is that the International Atomic Energy Agency (IAEA), the UN nuclear regulator, should resume the inspection of the Iranian nuclear facilities. The contradictions in the Trump and Netanyahu statements are quite explicit.
+
+US vice-president J.D. Vance, in a media interview, has made it plain that Israel is not in a position to take on bigger countries, though he did not specifically mention Iran. He reminded the hawks in Mr Netanyahu’s government that Israel has a population of just nine million people, and it can’t pick up wars with all in the neighbourhood. It was a clear US reminder that Israel can’t fight Iran without America by its side; and that the US would not fight Iran just for the sake of Israel’s national interests. The US has to reckon with its own national interests in fighting Iran, and it does not lend to a war-to-the-finish. The US would only wage war to compel Iran to come to the negotiating table. Also, the US can’t overlook its own economic interests. The rise in gas prices at the pump in America is something that no administration can ignore.
+
+While the US joined hands with Israel for a war with Iran, the policy motivations were different for the two. Israel thus can’t look to the US for unqualified support in its war against Iran. Are there enough security compulsions for Israel to counter Iran’s military buildup?
+
+There seem to be sufficient reasons to do so. Iran’s support for Hezbollah in Lebanon poses a danger to northern Israel. Israel can handle the Hezbollah challenge without help from the US, but the military price it must pay for it is too high. Israeli soldiers occupying Lebanon does not ensure peace. And it is the same in Gaza. Israel has not been able to overwhelm Hamas in Gaza. So, Israel’s overwhelming military power against Hezbollah and Hamas is not sufficient to make Israel safe. The point is clear. Israel cannot hope to resolve its security concerns through the military option alone.
+
+So, Israel can tackle Hamas and Hezbollah in a manner of speaking, because of its military superiority, but its military power is not enough to check the security threat posed by Iran.
+
+The general perception in India’s security and strategy circles is that Israel is a pre-eminent military power in the region, and that it is even an exemplary one. But the war in Gaza since October 7, 2023 and its war with Iran and with Hezbollah in Lebanon indicate the limits of Israel’s military prowess. The assumption has been that Israel can militarily overrun all its neighbours because of its technologically advanced war machine. These wars don’t bear out the presumption. India can benefit from an Israeli defence partnership in importing technologically advanced equipment.
+
+But it would be wiser to be clear-eyed that Israel is not the monarch of all it surveys on the battlefield. At the political level, the ruling BJP has been starry-eyed about ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/parsa-venkateshwar-rao-jr-india-needs-to-urgently-review-israels-current-military-power-1966902)
+
+---
 
 ### Defending digital India: Why technology alone will not protect us
 *Deccan Herald · Opinion*
