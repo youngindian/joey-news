@@ -1,3 +1,640 @@
+## 29 June 2026
+
+### Google Pixel 10 price dropped by Rs 15,200 on Amazon
+*INDIATODAY · general*
+
+The Google Pixel 10 5G is currently available for Rs 64,799, down from its original price of Rs 79,999, giving you a flat discount of Rs 15,200.
+
+For that price, you get 12GB of RAM and 256GB of storage, so there's plenty of room for apps, photos and videos.
+
+The phone is powered by Google's new Tensor G5 processor and runs Android 16 out of the box for the latest software experience.
+
+It also packs a versatile triple rear camera setup with a 48-megapixel main sensor, a 13-megapixel ultra-wide camera and a 10.8-megapixel telephoto lens, along with a 10.5-megapixel front camera for selfies.
+
+On the front, you get a compact 6.3-inch OLED Actua display, while the 4,970mAh battery is designed to comfortably last through a full day.
+
+But wait if you don't want to pay the full amount upfront, Amazon is offering No Cost EMI options starting at Rs 2,278 per month.
+
+The savings don't end there, as HSBC Bank credit card users can get an instant discount of up to Rs 3,000, while eligible smartphone exchanges can reduce the price by as much as Rs 37,000.
+
+You can also get up to Rs 1,943 as Amazon Pay cashback through eligible payment methods, and Amazon Pay ICICI Bank credit card users can save up to Rs 1,689 in interest through No Cost EMI.
+
+---
+
+### Motorola Is Bringing Its Most Loaded Tablet Experience To Flipkart With Moto Pad 70 Pro
+*India Today Web Desk · general*
+
+Tablets are no longer just big screens for watching videos. They’ve evolved into versatile devices for work, entertainment, gaming, reading, studying, sketching, note-taking, and even serious productivity on the go. As expectations rise, users now look beyond screen size to flagship-level performance, immersive audio, long battery life, premium displays, and the ability to switch seamlessly between binge-watching, multitasking, gaming, and creative work without compromise.
+
+That is exactly where the Moto Pad 70 Pro comes in. Motorola’s top-of-the-line tablet is set to debut exclusively on Flipkart during the GOAT Sale, with Early Bird access opening on 4th July.
+
+Built with a large display, powerful Snapdragon performance, JBL-powered audio, a bundled stylus, and Android 16 out of the box, the Moto Pad 70 Pro looks ready to take on the modern tablet user who wants more than just a basic screen.
+
+Here are five reasons why the Moto Pad 70 Pro deserves your attention.
+
+**1\. A massive 13-inch display made for serious viewing**
+
+The Moto Pad 70 Pro comes with a massive 13-inch, 3.5K display, giving users a large and sharp canvas for everything from movies and shows to work documents, creative apps, games, and online classes.  
+With 600 nits brightness, the screen is designed to stay vivid and readable even in bright conditions. So whether you are watching content indoors, working near a window, or carrying it around through the day, the display feels built for real usage.  
+For users who want their tablet to double up as an entertainment screen, productivity device, and creative workspace, this large 3.5K display is easily one of the biggest highlights.
+
+**2\. Flagship-grade power with Snapdragon 8s Gen 4**
+
+Performance is where the Moto Pad 70 Pro makes a strong statement.  
+The tablet is powered by Qualcomm’s Snapdragon 8s Gen 4, a flagship-grade chip designed to handle heavy usage with ease. That means smoother multitasking, faster app switching, better gaming performance, and a more reliable experience when you are working across multiple apps.  
+Paired with 8GB RAM and storage options of 128GB and 256GB, the Moto Pad 70 Pro is not trying to be just a casual-use tablet. It is built for people who actually push their devices, whether that means editing, gaming, streaming, working, attending meetings, or jumping between tasks all day.
+
+**3\. Android 16 out of the box, with upgrades till Android 18**
+
+Longevity matters, especially when you are buying a tablet that you expect to use for years.  
+The Moto Pad 70 Pro runs Android 16 out of the box and comes with guaranteed upgrades all the way to Android 18. That means users get a more future-ready software experience, with the confidence that the device will stay updated for the coming years.  
+For anyone investing in a premium tablet, this is a big win. You are not just getting powerful hardware, you are also getting software support that helps the device stay relevant.
+
+**4\. Quad JBL speakers for immersive entertainment**
+
+Good visuals need good sound. The Moto Pad 70 Pro understands that.  
+The tablet comes with quad JBL speakers, offering a more immersive, room-filling audio experience. Whether you are watching a movie, joining a video call, playing games, or listening to music while working, the sound setup is designed to feel richer and more engaging.  
+This makes the Moto Pad 70 Pro a strong entertainment device, especially for users who do not want to depend on external speakers or headphones every single time.
+
+**5\. Moto Pen included, keyboard support on select variants**
+
+The Moto Pad 70 Pro is also built for creativity and productivity from day one.  
+The bundled Moto Pen stylus makes it useful for sketching, note-taking, marking documents, brainstorming ideas, or simply navigating the tablet with more precision. For students, creators, professionals, and everyday users, this adds a lot of practical value.  
+Select variants also support a Moto Keyboard with Trackpad, turning the tablet into a more versatile setup for typing, browsing, working on documents, replying to emails, and handling productivity tasks more comfortably.  
+Basically, it is not just a tablet you consume content on. It is a tablet you can actually get things done on.
+
+**Battery built for all-day usage**
+
+Powering the device is a massive 10,200mAh battery, designed to keep up with long hours of usage. From work calls and content streaming to gaming, browsing, studying, and creative work, the Moto Pad 70 Pro is built for users who do not want to keep looking for a charger every few hours.  
+For a large-screen, high-performance tablet, that kind of battery capacity makes a solid difference in everyday use.
+
+**Availability on Flipkart**
+
+The Moto Pad 70 Pro will be available exclusively on Flipkart during the GOAT Sale, with Early Bird access opening on 4th July.  
+The tablet will be available at a starting price of 32,999, making it a strong option for users looking for a premium Android tablet experience with a large 3.5K display, Snapdragon 8s Gen 4 performance, quad JBL speakers, Moto Pen support, and long-term Android upgrades.  
+If you have been waiting for a tablet that truly balances performance, display quality, audio, and productivity features, this might be the one to watch. The Moto Pad 70 Pro is literally the best upgrade for anyone looking to move beyond basic tablets.  
+Given the Early Bird access and expected demand during the GOAT Sale, interested buyers may want to act quickly before stocks run out.  
+Mark your calendars, 4th July, Flipkart, Early Bird.
+
+**Disclaimer** \- The material, content, and/or information contained within this impact feature are published strictly for advertorial purposes. T.V. Today Network Limited hereby disclaims any and all responsibility, representation, or endorsement with respect to the accuracy, reliability, or quality of the products and/or services featured or promoted herein. Viewers or consumers are strongly advised to conduct their own due diligence and make independent inquiries before relying on or making any decisions based on the information or claims presented in the impact feature. Any reliance placed on such content is strictly at the individual’s own discretion and risk.
+
+---
+
+### Toyota sales fall for fourth month in May as declines in China, US and Middle East weigh
+*Reuters · business*
+
+Toyota Motor said on Monday that global vehicle sales slipped for a fourth consecutive month in May, as decreases in China and ‌the ⁠Middle East weighed ⁠on overall results.
+
+Global ​sales dropped 7.2% year-on-year to 834,279 vehicles, Toyota ​said in a release. Overseas sales fell 9.6%, while those ​in Japan rose 11.1%, ⁠helped by ‌strong demand ​for models ​such as RAV4 and ⁠bZ4X.
+
+By region, sales in China ​plunged 31.7% amid tough ​market conditions, partly due to rising petrol prices, while those in the Middle East slumped 38.6%. In the U.S., ‌Toyota's top market, they edged down 0.6%.
+
+  
+
+Global production ​declined 5.5% ​from ⁠a year earlier, as a 3.8% drop in the U.S. and a 13.3% ​decrease in Asia offset a rise in Japan.
+
+Toyota's figures include its luxury brand, Lexus. (Reporting by Daniel Leussink; Editing by Rashmi Aich)
+
+---
+
+### Mumbai weather: Heavy overnight showers drench suburbs; over 100 mm rain recorded in several areas
+*SECTIONS Mumbai weather Heavy overnight showers drench suburbs · business*
+
+Mumbai: Intense overnight showers lashed Mumbai's suburbs on Monday, with several areas receiving over 100 mm in just four hours, triggering waterlogging and traffic disruptions in some pockets, civic officials said.
+
+As per data shared by the Brihanmumbai Municipal Corporation (BMC), Veena Nagar in the eastern suburb of Mulund recorded a staggering 160.4 mm of rain, while Versova in the western suburbs logged 156.8 mm.
+
+  
+
+The suburbs witnessed a downpour from midnight to 4 am, causing waterlogging on stretches of LBS Road in Mulund and the Andheri subway, affecting vehicular movement for some time, officials said.
+
+The BMC's automatic weather stations recorded the highest rainfall in the eastern suburbs, with Maharashtra Nagar School in Mankhurd receiving 123.4 mm of rain, followed by Paspoli Municipal School in Powai (122 mm), Mithagar Municipal School in Mulund (120.8 mm) and the S Ward office (120.6 mm).
+
+In the western suburbs, the Versova pumping station recorded 121.6 mm of rain, followed by Marol fire station (108.4 mm), Pratiksha Nagar Municipal School in Oshiwara (108 mm) and Malpa Dongari Municipal School in Andheri (104 mm), officials said.
+
+The island city received moderate showers, with Matunga witnessing the highest rainfall at 53.4 mm, followed by Rawali Camp (46.72 mm), Dadar fire station (45.6 mm), Malabar Hill (37.2 mm) and Nair Hospital (33.77 mm).
+
+---
+
+### ‘Come Forward, Help Us Get Justice’: Ketan Agarwal Father's Emotional Appeal To Lohagad Witnesses
+*Shobhit Gupta · general*
+
+Ketan Agarwal was allegedly pushed to his death from Lohagad Fort by his fiance and her alleged lover, Siya Goyal and Chetan Chaudhary, respectively, on June 18.
+
+[Read full article](https://www.news18.com/india/come-forward-help-us-get-justice-ketan-agarwal-fathers-emotional-appeal-to-lohagad-witnesses-ws-l-10179055.html)
+
+---
+
+### Jai Moondra: Rajasthan-born SRM Chennai graduate who stunned India for Ireland is looking for a new tech job
+*Trending Desk · business*
+
+Jai Moondra became the hero of Ireland’s historic T20I win over India, but his journey off the cricket field is equally surprising. The Rajasthan-born pacer, who was named Player of the Series after taking five wickets in two matches against India, is also a technology professional currently looking for his next career opportunity.
+
+Moondra’s performance against India brought him into the spotlight after he dismantled a strong batting lineup, dismissing key players including Sanju Samson, Abhishek Sharma and Shreyas Iyer. But away from international cricket, the 29-year-old has another identity — a former Intel engineer with a background in electronics and communication.
+
+  
+
+## From Rajasthan to Ireland: The engineer who chased cricket
+
+Born in Rajasthan, Moondra moved to Ireland in 2021 to pursue higher education. He completed his master’s degree in Electronics and Communications Engineering from the University of Dublin in 2022.
+
+  
+
+Like many Indian students who move abroad, Moondra focused on building a stable professional career. Soon after completing his studies, he joined Intel as a Product Development Engineer.
+
+However, while he built a career in the technology sector, cricket remained a part of his life.
+
+According to his LinkedIn profile, Moondra left Intel in June 2025 and has not joined another company since then. His profile currently carries the #OpenToWork badge as he searches for full-time engineering roles in Ireland and Europe.
+
+  
+
+## The pacer who shocked India
+
+Moondra announced himself on the international stage in a dream manner during Ireland’s historic victory over India in Belfast.
+
+The left-arm medium pacer dismissed Sanju Samson with the very first ball of his international career, immediately putting India under pressure.
+
+In the second T20I, he continued his brilliant run by dismissing India’s opening pair of Samson and Abhishek Sharma for golden ducks. He also removed India’s newly appointed captain Shreyas Iyer for 10 runs.
+
+His five wickets in the two-match series made him one of the biggest talking points and earned him the Player of the Series award.
+
+## Cricket never left him despite his tech career
+
+When Moondra moved to Dublin for his master’s degree, international cricket was not part of his immediate plans.
+
+He completed his education, secured a job and followed a path that many young professionals aim for. But his connection with the sport continued.
+
+Interestingly, during his time away from fast bowling, Moondra changed his style and started playing as a left-arm spinner who could also contribute with the bat.
+
+The turning point came in 2024 when he decided to leave his corporate career behind and give cricket another serious attempt.
+
+He joined Leinster Cricket Club in Dublin and committed himself fully to the sport.
+
+The comeback required major sacrifices. Moondra travelled long distances from Dublin to Belfast for training sessions, often returning home late before repeating the routine.
+
+## Moondra explained his bowling plan before facing India
+
+After earning his first Ireland call-up, Moondra spoke about how he uses his left-arm angle and movement to trouble batters.
+
+"As a left-arm bowler, my angle is my strength. With the new ball, I try to use the swing, hit the pad, hit the stumps, and get a few across the batter. My intention is to not be predictable and try to get some edges. I want to be aggressive, put pressure on the batter, and make them uncomfortable in the hope that they make mistakes and create opportunities to get early wickets."
+
+Against India, his approach delivered exactly what he wanted. His movement, accuracy and attacking mindset helped Ireland create one of their biggest cricket moments.
+
+"Now, to have been part of Ireland's first-ever win over India makes it even more special, it's something I'll remember for the rest of my life. It's a proud moment for the team, and for Irish cricket," he added.
+
+## A cricket future after a corporate career
+
+Despite his breakthrough performance, Moondra’s future in Ireland still carries some uncertainty.
+
+His work permit, which was provided by his former employers, is nearing expiry. Since this was his maiden international call-up, he does not have the security of a central contract like Ireland’s established players and will only receive match fees for the India series.
+
+However, his performances could change that situation. A bowler who can trouble a world-class batting lineup could become an important long-term asset for Irish cricket.
+
+From writing code and working in the technology sector to taking wickets against India on the international stage, Jai Moondra’s journey is a reminder that career paths can take unexpected turns.
+
+---
+
+### US judge's order in Adani case is procedural: Senior lawyer Raian Karanjawala
+*SECTIONS US judge's order · business*
+
+New Delhi: Raian N. Karanjawala, Managing Partner of Karanjawala & Company, on Monday said the recent order passed by US District Judge Nicholas Garaufis in the Adcase is a routine procedural requirement under the American legal system and should not be viewed as an unusual development.
+
+Speaking to ANI, Karanjawala said that while the US Department of Justice (DOJ) has broad discretion to decide whether to continue or withdraw a prosecution, it must obtain the court's permission before doing so.
+
+"This is routine. The Department of Justice has a very high degree of discretion to decide whether it should continue or stop a prosecution. But it cannot do so by itself. It has to approach the court and seek what is known as the 'leave of the court'. That is exactly what is happening here," he said.
+
+  
+
+Karanjawala disclosed that the Adani Group is a client of his firm and that Gautam Adani is his friend. He also clarified that he is not a specialist in American law and that his views are based on his understanding of the legal process. Speaking on whether Judge Garaufis could reject the DOJ's request, Karanjawala said the judge's role is limited to ensuring that the prescribed legal procedure has been followed.
+
+"The judge has to ensure that the proper legal procedure has been followed. His jurisdiction is limited. In the overwhelming majority of such cases, the public prosecutor is permitted to withdraw the case if it wants to," he said.
+
+He added that the judge's decision to seek further details from the DOJ is part of the normal judicial process and does not indicate any adverse view.
+
+"There is no reaction required from the DOJ. This is part of the normal process. The judge has asked for additional details and the Department of Justice will provide them," he said.
+
+Karanjawala also said the proceedings are unlikely to face any significant delay because of the order.
+
+"It is not as if the matter has been pushed back by several months. The DOJ will file its detailed response, and the matter will proceed in the normal course," he said.
+
+Speaking on whether the Adani Group or the DOJ could file an appeal, he said that stage has not yet been reached.
+
+"Appeal is always a legal option, but that stage has not yet come. For now, everyone has to wait for the court to consider the material placed before it and pass its order," he said.
+
+Earlier, US District Judge Nicholas Garaufis, instructed the Justice Department to furnish a more comprehensive clarification regarding its petition to formally drop the indictment. Judge Garaufis noted that the federal prosecutors' May 18 notification indicating they would no longer move forward with the case did not provide an adequate explanation for their decision to withdraw the matter.
+
+The US DOJ had decided to permanently drop all criminal charges against Gautam Adani and Sagar Adani in an alleged securities and wire fraud case pending in New York. Prosecutors had concluded that they could not sustain the allegations.
+
+The Adani Group has maintained that the case against it suffered from fatal flaws. In a letter to the Court dated June 24, 2026, the company highlighted that the transactions were conducted by non-US issuers and lenders, governed by English law, and fell outside the scope of US securities law under the Supreme Court's ruling in Morrison v. National Australia Bank.
+
+Furthermore, the defence highlighted that the bribery allegations lacked substance, supported by expert testimony from a former senior Indian regulatory official, which indicated that the alleged payments were transparent price reductions rather than illegal inducements. Adani also noted that there were no investor losses, as all bond and loan obligations have been met or are in good standing.
+
+---
+
+### 35 years after Sarla Bhat's rape-murder, J&K probe agency chargesheets Yasin Malik
+*Pooja Shali · general*
+
+## The Jammu and Kashmir State Investigation Agency (SIA) is set to file a 737-page chargesheet in the 1990 abduction and killing of Sarla Bhat, alleging the crime was part of a broader JKLF campaign targeting Kashmiri Pandits and marking a major breakthrough in a decades-old terror case.
+
+35 years after Sarla Bhat's rape-murder, chargesheet names Yasin Malik
+
+Nearly 35 years after the abduction, rape, torture and murder of Kashmiri Pandit nurse Sarla Bhat, the State Investigation Agency (SIA), Kashmir, is set to file a 737-page chargesheet before a special court in Srinagar, naming JKLF chief Mohammad Yasin Malik and other accused.
+
+Sources confirm the investigation has revealed the involvement of Mohammad Yasin Malik, then Chief Commander of JKLF, along with Khurshid Ahmad Chalkoo, Abdul Hamid Sheikh, Mohammad Yousuf Sofi alias Idrees and Ghulam Mohammad Taploo in planning and executing the abduction and brutal killing.
+
+While Abdul Hamid Sheikh, Mohammad Yousuf Sofi alias Idrees and Ghulam Mohammad Taploo are deceased, Mohammad Yasin Malik is presently in judicial custody in another case.
+
+Legal proceedings, including proclamation proceedings, have been initiated against absconding terrorist Khurshid Ahmad Chalkoo (the man who pulled the trigger), who is believed to have exfiltrated to Pakistan-occupied Jammu & Kashmir.
+
+The case was transferred to the SIA, J&K, on March 18, 2024, under the orders of the Director General of Police (DGP), J&K.
+
+The voluminous chargesheet, painstakingly compiled after an exhaustive investigation, brings together a formidable body of oral, documentary, forensic, ballistic, medical and electronic evidence accumulated over decades and meticulously analysed by SIA Kashmir.
+
+The filing of the chargesheet after nearly thirty-five years marks a historic milestone in the pursuit of justice for victims of terrorism and stands as one of the most significant breakthroughs in the investigation of legacy terror crimes in Jammu & Kashmir.
+
+The case relates to one of the most barbaric terrorist crimes committed during the early phase of terrorism in Kashmir. Sarla Bhat was abducted from the vicinity of Sher-i-Kashmir Institute of Medical Sciences (SKIMS) on April 18, 1990, subjected to brutal torture and physical assault, and thereafter horrendously killed through automatic rifle fire at Omer Colony, Malbagh, Srinagar.
+
+For decades, the case remained unresolved owing to the extraordinary circumstances prevailing during the peak years of terrorism in Jammu & Kashmir. The atmosphere of fear, intimidation and terror created by terrorist organisations had severely impacted the ability of witnesses to come forward and disclose material facts.
+
+Terrorist organisations had created an environment where silence was enforced through threats and violence, allowing many heinous crimes to remain buried beneath layers of fear and coercion.
+
+The Sarla Bhat case became one such symbol of the dark chapter of terrorism that engulfed the Kashmir Valley.
+
+Yet, neither the memory of the victim nor the quest for justice faded with time.
+
+Upon being entrusted to SIA Kashmir in March 2024, the case was subjected to a comprehensive and scientific investigation.
+
+Despite the lapse of more than three and a half decades, investigators painstakingly reconstructed the sequence of events through protected witness testimonies, independent eyewitness accounts, forensic and ballistic analysis, medical evidence, documentary records, electronic evidence and extensive field investigations.
+
+The investigation has conclusively established that the killing of Sarla Bhat was not an isolated act of violence but part of a larger terrorist conspiracy orchestrated under the command and control of the Jammu and Kashmir Liberation Front (JKLF).
+
+Sources confirm that the chargesheet establishes offences punishable under Sections 364, 341, 302 read with 34, 201 and 120-B of the IPC, Sections 3(2), 3(3), 4 and 6 of the Terrorist and Disruptive Activities (Prevention) Act, 1987 (TADA), and Sections 7 and 27 of the Indian Arms Act, 1959.
+
+Evidence collected during the investigation demonstrates that the murder formed part of JKLF's systematic campaign of targeted terrorist violence intended to spread fear among innocent civilians, particularly members of the Kashmiri Pandit community, create conditions for their forced displacement from the Kashmir Valley, and advance the secessionist agenda of the terrorist organisation.
+
+The successful culmination of this investigation after thirty-five years is a powerful reminder that the passage of time does not erase criminal liability.
+
+\- Ends
+
+Sayan Ganguly
+
+Jun 29, 2026 10:06 IST
+
+---
+
+### Strawberry Moon 2026: When And How To Watch It In India
+*Sujata Singh · general*
+
+Despite its name, the Strawberry Moon won't appear pink, but it will be one of the year's most beautiful full moons.
+
+[Read full article](https://www.news18.com/photogallery/india/strawberry-moon-2026-when-and-how-to-watch-it-in-india-ws-l-10179012.html)
+
+---
+
+### This is When Apple Could Launch the iPhone 18 Pro and iPhone 18 Pro Max
+*Shaurya Tomer · technology, mobile*
+
+Gurman says September 8 could be the most likely date for the launch of the iPhone 18 Pro and iPhone 18 Pro Max.
+
+[Read full article](https://www.gadgets360.com/mobiles/news/iphone-18-pro-max-launch-date-september-9-mark-gurman-price-hike-idc-report-11700614)
+
+---
+
+### Why do people cry? Understanding the science and psychology behind tears
+*SECTIONS Why do people cry Understanding the science · business*
+
+Crying is one of the most natural human responses, yet many people often wonder why it happens. Whether triggered by sadness, joy, frustration, pain, or even laughter, tears are a universal part of human life. While crying is commonly associated with negative emotions, many believe it serves several important physical and emotional functions.
+
+## What Is Crying?  
+
+Crying is the body's way of producing tears from the lacrimal glands located above the eyes. Humans are unique because they shed emotional tears in response to feelings and experiences. Unlike reflex tears that protect the eyes from dust, smoke, or irritation, emotional tears are linked to the brain's emotional processing system.
+
+Researchers generally classify tears into three categories:
+
+  
+
+1\. Basal tears – These keep the eyes moist and protect them from drying out.  
+2\. Reflex tears – These are produced in response to irritants such as onions, smoke, or dust.  
+3\. Emotional tears – These occur when a person experiences strong emotions such as sadness, happiness, anger, relief, or empathy.
+
+  
+
+## Why Do People Cry?  
+
+One of the primary reasons people cry is to express emotions. Crying acts as a natural outlet when feelings become intense and difficult to communicate through words alone. People may cry after experiencing loss, disappointment, stress, heartbreak, or emotional pain.
+
+However, tears are not always linked to sadness. Many individuals cry during weddings, reunions, the birth of a child, or moments of great achievement. In such situations, tears reflect overwhelming happiness, gratitude, or relief.
+
+Physical pain can also trigger crying. This response is believed to be part of the body's natural reaction to injury and discomfort.
+
+## The Benefits of Crying  
+
+Although some people view crying as a sign of weakness, experts suggest it can be beneficial. Emotional tears may help reduce stress by releasing built-up emotions. Many people report feeling calmer or more relieved after a good cry.
+
+Crying can also strengthen social bonds. Tears signal to others that a person may need comfort, support, or understanding. This emotional communication helps build empathy and connection between individuals.
+
+Additionally, tears contain substances that help protect and lubricate the eyes, contributing to overall eye health.
+
+## Is It Normal to Cry?  
+
+Yes, crying is a completely normal human behavior. The frequency of crying varies from person to person depending on personality, emotional sensitivity, life experiences, and circumstances. Some individuals cry often, while others cry rarely.
+
+## Conclusion  
+
+Crying is far more than a reaction to sadness. It is a complex emotional and biological process that helps people express feelings, cope with stress, communicate needs, and maintain eye health. Whether tears are caused by sorrow, joy, frustration, or relief, they play an important role in human emotional well-being and remind us of our shared human experience.
+
+---
+
+### BK Hariprasad demands Rajnath Singh's resignation, says accountability cannot be avoided for "misleading" Parliament on Op Sindoor
+*Unknown · business*
+
+Bengaluru: Karnataka Congress chief BK Hariprasad on Monday demanded the resignation of Defence Minister Rajnath Singh amid the recent controversy surrounding the names of six armed forces personnel who lost their lives during "Operation Sindoor," which were recently etched at the National War Memorial.
+
+In a post on 'X', Hariprasad referenced Rajnath Singh's 2025 parliamentary speech, claiming the Defence Minister had "categorically" told Parliament that no soldiers' lives were lost during Operation Sindoor. He stressed that the subsequent disclosure of the operation's fallen heroes represents a "serious contradiction" to the Minister's earlier remarks.
+
+  
+
+"Defence Minister Rajnath Singh categorically told Parliament that no Indian soldiers lost their lives during #OperationSindoor. The BJP government's own subsequent disclosure naming the personnel who made the supreme sacrifice exposes a serious contradiction," the Congress leader wrote on X.
+
+"If Parliament was misled on a matter of such national importance, accountability cannot be avoided. Rajnath Singh must resign for misleading Parliament. Our martyrs deserve truth, honesty, and respect--not contradictory statements," Hariprasad added.
+
+The names of the six Indian security personnel who died during the four-day operation against Pakistan in May 2025 have since been etched at the National War Memorial in New Delhi.
+
+As the issue ignited a political row, the Ministry of Defence clarified on Saturday that the nation had honoured the six personnel who made the supreme sacrifice during Operation Sindoor at the earliest opportunity, rejecting claims that their sacrifice had only been acknowledged publicly for the "first time" recently.
+
+According to the release, it stated, "Certain reports circulating in sections of the media and on social media platforms have incorrectly suggested that the supreme sacrifice of six bravehearts during Operation Sindoor has been acknowledged or brought to public notice for the first time only recently. It is clarified that the nation paid homage to these fallen heroes at the earliest opportunity, well before the reports in question."
+
+During the official press conference held on May 11, 2025, the then Director General of Military Operations paid solemn tribute to these brave soldiers and specifically acknowledged their sacrifice in the line of duty during Operation Sindoor. These bravehearts were conferred with gallantry awards, and this was published in the press release of August 14, 2025. This constituted a formal and national recognition of their valour and supreme sacrifice in keeping with the highest traditions of the Indian Defence Forces, the release had stated.
+
+---
+
+### China places 20 Japanese entities on export control list for dual-use items
+*SECTIONS China places · business*
+
+BEIJING: China added 20 Japanese entities to its export control list for dual-use items on Monday, preventing Chinese firms from selling to them without prior approval, citing Tokyo's ambitions for "remilitarisation."
+
+The action, Beijing's latest in a series of export curbs targeted at Tokyo, was aimed at limiting Japan's "new type ‌of militarism" as ⁠well as ⁠its nuclear ambitions, the Chinese commerce ministry said in a statement.
+
+Japan's defence ministry ​did not immediately respond to a request for comment.
+
+  
+
+Ties between China and Japan have been strained since late last year after sensitive Taiwan-
+
+"China's ‌lawful action of listing only targets a small number ​of Japanese ​entities, the relevant measures apply only to dual-use items, ⁠which does not affect the normal economic and trade exchanges ​between China and Japan," the ministry said, reassuring that ​law-abiding Japanese entities operating "in good faith" need not worry.
+
+The 20 entities include Japan's Institute for Defence Studies, as well as subsidiaries of Mitsubishi, Komatsu and Fujitsu, the ministry notice showed.
+
+Dual-use items are goods, software or technology with potential military or weapons-development applications.
+
+Chinese exporters are prohibited from ‌selling to the entities while foreign organisations and individuals are prohibited from transferring or supplying dual-use items originating in China to ​them, effective immediately.
+
+The ​ministry also put ⁠20 other Japanese entities on a watchlist for which it could not verify the end users or final use of dual-use items exported to them.
+
+The ​watchlist deters trade with those entities but requires exporters applying to do so to provide a risk assessment report and a written commitment not to use dual-use items for any purpose that would enhance Japanese military strength.
+
+---
+
+### Fire erupts at flat in Noida's Sector 119; six fire tenders deployed
+*SECTIONS Fire erupts · business*
+
+A fire broke out at a flat in Aranya Society in Sector 119 of Noida on Sunday, prompting a large-scale firefighting operation, officials said.
+
+The incident occurred within the jurisdiction of the Sector 113 Police Station. Six fire tenders were rushed to the spot, and firefighting operations are currently underway.
+
+Authorities said there have been no reports of casualties so far.
+
+  
+
+Following the incident, Uttar Pradesh Chief Minister Yogi Adityanath took cognisance of the fire and directed senior officials to reach the site immediately. The Chief Minister instructed authorities to expedite relief and rescue operations and ensure proper medical treatment for any injured persons.
+
+According to the Chief Minister's Office (CMO), Adityanath also directed the administration to remain vigilant at all levels and continuously monitor the relief operations.
+
+Fire department personnel are working to bring the blaze under control, while police have cordoned off the area to facilitate rescue and firefighting efforts.
+
+Further details are awaited as the operation continues.
+
+---
+
+### Your daily habits could be destroying your back and joints. Here's how to stop it
+*Smarica Pant · general*
+
+## Orthopaedic specialists say joint and back problems are rising among younger working men. Long sitting hours, poor posture and delayed care are turning preventable pain into a chronic risk.
+
+Sedentary work is driving joint and back pain in men in their 20s and 30s
+
+Modern work life has changed the way people live, but it has also changed the way their bodies age. Many working men spend eight to ten hours a day sitting in front of computers, attending meetings, commuting, or using smartphones. While this routine may seem harmless, it places constant stress on the spine, muscles, and joints.
+
+Dr Ashwani Maichand, Director - Dept of Orthopaedics at the CK Birla Hospital (R), Delhi, say that joint and back problems are becoming increasingly common among working professionals. Conditions that were once associated with old age are now affecting younger adults, including those in their late 20s and 30s. A lack of movement, unhealthy eating habits, obesity, stress, and poor posture are major reasons behind this growing trend.
+
+Many men ignore the early warning signs, hoping that the pain will disappear on its own. Some rely on painkillers or home remedies instead of seeking medical advice. However, untreated joint and back pain can become chronic over time and may even lead to permanent damage or surgery.
+
+The good news is that many of these problems are preventable. Small lifestyle changes, regular exercise, and timely medical care can help keep the joints healthy and reduce the risk of long-term disability.
+
+## WHY ARE JOINT AND BACK PROBLEMS INCREASING?
+
+Today's work culture encourages long hours of sitting with very little physical activity. Whether working from home or in an office, many people remain seated for most of the day without taking breaks.
+
+Several factors contribute to joint and spine problems, including:
+
+-   Sitting continuously for long hours
+-   Poor posture while working
+-   Lack of regular exercise
+-   Excessive screen time
+-   Obesity and weight gain
+-   Smoking
+-   Poor nutrition
+-   Vitamin D and calcium deficiency
+-   High levels of work-
+-   Weak core muscles
+
+When these factors continue for years, they gradually increase pressure on the spine, muscles, and joints, making injuries and chronic pain more likely.
+
+## COMMON JOINT AND SPINE PROBLEMS SEEN IN WORKING MEN
+
+### 1\. LOWER BACK PAIN
+
+Lower back pain is the most common complaint among office workers. Sitting for prolonged periods weakens the muscles that support the spine, increasing strain on the lower back.
+
+Common symptoms include:
+
+-   Dull or sharp pain in the lower back
+-   Difficulty bending or lifting
+-   Stiffness after sitting for long periods
+-   Pain that spreads to the hips or legs
+
+### 2\. NECK PAIN AND CERVICAL PROBLEMS
+
+Constantly looking at computer screens or mobile phones can strain the neck muscles and spine.
+
+People may experience:
+
+-   Neck stiffness
+-   Pain while turning the head
+-   Headaches
+-   Shoulder discomfort
+-   Tingling or numbness in the arms
+
+Poor posture over several years may increase the risk of cervical spondylosis, a condition caused by wear and tear of the neck bones and discs.
+
+### 3\. KNEE PAIN
+
+Being overweight, inactive, or spending long hours seated can weaken the muscles that support the knees. This may increase pressure on the knee joints during daily activities such as climbing stairs or walking.
+
+Early knee pain should not be ignored, as it may progress to osteoarthritis over time.
+
+### 4\. SHOULDER STIFFNESS
+
+Continuous computer work without stretching can reduce shoulder mobility.
+
+Common signs include:
+
+-   Difficulty lifting the arm
+-   Pain while reaching overhead
+-   Stiffness after long working hours
+-   Reduced range of motion
+
+## WHY IGNORING PAIN CAN BE DANGEROUS
+
+Many working men continue their daily routine despite persistent pain. Some depend on painkillers to get through the workday without identifying the actual cause.
+
+Ignoring pain may lead to:
+
+-   Chronic back pain
+-   Disc degeneration
+-   Nerve compression
+-   Reduced mobility
+-   Permanent joint damage
+-   Increased need for surgery later
+
+Pain is often the body's first warning sign that something needs attention. Early diagnosis usually allows simpler treatment and faster recovery.
+
+## LIFESTYLE HABITS THAT PROTECT YOUR JOINTS
+
+Healthy joints depend on healthy daily habits. Experts recommend making small but consistent lifestyle changes.
+
+### STAY PHYSICALLY ACTIVE
+
+Aim for at least 30 minutes of moderate physical activity on most days.
+
+Good options include:
+
+-   Walking
+-   Cycling
+-   Swimming
+-   Yoga
+-   Strength training
+
+Exercise improves flexibility, strengthens muscles, and reduces pressure on joints.
+
+### STRENGTHEN CORE MUSCLES
+
+Strong abdominal and back muscles help support the spine and improve posture.
+
+Core exercises may include:
+
+-   Planks
+-   Bridges
+-   Bird-dog exercises
+-   Supervised strength training
+
+A strong core reduces the risk of lower back injuries.
+
+### MAINTAIN GOOD POSTURE
+
+Whether sitting or standing, proper posture reduces unnecessary stress on the spine.
+
+Simple posture tips include:
+
+-   Sit with your back fully supported.
+-   Keep your feet flat on the floor.
+-   Position the computer screen at eye level.
+-   Relax your shoulders.
+-   Avoid slouching.
+
+## CREATE AN ERGONOMIC WORKSPACE
+
+Your workstation plays an important role in protecting your joints.
+
+An ergonomic workspace should include:
+
+-   A chair with proper lumbar support
+-   Adjustable monitor height
+-   Keyboard positioned comfortably
+-   Elbows bent at around 90 degrees
+-   Wrists kept in a neutral position
+
+Small adjustments can greatly reduce neck, shoulder, and back strain.
+
+## TAKE REGULAR STRETCH BREAKS
+
+Remaining in one position for hours can stiffen muscles and reduce blood circulation.
+
+Experts recommend:
+
+-   Standing up every 30 to 60 minutes
+-   Walking for a few minutes
+-   Stretching the neck, shoulders, back, and legs
+-   Avoiding sitting continuously throughout the day
+
+These short breaks help reduce muscle fatigue and improve flexibility.
+
+## EAT FOR STRONG BONES AND JOINTS
+
+Nutrition plays an important role in maintaining bone and joint health.
+
+Include foods rich in:
+
+-   Calcium
+-   Vitamin D
+-   Protein
+-   Fresh fruits
+-   Green leafy vegetables
+-   Nuts and seeds
+
+Staying hydrated also helps support healthy joints and overall physical performance.
+
+## MAINTAIN A HEALTHY WEIGHT
+
+Excess body weight increases pressure on weight-bearing joints such as the knees, hips, and lower back.
+
+Even modest weight loss can reduce joint stress and improve mobility.
+
+## WHEN SHOULD YOU SEE A DOCTOR?
+
+Do not ignore pain that:
+
+-   Lasts for more than a few weeks
+-   Keeps returning
+-   Worsens over time
+-   Causes numbness or weakness
+-   Makes walking or daily activities difficult
+-   Occurs after an injury
+
+Early consultation with an orthopaedic specialist can help identify the problem before it becomes severe.
+
+Joint and back problems are no longer limited to older adults. Today's working lifestyle has increased the risk of spine and joint disorders among younger men as well. Long hours of sitting, poor posture, lack of exercise, obesity, and nutritional deficiencies all contribute to this growing health concern.
+
+The encouraging news is that most of these conditions can be prevented through regular physical activity, proper workplace ergonomics, healthy eating, maintaining a healthy weight, and paying attention to early symptoms. Instead of ignoring persistent pain, seeking timely medical advice can prevent long-term complications and help people stay active, productive, and pain-free for years to come.
+
+\- Ends
+
+Smarica Pant
+
+Jun 29, 2026 09:58 IST
+
+---
+
+### Persistent Systems Shares Fall 8% After Announcing Strategic Combination With Germany's Nagarro
+*Varun Yadav · business*
+
+Persistent Systems shares fall 7 percent after announcing all cash takeover offer for Nagarro at EUR 81 per share, creating Persistent x Nagarro group with USD 2.9 billion revenue
+
+[Read full article](https://www.news18.com/business/markets/persistent-systems-shares-fall-7-after-announcing-strategic-combination-with-germanys-nagarro-ws-l-10179061.html)
+
+
+---
+
 ## 28 June 2026
 
 ### What Happened At Lohagad Fort? Police Recreate Ketan Agarwal Murder Scene With Siya And Chetan
