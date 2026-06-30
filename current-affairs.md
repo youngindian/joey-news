@@ -1,3 +1,394 @@
+## 30 June 2026
+
+### DBS completes $1 billion synthetic securitisation in first for a Singapore bank
+*SECTIONS DBS completes · business*
+
+DBS Group, Singapore's biggest bank by assets, said on Tuesday it has completed a synthetic securitisation transaction tied to a $1 billion portfolio of corporate loans, the ‌first such ⁠deal ⁠by a Singapore bank.
+
+The deal, also known as a significant risk transfer transaction, allows investors to take on part of the credit risk of ⁠the loan ‌portfolio. DBS keeps and services the loans, while reducing the ⁠regulatory capital it must hold against them.
+
+DBS said the transaction would help it manage capital more efficiently and support more client financing as it expands across the region.
+
+  
+
+It said the deal ‌also lays a foundation for the bank to selectively execute ​more such ​transactions ⁠in future.
+
+Philip Fernandez, DBS' group corporate treasurer, said the deal would help the bank keep strong balance sheet discipline while pursuing growth opportunities.
+
+DBS said its capital ratios were well above regulatory requirements.
+
+---
+
+### Shillong Teer Results Today Live, June 30, 2026: Winning Numbers For All Teer Games
+*Nibandh Vinod · general*
+
+Shillong Teer Result Today: Here's full list of winning numbers for Shillong Teer, Juwai Teer, Khanapara Teer, and more for June 30, 2026.
+
+[Read full article](https://www.news18.com/india/shillong-teer-result-today-june-30-2026-first-and-second-round-lottery-result-check-winning-numbers-full-list-10179571.html)
+
+---
+
+### From Seychelles To Philippines: Countries Where India Has Military Advisers And Defence Attachés
+*Shuddhanta Patra · general*
+
+India continues to maintain long-standing defence attaché or military adviser positions in major countries including the United States, the United Kingdom, Russia and France.
+
+[Read full article](https://www.news18.com/india/india-military-advisers-defence-attaches-countries-africa-asia-europe-indo-pacific-seychelles-bhutan-philippines-10181094.html)
+
+---
+
+### Outgoing Army Chief General Upendra Dwivedi lays wreath at Delhi's National War Memorial
+*ET Online · business*
+
+Outgoing Army Chief General Upendra Dwivedi lays wreath at Delhi's National War Memorial
+
+[Read full article](https://economictimes.indiatimes.com/news/videos/outgoing-army-chief-general-upendra-dwivedi-lays-wreath-at-delhis-national-war-memorial/videoshow/132083645.cms)
+
+---
+
+### 'Operation Sindoor Showed India's Resolve': Army Chief Says Future Wars Will Be Technology-Driven
+*Vani Mehrotra · general*
+
+Army Chief Gen Upendra Dwivedi says the LAC remains stable but sensitive, outlines Army transformation, drone strategy, and calls Agnipath a work in progress.
+
+[Read full article](https://www.news18.com/india/army-chief-gen-upendra-dwivedi-exclusive-operation-sindoor-lac-strategy-drone-capabilities-baaz-battalions-counter-drone-agnipath-ws-l-10180941.html)
+
+---
+
+### US envoy says India ties stay strong despite Indo-Pacific Command rename
+*India Today World Desk · general*
+
+## US Ambassador Sergio Gor dismissed the row over the Indo-Pacific Command renaming and said ties with India remain robust. He said steady defence activity, expanding cooperation and personal rapport at the top reflect a long-term partnership.
+
+Stock photo used for illustration
+
+US Ambassador to India Sergio Gor on Monday dismissed the controversy over the renaming of the US Indo-Pacific Command, saying the focus should be on the substance of the relationship and not the "name on a letterhead". Speaking at the US-India Strategic Partnership Forum Leadership Summit, he said India continues to hold more military exercises with the US than any other country and that defence engagement between the two sides remains regular.
+
+Gor also rejected suggestions that India-US ties had weakened, saying the relationship remained "on strong footing" across trade, defence and people-to-people links. He said President Donald Trump attached significant importance to ties with India and was committed to expanding cooperation in trade, technology, defence and investment.
+
+His remarks came against the backdrop of a row over the dropping of "Indo" from the Indo-Pacific Command. Established in 1947, the US Pacific Command is among the oldest unified commands of the US and covers an area stretching from the west coast of the US to India's western border. During Trump's first term, it was renamed the Indo-Pacific Command to reflect the growing importance of India in the region. Earlier this month, the US restored its original name.
+
+Referring to the debate, Gor said, "I just want to mention something because a lot of individuals made hay over a name change. I don't care what name is on a letterhead, but look at what the United States is actually doing." He added, "Yes, the name changed; we're still there. India still has more exercises with the United States than any other country by far. Every single month there's something happening, whether it's Indian troops coming here or whether it's US troops going into the region." He also said a delegation of the Indian Navy would be visiting the US in the next two weeks.
+
+On the broader relationship, Gor said online commentary suggesting trouble in ties did not match the facts. "So to all those pundits that sit online and tweet and say, this relationship is in trouble, when you look at the facts of where this relationship stands, whether it's trade, whether it's defence, whether it's the people to people ties, the relationship is on strong footing," he said.
+
+Gor also recalled an occasion when Trump wanted to call Prime Minister Narendra Modi from Miami while attending the Ultimate Fighting Championship bouts. "It was a couple months ago... with the president at UFC in Miami and we're sitting backstage and he said to me, 'Let's call the Prime Minister'," Gor said. "I said, 'Sir, it's 6:00 AM in the morning there (India).' He said, 'He (Modi) will be up. He (Modi) is like me'," he added. Gor said that by the time he managed to speak to a few people in New Delhi, Trump was already on the UFC stage and the call was eventually scheduled for the following day.
+
+According to Gor, the episode reflected the nature of the relationship between Trump and Modi. "The louder message of that story is when you're friends with somebody, not everything has to be scheduled," he said, adding that the president truly considered the Prime Minister a friend. He said Trump's association with Modi went back to his first term and that there were "warm memories of India".
+
+Summing up his remarks, Gor said the US wanted to work "hand in hand" with India and that the next two years would be crucial in shaping the relationship for decades. "These next two years will set the relationship on a path for several decades ahead. So for everyone here who participates in this, think of this as a long-term project. This is not a one year or two year, but what we sow now will continue to sustain us decades ahead," he said.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Jun 30, 2026 09:38 IST
+
+---
+
+### The US is getting something right — in Lebanon
+*SECTIONS The US is getting something right · business*
+
+According to Donald Trump, Iran is on the ropes and “willing to give us practically anything.” This, as the weekend exchanges of fire indicate, is fantasy. Yet it’s worth rethinking these stop-start peace talks as more of a process necessary to establish what the post-conflict balance of forces in the region will really be. That implies a choppy future for the negotiations — but also suggests they could yet salvage something positive from an ill-judged war.
+
+Iran, for example, established during the fighting that it can close the Strait of Hormuz, so it now wants to embed that leverage for peacetime use. But how much control can it demand? By moving tankers through Omani waters, often with their transponders off, the US is saying "not much"; Tehran has pushed back by striking vessels using the Omani route without its permission. The contest is far from over.
+
+Something similar is happening in Lebanon, which was sucked into the war when Hezbollah began firing rockets into Israel in March. Israel invaded; Iran has made a ceasefire there key to the broader 14-point Memorandum of Understanding that it struck with the US. The MOU commits both sides to “ensuring the territorial integrity and sovereignty” of Lebanon, which in Iran’s view means a full Israeli withdrawal.
+
+The language can, however, be read to cut both ways. It should also require the subordination of Hezbollah — an armed, Iran-backed, non-state actor that’s been undermining Lebanese sovereignty for decades — to Lebanon’s government. US Secretary of State Marco Rubio has, to his credit, tried to do just that.
+
+In the trilateral framework agreement that the US signed with Lebanon and Israel on June 26, Rubio secured two potential breakthroughs that could turn the war into something more positive. The first and insufficiently celebrated is that Beirut has, in the very first clause, recognized the right of the state of Israel “to exist in peace.” This is new.
+
+Just as important, the agreement establishes a process under which Israel should withdraw from the territory it’s occupied, pocket by pocket, after Lebanon’s own armed forces have taken control and dismantled Hezbollah’s military infrastructure. The deal then pledges US aid to help civilians rebuild.
+
+**
+
+The aim here is clear: to avoid Israel’s withdrawal creating a security vacuum for Hezbollah to fill, repeating similar past cycles of withdrawal and return. The potential impact is wider still: The deal, reached under US moderation and coercion, has forced Prime Minister Benjamin Netanyahu to embrace a political strategy to end the war, instead of relying solely on force in an endless attempt to eradicate Israel’s enemies.
+
+Agreeing with Israel and the US to “rebuild the State’s monopoly on the use of force” is, of course, very different from Lebanon doing it. There were immediate pro-Hezbollah protests following news of the deal’s signing, and the group threatened a return to civil war. Iran made clear that it saw its Shiite proxy as the sole true guarantor of Lebanese sovereignty. Again, this is the start of a process that can discover the true balance of forces in Lebanon, with the final outcome dictated accordingly.
+
+Lebanon’s prominence in the US-Iran ceasefire deal was fitting; it had suffered at least 4,320 casualties from the war as of Friday, according to the country’s Ministry of Public Health, more than any other country involved, including Iran. More than 1 million Lebanese have been displaced from their homes — a huge figure in a nation of 6 million.
+
+But Iran doesn’t care about Lebanon’s wellbeing. It sees this religiously fractured nation as a front line for its zero-sum contest with Israel. Israel, meanwhile, just wants Hezbollah disappeared, so its northern towns and villages are never again subjected to rocket, missile or drone attack from across the border. None of that bodes well for a lasting peace.
+
+As Paul Salem, a Middle East program senior associate at the Center for Strategic and International Studies in Washington, told me: “We’re still in the same logjam,” even if the framework agreement takes a step in the right direction. Hezbollah — like its sponsors in Tehran — feels emboldened by the Feb. 28 war, he said, so it has no intention of abolishing itself or compromising. All the more reason for the US, Israel and the Lebanese state to follow through on their financial and security pledges, because the key to success or failure will lie in breaking Hezbollah’s hold over Lebanon’s Shiite community.
+
+Historically, Shiite trust in the state — where the president is always Maronite Christian, the parliament 50% Christian and the prime minister Sunni Muslim — has been low. This division of power, set by France in 1943, was based on the results of a 1932 census showing Lebanon’s Christians to be in a slight majority over Muslims. Today, though, Shiites account for an estimated one third of the population, about the same as Christians and Sunnis, respectively. Shiites feel they get a raw deal; Hezbollah has set itself up as the only force willing to protect them.
+
+Shiites also, however, tend to suffer disproportionately whenever Israel invades the south, and many have become frustrated with Hezbollah for repeatedly baiting Jerusalem on Iran’s behalf, at their expense. The goal, which Egypt has proposed in a plan for Lebanon, should be to integrate Hezbollah and the wider Shiite community into the state, both politically and militarily.
+
+This can best be done by drafting those Hezbollah fighters who want to continue bearing arms into the Lebanese Armed Forces, making Hezbollah purely a political party. There are precedents, including Sinn Fein’s emergence as the political wing of the Irish Republican Army in Northern Ireland. This gave Catholic Republicans a political stake in peace, created negotiating partners for London and Dublin, and made way for the eventual “decommissioning” (or warehousing) of IRA weapons. Nearer to home, Syria’s government folded numerous radical Sunni militias into a new national army, and is now folding in Kurdish troops, too. Iraq, under US pressure, is also trying to bring Iran-backed militias under state control.
+
+All of these moves were, or indeed are, difficult and problematic. There are major question marks over the process in Iraq, in particular. Yet the alternative — an attempt by Lebanon’s official military to simply disarm Hezbollah by force – would all but guarantee a resumption of Lebanon’s bloody, sectarian civil war.
+
+The US plan may not work — nothing else has. But it does have leverage. If Iran’s Islamic Revolutionary Guard Corps want an Israeli withdrawal from Lebanon, plus a greater political role for Hezbollah in Lebanon, money and US-backed guarantees that Iran itself will not be attacked again, including by Israel, then the Sinn Fein-ization of Hezbollah should be among the concessions that it’s asked to make.
+
+###### (Disclaimer: The opinions expressed in this column are that of the writer. The facts and opinions expressed here do not reflect the views of www.economictimes.com.)
+
+---
+
+### Four rescued from overflowing Arunachal river after raft capsizing; Assam grapples with floods
+*Bikash Singh · business*
+
+Guwahati: Four people who had been stranded in the overflowing Sisiri River in Arunachal Pradesh's Dambuk area were safely rescued and later airlifted. Six districts of Assam are inundated in the first wave of this year's floods.
+
+Officials in Arunachal Pradesh stated the rescue operation had turned dangerous when a rescue raft capsized in strong river currents.
+
+Dambuk MLA Puinnyo Apum expressed relief and thanked all those involved in the operation. "With a heart full of immense relief and profound gratitude, following a gruelling, round-the-clock rescue operation, all four individuals have been safely evacuated and airlifted and are now back with their anxious families," Apum said, in a post on social media.
+
+  
+
+The rescue was nothing less than dramatic.
+
+Officials stated that the rescue raft overturned in the powerful current while attempting to evacuate the stranded group from the Sisiri River.
+
+“Seven rescuers had entered the river to evacuate four stranded people. The rescue team had located the three stranded people and were returning to the riverbank when the boat capsized after being hit by a strong undercurrent. Five people swam safely to the riverbank, while five others were swept away by the current. Of them, two reached a river island, while another became trapped on a log in the middle of the river before being rescued by NDRF personnel.”
+
+A 30-member NDRF team along with Arunachal Pradesh Police and the Indo-Tibetan Border Police (ITBP), continued rescue efforts through Sunday night. An Indian Air Force helicopter airlifted the stranded individuals to safety.
+
+The first wave of this year's floods in Assam has inundated six districts, disrupting rail and road connectivity.
+
+Union Home Minister Amit Shah reviewed the scenario with Assam Chief Minister Himanta Biswa Sarma and assured all possible assistance from the Centre. "I have briefed him on the relief and rehabilitation measures presently underway. He has also assured us all possible support and assistance from the Government of India to deal with this situation," Sarma said in a post on social media.
+
+Floods have affected Dhemaji, Nalbari, Dibrugarh, Chirang, Lakhimpur and Kokrajhar districts, while incessant rainfall in neighbouring Arunachal Pradesh has aggravated the situation in several riverine areas of Upper Assam.
+
+Dhemaji remains the worst-affected district, with 15,483 people from 69 villages across the Jonai, Sissiborgaon, Dhemaji and Gogamukh revenue circles affected by floodwaters.
+
+Revenue and Disaster Management Minister Keshab Mahanta, who was deputed by the Chief Minister to assess the situation on the ground, said two relief camps have been opened in Jonai and rescue operations are continuing with the assistance of the State Disaster Response Force (SDRF) and the National Disaster Response Force (NDRF).
+
+The situation in Dhemaji has been aggravated following a landslide in Arunachal Pradesh's Magi village that blocked the flow of the Gai River, locally known as the Siji River.
+
+---
+
+### Surprisingly quick oil price retreat eases urgency for European Central Bank to act, sources say
+*Reuters · business*
+
+The unexpectedly rapid retreat in energy prices in the past week has further taken pressure off European Central Bank policymakers to lift interest rates next month but the case for a small hike later on remains firm, four sources told Reuters. The ECB lifted ‌interest rates this ⁠month ⁠to prevent an Iran-war induced oil-price spike from raising price expectations, and policymakers are now debating the urgency of any follow-up move.
+
+The sources, all with direct knowledge of the discussion, said they were surprised by how quickly oil prices have eased and futures for several key durations were now even below the bank's 'milder' scenario.
+
+Fear of shortages for items such as jet fuel have been proven wrong while some producers, particularly Saudi Arabia, have increased energy output more than forecast to keep the market supplied.
+
+  
+
+China also consumed less oil ⁠than predicted, ‌likely because it substituted oil with other energy sources more aggressively than expected. That further supports the case for a rapid retreat in energy prices once supplies normalise, the sources said.
+
+An ⁠ECB spokesperson declined to comment.
+
+Oil prices did not even react strongly to the escalation of the conflict between Iran and the U.S. over the weekend, suggesting that normalisation of the energy market was well underway, the sources added.
+
+  
+
+## SEPTEMBER HIKE STILL MOST LIKELY
+
+A rate hike in September remains the more likely scenario for now, but the sources said June inflation data due on Wednesday, still carried greater significance.
+
+If the headline figure indeed retreats from 3.2% as financial markets now anticipate, then waiting until September was the better option, one of the sources said.
+
+However, ‌a negative surprise would strengthen the case for a quick follow-up hike in July, the source added.
+
+Retreating consumer and business price expectations also back the case for taking some time before pulling the trigger again.
+
+The ECB ⁠targets inflation at 2%. Its baseline projection does not see it back at that target until the second half of next year. Its milder scenario sees it well below 2% by mid-2027.
+
+Financial markets now see just a one-in-three chance of a rate hike in July, and are not fully pricing in a hike until October. This follow-up hike, already advocated by some, is likely to prevent the oil surge from seeping into the broader economy, setting off a second-round effect that could worsen inflation.
+
+The sources, however, agreed that such second-round effects have been negligible for now, even if economic logic dictates that some will eventually result.
+
+The ECB will next meet on July 23.
+
+---
+
+### DMK leader's husband threatens TVK MLA opposing illegal sand mining; case filed
+*Pramod Madhav · general*
+
+A case has been registered against the husband of a DMK functionary and two others for allegedly threatening and intimidating TVK MLA A Karthik after he intervened to stop suspected illegal sand mining activity in Tamil Nadu’s Virudhunagar district.
+
+The incident was reported near Mamsapuram in the Srivilliputhur constituency held by Karthik as its MLA, where local residents had repeatedly raised concerns over alleged sand extraction taking place during night hours.
+
+Acting on complaints from the public, MLA Karthik visited the location to assess the situation and verify the allegations.
+
+According to the complaint, the MLA reached the site while sand mining activity was allegedly underway and attempted to halt the operation.
+
+During the intervention, Thangamangani — identified as the husband of Mamsapuram Town Panchayat President Sujitha Mary, who is also associated with the DMK, allegedly arrived at the spot along with two others.
+
+Police said the group allegedly confronted the MLA, leading to a heated exchange. The complaint further alleged that the accused obstructed the legislator while he was carrying out his public duties, used abusive language, and issued threats during the confrontation. The altercation was reportedly captured on video.
+
+Based on Karthik’s complaint, police registered a case against the three individuals and launched an inquiry into the allegations.
+
+Authorities are expected to examine video evidence and record statements as part of the investigation.
+
+The episode has renewed attention on allegations of illegal sand mining in the region, with residents expressing concern over the influence of those involved and questioning the challenges faced in curbing such activities.
+
+Police said further investigation is underway and additional action will depend on the findings.
+
+\- Ends
+
+Jun 30, 2026 09:27 IST
+
+---
+
+### 26-Year-Old Physiotherapist Found Dead At Karnataka Homestay; Family Claims Boyfriend Assaulted, Drugged Her
+*Meemansa Shekhawat · general*
+
+The victim, identified as Surabhi, was a native of Bengaluru. She was in a relationship with Sanjeet Ali, a man from Keralam
+
+[Read full article](https://www.news18.com/cities/bengaluru-news/26-year-old-physiotherapist-found-dead-at-karnataka-homestay-family-claims-boyfriend-assaulted-drugged-her-ws-l-10181014.html)
+
+---
+
+### 84% at DU, yet no placement: No companies for humanities, says History graduate
+*India Today Education Desk · general*
+
+## A Delhi University History graduate with 84% marks and a place on the Dean's List was allegedly told by her college placement cell that no companies were recruiting humanities students, reigniting debate over whether campus placements continue to sideline humanities graduates.
+
+84% at DU, yet no placement: No companies for humanities, says History graduate
+
+An 84% score at Delhi University. A place on the Dean's List. Three years of academic excellence. Yet when it came to campus placements, none of it seemed to matter.
+
+A History (Honours) graduate from the university was allegedly told by her college placement cell that there were no companies recruiting humanities students.
+
+The incident has reignited debate over whether India's placement ecosystem continues to favour engineering and technical courses while leaving humanities graduates to navigate the job market on their own.
+
+### A BRILLIANT ACADEMIC RECORD, BUT NO CAMPUS OPPORTUNITIES
+
+The incident was brought to light by entrepreneur and The Highy Table co-founder Harshit Khare in a LinkedIn post. Sharing the experience of his friend, Khare said she graduated from Delhi University with 84% marks in History (Honours) and was included in the Dean’s List.
+
+Describing her abilities, he wrote that she could hold detailed discussions on colonial economics and possessed exceptional writing skills. However, despite her strong academic credentials, she reportedly found no support when she approached the college placement cell.
+
+### ‘WE DON’T HAVE COMPANIES FOR HUMANITIES’
+
+According to Khare, the placement cell offered a brief but disappointing response.
+
+"Sorry, we don’t have companies coming in for humanities students."
+
+There were reportedly no alternative opportunities, career guidance or follow-up assistance. For the graduate, that single statement marked the beginning of a difficult job hunt.
+
+### WHAT HAPPENED AFTER GRADUATION?
+
+Over the next eight months, the History graduate reportedly sent cold emails, appeared for multiple interviews and repeatedly encountered employers who considered her "not qualified" because of her academic background.
+
+The prolonged search eventually led her to secure a content-writing role at a small startup with a monthly salary of ?12,000.
+
+Khare argued that the outcome reflected systemic shortcomings rather than a lack of talent. According to him, the placement ecosystem had effectively written off humanities students long before they entered the job market.
+
+### IS INDIA’S PLACEMENT SYSTEM FAILING HUMANITIES STUDENTS?
+
+Using his friend's experience as an example, Khare questioned why employers frequently demand soft skills, critical thinking, communication and analytical abilities, yet campus recruitment drives rarely target students who spend years developing exactly those competencies.
+
+He argued that while engineering students benefit from structured campus placements, humanities graduates are often expected to find opportunities independently, with little institutional support.
+
+Khare also encouraged employers to share positive experiences of hiring humanities graduates and urged students not to see their degree as the reason for their struggles, saying the system has yet to catch up with the value of such disciplines.
+
+### INTERNET REACTS: ‘THE SAD REALITY’
+
+The LinkedIn post resonated with many users, who said humanities students continue to receive fewer placement opportunities than those pursuing engineering or management courses.
+
+One user observed that humanities education broadens perspectives and promotes inclusivity but leaves graduates with limited career options after college.
+
+Another commented that society still tends to undervalue humanities majors and hoped people would begin recognising the contribution they can make across industries.
+
+Some also expressed concern that companies increasingly believe AI can handle work traditionally associated with humanities graduates, making employment even more challenging.
+
+However, not everyone agreed. One user questioned whether corporate jobs should even be the primary destination for History graduates, arguing that many humanities students traditionally pursue careers in academia, research, teaching or the civil services rather than private companies.
+
+### THE BIGGER QUESTION
+
+The debate extends beyond the experience of one Delhi University graduate. It raises a larger question about whether India's campus placement ecosystem has evolved to recognise diverse skill sets, or whether it continues to prioritise technical degrees while leaving equally capable humanities students to compete without institutional support.
+
+The viral story has once again highlighted the widening gap between academic achievement and employability for humanities graduates.
+
+\- Ends
+
+Jun 30, 2026 09:25 IST
+
+---
+
+### West Bengal Oil Refinery Fire: Over 15 injured after massive fire breaks out in naphtha pipeline at Haldia, rescue operation underway
+*Manisha Chauhan · general*
+
+A major fire erupted in a naphtha-carrying pipeline at the Haldia Refinery in West Bengal early Tuesday, leaving at least 15 people injured, some of them critically.
+
+At least 15 people were injured after a massive fire broke out in a naphtha-carrying pipeline at the Haldia Refinery in West Bengal early on Tuesday. The incident took place between 4 am and 5 am when flames suddenly erupted from the pipeline, triggering panic in the area.
+
+**Workers Suffer Burn Injuries**
+
+> Haldia, West Bengal: A fire broke out in a naphtha pipeline at the Haldia Refinery. Several workers sustained burn injuries after the blaze erupted and were rushed to Haldia Sub-Divisional Hospital for treatment. Some of the injured are reported to be in critical condition. The… pic.twitter.com/zuKReRz54a
+> 
+> — IANS (@ians\_india) June 30, 2026
+
+The fire was so intense that several workers present near the pipeline sustained burn injuries. Visuals from the spot showed thick black smoke rising into the sky as people and emergency teams tried to bring the blaze under control.
+
+**Injured Shifted To Hospital**
+
+Soon after the incident, local residents and factory authorities rushed to the site and launched rescue efforts. The injured were taken to Haldia Sub-divisional Hospital for treatment. Officials said the condition of some of the injured is critical.
+
+**What Is Naphtha?**
+
+Naphtha is a highly flammable liquid fuel derived from crude oil during the refining process. It is widely used in the production of fuel products, including gasoline and kerosene. Because of its highly combustible nature, fires involving naphtha can spread rapidly and become extremely dangerous.
+
+**Cause Of Fire Yet To Be Known**
+
+Factory authorities have not yet disclosed what triggered the fire. An investigation into the incident is expected, and more details are awaited.
+
+_(With input from IANS)_
+
+---
+
+### Sensex rises over 200 points, Nifty above 24,000; Maruti Suzuki shares jump 3%
+*Debaroti Adhikary · economy*
+
+The Indian stock market traded in the green on Tuesday, with Sensex and Nifty rising around 0.4% after the benchmark indices closed in the red in the previous session.
+
+Sensex gained more than 200 points at 77,005, while Nifty 50 rose around 86 points at 24,000 on Tuesday. Broader markets also began the session in the green, with Nifty Midcap 100 and Nifty Smallcap 100 indices gaining up to 0.3% in the morning.
+
+Maruti Suzuki shares jumped around 3% to lead gains on Sensex, while Sun Pharma and Adani Ports shares gained over 1% each to follow. Bucking the trend, Infosys, Hindustan Unilever, NTPC, Kotak Mahindra Bank and Axis Bank shares were trading in the red with marginal losses.
+
+Nifty Oil & Gas gained 0.45% while Nifty PSU Bank index rose 0.40%. On the other hand, Nifty Metal index declined nearly 0.3%. This came as India VIX, which measures volatility in market, declined over 1% to 13.47. Around 1,525 stocks advanced on NSE, while 741 declined and 122 remained unchanged.
+
+**What lies ahead?**
+
+With Brent crude, US bond yields and the rupee stabilising, there are no major near-term triggers for the market, noted VK Vijayakumar, Chief Investment Strategist at Geojit Investments. “As we move into July expectations regarding Q1 results will be influencing the market moves. Investors can focus on sectors which are likely to post good results,” he said.
+
+According to the analyst, banking and financial services are likely to lead in profitability since credit growth has been strong and NIMs are good. This sector will continue to perform well. Health care is another stable sector which is likely to deliver good results. In the context of poor monsoon, the health care sector is a strong defensive play, Vijayakumar said.
+
+“Power is another sector which will come out with good results and healthy commentary since the prospects continue to be bright. Capital goods majors have healthy order books. For IT, more than results, the management commentary is important. Sentiments are unlikely to favour the sector. In automobiles, it will be stock-specific action,” he added.
+
+**Technical view on Nifty**
+
+Volatility may remain elevated in the very near term due to the NSE monthly expiry on Tuesday, cautioned Rupak De, Senior Technical Analyst at LKP Securities. “However, the short-term trend remains constructive as long as the index holds above the 23,800 support level. Unless the Nifty falls below 23,800, a buy-on-dips strategy should be maintained. On the higher end, 24,200 is likely to continue acting as the immediate resistance,” he added.  
+_(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)_
+
+---
+
+### Bangladesh PM Rahman firms up Teesta plans, says will implement at 'any cost'
+*SECTIONS Bangladesh PM Rahman firms up Teesta plans · business*
+
+Bangladesh Prime Minister Tarique Rahman on Monday announced firm plans to implement the 'national priority' Teesta Barrage Master Plan at 'any cost', according to a _Times of India_ report_._
+
+The announcement comes days after Bangladesh and China agreed to work on the management of Teesta and other rivers, most of which flow from upstream in India, and Beijing stressing their “cooperation does not target any third party”.
+
+Tarique visited China last week, where Beijing extended unwavering support to the nation, “no matter how the world changes”.
+
+  
+
+Clarifying on the stance of Teesta project cooperation and its impact on India, Chinese foreign ministry spokesperson Guo Jiakun said, “I would like to stress that China-Bangladesh cooperation does not target any third party.”
+
+In the regular briefing, Jiakun had also said, “The comprehensive treatment and rehabilitation of the Teesta River is a livelihood project the Bangladeshi side attaches high importance to.”
+
+“Government is committed to resolving the country’s longstanding water management challenges through major investments in rivers, canals and irrigation infrastructure,” Tarique said, as quoted by TOI.
+
+The prime minister added that water remains one of the most pressing concerns for people in the Rajshahi and Rangpur regions — bordering India’s northeast region — and “we are working relentlessly to address these problems”.
+
+Tarique highlighted that the BNP govt has initiated plans to build the Padma Barrage as excess water during the monsoon would be stored and utilised during the dry season for agriculture.
+
+_(With inputs from TOI)_
+
+
+---
+
 ## 29 June 2026
 
 ### Google Pixel 10 price dropped by Rs 15,200 on Amazon
