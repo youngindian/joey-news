@@ -1,8 +1,136 @@
 # Editorials
 
-_Last updated: 2026-06-29 06:17 UTC_
+_Last updated: 2026-06-30 05:46 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 30 June 2026
+
+### Caught in the middle: On India and curbing drug abuse
+*The Hindu · Editorial*
+
+India is located between two major drug-producing regions: Afghanistan, Pakistan, and Iran to the west and Myanmar, Thailand, and Laos to the east. While the West has historically dominated heroin production, the International Narcotics Control Board has said Myanmar has become the world’s leading source of illicit opium while East and Southeast Asia remain major sources of methamphetamine. Officials have said drugs are being received at Gujarat, Kerala, and Tamil Nadu via maritime routes. Similarly, some drugs are produced domestically using illegally diverted pharmaceutical ingredients, aided by the fact that individuals possessing small quantities of heroin can attract up to six months’ imprisonment, whereas drugmakers that cannot account for lakhs of doses often face only slaps on the wrist. The rise of Myanmar, where the territory under ethnic armed organisations is expanding, as a key source is also troubling since it shares a border with India. The Narcotics Control Bureau has noted a dramatic surge in the use of drones to smuggle drugs across borders, especially over Punjab. Traffickers are organising over the darknet and using cryptocurrencies. The pillars of India’s response thus aim to keep the enforcement regime from being out-innovated and improve regulatory certainty.
+
+States are trying to adopt a ‘whole of society’ approach recognising the public health and social dimensions. However, India needs to do more. Physical abuse and forced detoxification are frequently reported from many private centres. Punjab has an extensive network of de addiction centres providing opioid substitution therapy, and some northeastern States to a secondary extent, but most large States have much less access relative to need. Most Integrated Rehabilitation Centres for Addicts are located in urban areas whereas the highest density of addicts in Punjab are in border villages and rural pockets. Likewise, relapse is often treated as a moral failure and many addicts avoid government centres fearing social ostracisation, particularly in rural North India. The persistence of criminal records for small-scale possession prevents youth from getting jobs, reducing their odds of escaping the drug-crime cycle. Although the Nasha Mukt Bharat Abhiyaan has said it has sensitised over six crore women, facilities dedicated to women are scarce and concentrated in urban areas; stigma, caregiving responsibilities, and lack of gender-responsive treatment keep many women from seeking or completing care. Finally, as evidence shows, disrupted supply can drive many users to cheaper alternatives unless accompanied by effective treatment. India must therefore shift public focus from seizures and arrests to the number of lives restored.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/caught-in-the-middle-on-india-and-curbing-drug-abuse/article71161480.ece)
+
+---
+
+### Delayed honour: On Operation Sindoor, gains and losses
+*The Hindu · Editorial*
+
+War is secretive and strategy may require deception. But that is no good explanation for the fact that the Narendra Modi government took over a year before formally acknowledging that six soldiers had lost their lives in Operation Sindoor in 2025. India had launched cross-border military strikes in Pakistan in retaliation for the Pahalgam terrorist attack, in April 2025, that killed 26 innocent people. From the beginning, the government has been reluctant to share any meaningful details of Operation Sindoor even as it continuously kept the hyperbolic self-congratulatory posture. Its decision to not publicly acknowledge and honour the supreme sacrifice of the fallen soldiers contemporaneously was hardly a sign of any wise strategy. Casualties can happen in any military operation and that is a key consideration in any military planning, and more importantly, the political decision to go to war or not. Not being transparent about losses, human and material, may serve the political interests of the ruling party, but not national interest. By trying to be clever and selective about facts, the government undermined its own credibility and did a disservice to those who paid with their lives. Soon after the operation concluded in May 2025, the then Director General of Military Operations (DGMO), Lieutenant General Rajiv Ghai, paid tribute, during a press briefing on May 11, 2025, to Indian military personnel who had made the supreme sacrifice, though their names were not disclosed.
+
+The cremations were done with full military honours. In August 2025, Air Chief Marshal A.P. Singh visited the family of Sergeant Surendra Kumar, who was killed during the operation, while the Ministry of Defence also announced gallantry awards for the fallen personnel. Tributes were simultaneously carried on the Indian Army’s official social media platforms. In the Lok Sabha on July 28, 2025, Defence Minister Rajnath Singh said that “no Indian soldiers were harmed” during Operation Sindoor. Following accusations that it has misled Parliament, the government is now explaining that the Minister’s remarks were made in the context of reports that Indian aircraft were shot down and were meant to clarify that no pilot was killed during the mission. The government has also maintained that details relating to aircraft losses during the conflict remain operationally sensitive and refused to disclose them. There is a distinction to be made between operational secrecy and requirements of public accountability. War is a stark demonstration of the fact that it is the public that always pays for all actions of the government. A public accounting of the gains and the losses is the best way to ensure wise decision making.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/delayed-honour-on-operation-sindoor-gains-and-losses/article71161892.ece)
+
+---
+
+### Reforms 3.0 — towards the Bharat rate of growth
+*The Hindu · Opinion*
+
+For 45 years after Independence, India grew at an anaemic 3% — the infamous “Hindu rate of growth”. Triggered by a balance-of-payments crisis, India found the gumption to liberalise. Within a decade, GDP growth surged. The lesson: crisis breeds reform, and reform breeds exponential outcomes. Artificial Intelligence (AI) provides the same transformational leverage that liberalisation provided in 1991. The question is not whether India can afford to invest — it is whether India can afford not to. After 12 years of Prime Minister Narendra Modi’s leadership, India has reached another WhatsApp moment in reform — dare I say, to take it from a Hindu rate of growth to the Bharat rate of growth — 8% and beyond for the next decade.
+
+The case for making tokens freeIndia has since proven that it can leapfrog entire generations of infrastructure. Aadhaar enrolled 1.38 billion people in a biometric identity system, the largest on earth. UPI now processes 250 billion annual transactions worth $3.4 trillion, handling 50% of the world’s real-time digital payments. Reliance Jio, launched in 2016, added 100 million subscribers in just five months and made mobile data essentially free. How India can replicate its Aadhaar, data availability deluge and UPI miracles in the age of AI — by embracing open models, diversifying compute hardware, and making tokens as free as data.
+
+India spends just about 0.65% of its GDP on research and development (R&D), well below China (2.4%), the United States (3.5%), South Korea (4.9%), and Israel (5.4%). The excuse of the socialist Congress governments of 1947-1991 was: “we can’t afford anything more”, which does not and should not apply now. The central question is this: Has the time come to make AI tokens free? If so, how do we do it? Can we begin by making tokens free for the country’s top 100 national R&D institutions and 5,000 schools, so that AI becomes a teammate for scientists and students alike?
+
+India spends approximately $49 billion each year subsidising calories, chemicals, and carbon. The question is whether it is now ready to subsidise cognition. The answer is that it already can — at a fraction of what it spends today. The entire AI token subsidy for the country’s top 100 universities and national R&D institutions, along with 5,000 high schools, would cost about $2 billion annually — roughly 0.06% of GDP. The AI investment is around one-fourteenth of India’s food subsidy, one-tenth of its fertilizer subsidy, and less than the amount paid to compensate oil marketing companies for LPG under-recoveries in a single quarter. This is not a moonshot budget. It is a rounding error in India’s existing welfare expenditure — but one with the potential to generate transformative, compounding returns.
+
+India does not need more money; it needs new priorities, new frameworks, and some reallocation. First, AI tokens can be funded without cutting a single rupee from existing beneficiaries by merely freezing subsidy growth for a year. (The fertilizer subsidy alone has been compounding at 11% CAGR over the past decade.) Second, India should forge a public-private partnership with hyperscalers such as AWS, Google, and Microsoft, exchanging data centre land, power subsidies, and data sovereignty assurances for free inference capacity. India’s 1.4-billion-user market gives it negotiating leverage that few countries can match, though such techno-commercial negotiations, shaped by geopolitics and uncertainty, will require considerable skill. Third, if necessary, paid enterprise tiers can cross-subsidise free access for schools and research institutions.
+
+Free data worked and free tokens will too. The government did not directly subsidise Jio. Instead, it created the right regulatory environment through spectrum auctions, net neutrality, infrastructure sharing, and a controversial long pilot.
+
+The result: data prices fell from about $3 per GB to $0.10 in under three years. The same playbook can apply to AI tokens. Create the right conditions, and the market will deliver abundance. India’s role is not to write the cheque, but to make it unnecessary.
+
+Hosting modelsIndia must build the competence to host and operate large language models, not merely consume them through APIs from San Francisco or Beijing. With Sarvam, it has already shown that frontier models can be trained on Indian soil. The next step is to host models such as Qwen, DeepSeek, Kimi, Llama, and Sarvam on sovereign infrastructure, even if some open-source models originate from China. The models may be free, but the intelligence to host them at scale is not. AI infrastructure should be treated as a strategic national capability, much like what the government has already done for space and nuclear programmes. India should pursue a hybrid strategy that combines sovereign and open-source models to avoid dependence on any single ecosystem. Open-source models offer four key advantages: sovereignty by reducing reliance on foreign APIs that can be restricted overnight; lower costs by eliminating per-token licensing fees, thereby enabling free education and research uses; customisation for Indic languages and cultural contexts; and transparency through auditable model weights for government and defence applications.
+
+Hosting LLMs at national scale is not “just deploy a container”. India must develop deep expertise in availability (multi-region redundancy, 99.99% uptime SLAs for critical government services; latency (<200ms token latency across Tier-2/3 cities); efficiency (like batch scheduling to maximise tokens-per-watt); security (data residency compliance, prompt injection defence, audit trails).
+
+India cannot afford to be locked into a single-vendor monopoly for its AI compute future. NVIDIA’s dominance comes at extraordinary cost — both financial and strategic. NVIDIA controls 80%+ of AI training hardware but creates deep vendor lock-in that extends far beyond hardware. For India to build sovereign AI infrastructure for 1.4 billion people, the math simply does not work at NVIDIA pricing.
+
+India spent relatively little to build UPI; it cannot afford to spend $50 billion on NVIDIA GPUs. The alternative hardware ecosystem is not just more economical — it is strategically essential. India should adopt a 40:30:30 hardware mix rather than rely on a single vendor. Around 40% should be built on AWS Trainium and AMD for cost-effective inference workloads available in India. Another 30% should use Google TPUs for research, model training, and academic partnerships. The remaining 30% should rely on NVIDIA for specialised training, legacy compatibility, and a domestic silicon hedge.
+
+AI token policy, implementation timelineIndia should announce a National AI Token Policy and implement it over the next 24 months. It should begin by signing public-private partnership agreements with AWS, Google, and Microsoft to establish a multi-vendor sovereign compute framework. The first pilot should provide unlimited research tokens to the top 20 IITs and the IISc. As hyperscaler inference capacity comes online, India should open an API sandbox for 500 startups, expand access to 100 universities, and launch an AI literacy pilot across 500 high schools in 10 States. The programme should culminate in the publication of the country’s first sovereign Indic AI model benchmarks.
+
+Thereafter India needs to scale the ecosystem through cross subsidies as mentioned above and deploy fine-tuned models into health care, agriculture, judiciary and education. It must follow this up with full deployment at 5,000 high schools and all 22 languages. With this India’s token consumption will enter the global top five. In two years, India-trained models will become competitive on international benchmarks and 10,000+ AI-native startups will bloom, rocketing GDP growth.
+
+In sum, India’s AI leapfrog is a sine qua non for national transformation. India needs to replicate its DPI (digital public infrastructure) miracles in the age of AI by embracing open models, diversifying compute hardware, and making tokens as free as data. India has all the necessary conditions — favourable policies, stable macroeconomy, prodigious talent and technology institutions — to become a global leader in AI applications. The sufficient condition is India’s decisive, visionary leadership. It will take three moves. One decade. And a transformed (AI) nation.
+
+Srivatsa Krishna is an IAS officer. The views expressed are personal
+
+[Read full article](https://www.thehindu.com/opinion/lead/reforms-30-towards-the-bharat-rate-of-growth/article71162499.ece)
+
+---
+
+### No exemptions in rowdy sheet reviews
+*Deccan Herald · Editorial*
+
+The Karnataka government recently announced the creation of dedicated anti-rowdy squads across the state, reflecting its determination to crack down on organised crime. That resolve, however, has been accompanied by a parallel development that exposes serious procedural weaknesses within the police force, raising difficult questions about balancing fairness with public safety.
+
+The Karnataka State Police Complaints Authority (KSPCA) has directed the removal of 66 names from the state’s rowdy register – including seven from Bengaluru – after finding that the police had failed to carry out the mandatory periodic reviews. More worrying is that the list reportedly includes some notorious rowdies who are still active. Home Minister Priyank Kharge has rightly described the lapse as “nonsense” and criticised the police for allowing such a situation to arise. But that alone will not suffice. The state police has lately been in the news for all the wrong reasons. Unless Kharge purges the force of undesirable elements, collusion between sections of the police and the underworld will continue to undermine the rule of law.
+
+While the police may open a rowdy sheet against habitual offenders, they are also under a continuing obligation to review every case periodically. Following the High Court’s 2022 judgment in B S Prakash vs. State of Karnataka, reviews must take place every two years, and any individual claiming to have reformed may seek deletion of his name. If the police reject the request, the person can approach the KSPCA, which examines whether continued surveillance is justified. These safeguards exist for good reason. A rowdy sheet entry is not meant to become a lifelong punishment. Individuals who have genuinely abandoned crime, rebuilt their lives, and remained law-abiding should not remain on the register indefinitely. Such arbitrary continuation infringes personal liberty and defeats the purpose of periodic review. At the same time, procedural lapses should not become an escape route for active criminals. If dangerous offenders are removed solely because police officers neglected their statutory duty, the consequences could be severe. Bengaluru Police Commissioner Seemanth Kumar Singh has assured that the department is examining the legal implications of the Authority’s orders.
+
+Responsibility, however, rests on both institutions. The police must comply with judicially mandated reviews rather than treating them as a routine formality. Equally, the Complaints Authority must exercise due diligence before ordering the closure of rowdy sheets, ensuring that only the truly reformed benefit from legal protections. Only then can justice serve both public safety and individual liberty.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/no-exemptions-in-rowdy-sheet-reviews-4056566)
+
+---
+
+### Revisions weaken a critical guarantee
+*Deccan Herald · Editorial*
+
+As the Viksit Bharat-Guarantee for Rozgar and Ajeevika Mission (Gramin) – VB-G RAM G – gets set for a rollout on July 1, the scheme has drawn criticism even from states governed by the Bharatiya Janata Party (BJP). Its predecessor, the Mahatma Gandhi National Rural Employment Guarantee scheme, implemented by the United Progressive Alliance (UPA) government, even with some implementation challenges, effectively addressed rural joblessness.
+
+The Narendra Modi government reduced financial allocations to the scheme but retained it, given its proven value and public support. Last year, the programme was overhauled and rebranded, a restructuring that has curtailed its scale and utility.
+
+The scheme has undergone a structural shift, from a fully centrally funded wage guarantee programme to a 60:40 Centre-state cost-sharing model, placing a significant financial burden on states, many of which are already struggling with constrained budgets. This shift also marks a departure from the scheme’s original rights-based, demand-driven character, raising concerns that increased centralisation and conditional funding could undermine its core objective of guaranteeing employment. Although the Centre highlights the provision for a higher number of statutory wage employment days, there is scepticism over whether this promise will translate into practice. The introduction of a 60-day pause during the agricultural season and other procedural restrictions may reduce the scheme’s flexibility and responsiveness to local employment needs. These changes threaten a larger impact amid projections of deficient rainfall and drought conditions. Rural distress may significantly increase the demand for employment across large parts of the country. Ironically, at a time when the scheme’s relevance as a social guarantee is most critical, its redesigned funding structure and operational constraints threaten to reduce it to a shadow of its original promise.
+
+States, including those governed by the BJP, have expressed concerns. Bihar, Madhya Pradesh, and Jharkhand have appealed to the Centre to reconsider the proposed changes in the funding pattern. Sikkim and Uttarakhand, which have to bear only 10% of the programme’s cost, being hill states, have also sought a review of the funding model. Some states have sought higher wages for workers and the withdrawal of the 60-day blackout period. While Karnataka has agreed to implement the revised scheme, it plans to challenge the changes in the Supreme Court, alongside Telangana. The Centre should engage with these concerns, review the new framework, and restore the scheme’s effectiveness. At a time of deepening rural distress and employment insecurity, weakening a crucial social safety net risks leaving millions of vulnerable workers without adequate support.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/revisions-weaken-a-criticalguarantee-4056565)
+
+---
+
+### NEET Retest | NTA must learn from UPSC, IB
+*Deccan Herald · Opinion*
+
+The retest of the National Eligibility cum Entrance Test (NEET-UG) is done and dusted, but amidst the self-congratulatory and deafening noise by the government and its propagandists over ‘successful’ retest looms a big question: what is the template for next year’s NEET-UG exam?
+
+The Narendra Modi government took unprecedented steps to maintain the integrity of the exam — from using the Air Force to ferry question papers to involving the intelligence and police forces to monitor troublemakers.
+
+However, some of these steps reek of ad hoc measures. This cannot be a template for years to come. Hardworking and honest students cannot be scarred again.
+
+First, the government said the retest would be conducted in the computer-based test (CBT) mode, but later it realised the enormity of the task given the limited CBT-compliant infrastructure. Thus, it went back to pen-and-paper mode.
+
+Most likely, the next NEET-UG exam will be in the CBT mode, which takes persistent problems like printing question papers out of the equation. However, CBT comes with its own challenges.
+
+The current CBT infrastructure supports about 3 lakh candidates to take the test at one go. Since the NEET-UG exam sees about 20 lakh candidates, the exam would be conducted in multiple shifts spread over at least two days. The National Testing Agency (NTA) would need to bring uniformity in terms of the difficulty level of question papers, and also maintain confidentiality across all shifts.
+
+CBSE-NEET row | 'Let's seek accountability from govt': Cockroach Janta Party invites political parties including BJP to join stirAll these problems are scalable when you look at what the Union Public Service Commission (UPSC), which conducts the exam for civil services or what the Intelligence Bureau (IB) has been doing for its own recruitment exams.
+
+For the UPSC exam, which takes place in pen-and-paper mode, all resources are mobilised to ensure integrity of all three steps for conducting a successful exam: setting of question papers, printing, and distribution. While the finer details are not publicly known, the NTA can learn a lot at the institutional level from the UPSC.
+
+The UPSC uses the services of multiple and carefully selected domain experts to prepare questions for the exam. A question bank is prepared, and a question paper is prepared from that bank. This ensures that the experts who prepared the questions themselves do not know if their questions are part of the final question paper. For printing as well as distribution, similar levels of checks and balances are maintained. The local administration remains mobilised for security arrangements at the examination centres.
+
+The IB, too, has developed Standard Operating Procedures (SoPs) for leak-proof exams for recruitment of Assistant Central Intelligence Officers. The IB shifted to the CBT mode in 2020, and went to unprecedented lengths to maintain exam integrity.
+
+Domain experts prepare a question bank, and shortly before the exam, 100 random questions are selected by a computer and electronically transmitted to all exam centres. Since the exam is conducted in shifts, each shift has a new question paper generated. Since the difficulty can vary across shifts, scores are adjusted using normalisation; this ensures that candidates are judged fairly.
+
+Once the question papers are transmitted to the exam centres, to prevent cyberattacks, the Internet connection is cut, while the exam centre runs on a LAN. Sensors are used to check any unauthorised cyber traffic from the exam centre, and the centre is covered under CCTV surveillance. There are various other steps taken to ensure the conduct of a foolproof exam, including keeping an eye on coaching centres that offer question papers for sale.
+
+The NTA can learn from the best practices used by other agencies to conduct credible, and foolproof exams. The NTA and the government owe it to India’s young minds who appear for the exams that their efforts are not mocked at through paper leaks and retests. The resources and templates are already available within the government for maintaining exam integrity. India’s 2+ million youngsters must not pay with their time and emotions for the NTA’s lackadaisical indifference and the government’s bureaucratic inefficiency.
+
+(Rajesh Ahuja is an independent journalist who writes on national security and investigation agencies. X: @iamrajeshahuja)
+
+Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
+
+[Read full article](https://www.deccanherald.com/opinion/neet-retest-nta-must-learn-from-upsc-ib-4056916)
+
+---
 
 ## 29 June 2026
 
@@ -66,6 +194,114 @@ Furthermore, this governance must be thoroughly democratic. It cannot be quietly
 Shashi Tharoor is the fourth-term Member of Parliament (Lok Sabha) for Thiruvananthapuram (Congress party), the Chairman of the Parliamentary Standing Committee on External Affairs and the Sahitya Akademi Award-winning author of 29 books, including, most recently, ‘The Sage Who Reimagined Hinduism: The Life, Lessons and Legacy of Sree Narayana Guru’
 
 [Read full article](https://www.thehindu.com/opinion/lead/the-new-digital-slavery-needs-constitutional-guardrails/article71158538.ece)
+
+---
+
+### DC Edit | India, Seychelles Bond Stronger
+*Deccan Chronicle · Editorial*
+
+With a landmass of 460 sq km, the Seychelles archipelago of 115 islands may be small in territory, but it put on a mega show of welcoming India as a defence, security and valuable technology, development and social partner. In laying out the red carpet for Prime Minister Narendra Modi, the country was celebrating its deep ties with India, built over the last 50 years after it gained independence, whose jubilee was celebrated with gusto, with the Indian Army and Navy bands also participating.
+
+The islands, widely perceived in India as primarily a holiday paradise for sun seekers, were not feting India’s leader for its economic heft so much as the crucial maritime partnership over decades that has given Seychelles a sense of security as it presides over wide sea lanes on one of the world’s busiest routes. India’s help with maritime capacity in patrolling vessels and boats for Seychelles’ security has been a model in regional cooperation.
+
+Mr Modi’s assurance on behalf of India that the partnership is not to be defined by size is a telling comment that should have pleased Seychelles whose aspirations to build a sustainable Blue Economy remain high. Along with the pledge also comes umbrella aid and an economic package of $175 million plus crucial materials like cement and rice.
+
+It is a sign of the times that apart from all the marine capabilities that India has helped bolster as the island-nation guards its economic zone in the Indian Ocean that Seychelles wishes to improve its AI architecture, cybersecurity which is assuming huge importance these days and outer space as well, towards which India has promised to help.
+
+India may not be among the world’s largest powers in chasing AI for the future as the USA and China are currently, but it has the human resources to help everyone develop to enjoy the positive fruits of the new technology.
+
+The India-architected UPI payment system, also a tool that is serving the present while welcoming the future, is also a crucial element in a growing partnership that will straddle nine areas of well-defined cooperation, including in crime prevention.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-india-seychelles-bond-stronger-1967146)
+
+---
+
+### DC Edit | Twilight Time For DMK As TN’s Politics In Flux?
+*Deccan Chronicle · Editorial*
+
+The last straw was perhaps the acrimonious exit of Marumalarchi Dravida Munnetra Kazhagam (MDMK) founded by veteran Parliamentarian and octogenarian politician, Vaiko, from the Secular Progressive Alliance (SPA) on Sunday. Ahead of that, every other prominent ally of the DMK had bid adieu to the coalition after contesting the April 23 elections to the Tamil Nadu Assembly together. The disintegration of the secular grouping after its humiliating debacle caused by the sudden upsurge of the Tamilaga Vetri Kazhagam (TVK), led by C. Joseph Vijay, in the political sweepstakes began with the Congress quietly walking out to join the triumphant party and even getting berths in the Cabinet.What was a major blow for the 77-year-old DMK, electorally and politically, was followed by other long-time allies like the VCK, IUML, CPI and CPM, too, drifting towards the TVK. Keeping with the trend, the MDMK snapped ties with the DMK by making the announcement at its general council meeting in Chennai, which left many wondering what was left of the SPA and what was so terribly wrong with the DMK, against whom almost all former allies were turning their ire.
+
+The apparent isolation of DMK, which earlier had held a dominant position in the I.N.D.I.A. (Indian National Developmental Inclusive Alliance) coalition spearheaded by the Congress, gave rise to a plethora of questions: What exactly was wrong with the party that has been dominating the state politics like a colossus since its maiden ascension to the throne in 1967; what caused its latest fall from grace and will it be able to recover from the catastrophe. To know what went wrong with the party, one must just listen to the lament of the allies who had snapped ties now and those who voted enthusiastically for the TVK.
+
+A wide range of allegations like corruption and favouritism towards the family members of DMK chief M.K. Stalin dominate the reasons for widespread anger and resentment. Even party functionaries were reportedly peeved over the importance given to relatives of the former chief minister in party affairs overtly and in state administrative matters covertly. The open charges of corruption and favouritism levelled by traditional Opposition leaders like Edappadi K. Palaniswami to newbies like Vijay added credence to the popular perception of irregularities burgeoning in various departments, turning the tables against the DMK.
+
+But more than anything else, it was the glamour and cinema popularity of the rising star Vijay that evoked an interest in politics among the youth and adolescent film fans, for whom nothing mattered more than what he said. When he told children to put pressure on elders to vote for TVK, they did it and the elders too obliged nonchalantly, leading to the electoral defeat of the DMK, which was thoroughly vilified in the hustings.
+
+History teaches us that nothing is permanent in Tamil Nadu politics and the DMK can reverse the trend, given its long experience in electoral politics where it had bitten the dust several times and emerged like a phoenix. Its suspected role in cobbling an alliance with AIADMK to snatch power from the first public choice, which is the TVK, has not helped its image either. It is doubtful if it could regain its self-assumed role as the guardian angel of Tamil identity when the TVK is just reiterating the harangue of Dravidian politics and aping the actions of Dravidian majors.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-twilight-time-for-dmk-as-tns-politics-in-flux-1967151)
+
+---
+
+### Aakar Patel | New ‘Rules’ Are Brought In To Keep All NGOs On A Tight Leash
+*Deccan Chronicle · Opinion*
+
+What cannot be passed in Parliament as a new law can be brought into effect through a change in the rules. The practical effect is almost the same and the object is achieved. This is not what democratic nations ought to be doing, but then there is a real good reason why India is now, so many years after 1947, classified as being “partly free” and not a real democracy.
+
+This March, the government introduced a bill to attack, yet again, non-governmental organisations. This is a sector to which, it must be clarified, at the outset, the RSS does not belong because it is not a registered entity and does not therefore exist. The bill could not pass after the Opposition did what it should do more often: Oppose. The Prime Minister, with his 240 MPs, took his bill and went home. And then he reintroduced its essence as a change in the “rules” under the existing law, that does not require any parliamentary assent.
+
+Exactly like the introduction of the Special Intensive Revision, which did the job of disenfranchisement through “rules” that the National Register of Citizens could not do through law.
+
+The current attack on the NGOs continues the effort to shut the entire sector down. It is aimed at those who receive foreign funding and the familiar tropes of national security and “foreign hand” and the rest have been invoked. At the outset, it must be clarified that “PM Cares” is not covered here because it is neither a government entity — and therefore outside the purview of the RTI — nor is it an NGO — and therefore can’t be held to the same standard. It is a mythical creature.
+
+Anyway, the new rules say a few things to hamper NGO work. Some of them are as follows: NGOs can only conduct those activities that are in a schedule provided by the government. The government will also meddle in where an NGO can function. An NGO’s “chief functionary” is not just its chief functionary, but also all of its trustees and office-bearers, and foreigners are not eligible.
+
+They must declare their social media accounts and not publish things the government considers to be political. And so on and on. Why are these rules not applied to the rest of the private sector (which is what “non-government” means)? This is hard to say. Corporates can bring in as much foreign investment as they want and are lauded for this. They can hire foreign CEOs, and our own Indian CEOs in America are heroes.
+
+There are other very obvious hypocrisies also. In January 2013, a public interest litigation was filed in Delhi high court claiming that the BJP and the Congress had received donations from the same foreign company, Vedanta/Sterlite, which were in violation of the FCRA Act. On March 28, 2014, the court held that the BJP and Congress were guilty of FCRA violation and, in May, asked the Narendra Modi government and the EC to act against the two parties.
+
+By October 2015, the Modi government had figured a way out. A change in the law would define any company registered in India, regardless of who owned it, as an Indian company. In essence, “foreign” was redefined as “Indian”, which was a fraud on the Indian people, but because both major parties were complicit in the fraud, it passed without resistance.
+
+For the rest of us, the rules are different. In 2020, the government introduced more of them. First, that the 23,000-odd NGOs which had a licence to receive foreign money could receive funds only in a single branch of the State Bank of India — the one at Sansad Marg in New Delhi. Only 1,488 NGOs were registered in Delhi, and so the rest would have to come to the city to open an account. The branch would report to the home ministry the details of the remittance, the sources and manner in which it was received.
+
+The second change was that the NGO could spend only 20 per cent of the money it received on “administrative expenses”. Salaries, travel expenses, the cost of hiring individuals, consumables like electricity and water charges, telephone charges, postal and courier charges, repairs to the office, stationery and printing charges, transport, the cost of accounting for and administering funds, running and maintenance of vehicles, cost of writing and filing reports, legal and professional charges and rent were all classified as administrative expenses.
+
+No more than 20 per cent of their foreign funding could be spent on these things (keep in mind that such restrictions are not applicable to any other sector in India). This would affect those organisations whose work concerned research and advocacy and other things that required hiring professionals such as lawyers and academics, and were unrelated to pure brick-and-mortar activity, such as building hospitals and schools. Third, the law now prevented an NGO from redistribution of funds it had received to other NGOs even if they were FCRA-compliant. This would hit the sector because NGOs do not compete with one another as the rest of the private sector does; they operate as networks. This change...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/aakar-patel-new-rules-are-brought-in-to-keep-all-ngos-on-a-tight-leash-1967137)
+
+---
+
+### Gurjit Singh | ‘Act East’ 2026: Strategic Rejig In A Turbulent World
+*Deccan Chronicle · Opinion*
+
+Significant trends are occurring in India’s diplomatic approach to the Indo-Pacific. If you see one visit at a time, you may miss the strategic significance of the overall trajectory that India seeks in the face of unstable crisis situations, as well as the approaches of China and the United States to the region.
+
+The annual summit between Prime Minister Narendra Modi and Japanese PM Sanai Takaichi, now to be held in New Delhi from July 1, should be seen alongside Mr Modi’s return visits to Indonesia and Australia and the first visit by an Indian PM to New Zealand in 40 years.
+
+These four engagements collectively present more than a busy schedule of diplomatic visits. They are an elaboration of India’s “Act East” policy.
+
+This emerges from the evident realities of an unstable order, in which India seeks greater stability in the Indo-Pacific. Twelve years after the launch of the AEP, its logic has been accepted, and it has shown sufficient flexibility to address contextual changes in the region.
+
+The US-led liberal order, stable global supply chains, and the role of multilateral institutions have diminished at a speed and in a manner that was incomprehensible even when Covid-19 struck. The disruption of supply chains caused by Covid, the Ukraine and Iran crises was accentuated by Trump 2.0’s harsh trade attitudes towards friends.
+
+The Trump administration’s approach to seeking a “G-2” with China, acknowledging its rise and pivoting away from the Indo-Pacific in a strategic sense, gives India, Japan, Australia and Asean much to think about regarding their future trajectories. This transition is neither minuscule nor temporary.
+
+Australia and Japan have felt the obliteration of the distinction between partners and rivals, as has India. Despite efforts, tariff issues remain paramount, unsettling the institutional frameworks that guided the Indo-Pacific for a while.
+
+In this, Mr Modi’s Indo-Pacific engagements with partners are timely. India is no longer waiting for Washington to show enthusiasm. Instead, India is building on its own partnerships, economic architecture, and supply chain expectations at a faster pace than anticipated.
+
+The Japan PM’s visit remains the core of this strategy now. The presence of nearly 200 businessmen from about 100 companies underscores the Japanese preference for economic security as the core of the partnership. Investment, resilient supply chains and enhanced interaction on semiconductors, renewable energy, EVs, defence electronics, critical minerals and an expanded automobile partnership will buttress this relationship.
+
+Japan was committed to doubling its investment between 2022 and 2027 to 5 trillion yen. Since 2025, it has enhanced its target to 10 trillion yen by 2035.
+
+The continuum established by annual summits aligns India’s Act East policy and Japan’s “Free and Open Indo-Pacific” vision. This bilateral engagement is likely to intensify, allowing it to influence and bolster the Quad and other regional initiatives that are being diminished by the lack of American enthusiasm.
+
+If India, Japan and Australia can rekindle the India-Japan-Australia Supply Chain Resilience Initiative, it will show good momentum among themselves. It could very well be the institutionalized manifestation of a common understanding that none of the partners can have their critical supply chains run through China as a major hub, whose ability to create vulnerabilities in our supply chains is evident.
+
+Mr Modi’s three-nation tour of Jakarta, Australia and New Zealand will present a regional picture of engagement as well.
+
+In Jakarta, the Modi-Prabowo talks will follow up on Mr Prabowo’s Republic Day visit in 2025. Maritime security, defence cooperation, enhanced trade and supply chain development will be important, besides people-to-people and educational linkages. Indonesia could finalize its order for the BrahMos missile systems, which have taken long to fructify. Bilateral trade, currently at $25 billion, can easily reach its $50 billion target with better market access.
+
+Greater avenues of cooperation in health, tourism and military exercises could bring Indonesia, the world’s largest archipelago, which is close to the important Straits of Malacca, Lombok and Sunda, and become a strategic partner in the growing Indian interest in the area, as seen in the Great Nicobar project emerging soon. Closer strategic alignment between India and Indonesia needs to be kindled in a way that advances essential goals, and Mr Modi’s visit is likely to do so.
+
+To New Zealand, Mr Modi’s visit will be the first by an Indian PM in 40 years. It comes soon after India and New Zealand concluded an FTA that removes tariffs on Indian exports while reducing duties on most of New Zealand’s exports.
+
+The symbolism here is manifest. India is covering the gaps in its high-level visits to friendly countries at a rapid pace.
+
+With Australia, the engagement is a mature partnership. Prime Ministers Modi and Albanese have met...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/gurjit-singh-act-east-2026-strategic-rejig-in-a-turbulent-world-1967131)
 
 ---
 
