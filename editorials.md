@@ -1,8 +1,144 @@
 # Editorials
 
-_Last updated: 2026-06-30 05:46 UTC_
+_Last updated: 2026-07-01 06:06 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 1 July 2026
+
+### Data doubts: On the  latest IIP dataset
+*The Hindu · Editorial*
+
+India’s latest industrial growth figures show that, contrary to global trends and overall perception, the country’s industrial output is getting stronger. Notably, the data show a quick bounce-back in industrial performance after the initial hit from the West Asia crisis. However, the new data also raise some important concerns about the composition of the growth, the systems behind the recent data upgrades, and the need for further improvements. Growth in the Index of Industrial Production hit a five-month high of 5.1% in May 2026, up from the 4.9% growth seen in April, which itself was a substantial improvement over the performance in March — the first full month after the West Asia crisis began. Within this, the manufacturing sector grew at a relatively robust 5.5% in May, albeit slower than in April. One view is that this is due to a revival in domestic consumption, since the consumer durables and non-durables sectors also grew at multi-month highs. Consumer durables, especially, have done well in April and May. However, the contrary argument is that domestic demand is in fact not doing well, and it is export growth that is leading to higher production. This is bolstered by the fact that GST revenues from domestic transactions have grown slower over the last six months than in 2025-26 and the year before that. Merchandise exports, on the other hand, hit a four-year high in April followed by an all-time high in May. It would certainly be welcome if India’s industry has global demand to fill, but the fact that more of this demand is not coming from within the country is a cause for concern. The economy is already hostage to world events.
+
+The May IIP data were also accompanied by a note from the Ministry of Statistics and Programme Implementation (MoSPI) stating that it had made a major change to the methodology for computing growth for some sectors. It had abandoned the Wholesale Price Index as its chosen deflator to estimate the value of production in favour of the new Producer Price Index. This is a more accurate approach. But it did not, however, answer why this change was implemented belatedly and not when the new series of data was introduced on June 1. It suggests an unusually unsystematic approach by MoSPI. The strong growth in the IIP also does not reconcile with the fact that the Index of Eight Core Sectors — a separate government measure of industrial growth — grew at its second-lowest rate in 21 months in May. The core sector index is still outdated while the other major indices have been recently updated, but such a discrepancy nevertheless raises questions about what exactly is being measured.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/data-doubts-on-the-latest-iip-dataset/article71166023.ece)
+
+---
+
+### Indian and foreign: On the CBSE and third language
+*The Hindu · Editorial*
+
+The controversy over introducing a third language from Class 6 onwards stems from an unresolved contradiction in the National Education Policy (NEP) 2020. At several places, the NEP, rightly, extols the special importance of English, especially in mathematics, science and even legal education, and does not club it with other “foreign” languages such as French or Spanish. At the same time, it advocates the three-language formula, with two languages required to be native to India, one of them Ideally the mother tongue, in effect relegating English to the status of a foreign language. The Central Board of Secondary Education (CBSE) has implemented this aspect of the NEP, ignoring other welcome observations the policy makes on language learning. While introducing three languages from Class 6 onwards, it said students currently in Classes 7, 8 and 9 should also study three languages, of which two should be “Bharatiya”, in effect relegating English to the status of a foreign language. Thus, if a student had taken French as a second language along with English, they would have had to forego French and switch to two Bharatiya languages, one of which would be entirely new to them. This could adversely affect their Class 10 Board examination performance, apart from rendering redundant the capability and teaching resources schools had built in those foreign languages. Following the backlash, the CBSE has said students in Classes 7, 8 and 9 need take only one additional Bharatiya language if they had taken English and, say, Spanish. The third language, moreover, will not be tested in their Class 10 Board examinations. These are, however, temporary arrangements and the CBSE is going ahead with the three language policy with two Bharatiya languages from Class 6 onwards.
+
+Prudence demands that if the NEP is to guide the Union government’s decisions, it should ensure language learning serves the best interests of students. The policy speaks of the need for “high-quality bilingual textbooks and teaching-learning materials for science and mathematics, so that students are enabled to think and speak about the two subjects both in their home language/mother tongue and in English.” Here, the NEP places the mother tongue and English on an equal footing if STEM is to be central to India’s progress. In the same breath, it speaks of the importance of learning languages such as Japanese and German at the secondary level to enhance students’ “mobility”. The government’s vision for India’s development involves skilling Indians to work across the world in cutting-edge sectors, building a base of human capital that can take India higher. Instead of atavistic relapses, India’s education initiatives therefore should look ahead to serve at least this vision, even if that model itself is open to question. Given that the CBSE often becomes the template for much of India, the better course would be to teach the mother tongue and English and, where resources permit and students desire, offer a third language of their choice.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/indian-and-foreign-on-the-cbse-and-third-language/article71166439.ece)
+
+---
+
+### India’s ‘Israel habit’ meets West Asian realities
+*The Hindu · Opinion*
+
+When leaders make foreign policy decisions, each may appear reasonable in isolation. However, their cumulative impact can be strikingly different from what was originally intended. As Iranian President Masoud Pezeshkian invited Prime Minister Narendra Modi to the funeral of former Supreme Leader Ayatollah Ali Khamenei, India’s deepening engagement with Israel perhaps falls into that category. What was once a mutually beneficial partnership between New Delhi and Tel Aviv seems to have become more of a habit than the product of serious strategic deliberation. Yet, sound policy cannot be guided by the momentum of habit, for habit and strategy often pull in opposite directions.
+
+A reconfigured regionFor one thing, it is important to acknowledge the gains from the partnership between India and Israel. India has received considerable military technology and know-how from Israel, as well as expertise in intelligence gathering derived from their extensive counter-insurgency experience. However, the more important question is not only what this relationship provides today, but also what it forecloses over time. Judged on those terms, the picture is not particularly encouraging.
+
+West Asia has been undergoing one of its most intense geopolitical reconfigurations in years, and this one is different in scale. For the past decade, the region’s regional arithmetic has rested on the assumption that Iran was a wounded, sanctions-strangled actor whose reach could be curtailed and ambitions contained. That assumption has now been tested and found wanting. American and Israeli military strikes on Iranian facilities have not produced the strategic calm that Tel Aviv had hoped for at the outset of this costly campaign. Iran responded with retaliatory missile and drone salvoes and, more importantly, demonstrated that any blockade of the Strait of Hormuz could not be easily overcome by the rhetoric of carrier groups. Once again, the geography of energy has become the geography of coercion. The terms of the final agreement quietly confirm that Iran was not broken.
+
+Related StoriesIndia’s West Asia reset — more sinned against than sinning
+
+Neighbourhood diplomacy and its West Asia challenge
+
+The fallout of the crisis in West Asia on India’s economy
+
+Is India tailing the U.S. in its West Asia policy?
+
+The last three months have made it clear that the United States-Iran confrontation is not a distant geopolitical contest for New Delhi. It has had a direct impact on India’s economy. Most of India’s oil imports pass through routes vulnerable to any prolonged conflict in the Gulf. Whenever the Strait of Hormuz becomes a flashpoint, the consequences are felt directly in Indian households. It is here that the strategic canvas becomes more complicated, with every diplomatic choice carrying economic consequences. Strategic flexibility requires shunning comfortable alignments.
+
+Many strategic analysts have long believed that Washington’s policy towards Israel is fixed and unchanging — a constant around which all regional policy revolves. That assumption now needs to be revised. The public differences between Washington and Tel Aviv, reflected in U.S. President Donald Trump’s frequent outbursts against Israeli Prime Minister Benjamin Netanyahu, are no mere diplomatic squall. They appear to be genuine, notwithstanding Mr. Trump’s well-known idiosyncrasies, because Washington’s strategic calculus in West Asia has changed faster than expected.
+
+The U.S. urgently needs off-ramps, while Mr. Netanyahu, whose political survival is bound up with escalation, has little interest in de-escalation without achieving his maximalist objectives. The friction becomes evident when the patron and the client are at odds, and the once-blank cheque starts to float.
+
+Iran cannot be ignoredThus, the perception of a shift towards Israel, reflected in Mr. Modi’s unexpected visit to Tel Aviv (February 25-26, 2026) just before the U.S. and Israel launched their coordinated attack on Iran (February 28, 2026), becomes riskier when it is made more explicit, as it could place India on the wrong side of a regional reconfiguration that neither Israel nor any third party can control. While Mr. Modi’s personal absence from Ayatollah Ali Khamenei’s funeral is unsurprising, the choice of India’s representatives is itself a deliberate signal. Pairing Minister of State for External Affairs Pabitra Margherita with Bihar Governor Lt. Gen. Syed Ata Hasnain (retired) — himself a soldier-scholar shaped by counter-insurgency experience — may be read as a calibrated posture of political reassurance, while also subtly reflecting India’s religious pluralism.
+
+In other words, it reflects a posture that has internalised the war’s central lessons without yet being willing to say aloud that Tehran’s coercive capacity, demonstrated through the Strait of Hormuz and the missile exchanges, cannot be managed through the optics of Tel Aviv alone. This choice conveys an important diplomatic message of reassurance to Iran, which has demonstrated that it remains a regional heavyweight.
+
+Moreover, Iran is a civilisational state with deep-rooted political and ideological networks across Iraq, Lebanon, Syria, and Yemen, as well as the proven capacity to generate economic pressure that can bypass conventional military deterrence.
+
+A nation that can dictate ceasefire terms to Mr. Trump after absorbing punitive strikes from the U.S. and Israel is not a nation that can be casually discounted. China also appears poised to expand its strategic and economic footprint in Iran, making it imperative for India to exercise greater caution. Greater alignment with Israel risks pushing Tehran further into the China-Pakistan strategic embrace.
+
+There is also the matter of Europe, an underutilised and undervalued element in India’s economic planning. India must recognise that Europe’s political landscape has turned against Israel’s actions in Gaza and Lebanon in ways, and at a pace, that would have been unimaginable two years ago.
+
+More than sentiment, electoral arithmetic is at work. And electoral arithmetic often shapes trade policy and, eventually, the tone of bilateral negotiations. India’s status-seeking desire to be seen as a responsible international actor, rather than merely a vast market, and its economic ambitions in Europe — including the operationalisation of the India-European Union Free Trade Agreement — may come under closer scrutiny in the context of its West Asia policy than New Delhi anticipates.
+
+What is unusual about the present moment is that India has no option but to act strategically, independently, and decisively. It has leverage because it has maintained good relations with many Arab Gulf states, from which millions of Indian workers send remittances home. Although Saudi Arabia may once again have found tactical reasons to accommodate Rawalpindi (Pakistan), India’s relationship with the United Arab Emirates has grown even stronger.
+
+New Delhi’s historical ties with Tehran, though constrained by shifting regional dynamics, have not been completely severed. More fundamentally, India’s sheer size combined with its geostrategic attributes makes it an indispensable stakeholder in any emerging regional order. What India needs now is the political will to wield its leverage effectively in pursuit of clearly defined national objectives.
+
+Beyond binary choicesIndia needs a sufficiently ambitious strategic imagination. But that does not mean choosing between Israel and Iran, for that would be far too simplistic, and history rarely rewards such simplifications. Herein lies the distinction between an adaptive, alignment-driven foreign policy — the kind that follows and adapts to alignments forged by others — and an architectonic foreign policy, which seeks to shape its own strategic environment.
+
+In Focus Podcast | Is India tailing the U.S. in its West Asia policy?For a country that claims to be ‘Vishwabandhu’, it is important to recognise that the credibility of such a claim will be tested in moments such as these, when the world is watching India’s words and actions. New Delhi’s most valuable strategic asset in the coming multipolar decade is its authentic voice as a champion of the Global South, and every visible alignment with Israel in a conflict in which the Global South overwhelmingly sympathises with the Palestinians risks putting that precious capital in jeopardy. The defence technologies provided by Tel Aviv are undeniably valuable. But the strategic price of appearing aligned in a conflict that has reshaped West Asia is no less real.
+
+Vinay Kaura is Assistant Professor in the Department of International Affairs and Security Studies at the Sardar Patel University of Police, Security and Criminal Justice, Rajasthan, and Non-Resident Fellow, Institute of South Asian Studies, National University of Singapore
+
+[Read full article](https://www.thehindu.com/opinion/lead/indias-israel-habit-meets-west-asian-realities/article71166846.ece)
+
+---
+
+### A deeper maritime footprint
+*Deccan Herald · Editorial*
+
+Prime Minister Narendra Modi’s strategic three-day visit to Seychelles has reinforced India’s relations with the Indian Ocean archipelago. Despite its small size, Seychelles occupies a crucial geopolitical position near critical sea lanes that connect Asia and Africa. While India’s ties with its immediate neighbours remain fraught, its diplomatic and economic relations with Seychelles have stood out as robust and stable.
+
+Modi, as the Guest of Honour at the country’s 50th Independence Day celebrations alongside President Patrick Herminie, underscored the significance of this partnership. The bilateral talks and the subsequent agreements focused on elevating economic and strategic cooperation between the two countries. Given Seychelles’ expansive Exclusive Economic Zone (EEZ), enhanced marine cooperation may emerge as a pivotal, mutually beneficial outcome.
+
+India handed over a patrol vessel and additional equipment to the Seychelles Coast Guard, sharpening its capabilities in ocean surveillance. This extends a series of Indian deliveries of patrol and interceptor vessels and maritime surveillance aircraft to the Seychelles defence force, alongside assistance in installing coastal surveillance radars. India also feeds Seychelles real-time intelligence on threats, such as narcotics trafficking, and trains its forces to counter them. The economic partnership also runs deep. Discussions are progressing on India’s $175-million aid and economic package, which was announced earlier this year. The two sides inked agreements spanning multiple areas: from healthcare and agriculture to digital payment systems and space cooperation. India will also station four defence advisors in Seychelles under a fresh bilateral agreement, signalling intent for a deeper strategic collaboration.
+
+As an island nation, Seychelles is acutely vulnerable to the impact of climate change. Prime Minister Modi and President Herminie noted that small island states and the wider Global South will bear a disproportionate share of the costs of global warming. India has reaffirmed its commitment to supporting Seychelles through cooperation in sustainable marine development, renewable energy and coastal management, and capacity-building efforts to confront climate risks. This partnership assumes greater strategic significance as the Indian Ocean becomes an arena of growing geopolitical competition, as China expands its influence across the region through infrastructure investments and financial assistance. India’s engagement with Seychelles becomes vital against this backdrop. As Prime Minister Modi observed, the next fifty years of cooperation should be shaped by innovation, sustainability, and shared prosperity.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/a-deeper-maritime-footprint-4057801)
+
+---
+
+### Excise scam calls for system reset
+*Deccan Herald · Editorial*
+
+The Enforcement Directorate (ED)’s recent raids on Karnataka Excise Department officers have exposed what appears to be a deeply entrenched corruption network. Acting on a First Information Report registered by the Lokayukta, the ED searched 14 premises linked to senior excise officers, their families, and associates. The searches centred on Additional Excise Commissioner (Enforcement and Crime Headquarters, Belagavi) Y D Manjunath, Excise Deputy Commissioner Jagdish Nayak, and Superintendent K M Thammanna. Investigators unearthed Rs 5.5 crore in cash, gold worth Rs 7.8 crore, foreign currency, digital evidence, property documents and, most significantly, an unofficial cash book detailing the alleged collection and distribution of bribes. According to the ED, the Excise Department functioned like a well-oiled syndicate involving bureaucrats, intermediaries, and private individuals. Liquor establishments allegedly paid fixed monthly bribes to field officers, while additional payments were extracted for fresh licences, renewals, and transfers. The money was centrally pooled and laundered through benami liquor shops operated in the names of relatives and associates.
+
+None of this should come as a surprise. Earlier this year, the opposition Bharatiya Janata Party (BJP) and Janata Dal (Secular) accused the Excise Department of running a large-scale bribery racket involving liquor licences. Those allegations gained credibility when the Lokayukta trapped three officers accepting Rs 25 lakh to clear bar and microbrewery licences. Whether every political charge was accurate is beside the point. There was sufficient evidence for the government and the Lokayukta to act much earlier instead of allowing the network to flourish.
+
+The roots of the problem lie deeper than individual greed. Years of restrictions on issuing new liquor licences artificially created scarcity, inflating their commercial value and fostering rent-seeking. Transparent, competitive allocation must become the norm. Moving excise officials periodically to other departments may help disrupt entrenched networks, but transfers alone cannot dismantle a corrupt system. Transparent licensing, fully digital approvals, independent audits, fixed tenures, and swift prosecution must become standard practice. The Excise Department is the second largest contributor to Karnataka’s own state revenue after commercial tax, with a target of Rs 45,000 crore. To restore public confidence, Chief Minister D K Shivakumar must go beyond incremental reforms and revamp the department, rebuilding it on the foundations of accountability, transparency, and integrity. Only a thorough restructuring will ensure that the Excise Department serves the state’s interests rather than private gain.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/excise-scam-calls-for-system-reset-4057800)
+
+---
+
+### VB G RAM G | Will panchayats be reduced to implementers?
+*Deccan Herald · Opinion*
+
+As the Viksit Bharat Guarantee for Rozgar and Ajeevika Mission (Gramin) (VB G RAM G) Act, 2025 rolls out from July 1, replacing the Mahatma Gandhi National Rural Employment Guarantee Act, 2005 (MGNREGA), it signals a policy shift towards efficiency, asset creation, and measuring outcomes with the use of technology.
+
+The 2025 Act proposes a few directional changes: alignment with national infrastructure priorities under the master plan PM Gati Shakti, which integrates infrastructure planning and projects into a digital mapping platform; aggregation of assets into the Viksit Bharat National Rural Infrastructure Stack and an increase in the administrative expenditure ceiling from 6% to 9%. It also provides for work to be undertaken within four thematic areas along with standardised planning processes and the use of digital tools for co-ordination.
+
+These shifts raise the important question of how local planning will be accommodated within a framework that places greater emphasis on thematic priorities, convergence, and standardised planning processes.
+
+One of the achievements of MGNREGA was the decentralised planning through gram panchayats and gram sabhas. It represented one of the most ambitious attempts to operationalise the spirit of the 73rd constitutional amendment by giving local governments a meaningful role in identifying, planning, and supervising development works. Through gram sabha deliberations and panchayat-led implementation, rural communities gained an institutional mechanism to articulate local priorities and participate in shaping their local ecologies. The challenge for the new framework will be ensuring that panchayats continue to function as institutions of local self-governance rather than being reduced to implementing agencies.
+
+Panchayat-led natural resource governance
+
+Natural Resource Management (NRM) was intrinsically woven into its foundational principle, with permissible works spanning agriculture and allied works, groundwater recharge, irrigation, soil and water conservation, and other ecological restoration activities. Identified through ward and gram sabha processes informed by local ecological knowledge, these interventions reflect long-standing community practices for managing natural resources.
+
+Consistently over the years, nearly 60% of the work under MGNREGA has been related to the NRM, a large share of which focuses on watershed development. Eventually, Schedule I of the 2005 Act was amended to explicitly focus on watershed management works, especially in water-stressed regions, reinforcing the programme’s role in strengthening ecological security while supporting rural livelihoods. As of January, over 9.84 crore assets have been created under MGNREGA, with the NRM-related works accounting for a substantial proportion of the scheme’s expenditure. These assets and infrastructure incrementally and collectively have contributed to ecosystem restoration and climate-resilient natural resource management across rural India.
+
+As the 2025 Act seeks to align rural works with broader infrastructure and thematic priorities, preserving space for locally identified NRM interventions will be critical. This needs to be reflected not only in substantive provisions, but also in procedural and process aspects. Without a determined effort to allow for local contextualised problem-solving within the larger national or thematic priorities, there is a risk that standardised planning frameworks may overlook ecological challenges that vary significantly across regions and villages.
+
+Diversity in rural works
+
+MGNREGA created a space and opportunity for women and marginalised groups to contribute to village-level works. Close to 60% of MGNREGA workers were women, making it one of the largest women-led climate adaptation workforces globally. However, the increasing use of technology has raised concerns about participation. The 2025-2026 report by NREGA Sangharsh Morcha (NSM)–LibTech found that 45.4% of all registered workers and 9.5% of active workers had not completed their eKYC, alongside a sharp fall in employment indicators, including a 57.7 crore reduction in person-days and a 40.5% decline in households completing 100 days of work. These trends are partly attributable to administrative and technology-driven changes such as mandatory digital verification systems, raising concerns that digitisation, while improving tracking, may also be contributing to exclusion errors and reduced access to guaranteed work.
+
+The success of the 2025 Act will depend not only on the number of assets created or the efficiency of expenditure, but also on whether it strengthens the capacity of the panchayats to address the diverse local ecological challenges. Few public programmes in India have captured the imagination of decentralisation, from planning to implementation, monitoring and evaluation, as MGNREGA, notwithstanding some of the challenges such as financial leaks.
+
+The transition to the VB G RAM G framework, therefore, depends on how potentially improved co-ordination and infrastructure planning are balanced with the decentralised planning, local climate resilience, and local participatory processes that characterised MGNREGA.
+
+Pavithra Chandrasekar and Ashish Mathew George are researchers at the BhuSampada Centre, National Institute of Advanced Studies (NIAS), Bengaluru.
+
+Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
+
+[Read full article](https://www.deccanherald.com/india/vb-g-ram-g-will-panchayats-be-reduced-to-implementers-4058205)
+
+---
 
 ## 30 June 2026
 
@@ -62,6 +198,118 @@ In sum, India’s AI leapfrog is a sine qua non for national transformation. Ind
 Srivatsa Krishna is an IAS officer. The views expressed are personal
 
 [Read full article](https://www.thehindu.com/opinion/lead/reforms-30-towards-the-bharat-rate-of-growth/article71162499.ece)
+
+---
+
+### DC Edit | Rule Of Law Must Prevail In Ayodhya, Other Cases
+*Deccan Chronicle · Editorial*
+
+Caught off guard by the massive theft at the Ram temple in Ayodhya which it has assiduously planned and developed as the icon of its brand of politics, the Sangh Parivar is now making an attempt to present the act before society as a social crime much beyond those under the Indian penal system. It has made the first step towards this effort with the Uttar Pradesh unit of the BJP announcing that the thieves will face social boycott “reflecting the sentiments of Hindu society”. The BJP has pointed to a resolution passed by the Faizabad Bar Association that none of its members will represent the eight accused arrested in the case and that a lawyer who goes against the decision will face a Rs 5-lakh penalty. The lawyers have also issued an ultimatum — the three people associated with the temple management — Champat Rai, Anil Mishra and Gopal Rao — “must leave” Ayodhya within three days or else the entire city would be blockaded.
+
+The Ram temple was built as per the whims of the Sangh Parivar after destroying a historical mosque, an act the Supreme Court called an “egregious violation of the rule of law”. It’s true that the temple has come up on a later order of the Supreme Court and that the perpetrators of violence managed to go scot free but the underlying disregard by the Parivar for the rule of law and the thought process that made it all happen are etched on every brick that has gone into the construction of the temple.
+
+The BJP’s talk of social boycott and the lawyers’ warnings echo the warning of Uttar Pradesh chief minister Yogi Adityanath to those who seek accountability that “they should not test Ram devotees". A republic built and run on democratic processes and administration of criminal justice cannot approve of this thought process. It is an attempt to revisit the violence of the 1990s which must be resisted.
+
+All those who seek to dictate terms of the punishment to be meted out to the accused, if and when found guilty, must be made to understand that they cannot impose a penalty of its own. They are not a law unto themselves.
+
+It is true that the wrongdoings related to the temple must have hurt the devotees of the lord as well as those who worked for decades for the realisation of the project. The party which rules Uttar Pradesh and runs the government at the Centre had all the time and opportunities to ensure that the donations of the devotees are put to their intended use. Having failed to do that, the very same people now come up with complicated arguments with the aim of avoiding further scrutiny of their lapses. They may have been successful in whipping up passions for the construction of the temple but are unlikely to succeed in camouflaging the heist there.
+
+Much worse is the position of the lawyers. Every accused has a right to fair trial and being represented by an advocate. Individual lawyers can pick their clients but to issue a threat to the fraternity against representing someone is against the law. It is sad that the lawyer community is consumed by rhetoric and takes illegal and anti-constitutional positions. They must correct themselves, and do so at the earliest. If not, statutory bodies mandated to discipline lawyers must step in fast.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-rule-of-law-must-prevail-in-ayodhya-other-cases-1967397)
+
+---
+
+### DC Edit | WhatsApp Must Do Privacy Review
+*Deccan Chronicle · Editorial*
+
+With the introduction of usernames, WhatsApp has decided to change how 300 crore people communicate, responding to privacy concerns about the existing phone-number-based messaging system.
+
+If a person joins a group, his or her number will be visible to everyone present in it. This can expose users to unwanted calls, spam, harassment and data misuse. However, the username feature can successfully address this issue and enhance user privacy.
+
+On the flip side, however, the username feature could also empower fraudsters. Usernames can make it easier for scammers to create fake identities, imitate public figures, pose as businesses or lure people into fraudulent investment and job schemes. In India, where WhatsApp has become a default messaging platform for 85 crore people, the impersonation risk is serious.
+
+Platforms that allow a username-based messaging system have often struggled with impersonation. Fraudsters can use slight variations of people’s names, brands or official handles to mislead unsuspecting users.
+
+For example, if scamsters want to impersonate ‘Bharat’, they could use Bhaarat or Bharath, without raising any objection, as Bhaarat is a phonetically correct spelling and most people in southern India use ‘th’ for the 16th consonant in the traditional Hindi alphabet. As most people don’t pay great attention to spelling or account details before trusting a message, a small loophole can affect millions.
+
+WhatsApp must, therefore, introduce the username feature with strong safeguards.
+
+It should have a robust verification system for public figures, businesses, government agencies and well-known organisations. It must prevent lookalike usernames, detect suspicious account behaviour and make reporting impersonation fast and effective.
+
+The government should also ensure that privacy features do not create a safe zone for organised scammers. WhatsApp must allow law enforcement agencies to check the underlying phone numbers for traceability and introduce all necessary safeguards to prevent its abuse.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-whatsapp-must-do-privacy-review-1967402)
+
+---
+
+### Sanjeev Ahluwalia | Passport: A New Trauma! Who Is Really An Indian?
+*Deccan Chronicle · Opinion*
+
+Who is really an Indian? This is an odd question to ask eight decades after Independence in 1947. More worryingly, the stature of the blue Indian passport -- there are about 90 million such in existence -- has been compromised. And, of all people, by the Government of India.
+
+How have we come to this pass when more than 900 million Indians are online, 2.5 billion have retail bank accounts and 1.4 billion have Aadhaar cards?
+
+The answer is that legislating rights or disabilities -- in which we excel-fail to benefit people unless the underlying institutional capacity is also created. The uncertainty associated with Indian citizenship is not a one-off. It is an enduring feature of India’s development story. Complex rules and regulations for everything do very little to assuage the stress and helplessness of the average citizen about their rights and duties. Add under-capacitated implementation agencies and you get a perfect mix of uncertainty, confusion and discretionary decisions for getting work done: like obtaining a passport or establishing one’s Indian citizenship.
+
+How did we get here? As early as 1955, the Citizenship Act reflected the constitutional provision, founded on liberal, inclusive principles, that till July 15, 1947, anyone resident in undivided pre-1947 India was eligible for citizenship. There are three options for claiming citizenship. In all cases, if the applicant was a citizen of any other country, that affiliation must be renounced if the applicant was an adult or at the time of becoming an adult. to avail of Indian citizenship. India remains a reluctant liberaliser by not permitting dual citizenship, which more than one-half of all countries and most developed ones do now allow.
+
+Since 2023, a diluted version of dual citizenship is available to persons of Indian origin (defined as a person born to persons born in India) and to their children via the Overseas Citizens of India card. OCIs do not have the same political rights as Indians but they get accelerated rights versus non-Indian origin applicants for citizenship, the same travel, economic and financial benefits, as Non-Resident Indians except they cannot buy agricultural property or plantations. There are about four million OCI holders -- less than 25 per cent of the 18 million persons of Indian origin living abroad. NRIs (Indian passport holders) living abroad are about 18 million, while another 70 million Indian passport holders live in India.
+
+Till recently, India was relaxed about scrutinising citizenship particulars of residents. The first indication that this carefree “honeymoon” period was over was two decades ago in 2004. The government enacted an amendment to the Citizenship Act, inserting Section 14A, mandating the Union government to issue national identity cards. The Registrar-General of India – an office that exists since 1969, under the Registration of Births and Deaths Act -- was mandated as the Registrar-General of Citizen Registration, and a National Registration Authority was created. Pursuant to a 2023 amendment of the act, a national digital Civil Registration System (CRS) is being created, which would seamlessly correlate births and deaths across the country. But we are not there yet. The data remains fragmented across state governments, which implement the act, and is difficult to obtain, except by approaching the relevant jurisdictions to get a birth and a death certificates. These certificates are crucial to define the category under which citizenship is claimed.
+
+In practice, citizen records -- births and deaths and voter lists -- have tended to be generous and inclusive seeking to record the population which exists on the ground rather than determine birth or descent data forensically. The Registrar-General of births and deaths has multiple functions, including managing the decennial Census operations. Indian families tend to be self-sufficient, storing paper records -- hopefully now in the DigiLocker app -- for safe and secure storage.
+
+The general impression, till now, was that a passport is a high order, prima facie proof of citizenship -- not least because passports mention the citizenship of the holder. So, when and how does one forfeit Indian citizenship despite holding an Indian passport?
+
+Multiple newspapers reproduced a PTI/government source briefing stating that “judgments of the Bombay high court since 2013 have also made it clear that a passport, by itself, is not proof of citizenship”. No one claimed that the government had terminated the passports in question. An additional clarification by the external affairs ministry was as unhelpfully opaque. It argued that the passport is merely a travel document issuable even to persons who are not citizens of India.
+
+The MEA was factually correct. A passport is intended to serve the specific foreign travel needs of an Indian citizen. Even the destination of travel can be limited. Additionally, under Section 20 of the Passports Act 1967, the government ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/sanjeev-ahluwalia-passport-a-new-trauma-who-is-really-an-indian-1967413)
+
+---
+
+### Sunil Gatade | New ‘Operation Tutari’ On Cards In Maha To Keep Pawar In Check?
+*Deccan Chronicle · Opinion*
+
+After cutting Uddhav Thackeray and his Shiv Sena (UBT) to size, the BJP will be turning its attention to Sharad Pawar by seeking to break his parliamentary party to swell the NDA’s numbers.
+
+It’s not that the BJP has been benevolent towards the Maratha strongman of yesteryears. Some four years ago, it engineered a split in his Nationalist Congress Party by weaning away his ambitious nephew, the late Ajit Pawar, to its side.
+
+Now, the straws in the wind suggest that the BJP, which is behaving crazily like a hungry tiger, is unlikely to stop at just “devouring” the Shiv Sena (UBT) but would take the operation to its logical conclusion. So, the next target is obviously Sharad Pawar’s NCP, already a dilapidated house.
+
+The BJP’s detractors, however, dismiss talk of the BJP being the “tiger”, insisting that the way it is behaving, it could at best be called a “hyena”, or a scavenger.
+
+“Tutari” (trumpet) is the emblem of Mr Pawar’s party after Ajit parted ways and the Election Commission handed him the “clock” symbol, which was with the undivided party since its inception way back in 1999. Sharad Pawar had come out of the Congress on the issue of Sonia Gandhi’s foreign origin.
+
+Since Ajit’s parting of ways, Sharad Pawar and his party are on a slide after momentarily making a good splash in the Lok Sabha polls in 2024. Besides Supriya Sule, one of the active leaders in the party is Rohit Pawar, grandnephew of the veteran, who is young and ambitious. Jayant Patil, who is the stalwart among the local leaders, is keeping a low profile amid suggestions from the BJP that he would be most welcome.
+
+There are challenges galore for the octogenarian Mr Pawar. He is neither in the pink of health politically nor physically since the defeat of the Opposition Maha Vikas Aghadi (MVA) in the Assembly polls in Maharashtra 18 months ago.
+
+Since then, it has been a riches-to-rags story for the MVA, which was seen as a novel experiment in Indian politics with arch-rivals Shiv Sena and the Congress sharing power in the premier state. The not-so-spectacular performance of the MVA in the civic polls further devalued the Opposition.
+
+Mr Pawar has been the architect of the MVA, which comprises the Congress, Mr Pawar’s NCP and Uddhav Thackeray’s Shiv Sena. It was formed after the 2019 Assembly polls when Uddhav broke ranks with the BJP and became the chief minister of Maharashtra.
+
+Known for his networking skills, Mr Pawar had always been in touch with a broad spectrum of leaders, including those from the BJP, including Prime Minister Narendra Modi and home minister Amit Shah.
+
+Reports had it that Mr Pawar was invited to join the NDA by none other than the Prime Minister more than once, but he had always dodged the issue. Mr Pawar has a long association with industrialist Gautam Adani since his days of taking baby steps in business. Mr Adani is now known to be the closest to the ruling side at the Centre since Mr Modi’s emergence.
+
+The problem for Mr Pawar is that he has failed to produce a second line of leadership in the party, and his reliance on his daughter, Supriya Sule, as the working president of the party has proved to be his undoing.
+
+No doubt Supriya is an articulate member of Parliament but is no mass leader. She has not ground her teeth in the rough and tumble of politics, being the darling daughter of the stalwart The elevation of Supriya was bound to lead to Ajit Pawar parting ways as he was the natural successor.
+
+Ajit’s exit and his subsequent tragic death in a plane crash a few months ago were a double whammy for Mr Pawar. This was especially so as the two had opened unity talks shortly before the end came. These talks are all effectively dead now, as a section of the Ajit group feels that the veteran would all but gobble up their party.
+
+For the BJP, the NCP (SP) parliamentary party is child's play to deal with given the fact that every legislator wants more returns for the buck. And the days of ideology and thought are long over; it has virtually become a game of pelf and power.
+
+Added to this is that the BJP has systematically weaponised the issue of development. Any legislator who wants to make his constituency a hub of development needs to be “positive” towards the powers that be at the Centre. Those who fall in the “Opposition” side are people that need to be ignored and will be ignored, or so goes the unwritten rule.
+
+It’s a moment of reckoning for Mr Pawar, whose pocket enclave of Baramati had earned recognition as the most developed in the state whose leadership decided which way the politics of Maharashtra moved for half a century, even when he was out of power.
+
+The sand is moving from under Mr Pawar’s feet; and more than murmurs are appearing from his loyalists that it may be time to return to the Congress in order to battle communal forces. Mr Pawar and the beleaguered Mamata Banerjee of West Bengal are sailing in the same boat, and must decide, sooner than later, their future course of action.
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/sunil-gatade-new-operation-tutari-on-cards-in-maha-to-keep-pawar-in-check-1967405)
 
 ---
 
