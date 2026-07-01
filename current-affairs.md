@@ -1,3 +1,532 @@
+## 1 July 2026
+
+### AIADMK Exodus: Ex-Ministers MR Vijayabaskar, C Vijaybhaskar To Join CM Vijay's TVK Tomorrow
+*Shuddhanta Patra · general*
+
+The MLAs resignation will take the number of former AIADMK MLAs who have switched to TVK to six, further eroding the Opposition party's strength in the Assembly.
+
+[Read full article](https://www.news18.com/india/aiadmk-exodus-mr-vijayabaskar-c-vijayabhaskar-join-tvk-tamil-nadu-politics-10183422.html)
+
+---
+
+### Student opens up after failing to secure IIT Madras seat: End of my first-ever dream
+*India Today Education Desk · general*
+
+## A student who failed to secure admission to IIT Madras has gone viral after sharing an emotional Reddit post about the end of a childhood dream. The heartfelt post drew widespread support from users who said one exam does not define a person's future.
+
+After missing IIT Madras admission, student says goodbye to a childhood dream
+
+For one aspiring engineer, the gates of IIT Madras represented far more than just an entrance to a prestigious institution; they symbolised a dream nurtured since childhood. When that dream slipped away despite years of relentless preparation, the disappointment became overwhelming.
+
+An emotional Reddit post detailing the student's heartbreak has since resonated with thousands online, sparking conversations about ambition, failure, and finding hope beyond one examination.
+
+### A CHILDHOOD DREAM THAT BEGAN AT THE GATES OF IIT MADRAS
+
+In a Reddit post titled "Today (29-6-2026), I cried after so many years," the student opened up about the pain of not securing admission to IIT Madras despite years of dedicated effort.
+
+The student explained that the aspiration to study at IIT Madras was deeply personal and was never driven by social media, peer pressure, or coaching culture. The dream began in Class 7 or 8 after asking their father what lay beyond the iconic gates of the institute.
+
+"I realised how much this exam/college meant to me when I shed tears quite literally in front of this gate. Man, I've failed in the first ever thing I wanted with my whole heart," the student wrote.
+
+The student said the dream of studying at IIT Madras was entirely self-driven and not influenced by social media, coaching culture, or external pressure. According to the post, the aspiration first took root in Class 7 or 8 after asking their father what lay beyond the gates of the institute, eventually growing into a deeply personal ambition shaped by their own hopes and expectations.
+
+### YEARS OF PREPARATION, BUT THE RESULT NEVER CAME
+
+The student admitted to losing focus during Class 11 but said they worked tirelessly afterward, especially during Class 12 and a drop year, studying for 10 to 12 hours every day in pursuit of the goal.
+
+"I was a bit distracted in 11th, but I literally did whatever I can do in 12th and studied for almost 10 hrs to 12 hrs daily during my drop year. But I now realised, it doesn't matter," the post read.
+
+Although the student eventually secured admission to one of India's top National Institutes of Technology (NITs), the achievement did little to soften the disappointment of missing out on IIT Madras.
+
+### AN EMOTIONAL VISIT TO THE CAMPUS
+
+Unable to let go of the dream, the student visited the IIT Madras campus and stood outside its main entrance, where years of preparation came rushing back.
+
+"Every part of my prep & exam flashed in my memory. Man this is hard to explain," the student wrote.
+
+The visit carried another emotional layer. The student revealed they had taken a photograph of the institute's entrance but deliberately chose not to appear in it because of a promise made years earlier.
+
+"I've made a decision in 10th std of not taking pic in front of it unless I become a part of it, now that it's not going to happen so I will not," the student shared.
+
+Reflecting on the experience, the post concluded with a note of acceptance: "So, it's official the end of my first ever dream with a result I never wanted. I guess it's life."
+
+### SOCIAL MEDIA OFFERS SUPPORT AND PERSPECTIVE
+
+The heartfelt post quickly struck a chord with Reddit users, many of whom shared their own stories of setbacks, second chances, and success beyond the IIT dream.
+
+One user revealed that they too had once failed to secure admission to an IIT but later earned a seat at IIT Madras through the GATE examination after completing their BTech.
+
+Another encouraged the student to focus on the opportunities ahead, writing that destiny cannot always be controlled, but effort can. The user urged the student to make the most of their years at the NIT instead of dwelling on what could not be changed.
+
+The student's emotional post has become more than just a story about missing admission to a dream college, it has highlighted the immense pressure many aspirants place on a single examination.
+
+While failing to achieve a long-held goal can be deeply painful, the overwhelming response online underscored a broader message: one setback does not define an entire career. For many, the end of one dream often becomes the beginning of an unexpected and equally rewarding journey.
+
+\- Ends
+
+Apoorva Anand
+
+Jul 1, 2026 10:08 IST
+
+---
+
+### Air Travel To Get Cheaper? Jet Fuel Prices For Domestic Flights Cut By Rs 5 Per Litre
+*Shobhit Gupta · general*
+
+Following the revision, the effective ATF price for domestic airlines has been reduced to Rs 110 per litre from Rs 115 per litre.
+
+[Read full article](https://www.news18.com/india/relief-for-domestic-airlines-as-jet-fuel-prices-cut-by-rs-5-per-litre-10183414.html)
+
+---
+
+### J&K: 'Operation Sheruwali' enters 40th day as security forces intensify search operations in Rajouri
+*SECTIONS J · business*
+
+Rajouri: Operation Sheruwali entered its 40th day on Wednesday, with security forces continuing an extensive search operation in the forested areas of Dorimal in the Gambir Mughlan area of the Manjakote sector in Jammu and Kashmir's Rajouri district.
+
+The operation is aimed at tracking down terrorists believed to be hiding in the area. Security forces remain actively engaged in the anti-terror operation, maintaining a strong presence across the forest terrain.
+
+Search and surveillance operations are continuing across the designated areas with the support of advanced equipment and coordinated ground operations.
+
+  
+
+'Operation Sheruwali' is an ongoing, large-scale counter-terrorism combing mission in the dense forest belts of the Dorimal-Gambhir Mughlan sector in the Rajouri district of Jammu and Kashmir. Launched in late May, the multi-agency operation aims to locate and neutralise armed infiltrators holed up in the region's rugged mountainous terrain.
+
+While the operation remains underway, all participating forces are on the job, carrying out extensive searches to ensure the safety and security of the region. Officials have stated that the operation will continue until its objectives are fully achieved.
+
+The prolonged operation highlights the determination of security forces to ensure peace and maintain security in the border district of Rajouri.
+
+Earlier, a Junior Commissioned Officer (JCO) and three Army personnel were injured in an accidental mine blast during a patrol near the Line of Control (LoC) in the forward Kalal area of the Nowshera sector on June 16, according to Jammu and Kashmir Police officials.
+
+According to the Station House Officer (SHO) of Nowshera Police Station, the incident took place at around 11 am when troops of 4 Kumaon were conducting a routine patrol in the forward LoC area. During the operation, an accidental mine blast occurred, injuring one JCO and three soldiers.
+
+The operation will continue until the area is thoroughly sanitised and all objectives are achieved, officials added.
+
+---
+
+### Doctors’ Day: Honoring the healers who hold our healthcare together
+*Sadhana Kala · opinion, regional*
+
+July 1 is India’s National Doctors’ Day. It celebrates the invaluable contributions of doctors to society. The day serves as a reminder of the dedication, compassion, and relentless commitment of medical professionals who work tirelessly to save lives, alleviate suffering, and strengthen the nation’s healthcare system.
+
+From crowded emergency rooms and rural health centers to advanced operating theaters and telemedicine platforms, doctors remain on the front lines of healthcare delivery. Their role extends far beyond diagnosis and treatment—they often become counselors, carers, and pillars of emotional support for patients and families during life’s most vulnerable moments.
+
+In a country as vast and diverse as India, where healthcare demands are constantly evolving, Doctors’ Day is more than a ceremonial observance. It is an opportunity to acknowledge the immense responsibility doctors shoulder every day.
+
+## Why is Doctors’ Day celebrated in India?
+
+India celebrates Doctors’ Day on July 1 to commemorate the birth and death anniversary of Dr. Bidhan Chandra Roy, one of the country’s most respected physicians and public figures.
+
+Born on July 1, 1882, Dr. Roy was not only a renowned doctor but also a visionary statesman, educator, and philanthropist. He served as the second chief minister of West Bengal and played an important part in establishing medical education and healthcare infrastructure in India.
+
+Dr. Roy’s contributions to medicine and public service earned him the Bharat Ratna, India’s highest civilian honor, in 1961. His life embodied service, discipline, and excellence—qualities that continue to motivate generations of doctors.
+
+By observing Doctors’ Day on his birth anniversary, India honors both his legacy and the larger medical fraternity that carries forward the mission of healing.
+
+## The role of doctors in modern India is changing
+
+The role of doctors in India has transformed dramatically over the last few decades.
+
+Earlier, doctors were primarily associated with physical consultations in clinics or hospitals. Today, the healthcare landscape includes AI-assisted diagnostics, robotic surgeries, telemedicine, digital health records, wearable monitoring devices, and preventive healthcare models.
+
+Modern doctors are expected to balance medical expertise with technological adaptability, communication skills, and emotional intelligence.
+
+This shift has gained particular importance in urban India, where patients are becoming more informed and engaged in treatment decisions. Doctors today must explain complex medical conditions in understandable terms while navigating ethical dilemmas, rising workloads, and administrative challenges.
+
+At the same time, doctors working in rural and underserved regions face an entirely different set of pressures—limited infrastructure, inadequate resources, and overwhelming patient volumes.
+
+Despite these challenges, medical professionals continue to bridge the healthcare gap, often working under immense physical and mental strain.
+
+## Lessons from the pandemic
+
+The COVID-19 pandemic fundamentally changed the public perception of doctors.
+
+During one of the most difficult public health crises in modern history, doctors became symbols of courage and resilience. They worked long shifts in protective gear, handled unprecedented patient loads, and made life-saving decisions under extreme pressure.
+
+Many doctors remained separated from their families for weeks or months to reduce the risk of infection. Some contracted the virus while treating patients; many tragically lost their lives in service.
+
+The pandemic exposed both the strengths and weaknesses of healthcare systems globally, including in India. But it also highlighted one undeniable truth: no healthcare infrastructure can function without dedicated doctors.
+
+For millions of Indians, doctors were the first source of hope amid uncertainty.
+
+Their contributions during the pandemic elevated public appreciation for healthcare workers and underscored the need for stronger investment in medical infrastructure, research, and workforce well-being.
+
+## The invisible burden doctors carry
+
+Society often overlooks the emotional burden that doctors carry, despite perceiving them as resilient professionals.
+
+Doctors regularly witness pain, trauma, and loss. They make difficult decisions, deliver life-changing diagnoses, and often carry the psychological weight of patient outcomes.
+
+Long working hours, sleep deprivation, burnout, and workplace stress remain serious concerns within the medical community.
+
+Young resident doctors frequently work exhausting shifts, sometimes exceeding healthy limits. Senior practitioners must balance patient care, hospital administration, research, and mentoring responsibilities.
+
+Recently, conversations around doctor burnout, mental health, and workplace safety have gained momentum in India.
+
+Recognizing doctors should, therefore, go beyond symbolic celebrations. Meaningful appreciation includes creating safer workplaces, ensuring fair working conditions, improving mental health support, and strengthening healthcare systems.
+
+A healthier medical workforce ultimately leads to better patient care.
+
+## Why gratitude matters
+
+A simple “thank you” may seem small, but gratitude has power.
+
+Doctors often encounter patients during moments of fear, uncertainty, and distress. Genuine appreciation can strengthen the human connection that lies at the core of medicine.
+
+Doctors’ Day offers individuals a chance to acknowledge the professionals who have supported them through illness, surgery, recovery, childbirth, emergencies, or chronic disease management.
+
+Gratitude can manifest in various ways:
+
+-   Thanking a doctor personally
+-   Sending a note of appreciation
+-   Sharing a positive healthcare story
+-   Supporting healthcare awareness initiatives
+-   Advocating for better public health systems
+
+Beyond personal appreciation, society must also recognize that healthcare is a collective responsibility shared by governments, institutions, communities, and citizens.
+
+Doctors cannot bear the burden alone.
+
+## The future of healthcare in India
+
+India’s healthcare sector stands at a pivotal moment.
+
+The country is witnessing major growth in medical innovation, digital health, biotechnology, and preventive care. Government schemes, private healthcare expansion, and public health reforms are reshaping access to treatment.
+
+However, challenges remain—especially around affordability, doctor-to-patient ratios, rural healthcare access, and infrastructure disparities.
+
+According to health experts, India needs continued investment in:
+
+-   Medical education
+-   Rural healthcare systems
+-   Specialist training
+-   Public health awareness
+-   Technology integration
+-   Research and innovation
+
+Doctors will remain central to this transformation.
+
+Even as technology becomes more sophisticated, medicine will always require something machines cannot fully replicate: human empathy.
+
+A diagnosis may come from software. Algorithms may interpret a scan. But compassion, reassurance, and trust still come from people.
+
+And that is where doctors remain irreplaceable.
+
+## A day to honor service
+
+Doctors’ Day is ultimately about recognizing service.
+
+It is about celebrating the doctors who answer emergency calls at midnight, perform complex surgeries after long shifts, comfort anxious families, and dedicate years of training to healing others.
+
+Behind every successful treatment lies years of education, sacrifice, discipline, and commitment.
+
+As India celebrates Doctors’ Day, the occasion serves as a powerful reminder that healthcare is not just about hospitals or technology—it is about people who choose, every day, to care for others.
+
+In a world increasingly shaped by speed and automation, doctors continue to embody one of humanity’s most enduring values: compassion.
+
+On this Doctors’ Day, India honors the healers, caregivers, and life-savers who make a significant impact every day.
+
+Their service deserves not just recognition but lasting respect.
+
+Facebook Twitter Linkedin Email
+
+###### Disclaimer
+
+Views expressed above are the author's own.
+
+###### END OF ARTICLE
+
+---
+
+### Minab school strike still lacks answers four months after suspected US hit
+*India Today World Desk · world*
+
+## An AP reconstruction says a US strike hit a school in Minab and killed scores of civilians. Four months later, the missing final toll and unresolved accountability have deepened outrage.
+
+Image used for representational purposes only
+
+More than four months after a US missile struck an Iranian primary school in Minab in what was reported as the deadliest strike in the US-Israeli war against Iran, there is still no final account of what happened. Most of the victims were children, but the full toll remains unclear.
+
+The Trump administration has not directly accepted blame, though a US official with knowledge of the situation told The Associated Press that the military had evidence almost immediately that the site had been hit. AP said it reconstructed the strike and its aftermath through interviews with US officials, human rights workers and Iranians in direct contact with rescuers and victims' families. Most of them spoke on condition of anonymity, citing fears of retribution.
+
+When asked last week about the strike, President Donald Trump said he had seen nothing to make him believe the US was responsible. Iran's mission to the United Nations did not respond to AP's request for comment. On the morning of February 28, students arrived at the Shajareh Tayyebeh school in Minab, one of a number of schools in Iran set up for children from families linked to the Revolutionary Guard and other state institutions, according to Shiva Amelirad, international representative of an Iranian teachers' union who has been in contact with people in the city.
+
+Amelirad said that while most schools in Iran function within the Islamic Republic's guidelines, the Shajareh Tayyebeh schools were more directly aimed at reinforcing the Guard's worldview. She said, "Regardless of the students' family backgrounds, children are civilians and any attack targeting a school is unequivocally condemnable." AP's assessment of satellite imagery said the school building was inside the same compound as a Guard base. It had earlier been a Guard building before being fenced off and converted more than a decade ago. Some students were children of Guard officers, while others were local children from an area populated by Baluch people, a majority-Sunni ethnic minority that is often repressed by the Iranian government, according to a local rights group.
+
+As bombs began falling on Tehran, school staff started calling parents to collect their children early, two people said. A father living nearby rushed to pick up his son, according to a resident of Minab who relayed several families' accounts. He saw young relatives waiting for their parents and offered them a lift home, but they declined, the resident said. Ten minutes later, bombs hit at least five buildings in the compound, according to satellite imagery, and at least one collapsed next to the school.
+
+The father ran back to the school, where men were searching through smoking rubble and pulling out bodies, according to video of the aftermath circulated by state media. He saw burned bodies he believed were his relatives. Rescuers found what was described as a tiny arm suspended in the rubble. A man from a nearby Sunni village who had come looking for his nephew found him dead in the debris. The Balochistan Human Rights Group said bodies reached the local hospital in pieces. By the end of the day, doctors there estimated they had at least 108 bodies, though they warned that number was likely an undercount, the Minab resident said. State media later reported a toll of 168.
+
+Efforts to verify the details were hampered by government restrictions in Iran, AP said. Most foreign journalists could not enter the country, the internet had been shut down, the Strait of Hormuz had become a major battlefield, and all branches of Iran's military were heavily deployed in the area, the Minab resident said. Families of victims were also fearful of speaking publicly. With the death toll still unclear, attention turned to who was responsible. Iran blamed the US, Trump blamed Iran, and Defence Secretary Pete Hegseth said the Pentagon was investigating.
+
+According to the US official, the military knew after the blast that it had carried out strikes in the area, though it took time to verify Iranian claims that a school had been hit and to begin an inquiry. The official said one analyst appears to have identified the building as a school as early as seven years ago, but that information was not adequately shared across intelligence and military teams and agencies. As a result, the building was not known to target developers as a school, pointing to possible shortcomings in target analysis and review. The official said much of the investigative work had been completed and the military was reviewing the findings.
+
+Even now, there is no full list of those killed. AP said the most extensive effort has come from Airwars, which has identified 157 of the dead, including 123 children and 34 adults. Among the adults were 26 school staff members and five parents, each of whom lost at least one child in the strike. More than four months on, the school strike in Minab remains without a final public account of the deaths, the toll or responsibility.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Jul 1, 2026 09:54 IST
+
+---
+
+### 'Ethanol experiment on 3.6 crore Indians': Priyank Kharge slams Centre over ‘results by next year' remark
+*TOI News Desk · regional, india*
+
+Priyank Kharge demands E20 rollback (ANI images)
+
+Congress leader Priyank Kharge on Wednesday targeted the Union road transport and highways minister Nitin Gadkari in his X post over the rollout of E20 (20% ethanol-blended petrol).He alleged that the government has admitted before the Supreme Court that ethanol blending is still an "experiment" despite millions of motorists already using the fuel.In a post on X, Kharge contrasted Nitin Gadkari's recent defence of E20 with the Centre's submission before the apex court."A few days back, Shri Nitin Gadkari openly challenged saying, 'Show me one vehicle anywhere in the world which had problems because of E20 petrol.' Today, the Central Government told the Supreme Court that 'Ethanol mixing is an experiment—results will come by next year,'" Kharge wrote.
+
+### **'An experiment on 3.6 crore Indians'**
+
+Calling the policy "an experiment on 3.6 crore Indians," Kharge alleged that vehicle mileage is declining, engines are suffering damage and repair costs are increasing for ordinary families.Kharge also asserted that nine out of ten vehicles in India are not compatible with E20 fuel, affecting an estimated 3.6 crore vehicles.
+
+### **Demands rollback of E20 policy**
+
+Kharge accused the government of implementing the policy without public consultation or consensus while continuing to collect data on its impact."You cannot call a national fuel shift an 'experiment' after forcing it down our tanks. You cannot challenge citizens to prove damage when your own data is still pending," he said.
+
+Arguing that "common people are not guinea pigs" and "our roads are not test tracks," Kharge urged the Centre to roll back the E20 policy until its safety and effectiveness are conclusively established.The government on June 30 told the Supreme Court that India's 20 per cent ethanol blending programme in petrol is still an ongoing experiment and that the impact of the policy is expected to become clearer by next year.The submission came during a hearing on a plea filed by Bharat Petroleum Corporation Limited (BPCL), which challenged a Karnataka high court order relating to ethanol allocation for the 2025-26 Ethanol Supply Year.
+
+---
+
+### Sensex, Nifty open higher as auto stocks lead; monsoon worries keep gains in check
+*Sonu Vivek · general*
+
+Benchmark stock market indices started the session on a positive note, recovering from Tuesday's losses as buying in auto stocks lifted sentiment. However, the market quickly turned range-bound as investors assessed the impact of deficient rainfall and the lack of progress in US-Iran peace talks.
+
+The BSE Sensex rose 181.28 points to 76,659.95, while the NSE Nifty50 gained 49.90 points to trade at 23,915.65 in early trade.
+
+The broader market also remained firm. The Nifty 100 gained 0.17%, while the Nifty 200 rose 0.17%. The Nifty 500 advanced 0.20%, the Nifty Midcap 50 gained 0.29%, the Nifty Midcap 100 added 0.15% and the Nifty Smallcap 100 climbed 0.38%. India VIX, however, gained 2.72%, indicating investors remained cautious despite the positive opening.
+
+## SECTORAL INDICES
+
+Sectoral performance remained largely positive.
+
+Nifty Media emerged as the top-performing index after gaining 1.63%. Nifty Consumer Durables rose 0.97%, followed by Nifty Auto, which gained 0.87%. Nifty FMCG advanced 0.75%, Nifty IT rose 0.54%, Nifty Realty gained 0.46%, Nifty Pharma climbed 0.31%, Nifty MidSmall Financial Services added 0.30%, Nifty 500 Healthcare gained 0.25%, Nifty MidSmall Healthcare rose 0.24%, Nifty Healthcare Index advanced 0.21%, Nifty Private Bank gained 0.16% and Nifty PSU Bank edged up 0.03%.
+
+On the other hand, Nifty Metal was the biggest laggard after losing 0.72%. Nifty MidSmall IT & Telecom declined 0.41%, Nifty Chemicals fell 0.21%, Nifty Financial Services lost 0.18%, Nifty Financial Services 25/50 slipped 0.18%, Nifty Oil & Gas declined 0.05% and Nifty Financial Services Ex-Bank edged down 0.01%.
+
+## TOP GAINERS AND LOSERS
+
+Among Sensex stocks, Mahindra & Mahindra was the biggest gainer after rising 2.05%. Eternal gained 1.70%, Titan advanced 1.44%, Hindustan Unilever rose 1.35%, Infosys climbed 0.91%, Sun Pharma rose 0.79%, TCS gained 0.78% and Kotak Mahindra Bank advanced 0.74%.
+
+On the losing side, Bajaj Finserv declined 2.13%. Tech Mahindra lost 0.65%, NTPC slipped 0.49%, Bajaj Finance fell 0.47%, Larsen & Toubro declined 0.45%, ICICI Bank lost 0.45%, while Trent, Asian Paints and Tata Steel also traded in negative territory.
+
+## MONSOON EMERGES AS THE BIGGEST RISK
+
+Brent crude continued to trade near 73 dollars a barrel, helping keep India's inflation outlook favourable. However, Asian markets slipped as investors tracked developments in the US-Iran peace negotiations after Iran said it would not meet senior US officials for fresh talks.
+
+Dr. VK Vijayakumar, Chief Investment Strategist at Geojit Investments Limited, said the biggest concern for the Indian market has shifted from geopolitics to the monsoon.
+
+"The major concern weighing on the market now is the poor monsoon which so far has been worse than expected. June has ended with 40% rain deficit and for July, the IMD has predicted below normal rainfall. If this trend continues, the actual rainfall this monsoon season may fall below the IMD's forecast of 90% of the long-term average. The market has not yet discounted this negative trend," he said.
+
+Vijayakumar advised investors to gradually reposition portfolios towards sectors that are relatively insulated from weak rural demand.
+
+"Partial portfolio adjustment in favour of fixed income may be considered. Also, churning of portfolios in favour of monsoon-proof sectors like healthcare, pharmaceuticals, power and select fairly valued defence stocks is advisable," he added.
+
+_**(Disclaimer: The views, opinions, recommendations, and suggestions expressed by experts/brokerages in this article are their own and do not reflect the views of the India Today Group. It is advisable to consult a qualified broker or financial advisor before making any actual investment or trading choices.)**_
+
+\- Ends
+
+Jul 1, 2026 09:52 IST
+
+---
+
+### Historicity of reservation
+*Uttam Khobragade · opinion, regional*
+
+Indian society has not bothered to study either the history or the philosophy of reservation. This ignorance has led to demands for reservation from every class, including the ruling class, which itself secured a 10 per cent reservation in government services.
+
+The concept of reservation in India is linked to the very process of making a free and democratic India and has a history of over 120 years. As a matter of fact, every country around the world with more than one ethno-religious or social group has resolved the issue of representation through some mechanism, and reservation is one such method.
+
+The British Parliament was indeed the best protector of democratic rights in this context. As early as 1911, it initiated the process of people’s participation in governance in India — the essence of true democracy. To work out the participation of all ethno-religious groups, the Chelmsford-Montagu Commission was appointed, and the first comprehensive census was conducted in 1911.
+
+The factual situation identified by this survey established that Indian society consisted of three major ethno-religious groups.
+
+The first and largest group was one in which leadership in every walk of life rested with a microscopic minority that had arrived in the Indian subcontinent almost 3,000 years ago. These people co-opted most of the local population and, to facilitate this, changed their identity from Sanatan to Hindu — a word more acceptable to the locals, as they resided to the south-east of the Sindhu (Indus) river. They were politically brilliant. Although they co-opted the local population, they created a graded varna system to maintain their dominance. Over time, this system generated the caste structure.
+
+The second group was led by another microscopic minority of medieval invaders from Afghanistan, Uzbekistan, and other regions — of Turkish-Mongolian origin. This group also co-opted a large number of the original population by using power as a magnet for attraction. They constituted almost 20 per cent of the population and came to be known as Mussalmans (Muslims).
+
+The third group comprised the local population that refused to be co-opted by either the Hindu or Muslim groups. According to the painstaking research of Dr BR Ambedkar, they were followers of the now-extinct Buddhism. Since they refused to assimilate, the ruling Hindu classes imposed several inhuman conditions on them. This resulted in the worst kind of deprivation — their condition was worse than that of animals or slaves. They were proscribed from acquiring wealth, education, or basic human rights, so that they would remain in perpetual servitude. They were treated like chattel. In the first census, their population was roughly 50 million — about 20% of the total population. They were called Untouchables. They were never called “Scheduled Castes” at that time; instead, about ten criteria were prescribed to identify them.
+
+The entire Hindu society was encompassed within the four varnas, from which castes later developed. This 20 per cent population, whose position was akin to slaves or chattels, was not part of Hindu society. They stood outside the varna fold and were referred to as Avarnas. There was no question of their division into castes in the socio-religious sense. They were never part of the varna system, which is the foundation of the caste system.
+
+The Congress, led by Mr Gandhi, refused to recognise the existence of these Untouchables. When Gandhi buttressed his claim to be the representative of the Indian population and asserted the right to speak on behalf of all Indians, he mentioned Hindus, Muslims, and Sikhs, but did not mention the Untouchables. Perhaps, in his scheme, they were not human beings but chattels.
+
+However, when the learned Dr Babasaheb Ambedkar entered public life — equipped with deep knowledge of history, sociology, political science, economics, and the French Revolution — things were bound to change. His erudition and powerful oratory created space for the Untouchables in the social and political system. Their participation in future governance became a key and important feature that was eventually accepted.
+
+Mr Gandhi, a self-proclaimed Sanatani, was in no mood to recognise the Untouchables as human beings deserving participation in governance. He wanted them to remain slaves forever and famously staked his life to deny them political freedom. He also proclaimed that Untouchables could convert to Islam or Christianity to escape their slavery, but there was no question of granting them participation in governance. This led to the drama in Pune. The resulting stalemate placed Dr Ambedkar in a dilemma: he had to save Gandhi’s life while also securing freedom for the Untouchables, whom he called the Depressed Classes. Gandhi referred to them by the derogatory term “Harijan” (a word historically reserved for illegitimate children), while the British called them Untouchables. Never in the 120-year history of this discourse were they referred to as “Scheduled Castes.”
+
+The protracted negotiations resulted in the Poona Pact, which introduced the concept of reservation for Untouchables in legislatures and government services as a means to achieve political participation. This was coupled with the creation of a social welfare department for their upliftment, along with a separate budget provision. In return, the Untouchables agreed to give up their right to self-determination — a basic democratic right.
+
+This was indirectly admitted even by the “Iron Man” Shri Vallabhbhai Patel, who thundered in the Constituent Assembly while responding to demands for Muslim reservation: “Those who wanted this separate reservation got separate Pakistan.”
+
+Reservation for the Depressed Classes is enshrined in the Indian Constitution as affirmative action, rooted in the Poona Pact of 1932. The provisions guarantee proportional representation in education, employment, and political offices to correct historical injustices and promote social justice.
+
+Even to incorporate this into the Constitution, Dr Ambedkar had to fight fiercely. When opposed by the majority in Congress, he boycotted the Constituent Assembly for three days, placing the Congress in a serious dilemma. The Constitution could not be completed without his return, and Dr Ambedkar would not return unless the provision for reservation for the Depressed Classes was accepted. Eventually, reservation was included.
+
+The above discussion leaves no doubt that:
+
+1.  Reservation was not the result of economic backwardness. It was a political settlement to give representation to the Depressed Classes in governance.
+2.  It was granted to the Depressed Classes as a group, and not to a collection of castes. The list in the Schedule is merely an administrative convenience. The so-called castes mentioned were only identification labels, often based on profession. In fact, there are no castes among Untouchables because they were never part of the Varna system. This labelling is a ripple effect without religious sanction.
+3.  The Constitution gave reservation to the Depressed Classes as a homogenous group, as correctly stated by Hon’ble Justice Bela Trivedi.
+4.  It was single-handedly achieved by the most learned statesman of India, Dr. B.R. Ambedkar, in the face of stiff opposition from the majority class.
+
+Facebook Twitter Linkedin Email
+
+###### Disclaimer
+
+Views expressed above are the author's own.
+
+###### END OF ARTICLE
+
+---
+
+### Garena Free Fire MAX redeem codes for July 1, 2026: Claim free diamonds, skins, emotes and other rewards
+*Unknown · business*
+
+Garena has released a fresh set of redeem codes for Free Fire MAX players on July 1, 2026, giving gamers an opportunity to unlock premium in-game rewards for free. The latest codes can help players obtain valuable items such as diamonds, weapon skins, character bundles, emotes, loot crates and other exclusive collectibles.
+
+Free Fire MAX is the enhanced version of Garena's popular battle royale title and offers improved graphics, smoother gameplay and a more immersive gaming experience. In every match, up to 50 players land on an island, gather weapons and resources, and battle to become the last survivor.
+
+The newly released redeem codes are time-sensitive alphanumeric combinations that can be redeemed for various rewards. Since these codes are available for a limited period and often have a redemption cap, players are encouraged to claim them as soon as possible. Once the redemption limit is reached or the codes expire, they will no longer be valid.
+
+  
+  
+
+## How to Redeem Free Fire MAX Codes  
+
+Players can redeem the codes by visiting the official Garena Free Fire Rewards Redemption website. After logging in through a supported platform such as Google, Facebook, Apple ID, VK, Huawei or X account, users need to enter the redeem code and click on the "Confirm" button.
+
+If the redemption is successful, a confirmation message will appear on the screen. The rewards are generally credited to the player's in-game mailbox within a few hours, although some rewards may take up to 24 hours to arrive.
+
+  
+
+## Important Things to Remember  
+
+Garena advises players to redeem the codes as early as possible to avoid missing out on rewards. Codes must be entered exactly as provided and can usually be used only once per account.
+
+Players using guest accounts will not be able to redeem rewards and must first link their account to a supported platform. If an error message appears during redemption, the code may have expired, reached its redemption limit or may not be valid in the player's region.
+
+Gamers should use only the official redemption website and avoid third-party platforms claiming to offer rewards. Garena regularly releases new redeem codes through special events, collaborations and promotional campaigns.
+
+**_Disclaimer: The redeem codes circulating online are based on information available on the internet. Their validity and availability may vary. The publisher has not independently verified the codes and is not responsible for whether they remain active or redeemable at the time of use._**
+
+---
+
+### Trump slams SC for upholding birthright citizenship, vows law to end it
+*Varsha Agarwal · general*
+
+After the Supreme Court struck down the order and upheld birthright citizenship, Trump said he will now work with Congress on legislation to end or limit it.
+
+Trump slams SC for upholding birthright citizenship, vows law to end it(Representative image, source: ANI)
+
+The US Supreme Court recently struck down President Donald Trump's executive order and upheld birthright citizenship for all children born in the United States. Calling the decision 'too bad for the country', Trump has vowed to pursue legislation to end birthright citizenship.  
+
+## **Trump vows to end birthright citizenship**
+
+In his executive order, signed on his first day back in office, Trump aimed to deny automatic US citizenship to children born in the US to undocumented immigrants or parents on temporary visas.
+
+However, after the Supreme Court struck down the order and upheld birthright citizenship, Trump said he will now work with Congress on legislation to end or limit it. He argued the current system encourages illegal immigration and “birth tourism,” and that a new law is the best route after executive action failed.
+
+Reacting to the verdict, Trump condemned the Supreme Court's decision on Truth Social, describing it as harmful to the country. He wrote: "The Supreme Court upheld Birthright Citizenship, which is too bad for our Country, but we can easily make it up in Congress through Legislation, with the support of the President, that has now been determined during this process."
+
+'No long and unwieldy Constitutional Amendment is necessary! Congress should start TODAY to work on ending expensive and unfair to our Country, Birthright Citizenship. They will have my Complete and Total Support! President DONALD J. TRUMP" he added.
+
+## **What did the Supreme Court say on birthright citizenship**
+
+Citing the 14th Amendment’s Citizenship Clause and the United States v. Wong Kim Ark precedent, the Court ruled that children born in the US to parents who are unlawfully or temporarily present are entitled to automatic citizenship.
+
+Justice Brett Kavanaugh joined the majority, though he based his decision on federal law rather than the Constitution. Justices Clarence Thomas, Neil Gorsuch, and Samuel Alito dissented.
+
+Chief Justice John Roberts wrote that the 14th Amendment’s Framers extended citizenship to “every free-born person in this land,” adding, “We keep that promise today.”
+
+The decision is a setback for Trump, who campaigned on ending “birth tourism” and signed the order on his first day back in office. In May, he had called a negative ruling “not economically sustainable” for the US.
+
+---
+
+### Usernames come to WhatsApp, but why? Money definitely, privacy probably
+*Javed Anwer · general*
+
+## Over 10 years after Mark Zuckerberg bought WhatsApp, the app still doesn't make him enough money. This could be the reason why the personal chat app is finally bringing usernames to it. WhatsApp cites privacy as the reason behind it, the reality could be more mundane and boring.
+
+WhatsApp usernames will let users chat on the platform without sharing phone number
+
+Mark Zuckerberg bought WhatsApp in 2014 by paying over $21 billion, making it one of the biggest purchases in the history of tech. Since then it has become the most used app in the world. Since then Zuckerberg has also struggled to make money from it. Now he seems to be getting a little impatient.
+
+It is this Meta’s money trouble with WhatsApp that is behind the two most consequential decisions that the company seems to have taken in the last 10 days. One is the hiring of Kunal Shah, the founder of CRED, to lead WhatsApp. Zuckerberg probably believes that Shah, with his fintech chops honed in the cutthroat environs of the Indian app ecosystem, will succeed where Will Cathcart failed. And two, the announcement that WhatsApp is bringing usernames to the app.
+
+Finally. At last. Years after Telegram implemented it. Long after it has been proven that usernames on chat apps belong to the past, that a phone number is more than enough. Yet, here we are. WhatsApp finally has a provision for usernames.
+
+It is obvious to ask why? WhatsApp has an explanation. The app says it is due to privacy reasons. “Usernames are our latest step to make WhatsApp even more private,” the company explains in a blog. “There's no directory to browse and no suggestions – people will need to know your exact username to contact you for the first time. To help control who can reach you on WhatsApp with your username, we've built an optional username key that others will need to know to message you.”
+
+Sounds good and reasonable at the first glance. But we don’t live in 2010 or 2015. We live in 2026 and by now it is fairly logical, reasonable, and even necessary, to take anything that a tech company says with a pinch of salt and a dollop of scepticism. So, we must ask again: why is WhatsApp bringing usernames to the app?
+
+### Not just privacy but think money
+
+Meta, which was earlier called Facebook, bought Instagram for around $1 billion in 2012. In 2026, the social media app has become the main revenue generator for Meta, with reports putting in Instagram annual revenue around $85 billion. In comparison, WhatsApp has an annual revenue of somewhere between $2 to $3 billion, a pittance compared to what it should be doing.
+
+The problem is that WhatsApp, which began its journey as a self-contained and privacy-focussed personal messaging tool, is notoriously difficult to monetise. Most of its user data is behind the End-2-End encryption. The nature of the app is such that most people don’t want to use it for anything other than personal and private messages and calls.
+
+More significantly, Meta cannot dilute the privacy and messaging aspect of the app too much or too soon because the utility that WhatsApp provides is hardly unique. Any decent messaging app can step into its shoes if users suddenly migrate to that.
+
+As WhatsApp announced the username feature, many theories are floating around, trying to explain it. One such theory suggests that through common usernames WhatsApp is hoping to connect accounts of individuals across Instagram, Facebook and WhatsApp. This, I believe, can barely explain it because Meta already has this connection between different accounts through the phone number.
+
+Someone else on X suggested that the username move is a way to defeat SIM-binding that the Indian government wants to implement for apps like WhatsApp. Again, not really. While the username option is here, for WhatsApp the phone number remains the key identifier of a user. Even on Telegram where usernames are allowed, a phone number is the primary identifier of an account. In other words, a phone number is, and will remain, mandatory. And if it is mandatory, SIM-binding can still be forced by any government.
+
+Just a few days Meta hired Kunal Shah to lead WhatsApp, likely hoping that he would implement new monetisation plan for the ad.
+
+Obviously, I am not privy to what Meta product managers are thinking or what scheme Zuckerberg and Shah are cooking with usernames. It is all a guess work, but the more I think about it, the more I believe that the move is tied to the monetisation plan. Zuckerberg probably believes that after 12 years it is high-time that Meta earns something from the world’s most-used app. Something needs to be done.
+
+This is where usernames come into the picture. A phone number is great for targeted advertising, because it is unique. But WhatsApp cannot do such advertising because as soon as it inserts ads in a chat window, people are going to uninstall the app. Instead, it has to find more creative ways to bump up its revenue. And for creativity you need flexibility.
+
+Compared to phone numbers, usernames allow for more flexibility, something that can be exploited to generate revenue. Again, I am spitballing. But I believe some of these ideas may end up appearing in WhatsApp in coming months and years.
+
+WhatsApp will likely exploit the username feature on the business side of things. There is even some hint in its blog. At one point, it writes: “We know that some people like creators, small businesses, and organisations may want to maintain a consistent presence online.” Hence the username.
+
+Because a number is always verified through an OTP, the potential to charge money for authenticity is limited there. But a username, at least in the case of a business, will need to be verified through paperwork. More so when similar sounding usernames have potential for confusion and impersonation. This creates potential to charge a certain price or subscription fee, similar to how X aka Twitter gives organisations the golden badge at a price of at least $200 per month.
+
+But a verification of a user name for business is a rather basic idea. I believe that WhatsApp is thinking far beyond it. The flexibility that usernames provide can be useful in a number of use cases. Here are three:
+
+1- Imagine you run a company that does a lot of customer outreach, business, and support on WhatsApp. You have 20 employees, from sales to product support, all using the same number and same identity to connect with customers. There is no identifier between the different chats and employees, except the personal signature that an employee may or may not leave in their messages. Usernames solve this issue. Once a company is verified, it can create N number of usernames under one single phone number and verify each one of them with its own verified badge. It simplifies managing the business on WhatsApp.
+
+2- Extend this to AI agents now. We know that AI agents are already here and every platform — and WhatsApp — is looking to integrate them. Currently, I believe that a third-party AI agent on WhatsApp must function through a phone number tied to it. This is not an approach that is going to work. The way to bring in AI bots on the platform would be through usernames. This too could be a service in future where WhatsApp may look to monetise by charging a fee for every bot a user or a business creates.
+
+3- There is another area where usernames can be very handy — anonymity. Anonymity is not needed in personal chats, not even in dating chats. Privacy is needed but not anonymity. Instead, it is needed in group communication.
+
+Again, it is something where WhatsApp has dropped some hints. In its blog, it writes, “Sometimes you just want to chat without handing over your digits. This is also true for group conversations. You want to join the parent chat for the soccer team but you’re not ready to give your phone number to people you've never met.”
+
+I feel WhatsApp wants to monetise communities and groups, particularly the fandoms. It already has Channels, but those are one-way virtual spaces. Instead, it wants two-way communities, say a place where a content creator can go live and then interact with people. To ensure that people participate in such an interaction freely, WhatsApp needs a way to ensure that people can have anonymity. This anonymity is easy to implement through usernames.
+
+The username feature is rolling out to users and would appear in the Accounts section of the WhatsApp settings
+
+This is not to say that WhatsApp is not honest about the privacy aspect of the usernames. It likely is. The feature offers some advantages, and some disadvantages, to individual users. But the move also looks way too significant with WhatsApp pushing it too hard relative to its privacy benefit to users. The privacy benefit, that sharing your username instead of your number like Aamir Khan suggests in the WhatsApp ad, is tangential as well as full of friction in terms of user experience.
+
+There has to be something more to it. While I have suggested three use cases, there are bound to be a few more. For example, usernames potentially allows WhatsApp to create a business directory and then charge business to be included in it. It may even offer business preferential treatment in such a directory by asking them to pay for “sponsored ad”. Sure, no directory or typing suggestion for individual users as WhatsApp says, but it doesn’t rule out directory for business.
+
+We will see what Zuckerberg and Shah are cooking towards the end of the year when the feature gets implemented. But I will eat my hat if the move turns out to be only about privacy and nothing else.
+
+\- Ends
+
+Divya Bhati
+
+Jul 1, 2026 09:44 IST
+
+---
+
+### 45% Of Indian Homes Need Electrical Upgrades For Safe EV Charging, Finds New Study
+*Shobhit Gupta · general*
+
+As per the report, only 55% of prospective EV buyers currently have access to home charging, even as residential charging remains the primary mode of powering electric vehicles.
+
+[Read full article](https://www.news18.com/india/45-of-indian-homes-need-electrical-upgrades-for-safe-ev-charging-finds-new-study-ws-l-10183384.html)
+
+
+---
+
 ## 30 June 2026
 
 ### DBS completes $1 billion synthetic securitisation in first for a Singapore bank
