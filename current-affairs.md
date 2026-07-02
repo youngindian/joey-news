@@ -1,3 +1,363 @@
+## 2 July 2026
+
+### PM Modi, Japan PM to launch Maruti's Rs 35,000 crore mega car plant today
+*Chetan Bhutani · general*
+
+Prime Minister Narendra Modi and Japanese Prime Minister Sanae Takaichi are set to jointly inaugurate Maruti Suzuki India's new manufacturing facility at Kharkhoda in Haryana on Wednesday, marking one of the biggest investments in India's automobile sector in recent years.
+
+The Kharkhoda plant is Maruti Suzuki's fourth manufacturing facility in India and is expected to significantly boost the country's passenger vehicle production capacity.
+
+Built with a planned investment of around Rs 35,000 crore, the facility is expected to create more than 21,000 direct jobs while adding an annual production capacity of 10 lakh vehicles once fully operational.
+
+The inauguration also underscores the deepening economic partnership between India and Japan, with Maruti Suzuki remaining one of the most successful examples of Japanese investment in India's manufacturing sector.
+
+### WHY THE KHARKHODA PLANT MATTERS
+
+Maruti Suzuki is India's largest passenger vehicle maker, selling nearly one in every two cars bought in the country. As demand for passenger vehicles continues to grow, the company has been expanding its manufacturing footprint to cater to both domestic and export markets.
+
+The Kharkhoda facility is expected to play a key role in helping the automaker meet its long-term production target while strengthening India's position as a global automobile manufacturing hub.
+
+Once fully operational, the plant will increase Maruti Suzuki's annual manufacturing capacity by 10 lakh vehicles, making it one of the company's largest production centres.
+
+### A RS 35,000 CRORE INVESTMENT
+
+The project represents an investment of approximately Rs 35,000 crore and is among the largest greenfield automobile manufacturing investments in the country.
+
+Besides boosting vehicle production, the plant is expected to generate over 21,000 direct employment opportunities. Thousands of additional indirect jobs are also expected to be created through ancillary industries, component manufacturers, logistics providers and local service businesses that typically develop around large automobile factories.
+
+### BOOST FOR 'MAKE IN INDIA'
+
+The inauguration comes as India continues to push manufacturing under the 'Make in India' initiative and aims to become a global production base for automobiles and auto components.
+
+The expansion is expected to strengthen the domestic automotive supply chain, encourage fresh investments by component manufacturers and enhance India's export capabilities.
+
+The presence of both Prime Minister Modi and his Japanese counterpart at the inauguration also highlights the strategic importance of India-Japan industrial cooperation, particularly in manufacturing and mobility.
+
+With the Kharkhoda facility coming online, Maruti Suzuki is set to significantly expand its production capabilities as it prepares for future demand, including new-generation vehicles and exports.
+
+\- Ends
+
+Jul 2, 2026 09:51 IST
+
+---
+
+### Chennai girl's determination to study under street light inspires strangers to help
+*India Today Trending Desk · general*
+
+## An Instagram video shows a young girl studying on a Chennai road while her mother sells flowers nearby. The clip moved viewers, with several offering study materials after seeing her continue after dark.
+
+A videp showing a little girl studying on the streets in Chennai has gone viral. (Photo: Instagram)
+
+As her mother sold flowers by the roadside, a young girl in Chennai sat beside her with a book in hand, determined to finish her lessons.
+
+The heartwarming moment, captured on video, has inspired an outpouring of support online.
+
+The video, shared on Instagram by Chennai resident Santhosh, was filmed near the Camp Road signal in Tambaram. It shows the girl seated on the pavement with her books, concentrating on her studies as her mother tends to customers at a flower stall a few feet away.
+
+As daylight fades, the girl can be seen moving closer to a roadside shop, using its bright lights to continue reading. The simple yet powerful moment has resonated deeply with viewers, many of whom saw it as a reminder of the determination with which some children pursue education despite limited resources.
+
+Sharing the clip, Santhosh wrote, "While I was working at Tambaram near Camp Road signal, I saw a young girl studying and nearby her mother selling flowers near the roadside."
+
+He added that the sight left a lasting impression on him.
+
+"I was very surprised to see her studying with the hope that education is the only tool to change her status and after dark she went studying under the light of a roadside shop. It was a heart-touching and inspiring scene," the caption read.
+
+**Watch the video here:**
+
+The video quickly gained traction on social media, with many users praising the girl's dedication and her mother's efforts to support her education. Several viewers said the clip was a reminder that the desire to learn often transcends difficult circumstances.
+
+The outpouring of support soon translated into action. According to the video's updates, several people came forward to help the child by offering a study table, stationery and other essentials to make her learning journey a little easier.
+
+For many online, the video was more than a glimpse into a child's evening routine. It was a moving portrait of quiet resilience, a young girl refusing to let darkness interrupt her education, and a mother's hard work creating hope for a brighter future.
+
+\- Ends
+
+Srimoyee Chowdhury
+
+Jul 2, 2026 09:50 IST
+
+---
+
+### Sensex jumps nearly 400 points, Nifty tops 24,100 as IT stocks rebound
+*Sonu Vivek · general*
+
+Benchmark equity indices opened sharply higher on Thursday, driven by a strong rebound in information technology stocks and continued weakness in crude oil prices.
+
+The BSE Sensex climbed 398.43 points, or 0.52%, to 77,321.07, while the NSE Nifty50 gained 123.90 points, or 0.52%, to trade at 24,129.75 in early trade.
+
+Sentiment improved after Brent crude slipped below $71 a barrel following reports of positive progress in indirect talks between the US and Iran. Lower oil prices are positive for India as they help ease inflationary pressures and reduce the country's import bill.
+
+The broader market also traded in the green. Nifty 100 gained 0.41%, Nifty 200 rose 0.38%, Nifty 500 advanced 0.36%, Nifty Midcap 50 climbed 0.34%, Nifty Midcap 100 gained 0.24% and Nifty Smallcap 100 added 0.41%. India VIX, the volatility index, fell 2.81%.
+
+IT stocks emerged as the biggest gainers, with the Nifty IT index surging 3.37%. Nifty Mid Small IT & Telecom gained 1.68%, while Nifty Metal rose 0.80%, Nifty Consumer Durables advanced 0.68%, Nifty Realty gained 0.50%, Nifty Financial Services climbed 0.46%, Nifty Private Bank rose 0.45% and Nifty Auto added 0.34%.
+
+Nifty Oil & Gas gained 0.34%, Nifty Healthcare Index rose 0.20%, Nifty Pharma advanced 0.18%, Nifty500 Healthcare gained 0.18%, Nifty Financial Services Ex-Bank rose 0.18%, Nifty FMCG gained 0.11% and Nifty Mid Small Financial Services added 0.08%. Nifty Media was flat, while Nifty PSU Bank slipped 0.03%.
+
+Among Sensex stocks, Infosys jumped 4.44%, HCLTech gained 3.56%, TCS rose 2.82% and Tech Mahindra advanced 2.35%, leading the rally in IT shares.
+
+Eternal gained 1.72%, Bajaj Finserv rose 1.09%, IndiGo climbed 1.03%, Titan gained 1.02%, Kotak Mahindra Bank advanced 0.85%, ICICI Bank rose 0.78%, Sun Pharma gained 0.74% and HDFC Bank added 0.73%.
+
+On the other hand, NTPC fell 0.85%, BEL declined 0.79%, Larsen & Toubro slipped 0.77%, Power Grid dropped 0.73%, Bharti Airtel lost 0.54%, Bajaj Finance fell 0.45%, Maruti Suzuki declined 0.26%, Trent slipped 0.12% and ITC traded marginally lower.
+
+Despite the positive start, investors remain cautious over the progress of the southwest monsoon. A prolonged rainfall deficit could hurt rural demand, agricultural output and inflation, making monsoon developments a key monitorable for markets.
+
+Dr. VK Vijayakumar, Chief Investment Strategist at Geojit Investments Limited, said, "There are some positive trends that are providing near-term support and strength to the market. One, crude continues to fall with Brent below $71 now. This will further strengthen India's macros and help in achieving higher growth while keeping inflation in check.
+
+"Two, the auto sales numbers in June were strong with 24.1% growth in passenger vehicles. This indicates that the demand momentum in the economy continues to be strong.
+
+"Third, the AI trade in South Korea is weakening, which is positive for non-AI markets like India. Fourth, FII selling is tapering off, giving an upper hand to DIIs. Whether India's outperformance will continue will depend largely on the progress of the monsoon, which continues to be unsatisfactory. The strength in the banking segment and digital platform companies is likely to continue in anticipation of good Q1 results."
+
+_**(Disclaimer: The views, opinions, recommendations, and suggestions expressed by experts/brokerages in this article are their own and do not reflect the views of the India Today Group. It is advisable to consult a qualified broker or financial advisor before making any actual investment or trading choices.)**_
+
+\- Ends
+
+Jul 2, 2026 09:48 IST
+
+---
+
+### Tea and biscuits cost him a 17-year job, High Court reinstates dismissed peon
+*Satyajeet Kumar · general*
+
+## The Jharkhand High Court reinstated a Bokaro DRDA peon dismissed for taking tea leaves and biscuits home. The bench said the penalty was disproportionate after 17 years of service and ordered part salary payment.
+
+Ranjit Kumar Himanshu served as a contract peon at the Bokaro District Rural Development Agency.
+
+The Jharkhand High Court has overturned the dismissal of a peon accused of taking tea and biscuits home from the office, observing that terminating an employee over a minor lapse after 17 years of service was disproportionate and against the principles of justice.
+
+The court reinstated Ranjit Kumar Himanshu, who had served as a contract peon at the Bokaro District Rural Development Agency (DRDA).
+
+A division bench comprising Chief Justice MS Sonak and Justice Rajesh Shankar criticised the administration’s decision, saying that punishment must be proportionate to the misconduct and that harsh action cannot be justified when an employee’s mistake does not cause serious loss or damage to the government system.
+
+The case dates back to March 2022, when the then Deputy Development Commissioner (DDC) issued a show-cause notice to Himanshu over the alleged incident. The notice, however, did not clearly mention the items that were reportedly missing.
+
+During the proceedings, Himanshu’s counsel informed the court that he had admitted taking home tea leaves and biscuits left in the office and had returned the items after receiving the notice.
+
+Despite this, his contractual service was terminated on May 2, 2022.
+
+The High Court observed that the administration failed to consider the employee’s long service record and the nature of the allegation before imposing the extreme penalty of dismissal.
+
+The court directed DRDA Bokaro to reinstate Himanshu before July 10 and ordered payment of 50 per cent of his pending salary by July 30.
+
+\- Ends
+
+Karishma Saurabh Kalita
+
+Jul 2, 2026 09:42 IST
+
+---
+
+### Russia's overnight missile and drone attack on Kyiv kills eight
+*India Today World Desk · general*
+
+## Russia hit Kyiv overnight with missiles and drones, damaging homes across the capital. The barrage underscored an intensified campaign as emergency crews raced to rescue trapped residents.
+
+Russia launched a large-scale overnight attack on Ukraine's capital, Kyiv, with ballistic and cruise missiles as well as drones, killing at least eight people and injuring dozens. Loud explosions shook the city for hours, and many residents took shelter in metro stations after warnings were issued by President Volodymyr Zelenskyy and other authorities.
+
+Officials said the attack damaged buildings and civilian infrastructure across Kyiv, with destruction reported at 28 locations, mostly residential buildings and other civilian sites. Mayor Vitali Klitschko said 34 people were injured, while Tymur Tkachenko, head of the Kyiv City Military Administration, said eight people were killed.
+
+Russia has stepped up its attacks on Kyiv in recent weeks, even as Ukraine has carried out its own long-range drone strikes on Russian military sites and energy facilities, causing fuel shortages and disrupting supply lines inside Russia. Klitschko urged residents to stay in shelters and described the bombardment as a continuing "furious enemy attack" on the capital.
+
+In the Shevchenkivskyi district, five people were injured and one of them, a paramedic, was in an extremely critical condition, Klitschko said. Ukraine's Emergency Service said a hotel and two five-storey residential buildings were damaged there. In the Desnianskyi district, people were trapped inside a damaged nine-storey residential building and rescuers were sent to the scene, according to the mayor.
+
+The Emergency Service said a fire broke out on the roof of a 16-storey building in the Holosiivskyi district. In the Sviatoshynskyi district, fires broke out in two private homes, and debris trapped people in one of them, Klitschko said. In the Darnytskyi district, six floors of a nine-storey building collapsed after a Russian strike and another five-storey residential building was damaged. The Emergency Service added that a 16-storey building and private homes were also damaged in the area.
+
+Tkachenko said the attack partly destroyed a residential building in the Desnianskyi district, caused fires near residential buildings at two locations in the Pecherskyi district, and sparked a fire near an administrative building in the Solomianskyi district. He said damage was also being recorded in the Obolonskyi and Podilskyi districts. Mykola Kalashnyk, head of the Kyiv Regional Administration, said damage was reported in five districts of the wider region, though there were no immediate reports of casualties there. Overall, the overnight strike left multiple parts of Kyiv damaged, several people dead and dozens injured as emergency teams responded across the city.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Jul 2, 2026 09:40 IST
+
+---
+
+### EPF Scheme 2026: From UAN To Withdrawals, Here's What Changes And What Doesn't
+*Aanchal Sinha · business*
+
+The new framework, notified under the Code on Social Security, 2020, came into force on June 29, 2026, the day it was published in the Gazette.
+
+[Read full article](https://www.news18.com/business/banking-finance/epf-scheme-2026-from-uan-to-withdrawals-heres-what-changes-and-what-doesnt-ws-kl-10185762.html)
+
+---
+
+### After Ram Kapoor's 'cheating in marriage is not a dealbreaker' remark controversy, Kangana Ranaut calls out the actor for his attitude in Lock Upp 2
+*Unknown · business*
+
+Ram Kapoor continues to find himself at the centre of controversy ever since he entered Lock Upp: Sach Ya Sazaa. Days after his comments defending infidelity in marriage sparked criticism online, the television actor was called out by actress Kangana Ranaut for his attitude inside the reality show. Appearing as Janta Ki Awaaz, Kangana did not hold back as she questioned Ram's approach to the competition and urged him to stop justifying his behaviour if he truly wanted to grow.
+
+## Kangana Ranaut questions Ram Kapoor's attitude  
+
+Kangana entered the latest episode alongside hosts Farah Khan and Riteish Deshmukh to interact with the contestants. During her conversation with Ram Kapoor, she criticised the actor for taking the game too seriously and suggested that his behaviour reflected an inflated sense of self.
+
+Addressing him directly, Kangana said "Ramji, you shouldn't have taken the game seriously. And if you think that you are too big for this jail, then why did you come here? To show your stupidity?"
+
+  
+
+Ram, however, defended himself. Responding to Kangana's criticism, he said that when the appropriate time came, he would accept responsibility for his actions and reveal his side of the story better than anyone else.
+
+Kangana remained firm and advised him "Don't defend yourself if you want to improve."
+
+## Farah Khan had also criticised Ram earlier  
+
+This is not the first time Ram has faced tough feedback on the show. Earlier, during the popular "chargesheet" segment, Farah Khan also questioned his performance in the game.
+
+She pointed out that Ram has usually played the lead role throughout his acting career but, inside Lock Upp, he had faded into the background and failed to make a strong impact.
+
+Ram did not appear to appreciate the feedback and casually gestured for Farah to stop speaking. His reaction led the filmmaker to express her disappointment. Farah said she did not like the version of Ram she was seeing on the show and felt his behaviour was no longer amusing.
+
+Ram, however, remained unfazed. He insisted that he found the situation funny and maintained that this was simply who he is, making it clear that he had no plans to change himself.
+
+## Previous remarks on marriage sparked backlash  
+
+Even before Kangana's criticism, Ram Kapoor was embroiled into a controversy over his comments on marriage and infidelity.
+
+During an argument with fellow contestant Akanksha Chamola, Ram argued that cheating does not always have to end a marriage. He said, "If you really love your partner, nothing is a dealbreaker. Marriage is hard and it's a journey. You have to work at your marriage every day. There are highs and lows, good periods and bad periods, strong phases and weak phases. In a bad phase, if by mistake something happens, and you can't live without your partner or your children, then time heals everything and nothing is a dealbreaker."
+
+His remarks quickly went viral on social media, with many viewers disagreeing with his opinion and accusing him of normalising infidelity.
+
+Meanwhile, the competition on Lock Upp: Sach Ya Sazaa continues to become intense. This week, Sunita Ahuja, Harshad Chopda and Akanksha Chamola have secured their safety from elimination. Shreya Kalra, Sufi Motiwala, Shrestha Iyer, Akanksha Chamola and Madhuri Grover remain in the danger zone and will continue fighting to stay in the game.
+
+Hosted by Farah Khan and Riteish Deshmukh, Lock Upp: Sach Ya Sazaa features 15 celebrity contestants from the worlds of television, social media and reality entertainment. New episodes stream on Netflix from Saturday to Wednesday at 8 pm. Stay tuned!
+
+---
+
+### US nuclear power regulator proposes changing rule protecting people from radiation
+*SECTIONS US nuclear power regulator proposes changing rule protecting people · business*
+
+WASHINGTON: The U.S. nuclear power regulator on Wednesday proposed changes to a rule protecting people from radiation, the latest proposal pushed by the Trump administration to change or soften rules to speed development and cut costs for new atomic reactors.
+
+President Donald Trump signed executive orders in 2025 seeking to ‌speed up permitting ⁠of ⁠reactors and to overhaul the Nuclear Regulatory Commission and directing the Energy and Defense departments to work together to build nuclear plants on federal lands. Trump wants to quadruple U.S. nuclear power capacity by 2050 to meet power demands that are rising due to data centers, electric vehicles and crypto-currencies.
+
+  
+
+The Nuclear Regulatory Commission proposal eliminates a radiation protection standard called As Low as Reasonably Achievable, or ALARA, with objective dose limits for radiation. "This rulemaking is raising the bar on clarity in our regulations," Ho Nieh, the NRC chairman, ​told reporters. "It is not lowering the bar on our safety standards."
+
+The industry has ⁠long argued ‌that ALARA is tied to a model known as Linear No-Threshold that holds that any dose ​of radiation, no matter ​how small, carries cancer risks and that complying with ALARA is costly, time consuming, and ⁠full of uncertainties.
+
+The proposed changes include adopting a graded approach to radiation dose ​management based on risk and operational circumstances. It also allows nuclear power plant operators greater ​flexibility to use "modern methods for evaluating radiation doses to workers and the public."
+
+Nieh said he does not anticipate that current nuclear reactors will make major changes due to the changed rule if finalized. But he said it could help speed development of new reactors.
+
+"Now they have a very clear picture of what the requirements for radiation protection are going to look like, that will inform how they build and design their reactor, in terms of the shielding and the materials that ‌they're using," Nieh told reporters.
+
+Edwin Lyman, a physicist and nuclear safety advocate at the Union of Concerned Scientists, said the NRC has correctly reaffirmed the scientific consensus that there is no safe ​level of radiation exposure and ​that the cancer risk is ⁠proportional to the dose.
+
+"However, in eliminating its use of the ALARA principle, the agency's sweeping new proposed rule would allow nuclear facility workers and the general public to be exposed to higher levels of cancer-causing radiation just to save the ​nuclear industry money."
+
+"This will only increase the disease burden at a time when cancer rates are already rising among younger people," Lyman said.
+
+Last month, the NRC proposed rule changes including changing a rule on security standards at nuclear power plants that UCS said would "dramatically weaken measures that protect their facilities from terrorist attacks." Another rule proposed on Wednesday would make sweeping changes to reactor licensing including streamlining the construction of new reactors.
+
+The NRC will take public comments on the radiation rule for 45 days before the rule is finalized.
+
+---
+
+### Donald Trump on birthright citizenship ruling: ‘I know they got it wrong, but that’s okay’
+*ET Online · business*
+
+Donald Trump on birthright citizenship ruling: ‘I know they got it wrong, but that’s okay’
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/donald-trump-on-birthright-citizenship-ruling-i-know-they-got-it-wrong-but-thats-okay/videoshow/132128539.cms)
+
+---
+
+### Donald Trump on birthright citizenship ruling: ‘I know they got it wrong, but that’s okay’
+*ET Online · business*
+
+Donald Trump on birthright citizenship ruling: ‘I know they got it wrong, but that’s okay’
+
+[Read full article](https://economictimes.indiatimes.com/news/videos/donald-trump-on-birthright-citizenship-ruling-i-know-they-got-it-wrong-but-thats-okay/videoshow/132128538.cms)
+
+---
+
+### ‘We want trust, equity and respect’: Shafiqur Rahman speaks on India-Bangladesh relations
+*ET Online · business*
+
+‘We want trust, equity and respect’: Shafiqur Rahman speaks on India-Bangladesh relations
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/we-want-trust-equity-and-respect-shafiqur-rahman-speaks-on-india-bangladesh-relations/videoshow/132127724.cms)
+
+---
+
+### Delhi EV Policy 2026: CM Rekha Gupta announces electric vehicle benefits from July 1
+*ET Online · business*
+
+Delhi EV Policy 2026: CM Rekha Gupta announces electric vehicle benefits from July 1
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/delhi-ev-policy-2026-cm-rekha-gupta-announces-electric-vehicle-benefits-from-july-1/videoshow/132128058.cms)
+
+---
+
+### Russian attacks hit Ukraine’s Zaporizhzhia and Kharkiv; casualties reported by officials
+*ET Online · business*
+
+Russian attacks hit Ukraine’s Zaporizhzhia and Kharkiv; casualties reported by officials
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/russian-attacks-hit-ukraines-zaporizhzhia-and-kharkiv-casualties-reported-by-officials/videoshow/132128429.cms)
+
+---
+
+### Shillong Teer Results Today Live, July 2, 2026: Winning Numbers For All Teer Games
+*Nibandh Vinod · general*
+
+Shillong Teer Result Today: Here's full list of winning numbers for Shillong Teer, Juwai Teer, Khanapara Teer, and more for July 2, 2026.
+
+[Read full article](https://www.news18.com/india/shillong-teer-result-today-july-2-2026-first-and-second-round-lottery-result-check-winning-numbers-full-list-10185456.html)
+
+---
+
+### Factual, typographical errors found in Maharashtra's new CBSE-based textbooks
+*India Today Education Desk · general*
+
+## Maharashtra's new CBSE-aligned textbooks have come under scrutiny after factual and typographical errors surfaced in Class 3 and Class 4 books. The mistakes, involving Srinivasa Ramanujan and the Phules' girls' school, have raised fresh questions over Balbharti's quality control.
+
+Maharashtra's new CBSE Class 4 textbook under scrutiny over multiple mistakes
+
+The rollout of Maharashtra's new CBSE-aligned textbooks has come under scrutiny after several factual inaccuracies and typographical errors were discovered just weeks into the new academic session.
+
+Among the most notable mistakes are the incorrect death date of renowned mathematician Srinivasa Ramanujan, inaccurate measurement units in mathematics exercises, and a historical error that incorrectly describes the first girls' school established by Jyotiba Phule and Savitribai Phule as Maharashtra's first instead of India's.
+
+The errors have sparked criticism from education experts and parents, raising fresh questions about the quality control measures followed during the preparation of school textbooks.
+
+### ERRORS FOUND IN NEW TEXTBOOKS
+
+As part of the implementation of the National Education Policy (NEP) 2020, Maharashtra has begun introducing textbooks based on the CBSE curriculum in a phased manner, with the transition expected to continue until 2029. This academic year, the Maharashtra State Bureau of Textbook Production and Curriculum Research (Balbharti) introduced new textbooks for Classes 2, 3, 4, and 6.
+
+However, several mistakes have already surfaced in these newly released books.
+
+Following concerns highlighted by mathematician Dinanath Gore in the Marathi daily Sakal, Balbharti Director Anuradha Oak acknowledged that errors had found their way into some of the textbooks.
+
+### FACTUAL AND TYPOGRAPHICAL MISTAKES
+
+One of the most significant factual errors appears in the Class 4 mathematics textbook, published in both English and Marathi. The book incorrectly states that Srinivasa Ramanujan died on April 27, 1920, whereas the correct date is April 26, 1920.
+
+The Marathi-medium mathematics textbook also contains a typographical error on page 55, where a question mentions more than 1,000 grams instead of the correct unit, more than 1,000 kilograms. Similar numerical and unit-
+
+Balbharti has acknowledged the discrepancies and said they will be corrected in the next edition of the textbooks. Until revised editions are printed, the bureau plans to provide updated information to students and teachers through videos accessible via QR codes printed in the textbooks.
+
+### HISTORICAL ERROR DRAWS CRITICISM
+
+Another error has been identified in the Class 3 textbook, which states that the school established by social reformers Jyotiba Phule and Savitribai Phule in Pune was the first girls' school in Maharashtra.
+
+Balbharti had earlier clarified that the statement would be revised to accurately reflect that it was not only Maharashtra's first girls' school but also India's first girls' school established by Indians for girls.
+
+The mistake has drawn criticism because of the historical significance of the institution and the legacy of the Phules in advancing women's education in India.
+
+### CONCERNS OVER QUALITY CONTROL
+
+The repeated factual and typographical errors have raised concerns over the editorial and proofreading processes behind Maharashtra's new CBSE-based textbooks. While Balbharti has assured that corrections will be made in future editions and interim updates shared through QR code-linked videos, the episode highlights the need for stronger fact-checking and quality control to ensure students receive accurate learning material.
+
+\- Ends
+
+Apoorva Anand
+
+Jul 2, 2026 09:29 IST
+
+
+---
+
 ## 1 July 2026
 
 ### AIADMK Exodus: Ex-Ministers MR Vijayabaskar, C Vijaybhaskar To Join CM Vijay's TVK Tomorrow
