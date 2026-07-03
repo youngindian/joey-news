@@ -1,3 +1,376 @@
+## 3 July 2026
+
+### Stock Market Today: Sensex Opens 435 Points Higher, Nifty Above 24,350 As IT Stocks Lead; India VIX Slips 7%
+*Mohammad Haris · business*
+
+At around 9:16 am, the BSE Sensex trades 435.49 points, or 0.56%, higher at 77,937.61, while the NSE Nifty 50 gains 199.95 points, or 0.83%, to 24,375.65.
+
+[Read full article](https://www.news18.com/business/markets/stock-market-open-july-3-sensex-nifty-live-it-stocks-india-vix-rupee-asian-markets-ws-l-10187900.html)
+
+---
+
+### Salman Khan Firing Case: Jailed Anmol Bishnoi Seeks To Surrender In 'Interest Of Justice, Fair Trial'
+*Meemansa Shekhawat · general*
+
+Anmol Bishnoi, a wanted accused in the April 2024 attempted assassination of Bollywood actor Salman Khan, has moved the special trial court, seeking to "voluntarily surrender"
+
+[Read full article](https://www.news18.com/india/salman-khan-firing-case-jailed-anmol-bishnoi-seeks-to-surrender-in-interest-of-justice-fair-trial-ws-l-10187880.html)
+
+---
+
+### Is the EPFO portal working today? Here's what PF subscribers should know
+*India Today Business Desk · general*
+
+Millions of Employees' Provident Fund Organisation (EPFO) subscribers may finally regain access to online services today after nearly a week of disruption, provided the retirement fund body completes its ongoing system upgrade as scheduled.
+
+According to the latest update, EPFO has said member and employer services are expected to resume from 12 am on July 3, 2026, after it once again extended the maintenance window by another day.
+
+In a post on X on Thursday, EPFO said, "EPFO System Upgrade in Progress. Just a little wait for a better digital EPFO experience. Member and Employer services will resume on 3 July 2026, 00:00 Hrs. We deeply regret the inconvenience caused and appreciate your patience."
+
+The latest extension means subscribers have had to wait longer than initially expected to access essential online services such as provident fund withdrawals, passbook downloads and claim status tracking.
+
+### THIRD DEADLINE EXTENSION
+
+The current outage began on June 26, when EPFO started a planned migration to upgrade its claims processing system and consolidate its database.
+
+Initially, the maintenance was scheduled to conclude on June 28, with services resuming on June 29. The deadline was then pushed to July 1, followed by another extension to July 2. EPFO has now postponed the restoration once again, saying services will be available from July 3.
+
+The prolonged downtime is among the longest planned maintenance exercises undertaken by EPFO in recent years.
+
+### WHAT WAS UNAVAILABLE?
+
+During the maintenance period, subscribers could not log in to the EPFO Member Interface to access several online services.
+
+These included filing provident fund withdrawal claims, downloading PF passbooks, tracking claim status, submitting online transfer requests and accessing other member services.
+
+The disruption also affected employers, who were unable to log in to the Employer Interface for filing returns and carrying out other compliance-
+
+### WHAT DOES THE LATEST EPFO NOTICE SAY?
+
+A notice displayed on the EPFO portal says the system upgrade is still in progress.
+
+"The process of system upgrade is currently still continuing. EPFO will be opening up member and employer services by 3rd July 2026. The inconvenience caused is regretted," the organisation said.
+
+It added that both the Member Interface and Employer Interface will remain inaccessible until the migration process is fully completed.
+
+### WHAT SHOULD SUBSCRIBERS DO NOW?
+
+If the upgrade is completed as scheduled, EPFO members should be able to access online services from July 3 onwards.
+
+However, since the restoration timeline has already been revised three times, subscribers planning to submit PF withdrawal claims, transfer requests or download passbooks may want to first check whether the portal is functioning normally before beginning any transaction.
+
+EPFO has advised members and employers to follow updates on its official website and X handle for the latest information on service restoration.
+
+The migration is aimed at upgrading the software that powers EPFO's claims processing system and consolidating its databases. The organisation has said the exercise is intended to deliver a better digital experience for members and employers once services are fully restored.
+
+\- Ends
+
+Jul 3, 2026 09:16 IST
+
+---
+
+### Stock Market LIVE: Sensex jumps 500; Nifty around 24,350; Nifty IT gains over 2%
+*Unknown · business, entrepreneur, finance*
+
+Sensex Today | Stock Market LIVE Updates Friday: In the broader markets, the Nifty MidCap and the Nifty SmallCap were trading 0.21 per cent and 0.47 per cent higher, respectively
+
+[Read full article](https://www.business-standard.com/markets/news/stock-market-live-july-3-nse-bse-sensex-today-nifty-gift-nifty-ipo-it-stocks-share-market-today-126070300090_1.html)
+
+---
+
+### After 8,000 layoffs, Mark Zuckerberg admits Meta AI agent development is slower than expected
+*Armaan Agarwal · general*
+
+## Meta is investing billions of dollars into AI with a key focus on AI agents. However, Meta CEO Mark Zuckerberg reportedly accepted that AI agents are progressing slower than the company expected. His comments come just weeks after Meta laid off roughly 8,000 workers, and reassigned 7,000 employees.
+
+Mark Zuckerberg admits agentic AI development is slower than Meta expected. (Photo: Reuters)
+
+Meta has been pushing aggressively when it comes to AI. The company is increasing its investment when it comes to AI infrastructure, while reducing costs elsewhere. This includes laying off roughly 8,000 workers in May, and reassigning 7,000 employees into new AI-native teams. But now, Meta CEO Mark Zuckerberg has acknowledged that one of the company’s big bets, development of AI agents, is progressing slower than expected. Zuckerberg also admitted that the company’s restructuring may not have been as clean as it had hoped to be.
+
+As per a report from Reuters, Zuckerberg said, “The trajectory of the agentic development over at least the last four months hasn't really accelerated in the way that we expected.” AI agents are essentially tools that run on AI models, and can do tasks for you.
+
+The remarks came as Meta continues a costly AI push, with the company projected to spend as much as $145 billion on AI infrastructure this year alone. Zuckerberg added that Meta was still on a “journey to superintelligence.” He claimed that the company expected to begin seeing more meaningful benefits from its AI investments within the next three to six months.
+
+Meta had previously acquired Moltbook, the viral social media platform for AI agents, and brought its team to work on AI agents within the company.
+
+#### Meta executives were worried over not being fast enough
+
+Meta has made some big changes internally in recent months. However, Mark Zuckerberg says that these changes “haven't come to fruition yet.” According to the Meta CEO, in January and February this year, “top people” at the company were worried that it wasn’t moving fast enough when it came to restructuring. At the time, he said, executives were 'super optimistic' about tools such as Claude Code from Anthropic.
+
+In March, the company set up a new Applied AI division and shifted around 6,500 engineers and product managers from other teams into AI work. However, as per reports, some employees were not happy with this change. In addition, the company laid off about 10 per cent of its global workforce, or roughly 8,000 employees, reassigned around 7,000 workers to AI-focused or AI-native teams, and closed 6,000 openings it had previously planned to fill.
+
+Previously, Meta’s chief technology officer, Andrew Bosworth, also acknowledged problems with how the restructuring had been handled. As per reports, he said in an internal memo that Meta had done an 'atrocious' job of explaining its vision behind the changes.
+
+### Meta says no mandatory mouse tracking
+
+In April, Meta started using software to track mouse movements and keystrokes of employees to train AI agents. This was met with widespread backlash and concerns over user privacy, forcing the company to pause the programme. During the town hall, Bosworth said a review of Meta's mouse-tracking software had found that no employee data was included in AI training.
+
+The Meta executive informed staff that even if the programme was to be brought back, no employee would be forced to join it. He said, “For people who are comfortable, that's great, they can contribute to this kind of great human survey. To people who are not, it is not an issue.”
+
+\- Ends
+
+Armaan Agarwal
+
+Jul 3, 2026 09:12 IST
+
+---
+
+### Why did Cristiano Ronaldo wear Portugal’s No. 21 jersey and get emotional after the win over Croatia?
+*Trending Desk · general*
+
+Football legend Cristiano Ronaldo led Portugal to an impressive late comeback, defeating Croatia 2-1 to secure their place in the Round of 16 of the 2026 World Cup. Ronaldo's emotional celebration after Portugal's dramatic FIFA World Cup victory over Croatia left many fans asking the same question: Why was Ronaldo wearing Portugal’s No. 21 jersey? The answer to this question goes far beyond football.
+
+**
+
+Ronaldo and his teammates paid tribute to former Portugal star Diogo Jota, whose memory remains deeply cherished within the national team. The moment was especially poignant because the match took place almost exactly one year after Jota and his brother, André Silva, lost their lives in a tragic car accident in Spain.
+
+**
+
+## Why did Cristiano Ronaldo wear 21 no jersey?
+
+Following the final whistle, Ronaldo put on Jota's iconic No. 21 Portugal jersey and joined his teammates in honoring the late forward. The Portugal captain later explained that the tribute was connected to the significance of the date.
+
+"We knew it before the game. It was a special moment," Ronaldo said after the match. He described it as a "coincidence of life" that Portugal's knockout-stage victory came nearly one year after Jota's death.
+
+Ronaldo also conducted post-match interviews while wearing the No. 21 shirt, underlining how important the tribute was for the squad.
+
+"We knew it before the game, it was a special moment," Ronaldo told Fox. "We speak today, our group, about the coincidence of life, it's unbelievable. "I was amazed because the situation of today means a lot to us, not only because we won the game but also the way."
+
+What is Diogo Jota's jersey number for Portugal?
+
+Diogo Jota wore the No. 21 jersey for Portugal. During his international career, Jota made 49 appearances for the national team and scored 14 goals. The No. 21 shirt became closely associated with the Liverpool forward, who was a key member of Portugal's attacking unit alongside stars such as Cristiano Ronaldo.
+
+As a result, the jersey has become a powerful symbol of remembrance for Portuguese players and supporters.
+
+## Why was the tribute especially emotional?
+
+The tribute carried extra meaning because the date coincided with the first anniversary of the accident that claimed the lives of Jota and his brother André Silva.
+
+The Portuguese squad had reportedly discussed the significance of the occasion before kickoff. After the victory, Ronaldo said the team felt Jota's presence and believed winning was the best possible way to honor him.
+
+"We know he is present with us and it only made sense to win today to honour him in the best way," Ronaldo said.
+
+Television cameras captured Ronaldo looking skyward while standing alongside his teammates, creating one of the most emotional moments of the World Cup so far.
+
+Portugal sealed the win deep into stoppage time when Gonçalo Ramos scored in the fourth added minute. Croatia believed they had equalised moments later, but VAR ruled out Mario Pasalic's goal for offside.
+
+Portugal will now face Spain in the round of 16 on Monday in Arlington, Texas.
+
+## FAQs
+
+### What was Diogo Jota's jersey number for Portugal?
+
+Diogo Jota wore the No. 21 jersey for the Portugal national team throughout his international career.
+
+### Why did Cristiano Ronaldo wear the No. 21 jersey?
+
+Ronaldo wore Jota's No. 21 shirt as a tribute after Portugal's World Cup victory over Croatia, which came nearly one year after Jota's death.
+
+### How many goals did Diogo Jota score for Portugal?
+
+Jota scored 14 goals in 49 appearances for Portugal.
+
+### When did Diogo Jota die?
+
+Diogo Jota and his brother André Silva died in a car accident in Spain on July 3 last year.
+
+### What did Ronaldo say about the tribute?
+
+Ronaldo described the timing as a "coincidence of life" and said the team felt it was important to win the match in Jota's honor.
+
+---
+
+### When Will Petrol And Diesel Prices Go Down In India? Here's What Consumers Can Expect
+*Pragati Ratti · general*
+
+In practice, changes in global crude prices usually take a few weeks - not days - to reflect in retail fuel prices.
+
+[Read full article](https://www.news18.com/explainers/when-will-petrol-and-diesel-prices-go-down-in-india-heres-what-consumers-can-expect-ws-l-10187840.html)
+
+---
+
+### Rupee Gains 15 Paise To Open At 95.20 Against US Dollar
+*Mohammad Haris · business*
+
+
+
+[Read full article](https://www.news18.com/business/economy/rupee-gains-15-paise-to-open-at-95-20-against-us-dollar-10187890.html)
+
+---
+
+### Trump's financial disclosure reveals 21,000 trades in 2025
+*SECTIONS Trump's financial disclosure reveals · general*
+
+The total dollar value of the trades was somewhere between $600 million and $1.86 billion, according to his financial disclosure for 2025, which lists values in broad ranges. Many of the transactions involve large companies that have business with the federal government.
+
+Trump averaged 85 trades per market day, an analysis of the report shows. Just 10 days accounted for about a quarter of all trades executed in 2025. Many of those came during heightened volatility on Wall Street after Trump had already announced policy changes.
+
+  
+
+Bloomberg
+
+There was also dissonance across Trump’s eight separate trading accounts: In more than 200 cases, he bought a stock in one account the same day he was selling it in another.
+
+The chaotic rhythm and large volume of trading add to an emerging picture of Trump’s finances, which critics and watchdog groups have scrutinized for hints that he may be improperly profiting from the presidency. In the same report, he disclosed earning at least $1.4 billion from crypto and memecoin-
+
+## Deflected Questions
+
+The president on Wednesday downplayed the amount of money he made, saying he was already wealthy when elected, and he deflected questions from reporters about whether he was inappropriately profiting off the presidency.
+
+“Purposely, I never speak to any of the people that run the money, but they’re at big institutions, and they invest in whatever they invest,” Trump said at Joint Base Andrews before departing for North Dakota. “You know why I’m profiting? Because the stock market’s going up.”
+
+The Trump Organization says that the president’s holdings are independently managed by third-party financial institutions that have control over all investment decisions, with trades executed through automated, model-based portfolios and direct indexing strategies. Trump, his family members and his company play no role in making transactions, and receive no advance notice of the trades, according to a company spokesperson.
+
+The White House also said that Trump’s investments are independently managed. “There are no conflicts of interest,” said spokesperson Anna Kelly.
+
+Eric Trump, the president’s son and executive vice president of the Trump Organization, has said the assets were in a “blind trust.”
+
+“To suggest that individual stocks are being bought or sold, at the discretion of any member of the Trump family, would be a lie and blatantly false,” he wrote in a post on X in May after Trump disclosed more than 3,700 trades in the first quarter of 2026.
+
+At the time, some on Wall Street said they found that frequency of trading to be surprising.
+
+About one-tenth of Trump’s disclosed non-cash investment assets last year were in excepted investment funds — things like mutual funds and exchange-traded funds that are broadly diversified and don’t require detailed asset-by-asset reporting.
+
+But beyond those, it’s unclear which market indexes Trump is tracking. The president lists eight separate investment accounts on the disclosure and their underlying assets, but gives no indication of which institutions he’s using to manage them. There’s some overlap between assets held in accounts, with shares of Lockheed Martin Corp. appearing in six accounts, and shares of McDonald’s Corp., Microsoft Corp. and Pfizer Inc. in seven
+
+Bloomberg
+
+## **S&P Mainstays**
+
+His top overall stock holdings — Apple Inc., Nvidia Corp., Broadcom Inc., Microsoft and Tesla Inc. — are mainstays of the S&P 500 index.
+
+Though the volume of the transactions was large, the value of about half of them fell within the lowest range, between $1,001 and $15,000. There may have been even more trades: Officials don’t have to report trades of $1,000 or less.
+
+Bloomberg
+
+Overall, Trump reported 15,524 purchases and 5,761 sales of assets.
+
+Occasionally, there was volatility within one of Trump’s accounts. On four days, an individual security was both bought and sold on the same day and in the same account.
+
+For example, as Blue Owl Capital Corp. declined 3.1% on Sept. 15, one Trump account — identified only as Investment Account No. 4 — bought more than $1 million in shares in the entity’s stock, according to the disclosures. That day, the same account sold six lots of the same stock. The disclosures don’t indicate the exact value or time of day of the trades.
+
+Some of Trump’s busiest trading days came after announcements of policy shifts, especially around trade. His asset managers executed 616 trades on Feb. 3, one day before tariffs on Canada, Mexico and China were scheduled to go into effect. There were 640 more trades a month later, after Trump lifted a pause on those tariffs. And a month after that, there were 446 trades on April 4 amid a selloff prompted by his “Liberation Day” tariff announcements.
+
+---
+
+### Pakistan Earthquake: Tremors of magnitude 4.6 strike India's neighbour; third quake in a week
+*SECTIONS Pakistan Earthquake Tremors · business*
+
+An earthquake of magnitude 4.6 struck Pakistan on Friday morning, marking the third tremors in a week after twin quakes had hit India's neighbour on June 27.
+
+According to the National Center for Seismology, the 4.6 magnitude earthquake hit the region with a depth of 203 km at 8:30 am.
+
+Earlier on July 27, twin earthquakes of magnitude 4.3 and 5.5 had struck the country in the morning gours with a mild depth of 10 km and 40 km respectively.
+
+  
+
+The double quakes occured between 6 am and 9 am on Saturday, June 27.
+
+Pakistan, one among the world's most earthquake-prone countries, had experienced three earthquakes on June 26 as the nation lies along the boundary where the Indian and Eurasian tectonic plates meet.
+
+## Earthquake in Pakistan
+
+Last Friday, an earthquake of magnitude 4.5 hit Pakistan at 10:55 am with a depth of 10 km, following by another round of tremors with magntude 4.7 at 11:27 am.
+
+Later during the day, another quake of magnitude 5.3 hit the country with a depth of 75 km.
+
+---
+
+### Amarnath Yatra 2026 begins as first pilgrims arrive in Kashmir under heavy security cover
+*Hakeem Irfan Rashid · business*
+
+Srinagar: The first batch of pilgrims for the annual Amarnath Yatra received a warm welcome as they reached the Kashmir valley on Thursday.
+
+The batch of 4,822 pilgrims was flagged off earlier in the day by Lieutenant Governor Manoj Sinha from the Bhagwati Nagar Yatri Niwas in Jammu.
+
+"Amarnath Ji Yatra is a sacred path where devotion meets spiritual awakening. I wish all devotees a safe, comfortable, blissful and spiritually fulfilling journey. May this holy pilgrimage bring immense joy and divine peace to all,” said Sinha.
+
+  
+
+As the convoy of around 259 heavy and light vehicles entered the Valley through the Navyug Tunnel in Qazigund area of south Kashmir's Kulgam district under tight multi-tier security cover, they received a rousing welcome.
+
+Police and civil administration officials, including the IG of CRPF and DIG South Kashmir Range Javid Iqbal Matoo, greeted the pilgrims with garlands, flower bouquets and petals.
+
+The convoys later proceeded separately towards the Baltal and Pahalgam base camps, from where pilgrims will begin the onward journey early Friday to the 3,880-metre-high Amarnath cave shrine.
+
+The 57-day pilgrimage will begin on July 3 and conclude on August 28. Devotees can take either the traditional 48-km Nunwan-Pahalgam route in Anantnag in southern Kashmir or the shorter 14-km Baltal route in Ganderbal district of central Kashmir. The yatris were also received warmly by the locals at base camps on both the routes. The administration has temporarily suspended Yatra on Baltal route due to continuous rains.
+
+In 2025, following the Pahalgam attack on April 22, around 410,000 pilgrims visited the holy cave, a decline of around 100,000 from the previous year. Inclement weather forced the early conclusion of the yatra within 35 days last year.
+
+---
+
+### India’s space industry hunts for its SpaceX moment
+*SECTIONS India’s space industry hunts · business*
+
+India’s attempt to fire up its fledgling private space program is showing early signs of success.
+
+Three years after Prime Minister Narendra Modi allowed non-government firms to own spaceports, launch rockets and sell remote-sensing data, the country has its first space unicorn preparing for a lift-off, and boasts startups making advanced Earth-imaging and all-weather satellites. Billionaire Mukesh Ambani is also evaluating plans to deploy a constellation that could pit him against Elon Musk’s Starlink in India.
+
+For decades, the Indian Space Research Organisation has launched cost-effective, pioneering missions, including the world’s first landing near the Moon’s south pole. The national agency, which allows startups to use its facilities for early tests, will soon share technology involving its workhorse rocket to speed up local knowhow.
+
+  
+
+“We are becoming more aggressive in the kind of technology that we are able to transfer from ISRO because we now see the ability of the private sector to absorb this technology and take it forward,” Pawan Goenka, an automotive industry veteran tasked with building a commercial space economy, said in a recent interview. “Frankly, we are late to the party, and the US is now more private sector than government in terms of the overall space economy.”
+
+Starlink, a unit of SpaceX, illustrates the magnitude of the challenge. It alone invested more than $11 billion over three years to expand its constellation to 10,000-plus satellites. SpaceX listed in the US in June after a historic $75 billion IPO made Musk the world’s first trillionaire.
+
+By comparison, India counts some 260 space startups with a total funding of almost $730 million, about a quarter of which flowed last year, according to data provider Tracxn. Yet, last year’s military conflict with Pakistan and the US-Iran war have reinforced the urgency to build critical infrastructure within Indian borders.
+
+“Ten years ago, if I graduated as an engineer, the only visible path was software services or moving abroad on an H-1B visa,” said Suyash Singh, 34, chief executive officer of GalaxEye Space Solutions Pvt. , which has developed the world’s first satellite that combines optical cameras with radar sensors, allowing it to see through thick clouds and operate in pitch darkness.
+
+“The Indian ecosystem today is extremely ripe for deep tech,” Singh said. “The challenges are real, especially around capital and supply chains, but the momentum is also very real.”
+
+Launched using SpaceX’s Falcon 9 rocket on May 3, GalaxEye’s satellite is named Mission Drishti—Sanskrit for ‘focused gaze’. The company, which counts Infosys Ltd. as an investor, aims to expand to roughly 10 satellites over the next three years and eventually a full constellation. Singh said much of its early imaging capacity is already booked with demand from defense, agriculture, insurance, disaster management and security applications.
+
+Its Bengaluru-based rival Pixxel Space India Pvt. was born out of an opportunity its founder spotted while still at university. Awais Ahmed, 28, said he realized that, outside of China, there were no commercial providers of imagery to detect crop diseases or underground leaks that are invisible to conventional remote sensing. Pixxel now offers the highest-resolution hyperspectral data to customers including NASA, Rio Tinto Plc and India’s Ministry of Agriculture.
+
+The startup, backed by Google and Lightspeed, plans an over fourfold increase in its capacity to build such satellites.
+
+Meanwhile, Hyderabad-based Skyroot Aerospace Pvt. , India’s first space startup to surpass a $1 billion valuation, raised funds from GIC and BlackRock as it prepares the first flight of the Vikram-1 orbital rocket later this month. The company will carry out more test launches before a commercial lift-off, said co-founder and CEO Pawan Kumar Chandana, a former ISRO scientist.
+
+All three firms were founded around 2020, when Modi first announced his intention to open the space sector to private players. Policies were formalized in 2023. About 400 startups are currently registered with the Indian National Space Promotion and Authorization Centre.
+
+At least a third of their revenue comes from overseas, according to Goenka, who chairs the agency. A key milestone to ensure the sector’s success, he said, is making Indian companies use space technology.
+
+There are signs that the country’s giants are seeing value. Ambani’s Jio Platforms Ltd. is evaluating a low-orbit satellite network for India as it seeks to cement control over the nation’s communications infrastructure. The Economic Times reported that the digital unit of Asia’s third-richest person is set to launch over 1,600 such satellites over the next two to three years, and the firm has acquired a stake in Bengaluru’s Digantara, which specializes in building ground stations, tracking satellites and monitoring space debris.
+
+While Ambani’s telecom venture has tied up with Starlink, the Indian government has effectively frozen approvals for Musk’s firm, Bloomberg News reported earlier, citing concerns over the use of the company’s network in the US-Iran war.
+
+Satellite communications was always the largest business in the global space market, but telecom companies will have to move to high-speed 6G networks for the Indian space economy to truly grow, according to Chaitanya Giri, fellow at Observer Research Foundation, a policy think tank.
+
+That is about to happen soon, said Giri, referring to the 6G tests in the country. India’s planned spy constellation and the satellite network for civilian use will also generate opportunities to create new users, he said.
+
+Still, a big hurdle to wider private participation would be a lack of launch capacity outside of ISRO, which itself faced setbacks after its most reliable Polar Satellite Launch Vehicle failed to deploy payloads twice over the past year. A former director at an ISRO unit had told Bloomberg News that back-to-back failures shouldn’t call into doubt the rocket’s future, but he anticipated a faster shift toward the private sector.
+
+The government is in talks with large private companies to share the technology involving PSLV, Goenka said. State-owned Hindustan Aeronautics Ltd. and Mumbai-based conglomerate Larsen & Toubro Ltd. are already working on their version.
+
+Skyroot has a head start as it became the first Indian private company to send a rocket to the edge of space for a few minutes in 2022. But it has deferred the debut lift-off to place satellites into orbit at least thrice since 2023. Chandana’s firm now targets the orbital launch between July 12 and August 4.
+
+Goenka expects a virtuous cycle to develop only after the nation becomes a global hub for small satellite launches with one lift-off every two weeks, and gains the capability to deploy commercially successful constellations.
+
+Pixxel’s Ahmed is optimistic about his own firm’s business. The company expects to turn in an operating profit this year and become cash-flow positive by early 2028, though an IPO is still four or five years away, he said.
+
+“China opened its space sector to private companies around 2014 or 2015 and funded them aggressively,” Ahmed said. “To catch up, India needs sustained funding, stronger venture capital participation and continued government procurement.”
+
+---
+
+### Kerala Lottery Result Live: Suvarna Keralam SK-59, July 3, 2026 Winners | News18
+*Nibandh Vinod · general*
+
+Kerala Lottery Result Today: Suvarna Keralam SK-59 lottery result will be declared today, on Friday, July 3. Check the live updates and full list of winning numbers from 3 pm.
+
+[Read full article](https://www.news18.com/india/kerala-lottery-result-today-suvarna-keralam-sk-59-july-3-live-10185715.html)
+
+---
+
+### Why petrol, diesel prices haven't fallen yet? Hardeep Puri explains outlook for fuel prices
+*ET Online · business*
+
+Union Oil and Petroleum and Natural Gas Minister Hardeep Puri on Thursday said petrol and diesel prices could be reduced if international crude oil prices remain low for the next few weeks. Responding to a question on a possible fuel price cut, Puri said it would become a legitimate issue if global oil prices continue to stay low over a sustained period. His remarks came as crude oil prices fell below $71 per barrel after Qatar said Iran and the US had made "positive progress" in indirect talks that concluded on Wednesday.
+
+
+---
+
 ## 2 July 2026
 
 ### PM Modi, Japan PM to launch Maruti's Rs 35,000 crore mega car plant today
