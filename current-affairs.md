@@ -1,3 +1,443 @@
+## 4 July 2026
+
+### Venus Transit In Leo On July 4, 2026: Shukra Gochar In Simha Rashi Effects On All Zodiac Signs
+*Nibandh Vinod · lifestyle*
+
+Venus Transit 2026: Venus enters Leo bringing confidence, romance and financial opportunities. Discover the six zodiac signs most likely to benefit from this powerful transit.
+
+[Read full article](https://www.news18.com/photogallery/astrology/horoscope/venus-transit-in-leo-2026-shukra-gochar-simha-rashi-july-4-effects-ws-el-10189668.html)
+
+---
+
+### Cape Verde Win Hearts, Receive Standing Ovation After Loss Against Argentina - Watch
+*Unknown · sports*
+
+Cape Verde came extremely close to pulling off a miracle but were ultimately defeated 3-2 by Argentina in their FIFA World Cup 2026 Round of 32 clash.
+
+[Read full article](https://sports.ndtv.com/fifa-world-cup-2026/cape-verde-win-hearts-receive-standing-ovation-after-loss-against-argentina-11725068)
+
+---
+
+### More Indians are returning from the US, but tech jobs are getting harder to find: Survey
+*Tech Desk · legal*
+
+With visa uncertainty looming large in the US, the global technology workforce seems to be bearing the brunt. A new survey by Blind, the anonymous community app for professionals, suggests that a growing number of Indian professionals are returning from the US. This homecoming, however, is not translating into more job opportunities for India’s tech workforce, according to the report.
+
+In all of this, many professionals believe that US tech giants are gaining big owing to the reverse migration, as most of them are rapidly expanding their Global Capability Centres (GCCs) in India and are rehiring experienced talent at significantly lower pay.
+
+According to a survey conducted, 53 per cent of 1,276 verified professionals in India say they have witnessed reverse migration from the US due to visa-
+
+The trend is more visible among employees of large multinational technology companies. Blind found that 57 per cent of respondents working at Amazon, 58 per cent at Walmart, and 55 per cent at Uber reported seeing colleagues return from the US. These companies are also among those that are currently expanding their engineering and product operations through GCCs in India.
+
+Despite this stream of experienced professionals and the sustained growth of GCCs, many respondents believe the domestic job market has become more competitive rather than more promising.
+
+Meanwhile, more than half (51 per cent) said job opportunities in their roles have declined over the past year. Only 26 per cent admitted to seeing an increase in openings, while 23 per cent said the market had remained largely unchanged.
+
+The report underscores a disconnect between the rapid expansion of GCCs and hiring opportunities available to the broader Indian workforce. Instead of creating a larger pool of new jobs, respondents indicate that many of these positions are being filled by professionals returning from overseas with experience at the same multinational firms. This, in turn, allows companies to retain experienced employees while significantly lowering labour costs.
+
+Story continues below this ad
+
+## Average pay has gone down
+
+A Google professional quoted in the survey highlighted the changing compensation landscape, saying that “average pay has gone down in the last six months”, adding that salaries in India could be around one-fifth of comparable US compensation. When it comes to companies, this arrangement offers multiple benefits, such as employees gaining greater visa certainty and remaining within the same organisation, while employers retain institutional knowledge and reduce salary expenses by shifting roles to India.
+
+The survey also suggests that the impact is not being felt equally across the technology sector. Professionals working in AI and ML appear to be relatively shielded from the slowdown. Among AI and ML engineers, 42 per cent reported fewer opportunities compared to a year ago, lower than other technology roles. On the contrary, 52 per cent of software engineers, 54 per cent of product managers, and 56 per cent of professionals in data and analytics said job opportunities had declined over the same period. This shows the growing demand for AI-
+
+When asked how the wave of returning professionals could affect their careers, respondents expressed mixed views. As many as 40 per cent said they expected little or no impact. However, negative sentiment outweighed optimism overall. Nearly one-quarter (24 per cent) believed returning workers would compete directly for jobs they would otherwise have been qualified for, while another 15 per cent felt experienced returnees would raise hiring expectations and make recruitment more competitive. Only 21 per cent believed the influx of experienced professionals would strengthen the overall technology ecosystem and improve salary prospects over time.
+
+With the rapid proliferation of GCCs, the survey signals a wider structural shift that is underway in the Indian technology sector. Though GCC expansion is attracting massive investments and creating employment opportunities, many professionals feel that these are largely focused among workers with international experience, especially those returning from the US.
+
+Story continues below this ad
+
+The survey was conducted by Blind between June 16 and June 25, 2026, among 1,276 verified professionals based in India across software engineering, product management, AI and machine learning, data and analytics, business operations, design, research, finance and consulting roles.
+
+---
+
+### India, France co-chair Economic & Financial Dialogue, agree to deepen cooperation on critical minerals
+*SECTIONS India · business*
+
+Union Minister for Finance & Corporate Affairs, Nirmala Sitharaman and Roland Lescure, Minister of Economy, Finance, Industrial, Energy, and Digital Sovereignty of France, co-chaired the India-France Economic and Financial Dialogue in Aix-en-Provence on Friday, the Ministry of Finance said.
+
+The Ministry said the dialogue was held as part of efforts to strengthen economic engagement between India and France within the framework of their special global strategic partnership. It noted that resuming high-level exchanges on the international outlook, bilateral cooperation and outcome-oriented solutions had become essential as economic ties between the two countries deepen. The meeting follows the commitment made during French President H.E. Mr. Emmanuel Macron's visit to India in February 2026, and during Prime Minister Shri Narendra Modi's engagement, to hold the dialogue in 2026.
+
+According to the Ministry of Finance, the discussions covered coordination in multilateral forums as well as specific areas for expanding bilateral cooperation. Both Ministers spoke about greater alignment of India-France positions within platforms such as the G20 and the Paris Club. The talks were held in the context of India's association with the French G7 presidency. They also exchanged views on the world economic outlook and the challenges facing global growth.
+
+  
+
+The Ministry said a key focus was on building cooperation around economic sovereignty and security. India and France discussed the roll-out of cooperation on critical minerals as part of a broader conversation on securing resilient supply chains. Ways to increase cross-investments were also taken up. In the infrastructure space, the two sides explored opportunities in the high-speed railway sector, building on the declaration of intent on railways signed earlier.
+
+The Ministry added that proposals to further connect the financial industries of India and France were also on the table. The aim, it said, is to support greater trade, investment and technology collaboration between the two economies. Both Ministers recognised the value of the French Development Agency's work in India for economic development and welcomed prospects for future projects in areas such as urban infrastructure, climate and energy.
+
+The Ministry of Finance stated that the two Ministers pledged to use the Economic and Financial Dialogue as the main platform for addressing economic, financial, technological, investment and trade matters between India and France. They also agreed to explore the possibility of holding the next edition of the dialogue in 2027. The Ministry noted that the dialogue is expected to help both countries coordinate more closely on supply chains, clean energy, digital sovereignty and infrastructure financing in the coming years.
+
+---
+
+### Ram temple row: Police widen probe into money trail — where and how funds were spent or invested
+*Manish Sahu · legal*
+
+Apart from eight persons, the police have not found involvement of any other accused so far, it is learnt.
+
+With evidence gathered so far allegedly pointing to the involvement of eight people in the alleged theft of donations and valuables from the Ram temple, the Ayodhya police have widened their investigation to trace **how and where the stolen funds** may have been spent or invested, while intensifying efforts to recover more of the missing money.
+
+Police have so far recovered Rs 79.80 lakh in cash from seven of the eight men arrested in the case. Searches at the accused’s residences have also yielded documents and other material that police believe could help trace the alleged flow of stolen funds and shed further light on the case.
+
+“Besides pursuing further recoveries, we want to question the accused in light of the evidence and material gathered so far. In the coming days, we will seek custody of the other accused to confront them with the evidence against them and verify key aspects of the investigation. We believe the role of the accused in the case has been established but we still need evidence to trace where the money was kept, spent or invested,” said a police officer involved in the investigation.
+
+A senior police officer said the investigation and questioning of the accused suggested that the arrested men were aware of one another’s alleged involvement in the theft of the money. Police are yet to establish who initiated the alleged theft, with investigators suspecting that all the accused may have become involved around the same time.
+
+During questioning, the accused reportedly told police that they could not recall precisely when the alleged thefts began. Police suspect the activity may have continued for several months, while the total amount allegedly stolen is yet to be determined.
+
+Police have examined footage from the CCTV cameras installed at the site. The digital video recorder contains recordings covering the past 45 days.
+
+“We have CCTV footage covering a 45-day period. The total amount that was allegedly stolen is yet to be established, but the accused appear to have taken money whenever they found an opportunity. There was no fixed amount stolen on a given day,” the officer said.
+
+Story continues below this ad
+
+Also, police have decided to seek revenue records to determine whether any of the accused, or their relatives, recently purchased any property. Police have also begun speaking to local property dealers to establish whether the suspects were involved in any recent land or real estate transactions, while separate checks are being conducted to determine whether they bought vehicles in the recent months.
+
+Apart from eight persons, the police have not found involvement of any other accused so far, it is learnt.
+
+The mobile phones seized from all eight arrested accused have been sent for forensic examination, and police are awaiting the reports. The investigators believe the digital evidence could provide fresh leads, potentially shedding light on financial transactions, communications and other links relevant to the probe.
+
+---
+
+### Aadhaar Email Update: UIDAI Now Allows Email ID Change Via App Without Visiting Aadhaar Centre
+*Mohammad Haris · business*
+
+UIDAI has made Aadhaar email update free through the Aadhaar App for six months from July 1, 2026. Here's who can benefit, why it matters, and how to update your email ID.
+
+[Read full article](https://www.news18.com/business/economy/aadhaar-email-update-uidai-now-allows-email-id-change-via-app-without-visiting-aadhaar-centre-10189641.html)
+
+---
+
+### Who is accountable if AI gets the law wrong? Supreme Court’s warning sparks debate
+*Richa Sahay · legal*
+
+The use of Artificial Intelligence (AI) is increasingly becoming common in the legal profession, with lawyers, law firms and even courts using it for research, drafting and administrative tasks. While AI promises greater efficiency, it has also sparked concerns about inaccurate or “hallucinated” outputs making their way into judicial proceedings.
+
+The debate has gained urgency after the Supreme Court recently cautioned against the use of AI-generated material in courts while setting aside orders of the National Company Law Tribunal (NCLT) and the National Company Law Appellate Tribunal (NCLAT), which had relied on fake, AI-generated judgments.
+
+The apex court has also directed the Bar Council of India (BCI) to set up a committee to examine the issue of advocates submitting hallucinated or fabricated AI-generated material before courts as though it were a valid legal precedent.
+
+The top court’s intervention has triggered a wider debate — not on whether AI should be used, but how far its role should extend. Against this backdrop, _The Indian Express_ speaks to legal experts on whether AI can be safely integrated into judicial and legal work, where the boundaries should be drawn, and what role regulators should play in governing its use.
+
+## Not blind reliance, but as an aid
+
+Experts underlined that the issue was not about keeping AI out of the legal field, but about using it simply as an aid. Advocate **Arya Tripathy**, partner at Cyril Amarchand Mangaldas, says the Supreme Court’s judgment serves as a “timely” reminder that AI must remain an assistive tool rather than a substitute for human intelligence.
+
+“A blind reliance on AI-generated output for legal work is problematic at various levels. Not only does it impact the client’s rights, but it also dilutes the trust and privilege reposed and showcases poor professional ethics,” she says, adding that the apex court’s intervention basically seeks ethical and responsible use of AI.
+
+## Embracing tech, its problems
+
+Tripathy acknowledges that the problem of overreliance and delegation of critical legal work has led to a steady rise in the problem of fake citations and incorrect legal positions.
+
+Story continues below this ad
+
+In June, Justice Wasim Sadiq Nargal of the Jammu and Kashmir and Ladakh High Court cautioned judicial officers against relying on AI-generated legal research without independent verification, after discovering incorrect and untraceable case citations in a trial court order.
+
+On the other hand, courts themselves are steadily embracing the technology.
+
+Referring to the iconic “Tarikh pe Tarikh” dialogue from the film _Damini_, the Allahabad High Court issued a series of instructions to the Uttar Pradesh government and police authorities in May in a bid to streamline the system. One such directive was for the police to implement a speech-to-text AI module to record witness statements.
+
+Meanwhile, acknowledging “rapid technological advancement” and the rise of tech-savvy judicial officers, the Gujarat High Court introduced a policy to regulate the use of AI in its judicial and administrative functions in April. It allowed judges and court staff to use AI as a controlled administrative and research aid, such as for translating documents, checking grammar and managing cause lists, while mandating human oversight.
+
+Story continues below this ad
+
+## Regulation vs supervision
+
+Advocate **Mathuvanthy Mathavan**, a partner at Poovayya & Co, says the complete negation of AI is “unrealistic”. Referring to the Supreme Court’s observation, she says the focus must be on proper regulation and supervision, “The judgment embraces AI as a useful tool while firmly insisting on human control.”
+
+The BCI should organise interactive sessions and training programmes for advocates on responsible AI use while prescribing “clear disclosure requirements” for its use in legal practice, Mathavan says, highlighting that there must be disciplinary consequences for filing fabricated, hallucinated, or unverified material before judicial forums.
+
+The mandatory disclosure of AI tools is consistent with the Supreme Court’s draft Regulations for Use of Artificial Intelligence in Courts, 2026, which mandate disclosure of the origin of generative AI content and verification through a designated mechanism before such content is produced before a court.
+
+“To be unable to spot the hallucinations and bias inherent in these instances simply may indicate the need for lawyers to be trained as ‘AI-enabled lawyers’,” Tripathy points out. She cautions that merely prescribing norms may fall short if the accountability and transparency matrix is not suitably upgraded and suggests referring to the recently released International Bar Association’s guidance for the use of AI in mediation.
+
+Story continues below this ad
+
+## Permissible use vs over-reliance
+
+Talking about drawing lines between the permissible use of AI in judicial work, advocate **Akshat Pande**, managing partner at Alpha Partners, says overreliance on anything except one’s own intelligence is harmful.
+
+The use of AI by non-lawyers to do legal work instead of seeking professional advice could be more dangerous than lawyers misusing AI, he says. Mandatory disclosures may also affect the client as AI-generated drafts may be looked down upon by courts. “It will be better if courts also use technology to catch incorrect data, drafting or fake case quotations by AI and reject the drafts on that basis.”
+
+Mathavan too warns that overreliance on AI risks turning a useful aid into a substitute for independent thinking. “Human judgment and verification must always remain at the core of legal work.”
+
+## Question of accountability
+
+Advocate **Anshul Verma**, partner at SKV Law Offices, says that what matters more is who remains accountable when AI is used, and that “the responsibility stays with the advocate or the judge no matter what tool sits between them and their work.”
+
+Story continues below this ad
+
+She says that with the Supreme Court’s latest intervention, now there is a clear opening for the BCI to define what verification should look like in practice, and set out a guiding principle to prevent similar occurrences, and back it with real disciplinary consequences.
+
+Pande, however, feels it would be best if the BCI stayed away from this. “They generally have a hard time understanding most modern facets of the legal profession; with AI, God knows what they will end up doing.”
+
+As courts, lawyers and regulators grapple with AI’s growing influence, the challenge will be to harness its benefits without compromising the accuracy and accountability that lie at the heart of the justice system. Pande sums it up: “It is irrelevant whether the judiciary likes it or not; AI will be used, and it’s better to get used to it and create systems to catch its misuse than to ban it.”
+
+---
+
+### From Rs 1,000 to Rs 600: Earnings of Delhi’s e-rickshaw drivers hit by Bluetooth hack
+*Devansh Mittal · legal*
+
+On Wednesday, 20-year old Anu Kumar’s e-rickshaw stopped in the middle of the road in front of Bangla Sahib Gurdwara. He tried switching it on multiple times, but to no avail. A long line of angry drivers kept honking behind him.
+
+By the time a couple of kind strangers helped him push the e-rickshaw to the roadside, his passengers had left, and that too without paying. “No one will pay if you drop them before their destination,”he said.
+
+Kumar took the e-rickshaw to a mechanic, afraid how much he will have to shell out to get it fixed.
+
+But the mechanic just opened an app and tapped on the screen, and to his relief, the vehicle whirred back to life.
+
+But the relief was short-lived. His rickshaw stopped the same way three more times the same day. On Thursday, too, it shut down thrice. “I went home. What can you do when your vehicle stops three times in a day?” Kumar is not alone.
+
+For the last three days, e-rickshaw drivers in the Capital have found themselves at the mercy of strangers using Bluetooth-enabled mobile applications to connect to their vehicles’ battery management systems (BMS) and remotely switch them off, stopping their vehicle dead in the middle of the road.
+
+On Friday, the Union government directed Apple and Google to remove at least three battery-management apps – BAT-BMS, Lossigy and Epoch Li-ion – from their app stores following reports that they were being misused.
+
+Story continues below this ad
+
+Drivers, meanwhile, are a harried lot. “I usually earn Rs 1,000 a day. After paying for charging and maintenance, I am left with about Rs 800.
+
+But for the last two days, I have earned only Rs 600-700 because my vehicle was stopped four times each day,” said Mukhiya Yadav (24), who operates between Chuna Mandi and Ram Manohar Lohia Hospital.
+
+“While some people demanded Rs 200 to restart the vehicle, yesterday, one person even asked me for a beer,” he added.
+
+By Friday, Yadav had downloaded the BAT-BMS app himself and was helping stranded drivers restart their e-rickshaws.
+
+Story continues below this ad
+
+The BAT-BMS app was originally developed by China’s Shenzhen Grenergy Technology as a legitimate battery management tool for Bluetooth-enabled lithium-ion batteries. It allows users to monitor a battery’s state of charge, voltage, current, temperature, charging cycles and overall health. The app can connect wirelessly to batteries over Bluetooth Low Energy (BLE) within an operating range of around 15 m.
+
+The primary concern, however, lies with the security configuration of some BMS used in low-cost electric vehicles. A BMS is the electronic controller that monitors and protects lithium-ion battery packs by regulating charging, discharging, temperature and cell balance. The apps in question could connect to the BMS within a limited range, and be used to cut battery power, bringing the vehicle to a sudden halt.
+
+“This is a matter of security, and to ensure that people do not face inconvenience or distress, the government will certainly take appropriate action… The Transport department is also investigating and checking the matter,” Delhi Transport Minister Pankaj Kumar Singh said, adding that Delhi Police was conducting an inquiry into it.
+
+Kishori Kumar Jha (55), who drives it in West Delhi’s Ramesh Nagar, said, “People in cars and young boys have been  
+troubling us continuously for the last two days. After my e-rickshaw stopped yesterday, someone came up to me and demanded Rs 500 to restart it. This is extortion.”
+
+Story continues below this ad
+
+Rajiv Tuli, General Secretary of Electric Vehicle Manufacturing Society (EVMS), said complaints started pouring in from Wednesday.
+
+“We started receiving complaints from drivers across Delhi the day before yesterday. Manufacturing companies have set up helplines where stranded drivers can call and get assistance on how to restart their vehicle. Manufacturing companies have also made their own apps now which drivers can use,” he said.
+
+---
+
+### Red Bull, Sting, etc. not recognised as 'energy drinks', says food regulator FSSAI as it issues notices over misleading claims
+*Unknown · business*
+
+The Food Safety and Standards Authority of India (FSSAI) has issued notices to several beverage brands for misbranding and making misleading claims by marketing their products as 'energy drinks'. Separately, the Maharashtra government has announced a ban on the sale of Sting energy drink and other intoxicating substances within 500 metres of schools.  
+FSSAI said no standard exists for "energy drinks" under India's food safety rules, while Maharashtra's Food and Drug Administration (FDA) cited concerns over the effect of such drinks on schoolchildren.
+
+  
+
+## FSSAI Flags Misbranding
+
+FSSAI shared the notices in a post on X. The regulator said it had "issued notices to several beverage brands claiming to be 'energy drinks' for misbranding and misleading claims."
+
+  
+
+> — fssaiindia (@fssaiindia)
+
+The notices name Hell Energy Drink, Adrenaline Rush Energy Drink, Red Bull Energy Drink and Sting Energy Drink.  
+FSSAI stated, "FSSAI has not notified any standard for 'Energy Drink' or similar products."
+
+The regulator added that the Food Category System under the FSS Regulations, 2011 "is not intended for product naming or labelling purposes."
+
+  
+
+## Claims Under Objection
+
+FSSAI said companies cannot make functional or therapeutic claims about boosting energy, improving focus or addressing general weakness unless the law permits this.
+
+For Hell Energy Drink and Adrenaline Rush Energy Drink, FSSAI said claims relating to "boosting energy," "enhancing focus," and "aiding general weakness" are "not permissible for food products under the FSS Act 2006 and the Rules and Regulations made thereunder."
+
+For Red Bull Energy Drink, FSSAI objected to the claims "vitalizes body and mind," "enhancing focus," "boost energy levels," and "aid in general weakness."
+
+For Sting Energy Drink, FSSAI raised objections to the claims "stimulates mind energizes body," "enhancing focus," "boost energy levels," and "aid in general weakness."
+
+FSSAI said such functional or therapeutic claims are not allowed for food products. The regulator said it is stepping up scrutiny of branding and labelling practices to prevent claims that could mislead consumers or suggest regulatory approval where none exists.
+
+Maharashtra Bars Sale Near SchoolsThe Maharashtra government announced on Friday that Sting energy drink and other intoxicating substances cannot be sold within 500 metres of schools. The decision follows concerns over ingredients in the drink that are considered unsuitable for children.
+
+The announcement came in response to a question raised by BJP MLA Vikram Pachpute in the state legislative assembly. Food and Drug Administration Minister Narhari Zirwal said the decision was taken amid concerns about the impact of energy drinks on schoolchildren.
+
+Zirwal said, "The concerns raised by the honourable member regarding the sale of 'Sting' energy drink in and around school premises are valid to some extent. If the sale of such energy drinks or any other intoxicating substances is found within 500 metres of a school campus, immediate action will be taken against those responsible."
+
+The minister said the FDA has been directed to enforce the restriction. He also said schools have been asked to run awareness programmes to inform students about the health risks of consuming energy drinks. Health experts note that energy drinks are often high in caffeine and sugar.
+
+## Calls for Stricter Rules
+
+Pachpute also asked whether the government would bar the sale of the energy drink to those below 18 years of age.  
+MLAs Rahul Kul and Varun Sardesai urged the government to take stricter steps to prevent easy access to such beverages for children.
+
+Zirwal said the government would strengthen awareness campaigns at the school level and ensure the restriction is implemented effectively.  
+_  
+(Inputs from PTI)_
+
+---
+
+### Video: Iran's Foreign Minister, Speaker break down at Ali Khamenei's funeral
+*India Today World Desk · general*
+
+Iranian Foreign Minister Syed Abbas Araghchi and Parliament Speaker Mohammad Bagher Ghalibaf were inconsolable as they broke down in tears during the farewell ceremony for the late Iranian Supreme Leader Ayatollah Ali Khamenei in Tehran on Friday, as the Islamic Republic began week-long state funeral ceremonies months after his death in a US-Israeli strike on February 28.
+
+Visuals released by Iran's Fars News Agency captured the emotional scenes, with the country's top leadership paying tribute to Khamenei, whose burial was postponed because of the war and subsequent security concerns.
+
+### A TEARY-EYED FAREWELL
+
+A video from the ceremony shows Araghchi and Ghalibaf standing before Khamenei's coffin, visibly overcome with emotion as prayers are offered inside Tehran's Grand Mosalla.
+
+Both leaders are seen wiping away tears while other senior officials bow their heads in mourning.
+
+The footage also shows Iranian President Masoud Pezeshkian and other dignitaries paying their respects as military officers stand in salute before the coffins.
+
+Thousands of mourners dressed in black filled the prayer hall, while mourners outside chanted slogans, wept and beat their chests in keeping with Shiite mourning traditions.
+
+### KHAMENEI KILLED AS WAR BEGAN
+
+Ayatollah Ali Khamenei, who led Iran for nearly 37 years, was killed alongside several members of his family, including his daughter, son-in-law, infant granddaughter and daughter-in-law, during the opening phase of the US-Israel conflict on February 28.
+
+Under Islamic tradition, burials are generally conducted within 24 hours of death.
+
+However, Iranian authorities delayed the funeral because of the ongoing conflict and heightened security risks, scheduling the ceremonies only after an interim truce was reached last month.
+
+The body of the late Supreme Leader is lying in state at Tehran's Grand Mosalla before a series of funeral processions across Iran and Iraq.
+
+After ceremonies in Tehran, the remains will be taken to Qom before travelling to the Iraqi shrine cities of Najaf and Karbala. Khamenei will be buried in Mashhad on July 9 near the shrine of Imam Reza.
+
+### MOJTABA NOT ATTENDING FUNERAL
+
+Notably absent from the public ceremony was Khamenei's son and successor, Mojtaba Khamenei, who reportedly did not attend because of security concerns.
+
+Mojtaba is believed to have been injured in the strike that killed his father and has not appeared publicly since, with his engagements limited to recorded messages broadcast on state television.
+
+### ELABORATE SECURITY IN PLACE
+
+Iranian officials said unprecedented security arrangements have been put in place for the funeral.
+
+Tehran Governor Mohammad Sadegh Motamadian said, "We will have the highest level of security and safety at the farewell and send-off ceremony for the martyred Leader."
+
+He added, "Exactly at 6 am tomorrow, the doors of Tehran's Prayer Grounds will open; there will be no opening before 6. People should plan to arrive at the Prayer Grounds starting from this hour".
+
+### WORLD LEADERS ATTENDING
+
+The funeral has drawn high-level delegations from across the world. Among those attending are Pakistan Prime Minister Shehbaz Sharif, Army Chief General Asim Munir, Russian Security Council Deputy Chairman Dmitry Medvedev, Turkmenistan's Gurbanguly Berdimuhamedow, Armenian Prime Minister Nikol Pashinyan and several parliamentary speakers, ministers and regional leaders.
+
+India is represented by Minister of State for External Affairs Pabitra Margherita and Bihar Governor Lieutenant General (Retired) Syed Ata Hasnain.
+
+An Indian delegation that includes Congress leader Salman Khurshid and PDP chief Mehbooba Mufti also paid tribute.
+
+Iranian Foreign Ministry spokesperson Esmaeil Baghaei said, "Many other countries will be represented at the level of foreign ministers, other ministers, or special envoys."
+
+The ceremonies come at a pivotal moment for Iran as the government seeks to project unity following Khamenei's death and months of conflict.
+
+With millions of mourners expected over the coming days, the funeral will conclude with Khamenei's burial in Mashhad after processions through Iran and Iraq, marking the end of one of the most significant state ceremonies in the Islamic Republic's history.
+
+\- Ends
+
+Jul 4, 2026 08:56 IST
+
+---
+
+### EPFO discontinues UAN activation on portal: What PF subscribers should know | Mint
+*Kirti Jha · economy*
+
+## EPFO has restored its Unified Member Portal after a major upgrade. However, UAN activation and new UAN generation have moved to the UMANG app. Here's everything PF subscribers need to know.
+
+Subscribers can no longer activate their Universal Account Number through the EPFO Unified Member Portal. (This is an AI-generated image.)
+
+The Employees' Provident Fund Organisation (EPFO) has restored its Unified Member Portal after a nearly week-long scheduled upgrade, introducing a redesigned interface and several changes to member services.
+
+Among the biggest changes is the discontinuation of UAN activation through the EPFO portal. Members can also no longer generate a new Universal Account Number (UAN) directly from the website. Both services have now been shifted to the government's UMANG app and require Aadhaar-based Face Authentication (FAT).
+
+The overhaul follows a major database consolidation and software upgrade that, according to EPFO, is aimed at making its online services faster, more secure and more reliable.
+
+## **What has changed on the EPFO portal?**
+
+Following the upgrade, EPFO has introduced several changes to how subscribers access its online services.
+
+The key changes include:
+
+-   UAN activation through the EPFO portal has been discontinued.
+-   Direct UAN allotment is no longer available on the portal.
+-   Both services have moved to the UMANG app.
+-   Aadhaar-based Face Authentication is now mandatory for UAN activation and allotment.
+-   The process for retrieving a forgotten UAN has been simplified.
+
+## **How can subscribers activate their UAN now?**
+
+Subscribers can no longer activate their Universal Account Number through the EPFO Unified Member Portal.
+
+Instead, UAN activation must now be completed through the UMANG app using Aadhaar-based Face Authentication.
+
+### **How to activate UAN through the UMANG app**
+
+**Step 1:** Download the UMANG app from the Google Play Store or Apple App Store.
+
+**Step 2:** Open EPFO Services.
+
+**Step 3:** Select "UAN Activation" under "UAN Services Through Face Auth."
+
+**Step 4:** Complete Aadhaar Face Authentication and follow the on-screen instructions.
+
+## **Direct UAN generation also moves to UMANG**
+
+EPFO has also removed the facility to generate a new UAN through its website.
+
+Employees who need a new UAN must now use the UMANG app.
+
+The UMANG (Unified Mobile Application for New-age Governance) app is the Government of India's digital services platform that allows users to access services offered by various departments, including EPFO.
+
+### **How to generate a new UAN**
+
+-   Open the UMANG app.
+-   Select EPFO Services.
+-   Click "UAN Allotment and Activation."
+-   Complete Aadhaar-based Face Authentication.
+-   Follow the instructions to generate the UAN.
+
+## **Already have a PF account but no UAN?**
+
+Employees who already have an EPF account but have not yet been allotted a UAN can still obtain one.
+
+They need to verify their registered mobile number, provide the required member details and complete the verification process. Once verified, a UAN will be generated and linked to their existing EPF account.
+
+If anyone has forgotten their UAN, the upgraded portal now offers a simpler UAN retrieval process.
+
+Subscribers need to:
+
+-   Enter their registered mobile number.
+-   Upload the required identity or address proof.
+-   Verify the OTP sent to the registered mobile number.
+
+Once the verification is complete, the UAN can be retrieved.
+
+## **Death claim filing remains available on the EPFO portal**
+
+While UAN-
+
+Beneficiaries should ensure they have:
+
+-   Aadhaar-linked mobile number
+-   Bank account details
+-   Death certificate of the member
+-   Cancelled cheque or bank passbook
+-   Date of birth proof, where applicable
+
+EPFO has clarified that documents must be uploaded in PDF format, each file should be under 2 MB and file names must not contain spaces.
+
+## **Why did EPFO make these changes?**
+
+According to EPFO, the portal upgrade is part of a major database consolidation and software modernisation exercise aimed at improving service delivery.
+
+The organisation has also informed members that claims and online requests may take slightly longer than usual during the initial two-week stabilisation period as additional verification and validation checks are being carried out.
+
+Members have been advised to avoid repeated submissions and multiple login attempts during peak hours.
+
+
+---
+
 ## 3 July 2026
 
 ### Stock Market Today: Sensex Opens 435 Points Higher, Nifty Above 24,350 As IT Stocks Lead; India VIX Slips 7%
