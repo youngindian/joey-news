@@ -1,8 +1,158 @@
 # Editorials
 
-_Last updated: 2026-07-03 05:29 UTC_
+_Last updated: 2026-07-04 05:12 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 4 July 2026
+
+### Counting cancer: On making cancer a notifiable disease in India
+*The Hindu · Editorial*
+
+What’s good for the goose is surely good for the geese. What the States will benefit from, the country could too. In India, cancer is not a notifiable disease at the national level, keeping with the Health Ministry’s position that such notification is only for communicable diseases. Population-based cancer registries and hospital-based cancer registries are currently the only national tool at the disposal of the Centre to count cancer cases. Unfortunately, these registries cover about 10%-16 % of the population, and have an urban, government health care set-up skew. However, several States have taken the lead on this front, making cancer a notifiable disease within their boundaries. Telangana is the latest to join the list of States that have made cancer a notifiable disease, bringing the total number of States doing so to 17.
+
+With the Global Cancer Observatory (affiliated to the World Health Organization) projecting an estimated increase of 1.05 million cases between 2022 (1.41 million) and 2045 (2.46 million), the rise is expected to be a staggering over 74%. Given these projections, thanks to an increasing life span and ageing demographics, changes in lifestyle and diet, it becomes all the more important to be armed with data and get ready for vanguard action from a public health point of view. While State action can, to an extent, solve the data question, any benefit thus derived from notifying health authorities of every single case of cancer, it cannot become a rubric by which the nation can contour its cancer control programme. Apart from existing registries covering mostly urban and semi-urban posts, care in India is also delivered in good measure through the private sector and that data set is not uniformly captured. The Indian government must pay heed to its own counsel, the Indian Council of Medical Research, National Centre for Disease Informatics and Research (now ICMR-NINE) had recommended that cancer be made a notifiable disease years ago. It is a fact that establishing cancer as a notifiable disease will mean a sudden increase in the number of cases being recorded, but it must not be considered a liability. Instead, it is merely part of the process of crafting a studied, and evidence-based response — health care and information, education, and communication (IEC) — to cancer at the country level. While bold advances in research and treatment methodologies have retrieved cancer from the fear and the utter helplessness surrounding it, the heart of the issue remains the lack of data. Taking lessons from the States, the Centre must recalibrate and make cancer a notifiable disease in India.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/counting-cancer-on-making-cancer-a-notifiable-disease-in-india/article71179346.ece)
+
+---
+
+### ​Manufacturing justice: On the top court, AI use observations
+*The Hindu · Editorial*
+
+But for its serious implications, a judge relying on Artificial Intelligence (AI) hallucinations to arrive at a judicial determination would have been comical. Given the serious miscarriage of justice that such hallucinations can lead to, if used in the judicial processes, the Supreme Court of India has likened it to methyl isocyanate, the poisonous gas that led to the Bhopal gas tragedy in 1984 — “invisible, insidious, and catastrophic by the time anyone notices”. The Court made these observations while setting aside the orders of the National Company Law Tribunal (NCLT) and the National Company Law Appellate Tribunal (NCLAT) in an insolvency case after finding that the NCLT had relied on fictitious AI-generated legal citations, a lapse overlooked by the appellate tribunal. This is the latest in a series of interventions by the Court this year, cautioning against the use of AI-generated fictitious judicial precedents in court proceedings. Through its rulings and oral observations, the Court has consistently adopted a strict and cautionary approach to the deployment of AI in the justice delivery system. On February 27, the same Bench of Justices P.S. Narasimha and Alok Aradhe took cognisance of a trial court relying on AI-generated fictitious case laws and underlined that it was not merely “an error in decision-making” but amounted to judicial “misconduct”.
+
+The Court has made clear that AI may serve as an assistive tool to improve efficiency, but it can never replace independent human reasoning, judicial discretion or professional accountability. In AI, humanity is encountering what many experts fear might well be an existential question. AI disruption is a known unknown — everyone knows that it is happening but nobody quite knows its extent or implications. There is, however, enough evidence of a combination of human stupidity and deliberate design leading to dangerous social outcomes being derived from AI. Human oversight is the essential counter to these dangers. The Court has said that presenting fabricated, machine-generated judgments to a court constitutes professional misconduct for advocates and a serious lapse of duty for judges; and any judgment influenced by an iota of fake or hallucinated AI material is “no decision in the eyes of law”. The draft ‘Regulations for Use of Artificial Intelligence (AI) in Courts, 2026’ prohibits AI in the making of judicial outcomes such as the function of adjudication, sentencing, or deciding bail eligibility and evaluating the credibility of parties or witnesses. Even as the draft is open for public consultation, the Court has directed the Bar Council of India (BCI) to set up a dedicated committee to formulate strict norms and define disciplinary actions for lawyers who cite unverified AI material. Justice must be done and seen; not hallucinated.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/manufacturing-justice-on-the-top-court-ai-use-observations/article71179263.ece)
+
+---
+
+### The Iran conundrum and the decline of the West
+*The Hindu · Opinion*
+
+Ever since 1945, the dominance of the United States and western Europe in world affairs has been taken for granted, largely because of their military power, technological innovations, and financial strength. This situation continued until fairly recently. However, the rise of China, along with the growing prominence of certain “middle powers” in recent years, has begun to dent — though not eclipse — the image of the U.S. as a superpower.
+
+As China’s influence over world affairs has grown, driven by its technological and innovative capabilities and its stranglehold over scarce strategic resources, the supremacy of the U.S. and the West has, however, appeared to wane. Many experts, nevertheless, continued to believe that there was still time before the West faced an effective challenge to its leadership. Concerns had, no doubt, grown about the U.S.’s structural vulnerabilities, though few expected that a country such as Iran would effectively deal a mortal blow to the image of the U.S. as the world’s leading power.
+
+Moving from war to deal in a deeply divided regionThe (now deceased) Iranian Supreme Leader, Ayatollah Ali Khamenei, had once observed that, while Americans constantly threatened war, they lacked “staying power”. This has now become apparent in ample measure. By contrast, in the course of the Iran-Iraq war (1980-1988), Iran’s Islamic regime demonstrated remarkable endurance, resilience, and determination to preserve the regime by all means necessary. U.S. President Donald Trump’s failure to recognise this aspect has since cost him dearly. One leader who is seen to have emerged from the ashes of the U.S.-Iran conflict is Ali Khamenei’s presumed successor, his son Mojtaba Khamenei, who is presently viewed by many as a “living martyr”.
+
+A nation determined to endure and overcomeThe new Iran-U.S. frameworkEven prior to embarking upon substantive negotiations in Switzerland on all contentious issues, the U.S. and Iran entered into an “initial deal” (mid-June 2026) to end the war and reopen the Strait of Hormuz. The announcement of the talks was cautiously welcomed by world leaders, though all agreed that difficult negotiations lay ahead. Prior to the formal talks, a 14-point Memorandum of Understanding was, interestingly enough, signed by Mr. Trump at the Palace of Versailles, France, on June 17, 2026, evoking comparisons with the 1919 Treaty of Versailles, which is widely regarded as having imposed humiliating terms on Germany following the First World War.
+
+Moving from war to deal in a deeply divided regionThe June 17 agreement was widely criticised as little more than a latter-day endorsement of the status quo that had existed prior to the U.S.-Israel strikes on Iran, on February 28, 2026. The terms of the agreement included the reopening of the Strait of Hormuz, the lifting of the U.S. blockade, and a vague commitment by the U.S. and its regional partners to initiate plan, for at least $300 billion, for the reconstruction and economic development of Iran — the U.S. has since declared that no U.S. funds would flow directly to Iran. If so, this commitment could possibly refer to the release of Iranian assets that have been frozen by the U.S. over the years. The agreement also reportedly contains an important pledge by Iran not to develop a nuclear weapon.
+
+The talks in Switzerland soon thereafter seemed little more than a formality, with the U.S. claiming, following their successful conclusion, that it had achieved a major milestone by persuading Tehran to allow inspectors from the International Atomic Energy Agency back into the country, thereby opening a pathway to international monitoring of its nuclear programme. But Iran is said to have told its state media that Tehran had made “no new commitments” on nuclear inspections. The conclusion of the talks appeared to many observers to represent a “desperately needed truce” for the U.S., as it was followed shortly thereafter by the lifting of U.S. oil sanctions on Iran and the issuance of a 60-day waiver authorising the sale and transport of Iranian crude oil and petroleum products.
+
+The U.S.-Iran ‘peace deal’ confronts spoiler IsraelNewspaper headlines across the world had little to say about the deal and instead harped on the enormity of the setback to the image of the U.S. resulting from its coming to terms with Iran. Perhaps the most telling headline appeared on the front page of The Times of India (June 19, 2026): “Versailles II: Trump rushes where historians would dread to tread”. Apart from the fact that the U.S. and its President have been excoriated for what critics have termed the “surrender blunder”, the reality is that the deal has brought the U.S. few tangible benefits.
+
+Intrinsic to, or as part of the deal are several other aspects of considerable interest, apart from sanctions relief for Iran’s oil exports, viz., the possibility of Iran assuming a formal role in managing traffic through the Strait of Hormuz and, (potentially), charging transit fees for passage through the Strait. Questions remain, however, regarding the safety of shipping routes, vessel security procedures, naval protection, and emergency response mechanisms. Many of these issues remain to be clarified.
+
+India’s ‘Israel habit’ meets West Asian realitiesThe deal is important, even though its wording remains inchoate. It is widely portrayed as a deal between unequals, with Goliath having been worsted — or at least caught unawares by David. It also does not read like a standard diplomatic document. The implications of a superpower — the world’s leading nuclear power — conceding ground to a battered Iran are huge and are unlikely to be lost on nations and major powers across the globe.
+
+Israel-U.S. relations fractureIt also entails an important rupture in relations between the U.S. and Israel. Israel Prime Minister Benjamin Netanyahu’s devious plans to inveigle the U.S. in a conflict in West Asia, which was aimed at decimating Iran and establishing Israel’s undisputed supremacy over the region has now become part of the detritus of history. The Israel-U.S. rupture, unless Tel Aviv bends substantially hereafter, could alter power equations in West Asia, leading to either an unsettled peace or further wranglings among Arabs, Iranians and Israelis.
+
+What is also quite plausible is that Iran’s claims to have bested the Great Satan, could lead the new Iranian regime, now increasingly under the tutelage of Islamic Revolutionary Guard Corps (IRGC) hotheads rather than the Ayatollahs, to revive conflicts with other Arab nations, apart from Israel itself. Such ‘adventurism’ could lead to more disparate conflicts in a vital region, which incorporates a critical artery of global energy supplies.
+
+War on Iran | The story of a shipwrecked hegemonMany imponderables are still present. For one, the U.S.-Iran Agreement is almost certain to give a boost to hardliners in Iran who may believe that they have managed to ‘defeat’ the mighty U.S., signalling scope for a still more hardline policy, vis-à-vis not only Israel, the U.S., and other Arab States in the region but also their own people as well. For another, the IRGC, already on the ascendant, could feel more emboldened to act with impunity, having a new Ayatollah identified with it. The impact of all this would be felt not only in Iran but also in countries with large Shia populations, including India. A worsening of Shia-Sunni tensions in different pockets across the globe cannot, therefore, be ignored.
+
+For a third, Israel and its leaders could be expected to behave like ‘wounded tigers’. Their ploy of inveigling the U.S. into supporting their bid for supremacy in West Asia having failed —and with the U.S. President distancing himself from Mr. Netanyahu — they could be expected to embark on a fresh bout of ‘adventurism’, especially with their Arab neighbours and across West Asia. This could aggravate tensions and undermine the fragile peace that has existed since the Abraham Accords. Furthermore, with the U.S. seen as a major loser and its influence across the region set to wane, Gulf nations may be prompted to take a hard look at relying on the U.S. for protection against external threats, including a resurgent Iran. Interestingly, there could also be growing demands to reduce the presence of U.S. troops in West Asia.
+
+Radical groups could regain groundNeither Russia nor China have gained much from the conflict, even as both claim to have supported Iran and some of the other Arab countries. What the world needs to examine closely is whether this level of uncertainty could lead to the re-emergence of well-organised terrorist organisations and entities such as al Qaeda, capable of even greater destruction than their forebears. They could well become the forerunners of many more disparate Arab groups and forces centred in West Asia, capable of extending their activities from Africa and parts of Asia to Europe, if not the U.S. itself.
+
+M.K. Narayanan is a former Director, Intelligence Bureau, a former National Security Adviser, and a former Governor of West Bengal
+
+[Read full article](https://www.thehindu.com/opinion/lead/the-iran-conundrum-and-the-decline-of-the-west/article71179900.ece)
+
+---
+
+### India, Japan in a strategic axis
+*Deccan Herald · Editorial*
+
+India and Japan have further strengthened their decades-long bilateral relations following the visit of Prime Minister Sanae Takaichi. Economic and technological cooperation remain the core dimensions of the relationship, marked by billions of dollars in Japanese investments.
+
+Now, there is a growing emphasis on cooperation in defence and security. The visit yielded 16 major outcomes, emphasising the deepening mutual connection. Notably, Indian and Japanese companies signed 129 memorandums of understanding spanning technology, investment, and artificial intelligence.
+
+Japan is expected to invest $1 trillion in India. The two nations have adopted a roadmap for economic security, focusing on critical minerals and semiconductors. To further boost bilateral trade, they have also agreed to review their 15-year-old Comprehensive Economic Partnership Agreement (CEPA).
+
+One of the key outcomes of the three-day visit was Prime Minister Narendra Modi’s announcement of the first co-development defence project involving the two countries: the Unified Complex Radio Antenna (UNICORN). Modi noted that the new collaboration would help build defence technologies supporting regional peace, maritime security, and a rules-based order.
+
+Prime Minister Takaichi highlighted maritime security as central to stability in the Indo-Pacific region, noting that Japan’s vision for a Free and Open Indo-Pacific (FOIP) aligns with India’s belief that the ocean is a shared space vital for sustaining growth and sovereignty.
+
+India, Japan seal warship stealth deal, raise concerns over militarisation in East and South China seasThe two sides also committed to deepening defence ties, agreeing to expand cooperation through joint military exercises, along with the transfer and sale of defence equipment and technology, reinforcing a broader strategic partnership.
+
+The renewed focus on the India-Japan relationship must be seen in the context of a rapidly changing geopolitical landscape in the Indo-Pacific. The region is witnessing growing uncertainty over the direction of the United States’ policy, particularly its approach to China and the future of security commitments to its allies.
+
+Washington’s decision to rename the Indo-Pacific Command (INDOPACOM) back to Pacific Command (PACOM), coupled with perceptions that the Quadrilateral Security Dialogue (Quad) has received less strategic attention, has raised questions about the durability of the existing regional security architecture. President Donald Trump’s recent visit to China has heightened speculation about possible shifts in US priorities.
+
+For countries such as Japan, whose security has long depended on the US alliance, these developments have revived concerns about strategic reliability. India also faces challenges from China’s assertions.
+
+Stronger India-Japan ties present the two Asian powers an opportunity to enhance regional stability, while strengthening strategic autonomy and shared security interests.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/india-japan-in-a-strategic-axis-4061490)
+
+---
+
+### Quarry safety demands relentless oversight
+*Deccan Herald · Editorial*
+
+The death of seven labourers at a stone quarry near Tavarekere, on Bengaluru’s outskirts, is the result of criminal negligence and a collapse of regulatory oversight.
+
+The victims, who had travelled from Madhya Pradesh, Chhattisgarh, and Karnataka’s Yadgir district in search of a livelihood, paid with their lives for a system that consistently places profit above human safety.
+
+Their families, who depended on them, are now left to bear an irreparable loss. The quarry owner undoubtedly bears primary responsibility. But to stop there would be to ignore the larger machinery of official complicity. The Department of Mines and Geology must also share the blame.
+
+If workers were made to labour beneath unstable rock faces without helmets, harnesses or basic protective equipment, where were the inspecting officers? Equally answerable is the Labour Department, whose officials are entrusted with enforcing workplace safety, labour welfare, and statutory protections.
+
+Regulatory failure on this scale does not occur overnight; it is the product of inspections that never happened, violations that were overlooked, or worse, ignored.
+
+Rescue personnel described the labourers as being treated like “slaves”. They were reportedly assigned to zones already flagged as dangerous after earlier blasting, while living in makeshift shelters beside the crushing units. It is difficult to imagine a more blatant violation of labour and human dignity.
+
+The government must also determine whether these workers were registered under applicable labour laws and covered by mandatory accident insurance. If not, the violations extend into wilful exploitation. Residents had reportedly raised repeated complaints about the quarry’s operations and safety record.
+
+Bengaluru quarry tragedy | Fire officials expose deadly safety lapses, say workers were 'treated like slaves'Local MLA S T Somashekar has said he raised the matter in the Assembly and before the Petitions Committee on multiple occasions, yet no action followed. Unsafe quarrying on this scale rarely survives without administrative protection.
+
+This is not an isolated tragedy. In December last year, a lorry driver lost his life after his tipper plunged into a gorge inside an illegal stone quarry in Mandya district. The government has ordered statewide safety audits and temporarily suspended quarry operations.
+
+A few notices will be issued, some inspections conducted, and within weeks, business will resume as usual. These reactive gestures have become the hallmark of governance. What is needed is relentless enforcement and continuous monitoring. Jurisdictional officers of both the relevant departments must be held responsible for safety violations.
+
+Unless negligent officers are prosecuted alongside errant quarry owners, more workers will continue to lose their lives to systemic indifference.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/quarry-safety-demands-relentless-oversight-4061484)
+
+---
+
+### Reframing copyright for the AI age
+*Deccan Herald · Opinion*
+
+A huge amount of litigation is happening across the world on the use of copyrighted works by generative AI companies. In India, the Delhi High Court has been hearing the ANI v. OpenAI case, which involves different creative industries fighting together against OpenAI.
+
+The Court is due to announce its decision on an interim injunction against OpenAI anytime now. While the resistance by creative industries is remarkable, litigation cannot resolve the challenge they face. The real difficulty is not copyright breach or the limits of fair use. It is that the dispute itself lies beyond what a court can resolve.
+
+This dispute requires revisiting copyright law, and only Parliament can meaningfully resolve it.
+
+Copyright law draws a line between two kinds of use. First, using a work for its expression. This includes adapting a novel into a film, translating a book, or publishing a sequel. This is protected as the author’s market, and any use requires a licence. Second, using a work for some other purpose.
+
+This includes using the copyrighted work to criticise it, study it, teach it, or take inspiration and produce something transformative. In this use, there is no reselling the author’s expression. It is considered fair dealing. For a century, every copyright fight was a fight about which side of that line a use fell.
+
+Which side does AI training fall on? If a large language AI model reads a novel, it does not consume the expression. It extracts statistical patterns and uses the book as data. This is the second kind of use: fair and legally non-protectable.
+
+But ingesting the book as data, the AI model can produce many books in the author’s voice and compete with them. This is the first kind of use, the kind that is protected and requires a licence.
+
+This is the heart of the matter. AI models use protected work as data, which is permissible, to build something that competes in the market for the protected expression. The law has no resolution for this. It is not that the law was drafted badly. It was just drafted for a different world. The Copyright Act 1957 was passed in a world of human-scale where the line between using a work’s expression and using it for other purposes never had to bear much weight. This world is gone and is being replaced by a technology that lives right on the line.
+
+Accordingly, there is a need to strike a fresh bargain on what deserves protection and what can be considered fair dealing. The Court will have to choose between infringement and fair dealing for something which is neither. Therefore, it is time to strike a fresh bargain, and it is the Parliament that represents the society on such questions. The Department for Promotion of Industry and Internal Trade released a working paper presenting the government’s position on this bargain. It concludes, correctly, that the old deal does not fit.
+
+However, the government has proposed a mandatory, retroactive, blanket licence: train AI models on whatever you like, and pay a slice of your revenue into a central pool that a new collecting body distributes to rights-holders. This solution is destined to fail not only because it cannot capture training that happens outside India. But also, its stated goal to sustain human creativity by collecting royalties for human creators and dividing it amongst them cannot produce sizeable incentives. The aggregators will collect; the writer, photographer, or musician will not meaningfully benefit.
+
+The working paper erroneously treats the harm as occurring at the moment of training. But training, in itself, harms no one. A model that reads every newspaper and sits in a vault injures no publisher. The harm arrives when the model generates work that substitutes for the human work it learned from. This threatens the journalist, the novelist, the composer. This is the competition that can hollow out a creative economy.
+
+We are pouring effort into licensing the input, where the act is borderless, and the harm is speculative. On the other hand, the output where the harm is real and concrete goes largely unaddressed. It is as though we set out to tax the reading of books to protect authors from plagiarism, and left the plagiarism itself untouched. We need to revisit this problem with honesty. It means aiming at where the harm actually lands, not where it is easiest to install a tax.
+
+(The writer is a dual- qualified lawyer [India and UK] and teaches law at Cyril Shroff Centre, Jindal Global University)
+
+[Read full article](https://www.deccanherald.com/opinion/reframing-copyright-for-the-ai-age-4061487)
+
+---
 
 ## 3 July 2026
 
@@ -73,6 +223,48 @@ Gautam Bhatia is a Delhi-based lawyer
 
 ---
 
+### DC Edit | India, Japan: Perfect Partners
+*Deccan Chronicle · Editorial*
+
+Over 2,000 years ago, India’s celebrated strategist Chanakya’s Rajamandala Theory stated that “your neighbour is your natural enemy and the neighbour's neighbour is your friend”. If any country fits this bill for modern India, it is Japan. The strengthening relations between India and Japan for nearly two decades attest to this fact.
+
+Following the pro-India policy adopted by her predecessor Shinzo Abe, Japanese Prime Minister Sanae Takaichi reaffirmed her country’s special strategic relationship with India. Both countries signed 12 agreements on cooperation in matters such as defence, technology, and economy among others.
+
+Ms Takaichi’s visit to India is of significant value, especially in the wake of a new Trumpian era in geopolitics, which is marked by the transactional nature of relationships between countries. The withdrawal of the United States from the Indo-Pacific security architecture and an increasingly assertive China will force countries like India and Japan, the only two major powers in Asia outside the Sinosphere, to collaborate.
+
+The Indo-Japanese relationship is one of the most complementary relations in the world. Japan has technology, while India has manpower to achieve scale. One of the best and popular examples of this synergy is Maruti Suzuki, which modernised the car sector in India, while giving scale to Suzuki Motor Corporation.
+
+The Indo-Japanese relationship is also in sync with the emergence of a compact between middle powers to avoid getting sold out by a modus vivendi between the United States and China.
+
+If India and Japan can co-opt South Korea and Taiwan, which are threatened by North Korea and China, respectively, they can successfully create a defensive arc of resistance and economic cooperation, which could be a reply to the string of pearls. This new four-member bloc could be the Quad 2.0, whose interests align much more closely than those between the older Quad of the US, India, Japan and Australia.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-india-japan-perfect-partners-1968182)
+
+---
+
+### DC Edit | World Celebrates With America As It Turns 250
+*Deccan Chronicle · Editorial*
+
+America will celebrate this weekend the passage of 250 years since the Declaration of Independence was signed by 56 delegates to the Continental Congress. Since that momentous day in world history after which people mostly from across the Atlantic Ocean surged to the new land, attracted by its freedom and the hope of leaving the European class system behind, the US has grown into the world’s biggest economic power with the mightiest armed forces.
+
+To many, the American Dream is still alive as the US is always viewed as the land of equality — even if it didn’t begin that way as only whites with property had early say and the vote for nearly a century from 1776 and slavery was not abolished till 1865 — and of opportunity though it is said that Americans have grown less proud of their history and the way its democracy has been seen to work, especially most recently.
+
+President Harry Truman reportedly left the White House without any income other than monthly army pension of $113 while the current resident of the White House made at least $2.2 billion in his first year back as President, $1.4 bn of that in the cryptocurrency industry. But personal aggrandisement is not the only thing being held against him as several mighty institutions that graced the history of American independence have been compromised by a noticeably erratic wielding of presidential power.
+
+The history of commitment to equality, fraternity and the pursuit of happiness is too grand over two and a half centuries to be spoiled by a two-term President. And yet Donald Trump may have taken the most imprudent decision in his career to declare war on Iran at the behest of Israel and is still paying the price for it as he scrambles to make a meaningful peace deal. His anti-immigration policies are also a denial of the history of the contribution of migrants to the might of America.
+
+Truth to tell, there is a lot more to the US than military wins and defeats though life now seems to suffer from a toxic polarisation thanks to the divisiveness of politics and the endless capacity of the social media and cable news to thrive on outrage. It may not have helped that while the rich are getting richer in free enterprise and trade, political leaders who appear to prosper more are promoting anxiety and divisions in the public
+
+Even so, America is one of a handful of nations taking the lead in artificial intelligence today that might define how the future evolves. Where it may have lost ground under Mr Trump is that it has shed all the shine it used to have as avowedly the leader of the free world. So much has he done to alienate US's closest allies nearest to home in Canada and Mexico as well as in Europe.
+
+If optimism still prevails in America, it is because of the basic goodness of people which is more than amplified in the way in which the sporting spectacle of the World Cup has seen people spontaneously respond to sportsmen and visitors from all corners of the world, including Iran, with enthusiasm.
+
+Empathetic scenes of shared humanity invest all the world with the thought that life is worth living after all and the American people are the heroes in this, including those who came to the US in search of life, like the Indian Americans who have done very well for themselves and those who were set free only by the democratic zeal of Abraham Lincoln. It is true that America, in all its history, has been kinder to its people than its politics.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-world-celebrates-with-america-as-it-turns-250-1968197)
+
+---
+
 ### Dilip Cherian | Haryana Govt In A Dilemma Over Second Extension To Its Chief Secy
 *Deccan Chronicle · Opinion*
 
@@ -113,6 +305,101 @@ That also explains why babu reshuffles become more frequent as elections approac
 Punjab has seen three governments in five years, from Amarinder Singh to Charanjit Singh Channi and then Bhagwant Mann....
 
 [Read full article](https://www.deccanchronicle.com/opinion/columnists/dilip-cherian-haryana-govt-in-a-dilemma-over-second-extension-to-its-chief-secy-1967955)
+
+---
+
+### Indranil Banerjie | America@250: Could It Still Inspire The World?
+*Deccan Chronicle · Opinion*
+
+During the second half of the 18th century, when India was coming under the inexorable stranglehold of British colonialism, halfway across the world, the opposite process was underway. In America, citizens were fighting to oust their British colonial overlords. The independence of the American colonies, which came at the end of a bitter eight-year-long war, ushered in a period of unprecedented prosperity and eventually transformed the country into the world’s richest and most powerful nation. India, on the other hand, slipped from being one of the most affluent and awe-inspiring empires into one of the world’s poorest and inconsequential countries.
+
+While the fortunes of India and America followed very divergent trajectories, an incipient link connected the two. This was political ideology. The United States was destined to serve as the political inspiration for India.
+
+The process started early. In 1831, an unknown American publisher sent a thousand copies of Tom Paine’s famous tracts Age of Reason and The Rights of Man by ship to Calcutta, where booksellers hawked them at one rupee a piece, not an inconsiderable sum in those days. The book proved to be such a bestseller that the booksellers quickly raised the price to Rs 5 a copy! Young Indians who had learnt English and were beginning to devour Western philosophical and political works were electrified by Tom Paine’s writings on liberty and the rights of all men. More of his books were ordered from America.
+
+The colonial masters in India were furious at this development. The Scottish missionary, Dr Alexander Duff, was among the many who condemned the book’s publisher, calling him a “wretched bookseller in America” who had “no God but his silver dollars”. Like most colonials, Duff considered Indian self-governance or political independence unthinkable, and believed it was their divine duty to rule India and eventually transform it into a Christian nation!
+
+But the damage was already done. The idea of liberty and a government of free people was so intoxicating that it would eventually spark off a revolution in Indian political thought and sow the seeds of the country’s freedom movement.
+
+The United States, even in later years, continued to champion the independence of India. During the Second World War, when US President Franklin D. Roosevelt demanded the end of British rule in India as one of the preconditions for US support for the British war effort, a furious Winston Churchill declared: “I have not become the King’s First Minister in order to preside over the liquidation of the British Empire”. But Churchill could not hold out. and in the end lamented: “The empire I believed in has gone”.
+
+Though the United States played a significant role in India's struggle to achieve Independence, the two countries drifted apart shortly after 1947. This was primarily because after World War II, America emerged as a global hegemon and took on the imperial mantle from Great Britain. Over the years, the nation that had once championed liberty and democracy grew into a ruthless superpower bent upon imposing its will on the rest of the world.
+
+Its imperialistic war machine rampaged across the globe, killing millions in countries as varied as Vietnam, Afghanistan, Iraq, Syria, Yemen, Libya, and most recently Iran. In the post-9/11 period alone, the US is estimated to have killed over 4.5 million people.
+
+As the United States marks its 250th anniversary, there is little to suggest that it could once again revert to being the beacon of democracy, justice and liberty that it once was. US President Donald Trump's threat to “wipe out an entire civilisation” (Iran) from the face of the earth is a deeply disturbing echo of the kind of amoral thinking that grips the country’s elite. His defence secretary, Pete Hegseth, hosting his first monthly Christian worship service at the Pentagon (on March 25, 2026), quoted from the Psalms: “I pursued my enemies and overtook them, and did not turn back till they were consumed.”
+
+While India since Independence steadfastly refused to hitch its fortunes to the US wagon and insisted on staying non-aligned in a deeply divided world of great powers, the old incipient link between the two countries did not completely sunder. While Tom Paine had once inspired a generation of Indians, Mahatma Gandhi inspired legions of Americans, including the legendary black leader Martin Luther King Jr.
+
+Meanwhile, millions of Indians looking for opportunities and a better life flocked to the United States while its technological strides helped the world climb another step on the development ladder. At heart, American society remained deeply committed to the idea of diversity and freedoms. Immigrants from all over the world arrived on its shores to spur innovation and germinate new ideas.
+
+America and India came geopolitically closer after President Bill Clinton’s India visit in March 2000, followed by the signing of the civil nuclear agreement under George W....
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/indranil-banerjie-america250-could-it-still-inspire-the-world-1968171)
+
+---
+
+### OF CABBAGES AND KINGS | Straits Of God? Of A ‘Parsi Peg’ & Whisky Brand Called ‘Hormuz’! | 
+Farrukh Dhondy
+*Deccan Chronicle · Opinion*
+
+“The sun is sinking in the West,
+
+Dinner dishes go down in the sink --
+
+Sauvignon Blanc is undoubtedly best --
+
+It’s time for a writer to drink!
+
+Orange skies -- a radiant sunset
+
+Which calm the emotions to see --
+
+Those ones I saw and won’t forget
+
+Looking at skies -- just her and me?”
+
+From The Songs of Rose Leyti, by BachchooRegime change looms ahead in the UK, and so, gentle reader, it’s reasonable to expect my speculation about the direction Andy Burnham’s premiership will take. But no. I’ll wait till he’s actually in 10 Downing Street and chooses a Cabinet. Instead, today, I will turn to a strange intrusion that’s come my way.
+
+This column’s name, as you perhaps know, comes from Lewis Caroll’s rhyme in Alice in Wonderland:
+
+“The time has come, the Walrus said…/ To talk of many things/Of shoes -- and ships -- and sealing wax/ Of cabbages and kings…”
+
+I have very little to say about sealing wax, and, despite the fact that every commentator makes predictions about tomorrow’s UK, the time hasn’t come, for me, to talk about it.
+
+Instead, here’s a strange, perhaps surrealistic and provocative offshoot of another international tangle of our times -- the US-Israeli war with Iran.
+
+The world has been hit by financial crises owing to the closure of the waterway adjacent to Iran known as the Strait of Hormuz. Iran has mined this stretch of water to blow up any shipping and especially tankers carrying supplies of Middle Eastern oil to its buyers across the world.
+
+Apart from a break in the bombing of Lebanon, and the surrender of nuclear capability by Iran, opening of the Strait of Hormuz to shipping has been one of the chief aims of the hesitant or non-existent “ceasefire negotiations” of this war.
+
+It has, so far, come to nothing. Hormuz remains closed.
+
+And this fact has inspired an AI-constructed joke on the Internet which has, I believe, “gone viral”. A friend sent it to me. It’s the picture of a bottle of whisky called “Hormuz”. The label says it’s a “single malt”, the category which is more expensive than “blended” whisky.
+
+My friend’s caption to the photograph, or AI-generated picture (is it called a “meme”?) was something to the effect of “open up Hormuz”, presumably with a swig, to calm the anxiety caused by this murdering, destructive war.
+
+If the actions of the United States had, as Orangeeboob originally intended, led to the rapid elimination of the cruel Iranian regime, it would have been welcomed by the civilised world. Donald Deranged Duck didn’t know what he was doing, or how to do what he wanted, and so it didn’t happen.
+
+I respectfully assume, gentle reader, that none of this is news to you and that my comments are unnecessary! But what perhaps some of you don’t know is that Hormuz is the short form of “Ahura Mazda”, the “God of wisdom” or the supreme intelligence and light or energy of the universe -- the name for the monotheistic god of the Zoroastrian religion -- that of my family and my birth.
+
+One of my ancestors and very many Parsis (Zoroastrians) are named “Hormuzd”, shortened in many instances to “Homi”.
+
+I have, throughout my short and happy life, wondered why any community would call a boy child by the name of God. There are Christian boys in Portugal called Jesus, but there aren’t Jewish lads called Jehovah and calling a Muslim boy Muhammad is acceptable, but humans can’t be called Allah.
+
+I suppose calling a stretch of the sea the Straits of God might be okay, but calling a mortal man Hormuzd -- Ahura Mazda -- is surely wrong? I came to the conclusion that over the years there had been an unconscious literal slip – that the original name was “Hormuzdyar”, which means the “friend of Ahura Mazda”, rather than God himself. That had slipped in usage to become Hormuz or Hormuzd and then “Homi”.
+
+I am, as a born Zoroastrian, grateful to Ahura Mazda for keeping the religion devoid of ayatollahs. Yes, we’ve always had Dasturs, head priests and people who vainly regarded themselves as super-Dasturs, but nothing like the “supreme” ayatollahs, whose pronouncements become not “opinions”, as the translation of the word “fatwa” means, but commandments -- not perhaps carved in stone, but provocatively whispered into the steel of daggers and the barrels of guns?
+
+There was never in Zoroastrianism, as there is in some other religions, an injunction against alcohol. Quite the contrary. The culture of, or indulgence in, a “chhaanto-pani” (“a splash with water”) is prevalent amongst us Parsis. And then there’s the joke of the two-fingered measure of a “Parsi peg” – involving the distance between the forefinger and little finger held against the glass -- the breadth of a hand? Full measure.
+
+Freedom to consume alcohol may not make it permissible to name a single malt (or for that matter a blend) by the name of God. Stretches of ocean? Yes!
+
+But brands of whisky???
+
+My guess, gentle reader, is that even if there were Zoroastrian ayatollahs with severe dispositions, the natural tolerance within the...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/of-cabbages-and-kings-straits-of-god-of-a-parsi-peg-whisky-brand-called-hormuz-farrukh-dhondy-1968207)
 
 ---
 
