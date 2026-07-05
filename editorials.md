@@ -1,8 +1,101 @@
 # Editorials
 
-_Last updated: 2026-07-04 05:12 UTC_
+_Last updated: 2026-07-05 05:41 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 5 July 2026
+
+### The hidden costs of the tourism boom
+*Deccan Herald · Opinion*
+
+Countries across the world are eager to attract more international tourists. The incentives are credible: jobs, investment, and economic growth. However, policymakers appear to pay less attention to the environmental and social costs of mass tourism. Many countries in the Global South point to the perils of unchecked tourist inflows – particularly from wealthy Western nations – in the form of damaged ecosystems, strained infrastructure, and disrupted local communities. There are important lessons in these cautionary examples.
+
+As to just what exactly these problems are, and how the world is responding to them, you may wish to read Paige McClanahan’s book, The New Tourist. The author states that, spurred by tourist misbehaviour, anti-tourism movements are springing up across the world in countries such as Spain, Italy, the Netherlands, Vietnam, Thailand, and Indonesia. Just recently, a coastal luxury resort project in Albania linked to the family of United States President Donald Trump sparked massive protests.
+
+It is ludicrous that the Andaman and Nicobar Islands and cities such as Visakhapatnam and Kochi are considering expanding their port facilities to include cruise ship terminals without considering the ramifications of such a move.
+
+'Want free booze, skip queues': Man who visited 40 countries in 18 yrs flags how Indians behave abroadWhen a cruise ship docks in towns, the sudden influx of several thousands of tourists can prove problematic. The local chamber of commerce, the hotels, and the shops may welcome the surge, but what about the rest of the citizens?
+
+A temporary rise in the local economy benefits some but not all. The people who work in the tourism industry may suddenly find themselves priced out of the housing market. The local shops, including grocery stores, are likely to increase their prices to the detriment of the locals. Every home with an extra room may turn into an Airbnb overnight for as long as the cruise ship is in town. The town’s sewage system is adversely impacted, road traffic becomes a nightmare, and little attention is paid to the environmental effects of these ships. Here is a little-known fact about cruise ships: the workers are mostly Asian; their overlords are all white.
+
+What McClanahan fails to mention in her book is that the ugly behaviour of Western tourists, especially in the Global South, is also driven by a racist and colonial mindset that ignores local social, cultural, and religious norms. Moreover, when these visitors are arrested by local police on traffic and drug-related charges, a phone call to the nearest consular representative of their home countries is all it takes to get them released with few consequences. This is a throwback to the principle of extra-territoriality from the colonial times. Indian tourists in the US engaging in acts of vandalism face stiff fines, long prison sentences, and subsequent deportation. Rarely do Indian consular officials intercede.
+
+Medical tourism has become a profitable add-on for the hospitality industry. Since medical care is much cheaper in the Global South than in Western nations, chartered flights from cities such as Frankfurt and San Francisco commonly take patients to big private hospitals in Mexico, India, and the Philippines. However, this has an undesirable side effect: local private hospitals ignore local patients and prefer foreign ones since they can be charged more.
+
+Regarding tourist misbehaviour, is there any need to announce to the world that Tarzan loves Jane or Rinku loves Tinku in childish scribbles on Egypt’s Pyramids or carved into the barks of trees in city parks? Incidents involving naked tourists in Cambodia’s Angkor Wat led the authorities to order crackdowns. In one particularly egregious incident in 2016, a Dutch tourist in Myanmar had the nerve to disconnect the loudspeakers carrying Buddhist prayer chants because they were interrupting his sleep. He was jailed for three months.
+
+The East is not the Westerner’s playground to do as they will. A cautionary note is provided by what has happened in Jamaica. The local government cut off access to many of the beaches and ceded the shorelines to big hotel chains, if only to benefit private investors and tourists. This has deprived Jamaicans who depend on the sea for their livelihoods. I can bear witness to the fact that portions of the beach in Vizag have already been made off-limits to the general public since they adjoin big hotels.
+
+Barcelona has been at the centre of the pushback against overtourism. The protesters’ placards, asking tourists to “go home”, may soon resonate in distant cities strained under the promise of a thriving tourism economy.
+
+(Roger Marshall is a computer scientist, a newly minted Luddite and a cynic)
+
+[Read full article](https://www.deccanherald.com/opinion/the-hidden-costs-of-the-tourism-boom-4062592)
+
+---
+
+### Why Bollywood won't make its next 'Dhurandhar' about China
+*Deccan Herald · Opinion*
+
+While watching and absorbing the hype and hyperbole engulfing the Dhurandhar films, this writer kept hearing a counter-intuitive question: Why hasn’t mainstream Indian cinema, especially Bollywood, which carries the load of muscular hyper-nationalism, done to China and the Chinese what it has done to Islam and Pakistan in a series of films leading up to Dhurandhar?
+
+Some of our cinema has gone hammer and tongs against Indian Muslims over their “allegiances”, expediently forgetting that a sizeable population of Hindus live in and send money from Islamic nations, enabling them with better economic prospects than in India. Bollywood lampoons Pakistan but is unwilling to confront the true superpower of the 21st century, which sometimes subtly, sometimes brutally, transgresses boundaries.
+
+Juxtaposing the growth of China and India inconveniences many Indian hyper-nationalists. China’s usually inscrutable and spasmodically unsubtle assertions concerning the big-ticket matters of the world disconcert these hyper-nationalists and erode specious perceptions of Indian might. Therefore, confronting Muslims and Pakistan becomes a lot easier. Battling China in popular culture could be the real deal, but India’s soft-power impresarios continue to pull away from that punch.
+
+China, perhaps even more than Pakistan, merits a Dhurandhar-like portrayal. In the recent past, one must not overlook how influential China has been over matters involving Pakistan and India, consistently favouring the former. How can one disregard the 2020-2021 skirmishes along the Line of Actual Control? Yet, that is where Bollywood will draw the line. Let me explain why.
+
+Pigeonholing Muslims and demonising Pakistan are far easier within the populist vocabulary of film, since these notions have been in the cultural ethos for long and thus have established idioms and cliches. But, even from the scaffolding of propaganda, an anti-China film poses filmic and intellectual challenges.
+
+Star power and the political divide between Tamil and Hindi cinemaDhurandhar did not occur in a vacuum: Entire influence machineries and preceding films tilled the ground for its almost preordained triumph. In the common imagination, typecasting Muslims and Islam got hardwired, in particular in the last twelve years. Treating China likewise is tough. Notably, producers of the upcoming Salman Khan-starrer Maatrubhumi, set around the Galwan clash, have dismissed reports that the film is facing censor issues.
+
+It makes for an enthralling line of inquiry: If attempted, how would an anti-China Hindi propaganda storyboard appear? For one, the makers would have to liken China to how Dhurandhar showed Pakistan. That is unconvincing, for much of China may look better than India. There, the premise of a Chinese Dhurandhar already looks rickety. In the ossifying of Muslims, the Urdu language has been parodied and caricatured. A similar attempt involving China implies investing in knowing the many major dialects of the Chinese language. That is more trouble; even AI might not help, yet.
+
+Then, there’s the facial visualisation. The Indian mainstream tends to fossilise Muslims; it treats people from the North East almost correspondingly. Now, if we consider Dhurandhar as the template for a muscular Hindu India, then there’s no other choice but to show mongoloid-featured folks as savages. That depiction sits at odds with people who have given a firmer handshake to parties that have brought Hindutva to their states. Cinematically, it’s challenging to nuance and individuate the facial and other distinctions of Indians bearing mongoloid features vis-a-vis the Chinese. Upshot: this film requires artistry and depth—qualities our propagandists lack abundantly.
+
+In the Cold War era, Hollywood dropped a blitz of films demeaning Russians, Arabs, and Africans. They, too, might find such an enterprise hard. Moreover, clothing, utensils, camera equipment, mise-en-scène materials, and software technologies deployed for such a film might be ‘Made in China’. After watching Dhurandhar, I wondered how China must have profited from a Bollywood film on Karachi. I now wish for Dhurandhar parts three, four, and more, and they tackle India’s other neighbours (once friends, now not so much) like Bangladesh, Sri Lanka, and Nepal. The lower-rung foes underestimate India’s wingspan and heft. They must be taught a lesson, even if they possess Chinese ammunition. Groan.
+
+(Rahul Jayaram teaches at the School of Film, Media and Creative Arts, R V University, Bengaluru)
+
+[Read full article](https://www.deccanherald.com/opinion/why-bollywood-wont-make-its-next-dhurandhar-about-china-4062591)
+
+---
+
+### Radio silence: Central banks leave markets flying blind
+*The New Indian Express · Opinion*
+
+Updated on: 04 Jul 2026, 6:33 pm4 min readCopiedFor the first 70 years of the automobile, cars had no seatbelts. Nash Motors offered lap belts in 1949 but buyers rejected it, and governments looked away till it was made mandatory in the US in 1968. The logic was, “We always managed without it.” That logic was never defeated by argument. It was defeated by the body count.
+
+The saga merits attention. This week, the world’s most powerful central bankers gathered at the ECB Forum at Sintra in Portugal. Forward guidance—signalling the path of interest rates—was given a joint burial by the central banks of the US, Europe, Britain and Canada. ECB’s Christine Lagarde even offered the eulogy regretting she felt “bound and compelled” by it. Kevin Warsh, the new Fed chair, declared “common cause” with his mantra: no forward guidance. India’s RBI, notably, has not yet boarded the silence wagon—suffice to say silence is not an indulgence developing economies can afford.
+
+Alan Greenspan practised ambiguity; Sintra has proclaimed it. The timing is an indictment. Earlier this week, a Bank for International Settlements report named the AI investment boom a threat to financial stability. It warns that repricing caused by higher rates or an AI bust could be as disruptive as the crisis of 2008. Paradoxically, researchers warn of a crisis-scale correction; the principals respond by switching off the lights.
+
+The risks are not hypothetical. The largest hyperscalers are pouring over a trillion dollars on AI infrastructure. The gap between available cash and need is bridged with debt, much of it in off-balance-sheet vehicles tied to insurers and banks. Add circularity and deals so opaque that the same asset risks being pledged twice. The bankers know it— Bank of England’s Andrew Bailey catalogued the leverage on stage; Bank of Canada’s Tiff Macklem warned of a painful correction.
+
+What Sintra withdrew was the word map. The case for silence is that the world managed without guidance in the past. It is true that till 1994, the Federal Reserve didn’t disclose the Funds Rate, even litigated in 1976 to deny disclosure and ended the release of minutes. Rate announcement began in February 1994—at the very meeting that detonated the $1.5-trillion bond massacre. The market could not navigate the surprise tightening and the resultant crash entrenched what the courtroom could not compel. The bond market got its seatbelts the way cars got theirs—after the crash. Forward guidance arrived a decade later.
+
+Today’s market is not the one Greenspan mumbled at and nudged. It is driven by sentiment engines, by algorithms trading in milliseconds. The reality was flagged by Bailey at Sintra. Under the circumstances, hyper-volatility is a given. Warsh, however, asserted that “volatility is not up, it’s down” since forward guidance was dumped. Fact is, two-year bond yields jumped 15 basis points; Dow hit a high and then shed 1,151 points in two days. Semiconductors plunged 6.5 percent in a session, the US dollar hit a 40-year high against the yen and the rupee fell despite RBI’s new wall against free-kicks. Volatility has not fallen, but migrated.
+
+The no-guidance thesis does not survive its own logic. Warsh & Co say markets freed of guidance will price data independently. The question is whether central banks will treat this as uncontaminated information or an instrument of affirmation. Without a published reaction function, every decision can be retro-fitted as data-consistent. The abolition of guidance is, effectively, the abolition of the audit trail.
+
+The dodge of Sintra triggers an existential question. Central bankers have repeatedly stated they will not comment on deficits, tariffs or fiscal expenditure of governments that drive inflation more than any output gap. Now they will not disclose views or intentions on inflation or rates either.
+
+Consider the context: governments define fiscal expenditure, consumers define consumption levels and markets price risk. If the central bank offshores pricing to markets, renounces both commentary and prophecy, what justifies its place at the pulpit?
+
+Yes, they will determine policy rates. The policy rate, though, only touches overnight money. That which matters—mortgages, bonds, the yen, the rupee—are priced on the expected path of policy. Expectations are not a fashionable accessory in debates; they are the driver of transmission. Transparency about the present and silence about the future is not a policy, but a perilous contradiction.
+
+Greenspan wrote in Ayn Rand’s newsletter in 1966: “Deficit spending is simply a scheme for the confiscation of wealth.” He then ditched Rand at the altar of alternative monetary theories and read vows with the market to practise discretionary pricing. The strategy was scaffolded by overt incoherence and covert action—the market rescues for 1987, LTCM collapse, dot-com burst. The Fed Put was actually born as the Greenspan Put. The belief was Greenspan would step in to save markets. The halo was wrecked by the confession before the US Congress in 2008 that he “found a flaw in the model”, the ideology that markets discipline themselves.
+
+Warsh is Greenspan’s heir in method—constructed ambiguity, distrust of official data and faith that markets deprived of guidance grow up. The challenge to this belief is right around the corner—concentration risk in tech stock valuations, opacity of private credit bubbling into redemption gates, profligacy of governments. The central banks may not see it, but the Sintra consensus consecrated a church that abolished sermons to assume infallibility.
+
+Forward guidance was the three-point belt central banking invented after its own crash of 1994. At Sintra, the belt was unbuckled. Seventy years of motoring swore seatbelts were unnecessary—right up to the windshield. Markets are now asked to ride the fastest vehicle finance has ever built on the same assurance.
+
+Author of The Gated Republic, Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/Jul/04/radio-silence-central-banks-leave-markets-flying-blind)
+
+---
 
 ## 4 July 2026
 
@@ -62,6 +155,129 @@ Radical groups could regain groundNeither Russia nor China have gained much from
 M.K. Narayanan is a former Director, Intelligence Bureau, a former National Security Adviser, and a former Governor of West Bengal
 
 [Read full article](https://www.thehindu.com/opinion/lead/the-iran-conundrum-and-the-decline-of-the-west/article71179900.ece)
+
+---
+
+### Anita Katyal | Yogi Left To Face Ayodhya Music... Will Venugopal Be Next Cong Prez?
+*Deccan Chronicle · Opinion*
+
+The large-scale theft of donations at the Ram Mandir in Ayodhya has predictably dominated newspaper headlines and has been the subject of animated debates on television news channels. Reactions expressing anger and disbelief have been pouring in while political parties, especially the Congress and the Samajwadi Party, have been seeking accountability from Prime Minister Narendra Modi since he had handpicked the members of the trust which manages the Ram Mandir. Even as accusations and allegations are flying thick and fast, the Bharatiya Janata Party’s top brass has maintained a studied silence on this burning issue. That there has been no word from Mr Modi or any other senior party leader appears surprising since the Ram Mandir movement was at the heart of BJP’s agenda and the construction of the temple was touted as the party’s biggest achievement. However, BJP insiders maintain the party’s response, or rather lack of it, is actually a well-thought-out strategy to keep Uttar Pradesh chief minister Yogi Adityanath in the spotlight through the raging controversy.
+
+While everyone else has deliberately taken a backseat, Yogi has been left to respond to questions about enquiries, FIRs and arrests. Incidentally, this decision to remain silent is also being viewed as a fall-out of the known tensions between Yogi and home minister Amit Shah. Another theory is that the “chanda chori” campaign is being conveniently used to put Yogi down as he is seen as a possible future prime ministerial contender along with Maharashtra chief minister Devendra Fadnavis.
+
+When the media splashed reports about an alleged land scam involving Madhya Pradesh chief minister Mohan Yadav’s extended family, it was expected that the Opposition would hit the streets and run a full-scale campaign on this issue. But from all accounts, the Congress has failed to do so. The state Congress chief Jitu Patwari did hold a press conference demanding Mr Yadav’s resignation and a probe by a sitting Supreme Court judge while the Congress Party’s Delhi office has held a few press briefings on the subject.
+
+But the Congress has been unsuccessful in pinning down Mr Yadav. Instead, the Congress state unit has got caught up in factional battles. A few state Congress leaders, including former Madhya Pradesh chief minister Digvijaya Singh, even sought to play down the controversy by going soft on the chief minister. Reports from Madhya Pradesh suggest that the growing discontent with Mr Patwari has stymied efforts to mount a campaign against the chief minister. A section of the state unit is convinced that Mr Patwari’s press conference was nothing more than an act as he is known to be on friendly terms with the chief minister. Patwari’s camp followers, however, charge that Digvijaya Singh is not allowing the party’s campaign to pick up speed.
+
+As a result, a divided Congress is busy waging war against its own instead of putting up a joint fight against Mohan Yadav.
+
+After a series of meetings, the Congress finally unveiled the party’s election-related committees for Punjab last week. There had been considerable chatter when these discussions were underway that former chief minister and the party’s well-known Dalit face Charanjit Singh Channi would replace Amrinder Singh Raja Waring as the president of the party’s state unit. As these reports gained traction, there was a major revolt in the party with many leaders going into sulk mode while others openly threatened that they would not contest next year’s assembly polls if Mr Channi was given charge of Punjab Congress. These threats posed a big problem for the Congress leadership which held as many as eight rounds of meetings to discuss the organisational structure for assembly polls. It is clear from the final announcement that the threats worked as Waring has been retained as Punjab Congress chief while Pratap Singh Bajwa is to continue as leader of opposition. Mr Channi has been given charge of the campaign committee. The effort here has been to accommodate all the main players but, in the process, the Congress has also created some confusion about its chief ministerial face as Waring, Mr Bajwa and Mr Channi all see themselves as contenders for the top job.
+
+Each time the Congress organises any public meeting, the posters and billboards adorning the stage or plastered across the venue, feature photographs of Congress president Mallikarjun Kharge, Sonia Gandhi, Rahul Gandhi and could even include Priyanka Gandhi Vadra. Lately, it has been noticed by many party leaders that another photo is being increasingly featured in the publicity material for a party programme. The new face is none other than of the all-powerful K.C. Venugopal, Congress general secretary in charge of organisation and more importantly, known to be close to Rahul Gandhi. This is a clear signal that despite all the complaints about him, Mr Venugopal’s stars are on the ascendant. Congress insiders maintain they will not be surprised if Mr...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/anita-katyal-yogi-left-to-face-ayodhya-music-will-venugopal-be-next-cong-prez-1968393)
+
+---
+
+### Pavan K. Varma | If Passports Not Proof Of Citizenship, What Is?
+*Deccan Chronicle · Opinion*
+
+As a diplomat, I have been posted abroad and travelled the world.
+
+In doing so, the passport I have held, declaring me to a citizen of the Republic of India, an emerging major power and a great civilisation, is a matter of abiding pride for me. I was, therefore, perplexed why the ministry of external affairs (MEA) recently announced that a passport is not proof of citizenship.
+
+The government must have its reasons, but for decades Indians have understood that a passport was a solemn affirmation that the holder was a citizen of India. The process of obtaining it requires extensive pre-checks. Applicants must furnish documents, establish identity, provide proof of residence and undergo police verification. The passport was issued not merely because a person wished to travel abroad, but because the state was satisfied that he or she belonged to India. In fact, Section 6 (2) (a) of the Passport Act specifically says that a passport can only be issued to a citizen of India.
+
+Indeed, the emotional significance of the document went beyond its administrative utility. It represented a bond between the individual and the nation. For millions of Indians travelling overseas, it was not merely a booklet but a declaration of identity and belonging. It is true, of course, that passports can be fraudulently obtained by concealing facts, forging documents, or misrepresenting identities. In such situations, the State has every right to cancel the passport, and prosecute the offender. But the existence of fraudulent passports should not normally be used to negate the basic presumption that a valid passport issued through due process is evidence of citizenship.
+
+Many citizens have asked me which document is now proof of citizenship. Election cards can be obtained fraudulently. Ration cards can be manipulated. Aadhaar cards can be misused. Property documents can be forged. The issue becomes more troubling when viewed against the larger backdrop of documentation in India today. Aadhaar is not proof of citizenship. Election cards are not proof of citizenship. Ration cards are not proof of citizenship. Birth certificates are often challenged on procedural grounds. Now, if passports too are not proof of citizenship, the inevitable question arises: what exactly is proof of citizenship?
+
+A modern State cannot function on the basis of ambiguity. Citizenship is not a philosophical abstraction. It is the foundational status upon which all constitutional rights ultimately rest. Before one can exercise the right to vote, claim legal protections, seek government benefits, or enjoy the privileges guaranteed by the Constitution, one must first be recognised as a citizen.
+
+If no commonly accepted document conclusively establishes this status, the burden shifts decisively from the State to the individual. Instead of the State certifying citizenship through its institutions and documents, the citizen is compelled repeatedly to demonstrate that he belongs.
+
+This inversion is, to my mind, very problematic. When the State reserves for itself the right to question citizenship despite having issued documents that traditionally established it, the citizen enters a zone of unacceptable uncertainty. He possesses papers, yet the papers may not suffice. He complies with procedures, yet compliance offers no finality. If citizenship remains perpetually contestable, discretionary powers inevitably expand. Officials acquire greater authority to demand additional proof. Citizens become vulnerable to arbitrary interpretation and bureaucratic satisfaction.
+
+In many countries, including the United States, the United Kingdom, Canada, Australia, and most European nations, a passport is generally accepted as strong evidence of citizenship, precisely because citizenship is ordinarily verified before issuance. This does not mean that passports are infallible. Governments retain the authority to revoke passports obtained through fraud or mistake. But the ordinary citizen carrying a valid passport is not expected to live under a permanent cloud of doubt regarding his nationality.
+
+The principle is straightforward. Verification occurs before issuance. Once the document is issued, the presumption operates in favour of the citizen unless compelling evidence establishes otherwise.
+
+History teaches us that whenever discretion expands at the expense of clearly defined rights, the balance tilts away from the citizen. Democracies are strengthened not by enlarging uncertainty but by reducing it. The State must certainly guard against fraud, illegal migration and identity manipulation. These are legitimate concerns. But the remedy lies in strengthening scrutiny at the point of document issuance, improving verification mechanisms, integrating databases, and enforcing penalties against deception.
+
+A passport occupies a unique place in the hierarchy of official credentials. It is granted after multiple layers of verification. It is recognised internationally. It is accepted by...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/pavan-k-varma-if-passports-not-proof-of-citizenship-what-is-1968412)
+
+---
+
+### Shashi Warrier | How Certificates Can Become Big Business
+*Deccan Chronicle · Opinion*
+
+Ex-professor Raghavan turned up one evening, looking careworn and despairing. “What’s up?” I asked, seating him and fetching him a large drink.
+
+“I don’t think we’ll ever have a good education system in this country!” he said.
+
+Prita joined us with snacks. “Why?” she asked as he helped himself. “You’ve seen how well graduates from our better universities do when they go abroad.”
+
+“They’re the exceptions,” Raghavan replied. “They’re mostly the best products of the IITs. They’re the best one per cent of the best one per cent. The average degree-holder from the average Indian university is unemployable.”
+
+“Hasn’t it been like this for the last fifty years?” asked Prita.
+
+“Yes,” replied Raghavan. “But the system’s getting worse. You know about the Neet question papers leak.”
+
+“What about the New Education Policy of 2020?” she asked.
+
+“People think that the new policy caused the leak,” said Raghavan.
+
+“How could that be?” asked Prita.
+
+With the new policy,” said Raghavan, “the government introducted centralised exams like Neet and CUET. That’s given birth to a new range of institutions that coach students for these exams. More and more people who can afford it — and some who can’t — are shifting to private schools and coaching classes with centralised curricula that train youngsters specifically for these tests.
+
+“The NEP said that it’s about testing ‘core competencies’, whatever that is, and not ‘rote memorisation’, whatever that is… But what it’s really gone and done is create more coaching classes. And, of course, they’re more competitive than ever.”
+
+The doorbell rang just then, and, when I opened the door, there was Murthy on the doorstep, leading with his nose for Scotch, as usual. “I was passing by…” he began.
+
+“Come right in,” I said, interrupting him. “Raghavan’s already here, upset and consoling himself in the usual manner, and I’ll get you your drink right away.”
+
+“It’s been difficult all round,” said Murthy. “Let’s see what we can make of Raghavan’s problem.”
+
+I went off to the kitchen to fetch refreshments and a glass for Murthy while Prita and Raghavan brought Murthy up to date with Raghavan’s complaint. As I handed Murthy his glass and a napkin, Raghavan began telling us all why it all happened. “The education policy has got it backwards,” he said. “We should have started with schools before we moved on to colleges. If you have poor schooling standards there’s no kind of policy that’s going to make sure that college education will be good.”
+
+“But who decides what schools teach,” asked Murthy, “and how they run examinations?”
+
+“State governments,” replied Raghavan.
+
+“That’s part of the problem,” said Murthy. “Unless states follow a broadly uniform school education policy, how can the central government implement a working higher education policy across the country? So it’s not that easy.”
+
+“It isn’t,” said Raghavan, “so what do you propose we do?”
+
+“I haven’t proposed anything,” said Murthy, “and I won’t.”
+
+“Why not?” asked Raghavan.
+
+“Because no education policy is perfect,” replied Murthy. “We live in an electoral democracy, so the opposition will always oppose any education policy. You see, people vote for politicians they like, and, broadly, they get what they asked for.”
+
+“What do you mean?” asked Raghavan.
+
+“I mean that people want to go through school and college without trouble,” said Murthy, “and, at the end of their education, get jobs with good salaries, healthcare, regular raises, a pension at the end of it… No party or leader can deliver that.”
+
+“So?” asked Raghavan.
+
+“A working education policy would teach kids to think,” replied Murthy, “and they’d figure this out for themselves, and maybe vote for someone different. No politician wants that. So there’s no way you’re getting an education system that makes students capable of thinking critically.”
+
+“What about the problems with the present system?” asked Raghavan.
+
+“Remember the Roman poet, Juvenal?” said Murthy. “He talked about how the emperor gave the masses just enough bread to survive, and distracted them with circuses. Well, this Neet paper leak is one of the circuses…”
+
+“What do you mean?” asked Raghavan.
+
+“Only a few people, committed teachers like you and maybe a few journalists and others,” replied Murthy, “want a better system. Others might want it, but they prefer distractions like the Neet scandal, or that shootout in Patna between the founders of the two most popular coaching centres in the city. That’s the big circus. The public wonder who’s going to win: Khan Saheb or Roshan Anand. Like a cricket match.”
+
+“But that’s mafia violence!” said Raghavan. “What’s that got to do with education policy?”
+
+“Where there’s money there’s mafia,” replied Murthy. “Their touts work with coaching centres. A few days before the examinations, they spread rumours that the paper’s been leaked, that it can be had for a certain large sum of money. Anxious parents pay large amounts of cash to touts, who give them papers that look like the...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/shashi-warrier-how-certificates-can-become-big-business-1968408)
 
 ---
 
@@ -151,6 +367,45 @@ We are pouring effort into licensing the input, where the act is borderless, and
 (The writer is a dual- qualified lawyer [India and UK] and teaches law at Cyril Shroff Centre, Jindal Global University)
 
 [Read full article](https://www.deccanherald.com/opinion/reframing-copyright-for-the-ai-age-4061487)
+
+---
+
+### India’s cities drown in neglect
+*The New Indian Express · Opinion*
+
+This is not nature’s fury alone. It’s the predictable, man-made catastrophe born of corruption, indifference and criminal neglect by those sworn to serve. It’s an annual festival of fatalities caused by failures on all fronts. India has been pushed into an engineered paralysis.
+
+India’s urban landscape is governed by more than 250 municipal corporations and thousands of municipal councils and nagar panchayats. These bodies—bloated with babus, contractors and politicians locked in a rotten nexus—have presided over the systematic collapse of civic life. Every monsoon exposes their failure with brutal clarity.
+
+Consider the deluges that have become annual rituals. In 2005, Mumbai’s streets swallowed more than 1,000 lives as the Mithi river and silted drains failed spectacularly. Chennai in 2015 saw three-fourths of the city submerged, displacing over 500,000 people amid choked waterways and vanished wetlands. Delhi, Bengaluru, Hyderabad and countless tier-2 cities repeat the horror yearly—water-logging that electrocutes pedestrians, stalls traffic for days and turns homes into cesspools. Major drains in Mumbai, Chennai and Delhi lie completely silted, their desilting either botched or abandoned.
+
+Newly-laid “world-class” roads crack within months, victims of substandard material, kickbacks and zero maintenance. Traffic in tier-2 cities has become a daily apocalypse. Poor road engineering narrow lanes, missing signals, chaotic junctions combined with lazy, bribe-hungry traffic police creates gridlocks that devour hours and fuel.
+
+Ambulances crawl while patients die. The stench of failure hangs everywhere. Piling garbage chokes roads and pavements because municipal agencies have no scalable solution for waste amid a real-estate boom that spews construction debris and household refuse.
+
+The Swachh Bharat Mission, once hailed as transformative, lies in tatters. Celebrity ambassadors and local volunteers have vanished. Landfills in major cities remain uncleared in many cases; segregation is inconsistent; processing claims mask overflowing dumps and toxic leachate. Big cities routinely rank poorly in cleanliness surveys. Foreign visitors increasingly skip India or cut short trips, repelled by the filth that greets them at airports and follows them everywhere.
+
+The Smart Cities Mission, meant to revolutionise 100 urban centres with modern infrastructure and technology, has been all but forgotten. After extensions and over Rs 1.5 lakh crore used by early 2025 across thousands of projects, only a handful of cities achieved anything close to transformation.
+
+Data from the Council for Active Mobility shows that only 9-20 percent of footpaths in major Indian cities meet official standards. Vast majorities are encroached by hawkers, illegal parking, shops and debris. Illegal construction is the cancer eating our cities alive. Far more unauthorised buildings rise every year than approved ones in many cities. They violate every fire-safety norm, lack emergency exits and proper structural integrity.
+
+In Delhi alone, the municipal corporation booked 4,766 unauthorised constructions in 2025 and issued thousands of demolition orders. Nationwide, structural collapses linked to illegal or substandard buildings have caused thousands of deaths in recent years. Fire accidents tell an even grimmer tale: in 2024, the National Crime Records Bureau recorded 5,971 fire accidents that claimed 5,888 lives—nearly 16 deaths every single day.
+
+Authorities wake up for a few days of token action after each tragedy and then slip back into slumber. The nexus between babus, contractors and politicians ensures violators escape with nominal fines or political protection. At the rotting core of this national disgrace stands the highly-protected Indian bureaucracy—the IAS officers, state civil servants and municipal commissioners who enjoy near-impenetrable job security under service rules that render dismissal virtually impossible even for gross negligence or corruption. These mandarins, cocooned in their air-conditioned offices and fortified by Article 311 protections, routinely receive promotions, foreign postings, gubernatorial sinecures and fat pensions while the cities they were meant to serve degenerate into open sewers.
+
+They sign off on illegal constructions that violate every safety code, ignore decades of silt accumulation in critical drains, rubber-stamp shoddy road projects that collapse in the first monsoon, and preside over the criminal mismanagement of garbage and footpath encroachments.
+
+While citizens drown in sewage, get electrocuted on flooded roads and lose loved ones in building fires, these bureaucrats climb the career ladder with clockwork regularity, collecting salaries, perks and assured retirement benefits as if the rotting infrastructure were someone else’s problem. Even official reports have exposed the pathetic conditions of Indian cities. According to an assessment of 4,589 urban local bodies done under Swachh Survekshan, 3,642 including Greater Mumbai and Bengaluru scored zero out of 1,300 allocated for the garbage-free city metric.
+
+They thrive on the very decay they create. They are fully protected by both the rules and the political rulers. While the civic agencies and the protected bureaucracy have failed the nation, ordinary Indians are equally responsible for making India dirty and chaotic.
+
+They keep their homes spotlessly clean, yet casually throw garbage on roads, indulge in illegal construction, encroach upon pavements and drains. Even NGOs engaged in promoting green and clean India spend more time of promoting technologies and products than guiding the citizens to about cleanliness.
+
+Citizens cannot demand accountability from the system while they themselves perpetuate filth, chaos and corruption through their own actions. A total, uncompromising ban on illegal construction must be enforced with immediate demolitions and criminal prosecutions. Long-term jail terms, not fines, for violators, builders, complicit officials and politicians must be put in place. Civic engineers and municipal officers who enable encroachments or approve unsafe structures must face dismissal, blacklisting and prosecution. The Centre must impose binding model civic plans on all states, with real-time monitoring and funding linked to performance. The toxic nexus must be shattered through independent oversight, asset disclosures, swift transfers and exemplary punishment.
+
+Both the authorities and the citizens must face ruthless accountability. Without radical, immediate action, India risks being branded as the dirtiest major nation. Indian cities are drowning literally and figuratively. The monsoons will return. The question is whether India will finally wake up before the next body count rises. The time for excuses is over. The time for ruthless accountability is now.
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/pc/2026/Jul/04/indias-cities-drown-in-neglect)
 
 ---
 
@@ -336,70 +591,6 @@ Meanwhile, millions of Indians looking for opportunities and a better life flock
 America and India came geopolitically closer after President Bill Clinton’s India visit in March 2000, followed by the signing of the civil nuclear agreement under George W....
 
 [Read full article](https://www.deccanchronicle.com/opinion/columnists/indranil-banerjie-america250-could-it-still-inspire-the-world-1968171)
-
----
-
-### OF CABBAGES AND KINGS | Straits Of God? Of A ‘Parsi Peg’ & Whisky Brand Called ‘Hormuz’! | 
-Farrukh Dhondy
-*Deccan Chronicle · Opinion*
-
-“The sun is sinking in the West,
-
-Dinner dishes go down in the sink --
-
-Sauvignon Blanc is undoubtedly best --
-
-It’s time for a writer to drink!
-
-Orange skies -- a radiant sunset
-
-Which calm the emotions to see --
-
-Those ones I saw and won’t forget
-
-Looking at skies -- just her and me?”
-
-From The Songs of Rose Leyti, by BachchooRegime change looms ahead in the UK, and so, gentle reader, it’s reasonable to expect my speculation about the direction Andy Burnham’s premiership will take. But no. I’ll wait till he’s actually in 10 Downing Street and chooses a Cabinet. Instead, today, I will turn to a strange intrusion that’s come my way.
-
-This column’s name, as you perhaps know, comes from Lewis Caroll’s rhyme in Alice in Wonderland:
-
-“The time has come, the Walrus said…/ To talk of many things/Of shoes -- and ships -- and sealing wax/ Of cabbages and kings…”
-
-I have very little to say about sealing wax, and, despite the fact that every commentator makes predictions about tomorrow’s UK, the time hasn’t come, for me, to talk about it.
-
-Instead, here’s a strange, perhaps surrealistic and provocative offshoot of another international tangle of our times -- the US-Israeli war with Iran.
-
-The world has been hit by financial crises owing to the closure of the waterway adjacent to Iran known as the Strait of Hormuz. Iran has mined this stretch of water to blow up any shipping and especially tankers carrying supplies of Middle Eastern oil to its buyers across the world.
-
-Apart from a break in the bombing of Lebanon, and the surrender of nuclear capability by Iran, opening of the Strait of Hormuz to shipping has been one of the chief aims of the hesitant or non-existent “ceasefire negotiations” of this war.
-
-It has, so far, come to nothing. Hormuz remains closed.
-
-And this fact has inspired an AI-constructed joke on the Internet which has, I believe, “gone viral”. A friend sent it to me. It’s the picture of a bottle of whisky called “Hormuz”. The label says it’s a “single malt”, the category which is more expensive than “blended” whisky.
-
-My friend’s caption to the photograph, or AI-generated picture (is it called a “meme”?) was something to the effect of “open up Hormuz”, presumably with a swig, to calm the anxiety caused by this murdering, destructive war.
-
-If the actions of the United States had, as Orangeeboob originally intended, led to the rapid elimination of the cruel Iranian regime, it would have been welcomed by the civilised world. Donald Deranged Duck didn’t know what he was doing, or how to do what he wanted, and so it didn’t happen.
-
-I respectfully assume, gentle reader, that none of this is news to you and that my comments are unnecessary! But what perhaps some of you don’t know is that Hormuz is the short form of “Ahura Mazda”, the “God of wisdom” or the supreme intelligence and light or energy of the universe -- the name for the monotheistic god of the Zoroastrian religion -- that of my family and my birth.
-
-One of my ancestors and very many Parsis (Zoroastrians) are named “Hormuzd”, shortened in many instances to “Homi”.
-
-I have, throughout my short and happy life, wondered why any community would call a boy child by the name of God. There are Christian boys in Portugal called Jesus, but there aren’t Jewish lads called Jehovah and calling a Muslim boy Muhammad is acceptable, but humans can’t be called Allah.
-
-I suppose calling a stretch of the sea the Straits of God might be okay, but calling a mortal man Hormuzd -- Ahura Mazda -- is surely wrong? I came to the conclusion that over the years there had been an unconscious literal slip – that the original name was “Hormuzdyar”, which means the “friend of Ahura Mazda”, rather than God himself. That had slipped in usage to become Hormuz or Hormuzd and then “Homi”.
-
-I am, as a born Zoroastrian, grateful to Ahura Mazda for keeping the religion devoid of ayatollahs. Yes, we’ve always had Dasturs, head priests and people who vainly regarded themselves as super-Dasturs, but nothing like the “supreme” ayatollahs, whose pronouncements become not “opinions”, as the translation of the word “fatwa” means, but commandments -- not perhaps carved in stone, but provocatively whispered into the steel of daggers and the barrels of guns?
-
-There was never in Zoroastrianism, as there is in some other religions, an injunction against alcohol. Quite the contrary. The culture of, or indulgence in, a “chhaanto-pani” (“a splash with water”) is prevalent amongst us Parsis. And then there’s the joke of the two-fingered measure of a “Parsi peg” – involving the distance between the forefinger and little finger held against the glass -- the breadth of a hand? Full measure.
-
-Freedom to consume alcohol may not make it permissible to name a single malt (or for that matter a blend) by the name of God. Stretches of ocean? Yes!
-
-But brands of whisky???
-
-My guess, gentle reader, is that even if there were Zoroastrian ayatollahs with severe dispositions, the natural tolerance within the...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/of-cabbages-and-kings-straits-of-god-of-a-parsi-peg-whisky-brand-called-hormuz-farrukh-dhondy-1968207)
 
 ---
 
@@ -1613,6 +1804,41 @@ The writer, as Dr Jekyll, is a Professor of Philosophy, Politics and Law, author
 Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
 
 [Read full article](https://www.deccanherald.com/opinion/nothing-is-delivered-4054649)
+
+---
+
+### Are you and I Indian citizens?
+*The New Indian Express · Opinion*
+
+The torment began from there. If these tokens of belonging collapse under legal scrutiny, then what remains of the India Bharatiyas thought they were part of? That wound has now been ripped open wider by the ministry of external affairs. On Passport Seva Divas, it announced that the Indian passport is nothing more than a travel document and carries no conclusive weight as proof of citizenship. The very ministry that issues this document under the Passports Act has chosen to publicly detach it from the citizenship the Act was written to protect.
+
+The torment deepens because this is not some distant legal quibble. It is the State reaching into the pocket of every citizen who has ever queued at a Passport Seva Kendra, submitted biometrics, and walked out believing the blue booklet affirmed their place in the nation. The Passports Act itself was framed in the language of belonging. Its preamble categorically states that passports would be given to those who are citizens of India.
+
+These opening words make this purpose unmistakable. Yet, the MEA now tells ordinary Indians that the passport they carry as the face of the nation proves nothing about who they are. This is not evolution of law. It is escalation of the same betrayal the courts exposed a year ago.
+
+Then, plastic and digital tokens were stripped of meaning. Now, India’s most solemn travel document is added to the pile of hollow proofs. The torture is not abstract. It lives in the quiet panic of families whose roots reach back to undivided India, whose papers vanished with Partition and time, and who now wonder whether even the passport they renewed last year will survive the next verification drive.
+
+The contradictions cut deeper than any courtroom observation. When the same MEA appoints heads of missions to represent India in foreign capitals, it hands them diplomatic passports on the strength of service records and the ordinary Indian passports it now disowns. Foreign governments accept these credentials without asking for extra proof of nationality.
+
+Elected members of Parliament and state Assemblies declare their citizenship through nomination papers backed mainly by voter registration certificates. No separate citizenship certificate is demanded or produced. If neither the passport nor the voter ID can establish that someone is Indian, how do these officials qualify to speak for the country or make its laws? The State extends quiet presumptions to those who govern while demanding ever more elusive proof from those who are governed. This asymmetry leaves ordinary citizens exposed while shielding the political class.
+
+Political reactions have only sharpened the divide. Opposition leaders have seized on the MEA statement as proof of deliberate confusion. Congress leader Rahul Gandhi described it as “an attempt to create an atmosphere of suspicion against every Indian so that the government can justify its voter-list purges”. West Bengal’s former Chief Minister Mamata Banerjee went further, calling the clarification “a dangerous game that questions the very identity of citizens who have lived here for generations”. Leaders from the INDIA bloc have echoed this, arguing that the timing is no coincidence.
+
+With voter-list revisions active in Bihar and West Bengal, they see the MEA intervention as a way to soften public resistance to stricter scrutiny by first undermining faith in existing documents. Government and BJP voices have pushed back with equal force, insisting the clarification is nothing new. A BJP spokesperson dismissed the outrage as “opposition mischief” aimed at distracting from the government’s efforts to clean electoral rolls of illegal entries.
+
+However, a section of the BJP leadership has privately echoed that the MEA’s “elitist” framing has created unnecessary domestic trouble, damaging the government’s image at a time it is performing strongly on other fronts. They believe the statement should have come from the home ministry, which actually handles citizenship, rather than from diplomats who do not understand the political sensitivities involved. These competing narratives have left citizens caught in the crossfire.
+
+The numbers reveal the scale of the confusion. Only about 2.5 percent of Indians hold passports. The government spent over Rs 12,000 crore building Aadhaar as the ultimate biometric link to existence. It is mandatory for banking, taxation and travel. Yet when the question turns to citizenship, the same system is dismissed as irrelevant.
+
+The Register of Citizens, the one document prepared after systematic government diligence every decade, remains frozen since 2011. A young professional applying for a job abroad now wonders whether her or his passport will be enough. The impact travels beyond borders. When India’s own government signals that its passport does not prove nationality, foreign immigration authorities gain fresh licence to demand extra verification from Indian travellers, students and professionals.
+
+Identity has been turned into perpetual interrogation. Citizenship has been reduced to suspicion. The latest blow has turned private anxiety into public policy. It arrives at a moment when the home ministry remains silent on the larger question of what actually constitutes proof of citizenship. The result is a system that demands evidence it knows millions cannot easily produce and then dismisses the evidence it has itself created. The motive appears less about doctrinal purity and more about manufacturing ambiguity at a politically charged juncture.
+
+India needs to end this democratic disgrace. It must issue like the US and Germany, a single, sovereign citizen card under the Citizenship Act that conclusively establishes nationality, voter eligibility and identity in one secure document.
+
+Other nations resolved this long ago. India has spent decades and vast sums building fragmented systems that the State itself can declare hollow at will. Until that single card exists, crores of Indians will continue to clutch their documents like charms, only to be told they are nothing more than scraps of plastic. The cruellest truth remains. After 79 years of freedom, the question of who is an Indian still drifts unanswered, haunting the very idea of India. As of now, I am a voter. But what about the future?
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/pc/2026/Jun/27/are-you-and-i-indian-citizens)
 
 ---
 
