@@ -1,3 +1,322 @@
+## 5 July 2026
+
+### Best Camera Phones Under Rs. 30,000 for Content Creators in India
+*Nithya P Nair · technology, mobile*
+
+Motorola Edge 70 Fusion has a dual rear camera setup headlined by a 50-megapixel Sony LYTIA 710 sensor.
+
+[Read full article](https://www.gadgets360.com/mobiles/news/best-camera-phones-under-rs-30000-content-creators-india-motorola-edge-70-fusion-samsung-galaxy-f56-11708108)
+
+---
+
+### Car mows down two women in Gujarat, hit-and-run caught on CCTV
+*India Today News Desk · general*
+
+## A speeding car struck two women walking in Mahisagar and the driver fled after abandoning the vehicle. CCTV footage of the crash has sparked outrage and intensified concerns over reckless driving.
+
+Speeding car mows down two women in Gujarat.
+
+A hit-and-run incident has surfaced from Gujarat's Mahisagar district, where a speeding, out-of-control car rammed into two women walking along a residential road in Lunawada town. The terrifying crash, caught on CCTV, has triggered outrage and raised fresh concerns over reckless driving.
+
+The incident took place in the Usmani Nagar Society near Mustafa Masjid. The CCTV footage shows two women walking along the main road when a fast-moving car approaches from behind and slams into them without warning. The impact is so severe that both women are thrown several feet into the air before crashing onto the road.
+
+Instead of stopping to help, the driver allegedly abandoned the vehicle at the scene and fled, leaving the injured women behind.
+
+Residents rushed to the victims' aid and shifted them to a nearby hospital. According to police, one of the women sustained serious injuries, while the other suffered minor injuries and is undergoing treatment.
+
+Police reached the spot soon after receiving information about the crash and seized the abandoned car. Officials said they are examining CCTV footage and other evidence to identify and trace the absconding driver.
+
+The investigation is underway, and legal action will be taken against the accused once he is apprehended.
+
+\- Ends
+
+with inputs from Viren Kumar Joshi
+
+Zafar Zaidi
+
+Jul 5, 2026 09:49 IST
+
+---
+
+### After a collapsed lung, son cracks JEE with mother's notes, secures IIT Delhi seat
+*Chetan Gurjar · general*
+
+## When Gunjan Kumar was bedridden with pneumothorax before JEE Advanced, his mother attended online classes and made notes for him. Her quiet intervention, alongside his resolve and teachers' guidance, helped the Kota student overcome illness and severe vision loss to move towards IIT Delhi.
+
+From caregiver to classmate: A mother's unforgettable contribution to an IIT dream
+
+Behind every success story scripted by students in Kota lies a journey of relentless effort, sacrifice, and determination. Parents' unwavering support and teachers' guidance play a vital role in shaping these achievements.
+
+This year, the success story of a student who cracked JEE Advanced after studying in Kota highlights the extraordinary contribution of a mother, who became her son's classmate in the truest sense.
+
+To ensure that his preparation did not suffer, she attended online classes, prepared detailed notes, and those very notes helped her son secure success. He is now set to join an IIT.
+
+This is the story of Gunjan Kumar and his mother Gunja, residents of Sitamarhi, Bihar. Gunjan had been preparing for JEE at ALLEN in Kota for two years when, just before the examination, he fell seriously ill.
+
+Diagnosed with pneumothorax (collapsed lung), he remained bedridden for nearly three months and was unable to attend classes. During this difficult period, his mother stepped in. To ensure that his studies continued uninterrupted, she played online lecture videos for him and simultaneously watched the classes herself, preparing comprehensive notes.
+
+A homemaker with a BEd degree, Gunja had been living in Kota with her son and, after many years, resumed studying so she could support his dream.
+
+Gunjan also suffers from severe vision impairment. With over 70 percent vision loss, he wears spectacles of 9.5 power. Despite these challenges, he secured the 91.8 percentile in JEE Main. In JEE Advanced, he achieved PWD OBC Category Rank 50 and Common PWD Rank 120. He is now set to fulfil his dream of becoming an IITian by securing admission to the Computer Science branch at IIT Delhi.
+
+His father, Rajnarayan Prasad, is an engineer with the Border Roads Organisation (BRO). His younger brother is also currently in Kota preparing for JEE.
+
+After the results, Gunjan said, "Circumstances are not always in our favour. Examinations test not only knowledge but also courage. I had decided that I would crack IIT-JEE by studying at ALLEN Kota, and I gave it my best. When I fell ill, my mother's support proved invaluable before the examination.
+
+The guidance of my teachers also helped me succeed. Students should always remain positive and keep looking ahead, no matter what challenges they face."
+
+Gunjan's mother, Gunja, said, "My son's dream is my dream. When he fell ill, I was naturally worried. We started watching the online lectures together, and I prepared notes for him. When those notes eventually helped him during his preparation, it gave me immense happiness."
+
+Naveen Maheshwari, Director of ALLEN Career Institute, said, "Kota is a source of real motivation not only for students but also for parents. This city does not merely prepare students to clear examinations; it builds confidence and teaches them how to overcome challenges. Gunjan's story is an inspiration for both students and parents."
+
+### WHY HE CHOSE TO COME TO KOTA
+
+Despite his weak eyesight, Gunjan had big dreams. He chose ALLEN Career Institute, Kota, to prepare for JEE because his goal was to study at an IIT. He never allowed his physical limitation to define his identity. He scored 82.5% in Class 10 and 70% in Class 12.
+
+Before coming to Kota, Gunjan researched the best coaching institute for JEE preparation. During his search, he came across a video of Mridul Agrawal, ALLEN's student and the All India Topper of JEE Main and JEE Advanced 2021.
+
+Inspired by Mridul's success, Gunjan decided to come to Kota. He persuaded his parents to send him there. Seeing his determination, the family fully supported him, and in 2023, he joined ALLEN Career Institute, where he began turning his dream into reality.
+
+### PNEUMOTHORAX IN OCTOBER, EXAMINATION IN JANUARY
+
+Everything was progressing well after Gunjan arrived in Kota until life presented him with its biggest challenge just before the examination. On 5 October 2025, he appeared for a routine test at the institute.
+
+The very next day, he began experiencing severe chest pain. Medical examination revealed that due to lifting an excessively heavy object, pressure had developed on his left lung, causing it to collapse. Following the diagnosis of pneumothorax, he remained on complete bed rest for nearly three months.
+
+\- Ends
+
+Apoorva Anand
+
+Jul 5, 2026 09:45 IST
+
+---
+
+### Red alert issued for Odisha, new pressure area over Bay of Bengal, monsoon moves to north after devastating Maharashtra, Kerala
+*Anshika Pandey · general*
+
+## Red alert issued for Odisha, new pressure area over Bay of Bengal, monsoon moves to north after devastating Maharashtra, Kerala
+
+IMD issued a red alert in Odisha as a strong low-pressure area over the Bay of Bengal is expected to bring very heavy to extremely heavy rainfall, raising flood risks in several districts.
+
+## **City waterlogged as 200 mm of rain falls in 12 hours**
+
+Andheri, Bandra, Kurla, Chembur, Powai, Goregaon, Byculla, and Sakinaka were among the low-lying neighbourhoods of Mumbai that were inundated by unrelenting rain, disrupting daily life and traffic. Between 8:30 am and 2:30 pm, Vikhroli had the most rainfall (164 mm), followed by Ram Mandir (148.5 mm) and Santacruz (126.9 mm). Following the IMD's red alert for Mumbai, Thane, Palghar and Raigad, the Brihanmumbai Municipal Corporation (BMC) announced a holiday for the afternoon session in all schools and colleges.
+
+## **Flights and local trains face disruptions**
+
+Transportation services throughout the city were impacted by heavy rain and low visibility. IndiGo recommended travellers to check flight itineraries before travelling to the airport, while Mumbai airport recorded four flight diversions and more than a dozen go-arounds. Local rail services kept running; however, there were delays, especially on the Western Railway line where traffic was hampered by waterlogging between Nalasopara and Virar.
+
+## **IMD forecast**
+
+According to the IMD, a well-marked low-pressure region over the northwest Bay of Bengal will keep the monsoon active over central and western India. Over the next few days, Mumbai, Konkan, Madhya Maharashtra, and Gujarat are expected to receive heavy to extremely heavy rainfall, while regions of Gujarat, Punjab, Haryana, and Rajasthan are likely to see further advances of the southwest monsoon.
+
+---
+
+### Jolted by defections, DMK, AIADMK, BJP air their woes to Tamil Nadu Governor
+*Pramod Madhav · general*
+
+## A DMK delegation led by organisational secretary RS Bharathi called on the Governor and submitted a memorandum alleging attempts to poach legislators, misuse of police machinery and undue influence exercised by private individuals in the functioning of the government.
+
+Allegations of horse-trading intensify in Tamil Nadu
+
+The opposition DMK, AIADMK and BJP on Saturday separately met Tamil Nadu Governor Rajendra Vishwanath Arlekar, urging him to intervene over allegations of horse-trading, misuse of state machinery and the participation of unauthorised individuals in cabinet meetings under the TVK government.
+
+A DMK delegation led by organisational secretary RS Bharathi called on the Governor and submitted a memorandum alleging attempts to poach legislators, misuse of police machinery and undue influence exercised by private individuals in the functioning of the government.
+
+According to a statement issued by the Governor, the DMK's memorandum raised concerns over the alleged illegal arrest, custodial coercion and attempts to induce elected representatives to defect through the misuse of police machinery. The party also alleged that inducements were offered to MLAs to switch sides and questioned the participation of unauthorised individuals in official government proceedings.
+
+"The memorandum urged immediate constitutional intervention, an independent enquiry, and appropriate action to safeguard democratic institutions," Governor Arlekar said in a post on X.
+
+Speaking after the meeting, Bharathi reiterated the party's allegations and claimed that two individuals, John and Vishnu Reddy, wielded influence far beyond their official standing.
+
+"We met the Governor in person and explained about the horse-trading and misuse of power in Tamil Nadu. Two individuals, John and Vishnu Reddy, who are not connected to the government, seem to possess more power than the ministers. They participate in all high-level meetings and issue orders to officials. Such an unpleasant situation has come in Tamil Nadu. We had already given a petition earlier, but as the Governor was not in town, today we met and emphasised all these issues."
+
+Bharathi also alleged that attempts had been made to poach DMK legislators, including Tiruchendur MLA Anitha R Radhakrishnan, through harassment, legal intimidation and financial inducements. He further claimed that the MLA's arrest in a case 
+
+### DMK EARLIER URGED GOVERNOR TO REGISTER FIR AGAINST VIJAY
+
+Earlier this week, the DMK had approached Governor Arlekar seeking the registration of an FIR against TVK chief Vijay over alleged attempts to poach MLAs.
+
+The complaint heavily relied on public statements made by MDMK general secretary Vaiko, who had claimed that Vijay personally attempted to persuade two DMK legislators to resign from the Assembly. According to the complaint, Vaiko alleged that the Chief Minister assured the MLAs of financial assistance to contest the ensuing by-elections if they vacated their seats.
+
+The AIADMK, in its memorandum, also sought constitutional intervention over alleged horse-trading, engineered resignations of MLAs and the participation of private individuals in Cabinet meetings. Party leaders urged the Governor to invoke Article 167 of the Constitution to seek explanations from the government and take further action if necessary.
+
+The BJP, too, petitioned the Governor, alleging that John Arokiyasamy and Vishnu Reddy attended a recent Cabinet meeting in violation of protocol and sought legal action. The party also requested an inquiry into Higher Education Minister P Vishwanathan over allegations of inappropriate behaviour with a minor girl.
+
+Responding to the allegations, the ruling TVK maintained that Arokiyasamy and Reddy had been appointed as Special Advisers to the Chief Minister and were therefore no longer private individuals.
+
+\- Ends
+
+Akash Chatterjee
+
+Jul 5, 2026 09:35 IST
+
+---
+
+### Tesla, BYD to Tata Motors: How should Indian investors play the EV theme? Experts explain the right strategy | Mint
+*Sanchari Ghosh · economy*
+
+## Gas prices surged, prompting questions about investing in EV stocks like Tesla. However, valuations may not align with sales. Experts advise focusing on long-term EV adoption trends and diversifying investments rather than reacting to short-term fuel price spikes.
+
+EV Adoption Grows Amid Rising Fuel Costs: Caution Advised for Investors in EV Stocks
+
+Gas prices spiked this year, and Tesla just had its best Q2 ever with deliveries up 25%. So the story can be: oil goes up, people buy EVs, So, should we consider investing EV stocks now?
+
+“One should be careful about the betting on EV stocks based on that theory,” asserts Viram Shah, Founder & CEO, Vested Finance.
+
+“Tesla reports these great numbers, and the stock falls about 7.5% the same day. Its worst day in nearly a year. So sales went one way and the share price went the other,” he says and that this is not really an aberration, as a carmaker's delivery numbers and its stock performance do not always move in tandem.
+
+“And the oil shock part? That's a spike. The Strait of Hormuz situation is already easing, pump prices are coming down from the May highs. So, if your reason to own an EV stock is that gas is expensive this month, that reason can disappear next month. That's timing a headline, not investing.”
+
+## What should you consider before investing in EV stocks?
+
+EV adoption globally is a structural, decade-long shift and it's not one company. It's Tesla, it's BYD, which actually still outsells Tesla on pure EVs, it's the battery and charging supply chain.
+
+“If that long-run theme interests you, the real question is access and how you size it, not whether to chase this quarter's fuel prices,” Shah advises.
+
+The access part is going to get easier. From India, you can get exposure to these global names directly, fractionally, starting small and you are not forced to take a big single-stock bet to participate.
+
+So in case you are plannig to invest in EV – the stratey should not be “oil's up, buy EVs,' rather you should think like – this is a global theme, hence I want a measured slice of, and how do I get it cleanly and keep it diversified,” advises Shah.
+
+## What about investing in Indian EV stocks?
+
+No matter how the prices move, the first thing that can be considered is the fact that India imports around 85% of its crude oil, which automatically makes petrol and diesel expensive. This fact makes EVs — Tata Motors, Mahindra, and Ola Electric – and the stocks attractive, as they become cheaper to own and run over the long term
+
+Also, government incentives and India's clean energy goals continue to encourage EV adoption, says Santosh Meena, Head of Research at Swastika Investmart. “However, rupee depreciation, higher battery/raw material import costs, and macro slowdown risks (subsidies under pressure, slower rural demand) limit the upside.”
+
+Hence, investors should focus on financially strong Indian EV companies with a solid manufacturing base, rather than relying only on global EV stocks, while hedging currency and policy volatility. “Overall a tactical opportunity aligned with India's energy security push, not a broad "buy" signal,” Meena said.
+
+### About the Author
+
+Sanchari Ghosh
+
+Sanchari Ghosh is an Assistant Editor at Mint with over 12 years of experience in journalism, specialising in personal finance, DLT & DeFi, geopolitics and foreign policy, with a particular emphasis on how these areas intersect. <br> She writes extensively about how money works in everyday life—helping readers navigate personal finance decisions. <br> As AI reshapes investing behaviour, capital is increasingly flowing into decentralized ecosystems, redefining how assets are managed, traded, and valued. She focuses on explaining how money flows within frameworks like Distributed Ledger Technology (DLT), DeFi protocols, and crypto markets—while also exploring what the future of money could look like in a trustless, programmable financial world. <br> She also focuses on immigration-
+
+---
+
+### Donald Trump signals upcoming meeting with Netanyahu, makes bold 'who the boss is' remark
+*Monica Singh · general*
+
+Donald Trump said Benjamin Netanyahu “knows who the boss is” as the Israeli PM reportedly seeks a White House meeting. Axios reports talks may happen soon amid tensions over Iran and Lebanon.
+
+US President Donald Trump has said Israeli Prime Minister Benjamin Netanyahu "knows who the boss is" while revealing that the Israeli leader has requested a meeting at the White House.
+
+According to a report by Axios, the two leaders could meet in Washington in the coming weeks, although no official date has been finalised.
+
+Speaking during a brief phone interview, Trump appeared confident about his relationship with Netanyahu. "We get along very good. \[Netanyahu\] knows who the boss is," Trump said, referring to himself.
+
+## **First face-to-face meeting since February**
+
+If the meeting goes ahead, it will be the first in-person interaction between Trump and Netanyahu since their February meeting in the White House Situation Room.
+
+According to Axios, Netanyahu had presented a proposal for a joint US-Israeli military campaign against Tehran during that meeting. The discussions reportedly preceded a broader regional conflict involving Iran.
+
+While preparations for another meeting are underway, an Israeli official told the publication that next week may be too soon because of Trump's planned visit to Turkey for the NATO summit scheduled for July 7-8.
+
+## **Netanyahu's office confirms plans**
+
+The Israeli Prime Minister's Office confirmed that Netanyahu spoke with Trump on Friday to congratulate him on the United States' 250th Independence Day.
+
+In a statement, the office said Netanyahu praised the US as "a guarantor of global freedom" and reaffirmed Israel's appreciation for its close relationship with Washington. The statement added that both leaders agreed to meet soon in the United States.
+
+## **Trump's inner circle reportedly growing critical**
+
+Despite Trump's public display of confidence, Axios reported that several of his senior advisers have become increasingly sceptical of Netanyahu in recent months. A US official familiar with the matter told the outlet, "Many of Trump's closest advisers think that Bibi was wrong about everything."
+
+The report also claimed that Trump personally criticised Netanyahu during a phone conversation last month after Israel intensified military operations in Lebanon. According to Axios, Trump described the Israeli Prime Minister as "crazy" and accused him of being ungrateful.
+
+## **Differences over Iran and Lebanon**
+
+The report said policy differences between Trump and Netanyahu have widened, particularly over Iran and regional security.
+
+Last month, Trump reportedly signed a Memorandum of Understanding extending the ceasefire with Iran while also initiating a fresh round of nuclear negotiations, a move that reportedly did not align with Netanyahu's preferred approach.
+
+Axios also reported that Trump urged Netanyahu to scale back Israeli military operations in Lebanon and support a broader framework that would begin with a withdrawal from southern Lebanon.
+
+## **Meeting carries political significance**
+
+A White House meeting could also have domestic political importance for Netanyahu as he prepares for Israel's October elections.
+
+According to Axios, the Israeli Prime Minister is currently trailing several political rivals in opinion polls, making a high-profile meeting with the US President potentially significant ahead of the vote. Although both sides have expressed interest in holding talks, the exact timing of the meeting is still being worked out.
+
+---
+
+### India eyes oil exploration expansion after Middle East war shortages
+*AFP · general*
+
+New Delhi: Hit by the biggest energy supply shock in decades during the Middle East war, import-dependent India is expanding domestic crude exploration, its oil minister says.
+
+India, the world's third-largest importer of oil and the second-largest buyer of liquefied petroleum gas, faced major disruptions due to restrictions on the Strait of Hormuz during the conflict between the United States and Iran.
+
+With a temporary US-Iran deal in place to pause hostilities, oil and gas shipments are flowing through the Gulf waterway again, and restrictions and price hikes in India are being rolled back.
+
+  
+
+But Minister of Petroleum and Natural Gas Hardeep Singh Puri said the energy crunch provided fresh impetus for India's expansion of domestic supplies.
+
+"We are currently in the process... to bid out about 250,000 square kilometres (96,500 square miles) of unexplored area," Puri told AFP.
+
+India is a modest producer in global terms.
+
+Domestic crude production in 2025-2026 was 25.98 million metric tonnes, according to the oil ministry.
+
+That meets just 10 percent of India's crude needs, equivalent to roughly 522,000 barrels per day (bpd) -- a figure well below its production peak of just more than 900,000 bpd in 2011.
+
+India survived the energy crunch by expanding its crude suppliers from 27 to 41 countries, including Iran, Venezuela, greater purchases from Russia and several African nations.
+
+New Delhi has previously been criticised by both the United States and Europe for its purchase of Russian oil, with critics arguing that it bankrolled Moscow's war against Kyiv.
+
+But Puri said India had a "pragmatic approach" that put its energy needs above "ideological considerations".
+
+## 'Ocean of energy opportunities'
+
+The country's domestic crude production is concentrated in the west -- in its Mumbai offshore fields, Rajasthan and Gujarat -- as well as the northeastern state of Assam.
+
+But Puri has hailed what he calls an "ocean of energy opportunities" off India's Andaman and Nicobar archipelago, an 800-kilometre-long (500-mile) chain of environmentally sensitive islands in the seas bordering Thailand and Indonesia.
+
+The vast Andaman Basin is geologically similar to hydrocarbon-bearing basins in Southeast Asia.
+
+Puri posted a video on social media in June of a gas flare at an exploratory well drilled in the Andaman Sea by state-owned Oil India.
+
+"Large number of deepwater and ultra-deepwater exploration wells are planned in our offshore basins to fully exploit our hydrocarbon reserves," Puri said when he released the video.
+
+New Delhi is working with "deepwater exploration experts" including Petrobras, TotalEnergies, BP, Shell and ExxonMobil, he said.
+
+In the same Andaman Sea, India is readying a $9 billion Great Nicobar Island Project to build a megaport, airport and city, creating a strategic base on what is, for now, a far-flung island covered in pristine forests and home to one of Earth's most isolated peoples.
+
+## 'Exceptionally bullish'
+
+The push pre-dates the Middle East war.
+
+Hindu-nationalist Prime Minister Narendra Modi launched the "Samudra Manthan" mission during a speech marking Independence Day in August 2025.
+
+The name refers to a central event in Hindu mythology meaning the "churning of the ocean".
+
+"We want to work in a mission mode towards finding oil reserves, gas reserves under the sea and hence India is going to start the National Deep Water Exploration Mission," Modi said at the time.
+
+But India's bid to reduce dependence faces challenges.
+
+Domestic demand in the world's most populous nation of 1.4 billion people is growing rapidly -- even as the government vows to achieve carbon neutrality by 2070.
+
+India is also ramping up investments in renewables, nuclear energy and blending petrol with ethanol.
+
+"India's energy consumption today is growing at three times the pace compared to rest of the world," Puri said.
+
+"It has jumped from five million barrels per day in 2021 to about 5.6 million barrels today, and would soon touch six million barrels per day, on the back of the robust economic and per capita income growth."
+
+Puri said he was "exceptionally bullish" for the future.
+
+"I am happy with the knowledge that our E+P (exploration & production) is going up and, believe me, it's going to rise very fast," Puri said.
+
+He noted it was "a very capital intensive and time-consuming" process, but said he had high hopes.
+
+"We are putting fiscal resources into oil and gas exploration in a very big way -- with a $10 billion programme," he added.
+
+"With it, we are going into one million kilometres of unexplored area."
+
+
+---
+
 ## 4 July 2026
 
 ### Venus Transit In Leo On July 4, 2026: Shukra Gochar In Simha Rashi Effects On All Zodiac Signs
