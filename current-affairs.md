@@ -1,3 +1,681 @@
+## 6 July 2026
+
+### Drone strike on family home leaves three girls dead in South Waziristan
+*SECTIONS Drone strike · business*
+
+Peshawar: A devastating quadcopter drone strike targeting a residential property in the Nargasi area of Birmal tehsil, Lower South Waziristan, has left three young girls dead and four other family members severely wounded, Dawn reported.
+
+The lethal munitions dropped in the early hours of Sunday directly struck the home of Mohammad Gul Wazir, instantly killing the girls, who were aged between six and 15 years.
+
+  
+
+Amid growing local outrage over state negligence and a total failure to protect civilian lives, neighbours scrambled to rescue the survivors from the rubble. A local woman and three young boys, all suffering from grievous injuries, were rushed to the district headquarters hospital in Wana.
+
+Strikingly, Pakistani authorities have maintained a conspicuous silence, failing to issue any official statement regarding the nature of the incident, its cause, or who was responsible for the strike.
+
+Dawn highlighted that the attack has sent shockwaves through the local population, with terror-stricken residents now demanding a transparent investigation to establish the facts behind the aerial assault.
+
+The crosshairs of these mysterious quadcopter drone strikes are not new to the region. Local sources indicate that similar aerial attacks have previously been documented across multiple sectors of the Birmal district, including Azam Warsak, Guldona Ghundai, Karmazi, and Kalotai.
+
+According to local accounts, these repeated aerial operations have claimed numerous casualties over time, trapping the border communities in a perpetual state of fear and vulnerability.
+
+The latest tragedy unfolds against the backdrop of a staggering breakdown of law and order in Lower South Waziristan, where security has systematically deteriorated over the past 18 months under the current administration.
+
+Compounding the crisis, local communities report a terrifying surge in violence under the noses of the security apparatus. Dawn noted that residents have pointed to a sharp increase in bombings, targeted killings, kidnappings for ransom, extortion, and brazen attacks on police and security personnel, painting a grim picture of a region abandoned to lawlessness and terror.
+
+---
+
+### Ram Mandir trust meet today to decide exit of Champat Rai amid donation theft probe
+*Samarth Srivastava · general*
+
+## The Shri Ram Janmabhoomi Teerth Kshetra Trust will meet in Ayodhya today to decide on the resignations of Champat Rai and Anil Mishra while reviewing the SIT's preliminary donation theft report.
+
+The donation theft controversy has placed Champat Rai under scrutiny since he was closely associated with Ram Mandir administration.
+
+A high-stakes meeting of the Shri Ram Janmabhoomi Teerth Kshetra Trust is scheduled to take place today in Ayodhya, with the fate of former general secretary Champat Rai and ex-trustee Anil Mishra expected to be decided amid an escalating controversy over alleged donation irregularities.
+
+According to sources, the trust is likely to formally accept the resignations of both functionaries, effectively marking their exit from the institution. The two had stepped down on June 26, and the resignation was later confirmed on June 27 by trustee and treasurer Swami Govind Dev Giri.
+
+The meeting, scheduled to begin at 3 pm inside the Ram Mandir premises, carries a packed agenda. Besides the resignation issue, the trust is also expected to review a preliminary report submitted by the Special Investigation Team (SIT) on the counting and accounting of donations received in temple donation boxes. Decisions 
+
+Sources said the meeting may also deliberate on possible replacements for the two positions. Among the names being discussed are Bajrang Bangda and Neeraj Dauneria, though no final decision has been indicated yet.
+
+The trust meeting has drawn wide participation, with several senior religious figures and trustees arriving in Ayodhya for the session. Those present include trustee Swami Jagadguru Shankaracharya Swami Vasudevanand Saraswati, Yugpurush Swami Paramanand, and Krishna Mohan, who have already reached the temple town.
+
+Trust treasurer Swami Govind Dev Giri, trustee Nripendra Mishra and other members, including Swami Vishwaprasannatirtha, are expected to arrive later in the day. Senior advocate and trustee K Parasaran, along with a few other members, is likely to join the proceedings virtually.
+
+Sources also indicated that the trust has already issued notices to both Rai and Mishra, giving them an opportunity to present their side before any final decision is taken. The governing body will decide by a two-thirds majority. Officials familiar with the process say the intent is not just procedural, but also reputational, as the Trust seeks to signal control after sustained scrutiny over donation handling.
+
+This is the first time a trust meeting is being held inside the Ram Mandir complex itself. Earlier sessions were conducted at Maniram Das Chhawani in Ayodhya Dham. The shift in venue is being seen as an effort to maintain confidentiality, with the meeting taking place under heightened attention following allegations tied to donation theft.
+
+The controversy has placed both Rai and Mishra under scrutiny since they were closely associated with temple administration and the accounting of offerings. Another invited member, construction adviser Gopal Rao, may also be kept out of this meeting, sources said, though final confirmation is awaited.
+
+Meanwhile, Swami Govind Dev Giri has publicly urged that the matter be handled through a fair and independent investigation, adding that faith must remain in the SIT, police and the judiciary. He has also maintained that strict action should follow if wrongdoing is proven, regardless of the stature of those involved.
+
+The developments came against the backdrop of a widening investigation into alleged embezzlement of temple donations. The alleged irregularities first surfaced on June 7, prompting the Uttar Pradesh government to constitute a Special Investigation Team. Acting on its preliminary findings, an FIR was registered on June 25, and at least eight people linked to donation counting operations have since been arrested.
+
+The SIT is also carrying out a wider re-audit of the Trust’s accounts over a five-year period, examining not just cash inflows but also valuables such as gold, silver, jewellery and other offerings. Officials say former trust members, including Rai and Mishra, have already been questioned as part of the probe, along with temple officials.
+
+The case has also triggered a political flashpoint, with opposition parties demanding greater transparency over donations collected even before the Trust’s formal formation, and calling for a Supreme Court-monitored investigation into the alleged misappropriation.
+
+\- Ends
+
+Sahil Sinha
+
+Jul 6, 2026 10:09 IST
+
+---
+
+### 'Digital Arrest' Scam Duped Nearly 3 Lakh Indians, Cost Rs 4,057 Crore Since 2022 | Exclusive
+*Apoorva Misra · general*
+
+Investigators have traced several such operations to organised scam centres based in Cambodia, Myanmar, and Laos
+
+[Read full article](https://www.news18.com/india/digital-arrest-scam-duped-nearly-3-lakh-indians-cost-rs-4057-crore-since-2022-exclusive-ws-l-10192258.html)
+
+---
+
+### IIM Ahmedabad student shares first-year MBA reality: Imposter syndrome lasted all term
+*India Today Education Desk · general*
+
+## An IIM Ahmedabad student has detailed five hidden costs of his first year, from FOMO and comparison to poor sleep. His post has struck a chord by showing how elite campus life can test confidence, relationships and mental clarity.
+
+IIM Ahmedabad student's reveals five hidden costs of campus life
+
+Getting into IIM Ahmedabad may be a dream come true, but staying afloat can be an entirely different challenge. A first-year MBA student has gone viral after sharing the five "hidden costs" of campus life, offering an unfiltered look at the pressure, self-doubt and sacrifices that accompanied his journey.
+
+Vivek Kundu, currently pursuing his MBA at IIM Ahmedabad, reflected on the emotional and mental challenges of his first year in a post titled, "The hidden cost of my first year at IIM Ahmedabad."
+
+Sharing his journey, Kundu wrote, "I debated at Stanford, USA. Grew up in a village, later in Chandigarh. Cracked CAT. Thought I was ready. Year 1 had other plans. The hidden costs came in the form of casualties."
+
+Rather than focusing on academics or placements, he listed five experiences that, according to him, defined life inside one of India's most competitive business schools.
+
+### WHEN TOO MANY OPPORTUNITIES BECOME A BURDEN
+
+The first lesson, which he called "The Casualty of Choices," was about dealing with an overwhelming number of opportunities.
+
+According to Kundu, the first week itself was packed with competitions, club applications and parties, leaving him trying to do everything at once.
+
+"I was doing everything. Enjoying nothing," he wrote, adding that the biggest lesson wasn't time management but learning to say no. "At IIMA, you learn it quickly or FOMO swallows you whole."
+
+### DOES EVERYONE ELSE SEEM BETTER THAN YOU?
+
+Kundu said one of the biggest shocks was being surrounded by classmates with exceptional academic and professional backgrounds.
+
+Describing "The Casualty of Comparison," he wrote, "Former gazetted officers. IITians. CAs. SRCCians. Goldman, McKinsey, Google work-ex. Excellence wasn't the exception, it was the baseline."
+
+He admitted that achievements he once took pride in, including debating at Stanford and cracking CAT, suddenly felt insignificant.
+
+"The campus resets your scoreboard to zero on Day 1. Imposter syndrome doesn't come quietly. It pulls up a chair and stays the entire first term," he wrote.
+
+### A 'C' GRADE THAT CHANGED HIS MINDSET
+
+The third lesson came after Kundu received a 'C' grade in his first Finance quiz, the first such setback in his academic life.
+
+"I had always been decent at studies. Then came my first Finance quiz and I got a C. First time in my life. Am I even supposed to be here?" he recalled.
+
+Instead of confronting the subject, he initially avoided it. But later, he decided to begin from scratch, ask basic questions without hesitation and seek help from a batchmate who explained concepts late into the night.
+
+"I didn't become a topper. But I stopped running from the room. That shift was everything," he wrote.
+
+### THE COST OF CHASING SUCCESS
+
+Kundu also reflected on how the demanding schedule affected his personal relationships.
+
+In what he described as "The Casualty of Home," he realised he had gone an entire week without having a meaningful conversation with his parents or siblings.
+
+"Just 'haan sab theek hai'," he wrote, adding that he now follows one simple rule, video call home whenever possible, even if it's only for two minutes.
+
+"Some rules matter more than any deadline," he said.
+
+### IS SLEEP A LUXURY AT IIM?
+
+The final lesson focused on sleep and mental well-being.
+
+Calling it "The Casualty of Sleep and Silence," Kundu said the relentless cycle of case studies, assignments and late-night meetings often made sleeping eight hours feel like a weakness.
+
+"Weeks on 4 hours, calling it hustle. But you stop thinking clearly. Present but mentally elsewhere. Small things feel enormous," he wrote.
+
+According to him, the real loss wasn't just sleep but the quality of thought itself.
+
+"At IIMA, choosing to sleep is an act of discipline."
+
+### POST RESONATES WITH STUDENTS
+
+Kundu's post has resonated with students, alumni and professionals, many of whom said his experiences reflected the often-unspoken realities of studying at elite institutions.
+
+His reflections offer a reminder that while securing admission to a premier institute is a milestone, navigating the pressure, expectations and personal sacrifices that follow can be an equally challenging journey.
+
+\- Ends
+
+Apoorva Anand
+
+Jul 6, 2026 10:05 IST
+
+---
+
+### Childcare, Housework Keep 7 In 10 Urban Women Out of Jobs. Can Flexible Work Change That?
+*Pragati Ratti · general*
+
+An NSO report says 69 per cent of women in India's 46 cities who remain outside labour force say childcare and household responsibilities are the main reason they are not working.
+
+[Read full article](https://www.news18.com/india/nso-report-childcare-housework-keep-7-in-10-urban-women-out-of-jobs-can-flexible-work-change-that-ws-l-10192265.html)
+
+---
+
+### Death toll from Venezuela quakes rises to 3,342
+*SECTIONS Death toll · business*
+
+The death ​toll from ​Venezuela's twin quakes has ​risen to 3,342, according to numbers released by the ‌Venezuelan information ⁠ministry ⁠on Sunday.
+
+The new tally ​also puts the number of injured ​at 16,470 while the number of homeless ​has risen to ⁠17,345.
+
+  
+
+Earlier in ‌the day, ​in ​a speech commemorating ⁠Venezuela's 215th independence day, interim President ​Delcy Rodriguez defended ​the government's actions following the quakes amid growing frustration over what many have called ‌a delayed and inadequate response to the ​disaster.
+
+Rodriguez ​said ⁠she deployed security forces immediately and announced the creation of a ​new military unit to help deal with emergencies and disasters.
+
+---
+
+### Revocation of Article 370 most fitting tribute to Syama Prasad Mookerjee: PM Narendra Modi
+*SECTIONS Revocation · business*
+
+New Delhi: Prime Minister Narendra Modi on Monday said the abrogation of Article 370, which ended the special status of Jammu and Kashmir, was the most fitting tribute to the "martyrdom" of Bharatiya Jana Sangh founder Syama Prasad Mookerjee.
+
+In a signed article published in newspapers on Mookerjee's birth anniversary, Modi said he always put "India first and Indian values first" by building institutions and nurturing systems that defied the conventional mindset of his time.
+
+He said this spirit was evident when Mookerjee founded the Bharatiya Jana Sangh at a time when the Congress Party was omnipresent.
+
+  
+
+The Bharatiya Jana Sangh was the precursor to the ruling Bharatiya Janata Party. Born on July 6, 1901, Mookerjee died under detention in Srinagar on June 23, 1953. He had fought for the full integration of Jammu and Kashmir with the rest of India by seeking the scrapping of Article 370.
+
+Modi said July 6 is a special day for countless people who cherish the ideals of nationalism and selfless service.
+
+"We commemorate the 125th birth anniversary of Dr Syama Prasad Mookerjee, whose life remains a timeless example of courage and unwavering commitment to Maa Bharti," he wrote in the article.
+
+The prime minister said few leaders in modern India embodied the seamless confluence of intellect, public service and moral conviction as profoundly as Mookerjee.
+
+He said Mookerjee was born into circumstances that could have assured him a protected and comfortable life, as his father, Sir Ashutosh Mookerjee, was among the foremost educationists and intellectuals of his age. While destiny placed before him a path of privilege, his conscience led him towards one of sacrifice and national service, Modi said.
+
+Mookerjee was convinced that he could not remain a mute spectator to the turbulence of his times, be it fighting colonialism, communalism, humanitarian challenges and more, Modi said.
+
+Along this journey, Mookerjee endured profound personal tragedies, including the loss of an infant child and, later, his wife, the prime minister said.
+
+These tragedies only deepened Mookerjee's resolve and strengthened his unwavering commitment to serve. If there was one ideal that defined Mookerjee's public life above all else, it was the indivisibility of India, he said.
+
+"He stood firm during the upheaval of Partition to ensure that West Bengal remained an integral part of India. A few years later, that very conviction drew him to Jammu and Kashmir. Imprisonment did not deter him, and isolation did not diminish him," he wrote.
+
+The prime minister said Mookerjee's life came to an abrupt end in detention, far from the countless people whose cause he had made his own.
+
+Modi said there are moments in history when an individual's final sacrifice transcends politics and enters the realm of national memory, recalling that Acharya Vinoba Bhave had said Mookerjee sacrificed himself for a cause in which he had faith.
+
+"Years later, the revocation of Articles 370 and 35(A) in 2019 was the most fitting tribute to his martyrdom," Modi said.
+
+Articles 370 and 35(A) were abrogated by the Modi government on August 5, 2019.
+
+The prime minister said Mookerjee always put "India First" and Indian values first, and he did it by building institutions and nurturing systems that defied conventional mindsets of those times.
+
+Mookerjee became the youngest Vice Chancellor of the University of Calcutta, and in his unique style, he brought positive changes that were patriotic and futuristic, he said.
+
+Addressing a conference of educators, he said, Mookerjee put it wonderfully when he said, "It is incorrect to look upon educational institutions as factories to produce potential clerks and low-paid staff".
+
+"We have to turn out students who are capable of providing leadership to our self-governing institutions, such as municipal corporations, provincial and central legislatures and also of directing the affairs in various fields of life, such as financial, commercial and industrial ones," Modi quoted Mookerjee as saying.
+
+He drew attention to areas such as sports, teacher training and student welfare and began a practice of marking January 24 as the university's foundation to instil a sense of pride among students and alumni. Mookerjee also persuaded Rabindranath Tagore to compose a song for the University of Calcutta.
+
+"Yet another example of this spirit can be seen in the later part of his life, when he decided to form the Bharatiya Jana Sangh. At a time when the Congress Party was omnipresent, he felt that there was all the more reason for an alternative voice to speak up for India's progress while staying attached to our cultural roots. It was perhaps fitting that the party's symbol was the Diya, the earthen lamp," he wrote.
+
+The prime minister said a single lamp may appear modest, yet it possesses the power to dispel darkness far beyond itself, and it is exactly what the Jana Sangh did both during the years it was active and beyond.
+
+He said Mookerjee's tenure as India's first Minister for Industry and Supply reveals a statesman whose conception of development was remarkably comprehensive and humane.
+
+"While laying the foundations of modern industrial India through pioneering initiatives such as the Damodar Valley Corporation, the Sindri Fertiliser Plant and a robust industrial policy, he simultaneously ensured that India's traditional strengths were not neglected. Handlooms, cottage industries, artisans and textile workers found in him an equally committed champion," he wrote.
+
+Sharing a personal experience, Modi said the Sindri plant, which Mookerjee worked to establish with a clear vision of self-reliance, was ignored by those who ran the nation for several decades.
+
+"I feel honoured that our government had the opportunity to contribute to its revival. It was indeed among the most special moments to have been there for that programme. India's civilisational tradition has long celebrated dialogue and discussions," he said.
+
+The prime minister said Mookerjee embodied this democratic spirit, and he joined Jawaharlal Nehru's Cabinet, believing that the task of nation-building in the early years transcended political differences, and he served with sincerity and a constructive spirit.
+
+"But when he felt that questions of national importance demanded a different course, he relinquished office with dignity and devoted himself wholeheartedly to the political work he believed the nation required," he said.
+
+Modi said 75 years ago, Nehru brought the First Amendment, which was a direct assault on free speech, and Mookerjee was among its staunchest critics, as he understood fully what the Congress was capable of doing.
+
+"And he was proven right. Those who brought the First Amendment 75 years ago imposed the Emergency in 1975 and 50 years ago, brought in the 42nd Amendment Act, which again struck at the core of liberal democratic values," he said.
+
+The prime minister said Mookerjee also stood out for his humanitarian efforts, and when the most tragic famine struck Bengal in 1943, he immersed himself in serving those affected.
+
+"As India advances towards the goal of a 'Viksit Bharat', the finest tribute we can pay him is to strive every day to build the strong, united, self-confident and compassionate India that he so deeply believed in. And knowing today's youth, I am certain they will rise to the occasion and do exactly that," he said.
+
+---
+
+### Weather Today and Tomorrow (July 6-7): Delhi, Gujarat, Maharashtra, Rajasthan, MP, Odisha, Kerala on high alert as IMD warns of heavy to extremely heavy rainfall, thunderstorms and lightning across India
+*Trending Desk · business*
+
+Weather Today and Tomorrow: India's southwest monsoon is highly active now, and the India Meteorological Department (IMD) has issued multiple rainfall alerts for July 6 and July 7 (Monday and Tuesday). Several states, including Gujarat, Maharashtra, Odisha, Madhya Pradesh, Rajasthan, Kerala, Karnataka, Himachal Pradesh, Uttarakhand, Delhi, Haryana and Punjab, are expected to witness heavy to extremely heavy rainfall over the next two days, according to the IMD forecast.
+
+The weather agency has also warned of thunderstorms, lightning and gusty winds in many parts of the country as monsoon activity intensifies.
+
+**
+
+  
+
+## IMD weather alert for July 6 and July 7
+
+According to the IMD, extremely heavy rainfall is likely at isolated places over Gujarat, Konkan, Goa and parts of central Maharashtra.
+
+Heavy to very heavy rainfall is expected over:
+
+-   Coastal Karnataka
+-   Kerala
+-   Himachal Pradesh
+-   Madhya Pradesh
+-   Odisha
+-   Saurashtra and Kutch
+-   South Interior Karnataka
+-   East Rajasthan
+
+Meanwhile, heavy rainfall is likely across:
+
+  
+
+-   Delhi-NCR
+-   Haryana
+-   Punjab
+-   Uttarakhand
+-   Bihar
+-   Jharkhand
+-   Chhattisgarh
+-   West Bengal
+-   Vidarbha
+-   Arunachal Pradesh
+-   Assam
+-   Meghalaya
+-   Nagaland
+-   Manipur
+-   Mizoram
+-   Tripura
+-   Jammu and Kashmir
+
+Delhi is likely to experience cloudy skies, intermittent rain, thunderstorms, and lightning on July 6 and July 7. The IMD has also warned of heavy rainfall at isolated locations in the national capital.
+
+" Generally cloudy sky. A spell of very light to light rain at many places with moderate rain at isolated places accompanied with thunderstorm/lightning/gusty winds speed 30- 40 kmph reaching to 50 kmph towards morning/forenoon. Another spell of very light to light rain at many places with moderate rain at isolated places accompanied with thunderstorm/lightning/ gusty winds speed 30- 40 kmph reaching to 50 kmph towards evening/night," IMD's bulletin for Delhi's weather read.
+
+For July 7, the IMD's weather forecast for Delhi read, "Generally cloudy sky. A spell of very light to light rain accompanied with thunderstorm/lightning/gusty winds speed 30- 40 kmph reaching to 50 kmph towards forenoon/afternoon." (sic)
+
+Neighbouring Haryana and Punjab are expected to witness similar weather conditions as monsoon activity strengthens across northwest India. Residents are advised to be cautious during thunderstorms and avoid waterlogged areas during periods of intense rainfall.
+
+## Gujarat and Maharashtra face intense monsoon spell
+
+Western India remains one of the most affected regions.
+
+The IMD has forecast heavy to extremely heavy rainfall over:
+
+-   Gujarat Region
+-   Saurashtra and Kutch
+-   Konkan and Goa
+-   Madhya Maharashtra
+
+Some areas may witness prolonged spells of rain, leading to waterlogging, traffic disruptions and localized flooding. Very heavy rainfall is also likely over Gujarat and Konkan-Goa during the coming days.
+
+## Madhya Pradesh and Chhattisgarh weather forecast
+
+Monsoon conditions remain highly active across central India. Heavy to very heavy rainfall is expected over East and West Madhya Pradesh, while Chhattisgarh is likely to receive widespread rainfall accompanied by thunderstorms.
+
+The IMD has also warned of moderate to intense lightning activity over parts of Madhya Pradesh. Some districts could experience localized flooding due to persistent rainfall.
+
+## Rajasthan, Himachal Pradesh and Uttarakhand on rain watch
+
+Rainfall activity is expected to increase across northwestern and Himalayan states.
+
+Heavy rainfall is likely over:
+
+-   East Rajasthan
+-   West Rajasthan
+-   Himachal Pradesh
+-   Uttarakhand
+
+The IMD has also forecast very heavy rainfall in parts of Himachal Pradesh and Uttarakhand.
+
+People living in hilly regions should remain alert for landslides, falling debris and flash flood-like situations in vulnerable areas.
+
+## Odisha, Bihar and eastern India weather update
+
+Odisha remains under a significant rainfall alert, with heavy to very heavy rainfall expected in several districts.
+
+Heavy rain is also likely over:
+
+-   Bihar
+-   Jharkhand
+-   Gangetic West Bengal
+-   Sub-Himalayan West Bengal and Sikkim
+
+Thunderstorms accompanied by lightning may affect parts of Bihar, Jharkhand and West Bengal.
+
+## Northeast India likely to receive widespread rain
+
+The monsoon is expected to remain active across northeastern states.
+
+Heavy rainfall is likely over:
+
+-   Arunachal Pradesh
+-   Assam
+-   Meghalaya
+-   Nagaland
+-   Manipur
+-   Mizoram
+-   Tripura
+
+Several areas may experience thunderstorms and lightning along with persistent rainfall through the week.
+
+## South India weather: Kerala and Karnataka under heavy rain alert
+
+Southern states are also expected to witness active monsoon conditions.
+
+Heavy to very heavy rainfall is forecast over:
+
+-   Kerala and Mahe
+-   Coastal Karnataka
+-   North Interior Karnataka
+-   South Interior Karnataka
+
+Thunderstorms, lightning and strong winds are also likely across Telangana, Andhra Pradesh, Karnataka and parts of Tamil Nadu.
+
+The IMD has warned that some coastal and interior Karnataka districts could receive very heavy rainfall during this period.
+
+## Southwest monsoon continues to advance
+
+The IMD said conditions remain favourable for the further advance of the southwest monsoon into more parts of the north Arabian Sea, Gujarat, remaining areas of Haryana and Punjab, and additional parts of Rajasthan over the next few days.
+
+The weather agency expects active monsoon conditions to persist across large parts of India through the coming week, bringing widespread rainfall to northern, western, central, eastern and southern regions.
+
+## What people should do during heavy rainfall
+
+With multiple states under heavy rain alerts, residents are advised to:
+
+-   Avoid unnecessary travel during intense rainfall.
+-   Stay away from flooded roads and low-lying areas.
+-   Follow local weather advisories and traffic updates.
+-   Take precautions during thunderstorms and lightning.
+-   Keep emergency supplies ready in flood-prone locations.
+
+As the monsoon strengthens further, several regions could continue receiving significant rainfall through July 7 and beyond, making weather updates and local advisories important for daily planning.
+
+---
+
+### Landslide hits Mumbai–Pune Expressway Missing Link near Khandala exit; traffic diverted
+*ET Online · business*
+
+Traffic on the Pune to Mumbai carriageway of the Khopoli-Kusgaon 'Missing Link' alignment was diverted early Monday following a landslide near the exit of Tunnel 2 amid heavy rains, officials said. The Mumbai-Pune Expressway Missing Link, opened two months ago, is a 13-km bypass that cuts through th...
+
+[Read full article](https://economictimes.indiatimes.com/news/videos/landslide-hits-mumbaipune-expressway-missing-link-near-khandala-exit-traffic-diverted/videoshow/132207404.cms)
+
+---
+
+### Two Wanted Lawrence Bishnoi Gang Shooters Killed In Joint Haryana-Delhi Police Operation
+*Aanchal Sinha · general*
+
+During the encounter, one police constable sustained injuries, while four other personnel escaped unharmed after bullets fired by the accused struck their bulletproof jackets.
+
+[Read full article](https://www.news18.com/india/two-wanted-lawrence-bishnoi-gang-shooters-killed-in-joint-haryana-delhi-police-operation-ws-l-10192217.html)
+
+---
+
+### Luxury Resort Near Jim Corbett Sealed After Police Uncover Sex Racket; 52 Arrested
+*Anushka Vats · general*
+
+Police raided a luxury resort in Ramnagar near Jim Corbett National Park after receiving inputs about an alleged sex racket. The operation led to 52 arrests.
+
+[Read full article](https://www.news18.com/india/luxury-resort-near-jim-corbett-sealed-after-police-uncover-sex-racket-52-arrested-10192276.html)
+
+---
+
+### One tycoon makes millions from 'dark' journeys on a dangerous oil route while others feared Hormuz
+*Unknown · business*
+
+Just a few weeks into the war, one of the Persian Gulf’s top oil producers quietly began sneaking its crude out of the Strait of Hormuz. Before long, the covert project became so successful that the United Arab Emirates was already approaching its pre-war rate of flows through the waterway by the time the US and Iran signed their interim peace deal.
+
+The UAE’s aggressive push to get barrels safely out of the strait relied on tactics normally associated with sanctioned countries like Iran, Russia and Venezuela: the ships traveled “dark” without their transponders (and often under the cover of literal darkness) before offloading their cargo into other tankers waiting outside the waterway, and then returning back to collect more.
+
+**
+
+Crucially though, officials in Abu Dhabi needed enough ships to make the risky transit — not just once, but over and over. And for that they turned for help to Ga-Hyun Chung.
+
+The intensely private Korean shipping tycoon rocked the tanker industry early this year as his Sinokor Group embarked on an unprecedented buying spree. Bloomberg reported in March that he stood to be one of big winners from the turmoil in the oil trade from the Iran war, as rates for tankers surged.
+
+Now, Sinokor has emerged as a major owner of supertankers moving crude out of the Persian Gulf.
+
+The company started leasing ships to Abu Dhabi National Oil Co. for its “shuttle runs” from at least mid-April. By June, almost half of Emirati crude shipments were sailing on vessels controlled by Sinokor, according to ship tracking data collected by analytics firm Vortexa.
+
+This story is based on vessel tracking data compiled by Bloomberg, figures from Vortexa and Kpler, another leading analytics firm, and conversations with more than a dozen shipbrokers, traders and other industry insiders. The scale of Sinokor’s role in leasing ships for “dark” transits has not previously been reported.
+
+Sinokor didn’t respond to requests for comment. Adnoc L&S, which is Adnoc’s shipping and logistics arm, said it doesn’t comment on matters 
+
+While Adnoc also relied on tankers it owned directly, as well as from other owners, the deals with Sinokor were key to helping the UAE ramp up exports through Hormuz far faster than its Gulf neighbors. The shipments meant Adnoc was able to take greater advantage of surging oil prices earlier in the war, and helped alleviate the impact of the broader closure of the strait on global supplies. The company has continued to ramp up shipments, with tankers traveling more openly through the strait with transponders on since the interim peace agreement.
+
+But the deals have also created a huge profit opportunity for Sinokor, Chung and his new co-owner, Italian container giant MSC Group. Oil tanker markets are having one of the most lucrative years ever, and shipbrokers suggest that the premium for sailing into the Gulf during the war could have yielded three to four times the prewar rate.
+
+The terms of the deals haven’t been disclosed, but the brokers estimated just three tankers doing shuttle runs since mid-April could have earned Sinokor somewhere around $60 million to $120 million.
+
+Since the interim ceasefire between the US and Iran came into effect, Sinokor has sent a further stream of supertankers into the Persian Gulf ready to collect crude — including at least two that have already returned again after exiting to offload their cargoes. And it’s not just UAE cargoes; the company has been active in touting its services to shipbrokers as it looks to pick up barrels from elsewhere in the gulf.
+
+“Sinokor’s moves during the Iran war are groundbreaking,” said Matt Wright, Kpler’s principal freight analyst. “By creating an environment that supports their negotiating position they are lifting rates for all owners. They are also willing to go to corners of the market where shipowners might still be cautious about, and we are seeing initial signs of a market recovery because of that.”
+
+## Bold Bets
+
+Even in an industry dominated by larger-than-life characters, Chung’s bold bets have set him apart.
+
+Sinokor, which is headquartered in Seoul, started out as a container shipper, before expanding to become a smaller player in oil tankers. That changed dramatically late last year, when the company suddenly went on a dealmaking spree to buy and charter supertankers with backing from one of shipping’s biggest players, MSC.
+
+By late February, Sinokor controlled about 150 very large crude carriers, according to industry estimates — nearly 40% of the global fleet that wasn’t either sanctioned or tied up on long-term leases or regular routes.
+
+After the US issued licenses allowing the trade in Venezuelan oil at the beginning of this year, Sinokor deployed several of its vessels toward the US Gulf and the Caribbean in anticipation of the flood of barrels entering the mainstream market. At one point, the company controlled nearly all of the available supertankers that could reach the US Gulf within 30 days.
+
+Sinokor’s aggressive buying combined with a swell in oil flows to send tanker rates surging even before the US and Israeli strikes on Iran led to the effective closure of the world’s most important oil shipping lane. By early March, rates had soared dramatically higher, hitting unprecedented levels as the market adjusted to the reality that a large percentage of the global fleet was stuck inside the Persian Gulf.
+
+Bloomberg reported in March that Sinokor itself had moved at least six empty supertankers into the Gulf in the weeks before the war, which meant the company was able to hire the vessels out at eye-popping daily rates to hold oil, as storage in the region filled up. (Around the same time time, more details of the company’s tie up with MSC became public — the world’s biggest container line had actually bought a 50% stake in Sinokor Maritime Co.)
+
+## Daring Dash
+
+In the early weeks of the war, the sparse traffic through Hormuz appeared largely dominated by tankers with links to Iran, while the UAE and Saudi Arabia quickly diverted crude flows to export terminals on the Gulf of Oman and the Red Sea via pipelines that bypassed the strait.
+
+But while most ship owners and crews saw the journey as too dangerous, at least one firm — Greece’s Dynacom Tankers Management Ltd. — quickly appeared to find a way through. Just 10 days into the war, a Dynacom-operated vessel popped up on tracking systems showing its location near India, after having last signaled from within the Persian Gulf.
+
+Dynacom’s “dark transit” move would be one that many other shipowners and crude exporters would emulate in the coming weeks and months. Adnoc was one of them.
+
+At least four of Sinokor’s ships appear on the Equasis maritime database as being managed by Adnoc, two of them since mid-April, though shipbrokers said privately that it’s possible some of them even began in March. The total number may also be far higher, as the already opaque practices of the shipping industry have been exacerbated by the risks of war.
+
+To be sure, Adnoc also relied on ships from owners other than Sinokor, including tankers owned by Navig8, an Adnoc-controlled firm. By early May, several people with knowledge of the matter said that Adnoc was also actively seeking tankers to purchase, to join the Hormuz shuttles — a practice that by then was already being jokingly dubbed the “Adnoc milk runs” by traders across the industry.
+
+After collecting their cargoes at UAE ports like Zirku and Das Island, it would take the tankers roughly two days to sail with their transponders off through the Persian Gulf and along the Strait of Hormuz to the Gulf of Oman. There, they’d pull up alongside empty tankers waiting to receive the oil and then deliver it to global markets.
+
+The ships would travel under cover of darkness, often in convoys that sailed close together and hugged the Omani coast, according to two people familiar with the matter.
+
+Without transponders to follow, analysts and journalists have been left poring over satellite imagery from the region.
+
+On average, Sinokor ships have transported at least 680,000 barrels a day of supplies from the UAE’s Persian Gulf ports since April, based on loadings that have been detected by both the Kpler and Vortexa platforms — though the actual figures could be far higher. Those numbers accelerated in June to 1.4 million barrels a day, the data show. At least 10 Sinokor vessels have been engaged in shuttle runs from the UAE’s oil terminals inside the Persian Gulf before discharging in the Gulf of Oman, and three of the shuttling ships have been doing so since the middle of April.
+
+Carrying such large volumes at a time when tanker earnings have been so high has been highly lucrative for the company, and would have already gone some way to paying back a multibillion-dollar bet on supertankers.
+
+It also puts Chung and Sinokor among some of the biggest winners of the shock to energy markets from the Iran war, alongside other large tanker owners, as well as energy traders such as Vitol Group and Trafigura Group, which tend to thrive during times of disruption and volatility.
+
+## Dark Rush
+
+While the UAE was one of the earliest and most active shippers through the strait, by early June its tankers had been joined by an expanding stream of vessels carrying oil from neighbors including Kuwait and Iraq.
+
+As the shipping industry gathered for a major conference in Athens, the growing flow of dark transits was one of the key subjects of conversation. Another, of course, was Chung himself. Known in the industry for his love of arm wrestling just about everyone he encounters, the indefatigable tycoon was still in dealmaking mode — trying to convince other owners to sell him more supertankers, people familiar with the matter said.
+
+By then, many of the ships moving through Hormuz were supported by a US military program that provided guidance and aerial protection as they sailed along the Omani coast to avoid potential mines in the middle of the strait, and as Iran controlled traffic through its own waters to the north.
+
+The flow of dark traffic is one of the factors that helped explain why oil markets had weakened significantly by early June, together with a surge in exports from the US and pullback in buying by China.
+
+But the covert nature of the transits meant the task of estimating the outlook for global supply got even harder. Some analysts at the time estimated that about 2 million barrels a day was exiting the strait, while JPMorgan Chase & Co. put the figure at just over 5 million. US Energy Secretary Chris Wright said on June 12 that about 7 million barrels a day of oil was making its way out.
+
+The interim peace deal between the US and Iran that followed just days later would open up those flows even further.
+
+But as a stream of stranded ships began exiting the Persian Gulf with their transponders turned on, the next question was whether empty vessels would be willing to re-enter and take on fresh loadings.
+
+Again, Sinokor was well positioned. The company controls more than a third of the VLCCs that would be able to reach the Persian Gulf in the next two weeks, according to shipbrokers’ estimates. At least one tanker that has sat waiting empty for months near South Africa is already heading towards Hormuz.
+
+In late June, the company informed shipbrokers it had provisionally booked a vessel to transport oil from the Persian Gulf to India at a rate that was among the highest so far this year. The communication was typical of the firm’s bold marketing tactics, brokers said.
+
+Freight rates have dropped after an initial surge following the peace deal, as it becomes more apparent that more ships are entering the Gulf, but still remain high by historical standards.
+
+Sinokor, again, continues to play a key role. In the last week alone the company has sent at least 18 supertankers into the Gulf, enough to carry 36 million barrels of crude out of the world’s most important energy producing region.
+
+“We can pass Hormuz Strait after loading,” Sinokor said in a message distributed to shipbrokers in late June, in which it urged brokers to book the company’s ships to load from an Iraqi oil terminal, adding: “Please let us know if you have any cargoes available.”
+
+---
+
+### PM Modi departs for three-nation visit to Indonesia, Australia and New Zealand
+*ANI · business*
+
+New Delhi: Prime Minister Narendra Modi departed on Monday for a three-nation to Indonesia, Australia and New Zealand.
+
+In his departure statement issued by the Prime Minister's Office, he stated that the visit will further strengthen India's Act East Policy, MAHASAGAR Vision as well as India's outlook towards a free and open Indo-Pacific.
+
+  
+
+"I am undertaking a three nation visit to Indonesia, Australia and New Zealand from 6-11 July 2026. At the invitation of the President of the Republic of Indonesia H.E. Mr. Prabowo Subianto, I will be visiting Indonesia from 6-8 July. India and Indonesia elevated bilateral ties to a Comprehensive Strategic Partnership during my first visit to Indonesia in 2018. This will be my first bilateral visit after the elevation of our bilateral ties and follows the state visit of President Prabowo, who was the chief guest at our Republic Day celebrations on 26 January, 2025," his departure statement said.
+
+"India and Indonesia share strong civilizational and people-to-people ties and my visit will further deepen all aspects of our multifaceted partnership. During this visit, I will also interact with the Indian diaspora in Indonesia and visit the Prambanan Temple complex at Yogyakarta with President Prabowo, which is another remarkable testament to our close cultural ties," the statement noted.
+
+PM Modi will then travel to Australia at the invitation of Prime Minister Anthony Albanese.
+
+"From Indonesia, at the invitation of the Prime Minister of Australia, the Hon'ble Anthony Albanese, I will travel to Melbourne. My visit will strengthen our Comprehensive Strategic Partnership and I shall in my discussions with Prime Minister Albanese, take forward our relations in the areas of defence and security, trade and investments, education and mobility and people-to-people ties. In Melbourne, I will have the opportunity to interact with the Indian diaspora which is an important pillar of our strategic partnership. Further, this visit will also provide an opportunity for India and Australia to deepen our bilateral ties in the areas of emerging and critical technologies, sports and sports science," he said in the statement.
+
+PM Modi will then visit New Zealand at Prime Minister Christopher Luxon's invite.
+
+"From Melbourne, at the invitation of the Prime Minister of New Zealand, Rt. Hon'ble Christopher Luxon, I shall visit Auckland, New Zealand. My visit will meaningfully build upon the strong momentum in our bilateral ties pursuant to the visit of Prime Minister Luxon to India in March 2025. During my visit, I shall discuss with Prime Minister Luxon how to further enhance economic, trade and commercial engagements. India and New Zealand have committed themselves to strengthening bilateral trade and commercial ties with the signing of the Free Trade Agreement. Our bilateral ties have seen significant contribution from the Indian diaspora and during this visit I look forward to addressing a large gathering of the Indian community who have excelled in all spheres of life," he said.
+
+"My visit to Indonesia and Australia in the Eastern and Southern Indian Ocean respectively, followed by New Zealand will further strengthen India's Act East Policy, MAHASAGAR Vision as well as our outlook towards a free and open Indo-Pacific," he added.
+
+---
+
+### Microsoft techie's Rs 1.9 crore salary began with his mother's gold bangles
+*India Today Trending Desk · general*
+
+## Microsoft engineer Manu Agarwal recounted how his parents sold his mother's jewellery to pay his college fees. His post framed the moment as a lasting family sacrifice behind his later success.
+
+A Microsoft techie shared a heartwarming story on how his father sold his mother's gold to afford fees. (Photo: LinkedIn)
+
+A Bengaluru-based Microsoft engineer has struck an emotional chord on LinkedIn after sharing the sacrifice that laid the foundation for his career.
+
+In a heartfelt post, Manu Agarwal revealed that years before he was earning a Rs 1.9 crore salary in Seattle, his father had sold his mother's jewellery just to pay a single semester of his college fees.
+
+Agarwal, now a Senior Software Engineer at Microsoft, looked back on a time when his family struggled to arrange even Rs 15,000 for one semester of his Bachelor of Computer Applications (BCA) course.
+
+"My father sold my mother's jewellery to pay my BCA fees. Rs 15,000 per semester. That's all it cost. But we didn't have it," he wrote.
+
+He recalled one moment that has stayed with him ever since. "I remember watching my mother hand over her gold bangles without saying a word. She didn't cry. She just looked at me. I didn't sleep that night."
+
+Years later, life had changed dramatically. Agarwal found himself working in Seattle at Microsoft, earning an annual salary of around Rs 1.9 crore. It was then that he made a call home that had been years in the making.
+
+"I called home and told my mother to buy back whatever she wanted," he wrote.
+
+Her response, however, was far more valuable than any jewellery. "_Beta, tere aane se sab wapas aa gaya_ (Son, with your success, everything has already been returned)," she told him.
+
+**See the post:**
+
+Reflecting on the journey, Agarwal added, "Some debts aren't financial. If you're from a family that sacrificed for your education, this one's for you."
+
+According to his LinkedIn profile, Agarwal's journey to Microsoft began with a summer internship at the company's Hyderabad office in 2016. Before joining Microsoft full-time, he also interned at GE Healthcare in Bengaluru, gradually building the career that would eventually take him to the company's Seattle headquarters.
+
+His post has resonated with thousands online, particularly those who saw echoes of their own families' sacrifices in his story.
+
+Many users shared similar experiences of parents going to extraordinary lengths to fund their education, while others said the post was a moving reminder that behind many professional success stories lies a family's quiet, often unseen, sacrifices.
+
+\- Ends
+
+Srimoyee Chowdhury
+
+Jul 6, 2026 09:50 IST
+
+---
+
+### Samsung eyes record quarterly profit as AI memory boom drives chip sales
+*Reuters · legal*
+
+Samsung Electronics is likely to estimate that its operating profit jumped about 18-fold to another record high from a year earlier in the second quarter, as AI growth continues to strain memory supply and push chip prices higher.
+
+On Tuesday, the world’s largest memory chipmaker by sales is likely to flag an operating profit of 86 trillion won ($56.35 billion) for the April to June quarter, according to an LSEG SmartEstimate based on forecasts from 30 analysts, weighted toward those with the best track records.
+
+Up from 4.7 trillion won a year ⁠earlier, this ​would mark a third consecutive quarter of record operating profit for Samsung, reflecting a prolonged memory shortage, as booming demand for AI inference infrastructure continues to outpace supply growth from global memory manufacturers.
+
+Analysts expect the memory market to remain undersupplied at least through next year.
+
+The robust growth has been driven not only by high-bandwidth memory (HBM), but also by stronger demand for conventional DRAM and NAND products as AI applications, particularly agentic AI, expand into a broader range ​of ​computing workloads.
+
+Unlike earlier AI applications focused mainly on training large models, agentic AI systems ⁠perform more complex, multi-step tasks that require additional memory for server processors and greater storage capacity to retain and retrieve data during inference, analysts said.
+
+Samsung is a key supplier of memory chips to major technology companies including ‌Nvidia, Google and Apple.
+
+Story continues below this ad
+
+Citi Research on Thursday said average selling prices for DRAM and NAND rose 44% and 53% quarter-on-quarter, respectively, in the second quarter.
+
+The ongoing memory shortage has fuelled a massive rally in memory chipmakers’ shares, with Samsung Electronics, SK Hynix and Micron soaring 158%, 273% and 242%, respectively, this year, driving all three companies’ market valuations above $1 trillion.
+
+## Chip worker’s bonuses could defy forecasts
+
+Despite the strong operating backdrop, analysts cautioned that the second-quarter earnings could fall short of consensus if Samsung books a larger-than-expected provision for employee bonuses during the quarter.
+
+In late May, Samsung averted a large-scale strike, reaching a wage deal that allocates 10.5% of the semiconductor division’s operating profit to special ⁠bonuses for chip employees. Some analysts estimate Samsung’s ⁠cumulative bonus provisions could exceed 40 trillion won, making the timing of accounting recognition a key variable for second-quarter earnings.
+
+Samsung will announce detailed earnings later this month.
+
+Story continues below this ad
+
+## Risks to watch
+
+Looking ahead, ⁠analysts see potential delays to AI infrastructure investment ‌as the biggest risk to the current memory boom.
+
+JPMorgan said in a recent note that while investors ​broadly agreed memory supply-demand fundamentals remained tight, many questioned whether AI memory’s rapidly rising share of ‌cloud service providers’ capital expenditure — estimated at 52% this year and expected to exceed 70% next year — would be sustainable.
+
+Any drop in AI spending could come back to haunt Samsung and SK Hynix, which last week pledged to invest 3,200 trillion ‌won ($2.07 trillion) to expand chip capacity ​in South Korea. ​Samsung expects to make ​that investment between 2026 and 2040, while SK Hynix gave no detailed timeframe.
+
+Investors are seeking clearer evidence that breakthroughs in AI services will translate into faster growth in cloud computing and 
+
+Story continues below this ad
+
+The world’s top memory chipmaker by ⁠sales said in April it has signed multi-year binding contracts with customers hoping to lock in supplies, without disclosing identities or terms.
+
+Nomura said in a recent report that it expects commodity DRAM prices to rise 24% quarter-on-quarter and NAND prices to increase 25% in the July-September quarter, supported ‌by higher demand for consumer ⁠memory products and chips for traditional and AI data centers.
+
+Meanwhile, Samsung’s mobile business faces mounting cost pressures as rising memory prices have squeezed its margins, with higher component costs more than offsetting recent handset price increases.
+
+Although Samsung ​has already raised smartphone prices, analysts said further price increases may be needed in the second half of the year. Rival Apple raised prices of iPads and MacBooks last month.
+
+---
+
+### Trump wants Qatar-gifted Air Force One to feature at his presidential library, but hurdles remain: Report
+*Ani · business*
+
+US President Donald Trump has started travelling on a Boeing 747-8 presented as a gift by Qatar, though his plans to ultimately showcase the plane at his forthcoming presidential library in Miami face numerous political, military, and logistical hurdles, according to The Wall Street Journal (WSJ).
+
+The aircraft is presently functioning as a temporary VC-25B "bridge" Air Force One while Boeing works to finish two delayed next-generation presidential planes.
+
+According to the news outlet, Trump has been aiming to replace the vintage Air Force One fleet since his initial term in office. He commissioned two new Boeing aircraft to serve as Air Force One in 2017, but the project has run into successive delays, meaning the initial jet is now anticipated for delivery only in mid-2028, just months before Trump completes his term.
+
+  
+
+To bridge this interval, the US Air Force searched for an available aircraft equipped to transport the president. This search led to a VIP-configured Boeing 747-8 belonging to the Qatari royal family.
+
+Trump subsequently inspected the aircraft in Palm Beach and noted that he had originally enquired whether Qatar's emir would permit the temporary use of the plane. Instead, the emir volunteered to present it as a donation to the US government, with ownership officially transferring to the Air Force in spring 2025.
+
+The news outlet reported that the plane carried an estimated value of USD 400 million at the time of the donation, sparking pushback from both Republican and Democratic quarters regarding the ethics of accepting such a high-value gift from a foreign government.
+
+The report added that the plane has since received roughly USD 400 million in military modifications funded by taxpayers, including secure communication networks and defensive mechanisms required for safe presidential transport.
+
+Until Boeing hands over the next-generation Air Force One aircraft, the ex-Qatari jet is projected to serve as Trump's primary mode of presidential transport, according to the outlet.
+
+Trump intends for the Boeing 747 to serve as the focal point of his envisioned presidential library in downtown Miami, mirroring the retired Air Force One exhibit featured at the Ronald Reagan Presidential Library in California, the news outlet stated.
+
+
+---
+
 ## 5 July 2026
 
 ### Best Camera Phones Under Rs. 30,000 for Content Creators in India
