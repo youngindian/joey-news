@@ -1,10 +1,262 @@
 # Editorials
 
-_Last updated: 2026-07-05 05:41 UTC_
+_Last updated: 2026-07-06 06:01 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
 
+## 6 July 2026
+
+### Old wine, new bottle: on the EPFO’s recent changes
+*The Hindu · Editorial*
+
+The Union Labour and Employment Ministry’s notification of fresh rules for the Employees’ Provident Fund (EPF), Employees’ Pension Scheme (EPS), and Employees’ Deposit Linked Insurance (EDLI) is a procedural formality following the enforcement of the Code on Social Security, 2020, since November last year. Four months ago, the Central Board of Trustees (CBT) of the Employees’ Provident Fund Organisation (EPFO) approved the implementation of social security measures framed as a sequel to the Code that subsumes nine laws, including the Employees’ State Insurance Act, 1948, and the Employees’ Provident Funds and Miscellaneous Provisions Act, 1952. With around eight crore subscribers, changes to the PF legal framework have wide implications for members and their families. Viewed from this angle, the notification signalled continuity and sought to make the framework align with the Code. Even the feature of PF contributions being made voluntary in excess of the statutory wage ceiling of ₹15,000 is not new. The practice of allowing contributions up to 12% of the basic pay, regardless of the wage ceiling, was the norm till the COVID-19 pandemic hit. It was only then that many establishments, while experiencing the shortage of funds, had begun limiting their contributions to the wage ceiling. However, pensioners and members had hoped that the notification would revise the minimum monthly pension of ₹1,000 and the monthly wage ceiling for contribution to the PF beyond ₹15,000, both of which were determined 12 years ago. But they have been left disappointed. According to the EPFO’s 2024-25 annual report, about 36.8 lakh of its 81.5 lakh pensioners receive a monthly pension of ₹1,000 or less.
+
+Yet, the government has taken no decision on either issue despite repeated demands from pensioners and other stakeholders. Even if financial implications are a concern, the government’s grant-in-aid for the minimum pension, benefiting about 20.6 lakh pensioners, is only around ₹1,000 crore annually. Of the government’s outlay of ₹11,000-odd crore towards the EPS for the current year, most of its provision goes for the component of its contribution at 1.16% of the monthly pay (limited to the wage ceiling of ₹15,000) of EPS members. The government should restore the applicability of the EPS to all workers, regardless of pay. If the government feels that the EPFO is getting overburdened with its work, it can formulate a tailored scheme with the Pension Fund Regulatory and Development Authority. Efforts to expedite and simplify claim settlements should continue. The government must remember that substantive EPFO decisions affect crores of employees.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/old-wine-new-bottle-on-the-epfos-recent-changes/article71185821.ece)
+
+---
+
+### ​Two together: on the Japanese Prime Minister’s visit to India
+*The Hindu · Editorial*
+
+Japanese Prime Minister Sanae Takaichi’s first official visit to India turned out to be an occasion to signal enhanced bilateral coordination in the face of global uncertainties. Rapid changes in geopolitics and technological advances are forcing all countries into fresh thinking, most consequentially with regard to China. The U.S. appears less enthusiastic about the Quad grouping (with India, Japan, and Australia) and is unsure of the nomenclature “Indo-Pacific” in its strategy. Against this backdrop, India and Japan declared a joint intent to continue with an ‘updated’ Free and Open Indo-Pacific (FOIP) posture, ring-fencing bilateral ties from multilateral arrangements. Ms. Takaichi signed at least 16 agreements and documents, including a joint statement on energy resilience to support bilateral cooperation along the ‘maritime energy transport value chain’. The commitments to energy cooperation were supported by the awareness that to play lead roles in the FOIP, the two sides should cooperate in the energy domain from South Asia to the Indo-Pacific. This concern was also linked with the problems both sides faced regarding the safety of energy-carrying ships and sailors during the U.S.-Israel war against Iran. The two major Asian economies have a shared interest in ensuring that the nearest energy sources in the Gulf remain accessible. They have agreed to build naval platforms to enhance maritime domain awareness and surveillance.
+
+A joint statement issued during the visit mentioned “serious concerns” about the prevailing situation in the South China and East China Seas, and Japanese officials spoke to the media frankly about the need to address the Taiwan issue peacefully. Though a planned visit to Guwahati was dropped, Ms. Takaichi underscored Japan’s attention to the northeastern regions of India by connecting them with “relevant partners and regional organisations” of the Bay of Bengal region. BIMSTEC was mentioned as a partner organisation for Japan. Japan has major investments in Bangladesh and Thailand, and connecting these projects, including the Matarbari port in Cox’s Bazar, through an ‘industrial value chain’ with India’s northeast can boost regional prosperity and security. Ms. Takaichi has painted a vast canvas of cooperation stretching from India’s neighbourhood to the Pacific Ocean to protect the India-Japan relationship from the uncertainties of the current world order, but both sides have to manage multiple other relations effectively to ensure optimal outcomes. They have to manage their relations with China and the U.S. in such a manner that their strategic interests are protected and conflicts avoided. It can be a path of mutual learning and cooperation for India and Japan as they seek to navigate the global turbulence.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/two-together-on-the-japanese-prime-ministers-visit-to-india/article71185797.ece)
+
+---
+
+### The right to belong beyond official documentation
+*The Hindu · Opinion*
+
+On June 24, 2026, a member of India’s Ministry of External Affairs (MEA) released a startling statement. The Indian passport, the person said, is a “travel document” and not a “citizenship document”. The assertion set off a minor storm. The reasonable question that followed from many was if the passport would not do it, what document would?
+
+Posed this way, the MEA’s statement and the questions it raises become something of a red herring. A passport can only be issued to a non-citizen in exceptional circumstances, where the Government of India is of the opinion that it is necessary to do so in “public interest”. Surely, therefore, barring those cases where this power is exercised, a passport must be seen as conclusive proof of a person’s citizenship.
+
+If a passport is not proof of citizenship, then what is? | ExplainedNo doubt, it might be open for the government to establish under law that a person obtained the document by concealing the true status of his or her citizenship. But that does not mean a passport can be dismissed as merely a travel document.
+
+Citizenship under scrutinyThe MEA’s statement takes on an ominous heft when set against the milieu in which it was made. It arrives in the middle of the Election Commission of India (ECI)’s Special Intensive Revision (SIR) of electoral rolls in various States. It also comes in the wake of a pair of pronouncements by the Supreme Court of India, most recently on the validity of the SIR in Bihar and the ECI’s power to scrutinise citizenship, and, before that, on the Assam Accord, in which the Court had much to say on how it conceives republican ideas of citizenship. Moreover, since an amendment to the Citizenship Act in 2019 (made operational in 2024), rules of naturalisation have been rewritten along religious lines. Taken together, all these developments must prompt us to ask an elementary question: what does it mean to be a citizen of India, who belongs, and on what terms?
+
+The Constitution’s answers to these questions, even if some find them indecisive, were reached with some amount of care and caution. Part II to the document, comprising Articles 5 to 11, settled the citizenship of those caught amidst the tragedies of Partition. Article 11 reserved to Parliament a seemingly plenary power to legislate and “make any provision with respect to the acquisition and termination of citizenship and all other matters relating to citizenship”.
+
+Assam labourer shows 15 documents but fails citizenship test in High CourtOn a plain and literal reading, it might seem like the Union legislature was accorded unlimited authority to determine what factors can govern citizenship. Indeed, much of the contemporary defence of religiously founded citizenship laws has rested on such an interpretation. But a careful construal of the Constituent Assembly debates, as Gautam Bhatia has shown, suggests that the framers did not treat citizenship as a matter on which Parliament could do as it pleased.
+
+The foundations of citizenshipConsider, for example, an amendment moved to the draft provisions of the Constitution by P.S. Deshmukh. He sought to include an express stipulation “that every person who is a Hindu or a Sikh by religion and is not a citizen of any other State, wherever he resides shall be entitled to be a citizen of India”. The effort was met with sharp resistance. Among those opposing the move was Jawaharlal Nehru, who rejected the amendment outright, finding it “absurd on the face of it”.
+
+Alladi Krishnaswami Ayyar provided the most forthright response to it. He argued that India was plighted to the principles of a secular state. Therefore, there was simply no question of making a distinction between one kind of person and another on any “racial or religious” ground. Ultimately, Deshmukh’s proposal was defeated, and B.R. Ambedkar’s neutral citizenship clause was affirmed.
+
+Thus, freestanding as the words in Article 11 might be, they must be understood in the context of their wider framing. They have in them an implied limitation drawn from the Constitution’s most cherished and foundational commitments to secularism, equality, and non-discrimination. Parliament can decide the modalities of citizenship, but it cannot make religion a condition for entry.
+
+SIR: Citizens, citizenship, and Right to VoteAt its conception, India adopted the principle of jus soli, that is a form of citizenship predicated on residence and birth. The Citizenship Act, 1955, saw the principle as its primary governing creed. But over time, the legislature moved away from the theory. First, in 1985, Section 6A was introduced into the Act to give effect to the Assam Accord, suspending the conferment of citizenship based on the dates on which people of “Indian origin” had come into India. Second, in 2003, the statute was further amended to deny citizenship to persons born in India even when only one of the parents of such person was an “illegal migrant”.
+
+In upholding Section 6A, the Supreme Court in October 2024, appeared to fortify two principles. It effectively saw no implied limitation in Article 11 and instead viewed the grant of power to Parliament to be virtually unlimited. It also appeared to lend constitutional respectability to an idea first promulgated by it in Sarbananda Sonowal vs Union Of India & Anr. (2005), that migration into Assam constituted “external aggression” against the State.
+
+This rationale carried into its judgment in Association for Democratic Reforms vs Union of India, delivered in May this year, where the Court upheld the SIR exercise in Bihar, holding that the ECI may enquire into a person’s citizenship, for the “limited” purpose of deciding eligibility for the electoral roll. The Court described the distinction it drew as “principled”, between an adjudication on citizenship and on the administrative satisfaction concerning the continuation of a person’s name on the electoral roll. Where the ECI is not satisfied with a person’s assertion of citizenship, it ought simply to refer the case to the “competent authority” under the Citizenship Act.
+
+But we have been down this road before. In Assam, during an earlier revision, voters marked “doubtful” were despatched to foreigners’ tribunals and consigned to an endless bureaucratic maze to establish their citizenship. Today, therefore, we have ourselves a machinery in which a person need not be declared as a foreigner to be stripped of their basic rights. Instead, they are placed in a vacuum, neither confirmed nor cleared, with their rights being held in indefinite suspension.
+
+Against this backdrop the MEA’s clarification appears menacing. Running through all these exercises to establish citizenship is a common thread over the burden of proof. Where a resident could once rely on the state to take their citizenship as given, the onus today has been quietly shifted onto them. Almost any document adduced is seen as inadequate evidence. The Aadhaar card, we are told, is proof only of residence; the voter ID, only of prior registration; and now the passport, only of a right to travel.
+
+Satire | Birth certificate is not proof of birth: Ministry OfficialThe primacy of personhoodUnder the Constitution, many of our basic privileges are premised on personhood. Article 14 guarantees equality before the law to “any person”, and Article 21 the right to life and personal liberty to all. Citizenship is built on this foundation. It allows one the freedoms guaranteed under Article 19, to speech and expression, to carry on any trade or business, and to assemble peacefully. And it is the status of citizenship that guarantees one the statutory right to vote, to choose one’s lawmakers, and to decide how one ought to be governed. Therefore, to be cast out of the position is to forfeit what Hannah Arendt called the right to have rights.
+
+In a constitutional order where personhood comes first, the rules that determine who qualifies as a citizen must rest on more than the accident of paperwork. They must be built on what the Constitution most cherishes, on the equal dignity of every person and the right of each to equal protection of the law.
+
+Suhrith Parthasarathy is an advocate practising in the Madras High Court
+
+[Read full article](https://www.thehindu.com/opinion/lead/the-right-to-belong-beyond-official-documentation/article71186432.ece)
+
+---
+
+### Custodial horror exposes policing rot within Karnataka police
+*Deccan Herald · Editorial*
+
+The arrest of Sub-Inspector Praveen Kumar of Amruthahalli police station in Bengaluru for allegedly subjecting minor boys to horrific custodial abuse has shaken public confidence in the police, and revealed a disturbing moral crisis within the force.
+
+According to investigators, the children, detained in connection with a murder investigation, were taken to a private lodge where they were allegedly stripped, beaten, and forced to perform sexually explicit acts on one another, which were filmed on the officer's mobile phone.
+
+The charges under the Protection of Children from Sexual Offences Act and the Juvenile Justice (Care and Protection of Children) Act, 2015, include aggravated sexual assault by a person in a position of authority, use of children for pornographic purposes, physical assault, and criminal intimidation. This goes far beyond excessive policing; it is an act of criminal depravity.
+
+The institutional failure is as damning as the crime itself. The incident remained concealed for nearly a year and came to light only after the videos were copied from the accused officer's mobile phone during an unrelated domestic dispute, and later surfaced on social media.
+
+Even more disturbing, the jurisdictional Deputy Commissioner of Police remained oblivious throughout this period, exposing a complete breakdown of supervisory responsibility.
+
+PSI arrested for alleged custodial abuse in BengaluruThis is not an isolated aberration. In recent years, an alarming number of personnel have been booked for grave offences ranging from drug trafficking to kidnapping and dacoity. Rampant politicisation of transfers and postings has hollowed out the chain of command, leaving officers beholden to political patrons rather than to their superiors or the law.
+
+Unless Home Minister Priyank Kharge dismantles this culture of patronage, misconduct will continue to fester. The Director General of Police must also institute mandatory psychological evaluations of personnel, with temperamentally unfit officers reassigned away from public-facing duties.
+
+The Karnataka High Court should invoke its extraordinary jurisdiction under Article 226 of the Constitution and take suo motu cognisance of this case. A court-monitored Special Investigation Team must be constituted, employing the same forensic rigour, digital evidence analysis, and scientific standards used in the Prajwal Revanna probe.
+
+Given the grave nature of allegations, the inquiry must extend beyond this single incident to scrutinise the officer’s entire service record, as similar abuses may have been committed in the past.
+
+Only an independent investigation can protect the child victims from intimidation, preserve crucial digital evidence, eliminate institutional bias, and restore public faith in the rule of law.
+
+Karnataka deserves a police force that inspires confidence, not fear. Those entrusted to uphold the law must never become the very predators from whom the law is meant to protect society.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/custodial-horror-exposes-policing-rot-4063205)
+
+---
+
+### Stop misuse of SIR data to deny welfare
+*Deccan Herald · Editorial*
+
+The West Bengal government has wrongly tried to extend exclusions under the Special Intensive Revision (SIR) of electoral rolls, held in the State before the recent elections, to other areas of citizen rights.
+
+The Suvendu Adhikari government recently issued an order to remove the names of the beneficiaries of the public distribution system (PDS) and other State-run welfare schemes, such as the Annapurna Yojana, a cash transfer scheme for women, based on booth-wise lists of electors deleted under the SIR.
+
+That meant that people whose names were deleted from the rolls would be denied rations. R Rajagopal, former editor of a prominent Kolkata newspaper, The Telegraph, was unable to renew his passport because his name had been deleted from the rolls. He got his passport after there was a public debate on the matter.
+
+The government’s decision to link the PDS to the outcome of the SIR was challenged in the Supreme Court, but the court directed the petitioners to approach the high court.
+
+The SIR exercise is conducted by the Election Commission of India (ECI), with the stated purpose of cleansing and updating the electoral rolls by identifying duplicate, deceased, or otherwise ineligible voters. The electoral roll data should not be used for any other purpose.
+
+The apex court has clearly said in ADR vs ECI, 2026, that a person's citizenship under the Citizenship Act does not cease merely because they are found ineligible for inclusion in the electoral rolls pursuant to an SIR.
+
+Asaduddin Owaisi slams Bengal govt drive to delete ration cards based on SIR-linked verification “Such an enquiry does not amount to a determination of citizenship in the strict sense, and any action taken pursuant thereto is confined to electoral consequences alone,’’ the court said.
+
+Welfare benefits offered by the State are also not limited to citizens. The National Food Security Act, 2013, under which the PDS works, is based on the right to food.
+
+The right to food, which has been recognised by the Supreme Court as part of the right to life under Article 21, is not restricted to citizens. Denying basic welfare measures such as PDS entitlements based on the SIR exercise is, therefore, unconstitutional.
+
+The State can formulate and implement welfare measures and target or limit them on the basis of its own criteria and rationale. The West Bengal government has said that it wants to reduce fraud and pilferage in the PDS system.
+
+It is an administrative matter and should be addressed administratively, not through a list prepared by the ECI.
+
+The commission should insist that its data should not be used for any purpose other than those related to elections. The SIR process itself was faulty, and its outcome is being put to other kinds of wrong uses.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/stop-misuse-of-sir-data-to-deny-welfare-4063210)
+
+---
+
+### The alchemy of perseverance
+*Deccan Herald · Opinion*
+
+Few quotations capture the essence of success as powerfully as these words of A P J Abdul Kalam: “If you want to shine like a sun, first burn like a sun.” Simple yet profound, they remind us that greatness is never an accident.
+
+Just as the sun radiates light only because it burns with immense energy, every remarkable achievement is preceded by years of hard work, sacrifice, perseverance, and unwavering determination.
+
+The world admires success, but it often overlooks the struggle that made it possible. The sun is nature’s greatest example of selfless endurance. It rises every day without fail, bringing warmth, light, and life to the Earth. We look at its radiant light and admire its effortless dominance over the sky. Yet, science and philosophy alike remind us that the sun’s blinding radiance is not a passive state of being. Behind this brilliance lies an unimaginable process of continuous burning.
+
+Abdul Kalam uses this powerful metaphor to teach us that excellence demands effort. Consider the very life of this man who came from a humble background in Rameswaram to become India’s ‘Missile Man’ and eventually its president; it was not all luck.
+
+It was a masterclass in burning. As a young boy, he distributed newspapers to support his family, studying under the dim light of kerosene lamps.
+
+Later, as a scientist, he faced massive, public failures, including the crash of the early SLV-3 satellite launch vehicle. Instead of retreating, he internalised the heat of that failure, laboured through the technical errors, and emerged with a successful launch just a year later.
+
+Kalam did not just preach resilience; he lived it. He understood that talent is merely raw fuel; it requires the spark of relentless effort to ignite into true capability.
+
+Nature itself reinforces this timeless lesson. A fragile seed pushes through heavy soil, breaking through darkness and channelling all its energy upwards before it emerges as a flourishing tree. Coal undergoes tremendous pressure over millions of years before transforming into a diamond.
+
+Even a butterfly struggles to emerge from its cocoon, and that very struggle strengthens its wings for flight. Every beautiful creation in nature undergoes a process of hardship before revealing its true splendour.
+
+To shine like the sun is a noble aspiration. But only those willing to burn with passion, perseverance, and purpose will ever radiate that enduring light.
+
+[Read full article](https://www.deccanherald.com/opinion/the-alchemy-of-perseverance-4063199)
+
+---
+
 ## 5 July 2026
+
+### DC Edit | Why Is Jail, Not Bail, The Order?
+*Deccan Chronicle · Editorial*
+
+The judges of the Supreme Court often criticise those in the lower judiciary on public platforms about the latter declining bail to undertrial prisoners for one reason or the other and offer their pontifications about the right to bail, but while on the bench will pronounce judgments that almost pre-close the options of the very same judges in trial courts. And then there are judges and magistrates who go after apex court verdicts which give them an excuse to keep people behind bars forever. Between them they display legal insensitivity of the worst kind, disregard for human rights and total neglect of constitutional positions on individuals’ freedom.
+
+A Delhi court has again rejected the bail applications of student activists Umar Khalid and Sharjeel Imam in a case linked to the 2020 Delhi riots as it had “little option but to follow the Supreme Court order on January 5” which quite inappropriately commented on the merits of the case while declining bail. “Following the said order of the Supreme Court, this court cannot entertain the applications and grant bail to the applicants. In fact, the applications are not maintainable and they are hereby dismissed,” the court said. In the judge’s opinion, there is “no substantial change of circumstances”.
+
+A two-member bench of the Supreme Court had recently expressed “serious reservations” on the narrow reading of a judgment of a larger, three-member bench which held that prolonged incarceration without trial warrants constitutional intervention. The bench had pointed to situations where statutory conditions for bail will “melt down” if there is no likelihood of trial being completed within a reasonable time and the period of incarceration already undergone has exceeded a substantial part of the prescribed sentence.
+
+Mr Khalid and Mr Islam have been in jail for nearly six years with no end to their trial or incarceration in sight while judges scramble for reasons to keep them in jail. While Article 21 of the Constitution talks of “procedure established by law” before stripping someone of their right to life and personal liberty, some courts make the procedure the punishment. This is an affront to the spirit of the Constitution and hence must end.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-why-is-jail-not-bail-the-order-1968606)
+
+---
+
+### DC Edit | Will Consensus On Ladakh Cut Tension, Bring Peace?
+*Deccan Chronicle · Editorial*
+
+The emerging consensus between Ladakh’s representative bodies — the Leh Apex Body (LAB) and the Kargil Democratic Alliance (KDA) — and the Union government is more than an administrative breakthrough; it is a reaffirmation of India’s democratic spirit and a vital step toward stabilising one of the nation’s most sensitive frontiers.
+
+After months of tension, shutdowns, and public mobilisation, the agreement signals a shift from uncertainty to constructive partnership — something Ladakh urgently needed and the country could not afford to ignore.
+
+The finalised minutes of the May 22 meeting capture this turning point. As the document records, both sides agreed to craft an appropriate customised model of governance suited to Ladakh’s unique socio cultural, geographical and strategic characteristics, empowering a new elected body with executive, financial and legislative authority.
+
+This is not a symbolic gesture. It restores democratic participation to a region that has repeatedly voiced its desire for meaningful self governance since becoming a Union Territory in 2019.
+
+The elected executive will exercise the highest level of control over subjects falling under the purview of the Union Territory-level elected body and supervision over civil servants, including appraisals.
+
+Equally significant is the agreement on constitutional safeguards. The minutes emphasise that Ladakh requires a distinct and tailor made arrangement, potentially through a sui generis model analogous to Article 371. This recognition directly addresses public anxieties over land, jobs, culture and environmental fragility — concerns that fuelled the region wide shutdowns in Leh and Kargil. Those protests, reflecting the widening trust deficit, were a clear signal that Ladakh’s patience was wearing thin.
+
+Ignoring such discontent would have been a grave mistake. Ladakh is not just another administrative unit; it is India’s shield along the borders with Pakistan and China. In times of crisis, Ladakhis have stood unflinchingly with the nation. During the Kargil war, they supported the Army with unmatched courage — protecting supply lines, volunteering for service, and offering every possible assistance. Their patriotism is woven into India’s national security fabric.
+
+To alienate such a people would not only be ungrateful, it would also be strategically reckless. This consensus therefore does more than resolve a political standoff — it strengthens India’s frontier stability. A region that guards the nation’s highest peaks and most volatile borders cannot be governed through mistrust or unilateral decisions. By choosing dialogue over delay, the Centre has prevented a potentially combustible situation from escalating.
+
+The agreement also lays the groundwork for a future democratic architecture that could eventually evolve into full statehood. It balances Ladakh’s aspirations with fiscal realities, offering a phased path that is both pragmatic and respectful. In embracing Ladakh’s demands for representation and protection, the government has reaffirmed a simple truth: India is strongest when every region feels heard, valued and empowered.
+
+The people of Ladakh have always stood for India. Today, the country stands with them — and the nation is safer, stronger and more united for it.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-will-consensus-on-ladakh-cut-tension-bring-peace-1968601)
+
+---
+
+### John J. Kennedy | Mental Health On Campus: It Needs Much More Than Just Counselling!
+*Deccan Chronicle · Opinion*
+
+The University Grants Commission’s new guidelines on mental health and well-being in higher educational institutions deserve appreciation. They recognise a crisis that India’s universities can no longer ignore. Student suicides, rising anxiety, depression and emotional distress have become recurring features of higher education across India. The guidelines propose dedicated mental health centres, counselling services, faculty mentoring, peer support, crisis management systems and awareness programmes. These are sensible measures. They reflect a welcome shift from treating mental health as a private problem to recognising it as an institutional responsibility.
+
+The real challenge, however, begins after the policy is announced. India has produced many thoughtful education policies. Their impact has often depended on implementation, or the lack of it. The UGC guidelines face the same test.
+
+Many universities and colleges already struggle with severe faculty shortages, inadequate funding, overcrowded classrooms and weak student support systems. Hundreds of affiliated colleges lack enough teachers to meet academic requirements. Expecting these institutions to recruit qualified psychologists, establish fully functioning wellness centres, and sustain professional counselling services without additional financial support may not be realistic. There is a risk that many institutions will comply on paper while changing very little on the ground.
+
+The shortage of trained mental health professionals presents another challenge. India already has too few psychiatrists, psychologists and counsellors for its population. Recruiting qualified professionals is difficult even for well-funded private universities. Smaller colleges in rural districts will face even greater difficulties. Partnerships with hospitals and external agencies may help, but they cannot substitute for a permanent support system within campuses.
+
+The guidelines also recommend faculty mentoring. Many students need a trusted teacher who listens, guides, and notices when something is wrong. But mentoring requires time, training and continuity. Faculty members who teach large classes, handle administrative responsibilities, meet research targets, and work on short-term contracts cannot easily provide sustained mentoring.
+
+Unless universities improve staffing and reduce excessive workloads, mentoring may remain an aspiration rather than a reality.
+
+Implementation alone, however, is not the central issue. The larger question concerns the way Indian universities themselves have changed. The discussion on student mental health increasingly uses the language of counselling, therapy and psychological intervention. These services are necessary. They provide support when students face emotional crises. However, emotional distress does not develop in isolation. Universities themselves often create conditions that contribute to stress, loneliness and hopelessness.
+
+Many campuses have become highly competitive spaces where academic performance, placements and employability tend to dominate student life. Students move constantly between classes, coaching, internships, competitive examinations and online learning. Success is measured through grades, rankings and job offers. Failure carries a high social cost. Many students hesitate to admit that they are struggling because they fear being judged by peers, teachers or even their families.
+
+Several institutional practices add to this pressure. Delayed examinations, uncertain admissions, inconsistent evaluation, research pressure, administrative indifference and poor grievance mechanisms create avoidable anxiety. Ragging, discrimination, harassment and social exclusion continue to affect many campuses. Counselling can help students cope with these experiences, but it cannot remove the conditions that produce them.
+
+Many students also experience a deep sense of isolation. Universities were once places where students formed lasting friendships, participated in debates, joined cultural groups, and built close relationships with teachers. Today, digital communication has expanded social networks, but it has not replaced human connection. Students may interact constantly online and still feel profoundly alone.
+
+This loss of community affects some students more than others. First-generation learners, students from rural backgrounds, linguistic minorities, and students from marginalised communities often enter campuses that are culturally unfamiliar. Many still struggle with language, confidence and social acceptance alongside academic work. A counselling session may help them after distress becomes severe. A supportive campus community may prevent that distress from developing in the first place.
+
+Another concern deserves attention. Over-relying on therapy can shift blame from institutions to individuals. Students who feel lonely are encouraged to seek counselling; those experiencing burnout are advised to manage stress; those...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/john-j-kennedy-mental-health-on-campus-it-needs-much-more-than-just-counselling-1968614)
+
+---
+
+### SANJAYOVACHA | The Missing Dimension In India-Japan Relationship | Sanjaya Baru
+*Deccan Chronicle · Opinion*
+
+The India-Japan strategic partnership is one of India’s “truly strategic” partnerships, considering that we have defined over thirty bilateral relationships over the past three decades as “strategic”. The relations between India and Japan at the State-to-State level are defined by Kautilya’s simple and straightforward proposition that “a neighbour’s neighbour is a friend”. Shared cross-border concerns bring the two together. These relations were once again in focus last week during the visit to New Delhi of Japan’s Prime Minister Sanae Takaichi.
+
+While these relations have developed vigorously over the past quarter century under three successive Indian Prime Ministers, on the Japanese side two Prime Ministers must be credited for their commitment to relations with India -- Junichiro Koizumi and Shinzo Abe. Prime Minister Takaichi is a disciple of Abe and has restored momentum to the relationship during her brief tenure. Her visit to New Delhi was, therefore, significant.
+
+However, and interestingly, in their present state the India-Japan bilateral relations appear to be the exact reverse of the present state of bilateral relations between India and the United States. Consider this. In the case of the US and India, people-to-people (P2P) and business-to-business (B2B) relations remain robust even as government-to-government (G2G) have become testy, transactional and wanting in trust. India-Japan relations, on the other hand, testify to a robust and growing G2G engagement, with high levels of trust between political leaderships, but remain constrained by inadequate B2B connect and very low level of P2P engagement.
+
+In fact, as a Japanese scholar said to me, in the case of Japan’s relations with China and India there is a similar imbalance. While India-Japan G2G are strong and B2B and P2P remain weak, Japan-China G2G relations have become very strained, especially after Ms Takaichi took charge, while Japan-China P2P and B2B relations remain fairly robust.
+
+Prime Minister Takaichi arrived in New Delhi at a time when the Japanese media was reporting a wave of anti-immigrant, including an anti-tourist, sentiment at home. Japan has hiked its visa fee by more than three times to discourage tourism in a Japan over-run by tourists. Indians have not been spared from this anti-immigrant sentiment. Indian tourists have been reporting back home that several restaurants refuse to admit Indian customers. Apart from traces of racism, the bad behaviour of many Indian tourists overseas has made them unwelcome in many countries, including Japan. This despite the fact that the numbers of Indian tourists travelling to Japan remains low.
+
+Japan’s diplomats in India have been trying to encourage more Indian students to study in Japan, but with limited success. More than the limit imposed on P2P engagements due to low numbers, the quality of such engagement as there is has also been found wanting. While Japanese and Indian elites have high regard for each other’s culture and civilisation, there is very little appreciation of this among ordinary folk in both countries and little is taught about each country in the other’s.
+
+What of the B2B engagements? Japanese businesses, big, medium and small, continue to find China and Southeast Asia more attractive as destination for their overseas investments. It is only post-Covid that Japanese direct investment in China has begun to taper off and Japanese FDI into India has shown any appreciable increase.
+
+As a perceptive Indian business person based in Tokyo observed recently, India remains a daunting place for Japanese firms to do business in. “Many Japanese corporations have become accustomed to operating in China which efficiently ‘packages’ everything necessary to ‘plug and play’ in the country.” In India they have to still figure out how to go about doing business.
+
+The Japanese scholar I spoke to also believes that even though the political elites in both Japan and China are wary of each other, the business and social elites in Japan still retain a more positive view of China compared to their view of India. Given that they are themselves so disciplined, organised and efficient, the Japanese elites appreciate a similar commitment to order and civility among other East Asian societies, including China. Indians, on the other hand, come across as noisy, messy, chaotic and boisterous.
+
+These remarks reminded me of Prime Minister Junichiro Koizumi’s question to Prime Minister Manmohan Singh when, in 2005, he asked the latter whether India was part of “Rising Asia” to its East or “Unstable Asia” to its West. It takes more than brotherly and sisterly feelings between political leaders for societies at large to feel more comfortable with each other. East Asians in general, including Japanese, Koreans, Taiwanese and, indeed Chinese, feel more comfortable dealing with the West and with some Southeast Asian nations. India is still viewed by most of them as a difficult place to travel to, to do...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/sanjayovacha-the-missing-dimension-in-india-japan-relationship-sanjaya-baru-1968633)
+
+---
 
 ### The hidden costs of the tourism boom
 *Deccan Herald · Opinion*
