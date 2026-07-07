@@ -1,8 +1,140 @@
 # Editorials
 
-_Last updated: 2026-07-06 06:01 UTC_
+_Last updated: 2026-07-07 05:42 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 7 July 2026
+
+### Bad for both: On the Russia-Ukraine conflict
+*The Hindu · Editorial*
+
+More than four years into Russia’s invasion, Ukraine has found ways to raise the cost of the war for the Kremlin — striking its energy infrastructure with drones and imposing a drone blockade on Crimea. When the war began in February 2022, Ukraine’s immediate response was to resist Russia’s battlefield advances, while mobilising international support. As the war dragged on, Ukraine received advanced defensive and offensive weapons from its western partners, while Russia was subjected to sweeping sanctions. But this approach did not slow Russia, which reinforced its front lines and captured more Ukrainian territory. Both sides have suffered tens of thousands of casualties. Ukraine’s economy has become heavily dependent on western aid. Kyiv has also transformed the way the war is fought by launching hundreds of drones each day at Russian troops and critical infrastructure. For President Vladimir Putin, who initially sought to shield the Russian public from the consequences of the war, these attacks are a stark reminder that the war has come home. Strikes on Russian oil facilities, described by Ukrainian President Volodymyr Zelenskyy as “long-range sanctions”, have knocked out parts of Russia’s refining capacity. Ukraine has also targeted the electricity infrastructure and fuel logistics of Crimea, the Black Sea peninsula Russia annexed in 2014, forcing a state of emergency.
+
+Mr. Zelenskyy wants to use this offensive pressure to force Mr. Putin to the negotiating table and secure a ceasefire. But drone warfare has only slowed Russian advances. Last week, Russia’s Defence Ministry announced the capture of the eastern city of Kostiantynivka and a closing in on Lyman. Russia now controls over 20% of Ukraine since 2014. Russia has repeatedly accused NATO countries of enabling Ukraine to strike deep inside its territory. Mr. Putin is already under pressure over his inability to secure a decisive victory, and nationalist voices have urged him to widen the conflict to increase pressure on NATO. The situation remains highly volatile with no political settlement in sight. Ukraine can hurt Russia economically, but it continues to lose ground on the battlefield. Russia can inflict military losses on Ukraine, but it is also facing attacks on a scale unseen since the Second World War. Neither side has a viable military path to achieving its objectives. Mr. Putin and Mr. Zelenskyy should adopt a more accommodative position with mutual concessions. They should agree to a ceasefire and be ready to begin substantive negotiations on the outstanding issues, including the security concerns of both countries and the future of NATO.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/bad-for-both-on-the-russia-ukraine-conflict/article71189848.ece)
+
+---
+
+### ​Falling behind: On Mumbai and the monsoon
+*The Hindu · Editorial*
+
+The southwest monsoon has been highly active over western India, with southwesterly winds loaded with moisture sweeping over the Western Ghats and delivering intense rains along the Konkan coast, while other weather systems offshore are routing more moisture over Mumbai and the surrounding areas. In urban areas in general, rainfall intensity matters more than volume. Mumbai itself can generally absorb moderate rainfall over several hours; however, its drainage — like in many Indian cities — cannot handle several hundred millimetres in short bursts. Heavy rainfall also overwhelmed river catchments in parts of Maharashtra, including around Nashik, while high tides reduced the efficiency of Mumbai’s stormwater drainage, worsening flooding in the city. Mumbai-Pune rail services were suspended after landslides in the Bhor Ghat and flights were affected. The closures of the Mumbai-Pune expressway and the Mumbai-Goa highway and significant flooding on the Mumbai-Ahmedabad expressway were disruptive, speaking to the increasing erraticity of monsoon rainfall, the vulnerabilities associated with linear infrastructure projects, and the ease with which the effects of natural disasters are compounded by cascading failures. A chawl collapse in Mankhurd took the lives of five children.
+
+Mumbai lies on a peninsula built mostly on reclaimed land, former marshes, tidal flats, and low-lying coastal areas, creating the characteristic risk of higher flooding when rainfall coincides with high tide. It is compounded by decades of haphazard urbanisation that has encouraged water to run-off rather than be absorbed by the ground, forcing drains to handle more water than their design limits. After the July 2005 floods, when it received 944 mm in 24 hours, Mumbai launched the BRIMSTOWAD project and widened drains, installed pumping stations, and undertook premonsoon de-silting. Many of these works remain incomplete while some completed upgrades are based on assumptions about the monsoon that climate change has since undermined. Officials have also argued that pre-monsoon desilting helped reduce flooding in parts of Mumbai, but water on the Mumbai-Ahmedabad expressway, the chawl collapse, deadly tree falls in Kurla and Aarey, lack of redundancies in public transport, and the BMC’s belated advisory to builders to halt hazardous construction all suggest a governance lapse. Mumbai’s accountability also remains split across the BMC for local drainage and roads, the IMD for forecasting, the NDRF, two Railway zones, the State government, and highway authorities. Overall, the city has improved at shutting down to save lives and minimising the death toll — but as climate change and urbanisation evolve faster than infrastructure upgrades, simply waiting for system capacity to catch up to demand will be a failing strategy.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/falling-behind-on-mumbai-and-the-monsoon/article71189812.ece)
+
+---
+
+### In India, voting cannot remain merely a statutory right
+*The Hindu · Opinion*
+
+Recently, a Congress leader revived an old constitutional debate by demanding that voting should be recognised as a fundamental right. At first sight, the demand appears unexceptionable. In a democracy, what could be more fundamental than a citizen’s right to choose those who govern? Yet, for more than seven decades, the Supreme Court of India has consistently held that the right to vote is not a fundamental right but merely a statutory right.
+
+This judicial position, though well established, has become increasingly difficult to reconcile with the Court’s own evolving jurisprudence. In a series of landmark decisions, the Court has gradually transformed the voter from a passive statutory creature into an active constitutional actor.
+
+The result is a curious paradox: while the act of voting itself continues to be described as statutory, many of its essential facets have already acquired constitutional protection.
+
+The traditional position dates back to N.P. Ponnuswami vs Returning Officer (1952), where the Court held that the right to vote and the right to contest elections are not common law rights but rights created by statute. The principle was reaffirmed in Jyoti Basu & Others vs Debi Ghosal & Others (1982), where Justice O. Chinnappa Reddy observed that the right to elect, “fundamental though it is to democracy”, is neither a fundamental right nor a common law right, but “purely a statutory right”. A Constitution Bench reiterated this position in Kuldip Nayar vs Union of India (2006), holding that while democracy forms part of the basic structure of the Constitution, the individual right to vote flows from legislation, principally the Representation of the People Acts.
+
+The logic behind this approach is understandable. The Constitution does not expressly enumerate the right to vote among the fundamental rights contained in Part III. Parliament, therefore, enjoys considerable latitude in prescribing qualifications, disqualifications and procedures governing elections.
+
+However, the story does not end there.
+
+Constitutionalising the poll processBeginning in the early years of this century, the Court embarked upon a process of constitutionalising the electoral process. In Union of India vs Association for Democratic Reforms (2002), the Court held that voters have a right to know the criminal antecedents, educational qualifications and financial assets of candidates. This right was located squarely in Article 19(1)(a), the fundamental right to freedom of speech and expression. The Court reasoned that meaningful participation in democracy is impossible unless voters are adequately informed.
+
+A year later, in People’s Union of Civil Liberties vs Union of India (2003), the Court drew an important distinction. While reiterating that the right to vote is statutory, it held that the freedom of voting — that is, the freedom to make an informed choice — is a fundamental right protected by Article 19(1)(a).
+
+The most intriguing development came in the 2013 NOTA judgment. Recognising the option of “None of the Above”, the Court held that a voter’s decision to reject all candidates is a form of political expression protected by Article 19(1)(a). The Court further held that secrecy of the ballot must extend even to those who choose not to vote for any candidate.
+
+This produces an extraordinary constitutional anomaly. The Court has effectively held that the right to know is fundamental, the freedom to make an informed choice is fundamental, the secrecy of the ballot is fundamental, and even the right to reject all candidates is constitutionally protected. Yet, the act of voting itself continues to be treated as a mere statutory entitlement.
+
+One is tempted to ask: if the Constitution protects the right to reject all candidates, why does it not protect the right to choose one?
+
+Recent constitutional jurisprudence also points in this direction. In Anoop Baranwal vs Union of India (2023), Justice Ajay Rastogi, in his separate opinion, expressly favoured recognising voting as a fundamental right. Although this view did not command a majority, the Constitution Bench repeatedly referred to voting as a constitutional right rather than merely a statutory one. This marks an important shift in judicial understanding. The Court may not yet have elevated voting to the status of a fundamental right, but it has undoubtedly moved beyond the narrow statutory conception that dominated earlier decisions.
+
+The anomaly becomes even more striking when viewed through the prism of the basic structure doctrine. Since Kesavananda Bharati vs State of Kerala (1973), the Court has repeatedly held that democracy forms part of the Constitution’s basic structure. In Indira Nehru Gandhi vs Shri Raj Narain & Anr. (1975), the Court underscored that free and fair elections are an essential feature of democracy. Subsequent decisions have consistently reaffirmed this principle.
+
+Democracy begins with votesBut democracy does not exist in the abstract. It operates through elections, and elections derive their legitimacy from the participation of citizens through the ballot. The vote is the very instrument through which popular sovereignty is exercised. It is through the vote that “We, the People” periodically renew the legitimacy of the state and hold governments accountable.
+
+If democracy is a part of the Constitution’s basic structure, and if free and fair elections are indispensable to democracy, it is difficult to explain why the citizen’s right to vote should remain outside the constitutional core. To say that democracy is basic to the Constitution while the citizen’s vote is merely a statutory right appears incongruous. A democracy without voters is inconceivable.
+
+This does not necessarily mean that every aspect of voting should be elevated into an absolute fundamental right immune from regulation. Parliament must continue to prescribe qualifications, disqualifications and procedures necessary for the conduct of elections. Age requirements, electoral rolls, residency conditions, disqualifications for corrupt practices and other regulatory provisions are indispensable for orderly elections.
+
+What requires constitutional recognition is not every procedural detail but the core right of every eligible citizen to participate in the democratic process.
+
+This becomes particularly evident when one examines Article 326 of the Constitution. The Article mandates that elections to the Lok Sabha and State Legislative Assemblies shall be based on universal adult suffrage. Every citizen above the age of 18 is constitutionally entitled to be registered as an elector, subject only to narrowly defined disqualifications. The source of this entitlement is not legislation but the Constitution itself. The Representation of the People Acts merely operationalise that constitutional command.
+
+Thus, while the mechanics of voting may be statutory, the citizen’s entitlement to be a voter flows directly from the Constitution. Exclusion from the electoral roll, except in accordance with constitutionally permissible limitations, therefore, strikes at a constitutional guarantee.
+
+A matter for the Court to revisitThe distinction between statutory and constitutional rights may have served a useful purpose in the early years of the Republic, when electoral jurisprudence was still in its infancy. But the Court’s own decisions have steadily blurred that distinction by progressively constitutionalising various facets of voting.
+
+Perhaps the time has come for the Court to revisit an old doctrine. In a Constitution where democracy and free and fair elections constitute the basic structure, the citizen’s vote cannot remain a constitutional orphan. The ballot is not merely a statutory privilege conferred by Parliament. It is the instrument through which popular sovereignty is expressed and the Republic periodically renews its democratic legitimacy.
+
+After all, if the Constitution protects the right to reject every candidate, it can scarcely deny protection to the right to choose one.
+
+S.Y. Quraishi is a former Chief Election Commissioner of India and author of An Undocumented Wonder: The Making of the Great Indian Election
+
+[Read full article](https://www.thehindu.com/opinion/lead/in-india-voting-cannot-remain-merely-a-statutory-right/article71190420.ece)
+
+---
+
+### A second home for survival
+*Deccan Herald · Editorial*
+
+The recent deaths of eight lion cubs from heat-induced dehydration in Gujarat’s Gir forest have revived debates over the overcrowding of the sanctuary and the potential relocation of the lions. The incident initially triggered concern over a possible epidemic caused by the Babesia parasite. However, forestry officials denied any outbreak after conducting medical examinations and confirmed that several lions were temporarily isolated before being released back into the wild. The forest department also launched targeted operations to eliminate the parasite and enhanced monitoring efforts across the landscape. While the authorities maintain that no recent lion fatalities in Gir have been caused by disease, the incident underscores the challenges in managing the sanctuary.
+
+Gir remains the only habitat of Asiatic lions, and experts warn that it may now be overcrowded. In 2025, the authorities recorded 891 lions in the sanctuary within a habitat spanning 35,000 sq km across several districts. This is a sharp rise from 674, reported in 2020. Gir's conservation success is widely celebrated, but many believe this very success now also poses a threat. Overcrowding has pushed the lions beyond the sanctuary’s edges, causing conflicts with humans and putting the animals at risk. Lions have died in collisions with speeding vehicles. A greater danger lies in infectious diseases transmitted by dogs, cattle, and other domestic animals living on the periphery of the forest. In 2018, 23 lions died from an infection believed to have spread from domestic and other animals. The authorities initially denied the outbreak.
+
+Environment activists raise concerns over decisions affecting Asiatic lions, their habitatAs part of efforts to mitigate the risks in conservation, experts have long advocated for relocating a section of the Gir lion population to the Kuno National Park in Madhya Pradesh. Although the Supreme Court ordered this translocation in 2013, the directive remains unimplemented. The Gujarat government has resisted the move, contending that the Asiatic lions are a symbol of the state’s pride. However, housing an entire endangered species in a single habitat violates standard practices of conservation. This concentration also increases the animals’ vulnerability to dangerous infections and localised natural hazards, while inbreeding risks a fall in genetic immunity. A recent memorandum highlighting these concerns was submitted to President Droupadi Murmu, urging the immediate translocation of the lions. The Kuno National Park was established in 1981 to serve as a secondary habitat for the species, a project that required evacuating several villages. This relocation is essential to securing the lions’ long-term survival and genetic health.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/a-second-home-for-survival-4064364)
+
+---
+
+### Limits of the American alliance
+*Deccan Herald · Editorial*
+
+Recently, the United States announced that it was renaming the US Indo-Pacific Command back to its original US Pacific Command. William Shakespeare, who asked ‘What’s in a name?’, might not have thought much of it, but in diplomacy, optics are often as decisive as substance. This is bad news for India as it is yet another sign of New Delhi being pushed to the periphery of Washington’s vision. The US’ claim that there would be no change in the geographic jurisdiction and mission is hard to believe.
+
+This move underscores that Washington no longer sees New Delhi as a counterweight to an aggressive Beijing in the region. In September 2018, when then US Defence Secretary James Mattis announced the USINDOPACOM, geopolitical equations were very different: Washington championed a free and open rules-based international order. It focused on containing Beijing’s influence, and India-US ties were riding high on the personal rapport between Prime Minister Narendra Modi and US President Donald Trump. Today, Sino-US ties are undergoing a cautious recalibration, with Trump even seeing a ‘G2’ (Group of Two). This shift spells trouble for the US’ allies in the region and puts the Quad’s future in uncertainty. The renaming signals that the US no longer considers India central to its South Asian calculus. From regime change in Bangladesh to its policies in Myanmar, recent US actions have cut against India’s interests. Above all, the current Washington-Islamabad bonhomie has come at New Delhi’s expense. Sergio Gor, the US Ambassador to India, downplayed the renaming, saying he didn’t “care what name is on the letterhead”. It would appear that Gor is a fan of Shakespeare. Yet, his appointment as ambassador was a clear sign of Washington downgrading its ties with India – not because of his lack of diplomatic chops, but because of his dual role as both ambassador to India and Special Envoy for South and Central Asian Affairs, with 12 other countries on his roster.
+
+India’s strategic autonomy undone by US pivotThis is the latest in a string of anti-India actions by Washington: from terminating duty-free access to many Indian goods to imposing exorbitant tariffs and penalties, and from interfering in India’s energy policies to hosting Pakistani leaders while both neighbours were at heightened hostilities. Though it cannot stand up to the US like China, by now it must be clear to New Delhi that Washington is not a reliable ally. Towards that end, India’s trade deals with various countries and blocs are steps in the right direction. Strategic autonomy must be safeguarded, along with geopolitical and defence interests.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/limits-of-the-american-alliance-4064363)
+
+---
+
+### Beyond Trade | India and Japan redraw the Indo-Pacific map
+*Deccan Herald · Opinion*
+
+Japan’s Prime Minister Sanae Takaichi’s maiden visit to India marked an important shift in the India-Japan ties. For years, it was largely understood through the language of infrastructure, investment, connectivity, and official development assistance (ODA). They remain important, but the centre of gravity is shifting. The new vocabulary of the relationship is technology, supply chain resilience, economic security, energy security, digital infrastructure, and defence-industrial co-operation.
+
+This reflects a deeper transformation in Asia’s strategic environment. From the Russia-Ukraine war to continuing instability in West Asia, India and Japan understand that trade, investment, and technology can no longer be separated from geopolitics. Supply chains are now strategic assets. Critical minerals are instruments of power. Artificial intelligence, semiconductors, batteries, telecom networks, and advanced materials are no longer only commercial sectors. They are becoming the foundations of national capability.
+
+Takaichi signalled this shift even before she landed in New Delhi. In an op-ed she described India as an indispensable partner in Japan’s Free and Open Indo-Pacific (FOIP) vision. She also linked Japan’s FOIP with India’s MAHASAGAR and IPOI frameworks, and identified economic security, energy security, and AI as pressing priorities for the summit. The message was clear. Tokyo now sees India not merely as a friendly Asian democracy or a destination for Japanese capital, but as a strategic partner in managing and shaping the Indo-Pacific.
+
+The July 2 Modi-Takaichi press meet confirmed this reading. The two sides adopted three major documents covering economic security, energy resilience, and AI. Prime Minister Narendra Modi underlined co-operation in semiconductors, quantum technology, advanced materials, and battery technologies. He also made an important observation: India and Japan see economic security as shared security.
+
+After the summit, Foreign Secretary Vikram Misri said the economic security declaration gives practical guidance to strengthen project-based co-operation. The Economic Security Fact Sheet 2.0 lists ongoing government and business engagements. Many summit outcomes fall directly into this category: co-operation on batteries and pharmaceuticals, and technical collaboration on resource exploration and mapping of critical minerals.
+
+India, Japan seal warship stealth deal, raise concerns over militarisation in East and South China seasThis economic security agenda could give much-needed depth to the bilateral commercial relationship. Currently, India-Japan trade remains modest. According to the MEA’s India-Japan bilateral brief, bilateral trade in FY2026 stood at around $27.48 billion, with India exporting $~6 billion and importing over $21 billion. In 2025, the two sides set a target of $~67 billion, in Japanese private investment in India over the next decade. The economic security and AI-related initiatives will be crucial if this target is to translate into real industrial co-operation, trusted supply chains, and higher trade volumes.
+
+Energy resilience was another important aspect of the summit. The joint statement highlighted collaboration on strategic stockpiling and reserve systems for crude oil and petroleum products, as well as potential joint investments in maritime energy transportation. This matters because both countries depend largely on sea lanes for energy needs. Moreover, the Japan-India Cooperative Biogas for Growth Initiative is noteworthy. Japan will partner with India to set up 1,000 biogas plants across the country using India’s dairy co-operative network. These plants will produce bio-CNG and organic fertiliser from rural biomass. If implemented well, this can link energy resilience with rural prosperity.
+
+Finally, the announcement of the India-Japan co-development project in defence added strategic weight to the visit. India and Japan were already co-developing UNICORN masts for the Indian Navy, and a memorandum of implementation was signed in November 2024. Defence ties are now moving from exercises and dialogue into industrial collaboration. The relationship has long included the 2+2 dialogue, logistics agreements, and an increase in military exercises. Yet real co-production remained limited. If Tokyo is now willing to move forward on defence technology with India, even cautiously, that is a significant development in the bilateral ties.
+
+The biggest takeaway from Takaichi’s visit is that it strengthens India-Japan alignment against coercive economic practices and supply-chain vulnerabilities. Both countries understand that in the current Indo-Pacific, security will not come only from military capability. It will also come from resilient supply chains, reliable energy systems, trusted technologies, diversified manufacturing, and stronger maritime connectivity. In that sense, the visit takes India-Japan strategic co-operation to its next stage.
+
+Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
+
+Prakash Panneerselvam, Japan Foundation’s Indo-Pacific Partnership Research Fellow, is Assistant Professor, National Institute of Advanced Studies, Bengaluru.
+
+[Read full article](https://www.deccanherald.com/opinion/beyond-trade-india-and-japan-redraw-the-indo-pacific-map-4064739)
+
+---
 
 ## 6 July 2026
 
@@ -66,6 +198,110 @@ In a constitutional order where personhood comes first, the rules that determine
 Suhrith Parthasarathy is an advocate practising in the Madras High Court
 
 [Read full article](https://www.thehindu.com/opinion/lead/the-right-to-belong-beyond-official-documentation/article71186432.ece)
+
+---
+
+### DC Edit | CJI Must Review SIR Objections
+*Deccan Chronicle · Editorial*
+
+The letter 24 Opposition political parties have jointly written to Chief Justice of India Surya Kant registering their serious objections to the way the Election Commission of India is going about performing its job reflects the apprehensions that a large section of the population holds against the poll body and their faith in the judiciary to make a meaningful intervention to force a course correction. It is now up to the CJI, and the larger judiciary, to decide whether to act and restore the confidence of the people in the constitutional institutions or not.
+
+The letter, which is literally a chargesheet against the EC, points to the series of actions that cannot be classified as above board. They are predominantly about the disenfranchisement of crores of people through an exercise called special intensive revision, the interventions it made during state Assembly elections especially in West Bengal, the preference it has allegedly shown towards the ruling party at the Centre and the tweaking of the law to drop the CJI from the panel for the selection of CEC.
+
+The criticism against the SIR process was the sharpest in that the parties said it “was rushed, poorly implemented and disenfranchised lakhs of voters, putting the country’s democratic process in jeopardy”. It pointed out that the process was particularly targeted at the poor, the uneducated, including Dalits, Adivasis, members of the minority community and migrant workers, and urged the CJI to suspend the exercise and restore the integrity of the electoral process.
+
+Since elections are a critical and key component of a functional democracy, the poll panel must command the confidence of all sections of society, including the Opposition. It has unfortunately shown no sign of a change of mind or the willingness to even address the complaints.
+
+The Opposition has now knocked on the doors of the judiciary as it believes “when all else fails, people still repose their trust in the judiciary.” The judiciary should rise to the occasion; its failure will be the failure for the republic.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-cji-must-review-sir-objections-1968882)
+
+---
+
+### DC Edit | WhatsApp, Insta Must Focus Much More On Safety Issues
+*Deccan Chronicle · Editorial*
+
+The latest controversies surrounding WhatsApp and Instagram — both owned by Meta Platforms — have highlighted a major issue that social media companies are too often accused of: Social media platforms rush to launch new features but act too slowly to prevent harm emanating from them.
+
+Recently, WhatsApp has proposed a username-based messaging system for improving privacy by letting users communicate without sharing their phone numbers. Shortly afterwards, Instagram has been accused of running paid ads facilitating access to child sexual exploitation and abuse material. In both instances, the government had to intervene to protect the interests of people. Though these two issues may seem unrelated, they share a common thread of prioritising engagement and growth over user safety that connects the two incidents.
+
+Currently, WhatsApp uses phone numbers, which are personal identifiers, for communication. If phone numbers are exposed, it can lead to spam, fraud, stalking, harassment, and unwanted contact.
+
+The allegations against Instagram are far more alarming. Meta’s own advertising guidelines state that ads are screened for compliance with its policies, and advertisers must adhere to both Community Standards and Advertising Standards. The policies also ban child sexual exploitation, abuse, and nudity.
+
+Nevertheless, Instagram is alleged to have shown paid advertisements that facilitated child sex abuse, raising serious questions about Meta's oversight mechanisms. If Meta’s famous algorithm fails to detect and prevent such harmful content, it would represent a failure in moderation but also a systemic failure in the advertising process.
+
+In its response to the allegations, Meta had merely asserted its policy of zero-tolerance towards child sexual abuse material (CSAM). However, the real issue is not whether Meta has written policies or not; Most major platforms do. The concern is whether those policies effectively prevent harm.
+
+Meta had recently laid off 8,000 employees this year to expand the use of artificial intelligence. However, in both cases, it was human intelligence — civil society and journalists — that highlighted the potential misuse, which the platforms should have done.
+
+These incidents should serve as a lesson for Meta and other platforms. They need to understand that trust is their most important infrastructure. They cannot market privacy on WhatsApp while allowing safety failures on Instagram. A username system could be a positive change, but only if it is accompanied by built-in safeguards from day one.
+
+In cases involving child safety, there can be no acceptable error rate, no vague reassurances, and no excuses based on scale. Social media companies have become communication utilities. Therefore, social media companies should prioritise the public interest, not just corporate growth.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-whatsapp-insta-must-focus-much-more-on-safety-issues-1968875)
+
+---
+
+### Aakar Patel | Why The State Must Stop Use Of Pellet Guns To Control Crowds
+*Deccan Chronicle · Opinion*
+
+The teaser for Chauhaan — latest in the line of movies selling majoritarian propaganda — is out. It opens in the sort of place that the Indian government prefers to have its stories set — a street in Pulwama, stones in the air, the security forces in formation. The voiceover calls teargas ineffective because protection masks are easily accessible online. Water cannons are called temporary solutions.
+
+What is required, the movie insinuates, is something much harsher: 12-gauge shotguns firing birdshot into crowds. We should pause here. Narrative building for majoritarianism in India now runs on the confidence that such claims are never checked. So, let us check.
+
+In 2017, Amnesty International India documented 88 people whose eyesight was damaged by shotguns between 2014 and 2017 by the Jammu & Kashmir police and the Central Reserve Police Force. Some recovered, many did not. A single cartridge scatters between 360 and 600 metal balls with no way to govern where they land. The injuries caused by pellet guns are indiscriminate by design: shotgun barrels are not rifled and there is no control over their projectiles.
+
+It is evident from the fact that fourteen of those 88 we spoke to were not protesters but women hit inside their own homes. The security forces themselves have been treated for injuries from the weapons their colleagues have fired, so dangerous is their use.
+
+And then, there was Insha Mushtaq, a 154-year-old girl, who on the evening of July 11, 2016 opened a window in her village in Kashmir to look at the street. She never saw the street, or anything, ever again. Fully blinded: Her doctors called it the worst case they had ever seen.
+
+The state’s official data says 6,221 people were injured between July 2016 and February 2017, with 782 of them hit in their eyes. The United Nations’ human rights office called the pellet shotgun “one of the most dangerous weapons used in Kashmir” and recommended its removal from the India’s arsenal of weapons for crowd control. When the Indian government was asked why it fires into the faces of children, it declined to answer, citing national security. Clearly, “limited damage” is then not a description that evidence can bear.
+
+The Chauhaan teaser’s complaint that limited force produces no result is untrue because in Kashmir there has never been restraint from the government or a shortage of force. The position reflects what over three decades of force has done to the region. A government that answers a violation with another, graver violation, does not earn trust; it forfeits it.
+
+The protesters come to the streets because the doors of India’s Parliament have been shut for them. And this is not just in Kashmir. The Indian government’s Pre-Legislative Consultation Policy, which was adopted in 2014, calls for all draft laws to be discussed with the public for 30 days. Yet, according to data from PRS Legislative Research, of the 301 bills introduced since 2014, 227 underwent no public consultation at all. Of the 74 that were published, at least 40 fell short of the 30-day time limit. The mother of democracy will not discuss family matters with the family.
+
+Further evidence that we are a parliamentary democracy only in name: The share of bills that have been sent to standing committees have fallen from 71 per cent before 2014 to below 20 per cent afterwards.
+
+In December 2025, the Indian government was asked if it was monitoring the implementation of the policy; its response was that it had never evaluated the policy and kept no record of who followed it. Increasingly, the most problematic commands of the government do not arrive as laws but as rules and advisories that the executive writes without any legislative consultation, let alone public consultation.
+
+The State needs reminding that a country cannot keep calling itself a democracy while hollowing the word out one law, one rule, one advisory at a time. While doing so, the government has assembled a working dictionary: the dissenter is “anti-national”, the activist is an “Urban Naxal”, the protester an “andolanjeevi”, the reporter a “presstitute” and the boy at a funeral is a “stone-pelter”. Once the words seep into the Indian mindset through propaganda, the deeds of the State need no defence. A movie teaser that recasts a maiming weapon as heroic restraint is not breaking with that dictionary. It is, in fact, reading fluently from it, in a medium built to manufacture assent.
+
+To look at a girl who was blinded for looking outside a window and call it “limited damage” is not strength. Quite the opposite. When the Amnesty report was published, I went with my colleague Raghu to the man heading the Jammu and Kashmir police, S.P. Vaid, who is quite active on Twitter these days. The police headquarters in Srinagar and the ethnicity of the officials manning it was revealing, and I will write about that another time. Mr Vaid was hospitable as he accepted a copy of our report. He heard us go through our findings about ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/aakar-patel-why-the-state-must-stop-use-of-pellet-guns-to-control-crowds-1968870)
+
+---
+
+### Sanjeev Ahluwalia | Next-Gen Reforms: Could India Shed Its Reluctance?
+*Deccan Chronicle · Opinion*
+
+India is a reluctant reformer for good reasons. First, the rational hesitation to fix what isn’t irretrievably broken. Second, there is much going right for India. Even without deep reforms, it chugs along in a band of six to seven per cent annual growth when the average growth in middle-income economies is around between 4.1 to 4.4 per cent and China is slowing from five to four per cent.
+
+Why then the anxiety around the absence of reforms to improve incomes and well-being? Blame it on comparison bias. If China grew in double digits, at a comparable time two decades ago, why can’t we? This false equivalence ignores that the high growth period in China coincided with rapid globalisation of trade and investment. Also, to its credit, China took advantage of supportive geo-politics — the perennial US obsession with defanging Communism — to advance its own interests. It is sweet irony that New York — that iconic US immigrant town and headquarters of American capitalism — is now more “socialist” than China!
+
+The dissatisfaction in India is two-fold. First, the revenues generated from economic growth have not been used to reduce disparity in opportunities. Instead, the focus is on comforting the poor and near-poor — around one-fourth of the country’s population — through government-provided food, cash handouts and free or highly subsidised, utility services. Higher growth and government revenues could similarly be wasted on placating vote banks and not generate any new jobs — the linchpin of household stability and dignity. It is also unlikely that the bottom two-thirds of 300 million families can be sufficiently placated with handouts. How do we know this?There are only about 82 million individual income-taxpayers. Some families have multiple taxpayers. So, less than one-third of India’s 300 million families pay income-tax. GST coverage is comprehensive but designed to reduce indirect tax on consumption goods for the “poor” or “near poor”. The tax-free limit for income of Rs 4 lakhs per year sets the upper bound for defining the poor and near poor. The lower bound for a living wage is enshrined in the government’s flagship programme to alleviate rural distress — VB G RAM G, which assures up to 125 days’ employment at Rs 300 per day. Assuming a working year of 300 days, the “liveable rural income” for a family of two working adults becomes Rs 1.8 lakh per year.
+
+The puny scale — about 100 million, or 12 per cent of the workforce in formal employment — generates dissatisfaction all around. Income disparity varies significantly across states, feeding work migration patterns within India — from the North and the East towards the private jobs-rich West and the South.
+
+Is the answer then to unleash some “big” reform which could unplug India’s economic potential?
+
+Sadly, the basket of “low hanging fruit” for “big reform” is meagre. The 1991 liberalisation was the last such reform. It added around two percentage points to the annual growth trajectory since. What remains to be tackled requires “deep” reforms, which comes with the attendant political cost of upending special interests and privilege.
+
+The next wave of incremental two percentage points of steady economic growth is likely from two sources. First is deeper digitisation of the economy. This strategy is organically familiar for the Indian economy, which is simultaneously a lower middle-income economy and yet the most intensive adopter of digital payments built upon a locally created India stack of digital public infrastructure — digital identity, account aggregation and risk mitigation.
+
+Indian Tech Bros are agreed that if India focuses on deepening use case integration of AI into enterprises, more jobs can potentially be created than destroyed, despite the personal cost for mid-life IT workers, unable or unwilling to upgrade technologically.
+
+The digital economy in India employs about eight to 10 million people, which might grow to 30 million people by 2035 — still less than five percent of the working age population. But the benefit lies in boosting productivity and competitiveness and hence employment in the real economy. This dispersed impact will take time to spread.
+
+Something else is needed to boost economic efficiency and create decent jobs. Reforming agriculture remains a yawning gap. We have yet to take the long-term structural decisions — corporate ownership of agriculture and increased labour demand from manufacturing — to absorb the surplus labour supply from rural areas.
+
+Liberating large cities from the stranglehold of state government sovereignty is also a structural change we have shied away from. About eighty cities with a collective population of 230 million (about one-seventh of India) could be self-sufficient in revenues because they are large market towns, urban agglomerations, manufacturing hubs or pilgrimage centres. Some of these are also state government capitals.
+
+Empower such cities politically and administratively to function...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/sanjeev-ahluwalia-next-gen-reforms-could-india-shed-its-reluctance-1968845)
 
 ---
 
