@@ -1,3 +1,378 @@
+## 7 July 2026
+
+### Was Siya Already Married Before Plotting Ketan's Murder? WhatsApp Chats Expose 'Secret Wedding'
+*Sumedha Kirti · general*
+
+Ketan Agarwal Murder Case Update: The fresh revelation, investigators say, have blown the lid off the covert marriage and given the entire case a fresh dimension.
+
+[Read full article](https://www.news18.com/cities/pune/was-siya-goyal-married-before-murdering-ketan-agarwal-whatsapp-chats-secret-10194212.html)
+
+---
+
+### Man Travelling With Family Attacked On Mysuru-Bengaluru Road Over Overtaking Dispute | Video
+*Meemansa Shekhawat · general*
+
+A car driver travelling with family was allegedly attacked on the Mysuru–Bengaluru highway after a dispute over overtaking. The incident was recorded on dashcam
+
+[Read full article](https://www.news18.com/cities/bengaluru-news/man-travelling-with-family-attacked-on-mysuru-bengaluru-road-over-overtaking-dispute-video-ws-l-10194177.html)
+
+---
+
+### Congress opposes Hindu members on Madhya Pradesh Waqf Board, plans Supreme Court challenge
+*Pti · business*
+
+Bhopal/Indore: Congress leaders have termed the reorganisation of the Madhya Pradesh Waqf Board with the inclusion of two Hindu members as "inappropriate" and said they would challenge the decision in the Supreme Court.
+
+Leaders of the ruling Bharatiya Janata Party (BJP), however, said the decision should not be viewed through the prism of religion, as the Waqf Board is not limited to mosques. The Waqf Board chief also said the move was in strict adherence to legal provisions.
+
+  
+
+Madhya Pradesh Chief Minister Mohan Yadav on Sunday reorganised the state Waqf Board, adding two Hindu members. The new board, formed under the Waqf (Amendment) Act, 2025, is the first state-level Waqf Board in the country to appoint Hindu members, officials said.
+
+Sanwar Patel has been appointed chairman of the 10-member Madhya Pradesh Waqf Board, and Manoj Malpani and Animesh Bhargava have been included as Hindu members. Patel was first appointed chairman of the Madhya Pradesh Waqf Board in 2023. He has now been given a second consecutive term.
+
+Speaking to reporters on Monday, Congress MLA Arif Masood said the matter 
+
+Such appointments should not have been made until the final decision of the apex court, he opined.
+
+"In such a situation, the Madhya Pradesh government's reorganisation of the Waqf Board and inclusion of non-Muslim members is inappropriate and raises several legal questions. We will approach the Supreme Court and challenge the formation and appointment of the Waqf Board members," he said.
+
+Speaking to PTI Videos, former minister and senior Congress leader PC Sharma criticised the BJP for appointing Hindu members to the Waqf Board, alleging the ruling party has no issues other than "Hindu-Muslim" and "India-Pakistan".
+
+He claimed this step was taken to divert public attention from the theft of offerings at the Ram Temple in Ayodhya and the allegations against Chief Minister Yadav.
+
+Hitting back, Sanwar Patel said the board has been reconstituted in "strict adherence to legal provisions".
+
+"Opposition parties are politicising the issue and provoking people. They have to politicise everything," he told PTI.
+
+State minister Vishwas Sarang said it was heartening that Madhya Pradesh has become the first state in the country to enact the Waqf Act 2026 and include two Hindu members.
+
+Congratulating Chief Minister Yadav and the Waqf Board chairman, he said this would have far-reaching and positive consequences.
+
+On the objections from Congress leaders, he said, "This is not about including any non-Muslim in the mosque committee; the Waqf Board is separate. It is surprising to view this through the lens of religion. The Waqf Board isn't limited to mosques; its scope is much broader."
+
+BJP MLA Rameshwar Sharma said only those who have encroached upon Waqf lands should be offended.
+
+"The Waqf Board's land belongs to India, and everyone talks about the Ganga-Jamuni culture. It's part of the country's culture. It's land to be given to the poor. Waqf land hasn't been named after any mullah or cleric," he said.
+
+Sharma said Hindu members of the Waqf Board will also be committed to the welfare of the poor.
+
+"Muslims shouldn't be bothered by this; those who were embezzling Waqf property will definitely be bothered," he added.
+
+According to a state government notification, the 10-member board includes Sanwar Patel, Najma Heptulla, Atif Aqeel, Faizan Khan, Fatema Chaudhary, Shaista Sultan, Shabana Khan, Manoj Malpani and Animesh Bhargava.
+
+The commissioner of the state's Backward Classes and Minority Welfare Department is an ex-officio member of the board.
+
+The Waqf Board is a statutory body established to manage and protect Waqf properties in the state. Its main function is to maintain records of Waqf properties, monitor their use and income, protect them from illegal encroachments, and ensure their use for religious, educational, and social welfare purposes.
+
+---
+
+### Who protects you when your ride goes wrong? Commuters question cab app safety
+*Manas Bhardwaj · regional*
+
+Have you wondered what happens after you complain against a cab driver to the ride hailing app? The information may unsettle you because a passenger’s concern for safety does not match an app’s pecking order of complaint redress.Behind the current blackhole-like opacity of most cab aggregator apps lies a categorybased complaint system that commuters are rarely made aware of. When they click the app’s help function in distress, what greets them often is an AI chatbot and some options to choose from. There is no human in the loop to address the problem of a rider’s safety and a driver’s misbehaviour.
+
+AI FirstHow an automated interface affects a rider is apparent from Shweta’s case.
+
+The 27-year-old was on her way home from a hospital with her mother in an app cab one day. The driver repeatedly complained about the route. Then he demanded extra money. “When I refused to pay the extra amount, he rudely asked us to get off well before the drop-off point,” Shweta said.The matter became harder to manage as the driver allegedly became intimidating. Shweta tried reaching out to the platform’s support for assistance.
+
+Instead, a chatbot greeted her. There was no option to speak to a human when she needed help the most. The two women got out of the cab.Shweta gave the trip a one-star rating and left details of the confrontation in the in-app feedback system. What Shweta received was “a generic apology”. After she reached home and sent an email to the platform, the aggregator informed her the driver had been blacklisted. No evidence of the action was shared, she said.For Shweta, the bigger concern wasn’t the driver’s behaviour. It was the lack of timely human support.
+
+Unwanted ChatFor Kavita (23), a routine cab booking became unsettling even before the ride began.“A friend was booking a cab for us near the Greater KailashI M Block Market. While he was on a call giving directions, the driver may have heard my voice in the background. After the call ended, he texted my friend, ‘brother, are you having fun right now?’” she said.The group reported the incident to the cab aggregator. They were given the assurance that action would be taken. Kavita said they never got any clarity on the outcome of the complaint. “The driver’s behaviour left us very scared,” she said.Shreyanshi (25), who is a PR executive, said the boundary was crossed differently in her case.“Recently, I booked a cab, but the driver wasn’t moving towards my location. I called him to understand the reason for the delay.
+
+He started abusing me,” she alleged.Shreyanshi said she took screenshots of the conversation and shared these with the platform’s support team, expecting a follow-up. No update on the complaint came to her. Other commuters too said that there was a lack of transparency on what action was actually taken by the platform to redress a passenger’s grievance.
+
+Fare UnfairFor Madhu (37), a routine request from her cab driver led to repeated messages on her personal phone.While she was waiting for her cab outside Delhi airport, the driver asked her to contact him on his personal number. He claimed the recharge plan for the number listed on the app was about to expire. After she shared her number and boarded the cab, the driver allegedly demanded more money for entering the airport parking area. Madhu refused, but the driver continued muttering.The matter did not end there. Later that evening, the driver allegedly began messaging her repeatedly, asking her to pay at least Rs 100 more.
+
+Madhu blocked his number. What seemed a normal exchange of numbers, she said, ended up becoming an invasion of her privacy.Several other passengers alleged that drivers asked for their personal numbers or asked about the fare. Then they told them to cancel the ride on the app and offered a cheaper fare.Drivers that TOI spoke to said that many do this to avoid paying commission to the platform. Commuters say such arrangements remove the safeguards built into the app, including tracking and SOS support.
+
+Wheel of ControlSeveral passengers said they felt they had little control over the ride once it started.Harsh (28) said he was rushing back to his PG as the phone battery was running low when the driver began manoeuvring recklessly. “He drove at high speed, broke traffic rules, and repeatedly overtook other vehicles. Despite my repeated requests to slow down, he didn’t listen,” Harsh said. At one point, the cab allegedly brushed against another vehicle.
+
+Inside the car, Harsh hurt his leg because of that. “The driver apologised, but within minutes was speeding,” Harsh said.Satyam (31) said he was on his way to work and requested the cabbie to drive faster so he could reach office on time. The driver continued smoking, driving with one hand, while talking on the phone, and ignored Satyam’s repeated requests, he said.. “When I confronted him, the driver told me: ‘You can complain, nothing will happen.’”
+
+In the two cases, the conduct of the cabbies raised the same red flag: the driver decides what the ride experience will be like, not the passenger.
+
+More Questions, Less ClarityAn official of a top cab aggregator platform responded to some questions of TOI .When asked how complaints are tackled, he said the app follows a two-tier resolution mechanism. “Complaints submitted through ratings and feedback are treated as service
+
+It meant that merely giving a bad star score would not lead to any meaningful engagement with the app.Complaints involving serious safety concerns, such as altercations with drivers, route deviations or aggressive behaviour, are handled through the app’s “Need Help with the Ride” option, which connects users with a customer support agent. If a driver is found to be at fault, the way to penalise him is through an internal scoring system.
+
+“Repeated complaints can lead to temporary suspension, while drivers involved in severe or repeated violations may be removed from the platform,” he said.There was, however, no way of knowing how the internal system scored the drivers, or how many drivers were suspended after complaints were brought against them.The cab aggregator executive also claimed that the app provides a safety helpline, accessible during the ride and for up to 30 minutes after.
+
+Safety-
+
+A law enforcement response team (LERT) coordinates with the police and responds to requests in such cases,” he said.When asked if the platform initiates legal proceedings, the official said the onus was on the passenger. The aggregator can share ride records and other information whenever these are sought for legal proceedings.
+
+What Drivers SayWhat happens after a commuter files a complaint against a driver? When drivers were asked this question, the answer explained the opacity. A 37-year-old cab driver, working for seven years, said: “In most cases, even if it’s a serious complaint, a simple apology is enough.
+
+In my circle of drivers, I have never seen anyone getting delisted or banned because of a complaint.”He added that penalties are imposed only in cases where complaints are backed by evidence, such as screenshots or voice recordings. Permanent removal from the platform is rare.TOI also asked several drivers why a cab with a different registration number from the one on the app lands up for pickup often.A 46-year-old driver, who has recently joined an aggregator platform, said the discrepancy may occur when a nearby driver is reassigned a booking to reduce the waiting time.A cab aggregator official, however, contradicted this. Its explanation also raised a question of safety, which is hard to ignore, but, perhaps, equally hard to resolve.The official said the platform does not replace one car with another, as suggested by the driver. That is an action left to the rider.Commuters must verify the driver’s identity and vehicle registration number before boarding, he said. If either does not match the details on the app, a rider should cancel the trip and report it by selecting the “details did not match” option.
+
+A ride taken in an unregistered vehicle or with an unauthorised driver may not be accurately tracked during an emergency, the official said.To curb this behaviour by drivers, the aggregator has a real-time ID Check feature, under which drivers are periodically prompted to take a selfie to verify their identity.Safety Path AheadOn the legal aspects of a complaint, a police officer said, “When a commuter files a complaint against a driver, an FIR is registered.
+
+We seek details from the cab aggregator.... If the driver is absconding, we make every effort to trace and apprehend him.”A senior Delhi govt official said govt and police are working on the “Safe Delhi” app, designed to enable users to activate an SOS alert through a voice command by saying “Help” thrice. Upon activation, the application will transmit the user’s live location to the Delhi Police control room in less than a second and provide real-time audio and video streaming.The application is also proposed to include features such as GPS-based tracking, safer route suggestions for women travelling alone, and the facility to send emergency alerts to family members and trusted contacts through SMS and WhatsApp.A pilot of the app has shown encouraging results in central Delhi, the official said.
+
+---
+
+### '30 minutes of horror': Gir lion attacks man in Gujarat, traps him for nearly half an hour; video goes viral
+*Unknown · business*
+
+A video showing a lioness attacking a man in Gujarat's Bhavnagar district has gone viral on social media. According to posts on X, the incident took place in Palitana town.
+
+Reports circulating on social media claim that the lioness attacked an animal caretaker, trapping him for nearly 30 minutes. Despite the prolonged ordeal, the man reportedly remained calm until rescuers arrived.
+
+"Despite the terrifying ordeal, he stayed remarkably calm, even gently touching the lioness's head until rescuers arrived. He survived but suffered serious injuries," an X user wrote while sharing the video.
+
+  
+
+Another user linked the incident to the growing human-lion conflict in Gujarat. "This is the pathetic reality of turning a blind eye to science and law. Gir is overflowing, inbreeding is rampant, and conflict is exploding. The Supreme Court's 2013 order to shift lions to Kuno was blatantly ignored, forcing me to file a contempt petition in the SC. Still, no action has been taken. Gujarat Govt: Lions belong to the NATION, not just your ego. You refuse to share lions but want MP's tigers? The double standards are disgusting."
+
+  
+
+Another user commented: "Videos like this remind us that no matter how often humans and Gir lions coexist, wild animals are still wild. This isn't about blame—it's their natural instinct. Respect wildlife, keep your distance, and never mistake coexistence for domestication."
+
+Last month, forest officials captured at least 30 lions from different forest ranges in Gujarat following a series of incidents involving increasing interactions between humans and lions.
+
+On June 16, a lion mauled to death a 25-year-old restaurant worker in Amreli district. Local residents later found parts of the victim's body, including his severed head, near an approach road close to Kovaya village under the Rajula forest range.
+
+A few days later, a five-year-old boy was killed in a lion attack while walking with his grandfather in Chaturi village in Khambha taluka, triggering protests against the forest department.
+
+The recent incidents have also prompted concerns among wildlife experts over the state's response.
+
+"The ongoing mass capture of lions is concerning. Lions that have not been involved in any conflict are also being targeted in the action. If such lions are kept in captivity for life or released into parts of the Gir forest already occupied by other lions, it could create serious territorial conflicts and additional ecological problems," wildlife photographer and lion expert Bhushan Pandya told PTI.
+
+Pandya said the situation requires a scientific and evidence-based approach rather than broad capture operations.
+
+**_With PTI Inputs  
+_**
+
+---
+
+### Ram Temple trust clears former secretary Champat Rai of wrongdoing
+*SECTIONS Ram Temple trust clears former secretary Champat Rai · business*
+
+Ayodhya: Shri Ram Janmabhoomi Teerth Kshetra trustee Mahant Dinendra Das on Tuesday said that the Trust found no wrongdoing on the part of former General Secretary Champat Rai during its meeting held on Monday, while asserting that all gold and silver donations made to the Ram Temple are safe and fully accounted for.
+
+Speaking to ANI, Mahant Dinendra Das said the trustees had initially favoured retaining Champat Rai as no fault had been established against him, but accepted his resignation after legal advice.
+
+  
+
+"All the key figures associated with Ram Lalla had arrived. The proposal was accepted. No wrongdoing was found on the part of Champat Rai by the trust. However, because of his resignation, everyone was ready to accept it. We said that since no fault was found in Champat Rai, he should be retained. But the lawyer handling the Janmabhoomi case received a call stating that since he has given a written resignation, it should be accepted. The trustees agreed that if the authorities or court held that a written resignation must be accepted, then everyone had to agree," he said.
+
+Addressing allegations regarding valuable offerings made to the temple, Das rejected claims that gold and silver donations had gone missing.
+
+"Regarding the serious allegations that saddened many--specifically about the gold and silver donations--all the gold and silver is there, safely stored and accounted for. A full report of it has been provided. Ram Lalla has ensured all work is completed. The mistakes being shown were mostly narratives from the media. Ultimately, the media's own errors were revealed," he said.
+
+He said Keshav Mohan has been appointed in place of Champat Rai and will oversee the functioning of the Trust. "In place of Champat Rai, Keshav Mohan has been appointed. He is looking after everything safely and overseeing all the accounts. The newly appointed member will handle the proceedings and continue providing full accounts," Das said.
+
+His remarks came a day after Shri Ram Janmabhoomi Teerth Kshetra Trust Treasurer Swami Govind Dev Giri Ji Maharaj announced that the resignations of Champat Rai as General Secretary and trustee Anil Mishra had been accepted following a Trust meeting convened in the wake of the SIT probe into the alleged Ram Mandir donation theft.
+
+Swami Govind Dev Giri had said the negligence of the two office-bearers over a prolonged period was a serious matter and that those involved in the alleged embezzlement must face investigation and appropriate punishment. He also rejected allegations that valuable offerings had disappeared, stating that all donated items were documented and safe.
+
+The Trust meeting followed a preliminary Special Investigation Team (SIT) report, which pointed to serious security lapses in the Ram Mandir donation counting room and alleged systematic theft of cash by some counting staff. The SIT said its findings were preliminary and that further investigation and legal action are underway.
+
+---
+
+### India's Russian oil imports understandable during energy transition: Finland FM
+*ET Online · business*
+
+In an exclusive interview with ANI, Elina Valtonen discusses the India-European Union Free Trade Agreement, energy security, the clean energy transition, Russian oil imports, and the future of India-Finland cooperation. She says Finland will work towards the early implementation of the India-EU FTA, highlights the importance of diversifying energy sources following the West Asia crisis, and identifies green hydrogen, critical minerals and clean energy as key pillars of future collaboration. The Finnish Foreign Minister also underscores the shared democratic values that strengthen the partnership between India and Finland.
+
+---
+
+### PM Modi accorded Guard of Honour in Jakarta ahead of crucial bilateral talks
+*SECTIONS PM Modi accorded Guard · business*
+
+Jakarta: Prime Minister Narendra Modi received a formal ceremonial Guard of Honour in the Indonesian capital on Tuesday, marking the commencement of his high-profile diplomatic engagements in the country.
+
+The ceremonial welcome in Jakarta took place in the presence of Indonesian President Prabowo Subianto, who personally led the reception for the visiting leader.
+
+Demonstrating the close personal rapport between the two dignitaries, Prime Minister Narendra Modi and President Prabowo Subianto shared a warm hug.
+
+  
+
+Following the grand reception, the focus shifts to direct diplomatic engagement, with Prime Minister Modi scheduled to hold comprehensive bilateral discussions with President Prabowo today.
+
+This high-profile interaction comes after the Prime Minister landed in Indonesia on Monday to launch his three-nation diplomatic visit. His arrival was marked by military aircraft escorting the Prime Minister's plane as it entered Indonesian airspace, where he was formally received at the airport by President Prabowo and greeted with a traditional cultural dance performance.
+
+The official visit to Indonesia, running from July 6 to 8 at the personal invitation of President Prabowo, marks his fourth journey to the Southeast Asian country. Crucially, this signifies the inaugural bilateral visit between the two nations since they formally elevated their diplomatic relationship to a Comprehensive Strategic Partnership in 2018.
+
+Today's high-level engagement is anticipated to inject further momentum into this Comprehensive Strategic Partnership, with bilateral defence and maritime coordination positioned high on the shared agenda. Security relations between New Delhi and Jakarta have expanded significantly in recent years, driven by frequent high-level official exchanges, regular joint military manoeuvres, collaborative defence industry initiatives, and the landmark acquisition of BrahMo s supersonic cruise missiles by Indonesia.
+
+Underscoring this focus on regional maritime safety, the MAHASAGAR (Mutual and Holistic Advancement for Security Across the Regions) framework serves as India's institutional vision for promoting security, stability, and inclusive developmental growth across the maritime domain. In line with this strategy, PM Modi stated that the diplomatic visit would build directly upon the robust momentum currently characterising India's relations with Indonesia, Australia, and New Zealand, with a distinct focus on expanding cooperation across strategic, economic, and people-centric domains.
+
+"My visit to Indonesia and Australia in the Eastern and Southern Indian Ocean, respectively, followed by New Zealand, will further strengthen India's Act East Policy, MAHASAGAR Vision, as well as our outlook towards a free and open Indo-Pacific," the Prime Minister said in his departure statement.
+
+Following his current engagements in Indonesia, PM Modi will proceed to Australia and New Zealand as part of his multi-nation visit. Ahead of his arrival in those countries, members of the Indian diaspora community residing in Indonesia voiced strong optimism that the high-level visit would pave the way for enhanced collaborative ventures across the mining, infrastructure, energy, and emerging technology sectors.
+
+During his stay in Jakarta, the Prime Minister is also slated to engage directly with these members of the local Indian diaspora. Furthermore, he will accompany President Prabowo to the UNESCO-listed Prambanan Temple Complex situated in Yogyakarta, a historical site he has previously characterised as a visible symbol of the profound civilisational links tying the two nations together.
+
+These enduring civilisational links are mirrored on the economic front, where Indonesia stands as India's second-largest commercial trading partner within the ASEAN bloc. Total bilateral trade volumes reached USD 24.78 billion during the 2025-26 fiscal year, and more than 130 Indian business corporations maintain active investment footprints spanning various sectors of the Indonesian domestic economy.
+
+Building upon these robust commercial channels, the strategic acquisition of critical minerals is also expected to feature prominently during the bilateral state discussions today. Indonesia currently holds approximately 21 per cent of global nickel reserves and ranks among the primary international producers of bauxite, copper, and tin, rendering the archipelago a vital partner for India's long-term supply chain security and renewable energy transition targets.
+
+Ultimately, the Prime Minister's state visit aims to deepen institutional cooperation while systematically strengthening trade and investment channels within the critical minerals sector, alongside a comprehensive review of the entire spectrum of bilateral ties.
+
+---
+
+### PM Modi receives ceremonial welcome in Jakarta from Indonesia President Prabowo Subianto
+*ET Online · business*
+
+Prime Minister Narendra Modi received a ceremonial welcome in Jakarta, Indonesia, during his official visit, with official visuals showing his arrival and engagement with Indonesian President Prabowo Subianto.
+
+[Read full article](https://economictimes.indiatimes.com/news/india/pm-modi-receives-ceremonial-welcome-in-jakarta-from-indonesia-president-prabowo-subianto/videoshow/132229919.cms)
+
+---
+
+### Stock Market Opening: Sensex Slips 5 Points, Nifty Opens Above 24,430
+*Varun Yadav · business*
+
+Indian benchmark indices opened mixed. BSE Sensex fell 0.01% to 78,280.54, while NSE Nifty 50 gained 0.01% to 24,433.50.
+
+[Read full article](https://www.news18.com/business/markets/stock-market-opening-sensex-slips-5-points-nifty-opens-above-24430-ws-l-10194208.html)
+
+---
+
+### Shillong Teer Result Today, July 7, 2026: First And Second Round Winning Numbers
+*Nibandh Vinod · general*
+
+Shillong Teer Result Today: Check the latest winning numbers for Shillong Teer, Juwai Teer, Khanapara Teer, Shillong Morning Teer and Night Teer for July 7, 2026.
+
+[Read full article](https://www.news18.com/india/shillong-teer-result-today-july-7-2026-winning-numbers-10193806.html)
+
+---
+
+### Sensex rises over 150 points, Nifty above 24,450 as market extends gains for the 5th consecutive day
+*SECTIONS Sensex rises over · economy*
+
+Synopsis
+
+Indian stock markets traded higher on Tuesday, extending gains for a fifth consecutive session. Oil prices remained near pre-war levels, and foreign investors continued their buying trend. Sensex and Nifty both saw upward movement, with broader markets also participating in the rally. Certain sectors like IT advanced, while others experienced declines. Experts anticipate an uptrend supported by economic fundamentals and favorable interest rates.
+
+THE ECONOMIC TIMES
+
+Foreign investors remained net buyers of Indian equities for the fourth consecutive session, net purchasing shares worth Rs 243 crore on Monday, according to provisional data available on NSE.
+
+The Indian stock market traded in the green on Tuesday, with Sensex and Nifty extending gains for the fifth consecutive session as oil prices hovered at pre-war levels and foreign investors continued to remain net buyers of Indian equities.
+
+Sensex rose more than 150 points, while Nifty 50 was above 24,450 during Tuesday's session. Broader markets also opened in the green, with Nifty Midcap 100 and Nifty Smallcap 100 indices gaining around 0.2% each.
+
+Eternal and HDFC Bank shares were the top gainers on the Sensex, rising more than 1% each. Zudio-parent Trent shares however, sharply tumbled more than 9% to lead losses. This came as India VIX, which measures volatility in the market, inched slightly higher to near 12.
+
+Sectorally, Nifty IT gained over 0.7% to lead gains, while Nifty Metal and Nifty Realty slipped into the red. Around 1,180 stocks advanced on NSE, while 1,165 declined and 124 remained unchanged.
+
+**Oil prices**
+
+Oil prices inched slightly higher after reports said that a tanked in the Strait of Hormuz was struck by a projectile. Brent crude futures gained around 1% to trade near $73 per barrel, while WTI Crude futures rose to $69 per barrel.
+
+Despite the gains, oil prices continue to remain in the range of pre-war levels, after soaring to as high as $120 per barrel during the raging conflict between Iran and US that sparked a massive global energy crisis.
+
+**FII remain net buyers**
+
+Foreign investors remained net buyers of Indian equities for the fourth consecutive session, net purchasing shares worth Rs 243 crore on Monday, according to provisional data available on NSE.
+
+“The FPI buying is not yet a strong trend, but the fact that they have stopped selling and turned buyers is a significant shift, which is likely to be supported by fundamentals,” said VK Vijayakumar, Chief Investment Strategist at Geojit Investments.
+
+**What lies ahead?**
+
+There are distinct signs of an uptrend in the market, according to Vijayakumar. Two factors which were weighing on Indian markets - the crude price hike and sustained FPI selling- are now behind us and have reversed, he said, noting that crude is back to the pre-war level and FPIs have turned buyers.
+
+“The auto retail sales numbers in June coming at an impressive 22% indicates that the growth momentum in the economy is intact. The sharp decline in crude will keep inflation in check, which, in turn, will enable the RBI to continue with the low interest regime. This means, the uptrend in the auto industry and financials, particularly banking, will continue supported by the low interest regime and impressive credit growth running above 17%. These two sectors have the potential to lead the next leg of the rally, which is likely to be driven more by large caps. Apart from autos and financials, oil and gas and telecom majors also will support the rally. Retail buying will lift the broader market, too,” he added.
+
+**Technical view on Nifty**
+
+Yesterday’s close above 24,400 has improved the chances of the much anticipated 24,800-25,250 move, said Anand James, Chief Market Strategist, Geojit Investments. He however cautioned that spikes to 24,600 regions might attract some rejection trades.
+
+“With the prospects of volatility and upside objectives thus outlined, we will go in today with a downside marker placed at 24,360 until 24,600 is seen,” he added.  
+_(With inputs from agencies)_  
+_(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)_
+
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+...moreless
+
+_(You can now subscribe to our ETMarkets WhatsApp channel)  
+_
+
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+...moreless
+
+---
+
+### UP man kills lover in sleep, chops up body after fight over her mobile chats
+*India Today News Desk · general*
+
+## Police said a man in Uttar Pradesh's Jaunpur allegedly killed a woman in her sleep after an argument over mobile phone chats, dismembered her body and dumped the remains at different locations. The case unfolded after residents found her torso, with police later arresting the suspect as he allegedly attempted to dispose of the remaining body parts.
+
+Mobile chat dispute ends in murder, body chopped into pieces in UP
+
+A 38-year-old married woman was allegedly murdered by her lover, who police say slit her throat while she was asleep after an argument over mobile phone chats, dismembered her body into three pieces and dumped the remains at different locations in Uttar Pradesh's Jaunpur district before being arrested in a police encounter while allegedly trying to dispose of the remaining body parts.
+
+Police identified the accused as Hemal Khakharia alias Dilip, 42, a resident of Gujarat currently living in the Teachers' Colony in the Madiyahu area of Jaunpur. The victim was identified as Reshma Khan alias Sana.
+
+According to police, Khakharia was intercepted late on Sunday night near Ramnagar Block Gate after the police tracked him.
+
+Police said he allegedly opened fire while attempting to flee, prompting retaliatory firing in which he sustained a bullet injury to his right leg before being arrested.
+
+### BODY FOUND, PROBE BEGINS
+
+The case came to light on Sunday morning when local residents spotted a mutilated human torso wrapped in a black polythene sheet in bushes near the Ranipur Bypass in the Madiyahu police station area and alerted police.
+
+The remains were sent for post-mortem examination, while a police team launched an investigation using electronic and other evidence to identify the victim and trace those responsible.
+
+### WHAT POLICE SAY HAPPENED
+
+According to police, Khakharia had brought Reshma from Babatpur in Varanasi to his rented accommodation in Teachers' Colony on July 4.
+
+While at the room, the two allegedly got into an argument after going through chats on a mobile phone. Although the dispute later appeared to subside, police said the accused remained angry.
+
+Investigators allege that after the woman fell asleep, Khakharia slit her throat with a knife, killing her.
+
+Police said he then went to a nearby market, bought black polythene bags and returned to the room, where he used a cleaver to cut the body into three pieces, severing the hands and legs before packing the remains separately.
+
+According to police, the torso was dumped near the Ranipur Bypass, while the legs and other body parts were discarded near a culvert close to the Ramnagar Block crossing.
+
+### ENCOUNTER AND ARREST
+
+Police said the accused became alarmed after learning that one of the body parts had already been recovered and that investigators were working to identify the victim.
+
+According to the Circle Officer of Madiyahu, Khakharia allegedly set out late on Sunday night to remove or conceal the remaining body parts. Acting on a tip-off, police laid a cordon near the Ramnagar Block Gate and intercepted him.
+
+Police alleged that the accused opened fire after finding himself surrounded. Officers returned fire in self-defence, injuring him in the right leg before taking him into custody.
+
+He was admitted to hospital for treatment and later allegedly confessed to the crime during interrogation.
+
+Police said they recovered a .32-bore country-made pistol, two live cartridges, two spent cartridge cases, the knife allegedly used in the murder, the remaining body parts, a mobile phone and a motorcycle from his possession.
+
+Further investigation is underway.
+
+\- Ends
+
+Inputs from Aditya Prakash Bhardwaj
+
+Sayan Ganguly
+
+Jul 7, 2026 09:28 IST
+
+---
+
+### Goa Plans To Stop New Rental Thar Licences Amid Rise In Road Accidents
+*Shobhit Gupta · general*
+
+The development came after a series of accidents involving rented Thar vehicles, particularly those driven by tourists.
+
+[Read full article](https://www.news18.com/india/goa-plans-to-stop-new-rental-thar-licences-amid-rise-in-road-accidents-ws-l-10194175.html)
+
+
+---
+
 ## 6 July 2026
 
 ### Drone strike on family home leaves three girls dead in South Waziristan
