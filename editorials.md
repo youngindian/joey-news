@@ -1,8 +1,189 @@
 # Editorials
 
-_Last updated: 2026-07-07 05:42 UTC_
+_Last updated: 2026-07-08 04:47 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 8 July 2026
+
+### Deceptive dispute: On the Taj Mahal
+*The Hindu · Editorial*
+
+In 2015, a civil suit sought to declare the Taj Mahal a Hindu temple. This April, after an Agra trial court refused the petitioners’ request to appoint an Advocate Commissioner to survey the monument, the Allahabad High Court — hearing the petitioners’ challenge — has sought responses from the Centre and the ASI before deciding whether the lower court’s refusal should stand. The legal position aside, the matter is both frivolous and vexatious. The idea today that the Taj Mahal was ‘originally’ a Hindu temple is associated with the late 20th century writings of Purushottam Nagesh Oak. Professional historians and archaeologists have repeatedly rejected his claims because they bank on speculative linguistic arguments and unsupported historical assertions. On the other hand, evidence that Shah Jahan built the Taj Mahal is rooted in contemporary chronicles, administrative records, European travellers’ accounts, architectural histories, and archaeology. No archaeological study has produced evidence of a medieval Hindu temple beneath the Taj. Even though the ASI has previously submitted in affidavits that some rooms are locked because they are structurally vulnerable, supporters of the temple idea have alleged that they conceal Hindu idols. A Bharatiya Janata Party leader also unsuccessfully filed a PIL in 2022 and activists tried to offer ‘gangajal’ in 2024. Given the right historical, political, economic, and social conditions, an idea can persist long after its origins from pseudohistory.
+
+The ongoing case resembles aspects of the Gyanvapi and Mathura disputes, where requests for ostensibly objective surveys were also platforms to advance revisionist political narratives. Courts are empowered to reject pleadings that disclose no sustainable cause of action — even as they are not commissions of historical inquiry and should not treat every speculative historical hypothesis as sufficient grounds for a supervised investigation. Equally, civil procedure should not tolerate re-litigating claims lacking any real evidentiary foundation. All major monuments accumulate materials of additions and alterations over time but heritage scholars draw a line between studying a monument’s evolution and redefining its identity outright. The Taj Mahal became a UNESCO World Heritage Site in 1983. Repeated attempts to redefine its identity can also muddle international perceptions of India’s stewardship of the monument and disrupt the region’s tourism-based economy. The High Court may ultimately agree with the trial court’s order after due examination, but the claim deserves not a breath of air. The petitioners have not advanced any new evidence, even as heritage institutions continue to face sustained legal pressure to manufacture controversies from figments.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/deceptive-dispute-on-the-taj-mahal/article71194017.ece)
+
+---
+
+### Grand ambitions: On India’s cooperative sector
+*The Hindu · Editorial*
+
+Hypercompetitive business models that dominate the economic lives of people have undesirable social consequences. The cooperative model offers an alternative, albeit with its own imperfections. India’s Ministry of Cooperation, which completed five years on July 6, is a bold experiment in harnessing the potential of this approach. Traditionally confined largely to agriculture, cooperatives now have the opportunity and a requirement to expand into other sectors, particularly services. Cooperatives, by their very character, are relatively small-scale and fragmented; organising them, and connecting them to the broader economy that disproportionately rewards hyper-scalers is a balancing intervention — an economic, political and social imperative. The Ministry aims to transform the cooperative landscape by bringing policy coherence across agriculture, dairy, fisheries, banking, housing, consumer cooperatives, and exports. This requires collaboration with States and national federations, capacity building, wise use of digital technology, and market linkages. Primary Agricultural Credit Societies (PACS) are the foundation of rural cooperatives. Through a reformed legal framework, they have been empowered to undertake over 25 business activities, transforming them into multifaceted institutions delivering many economic services in rural India.
+
+The Ministry has facilitated new national-level multi-State cooperative societies, expanding market access for members and strengthening cooperative value chains from production to global markets. Cooperative enterprises are being encouraged to grow and compete, and a National Cooperation Policy is in the making. But there are challenges amid the opportunities. Corruption and inefficiency eroded the potential of India’s cooperative sector, and the fear of local communities and States losing control of cooperatives to a national-level mechanism needs to be assuaged. The task is in finding the sweet spot of consolidation and decentralisation; localisation and nationalisation; technology and human labour, for boosting the sector. Union Home Minister Amit Shah, who holds the portfolio, is pushing the cooperative sector to expand into production and marketing, beyond agricultural credit and input facilitation, which could help mitigate the sector’s endemic crisis. A well-coordinated, yet federated, cooperative sector can offset the social, environmental and political costs of global capitalism, which is the default model of the economy. Government and business leaders worldwide are viewing cooperatives with renewed interest, as the pitfalls of hypercapitalism become pronounced. India can develop its cooperative sector as a global model.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/grand-ambitions-on-indias-cooperative-sector/article71194383.ece)
+
+---
+
+### India’s economic prospects after the West Asian crisis’
+*The Hindu · Opinion*
+
+The United States and Iran agreed to a 14-point preliminary Memorandum of Understanding (MoU) towards ending the West Asian crisis and reopening the Strait of Hormuz. Although there have been initial hiccups, it is expected that, with the reopening of the Strait, global crude oil supply will stabilise and prices will normalise at a lower level. Following these developments, India should adjust its strategies, keeping in mind both the 2026-27 outlook and medium-term growth prospects.
+
+The West Asian crisis had resulted in a period of relatively higher crude prices. The monthly average price of the Indian crude oil basket was $114.5 per bbl in April 2026. It declined to $106.2 per bbl in May 2026 and further to $86.3 per bbl as of June 24, 2026. For the remaining three quarters of 2026-27, crude oil prices are expected to remain below this level, provided the truce continues.
+
+2026-27 growth prospectsThe National Statistical Office’s provisional estimates of GDP growth of 7.7% for 2025-26 confirm India’s strong post-COVID-19 pandemic recovery. This was preceded by real GDP growth rates of 7.2% and 7.1%, respectively, in 2023-24 and 2024-25 as per the new GDP series. Real Gross Value Added (GVA) growth was even more impressive at 7.9% in 2025-26, with the manufacturing, trade, transport, and financial and real estate sectors recording growth rates exceeding 10%. With nominal GDP growth at 8.9%, the implicit price deflator-based inflation rate stood at 1.1% in 2025-26.
+
+For 2026-27, growth prospects are likely to be impacted because of the disruptions in crude supply and higher prices affecting the first quarter, and due to a deficiency in rainfall associated with the onset of El Niño. The India Meteorological Department has estimated a 10% shortfall (as compared with the Long Period average). Up to June 24, 2026, the estimated shortfall is nearly 43%.
+
+The combination of El Niño and fertilizer shortages pose a potential risk to India’s agricultural output in 2026-27. In particular, in the immediate term, the kharif crop is likely to be affected. There may also be an impact on the rabi crop which is to follow. Therefore, it is important to build up fertilizer reserves and address issues of potential shortages when it comes to important crops, which may warrant a reconsideration of crop-specific import and export policies. The Reserve Bank of India (RBI) has projected real GDP growth of 6.6% for 2026–27.
+
+Fiscal prospects, petroleum economyOne important feature of 2026-27 growth is the likelihood of relatively higher nominal GDP growth as compared to 2025-26. This is because the implicit price deflator (IPD), which depends on Wholesale Price Index (WPI) and Consumer Price Index (CPI) inflation, is likely to be higher than the 2025-26 level of 1.1%. The RBI’s June 2026 Professional Forecasters’ median projections for WPI and CPI inflation for 2026-27 are 8% and 4.9%, respectively. With a resolution of the West Asian crisis, we consider WPI and CPI inflation rates for the full year to be lower at 6% and 4.5%; using weights of 60% and 40%, respectively, we can broadly estimate IPD-based inflation to be 5.4%. Combining this with a real GDP growth of 6.6%, we may have a nominal growth of about 12.4% in 2026-27, higher than the budgeted growth of 10.1%. This would have a positive impact on tax revenues. The Government of India should be able to realise its budgeted estimate of tax revenues absorbing the adverse revenue impact of any excise duty cuts. On the expenditure side, however, subsidies may be higher than budgeted.
+
+The RBI has given a dividend of ₹2.69 lakh crore to the Government. This amount covers a significant portion of the budgeted ‘Dividends and profits from RBI and Financial Institutions’ in 2026-27 at ₹3.16 lakh crore. Given these developments, we expect the 2026-27 budgeted fiscal deficit at 4.3% of GDP to be either realised or only marginally exceeded.
+
+The evolution of India’s petroleum economy has been characterised by certain notable features. First, India’s dependence on imported crude oil has increased to more than 90% in 2025-26 from 54.9% in 1998-99. Second, the volume of domestic production of crude oil has fallen over time to 26 million metric tons (MMT) in 2025-26 from a peak of 35.9 MMT in 2011-12. Third, demand for petroleum products/petroleum, oil, and lubricants (PoL) has increased, thereby generating the need for larger imports. Fourth, domestic consumption of PoL products has increased to 243.2 MMT in 2025-26 from 90.6 MMT in 1998-99. Fifth, India has developed an impressive capacity for refining crude to produce various PoL products. This capacity has improved over time. Sixth, the energy intensity of India’s output, as well as the intensity of use of PoL products in GDP, has fallen over time. This augurs well for sustaining an energy-efficient growth at a reasonably high level for a relatively longer period.
+
+India may continue to augment its refining capacity, which has helped save refining costs compared to the situation if it had directly imported refined petroleum products. The trend towards growing dependence on imported crude oil needs to be reversed by emphasising the exploitation of domestic crude resources while accelerating the transition to greener and alternative energy sources, including nuclear power.
+
+Build reservesWith a lowering of global crude prices and normalisation of supplies, the government should shore up its fertilizer reserves and reserves for other critical primary commodities including crude. There is a need to further diversify sources of imported crude and also reduce reliance on imports through the Strait of Hormuz. A policy for building strategic reserves of key primary commodities, along with estimates of the required volumes and needed infrastructure, should be put in place.
+
+The current account deficit was 0.6% of GDP in 2025-26, with the fourth quarter showing a surplus of 0.7% of GDP. Prospects for 2026-27 indicate a deterioration in this magnitude. The RBI’s June 2026 Survey of Professional Forecasters had estimated a current account deficit of 2.1% of GDP for 2026-27, as per their median estimate. With normalisation of the global oil market and the opening of the Hormuz strait, we expect this to be lower at about 1.5% of GDP.
+
+The prospects of the Indian economy outlined above is on the assumption that peace will prevail in West Asia from now on. If this assumption turns out to be incorrect and if the war continues, India along with many other countries will face an extremely difficult situation.
+
+C. Rangarajan is former Chairman, Prime Minister’s Economic Advisory Council, and former Governor, Reserve Bank of India; D.K. Srivastava is former Director, Madras School of Economics. The views expressed are personal
+
+[Read full article](https://www.thehindu.com/opinion/lead/indias-economic-prospects-after-the-west-asian-crisis/article71194935.ece)
+
+---
+
+### Dissent must not be criminalised
+*Deccan Herald · Editorial*
+
+The Bombay High Court recently reaffirmed that peaceful protest is a constitutional right for every Indian. This is a vital democratic truth delivered at a time when basic rights are increasingly under strain. The court also underscored the self-evident principle that the police are servants of the people, not of top government authorities. It issued the ruling after hearing a case of petitioner Saeed Ahmad Abdul Wahid Chaudhary of the Social Democratic Party of India (SDPI). Chaudhary had organised protests, allegedly without police permission, against the Bharatiya Janata Party (BJP)-led government’s decisions regarding the Citizenship Amendment Act (CAA) and the Gyanvapi mosque. In response, Mumbai Police filed FIRs and issued an externment order against him in December 2025. The court questioned these actions and ruled that slapping FIRs and debarring a citizen from entering a city merely for criticising the government is unjustified. Since there was no evidence of a threat to public safety or property, the order infringed upon his fundamental rights.
+
+Justice Madhav Jamdar quashed the externment, holding that the order is a severe measure that cannot be arbitrarily invoked simply because a citizen holds public protests. Raising slogans like “government murdabad” cannot be legal grounds to file criminal cases or banish individuals from a city. The court affirmed that dissent and protests are legitimate responses of citizens to the government’s actions, protected by the right to free speech and expression under Article 19. Treating such protests as threats to public order without credible evidence erodes the very freedom that distinguishes a democracy from an authoritarian state. The judge’s suggestion that the petitioner should consider switching political affiliations to get the FIRs quashed through the ruling party’s “washing machine” was made in a lighter vein, but it shows how judicial minds are concerned over trends that pose a threat to democratic and constitutional ideals.
+
+All citizens are being made slaves of government, says Justice JamdarWhile the Bombay High Court’s ruling should resonate beyond the immediate context of the case, its democratic spirit is frequently violated in cases where victims find no judicial relief. Two days after the ruling, a Delhi court rejected the bail applications of Umar Khalid and Sharjeel Imam, both accused in the larger conspiracy case in connection with the 2020 Delhi riots. They have been incarcerated for over five years, and their bail pleas have been repeatedly dismissed by various courts, including the Supreme Court. Their prolonged imprisonment further reveals a contradiction in the legal landscape. The judicial protection of dissent, underlined in Justice Jamdar’s judgment, has failed to reach everyone.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/dissent-must-not-be-criminalised-4065719)
+
+---
+
+### Filters will dilute universal welfare
+*Deccan Herald · Editorial*
+
+The Congress government’s Gruha Jyothi scheme, one of its five flagship guarantees, was conceived as a welfare measure to ease household electricity costs. Applicable to all domestic consumers in Karnataka, it provides up to 200 units of free electricity, with each household’s entitlement determined by its previous consumption pattern. The government has now launched a statewide door-to-door verification exercise through the electricity supply companies. Officials say the objective is to clean up beneficiary records, identify commercial establishments masquerading as domestic consumers, update tenant information, and eliminate duplicate or inactive accounts. Consumers are being asked to furnish Aadhaar, voter ID, PAN, ration card, tenancy documents where applicable, photographs, and caste details.
+
+The verification in itself is not objectionable, as accurate databases ensure that public money reaches legitimate beneficiaries and help curb subsidy misuse. However, the nature of the information sought has understandably generated apprehension. The principal concern is that a scheme announced as universal may gradually acquire exclusionary filters. The demand for PAN details has fuelled speculation that income-tax payers or households above a certain income threshold could be excluded. The insistence on voter IDs has also raised fears that migrant workers and long-term residents from other states, despite legitimately living and paying taxes in Karnataka, may lose eligibility. Likewise, seeking caste details raises obvious questions when the scheme is based solely on electricity consumption and not on social category. These concerns have led to accusations that the exercise resembles data mining more than routine verification. Energy Minister K J George has sought to allay such fears, maintaining that PAN and caste details are being collected only for documentation and statistical analysis. He has assured consumers that genuine beneficiaries have nothing to fear, clarified that furnishing caste information is voluntary, and insisted that the exercise is intended only to eliminate misuse.
+
+‘No denial of Gruha Jyothi for want of caste certificate, ration card’: BescomWhile building integrated databases may improve policy planning and welfare delivery, a trust deficit persists because the purpose and future use of the information remain unclear. If the government believes the scheme has become fiscally unsustainable and wishes to exclude affluent households, it should say so openly and establish clear eligibility norms. Such policy changes deserve public debate, not speculation triggered by a verification drive. The government’s assurances are welcome, but beneficiaries cannot be left guessing whether today's data collection could become tomorrow's eligibility test. Preventing fraud is legitimate; introducing new criteria through the back door is not. A universal welfare programme should remain true to its original promise.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/filters-will-dilute-universal-welfare-4065718)
+
+---
+
+### On football’s grandest stage, nativism is losing
+*Deccan Herald · Opinion*
+
+Every four years, the FIFA World Cup holds up a mirror of multiculturalism, and every four years, the anti-immigrant political leaders look away. This summer, the mirror hangs on American soil, where the president hosting the world presides over the largest deportation campaign in his country's history. Line up the finest eleven a nation can field, and you line up the evidence its border hawks most wish to bury: the teams that win, like the economies that thrive, are built from the people those politicians would turn away.
+
+The numbers at the 2026 finals are clear. Sixteen of France's twenty-six players were born abroad or to migrants: Kylian Mbappé, of Cameroonian-Algerian parentage; Ousmane Dembele, the reigning Ballon d'Or winner, of Malian-Senegalese roots; and London-born Michael Olise. Eight of Germany's squad have African roots. Switzerland is captained by Granit Xhaka, son of Kosovar-Albanian emigres; its attack is led by Cameroon-born Breel Embolo. Read any team sheet, and you are reading a map of the migration these governments campaign against. This athletic expression has been proved by economics with even greater rigour – cosmopolitan societies outperform homogeneous ones. The pitch simply has the honesty to post the scoreline.
+
+FIFA WC 2026 | World Cup in a divided worldDonald Trump has built the most aggressive deportation apparatus in American history, reviving the 1798 Alien Enemies Act to remove people without due process. Yet a 2024 Congressional Budget Office analysis found immigration would add $7 trillion to American output over the decade. Immigrants file patents at twice the native-born rate. Google, Yahoo, eBay, and Tesla were each co-founded by an immigrant. The American economy is a harbour, not a fortress.
+
+Europe's nativists do the same. Viktor Orbán has constitutionalised "ethnic-homogeneity”, a phrase lifted from a 1930s Nazi manifesto. Italy's Giorgia Meloni, whose party traces to the post-fascist MSI, has turned the navy on migrant vessels. Britain's Rwanda scheme treated asylum seekers as parcels to be posted elsewhere. Denmark caps "non-Western" residents in any housing area under a statute its own officials call the “ghetto law”.
+
+The absurdity crystallised the night France won the 2018 World Cup. Mbappé and Paul Pogba, sons of African immigrants, lifted a trophy that Marine Le Pen's France would have denied them the passport to chase. That would be the most expensive self-goal in French political history.
+
+Migration is also the story of war, and of the powers that fund the wars while slamming the door on their survivors. Canada's captain, Alphonso Davies, was born in a Ghanaian refugee camp to parents who fled Liberia's civil war; resettled at five, he is now a Champions League winner. Germany's Antonio Rüdiger anchors his country's defence a generation after his parents fled Sierra Leone.
+
+The Syrian conflict, sustained by the arms and patronage of Western and Gulf powers that later barred its refugees, has displaced 6.6 million people since 2011, producing footballers now coming through academies in Germany, Sweden, and France. The UNHCR counted 123.2 million forcibly displaced people worldwide at the end of 2024. Every pushback at sea is a bet that history will forget them, and history never pays out.
+
+The anatomy of xenophobia
+
+What binds Trump's deportations, Orban's ethnic-homogeneity, and Denmark's ghetto law is not analysis but an older, cruder reflex: distrust of the outsider. It needs no evidence, reaching for a scapegoat when wages stall, or housing runs short, indifferent to whether migration caused either. Sport strips the fear of its disguise, and has for nearly a century: Jesse Owens, a Black man from Alabama, won four golds under Hitler's gaze in Berlin in 1936. The stranger these politicians train us to fear is often the same man whose goal we will roar for on Sunday.
+
+The defence of open societies is too often dressed up as compassion rather than fact, a framing both strategically feeble and analytically dishonest. Cosmopolitanism is, on the evidence, the superior model for a competitive society.
+
+Football proves in ninety minutes what political theory takes volumes to argue: inclusive meritocracy works. A team is chosen based on one question: can this player help us win, blind to passport, faith, or accent. Strip out inclusion and merit shrinks to a pool narrowed by prejudice; strip out rigour, and it rots into tokenism. Hold the two together, and you get Mbappe, Xhaka, and Embolo. Nations built the same way beat those that ration opportunity by bloodline.
+
+Economic geographer Richard Florida spent two decades linking the cities that attract diversity to those producing outsized patents and start-ups: diversity is not incidental to dynamism; it is its precondition. Immigrant-founded companies make up more than 40% of Fortune 500 firms, and the IMF finds a one-point rise in the migrant share of a population lifts GDP per capita by up to 2% over the medium term.
+
+None of this erases the difficulty of managing migration. But it demolishes the premise on which restrictionism is sold, that keeping people out is the shrewd economic bet. It is not. And so the nativists will keep cheering, often from home stands this very summer, teams built by the very people their politics would turn away.
+
+FIFA World Cup: Shadows on the pitchAnti-immigrant politics is regressive by design: it smothers innovation, manufactures labour shortages, and frays the social fabric it claims to protect. The task now falls to leaders willing to think past the next election.
+
+Cosmopolitanism is not an ideological luxury; it is an economic necessity and a historical strength. A team wins with a range of talents; a nation wins the century with the free exchange of people, labour, and ideas. An open identity is not one path to prosperity and social peace. It is the only one left.
+
+(The writer is a social scientist based in Australia)
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/on-footballs-grandest-stage-nativism-is-losing-4065794)
+
+---
+
+### Will theft affect Hindutva, UP poll?
+*The New Indian Express · Opinion*
+
+The Shri Ram Janmabhoomi Teerth Kshetra Trust had outsourced the cash-counting process to the local SBI branch, which in turn hired an external agency, ‘Sainik Security Services’. SBI deployed 19 personnel, which included the few recommended by the Trust.
+
+Of the eight arrested, six were from this counting team, and two were Trust employees—one of whom betrayed the immense trust placed in him by Trust general secretary Champat Rai on the quintessential RSS ethos that ‘trust breeds trust.’
+
+The theft occurred because of over reliance on personal trust instead of systemic rigour. The counting protocols were overly relaxed, allowing for collusion.
+
+This led to administrative negligence, paving the way for the theft. As Champat Rai himself noted, he was betrayed by someone he trusted deeply.
+
+To date, Rs 80 lakh out of the stolen cash has been recovered. The special investigation team (SIT) set up by the UP government is actively tracking the remaining assets of the accused and investigating if any other valuables were compromised. The government’s resolve against the wrongdoers is manifest in the move to bulldoze a Rs 80-lakh house built by one of the thieves whose salary was a mere Rs 20,000.
+
+The Ram Mandir is said to have received over Rs 3,000 crore in donations to date, with reportedly more than 90% arriving securely via bank transfers. Between April 2025 and February 2026, Rs 74 crore was reportedly collected in cash via the Hundi. It was only from this cash pool that theft occurred.
+
+Based on internal audits and preliminary SIT reports, the embezzled amount was reportedly estimated at Rs 7 crore to 7.5 crore initially. The latest estimate of the theft gathered from Trust sources is far less, out of which most has been recovered partly in cash and partly traced as properties.
+
+Trust sources confirm that there is not a single gram of jewellery lost. The latest estimate of the stolen cash, and the absence of any loss of jewellery, if finally established by SIT, will be a serious blow to the reckless opposition charge of a huge Rs 200 crore scam.
+
+Already, their demand for a court-monitored investigation ignores the stark contrast between inaction in government Trust cases forcing the courts to step in to initiate the probe and the super promptness of the Mandir Trust’s action.
+
+Now come to the politics and ideological clashes triggered by the theft that is inevitable as the Mandir battleground of UP goes to polls early next year.
+
+Hindu nationalism: Preached by Vivekananda, accepted by Gandhi, reclaimed by Ram
+
+Even a single rupee stolen is a tragic betrayal of Shri Ram. Ram is not merely an idol. He is the very soul of this ancient nation. He is the very symbol of the Ayodhya movement that decisively course-corrected the pseudo-secular polity, which fractured our civilisational ethos. To recall how the Ram Mandir movement reoriented our national life, here is a bit of history that the media often forgets.
+
+After independence, the inspiring ideals and symbols of the freedom movement—the concept of Hindu nationalism expounded by Swami Vivekananda and Maharishi Aurobindo, Mahatma Gandhi’s vision of Ram Rajya, the rallying freedom battle cries of Bharat Mata Ki Jai and Vande Mataram—were marginalised. The Ram Mandir movement catalysed their renaissance.
+
+Most of those guiding the national discourse are unaware that the concept of a ‘Hindu Rashtra’ (Hindu nationalism) is not an invention of the RSS. Yes, it is not the RSS’ conception. Decades before the RSS was formed, this nationalism was preached by Vivekananda and Aurobindo. It became the driving force of the freedom struggle. It was thoroughly embraced by leaders like—believe it!—Gandhi, Nehru, and even Communist stalwart Rajani Palme Dutt.
+
+In his seminal work Hind Swaraj (1909), Gandhi wrote that Hindu theerth yatras, pilgrimage to Chardhams and reverence to Ganga Jal symbolise and proclaim our national integration and nationalism. He wrote that they “make us as one in the sense in which no two Englishmen are”. When asked about Muslims, he said they must be assimilated into the overarching national mainstream. How many in the media know this?
+
+Jawaharlal Nehru hailed Swami Vivekananda as the pioneer of India’s freedom movement. He wrote in his Glimpses of World History (1935), “the Hindu nationalism preached by the Swami was rooted deeply in Hindu religion and culture, yet was in no way anti-Muslim.” (p. 437).
+
+Further, Nehru acknowledged, “It is not easy to draw a line between Hindu nationalism and true nationalism. The two blend together, as India is the only home of the Hindus and they form a majority there.” (p. 720). How many participants in public discourse today have read Nehru’s Glimpses of World History?
+
+Rajani Palme Dutt, the Indian who founded the Communist Party of Great Britain, wrote in his book titled India Today that even if Indians had grown up in monastic isolation learning only the Sanskrit Vedas, they would have undoubtedly drawn inspiration required for the freedom struggle from them. How many in the media know his name, know that he wrote that book in 1939 and revised it in 1973 and still did not change what he had said in 1939?
+
+This freedom movement, firmly anchored in Hindu nationalism, changed course drastically on one specific day—22 March 1940. That was the day the Muslim League under M A Jinnah passed the resolution for partition of the nation. From that day, the Hindu nationalist perspective was systematically erased from the freedom narrative.
+
+Vande Mataram and Bharat Mata Ki Jai began fading from public life. After independence, the Nehru-led Congress actively rejected the very ideals and symbols Nehru himself had once celebrated. The foundational pillars of our independence—Hindu nationalism, Vande Mataram, Bharat Mata Ki Jai, and Ram Rajya—were orphaned by the pseudo secular political establishment. It was the RSS which kept the flame of these noble thoughts and symbols alive amid the pseudo-secular tsunami drive for vote bank politics.
+
+Finally, it was the RSS-led mass Ram Mandir movement that reclaimed the pre-independence values of Hindu nationalism and reoriented the derailed national polity. When pseudo-secularists challenged Hindutva as not compatible with India’s secular Constitution, the Supreme Court delivered a historic verdict in 1996, and ruled unequivocally that Hindutva is the national soul, culture, and way of life of the Indian people. When approached to review the ruling several times later, the court refused, thus confirming the Hindu foundations of our nation and nationalism.
+
+The Ram Mandir movement had successfully dismantled the pseudo-secular politics based on vote, thus restoring the Hindu nationalist perspective to its rightful place in the Constitution. Now, weaponising this Mandir theft, the forces that vehemently opposed the course-correction of the nation by the Ram Mandir movement, are desperately trying to derail it and drag the nation back into the abyss of pseudo-secularism.
+
+The coordinated attempts by opposition parties and sections of the national and international media to undermine the reputation of the Ram Mandir movement is the present political and electoral challenge to the RSS and BJP. With elections approaching in Uttar Pradesh—the epicentre of national renaissance—the objective of the detractors is crystal clear: use the theft to fracture the temple movement which recalled and reinstated the pre-independence political philosophy of Hindu nationalism.
+
+Since the UP election is months away, the opposition’s effort to use the theft to make an impact will depend on their capacity to keep the issue alive till polling. For, in the social media-driven ecosystem, the shelf-life of all issues is increasingly becoming short. If the SIT establishes the theft to be a smaller affair and that no jewellery was lost, the opposition will have egg on its face and the issue itself will be consigned to history well before the elections.
+
+S Gurumurthy,Editor, Thuglak Tamil Magazine.Chairman, Vivekananda International Foundation Strategic Think Tank
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/s-gurumurthy/2026/Jul/08/will-theft-affect-hindutva-up-poll)
+
+---
 
 ## 7 July 2026
 
@@ -81,6 +262,59 @@ S.Y. Quraishi is a former Chief Election Commissioner of India and author of An 
 
 ---
 
+### Why India must get the Caste Census right
+*The Hindu · Opinion*
+
+The Narendra Modi government’s decision to include caste enumeration in the next Census is one that is bold, transformative and commendable. Counting caste is not capitulation to identity politics. It is a mirror to the lived realities of millions. It marks a vital step towards evidence-based policymaking to build a more just and inclusive India. A nation that refuses to see itself cannot hope to heal itself.
+
+Caste Census: The methodology, challenges, and the road ahead | Explained
+
+Post-Independence, India attempted to abolish caste while simultaneously pursuing social justice — a textbook example of policy schizophrenia, as the two goals are fundamentally incompatible. The refusal to count caste in the Census was a corollary of the policy of caste blindness. But the Constitution explicitly mandates the pursuit of social justice through reservations in education, public employment, and electoral constituencies — measures that require precise, disaggregated caste data. Although the Constitution uses the term “class”, the Supreme Court of India has repeatedly ruled that caste is a valid, and often necessary, proxy for identifying backwardness and has insisted on detailed caste-wise data to uphold reservation policies.
+
+In his 1955 essay, ‘Thoughts on Linguistic States’, Dr. B.R. Ambedkar denounced the omission of caste tables from the 1951 Census as an act of “petty intelligence”. Visibility in data is the first step toward meaningful inclusion. Caste data collection across all major social groups is essential not only for administering reservations, but also for equity-driven planning, targeted policymaking, and tracking disparities over time. Not collecting it has rendered many of India’s marginalised communities invisible in official statistics. Worse, a narrow elite of upper castes and dominant Other Backward Classes (OBCs) has entrenched its grip over wealth, opportunity and power behind the smokescreen of caste anonymity. In hindsight, this ranks among India’s gravest policy failures.
+
+A legal and administrative necessitySince 1951, the Census has enumerated Scheduled Castes (SCs) and Scheduled Tribes (STs) but excluded OBCs, even though all three groups are constitutionally eligible for reservations in education and public employment. The usual justification, that OBCs lack reserved seats in Lok Sabha and State Legislative Assemblies (that SC/ST have) collapsed with the 73rd and 74th Amendments, which mandated OBC reservation (in addition to SC/ST reservation) in electoral constituencies of panchayats and municipalities. Implementing these provisions requires granular, area-wise OBC data. With the introduction of reservations in education and public employment for the Economically Weaker Sections (EWS) among upper castes (2019), a comprehensive enumeration of all castes has now become a legal imperative.
+
+India’s reservation policy currently operates in an evidence vacuum, leaving it vulnerable to arbitrary demands from powerful caste groups and politically expedient decisions by governments. With reliable caste data, the demands of the Marathas, Patidars, Jats, and others can be assessed transparently and on merit. The limited data we do have reveal deep inequities. According to submissions made by the Government of India to the Justice G. Rohini Commission, just 10 OBC castes cornered 25% of all public jobs and education seats reserved for OBCs, while a quarter of OBC castes secured 97% of the benefits. Shockingly, 38% of OBC castes received only 3% of the benefits, and another 37% got nothing at all.
+
+Hence, caste enumeration is also an administrative imperative — to prevent the elite capture, enable rational sub-categorisation within social groups, and allow a more precise definition of the “creamy layer”.
+
+Collection of caste data must go beyond the decennial Census. All periodic government surveys should enumerate OBCs and upper castes alongside SCs and STs. The era of partial counting must end.
+
+Learning from failure and successIn 2010, Parliament unanimously resolved to count caste in the 2011 Census. The 1931 Census had recorded 4,147 castes (excluding the then-called Depressed Classes). The Anthropological Survey of India has identified 6,325 castes. But the Socio-Economic and Caste Census (SECC) of 2011, conducted by the United Progressive Alliance-II government, was a debacle. It produced a ludicrous figure of 46 lakh castes and was never released.
+
+What went wrong? First, the SECC-2011 was not conducted under the Census Act, 1948 and lacked legal authority. Second, it was conducted through the Union Ministries of Rural Development and Urban Development with no expertise for handling a complex socio-anthropological survey. Third, its open-ended questions about caste created confusion. Undertrained enumerators conflated castes, aliases, sub-castes, gotras, clan names, surnames and broader caste groups. The result was a chaotic, unusable data set. Was it sabotage or incompetence? Either way, a historic opportunity was squandered.
+
+In contrast, in Bihar’s caste survey, enumerators were given a vetted list of 214 castes specific to the State, with a 215th option for “Other Castes”. The survey was well-planned, well-executed, and showed that a credible caste count is entirely feasible.
+
+Blueprint for a successful Caste CensusTo avoid repeating the SECC-2011 fiasco, here is what must be done.
+
+First, legal backing. Amend the Census Act, 1948 to explicitly mandate caste enumeration and insulate the process from shifting political agendas.
+
+Second, the right institution. Entrust the exercise solely to the Office of the Registrar General and Census Commissioner of India, and not Ministries that lack domain expertise.
+
+Third, a standardised questionnaire. Use closed-option questions with dropdown menus covering sub-caste, caste (including aliases), broader caste group, and caste-linked surname (optional). Having ‘caste’ alone as an option can lead to errors since some caste names such as Rao, Naik, Singh or Bhandari span multiple communities. Assign unique digital codes to avoid duplication and semantic confusion (e.g., grouping “Iyer” and “Aiyar” under one code).
+
+Fourth, State-specific caste lists. Develop draft lists in consultation with State governments, sociologists, and community leaders. Publish them online and invite public feedback before finalisation. Use a similar participatory approach for questionnaire design.
+
+Fifth, enumerator training. Conduct region-specific training sessions with mock examples, clear dos and don’ts, and guidance on local caste nuances.
+
+Sixth, digital tools. Equip enumerators with handheld devices that are preloaded with validated caste lists. Restrict data entry to predefined options to minimise human error.
+
+Seventh, representative staffing. To ensure data integrity, deploy enumerators from diverse communities and in areas where they have no conflict of interest.
+
+Eighth, independent oversight. Establish district-level committees to audit samples and monitor data integrity.
+
+Ninth, pilot testing. Run trials in diverse States such as Tamil Nadu, Gujarat, Uttar Pradesh and Assam to refine methodology before nationwide rollout.
+
+In every Census since 1951, the Government has successfully enumerated nearly 2,000 castes and tribes under the SC/ST categories. Counting the remaining 4,000-odd OBCs and upper castes (most of them State-specific) is not only doable but also long overdue. The delayed 2021 Census offers a rare chance to finally close this data gap. The time for denial and delay is over. The time to get the Caste Census right is now.
+
+K. Ashok Vardhan Shetty is a former IAS officer of the Tamil Nadu cadre and a former Vice-Chancellor of the Indian Maritime University, Chennai
+
+[Read full article](https://www.thehindu.com/opinion/lead/why-india-must-get-the-caste-census-right/article69564756.ece)
+
+---
+
 ### A second home for survival
 *Deccan Herald · Editorial*
 
@@ -133,6 +367,69 @@ Disclaimer: The views expressed above are the author's own. They do not necessar
 Prakash Panneerselvam, Japan Foundation’s Indo-Pacific Partnership Research Fellow, is Assistant Professor, National Institute of Advanced Studies, Bengaluru.
 
 [Read full article](https://www.deccanherald.com/opinion/beyond-trade-india-and-japan-redraw-the-indo-pacific-map-4064739)
+
+---
+
+### Ram Mandir theft, Hindu nationalism, and politics
+*The New Indian Express · Opinion*
+
+The cash theft at Ram Mandir that dominates national and international media headlines, has escalated into a massive political controversy, recalling the ideological conflicts of the 1990s. Just as the Mandir movement assumed immense political significance then, the theft at the temple too has gained political traction with the assembly elections in UP, the nerve centre of the Mandir movement, just months away.
+
+While this political interest is natural and understandable, the situation today presents a stark difference. The Mandir movement then did not have to face today’s hyper-competitive, minute-by-minute breaking news media. When such a frenzied media apparatus mixes with political agendas, truth can be uncovered only by taking a helicopter view that avoids the narratives arrested by contextual sensationalism.
+
+The theft has miraculously transformed the erstwhile opponents of Ram Mandir into his ardent devotees chanting “Jai Shri Ram”. The Congress party, which boycotted the ‘Pran Pratishtha’ ceremony in 2024, dispatched a nine-member high-level delegation for Ram Lala’s darshan last week. Even if driven by pure political opportunism, this is a welcome development, as Mahatma Gandhi, whom it swears by, regarded “Ram Naam” as cure for all ills, national and personal.
+
+Arvind Kejriwal, who had boycotted the 2024 Mandir ceremony, too has undergone instant metamorphosis into a Ram Bhakt, declaring that the theft had deeply pained all Sanatanis and announcing his Friday visit for darshan. Most ironically, when Mulayam Singh Yadav was Chief Minister in 1990, he ordered the police to fire and kill 16 kar sevaks and later proudly declared he would have issued the same order even if 30 had to die. Today, his Samajwadi Party sheds tears, claiming Ram Bhakts have been cheated.
+
+The overexcited Indian media competing for breaking news, too joined this political chorus. One media predicted long-term damage to the BJP. Another claimed this was a severe setback to BJP’s promise of Ram Rajya—the gold standard of probity in governance.
+
+Capitalising on the geopolitical significance of the temple, global media entities with a history of anti-India and anti-Hindu bias, the Reuters, BBC, and Al-Jazeera, painted the incident as if it were a billion-dollar heist. “Stealing from the gods: India’s Ram Temple hit by corruption scandal. The temple is mired in embezzlement allegations before crucial state elections, embarrassing PM Modi’s government,” screamed Al-Jazeera.
+
+What has happened at the Ram Mandir is a theft. A pilferage easily executed by lower-level staff handling cash. Not a corruption or a scam. It would be corruption only if the top management had attempted to hush it up. On the contrary, within days of the theft coming to light, the higher-ups initiated severe, uncompromising action. There was no sign of an institutional cover-up which only will make it a scam.
+
+Theft happens everywhere. To know the times we live in, one must recall Swami Chinmayananda’s observation: “In the Krita Yuga, good and evil lived in different worlds (Devas and Asuras). In Treta Yuga, they existed in the same world (Ram and Ravana). In Dwapara Yuga, they were in the same family (Pandavas and Kauravas). But in Kali Yuga, they exist within the same human being.” We live in Kali Yuga, where good and evil reside simultaneously in man.
+
+When desire and greed overpower even inherently good people, crimes can occur in the most sacred of spaces—be it churches, mosques or temples. Stealing from a temple Hundi (donation box) is notoriously easy. As the C P Ramaswami Iyer Committee report on temple administration astutely noted, money dropped into a Hundi is sacred, but the moment it is taken out, it becomes mere currency notes. It was based on this very logic that the judiciary permitted secular governments to take over temple funds.
+
+The true metric of integrity in any institution is not the absence of wrong doing—which is ideal—but the speed and decisiveness with which authorities respond to it. Covering up a theft is what constitutes corruption and fraud—usually orchestrated to protect higher-ups. The Bofors scandal was exposed in 1987. As it involved the then prime minister Rajiv Gandhi, no FIR was registered till he was ousted from power. It was filed three years later, in 1990, after he was voted out. Let us examine the Ram Temple Trust’s actions against this historical backdrop of cover-ups in recent cases of theft in temples involving the government as trustee.
+
+The Ram Mandir theft is undoubtedly shocking and painful to anyone who cares about the nation’s reputation symbolised by the geopolitical reputation of the Mandir. Yet, the tsunami of hyperbolic news and allegations that obscured crucial facts, have unfairly cast an avoidable shadow on the national brand. Even neutral commentators have sadly failed to notice the sheer speed at which the Trust and the UP government acted, which was in direct contrast to similar instances of temple thefts, but was drowned out in the noise. Read on.
+
+Recall the allegations of property misappropriation and idol thefts in government-administered temples in Sabarimala, Thiruvananthapuram, Puri, and Tamil Nadu. Comparing the response of the government bodies to that of the Ram Temple Trust reveals the stark difference between the Ram Mandir trust response and government-controlled Trusts in those cases. It doesn’t need turning the pages of decades of history. Today, the AI tool brings the history with references on the computer screen.
+
+When AI tool Gemini was prompted to compare the scenarios of how the Ram Mandir Trust and government Trusts in those cases acted, it replied: “Compared to how governments blocked and delayed action on allegations in temples under their control, the Ram Temple Trust’s swift action is astonishingly different.”
+
+It noted that in cases like Sabarimala, Puri, and the Tamil Nadu idol thefts, the sheer inaction of government boards forced courts to intervene and order probes, delaying justice by years, sometimes decades. In stark contrast, the Ram Temple Trust requested the UP government to form a Special Investigation Team (SIT) within days of the crime coming to light.
+
+The AI rightly summarised: “Driven by its ideology and self-esteem, the Ram Mandir Trust took immediate action. Conversely, government Trusts acted sluggishly in a bid to protect their systems and bureaucracy.” (The very ideology that some media claimed would be tainted by this theft is precisely what catalysed such uncompromising action.)
+
+The AI tool also said, “Furthermore, top officials of the Ram Temple took moral responsibility and resigned immediately. In government temple scandals, officials not only cling to their posts but fight legal battles using taxpayer money to protect their positions.” It concluded: Everything regarding the Ram Mandir theft — from the SIT probe to the official report and mass arrests — happened in a matter of days.
+
+Further, it said “the Trust voluntarily submitted its finances to a comprehensive five-year re-audit. Government-run temples routinely dodge external audits citing tradition or autonomy.” An AI savvy 10th class student could have done this comparison by clicking the laptop mouse, which the multi trillion dollar global and India media in its excitement failed to do.
+
+The unprecedented actions by the Ram Mandir Trust also clearly imply that this was a low-level theft, not a high-level scam. For political leaders, aided by the media, to suspect it as a high level affair is a tragedy. Now let us turn to the “stark contrast” in facts of the Ram Mandir Trust’s action as compared to the temple Trusts mentioned.
+
+It is baffling that the media missed this stark contrast: government trusts covering up wrongs till courts intervene versus the Ram Mandir Trust acting against the wrong voluntarily, at lightning speed. See the chronology of facts:
+
+June 4: First clue emerges. An unclaimed bag containing `2 lakh in cash found in a washroom in the Mandir complex. Trust officials immediately begin reviewing CCTV footage.
+
+June 5: General Secretary Champat Rai orders an internal probe targeting key suspect Avinash Shukla. His house is raided, and `58 lakh is recovered before the police even arrive. Rai struck first against a man in his own inner circle. This severe crackdown terrified other accomplices into quietly depositing stolen money back into bank accounts, leading the Trust to believe for a while that the issue could be resolved internally.
+
+June 7: News of the recovery leaks, sparking wild rumours of stolen gold and silver. Rai, relying on preliminary assessments that the money could be fully recovered internally, states that audits showed no significant discrepancies.
+
+June 13: Realising that assessment was wrong, the Trust formally requests the UP government to set up a high-level SIT probe. This six-day stagnation was the only delay in the entire action.
+
+June 25: SIT probe reveals that Manish Yadav, a cash counter employee, repeatedly stole money by exploiting CCTV blind spots. An FIR is registered. Midnight raids are conducted with lightning speed into the early hours of June 26, resulting in eight arrests.
+
+June 26: Taking absolute moral responsibility for the administrative lapses, General Secretary Champat Rai and Trustee Anil Mishra resign.
+
+Rai, an RSS pracharak who has dedicated his entire life to the nation, is a symbol of honesty and integrity. The media unfortunately drags him into the controversy, not mentioning that he was the first to initiate action ahead of the police.
+
+Tomorrow, read how the theft may be less than half of `7.5 crore suspected by SIT, how pseudo-secular political forces are trying to weaponise the Mandir theft to smear the Hindu nationalist perspective, and how their chances of finding resonance in battleground UP are slim.
+
+S Gurumurthy,Editor, Thuglak Tamil Magazine.Chairman, Vivekananda International Foundation Strategic Think Tank
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/s-gurumurthy/2026/Jul/07/ram-mandir-theft-hindu-nationalism-and-politics)
 
 ---
 
