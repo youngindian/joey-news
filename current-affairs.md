@@ -1,3 +1,507 @@
+## 8 July 2026
+
+### Mumbai Rains Live: Mumbai Wakes Up To Dense Clouds, Light Showers After 2 Days Of Relentless Downpour
+*Meemansa Shekhawat · general*
+
+Mumbai Rains Live Updates: Rain fury in Maharashtra continues, even as showers across Mumbai eased on Tuesday, bringing respite to residents. Track live updates
+
+[Read full article](https://www.news18.com/india/mumbai-rains-live-tracker-imd-rain-alert-maharashtra-pune-districts-heavy-rainfall-liveblog-ws-l-10196630.html)
+
+---
+
+### Baruipur Rape-Murder Accused Shot Dead in Police Encounter
+*Prisha Vibhavari · general*
+
+Baruipur rape-murder accused shot dead by police during crime scene reconstruction.
+
+[Read full article](https://www.news18.com/india/key-accused-in-11-year-olds-rape-murder-in-bengal-killed-in-police-encounter-10196846.html)
+
+---
+
+### FBI offers $50,000 reward for Goldy Brar: Who is he and why is he linked to Nijjar killing?
+*DNA News Desk · general*
+
+The move follows US federal charges against Lawrence Bishnoi and Goldy Brar for their alleged role in the June 18, 2023 assassination of Khalistani separatist Hardeep Singh Nijjar in Surrey, British Columbia.
+
+FBI offers $50,000 reward for Goldy Brar(File photo)
+
+The US Federal Bureau of Investigation (FBI) on Wednesday announced a reward of up to USD 50,000 for information leading to the arrest of Satinderjeet Singh alias Goldy Brar, who is wanted for his alleged involvement in the Lawrence Bishnoi Organised Crime Group.
+
+In a post on X, the FBI said, "The FBI is offering a reward of up to $50,000 for information leading to the arrest of Satinderjeet Singh, wanted for his alleged involvement in the Lawrence Bishnoi Organised Crime Group, which is allegedly engaged in a variety of violent acts in Southern California, and across the United States and Canada."FBI Satinderjeet Singh, alias Goldy Brar, is based in the United States and is the alleged leader of the Group in North America."
+
+On July 1, 2026, a federal arrest warrant was issued for Singh in the United States District Court, Central District of California, Los Angeles, California, after he was charged with Racketeer Influenced and Corrupt Organizations Conspiracy; Conspiracy to Interfere and Attempted Interference with Commerce by Extortion; and Conspiracy to Distribute and Possess with Intent to Distribute Controlled Substances," the federal agency said in a statement.
+
+The agency said Singh has ties to Sacramento and Fresno in California, as well as Canada, India and Mexico.
+
+The latest development comes hours after US federal prosecutors charged gangsters Lawrence Bishnoi and Goldy Brar with allegedly orchestrating the assassination of Khalistani separatist Hardeep Singh Nijjar in Surrey, British Columbia, on June 18, 2023.
+
+According to the US Department of Justice, Bishnoi and Brar were among 37 defendants charged in three federal indictments as part of "Operation Hard Ball", a coordinated crackdown targeting India-based organised crime groups allegedly involved in violent crimes, extortion and international narcotics trafficking.
+
+Federal prosecutors alleged that Bishnoi and Brar ordered Nijjar's assassination, in which two gunmen allegedly shot and killed him outside a Sikh temple in Surrey, British Columbia.
+
+The indictments also named other alleged organised crime figures, including Jaggu Bhagwanpuria and Ravinder Singh Dhanda. Prosecutors alleged that Dhanda operated an international drug distribution network, while the Bhagwanpuria gang functioned as a transnational criminal syndicate with members across the United States, Canada, the United Kingdom, Europe, Australia and New Zealand.
+
+The US authorities said cocaine and firearms were seized during Operation Hard Ball.
+
+The Department of Justice noted that "an indictment is merely an allegation" and that all defendants are presumed innocent unless and until proven guilty beyond a reasonable doubt in a court of law.
+
+The charges come against the backdrop of diplomatic tensions that followed Nijjar's killing. Then Canadian Prime Minister Justin Trudeau had alleged that there was credible intelligence linking Indian agents to the killing. India rejected the allegations. Relations between the two countries have since improved under Canadian Prime Minister Mark Carney, with Ottawa signalling that it no longer links India to criminal activities on Canadian soil.
+
+(Except for the headline, the story hasn't been edited by DNA staff but is directly published from ANI)
+
+---
+
+### ICAI launches one-stop digital learning hub for Chartered Accountancy aspirants
+*India Today Education Desk · general*
+
+## ICAI has launched ICAI TV 2.0, its official video platform for CA students and members. The move expands round-the-clock access to webinars, technical sessions and a digital library as part of the institute's broader digital transformation drive.
+
+ICAI launches one-stop digital learning hub for Chartered Accountancy aspirants
+
+The Institute of Chartered Accountants of India (ICAI) has unveiled TV 2.0, its official digital video streaming platform, offering CA students and members a centralised hub for webinars, conferences, technical sessions and expert-led content. Designed to deliver a seamless and personalised learning experience, the platform enables users to access professional resources and stay updated anytime, anywhere.
+
+ICAI TV 2.0 has been developed to make learning more convenient and engaging for the CA community. The platform offers a modern streaming experience with an intuitive interface, allowing users to discover and access educational content with ease.
+
+The platform features personalized watchlists and dashboards for students and members, enhanced indexing and smart search for faster content discovery, an intuitive and user-friendly interface, and an expansive digital library and knowledge repository.
+
+### THOUSANDS OF LEARNING RESOURCES AVAILABLE
+
+The platform already hosts an extensive collection of educational content, including more than 4,700 videos across multiple professional topics and over 500 webinars conducted every year. Users can also access technical updates, expert lectures and panel discussions, conference sessions, and professional guidance tailored for CA students and members.
+
+ICAI TV 2.0 is accessible 24x7, enabling users to learn at their own pace. The platform is available across desktop, tablet and mobile devices, making continuous learning possible from virtually anywhere.
+
+> Introducing ICAI TV 2.0 – A Smarter Way to Learn, Watch & Stay Connected.  
+> The all-new ICAI TV 2.0 brings the ICAI community a modern streaming platform to explore webinars, conferences, technical sessions and expert insights—all at one destination. pic.twitter.com/Yytf9olp03— Institute of Chartered Accountants of India - ICAI (@theicai) July 7, 2026
+
+### PART OF ICAI'S DIGITAL TRANSFORMATION INITIATIVE
+
+The launch of ICAI TV 2.0 is an initiative of ICAI's Digital Re-engineering & Transformation Directorate, aimed at strengthening the institute's digital ecosystem and expanding access to technology-driven professional education. Through this initiative, ICAI seeks to make quality learning resources more accessible for its growing community of students and members.
+
+### ICAI TV 2.0 AT A GLANCE
+
+ICAI TV 2.0 is the official digital video platform of ICAI, offering personalized watchlists and dashboards, enhanced indexing and search functionality, an intuitive user interface, and an expansive knowledge repository. The platform hosts over 4,700 educational videos and more than 500 webinars annually, provides 24x7 access, is available on desktop, tablet and mobile devices, and is designed for both CA students and ICAI members.
+
+With the launch of ICAI TV 2.0, ICAI has taken another significant step in its digital transformation journey. By combining an extensive library of learning resources with personalized features and round-the-clock accessibility, the platform aims to support continuous professional development and make quality education more accessible for the entire CA community.
+
+\- Ends
+
+Jul 8, 2026 09:05 IST
+
+---
+
+### Kerala Lottery Result Live: DhanaLekshmi DL-60, July 8, 2026 Winners | News18
+*Nibandh Vinod · general*
+
+Kerala Lottery Result Today: DhanaLekshmi DL-60 lottery result will be declared today, on Wednesday, July 8. Check the live updates and full list of winning numbers from 3 pm.
+
+[Read full article](https://www.news18.com/india/kerala-lottery-result-today-dhanalekshmi-dl-60-july-8-live-10196106.html)
+
+---
+
+### Bengal: Baruipur minor rape-murder accused killed in police encounter
+*Tapas Sengupta · general*
+
+## The prime accused in the rape and murder of a minor girl in West Bengal's Baruipur was shot dead by police after he snatched a policeman's firearm and opened fire at cops during a crime scene reconstruction.
+
+Police said Mondal snatched a police officer's weapon just before the crime scene reconstruction, fired a shot at the team and tried to escape, prompting police to open fire and injure him.
+
+The prime accused in the rape and murder of a 12-year-old girl in West Bengal's Baruipur was shot dead by police early Tuesday after he snatched a policeman's firearm and opened fire while being taken to the crime scene for reconstruction, officials said.
+
+According to police, the investigating officer of Baruipur Police Station, along with a team of officers, left the police station at around 12.45 am with accused Prabash Mondal to reconstruct the crime at Surjyapur, where the girl's body was recovered.
+
+Police said that just before the reconstruction began, Mondal snatched the weapon of a police personnel, fired one round at the team and attempted to flee. The police retaliated, injuring the accused. He was immediately taken to Baruipur Hospital, where doctors declared him dead.
+
+The body of the minor girl, who had been missing since July 4, was recovered from a sack in the Surjyapur Haat area the following day, sparking widespread outrage. Enraged locals staged protests by blocking the Baruipur-Joynagar Road, setting tyres on fire and vandalising police vehicles while demanding the immediate arrest of those responsible.
+
+Hours after the body was found on Sunday, an angry mob lynched a man on suspicion of his involvement in the girl's rape and murder. Police have so far arrested three people in connection with the case, while a six-member Special Investigation Team (SIT) has been constituted to carry out a detailed probe.
+
+_This is a developing story. It will be updated._
+
+\- Ends
+
+Karishma Saurabh Kalita
+
+Jul 8, 2026 09:00 IST
+
+---
+
+### India's onion has outsmarted governments, but climate change is making it cry
+*Radifah Kabir · general*
+
+## This week, for Climate on My Plate, we discuss the onion on your plate, and why its price keeps swinging higher as the climate becomes less predictable.
+
+Farm workers sort onions near an agricultural field in Karnataka. (Photo: PTI)
+
+Every Indian has a complicated relationship with the onion.
+
+It has brought down governments, sparked street protests, and turned an ordinary vegetable into a political emergency. And now, this ordinary vegetable is at risk, thanks to climate change.
+
+This is the latest story in Climate on My Plate, India Today Science's series on how the climate crisis is reshaping the everyday things we eat, drink, buy and own.
+
+This week, it is the onion on your plate, and why its price swings are becoming more extreme, more frequent, and harder to predict.
+
+### WHY DOES INDIA'S ONION PRICE KEEP GOING HAYWIRE?
+
+India is the world's largest producer of onions, growing them across three seasons: the kharif crop planted during the monsoon, the late kharif, and the rabi crop harvested in spring.
+
+This staggered system was designed to ensure year-round supply. Climate change is dismantling it one season at a time.
+
+In March and April 2026, unseasonal rains and hailstorms damaged over 6,20,000 hectares of crops across India.
+
+Onion and garlic fields in Maharashtra and Madhya Pradesh were among the hardest hit, according to Down to Earth's analysis of India's crop loss data.
+
+Farm workers plant onion seedling in their farm field. (Photo: Getty)
+
+What was once a risk confined to the monsoon months is now a pre-monsoon threat too. Indian onion farmers are now facing two high-risk seasons in a year instead of one.
+
+### WHAT DOES MONSOON DO TO AN ONION?
+
+The onion bulb is a storage organ, which means it is a part of the plant that stores nutrients and water underground for the plant's future use. It forms underground, in the soil, and is acutely sensitive to moisture levels during its development.
+
+Too little water during bulb formation and the onion stays small. Too much water, and the problems multiply rapidly.
+
+Waterlogging, which is what happens when the soil becomes so saturated with water that air pockets between soil particles are completely displaced, directly suffocates the onion's roots.
+
+A farmer holds freshly harvested onions with attached roots in his hands. (Photo: Getty)
+
+A 2025 study published in PMC confirmed that among the three cropping seasons in India, the monsoon season onion crop is the most vulnerable to heavy rainfall and waterlogging.
+
+When soil stays flooded, it also creates ideal conditions for fungal diseases like anthracnose, caused by a fungus called Colletotrichum gloeosporioides, to attack the crop.
+
+The combination of waterlogging and disease can wipe out entire fields within days.
+
+In Nashik, which supplies a significant portion of India's onions, farmers have reported that up to 80 per cent of the kharif and late kharif crop was destroyed in recent seasons due to relentless rainfall.
+
+A worker sits on sacks of onions loaded on a truck. (Photo: PTI)
+
+### HOW DOES EL NINO MAKE THINGS WORSE?
+
+In 2026, the onion is caught between two forces.
+
+The IMD has forecast monsoon rainfall at 90 per cent of the long-period average, meaning below normal for the season overall, with El Nino, a periodic warming of sea surface temperatures in the Pacific Ocean that weakens Indian monsoon winds, declared as of June 11.
+
+A weak monsoon means the rabi onion crop, which depends on soil moisture carried over from the monsoon, may struggle to develop properly.
+
+As analysis cited by Business Today notes, every one percentage point shortfall in monsoon rainfall below the long-period average is associated with approximately 0.4 percentage points lower crop output growth.
+
+A worker carries a sack of onions at a market. (Photo: PTI)
+
+With a 10 per cent deficit forecast, the arithmetic for onion farmers is rather comfortable.
+
+Historically, food inflation during El Nino years runs approximately 170 basis points higher than during normal years.
+
+The onion, India's most politically sensitive vegetable, sits directly in the path of inflation.
+
+### WHY IS STORAGE ALSO A PROBLEM?
+
+Even when the onion survives the monsoon, climate change creates a second threat in storage.
+
+Onions are stored in open-air structures before reaching consumers.
+
+A pile of onions is pictured. (Photo: PTI)
+
+Rising temperatures accelerate the sprouting and rotting of stored onions, shrinking supply further and pushing prices up even when the harvest has been adequate.
+
+The onion's problem is not just one bad season. It is a climate system that has become fundamentally less predictable, hitting the crop in the field, the storage, and the supply chain simultaneously.
+
+The price you pay at the vegetable shop is not just a number but a measure of how much the weather has changed.
+
+**#ClimateOnMyPlate**
+
+\- Ends
+
+Jul 8, 2026 09:00 IST
+
+---
+
+### India’s Anti-Drug Fight Goes Global As Centre Targets Syndicates At Source | Exclusive
+*Karishma Jain · general*
+
+Officials said the aim is to target drug trafficking at its source through closer coordination with foreign anti-narcotics agencies.
+
+[Read full article](https://www.news18.com/india/indias-anti-drug-fight-goes-global-as-centre-targets-syndicates-at-source-exclusive-ws-l-10196712.html)
+
+---
+
+### Samsung is launching its next foldables on July 22, all eyes on wide-screen Fold 8 Ultra
+*Armaan Agarwal · general*
+
+## Samsung has revealed the date for its next Galaxy Unpacked event. The upcoming event, titled "A new shape unfolds" will be held on July 22 in London. From the Galaxy Z Flip 8 to the all new Galaxy Z Fold 8 Ultra, here is everything you need to know.
+
+Samsung has just announced its next Galaxy Unpacked event. (Samsung Galaxy Z Fold 7 and Galaxy Z Flip 7 used for representation)
+
+Samsung is gearing up to host the next Galaxy Unpacked event later this month. In a new teaser, the company has confirmed that the event will be held on July 22 in London. As is the case with unpacked events in July, the focus will be on what Samsung has in terms of new foldables. And if the rumours are true, the Korean giant has been cooking.
+
+In a post on X, Samsung shared a clip announcing the date for the Galaxy Unpacked event. The teaser shows a rectangular ticket which is then cropped from the top. The remainder of the ticket has a shape more of a wide rectangle, likely a reference to the rumoured Galaxy Z “wide” Fold that may be called the Z Fold 8 Ultra – a foldable with a bookstyle form factor, akin to the rumoured iPhone Fold.
+
+The ticket also has the Galaxy Unpacked symbol that the company has used for some time now, but on the top left, you see the words, “A new shape unfolds.” This could be another reference to the wide foldable.
+
+Samsung Galaxy Unpacked teased on X.
+
+### How to watch Galaxy Unpacked?
+
+Before we delve deeper into what Samsung might have in store with the event, let’s discuss how you can tune in. Samsung will livestream the Galaxy Unpacked event on July 22. The event will start at 6:30 pm IST. You can watch it live on Samsung’s YouTube channel or its website.
+
+Ahead of the event, Samsung has also opened reservations for upcoming Galaxy devices, with a $30 (roughly Rs 2,850) credit for customers who later complete a pre-order in the US.
+
+### Samsung Galaxy Unpacked: What to expect?
+
+The company has not named the products it plans to show at Galaxy Unpacked. But teasers and leaks point towards new foldable phones, updates to the Galaxy Watch line and a possible appearance for Samsung's smart glasses.
+
+Samsung's summer Unpacked event is usually where it refreshes its Z Fold and Z Flip line-up. This year, reports suggest, the company could unveil three foldables. While we can expect to see the Galaxy Z Fold 8 and the Z Flip 8, all eyes are likely to be on the Galaxy Z Wide Fold that may be called the Z Fold 8 Ultra.
+
+### Samsung Galaxy Z Fold 8 Ultra and Z Fold 8
+
+The Z Fold 8 Ultra would be the biggest change when it comes to Samsung’s foldable devices since the original Galaxy Fold was launched in 2019. Though the company did release the Galaxy Z TriFold in December last year, the device had a limited production run.
+
+As per reports, the Galaxy Z Fold 8 Ultra is likely to pack a 7.6-inch inner display with a 4:3 aspect ratio. This is expected to make video streaming a more immersive experience with fewer black bars when compared to the regular Galaxy Z Fold’s 1:1 aspect ratio. On the outside, you can expect a 5.5-inch cover screen. Both panels will likely be high-refresh rate AMOLED displays.
+
+The Galaxy Z Fold 8 Ultra is tipped to weigh around 201 grams, with a thickness of 4.5 mm when unfolded, and 9,7 mm when folded. Some leaks also claim Samsung may cut the rear camera system from three sensors to two on this model to keep manufacturing costs under control.
+
+For the standard Galaxy Z Fold 8, reports suggest a more familiar design closer to the current Samsung Galaxy Z Fold 7. It is expected to get a new Snapdragon chip – likely the Snapdragon 8 Elite Gen 5, a less visible crease and a stronger rear camera system, with reports pointing to a 200-megapixel main camera. Other tipped upgrades include faster charging and a 5,000mAh battery.
+
+The Galaxy Z Flip 8 is also widely expected to appear at the event. Reports suggest it will follow the same broad design language as the Galaxy Z Flip 7, but with upgraded internals, a redesigned hinge, a lighter build, and a less visible crease.
+
+### Samsung Galaxy Watch 9 and Watch Ultra 2
+
+Beyond phones, firmware updates and certification filings have led to expectations of two new smartwatches at the event – the Galaxy Watch 9 and the Galaxy Watch Ultra 2. The Ultra 2, which is Samsung's more rugged and outdoor-focused model, is rumoured to get a battery increase to as much as 800mAh. Reports also mention classic numbers on the watch face, a thinner bezel and improved side buttons.
+
+The Galaxy Watch 9 is similarly expected to receive a modest battery boost, new processors, refreshed designs and new health-tracking features. At the same time, reports suggest Samsung may skip a new Galaxy Watch Classic this year.
+
+### Samsung Galaxy Glasses
+
+While Google gave us a glimpse of Samsung’s upcoming smartglasses during its I/O event earlier this year, we can expect to find out more about the wearables at Galaxy Unpacked this month.
+
+The Samsung smartglasses were developed with Warby Parker and Gentle Monster. While details remain limited, reports suggest the glasses may be presented as Galaxy Glasses and could work more like Meta's smart glasses than a full AR headset.
+
+The Galaxy Glasses are expected to include cameras, microphones and Google's Gemini assistant, but pricing and availability remain unclear.
+
+Apart from the smartglasses, we may also hear about the Galaxy Ring 2 at the event. Though it is likely that Samsung will not launch the Galaxy Ring 2 this month. Rather, it may be launched sometime next year.
+
+\- Ends
+
+Armaan Agarwal
+
+Jul 8, 2026 08:55 IST
+
+---
+
+### Sensex, Nifty set for bloodbath? US-Iran flare-up, oil at $76 may rattle Dalal Street
+*Sonu Vivek · general*
+
+Benchmark indices Sensex and Nifty are set for a weak start on Wednesday as fresh tensions between the United States and Iran rattled global markets, pushed crude oil prices above $76 a barrel and dented investor sentiment worldwide.
+
+GIFT Nifty was trading at 24,246 around 8 am, down 164 points, indicating a gap-down opening for the benchmark indices.
+
+The expected decline comes after the Sensex erased nearly 600 points from its intraday high on Tuesday before ending lower, snapping a four-session winning streak as investors booked profits after the recent rally.
+
+Global sentiment deteriorated overnight after the US military launched airstrikes against Iran and reimposed sanctions on Iranian crude sales. The action followed attacks on commercial vessels in the Strait of Hormuz, reviving fears of supply disruptions through one of the world's busiest oil shipping routes.
+
+The escalation pushed Brent crude above $76 a barrel, extending gains from the previous session after oil had already surged around 3% on Tuesday.
+
+Wall Street ended lower overnight, while Asian markets traded cautiously on Wednesday morning as investors turned risk-averse amid growing geopolitical uncertainty.
+
+For India, higher crude oil prices remain a key concern as the country imports more than 85% of its crude oil requirement. Rising oil prices can increase the import bill, fuel inflation, put pressure on corporate margins and weigh on economic growth.
+
+Hitesh Tailor, Research Analyst at Choice Equity Broking Private Limited, said the weak opening is largely being driven by global cues.
+
+"Indian equity markets are expected to open on a weak note, with Gift Nifty trading at 24,246, down by 164 points, indicating a gap-down start for the benchmark indices. Global cues remain mixed as Asia-Pacific markets traded cautiously, while U.S. futures remained largely flat amid persistent geopolitical concerns and uncertainty surrounding the Federal Reserve's policy outlook," he said.
+
+Despite the weak opening, Tailor believes the broader trend for Indian markets remains positive.
+
+"The domestic market's broader technical structure remains constructive, supported by strong underlying trends and subdued volatility," he added.
+
+The Nifty 50 fell 0.13% on Tuesday after witnessing profit booking in the second half of the session, ending its four-day winning streak.
+
+According to Tailor, the market has now entered a consolidation phase ahead of the start of the June quarter earnings season.
+
+"The Nifty has entered a phase of consolidation as traders await the commencement of the quarterly earnings season. While short-term momentum has moderated, the broader trend remains positive as the index continues to trade above all major moving averages except the 200-day EMA," he said.
+
+He expects the 24,300-24,200 zone to act as immediate support, while 24,000 remains a crucial level for maintaining the ongoing uptrend. On the upside, 24,500-24,600 remains a key resistance zone, with a decisive breakout needed to trigger the next leg of the rally.
+
+Apart from geopolitical developments, technology stocks are also expected to remain in focus after Reuters reported that Chinese AI startup DeepSeek is developing its own AI chip, potentially reducing dependence on global chipmakers. Investors will also closely watch Tata Consultancy Services' June-quarter earnings, due on Thursday, which will unofficially kick off the earnings season.
+
+On the institutional front, foreign institutional investors (FIIs) bought Indian equities worth Rs 393.19 crore on Tuesday, while domestic institutional investors (DIIs) sold shares worth Rs 383.43 crore.
+
+_**(Disclaimer: The views, opinions, recommendations, and suggestions expressed by experts/brokerages in this article are their own and do not reflect the views of the India Today Group. It is advisable to consult a qualified broker or financial advisor before making any actual investment or trading choices.)**_
+
+\- Ends
+
+Jul 8, 2026 08:54 IST
+
+---
+
+### US strikes Iran after Hormuz ship attacks, oil licence revoked
+*India Today World Desk · general*
+
+## US forces struck Iranian military targets after three ships were attacked in the Strait of Hormuz. The escalation, alongside the revoked oil-sale licence, threatens the fragile truce and planned post-funeral talks.
+
+Stock photo used for illustration
+
+The US military launched strikes on targets in Iran early on Wednesday after Washington said Tehran had attacked three ships in the Strait of Hormuz. The US also revoked a licence that had allowed Iran to sell crude oil openly in the global market under an interim agreement, while Iran warned it would ‘take whatever measures it deems necessary’, raising fears that the arrangement halting the war could break down.
+
+The latest escalation came as Iran was holding funeral ceremonies for Supreme Leader Ayatollah Ali Khamenei, who was killed on February 28 in the opening moments of the war. Talks on a final deal had been expected after his burial, but the fresh attacks have cast doubt on that process. Bahrain, which hosts the US Navy’s 5th Fleet, sounded missile-alert sirens after the American strikes, underlining the risk of a wider regional conflict.
+
+The funeral period had been seen as a possible phase of lower tension, though mourners have repeatedly called for the killings of US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu. The post-burial negotiations were due to focus on fully reopening the strait and rolling back Tehran’s disputed nuclear programme. Iran’s Parliament Speaker Mohammad Bagher Ghalibaf wrote on X: ‘The era of bullying and extortion is over. It leads nowhere. We don’t fold.’
+
+US Central Command said American forces carried out the strikes ‘to impose heavy costs for targeting and attacking commercial shipping crewed by innocent civilians in an international waterway’. It said the targets included Iranian air defence systems, radars and more than 60 small boats used by Iran’s paramilitary Revolutionary Guard, which have been central to harassment of ships in the strait. The command added that the US military remained ‘postured and prepared to hold Iran accountable when the agreement is not adhered to or obeyed’, and said this round of attacks had ended.
+
+Iran acknowledged the strikes but gave no details of any losses. Iranian state media reported explosions in Bandar Abbas, Qeshm and Sirik. Iran’s central military command said it ‘will respond decisively to this aggression and terrorist act’. It added: ‘Under no circumstances will the Iranian armed forces allow interference in the affairs of the Strait of Hormuz, nor will they permit others to manage it.’ A similar cycle of Iranian attacks on shipping and US retaliatory strikes had taken place late last month, followed by Iranian attacks on Bahrain and Kuwait. Wednesday’s strikes also came as Trump was in Turkey for a NATO summit.
+
+Washington also withdrew a licence that had authorised the sale of Iranian oil under the interim deal. A US official, speaking on condition of anonymity, said the move was taken because Iran’s actions in the strait were unacceptable and had to carry consequences. The licence had allowed Iran, for the first time in years, to sell oil openly on the international market for US dollars. Iran has long been suspected of selling sanctioned crude at below-market prices to China.
+
+The decision followed attacks on shipping. The United Kingdom Maritime Trade Operations centre said one tanker was struck off the coast of Oman and caught fire. Iranian state television said the liquefied natural gas tanker had come under attack after ignoring warnings, but did not directly claim responsibility. The other two ships suffered some damage, but no one was injured and both continued through the Strait of Hormuz, the UK maritime agency said.
+
+Iran has maintained a chokehold on the Strait of Hormuz since the war, disrupting global energy markets, as in peacetime a fifth of all traded oil and natural gas passed through the waterway. The ships attacked on Tuesday appeared to be using a route near Oman’s coast rather than one ordered by Tehran. Iran has repeatedly said only its approved route is safe and has been suspected of attacking other ships that used the Oman route. Majed al-Ansari, spokesperson for Qatar’s foreign ministry, said the Qatari tanker Al Rekayyat was targeted in an ‘unacceptable attack’ on international navigation and global energy security, and said Qatar holds Iran ‘fully legally responsible’.
+
+Under the interim deal, Iran and the US had agreed to let ships pass without charges for 60 days. But Tehran insisted it should control the vessels’ routes and later impose passage fees, a position the US and many Gulf Arab states have rejected.
+
+Meanwhile, Iranian authorities flew Khamenei’s body to the Shiite seminary city of Qom, where mourners gathered on Tuesday. State television showed hundreds of thousands of people walking towards Jamkaran Mosque for the funeral service. Khamenei’s son and Iran’s new Supreme Leader, Ayatollah Mojtaba Khamenei, has not appeared at the ceremonies, which began on Saturday in Tehran, and is believed to be in hiding after reportedly being wounded in the airstrike that killed his father. Khamenei’s body arrived late on Tuesday in Iraq, where officials from both countries received it. Processions are planned on Wednesday in Najaf and Karbala before he is returned to Iran for burial on Thursday at the Imam Reza shrine in Mashhad, his birthplace.
+
+The strikes, the withdrawal of the oil-sale licence and the attacks on shipping have sharply raised tensions around the Strait of Hormuz at a time when Iran is mourning Khamenei and a broader settlement was meant to be negotiated after his burial.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Jul 8, 2026 08:48 IST
+
+---
+
+### Before Ayodhya Ram Mandir, a temple theft changed Kashi Vishwanath's control. Here's how
+*Anand Singh · general*
+
+Sometimes, what a theft takes away isn't just gold, silver, and cash. Sometimes, it takes away people's trust from those managing the affairs. That's **exactly what has seemingly happened at Ram Temple** in Ayodhya. The theft has sparked a debate over who is trusted to guard one of Hinduism's most important places of worship. The Vishwa Hindu Parishad (VHP), one of the Sangh outfits which spearheaded the Ram Janmabhoomi movement, has made its position clear over who should run the Shri Ram Janmabhoomi Teerth Kshetra Trust. The VHP has said it would oppose any attempt to bring the Shri Ram Janmabhoomi Temple under government control.
+
+The assertion by the VHP comes because the incident at Ayodhya has brought back memories of another famous temple where a theft changed everything — the Kashi Vishwanath Temple in Varanasi.
+
+While the VHP said it was okay with the appointment of a CEO accountable to the Ram Mandir temple trust, it wouldn't allow a government takeover. Four decades ago, a theft at the Kashi Vishwanath Temple ended up in the government taking over its management.
+
+In January 1983, a major theft inside the sanctum sanctorum of the Kashi Vishwanath Temple, in which a 2.6-kg gold ornament around the Shivling was stolen, exposed serious mismanagement of the temple. It prompted the Uttar Pradesh government to promulgate the Sri Kashi Vishwanath Temple Act, 1983, transferring control from the _mahants_ (priests) to a government-constituted temple trust.
+
+Governments have long stepped in to administer temples, sometimes over allegations of mismanagement, sometimes in the name of better governance. From Shri Jagannath Temple in Puri, to the Badrinath Temple in Uttarakhand, and the Mahakaleshwar Temple in Ujjain, several significant temples are administered under state-backed bodies or laws.
+
+The latest developments in Ayodhya have revived this decades-old conversation in a new, and a way more serious context.
+
+The VHP statement came on the same day that the Trust accepted the **resignation of its general secretary, Champat Rai**, amid an ongoing SIT probe into the donation theft. A CEO has been appointed.
+
+Against this backdrop, it is worth revisiting what happened at the Kashi Vishwanath Temple 43 years ago.
+
+### THE THEFT AT KASHI VISHWANATH THAT CHANGED EVERYTHING
+
+On January 5, 1983, thieves stole around 2.55 kg of gold from the Jyotirlinga of Lord Shiva, along with between 6 kg and 9 kg of silver ornaments and other valuables from the Kashi Vishwanath temple complex. The theft sparked widespread protests across Varanasi and raised questions about security and administration at one of the country's most important temples.
+
+An FIR was lodged at Chauk police station by the then priest, Sardaru. Within weeks, police recovered the stolen ornaments and arrested 11 accused, including Markandey Singh of Chakia in Chandauli district. On September 7, 2000, a local court convicted all those found guilty of the theft and ordered that the recovered ornaments be returned to the temple administration.
+
+However, the theft's biggest consequence was administrative rather than criminal.
+
+According to an **extensive report published by India Today Magazine in 1983**, investigators initially believed the theft could not have taken place without an insider's assistance. There were no signs of forced entry into the sanctum, the heavy grill doors had been found open, and two priests on duty claimed they had slept through the entire incident.
+
+The report quoted senior police officers as describing the crime as an "inside job" and said investigators were examining possible links between the accused and members of the temple establishment.
+
+### KASHI VISHWANATH WAS ALREADY FACING ADMINISTRATIVE QUESTIONS
+
+The theft also exposed longstanding concerns over how the Kashi Vishwanath temple was being managed.
+
+After the theft, it was found that there were no proper financial records of the temple, no comprehensive inventory of temple assets, and no written register of temple staff, India Today Magazine reported. While outsiders estimated that the temple received more than Rs 60,000 every month in offerings, there was little documentation of income or expenditure. The amount of Rs 60,000 a month in the 1980s would mean Rs 11 lakh in 2026.
+
+There were also years of disputes among the four hereditary _mahants_ (priests), who were simultaneously engaged in court battles over control of the temple. One of those cases had reached the Supreme Court, while a mid-1950s court order required the daily collections to be divided equally among the rival _mahants_ until the ownership and management issues were finally settled.
+
+The internal rivalry among the _mahants_, and administrative confusion had already prompted government scrutiny under the Uttar Pradesh Public Religious Institutions (Prevention of Dissipation of Properties) Act, 1976. The January 1983 theft eventually became the tipping point.
+
+Within weeks, the Congress government in Uttar Pradesh, headed by Chief Minister Sripati Mishra, promulgated an ordinance that was later enacted as the Uttar Pradesh Kashi Vishwanath Temple Act, 1983. The legislation transferred the temple's administration from the hereditary _mahants_ to a newly constituted trust, stating that the objective was to provide better administration of the temple and its endowments.
+
+Today, the temple is managed by the Shri Kashi Vishwanath Temple Trust through a government-appointed CEO and a board of trustees.
+
+### UNFINISHED BUSINESS FOR THE FORMER MAHANTS
+
+For one of the former mahants, Rajendra Tiwari, and his family, the administrative change remained unfinished business for more than four decades.
+
+The former _mahant_ of the Kashi Vishwanath Temple was embroiled in a legal battle with the Uttar Pradesh government over the ownership and management of the shrine. His family had managed the temple's affairs for over four centuries before being divested of that responsibility on January 28, 1983, under the Uttar Pradesh Kashi Vishwanath Temple Act.
+
+"When Aurangzeb's soldiers came to demolish the temple, our family took only the original Shivling and protected it in our house. We continued worshipping it four times a day, exactly as it had been worshipped inside the temple," he said in an interview back in 2023, when he was vociferously opposing **the Kashi Vishwanath corridor**.
+
+"When Aurangzeb died, people came to know that the original Shivling had survived because our family had preserved it," said Tiwari. It was this deep attachment to both the temple and "Bhole Baba" that led his family into a decades-long legal battle with the Uttar Pradesh government.
+
+Tiwari maintains that this historical role gives his family a legitimate claim over the temple's traditional management.
+
+Despite losing administrative control more than four decades ago, Tiwari remains a respected figure in Varanasi's old city.
+
+### A DEBATE OVER TEMPLE TAKEOVER THAT STILL RESONATES
+
+The VHP's opposition to any possibility of government control over the Ram Temple reflects a position it has consistently taken on Hindu temples across the country. At the same time, the organisation has indicated that it is open to professional management so long as the authority remains with the temple trust rather than the state.
+
+The experience of the Kashi Vishwanath Temple shows how allegations of theft and administrative failures can fundamentally reshape the governance of a religious institution.
+
+The circumstances in Ayodhya and Varanasi are markedly different. The alleged donation theft at the Ram Temple is still under investigation. Yet the debate has revived memories of 1983, when a theft inside one of Hinduism's holiest temples in one of the holiest cities in the world became the catalyst for one of the most significant changes in temple administration in India.
+
+\- Ends
+
+Anand Singh
+
+Jul 8, 2026 08:46 IST
+
+---
+
+### A 2-km walk for drinking water: Andhra village residents plead for CM's help
+*Apoorva Jayachandran · general*
+
+For decades, the tribal families of Andhra Pradesh's Thenelamamidi village have shared a singular, exhausting daily ritual: a perilous two-kilometre trek just to secure a basic human necessity, safe drinking water.
+
+Located in the Alluri Sitharama Raju district, this remote tribal settlement has become a stark symbol of administrative neglect. Despite years of appeals to officials and elected representatives, residents say they continue to risk their lives daily against a backdrop of broken promises.
+
+The daily quest for water is fraught with danger, particularly for the village’s women and children, who bear the brunt of the crisis. To fetch water, locals must navigate treacherous terrain and cross a fast-flowing local stream.
+
+During periods of high flow, they are forced to rely on makeshift rope supports to pull themselves across. Local women recalled harrowing accounts of community members being swept away by the fierce currents in the past.
+
+When the stream becomes entirely impassable, villagers are forced to trek even further to an alternative spring located in the neighbouring Visakhapatnam district. Villagers state that their repeated pleas for a permanent water solution have been systematically ignored for years.
+
+Driven to desperation, a delegation from the village recently travelled to the District Collector’s office to demand action. However, the encounter only deepened their disappointment. According to the villagers, officials refused them entry into the main building, meeting them instead at the gate.
+
+While the officials promised to bring the matter to the government's attention, no immediate relief or temporary supply measures were offered, leaving the community feeling abandoned.
+
+With local authorities failing to provide a timeline for intervention, the residents have escalated their grievances to the highest levels of state leadership.
+
+In a formal petition addressed directly to Chief Minister N Chandrababu Naidu and Deputy Chief Minister Pawan Kalyan, the tribal residents have urged the new administration to intervene immediately.
+
+The community is calling for a permanent, engineered safe-water solution to end the decades-long hardship that continues to threaten both their lives and livelihoods.
+
+"We are risking our lives every single day just for a pot of water," said one of the villagers. "We have swallowed promises for years. Now, we need pipelines, not words," they added.
+
+\- Ends
+
+Jul 8, 2026 08:46 IST
+
+---
+
+### US hits 80 targets in Iran, cancels oil sales permit after tankers attacked in Hormuz
+*India Today World Desk · general*
+
+The US launched fresh strikes on Iran on Tuesday in response to attacks by Tehran on three oil tankers in the Strait of Hormuz. In a statement, the US Central Command (Centcom) said that it targeted more than 80 targets, including Iranian air defence systems, coastal radar sites, command and control networks along with 60 IRGC small boats in and near Hormuz. An American official told Axios that the overnight operation is "four or five times bigger in scope and power" than the US's previous attacks launched 10 days ago.
+
+The US said that the strikes were to cut down Iran's ability to continue attacking international commerce moving through Hormuz, one of the key oil and energy passage of the world. "Centcom forces remain postured and prepared to hold Iran accountable when the agreement is not adhered to or obeyed," the statement added.
+
+Though Iran did not officially mention anything about the strikes, state media reported multiple explosions in southern Iran. The strikes hit Bandar Abbas, Sirik and Qeshm Island, with people being injured by shrapnel.
+
+Furthermore, the US cancelled a 60-day licence that permitted Iran to sell oil on the international market for American dollars as part of the interim peace agreement with Washington. A US official said the move followed Tehran's unacceptable actions in Hormuz, which they said had to be met with consequences.
+
+Iran vowed to take whatever measures it deems necessary to protect its "national interests and national security". The foreign ministry also reacted to the oil sale permit cancellation, calling it a breach of the deal and said it proved the "bad faith, inconsistency, and unreliability" of the Donald Trump-headed US government.
+
+Following the strikes, Iranian President Masoud Pezeshkian reportedly left Iraq for Iran.
+
+The attacks on three ships in Hormuz marked the highest number of assaults in a single day since late April, according to the UN International Maritime Organisation. Qatar and Saudi Arabia also denounced the attacks, each saying an oil tanker from its country had been targeted while moving in or near the Strait of Hormuz, and blamed Iran.
+
+The US overnight strikes happened as Iran bid farewell to its late Supreme Leader Ayatollah Ali Khamenei, who was killed on February 28 on the first day of the American-Israeli attacks on the West Asian nation. Negotiations to reach a permanent peace agreement between the two sides had been paused due to the funeral, slated to end on Thursday. However, the latest Iranian strikes and America's counter raise questions and doubts.
+
+\- Ends
+
+Jul 8, 2026 08:45 IST
+
+
+---
+
 ## 7 July 2026
 
 ### Was Siya Already Married Before Plotting Ketan's Murder? WhatsApp Chats Expose 'Secret Wedding'
