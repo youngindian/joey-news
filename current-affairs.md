@@ -1,3 +1,415 @@
+## 9 July 2026
+
+### US strikes 90 Iran targets as Tehran retaliates across Gulf
+*India Today World Desk · general*
+
+## The United States launched fresh strikes across Iran after attacks on shipping and military sites. Iran hit Bahrain, Kuwait and Qatar in response, pushing the fragile Gulf ceasefire closer to collapse.
+
+The United States launched fresh airstrikes across Iran early Thursday, and Tehran responded by targeting Bahrain, Kuwait and Qatar, in an escalation that again put an interim deal meant to help end the war in the Persian Gulf under strain. The strikes came hours after US President Donald Trump said recent Iranian attacks on ships in the Strait of Hormuz signalled the end of the fragile ceasefire.
+
+The latest exchange followed US strikes early Wednesday on military sites and port facilities in Iran after Tehran targeted several merchant vessels off the coast of Oman. Thursday's attacks appeared more widespread, with sirens sounding at least twice in Bahrain, which hosts the US Navy's 5th Fleet headquarters. There was no immediate word of damage in Bahrain, Kuwait or Qatar. Kuwait's military said it was actively intercepting incoming drones and missiles, while Iran's Revolutionary Guard claimed attacks on Bahrain and Kuwait.
+
+The US military's Central Command said it struck about 90 targets across Iran and released black-and-white footage that appeared to show attacks on an airport runway and missile launchers. "US forces remain vigilant, lethal, and prepared to execute operations directed by the Commander in Chief," it said. The US said the strikes were intended to "further degrade" Iran's ability "to threaten freedom of navigation" in the strait, through which a fifth of the world's traded oil and natural gas had passed before the war began with US and Israeli attacks on February 28.
+
+Iranian state media reported explosions in several places, including Bushehr, home to Iran's nuclear power plant complex, and the southern port cities of Chabahar, Konarak, Bandar Abbas and Sirik. In Iranshahr, authorities said a strike killed a firefighter at an airport. For the first time since April, the strikes also appeared to hit bridges. State media reported a strike on a railway bridge in Iran's northeastern Golestan province, while the Revolutionary Guard said two bridges were attacked on the route to Mashhad, where officials plan to bury the late Ayatollah Ali Khamenei on Thursday. It was not clear if the Golestan strike was one of the attacks mentioned by the Guard.
+
+After leaving a NATO summit in Turkiye, Trump posted several videos on social media that he said showed explosions in Iran and issued another warning. "This is in retribution for yesterday's bombing of ships by Iran. If it happens again, it will get much worse!" he wrote. Earlier, he had said the latest fighting would not lead to "long-term" military action, adding, "Anything that happens is going to happen very fast," though he also suggested the US military might "just finish the job." Trump also repeated threats to hit Iran's civilian infrastructure, including electric plants and desalinisation plants, and to seize the oil-production hub of Kharg Island.
+
+After three tankers were hit on Tuesday, the US launched strikes on Iran, and Iranian forces retaliated by targeting American military sites in the Persian Gulf. Iran has said the interim ceasefire deal gives it the right to manage traffic through the strait. Parliament Speaker Mohammad Bagher Qalibaf, a key negotiator in talks aimed at a permanent end to the war, wrote on X on Thursday morning: "America still hasn't learned that bullying and breaking promises are no longer cost-free. Let me put it plainly: if you strike, you'll get hit."
+
+Trump added to concerns that the war could restart by saying the agreement to pause fighting was "over", though he said negotiations could continue. Oil prices rose after his remarks amid fears that any renewed conflict could spread across the wider Middle East and again disrupt energy shipments through the strait. "For me, I think it's over," Trump said when asked about the ceasefire. He added that US representatives could continue talks, but said, "They can talk, but I think they're wasting their time." Iranian Deputy Foreign Minister Kazem Gharibabadi replied on X that Trump's remarks "are not a sign of power but an admission of the failure" of US policy towards Iran.
+
+Trump has also renewed earlier threats to seize Kharg Island, through which about 90 per cent of Iranian oil exports pass. The latest attacks on shipping, despite the negotiations, could point to divisions within Iran's leadership, with hard-liners seeking lasting control over the waterway and pragmatists pushing for a permanent peace deal to ease sanctions and bring economic relief. Final talks were due to begin after Khamenei's funeral, which ends Thursday and had been expected to be a period of lower tensions. Those talks are meant to address the most difficult issues, including fully reopening the strait and rolling back Tehran's disputed nuclear programme.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Jul 9, 2026 09:34 IST
+
+---
+
+### Elon Musk takes on Claude Code with Grok 4.5, first SpaceXAI model built with Cursor
+*Armaan Agarwal · general*
+
+## Elon Musk's AI startup SpaceXAI (previously xAI) has revealed its most advanced AI model yet – Grok 4.5. This model, developed with AI coding platform Cursor, is designed to handle tasks such as coding and business use cases, as SpaceXAI tries to catch up to OpenAI and Anthropic in the AI race.
+
+Elon Musk wants to take on Anthropic's Claude Code with Grok 4.5. (Representational image made with AI)
+
+The AI race has intensified in recent months as Anthropic and OpenAI continue to make advancements when it comes to coding tools. However, Elon Musk’s SpaceXAI (previously xAI) had been trailing behind the two AI labs when it came to coding or other tasks such as finance and legal services with its own AI model, Grok. Now, SpaceXAI has unveiled Grok 4.5 – its most advanced AI model – built with the AI coding platform Cursor.
+
+As per SpaceXAI, Grok 4.5 is its strongest AI model ever, and built to handle a variety of things – be it coding, agentic tasks or knowledge work. The company says that Grok 4.5 can also be used for business work, such as finance or legal services, something also offered by Anthropic with Claude.
+
+According to tech trillionaire Elon Musk, Grok 4.5 can match Anthropic’s Claude Opus 4.7 model, but it is “much faster.” He added, “The combination of capability, faster speed and lower cost is what makes it competitive.”
+
+Elon Musk compared Grok 4.5 to Anthropic's Opus 4.7 model.
+
+Do note that Grok 4.5 is the first joint model from SpaceXAI and Cursor, and its launch comes weeks after SpaceX formally agreed to acquire Cursor in a deal valuing the startup at $60 billion.
+
+### What can Grok 4.5 do?
+
+In a blog post on Wednesday, SpaceXAI said Grok 4.5 was designed to ‘handle difficult, long-running tasks’, especially in software engineering, while also extending to legal and financial work.
+
+The company used the launch to show examples of one-prompt app building, including a Three.js solar system simulation with adjustable time and realistic motion. It also said Grok 4.5 is now the default model in Grok Build and can create complex Excel models using web research and multi-sheet formulas, leave notes for later reference, build diagrams in PowerPoint and write clear prose in Word.
+
+An example of a one-shot project made with Grok 4.5 (Photo: SpaceXAI).
+
+SpaceXAI also shared benchmark scores for Grok 4.5. In AI coding benchmark DeepSWE 1.0, the model outperformed Anthropic’s Opus 4.8, and stood right behind OpenAI’s GPT-5.5. Grok 4.5 was trained across tens of thousands of highly-advanced Nvidia GB300 GPUs.
+
+### Grok 4.5 can find cybersecurity flaws
+
+The SpaceXAI model also comes with increased cybersecurity capabilities. Cursor said it had taken steps to “detect and block bad actors” while seeking to “preserve legitimate security work, including finding and patching vulnerabilities, while restricting the workflows most likely to cause harm.”
+
+This comes at a time when the US government had previously limited access to modliels like Claude Fable 5 and GPT-5.6 due to concerns over cybersecurity capabilities. Though the US has allowed the general release for both models since then.
+
+The release is part of a broader effort by Musk’s company to catch up in the AI race and win more business customers. Elon Musk had said earlier this year that his AI startup, known as xAI before it merged with SpaceX, had fallen behind on coding, leading to staffing changes.
+
+SpaceXAI released its first coding agent in May to compete with Anthropic’s products. Grok 4.5 is now available in Grok Build, in Cursor on all plans and through the SpaceXAI console, though it is not yet available in the European Union.
+
+The company has priced it at $2 (roughly Rs 190) per million input tokens and $6 (roughly Rs 570) per million output tokens, lower than Claude Opus 4.8 at $5 (roughly Rs 480) and $25 (roughly Rs 2390) respectively, while OpenAI’s GPT 5.6 Terra is priced at $2.5 (roughly Rs 240), and $15 (roughly Rs 1430) respectively.
+
+\- Ends
+
+Armaan Agarwal
+
+Jul 9, 2026 09:32 IST
+
+---
+
+### Shillong Teer Result Today, July 9, 2026: First And Second Round Winning Numbers
+*Nibandh Vinod · general*
+
+Shillong Teer Result Today: Check first and second round winning numbers for Shillong, Juwai, Khanapara, Shillong Morning and Night Teer draws held on July 9, 2026.
+
+[Read full article](https://www.news18.com/india/shillong-teer-result-today-july-9-2026-winning-numbers-10199091.html)
+
+---
+
+### Arts continues to be top undergraduate course even as STEM enrolment crosses 1 crore
+*India Today Education Desk · general*
+
+## Despite India's ambitious push to build a STEM-ready workforce, the Arts remains the country's most popular undergraduate stream. The latest AISHE 2023–24 data shows students continue to favour traditional academic programmes, even as STEM enrolment grows.
+
+Arts continues to lead Undergraduate enrolment even as STEM enrolment crosses 1 crore
+
+Despite years of policy emphasis on science, technology, engineering and skill-based education, the Arts continues to be the preferred choice for undergraduate students in India. The latest All India Survey on Higher Education (AISHE) 2023–24 shows that the Arts remains the country's largest undergraduate stream, accounting for nearly one-third of total enrolment.
+
+While STEM disciplines have collectively crossed the one-crore enrolment mark, the Bachelor of Arts (BA) continues to be India's most popular degree programme, underscoring the enduring appeal of humanities in the country's higher education landscape.
+
+### ARTS CONTINUES TO LEAD UNDERGRADUATE ENROLMENT
+
+The AISHE 2023-24 report shows that Arts remained the largest undergraduate discipline in India, accounting for 32.1 percent of total enrolment. Science ranked second with 13.5 percent, followed closely by Engineering and Technology at 12.9 per cent, while Commerce accounted for 12 per cent.
+
+In absolute terms, nearly 1.1 crore students were enrolled in Arts programmes, more than double the number pursuing Engineering and Technology courses. The figures reinforce the Arts' position as the dominant undergraduate stream, even as the government continues to prioritise STEM education to build a technology-driven workforce.
+
+### BA REMAINS INDIA'S MOST POPULAR DEGREE
+
+Among individual undergraduate programmes, the Bachelor of Arts (BA), including BA (Honours), remained India's most sought-after degree.
+
+The course accounted for 38.6 per cent of all undergraduate enrolments, representing around 1.3 crore students.
+
+The Bachelor of Science (BSc) ranked second with 15.7 per cent, followed by Bachelor of Technology/Bachelor of Engineering (BTech/BE) at 12.7 per cent and Bachelor of Commerce (BCom) at 12 per cent.
+
+The figures suggest that while technical education continues to attract large numbers, traditional academic programmes remain the preferred pathway for millions of students.
+
+### WOMEN DOMINATE ARTS, EDUCATION; ENGINEERING REMAINS MALE-HEAVY
+
+The survey also highlights significant gender differences across disciplines.
+
+Women made up 53.9 per cent of undergraduate students enrolled in Arts courses, giving them a majority in the country's largest academic stream.
+
+The Education discipline recorded an even higher female representation, with women accounting for 64.2 per cent of enrolment.
+
+In contrast, Engineering and Technology continued to be the most male-dominated field, where women represented only 31.1 per cent of undergraduate students.
+
+### SOCIAL SCIENCE AND MANAGEMENT TOP POSTGRADUATE CHOICES
+
+At the postgraduate level, Social Science emerged as the most popular discipline, accounting for 18.6 per cent of enrolment.
+
+It was closely followed by Management with 18.2 per cent, while Science accounted for 15.1 per cent and Commerce for 7.8 per cent.
+
+Among degree programmes, the Master of Arts (MA) remained the most popular postgraduate qualification, representing 39.5 per cent of all postgraduate enrolments, or around 22.6 lakh students.
+
+The Master of Science (MSc) followed with 17.4 per cent, while the Master of Business Administration (MBA) accounted for 16.9 per cent of postgraduate enrolments.
+
+### BA PRODUCES THE LARGEST NUMBER OF GRADUATES
+
+The graduation data mirrors the enrolment trends, with the Bachelor of Arts producing the highest number of graduates during the 2023-24 academic year.
+
+Around 24.4 lakh BA students graduated, significantly ahead of other programmes.
+
+The Bachelor of Science produced 11.5 lakh graduates, followed by Bachelor of Commerce with 9.6 lakh and Bachelor of Engineering/Bachelor of Technology with 8.2 lakh graduates.
+
+The AISHE 2023–24 findings underscore a striking reality in India's higher education landscape. While government initiatives continue to promote STEM education to meet the demands of a technology-driven economy, Arts remain the backbone of undergraduate education, attracting the largest share of students and producing the highest number of graduates.
+
+At the same time, the combined growth of science, engineering and technology programmes reflects a gradual diversification of student preferences, suggesting that India's higher education system is evolving without diminishing the enduring appeal of traditional academic disciplines.
+
+\- Ends
+
+Apoorva Anand
+
+Jul 9, 2026 09:29 IST
+
+---
+
+### Stock Market Today: Sensex jumps Over 370 points, Nifty Nears 24,000 As Banks Shine; TCS Q1 Earning Today
+*Varun Yadav · business*
+
+Indian indices rose July 9, led by banking and financial stocks. IT shares fell after TCS earnings. Nifty neared 24,000.
+
+[Read full article](https://www.news18.com/business/markets/stock-market-today-sensex-jumps-over-370-points-nifty-nears-24000-as-banks-shine-tcs-q1-earning-today-ws-l-10199676.html)
+
+---
+
+### As Iran strikes resume, Trump brings up India-Pakistan war: ‘That war was going nuclear’
+*ET Online · world*
+
+US President Donald Trump again referred to the India-Pakistan conflict while discussing Iran, saying, "That war was going nuclear," and claiming "11 planes were shot down" during the fighting.
+
+[Read full article](https://economictimes.indiatimes.com/news/videos/as-iran-strikes-resume-trump-brings-up-india-pakistan-war-that-war-was-going-nuclear/videoshow/132276594.cms)
+
+---
+
+### ‘They trusted me as a human being and as a filmmaker’: ‘Ikka’ director shares how it was like to work with Sunny Deol and Akshaye Khanna
+*TOI Entertainment Desk · entertainment*
+
+'Ikka' director talks about working on the film and how easy it was for the whole cast to say yes to the script.
+
+Sunny Deol and Akshaye Khanna are all set and ready to make a comeback to the small screen together with ‘Ikka’, which is slated for release soon. The pairing has become one of the most of the most anticipated ones recently.
+
+During one of his latest interviews, the director of the film, Siddharth P Malhotra, weighed in on the project, how he made the casting and more.
+
+## Siddharth P Malhotra talks about ‘Ikka’
+
+While talking to India Today, the famed director, who is also known for his work in ‘Kaafir’, ‘Tribhanga’, and ‘Maharaj’, to name a few, shared a few insights about his upcoming project, ‘Ikka.’ He shared during the interview that one of the easiest parts of the film was assembling the cast. Other than Khanna and Deol, the film also casts Dia Mirza and
+
+Tillotama Shome
+
+as well.He shared, “Actually, the cast was the easiest part. Whoever I approached for this film said yes on the first go. Saying it was difficult would actually be a lie. It’s the power of the script. The script was so good. Luckily, they had seen Maharaj. They had seen my work before. They’ve known me because of my father, my grandfather and my work. So there was already trust. They trusted me as a human being and as a filmmaker, and they loved the script.
+
+So, everyone came on board immediately.”He further added that one of the most important things that he was considerate about on set was the fact that everyone should have some form of mutual respect amongst one another. He added, “The one thing nobody is prepared for is that every actor comes with their own personality and their own life. That’s not just Sunny Deol or Akshaye Khanna. That’s everybody who walks onto a set.”
+
+## Siddharth P Malhotra details his experience working with a good cast on the film
+
+He also added that he loved working with veteran actors, and that there was nothing that needed to be changed during the filming. He mentioned that “There are no other cons. I would only work with actors from that generation. I’ve worked with
+
+Rani
+
+, Kajol and Kareena—they’re the best people to work with.”He also revealed that many veteran actors now avoid working with a lot of people at once, and that they were able to blend into the film properly.
+
+He also added, “They’re sitting with you, bonding with you, discussing scenes and talking about life,” he said. They give you what you need in one or two takes. You’re not spending hours shooting. They’re thorough professionals because they’ve been doing this longer than you could ever imagine.
+
+”As for how he kept things in a flow, the director shared that he used to regularly edit scenes. He shared during the interview that after filming all of the shots required for the day, the director would edit them and show all of the people who were present here.
+
+He also concluded that, “What happened was that they trusted me. There were no fireworks. They did exactly what I required because they knew where I was taking the film.
+
+”‘Ikka’ is all set and ready to release on July 10, 2026, and follows a famed lawyer who is blackmailed into representing a criminal in court. Burdened by saving everything he is on the verge of losing, the lawyer does everything in his power to overcome the challenge before time runs out.
+
+---
+
+### Top fashion brands have a supply chain battle against extreme India heat
+*ani · general*
+
+A grid of about 800 sewing machines whir, rows of hissing irons let out clouds of steam and hundreds of workers move across a production floor at a vast clothing manufacturing facility in eastern India, some using laser-guided cutters to slice through giant rolls of fabric.
+
+Outside the sprawling site in Khordha, Odisha — a 40-acre campus intended to eventually pack in as many as 10,000 staff — temperatures on a late June morning hover around 34C, and feel far more extreme as hot, damp winds sweep in from the Bay of Bengal to deliver punishing humidity.
+
+The conditions appear all too familiar for supply chains across Asia that serve the $1.7 trillion global fashion industry, and in which tens of millions of employees — predominantly women — face increasingly severe impacts from extreme heat, frequently with inadequate protections inside their workplaces.
+
+  
+
+In India, scorching temperatures are driving higher employee absences and contributing to productivity losses of as much as 10% for garment manufacturers during the peak summer months, according to a June study by the NYU Stern Center for Business and Human Rights.
+
+Production lines for the clothing industry have long been particularly susceptible to the effects of extreme temperatures — often combining large numbers of workers in close proximity, high volumes of heat-generating equipment, and basic or poorly ventilated buildings.
+
+“Industrial architecture was designed to keep the most economically important component in the factory safe — which was the machines,” says Vidhura Ralapanawe, executive vice president for innovation and sustainability at Epic Group, a garment supplier which opened its new Khordha campus in April with an ambition of tackling workplace heat.
+
+The wider clothing sector has been slow to address the impacts of surging temperatures on employees, according to Ralapanawe. “It’s like the crab in the boiling pot of water. You don’t see the problem because it’s happening so slowly,” he says. “By the time you realize the thresholds are crossed, it comes as a shock.”
+
+India has suffered through another blistering summer heat season in 2026, and accounted for all 50 of the world’s hottest cities identified in studies of global temperatures in April and May by AQI. in.
+
+Step into Epic’s Trimetro campus, through airlock-style doors and past machinery blasting out a curtain of chilled air, and the tropical stew outside vanishes. Thick overhead pipes circulate cool gusts across production lines, while huge fans suspended from ceilings slowly push a continuous breeze toward workers, keeping the temperature inside closer to 28C.
+
+Beneath the sweeping blades, Mamata Sahani, 23, and Madhusmita Das, 27, guide fabric through stitchers. Their faces are dry and collars free of sweat, and the pair joke together as the factory’s speakers broadcast a mix of Hindi film soundtracks and Odia devotional songs.
+
+In a previous job at a different factory there was minimal cooling equipment, Sahani explains. “We just had a few fans across the factory floor. During summers the tin roof got so hot that we felt we were baking,” she says. "I am able to work better here. It isn't hot, so I can focus on my work more.”
+
+More than 90 million people are directly employed in the world’s apparel industry — roughly half of those in India — and face increasingly frequent and severe impacts from weather extremes, Cornell University’s Global Labor Institute and the International Finance Corp. said in a report last November.
+
+The analysis of 23 major global production hubs found that over the past two decades roughly three-quarters of the locations had experienced a 10% or more increase in the average number of days with temperatures above 35C, and seen accelerating patterns of dangerous heat stress.
+
+In India alone, 87% of garment workers had experienced heat-
+
+“We need to stop treating heat as an inevitable cost of doing business and start engineering towards a future where productivity and human comfort or dignity are not compromised,” said Ying McGuire, chief executive officer of Cascale, a nonprofit focused on climate and labor issues in the consumer goods industry.
+
+Epic Group’s Trimetro facility was designed specifically to limit temperatures, rather than simply rely on cooling. Exterior walls are constructed from modified clay material, while the roof acts as a heavily insulated canopy with south-facing windows eliminated entirely. “If ambient heat is your problem, you have to have the most efficient thermal insulated building, you have to block heat coming into the building,” said Ralapanawe.
+
+The adaptations have also been influenced by the factory’s funding. A $100 million debt financing package from the IFC to support the producer’s manufacturing in India and Bangladesh includes strict targets on lowering greenhouse gas emissions and freshwater usage, while also increasing the share of women in management roles.
+
+An air conditioning system uses oversized pipes curved at 45-degree angles to reduce friction, allowing its chillers to use less power. Traditional biomass boilers have been replaced with more efficient industrial heat pumps that dry garments and produce chilled water as a by-product which can be used to cool the factory’s washing floor.
+
+In addition to harming workers, extreme heat and humidity can also damage equipment and spoil the garment assembly process. “We need to take care of the fabric like we take care of food,” said Vijay Subramanyam Renduchintala, a general manager at Epic Group.
+
+Delivering an entirely new campus has allowed Hong Kong-based Epic, which also operates manufacturing lines in Bangladesh, Sri Lanka, Jordan and Ethiopia, greater flexibility to deploy heat protections than is possible when adapting existing factories — the main issue across the garment manufacturing industry.
+
+“Many engineering teams will never get this freedom and flexibility,” Ralapanawe said. “When we build new, we can actually design it in a way to reduce the incremental cost and keep operational cost low. When I go and try to retrofit an existing factory, I can't control a lot of those parameters.”
+
+Providing solutions to the sector’s heat challenges will require global brands to also take responsibility alongside manufacturers, and is likely to translate into higher costs for consumers, according to An Zhou, vice president of technology at the Apparel Impact Institute, a nonprofit.
+
+“Textiles is really a tight margin industry. Factories, especially in developing markets, don't have enough money to take risk and make these kind of changes,” she said. “The brands should think about how they can build a better business along with the factories.”
+
+And even with adaptations inside their workplaces, supply chain staff continue to face severe risks outside the factory gates.
+
+After her shift in Khordha, Das returns to a nearby village where her only cooling at home is provided by fans and there are frequent power outages. “It's difficult to come back to work the next day when you haven't had a full night's sleep,” she says.
+
+There are signs the global fashion sector is increasingly recognizing the impacts extreme temperatures pose across their supply chains. The American Apparel and Footwear Association, which represents more than 1,100 companies including Ralph Lauren Corp. and Levi Strauss & Co., in April issued new guidelines on heat stress, urging brands to share responsibility with suppliers.
+
+An initial phase of Epic Group’s Trimetro facility is producing clothes for Fast Retailing Co.’s Uniqlo, which said long-term contracts can help suppliers take action to address factors like heat stress.
+
+“Our partners have the stability required to make facility and equipment upgrades for sustainability objectives, including reducing emissions, increasing the use of more sustainable raw materials, and raising workplace standards for the people who help make our clothes,” the Japan-based company said in a statement.
+
+In addition to heat protections, Epic’s campus has added porous grass pavers, pebble-lined drains and a 15,000-cubic-meter central lake to ward against flooding risks and Odisha’s slow-moving cyclones.
+
+The garment industry’s challenge from natural hazards is only likely to become more complex and costly, according to Ralapanawe. “It’s not possible to design a completely climate-resilient facility, with the kind of climate extremes that we are increasingly getting,” he said. “The more you stretch the limits, the more expensive it becomes.”
+
+---
+
+### Pune building collapse: Nine rescued as rescue operation enters second day, search intensifies for trapped persons
+*Unknown · business*
+
+Pune: Rescue operations entered the second day on Thursday at the building collapse site in Moshi, Pune, with personnel from the National Disaster Response Force (NDRF), the Army, the Fire Brigade, police and the local administration continuing round-the-clock efforts to locate people believed to be trapped beneath a massive pile of debris and garbage.
+
+According to officials, nine people have been rescued alive so far, while six to seven others are still feared trapped under the collapsed structure.
+
+Speaking to ANI, Pune Deputy Commissioner of Police (DCP) Ganesh Ingale said the rescue operation has been continuing uninterrupted since Wednesday afternoon despite challenging conditions at the site.
+
+  
+
+"The search operation has been underway continuously since yesterday afternoon. NDRF teams, the Army, the Fire Brigade, and the entire administration are working here. Efforts are ongoing to locate and retrieve the missing individuals as quickly as possible. We had information about 16 or 17 people. Nine have been recovered. There are likely another six or seven. There is a massive pile of garbage here, which is making the recovery process somewhat difficult," Ingale said.
+
+The fifth Battalion of the National Disaster Response Force (NDRF), Pune, said its teams are carrying out Collapsed Structure Search and Rescue (CSSR) operations at the site under the guidance of Commandant S. B. Singh and on-site supervision of Assistant Commandant Pravin Dhat.
+
+According to the NDRF, rescue personnel worked throughout the night using specialised rescue equipment and technical search methods. As of 6:30 am on Thursday, nine people had been rescued alive from the collapsed structure.
+
+The force said information received from residents suggests that a few more people may still be trapped beneath the debris. Search and rescue operations are continuing with full intensity, with every effort being made to locate and safely evacuate the remaining victims at the earliest.
+
+The NDRF said it is working in close coordination with the local administration and other responding agencies to ensure a swift and effective rescue operation, adding that further updates will be shared as the operation progresses.
+
+The incident occurred after a massive mound of waste collapsed onto a three-storey administrative building at the Municipal Corporation's waste-to-energy plant in Moshi following heavy rainfall. Authorities said the garbage mound, located near the building, gave way after days of incessant rain, trapping several people inside and triggering a large-scale multi-agency rescue operation.
+
+Meanwhile, restoration work on the Mumbai-Pune railway section continued following disruptions caused by heavy rainfall on Thursday.
+
+Speaking to ANI, Central Railway Chief Public Relations Officer (CPRO) Swapnil Nila said, "Work on the 'middle line' was completed the night before last at 10.30 PM. Since then, work has been proceeding continuously on the up and down main lines. Out of a total of nine locations involved in this project, work at six locations has been fully completed. Currently, approximately 24 to 25 trains are being run in both directions through this section using a single line. We are striving to ensure that once the second line becomes operational, traffic between Mumbai and Pune returns to complete normalcy. Furthermore, there are no issues in any of Mumbai's suburban sections. All traffic is operating smoothly."
+
+In Mumbai, the Brihanmumbai Municipal Corporation (BMC) also intensified monsoon safety measures by installing warning posters to help citizens identify hazardous trees. Early morning visuals from Marine Drive showed high-tide waves crashing against the promenade as authorities continued to urge residents to remain cautious amid persistent heavy rains across parts of Maharashtra.
+
+---
+
+### Adani Enterprises, France's Dioxycle partner on low-carbon chemicals in India
+*aniEnterprises · general*
+
+India's Adani Enterprises and French clean-technology firm Dioxycle said on Thursday they have formed a long-term partnership to develop and scale ‌low-carbon chemical production ⁠in ⁠India, marking the Adani Group's entry into the sector.
+
+Here are some key ​details:
+
+\* The collaboration will initially focus on a ​pilot plant producing formic ⁠acid using ‌renewable energy and ​captured ​carbon dioxide, with plans ⁠to expand to commercial-scale manufacturing.
+
+  
+
+\* Adani Enterprises and Dioxycle will also explore the production of other emissions-reducing chemicals used across a range of industries, the companies said ‌in a statement.
+
+\* Formic acid and its derivatives are widely used ⁠across industries including textiles, agriculture and manufacturing.
+
+\* The partnership aims to ​demonstrate how captured carbon emissions can be converted into valuable products using clean energy.
+
+---
+
+### Monsoon mayhem: Floods, gridlock, deaths expose nation’s urban planning failures
+*India Today Video Desk · general*
+
+The monsoon has once again exposed glaring infrastructure failures and poor urban planning across India's major cities, triggering widespread waterlogging, traffic snarls and loss of life. In Mumbai, the Andheri subway was shut, parts of the Western Express Highway were inundated, and a commuter was injured after being struck by a falling tree branch, while neighbouring Vasai, Virar and Navi Mumbai battled severe flooding and power outages. In the Delhi-NCR region, a spell of rain caused a three-kilometre traffic jam on National Highway 48 in Gurugram and led to road cave-ins. As roads vanish under floodwaters and normal life grinds to a halt, the recurring monsoon chaos has once again raised serious questions over the preparedness, accountability and planning of civic authorities across the country.
+
+---
+
+### US states could sue next week to block Paramount-Warner Bros deal
+*SECTIONS US states could sue next week · business*
+
+U.S. states concerned that Paramount's $110 billion acquisition of Warner Bros. Discovery will hurt competition could sue to block the deal as soon as next week, two sources familiar with the matter told Reuters.
+
+California Attorney General Rob Bonta has taken the lead in investigating whether the deal violates U.S. laws against mergers that would unlawfully harm competition.
+
+A spokesperson for Bonta's office declined to comment. A Paramount spokesperson ‌did not immediately ⁠respond to ⁠a request for comment.
+
+  
+
+The deal, which would combine two of Hollywood's four major studios, has drawn criticism from actors, writers ​and others in Hollywood who fear job losses. Theater owners also oppose the combination of the Warner Bros ​movie studio, maker of the "Harry Potter" and "Superman" films, with Paramount Pictures, and have expressed concern the merger would result in fewer movies, narrowing consumer choice and eroding competition.
+
+Paramount has said that combining forces ​with Warner Bros would allow the media company to tackle ⁠mounting competition ‌for audiences, talent and investment. Paramount CEO David Ellison has sought to assuage ​the concerns ​of theater owners, saying the combined film studios would release 30 movies a ⁠year.
+
+If the deal is delayed because of a court challenge, costs ​could mount for Paramount, which is already expected to carry around $80 ​billion in debt after the transaction closes.
+
+Ellison has agreed to pay Warner Bros. Discovery shareholders a 25-cent-per-share "ticking fee," amounting to about $650 million in cash each quarter, if the deal does not close before October.
+
+In early June Reuters reported California, New York and other U.S. states were preparing a lawsuit as state officials look to step up their scrutiny of big mergers and acquisitions as federal ‌antitrust authorities have loosened their reins.
+
+Analysts have said Paramount's political connections and other factors gave it an easier road to regulatory clearance from federal antitrust watchdogs ​in the U.S. ​The Paramount CEO's father, billionaire ⁠Oracle co-founder Larry Ellison, has cultivated ties with President Donald Trump.
+
+Not all lawsuits seeking to block mergers succeed. But they can delay the consummation of deals by months if a judge issues ​an order pausing the merger while the case plays out. Given that multiple states are coordinating, it is possible the timeline for filing the lawsuit could change.
+
+A court could order Paramount and Warner to hold their assets separate, delaying the $6 billion in cost cuts that Paramount has said it would make after the deal closes.
+
+---
+
+### Greenlanders reject Trump's renewed push for control of island
+*SECTIONS Greenlanders reject Trump's renewed push · business*
+
+Nuuk: Greenlanders attending a traditional kayaking championship in ​Nuuk rejected U.S. President Donald ​Trump's renewed call for U.S. control of the ​Arctic island on Wednesday, saying its future should be decided by Greenlanders themselves.
+
+Speaking at a NATO summit in Turkey's Ankara, Trump this week renewed his demand to ‌gain control ⁠of Greenland, ⁠a semi-autonomous Danish territory, arguing it was important for U.S. national security.
+
+At the ​kayaking championships in Nuuk harbour, where competitors performed rolling manoeuvres in the water by ​flipping their kayaks upside down and back upright, spectators said Trump was focused on the island's natural resources rather than the wishes of ​its people.
+
+  
+
+"He only thinks of commodities and ⁠oil," said ‌Frederik Larsen, 72, a pensioner born in Greenland. "I think ​we can ​manage without him."
+
+Public school teacher Birgithe Geisler, 60, ⁠said Greenland belonged to Greenlanders.
+
+"No one else should decide ​for us," she said.
+
+Hans David Ezekiassen, an instructor ​at the Greenland Maritime Center, was more blunt.
+
+"I think it's shit, to put it mildly," he said.
+
+"He can't even control his own country, so why must he try to take over other countries?"
+
+Andy Thon, 49, an American engineer and member of Qajaq USA participating in ‌the championships and visiting from the United States, said Greenland was already on a path towards greater autonomy with ​Denmark.
+
+"With Denmark, ​they're making their ⁠way towards full autonomy and the U.S. wouldn't need Greenland as a strategic point if the U.S. was playing nicely with our allies," he ​said.
+
+Trump's remarks drew fresh pushback from Danish and Greenlandic leaders. Greenland's Prime Minister Jens-Frederik Nielsen said on Wednesday that repeated calls to take over the island did not change the fact that Greenland is not for sale.
+
+---
+
+### Video: Heavy rain batters Maharashtra, waterlogging worsens in Mumbai suburbs
+*India Today Video Desk · general*
+
+Relentless monsoon rain has triggered widespread flooding in the Vasai-Virar region on the outskirts of Mumbai, with Palghar district recording over 200 mm of rainfall each day for the past four days. More than 1,000 buildings, including 80 to 100 in Anand Nagar, have been inundated, while submerged electrical infrastructure has left nearly half the region without power. Residents are grappling with shortages of food and drinking water, major roads such as the Vasai-Nalasopara Link Road remain under water, and train services between Vasai and Virar are running around 30 minutes behind schedule, disrupting daily commuters and leaving many stranded.
+
+---
+
+### Trump says Spain was 'very generous' after he ordered halt to trade
+*SECTIONS Trump says Spain was after he ordered halt · business*
+
+President Donald Trump called Spain very generous at the NATO summit. This statement came hours after he criticized the European country. He had previously ordered a halt to trade with Spain. Trump made these remarks aboard Air Force One. He was returning from the NATO summit events.
+
+[Read full article](https://economictimes.indiatimes.com/news/international/global-trends/trump-says-spain-was-very-generous-after-he-ordered-halt-to-trade/articleshow/132276453.cms)
+
+
+---
+
 ## 8 July 2026
 
 ### Mumbai Rains Live: Mumbai Wakes Up To Dense Clouds, Light Showers After 2 Days Of Relentless Downpour
