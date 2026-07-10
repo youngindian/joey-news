@@ -1,3 +1,350 @@
+## 10 July 2026
+
+### Delhi govt schools to hold test for second round of Class 10, 12 admissions
+*India Today Education Desk · general*
+
+## Delhi government schools will begin the second cycle of Class 10 and 12 admissions through a Common Admission Test. The round is meant for eligible Delhi students who missed the earlier process.
+
+Application forms will be issued from Friday while the last date for submission of filled application forms is July 25 (File photo)
+
+Delhi government schools will open applications for the second cycle of non-plan admissions to Classes 10 and 12 today, with admissions to be carried out through a Common Admission Test (CAT).
+
+In a circular, the Directorate of Education (DoE) said the second admission cycle is meant for students who were unable to apply during the previous admission process or are still seeking admission through the department.
+
+### APPLICATION DEADLINE, ADMIT CARD, EXAM DATE
+
+According to the notified schedule, application forms will be available from Friday, while the deadline for submitting completed forms is July 25.
+
+Schools are required to send the received applications to the respective District Deputy Director of Education (DDE) by July 27, the circular stated.
+
+Admit cards will be issued on July 30 at the schools where candidates have submitted their applications.
+
+The Common Admission Test (CAT) for Classes 10 and 12 is scheduled to be held on August 1 between 10 am and 12 noon.
+
+The test results will be announced on August 5. Thereafter, the concerned District Deputy Directors of Education will allocate schools to successful candidates based on available vacancies, subject combinations offered and the applicant's place of residence, the circular said.
+
+The DoE clarified that only students residing in Delhi will be eligible for admission.
+
+For admission to Class 10, applicants must have passed Class 9 as regular students from a recognised school during the previous academic session.
+
+Those seeking admission to Class 12 must have cleared Class 11 from a recognised school with the required subject combination.
+
+The Directorate further said that Heads of Schools will verify the eligibility of applicants before forwarding their application forms to the concerned District DDE or nodal officer for the issuance of admit cards.
+
+\- Ends
+
+Mridusmita Deka
+
+Jul 10, 2026 09:54 IST
+
+---
+
+### Charlie Kirk murder case: Defence questions evidence in Utah hearing
+*India Today World Desk · general*
+
+## Tyler Robinson's lawyers challenged ballistics and DNA evidence at the Utah hearing. The defence push could shape whether the Charlie Kirk murder case proceeds to trial.
+
+Image used for representational purposes only
+
+Lawyers for Tyler Robinson, the man accused of killing conservative activist Charlie Kirk, plan to call one final witness on Friday as they try to cast doubt on the prosecution's case before it goes to trial. A Utah judge is deciding whether prosecutors have presented enough evidence to send Robinson to trial on an aggravated murder charge.
+
+Kirk, 31, was shot dead while addressing a crowd of thousands at Utah Valley University on September 10. Robinson has not entered a plea, and a ruling on whether the case will proceed to trial will come only after oral arguments scheduled for after September 1.
+
+During Thursday's hearing, one of Robinson's lawyers, Michael Burt, questioned the reliability of ballistics tests on a bullet fragment recovered from Kirk's body. Investigators had tried to link the fragment to the suspected murder weapon, but the results were inconclusive. Samantha Karner of the Bureau of Alcohol, Tobacco, Firearms and Explosives told the court, "Saying anything but inconclusive was inappropriate."
+
+Earlier in the week, Burt also challenged DNA evidence that investigators said linked Robinson to the scene, though experts say the science behind DNA testing is sound. The defence said it would call its final witness on Friday, the last day of the week-long preliminary hearing.
+
+Prosecutors on Thursday played parts of a recorded interview with Robinson's roommate, Lance Twiggs. In the recording, Twiggs said that the day after Kirk was shot in the neck, Robinson allegedly told him "he wishes he hadn't done it". Later that same day, and about an hour before surrendering, Robinson posted "it was me at UVU yesterday" in a chat room on the Discord social media platform, according to investigators and messages shown by prosecutors.
+
+Defence lawyers unsuccessfully tried to block the public release of Twiggs' statements and the chat room messages. They argued that prosecutors would present the material as a confession, harming Robinson's right to a fair trial. Robinson turned himself in a day after the shooting. Kirk was described in court as a close ally of President Donald Trump who was credited with helping galvanise young voters for the Republican in the 2024 election.
+
+Prosecutors argue that the shooting put others at Kirk's campus event in danger, an aggravating circumstance that could make the crime punishable by death under Utah law. Robinson also faces possible sentence enhancements over claims that he targeted Kirk because of his political views. Twiggs said in his April interview with prosecutors and investigators that Robinson sometimes spoke about politics, including Trump, but that he had never heard him speak about Kirk before the shooting. Twiggs also said Robinson did not talk much about gender issues or LGBTQ rights.
+
+The hearing is set to close on Friday after the defence calls its last witness, but Judge Tony Graf will decide only after hearing oral arguments after September 1 whether the evidence is enough to put Robinson on trial for aggravated murder.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Jul 10, 2026 09:48 IST
+
+---
+
+### Sensex jumps 800 points: Why is the stock market rising today?
+*Sonu Vivek · general*
+
+Dalal Street extended its rally on Friday despite rising geopolitical tensions. The Sensex and Nifty rally was led by IT stocks after Tata Consultancy Services (TCS) reported better-than-expected June quarter earnings, while easing concerns over crude oil prices despite fresh US-Iran tensions also improved sentiment.
+
+At around 9:20 am, the BSE Sensex was up 676.12 points, or 0.88%, at 77,417.94, while the NSE Nifty50 gained 196.30 points, or 0.82%, to trade at 24,159.10.
+
+### IT STOCKS LEAD THE RECOVERY
+
+The biggest support came from IT stocks after TCS kicked off the June-quarter earnings season with numbers that beat Street expectations. The Nifty IT index jumped over 3%, making it the best-performing sector in early trade.
+
+Among the top gainers, Tech Mahindra surged 3.64%, TCS climbed 3.48%, HCLTech gained 3.43% and Infosys rose 3.42%. L&T Technology Services, Coforge and other IT shares also traded sharply higher.
+
+TCS reported a 5% year-on-year rise in consolidated net profit to Rs 13,349 crore for the June quarter, while revenue increased nearly 14% to Rs 72,275 crore. The company's board also announced an interim dividend of Rs 12 per share.
+
+The company also reported a strong order book of $9.5 billion during the quarter, including several AI-led deals. Annualised AI revenue run rate rose to $2.6 billion, reflecting growing demand for artificial intelligence-led transformation projects.
+
+Investor confidence also received a boost after TCS added 9,279 employees during the quarter, its highest quarterly hiring in more than a year, signalling confidence in future demand despite global uncertainty.
+
+CEO K Krithivasan also struck an optimistic tone, saying he expects technology spending by manufacturing and life sciences clients to improve in the September quarter. He added that TCS does not see AI causing a major contraction in business and believes new AI opportunities will offset any disruption.
+
+### CRUDE PRICES OFFER RELIEF DESPITE MIDDLE EAST TENSIONS
+
+Another reason behind Friday's rebound was that crude oil prices remained well below the levels that investors feared despite the renewed military escalation between the US and Iran.
+
+Brent crude was trading around $76.52 a barrel, while WTI crude stood at $72.29. Although geopolitical tensions remain elevated, oil prices have not surged beyond the psychologically important $80-$100 range that could significantly hurt India's economy.
+
+A sharp spike in crude generally raises India's import bill, fuels inflation and puts pressure on corporate earnings. The absence of such a spike helped investors look beyond geopolitical worries.
+
+Dr VK Vijayakumar, Chief Investment Strategist at Geojit Investments, said markets appear to be ignoring the latest developments in West Asia as crude prices have cooled despite fresh tensions.
+
+"Tensions in West Asia continue without any clarity of a resolution to the geopolitical crisis. However, interestingly, markets are largely ignoring these negative developments. Brent crude declined 3% in a day and global stock markets have completely ignored the renewed tensions. This confident message from the market is significant. But investors have to be cautious," he said.
+
+He added that from a domestic perspective, there are no major headwinds for the economy and markets are likely to respond positively to favourable corporate earnings.
+
+### BROAD-BASED BUYING RETURNS
+
+The rally was not limited to IT stocks. Fifteen of the 16 sectoral indices traded in the green.
+
+Nifty Financial Services rose 0.94%, Nifty Private Bank gained 0.90%, Nifty PSU Bank climbed 0.87%, while Auto, FMCG, Media and Realty indices also advanced. Broader markets joined the rally, with the Nifty Midcap 100 rising 0.80% and the Nifty Smallcap 100 gaining 0.84%. India VIX, the market's fear gauge, declined over 5%, indicating easing volatility.
+
+Among Sensex stocks, besides the IT pack, ICICI Bank, Axis Bank, HDFC Bank, Reliance Industries, Mahindra & Mahindra, Tata Steel and Adani Ports also traded higher.
+
+While Friday's rebound suggests investors are willing to buy quality stocks after Thursday's sharp correction, markets are likely to remain sensitive to two key factors — developments in the US-Iran conflict and the June-quarter earnings season.
+
+TCS has set a positive tone for the IT sector, but upcoming results from other large companies will determine whether the broader market recovery can sustain in the coming weeks.
+
+_**(Disclaimer: The views, opinions, recommendations, and suggestions expressed by experts/brokerages in this article are their own and do not reflect the views of the India Today Group. It is advisable to consult a qualified broker or financial advisor before making any actual investment or trading choices.)**_
+
+\- Ends
+
+Jul 10, 2026 09:40 IST
+
+---
+
+### ONGC to undertake 1.75 MMT strategic oil reserve expansion at Mangaluru
+*SECTIONS ONGC · general*
+
+State-run Oil and Natural Gas Corporation (ONGC) has approved the development of a 1.75 million metric tonne (MMT) strategic petroleum reserve at Mangaluru in Karnataka, marking the first time the country's largest explorer will fund the creation of a strategic crude storage facility.
+
+The company's board has accorded an in-principle approval for the Phase-I expansion of the Mangaluru strategic petroleum reserve project, along with associated facilities, in line with directions from the Ministry of Petroleum and Natural Gas, ONGC said in a regulatory filing on Thursday.
+
+  
+
+The project will add 1.75 MMT of storage capacity to India's strategic petroleum reserve network, which is managed by Indian Strategic Petroleum Reserves Ltd. (ISPRL). India currently has 5.33 MMT of strategic crude storage across underground caverns at Visakhapatnam, Mangaluru and Padur, enough to meet about 9.5 days of the country's crude oil requirement based on 2019-20 consumption patterns, according to government data.
+
+The expansion comes as India steps up efforts to strengthen its energy security after recent geopolitical disruptions exposed the vulnerability of global oil supply chains.
+
+The near-total closure of the Strait of Hormuz during the Iran conflict underscored the need for larger strategic crude inventories for import-dependent countries such as India.
+
+Mangaluru already serves as a key strategic oil storage hub for India, with ONGC subsidiary Mangalore Refinery and Petrochemicals Ltd. (MRPL) operating a 300,000-barrel-per-day refinery at the site. Existing underground caverns there have been leased to international firms, including Abu Dhabi National Oil Co. (ADNOC), allowing India to combine strategic storage with commercial utilisation.
+
+---
+
+### Wayanad Landslide Wasn’t Just A Natural Disaster. Did We Ignore Warning Signs In The Western Ghats?
+*Shilpy Bisht · general*
+
+Was the Kalladi incident the result of exceptionally heavy rainfall, or was it a tragedy waiting to happen? Kerala ministers have described it as a possible ‘man-made disaster’
+
+[Read full article](https://www.news18.com/explainers/wayanad-landslide-wasnt-just-a-natural-disaster-did-we-ignore-warning-signs-in-the-western-ghats-shil-ws-l-10202694.html)
+
+---
+
+### Bhogapuram Airport Nears Inauguration: Location, Flights, Facilities, Who Benefits | Explained
+*Parishmita Saikia · lifestyle*
+
+Where is Bhogapuram airport? How far is it from Visakhapatnam? Will Vizag have two airports? Here's everything travellers need to know before it opens
+
+[Read full article](https://www.news18.com/photogallery/cities/visakhapatnam/bhogapuram-airport-nears-inauguration-location-flights-facilities-explained-ws-l-10202580.html)
+
+---
+
+### Mark Zuckerberg makes X comeback to announce Muse Spark 1.1, kicks off AI price war with OpenAI and Anthropic
+*Armaan Agarwal · general*
+
+## Meta is taking on Anthropic and OpenAI with its first AI coding tool, Muse Spark 1.1. The release is so important that Meta CEO Mark Zuckerberg broke his 3-year silence on X to announce Muse Spark 1.1. In doing so, Zuckerberg has also started a price war for AI coding tools.
+
+Mark Zuckerberg just started a price war against OpenAI and Anthropic with Muse Spark 1.1 (Representational image made with AI).
+
+Meta wants to catch up in the AI race, and it is going all-in with its latest AI coding tool – Muse Spark 1.1. Meta CEO Mark Zuckerberg announced the release of Muse Spark 1.1 in his first X post since July 2023 – a gap of 3 years – signalling the importance of what might be at stake. But the AI coding space is already occupied by the likes of Claude Code and OpenAI’s Codex. To get developers to use Muse Spark 1.1, Zuckerberg seems to have an ace up his sleeves – pricing.
+
+You see, as part of the Muse Spark 1.1 announcement on X, Mark Zuckerberg mentioned that the new coding tool was "a strong agentic and coding model at a very low price.”
+
+Mark Zuckerberg made his first X post in three years to announce Muse Spark 1.1 release.
+
+His comments come at a time when the rising costs for AI models, be it from Anthropic or OpenAI, have made companies rethink AI usage. Some, like Uber and Walmart, have even capped how much AI tokens – basic measurement units for AI models – can be used by employees.
+
+But before we delve deeper into the pricing of Muse Spark 1.1, let’s take a look at how capable Meta’s latest coding tool is.
+
+### Meta says Muse Spark 1.1 can outperform models from rivals
+
+Meta says that Muse Spark 1.1 is one of the strongest models for coding out there. It is aimed at workloads that enterprises increasingly want AI systems to handle, including fixing bugs, managing digital workflows, deploying new features in enterprise systems and carrying out large code migrations.
+
+Muse Spark 1.1 was developed by Meta’s Superintelligence Labs (MSL) which is led by Alexandr Wang.
+
+According to Wang, the model was trained to perform well in coding because that improves the capabilities of AI agents that can autonomously perform multiple tasks. "You kind of have to build coding capabilities as part of that in service of overall agentic capabilities," he told CNBC. He added the model was trained to work with the popular harnesses developers already use, in what he described as the best approach to maximise adoption.
+
+When Mark Zuckerberg announced Muse Spark 1.1 on X, he shared benchmark comparisons between different AI models in coding. As per the results, Muse Spark 1.1 outperforms Anthropic’s Opus 4.8 and OpenAI’s GPT-5.5 in certain tasks. Keep in mind that the benchmarks did not include Anthropic’s Mythos and Fable models or OpenAI’s GPT-5.6
+
+### Muse Spark 1.1 is cheaper than rivals, Elon Musk reacts
+
+A key point made by Meta for Muse Spark 1.1 is its price. Muse Spark 1.1 can be accessed by developers via the Meta Model API. As per the company, every new API account will begin with $20 (roughly Rs 1,900) dollars in free credits. After that, it will charge $1.25 (roughly Rs 120) per million input tokens and $4.25 (roughly Rs 405) per million output tokens.
+
+To give you some context, Grok 4.5, the new AI model released by Elon Musk’s SpaceXAI just a day ago, is priced at $2 (roughly Rs 190) per million input tokens and $6 (roughly Rs 570) per million output tokens. Elon Musk responded to Zuckerberg’s announcement on X. He replied, “Jinx.”
+
+Elon Musk's SpaceXAI had released Grok 4.5 just a day before Zuckerberg's announcement.
+
+On the other hand, Anthropic and OpenAI charge even more. Anthropic’s Claude Opus 4.8 is priced at $5 (roughly Rs 480) per million input tokens and $25 (roughly Rs 2390) per million output tokens respectively, while OpenAI’s GPT 5.6 Terra is priced at $2.5 (roughly Rs 240), and $15 (roughly Rs 1430) respectively.
+
+Muse Spark 1.1 comes amid a busy week for Meta and the wider AI industry. On Tuesday, the company released Muse Image, its new image-generation model, through the Meta AI app, WhatsApp and Instagram.
+
+Meanwhile, OpenAI has also released its GPT-5.6 family of models to the public, as well as the launch of its work AI agent, ChatGPT Work.
+
+The launch also marks a shift in Meta’s AI business. While the company had previously emphasised open-source releases through its Llama family, it is now charging developers to use a proprietary model.
+
+Alexandr Wang has clarified that Meta remains "committed to open source" and that an open-source variant of Muse Spark was in development, but he did not say when it would be released. Wang added that Meta is training a more powerful model code-named Watermelon.
+
+\- Ends
+
+Armaan Agarwal
+
+Jul 10, 2026 09:35 IST
+
+---
+
+### Rs 5 lakh crore wealth boost! Top 5 factors fuelling today's 800-point Sensex rally
+*Debaroti Adhikary · general*
+
+The Indian stock market traded in deep green on Friday, with Sensex and Nifty rising more than 1% each as strong earnings by heavyweight TCS, positive global cues and other factors boosted investor sentiment.
+
+Sensex jumped nearly 800 points to 77,527 while Nifty 50 rose over 230 points to 24,197, extending sharp gains for the second consecutive session. This came as India VIX, which measures volatility in the market, crashed another 9% to 12.71 on Friday morning.
+
+The sharp gains added nearly Rs 5 lakh crore to the total market capitalisation of all companies listed on BSE, pulling it up to nearly Rs 481 lakh crore.
+
+Infosys, TCS, Tech Mahindra and HCL Tech shares were the top gainers on the Sensex, jumping 3-4%. IndiGo, Asian Paints, ICICI Bank, UltraTech Cement, Tata Steel, M&M and SBI shares followed, rising more than 1% each. Bucking the trend, Sun Pharma shares fell around 1%.
+
+Broader markets also extended sharp gains, with Nifty Smallcap 100 and Nifty Midcap 100 indices gaining up to 0.7% each. Sectorally, the Nifty IT index surged more than 3% to lead gains, while Nifty Metal followed, rising more than 1%. Nifty Pharma, however, declined around 1%, bucking the trend. The overall market breadth was positive, with NSE seeing 2,010 advances and 429 declines, while 97 stocks remained unchanged.
+
+Here are the key factors boosting market sentiment today:
+
+### **1) TCS kicks off Q1 earnings season on a strong note**
+
+The market gains were led by the IT stocks, which sharply surged after Tata Consultancy Services (TCS) on Thursday reported 5% year-on-year (YoY) growth in consolidated net profit at Rs 13,349 crore for the first quarter of the ongoing financial year 2027. The company’s consolidated net profit stood at Rs 12,760 crore in the corresponding quarter of the previous financial year. The firm’s revenue from operations meanwhile rose around 14% YoY to Rs 72,275 crore during the quarter under review, as against Rs 63,437 crore in the year-ago period. Its total contract value in Q1 FY27 stood at $9.5 billion.
+
+TCS earnings were more or less in line with estimates, with brokerages like Nuvama, Motilal Oswal Financial Services and others maintaining their ‘Buy’ rating and seeing up to 46% upside potential.
+
+### 2) Positive global cues  
+
+The optimism on Dalal Street comes amid positive global cues. Asian markets recorded strong gains on Friday morning, with South Korea’s Kospi jumping around 5% to exit the bear market. Japan’s Nikkei and Hong Kong’s Hang Seng jumped around 2% each. China’s Shanghai Composite, meanwhile, gained nearly 1%.
+
+Wall Street also recorded sharp gains on Thursday, with the tech-heavy Nasdaq gaining more than 1% amid a sharp rebound in tech stocks. In Europe, France’s CAC and Germany’s DAX gained around 1% each, but the UK’s FTSE slipped into the red.
+
+### 3) Market shrugs off escalating Iran-US tensions  
+
+Iranian ⁠armed forces ‌launched attacks on US military infrastructure in Gulf states on Thursday following US strikes on Iran's southern coastal and eastern provinces. Separately, ⁠Iranian media reported multiple explosions across southern Iran, including Bushehr, where one of the country's nuclear plants is located. The latest escalations in the Iran-US conflict have raised worries over further closure of the Strait of Hormuz, a critical waterway that accounted for the shipment of 20% of daily global oil and gas supplies before the war. However, stock markets around the globe seem to ignore the simmering tensions in the Middle East. “Tensions in West Asia continue without any clarity of a resolution to the geopolitical crisis. However, interestingly, markets are largely ignoring these negative developments. This confident message from the market is significant. But investors have to be cautious, warranting monitoring of the developments,” said VK Vijayakumar, Chief Investment Strategist, Geojit Investments.
+
+### 4) Oil prices rise  
+
+Oil prices inched slightly higher today, but have sharply declined after nearing $80 per barrel earlier during the week following US President Donald Trump’s statement that the ceasefire between US and Iran was “over”. Brent crude futures were trading at around $76 per barrel and WTI Crude futures were trading near $72 per barrel on Friday morning.
+
+Oil prices continue to remain significantly below the levels seen during the raging war earlier this year, when Brent crude prices had soared above $120 per barrel.
+
+### 5) FII buying trend  
+
+Foreign investors remained net sellers of Indian equities on Thursday, net selling shares worth around Rs 533 crore, according to provisional data available on NSE. However, the overall trend shows FIIs turning bullish on Indian equities. They bought Indian shares worth more than Rs 8,280 crore during a six session streak between July 1 and July 8.
+
+**What lies ahead?**  
+From the domestic perspective, there are no major headwinds for the economy now, according to VK Vijayakumar from Geojit Investments. He added that stock markets will reflect this economic resilience and will respond positively to positive news from sectors and companies.
+
+“Broadly, financials and automobiles will remain strong anticipating good Q1 numbers. Select pharmaceuticals and digital platform companies are exhibiting strength, indicating good Q1 numbers. In these segments there are buy on dips opportunities,” the analyst said.
+
+**Technical view on Nifty**  
+Anand James, Chief Market Strategist at Geojit Investments, noted that the recovery swing unfolded yesterday on anticipated lines, after which investors can now look at an upswing till 24,200-24,229 or position for resumption of Wednesday’s declines.
+
+“Upside plays can have downside marker at 24,040, but downside attempts, if any, are not expected to gain momentum, with 23,936-23,800 region appearing firm enough for now,” according to James.  
+_(With inputs from agencies)_  
+_(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)_
+
+---
+
+### Court invokes Lord Krishna's birth in bail order for pregnant accused in TCS case
+*Vidya · general*
+
+## A special court in Nashik granted bail to former TCS employee Nida Khan in the religious coercion case, citing her five-month pregnancy and the completion of the investigation.
+
+Nida Khan allegedly attempted to influence a female colleague's religious beliefs.
+
+A special court in Maharashtra's Nashik has granted bail to former Tata Consultancy Services (TCS) employee Nida Khan, observing that no woman should have to endure the trauma of giving birth in prison. Drawing a parallel with the birth of Lord Krishna in captivity, the court said such a situation would cause avoidable distress to both the mother and the newborn.
+
+Khan, who is five months pregnant, was arrested nearly two months ago in connection with one of the cases linked to the alleged sexual exploitation and religious coercion of female employees at the TCS office in Nashik.
+
+Granting her bail, Special Judge K G Joshi noted that Khan's pregnancy, coupled with the completion of the investigation, warranted judicial discretion in her favour.
+
+"It is not disputed that applicant Nida is five months pregnant. The trauma of taking birth in a prison like Lord Krishna or the social stigma attached to it is not sufferable to anyone. To avoid such a distressing situation, and for the welcoming and overall wellbeing of a newborn baby, it would be just and proper to exercise judicial discretion in favour of the applicant-accused," the court said.
+
+The judge also observed that the investigation had been completed and the chargesheet filed, making continued custody unnecessary.
+
+Khan has been chargesheeted only in the case registered at Deolali Camp police station, while seven other accused in the larger investigation are facing charges across nine FIRs registered between March 26 and April 3.
+
+According to the prosecution, Khan allegedly attempted to influence a female colleague's religious beliefs by giving her a burqa and Islamic religious books, installing applications 
+
+Officials have alleged that these actions were part of an attempt to persuade the complainant to change her religion.
+
+In its order, however, the court also noted that the material collected during the investigation prima facie suggested Khan, along with other accused, had attempted to "brainwash the victim" and influence her ideological and religious beliefs.
+
+The order referred to allegations that the accused sought to convince the complainant that there were "objectionable stories in the Hindu religion".
+
+Khan's counsel argued that she had been falsely implicated and highlighted that she was a highly educated professional who had worked as an Associate at TCS before her services were terminated in April 2026. The prosecution, along with counsel representing one of the victims, opposed her bail, contending that the investigation had uncovered sufficient evidence relating to allegations of sexual exploitation and religious coercion.
+
+The court nevertheless granted Khan bail on a personal bond of Rs 75,000 along with one solvent surety of the same amount.
+
+The case forms part of a wider probe being conducted by a Special Investigation Team (SIT) of the Nashik Police into nine FIRs involving allegations of sexual exploitation, attempted forced religious conversion, hurting religious sentiments, molestation and mental harassment of women employees at the TCS unit in Nashik.
+
+The Deolali Camp police case, in which Khan has been chargesheeted, has been registered under provisions of the Bharatiya Nyaya Sanhita relating to sexual intercourse by deceitful means, sexual harassment and outraging religious feelings. The accused have also been booked under relevant provisions of the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, as the complainant belongs to the Dalit community.
+
+Following the allegations, TCS had said it follows a zero-tolerance policy towards harassment and coercion in any form, and confirmed that employees accused in the Nashik sexual harassment case had been suspended pending investigation.
+
+\- Ends
+
+Sahil Sinha
+
+Jul 10, 2026 09:30 IST
+
+---
+
+### Shillong Teer Result Today, July 10, 2026: First And Second Round Winning Numbers
+*Nibandh Vinod · general*
+
+Shillong Teer Result Today: Check the latest winning numbers for Shillong Teer, Juwai Teer, Khanapara Teer, Shillong Morning Teer and Night Teer for July 10, 2026.
+
+[Read full article](https://www.news18.com/india/shillong-teer-result-today-july-10-2026-winning-numbers-10200703.html)
+
+---
+
+### Delhi Weather Today: Trees Uprooted, Roads Waterlogged Amid Monsoon Fury, IMD Sounds Orange Alert
+*Anushka Vats · general*
+
+Delhi Weather Today: Waterlogging was reported in Vikas Marg, East Delhi, Sangam Vihar, New Delhi Railway Station area, Munirka, Sadar Bazar, Alipur, Burari, Badarpur and Dwarka.
+
+[Read full article](https://www.news18.com/india/delhi-weather-today-trees-uprooted-roads-waterlogged-amid-monsoon-fury-imd-sounds-orange-alert-10202668.html)
+
+---
+
+### ONGC approves strategic oil reserve expansion after Iran war exposes risks
+*Business Standard · business, entrepreneur, finance*
+
+The ONGC board gave the green light to add 1.75 million tons of capacity in Mangalore, Karnataka, to national crude reserves, according to a filing
+
+[Read full article](https://www.business-standard.com/economy/news/ongc-approves-strategic-oil-reserve-expansion-after-iran-war-exposes-risks-126071000187_1.html)
+
+
+---
+
 ## 9 July 2026
 
 ### US strikes 90 Iran targets as Tehran retaliates across Gulf
