@@ -1,8 +1,114 @@
 # Editorials
 
-_Last updated: 2026-07-10 05:39 UTC_
+_Last updated: 2026-07-11 04:43 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 11 July 2026
+
+### Fix the house: On social media, social media access
+*The Hindu · Editorial*
+
+The more wicked the problem, the more the people yearn for a simpler solution. This tendency has complicated the public debate on how and how much social media harm teenagers. While the idea that these platforms were stoking a mental health crisis prevailed in several countries for long, researchers have now adopted a more cautious stance. Social media use and mental health are clearly associated — more so among girls — but how much of that is actually causal and in what circumstances is still being debated. Recently, Prime Minister Narendra Modi spoke favourably of Australia’s decision, in 2024, to ban social media access for those aged 16 and below. His words augur a similar ban in India, one that Andhra Pradesh and Karnataka have publicly mulled as well. However, Australian psychologists, digital health researchers, child-rights scholars, and online safety experts have criticised the ban because, while there is a credible body of evidence linking social media use and harm among children, evidence of a link between an age-based access ban and better mental health has been lacking. In the absence of a real-world precedent, Australia has effectively been conducting a natural experiment. And research has estimated that around 85% of 12-16-year-olds still use social media platforms.
+
+While some psychologists and advocacy groups have argued that waiting for perfect evidence to act would recreate the mistake governments made with tobacco, many experts believe that the state should drop the ban and instead adopt a stronger duty of care, include digital literacy in school education, restrict addictive user interfaces/experiences, mandate a chronological feed for minors, enforce stronger content moderation, improve privacy protections, and introduce effective parental controls. Most studies of adolescent harm due to social media have also been observational and thus susceptible to reverse causation (depressed teenagers may spend more time online) and smaller average effects; experts have also noted that hours per day is less explanatory than passive versus active engagement, participation in supportive versus hostile communities, and so on. Indeed, while social media use can disrupt sleep and increase exposure to cyber-bullying, addictive recommendation patterns, and content about self-harm and eating disorders, it can also help maintain friendships and explore one’s identity, offer peer support, and increase access to LGBTQIA+ communities and mental health information. The overall picture is mixed and the solutions are not simple. However, the first step could be: rather than regulate ‘who may enter’, governments should change how platforms operate.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/fix-the-house-on-social-media-social-media-access/article71206737.ece)
+
+---
+
+### Terrorism’s data retreat hides emerging global threats
+*The Hindu · Opinion*
+
+At first glance, the macroeconomic indicators of global security offer a rare moment of statistical comfort. Recent reports suggest that global terrorism experienced a noteworthy decline in 2025, with fatalities around the world falling to 5,582 across 2,944 recorded incidents — representing a 28% drop in deaths and a 22% reduction in overall attacks. With as many as 81 nations registering measurable improvements in their domestic security landscapes, a superficial reading of the data might suggest that the international community is finally turning the tide against terror, or as the strategists prefer to call it, asymmetric warfare.
+
+Beyond statistical comfortYet, there lies a far more unsettling reality: the world is not necessarily becoming safer; it is becoming unevenly unsafe. The aggregate reduction in violence masks a profound structural mutation in how terror operates, where it thrives, and how we, as a global society, perceive it.
+
+It raises a haunting philosophical and strategic question: have we begun to subconsciously accept terrorism not as a horrific aberration to be entirely eradicated, but as a “normal” tax on modern civilisation?
+
+There is an insidious trap in treating aggregate declines as a triumph. When violence becomes highly concentrated, it risks becoming invisible to the global conscience. The data show that nearly 70% of all terrorism-related deaths are now compressed into five countries: Pakistan, Burkina Faso, Nigeria, Niger, and the Democratic Republic of the Congo. Sub-Saharan Africa, particularly the volatile Sahel region, alone accounts for over half of all global fatalities.
+
+Because the vast majority of this devastation occurs within these specific, vulnerable geographies, the wealthier and more stable quarters of the world are prone to a dangerous complacency. When terrorism is confined to nations already beset by chronic systemic fragility, the international community tends to relegate it to background noise — a tragic feature of post-colonial states.
+
+This regional containment fosters a false sense of security. Not every terror incident is a Pahalgam: organised, ruthlessly planned and flawlessly executed. The rise of decentralised, transnational, and rapid digital recruitment has facilitated lone-actor attacks in many countries. When the methodology of terror shifts from massive, complex operations to low-tech, high-impact individual strikes incited on online echo-chambers, the threat becomes an internalised, ambient hazard of modern pluralistic societies. By treating these as an unavoidable operational hazard of the 21st century, we risk normalising the unacceptable.
+
+Reaction to preventionTo prevent terrorism from metastasising further, counter-terrorism strategy must move away from reactive responses and toward addressing the structural ecology of extremist violence. There are two critical arenas where this intervention must take place: the blurring line between state conflict and terrorism, and the specific vulnerability of international frontiers.
+
+First, the data establishes an overwhelming correlation between political instability and violent extremism: an estimated 99% of all terrorism-related deaths occur in nations already entangled in armed conflict. Terrorism is rarely an isolated phenomenon generated in a vacuum; it is the ultimate by-product of institutional or diplomatic collapse. Where state capacity is hollowed out, extremist groups swiftly step into the vacuum, offering alternative forms of primitive security, or ideological certainty to disillusioned populations.
+
+Second, the geography of modern terror has become distinctly granular. Over 60% of attacks now take place within 100 kilometres of international borders. These frontier zones, frequently neglected (or weaponised) by central governments, offer ideal operational sanctuaries. In these porous margins, terrorist syndicates manage cross-border movements, establish illicit supply lines, and conduct recruitment enabled or unhindered by state authority.
+
+Curbing this threat requires an intentional re-investment in state capacity, development and border sovereignty. If central authorities continue to treat borderlands as secondary priorities, they leave the door open for non-state actors to entrench themselves. Furthermore, development assistance must be strategically aligned with security imperatives, treating the reinforcement of judicial systems, localised policing, and basic administrative services as the primary bulwarks against extremist encroachment.
+
+Whether the statistical downward trend recorded in 2025 will endure remains an open and highly precarious question. The contemporary security landscape is caught in a tug-of-war between institutional stabilisation efforts and powerful destabilising catalysts.
+
+The constriction of violent extremism to a smaller pool of actors — specifically the five dominant networks (Islamic State, Jama’at Nusrat Al-Islam wal Muslimeen (JNIM), Tehrik-e-Taliban Pakistan (TTP), Lashkar-e-Taiba and al-Shabaab) — means that counter-terrorism forces can achieve maximum impact through highly focused intelligence and interdiction efforts. As the threat becomes more localised and frontier-centric, multinational intelligence apparatuses must become equally agile, disrupting cross-border logistics before they can scale into wider insurgencies. Tech platforms and state regulatory bodies must continue to refine their capabilities to detect and dismantle decentralised digital radicalisation pipelines before they can catalyse lone-actor violence.
+
+However, the headwinds militating against a sustained decline are formidable. The ongoing conflicts in West Asia threaten to completely reverse recent global gains. Prolonged warfare, mass displacement, and the systematic erosion of state institutions create a uniquely fertile breeding ground for extremist resurgence in 2026 and beyond. The persistence of major geopolitical conflicts, including India-Pakistan, lowers the barriers to entry for new, fragmented radical actors, further complicating the global threat matrix.
+
+Furthermore, even within the current downward trend, the stark resilience and adaptability of organisations such as the TTP — which bucked the general decline by increasing its attacks — serve as a potent warning. Modern terrorist organisations are highly adaptive entities. When squeezed globally, they fragment, localise, and embed themselves within pre-existing domestic ethnic or political grievances, making them extraordinarily difficult to curb.
+
+The complacency trapThe ultimate lesson of the contemporary security paradigm is that terrorism is not receding; it is simply reorganising. The international community cannot afford to be lulled into a state of complacency by declining aggregates; it is simultaneously confronting a far more complex, resilient, and adaptive adversary.
+
+For nations such as India, navigating an immediate strategic environment surrounded by highly volatile neighbourhoods and cross-border security challenges, these transformations require a continuous, sophisticated recalibration of both domestic and regional counter-terrorism doctrines. We must not surrender the moral and strategic clarity required to defeat it. The numbers may be falling, but the structural risks are not. True security will not be achieved by celebrating statistical lulls, but by relentlessly dismantling the fault lines of conflict, governance failures, and digital radicalisation that allow the ideology of terror to survive.
+
+Shashi Tharoor is the fourth-term Member of Parliament (Lok Sabha) for Thiruvananthapuram (Congress party), the Chairman of the Parliamentary Standing Committee on External Affairs and the Sahitya Akademi Award-winning author of 29 books, including Pax Indica: India and the World of the 21st Century
+
+[Read full article](https://www.thehindu.com/opinion/lead/terrorisms-data-retreat-hides-emerging-global-threats/article71207512.ece)
+
+---
+
+### A generation at climate risk
+*Deccan Herald · Editorial*
+
+UNICEF’s Children’s Climate Risk Report 2026, released recently, carries a stark warning about the growing impact of climate change on children, with India figuring among the most vulnerable regions. The report estimates that 1.1 billion children – nearly half the world’s child population – are exposed to at least three overlapping climate hazards: drought, extreme heat, and heatwaves. It emphasises the fallout on children’s health, education, and survival. No child is entirely free from climate risk, while around four million of them face as many as six climate-related threats. These primary threats are compounded by secondary impacts, including air pollution and vector-borne diseases. UNICEF has mapped these risks in detail, providing a template for governments to design child-centric climate frameworks. It has called for strategies to improve education, healthcare, sanitation, and other essential infrastructure to help children withstand the impact of climate change. The report also underscores the need to integrate child-critical social services into national adaptation plans.
+
+Children in India are significantly impacted, with nearly every child exposed to at least one climate hazard. Alarmingly, 97% face two or more risks, while 55% – over 234 million children – confront three or more such risks. These statistics need to be seen in a larger context for what they represent as real-world consequences: widespread malnutrition, disease, disrupted schooling, and denied development opportunities. Climate manifestations such as droughts, extreme heat, floods, and storms devastate agriculture, livelihoods, and broader economic stability. As society’s most vulnerable members, children suffer the heaviest toll during environmental crises. Although public rhetoric claims that the safety and welfare of women and children receive top priority during disasters, actual practice tells a different story.
+
+In 2024, climate-related disruptions affected nearly 54 million students in India. India’s massive child population may have contributed to this statistic, but it still highlights a failure to shield children from such events. Climate change affects societies differently, with social inequalities considerably influencing the outcomes. The UNICEF report notes that 40% of children in the country experience food poverty, and almost half of those aged under 15 years lack access to social security programmes. Despite years of warnings regarding these environmental impacts, effective action has remained elusive. The report is yet another call for the world, and India, to step up with informed policies that keep pace with the evolving crisis. Systemic interventions to safeguard the youngest – and most vulnerable – citizens must be integral to the country’s climate strategy.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/a-generation-at-climate-risk-4069595)
+
+---
+
+### Who is watching our crèches?
+*Deccan Herald · Opinion*
+
+The videos are agonising to watch. Toddlers locked inside dark bathrooms; water sprayed into their faces with toilet jets; a crying child placed inside the drum of a washing machine.
+
+This did not happen in some neglected corner of the informal economy. It occurred at a crèche located within the Bengaluru campus of a leading multinational company, a facility promoted as a benefit for working parents. Five caregivers have reportedly been booked under the Juvenile Justice Act, two have been arrested, and the employee who first raised concerns about the abuse is reported to have lost her job.
+
+This event becomes even more disturbing when viewed through the lens of developmental science. During the first three years of life, a child’s brain develops at a pace that is never again repeated. Early brain development depends on what scientists call “serve-and-return” interactions: a child cries, gestures, babbles or seeks comfort, and a responsive adult responds. These seemingly ordinary interactions build the foundations of trust, language, learning, emotional security, and self-regulation.
+
+What the children in the Bengaluru videos experienced was the opposite. A toddler locked in a bathroom is not simply being disciplined. A toddler placed inside a washing machine drum is not merely being frightened. These are experiences that can leave deep developmental scars long after visible bruises have disappeared. When a child experiences prolonged, unbuffered stress in the absence of supportive caregiving, research in neuroscience on early brain development describes this as toxic stress. Over time, such experiences can disrupt healthy brain development, impair emotional regulation, and increase vulnerability to later learning, emotional responses and mental health.
+
+Examining the law to protect children from physical abuse and violence, the Juvenile Justice Act rightly treats cruelty towards children as a serious crime. Section 75 of the Act provides stringent punishment for physical or mental abuse by those entrusted with a child’s care. Alongside Section 75, police also invoked Section 351 of the Bharatiya Nyaya Sanhita (BNS) for criminal intimidation. Yet punishment alone cannot be the foundation of a child protection system. The real question is why the abuse occurred in the first place.
+
+The Bengaluru incident is not merely about a few abusive caregivers. It exposes a much deeper problem: the absence of a robust childcare safety system in a country where millions of parents increasingly depend on day-care centres and crèches. Across urban India, employer-supported childcare is often presented as evidence of progressive workplaces and support for women’s participation in the workforce. Yet many organisations continue to treat childcare as a service that can simply be outsourced and forgotten. Professionalising this workforce is the single most effective lever for change.
+
+While Anganwadi centres under the Ministry of Women and Child Development, which, as per official figures, serve about 7-8 crore children under six years of age, face numerous resource constraints, they nevertheless operate within a recognised framework of training, supervision, and programme standards. In contrast, many private childcare facilities continue to function within a fragmented and weakly regulated environment. The standards expected of those caring for our youngest children vary enormously depending on where a child happens to be enrolled.
+
+India has invested remarkably little in creating a professional childcare workforce for infants and toddlers under 3. Caring for very young children continues to be viewed as low-skilled work, despite overwhelming scientific evidence that the early years are among the most consequential periods of human development. A certified early childhood caregiver understands developmental milestones, emotional regulation and responsive caregiving, recognises the difference between manageable frustration and deep distress, and is equipped with non-punitive strategies. Leaving infants in the custody of uncertified workers is an act of systemic negligence. Would we ever permit an untrained individual to administer medicines in a hospital?
+
+From guidelines to enforcement
+
+The Bengaluru case should compel corporate India to reset its systems. Vendor contracts cannot become liability shields to hide behind that paperwork to avoid real-world accountability.
+
+It is worth noting that India still lacks a robust national licensing and inspection regime for private crèches comparable to systems in countries like the United Kingdom’s Ofsted (Office for Standards in Education, Children’s Services and Skills) or Australia’s ACECQA (Australian Children’s Education and Care Quality Authority). Many experts argue that registration, periodic inspections, CCTV governance, staff qualification standards, child-staff ratios, and safeguarding audits should be legally mandated rather than remaining largely guideline-based.
+
+India needs a comprehensive regulatory framework for private and corporate crèches that goes far beyond basic commercial registration requirements. Every childcare facility should be subject to licensing, minimum staffing standards, caregiver qualification requirements, have safety SoPs, regular independent inspections, and transparent grievance mechanisms. Parents must have meaningful rights to information and oversight. Corporations hosting childcare facilities must remain legally accountable for the safety and well-being of the children entrusted to those facilities, irrespective of outsourcing arrangements.
+
+The National Minimum Standards and Protocol for Crèches (2024) provides operational standards for all crèche providers, but it lacks a robust regulatory architecture or mandated legal provisions for child protection to ensure strict enforcement across childcare centres.
+
+The children in those recordings could not report their trauma, challenge their abusers or ask for help in words. They depended entirely on the adults around them, and on the systems behind those adults to keep them safe. Both failed. The question now is whether policymakers, regulatory authorities, and corporate leaders will finally build the safeguards that children deserve, or whether we will simply wait for the next video to go viral.
+
+(The writer is a retired professor, University of Delhi, and founder of a
+
+multidisciplinary organisation involved in early childhood care and education)
+
+[Read full article](https://www.deccanherald.com/opinion/who-is-watching-our-creches-4069597)
+
+---
 
 ## 10 July 2026
 
@@ -25,6 +131,17 @@ It took only 20 days for the U.S.-Iran memorandum of understanding (MoU), which 
 Iran fears that the U.S. is trying to strip away the leverage it established over the Strait during the war by promoting an alternative route. The U.S. does not want Iran to emerge as the sole custodian of a strategic waterway. These conflicting positions trigger skirmishes, further undermining the MoU. What Mr. Trump, who senses strategic defeat, is trying to do is to mount economic and military pressure on Tehran to change its position on the Strait. He can continue his air campaign, but his years-long maximum pressure and 40 days of bombing have done little to alter Iran’s negotiating positions. If he returns to war over Hormuz, Iran’s stance on its nuclear programme — still unaddressed — would only get hardened. If war resumes, it would be bad news for the whole West Asia region and the entire global economy. Mr. Trump is at a strategic dead end, and instead of digging deeper, should stick to his way-out road map — the MoU. An obstacle in the peace process is the complete absence of trust. Mr. Trump’s public tirades and abuses against Iran’s leadership and hyperbolic threats, which are detached from ground realities, are not helping his cause. Equally, if Iran continues targeting commercial vessels, it risks being seen as an aggressor rather than a victim. Both sides should address the trust deficit, resolve the sticking points in the MoU and begin serious talks about the outstanding issues for a final settlement.
 
 [Read full article](https://www.thehindu.com/opinion/editorial/far-from-over-on-the-us-iran-conflict/article71202807.ece)
+
+---
+
+### Over and above: On the All India Survey on Higher Education data
+*The Hindu · Editorial*
+
+With more Indian women entering university campuses, the gender gap in college classrooms has narrowed. The latest All India Survey on Higher Education (AISHE) data for 2023-24 reveal that absolute female enrolment rose by 42% over the past decade, climbing from 1.57 crore in 2014-15 to 2.24 crore. In comparison, male enrolment grew from 1.85 crore to 2.26 crore during the same period. Women have comfortably surpassed the male growth rate of 22.16%, pushing total higher education enrolment to a record 4.5 crore. They now account for nearly half (49.7%) of all students in Indian universities and colleges. With a Gender Parity Index of 1.08, 108 young women now enter higher education for every 100 men. This marks a hard-won victory, especially for marginalised communities, where female enrolment among Scheduled Castes and Scheduled Tribes rose by 51.4% and 75.7%, respectively. Yet, a deeper look at the data demands caution. High enrolment numbers are a superficial veneer if the pipeline of employment opportunities beyond the college gate remains broken. While women make up 44% of STEM students, this number is heavily skewed toward the “S” (general sciences such as biology and chemistry), where they hold a 54.6% majority. In contrast, engineering and technology remain male-dominated, with women making up just 31.1% of enrolment. By clustering in traditional sciences, women are isolated from the future-proof economic drivers of artificial intelligence and software engineering.
+
+Educational institutions remain largely patriarchal. While the student body reflects a 50-50 split, there are only 82 female teachers for every 100 male teachers. Women remain absent from top-tier leadership roles. Further, the influx of students has coincided with an explosion of private and low-tier colleges, which face acute faculty shortages and poor infrastructure. India also faces a disconnect between higher education and the formal job market. The Female Labor Force Participation Rate remains low due to societal expectations, domestic responsibilities, and safety barriers. According to the 2025 PLFS report, men dominate the regular salaried workforce (26.5% versus 18.2%) and earn more. Average monthly earnings stand at ₹24,217 for men, compared with ₹18,353 for women. While 64.2% of women are classified as self-employed, this categorisation is vague and the statistic often includes unpaid household or farm labour, failing to show where women students go after they exit lecture halls. As 2.24 crore young women claim their place on campuses, the burden shifts to policymakers, institutional heads, and industry leaders to ensure that these women stay on in fruitful paid employment aligned with their degrees.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/over-and-above-on-the-all-india-survey-on-higher-education-data/article71206768.ece)
 
 ---
 
@@ -65,6 +182,29 @@ Gautam Mukhopadhaya is a former Ambassador of India to Myanmar, Afghanistan and 
 
 ---
 
+### DC Edit | J&K: Halt Libraries’ Crackdown
+*Deccan Chronicle · Editorial*
+
+The Jammu and Kashmir administration’s territory wide campaign to screen and purge “objectionable” books marks a profound and troubling shift. It is one thing for a government to decide what textbooks align with its educational vision. It is quite another to raid bookstores, blacklist authors, confiscate publications and police every shelf in every school and coaching centre. This is not curriculum oversight. It is state driven narrative control.
+
+The trigger was the discovery of allegedly separatist linked content in two school library books — Personalities and Legends of J&K and Great Personalities of Jammu and Kashmir. These titles referred to Jammu and Kashmir as “India occupied Kashmir” and described pro independence leader Muhammad Maqbool Bhat as “Shaheed e Azam” or great martyr.
+
+Bhat, co founder of the Jammu Kashmir National Liberation Front (JKNLF), a militant organisation advocating the reunification of J&K as an independent state, was hanged in Delhi’s Tihar Jail on Feb. 11, 1984 after being convicted on murder charges. Over time, he came to be seen as a foundational figure in the violent separatist movement that gripped the region for more than three decades.
+
+Glorifying him as a martyr undeniably contradicts India’s stance. But the administration’s response — suspending officials, blacklisting authors, withdrawing all their works, launching criminal investigations and ordering a territory wide sweep of every book in every institution — goes far beyond correcting a procurement lapse.
+
+That is part of a broader pattern. In 2025, the government banned 25 books by respected scholars, journalists and historians — from A.G. Noorani, Arundhati Roy, Sumantra Bose, Victoria Schofield, David Devadas and Anuradha Bhasin to Piotr Balcerowicz and others — alleging they promoted “false narratives” and “glorified terrorism”. Critics countered that these were rigorously researched works offering critical political analysis, not propaganda.
+
+The new directive, therefore, intensifies that fear. Schools must now eliminate anything “prejudicial”, “age inappropriate” or “contrary to national interest” — elastic categories easily stretched to fit any inconvenient fact. Police raids on bookstores make the message unmistakable: Only one version of Kashmir’s story is now permissible.
+
+Kashmir’s history — its conflicts, aspirations, traumas and political movements — cannot be erased by administrative order. Memory lives in people, not just pages.
+
+Article 19(1)(a) of the Indian Constitution protects the freedom of speech and expression. The current campaign in J&K undermines that guarantee, replacing dialogue with decree.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-jk-halt-libraries-crackdown-1969955)
+
+---
+
 ### DC Edit | Nijjar Face-saver Holds Lessons
 *Deccan Chronicle · Editorial*
 
@@ -75,6 +215,27 @@ The Nijjar murder had undoubtedly put pressure on the then government of Justin 
 The US decision is an acknowledgment of India’s response to the Canadian charge as “absurd and motivated” but India must admit that it exposes unacceptable gaps in the administration of criminal justice in this country. All those who are responsible for a situation where a person lodged in high security prisons after being charged under anti-terror and anti-organised crime laws and their associates can operate at will in India and abroad must be brought to book. US action may make India feel like it has scored a point in its quarrel with Canada but that cannot be a reason for complacency; it must be taken as an eye-opener instead.
 
 [Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-nijjar-face-saver-holds-lessons-1969720)
+
+---
+
+### DC Edit | Uranium Deal Icing On Cake Of Modi’s Visit To Australia
+*Deccan Chronicle · Editorial*
+
+Securing an agreement for supply of Australian uranium to fuel India’s nuclear power programme was Prime Minister Narendra Modi’s prize catch on his eastern trip to the Antipodes. The landmark deal should open the way to give a new impetus to India’s clean energy objectives, the plans for which have either lain dormant or moved at snail’s pace for over the 12 years since India and Australia had agreed in 2014 on a civil nuclear cooperation pact.
+
+Australia’s preparedness to get its miners to enhance their operations to fulfil India’s large order for nuclear fuel to energise its green ambitions as well as steer away from fossil fuels a little more drastically because of current uncertainties over crude oil supplies and their carbon footprint also sends a message to the world on India as a reliable user of uranium for peaceful purposes.
+
+The ground realities changed in the years since 2014 as the regulations over culpability and compensation in the event of a nuclear accident were altered in the ‘Shanti Act’ of 2025, limiting liabilities to international standards. In those 12 years, much may have been said about selling nuclear fuel but the uranium never came from Down Under. Against a planned nuclear power generation of 100GW by 2047 (22.5GW by 2032), India’s current installed capacity is just 8.8GW from 25 plants that generate only around three per cent of the nation’s power consumption.
+
+As Australian Prime Minister Antony Albanese pointed out, the pre-2014 bilateral ties — and perhaps the ties in the last 12 years — were “underdone” and it is only now that India appears to have moved up the international order to be considered a crucial strategic partner, if not quite an ally though both countries are fellow members in Quad. The nuclear deal caps this new effort to further ties and take the bilateral aspects further regardless of divergent views on China, the country that is invariably the elephant in the room at every major diplomatic meeting.
+
+As Prime Minister Modi vibrantly pointed out, the Indo-Pacific is not just the confluence of two great oceans, it also symbolises shared concerns over maritime security in view of the current geostrategic fears and suspicions. An array of pacts with Indonesia as well as Australia are set to operationalise closer cooperation in maritime matters in which India’s role as a facilitator and coordinator of data sharing has been rising.
+
+The other great worry emanating from recent geopolitical shifts in the wake of US trade moves has been in the field of critical minerals and India’s search for reliable supply chains is spurred by events after China clamped up supplies. And Australia may be well placed with the capacity to supply many materials from its Critical Minerals List. With the nations kicking on towards a fuller ECTA by building on the interim deal of 2022, India may also be hoping to reduce the trade deficit with Australia.
+
+With investments to begin flowing in — an Australian pension fund is taking a $346 million punt on India’s infrastructure fund and New Zealand mulls earmarking an ambitious $20 billion — the importance of pitching India internationally is stressed. Prime ministerial visits carry a lot more significance than the civilian awards that Mr Modi is adorned with but which are a recognition of India’s global heft today.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-uranium-deal-icing-on-cake-of-modis-visit-to-australia-1969945)
 
 ---
 
@@ -172,6 +333,104 @@ Governments love talking about transparency, digital governance and ease of doin
 Suspending officers after they’re arrested is the easy part. The difficult part is fixing an administration where accountability often begins only after the CBI arrives. The real scandal isn’t that corruption allegedly happened. Sadly, India has seen that before. The real scandal is that it appears to have flourished inside a system built to prevent exactly this sort of abuse. That’s the lesson Haryana cannot afford to ignore.
 
 [Read full article](https://www.deccanchronicle.com/opinion/columnists/dilip-cherian-the-invisible-hand-of-the-bureaucrat-in-indias-pvt-banks-1969742)
+
+---
+
+### OF CABBAGES AND KINGS | Perils Of Being ‘Cancelled’… The Twisted Saga Of My Jinnah Play! | Farrukh Dhondy
+*Deccan Chronicle · Opinion*
+
+“The magpie’s cry goes clackety-clack --
+
+It says she’s gone and won’t come back…
+
+Why personify the cry of a bird?
+
+The notes or the sentiment overheard?
+
+The magpie knows nothing of your loss…
+
+And even if it did, it wouldn’t give a toss.”
+
+From Flutter Gutter Verses, by Bachchoo
+
+Unlike some distinguished writers – such as J.K. Rowling -- and several academics, I have never experienced “being cancelled”. This is the contemporary practice of being refused a platform to which one was formerly invited, owing to protests from people and lobbies who don’t like your opinions.
+
+So, JK has been denied a hearing and banned from several platforms because she believes that humans are assigned a gender at birth through their chromosomes and through formation of their sexual organs and secondary gender manifestations.
+
+These bans and cancellations make me wonder if my opinions, which I express in these columns, in others and in my books and speeches from various platforms, are innocuous and not worth bothering about? Perhaps in my short and happy life, though I have acquired the description of being “radical”, I have never sufficiently offended any vociferous lobby.
+
+Luck? Caution? Fence-sitting? (I plead not-guilty, m’lud!)
+
+Not for my opinions, but for my very existence, I have indeed suffered some bans or omissions.
+
+I suppose the first one that comes to mind was when, in the wake of Richard Attenborough’s Gandhi, I was approached by two Pakistanis -- the distinguished director Jamil Dehlavi and a contemporary from Cambridge, Akbar Ahmad, proposing that I write a film on Jinnah.
+
+I said I was out of sympathy with Jinnah for splitting the sub-continent. They said my Indo-nationalist view probably didn’t take in all the facts that caused the fragmentation of British India. They urged me to read Stanley Wolpert’s biography of Jinnah. I did.
+
+Akbar, as producer of the tentative project, had offered me a decent sum of money if I would write the film. And yes, gentle reader, after reading two or three biographies of the Quaid-e-Azam, I understood the complexities that led to “Partition” and told Jamil and Akbar that I would write a script as I conceived it. They agreed and I did.
+
+When I handed in the completed screenplay, Akbar said to me: “That’s great, we’ll start production soon, but Farrukh, you won’t get a credit on screen as the writer!”
+
+I was about to say “pour the hell qua non?” but instead simply asked why.
+
+“Because the film is being financed by Pakistani capitalists who would not support the production if the screenplay was by a non-Muslim Parsi of Indian origin, resident in Britain with a reputation for Marxist views and radical ‘socialistic’ activity.”
+
+“And you are to promise to never claim to have written the film,” Akbar said, “and I want to increase your fee by a thousand pounds”.
+
+Gentle reader, being of a modest (and acquisitive?) disposition, could I refuse?
+
+The film went into production with Christopher Lee, famous for playing Dracula, as the mature Jinnah, and Shashi Kapoor as the angel Jibrail who questions Jinnah in heaven (yes, one of the opening scenes!).
+
+The film was a success in Pakistan -- so much so that General Pervez Musharraf, who was hen in charge, appointed Akbar Ahmad as Pakistan’s high commissioner to Britain.
+
+Then came the unravelling. Jamil and Akbar fell out, with Jamil accusing Akbar of inflating the budget and carrying away extremely large sums of money by pretending they were paid to (non-existent) “script consultants” and other such fabrications.
+
+Jamil blew the gaff, and journalists then called me to ask if I had written the script. I, sticking to my promise, said “no comment”, or the equivalent. Then Seamus Milne, a Guardian journalist, showed me a document which said that I sold the script of Jinnah to Akbar Ahmad for “£1”. It had my signature.
+
+So, he said either I did write Jinnah, or I was accusing the high commissioner of Pakistan of forging my signature. I said I wasn’t accusing Akbar of forging my signature.
+
+“So, you did write Jinnah,” says Seamus Milne.
+
+Out of the bag burst pussy. The UK and Pakistani papers picked up the story and when they called me, I told them that if Gen. Musharraf was handing out diplomatic posts for writing Jinnah, I would be quite happy to be Pakistan’s ambassador to Tahiti and will look after Pakistan’s interests after I’ve looked after some of my own. It was a joke! Dawn printed it.
+
+I subsequently met General (no longer supremo) and Mrs Musharraf at a friend’s party and Mrs Musharraf asked me why my name was not on the film. I told her, and she, and the general, who was listening, said words to the effect of “that’s absurd!”
+
+So, to the latest of such reverses:
+
+I’ve written a play called Karna: Warrior of The Sun, based on the Mahabharata.
+
+My good friend, a producer, proposed to stage it in India in partnership with the National School of Drama. Great!
+
+He subsequently informs me that one of the members of the governing body of...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/of-cabbages-and-kings-perils-of-being-cancelled-the-twisted-saga-of-my-jinnah-play-farrukh-dhondy-1969968)
+
+---
+
+### Shobhaa De | Did Fadnavis Fiddle While Mumbai Nearly Drowned?
+*Deccan Chronicle · Opinion*
+
+“Rain… rain… go away… Little Donald wants to play…” While Mumbai drowned, the rest of the world stayed afloat, and in particular Big Bully Donald Trump, who tossed away any thoughts about a peace deal with Iran by declaring it was “over”.
+
+Closer to home, Mumbai just about managed to keep its head above water. Without writing another whiney column about the “multiple organ failures” of the BMC (Brihanmumbai Municipal Corporation), which is the primary civic body responsible for the civic infrastructure and day-to-day administration of Mumbai, and also happens to be India’s richest civic body, I do need to vent. When a megapolis virtually shuts down for two
+
+to three days, it is not just unacceptable but borders on the criminal.
+
+A crime minus any punishment. Year after year, Mumbai comes to a standstill because of an annual event -- the devastating monsoon. Note: This is an annual event. Not something that takes Mumbai by surprise. The Mumbai Monsoon is not an ambush. It is not a sneaky stealth attack that catches the city off guard. It is a closely tracked weather pattern. A known beast. “A Hungry Tide”, that sweeps over a city with due warning. Year after year. Despite its predictability and well-established savage behaviour, the lack of preparedness by the civic authorities is nothing short of vicious negligence. It is a wonder, in a city that boasts of the country’s top legal brains, nobody has taken the authorities to court on behalf of citizens. When things get desperate, we invoke the mysterious “Spirit of Mumbai”. Mumbaikars are expected to miraculously rise to the occasion with zero help, and even less responsibility, from those civic bosses and politicians sitting pretty in their homes and offices, offering lame excuses for all the disasters inflicted on sitting ducks -- ordinary citizens.
+
+To add insult to injury, just as Mumbai was staggering back to life, the ineffective and weak Maharashtra government has announced a Rs 13,000-crore “flood plan”. Maharashtra chief minister Devendra Fadnavis rolled out the plan in the state Legislative Assembly -- and nobody laughed! The BMC is currently hanging on to a staggering Rs 78,000 crores in FDs: which is taxpayers’ money.
+
+What is it doing lying around in FDs when there is a dire need to disburse funds right now and rescue Mumbai before some more disasters and deaths occur? Let’s not even talk about The Missing Link – which is CM Fadnavis’s biggest folly. A folly that exposed the worst in our system. The much-touted “Missing Link” (what a strange name!) collapsed before it had even taken off. The “engineering marvel”, built at a cost of Rs 6,695 crores and described as a “feat”, the bypass with two major tunnels connecting Mumbai and Pune, was inaugurated only on May 1, 2026! It is already being described as a gigantic embarrassment … an expensive “link” that is missing! Had it not been for the alertness of a 24-year-old young man named Sandesh Kharat, who, thanks to his presence of mind, pressed an emergency SOS button near the exit of tunnel number 2, when he and his friends witnessed a landslide from a distance of 200 metres. The control room in Pune swung into action. But even before that, the young men stopped approaching vehicles and warned motorists about the landslide. They deserve recognition and gratitude. But hey… that does not absolve the administration from taking full responsibility, owning up and explaining where that money was spent -- who pocketed how much. Rampant corruption in high places has paralysed Mumbai for decades… But the worm is ready to turn!
+
+Despite the downpour that converted Mumbai into a filthy, dangerous swamp, there was reason to cheer -- two high-profile celebrity shaadis were celebrated with the expected dhoom dhaam -- nothing was allowed to dampen the spirits of Bollywood revellers. Mumbai loves its “Monsoon Weddings”, especially if those involve our movie folks. Aamir Khan, 61, lived up to his well-established reputation as a life-long, diehard non-conformist, by marrying for the third time, surrounded by his loving family (which includes two former wives and their children).
+
+The latest Khan wedding generated such a strong buzz on social media that for a few short, sweet hours we forgot all about our soggy, miserable, rain-soaked lives, and joined the party. Hurrah! Aamir set a new fashion trend for desi bridegrooms by wearing heavy anklets and a nose clip. Disappointingly, a beautiful “maang tikka”, sindoor and mangalsutra were missing from his attire.
+
+Not to worry. The wedding of Anshula marked the first marriage in Boney Kapoor’s family. It was celebrated with all the traditional trimmings associated with a boisterous Punjabi shaadi. Rohan Thakkar, the lucky bridegroom, was around. Of course. If fans cared to look for him, beyond the dazzling guests dancing energetically, while the rest of the city limped back to semi-normalcy.
+
+Hallelujah! At least one global person was home and dry even if the ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/shobhaa-de-did-fadnavis-fiddle-while-mumbai-nearly-drowned-1969978)
 
 ---
 
