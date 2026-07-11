@@ -1,3 +1,481 @@
+## 11 July 2026
+
+### 'Her Father Did Not Die Natural Death': Fresh Twist In Jaipur Murder Case As Uncle Seeks Probe
+*Aanchal Sinha · general*
+
+Rakesh alleged that Vijay Sharma, was seriously ill but was on the path to recovery when Ayushi allegedly stopped him from receiving proper medical treatment.
+
+[Read full article](https://www.news18.com/india/her-father-did-not-die-natural-death-fresh-twist-in-jaipur-murder-case-as-uncle-seeks-probe-ws-l-10204914.html)
+
+---
+
+### India, New Zealand Ties Get Major Upgrade: 8 Big Takeaways From PM Modi’s Historic Visit
+*Karishma Jain · general*
+
+From a Strategic Partnership and a new trade target to direct flight plans and agricultural cooperation, here's what emerged from PM Modi's first visit to New Zealand.
+
+[Read full article](https://www.news18.com/india/india-new-zealand-ties-get-major-upgrade-8-big-takeaways-from-pm-modis-historic-visit-ws-l-10204910.html)
+
+---
+
+### 1,000 missiles locked, loaded and aimed at Iran should they assassinate me: Trump
+*India Today World Desk · world*
+
+## US President Donald Trump, in his latest Truth Social post, issued a stark warning to Iran, claiming that "1,000 missiles are locked and loaded" and aimed at the country if Tehran attempts to assassinate him.
+
+US President Donald Trump on Saturday warned Iran of a massive military response if Tehran attempts to assassinate him.
+
+US President Donald Trump on Saturday said that the United States has pre-authorised an overwhelming military response against Iran if Tehran attempts to assassinate him, saying "1,000 missiles are locked and loaded" and aimed at the country.
+
+Trump, in a post on Truth Social, said he had already issued orders authorising a US military strike on Iran if Tehran acted on what he described as a longstanding threat against him.
+
+"One thousand missiles are locked and loaded and aimed at Iran, should it act on its threat to assassinate, or attempt to assassinate, a sitting President of the United States, in this case me," Trump wrote.
+
+He added that “thousands more” missiles would immediately follow any initial response and asserted that the US military had already received the necessary instructions and was prepared to execute them.
+
+"Orders have already been given, and the US military is ready, willing and able, for a one-year period of time, subject to extension, to completely decimate and destroy all areas of Iran," Trump said.
+
+The remarks echoed comments he made in an interview with the New York Post, where he said he had left standing instructions for an unprecedented military response if he were assassinated.
+
+"I've been on their list for a long time. That's what we're dealing with," Trump told the newspaper. "The only thing is, I've left instructions, if anything happens, to just literally bomb them at levels that they've never seen before."
+
+Trump said there was no fresh intelligence indicating an imminent assassination plot, dismissing reports that Israel had uncovered new information about an alleged Iranian plan targeting him.
+
+"No, no. Israel came up with nothing. I've been No. 1 on Iran's kill list for a long time, and it's the way life is," he said.
+
+Earlier this week, Trump also described himself as Iran's "number one target" while reiterating that Tehran must never be allowed to acquire nuclear weapons. He said he did not expect any future confrontation with Iran to turn into a prolonged conflict.
+
+Iran has repeatedly vowed revenge for the 2020 US drone strike ordered by Trump that killed top Iranian military commander Qasem Soleimani near Baghdad. US authorities have since disclosed multiple alleged Iran-linked assassination plots targeting Trump, although Tehran has denied involvement.
+
+Meanwhile, Trump said Iran had sought to resume talks with the United States but claimed Washington had informed Tehran that the ceasefire was over.
+
+In another Truth Social post, Trump wrote, "The Islamic Republic of Iran has asked us to continue talks. We have agreed to do so, but the United States has stated to them, in no uncertain terms, that the ceasefire is over."
+
+\- Ends
+
+Jul 11, 2026 09:01 IST
+
+---
+
+### India-New Zealand FTA to deepen ties, says Modi on historic Auckland visit
+*India Today World Desk · world*
+
+## Narendra Modi said the India-New Zealand free trade agreement will deepen economic ties and expand opportunities across sectors. The deal, unveiled during his first New Zealand visit in 40 years, also elevates bilateral relations to a strategic partnership.
+
+Prime Minister Narendra Modi on Saturday said the landmark India-New Zealand free trade agreement would add depth and dynamism to bilateral economic ties and create fresh opportunities in market access, investment, services, technology and talent mobility. Speaking to a select group of CEOs and business leaders, he said a stronger economic partnership between the two countries would benefit businesses, innovators and young people.
+
+Modi made the remarks shortly after wide-ranging talks with New Zealand Prime Minister Christopher Luxon, which produced 18 key outcomes, including the elevation of bilateral ties to a strategic partnership. He said the two countries' shared democratic values, diversity and commitment to sustainable development provided a strong base for an ambitious and forward-looking economic partnership.
+
+The prime minister said India and New Zealand had taken a historic decision to elevate their relationship to the level of strategic partnership. "Under this, we will move forward in every sector with clear goals and concrete outcomes," he said. He also described the free trade agreement as a "landmark" initiative that would deepen economic engagement between the two sides.
+
+Modi arrived in Auckland on Friday on the final leg of his three-nation tour, which has largely focused on expanding economic and security cooperation. It is the first visit to New Zealand by an Indian prime minister in 40 years and comes after the recent finalisation of the free trade agreement.
+
+Addressing the business leaders, Modi said India's sustained high growth, young and skilled workforce, expanding middle class, digital revolution, push for next-generation infrastructure and continuing economic reforms offered significant trade and investment opportunities for New Zealand companies. He said political stability and sustained growth had positioned India as a significant contributor to global growth.
+
+He invited New Zealand investors and business houses to partner with India in infrastructure development, civil aviation, logistics, clean energy, urban mobility, water management, waste management and the digital economy. Referring to India's start-up ecosystem, he called for closer engagement between the private sectors of both countries in innovation, fintech and emerging technologies.
+
+Modi said New Zealand's strengths in dairy science, horticulture and forestry, along with India's consumer market, food parks and agri-tech talent, should come together to build global food value chains. He also urged business leaders to expand investment and commercial partnerships and help achieve the target of doubling bilateral trade to NZD 7 billion, around Rs 35,000 crore, by 2030.
+
+The prime minister said the India-New Zealand economic partnership could become a model for inclusive and sustainable trade as well as a platform for innovation and prosperity, underlining the wider scope of the strategic partnership announced after his talks with Luxon.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Jul 11, 2026 09:00 IST
+
+---
+
+### Kerala Lottery Result Live: Karunya KR-761, July 11, 2026 Winners | News18
+*Nibandh Vinod · general*
+
+Kerala Lottery Result Today: Karunya KR-761 lottery result will be declared today, on Saturday, July 11. Check the live updates and full list of winning numbers from 3 pm.
+
+[Read full article](https://www.news18.com/india/kerala-lottery-result-today-karunya-kr-761-july-11-live-10203046.html)
+
+---
+
+### Why Are These Indian Airports Shutting Down? Here's What It Means For Your Next Trip
+*Parishmita Saikia · general*
+
+Visakhapatnam, Ludhiana, Pakyong and six airports in Uttar Pradesh are no longer operating as before. Here's why and the best alternatives
+
+[Read full article](https://www.news18.com/photogallery/cities/lucknow-news/why-are-these-indian-airports-shutting-down-heres-what-it-means-for-your-next-trip-ws-l-10203583.html)
+
+---
+
+### PM Modi, New Zealand Deepen Strategic Ties with FTA, Education And Sports Partnership | News18
+*Unknown · general*
+
+India and New Zealand have strengthened their strategic partnership with a renewed focus on trade, education, culture, sports, climate cooperation, and security. Addressing the media during his bilateral visit, Prime Minister Narendra Modi highlighted the signing of a Free Trade Agreement in record ...
+
+[Read full article](https://www.news18.com/videos/breaking-news/pm-modi-new-zealand-deepen-strategic-ties-with-fta-education-and-sports-partnership-news18-10204937.html)
+
+---
+
+### Cops say Siya killed Ketan, proving it will be easier said than done
+*Dev Goswami · general*
+
+The Pune Lohagad Fort murder case may finally come down to a few feet of rock. The rock from which 26-year-old Ketan Agarwal fell to his death on June 18.
+
+In the three weeks since, what was initially treated as a trekking accident has become a closely watched murder investigation. A young businessman is dead before his wedding, his fiancee Siya Goyal, 20, and her boyfriend Chetan Chaudhary, 22, have been arrested. The police theory is that the two conspired to push Ketan off the Lohagad Fort.
+
+Through official statements and unofficial briefings, the Pune Rural Police has gone some way towards convincing the public of their core theory: that Siya, unhappy with her arranged marriage to Ketan and in love with Chetan, conspired with him to kill her fiance by pushing him off a cliff. According to the police, the planning involved cafe meetings, rehearsals and even a failed attempt.
+
+That is the case as it exists in the headlines. None of this is proved yet. Siya Goyal and Chetan Chaudhary remain accused persons.
+
+For a court to find them guilty, that police story will have to move from allegation to proof. The alleged affair may establish motive; the cafe meetings and rehearsals may establish planning. Phone records, clothes, CCTV footage, location data and conduct after the fall may strengthen the chain. But for this chain to hold up in court, it must lead to one conclusion, and one alone: that Ketan did not slip, jump or lose his balance, but was deliberately pushed.
+
+That is harder to prove than it is to allege -- something the Pune Police appears to recognise. In a now-withdrawn plea for lie-detector tests, the police reportedly told a court that it had neither a direct eyewitness nor conclusive evidence establishing who allegedly pushed Ketan to his death. What they claimed to have were "confessions" by Siya and Chetan.
+
+Siya with her boyfriend Chetan. Both have been arrested by the Pune Rural Police.
+
+Senior advocate Tanveer Ahmed Mir dismisses confessions made in police custody as "bulls\*\*t". Mir, a prominent criminal defence lawyer who represented the Talwar couple in the appeal that led to their acquittal in the 2008 Aarushi-Hemraj double murder case, is equally blunt about public perception.
+
+Public perception "never works in a court of law and never should", he says. The job of a court is not to mirror the anger outside it, but to ask a cold question: what has actually been proved?
+
+What makes the Lohagad case difficult is the kind of evidence on which it appears to rest right now: a murder prosecution built largely, perhaps entirely, on circumstantial evidence.
+
+### THE PANCHSHEEL RULES
+
+Indian law does not require an eyewitness, or a video recording, to prove murder. Courts can and often do convict on circumstantial evidence: a chain of facts that points only to one conclusion.
+
+But the chain must be complete. Each circumstance must be proved, and together they must exclude every reasonable alternative explanation. If one link breaks, the benefit of the doubt goes to the accused, advocate Mir tells IndiaToday.in.
+
+The principles governing circumstantial evidence go back almost as far as the Republic of India itself. In Hanumant v. State of Madhya Pradesh, a 1952 judgment, the Supreme Court warned courts against mistaking suspicion for proof.
+
+The Supreme Court later crystallised the test in Sharad Birdhichand Sarda v. State of Maharashtra (1984) as the five "panchsheel" principles: each circumstance must be fully proved, point only towards guilt and be conclusive in nature; together, the circumstances must exclude every reasonable alternative theory and form a chain that leaves no reasonable possibility of innocence.
+
+Siya and Chetan captured on CCTV camera outside a Pune cafe where, according to the police, they plotted Ketan's murder.
+
+Mir calls it an "unbreakable chain". The prosecution does not win by showing that many things look suspicious. It must prove each major circumstance and link it tightly to the next.
+
+That is where such cases often turn: not on one dramatic courtroom revelation, but on whether one link can be made to snap.
+
+### THE AARUSHI EXAMPLE
+
+Few cases illustrate this better than the Aarushi-Hemraj double murder. Aarushi Talwar, 13, and Hemraj Banjade, the Talwars' domestic help, were found murdered in Noida in 2008. Aarushi's parents, Rajesh and Nupur Talwar, were convicted by a CBI court in 2013 and acquitted by the Allahabad High Court four years later. Mir represented them in the appeal.
+
+By then, the twin deaths were no longer just a criminal case. Like Ketan Agarwal's death, the case had become a national obsession: a teenage girl dead in her bedroom, Hemraj's body found on the terrace, a family under endless scrutiny, and a public that had begun treating suspicion as fact. The trial court convicted the Talwars; the High Court took that conviction apart on the panchsheel principles.
+
+Among the breaks in the prosecution's chain of evidence was its failure to prove conclusively that no outsider could have entered the Talwars' home on the night of the murders. Mir also raised doubts about whether the injuries could have been caused by a dental scalpel of the kind available to Rajesh Talwar, a dentist.
+
+Most importantly, the defence raised what Mir calls a "damning alternative hypothesis": that a third person, Krishna Thadarai, Rajesh Talwar's compounder and an earlier suspect, could have committed the murders. Mir did not have to prove that Krishna had in fact committed the murders. He only had to make the hypothesis plausible enough to create reasonable doubt.
+
+### SO WHAT HAPPENS IN THE PUNE CASE?
+
+That is the chain the Pune Rural Police will have to build in court.
+
+Investigators will have to convert every claim made in briefings into evidence that survives legal scrutiny. Siya's alleged unhappiness with the marriage will have to establish motive. Her alleged relationship with Chetan, the cafe meetings and the rehearsals will have to establish conspiracy. Phone and chat records, CCTV footage and location data will have to show not just suspicious behaviour, but the existence of a murder plot.
+
+Siya and Chetan's conduct after Ketan’s fall will matter too. Did they call for help? Did they raise an alarm? Did they stay at the spot or leave? Did they mislead Ketan’s family or hide information from them? Did they conceal clothes, delete chats, or switch off phones?
+
+Seen in this CCTV footage from Lohagad Fort on the day of Ketan Agarwal's death is a hooded man who police claim is Chetan Chaudhary.
+
+But all this can only strengthen the chain. A motive is not a push. A murder plan is not a push. A lie told afterwards is not a push.
+
+The hardest part of the chain will be the fall itself.
+
+Mir believes the exact point from which Ketan fell will be of "very huge significance". The slope, the edge, the approach path, Ketan's footwear, the line of fall, his injuries and the physical possibility of an ordinary slip will all matter.
+
+In this case, the legal question is simple: did Ketan fall, or was he pushed? And if he was pushed, was the act intentional, or could it have happened accidentally during an argument that turned physical?
+
+The Lohagad Fort is a UNESCO World Heritage Site dating back to the Maratha Empire (Photo: Rangan Datta via Creative Commons licence)
+
+These questions are hypothetical, and that is the point. To prove its case, the Pune Police will have to rule out every reasonable explanation except one: that Ketan was intentionally pushed.
+
+That is why the case will have to return to Lohagad and to those few feet of rock. The headlines may have already decided what happened there. A trial court will ask for proof.
+
+\- Ends
+
+Dev Goswami
+
+Jul 11, 2026 08:51 IST
+
+---
+
+### UP Police rescues 300 trainees, arrests 19 in fake network marketing job scam
+*India Today News Desk · general*
+
+## Police said the racket allegedly operated as a fake corporate office, collected registration fees from job seekers, forced them into a pyramid network, and processed nearly Rs 4 crore through bank accounts.
+
+Police alleged that after joining, the recruits were shifted to a training centre.
+
+In a major crackdown under the Uttar Pradesh Police's statewide Cyber Vajra campaign, the Varanasi Police and the cyber crime unit rescued nearly 300 youths who were allegedly being held at a training centre and arrested 19 people, including the alleged mastermind of an interstate cyber fraud racket operating under the guise of a corporate office.
+
+According to police, the accused ran an illegal multi-level marketing (MLM) and pyramid scheme, allegedly duping unemployed youths from several states by promising jobs and collecting registration fees amounting to lakhs of rupees.
+
+DCP (Crime) Neetu Kadyan said the gang operated through a fake company named Mahadev Enterprises while claiming to be a franchise of Royal Health Wellness Private Limited. The accused allegedly contacted unemployed youths from states including Bihar, Jharkhand and Madhya Pradesh, offering office jobs, Tata company jobs or agricultural work in Varanasi with a promised monthly salary of Rs 25,000.
+
+Young men were called to Varanasi, where they were made to attend interviews in what police described as a professionally designed corporate office setup. They were then allegedly asked to pay between Rs 30,000 and Rs 35,000 as joining or registration fees. In return, they were provided basic kits containing items such as clothes, oil and soap worth only around Rs 1,000 to Rs 2,000.
+
+Police alleged that after joining, the recruits were shifted to a training centre, where they were psychologically manipulated and encouraged to aspire to a luxurious lifestyle. They were allegedly pressured to enrol at least three relatives or friends into the network. Those who failed to do so were threatened with non-payment of salary and denial of refunds.
+
+Officials said that the racket also has links to cyber fraud. So far, five complaints have been registered against the accused on the National Cyber Crime Reporting Portal (NCRP), while four additional written complaints have been received from those duped, taking the total number of complaints to nine.
+
+A preliminary examination of the gang's bank accounts revealed transactions worth nearly Rs 4 crore credited over the past year, police said, adding that the financial trail is being investigated in detail.
+
+During the operation, police recovered 20 mobile phones of various brands, including Android devices and an iPhone 17 Pro, along with SIM cards and IMEI records. Officials said the devices contain chats and audio recordings 
+
+The arrested accused include alleged kingpin Deepak Kumar Shah (31), a resident of Jamui district in Bihar, along with 18 others from Bihar, Uttar Pradesh and Madhya Pradesh. Police said further investigation in the matter is underway.
+
+\- Ends
+
+(With inputs from Roushan Kumar.)
+
+Sahil Sinha
+
+Jul 11, 2026 08:49 IST
+
+---
+
+### Drugs containing over 12% alcohol need prescription
+*Anuja Jaiswal · regional, india*
+
+The ministry said the products covered include certain herbal and medicinal liquid preparations, including cardamom and ginger tinctures.
+
+NEW DELHI: Oral medicinal formulations containing more than 12% ethyl alcohol and sold in bottles larger than 30 ml will soon require a doctor's prescription after the Centre amended the Drugs Rules to curb their misuse.Officials said the move follows complaints from states, including Uttar Pradesh and Madhya Pradesh, that certain medicinal tinctures were allegedly being misused. Traditionally, tinctures containing ingredients such as cardamom and ginger were intended as medicinal preparations, largely used as digestive aids. However, some products allegedly contained 60-80% ethyl alcohol and were allegedly being sold as medicinal products despite containing very high levels of ethyl alcohol and were reportedly being misused like liquor.The ministry said the products covered include certain herbal and medicinal liquid preparations, including cardamom and ginger tinctures. These are concentrated herbal extracts prepared using ethyl alcohol as a solvent, not the kitchen spices themselves. While cardamom and ginger have long been used in traditional medicine, particularly for digestive and other therapeutic purposes, some tincture formulations contain 80-90% ethyl alcohol, making them vulnerable to misuse for intoxication.
+
+The health ministry has notified the Drugs (Tenth Amendment) Rules, 2026, under which such formulations will no longer be exempt from licensing requirements under Schedule K of the Drugs Rules, 1945. Instead, they will be brought under Schedule H1, meaning they can be sold only against the prescription of a registered medical practitioner. Pharmacies will also have to maintain records of every sale. The rules will come into force six months after their publication in the Official Gazette.With the amendment, oral medicinal formulations containing more than 12% ethyl alcohol will no longer be able to claim exemption under Schedule K merely because they contain ingredients such as cardamom, ginger or other spices.Existing provisions under the Drugs Rules already prescribe ethyl alcohol limits for several traditional systems of medicine. Ayurvedic, Siddha and Unani syrups are permitted to contain up to 16% ethyl alcohol, while Homoeopathic medicines are limited to 12%.
+
+Officials said the latest amendment seeks to create a uniform regulatory framework for medicinal products containing high levels of ethyl alcohol.According to the ministry, the amendment is aimed at strengthening regulatory oversight of medicines containing high levels of ethyl alcohol, ensuring they are supplied only through the regulated pharmaceutical supply chain and reducing the possibility of diversion and misuse while ensuring they remain available for genuine therapeutic use.
+
+---
+
+### Delhi Weather Today, July 11: Rain alert for Delhi, Noida, Gurugram; IMD warns of heavy showers
+*Trending Desk · business*
+
+Delhi-NCR woke up to pleasant weather on Friday, with cloudy skies, cool winds and lower humidity after two days of intense rainfall. However, the India Meteorological Department (IMD) has forecast another spell of heavy rain across parts of Delhi, Uttar Pradesh and Uttarakhand, while rainfall activity is expected to ease in Mumbai and several regions of Maharashtra.
+
+The IMD has issued an orange alert for Delhi, warning of heavy rainfall during the day. According to the weather department, the intensity of rainfall over the national capital is likely to decrease from July 11 onwards.
+
+## **Delhi-NCR weather forecast**
+
+According to the IMD, Noida is expected to record a maximum temperature of 35 degrees Celsius and a minimum of 25 degrees Celsius on Friday. The forecast predicts a partly cloudy sky with one or two spells of rain or thundershowers.
+
+  
+
+In Gurugram, the weather department has forecast a maximum temperature of 28 degrees Celsius and a minimum of 27 degrees Celsius, along with a partly cloudy sky and one or two spells of rain or thundershowers.
+
+## Red alert for several districts in Uttar Pradesh
+
+The IMD has issued a red alert for Muzaffarnagar, Bijnor, Moradabad, Bareilly, Pilibhit, Badaun, Sambhal and Jyotiba Phule Nagar, indicating the possibility of extremely heavy rainfall.
+
+Orange alerts have also been issued for Sitapur, Hardoi, Bulandshahr, Saharanpur, Kushinagar, Lakhimpur Kheri, Shahjahanpur and Hapur.
+
+  
+
+## Rainfall likely to weaken across Maharashtra
+
+Rainfall activity is expected to reduce across Maharashtra on Friday, with light showers forecast over most parts of the state.
+
+However, the IMD has placed Pune and Satara under an orange alert. Yellow alerts remain in effect for Raigad, Kolhapur, Buldhana, Akola, Amravati, Nagpur, Chandrapur and Gadchiroli, with residents advised to remain cautious.
+
+## Monsoon completes advance across India
+
+The weather department said the Southwest Monsoon has advanced into the remaining parts of the north Arabian Sea, Rajasthan, Haryana and Punjab.
+
+With this, the monsoon covered the entire country on July 9, one day later than its normal arrival date of July 8, completing its seasonal advance across India.
+
+## Assam issues advisory amid rain and thunderstorm forecast
+
+The Assam State Disaster Management Authority (ASDMA) has urged people to take precautions after the IMD forecast widespread rainfall and thunderstorms across Guwahati and other parts of the state from Friday and over the next few days.
+
+According to the advisory, thunderstorms accompanied by lightning, spells of moderate rainfall and isolated heavy rain are likely over the next two to three days, particularly in Guwahati and the southern and central districts of the state.
+
+The ASDMA warned that the weather conditions could lead to waterlogging, flash floods, slow vehicular movement and an increased risk of localised landslides in vulnerable areas.
+
+## Schools remain closed in Himachal districts
+
+Following persistent rainfall in parts of Himachal Pradesh, all government and private educational institutions, along with Anganwadis, remained closed in the Sirmaur and Solan districts on Friday.
+
+The Meteorological Centre in Shimla has forecast heavy rainfall across several parts of the state and warned of possible landslides, flash floods, uprooting of trees and road blockades.
+
+---
+
+### ‘Enjoy the rain’, he told his brother; minutes later, Ghaziabad man electrocuted in park
+*Drishti Jain · legal*
+
+Police Barricade at the spot where Man died due to electrocution after coming into contact with a transformer outside a flooded park during heavy rain on Thursday, at Indirapuram, in Uttar Pradesh on Friday. (Express Photo by Praveen Khanna)
+
+“The weather is very nice. Enjoy the rain.”
+
+Those were the last words 23-year-old Ghaziabad resident Narendra Kacchi said to his elder brother, Kamlesh, on Thursday afternoon. Less than an hour later, Kamlesh came to know that Narendra. also called as Bablu, had died of electrocution near a waterlogged park in Ghaziabad. The news had first travelled nearly 600 km to their village in Madhya Pradesh’s Chhatarpur district and then to Kamlesh, a plumber who lives in Indirapuram. “I got a call from my mother asking me to check on him,” said Kamlesh.
+
+Narendra, a caretaker of a building who also washed cars, died around 3 pm after allegedly coming in contact with an electrified, waterlogged stretch near a transformer.
+
+Local residents said Narendra and another man were walking out of a waterlogged park when they crossed accumulated water around a transformer located at the exit. A purported video of the incident, widely circulated on social media, shows Narendra collapsing after suffering an electric shock, while the other man narrowly escaped.
+
+Police have registered an FIR against unidentified persons under sections 
+
+“I met him on my way to work. He was sitting with friends, joking about the rain… Half an hour later, I found out he had died… I cannot make my mother understand that he is no more,” Kamlesh said.
+
+Narendra, one of the four siblings, had stayed back in Ghaziabad with Kamlesh five years ago when their family returned to the village from the city.
+
+Story continues below this ad
+
+“We both sent money home to support our parents and two siblings. He would send Rs 5,000-6,000 every month. That kept the family going,” Kamlesh said.
+
+A local shopkeeper, Saurabh Chaturvedi, said his father was the first one to spot Narendra after he was electrocuted. “He, along with a few others, rushed with wooden sticks. They called the Power department to switch off the transformer, and after 15-20 minutes, pulled out the body.”
+
+“About 50 people had gathered, but no one dared to enter the water,” said Dhannu, a local resident.
+
+Residents alleged that they had repeatedly complained about the transformer, the latest complaint sent 10 days ago. “Around 10 days ago, a cow was electrocuted here, and even earlier, dogs had died,”  Dhannu added.
+
+Story continues below this ad
+
+Pashchimanchal Vidyut Vitran Nigam Limited (PVVNL) officials, however, said they had received no prior complaints about the transformer. “We are waiting for the post-mortem report to know the exact cause of death. If it is because of electrocution, we will set up a committee to probe the incident,” an official said.
+
+Hours earlier, in Noida, 27-year-old Aryan died after falling into a drain while navigating waterlogged roads in Sector 58 while he was on way to work. Police suspect Aryan, a resident of Sector 22, may have also been electrocuted by coming in contact with a live electric pole.
+
+“The road was inundated. He saw people walking on the roadside, where drains were covered with stone slabs. It seems he came across a live electric pole and got electrocuted before stepping onto a missing drain slab and falling into the drain,” an officer said.
+
+Police said the exact cause of death is yet to be established and that his viscera has been preserved. His body has been sent to his village in Farrukhabad, they added.
+
+---
+
+### Meta removes AI image feature from Instagram after user outrage
+*Armaan Agarwal · general*
+
+## Meta has suspended the AI feature that allowed you to create images of other Instagram users. In a blog post, the company accepted that it had "missed the mark" with the release. The feature had sparked outrage over privacy concerns online.
+
+Meta has pulled the feature that allowed you to create AI images of others by just tagging their Instagram accounts in a prompt. (Representational image made with AI)
+
+Earlier this week, Meta found itself at the centre of controversy once again. The tech giant released its new AI image generation tool, Muse Image, but the feature went viral for the wrong reasons. Anyone could use Muse Image to create images of people with public Instagram accounts, just by tagging them in a prompt. Following the backlash, Meta has decided to remove this feature altogether.
+
+In a blog post on Friday, the tech company confirmed that it was suspending this particular feature from Muse Image. Meta wrote, "Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way.”
+
+The tech giant acknowledged that it did not make the right call, after hearing feedback online. After Meta had announced Muse Image, many users expressed privacy concerns. “We've heard the feedback that this feature missed the mark, so it's no longer available,” the company added. While Meta has removed this feature, Muse Image is still available for image generation.
+
+### Why did Meta remove new AI feature?
+
+To give you some context, a key concern with the feature was that all public Instagram accounts were “opted-in” by default. That is, if you did not want your images to be created by someone else, you would need to manually deny permission by settings. Meta also did not notify users when someone created an image with their Instagram account.
+
+This sparked fears that anyone could create images without consent, something that may have the potential to be misused. Though all private accounts, and accounts of users under the age of 18 were excluded.
+
+Now, if you try to tag someone’s Instagram account in Meta AI to create a picture, the AI chatbot will refuse to generate a result. You can see an example below.
+
+A screenshot of Meta AI after the removal of the feature.
+
+Meta has also removed the “Allow people to reuse your content on Instagram and with AI features on Meta” toggle from settings for public Instagram accounts.
+
+Do note that the feature sparked outrage even from Hollywood. Talent agency CAA, which represents actors such as Tom Cruise, Zendeya, and Meryl Streep, had also raised concerns. The agency previously issued a statement, “We call on Meta to make protection the default on Muse Image, not the exception, and enable individuals to opt-in if they want to allow usage of their image or likeness for AI content creation.”
+
+Meta is not the first company to face backlash over its AI image tool. OpenAI faced similar criticism over an opt-out feature for its Sora 2 video model before changing its policies and later shutting it down earlier this year. While xAI’s Grok Imagine model was at the centre of controversy for stripping people into bikinis on X a few months ago.
+
+\- Ends
+
+Armaan Agarwal
+
+Jul 11, 2026 08:35 IST
+
+---
+
+### Iran gives US a 'reality check', says Washington broke ceasefire terms
+*SECTIONS Iran gives US a · business*
+
+Iran on Saturday accused the United States of breaching the terms of their ceasefire understanding, with Foreign Minister Abbas Araghchi insisting that Tehran had upheld its commitments despite US President Donald Trump's declaration that the truce was over.
+
+In a post on X, Araghchi said Iran had complied with the ceasefire, while accusing Washington of violating Paragraph 9 of the memorandum of understanding (MoU), which he said pertains to the United States not deploying additional forces in the region.
+
+**
+
+"Iran has so far kept its word, unlike the so-called US Treasury Secretary who is violating Para 9 of the MoU," Araghchi wrote.
+
+His remarks came after Trump said the ceasefire had ended but indicated that he had agreed to pursue further negotiations with the Islamic Republic.
+
+Araghchi did not provide details of the alleged US violation beyond referring to Paragraph 9 of the MoU, nor did he elaborate on the specific actions that Tehran believes breached the agreement.
+
+  
+
+## Trump says truce is over despite agreeing to talks
+
+Trump's comments followed a week of renewed military confrontation between the two countries, even as diplomatic channels remained open. In a post on Truth Social, the US president said Iran had requested that negotiations continue and that Washington had agreed, but stressed that the ceasefire reached last month was "OVER."
+
+The latest flare-up came after commercial tankers from Qatar and Saudi Arabia were attacked earlier this week, triggering US strikes on Iranian targets. Tehran responded by launching attacks on US military facilities in Gulf states. No new attacks were reported on Friday, raising cautious hopes that mediation efforts could prevent another escalation.
+
+Iranian parliamentary speaker and senior negotiator Mohammad Baqer Qalibaf also warned that Tehran was prepared for an "all-out defence" if Washington failed to honour the memorandum of understanding reached last month. According to Iranian officials, the interim agreement was intended to lay the groundwork for ending a conflict that has stretched into its fifth month.
+
+**
+
+## Diplomatic push continues amid Hormuz tensions
+
+Regional diplomacy has continued alongside the military standoff. Qatari officials held discussions with Iranian counterparts aimed at easing tensions and addressing navigation through the Strait of Hormuz, a vital global energy corridor. Araghchi is also scheduled to travel to Oman for talks on bilateral relations and regional developments, with the situation in the strait expected to feature prominently.
+
+The Strait of Hormuz carries roughly a fifth of global oil and liquefied natural gas shipments under normal conditions, making any disruption a major concern for international energy markets. Shipping activity through the waterway slowed after this week's attacks, while oil prices posted weekly gains amid fears over supply risks.
+
+The United Nations has called for diplomacy to continue, with spokesperson Stephane Dujarric saying the organisation hopes ongoing discussions will produce tangible progress. At the UN Security Council, US Deputy Ambassador Tammy Bruce reiterated that Washington still viewed diplomacy as the preferred route to address concerns over Iran's nuclear programme.
+
+The United States and Israel have maintained that their campaign against Iran is aimed at curbing Tehran's nuclear ambitions and broader military capabilities. Iran, meanwhile, continues to deny seeking nuclear weapons, insisting its nuclear programme is peaceful.
+
+---
+
+### Breaking News Live Updates: Russian missile strikes wound six in Kyiv - The Economic Times
+*Economic Times · business*
+
+11 Jul 2026 | 08:58:56 AM IST
+
+Russia attack on Ukraine (Zelenskyy X)  
+
+Synopsis
+
+Breaking News Live Updates: Ukraine said Russian missile strikes on Kyiv wounded six people on Saturday, as Moscow escalates attacks on the Ukrainian capital.
+
+Moscow has been firing missiles and drones at Kyiv almost daily since launching its invasion in February 2022.
+
+But a spate of deadly attacks using dozens of ultra-fast ballistic missiles have recently challenged Ukraine's air defences.
+
+Breaking News Live Updates: Ukraine said Russian missile strikes on Kyiv wounded six people on Saturday, as Moscow escalates attacks on the Ukrainian capital.
+
+Moscow has been firing missiles and drones at Kyiv almost daily since launching its invasion in February 2022.
+
+But a spate of deadly attacks using dozens of ultra-fast ballistic missiles have recently challenged Ukraine's air defences.
+
+## North Korea condemns US, allies after NATO summit, vows to safeguard sovereignty
+
+North ​Korea condemned ​the United States and its allies on ‌Saturday ⁠for ⁠what ​it called strengthening military blocs ​and accelerating arms buildups after ​a NATO ⁠summit this ‌week, ​state ​media ⁠KCNA reported.
+
+Pyongyang will safeguard ​its sovereignty and ​security interests, as well as regional peace, ‌through the responsible exercise of ​its ​sovereign ⁠rights, the foreign ministry was quoted as saying.
+
+### Breaking News Live Updates: Meta scraps AI image feature days after launch following privacy backlash
+
+Meta said on Friday it ​is discontinuing an AI ​feature launched this week that allowed users to generate ​images using public Instagram accounts, after drawing widespread criticism over privacy concerns, including from a Hollywood union.
+
+"Our intent was to provide a useful creative tool and to give ‌people control over ⁠whether ⁠their public content could be referenced in this way," Meta said in a statement.
+
+### Breaking News Live Updates: Typhoon Bavi lashes Japan's southern islands, Taiwan evacuates thousands
+
+Typhoon Bavi pummelled Japan’s southern ​Sakishima island chain with heavy ​rain and violent winds on Saturday as it headed towards ​Taiwan, prompting authorities to warn of flooding risks and landslides.
+
+On the island of Ishigaki, part of Okinawa prefecture, small pieces of debris could be seen flying across empty streets, with ‌only a scattering ⁠of ⁠vehicles braving the gale and rain.
+
+### Breaking News Live Updates: Japan's space agency conducts first test flight for experimental reusable rocket
+
+Japan's experimental reusable rocket took off and safely landed in a first test flight Saturday as the country seeks to achieve the technology key to cut launch costs and compete in the global space market dominated by SpaceX.
+
+The RV-X rocket lifted off, hovered and moved horizontally before landing during its less than one-minute flight at the Japan Aerospace Exploration Agency's Noshiro Testing Centre in northeastern Japan, which was livestreamed by the NVS, a group of space fans.
+
+### Breaking News Live Updates: Flash flooding traps hundreds of people in rural Missouri
+
+Flash flooding unleashed by torrential downpours from a wave of thunderstorms struck ​the Ozark Mountains in rural southeastern Missouri on Friday, trapping hundreds of people in high water along the rain-swollen Black River, officials said.
+
+National Guard teams in Black Hawk helicopters were flying some 200 stranded people to higher ground on Friday afternoon from Camp Taum Sauk in Lesterville, Missouri, ‌about 100 miles (160 ⁠km) south ⁠of St. Louis, according to State Highway Patrol Sergeant Eddie Young.
+
+### Breaking News Live Updates: New Zealand, India form 'strategic partnership'
+
+New Zealand and India announced Saturday a "strategic partnership" including in defence and security, during a landmark visit by Prime Minister Narendra Modi.
+
+Prime Minister Christopher Luxon feted his guest with an indigenous Maori welcome and guard of honour, seeking to expand relations after signing a free-trade pact in April that he has touted as an economic boon.
+
+### Breaking News Live Updates: Kyiv under Russian missile attack, officials say
+
+Russia pummeled Ukraine’s capital Kyiv with ballistic missiles early on Saturday, ‌officials ⁠said. A ⁠Reuters witness heard a series of powerful explosions in the city before the air ⁠alert was ‌announced.
+
+
+---
+
 ## 10 July 2026
 
 ### Delhi govt schools to hold test for second round of Class 10, 12 admissions
