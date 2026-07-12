@@ -1,3 +1,516 @@
+## 12 July 2026
+
+### From climate to statecraft: The changing meaning of sustainability
+*Ehtesham Haque · opinion, regional*
+
+When Prime Minister Narendra Modi embarked on his recent three-nation visit to Indonesia, Australia and New Zealand, the headlines were predictable – trade, defence, strategic partnerships, and geopolitics. But amid discussions around India’s Look East Policy of the Nehruvian era and the Act East Policy under the Modi government, one phrase deserved a little more attention: MAHASAGAR (_Mutual and Holistic Advancement for Security and Growth Across Regions_).
+
+At first glance, it may seem like another addition to Prime Minister Modi’s ever-growing collection of acronyms. Look a little closer, however, and it reflects something much bigger. MAHASAGAR is India’s maritime vision, launched by him in 2025, that broadens the country’s focus from the Indian Ocean to the wider Indo-Pacific while emphasising maritime security, sustainable development, and deeper cooperation with the Global South. More importantly, it signals how India’s understanding of sustainability is evolving – from an environmental agenda into a strategic pillar of diplomacy, economic resilience, regional cooperation, and foreign policy.
+
+For most of us, sustainability evokes images of planting trees, reducing carbon emissions, banning single-use plastics, and switching to renewable sources. While these still remain essential goals, they no longer tell the complete story. Today, sustainability is also about energy security, healthy oceans, resilient supply chains, food security, and economic resilience. In short, sustainability is no longer about saving the planet; it is also about securing prosperity. It is about ensuring that we continue to grow without exhausting the very resources on which that growth depends. That broader understanding of sustainability was evident throughout the Prime Minister’s visit.
+
+**Oceans are Economic Lifelines**
+
+Take Indonesia, for example. For years, the Blue Economy sounded like an academic concept – at least to me. Today, it has become a strategic priority. During discussions between India and Indonesia, cooperation on sustainable fisheries, marine conservation, coastal resilience, maritime connectivity, and the development of environmentally responsible infrastructure, including the Sabang Port project, featured prominently.
+
+The message was clear: oceans are no longer just vast bodies of water separating nations. They are lifelines that sustain trade, food security, energy security, tourism, and the livelihoods of billions living along these coastlines. According to the United Nations, nearly 40% of the world’s population lives within 100 kilometres of a coastline, while more than 80% of global trade by volume is transported by sea. Protecting oceans, therefore, is no longer just an environmental responsibility; it is also an economic necessity.
+
+For India, with over 11000 kilometres of coastline, the sea is not some distant frontier. It quite literally laps at our shores, shaping our economy, our security, and the lives of millions. Also, for far too long, conversations about the Indo-Pacific have often been shaped by powers far removed from these waters. MAHASAGAR seeks to change that. It reflects India’s strong belief that countries in the region should play the leading role in securing, protecting and sustainably developing the maritime spaces on which their own futures depend.
+
+**Security and Sustainability Go Hand in Hand**
+
+The same thinking was evident in Australia. Traditionally, maritime cooperation meant naval exercises and defence agreements. Today, it also includes protecting marine ecosystems, securing shipping routes, responding to climate-
+
+Energy tells a similar story. India and Australia also reaffirmed their cooperation in clean energy, civil nuclear collaboration, and critical minerals – resources that are indispensable to the global energy transition. These partnerships are not merely about producing cleaner electricity. They are about strengthening long-term energy resilience, diversifying supply chains, and ensuring future energy security in an increasingly uncertain world.
+
+**It is No Longer the Responsibility of a Single Ministry**
+
+Viewed individually, these initiatives appear to belong to different ministries. One concerns the oceans. Another concerns energy. A third concerns security. Yet together, they tell a much larger story. While each may fall under a different ministry – whether the Ministry of External Affairs, the Ministry of Defence, the Ministry of Ports, Shipping and Waterways, the Ministry of New and Renewable Energy, the Ministry of Environment, Forest and Climate Change or the Ministry of Mines – the traditional boundaries between them are becoming increasingly blurred. Sustainability is no longer the responsibility of a single ministry; it needs to become a whole-of-government agenda that shapes diplomacy, economic strategy, and national security.
+
+That is why sustainability today influences finance ministries funding clean infrastructure, foreign ministries negotiating critical mineral partnerships, defence ministries protecting sea lanes, industry ministries building cleaner manufacturing ecosystems and maritime agencies safeguarding the world’s busiest trade routes. It is becoming the common thread connecting them all.
+
+**Two Sides of the Same Coin**
+
+For decades, diplomacy was measured by trade agreements, military alliances, and political influence. While those will always remain important, the twenty-first century demands a broader measure of leadership. Who can protect shared oceans? Who can build resilient maritime supply chains? Who can strengthen regional resilience against climate change? The answers to these questions will increasingly shape not only international relations but also economic prosperity across the region. Because, for India, and increasingly for Asia, prosperity and sustainability are no longer separate ambitions. They are two sides of the same coin.
+
+Facebook Twitter Linkedin Email
+
+###### Disclaimer
+
+Views expressed above are the author's own.
+
+###### END OF ARTICLE
+
+---
+
+### 15 Lava Mobiles associates on company trip among Vietnam boat tragedy victims
+*India Today News Desk · general*
+
+## A Lava Mobiles incentive trip turned fatal when a tourist boat carrying Indian travellers capsized off Phu Quoc Island in Vietnam. The deaths of 15 Indians have triggered repatriation efforts and an investigation into the accident.
+
+Twenty-one people were rescued, while 15 Indian tourists lost their lives (Photo: social media)
+
+A company-sponsored reward trip organised by Lava Mobiles for its channel partners and employees ended in tragedy on Saturday after a tourist boat carrying Indian travellers capsized off Vietnam's Phu Quoc Island, killing 15 Indians, most of them from southern India.
+
+The victims included 14 Lava channel partners and one member of the company's team, the smartphone maker confirmed in a statement. The group was part of an incentive tour for distributors, sellers and business associates from Tamil Nadu, Andhra Pradesh and Kerala.
+
+According to the Indian Embassy in Hanoi, 36 people were on board the boat, including 32 Indian tourists and four local crew members. Twenty-one people were rescued, while 15 Indian tourists lost their lives. Among the dead were 10 people from Tamil Nadu, three from Andhra Pradesh and two from Kerala.
+
+Lava Mobiles said it was "deeply saddened" by the tragedy and that its immediate priority was supporting the affected families. The company said it was working closely with the Indian Embassy in Vietnam and local authorities to ensure the earliest possible repatriation of the victims' mortal remains.
+
+One of those killed was 54-year-old Shaik Abdullah Abdul Majeed from Tiruchirappalli, a Lava channel partner. According to his family, Abdullah had spoken to his wife, son and infant granddaughter through a video call shortly before boarding the boat. He had informed them that he was heading to an island where mobile connectivity would be unavailable and promised to call again after returning. That conversation turned out to be his last.
+
+"He saw the face of his granddaughter, a baby, and spoke to his wife and son in the morning. It became his final conversation with the family," a relative said.
+
+Survivor Nirmal Kumar from Tamil Nadu's Palani said the speedboat overturned within seconds, reportedly due to high waves and possible overloading. He said most passengers were from Tamil Nadu and that two survivors remained in critical condition in hospital.
+
+Another survivor, Ashish Kumar, a Lava distributor from Andhra Pradesh's Guntur, said the tourists had been divided into batches for island-hopping excursions. The boat carrying 32 Indian tourists had travelled only a few hundred metres from Hon May Rut Ngoai island when it suddenly capsized around 1.30 pm local time.
+
+"We were taking pictures, and before we could react, the boat tipped over. We were all screaming for help," he said, adding that rescue teams reached the site quickly, PTI reported.
+
+Prime Minister Narendra Modi, President Droupadi Murmu and several chief ministers expressed condolences over the tragedy. State governments in Tamil Nadu, Andhra Pradesh and Kerala said they were coordinating with the Centre and Indian authorities in Vietnam to bring the bodies home and extend assistance to the bereaved families.
+
+Phu Quoc, Vietnam's largest island, is a popular tourist destination known for its beaches, coral reefs and island-hopping tours. The circumstances surrounding the capsize are under investigation.
+
+\- Ends
+
+Zafar Zaidi
+
+Jul 12, 2026 09:14 IST
+
+---
+
+### More mutual funds don’t always mean better diversification: How to avoid the portfolio overlap trap | Mint
+*Sheetal Goel · economy*
+
+## According to the expert, investors should add a new mutual fund only if it reduces portfolio concentration, adds meaningful diversification, and fits your financial goals. A compact portfolio of 5 to 6 funds can often provide better diversification. 
+
+Adding more mutual funds doesn’t always mean better diversification (AI-Generated Image)
+
+A well-diversified portfolio is built by combining different asset classes, investment styles, and market segments, and not by investing in multiple mutual funds.
+
+According to Aditya Agarwal, Co-Founder, Wealthy.in, investors should focus on the role each fund plays in the portfolio rather than the total number of schemes they own.
+
+## More funds can create a false sense of diversification
+
+Agarwal explains, “Fund count and diversification are not the same thing. Diversification improves when a portfolio gains exposure to different asset classes, market-cap segments, investment styles, geographies or risk factors.”
+
+“If the new fund invests in the same set of stocks, sectors and themes that are already present in the portfolio, the investor may be buying repetition rather than diversification,” he adds.
+
+## Fund labels alone do not guarantee diversification
+
+According to Agarwal, investors should watch out for style drift and hidden duplication.
+
+He notes that an investor may own:
+
+-   A large-cap fund
+-   A flexi-cap fund
+-   A focused fund
+-   A value fund
+
+Yet all four schemes may currently have significant exposure to financials and technology companies and many of the same 20–30 large-cap stocks.
+
+Instead of looking only at fund categories, he suggested that investors should review:
+
+-   Portfolio composition
+-   Sector weights
+-   Market-cap mix
+-   Top holdings
+
+## Every new fund should have a clearly defined purpose
+
+Agarwal believes investors should ask what additional role a new fund will play before investing.
+
+“A new fund should ideally bring something genuinely different—such as international exposure, a debt allocation for near-term goals, a gold component for diversification, or a clearly differentiated style exposure—not just another version of the same India large-cap equity basket,” he said.
+
+In other words, every new investment should fill a gap in the portfolio rather than duplicate existing exposure.
+
+## Too many funds can make portfolio management difficult
+
+Agarwal highlighted that owning several funds also makes it harder to monitor investments.
+
+For example, a ₹25,000 monthly SIP divided equally across 5 funds may still remain manageable if each scheme serves a specific objective.
+
+However, spreading the same amount across 8 or 10 funds may:
+
+-   Reduce the impact of each investment
+-   Make portfolio reviews more time-consuming
+-   Shift attention toward individual fund performance instead of overall asset allocation and risk profile
+-   Make it harder to stay focused on financial goals
+
+## Focus on meaningful diversification, not the number of schemes
+
+Agarwal concludes that investors should measure diversification by the difference in exposure rather than by the number of mutual funds they own.
+
+Before adding another fund, investors should assess whether it reduces portfolio concentration, improves diversification across asset classes, market caps or investment styles, and aligns with a specific financial goal.
+
+According to him, a compact portfolio of 5 to 6 well-selected funds can often provide better diversification than owning 10–12 overlapping schemes, provided each holding has a clear and distinct purpose.
+
+_Disclaimer: This story is for educational purposes only. The views and recommendations made above are those of individual analysts or broking companies, and not of Mint. We advise investors to check with certified experts before making any investment decisions._
+
+### About the Author
+
+Sheetal Goel
+
+Sheetal Goel is a Content Producer at Livemint, where she covers corporate developments, personal finance, business trends, markets, and SEBI-
+
+---
+
+### Big Defence Boost: Centre To Let Private Firms Build India’s Missiles — What It Means
+*Shuddhanta Patra · general*
+
+Centre's decision follows growing demand from the Indian armed forces and friendly foreign countries, which state-owned Bharat Dynamics Ltd is currently unable to fully meet.
+
+[Read full article](https://www.news18.com/india/centre-open-missile-sector-private-indian-firms-astra-pralay-indian-army-tata-adani-mahindra-group-bharat-forge-10206418.html)
+
+---
+
+### Kerala Lottery Result Live: Samrudhi SM-63, July 12, 2026 Winners | News18
+*Nibandh Vinod · general*
+
+Kerala Lottery Result Today: Samrudhi SM-63 lottery result will be declared today, on Sunday, July 12. Check the live updates and full list of winning numbers from 3 pm.
+
+[Read full article](https://www.news18.com/india/kerala-lottery-result-today-samrudhi-sm-63-july-12-live-10206185.html)
+
+---
+
+### From nuclear deal to Quad: The making of the India-US partnership in 21st Century
+*Aprameya Rao · general*
+
+**This is the fifth and final part of the series on India-US relations. Part I dealt with the colonial origins of India-US ties (read here), Part II chronicled the Nehru era (read here), Part III looked at the Indira and Rajiv era (read here), while Part IV dealt with the bilateral ties in the 1990s (read here).**
+
+It was November 19, 1999. Republican presidential candidate George W. Bush was outlining his foreign policy vision when he said something few in Washington had heard from a major American politician before.
+
+"Often overlooked in our strategic calculations is that great land that rests at the south of Eurasia. This coming century will see democratic India's arrival as a force in the world."
+
+At a time when India-US ties were still weighed down by decades of Cold War mistrust, it was a striking statement. Within a few years, it would begin to look prophetic.
+
+### 9/11 AND THE NUCLEAR DEAL
+
+An event just months after Bush entered the White House that accelerated the transformation.
+
+The September 11, 2001 attacks fundamentally reshaped Washington's approach to terrorism. For years, the US had largely sidestepped India's concerns over cross-border terrorism emanating from Pakistan. 9/11 brought those concerns into sharper focus.
+
+As Washington prepared for military operations in Afghanistan, New Delhi emerged as an important partner, sharing intelligence and logistical support. In 2002, under Operation Sagittarius, the Indian Navy escorted 24 US-flagged vessels through the Strait of Malacca in support of American operations.
+
+Former Prime Minister Atal Bihari Vajpayee famouly called India and the US "natural allies" and urged both countries to "step out of the shadow of hesitation of the past."
+
+The expanding security convergence was soon formalised. In 2005, the two countries signed the New Framework for the US-India Defense Partnership, identifying maritime security and counterterrorism as its key pillars. The framework has been renewed twice since.
+
+The defining moment, however, came on July 18, 2005, when Prime Minister Manmohan Singh and President Bush announced the framework for the landmark India-US Civil Nuclear Agreement.
+
+Finalised in 2008, the deal ended India's decades-long isolation from global civil nuclear commerce, despite New Delhi remaining outside the Nuclear Non-Proliferation Treaty and retaining its nuclear weapons programme.Washington successfully pushed for a special waiver from the Nuclear Suppliers Group that allowed India to engage in civilian nuclear trade.
+
+More than a nuclear pact, the agreement transformed India-US ties into a comprehensive strategic partnership.
+
+### GROWING PARTNERSHIP
+
+The relationship had by then acquired a bipartisan character. Changes in political leadership in Washington or New Delhi no longer disrupted its broader trajectory.
+
+While addressing a joint session of Parliament, Barack Obama said, "Here in India, two successive governments led by different parties have recognised that deeper partnership with America is both natural and necessary. In the United States, both of my predecessors – one Democrat, one Republican – worked to bring us closer, leading to increased trade and a landmark civil nuclear agreement."
+
+President Barack Obama built on the strategic foundation laid by the Bush years. During his visit to India in November 2010, he declared the India-US relationship "will be a defining partnership of the 21st century." Subsequently, the two countries steadily deepened cooperation across defence, intelligence sharing, counterterrorism, and Indo-Pacific security through the decade that followed.
+
+Trade and technology emerged as equally important pillars of the relationship. Over the next two decades, firms such as Tata Consultancy Services, Infosys and Wipro became key technology partners for Fortune 500 companies, providing software, consulting and digital transformation services across sectors.
+
+American investment in India also surged. Apple expanded its manufacturing footprint in India steadily, with the country emerging as the company's largest manufacturing hub outside China by 2025. The US remained India's third-largest source of foreign direct investment, contributing around $78 billion between 2000 and 2025.
+
+Goods trade rose to nearly $149 billion by 2025 while the US became the largest market for India's IT and software services industry.
+
+Prime Minister Narendra Modi's state visit to Washington in June 2023 reflected the elevated status of India-US ties. It was only the third state visit of President Joe Biden's presidency, after visits by French President Emmanuel Macron and South Korean President Yoon Suk Yeol.
+
+On the defence front, the Obama administration designated India a Major Defense Partner in 2016, granting New Delhi access to advanced US military technology. In 2018, the two countries signed the Communications Compatibility and Security Agreement (COMCASA), enabling secure communications and greater interoperability between the two militaries.
+
+Two years later, the Basic Exchange and Cooperation Agreement (BECA) allowed India access to sensitive geospatial data to enhance the accuracy of its drones and cruise missiles.
+
+Under Joe Biden, the Quad, the security dialogue that also involves Japan and Australia, was elevated into a regular leader-level forum, while cooperation on semiconductors and emerging technologies deepened further.
+
+### A RELATIONSHIP NOT WITHOUT FRICTION
+
+India refused to support the US-led invasion of Iraq in 2003 and later turned down Washington's request to send troops for post-war stabilisation, an early signal that New Delhi would preserve its strategic autonomy even as ties with the United States deepened.
+
+A decade later, the arrest of Indian Deputy Consul General Devyani Khobragade in New York on visa fraud charges triggered a sharp diplomatic retaliation from New Delhi, including the removal of security barriers outside the US Embassy.
+
+The more persistent tension, however, has been over trade. For years, successive US administrations have accused India of maintaining high tariffs and restricting market access.
+
+In 2019, the Trump administration revoked India's preferential trade status, accusing New Delhi of denying fair access to American companies. India retaliated by imposing tariffs on 28 US products.
+
+The Indian diaspora has assumed greater prominence in India's engagement with the United States during Prime Minister Narendra Modi's tenure, reflecting its growing political, economic and strategic influence. The US is home to the world's largest overseas Indian community, with more than 5.4 million Indian Americans.
+
+The situation worsened during Trump's second term. In 2025, Washington imposed a 26 per cent reciprocal tariff on Indian imports under its "Liberation Day" trade policy, before raising it to 50 per cent in August after penalising India for continuing to purchase Russian oil — one of the toughest US trade actions against any country in recent memory.
+
+India has also spent decades trying to de-hyphenate itself from Pakistan in Washington's strategic calculus. The US and Pakistan have historically shared close ties, bound together by Cold War alliances and counterterrorism cooperation, a relationship New Delhi has long resented as an obstacle to being treated on its own terms.
+
+That effort appeared to bear fruit through the 2010s. But critics now warn that the threat of re-hyphenation looms under Trump's second term, as he continues to claim credit for halting the 2025 India-Pakistan conflict.
+
+### WHERE THINGS STAND NOW
+
+Even as India and the US negotiate a comprehensive trade deal, tariff tensions remain unresolved.
+
+As China's rise reshapes the Indo-Pacific, both countries are expected to deepen cooperation in defence, maritime security, and advanced technologies, even as they continue to navigate their differences.
+
+The partnership has come too far to unravel. From the nuclear deal to the Quad, from $149 billion in bilateral trade to co-operation in the Indo-Pacific, India and the US have built something neither country can afford to walk away from. The next chapter will be defined not by whether they cooperate, but by how much.
+
+\- Ends
+
+Aprameya Rao
+
+Jul 12, 2026 09:00 IST
+
+---
+
+### Meet 12-year-old Mana Jampala who built an AI startup with clients in 3 countries
+*India Today Education Desk · general*
+
+## Mana Jampala is only 12, but she is already running an AI startup with deployments in Canada, India and Cambodia. After learning Python at nine and building AI products by 11, the Grade 7 student has created tools that help businesses automate customer calls and everyday work.
+
+Mana Jampala is only 12, but she is already running an AI startup with deployments in Canada, India and Cambodia. (Photo: LinkedIn/@mana-jampala-m17)
+
+Most 12-year-olds spend their afternoons juggling homework, sports and time with friends.
+
+Mana Jampala is doing all that while running an artificial intelligence startup with deployments in three countries.
+
+The Grade 7 student from Kelowna, British Columbia, has built Voxa, an AI-powered receptionist that helps businesses avoid missing customer calls. According to her LinkedIn profile, the platform is already deployed in Canada, India and Cambodia, making her one of the youngest AI founders attracting global attention.
+
+### A CODING JOURNEY THAT STARTED AT NINE
+
+Mana's interest in technology began early. She learnt coding through Scratch camps before picking up Python at just nine years old. By the age of 11, she had started building AI products of her own.
+
+Her talent soon earned recognition beyond school. She won a special prize in a collegiate-level science competition during a visit to India and also received a grant from the 1517 Fund's Medici Project, which supports young entrepreneurs building startups.
+
+Despite running a company, Mana says she still enjoys playing football, spending time with friends and meeting other young builders.
+
+### ONE MISSED PHONE CALL CHANGED EVERYTHING
+
+The idea for Voxa came from watching her father's workplace.
+
+She noticed employees often missed customer calls because they were busy serving people. Those missed calls often translated into missed business opportunities.
+
+That observation inspired Voxa, a 24-hour AI voice assistant designed for restaurants, pharmacies and other service businesses where every unanswered call can mean lost revenue.
+
+The system can answer customer calls, book appointments, take restaurant orders, manage follow-ups and generate summaries after each conversation.
+
+According to Mana, Voxa is already handling hundreds of calls while expanding its deployments across Canada.
+
+### BUILDING WITH AI, NOT LETTING AI DO EVERYTHING
+
+Mana told _Business Insider_ that she used AI coding assistants such as ChatGPT and later Claude, but never relied on them to build the product in one go.
+
+Instead, she generated small snippets of code, tested each one carefully, fixed bugs herself and gradually built her own backend. That step-by-step approach, she says, helped her understand every part of the software.
+
+### HER NEXT BIG BET IS AI AGENTS
+
+Mana is already thinking beyond AI receptionists.
+
+Her latest venture, Voxa Agents, lets users create autonomous AI agents simply by describing a task in plain English. A user can ask it to monitor competitors, prepare meeting briefings or track online conversations, and the AI carries out the work automatically.
+
+She hopes to keep growing the company, join a leading startup accelerator and eventually scale the business further.
+
+At an age when most students are just beginning to think about future careers, Mana Jampala is already building products used by businesses across continents, showing how the next generation is entering the AI revolution much earlier than anyone imagined.
+
+\- Ends
+
+Jul 12, 2026 09:00 IST
+
+---
+
+### New Zealand PM Says Partnership With India Will Boost Trade, Jobs: 'We’ve Lifted Our Relationship'
+*Vani Mehrotra · general*
+
+New Zealand PM Christopher Luxon says India and New Zealand have elevated ties to a Strategic Partnership with a target of doubling bilateral trade by 2030.
+
+[Read full article](https://www.news18.com/india/christopher-luxon-india-new-zealand-strategic-partnership-trade-2030-pm-narendra-modi-ws-l-10206386.html)
+
+---
+
+### ₹39.96 lakh BSNL VRS payout gets full tax exemption from ITAT; here's what the ruling means | Mint
+*Kirti Jha · economy*
+
+## A retired BSNL employee won full tax relief on a ₹39.96 lakh VRS payout after the ITAT ruled it was retrenchment compensation. The tribunal said the benefit under Section 10(10B) applies based on the specific facts of the BSNL VRS-2019 scheme.
+
+The Chennai bench held that the ex gratia compensation received under the BSNL VRS-2019 scheme is eligible for exemption under Section 10(10B).
+
+A retired Bharat Sanchar Nigam Ltd (BSNL) employee has secured complete tax relief on a ₹39.96 lakh voluntary retirement payout after the Chennai bench of the Income Tax Appellate Tribunal (ITAT) held that the compensation received under the BSNL Voluntary Retirement Scheme (VRS)-2019 qualifies for exemption under Section 10(10B) of the Income-tax Act.
+
+The ruling came in the case of Hemalatha Govindarajulu, who had initially paid tax on a substantial portion of the ex gratia compensation she received after opting for the BSNL VRS-2019 scheme. While filing her income tax returns for assessment years 2020-21 and 2021-22, she claimed only the ₹5 lakh exemption available under Section 10(10C), treating the remaining amount as taxable.
+
+She later approached the tax authorities after learning about tribunal rulings that had recognised BSNL VRS compensation as retrenchment compensation eligible for exemption under Section 10(10B). Although her appeal before the first appellate authority was dismissed due to a delay of over four years, the ITAT admitted the matter and decided it on merits.
+
+## **Why did ITAT allow full tax exemption?**
+
+In its order dated 21 May 2026, the Chennai bench comprising Vice President George George K and Accountant Member Padmavathy S held that the ex gratia compensation received under the BSNL VRS-2019 scheme is eligible for exemption under Section 10(10B).
+
+The tribunal observed that the scheme was introduced as part of the Union Cabinet-approved BSNL revival package announced on 23 October 2019 and that the compensation was funded through budgetary support from the Government of India.
+
+According to the tribunal, although the scheme was labelled as a voluntary retirement scheme, its character was that of a government-approved retrenchment scheme. It, therefore, could not be treated as an ordinary VRS covered only by Section 10(10C).
+
+The tribunal directed the Assessing Officer to delete the tax additions made on the ex gratia compensation and grant consequential relief in accordance with law.
+
+## **What does the ruling mean for taxpayers?**
+
+The order strengthens the judicial view that compensation received under the BSNL VRS-2019 scheme may qualify for exemption under Section 10(10B) instead of the limited ₹5 lakh exemption available under Section 10(10C).
+
+However, the ruling does not mean that compensation received under every voluntary retirement scheme is automatically tax-free. The tribunal's decision was based on the specific features of the BSNL VRS-2019 scheme, including its origin in the government's revival package and its nature as a retrenchment measure.
+
+For BSNL employees who opted for the 2019 VRS and paid tax on their ex gratia compensation, the ruling could serve as a persuasive precedent in similar disputes. The benefit, however, would depend on the facts of each case and the evolving judicial position on the issue.
+
+---
+
+### How to read AIS and why is it key to filing ITR | Mint
+*Shipra Singh · economy*
+
+Any discrepancy in what is reported in ITR and what appears in the AIS gets flagged.
+
+Summary
+
+AIS has become the default starting point for filing ITR, but experts warn it's riddled with gaps making independent reconciliation essential.
+
+The Annual Information Statement (AIS) has become the starting point for filing an income tax return (ITR). The AIS captures all the income and transactions 
+
+“It is saddled with errors and is even missing some incomes, like SGB (Sovereign Gold Bond) interest, SSY (Sukanya Samriddhi Yojana) and in some cases, accrued annual interest from FDs (fixed deposits),” pointed out Bhawna Kakkar, founder and CA, Kakkar & Co., Chartered Accountants.
+
+Then why is AIS important to ITR filing?
+
+Any discrepancy in what is reported in ITR and what appears in the AIS gets flagged, said Janhavi Pandit, a Mumbai-based chartered accountant (CA). “There are instances of notices being issued by the tax department in case of a mismatch between incomes or other financials reported in ITR and those appearing in the AIS. Taxpayers, therefore, can’t ignore it despite its shortcomings,” she said.
+
+Kakkar concurred and added: “Taxpayers should use AIS as a reconciliation tool, matching every income entry with Form 16, Form 26AS, bank interest certificates, broker and mutual fund capital gains statements, and other supporting documents before filing the return.”
+
+## **How to read your AIS**
+
+AIS includes details under three broad categories—income details, tax payments in the form of TDS, TCS, and advance tax, and high-value transactions, such as credit card bills over ₹10 lakh, property purchases, and foreign remittances. Experts say each entry needs to be reviewed carefully.
+
+Income and tax payment details are directly 
+
+Pandit explained that gross income is reported in AIS, so it needs to be reconciled with the tax certificates. “For instance, if a bank credits ₹54,000 to a taxpayer's account after deducting ₹6,000 as TDS on FD interest, the AIS will show the gross interest income of ₹60,000. The taxpayer should report ₹60,000 as income under ‘Income from Other Sources’ and separately claim credit for the ₹6,000 TDS.”
+
+It should be noted that the AIS is not a complete record of taxable income. Kakkar pointed out several income heads that don’t appear in AIS. “SGB interest doesn’t appear as it is paid by the RBI (Reserve Bank of India) and not banks. Similarly, SSY and PF payouts are not reported as they are usually tax-exempt. However, the taxpayer should declare these under the exempt income head,” she said.
+
+Some other income that is not being captured in AIS this year includes accrued interest on cumulative FDs, post office and cooperative bank interest, rent where no TDS was deducted, minor child's income, gifts from non-relatives, and foreign-sourced income, Kakkar added. “Some banks report FD interest only in the year of maturity, whereas interest credited each year is taxable. But a taxpayer’s duty to declare all such incomes doesn't depend on AIS showing it,” Kakkar said.
+
+While information on income and tax payments has a direct bearing on your tax computation, other information, such as credit card payments, purchases of securities, and other large financial transactions, has persuasive value. “The tax department cross-checks whether the income reported in ITR commensurates with the value of these financial transactions,” said Pandit. Therefore, if any such transaction is incorrect, the taxpayer must send feedback.
+
+## **Major discrepancies**
+
+Any errors you see in your AIS must be reported to the tax department via feedback. This year, major errors are appearing in the form of duplicate entries and incorrect capital gains data,
+
+Duplicate entries of the same FD interest or dividend and salary figures differing from Form 16 due to late-revised TDS returns are some of the common errors this year, as per Kakkar. “In other cases, the entire sale consideration from a jointly owned property or the full interest from a joint account is reflected against each holder instead of being apportioned according to their share.”
+
+Capital gains remain one of the biggest areas of concern. While the AIS captures securities transactions reported by brokers and mutual funds, it may not always contain the information required to compute taxable gains. Pandit said taxpayers selling old equity investments are still finding the cost of acquisition reflected as zero because the reporting broker may not know the original purchase price. Using those figures directly could inflate the taxable capital gain.
+
+Duplicate reporting is another recurring issue. For example, an MF sale is reported by the depository—National Securities Depository Ltd or Central Depository Services Ltd—as well as by RTAs (registrars and transfer agents) such as CAMS or Kfintech. This results in an inflated sale value that is twice the amount actually reported in AIS.
+
+For any figures that do not tally, taxpayers should submit feedback through AIS. While AIS has become an important aid in tax filing, it does not replace a taxpayer's own records. Kakkar also advised downloading the latest AIS shortly before filing ITR, as reporting entities continue to revise information.
+
+### About the Author
+
+Shipra Singh
+
+Shipra joined Mint’s personal finance team in September 2021, and writes on tax, credit cards, banking, estate planning and investments. She began her career in personal finance as an intern with Outlook Money magazine in 2017, and has since worked with The Economic Times and Entrepreneur India as a business journalist covering fintech and emerging financial services.<br><br>Over the years, she has reported on key aspects of household finance, tracking regulatory changes, market trends and evolving consumer behaviour. Shipra’s main beats are tax and banking products, with a focus on compliance gaps and their real-world impact for readers navigating complex financial decisions. Her reporting on GST and personal tax, particularly foreign asset disclosures and NRI taxation, has contributed to wider policy discussions and subsequent changes.<br><br>She also interviews market experts for the Mint Money podcast, covering topics ranging from stock market investing to how credit scores shape financial outcomes and access to credit.<br><br>Shipra has a keen interest in data-driven analysis and writing human-centric features that explore how people’s habits around spending, investing and wealth creation are evolving. Her work focuses on helping readers make informed financial decisions in an increasingly complex economic landscape.<br><br>Shipra holds a Bachelor’s degree (Honours) and a Master’s in English Literature from Delhi University.
+
+---
+
+### US strikes Iran after Hormuz ship attack, Gulf tensions spread
+*India Today World Desk · general*
+
+## The United States struck Iran after Tehran attacked a container ship in the Strait of Hormuz. Iran then fired towards Bahrain, Qatar and the UAE, signalling a wider Gulf confrontation.
+
+Stock photo used for illustration
+
+The United States attacked Iran early on Sunday after Tehran targeted a vessel in the Strait of Hormuz, setting a container ship on fire and forcing its crew to abandon it. Iran then appeared to respond with strikes aimed at Bahrain, Qatar and the United Arab Emirates, widening the latest crossfire in the Persian Gulf.
+
+The escalation came after US President Donald Trump suggested that an interim deal and ceasefire in the Iran war was "over". US Defence Secretary Pete Hegseth wrote online: "Iran made a poor choice. Now they pay."
+
+The United Arab Emirates warned people on Sunday of an incoming missile and drone attack, as explosions were heard in nearby Qatar. A missile alert was sounded in Qatar soon after the blasts, and Qatar's military said in a statement that it intercepted the incoming Iranian fire. Missile alerts were also sounded in Bahrain, the island kingdom in the Persian Gulf that is home to the US Navy's 5th Fleet. It was not immediately clear what locations were under attack in the UAE, which had not so far been targeted in the latest round of attacks by Iran.
+
+In the Strait of Hormuz, a Cyprus-flagged container ship was hit by Iran and suffered "significant engineroom damage", US Central Command said. It said a civilian crew member was missing. The United Kingdom Maritime Trade Operations centre, overseen by the British military, said the ship had been travelling along a route close to the Oman shoreline. It said ships had been using that route to move in and out of the Persian Gulf while avoiding Iranian territorial waters. The centre said the crew abandoned the ship after it caught fire.
+
+Iran's paramilitary Revolutionary Guard said multiple vessels had "disregarded our warnings and instructions to correct their course and proceed along the approved route". It said one of them "was struck by a warning shot and brought to a stop". Iran also said the strait would remain closed "until further notice" and warned that it could target "additional enemy bases in the region" if it faced more attacks.
+
+The latest developments saw the US strike Iran after the attack on the ship in the Strait of Hormuz, followed by reported Iranian strikes towards Bahrain, Qatar and the UAE, as tensions across the Persian Gulf rose further.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Jul 12, 2026 08:54 IST
+
+---
+
+### The new literary detective: Hunting AI in every sentence
+*Abdul Haleem Sherif · business*
+
+“They called her Zoongie. Maybe it was a name; maybe rain took a shape and decided to keep it. She had the kind of walking that made benches become men. Hair tumbling wild, a dress that caught and released light, laughter with iron under it. Eyes that skimmed and did not land, as if what she wanted was elsewhere and she had to pass through men to get there.
+
+Before readers could decide what these lines meant, many asked a different question altogether: who wrote them? Days after “The Serpent in the Grove” by Jamir Nazir was shortlisted for the Commonwealth Short Story Prize, social media users began feeding passages from it into AI detectors. The discussion drifted away from metaphors and meaning to probability scores and linguistic fingerprints.
+
+The Commonwealth controversy is hardly an isolated episode. Stories, personal essays, newspaper columns and even politicians’ social media posts are subjected to the same ritual. Readers hunt for em dashes, symmetrical sentence structures and other supposed tells of machine prose, making literary criticism resemble a forensic science.
+
+  
+  
+
+## READING BACKWARDS
+
+For much of the last half-century, literary theory encouraged readers to look past the person holding the pen. Roland Barthes’ famous 1967 essay “The Death of the Author” argued that a text did not owe its meaning to the intentions of its creator. Once published, it belonged to its readers.
+
+Artificial intelligence has now unsettled that arrangement.
+
+Readers are looking back towards authors again. They want to know whether it was flesh and bones that birthed a text, or an algorithmic amalgam of zeroes and ones.
+
+That curiosity has produced a strange new literary vocabulary. We speak of “AI smell”, “slop”, “hallucinations” and “tells”. Word detectives prowl the internet with detection tools like Pangram and Zero GPT to dissect machine-made paragraphs.
+
+The instinct has become so widespread that even leading public voices are no longer exempt. Earlier this year, a social media post by Shashi Tharoor prompted online speculation about whether AI had assisted in its writing. Pangram later assigned some of Tharoor’s recent writings a high probability of AI generated text, lending numerical weight to a suspicion that was already circulating.
+
+Detection tools are not the only thing becoming more sophisticated. Tuhin Chakrabarty, an assistant professor of computer science at Stony Brook University, New York, says people who read a lot of machine-generated text develop an instinct for recurring patterns even before a detector confirms them.
+
+That advantage may prove temporary. Manuscripts generated entirely by AI are relatively easy to spot today, says Anish Chandy, founder, Labyrinth Literary Agency. “Some AI writing, done with a nuanced mix of AI and human intervention, gets harder to detect. I suspect that will become more frequent down the line,” he cautions.
+
+## BETWEEN THOUGHTS & SENTENCES
+
+If the first casualty of AI writing is author - ship, the second is more intimate: our understanding of what writing stands for.
+
+Professional life has trained most of us to think of writing as a deliverable. It earns grades, secures jobs, wins clients and pays bills. From that perspective, the machine merely accelerates an existing task whether it’s for a student who needs an essay or a consultant in need of a presentation.
+
+That assumption, however, mistakes the product for the process.
+
+“In constructing a sentence, you’re clarifying your thought,” says Devapriya Roy, an assistant professor of writing at Ashoka University. “So, we say writing is critical thinking.”
+
+This understanding is reshaping how class - room evaluations take place. Since conventional essay submissions can be gamed, teachers are switching to handwritten reflections, field work and oral discussions that bring the pro - cess of thinking to the foreground.
+
+The deeper worry among educators, and anyone else who cares about writing, is that of a snake eating its own tail. As writing be - comes more effortless, readers would stop working hard to understand it, and eventually, both the quality of writing and the depth of reading would suffer.
+
+Chakrabarty, who has been researching AI writing, draws a clear distinction between how humans compose and how machines generate prose. “Writing is not a very linear process. People just don’t write like large language models,” he says.
+
+While humans draft, rethink and rearrange text as ideas evolve, AI systems simply generate words sequentially. “There is no reflection or revision while the machine is writing. Unless you specifically prompt it afterwards,” adds Chakrabarty.
+
+The published word has always arrived stripped of its history. Readers don’t see the discarded para - graphs or the sleepless nights that went into getting a handful of sentences right. “The thing with good creative writing is that it takes a lot of struggle to get there, ” says Roy. AI can now by - pass that struggle with a click, producing sentences with no origin stories.
+
+## WHAT’S ORIGINAL?
+
+Amid the din of online speculation and AI detectors, publishers have to take a call on what counts as original work. The answer increasingly rests on an older and more fragile idea: trust.
+
+Pan Macmillan has chosen not to rely on AI detection tools while evaluating manuscripts. Instead, it expects authors to disclose how generative AI has been used during the writing process in contractual declarations.
+
+“Trust is the currency of our relationship with authors,” says a spokesperson for the global publisher. “Our standard contracts require authors to guarantee that the work is entirely their own, thereby ensuring copyright protection. This means every - thing submitted to us must be original and human authored.”
+
+This emphasis on originality need not imply a single point of origin.
+
+As Chandy says, publishing has always involved layers of collaboration that remain largely invisible to readers. This includes editors who challenge arguments, agents who restructure manuscripts, translators who reinvent voices and researchers who inform books from behind the scenes. AI now intro - duces a collaborator whose contribution is difficult to identify.
+
+The Commonwealth Foundation’s handling of the controversy shows how literary institutions are beginning to respond. Faced with allegations of AI use, it did not defend “The Serpent in the Grove” or other stories on aesthetic grounds. Instead, it enlarged the very object under evaluation.
+
+The investigation resembled textual criticism turned inside out. The organisers held detailed discussions with all the regional winners about their creative process, examining the various working drafts, time stamped documents and notes. After consulting the judging panel, they concluded that AI had not been used to write the winning stories. Having completed that review, the Foundation went on to name Nazir the overall Common wealth Short Story Prize winner.
+
+The author’s process, once regarded as private work that literary criticism could safely ignore, is becoming part of the text itself.
+
+In the heat of this scandal, it is easy to imagine AI slop as an unprecedented cultural crisis. But each literary era leaves behind its own dominant style and its own clichés. If Victorians had their ornamental excesses, rise of creative writing programmes brought accusations of interchangeable MFA fiction. What we now call AI slop belongs to the same lineage. None of these tendencies, however, proved fatal to literature. Because readers know, one way or an - other, that easy writing is almost never memorable writing.
+
+Sixty years ago, Barthes declared the author dead. But as a reader, if you have reached this final sentence wondering who, or what, wrote the previous ones, then perhaps reports of that death were greatly exaggerated.
+
+
+---
+
 ## 11 July 2026
 
 ### 'Her Father Did Not Die Natural Death': Fresh Twist In Jaipur Murder Case As Uncle Seeks Probe
