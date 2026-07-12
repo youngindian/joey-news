@@ -1,8 +1,228 @@
 # Editorials
 
-_Last updated: 2026-07-11 04:43 UTC_
+_Last updated: 2026-07-12 04:55 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 12 July 2026
+
+### Krishna Shastri Devulapalli | How A Safe Space Triggered My Trauma
+*Deccan Chronicle · Opinion*
+
+Not too long ago, friendships, romantic partnerships, and business relationships ended because one person couldn’t tolerate the smell of the other’s hair oil, hated the way they chewed or found their taste in bhajans appalling. And one of them punched the other in the nose to announce the termination of a relationship. Those were good times, trust me.
+
+Today, everyone is a psychology major, and their starting point for every disagreement is trauma. For instance, recently, someone I know leapt over a counter with surprising agility considering her size, caught the chef in a headlock, and recited Sivaji Ganesan’s monologue from Parasakthi to him as he fought for his life.
+
+Because the buffet had ran out of puris. She called it trauma.
+
+Listen, all you psychobabblers out there, using big words wrongly just because it permits you to be tardy, excessive or rude, I’m going to share a few here so ordinary folk like me can protect themselves somewhat.
+
+Let’s start with ‘boundaries’. Here’s the thing about boundaries. Because everyone is talking about them these days, and most are getting it wrong. People think the boundaries they draw pertain only to themselves. No, sir. That’s not how boundaries work. The very same tailormade boundary you have drawn to protect yourself, and ensure your well-being, gets automatically drawn for everyone else to protect them from you.
+
+Every time you change the shape or thickness of your boundary, voilà, it magically changes for everyone in your ambit. Same shape, same size, same thickness, same permeability, an exact clone of your boundary.
+
+The best example of a boundary is the two blue ticks on WhatsApp. If you change your privacy setting to ‘turn off read receipts’, you automatically turn it off for all your contacts.
+
+How about ‘triggered’ next. Everyone on social media is apparently triggered now.
+
+You say something — measured enough, you’d think — and someone or the other is triggered.
+
+It basically means they absolve themselves of the responsibility to remain courteous in their responses. Holster that gun, friends. This isn’t the Wild West. And you’re not Wild Bill Hickock. Make sure that safety catch is on, and load that Colt with blanks if you must.
+
+I disagree with most things most people say on social media. But I exercise my right to not respond. Because I don’t see what they’re saying as an invitation to a duel at high noon. Perhaps the so-called triggers of most people have become hair-triggers precisely because they’re walking around with their forefingers constantly caressing those wretched things.
+
+(I’m going to bet that this piece is going to ‘trigger’ someone.)
+
+Here’s another favourite: safe space.
+
+I dread it when someone tells me I’m their safe space, because, sooner or later, I know that I am going to become the opposite. Why? Because they have understood the term ‘safe space’ wrong.
+
+What kind of person is a safe space? To my understanding, it is anyone who gives space to another to be vulnerable without judging them, never using that vulnerability against them. Being a safe space doesn’t include giving blanket permission and encouragement for everything one does. A safe space isn’t a place that validates one’s indulgences. That isn’t a safe space. That’s an enabler. And an enabler, ironically, is an unsafe space. (See how I used a term correctly.)
+
+Then there is ‘expectations’. Yes, this isn’t a purely psychological term, but I see people, when questioned, using this term to get out of responsibility, reciprocity.
+
+‘You seem to have unfair expectations of me.’
+
+I’ve heard this more than a couple of times — from friends/family/colleagues — whenever I’ve made my displeasure known, courteously, mind you, and addressed my concerns.
+
+My response has always been the same.
+
+‘I have no expectations of you whatsoever. I just have prerequisites for myself.’
+
+Wanting, and demanding, courtesy, promptness, fairness, acknowledgement, why, even gratitude, aren’t expectations. That’s bare minimum. Both ways.
+
+Then there is ‘self-care’. Saw this article about a Bollywood star recently with the headline “… celebrates Valentine’s Day with her sister… indulging in self-care”.
+
+How, man? How? How can you ‘indulge’ in ‘self-care’? Indulge is the opposite of self-care.
+
+Going to a spa and having someone put baby oil in your ****-crack, getting a nose job, going off on a boy-gang holiday and letting it all hang out — those don’t come under self-care. They are self-indulgence.
+
+People seem to use the word self-care when they mean self-indulgence. Self-care involves attending to one’s needs, like rest, nutritious food, exercise, solitude, quiet. Often, it requires doing less. Not more. You can’t buy self-care. You learn it. You practise it.
+
+Self-indulgence, on the other hand, involves attending to one’s wants — which we often confuse for our needs.
+
+Also, while we’re at it, when you ask a man a question or you put him in a place where he has to...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/krishna-shastri-devulapalli-how-a-safe-space-triggered-my-trauma-1970255)
+
+---
+
+### Manish Tewari | Middle Powers And the 4th Technological Order
+*Deccan Chronicle · Opinion*
+
+The former US defence secretary famously articulated on February 12, 2002, that “as we know, there are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns — the ones we don’t know we don’t know”.
+
+Though Rumsfeld’s words were in response to a query about the complete absence of evidence linking Saddam Hussein’s regime in Iraq to the supply of “weapons of mass destruction” to various terrorist groups.
+
+Though this remark earned him a foot in the mouth award of 2002 for the gobbledegook of political dissimulation. However, it is very prescient in the case of the evolutionary trajectory of the technologies of the Fourth Industrial Revolution and their impact on human kind.
+
+It would be a trite to underscore that the United States (US) and China are the leaders in fourth industrial revolution technologies. While the US is broadly ahead in quantum computing, semi-conductors, genomics, bio technology and space China leads in electric batteries, hypersonics, solar technology, 6G networks and drones and robotics. Both these countries are in intense competition qua artificial intelligence, advanced materials, quantum sensors, machine learning and
+
+nano technology. This list is indicative and not illustrative
+
+A broader reality check is however imperative. The rivalry between the prevailing hegemon, the United States, and its nearest competitor China is exacerbating across the spectrum especially in the field of military applications of fourth generation technologies. Xi Jingping recently characterised this struggle by spotlighting the fact as to whether the US and China can “overcome the ‘Thucydides trap’ and establish a new paradigm for relations between great powers”. A potential G-2 leveraging their huge lead in frontier technologies.
+
+Middle powers are structurally dependent on the Great Power order that they critique but cannot mould. A liberal and internationalist order was willing to pay the middle powers some attention, proffer membership of coalitions and allow a degree of participation in norm-setting in exchange for military and diplomatic support. The current US administration today demonstrates disdain for such templates.
+
+The Trump administration has demonstrated no restraint in conveying that in its estimation and scheme of things the middle powers remain dependent on the great powers — principally the US — for their prosperity and security, and it is only too happy to let that model perpetuate itself while berating the middle powers step up to the plate of burden sharing.
+
+The Trump administration may be will to cut some slack to the middle powers and that too at the margins; however, it is unwilling to countenance middle power aspirations to attempt and shape the epicentre of the international system, particularly when the MAGA spectre is actively trying to redesign the hardware and software of the global order.
+
+China under the Xi Jingping dispensation has also become more authoritarian, jingoistic and is now more than comfortable in flexing its new found strategic heft as underscored by the syndrome of wolf warrior diplomacy going back almost a decade.
+
+These broader trends actually impel intensified middle power cooperation and technological
+
+synergies as they are actually a necessary subset of the overarching geo strategic matrix. For middle powers, this is extraordinarily important.
+
+What efficacy is there in increasing your strategic autonomy in terms of hard and soft power when middle powers and lesser developed nations will remain dependent on the goodwill and myriad mercantile interests of private technology behemoths whose revenues are bigger than the GDP of most developing economies?
+
+However, again the reality here is sobering. By way of example on artificial intelligence alone, China will spend $295 billion in the next five years to build data hubs. China spent $98 billion on AI in 2025 alone. China’s government spend was USD 56 billion dollars.
+
+Five US based private companies Amazon, Google, Microsoft, Meta and oracle will collectively invest $700 billion in 2026.
+
+India’s AI mission by comparison between 2025-2030 would spend a measly $1.2 billion.
+
+What then was the purpose of holding an ostentatious the AI Summit when there is no appetite for putting your money where mouth is?
+
+The middle powers, therefore, have to decide as to whether they want to train the global AI economy’s middle management, or build its c-suite. Till the time the middle powers do not have their own foundational model/ models they will always remain on the sidelines of the technology frontier as the horizons of deep and big tech keep evolving and expanding at an exponential pace. This can only happen with massive public investments or very intense public private partnerships as cutting edge 2026 frontier runs can cost upwards of $2 trillion to build and operate before...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/manish-tewari-middle-powers-in-the-fourth-industrial-era-1970253)
+
+---
+
+### Pradeep S. Mehta and Sohom Banerjee |Trans-humanism: The Silent Capture Of The Human Mind
+*Deccan Chronicle · Opinion*
+
+A young professional wakes up in the morning. Before touching water, before offering a prayer, before looking at the sky, he checks his phone which tells him what meeting comes first, what news deserves his fear, what food may improve his health, what music may improve his mood, and what advertisement may match his hidden desire. He still believes he is free. But slowly, quietly, the first decisions of his day have already been outsourced.
+
+This is the real debate behind the growing anxiety around trans-humanism, wearable devices, spatial computing, artificial intelligence and Big Tech. The issue is not whether Apple, Meta, Google or any other declares itself “transhumanist”. Most of them do not. The issue is more subtle and more serious. Technology is moving from the outside to the inside of human experience. It’s no longer only on our desks. It’s in our pockets, on our wrists, in our ears, before our eyes, inside our homes and increasingly around our emotions, behaviour and attention.
+
+The old idea of transhumanism imagined a dramatic future: humans with chips in their brains, robotic limbs, artificial organs and machine-augmented intelligence. But the modern version may not arrive through surgery. It may arrive through comfort. It may arrive as a beautifully designed device, a health feature, a pair of earbuds, a watch, a headset, an assistant or a screen that understands your gestures, voice, your habits and eventually your intentions.
+
+That’s why the debate shouldn’t be dismissed as a conspiracy. The extreme claim that users will immediately become “drones” or “robots” is exaggerated. The underlying fear isn’t irrational. Human autonomy doesn’t disappear in one dramatic moment. It weakens gradually.
+
+First, we use technology for convenience. Then we depend on it for memory, direction, communication, entertainment, health tracking and decision-making. Finally, we reach a point where the human mind becomes uncomfortable without technological mediation.
+
+This is the deeper civilisational risk. Big Tech is not merely building devices. It is building environments. It is building ecosystems that understand, predict and shape behaviour.
+
+The human mind isn’t just another market. It’s the crucible of judgment, memory, emotion, imagination, conscience and freedom. When technology occupies this space, it’s not only about innovation. It’s a question of power. Who controls the interface between the individual and the world? Who owns the data?
+
+Indian philosophical traditions understood the power of the mind long before modern technology companies tried to monetise it. In the Bhagavad Gita, Krishna tells Arjun that the mind can be the greatest friend when controlled and the greatest enemy when uncontrolled. Kurukshetra was not just a political or military battlefield; it was also psychological and spiritual. Arjun’s crisis was one of perception, emotion and judgement. Krishna doesn’t ask him to surrender his mind to an external system; but to awaken his consciousness, discipline his senses and act with clarity.
+
+This is where the contrast becomes powerful. Yoga is about mastery over the self. Big Tech often creates dependency on the system. Yoga teaches control over senses. Digital platforms stimulate the senses continuously. Yoga disciplines desire. Consumer technology monetises desire. Yoga cultivates silence, concentration and inner awareness.
+
+Real human enhancement, therefore, can’t be reduced to better devices. A human being isn’t enhanced merely because he can track his sleep, receive faster notifications, wear smarter glasses or outsource memory to artificial intelligence. A person is truly enhanced when he becomes more conscious, more disciplined, more compassionate, more independent in thought and more capable of acting with wisdom. If technology strengthens these qualities, it serves humanity. If it weakens them, it becomes a sophisticated form of mental colonisation.
+
+The danger is not technology itself. Hearing aids, prosthetics, health monitors, accessibility tools and medical innovations can transform lives. A diabetic patient using a sensor, a disabled person using an advanced prosthetic limb, or an elderly person using fall-detection technology is not a victim of trans-humanism. These are examples of technology serving with dignity. The problem begins when technology moves from helping humans overcome limitations to capturing human attention, shaping behaviour and converting intimate life into data that can be monetised.
+
+That’s why the ownership structure matters. If a handful of corporations control hardware, software, app ecosystems, payments, artificial intelligence, content distribution, health data and immersive interfaces, they become more than companies. They become gatekeepers of human experience. No democratic society should allow such concentrated power over the mind, body and behaviour of citizens without strict accountability.
+
+The policy conclusion is clear. Governments should not ban ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/pradeep-s-mehta-and-sohom-banerjee-trans-humanism-the-silent-capture-of-the-human-mind-1970249)
+
+---
+
+### A quiet revolution in the queue for justice
+*Deccan Herald · Opinion*
+
+It is no secret that India’s justice system groans under its own weight. Three numbers tell the story. As of today, the National Judicial Data Grid records 5,04,12,584 cases pending before our courts. In the last month alone, 17,89,241 fresh cases were instituted. And behind this mountain stands a bench stretched impossibly thin: India has roughly 22 judges per million people, against the long-recommended benchmark of 50 per million, as a news report noted this January.
+
+Where, in this vast and slow-moving machine, does a litigant with a disability figure? Until recently, nowhere in particular. Their matters joined the same endless queue as everyone else’s and waited – frequently for years – regardless of the additional barriers, expense, and physical difficulty that attending court imposes on them. A blind litigant who cannot read an inaccessible paper-book, a wheelchair user for whom a trip to a court complex is an ordeal, a person with a psychosocial disability navigating a system built for no one like them: all were left to the mercy of the calendar. The 2011 Census counted 2.68 crore persons with disabilities in India, a figure almost universally regarded as a gross undercount. For such a large population, an indefinite delay is not a minor inconvenience. It is a quiet denial of justice.
+
+Against this backdrop, something has begun to change. Over the past several months, some of our most important courts have decided that these litigants need not wait their turn forever. By a circular in December 2025, the Supreme Court created a dedicated category in its miscellaneous-day cause list for “cases relating to specially abled persons” – alongside new heads for senior citizens, persons below the poverty line, and legal-aid matters – and directed advocates and parties to flag such cases at the filing stage, backed by documentary proof, so the Registry can prioritise them. The Delhi High Court outstripped the Supreme Court in this regard, deciding to prioritise such cases from April 2024 onwards, and its practice is by now the most settled. The High Court of Meghalaya, with effect from July 1 2026, has begun identifying cases involving persons with disabilities (as defined under the Rights of Persons with Disabilities Act, 2016) for priority listing, allowing even pending matters to be moved up on production of a disability certificate. The Nagpur Bench of the Bombay High Court has started collecting particulars of matters in which a disabled person is a litigant, precisely so that their hearing and disposal can be expedited.
+
+This is a genuine expansion of access to justice for a class of litigants who have long been an afterthought. Its significance is sharpened by how poorly the RPwD Act has been implemented since it was passed. Digital platforms – government portals and increasingly private services – remain inaccessible to screen-reader users. Public buildings continue to be sanctioned without any check for accessibility before approval. Reservation norms in public employment are honoured more in the breach than in observance. Reasonable accommodation, the statutory duty to make individual adjustments so a disabled person can participate on equal terms, is routinely denied. And the bodies meant to enforce these rights – the disability commissions at the Centre and in the states – carry only recommendatory power and are chronically short-staffed, unable to compel compliance even when they find a violation.
+
+In that landscape, the courtroom is often the only forum where a disabled person can obtain a binding remedy. Priority listing means that this remedy will no longer be swallowed by the backlog. When the very rights that the executive machinery fails to deliver can be vindicated quickly through litigation, the practical value of those rights rises sharply.
+
+It would be dishonest, though, to declare victory. We still have a long way to go. Reforms of this kind live or die in the implementation, and the early signs are uneven. Despite the Supreme Court’s clear direction, only one case, at last count, appears to have been properly categorised and prioritised under the new head: a reminder that a circular is only as good as the Registry’s diligence and the Bar’s awareness. Outside the Delhi High Court, the practice has not yet bedded down into routine. Categories can quietly lapse if no one insists on them.
+
+Yet the promise is real, and it extends beyond the cases already in the system. The deepest impact will be on people who have never approached a court at all – those who assumed, not unreasonably, that pursuing their rights meant surrendering years of their lives to an indifferent docket. Knowing that the system will now hear them without an endless wait may embolden many to come forward and claim, at last, their day in court. That is worth building on.
+
+The writer is a practising lawyer with expertise in disability rights and IP law, and is co-founder of Mission Accessibility. He wears more hats than he can himself sometimes count.
+
+Rahul Bajaj is a practising lawyer with expertise in disability rights and IP law, and is co-founder of Mission Accessibility. He wears more hats than he can himself sometimes count.
+
+[Read full article](https://www.deccanherald.com/opinion/a-quiet-revolution-in-the-queue-for-justice-4070742)
+
+---
+
+### EVMs and their deepening opacity
+*Deccan Herald · Opinion*
+
+The third phase of the electoral roll clean-up through the Special Intensive Revision (SIR) has begun. Citizens are queuing up to prove their eligibility to elect their representatives to Parliament and state legislatures. When the demonetisation exercise was announced a decade ago, as a surgical strike on black money, people had similarly stood in front of banks to prove that the currency notes they held were earned legitimately. Subjecting people to such agni parikshas (tests by fire), repeatedly, has become a habit with the Union government. Very few have questioned the cramped SIR time-frames. We are made to believe, once again, that this is best for the country, regardless of the fact that many of us might board the same boat as the lakhs of people disenfranchised in West Bengal after SIR-II. The Calcutta High Court lamented last week that their appeals might be cleared in just about two decades!
+
+We perform another ritual every five years by pressing the button on the Electronic Voting Machine (EVM). We are repeatedly made to believe that this is the best method for electing our MPs and MLAs because ‘no vote is wasted’, and the ‘results are declared in a few hours’. The 124 FAQs published by the Election Commission of India (ECI) apparently dispel all doubts about the efficacy of machine-based voting. But deeper probing throws up more questions. For example, after the 2019 Lok Sabha elections, I asked the two manufacturing companies under RTI: How many votes can be printed on the VVPAT units? BEL mentioned 1,300 slips, and ECIL said 1,400, at maximum. This year, answers to the same question, about the 2024 Lok Sabha polls, were 1,400 and 1,500, respectively.
+
+So what is wrong with these replies? Nothing much, except that in a polling station like booth no. 8 located at St Mary’s High School, Vettukadu, in the Thiruvananthapuram constituency, if all 1,396 electors turned up to vote, would one paper roll from a BEL-manufactured machine be enough? Every Presiding Officer is mandated to conduct a mock poll by printing 50 votes before polling begins. The handbooks for election officials are silent about the protocol for replenishing the paper rolls if they run out.
+
+In the same RTIs, I asked these companies about the state-wise deployment of EVMs during the 2024 general elections. BEL said its EVMs were used for the Lok Sabha elections across the country, but only in Andhra Pradesh for the simultaneously held Assembly elections. ECIL claimed it does not know where its EVMs were deployed because they all go to a common pool. This reply is unreliable because their engineers know which polling station to visit if their EVMs become defective. And thousands of them do, every election season.
+
+Few voters know that the patent protection granted to these companies for exclusively manufacturing the EVMs expired in March 2021. In January 2022, BEL secured a patent for an enhanced EVM (certificate no. 387537). It claimed several advanced features, including integration of the control unit and the ballot unit into a single body and a special unit for verifying the authenticity of a voter before he/she is permitted to vote. The patent documents do not explain how the ballot’s secrecy will be preserved.
+
+In 2025, BEL told me under RTI that it supplied these new machines to the ECI between 2022 and 2024. It told the Patent Office the machines were sold for Rs 1.19 crore in 2022-23. But in 2025, it claimed the machines were still under development/commercial trial, so it had not sold any. The latest RTI replies state these machines were not used in the 2024 elections, and ECIL is not manufacturing them at all. What has happened to them is a sarkari secret. Instead, the old M3 model of EVMs and VVPATs manufactured by these companies were deployed in the 2024 elections.
+
+Except for the voters’ records and their choice of candidates, all information about EVMs ought to be in the public domain. They will not tell if we do not ask repeatedly and loudly. It is every thinking person’s obligation to get bitten by the Enlightenment bug of ‘permanent critique’ and question the grand narratives, to push past the boundaries set by the power structures about “what we cannot know”, like Michel Foucault, the French historian of ideas, wrote long ago.
+
+The writer wakes up every morning thinking someone somewhere is hiding something.
+
+Venkatesh Nayak wakes up every morning thinking someone somewhere is hiding something.
+
+[Read full article](https://www.deccanherald.com/opinion/evms-and-their-deepening-opacity-4070745)
+
+---
+
+### Urban India: Republic of recurring outrage
+*The New Indian Express · Opinion*
+
+Updated on: 11 Jul 2026, 7:10 pm4 min readCopiedIndia runs on many calendars. The fiscal calendar defines the spend of the exchequer, the academic year for students, the kharif and rabi calendars for farmers, the festival calendar for the soul. There is a fifth calendar that is unprinted and unfailing, observed with the devotion of the faithful. It is the calendar of outrage.
+
+It opens with January and February focused on air pollution. This January, 123 of 148 cities recorded higher-than-recommended PM2.5 levels, and 53 cities figured in the most polluted lists. March arrives with water worries. Taps run dry and tanker mafias rule the roost in Bengaluru, Chennai, Mumbai, Pune. By May, it is inverter raj as power outages haunt homes and offices. June brings the rains; July brings the floods. The clouds clear for potholes and craters to show up in August and September. October is open for suggestions, followed by November and December, when the nation returns to smog, stubble burning, winter inversion. Between the recurring surprises, there is the parade of preventable disasters—hotels and hospitals on fire, collapsing flyovers, derailed trains, stampedes at shrines and attacks on hospitals.
+
+The disasters arrive without appointment, but rarely without precedent. The rituals that follow events are as predictable. The visuals surface on social media followed by headlines. Whether the government follows depends on the math of casualties and momentum of opposition—and is usually followed by announcements. This year when the 50 hottest cities of the planet were in India, the minister stayed in the shade and mum.
+
+Explanations for events sound more like alibis—“this much rain was not expected”. It is also the only time climate change is acknowledged. Nature is ahead of the curve, governance is behind it—and the distance between the two is measured in committee reports that are old enough to vote and are still waiting to be read. The unprecedented has become India’s most precedent justification.
+
+The response to events is predictable. So is the follow up. After the catastrophe in Mumbai in 2005, the Madhav Chitale committee delivered a 359-page report. Twenty years later, its core prescriptions—no development zones along rivers, relocation of encroachments, mangrove protection—remain largely unimplemented. In 2018, a Supreme Court-appointed committee reported on the lack of effective steps and that even the 50-metre buffer had not been created. This week, Mumbai and Pune were inundated by flood waters for over 48 hours at places, bringing the cities to a standstill.
+
+Mumbai presents the template for unattended issues. Following a major flood in 1985, a committee identified the need for a new stormwater drainage system. In 1993, the BMC came up with the Brihan Mumbai Storm Water Disposal System, but didn’t implement it for lack of funds. BRIMSTOWAD surfaced again after the 2005 floods, but is incomplete in 2026. On Thursday, the Maharashtra government announced yet another plan that will cost over Rs 13,000 crore and which will make Mumbai “a sponge city”.
+
+The archives damn governments. This week, Surat received the heaviest rainfall in its history. Its vulnerabilities though are not new, though. The recommendations for solution date back several decades to after the 1968 floods. The expert panel which examined the 2006 floods indicted the construction sprawl on Tapi’s flood plains. Two decades later, the floodwaters followed the construction sprawl. The response: announcement of a `500-crore project.
+
+Bengaluru and Chennai have refined the absurdity of circumstance. Both face water distress and often ration water by tankers in April. They also end up evacuating people by boat in November. Chennai 2015 followed a drought; Bengaluru’s 2022 floods arrived months after its borewells ran dry. Same lakebeds—concretised for shortage, submerged in surplus. In Delhi, the government declared the waterlogging “under control” the same afternoon the opposition declared that the capital a sea. In 2024, a landslide in Kerala’s Wayanad district buried over 400 people. This week, another landslide struck Kalladi in the same district. The hillside was mapped, vulnerability documented, warnings issued.
+
+On paper, India is a global superpower of committees. The Rashtriya Barh Aayog (National Commission on Floods) was constituted in 1976. It submitted 207 recommendations that were sent to states in 1981. But the recommendations stayed on paper. In 2001, the Rangachari Committee reviewed and shortlisted 40 recommendations for immediate implementation. Guidelines followed disasters. The National Disaster Management Authority’s guidelines came in 2010. The BJP’s promise of 100 new cities in 2014 were followed by Smart Cities and the AMRUT programme. Yet, on ground, there is little to assure people.
+
+India does not lack for diagnosis. But it suffers from a 20-year lag between the diagnosis and implementation. Consider this nugget. In 1975, the Union government drafted a model law for flood plain zoning and shared it with the states. Suffice to say it did not get far. But in 2022, the idea was back in circulation. And in 2026, it is stranded between the Centre and the states. Unlike in the past, weather updates are fairly robust these days. The warnings land. The orange alerts are issued. What does not exist is the machinery to act on foresight—because the entire apparatus of Indian administration is trained to react, not prevent.
+
+Tolstoy observed that happy families are all alike, while each unhappy family is unhappy in its own way. Indian cities are unhappy for the same reasons, only on different schedules. Different rivers, identical post-mortems. Encroached flood plains. Concretised lakebeds. Desilting claims disproven at the first cloudburst. The calendar of outrage will keep its appointments. The question is whether governments will keep their appointment with governance.
+
+Author of The Gated Republic, Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/Jul/11/urban-india-republic-of-recurring-outrage)
+
+---
 
 ## 11 July 2026
 
