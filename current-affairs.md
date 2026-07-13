@@ -1,3 +1,469 @@
+## 13 July 2026
+
+### How Putin Turned Japan Into a Den of Spies
+*New York Times · legal*
+
+Soon after troops invaded Ukraine in February 2022, Western leaders expelled hundreds of Russian spies from their capitals and blacklisted companies with ties to the Kremlin.
+
+The coordinated effort was intended to make it harder for the Kremlin to collect intelligence and buy equipment like microchips, transmitters and the machinery used to make weapons.
+
+Since then, officials say, dozens of those banished spies have turned up in an unexpected place: Japan.
+
+The country’s weak espionage laws and flourishing high-tech industry have made it a crucial piece of the Russian war effort. Ninety percent of Russian missiles and drones contain Japanese components, according to Ukrainian government estimates.
+
+At the heart of the operation in Tokyo is a secretive Russian military intelligence unit known as the 20th Directorate, whose role has never been publicly disclosed. Posing as diplomats or businesspeople, its officers work to buy or steal battlefield technology and smuggle it into Russia, according to current and former officials at five Western intelligence agencies.
+
+The man overseeing the 20th Directorate’s operation in Tokyo maintains a cover identity as an employee of the Russian state airline Aeroflot, according to current officials from four of those intelligence agencies. He plays a crucial role in supplying Russia’s war machine.
+
+The toll of this effort is clear in the nightly attacks on Ukrainian cities and in the slog of the battlefield. Four years into a war that has killed hundreds of thousands and wiped whole cities off the map, Russia persists in part, officials say, because of its continued access to technologies like those it acquires from Japan.
+
+Story continues below this ad
+
+After a Russian Kh-101 cruise missile destroyed a residential tower block in Kyiv and killed at least 24 people in May, investigators sifted through the debris. They found that the missile had been guided by Japanese components that have been widely banned from export to Russia, according to a Ukrainian assessment.
+
+Using confidential government documents, corporate records and interviews with dozens of intelligence and government officials across three continents, _The New York Times_ began piecing together how the 20th Directorate operates and the crucial role the Tokyo station plays in supporting the war that President Vladimir V. Putin of Russia is waging on Ukraine. Most of the officials spoke on condition of anonymity because they were not authorized to disclose intelligence publicly.
+
+Ukrainian officials have presented Japan with evidence that its technology is being used in Russian attacks, according to documents and interviews. But the Japanese government, despite vocal support for Ukraine, has been slow to act.
+
+Japan has long been known as a spy paradise, in part because of post-World War II constraints, designed by the war’s victors, that keep the country’s intelligence services weak. Japan does not even have a foreign intelligence agency. Officials say that they recognize the espionage threat and are working to remove decades-old restrictions on intelligence gathering.
+
+Story continues below this ad
+
+ Damage at a residential building after Russian drone and missile strikes in Kyiv in May. The rockets used in the strike had been guided by a Japanese computer module. (Credit: AP via NYT)
+
+“We have a sense of crisis about this situation,” said Akihisa Shiozaki, a lawmaker in the governing Liberal Democratic Party and a former lawyer who prosecuted industrial espionage cases.
+
+The Japanese Ministry of Foreign Affairs did not respond to detailed questions about espionage but said that the government had worked with Western allies to ban the export of military-
+
+“Russia’s aggression against Ukraine is an outrageous act that shakes the very foundations of the international order,” the ministry said in an written statement.
+
+Nevertheless, Russian spies appear to be operating right under the noses of the Japanese authorities.
+
+Story continues below this ad
+
+Aeroflot’s office in Tokyo is a 10-minute walk from the headquarters of the National Police Agency, which investigates espionage. Western intelligence officials say that it is there, in the airline office, on the 22nd floor, that the 20th Directorate’s man in Tokyo runs his deadly operation.
+
+His name is Maksim Vladimirovich Filchenkov.
+
+## A Spy Arrives in Tokyo
+
+Russia was in dire need of high-tech components when Mr. Filchenkov, 49, took up his post in Tokyo in February 2024. The war in Ukraine was shifting from World War I-style artillery battles to drone warfare, and the Ukrainians were gaining a technological edge.
+
+To stay in the fight, Russia needed to augment its conventional might with new technology. China could help, but for the military’s most advanced weaponry, there was no replacement for the high-tech gear, machine tools and other components that many companies were suddenly prohibited from selling to Russia.
+
+Enter Mr. Filchenkov, a veteran officer with Russia’s military intelligence agency, the G.R.U. With one tour in Japan under his belt, intelligence officials said, he had the expertise to find the necessary gear and move it to Russia.
+
+Story continues below this ad
+
+Mr. Filchenkov began developing relationships with logistics companies that ship goods from Japan to Russia, according to business records and interviews. Western officials have warned Japan that relationships like these help G.R.U. officers buy sensitive technology under false pretenses and send it to Russia, sometimes using bogus shipping records.
+
+This, current and former intelligence officials say, is where the 20th Directorate excels. While the unit’s history is unclear, the officials said that it predated the war in Ukraine. Since that fight began, they said, it has been central to the Kremlin’s effort to obtain military technology.
+
+ The entrance to the Aeroflot office in Tokyo in July. G.R.U. spies have used Aeroflot jobs as cover since the Soviet era. (Credit: Chang W. Lee/The New York Times)
+
+G.R.U. spies have used Aeroflot jobs as cover since the Soviet era as they hunted for Western technology.
+
+The entrance to Aeroflot’s Tokyo office looks like a prison door, with a narrow slit of window and a doorbell. A middle-aged woman with straw-colored hair and a Russian Orthodox cross around her neck answered the door earlier this year. She appeared surprised to have visitors.
+
+Story continues below this ad
+
+Mr. Filchenkov, the woman said, was not there. She could not say when he would return.
+
+Aeroflot is not specifically blacklisted by Japan, but it has effectively been grounded because it cannot obtain necessary parts and services there.
+
+Aeroflot’s official partners, however, remain active.
+
+One of them, Proco Air, advertises itself as a “bridge between Japan and Russia.” Proco rents cargo space on airlines that fly to countries where Aeroflot operates, like Sri Lanka or Uzbekistan. Aeroflot picks up the cargo there and flies it to Russia. There is nothing illegal or even unusual about this. Plenty of goods are still allowed to flow to Russia, and partnerships like this allow that to happen.
+
+Western intelligence officials say such arrangements are also essential to the 20th Directorate’s operations.
+
+Story continues below this ad
+
+ A photograph provided by Russian state media of President Vladimir V. Putin with Aleksei Repik, founder of R-Pharm, a Moscow pharmaceutical company, at the Kremlin in 2025.
+
+Japan is the world’s largest exporter of the sensitive dual-use technology that the Kremlin is seeking, shipping records show. Smugglers do not need to get that equipment to Russia directly; they just need to get it somewhere that’s willing to sell to Russia.
+
+The largest destination for Japan’s sensitive technology, for example, is Vietnam, which in turn is the largest exporter of sensitive technology to Russia.
+
+Proco Air sits in Tokyo’s industrial port neighborhood, a 20-minute drive from Aeroflot’s office. Mr. Filchenkov was not there, either, but the company’s owner, Takehiko Miki, and his wife were willing to talk.
+
+Mr. Miki, who is Japanese, said he met Mr. Filchenkov around 2018, but did not begin working with him in earnest until Mr. Filchenkov returned to Tokyo six years later. Mr. Miki’s wife described their Russian business partner as an unsmiling man who only showed the “business side” of his face.
+
+Story continues below this ad
+
+Last year, Mr. Miki contacted an associate based in China whom Mr. Filchenkov had introduced him to, according to two people with direct knowledge of the episode. Mr. Miki specifically asked for help shipping items that he acknowledged were prohibited from being sent to Russia, the people said.
+
+In the interview and follow-up communications, Mr. Miki denied knowing that Mr. Filchenkov had ties to Russian intelligence. He also strongly denied ever seeking help transporting prohibited items to Russia. Proco Air ships only authorized goods, he said, “mostly medical equipment and a few cosmetics.”
+
+As proof, he asked his wife to fetch a copy of a recent air bill. Before handing it over, Mr. Miki tried to black out the names of the companies involved with a pen.
+
+The document backed up Mr. Miki’s assertion. They showed a March 12 shipment of medical equipment to Russia, via Sri Lanka.
+
+But the redaction did not work, and the document showed that Mr. Miki was doing business with a company with ties to the Kremlin. The document clearly identified the recipient as R-Pharm, a Moscow pharmaceutical company.
+
+R-Pharm is not under sanctions but its founder, Aleksei Repik, has been sanctioned by Australia, Britain and Canada (though not Japan) over his extensive ties to Mr. Putin. Mr. Repik has repeatedly appeared beside Mr. Putin and recounted efforts to support the war, including a May 2025 meeting in which he described mobilizing Russian businesses to “provide unprecedented support to the front.”
+
+“I think it is now important to express on the part of all Russian businesspeople our huge thanks to our defenders of the fatherland,” Mr. Repik said last year.
+
+Proco Air has not been charged with any wrongdoing, and Mr. Miki said that the Japanese authorities had never contacted him about his shipments. He said he had never “knowingly facilitated transportation to any sanctioned person.”
+
+## Diplomatic Warnings
+
+Foreign governments have repeatedly warned Japan that its technology was being smuggled to Russia.
+
+In one month alone, April 2025, Ukraine sent at least eight formal diplomatic letters to the Japanese Foreign Ministry on the topic. The messages detailed evidence of Japanese components in Russian weapons and military equipment that had been recovered from civilian attacks.
+
+They sent roughly eight more diplomatic notes over the year, one Ukrainian official said. The letters provided lists and photos of dozens of recovered Japanese-made components including circuit boards, transmitters and semiconductors. Times reporters reviewed one of those letters, which said that Japanese components had been found in ballistic missiles.
+
+ The National Police Agency in Tokyo. Aeroflot’s office is a 10-minute walk away. (NYT)
+
+“I hope you take this information into account when considering further restrictions against Russia, or strengthening the export control on transfers of sensitive goods and technology to third countries,” read the letter to officials at the Japanese Foreign Ministry.
+
+Ukraine provided Japan with lists of recovered components that had been manufactured by some of Japan’s biggest companies: Nippon Electric Corporation, Panasonic, Toshiba and others. There was no evidence in those documents that the companies knowingly sold their products to Russia, as opposed to being shipped to other countries and resold.
+
+All companies denied wrongdoing and said that they were committed to complying with Japan’s economic sanctions and trade restrictions. Nippon said the electric components that Ukraine had identified were old and had not been sold by the company in years.
+
+The Ministry of Economy, Trade and Industry said it had issued warnings to companies and industry groups about sanction evasion efforts. It has also blacklisted dozens of overseas entities it suspects of helping Russia circumvent export bans.
+
+Western officials beyond Ukraine have warned the Japanese government about Russian intelligence efforts to procure its technology. They also provided the Japanese authorities with information about the network of companies, including Proco, that intelligence officials suspected of helping spies ship sanctioned goods to Russia, according to two people familiar with the discussions.
+
+Though they have not acted against Mr. Filchenkov, Japanese officials have hardly been unsympathetic to Ukraine’s cause. On the day Mr. Putin launched the invasion, Japan joined the United States and European Union in imposing sanctions. It later broke with post-World War II precedent and began sending military aid like bulletproof vests and helmets to Ukraine.
+
+Under Japan’s prime minister, Sanae Takaichi, the country has embarked on an ambitious program to bolster intelligence capabilities, in part to better prevent illegal exports and thwart spies.
+
+In January, the Tokyo police announced that they had uncovered a Russian intelligence officer who posed as a Ukrainian and tried to steal trade secrets from a Japanese worker. In the absence of espionage legislation, the police brought a case against the worker for violating competition laws. The spy had left Japan long before the charges were brought.
+
+When Times reporters returned to the Aeroflot office a second time, Mr. Filchenkov was again not available. Messages to his Telegram and email accounts went unanswered.
+
+On a third drop-in, the woman who answered the door agreed to call him.
+
+The office was stuffed with large filing cabinets, each topped with a model Aeroflot jet. The venetian blinds were down. The woman appeared to be the only one there.
+
+After a brief phone conversation in Russian, she returned. Mr. Filchenkov, she said, did not want to talk.
+
+---
+
+### Sensex Opens Over 600 Points Lower, Nifty Slips Below 24,050 As Iran-US Tensions Shake Global Markets
+*Varun Yadav · business*
+
+Indian benchmark equity indices opened sharply lower due to escalating Middle East tensions. BSE Sensex fell 0.82%, Nifty 50 slipped 0.78%. IT stocks bucked the trend.
+
+[Read full article](https://www.news18.com/business/markets/sensex-opens-over-600-points-lower-nifty-slips-below-24050-as-iran-us-tensions-shake-global-markets-ws-l-10207540.html)
+
+---
+
+### Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions
+*Karan Mahadik · technology*
+
+Though the circular does not directly mention any company, it comes shortly after the controversy involving Tata Consultancy Services over the handling of a workplace sexual harassment complaint. (Photo: Instagram)
+
+Tata Consultancy Services is building a team of up to 8,900 forward-deployed engineers and hunting for AI acquisitions as it bets artificial intelligence will create new business rather than undermine outsourcing, two TCS executives told Reuters.
+
+The strategy emerges amid investor concern that AI could disrupt India’s $315 billion IT services ⁠industry ​by reducing demand for engineering teams, shortening project timelines and squeezing prices as clients seek a share of productivity gains.
+
+“We would be … ensuring that we have as many as 1% to 1.5% of our associates who could be what you would call FDEs,” CEO K Krithivasan said in an ​interview. ​TCS is India’s largest software services firm.
+
+Krithivasan’s figures would translate ⁠to roughly 5,900 to 8,900 employees based on TCS’s end-June headcount. Krithivasan did not say whether the company would hire externally or retrain existing staff. Forward-deployed ‌engineers embed with clients to accelerate AI adoption and tailor tools to business needs, a role that has emerged as a hiring bright spot in a sector grappling with AI-driven efficiency gains. The plan pits TCS against firms such as OpenAI, Anthropic and Microsoft, which have expanded hiring for forward-deployed engineers to help clients deploy AI tools.
+
+The Mumbai\-based company is also evaluating acquisitions in AI, data security and cybersecurity, after largely shunning acquisitions for years and ⁠relying instead on organic ⁠growth until late 2025.
+
+“We are looking at where we can find things which will help us enable or enhance our strategic positioning,” ⁠CFO Samir Seksaria said.
+
+## AI: Friend or foe?
+
+Krithivasan dismissed concerns that AI would disrupt the outsourcing model, arguing ​that companies still need partners such as TCS to integrate ‌and deploy AI systems.
+
+Story continues below this ad
+
+“What you need is a deep knowledge of the customer environment to make it work. That is where we differentiate ourselves. This has ‌nothing to do with ​cost arbitrage. It’s essentially ​because of ​the talent pool that we have built,” Krithivasan said.
+
+Companies increasingly use multiple AI models and require partners such as TCS to connect those models ​with existing systems and manage data flows, he said.
+
+Even so, ⁠TCS’s annualised AI revenue growth slowed to 13% in the first quarter from 28% in the previous quarter. Krithivasan said he would like the business to grow about 25% quarter-on-quarter over the ‌long term but ⁠that he did not expect a linear trajectory.
+
+TCS spends about $1 billion annually on talent development and making AI accessible internally, with a focus on ​training, targeted hiring and niche recruitment in AI-native technologies, Seksaria said.
+
+---
+
+### Unauthorised construction to be demolished within 72 hrs of detection: DDA issues SOP
+*Devansh Mittal · legal*
+
+The DDA has introduced a new SOP to demolish unauthorised construction and encroachments within 72 hours of detection. (Representative image)
+
+Unauthorised construction and encroachment on Delhi Development Authority (DDA) land will be demolished within 72 hours of detection under a new Standard Operating Procedure (SOP) **issued by the agency for its** Flying Squad Teams and Quick Response Teams (QRTs).
+
+The SOP was issued days after Lieutenant Governor Taranjit Singh Sandhu chaired a meeting of the DDA’s Advisory Council and directed a zero-tolerance approach towards encroachment across the Capital, according to the DDA.
+
+Unauthorised construction has come under the spotlight after a recent collapse of a five-storey building near Saket Metro station in South Delhi’s Mehrauli that left six people dead, and a fire at a B&B facility in South Delhi’s Hauz Rani that claimed 23 lives.
+
+As many as 14 Flying Squad Teams have been set up across DDA zones to carry out regular field inspections. These teams are tasked with **identifying unauthorised construction** and encroachment at an early stage, verifying land ownership and status, and documenting violations through geo-tagged, time-stamped photographs before submitting reports for enforcement action.
+
+Four Quick Response Teams will undertake prompt demolition and removal operations immediately upon identification of violations and completion of the requisite legal procedures, wherever applicable, the DDA said. Their responsibilities include filing a demolition report with geo-tagged before-and-after photographs, videographing the exercise if required and installing a DDA ownership board at the site.
+
+The SOP also allows the use of drone-based inspections and integration with Vacant Land Monitoring System (VLMS) to update land records, verify vacant plots after demolition and monitor sites to prevent re-encroachment, the DDA said. It added that ongoing unauthorised construction on private land within DDA Development Areas will also be demolished after due legal process.
+
+The framework also assigns specific responsibilities to the DDA’s Land Management, Engineering and Horticulture departments, which the agency said are aimed at improving coordination and accountability among field officers.
+
+Devansh Mittal is a Correspondent at The Indian Express, based in the New Delhi City bureau. He reports on urban policy, civic governance, and infrastructure in the National Capital Region, with a growing focus on housing, land policy, transport, and the disruption economy and its social implications. Professional Background Education: He studied Political Science at Ashoka University. Core Beats: His reporting focuses on policy and governance in the National Capital Region, one of the largest urban agglomerations in the world. He covers housing and land policy, municipal governance, urban transport, and the interface between infrastructure, regulation, and everyday life in the city. Recent Notable Work His recent reporting includes in-depth examinations of urban policy and its on-ground consequences: An investigation into subvention-linked home loans that documented how homebuyers were drawn into under-construction projects through a “builder–bank” nexus, often leaving them financially exposed when delivery stalled. A detailed report on why Delhi’s land-pooling policy has remained stalled since 2007, tracing how fragmented land ownership, policy design flaws, and mistrust among stakeholders have kept one of the capital’s flagship urban reforms in limbo. A reported piece examining the collapse of an electric mobility startup and what it meant for women drivers dependent on the platform for livelihoods. Reporting Approach Devansh’s work combines on-ground reporting with analysis of government data, court records, and academic research. He regularly reports from neighbourhoods, government offices, and courtrooms to explain how decisions on housing, transport, and the disruption economy shape everyday life in the city. Contact X (Twitter): @devanshmittal\_ Email: devansh.mittal@expressindia.com ... 
+
+**Stay updated with the latest - Click here to follow us on Instagram**
+
+-   Tags:
+-   DDA
+
+---
+
+### Srinagar sees barricading, high security as access to Martyrs' Graveyard blocked
+*India Today News Desk · general*
+
+## Officials said the area within a 1-km radius of the Martyrs' Graveyard in Srinagar was sealed on Sunday ahead of the commemoration. Barricades were erected across the city, while police and paramilitary personnel were deployed in large numbers.
+
+Srinagar sees heavy deployment of security to prevent Martyrs' Day protests.
+
+Authorities imposed sweeping restrictions across parts of Srinagar on Monday, sealing off the Martyrs' Graveyard and deploying heavy security to prevent gatherings on July 13, observed by many in Kashmir as the anniversary of the 1931 killings.
+
+July 13 marks the anniversary of the killing of 22 protesters, who were shot dead by the Dogra army outside Srinagar's Central Jail in 1931.
+
+The date ceased to be a gazetted holiday in 2020 after the Lieutenant Governor-led administration removed it from the official holiday calendar.
+
+Officials said the area within a 1-km radius of the graveyard was sealed on Sunday ahead of the commemoration. Barricades were erected across the old city and in parts of the civil lines area, while police and paramilitary personnel were deployed in large numbers to maintain law and order.
+
+A multi-layered security cordon comprising concertina wire, plastic barricades, GI sheets and metal poles was put up near Nowhatta to stop political leaders and members of the public from marching to the graveyard.
+
+Jammu and Kashmir Education Minister Sakina Itoo said she was prevented from entering the memorial despite attempting to visit it early in the morning.
+
+"I tried to visit the Mazar-e-Shuhada at 4.30 am today to pay my humble tributes to our martyrs of 13th July. However, due to the heavy deployment of security forces and extensive barbed-wire barricading around the graves, I was prevented from entering," she wrote on X, sharing a video of the blocked approach.
+
+> I tried to visit the Mazar-e-Shuhada at 4:30 AM today to pay my humble tributes to our martyrs of 13th July. However, due to the heavy deployment of security forces and extensive barbed-wire barricading around the graves, I was prevented from entering. I was accompanied by the pic.twitter.com/8ca75MSHRX— Sakina Itoo (@sakinaitoo) July 12, 2026
+
+According to sources, the restrictions were imposed to avoid a repeat of last year's dramatic scenes, when Chief Minister Omar Abdullah climbed over the locked gate of the graveyard to offer prayers after police denied entry. In Jammu and Kashmir, the police function under the Lieutenant Governor.
+
+Ahead of last year's commemoration, Omar Abdullah and several other leaders were placed under house arrest.
+
+Despite the restrictions, National Conference president Farooq Abdullah reached the memorial in an autorickshaw from Khanyar crossing, while Itoo travelled pillion on a scooter.
+
+Omar Abdullah later climbed over the main gate of the graveyard. His security personnel and several party leaders followed him, after which police opened the gates.
+
+\- Ends
+
+India Today Web Desk
+
+Jul 13, 2026 09:13 IST
+
+---
+
+### Samsung Electronics to advance start of chip factory in Yongin to 2029
+*Karan Mahadik · technology*
+
+Samsung shares ‌have skyrocketed to record highs this year and are up 62% since January, outperforming the wider South Korean market's 34% gain and delighting shareholders. (Image: Samsung)
+
+Samsung Electronics said on Monday it aims to bring forward the start of operations of its chip fabrication site in the city of Yongin, ⁠south ​of Seoul, to 2029 from 2030-2031, as it seeks to keep up with surging demand for memory chips ​used ​in AI infrastructure.
+
+Last month, ⁠both Samsung and its South Korean rival SK ‌Hynix announced pledges to invest hundreds of billions of dollars in expanding production capacity at home, after President Lee Jae Myung called for measures to narrow regional economic ⁠divides.
+
+Under the ⁠plan, the government hopes South Korea can double its ⁠memory-chip ‌production capacity within ​five years by speeding up ‌the construction of fabs by Samsung and SK Hynix ‌in Yongin, and ​building a ​new ​chip cluster in Gwangju city.
+
+Samsung Electronics “plans to begin ​operations at its first fabrication ⁠plant in Yongin by 2029, which is one to two years ahead ‌of ⁠the original schedule,” a spokesperson said in a statement.
+
+---
+
+### Shillong Teer Result Today, July 13, 2026: First And Second Round Winning Numbers
+*Nibandh Vinod · general*
+
+Shillong Teer Result Today: Check the latest winning numbers for Shillong Teer, Juwai Teer, Khanapara Teer, Shillong Morning Teer and Night Teer for July 13, 2026.
+
+[Read full article](https://www.news18.com/india/shillong-teer-result-today-july-13-2026-winning-numbers-10207526.html)
+
+---
+
+### Bengaluru Woman Confronts, Slaps Co-Passenger Over Alleged Inappropriate Behaviour | Video
+*Aanchal Sinha · general*
+
+The viral video shows the woman slapping the accused multiple times inside the moving bus as fellow passengers gather around him and question him over the alleged misconduct.
+
+[Read full article](https://www.news18.com/india/bengaluru-woman-confronts-slaps-co-passenger-over-alleged-inappropriate-behaviour-video-ws-l-10207491.html)
+
+---
+
+### Can't get over Derry Girls? Watch these 4 equally funny and heartfelt series
+*SECTIONS Can't get over Derry Girls Watch these · business*
+
+Few coming-of-age comedies have captured the awkwardness, chaos and warmth of teenage life quite like Derry Girls. With its sharp humour, unforgettable friendships and backdrop of 1990s Northern Ireland during the Troubles, the series became a global favourite. Created and written by Lisa McGee, the sitcom drew inspiration from her own childhood growing up in an Irish Catholic family in Derry, making its characters and stories feel both hilarious and authentic. If you've finished binge-watching Derry Girls and are looking for something with a similar blend of humour, heart and memorable characters, these four shows deserve a place on your watchlist.
+
+## The Inbetweeners
+
+If you enjoyed the awkward teenage humour of Derry Girls, The Inbetweeners is an easy next pick. Created and written by Damon Beesley and Iain Morris, the British coming-of-age sitcom originally aired on E4 between 2008 and 2010.
+
+The series follows William McKenzie, played by Simon Bird, and his friends Simon Cooper, Neil Sutherland, and Jay Cartwright, portrayed by Joe Thomas, Blake Harrison, and James Buckley, respectively. Together, they stumble through embarrassing school moments, friendships, romance and adolescence at the fictional Rudge Park Comprehensive. Although it received a modest response at its premiere, the sitcom later became one of the most celebrated British comedies of the 21st century.
+
+  
+
+## Moone Boy
+
+Fans who appreciated the Irish humour and nostalgic setting of Derry Girls should also try Moone Boy. The Irish sitcom was created, co-written by and stars Chris O'Dowd, alongside co-writer Nick Vincent Murphy. Inspired by O'Dowd's own childhood, the show follows Martin Moone, a 12-year-old boy growing up in Boyle, County Roscommon, during the late 1980s and early 1990s. Martin's imaginary friend, Seán Murphy, helps him navigate everyday challenges while his vivid imagination brings his drawings and elaborate schemes to life.
+
+Produced by Baby Cow Productions, Sprout Pictures, Hot Cod Productions and Grand Pictures, the series combines childhood nostalgia with quirky humour and heartfelt family moments.
+
+  
+  
+
+## Father Ted
+
+For viewers who enjoy distinctly Irish comedy, Father Ted remains a timeless classic. Created by Irish writers Graham Linehan and Arthur Mathews, the sitcom is widely regarded as one of the greatest comedy series ever made.
+
+Set on the fictional Craggy Island off Ireland's west coast, the story follows Father Ted Crilly, played by Dermot Morgan, along with fellow priests Father Dougal McGuire, portrayed by Ardal O'Hanlon, and Father Jack Hackett, played by Frank Kelly. The trio live together under the watchful eye of housekeeper Mrs Doyle, portrayed by Pauline McLynn, after being exiled by Bishop Leonard Brennan, played by Jim Norton.
+
+Beneath its witty humour, the show explores themes including loneliness, existentialism and faith. Father Ted won multiple British Academy Television Awards, including Best Comedy Series twice, and remains hugely popular across Ireland and the UK.
+
+## On My Block
+
+If you enjoyed the strong friendships and emotional storytelling in Derry Girls, On My Block offers a fresh perspective with a different setting. Created by Lauren Iungerich, Eddie Gonzalez and Jeremy Haft, the American teen comedy-drama is set in the fictional Los Angeles neighbourhood of Freeridge.
+
+The series stars Sierra Capri, Jason Genao, Brett Gray, Diego Tinoco, Jessica Marie Garcia, Julio Macias and Peggy Blow. It follows four close friends as they navigate high school while trying to stay away from the gang violence surrounding their community. Despite tackling serious issues, the show balances emotional storytelling with humour through its memorable characters and friendships. Its mix of comedy and drama earned it the Choice Breakout TV Show award at the 2018 Teen Choice Awards, along with nominations from the Black Reel Awards and the Imagen Awards.
+
+Whether you're looking for more laugh-out-loud teenage chaos, heartfelt friendships or nostalgic coming-of-age stories, these shows capture many of the qualities that made Derry Girls such a memorable watch.
+
+---
+
+### 13 wedding guests killed in three-truck collision in Indonesia
+*Express Web Desk · legal*
+
+Five survivors were hospitalised with grave to minor injuries. (Representational Image)
+
+As many as 13 people were killed, and five were injured after their pickup truck was crushed between two other trucks on a highway in Indonesia’s Java on Sunday afternoon, the Associated Press (AP) reported.
+
+The pickup truck was carrying wedding guests returning home after the function in Parean village when the accident occurred on the busy northern coastal highway near Kiajaran Kulon village in Indramayu regency.
+
+## What exactly happened on the highway
+
+Local traffic police chief Undang Syarif Hidayat said the open-bed pickup truck carrying the guests slowed and stopped near a median opening to make a U-turn on the highway. A wing-box truck travelling in the same direction rammed the pickup truck from behind, and the impact sent it in the opposite direction, where it was struck by another truck.
+
+“The powerful collision hurled more than a dozen people from the pickup truck onto the highway,” _AP_ quoted Hidayat as saying.
+
+Five survivors were hospitalised with grave to minor injuries.
+
+An investigation into the crash is underway.
+
+---
+
+### India News Live Updates, 13 July 2026: Four minors feared drowned in Yamuna in Delhi; search enters second day
+*Express Web Desk · politics*
+
+National Disaster Response Force (NDRF) conduct a search operation in the Yamuna after four minors were feared drowned while bathing near Hiranki village and being swept away by the river's strong current. (Source: Express Archives)
+
+Four minors are feared to have drowned after they were swept away by the current of the Yamuna while bathing near Hiranki village in outer north Delhi’s Alipur area on Sunday evening. Police said five minors had entered the river, but one managed to raise an alarm after the others were caught in the current and went missing. A joint search operation involving the NDRF, DDMA, Delhi Fire Services and local police continued for the second day on Monday. No bodies had been recovered till the latest reports, officials said.
+
+## If you are just joining us, this is The Indian Express Realtime breaking news blog – where we bring you the latest news updates of the day in real time. Scan the top headlines of the day here, or keep scrolling to see the latest updates stream in.
+
+## Balotra Scorpio-dumper truck crash
+
+Three people were killed and five injured in Rajasthan’s Balotra in the early hours of Sunday after a high-speed Scorpio collided with a dumper truck on the intervening night of July 12 and 13.
+
+Story continues below this ad
+
+## 27 dead in Bangkok pub fire
+
+A **fire tore through a pub in Bangkok**, killing at least 27 people and injuring dozens more, in one of Thailand’s deadliest venue fires in recent years. The blaze has raised immediate questions about fire safety standards and emergency exits at crowded entertainment venues in the city.
+
+## Manipur earthquake
+
+A mild earthquake measuring 3.9 on the Richter scale struck Manipur’s Kamjong district early Monday morning, the National Center for Seismology (NCS) said. The tremor occurred at 6.32 am at a depth of 80 km, with its epicentre located in Kamjong district, about 31 km east-southeast of Imphal. There were no immediate reports of damage or casualties.
+
+## 1.27 crore bedroll items stolen since 2022
+
+An RTI investigation by _The Indian Express_ found that between January 2022 and May 2026, at least 1.27 crore bedroll items, including **bedsheets, blankets, pillows, pillow covers and towels, were stolen from Indian Railways AC coaches**. Based on replies from 54 of 69 railway divisions across 16 railway zones, the data show a 56% increase in thefts from 2022 to 2025. While the losses account for only about one bedroll item per 1000 AC passengers, they have caused an estimated Rs 104.51 crore loss to bedroll contractors, with coach attendants alleging that much of the cost is deducted from their salaries.
+
+## Maharashtra removes 92 lakh ‘Ladki Bahin’ beneficiaries
+
+A state-wide verification of **Maharashtra’s Mukhyamantri Majhi Ladki Bahin Yojana** has led to the removal of more than 92 lakh beneficiaries, nearly four in every 10 women enrolled under the flagship welfare scheme, according to government records reviewed by _The Indian Express_. The largest share of deletions, around 62 lakh, was due to beneficiaries failing to complete mandatory eKYC verification, while others were found ineligible for reasons such as exceeding the income limit, being government employees, receiving benefits under other welfare schemes, or crossing the age limit. The exercise has reduced the scheme’s beneficiary count from about 2.43 crore to over 1.5 crore, with officials estimating that those removed had collectively received around Rs 14,000 crore before payments were stopped.
+
+## Iran retaliates to US strikes; sirens sound across Bahrain
+
+Sirens have sounded in Bahrain as Iran retaliated to a fresh wave of US airstrikes, pulling Gulf states deeper into a conflict that has rapidly escalated beyond the Strait of Hormuz. The exchange marks one of the most dangerous phases of the US-Iran confrontation since the ceasefire collapsed.
+
+© IE Online Media Services Pvt Ltd
+
+-   Tags:
+-   breaking news
+
+---
+
+### AI to track every rupee? Ram temple donations theft sparks tech push
+*Samarth Srivastava · general*
+
+## According to sources, the proposed AI-powered surveillance system would be one of the key recommendations in the report, aimed at strengthening oversight of temple operations, monitoring the handling of offerings and ensuring greater transparency during the counting of donations.
+
+The SIT probing the Ayodhya Ram Temple donation theft is likely to recommend AI-based monitoring in its final report.
+
+The Special Investigation Team (SIT) probing the Ayodhya Ram Temple donation heist is likely to recommend an AI-based monitoring system to prevent future thefts, sources said, as the panel prepares to submit its final report to the Uttar Pradesh government by July 15.
+
+According to sources, the proposed AI-powered surveillance system would be one of the key recommendations in the report, aimed at strengthening oversight of temple operations, monitoring the handling of offerings and ensuring greater transparency during the counting of donations.
+
+The SIT was constituted by the Uttar Pradesh government on June 13 to probe the misappropriation of cash and valuables donated at the Ram Temple. The panel, headed by Lucknow Divisional Commissioner Vijay Vishwas Pant, began its investigation on June 15.
+
+A week later, on June 23, the SIT submitted its preliminary report to the state government.
+
+The report revealed as many as 70 instances of donation theft within just 40 days, backed by CCTV footage collected during the investigation.
+
+With the probe expanding in scope, the SIT sought additional time to complete its enquiry.
+
+The Uttar Pradesh government subsequently extended its tenure by 15 days on July 1 and directed it to submit the final report by July 15.
+
+The SIT is also expected to revisit Ayodhya in the coming days to examine additional records and question people associated with the Shri Ram Janmabhoomi Teerth Kshetra Trust and the temple's donation management system.
+
+The controversy has also prompted the trust to review how donations are handled.
+
+At present, all cash collected from the temple's donation boxes is deposited with the State Bank of India (SBI) branch at Naya Ghat in Ayodhya. However, the trust is now exploring alternatives, including shifting to another bank or distributing deposits across multiple banks.
+
+The review follows a meeting earlier this week between trust treasurer Govind Dev Giri and officials of a private sector bank, sources said.
+
+Former trust general secretary Champat Rai, in his statement before the SIT, alleged that SBI had failed to enforce basic safeguards during cash counting, including mandatory frisking of staff, pocketless uniforms and other standard security measures required for handling large volumes of cash.
+
+The SIT's preliminary findings also flagged repeated violations of security protocols during cash counting and examined whether supervisory lapses contributed to the alleged embezzlement.
+
+Meanwhile, investigators have widened the financial probe by seeking details of the accused persons' income, bank accounts, investments, movable and immovable assets from the Income Tax Department, banks, tehsil offices and sub-registrar offices.
+
+Police are also verifying whether any assets were acquired outside Ayodhya district or whether investments were made in the names of relatives or associates of the accused.
+
+Eight people, including trust employees associated with the temple's donation-counting process, have been arrested so far.
+
+Police have recovered around Rs 80 lakh in cash and some jewellery from some of the accused.
+
+Separately, the Trust has also tightened security protocols by deactivating the identification credentials previously used by Champat Rai, Gopal Rao and trustee Anil Mishra to issue VIP entry passes.
+
+With the IDs deactivated following their resignations, all passes issued through those credentials have become invalid, sources said.
+
+In another development, police have sought a seven-day custodial remand of two jailed accused, arguing that fresh disclosures made during the investigation require verification and recovery of additional evidence.
+
+The Anti-Corruption Court is scheduled to hear the plea on July 14.
+
+\- Ends
+
+Karishma Saurabh Kalita
+
+Jul 13, 2026 09:03 IST
+
+---
+
+### Lucknow-Kanpur Expressway Inauguration Today: 3-Hr Drive Cut To 35 Mins, AI Cameras, Costlier Toll
+*Parishmita Saikia · lifestyle*
+
+Uttar Pradesh's first intercity expressway between Lucknow and Kanpur opens on July 13, reducing travel time to 35-45 minutes with barrier-free tolling and AI safety systems
+
+[Read full article](https://www.news18.com/photogallery/cities/lucknow-news/lucknow-kanpur-expressway-inauguration-today-3-hr-drive-cut-to-35-mins-ai-cameras-costlier-toll-ws-l-10207410.html)
+
+---
+
+### 'Where Is Priyanka Gandhi?' BJP Says Wayanad MP Offered Only ‘Token Tweet’ After Deadly Landslide
+*Mallika Soni · general*
+
+BJP accused Congress leadership as the death toll from Wayanad landslide rose to eight after rescue teams recovered the body of the last person feared trapped.
+
+[Read full article](https://www.news18.com/india/where-is-priyanka-gandhi-bjp-says-wayanad-mp-offered-only-token-tweet-after-deadly-landslide-ws-l-10207493.html)
+
+
+---
+
 ## 12 July 2026
 
 ### From climate to statecraft: The changing meaning of sustainability
