@@ -1,10 +1,176 @@
 # Editorials
 
-_Last updated: 2026-07-12 04:55 UTC_
+_Last updated: 2026-07-13 05:01 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
 
+## 13 July 2026
+
+### ​Insular incentive: On ethanol-blended fuel and the Indian consumer
+*The Hindu · Editorial*
+
+The Indian government’s policy to continue producing E20 petrol at a cost higher than that of pure petrol when oil prices dip under $70 a barrel to “compensate farmers adequately” is a deceptively well-formulated proposition. Most feedstock for the fuel-blending programme is from sugarcane, one of India’s most water- and fertilizer-intensive crops, mainly grown in water-stressed Maharashtra and Karnataka. Whether the policy’s net economic benefit remains positive will depend on the gains from lower crude imports, environmental improvements, and higher rural incomes outweighing these additional costs. Efficiency also remains a concern. Consumers — including people who are poorer than sugarcane farmers — pay more at the pump, oil marketing companies procure ethanol at the administered price, distilleries buy feedstock, and only then do farmers receive higher prices. Higher feedstock prices also do not address most reasons farmers have lower incomes, such as post-harvest losses and limited market access. Crucially, if the government rewards every unit of ethanol irrespective of feedstock, the policy will favour whichever feedstock has the largest installed base: sugarcane. Instead, the objectives should include resource efficiency and food security. The state could invest in irrigation and logistics and institute revenue-sharing arrangements with ethanol producers and cooperatives.
+
+India has encouraged maize and grain-based distillation capacity has expanded rapidly, periodically allowed ethanol to be produced from the Food Corporation’s surplus or damaged rice holdings, and has supported commercial plants using agricultural residues such as rice straw under Ministry of Petroleum and Natural Gas schemes. Maize and millets are less thirsty but maize still demands significant fertilizer inputs while millets produce less fermentable starch per hectare. Sweet sorghum is less water-intensive and has a shorter growing season than sugarcane. Lignocellulosic biomass such as rice and wheat straw, maize stover and groundnut shells can also support second-generation (2G) ethanol. 2G ethanol from agricultural residues can avoid using cropland for fuel, reducing competition with food crops and addressing stubble burning. It is more expensive and technologically demanding but that is a better problem to solve, with proactive policymaking. The government could pay a premium for ethanol produced from residues, subsidise equipment and infrastructure to collect and store crop residue, facilitate contracts between aggregators and distilleries, and provide viability-gap funding and offtake agreements. Ultimately, ethanol policy should not be independent of agricultural policy. And import substitution is no excuse for consumers being forced to pay more for lower-mileage fuel than pure petrol.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/insular-incentive-on-ethanol-blended-fuel-and-the-indian-consumer/article71214023.ece)
+
+---
+
+### Oil conundrum: On India’s energy imports from Russia
+*The Hindu · Editorial*
+
+Union Ministry of Commerce and Industry (MCI) data on India’s May crude imports show that receipts from Russia had reached the pre-sanction levels of more than 40%, which is also the highest in two years. Though India has defended this as commercially prudent, its yuan-based payments give China an edge to internationalise its currency at India’s expense, even if it has no bearing on the domestic strength of the Indian rupee due to strict capital controls. Oil import concentration from a single source, and paying a premium, is risky for India, which has long pursued a diversified energy strategy. Moreover, sourcing fuel from the Gulf spot market amid evolving sanctions has its own risks. Secondary sanctions could hit trade channels, exposing Indian refiners to severe supply shocks. India’s crude imports from Russia surged in June, while UAE shipments were at record levels as refiners sought to secure supplies after the Strait of Hormuz reopened. However, renewed Iran-U.S. hostilities have put those flows at risk. And even as Venezuela has emerged as a key supplier, increasing and unsustainably high one-country concentration could weaken India’s bargaining power, reduce flexibility, and erode its credibility as an independent balancing power.
+
+MCI data highlight the price impact: Russian imports carried a $46-per-ton premium. Import value surged 83% amid a 2% fall in volume, likely diminishing Indian refiners’ margins on refined products using Russian crude. While spot purchases have enabled refiners to capture discounts of up to $10 per barrel on Russian Urals crude relative to Brent during some periods, after February this year, narrowing discounts, weaker product cracks, and geopolitical risks have moderated gross refining margins. India must strike a balance between having long-term stable contracts with multiple producers, and selectively using the spot-market to mitigate the procurement risks. Until the Russia-Ukraine conflict, nearly 70% of India’s crude imports came through long-term contracts, particularly from West Asia. True, India cannot overlook the diplomatic costs as Russian energy dependence risks sanctions. When Russian crude was cheap because of discounts on account of the Ukraine war, India reduced imports under U.S. pressure; now when it is being sold at a premium because of the Iran war, India is moving back to Russian crude. India must expand its strategic petroleum reserves to cushion temporary disruptions. Whether it increases or cuts down Russian oil imports, India seems to make decisions that are far removed from any sense of strategic autonomy.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/oil-conundrum-on-indias-energy-imports-from-russia/article71214010.ece)
+
+---
+
+### Five crore Indians wait when the courts take a break
+*The Hindu · Opinion*
+
+The Supreme Court of India and the major High Courts are on a summer holiday break, i.e., shut down with some vacation Benches functioning to hear urgent matters. However, shops, markets, eating places, government and private offices, hospitals and police stations do not cease to work even though their staff enjoy personal leave. On the other hand, somewhere in an Indian jail tonight, a man who has been convicted of nothing is finishing another year behind bars, his trial still ongoing and perhaps years away from ending. He is one of the roughly three in four prisoners in this country who are undertrials: unconvicted, presumed innocent, yet serving time anyway — often longer than the sentence they would have received had they pleaded guilty. And as you read this, the courts, the public institutions that hold the fate of the poor in their hands, are functioning at only a fraction of their strength.
+
+A three-century backlogFrom June 1 to July 12, the Supreme Court is on its summer break, sitting with three or four Benches a week instead of a full court and resuming in earnest on July 13. The doors are not bolted; urgent pleas are still heard. But for six weeks, the most powerful court in the world’s most populous democracy idles.
+
+Now hold that against the number it is meant to be fighting. As of the last day of 2025, more than 5.39 crore cases were pending in Indian courts: over 4.76 crore in the district courts, 63.6 lakh in the High Courts, and more than 92,000 in the Supreme Court itself, its heaviest load in over 30 years. A government study once calculated that, at the present pace, clearing the pile could take three centuries.
+
+Three centuries. And the Court takes the summer and winter vacations off.
+
+To be fair, the judges deserve it. The recess is when reserved judgments finally get written, when the brutal daily cause-list eases enough to think.
+
+Last year the Chief Justice of India and his four senior-most colleagues worked clean through the first week of the break. Indian judges are among the most overworked in the world. This is not an accusation of laziness; no one who has seen a judge’s docket could make one.
+
+Because that is precisely the point. When the people doing the work are exhausted and the backlog is biblical, what conceivable logic shuts the whole shop at once? Not that judges rest — which they should — but that almost all of them rest together, so the institution goes quiet for six-plus weeks every year. And the habit is a colonial hand-me-down: the calendar was built for English judges who could not stand the Indian heat and retreated to cooler climes each summer, then enjoyed long Christmas holidays in the winter.
+
+In 2024, the Court announced a fix: it renamed the “summer vacation” as “partial court working days”. That was it. The number of days it actually sits — about 190 days in a a year — did not change. You cannot rebrand your way out of a backlog; a litigant whose case is stuck does not care what the recess is called, only whether his matter is heard and disposed of.
+
+Justice needs court continuitySo what would actually help? The first answer is one the judiciary’s own watchdogs have urged for years: do not abolish judicial rest; stagger it. A parliamentary standing committee in 2023 objected to “the entire court going on vacation en masse”, and proposed the obvious: rotate the leave, keep the Benches full, and never let the court run thin. A hospital does not empty its wards because its doctors are owed time off; it builds a roster. The Law Commission and the Justice Malimath Committee said the same, long ago. They were not enemies of the courts; they were trying to save them from themselves.
+
+The standard objection is that all this is a sideshow: the real disease is vacancies, not vacations. It is true that courts are starved of judges, with up to a third of High Court seats lying empty. But the objection boomerangs. If the Bench is already running at half strength, thinning it further for six weeks every summer is not a defence of the recess; it is the strongest case against it. And while filling those seats depends on the government and the collegium and will drag on for years, the calendar is the judiciary’s to fix. One reform needs permission; the other needs only will.
+
+Beyond courts, towards solutionsStaggering the leave, though, only treats the symptom. The deeper fix is to keep disputes out of the courtroom in the first place; it was never meant to be the first stop for every quarrel, but the last. India already has the tools. Lok Adalats settled more than 2.59 crore cases in a single national sitting last December, and over 23.5 crore in three years. The Mediation Act of 2023 now nudges parties to attempt settlement before going to court, and arbitration can take commercial disputes entirely out of judges’ hands; yet these routes remain badly underused. But none of this happens on its own.
+
+The country has a reservoir of experience it scarcely draws on: its retired judges, who spent their careers mastering this very machinery and step down, still in full command of it, at 62 or 65. Their expertise need not retire with them. Albeit many of them do function as heads of quasi-judicial bodies and tribunals. Freed from any daily docket, a dedicated corps of former judges could be invited to take up a single targeted charge: identify where cases pile up, set public targets for their disposal, and account for progress openly. Reform that belongs to everyone belongs to no one.
+
+The judges will keep working through the heat, as they always do. The honest demand is not that they stop resting, but that the courts stop closing ranks and falling silent at the same moment, because justice, for five crore Indians, is not on vacation. It is overdue.
+
+Vijay L. Kelkar is Vice-Chairman of the Pune International Centre. Pradeep S. Mehta is Secretary-General of CUTS International (Consumer Unity and Trust Society). With contributions from Anushka Kewlani of CUTS
+
+[Read full article](https://www.thehindu.com/opinion/lead/five-crore-indians-wait-when-the-courts-take-a-break/article71214475.ece)
+
+---
+
+### Bharat Bhushan | BNP Govt In Dhaka Risks Squandering India's Trust
+*Deccan Chronicle · Opinion*
+
+When Bangladesh’s new Prime Minister Tarique Rahman took office in February 2026, there was an air of optimism about a reset of India-Bangladesh ties. The removal of the interim administration of Muhammad Yunus, and its open anti-India bias, seemed to open space for a reboot.
+
+That hope seems to have dissipated.
+
+The election of the Bangladesh Nationalist Party government in February was a high-water mark. At Mr Rahman’s oath-taking, Lok Sabha Speaker Om Birla carried Prime Minister Narendra Modi’s invitation to Mr Rahman him to visit India. External affairs minister S. Jaishankar represented India at Begum Khaleda Zia’s funeral and by April the Indian high commissioner in Dhaka was speaking of a “forward-looking reset” directly with Mr Rahman.
+
+And then everything fell apart.
+
+India’s new high commissioner Dinesh Trivedi, who presented credentials on June 25, has not been able to meet a single Bangladeshi minister. His request for an appointment with Mr Rahman has not fructified. Mr Rahman also declined to make India his first foreign visit. He chose Malaysia first, with China next. The third is likely to be to Saudi Arabia. It is telling that his trip to India has been pending for five months. Several grievances seem to have accumulated and stalled the anticipated reset.
+
+Bangladesh summoned Indian diplomats twice -- after Assam chief minister Himanta Biswa Sarma’s “detect, delete and deport” push against Bangladeshi migrants, and again after West Bengal’s newly-minted BJP government pushed back alleged illegal migrants. An adviser in Mr Rahman’s PMO, Zahed ur Rahman, known for past anti-India statements, was held at Delhi airport for two hours, and prompted a formal protest by Dhaka. Sheikh Hasina’s presence in India remains a sore point, where she continues to address the media and her party virtually. Her claim that she will return in December is by no means certain. Meanwhile, no progress has been made on renegotiating the Ganga Water Treaty which expires in December 2026 and the Teesta water-sharing agreement remains elusive.
+
+The strength of the anti-India sentiment among Islamic fundamentalists in Bangladesh is evident from the Jamaat-e-Islami misconstruing Mr Trivedi’s remark that India and Bangladesh shared “same sky, same air, same pain” as a reference to the Hindu imperialist idea of “Akhand Bharat”.
+
+Such grievances seem to have come in the way of India-Bangladesh ties moving forward, worsened by Dhaka’s growing closeness to China, apprehensions about the possible emergence of a China-Pakistan-Bangladesh axis, and what many see as Bangladesh’s strategic outreach to Turkey.
+
+Mr Rahman’s China visit produced outcomes that New Delhi may find adverse to its strategic interests. Beijing’s role in the Teesta River Comprehensive Management and Restoration Project worries India because it lies uncomfortably close to the strategic Siliguri Corridor. China, well aware of Indian concerns, has insisted that “no third-party influence” should be allowed to impact the project. The Mongla Port Facilities Modernisation Project is also a matter of grave concern as Mongla is only 80 km from India’s border. Such a proximate Chinese presence could enable maritime surveillance and electronic intelligence gathering.
+
+China’s footprint in the Bay of Bengal will also grow through the China-Myanmar-Bangladesh Economic Corridor, linking Yunnan to Chattogram and Mongla Ports through Myanmar’s Rakhine state. This is not a new idea -- in its earlier avatars, the corridor was variously named as the Asian Highway and BCIM corridor, but India had excluded itself from these Chinese ventures.
+
+The agreement for a multi-modal corridor now suggests Dhaka is looking eastward, and increasing India’s anxiety for several reasons. China already has a deep-sea port at Kyaukphyu in Myanmar, but instability in Rakhine makes its access uncertain. With the new corridor, Bangladesh gains strategic depth and faster export routes, and China a greater presence in the Bay of Bengal. The corridor could potentially even serve as a military highway, with strategic consequences for India
+
+While India also uses the diplomatic-and-defence 2+2 dialogue mechanism with its close partners, the Dhaka-Beijing agreement to set up such a mechanism could ring alarm bells in New Delhi. Bangladesh is already among the largest buyers of Chinese arms and now has in principle agreed to buy 20-24 J-10CE Chinese multirole fighter jets, the same aircraft Pakistan used during Operation Sindoor. The deal is likely to be finalised as early as August 2026.
+
+Such a shared platform would create overlapping military ecosystems of maintenance, spares, and training between Dhaka and Islamabad. They will also deepen China's regional defence footprint.
+
+China’s moves are underpinned by the trilateral China-Bangladesh-Pakistan relationship. Former Bangladesh ambassador Mohammad Harun Al Rashid claimed there is “increasing psychological pressure on Tarique Rahman to build a...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/bharat-bhushan-bnp-govt-in-dhaka-risks-squandering-indias-trust-1970424)
+
+---
+
+### A fragile Western Ghats is warning us
+*Deccan Herald · Editorial*
+
+The recent landslide in Kerala’s Wayanad should serve as a warning for Karnataka’s Western Ghats districts. The wake-up call came in 2018, when devastating landslides ravaged Kodagu and exposed the growing fragility of the region's hills. Eight years later, there is little evidence that those lessons have been learnt. Instead, commercial pressures continue to trump ecological prudence, leaving Kodagu, Chikkamagaluru, Shivamogga, and Uttara Kannada increasingly vulnerable. Extreme rainfall triggered both the Kodagu and Wayanad tragedies, but nature alone cannot be blamed. Across the Western Ghats, hill slopes have been cut indiscriminately for roads, resorts, and homestays, natural drainage channels have been blocked, forests fragmented, and construction steadily expanded into geologically fragile terrain. Climate change has intensified rainfall, but human intervention has magnified its destructive impact. Over-tourism, far exceeding the carrying capacity of these ecosystems, also deserves scrutiny.
+
+Successive governments have also failed to act on scientific advice. The Kasturirangan Committee, set up to balance conservation and development in the Western Ghats, has remained mired in political controversy for over a decade. While local concerns deserve attention, allowing the report to gather dust has left sensitive areas without effective regulation. The dilution of safeguards under the Forest (Conservation) Amendment Act, 2023, has further heightened concerns by exposing unclassified and deemed forest areas to commercial pressures. The Geological Survey of India has identified several landslide-prone zones in Kodagu and recommended regulating construction in vulnerable areas, restoring natural drainage, reshaping unstable slopes, and promoting native vegetation to stabilise soil. It has also called for stricter zoning and restrictions on construction in hazard zones. These recommendations apply to other hill districts facing similar risks.
+
+Protecting the Western Ghats does not require halting development. It requires recognising that ecological security is the foundation of sustainable growth. Scientific land-use planning, strict regulation of construction, tourism based on carrying-capacity assessments, restoration of degraded forests, and timely implementation of expert recommendations can substantially reduce the risk. Local Biodiversity Management Committees must be empowered to play a meaningful role in land-use decisions, while infrastructure projects should adopt climate-resilient engineering practices. An empowered inter-state Western Ghats Ecology Authority could co-ordinate conservation efforts, regulate major land-use changes, and strengthen disaster preparedness across the mountain range. Karnataka cannot afford to wait for another Wayanad or another Kodagu before acting. Nature has warned us more than once; ignoring it invites an even harsher reckoning.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/a-fragile-western-ghats-is-warning-us-4071469)
+
+---
+
+### Heatwave demands urgent policy shift
+*Deccan Herald · Editorial*
+
+Europe is in the grip of a severe heat wave that has caused widespread health problems, upset lives and lifestyles, and posed risks to most economies. Over 1,500 deaths have been reported across the continent, with France and Britain suffering the worst so far. Britain recorded its hottest June in history, while Spain, Portugal, Belgium, the Netherlands, and Germany have all seen temperatures soar to 40 degrees Celsius, which is boiler-class weather in Europe. It is 10-12 degrees above normal. Some deaths occurred when people jumped into rivers to escape the heat and drowned. Weather alerts have been issued across many regions. Schools have closed, advisories urge limited travel, and train services have been curtailed amid fears that rail lines could expand and cause accidents. Much of Europe’s infrastructure, houses and other buildings are not designed for this level of heat. Humans and animals alike are struggling to adapt to the new climate reality.
+
+Europe is now caught between hot winds from Africa and a warming Arctic region. Climate change has disrupted weather patterns worldwide, making extreme events increasingly common. Predictions that each year would be warmer than the previous one are proving true. The chances of weather extremes have increased a hundredfold in the last two decades. Nearly half of the 850 cities across 30 European countries have broken, or are expected to break, heat-stress records. Scientists warn that Europe is the fastest-warming continent, with temperatures rising at twice the global average since the 1980s. Many argue that the global warming predictions by the UN’s Intergovernmental Panel on Climate Change (IPCC), which present a scary scenario, may need revision, as the situation could worsen.
+
+Experts have called for adoption of techniques to avoid heat stress, which include better ventilation and creation of more green cover in cities. But it is difficult for people to adopt measures that need longer-term planning and investment. When the risks from climate change are discussed, it is always said that the poor countries will be the worst affected by it. But it is increasingly becoming clear that climate does not discriminate and the whole world will have to pay the price. Climate negotiations have stalled because the rich world has failed to accept its historical responsibility for creating the conditions for climate change and to support the poor world to counter it. The climate disasters in Europe should prompt the rich countries to change their attitudes and policies.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/heatwave-demands-urgent-policy-shift-4071451)
+
+---
+
+### The significance of Muharram
+*Deccan Herald · Opinion*
+
+Muharram is the name of the month which marks the beginning of the Islamic calendar – the Islamic New Year. The month holds great significance for all Muslims but more so for Shias (which literally means followers/faction/party). To understand why, we must go back to 680 CE.
+
+After Prophet Muhammed’s death there was a debate as to who should be the leader of the new community. Abu Bakr, a close companion of the Prophet, became the caliph (successor). However, a section believed that Ali, the dynamic and sagacious son-in-law of the Prophet, ought to have become the caliph. Ali himself never raised this issue – he adhered to the decision and followed the new caliph, and he became the fourth caliph.
+
+He had three sons-- the middle son being Hussain. After Ali’s death, the debate over whether the Caliphate ought to go to somebody from the bloodline of the Prophet came up. However, Yazid, the son of Muawiyah who succeeded Ali, became the caliph. Hussain refused to pledge allegiance to him and travelled towards Kufa (in present-day Iraq) with a small band of 72 people, including women, where he was promised support. But the support did not come. Yazid’s forces marched with anything between 4,000 and 30,000 men, vastly outnumbering Hussain. The battle, more like a massacre, happened in the plains of Karbala (again, in present-day Iraq) on the tenth day of Muharram (known as Ashura) in 680 CE. Hussain was killed. The survivors were captured. What happened in Karbala became the basis for the schism in Islam between the Sunnis, those who followed the Sunnah – the traditions and practices of the Prophet – and Shias, the followers of Ali. Muharram commemorates the martyrdom of Hussain. It commemorates the principles of justice, integrity, and commitment to truth. Hussain’s refusal to surrender is seen as a model of resistance. It is not just death, which is being commemorated every Muharram, especially on the day of Ashura; moral questions are being raised. Will you stand up for justice? Shias remember the martyrdom of Hussain with mournful gatherings, or majlis. A public display of grief accompanied by the rhythmic beating of chests (matam), which can shake and move even a passive onlooker, takes place. To weep for Hussain is to align with him; to self-flagellate is to feel his suffering. The Shias believe that ‘every day is Ashura, every land is Karbala’. Central to the Shia psyche is the shahada, martyrdom, which Hussain chose. The spirit of Karbala resonates to this day.
+
+[Read full article](https://www.deccanherald.com/opinion/the-significance-of-muharram-4071448)
+
+---
+
 ## 12 July 2026
+
+### Chandrakant Lahariya and Abhishek Garg | A ‘Cadaver’ Isn’t A Specimen; It’s The First Teacher In Medical Colleges
+*Deccan Chronicle · Opinion*
+
+The recent controversy over a medical student’s “cadaver” remarks had provoked outrage. A video went viral, apologies followed, an institution ordered an inquiry, and social media did what it often does: converted discomfort into judgment. Yet the incident should not be remembered as one young person’s lapse in language or maturity. It must be treated as a mirror held up to medical education itself.
+
+The question is not whether a cadaver deserves respect. That answer is obvious. The deeper question is why any student could pass through the early years of medical training without absorbing what a cadaver represents. If the first encounter with a donated body becomes only a technical exercise, if the anatomy hall becomes merely a place to identify nerves, vessels and muscles for marks, something fundamental has already been lost.
+
+For generations, dissection halls have marked the beginning of medical education. The earliest doctors were often anatomists who tried to understand the human body. Even today, before a future doctor touches a living patient, listens to a heartbeat, inserts a needle, or counsels a frightened family member, he or she learns from someone who can no longer speak. The cadaver is not a specimen. It is a human being who, through body donation, continues to serve society after death. It is every doctor’s first teacher.
+
+This is why the issue goes beyond hurt sentiments. Body donation is built on trust. Families donate the body of a loved one because they believe medical science will treat it with dignity.
+
+Donors pledge their bodies because they believe that, even after death, they can help train doctors, advance research and future patients. If society feels donated bodies may be treated casually, joked about, discussed without reverence, or turned into entertainment, that trust will erode. The consequences will affect anatomy education, surgical training, research and patient care.
+
+Modern medicine depends on trust. Patients trust doctors with pain, fear, secrets and vulnerability. Families trust hospitals with dying relatives. Body donors trust institutions with mortal remains. Medical education is not merely a transfer of knowledge. It is an initiation into responsibility.
+
+The last decade has seen rapid expansion of medical seats and colleges. Competitive examinations have become more intense, coaching industries have grown, and students enter medical colleges after years of being trained to memorise, compete and outperform. The tragedy is that the same system expects empathy to appear automatically once admission is secured. But empathy is not decorative. It has to be cultivated, modelled, practised and assessed.
+
+A medical student learns not only from lectures, textbooks and examinations, but also from institutional culture. If the senior students and teachers treat cadavers as teaching material without acknowledging the donor, students absorb that. If ward rounds reduce patients to “the liver case” or “the fracture”, students learn distance before care. If colleges celebrate marks more than manners, rank more than reflection, and speed more than sensitivity, the outcome should not surprise us.
+
+There have been attempts to address this gap. The introduction of AETCOM -- Attitude, Ethics and Communication in medical education -- in 2019 was meant to remind future doctors that medicine is not only about diagnosis and treatment, but also about conduct, communication and values. The intention was important. But in many colleges, such modules risk becoming ritualistic: lectures, attendance sheets, role-play exercises, perhaps a question in examinations. Values cannot be imbibed through PowerPoint slides alone. They require lived practice.
+
+Anatomy begins with science, but it must also begin with humility. Medical colleges should treat the first anatomy session as a moral moment. Faculty members must model respect in language and conduct. There should be clear protocols on discussion of cadavers, confidentiality and public behaviour. Students should know that professionalism does not end when they leave campus or enter a comedy club, party or social media platform. The white coat is not worn all the time, but the responsibility of being a doctor-in-training does not disappear.
+
+At the same time, public anger must not become a hunt for one individual. A young student can err in judgment. She can apologise, learn and grow. The purpose of ethics is not to destroy people for lapses, but to build professionals and institutions. If we make this incident only about one person, we will miss its larger lesson.
+
+The real failure is systemic. We have built a medical education pipeline that selects for performance under pressure, rewards memory, tolerates hierarchy, and leaves empathy to chance. We have added ethics to the timetable but not always to institutions. We speak of producing more doctors for India, but not enough about what kind of doctors India needs.
+
+India’s medical education system...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/chandrakant-lahariya-and-abhishek-garg-a-cadaver-isnt-a-specimen-its-the-first-teacher-in-medical-colleges-1970413)
+
+---
 
 ### Krishna Shastri Devulapalli | How A Safe Space Triggered My Trauma
 *Deccan Chronicle · Opinion*
