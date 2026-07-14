@@ -1,3 +1,499 @@
+## 14 July 2026
+
+### J&K teen joins Merchant Navy after just one month of self-study
+*India Today Education Desk · general*
+
+## Tanvi Sharma from Rajouri has joined the Merchant Navy after clearing the 2025 entrance examination with just one month of self-study after Class 12.
+
+Eighteen-year-old Tanvi Sharma from Rajouri has joined the Merchant Navy after clearing the entrance examination in 2025 with just one month of self-study after completing Class 12.
+
+A student with Physics, Chemistry, Mathematics and Biology (PCMB), Tanvi had the option to prepare for engineering or medical entrance exams. Instead, she decided to pursue a different career.
+
+"I wanted to choose a field that was different. I hoped my journey would encourage other young people to explore careers beyond the usual choices," she said.
+
+After learning about opportunities in the Merchant Navy, Tanvi completed her training at T.S. Chanakya, a government-affiliated maritime training institute. She has now been placed with Laurel Ship Management Company and is scheduled to join in August.
+
+Her journey was not easy. She said she had to travel to cities such as Delhi, Mumbai, Bengaluru and Goa to appear for different examinations. She also faced hesitation from family members in the beginning and had limited access to study resources.
+
+Despite these challenges, Tanvi continued preparing on her own. She said consistency and determination helped her move forward.
+
+Tanvi credited her mother for standing by her throughout the process. She said her mother accompanied her to different cities for examinations and supported her during her preparation.
+
+She also thanked her school principal for motivating her to stay focused and work consistently.
+
+Speaking about self-study, Tanvi said external guidance can only help to a certain extent. "You cannot achieve your goal unless you have the passion and determination within yourself," she said.
+
+She added that clearing the examination made all her hard work worthwhile. "I feel proud and happy today. The effort, travel and preparation have finally paid off," she said.
+
+Tanvi also encouraged girls, especially those from Jammu and Kashmir, to pursue their goals without hesitation. She said girls should believe in themselves, remain consistent and not give up when faced with difficulties.
+
+According to Tanvi, she is the first girl from the Pir Panjal region of Jammu and Kashmir to achieve this milestone. She hopes her success will inspire more young people, especially girls, to explore careers in the Merchant Navy and other emerging fields.
+
+(WITH INPUTS FROM ANI)
+
+\- Ends
+
+Rishab Chauhan
+
+Jul 14, 2026 09:00 IST
+
+---
+
+### Iran’s weapons of mass distraction
+*Sandeep Unnithan · general*
+
+The 2003 US invasion of Iran revolved around one acronym – Weapons of Mass Destruction (WMDs) – which Iraqi dictator Saddam Hussein was believed to possess. Then Secretary of State Colin Powell made the case for the US invasion of Iraq by waving a small vial of powder in the United Nations – the quantity of anthrax he estimated would take to kill tens of thousands of people. It was later revealed that those WMDs never existed. Powell deeply regretted that speech and called it a “blot” on his record. It was one of the biggest hoaxes of the 21st century, and a cruel one at that. Over 200,000 Iraqis and 4,431 US soldiers died over the eight-year course of the war.
+
+Twenty-three years later, could we be looking at another hoax? This time, Iranian WMDs – sea mines which the Iranian regime is believed to have laid to block the Strait of Hormuz, the world’s most critical energy chokepoint – over 20 per cent of the world’s crude oil passes through here. Commercial shipping traffic has plummeted since the US-Iran war began – only 14 ships cross per day as compared to a pre-war average of 140 ships per day. The reason? Iran has blocked the Strait of Hormuz since the war began on February 28. The strait is just 33 kilometres at its narrowest point between Iran and Oman. Iran is believed to have used among the nastiest of naval weapons – anti-ship sea.
+
+Large explosive-filled metal containers lie in wait on the sea bed or moored just below the surface, awakened by magnetic, acoustic and pressure changes caused when ships move through water. Designed to disable and destroy warships and merchantmen, they are among the cheapest asymmetric tools of naval warfare, enforcing maritime blockades. The mere declaration of a minefield causes merchant shipping to avoid certain areas, which is what Iran is believed to have implied with its statements.
+
+That Iran has a massive arsenal of sea mines is not in doubt – it is believed to possess between 2,000 and 6,000 such weapons including the most lethal – rocket mines which launch themselves into the underbelly of a passing ship. Between 1987-1988, the US Navy intervened to protect shipping in the strait, destroying several Iranian mine-laying craft. This time around, things are slightly different. Over the past four decades, the Islamic Revolutionary Guard Corps (IRGC) has invested heavily in capabilities to shut the strait – swarming speedboats, unmanned surface vessels and drones. But interestingly, none of the Iranian statements until now have claimed to have mined the strait.
+
+Official statements from the IRGC have only formally declared the strait closed. In April this year, the IRGC released a map of the Strait of Hormuz with a giant red circle bang in the middle of the shipping channels marked “Hazardous Area, restricted for all traffic”. The only safe route were two channels north of this hazardous area under Iranian control, the newly announced Persian Gulf Strait Authority (PGSA).
+
+Yet, despite recent searches, the US military hasn’t been able to find any mines in this hazardous area. Top US officials, however, believe they’re still there. Admiral Daryl Caudle, the US Navy’s Chief of Operations, told Bloomberg News that he believes Iran’s mines are meant to funnel commercial shipping into sea lanes close to Iran’s coast: “There’s no chance they’re not there.”
+
+Other reports quote US officials saying that “Iran cannot locate all the mines it laid in the waterway and lacks the capability to remove them,” which they say, are complicating efforts to fully reopen the strait.
+
+Since the conflict began, Iran has targeted or damaged more than 20 commercial vessels in the strait. Most attacks have used unmanned speed boats, unidentified missiles and projectiles which have damaged engine rooms and caused fires. No vessel has hit a mine as of date, leading to question whether the mines were laid in the first place. There is genuine uncertainty. Until mines have been found, Tehran can lay claim for successfully planting another kind of WMDs – Weapons of Mass Distraction.
+
+\- Ends
+
+Devika Bhattacharya
+
+Jul 14, 2026 08:59 IST
+
+---
+
+### CBSE makes third language internal assessment mandatory for Class 9, 10 students
+*India Today Education Desk · general*
+
+## CBSE has made the third language internal assessment mandatory for Class 9 and 10 students under the NEP 2020 framework. From the 2027-28 academic session, students will have to clear the school-based assessment to qualify for the Class 10 pass certificate.
+
+CBSE makes third language pass rule mandatory for Class 10 from 2027-28
+
+The Central Board of Secondary Education (CBSE) has made the third language a mandatory qualifying subject for students in Classes 9 and 10 under the National Education Policy (NEP) 2020 framework.
+
+From the 2027-28 academic session, while the subject will not be part of the Class 10 board examination, students must clear the school-based internal assessment to receive the Secondary School Examination pass certificate.
+
+The new rule marks a significant change in the CBSE assessment framework. While Class 9 students who fail the third language assessment will still be promoted to Class 10, they must clear the pending assessment during the following academic year.
+
+The revised policy will apply to students entering Class 9 in 2026-27 and Class 10 in 2027-28.
+
+### THIRD LANGUAGE ASSESSMENT NOW ESSENTIAL
+
+According to a CBSE circular issued on July 10, students entering Class 10 from the 2027-28 academic year must clear the school-based assessment in the third language, referred to as R3, to receive the Secondary School Examination pass certificate.
+
+If a student fails to qualify in the internal assessment during Class 10, schools will be required to conduct a reassessment before the final Board results are declared. While the subject will not be tested in the Board examination, clearing the internal assessment has been made mandatory for passing Class 10.
+
+### CLASS 9 STUDENTS TO GET ANOTHER CHANCE
+
+The circular also clarifies the policy for Class 9 students. Those who fail the school-based assessment in the third language will still be promoted to Class 10 during the 2027-28 academic year. However, they must clear the pending Class 9 third language assessment while studying in Class 10.
+
+This provision ensures that students are not held back in Class 9 but are still required to meet the language requirement before completing secondary education.
+
+### THREE-LANGUAGE FORMULA FROM CLASS 6
+
+The latest directive follows an earlier CBSE circular issued on June 29, which announced that the three-language formula would be implemented from Class 6 onwards beginning in the 2026-27 academic session.
+
+Under the revised framework, students will study three languages, with at least two being native to India. Students in Classes 7, 8 and 9 who had already opted for an additional foreign language alongside English will be allowed to continue studying that foreign language. However, they will also have to learn a third language native to India.
+
+Earlier, students generally dropped the third language after Class 8. The new policy makes its study compulsory in Class 9 from 2026-27 and in Class 10 from 2027-28. The current Class 10 batch appearing for the 2026-27 Board examinations will not be affected by these changes.
+
+### POLICY FACES LEGAL CHALLENGE
+
+The implementation of the revised language policy has also reached the courts. A writ petition challenging the CBSE's circulars on the three-language formula is currently under consideration.
+
+The petitioners have urged the court to restore CBSE's earlier position, announced on April 9, which had effectively postponed the compulsory implementation of the third language at the Class 9 level until the 2029-30 academic session.
+
+In response, the Ministry of Education filed a nine-page counter-affidavit on July 13, defending the policy. Filed by Subhash Chand, Under Secretary in the Department of School Education and Literacy, the affidavit was submitted following a Supreme Court notice issued on May 27, 2026.
+
+The Centre argued that education falls under the Concurrent List of the Constitution, giving both the Union and State governments the authority to implement the National Education Policy.
+
+The government also maintained that the three-language formula advances important public objectives, including promoting multilingualism, preserving Indian languages, strengthening students' cognitive development, and fostering national integration and cultural diversity.
+
+With the latest circular, CBSE has firmly linked the third language requirement to the Class 10 pass certificate, marking a significant shift in secondary school education under the NEP 2020 framework.
+
+While the subject will remain outside the board examination, students will have to clear the school-based assessment to qualify for the pass certificate. As the policy moves towards implementation from the 2027-28 academic session, its legal challenge and practical rollout are likely to remain closely watched by schools, students and parents alike.
+
+\- Ends
+
+Apoorva Anand
+
+Jul 14, 2026 08:55 IST
+
+---
+
+### SBI Funds Management IPO opens today: Should you subscribe? Check GMP, key details
+*India Today Business Desk · general*
+
+The Rs 9,812.91 crore initial public offering (IPO) of SBI Funds Management opens for subscription today, July 14, and will remain open until July 16. Backed by India's largest asset management company (AMC), the issue has already generated strong interest in the grey market, with the latest grey market premium (GMP) indicating a healthy listing gain.
+
+The IPO is entirely an Offer for Sale (OFS), which means the company will not receive any money from the issue. Instead, the existing shareholders are selling part of their stake.
+
+So, should investors subscribe to the IPO? Here's everything you need to know.
+
+The SBI Funds Management IPO opens for subscription on July 14, 2026, and closes on July 16, 2026.
+
+The share allotment is expected to be finalised on July 17, while the shares are likely to list on the NSE and BSE on July 21.
+
+### SBI FUNDS MANAGEMENT IPO: PRICE BAND, LOT SIZE
+
+The company has fixed the IPO price band at Rs 545 to Rs 574 per share.
+
+Investors will have to apply for a minimum of one lot, which consists of 26 shares.
+
+At the upper end of the price band, the minimum investment required for retail investors is Rs 14,924.
+
+For non-institutional investors (NIIs), the minimum investment requirements are:
+
+Small NII (sNII): 14 lots (364 shares), requiring an investment of Rs 2,08,936.Big NII (bNII): 68 lots (1,768 shares), requiring an investment of Rs 10,14,832.
+
+Kotak Mahindra Capital Co. Ltd. is the book-running lead manager for the issue, while KFin Technologies Ltd. is the registrar.
+
+### WHAT DOES THE GMP INDICATE?
+
+The latest grey market premium (GMP) for the SBI Funds Management IPO stands at Rs 100 as of 7:30 am on July 14.
+
+Based on the upper price band of Rs 574, the estimated listing price works out to around Rs 674 per share.
+
+This indicates a possible listing gain of around 17.42%, although investors should remember that the grey market is unofficial and GMP is not a guarantee of listing performance.
+
+### ABOUT SBI FUNDS MANAGEMENT
+
+Founded in 1992, SBI Funds Management is India's largest asset management company based on assets under management (AUM).
+
+The company manages SBI Mutual Fund and operates as a joint venture between State Bank of India and French asset manager Amundi.
+
+It offers a wide range of investment products, including equity funds, debt funds, hybrid funds, exchange-traded funds (ETFs) and portfolio management services (PMS).
+
+As of 2025, the company managed around Rs 16.32 lakh crore in assets, accounting for nearly 15.5% of the country's total mutual fund AUM.
+
+As of December 31, 2025, the company served more than 1.60 crore investors, including retail and institutional clients.
+
+### SHOULD YOU SUBSCRIBE?
+
+Shivani Nyati, Head of Wealth at Swastika Investmart Ltd, said that the company is well-placed because of its leadership in India's mutual fund industry, strong distribution network and healthy profitability.
+
+She said SBI Funds Management is India's largest AMC with a strong systematic investment plan (SIP) franchise and benefits from the wide distribution reach of SBI and Amundi.
+
+Nyati noted that the IPO is valued at 38.12 times its FY26 earnings per share (EPS), which is lower than the industry average valuation of 41.64 times. She added that the company has a strong return on net worth (RoNW) of 43.02% and an EBITDA margin of 81.56%, highlighting its highly profitable asset-light business model.
+
+She also pointed out that since the IPO is entirely an Offer for Sale, the company will not receive any fresh capital from the issue. Future earnings will continue to depend largely on growth in assets under management and overall market performance.
+
+"For long-term investors, we recommend subscribing to the issue because of the company's leadership position, strong margins and reasonable valuation compared with peers," Nyati said.
+
+### THINGS INVESTORS SHOULD KEEP IN MIND
+
+While the company enjoys a strong market position and the grey market premium points to healthy investor interest, it is important to remember that the IPO is a complete Offer for Sale.
+
+This means the proceeds from the IPO will go to the existing shareholders and not to the company. Investors should also keep in mind that the company's financial performance is closely linked to equity market movements and growth in mutual fund assets.
+
+For long-term investors looking to invest in India's growing mutual fund industry, SBI Funds Management offers exposure to the country's largest AMC with an established brand, a large customer base and a strong distribution network.
+
+_**(Disclaimer: The views, opinions, recommendations, and suggestions expressed by experts/brokerages in this article are their own and do not reflect the views of the India Today Group. It is advisable to consult a qualified broker or financial advisor before making any actual investment or trading choices.)**_
+
+\- Ends
+
+Jul 14, 2026 08:50 IST
+
+---
+
+### Not the next Messi, the first Yamal
+*Luis Buxeres · opinion, regional*
+
+Mid-June already feels like a long while ago. That’s when Spain’s World Cup began, in Atlanta. Hours before that kickoff against Cape Verde, the streets around Mercedes-Benz Stadium had turned into a sea of red. Yes, La Roja supporters had arrived early to savour its debut. But as they streamed towards the stadium, one detail became impossible to ignore. That the vast majority of those red shirts, old and new, with different designs, carried the same number and the same name. 19. Lamine Yamal.
+
+Born in Rocafonda, a North African immigrant enclave north of Barcelona, Yamal is only 18, and already the face of Spanish football. Cameras follow him. Fans gravitate towards him. Every conversation, somehow, finds its way back to how well he dances with the ball.
+
+Read the full story at TOI+
+
+Facebook Twitter Linkedin Email
+
+###### Disclaimer
+
+Views expressed above are the author's own.
+
+###### END OF ARTICLE
+
+---
+
+### ‘We didn’t even spare Ram’
+*Chetan Bhagat · opinion, regional*
+
+_We’ve found the story of corruption at the Ayodhya temple entirely plausible. That’s really our collective shame. That dishonesty and prayers coexist in places of worship seems routine to most of us_
+
+Are Indians naturally corrupt? We didn’t even spare Ram. For decades, people fought over his temple in Ayodhya. It shaped politics, divided communities, consumed national attention, and became one of the most emotionally charged issues in modern India. Millions celebrated when the Ram Janmabhoomi temple finally became a reality. And now we are confronted with allegations that the very people entrusted with serving this institution may have stolen from it.
+
+Not from a govt department. Not from a contractor. Not from some faceless corporation. We stole from Ram.
+
+Read the full story on TOI+
+
+Facebook Twitter Linkedin Email
+
+###### Disclaimer
+
+Views expressed above are the author's own.
+
+###### END OF ARTICLE
+
+---
+
+### POCSO accused, who killed survivor and his own family, found dead after 2-day manhunt
+*Abdul Basheer · general*
+
+## Police said Raj Kumar had stabbed all six victims before slitting their throats. He had been on the run ever since, prompting authorities to announce a Rs 2 lakh reward for information leading to his arrest.
+
+The POCSO accused was found dead after a two-day manhunt.
+
+A man accused in a POCSO case in Telangana was found dead after slaughtering six people — the 17-year-old complainant, her mother, grandmother, his wife and their two sons — bringing an end to a two-day manhunt.
+
+Raj Kumar's body was found on Monday in Rangareddy district. He carried out the mass killings on the night of July 10.
+
+A bottle of suspected poison was also found beside the body, officials said.
+
+An investigation is underway to determine the exact cause of death. Police are awaiting the post-mortem examination and forensic findings to confirm whether he died by suicide or under other circumstances.
+
+Police said Raj Kumar had stabbed all six victims before slitting their throats. He had been on the run ever since, prompting authorities to announce a Rs 2 lakh reward for information leading to his arrest.
+
+Twelve police teams were deployed in a massive manhunt to track him down.
+
+At around 3 pm on Monday, residents alerted police after spotting the body of an unidentified man. A police team rushed to the spot and later identified the deceased as Raj Kumar.
+
+According to police, Raj Kumar had previously been arrested in a case under the POCSO Act after the 17-year-old girl filed a complaint against him. He was later released on bail.
+
+Investigators suspect the murders were driven by revenge over the criminal case.
+
+Police said Raj Kumar first took the teenage girl to a field, where she was sexually assaulted and murdered, before killing her mother, Chityala Lakshmi (45), and grandmother, Chityala Rukkamma (65).
+
+He then killed his wife, Parvathi Saritha (30), and their two sons, aged three and two.
+
+\- Ends
+
+Karishma Saurabh Kalita
+
+Jul 14, 2026 08:46 IST
+
+---
+
+### iPhone 18 Pro: Expected India launch date, price, design, battery, camera and AI features
+*Trending Desk · business*
+
+Apple is expected to unveil the iPhone 18 Pro and iPhone 18 Pro Max at its annual September launch event alongside its first foldable iPhone. While the company has not confirmed any details, leaks and industry reports suggest the upcoming Pro models will feature battery, camera and performance upgrades while largely retaining the existing design.
+
+According to Mark Gurman, Apple could hold its annual keynote on September 8 or September 9, 2026, with September 9 considered the more likely date, reported by India Today. Retail availability and the first deliveries are expected to begin on September 18.
+
+Reports also suggest Apple may split its iPhone launch this year, with the standard iPhone 18, iPhone 18e and the next iPhone Air reportedly arriving in early 2027, leaving the September event focused on the Pro models and Apple's first foldable iPhone.
+
+  
+  
+
+## iPhone 18 Pro expected India launch date and release timeline
+
+Apple is widely expected to introduce the iPhone 18 Pro lineup during its traditional September event. According to Bloomberg's Mark Gurman, the keynote could take place on September 8 or September 9, with September 9 emerging as the stronger possibility. If the timeline remains unchanged, sales and deliveries are expected to begin on September 18.
+
+Reports indicate the company may separate the launches of its Pro and non-Pro models this year, with only the iPhone 18 Pro series and the foldable iPhone expected at the September event.
+
+  
+
+## iPhone 18 Pro expected India price
+
+The iPhone 18 Pro series is expected to carry a higher price due to increased manufacturing costs linked to the 2nm chipset, upgraded cameras, larger batteries and more expensive memory.
+
+According to reports, Apple could raise the India prices of the Pro models by around Rs 5,000. If that happens, the iPhone 18 Pro may start at around Rs 1,39,900, while the iPhone 18 Pro Max could begin at approximately Rs 1,54,900.
+
+## iPhone 18 Pro camera upgrades
+
+Apple is expected to retain its triple 48-megapixel rear camera system while upgrading several internal components.
+
+Reports suggest the primary camera could gain a variable-aperture lens to improve depth-of-field control and low-light photography. The company is also tipped to introduce a brighter telephoto camera, a new stacked image sensor and a 24-megapixel front camera across most of the lineup.
+
+The Camera Control button may also be redesigned to rely entirely on pressure-sensitive controls.
+
+## iPhone 18 Pro design, thickness and expected colour options
+
+The iPhone 18 Pro is expected to retain Apple's flat-edged design and triple rear camera layout. However, leaks suggest the rear panel could feature a more seamless finish, reducing the two-tone appearance seen on current models.
+
+The camera module is tipped to become slightly larger, while the phones may be thicker to accommodate bigger batteries and an upgraded vapour chamber cooling system.
+
+The Pro lineup is also expected to debut in a new Dark Cherry colour, alongside Light Blue, Silver and Dark Grey.
+
+## iPhone 18 Pro display size and Dynamic Island upgrade rumours
+
+Apple is expected to continue with a 6.3-inch display on the iPhone 18 Pro and a 6.9-inch display on the iPhone 18 Pro Max.
+
+Several reports suggest the company may shrink the Dynamic Island by placing some Face ID components beneath the display. While some tipsters believe under-display Face ID could arrive this year, others expect only a smaller cut-out. The Pro models are also tipped to feature more power-efficient LTPO+ OLED displays.
+
+## Apple A20 Pro chip: Expected performance and AI improvements
+
+The iPhone 18 Pro series is expected to be powered by Apple's A20 Pro processor built on TSMC's 2nm process.
+
+The chipset is expected to deliver faster overall performance, smoother gaming, improved battery efficiency and significantly enhanced on-device artificial intelligence capabilities.
+
+iPhone 18 Pro battery capacity and charging upgrades  
+Battery life is expected to receive one of the biggest upgrades in the iPhone 18 Pro lineup.
+
+According to recent leaks, the iPhone 18 Pro Max could pack a battery ranging between 5,391mAh and 5,567mAh, with some reports pointing to a 5,500mAh unit. Apple may also offer different battery capacities depending on the market and whether the device supports a physical SIM or eSIM only.
+
+The larger batteries are also expected to make the phones slightly thicker, with the Pro Max reportedly weighing around 240 grams.
+
+## iPhone 18 Pro connectivity features: C2 modem and satellite support
+
+The Pro models are expected to feature Apple's next-generation C2 modem for faster connectivity and improved power efficiency.
+
+Reports also indicate expanded satellite connectivity, extending beyond the emergency messaging features currently available on iPhones.
+
+## iPhone 18 Pro software: iOS 27 and Apple AI features
+
+The iPhone 18 Pro lineup is expected to debut with iOS 27, bringing Apple's latest Siri upgrades and new artificial intelligence features.
+
+---
+
+### JPC members undertake 'One Nation One Election' study visit programme in Lucknow
+*SECTIONS JPC members undertake study visit programme · business*
+
+Lucknow: The Joint Parliamentary Committee (JPC) on the Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024, and the Union Territories Laws (Amendment) Bill, 2024, has undertaken a study visit programme in Uttar Pradesh's Lucknow.
+
+The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024, aims at implementing the "One Nation, One Election" (ONOE) framework across India.
+
+The Committee on Monday held an informal discussion with the Chief Secretary, Director General of Police (DGP), and representatives of the Finance, Home, Education, Tourism, Agriculture, Industries, Health and Labour Departments, along with the Chief Electoral Officer of Uttar Pradesh, on the issue of Simultaneous Elections.
+
+  
+
+As part of the ongoing nationwide efforts to build consensus on the "One Nation, One Election" framework, Joint Parliamentary Committee (JPC) Chairperson PP Chaudhary chaired high-level stakeholder consultations.
+
+Emphasising the project's importance for long-term governance, Chaudhary asserted that the proposal is receiving overwhelming support from across the country.
+
+Speaking to on the roadmap for the committee, the JPC Chairperson stated, "We will hold a meeting with all the stakeholders over the issue, including the government officials, public representatives, political parties, industries... We are getting a great response... Talking about the will of the people, everyone wants a single election in the country."
+
+"When we talk about the will of the people, it is clear that everyone wants a single election cycle in the country to avoid the disruptions caused by near-permanent election mode," he added.
+
+Meanwhile, as the Joint Parliamentary Committee (JPC) continues its nationwide study tour to build consensus on the "One Nation, One Election" proposal, Shiv Sena (UBT) MP Anil Desai confirmed his participation in the ongoing stakeholder consultations in Lucknow.
+
+Highlighting the importance of the legislative exercise, Desai stated that the committee's objective is to gather diverse perspectives on the constitutional and legal amendments required for simultaneous polls.
+
+"I will participate in the meeting on the 'One Nation, One Election' proposal. Various witnesses are scheduled to share their views, and members will offer their opinions to better understand how this concept would benefit the country", he said.
+
+Desai emphasised that the JPC is committed to a thorough and consultative approach. "The committee will carefully consider these diverse perspectives and incorporate them when drafting its final report," he added.
+
+The JPC is expected to finalise and adopt its report at its meeting on July 17 before submitting it to Parliament for further consideration.
+
+The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024, is linked to the proposed reform popularly known as "One Nation, One Election," which seeks to synchronise elections for the Lok Sabha and state legislative assemblies. The Union Territories Laws (Amendment) Bill, 2024, is also part of the broader framework aimed at facilitating the implementation of simultaneous elections across the country.
+
+The JPC is currently reviewing the Constitution (129th Amendment) Bill, 2024 and the Union Territories Laws (Amendment) Bill, 2024. These Bills, introduced on December 17, 2024, in the Lok Sabha and sent to the JPC for further scrutiny, collectively aim to introduce simultaneous elections across the country.
+
+---
+
+### FDA approves at-home starter dose of Eisai-Biogen Alzheimer's drug
+*SECTIONS FDA approves at-home starter dose · general*
+
+The U.S. FDA on Monday approved an at-home starting dose of Eisai's and Biogen's Alzheimer's drug, allowing some patients to begin therapy with injections administered by themselves or a caregiver.
+
+Shares of Biogen were up 4.5% in afternoon trading. The approval applies to an ‌under-the-skin formulation ⁠of the drug ⁠branded as Leqembi. Until now, patients starting treatment received the drug through intravenous ​infusions, typically given at a clinic, and could later switch to maintenance treatment ​after 18 months.
+
+  
+
+Leqembi's at-home subcutaneous approval could increase uptake by improving patient access and differentiating it from Eli Lilly's Kisunla, which ​requires intravenous infusions, said BMO Capital Markets analyst ⁠Evan Seigerman.
+
+Leqembi is already authorized for adults with Alzheimer's disease, ​a ​progressive brain disorder that affects memory, thinking and daily ⁠function. The drug targets amyloid beta, a protein that ​forms plaques in the brains of people with ​the disease.
+
+Citi analysts said they do not expect the approval to drive immediate commercial inflection, as hurdles such as patient identification, diagnostic confirmation, monitoring requirements, specialist availability and reimbursement access remain key barriers on adoption.
+
+The injectable version, called Leqembi IQLIK, can cause reactions at ‌the injection area, including redness, swelling, rash, pain or bruising, the Food and Drug Administration said.
+
+The FDA's ​decision was ​based on two ⁠earlier trials showing the IV version of Leqembi was effective in patients with early Alzheimer's disease, including those with mild cognitive impairment or mild dementia ​and confirmed amyloid buildup in the brain.
+
+The regulator said the subcutaneous version was not tested in separate large trials measuring patient outcomes. Instead, it relied on findings showing it produced equivalent results and similar reductions in amyloid plaques compared with the infused version.
+
+---
+
+### SAD Leader Sukhbir Singh Badal's Aide Shot By Unidentified Assailant In Punjab
+*Prisha Vibhavari · general*
+
+The victim, Kala Jabandha, was at his shop in Bareta town when the attacker arrived and opened fire.
+
+[Read full article](https://www.news18.com/india/sad-leader-sukhbir-singh-badals-aide-shot-by-unidentified-assailant-in-punjab-10209484.html)
+
+---
+
+### 'Your life matters to us': Mahua Moitra urges Sonam Wangchuk to end fast as hunger strike enters Day 17
+*TOI News Desk · regional, india*
+
+NEW DELHI: Trinamool Congress MP Mahua Moitra on Tuesday urged Sonam Wangchuk to call off his indefinite hunger strike as the climate activist's indefinite fast against examination irregularities and the NEET paper leak controversy reached Day 17.In a post on X, Moitra said Wangchuk had achieved his objective as his fast had united the country's youth in their fight for justice."Sonam Sir your fast has united this country’s youth in their war for justice. Your goal is reached. Govt doesn’t care about your life or that of crores of youth. But your life matters to us. Pls call off fast & continue the fight," Moitra said.
+
+Earlier on Monday, a group of eminent citizens, including writer Arundhati Roy, actors Naseeruddin Shah and Ratna Pathak Shah, and economist Jayati Ghosh, also appealed to the protesters on indefinite hunger strike to end their fast, while extending full support to their demand for Union education minister Dharmendra Pradhan's resignation.In a joint statement, the signatories said they were "immensely grateful" to the protesters for leading the agitation against the government but expressed deep concern over their worsening health."We salute your sense of purpose, the determination and courage with which you are spearheading this movement for students and youth across the country," the statement said.Appealing to the protesters to end their fast, they said, "We request you to please consider ending this hunger strike immediately in the interests of the longer and more difficult struggle ahead.
+
+This battle is a marathon, not a sprint, and we need you, your strength and leadership in the days to come."According to the organisers, Wangchuk has lost 8.2 kilograms since he began fasting. His latest medical parameters showed a blood pressure of 107/70 mmHg and a blood glucose level of 67 mg/dL.Meanwhile, AISA activist Deepak was admitted to Ram Manohar Lohia Hospital after his health deteriorated following 16 days of fasting.In a statement, AISA said Deepak had lost around 15 per cent of his body weight and his blood pressure had fallen to 80/40 mmHg over the past three days, prompting doctors to advise immediate hospitalisation due to the risk of organ damage.Addressing a press conference, CJP founder Abhijeet Dipke questioned why the government had not initiated talks with the protesters despite the prolonged agitation and the deteriorating health of those on hunger strike."I request the government not to turn this into a battle of egos as human lives are at stake. Acknowledging a mistake is not a sign of weakness. It is a sign of maturity, accountability and the willingness to correct course. All we are asking for is accountability," he said.As Wangchuk's fast entered Day 16, comparisons were also drawn with activist Anna Hazare's 12-day hunger strike in support of the Jan Lokpal movement in 2011.Hazare initially went on hunger strike on April 5, 2011, withdrawing it four days later after the then Union government formed a committee to examine his demands. In August 2011, Hazare again launched a hunger strike, which lasted 12 days.Asked why Wangchuk and the others were still fasting while Hazare's 2011 hunger strike ended after 12 days, Dipke said, "That was a different India... In today's India, human lives are not valued."He also criticised the government for not being concerned about the health of Wangchuk, a Magsaysay awardee and noted educator and innovator.The CJP protest began on June 20, while Wangchuk joined the agitation on June 28 and has remained on an indefinite hunger strike since.
+
+---
+
+### Explained: Venezuela's complex and contested debt puzzle
+*Reuters · business*
+
+The scale of Venezuela's debt burden - and the mix of creditors holding it - will ​help determine the losses investors face in what could be one ​of the largest sovereign debt restructurings in history.
+
+Venezuela has not published comprehensive debt statistics in years, and 2017 sanctions largely isolated ​it from the Western financial world. Caracas had previously said it aimed to complete a full debt assessment by the end of June. On Monday, government economic adviser Calixto Ortega said the government would present a debt sustainability analysis "in the coming weeks," while incorporating the economic impact of last month's earthquakes into its restructuring framework.
+
+  
+
+It remains unclear whether any detailed assessment will be shared more broadly. Most analysts estimated debts of $150 ‌billion to $200 billion, but the ⁠Financial Times ⁠reported Venezuela was set to unveil a larger-than-expected debt pile of $240 billion.
+
+Here are some details on what we know - and don't know - about Venezuela's debt stock:
+
+**HOW MUCH DOES CARACAS OWE ON BONDS?**
+
+Venezuela said in May it intends ​to restructure outstanding external commercial Eurobond debt issued by the government and state oil company Petroleos de Venezuela, or PDVSA.
+
+These total about $60 billion in face value, but have also been accruing interest ​since the 2017 default. JPMorgan calculates total bond claims, including past-due interest, at $102 billion.
+
+Different terms could complicate a deal.
+
+A 2020 PDVSA bond is backed by a majority stake in U.S. refiner Citgo. Some older bonds are more vulnerable to holdout litigation.
+
+There is also a $650 million electricity-sector bond issued by Electricidad de Caracas, known as Elecar.
+
+**HOW MUCH DOES VENEZUELA ​OWE TO OTHER GOVERNMENTS?**
+
+Venezuela's total bilateral lending accounts for roughly $25 billion, based on reports.
+
+Bilateral creditors are often first to ⁠restructure. The Paris ‌Club - a group of 22 official creditor nations - usually helps set the benchmark for debt relief expected from other creditors.
+
+Venezuela owes Paris Club members $8.69 ​billion.
+
+Russia alone extended at ​least two loans over the past 15 years, including $3.2 billion restructured in 2017, according to AidData. Venezuela also owes China a substantial amount through oil-backed ⁠loans that could give Beijing an edge over other creditors. JPMorgan estimates those obligations at $13 billion to $15 ​billion. Beijing condemned the redirection of Venezuelan oil exports in early January, and said "legitimate rights and interests of China and other countries ​in Venezuela must be protected".
+
+Venezuela has been vague about plans for official debt, saying that would be addressed through "institutional normalization" without detailing the process or whether this would involve a formal restructuring.
+
+**WHAT DOES CARACAS OWE TO MULTILATERAL LENDERS?**
+
+The country owes about $4 billion to multilateral development banks, according to Fitch, chiefly to Caracas-headquartered CAF Development Bank of Latin America and the Caribbean and the Inter-American Development Bank (IDB).
+
+Such institutions typically enjoy preferred creditor status and are not expected to take losses in a restructuring.
+
+**HOW MUCH DO ARBITRATION CLAIMS AND COURT AWARDS AMOUNT TO?**
+
+More than 50 companies have pursued claims against Venezuela and PDVSA following expropriations under former President Hugo Chavez. Data compiled by Transparencia Venezuela and #PublicDebtIsPublic show arbitration awards and court judgments ‌at more than $20 billion, excluding past due interest, though the latter group warns its data might not necessarily capture all claims. Some creditors are seeking recovery through the court-ordered sale of Citgo Petroleum - which requires U.S. approval.
+
+Arbitration awards and court judgements are legally enforceable claims held by diverse creditors ​with no collective mechanism to ​bind them into a negotiated deal. Accounting for ⁠at least 10% of Venezuela's debt stock, experts say they will need to be addressed.
+
+**AND THEN THE REST**
+
+The upper band of debt estimates is roughly $200 billion - where is the remaining $40 billion?
+
+Some debts never went to court or arbitration, making them harder to track. For example, Spanish oil firm Repsol says Venezuela owes it €4.55 billion ($5.16 billion), while Italy's ENI ​said its own back-due PDVSA bill hit $3.3 billion by end-2025, including around $1 billion in accrued interest.
+
+Other claims may include promissory notes - legally binding IOUs linked to export or supplier credits.
+
+Domestic debt could also add to the tally, which concerned some investors, as it would be trickier to unpick whether these are legitimate.
+
+Without an external audit or involvement from institutions such as the IMF or World Bank, investors may question how claims are assessed and which debts are included. Venezuela ranked 180th out of 182 countries and territories in Transparency International's 2025 Corruption Perceptions Index.
+
+Claims deemed valid enough to be included for the debt restructuring perimeter could prove contentious as including them could boost the debt total and force larger losses for creditors.
+
+
+---
+
 ## 13 July 2026
 
 ### How Putin Turned Japan Into a Den of Spies
