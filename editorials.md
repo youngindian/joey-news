@@ -1,8 +1,218 @@
 # Editorials
 
-_Last updated: 2026-07-13 05:01 UTC_
+_Last updated: 2026-07-14 04:28 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 14 July 2026
+
+### True to form: On the 2026 World Cup
+*The Hindu · Editorial*
+
+When the 2026 World Cup kicked off on June 11 in Mexico City, the air was filled with cautious optimism. This being the first 48-team World Cup, there were apprehensions that the group stage would be low on quality and feature many one-sided games. But hope stemmed from sport’s innate ability to adjust, evolve and thrive in newer settings. After more than a month’s action, it can be safely said that the World Cup in North America has been a footballing success. Though semifinalists France, Spain, Argentina and England are all former winners, currently ranked at the top and from the pedigreed and established stables, there has been ample space for others to carve their own identities. Cape Verde — a tiny archipelago off Africa’s west coast — qualifying for the knock-outs and fighting defending champion Argentina toe-to-toe, spirited performances from the Democratic Republic of Congo and Senegal, Egypt’s near-defeat of Argentina in the round of 16, and Norway overcoming five-time titlist Brazil and stretching England for nearly 120 minutes are all vivid examples of the wide geographical spread of sporting excellence. In fact, nine of the 10 African nations in the competition reached the knock-outs, and Asia too would have had more than just Japan and Australia if luck had favoured Iran, which crashed out despite three draws from three matches.
+
+However, on the administrative front, the tournament has been found wanting. There were problems galore at the beginning, such as forcing Iran to camp in Mexico and travel long hours to Seattle and Los Angeles, and arbitrarily denying visas to officials and fans. But governing body FIFA has not turned over a new leaf. Among the controversies was the way the Video Assistant Referee (VAR) system was applied in Argentina’s narrow 3-2 win over Egypt. The African nation saw a goal overturned for a foul committed in the lead up but did not see the same yardstick applied for one of Argentina’s. Another issue that left supporters seething was the intervention of U.S. President Donald Trump in the deferral of forward Folarin Balogun’s one-match suspension in time to play Belgium in the round of 16. There is no evidence to prove that Mr. Trump’s phone call to FIFA head Gianni Infantino influenced the decision, but in a scenario where the custodian of the game has condoned every wrong from the chief organising country, suspicion is natural. Starting from Tuesday night, Kylian Mbappe’s irresistible France, Lamine Yamal’s organised Spain, Jude Bellingham’s effervescent England and Lionel Messi’s evergreen Argentina will be back mesmerising the world. But it will be in football’s best interests if its guardians alter their moral compass and march in tow.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/true-to-form-on-the-2026-world-cup/article71217595.ece)
+
+---
+
+### Unsafe practices: On the Vietnam boat accident
+*The Hindu · Editorial*
+
+Survivor accounts of the Vietnam boat tragedy last week point to two clearly identifiable contributors. As the weather turned rough and the speedboat took a sharp turn, it tilted to the left. The passengers — all Indian tourists — sitting on the right fell to the left side. Almost all the passenger weight shifted at once, the boat lost balance and turned turtle. As it capsized, the boat captain and guide escaped through the open front door. Others who found an opening also jumped out. Those who could not leave were trapped inside the capsized boat and took in water. Rescuers pulled them ashore where first aid and resuscitation were attempted before they were moved to hospital. All this took precious time and casualties mounted as a result. Some 15 Indians are reported to have died while 17 survived. Four Vietnamese crew also survived. The Indians on the speedboat at Phú Quôc were among more than 100 employees that a mobile company had taken to Vietnam on a corporate incentive tour.
+
+Industry data indicate that some three crore Indians visit foreign countries every year, with a significant proportion of them coming from non-metro cities. Many of the survivors at Phú Quôc were from such cities. South-East Asia has emerged as the preferred destination, with Thailand and Vietnam joining the traditional attractions of Singapore and Malaysia. Many of these new tourist spots are developing rapidly but, like India, have not fully strengthened safety-of-life practices. For instance, just as in India, pleasure boats operators may carry enough life jackets or distribute them but often do not insist that every passenger wears one. Life jackets keep people afloat with their heads above water if they end up in the sea. In Phú Quôc, passengers were reportedly given life jackets, but it is not yet confirmed whether they were all made to wear them before departure. Another basic safety feature should be ensuring that passengers remain securely strapped to their seats so that they do not shift during rough weather or sharp manoeuvres. Even small shifts in passenger weight can significantly affect the stability of a speedboat. This norm was violated in Phú Quôc. Vietnam in particular has witnessed a surge in tourism, with Indians forming a substantial share of visitors. Speedboat rides between the islets of the Phú Quôc archipelago and the main island are especially popular among Indian tourists. The Vietnamese government has promised to review safety standards on such boats and upgrade them where necessary. But Indians, aided by governments and operators, must strengthen their awareness of safety practices, especially those related to fire and water safety.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/unsafe-practices-on-the-vietnam-boat-accident/article71217827.ece)
+
+---
+
+### Holding the Court accountable amid democratic strain
+*The Hindu · Opinion*
+
+In late June this year, 23 Opposition parties wrote to the Chief Justice of India (CJI) Surya Kant raising concerns about the state of the electoral process in India’s democracy. The letter reiterated the broad concern that the Special Intensive Revision (SIR) of electoral rolls is exclusionary, and that the framework is burdensome for ordinary citizens. The Opposition’s letter is also a gesture of desperation and disappointment over the Supreme Court of India’s refusal to interfere with the massive and continuous disenfranchisement.
+
+The erosion of the right to voteIn Why India Votes? (2014), Mukulika Banerjee narrates various encounters with poor ordinary voters. Ms. Banerjee, in the book, referring to Mekhala Krishnamurty’s study, cites an incident: A woman named Rukmini Bai was unable to vote in the elections for lack of proper identification documents. When Rukmini was asked why it was important for her to vote, she said, “My work is to sweep up all the grain that falls from the sacks and the weighing scales on the floor. At the end of the day, I sell what I have collected and I am allowed to keep half the money. That is my income. So you see, I understand the value of each grain of wheat. On the floor they look insignificant, just one isolated grain of wheat, but each grain that is added to the heap determines what I earn. My vote is like those grains of wheat.”
+
+For any citizen of a democracy, exercising the right to adult franchise is vital. But for those who have been marginalised from mainstream society, voting becomes a powerful political act. It reaffirms the recognition that they and their votes matter, and that they count as much as those of the privileged. This is why the long queues at polling booths, without class, caste, or income disparities, turns out to be a beautiful image of a functioning democracy.
+
+Related StoriesSupreme Court upholds SIR exercise as an advancement towards free and fair elections
+
+What did the court rule on Bihar’s SIR of electoral rolls? | Explained
+
+A troubling judgment and endorsement of the SIR
+
+The right to belong beyond official documentation
+
+Nearly 6 crore names have been deleted in first yearof SIR of electoral rolls
+
+What the SIR exercise initiated by the Election Commission of India (ECI) has done is to poke at the heart of this electoral enfranchisement. The modalities in which the ECI has invoked this process are also significant. The ECI has been successful in creating an atmosphere of anxiety for citizens, in a matter closely tied to their political identity. The right to vote is a significant facet of political expression envisaged by the Constitution. This right is now, however, submerged in an entire overarching framework consisting of documentation, inquiry into lineage, appeals and as scholar Rudraksh Lakra calls it — ‘digital structural authoritarianism’.
+
+Role of the CourtWhen the basic structure of a democracy is directly attacked by the executive, the kind of response by the Court — a counter-majoritarian institution — deserves serious study. When a politically aggressive state battles the powerless individual with the entire state machinery at its disposal, one looks at the Court, equipped with the constitutional tools to limit state power.
+
+The Bihar SIR case was adjudicated by the Bench led by the CJI on May 27, 2026. However, this decision came long after the election was over. The Court also has a disappointing history of postponing the final decision in cases after the state action in question has been already operated or implemented.
+
+Editorial | Validating flaws: On the Supreme Court and the SIR
+
+Therefore, as in the cases challenging demonetisation (2016) and the abrogation of the special status of Jammu and Kashmir, by the time the legality of the SIR was decided, it had become a fait accompli. This is the primary failure of the Court — not determining the dispute when time is of the essence.
+
+Second, the way in which the Court oversaw the process was problematic. Unlike the cases where executive action is under judicial scrutiny, in the Bihar SIR, the Court actively involved itself and facilitated the so-called revision that led to deletion of several lakhs of voters. By virtue of several interim orders and a multitude of directions, the Court effectively administered the process. One finds a clear judicial abetment to the electoral process making it a collaborative exercise — quite unprecedented in the country’s history. The Court’s nature shifted from a forum of judicial review to an administrative body.
+
+Third, the ex-post facto endorsement. In the Bihar SIR case, it was nevertheless crucial how the Court would substantively conceptualise the dispute. This was also determinative for other State elections, particularly in Assam and West Bengal. One could frame the narrative in either of two ways: first, as a technical question concerning the competence and powers of the ECI; and second, as a question of deprivation of rights.
+
+In formulating the questions themselves, the Court leaned towards the former rather than the latter. Barring a singular question on proportionality and legitimacy, all other issues were misidentified. This is why there is no effective deliberation on the legality of the process, particularly with regard to its vagueness and lack of reasoning. The disproportionate administrative demand for (often impossible) paperwork, rigid time limits, and the discriminatory impact on minorities, women, and the migrant population were overlooked. In the adjudicatory exercise, there was no appreciation of the social realities of illiteracy, poverty and lack of institutional access for a substantial number of voters. Ultimately, the Court decided in favour of the ECI on all the issues.
+
+Judicial accountabilityLong ago, the liberal thinker Murray Rothbard, relying on the scholar Charles Black, noted that: “the state has …. largely transformed judicial review itself from a limiting device to yet another instrument for furnishing ideological legitimacy to the government’s actions.” In his classic work, The Politics of the Judiciary (1977), J.A.G. Griffith also exposes the judiciary’s natural inclination towards the political branches of the state.
+
+The Indian Supreme Court is one of the most powerful institutions in the world. Many decisions of the Court seemingly involving legal questions are essentially political questions. Therefore, it is necessary for the political Opposition to evaluate and criticise the fundamental aberrations in the judicial realm. This is part and parcel of the function of the Opposition, in today’s critical times.
+
+Manufacturing endorsements to support continuing executive excesses is symptomatic of any authoritarian regime. It is important to recognise that India is evolving into a system in which institutions have lost neutrality, as acknowledged by the Leader of the Opposition in the Lok Sabha, Rahul Gandhi, in his speech at the recent INDIA bloc convention.
+
+It is also becoming clearer that any radical change in the polity through the judicial process is unlikely. There is a recent global trend of expanding oppositional politics beyond conventional methods to people’s movements. India’s democracy must embrace such political praxis.
+
+Kaleeswaram Raj is a lawyer at the Supreme Court of India; Thulasi K. Raj is a lawyer at the Supreme Court of India
+
+[Read full article](https://www.thehindu.com/opinion/lead/holding-the-court-accountable-amid-democratic-strain/article71218387.ece)
+
+---
+
+### Real justice demands due process
+*Deccan Herald · Editorial*
+
+Recent developments in West Bengal – centred on the rape and murder of an 11-year-old girl, the subsequent lynching of an innocent man, and the police killing of one of the accused – have exposed serious shortcomings in the two-month-old Bharatiya Janata Party (BJP) government. The incident occurred in Baruipur, near Kolkata. Women’s safety was central to the BJP’s campaign against the previous Mamata Banerjee administration, with the 2024 rape and murder of a trainee doctor at Kolkata’s RG Kar Medical College cited as evidence of governmental failure on this front. Responding to the latest case, Chief Minister Suvendu Adhikari asserted that his government was making every effort to prevent such incidents, reaffirming what he called a long-standing commitment to protecting women and girls. This position merely echoes the assurances offered by Mamata Banerjee’s government. Meanwhile, the victim’s family has alleged that the police were slow in the initial stages of their investigation, raising questions about accountability.
+
+The discovery of the young girl’s body triggered mob violence, resulting in the lynching of a man whom police later confirmed was not a suspect. Adhikari had a communal take on the incident, insinuating that political interests were in play, and “fundamentalists” may have targeted the man based on his Hindu identity, given that the murdered girl was Muslim. Since the protests started, police have arrested more than 30 people. Bringing a communal or political angle into the rape and murder of a child is perverse. Such divisive narratives only serve to divert public attention from the heinous crime, undermining the pursuit of justice for the victim.
+
+The state government constituted a Special Investigation Team (SIT) to probe the crime, leading to four arrests. However, one of the accused men has been killed in a police encounter. The authorities offered a familiar justification: the accused allegedly tried to snatch a service rifle, forcing the police to shoot. This reflects a troubling trend where instant justice and encounter killings are becoming normalised. Senior BJP leader Dilip Ghosh defended the police action, labelling critics “anti-socials”. Yet, most encounters are calculated, extrajudicial executions rather than acts of self-defence. They are a gross violation of due process and the rule of law. Governments are elected with a constitutional commitment to uphold the law. Encounter killings and “justice” through bulldozer action are fundamentally illegal. People accused of crimes, even the most heinous of them, have a right to a fair trial. The police are only investigators with no legal right to punish the offenders through arbitrary executions.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/real-justice-demands-due-process-4072617)
+
+---
+
+### The rising barrier of voter verification
+*Deccan Herald · Editorial*
+
+The Election Commission's Special Intensive Revision (SIR) of electoral rolls is undoubtedly an important exercise. Electoral rolls must be accurate, duplicate entries removed, and ineligible names excluded. Yet what should have been a routine administrative process has become an ordeal for ordinary citizens. Karnataka's biggest shortcoming has been the absence of functional voter facilitation centres. Though thousands exist on paper to clarify doubts and assist with enumeration forms, many voters have found them missing. Compounding the problem are complaints that Booth Level Officers (BLOs) are inadequately trained, with many struggling to answer complex queries.
+
+The process itself has generated considerable unease. Those who were not voters in 2002 are required to map themselves with their parents or progeny who figured in the electoral rolls then. But what of those whose parents died before 2002 or whose own names do not appear in the 2002 rolls? Although the Commission has clarified that such individuals may still submit the prescribed forms, uncertainty persists. The exercise is especially burdensome for migrant workers, women whose records changed after marriage, and families that no longer recall which constituency they voted in nearly two decades ago, particularly because many of those constituencies ceased to exist after the 2008 delimitation. The timing could not be worse. Farmers, preoccupied with sowing operations amid fears of drought, are spending precious time on paperwork, with minimal assistance. Fresh instructions requiring even first-time voters to map themselves to their parents have deepened the confusion. Political statements suggesting that those omitted from the electoral rolls may eventually lose access to government benefits have further heightened public anxiety. Memories of the large-scale deletion of names in West Bengal – where even the Supreme Court ultimately offered no relief – have reinforced these fears.
+
+If, as Karnataka Chief Electoral Officer V Anbukkumar claims, over 91% of voter mapping has already been completed through back-office mapping, the burden on citizens could have been eased considerably. Enumeration forms, which already carry a voter's existing details, could have included progeny information wherever there was no ambiguity, leaving only doubtful cases for verification. There was a time when the EC celebrated every new voter added to the democratic process. Today, the emphasis appears increasingly on the number of names deleted. Free and fair elections do require clean electoral rolls, but this objective cannot be achieved through fear or confusion. While every ineligible voter must be removed, not even one eligible citizen should lose the fundamental right to vote.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/the-rising-barrier-of-voter-verification-4072618)
+
+---
+
+### A tribute that arrived too late: S Janaki and the grief of unspoken gratitude
+*Deccan Herald · Opinion*
+
+I began writing this piece before the news broke. It started with a simple argument: that tributes should not wait for death.
+
+We somehow save our finest words for memorials, as though appreciation requires an ending. Can gratitude be expressed only in loss?
+
+When I started writing this tribute, I had no such occasion to observe. It was one of the most mundane of days. I happened to listen to Aakaasam Eenatido, and, as often happens with S Janaki’s songs, my ordinary day turned happier. I thought, 'Why not pen a tribute to her while she can still read it?
+
+By the time I have returned to finish this piece, S Janaki is no more.
+
+The irony of this is painful, and I regret my lethargy, but my idea remains unmoved, and so here it is.
+
+For me, Janaki will remain important for reasons more than one.
+
+As a music lover, I believe she is the most astonishingly versatile vocal career Indian playback music has produced. The evidence lies in her songs. Listen to Hallimestre for unabashed sensuality and drama, Naguva Nayana for romance, Kiliye Kiliye for nurturing, and Sangathil Paadatha Kavithai for burning desire. It is difficult to believe that the same voice could sing so many moods.
+
+I know it is unfair to compare her with Lata Mangeshkar or Asha Bhosle. Comparison is a limiting frame. It assumes commensurability where there is, in truth, between any two artists, only distinctiveness. But if Janaki’s name must be placed alongside any others, it is only to acknowledge the exalted company she keeps.
+
+However, besides all this, I have a personal story to tell.
+
+When I first arrived in Bengaluru to study, like many who come to the city from elsewhere, I did not speak Kannada. I still cannot, as a matter of fact; though I can vaguely understand words and attempt to utter them. I am a North Indian by birth, but I have picked up South Indian music by choice. My relationship with Kannada (and even Tamil for that matter, which I also can only attempt to utter disjointedly) began with listening. I entered these languages through their music and, like countless others outside their native worlds, learnt to recognise their sounds a tad bit more each passing song. If these languages ceased to feel foreign, it is because S Janaki’s voice invited me in.
+
+Oddly enough, I am listening to a Bengali song while writing this, and it feels strangely appropriate. I do not inhabit Bengali just as I did not inhabit Tamil or Kannada. Yet, in my life, music has always travelled ahead of language. It has allowed my ears to love places my tongue had not yet learnt to reach.
+
+S Janaki passes away at 88: Kannada film fraternity mourns ‘undisputed queen’ of melodyI am lately noticing that I may not remember certain people or places directly, but in the moment a familiar song begins to play, a Bengaluru street I have not walked in years comes flashing in my head, and a person I have not spoken to in long sits right across from me. This, however, is only half the story.
+
+Songs do not only retrieve the past but, over time, also begin to impose themselves upon our memory. We imagine we are remembering an event as it was when, in truth, we are remembering it as music has led us to feel it. My time in Bengaluru was certainly not as lively as Janaki’s songs have me believe.
+
+That, perhaps, is the greatest power of a singer. Their voice enters our experiences and becomes so inseparable from them that it acquires a lien over our memories. Our memories cease to be ours alone.
+
+S. Janaki has inhabited my life in precisely this way. I can no longer tell whether I remember a person or place as it truly was or as Janaki’s voice has led me to remember it.
+
+Perhaps that is what it means for an artist to become part of one’s inner life. Their work becomes a condition of remembrance: certain memories become inaccessible without them.
+
+We owe our artists more words while they can still hear them, but with aching regret, I say, 'Thank you, Janaki Amma, for making my life richer in ways I only understand now.'
+
+The writer is a lawyer.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/a-tribute-that-arrived-too-late-s-janaki-and-the-grief-of-unspoken-gratitude-4072615)
+
+---
+
+### The measure of spiritual writing
+*Deccan Herald · Opinion*
+
+As I reflect on the vast body of spiritual literature that has emerged across cultures and generations, I am struck by the sincerity that motivates most spiritual writers. They write with the intention of sharing insights, experiences, values, and practices that they believe can enrich human life. Their words often arise from a genuine desire to illuminate, inspire, and guide others toward a more meaningful existence. I hold such intentions in high regard, for every honest effort to uplift humanity possesses inherent worth.
+
+Yet I find myself asking a question that is not always easy to answer: Is good intention alone sufficient to make a piece of writing truly spiritual?
+
+A contemplation of history suggests otherwise; sincerity and wisdom are not necessarily the same. A person may write with the purest motives and yet unknowingly strengthen fear, prejudice, division, or illusion. For this reason, spiritual writing cannot be judged solely by the intention of its author. It must also be examined in terms of the effect it has on the minds and hearts of its readers and on the well-being of the larger human community.
+
+This reflection leads to the possibility of what is called a common conscience. Does such a thing exist? Despite our differences in culture, religion, language, and personal belief, it is reasonable to believe that humanity shares certain moral intuitions. Compassion is admired almost everywhere. Unnecessary suffering troubles us regardless of background. Truthfulness, fairness, and kindness seem to resonate across traditions and generations. These shared ethical sensitivities point towards a common conscience, a moral foundation that exists beneath our many divisions.
+
+There is also a common consciousness. It is certainly not to say that everyone thinks alike. Rather, it refers to the deeper interconnectedness of human experience. We all seek meaning, belonging, dignity, and peace. When spiritual literature speaks to these universal aspirations, it transcends doctrine and reaches directly into the human heart.
+
+Spiritual writing must pass through two subtle tests. The first is the test of conscience: Does it nurture compassion, responsibility, humility, and respect for life? The second is the test of consciousness: Does it expand awareness, deepen understanding, and strengthen our sense of connection with one another?
+
+When writing meets these tests, it becomes an instrument of awakening. Good intention remains an essential beginning, but it is not the final measure.
+
+[Read full article](https://www.deccanherald.com/opinion/the-measure-of-spiritual-writing-4072607)
+
+---
+
+### To cut pendency, courts must invest in the teams behind judges
+*Deccan Herald · Opinion*
+
+The debate on judicial reforms in India almost invariably begins and ends with one proposal: appoint more judges. Given India’s alarming pendency figures and low judge-population ratio, this demand is understandable and necessary. Yet, the discussion often overlooks an equally important question: who assists the judges in performing their work?
+
+Judicial efficiency depends not merely on the number of judges but also on the quality and quantity of institutional support available to them.
+
+India currently has only about 22 judges per million population, significantly lower than the 50 judges per million population recommended by the Law Commission of India in its 120th report. Meanwhile, more than five crore cases remain pending across Indian courts, with nearly 90% of these before district and subordinate courts. Even more troubling is the fact that high courts continue to operate with substantial vacancies while subordinate courts also face persistent shortages of judicial officers.
+
+Naturally, increasing judicial strength is an important part of the solution. However, increasing the number of judges alone may not be sufficient. A judge’s productivity depends on institutional support. Judges do not only hear arguments and pronounce judgments. They spend countless hours examining precedents, studying statutes, reviewing records, analysing pleadings and preparing judgments. Much of this work is indispensable. Much of it is also capable of being supported by trained legal researchers.
+
+The Supreme Court of India has long recognised the value of research assistance in judicial functioning. Judges are supported by teams of law clerks cum research associates who assist with legal research, identification of precedents and preparation of research briefs. Several high courts have also adopted similar arrangements, albeit on a much smaller scale. While a judge of the Supreme Court is typically assisted by a team of around five researchers, judges in many high courts are ordinarily supported by a single law researcher.
+
+The contribution of these researchers often remains invisible outside court corridors. Yet their value is difficult to overstate.
+
+Having worked as a legal researcher, I have seen first-hand the difference effective research support can make to judicial functioning. Hours spent locating authorities, tracing conflicting precedents, summarising records and identifying legal issues are hours saved for the court. A judge who receives well-prepared research assistance is able to devote greater attention to hearings, deliberation and judgment writing.
+
+A legal researcher does not replace judicial work; rather, the researcher enables the judge to focus on the work that only a judge can perform. In that sense, research support acts as a force multiplier for judicial capacity.
+
+This raises an important question. If research assistance improves efficiency, why should its availability remain so limited?
+
+More women join the Bench, but the path to the top remains narrowThere is a strong case for increasing the number of researchers attached to judges of the Supreme Court and the high courts. Litigation today is more voluminous and more specialised than ever before. Constitutional disputes, commercial litigation, technology law and regulatory matters demand extensive preparation and study. The demands placed upon judges have grown considerably; the support available to them has not.
+
+The case for district courts
+
+The argument becomes even stronger in the district judiciary. District courts carry almost the entire burden of India’s litigation. Yet judges at this level generally function without any dedicated research assistance. Unlike their counterparts in constitutional courts, district judges are often required to undertake legal research themselves while simultaneously managing crowded dockets and administrative responsibilities.
+
+The absence of institutional support inevitably affects productivity. Introducing law clerks or judicial researchers in district courts could therefore prove transformative. Young law graduates attached to individual judges could assist with legal research, preparation of case summaries and identification of precedents. Such a system would improve efficiency while also creating valuable training opportunities for future members of the Bar and the Bench.
+
+Most importantly, such reform would be comparatively inexpensive. Appointing an additional judge requires expenditure on salaries, court infrastructure, chambers, staff and residential accommodation. Expanding the number of legal researchers attached to existing judges would cost only a fraction of that amount while potentially producing substantial increases in disposal rates.
+
+The debate on judicial reform must therefore evolve. The question is not merely how many judges India has. The question is also how effectively those judges are supported.
+
+A judge working with a team of capable researchers can often achieve what several unsupported judges cannot. Judicial capacity depends not only upon the number of judges sitting on the Bench but also upon the number of professionals standing behind them.
+
+India undoubtedly needs more judges. But India also needs more minds assisting those judges. Expanding the strength of law clerks in the Supreme Court, increasing research support in the high courts and introducing similar arrangements in the district judiciary may well prove to be one of the most effective weapons in the fight against judicial backlog. The future of judicial reform lies not merely in increasing judicial numbers but in increasing judicial capacity.
+
+The writer is a Kashmir-based columnist and a research assistant at the J&K High Court.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/to-cut-pendency-courts-must-invest-in-the-teams-behind-judges-4072614)
+
+---
 
 ## 13 July 2026
 
@@ -25,6 +235,39 @@ Union Ministry of Commerce and Industry (MCI) data on India’s May crude import
 MCI data highlight the price impact: Russian imports carried a $46-per-ton premium. Import value surged 83% amid a 2% fall in volume, likely diminishing Indian refiners’ margins on refined products using Russian crude. While spot purchases have enabled refiners to capture discounts of up to $10 per barrel on Russian Urals crude relative to Brent during some periods, after February this year, narrowing discounts, weaker product cracks, and geopolitical risks have moderated gross refining margins. India must strike a balance between having long-term stable contracts with multiple producers, and selectively using the spot-market to mitigate the procurement risks. Until the Russia-Ukraine conflict, nearly 70% of India’s crude imports came through long-term contracts, particularly from West Asia. True, India cannot overlook the diplomatic costs as Russian energy dependence risks sanctions. When Russian crude was cheap because of discounts on account of the Ukraine war, India reduced imports under U.S. pressure; now when it is being sold at a premium because of the Iran war, India is moving back to Russian crude. India must expand its strategic petroleum reserves to cushion temporary disruptions. Whether it increases or cuts down Russian oil imports, India seems to make decisions that are far removed from any sense of strategic autonomy.
 
 [Read full article](https://www.thehindu.com/opinion/editorial/oil-conundrum-on-indias-energy-imports-from-russia/article71214010.ece)
+
+---
+
+### Contradictions within India’s cow protection regime
+*The Hindu · Opinion*
+
+The recent discovery of hundreds of cow carcasses at a dumping site in Jaisalmer, Rajasthan, rightly triggered an outrage on social media. A few years ago, a similar incident involving the mass starvation deaths of cows was reported from Chhattisgarh. The new Bharatiya Janata Party (BJP) government in West Bengal issued a public notice on May 13, 2026, laying down stringent conditions for the slaughter of animals under the West Bengal Animal Slaughter Control Act, 1950.
+
+Supreme Court stays Madras HC order directing ban on cow slaughter in Tamil Nadu
+
+Last week, a two-judge Bench of the Calcutta High Court upheld the notice, observing that the conditions mentioned in the impugned order were issued in compliance with the High Court’s order of August 16, 2018. Consequently, no cow, bull, bullock or even buffalo can be slaughtered without first obtaining a “certificate of fitness” from government officials. Despite all the rhetoric, the notification permitted the slaughter of cows older than 14 years, which justifiably annoyed Hindutva supporters.
+
+Which States have banned cow slaughter in India?
+
+Over 20 States in India have laws prohibiting cow slaughter. Only Arunachal Pradesh, Meghalaya, Nagaland, Sikkim, Tripura, Manipur, Mizoram and Kerala do not have such laws. But what is the efficacy of these laws? Have the stringent provisions and enhanced punishments introduced over the last 12 years helped preserve cows, or could such laws ultimately contribute to their decline? Whether cow reverence constitutes an essential Hindu practice and whether such laws violate the right to privacy are issues that require a ruthlessly objective assessment.
+
+Politics, faith and cowsCow protection has long been a central Hindutva issue and which explains the contents of the Bengal notice. Yet, the Congress too has historically benefited from cow protection campaigns. Viceroy Lord Lansdowne famously observed that the cow protection movement had transformed the Indian National Congress from “a foolish debating society into a real political power”. The cow and calf were the Congress’s symbols for decades. Whenever the BJP comes to power in a State, amending cow slaughter prohibition laws to make them more stringent — by enhancing punishments, criminalising possession of beef, and restricting the transport of cattle within or outside the State — becomes a priority. The Gujarat law of 2017 even provides for life imprisonment, and in 2025, three persons were reportedly sentenced to this extreme punishment, ordinarily reserved for heinous offences such as murder, terrorist acts and dacoity. True, cow reverence among Hindus is ancient and enjoys near-unanimous acceptance, though scholars such as D.N. Jha have disputed this assertion citing scriptural material. He pointed to instances in Dharmashastric traditions where Yajnavalkya appears to endorse the consumption of beef, and highlighted the inconsistencies and polymorphic nature of Indian dietary practices. He also argued that the “holy” status accorded to the cow was largely a much later development, and noted that several prescriptive Hindu texts classified cow slaughter as a minor sin (upapataka) rather than a major offence (mahapataka). Strikingly, even the prominent Hindutva ideologue Vinayak Damodar Savarkar held views that differed significantly from those of many present-day Hindutva activists. Consequently, cow reverence may not satisfy the parameters of the essential religious practices test which requires practice to be mandatory from the time of origin of a religion.
+
+In Mohd. Hanif Quareshi vs State of Bihar (1958), the Supreme Court of India rightly held that cow slaughter on Bakr-Eid is not an essential Islamic practice either. Several Muslim rulers had also restricted cow slaughter. Babur advised Humayun to do so in his will, Jahangir’s Edict No. 10 too prohibited animal slaughter on certain days out of respect for Hindu and Jain sentiments. The influential Deoband Islamic seminary too issued multiple fatwas discouraging cow slaughter. Even in the Constituent Assembly debates on November 24, 1948, Muslim members such as Z.H. Lari and Mohammad Saadullah insisted that “it is better to come forward and incorporate a clause in fundamental rights that cow slaughter is henceforth prohibited, rather than it being left vague in the directive principles.…”
+
+What cattle census data revealDr. B.R. Ambedkar eventually placed cow protection within the non-justiciable Directive Principles under Article 48 of the Constitution, following which several States enacted laws after Independence prohibiting cow slaughter. Yet, cattle census data suggest that the objective of preserving and increasing the cow population has not been achieved. West Bengal, for instance, was among the few States where culling and sale of cows and bulls were not entirely prohibited. By conventional logic, its cow population should therefore have been far lower than that of States such as Gujarat, Uttar Pradesh and Maharashtra. However, since 1951, the cow population in the country has grown by only 49.63%, while the buffalo population has risen by 153.8% and the female buffalo population by 161.9%. The figures speak for themselves: cows face the risk of decline.
+
+Ironically, the unprotected buffalo population has grown far more rapidly, especially in the so-called cow-belt States. A comparison of cattle growth rates shows that West Bengal, despite lacking stringent cow slaughter laws, has performed better than States with strict prohibitions. Even though male cattle are protected in these States, their population has declined sharply — by 38.3% in Gujarat, 31.4% in Maharashtra and 58.27% in Uttar Pradesh. In contrast, the decline in male cattle population in West Bengal was only 22.8%. The data also suggest that stringent prohibition laws may be pushing farmers in these States towards buffalo rearing, reflected in the declining cattle-to-buffalo ratio between 2012 and 2019. In West Bengal, by contrast, buffaloes remain insignificant in number and their population sharply declined in 2019. In 1997, the cattle to buffalo ratio was 144:1 but in 2019 it became 295:10. In Uttar Pradesh, the cattle-to-buffalo ratio fell from 105:100 in 1997 to 56:100 in 2019. West Bengal, despite lacking stringent prohibitions, witnessed a comparatively stronger growth in cow population and, therefore, mere laws will not protect cows.
+
+Cattle populations grow in a compounded manner because, unlike humans, a cow gives birth to its first calf at around three years and, to remain productive, must calve every 14-16 months. Calves born during a census period also mature and begin reproducing within a few years. According to growth forecasting models, if no cattle were culled or slaughtered and all calves survived except for natural deaths, the cattle population would increase by 2.5 to three times within five years — something that has never occurred in any State. Such growth is economically unsustainable, as farmers cannot support such numbers due to fodder scarcity.
+
+Undermining the farmerWhen farmers are legally allowed to exercise their judgment in culling unproductive cattle, they earn additional income to meet expenses such as weddings, children’s education and health care. According to simulation models, farmers in West Bengal earned nearly ₹35,000 crore between 2012 and 2019 from the lawful sale of cattle for slaughter, apart from their dairy income. Farmers in States with strict prohibition laws also appear to have sold cattle for slaughter as is reflected in declining cattle populations, but likely to have earned far less because of the illegality of such sales and the possibility of bribery and middlemen. In effect, these laws do not penalise butchers or beef consumers, but farmers themselves. West Bengal appears to have recognised this reality with Muslim refusal to purchase cows for Eid slaughter. In India’s agrosilvopastoral economy, livestock remains a vital component of rural livelihoods.
+
+In the privacy judgment of K.S. Puttaswamy (2017), Justice J. Chelameswar had observed “I do not think that anybody would like to be told by the State as to what they should eat or how they should dress or whom they should be associated with either in their personal, social or political life.” Justice Chandrachud said that what one eats is one’s personal affair and it is a part of privacy under Article 21, i.e., right to life and personal liberty In view of the politicisation of the issue, Muslims in Bengal prudently refrained from cow slaughter during Eid. One hopes that this will promote social harmony and counter communal hate campaigns. Maulana Arshad Madani, president of the Jamiat Ulama-e-Hind (Arshad Madani faction), has also called for the cow to be declared the national animal. The first writer of this article, though not a veterinary expert, believes that Muslims across India should support a central law banning cow slaughter and imposing stringent punishment, especially on those who sell cows for slaughter.
+
+Faizan Mustafa is Vice-Chancellor, Chanakya National Law University, Patna, Bihar. Abdul Samad is Former Dean, Mumbai Veterinary College. The views expressed are personal
+
+[Read full article](https://www.thehindu.com/opinion/lead/contradictions-within-indias-cow-protection-regime/article71034259.ece)
 
 ---
 
@@ -63,6 +306,77 @@ Vijay L. Kelkar is Vice-Chairman of the Pune International Centre. Pradeep S. Me
 
 ---
 
+### DC Edit |Need For J&K Statehood Is Vital; Don’t Lose Focus
+*Deccan Chronicle · Editorial*
+
+Stripping Jammu and Kashmir of its statehood, along with hollowing out Article 370 of the Constitution, was an act of sleight of hand by the NDA government at the Centre. The BJP may claim justification for doing away with the constitutional link that had bound the Indian nation to the state of Jammu and Kashmir because it had long been part of the agenda the party placed before the people of the country; but to strip a state of its basic status to achieve a political end was a deception played on the people of Jammu and Kashmir, the people of India and the Constitution itself.
+
+Article 1 of the Constitution is not only the foundation of that document but also the cornerstone of the entire array of principles this nation is founded on. It states in no uncertain terms that ‘India, that is Bharat, shall be a Union of States’. The framers of the Constitution had no doubt in their minds that the very idea of India is founded on federal principles and that the states are its foundational units. There are indeed provisions to make and unmake states as the country moves forward so that the interests of the people are better served.
+
+The boundaries and even the names of the 28 states classified into four categories that existed when the Constitution came in force in 1950 have been changed several times. The changes, however, were made to reflect the aspirations of the people. In fact, the Constitution was mindful of placing popular demand above the opinion of the state legislature in that Parliament was empowered to carve out new states without the consent of the existing state legislature, evidently taking into account possible resistance to division.
+
+Every single principle of the Constitution and every constitutional propriety was violated when Jammu and Kashmir was bifurcated into two Union Territories in 2019. The move was followed by an assurance by the nation’s leadership, through the voices of the Prime Minister and the Union home minister, that its statehood would be restored in the near future. The government gave the impression that elections to the state Assembly would be the marker: once an elected government came to power, statehood would be restored. However, it was not to be.
+
+Chief Minister Omar Abdullah was at his diplomatic best over the past two years when he chose not to adopt a confrontational course with the Union government on the question; he counselled patience even among his own party colleagues believing that the Union government would fulfil its promise to the state and to the nation. He has now called for a march to the national capital on July 20 to press for the demand.
+
+The BJP’s response to the call, and to the demand itself for statehood has been one of obstinacy and arrogance. Instead of addressing the issue the Chief Minister has raised, the party is now offering excuses for not walking the talk. The party knows fully well that such a response will an equally shrill response from the other side, which will offer the saffron party a further excuse to delay the decision. It would be advisable for Mr Abdullah to stay the course instead of allowing attention to be diverted from his genuine demand.
+
+The BJP would also do well to remember that history has not been very kind to the dispensations that sought to impose their writ on this country through skullduggery and arrogance; respecting democratic norms and acquiescing in the people’s wishes are in order instead.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-need-for-jk-statehood-is-vital-dont-lose-focus-1970660)
+
+---
+
+### DC Edit | Resilience Wins At Wimbledon
+*Deccan Chronicle · Editorial*
+
+It is said of great players that they find the way to victory, which is exactly what Jannik Sinner did in retaining his title at Wimbledon. Having dealt with an almighty scare in the first round from the virtually unknown Miomir Kecmanovic, who took him to five sets, the Italian became the first man in 48 years to survive and win the cup at London’s SW19.
+
+Resilience has been the remarkable quality in Sinner’s journey to a fifth Grand Slam in the final of which he did not have to face his fiercest competitor in recent slams in the young Alcaraz who is yet to recover from injury. The German Alexander Zverev has stepped up in Alcaraz’s absence, winning a maiden grand slam in the French Open and jousting with world No. 1 Sinner.
+
+In a final that was developing into a typical Wimbledon classic of strapping athletes backing a booming service with precision in the first two sets that went into tiebreakers, Sinner just about got the better of Zverev. In one remarkable point he fell but regained his balance to keep the ball in play and find the winner to ultimately prevail in the second set tiebreaker.
+
+Sinner had already hit a high before the final in demolishing the all-time great Novak Djokovic in straight sets without giving him an inkling of a chance. Ironically, Zverev too had fallen heavily on the wearing grass and wasn’t the same again after his opponent had sportingly given him a helping hand to get up. Wrapping up matches by wearing down opponents with precision backing perseverance in sticking to percentage play is Sinner’s speciality.
+
+There were colourful stories on the distaff side too with two Czech players coming through a quality women’s field in which the top 20 players seem equally capable of beating each other. It was the young Linda Novoska who took the shield from British royalty soon after she won a battle against her own nerves. At 6-2, 5-2, she was on the verge of a historic win over Karolina Muchova when the very thought of victory seemed to consume the 21-year-old.
+
+Resilience was the much-needed quality there too as Novoska clawed back to save three break points in the first game of the final set and didn’t look back as she let her powerful serves take over again before joining a long list of Czech champions beginning with the incomparable 9-time Wimbledon winner Martina Navratilova, who was present to watch her fellow Czechs in the three-set final.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-resilience-wins-at-wimbledon-1970634)
+
+---
+
+### Aakar Patel | Of NRC & SIR: How Governments' Use Of Arbitrary Powers Put Citizens In A Fix
+*Deccan Chronicle · Opinion*
+
+One common trait in lawless nations is the high levels of anxiety against arbitrariness. Medieval texts tell us this has always been the case in our parts. Cruelty is couched as process and millions put through torture. Special Intensive Revision forms are being handed out across India. It is impossible on a first reading of this form, no matter how educated the reader, to understand what one is required to do, even though it is a single page.
+
+We are told by the executive and the judiciary that putting us through this is not only reasonable but required and necessary. Of course, we have been down this road before.
+
+In 1998, the governor of Assam, a retired military man named Lt. Gen. S.K. Sinha (Retd) sent a note to then President K.R. Narayanan where he referred to the situation in alarming language: “Large-scale illegal migration from East Pakistan/Bangladesh over several decades has been altering the demographic complexion of this state. It poses a grave threat both to the identity of the Assamese people and to our national security. Successive governments at the Centre and in the state have not adequately met this challenge.”
+
+Gen. Sinha demanded action “to avert the grave danger that has been building up for some time … If not effectively checked, (Bangladeshis) may swamp the Assamese people and may sever the Northeast land mass from the rest of India. This will lead to disastrous strategic and economic results.”
+
+Gen. Sinha acknowledged he was not basing this assessment on any data. He added: “Unfortunately, today we have no Census report on the basis of which we can accurately define the contours of trans-border movement. Thus, we have to rely on broad estimates of theatrical extrapolations to work out the dimension of illegal migration that has taken place from East Pakistan/ Bangladesh.” In short, he had no evidence to prove this theory but he felt strongly enough about it just the same to raise it with the President officially.
+
+In 2005, Sarbananda Sonowal, who later became the BJP chief minister of Assam, went to the Supreme Court to make the laws governing the identification of individuals suspected to be foreigners harsher. The Supreme Court leaned on S.K. Sinha’s speculative note in this case to conclude that Assam was facing “external aggression”, which threatened a constitutional breakdown.
+
+This was reckless and unwarranted use of extremist language that reflected the prejudices and bigotry existing against Muslims which exist even in India’s highest court. The judiciary reversed the burden of proof for residents of Assam, a feature it regularly condones as we have seen in this column before. Normally, it is the state that must prove wrongdoing or criminal activity and it must provide the evidence that someone must be punished. This is the meaning of the term “innocent till proven guilty”. However, the onus of proving they were not foreigners (and for those born after 1971, that their parents or grandparents were not foreigners) was thrust by the judiciary onto the Assamese people. They were all guilty until they could prove themselves innocent.
+
+In a nation where many, if not most, are poor and many, if not most, are not fully literate, where documentation is weak, and in a state where flooding is not rare and the total loss of property quite common, this reversal of the burden of proof on such an important matter was cruelty. The other thing that the state did was to have almost no safeguards.
+
+The foreigners’ tribunals which would determine whether someone should be set free or sent to a jail, were staffed by people given four days of training. They were advocates and retired civil servants hired on two-year contracts. It was before such people that the individuals would have to present their case. The Assam government run by the BJP told the tribunal members what it wanted them to do by not extending the contracts of those who had a low rate of declaring individuals as foreigners.
+
+Individuals who had marked fewer than 10 per cent of the total number of people coming to their tribunal as being foreigners were deemed to be “not satisfactory” and shown to be “terminated”. The state government was effectively incentivising its tribunal officers to mark more people as foreigners, and punishing those officers who were not doing so. Such injustice did not receive nationwide, much less global, notice and the matter was limited to the Assamese media.
+
+The crisis snowballed when an Assamese, Ranjan Gogoi, was appointed as the Chief Justice of India. The state, which was then under BJP rule, drew up a first list, excluding over 40 lakh people and then a final list of those who it was satisfied met the criteria that it laid out. This was the so-called National Register of Citizens.
+
+The list excluded 19 lakh people from it who would now have to line up before the foreigners’ tribunals with their papers and prove their citizenship. The majority of these 19 lakh people turned out to be Hindus. This ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/aakar-patel-of-nrc-sir-how-governments-use-of-arbitrary-powers-put-citizens-in-a-fix-1970672)
+
+---
+
 ### Bharat Bhushan | BNP Govt In Dhaka Risks Squandering India's Trust
 *Deccan Chronicle · Opinion*
 
@@ -95,6 +409,41 @@ Such a shared platform would create overlapping military ecosystems of maintenan
 China’s moves are underpinned by the trilateral China-Bangladesh-Pakistan relationship. Former Bangladesh ambassador Mohammad Harun Al Rashid claimed there is “increasing psychological pressure on Tarique Rahman to build a...
 
 [Read full article](https://www.deccanchronicle.com/opinion/columnists/bharat-bhushan-bnp-govt-in-dhaka-risks-squandering-indias-trust-1970424)
+
+---
+
+### Wasbir Hussain | Beyond Mangoes: Tackle Dhaka’s Swing To Beijing
+*Deccan Chronicle · Opinion*
+
+Diplomacy has its symbols. And Bangladesh has once again chosen mangoes. In recent weeks, Dhaka has dispatched crates of its celebrated fruit to Indian leaders, reviving the tradition of “mango diplomacy” that seeks to project warmth between the two neighbours. Such gestures are welcome as they keep the communication channels alive and soften political edges.
+
+But statecraft cannot be guided by the sweetness of mangoes.
+
+For even as Dhaka extends symbolic goodwill towards India, it is quietly moving closer to China. During Prime Minister Tarique Rahman's recent visit to Beijing, discussions with President Xi Jinping included the proposal for a China-Bangladesh-Myanmar Economic Corridor — a project that, if realised, would carry consequences extending far beyond trade. For India, and especially for the Northeast, it should set off strategic alarm bells.
+
+This is not about Bangladesh having friendly relations with China. Every sovereign nation has the right to pursue multiple partnerships. Nor is it about opposing infrastructure or economic development. The issue is that China rarely invests without a strategic target.
+
+From Pakistan’s Gwadar Port to Sri Lanka’s Hambantota, from Cambodia to the Indian Ocean, Beijing has demonstrated that economic corridors are not merely commercial ventures. They create political leverage, deepen dependence and gradually expand China’s strategic influence. A China-Bangladesh-Myanmar corridor would stretch from Yunnan to the Bay of Bengal, passing through one of Asia’s most volatile regions. It would bring Chinese influence closer to India’s vulnerable eastern frontier while strengthening Beijing’s presence around the Bay of Bengal.
+
+Does it change India’s security calculus? The answer is yes. The Northeast is no longer India’s distant frontier or its periphery. It is central to New Delhi’s “Act East” policy, its regional connectivity ambitions and its national security architecture. Roads, railways, waterways and energy corridors linking the Northeast to Southeast Asia are critical to India's future economic geography.
+
+But geography cuts both ways. Myanmar remains fractured by civil war. Several ethnic armed organisations control territory along India’s border. Many insurgent groups from India's Northeast have historically maintained networks across Myanmar. China enjoys considerable influence with several of these armed organisations.
+
+Therefore, a Chinese-backed economic corridor passing through such territory inevitably raises uncomfortable questions. Infrastructure creates access. Access creates influence. Influence eventually acquires strategic value. India cannot afford to dismiss this as merely another development project. The Bay of Bengal presents another dimension. China has steadily increased its maritime presence across the Indian Ocean Region. Investments in ports may begin as commercial enterprises but can evolve into dual-use strategic assets. Bangladesh has repeatedly assured India that its territory will never be used against Indian interests. There is no reason to doubt those assurances today. But the concern is really about tomorrow as infrastructure lasts for decades, while governments don’t.
+
+India must therefore assess the long-term strategic implications rather than the immediate diplomatic optics. Ironically, New Delhi has also made matters more complicated.
+
+Following the BJP’s victory in West Bengal, reports of immediate pushbacks of suspected Bangladeshi migrants have generated unease in Dhaka. India has every sovereign right to identify illegal migrants and return them through due legal process. No responsible government can permit illegal immigration indefinitely, particularly in border states like Assam or West Bengal, where demographic change has remained politically explosive for decades. Border management is non-negotiable, but diplomacy is equally important. The manner in which deportations are carried out matters as much as the decision itself. If Bangladesh feels publicly embarrassed or politically cornered, anti-India sentiment becomes easier to mobilise. That is precisely the environment in which China thrives.
+
+Beijing does not need to weaken India militarily if it can gradually weaken India's political influence among its neighbours. India's response, therefore, must avoid two extremes. The first is complacency — the belief that Bangladesh will always remain India's closest partner because of geography and history.
+
+The second is panic — the assumption that every Chinese investment automatically represents a strategic defeat. Neither approach serves India's interests. Instead, New Delhi needs a strategy built on confidence rather than insecurity.
+
+First, India must accelerate connectivity projects that directly benefit Bangladesh as well as the Northeast. Delayed infrastructure weakens credibility. Faster delivery strengthens partnerships.
+
+Second, India should deepen economic integration beyond government agreements. Greater private...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/wasbir-hussain-beyond-mangoes-tackle-dhakas-swing-to-beijing-1970645)
 
 ---
 
