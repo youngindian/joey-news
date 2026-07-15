@@ -1,8 +1,215 @@
 # Editorials
 
-_Last updated: 2026-07-14 04:28 UTC_
+_Last updated: 2026-07-15 04:29 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 15 July 2026
+
+### ​Steady in turbulence: On India’s Australia, New Zealand ties
+*The Hindu · Editorial*
+
+Prime Minister Narendra Modi’s recent visits to Australia and New Zealand marked yet another step in India’s efforts to consolidate partnerships across the Indo-Pacific. India’s relations with both countries have traditionally been largely economic and people-centric, but the visits underscored an increased emphasis on strategic aspects, a fresh turn. Geopolitical competition, manifested in supply-chain disruptions and the realignment of global economic networks, is keeping the world on tenterhooks, and India has to manage the uncertainties and volatility well to be able to protect its vital interests. The visits reflected New Delhi’s attempt to strengthen the southern arc of the Indo-Pacific under its Act East Policy, MAHASAGAR (Mutual and Holistic Advancement for Security and Growth Across Regions) vision, and commitment to a free, open and inclusive Indo-Pacific. India and Australia adopted a new Joint Declaration on Defence and Security Cooperation, significantly upgrading the existing security framework. They agreed to enhance interoperability between their armed forces, expand military exercises, establish an Annual Defence Ministers’ Dialogue, and strengthen cooperation in cybersecurity, maritime security and emerging technologies. An India-Australia Maritime Security Collaboration Roadmap was unveiled to deepen information sharing and operational coordination in the Indo-Pacific. An immediate and consequential outcome was Australia’s decision to allow uranium exports for India’s civilian nuclear programme, removing a lingering obstacle in ties and boosting India’s clean-energy ambitions. Both countries will also find new avenues of cooperation on critical minerals, a specific field of global uncertainty.
+
+India-New Zealand relations are now a formal strategic partnership,with a road map for cooperation over the next four years. Key agreements announced by the countries include maritime cooperation in the Indo-Pacific and mutual logistics support between the Indian Navy and the New Zealand Defence Force. Building upon the recently concluded India-New Zealand Free Trade Agreement, both sides agreed to aim for a substantial expansion of bilateral trade by 2030. Avenues for agricultural cooperation are also being explored. India shares with Australia and New Zealand a concern about maintaining stability and predictability in the Indo-Pacific. Supply-chain diversification, energy security, and access to critical minerals and emerging technology are key priorities for India, which is trying to protect its strategic autonomy in a world of great volatility. The Modi government has been trying to achieve this objective through building a network of partnerships. These visits fit into that pattern. India’s challenge is in keeping itself steady in an era of global turmoil, and untangled from rivalries that can do it no good. Mr. Modi’s visits build on this awareness.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/steady-in-turbulence-on-indias-australia-new-zealand-ties/article71221318.ece)
+
+---
+
+### Two sets: On Wimbledon 2026
+*The Hindu · Editorial*
+
+When Jannik Sinner arrived at Wimbledon, there were questions aplenty. They hinged on the defeat he suffered at the French Open, where he wilted in the second round under the extreme Paris heat despite being two sets and 5-1 up. When he needed five sets to get past the first round at the All England Club, the intrigue about his physical health and state of tennis deepened. None of his achievements in the 52 weeks preceding Wimbledon — 76 wins against just six losses, and 10 titles — seemed to matter. But with two superlative performances, against Novak Djokovic in the semifinal and Alexander Zverev in the final, the World No. 1 silenced the doubters in the best possible fashion. Djokovic and Zverev were his two biggest threats, with the former a seven-time winner at SW19 and the latter the reigning Roland-Garros champion. But the Italian’s top-notch serving and baseline consistency fetched him his second straight Wimbledon and fifth Major title. The success was also Sinner’s tenth consecutive victory over Zverev. But even in defeat, the German can hold his head high. Since the start of 2024, men’s tennis has largely been a cat-and-mouse game between Sinner and Carlos Alcaraz. Zverev’s potential entry as the distinguished third will make the sport healthier.
+
+The women’s game has had a more even spread of champions, and Wimbledon has been at the forefront of producing them. It was no different this year as Linda Noskova became the tenth different women’s singles winner at SW19 in as many years. The fact that Noskova, Iga Swiatek and Elena Rybakina are the only ones in this list to also feature in the current WTA top-10 is indicative of the depth in quality. The player from Czechia was spoken of but was never considered the favourite to win, for she had reached the quarterfinal stage at a Slam only once before. Yet, the 21-year-old put together a remarkable streak that culminated in the pulsating three-set triumph over compatriot Karolina Muchova (2023 French Open finalist). The most impressive bit was Noskova’s resilience in roaring back after missing out on five championship points in the second set. At the start of the tournament, there was concern that such elite performances would be dulled by protests from players demanding a better revenue-sharing model from the organisers. For a second straight Major, a temporary truce was called, allowing tennis to be solely in the limelight.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/two-sets-on-wimbledon-2026/article71221706.ece)
+
+---
+
+### The disruptive rise of India’s new political generation
+*The Hindu · Opinion*
+
+India’s political establishment has long spoken of youth in the future tense — young people as tomorrow’s leaders, democracy’s inheritors, and the next generation of voters. Beneath this language of hope, however, is a political reality, which is that power has remained concentrated among ageing leaders who rarely entrusted young people with real influence. That political fiction is now rapidly fading.
+
+India’s youth are no longer “citizens in waiting”. They are already shaping elections, influencing political discourse, forcing parties to recalibrate, and redefining how politics itself is practised in a unique way. This transformation is not simply demographic. India has long been a young country. What is different today is the emergence of youth as an independent political force with its own language, expectations, methods, and centres of influence. Political leaders who fail to recognise this shift increasingly risk irrelevance.
+
+A new political languageThe shift is most visible in political communication. For much of the post-Independence years, Indian politics operated through hierarchy and distance: leaders spoke from elevated stages while citizens listened. Communication flowed through party structures, newspapers, television, and carefully managed public events, depending on spectacle, organisational control, and ideological certainty. That model is weakening rapidly.
+
+Today’s youth inhabit a radically different political landscape shaped by short-form videos, memes, podcasts, livestreams, online commentary, and decentralised digital communities. While attention spans may be shorter, political awareness has not declined. Young voters are not necessarily anti-political; they are anti-performance. They respond to accessibility, authenticity, responsiveness, humour, emotional intelligence and transparency over scripted rhetoric. Tamil Nadu offers one of the clearest examples of this shift.
+
+The rise of actor-turned-politician C. Joseph Vijay cannot be explained through celebrity appeal alone. What makes Mr. Vijay’s emergence politically significant is his intuitive understanding of a transformed communication ecosystem. More importantly, even leaders within established parties have publicly acknowledged his growing influence among younger voters.
+
+This transformation is also visible in the rise of meme-driven political commentary and satire collectives that increasingly shape public perception among younger audiences. On Instagram, YouTube, and X, informal digital ecosystems now influence political narratives far more rapidly than traditional party communication machinery. The “Cockroach Janta Party” phenomenon — alongside a broader ecosystem of meme creators, satirical commentators, and independent digital voices — reflects a generation engaging with politics through humour, irony, cultural references, and decentralised online participation. Once dismissed as frivolous Internet culture, these spaces increasingly function as parallel arenas of political socialisation and opinion formation.
+
+A similar recalibration is visible elsewhere in India. In Kerala, Congress leader and the “pookie CM” V.D. Satheesan has consciously cultivated an image distinct from the confrontational and centralised styles that increasingly characterised the State’s recent political culture. His emphasis on accessibility, dialogue, and participatory communication reflects a recognition that younger citizens no longer respond automatically to ideological inheritance or party loyalty. A political leader unable to communicate within this evolving ecosystem risks irrelevance, regardless of organisational strength.
+
+From protest to participationIndia’s youth politics is no longer confined to party youth wings or campus elections. The 2017 pro-Jallikattu protests in Tamil Nadu marked a turning point in understanding how digitally connected youth could sustain mass mobilisation without centralised party leadership. What began as a cultural movement evolved into a wider demonstration of youth-led political coordination powered by social media networks, online narratives, and decentralised participation.
+
+Since then, online political culture — from meme creators and independent digital commentators to podcast ecosystems and Instagram-based political analysis — has become a major force shaping public discourse. Political parties now obsessively monitor online sentiment, adapt campaign messaging to digital reactions, and respond rapidly to narratives emerging far outside traditional institutions.
+
+The distinction between “online politics” and “real politics” is steadily disappearing. This broader shift mirrors developments elsewhere in South Asia. Sri Lanka’s 2022 Aragalaya protests demonstrated how digitally connected youth could convert public frustration into sustained political pressure against corruption, dynastic entitlement, and elite detachment. Nepal too has witnessed growing youth-led mobilisations around governance failures, unemployment, and democratic accountability.
+
+India has so far remained relatively insulated from such large-scale upheaval. But recent political developments suggest that a quieter transformation is underway — not necessarily through street uprisings, but through changing patterns of political communication, participation, and voter behaviour.
+
+This also calls into question the assumption that youth mobilisation is inherently anti-establishment or anti-democratic. The rise of Mr. Vijay in Tamil Nadu suggests that where democratic institutions remain credible and electoral participation feels meaningful, young citizens are willing to work within existing democratic structures rather than reject them outright.
+
+The problem is not apathy — it is institutional distrust. Increasingly, younger citizens recognise that much of what passes as “youth engagement” is little more than managed participation without genuine power-sharing. Political parties often speak about bringing youth into politics, but resist the logical consequences of doing so: redistributing authority, opening leadership pathways, decentralising candidate selection, and allowing younger voices to shape policy priorities.
+
+Adapt or become irrelevantThe challenge before political parties is no longer simply attracting young voters through social media content, campaigns or symbolic outreach. The real question is whether entrenched political structures are willing to meaningfully share power and adapt to a new democratic culture shaped by honesty, participation, transparency, responsiveness, and decentralised influence over scripted authority. Young citizens are no longer waiting quietly at the edges of democracy. They are already reshaping it. The street protest and the polling booth are no longer separate democratic spaces; they are increasingly interconnected. Political parties that continue to underestimate this transformation risk finding themselves stranded in a political culture that no longer exists.
+
+Amal Chandra is a political analyst, columnist and the author of the book, The Essential (2023); Ajay Karuvally is a Senior Research Associate at the International Institute of Migration and Development
+
+[Read full article](https://www.thehindu.com/opinion/lead/the-disruptive-rise-of-indias-new-political-generation/article71222425.ece)
+
+---
+
+### DC Edit | Mideast Crisis Enters Homes
+*Deccan Chronicle · Editorial*
+
+The rise in retail inflation to 4.38 per cent in June 2026, an 18-month high but still within the RBI's comfort level, signals that the West Asian crisis has begun to enter households. Food inflation, which disproportionately affects the poor and middle class, has risen to 5.3 per cent.
+
+While India has faced oil shocks before, the present challenge is more complicated because it is accompanied by a failed monsoon caused by El Nino and geopolitical uncertainty. This combination makes India — a country that has a largest population to feed and acutely dependent on imported oil — highly vulnerable among large economies.
+
+India imports a large part of its oil requirement, and any prolonged disruption in supply routes or spike in crude prices can increase transport costs, fertiliser prices and import bill, widen the current account deficit and weaken the rupee.
+
+The government and the Reserve Bank of India (RBI) must, therefore, respond before the situation becomes worse. Though the RBI's policy measures had stabilised the rupee in the last month, the recent escalation of hostilities in West Asia has triggered a new round of pressure on the rupee.
+
+One of the monetary instruments available to the Reserve Bank to fight rising inflation and weakening rupee is increasing interest rate. A higher deposit rate attracts new funds, while a higher lending rate, in theory, will dampen inflationary expectations.
+
+On the flipside, a higher lending rate will affect capital investments and economic growth adversely. As the inflation rise was called by supply side issues, the impact of higher interest rate on controlling it could be suboptimal. Therefore, fiscal policy, trade policy and diplomatic strategy must work together with monetary policy to ring-fence households and protect the economy. In the long-run, however, India needs to end its periodic oil-induced crisis by switching over greener alternatives.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-mideast-crisis-enters-homes-1970992)
+
+---
+
+### DC Edit | Top Court’s Intervention On Citizenship Issue Welcome
+*Deccan Chronicle · Editorial*
+
+The Supreme Court order on Monday demanding that the question of citizenship be addressed through a “fair, lawful and reasoned” process comes as a reiteration of the republic’s commitment to the basic ideals of democracy and an oblique comment on the approach of the Union government and its arms in targeting its own people with questionable motives. The apex court made it very clear it recognised the legitimate right of the state in ensuring that no person who is legally ineligible to be an Indian citizen acquires that status but the process cannot be a one-sided and mechanical one, devoid of the application of mind. It is a sad commentary on the government’s actions that the judiciary had to step in and remind it that declaring a person a “foreigner” has grave consequences and that the process must respect constitutional guarantees.
+
+The Supreme Court’s observations have come while setting aside 27 orders of the Gauhati high court which upheld the decisions of the Foreigners’ Tribunals declaring the appellants as foreigners. The high court’s reasoning that the tribunals passed the orders as the appellants had not appeared before them despite being served notices did not satisfy the apex court, and this quintessentially differentiates the approach of the Union government and agencies such as the Election Commission from that of an institution that believes in fairness, respect for constitutional principles and adherence to democratic values. The Supreme Court has, by admonishing the tribunals for adopting logic untenable from the eyes of justice and fairness, puts the onus on the state, and not the person, to prove its case about citizenship.
+
+It may be remembered that the Election Commission has used a legitimate, periodical and legal tool called the special intensive revision (SIR) of the electoral roll to disenfranchise Indians in their lakhs; it had the audacity to conduct elections to the state Assemblies keeping them out of a process that is foundational in an electoral democracy. Reports suggest that the same EC is now coming out with a condition that new voters must produce documents of their parents being part of an SIR, a dubious and suspect exercise, if they are to enrol as voters. It is unfortunate that the apex court had put its stamp of approval on the discreditable exercise of the EC and refused to intervene when it made a mockery of the election process unlike when the foreigners’ tribunals discovered its own logic to declare people foreigners.
+
+As the Supreme Court pointed out, the state has a right and responsibility to ensure that only Indian citizens are entitled to the rights accorded to that class of people. But that differentiation is of huge consequence to the life of the individual. The Supreme Court’s intervention has come as a forceful declaration that the state cannot invent its own methodologies, logic and tools to question the legitimate rights of people; it has to act within the constitutional framework. Follow the law, is the simple lesson that the apex court would want the government to learn.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-top-courts-intervention-on-citizenship-issue-welcome-1970995)
+
+---
+
+### Devi Kar | How To Deal With Punishment In School, As Well As
+In Society At Large
+*Deccan Chronicle · Opinion*
+
+Soon after the recent change of government in West Bengal, some images came up in the media that will haunt me for long. These were of “criminals” and “gangsters” linked to the TMC who had been arrested. They were stripped to their underwear and had a rope tied around their bellies. The comments, including by a strident anchor, were full of glee, expressing the sentiment of “it serves them right”.
+
+I was extremely disturbed by the public reaction. Have we gone back to the days when punishment of criminals also served as entertainment? Acts like throwing criminals to wild animals for the entertainment of the rulers or public hangings were meant to serve as strong deterrents and warnings. In some American states, family members of victims are allowed to witness executions (by lethal injection or the electric chair) from an adjacent viewing room. This business of “closure” can be taken to absurd lengths. It’s natural for families of victims to expect justice, but to claim the right to actually watch the delivering of punishment smacks of a perverse and primitive pleasure. As sensitive and civilised humans we should be above these base and raw emotional needs.
+
+We need to revisit the concept and purpose of punishment. Surely it’s to seek the correction of the culprit, and not just to inflict pain? Many thinkers and educators have written at length on the relative effectiveness of reward and punishment and on positive and negative reinforcement. Generally, it has been accepted that rewards and incentives succeed better in producing a desired behaviour than punishment does.
+
+Punishment is more effective as a deterrent, that is, in stopping undesirable behaviour. However, it also has complex and unhealthy consequences.
+
+A state has a structured set of laws governing crime. So, every person would be aware of the consequences of his misdeeds if they are discovered. In school, this doesn’t always happen and punishment becomes arbitrary. Besides, with children, instead of uniform punishment, an attempt is made to tailor the punishment to suit the misdeed as well as the temperament of the child. The aim is to make them reflect, and dissuade them from repeating such behaviour, while ensuring that relations between the punished and the punisher are untarnished. This sounds difficult to achieve, but children seem to understand when parents and teachers “correct” without anger and malice and perceive these disciplinary measures from the right perspective. Adults too must be careful about feelings when they are doling out punishment; they must be in touch with their own emotions as well as of those they punish.
+
+While I was working on this piece, I got a call from a journalist who was reporting on various types of punishment and on “how strict teachers should be”. This assignment was triggered by a strange but tragic incident of a high school student meeting with sudden death after having gulped down a cup of very hot tea. The blame game started soon, and school students began to protest against the overly strict handling of students by their teachers and the authorities. I am still puzzled about the link between the boy’s unexpected death and the teachers’ strictness towards the boys. Anyway, it is impossible to prescribe an ideal level of strictness.
+
+I do realise punishment is more effective if you are looking for immediate deterrents. But it stops there. Not doing something bad because of fear doesn’t teach children to understand the difference between right and wrong or voluntarily choose to do the former. In a recent chilling murder case, a young dentist had been suspended from practising dentistry for a period of five years because she had posted insensitive comments about the murdered person -- mocking his looks and making other cruel remarks. The insensitive and callous behaviour by young people is a matter of deep concern and the strict and quick action by a national association of medical professionals indicates that we still care about our finer human traits.
+
+The journalist and I also talked about how fragile children were becoming. As I have been in the field of school education for several decades, she wanted me to tell her how the nature of punishment had changed over the years. I told her about boys being caned and girls made to stand on their chairs. Kneeling down and writing down the same sentence a hundred times over were common punishments and I don’t remember boys or girls being “scarred” for life as a consequence. Thankfully, corporal punishment in school was eventually banned.
+
+Today, it seems that the wheel has turned a full circle. Leave alone punish, teachers are reluctant to reprimand their students as parents complain that their children’s sensitivities were being trod upon. The school authorities like to be on the right side of parents.
+
+As the well-known saying goes, discipline helps a child solve a problem while punishment is making a child suffer for having a problem. The real question is:...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/devi-kar-how-to-deal-with-punishment-in-school-as-well-asin-society-at-large-1970987)
+
+---
+
+### Shikha Mukerjee | Amid UN Query, Can Govt Uphold Credibility Of SIR?
+*Deccan Chronicle · Opinion*
+
+An imperious denial to three special UN rapporteurs seeking answers to a set of seven questions on the process of the EC’s Special Intensive Revision of electoral rolls is neither reasonable, responsible, transparent and accountable. Calling the questions “unfounded” and “unwarranted”, and hiding behind the Supreme Court’s judgment upholding the EC’s power to conduct the SIR is neither suitable nor appropriate.
+
+The three special UN rapporteurs -- Nicolas Levart on minority issues, Irene Khan on promotion and protection of the right to freedom of opinion and expression, and Nazila Ghanea on freedom of religion or belief -- asked seven questions and urged the Narendra Modi government “that all necessary interim measures be taken to halt the alleged violations and prevent their re-occurrence”.
+
+The letter, dated May 1, 2026, set a 60-day time limit for providing explanations. More significantly, the letter made it clear the report would be submitted to the Human Rights Council. The rapporteurs believed publicly expressing their concerns was appropriate and necessary because “the information upon which the press release will be based is sufficiently reliable to indicate a matter warranting immediate attention”. Also, “the wider public should be alerted to the potential implications of (these) allegations”.
+
+The global community aren’t interfering old busybodies. A verbal fusillade by unnamed EC officials isn’t enough to uphold India’s integrity and its commitment to democracy and its processes.
+
+There is a dissonance between the EC’s parading of its credentials as posted on its website that India is “the largest practising democracy in the world and with over 75 years’ record of holding effective, transparent and credible elections, playing a leading role in promoting participatory democracy and election administration worldwide”, and its response to the UN rapporteurs’ questions. By failing to answer and explain, as any responsible institution must when its integrity is questioned, the EC has failed to be accountable for its actions.
+
+It is thus bizarre that the EC says it’s a founding member of the Association of World Election Bodies and
+
+member of the International Institute for Democracy and Electoral Assistance in Stockholm.
+
+Why would clients come to the EC in future, from 141 countries for training of election officials, if it feels it is not answerable to the global community. Why would the EC be invited to provide “experts and observers for elections to various countries (like) Fiji, Cambodia, Thailand, Nepal, Uzbekistan, Kazakhstan and Sri Lanka”?
+
+These declarations on holding effective, transparent and credible elections have been challenged by the UN rapporteurs. The letter from then is seeking answers to why there were “the large-scale removal of millions of names” and why “these removals affected members of minority groups”.
+
+The letter expresses its grave concern that “senior government officials, including the Union home minister, have reportedly publicly framed the deletion of voter names as targeting ‘illegal Bangladeshi immigrants’ -- rhetoric that conflates legitimate Indian Muslim citizens with foreign nationals. It is reported there has been repeated invocation of this framing by the highest levels of the executive, including the characterisation of the SIR as a mechanism to ‘purify’ electoral rolls of Infiltrators”.
+
+The EC’s infantile reaction is, to say the least, inadequate and inappropriate. The EC, however, is not alone in adopting the imperious-dismissive option.
+
+In 2021, before the SIR, external affairs minister S. Jaishankar hit back at critics for calling India an “electoral autocracy”, and said it was “hypocrisy”, adding that India wasn’t “looking for their approval”.
+
+The Modi government is within its rights to sound affronted, but it doesn’t prevent anyone from tearing apart what the Indian government does.
+
+In a recent interview, former external affairs minister Yashwant Sinha, once a BJP member, said of India’s current foreign policy that it was more “event management” then diplomacy. He added that the country had become a “subordinate nation” to the United States. He may have his reasons. He virtually echoed the Opposition Congress line on the Modi government’s response to the West Asia and Iran crisis, especially the PM’s visit to Israel, hours before the war erupted with Iran, about which he appeared clueless.
+
+It’s true that the world, except India’s South Asian neighbours, seem happy to host the Prime Minister, as Australia, New Zealand, Indonesia, Seychelles and earlier the UAE, Norway, Sweden, Netherlands, Italy, France and Slovakia did in May, June and July. It’s equally true that NGOs like Sweden’s Varieties of Democracy Institute and US based Freedom House, which downgraded India from being “free” to “partly free”, have been closely monitoring India’s democratic processes.
+
+The free trade agreements are strictly business; signing 16 FTAs has nothing to do...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/shikha-mukerjee-amid-un-query-can-govt-uphold-credibility-of-sir-1970981)
+
+---
+
+### KPSC cleanup: Merit over influence
+*Deccan Herald · Editorial*
+
+The suspension of Karnataka Public Service Commission (KPSC) Chairman Shivashankarappa S Sahukar marks yet another grim chapter in the troubled history of an institution that should embody fairness, merit, and integrity. Governor Thaawarchand Gehlot’s decision to suspend him and recommend that the President refer the matter to the Supreme Court under Article 317(1) reflects the seriousness of the allegations and underlines how far the KPSC's credibility has fallen. Sahukar is accused of facilitating the selection of his two daughters as Industrial Extension Officers, failing to recuse himself despite an obvious conflict of interest, and suppressing material facts that allegedly enabled one daughter to claim reservation benefits. An FIR has also been registered against her for allegedly using a false income certificate. Notably, the controversy reached a point where KPSC members unanimously resolved to keep the chairman away from commission meetings and examination-related work. Though the High Court has since stayed that resolution on procedural grounds, the Governor's intervention has elevated the matter to the constitutional plane.
+
+This episode is not an aberration but part of a long and disheartening pattern. Over the past two decades, the KPSC has lurched from one controversy to another: recruitment scams, bribery allegations, answer-script tampering, examination irregularities, delays, and prolonged litigation. Public confidence has eroded to the point that every recruitment process is viewed with suspicion. For thousands of young aspirants, the commission has become a source of uncertainty and despair, rather than a gateway to public service.
+
+The tragedy is not a lack of reform initiatives but a failure to implement them. Recently, the government enacted the Karnataka Public Service Commission (Conduct of Business and Additional Functions) (Amendment) Bill, 2025, to strengthen the commission's functioning. Before that, the P C Hota Committee had submitted a comprehensive blueprint recommending an annual recruitment calendar, reduced discretion in interviews, stronger evaluation systems, and transparent appointment procedures for commission members. The legislature has since constituted yet another committee, under R V Deshpande, MLA, to suggest further reforms. The KPSC needs more than periodic inquiries or fresh committees; it requires structural reform backed by political will. Appointments to the commission must be made through a transparent process based solely on integrity and competence; recruitment processes must be technology-driven, time-bound, and independent oversight must become the norm rather than the exception. Karnataka's youth deserve a recruitment system in which merit alone determines success. Restoring that faith is no longer merely an administrative necessity; it is a constitutional obligation.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/kpsc-cleanup-merit-over-influence-4073959)
+
+---
+
+### The wrong measure of justice
+*Deccan Herald · Editorial*
+
+The Gujarat High Court’s confirmation of the death penalty for 38 individuals convicted in the 2008 Ahmedabad serial bomb blasts marks an unprecedented moment in India’s judicial history. The devastating attacks, planned and executed by the banned extremist group Indian Mujahideen, killed 56 innocent people and injured many others. The severity of this coordinated, violent act, indeed, calls for accountability. In its July 7 judgment, the court cites the “humongous” conspiracy involved in the dastardly act. However, a judgment that upholds a mass death sentence also challenges the tenets of modern jurisprudence. The central argument against capital punishment posits that a civilised, constitutional society must not respond to killings with state-sanctioned killings. Legal systems must prioritise justice over retribution, even when they engage with acts of terror. It is not the finality of execution that achieves real justice; it is the adherence to the rule of law and compliance with the established constitutional processes.
+
+Now, the convicts have been met with the violence they inflicted on society. A legal stamp of approval notwithstanding, this furthers the idea of retributive justice. Capital punishment may be legally permitted for the “rarest of rare” cases. The blasts could be considered within the scope of that definition. However, legality and justice are not the same. The ruling – by a division bench of justices A Y Kogje and Samir Dave – is also marked by its scale. A death sentence is wrong even for one person, and multiplying it across 38, in a single case, makes it 38 times as wrong. In this context, the claims of “just and equal” treatment are misplaced. Many hail the judgment as evidence of the state’s resolve for strong action against terrorism. But the state is a human institution. It must be humane before it becomes strong.
+
+The state has evolved over centuries, but the legal systems it prescribes are sometimes based on a primitive idea of justice that considers it right to take an eye for an eye. As Gandhi said, that would make the whole world blind. The legal system should be rooted in an idea of justice that is reformative, not vindictive or retributive. Most countries in the world have either abolished the death penalty or have suspended its operation. India should join them and honour its own rich, traditional values of humaneness and compassion. Executing 38 people at once would not deliver lasting justice; it would only leave the nation’s sense of humanity with a stain.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/the-wrong-measure-of-justice-4073965)
+
+---
+
+### Greater joy lies in giving than in receiving
+*Deccan Herald · Opinion*
+
+True happiness and satisfaction arise from our state of mind rather than from material possessions. Life is a continuous journey filled with success and failure, joy and sorrow, gain and loss. Just as darkness precedes the dawn, challenges and setbacks often prepare us for success. Hard work, perseverance, and determination are the real keys to accomplishment, not mere luck.
+
+Our elders have always taught us to work sincerely and to help those in need. Hinduism, through the Bhagavad Gita, teaches that one should perform one’s duties selflessly without expecting rewards. Such selfless service reduces ego, brings inner peace, and gives true meaning to life.
+
+Christianity also places great importance on generosity and compassion. Jesus Christ taught that “it is more blessed to give than to receive.” This timeless message reminds us that true wealth is measured not by what we possess but by what we share with others in love and kindness.
+
+Likewise, Islam encourages those blessed with wealth and resources to support the less fortunate. The Qur’an calls upon believers to care for the needy, and Prophet Muhammad said, “Show mercy to those on the earth, and the One in the heavens will show mercy to you.” This teaching emphasises that compassion and service to humanity are among the highest virtues. Giving does not mean donating everything we own. It means sharing a reasonable portion of our time, knowledge, skills, or resources with those who genuinely need support. True generosity is measured not by the amount we give but by the sincerity of our intentions.
+
+Unfortunately, some people use social services for recognition or personal gain. Genuine service is free from selfish motives. Instead of counting how many people have helped us, we should ask ourselves how many lives we have touched through our actions. Standing beside people during times of hardship is one of the noblest expressions of humanity.
+
+Serving humanity is a sacred responsibility upheld by all great religions. Every sincere effort made for the welfare of others enriches both society and the individual. The greatest rewards of giving are inner happiness, peace of mind, and a life filled with purpose. Material wealth remains behind, but kindness lives forever in the hearts of those we help. Indeed, leaving this world by giving is far more meaningful than leaving it merely with possessions.
+
+[Read full article](https://www.deccanherald.com/opinion/greater-joy-lies-in-giving-than-in-receiving-4073950)
+
+---
 
 ## 14 July 2026
 
