@@ -1,3 +1,520 @@
+## 15 July 2026
+
+### There’s more to Modi’s Punjab visit than just railway projects
+*Anju Agnihotri Chaba · legal*
+
+Prime Minister Narendra Modi’s Jalandhar visit on July 17, his single stopover in Punjab in the run-up to the 2027 Assembly elections, especially after the BJP announced going solo, is an important strategic move given that the politics in the Doaba region is dominated by 33.34 per cent (one third) of the state’s Scheduled Caste population, making it electorally crucial for political parties, with Jalandhar being its nucleus.
+
+Jalandhar is also home to Dera Sachkhand Ballan, one of the most influential religious centres of the Ravidassia community, which has a significant social and political presence in Doaba. Outreach to the Ravidassia community has increasingly become an important aspect of Punjab’s electoral politics.
+
+According to the 2011 Census, of Doaba’s total population of 52.08 lakh, 19.48 lakh (around 37%) are Dalits. Of Doaba’s Dalit pollution, about 11.88 lakh people (around 61%) belong to the Ravidassia community. Also, Doaba is dotted with hundreds of deras.
+
+The Doaba region, comprising the districts of Jalandhar, Kapurthala, Hoshiarpur and Shaheed Bhagat Singh Nagar (Nawanshahr), accounts for 23 of Punjab’s 117 Assembly segments and is home to the Ravidassia community’s largest dera (religious place), Dera Sachkhand, at Ballan village in Jalandhar.
+
+Of the 23 segments, Doaba has eight constituencies (35 per cent) reserved for SCs, including Adampur, Kartarpur, Jalandhar West, Phillaur (all in Jalandhar), Sham Chaurasi, Chabbewal (in Hoshiarpur), Banga (Nawanshahr), and Phagwara (in Kapurthala).
+
+In the 2022 Assembly elections, the Congress won 10 seats in Doaba, AAP 9, while one each went to the SAD, BJP, BSP and an Independent.
+
+Currently, the AAP has 12 Doaba seats after winning the Jalandhar South and Chabewal by-elections, and with SAD MLA Dr Sukhwinder Sukhi from the Banga Assembly segment joining the AAP.
+
+Story continues below this ad
+
+Given this arithmetic, Modi had visited Dera Sachkhand Ballan during the birth anniversary celebrations of Guru Ravidas earlier this year and renamed Adampur Airport in Jalandhar district after Guru Ravidas. Also, the Centre honoured Dera head Sant Niranjan Das with the Padma Shri this year. Although the Dera has traditionally maintained that it does not endorse any political party, leaders across the political spectrum regularly visit the shrine to engage with the community.
+
+Adding another layer of political significance to his visit, the Prime Minister will launch a new train service between Jalandhar and Varanasi, to be named “Shri Guru Ravidas Ji Maharaj Express”. Varanasi, regarded as the birthplace of Guru Ravidas, is Modi’s Lok Sabha constituency.
+
+Every year, devotees associated with Dera Sachkhand Ballan travel from Jalandhar to Varanasi to mark Guru Ravidas’ birth anniversary, traditionally through the Begumpura Express.
+
+BJP leaders see the proposed new train service as symbolically significant in strengthening connectivity with a place of immense religious importance for the Ravidassia community.
+
+Story continues below this ad
+
+Meanwhile, preparations are in full swing at Jalandhar Cantonment ahead of the Prime Minister’s visit, during which he is likely to inaugurate the renovated 110-year-old Jalandhar Cantonment railway station under the Amrit Bharat Station Scheme for Rs 125 crore.
+
+The Prime Minister is also likely to dedicate 75 other renovated railway stations across the country, including four in Punjab, virtually from the Jalandhar Cantonment railway station.
+
+According to BJP leaders, the Prime Minister’s helicopter will land at the Punjab Armed Police (PAP) ground in Jalandhar at around 3.50 pm. From there, he will proceed to the nearby Jalandhar cantonment railway station and is expected to remain there until around 4.30 pm. Modi will, meanwhile, address a public rally, which is expected to last for around 40 to 45 minutes, they said, adding that a pandal is being laid close to the railway station for the rally.
+
+Railways and administration officials have intensified preparations at the venue. Union Minister of State for Railways Ravneet Singh Bittu recently reviewed the arrangements at the station.
+
+Story continues below this ad
+
+Jalandhar Police Commissioner Satinder Singh also visited the cantonment railway station to look into security arrangements.
+
+While the visit is officially focused on development and railway infrastructure, its timing and location are unlikely to be viewed in isolation from the evolving political scenario in Punjab. With the BJP preparing to chart an independent electoral course in the state, outreach in the politically influential Doaba region is expected to remain a key element of its strategy in the run-up to the 2027 Assembly elections.
+
+---
+
+### Iran-linked vessels pass through Hormuz ahead of US blockade
+*SECTIONS Iran-linked vessels pass through Hormuz ahead · business*
+
+Singapore: The number of vessels transiting through the Strait of ​Hormuz ticked up on Tuesday, with ​most of them linked to Iranian trade, before a U.S. blockade ​took effect on Wednesday, shipping data showed.
+
+U.S. President Donald Trump on Tuesday reimposed a naval blockade of all Iranian ports and threatened to hit power plants and bridges next week unless Tehran ‌resumes negotiations, ⁠in the latest ⁠escalation of the U.S. conflict with Iran.
+
+Nine of the 11 vessels that passed through the ​strait on Tuesday sailed via the Iranian route, ship-tracking data on Kpler showed.
+
+  
+
+Of these, three empty oil ​tankers - one Aframax-sized vessel and two Very Large Crude Carriers - entered the strait, the data showed.
+
+Vessels that exited the strait with Iranian exports included one VLCC carrying 2 ​million barrels of crude, a medium-range tanker with refined products, ⁠and two ‌tankers carrying liquefied petroleum gas, according to the data.
+
+A laden ​methanol tanker ​and a dry bulk carrier with iron ore aboard also made ⁠their way out of the Gulf on Tuesday, the ​data showed.
+
+There were no visible entries or exits for tankers to ​load oil and gas from other Gulf producers on Tuesday.
+
+Strikes between the U.S. and Iran in the Middle East intensified this week, leading to a sharp slowdown in shipping through the Strait of Hormuz, where about a fifth of global oil and liquefied natural gas shipments passed through each day before the war began in ‌February.
+
+The United States said late on Tuesday that Iran had attacked seven commercial ships over the last week, leading to nearly a dozen ​crew members ​being killed, missing or ⁠injured.
+
+Attacks on Emirati supertankers have caused Middle East spot crude prices to strengthen this week, with prompt month prices now higher than those in future months, indicating tight supplies.
+
+"The ​next phase of Gulf flow recovery could be slower than the initial phase even after geopolitical de-escalation," Goldman Sachs said in a note on Wednesday.
+
+The analysts pointed to a sharp drop in flows through Omani and international routes following the recent tanker attacks, saying it showed that "shippers using the non-Iranian Hormuz lane remain risk-averse."
+
+---
+
+### SBI Funds Management IPO Day 2: GMP signals 16% listing gain, subscription gains momentum. Should you subscribe?
+*Ritesh Presswala · finance, ipo*
+
+The SBI Funds Management IPO entered its second day of bidding with solid investor interest, while sentiment in the grey market remains upbeat. The Grey Market Premium (GMP) is currently hovering around 15–16%, suggesting a potential listing price of nearly Rs 662 per share, if current trends hold.
+
+On the first day of bidding, the IPO was 68% subscribed, with investors bidding for 68% of the 12.45 crore shares on offer. Retail participation has been encouraging, with the retail quota subscribed 62% against the 5.42 crore shares reserved for the segment.
+
+The public issue will remain open for subscription until July 16. The company has fixed the price band at Rs 545–574 per share. Investors can bid for a minimum of 26 shares and in multiples thereafter.
+
+At the upper price band of Rs 574, a single retail application requires an investment of Rs 14,924.
+
+The IPO is a pure Offer for Sale (OFS) comprising 17.10 crore shares, with existing shareholders State Bank of India and Amundi offloading their stakes. As there is no fresh issue of shares, SBI Funds Management will not receive any proceeds from the offering. The entire IPO proceeds will go to the selling shareholders.
+
+According to Anand Rathi, the issue size at the upper end of the price band is estimated at Rs 9,813 crore, making it one of the largest IPOs of the year. Since the issue is entirely an OFS, there will be no fresh capital infusion into the company.
+
+Post listing, the combined stake of the promoter and promoter group is expected to decline to 89.8% from the current 98.2%, while public shareholding will rise to 10.2%, improving the stock's free float and liquidity.
+
+The basis of allotment is likely to be finalised on July 17, 2026, with the shares expected to debut on both the BSE and the NSE shortly thereafter.
+
+SBI Funds Management IPO GMP Live: SBI Funds issue set to enter day 2 of bidding with 68 overall subscription. Should you subscribe?  
+
+## **SBI Funds Management IPO GMP**
+
+The Grey Market Premium (GMP) for the SBI Funds Management IPO is currently hovering around Rs 88 per share, or nearly 15% above the upper price band of Rs 574. If this trend continues, the stock could debut at around Rs 662, pointing to a healthy listing gain for investors.
+
+While the GMP is an unofficial indicator and can change significantly before listing, the current premium reflects strong market optimism towards the IPO of the country's largest mutual fund asset manager.
+
+##   
+SBI Funds Management IPO Subscription Status
+
+The SBI Funds Management IPO received a solid response on the first day of bidding, with the issue 68% subscribed against the 12.45 crore shares on offer.
+
+Retail Individual Investors (RIIs): The retail portion was subscribed 62%, with bids received for 5.41 crore shares reserved for the category.
+
+Non-Institutional Investors (NIIs): The NII segment was subscribed 1.39 times, attracting bids for the 2.31 crore shares on offer.
+
+Qualified Institutional Buyers (QIBs): The QIB portion was subscribed 8%, with bids received against the 2.31 crore shares reserved for institutional investors.
+
+## **  
+Broker recommendations**
+
+Nirmal Bang has given a "Subscribe" rating to the IPO from a medium- to long-term perspective. It said SBI MF’s market leadership, distribution strength, healthy profitability and favourable industry outlook support the issue.
+
+Anand Rathi has also recommended "Subscribe". The brokerage said the IPO is fully priced, but SBI Funds Management’s leadership, asset-light model, SBI-Amundi parentage and retail investor base support the offer.
+
+## **  
+SBI Funds Management: India's largest asset manager**
+
+SBI Funds Management, the investment manager of SBI Mutual Fund, is India's largest asset management company (AMC) by quarterly average assets under management (QAAUM). As of March 2026, it managed Rs 12.5 lakh crore in mutual fund QAAUM, commanding a 15.3% market share.
+
+Backed by State Bank of India (SBI) and global asset management giant Amundi, the company combines SBI's extensive banking and distribution network with Amundi's international investment expertise. According to Nirmal Bang, SBI Mutual Fund offers 128 schemes spanning equity, debt, hybrid, ETFs, index funds and overseas funds, besides portfolio management services (PMS), alternative investment funds (AIFs), specialised investment funds (SIFs) and advisory mandates.
+
+The company also boasts a massive retail investor base. Anand Rathi noted that, as of March 2026, SBI Funds Management served 17.95 million individual investors and managed 16.21 million live SIP accounts. Including PMS and advisory mandates, its total QAAUM stood at Rs 29.46 lakh crore.
+
+## **  
+Strong distribution network and SIP franchise**
+
+A key competitive advantage for SBI Funds Management is its unmatched distribution reach. According to Nirmal Bang, the AMC has an omnichannel network of more than 1.32 lakh mutual fund distributors, covering 98.2% of India's PIN codes and maintaining one of the industry's strongest B-30 (beyond the top 30 cities) franchises.
+
+The company has also built a robust digital ecosystem. During FY26, SBI Mutual Fund processed an average of 1.31 million transactions every month, with nearly 94.3% of all transactions executed digitally. Its InvesTap app had 3.97 million registered users, 3.39 million active users, and more than 5.8 million downloads by the end of FY26.
+
+SIPs continue to be a major growth driver. According to Anand Rathi, SBI Funds Management had 16.2 million live SIP accounts, generated monthly SIP inflows of Rs 4,059 crore, and managed SIP assets of Rs 1.73 lakh crore during FY26.
+
+## **  
+Financial performance and valuation**
+
+SBI Funds Management has delivered consistent financial growth over the past three years. Revenue from operations increased to Rs 4,389 crore in FY26, compared with Rs 3,598 crore in FY25 and Rs 2,691 crore in FY24. Consolidated profit after tax (PAT) rose to Rs 3,067 crore in FY26 from Rs 2,540 crore a year earlier and Rs 2,073 crore in FY24.
+
+The company has also maintained industry-leading profitability. Its EBITDA margin improved to 79.1% in FY26, up from 77.1% in FY25 and 73.7% in FY24, while return on equity (RoE) stood at an impressive 51.4%.
+
+At the upper end of the IPO price band, SBI Funds Management is valued at 38.1 times FY26 earnings and 33.6 times EV/EBITDA. Nirmal Bang believes the valuation is attractive, noting that the IPO is being offered at a discount to listed peers ICICI Prudential AMC and HDFC AMC on these metrics.
+
+## **  
+Key risks to watch**
+
+Despite its market leadership, SBI Funds Management faces several risks. Since its revenue is linked to assets under management, earnings remain sensitive to market movements. A prolonged correction in equity or debt markets, weaker fund performance, or elevated investor redemptions could weigh on revenue and profitability.
+
+The company also operates in an increasingly competitive industry. Nirmal Bang highlighted growing competition from established AMCs, exchange-traded funds (ETFs), ULIPs, direct equity investing and emerging digital investment platforms. Over time, pricing pressure and higher distributor commissions could also impact margins.
+
+The IPO's book-running lead managers include Kotak Mahindra Capital, Axis Capital, BofA Securities India, HSBC Securities, ICICI Securities, Jefferies India, JM Financial, Motilal Oswal Investment Advisors and SBI Capital Markets, while KFin Technologies is the registrar to the issue.
+
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of Economic Times)
+
+---
+
+### Did AI help decide Meta's layoffs? Lawsuit makes a serious claim
+*India Today Business Desk · general*
+
+Can artificial intelligence help decide who gets laid off?
+
+That is the question at the heart of a new lawsuit against Meta, where 26 employees have accused the Facebook and Instagram parent of using AI-powered tools that unfairly targeted workers with disabilities, medical conditions and those who had taken leave, reported news agency Reuters.
+
+The lawsuit, filed in a federal court in Oakland, California, alleges that Meta relied on AI-assisted software to score and rank employees before carrying out mass layoffs earlier this year. The workers, who were informed in May that their jobs would be eliminated from July 22, are seeking a court order to temporarily stop the layoffs while they pursue their claims through arbitration.
+
+Meta has denied the allegations.
+
+"Workforce management and organisational decisions were and are made by people, not AI," a company spokesperson said as quoted by Reuters.
+
+The case appears to be the first lawsuit against a major US company challenging the alleged use of AI in deciding layoffs.
+
+### WHAT ARE THE EMPLOYEES ALLEGING?
+
+The 26 employees claim Meta's AI-assisted systems gave lower scores to workers who had taken medical leave, were living with disabilities, were pregnant or had taken time off to care for family members.
+
+According to the lawsuit, the company considered factors such as productivity and AI token usage while preparing lists of employees to be laid off.
+
+The workers argue that these systems put employees who had missed work for legitimate reasons at a disadvantage when compared with colleagues who had been working continuously.
+
+### WHICH AI TOOLS ARE UNDER SCRUTINY?
+
+According to the complaint, Meta used several internal AI-assisted tools during the evaluation process.
+
+These allegedly included "Metamate", the company's large language model assistant, an employee-trained "second brain" that tracked workers' communications and documents, and a productivity score generated by analysing keystrokes, screen activity, emails and browser history.
+
+The employees claim these AI-assisted systems were used to score and rank workers before final decisions on layoffs were made.
+
+### WHAT DOES THE LAWSUIT CLAIM?
+
+The employees have accused Meta of violating US federal and state laws that prohibit discrimination against workers with disabilities, those who take medical leave and pregnant employees.
+
+They have also alleged that the company failed to test its AI systems for bias, as required under recently introduced laws in California and New York City.
+
+The plaintiffs, who have filed the case anonymously, come from six US states and the District of Columbia.
+
+### WHAT DOES META SAY?
+
+Meta has rejected the allegations, saying AI did not make decisions about layoffs.
+
+"Workforce management and organisational decisions were and are made by people, not AI," the company said.
+
+The company has not commented on the specific allegations relating to the internal tools mentioned in the lawsuit.
+
+The lawsuit comes as large technology companies increasingly use AI tools to improve productivity and automate workplace processes.
+
+Meta laid off around 10% of its global workforce, or nearly 8,000 employees, in May as part of a broader restructuring while increasing investments in artificial intelligence. Reuters had also reported that the company was planning more job cuts later this year, although CEO Mark Zuckerberg has since said he does not expect any further company-wide layoffs this year.
+
+The outcome of the case could be closely watched across the technology industry, as it may help define how companies can use AI in workplace decisions and whether employers can rely on AI-assisted systems when evaluating employees for layoffs.
+
+\- Ends
+
+Jul 15, 2026 08:43 IST
+
+---
+
+### IRCTC new website launch today: Check new train ticket booking features and upgrades here
+*Trending Desk · business*
+
+The Indian Railway Catering and Tourism Corporation (IRCTC) is set to switch on a redesigned version of its ticket-booking website today, July 15, with the government promising faster page loads, higher booking capacity and an end to some of the most common frustrations passengers face during Tatkal reservations.
+
+Last month, Union Railway Minister Ashwini Vaishnaw had announced the rollout of a new IRCTC website at an event in Rajasthan, where the trigger for the update came from an unusual source: students at the event who spoke up about how difficult it is to book a train ticket on the current IRCTC portal.
+
+  
+
+## IRCTC New Website Launch Date and Time:
+
+The IRCTC is likely to launch its redesigned ticket-booking website today, July 15, 2026. However, as per some media reports, the launch may be delayed to second week of August, close to Independence Day. The rollout of new IRCTC website was announced by Union Railway Minister Ashwini Vaishnaw at an event in Rajasthan last month, prompted by students there who raised concerns about difficulties booking tickets on the existing IRCTC portal.
+
+  
+  
+
+## IRCTC New Website Launch Features: What's New for Passengers
+
+Beyond raw speed, the redesign brings a handful of features aimed squarely at everyday travellers:
+
+-   **Seat preference at booking**: Passengers will be able to specify which seats they'd like, rather than being assigned one at random.
+-   **A fare calendar**: Users can compare ticket prices across different dates before locking in a booking, useful for anyone with flexible travel plans trying to catch a cheaper fare.
+-   **Unified seat availability**: Instead of toggling between Sleeper, AC 3 Tier, AC 2 Tier and other classes one at a time, the new site shows availability across all classes on a single screen, a small change that could save a surprising amount of scrolling and second-guessing.
+
+## IRCTC New Website Built for a Wider Set of Users
+
+The upgraded website will support multiple Indian languages, a move meant to make booking genuinely accessible outside English- and Hindi-heavy user bases. It will also bring together services for Divyangjan, students and patients, groups that currently rely on separate processes for concession bookings, onto one integrated platform.
+
+  
+
+## Fewer Pop-Ups, Fewer CAPTCHAs
+
+If there's one change likely to get an audible cheer from frequent bookers, it's this: the new interface is designed to cut down on unnecessary pop-ups, flashing banners and repeated CAPTCHA checks that currently interrupt the booking flow, often at the worst possible moment, mid-Tatkal-rush. The idea is straightforward: fewer distractions between "search" and "confirm" should mean fewer missed bookings.
+
+  
+
+## Why This Matters: The Capacity Problem
+
+Here's the nut graf of the story, IRCTC's website hasn't just been getting a fresh coat of paint. It's being rebuilt to handle a scale of traffic that the old system was never designed for. During peak Tatkal windows, lakhs of users hit "book" within the same 60 seconds, and the current infrastructure often buckles under that load, leading to failed transactions, stuck payments and seats vanishing before confirmation goes through.
+
+The new platform is built to process more than 1.5 lakh ticket bookings every minute, nearly five times the roughly 32,000 bookings per minute the existing system manages. Alongside this, the Passenger Reservation System (PRS) backend is being scaled up to handle over 40 lakh enquiries per minute, compared with around 4 lakh today. In plain terms: the railways are betting that a bigger pipe means fewer crashes when everyone logs in at once.
+
+## Part of a Bigger Reform Push
+
+The website relaunch isn't happening in isolation. Yesterday, Vaishnaw had laid out a fresh set of structural reforms for Indian Railways, part of a broader plan to roll out 52 reforms this year, covering everything from contractor rules to freight logistics.
+
+Among the changes: contractors bidding for railway projects will now need to put up 10 per cent performance security upfront, rather than have it deducted from running bills later, and firms with pending litigation exceeding half their net worth will be barred from bidding altogether. Explaining the logic behind tightening the rules, Vaishnaw said, "The more serious people will participate in the work of the railway," adding that the goal is better-quality construction and fewer contractors chasing arbitration battles instead of finishing projects.
+
+On the freight side, industries will now be allowed to design their own freight wagons based on operational needs, subject to testing and certification by the Research Designs and Standards Organisation. Fly ash, currently moved mostly in open wagons, will shift to closed containers to cut pollution during transport and handling; India produces around 340 million metric tonnes of fly ash a year, but only about 4 per cent of it currently moves by rail. Container-based transport is also being extended to petroleum products, fertilisers and agricultural produce, while container train operators get a simplified all-India licence with a flat ₹25 crore registration fee and no renewal charges after 20 years of clean operations.
+
+A new skill certification framework will also require workers in trades like welding, plumbing, masonry and concrete testing to be properly trained, with Vaishnaw noting, "This project can be implemented across all projects in a maximum of 24 months." Separately, a new Rail Bhoomi portal aims to speed up land acquisition for railway projects, with the ministry estimating timelines could shrink by 30-40 per cent depending on the state.
+
+Taken together, today's website launch is set to be the visible, passenger-facing piece of a much larger overhaul the railways are attempting behind the scenes, one aimed at making both the booking counter and the tracks themselves run a little less like a bureaucracy and a little more like infrastructure built for 2026.
+
+---
+
+### Why IBM says it faltered this quarter, read CEO Arvind Krishna’s full letter here
+*Armaan Agarwal · general*
+
+## IBM's stock just had the biggest single-day plunge since 1987, with CEO Arvind Krishna accepting that the company had "faltered" this quarter. But what happened? Here is Krishna's full letter to investors.
+
+IBM CEO Arvind Krishna accepted that the company had failed to adapt. (Photo: Reuters)
+
+American giant IBM’s shares took the biggest hit in nearly 40 years on Tuesday. IBM CEO Arvind Krishna told investors that the company had “faltered” this quarter, as it struggled to complete certain deals. Krishna’s comments come at a time when the rise of AI tools has raised fears over the future of software products.
+
+IBM’s shares plunged by 23 per cent on Tuesday, making it the biggest single-day drop in the company’s history since the 1987 "Black Monday" crash. The company also fell short of matching Wall Street expectations for revenue. IBM states that its revenue was expected at $17.2 billion, up 1 per cent year-on-year but below analyst estimates of $17.86 billion.
+
+### Why did IBM falter?
+
+In his letter to investors, IBM CEO Arvind Krishna accepted that the company had “faltered.” He acknowledged that it had failed to adapt to changing conditions and the company also missed out on completing some large deals. “These conditions require our teams to execute perfectly, and this quarter we faltered. We did not adapt and move quickly enough, and numerous large deals failed to close on the timelines we expected, driving the majority of our shortfall,” Krishna said.
+
+The IBM chief insisted that the company was not making excuses. He added, "These are not excuses, but they are realities."
+
+Krishna added that clients were distracted by “rapidly-evolving, industry-wide cybersecurity concerns” during the quarter. Cybersecurity has become a major concern for businesses globally following the release of Anthropic’s Mythos model, which can find major vulnerabilities across different systems.
+
+At a time when the memory crisis is impacting several sectors, Arvind Krishna explained that many of IBM’s customers had shifted capital expenditure to procuring memory and other infrastructure amid fears of future price hikes. He explained, “In the last few weeks of June, we saw clients shift their quarterly capex spend toward servers, storage, and memory purchases to secure supply-constrained infrastructure ahead of expected price increases.”
+
+He added that IBM had expected some supply-chain-
+
+Krishna also used the letter to underline IBM’s investment plans in AI and quantum computing. He said IBM and Red Hat had moved quickly after the introduction of Mythos to launch Lightwell, a $5 billion initiative backed by more than 20,000 engineers and aimed at addressing vulnerabilities in open-source software.
+
+On quantum computing, Krishna said IBM and the US Department of Commerce had announced a letter of intent to build Anderon, which he described as the world’s first pure-play quantum wafer foundry.
+
+**You can read the full letter from Arvind Krishna below:**
+
+“I want to spend some time explaining what we experienced in the quarter that led to the Software and Infrastructure performance shortfall you see above.
+
+When we discussed our expectations with you in April, we noted that we would be wrapping on the launch of z17 in the second quarter. Given this was the strongest start to a mainframe programme in our history, we expected Infrastructure revenue to decline low-single digits for the year, beginning this quarter. What played out was worse than our expectations, driven by a shortfall in our Z performance and the associated software stack, primarily in Transaction Processing. In the last few weeks of June, we saw clients shift their quarterly capex spend toward servers, storage, and memory purchases to secure supply-constrained infrastructure ahead of expected price increases. This dynamic impacted client buying patterns. While we anticipated some supply-chain 
+
+These conditions require our teams to execute perfectly, and this quarter we faltered. We did not adapt and move quickly enough, and numerous large deals failed to close on the timelines we expected, driving the majority of our shortfall.
+
+These are not excuses, but they are realities. Our job is to help our clients through uncertainty, to find paths forward to grow their businesses no matter what is happening in the external environment.
+
+While our second-quarter results are disappointing, our performance in many areas showed strength, reinforcing the conviction we have in our portfolio and strategy.
+
+Within Software, Red Hat revenue growth accelerated sequentially to 11 per cent.
+
+Recent acquisitions including both HashiCorp and Confluent delivered strong performance.
+
+With clients prioritising infrastructure investments, Distributed Infrastructure had its best performance in reported history, up 37 per cent with strong growth in Power and Storage, and a backlog of approximately $500 million exiting the quarter.
+
+Despite challenges this quarter, z17 remains at nearly 130 per cent programme-to-programme, well ahead of z16 which was our strongest programme on record, with clients representing 85 per cent of installed MIPs maintaining or growing capacity.
+
+Continued growth in Consulting signings led by strong GenAI contribution.
+
+Productivity initiatives contributed to continued operating non-GAAP PTI margin expansion in the quarter.
+
+Importantly, we continue to innovate at speed and scale. After the introduction of Mythos, our teams across IBM and Red Hat quickly mobilised to take advantage of an unprecedented opportunity, launching Lightwell. Lightwell is a $5 billion commitment backed by new frontier AI capabilities and a global force of more than 20,000 engineers creating a trusted enterprise clearinghouse to address open source software vulnerabilities. Early adopters include organisations like Bank of America, BNY, Citi, Goldman Sachs, JPMorganChase, Mastercard, Morgan Stanley, Royal Bank of Canada, State Street, Visa, Wells Fargo and more. General availability of Lightwell was announced on 8 July.
+
+Finally, quantum computing is no longer decades away, it is upon us, and we are investing aggressively. Recently, with the US Department of Commerce, we announced a letter of intent to build Anderon, the world’s first pure-play quantum wafer foundry supported by $1 billion in CHIPS incentives provided by the department and a $1 billion cash contribution by IBM. Shortly after that, we disclosed plans to invest more than $10 billion in quantum over the next five years, spanning R&D, capex, manufacturing scaling, M&A and ecosystem expansion. We remain on track to deliver the first large-scale fault-tolerant quantum computer by 2029.
+
+While performance in the quarter was below our expectations, we have conviction in the strength of our portfolio and the strategic transformation of our business. To remedy challenges this quarter, we are undertaking new initiatives and accelerating others, all to improve our results going forward. We will hold our regularly scheduled conference call with you all on 22 July 2026, at 5 PM ET to go into deeper detail and discuss our full-year expectations.
+
+Arvind Krishna, Chairman, President and Chief Executive Officer, IBM”
+
+\- Ends
+
+Armaan Agarwal
+
+Jul 15, 2026 08:40 IST
+
+---
+
+### BGMI 4.5 Update: What the Naruto collaboration brings, new locations, ninja abilities, rewards and when it will be available
+*Trending Desk · business*
+
+Krafton India will release the BGMI Version 4.5 update, introducing a limited-time crossover with the globally popular anime franchise Naruto. Running from July 16 to September 14, the update revamps the battlegrounds with Naruto-themed environments, unique ninja abilities, and special events.
+
+## A Highly Anticipated Crossover
+
+Collaborations are a familiar feature in battle royale titles, but this one has generated significant excitement among players. With Naruto enjoying a massive fan following, many gamers had long been hoping for such a partnership.
+
+  
+
+## Naruto-Inspired Locations Added
+
+The Version 4.5 update introduces multiple iconic locations from the Naruto universe, enhancing the in-game map with a fresh visual and gameplay experience. These include:
+
+  
+
+-   Hidden Leaf Village
+-   Hokage Rock
+-   Ichiraku Ramen Shop
+-   Naruto’s Apartment
+-   Ninja Academy
+-   Great Naruto Bridge
+-   Chunin Exam Arena
+-   Valley of the End
+
+In addition, Krafton has incorporated underground secret rooms and reworked several urban zones to reflect Naruto-themed designs.
+
+## New Ninja Abilities and Gameplay Boosts
+
+As part of the event, players gain access to special ninja-inspired powers. These abilities allow for faster movement across the map and introduce a more dynamic combat style. This change significantly enhances gameplay speed and strategy compared to the traditional format.
+
+## Exclusive Rewards
+
+The update also brings a variety of themed items, including outfits, weapon skins and missions. Players can unlock these rewards by participating in the event.
+
+Additionally, players can collect character cards featuring Naruto, Sasuke, Sakura, and Kurama.
+
+  
+
+## Limited-Time Event Details
+
+The Naruto collaboration is available as part of the BGMI Version 4.5 update until September 14, making it one of the most extensive crossover events introduced in the game so far.
+
+---
+
+### CBSE 3-language policy: SC questions if English can be considered indigenous language
+*India Today Education Desk · general*
+
+## The Supreme Court refused to stay CBSE's Class 6 three-language policy while hearing challenges to its rollout. The bench's remarks on English and indigenous languages sharpened the wider debate over multilingual education and implementation.
+
+CBSE 3-language policy: SC questions if English can be considered indigenous language
+
+Hearing petitions against the CBSE's decision to implement the three-language formula for Class 6 from the current academic session, the Supreme Court on Tuesday remarked that whether English can be considered an indigenous language "may require a relook."
+
+While refusing to stay the policy, the court said it appeared to advance the constitutional objective of promoting Hindi and other regional languages.
+
+### COURT DECLINES INTERIM STAY, POSTS MATTER FOR JULY 22
+
+A bench comprising Chief Justice Surya Kant and Justices Joymalya Bagchi and V. Mohan was hearing a batch of petitions challenging the implementation of the three-language policy under the National Education Policy (NEP).
+
+Refusing to grant an interim stay, the bench said such relief could not be considered without a detailed hearing. It posted the matter for July 22 and directed the Centre and the CBSE to file their responses.
+
+The court observed that the notification appeared to advance the constitutional objective of promoting the learning of Hindi and other regional languages. It also remarked that the nomenclature of indigenous languages, and the question of whether English could be considered one, may require a relook.
+
+### PETITIONERS FLAG PRACTICAL CHALLENGES
+
+Senior advocates appearing for the petitioners argued that implementing the three-language policy would pose serious practical challenges despite students being allowed to choose from 22 scheduled languages.
+
+They submitted that schools would find it difficult to appoint qualified teachers for so many languages and develop the necessary infrastructure. They also pointed out that although NCERT had promised to upload study material for all 22 languages by July 1, textbooks were currently available for only three languages.
+
+The petitioners further noted that the challenge comes even after the CBSE withdrew its earlier circular making the three-language formula mandatory for Class 9 from the current academic session.
+
+### CENTRE DEFENDS POLICY, CITES NATIONAL EDUCATION POLICY
+
+Appearing for the Centre and the CBSE, Additional Solicitor General Aishwarya Bhati told the court that the government and the education board would file their detailed responses within 10 days.
+
+Defending the policy, the Centre said the National Education Policy (NEP) envisions an education system rooted in Indian ethos and aimed at transforming the country into an equitable and vibrant knowledge society.
+
+It submitted that the three-language formula would continue to be implemented in line with constitutional provisions, while taking into account regional aspirations, the federal structure and the need to promote multilingualism and national unity. The Centre also stressed that the policy offers greater flexibility and that no language will be imposed on any state.
+
+\- Ends
+
+Apoorva Anand
+
+Jul 15, 2026 08:40 IST
+
+---
+
+### After Eternal, Deepinder Goyal bets on health tech, aviation startup
+*Business Standard · business, entrepreneur, finance*
+
+Former Eternal CEO Deepinder Goyal plans to launch Temple, a premium wellness wearable, while also backing an aviation venture aimed at transforming regional air travel in India
+
+[Read full article](https://www.business-standard.com/companies/people/after-eternal-deepinder-goyal-bets-on-health-tech-aviation-startup-126071500125_1.html)
+
+---
+
+### India-UK FTA comes into effect today; How the trade deal will boost bilateral trade?
+*Vaishali Shastri · general*
+
+## India-UK FTA comes into effect today; How the trade deal will boost bilateral trade?
+
+Commerce Secretary Rajesh Agrawal highlighted the agreement’s inclusive nature, noting that Indian farmers would gain greater access to the premium UK agricultural market, while seafood exporters would benefit from complete duty-free access.
+
+The India-UK Free Trade Agreement
+
+The India-UK Free Trade Agreement (FTA), which comes into force on Wednesday, represents a “gold standard” FTA due to its wide sectoral coverage that includes farmers, seafood exporters, and labour-intensive industries such as textiles, which will benefit from significant reductions in both tariff and non-tariff barriers, Commerce Secretary Rajesh Agrawal said on Wednesday.
+
+"This is one of the first free trade agreements (FTAs) of its kind, which establishes a future-oriented economic architecture between two major economies of the world," Agrawal told journalists. "This is also one of the most ambitious and aspirational FTAs of India, which we are operationalising as till date," he added.
+
+Agrawal highlighted the agreement’s inclusive nature, noting that Indian farmers would gain greater access to the premium UK agricultural market, while seafood exporters would benefit from complete duty-free access. He added that labour-intensive sectors such as textiles would also see gains, with duties of up to 12 per cent being eliminated under the agreement. 
+
+The Commerce Ministry said all domestic processes for the India–UK FTA implementation have been completed, with symbolic flag-off ceremonies to be held for consignments on July 15 from various locations across the country. Under the deal, the UK will immediately eliminate tariffs on 96.8 per cent of its tariff lines, accounting for 97.7 per cent of the trade value. An additional 2 per cent of tariff lines, amounting to 1.8 per cent of trade value, will see reduced tariffs based on quotas. India, on its part, will immediately eliminate tariffs on 30.3 per cent of the trade value, with 47 per cent more seeing tariffs eliminated in a phased manner. 
+
+It will also provide reduced quota-based tariffs on 12.1 per cent of the trade value. In total, this would cover 89.5 per cent of tariff lines and 89.4 per cent of trade value. Agrawal further stated that the agreement addresses non-tariff barriers as well, so that issues like Sanitary and Phytosanitary Measures (SPS) and Technical Barriers to Trade (TBT) "do not become unjustified trade restrictions for our businesses in the future". The Secretary also pointed out that the FTA protects India’s sensitive sectors such as dairy, cereals, pulses, vegetables, gold and jewellery, smartphones, and critical polymers. 
+
+Agrawal said that the agreement was also a "game-changer" for India’s services sector and skilled workforce because of the reciprocal Double Contributions Convention (DCC) which forms part of the pact. "Indian employees and their employers contribute around 25 per cent of their salary to the U.K.’s national insurance system," he noted. "Their contribution is like a tax of 25 per cent as employees are unable to draw benefits. These are like sunk costs." He pointed out that the DCC will ensure that workers do not end up paying double contributions towards their social security. That is, if they are paying social security in India, then they will not have to pay it in the UK for a period of five years. This is expected to benefit over 75,000 Indian workers and over 900 employers. 
+
+(With inputs from IANS)
+
+---
+
+### Dilip Ghosh Turns Singer: BJP Leader's Jhalmuri Song Goes Viral
+*Sumedha Kirti · general*
+
+Bengal's panchayat minister and BJP MLA Dilip Ghosh has recorded a jhalmuri-themed song, swapping his sharp political tone for a lighter, musical side that's now trending online.
+
+[Read full article](https://www.news18.com/cities/kolkata-news/dilip-ghosh-turns-singer-bjp-leaders-jhalmuri-song-goes-viral-10211959.html)
+
+---
+
+### US Russia sanctions bill cuts India, China tariff threat from 500% to 100%
+*SECTIONS US Russia sanctions bill cuts India · business*
+
+The US Senate on Tuesday unveiled a revised Russia sanctions bill that significantly softens its proposed tariff penalties on major buyers of Russian oil, including India and China, reducing the maximum tariff from a blanket 500% to up to 100% for the five largest purchasers of Russian crude, Reuters reported.
+
+The bipartisan legislation, backed by Republican and Democratic senators, seeks to intensify pressure on Moscow by sanctioning Russian officials, financial institutions and energy projects while using tariffs to discourage countries from continuing to buy Russian oil and gas. The revised draft follows months of negotiations with President Donald Trump, who recently endorsed moving the bill forward.
+
+  
+
+The measure was originally introduced in April 2025 by the late Republican Senator Lindsey Graham of South Carolina and Democratic Senator Richard Blumenthal of Connecticut. Graham, who died suddenly on Saturday, had announced during a visit to Ukraine a day earlier that he had reached an agreement with Trump to advance the legislation.
+
+Under the revised proposal, tariffs of up to 100% would apply only to the five largest purchasers of Russian crude, replacing the earlier proposal that called for a blanket 500% tariff on countries importing Russian oil and natural gas.
+
+According to Senate aides, the top five buyers of Russian crude are China, India, Slovakia, Hungary and Azerbaijan. The largest importers of Russian natural gas are China, France, Japan, Hungary and Belgium.
+
+The updated bill also creates an exemption for countries that import less than 15% of Russia's natural gas exports and are taking significant steps to reduce those imports. Senate aides said the provision could exempt Japan, France, Hungary and Belgium.
+
+Besides tariffs, the legislation imposes sanctions on Russia's shadow fleet of tankers operating outside Western maritime services, the Central Bank of the Russian Federation, other Russian financial institutions and major state-owned energy projects, including Yamal LNG and Arctic LNG 1, 2 and 3.
+
+The revised version also gives the US president the authority to waive the sanctions if doing so is deemed to be in the national interest.
+
+Senate aides said the legislation had 26 co-sponsors as of Tuesday, with more expected to join, expressing confidence that it had a clear path to passage.
+
+Explaining the decision to soften the tariff provisions, one Senate aide said the changes reflected months of negotiations to secure Trump's backing.
+
+"This is the only product that currently has buy-in from everybody and is likely the only product that is going to move forward and put pressure on Russia the way we would all like to get," the aide said.
+
+Speaking at the White House, Trump said sanctions on Iran and Hezbollah could also be added to the legislation, describing such a move as a "very big thing." Blumenthal, however, cautioned against expanding the bill, saying Congress should focus on passing the current version rather than adding new targets.
+
+Responding to Trump's remarks, another Senate aide said the legislation already exposes countries such as Iran that work with Russia's defence industrial base to sanctions and tariffs.
+
+Trump also expressed confidence that the bill would become law.
+
+"This is in honor of Lindsey. This was his thing. He wanted this more than anything. You know how he felt, and there's a good chance that it gets done," Trump said.
+
+_(With inputs from Reuters)_
+
+
+---
+
 ## 14 July 2026
 
 ### J&K teen joins Merchant Navy after just one month of self-study
