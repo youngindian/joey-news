@@ -1,3 +1,492 @@
+## 16 July 2026
+
+### 55 days on, half of July gone: Where is CBSE's Class 10 second board result 2026?
+*India Today Education Desk · general*
+
+## More than 55 days after CBSE's Class 10 second board exams ended, lakhs of students still await the 2026 result. It will decide final subject scores under the new Best-of-Two policy and test the rollout of CBSE's NEP 2020 two-exam system.
+
+55 days on, half of July gone: Where is CBSE's Class 10 second board result 2026?
+
+More than 55 days have passed since the CBSE Class 10 Second Board Examination 2026 concluded, and with July already halfway over, lakhs of students are still waiting for one crucial update, the result announcement.
+
+Despite mounting anticipation, the Central Board of Secondary Education (CBSE) has not yet confirmed the official date and time for declaring the Class 10 Second Board Result 2026.
+
+The delay has left students and parents eagerly refreshing official portals for updates. Once announced, the results will determine the final scores of candidates who appeared under CBSE's first-ever two-board-exam system introduced in line with the National Education Policy (NEP) 2020.
+
+According to CBSE data, 6,68,854 students registered for the Class 10 Second Board Examination 2026. Of these, 5,25,655 candidates appeared to improve their scores, while 85,285 students registered under the compartment category. The examinations were conducted from May 15 to May 21, 2026, marking the first year of CBSE's dual-exam format.
+
+### WHEN WILL CBSE CLASS 10 SECOND BOARD RESULT 2026 BE ANNOUNCED?
+
+CBSE is expected to declare the Class 10 Second Board Result 2026 soon. However, the Board has not yet announced an official date or time for the release of the results. Students are advised to rely only on official CBSE notifications and avoid unverified claims circulating on social media.
+
+Once the CBSE Class 10 Second Board Result 2026 is declared, students will be able to check and download their digital marksheets through the Board's official websites, including cbse.gov.in, cbseresults.nic.in, results.cbse.nic.in, and results.digilocker.gov.in. The result will also be available on the UMANG platform, providing students with multiple official channels to access their scorecards.
+
+To access the CBSE Class 10 Second Board Result 2026, students must keep their Roll Number, School Number, Admit Card ID, and Mother's Name handy. These login credentials will be required to view and download the digital marksheet once the result is declared.
+
+### WHAT IS CBSE'S BEST-OF-TWO POLICY?
+
+The 2026 academic session marks the first implementation of CBSE's two-board-exam system under the National Education Policy (NEP) 2020.
+
+Under the Best-of-Two policy, students who appeared in both the first and second board examinations will have the higher score obtained in each subject considered as their final result. This ensures that candidates benefit from their best performance across both attempts.
+
+### WHAT ARE THE PASSING CRITERIA?
+
+As per CBSE guidelines, students must secure at least 33% marks in each subject, including both theoretical and practical components wherever applicable, to qualify in the examination.
+
+Students are advised to keep their login credentials ready and regularly check the official CBSE websites for verified updates. They should avoid relying on rumours or unofficial announcements circulating online regarding the result date.
+
+With more than 55 days having passed since the examinations concluded, the wait for the CBSE Class 10 Second Board Result 2026 continues. Once released, the results will not only conclude the Board's first year of the two-exam system but will also determine students' final scores under the Best-of-Two policy.
+
+Until an official announcement is made, candidates should stay patient, monitor only official CBSE platforms, and keep the necessary login details ready to access their scorecards.
+
+\- Ends
+
+Apoorva Anand
+
+Jul 16, 2026 09:05 IST
+
+---
+
+### Row after UP cleric says Lord Krishna was Muslim, offered namaz
+*Ashish Srivastava · general*
+
+## A video of Maulana Jarjis Ansari claiming that Lord Krishna was a Muslim who offered namaz five times a day has sparked controversy, with Hindu organisations demanding his arrest.
+
+The video, reportedly from a religious address delivered in Jharkhand on June 23, has resurfaced amid the ongoing Krishna Janmabhoomi dispute.
+
+A speech by Maulana Jarjis Ansari has triggered a controversy after a video showing him claiming that Lord Krishna was a Muslim and offered namaz five times a day went viral on social media.
+
+The video, reportedly from a religious address delivered in Jharkhand on June 23, has resurfaced amid the ongoing Krishna Janmabhoomi dispute, prompting protests by several Hindu organisations that have demanded the cleric's arrest.
+
+During the speech, Ansari cited a verse from the Bhagavad Gita -- "Yogi yunjita satatam atmanam rahasi sthitah, Ekaki yata-chittatma nirashir aparigrahah" -- and claimed it instructed devotees to worship with the "whole body", arguing that Lord Krishna himself offered prayers five times a day.
+
+"If our brothers do not mind, then even Krishna ji used to offer prayers five times a day. If you do not believe, then see the 10th verse of the 6th chapter of Shri Bhagavad Gita," Ansari said before reciting the verse.
+
+He further claimed that if Hindus studied their scriptures closely, they would "start loving Islam", asserting that Islam was a universal faith preached not only by Prophet Muhammad but also by Lord Ram and Lord Krishna.
+
+"If these Hindu Muslims read their books... then believe that they will start loving Islam. Because Islam is the religion of the world. This is not the religion of the Muslims. Ramchandra ji has also presented this religion. Krishna ji has also presented it," he said.
+
+However, Ansari's interpretation of the verse does not align with its accepted meaning. Chapter 6, Verse 10 of the Bhagavad Gita translates to: "Let the yogi constantly engage in meditation, remaining in solitude, alone, with mind and self under control, free from desires and free from possessiveness."
+
+The verse makes no reference to namaz, Islam or the practice of offering prayers five times a day.
+
+Ansari has been at the centre of controversies in the past as well. In 2022, a video of the cleric went viral in which he claimed that a Muslim woman should not refuse her husband's sexual advances under any circumstances, even while in labour.
+
+In the video, Ansari said, "O Muslim woman! If you don't allow your husband to take advantage of your body (sexually), you are committing a grave sin."
+
+Referring to what he described as a prophetic commandment, he added, "Even if you are about to deliver a child and your husband wants to enjoy your body... you will have to fulfil your husband's wish."
+
+The cleric was also convicted in a rape case. In September 2022, a Varanasi fast-track court sentenced Ansari to 10 years' imprisonment in a 2016 case involving the rape of a woman on the pretext of marriage and subsequent blackmail. The court also imposed a fine of Rs 10,000.
+
+According to the prosecution, the complainant alleged that she met Ansari, who frequently visited Varanasi to attend religious events, in 2013. She accused him of inviting her to the hotel where he was staying, sexually assaulting her and recording the act.
+
+The woman further alleged that Ansari raped her multiple times in different hotels on the false promise of marriage and later threatened and blackmailed her. Based on her complaint, an FIR was registered against the cleric on November 19, 2015.
+
+\- Ends
+
+Shipra Parashar
+
+Jul 16, 2026 09:01 IST
+
+---
+
+### Diesel, jet fuel exports face higher tax as Brent crude stays above $85
+*India Today Business Desk · general*
+
+The government has increased windfall taxes on diesel and aviation turbine fuel (ATF) exports after global crude oil prices surged amid renewed tensions between the United States and Iran.
+
+According to a government notification, the export duty on diesel has been raised to Rs 15.5 per litre from Rs 8.5 per litre, while the levy on aviation turbine fuel has been increased to Rs 14.5 per litre from Rs 7.5 per litre. The revised rates will come into effect from July 16.
+
+At the same time, the government reduced the export duty on petrol to Rs 2.5 per litre from Rs 4 per litre.
+
+The latest revision comes as Brent crude traded above $85 a barrel on Thursday, while US West Texas Intermediate (WTI) crude hovered around $80 a barrel after extending gains for a fourth straight session.
+
+### WHY HAS INDIA RAISED THE TAX?
+
+The increase follows a sharp jump in global crude oil prices after hostilities between the US and Iran intensified this week.
+
+US President Donald Trump reimposed a naval blockade on all Iranian ports, while Iran responded with retaliatory strikes on US infrastructure in the region. The renewed conflict has raised concerns about possible disruptions to global oil supplies.
+
+According to Reuters, Brent crude rose to around $85.28 a barrel, while WTI crude climbed to about $80.02 a barrel as fears over supply disruptions in the Strait of Hormuz continued to support prices.
+
+The Strait of Hormuz is one of the world's busiest oil shipping routes, through which nearly a fifth of global oil supplies pass. Any disruption to traffic through the waterway can quickly push crude prices higher.
+
+### WHAT HAS CHANGED?
+
+Under the revised rates:
+
+Export duty on diesel has been increased from Rs 8.5 per litre to Rs 15.5 per litre.Export duty on aviation turbine fuel (ATF) has been increased from Rs 7.5 per litre to Rs 14.5 per litre.Export duty on petrol has been reduced from Rs 4 per litre to Rs 2.5 per litre.
+
+The changes are part of the government's fortnightly review of windfall taxes, which are linked to international crude oil prices and refining margins.
+
+### WHAT IS A WINDFALL TAX?
+
+A windfall tax is an additional levy imposed when companies earn unusually high profits because of sharp increases in commodity prices rather than improvements in their business operations.
+
+In India's case, these taxes are mainly imposed on exports of petroleum products when global crude prices and refining margins rise significantly.
+
+The government reviews these duties every two weeks and adjusts them depending on movements in international oil prices.
+
+### WHY DO OIL PRICES MATTER FOR INDIA?
+
+India imports more than 85% of its crude oil requirement, making it highly sensitive to global oil prices.
+
+A sustained rise in crude oil can increase the country's import bill, put pressure on the rupee, raise inflation and widen the fiscal deficit. Higher crude prices can also increase the cost of fuel, transportation and several manufactured goods.
+
+The latest increase in export duties comes as the government looks to balance domestic fuel availability while responding to changing global energy prices.
+
+With tensions in the Middle East showing little sign of easing, investors will continue to monitor developments in the US-Iran conflict, as any further escalation could keep crude oil prices elevated in the coming weeks.
+
+\- Ends
+
+Jul 16, 2026 08:57 IST
+
+---
+
+### Natural Gas Price Forecast: Bullish Reversal Faces Key Resistance Ahead | FXEmpire
+*Unknown · commodity, natural-gas*
+
+Natural gas futures daily chart shows recent lower swing high near dynamic trend resistance. Source: TradingView
+
+## Resistance Cluster Defines the Next Test
+
+Key levels to watch for resistance during an advance include the prior swing low at $3.02, the 50-day moving average near $3.09, and an interim swing low near $3.12. However, the area from $3.12 marks the beginning of a range of potential resistance up to around last Thursday’s high of $3.24. There is also the falling 20-day moving average at $3.16, which is continuing to decline.
+
+A minimum counter-trend rally is anticipated to test resistance at the 50-day moving average. Since that trend indicator was confirmed as support shortly after its last reclaim in early May, the failure of support from the indicator on the way down amplifies the significance of the decline. Natural gas broke decisively below the 50-day average last Thursday with little hesitation and confirmed the breakdown with a daily close below the average.
+
+## Moving Averages Could Cap the Recovery
+
+Both the falling 20-day moving average and rising 50-day moving average seem to be heading toward the $3.12 price range. Nonetheless, their confluence would establish a more significant resistance zone and increase the chance for an eventual bearish continuation. Therefore, while Wednesday’s reversal suggests a potential short-term recovery, the reaction near this resistance cluster will likely determine whether the broader bearish trend remains intact.
+
+If you’d like to know more about how to trade natural gas, please visit our educational area.
+
+---
+
+### Investing in renewables is about more than just protecting the climate - The Washington Post
+*Unknown · energy*
+
+Economic opportunity, energy affordability and energy security should also inform how Michigan energy policymakers determine the role of ...
+
+[Read full article](https://www.washingtonpost.com/ripple/2026/07/15/investing-renewables-about-more-just-protecting-climate/?itid=hp_brand_promo_1)
+
+---
+
+### Why Samsung and SK Hynix shares crashed up to 9% despite the AI boom
+*India Today Business Desk · general*
+
+The artificial intelligence (AI) boom has turned companies like Samsung Electronics and SK Hynix into some of the world's biggest stock market winners over the past year.
+
+On Thursday, Samsung Electronics ended nearly 8% lower, while SK Hynix closed around 9% down after a sharp sell-off in global semiconductor stocks. So why did investors suddenly dump their shares?
+
+The decline came despite no major negative company-specific news and just ahead of quarterly earnings from Taiwan Semiconductor Manufacturing Company (TSMC), the world's largest contract chipmaker.
+
+The weakness spread from Wall Street to Asia, leaving investors wondering whether the AI-driven rally in chip stocks is beginning to lose steam.
+
+### NO SINGLE TRIGGER BEHIND THE SELLOFF
+
+Unlike previous market corrections driven by disappointing earnings or weak guidance, Thursday's sell-off did not have one clear trigger.
+
+According to Reuters, traders said there was no "smoking gun" behind the decline. Instead, the sell-off reflected a combination of profit booking, concerns over rich valuations and investors setting an increasingly high bar for semiconductor companies.
+
+Brian Heavey, an equity trader at JPMorgan, said the market was witnessing an aggressive pullback in memory and hardware stocks, adding that expectations for chipmakers had become extremely high after months of strong gains.
+
+### PROFIT BOOKING AFTER A MASSIVE AI RALLY
+
+One of the biggest reasons behind the decline appears to be investors locking in profits.
+
+Both Samsung Electronics and SK Hynix have been among the biggest beneficiaries of the AI boom as demand for high-bandwidth memory (HBM) chips used in AI servers surged.
+
+Analysts believe the latest correction reflects profit booking after a prolonged rally rather than any major deterioration in business fundamentals.
+
+Rolf Bulk, Head of Semiconductor & Infrastructure Equity Research at Futurum Group, told CNBC that Thursday's weakness largely followed the sell-off in US semiconductor stocks overnight. He added that the long-term outlook for AI infrastructure and memory chips remains intact despite the recent correction.
+
+### WALL STREET SET THE TONE
+
+The selling began in the United States before spilling over into Asian markets.
+
+Micron Technology dropped 8%, Intel fell more than 4%, while Advanced Micro Devices (AMD) and Lam Research each declined around 3%.
+
+Even ASML, the world's leading supplier of advanced chipmaking equipment, ended lower despite raising its full-year sales forecast for the second time this year and announcing plans to expand production capacity.
+
+According to Reuters, investors have become increasingly demanding, with even strong earnings and upbeat guidance no longer enough to drive semiconductor stocks higher.
+
+### AI SPENDING CONCERNS HAVE RETURNED
+
+Investor sentiment was also hit by fresh concerns over future AI spending.
+
+According to CNBC, reports that cloud computing company CoreWeave is exploring ways to hedge against future declines in memory chip prices have raised questions about whether the current pricing cycle can continue.
+
+Another factor weighing on sentiment was New York's decision to temporarily halt approvals for new large-scale data centre projects while stricter standards on energy, water usage and environmental impact are developed.
+
+Although analysts do not believe these developments will significantly affect long-term demand, they have contributed to near-term caution.
+
+### VALUATIONS HAVE BECOME A CONCERN
+
+Experts also say semiconductor stocks have become one of the most crowded trades on Wall Street.
+
+Louis Kondratev, trader at XFUNDs, told CNBC that semiconductor companies now account for roughly 20% of the S&P 500 index, compared with just over 8% during the dot-com bubble in 2000. Historically, the sector has represented only 2% to 5% of the benchmark index.
+
+He said earnings growth has remained strong, but investors are beginning to question whether current valuations can continue to rise at the same pace.
+
+### THE AI STORY REMAINS STRONG
+
+Despite the sharp sell-off, analysts believe the long-term outlook for semiconductor companies remains positive.
+
+Demand for high-bandwidth memory chips continues to exceed supply as technology giants including Microsoft, Amazon, Google and Meta continue investing heavily in AI infrastructure.
+
+According to CNBC, this strong demand continues to give companies such as SK Hynix and Micron significant pricing power.
+
+ASML's decision to raise its sales forecast for 2026 also suggests that demand for advanced chipmaking equipment remains robust despite the recent volatility in semiconductor stocks.
+
+### SELLOFF SPREAD ACROSS ASIA
+
+The weakness was not limited to Samsung and SK Hynix.
+
+According to Reuters, South Korea's benchmark KOSPI index fell sharply as the decline in heavyweight chip stocks dragged the broader market lower.
+
+In Japan, the Nikkei slipped about 3%, while MSCI's Asia-Pacific index outside Japan fell 1.7%. Taiwanese stocks also declined ahead of TSMC's earnings, although Hong Kong's Hang Seng Index bucked the trend and ended higher.
+
+Asian markets were also weighed down by renewed geopolitical tensions in the Middle East, with oil prices extending gains after fresh hostilities between the United States and Iran.
+
+### ALL EYES NOW ON TSMC
+
+Investors are now waiting for TSMC's quarterly earnings, which are expected to provide fresh clues about the health of the global semiconductor industry.
+
+According to Reuters, the company is expected to report a fifth consecutive quarter of record earnings, with net profit likely to jump 59% in the April-June quarter.
+
+A strong performance and optimistic outlook from TSMC could help restore confidence in semiconductor stocks.
+
+For now, analysts believe Thursday's sell-off reflects elevated expectations and profit booking rather than a collapse in AI demand. But with chip stocks trading near record highs after a massive rally, investors appear to be taking a more cautious approach until the next round of earnings provides greater clarity.
+
+\- Ends
+
+Jul 16, 2026 08:46 IST
+
+---
+
+### Doctor murdered, 8-year-old son stabbed. Cops find wife scrolling phone by bodies
+*Sagay Raj · general*
+
+## Dr Kiran Honannavar was allegedly killed by his doctor wife inside their Dharwad apartment, while their eight-year-old son was also stabbed. A video from the scene showed Dr Honannavar's wife lying down and scrolling through her phone while the bodies of her husband and son lay in pools of blood.
+
+Police walk into bloodbath, find doctor's wife scrolling phone beside bodies
+
+A 45-year-old doctor, Dr Kiran Honannavar, was allegedly murdered by his wife, Priyanka, who is also a doctor, inside their apartment in Karnataka's Dharwad on Wednesday. The couple's eight-year-old son was also stabbed and is undergoing treatment at a private hospital.
+
+Alerted by neighbours, the police walked into a scene of horror, with blood splattered across the apartment. A video from the scene showed Dr Honannavar's wife lying down and scrolling through her phone while the bodies of her husband and son lay in pools of blood.
+
+After being alerted, Hubballi-Dharwad Police Commissioner N Shashikumar arrived at the crime scene, noticed the injured child was still breathing, and rushed him to the hospital.
+
+According to the information available so far, when Kiran's relatives and friends called on Tuesday night and again on Wednesday morning, Priyanka answered the phone, telling them first that he was resting and later that he had gone out on duty.
+
+When family members eventually visited the couple's flat on Wednesday evening after receiving no response from him, they found the father and son lying in a pool of blood, while the accused was lying on the bed, scrolling through her phone.
+
+Hubballi-Dharwad Police Commissioner N Shashikumar said Dr Kiran Honannavar, an anaesthetist at Chirayu Hospital, lived with his wife, Priyanka Kattanahalli, an MBBS graduate with an MS in Ophthalmology, and their eight-year-old son in a sixth-floor apartment opposite Pavan High School. He added that Kiran's family members used to visit them frequently.
+
+Describing the scene, the Commissioner said police found Dr Kiran lying dead in a pool of blood in one of the rooms. The 8-year-old boy had also suffered stab injuries, he added. "We are yet to ascertain during the investigation when exactly the child was attacked. Since he was still alive, we shifted him to the hospital immediately," he said.
+
+Shashikumar said that the police are trying to establish when the incident took place and what led to it. According to the preliminary findings, only the husband, wife and child were inside the apartment at the time of the incident, and there is no indication so far that any outsider entered the house.
+
+He further said neighbours had been trying to contact the family since morning, but Priyanka told them she was inside the house and that her husband had gone out.
+
+"We will conduct a detailed investigation to determine what exactly happened, whom she spoke to, what she told them, and the sequence of events inside the apartment," the Commissioner said, adding that a murder case has been registered, and the investigation is underway.
+
+\- Ends
+
+Sayan Ganguly
+
+Jul 16, 2026 08:43 IST
+
+---
+
+### Over 500 feared dead in two suspected shipwrecks off Myanmar: UN
+*SECTIONS Over · business*
+
+Synopsis
+
+The United Nations warned Thursday that more than 500 people were feared dead following reports of two large shipwrecks off Myanmar since late June. The UN's International Organization for Migration and its refugee agency UNHCR voiced alarm in a joint statement at reports "that two boats carrying more than 500 people may have capsized off the coast of Myanmar in recent days".
+
+Agencies
+
+Over 500 feared dead in two suspected shipwrecks off Myanmar: UN (Representative image)
+
+Geneva: The United Nations warned Thursday that more than 500 people were feared dead following reports of two large shipwrecks off Myanmar since late June.
+
+The UN's International Organization for Migration and its refugee agency UNHCR voiced alarm in a joint statement at reports "that two boats carrying more than 500 people may have capsized off the coast of Myanmar in recent days".
+
+Preliminary information indicated that the two vessels in question departed from war-torn Myanmar's Rakhine State in late June, with mainly members of the country's mostly Muslim Rohingya minority onboard, the statement said.
+
+  
+
+Some had reportedly travelled from the huge camps in Bangladesh's Cox's Bazar, where more than million Rohingya refugees who have fled from Rakhine live in squalid conditions.
+
+The statement said that one boat, believed to have been carrying around 250 people, lost contact shortly after departure.
+
+A second boat, reportedly carrying some 280 people, is meanwhile believed to have sunk off Myanmar's Ayeyarwady coast on July 8.
+
+"While the incidents and casualty figures have yet to be officially confirmed, UNHCR and IOM are gravely concerned by the potentially devastating loss of life," the statement said.
+
+The UN agencies highlighted that the journeys "took place outside the regular sailing season, when maritime conditions are typically more hazardous".
+
+"Recent torrential rain and flooding across the region have further increased the risks associated with such sea movements."
+
+The statement cautioned that "if verified, this tragedy would add to the nearly 300 people reported to be missing or to have lost their lives in the Andaman Sea and Bay of Bengal so far this year, including Rohingya refugees and Bangladeshi nationals".
+
+**Exploiting 'desperation**
+
+The Rohingya undertake perilous sea journeys every year in search of better living conditions, travelling aboard rickety boats often operated by trafficking networks.
+
+According to UNHCR, nearly 900 Rohingya refugees were reported missing or dead at sea in the northern Indian Ocean last year alone -- out of more than 6,500 who had attempted such perilous sea crossings.
+
+Thursday's statement stressed that the latest reported tragedies "underscore the devastating impact of protracted conflict and displacement, as well as the continued lack of sustainable solutions for Rohingya communities".
+
+"Escalating conflict and a worsening humanitarian situation in Myanmar, along with limited assistance and opportunities in refugee camps in Bangladesh, contribute to increasing numbers of people attempting perilous sea journeys in search of safety and protection," they pointed out.
+
+"The reported incidents also highlight the persistent risks posed by smuggling and trafficking networks, which continue to exploit the desperation of people seeking safety," they added.
+
+IOM and UNHCR called for "enhanced search and rescue efforts, access to asylum and protection, and actions against smuggling and trafficking networks".
+
+The agencies hailed Bangladesh for its "remarkable generosity in hosting Rohingya refugees for many years", but stressed the need for "sustained international support" for the refugees and host communities, as well as "greater efforts to address the underlying drivers of forced displacement".
+
+---
+
+### Truck ploughs into UP house after tyre burst, 3 of family crushed to death
+*Suresh Kumar Singh · general*
+
+## A cement-laden truck veered into a house in Mirzapur after a tyre burst. Three family members died and police are investigating the circumstances of the crash.
+
+According to police, the truck was travelling from Varanasi to Sonbhadra when one of its tyres burst
+
+Three members of a family were killed and two others, including a 12-year-old girl, were injured after a cement-laden truck lost control following a tyre burst and ploughed into a house in Uttar Pradesh's Mirzapur district on Wednesday, police said.
+
+According to police, the truck was travelling from Varanasi to Sonbhadra when one of its tyres burst at around 3 am, causing the driver to lose control.
+
+The vehicle veered off the road and rammed into a house where several people were asleep.
+
+The impact crushed those sleeping inside the house.
+
+The victims have been identified as Rajaram (47), Sukhiya (70) and Chandtara (45), who died on the spot.
+
+The two injured persons were rushed to the Varanasi Trauma Centre, where they are undergoing treatment.
+
+Police, assisted by a crane, removed the truck from the damaged house before taking the vehicle into custody.
+
+An investigation has been launched to ascertain the exact circumstances leading to the crash.
+
+\- Ends
+
+Karishma Saurabh Kalita
+
+Jul 16, 2026 08:39 IST
+
+---
+
+### 'We need it': Trump announces plan to raise US military spending to $1.5 trillion next year
+*SECTIONS Trump announces plan · business*
+
+Synopsis
+
+US President Donald Trump on Wednesday (local time) announced plans to increase US military spending to USD 1.5 trillion next year, saying the investment was necessary to strengthen national defence while creating American jobs.
+
+"We need it": Trump announces plan to raise US military spending to $1.5 trillion next year
+
+Pennsylvania: US President Donald Trump on Wednesday (local time) announced plans to increase US military spending to USD 1.5 trillion next year, saying the investment was necessary to strengthen national defence while creating American jobs.
+
+Speaking at the Pennsylvania Defense and Innovation Summit, Trump said his administration had already made a record investment in the US military.
+
+  
+
+"We've invested a record USD 1 trillion in the United States military, and next year, I'm proud to say, and Pete (War Secretary), we have to get moving on this, a USD 1.5 trillion we're going up to. We need it," Trump said.
+
+Trump argued that the increased defence spending would also support domestic employment because the military equipment would be manufactured in the United States.
+
+He said, "It's all made in the USA, so it's not fully a cost, you know it's a cost, we gotta take something, but it's called jobs and when you think of it that way."
+
+The US President also highlighted his previous military investments, saying, "I built the military in my first term, and I used it in my second term."
+
+Referring to military action involving Venezuela, Trump said, "As you know, Venezuela was, that was actually 48 minutes, but let's call it one day, and we've paid for the cost of that war 50 times over, more than 50 times over already."
+
+Here, Trump was referring to a January 2026 US military operation that ousted and captured Venezuelan President Nicolas Maduro. Trump claimed the operation took "exactly 48 minutes" to win and that seized Venezuelan oil had already paid for the cost of the intervention "more than 50 times over"
+
+Trump's remarks come at a time when there is an ongoing conflict with Iran, 
+
+Responding to a query on whether Trump has given Terhan any deadline before he initiates strikes on civilian assets inside the Islamic Republic, Trump said, "I don't like giving deadlines, but they pretty much know--they know the story. They better behave."
+
+Earlier, on Tuesday, Trump, during an interview with Fox News, warned that the United States would start targeting Iranian power plants and bridges "next week" as part of its border strikes on the Islamic Republic, unless Tehran returns to the negotiating table.
+
+He further cautioned that Iran would not "have anybody left" if it failed to reach a deal with Washington.
+
+"We're going to hit them very hard tomorrow night. We're going to hit them very hard the night after, and then next week it gets really bad for them, because next week comes the power plants. Next week comes the bridges. We're going to knock out all their power plants. We're going to knock out all their bridges unless they get to the table and negotiate," Trump told Fox News.
+
+---
+
+### Why has the monsoon ghosted half of India? El Nino and a shifting trough explained
+*India Today Science Desk · general*
+
+## India's monsoon has entered a break phase, with the rainfall deficit near 14 per cent and El Nino strengthening in the Pacific. The IMD forecasts subdued rain over northwest, west-central and south peninsular India, with revival hopes pinned on a fresh low pressure system.
+
+India's monsoon has entered a break phase. The rain-bearing trough has drifted to the Himalayan foothills, El Nino is strengthening, and the IMD expects subdued showers over much of the country this week. (Photo: Windy)
+
+The clouds are still there. The rain is not. For a country that spent all of June scanning the sky, July began with a promise. A depression, which is a strong low pressure system, spun out of the Bay of Bengal in the first week and drenched Odisha and central India.
+
+The monsoon finally covered the entire country on July 9, only a day behind schedule, and the national rainfall deficit shrank from 30 per cent at the end of June to about 14 per cent.
+
+Then the monsoon simply stopped showing up. Meteorologists have a name for this. It is called a break.
+
+### WHAT IS A MONSOON BREAK?
+
+Think of the monsoon trough as the spine of the rainy season. It is an elongated belt of low pressure that normally stretches from Northwest India to the head of the Bay of Bengal, pulling in moist winds and squeezing rain out of them over the heart of the country.
+
+During a break, this spine drifts north towards the Himalayan foothills. The hills and the Northeast get lashed, while Central and peninsular India are left staring at dry skies. Scientists have documented this rhythm for decades, and it is playing out now almost by the textbook.
+
+This is only the third time in 11 years that the monsoon has weakened this sharply in July, after 2015 and 2021.
+
+The India Meteorological Department (IMD) has said subdued rainfall is likely over the plains of Northwest India, West-Central India and the Southern Peninsula for the next six to seven days.
+
+Dry westerly winds have already crept into states like Madhya Pradesh, nudging even that surplus state into deficit.
+
+### WHY IS THE 2026 MONSOON SO WEAK?
+
+June set a miserable stage. The country received just 99.5 mm of rain, roughly 40 per cent below normal and the fifth lowest for the month since records began in 1901.
+
+Three culprits stand out. First, El Nino, the abnormal warming of the central and eastern Pacific Ocean, developed in June and is strengthening. It disturbs global wind circulations and typically starves the Indian monsoon of moisture.
+
+The Indian Ocean Dipole acts as a natural counterweight to El Nino's drying effect on India. In 1997, a strong positive IOD saved India from drought despite a raging Super El Nino. In 2026, the IOD remains neutral and offers no such protection. (Infographic: Radifah Kabir/India Today)
+
+Second, the Madden-Julian Oscillation, a pulse of clouds and winds that circles the equator every 30 to 60 days, has been stuck in phases that suppress rain over India.
+
+Third, the Bay of Bengal has produced barely any low pressure systems, the engines that drag the trough south and deliver soaking rain inland.
+
+### WHEN WILL THE RAIN RETURN?
+
+The first real answer arrived on Wednesday morning. At 5.30 am on July 15, a fresh low pressure area, only the second of the season, formed over the northwest Bay of Bengal off the north Odisha-West Bengal coast, according to the IMD.
+
+Odisha is already feeling it. The IMD has issued a red alert warning of extremely heavy rainfall, with heavy to very heavy showers expected till July 17. The system is forecast to move west-northwestwards across North Odisha and Gangetic West Bengal, enhancing rain over East and Northeast India, eastern Uttar Pradesh and the Western Himalayan region through the week.
+
+Dark clouds cover the skies as India's monsoon enters a break phase, leaving the rainfall deficit near 14 per cent. (Photo: PTI)
+
+Independent forecasters echo this optimism, noting the system could intensify into a well-marked low pressure area soon. It is already feeding moisture into central and western regions, they say, with potential heavy showers in parts of Gujarat. If it tracks favourably, it may coax the monsoon trough southwards and shorten the break.
+
+Beyond that, forecasters are watching the Indian Ocean Dipole, a see-saw of sea temperatures in the Indian Ocean. If its positive phase develops by late August, it could blunt El Nino's edge. Until then, July, the wettest month of the year, is running on borrowed rain.
+
+\- Ends
+
+Radifah Kabir
+
+Jul 16, 2026 08:37 IST
+
+---
+
+### TN Custodial Death Row Deepens: BJP Demands Murder Case Against Cops, DMK Targets Vijay Govt's 'Silence'
+*Vani Mehrotra · general*
+
+The political row over Sabarivarman's custodial death in Tamil Nadu intensifies as BJP demands a murder case against policemen and DMK leaders attack the Vijay government.
+
+[Read full article](https://www.news18.com/india/tamil-nadu-custodial-death-sabarivarman-vijay-government-row-murugan-kanimozhi-udhayanidhi-bjp-dmk-demand-action-ws-l-10214484.html)
+
+
+---
+
 ## 15 July 2026
 
 ### There’s more to Modi’s Punjab visit than just railway projects
