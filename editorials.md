@@ -1,8 +1,275 @@
 # Editorials
 
-_Last updated: 2026-07-16 04:40 UTC_
+_Last updated: 2026-07-17 04:43 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 17 July 2026
+
+### Breaching the target: On India’s retail inflation
+*The Hindu · Editorial*
+
+India’s retail inflation breached the RBI’s 4% target for the first time under the new CPI series, rising to 4.38% in June from 3.93% in May and about 2.7% a year earlier. The latest print reflects a broader pass-through of price pressures that had, until recently, remained concentrated at the producer level, largely driven by spiralling transport and fuel costs since the U.S.-Iran conflict in late February. Consequently, the gap between wholesale and retail inflation has only marginally narrowed. Wholesale inflation (WPI), now based on 2022-23, remained elevated at 9.87% in June, up from 9.68% in May. Fuel and power continued to exert the greatest pressure on producers, recording inflation of 27.41%, only marginally lower than May’s 28.18%. As India imports nearly 90% of its crude oil requirements, the value of merchandise imports surged to $70.8 billion in June from about $54.1 billion a year earlier, even though import volumes did not rise proportionately. This underscores how imported inflation, amplified by crude prices that briefly crossed $110 a barrel, has driven systemic price pressures across the economy. The rupee’s sharp depreciation during the conflict added to these pressures, although RBI intervention in the foreign exchange market helped cushion the fall.
+
+The transport category merits closer examination. Transport inflation more than doubled to 4.31% in June from 1.75% in May, while the sub-group, “transport services for goods”, remained elevated, rising to 7.70% from 7.63%. Another notable pressure point has been restaurants and hotels. Although the government announced a modest reduction in commercial LPG prices earlier this month, it has done little to offset the steep increases through May and June, when the price of a 19.2 kg commercial cylinder in Delhi climbed to around ₹2,930 before easing marginally. The system-wide impact is also evident in food prices, with the Consumer Food Price Index (CFPI) rising to 5.32% from 4.78% in May. Another significant price pressure on the CFPI that must be factored in is the projection of a deficient southwest monsoon and its impact on agriculture, though the extent will become clearer in the weeks ahead. Meanwhile, despite the Centre more than doubling import duties on gold and silver from 6% to 15% in May, Commerce Ministry data suggest that bullion imports have remained robust amid global uncertainty, contributing to higher jewellery prices and household inflation. Although the ceasefire announced in late June briefly eased crude prices, they have begun rising again. Given continuing geopolitical uncertainty and persistent upstream price pressures, inflation is unlikely to return to the RBI’s 4% target soon, leaving no room for a rate cut at the Monetary Policy Committee’s August meeting.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/breaching-the-target-on-indias-retail-inflation/article71230176.ece)
+
+---
+
+### ​Wealth of lacunae: On the Kudankulam nuclear plant data leak
+*The Hindu · Editorial*
+
+The ransomware attack against a contractor involved in the Kudankulam nuclear power project is concerning, even if nothing threatening the plant’s integrity was stolen. In 2019, malware was found on the same facility’s administrative network, but the NPCIL maintained that the operational reactor network was unaffected. The new incident extends the same theme. India’s breach disclosure regime is inconsistent and often plainly opaque. Affected organisations tend to believe admitting a breach will damage public confidence, share prices, contracts, and invite regulatory scrutiny. So, they tend to ease their language in public statements and avoid disclosure until compelled. Many organisations also lack mature incident response capabilities, not uncommonly because they treat cybersecurity as a matter of compliance rather than necessity. So, assessing what data has been affected in the early stages of an attack becomes technically impossible. According to public information, the facility’s core infrastructure is unaffected; instead, a group called ‘World Leaks’ mounted a ransomware attack compromising systems belonging to Reliance Infrastructure, one of the engineering contractors of Units 3 and 4. The data in the incident were hosted by Yotta Data Services, which said it detected suspicious activity on its servers on May 29.
+
+According to open-source intelligence platform RansomLook, the data began appearing on World Leaks on June 11. However, the NPCIL issued a formal clarification only on July 15, following widespread media reports. Some 14.3 GB of files have been released, including the layouts of ventilation systems, floor plans of an alleged “control room”, supplier and vendor lists, and insurance paperwork. While the files have not been independently authenticated, the actors and their incentives merit a closer look. The NPCIL has said that the files only pertain to infrastructure beyond the facility’s nuclear island. However, such information can still serve so-called intelligence preparation activities. India is the third-most breached country and has already brooked similar attacks against AIIMS Delhi, airlines, and State government portals. In this milieu, the government has positioned Kudankulam as the centrepiece of India’s nuclear power ambitions. As CERT-In is conducting an investigation and Reliance and Yotta have shared their findings with the government, CERT-In and NPCIL should also clarify the nature and authenticity of the files, whether data were exfiltrated before detection, and whether any credentials or supplier accounts have been exposed. Radical transparency is impossible here but basic cyber-hygiene and proactive communication are non-negotiable.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/wealth-of-lacunae-on-the-kudankulam-nuclear-plant-data-leak/article71230157.ece)
+
+---
+
+### Beyond political reshuffles, renew education in India
+*The Hindu · Opinion*
+
+When Parliament assembles next week, there will be debates, disruptions and legislation. Television studios will reduce complex issues to political arithmetic, and headlines will declare winners and losers. Yet, I cannot help asking whether the true measure of Parliament is not by the number of Bills it passes, but by the questions it chooses to confront and resolve. For the past several days, one such question has been waiting outside its doors. My husband, Sonam Wangchuk, scientist, engineer, educator and social reformer, has been on an indefinite fast. Every morning I watch with growing anxiety as his body weakens. His body is paying the price for a conviction that education deserves the nation’s urgent attention. Every day begins with the same silent question: how much longer can his body endure?
+
+This is not merely a family’s private concern. It has become a test of our national conscience. Those who choose the path of non-violent sacrifice hope their suffering will awaken society’s conscience to a greater purpose. If this fast culminates only in the resignation or reshuffling of the Union Education Minister, India would have reduced an extraordinary act of conviction and personal sacrifice to an ordinary political outcome. Public accountability is the cornerstone of democracy. Ministers must have the moral courage to own their failures and step aside when necessary. But individuals are transient; institutions endure. More important than replacing a Minister is defining an educational future for which every Minister, regardless of party, is held accountable.
+
+Related StoriesSupreme Court judgments say state has a duty to preserve life of person on indefinite fast without disrupting right to dissent
+
+Sonam Wangchuk’s decision to join CJP protest organic, says wife Gitanjali Angmo
+
+Cockroach Janta Party releases manifesto on exam reforms at Pune protest
+
+Fifteen years ago, around half of India’s population was under 25. Economists celebrated this as India’s demographic dividend, perhaps the greatest developmental opportunity available to any nation in the 21st century. In one of my articles, I had argued that while India has invested significantly in access to education, it has missed out on excellence. Enrolment has grown, but learning has not been transformed. If India aspires to become a Vishwa Guru, it must educate this generation differently. But India seems to have missed the opportunity.
+
+What demographic dividend isA demographic dividend is realised by producing better thinkers, wiser leaders, confident innovators, skilled researchers and teachers, ethical entrepreneurs, honest public servants and compassionate citizens. This, therefore, is the moment to rise above personalities, parties and politics. Sonam Wangchuk’s fast should become the catalyst for a national awakening on the future of education. The question is larger than whether one Minister should resign. It is whether India will dare rebuild the education system that will shape the next century. We need more than a reshuffle — we need reform, renewal, and a renaissance. In my view, that renaissance rests on 10 urgent reforms. First, reform the system of examination. Assessment determines learning. As long as examinations reward memory, schools will teach memory. If examinations reward thinking, schools will cultivate thinkers. Within three years, every examination, from school boards to JEE, NEET, CUET and the UPSC, should progressively evaluate conceptual understanding, application, creativity, analytical reasoning, ethical judgement and real world problem-solving rather than recall. Competency-based assessment should become the national norm.
+
+Second, India must dismantle the coaching culture that it has inadvertently created as a parallel education system. Families spend fortunes on coaching because India’s entrance examinations reward repetition more than reflection. Multiple examination windows, greater weightage to school performance and portfolios, and redesigned entrance tests can gradually restore learning to schools and childhood to children.
+
+Respect for teachingThird, build the world’s best teachers: No education system can rise above the quality of its teachers as is seen in Finland, Singapore, South Korea and Japan. India needs a National Teacher Excellence Mission that treats teaching as one of the most respected professions through rigorous preparation, continuous professional development, mentoring, research opportunities and leadership training.
+
+Related StoriesWhy India’s education system needs urgent reform
+
+Why India needs to radically rethink its doctoral education programmes
+
+Why is the NEP undergrad course in chaos? | Explained
+
+Why UGC’s NEP-driven higher education reforms are faltering on campus
+
+Second-generation reforms required in higher education to make India a developed nation
+
+Beyond the numbers: Why India’s education reform must focus on learning, not just access
+
+Fourth, every vacant teaching position represents thousands of lost learning opportunities. Vacancies from Anganwadis and primary schools to central universities, IITs, IIMs, NITs and AIIMS should be filled through transparent, merit-based recruitment within three months.
+
+Fifth, reconnect education with society. Education must prepare young people not just for employment but also for citizenship. Every undergraduate should complete a semester of apprenticeship, research, entrepreneurship, rural immersion, community service or industry experience before graduation. Knowledge acquires meaning when tested against reality.
+
+Sixth, India must restore faith in its government schools. Every child deserves an equal education until the age of 13, regardless of income or geography. Laboratories, libraries, sports facilities, digital infrastructure, sanitation and qualified teachers should become guaranteed minimum national standards. This can only happen when policymakers have a personal stake in public education and those responsible for governing public institutions also trust them with their own families.
+
+Seventh, trust educational institutions with greater academic freedom that they deserve. Governments should define learning outcomes and ensure accountability. They should not micromanage pedagogy, curriculum innovation or research. The world’s finest institutions flourish because they are trusted to innovate, collaborate and respond to local contexts. Academic freedom produces excellence.
+
+Eight, what is measured improves. Transparency is one of the most powerful drivers of reform. A real-time national public education dashboard should be set up, on which every stakeholder can compare schools and universities using verified measures of learning outcomes, teacher vacancies, infrastructure, research output, accreditation, employability, and student well-being.
+
+Ninth, public investment in education should rise to at least six per cent of GDP, accompanied by an increase in research funding to at least two per cent of GDP. Nations become knowledge economies not through aspiration alone, but through sustained investment in schools, universities, laboratories and ideas.
+
+Tenth, educational reform must outlive electoral cycles and not begin afresh every time governments change. India needs an independent statutory national education reform commission that establishes measurable national benchmarks, audits implementation, publishes annual progress reports to Parliament, tracks outcomes across every State/Union Territory and holds governments accountable to measurable outcomes rather than political rhetoric.
+
+Education beyond political dividesNone of these reforms belongs to one political party or to one ideology. Every government has contributed something valuable, yet every government has also inherited unresolved structural weaknesses. Education must become India’s first genuinely bipartisan national mission. History offers nations only a few defining moments when public attention, moral conviction and political urgency converge. This may be one of them. Parliament will eventually adjourn. But whether the child entering class one this year will grow into an innovator or an imitator, a responsible citizen or a passive spectator depends on the education we choose to build today.
+
+The question before India is no longer who will lead the Ministry of Education. It is whether we, as a nation, have the vision and the resolve to build an education system worthy of our children. That responsibility belongs not to one government or one political party, but to every citizen who believes that education is the foundation upon which every other national aspiration rests.
+
+If Sonam Wangchuk’s fast helps us begin that journey, then his sacrifice will not merely have drawn attention to a crisis. It will have helped awaken a nation. History will remember whether we dared to transform a personal sacrifice into a national renaissance. That responsibility belongs to all of us.
+
+Gitanjali J. Angmo is founder of the Himalayan Institute of Alternatives, Ladakh, and an education reformer and public intellectual working to reimagine education, democracy, ecology and Himalayan futures through grassroots leadership and innovation
+
+[Read full article](https://www.thehindu.com/opinion/lead/beyond-political-reshuffles-renew-education-in-india/article71230775.ece)
+
+---
+
+### DC Edit | For FTAs To Work, India Must Boost Manufacturing
+*Deccan Chronicle · Editorial*
+
+The India-United Kingdom Comprehensive Economic and Trade Agreement (CETA), which came into force on July 15, after three years of negotiations spread over several 14 rounds of talks and 800 technical sessions, will reinstate a close economic cooperation between two major economies — for the first time after the country broke the British colonial yoke in 1947.
+
+The agreement will over a period of time create an $8-trillion free trade region, which will be mutually beneficial to both India and the United Kingdom. As a result of the deal, bilateral trade is expected to rise from £42.6 billion to £75 billion. It will eliminate tariffs for Indian enterprises in labour-intensive businesses such as textiles, marine products, leather, footwear, sports goods, toys, gems, jewellery, engineering goods, auto parts, engines, and organic chemicals.
+
+Though Vietnam and Turkey already have a free trade deal with the British, Bangladesh and Pakistan enjoy nearly zero per cent import duty because of their national economic backwardness, which gives them an immense tariff advantage over Indian products. However, the CETA will eliminate this tariff disadvantage for Indian manufacturers and will allow them to compete fairly with them.
+
+British whisky, gin, medical devices, cosmetics, aerospace components, lamb, salmon, electrical machinery, soft drinks, chocolate, and biscuits will get cheaper. India will also reduce higher tariffs on the import of fossil fuel run automobiles and electric vehicles to 10 per cent in the next five years and 10 years, respectively.
+
+The entry of British automobiles without import duty cover will introduce tough competition for Indian automotive manufacturers. However, the delayed implementation will allow the Indian manufacturers to become globally competitive. The deal will also allow Indian auto parts manufacturers to be part of the British supply chain, and improve their quality.
+
+The social security agreement, which is a part of the deal, will also provide invaluable support to Indian professionals working temporarily in the UK and strengthen the competitiveness of Indian enterprises. The CETA is expected to strengthen key agri-export clusters across Maharashtra, Gujarat, Andhra Pradesh, Tamil Nadu and Punjab, enhancing India’s global export competitiveness.
+
+India currently has free trade agreements with 11 countries. However, in terms of economic size, the CETA is the second biggest after the India-Japan deal. The two biggest upcoming trade deals are with the European Union and the United States. While the EU deal was concluded in January 2026 after two decades of off-and-on talks, negotiations with the United States are stuck on the nitty-gritty of tariff.
+
+When the World Trade Organisation (WTO) regime has become more or less redundant, countries have adopted the negotiated deals with their preferred partner countries as the new strategy. It being the sixth largest economy, every major country would like to have free trade with India. However, the deals will be of no use, unless domestic companies increase standards and become competitive. India should, therefore, develop an ecosystem that supports and encourages domestic manufacturers to improve the quality of their products and services and become unbeatable.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-for-ftas-to-work-india-must-boost-manufacturing-1971555)
+
+---
+
+### DC Edit | Heed Complaints By Students
+*Deccan Chronicle · Editorial*
+
+While the Union government has been making every effort to appear as if it has no idea either about the consternation coming from the student community or the agitation going on in New Delhi, the Supreme Court appears to be alive to it. It has called on the government to “look at the amount of frustration of young children”, while hearing a public interest litigation which seeks directions to the government and the CBSE to frame regulations on conducting exams through an on-screen marking system.
+
+Climate activist Sonam Wangchuk’s fast calling the government’s attention to this very same issue has entered its 19th day on Thursday. But the frustration is not just about the CBSE’s faulty implementation of the OSM system which affected 17 lakh students all over the country. It is also about the frustration of 22 lakh students who took the National Eligibility-cum-Entrance test for undergraduate medical courses and the 11 lakh who appeared for the Common University Entrance Test. And the response the hunger strike has evoked from the people as days pass by is a sign of the growing frustration among not just students but also everyone who has a stake in the future of this country.
+
+The Supreme Court has sought the help of the Union government to address the questions contained in the petition filed by Rakesh Binjola, represented by advocate Laxmikant Matadan Shukla, seeking a fair and reasonable inquiry into the “patent irregularities” found in the OSM evaluation system. But this, in fact, is an invitation by the apex court to wake up to a reality that the government has steadfastly refused to acknowledge.
+
+It’s the job of the government, and not the court, to act to address the issues raised by the students. And while it is at it, it must also initiate a dialogue with the people who are on the street. That is the least that can be expected.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-heed-complaints-by-students-1971567)
+
+---
+
+### Dilip Cherian | As Govt Breaks Its Own Rules, Officer Posted At FCI Is Recalled
+*Deccan Chronicle · Opinion*
+
+Governments are quick to invoke the rule of law but are less good at living by it.
+
+The department of personnel and training's decision to void the food ministry's suspension of an FCI executive director is a case in point. By declaring the order non est, or legally non-existent, the DoPT overturned a suspension. But it also indicated that the ministry never had the authority to issue it in the first place. That clearly is not a routine correction, sources have informed DKB.
+
+The officer, Ashutosh Joshi of the Indian Audit and Accounts Service, is facing serious allegations over the alleged diversion of rice meant for the public distribution system in the Northeast. If the charges are proved, he should face the consequences. But that isn't the point under dispute. The real question is whether a ministry can ignore the rules simply because it wants to act quickly.
+
+India's civil service doesn't work on administrative instinct. It runs on a carefully defined distribution of powers. Officers belonging to organised Group 'A' services fall under the disciplinary control of their cadre-controlling authority. The intent is to safeguard against arbitrary action. If ignored, even a well-intentioned decision risks collapsing on procedural grounds.
+
+Which makes this episode rather awkward. Did the ministry fail to check whether it had the legal power to suspend the officer? Or was speed considered more important than procedure? Neither possibility reflects well on the system.
+
+Following orders is no defence, says Kerala High Court
+
+One enduring myth is that babus merely implement the wishes of the political executive. That may be how governments like to describe the relationship. It is certainly not how the Constitution sees it.
+
+The Kerala High Court's sharp observations in the K. Biju case are a reminder of an uncomfortable truth: an IAS officer cannot hide behind the government when exercising a statutory power. If an order bears your signature, it must also bear your judgment. That’s why the court’s insistence on “proper application of mind” matters.
+
+Too often, controversial decisions emerge as though they were assembled elsewhere and simply signed by the officer concerned. Everyone understands how power works. Ministers decide, and babus execute. But execution does not mean surrendering independent judgment. The law expects government officials to ask whether an order is legal, reasoned and defensible.
+
+The court's refusal to treat an unconditional apology as the end of the matter is equally significant. Public administration cannot function based on “sorry” after the fact. If that became the standard, accountability would become optional and due process negotiable.
+
+This should resonate far beyond Kerala. Across India, governments increasingly expect senior officers to defend decisions that stretch, and sometimes cross, legal boundaries. Many comply, convinced that loyalty to the government of the day is part of the job. It isn't. While governments come and go, court judgements and official files outlive them. A babu’s signature, then, is all-important.
+
+Passing UPSC is only the beginning
+
+Every year, lakhs of young Indians pin their hopes on the UPSC examination. For the few who make it to the IAS, the popular perception is that the hard part is over. However, an RTI response from the Lal Bahadur Shastri National Academy of Administration tells a different story.
+
+Twenty-four IAS probationers failed one or more subjects during training between 2021 and 2026. None was dismissed. All eventually cleared the papers. Far from exposing a weakness in the system, these numbers reveal one of its strengths.
+
+The Academy is not in the business of celebrating past achievement. It is preparing future district magistrates, secretaries and policymakers. Clearing the UPSC proves intellectual ability. It does not automatically equip someone to run a district, interpret laws, manage crises or lead large teams.
+
+That is why training matters. More importantly, so do assessments. A probationer who struggles with a subject should be expected to learn, improve and pass. The purpose of training is competence, not punishment.
+
+In a country where examinations are often treated as the finish line, the IAS still recognises that learning cannot end with a rank list. It must continue in the classroom, in the field and throughout a career.
+
+We should take comfort from that. We expect India’s civil servants to make decisions that affect millions. The least we can ask is that they continue to be tested before they are entrusted with that responsibility.
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/dilip-cherian-as-govt-breaks-its-own-rules-officer-posted-at-fci-is-recalled-1971563)
+
+---
+
+### Parsa Venkateshwar Rao Jr | RSS, VHP Should Disown Ayodhya’s Champat, Anil
+*Deccan Chronicle · Opinion*
+
+Three of the main accused in the Ayodhya temple donation theft case -- Champat Rai, Anil Mishra and Lavkush Mishra -- are known to be connected with the Rashtriya Swayamsevak Sangh (RSS) and its subsidiary organisation, the Vishwa Hindu Parishad. And the ruling BJP in Uttar Pradesh, as at the Centre, belong to the group of right-wing Hindu outfits, generally known as the Sangh Parivar. That is, they are affiliated to the parent body, the RSS. The theft of donations can be dismissed as a regular pattern that happens in all places of Hindu worship across the country. But the corruption is then traced back in each case to the individuals and organisations involved in the matter. Logically, the RSS and the VHP should be in the dock on moral grounds, and the BJP should be paying a political price because of its ideological connection with these two organisations.
+
+It is natural then that UP chief minister Adityanath is now pretending that it is a case of regular theft, which the police and the courts will handle, trying to gloss over the deep organisational connections between the RSS, VHP and the BJP, and by extension to the Bajrang Dal. RSS general secretary Dattatreya Hosabale gave a statement as though it is a crime that has nothing to do with the RSS, while Rai, Anil and Lavkush Mishra, and Mohan Rao (from the RSS Karnataka unit) are all Sangh folk. Of course, Mr Hosabale can play the usual Houdini trick by saying that there is no such thing as RSS membership, and that there are no RSS cardholders as in the case of the Communist parties.
+
+Had Rai, the two Mishras and Rao have been either members of the Congress or any other party, the BJP/RSS troll army, including their official spokespersons, would have called out loudly and hoarsely that the Congress and others were corrupt parties. By the same token, the RSS, VHP and BJP should face the brunt of corruption charges in the donation theft matter for individuals connected with their organisations. It is understandable that as a defensive reaction. Yogi Adityanath and Mr Hosabale should distance themselves from the organisational affiliations of Rai and the Mishras. It is plain now that the RSS, VHP and BJP have individuals with a propensity for corruption, like any other organization. Mr Hosabale should have the moral courage to state publicly that the RSS will take care not to recruit individuals like Rao and the Mishras in future because RSS does not want morally tainted individuals. It is not convincing on the part of the RSS office-bearer to pretend that Rai and the Mishras have nothing to do with the RSS, when the RSS and BJP are not willing to make the same distinction between corrupt individuals and the parties and organisations they belong to.
+
+Mr Hosabale should also perhaps clarify whether the RSS is in the business of constructing temples and administering them, if not directly then through its subsidiary, the VHP. That would clear the confusion about what the RSS really is. It calls itself a nationalist organisation, and when asked about its registration, its chief, Mohan Bhagwat, says that there is no registration for Hinduism, thus collapsing the Hinduism into RSS, which is quite illogical. There are more Hindus who do not either recognise or belong to the RSS than the few Hindus who are within its fold. The RSS should stop fooling around with identities to escape social and legal scrutiny. Hinduism is older than the RSS and the VHP, and there are individuals and organisations who are engaged in constructing temples and in administering them. Of course, the RSS and VHP can join the crowd as it were, and say that they too are into the business of constructing temples, and that they are the ones in charge of the Ayodhya Ram Mandir. Why are there so many individuals linked to the RSS and VHP in the Shri Ram Janmabhoomi Teerth Kshetra Trust? What are their credentials? They are not religious and they are not spiritual. They know nothing about temple administration.
+
+Prime Minister Narendra Modi broke the dividing line between the State and religion when he laid the foundation of the temple, and again inaugurated the opening of the temple, not in his individual capacity but as the Prime Minister of the country. It was seen as a political plan to win the election in 2024, which was the first general election fought after the construction of the temple. Of course, it did not work. Uttar Pradesh did not reward the BJP for the temple construction, nor did the rest of the country.
+
+The BJP ended up as a minority party in the Lok Sabha in the 2024 Lok Sabha election. It is now remedying the situation through the defections in the Trinamul Congress after the BJP won the West Bengal Assembly elections in May. So, it looks like the BJP has left behind the Ayodhya Ram Mandir, which had remained part of its core political agenda, along with the abrogation of Article 370 and the setting up of the Uniform Civil Code. Ayodhya’s political dividend had dwindled for ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/parsa-venkateshwar-rao-jr-rss-vhp-should-disown-ayodhyas-champat-anil-1971549)
+
+---
+
+### Defiant China unites uneasy neighbours
+*Deccan Herald · Editorial*
+
+On July 12, the Philippines, the United States, Japan, and 11 other countries reaffirmed their “unwavering commitment” to a “free and open Indo-Pacific” through a joint statement commemorating the 10th anniversary of the South China Sea arbitration ruling. In 2016, the Permanent Court of Arbitration, under the UN Convention on the Law of the Sea (UNCLOS), ruled that Beijing’s maritime claims to economic and historical rights over the South China Sea had no legal basis. On July 11, the European Union released a statement reminding both Manila and Beijing – but more directed towards Beijing – that the ruling must be “respected and fully implemented”. In response, Beijing asked the US and others not to ‘fan the flames’, reiterated that the ruling was a “worthless piece of paper, that is illegal, null, and void”, and repeated that it would like to settle the dispute with the Philippines bilaterally. While the arbitral tribunal’s ruling does not directly reference India, New Delhi’s larger interests are intertwined with many nations at the receiving end of Beijing’s high-handedness in the South China Sea and the Indo-Pacific Region.
+
+India-China relations: Why New Delhi needs a strategic filter for the economic resetThe joint statement and EU’s stance point to wide international support against China’s unilateral actions in the region. Control over the South China Sea will enable power projection across the Indo-Pacific. Over the years, China has gotten into multiple maritime disputes with the Philippines, Taiwan, Vietnam, Malaysia, and Brunei. Heightening tensions, on July 6, it fired an intercontinental ballistic missile (ICBM) from a nuclear-powered submarine in the South China Sea, inviting criticism by many nations over the threat to regional stability. New Delhi must take note of Beijing’s ICBM test and reflect on what it needs to do to close the operational and strategic gap this opens. This has the potential to heighten competition in the Indian Ocean Region and reshape the nuclear balance in the Indo-Pacific.
+
+The reaction to the missile test and the 10th anniversary statements, when read together, show that an increasingly aggressive Beijing is inadvertently bringing other nations in the region together. As China was testing its nuclear capabilities, Australia and Fiji were signing a defence treaty. Recently, New Delhi enhanced its defence cooperation with Tokyo, Jakarta, Manila, and Hanoi. India must focus on improving defence, trade, and diplomatic ties with Southeast Asian and Oceanic nations intimidated by a hostile China. New Delhi’s call for freedom of navigation in the South China Sea and its backing of the 2016 ruling are steps in that direction.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/defiant-chinaunites-uneasy-neighbours-4076404)
+
+---
+
+### Dissent in the age of indifference
+*Deccan Herald · Editorial*
+
+Despite deteriorating health and appeals from multiple quarters, Sonam Wangchuk has refused to end his hunger strike. Amid legal pleas that seek to hospitalise and force-feed him, the activist has maintained that ending the agitation without a response from the Union government would undermine the purpose of the protest. He has urged people to participate in the Cockroach Janta Party (CJP)’s proposed Chalo Sansad march to Parliament on July 20, and called on educational institutions to dedicate that day for experiential education. Wangchuk’s fast signifies more than an act of defiance; it is more than an attempt to exert pressure on Education Minister Dharmendra Pradhan to resign over the mismanagement of examinations and paper leaks. It strikes one as an assertion of moral resolve, seeking accountability and integrity in public life and office.
+
+'I’m not in good shape but not so bad either...don't ask me to break fast': Sonam Wangchuk urges people to join march to Parliament on July 20Wangchuk’s fast has drawn nationwide attention because of the moral authority he enjoys and his reputation as a non-partisan figure above political affiliations. The government has consistently attempted to project him as an Opposition proxy whenever he has voiced his opinion on social or developmental issues. However, these accusations have failed to diminish his credibility. In a broader sense, every moral or social act is political. Wangchuk’s agitation has revived a form of politics that has been losing ground in the recent past. It is the first major strike with a national resonance since the demonstrations against the Citizenship [Amendment] Act (CAA). It has also invited comparisons with Anna Hazare’s 2011 fast. However, given the massive shifts in the country’s socio-political landscape over the past decade, comparisons in terms of outcomes can be unwieldy.
+
+While the reasons to protest have not come down, the space for expressing such dissent has been steadily shrinking. This shift can be traced to a government that has been insensitive, and even hostile, to assertions of free, democratic expression. This raises a crucial question: is satyagraha still a viable tool of protest against an indifferent dispensation? Wangchuk may be providing the answer here. An act of satyagraha that transcends the individual to address a broader social or moral failing can never be futile. Fasting was also a self-cleansing act for Mahatma Gandhi, who remained unconcerned if a protest failed to meet its immediate objective. Every principled action that moves minds and hearts has a social utility. Even in the face of a hostile, unresponsive system, such action can serve as proof that society retains an alive and resilient conscience.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/dissent-in-the-age-of-indifference-4076405)
+
+---
+
+### Assistive tech needs a policy backbone
+*Deccan Herald · Opinion*
+
+What if I said that India’s next unicorn might be a company manufacturing assistive technology devices such as wheelchairs, walking sticks, and hearing aids? Surprised? As a wheelchair user who has closely watched how critical this need is for millions, I have little doubt that it can become a reality, and one of the finest examples of how a leap towards inclusion can simultaneously trigger enormous economic opportunities for a nation. Let me explain how.
+
+The World Health Organisation (WHO) estimates that over 2.5 billion people worldwide require assistive technology; in India, that figure is likely around 50-70 million. Its Global Report on Assistive Technology finds that one in three people globally need assistive products to lead independent lives, a number projected to rise to 3.5 billion by 2050. Yet only 5-15% of those who need such technology have access, due to high costs, poor availability, low awareness, and a shortage of trained personnel. More than 60 countries already have a policy on assistive technology. India does not have one.
+
+India has progressive policies for electric vehicles, semiconductors, and digital public infrastructure. These have created markets, attracted investment, and generated jobs, even unicorns. Yet despite being home to one of the world’s largest populations of persons with disabilities and a rapidly ageing society, India lacks a comprehensive national assistive technology policy.
+
+Globally, assistive technology is increasingly recognised as a policy priority rather than a welfare intervention. India has the opportunity to build a national framework that reflects its scale, demographic realities, and its aspiration to become a global manufacturing and innovation hub. A robust assistive technology ecosystem can improve inclusion and independence for millions of Indians while also driving innovation, entrepreneurship, and job creation. It is likely to unlock a market estimated at $8-10 billion (Rs 75,000-95,000 crore) by 2030, which is why India must work concertedly towards becoming a global manufacturing hub for assistive devices.
+
+Automation to intelligence: How India’s manufacturers must evolveWe have the groundwork. STPI and IIIT-Allahabad are developing an assistive technology hub framework. With an enabling policy environment, this can spur genuine manufacturing success. The Centre’s Rs-1 lakh crore R&D fund to spur industry-led innovation is the kind of instrument that could be channelled towards this sector. India is on an innovation spree, with startups building AI-enabled communication tools, smart mobility devices, and affordable prosthetics. But many innovations never move beyond pilots because financing is scarce, standards remain underdeveloped, and investors lack policy certainty.
+
+For decades, assistive technology in India has been treated largely as a welfare intervention, focused on distributing devices rather than enabling outcomes. Programmes such as the ADIP scheme (Assistance to Disabled Persons for Purchase/Fitting of Aids and Appliances) have expanded access and deserve recognition, but remain centred on one-time provisioning. Receiving a device is only the beginning; unless properly assessed, fitted, maintained, and repaired, even the best technology eventually becomes unusable. The real value of assistive technology lies not in its distribution, but in its sustained use.
+
+This is why assistive technology must be viewed as social and economic infrastructure, not a welfare product. The World Bank and UNDP estimate that low- and middle-income countries lose 3-7% of GDP when persons with disabilities are excluded from education, employment, and social security.
+
+From consumer to producer
+
+A national policy must bring together the ministries responsible for social justice, health, education, skilling, industry, and digital technologies under one framework. It must replace one-time distribution with lifecycle-based service delivery. It should set quality standards that protect users while encouraging domestic manufacturing, strengthen the rehabilitation workforce, and create blended financing and insurance mechanisms.
+
+Over the past decade, India has shown how the right policy can unlock entrepreneurship, crowd in private investment, and build globally competitive industries. With the right architecture, India can nurture domestic manufacturing, encourage innovation, generate skilled employment, and emerge as a global supplier of affordable, high-quality assistive technologies.
+
+The next Census offers an opportunity to better understand India’s disability and functional needs, while the vision of Viksit Bharat 2047 demands a workforce in which every citizen can participate. If India is serious about building an inclusive, developed nation, assistive technology cannot remain on the margins of public policy.
+
+The next decade will determine whether India remains largely a consumer of imported assistive technologies or emerges as a global hub for designing, manufacturing, and exporting affordable, context-specific solutions. The case for this policy, then, is not only about inclusion – it is about competitiveness, productivity, and India’s next phase of economic growth.
+
+(The writer is Executive Director, National Centre for Promotion of Employment for Disabled People)
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
+
+[Read full article](https://www.deccanherald.com/opinion/assistive-tech-needs-a-policy-backbone-4076412)
+
+---
+
+### Take charge of your ego
+*Deccan Herald · Opinion*
+
+Whenever we are in trouble, many of us immediately start questioning, ‘Why me?’ It is during these times that we start questioning the meaning and value of prayer, devotion, and faith. Yet if we spend some time in honest introspection, we are likely to find that we are architects of the situations that we find ourselves in. A candid appraisal of our state will reveal that some negative behaviour or aspect of ours would have triggered the process of our failure or downfall.
+
+An incident in the Linga Puranam endorses this idea.
+
+Once, Ravana was flying around the Himalayas in his Pushpaka Vimanam. The mountains seemed to duck down to make way for him. Ravana enjoyed the fact that even the mountains respected his presence among them. When he came across Mount Kailash, it just stood tall, simply refusing to make way for Ravana.
+
+Being alone is a feeling of fullnessThe king of Lanka was enervated. He felt challenged by the mountain. He decided to pluck it out by its roots and fling it aside. He noticed his revered lord Shiva and goddess Parvathi sitting on the peak.
+
+The sight of the divine couple did not alter the determination of the demon king. He alighted from his Vimanam and proceeded to use his twenty arms to lift the mountain. The sudden movement disturbed the life in and around the mountain. There was a lot of chaos. But Ravana did not seem to be bothered by the commotion.
+
+All the Shiva ganas and the mountain creatures approached the lord for protection. Shiva smiled enigmatically. The lord pressed his little toe a trifle forcefully on the peak.
+
+Ravana, who was at the bottom of the mountain, sensed the pressure. He promptly got into the prayer mode and managed to compose the much-touted Shiva Thandava Stotram despite the stress he was going through. When he could no longer take the strain, he tottered and screamed with anguish as he fell down.
+
+Shiva’s heart went out to his staunch devotee. The lord warned Ravana to mind his ego lest it pave the way to his downfall. Ravana submitted himself meekly and received the potent weapon Chandrahaas as a token of Shiva’s blessing. The fact that the lesson he learned from the episode was short-lived is another story.
+
+[Read full article](https://www.deccanherald.com/opinion/take-charge-of-your-ego-4076344)
+
+---
 
 ## 16 July 2026
 
@@ -232,34 +499,6 @@ The US President Donald Trump, finds himself in a pretty pickle over Iran. He ke
 Iran’s paramilitary Revolutionary Guard, who appear to be running the country more than the formally elected leadership and Ayatollah Mojtaba, who has not been seen in public since the hostilities began on February 28, are threatening to halt all energy exports from the Middle East over the blockade of Iranian ports that the US has put into effect again.The idea of the US charging toll for safe passage through Hormuz seemed too far-fetched in a war without principles for Mr Trump to take a U-turn but the Iranians and the Omanis are convinced that soon they will be able to charge a fee for any ship to cross. Where this will leave the consumer who must pay for fuel at the pump or gas in the kitchen does not seem to bother the combatants.It appears Mr Trump has neither crystal-clear military tactics nor a give-and-take diplomatic strategy for a region that has foxed many a US President, leave alone one who may have ambitions to be declared the most powerful man in world history. But the world suffers, and India too because Mr Trump seems always eager to discuss sanctions on the country’s purchase of Russian oil.The ceasefire agreed to on April 8 is in tatters, the MoU that was to help chart a path for negotiations over 60 days is all but history even as ships in the Hormuz are being attacked sporadically and Iranian military assets on the coastline are being bombarded. And Iran, which may be attracting some counter fire from the region as well, has not been sparing its neighbours from attacks on the grounds that it is aiming only at US bases.It is a mystery how talks that barely took off can restart and aim for the minimum expectations of stopping the bombing and the missiles. Curiously, Mr Trump may be hoping to gain from a defence summit Wednesday at the US Army War College that will be promoting major investments in battlefield technology. Significantly, the US is running out of Tomahawk cruise missiles and Patriot and 'Thaad' interceptors while kamikaze boats are being used in latest missions as a cost and missile saving measure.The only way out of the mess is still the negotiating table, where too issues could get more complicated as Saudi Arabia has not fought shy of expanding it into a bigger regional conflict by attacking the airport in Sanaa, Yemen, which is controlled by the Iran proxies in the Houthis. As Mr Trump oscillates between wanting to do “deals” and threatening to obliterate a whole civilisation, the world is left with the sickening feeling that the missiles will keep flying no matter how keen the regional arbiters are for peace.
 
 [Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-trump-confused-over-way-out-of-iran-mess-1971196)
-
----
-
-### Devi Kar | How To Deal With Punishment In School, As Well As
-In Society At Large
-*Deccan Chronicle · Opinion*
-
-Soon after the recent change of government in West Bengal, some images came up in the media that will haunt me for long. These were of “criminals” and “gangsters” linked to the TMC who had been arrested. They were stripped to their underwear and had a rope tied around their bellies. The comments, including by a strident anchor, were full of glee, expressing the sentiment of “it serves them right”.
-
-I was extremely disturbed by the public reaction. Have we gone back to the days when punishment of criminals also served as entertainment? Acts like throwing criminals to wild animals for the entertainment of the rulers or public hangings were meant to serve as strong deterrents and warnings. In some American states, family members of victims are allowed to witness executions (by lethal injection or the electric chair) from an adjacent viewing room. This business of “closure” can be taken to absurd lengths. It’s natural for families of victims to expect justice, but to claim the right to actually watch the delivering of punishment smacks of a perverse and primitive pleasure. As sensitive and civilised humans we should be above these base and raw emotional needs.
-
-We need to revisit the concept and purpose of punishment. Surely it’s to seek the correction of the culprit, and not just to inflict pain? Many thinkers and educators have written at length on the relative effectiveness of reward and punishment and on positive and negative reinforcement. Generally, it has been accepted that rewards and incentives succeed better in producing a desired behaviour than punishment does.
-
-Punishment is more effective as a deterrent, that is, in stopping undesirable behaviour. However, it also has complex and unhealthy consequences.
-
-A state has a structured set of laws governing crime. So, every person would be aware of the consequences of his misdeeds if they are discovered. In school, this doesn’t always happen and punishment becomes arbitrary. Besides, with children, instead of uniform punishment, an attempt is made to tailor the punishment to suit the misdeed as well as the temperament of the child. The aim is to make them reflect, and dissuade them from repeating such behaviour, while ensuring that relations between the punished and the punisher are untarnished. This sounds difficult to achieve, but children seem to understand when parents and teachers “correct” without anger and malice and perceive these disciplinary measures from the right perspective. Adults too must be careful about feelings when they are doling out punishment; they must be in touch with their own emotions as well as of those they punish.
-
-While I was working on this piece, I got a call from a journalist who was reporting on various types of punishment and on “how strict teachers should be”. This assignment was triggered by a strange but tragic incident of a high school student meeting with sudden death after having gulped down a cup of very hot tea. The blame game started soon, and school students began to protest against the overly strict handling of students by their teachers and the authorities. I am still puzzled about the link between the boy’s unexpected death and the teachers’ strictness towards the boys. Anyway, it is impossible to prescribe an ideal level of strictness.
-
-I do realise punishment is more effective if you are looking for immediate deterrents. But it stops there. Not doing something bad because of fear doesn’t teach children to understand the difference between right and wrong or voluntarily choose to do the former. In a recent chilling murder case, a young dentist had been suspended from practising dentistry for a period of five years because she had posted insensitive comments about the murdered person -- mocking his looks and making other cruel remarks. The insensitive and callous behaviour by young people is a matter of deep concern and the strict and quick action by a national association of medical professionals indicates that we still care about our finer human traits.
-
-The journalist and I also talked about how fragile children were becoming. As I have been in the field of school education for several decades, she wanted me to tell her how the nature of punishment had changed over the years. I told her about boys being caned and girls made to stand on their chairs. Kneeling down and writing down the same sentence a hundred times over were common punishments and I don’t remember boys or girls being “scarred” for life as a consequence. Thankfully, corporal punishment in school was eventually banned.
-
-Today, it seems that the wheel has turned a full circle. Leave alone punish, teachers are reluctant to reprimand their students as parents complain that their children’s sensitivities were being trod upon. The school authorities like to be on the right side of parents.
-
-As the well-known saying goes, discipline helps a child solve a problem while punishment is making a child suffer for having a problem. The real question is:...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/devi-kar-how-to-deal-with-punishment-in-school-as-well-asin-society-at-large-1970987)
 
 ---
 
