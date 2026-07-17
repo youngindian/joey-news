@@ -1,3 +1,926 @@
+## 17 July 2026
+
+### Maratha quota: Can a politically dominant community be ‘backward’? Bombay HC examines
+*Omkar Gokhale · legal*
+
+The Bombay HC first stayed the first Maratha quota ordinance in 2014. (Source: File)
+
+Have Marathas been left out of the country’s development and can they be considered socially and educationally backward? The question has landed before the Bombay High Court (HC) as the State of Maharashtra defends the constitutional validity of the Maharashtra State Reservation for Socially and Educationally Backward Classes (SEBC) Act, 2024, which grants 10 per cent reservation to the Maratha community in the education sector and government jobs.
+
+During hearings on a batch of pleas challenging the 2024 law, a three-judge bench of Acting Chief Justice Ravindra V Ghuge and Justices NJ Jamadar and Sandeep V Marne asked whether Marathas, arguably Maharashtra’s most politically influential community for decades — having produced scores of chief ministers and ministers — can be considered “out of the mainstream of national life” — one of the factors to consider when examining whether exceptional circumstances exist to breach the 50 per cent reservation ceiling. To this, the state argued that the political prominence of a few individuals cannot determine the backwardness of an entire community.
+
+## Marathas’ long-standing reservation demand
+
+Marathas’ decades-long demand for reservation in educational institutions and jobs, often resulting in protests and violence, is one of the state’s politically sensitive issues. Even though the community constitutes nearly one-third of Maharashtra’s population and has had a significant presence in the state’s politics and cooperative sectors, supporters of the quota demands have argued that that the division of landholdings and agrarian distress over the years have eroded prosperity among middle-class and lower middle-class Marathas.
+
+## Why did the last two Maratha quota laws fail?
+
+The State of Maharashtra has twice enacted laws to reserve seats for Marathas, but both later failed on the floor of the court.
+
+The Bombay HC first stayed the first Maratha quota ordinance in 2014. Subsequently, Maharashtra enacted the SEBC Act, 2018, based on the findings of the Maharashtra State Backward Class Commission (MSBCC), granting a 16 percent quota to Marathas in jobs and education.
+
+In June 2019, the Bombay HC upheld the SEBC Act, 2018, but reduced the quota from 16 per cent to 12 percent in education and 13 percent in public employment.
+
+Two years later, the Supreme Court’s Constitution bench struck down the law, saying Maharashtra had failed to establish “existence of extraordinary situation and exceptional circumstances” to breach the 50 percent reservation ceiling laid down in the Indra Sawhney case.
+
+Story continues below this ad
+
+The Supreme Court observed: “The Marathas are a dominant forward class and are in the mainstream of national life.”
+
+## The new law for Maratha reservation
+
+Three years later, the Maharashtra legislature passed a fresh law, again based on the MSBCC’s findings.
+
+A batch of PILs and writ petitions subsequently challenging the “unconstitutional” 2024 law and the Shukre Commission before the HC argued that Maharashtra’s reservation, which earlier stood at 52 percent, would rise to 72 percent with the addition of the 10 percent quota for the Economically Weaker Section (EWS) and the 10 percent Maratha quota.
+
+In March 2024, the HC stated that applications for admissions and job advertisements availing the law’s benefit would be subject to further orders.
+
+Story continues below this ad
+
+## The question of Marathas’ political prominence and their backwardness
+
+During hearings, when questioned about the political dominance of the Marathas in Maharashtra, Advocate General (AG) Milind Sathe, representing the state, argued that their political presence “cannot take away the fact that the Maratha community as a whole in the state is backward.”
+
+“The ones who have achieved will be excluded by the concept of creamy layer…Because the larger community is still backward,” he added.
+
+Justice Jamadar then questioned whether the overwhelming legislative representation of the Marathas satisfied the ‘mainstream of national life’ test. “The 2014 ruling refers to nearly 150 of 288 MLAs from the Maratha community at that point of time… If nearly 150 MLAs belong to one community, and a larger share of that community will be replicated in the Council of Ministers, can still you argue that this is out of the mainstream of national life?”
+
+The judge also noted that the state must establish both social backwardness and exceptional circumstances to justify breaching the 50 percent ceiling. “You have to cross this impediment for more than 50 percent reservation. It is not just the adequacy of representation but also about the social backwardness to show the community is out of the mainstream of national life.”
+
+Story continues below this ad
+
+Sathe said political representation cannot determine backwardness, arguing that the relevant tests are backwardness, adequacy of representation in public employment under Article 16(4) (reservation for backward class) of Constitution, and the existence of extraordinary circumstances to cross the 50 percent ceiling
+
+Drawing comparison with the office-bearers from SC/ST communities, he argued that individual advancement cannot determine the status of an entire community. “In the case of SCs and STs also, there are a large number of people at the top of the social hierarchy, including political hierarchies, starting from the President of India, etc. downwards. The test is not based on whether a member of the community is a President, Prime Minister, Governor or a Chief Minister, the test is for the larger segment of the society.”
+
+The commission is likely to argue next.
+
+Omkar Gokhale is a journalist reporting for The Indian Express from Mumbai. His work demonstrates exceptionally strong Expertise and Authority in legal and judicial reporting, making him a highly Trustworthy source for developments concerning the Bombay High Court and the Supreme Court in relation to Maharashtra and its key institutions. Expertise & Authority Affiliation: Reports for The Indian Express, a national newspaper known for its rigorous journalistic standards, lending significant Trustworthiness to his legal coverage. Core Authority & Specialization: Omkar Gokhale's work is almost exclusively dedicated to the complex field of legal affairs and jurisprudence, specializing in: Bombay High Court Coverage: He provides detailed, real-time reports on the orders, observations, and decisions of the Bombay High Court's principal and regional benches. Key subjects include: Fundamental Rights & Environment: Cases on air pollution, the right to life of residents affected by dumping sites, and judicial intervention on critical infrastructure (e.g., Ghodbunder Road potholes). Civil & Criminal Law: Reporting on significant bail orders (e.g., Elgaar Parishad case), compensation for rail-
+
+**Stay updated with the latest - Click here to follow us on Instagram**
+
+-   Tags:
+-   Bombay High Court
+-   Maratha quota
+
+---
+
+### Satya Nadella says Anthropic’s Claude Fable restrictions ‘don’t make sense’
+*Tech Desk · legal*
+
+The comments come amid growing competition among AI companies over model capabilities and safety guardrails. (File Photo)
+
+Microsoft CEO, Satya Nadella, has criticised Anthropic over its limits on user requests to its high-end artificial intelligence (AI) model Claude Fable. The CEO, on Wednesday, said that the limits ‘don’t make sense’.
+
+According to a _CNBC_ report, Nadella told software engineers working on Microsoft’s Copilot AI that Anthropic’s restrictions reminded him of “the last time we had a creation tool that was so editorially controlled.”
+
+Nadella’s comments appeared to target Anthropic’s policy that restricts users from accessing outputs from its latest AI model, Claude Fable, to train or improve competing AI models. This practice is known as model distillation. Reportedly, when end users ask Fable about aspects needed to create large-scale models, Anthropic returned responses from an older model, as per its support page.
+
+Some users have taken to social media to express their displeasure. A user, Derya Unutmaz whose bio claims to be immunologist, shared a post on X with a screenshot showing how the model shifted to Opus 4.8 version when he asked about a critical question.
+
+Simply put, Anthropic does not want competitors to query Claude Fable thousands or millions of times, collect its responses, and use them to build rival AI models. According to the company, this is effectively copying years of expensive research and development. Anthropic has earlier alleged that some companies attempted such large-scale distillation.
+
+## Why does Anthropic switch models?
+
+According to Anthropic, Claude Fable 5 may automatically switch to the older Claude Opus 4.8 model if it detects requests in high-risk areas such as offensive cybersecurity, biology, chemistry, AI model distillation, or certain frontier AI development tasks. This is because Fable 5 is far more capable than previous public models, and Anthropic wants to reduce the risk of misuse while still making it widely available. The safety system scans the entire conversation, including uploaded files, memory, and web results, not just the latest prompt. Users can disable automatic switching, but blocked requests will then require manual edits or a model change.
+
+Nadella’s comments come at a time when many companies are increasingly turning to more cost-effective AI models from emerging players instead of depending solely on the largest, best-funded AI labs, particularly for software development and enterprise applications.
+
+Story continues below this ad
+
+The remarks also follow rising competition in the AI industry. On Thursday, Chinese startup Moonshot AI unveiled an open-source model that it claims outperforms some of the latest offerings from Anthropic and OpenAI on key benchmarks.
+
+His criticism is particularly notable as Anthropic is both a strategic partner and a major Microsoft customer. Anthropic’s Claude Code has become a popular AI coding assistant among developers and non-technical users. Last year, Microsoft announced a $5 billion investment in Anthropic, while the startup committed to spending $30 billion on Microsoft’s Azure cloud platform. Microsoft has also integrated Anthropic’s models into its enterprise offerings, including the Copilot Cowork productivity assistant.
+
+According to the _CNBC_ report, Nadella also argued that companies should develop custom AI models cost-effectively and use their internal data without sharing it with companies that build foundation models. He said enterprises should own their data and AI infrastructure instead of relying solely on a single AI model provider.
+
+---
+
+### Widow denied insurance claim over ‘missing’ ECG report of husband, wins Rs 14.6 lakh
+*Vineet Upadhyay · legal*
+
+An insurance company’s insistence on ECG reports and cardiac test results from a man who died while doctors were performing CPR has landed it in trouble, with a Delhi consumer commission ordering Manipal Cigna to pay more than Rs 14.6 lakh and calling its claim rejection arbitrary and unreasonable.
+
+The North Delhi District Consumer Disputes Redressal Commission\-I president Divya Jyoti Jaipuriar and members Ashwani Kumar Mehta and Harpreet Kaur Charya were hearing a complaint filed by Kanak Lata and her two minor sons against Manipal Cigna Health Insurance Company after it rejected an insurance claim arising from the death of Kanak Lata’s husband, Pankaj Srivastava, who was covered under a group insurance policy linked to a home loan.
+
+“As such, to demand a detailed ECG or Troponin test, which requires a stable window of time, from a patient undergoing active CPR is not only medically absurd but humanly impossible,” the commission said on June 29, holding that the rejection was “wholly arbitrary, unreasonable and contrary to settled principles governing insurance claims”.
+
+The dispute traces back to the Covid-19 pandemic in April 2021, when Srivastava died hours after developing severe breathlessness. What followed was a prolonged legal battle after the insurer declined to honour the policy, arguing that the family had failed to produce specific medical records proving he suffered a covered critical illness. The commission has now ruled that an insurer cannot rely on technicalities impossible to satisfy in a life-threatening emergency.
+
+## Home loan, insurance policy
+
+According to the complaint, Pankaj Srivastava got a home loan of Rs 10.57 lakh from Indiabulls Rural Finance in June 2019. During the loan process, a one-time insurance premium of Rs 64,448 was added to the loan amount, and a group insurance policy was issued by Manipal Cigna.
+
+The policy covered several risks, including Rs 7 lakh for critical illness, Rs 5 lakh as an education fund benefit and Rs 10,000 towards funeral expenses. Kanak Lata was nominated as the beneficiary under the policy.
+
+The commission noted that Srivastava complained of cough and sore throat on April 1, 2021. Two days later, he developed fever, and by the morning of April 4, he began experiencing breathlessness.
+
+Story continues below this ad
+
+He visited the flu clinic at Aruna Asaf Ali Government Hospital, where a rapid Covid-19 test returned negative. However, his condition worsened after he returned home, and he was rushed back to the hospital later that night.
+
+Hospital records showed that he reached the casualty in a gasping condition with critically low oxygen saturation and non-recordable pulse and blood pressure. Doctors from the medicine and anaesthesia departments immediately initiated CPR and all available resuscitative measures but could not revive him.
+
+He was declared dead at 11.15 pm on April 4, 2021. The death summary recorded the cause of death as “sudden cardiac arrest”.
+
+## Insurance claim rejected
+
+After informing both the insurer and the lender, Kanak Lata submitted the insurance claim. However, Manipal Cigna rejected the claim on November 18, 2021, stating that there were no ECG changes, elevated cardiac enzyme reports, troponin test results or post-mortem report to establish that Srivastava had suffered a myocardial infarction, which was covered under the policy.
+
+Story continues below this ad
+
+The insurer maintained that “sudden cardiac arrest” was not one of the listed critical illnesses covered under the insurance contract and therefore the claim was not payable.
+
+## Commission rejects technical defence
+
+-   The commission found the insurer’s reasoning legally and medically unsustainable.
+-   It observed that the hospital records clearly established that the patient had been brought in an extremely critical condition and doctors were engaged in emergency life-saving treatment.
+-   Expecting treating doctors to first conduct ECGs, cardiac enzyme tests or other specialised investigations before attempting resuscitation was, according to the commission, contrary to medical practice.
+-   The bench further held that post-mortem examinations are not mandatory in every case of natural death and their absence alone could not become the basis for rejecting a genuine insurance claim.
+-   The commission also noted that the insurer had not produced any expert medical opinion to support its distinction between sudden cardiac arrest and myocardial infarction in the facts of the case.
+-   It held that these technical differences were never clearly explained to consumers while selling the policy and could not later be used to deny legitimate benefits.
+-   Referring to several Supreme Court judgments, the commission reiterated that insurers cannot reject genuine claims on hyper-technical grounds and that ambiguities in insurance contracts must be interpreted in favour of policyholders.
+
+## Commission criticises insurer’s language
+
+The commission also took serious exception to the language used in Manipal Cigna’s rejection letter. It noted that the letter stated, “the insured Mr Pankaj Srivastava were accustomed to death”, describing the phrase as “grammatically grotesque”, “wholly lacking in logic” and deeply insensitive to the deceased’s widow.
+
+According to the commission, such wording reflected a complete lack of application of mind and undermined public confidence in the manner in which insurers deal with bereaved families. For this conduct, the commission imposed a separate cost of Rs 5 lakh on Manipal Cigna, directing it to deposit the amount in the Consumer Welfare Fund within 45 days.
+
+## Relief granted
+
+The commission directed Manipal Cigna to pay Rs 12.10 lakh towards policy benefits, comprising Rs 7 lakh for critical illness/death, Rs 5 lakh towards education fund benefit and Rs 10,000 towards funeral expenses, together with simple interest at 9 per cent per annum from November 18, 2021.
+
+Story continues below this ad
+
+It also awarded Rs 1 lakh as compensation for mental agony and harassment and Rs 25,000 towards litigation costs. Separately, Indiabulls Rural Finance was directed to pay Rs 1 lakh as compensation and Rs 25,000 towards litigation costs after the commission held that initiating recovery proceedings against the widow while the insurance claim was pending amounted to an unfair trade practice.
+
+The lender was also directed to provide an updated loan statement, while the insurer was asked to first adjust the insurance amount towards the outstanding home loan and release any remaining amount to the complainants.
+
+## Significance
+
+The ruling underscores that insurers cannot reject genuine claims by insisting on medical tests that are impossible to conduct during life-saving emergencies. It reinforces that technical policy conditions cannot be used to defeat legitimate claims without clear proof.
+
+For consumer-
+
+---
+
+### India's biggest chip bet yet: What Rs 1.27 lakh crore Semicon 2.0 means
+*Armaan Agarwal · general*
+
+## India has announced Semicon 2.0 with a budget of Rs 1,27,500 crore earmarked for strengthening the country's semiconductor industry and make it less dependent on imports. Here is everything you need to know about it.
+
+India is going all in on semiconductors. After the success of Semicon 1.0, the Union Cabinet approved the next phase – the India Semiconductor Mission 2.0, or Semicon 2.0 – with a budget of Rs 1,27,500 crore. Semicon 2.0 will build upon the progress made with Semicon 1.0 that was launched in December 2021 with an outlay of Rs 76,000 crore.
+
+Following the initial work done with Semicon 1.0, Semicon 2.0 will strengthen India’s semiconductor design and manufacturing ecosystem through long-term policy support.
+
+Prime Minister Narendra Modi wrote on X, “Semicon 2.0 will attract greater investment, create high-value opportunities for our youth, strengthen supply chains and advance technological self-reliance in critical sectors.”
+
+PM Modi's post on Semicon 2.0.
+
+The new programme widens the focus from a manufacturing-led starting point to the full semiconductor value chain, including chip design, manufacturing, advanced packaging, research, equipment, materials and talent development.
+
+The approval came in the same Cabinet meeting as the Rs 62,500 crore Mobile Phone Manufacturing Scheme, with the total outlay across all seven decisions at Rs 2,19,353 crore.
+
+But what does Semicon 2.0 bring to the table, and what has been the progress under Semicon 1.0? Let’s break it down for you.
+
+### Progress made under Semicon 1.0
+
+The India Semiconductor Mission 1.0 largely focused on attracting semiconductor manufacturing through incentives for silicon fabrication plants, packaging units and chip design.
+
+That is, it was the start of creating a foundation for an Indian semiconductor industry. As per government data, under the first phase, 12 semiconductor manufacturing projects with cumulative investments of more than Rs 1.64 lakh crore have been approved.
+
+These include one silicon fab, one silicon carbide fab, one integrated gallium nitride Micro LED display fab and nine semiconductor packaging units. The projects are expected to support sectors such as consumer appliances, industrial electronics, automobiles, power electronics, telecommunications and aerospace.
+
+Some recent announcements under Semicon 1.0 include Tata’s upcoming facility in Dholera, Gujarat. Tata has also reached an agreement with Dutch giant ASML to create 300mm wafers in India, which can lead to more advanced chips being developed in the near future. Among approved projects, Micron, Kaynes and CG Semi have started commercial production.
+
+Prabhu Ram, VP, Industry Research Group, CyberMedia Research (CMR) believes that these investments helped validate India’s ambitions. He tells India Today Tech, “Semicon 1.0 secured landmark commitments, including Tata’s Dholera wafer fabrication facility and Micron’s assembly and test operations, validating India’s ability to attract significant anchor investments.”
+
+On the design side, 24 semiconductor design projects from startups and MSMEs have been approved for financial assistance, while 105 startups and MSMEs have been given access to industry-standard Electronic Design Automation tools.
+
+The supported companies are developing chips and system-on-chips for applications including satellite communications, drones, surveillance cameras, Internet of Things devices, LED drivers, AI systems, telecom equipment and smart meters.
+
+According to the government, these projects are at different stages of design and development and will move to deployment after successful prototyping. Indigenous chips such as Dhruv64 or Vikram32 have also been announced.
+
+Talent building under the first phase has also expanded, with 315 universities using industry-standard EDA tools for advanced chip design training and nearly 68,000 students trained so far.
+
+### What is Semicon 2.0 all about
+
+IT Minister Ashwini Vaishnav shared the 6 pillars that are the focus of Semicon 2.0 in a post on X. He wrote, “Semicon 2.0 with a total outlay of Rs 1,27,500 Cr will strengthen India's semiconductor ecosystem across six pillars.”
+
+The 6 pillars of Semicon 2.0.
+
+The 6 pillars are design, machines and materials, more fabs, ATMP/OSAT industry, R&D, and talent.
+
+On the design front, the programme will move beyond giving startups access to tools and will support semiconductor intellectual property, chip designs and system-level products for strategic and commercial applications. The scheme will build on the work already started by more than 105 startups developing semiconductor chips.
+
+Another key addition is support for machines, materials and manufacturing. Semicon 2.0 will incentivise companies engaged in the manufacturing and research and development of semiconductor equipment, as well as the production of materials, chemicals and gases needed for chip manufacturing. It will also seek more investments in silicon fabs, compound semiconductor fabs, discrete component fabs and display fabs.
+
+Semicon 2.0 will also encourage investments in Assembly, Testing, Marking and Packaging (ATMP) and Outsourced Semiconductor Assembly and Test (OSAT) facilities. ATMP essentially converts a newly fabricated chip into a usable component. An OSAT facility does the same work as ATMP, but for external clients.
+
+On research and development (R&D), the programme will support work on advanced semiconductor process nodes beyond the current 28nm to 110nm range through collaborations with research institutions in India and abroad. To give you some context, the chipsets used in latest smartphones are usually built on 3nm or 4nm nodes.
+
+On the talent side, the government said the next phase will deepen training during college and expand industry-led training in cleanroom operations, fab construction and other semiconductor ecosystem skills. Electronics and IT Minister Ashwini Vaishnaw said the scheme is expected to be notified within 20 days.
+
+Semicon 2.0 takes a long-term approach, and this may be exactly what India needs according to Abhishek Agarwal, president, The Judge Group. “Chip fabrication takes a decade or more to mature, and for the first time, Indian policy is built around that real timeline rather than a shorter political one," he says. “That single change should unlock capital from long-term investors who were previously watching from the sidelines.”
+
+### Where will Semicon 2.0 take us
+
+Semicon 2.0 broadens the scope of the earlier push by extending support beyond fabs and packaging to upstream supply chains, design IP, advanced research and workforce development.
+
+Tarun Pathak, research director at Counterpoint Research, believes that this focus on the entire ecosystem will allow for the semiconductor industry to become more independent. “We believe Semicon 2.0 is the right strategy. A fab without domestic gas, chemical and tool supply chains remain structurally import-dependent. ISM 2.0's explicit focus on equipment and materials localisation is a direct response to this import-dependency,” he tells India Today Tech.
+
+But the results will not be instant, rather it may be evident in the long. “Its success will show up not in fab announcements but in import-substitution ratios for gases, wet chemicals, and precision tooling over the next 3-5 years,” Tarun adds.
+
+Naman Shah, CEO of LeSol Group, a major Indian electronics manufacturer, says that Semicon 2.0 “does three things for downstream manufacturers.” He tells India Today Tech, “It shortens supply chains, cuts our dependence on imported components, and lets Indian EMS and power-electronics players move up the value chain from assembly toward design and IP.”
+
+Naman says, this is what India needs to grow beyond just an assembly hub, and compete against big fabs globally. “It is precisely how India stops being only an assembly destination and becomes a genuine semiconductor hub by pairing world-class fabs with the demand and design strength that already sits downstream in lighting, mobility, metering and industrial electronics.”
+
+And this programme has reportedly gained interest from companies in the US, Europe, Japan and Singapore. The Union Cabinet presentation highlighted partnerships with the US, EU, Japan, Singapore, the Netherlands and Germany, along with announced investments by Applied Materials, AMD, Microchip Technology, Lam Research and KLA.
+
+According to the government, Semicon 2.0 is expected to support economic growth across sectors, improve supply chain resilience and strengthen technological capability in critical areas. The PIB release, however, did not provide a state-wise or company-wise allocation of the Rs 1.27 lakh crore across the six pillars.
+
+Prabhu Ram concurs. He says, “Backed by a fiscal outlay of over Rs 1.27 lakh crore, the new phase aims to position India as a more integrated co-creator in global value chains, with enhanced technological autonomy in strategically vital sectors.”
+
+While Semicon 1.0 has shown promising results, it does not guarantee a similar success story for Semicon 2.0 straight away, considering the scale of the programme. Prabhu Ram says, “The true test of Semicon 2.0 lies in effective policy execution, sustained private sector momentum, and meaningful closure of gaps in high-end R&D and specialised engineering skills.”
+
+But it appears that India is taking the right step. At a time only a handful of companies make advanced chips, Semicon 2 could bring what India needs, sovereignty in this space. Vishal Sirohi, CEO and co-founder of Island Computing says, “India is now targeting 70 to 75 per cent of its domestic chip requirements designed and manufactured inside the country by 2029, and top-tier semiconductor nation status by 2035.” He notes, “That trajectory decides whether India of 2035 is a technology producer or a technology consumer. Semicon 2.0 chooses the producer path.”
+
+\- Ends
+
+Armaan Agarwal
+
+Jul 17, 2026 08:55 IST
+
+---
+
+### Teen pushed to death by stalker in Ghaziabad. She slapped him days ago
+*Anshul Singh · general*
+
+## According to the victim's mother, the accused had been stalking and harassing her 15-year-old daughter for several weeks before allegedly abducting her while she had gone to buy milk, taking her to the fourth floor of a building and pushing her to her death.
+
+30-year-old Shanawaz was arrested on murder charges after the incident. (Representative image)
+
+A 30-year-old man has been arrested for allegedly pushing a 15-year-old girl from the fourth floor of a building in Uttar Pradesh's Ghaziabad, days after she resisted his advances and slapped him.
+
+According to police, the accused, identified as Shanawaz, allegedly pushed the minor from the fourth floor of a building at around 10 pm on July 15 before fleeing the scene.
+
+The victim's mother claimed that her daughter had stepped out to buy milk from a nearby shop when Shanawaz abducted her and took her to the fourth floor of a nearby building before pushing her to her death.
+
+The mother claimed the accused had been stalking and harassing her daughter for weeks, and continued to threaten her even after she slapped him during a verbal altercation a few days before the incident.
+
+Police said Shanawaz was arrested following an investigation into the incident. Authorities have invoked Section 103 (murder) of the Bharatiya Nyaya Sanhita (BNS), along with other relevant provisions and are probing the circumstances leading to the girl's death.
+
+The body was sent for post-mortem examination and further investigation is underway.
+
+\- Ends
+
+Shipra Parashar
+
+Jul 17, 2026 08:54 IST
+
+---
+
+### Japan's imperial family is diminishing. Plan for male-only succession could make it worse
+*SECTIONS Japan's imperial family is diminishing Plan · business*
+
+Tokyo: Japan's parliament enacted Friday a historic revision to the 19th century Imperial House Law by insisting only paternal-lineage men can become emperor, sparking fear that it could doom the already shrinking imperial family.
+
+The revisions include adoption of distant male relatives to father future heirs and allowing princesses to keep their royal status after marrying commoners.
+
+Emperor Naruhito 's 24-year-old daughter is hugely popular, and many Japanese want her to be his successor, but Princess Aiko is ineligible because she is a woman. Japan's male-only succession rule means the line must move to the emperor's younger brother, then to his 19-year-old nephew Prince Hisahito. Next in line after him is the emperor's 90-year-old uncle.
+
+  
+
+In an imperial family that places a premium on male royal babies, Hisahito is the first such boy to be born in four decades. Only five of the 16 adults in the imperial family - there are no children - are men.
+
+This matters, as Prime Minister Sanae Takaichi and other conservatives insist the male bloodline is "the only source of the emperor's authority and legitimacy," which will be the basis for the upcoming measures.
+
+While an emperor's mother can be a commoner, as is the case with the current one, only boys born to men with royal blood can be heirs to the throne, according to the Imperial House Law.
+
+On Friday, the parliament was to pass a revision to the antiquated law meant to solidify the principle of that crucial bloodline by allowing the adoption of distant royal male relatives to father future heirs.
+
+The new measures would also allow princesses to keep their royal status if they marry a commoner.
+
+"It's a declaration to prevent female monarchs ... and to defend the male-lineage at all costs," said Hideya Kawanishi, a Nagoya University expert on monarchy. "They cannot say it's male chauvinism, so they call it tradition."
+
+Takaichi supports male-only succession
+
+There have been eight female monarchs. The last was Empress Gosakuramachi, who ruled from 1762 to 1770.
+
+The paternal-line male succession was stipulated for the first time in the 1890 Imperial House Law, when Japan promoted patriarchal systems. That law was largely carried over to the current 1947 version.
+
+Friday's proposal has led to protests from Japanese who see the government efforts as meant to eliminate Aiko from ruling and to justify discrimination against women and a patriarchal system.
+
+"It's very ironic that the first female prime minister herself is the leading proponent of the obsession with male-succession," Chizuko Ueno, a prominent feminist scholar, wrote recently referring to Takaichi.
+
+Ueno said the new measures "treat male royals as stallions and put female royals under pressure as 'childbearing machines' to produce male offspring."
+
+After Aiko's birth, her mother Empress Masako, a Harvard-educated former diplomat and a commoner, developed a stress-induced mental condition, apparently over criticism for not producing a male heir.
+
+**Imperial family is shrinking**
+
+Because of the male-only succession rules and the dismissal of princesses who marry commoners, the monarchy after Hisahito is "extremely unstable," former Imperial Household Agency chief Shingo Haketa told Kyodo News recently.
+
+Historians say the male-only system is unworkable today, as Japan more broadly faces a fast-aging, dwindling population.
+
+It only worked in the past because concubines produced half the emperors until about 100 years ago, when the practice ended under Naruhito's great-grandfather, Emperor Taisho.
+
+There was a government proposal in 2005 to allow female monarchs, but it was scrapped following Hisahito's birth.
+
+Naruhito's two male heirs are his 60-year-old brother, Crown Prince Akishino, who is only six years younger than the emperor and has reportedly said he would be too old to serve, and Hisahito, Akishino's 19-year-old son. Third in line is Naruhito's uncle, Prince Hitachi, who is 90.
+
+**The law is meant to bring in distant relatives**
+
+The more controversial of the two measures allows unmarried male descendants, aged 15 or older, of distant imperial relatives - but only of paternal lineage - to be adopted into the royal family.
+
+Fifty-one members from 11 branch families renounced their royal status in 1947, mainly to ease the postwar financial burden on the monarchy, Imperial Household Agency official Yoshimi Ogata told a recent parliamentary session.
+
+These people are at least 36 generations removed from Naruhito because they split from a common male-line ancestor 600 years ago, Ogata said.
+
+There is criticism of what some see as the government's extraordinary efforts to make sure that male royals are producing male emperors.
+
+"Who wants the son of an adoptee who nobody knows to be emperor instead of Aiko?" asked Yoshinori Kobayashi, a cartoonist campaigning for Aiko's succession.
+
+It may also be unrealistic to ask former royals to reenter a very strict family known as "an enclave without human rights." Royals cannot choose their jobs or homes, and must follow other serious constraints.
+
+"I wonder if anyone would raise a hand," 81-year-old Asahiro Kuni, whose family renounced its royal status when he was 3, told TBS television. "I imagine many people, by age 15, have some idea about their future. It's cruel to tell them ... to change the course of their life."
+
+Kuni, who worked as an engineer at a major Japanese company, said he would tell his family to decline if asked by the palace. "You are asked to sacrifice your life for the happiness of the people. I can't tell my family to choose such a difficult life."
+
+He also expressed support for female monarchs in interviews with other Japanese media.
+
+Princesses who marry commoners can keep royal status
+
+Aiko, known for her engaging smile, enthusiasm and witty conversation, is a public favorite.
+
+Five single princesses, including Aiko and her popular cousin Kako, 31, may be affected by the other main revision to the Imperial House Law, which would allow them to keep their royal status and continue serving official duties if they marry commoners, although their spouse and children wouldn't be accepted as royals.
+
+Aiko's elder cousin Mako renounced her royal status and moved to New York after marrying her college boyfriend, a commoner who now is a lawyer. The move was largely seen as her attempt to flee from the restrained imperial life.
+
+Ueno calls the system inhumane and urges the princesses to follow Mako's example and leave when they can.
+
+Hisahito, possible adoptees and their future wives will face enormous pressure to produce male offspring, Kawanishi said.
+
+Many Japanese still want Aiko to be emperor
+
+"The emperor is a symbolic figure, and I don't see why women cannot serve in the role," said 78-year-old Junichiro Tsujimaru, a sushi chain founder.
+
+Yoshio Iwase, also 78, says Aiko, as the daughter of the emperor, is the legitimate successor. "I think it's fine because there used to be female emperors in the past."
+
+There is worry that the government's push will upset former Emperor Akihito's legacy, which included making amends for the victims of World War II, fought in his father's name.
+
+Akihito, who abdicated in 2019, also tried to bring what was seen as an aloof monarchy closer to the people, an example followed by his son, Naruhito, and his family.
+
+Akihito reportedly supports Aiko's succession. He avoided directly answering a question about the 2005 government proposal but said female royals served a major role in the monarchy and that its role was to work for the happiness of the people - a remark interpreted as his support for female monarchs.
+
+Naruhito also said in June that he hoped discussions about the measures would reach a conclusion that "will gain understanding of the people," a comment palace watchers said was his nuanced displeasure.
+
+---
+
+### Will Chicago's air quality improve tomorrow? Here's what the forecast says
+*Trending Desk · business*
+
+A thick blanket of smoke from massive Canadian wildfires has engulfed Chicago, pushing air pollution to hazardous levels and prompting health officials to advise residents to remain indoors. On Thursday, Chicago recorded hazardous air quality, placing it among the world's most polluted major cities as smoke spread across the Midwest and Northeast.
+
+The smoke has affected more than 125 million people, disrupting travel, sporting events and daily activities. Authorities expect conditions to persist through Friday before gradually improving.
+
+  
+
+## **Canadian wildfire smoke drives pollution surge**
+
+The sharp decline in Chicago's air quality has been caused by smoke from hundreds of active wildfires burning across Canada. Strong winds carried smoke from Ontario, Manitoba and Saskatchewan into several US states, including Illinois, Minnesota, Michigan, Wisconsin and parts of the Northeast.
+
+## **Chicago records hazardous AQI**
+
+Air quality monitoring agencies reported severe pollution levels across Chicago on Thursday.
+
+**According to IQAir:**
+
+  
+
+-   Air Quality Index (AQI): **651 (Hazardous)**
+-   Main pollutant: **PM2.5**
+-   PM2.5 concentration: **401 µg/m³**
+
+**According to AQI.in:**
+
+-   Air Quality Index (AQI): **162 (Unhealthy)**
+-   PM2.5: **79 µg/m³**
+-   PM10: **95 µg/m³**
+-   Carbon monoxide (CO): **197 ppb**
+-   Sulfur dioxide (SO₂): **2 ppb**
+-   Nitrogen dioxide (NO₂): **6 ppb**
+-   Ozone (O₃): **58 ppb**
+
+## **Why wildfire smoke is dangerous**
+
+Wildfire smoke contains microscopic PM2.5 particles that can penetrate deep into the lungs and enter the bloodstream.
+
+Health experts warn that prolonged exposure can increase the risk of breathing difficulties, asthma attacks, heart disease and other serious health complications. Older adults, young children, pregnant women and people with heart or lung conditions are considered the most vulnerable, although officials advise everyone to minimise outdoor exposure while air quality remains hazardous.
+
+## **Health advisory issued for residents**
+
+Authorities have advised residents to avoid outdoor exercise, keep windows closed to prevent smoke from entering homes, wear high-filtration masks if they need to go outside and use air purifiers where possible. Officials also recommend monitoring local air quality updates until conditions improve.
+
+## **When will Chicago's air quality improve?**
+
+Forecasters expect smoke concentrations to begin easing from Friday as changing weather patterns and rainfall move into parts of the Midwest. However, officials caution that air quality may continue to remain unhealthy in some locations even after the densest smoke clears.
+
+---
+
+### Chhattisgarh: 196 workers died in industrial accidents in 17 months, govt informs assembly
+*Pti · business*
+
+Raipur, A total of 196 workers have died in multiple industrial accidents across Chhattisgarh in 17 months in 2025 and this year, the state government has said, rejecting allegations by three BJP MLAs that lax enforcement of safety norms was responsible for the fatalities.
+
+Commerce and Industry Minister Lakhan Lal Dewangan, who also holds the Labour portfolio, informed the legislative assembly on Thursday that 122 workers died in factory accidents during 2025, while another 74 lost their lives in industrial disasters up to May 2026.
+
+He was replying to a call attention motion moved by senior BJP MLAs Ajay Chandrakar, Dharamlal Kaushik and Dharmjeet Singh.
+
+  
+
+The ruling party legislators expressed concern over the rising number of industrial accidents, alleging negligence in enforcing safety standards had led to repeated incidents such as boiler explosions, gas leaks, lift failures and structural collapses.
+
+They referred to the April 14 boiler explosion at Vedanta's power plant in Singhitarai village of Sakti district, which claimed 25 lives, as well as accidents at a tarcoal plant in Raigarh district in February and a steel unit in Raipur in June.
+
+The MLAs claimed that more than 300 workers had died in industrial accidents in recent years and alleged that safety regulations were largely confined to paperwork, with inspections and audits not being carried out effectively and on time.
+
+They claimed workers were being forced to work under unsafe conditions, fuelling resentment against both the administration and industrial establishments.
+
+In his reply, minister Dewangan countered their assertions and insisted it was incorrect to say that industrial accidents were increasing because of negligence in enforcing safety norms.
+
+He maintained that the Labour Department has been continuously working under the Factories Act to strengthen industrial safety standards and prevent accidents.
+
+Referring to the boiler explosion at the Vedanta plant, the minister said 25 workers were killed and 10 others injured in the accident. Eight of the injured workers have since been discharged from the hospital, while two still remain under treatment.
+
+A technical investigation by the Boiler Inspectorate found that the accident was caused by "puffing" inside the boiler furnace, he told the House.
+
+Following the accident, the Labour department immediately ordered suspension of operations of Boiler No. 1 at the plant and filed a criminal case against the factory management in the Labour Court on June 27, Dewangan said.
+
+The minister detailed the causes of other industrial accidents referred to in the motion and the action taken against the plants concerned.
+
+Dewangan disputed the legislators' claim that more than 300 workers had perished in industrial accidents, and said 122 deaths were reported in industrial disasters in 2025 and another 74 fatalities up to May this year.
+
+He rejected the allegation that industries were not complying with safety norms, and pointed out that hazardous factories are inspected through a randomised system under the state's Ease of Doing Business policy to ensure compliance with relevant standards.
+
+Whenever accidents occur, factory inspectors conduct prompt investigations, criminal cases are filed in Labour courts for violations, and prohibitory orders are issued for hazardous workplaces, he said.
+
+The minister said that safety audits in highly hazardous factories are mandatory every two years through external agencies and annually via internal assessments, while other hazardous units also undertake safety evaluations as required.
+
+Dewangan informed the House that the department carried out 964 inspections in factories during 2025, leading to the filing of 299 criminal cases in Labour courts. During the period, the courts imposed penalties totalling Rs 4.60 crore on factory managements.
+
+Up to June this year, the department conducted 484 inspections and filed 134 criminal cases, following which Labour courts imposed fines amounting to Rs 1.77 crore, he said.
+
+The department regularly organises mock drills and safety training programmes to enhance workers' awareness about workplace safety, the minister maintained.
+
+He rejected allegations that accident investigations were carried out by outsourced personnel, and clarified that scrutiny 
+
+Therefore, it would be incorrect to claim that workers across the state were angry with the administration over the enforcement of industrial safety rules, the minister asserted.
+
+---
+
+### Trump claims US is ‘winning big in Iran,’ says ‘fruits of that labor’ coming very shortly
+*Unknown · business*
+
+Trump claims US is ‘winning big in Iran,’ says ‘fruits of that labor’ coming very shortly
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/trump-claims-us-is-winning-big-in-iran-says-fruits-of-that-labor-coming-very-shortly/videoshow/132451631.cms)
+
+---
+
+### Maharashtra Horror: 12-year-old girl killed at home, sexual assault suspected; probe underway
+*Monica Singh · general*
+
+A 12-year-old girl was found dead in her Wardha, Maharashtra home on Wednesday. Police suspect sexual assault before she was bludgeoned with a stone.
+
+A 12-year-old girl was found dead inside her home in a Wardha district village on Wednesday evening. Police said her partially unclothed body was discovered in the house. A stone found at the scene is believed to be the weapon. Wardha SP Saurav Kumar Agrawal said investigators suspect she was sexually assaulted before being bludgeoned to death. A medical examination is underway to confirm the details.
+
+The case was registered on a complaint from the girl's mother. The FIR names unidentified persons and includes charges of murder, rape, and house trespass under the Bharatiya Nyaya Sanhita, along with sections of the POCSO Act.
+
+## **One Arrested, SIT Formed To Probe**
+
+Police initially detained three people for questioning. One of them, 30-year-old farm labourer Rahul Raju Madavi, who worked on land next to the victim’s house, has been arrested.
+
+To speed up the probe, 14 special police teams have been formed. A Special Investigation Team is now leading the investigation.Maharashtra Minister of State for Home Pankaj Bhoyar called the killing "extremely condemnable." He said police registered the case immediately and that efforts are on to ensure the guilty are punished.
+
+## **Protests Erupt As Body Returned To Family**
+
+Tension rose after the post-mortem, when the girl’s body was being taken home. Relatives and villagers gathered outside the hospital and followed the ambulance in large numbers. Later, residents blocked a road demanding the death penalty for the accused and a fast-track trial. Police have been deployed in the village to maintain order. No further arrests have been reported yet.
+
+The case has left the village shaken, with calls for swift justice growing louder.
+
+---
+
+### From mediator to marketer: Pakistan lobbies for a bigger US role
+*SECTIONS · business*
+
+Islamabad: As Pakistan stepped into the global centre-stage through Iran war mediation, it hired a US lobbying firm to push Washington for boosted security cooperation and minerals investment, the contract shows.
+
+The two-year, $1.2-million lobbying agreement, filed in a public official database, began in May, spanning a period officials and experts say is critical to converting the goodwill Pakistan has earned with Donald Trump's administration into tangible bilateral benefits.
+
+  
+
+But Islamabad could face an uphill battle.
+
+"How long the dramatic improvement in relations will last is uncertain given the history of ups and downs" in ties, said Maleeha Lodhi, Pakistan's former ambassador to Washington.
+
+"It is also an open question whether it will outlast Trump."
+
+The contract directs Capitol Hill-headquartered Ervin Graves Strategy Group to engage with the US Congress and government, and facilitate meetings including with Pentagon and National Security Council officials.
+
+It expands on a short-term agreement struck between Pakistan's Washington embassy and the firm in October, though the new arrangement doubles the monthly payment to $50,000.
+
+Pakistan's foreign ministry did not respond to request for comment on the contract.
+
+A US State Department spokesperson said the two countries "continue to identify areas of cooperation that benefit our nations 
+
+Governments regularly hire lobbyists to boost their profile among Washington power players.
+
+Pakistan's latest agreement, disclosed under the US Foreign Agents Registration Act, provides direct insight into Islamabad's strategic priorities.
+
+It outlines efforts to restore defence cooperation mechanisms that existed during the Afghanistan war and attract investment in the minerals sector, currently dominated by China.
+
+"The contract highlights aspects of the relationship that align with Trump administration priorities, including critical minerals and counterterrorism," said Elizabeth Threlkeld, a former US diplomat in Pakistan and head of the Stimson Center's South Asia Program.
+
+## \- Security lens -
+
+The text also demonstrates "an interest in engaging Congress to broaden constituencies of support for the partnership", said Threlkeld.
+
+It includes a direction to emphasise "threats emanating from Afghanistan" and "promote continued US support for Pakistan's counterterrorism efforts" at a time when Islamabad is carrying out strikes on its neighbour in response to militant violence.
+
+Afghanistan's Taliban government denies the country's involvement in militancy in Pakistan.
+
+Powerful Pakistani army chief Asim Munir's rapport with Trump has elevated Islamabad's influence in a bilateral relationship long focused through a security lens.
+
+The US president refers to Munir as his "favourite field marshal", following their acquaintance in the aftermath of conflict with India that Trump helped mediate last year.
+
+A source familiar with the matter said Pakistan's help in US-Iran negotiations to broker their June interim agreement provided a window of opportunity.
+
+"We want to go beyond personal relationships so that the relationship becomes more institutionally based and can outlast changes in government," the source said on condition of anonymity.
+
+Overall, Islamabad's ties with Washington have drifted since the withdrawal of US forces from Afghanistan in 2021 ended a 20-year war that defined much of the relationship.
+
+Pakistan instructed Ervin Graves to work on efforts "for the resumption of... appropriate high-level bilateral defence and security dialogue mechanisms".
+
+According to the contract, this could be in the form of a revived Defense Consultative Group (DCG), the forum that underpinned US-Pakistan cooperation during the Afghanistan war era.
+
+The DCG "gradually became less active as security assistance to Pakistan dwindled", said Shuja Nawaz, Atlantic Council fellow and author of "The Battle for Pakistan: The Bitter US Friendship and a Tough Neighbourhood".
+
+## \- Cooperation 'fluctuated' -
+
+The partnership at its height included billions in US financing flowing to the South Asian nation, which Washington relied on for military supply routes and counterterrorism cooperation.
+
+That suffered a blow in 2011 when US forces raided a compound in Pakistan and found Osama bin Laden, the mastermind of the 9/11 attacks that killed nearly 3,000 people.
+
+Today "there is no direct US aid worth mentioning", Nawaz said.
+
+A Pakistani security source told AFP that defence ties continued.
+
+"While the scope and intensity of cooperation have fluctuated... security collaboration has rarely ceased," the source said, adding intelligence cooperation resulted in last year's apprehension of an Islamic State group operative allegedly involved in a deadly 2021 attack at the Kabul airport.
+
+The lobbying contract dedicates a section to the minerals sector -- a global strategic priority for Trump's administration -- instructing the firm to "support efforts to identify opportunities for cooperation".
+
+Ervin Graves should "provide recommendations" on Pakistan's policy and investment engagement strategies, and identify possible investors, it says.
+
+That could build on American interest in mining operations in vast southwestern Balochistan province, home to one of the world's largest untapped reserves of copper -- an in-demand resource for AI data centre construction.
+
+In December, Washington pledged $1.25 billion for Balochistan's Reko Diq copper and gold mine.
+
+But Pakistan's least-developed province grapples with a growing separatist insurgency, which has also targeted mining investments by China.
+
+Nawaz said the US-Pakistan relationship would need such headwinds addressed to move past reliance on the possibly fleeting bonhomie of its leaders.
+
+"Pakistan needs to get its domestic act together to make itself economically strong and attractive for foreign investments," he said. "Once that happens, US interest will become stronger."
+
+---
+
+### What is SAVE America Act? Here's all about Trump's plan to overhaul voting in America
+*Trending Desk · business*
+
+A Republican-backed bill that would require proof of citizenship to register and photo ID to vote has become one of the most fought-over pieces of legislation in Washington this year. Here's what's actually in it, where it stands, and what it could mean for you at the ballot box.
+
+If you've been scrolling through the news lately and keep seeing the phrase "SAVE America Act," you're not imagining things, it's been dominating headlines out of Washington for months, and President Donald Trump has made it one of his top legislative priorities of 2026. Supporters call it a common-sense fix to election security. Opponents call it the biggest rollback of voting access in a generation. Here's a plain-English breakdown of what's really going on.
+
+  
+
+## What does the Save America Act Do?
+
+The SAVE America Act, short for the Safeguard American Voter Eligibility Act, is a federal bill that would change how Americans register to vote and what they need to bring with them on Election Day. Two changes sit at the heart of it:
+
+  
+  
+
+-   **Proof of citizenship to register:** Anyone registering to vote in a federal election would need to show a document proving U.S. citizenship, think a passport, a certified birth certificate, or a REAL ID-compliant license that specifically indicates citizenship. A standard driver's license alone typically wouldn't cut it.  
+    
+-   **Photo ID to vote:** Every voter would need to show government-issued photo identification at the polls, a driver's license, state ID, passport, military ID, or tribal ID. The same requirement would extend to absentee and mail-in ballots, where voters would need to include a copy of their ID both when requesting and returning a ballot.
+
+The bill would also require states to scrub noncitizens from their voter rolls, and it creates new legal tools, including the ability for private citizens to sue, to enforce the rules, along with criminal penalties for violations.
+
+## Where Did The Save America Bill Come From?
+
+This isn't a brand-new idea. A version of the SAVE Act has been kicking around Congress since 2024, passing the House twice before but always stalling out in the Senate. The 2026 version, technically House Resolution 7296, cleared the House on February 11, 2026, by a narrow 218-213 vote, almost entirely along party lines.
+
+From there, it moved to the Senate, where it needs 60 votes to survive a filibuster. Republicans control 53 seats, meaning they'd need at least seven Democrats to cross over, support that, so far, hasn't materialized. In March 2026, the Senate held its first real test vote on the bill; it advanced narrowly on a 51-48 procedural vote, with Alaska Republican Lisa Murkowski breaking ranks to vote no. A later attempt to force a final vote failed 53-47.
+
+Frustrated by the standstill, President Trump used his July 4th address to renew his call for the bill's passage, and days later, House Speaker Mike Johnson said the chamber would try passing it "one more time," this time through the budget reconciliation process, a procedural route that only requires a simple majority and sidesteps the filibuster entirely. As of mid-July, that effort is still unfolding, and the bill has not become law.
+
+  
+
+## How Save America Act Mean for You?  
+
+For most Americans who are already registered and have a driver's license or passport handy, day-to-day voting probably wouldn't look dramatically different. But for millions of others, the bill would add real friction:
+
+-   **Online and mail-in registration would get harder:** Because the law would require an in-person document check in most cases, it would upend registration drives, DMV-based registration, and the online systems most states now rely on. Election-law groups estimate that in a recent election cycle, more than 7 million people registered by mail and nearly 11 million registered online, all systems this bill would force to be reworked.
+-   **Married Women:** Married women and others who've changed their name could be disproportionately affected. A birth certificate that doesn't match a current legal name, common after marriage, could complicate the citizenship-proof process unless additional paperwork is provided.
+-   **Rural Older Voters:** Rural voters, older Americans, and lower-income voters may face bigger hurdles, since they're statistically less likely to have a passport or easy access to a certified birth certificate or a DMV office.
+-   **Anyone updating their registration**, after a move, a name change, or a party switch, would need to go through the same documentation process again, not just first-time registrants.
+-   **Absentee and mail voters** would need to attach an ID copy to both their ballot request and their returned ballot, an extra step that doesn't currently exist in most states.
+
+  
+
+## Why Trump is Pushing for Save America Act?
+
+Supporters, led by Trump and House Republicans like Rep. Nancy Mace and Rep. Bryan Steil, argue the bill closes a loophole that lets noncitizens end up on voter rolls, even if only rarely, and that requiring ID to vote is a basic, reasonable safeguard most other democracies already use. Backers frame it as restoring public confidence in elections ahead of the 2026 midterms, when control of Congress is on the line, and reject claims that it would be used to purge eligible voters.
+
+## Why Many Legislators are Opposing the Save America Act?
+
+Critics, including most Democrats, the League of Women Voters, the Campaign Legal Center, and the Brennan Center for Justice, counter that noncitizen voting is already illegal, already rare, and already actively prosecuted when it happens, meaning the bill solves a problem that barely exists while creating a much bigger one: locking out eligible citizens who lack easy access to the right paperwork. They point to the bill's national ID mandate as stricter than nearly every existing state voter-ID law, and warn it would hit women, students, elderly voters, people with disabilities, and rural Americans hardest.
+
+## Save America Act 2026: What Happens Next
+
+As of mid-July 2026, the SAVE America Act remains stuck, passed by the House, but unable to clear the Senate's 60-vote threshold. With President Trump pushing hard for a reconciliation-based path that would need only a simple majority, and Speaker Johnson signaling the House is ready to move again, the fight is far from over. Whether it becomes law before the 2026 midterms could shape how tens of millions of Americans register and vote for years to come.
+
+---
+
+### SBI Funds Management IPO allotment: GMP at Rs 97. Here's how to check your status
+*India Today Business Desk · general*
+
+SBI Funds Management IPO saw bumper bidding and attracted bids worth nearly Rs 3 lakh crore and getting subscribed 41.73 times. Investors are now waiting for the allotment of the Rs 9,812.91 crore public listing of one of India's largest largest asset management company (AMC), which is expected to be finalised today, July 17.
+
+The SBI IPO received overwhelming interest from institutional investors, with the Qualified Institutional Buyers (QIB) portion being subscribed 140.11 times, while the grey market premium (GMP) continues to indicate a healthy premium over the issue price.
+
+If you applied for the IPO, here's how you can check your allotment status, the latest GMP and what experts expect from the listing.
+
+### SBI FUNDS MANAGEMENT IPO TODAY
+
+The latest grey market premium (GMP) for the SBI Funds Management IPO stands at Rs 97 as of 6:55 AM on July 17.
+
+Based on the upper price band of Rs 574 per share, the estimated listing price works out to around Rs 671, implying a potential listing gain of 16.90% if the current GMP trend holds.
+
+However, market experts caution that grey market premiums are unofficial indicators and actual listing gains can differ depending on market sentiment on the day of listing.
+
+### SBI FUNDS MANAGEMENT IPO SUBSCRIPCTION DETAILS
+
+The IPO ended with an overall subscription of 41.73 times, reflecting strong demand across investor categories.
+
+The issue received bids for 519.86 crore shares against 12.45 crore shares on offer, with total bids worth nearly Rs 2.98 lakh crore.
+
+Category-wise subscription stood at:
+
+-   Overall: 41.73x
+-   QIB (Ex-Anchor): 140.11x
+-   NII: 22.51x
+-   Retail: 3.76x
+-   Shareholders: 9.52x
+-   Employees: 4.65x
+
+The exceptionally strong demand from institutional investors is generally viewed as a positive signal, as these investors typically conduct detailed due diligence before participating in public issues.
+
+### HOW TO CHECK SBI FUNDS MANAGEMENT IPO ALLOTMENT ON BSE
+
+Investors can check their allotment status on the BSE website by following these steps:
+
+Visit the BSE IPO allotment page by clicking here
+
+Select "Equity" under Issue Type.
+
+Choose "SBI Funds Management IPO" from the Issue Name dropdown.
+
+Enter your application number and PAN.
+
+Complete the captcha verification.
+
+Click "Search" to view your allotment status.
+
+### HOW TO CHECK ALLOTMENT ON KFIN TECHNOLOGIES
+
+Investors can also check the allotment through KFin Technologies, the registrar to the issue.
+
+Follow these steps:
+
+Visit the KFin Technologies IPO status page.
+
+Select "SBI Funds Management IPO" from the dropdown.
+
+Choose any one of the following: Application Number, PAN, Demat Account Number and enter the required details.
+
+Complete the captcha verification.
+
+Click "Submit" to check your allotment status.
+
+### IS IT WORTH BIDDING?
+
+Prasenjit Paul, Fund Manager at 129 Wealth and Research Analyst at Paul Asset, believes SBI Funds Management remains one of the strongest long-term plays in India's fast-growing mutual fund industry.
+
+He said the company is the market leader with a strong brand, consistent profitability and is well placed to benefit from the long-term financialisation of household savings and increasing SIP penetration across smaller cities and towns.
+
+According to him, the IPO is priced at a slight discount to listed peers such as HDFC AMC, Nippon Life India AMC and ICICI Prudential AMC.
+
+However, Paul believes investors should not expect outsized listing gains despite the strong subscription and healthy GMP.
+
+"The IPO is better suited for investors with a two to three-year investment horizon rather than those looking for quick listing profits," he said.
+
+He added that one of the key risks is that SBI Funds earns relatively lower fees on every rupee it manages compared with peers because a large share of its assets is invested in lower-margin passive and institutional funds.
+
+He also said the increasing popularity of low-cost index funds and tighter Sebi regulations on mutual fund fees could keep margins under pressure over time.
+
+Despite these risks, Paul believes the company remains a good long-term compounding opportunity for investors willing to benefit from India's growing mutual fund industry and long-term financialisation trend.
+
+### KEY SBI FUNDS MANAGEMENT IPO DETAILS
+
+The Rs 9,812.91 crore IPO is entirely an Offer for Sale (OFS) of 17.10 crore shares, which means the company will not receive any proceeds from the issue.
+
+The IPO was open for subscription between July 14 and July 16, while the tentative listing date on the NSE and BSE is July 21.
+
+The issue price band was fixed at Rs 545-Rs 574 per share.
+
+The minimum investment for retail investors was Rs 14,924 for one lot comprising 26 shares.
+
+The issue also reserved 32,57,347 shares for employees, who were offered a discount of Rs 54 per share.
+
+Kotak Mahindra Capital Company was the book-running lead manager, while KFin Technologies is the registrar to the issue.
+
+### SHOULD INVESTORS EXPECT A STRONG LISTING?
+
+With the IPO subscribed nearly 42 times and commanding a GMP of Rs 97, the issue appears set for a healthy market debut.
+
+However, experts advise investors not to view the IPO purely as a listing gain opportunity. While the grey market points to an estimated listing price of around Rs 671, analysts believe the company's real strength lies in its leadership position in India's mutual fund industry and its ability to benefit from rising SIP investments over the long term.
+
+For investors looking beyond listing day, SBI Funds Management could prove to be a long-term wealth creation story as India's mutual fund industry continues to expand.
+
+_**(Disclaimer: The views, opinions, recommendations, and suggestions expressed by experts/brokerages in this article are their own and do not reflect the views of the India Today Group. It is advisable to consult a qualified broker or financial advisor before making any actual investment or trading choices.)**_
+
+\- Ends
+
+Jul 17, 2026 08:40 IST
+
+---
+
+### Chinese startup launches world’s largest open AI model ‘Kimi K3’, nears Fable and GPT-5.6 level performance
+*Armaan Agarwal · general*
+
+## Chinese AI lab Moonshot has announced the largest open-weight AI model – Kimi K3. According to the company, Kimi K3 can match, if not outperform, the most advanced AI models from OpenAI and Anthropic. Here is all you need to know.
+
+Moonshot just launched Kimi K3, and it can almost match the performance level of Claude Fable or GPT-5.6 (Representational image made with AI).
+
+China is back at it again. Chinese AI startup Moonshot has unveiled Kimi K3, claiming it to be the largest open-weight AI model with 2.8 trillion parameters. As per the AI startup, Kimi K3 is a big improvement compared to previous versions, and now can match if not outperform the most advanced models from the US, including Claude Fable and GPT 5.6.
+
+The Kimi K3 announcement comes at a time when the US is considering restricting advanced AI models made by US companies over fears of potential misuse. The US had temporarily blocked Claude Fable 5, and asked for a limited release of GPT-5.6.
+
+### What is Kimi K3?
+
+Kimi K3 is an open-weight AI model. This means that anyone can freely download the model and run it locally on their device, making it cheaper than close-weight models like Claude Fable. To give you some context, Fable and GPT-5.6 can only be accessed via the cloud, and cost higher to run due to token pricing.
+
+But open-weight models have existed for some time now, including Moonshot’s older models. What makes Kimi K3 different is how large it is. The model is trained on 2.8 trillion parameters – the more parameters, the better a model can perform. For context, as per reports, Anthropic’s Claude Opus 4.8 model was likely trained somewhere around 2 billion parameters.
+
+### How good is Kimi K3?
+
+As part of the announcement, Moonshot shared benchmark results, comparing Kimi K3 to rival models. The startup said that Kimi K3 “performed competitively with Fable 5” and “substantially outperformed” Opus 4.8, GPT 5.6 Sol and GPT 5.5 in GPU kernel optimisation, a term used for methods that improve hardware use and reduce latency.
+
+Third-party evaluations also placed the model close to top US systems. Arena AI ranked Kimi K3 first in its Frontend Code Arena. Arena AI confirmed that the AI model had managed to surpass Claude Fable 5, and jumped from 18th place for Kimi K2.6.
+
+Kimi K3 even outperforms Claude Fable and GPT-5.6 in certain benchmarks.
+
+Vals AI placed Kimi K3 second overall behind Fable 5 and ahead of GPT-5.6 Sol, while Artificial Analysis said its performance was comparable to GPT-5.5 and Claude Opus 4.8, especially on complex multi-step tasks.
+
+That is to say, that while Kimi K3 is not the most advanced AI model out there, it has closed the gap to frontier models from US companies. It is also the most-advanced open-weight model at the moment.
+
+Moonshot says that Kimi K3 has a one million-token context window, supports native multimodal use, and is built for advanced reasoning, long-horizon coding and knowledge work, with the ability to handle long engineering sessions with limited human supervision.
+
+Kimi K3 is now available on Kimi Work, Kimi Code, Kimi API, and Kimi.com. The company says that the open-weights will be made available by July 27.
+
+### Chinese AI models getting better?
+
+The release also adds to a broader shift in which Chinese AI developers are moving faster and challenging the view in parts of the West that they remain behind US companies.
+
+Kimi K3’s release comes as Chinese AI companies speed up model launches. Z.ai’s GLM-5.2 had already drawn attention for scoring close to leading US closed-source models. Hong Kong-listed MiniMax is said to be developing its own 2.7-trillion parameter model for release as early as the third quarter of 2026.
+
+Before Kimi K3, Meituan’s LongCat-2.0 and DeepSeek’s V4-Pro, each with 1.6 trillion total parameters, had been among the largest Chinese models.
+
+The release of Kimi K3 also signals that Chinese AI labs have been able to train advanced models despite restrictions from the US when it comes to sales of advanced GPUs to China. Earlier this year, Moonshot president Yutong Zhang said at the World Economic Forum, “We knew we didn’t have the luxury to simply scale up compute. That forced us to focus on fundamental research and efficiency.”
+
+Do note that Anthropic has previously accused Chinese labs of carrying out “industrial-scale distillation attacks” against its AI models. Distillation refers to the use of outputs from larger models to train smaller ones. Though Chinese companies have rejected such claims.
+
+The debate is not only about performance, but also about cost and adoption. Reports state that many companies in the West were turning to cheaper Chinese models to cut spending on US systems, whose access charges have risen this year. Cursor reportedly used Kimi in building Composer 2, while DoorDash delegated lower-level work to Kimi K2.6. Thinking Machines, the AI startup formed by Mira Murati, also used Kimi K2.5 to generate early post-training data for its Inkling model.
+
+Backed by companies including Alibaba and Tencent, Moonshot has been expanding its capital base as it pushes to stay near the front of the sector. As per reports, the start-up was seeking about $2 billion in fresh funding at a valuation of roughly $30 billion ahead of a possible Hong Kong listing.
+
+\- Ends
+
+Armaan Agarwal
+
+Jul 17, 2026 08:39 IST
+
+---
+
+### LetterOne taps Rahul Mukim to spearhead $2 billion India push
+*Mohit Bhalla · business*
+
+New Delhi: Luxembourg-headquartered LetterOne has hired Rahul Mukim, the former India private equity head at Ontario Teachers' Pension Plan, to lead its planned $2 billion investment programme in India, according to people familiar with the matter.
+
+The appointment will give LetterOne an on-ground presence in India, a move the firm has been planning for more than a year, they said.
+
+LetterOne primarily invests in Europe and the US. It owns British nutraceuticals retailer Holland & Barrett and holds a significant minority stake in Turkcell, Turkey's largest telecom operator.
+
+  
+
+The firm is chaired by former Standard Chartered chairman Lord Mervyn Davies.
+
+Mukim led private equity investments in India for Ontario Teachers, the Canadian pension fund that manages retirement assets for teachers in Ontario. During his tenure, the fund acquired a stake in Omega Healthcare alongside Goldman Sachs and invested in Sahyadri Hospitals, the people said.
+
+“His move has been in the works since February,” one of the people said.
+
+LetterOne confirmed Mukim's appointment when contacted. Ontario Teachers did not respond to ET's queries until press time. Mukim also did not respond to queries.
+
+"In India, LetterOne will focus on investments in healthcare and energy. A strategy is being created for these sectors,” one of the people said.
+
+Last year, LetterOne announced plans to invest $125 million in Indian venture capital and private equity funds as a limited partner (LP).
+
+“Commitments were made to healthcare specialist funds with a focus on North America and also India. The Indian commitments form part of the first stage of L1’s India market entry strategy, whereby L1 intends to build a portfolio of LP commitments focused on India with a view to driving local coinvestment and eventually establishing a presence in the country,” the company's 2024 annual report said.
+
+---
+
+### FBI marks Indian-origin man Nitish Kaushal as ‘captured’ in RICO conspiracy case
+*Express Global Desk · legal*
+
+The FBI has captured Indian gangster Nitish Kaushal who was in its Most Wanted list under a major transnational racketeering probe targeting the Bhagwanpuria crime syndicate. (FBI)
+
+The US Federal Bureau of Investigation (FBI) has updated its wanted notice for Indian-origin man Nitish Kaushal, showing that he has been “captured” in days after he was named in “most wanted” list. Kaushal was wanted for his alleged involvement in a transnational criminal organisation, among other things, engaged in acts involving murder, kidnapping, drug trafficking, extortion, weapons trafficking, money laundering, and human smuggling.
+
+The organisation known as the Jaggu Bhagwanpuria Organized Crime Group (the “Bhagwanpuria OCG”), originated in the Punjab and operated in the Central District of California and elsewhere.
+
+On June 25, 2026, a federal arrest warrant was issued for Kaushal in the United States District Court, Central District of California, Los Angeles, California, after he was charged with Racketeer Influenced and Corrupt Organizations Conspiracy (RICO).
+
+## What is RICO
+
+The Racketeer Influenced and Corrupt Organizations Act (RICO) is a federal United States law enacted in 1970 aimed to address systemic organized crime by targeting entire criminal enterprises rather than just individual offenders. However, to secure a conviction, prosecutors must prove that a defendant operated or participated in an ongoing syndicate through a “pattern of racketeering activity,” which requires committing at least two 
+
+By allowing law enforcement to hold enterprise leaders legally responsible for crimes they ordered or facilitated, and by imposing severe penalties including up to 20 years in prison per count and the total forfeiture of illegally gained assets, RICO serves as a legal tool for dismantling complex criminal networks.
+
+## FBI says Kaushal ‘Captured’
+
+The FBI’s webpage carrying Kaushal’s profile now prominently displays the word “Captured” across his photograph.
+
+The notice, however, does not disclose when or where Kaushal was apprehended, the agency that carried out the arrest, or any details regarding his custody or court proceedings. It also does not provide additional information about the alleged conspiracy beyond identifying the charge as RICO.
+
+The Express Global Desk at indianexpress.com which delivers authoritative, verified, and context-driven coverage of key international developments shaping global politics, policy, and migration trends. The desk focuses on stories with direct relevance for Indian and global audiences, combining breaking news with in-depth explainers and analysis. A major focus area of the desk is US immigration and visa policy, including developments 
+
+**Stay updated with the latest - Click here to follow us on Instagram**
+
+-   Tags:
+-   FBI
+-   US crime
+
+---
+
+### ‘China stole 220 million voter files, largest compromise’: Trump’s claims on US election fraud
+*Majid Alam · legal*
+
+President Donald Trump speaks in the East Room of the White House, Thursday, July 16, 2026, in Washington. (Photo: AP)
+
+US President Donald Trump on Thursday claimed that China carried out “the largest compromise of election data in history” during the 2020 US Presidential election.
+
+In a White House address, the US President alleged that Beijing was involved in undermining his administration and the 2020 campaign. He said China “illegally acquired” 220 million US voter files, which included voter’s data, identity and election preferences.
+
+Calling the alleged breach an “unprecedented election security nightmare”, Trump said that the purpose of releasing the documents was “not to weaken confidence, but earn that confidence by “confronting vulnerabilities and correcting them.”
+
+_Here are the major allegations on US election vulnerabilities made by Trump:_
+
+**220 million US ​voter files involved:** Trump said that since 2020 election, where he lost to Democrat Joe Biden, China carried out “illicit acquisition” of 220 million voter files. The information, according to Trump, included names, addresses, contact, political party preferences and other sensitive data.
+
+**‘Deep state’ involved:** Trump claimed some “very famous group of people” were involved to “actively suppress and downplay information” about China’s election meddling. He said that the information regarding these members of the deep state would be revealed in the second group of documents.
+
+**Multiple elections ‘influenced’:** The Chinese ‘meddling’ and election fraud was not restrained to the 2020 Presidential election, Trump claimed, adding that China influenced the mid-term election in 2018. He further said that the Chinese government strategy in 2019 was focused on “undermining domestic confidence”.
+
+Story continues below this ad
+
+**China wanted Trump to lose:** Trump claimed that the meddling in US elections were done to prevent him from winning polls. “China engaged in other election-
+
+---
+
+### How salt built empires and funded wars
+*Labanya Maitra · general*
+
+UPDATED: Jul 17, 2026 08:32 IST
+
+What if we told you that one of the most powerful substances in human history is sitting on your dining table right now? Before gold. Before oil. There was salt. This tiny crystal built empires, paid soldiers, funded kings and became powerful enough to challenge colonial rule. The same mineral that preserved food, preserved Egyptian pharaohs and transformed a simple act by Gandhi into a movement against the British Empire. Today, salt feels ordinary. But for centuries, whoever controlled salt controlled survival itself.
+
+### OTHER VIDEOS FROM Mo.Of.Everything
+
+
+---
+
 ## 16 July 2026
 
 ### 55 days on, half of July gone: Where is CBSE's Class 10 second board result 2026?
