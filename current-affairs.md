@@ -1,3 +1,239 @@
+## 18 July 2026
+
+### Vikram-1 Rocket Launch Live Updates: PM Modi's 'Vande Mataram' Note To Ride Into Space As India Gears Up For Vikram-1 Launch
+*Meemansa Shekhawat · general*
+
+ISRO Vikram 1 Rocket launch live updates: The Vikram-1 is all set for a launch from the Indian Space Research Organisation's (ISRO) launch facility in Sriharikota, Andhra Pradesh
+
+[Read full article](https://www.news18.com/india/vikram-1-launch-live-updates-indias-space-story-big-test-as-vikram-1-first-private-orbital-rocket-historic-launch-today-skyroot-aerospace-sriharikota-isro-us-china-liveblog-ws-l-10219377.html)
+
+---
+
+### Sonam Wangchuk Removed From Jantar Mantar, Taken To Hospital On Day 21 Of Hunger Strike
+*Aanchal Sinha · general*
+
+Sonam Wangchuk, on a 20-day hunger strike at Jantar Mantar, was taken to the hospital by police due to health concerns.
+
+[Read full article](https://www.news18.com/india/sonam-wangchuk-removed-taken-to-hospital-by-delhi-police-on-day-20-of-hunger-strike-10219385.html)
+
+---
+
+### Shashi Tharoor Rescued After Getting Trapped In Hotel Lift In Kerala | Video
+*Aanchal Sinha · general*
+
+Before the fire personnel arrived, people at the hotel partially opened the lift doors and attempted to rescue those trapped inside.
+
+[Read full article](https://www.news18.com/india/shashi-tharoor-rescued-after-getting-trapped-in-hotel-lift-in-kerala-video-ws-l-10219413.html)
+
+---
+
+### Skyroot's Vikram-1 Set For Maiden Launch, Marking India's Private Space Milestone | News18
+*Unknown · general*
+
+India's first privately developed orbital rocket, Skyroot Aerospace's Vikram-1, is set for its maiden launch from the Satish Dhawan Space Centre in Sriharikota. The mission marks a historic milestone for India's growing private space industry and reflects the country's expanding role in commercial s...
+
+[Read full article](https://www.news18.com/videos/india/skyroot-s-vikram-1-set-for-maiden-launch-marking-india-s-private-space-milestone-news18-10219465.html)
+
+---
+
+### 'Historic New Frontier': PM Modi Hails Skyroot's Vikram-1 Ahead Of Maiden Launch
+*Aanchal Sinha · general*
+
+In a post on X, PM Modi said the launch was scheduled for 11:30 am and described Vikram-1 as a significant milestone for India's growing private space sector.
+
+[Read full article](https://www.news18.com/india/historic-new-frontier-pm-modi-hails-skyroots-vikram-1-ahead-of-maiden-launch-ws-l-10219430.html)
+
+---
+
+### Amit Shah In Bengal: 3-Day Visit To Focus On Border Security, New Criminal Laws And Governance
+*Karishma Jain · general*
+
+The Home Minister will review border fencing, assess the rollout of the new criminal laws and chair a high-level meeting on law and order.
+
+[Read full article](https://www.news18.com/india/amit-shah-in-bengal-3-day-visit-to-focus-on-border-security-new-criminal-laws-and-governance-10219421.html)
+
+---
+
+### Live: Sonam Wangchuk admitted to Safdarjung Hospital, his vitals are stable
+*Unknown · general*
+
+### Download App
+
+NewsIndiaLive: Cops remove Wangchuk from protest site, take him to hospital; his vitals stable
+
+Jantar Mantar Protest
+
+Jantar Mantar Protest Live: Activist Sonam Wangchuk, who has been on a hunger strike at Delhi's Jantar Mantar for the past 20 days, was shifted to Safdarjung Hospital by the Delhi Police on Saturday morning after his health reportedly deteriorated. According to sources, Wangchuk has been admitted to the emergency ward. He is conscious and his vital parameters are stable. In a statement, the Delhi Police said Wangchuk was moved to the hospital for "essential medical care" following expert medical advice and in compliance with the directions of the Delhi High Court. Following Wangchuk's hospitalisation, the Delhi Police appealed to protesters gathered at Jantar Mantar to vacate the protest site peacefully at the earliest. A heavy deployment of Delhi Police personnel was seen at Jantar Mantar after Wangchuk was taken to the hospital. Stay tuned with indiatoday.in for all live updates.
+
+...
+
+Jul 18, 2026 09:04 IST
+
+### CJP Protest Live: Delhi Police begins removing protesters at Jantar Mantar
+
+Delhi Police on Saturday began removing protesters at the Jantar Mantar after climate activist Sonam Wangchuk was taken to Safdarjung Hospital on the 21st day of his hunger strike. A heavy deployment of Delhi Police personnel was seen at the protest site as agitators were asked to vacate the area.
+
+Jul 18, 2026 09:00 IST
+
+### CJP Protest Live: Doctors at Safdarjung Hospital examining Sonam Wangchuk
+
+Safdarjung Hospital on Saturday confirmed that activist Sonam Wangchuk has been admitted to the facility and is currently undergoing medical examination. In a brief statement, the hospital's Public Relations Officer (PRO) said Wangchuk is being evaluated by the treating doctors and that an official medical bulletin will be issued shortly.
+
+"This is for your kind information that Mr. Sonam Wangchuk has been admitted to Safdarjung Hospital. He is currently being examined by the treating doctors. An official press note will be issued shortly," the hospital said.
+
+Jul 18, 2026 08:59 IST
+
+### Sonam Wangchuk Hunger Strike: Heavy security deployed outside Safdarjung Hospital
+
+A heavy deployment of Delhi Police and paramilitary personnel was seen outside Safdarjung Hospital in New Delhi on Saturday after activist Sonam Wangchuk was admitted to the facility. Security was tightened around the hospital premises, with police and paramilitary forces stationed outside as Wangchuk underwent medical examination. The enhanced deployment came after he was shifted from Jantar Mantar, where he had been on a 20-day hunger strike.
+
+Jul 18, 2026 08:49 IST
+
+### NEET Paper Leak Protest: Sonam Wangchuk was dragged, abused by Delhi Police, alleges Abhijeet Dipke
+
+Abhijeet Dipke, founding president of the Cockroach Janta Party and a supporter present at the protest site, alleged that Delhi Police forcibly removed activist Sonam Wangchuk from Jantar Mantar on Saturday morning. Dipke further claimed that he was assaulted by police personnel while travelling to Jantar Mantar after learning about Wangchuk's removal. Dipke also levelled allegations against the police, referring to them as "RSS goons".
+
+> #WATCH | Delhi: Founding President of the Cockroach Janta Party, Abhijeet Dipke says, "At 7 AM, when I stepped out to freshen up, police goons arrived here. They dragged Sonam Sir away while hurling abuse at him. A 60-year-old man, who had been on a hunger strike for 20 days andâ€¦ pic.twitter.com/Z21kIV68sd
+> 
+> — ANI (@ANI) July 18, 2026
+
+Jul 18, 2026 08:45 IST
+
+### CJP Protest Live: Sonam Wangchuk shifted to hospital for 'essential medical care'
+
+In a statement, the Delhi Police said activist Sonam Wangchuk was moved to the hospital for "essential medical care" following expert medical advice and in compliance with the directions of the Delhi High Court.
+
+"As per orders of the High Court and on expert medical advice due to the deteriorating health condition of Sonam Wangchuk, he has been shifted to the hospital for essential medical care," the police said.
+
+Jul 18, 2026 08:44 IST
+
+### Jantar Mantar Protest Live: Sonam Wangchuk admitted to Safdarjung Hospital, his vitals are stable
+
+Activist Sonam Wangchuk, who has been on a hunger strike at Delhi's Jantar Mantar for the past 20 days, was shifted to Safdarjung Hospital by the Delhi Police on Saturday morning after his health reportedly deteriorated.
+
+According to sources, Wangchuk has been admitted to the emergency ward. He is conscious and his vital parameters are stable.
+
+---
+
+### Delhi Police move Sonam Wangchuk to hospital, ask Jantar Mantar protes
+*Prisha Vibhavari · general*
+
+After shifting activist Sonam Wangchuk to the hospital, the Delhi Police has appealed protesters to vacate Jantar Mantar peacefully.
+
+[Read full article](https://www.news18.com/india/sonam-wangchuk-shifted-to-hospital-for-medical-care-delhi-police-urge-protesters-to-vacate-jantar-mantar-peacefully-10219416.html)
+
+---
+
+### Skyroot Set For Vikram-1 Launch: When, Where To Watch India's First Private Rocket Liftoff
+*Pragya Bahuguna · general*
+
+India's first privately developed orbital rocket, Vikram-1, is set to lift off today. Here's where to watch Mission Aagaman live and what makes it significant.
+
+[Read full article](https://www.news18.com/india/skyroot-set-for-vikram-1-launch-when-where-to-watch-indias-first-private-rocket-liftoff-ws-bl-10219410.html)
+
+---
+
+### Jairam Ramesh Targets PM Modi, Says 'Everything Is Seen Through the Lens of 2029 Polls' | News18
+*Unknown · general*
+
+Congress MP Jairam Ramesh launched a sharp attack on Prime Minister Narendra Modi, alleging that the PM is viewing every decision through the lens of the 2029 Lok Sabha elections. In an exclusive conversation with CNN-News18, Ramesh also discussed the Congress party's strategy for Parliament, its re...
+
+[Read full article](https://www.news18.com/videos/breaking-news/jairam-ramesh-targets-pm-modi-says-everything-is-seen-through-the-lens-of-2029-polls-news18-10219431.html)
+
+---
+
+### Delhi Police shifts Sonam Wangchuk to hospital on day 21 of his hunger strike
+*ET Online · business*
+
+Activist Sonam Wangchuk, who has been on a hunger strike at Jantar Mantar, was shifted to a hospital on Saturday after his health deteriorated on day 21 of his fast, Delhi Police said. "As per orders of Hon'ble High Court and on expert medical advise due to the deteriorating health condition of Sh. Sonam Wangchuk, he has been shifted to the hospital for essential medical care. While complying with the orders of Hon'ble High Court the protestors tried to create obstruction, in which slight commotion ensued, however police took maximum restrain and undertook the exercise safely," the police said in a statement.
+
+---
+
+### CJP protesters are doing more than raising slogans
+*Muskan Singh · general*
+
+Muskan Singh
+
+UPDATED: Jul 18, 2026 08:20 IST
+
+While covering the CJP protest at Jantar Mantar, MO met volunteers who came to protest but ended up cleaning the site themselves.
+
+More videos from NewsMo
+
+### OTHER VIDEOS FROM Mo.Of.Everything
+
+4:21
+
+## Explained: What are sea drones and how they are redefining warfare
+
+The United States Navy has carried out its first attack using unmanned surface vessels, targeting an Iranian naval submarine base in Bandar Abbas.
+
+26:09
+
+## US launches fresh wave of strikes on Iran; Global CEOs place $95 billion bet on India; more
+
+The latest edition of Statecraft covers the escalating conflict between the United States and Iran, with US forces conducting a sixth consecutive night of strikes on Iranian military and civilian infrastructure.
+
+28:09
+
+## PM Modi sounds poll bugle in Punjab, attacks Bhagwant Mann government
+
+Prime Minister Narendra Modi launched the election campaign in Punjab by criticising the Bhagwant Mann government over corruption, unutilised central funds, and a national capital riot conviction.
+
+advertisement
+
+1:14
+
+## Why are villagers on hunger strike against the Ken-Betwa project?
+
+Villagers are protesting the Ken-Betwa river-linking project over displacement, compensation and rehabilitation.
+
+---
+
+### Delhi-NCR Weather Today: Will it rain in the national capital, Gurgaon, Noida and Ghaziabad?
+*Trending Desk · business*
+
+Delhi-NCR Weather Forecast: After a humid stretch of heat that pushed Delhi to its hottest July day in two years earlier this week, the capital and its neighbouring cities are waking up to overcast skies on Saturday, July 18, but anyone hoping for a proper downpour to break the humidity may be disappointed for another day or two.
+
+## Delhi Weather Today
+
+Delhi is currently cloudy with the temperature hovering around 33°C, and the city is expected to peak near 37°C by afternoon. The India Meteorological Department's local forecast, issued Friday evening, calls for a generally cloudy sky with a spell of very light to light rain at isolated places, most likely towards the morning or forenoon, accompanied by gusty winds of 20-30 kmph that could touch 40 kmph in bursts. The rest of the day is expected to stay hot and humid in patches rather than genuinely wet — the chance of rain today works out to a modest 10 percent.
+
+  
+  
+
+## Gurgaon, Noida, Ghaziabad Weather Today
+
+Gurugram is running slightly warmer, currently at around 34°C and cloudy, with today's high expected close to 38°C and a similarly low 10 percent rain probability. Noida mirrors Delhi closely, cloudy, around 33°C now, heading towards a high near 37°C, again with only a 10 percent chance of showers. Ghaziabad is a touch cooler at present, close to 33°C, with a high expected around 36°C and the same low rain odds.
+
+In short, don't cancel outdoor plans expecting rain to spoil them, but don't leave the umbrella too far away either, given the isolated shower risk flagged for the morning hours.
+
+  
+
+## Delhi NCR Weather: Why it's been so hot and dry
+
+This dry, sticky spell isn't coming out of nowhere. Delhi recorded its hottest July day in two years earlier this week, with the mercury touching 39.2°C, nearly 4 degrees above the seasonal normal of around 35°C for this time of July. The heat index, or "real-feel" temperature, climbed even further, touching close to 48°C during the peak afternoon hours as humidity compounded the actual air temperature.
+
+A stretch of dry westerly winds, combined with moisture-laden southwesterly flow from the Arabian Sea at lower levels, has kept the air heavy and humid without triggering the kind of organised rain system that actually cools things down. For a proper spell of rain, meteorologists say the region needs the monsoon trough, currently sitting closer to the Himalayan foothills, to swing back down towards Delhi.
+
+## When it will rain in Delhi-NCR?
+
+Sunday, July 19, should see rain chances edge up modestly across the region, with Delhi's probability rising to around 35 percent and highs easing slightly to near 34°C.
+
+The bigger shift arrives on Monday, July 20, when the outlook turns noticeably wetter and cooler across the board. Delhi's rain chance jumps to around 65 percent with the high dropping sharply to near 29°C, Noida follows an almost identical trajectory, Ghaziabad's rain probability climbs to roughly 70 percent, and Gurugram isn't far behind at about 60 percent. That kind of temperature drop, nearly 8 degrees lower than Saturday's peak, points to a genuine spell of monsoon activity moving through rather than a passing shower.
+
+The wetter pattern looks set to hold into the middle of next week, with rain chances staying in the 50-60 percent range across all four cities through Tuesday and Wednesday, alongside daytime highs settling into the more comfortable high-20s to low-30s range.
+
+## Delhi NCR Rain Advisory For Residents
+
+-   Carry a light umbrella or raincoat for the morning commute today, given the isolated shower risk, even though a citywide downpour looks unlikely.
+-   Stay hydrated and avoid prolonged sun exposure during the afternoon, when the heat index will likely feel considerably hotter than the actual temperature.
+-   From Monday onward, commuters in low-lying stretches of Gurugram, Noida and parts of the capital should factor in extra travel time, as heavier rain typically brings waterlogging to familiar chokepoints.
+-   Keep an eye on official IMD updates rather than informal forecasts, since isolated showers can be highly localised, one part of the city may stay bone dry while another gets a proper wetting.
+
+
+---
+
 ## 17 July 2026
 
 ### Maratha quota: Can a politically dominant community be ‘backward’? Bombay HC examines
