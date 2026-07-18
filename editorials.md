@@ -1,8 +1,153 @@
 # Editorials
 
-_Last updated: 2026-07-17 04:43 UTC_
+_Last updated: 2026-07-18 04:27 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 18 July 2026
+
+### ​Battling drug abuse: On Kerala’s Operation Toofan
+*The Hindu · Editorial*
+
+For a few years now, a growing section of Kerala’s youth has been consumed by a festering addiction to narcotic drugs and contraband/psychotropic substances. The signs of the State teetering towards substance abuse were apparent in the wake of the liquor ban a decade ago. But it grew to gargantuan proportions with synthetic drug cartels using digital technologies and social media to outpace law enforcement. While the COVID-19-stricken years of 2020-21 saw a drop in NDPS cases registered in the State, cases surged to 26,619 in 2022 from 5,695 in 2021. The number rose to 36,314 in 2025, alongside large-scale seizures of commercial quantities of contraband. Commercial capital Ernakulam city accounted for a substantial number. Despite efforts by multiple agencies, success has been limited. The UDF government sought to streamline the anti-drug enforcement drive by launching Operation Toofan in June, with the State police joining hands with the police forces in the southern States, central agencies, and State education, health and excise departments.
+
+Focusing on integrated enforcement, public engagement, rehabilitation of victims and a speedy and effective prosecution, the operation has, until July 15, netted over 7,600 drug peddlers in some 7,100 cases, with synthetic drugs accounting for a significant share of the haul. Given that narcotics cases are often weakened by questionable forensic reliability, the issue has gained sharp focus during the ongoing campaign. The network of drug cartels is often too intricately webbed, with investigations often netting only the small fish. Besides bringing the community on board as Toofan warriors, the campaign aims to strengthen national intelligence-sharing and coordination systems under the NCORD framework, including the NIDAAN database of arrested narco-offenders. Kerala Home Minister Ramesh Chennithala is meeting Chief Ministers to solicit jointness in the operations. The States are in the process of assigning nodal officers for close coordination, with a platform in the pipeline. Since the rackets employ innovative means to recruit carriers, coordinate among themselves and carry out delivery, Kerala needs to upskill the District Anti-Narcotics Special Action Force (DANSAF) personnel at the cutting edge to bust these networks. Equally important is to strengthen cyber forensic capabilities so that neither investigation nor prosecution is found wanting in taking these cases to their logical conclusion. The crippling effects of narcotics on society are manifold, and it is never too late to build a defence against them.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/battling-drug-abuse-on-keralas-operation-toofan/article71234342.ece)
+
+---
+
+### India’s Parliament must not stage its Cadaver Synod
+*The Hindu · Opinion*
+
+In January 897 CE, Rome witnessed the strangest trial in the history of the Church. Pope Stephen VI ordered the corpse of his predecessor, Pope Formosus, dug up from its grave. Formosus had been dead for about nine months. His body was dressed in papal vestments and propped upon a throne in the Lateran basilica. A trembling deacon stood beside the corpse and answered questions on its behalf. The dead pope was charged with perjury and with violating canon law. He was, unsurprisingly, found guilty. His election was declared void. His acts were annulled. The three fingers of his right hand, the fingers of consecration, were hacked off. The body was then flung into the Tiber.
+
+History remembers this spectacle as the Cadaver Synod. It settled nothing. It disgusted Rome, provoked an insurrection, and Stephen VI himself was imprisoned and strangled within months. Successor popes reburied Formosus with honour and burned the record of the trial. The lesson has endured for centuries. A tribunal that sits in judgment over someone who no longer holds the office it can take away does not do justice. It performs theatre, and the theatre degrades the tribunal more than the accused.
+
+[Read full article](https://www.thehindu.com/opinion/lead/indias-parliament-must-not-stage-its-cadaver-synod/article71235194.ece)
+
+---
+
+### Public assets at a transparency threshold
+*Deccan Herald · Editorial*
+
+The Karnataka High Court’s decision bringing Bengaluru’s Century Club within the ambit of the Right to Information (RTI) Act is more than a ruling on an exclusive members’ club. By holding that free or heavily subsidised government land amounts to “substantial financing”, the court has widened the scope of the RTI Act and raised important questions about state-owned assets and institutional accountability. The court held that Century Club qualifies as a “public authority” under Section 2(h) because its existence rests on 7.5 acres of prime land granted free by the erstwhile Mysore kingdom. It rejected the argument that only cash grants constitute substantial financing, holding that valuable government land is itself significant state support. The Maharaja’s grant, the judges ruled, was made in his sovereign capacity and thus forms part of the land inherited by the state. Given the land’s immense value, members’ contributions were held to pale into insignificance.
+
+The implications are far-reaching. Bengaluru alone has several elite clubs and recreational institutions occupying government land under historical grants or concessional leases. The judgment could open the floodgates for RTI applications seeking information on lease terms, finances, and membership policies. Institutions that have long enjoyed privileged access to such land may now have to justify that privilege through greater transparency, especially where allegations of financial misappropriation arise. While the National Sports Governance Act, 2025, limits RTI obligations for national sports bodies receiving government grants, associations such as the Karnataka State Cricket Association (KSCA) also function on government-leased land and operate commercial facilities such as clubhouses and bars. Whether such bodies can be brought under the RTI Act may become the next legal battleground. The ruling could extend to political parties occupying government land at concessional rates, though they presently remain outside the Act’s ambit. Commercial land allotments to companies, however, are unlikely to be affected because they are generally linked to investment and employment obligations.
+
+While the broader principle that institutions deriving enduring benefits cannot expect immunity from public scrutiny is difficult to dispute, there are legitimate concerns. An expansive interpretation of “substantial financing” could draw many private bodies into prolonged litigation, creating uncertainty over the status of institutions operating on government land. The judgment’s boundaries will be tested in the Supreme Court. Whether this becomes a durable safeguard for state assets or the beginning of an extended legal battle over the definition of “public authority” will depend on how carefully the balance between transparency and regulatory overreach is maintained.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/public-assets-at-a-transparency-threshold-4077661)
+
+---
+
+### Welcome verdict, unsettled argument
+*Deccan Herald · Editorial*
+
+The Supreme Court's ruling on Monday, affirming that the status of an individual’s citizenship must rest on a "fair, lawful, and reasoned process", is a welcome intervention at a time when the criteria and methods used to determine citizenship remain unclear and contentious. It set aside verdicts by the Gauhati High Court that upheld foreigners tribunals' rulings branding 27 Assam residents as foreign nationals. A bench of Justices Vikram Nath and Sandeep Mehta observed that decisions on citizenship and foreigner status hold significant constitutional weight, and that the state's objective of preventing illegal immigration must not come at the cost of procedural fairness. The apex court rejected the High Court's reasoning that the tribunals were right to rule against the appellants simply because they failed to appear despite being served notices. The High Court had relied on Section 9 of the Foreigners Act, which places the onus of proving citizenship on the individual concerned.
+
+How does a person prove her citizenship when the concept is not clearly defined, and the required documents are unspecified? The petitioners argued that they were unaware of the tribunal's proceedings, which relied on an Enquiry Officer's hearsay rather than substantive proof. This raises a critical question: can individuals be declared foreigners and stripped of their fundamental rights through ex parte proceedings solely due to their absence from court, especially when they possess official documents that support their claim to Indian citizenship?
+
+'Citizenship must be decided by fair process': Supreme Court quashes Assam Tribunal orders declaring people foreignersForeigners’ tribunals have been criticised earlier for arbitrariness and bias, stripping individuals of their citizenship over issues such as minor spelling discrepancies or brief memory lapses. Even a war veteran who served the nation for decades has been declared a foreigner. The Citizenship Act defines national identity, but its practical execution remains obscure to the public. Notably, the Election Commission of India (ECI)’s Special Intensive Revision (SIR) of electoral rolls employs a similarly exclusionary mechanism. By shifting the burden of proof onto the individual, the Commission now requires new voters to produce documents proving their parents were part of the previous SIR before they are allowed to enrol as voters. In both voter registration and citizenship determination, the state's focus has shifted from inclusion to exclusion, making bureaucratic processes more protracted. The Supreme Court, regrettably, allowed the ECI to proceed with this undemocratic exercise. Given the procedural barriers and complexities, it is unlikely that there will be consensus on what constitutes a truly "fair, lawful, and reasoned" process to resolve citizenship issues.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/welcome-verdict-unsettled-argument-4077660)
+
+---
+
+### From corn to crown
+*Deccan Herald · Opinion*
+
+A visit to a dentist is a one-time certainty in a human’s life. The animals are blessed in this aspect, at least the wild ones. As a teenager I would accompany my mother to the dentist, a jolly person by disposition. He was quite familiar to me as he invariably came to our annual school sports meet and conducted the competitions, blowing on his whistle enthusiastically. Once, out of plain doctor’s curiosity he asked me to open my mouth, and upon examination declared that I was wont to chew on one side of my mouth, and advised me accordingly.
+
+I had heard of terrible tales experienced by hapless victims of the dentist’s arsenal. So I drank milk like a baby and brushed my teeth regularly, never wishing to sit on the reclining chair at the dentist’s. Years rolled by and my fifties set in. The teeth had done a commendable job all through the years, biting and chewing countless shapes and textures which made their advent into the mouth at varying temperatures.
+
+One fine evening I roasted a corn on the cob and bit into it with relish. “Ouch!” What was this shooting pain? It was a dental emergency, and responding to my frantic call, the friendly dentist asked me to rush in immediately. I sat with trepidation on the dreaded reclining chair (RC), and upon his command opened my mouth while my eyes shut themselves instantly as the light beamed on my face. His expert finger touched the dangling tooth gingerly and I let out another “ouch”. He quickly formed a decision of a root canal procedure to save the tooth. The procedure date was fixed and I came home lost in sombre thoughts of my tooth renovation.
+
+Needles, cushions and a callingA root canal seemed a terrible ordeal. I consulted my favourite, Dr Google, and after watching Youtube videos felt surprisingly bolstered, even a sort of kinship with the lot who had undergone the procedure. I walked towards the RC on the D-day confidently and never felt a tinge of pain as the doctor skilfully gave the correct dose of pain numbing medicine. The unsavoury denouement came when I had to keep my teeth clenched with a weird, thick, gummy thing inside and I imagined myself looking like the epic demoness Tataka, with the spongy thingy sticking out between the clenched teeth.
+
+Like the proverbial cat closing its eyes while drinking milk, I kept my eyes shut to avoid seeing the doctor and his assistant staring at my sight -- or plight, should I say? After the slowest-ever few minutes of my life, the dentist removed the abominable intrusion and I got back my normal mouth. I bid goodbye to the dentist after setting the appointment for affixing the cap for the tooth, to regain its crowning glory. The tryst with the RC was not that bad after all.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
+
+[Read full article](https://www.deccanherald.com/opinion/from-corn-to-crown-4077659)
+
+---
+
+### India’s PhD promise demands a reality check
+*Deccan Herald · Opinion*
+
+A recent viral post about a contract lecturer with a PhD who drives a cab to support his family has renewed attention to academic employment conditions. There is no indignity in honest work. The concern is that years of advanced education do not always lead to stable, adequately paid employment that uses a person’s training. Those in such circumstances deserve dignity and fair pay. However, the discussion should go beyond empathy to consider how higher education can prepare students for varied career pathways in a rapidly changing, technology-driven economy. The challenge, therefore, is not to restrict doctoral education but to ensure that its expansion is accompanied by rigorous training, credible research, and viable academic and non-academic career pathways.
+
+Doctoral education has expanded substantially across India’s higher education system. According to the AISHE 2023-24 report, 3,43,559 candidates were enrolled in PhD programmes, representing a cumulative increase of 61.6% over 2021-22. Science and Engineering & Technology together account for 43.9% of the enrolment. A broadly defined Humanities and Social Sciences category accounts for approximately 42.2% of PhD enrolment and recorded cumulative growth of about 70.4% from 2021-22. Such expansion is welcome when it strengthens research, teaching, innovation, and intellectual capacity.
+
+A degree reset for the AI ageExpansion alone cannot measure success, nor does a larger doctoral population automatically generate innovation, discovery or intellectual progress. The more consequential questions are whether candidates receive rigorous training, produce meaningful research, and have credible academic and non-academic opportunities after graduation. International comparisons based solely on the proportion of PhD holders or graduates in the population can therefore be misleading. A meaningful assessment requires systematic post-degree employment data, reported both in aggregate and disaggregated by state, district, discipline, institution, gender, employment sector, and occupation.
+
+Many doctoral programmes continue to focus primarily on dissertation completion, academic publication, and preparation for conventional academic careers. Such preparation alone is insufficient for academic and many non-academic careers. The scholars also need transferable capabilities applicable across professional settings. In the absence of such skills and clearly defined non-academic pathways, many graduates may find themselves disproportionately dependent on a limited academic job market.
+
+Families invest in degrees expecting better employment, income, and social security. It is therefore unrealistic to treat higher education solely as abstract knowledge and employment aspirations as intellectually inferior.
+
+When an undergraduate degree does not provide adequate employment or livelihood opportunities, students may proceed to postgraduate study; when postgraduate qualifications also yield uncertain prospects, some continue into doctoral programmes. Further education may then become a response to the limited opportunities available after the previous qualification. This pattern may be particularly visible in some humanities and social-science disciplines, where opportunities outside academia are often less clearly defined. Doctoral enrolment must therefore be understood partly within the wider labour-market difficulties encountered at earlier stages of higher education.
+
+After completing a PhD, some graduates obtain stable academic or research positions. Others enter temporary teaching, remain unemployed or take work that makes limited use of their training. Some of those who enter academia may then train another generation for a labour market that has limited stable academic opportunities.
+
+Knowledge and employment are not opposing goals. The National Education Policy 2020 reflects this balance by emphasising critical thinking, flexibility, and multidisciplinary learning alongside preparation for gainful and fulfilling employment. Universities can therefore support the pursuit of knowledge while preparing students for an evolving economy.
+
+Degrees, skills and social value
+
+Indian society has often valued degrees more highly than vocational, technical, and practical capabilities. This hierarchy, shaped by longstanding social attitudes towards manual and vocational work, can undervalue important forms of knowledge and expertise while reinforcing social inequality. Chief Economic Adviser V Anantha Nageswaran’s recent emphasis on practical, automation-resistant skills, vocational expertise, and human judgment reflects growing recognition that employability in a changing economy depends on more than a degree alone. Higher education must therefore develop both intellectual depth and demonstrable competence.
+
+At the institutional level, universities must publish reliable and audited programme-level information on completion rates, employment, and career outcomes. This transparency would not guarantee jobs, but it would help students and parents make better-informed decisions before investing substantial time and resources.
+
+Policy thinking increasingly recognises the need for higher education to respond to employment patterns and changing professional needs, but India’s institutional practices and entrenched academic attitudes have not kept pace. Market responsiveness means recognising technological change, emerging occupations, and evolving social needs. It also requires asking whether students are acquiring valued capabilities and whether institutions are delivering outcomes proportionate to the time and resources invested.
+
+Commercial expansion and market responsiveness are not the same. Increasing seats or fees does not by itself improve educational quality. A healthy higher-education system requires strong teaching, credible assessment, transparent information, and accountability for outcomes that institutions can reasonably influence.
+
+The policy direction is broadly encouraging. The difficult task is to translate broad policy commitments into institutional practice by aligning curricula, academic incentives, and graduate pathways with the changing needs of society and the economy.
+
+Curricula should be reviewed regularly while preserving foundational and theoretical knowledge. Students should be able to move between education, employment, and skill development without losing the value of their prior learning; the multiple entry and exit pathways envisaged in the NEP must therefore be made operational in a meaningful way.
+
+Doctoral expansion should be accompanied by evidence that institutions, departments, and professors possess adequate research infrastructure, sufficient supervisory capacity, and a credible range of academic and non-academic pathways into industry, public laboratories, policy institutions, and other knowledge-based sectors. Doctoral programmes that combine rigorous research with transferable skills would also strengthen teaching, because future academics would be better equipped to prepare their students for employment. The objective is not fewer PhDs, but better-supported PhDs whose training strengthens both the intellectual value of the doctorate and its relevance to a changing economy.
+
+(The writer is a professor of Economics at IIT Kharagpur)
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
+
+[Read full article](https://www.deccanherald.com/opinion/indias-phd-promise-demands-a-reality-check-4077653)
+
+---
+
+### Looking up to the night sky
+*Deccan Herald · Opinion*
+
+India’s night sky is disappearing faster than its forests. Across the country, the spread of harsh, unshielded LED lighting has quietly erased the stars from both urban and rural horizons. After decades spent working in forest landscapes, I have come to realise that the night sky is not a passive backdrop; it is a living part of ecological balance, as vital as the soil beneath our feet or the canopy above our heads.
+
+Amid this growing glow of light pollution, a promising alternative is emerging: sky-park tourism. Built around dark-sky protection, astronomy education, and nocturnal ecological sensitivity, it is a high-value, low-impact model that brings science, sustainability, and rural livelihoods together. Countries such as New Zealand, France, Namibia, and the United States have shown that dark-sky parks can revive remote economies while reducing light pollution. India has similar potential, but it remains largely unrealised.
+
+India’s forgotten wildlife and their struggle for survivalToday, the Hanle Dark Sky Reserve in Ladakh stands as India’s sole site formally certified by DarkSky International, the global authority for dark-sky parks, reserves, and sanctuaries. The initiative by the Madhya Pradesh Forest Department in Pench shows what night-sky tourism can look like, though it does not yet carry formal certification.
+
+The irony is that India is uniquely blessed with landscapes ideal for night-sky tourism: high plateaus, cold deserts, dry forests, and coastal belts. Yet many of these regions are now flooded with intense artificial lighting. The ecological cost is severe: nocturnal wildlife loses behavioural cues, migratory birds become disoriented, and insect populations collapse under continuous illumination. Along the Chennai coast, I have witnessed how artificial glare causes vulnerable Olive Ridley hatchlings to lose track of the faint natural glow that should guide them safely to the sea. Protecting the dark sky is no longer just a tourism idea; it is a conservation necessity.
+
+The primary hurdle is institutional. Dark-sky preservation is not merely a matter of receiving an official stamp; global certification is earned only after a landscape proves it can meet strict ecological and lighting standards. What India requires first is active coordination between the Forest, Tourism, and Rural Development departments, working alongside local governing bodies. It demands clear lighting regulations, shielded fixtures, and genuine community participation. Above all, it requires a shift in mindset: the night must be recognised as a vital ecological asset, not a blank canvas waiting to be illuminated.
+
+A national dark-sky strategy is overdue. India needs clear lighting guidelines for ecologically sensitive landscapes, incentives for astronomy-based tourism, and partnerships with scientific institutions. Much of this can be integrated into existing forest ecotourism frameworks without violating the Forest Conservation Act, because dark-sky activities rely on minimal infrastructure and use spaces already designated for nature education. Astronomy sessions, guided night-walks, and shielded lighting in buffer-zone homestays can diversify rural incomes while remaining compatible with conservation mandates.
+
+An invaluable inheritance
+
+India’s unexplored potential lies in calm waterbodies – reservoirs, backwaters, and canals – where silent, engine-free night-sky boat rides can thrive. Water naturally softens surrounding light, creating pockets of darkness. Kerala’s backwaters, Rajasthan’s desert lakes, and still-water lakes nationwide could become serene, floating classrooms for astronomy and nocturnal ecology.
+
+Hilly regions offer altitude that sharpens night skies, but many hill stations are overwhelmed by decorative lighting. Introducing shielded lighting and dark-sky zones in belts like the Nilgiris, Palani Hills, Araku Valley, and parts of Himachal Pradesh and Uttarakhand can create world-class night-sky experiences using existing trekking routes and nature camps. India could pioneer “night-sky corridors” – regulated dark stretches that maintain ecological continuity for nocturnal species. Like wildlife corridors, they would preserve darkness across riverine belts, forest edges, and coasts.
+
+The cultural dimension is unexplored: for centuries, the night sky shaped calendars, festivals, navigation, and tribal folklore. Its disappearance is cultural erasure. A national dark-sky policy can preserve this heritage, ensuring future generations inherit a sky carrying ancestral stories.
+
+Most importantly, such a strategy would restore something India has quietly lost – the ability to look up and see a sky that still belongs to nature. The future of tourism will not be built on monuments, beaches, and crowded hill stations alone. It will also be built on silence, darkness, and the rare privilege of seeing the cosmos as our ancestors once did. Such a tourism policy must respect ecological carrying capacity, ensuring that night-sky tourism grows without triggering overcrowding or an exodus that strains fragile landscapes and communities. If India chooses to act now, future generations may still inherit a sky worth looking up to.
+
+(The writer is a retired member of the Indian Forest Service and an international member of the Forest Stewardship Council)
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
+
+[Read full article](https://www.deccanherald.com/opinion/looking-up-to-the-night-sky-4077663)
+
+---
 
 ## 17 July 2026
 
@@ -87,6 +232,27 @@ Gitanjali J. Angmo is founder of the Himalayan Institute of Alternatives, Ladakh
 
 ---
 
+### DC Edit | Engage Sonam In Dialogue To Ensure Democracy Wins
+*Deccan Chronicle · Editorial*
+
+As the Cockroach Janata Party’s protest at Jantar Mantar is into its 28th day and the educationist and activist Sonam Wangchuk’s fast enters its 20th day today, they raise fundamental questions about the democratic process in the country. Those who are protesting are carrying a message about youth disaffection while the prominent person undertaking a fast in a nation that has had a long history of fasting as the most peaceful form of protest is acting as a messenger of how badly things may be going wrong for the youth to feel so restive.
+
+To respond to a peaceful protest by nominating government representatives to talk to the protesters on the issue, which is all about irregularities in the medical entrance test and other examinations, is the democratic way. The national conscience is being awakened by the personal sacrifice of one person even as the protests are making a mark, but the government has so far remained indifferent. And the court has only spoken about every life being precious and pointed out the need for daily medical supervision.
+
+The basic objective of the fast was stated to be a demand that the Union education minister resign owning accountability for the various irregularities that were noticed in the conduct of a vital medical entrance test which over 20 lakh candidates took and in which 11.21 lakh candidates qualified for around 1.3 lakh medical seats plus 28,000 in dentistry and allied areas of study. The sheer statistics portray the ardour with which a section of the student population strives to take up the medical profession.
+
+It might be the greed of individuals who run the test that invariably leads to leaking of question papers which undermine the integrity of the test. However, it is the system that must be tuned to be foolproof in conducting such an exercise that affects the lives and careers of lakhs of students. Asking for the resignation of the education minister is only to sustain public accountability which is the cornerstone of democracy.
+
+The government may have moved heaven and earth to ensure the retest ran without major glitches and disruptive leaks but doing so is not an achievement to be boasted about as much as the duty of people elected to supervise those selected to run the system and ensure that it is error and leak proof. The rolling of one head may be just a political outcome of a protest being sustained by a new party of nameless youth, but it carries the message that governance may call for hard decisions to ensure answerability is upheld.
+
+It might not take much to arrive at the decision that the fast be broken by putting the activist in hospital and force-feeding him to save his life. A logical step before that would be to talk to him and try to persuade him into giving up the fast. That may mean accepting there is an issue but there is no loss of prestige in accepting it and addressing the issue.
+
+No government should place itself above listening to citizens who have a grievance or who project an issue of public importance. The issue is not just about the integrity of entrance exams but about the education system itself and it must be confronted and a resolution sought. Dissent is an integral part of democracy, acceptance of which will make the government stronger. An immediate test of the government’s resolve in dealing with education issues is coming up in the Winter Session of Parliament.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-engage-sonam-in-dialogue-to-ensure-democracy-wins-1971817)
+
+---
+
 ### DC Edit | For FTAs To Work, India Must Boost Manufacturing
 *Deccan Chronicle · Editorial*
 
@@ -122,6 +288,52 @@ The Supreme Court has sought the help of the Union government to address the que
 It’s the job of the government, and not the court, to act to address the issues raised by the students. And while it is at it, it must also initiate a dialogue with the people who are on the street. That is the least that can be expected.
 
 [Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-heed-complaints-by-students-1971567)
+
+---
+
+### DC Edit | Student Visa  Curbs Will Hurt US
+*Deccan Chronicle · Editorial*
+
+The Donald Trump administration’s decision to tighten the rules concerning the duration of stay for non-immigrant visas, especially those granted to students, will oversimplify the issue and affect honest candidates, whose sole wish was to pursue higher studies in the United States.
+
+According to the old visa rules, the holders of F visas (students) were allowed to stay in the United States until their purpose of visit was completed or the duration of status (DoS). This, the Trump administration alleged, allows foreign students to abuse the immigration system by perpetually enrolling in courses to avoid leaving the US.
+
+Under the proposed system, the stay of students will be capped at four years. If they need additional time to complete an academic programme, they must apply for an extension of stay.
+
+According to a study conducted in 2025, there were 3,63,019 Indian students enrolled at US colleges. Indians form the largest foreign student community in the United States and represent 31 per cent of the 1.2 million international students pursuing higher education in the country.
+
+The number of Indian students in the United States is a small percentage of six million students who pursue postgraduation in India. It is true that every society will have some people who try to game the system, but an attempt to paint all foreign students as black sheep is unfortunate. The visa rules are also consistent with the Trump administration’s preference for making policies based on perception, rather than data.
+
+Foreign students are the major source of income for hundreds of US colleges and they effectively subsidise the education of American students. The new rule, therefore, will affect the US colleges the most and increase the cost of education, while the foreign students look for other alternatives.
+
+The Narendra Modi government must fast-track its attempt to get prestigious universities to set up their campuses in India and ensure that Indians do not have to leave their homeland for higher studies.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-student-visa-curbs-will-hurt-us-1971820)
+
+---
+
+### DELHIBERATIONS |Indian Tourists: The New Masterjis Of The Universe | Padma Rao Sundarji
+*Deccan Chronicle · Opinion*
+
+Indian tourists are having a rollicking time across the globe. Airside or landside, aunties and uncles are breaking into high-decibel bhangra and garba, chanting shlokas in churches and belting out Mera Naam Chin Chin Chu (in the heart of Beijing). We meeker fellow citizens are proud to be thus represented. Racist trolls hurling abuse at us: get a life. We are the new Masterjis of the Universe! The whole world’s our (reluctant) family and we’re everywhere.It took thousands of years to get here. Here’s how we did it:
+
+*The Dhavana Pratiyogita, or the Sprinting Sutra: Your first glimpse of us is usually at the airport lounge buffet. Most people enjoy free food; we Indians treat it as historical reparation.
+
+Plundered by foreign rulers for centuries, fleeced by petty officials for decades and heavily taxed for the privilege of flooded streets and outages, the lounge is our one chance to loot the system back. Naturally, the buffet triggers a genetic survival instinct straight from Kabaddi and Kho-Kho fields. It’s a masterclass in family strategy: burly aunties and uncles form a platoon around the main courses, while the kids execute a tactical raid on the dessert station.
+
+*The “Raashan” Sutra & Harakara martial practice: The Raashan Sutra is a 77-year-old tradition born from induced shortages. While our nation’s (socialist) First Family posed in fur coats in Swinging Sixties London, our parents rationed everything – from kerosene to matchboxes. Today, we honour them: by piling our plates mountain-high with enough food for twenty, and getting sloshed beyond repair. The strategy requires a precision deployment of kids. The youngest stay at the kitchen entrance to spot arriving dishes, the older ones at the cutlery counter to snatch 50 spoons the moment the staff brings them out. The most experienced child is tasked with guarding high-value targets: paneer and chicken. Mirroring the Harakaras -- medieval military runners, bewildering towers of paneer, chhole, chicken, and mutton are passed from Phupha to Chachi to Kaka with the speed and precision of a bomb disposal squad. Meanwhile, the kids stagger back with dozens of Coke cans and every single paper napkin from the freshly refilled tray. If a sudden drought hits the airport, the Sharmas will survive. Their cabin bags will be pre-stocked bunkers.
+
+*Shabda and the “Tarankcalla” Sutra: Do not argue that “Quiet Zone” signs show a universal symbol of a finger held to the lips. We read 28 languages while your ancestors were still dangling from branches, treating hoots and grunts as high literature, okay? Vedic acoustic tradition outlines four stages of sound, from the sublime to the gross, and you’re lucky to witness the last. Consider us your benevolent mascots shattering your negative energy. Blasting “Desi Boyz” at a jackhammer-level 129 decibels on your European train is actually a cosmic healing service. As for calls on speakerphone, we’re preserving our 77-year-old trunk call tradition -- how else are we supposed to be heard in Bathinda, 5,000 km away? Besides, you didn’t listen to us through all those centuries you squatted on our land. It’s our turn to deafen you now.
+
+*The Vegadharna Sutra: Nothing unites snooty content creators faster than filming an uncle drinking tea at a decibel level that defeats jet engines. Ayurveda dictates that “vegadharna” -- natural urges like slurping, burping and belching -- should never be suppressed. Listen up, airheads: internal winds must flow unhindered in all directions. Consider yourself lucky when an Indian tourist undoes a few buttons, lets a hairy belly hang out, and releases his inner dragon. It’s a free lesson in how to respond to an internal weather forecast.
+
+*The Drishti and Darshan Sutra: Inside India or out, we love to stare. It doesn’t matter if a culture considers it rude; staring is our birthright. You are there, so we must stare. The devout long for darshan, for the spiritual gaze. And since every Indian is a little gift from God to the world, consider it divine interaction with the deity to be stared at by one. Do stare back, even if the darshan bestower happens to be digging for gold while goggling you.
+
+Channel your inner guru. If you can master the downward dog, you can ace the frontal gawk too. Locking your gaze traps the mind and stops it from wandering. It’s yoga, stupid!
+
+*The Adhikara Sutra & The Harshit Bagga Uncertainty Principle: When flight departure is announced, the Harshit Bagga Uncertainty Principle kicks in. Indians instantly converge in a “passenger wave packet”. Papaji, Mummyji and Jijaji simultaneously sidle, shift, or float toward the boarding gate. Watch the aunties advance, repel and adjust to one another exactly like electrons. Their spatial coordinates are hard to pin down, given their giant duty-free bags. Given our absolute mastery, I suspect this Principle was originally ours, and plagiarized later by a German upstart named Heisenberg. We’re aces at Quantum Chaos too, so physics ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/delhiberations-indian-tourists-the-new-masterjis-of-the-universe-padma-rao-sundarj-1971830)
 
 ---
 
@@ -165,6 +377,65 @@ In a country where examinations are often treated as the finish line, the IAS st
 We should take comfort from that. We expect India’s civil servants to make decisions that affect millions. The least we can ask is that they continue to be tested before they are entrusted with that responsibility.
 
 [Read full article](https://www.deccanchronicle.com/opinion/columnists/dilip-cherian-as-govt-breaks-its-own-rules-officer-posted-at-fci-is-recalled-1971563)
+
+---
+
+### OF CABBAGES AND KINGS | Political Killings Rise In UK, Like India… But USA Still Leads Pack | Farrukh Dhondy
+*Deccan Chronicle · Opinion*
+
+“The ear of jealousy heareth all things:
+
+That ghosts eat guts and pigs have wings
+
+Visions that fantasy conjures
+
+Truth and reality fade into blurs.
+
+The colour of jealousy is said to be green
+
+But that’s nature’s colour, everywhere seen.
+
+Its conclusions, conjectures are half-cooked, raw
+
+Jealousy is red in tooth and claw…”
+
+From Substandard Fantasies, by BachchooOur world is more than a cruel place -- yes, ‘twas ever thus -- but the contemporary catalogue of hatreds gives rise to new, shameful antagonisms.
+
+Anne Widdicombe, a politician who used to be a Tory minister in past governments and subsequently defected from the Conservative Party to become a spokesperson for what is avowedly the neo-fascist movement called Reform, was murdered in her village home. Aged 78, her body was discovered 24 hours after she had been bludgeoned to death.
+
+A 28-year-old white man has been arrested by the counter-terror squads of the British police. They seem to have conclusive evidence that this suspect is the murderer. The leader of Reform, Nigel Farage, has, before the police provide evidence in a court, publicly concluded that this murder was a “terror” motivated crime.
+
+He didn’t say which “terror”.
+
+He obviously believes that the murderer was opposed to the policies of Reform, for which Anne Widdicombe was an official spokeswoman. As, gentle reader, you already know, the central policy of Reform, and probably the only one which garners votes and membership, is its virulent opposition to immigrants, refugees, asylum-seekers and of course to membership of the European Union, which would allow “Johnny Continental” free access to this country.
+
+We can’t and shouldn’t know till the trial of the, as yet unnamed, accused takes place, what his motivation, if he is guilty, was. Opposition to neo-fascist, classic-fascist, racist, xenophobic, Islamophobic, imperio-nostalgic nationalism….?
+
+That’s one possibility. The other may be that he was a member of, or sympathiser with, the stance of Restore, the party that broke away from Reform on the grounds that it was not far-right enough. Restore was initiated by Atilla the Hun (are you sure about this? --Ed. No, sorry, got led away --fd)
+
+-- apologies, gentle reader, the fellow is called Rupert Lowe. Quite possibly, the murderer of Widdicombe belongs to this faction, attempting to silence one of Reform’s more persuasive propagandists.
+
+The method of murder, bludgeoning someone and leaving them dead in a pool of blood, seems to me more likely the work of some ultra-right maniac, rather than
+
+a left-winger opposed to Reform’s stance on immigrants and asylum-seekers. Of course, one awaits the trial or further information from the anti-terror squad in charge of the case.
+
+Other politicians, of differing sides of the divide, have suffered the same fate in the UK in recent times. The UK is far from the leading country for political assassination.
+
+Yes, India has seen some -- from the shooting of the Mahatma to that of Indira Gandhi and then Rajiv. But surely the record, from the shooting of Abraham Lincoln through the assassinations of John F. Kennedy, Bobby Kennedy, Martin Luther King, Jr and recently the right-wing propagandist Charlie Kirk, sets the United States in the legendary lead?
+
+Do most of these political killings in the UK and the US have some connection to race or religion? The Nazi mentality and persuasion certainly had some roots in anti-semitism. Does neo-Nazism share this hatred and even extend it to other religious groups?
+
+The murder of left-wing the Labour MP, Jo Cox, in 2016, by Thomas Mair, a declared neo-Nazi Brit, suggests precisely that. In her inaugural speech in the House, she said that immigration, from Catholic Ireland and then from Muslim countries, had enhanced the economy and culture of Britain.
+
+The opposite motivation animated Ali Harbi Ali, a sympathiser of the Islamic State (ISIS), who in 2021 stabbed to death Conservative MP Sir David Amess. Ali was arrested at the spot and later given a life sentence. He told the police in interviews that the assassination was motivated by the fact that Amess was a supporter of Israel and an enemy of the Islamic State.
+
+The brutal murder of Ann Widdicombe has led the Reform leader Nigel Farage, and its deputy Richard Tice, to call for further security measures to safeguard the lives and even property of MPs and their families. Their call has been, at least verbally, supported by the departing PM, Sir Keir Starmer, and by the incoming PM, Andy Burnham.
+
+The House of Commons has 650 members. To protect all of them and their families and include, within the security scheme, some outspoken right and left-wing members of the House of Lords and perhaps some mayors of Britain’s cities, would be a huge demand on the State’s police or other security forces or deployments. There would have to be some discretion and judgement of risk.
+
+Undoubtedly, the Reform and Restore MPs face threats from each other and from...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/of-cabbages-and-kings-political-killings-rise-in-uk-like-india-but-usa-still-leads-pack-farrukh-dhondy-1971811)
 
 ---
 
