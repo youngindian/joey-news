@@ -1,3 +1,452 @@
+## 19 July 2026
+
+### Unlock my home now: 13-year-old confronts District Magistrate, video goes viral
+*India Today News Desk · general*
+
+## At a public grievance hearing in Lakhimpur Kheri, a 13-year-old boy challenged the district magistrate over a family property dispute. His blunt appeal highlighted his family's financial strain and frustration over ignored complaints. The conversation soon went viral.
+
+A 13 year old boy's exchange with Lakhimpuri Kheri DM went viral on social media
+
+A routine public grievance hearing in Uttar Pradesh's Lakhimpur Kheri turned into a dramatic confrontation when a 13-year-old boy fearlessly challenged District Magistrate Anjani Kumar Singh, demanding immediate action over a family property dispute and questioning the administration's response.
+
+The Class 8 student, Amitabh Gupta, arrived alone at the district's Sampoorna Samadhan Diwas with an application seeking the removal of a lock allegedly placed on part of his family's jointly owned house by relatives.
+
+As the DM asked whether he had come alone, the boy confidently explained that his father suffers from mental illness, his mother works in homes to support the family, and repeated complaints had failed to bring relief. He said the locked portion of the house could be rented out, helping fund his and his sister's education.
+
+The exchange became increasingly intense when the boy repeatedly interrupted officials, insisting they should not merely promise action but ensure the lock was removed. When a police inspector assured him the matter would be resolved, Amitabh replied, "Don't say you will do it, do it quickly."
+
+The conversation took another dramatic turn when the DM advised the boy to focus on his studies. Amitabh responded that education required money and questioned how his family could afford books and other expenses when his mother earned only around Rs 3,000 a month. He also alleged that complaints submitted earlier had gone unheard and accused local officials of ignoring orders.
+
+The DM urged the boy to avoid making offensive remarks and reminded him that his priority should be education, while assuring him that his grievance would be examined. He directed the local police inspector to personally visit the spot and look into the dispute.
+
+\- Ends
+
+with inputs from Abhishek Verma
+
+Jul 19, 2026 09:13 IST
+
+---
+
+### India-UK ties set for continuity as Andy Burnham takes charge amid CETA boost
+*India Today World Desk · general*
+
+## Strategic experts expect Andy Burnham to keep India-UK ties on a steady course as he takes office. With CETA now in force, the focus shifts to converting goodwill into trade, investment and strategic gains.
+
+Image used for representational purposes only
+
+Strategic experts expect the India-UK partnership to remain steady under incoming British prime minister Andy Burnham, who was elected unopposed on Friday and will take over from Keir Starmer at Downing Street on Monday after the formal handover of power. Their assessment comes in the same week that the Comprehensive Economic and Trade Agreement (CETA) entered into force.
+
+While Burnham has promised to do things differently on several fronts, analysts, diplomats and business voices said India is likely to remain a point of continuity in British foreign policy. They said the next phase could centre on turning the trade pact into gains in investment, exports, jobs, research and strategic cooperation.
+
+"Over this past year, we have valued close engagement with the Greater Manchester authorities, particularly Mr Andy Burnham, whose energy and warm support has done much to strengthen India-North-England ties," Vishakha Yaduvanshi, the Consul General of India in Manchester, told PTI. As the first head of India’s new diplomatic mission in the UK, she described the Consulate’s opening in March last year as a "landmark moment" that highlights the potential of the north of England, including "its industries, academia and sporting ethos", within the India-UK relationship.
+
+Yaduvanshi said Burnham’s 2019 visit to India, his meeting with former Indian high commissioner Vikram Doraiswami in December 2025, and his virtual participation in the India-North England Opportunity Summit in March 2026 showed a longstanding commitment to the partnership. Burnham has spoken of "fond memories" from his visit to Mumbai, Bengaluru and Delhi seven years ago, which was coordinated by the Manchester India Partnership, a platform set up for businesses and universities to engage with India.
+
+At the time, Burnham had said: "India is a key market in Greater Manchester’s internationalisation strategy as it presents significant opportunities to the city-region, but these opportunities are mutual, and Greater Manchester is also helping India with its own economic growth plans." He identified "digital technology, engineering, advanced manufacturing, healthcare and academia" as key sectors, along with "opportunities for tourism, sport and cultural collaboration".
+
+Rajesh Agrawal, chair of the Labour Friends of India diaspora group, said Burnham has focused on building long-term links. "Andy understands that growth comes from longer-term relationships. If you look at his own track record in Manchester, he’s worked to strengthen links with India through businesses, universities, innovation and improving connectivity with a direct flight between India and Manchester," he said. Agrawal, who worked closely with Burnham during his earlier tenure as Labour’s deputy mayor of London, also said Burnham’s devolution agenda could align with India’s federal structure. "He’s a big fan of devolution and empowering different regions, and India is of course a federal structure with many states. So, I also see him engaging more with regional governments," he said.
+
+Rahul Roy-Chaudhury, Senior Fellow for South Asia at the International Institute for Strategic Studies, said he sees "continuity" in the relationship because it "has not been better in over a decade", pointing to back-to-back prime ministerial visits last year and CETA coming into force on Wednesday. He said Burnham now has "an opportunity to deepen these improved India-UK ties, deliver on the prosperity agenda and ensure a landmark dividend on bilateral defence and strategic cooperation with India, which looks to diversify its defence relationships while modernising its armed forces capability and boosting defence manufacturing in order to export to the world".
+
+British Indian think tank 1928 Institute also said the relationship has strong momentum, but called for steps to sustain it. "From an India policy and diaspora perspective, Andy Burnham would inherit a strong foundation. However, his attention is likely to be pulled in several directions, particularly given the domestic focus of his agenda. It would therefore be prudent to establish an India Task Force and/or appoint an India Trade Envoy, to maintain the current momentum," said institute chair Dr Nikita Ved.
+
+Lord Karan Bilimoria, Cobra Beer founder and co-chair of the India All Party Parliamentary Group, said he was confident Burnham would continue to "prioritise India". He also said he hoped the political instability that is bringing in the UK’s seventh prime minister in 10 years would give way to steadiness. "Stability for at least for the next three years until the next general election, so that businesses in the UK and in India can invest in each other’s countries... which will create jobs on both sides," he said. "We need to double our trade, going from nearly 50 billion pounds today to 100 billion pounds by 2030... I’m very confident of a very bright future for the UK and India from now onwards," he added.
+
+Tech entrepreneur Uday Nagaraju, one of the newer British Indian Labour peers in the House of Lords, said the incoming prime minister "inherits an exceptionally strong" bilateral position and is expected to maintain the "same strategic direction" with India. "It would also be combined with Andy Burnham’s own characteristic focus, based on his work in Manchester on regional growth, skills, infrastructure, and bringing government and business together. I think the next stage \[for India-UK ties\] will be about converting the trade agreement into investment, exports, jobs, research partnerships, and opportunities for smaller companies in both countries," he said.
+
+Overall, diplomats, experts and business voices expect Burnham to keep India-UK ties on their present course, with CETA, recent high-level engagement and stronger regional links seen as the main base for the next phase of the partnership.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Jul 19, 2026 09:12 IST
+
+---
+
+### Panama foreign minister arrives in India on five-day official visit
+*SECTIONS Panama foreign minister arrives · business*
+
+New Delhi: Panama Foreign Affairs Minister Javier Eduardo Martinez-Acha Vasquez arrived in the national capital on Sunday for a five-day official visit to India, intended to enhance bilateral relations between the two countries.
+
+Welcoming the visiting dignitary, Ministry of External Affairs (MEA) spokesperson Randhir Jaiswal posted on X, saying, "Warm welcome to FM @javierachapma of Panama on his arrival in New Delhi. India and Panama share a close partnership anchored in shared values, mutual interests and goodwill."
+
+The official visit, running from July 19 to 23, underlines the intensifying engagement between the two nations across sectors including trade, commerce, connectivity, and diplomatic collaboration.
+
+According to the MEA, the Panamanian Foreign Minister is slated to participate in several high-level meetings with senior Indian leadership during his time in New Delhi.
+
+On Monday, Martinez-Acha is scheduled to hold talks with Minister of Commerce and Industry Piyush Goyal at the New Parliament Building to discuss strategies for broadening bilateral trade and economic relations.
+
+Later on Monday, he will lead delegation-level talks with EAM Jaishankar at Hyderabad House. The two leaders are anticipated to review the comprehensive framework of India-Panama relations and identify fresh pathways for partnership in sectors of mutual benefit.
+
+The visiting Foreign Minister will continue his official engagements in New Delhi on Tuesday, followed by a meeting with Union Minister for Ports, Shipping and Waterways Sarbananda Sonowal at Transport Bhavan on Wednesday.
+
+These discussions are projected to focus heavily on maritime cooperation, logistics, port infrastructure development, and enhancing connectivity between India and Panama.
+
+The Panamanian Foreign Minister will conclude his official trip and depart from India on Thursday.
+
+This high-profile visit follows a sequence of growing diplomatic exchanges between the two republics. Earlier this month, India's Ambassador to Panama, Sumit Seth, met Foreign Minister Martinez-Acha to deliberate on mechanisms to further cement the India-Panama bilateral partnership.
+
+Detailing the interaction on X, the Embassy of India in Panama noted that Ambassador Seth presented the Foreign Minister with the ceremonial "India-Panama Flags Pin". The embassy added that the two figures exchanged perspectives on scaling up cooperation and reinforcing the long-standing friendship linking the two states.
+
+India and Panama share warm and friendly ties grounded in democratic ideals, mutual respect, and escalating cooperation across trade, investment, maritime affairs, connectivity, and multilateral forums.
+
+The current visit by Foreign Minister Javier Martinez-Acha is anticipated to inject fresh momentum into these bilateral dynamics and unlock new avenues for strategic collaboration across pivotal sectors.
+
+---
+
+### Pakistan raises jet fuel price by PKR 40.35 per litre amid global oil market volatility
+*SECTIONS Pakistan raises jet fuel price by PKR · business*
+
+Karachi: Pakistan has increased the price of jet fuel used by commercial airlines by PKR 40.35 per litre, taking the latest price to PKR 291.55 per litre, The Express Tribune reported, citing sources.
+
+According to The Express Tribune, the increase is expected to raise operating costs for airlines and may lead to higher airfares.
+
+Sources told The Express Tribune that the latest revision comes just two weeks after a previous hike, bringing the cumulative increase in jet fuel prices over the past fortnight to PKR 53.58 per litre. The rise has been attributed to increasing international oil prices amid ongoing geopolitical tensions.
+
+  
+
+The higher aviation fuel prices are expected to put additional pressure on airlines, as fuel costs account for a significant portion of their operational expenses. Industry sources indicated that carriers may consider increasing ticket prices to manage the impact of rising costs.
+
+The development comes after the Pakistgovernment announced a shift to daily petroleum price reviews, replacing the earlier weekly pricing mechanism, The Express Tribune reported.
+
+The decision was taken amid renewed volatility in global energy markets following escalating tensions between the United States and Iran.
+
+Under the revised pricing system, the government also increased the ex-depot price of High-Speed Diesel (HSD) by PKR 31.05 per litre, from PKR 323.30 to PKR 354.35 per litre. The price of petrol was raised by PKR 5.44 per litre, from PKR 310.71 to PKR 316.15 per litre. The revised rates came into effect from July 18, The Express Tribune reported.
+
+Officials said the daily review mechanism would allow domestic fuel prices to respond more quickly to fluctuations in international oil markets while reducing the risk of supply disruptions and speculative hoarding.
+
+Pakistan had earlier revised fuel prices on a fortnightly basis before moving to weekly adjustments during the initial phase of the US-Iran conflict. However, with tensions rising again and concerns growing over possible disruptions to oil shipments through the Strait of Hormuz, authorities decided to introduce daily revisions.
+
+The latest increase in jet fuel prices is expected to impact Pakistan's aviation sector, which is already facing pressure from rising operational expenses. Airlines may need to reassess fares and other costs if global oil prices remain elevated.
+
+---
+
+### Kerala Lottery Result Live: Samrudhi SM-64, July 19, 2026 Winners | News18
+*Nibandh Vinod · general*
+
+Kerala Lottery Result Today: Samrudhi SM-64 lottery result will be declared today, on Sunday, July 19. Check the live updates and full list of winning numbers from 3 pm.
+
+[Read full article](https://www.news18.com/india/kerala-lottery-result-today-samrudhi-sm-64-july-19-live-10217840.html)
+
+---
+
+### India's Silent Cholesterol Crisis: 9 In 10 Indian Adults Have Abnormal Blood Lipids, Says Study
+*Pragya Bahuguna · general*
+
+Nearly 90% of Indian adults have at least one abnormal blood lipid, according to an ICMR study, highlighting a silent risk factor for heart disease and stroke.
+
+[Read full article](https://www.news18.com/india/indias-silent-cholesterol-crisis-9-in-10-indian-adults-have-abnormal-blood-lipids-says-study-ws-el-10221047.html)
+
+---
+
+### Breaking Snooze: Inside the booming sleep economy
+*Nupur Amarnath · business*
+
+Once a badge of honour for hustlers, the phrase hasn’t aged well. Sleep has been rebranded — from downtime to a performance tool, a wellness ritual and a luxury commodity. But in the battle of rest, what works and what doesn’t? We find out…
+
+## WELCOME TO THE SLEEP ECONOMY  
+
+Consulting firm Frost & Sullivan estimated in 2020 that the global sleep economy will touch nearly $600 billion in 2025. Brand strategist Harish Bijoor says that sleep is emerging as one of the strongest brand propositions in the wellness segment.“There are really two kinds of nations. One gets healthy before it gets wealthy and vice versa. India belongs to the second category,” he says. Contemporary India, he says, is now discovering the biological necessity of sleep. Shreya Jain, co-founder of The Stack, says consumers increasingly view sleep as an investment rather than a comfort, shifting from reactive healthcare to proactive wellness and fuelling demand for supplements, wearables and sleep technology.
+
+A 2025 systematic review published in the Indian Journal of Public Health, analysing nearly 68,000 people, found that one in four Indians suffers from insomnia, while over a third are affected by obstructive sleep apnoea.
+
+  
+
+**“Sleep has gone from being something people thought about only when they had a problem to becoming a core pillar of overall health and performance.”** — Shreya Jain
+
+ET Bureau
+
+he science, business and myths behind the modern sleep revolution
+
+## SHOPPING FOR SHUT-EYE  
+
+The sleep aisle has become as crowded as the skincare shelf — from melatonin gummies and magnesium pills to cooling pillows, nasal strips and smart mattresses. But are we sleeping better? Not necessarily.
+
+Dr Shahid Patel, consultant pulmonologist at Medicover Hospitals, Navi Mumbai, says sleep awareness has been both a blessing and a curse: “While it is important for people to value their sleep, we’re also seeing people sleep worse due to an obsession with tracking it.”
+
+“Many patients have turned to sleep gummies, herbal supplements, white noise devices or social media guidance before going to a doctor. Such things might provide comfort, but they seldom point out the real cause of poor sleep. Patients may develop unreasonable hopes too.”— DR HARISH CHAFLE, senior consultant, sleep disorders, Gleneagles Hospital, Mumbai
+
+**WHAT WORKS  
+**Sleep clinics, Cognitive Behavioural Therapy, supportive mattress and pillow.
+
+**WORKS FOR SOME  
+**Melatonin (for jet lag, shift work), magnesium (if deficient)
+
+**HIT OR MISS  
+**Chamomile, valerian root, ashwagandha, sleep gummies, white-noise gadgets, mouth tape.
+
+## THE SLEEP DIET  
+
+Clinical dietitian Dr Jinal Patel, Zynova Shalby Hospital, Mumbai, says that while sleep supplements are popular currently, not all are equally effective. Melatonin has the strongest evidence for jet lag, shift work and delayed sleep cycles, while magnesium may help only in specific cases. Herbal remedies such as chamomile, valerian root and ashwagandha show promise, but evidence remains inconsistent.
+
+## TEN COMMANDMENTS OF SLEEP  
+
+1\. Keep a sleep schedule. Go to bed and wake up at the same time every day — even on weekends.  
+2\. Aim for 7-9 hours. Consistency matters.  
+3\. Make your bedroom sleep-friendly. A comfortable mattress and pillow, a cool temperature, blackout curtains and a quiet room.  
+4\. Put your phone to bed before you turn in. Avoid screens for at least an hour before bedtime.  
+5\. Watch what you eat and drink. Skip heavy meals, caffeine, nicotine and excess alcohol close to bedtime.  
+6\. Exercise, but time it right. Regular physical activity improves sleep, but avoid vigorous workouts late in the evening.  
+7\. Don’t fall for miracle cures. Sleep gadgets, viral hacks and supplements can’t replace good sleep hygiene.  
+8\. Use melatonin wisely. It can help with jet lag, shift work and certain sleep disorders — but it should ideally be taken under medical guidance.  
+9\. Know when to seek help. Persistent insomnia, loud snoring, excessive daytime sleepiness or breathing pauses during sleep warrant a consultation with a sleep specialist.  
+10\. Treat sleep like medicine. Good sleep is built on daily habits, not gadgets. The best investment isn’t the latest sleep tech — it’s a lifestyle that allows you to switch off.
+
+**“Sleep is the new green. People will invest in everything 
+
+**“Consumers should remember that gummies and supplements are not always regulated as rigorously as medicines. Marketing promotes them as quick fixes, but claims are not backed by strong clinical research.”** — Dr Jinal Patel
+
+## EAT WELL, SLEEP BETTER  
+
+Foods containing tryptophan (milk, curd, eggs, soy, turkey), magnesium (nuts, seeds, leafy greens) and potassium (bananas, coconut water) should be part of a balanced diet.
+
+## TRAVEL TO SLEEP  
+
+Travel may have been all about packed itineraries, but today, rest has become a priority. This is why sleep tourism has become one of the fastest-growing niches within the wellness economy.
+
+Hilton’s 2026 Trends Report identifies ‘Hushpitality’ as one of the biggest emerging travel trends, reflecting a growing demand for quieter, restorative stays. “In today’s always-on world, where demanding schedules, constant notifications and endless screen time have made quality sleep increasingly elusive, the ability to truly rest has become one of life’s greatest luxuries,” says Candice D’Cruz, vice-president, Luxury Brands, Hilton Asia Pacific.
+
+It goes beyond plush beds. Conrad Bengaluru offers soundproof rooms, blackout curtains, motion-minimising mattresses and personalised pillow menus, while Conrad Pune adds sleep kits and temperature-controlled rooms.
+
+Resorts like Six Senses have launched the ‘Sleep With Six Senses’ programme. They’ve collaborated with sleep physician Dr Michael J Breus. Guests fill an online sleep questionnaire followed by a personalised consultation with a dedicated sleep ambassador. Mark Sands, vice-president, wellness at Six Senses, says the idea is to give guests a genuine blueprint for better rest, not just a nicer bed.
+
+Some of the biggest takers are CEOs and entrepreneurs. According to Sands, business leaders increasingly recognise that quality sleep is directly linked to better decision-making, resilience and long-term performance.
+
+## WHAT’S IN A SLEEP HOTEL?  
+
+Motion-minimising mattresses  
+Handmade natural mattresses  
+Personalised pillow menus  
+Blackout curtains  
+Individual room temperature controls  
+Soundproof rooms  
+Yoga nidra  
+Sleep-supportive meals  
+Sleep ambassadors  
+Personalised consultations  
+Sleep kits
+
+ET Bureau
+
+Types of products for better sleep
+
+## TO TRACK OR NOT TO TRACK  
+
+Technology has undoubtedly made us more aware of our sleep. But experts warn that it has also made some people anxious about it. Sleep scores, recovery percentages and nightly graphs have turned bedtime into another performance metric. Dr Shahid Patel says this growing obsession can sometimes backfire. “We’re seeing people who paradoxically sleep worse because they’re constantly monitoring every aspect of their sleep.” Doctors refer to this as orthosomnia — a term coined in 2017.
+
+Chafle says, “Although wearables provide useful information, they are not enough for diagnosing sleep disorders. If sleep problems persist, people should seek medical advice instead of buying another gadget.
+
+## 10 PRODUCTS FOR BETTER SLEEP  
+
+**AI Mattress:** Tracks movement, heart rate and sleep quality through embedded sensors.
+
+**Temperature-Control Mattress Cover:** Automatically cools or warms your bed overnight
+
+**Contactless Sleep Tracker:** Monitors sleep stages, breathing, snoring and movement from under the mattress
+
+**Smart Ring:** Measures sleep, recovery and heart-rate variability
+
+**Recovery Band:** Screen-free wearable focused on sleep and recovery
+
+**Brainwave Headband:** Uses brain activity and audio cues to improve sleep
+
+**Sleep Gummies:** Melatonin-based supplements to aid sleep onset
+
+**Sleep Earbuds:** Comfortable overnight earbuds with noise isolation
+
+**Sleep Apps & Sleepcasts:** Guided meditations, stories and calming soundscapes
+
+**White Noise Machine:** Masks background noise
+
+---
+
+### 'Illegal Protest': Delhi Police deny permission for CJP's Sansad Chalo march on July 20, says 'no permission sought'
+*Monica Singh · general*
+
+Sonam Wangchuk was admitted to Delhi's Safdarjung Hospital for medical evaluation as his hunger strike entered week 3. Meanwhile, Delhi Police declared the CJP's "Sansad Chalo" march to Parliament on July 20 as "illegal", saying no permission was sought.
+
+Activist Sonam Wangchuk was admitted to Delhi's Safdarjung Hospital on Saturday for medical evaluation. The admission came even as support mounted for the Cockroach Janata Party's planned "Sansad Chalo" march to Parliament on July 20. The march is scheduled for the first day of the Monsoon Session.
+
+Wangchuk's hunger strike has now entered its third week and has been drawing growing political backing.
+
+## **Delhi Police: 'Sansad Chalo' march will not be permitted**
+
+Delhi Police made it clear that the march would not be allowed. They called the ongoing protest at Jantar Mantar "illegal" and warned of action if demonstrators attempt to proceed towards Parliament.
+
+Senior officers said the proposed march could disrupt law and order in one of the capital's most sensitive security zones.  Officials added that any large gathering moving towards Parliament could create public safety concerns and severely affect traffic in central Delhi. Protesters could be detained if they attempt to breach security arrangements.
+
+## **No permission sought, say police**
+
+A senior police officer said that organisers had neither informed the police nor sought permission. "CJP spokesperson Abhijeet Dipke has never informed us or applied for permission for the Sansad Chalo march," the officer said. 
+
+"It’s a completely illegal protest because they only had permission for one day. We even made them sign undertakings. Now, they have extended it without any permission. Also, for the march, we only approached them but they have not even applied for permission."
+
+The standoff sets up a confrontation as CJP supporters prepare to march to Parliament on July 20.
+
+---
+
+### Monsoon set for a strong comeback: When and where will it rain next week?
+*India Today Science Desk · general*
+
+For much of July, the monsoon has behaved like a guest who arrived, unpacked, and then quietly stopped showing up for dinner.
+
+The clouds thinned, the plains simmered, and the rain retreated towards the Himalayan foothills. Now, the India Meteorological Department (IMD) says the wait is nearly over. The monsoon is preparing a strong comeback.
+
+### WHEN AND WHERE WILL IT RAIN NEXT WEEK?
+
+The revival is expected to begin over Northeast India and then spread to East, Central and North India early next week.
+
+Widespread showers and thunderstorms are likely, with heavy rain in some places. For the Gangetic plains and Central India, which have spent weeks under a hot, sticky haze, this will be the first real relief of the month.
+
+### WHAT WILL BRING THE RAIN BACK?
+
+The engine of the comeback is a fresh low-pressure area forming over the Bay of Bengal.
+
+A low-pressure area is a patch of the atmosphere where air rises. As it rises, it behaves like a giant vacuum cleaner, sucking in moist winds from the sea and organising them into rain-bearing clouds.
+
+As this system drifts inland across the east coast towards Central India, it will drag the monsoon trough back into position. The trough is an elongated line of low pressure stretching across northern India, and it works as the spine of the monsoon. Where the trough sits, the rain follows.
+
+For weeks, this spine had shifted north towards the Himalayan foothills. That is why the hills received heavy rain while the plains stayed dry. Once the trough returns south, moist winds from both the Bay of Bengal and the Arabian Sea are expected to push deep inland, feeding rain across a much wider area.
+
+### WHY DID THE MONSOON GO QUIET IN JULY?
+
+India has been in what meteorologists call a break monsoon phase, a well-known lull in which the trough drifts north and Central India dries out.
+
+Very few low-pressure systems formed over the Bay of Bengal this month, the moisture-carrying winds from the Arabian Sea weakened, and sinking air over the country suppressed cloud growth.
+
+The result is a nationwide rainfall deficit of 24 per cent so far, with India receiving 244.6 mm of rain against a normal of 323.1 mm.
+
+### WHY HAS IT FELT SO HOT WITHOUT RAIN?
+
+Because the moisture never left, only the clouds did. Strong sunshine heated the land, while high humidity stopped sweat from evaporating efficiently, pushing the "feels-like" temperature, or heat index, above 40 degrees Celsius in many cities.
+
+Dry spells make this worse. Research on India's core monsoon zone shows that when soils dry out, more of the Sun's energy goes into heating the air instead of evaporating water, amplifying the heat further.
+
+### IS ONE WEEK OF RAIN ENOUGH?
+
+No. Next week's burst will cool the plains and help farmers sow rice, soybean, cotton and pulses. But erasing a seasonal shortfall needs sustained, widespread rain over several weeks.
+
+The real test for this monsoon begins now, and August will decide how the season is remembered.
+
+\- Ends
+
+Radifah Kabir
+
+Jul 19, 2026 08:57 IST
+
+---
+
+### Assam Forest Minister reviews Kaziranga tourism preparedness, seeks stakeholder suggestions for integrated development
+*Unknown · business*
+
+Kaziranga: Assam Forest Minister Jayanta Mallabaruah on Saturday held an extensive review meeting with stakeholders associated with the tourism sector at the Forest Convention Centre, Kohora, Kaziranga National Park and Tiger Reserve to discuss preparations for the forthcoming wildlife tourism season and chart a comprehensive roadmap for strengthening conservation and sustainable tourism in the World Heritage Site.
+
+The meeting was attended by representatives from the tourism industry, local stakeholders and officials of the Forest Department to deliberate on measures aimed at improving visitor facilities, strengthening wildlife conservation and enhancing coordination among all agencies involved in the management of Kaziranga.
+
+The Assam Forest Minister said the objective of the consultation was to prepare in advance for the next tourism season by incorporating practical suggestions from all stakeholders.
+
+  
+
+He requested stakeholders to submit their recommendations in writing to the department within the next 10 days so that they could be examined and incorporated into the department's future action plan.
+
+"I have had a very constructive discussion with the stakeholders today. I requested everyone to submit their suggestions to the department within the next 10 days. I will return to Kaziranga after that to review the recommendations and finalise our roadmap for the coming tourism season," the Minister told ANI.
+
+Jayanta Mallabaruah noted that his previous association with the Tourism Department had given him a close understanding of Kaziranga's strengths as well as the challenges faced by the tourism sector.
+
+"The Forest Department would work in close consultation with stakeholders to identify priority interventions for conservation, visitor management and tourism development," the Minister said.
+
+The Minister invited suggestions on improving facilities for temporary forest workers, strengthening amenities for tourists and enhancing measures for wildlife protection.
+
+He said every recommendation received from stakeholders would be examined carefully before final decisions are taken.
+
+Highlighting the importance of institutional coordination, Jayanta Mallabaruah said the Forest Department and the Tourism Department would work together to ensure balanced development while safeguarding the ecological integrity of Kaziranga.
+
+He expressed confidence that close coordination among all concerned departments would facilitate effective implementation of future initiatives.
+
+The Minister reiterated the government's commitment to protecting forest areas from illegal encroachment and deforestation.
+
+Referring to recent reports of forest destruction along the Chirang-Bhutan border, he said the department was maintaining a strict vigil and had already deployed officials to the concerned locations.
+
+He stated that while boundary-
+
+On forest governance reforms, Mallabaruah said the department has introduced an online system for obtaining Transit Permits, including Brown Transit Permits for the transportation of sand and gravel, enabling payments to be made digitally and reducing unnecessary human intervention.
+
+He urged traders to pay government revenue through the online system and report any instances of harassment by officials through WhatsApp so that immediate action could be taken.
+
+The Minister said the new digital system had already begun yielding positive results by improving revenue collection and ensuring that government revenue reaches the state exchequer through transparent processes.
+
+He said the department would continue simplifying procedures while progressively introducing technologies such as CCTV surveillance and body cameras at inter-state border checkpoints to further strengthen transparency and accountability.
+
+Minister Baruah also underlined the need to enhance tourism revenue in Kaziranga through improved tourism and hospitality infrastructure while ensuring that conservation remains the foremost priority.
+
+Referring to experiences from other wildlife destinations in the country, he said there is considerable scope to increase tourism revenue through better facilities, including quality accommodation for different categories of visitors, without compromising environmental safeguards.
+
+"Increased revenue generated through responsible tourism would directly support wildlife conservation, habitat management and other developmental works within protected areas," he said.
+
+At the same time, he emphasised that all future initiatives would be guided by ecological considerations.
+
+On the issue of year-round tourism, the Minister clarified that tourism activities inside the core area of Kaziranga cannot continue throughout the year due to ecological requirements, including the annual flood cycle that sustains the park's unique biodiversity.
+
+However, he said the department would explore options for promoting tourism-
+
+The Minister further stated that issues relating to temporary forest workers, grassland conservation, roadside tree management and other departmental matters would be examined in detail during subsequent departmental meetings.
+
+Concluding the visit, Baruah reaffirmed the government's commitment to adopting a participatory approach to conservation and tourism development.
+
+He said the suggestions received from stakeholders would help the department prepare a comprehensive strategy for the sustainable management of Kaziranga, ensuring that conservation, tourism and community interests progress together.
+
+Cabinet Minister Keshab Mahanta, MP Kamakhya Prasad Tasa and senior officials of the Forest Department and District Administration were also present at the meeting.
+
+---
+
+### Overnight rain triggers flash floods in J&K's Rajouri, hundreds evacuated
+*India Today News Desk · general*
+
+## Overnight torrential rain triggered flash floods across Rajouri, inundating low-lying areas, sweeping away vehicles and forcing hundreds to evacuate as rescue teams raced to prevent casualties.
+
+All major rivers in the district were in spate, with most flowing close to or above the danger mark. (Image: X)
+
+Flash floods triggered by incessant overnight rain inundated parts of Rajouri town in Jammu and Kashmir early on Sunday, forcing hundreds of residents to evacuate as overflowing rivers submerged low-lying areas, including the new bus stand, officials said.
+
+Dozens of vehicles were swept away or submerged after rivers breached their banks, causing widespread disruption. Rescue and relief teams, assisted by the local administration, launched evacuation operations while officials assessed the extent of the damage.
+
+The flooding came amid a weather advisory forecasting moderate to heavy rainfall across Jammu and Kashmir till July 23. Rajouri district witnessed continuous rainfall from Saturday evening, followed by intense overnight showers that caused rivers and streams to overflow.
+
+Officials said all major rivers in the district, including the Darhali, Khandli, Suktoh and Jamola, were in spate, with most flowing close to or above the danger mark, leading to flooding in several low-lying localities.
+
+The Darhali River breached a flood protection wall near Bela Colony, sending floodwaters into the new bus stand where dozens of vehicles were either washed away or left submerged. The slum settlement near Abdullah Bridge was among the worst-hit areas, with more than 50 families forced to leave their homes after floodwaters entered the locality.
+
+Floodwaters also inundated the area near Tariq Bridge, prompting police and emergency personnel to respond to multiple distress calls and assist residents in moving to safer locations away from riverbanks.
+
+"Our teams are responding to almost every SOS call. At this stage, our priority is to prevent any loss of life. While there has been significant damage to property, the extent of the losses will be assessed once the floodwaters recede," a police official said.
+
+Police teams continued patrolling vulnerable areas, making public announcements and urging residents living along riverbanks and in low-lying areas to evacuate immediately as the flood threat persisted. The district administration also issued an advisory asking people to remain vigilant, while police established control rooms to coordinate rescue efforts and assist affected residents.
+
+Rajouri MLA Iftkhar Ahmad said the flash floods had caused extensive damage to public and private property. He cut short his scheduled participation in his party's protest demanding the restoration of statehood outside Lok Bhavan in Jammu and returned to Rajouri to oversee the relief efforts.
+
+"I have abandoned my party programme to stand with my people, as the flash floods have caused extensive damage to public and private property," Ahmad said, urging the district administration to immediately begin relief and rehabilitation measures for affected families.
+
+The flash floods left large parts of Rajouri's low-lying areas inundated, damaged homes, public infrastructure and vehicles, and triggered a large-scale evacuation as authorities worked to ensure there was no loss of life.
+
+\- Ends
+
+India Today Web Desk
+
+Jul 19, 2026 08:47 IST
+
+---
+
+### 'Trump's signature is worthless,' Khamenei says as Iran strike kills two US troop members in Jordan
+*ET Online · business*
+
+Two U.S. military personnel in Jordan were killed on Friday (July 17) as they defended against an attack by Iranian missiles and drones, the U.S. Central Command (CENTCOM) said in a statement on Saturday (July 18). Additionally, CENTCOM said, one service member is currently missing in action, and four American service members were medically evacuated to Jordanian hospitals. The casualties come as the U.S. completed a 7th consecutive night of strikes on Iran following the collapse of a ceasefire and as Iran launched strikes on U.S. bases in the Middle East.
+
+
+---
+
 ## 18 July 2026
 
 ### Vikram-1 Rocket Launch Live Updates: PM Modi's 'Vande Mataram' Note To Ride Into Space As India Gears Up For Vikram-1 Launch
