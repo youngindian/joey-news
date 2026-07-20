@@ -1,10 +1,232 @@
 # Editorials
 
-_Last updated: 2026-07-19 04:50 UTC_
+_Last updated: 2026-07-20 05:07 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
 
+## 20 July 2026
+
+### The stark reality of the missing jobs for India’s Gen Z
+*The Hindu · Opinion*
+
+India has one of the world’s largest youth populations (371 million, according to United Nations data of 2025), often described as a demographic dividend. But this demographic dividend is only a promise and does not guarantee an automatic outcome. It pays off only when the transition occurs, enabling young people to move from classrooms into decent, productive work with higher skills. Right now, that transition is faltering, and the evidence is visible in Gen Z’s employment patterns.
+
+Empowering India’s youth by supporting their mental health The term ‘Gen Z’ refers to individuals born between 1997 and 2012. They succeeded the Millennials (also known as Generation Y), who were born between 1981 and 1996. The working-age population for Gen Z broadly falls within the 15-26 age group, while Millennials are aged between the years 27 to 42. According to the 2023-24 Periodic Labour Force Survey (PLFS), India has an estimated 29.94 crore working-age Gen Z individuals (aged 15-26 years), compared with 35 crore Millennials (aged 27-42 years). Using the same datasets, we analyse their occupational patterns, labour force participation rates, unemployment levels, and access to social security systems.
+
+Gen Z attitude? Or outdated work culture? What takes the blame?Gen Z work statusPLFS 2023-24 estimates show that a large share of Gen Z remains engaged in education. The data show that 41.7% of young males and 38.4% of young females are studying. While this partly explains their delayed entry into the labour market, the situation of the remaining youth is a cause for concern.
+
+Hiring Gen Z: What the next workforce generation wantsWhen young people do enter the labour market, many are absorbed into non-salaried and casual forms of employment. Among young males, 15.8% are engaged as unpaid family workers, 12.3% are in casual work — possibly with segments of the informal economy — and only 14.8% are regular wage earners. Among female Gen Z individuals, about 35% are engaged in domestic duties (out of the labour force), 10.7% work as unpaid family workers, and only 4.7% are regular wage earners.
+
+Also Read | A view of the office through Gen Z eyes
+
+These patterns underline the fact that women bear this burden disproportionately. Among Gen Z females, 27.1% are engaged in domestic duties only, compared with just 0.32% of males. Even where women want paid work, they face higher unemployment and weaker labour market attachment. This is not only a matter of jobs. It also reflects childcare burdens, safety concerns, mobility constraints and social norms, and the design of work itself. India cannot talk seriously about harnessing its demographic advantage while leaving such a large share of young women outside the paid economy.
+
+What happens when young people try to enter the labour market? The answer is concerning: too many of them are unable to find adequate employment opportunities.
+
+The first indicator to consider is the labour force participation rate (LFPR). Among Gen Z, 41.7% are in the labour force, against 75% of Millennials. Within Gen Z, rural participation (44.1%) exceeds urban participation (37.2%), suggesting that rural youth tend to enter the labour market earlier, whereas urban youth spend more time in education and training. A sharp gender divide is also evident. Among young males, labour force participation is 59.3% in rural India and 51.3% in urban India, compared to just 28% and 21.1% respectively for young females.
+
+Unemployment in India rises slightly to 5% in January: Government surveyThe unemployment situation is even more alarming. The overall unemployment rate for Gen Z is 11.9%, compared to only 2% among Millennials. In urban India, the situation deteriorates further, with Gen Z unemployment rising to 17.1%.
+
+For urban young women, it reaches a staggering 22.6%. This is not merely a temporary labour-market friction; it is a serious warning sign that the economy is struggling to absorb young jobseekers, particularly in areas where aspirations and educational qualifications are often higher.
+
+The graduate trap, social security mirageFor most of the youth, education offers a gateway of opportunity: more education leading to better jobs and lower unemployment. Instead, our estimate shows the opposite at the top end. Among Gen Z males with graduate-level education or above, unemployment stands at 29%. Among Gen Z females, it is even higher at 36.9%. This is the heart of India’s silent jobs crisis. The country is producing educated young people faster than it is producing suitable jobs for them.
+
+A similar disparity persists among Millennials. Only 5.2% of male graduates and above are unemployed, but the corresponding figure for women is significantly higher at 13.8%.
+
+This disconnect perhaps points to a deeper mismatch between the education system and labour market requirements. While part of the problem relates to skill mismatches, it is also increasingly shaped by automation and the growing adoption of artificial intelligence, both of which are altering the nature of available jobs.
+
+That mismatch carries a deeper risk. When higher education no longer improves employment prospects quickly or reliably, frustration rises, family investment in education comes under strain, and confidence in the growth story weakens. A labour market that cannot absorb its educated youth is not just inefficient. It can become socially corrosive and destabilising. Even for those who do find work, the quality of employment remains deeply concerning. Only 20.1% of Gen Z individuals are covered by social security, and just 14.1% have a formal job contract. Among the remaining 79.9% who lack social security coverage, only 3.2% have a job contract. Overall, only 17.3% of Gen Z workers have any form of contractual employment.
+
+This implies that most are entering the workforce without either. The challenge, therefore, is not merely unemployment but the widespread prevalence of informal, insecure, and weakly protected work. Further, in recent years, there has been growing evidence of the informalisation of formal employment among the Gen Z population.
+
+The situation among Millennials is only marginally better. Merely 26% have a job contract, while only 28.6% are covered by social security.
+
+The recent large-scale violent labour protests in Noida, Uttar Pradesh, led by industrial and factory workers demanding higher wages and better working conditions, reflect the frustration that insecure and poorly protected employment can produce.
+
+A promise deferredIndia’s jobs debate is too often discussed in silos: unemployment, skilling, women’s work and labour force participation, and informality. However, these are not separate problems. They are one connected failure of labour market transition. Young people (Gen Z) are staying in education longer, but the bridge from education to work is weak. Women face structural barriers that keep them out or push them into unpaid roles. And even when work is found, it is too often outside the protections of formal employment.
+
+It is time India moves beyond merely celebrating its large demographic dividend and begins treating the issue with greater urgency. Skill programmes have value, but they cannot substitute for actual job creation. The answer lies in expanding labour-intensive sectors, building stronger school-to-work pathways, linking training more closely to employers, and making it easier for women to enter and remain in paid work. Apprenticeships, formal hiring incentives, urban employment expansion, safe transport and childcare support all need to be part of the response.
+
+The numbers tell a blunt story. India’s youth challenge is no longer about whether young people are ready for work. It is about whether the economy is ready for them. Until that changes, the demographic dividend will remain what it has so far been: a promise deferred.
+
+Santosh Kumar Dash is an Assistant Professor at IRMA, Tribhuvan Sahkari University, Anand, Gujarat. Balakrushna Padhi is an Assistant Professor at BITS Pilani (Pilani Campus), Rajasthan
+
+[Read full article](https://www.thehindu.com/opinion/lead/the-stark-reality-of-the-missing-jobs-for-indias-gen-z/article71241905.ece)
+
+---
+
+### DC Edit | Garry Sobers: Jewel of Cricket
+*Deccan Chronicle · Editorial*
+
+It was said of Garfield Sobers that God broke the mould after endowing the game of cricket its greatest gift. Having lost his father to World War 2, the Barbadian youth chased a dream on his way to becoming a national hero along with the likes of pop diva Rihana. History will willingly record that Sobers was indeed the best all-rounder in the history of the game.
+
+The peerless batting great Donald Bradman said of him that with his long grip, high backlift and free swing of the willow, Sobers hit the ball harder than anyone and that the emphasis was on power and aggression more than technique. Besides, he could bowl fast medium swing, both orthodox and the Chinaman variety of leg spin, field anywhere and even keep wickets in an emergency.
+
+The impact he had on the game was greater as his natural fitness allowed him to be the game’s ultimate professional with engagements in England and Australia besides turning out for the multi-islands team in Test matches, which he led with aplomb even if he did gamble sometimes with sharp declarations.
+
+As Team India and Team England stood in silence before Sunday’s ODI at Lord’s in the Bajan’s honour, they might have also remembered that Sobers was — in an age in which commerce was catching up with the gentleman’s game — one of the most sporting of cricketers, never being involved in on-field controversies though he did once turn out in a competition in ‘white’ Rhodesia to earn a few dollars.
+
+The record he set may have been broken, including his 365* as a young batsman that was later grabbed by his spiritual heir Brian Lara who stretched it to 401*.
+
+With 8,032 runs at an average of 57.78, which made him the fifth highest among batsmen who scored more than 4,000-plus Test runs, and 235 Test wickets, he set high benchmarks for the all-rounders to come.
+
+An adornment to the game, he was knighted in England, honoured in Australia with the highest civilian award and revered in his home island of Barbados, leaving an ambassadorial legacy in his sport that was as telling as the six sixes he hit in an over in first-class cricket. The fact is they don’t make them like the gifted Sobers anymore.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-garry-sobers-jewel-of-cricket-1972338)
+
+---
+
+### SANJAYOVACHA | A New Wind Is Blowing Across Moribund Stage | Sanjaya Baru
+*Deccan Chronicle · Opinion*
+
+Just connect the dots. A teenage youth, Aryan Gupta, exposes incompetence and deceit in the conduct of a government organised nationwide examination. The Chief Justice of India, Justice Surya Kant, spews contempt on a desperate youth, calling them “cockroaches”. A little-known communications and political strategist, Abhijit Dipke, springs into action, forming the Cockroach Janta Party, capturing the imagination of the country’s sullen youth.
+
+All this caused a stir, enough to worry the government but not to make it respond responsibly. The mainstream media remained in la la land. Even after a living Gandhian like Sonam Wangchuk had to go on a fast unto death in support of an entire generation of betrayed high school students.
+
+Out of nowhere and in a distant land, a diminutive journalist asks a simple question: Why does Prime Minister Narendra Modi not meet the media and answer their questions? Why is his communication entirely one-way? The Norwegian journalist, Helle Lyng, becomes a celebrity globally, attracting abuse and venom from the Modi Parivar’s troll mafia.
+
+In Oslo, it was just a simple question. By the time Prime Minister Modi arrived in Australia and New Zealand, it had become a tsunami of media mockery. The Australian media roasts the PM like never before. “Look at him hug our PM!” No one overseas had till then made such fun of Mr Modi’s famous “grab and hug” routine. Nothing like this had happened in twelve long years.
+
+But the big enchilada comes out of Bollywood. A popular entertainer whom my generation envied for his role as the poor Charudatta who romanced the voluptuous Vasantasena, played by the star of our teenage dreams, suddenly lit a fire on YouTube. In a never before viewed combination of high politics and sheer entertainment, Shekhar Suman weaved all the threads that have become the warp and weft of middle-class life in India and launched his “Shekhar Tonite” on YouTube.
+
+Till now Mr Suman has been a pure entertainer. Today he has become the vehicle of expression of middle-class angst and anger against an incompetent and insensitive regime. Very interestingly, and I have not yet read any editorial comment on this, his first episode was launched with Mr Modi’s bete noire, road and highways minister Nitin Gadkari, as his guest. Mr Suman was mindful enough to cover all bases, roasting Mr Modi’s adversaries, such as Mamata Banerjee, Arvind Kejriwal and Rahul Gandhi.
+
+Then followed a series of guests from the world of entertainment, ranging from Farah Khan to Sunidhi Chauhan. So, here’s the deadly formula he has crafted. Begin with pungent political commentary laced with a tinge of humour and follow through with good fun and music. His opening remarks are not jokes, as he told Karan Thapar in an interview to The Wire. They are serious questions posed in a non-threatening manner. Like a sharp knife cutting through butter.
+
+Every time Mr Suman’s sword jabs those in power, he steps back to welcome a member of the power elite. So, Mr Gadkari is followed up a couple of episodes later by Amruta Fadnavis -- a banker, a singer and, incidentally, the wife of Maharashtra’s chief minister Devendra Fadnavis. Clever. Both Gadkari and Mr Fadnavis are reportedly favourites of RSS chief Mohan Bhagwat. This, however, has not insured Mr Suman’s producers from a visit from the Enforcement Directorate, but that has not yet deterred the performer.
+
+Mr Suman reaches out to traditional BJP supporters repeatedly bringing Prime Minister Atal Behari Vajpayee into conversations. He has memorised most of Atalji’s poetry. He has huge admiration for Atalji’s leadership. Who does not? Along with Jawaharlal Nehru, Atalji remains the most beloved PM of the country. And Nehru and Vajpayee ran a mutual admiration society. All this harks back to the politics of a different, more elegant, past.
+
+Voices of dissent within BJP are finally being heard on social media. Rajasthan’s former chief minister Vasundhara Raje Scindia, a senior BJP figure, recently spoke to her party faithful reminding them of past civility in the relationship between the government and the Opposition, recalling the friendship between Prime Minister P.V. Narasimha Rao and Atal Behari Vajpayee.
+
+That two million viewers have watched Shekhar Tonite is not surprising. I had missed it till I saw Thapar’s interview and then I binge watched all ten episodes. It has been a long time since someone from Bollywood has dared to make a political point. The singer Kishore Kumar tried during the Emergency and Prime Minister Indira Gandhi’s minions blocked him out of All India Radio and Doordarshan. We would listen to Radio Ceylon to hear Kishore Kumar songs.
+
+Mr Suman’s political statements range from the simple remarks about middle-class concerns, the corruption in and quality of public infrastructure to anger expressed in chaste and poetic Hindi about the insensitivity of an arrogant power elite. Just as a viewer’s blood begins to boil in response, the Band Stand...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/sanjayovacha-a-new-wind-is-blowing-across-moribund-stage-sanjaya-baru-1972333)
+
+---
+
+### Bidadi project demands transparency, debate
+*Deccan Herald · Editorial*
+
+Even as the Karnataka government pushed ahead with a fresh notification to acquire land in four more villages for the proposed Greater Bengaluru Integrated Township (GBIT) at Bidadi, Chief Minister D K Shivakumar announced that no land would be forcibly taken and that a committee would be set up to hear farmers’ grievances. While this sends mixed signals, it also suggests that the government is trying to avoid a Devanahalli-style confrontation, where sustained protests for nearly four years eventually forced it to abandon the 1,777-acre aerospace park. What is particularly striking is that the loudest opposition now comes from Janata Dal (Secular) leader H D Kumaraswamy, who first conceived the satellite township in 2006 when he headed the JD(S)-BJP coalition government. His administration declared the area a ‘red zone’, freezing construction and land transactions, and leaving owners in limbo for nearly two decades. Kumaraswamy’s current framing of the project as merely a real-estate venture raises legitimate questions. If the concept itself was flawed, why was it conceived and pursued in the first place? His father, former Prime Minister H D Deve Gowda, has gone further, warning of a satyagraha at Vidhana Soudha, arguing that roughly 82% of affected landholders are small and marginal farmers.
+
+Bidadi faceoff: Karnataka CM Shivakumar announces review panel Initially intended to ease pressure on Bengaluru by creating a self-sustaining urban centre on its outskirts, the project has today transformed into a far more ambitious Rs 18,133-crore, AI-powered smart city spread across more than 7,400 acres. The government counters that nearly 70% of affected farmers have already consented to part with their land, and that the ongoing protests by landowners are politically engineered. But the bigger question is whether this project has become another battleground in the personal rivalry between the Deve Gowda family and Shivakumar.
+
+None of this means the government should proceed unquestioningly. Compensation, rehabilitation, employment, environmental safeguards, and the basis for claimed consent must be transparently disclosed. The review committee must also have a clearly defined mandate and timeline rather than becoming a device to delay difficult decisions. Bengaluru does need well-planned satellite townships if it is to accommodate future growth, but projects of this scale require more than grand blueprints. They demand transparency, fairness, and public trust. At the same time, the implications for food security arising from the conversion of fertile agricultural land into urban spaces also deserve serious debate. Ultimately, the future of Bidadi should be determined by sound urban planning and the interests of all stakeholders, not by political one-upmanship.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/bidadi-project-demands-transparency-debate-4079712)
+
+---
+
+### SC upholds case against blanket ban
+*Deccan Herald · Editorial*
+
+The Supreme Court of India did well to stay a Madras High Court order issued in May, which directed the state government to impose a complete ban on cow and calf slaughter in Tamil Nadu. A bench of Justices Vikram Nath and Sandeep Mehta, while staying the operation of the high court ruling, observed that it “prima facie required correction’’ and directed that no animal shall be slaughtered anywhere other than in authorised slaughterhouses till the next hearing of the petition. The petition had been filed by the state government, which contended that the high court order was contrary to the Tamil Nadu Animal Preservation Act, 1958, which permitted the slaughter of cows above 10 years of age that are unfit for work or breeding, subject to certification by the competent authority. Other state laws also did not impose a blanket prohibition on cow slaughter. The government argued that the blanket ban would adversely affect farmers, trade, commerce, and the leather industry.
+
+Tamil Nadu govt moves Supreme Court against Madras High Court’s blanket ban on cow slaughterThe high court order, issued by a division bench of Justices G R Swaminathan and V Lakshminarayanan, should be considered a case of judicial overreach. The public interest litigation (PIL) filed by the leader of a Hindu organisation had sought that cow slaughter should not be carried out in public places but only in designated places on Bakrid. The court went beyond the petitioner’s plea, and directed the State to ensure that no cow or calf is slaughtered “on the eve of Bakrid or on any other day” in the state. As the government pleaded in the apex court, this amounted to “judicial law-making.’’ The government also said that the petition was unnecessary because it had already taken action to prevent slaughter in public places. The court invoked a state government order of 1976 which advocated a ban on cow slaughter with a view to promoting milk production and improving the rural economy. But the government told the Supreme Court that an executive order could not override the law.
+
+Different states have different laws on cow slaughter that vary in their intent, scope, and impact. Some of them, such as those in Assam, Uttar Pradesh, and Gujarat, are very stringent. Karnataka also has a strong law. But Kerala and Tamil Nadu have less stringent laws, and seek to regulate cow slaughter instead of banning it. The law has been in force for about seven decades in Tamil Nadu, which has a sizeable beef-eating population. It was framed after taking into consideration the religious sensitivities about cow slaughter, the food habits of large numbers of people, and the problems posed by old or debilitated cattle. The high court order sought to change the law.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/sc-upholds-case-against-blanket-ban-4079713)
+
+---
+
+### Nature’s timeless message
+*Deccan Herald · Opinion*
+
+Nature is not spiteful and does not discriminate. A tree never withholds oxygen from the person who once cut down its companions. Rivers do not decide whose thirst deserves to be quenched. The sun does not choose whose home it will brighten, nor does the rain favour one field over another. The Earth continues to nurture all who depend on it, offering its bounty freely and without prejudice.
+
+We could learn a lot from nature. Consciously or unconsciously, we judge. We are drawn to those who think like us and become wary of those who do not. We often form opinions based on appearance, skin colour, language, nationality, religion, social status, or political beliefs. Sometimes, the only reason we distance ourselves from another person is that they are different from us. However, we conveniently forget that nature meant all of us to be different in every way. Imagine all the people in the world with similar faces and exactly the same voices, build, looks and skin type. It would be catastrophic indeed!
+
+Take charge of your egoPerhaps the greatest challenge of our time is not the diversity that surrounds us but the invisible barriers and divisions we create to divide us.
+
+Do we treat everyone with the same warmth and respect? Are our opinions shaped by truth and experience, or by stereotypes and assumptions? Have we allowed prejudice, however subtle, to become an accepted part of our thinking? Self-reflection is rarely easy, but it is necessary. A more compassionate society begins not with sweeping reforms but with individuals who are willing to examine their own attitudes and change them where necessary.
+
+Nature reminds us every day that kindness, generosity, and acceptance need no conditions. If the trees, the rivers, the sun, and the Earth can give without discrimination, surely we, blessed with reason and conscience, can learn to look beyond our differences and recognise our shared humanity.
+
+Perhaps the greatest tribute we can pay to nature is not merely to protect it, but to imitate and emulate it. The world would become more human and humane if each of us chose to see others not through the judgemental lens of prejudice, but through the quiet wisdom that nature has always offered. Every leaf, every sunrise, the gentle breeze and all the water whisper that life flourishes not through exclusion, but through inclusion and acceptance. The greatest revolution is not in changing the world, but in changing the way we see one another.
+
+[Read full article](https://www.deccanherald.com/opinion/natures-timeless-message-4079700)
+
+---
+
 ## 19 July 2026
+
+### Maturing approach: On the India-U.K. Comprehensive Economic and Trade Agreement
+*The Hindu · Editorial*
+
+The India-U.K. Comprehensive Economic and Trade Agreement (CETA) reflects New Delhi’s more mature approach to free trade negotiations. Unlike its 2009 free trade agreement (FTA) with ASEAN, which tilted the trade balance against India, New Delhi has approached the U.K. pact by attempting to balance liberalisation with domestic sensitivities amid an increasingly fragmented global trading system. A similar shift was evident in the New Zealand FTA, where India succeeded in protecting its sensitive dairy sector despite dairy products being one of New Zealand’s biggest exports. While the India-U.K. CETA is expected to strengthen India’s export competitiveness, its benefits are likely to be uneven across sectors and could place competitive pressure on already cost-disadvantaged MSMEs. The pact, an attempt to secure long-term market access and integrate India further into global value chains, offers zero-duty access on 99% of India’s exports, covering almost the entire value of bilateral trade. However, smaller firms often lack the documentation and compliance capacity needed to claim these benefits. Despite the deal including some agreements on non-tariff aspects, MSMEs may find it difficult to comply with the U.K.’s stringent sanitary, phytosanitary, technical and sustainability standards, which could prove a bigger hurdle than tariffs. Globally, such agreements have accelerated export diversification, attracted investment and facilitated technology transfer, but only when supported by robust industrial ecosystems and competitive firms.
+
+India has historically underutilised several trade agreements because of low awareness, cumbersome administration and high compliance costs. The trade deficit with ASEAN widened from about $10 billion in 2017 to nearly $44 billion in 2023. Similarly, the U.K. agreement’s benefits may remain below expectations unless India strengthens regulatory administration, intellectual property protection and dispute resolution. Although the U.K. accounts for only about 3% of India’s merchandise exports and around 1% of its imports, the U.K. pact expands India’s access to a high-income market where it enjoys a merchandise trade surplus. However, this advantage could narrow if imports of the U.K.’s relatively price-inelastic exports, such as luxury vehicles, grow faster than India’s largely labour-intensive, price-sensitive exports. The Double Contribution Convention benefits Indian IT and professional services firms, but its economy-wide benefits may remain modest. The pact also faced a hurdle over the U.K.’s steel safeguard quotas before implementation, underlining how non-tariff measures can dilute market access. India’s carbon-intensive exports could face challenges as climate-related trade regulations become more stringent. Ultimately, CETA’s success lies in turning market access into market share.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/maturing-approach-on-the-india-uk-comprehensive-economic-and-trade-agreement/article71241231.ece)
+
+---
+
+### Spreading wings: On the Vikram-1 launch
+*The Hindu · Editorial*
+
+The launch of the Vikram-1 rocket built by Skyroot Aerospace from Sriharikota marked the Indian private sector’s first orbital flight. Vikram-1 is a four-stage launcher designed to provide what Skyroot has called a “cab service” for satellites, letting customers pick their orbit and launch schedule rather than accept the orbital slot and drop-off point presented by rideshares, at a commensurate premium. Skyroot is targeting a price per launch below that of the PSLV and above that of the SSLV (projected), to be achieved in part by basing the rocket on carbon-composite structures. It also has plans for a more powerful Vikram-2 rocket. The company was founded in 2018 by two former ISRO engineers and its path to orbit followed engine tests in 2020 and a suborbital flight in 2022. For roughly six decades, ISRO held a state monopoly over launch activities in India while private firms were limited to being suppliers. Reforms since 2020 and the 2023 Space Policy opened the door for commercial players and freed ISRO to focus on R&D and scientific missions. In 2024, up to 49% FDI in launch vehicles was allowed by the automatic route. The push is also part of the government’s ambition of growing the national space economy to $44 billion by 2033 from around $8 billion alongside satellite manufacturing, communications, navigation, and earth observation.
+
+Orbital launch capability remains hard-won: India is now only the third country to host private enterprise that has demonstrated it. But now that Skyroot has proved competence in engineering, its next milestone is commercial viability, which may be harder. Specifically, the company has to demonstrate repeatability and stable launch costs in an increasingly crowded suppliers’ market that includes established ‘brands’ such as SpaceX and Rocket Lab and a bevy of rapidly scaling Chinese firms. Rideshares on larger rockets are still often cheaper per kilogram to orbit. The model Skyroot is betting on, letting customers specify orbit and schedule in return for a premium over a rideshare launch, depends on a market of uncertain size. The greater production scale will challenge the engineering, too, as batch-to-batch variability becomes harder to control. India also lacks a Space Activities Act, leaving liability to be governed by policy, contracts, existing law, and international commitments rather than statute, maintaining long-term regulatory uncertainty, particularly in the event of a launch or orbital mishap. The Vikram-1 launch is an engineering triumph. Whether it translates to commercial success, which is the real national ambition, is now the question.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/spreading-wings-on-the-vikram-1-launch/article71241248.ece)
+
+---
+
+### DC Edit | With Vikram-1, India Flies Into New Era Of Space
+*Deccan Chronicle · Editorial*
+
+The successful maiden launch of Skyroot Aerospace’s Vikram-1 — the first rocket manufactured by a privately owned company — has opened a new chapter in India’s space voyage, exactly 36 years after the fund-strapped Isro launched its first experimental satellite launch vehicle, SLV-3.
+
+The first privately developed multi-stage orbital rocket successfully lifted off from the Satish Dhawan Space Centre, Sriharikota, at 12.05 pm under Mission Aagaman on July 18, catapulting India into an elite group of countries with private space-launch capabilities.
+
+The success of the maiden launch is quite significant because many rockets, including SpaceX’s Falcon 9, have failed on their maiden flights. Skyroot plans to conduct two developmental flights — Vikram-2, carrying a 1,000 kg payload, and a reusable launch vehicle — before entering the crowded commercial small-satellite launch market.
+
+The success of Skyroot — a startup founded by former Isro engineers Pawan Kumar Chandana and Naga Bharath Daka in Hyderabad in 2018 — has validated the Indian government’s belief in the private sector and its decision to open up the space sector to private companies.
+
+The policy change has resulted in the establishment of several private players, such as Pixxel, Bellatrix Aerospace and Dhruva Space. The recent public offering of Elon Musk’s SpaceX, whose valuation soared to over a trillion dollars, demonstrated the promising prospects of the private space exploration business.
+
+American space companies have also highlighted the advantages they enjoy over government-led agencies, including quick decision-making, fewer bureaucratic controls, a greater capacity for risk-taking and innovative approaches. If Indian space companies follow the same route, the country may soon have a highly successful, profitable and vibrant space sector.
+
+The rise of private space companies, however, is having a rather disappointing impact on the state-run Indian Space Research Organisation (Isro), from which over 100 scientists have reportedly resigned, ostensibly to pursue promising careers in the new space companies.
+
+Although the government has tightened the exit process at Isro, it is unlikely to stem the tide, as private companies have often grown at the expense of state-run institutions. This pattern can be seen in telecom with BSNL and VSNL, oil exploration with ONGC, pharmaceuticals with IDPL, and aviation with Air India. Therefore, instead of competing with private companies, it is high time that Isro assumed a mentoring role and focused on deep-space exploration in collaboration with the new spacefarers.
+
+The launch of Vikram-1 is not merely the success of a company; it also marks the maturing of the country’s space sector, with thousands of suppliers and tens of thousands of engineers, scientists and space enthusiasts. The credit for the development of this space-launch ecosystem must go to the pioneers of the Indian space programme at Isro, who tirelessly nurtured the country’s capabilities while eschewing opportunities to take up cosy, high-paying jobs at well-developed Western space agencies.
+
+The Central government, which administers the department of space, should focus on creating a collaborative mechanism that harnesses the strengths of Isro and new space startups, enabling India to undertake deep-space voyages and uncover the deeper secrets of space and time.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-with-vikram-1-india-flies-into-new-era-of-space-1972327)
+
+---
+
+### Parsa Venkateshwar Rao Jr | Real Problems Of Neet Go Deeper Than Dealing With Wangchuk’s Fast
+*Deccan Chronicle · Opinion*
+
+The brutal question that needs to be asked is whether the shifting of the fasting Sonam Wangchuk, the radical educationist and environmentalist from Ladakh, from Jantar Mantar, New Delhi’s Tahrir Square of Cairo and Istanbul, to Safdarjung Hospital by the Delhi police will create a backlash for the mulish Narendra Modi government? It seems it will not. It is necessary, therefore, to face certain unpalatable facts.
+
+The Neet leak paper is the most shameful and degrading scandal and people across classes and regions are angry about it. You can hear the expressions of disgust and anger from private sector boardrooms to people on the street. But people feel helpless and they want somebody to protest, and somebody to clean up the act.
+
+The Modi government, as always, is unwilling to take any moral responsibility. There is no move on the part of Prime Minister Narendra Modi and education minister Dharmendra Pradhan to apologise for the critical failure affecting the educational fortunes of millions of students in the country. This has been the presidential style of Prime Minister Modi’s governance. Ignore the questions arising from the government’s failures and talk about other things, as though the problems are imaginary. The government has succeeded in pulling the wool over the eyes of the people. Manipulation and brainwashing fail to describe the act of deception adequately. It’s in this context that the protest and fasts of Wangchuk, the three students of All India Students Alliance (AISA) of CPI(M-L) -- Neha, Ameen and Amish – should be seen.
+
+With Wangchuk taken away from Jantar Mantar, the government believes it has taken away the main focus of the protest. Wangchuk’s unimpeachable credentials lent heft to the Cockroach Janta Party (CJP), founded by Abhijit Dipke, the man who came in from the cold, and the protesters from AISA joined. The participants are sincere and the issue is of immense national importance. But what matters most is of least consequence under the anaesthetising effect of Mr Modi. The demand for Mr Pradhan’s resignation is totally legitimate. In a similar situation, Congress governments would have initially resisted but would have capitulated ultimately. The Congress, for all its cynicism, showed rare sensitivity to public discontent and Opposition pressure. The Modi government, with its totalitarian attitude, follows the Hindutva tenet that ignore protests and they will die out, and if they don’t, then arrest them and put them away. By removing Wangchuk from the protest site, the police plans to push out the other protesters. That silences the protest.
+
+What is happening on the Neet front? The test due on May 3 was cancelled because the investigating agencies concluded there was a leak, and thus the exam was postponed. The rescheduled test was held on June 21. The Neet results are now out.
+
+The damage was successfully controlled. Heads should have rolled. But that is where scandal management, the forte of the Modi government, comes to the fore. Whether it is the Neet leak or the Ayodhya Ram temple donation theft, the Modi Sarkar skirts round it. Survival is surely a political virtue, but the reputation of the Modi government has a dismal grade point average for governance.
+
+The Neet faced a far more serious challenge to the “integrity” -- a term used by all concerned, including the Supreme Court and the National Testing Agency (NTA), which conducts Neet – in 2024, when the NTA said there was a leak, but the police fled cases, arrested 13 individuals in Bihar, saying that there was a leak. So, there are problems with Neet and there should have been a serious debate across the country about it. Unfortunately, there was none. The focus in on increasing the number of medical colleges, and the seats available in them. In the most populous country in the world, there is need for a larger number of doctors. Little thought seems to be given to the quality of medical education.
+
+In broader terms, the standards of education and the need for excellence that are needed to make India a top industrialised country is not of much concern. For the Prime Minister, the goal of “Viskit Bharat” is not about transformation of the whole system at the qualitative level. He does not believe in quality dynamics. Quantity is quality. He doesn’t even believe in the economist’s creed that after a certain point, increase in quantity makes for qualitative transformation. That is much too abstract a calculation.
+
+It is unfair to expect that either Modi government or those handling science and technology education in the country are capable of evolving an open-ended education system that pushes the frontiers of knowledge systems. They don’t even spare a thought on the issue. It is when a system is ossified it becomes predictable, and opens the scope for cheating in more ways than one. The Modi Sarkar, in its pseudo-nationalist zeal, wants to establish a single mega-system, where millions will learn the same things...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/parsa-venkateshwar-rao-jr-real-problems-of-neet-go-deeper-than-dealing-with-wangchuks-fast-1972309)
+
+---
 
 ### Slotting S Janaki
 *Deccan Herald · Opinion*
