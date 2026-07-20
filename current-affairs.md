@@ -1,3 +1,283 @@
+## 20 July 2026
+
+### Shillong Teer Result Today, July 20, 2026: Winning Numbers And Results
+*Nibandh Vinod · general*
+
+Shillong Teer Result Today, July 20, 2026: Check Shillong, Juwai, Khanapara, Morning and Night Teer winning numbers, draw timings and result updates.
+
+[Read full article](https://www.news18.com/india/shillong-teer-result-today-july-20-2026-winning-numbers-10218062.html)
+
+---
+
+### Parliament Monsoon Session: INDIA Bloc Calls Crucial Meeting Before Proceedings Begin | News18
+*Unknown · general*
+
+Ahead of the commencement of the Monsoon Session of Parliament, leaders of the INDIA Bloc are scheduled to meet at 10 AM to discuss their floor strategy and key issues expected to be raised during the session. The meeting comes before the first day's proceedings in Parliament, where several importan...
+
+[Read full article](https://www.news18.com/videos/india/parliament-monsoon-session-india-bloc-calls-crucial-meeting-before-proceedings-begin-news18-10222412.html)
+
+---
+
+### Delhi On High Alert, Heavy Security As CJP Pushes 'Chalo Sansad' March Despite No Police Nod
+*News18 · general*
+
+Delhi Police has denied permission for CJP's proposed 'Chalo Sansad' march ahead of Parliament's Monsoon Session, warning of legal action against violators.
+
+[Read full article](https://www.news18.com/india/delhi-police-high-alert-cjp-chalo-sansad-march-parliament-monsoon-sessio-ws-l-10222347.html)
+
+---
+
+### Punjab Police’s 500-Day Drug Crackdown: Over 68,000 Traffickers Arrested, Rs 319 Crore Assets Seized
+*Aanchal Sinha · general*
+
+Punjab Police has simultaneously targeted the financial backbone of drug cartels by attaching and confiscating properties acquired through the proceeds of the drug trade.
+
+[Read full article](https://www.news18.com/india/punjab-polices-500-day-drug-crackdown-over-68000-traffickers-arrested-rs-319-crore-assets-seized-ws-l-10222323.html)
+
+---
+
+### Monsoon Session of Parliament Begins | Government's Key Bills, & Opposition's Big Issues | News18
+*Unknown · general*
+
+The Monsoon Session of Parliament begins today, setting the stage for weeks of crucial legislative debates and political confrontation. With several key bills lined up for introduction, the government is expected to push forward its legislative agenda, while the Opposition prepares to challenge the ...
+
+[Read full article](https://www.news18.com/videos/breaking-news/monsoon-session-of-parliament-begins-government-s-key-bills-opposition-s-big-issues-news18-10222411.html)
+
+---
+
+### Will Your Wallet Soon Have Plastic Rs 10, Rs 20 Notes? What RBI's Polymer Push Means For You
+*Apoorva Misra · general*
+
+Polymer notes have a smooth, plastic-like feel & can incorporate security elements such as transparent windows, metallic features and advanced inks that are difficult to replicate
+
+[Read full article](https://www.news18.com/explainers/will-your-wallet-soon-have-plastic-rs-10-rs-20-notes-what-rbis-polymer-push-means-for-you-ws-l-10222357.html)
+
+---
+
+### Heavy security deployed at Jantar Mantar ahead of CJP's proposed parliament march
+*ET Online · business*
+
+Authorities on Sunday deployed security personnel outside Jantar Mantar in Delhi ahead of reports of a proposed march to Parliament by Cockroach Janata Party on Monday. Police personnel were seen maintaining a vigil around the protest site. The Cockroach Janata Party (CJP) continues to stage its protest at Jantar Mantar in Delhi and has given a call for a march to Parliament on the first day of the Monsoon Session on Monday. However, sources have told that the organisation is yet to approach the Delhi Police to seek official clearance for this march. The march had earlier been announced by the activist Sonam Wangchuk who was moved to hospital on Saturday morning.
+
+---
+
+### Salman Khan breaks silence with a cryptic post after viral video of his Mumbai appearance sparks health rumours
+*Unknown · business*
+
+A video of Salman Khan from an event in Mumbai on Friday (July 17) quickly grabbed attention and left many fans worried. The actor attended the inauguration of the Slum Rehabilitation Authority's new Data Collection and Verification Support Centre, but it was his appearance in videos from the event that became the biggest talking point online. As speculation about his health spread across social media, Salman appeared to respond in his own way by sharing a cryptic post on Instagram.
+
+## Salman Khan's cryptic post grabs attention
+
+Soon after videos from the Mumbai event went viral, Salman took to Instagram on Sunday (July 19) and shared a series of monochrome photographs. Along with the pictures, he wrote, "Aap logon ki tabiyat kaisi hai?" (How is everyone's health?).
+
+Although the actor did not directly mention the viral clips or the rumours surrounding his health, many social media users interpreted the caption as an indirect response to the concern being expressed online.
+
+The post quickly attracted thousands of reactions, with fans continuing to send him messages wishing him good health while others praised him for addressing the situation without making a formal statement.
+
+  
+
+## All you need to know about Salman Khan's viral video
+
+Salman was present at the Slum Rehabilitation Authority's office in Mumbai, where he inaugurated the authority's modern Data Collection and Verification Support Centre, also known as the IT Server Room. During the event, he also handed over house keys to beneficiaries.
+
+While the programme focused on the new facility, videos of the actor circulating on social media shifted attention away from the event itself. Several viewers commented that Salman reportedly appeared tired or different from his usual self, leading to widespread speculation about his health.
+
+Many users expressed concern in the comments section. Some wrote that he looked exhausted, while others wondered if he was dealing with a health issue. A few even questioned whether the person in the viral video was actually Salman because of the noticeable change in his appearance.
+
+However, it is important to note that Salman Khan has not confirmed any health-
+
+Not all reactions were filled with concern. A section of Salman Khan's fan base came forward to defend him, urging people not to jump to conclusions based on a few short clips. Others reminded people that appearances can change due to factors such as lighting, camera angles, fatigue or a hectic work schedule, and stressed that there is no official statement suggesting Salman is unwell.
+
+## Salman Khan's upcoming project
+
+Meanwhile, on the professional front, Salman is preparing for the release of Maatrubhumi, directed by Apoorva Lakhia. The film stars him as an Indian Army Colonel and also features Chitrangda Singh in a key role.
+
+The project was previously reported to be titled Battle of Galwan, but it has since undergone major changes, including a new title and revisions to parts of the story.
+
+Recently, Salman Khan Films also addressed reports claiming that the film had run into trouble with the Central Board of Film Certification (CBFC) or had been delayed indefinitely. In an official statement shared on Instagram, the production house dismissed those reports as "false" and "entirely baseless." It clarified that the film has not yet been submitted to the CBFC for certification, making the reports inaccurate.
+
+Apart from Maatrubhumi, Salman has also locked in another major project for Eid 2027. The untitled film, currently referred to as SVC63, will be directed by Vamshi Paidipally and will co-star Nayanthara.
+
+The actor was last seen in a cameo appearance as Jiva Mahala in Raja Shivaji, where his fierce warrior avatar received appreciation from audiences on social media.
+
+---
+
+### Amit Shah Unveils Security Roadmap For West Bengal, Directs Setting Up Of ATS And SIA
+*Karishma Jain · general*
+
+During his three-day visit, Shah also sought an anti-narcotics task force, a review of UAPA cases and modernisation of the West Bengal Police.
+
+[Read full article](https://www.news18.com/india/amit-shah-unveils-security-roadmap-for-west-bengal-directs-setting-up-of-ats-and-sia-ws-l-10222360.html)
+
+---
+
+### Sonam Wangchuk's wife Angmo moves Delhi HC again challenging Safdarjung hospital transfer denial
+*SECTIONS Sonam Wangchuk's wife Angmo moves Delhi HC again challenging Safdarjung hospital transfer denial ET Online · business*
+
+Activist Sonam Wangchuk’s wife, Dr Gitanjali Angmo on Monday approached the Delhi High Court again, challenging the Single Judge’s order that declined her plea to shift Wangchuk from Safdarjung Hospital to a private hospital of his choice.
+
+In her fresh appeal, Angmo has contended that the Single Judge’s order effectively deprives Wangchuk and his family of the right to decide his medical treatment and place of treatment. Her appeal further argues that the order overlooks the principles of informed consent, bodily autonomy under Article 21, and unlawfully confines Wangchuk to the government hospital despite there being no order of arrest or detention against him, as reported by ANI.
+
+  
+
+Angmo further claimed that Wangchuk’s continued stay at Safdarjung Hospital violates his fundamental rights under Articles 19 and 21, including his right to continue his protest, and relies on Supreme Court judgments on informed consent and patients’ autonomy.
+
+Earlier on Sunday, the Delhi High Court ruled that climate activist Sonam Wangchuk shall continue receiving treatment at Safdarjung Hospital until the next hearing, declining to pass any interim order on his wife Gitanjali J Angmo's plea seeking his transfer to a private hospital.
+
+The court had observed that doctors at Safdarjung Hospital were closely monitoring Wangchuk's medical condition and had administered only oral treatment with his consent. It found no material to suggest that any force had been used against him and noted that Wangchuk was 'not under detention'.
+
+However, the court obsered that since he had not voluntarily admitted himself to any hospital despite his deteriorating condition, the government was within its rights to shift him to a government facility.
+
+## Three conditions to call off hunger strike
+
+Sonam Wangchuk on Monday said he would end his hunger strike if the government accepts responsibility for recent failures in the education system, including paper leaks. He added that accountability for these issues was the first condition for calling off his fast.
+
+Alternatively, Wangchuk stated he would end the protest if he and the leadership of the CJP reach Parliament and Members of Parliament or leaders of various political parties assure them that the issue of education accountability will be raised during the Monsoon Session.
+
+As a third condition, the activist said that if his health or other circumstances prevent him from reaching Parliament, he would end his fast if MPs and leaders from different parties visit him at Safdarjung Hospital and provide the same assurance. He also alleged that he was under "illegal detention" at the hospital, claiming his freedom of movement, speech and communication had been restricted.
+
+---
+
+### Bergson’s philosophy of laughter
+*Speaking Tree · opinion, regional*
+
+_**By Jug Suraiya**_
+
+We see a man, nose stuck up with a sense of self-importance, walking down a street. He steps on a banana skin and falls. The sight makes us laugh.
+
+Why?
+
+Why is slapstick, the most basic form of comedy, funny? Do we laugh at it because it is, literally and metaphorically, a slap across the face of another? Is cruelty the basis of laughter? Does the funny business of laughter merit serious enquiry?
+
+French academic Henri Bergson thought so. Before him, no philosopher had made a comprehensive study of why we laugh, and why laughter is necessary for us, both as individuals and for society as a whole.
+
+In 1900 Bergson published his Essay on the Meaning of the Comic that created a seismic tremor in the world of thought, the reverberations of which continue to be felt to the present.
+
+He noted that not only is the act of laughing confined to humans but so is the object of laughter. Today, for example, we laugh at the fat cat Garfield only because his greed and grouchy laziness humanise him.  
+Calling laughter ‘a living thing’, which ought to be given ‘the respect due to life’, Bergson was against ‘imprisoning the comic spirit within a definition…we shall confine ourselves to watching it expand and grow’.
+
+Laughter is the ‘leitmotif’, the background music of evolving life. In his 1907 book, Creative Evolution , Bergson elaborated on laughter and its relationship to society and the individual. Humans are an amalgam of the material, the body, and the spirit, consciousness.
+
+Matter represents a mechanistic rigidity, physical and mental, while the spirit which animates matter, what he calls the ‘elan vital’, is elastic, supple, as unfettered as the air we breathe, and the source of life.  
+Societies and individuals evolve when the spirit, like Prometheus unbound, breaks through the inflexible constraints of the material body and its innate inertness.
+
+Bergson’s view of evolution was an inversion of Darwin’s. While Darwin conceived of evolution as a selection imposed on species by their ability, or lack of it, to cope with an external environment, to Bergson it was humankind’s spirit that ignited the spark of creativity and growth.
+
+Society implies a ‘reciprocal adaptation’ between the whole and the individuals that compose it. Social bonding requires individuals, in their interactions, to exhibit ‘the greatest possible degree of elasticity’ and guard against ‘rigidity of body, mind, and character’.  
+Bergson argued that laughter is a corrective device, a steam valve on a pressure cooker, and a response to witnessing ‘something mechanical encrusted on the living’.
+
+When we observe a smug individual slip and fall on the street, our laughter is a response to the ‘adaptability and the living pliability of a human’ unexpectedly hijacked by a ‘mechanical inelasticity’ by which the body becomes a ‘cumbersome vesture…which holds down to earth a soul eager to rise aloft’.
+
+What Bergson would call the ‘mechanistic’ or inelastic, are the antievolutionary drawbacks of vanity, greed, and aggression, and are the targets of the darts of satiric humour.
+
+Bergson’s advice? Take life in your stride. Just watch out for those banana skins. And if you do step on one, be the first to laugh at yourself.
+
+Facebook Twitter Linkedin Email
+
+###### Disclaimer
+
+Views expressed above are the author's own.
+
+###### END OF ARTICLE
+
+---
+
+### UP IAS requests half salary or transfer, alleges interference by minister, MLA
+*Santosh Kumar Sharma · general*
+
+## In a five-page letter to Uttar Pradesh's Appointment and Personnel Department, 2023-batch IAS officer Rinku Singh Rahi sought half salary or a transfer, alleging political interference in official duties.
+
+IAS officer Rinku Singh Rahi has alleged that a conspiracy was hatched to obstruct an impartial inquiry.
+
+2023-batch Uttar Pradesh cadre IAS officer Rinku Singh Rahi has written a five-page letter to the state's Appointment and Personnel Department, requesting either that his salary be reduced by half or that he be transferred to a post where he can discharge his duties in accordance with the law.
+
+Currently posted as SDM (Judicial), Rahi argued in his letter that the position involves only around four hours of work a day and therefore suggested that he be paid only half his salary if he continues in the role.
+
+In the letter, Rahi also made allegations regarding interference in administrative functioning, naming Uttar Pradesh Cabinet Minister Swatantra Dev Singh and BJP MLA Gauri Shankar Verma.
+
+According to Rahi, while he was serving as SDM in Jalaun, the District Magistrate allegedly instructed, in the presence of MLA Gauri Shankar Verma, that no action should be taken against cases involving illegal land occupation and encroachments in the Jalaun tehsil area.
+
+The IAS officer further alleged that a conspiracy was hatched to obstruct an impartial inquiry into alleged illegal encroachments involving the name of Cabinet Minister Swatantra Dev Singh. He claimed that a dispute was deliberately created over a cold storage facility owned by Ramraja Niranjan, a block chief and a close relative of the minister.
+
+Rahi alleged that he was transferred from the post of SDM, Jalaun, to SDM (Judicial) in haste even before the committee constituted to investigate the controversy had submitted its report.
+
+Rahi's letter also referred to an inspection he conducted at Ramraja Niranjan's cold storage facility while serving as SDM, Jalaun, following the fire tragedy in Lucknow that claimed 15 lives. During a 10-minute mock fire drill at the facility, he allegedly found that no firefighting measures had been initiated.
+
+He also sought reports over the absence of necessary documents 
+
+The officer further criticised the functioning of the Jalaun district administration, alleging that the District Magistrate's public grievance programme, Janta Darshan, had become a mere formality. Instead of addressing the root causes of public grievances, only temporary solutions were being provided, he claimed.
+
+In his letter, Rahi requested that he either be posted to another tehsil in Jalaun or transferred to another district where he could perform his duties in accordance with established rules. He also stated that if such a posting was not possible in Uttar Pradesh, he should be considered for deputation to another state.
+
+\- Ends
+
+Sahil Sinha
+
+Jul 20, 2026 09:06 IST
+
+---
+
+### Dozens feared dead after passenger ferry sinks off coast of Guyana
+*SECTIONS Dozens feared dead after passenger ferry sinks off coast · business*
+
+Synopsis
+
+A ferry carrying 133 people capsized near Guyana's coast. Authorities managed to rescue 67 individuals; however, dozens are still missing and feared drowned. It's been revealed that crew members tested positive for marijuana, and issues such as inaccurate passenger lists and an overloaded vessel are under examination.
+
+Reuters
+
+Lifeboats float on the water during search and rescue efforts after a ferry carrying passengers sank off the coast of Guyana in South America.
+
+GEORGETOWN: Dozens of people ​were feared dead after a ferry carrying 133 people ​capsized off the coast of Guyana late on Saturday, with authorities suggesting an inaccurate passenger list and ​drug use by the crew might have contributed to the situation.
+
+No survivors have been found since Sunday afternoon, when Guyanese authorities announced they had rescued 67 people, including 15 children.
+
+The captain and other crew members are now in police custody, Public Works Minister Juan Edghill said at a press conference late on Sunday.
+
+  
+
+"Search and ‌rescue is still ⁠in progress," ⁠Edghill said. "So to the families that are out there wondering about their loved ones, we are doing everything that is humanly possible to find them."
+
+The MV Barima, which had 116 passengers and 17 crew members, capsized off the North Atlantic coast, approximately 7 miles from shore, while traveling from the capital Georgetown to the village of Port Kaituma, authorities said.
+
+Air traffic control received a distress call from the ferry around 11 p.m. on Saturday, triggering a search and rescue operation.
+
+Edghill said early responses were hampered by the darkness and lack of vessels with scanners that could search for survivors, leaving ​rescuers reliant on eyesight and sound.
+
+Companies in the oil and gas sector have ⁠since deployed vessels ‌with scanners and the government has activated divers to enter the ferry to search for bodies, Edghill ​said. Authorities have also expanded ​the search area to 1,040 square km (401 square miles) from 400 square km.
+
+Edghill initially insisted on ⁠Sunday afternoon that there was no sign of "neglect" on the part of the ferry ​operator. But on Sunday evening, he said the captain and at least one other crew members ​had tested positive for marijuana.
+
+In addition, a number of people who were rescued were not listed on the ferry's manifest, indicating inaccuracies in the ferry's passenger list and hampering rescue operations because authorities do not know how many people they are searching for.
+
+The boat had maintenance in 2024 and was due for dry docking - the process of temporarily taking a ship out of water to inspect and repair problems - later this year, the minister said.
+
+The disaster has torn apart families.
+
+Leon Murray, a passenger on the ferry, told local ‌news outlet Ignite News that about four hours after leaving Georgetown, someone shouted that the boat was sinking.
+
+After the boat capsized, Murray managed to swim to the surface where he used a life jacket to keep himself ​afloat. He drifted and ​shouted for help and found his ⁠son and three others holding on to a floating box.
+
+Murray said he and his son survived, but his wife, daughter and four grandchildren haven't been found. "Six of them gone."
+
+Guyanese Prime Minister Mark Phillips said in a statement that the vessel reported a cargo weight ​of 286 tons out of a capacity of 284 tons. He said the ferry was licensed to carry more than 300 passengers, and was outfitted with 250 life jackets, six inflatable life rafts and two rigid life rafts.
+
+But by Sunday evening, at a press conference, Phillips said an investigation had been launched into wrongdoing involving members of the police force, defense force and maritime administration department.
+
+"Let me be absolutely clear: where negligence, misconduct or criminal wrongdoing is established, those responsible will face the full force of the law."
+
+---
+
+### Parliament Monsoon Session Begins Today | Government Lists 8 Key Bills for Discussion | News18
+*Unknown · general*
+
+India's Parliament Monsoon Session begins today, with the government placing eight important bills on the legislative agenda.The session is expected to witness intense debates on governance, economic reforms, education, infrastructure, and other policy matters, alongside possible confrontations betw...
+
+[Read full article](https://www.news18.com/videos/breaking-news/parliament-monsoon-session-begins-today-government-lists-8-key-bills-for-discussion-news18-10222372.html)
+
+
+---
+
 ## 19 July 2026
 
 ### Unlock my home now: 13-year-old confronts District Magistrate, video goes viral
