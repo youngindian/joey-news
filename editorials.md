@@ -1,10 +1,222 @@
 # Editorials
 
-_Last updated: 2026-07-20 05:07 UTC_
+_Last updated: 2026-07-21 04:49 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
 
+## 21 July 2026
+
+### Accommodating dissent: On the TVK government’s actions
+*The Hindu · Editorial*
+
+At the heart of democratic disposition is tolerance of dissent and upholding of the rule of law; threats to these can undo the knit of a democracy. In the first couple of months of the Tamilaga Vettri Kazhagam (TVK)’s rule in Tamil Nadu, at least 10 people have been subject to police action, on account of speaking against the Chief Minister or his cabinet colleagues. While the case of former Minister Anitha Radhakrishnan’s arrest for criticising Chief Minister C. Joseph Vijay gained the spotlight, there were several others who were arrested or faced police action over the course of this period. This includes James Raja of Tirunelveli; V. Vishnuprabhu and T. Manojkumar, residents of Coimbatore, for a Facebook post criticising the Chief Minister; and Thangamani of Karur. In the case of the Dravida Munnetra Kazhagam (DMK)’s Gen Z wing leader A. Anbanantham, police searched his residence claiming that he made ‘derogatory’ posts regarding Mr. Vijay and his family. YouTuber Maridhas was arrested by the Chennai Cyber Crime police for his remarks against the Chief Minister and Industries Minister S. Keerthana. DMK MLA Markandayan was arrested in Thoothukudi over an alleged threat he made against the Chief Minister. Others arrested include Vinoth Suryakumar who commented on HR&CE Minister S. Ramesh and RJ Saran Jayaraman who was arrested by the police for content posted on Instagram targeting a woman who supported the TVK. A case was also filed against Indrani Sudalaimuthu for remarks made against S. Ramesh.
+
+Political actors of all hues have normalised using the police and criminal law as a shield to protect their reputation, whenever they come to power. This creates a structural risk for democracy. The actions of the police indicate a wider pattern of speech-related arrests, and authoritarianism under the TVK government, where defamation, the IT Act and cyber crime provisions are invoked at will for any criticism against individuals in the government or the ruling party. Complaints being filed by the TVK cadre and the suo motu action of the police targeting dissenters could run the administration off the rails. The alacrity with which the government is ready to treat allegations against Ministers as criminal misinformation or defamation, rather than let them take the natural course of civil suits or political contestation, is disheartening. A new government has the opportunity to rewrite the rules of engagement with the public, to be tolerant of dissent, and not to misdirect the power it is vested with, just to curb opposition. Every government keen on development could be enriched by criticism and dissent articulated on public platforms, if it is willing. It must remember that the restriction of harmful, obscene and indecent content must be balanced with the overwhelming supremacy of freedom of speech.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/accommodating-dissent-on-the-tvk-governments-actions/article71245338.ece)
+
+---
+
+### Press and play: On the FIFA World Cup 2026
+*The Hindu · Editorial*
+
+Spain’s second World Cup title, achieved after a narrow extra-time victory over Argentina in the final, was a triumph of the collective. The Luis de la Fuente-coached outfit conceded just one goal in eight matches, was unmatched in the centre of the pitch with playmaker and Golden Ball winner Rodri completing a record 790 passes, and exhibited diffused excellence up front by having seven different players score its 14 goals. So much so that even the individual brilliance of the teenaged Lamine Yamal was astutely subsumed within the whole. In fact, de la Fuente and Rodri had combined to deliver the 2024 European Championship too, with the latter adjudged the world’s best later that year. A second Ballon d’Or for the 30-year-old midfield metronome appears a certainty. The win also cemented Spain’s position as the pre-eminent footballing force of the first quarter of this century. Starting 2008, the country has won two of the five World Cups and three of the five Euros. Spain is the reigning women’s World Champion, and the assembly line of coaches it produces and players it exports make the nation a true powerhouse. Interestingly, after its maiden World Cup win in 2010, Spain had not gone past the round of 16 at three subsequent editions. The success in North America is thus a full-circle moment.
+
+Another high point for the tournament was Lionel Messi’s enduring genius. Argentina’s quality in the final was dire and the behaviour of its players petulant, but that should not detract from the 39-year-old’s excellence in bringing his country to the cusp of defending its crown. Kylian Mbappe’s experience was bitter-sweet; he won the Golden Boot (10 goals) and became the all-time top-scorer in World Cups (22) but remained a mute spectator as Spain subjugated his star-studded France in the semifinal. Jude Bellingham inspired England to third place, the best performance for the nation since winning in 1966. But the summer sojourn laid bare the team’s continued lack of cutting edge after back-to-back runner-up finishes at Euro 2020 and 2024. The World Cup will also be etched in memory for a plethora of missteps, which governing body FIFA unfortunately condoned. By arbitrarily invoking immigration rules, and trying to interfere politically in on-field matters, the co-host U.S. pushed the envelope in undesirable ways. Commercially driven hydration breaks and the half-time show in the final were tedious and disruptive. Football should be allowed to flow freely, on and off the turf.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/press-and-play-on-the-fifa-world-cup-2026/article71245382.ece)
+
+---
+
+### DC Edit | Talk To Protesters, Give Them A Hearing; Avoid Use Of Force
+*Deccan Chronicle · Editorial*
+
+The government’s use of brute force to crack down on the massive peaceful march in the nation’s capital by young people under the banner of the Cockroach Janta Party (CJP) demanding the resignation of Union education minister Dharmendra Pradhan is an undemocratic and unwise action. It will be a miscalculation, too, if the government thinks it can suppress the students’ demonstration of frustration and anger against a dispensation that has failed to do even the minimum for them.
+
+Every single report suggests that the congregation of people in Delhi on Monday is unprecedented in many aspects. The CJP is not a formally structured organisation; it is rather a grouping of people with a cause; the Left parties which support them do not have a large support base in the national capital. It is not very common in India for people to turn out in their thousands to launch an agitation unless there is a felt need. The hunger strike by environmental activist Sonam Wangchuk gave them a rallying point to and launch their protest against the government’s irresponsible handling of examinations. His forceful removal from the venue of his protest did not end it; instead, more people joined the protest.
+
+It is time that the BJP and Prime Minister Narendra Modi recognised the fact that Mr Pradhan has been presiding over the education ministry which has failed the student community. About two dozen teenagers, all of them aspiring doctors, died by suicide after being unable to withstand the pressure caused by the cancellation of the NEET examination, the entrance test for undergraduate medical courses in the country, brought down on them; the agency which conducted the test, the National Testing Agency, functions under Mr Pradhan. Lakhs of students were put in an excruciating dilemma after the CBSE outsourced valuation of their Class 12 answer sheets to an agency with a dubious record; CBSE also functions under him. There was mismanagement in the conduct of the Common University Entrance Test and in the National Eligibility Test, both conducted under the aegis of the education ministry.
+
+Electoral democracy functions on the principle that those whom people elect and vest with the power to run the government will exercise it for the benefit of the people. Mr Pradhan has proved a humongous failure on this count. He would have resigned had he had the sense to understand his responsibilities; the Prime Minister would have asked him to go if he understood the impact his failures have had on the young people. It defies logic that neither Mr Pradhan nor Mr Modi has their ears to the ground to sense the mounting frustration among young people of this country.
+
+It would be a futile exercise on the part of the BJP to paint the protestors as traitors, for they are not. The CJP is not an accident; it is the manifestation of the underlying anger of the young people against the dispensation which boasts of the country’s economic progress but does nothing for them. They have repeatedly made it clear that they seek resolution of their problems within the constitutional framework; it would be foolish to contemplate torpedoing a movement that swears by the Constitution and its framer Dr B.R. Ambedkar.
+
+The government must engage the protesters in meaningful dialogue and make honest attempts to address their concerns instead of speaking the language of force. The BJP often reminds the country of the lessons of the Emergency; it’s time the party took some lessons from it, too.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-talk-to-protesters-give-them-a-hearing-avoid-use-of-force-1972587)
+
+---
+
+### Aakar Patel | The Lessons That India Learns As Wangchuk’s Fast Scuttled By Govt
+*Deccan Chronicle · Opinion*
+
+A few thoughts on the Cockroach Janta Party’s protest and the Union government’s comical reaction come to mind. The hunger strike by activists, including Ladakh-based climate activist Sonam Wangchuk, had just one demand: the minister of education should resign. Why? Because the minister failed at one of the most important tasks he was assigned: Holding the Neet exam without corruption. Readers may recall that in 2024 the paper leaked and the same minister was in charge, but clung on.
+
+This year the government was compelled to accept that there was corruption in the matter and it cancelled the exam, inconveniencing over 20 lakh students. Add their families and it is one crore Indians we are talking about who are directly affected. All put through high levels of stress, anxiety and the insecurity that constantly plagues Indians.
+
+Twelve young girls and boys killed themselves in the 37 days between the cancelled exam and the re-test. These are only the ones we know about. The government then conceded that the education ministry could not be trusted with the papers and gave them to the Indian Air Force to carry to the centres across all states. We can interpret this as a stunt or as a real threat to leakage. In neither interpretation does the government come out looking good.
+
+But having accepted that his education minister had failed at stopping corruption in Neet, the Prime Minister rejected the idea of accountability. He chose to retain the education minister and we can tell ourselves stories about why. Those who dislike the Prime Minister will speculate that it was because autocrats shy away from admitting mistakes because of their arrogance. Or because it reflects poorly on them. Those who are fond of him will similarly make up some story about why Mr Modi retained Dharmendra Pradhan. Neither story is important. The fact is that Mr Pradhan has been retained despite the scandal and despite the demonstrable incompetence.
+
+What happens from here on is that he will remain as a liability and a target for finger-pointing. India's problems of incompetence and corruption are real, structural and societal. Only the delusional believe that the Prime Minister waved them away with magic in 2014.
+
+The second thought that comes to mind is that protest, even one that is peaceful, even one that does not inconvenience absolutely anyone, is forbidden in India because we are only partly democratic. This is something several indices have concluded and evidence of it appears before us daily. Over the years, peaceful assembly (Article 19) has gone from being a fundamental right, meaning something that enjoys a high degree of protection from encroachment by the State, to a nuisance, and then to an offence. The mother of democracy is extremely intolerant to her children when they disagree.
+
+The judiciary and the executive have narrowed the physical space in which peaceful protest may be held. In Mumbai it is consigned to Azad Maidan, in Bengaluru it is in Freedom Park where protests go to die, and in New Delhi it is Jantar Mantar. Now Indians have been informed that even protests in these “designated areas” are unacceptable to this government.
+
+The third thing is that when protesters have resolve and strategy, they often win and force the government to retreat. The farmers did that most spectacularly when they laid siege on the matter of the farm laws. The Prime Minister tried to sit them out, failed and then not only surrendered to them but also apologised.
+
+It is not thought in the same way, but the success of the protests against the National Register of Citizens is the reason we do not yet have concentration camps with lakhs of Indians in them. Even in the most oppressive and tyrannical State, peaceful protest will make an impact that cannot be bulldozed over. There is a reason that the world knows about a place called Tiananmen Square. Those brave enough to put their heads above the parapet may bear the consequences, but will also have their stories heard.
+
+This is of course the reason that the government scuttled the Sonam Wangchuk hunger strike. Those who had despaired that it was not achieving anything did not see that structurally the protest had everything going for it. It had attention and it had sympathy.
+
+So what happens from here on? The problem for the government is that the protesters have not given it much room. The Cockroach Janta Party's demand is modest and reasonable: remove the minister responsible. The government’s response, as far as it can be understood, is: yes, there is a problem, but no, we will not act. That is not tenable and the protesters know this. The momentum is with them. In the language used by theorists, they have escalation dominance. The government stands to lose ground and credibility with each action intended to protect one minister.
+
+The last thing that comes to mind is that there is an education that comes to those who are participants in these deep, weeks-long protests that those of...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/aakar-patel-the-lessons-that-india-learns-as-wangchuks-fast-scuttled-by-govt-1972602)
+
+---
+
+### A mission for talent retention
+*Deccan Herald · Editorial*
+
+The office memorandum issued by the Department of Space (DoS) in response to the mass resignation of scientists and engineers from the Indian Space Research Organisation (ISRO) leaves many questions unanswered. While the Centre underplayed the order’s significance, ISRO has taken an opaque position on the matter. The chairman offered no clarity on how many people left, what led them to take such a step, or what measures the space agency plans to take in addressing this trend.
+
+According to the memo, voluntary retirement and requests for resignation from scientists and technical staff associated with Gaganyaan and other "important" missions may no longer be routinely accepted. Since "important" missions are left undefined, this restriction could apply to all projects undertaken by DoS institutions. The memo revokes a previous order that empowered institution directors and unit heads to approve these requests. It instead centralises all decisions at the ISRO headquarters. ISRO has not denied reports of 100-120 scientists and technical staff leaving the department over the past year. This coincides with the rise of a private sector boasting over 400 startups. Skyroot Aerospace’s successful launch of Vikram-1, India’s first privately developed space vehicle, underscores this upswing. A growing commercial industry offers better pay and greater work flexibility. The DoS should have anticipated this market dynamic when the sector was opened for private participation in 2020, and advised the government on a proactive talent retention strategy. This line of thinking was noticeably absent.
+
+'Many scientists can come and go': Amid mass exodus, govt tightens ISRO resignation normsIndia's technological growth is also a story of professionals shifting from public institutions such as DRDO, ECIL, ISRO, and BARC into private companies. The DoS order adds a layer to this story. Neither the government nor ISRO has demonstrated a strong intent to resolve the challenges this shift poses. As private players expand their footprint in the business of space, their demand for trained talent was inevitable, and ISRO was always going to be the first and natural source. The agency, however, did not have a comprehensive strategy in place to retain its workforce in the face of competition from the private sector. The solution does not lie in restricting employees from leaving. A few years ago, the Indian Air Force (IAF) faced a similar situation when it tried to prevent pilots from exiting before completing their service period. Then, an IAF Chief took a more pragmatic position, as he recognised that demoralised personnel are of little value to the force. ISRO would do well to learn from that episode and introspect on its career frameworks.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/a-mission-for-talent-retention-4080961)
+
+---
+
+### Building legal certainty
+*Deccan Herald · Editorial*
+
+The Karnataka Apartment (Ownership and Management) Bill, 2026, marks a significant step towards modernising the legal framework governing apartment ownership and management in a rapidly urbanising state. With Bengaluru and other cities witnessing a proliferation of large residential communities, laws enacted over five decades ago have struggled to keep pace with contemporary realities. The proposed legislation seeks to strengthen homebuyers’ rights, clarify ownership, improve accountability, and establish a comprehensive framework for apartment management. Such a law is long overdue. Thousands of flat owners continue to face uncertainty because developers have failed to convey land titles or hand over common areas and project documents. Resident welfare associations often operate without adequate legal clarity, while disputes over maintenance, governance, and ageing buildings frequently end up in prolonged litigation. As many complexes built during Bengaluru’s early real estate boom approach the end of their structural life, the absence of clear statutory provisions for redevelopment and ownership transitions has become a pressing concern. The proposed bill attempts to address these long-standing issues.
+
+Bengaluru: Apartment owners welcome proposed law, seek stronger safeguardsThe deemed conveyance mechanism will help homeowners secure ownership rights even when developers fail to transfer land and common areas. The handover of project documents and unspent maintenance funds will be mandatory. The proposal requiring structural audits for buildings older than 30 years prioritises public safety. Equally important is the creation of a specialised dispute resolution mechanism that can offer quicker relief than conventional civil courts. The redevelopment framework, allowing projects to proceed with 75% consent while protecting dissenting owners through statutory compensation, strikes a balance between collective interest and individual rights. The draft also seeks to bring greater financial transparency by distinguishing essential maintenance charges from user charges for amenities. Requiring associations to maintain separate accounts for maintenance, reserve funds, and cultural activities can ensure that residents’ contributions are utilised for their intended purposes. However, some concerns remain, particularly in areas where it creates friction with the Real Estate (Regulation and Development) Act.
+
+The government has rightly initiated a public consultation process. It must continue engaging not only apartment owners and resident welfare associations but also developers, urban planners, legal experts, financial institutions, and civil society. Such broad-based consultations will help produce a balanced, implementable law that safeguards the interests of all stakeholders while minimising ambiguities. A law of this significance deserves careful legislative drafting and sustained stakeholder engagement to ensure it stands the test of implementation rather than becoming mired in avoidable legal challenges.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/building-legal-certainty-4080960)
+
+---
+
+### Small acts, lasting impressions
+*Deccan Herald · Opinion*
+
+‘Loyalty is hard to come by these days,’ my friend bemoaned when her house help quit without prior intimation, especially while she was juggling a full-time job and caring for a toddler. Loyalty is indeed rare as it entails emotional discipline, integrity, perseverance and consistency. When I was discussing my friend’s dilemma with my husband, my daughter suddenly interjected, ‘Amma, all maids aren’t like Premvati’. On hearing that name, a gush of sweet memories came rushing back to me.
+
+To give you a context, my husband’s job involves constant transfers. We have lived in many cities across India and dealt with several house helps and their idiosyncrasies. While few were downright troublemakers, most of them reciprocated warmly to our unassuming nature. However, Premvati is the only person to have left an indelible mark in our hearts. True to her name, she exuded love and care as if we were her new found family members. Despite being close to 70, her punctuality and dedication to work used to amaze us. Be it torrential rains or scorching heat, she would walk into our house every day at sharp 7 am. Even during the worst flood years of Delhi in 2010, she came wading through knee deep waters. Though we assured her that we can manage on our own for a few days, she simply smiled and said in Hindi, ‘I prefer coming to your house, drink a cup of South Indian coffee, and finish my chores rather than sit at home worrying about the leaky roof’.
+
+Nature’s timeless messageNever one to take a day off without a valid reason, she was meticulous in her work and embodied mindfulness. She would often say, ‘Today, I am working at your house and I am so grateful. No one has the power to see what tomorrow holds for us, so I will give my best to this job which keeps my kitchen running’. She left a deep impression on all of us, more so on my daughter, who was barely 10 years then. ‘I want to be like Premvati aunty, hardworking and devoted to work.’ Though my daughter’s words were well beyond her years, I was grateful to God that we had such a supremely positive influence like Premvati among us.
+
+It’s been 13 years since we bid adieu to Premvati, but we continue to cherish her devotion and faithful gestures. Almost everyone will make a good first impression but only a few will make a good lasting impression.
+
+[Read full article](https://www.deccanherald.com/opinion/small-acts-lasting-impressions-4080967)
+
+---
+
+### The inimitable Uncle Podger
+*Deccan Herald · Opinion*
+
+English literature is rich with gems of words that have penetrated and enriched our lives. With tongue in cheek, they have subtly crept into our vocabulary. Humourists like P G Wodehouse or G K Chesterton or Mark Twain have given of their best to brighten our days. Among the notable authors I fell in love with while in college was Jerome K Jerome, the humourist whose acerbic expressions have not paled over time. His Uncle Podger Hangs a Picture, which is still standard reading among the students, had charmed me at school and left a lasting impression.
+
+I realised that it is never too late to revive my reading. So I decided to dig into my library and pull out this classic on how to hang a picture, as directed by Uncle Podger. Uncle Podger is one
+
+of the most enduring characters to have ever adorned the pages of English fiction.
+
+The fur in the potHe takes up a simple task of hanging a picture on the wall in his house and manages to lay everything to waste. Not only he, but also his entire family is roped into the venture. Hanging a picture acquires Herculean proportions, for which he has to enlist the assistance of one and all.
+
+Hilarious and full of idiosyncrasies, Uncle Podger’s antics drive us into a world of laughter. Uncle Podger starts off by dispatching one nephew to borrow a hammer from a neighbour, and then another after him to fetch the nails. What about the ladder to hoist the picture on the wall?
+
+He climbs up the ladder, raises the hammer and brings it down heavily on his thumb. He gives a shrill cry when he sees bloodshed and goes into a bloody frenzy.
+
+He comes down the ladder and
+
+examines his handiwork. The picture hangs on the wall at a crooked angle, defying the laws of quantum mechanics.
+
+Uncle Podger is not used to acknowledging gratitude from his devoted horde. He rounds up his gang of relations to complete the job of mounting the picture.
+
+At the same time, he gives them a dressing down for their incompetence, though it is he who is the architect. No wonder his nephews and nieces are keen to put their tails between their legs and scoot from the scene.
+
+At the end of Uncle Podger’s tryst with the wall, one cannot help
+
+but sympathise with him.
+
+How poor would English literature have been in the absence of authors like Jerome K Jerome. So what if Uncle Podger has the last laugh?
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
+
+[Read full article](https://www.deccanherald.com/opinion/the-inimitable-uncle-podger-4080959)
+
+---
+
+### The politicisation of caste data
+*Deccan Herald · Opinion*
+
+For over a decade, Karnataka has collected caste data without establishing a transparent, democratic process for interpreting its significance. On July 16, BJP MLC Keshava Prasad called for the latest Social and Educational Survey report to be tabled in the legislature and debated for three days. While the demand is politically motivated, the underlying principle is valid: a report with the potential to reshape reservations, welfare priorities, and political representation should not remain solely under government control.
+
+The state’s prior experience underscores this necessity. In 2015, a comprehensive socio-economic and educational survey covered approximately 5.98 crore individuals. Successive governments avoided public engagement with the findings. The Jayaprakash Hegde-led Backward Classes Commission submitted its report in February 2024. Following a Cabinet review in 2025, the government commissioned a new survey. The survey commenced on September 22, 2025, utilising an estimated budget of Rs 420 crore. The Karnataka State Commission for Backward Classes submitted its report to then Chief Minister Siddaramaiah on May 27, 2026. However, public knowledge remains shaped more by political claims and selective leaks than by an official release. The government’s response that the Cabinet will review and decide perpetuates a cycle of data collection, concealment, and speculation.
+
+Social justice cannot remain on holdIn the absence of an official report, community organisations mobilise around unofficial figures, political parties disseminate data that supports their interests, and rumours gain the status of statistics. Dominant communities fear underrepresentation, smaller communities fear erasure, and marginalised groups suspect that unfavourable findings will be suppressed. Each unreleased report thus becomes a focal point for competing anxieties.
+
+The survey also presents limitations that warrant public examination. Enumeration was voluntary following a Karnataka High Court directive that citizens could not be compelled to participate and that collected information must remain confidential. Bengaluru, in particular, posed significant challenges for enumeration. At one point, statewide household coverage reached approximately 85%, while Bengaluru’s coverage lagged considerably; subsequent extensions improved participation, yet a substantial segment remained uncounted or withheld information.
+
+No comprehensive dataset is without flaws. However, these limitations necessitate that the government release the methodology, coverage rates, definitions, coding protocols, procedures for handling missing data, and margins of uncertainty alongside the conclusions. A caste survey should not be regarded as an unquestionable numerical verdict; rather, it constitutes evidence that requires transparent interpretation.
+
+While individual household records must remain confidential, anonymised aggregate findings, district-level patterns, socio-economic indicators, and the report’s recommendations can be published without compromising citizen privacy. The government should issue a detailed technical note, allow independent academic review, and establish a secure process for qualified researchers to access anonymised data. Public access should be structured and regulated, not entirely restricted. Then debate not merely which caste is numerically larger, but what the survey reveals about deprivation.
+
+Karnataka’s political discussion has become trapped in a demographic auction: communities are treated as claimants presenting population strength in exchange for a greater share of state benefits. But the commission’s statutory purpose is not to award influence to the largest bloc. It is to identify social and educational backwardness. Landlessness, schooling, occupational vulnerability, access to public employment, housing and regional inequality matter as much as population.
+
+A substantive debate must therefore distinguish among three questions often conflated in political discourse: Who is underrepresented? Who is socio-economically disadvantaged? And which policy instrument—reservation, targeted welfare, educational investment, or regional development—is most appropriate? Karnataka should establish a statutory publication protocol for such commissions. Reports should be released within a fixed period after submission; methodology and aggregate data should be published simultaneously; an independent expert panel should review data quality; and the legislature should debate the findings before major policy changes are announced.
+
+Caste data is frequently justified on the grounds of social justice. This justification is credible only if the data is managed democratically. Information collected from citizens using public funds should not be transformed into electoral intelligence accessible primarily to ministers, party strategists, and influential caste associations.
+
+Suppression has already produced suspicion. The state must choose between an evidence-based public argument and a private contest based on leaks. A caste survey becomes an instrument of justice only when its numbers cease to be political property and become part of the democratic commons.
+
+(Neil is the head of the Department of Political Science, Paul is the Dean, School of Humanities and Social Sciences, and Daniya is a research scholar at the Department of Political Science, St Joseph’s University)
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
+
+[Read full article](https://www.deccanherald.com/opinion/the-politicisation-of-caste-data-4080965)
+
+---
+
 ## 20 July 2026
+
+### Reclaiming footpaths, taking cities back from cars
+*The Hindu · Opinion*
+
+Few sights are more ordinary in an Indian city than a pedestrian being pushed off a footpath and onto the road. A mother, holding a school bag in one hand and a child in the other, walks around a parked car. An elderly man tests a broken footpath before stepping down onto the road. A wheelchair user gives up before the journey has even begun. A vendor, debris, an open drain, a two-wheeler, and a signboard together form what is still, with bureaucratic optimism, called a pavement. The citizen is then forced to walk on a road designed as though only vehicles possess rights.
+
+Upholding walkabilityIn June 2026, the Supreme Court of India gave constitutional language to this daily indignity, in Maniyar Iliyaz @ Shaik Riyaz vs P. Ayyappan (2026). It held that walking on demarcated footpaths is a fundamental constitutional right, protected under Article 19(1)(d) and Article 21 of the Constitution. It observed that pedestrians have a right to safe footpaths and footways, and directed States and Union Territories to frame policies and guidelines for their provision and maintenance. This is not a minor municipal instruction. It is a public health intervention, a road safety measure, and a democratic test of whether Indian cities are built for people or merely for machines.
+
+The timing could not be more urgent. India is becoming less active precisely when it needs movement the most. Health risk factors and diseases such as diabetes, hypertension, fatty liver disease, and obesity are rising rapidly, as reported by every newly available population health dataset.
+
+Walking and increased physical activity are among the low- and no-cost interventions that can halt and reverse this rise in metabolic diseases. Yet, the World Health Organization (WHO)’s India Physical Activity Profile 2024 estimates that 49.4% of Indian adults do not meet the recommended levels of physical activity; among women, the figure is 57.2%. Among children and adolescents aged 11 to 17 years, it is 74%. WHO recommends at least 150 minutes of moderate-intensity physical activity each week for adults. For most citizens, this does not mean gym memberships or elite fitness routines. It means having the ability to walk safely to a bus stop, school, market, clinic, metro station, or park.
+
+These are not failures of willpower alone; rather, they are exacerbated by the built environment. A city that makes walking difficult quietly prescribes sedentary living. Footpaths, therefore, are not decorative strips of cement added after roads have been designed. They are preventive medicine laid in stone. A usable pavement allows children to walk to school, office-goers to use public transport, older adults to remain mobile, and women to move safely. Walking improves blood pressure, insulin sensitivity, weight control, mood, sleep, and joint function. It is the simplest health habit available to the largest number of citizens. Yet, we in India have made it difficult and dangerous. Many Indians would prefer to use cars and scooters less if cities offered safe, continuous, shaded footpaths.
+
+The road safety argument is equally compelling. The Union Ministry of Road Transport and Highways (Transport Research Wing) ‘Road Accidents in India 2024’ report found that two-wheeler riders and pedestrians together accounted for nearly 67% of road fatalities, with 1.28 lakh deaths among these vulnerable groups. The National Crime Records Bureau’s 2024 data place the number at more than 1.1 lakh and the share at at least 60%. The exact totals differ across official sources, but the message is unambiguous: pedestrians and two-wheeler riders remain India’s most vulnerable road users. Every time a footpath disappears, the road becomes a contest between flesh and metal.
+
+Orderly shared streetsThe solution cannot be episodic anti-encroachment drives, in which a few carts and cars are removed before the same disorder returns the following week. Nor can it be a punitive war on street vendors, who are workers with legal protections and legitimate economic claims. The answer lies in planned allocation: footpaths for walking, vending zones for vendors, parking spaces for vehicles, utility corridors for public infrastructure, and meaningful penalties for violations. A humane city organises the street so that livelihoods and mobility can coexist without endangering lives.
+
+Citizens, too, have a role, though not the only one. First, walk deliberately: begin with 10 to 15 minutes after two major meals, or build towards 30 minutes at a fixed time each day. Second, convert short errands into walking errands; distances under one kilometre should not automatically require a scooter or car. Third, combine walking with public transport by using the metro, bus, or shared mobility for part of the commute. Fourth, make walking social: families, resident welfare associations, and workplaces can create walking groups and car-free morning routines. Fifth, reclaim walking as a health check. If breathlessness, knee pain, fear of falling, or unsafe streets prevent walking, treat that as a signal to seek medical advice, improve strength, or demand civic correction. Most importantly, the recent Supreme Court decision has given citizens and resident welfare associations an opportunity to demand their right to walk on encroachment-free footpaths.
+
+Yet, citizens cannot easily walk their way out of poor urban planning. Civic bodies and governments must act with seriousness. Every road project should include continuous, shaded, well-lit, and barrier-free footpaths, along with safe crossings. Footpaths must be wide enough for two people or a wheelchair, with ramps and clear passageways near bus stops. Encroachment control should be continuous, transparent, and fair. Parking on footpaths must invite stringent action, with penalties that change behaviour. Street design should prioritise schools, hospitals, bus stops, markets, and metro stations, where pedestrian volumes are high. Tree cover, benches, public toilets, and lighting are not embellishments; they determine whether women, children, persons with disabilities, and older people can walk.
+
+Policy actionIndia also needs a national active-mobility mission linking urban development, transport, health, and education. Cities and urban planning should be assessed not by the length of flyovers built, but by the number of safe walking kilometres created. Municipal commissioners should publish ward-level footpath maps and annual audits of encroachment-free footpaths. School zones should have traffic calming measures and protected crossings. Employers should encourage active commuting. Doctors should prescribe walking advice to nudge behaviour, but governments must provide the pavements on which those prescriptions can be followed.
+
+The Supreme Court has moved the footpath from the margins of municipal housekeeping to the centre of constitutional rights. The next task is to move it from judgment to habit, budget, design, and enforcement. A country battling diabetes, hypertension, obesity, stress, and road deaths cannot treat walking as an afterthought. India does not merely need more roads; it needs more rights of way for ordinary citizens. The footpath is where public health, dignity, and democracy meet. We need to take our cities back from cars. We need to rebuild our cities for people. The proportion of encroachment-free footpaths should become a barometer of whether elected governments value citizens’ fundamental rights in every ward and on every major road.
+
+Dr. Chandrakant Lahariya is a practising specialist in ‘preventive and cardiometabolic medicine’ with nearly 18 years of work experience with the World Health Organization and the United Nations System
+
+[Read full article](https://www.thehindu.com/opinion/lead/reclaiming-footpaths-taking-cities-back-from-cars/article71246221.ece)
+
+---
 
 ### The stark reality of the missing jobs for India’s Gen Z
 *The Hindu · Opinion*
@@ -73,6 +285,60 @@ With 8,032 runs at an average of 57.78, which made him the fifth highest among b
 An adornment to the game, he was knighted in England, honoured in Australia with the highest civilian award and revered in his home island of Barbados, leaving an ambassadorial legacy in his sport that was as telling as the six sixes he hit in an over in first-class cricket. The fact is they don’t make them like the gifted Sobers anymore.
 
 [Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-garry-sobers-jewel-of-cricket-1972338)
+
+---
+
+### DC Edit | World Cup: The Reign Of Spain
+*Deccan Chronicle · Editorial*
+
+Spain, technically the finest of the 48 teams, deservingly won the World Cup. They were held off only by a brutally cynical Argentina team that seemed intent on not conceding a goal and never striving to create one.
+
+In a far from classy final, Spain scored early in the second half of extra time and kept Argentina at bay till the final whistle, when tears rolling down Lionel Messi’s cheeks told the story vividly.Striker Ferran Torres’ winner, off a header to a pass to his feet by substitute Williams from the Argentine goal line, sailed past the heroic goalkeeper Emiliano Martinez who had kept Spain scoreless with at least 12 saves amid fracas-ridden match situations that saw a reluctant red card come out to Enzo Fernandez.
+
+Sporting justice was served in the end for the European champions Spain who, quite remarkably, remain unbeaten in 38 matches in all competitions, the longest-ever run by any major team in history. The World Cup of 2026 may have been politicised from the very start with fans unable to come because of immigration travel bans and the Iranian team being treated more like prisoners of war, but nothing seemed to affect Spain’s tiki-taka brand of brilliance in passing the ball.
+
+Extraordinarily, the World Cup was a grand success not only financially as a money spinner with $15 billion revenue but because the people of the USA, Canada and Mexico made it so. They embraced ‘soccer’, as they call it, adopted the fans of so many different countries as their own and turned up in such numbers at every venue to make the attendance close to 100 %. So much so, they are asking to host the event again in 2038, but just in the USA.
+
+US President Donald Trump loved the spotlight so much that the FIFA president Gianni Infantino had to drag him away from the Spanish team so they could celebrate by themselves as the proud winners of a second World Cup. Mr Trump’s decision to have a red card suspension overturned for a US striker took political meddling to its highest point, despite which the event became a hit with a record global television and streaming audience.
+
+Even commercial intrusions such as an inordinately long half-time show with pop idols, young and old, performing and hydration breaks, including at three of the 16 air-conditioned stadiums, did little to take away the sheen of the ‘beautiful’ game in which not only the greats like Kylian Mbappe, Cristiano Ronaldo, Lamine Yamal and the indefatigable Messi shone. New stars also lit up the event that was one for the ages despite the polarisation of the world by politics, race and religion.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-world-cup-the-reign-of-spain-1972562)
+
+---
+
+### Dev 360 | Chasing Global Rankings On a Crumbling Planet | Patralekha Chatterjee
+*Deccan Chronicle · Opinion*
+
+What if the greatest threat to human progress is no longer our inability to advance — but our failure to protect what we have already created? How do we stop shocks — from climate disasters, conflict, forced migration, pandemics and debt — from wiping out our gains? These are among the stark questions that leap out from the flood of data in recent global assessments of sustainable development.
+
+With under four years left for its 2030 deadline, the UN Sustainable Development Goals Report 2026 paints a worrying picture of slow progress — albeit with some hopeful signs.
+
+Since 2015, millions have gained access to safe drinking water and sanitation. Electricity now reaches 92 per cent of the world’s population, with a third of installed generation capacity from renewable sources. Internet access has surged from 40 to 74 per cent, connecting billions to new education and economic opportunities. Health outcomes have similarly improved: new HIV infections and AIDS related deaths have each fallen by roughly a third, 59 countries have eliminated at least one neglected tropical disease and 134 countries have met the target for reducing child mortality. Disaster-related deaths have dropped by 65 per cent compared with the previous decade.
+
+Yet, one in 10 people globally still lives in extreme poverty. Food insecurity remains well above 2015 levels, affecting 2.3 billion people. More than 150 million children are stunted. Maternal mortality remains nearly three times the global target. Everyday discrimination — still felt by one in five people worldwide — continues to limit human potential.“These shortfalls are compounded by intersecting planetary and human-made crises. In 2025, global temperatures reached 1.43°C above pre industrial levels, and atmospheric carbon dioxide (CO2) reached its highest concentration in 2 million years. Violent conflict surged to its highest levels in decades, reversing years of development in mere months, forcibly displacing 118 million people,” says Li Junhua, UN under-secretary-general for economic and social affairs, in the introduction to the report,
+
+Hearteningly, Southern Asia has emerged as one of the main drivers of critical human development metrics, accounting for over 68 per cent of the global reduction in stunted children (a decrease of 20.6 million) and 55 per cent of the reduction in wasted children between 2012 and 2024.
+
+These hard-won victories remain dangerously fragile.
+
+The 2026 report notes that over the last decade, critical infrastructure has proved especially vulnerable to disasters. Between 2015 and 2024, based on countries’ reported data, an average of 91,847 units of critical infrastructure were destroyed or damaged every year. Over the same period, there were more than 1.5 million yearly disruptions to basic services, including continuity of health and education services. These figures reflect the systemic nature of disaster risk: water systems, power grids, transport networks and hospitals do not operate in isolation, and a single failure in one system can cascade across entire economies, undermining service delivery, livelihoods and long-term development progress.
+
+Where does India, a country of 1.4 billion, figure in the global SDG narrative?
+
+In a separate, independent academic report led by economist Prof. Jeffrey D. Sachs, director of the Centre for Sustainable Development at Columbia University, and other experts and published by the UN Sustainable Development Solutions Network (SDSN) to coincide with the UN Sustainable Development Goals Report 2026, India ranked 94th among the 169 countries with sufficient data for inclusion in the SDG Index.
+
+It is vital to separate this from the UN’s report, which does not rank countries on SDG. While the SDSN operates under a broad United Nations umbrella — having been launched to mobilise scientific expertise for the SDGs — its index is an independent evaluation.
+
+Clearly, India is a key part of the global SDG ledger, embodying the agonising paradox of modern development: historic macroeconomic ascents alongside structural bottlenecks and a rapidly intensifying climate crisis.
+
+The Sachs-led SDG Index throws up some interesting contrasts: Thailand ranks above the United States, while tiny Cabo Verde, which made football history by qualifying for the 2026 Fifa World Cup, is just one place behind India at 95th.
+
+Stripping away the media’s obsession with the “94th rank” exposes a hard truth: economic velocity does not automatically translate into human equity. Even with its record rise on this independent index, India continues to lag behind smaller South Asian neighbours like Bhutan, the Maldives and Nepal on many fronts.
+
+All this is happening against a worrying backdrop of increasingly frequent extreme and erratic weather fuelled by climate change. For India, this translates into erratic monsoons, brutal heatwaves, and shifting agricultural zones that ravage crop yields and drive up food insecurity. Climate change is ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/dev-360-chasing-global-rankings-on-a-crumbling-planet-patralekha-chatterjee-1972553)
 
 ---
 
