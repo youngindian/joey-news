@@ -1,3 +1,588 @@
+## 21 July 2026
+
+### Video: Leopard sneaks into Rajasthan liquor shop, pounces on shopkeeper
+*India Today News Desk · general*
+
+## A leopard, believed to have strayed from a nearby forest, quietly entered a liquor shop in Todaraisingh and attacked a salesman checking the cash before injuring another employee. Both workers managed to escape after the sudden assault.
+
+Leopard attack in Rajasthan's liquor shop
+
+A leopard entered a liquor shop shortly after it opened in Rajasthan's Tonk district on Monday and attacked two employees before they escaped and locked the animal inside the premises from outside. The incident took place in Todaraisingh town.
+
+Earlier in the day, the leopard had also allegedly attacked a forest volunteer near a forest outpost, leaving him injured. Forest officials said leopard movement had been reported for several days in the forest stretch between Todaraisingh and Bisalpur, and that leopards had also been spotted earlier near temples and hillocks on the outskirts of the town.
+
+According to the account from the main market in Todaraisingh, a salesman had just opened the liquor shop and was checking the cash when the leopard, believed to have strayed from the nearby forest, quietly entered the premises. The animal moved in so silently that neither the salesman nor his colleague noticed it until it suddenly turned aggressive and attacked the salesman, injuring him. It then attacked another employee seated in a different section of the shop.
+
+Both men then managed to rush out of the shop and pull down the shutter from outside, trapping the leopard inside. The injured salesman was referred to Tonk for further treatment, while the other employee was given first aid in Todaraisingh.
+
+CCTV footage shows the leopard entering the liquor shop and attacking a man on its way in.
+
+It then climbs onto a table and, as the shopkeeper approaches to inspect the area, suddenly pounces on him before running deeper into the shop. Another clip shows the animal hiding beneath a rack of bottles.
+
+Earlier, the same leopard allegedly attacked forest volunteer Rakesh Saini near a forest outpost. He suffered injuries to his legs in the attack.
+
+After the leopard was confined inside the shop, a large crowd gathered outside the premises. Assistant Conservator of Forests Anurag Maharshi and his team reached the spot from Tonk, while a specialised team from Jaipur Zoo was called to tranquilise and safely capture the animal. Police personnel were also deployed at the scene and faced difficulty in controlling the crowd gathered around the shop.
+
+The incident left two liquor shop employees and a forest volunteer injured, while forest and police teams began efforts to secure the area and capture the leopard locked inside the shop.
+
+\- Ends
+
+Inputs from Manoj Tiwari
+
+Sayan Ganguly
+
+Jul 21, 2026 09:03 IST
+
+---
+
+### CJP Protest in Delhi: What's happening at Jantar Mantar and Parliament area? What Abhijeet Dipke, Sonam Wangchuk, govt and Delhi Police are saying
+*Trending Desk · general*
+
+Delhi remains on edge a day after the Cockroach Janta Party's (CJP) "Sansad Chalo" march to Parliament turned into one of Delhi's biggest street confrontations in the last few years. With Parliament's Monsoon Session underway, protesters, police, the government and the opposition are all now trading claims about what happened, and what happens next. Here is a complete breakdown of where things stand currently.
+
+## CJP Protest Current Status: Where Things Stand Right Now
+
+**Jantar Mantar site cleared, protest shifts to Kerala House:** After Monday's clashes, Delhi Police dismantled the main stage at Jantar Mantar. CJP leaders, however, have continued a sit-in a short distance away near Kerala House, with a large crowd still gathered there.
+
+  
+  
+
+**Wangchuk remains hospitalised:** He was moved from Jantar Mantar to a government hospital on July 18 after 21 days without food, and continues to be treated at VMMC and Safdarjung Hospital along with a specialist team from AIIMS Delhi. On Monday, he said that he will continue his fast.
+
+"I will continue my fast. Seeing the brutality with which peacefully protesting Youth are being dealt with, I have decided to continue my fast untill the youth leaders are allowed to meet the Parliamentarians at the Sansad Bhawan or l am allowed to meet them here at the Hospital. Hopefully, the government will fix the accountability of the Education Minister before then. I am touched and moved by how the youth have held on to peace despite provocation," he said.
+
+**Dipke ended his own fast to lead the march:** Dipke had begun a parallel hunger strike after Wangchuk's hospitalisation but broke it on July 20 at the request of Riya Thapa's father, so he could personally lead the Parliament march. Yesterday night, Dipke, Wangchuk’s wife and other CJP representatives announced that the protest will continue till minister Dharmendra Pradhan resigns.
+
+**First CJP-government dialogue in a month:** For the first time since the protest began, a CJP delegation held talks with BJP president and Union Minister JP Nadda on July 20, submitting a written memorandum. The CJP leaders submitted their demands though the government has made no firm commitments yet.
+
+**Security remains tight:** Barricading, heavy police deployment and metro station closures around Central Delhi continue as Parliament's Monsoon Session proceeds, with authorities on alert for any fresh mobilisation.
+
+**Legal battle continues:** The Delhi High Court has been hearing separate pleas filed by Wangchuk's wife, Gitanjali Angmo, 
+
+## What Is Abhijeet Dipke Saying?
+
+Dipke has been the most visible face of the protest on the ground. Ahead of the march, he had appealed for it to stay peaceful, stating that anyone causing disruption could not be considered a genuine supporter of the cause. However, after Wangchuk was shifted out of Jantar Mantar by police on July 18, Dipke alleged he himself was manhandled and briefly detained, and that Wangchuk had been forcibly removed.
+
+**He also announced a significant escalation:** CJP would no longer limit its demand to Dharmendra Pradhan's resignation but would now also call for accountability from the Prime Minister's office. On the day of the march, conflicting reports briefly claimed Dipke had been detained again; CJP spokesperson Saurav Das later clarified this was untrue and that Dipke remained free, while a large crowd continued to hold ground outside Kerala House. CJP has maintained that its agitation will continue until its demands are met.
+
+**What Are Sonam Wangchuk And His Wife Saying?**  
+Though hospitalised, Wangchuk has remained the movement's emotional anchor. Before he was shifted out, he had appealed to supporters through his wife to join the march in large numbers. His wife, Gitanjali Angmo, has been vocal in the days since, she has said the movement has captured national attention and accused the government of failing to respond adequately.
+
+She has also indicated Wangchuk would be willing to end his fast if Members of Parliament commit to holding a dedicated debate on education issues in the House. Separately, she raised concerns after a hospital report showed a sharp drop in his potassium levels, alleging she was not being allowed to independently verify his blood test results. As of the latest health bulletin, doctors have described his condition as stable, with vital parameters within normal range, though his blood sugar remains on the lower side as he recovers from dehydration.
+
+## What Is Delhi Police Saying?
+
+Delhi Police has pushed back on several allegations made by CJP. Officials maintained that Wangchuk was shifted to hospital strictly on medical advice and in line with a High Court order, not through force. They also rejected claims that Dipke was detained during the march, calling the reports circulating on social media false, and separately dismissed allegations that Gitanjali Angmo was assaulted by personnel during the crackdown, terming such claims baseless.
+
+Police said the "Sansad Chalo" march itself was an unauthorised procession and that they had deployed hundreds of personnel, along with tear gas and barricades, to prevent protesters from breaching security near Parliament. According to police figures, well over 100 personnel were injured in the clashes, with the Delhi Police Commissioner personally visiting the hospital to meet injured staff. The force has appealed to protesters to remain peaceful, avoid unlawful activity, and not spread unverified information.
+
+## What Is The Government Saying?  
+
+The government's response has shifted from silence to cautious engagement. Union Minister and BJP president J.P. Nadda confirmed that a CJP delegation approached the government for talks for the first time since the protest began, describing the meeting as cordial and confirming he had received their written demands. However, he stopped short of committing to Pradhan's resignation, instead urging protesters to end their sit-in and allow normalcy to return. Union Home Minister Amit Shah was also reported to have held a separate meeting with Dharmendra Pradhan within Parliament premises as the situation unfolded. The Education Minister himself has not issued any statement indicating he intends to step down.
+
+## What Is The Opposition Saying?
+
+Opposition leaders have used the crackdown to intensify their attack on the government. Rajya Sabha Leader of the Opposition Mallikarjun Kharge described the police action against students as an assault on democratic values. Congress leader Rahul Gandhi asserted that peaceful protest is a fundamental right, while party general secretary KC Venugopal accused the Centre of being one of the most authoritarian governments in the country's history. Shiv Sena (UBT) leader Aaditya Thackeray went further, calling the government's handling of the protest a sign of dictatorship and drawing a contrast with how an earlier government had responded to the Anna Hazare movement with dialogue rather than force. Notably, several opposition parties, including the Congress, had initially kept some distance from formally endorsing CJP given its unconventional, satirical origins, but the scale of Monday's crackdown appears to have pushed them toward more open criticism of the government.
+
+## Who Else Has Joined The Protest?
+
+The agitation has drawn support well beyond CJP's core base. Student organisations, including the All India Students' Association (AISA), have alleged that their members were injured during the police action, with one Delhi University office-bearer reportedly suffering a fracture. Protesters at the site have included students who travelled from outside Delhi, including from Bihar, as well as ex-servicemen who have mobilised in support of Wangchuk.
+
+The unrest has also spread beyond the capital,Mumbai Police, anticipating solidarity demonstrations, has imposed prohibitory orders banning gatherings of five or more people in public places for over two weeks. Journalists, teachers and ordinary citizens have also been reported joining sit-ins at various points during the protest's nearly month-long run.
+
+## What Happens Next?
+
+With Parliament's Monsoon Session in progress, the standoff is far from resolved. CJP has said its agitation will not end until Dharmendra Pradhan resigns, while the government has so far offered dialogue but no concrete commitment. Much may depend on Wangchuk's health and whether MPs agree to his wife's condition of a Parliament debate on education. For now, both sides remain locked in a tense wait-and-watch, with heavy security expected to continue around Central Delhi in the coming days.
+
+## What Is The CJP Protest All About?
+
+The Cockroach Janta Party is a satirical political outfit founded on May 16, 2026, by political communications strategist Abhijeet Dipke, who previously worked with the Aam Aadmi Party. The name was a direct response to a remark made a day earlier by Chief Justice of India Surya Kant, who had compared unemployed youth to "cockroaches" while making a public comment. What started as satire quickly snowballed into a full-blown protest movement after it merged with growing anger over alleged irregularities in the NEET-UG medical entrance exam, including the death by suicide of a NEET aspirant, Riya Thapa.
+
+Climate activist and Magsaysay awardee Sonam Wangchuk lent his support to the movement and began an indefinite hunger strike at Delhi's Jantar Mantar in June, demanding the resignation of Union Education Minister Dharmendra Pradhan over the NEET paper-leak allegations. The protest has since grown into a broader youth-led agitation over education, unemployment and accountability.
+
+---
+
+### SBI Funds Management IPO to list today: Will it open strongly? Check GMP
+*India Today Business Desk · general*
+
+SBI Funds Management IPO is set to make its stock market debut on Tuesday, July 21, after receiving a strong response from investors during the three-day bidding period.
+
+With the issue subscribed 41.73 times and the grey market premium (GMP) still indicating healthy listing gains, all eyes will now be on whether the country's largest asset management company (AMC) delivers a strong market debut.
+
+The IPO is expected to list on both the NSE and BSE. While GMP is not an official indicator, it gives an idea of how the market expects an IPO to perform on listing day.
+
+### WHAT DOES THE LATEST GMP SUGGEST?
+
+According to the latest grey market trend, SBI Funds Management IPO was commanding a GMP of Rs 95.5 as of 8:01 am on July 21.
+
+Based on the upper issue price of Rs 574 per share, the estimated listing price stands at around Rs 669.5. This points to a possible listing gain of about 16.64% over the issue price, if the current premium holds until listing.
+
+The GMP, however, has seen some movement over the past few days.
+
+On July 19, the premium had climbed to Rs 104, indicating estimated listing gains of 18.12%. It later eased to Rs 95.5 on July 20 and remained at the same level on the morning of the listing.
+
+While the premium has cooled slightly from its recent peak, it continues to suggest positive investor sentiment towards the issue.
+
+It is worth noting that GMP is based on unofficial market activity and can change until the shares begin trading.
+
+### IPO ATTRACTED STRONG DEMAND
+
+The Rs 9,812.91 crore public issue received robust demand across investor categories.
+
+Overall, the IPO was subscribed 41.73 times by the close of bidding on July 16.
+
+The strongest interest came from Qualified Institutional Buyers (QIBs), whose quota was subscribed 140.11 times.
+
+The Non-Institutional Investor (NII) portion was subscribed 22.51 times, while the retail investor category was subscribed 3.76 times.
+
+The employee quota received 4.65 times subscription, while the shareholder category was subscribed 9.52 times.
+
+The strong participation from institutional investors is generally seen as a sign of confidence in the company's long-term business prospects.
+
+### KEY DETAILS OF THE IPO
+
+SBI Funds Management IPO is a book-built issue worth Rs 9,812.91 crore.
+
+The issue is entirely an Offer for Sale (OFS) of 17.10 crore shares, meaning the company itself will not receive any proceeds from the IPO. Instead, the existing shareholders are selling part of their holdings.
+
+The IPO had a price band of Rs 545 to Rs 574 per share.
+
+The minimum lot size for retail investors was 26 shares, requiring a minimum investment of Rs 14,924 at the upper end of the price band.
+
+For small non-institutional investors (sNII), the minimum investment was Rs 2,08,936 for 364 shares, while big non-institutional investors (bNII) had to apply for at least 1,768 shares worth Rs 10,14,832.
+
+Kotak Mahindra Capital Co. Ltd. acted as the book-running lead manager for the issue, while KFin Technologies Ltd. is the registrar.
+
+### ABOUT SBI FUNDS MANAGEMENT
+
+Founded in 1992, SBI Funds Management is India's largest asset management company by assets under management.
+
+The company manages SBI Mutual Fund and is a joint venture between State Bank of India and France-based Amundi Asset Management.
+
+It offers a wide range of investment products, including equity funds, debt funds, hybrid funds, exchange-traded funds (ETFs) and portfolio management services (PMS).
+
+As of 2025, the company managed around Rs 16.32 lakh crore in assets, accounting for nearly 15.5% of India's mutual fund industry's total assets under management.
+
+As of December 31, 2025, it served more than 16.05 million investors across retail and institutional segments.
+
+Apart from mutual funds, the company has also built a strong presence in portfolio management services, alternative investment funds (AIFs), specialised investment funds (SIFs), offshore mandates and pension fund management.
+
+### WHY ANALYSTS ARE POSITIVE ON SBI IPO
+
+Brokerages have largely maintained a positive view on the IPO, particularly from a long-term investment perspective.
+
+Geojit Investments said that at the upper price band of Rs 574, SBI Funds Management is valued at around 38 times its FY26 earnings, which is moderately lower than many listed peers.
+
+"At the upper price band of Rs 574, SBIFML is valued at a P/E of 38x, moderately lower compared to peers. Considering its robust fundamentals, industry leadership, and favorable long-term outlook, we recommend subscribing from a medium- to long-term investment perspective," Geojit Investments said.
+
+Shivani Nyati, Head of Wealth at Swastika Investmart Ltd., also recommended subscribing to the IPO for long-term investors.
+
+She said the company benefits from its leadership position in the mutual fund industry, a strong SIP franchise and the backing of both SBI and Amundi. According to her, the valuation is lower than the industry average, while the company continues to generate strong profitability.
+
+### WHAT MAKES THE COMPANY STAND OUT?
+
+Analysts point to several strengths that differentiate SBI Funds Management from many of its peers.
+
+The company enjoys the backing of State Bank of India, giving it access to one of the country's largest banking networks and customer bases. Its partnership with Amundi also provides global investment expertise and product development capabilities.
+
+Another major strength is its wide distribution network across both metro cities and B-30 locations, helping it reach a large number of investors.
+
+The company also has one of the largest SIP franchises in the country, with around 15.8 million live SIP accounts, providing a stable source of long-term inflows.
+
+Besides mutual funds, it has also expanded into higher-margin businesses such as PMS, AIFs and SIFs, giving it additional opportunities for revenue growth.
+
+### WILL THE IPO OPEN STRONGLY?
+
+The strong institutional demand and a grey market premium of nearly 17% suggest that the IPO could witness a healthy listing.
+
+However, investors should remember that GMP is only an unofficial indicator and actual listing performance will depend on market conditions and investor demand when trading begins.
+
+For long-term investors, brokerages believe SBI Funds Management remains well placed to benefit from India's growing mutual fund industry, rising SIP investments and the continued shift of household savings towards financial assets.
+
+_**(Disclaimer: The views, opinions, recommendations, and suggestions expressed by experts/brokerages in this article are their own and do not reflect the views of the India Today Group. It is advisable to consult a qualified broker or financial advisor before making any actual investment or trading choices.)**_
+
+\- Ends
+
+Jul 21, 2026 08:58 IST
+
+---
+
+### Shambhu border closed by police ahead of farmers' protest march to New Delhi today
+*Unknown · business*
+
+Shambhu border closed by police ahead of farmers' protest march to New Delhi today
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/shambhu-border-closed-by-police-ahead-of-farmers-protest-march-to-new-delhi-today/videoshow/132527253.cms)
+
+---
+
+### Kiara Advani on husband Sidharth Malhotra’s support in dealing with trolls
+*Lifestyle Desk · legal*
+
+Kiara Advani on Sidharth Malhotra's support in dealing with trolls. (Source: Instagram/@kiaraaliaadvani)
+
+Kiara Advani has been in the news lately, following heavy criticism over shooting intimate scenes with co-star Yash in their upcoming movie _Toxic_. Amidst the trolling, **Advani** has found support in husband and fellow actor Sidharth Malhotra — who has been her rock through trying times. In this context, an old clip has resurfaced online, in which she underscores the importance of a supportive partner when dealing with online criticism, and Malhotra’s quiet strength in this regard.
+
+_DISCLAIMER: This article is based on information from the public domain and/or the experts we spoke to._
+
+Back in 2023, in conversation with Anupama Chopra from _Film Companion_, the actor had shared: “The negativity really got to me, and I didn’t even discuss it with my husband at that point. He had also seen it on his own, but he didn’t bring it up.”
+
+“In fact, he was the one who explained to me, ‘Look, there will always be these negative trolls. But if you are going to give so much importance to this, and be sitting at home and crying and behaving like ‘s\*it has hit the roof right now’, what’s wrong with you? You don’t know them; they don’t know you. These could be certain fans who are not happy that we got married. Just let it be. They will grow up, but why are you letting it get to you?'”
+
+She added, “And I realised, ‘If he’s so mature about this, why am I feeling all of these things?'”
+
+### Role of a partner’s support
+
+According to Dr Santosh Bangar, senior consultant, psychiatrist, Gleneagles Hospitals Parel, Mumbai, during tough times of stress or anxiety, a partner can exercise calmness and try being patient until the situation cools to avoid further problems. “Being empathetic, and showing comfort and understanding can help induce calmness in life,” he said.
+
+He also believes that sharing or expressing thoughts, feelings, and concerns with one’s partner can significantly lighten up mental load and reduce stress which can help one bounce back better.
+
+### Tackling trolls
+
+Counselling psychologist Vishnupriya Bhagirath, added that trolling can cause significant harm and distress to the person facing it. “It can have both physical and psychological effects such as disrupting sleep cycle, lowering self-esteem, self-insecurity, depression and in extreme cases may lead to self-harm,” she told indianexpress.com, further adding that it can be overwhelming for the individuals and increases the perception of negativity in their lives.”
+
+Story continues below this ad
+
+The expert also said that one can tackle social media trolling head on by developing self-esteem and believing in themselves, blocking the handles who are trolling them, reducing their social media usage and not responding to the negative comments. And for this, you should be educated about the ill-effects of social media and how to manage their **emotions** while dealing with criticism, she said.
+
+---
+
+### Tanker crew abandons vessel after reported projectile strike in Strait of Hormuz, UKMTO says
+*Reuters · business*
+
+A tanker in ​the Strait of Hormuz reported being ​struck by an unknown projectile, forcing its crew to abandon ​the vessel and board a lifeboat, the United Kingdom Maritime Trade Operations agency (UKMTO) said on Tuesday.
+
+UKMTO said it had received multiple reports on Tuesday that a tanker had broadcast over ‌VHF Channel ⁠16 that ⁠it had been hit by an unknown projectile. The incident was reported eight nautical miles east ​of Oman's Limah and authorities were investigating.
+
+UKMTO said the tanker's company security officer had reported that ​the crew had abandoned the vessel and were aboard a lifeboat and no environmental impact had been reported.
+
+  
+
+UKMTO did not identify the ship or ​its owner.
+
+Separately, Iran's Revolutionary Guards said on Tuesday ⁠that two oil ‌tankers had caught fire after explosions while attempting to transit ​the southern ​route of the strait.
+
+The Guards said rescue teams were ⁠removing the crews from the area but did not identify ​the vessels. Reuters could not independently verify the Guards' ​statement.
+
+It was not immediately clear whether the tanker reported by UKMTO was among those cited by the Guards.
+
+The Strait of Hormuz, between Iran and Oman, was the main transit route before the conflict for around a fifth of global energy supplies.
+
+Tensions have escalated since a fragile truce between Washington and Tehran ‌collapsed in early July, reviving heavy exchanges of strikes and further disrupting shipping through the waterway.
+
+The United States reimposed a blockade ​of Iranian ​ports from July 14, including ⁠firing at an empty tanker in the strait that Washington said was bound for Iran. Iran has said it launched operations against U.S. bases in retaliation ​for what it called maritime violations.
+
+"As long as America's mischief in the region continues, the Strait of Hormuz is closed, and not even one drop of oil or gas nor a single shipment of chemical fertiliser will be exported from the area," the Guards said in a statement on Tuesday.
+
+---
+
+### Petrol, Diesel Prices Today (July 21): Fuel rates in Delhi, Mumbai, Kolkata and Chennai changed as crude oil dips below $90? Check here
+*Unknown · business*
+
+Petrol, Diesel Prices Today: Petrol and diesel prices remained unchanged across major Indian cities on Tuesday, July 21, even as global crude oil prices slipped below the $90 per barrel mark. The decline in crude prices came after reports raised hopes of a possible 10-day ceasefire, easing concerns over supply disruptions and bringing some relief to the energy market.
+
+**
+
+While international oil prices have softened, retail fuel prices in India continue to remain stable due to the country's daily price revision mechanism and the impact of taxes, freight costs and exchange rates.
+
+**
+
+## Petrol, diesel prices today, July 21
+
+According to the latest fuel price update, there has been no change in petrol and diesel prices in major metro cities on July 21.
+
+**Here are the latest rates:  
+**
+
+City
+
+Petrol (per litre)
+
+Diesel (per litre)
+
+Delhi
+
+₹94.72
+
+₹87.62
+
+Mumbai
+
+₹103.44
+
+₹89.97
+
+Kolkata
+
+₹103.94
+
+₹90.76
+
+Chennai
+
+₹100.85
+
+₹92.44
+
+Bengaluru
+
+₹102.86
+
+₹88.94
+
+Hyderabad
+
+₹107.46
+
+₹95.70
+
+Ahmedabad
+
+₹94.49
+
+₹90.17
+
+Noida
+
+₹94.87
+
+₹88.01
+
+Fuel prices may vary slightly in different districts due to local taxes and VAT.
+
+  
+
+## Crude oil dips below $90
+
+One of the biggest developments influencing the energy market is the decline in global crude oil prices.
+
+Oil prices fell below the $90 per barrel level after reports suggested growing optimism over a possible 10-day ceasefire, reducing fears of a prolonged geopolitical conflict that could disrupt global oil supplies.
+
+The easing in crude prices has improved market sentiment, although analysts say volatility could continue depending on developments in the Middle East and decisions by major oil-producing countries.
+
+## Why haven't petrol and diesel prices changed?
+
+Many consumers wonder why petrol and diesel prices in India do not immediately fall when crude oil becomes cheaper.
+
+Retail fuel prices are influenced by several factors, including:
+
+-   Global crude oil prices
+-   Rupee-dollar exchange rate
+-   Central and state taxes
+-   Dealer commissions
+-   Refining and transportation costs
+
+As a result, fluctuations in international crude prices do not always translate into immediate changes at petrol pumps.
+
+## How are petrol and diesel prices decided in India?
+
+Oil marketing companies such as Indian Oil Corporation (IOC), Bharat Petroleum Corporation Limited (BPCL) and Hindustan Petroleum Corporation Limited (HPCL) review fuel prices every day based on international benchmark prices and currency movements.
+
+The revised rates come into effect every morning at 6 am, although prices may remain unchanged for extended periods if market conditions do not warrant a revision.
+
+## How to check petrol and diesel prices in your city
+
+Consumers can check the latest fuel prices through SMS services offered by oil marketing companies or by visiting their official websites and mobile apps.
+
+Since fuel rates differ across states because of varying VAT and local levies, motorists are advised to verify prices in their own city before refuelling.
+
+## Will petrol and diesel become cheaper?
+
+The recent fall in crude oil prices has renewed expectations that fuel prices could soften if the downward trend continues. However, experts say any reduction in retail petrol and diesel prices will depend on how long global oil prices remain lower, currency movements and government tax policies.
+
+For now, petrol and diesel prices across the country continue to remain stable despite the dip in international crude oil prices, with consumers closely watching whether further easing in global markets eventually leads to relief at fuel stations.
+
+---
+
+### Goods train derailment near Delhi disrupts rail traffic; Over 50 trains cancelled and diverted
+*Anish Mondal · legal*
+
+Goods train derailment near Delhi has disrupted rail operations, with over 50 trains cancelled and diverted. Check the latest railway update. (Representative image)
+
+**Train accident near Delhi:** Indian Railways has regulated the operation of more than 50 trains after six loaded wagons of a goods train derailed on the Ghaziabad-New Delhi section of the Delhi Division today. According to Northern Railway Chief Public Relations Officer (CPRO) Himanshu Shekhar Upadhyay, the DRM, ADRM, and other senior officers are present at the site. He said there have been no reports of any casualties or injuries.
+
+Meanwhile, several trains have been affected following the incident. Some trains have been cancelled, partially cancelled, diverted, or regulated.
+
+“A total of 53 trains affected. 24 trains have been diverted via Delhi-New Delhi. 16 passenger trains have been cancelled. 5 passenger trains have been partially cancelled. 8 trains regulated via (Anand Vihar bound over Moradabad division and NCR),” he said. Here is the full list of affected trains:
+
+## Trains cancelled due to derailment of goods train near Delhi
+
+-   Train number 64437 Ghaziabad- Delhi
+-   Train number 64402 Delhi-Shahibabad
+-   Train number 64411 Shahibabad-Delhi
+-   Train number 64408 Delhi-Ghaziabad
+-   Train number 64423 Ghaziabad-New Delhi
+-   Train number 64430 New Delhi-Ghaziabad
+-   Train number 64425 Ghaziabad-New Delhi
+-   Train number 64432 New Delhi-Ghaziabad
+-   Train number 64417 Ghaziabad- Delhi
+-   Train number 64439 Ghaziabad-Delhi
+-   Train number 64406 Delhi-Ghaziabad
+-   Train number 64401 Ghaziabad-Delhi
+-   Train number 64434 Delhi -Ghaziabad
+-   Train number 64031 Ghaziabad- Sahibabad
+
+## Regulation of trains due to derailment of goods train near Delhi
+
+-   Train number 5579 PRNC -ANVT EXPRESS SPL
+-   Train number 14005 LICHCHIVI EXPRESS
+-   Train number 14090 KTW -ANVT MAIL
+-   Train number 14015 SADBHAWANA EXPRESS
+-   Train number 14117 KAALINDI EXPRESS
+-   Train number 15743 Farakka Express
+-   Train number 22437 Humsafar Express
+-   Train number 12427 Rewa-ANVT Express
+-   Train number 12225 KAIFIAT EXP
+-   Train number 14342 MUSSOORIE EXP
+-   Train number 12367 BGP-ANVT VIKRAMSHILA EXP
+-   Train number 12557 MFP-ANVT-SAPTKRANTI EXP
+-   Train number 64111 KRJ-SSB EMU (Proper route)
+-   Train number 22419 GCT-ANVT SUHAILDEV EXP
+
+## Short-origination/Short-termination of trains
+
+-   Train number 64104 New Delhi-DKDE short originate at Ghaziabad
+-   Train number 64109 Dkde-SSB short terminate at Ghaziabad
+-   Train number 64112 SSB-DKDE short originate from Ghaziabad
+-   Train number 64152 Delhi-Aligarh Jn short originate from Ghaziabad
+-   Train number 64053 Palwal-Ghaziabad short terminate at New Delhi
+
+## Diversion of trains due to derailment near Delhi
+
+-   Train number 54474 Saharanpur-Delhi diverted via Sahibabad- Delhi sarai Rahila-Delhi
+-   Train number 12904 GOLDEN TEMPLE MAIL
+-   Train number 18238 ASR-BSP CHATTISGARH EXP
+-   Train number 12397 GAYA-NEWDELHI MAHABODHI EXP
+-   Train number 2569 DBG-NDLS SPECIAL
+-   Train number 12402 NANDA DEVI EXP
+-   Train number 12391 RGD-NDLS SHRAMJEEVI EXP
+-   Train number 12565 BIHAR SAMPARK KRANTI
+-   Train number 2563 BJU-NDLS SPECIAL
+-   Train number 12555 GORAKHDAM EXPRESS
+-   Train number 15127 BNRS-NDLS KV EXP
+-   Train number 12451 SHRAMSHAKTI EXP
+-   Train number 12303 HWH-NDLS POORVA EXP
+-   Train number 15565 LLP-NDLS VAISHALI EXP
+-   Train number 12273 HWH-NDLS DURONTO EXP
+-   Train number 12229 LUCKNOW MAIL
+-   Train number 12417 PRAYAGRAJ EXP
+-   Train number 12429 LKO-NDLS AC SUPER FAST EXP
+-   Train number 12309 RJPB-NDLS TEJAS RAJ EXP
+-   Train number 12393 SAMPOORNA KRANTI EXP
+-   Train number 54474 SAHARANPUR-DELHI PASSENGER
+-   Train number 12559 BNRS-NDLS SHIVGANGA SUPER FAST
+
+Anish Mondal is a journalist with over nine years of experience covering the railways and roadways. Currently a member of the Indianexpress.com editorial team, Anish specializes in high-impact sectors. Professional Journey Anish began his career at the public broadcaster Rajya Sabha Television (now Sansad TV), where he developed a foundational understanding of legislative processes and national governance. In 2018, he transitioned to digital financial journalism at FinancialExpress.com, spending nearly six years refining his expertise in market trends and corporate reporting. Before joining The Indian Express in 2025, he served as a key contributor at ETNowNews.com. Education & Expertise Anish’s reporting is backed by a rigorous academic background in communication and the humanities: Master of Journalism and Mass Communication (MJMC) – Apeejay Stya University Post Graduate Diploma in Journalism and Production (PGTVRJP) – Apeejay Institute of Mass Communication Bachelor of Arts (English Honours) – University of Calcutta Areas of Coverage Connectivity: Detailed reporting on the expansion of Indian Railways and National Highway networks. ... 
+
+-   Tags:
+-   ghaziabad
+-   Indian Railways
+-   Indian Railways news
+-   Ministry of Railways
+-   Northern Railway
+
+---
+
+### CJP protest in Delhi Live: Govt willing to spill students' blood to protect Dharmendra Pradhan, says Dipke
+*India Today News Desk · general*
+
+NewsIndiaLive: Govt willing to spill students' blood to protect Dharmendra Pradhan, says Dipke
+
+Live blog
+
+CJP Protest in Delhi Live: The 'Chalo Sansad' will continue on Tuesday, Cockroach Janta Party (CJP) founder Abhijeet Dipke has told India Today Digital after one of the violent clashes between protesters and cops kept New Delhi on edge throughout Monday. Nearly 70 protesters were detained and over 60 sustained injuries, with CJP national spokesperson Ashutosh Ranka alleging that some of them suffered severe skull and rib injuries. More than 118 police personnel, including several senior officers, were also injured. In a statement, Delhi Police mentioned these persons and their accounts, accusing them of displaying "unruly, aggressive and violent behaviour" during the protest and attacking security personnel, damaging government vehicles and public property. An FIR is also going to be registered under relevant sections of the Bharatiya Nyaya Sanhita and other applicable laws for rioting, assault on public servants, damage to public property, and other offences committed during the stir. Meanwhile, senior CJP leaders met Union Minister JP Nadda and submitted a charter of demands. However, Ranka claimed that they had not received any response from the Centre. Security has been tightened at Jantar Mantar this morning as the protest is expected to continue. The CJP organised the march to protest irregularities in the NEET examination, demand sweeping education reforms and seek the resignation of Union Education Minister Dharmendra Pradhan. Follow IndiaToday.in for the latest updates on the CJP's march.
+
+...
+
+CJP founder Abhijeet Dipke speaks following the protest at Jantar Mantar, New Delhi, on Monday, July 20, 2026. (Photo: PTI)
+
+Jul 21, 2026 09:17 IST
+
+### CJP Protest Live: Opposition MPs seek discussion over Delhi protest, NEET mess
+
+Congress MP KC Venugopal and AAP MP Sanjay Singh have moved adjournment motions in the Lok Sabha and Rajya Sabha, respectively, seeking a discussion on the CJP protest in Delhi and the NEET examination controversy.
+
+Jul 21, 2026 08:56 IST
+
+### CJP Jantar Mantar Protest: Security tightened at Jantar Mantar ahead of Day 2 of protest
+
+Security has been tightened at Jantar Mantar ahead of Day 2 of the CJP protest.
+
+Jul 21, 2026 08:55 IST
+
+### Cockroach Janta Party Protest Today: Kejriwal on crackdown on protesters
+
+Former Delhi CM and AAP chief Arvind Kejriwal to meet those people who were injured in Monday's protest at the RML Hospital. He will also hold a press briefing at 11 am.
+
+Jul 21, 2026 08:52 IST
+
+### CJP Protest in Delhi: Delhi Police asks DGPs of 5 states to prevent large gatherings at Jantar Mantar
+
+Delhi Police has written to the DGPs of Uttar Pradesh, Haryana, Punjab, Rajasthan and Madhya Pradesh, requesting necessary measures to prevent large gatherings at a protest organised at Jantar Mantar.
+
+**_(Inputs from Simer Chawla)_**
+
+Jul 21, 2026 08:50 IST
+
+### Cockroach Janta Party Protest Live: FIR against protesters
+
+Delhi Police has filed an FIR against CJP protesters under the relevant provisions of the Bharatiya Nyaya Sanhita and other applicable laws for rioting, assault on public servants, damage to public property, and other offences committed during the protest on Monday.
+
+**_(Inputs from Arvind Ojha)_**
+
+Jul 21, 2026 08:47 IST
+
+### Cockroach Janta Party Protest: Abhijeet Dipke slams crackdown on protesters
+
+CJP founder Abhijeet Dipke slams the crackdown on protesters and apologises to them for not doing enough to protect them. He alleges that the Centre is willing to spill the blood of students to save Union Education Minister Dharmendra Pradhan. "If you were injured and see this, please DM me. I want to speak to you personally and apologise. We will keep fighting for all of you," he tweeted.
+
+---
+
+### Delhi Police Probe Pakistani Social Media Links to Parliament Protest | CJP Demonstrations | News18
+*Unknown · general*
+
+The investigation into the recent Delhi protests has taken a new turn. According to officials, Delhi Police are probing the role of Pakistani social media accounts that allegedly circulated or amplified information related to the demonstrations.The development comes a day after large-scale protests ...
+
+[Read full article](https://www.news18.com/videos/breaking-news/delhi-police-probe-pakistani-social-media-links-to-parliament-protest-cjp-demonstrations-news18-10224198.html)
+
+---
+
+### China, Philippines trade accusations over South China Sea encounter
+*Reuters · business*
+
+MANILA: China and the Philippines on Monday traded accusations after an encounter between vessels in contested South China Sea waters, with Manila saying one of its navy personnel was struck on the head and Beijing saying Manila provoked the incident. The Philippines said Chinese Coast Guard personnel aggressively struck one of its navy staff on the head with a wooden baton during ‌an encounter in the ⁠Second Thomas ⁠Shoal on Monday in which a navy rubber boat was damaged. Southeast Asian foreign ministers will gather in Manila for high-level meetings this week, with Chinese Foreign Minister Wang Yi also in attendance. Tensions in the South China Sea are expected to feature in the discussions. The Armed Forces of the Philippines (AFP) said a Chinese Coast Guard rigid-hull inflatable boat with eight personnel approached to within close range of its grounded warship on the Second Thomas Shoal and took photos and videos.
+
+When two Philippine navy boats moved to drive the Chinese vessel away, its personnel "reacted violently and aggressively by striking Philippine navy personnel with a wooden baton."
+
+  
+
+In a 25-second video clip released by the Philippine armed forces, ​one of the eight could be seen hitting a navy crew member in a rubber boat ⁠that was close ‌to the Chinese vessel.
+
+"We call on the People's Liberation Army and the China Coast Guard, including their maritime militia, ​to put a stop ​to their illegal, coercive, aggressive and deceptive actions within the West Philippine Sea and adhere to the 2016 Arbitral Award ⁠that affirms the Philippines' lawful maritime rights under international law," the Philippine military said.
+
+In response, China's Coast ​Guard accused the Philippine vessels of ignoring repeated warnings, approaching and ramming a Chinese patrol boat in a ​dangerous manner and said the Philippine personnel were the first to attack, a statement showed.
+
+"Philippine personnel first used paddles, wooden poles and other implements to aggressively attack Chinese law enforcement officers," the statement read, noting the Chinese forces exercised the utmost restraint in the handling by issuing warnings, making maneuvering operations around the boats and taking proportionate countermeasures. China's Coast Guard also accused the Philippines of distorting facts and levelling false accusations against China on the incident, demanding "immediate cessation of infringement, provocation and false hype."
+
+In a 49-second video clip released late on Monday by China's state-backed tabloid Global Times, Chinese officers can be heard shouting, "This is China Coast Guard, please ‌leave immediately," as personnel from both sides wielded paddles and batons during a confrontation.
+
+The U.S. State Department condemned what it described as China's "dangerous and aggressive" actions against Philippine navy personnel at Second Thomas Shoal in the South China Sea.
+
+"China's troubling pattern of provocation ​against lawful Philippine maritime operations ​undermines regional peace and stability and directly ⁠contradicts China's repeated commitments to resolve disputes peacefully," a State Department spokesperson said in a statement.
+
+## ASEAN MEETING THIS WEEK
+
+The maritime tensions with China are among a range of challenges facing the 11-member Association of Southeast Asian Nations and their major partners gathering in Manila this week.
+
+Manila's foreign ministry said the "act of violence" ​against its navy personnel was "unacceptable" and warranted diplomatic action. The shoal is within the Philippines' 200-nautical-mile exclusive economic zone and is 1,300 km (808 miles) from mainland China, which refers to it as the Renai Reef.
+
+The Philippines has accused China of disrupting resupply missions to troops on the grounded vessel. A June 2024 incident also turned violent, with one Filipino sailor losing a thumb. The 2024 confrontation later led to a provisional understanding with China to allow resupply missions to the grounded ship.
+
+China has denied allegations of aggressive conduct during encounters in the South China Sea and has accused the Philippines of trespassing in its waters.
+
+
+---
+
 ## 20 July 2026
 
 ### Shillong Teer Result Today, July 20, 2026: Winning Numbers And Results
