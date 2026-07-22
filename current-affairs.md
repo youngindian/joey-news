@@ -1,3 +1,254 @@
+## 22 July 2026
+
+### Opposition's Delhi Showdown: Who Backed Rahul Gandhi On Delhi Streets, Who Stayed Away
+*Vani Mehrotra · general*
+
+Congress, Samajwadi Party and AAP joined the Delhi protests after the police action on student demonstrators. Here's a party-wise breakdown of who participated, who stayed away.
+
+[Read full article](https://www.news18.com/india/delhi-protest-opposition-parties-joined-list-congress-aap-sp-tmc-dmk-cockroach-janta-party-sonam-wangchuk-delhi-protests-police-action-ws-l-10226354.html)
+
+---
+
+### Kerala Lottery Result Live: DhanaLekshmi DL-62, July 22, 2026 Winners | News18
+*Nibandh Vinod · general*
+
+Kerala Lottery Result Today: DhanaLekshmi DL-62 lottery result will be declared today, on Wednesday, July 22. Check the live updates and full list of winning numbers from 3 pm.
+
+[Read full article](https://www.news18.com/india/kerala-lottery-result-today-dhanalekshmi-dl-62-july-22-live-10224804.html)
+
+---
+
+### 'Don't Want Them To Suffer': Mysuru Man Kills Wife, Children Before Taking Own Life
+*Meemansa Shekhawat · general*
+
+Harish allegedly sealed the mouths and noses of his wife and children with plaster. Later, he reportedly died by suicide by hanging himself inside the house, police said
+
+[Read full article](https://www.news18.com/india/dont-want-them-to-suffer-mysuru-man-kills-wife-children-before-taking-own-life-ws-l-10226433.html)
+
+---
+
+### AI bigger risk to IT workers than companies, says Marcellus’ Pramod Gubbi
+*Nikhil Agarwal · economy*
+
+Synopsis
+
+Artificial intelligence may reduce Indian IT sector employment before impacting companies. Valuations are less compelling now after recent market rebounds and ongoing geopolitical risks. Opportunities for investment are currently few and far between for fund managers. Quality stocks have seen their valuation premiums correct to attractive levels. Healthcare and Indian manufacturing exports present promising sector opportunities.
+
+Agencies
+
+The sharp rebound from the March lows have meant that valuations are not as compelling anymore  
+
+_Artificial intelligence may squeeze employment in India’s technology sector well before it threatens the companies themselves, according to Pramod Gubbi, co-founder of Marcellus Investment Managers. He said AI-driven productivity could reduce the industry’s dependence on labour and exert deflationary pressure on existing work, even as IT firms remain relevant by delivering more output with fewer people in the short term._
+
+_Edited excerpts from a chat:_
+
+**Marcellus had reduced cash in its small-cap strategy from about 40% to 13% earlier in Feb-March. Since then, how has your assessment of valuations and risk-reward changed?**  
+The sharp rebound from the March lows have meant that valuations are not as compelling anymore. Whilst the earnings cycle seemed to have bottomed out, continued tension in West Asia and the resultant effect on oil prices pose risks to a sustained recovery in earnings. Hence, from a valuation and earnings combination perspective, risk-reward trade off is not as compelling as what we saw in Feb-March.
+
+**Are you still deploying capital, or have the market’s recent gains once again reduced the number of attractive opportunities?**  
+Yes, in line with the above, opportunities are few and far between. Whilst we aren’t deploying fresh capital, we see opportunities for rebalancing given the non-uniform nature of price action in the portfolio.
+
+Marcellus has traditionally backed high-quality compounders. Has the valuation premium for quality stocks now corrected sufficiently?
+
+Absolutely. Given the broad basing of the market post Covid, compared to the very narrow nature of the market in the decade prior, valuation premiums of quality stocks have corrected meaningfully and now are at attractive levels. Furthermore, quality stocks thanks to superiors moats and RoCEs and low leverage, tend to be far more resilient in a relatively weaker macro environment, challenged by weaker demand as consumers fight inflation and a weak job market and rising raw material prices favour companies with pricing power
+
+**Several companies once regarded as consistent compounders have struggled to deliver expected earnings growth. How do you distinguish temporary weakness from a broken investment thesis?**  
+With the exception of a few, the quality basket hasn’t disappointed much on earnings on an absolute basis. However, on a relative basis, post Covid the rest of the market benefited from the demand recovery post lockdown and massive govt capex post Covid, thereby narrowing the earnings superiority of quality from the previous decade and in turn narrowing the valuation premiums. Having said that, some pockets of the market hitherto bracketed under quality such as FMCG and IT have seen structural changes. The former due to the dent to brand and distribution as they lost market share to private label brands of retailers and mushrooming D2C brands thanks to growth in digital marketing, further exacerbated by growth in e-commerce and quick commerce nullifying distribution advantages. Similarly, IT losing share to GCCs and now AI disrupts the business model through deflationary effects. Those need to be seen differently than any temporary weakness.
+
+**Has the risk-reward improved more meaningfully in large-caps or in selectively chosen mid- and small-cap companies?  
+**Whilst large caps might seem cheaper on the surface, if you adjust for sectors such as IT facing structural challenges and private sector banks at low earnings multiples given the capital intensity, it is no different from small and mid caps. So opportunities are market cap agnostic and more bottom up for those looking for growth-value trade offs. It is a stock picker’s market.
+
+**Which sectors are you most bullish on in your funds and why?  
+**Healthcare is a large exposure for us across all our funds with diverse plays across hospitals, diagnostic labs, pharmaceuticals and APIs providing export exposures as well. We find the opportunity quite structural for reasons not limited to growth in health insurance and supply constraints. Having said that, we wish valuations were more compelling for us to increase allocations. On the other hand, whilst a rising current account deficit and shrinking capital account surplus have created balance of payment issues and a sharp depreciation in the Rupee, we see opportunities in Indian manufacturing exports, thanks to growing competitiveness from a cheaper rupee and FTAs lowering tariff barriers and opening up new market opportunities.
+
+**Do you think that the market is underestimating the risk of a weak monsoon and El Nino?  
+**Depends on how bad it will be. But I reckon there are offsetting factors in the form of plenty of food grain stocks and a plethora of centre and state led welfare schemes, which should mitigate the impact. Furthermore, resurgent competitiveness of Indian manufacturing should keep the non-farm rural economy relatively more buoyant from a jobs perspective compared to urban white collar jobs under threat from AI and automation.
+
+**When it comes to IT, which side are you on? Do you believe that AI will decimate the need for IT services or do you think enterprise adoption will drive the next round of growth?**  
+I think decimation is too strong a view. It does pose risks to the extent that the basis for Indian IT was labour arbitrage (albeit the industry has come up the value chain to a large extent), AI’s effect on reducing the labour intensity of services does have a detrimental effect. That doesn’t mean the need for IT services will be eliminated. Enterprise IT tends to be a complex web of infrastructure and applications tied to business workflows and incumbent service providers tend to retain significant knowledge of the same making them hard to get rid off. It won't be that simple for a CIO of a Fortune 500 company to say they will manage all of this using Claude, at least not overnight. Furthermore, Indian IT companies who align with this new paradigm of delivering the output using AI and less humans will continue to be relevant. However, the short-term effect is bound to be deflationary on existing work whilst savings can be ploughed back to new streams of work in due course – it is not clear when and whether this will be big enough to offset the deflationary effects. So, AI’s risks to workers in Indian IT are far greater than that for the companies themselves.
+
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+...moreless
+
+_(You can now subscribe to our ETMarkets WhatsApp channel)  
+_
+
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+...moreless
+
+---
+
+### Trump approves nuclear agreement that may allow Saudi Arabia to enrich uranium
+*SECTIONS Trump approves nuclear agreement that may allow Saudi Arabia · business*
+
+WASHINGTON: President Donald Trump has approved an agreement with Saudi Arabia that could potentially provide the kingdom with uranium enrichment capability for its civilian nuclear program, according to two people familiar with the matter.
+
+The people, who were not authorized to comment publicly about the yet to be formally announced decision, said the agreement is expected to be announced publicly as early as Wednesday.
+
+  
+
+The deal is expected to last 30 years and is also expected to involve U.S. firms in developing the program. The deal could allow for the building of a uranium enrichment facility in Saudi Arabia following a joint U.S.-Saudi study.
+
+But the deal, which is expected to be submitted to Congress for review, could face headwinds among lawmakers who fear that helping the Saudis fulfill their long-standing desire to enrich their own uranium would open new rounds of nuclear proliferation and competition.
+
+Saudi Arabia is a member state of the International Atomic Energy Agency, a Vienna-based agency which promotes peaceful nuclear work but also inspects nations to ensure they don't have clandestine atomic weapons programs.
+
+But the agreement is not expected to include the IAEA's Additional Protocol, which would allow for more monitoring, inspections and verification, according to one of the people.
+
+The expected announcement comes in the midst of the war against Iran launched by the U.S. and Israel, in part, to wipe out Tehran's ability to develop a nuclear weapon. Iran has insisted its nuclear enrichment program is peaceful.
+
+The White House and Saudi officials in Riyadh did not immediately respond to requests for comment on the decision, which was first reported by The Wall Street Journal.
+
+Both Trump and former President Joe Biden tried to reach a nuclear deal with the kingdom to share American technology.
+
+But nonproliferation experts warn any spinning centrifuges within Saudi Arabia could open the door to a possible weapons program for the kingdom, something its assertive de facto leader, Crown Prince Mohammed bin Salman, has suggested he could pursue if Tehran obtains an atomic bomb.
+
+Energy Secretary Chris Wright traveled to Saudi Arabia last year shortly before Trump visited the kingdom and discussed building out the kingdom's commercial nuclear power industry with his Saudi counterpart. The U.S. Department of Energy did not immediately respond to requests for comment late Tuesday.
+
+Already, Saudi Arabia and nuclear-armed Pakistan signed a mutual defense pact after Israel launched an attack on Qatar targeting Hamas officials. Pakistan's defense minister then said his nation's nuclear program "will be made available" to Saudi Arabia if needed, something seen as a warning for Israel, long believed to be the Middle East's only nuclear-armed state.
+
+Enrichment isn't an automatic path to a nuclear weapon - a nation also must master other steps, including the use of synchronized high explosives, for instance. But it does open the door to weaponization, which has fueled the concerns of the West over Iran's program.
+
+The United Arab Emirates, a neighbor to Saudi Arabia, signed what is referred to as a "123 agreement" with the U.S. to build its Barakah nuclear power plant with South Korean assistance. But the UAE did so without seeking enrichment, something nonproliferation experts have held up as the "gold standard" for nations wanting atomic power.
+
+---
+
+### Vijay-led TVK demands NEET abolition, says states should control medical education
+*SECTIONS Vijay-led TVK demands NEET abolition · business*
+
+Tamil Nadu's ruling Tamilaga Vettri Kazhagam (TVK), led by Chief Minister C. Joseph Vijay, reiterated its demand for the complete abolition of the National Eligibility-cum-Entrance Test (NEET), saying it was not just opposed to irregularities in the medical entrance examination but wanted the test scrapped altogether.
+
+The party also called for states to be given full authority over medical education by shifting education from the Concurrent List to the State List of the Constitution.
+
+  
+
+Issuing a statement amid student protests over NEET in Delhi, the TVK said its "uncompromising and firm stand" was that the national-level entrance examination for medical aspirants should be abolished. Taking an apparent swipe at the opposition DMK without naming it, the party said it would never indulge in the "fraudulent politics" of deceiving people for votes by making false promises to "scrap NEET ourselves."
+
+The party argued that moving education to the State List would provide a lasting solution to the issue. "If there are any legal or procedural hurdles in doing so, a Special Concurrent List should be created as an interim measure until they are resolved to grant powers to state governments," it said.
+
+According to the TVK, such a move would ensure that states exercise full authority over education, including medical education. "This is our vision for both a permanent and an interim solution. Our victorious leader (Chief Minister C Joseph Vijay) has already emphasised this," the statement added.
+
+The party also accused its critics of attempting to appropriate its ideas and campaigns, saying those indulging in the unethical politics of "putting their own label" on others' hard work, ideas and struggles should stop targeting the TVK.
+
+The statement came amid criticism by Leader of the Opposition Udhayanidhi Stalin over the government's handling of rapper 'Therukkural' Arivu, who has been vocal against NEET. Before being detained by police, Arivu briefly raised anti-NEET slogans outside the Tamil Nadu Secretariat at Fort St. George.
+
+---
+
+### Vivo S2 India Launch On the Horizon as Promotional Poster Leaks
+*Shaurya Tomer · technology, mobile*
+
+The Vivo S2 is expected to fall in the premium segment, with prices ranging from Rs. 45,000 to Rs. 50,000.
+
+[Read full article](https://www.gadgets360.com/mobiles/news/vivo-s2-india-launch-timeline-promotional-poster-leak-report-11803967)
+
+---
+
+### Svetlana Grković held husband as he was partially sucked out after Ryanair flight's window shattered mid-air: 'If we die, we die together'
+*Trending Desk · business*
+
+Svetlana Grković was flying from Greece to Germany when a window shattered, sucking out the man sitting nearby. Half of his body was outside the window, though he had his seatbelt on. But Ljubisa Karović's wife held him by the legs and said: "If we die, we die together".
+
+The incident took place a few days ago on Ryanair flight FR1879, which was flying from Thessaloniki in Greece to Memmingen near Munich in Germany on Friday. It was operated by the budget airline’s subsidiary Malta Air.
+
+The flight was airborne for just over an hour and reached 16,000 ft before coming back to Thessaloniki airport.
+
+  
+
+For two minutes, the husband was outside up to his chest.
+
+### Wife and passengers pulled him back inside
+
+Grković said that with the help of two passengers, she was able to pull her husband, who lost consciousness three times, back inside the aircraft. She said that many people fled their seats to other parts of the plane for safety as the cabin decompressed.
+
+Passengers have told local media that Karović had kept his seatbelt on and helped those on board keep hold of him while his upper torso was in the plane’s slipstream outside.
+
+  
+
+### Husband hospitalised after incident
+
+The shock of the incident is massive. The husband is in a hospital receiving treatment.
+
+“It’s important to me that he’s alive,” the wife said. “His hand is particularly badly injured, and he’s got burns. He’s not able to communicate; he doesn’t remember the whole event.”
+
+“Some people came to my aid, I remember one man and one woman,” she added. “That man helped me a lot, Ljubisa and me. I think he was Albanian, thank you very much. I didn’t remember his name, I don’t even know if he told me. I would like to meet him, to thank him personally again.”
+
+### Ryanair's response
+
+A Ryanair spokesperson said: “A Ryanair flight from Thessaloniki to Memmingen on Friday morning returned to Thessaloniki shortly after takeoff when a passenger window dislodged inflight. The aircraft landed normally and passengers returned to the terminal. One passenger requested and received medical assistance on the ground in Thessaloniki. In order to minimise any delay, a replacement aircraft was arranged to bring passengers to Memmingen."
+
+---
+
+### US ends 11th consecutive night of airstrikes on Iran
+*SECTIONS US ends · business*
+
+Washington: The U.S. military said late on Tuesday ​it ended its latest round of strikes on Iran that marked the 11th consecutive night of American attacks.
+
+Here are quotes and details:
+
+\* "CENTCOM assets targeted ‌Iranian military ⁠operations centers, maritime ⁠capabilities, aircraft hangars, drone storage facilities, and military logistics infrastructure to further degrade Iran's ability to threaten commercial shipping in the Strait of Hormuz," the U.S. Central Command said in a statement.
+
+  
+
+\* The strikes lasted about 75 minutes late on Tuesday, according to the U.S. military.
+
+\* Washington said ​Iran has attacked more than 30 commercial vessels ⁠transiting the ‌Strait of Hormuz in the last three months.
+
+\* ​The Iran ​war began when the U.S. and Israel ⁠attacked Iran on February 28 and Iran responded with its ​own strikes on Israel and Gulf states that ​host U.S. bases.
+
+\* U.S.-Israeli strikes on Iran and Israeli attacks on Lebanon during the war have killed thousands and displaced millions.
+
+\* Fifty civilians have been killed and 500 wounded in the recent U.S. strikes on Iran, an Iranian health ministry official said.
+
+\* U.S. ‌troop deaths in the war have risen to 18 in recent days.
+
+\* On Monday, Trump vowed revenge against ​Iran after ​a deadly weekend for ⁠U.S. troops.
+
+\* Last week, Trump threatened to expand the targets being struck in Iran to include energy plants and bridges.
+
+\* The 1949 ​Geneva Conventions on humanitarian conduct in war prohibit attacks on sites considered essential for civilians.
+
+\* After Trump's past threats to strike such targets, international law experts in the U.S. said in April such attacks may amount to war crimes.
+
+---
+
+### Rahul Gandhi, Sonam Wangchuk Protest Live: Congress MPs To Wear Black To Protest NEET Paper Leak
+*Meemansa Shekhawat · general*
+
+Rahul Gandhi Congress, Sonam Wangchuk Protest News Today Live: Congress leaders, including Kharge, Rahul Gandhi, and Priyanka Gandhi, protested at PM Modi's doorstep
+
+[Read full article](https://www.news18.com/india/rahul-gandhi-congress-sonam-wangchuk-cjp-protest-live-updates-pm-modi-resignation-neet-paper-leak-jantar-mantar-delhi-news-liveblog-ws-l-10226356.html)
+
+---
+
+### Two-Year Lifeline, Then 200% Tariffs? What Trump's Drug Gamble Means For 'World's Pharmacy' India
+*Apoorva Misra · general*
+
+Bringing pharmaceutical manufacturing back to US has bipartisan political support, especially after Covid-19 exposed America's dependence on overseas drug supply chains
+
+[Read full article](https://www.news18.com/explainers/two-year-lifeline-then-200-tariffs-what-trumps-drug-gamble-means-for-worlds-pharmacy-india-ws-l-10226366.html)
+
+---
+
+### Gabriel acquires promoter stake in JV, family holding up at 68%
+*Reeba Zachariah · business*
+
+MUMBAI: Anand Group, the over $3 billion auto components conglomerate, is undertaking two linked transactions worth about Rs 3,180 crore through listed flagship Gabriel India that will lift promoter Anjali Singh and family's stake in the company to 68% and deepen its footprint in the sector.Gabriel will buy out the Singh family's 29% stake in HL Mando Anand India for Rs 2,231 crore. The family holds the stake through Asia Investments (AI), also a Gabriel promoter entity. South Korea's HL Group holds the remaining 71%.Gabriel will pay Rs 350 crore in cash to AI and issue shares worth Rs 1,881 crore for the balance, at an allotment price of Rs 1,305.89 apiece. Gabriel's scrip closed at Rs 1,493.4 on the BSE on Tuesday.
+
+The share issuance will take the Singh family's stake in Gabriel to 68%, from 64% currently.Separately, Gabriel will acquire a "30% minus one share" in HL Klemove India, an autonomous driving solutions maker owned by HL Group, for Rs 945 crore - giving the company its entry into the segment. HL will retain "70% plus one share" in HL Klemove after the sale.Anand Group was founded by Singh's father, Deep Anand, in 1961. He set up Gabriel in collaboration with the US's Maremont Corporation, now Gabriel Ride Control, to manufacture shock absorbers in Mumbai. Singh succeeded her father as group head in February 2011. She and her husband, Jaisal Singh, also founded safari brand Sujan in Rajasthan.
+
+
+---
+
 ## 21 July 2026
 
 ### Video: Leopard sneaks into Rajasthan liquor shop, pounces on shopkeeper
