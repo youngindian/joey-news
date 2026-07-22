@@ -1,8 +1,300 @@
 # Editorials
 
-_Last updated: 2026-07-21 04:49 UTC_
+_Last updated: 2026-07-22 04:48 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 22 July 2026
+
+### Lists of folly: On the Supreme Court, the SIR and benefits
+*The Hindu · Editorial*
+
+The Supreme Court has reiterated its position that exclusion from the electoral rolls cannot have consequences unrelated to voting. The Court was responding to West Bengal government orders, issued in May-June, that linked welfare benefits and official caste certifications to the outcomes of the Special Intensive Revision (SIR) of electoral rolls. Those removed would become ineligible for certain welfare benefits and certifications under these orders. A May 19 notification directed that persons removed from the electoral roll should not continue as beneficiaries of the Annapurna Yojana, a cash transfer scheme for women, unless they had filed appeals before the SIR tribunal. A June 4 order directed the deletion of beneficiaries from the Public Distribution System. On May 14, the government decided to re-verify and cancel caste certificates of those persons whose names had been deleted from the rolls. These decisions run contrary to the clear instructions of the Court in the Bihar SIR case, which specifically barred authorities from using SIR outcomes for any purpose other than determining voting rights. The Court has now issued notices to the Election Commission of India, the West Bengal government and the State’s Chief Electoral Officer. Approximately 34 lakh appeals have been filed against SIR outcomes in West Bengal, and only a tiny fraction of them has been disposed of, leaving millions in a precarious state of uncertainty. Their exclusion from welfare benefits, including food support, is unconscionable.
+
+There is a legal paradox in the relationship between citizenship and the electoral roll. The roll is meant to include only citizens, but enrolment on the roll is not, by itself, proof of citizenship. This paradox apart, it is a sound and commonsensical assumption that many citizens are not enrolled as voters. In other words, all those enlisted as voters must be citizens, but not all citizens are necessarily enrolled as voters. While this may be a simple and straightforward proposition, for the State to link the absence of a person’s name from the electoral roll to other aspects of civic life — especially subsistence benefits — is both illogical and cruel. In its Bihar SIR judgment, the Court clearly stated that exclusion from an electoral roll cannot by itself determine citizenship status and that SIR outcomes are linked only to electoral purposes. The specific facts and legal principles relating to the SIR notwithstanding, larger issues are also at stake. These include universal human rights that must apply to all persons, citizens and non-citizens alike. Clean electoral rolls and targeted welfare delivery can contribute to better governance. But the state must not take leave of logic and common sense.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/lists-of-folly-on-the-supreme-court-the-sir-and-benefits/article71250503.ece)
+
+---
+
+### Political minefields: On the new Prime Minister of the United Kingdom
+*The Hindu · Editorial*
+
+Andy Burnham, the former Mayor of Greater Manchester and the new Prime Minister of the United Kingdom, has picked a challenging time to enter office. The revolving doors at 10 Downing Street appear to be spinning off their hinges — he will be the seventh Prime Minister in just over a decade, and the fifth in four years. Nevertheless, he has promised a fresh start, and an economic and social revival. To truly set himself apart from the fumbling approach of his predecessor, Keir Starmer, he might have to spearhead a radical change in governance, and be willing to redefine the traditional Labour Party framework to tackle the spiralling crises of cost of living, fraying global alliances, disagreements on immigration policy and the fiscal pressures of an ageing population. He might learn from Mr. Starmer’s missteps, who won Labour a resounding victory in 2024 with just 34% of the popular vote. It was, however, a “loveless landslide” according to some analysts, and had more to do with deep disenchantment with the previous Conservative governments for losing their grip on macroeconomic policy management. Although Mr. Starmer at the time vowed to restore “respect to politics”, a mini scandal over government officials accepting gifts, a policy furore over botched plans to cut welfare spending, and an error of judgement in appointing Peter Mandelson, discredited by his association with convicted sex offender Jeffrey Epstein, as U.K. Ambassador to the U.S., led to Mr. Starmer’s ousting by his party.
+
+To avoid continuing this cycle of leaders who appear to be unable to govern what appears to be an increasingly ungovernable polity after Brexit, and a weary public that is looking for a new model of governance to stabilise their embattled nation amidst political storms, Mr. Burnham will need to quickly implement reforms while tamping down on infighting and factionalism within Labour. He has little room to manoeuvre on public revenue given his party’s promise not to raise taxes; yet he will have to find innovative ways to cut the U.K.’s welfare bill and entitlements. Similarly, he cannot abandon European allies in their support for Ukraine against Russian depredations on its soil, yet he will have to act quickly to mend fences with the Donald Trump administration to prevent further breakdown in the “special relationship”. On immigration, net migration to the U.K. is said to be down compared to previous years, yet the thirst for even tighter immigration policies in some quarters is being contested by some Labour MPs and progressive leaders, who are seeking a compromise approach. He will have to step nimbly across the many political minefields in tackling these challenges, yet remember that history rewards dynamism and fresh thinking, rather than leaders stuck in survival mode.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/political-minefields-on-the-new-prime-minister-of-the-united-kingdom/article71249912.ece)
+
+---
+
+### Building an Atmanirbhar philanthropy ecosystem
+*The Hindu · Opinion*
+
+India’s philanthropic landscape has changed more in the past decade than many realise. Domestic private giving — through family philanthropy, Corporate Social Responsibility (CSR), and individual donors — has grown rapidly and now far outstrips annual foreign philanthropic inflows. A new generation of entrepreneurs is rethinking differently about giving, while millions of Indians are entering the markets through mutual funds, systematic investment plans (SIP), and Unified Payments Interface (UPI). Against this backdrop, the debate around the Foreign Contribution (Regulation) Act (FCRA) takes on a different meaning: less a dispute about foreign funding than a chapter in India’s move toward a more self-reliant philanthropic future.
+
+The first principle should not be controversial. Every sovereign nation has both the right and the responsibility to regulate foreign capital flowing into organisations that shape public life. This is neither unique to India nor illiberal: the United States requires disclosure under its Foreign Agents Registration Act, and Australia and several European democracies run comparable regimes. The question worth debating is not whether foreign funding should be regulated, but whether that regulation is proportionate, predictable and efficiently run.
+
+There is also a gap between perception and reality. The impression is that tighter FCRA rules have hollowed out Indian development work; the numbers say otherwise. NITI Aayog’s portal NGO Darpan portal lists roughly six lakh voluntary organisations, of which only about 14,500 hold active FCRA registration. Foreign contributions have themselves doubled over the decade, from about ₹10,000 crore to around ₹22,000 crore. The sector has not been starved of money from abroad.
+
+Related StoriesWhy philanthropy holds the key to reducing India’s student outflow
+
+Philanthropy Asia Summit: Indian rural-focused start-ups showcase growth by promoting livelihood of farmers
+
+Health gains reversed by geopolitical challenges, declining development funding: Soumya Swaminathan
+
+Philanthropy in Asia emerging as ‘risk capital’ for social innovation: Report
+
+Asia faces $200 billion annual climate adaptation financing gap: Report
+
+The rise of domestic givingThe bigger change lies at home. Domestic private philanthropy now exceeds ₹1.18 lakh crore a year — more than five times foreign inflows — according to the Bain–Dasra India Philanthropy Report 2026.
+
+Family philanthropy is growing at double-digit rates as a new generation of wealth creators comes to see giving as part of wealth stewardship. The centre of gravity of Indian philanthropy has quietly shifted home.
+
+None of this erases the hardship of the transition. A small number of organisations faced delayed renewals, long processing times, or cancelled registrations, disrupting work in education, health, livelihoods, and rural development. This was not true of the sector as a whole, but for those affected, the disruption was real and deserves acknowledgement rather than dismissal.
+
+The transition also exposed how unevenly the sector had prepared. Many organisations operate with exemplary governance; others had gone dormant or were well-meaning groups whose documentation had not kept pace with rising expectations.
+
+India’s companies went through a similar reckoning over the past three decades: stronger governance initially felt like a burden, but it ultimately became the very thing that won investor confidence and drew in capital. The social sector can follow the same path. If money is the fuel of philanthropy, trust is its currency.
+
+Better, not tighter regulationThe goal should be better regulation, not just tighter regulation. An administrative slip should not carry the same penalty as fraud. A structured path comprising deficiency notices, defined windows to correct errors, opportunities to provide clarification, and an independent appellate body would protect the integrity of the law while sparing genuine organisations avoidable disruption. The newly launched FCRA 2.0 platform offers a real opportunity to simplify compliance and move towards risk-based supervision.
+
+Fixing FCRA’s administration, though, is only half the task; the larger prize is to build what we would call an Atmanirbhar (‘self-reliant’) philanthropy ecosystem. India’s giving has moved through three phases: first, a reliance on foreign philanthropy, and second, the transformation wrought by CSR, which now channels over ₹40,000 crore a year into development. The third phase must be powered by Indian families, entrepreneurs and citizens.
+
+The most immediate opportunity sits with India’s fast-growing community of high-net-worth individuals, whose giving has lagged well behind the growth in their wealth. This is where the largest pool of new domestic capital can be unlocked over the coming decade, and where policy can help most.
+
+India’s tax framework does not yet signal that philanthropy is a national priority. Deductions under Section 80G are usually limited to half the donation and capped at 10% of adjusted gross total income. Few large donors hit those limits, but tax policy is also about signalling intent — and other countries have been emphatic, from Singapore’s 250% deduction to Britain’s Gift Aid top-up and America’s carry-forward provisions. India need not copy them wholesale. But raising the 80G deduction from 50% to 100%, as is already allowed for some categories, and lifting the ceiling to 25%, would cost the exchequer little while meaningfully improving the flow of long-term social capital.
+
+Expanding the donor baseOne mechanism deserves particular mention. Most first-generation entrepreneurs hold their wealth in equity, not cash. A framework allowing donations of appreciated listed shares to eligible charities — with appropriate safeguards and a reasonable disposal window of, say, one to three years so that recipients can sell in orderly fashion — could become one of the most powerful ways to unlock domestic philanthropic capital.
+
+The next frontier, over a longer horizon, is to widen the base. India now has over 220 million demat accounts, widespread SIP investing and UPI in every pocket; the infrastructure for mass participation already exists. If even a fraction of households gave ₹100, ₹500 or ₹1,000 a month through trusted digital platforms, millions of citizens would become active partners in solving the country’s social problems. The Social Stock Exchange could do for social capital what India’s markets did for financial capital — a trusted national platform linking credible organisations to ordinary citizens through clear disclosure and measurable impact.
+
+The argument runs deeper than the sums involved. Domestic philanthropy creates more than money; it creates ownership. When Indian citizens and businesses fund India’s own social challenges, they bring governance, ideas, volunteering and accountability along with their capital, strengthening not just the non-profit sector but also the wider social contract. That is the real case for an Atmanirbhar philanthropy ecosystem.
+
+Foreign philanthropy will still matter, particularly in research, innovation and the exchange of ideas. But as India approaches developed-nation status, it should complement India’s social development, not shape it. The aspiration, in the end, is not merely to regulate foreign philanthropy well. It is to build a country where the overwhelming share of social transformation is financed, led and owned by Indians themselves.
+
+That is the promise of an Atmanirbhar philanthropy ecosystem — and, we believe, the next chapter of India’s development story.
+
+Ashish Dhawan is Founder and Chairperson, The Convergence Foundation; Amit Chandra is Co-Founder, ATE Chandra Foundation
+
+[Read full article](https://www.thehindu.com/opinion/lead/building-an-atmanirbhar-philanthropy-ecosystem/article71250572.ece)
+
+---
+
+### DC Edit | Amid Huge Challenges, Will Burnham Deliver As UK PM?
+*Deccan Chronicle · Editorial*
+
+As Larry the cat welcomed its seventh Prime minister to come through the revolving door at No. 10 Downing Street in just over a decade since the fateful Brexit referendum, the choice of the ninth occupant in the decade of No. 11 in the new Chancellor of the Exchequer, Mr John Healey, emphasises the message that Mr Andy Burnham is determined to not just symbolise the process of change but to bring about real change.
+
+With the promise of it being the “circuit-breaker moment”, the UK PM purged the government of the loyalists of Mr Keir Starmer who may have been the decent sort who meant well but who sank along with the troubles inherited in the economy, in defence matters and in bringing in social change that would address the woes of those who feel the burden of the cost-of-living index the most.
+
+The sudden rise of Mr Burnham, formerly mayor of Manchester, came with a by-election in Macclesfield that was a must-win for him to get back to London and national politics as his party’s choice of leader. He will also face the task at some point of keeping the rising Reform Party at bay if Labour, one of the top two parties of traditional British politics along with the Tories, is to call general elections though it is just two years since Mr Starmer helped Labour storm parliament at the expense of the Tories and their six pro-Brexit PMs.
+
+Long before any thought of polls can be entertained, Mr Burnham, often referred to by his nickname “King of the North”, has to demonstrate he can raise all of Britain from the economic morass that may have come with the subprime scandal market crash of 2008 since when Britain has seen a virtual flat line in economic growth and all the talk now is about the black holes that recent governments may have been unable to do anything about.
+
+Just like anyone in his seat, the new PM must find ways and means to raise the revenues to fund infra growth and defence, and give money to the poorest and tend to homelessness that is growing with economic disparity. On test will be his promise to empower local authorities to spur growth while reversing 1980s Thatcherism and its privatisation of public utilities and services, council housing, water, energy and transportation.
+
+Britain, a founding member, must also up its contribution to Nato.
+
+Mr Burnham’s entry to Downing Street should be positive so far as India is concerned. The ties are only likely to grow further from here on, especially in the wake of the UK-India free trade deal (Ceta) that has just kicked in after three years of extensive negotiations that began under the Tories and were completed in Mr Starmer’s time when Prime Minister Narendra Modi and he signed the deal at Chequers, the country residence of British PMs.
+
+As the British and Indian economies are roughly of the same size now, any rise in bilateral trade can only benefit both the economies. There are no serious issues that India and Britain must navigate, which is remarkable because the relationship with the old colonial master has been steady regardless of who was in Downing Street. In time, India may grow to like Mr Burnham as much as it did anyone in office from the John Major and Tony Blair regime onward while even having one of its own in Indian-origin Rishi Sunak.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-amid-huge-challenges-will-burnham-deliver-as-uk-pm-1972870)
+
+---
+
+### DC Edit | PM Must Force Minister To Quit
+*Deccan Chronicle · Editorial*
+
+Prime Minister Narendra Modi has finally acknowledged that there was a “grave sin” committed in connection with the conduct of the National Eligibility-cum-Entrance Test (Neet) for medical admissions this year. The Prime Minister’s comment has arrived two-and-a-half months after the cancellation of the examination held on May 3 this year.
+
+Thus, the voices of the youth of the country who are on the streets demanding the resignation of Union education minister Dharmendra Pradhan over the debacle for it had been who had presided over not one slip but a series of them, pushing them into untold misery, have not gone completely unheard. The students want the government to display some accountability on the part of the minister and itself.
+
+Yet it still appears that these voices are being lost in the babel of politics. The students themselves are being treated harshly on the capital’s streets by the police instead. A government that thrashes teenagers who are articulating a legitimate cause holding copies of the Constitution in their hands by no means gives them the right message. Mr Modi will be wrong in saying that the question paper leak is a sin for it’s also nothing short of a crime on his watch, for which he must make amends. The Prime Minister has suggested that it is not a political issue but a national one, and he is right there. But it was not beyond his power to control as a natural disaster is and it happened only because the agency the government had created for holding the examinations had been infected with rot that escaped its notice. The government cannot wash its hands of the matter by generalising it.
+
+It is time the Prime Minister asks his education minister to vacate his seat and places someone with a sense of responsibility there. Democracy calls for the right action at the right time. Justice must be dispensed to all those children who died by suicide unable to stand the pressure of the cancellation and it must be dispensed without delay. The Prime Minister’s words have no meaning unless accompanied by appropriate action.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-pm-must-force-minister-to-quit-1972883)
+
+---
+
+### M.P. Nathanael | Custodial Deaths: A Growing Problem For Law-enforcing Agencies In India
+*Deccan Chronicle · Opinion*
+
+Constable Jaswinder Singh of the Border Security Force, posted with a battalion in Tripura, came on home leave to his village in Jammu on February 5 this year. A day before he was to leave, he accompanied his mother Gurmeet Kaur to purchase medicines for her on March 3. On the way back, they were accosted by Narcotics Control Bureau (NCB) officials in Miran Sahib town, who beat up Jaswinder brutally for alleged links with Pakistani drug smugglers, shoved him into their vehicle and drove off. When Gurmeet Kaur tried to stop them, she was beaten by a woman NCB sub-inspector. After 17 days in NCB custody, Jaswinder was declared dead by doctors at Amritsar’s Pulse Hospital. The autopsy report of Civil Hospital, Amritsar, showed his body bore 34 wounds, nine of them inflicted within 24 hours before his death.
+
+After an internal NCB probe, assistant director Amit Kumar and investigating officer Akash Rai, a sub-inspector, were suspended. The Punjab and Haryana high court directed the NCB office where he was detained and the hospitals to preserve the CCTV footage.
+
+R. Akash Delison, a Dalit youth, was arrested on March 5 for attempted murder by the Manamadurai police station in Tamil Nadu’s Sivaganga. After being brutally tortured in custody, he was shifted to Madurai’s Government Hospital, where he died on March 8. In his statement to a judicial magistrate, he said he was brutally tortured by placing stones below his knee and ankle and hit on the legs with iron rods. The autopsy report showed 24 injuries. When his parents refused to accept the body until the policemen responsible were arrested, the state cremated his body on June 17. The CB-CID is investigating and six policemen were suspended.
+
+The mother of a youth, Gade Sai Krishna, sought relief from the Andhra Pradesh high court with a habeas corpus petition for her son, who the circle inspector of Krishnalanka police station said had died. Sai Krishna was picked up on May 10 about 200 km from Vijayawada and handed over to Krishnalanka police station, where he was brutally tortured and where he died. His body was burnt. This custody death raised such a furore in the state that the government was forced to suspend Inspector S.S.V.V. Nagaraju and register a murder case against him.
+
+Union minister of state for home Nityanand Rai told Parliament in March 2026 that 170 custody deaths were reported across India in 2025-26, with Bihar leading with 19 cases, Rajasthan with 18 and UP with 15. The National Human Rights Commission has said 348 persons died and 1,189 were brutally tortured in police custody between 2018-19 and 2020-21.
+
+The impunity with which policemen resort to brutal torture is largely due to lack of accountability and punitive action against them. A NCRB report said though 1,107 custodial deaths were registered between 2011 and 2022, no police officer was convicted. The death sentence for nine police officials, including Inspector Sridhar, who headed the Sathankulam police station in Thoothkudi, by a Madurai district court in April 2026 is a rare instance. They were convicted for brutally torturing P. Jayaraj and his son J. Benicks on June 19, 2020, for alleged violation of Covid-19 restrictions.
+
+While a check-and-balance system exists in the judicial process, these are not adhered to. Prior to their being produced before a judicial magistrate, a doctor gave a false fitness certificate. The magistrate saw them from a distance and sent them to judicial custody. Had the doctor or magistrate performed their duties seriously, their lives could have saved. Jail officials accepted them in bad physical shape instead of insisting on a medical re-examination.
+
+But for the CBI taking up the case and a lone courageous witness, Head Constable Revathi, who recorded her statement despite intimidation, the conviction of the nine policemen would have faced hurdles. Unfortunately, no serious action was taken against the deputy superintendent of police and the district superintendent of police. When supervisory officers fail in their duties, lower ranks are bound to take the law into their own hands.
+
+The policemen, with their long professional experience, are adept at destroying all evidence of their culpability. It speaks volumes of the efficiency, integrity and professionalism of the investigating officers of the CBI and state CID that despite the attempts by the culprits to destroy all evidence, they succeed in nailing the culprits based on copper-bottomed evidence produced in the courts.
+
+Though the Supreme Court has repeatedly directed states that CCTVs be installed in all police stations, its implementation has been tardy, for obvious reasons. Wary of being exposed, police officers prefer to go slow on it. If installed, they would ensure these are disabled when they resort to brutality. Recently, the apex court took serious note of the lapses in installation of CCTVs in all police stations and directed the Union home secretary to appear before it. Except...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/mp-nathanael-custodial-deaths-a-growing-problem-for-law-enforcing-agencies-in-india-1972877)
+
+---
+
+### REFLECTIONS | Will Burnham, As PM, End ‘Roller-coaster’ UK  Politics? | Sunanda K. Datta-Ray
+*Deccan Chronicle · Opinion*
+
+After meeting King Charles III on Monday, Andy Burnham, the Labour Party leader and former mayor of Greater Manchester, took over as Britain’s seventh Prime Minister in 10 years. The pledge of “political stability” in his very certain subjects and an unwillingness to face questions from the media worrying”, like The Guardian newspaper’s political editor, Pippa Crerar, obviously can’t have had any experience of Narendra Modi’s India.
+
+Perhaps an avalanche of details will come gushing out later. For now, the MP from Makerfield in Lancashire is on a high, perfecting a magic that already holds audiences spellbound. Even the magic is practised. He looked casual enough stepping off the Manchester train at Euston station but he had travelled First Class as befits His Majesty’s first minister-in-waiting, and stuffed in his shoulder bag was a jacket to make the round-necked T-shirt that he was wearing look less informal before reaching London.
+
+As was only to be expected of a “distinctively Labour” (his term) politician, he has always championed strong commercial and cultural ties with India, having been a key supporter of the Manchester-India Partnership and planned high-level mayoral trade missions to India. According to former UK-India FTA chief negotiator, Harjinder Kang, Mr Burnham’s transition to London will not disrupt the positive trajectory of UK-India relations. He is expected to remain “bullish” on India, continuing to prioritise bilateral investment and negotiate economic partnerships.
+
+Addressing the Labour faithful soon after reaching London, he was careful, like Harold Wilson on the stump, not to forget the rounded North Country Os that indicate class even more than region. But he emphatically declared himself “pro-business”, criticising those who had “centralised” political power and “privatised” economic power. His government would ensure that everyone had more power to work better.
+
+He calls the strategy “Manchesterism”, a form of devolution with Burnham characteristics. That includes problems like energy, water, housing, roads and transport, reorganising Manchester's tram and bus systems and being hailed throughout Britain as “King of the North”. After campaigning for more furlough funding for Northern communities during the Covid-19 pandemic, he was unsurprisingly re-elected in 2021 and 2024.
+
+All this underlines Britain’s need for a massive building programme. Some 134,000 households, comprising 350,000 people, are in temporary accommodation; 1.3 million households languish on housing waiting lists. The housing benefit bill has rocketed to more than £36 billion. Around 400,000 houses were being built annually in the 1960s heyday of council house building, in contrast to just over 12,000 in 2025. Given public funding constraints and labour shortage in construction, it may not be easy to deliver “the biggest council housing building programme since the postwar period”.
+
+Mr Burnham himself intends to remain living in Manchester when he is Prime Minister, spending at least one day a week working from his northern headquarters in Manchester.
+
+As mayor and minister (for health from 2009 to 2010 under Prime Minister Gordon Brown) and as a “soft socialist” (more echoes of Nehruvian politics) planner, he was convinced that regional devolution is the key to growth and prosperity. Like Nehru, Mr Burnham is a Cambridge man, having been an undergraduate at Fitzwilliam College where he read English.
+
+Not that everything is hunky-dory. For the right-wing Sunday Telegraph, Mr Burnham’s plans are “egotistical nonsense”. Nothing could have offended Nehru more, for instance, than his threat in 2015 to resign from the Shadow Cabinet if Labour supported leaving Nato, which Jeremy Corbyn, former Labour leader, had talked about.
+
+Graham Stringer, one of 24 Labour MPs (out of 403) who did not nominate Mr Burnham as leader, told a television programme that a “whole series of major policies are still a mystery”. In his view, Mr Burnham “owes it both to the Parliamentary Labour Party and the country to be more explicit”.
+
+Others complain that “regionalism” can be abused by invoking reform and regeneration to pander to vested interests. In any case, regionalism cannot buck basic socioeconomic trends that sweep across the whole country, affecting some parts more than others: deindustrialisation, low investment and productivity, and inadequate public services (notably health and education). Addressing these problems is a national challenge requiring long-term strategies, in which any government is but one player among many.
+
+Quick fixes -- whether grandiose (Brexit) or trivial (a secondary operational headquarters in Manchester) -- are useless. Like nationalism, regionalism can also legitimise prejudice and rancour, conflicts occurring not in the fractious international community, but in what some natives now call the Disunited Kingdom.
+
+Flexibility helps, and Mr Burnham’s apology in June 2008 to the director of the...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/reflections-will-burnham-as-pm-end-roller-coaster-uk-politics-sunanda-k-datta-ray-1972864)
+
+---
+
+### On the streets, a democratic reckoning
+*Deccan Herald · Editorial*
+
+As the Parliament’s monsoon session begins, the Union government faces one of its biggest challenges in recent times, from the streets rather than the House. Violence erupted during student protests in Delhi demanding the resignation of Education Minister Dharmendra Pradhan when police deployed tear-gas and lathicharged the demonstrators, injuring several of them. While activist Sonam Wangchuk – on a hunger strike for three weeks – was forcibly hospitalised, Cockroach Janta Party (CJP) founder Abhijeet Dipke concluded his fast on Monday. What began as student unrest over a NEET paper leak has steadily gathered momentum to assume larger proportions. The rising participation in the street demonstrations and the support they have found among the civil society emphasise resistance no longer limited to a compromised examination. These protests are now a larger platform for dissent, questioning recurring failures in the education system.
+
+CJP protest: Govt 'ready to discuss' issues related to NEET exam after thousands gather on Delhi streetsThousands from different parts of the country have taken to the streets of Delhi. Their numbers are expected to grow. The demonstrations are centred on two critical issues: a lack of democratic accountability from the government and the fallout of systemic lapses on higher education. Repeated paper leaks – including the recent one ahead of NEET, which led to the suicide of at least 12 students – expose a deepening crisis. The government has responded citing the arrests of culprits behind the leak. However, arrests only address criminal liability. The moral responsibility for lapses that threaten to derail the futures of thousands of students rests with the Education Minister. Institutional accountability is at the core of democracy. When Pradhan called the protesters the “B-team of terrorists”, he discarded that fundamental principle. Prime Minister Narendra Modi is yet to make a public statement on the issue against the backdrop of the escalated protests. The anger over the paper leak is palpable, but beyond one instance of administrative failure, the students are also expressing anxieties over employment and life after college. When they voice these concerns and demand reform, the government needs to listen. Attempts to delegitimise the protests and vilify the students must stop.
+
+The detention of activists and Opposition leaders including Rahul Gandhi on Tuesday highlights the growing restrictions on democratic dissent in the country. The space for disagreement has shrunk under the Modi government. It has met agitations by students, farmers, activists, critics, dissenters, and opposition leaders with force, often branding the protesters anti-nationals. A government unwilling to engage in dialogue with the citizens cannot be regarded as truly democratic in spirit or practice.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/on-the-streets-a-democratic-reckoning-4082252)
+
+---
+
+### Reclaim land, restore trust
+*Deccan Herald · Editorial*
+
+The discovery that more than 1,000 acres of temple land in Karnataka have been encroached upon is not merely a case of land grabbing. It exposes a deeper failure to safeguard properties endowed over centuries for religious and charitable purposes – including land belonging to historic temples such as the Sri Ranganathaswamy Temple in Srirangapatna. Kodagu accounts for the single-largest concentration of encroachment, with 297 acres across just three temples occupied by private individuals. The Endowment Department has begun documenting temple assets, but the scale of what has surfaced indicates a systemic problem. Karnataka has over 34,500 temples under the Hindu Religious Institutions and Charitable Endowments Department. Of the 20,730 temples surveyed so far, 229 have been found to be encroached upon, involving 1,036 acres, of which more than 700 acres remain to be recovered. Poor records, different pre-Independence systems of land administration, and protracted litigation have combined to make recovery slow and uncertain.
+
+The issue extends beyond temple properties. Waqf lands have long suffered from inadequate records, squatters, and disputed ownership. Christian institutions, too, face similar challenges. Despite differences in their governing laws, all three categories of religious properties share common vulnerabilities: ambiguous titles, weak documentation, and ineffective oversight. These lands should not be viewed as private assets of priests, trustees, or authorities. Most originated as grants or endowments made by rulers, princely states, the British administration or private benefactors to sustain places of worship and institutions serving the community. Those entrusted with their management are custodians, not owners. Religious endowments cannot be allowed to become the personal property of vested interests.
+
+Over 1,000 acres of endowment temples encroached in KarnatakaThe government's ongoing surveys and scientific mapping are welcome, but technology alone cannot remedy decades of administrative neglect. The state needs a time-bound Special Investigation Team (SIT) to identify, verify, and secure all religious endowment lands, irrespective of faith. Every parcel should be digitally mapped, properly registered, linked to revenue records, and protected against unauthorised transfers. Fast-track legal mechanisms should deal with encroachments, while officials who fail to protect these public assets must be held accountable. Religious land is not merely real estate; it is a public trust created for enduring community purposes. Protecting it is neither a sectarian cause nor a political issue; it is a matter of the rule of law. The longer these lands remain vulnerable, the greater the risk that assets held in trust for future generations will be lost forever. When custodians fail, the state must step in as the guardian.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/reclaim-land-restore-trust-4082251)
+
+---
+
+### FIFA World Cup 2026 | Spain vs Argentina: A final where ideas clashed
+*Deccan Herald · Opinion*
+
+The 2026 FIFA World Cup had unfolded like one of football’s great fairy tales, full of young stars, old masters, dramatic comebacks, and stadiums alive with hope. Yet the final itself felt different. For those who had followed Lionel Messi and Argentina through another remarkable campaign, it ended like an uncomfortable awakening. Spain deservedly defeated Argentina 1-0 after extra time through Ferran Torres’ goal, but the meaning of the evening went far beyond the scoreline. It became a contest between two visions of football: one rooted in control, beauty, and conviction; the other, increasingly, in survival.
+
+World Cup finals often become larger than the trophy they decide. The 1954 final immortalised West Germany’s resilience; 1970 elevated Brazil into mythology; and 2010 confirmed Spain’s patient possession football. The 2026 final now joins that lineage for a different reason. It reminded us that football is not simply about winning; it is also about how victory is pursued.
+
+Spain remained faithful to their football. Luis de la Fuente’s players never abandoned possession, never retreated into fear, and never compromised the principles that had carried them through the tournament. Rodri controlled the tempo with extraordinary calm, Pedri escaped pressure through intelligent movement, and Fabián Ruiz ensured that Argentina spent long stretches chasing shadows. Spain’s football was disciplined, technically accomplished, and deeply confident in its own identity.
+
+FIFA World Cup 2026 | Spain crowned world champions; Ferran Torres late goal sinks Messi and Argentina in grim finalArgentina, by contrast, appeared to recognise early that they were confronting a technically superior midfield. Lionel Scaloni’s decision to start Nicolás González instead of Leandro Paredes suggested an intention to press higher and attack with ambition, but that plan gradually dissolved under Spain’s control. Argentina slowed the rhythm, competed fiercely for every loose ball, broke play whenever possible, and tried to drag Spain into a fragmented contest. Such tactics are not unusual; Diego Simeone and José Mourinho have both shown that football often rewards pragmatism. But World Cup finals are watched by millions who meet the game only every four years. In those ninety minutes, football presents itself to the world.
+
+The irony at the centre of the evening was almost literary. Lionel Messi spent the night representing a footballing culture very different from the one that had shaped his genius. When he was a teenager, Spain tried to persuade him to represent La Roja. Messi refused, insisting that his heart belonged to Argentina. History vindicated that decision. He gave Argentina the Copa América, the Finalissima, and the unforgettable World Cup in Qatar. Yet there was something quietly poignant about watching football’s greatest disciple of the Barcelona school chasing a game in which Spain were executing that philosophy more convincingly than anyone else.
+
+The philosophy counts
+
+Spain’s victory also represented the triumph of continuity. Since Johan Cruyff transformed Barcelona and Pep Guardiola later refined those ideas, Spanish football has invested patiently in a coherent philosophy. Players emerge from academies already speaking the same tactical language. The result is not merely a successful national team but a recognisable footballing identity. Spain played not as individuals assembled for a tournament but as footballers educated within a shared tradition.
+
+Argentina deserve sympathy as well as criticism. Losing Lisandro Martínez during the first half deprived Scaloni of one of his most important defenders and disrupted the team’s organisation. Football has always contained an element of chance, and throughout the knockout rounds, Spain’s opponents lost key players to injury. As the old saying goes, fortune favours the brave. In this tournament, it also favoured the better team.
+
+Perhaps the most striking aspect of the evening was the emotional conflict it produced. It was possible to admire Spain’s football while mourning Argentina’s defeat; possible to celebrate Rodri’s excellence while feeling sadness for Messi. Such contradictions are not weaknesses. They are evidence of football’s extraordinary emotional range. Unlike most sports, football allows us to support ideas as much as teams.
+
+Still, we should resist viewing this as the end of Messi’s story. His legacy no longer depends upon trophies. It rests upon the fact that he changed the way football can be imagined. Whether he plays another World Cup has become almost secondary. What matters is that an entire generation was fortunate enough to witness him.
+
+Spain leave America as deserving world champions. Argentina leave without the trophy but not without honour. Football itself is left enriched by a final that reminded us that philosophy still matters, beauty still has competitive value, and even in an age obsessed with results, style remains inseparable from substance.
+
+(The author is a writer and cultural commentator based in Bengaluru)
+
+Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
+
+[Read full article](https://www.deccanherald.com/opinion/fifa-world-cup-2026-spain-vs-argentina-a-final-where-ideas-clashed-4082250)
+
+---
+
+### From speech to text
+*Deccan Herald · Opinion*
+
+It was the then-Madras Central Stadium behind the historically famous Rippon Building, where the first prime minister of post-independence India, Jawaharlal Nehru, was to address the students of all the high schools in Madras city in October 1953. The students were accordingly informed to turn up spiffily in their best bib and tucker on that day, since the practice of attending schools in uniform was not in vogue during those days. I was a student of the fifth form, the tenth standard.
+
+Within a week dawned the day when we, the students of the tenth and eleventh standards, assembled in the school compound, ready to be led by the faculty members of our school to the venue of the occasion. Soon we walked to the Mambalam railway station, one in the route of the electric train accessible by a walk of not over fifteen minutes from our school. Within a few minutes after we got to the station, a train arrived. Boarding it in double quick time, we occupied the seats. With a quick whistle by the guard, it left the station and halted at Madras Park Station within scarcely 10 minutes. We alighted and stood on the platform in a single line as instructed by our teachers, who were to take us to a short stretch of road outside the station leading to the main road where the traffic had stood stock-still.
+
+Soon the traffic cops, together with our teachers, shepherded us to cross the road and get at the pavement on the opposite side of the road. When we were within about a stone’s throw from there, the stadium evolved before us, appearing as a sprawling greensward, inviting us with the fluttering of the national flags from atop a number of posts and loosely hanging balloons and festoons high and low. Soon we entered the stadium and stood in a single line as instructed by our teachers.
+
+PM Modi exhorts people to take pride in 'swadeshi' products during Mann ki Baat broadcastWith the clock ticking away towards the tenth hour in the morning, the time of arrival of the prime minister, the motorcade moved past the stadium, letting the VVIP come out of one of them. In next to no time the first prime minister of India emerged in all his glory, attired in milky white pajamas and his signature white cap, and stood on the dais with hands held close together. With a loud drum beat, the national anthem was sung by the mammoth gathering of students, dignified personalities and all the hallowed and household names. Following an almost hourlong address to us, the prime minister retreated to his car, waving his hands at all of us.
+
+The next year we, the students of the sixth form (the eleventh standard), to our immense pride and surprise, found the excerpts of the grand oratory he had delivered to us in the previous year included in our English textbook as the first lesson.
+
+Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
+
+[Read full article](https://www.deccanherald.com/opinion/from-speech-to-text-4082254)
+
+---
+
+### The limits of borrowed growth
+*Deccan Herald · Opinion*
+
+The Reserve Bank of India (RBI)’s latest Financial Stability Report is reassuring about the health of banks and non-banking finance companies. It is less reassuring about the financial health of their retail customers. India’s household debt reached 45.5% of the GDP by September 2025, close to its earlier peak, and subsequently hit a new high of 47.8% by December 2025. This may not be exceptionally high by international standards. But beneath the headlines are stressed signs revealed by the purpose of the loans, who the borrowers are, and what is being pledged.
+
+Non-housing retail loans now account for 58.4% of household borrowings. Nearly half of all household debt is classified as borrowing for consumption, as distinct from asset creation or productive activity. A housing loan creates an asset, while a business loan may create an income stream. Even an education loan creates future earnings. But a personal loan used for groceries, medical expenditure or repayment of an earlier loan creates neither.
+
+The distribution of stress is even more revealing. As per the RBI study of 10 large banks, covering nearly 90% of such lending, those with annual incomes below Rs 10 lakh accounted for roughly three-fourths of loan originations. They also accounted for 78% of the fresh non-performing loans in December 2025. This portends the onset of a household-debt crisis. Ironically, corporate loans are doing fine, which brings down the aggregate NPA ratio quite low. But a low NPA ratio should not hide the fact that whatever residual stress exists is overwhelmingly concentrated among those with the least capacity to absorb it.
+
+Debt stress: Young Indians face hidden cost of easy credit optionsMicrofinance credit declined for seven consecutive quarters till January this year. The borrower base shrank by another 22.7 lakh. The fall in microfinance lending was not because poor households did not need credit. It followed due to regulatory action. Due to a phase of rapid lending, multiple borrowing and rising delinquency, the microfinance industry imposed its own guardrails. The permissible number of microfinance lenders to one borrower was eventually reduced to three. Total microfinance and unsecured retail debt was capped at Rs 2 lakh, and lending to borrowers more than 60 days overdue was prohibited. Banks also sharply reduced their microfinance portfolios. These were two very difficult years for microfinance.
+
+Hence, the credit demand migrated to gold loans. Gold loans have grown at a compound annual rate of 42.4% since March 2024, almost twice the pace of overall non-housing retail credit. The RBI finds that much of this increase has come from existing customers using higher gold prices to obtain larger loans and roll over previous debt.
+
+The RBI permits a loan-to-value ratio of 85% for consumption loans of up to Rs 2.5 lakh. This higher limit for small loans was intended to improve credit access to the really poor. But an 85% LTV also leaves a relatively thin safety margin if gold prices drop. The RBI had already found irregularities in gold appraisal, monitoring, auctions, and adherence to LTV norms, prompting tighter directions.
+
+A gold loan is safer for the lender than an unsecured microfinance or personal loan because of the collateral. It is not necessarily safer for the family. In case of default, the lender can auction the jewellery. Thus, the banking system may report better asset quality precisely because the risk has been shifted to the borrower’s household balance sheet. Gold is often the family’s final emergency reserve. Monetising it repeatedly to repay earlier loans may be distress wearing the appearance of formal credit.
+
+A respite, not a real solution
+
+Loans are liabilities, while savings are assets. Net household financial saving had fallen to 5.2% of gross national disposable income in 2022-23, a multi-decade low. It has now risen to 7% in 2024-25, mainly because new financial liabilities declined. Gross financial saving is 11.8%.
+
+The rapid growth in borrowing is pulling down net financial savings. The earlier fall from 11% to 5.2% was a post-pandemic correction and not really a sign of impoverishment in the aggregate. But now, it is clear that low-income borrowers are increasingly using fresh loans to pay for consumption or an instalment of a refinanced old loan.
+
+Are low savings caused by cash transfers to women? Women-focused transfers reach 12 crore beneficiaries across 15 states. A transfer increases disposable household income, improves welfare, and financial inclusion. It usually goes towards consumption, food, healthcare or children’s needs. It could just as plausibly reduce dependence on high-cost borrowing. However, it is unlikely to be an explanation for the decline in net savings of low-income households.
+
+The emerging macroeconomic danger must be acknowledged. Debt-financed consumption supports demand today, but debt servicing subtracts from consumption tomorrow. A fall in financial savings reduces the domestic pool available to finance investment, bank deposits, and the fiscal deficit. A gold-price correction could simultaneously weaken collateral and expose borrowers who have repeatedly refinanced. Since the stress is concentrated among lower-income households, it can also widen inequality.
+
+The answer is not to shut vulnerable households out of formal credit. Appropriate regulation, proactive credit bureaus providing real-time information on a borrower’s total exposure, lenders assessing repayments across microfinance, personal and gold loans – all this can help. Repeated gold-loan rollovers should be curtailed. But all these measures can only contain the symptoms.
+
+The escape from excessive household indebtedness lies largely outside monetary and credit policy. It requires faster growth in real wages, more secure employment, lower out-of-pocket spending on health and education, and stronger protection against sudden income shocks. Credit can bridge a temporary gap between income and expenditure. It cannot permanently substitute for income. When households must repeatedly borrow merely to sustain ordinary consumption or repay earlier loans, financial inclusion begins to turn into financial fragility. That this is happening when bank balance sheets are extremely healthy, while vulnerable borrowers are pledging their last financial cushion, is particularly poignant.
+
+(The writer is a noted economist; Syndicate: The Billion Press)
+
+Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
+
+[Read full article](https://www.deccanherald.com/opinion/the-limits-of-borrowed-growth-4082266)
+
+---
 
 ## 21 July 2026
 
@@ -75,6 +367,31 @@ So what happens from here on? The problem for the government is that the protest
 The last thing that comes to mind is that there is an education that comes to those who are participants in these deep, weeks-long protests that those of...
 
 [Read full article](https://www.deccanchronicle.com/opinion/columnists/aakar-patel-the-lessons-that-india-learns-as-wangchuks-fast-scuttled-by-govt-1972602)
+
+---
+
+### Shobha Sengupta | Rise Of The Book Club
+*Deccan Chronicle · Opinion*
+
+The phenomenon of the book club has seen a sharp spike in recent times. It has introduced the reader to genres and to authors she has never read before. It has broadened our horizon. People who never read fiction have been egged on to read books by friends, books they would have never picked up on their own. Often, they arrive only because they are curious about a book, and are simply waiting to be inspired to pick it up.
+
+How does one explain this new trend? The answer lies with the articulate fairer sex who simply cannot wait to discuss the next best thing with friends. Women emerging into and impinging upon public space do not want to discuss boring household drudgery any more. They want to explore territory outside of their own familiar experiences.
+
+Giving voice to one’s thoughts, while hearing others’ perspectives, is individually satisfying. At the same time, one has a sense of belonging, and
+
+build bonds as a community. From Oprah Winfrey, who probably started it all, to Reese Witherspoon to now Sarah Jessica Parker, celebrities have lent glamour to the book club, giving books status and widespread recognition. The Booker and Pulitzer had given books the stamp of erudition and made voices reach across the world. Now the celebrity book clubs give books glamour, and turn them into films and Internet series.
+
+In Gurgaon, Haryana, every elite residential complex houses a book club. Many invite authors to speak to them. We are witnessing a welcome and heartwarming phase. Kitty parties are a thing of the past. It is the book club that now gives one rizz. It allows one to dress well, articulate one’s views,
+
+make friends, evolve and become better versions of oneself.
+
+The US, according to (hopefully not fictitious) data, has an estimated five million book club (mostly women, a few delicious men) members. India has not compiled any statistics as yet, but for sure the numbers are climbing.
+
+So, get out, join a book club now!
+
+The writer is the owner-founder of Quill and Canvas, bookstore and art gallery in Gurgaon. The store hosts a vibrant book club, with great minds exchanging views as often as twice a week!
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/shobha-sengupta-rise-of-the-book-club-1972744)
 
 ---
 
