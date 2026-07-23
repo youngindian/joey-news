@@ -1,8 +1,291 @@
 # Editorials
 
-_Last updated: 2026-07-22 04:48 UTC_
+_Last updated: 2026-07-23 04:53 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 23 July 2026
+
+### All is not well: On the protests in Delhi
+*The Hindu · Editorial*
+
+Issue-driven mobilisation by civil society groups tends to remain orderly so long as the government of the day signals that it is willing to listen and engage with genuine concerns. The scenes from Delhi on July 20, when mostly young demonstrators were chased, tear-gassed, and baton-charged within sight of the new Parliament building, with some allegedly struck by pellet guns, while mobile Internet was switched off and Metro stations were shut across the area, were avoidable. The Cockroach Janta Party (CJP) march escalated only after the police resorted to force. Had the Union government engaged with the protesters earlier, including activist Sonam Wangchuk, who was on an indefinite fast and forcibly hospitalised two days earlier, the confrontation could have been avoided. A meeting was eventually conceded through Union Minister J.P. Nadda, but only after thousands had reached Parliament’s doorstep. It came too late. That a movement born as online satire could gather millions of digital followers and bring thousands to the street says a great deal about the government’s own record, which has become the source of a litany of grievances. Recurring paper leaks in entrance examinations, the re-conducting of NEET, and the friction over the three-language formula have led to deep concerns that higher education is being administered without accountability by the government.
+
+Yet, it would be a mistake to read the anger as being about examinations alone. Increasingly, the protests have crystallised into a wider discontent over joblessness, stagnant wages and rising prices that weigh on the young across the country. The intensity of the protests also owes much to the Narendra Modi-led BJP government’s disinclination to address genuine civil society concerns except when an election is in view. Course corrections over the last 12-plus years have tended to be timed to the ballot rather than parliamentary sessions or to public disquiet, even as narrow electoral wins in Assembly and parliamentary elections are read as expansive mandates and a licence for an increasingly authoritarian style of rule. The protests, which have drawn support beyond Delhi, are reminiscent of Sri Lanka’s Aragalaya, Nepal’s Gen Z revolt and Bangladesh’s student uprising against authoritarian rule, though their scale and demands remain far narrower in comparison. That should not tempt the government to wait them out. Instead of correcting course, it has sought to reduce the protests to a political duel with the Congress-led Opposition, and to deflect attention from its failures through proxies in civil society and the media. This is self-defeating as it will only deepen youth disillusionment with the democratic system itself. An immediate step is in order. The Union Education Minister, Dharmendra Pradhan, must own the failures on his watch and resign. The alternative is an unceremonious dismissal.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/all-is-not-well-on-the-protests-in-delhi/article71254382.ece)
+
+---
+
+### Buried questions: On the Sikkim tunnel accident
+*The Hindu · Editorial*
+
+India is grappling with another Himalayan tragedy. Workers in an under-construction tunnel at the Teesta Stage-VI hydroelectric project of NHPC Limited (formerly National Hydroelectric Power Corporation Private Ltd.), in Sikkim’s Namchi district, struck a pocket of suspected trapped methane. The resulting burst partially damaged the tunnel, killing at least 15 of an estimated 25 workers, with rescue operations still under way. The NHPC has announced a detailed investigation. Methane is a well-recognised hazard in underground excavation, and the geology of the Teesta basin makes it a likely one. The basin sits in a seismically active zone, with young and heavily fractured rock, and where compressed pockets of gas laid down long ago can lie hidden until an excavation breaks into them. The presence of the gas, in that sense, is not in itself surprising. What remains unclear is far more consequential: the precise circumstances in which the pocket was breached, whether its risk was assessed and modelled during project planning, and whether the gas-detection and ventilation safeguards that such conditions demand were in place and functioning.
+
+Underground work in India’s difficult terrain has always been perilous. In February this year, an explosion at an illegal coal mine in Meghalaya killed about 30 workers, and in 2023, a stretch of a road tunnel under construction in Uttarakhand collapsed, trapping 41 workers for 17 days before they were pulled out. The circumstances vary, but together they underscore how lethal underground and tunnelling work remains across the country. A series of hydropower projects along the 400-kilometre stretch of the Teesta that links Sikkim, West Bengal, and Bangladesh have varied histories with environmental clearances but share a common feature — their location in the fragile Himalayan belt. That vulnerability was demonstrated tragically in October 2023, when a glacial lake outburst flood from the South Lhonak lake destroyed the Teesta-III dam and killed more than a 100 people downstream. Teesta-VI was absorbed by the public-sector NHPC Limited after its private developers, unable to afford escalating costs, went into insolvency. Relief and rescue must remain the immediate priority, and every effort to reach those still trapped is warranted. But once the emergency has passed, the government cannot treat the disaster as an isolated misfortune. It must order a thorough, independent review of whether the conditions attached to the project’s environmental clearance were, in practice, strictly met.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/buried-questions-on-the-sikkim-tunnel-accident/article71253599.ece)
+
+---
+
+### The cockroach dilemma facing India’s political parties
+*The Hindu · Opinion*
+
+How does the cockroach protest alter India’s political landscape? A considerable section of those opposed to the Bharatiya Janata Party (BJP) sees hope in the mobilisation triggered by the self-deprecating cockroach activists. Some even believe that political parties— particularly the Congress — should fall in line with the outfit that calls itself the Cockroach Janta Party (CJP), which took its name from a remark by a judge of the Supreme Court of India who likened India’s disgruntled youth to cockroaches. An opposing view, expressed as hope within the BJP and concern within the Congress, is that this protest could cannibalise the latter. “AAP [the Aam Aadmi Party] finished the Congress in Delhi and Punjab. Let’s see where the CJP ends the Congress,” Devendra Kumar, an election strategist who works with the BJP, posted on X.
+
+Also Read : Jantar Mantar protest LIVE
+
+The Opposition parties are not unified in their approach to the cockroach protest. Differences exist both between and within parties. The Samajwadi Party and the Left believe that joining the protesters could expand the Opposition space, while within the Congress, opinions are divided over whether playing second fiddle to the protesters would be useful. There are also voices within the Left that favour a more cautious approach. On July 21, the Congress attempted to seize the moment by staging a dharna outside Prime Minister Narendra Modi’s residence.
+
+The politics of public angerOccasional outbursts of public anger, frustration, and resentment against the government of the day are a normal feature of democratic societies. Whether such sporadic outbursts turn into political mobilisation with electoral consequences is a different question. A protest movement can lead to diametrically opposite outcomes depending on the circumstances. Public anger can be consolidated and galvanised into dramatic electoral outcomes; it can also be diffused through protest, averting or diverting political change.
+
+The Kejriwal-Anna movement of 2011 consolidated public anger against the Congress-led United Progressive Alliance and in favour of the Narendra Modi-led BJP. The Congress bore the brunt of public anger then. Now, the party fears that popular resistance against the ruling BJP, which it believes is snowballing, could be scattered by an apolitical mobilisation without any clear programme or organisation. Those in the Opposition who want to ride with the cockroach protest believe that the protesters are taking aim at the government, and that this sentiment can and should be politicised and amplified through better coordination with them.
+
+Referencing at least three past instances of self-proclaimed apolitical mobilisation may be helpful. The protests against the Citizenship Amendment Act (CAA) in 2019-20 and the farmers’ protests of 2020-21, both of which took place during the second term of the Modi government belong to one category. Before these came the Anna Hazare-Arvind Kejriwal anti-corruption agitation of 2011, followed by the Nirbhaya rape and murder protests of 2012.
+
+Related StoriesCockroach Janta Party protests | Collection of The Hindu’s ground reports
+
+The salt of democracy
+
+There is no way to precisely decipher the social composition of these movements, but some broad features are worth noting. The farmers’ protests were driven largely by relatively prosperous farmers in a narrow belt around Delhi. The anti-CAA protests came to be framed largely as a Muslim issue. An urban middle class that considers itself apolitical took out candles for Anna’s movement and its call to “hang the corrupt at Vijay Chowk”, as it was put, but remained silent during the farmers’ protests and possibly turned against the anti-CAA movement.
+
+By then, its apoliticism had, in many cases, turned into outright communalism. The apolitical middle class periodically finds purpose in declaring all politics illegitimate and undesirable, rallying instead around movements that usually reflect immediate personal grievances — price rise in 2011, question-paper leaks, or the severe income and opportunity stress confronting young people in 2026. Examination irregularities are only the trigger; protesters are agitated by the precarity staring them in the face.
+
+The farmers forced the government to withdraw the controversial farm laws, while the CAA protests fizzled out. Both protests had limited political impact nationally in subsequent elections. They represented sectional interests that the BJP could isolate as the other and amplify its own politics. It is precisely on this point that youth protesters pose an unprecedented challenge to the BJP and an opportunity for the Opposition.
+
+Related StoriesMarch to Parliament: Protesters’ anger extends beyond paper leaks
+
+Police outnumbered, taken aback by number of protesters who reached Parliament’s doorstep
+
+Protesters, petrol pump, police... and one woman
+
+Pellet guns, shock batons used against protesters in Delhi; police deny
+
+Hundreds of people order food online for protestors at Jantar Mantar
+
+Delhi Internet shutdown during CJP protest: Where does the law stand? | Explained
+
+CJP protesters represent a horizontal segment of Indian society, concentrated in the BJP strongholds of the Hindi heartland, where the demographic bulge is manifesting more as disenchantment than hope. It is a segment that cannot easily be cornered as a sectional interest or labelled in any other manner easily by the BJP. It is socially diverse but largely located within the young, Hindu-Hindi spectrum, preempting any communal polarisation on the issue. Anti-corruption slogans were a shell for movements such as the Gujarat Navnirman movement (1974), the JP Movement (1974), and the Anna movement, in which diverse interest groups coalesced to undermine the Congress system.
+
+The difference nowWhether the same pattern of mobilisation that helped bring the BJP and its Hindutva politics to power can also undermine it remains an open question. At its peak in 2019, the BJP secured about 37% of the national vote. At any given point, more than 60% of Indians do not vote for the BJP. If a protest remains confined to a particular segment of society or a particular region of the country, the BJP remains largely unconcerned. It may even seek a counter-consolidation, as it did during the farmers’ and anti-CAA protests. There is considerable dynamism in the voting preferences of people. The BJP may have lost many of its earlier supporters since 2014 while gaining new ones elsewhere. The ideological appeal of Hindutva remains intact, but the party is also keen to improve its vote-to-seat ratio through a fresh delimitation of Lok Sabha constituencies ahead of the next general election (in 2029).
+
+In the BJP’s scheme of things, it would rather have the CJP in the headlines than Leader of the Opposition in the Lok Sabha and Congress leader Rahul Gandhi. But its toolkits for dealing with protests, which worked earlier, are less effective now, partly because the BJP is dealing with a new generation and its collective psyche. The 20-year-old protester of today was only eight when Mr. Modi became Prime Minister in 2014. It was their parents’ generation that cheered the arrival of the BJP then; their children are now shaking off the burden of their political inheritance. If it was the WhatsApp generation that fuelled the rise of what I term Hindutva 2.0 under Mr. Modi, it is the Instagram generation that is challenging it now. All this makes it possible that this apolitical, sporadic outburst of public anger could expand into a mass mobilisation with sufficient critical weight to unsettle the BJP. What is clear, however, is that the cockroach protesters alone have no capacity to achieve that. That is where the role of the Opposition, particularly the Congress, becomes critical.
+
+A new battlegroundThe BJP and its Jan Sangh predecessors were able to turn popular mobilisations such as the JP movement and the Anna movement to their advantage and against the Congress, while leaving smaller political gains to figures such as V.P. Singh and Mr. Kejriwal along the way. This is the first time that a comparable phenomenon is being tested against the BJP itself — a party with a stronger ideology, greater organisational discipline, ruthless political determination, and a willingness to deploy state power to its advantage.
+
+The long arc of such apolitical protests has, so far, bent towards the erosion of public trust in the liberal, secular, and untidy middle ground of Indian politics. In that sense, the cockroach protest is more a symptom than a remedy for India’s democratic disarray. Can the Congress do to the BJP what the BJP has done to the Congress over the years through apolitical protests? That is the question before us. Both the BJP and the Opposition face risks as well as opportunities in these protests.
+
+[Read full article](https://www.thehindu.com/opinion/lead/the-cockroach-dilemma-facing-indias-political-parties/article71254776.ece)
+
+---
+
+### DC Edit | Govt Must Show Empathy In Talks With Angry Youth
+*Deccan Chronicle · Editorial*
+
+Prime Minster Narendra Modi and the NDA government at the Centre had many chances to initiate steps to repair what is patently wrong with the education system and the examination system of the country, and thereby mollify the angry youth in the backdrop of the lapses in the conduct of crucial exams deciding their futures. The government, however, chose not to exercise these and allowed matters to get from bad to worse. Things came to such a pass that it is now being questioned on why it ordered brutal suppression of the youth protests regarding this using means not sanctioned by the law.
+
+Evidence has now emerged in the form of video clips showing how Delhi police acted in an inhumane manner when ordered to manage the Cockroach Janta Party’s agitation demanding the resignation of Union education minister Dharmendra Pradhan at Jantar Mantar in the nation’s capital on July 20. Instances of teenagers being thrashed, girls being abused by male cops and hooligans with police batons beating up protesters as well as cops without nameplates taking on student protesters with pellet guns and nail-fitted batons are going viral on the social media.
+
+It may be noticed that the agitation is not confined to Delhi: it has gained traction across the states. The entry of the Congress into the Delhi battlefield after weeks of procrastination has added an element of both farce and drama. The way the police applied physical force to remove Leader of the Opposition Rahul Gandhi and other leaders from in front of the PM’s residence where they were holding a dharna is unacceptable by any standards.
+
+The government has been trying to explain away the student agitation citing the smooth conduct of the Neet rerun. That is a specious argument since democracy means accountability. The people vest political power with the elected representatives on the solemn condition that they will exercise it to the benefit of the people. If political executives are unable to meet their end of the bargain, they have to vacate the seat of power. Mr Pradhan has failed the young people of the country repeatedly and hence has little moral right to cling to his chair.
+
+The response of the Chief Justice of India when his attention was drawn to the police brutality that he doesn’t have time to waste on the issue is unexpected and does not behoove either him or the institution. It is not that the judiciary has a solution to every issue but it must at least come to the rescue of citizens when the might of the state is brought to bear on them. It must have the time and patience to listen to their woes lest it too fails the people.
+
+The BJP, on its part, is trying to paint the protesters as anti-nationals and traitors, little realising that the tactic will boomerang. These fake labels could work on Opposition parties who too engage in realpolitik and are players in the same game. But the demands of the young crowds are solid and specific, unlike vague and amorphous political slogans. They feel cheated by the system and ask for accountability, which will be very difficult for the BJP to duck. Attempts to hit back at them with such labels cannot help them circumvent the problem.
+
+Most branches of the government have landed themselves in a pit when it comes to accountability to the youth of this country; they should not dig it further.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-govt-must-show-empathy-in-talks-with-angry-youth-1973174)
+
+---
+
+### DC Edit | Use Tech, Stop Tunnel Disasters
+*Deccan Chronicle · Editorial*
+
+The tragic tunnel collapse at the Teesta Stage VI Hydroelectric Project in Sikkim, killing 20 workers, is a grim reminder of the risks associated with underground tunnelling. It highlights the need to rethink how such projects are executed in the 21st century, when battles are fought through unmanned aerial vehicles thousands of kilometres away, surgeons perform robotic operations and driverless vehicles navigate busy city streets.
+
+According to the National Hydroelectric Power Corporation, the collapse followed a sudden explosion caused by suspected methane gas trapped within the rock.
+
+If methane, a naturally occurring gas found in certain geological formations, mixes with air in the right proportion, it can ignite when exposed to a spark from machinery, electrical equipment or even friction.
+
+The blast generates a shock wave, dense smoke and toxic gases such as carbon monoxide that rapidly displace oxygen, suffocating people to death. Underground danger does not end with the blast; invisible gases, unstable rock formations and restricted access make every rescue attempt a race against time.
+
+Tunnelling has always been among the most hazardous engineering professions. Workers operate in confined spaces, which offer few escape routes. Yet, no advanced technology appears to have been introduced to reduce human involvement.
+
+The answer lies not in technological limitations but in uneven adoption. Modern tunnelling technology allows the introduction of remotely operated drilling rigs, robotic inspection vehicles, laser and ground-penetrating radar mapping, real-time methane and toxic gas monitoring, and automated ventilation systems, which considerably reduce human exposure during the most dangerous phases of excavation.
+
+However, higher capital costs deter companies from introducing such technology. This brings us to another question: Are the lives of some human beings so cheap? The country needs to build infrastructure, expectedly at an affordable cost. But at whose cost? And the worst part is that those who die for building the country remain unnoticed and unremembered.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-use-tech-stop-tunnel-disasters-1973176)
+
+---
+
+### Sanjeev Ahluwalia | India-US FTA: Ticking The Boxes, Or Boost To Growth?
+*Deccan Chronicle · Opinion*
+
+How dependent is India’s export growth on swiftly concluding a bilateral trade agreement with the United States? The US is the world’s largest consumer, with about 29 per cent of global household spending. The European Union accounts for about 16 per cent, China 12 and India four per cent. We already have an FTA agreed with the EU, so if market demand is a constraint for our exports, why not the US?
+
+There are two streams of opinion. The first is that putting in place a trade deal is like installing a rail track. Unless trains run on it, nothing is achieved. This is valid. Significant work is required even after a trade deal to get exports to surge, and we might have slipped on follow-up in the past. But that should not preclude our creating a beachhead for our exports. Another problem with trade deals is the give and take involved. India’s farmers and manufacturing are vulnerable because they are not uniformly competitive but employ large numbers of workers.
+
+The alternative argument is that reform is painful. Trade deals only become a win-win by opening doors for competitive sectors and exposing uncompetitive domestic sectors to imports. Of course, competition can be phased in over defined time and value limits so that the affected sectors become capable of facing imported competition. Without reforms, India cannot grow annually at 9-10 per cent in real terms USD, versus the 6.5 to 7 per cent annual run rate from 2000 onwards.
+
+The demand momentum must come from exports to a large, developed economy growing faster than its peers, with high consumer demand. The US fits the bill on these counts. It remains the largest consumer economy, with GDP growing 0.5 per cent faster per year than the average for OECD economies and 1.4 per cent faster than Japan.
+
+The US has trade agreements with just 20 countries, versus the EU and UK, which have about 80. India, a slow globaliser, has trade agreements with 27 countries, and more are in the pipeline.
+
+Fear of import competition from China keeps India away from plurilateral agreements like RCEP -- a strategy which needs to be rethought or alternative plurilateral arrangements explored.
+
+America and Europe with around 40 per cent of global GDP and about one-fourth of global imports are central to India’s growth.
+
+We have an unresolved, problematic relationship with China, fluctuating between mutual respect to fear and unease as both are capable of “bleeding” the others’ resources. China is ahead in this game. It is five times the size of India’s economy, with a similar population -- albeit not as young as India’s. It is idle conjecture to imagine how cooperation rather than competition might have been better for mutual benefit. That ship has sailed.
+
+America itself is under threat. The USD as a peg for global trade and financial transactions is being undermined by the increased use of unilateral sanctions to preserve US strategic dominance. It’s tech dominance is contested by China.
+
+Upscaling the India-US friendship to a trade partnership fits US strategic interests. India seeks partnerships for investment inflows in technology, greater integration with US tech companies, access to best-in-class surveillance and domain intelligence systems and privileged tariffs for legacy exports.
+
+Where does this leave Indian companies? And what about data sovereignty? Sovereignty is an inalienable vested right. But it can and should be traded if it advances growth and employment in the domestic economy. This should not be equated with opening the gates for the East India Company four centuries ago. The future belongs to collaborations.
+
+A decade ago, the TRAI fended off an attempt by Meta (then Facebook) to “colonise” India with digital walled gardens, by offering free but limited, curated access to the internet. Indian industry countered with “near free” access to the Internet via Jio services -- an outcome of deep pockets, telecom infrastructure and business vision. UIDAI responded with universal digital identity (Aadhaar) and the NPCI -- a collaborative venture of financial sector entities -- built the India stack to universalise digital payments via UPI. These examples demonstrate that Indian industry and the government have the capacity to respond to competition and roll out home-built solutions to enhance competitiveness.
+
+Cross-border collaborations can build confidence in the Indian growth story in digital technology, including AI, manufacturing and agriculture. India can be an efficient partner in space platforms, defence production, Digital Payment Infrastructure and clean energy technology. So, where does all this leave legacy manufacturing? Preferential access is the key to their survival, which is where FTAs fit in well. AI will enhance industrial competitiveness. As India moves up the per capita income ladder over the next two decade, legacy industries will remain relevant as a transition rail for the stock of over 150 million workers who need to move out of...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/sanjeev-ahluwalia-india-us-fta-ticking-the-boxes-or-boost-to-growth-1973178)
+
+---
+
+### A word about reaffirming pluralism
+*Deccan Herald · Editorial*
+
+The Karnataka government’s expert committee, headed by Kannada Development Authority Chairman Purushottama Bilimale, has recommended restoring the word Bauddha (Buddhist) to the state anthem, Jaya Bharata Jananiya Tanujate. The proposal has triggered an unnecessary controversy, with some critics arguing that the government has no right to alter Rashtrakavi Kuvempu’s celebrated composition. The recommendation does not rewrite the poet’s work; it restores a word that appeared in his original 1924 draft but was omitted when the poem was published in his 1930 collection Kolalu. The committee has proposed changing the line Paarasika Jainarudhyaana to Paarasika Jaina Bauddharudhyaana. In essence, the passage describes Karnataka as a garden for Hindus, Christians, Muslims, Parsis, Jains, and Buddhists. The panel has confirmed that the addition fits seamlessly within the anthem’s rhythm and official rendition time. Scholars believe Kuvempu omitted Bauddha in the published version to satisfy the poem’s metrical requirements rather than because of any change in his outlook. The anthem’s defining phrase, Sarva janangada shantiya thota – a garden of peace for all communities – captures his idea of Karnataka as a shared cultural home.
+
+Buddhism has left an enduring imprint on Karnataka, from the Ashokan edicts and the archaeological remains at Sannati to the neo-Buddhist movement inspired by B R Ambedkar. Acting on representations from Buddhist religious leaders and political figures the government constituted the Bilimale committee, which concluded that restoring Bauddha honours both historical accuracy and the state’s plural heritage. The objection that a revered literary work should never be altered would carry greater force if this proposal sought to substitute Kuvempu’s words. It does not. Carefully considered changes are neither unprecedented nor sacrilegious. More importantly, this recommendation relies on Kuvempu’s own textual precedent rather than opening the door to arbitrary revision.
+
+The state anthem has, in any case, never been free of controversy. Eminent writer Sumatheendra Nadig opposed conferring official anthem status on the song, while noted poet Channaveera Kanavi argued that its duration should be reduced to 90 seconds. Even the choice of the official rendition became the subject of litigation that lasted nearly two decades before the courts settled the issue in favour of Mysore Ananthaswamy’s version. Those debates did not diminish the anthem’s stature. The government should therefore accept the recommendation. Restoring Bauddha would reaffirm the inclusive ideals at the heart of Kuvempu’s vision and ensure that every community can see itself reflected in one of Karnataka’s most cherished songs.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/a-word-about-reaffirming-pluralism-4083703)
+
+---
+
+### Chip dreams meet self-reliance reality
+*Deccan Herald · Editorial*
+
+With the second phase of the India Semiconductor Mission securing the Union cabinet’s clearance, the country is set for a global race with fresh impetus. The government envisions the mission, planned at a total budget outlay of Rs 1.27 lakh crore, to attract investment of around Rs 4 lakh crore, leading to production worth Rs 2 lakh crore. The cabinet has also approved a Rs 62,500-crore mobile phone manufacturing scheme, which is expected to complement Semicon 2.0. Targeted measures will drive the semiconductor mission across broad domains such as chip design, fabrication plants, research and development (R&D), intellectual property ownership, and talent development.
+
+The mission is well-timed, as India can no longer defer a strong presence in the field of semiconductors – a critical foundational technology with applications in diverse industries. Self-reliance has become imperative following events in recent years, particularly the supply-chain disruptions during the pandemic years that exposed the country’s vulnerabilities. Geopolitical conflicts such as the ongoing war in West Asia serve as a reminder of the persistent threat of larger disruptions. Over-dependence on a small group of nations – the United States, Japan, China, and South Korea – presents a critical constraint. A supply bottleneck originating from these countries due to political, economic or unforeseen events can have a debilitating effect on multiple domestic industries in India. A nation of India’s scale cannot be dependent on other countries in sectors vital to the economy and national security. India has a marginal footprint on the global semiconductor map. In 2024-25, its domestic market was estimated at $50 billion. The global market is projected to reach $1 trillion this year. This gap makes a case for India to urgently augment its capabilities.
+
+Developing a semiconductor ecosystem is extremely demanding, requiring massive and steady investment. This also needs to be complemented with technology upgrades and intellectual expertise. A large section of top-class Indian professionals in the field is based outside the country. This is where a targeted, comprehensive strategy to groom and retain domestic talent becomes crucial. Policy must also be directed towards shaping vibrant R&D spaces. This can be a structural shift that elevates the semiconductor sector and benefits the broader landscape of science and technology. At an operational level, the industry will require extensive infrastructure; this includes uninterrupted power supply and logistics at the highest levels of efficiency. Navigating these challenges on the technology and skill sides and reimagining innovation frameworks to meet global standards will determine the outcomes of India’s ambitious semiconductor mission.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/chip-dreams-meet-self-reliance-reality-4083704)
+
+---
+
+### A talent race ISRO can’t lose
+*Deccan Herald · Opinion*
+
+When I began my journalism career in Bengaluru in the 1990s, the beat assigned to me was the Indian Space Research Organisation (ISRO). It became a beat I came to know intimately over the years – reporting regularly on PSLV launches from Sriharikota, spending countless hours at Antariksh Bhavan and the ISRO Satellite Centre, and making visits to the Vikram Sarabhai Space Centre (VSSC) and the Liquid Propulsion Systems Centre (LPSC) in Thiruvananthapuram.
+
+Those years offered a close-up view of an institution that enjoyed an almost mythical status among India’s engineering graduates. A job at ISRO was not merely employment; it was a calling. Recruitment was infrequent, competition was intense, and young engineers prepared for the selection process with the same seriousness that civil service aspirants reserved for the UPSC examinations. Once inside, scientists rarely thought of leaving. The organisation offered something few others could: the opportunity to participate in nation-building at the frontiers of science and technology.
+
+That is why the recent headlines were so striking. More than 100 scientists are reported to have resigned or taken voluntary retirement from ISRO. India is entering the most ambitious phase of its space programme just as its institutional core is being thinned by an exodus of experience.
+
+Since the space sector was opened to private participation in 2020, startups such as Skyroot Aerospace, Agnikul Cosmos, Pixxel, Bellatrix Aerospace, Dhruva Space, and Digantara have transformed India’s aerospace landscape. They offer higher salaries, stock options, quicker career progression, and a faster, less bureaucratic work environment. For technically ambitious scientists, the attraction is obvious.
+
+Ironically, ISRO is, in many ways, a victim of its own success. Decades of investment in building scientific capability have produced an aerospace workforce that now fuels India’s emerging private space industry. Liberalisation has expanded the national space ecosystem, but it has also intensified competition for highly skilled talent.
+
+Not everyone agrees that this transition has been well managed. Former ISRO Chairman G Madhavan Nair argues that government policy has promoted private companies without proportionately strengthening ISRO itself. He contends that many private firms remain heavily dependent on ISRO-developed technologies and have yet to evolve into independent technology developers, raising an important policy question: should private industry complement ISRO’s capabilities, or compete directly for its most valuable resource: its experienced scientists?
+
+The timing could hardly be worse. Several high-profile missions, including the Gaganyaan G1 test flight, have slipped beyond announced schedules, while the twin PSLV setbacks disrupted launch activities. Delays are not unusual in complex engineering programmes. But when they coincide with the loss of experienced scientists, they create systemic risk. New recruits can be trained. What cannot be replaced overnight is judgment – the ability to detect a risk before it becomes a failure or make a marginal decision in a system where margins are everything.
+
+Correcting the course
+
+Some scientists leave for better pay. Others seek faster career progression. But organisational culture also matters. Current and former officials have suggested that decision-making has become increasingly centralised, slowing approvals and reducing professional autonomy. Beyond better compensation and clearer career progression, ISRO should consider lateral entry for specialised expertise, fixed-term appointments for mission-specific projects, structured sabbaticals between ISRO, academia and industry, and mechanisms that allow experienced scientists to leave and later return. Talent mobility should become a source of national strength rather than institutional weakness.
+
+India’s ambitions now extend far beyond launching satellites. Human spaceflight, a future space station, lunar exploration, deep-space missions, and a globally competitive commercial launch industry all require not only fresh talent but also a durable institutional brain. The country cannot pursue these ambitions while losing the scientists who accumulated decades of mission-critical experience.
+
+The answer is not to romanticise public service or demonise the private sector. The private space boom is good for India. It is creating innovation, investment, and export opportunities. But the public sector cannot become merely a training ground for private industry. If ISRO is to remain the anchor of India’s space programme, it must become a place where talent can grow, lead, and stay.
+
+That means giving scientists the confidence that they are not simply executing orders but shaping national history. It means preserving the prestige of ISRO not as a relic of the past but as a living institution capable of attracting – and retaining – India’s finest scientific minds. The real challenge before India’s space programme is not launching more rockets. It is keeping the people who know how to make them fly.
+
+(The writer is the author of Vaccine Nation: How
+
+Immunisation Shaped India)
+
+Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
+
+[Read full article](https://www.deccanherald.com/opinion/a-talent-race-isro-can-t-lose-4083701)
+
+---
+
+### After the water recedes
+*Deccan Herald · Opinion*
+
+Large parts of northern and northeast India are flooded yet again, triggering landslides and creating havoc. In 2025, the country recorded extreme weather on all but three of 273 days between January and September, according to an analysis by the Centre for Science and Environment. Germanwatch’s Climate Risk Index 2026 placed India ninth among the world’s most climate-affected nations over the past three decades, with roughly 80,000 lives and $170 billion lost to climate disasters since 1995.
+
+India is not alone in this reckoning. In the recent past, Nepal’s capital was drenched by relentless rain, Europe baked under a heatwave that pushed temperatures over 40°C and triggered wildfires from southern France to Greece, and over a hundred million Americans sweltered under heat alerts in South Dakota. These are geographically disconnected incidents but symptoms of one condition: infrastructure built for a stable climate is being tested by a variable, uncertain climate. This is the central insight of resilience science, which we can no longer ignore. Our spatial, social, and ecological systems, including roads, power grids, and drainage, are not isolated assets but complex, adaptive parts that influence each other’s behaviour. A blocked drain floods a substation, triggering a blackout that ripples far beyond the street – seemingly small disruptions cascading into large ones.
+
+The response so far has been to fund relief after the fact, but resilience science offers a different starting point. This begins with a distinction between three kinds of resilience: specific resilience (defence against one known threat), generic resilience (flexible capacity to absorb any shock), and undesirable resilience (systems that resist change even though they cause the harm).
+
+The first instinct to build stronger, higher barriers is ‘specific resilience’, designed for one well-understood threat. While they matter, an over-reliance on them carries a hidden cost. When a city builds higher flood barriers, it encourages more construction in the very areas the barriers protect. So, when a flood exceeds the wall’s design capacity, damage is catastrophic rather than contained. Resources spent strengthening one type of defence come at the cost of ‘generic resilience’ measures, such as wetlands, adaptive drainage, and community early-warning networks, which help a city cope with unexpected disruptions.
+
+The question our cities must keep asking is not simply ‘how do we make this resilient?’ but ‘resilient for what, for whom, and for how long?’ This question also demands honesty about ‘undesirable resilience’. Much of urban infrastructure, including car-dependent road networks and groundwater-guzzling development, has proven remarkably resistant to change, despite being the reason for deepening vulnerabilities we are struggling to manage.
+
+Real resilience sometimes means dismantling systems that have persisted rather than reinforcing them. It rests on three capacities working together: coping, adapting, and transforming. Coping capacity means restoring services fast; Brazilian engineers demonstrated this after the 2024 Rio Grande do Sul floods by repurposing existing hydraulic models to restore water services within days. Adaptive capacity reorganises systems as conditions change, like in Houston, where a defunct golf course was turned into a 200-acre wetland park that protects thousands of homes from flooding. Indian cities sitting on drained lakes and paved-over wetlands have similar opportunities, if we unlearn old assumptions about land use. Transformative capacity is the hardest and most necessary of the three. The Roof Over Our Heads campaign, which spans across the Global South, offers a template. Shifting the idea of who gets to decide what resilience looks like, the programme engages with residents of informal settlements to co-design climate-resilient housing rather than imposing solutions from above.
+
+Fast-track recovery financing
+
+This is an uncomfortable truth we must confront: our planners design for 50- or 100-year horizons, but conditions are changing faster than expected. Bengaluru’s stormwater drains, laid out decades ago around a network of lakes and wetlands that have since been built over, are already failing under the torrential rains we now face. This gives a preview of how today’s solution can become tomorrow’s stranded asset, or worse, ‘undesirable resilience’ baked into the city’s foundations. The alternative – treating each flood, heatwave, and cyclone as an isolated emergency – guarantees we relearn the same lessons at greater costs every year. Yet our financing architecture has not kept pace with this reality.
+
+The national and state disaster response funds, although critical, work only after damage is done. Financing post-damage recovery is the most reactive and least cost-effective form of resilience. What India needs is a policy shifting real money and authority towards adaptation and transformation before disaster strikes, not after. This means designing infrastructure for future climate risks; pre-committing a share of disaster funds to prevention, rather than relief alone; ending subsidies for ‘undesirable resilience’ such as construction on drained lakes; and giving informal settlements legal standing in planning, not just eligibility for relief.
+
+India also needs an independent body with authority to audit major infrastructure projects against resilience criteria before public money is committed. Paired with parametric insurance (payment agreements on the occurrence of a covered event that meets or exceeds a pre-defined intensity threshold) and risk-pooling mechanisms for states and municipalities, recovery financing could arrive within days of a verified disaster.
+
+The water will recede soon, as it always does. But the important question is whether we will rebuild the same systems or build ones equipped to bend, learn, and change before the next shock arrives.
+
+(The writer leads the Climate, Environment and Sustainability
+
+sector at the Centre for Study of Science, Technology and Policy [CSTEP], a research-based think tank)
+
+Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
+
+[Read full article](https://www.deccanherald.com/opinion/after-the-water-recedes-2-4083714)
+
+---
+
+### Bengaluru English: Locked in? Now clock it
+*Deccan Herald · Opinion*
+
+I recently discovered that I need subtitles to understand English in my own classroom.
+
+Before teaching a poem written in Indian English, I began my session with a simple activity. I asked my students to write words and phrases they use every day that are not English in the strict sense but have become part of their conversations. My Gen Z class went full rizz, which, they informed me, meant they were extremely excited that their English faculty would learn their language.
+
+Within minutes, the smart board looked like encrypted code, ready for me to decode.
+
+One student wrote, 'Wassup macha, chumma seen zone don't do.' Another added, 'We are cooked for MTTs, lowkey terrified. Lock in!'
+
+I spent the next few minutes walking around the classroom asking students what they had just written. Thankfully, they obliged. Macha meant friend; seen zone referred to reading someone's message without replying; cooked meant they were doomed for their mid-term tests; and lock in was a call to focus.
+
+Just when I thought I was catching up, another student wrote, "Hey Niggesh, you're a baller. You're a chomu. Looking like a baddie today. Clock it!" I understood almost nothing. They patiently explained that baller meant someone stylish or impressive, chomu was a playful insult, baddie referred to someone attractive and confident, and clock it simply meant notice that.
+
+The irony was not lost on me. Here I was, an English teacher, asking students to translate what was supposedly English.
+
+A few days earlier, I had attended an event on Mapping Bengaluru, where someone remarked that Bengalureans should stop taking language so seriously because "language is only meant for communication."
+
+After this class, I could not disagree more.
+
+Bengaluru English is more than a way of speaking, it is a living blend of Kannada, Tamil, Hindi, internet slang, gaming culture, memes and Instagram reels. It reflects the city's diversity, its migration stories, and the worlds young people inhabit online and offline, as much as school textbooks do.
+
+Language also carries history. Words like Niggesh, often used casually among youngsters, echo deeply offensive racial slurs, even if many speakers are unaware of their origins. Others casually reinforce stereotypes without much thought.
+
+Language is never just about communication. It is social, cultural and historical, constantly evolving, shaping our identities and creating a sense of belonging.
+
+As for me, I'm slowly locking in. One class at a time.
+
+Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
+
+[Read full article](https://www.deccanherald.com/opinion/locked-in-now-clock-it-4083702)
+
+---
 
 ## 22 July 2026
 
@@ -116,6 +399,37 @@ Yet it still appears that these voices are being lost in the babel of politics. 
 It is time the Prime Minister asks his education minister to vacate his seat and places someone with a sense of responsibility there. Democracy calls for the right action at the right time. Justice must be dispensed to all those children who died by suicide unable to stand the pressure of the cancellation and it must be dispensed without delay. The Prime Minister’s words have no meaning unless accompanied by appropriate action.
 
 [Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-pm-must-force-minister-to-quit-1972883)
+
+---
+
+### Bhopinder Singh | Why Wangchuk & Leaders On India’s Periphery Have To Face A ‘Loyalty’ Test
+*Deccan Chronicle · Opinion*
+
+India’s geographical margins have always been more than simply lines on a map. They are spaces where questions of identity, belonging and, most crucially, the meaning of being an Indian, are negotiated most intensely. Many of India’s socially, ethnically, linguistically and religiously distinct communities are concentrated along its frontiers in Jammu and Kashmir, Punjab, Mizoram, Manipur, Assam and other border regions.
+
+From a Centre-periphery perspective, these areas occupy a complicated position -- physically distant from New Delhi, and historically distinct from political mainstream, and often shaped by security concerns that rarely define everyday life in the Indian heartland.
+
+This distance matters. Border regions are frequently treated as strategic territories before they are recognised as lived communities. Their populations are often viewed through the prism of national security, insurgency and geopolitics, rather than through the ordinary democratic vocabulary of rights, representation and development.
+
+India’s experience with minority-majority states illustrates this tension. Muslim-majority Jammu and Kashmir, Sikh-majority Punjab, and Christian-majority Mizoram have, at different points since Independence, witnessed secessionist movements. These movements emerged from very different historical circumstances, ranging from political grievances and questions of autonomy to external influences and failures of governance. Minority identity alone did not create these conflicts. Yet, these episodes entrenched a security mindset within the Indian State, making the management of difference a matter not merely of democratic accommodation but also of territorial anxiety.
+
+The consequence has been a persistent ambiguity. For the State, the borderland identities can appear as potential vulnerabilities. For many communities living there, distance from the political centre can translate into feelings of neglect, suspicion and alienation. When majoritarian politics intensifies, these vulnerabilities become sharper. Communities with distinctive identities may find themselves increasingly asked to prove their loyalty rather than being presumed to possess it.
+
+The recent trajectory of Sonam Wangchuk, a celebrated climate activist from Ladakh, captures this changing political mood. Once hailed as a patriotic innovator, educator and nation-builder, Mr Wangchuk has increasingly been portrayed by some critics as a disruptive figure (even labelled “anti-national”) for raising constitutional, educational and developmental concerns. The significance of this transformation lies not merely in the treatment of one individual.
+
+It reflects a broader shift in which any kind of dissent emerging from India’s peripheral regions can be reframed as disloyalty, narrowing the space between the legitimate criticism of any government policy and suspicions over national allegiance.
+
+The rhetoric surrounding Mr Wangchuk is revealing. Some commentators have gone as far as portraying him as a “Chinese stooge”, a departure from the more familiar accusation of being a “Pakistani stooge”, often directed at political opponents. The underlying pattern is the same: geopolitical anxieties are imported into domestic political debates, allowing questions of identity and patriotism to overshadow the substance of disagreement.
+
+Such accusations carry a particular burden for citizens from the borderlands and minority communities. A dissenting Sikh may risk being labelled a “Khalistani”; a dissenting Muslim may be accused of being “pro-Pakistan”; citizens from the Northeast may find their loyalty questioned through the lens of China. These labels are neither universal nor representative of Indian society as a whole. But their repeated use in parts of the daily political discourse reveals a troubling tendency: the conversion of democratic disagreement into a test of national loyalty.
+
+The danger is not only political; it is psychological. A nation is held together not merely by constitutions, borders and institutions, but also by citizens’ belief that they belong equally within it. When minority communities in peripheral regions repeatedly encounter suspicion, they may begin to feel that their citizenship is conditional -- that they are accepted only when silent, compliant or culturally indistinguishable from the majority.
+
+Pandit Jawaharlal Nehru well understood this challenge when he described India as “a geographical and economic entity, a cultural unity amidst diversity and a bundle of contradictions held together by strong but invisible threads”. Those invisible threads were not simply administrative arrangements or territorial boundaries. They were the bonds of trust, mutual recognition and shared belonging that allow a diverse society to imagine itself as one nation.
+
+When individuals who have long been symbols of national contribution are suddenly recast as outsiders, those threads begin to fray. The issue is not Sonam Wangchuk alone. The...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/bhopinder-singh-why-wangchuk-leaders-on-indias-periphery-have-to-face-a-loyalty-test-1973141)
 
 ---
 
