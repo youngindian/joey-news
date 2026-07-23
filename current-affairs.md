@@ -1,3 +1,392 @@
+## 23 July 2026
+
+### Same-Sex Couples And Income Tax: How A Gold Bracelet Has Sparked A Big Legal Battle In India
+*Mohammad Haris · business*
+
+A petition in Kanataka High Court asks whether same-sex couples should receive the same tax exemption on gifts that is currently available to legally married couples.
+
+[Read full article](https://www.news18.com/business/tax/same-sex-couples-and-income-tax-how-a-gold-bracelet-has-sparked-a-big-legal-battle-in-india-ws-l-10228525.html)
+
+---
+
+### One in five CBSE Class 12 students requested answer sheets after 2026 results
+*India Today Education Desk · general*
+
+Responding to a question in Parliament, the Ministry of Education said that over 22 per cent of Class 12 candidates sought scanned copies of their answer books following the declaration of the 2026 board examination results.
+
+Out of the 17.69 lakh candidates who appeared in the Class 12 CBSE examination, 4.04 lakh candidates which is about 22.8 per cent of the total students, sought scanned copies of their evaluated answer books, while over 1.68 lakh candidates applied for verification of issues and/or re-evaluation, Minister of State in the Education Ministry Jayant Chaudhary said in a written reply to questions raised in Rajya Sabha.
+
+As part of the reduced fee structure for post-result services, CBSE received Rs 100 for each scanned copy of an evaluated answer book, Rs 100 for verification of issues observed in an answer book, and Rs 25 per question for re-evaluation. The re-evaluation fee is  
+refunded in full to candidates where marks increased following re-evaluation process, the Rajya Sabha reply added.
+
+The data comes in the backdrop of the Central Board of Secondary Education's (CBSE) first full-scale implementation of On-Screen Marking (OSM) for evaluating Class 12 answer sheets. Under the system, physical answer books were scanned and assessed digitally by evaluators across the country.
+
+### EVALUATION PROCESS, COMPLAINTS FROM STUDENTS
+
+The evaluation process, however, triggered complaints from several students, who alleged discrepancies such as incomplete scans, blurred pages, mismatched answer sheets and marking errors.
+
+CBSE allows students to first obtain scanned copies of their evaluated answer sheets before applying for verification of marks or re-evaluation. The board had also extended the deadline for obtaining scanned copies after candidates reported technical glitches on the application portal.
+
+The issue has also reached the Supreme Court, which recently sought the Centre's response on concerns surrounding the digital evaluation system after petitions alleged irregularities in the assessment process. The Centre has informed the court that the OSM process is under review and corrective measures are being examined.
+
+\- Ends
+
+Mridusmita Deka
+
+Jul 23, 2026 09:04 IST
+
+---
+
+### Google posts blockbuster quarter but Wall Street is worried about the bill
+*India Today Business Desk · general*
+
+## Alphabet reported a strong June quarter led by record Google Cloud growth and higher advertising revenue. Even so, investors focused on its bigger AI spending plan and the delayed Gemini rollout.
+
+Negative free cash flow of $5.9bn concerns investors.
+
+Alphabet, Google's parent company, reported a blockbuster June quarter on Wednesday as its cloud business posted record growth amid surging demand for artificial intelligence (AI). However, the strong results were overshadowed by the company's decision to raise its AI infrastructure spending to as much as $205 billion, sending its shares down about 3% in extended trading.
+
+The technology giant reported total revenue of $119.8 billion for the April-June quarter, comfortably beating Wall Street estimates of $116.9 billion. Advertising revenue, which remains Google's biggest business, also came in ahead of expectations at $81.6 billion, compared with analysts' estimate of $81.1 billion.
+
+Adjusted earnings stood at $2.85 per share, slightly below Wall Street expectations of $2.89 per share.
+
+### GOOGLE CLOUD STEALS THE SHOW
+
+The biggest highlight of the quarter was Google Cloud, which delivered its strongest growth ever.
+
+Revenue from the cloud business jumped 82% year-on-year to $24.8 billion, far ahead of analysts' expectations of around 64% growth.
+
+The sharp rise was driven by businesses around the world rushing to build, train and deploy AI applications, increasing demand for cloud computing services. The results further strengthen Google's position as the world's third-largest cloud services provider after Amazon Web Services (AWS) and Microsoft Azure.
+
+The company also recognised revenue from direct sales of its Tensor Processing Units (TPUs) for the first time during the quarter. TPUs are Google's in-house AI chips designed to compete with Nvidia's GPUs. However, Chief Financial Officer Anat Ashkenazi said most revenue from these business agreements is expected to come next year.
+
+### GOOGLE TO SPEND UP TO $205 BILLION ON AI
+
+While the quarterly results were strong, investors focused on one announcement made during the earnings call.
+
+Ashkenazi said Alphabet now expects capital expenditure of between $195 billion and $205 billion as it continues to expand its AI infrastructure.
+
+The latest guidance is significantly higher than the company's earlier estimate of $180 billion to $190 billion.
+
+She said Google has expanded its AI capacity significantly over the past three years, but demand continues to outpace available infrastructure.
+
+"We have increased our capacity quite significantly over the past three years. The demand still outpaces that investment," Ashkenazi said, adding that faster-than-expected capacity additions also contributed to the higher spending plan.
+
+She also reaffirmed that Alphabet expects another significant increase in capital expenditure in 2027.
+
+### WHY DID THE STOCK FALL?
+
+Despite reporting stronger-than-expected revenue, Alphabet shares fell about 3% in extended trading after the company announced the higher AI spending plan.
+
+The market reaction reflected growing concerns over the massive investments being made by Big Tech companies to stay competitive in AI.
+
+Adding to investor worries, Google reported negative free cash flow for the first time in its history, burning $5.9 billion during the quarter.
+
+Thomas Monteiro, senior analyst at Investing.com, said the higher capital spending after a negative cash flow quarter is likely to concern investors.
+
+"As long as revenue keeps accelerating, investors will tolerate it. But capital has a real cost again, and the room for error is shrinking every quarter," he said.
+
+### GEMINI DELAY REMAINS A KEY CONCERN
+
+Another major question during the earnings call was Google's progress in AI models.
+
+The company had delayed the launch of Gemini 3.5 Pro, its flagship AI model that was expected to strengthen Google's position in AI coding and autonomous AI agents.
+
+The delay has raised concerns that Google may be losing ground to rivals such as OpenAI, Anthropic and fast-growing Chinese AI companies, all of which have been releasing new enterprise-focused AI models at a rapid pace.
+
+Analysts repeatedly questioned CEO Sundar Pichai on whether Google could remain competitive at the cutting edge of AI development.
+
+Responding to those concerns, Pichai acknowledged that Google still has areas where it needs to improve.
+
+"We've had clearly frontier models. There are many attributes on which we are still at the frontier. There are areas where we've acknowledged we need to improve; coding and agentic coding is an example of that," he said.
+
+Pichai added that while Google continues testing Gemini 3.5 Pro, it has already started training Gemini 4 and is directing significant computing resources towards the next generation of models.
+
+"We are both very committed and very confident of being at the frontier for the next generation," he said.
+
+### AI SPENDING RACE INTENSIFIES
+
+Google's results underline how quickly spending on AI infrastructure is rising across the technology industry.
+
+The company said demand for cloud computing capacity continues to exceed supply as enterprises race to adopt AI.
+
+Alphabet is one of several technology companies making massive investments in AI. Big Tech firms are expected to spend well over $700 billion this year on AI infrastructure, while Morgan Stanley estimates the figure could exceed $1 trillion next year.
+
+For now, Google's cloud business continues to benefit from that spending boom. However, investors will be watching closely to see whether the company's massive AI investments, rising capital expenditure and delayed Gemini rollout translate into stronger long-term earnings.
+
+\- Ends
+
+Jul 23, 2026 08:58 IST
+
+---
+
+### Delhi Metro shuts 16 key stations as CJP protest swells. Check full list
+*India Today News Desk · general*
+
+## Sixteen Delhi Metro stations in central Delhi were shut on Thursday for security reasons as crowds grew at the Cockroach Janata Party's ongoing Jantar Mantar protest. The demonstration, demanding Dharmendra Pradhan's resignation over examination paper leaks, entered its third day after the 'Sansad Chalo' march.
+
+The Delhi Metro Rail Corporation (DMRC) has announced that 16 Metro stations will remain closed until further notice due to security reasons.
+
+Sixteen Delhi Metro stations in central Delhi, including Rajiv Chowk, Central Secretariat, Mandi House, ITO and Khan Market, were closed on Thursday morning until further instructions for security reasons, the Delhi Metro Rail Corporation said. The move came as crowds swelled at the Cockroach Janata Party's ongoing protest at Jantar Mantar.
+
+The protest, which is seeking Union Education Minister Dharmendra Pradhan's resignation and action over examination paper leaks, showed no sign of easing. Demonstrators continued their sit-in at Jantar Mantar for the third consecutive day after the July 20 'Sansad Chalo' march.
+
+In a post on X, the DMRC said, "Lok Kalyan Marg, Rajiv Chowk, Patel Chowk, Ramakrishna Ashram Marg, Barakhamba Road, Supreme Court, Seva Teerth, Janpath, Mandi House, Central Secretariat, ITO, Delhi Gate, Indraprastha, Khan Market, Jor Bagh and Shivaji Stadium metro stations have been closed till further instructions." It added that interchange facilities would remain available at Rajiv Chowk, Mandi House and Central Secretariat.
+
+During the July 20 march, Delhi Police used baton charges and tear gas shells to stop protesters from moving towards Parliament. The CJP has alleged that excessive force was used during the police action, while Delhi Police has said action was taken after protesters tried to breach security arrangements.
+
+The agitation began on June 20 and is demanding accountability over irregularities in competitive examinations, reforms in the education system, the resignation of Dharmendra Pradhan, and compensation for the families of students who died by suicide because of the paper leak.
+
+Activist Sonam Wangchuk, who joined the agitation on June 28 and has been on an indefinite hunger strike since then, said on Wednesday that he would end his fast if the Centre assured that no punitive action or FIRs would be taken against the students and young people who joined the protest. He is admitted to Medanta Hospital in Gurugram after being shifted there from Safdarjung Hospital following a Delhi High Court order.
+
+With the protest continuing at Jantar Mantar and crowds increasing, metro services remained affected in parts of central Delhi on Thursday, even as the demonstrators kept up their demands over the paper leak and police action during the march towards Parliament.
+
+\- Ends
+
+Sayan Ganguly
+
+Jul 23, 2026 08:55 IST
+
+---
+
+### FBI arrests Indian national in California over Canada-linked drug trafficking case
+*India Today World Desk · general*
+
+## The FBI arrested Indian national Harmanveer Singh in California over alleged links to the Ravinder Dhanda gang's drug network. The move deepens Operation Hard Ball's multinational crackdown on India-linked organised crime groups.
+
+The FBI has arrested an Indian national, Harmanveer Singh, for his alleged role in drug trafficking linked to the Ravinder Dhanda gang, which is based in Canada. The arrest is part of Operation Hard Ball, a coordinated international action targeting gangs run by Lawrence Bishnoi, Jaggu Bhagwanpuria and Ravinder Dhanda.
+
+Singh was arrested in Stockton, California, on Tuesday by officers of the California Highway Patrol, the FBI said on Wednesday. The agency said he was wanted for his alleged involvement in a transnational criminal organisation engaged in a conspiracy to distribute and possess controlled substances with intent to distribute, and a conspiracy to export controlled substances.
+
+The FBI said the Ravinder Dhanda Organised Crime Group is based in Vancouver, Canada, and allegedly smuggled bulk quantities of cocaine and methamphetamine for drug trafficking organisations across the United States, Canada and Mexico.
+
+On June 23, 2026, a federal arrest warrant was issued for Singh in the United States District Court, Central District of California, Los Angeles, after he was charged with conspiracy to distribute and possess with intent to distribute, conspiracy to export, and possession with intent to distribute controlled substances.
+
+Earlier this month, in a joint operation, law enforcement agencies in the United States, Canada and Europe arrested 24 people connected to three India-based transnational organised crime groups. Of them, 11 were arrested in California. In all, the US Department of Justice charged 37 people in the indictment as part of Operation Hard Ball.
+
+The arrest of Singh is the latest step in Operation Hard Ball, which has led to action across multiple countries against alleged members and associates of the three organised crime groups.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Jul 23, 2026 08:54 IST
+
+---
+
+### Better Roads, Cleaner Water: Maharashtra Launches Rs 44,800-Crore Fund To Transform 423 Cities
+*Apoorva Misra · general*
+
+Projects eligible for funding include digital governance, traffic decongestion, urban flood mitigation, riverfront development and relocation of dairy activities from urban areas
+
+[Read full article](https://www.news18.com/india/better-roads-cleaner-water-maharashtra-launches-rs-44800-crore-fund-to-transform-423-cities-ws-l-10228573.html)
+
+---
+
+### Amazon lays off AI team staff, says it wants to focus on what matters most for consumers
+*Armaan Agarwal · general*
+
+## Amazon has just announced job cuts. And this time, the layoffs have happened in the company's artificial general intelligence (AGI) unit, that develops its AI models. Here is all you need to know.
+
+Amazon is cutting back its AI team, here is why. (Photo: Reuters)
+
+In 2026, there seems to be no end to layoffs, with Amazon announcing its latest round of job cuts on Wednesday. This time, the company has laid off employees from its AGI unit, responsible for developing its frontier AI models. This comes just months after the American giant cut around 30,000 jobs globally.
+
+Amazon said that it had cut jobs from the AGI team, but did not disclose the number of employees affected. This comes at a time when Amazon says that it is focusing more on things its consumers want.
+
+Before we delve into why Amazon has cut AGI jobs, do note that companies like Microsoft, Meta, and others have also laid off thousands of workers in recent months.
+
+### Why did Amazon layoff workers from AGI team?
+
+Amazon’s AGI unit is focused on building AI models and also includes teams working on silicon development and quantum computing. This includes the company’s Nova AI models. AGI stands for artificial general intelligence – a state where AI can start thinking like humans, and potentially surpass human intelligence. Though AGI remains a long-term goal at the moment, with companies like Amazon and OpenAI working towards reaching it.
+
+However, the tech giant seems to be restructuring internally as it focuses more on what matters most to its customers. In a statement, an Amazon spokesperson said, "This is a fast-moving space, and we are sharpening our focus on the initiatives that matter most for customers, so we can move faster on what counts.”
+
+The spokesperson added, “That focus means some difficult decisions, including eliminating some roles within parts of our AGI organisation, even as we continue to invest in the areas most important to our customers' future."
+
+## Amazon worker says they got laid off after their birthday
+
+Some Amazon employees who were impacted by the layoffs shared the news on X. One person, Kyle Wong, said that they were laid off just a day after they turned 23. Kyle wrote, “Yesterday was my 23rd birthday. As a present, I got laid off from Amazon AGI!” He added, “Please reach out if you have any openings!”
+
+Kyle Wong claimed that he lost his job a day after his birthday.
+
+Another AGI employee, Miao Xiong, said that she was one of many who had lost their job in the team. She added that while she worked at filtering important data points for AI models, it was her job that was actually filtered out. Xiong wrote, “My job was deciding which data points matter for pretraining. Turns out I was the one that got filtered out.”
+
+Miao Xiong revealed a rather awkward encounter following the layoffs.
+
+Xiong said that the layoffs created an awkward situation within the team later as they received a meeting reminder for a project that no longer had anyone in it. She explained, “At 1 pm, the reminder for our weekly project sync still went off — for a project that no longer has a team. We could only exchange a smile that needed no words.”
+
+### Amazon severance package for impacted employees
+
+As per the company, affected employees in the US will receive 90 days of pay and benefits as part of the severance package. They will also get outplacement support, and transitional healthcare benefits.
+
+Despite the job cuts, Amazon says that it will continue to invest in AI. Amazon is scheduled to report its second-quarter results next week, and the company has forecast capital expenditure of $200 billion for the year, up more than 50 per cent from 2025, while raising tens of billions of dollars in debt to help fund its AI build-out.
+
+Apart from its own AI unit, the company also works with AI labs like OpenAI and Anthropic.
+
+The AGI unit has also seen leadership changes in recent months. Rohit Prasad, a senior Amazon executive overseeing AGI, left the company at the end of last year, and David Luan, the head of its AGI Lab, left in February.
+
+In December 2025, Amazon consolidated AGI work under senior vice-president Peter DeSantis as part of a larger group that also includes silicon development and quantum computing.
+
+DeSantis said last month that Amazon's models "have not been at the very frontier for the very largest, most demanding workloads", and added that the company was working to strengthen them further and hoped to build one of the "most capable intelligent models out there.” That is, Amazon still trails behind the likes of Anthropic and OpenAI when it comes to making advanced AI models.
+
+To give you some context over Amazon’s restructuring. The company cut about 16,000 jobs in January across teams including AWS, retail, Prime Video and human resources, after nearly 14,000 corporate roles were eliminated in October last year, taking total layoffs since then to roughly 30,000.
+
+\- Ends
+
+Armaan Agarwal
+
+Jul 23, 2026 08:51 IST
+
+---
+
+### Rape threat, private pictures: Nurse arrested for extorting Rs 2 crore from doctor
+*India Today News Desk · general*
+
+## A 65-year-old private hospital doctor in Rajasthan has alleged that a nurse who had been working at his hospital for a decade extorted almost Rs 2 crore from him over several years by threatening to implicate him in a false rape case, leak his private photographs and keep him under what he described as "digital arrest".
+
+The accused, identified as Kamla, was arrested after the doctor lodged a complaint accusing her of sustained blackmail and intimidation.
+
+A nurse has been arrested in Rajasthan's Barmer for allegedly blackmailing a 65-year-old private hospital doctor and extorting nearly Rs 2 crore over several years by threatening to leak his private photographs, implicate him in a false rape case and kill him, police said on Wednesday.
+
+The accused, identified as Kamla alias Kamlesh, was arrested after the doctor lodged a complaint accusing her of sustained blackmail and intimidation.
+
+According to the complaint, Kamlesh had been working as a nurse at the doctor's private hospital since December 2016, mostly on night shifts.
+
+The doctor claimed that she gradually gained access to his personal room on the pretext of making tea and secretly clicked his private photographs.
+
+He claimed that the photographs later became the basis of an extortion racket, with the nurse allegedly threatening to circulate them on social media, falsely accuse him of rape and even kill him if he refused to pay.
+
+The doctor told police that he continued paying money out of fear of losing his reputation and damaging the hospital's image. He claimed that he had paid her close to Rs 2 crore, including around Rs 35 lakh transferred directly from the hospital's bank account.
+
+The 65-year-old doctor also claimed that the accused forced him to sign blank cheques and stamp papers, which she kept in a bank locker.
+
+Furthermore, the doctor told police that the nurse had kept him under "digital arrest". According to his complaint, she gave him a separate mobile phone and SIM card and forced him to keep the device switched on 24 hours a day so she could monitor his movements.
+
+He also alleged that she obtained the passwords to the hospital's CCTV cameras and kept a constant watch on his activities through the surveillance system.
+
+According to the doctor's complaint, the accused made nearly 1,000 phone calls to him while he was in Ahmedabad for work. When he did not answer, she showed his private photographs to hospital staff.
+
+The doctor also told the police that on the night of April 3-4, 2025, she slept outside his residence and insisted on being allowed inside, an incident he said was captured on CCTV cameras.
+
+According to the complaint, Kamlesh, who was paid a monthly salary of Rs 12,000 as a nurse, allegedly continued to extort lakhs of rupees every month from the doctor despite receiving her regular wages.
+
+After her arrest, however, Kamlesh denied all the allegations. "The allegations against me are completely false. The doctor is trying to save himself," she said.
+
+Barmer Additional Superintendent of Police (ASP) Nitesh Arya said the woman was arrested based on the doctor's complaint and Rs 17,000 was recovered from her possession.
+
+"The doctor has alleged that a nurse working at his hospital blackmailed him using his private photographs and extorted nearly Rs 2 crore. He has also alleged that she threatened to implicate him in false cases and make the photographs public. After the complaint, the accused was arrested and further investigation is underway," Arya said.
+
+The officer added that investigators are examining the nature of the relationship between the two and the circumstances under which the blackmail and extortion took place. Police said further action will be taken based on the findings of the investigation.
+
+\- Ends
+
+With inputs from Dinesh Bohra
+
+Shipra Parashar
+
+Jul 23, 2026 08:49 IST
+
+---
+
+### Senior Delhi Cop Removed From Jantar Mantar Protest Duty After Video Shows Him Slapping Woman
+*Vani Mehrotra · general*
+
+Delhi Police removed Additional DCP Sandeep Lamba from protest duty after a viral video showed him slapping a woman protester during the CJP march.
+
+[Read full article](https://www.news18.com/india/delhi-cop-sandeep-lamba-removed-slapping-woman-protester-viral-video-cjp-protest-delhi-jantar-mantar-ws-l-10228467.html)
+
+---
+
+### 'Too Many Applications, Need Time': Ram Temple Trust Defers Appointment Of CEO By A Month
+*Pragati Ratti · general*
+
+The Ram Mandir trust received an overwhelming response to its nationwide recruitment drive, with around 5,200 applications pouring in for the post.
+
+[Read full article](https://www.news18.com/india/ayodhya-ram-temple-trust-defers-appointment-of-ceo-by-a-month-too-many-applications-need-time-ws-l-10228558.html)
+
+---
+
+### Want a happier home? These 5 plants are believed to bring peace and family harmony
+*SECTIONS Want a happier home These · business*
+
+Synopsis
+
+Many cultures believe certain plants promote love, peace and family harmony by creating a positive atmosphere at home. Popular choices include peace lily for calmness, lucky bamboo for balance and relationships, jade plant for loyalty and friendship, jasmine for emotional warmth, and tulsi for positivity and family unity. While there is no scientific evidence that plants directly improve relationships, caring for greenery can reduce stress, improve mood and create a calmer environment that encourages better communication and stronger family bonds.
+
+For many, plants serve as meaningful symbols of love, peace and togetherness. (Istock- Representative images)
+
+Can a houseplant strengthen relationships? While no plant can solve disagreements or replace honest communication, many cultures have long believed that certain plants encourage harmony, peace and positive energy within a home. In traditions such as Feng Shui and Vastu Shastra, these plants are thought to promote love, reduce negativity and create a more welcoming environment for families.
+
+Whether you follow these beliefs or simply enjoy surrounding yourself with greenery, these five plants are often associated with stronger relationships and a happier home.
+
+  
+
+## Do plants really improve relationships?
+
+There is no scientific evidence that any plant can directly improve relationships or resolve family conflicts. A 2025 study published in the International Journal of Environmental Research and Public Health found that tending to an indoor plant for one month significantly reduced perceived stress, depressive symptoms, negative emotions and rumination, while increasing resilience compared with a control group. A systematic review published in 2022 concluded that even small amounts of greenery can help reduce stress, although the strength of evidence varies across studies.
+
+  
+
+For many people, these plants serve as meaningful symbols of love, peace and togetherness. Whether appreciated for their cultural significance, natural beauty or calming presence, they can help make a home feel more inviting and harmonious.
+
+## Peace lily
+
+The peace lily is one of the most popular indoor plants linked with calmness and emotional balance. Its elegant white flowers symbolise peace, purity and reconciliation. According to Feng Shui, the plant is believed to absorb negative energy and encourage a more harmonious atmosphere. It also helps improve indoor air quality, making living spaces feel fresher and more relaxing.
+
+**Best placement:** Living room or a bright corner with indirect sunlight.
+
+  
+
+## Lucky bamboo
+
+Lucky bamboo is considered a symbol of prosperity, balance and positive relationships in Feng Shui. The number of stalks carries different meanings, with two stalks often representing love and partnership, while three symbolise happiness, wealth and longevity. Its simple appearance and easy maintenance have made it a favourite choice for homes where people want to create a peaceful environment.
+
+**Best placement:** East or southeast corner of the home.
+
+  
+
+## Jade plant
+
+Known as the friendship or money plant in many cultures, the jade plant is associated not only with prosperity but also with loyalty, trust and lasting relationships. Its thick, rounded leaves symbolise growth and stability. Many people believe gifting a jade plant strengthens friendships and family bonds while bringing positive energy into the household.
+
+**Best placement:** Near the entrance or in a bright indoor location.
+
+## Jasmine
+
+Jasmine is admired for its delicate white flowers and soothing fragrance. Traditionally, it has been associated with love, affection and emotional warmth. Many believe its pleasant aroma helps reduce stress, creating a calmer environment where family members communicate more openly. The fragrant blooms also make homes feel more welcoming and peaceful.
+
+**Best placement:** Sunny balconies, patios or near windows with plenty of light.
+
+## Tulsi
+
+Tulsi, also known as holy basil, holds deep cultural and spiritual significance in many Indian households. It is regarded as a symbol of purity, protection and well-being. According to Vastu Shastra, keeping a healthy tulsi plant at home is believed to promote positive energy, reduce conflicts and strengthen family unity. Beyond its traditional importance, tulsi is also valued for its medicinal properties and refreshing fragrance.
+
+**Best placement:** Courtyard, balcony or an area that receives several hours of sunlight.
+
+---
+
+### India Rebukes Pakistan Over Kashmir, Indus Waters Treaty, And Offers A Piece Of Advice
+*Meemansa Shekhawat · general*
+
+At a UN Council Meet, India reiterated that the Union Territory of Jammu and Kashmir has always been, is, and will remain an integral part of the country
+
+[Read full article](https://www.news18.com/india/india-rebukes-pakistan-over-kashmir-indus-waters-treaty-and-offers-a-piece-of-advice-ws-l-10228465.html)
+
+---
+
+### Rapid Action Force Explained: When And Why RAF Is Called In During Protests
+*Karishma Jain · general*
+
+The RAF does not replace the police but steps in as additional support when protests or public disorder risk escalating.
+
+[Read full article](https://www.news18.com/india/rapid-action-force-explained-when-and-why-raf-is-called-in-during-protests-10228513.html)
+
+
+---
+
 ## 22 July 2026
 
 ### Opposition's Delhi Showdown: Who Backed Rahul Gandhi On Delhi Streets, Who Stayed Away
