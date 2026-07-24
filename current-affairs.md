@@ -1,3 +1,296 @@
+## 24 July 2026
+
+### AI bill catches up with Wall Street: Tesla crashes 14%, Alphabet falls 7%
+*India Today Business Desk · general*
+
+Wall Street's enthusiasm for artificial intelligence (AI) faced a reality check on Thursday as investors punished two of the world's biggest technology companies for spending billions of dollars on AI while burning through cash.
+
+Tesla shares plunged about 14%, while Alphabet, Google's parent company, fell around 7% after both companies reported quarterly results that highlighted the rising cost of the AI race. The sell-off dragged the broader market lower, with the Nasdaq Composite dropping about 2.2%, the S&P 500 falling 1.2% and the Dow Jones Industrial Average losing 1%.
+
+The sharp fall suggests that Wall Street is becoming less willing to reward heavy AI spending without clear evidence that those investments are generating profits.
+
+### GOOGLE'S $205 BILLION AI BET
+
+Alphabet delivered a strong quarter on paper.
+
+The company reported revenue of $119.8 billion, beating Wall Street expectations of $116.9 billion, while Google Cloud revenue surged 82% to $24.8 billion as demand for AI computing continued to grow rapidly.
+
+However, investors looked beyond the strong revenue numbers after the company announced that it would raise its 2026 capital expenditure guidance to between $195 billion and $205 billion, up from its earlier estimate of $180 billion to $190 billion.
+
+Alphabet spent $44.9 billion on capital expenditure during the second quarter alone, nearly double what it spent a year earlier. Investors also reacted negatively after the company reported negative free cash flow, reflecting the enormous cost of building AI infrastructure.
+
+### TESLA'S FIRST CASH BURN IN TWO YEARS
+
+Tesla faced an even stronger market reaction.
+
+The electric vehicle maker's shares tumbled about 14% after reporting its first cash burn in two years, as spending on AI initiatives, Cybercab, the Optimus humanoid robot and other future technologies weighed heavily on profitability.
+
+Although Tesla's revenue rose 25.5% year-on-year to $28.24 billion, comfortably beating expectations, investors focused on weaker earnings and shrinking margins.
+
+Adjusted earnings fell to 33 cents per share, well below analysts' expectations of 50 cents.
+
+Operating expenses jumped 47%, driven by higher spending on AI, Cybercab, Optimus, Tesla Semi and stock-based compensation. As a result, operating income fell 57%, while operating margin narrowed sharply to just 1.4% from 4.1% a year earlier.
+
+Despite the weak profitability, Tesla continued to report strong operating metrics. Vehicle deliveries rose 25% to a record 480,126 units, while energy storage deployments increased 41% and Full Self-Driving subscriptions climbed 56% year-on-year.
+
+### WALL STREET WANTS RETURNS, NOT JUST SPENDING
+
+For much of the past two years, investors rewarded technology companies for aggressively investing in AI, believing those investments would drive future growth.
+
+Now, the market appears to be asking a different question: when will those investments begin generating meaningful returns?
+
+Daniel Skelly, Head of Morgan Stanley's Wealth Management Market Research and Strategy Team, told Reuters that markets were already under pressure from the correction in semiconductor stocks and were now facing additional concerns over rising capital expenditure by the "Magnificent Seven" technology companies, along with higher oil prices and geopolitical uncertainty.
+
+He said long-term AI growth drivers remain intact, but markets could remain volatile if large technology companies struggle to convince investors that their massive AI investments will translate into sustained earnings growth.
+
+### A SHIFT IN THE AI TRADE
+
+The reaction to Alphabet and Tesla suggests investors are becoming more selective about the AI theme.
+
+Companies can no longer rely solely on strong revenue growth to satisfy Wall Street. Investors are now paying closer attention to cash flow, profitability, margins and how quickly AI investments begin contributing to earnings.
+
+The sell-off shows that Wall Street is still willing to reward companies with clear AI-led revenue growth, but is increasingly penalising businesses where spending is rising faster than near-term profit visibility.
+
+The latest results from Alphabet and Tesla may therefore mark an important shift in investor sentiment—from rewarding AI spending at any cost to demanding stronger financial returns from the billions being invested.
+
+\- Ends
+
+Jul 24, 2026 08:52 IST
+
+---
+
+### Gujarat on red alert: Dangerous vortex to dump extreme rain, next 24 hours critical
+*India Today Science Desk · general*
+
+Gujarat is staring at an intense spell of rain as a nearly stationary atmospheric vortex continues to churn over the state, raising fears of flooding across Saurashtra and several adjoining districts over the next 24 hours.
+
+Weather analysts have warned that the vortex, which has shown little movement, is creating an extremely dangerous setup capable of producing prolonged, intense rain with very few breaks.
+
+The system, similar to a cyclonic circulation, is expected to dump large volumes of rain over Saurashtra overnight before expanding its impact to central parts of the state, including Ahmedabad.
+
+According to the latest weather assessment, the rain activity, which temporarily eased to light drizzle in several places on Thursday evening, is likely to intensify sharply after 2 am and continue into the early morning hours.
+
+Such weather systems are known for producing persistent downpours that can quickly overwhelm drainage systems, trigger urban flooding and inundate low-lying areas.
+
+Ahmedabad is expected to witness a significant increase in rainfall intensity during the overnight hours, with authorities and residents urged to remain vigilant.
+
+Heavy rain bands associated with the vortex could continue through the day, increasing the risk of waterlogging, traffic disruptions and localised flooding.
+
+The biggest concern, however, remains Saurashtra, where continuous heavy rain is expected to pound the region through the night.
+
+Rivers, streams and reservoirs may witness a rapid rise in water levels if the forecast materialises, while rural areas could face flash flood-like situations.
+
+Meteorologists describe the current setup as particularly dangerous because the vortex has become nearly stagnant.
+
+Unlike fast-moving weather systems, a stationary vortex can repeatedly pull in moisture from surrounding regions and unleash rain over the same locations for several hours, dramatically increasing flood risks.
+
+Residential buildings partially submerged after incessant rain in Gujarat's Navsari. (Photo: PTI)
+
+Residents living in flood-prone and low-lying areas have been advised to take precautionary measures well before the heaviest rain arrives. Those residing in vulnerable locations are being urged to move to higher floors of homes or buildings wherever possible, while avoiding unnecessary travel during periods of intense rainfall.
+
+Emergency agencies are expected to remain on high alert as the system evolves through the next day. Motorists have been advised to avoid waterlogged roads, while people living near rivers and streams should closely monitor local advisories.
+
+With the vortex showing little sign of weakening or moving away, the coming 24 hours are expected to be among the most critical of the ongoing monsoon season for Gujarat, particularly for Saurashtra and Ahmedabad, where relentless rainfall could quickly turn into a major flooding emergency.
+
+\- Ends
+
+Jul 24, 2026 08:52 IST
+
+---
+
+### US strikes Iran for 13th night as Houthi tanker attacks shake shipping
+*India Today World Desk · general*
+
+## The US struck Iran for a 13th consecutive night after Houthi rebels hit two Saudi tankers in the Red Sea. The escalation has widened the threat to Gulf shipping routes, lifted oil prices and sharpened calls for diplomacy.
+
+Image used for representational purposes only
+
+The US military carried out a 13th straight night of strikes on Iran on Thursday as the conflict widened around key shipping lanes in the region. The attacks came after Yemen's Iran-backed Houthi rebels said they had hit two Saudi oil tankers in the Red Sea, raising fears of a broader disruption to maritime trade and pushing Brent crude above USD 100 a barrel.
+
+As the military and political rhetoric sharpened, diplomatic efforts also picked up. President Donald Trump warned of "major military punishment" if the Houthi attacks on ships continued, while UN Secretary-General Antonio Guterres urged de-escalation and said the region was being pulled "into an ever-widening circle of confrontation". Iraq Prime Minister Ali al-Zaidi visited Tehran to call for peace and dialogue.
+
+US Central Command said the latest strikes ended shortly before 5 am local time. It said the attacks were meant to "further degrade Iran's ability to threaten civilian mariners and commercial vessels transiting regional waters" as the US tries to regain control of the Strait of Hormuz and restore the flow of international shipping.
+
+Shortly afterwards, Iranian state media reported explosions along the strait in Qeshm and Bandar Abbas, where two people were reportedly injured. Explosions were also reported to the northwest near Andimeshk, Omidiyeh and Firuzabad.
+
+The Houthis also threatened to shut down another major trade route, adding to the impact of Iran's closure of the Strait of Hormuz. Iran and the US have increased attacks as they compete for control of the strait, through which a fifth of the world's oil and gas moved in peacetime, triggering a rush to find alternative shipping routes.
+
+Trump said on social media that the US would hold Iran responsible for any fresh Houthi attack. "If they do this again, the US will hold Iran responsible, in that the Houthis are a Surrogate and/or Proxy of Iran, and major military punishment will be inflicted upon Iran and, of course, the Houthis, themselves," he wrote.
+
+The economic impact deepened as Brent crude, the international benchmark, rose more than 6 per cent on Thursday to about USD 100 a barrel. It was the highest level since May, before the two sides reached a preliminary peace agreement last month that has since collapsed.
+
+Al-Zaidi, whose country has close ties to both Washington and Tehran, was in the Iranian capital on Thursday and said Iraqi territory would not be allowed to be used for attacks on Iran, his office said. He had met Trump in Washington earlier this month. At the UN Security Council, Guterres said, "Diplomacy is the only way forward," and called for Pakistan's mediation efforts to be strengthened.
+
+The Houthis' SABA news agency said the rebels struck the tankers Encelia and Layla in the Red Sea, causing fires on both ships. There were no reports of casualties. It was the first reported Houthi attack on a vessel since the group announced a blockade of Saudi-linked shipping through the Bab el-Mandeb Strait earlier this week, saying it was in response to the kingdom's blockade on Yemen and a recent attack on the airport in Sanaa, the rebel-held capital.
+
+Bab el-Mandeb, at the southern tip of the Arabian Peninsula, is a key shipping chokepoint linking the Red Sea and the Gulf of Aden. Around 12 per cent of global trade, including a fourth of container traffic, passes through it on the route between Europe and Asia via Egypt's Suez Canal.
+
+Saudi Arabia's state-run news agency reported that an attack set the Encelia on fire overnight in the Red Sea, but did not mention the Layla. The United Kingdom Maritime Trade Operations Centre said it had received a report of a tanker being hit by "an unknown projectile" about 130 kilometres southwest of Al Shuqaiq in Saudi Arabia.
+
+Lloyd's List Intelligence said the Houthi attacks created a "double whammy" for oil shipments by threatening cargoes from Saudi Arabia's Yanbu port as well as trade already disrupted in the Strait of Hormuz. Saudi Arabia has rerouted millions of barrels a day of exports to Yanbu through an overland pipeline because the war has bottlenecked the Persian Gulf. Lloyd's said the Houthi threat "raises questions on the viability of this route". The rebels say they are blockading Saudi Arabia, but during their earlier blockade of Israel during the Gaza war, they targeted many vessels with little or no link to that conflict, disrupting global trade.
+
+Iran says it has the right to manage traffic and possibly charge fees in the Strait of Hormuz, which had been open to all toll-free before the war. It has attacked ships using a route through the strait that is overseen by US forces and meant to lie outside Tehran's control.
+
+Trump also said on social media that Iranian funds in US possession would be used to cover damage to ships hit in the war. "Please let this statement serve to represent, until further notice, that from this point forth, any and all damages done to Ships, Cargo, or anything 
+
+In response to Iranian attacks, the US has expanded its strikes across Iran and restored a naval blockade of Iranian ports. US Central Command said it has redirected about a dozen commercial vessels and disabled one since the blockade resumed.
+
+The exchange of threats also intensified. Iranian Foreign Minister Abbas Araghchi said Tehran would follow an "eye for an eye" policy over US strikes on its infrastructure. US Secretary of State Marco Rubio replied that Trump's policy was "a head for an eye". "The price will continue to get higher every single night until they come to their senses," Rubio told reporters while travelling in the Philippines for a regional summit.
+
+Iran's health ministry said on Thursday that 55 people had been killed and 629 wounded since renewed US airstrikes began on June 27. Iran has answered the attacks by targeting energy infrastructure and desalination plants that provide drinking water in neighbouring Gulf countries. Polls in the US have shown the war is unpopular, and the US House on Thursday narrowly passed a resolution calling for it to be halted, though the measure remained largely symbolic.
+
+The latest strikes, the Houthi attacks in the Red Sea, rising oil prices and increasingly sharp warnings from both sides underlined how the conflict has spread across the region's main shipping routes, even as diplomatic efforts continued.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Jul 24, 2026 08:40 IST
+
+---
+
+### Ken-Betwa activist Bhatnagar ends 18-day hunger strike on mother's request
+*SECTIONS Ken-Betwa activist Bhatnagar ends · business*
+
+Chhatarpur: Activist Amit Bhatnagar has ended his 18-day fast over displacement issues resulting from the Ken-Betwa river linking project and other irrigation schemes in Madhya Pradesh.
+
+Their mother persuaded him to end his fast after he reached his hometown Bijawar in Chhatarpur district, following his discharge from the hospital, Bhatnagar's brother Ankit told PTI.
+
+  
+
+"He was not keeping well. Our mother made him break the fast after he reached home," Ankit said.
+
+Chhatarpur Collector Parth Jaiswal said that Bhatnagar was shifted to his hometown on Thursday after his health improved. He had been admitted first to Bijawar Civil Hospital and later to the ICU of the district hospital after the police removed him from the protest site.
+
+The Chhatarpur police broke up the protest at Kupi village on July 19, citing rising water levels in the Barana river during the monsoon. Bhatnagar had then told PTI that his fast would continue.
+
+The protest began on July 3 beneath an under-construction bridge over the Barana river. Protesters demanded an inquiry into alleged irregularities in rehabilitation and payment of compensation to those displaced by the Ken-Betwa Link Project and other irrigation schemes, besides seeking statutory rights for affected families.
+
+They alleged large-scale corruption in the implementation of rehabilitation packages and sought an impartial probe to ensure justice for families yet to receive benefits.
+
+Bhatnagar had claimed that on the day the administration cleared the protest site, he was preparing to present documents to the media alleging irregularities worth Rs 400 crore.
+
+Before Bhatnagar ended his fast with coconut water, local organisation Jai Kisan Sangathan, which participated in the agitation, alleged in a statement that his family, journalists, social activists and fellow protesters were not allowed to meet him during his hospitalisation.
+
+It also claimed that women in several villages had launched a "chulha bandh" (no-cooking) protest in support of the agitation.
+
+The organisation quoted Bhatnagar as saying that his agitation was not directed against any individual, political party or government but sought to protect the constitutional, environmental and legal rights of tribal communities and project-affected families.
+
+He also described the administration's decision to undertake a fresh survey and constitute a joint inquiry team as a positive step, saying it would be a significant outcome of the agitation if implemented fairly and transparently.
+
+Collector Jaiswal said most of the complaints raised by the protesters 
+
+"If there is any complaint relating to Chhatarpur district, it should be submitted to us. It will be duly examined and necessary action will be taken. If they have a list of affected persons, they can also provide it to the administration," he said.
+
+The Rs 44,605-crore Ken-Betwa Link Project is the country's first river-linking project under the National Perspective Plan. It aims to irrigate 1.062 million hectares of land, provide drinking water to about 6.2 million people and generate hydropower in the drought-prone Bundelkhand region spanning Madhya Pradesh and Uttar Pradesh.
+
+---
+
+### One district, one demand: CJP's nationwide protest today, 2nd meeting with Centre
+*Amit Bhardwaj · general*
+
+A nationwide protest called by the Cockroach Janta Party (CJP) is set to take place today, with the outfit demanding the resignation of Union Education Minister Dharmendra Pradhan over the NEET paper leak controversy. Under the slogan "Every district. One day. One demand," the CJP has called for demonstrations across every district in the country. The outfit's leadership is also scheduled to meet the Union Ministers today and maintained that Pradhan's resignation remains its central demand despite the government's assurances on examination reforms.
+
+The nationwide mobilisation comes after a dramatic 24 hours that saw activist Sonam Wangchuk end his 26-day hunger strike following government assurances, Prime Minister Narendra Modi announce a proposed law providing for fast-track courts and stricter punishment in paper leak cases, and fresh political confrontation erupt both inside and outside Parliament.
+
+Parliament, meanwhile, is bracing for another showdown over the NEET row, with Opposition parties insisting that Pradhan must resign before either House takes up a discussion on the issue. Security has been tightened across Delhi ahead of the protests, with several Metro stations closed and schools in the national capital switching to alternative modes of learning due to the restrictions.
+
+## CJP PROTEST INTENSIFIES | TOP DEVELOPMENS
+
+-   Speaking exclusively to India Today TV, CJP spokesperson Saurav Das said Friday's protests were aimed at taking the movement beyond Delhi and "The idea behind the nationwide protest is to create Jantar Mantars across India". The outfit said protesters will express solidarity with students, parents and those injured during the July 20 police action in Delhi, also arguing that removing Union Education Minister Dharmendra Pradhan would be the "strictest action" the government could take. 
+    
+-   Activist Sonam Wangchuk ended his 26-day indefinite fast late Thursday after the Centre assured him it would consider his key demands and refrain from taking action against peaceful protesters. He said the decision, that came after meeting Union Ministers JP Nadda and Jitendra Singh, after the government assured that Parliament would take up the issues of accountability and no cases will be charged against protesters. 
+    
+    > END OF HUNGER... BEGINNING OF ACCOUNTABILITY...!  
+    > Sonam Wangchuk ends his fast after 26 days upon getting assurance from the government and members of parliament of all political parties that the issue of accountability in the failing examination system will be discussed on the… pic.twitter.com/0C9YX5VlsL — Sonam Wangchuk (@Wangchuk66) July 24, 2026
+    
+-   The CJP welcomed Wangchuk's decision, describing itself as "relieved and grateful" while thanking him for his sacrifice. It, however, asserted that its protest at Jantar Mantar would continue until Union Education Minister Dharmendra Pradhan resigns.
+    
+-   A CJP delegation is scheduled to meet Union ministers at the Constitution Club on Friday after the government agreed to hold talks at a neutral venue. The outfit said it would reiterate its four demands, including Pradhan's resignation, compensation for affected families and withdrawal of FIRs against peaceful protesters.
+    
+-   In a video message posted close to midnight, Prime Minister Narendra Modi announced that the Union Cabinet would consider a draft law providing for fast-track courts and stricter punishment in paper leak cases. He said the government would make every effort to secure Parliament's approval for the legislation during the ongoing Monsoon Session.
+    
+
+-   The Centre reiterated that it was prepared for a discussion on NEET and paper leaks in Parliament, accusing the Opposition of avoiding a debate. BJP leaders said the government had already agreed to a discussion and remained committed to examination reforms.
+    
+-   The Opposition has maintained that no discussion can take place unless Union Education Minister Dharmendra Pradhan resigns. It has continued to disrupt Parliament while pressing for accountability over the alleged paper leak and the police action against protesters.
+    
+-   17 Delhi Metro stations will remain closed today as security arrangements continue around the Jantar Mantar protest. Several schools in central Delhi altered operations due to traffic restrictions and Metro closures. While some shifted junior classes to hybrid learning, others resumed physical classes with revised transport arrangements.
+    
+-   Heavy security deployment continued around Jantar Mantar with barricades, traffic diversions and restrictions across central Delhi. Police also continued investigations into the July 20 violence, including identifying those involved in attacks on security personnel and damage to public property.
+    
+
+\- Ends
+
+Jul 24, 2026 08:37 IST
+
+---
+
+### NEET protest update: Sonam Wangchuk ends fast after PM Modi's assurance
+*ET Online · business*
+
+Activist Sonam Wangchuk ended his 26-day hunger strike after Prime Minister Narendra Modi announced stricter action against paper leaks, including a proposal for fast-track courts and tougher punishment. Wangchuk said he broke his fast after discussions with Union Ministers and would explain the con...
+
+[Read full article](https://economictimes.indiatimes.com/news/india/neet-protest-update-sonam-wangchuk-ends-fast-after-pm-modis-assurance/videoshow/132595249.cms)
+
+---
+
+### Jammu & Kashmir: Massive damage to power infrastructure in Rajouri in flash floods; restoration work underway
+*Unknown · business*
+
+Rajouri (Jammu and Kashmir): Recent flash floods in Jammu and Kashmir's Rajouri district caused major damage to the local power infrastructure, washing away 15 transformers and damaging roughly 200 others, causing widespread disruption to electricity supply across the district, Power Development Department (PDD) authorities stated.
+
+Rajouri Power Development Department (PDD) Executive Engineer, Javed Akhtar, stated that power restoration work is currently underway on a war footing. Electricity has already been restored in several affected areas, while restoration work continues in the remaining locations.
+
+Senior PDD officers, engineers, field staff, and labourers are working together around the clock to restore the damaged network. Due to the scale of destruction, additional manpower was deployed, and local residents are also assisting the department in the restoration efforts.
+
+  
+
+The operation remains challenging as several electric poles were either washed away or severely damaged by the floods. Despite these difficulties, the PDD continues its large-scale restoration drive to restore power to all affected areas as quickly as possible.
+
+Earlier this week, continuous rainfall in Reasi and upper catchment areas triggered a surge in water inflow into the Salal reservoir, prompting authorities to open all gates of the dam to regulate the rising water level.
+
+The increased inflow and release of water from the dam have caused the Chenab River to swell, with strong currents and elevated water levels being witnessed downstream.
+
+Heavy rainfall lashed the Reasi region for several hours, leading to a significant rise in water inflow into the Chenab River and Salal Dam reservoir. Authorities closely monitored weather conditions and the river's water level.
+
+People, particularly those living in low-lying areas and along the banks of the Chenab, have been advised to remain vigilant and avoid venturing close to the river.
+
+Since Tuesday morning, the district administration and Rajouri Police issued advisories urging residents to remain alert amid fears of rising river water levels, flash floods, landslides and waterlogging.
+
+People have been asked to remain indoors unless travel is essential and cooperate with the administration. In case of an emergency, residents have been advised to immediately contact the local administration or emergency services.
+
+---
+
+### CJP, Centre set for 12:30 pm talks at Constitution Club; Pradhan's resignation among key demand
+*TOI News Desk · regional, india*
+
+CJP-Centre meeting to be held today (ANI)
+
+NEW DELHI: The Cockroach Janta Party (CJP) delegation will meet Union ministers at the Constitution Club of India at 12.30 pm on Friday, after the Centre agreed to hold talks at a neutral venue—a key demand raised by the outfit during its ongoing agitation over the NEET row.The meeting comes a day after activist Sonam Wangchuk ended his 26-day hunger strike at Medanta Hospital in the presence of Union ministers JP Nadda and Jitendra Singh, paving the way for formal discussions between the government and the protesters.
+
+Confirming the development, CJP chief spokesperson Saurav Das said the organisation welcomed the government's decision to shift the talks to a neutral venue."Our protest will continue; Constitution Club of India chosen as venue for meeting with government ministers, hoping for an open-minded dialogue," Das told reporters on Thursday.
+
+CJP spokesperson Vaishnavi Gaur said the delegation would place the same demands it has been raising since the protests began."We will be putting forward our demands, which we have been consistent with from the first day," she said.According to Gaur, the key demands include the resignation of Union education minister Dharmendra Pradhan, compensation for the families affected by the NEET controversy, and withdrawal of all FIRs registered against what she described as "innocent protesters."
+
+'Peaceful protest will continue'Following Wangchuk's decision to end his fast, CJP founder Abhijeet Dipke thanked him for what he called an extraordinary act of courage."We are relieved and grateful that Sonam sir has ended his hunger strike after 26 days. Thank you for your extraordinary courage and sacrifice. By putting your own life on the line, you awakened the conscience of an entire nation. Your life is far too precious to this country," Dipke wrote in a post on X.Despite Wangchuk ending his fast, the CJP has maintained that its peaceful protest at Delhi's Jantar Mantar will continue until its demands, including Pradhan's resignation, are addressed.
+
+---
+
+### ‘Ran from one hospital to another’: A mother’s ordeal to save son injured in Sansad Chalo march
+*Sugandha Jha · regional*
+
+NEW DELHI: For nearly 12 hours, Jyoti Lochab ran from one hospital to another, pleading for someone to admit her 19-year-old son, who suffered what doctors said were “pellet-like injuries” to his right eye during the July 20 Sansad Chalo march.“He was lying there in pain while we kept being sent from one hospital to another. He kept telling me, ‘Mummy, meri aankh mein bahut dard hai.’ We folded our hands before doctors. Somehow, after spending the entire night running around, AIIMS admitted him,” she said.Delhi Police has denied allegations that pellet guns were used during the protest.Jyoti said she tried calling Sahil repeatedly that afternoon after asking him not to attend the march, but he did not answer.
+
+“We told him there could be violence and asked him not to go. But he said, ‘I’m also a student. I’ve also appeared for these exams. I should go’,” she recalled.Around 5.30 pm, she received a call from a friend of his, informing her that Sahil was admitted to Lady Hardinge Hospital. She and her brother rushed to the hospital.On Thursday, the teenager lay on a hospital bed with his right eye covered by a thick white bandage. Tiny marks were visible across his neck and upper chest.
+
+A day after undergoing surgery, Sahil recounted how a day he believed would be just another student protest changed the course of his life.“Around 3.30pm, something struck my arm and eye. My face was turned away. My arm went numb instantly. I couldn’t think properly... When I touched my eye, I felt like it was coming out. I held it in place with my hand and started running. I stopped a biker and requested him to take me to Lady Hardinge Hospital,” he said.The family’s ordeal had only begun. Jyoti said doctors at Lady Hardinge Hospital conducted preliminary examinations before asking them to shift Sahil elsewhere, saying specialised eye treatment was unavailable. The family then rushed him to two other hospitals, where Jyoti said she was told no eye specialists were available at night. They eventually turned to AIIMS where, after first being sent to the eye centre and then back to the trauma centre, Sahil was finally admitted around 4-5am the following morning.A distance-learning student, Sahil had appeared for the SSC examination last year, which was later cancelled amid allegations of irregularities, and believed students deserved justice. “I had hoped to join the police or another uniformed force. If I lose my eye, that dream is over,” he said. The family’s fears have only deepened after doctors informed them the chances of restoring vision in his right eye were slim.Originally from Haryana, the family lives in a rented accommodation in Najafgarh. Sahil is the eldest of three siblings. His mother said the family had pinned its hopes on him securing a govt job.“His father works as a driver. Doctors have told us there is less than a 1% chance of saving his eye. I only want the govt to help him with compensation and a govt job,” she said, adding that neither the govt nor CJP had reached out yet.Sahil is the fourth reported case of pellet-like injuries from the Parliament march. A doctor on duty at AIIMS Trauma Centre said Sahil’s condition was stable and he is being managed with antibiotics and pain medication, but multiple pellet-like objects are still lodged beneath his skin and further treatment would be decided by specialists.
+
+
+---
+
 ## 23 July 2026
 
 ### Same-Sex Couples And Income Tax: How A Gold Bracelet Has Sparked A Big Legal Battle In India
