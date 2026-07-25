@@ -1,3 +1,449 @@
+## 25 July 2026
+
+### Kerala Lottery Result Live: Karunya KR-762, July 25, 2026 Winners | News18
+*Nibandh Vinod · general*
+
+Kerala Lottery Result Today: Karunya KR-762 result will be declared today, on Saturday, July 25. Check the live updates and full list of winning numbers from 3 pm.
+
+[Read full article](https://www.news18.com/india/kerala-lottery-result-today-karunya-kr-762-july-25-live-10230831.html)
+
+---
+
+### 'Have A Heart': Sonam Wangchuk's Wife Appeals For Empathy, Says He Lost 11 Kg In 26-Day Fast
+*Aanchal Sinha · general*
+
+Appealing for empathy, Angmo added, "Not everyone is qualified to judge a life of selfless service. One must first earn the moral stature to do so. Please..Have a heart."
+
+[Read full article](https://www.news18.com/india/have-a-heart-sonam-wangchuks-wife-appeals-for-empathy-says-he-lost-11-kg-in-26-day-fast-ws-l-10232468.html)
+
+---
+
+### Why Did Jhandu Kumar Miss Out On Commonwealth Games 2026 Gold? Coach Reveals 'Miscommunication'
+*Unknown · sports*
+
+Rajinder Singh Rahelu, coach of Jhandu Kumar, said that their target was a gold medal but the para powerlifter missed out on the top spot at the Commonwealth Games 2026 due to a 'miscommunication'.
+
+[Read full article](https://sports.ndtv.com/commonwealth-games-2026/why-did-jhandu-kumar-miss-out-on-commonwealth-games-2026-gold-coach-reveals-miscommunication-11819207)
+
+---
+
+### India's 'Bhargavastra' counter-drone system demonstrated to Army, Navy and Air Force
+*Unknown · business*
+
+SOLAR DEFENCE
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/indias-bhargavastra-counter-drone-system-demonstrated-to-army-navy-and-air-force/videoshow/132618128.cms)
+
+---
+
+### ‘We’re here for the kids’: How Mumbai’s Gen Z paperleak protest became a family affair
+*Sabah Virani · legal*
+
+Rajesh Yadav at Shivaji Park on Friday with his daughter Annaysha, 19. "We are here for my daughter's future but also for a better education system for all," he said. (Express photo)
+
+On the sixth day of protests, **Shivaji Park looked every bit** like a Gen Z gathering. A DJ blasted Bollywood songs, meme-filled placards bobbed above the crowd, and almost every moment was being documented for Instagram.
+
+But threaded through the sea of young faces was another generation entirely.
+
+Parents, grandparents and aunts had turned up not to lead the protest, but to stand beside it. Some came because their children wanted to. Others came for children who stayed home. Many had no direct stake at all, but believed the movement was fighting for the future of an entire generation.
+
+“I am here for the kids,” said Shoiba Shaikh, 40, chained at the wrist to her excited 13-year-old daughter, Zoya, who darted around documenting every angle for social media. “This,” she said, pointing at their chains, “is so that she does not get lost or stuck in a situation.”
+
+A short distance away stood Mohammed Momin, 36, watching from the edge of the crowd with one of his three-year-old twins perched on each arm. Nearby, three generations stood together, grandmother, mother and toddler.
+
+“I am here for my son’s future, just as my mum was there for mine,” said Janessa Monteiro, 32.
+
+ Mohammed Momin, 36, watched from the edge of the crowd at Shivaji Park on Friday, a three-year-old twin on each arm. (Express photo)
+
+The youngest protesters had their own reasons for turning up. “I may be small now, but when I grow up, I will want to be someone and the problems of today will be my problems. Why should I wait for then to start fighting for it to be fixed?” asked 12-year-old Malika Khan, who had come from Antop Hill with her grandmother, Zikra Khan, 60.
+
+Story continues below this ad
+
+Some parents came even without their children. Bharat Sonawane, 57, held a placard reading ‘Here for my son’, although his son, who is not a NEET aspirant, had chosen not to attend.
+
+Others came because their children asked them to. Sameer Sawant and his wife accompanied their 11-year-old daughter, Saishvari, so she could experience her first protest. Rajesh and Farzana Yadav came with their 19-year-old daughter, Annaysha. “We are here for my daughter’s future but also for a better education system for all,” Rajesh said. “There needs to be accountability. No one in the government has provided any answers on the paper leaks.”
+
+For some families, a specific moment pushed them into the streets. Businessman Suresh Jog, his wife, advocate Darshana Jog, their two children and two cousins had followed the CJP movement from its early days. The police action against protesting students at Jantar Mantar, they said, convinced them to join. “What happened there was completely against students’ democratic right to protest,” said Darshana.
+
+Suresh said the problem ran well beyond NEET and JEE, pointing to the Maharashtra TET paper leak and reported irregularities in Mumbai University’s examinations. “It seems to be a never-ending cycle, which is why a movement like this has become necessary,” he said.
+
+Story continues below this ad
+
+ Shoiba Shaikh, 40, chained at the wrist to her 13-year-old daughter Zoya at the protest at Shivaji Park, Dadar, on Friday. “This is so that she does not get lost or stuck in a situation,” she said. (Express photo)
+
+For Goregaon-based businessman Saurabh Tiwari, who attended with his wife and school-going son, the turning point was the CBSE on-screen marking controversy. “I was shocked that after the on-screen marking controversy, the government questioned students instead of taking responsibility for the failure. If we do not stand up now, this will continue,” he said.
+
+Others said they had come despite having no personal stake. Leela D’Souza from Andheri said her children had completed their education years ago. “But when I saw this movement taking shape, I felt I had to be a part of it. Finally, there is a generation demanding accountability from the government. The least I can do is stand beside them and show that the youngsters have our support,” she said.
+
+Powai resident Zainab Kutiyanawala travelled with three family members, though her 10-year-old daughter stayed home. “Hats off to Gen Z for taking the responsibility of bringing about a revolution. We don’t want the next generation to go through the same struggles that we, as millennials, faced,” she said.
+
+For four Class 12 students from the same building in Mira Road, including a NEET aspirant, an aunt made the difference. Tabassum Khan, 34, volunteered to accompany them. “It didn’t take much convincing, as their parents too believe in their fight,” she said. “I have a small son, who is at home. I want to support the children in their fight for their rights now, so that my son doesn’t face the same problems when he is older.”
+
+Story continues below this ad
+
+Not every young protester had their family’s blessing. “I’ve come without telling my parents to avoid the unnecessary fight as they would be scared for my safety, although I know if something were to happen, they would have my back,” said Raina, a 19-year-old design student who came with friends.
+
+Nishant Lipte, a third-year medical student from Sion Hospital, came in his white coat despite an approaching exam and his father’s warning against joining.
+
+As the protest stretched beyond its scheduled closing time, families lingered even as the crowd began to thin. Among the last to leave were those with no children at all. “We were just about getting dejected in this generation,” said Sandha Gokhale, 72. “But this protest has shown us cause to rejoice. This resistance is like oxygen to us.”
+
+Sabah Virani is a journalist with The Indian Express’ Mumbai bureau, covering infrastructure, housing and urban issues. In the realms of technical fields, she brings out human stories and the pace of change ongoing in the city. Expertise Specialised Role: Tracking infrastructure in Mumbai and the wider Mumbai Metropolitan Region (MMR), Sabah’s reporting tracks progress on various projects. From bridges to metros, she mixes technical details with resourceful information. Core coverage areas: Sabah keeps a close eye on the activities of the Mumbai Metropolitan Region Development Authority (MMRDA) and its projects across the MMR, including the metros, road projects, bridges, the bullet train, pod taxi, its role as a planning authority, and more. She also watches for developments from the Maharashtra State Road Development Corporation (MSRDC), City and Industrial Development Corporation of Maharashtra (CIDCO) and the GoM’s Urban Development department. Housing: Sabah also tracks developments in housing, particularly the workings of the Slum Rehabilitation Authority (SRA). She also keeps a keen watch on the big redevelopment projects ongoing in Mumbai, including the Dharavi Redevelopment Project, Motilal Nagar, Kamathipura, BDD Chawl redevelopment, among others. Occasionally, she reports on the environment, biodiversity, waste, arts and culture. Experience: Prior to working for the Indian Express, Sabah covered the municipality, civic issues and miscellaneous for Hindustan Times. Before that, she covered all things Mumbai for the online publication Citizen Matters. She has also worked as an editorial assistant at FiftyTwo.in.   ... 
+
+Pallavi Smart is a Principal Correspondent with The Indian Express, Mumbai Bureau. Her reporting is singularly focused on the education sector, demonstrating exceptional Expertise and Authority across the entire spectrum of learning, from foundational schooling to advanced higher education. She is a highly Trustworthy source for policy, institutional developments, and systemic issues affecting students, teachers, and parents in Maharashtra. Expertise Senior Role: As a Principal Correspondent at The Indian Express, her designation reflects her seniority, specialized knowledge, and the editorial rigor applied to her reporting. Core Authority & Specialization: Pallavi Smart is the definitive voice for Education news in the region. Her coverage scope is comprehensive: Policy and Regulatory Changes: Reports on major shifts in educational policy, including the restructuring of entrance exams (e.g., MHT-CET adopting the JEE Main model), the draft regulatory framework for coaching classes, and revised teacher recruitment processes. Higher Education Institutions (HEIs): Provides in-depth reporting on prestigious institutes like IIT Bombay and TISS (Tata Institute of Social Sciences), covering institutional initiatives, administrative debates (e.g., renaming IIT Bombay), and student welfare programs (e.g., mandatory mental health courses). Teachers and Eligibility: Covers crucial issues affecting the teaching fraternity, such as the mandatory Teacher Eligibility Test (TET) for in-service teachers and 
+
+**Stay updated with the latest - Click here to follow us on Instagram**
+
+-   Tags:
+-   CJP Protest
+
+---
+
+### Meta AI gets smarter: It can now plan your day, do research, and create presentations
+*Tech Desk · legal*
+
+Meta says its enhanced AI assistant can now perform more complex tasks on behalf of users. (Express Image/Meta)
+
+Meta has introduced a major upgrade to its AI assistant, launching a new set of capabilities that allow it to move beyond answering questions and actively complete tasks on behalf of users. It is powered by the company’s latest Muse Spark 1.1 model. The enhanced Meta AI can now make plans, connect with apps such as email and calendars, conduct research, generate presentations, and more.
+
+Meta describes the announcement as its next step toward building personal superintelligence – an AI assistant that understands a user’s context, works proactively and carries out tasks with minimal intervention. Rather than requiring repeated prompts, the upgraded assistant is designed to plan, execute and follow through on requests from start to finish.
+
+According to Meta, users can now ask the AI to handle multi-step activities such as planning a home renovation, preparing a fitness schedule or organising an event. For instance, someone renovating a kitchen can have Meta AI understand their preferred style, search Marketplace for furniture and fixtures within a budget, and create a visual mood board.
+
+Similarly, the assistant can build a personalised half-marathon training plan that adjusts to a user’s schedule and sends weekly updates. It can also help organise events by checking calendars and suggesting suitable dates and venues.
+
+Meta says the AI can provide daily briefings by summarising calendar events, highlighting scheduling conflicts and notifying users about changes to planned activities. It can also generate recurring meal plans, send alerts for product launches such as sneaker releases or provide regular updates on topics users follow.
+
+Beyond productivity features, Meta AI is gaining research capabilities. The company says the assistant can synthesize information from across the web, from research papers to content shared by creators and communities on its apps. After compiling information, users can ask the AI to transform its findings into presentation slides.
+
+While the AI is generating reports or presentations, users can edit the output in real time by asking it to change the focus, adjust the tone or remove sections before the task is complete. All AI-generated content, including presentations, training plans and mood boards, will be stored in one place for future access and sharing.
+
+Story continues below this ad
+
+The new experience is enabled by Muse Spark 1.1, which Meta says is built to work with users’ apps, plan tasks and follow through from start to finish. The company says these capabilities power both the Meta AI app and Meta.ai, expanding the assistant from a conversational chatbot into a system capable of taking action on a user’s behalf.
+
+The features have begun rolling out in select markets through the Meta AI app and Meta.ai. Meta said availability will expand to more countries and additional platforms, including WhatsApp, in the coming weeks. Users will also continue to have access to Incognito chats for private conversations within the assistant.
+
+---
+
+### Bihar Bandh today, July 25: Why AISA has called a statewide protest, who is leading it and how commuters may be affected
+*Trending Desk · business*
+
+Synopsis
+
+Bihar Bandh news: A Bihar bandh has been called today by AISA and student groups over education reforms and the resignation of the Union Education Minister. Heavy security is in place across the state, including capital Patna, with some student leaders detained. Commuters should expect potential disruptions and traffic diversions in various areas.
+
+AISA said nearly 100 volunteers would be deployed in Patna to help manage the march.
+
+A Bihar bandh called by the All India Students' Association (AISA) is being observed across the state on Saturday (July 25), with student groups holding protests to demand education reforms, NEET paper leak, and the resignation of Union Education Minister Dharmendra Pradhan. The bandh has prompted heavy security arrangements in Patna and other districts, while commuters have been advised to expect disruptions in some areas.
+
+Authorities have deployed police and paramilitary personnel at key locations, and several student leaders were detained ahead of the protests.
+
+**
+
+  
+
+## What is the Bihar bandh about?
+
+The Bihar bandh has been called by AISA and other student organisations to highlight student issues, seek reforms in the education sector and press for the resignation of Union Education Minister Dharmendra Pradhan over the NEET paper leak.
+
+AISA was scheduled to hold a youth and student march on Friday but postponed it to Saturday, saying heavy police deployment in Patna prompted the decision.
+
+**
+
+Before her arrest, AISA state vice-president Saba Afreen said protesters had been asked to exercise restraint and ensure the demonstration remained peaceful so that the focus stayed on their demands.
+
+  
+
+## How could the Bihar bandh affect you?
+
+People travelling in Bihar on Saturday may face:
+
+-   Traffic diversions and road blockades in parts of Patna and other districts
+-   Delays in public transport in protest-hit areas
+-   Increased police checking and security at major junctions
+-   Congestion near universities, coaching hubs and government offices where demonstrations are expected
+
+While no statewide closure of schools, banks or government offices has been officially announced, commuters are advised to check local traffic updates before travelling.
+
+**
+
+## Heavy police deployment across Bihar
+
+Security has been tightened across the state ahead of the bandh.
+
+According to police:
+
+-   More than 22 FIRs have been registered in connection with violence during the July 22 NEET protest.
+-   Around 60 people have been arrested.
+-   14 companies of police and paramilitary forces have been deployed in Patna district.
+
+Patna SSP Kartikey Sharma said 90 people had been identified for allegedly trying to disturb peace through social media, adding that action was being taken against them.
+
+## Student leaders detained before the protest
+
+Ahead of the Bihar bandh, police detained several leaders associated with the protest movement.
+
+Those detained include:
+
+-   CPI(ML) MLA Sandeep Saurabh
+-   AISA state secretary Dipankar
+-   Patna University president Saba Afreen
+
+In a video recorded before his detention, Saurabh alleged that police had detained everyone present at his residence, including visitors.
+
+He accused the administration of creating an atmosphere of "pressure and terror" in Patna and claimed the government was unwilling to listen even though the students' demands were "very clear, straightforward and justified."
+
+## AISA says volunteers will ensure peaceful protests
+
+AISA said nearly 100 volunteers would be deployed in Patna to help manage the march.
+
+Organisers said volunteers would use microphones to maintain order and repeatedly appeal to protesters not to heckle media personnel.
+
+The organisation has also shared helpline numbers on social media for reporting miscreants and said legal assistance would be provided to protesters if required.
+
+## Bihar government urges restraint
+
+The Bihar government has directed district administrations and police officials to deal with the protests with sensitivity while maintaining law and order.
+
+At a high-level review meeting chaired by Chief Secretary Pratyaya Amrit, officials were instructed to ensure innocent students were not harassed and to promptly counter rumours and misinformation.
+
+DGP (Operations) Kundan Krishnan also asked police officers to engage with students in an "empathetic" manner and avoid an "aggressive" approach.
+
+Officials have additionally been directed to gather attendance records from coaching institutes and interact with students at Ambedkar hostels and student forums to address their concerns.
+
+_(With TOI and PTI inputs)_
+
+---
+
+### SEBI bars former Axis MF chief dealer Viresh Joshi from market for 7 years
+*George Mathew · legal*
+
+SEBI also slapped Rs 3 crore penalty on Viresh Joshi and a total of Rs 7.4 crore from 21 people involved in the case.
+
+The Securities and Exchange Board of India (SEBI) has barred former Axis Mutual Fund chief dealer Viresh Joshi from accessing the securities market for seven years stating that he orchestrated a front-running scheme using confidential information about the fund house’s impending trades. The regulator also barred 20 others from the market for 3-7 years in its final order in the front running case.
+
+SEBI also slapped Rs 3 crore penalty on Viresh Joshi and a total of Rs 7.4 crore from 21 people involved in the case.
+
+Front-running in a mutual fund is an illegal trading practice in which an insider — such as a fund manager, dealer or broker — uses material non-public information about a large pending trade on behalf of the mutual fund or a client to execute personal trades ahead of that order, intending to profit from the price movement that occurs when the fund’s trade is executed.
+
+During the investigation after the fraud was detected in 2022, it was found that Joshi shared non-public information about impending orders of a big client to an external co-conspirator, Prijesh Kurani.
+
+Kurani on the instructions of Joshi would place orders in certain conduit/ mule accounts of 15 others, the SEBI order said. Sumit Desai, Pranav Vora and Vaibhav Pandya aided Joshi in executing the alleged front running scheme by arranging the conduit/ mule accounts and introducing Joshi to Kurani, the regulator said.
+
+In the interim order dated February 28, 2023, SEBI directed impounding of Rs 30.55 crore as the prima facie unlawful gains arising from the alleged front running activity, jointly and severally against the 21 Noticees.
+
+“The present matter discloses an unusually elaborate fraudulent scheme. The facts indicate that Viresh (Joshi) engaged Sumit and Pranav to procure proprietary accounts for use at his instance, coordinated with Prijesh (Kurani), used coded identities and mule accounts, drafted an email for Bhavin denying the misuse of his demat account, routed unlawful gains in cash through accountants and agents, and created a company in Dubai for routing such gains abroad,” SEBI said.
+
+Story continues below this ad
+
+The gravity of the matter is further aggravated by the fact that Joshi, the co-conspirator has been repeatedly found by SEBI to be in violation in other matters involving PFUTP Regulations, and that the total unlawful gain identified in this order is significantly higher than in past precedents, it said.
+
+The order said the mule account owners cannot be treated as passive or innocent participants when they have knowingly permitted their demat account to be used by third parties for execution of impugned trades.
+
+“Their accounts provided the instrument through which the impugned trades were concealed,” it said.
+
+“This enabled the real operators to mask beneficial control and avoid detection. Where the record shows conscious account lending, receipt of consideration, third party funding/operation, or no credible explanation for such use, the account holder becomes a facilitator of the fraudulent scheme,” SEBI said.
+
+Story continues below this ad
+
+Further, the Big Client as at March 31, 2022 had approximately 1.28 crores investor accounts. The illegal gains involved along with the large investor base, reflects the scale of the market abuse.
+
+“Viresh (Joshi) was not merely a passive conduit of information, the material on record shows that he conceived and orchestrated the scheme, identified and coordinated with the executioner (Prijesh), directed the trading activity, and facilitated routing of wrongful gains through a Dubai based company that appears to have been incorporated to further the scheme and obscure the trail of illicit proceeds,” SEBI said.
+
+George Mathew is an Associate Editor with The Indian Express, based in Mumbai. A veteran of financial journalism with nearly three decades of experience, he is one of the country’s most authoritative voices on banking, regulation, and the corporate sector. Expertise & Focus Areas Mathew’s reporting covers the nerve center of India’s economy. His specialized beats include: The Reserve Bank of India (RBI): He has tracked the central bank's policy evolution through the tenures of multiple Governors, offering deep insights into monetary policy, repo rates, and banking regulation. Banking & Insurance: Extensive coverage of public and private sector banks, non-performing assets (NPAs), and key legislative reforms like the Insurance Amendment Bills. Corporate Affairs: Mathew frequently breaks major stories 
+
+-   Tags:
+-   Sebi
+
+---
+
+### Honest taxpayers partner in India’s growth, let them correct bona fide errors, says FM
+*Aanchal Magazine · legal*
+
+Finance Minister Nirmala Sitharaman urged tax officers to serve with humility, allow honest taxpayers to correct bona fide errors, reduce litigation, and speed up income tax refund processing. (File Photo)
+
+Asking tax officers to “serve with humility”, Finance Minister Nirmala Sitharaman on Friday said the honest taxpayers **should be given the opportunity** to correct bona fide errors, while “firm consequences” should be ensured for those who engage in deliberate tax evasion.
+
+Speaking at the 167th Income Tax Day, Sitharaman in her message to the gathering of tax officials also said that the duration of processing timelines needs to be reduced further along with focusing on shifting from “litigation management” to “litigation prevention” as a long-term objective.
+
+Spelling out five Rs — recognise, respond, redress, reflect and reform — to the tax officers, Sitharaman said tax officials need to recognise every taxpayer’s concern promptly, acknowledging that all grievances need timely attention. And they should respond with clarity, courtesy and empathy ensuring taxpayers receive meaningful communication at each stage.
+
+They should address genuine grievances fairly and within defined timelines. Sitharaman told the officers that they should reflect on the root causes of grievances using complaints as an opportunity for institutional learning.
+
+The FM also said that the **officers should also reform the processes**, systems and procedures continuously so that similar grievances become increasingly rare.
+
+“So, our approach should ensure convenience for the honest taxpayer, and opportunity to correct bona fide errors and firm consequences for deliberate evasion. But sometimes we make the error of treating honest taxpayers with deliberate evaders and everybody goes home unhappy with this. We have to be intelligent. We have to be discreet…the authority conferred by tax law must always be exercised with humility,” she said.
+
+Sitharaman said a taxpayer is left with a bitter taste in his mouth when tax officers “slightly exert that empowerment that the tax law has given”.
+
+Story continues below this ad
+
+“And that bitter taste in the mouth of the taxpayer is something which only we can redress and we can redress only if we approach it with humility,” she said, adding that a taxpayer is “not merely an assessee” but a citizen and a partner in India’s growth and development.
+
+“We have to give him that space and respect. Please do not overdo. At the same time, please do not be laidback. There is a fine balance to maintain,” she said.
+
+The finance minister said the shift towards litigation prevention should rest on pillars of three Cs — clarity in taxpayers’ obligations through timely circulars in simple language, whether English or Hindi; consistency of interpretation across juridications; and continuous institutional learning from appellate orders to inform future reforms.
+
+“Together these principles produce avoidable disputes, while improving certainty for honest taxpayers. On this dimension, I appreciate that there has been progress…a total dependency declined by over 34,000 cases to 5.4 lakh appeals now. No good. We should pause here. Are we doing this consciously? The appeals despite your efforts to bring down the number by 34,000, it’s such a big number that on reading that number, I would have thought that the pending appeals would have come down to less than a lakh. We still have 5.4 lakh appeals,” she said.
+
+Story continues below this ad
+
+Three years ago, Sitharaman said the tax department had discussed a blueprint on reducing the pending appeals but now the mounting appeals are being allowed to keep coming up even as the reduction is happening at a slower pace, she added.
+
+“I appeal to the CBDT to have one more review on how to handle this,” she said.
+
+Commenting on the current return filing season, Sitharaman said the e-filing portal has significantly strengthened this season with expanded computing capacity, storage, bandwidth and also network infrastructure.
+
+The portal handled more than 1 crore taxpayer interactions in a single day, with daily interactions reaching around 1.6 crore at peak, she said.  As on July 21, more than 3.2 crore income tax returns have been filed, nearly 94% verified, and 60% processed, she said. On this, over 1.3 crore refund claims have been received, 96% verified and 40% processed, she said, adding that the tax department must continue reducing processing timelines.
+
+Story continues below this ad
+
+“Prompt refunds strengthen confidence in the fairness of the tax administration and improve liquidity for taxpayers,” she said.
+
+© The Indian Express Pvt Ltd
+
+Aanchal Magazine is a Deputy Associate Editor with The Indian Express, serving as a leading voice on the macroeconomy and fiscal policy. With 15 years of newsroom experience, she is recognized for her ability to decode complex economic data and government policy for a wider audience. Expertise & Focus Areas: Magazine’s reporting is rooted in "fiscal arithmetic" and economic science. Her work provides critical insights into the financial health of the nation, focusing on: Macroeconomic Policy: Detailed tracking of GDP growth, inflation trends, and central bank policy actions. Fiscal Metrics: Analysis of taxation, revenue collection, and government spending. Labour & Society: Reporting on labour trends and the intersection of economic policy with employment. Her expertise lies in interpreting high-frequency economic indicators to explain the broader trajectory of the Indian economy. Personal Interests: Beyond the world of finance and statistics, Aanchal maintains a deep personal interest in the history of her homeland, Kashmir. In her spare time, she reads extensively about the region's culture and traditions and works to map the complex journeys of displacement associated with it. Find all stories by Aanchal Magazine here ... 
+
+-   Tags:
+-   Direct tax
+
+---
+
+### Over 2,500 People With Criminal Backgrounds Identified At Jantar Mantar Amid Protests, 15 FIRs Registered: Sources
+*Prisha Vibhavari · general*
+
+Police alleged that miscreants embedded within the crowd had been targeting security personnel and carrying out attacks using knives and other sharp-edged weapons.
+
+[Read full article](https://www.news18.com/india/over-2500-people-with-criminal-backgrounds-detected-at-jantar-mantar-amid-protests-sources-10232459.html)
+
+---
+
+### Trump says Israeli PM Netanyahu will visit US next week
+*Reuters · business*
+
+President Donald Trump said on Friday that Israeli Prime Minister Benjamin Netanyahu will visit the U.S. next week.
+
+Trump's comments came in ‌his speech ⁠at ⁠the White House Correspondents' Association Dinner on Friday, while he was falsely casting U.S. Senator Chuck Schumer as Palestinian.
+
+"I am going to send him (Schumer) a beautiful Palestinian outfit tomorrow, so he ​can greet Bibi Netanyahu when ⁠he comes ‌to town next week," Trump ​said.
+
+  
+
+"He ​turned Palestinian," Trump said of ⁠Schumer, who is Jewish, while also joking that ​sharia law was Schumer's "new founding."
+
+U.S. Muslim ​and Jewish advocacy groups have previously criticized Trump for calling Schumer, the top Senate Democrat, a Palestinian, with the rights groups saying Trump uses the term disrepectfully ‌as a slur and as an insult.
+
+Netanyahu's office said earlier that ​he ​will travel ⁠to Washington on Monday and will meet with Trump on Tuesday. Netanyahu will also attend deceased U.S. ​Senator Lindsey Graham's funeral, his office said.
+
+The Trump-Netanyahu meeting will come as the U.S.-Israeli war on Iran completes five months.
+
+---
+
+### Trump says Iran getting serious about talks, then a 'locked and loaded' warning
+*India Today World Desk · world*
+
+## President Donald Trump said he believes Iran is taking negotiations more seriously than before. However, the US military is prepared to launch a much larger offensive if diplomacy fails, he warned.
+
+US President Donald Trump's fresh threat amid no breakthrough in Iran talks. (Reuters)
+
+US President Donald Trump said that Iran appears to be taking talks to end the war more seriously, but warned Washington remains "locked and loaded" for a larger military offensive if diplomacy fails.
+
+Speaking to reporters at the White House on Friday, Trump said the US military was fully prepared for further action but stressed that negotiations with Tehran were still underway.
+
+"Look, we're locked and loaded," Trump said. "We're ready to go, but we're talking to them, so maybe there will be, maybe there won't be a tipping point."
+
+_**Catch Live Updates on US-Iran war here**_
+
+He added, "Maybe they will cry uncle, or maybe they'll just give up, or maybe they'll just go into a cave and hide."
+
+Asked about a possible exit strategy for the conflict, Trump outlined two options.
+
+"There's a military exit where we just keep going just the way we are, and we can even make it a heavier dose, and it's knocking out everything they have. Or there's a smarter strategy that you make a deal," he said.
+
+Trump said the administration believes Iran is taking negotiations more seriously than before but cautioned that a breakthrough is not guaranteed.
+
+"We are talking to them. I think they're being serious. I think ... they are being by far the most serious that we've seen them, but that doesn't mean we get there. We'll see what happens," he said.
+
+His comments came a day after telling Axios that he was weighing a dramatic escalation of military action.
+
+"I am considering a massive attack. Bigger than ever before. I am close to making a decision. We are all set for it," the US President said.
+
+Iranian Foreign Minister Abbas Araghchi rejected US pressure, saying Tehran would not yield to threats.
+
+"Iran has shown that it will not bow to US bullying and will under no circumstances respond to the language of force, pressure, and threats," Araghchi said.
+
+He added that the main obstacle in US-Iran relations was not a lack of communication, but Washington's continued reliance on "bullying and coercion."
+
+### TRUMP RETHINKING IRAN STRATEGY?
+
+According to The New York Times, Trump met Friday with top advisers and senior Cabinet officials to discuss whether to intensify the military campaign against Iran, citing sources privy to the meeting.
+
+The discussions took place as the administration reassesses its Iran strategy following the collapse of a fragile ceasefire and a memorandum of understanding that had aimed to revive negotiations on a long-term denuclearisation agreement.
+
+The White House did not disclose whether Trump reached a decision during the meeting. However, his public remarks suggested the administration is keeping both military and diplomatic options on the table.
+
+Trump's comments also come ahead of a meeting with Israeli Prime Minister Benjamin Netanyahu at the White House on Tuesday. Netanyahu has met Trump in the Oval Office six times since his return to office, more than any other world leader.
+
+Meanwhile, fighting continued across the region. US missiles struck targets in Iran on Friday, while Iranian forces retaliated by launching attacks on US bases in neighbouring Arab countries and warning that non-military buildings used by American personnel could also be targeted.
+
+\- Ends
+
+Devika Bhattacharya
+
+Jul 25, 2026 08:33 IST
+
+---
+
+### Two months, 3% of shops inspected: Why Mumbai’s Marathi signboard drive has stalled
+*Pratip Acharya · legal*
+
+Names of shops written in Marathi script are seen at Dadar in Mumbai on 24 July 2026. Express photo by Sankhadeep Banerjee.
+
+Two months after Mumbai’s shops and commercial establishments were given a deadline to **put up Marathi signboards**, the Brihanmumbai Municipal Corporation’s (BMC) enforcement drive has inspected about 3 per cent of them, civic records show.
+
+Of the 36,773 establishments covered in that period, 1,124 were found to be without Marathi signboards, a non-compliance rate of about 3 per cent among those checked.
+
+Data submitted to the BMC’s Law Committee shows the survey to identify non-compliant establishments has been slowed by acute staff shortages as well as the deployment of civic personnel for the Census and the Special Intensive Revision (SIR) of electoral rolls.
+
+According to the BMC’s Shops and Establishments Department, only 57 of the sanctioned 127 inspector posts are filled, leaving the department at 45 per cent strength. It has to survey about 10.83 lakh shops and commercial establishments across the city’s 26 wards.
+
+The inspections are being carried out by a task force constituted under the direction of Deputy Mayor Sanjay Ghadi, who had warned that establishments failing to install Marathi signboards would face “Shiv Sena-style” action. In May, Ghadi gave shops and establishments two months to comply.
+
+Civic officials say that target was never achievable. “Each municipal ward has between 25,000 and 40,000 shops and establishments, depending on its size, while every ward office has only two to three inspectors. It is simply not possible to inspect all establishments and ensure compliance within two months,” a civic official said.
+
+Earlier this week, Law Committee chairperson Diksha Karkar wrote to Industries and Marathi Language Minister Uday Samant seeking an urgent meeting to resolve bottlenecks in implementing the signboard rules. She had earlier written to Municipal Commissioner Ashwini Bhide seeking a meeting on the issue, and received no response.
+
+Story continues below this ad
+
+ Names of shops written in Marathi script are seen at Dadar in Mumbai on 24 July 2026.  
+Express photo by Sankhadeep Banerjee.
+
+“The issue of Marathi signboards has remained unresolved for a long time and there is a need for a clear standard operating procedure. More than 50 per cent of the posts in the Shops and Establishments Department are vacant and should be filled at the earliest,” Karkar told The Indian Express.
+
+“We also need a proper staff deployment mechanism. Many inspectors are assigned to national duties such as the SIR and Census. While these assignments are important, there has to be a balance so that work on Marathi signboards is not affected,” she said.
+
+In the same letter, Karkar flagged flaws in the online registration system, claiming it inflates the number of registered establishments. “If an applicant makes an error during registration, the system creates a fresh registration without cancelling the earlier one, leading to artificially inflated figures,” the letter states. It also points out that the portal allows registrations for establishments on footpaths, streets and service lanes, creating urban management challenges for the civic administration.
+
+In February 2022, the Maharashtra legislature unanimously amended the Maharashtra Shops and Establishments Act, making Marathi signboards mandatory for all shops and commercial establishments in the state, with Marathi lettering larger and more prominent than text in any other language.
+
+Story continues below this ad
+
+The Federation of Retail Traders Welfare Association challenged the amendment in the Supreme Court, which granted an interim stay in 2022. The stay was vacated in September 2023, after which the BMC gave establishments until November 2023 to comply before beginning enforcement.
+
+Under the enforcement mechanism, the BMC first issues notices to non-compliant establishments. It then levies a penalty of Rs 2,000 per registered employee and grants seven days to install Marathi signboards. Continued non-compliance results in prosecution before local courts, where the civic body seeks orders to suspend business operations until the rules are complied with.
+
+Between November 11, 2023, and April 30, 2026, in the period before the current drive began, the BMC registered cases against 1,423 establishments, civic records show. Of these, 395 challenged the action in court and 1,014 complied. The civic body collected Rs 1.05 crore in penalties over those two and a half years.
+
+Pratip Acharya is a seasoned journalist based in Mumbai reporting for The Indian Express. With a career spanning over a decade, his work demonstrates strong Expertise and Authority in critical urban issues, civic affairs, and electoral politics across Eastern and Western India. Expertise & Authority Current Role: Journalist, The Indian Express (IE), reporting from Mumbai. Core Authority: Pratip's reporting focuses sharply on local democracy and development, specializing in: Urban Governance and Civic Affairs: Providing in-depth analysis of municipal decision-making, city planning, and local infrastructure, essential for informed urban reporting. City Politics and Environment: Covering the political dynamics of Mumbai and surrounding areas, alongside critical environmental challenges impacting the metro region. Electoral Coverage (High-Stakes Experience): He has extensive experience in high-stakes political reporting, having covered major elections, establishing his Trustworthiness in political analysis: National: Lok Sabha elections in 2014 and 2019. State: West Bengal Assembly elections in 2016 and Maharashtra Assembly elections in 2019. Major Assignments (Ground Reporting): Pratip demonstrated commitment during crises by conducting ground reporting throughout the Covid-19 pandemic since its breakout in 2020, offering first-hand accounts and analysis of the public health crisis. Experience Extensive Experience: Starting his career in 2014, Pratip has built his foundation across multiple prominent English dailies: Started at The Times of India in Kolkata (2014). Relocated to Mumbai (2016) and worked with The Free Press Journal and Hindustan Times before joining The Indian Express. Pratip Acharya's diverse experience across major publications, coupled with his specialized focus on the intricate details of urban governance and a track record of covering major electoral and health crises, establishes him as a trusted and authoritative source for news from India's critical metropolitan centres. ... 
+
+**Stay updated with the latest - Click here to follow us on Instagram**
+
+-   Tags:
+-   Mumbai
+
+
+---
+
 ## 24 July 2026
 
 ### AI bill catches up with Wall Street: Tesla crashes 14%, Alphabet falls 7%
