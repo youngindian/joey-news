@@ -1,10 +1,177 @@
 # Editorials
 
-_Last updated: 2026-07-24 04:50 UTC_
+_Last updated: 2026-07-25 04:46 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
 
+## 25 July 2026
+
+### A growth story that needs women at work
+*The Hindu · Opinion*
+
+India aspires to become a developed country (Viksit Bharat) by 2047, yet youth unemployment is already double the rate of 2012. India, especially the government, may be forced to recognise the weaknesses of India’s economy due to the West Asia war shock. However, weakness pre-dates this exogenous shock. Policy-induced shocks from 2016 (demonetisation, a poorly designed Goods and Services Tax, NBFCs, COVID-19 pandemic management) to the economy had already reversed structural change (rise in farm employment, falling manufacturing share of gross value added and in employment); non-farm job growth had slowed. The economy became more unequal, and hence aggregate demand collapsed, and with it investment/GDP ratio. So, GDP growth is much slower (even if government figures of 6.2% p.a. are believed (it is actually at best 4.5%, as the former Chief Economic Adviser recently argued).
+
+Analysis | As India's population booms, where are its working women?An engine of growthFurther, India’s growth story will remain incomplete without increasing the work participation rate (WPR) of half the population, i.e., women. In a new study, we estimate that a 10-percentage-point increase in India’s female WPR could add nearly two percentage points to GDP growth, making women’s employment one of the strongest drivers of economic growth. To sustain rapid growth of 8%-9% and emerge as a global economic power, the nation must harness the immense potential of its youth, especially young women.
+
+Increased female WPR could contribute to economic growth in multiple ways. First, it increases the overall labour supply, thereby expanding productive capacity. When more women enter paid employment, household incomes rise, consumption increases, and savings improve. Higher household incomes also lead to better nutrition, education, and healthcare for children, thereby strengthening long-term human capital. Women’s work participation can also improve productivity and innovation. Based on cross-country evidence, Nobel laureate Claudia Goldin argues that gender-diverse workplaces are often more efficient, creative, and competitive. Including women in the workforce is not merely a welfare measure but also a strategy for enhancing national productivity.
+
+However, the work participation rate (WPR) of women in India remains below 30% — among the lowest in the world, comparable to that of countries such as Saudi Arabia and Yemen and West Asia. India’s female labour force participation rate (LFPR) is low by international standards, even when compared with countries at similar levels of per capita income. Worse, it declined steadily between 1983 and 2018. As overall job growth in both the farm and non-farm sectors fell between 2012 and 2018, how did women fare? This is a critical question, especially since women are now much better educated than earlier.
+
+More women join the labour force, but are they really employed?Decline in women’s workIn the 1980s and during the early 1990s, the WPR for women was high, primarily due to high participation in agricultural activities. However, this trend began to decline as economic growth and structural transformation led to a shift away from agriculture from 2004-05 to 2012. Many rural women withdrew from the workforce due to mechanisation and reduced demand for manual labour.
+
+Fortunately, this period also saw a rise in educational attainment among young women, leading to increased school attendance. In other words, the Indian economy experienced a downward movement in female WPR in the first half of the U-shaped curve until 2018-19, consistent with the argument of Claudia Goldin.
+
+Much has been made by government economists of the increase in women’s work participation in India, post 2020. However, this increase built upon a GDP growth slowdown since 2017. Further, COVID-19 had induced economic distress, and large-scale return migration from urban to rural areas. With male workers losing urban employment and moving back to villages, women were compelled to intensify their role in subsistence agriculture and allied activities, often as unpaid family labour (UFL). This surge in UFL reflected a “distress-driven feminisation of agriculture”, as women entered or remained in insecure, informal, and unremunerated agricultural work, due to shrinking non-farm opportunities and reinforced gender norms that limited mobility. The share of such work was falling from 1983 to 2012, as was the absolute number of women in such work. The collapse of non-farm work for men and women now meant that adult, poorly educated women returned to agriculture.
+
+The structure of India’s economic growth has also contributed to weak female employment generation. Much of India’s recent GDP growth has been concentrated in capital-intensive sectors such as finance, information technology, and organised manufacturing, which do not absorb large numbers of workers. Labour-intensive sectors such as textiles, food processing, garments, and small-scale manufacturing saw a fall in absolute terms in employment between 2013 and 2019. In fact fewer women were employed in manufacturing in 2019 than in 2004 which shows how manufacturing jobs collapsed, despite all the hype about “Make in India” and Performance-Linked Incentives for manufacturing. It was not until 2022 that manufacturing work for women rose to a level found in 2004. In much of India, manufacturing, or women’s work has not received sufficient policy support.
+
+Smoke and mirrors — women’s participation in employmentThe north-south divideWe show that young girls’ unemployment is much higher than for young men. However, there is a real north-south divide, as highlighted in the book, India Out of Work. What is achievable is demonstrated by Tamil Nadu, which has been one of India’s fastest-growing States. More than 40% of India’s women factory workers are employed in Tamil Nadu. This is remarkable, given that Tamil Nadu accounts for only about 5%-6% of India’s population. This concentration is driven primarily by the State’s strong presence in textiles and garments (especially in Tiruppur and Coimbatore), footwear, electronics assembly (Sriperumbudur), and automobiles and auto components, as well as by higher female literacy, greater mobility, and well-developed hostel and transport facilities for women workers.
+
+Similarly, Hindi-belt States need to invest in the health (not insurance-based) and public education for all, especially of girls and women, to reduce higher-than-African level malnutrition and stunting rates — as the Southern states have done. They can then also see similar outcomes. There is no chance for India being ‘Viksit’ without gender equality in all dimensions, especially in north India.
+
+Some increase of female WPR (who re-entered agriculture) across India since 2020 was due to older adult women engaging in animal husbandry and poultry farming — a welcome development for household incomes.
+
+Why is unemployment high among the youth? | ExplainedHowever, what about educated young girls? The gross enrolment rate at the secondary level was universalised between 2010 and 2015, with gender parity achieved even in rural Uttar Pradesh and Bihar. However, educated young women face high and rising unemployment rates.
+
+Worse, the number of young women (aged 15-29 years) who were neither looking for work nor in education, was under 70 million until 2004. It increased to 84 million in 2012 and then rose to over 100 million by 2018. Bihar’s female WPR is only 15%. Hence, India will remain out of work, and cannot become a developed country by excluding half its population from productive employment.
+
+Santosh Mehrotra was a former Professor of Economics, Jawaharlal Nehru University, and with the Planning Commission. Jajati Keshari Parida is a Professor of Economics, University of Hyderabad. The writers are the authors of the book, ‘India Out of Work: Rethinking India’s Growth Story’
+
+[Read full article](https://www.thehindu.com/opinion/lead/a-growth-story-that-needs-women-at-work/article71262978.ece)
+
+---
+
+### CJP protest | Dharmendra Pradhan must resign
+*Deccan Herald · Editorial*
+
+The calls for the resignation of Union Education Minister Dharmendra Pradhan have grown significantly louder since the demand was first articulated through a fast undertaken by activist Sonam Wangchuk, followed by public protests in Delhi staged by students and youth under the banner of the Cockroach Janta Party (CJP). The police action unleashed on the protesters exposed an apathetic government, secure in its arrogance and underestimating the sentiment behind the agitation. However, the protesters’ resilience has inspired a movement of resistance in other parts of the country. The entry of Opposition parties on the stage may have forced a rethinking by the government, which has since held talks with CJP representatives. It has also announced the setting up of fast-track courts to try the accused in question paper leaks, proposed a tougher law to address such leaks, and shifted Higher Education Secretary Vineet Joshi out of the ministry.
+
+On Friday, the National Testing Agency (NTA) removed 47 officials in connection with the paper leak. These measures do not address the central issue. Trials will address the criminality in the leaks. Action against officials addresses their administrative responsibility for the lapses. The officials were shifted and removed, not because they had a direct role in the leak, but because they were liable for the irregularities on account of the positions they held. It acknowledges a failure to prevent those irregularities. If the officials are answerable for these lapses, a greater liability rests with Pradhan, who presided over the ministry. The principle that works in the case of the officials should work with greater force for the minister.
+
+That is why Dharmendra Pradhan should resign, upholding this principle and accepting his moral responsibility for the failure of his ministry. That is how accountability works in a democratic system. Resignation in these circumstances is not an admission of weakness; it is an acknowledgement of the responsibility entrusted to the government by the people. It is the price of public trust. Taking ownership of the NEET paper leaks that impacted thousands of students and eroded trust in the examination system is essential to reinforcing the integrity of governance. Testing a government’s accountability cannot be limited to five-year electoral cycles. While holding an electoral majority empowers an administration, it remains answerable on every issue of governance and public interest, every day, to every citizen. Dharmendra Pradhan should have resigned in May. The government must set aside its misplaced sense of infallibility and stop shielding him.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/dh-editorial-dharmendra-pradhan-must-resign-4086461)
+
+---
+
+### Lifelines cannot wait for bureaucracy
+*Deccan Herald · Editorial*
+
+The disruption in the supply of nutritional food kits to nearly 48,000 tribal families across eight districts of Karnataka is a failure that strikes at the most basic right to food and dignity. The official explanation that distribution ceased after the previous contract ended cannot justify months of neglect, particularly when the beneficiaries are among the state's most disadvantaged communities. Many families, already struggling to make ends meet, are now unable to afford even daily necessities. The monthly kits are not a welfare dole but a lifeline. They contain essentials such as rice, pulses, groundnuts, cooking oil, and ghee that provide protein, healthy fats, and vital micronutrients. Recognising the chronic nutritional deprivation among tribal communities, the present government expanded the scheme from nine months to year-round distribution. Suspending supplies defeats the very purpose of a programme designed to ensure continuous nutritional support. The scheme covers 11 tribal communities, including the Koragas and Jenu Kurubas, classified as Particularly Vulnerable Tribal Groups.
+
+The need for these kits is rooted in the harsh realities of tribal life. Many families displaced from forests are yet to receive cultivable land or secure land rights. Erratic rainfall and crop damage caused by wild animals have worsened their situation. Restrictions on access to forests have also reduced their ability to collect minor forest produce, which once supplemented both food and income. During the monsoon, opportunities for daily wage work dry up, while the sale of handicrafts and other forest-based products declines sharply. With livelihood sources shrinking, nutritious food is often the first casualty. The consequences of prolonged malnutrition are grave. It weakens immunity, increases susceptibility to diseases, stunts physical growth, and impairs cognitive development. Children suffer the most, as hunger affects attendance, concentration, and learning, increasing the likelihood of school dropouts and perpetuating the cycle of poverty. Pregnant women, nursing mothers, and the elderly are especially vulnerable when food security is disrupted.
+
+A similar disruption occurred in 2023, exposing a recurring pattern of bureaucratic indifference. The government should have anticipated the expiry of the contract and completed the procurement well in advance. Welfare schemes for the poorest cannot be held hostage to bureaucratic delays. Beyond restoring supplies immediately, the government must hold erring officers accountable. Token assurances offer little comfort to communities battling hunger, displacement, and economic insecurity. A government that claims to be committed to inclusive development must ensure that its poorest citizens are never denied the nourishment essential for survival and opportunity.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/lifelines-cannot-wait-for-bureaucracy-4086462)
+
+---
+
+### A heat test for urban governance
+*Deccan Herald · Opinion*
+
+India is in the middle of a heat crisis. What was once perceived as a temporary inconvenience is now shaping how Indians live and survive. But why is India continuing to fail to address the severe impact of heat stress?
+
+Heatwaves continue to be governed through a disaster management lens that treats them as episodes requiring immediate and ad hoc intervention. This approach looks at emergency response and relief as opposed to long-term mitigation and adaptation, making governance reactive rather than preventive and planned. Heat, however, no longer fits within this paradigm. Unlike floods or earthquakes, heat does not leave behind visible physical destruction, yet it has devastating effects on mortality, labour productivity, education, and economic development.
+
+As the impacts of climate change have been far-reaching and apparent, courts are increasingly recognising climate governance as a matter of legal accountability. The International Court of Justice, in its advisory opinion, stated that climate action is not just a policy imperative for countries but a legally binding commitment under international law. In 2024, the Supreme Court of India delivered a landmark judgment affirming that protection against the adverse effects of climate change is itself an integral component of the rights guaranteed under Articles 14 and 21 of the Constitution. The impact of climate change is experienced through the design, planning and maintenance of cities. Therefore, municipalities are the primary institutions, as many functions determining whether a city is climate-resilient fall within their constitutional mandate.
+
+The 74th Constitutional Amendment Act, 1992, assigns governance responsibilities to municipalities, including urban planning, land use regulation, roads, water supply, public health, sanitation, urban forestry, slum improvement, and public amenities. Each of these functions shapes the urban thermal environment, influencing both the intensity of heat stress and the extent to which citizens are exposed and impacted by it. However, India’s municipal legislations do not identify heat resilience as an explicit statutory function. This disconnect exposes the gap between decentralisation as envisaged by the Constitution and the contemporary response to heat stress.
+
+While governments have introduced Heat Action Plans (HAPs), these plans haven’t been integrated into municipal laws or land use regulations, nor are they considered an integral part of urban governance because there is no legal obligation to formulate them. For cities that have released such plans, there is no mandate to periodically update or implement them, reducing these plans, however well-intended, to unenforceable guidelines. This means local bodies cannot be held accountable for failure to implement the HAPs.
+
+Considering that there is no statutory obligation mandating municipal authorities to maintain infrastructure, allocate budgets or monitor long-term effectiveness, adaptation measures are largely dependent on political will, available funding, and administrative capacity, which varies across states and cities. This means there is no obligation to allocate resources specifically to alleviate the impact on vulnerable groups, nor are there legal consequences if implementation fails. Therefore, the challenge is not merely to improve HAPs but to mainstream heat resilience across municipal governance, labour regulation, building standards, and environmental and public health legislation.
+
+Law assumes a critical role as it does not merely authorise emergency response; it creates institutional obligations, allocates responsibilities, and imputes accountability for inaction. Municipal legislation must therefore recognise heat resilience as a core urban governance function. The respective city municipal legislation can mandate the preparation of heat vulnerability assessments, identification of heat spots, establishment and maintenance of cooling infrastructure, integration of adaptation into budgets and city development plans, and monitoring the efficacy of the measures undertaken. It is also time for governments to re-look at city master plans, building regulations, and other relevant laws that can incorporate these mandates and become climate-responsive.
+
+Several cities across the world have begun institutionalising heat governance beyond emergency response. Baltimore developed legislation to adopt smart surfaces to reduce the city’s average temperature. Athens has a heat officer to analyse local conditions, coordinate long-term resilience across municipal departments, and implement protective measures. Phoenix established the world’s first municipal office of Heat Response and Mitigation, embedding heat adaptation within the city administration. Barcelona introduced climate shelters to protect vulnerable residents from extreme heatwaves. These examples illustrate a gradual transition from emergency relief towards institutional governance.
+
+The legal question is no longer about how governments should respond during heatwaves. Only when heat resilience becomes a legally enforceable obligation rather than a discretionary administrative initiative will cities be equipped to confront the realities of a warming world.
+
+(The writer is a senior project fellow at Vidhi Centre for Legal Policy)
+
+Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
+
+[Read full article](https://www.deccanherald.com/opinion/a-heat-test-for-urban-governance-4086464)
+
+---
+
+### A joint family, one window away
+*Deccan Herald · Opinion*
+
+Recently, an apartment block was built beside my house, with the majority of its windows overlooking our living room and balcony. Through these windows, I sense the morning hustle and bustle: a frantic mother’s voice rising in a crescendo as she reprimands her son to wake up and study, followed by a lecture about his low marks in a recent math test. Meanwhile, her daughter wakes up to a morning raga of tantrums. In the next window, a father coaxes his preschooler to eat so he doesn’t miss the school bus. One window above, I hear an elder sister scolding her younger sibling for using her makeup kit. The only respite amidst the chaos is the aroma of vegetable pulao wafting from one of the kitchen windows stirring my gastronomic urge.
+
+Once, while I was working from home, a colleague on the call asked, “Are you living in a joint family?” I was bemused for a moment, and that was when I realised, I do indeed have an extended family via the window!
+
+Over time, though initially annoyed by the intrusion, I have become invested in their welfare. I hope the boy does well in his exams, lest I hear another diatribe about his marks. Perhaps, he will turn out to be a math prodigy and his sister’s yells will transform into a more soothing morning raga, maybe a classical Carnatic Bowli or a Hindustani Bhairav. I envision the preschooler nurtured into a star cricketer for RCB, and the squabbling sisters grooming themselves into fashion designers or models.
+
+Often, I find myself contrasting this with the quintessential Bengaluru of yore, where houses were few and far between. Mornings dawned with the chirping of endearing sparrows and parakeets and the deep-throated caws of crows. Occasionally, the ring of a bicycle bell would signal a passing milkman or newspaper boy.
+
+Parents never bothered to hover over their children, let alone micromanage them. No toddlers were hustled into buses for preschool. With no makeup kits in tow, it was an ode to the women of yesteryear who looked simple yet beautiful.
+
+It was an era of salubrious climate, a laid-back public sector culture, carefree kids, and a leisurely pace. It reminds me of the famous Dr. Rajkumar song, Baanigondu Elle Ellide that aptly implores the new generation to ease their pace, set boundaries to desires and accept life’s natural flow, much like life in old Bengaluru used to be.
+
+Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
+
+[Read full article](https://www.deccanherald.com/opinion/a-joint-family-one-window-away-4086463)
+
+---
+
+### What do global rankings really measure?
+*Deccan Herald · Opinion*
+
+India's latest placement near the bottom of the Environment Performance Index (EPI) has triggered a familiar ritual. Critics see it as proof of India's environmental failures. The government disputes the methodology. And the debate drags on until the next global ranking is published. Whether it is press freedom, passport strength, university rankings or human rights, India seems destined to argue with the numbers.
+
+That raises a more interesting question. How can a country that is one of the fastest-growing major economies, a digital payments leader and an emerging space power also appear to be a chronic under-performer in so many international rankings? Which India is real? Perhaps we are asking the wrong question.
+
+Instead of debating whether India deserves to be ranked 176th or 50th, we should ask what different rankings actually measure and how much of that is objective quantification versus constructed judgment. India deserves criticism in many areas, but the question is whether the world's most influential rankings measure India's performance or merely reinforce a preexisting story about India.
+
+Not all rankings are created equal. When the ranking is based on hard numbers, there is usually very little argument. India's GDP, foreign exchange reserves, digital payment volumes, pharmaceutical production, or space launches are measurable facts. They may change from year to year, but nobody seriously disputes the methodology behind them.
+
+The controversy erupts when rankings do not count things and start evaluating ideas. Environmental performance rests on measurable data, but its overall ranking depends on methodological choices. Press freedom, governance, institutional quality, and human rights involve greater elements of subjective assessment.
+
+For instance, take the EPI. India has genuine environmental problems. Air pollution, water quality, waste management, and biodiversity conservation remain serious challenges. But India's criticism has never been that the environment should not be measured. In 2022, it questioned whether the index adequately accounts for the realities of developing countries or historical emissions. Martin Wolf, principal investigator of the report, in an interview, said the EPI team does not rank countries on their historical emissions. It instead measures the current state of environmental conditions and applies the same methodology across countries. That is a methodological disagreement, not simply a disagreement over India's environmental record.
+
+The passport index tells a different story altogether. It is probably among the least controversial global rankings because it measures something straightforward: the number of countries an Indian passport can access without a prior visa. India's ranking reflects international mobility, not its economic strength, democratic credentials or quality of life. Nobody mistakes it for a complete assessment of the country.
+
+The debate becomes sharper with rankings on press freedom, happiness, civil liberties or human rights. These rely on expert assessments, legal frameworks, surveys, and institutional indicators. Critics argue that such indices sometimes reflect liberal democratic assumptions developed largely in Western societies or give disproportionate attention to particular countries. Supporters respond that they apply consistent standards across the world. Both sides have a point.
+
+This is where the discussion often becomes polarised. One side treats every ranking as the objective truth. The other dismisses every unfavourable ranking as propaganda or a deliberate bias. Neither position is convincing.
+
+Rankings exist on a spectrum. Some are almost entirely objective. Others combine objective data with subjective choices. Still others depend heavily on expert interpretation. The further a ranking moves away from directly measurable facts, the more justified it becomes to examine its assumptions and methodology.
+
+That is not unique to India. Many countries carry an international narrative. China is often viewed through the prism of authoritarianism. The United States is frequently associated with gun violence and inequality despite its economic and technological dominance. African countries are still too often seen mainly through the lens of poverty and conflict. Once a narrative takes hold, it can influence how new information is interpreted.
+
+India faces a similar challenge. The country's achievements in digital public infrastructure, financial inclusion, vaccine production, space technology, and economic growth often receive less attention than its shortcomings. That does not mean the shortcomings are imaginary. It simply means that no single ranking can capture the contradictions of a country as large, diverse, and rapidly changing as India.
+
+Perhaps that is the real limitation of global rankings. They compress multidimensional societies into a single number. A ranking of 176 in environmental performance is not a ranking of India as a civilisation, just as India's success in digital payments does not automatically make it a model nation in every other respect. Rankings measure indicators, but public debate often treats them as verdicts on entire countries.
+
+China disputed methodologies where necessary, but also invested far more energy in building capabilities that are difficult to dispute – like manufacturing, exports, technology, infrastructure, and scientific research. Those achievements did not end criticism of China, but they changed the conversation.
+
+India, too, need not invest too much political capital in contesting every unfavourable international ranking. It should continue to question methodologies when it considers them flawed. But its larger strategy could be to improve objective indicators that are difficult to dispel, such as GDP, manufacturing capacity, infrastructure development, industrial expansion, exports, and technological capability. As these metrics strengthen, global perceptions of India’s capabilities too will change even when criticism on human rights, press freedom or civil liberties persists.
+
+India should neither reject rankings wholesale nor deem them politically motivated nor accept them uncritically. Both the objective indicators and composite indices provide useful information, but they answer different questions. They help compare countries, identify weaknesses, and stimulate reform. The mistake is to treat every ranking as an objective mirror of reality. Some measure facts. Others measure interpretations of facts. Knowing the difference is as important as knowing where India stands on the list.
+
+(The writer is a former diplomat)
+
+Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
+
+[Read full article](https://www.deccanherald.com/opinion/what-do-global-rankings-really-measure-4086453)
+
+---
+
 ## 24 July 2026
+
+### Caught on camera: on the use of force at Jantar Mantar
+*The Hindu · Editorial*
+
+The massive use of force by the Delhi Police, and unidentified people, on student protesters in the national capital clearly breached all known protocols of crowd control. After its initial reluctance, the Supreme Court of India has now agreed to hear complaints of police excesses on Monday, July 27. Meanwhile, multiple video clips that have surfaced online show personnel, both in uniform and in normal clothes, using violence with an apparent intent to harm and terrorise protesters rather than to disperse them. Some protesters have sustained pellet injuries that the police and the authorities have yet to explain. In one video, an identifiable senior official of the Delhi Police is seen slapping a girl who was standing nearby; in another, an unidentified person in uniform with three stars is seen poking a girl from behind while she was walking away. In a third video, personnel are seen surrounding a girl, with one of them groping her while others leer and laugh. Some people not in uniform but wearing helmets are seen in video clips on social media beating protesters. Some have been caught on camera carrying sticks with long nails, while others are seen smashing vehicles. All this has happened while the protesters were, barring a stray incident or two, peaceful. Those who unleashed violence, whether authorised police personnel or vigilantes who infiltrated the student protests, need to be identified, pursued, and held accountable.
+
+The police violence against student protesters in Delhi followed a pattern. In 2020, a mob entered the JNU campus and attacked students even as the police looked away. No serious investigation or arrests followed. In 2019, personnel of the Delhi Police entered the library of Jamia Millia Islamia and beat up students during the protests against the Citizenship (Amendment) Act. The crackdown on protesters demonstrating against recurring paper leaks in various examinations marked a new low in this trend. There is no evidence that the protesters, who included teenagers, families with toddlers, and women, were involved in large-scale violence that warranted the level of police force used. It is heartening that the Chief Justice of India has clarified that his earlier reluctance to hear the complaints was only technical in nature and that the Court is open to those who seek justice. The Court now has before it two petitions documenting the nature and extent of the force used by the police. There must be a thorough investigation to find out exactly who was involved and whether the use of force was authorised and proportionate. There must be special attention paid to complaints of assaults of a sexual nature and to those targeting women and children. Those found guilt must face the full force of the law.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/caught-on-camera-on-the-use-of-force-at-jantar-mantar/article71263117.ece)
+
+---
 
 ### ​Core upgrade: On the Index of Core Industries
 *The Hindu · Editorial*
@@ -25,6 +192,17 @@ The decision by Yemen’s Ansar Allah, better known as the Houthis, to impose a 
 When Iran closed the Strait of Hormuz after the U.S.-Israel war began on February 28, all Persian Gulf states struggled to sustain their exports. Saudi Arabia, however, cushioned the impact by using its East-West Pipeline, which links its eastern oilfields to the Red Sea export terminals. If the Houthis enforce a total blockade on the kingdom, Riyadh could face far deeper economic disruption. This, coupled with Iran’s attacks on Kuwait’s desalination plants and power grid — after U.S. strikes on Iranian civilian infrastructure — paints a grim picture of the war and its regional consequences. If the first phase of Iran’s counterattack targeted the Persian Gulf monarchies, the second has expanded to include Jordan, which hosts two major U.S. military bases. Now, with the Houthi blockade, the war’s economic pain is set to deepen further. U.S. President Donald Trump had an opportunity to extricate himself from the conflict when he signed a memorandum of understanding with Iran on June 17. But by returning to war over disputes surrounding control of the Strait of Hormuz, Mr. Trump has not only squandered the opportunity but has also raised the risk of dragging the U.S. into yet another forever, unwinnable war. At this point, he is pursuing the same military tactics against Iran repeatedly, expecting different results. If Mr. Trump wants a way out, he should change course, push for an immediate ceasefire and return to diplomacy.
 
 [Read full article](https://www.thehindu.com/opinion/editorial/escalation-trap-on-the-us-and-the-war-with-iran/article71258153.ece)
+
+---
+
+### On guard: on India and the Qdenga dengue vaccine
+*The Hindu · Editorial*
+
+The CDSCO’s approval of the Qdenga dengue vaccine — the first in India’s history — follows the vaccine’s licensing in over 40 countries and a WHO prequalification, and some of the country’s worst dengue years vis-à-vis the disease’s burden, although that is evidence of better surveillance as well. The Aedes mosquitoes that spread the disease are expanding into semi-urban and rural districts, where conventional vector control is harder to sustain. The time to develop the vaccine itself is understandable. The four antigenically distinct dengue serotypes and the possibility of a ‘second infection’ by a different serotype producing more severe disease through antibody-dependent enhancement mean that an effective shot has to induce strong immunity against all four at once. This constraint nearly derailed the first licensed dengue vaccine, Dengvaxia, and the controversy in the Philippines in 2017 prompted greater regulatory caution. The design of Qdenga, by Japan-based Takeda, differs from that of Dengvaxia and, unlike the latter, can be administered without screening for a prior dengue infection.
+
+Its protection against the serotypes varies from highest against DENV-2, followed by DENV-1, while uncertainty remains regarding protection against DENV-3 and DENV-4 in people without prior exposure to dengue. This is concerning because while DENV-2 is more common in India, DENV-3 prevalence is increasing. If the DENV-3 serotype dominates the 2026 monsoon season, Qdenga’s impact could be substantially lower than anticipated, especially if many recipients are dengue-naïve. Qdenga also requires two doses across three months apart. Clinical data suggest that the first dose protects unevenly, with stronger evidence against DENV-1 and DENV-2 than DENV-3 and DENV-4. If a seronegative person takes the first shot on July 1, when the monsoon begins, and encounters DENV-3 in August, the shot may not suffice to prevent severe illness. Ensuring the highly mobile migrant workforce receives its second dose will be significantly difficult, too; those falling through the cracks may also be exposed to concerns raised in the TIDES trial of a ‘negative efficacy’ against hospitalisation related to DENV-3 among seronegative children. Finally, following Takeda’s tiered pricing strategy worldwide, Qdenga may be too expensive for people living in dense urban slums with poor drainage. To ensure sufficient uptake among the populations at greatest risk, the government must negotiate a lower price. In the end, administering a dengue vaccine properly in a population is no less tricky than developing a vaccine against dengue, and the Qdenga rollout should give no cause for complacency.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/on-guard-on-india-and-the-qdenga-dengue-vaccine/article71249935.ece)
 
 ---
 
@@ -74,6 +252,15 @@ The delight it has brought to die-hard Vijay fans was tinged with the odd tear o
 
 ---
 
+### DC Edit | New Trump Tariffs: It’s Lose-Lose
+*Deccan Chronicle · Editorial*
+
+US President Donald Trump’s threat to impose steep tariffs on imported generic drugs from August 2028 to onshore production is a continuation of policy decisions which are not rooted in empirical evidence. He announced similar restrictions on patented drugs in April.While the higher tariff is expected to impact the profitability of the Indian pharma sector, the largest exporter of generic drugs to the US, it would also drive up public healthcare costs in America, impacting government budgets and ballooning the already high fiscal deficit.Since India alone exports around 45 per cent of generics to the US, Mr Trump has proposed a gradual implementation of the penal tariffs — none till 2028, 100 per cent from August 1, 2028, to July 31, 2029, and 200 per cent from August 1, 2029. The policy aims to prod Indian pharma companies — which sold $213-billion worth of generic drugs to the US — to set up manufacturing plants in the US.The revenue of the top five US pharma companies is around $350 billion and their market capitalisation is $2,791 billion. In comparison, the valuation of the top five Indian pharma companies is just five per cent or $120 billion. If investment alone could shift generic pharma production to the US, the large US pharma companies could have done it instantly.The essential requirement for generic drugs is affordable pricing. To produce generic drugs at a low cost, companies need low-cost talent, land and other factors of production. Under duress from the Trump administration, Indian companies may set up factories in the US. But will Americans accept the salaries these companies offer Indians? Absolutely not. If they pay American labour as per local requirements, it will immediately make generics unaffordable, impacting public health spending and the profitability of US-based generic units.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-new-trump-tariffs-its-lose-lose-1973679)
+
+---
+
 ### DC Edit | Prepare For Major Oil Price Shocks To Come
 *Deccan Chronicle · Editorial*
 
@@ -90,6 +277,17 @@ India, having tapped significantly into its oil reserves in the wake of the Iran
 The Cinderella days of the Indian economy having passed by despite some strong management by the government of India during the current supply chain crisis and the major public sector oil companies it controls, India may struggle to cope much as all countries east of the Atlantic Ocean which depend mostly on oil and gas from Iran and the Gulf nations. The only prayer left for oil consumers is that the combatants in the Iran war see reason and go back to serious negotiating for peace. Given the current scenario of a capricious White House occupant and hotheads in Iran and Israel, it is an increasingly tall ask.
 
 [Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-prepare-for-major-oil-price-shocks-to-come-1973438)
+
+---
+
+### DC Edit | Sonam’s Historic Fast Ends, Focus on Education Minister Now
+*Deccan Chronicle · Editorial*
+
+It is most welcome that Sonam Wangchuk has given up his indefinite fast. The Ladakh activist’s sacrifice in staging a hunger strike for 26 days may have served its purpose as it brought national attention to the ‘NEET’ examination issue. It literally forced an unresponsive government, which thought nothing of a popular youth movement spurred by anger over the integrity of a crucial national medical entrance test being compromised beginning 48 days ago, to respond.Having been seized of the matter in the wake of a dramatic escalation of protests that spread internationally from its roots at Jantar Mantar in New Delhi, the government did bend in intensive crisis management, proposing to punish the exam paper leakers through fast-track courts under an amended law and agreeing to another demand of the protesting students of the Cockroach Janta Party not to charge protesting students with the law.Government action may not have been in time to stave off a huge national demonstration of youth dissatisfaction over the breach of exam integrity that was by no means confined only to Neet, which was held again inconveniencing over a million students. But it appeared to act fast to make up lost ground over the credibility of its education minister, the call for whose resignation refuses to died down.The government was prepared to shunt a senior bureaucrat who was doubling up in school and university education but would not consider calling for the resignation, or even a shuffle of portfolios of its minister who is staring down the barrel for his department failing so noticeably with glitches in the conduct of scores of examinations. Calling for Mr Dharmendra Pradhan’s head has become the fulcrum of the issue now, with the political opposition chiming in.Police brutality in handling the young demonstrators, which included the use of the controversial pellet guns, may in part have been fuelled by the protests descending into chaotic rioting and stone throwing, but those most affected are the youth of India and not so much the lumpen or antisocial elements who may have used the opportunity to vent their disenchantment.
+
+The Prime Minister may even have tried an Insta-type video shoot to touch base with Gen Z, the group disillusioned with the system of education. In his battle to arrest the growing dissent against the ruling party, the PM may have pushed the buttons for remedial action, but a timely probe may have ensured aspirational students don’t feel cheated by the unfairness of a crucial test.What must be done after dealing with the protests and the Opposition trying to cash in on the popular dissent movement is usher in concrete reforms in the examination system which, given India’s IT competence, should pose little difficulty in switching to an ironclad computer-based testing methodology. What is even more needed is a complete overhaul of NEET, which cannot truly measure merit if it treats on par the rural student and the coaching institute-prepared repeat candidate.Transparency in accepting that the police were overzealous in enforcement, willingness to concede that it is possible to reconsider the future of one minister, however politically valuable he may have been, and readiness to discuss with the Opposition leaders on the need to settle issues and get Parliament functioning again should be the formula that can bring some sort of closure.Alienating the youth is not an option for anyone wishing to lead the nation, and apologising to the youth for the troubles they faced can only enhance the leader’s standing.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-sonams-historic-fast-ends-focus-on-education-minister-now-1973668)
 
 ---
 
@@ -164,6 +362,57 @@ This is not about M. Sai Kumar. By all accounts, he is an able administrator, an
 A long time ago, extensions were marked as extraordinary situations. Today, they increasingly resemble an administrative reflex. That may buy governments short-term comfort, but it delays renewal, blocks the next generation of leadership and reinforces an unhealthy belief that governance depends...
 
 [Read full article](https://www.deccanchronicle.com/opinion/columnists/dilip-cherian-the-file-comes-full-circle-will-central-secretariat-club-manage-to-survive-1973448)
+
+---
+
+### Farrukh Dhondy | A Stormy Reign Ahead for Andy As ‘King of the North’ Crowned
+*Deccan Chronicle · Opinion*
+
+Andy Burnham is now Prime Minister of the UK and his assumption of the role has been reported, or parodied in all the media as a coronation. Calling him the “King of the North”. He came to London via a much-televised train journey, talking incessantly about shifting power from Westminster to the North and the regions.He may consequently spend much of his prime ministerial time journeying to the North and to the regions?Even now, his security team are saying that they won’t allow him to travel to these places by train. So, how’s he going to get to the devolved seats of power? By helicopter? Wouldn’t that transgress his -- and a good number of his MPs’ -- net-zero convictions?Then again, Andy has taken to wearing shorts and T-shirts instead of suits and ties. This may certainly be because that’s the natural way he wants to dress, but has been seen as tailoring his image to seem a man of the people rather than of “The Establishment”. So, what will he wear when he meets Donald Duck -- sorry, Dump -- who said he was dismayed when Ukraine’s Volodymyr Zelenskyy came to meet him without wearing a tie?Oh, the perils, the hazards, the obligations of PM-ship!More seriously, on the relationship with the American Orangeboob. Andy has appointed Ed Miliband as his foreign secretary. Now, it’s a well-worn cliché that the US and the UK not only share the word beginning with “U” -- Unity in diversity? -- but have a historical “special relationship”. Ed is an ardent advocate of net-zero and was, as environment secretary in the previous Cabinet, the person who banned fresh drilling for oil and gas in the North Sea. Donal-ducking-the-issue-of-losing-to-Iran, on the other hand, is a “drill, drill, drill” propagandist and supports fracking. So, wither the “special relationship” -- even though Ed Miliband does wear ties?Another policy, whose progress is worth watching, is what John Healey, the newly-appointed chancellor of the exchequer, will do about the defence budget. Under the last chancellor, Rachel Reeves, Mr Healey. who was secretary of state for defence, had resigned, claiming that Ms Reeves and then PM Keir Starmer were not providing the funds necessary for the proper and adequate defence of this sceptred isle.He now has the job of providing those funds himself and will have to either borrow large sums of money, cut welfare spending or raise taxes from some sector of the population to do it. Any of those options will send opinionated tremors through different sections of the Labour Party, though again, they will please Orangeboob, who has demanded that European nations spend at least three per cent of their GDP on defence as their contribution to Nato.You can’t please all?Yet, Andy certainly has set out to please the considerable number of “nationalistic” voters by appointing Mr Healey, who will be expected to boost defence spending. His other popular move is to keep Shabana Mahmood at the Home Office. She was widely tipped to take over the chancellorship, but, as home secretary in the last Starmer government, has built a reputation for being tough on the influx of legal and illegal immigrants to the UK. Her presence and policies were designed to challenge (imitate?) the extreme right-wing parties such as Reform whose central appeal was the blocking and deportation of refugees, asylum-seekers and possibly already-resident “immigrants” to this country.The right-wing weekly, the Spectator, edited by ex-Tory minister Michael Gove, sported an editorial before the new Cabinet was announced urging Mr Burnham to keep Shabana Mahmood in place – an endorsement from across the floor which Mr Burnham has, for reasons that Mr Gove supports, taken into account.Mr Burnham, till he resigned to contest his seat for Westminster and glide into the premiership unopposed, was the mayor of Manchester. One of the directions he would take -- short of a policy statement -- was that he would “Manchesterise” UK’s national politics.The meaning and the prospect are vague. He must mean that he will do for the country all the great things he did for Manchester as mayor? He added that decisions should not be made by an establishment cabal of ministers and civil servants in London, but that he’d institute measures and legislation to devolve power. That will mean handing over some powers to the local councils where the neo-fascist (or at least imperio-nationalist) Reform Party has control -- 24 councils where it is the largest party -- and 10 others.Very many of these Reform councillors are anti-Semites, Islamophobes, racists and xenophobes and some of them are proven thugs, all to the right of Hermann Goering in their thinking.Be careful to whom you devolve power? I would, gentle reader, prefer the much-reviled civil servants of Westminster to be, even in their reputedly bureaucratic overreach, in charge, than these Reform goons.According to me -- though no one has ever taken any notice -- Mr Burnham should immediately nationalise the railways to reduce ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/farrukh-dhondy-a-stormy-reign-ahead-for-andy-as-king-of-the-north-crowned-1973659)
+
+---
+
+### Recalling a Literary Odyssey
+*Deccan Chronicle · Opinion*
+
+Chennai: The recent visit of the crew and cast of The Odyssey, including director Christopher Nolan and stars Matt Damon and Tom Holland, to Mumbai for a historic promotional tour and special screening rekindled this columnist’s fascination with the literary titans behind some of the world’s greatest works like Milton, Shakespeare and Hemingway.
+
+This columnist still fondly remembers her Head of the English Department in Fatima College, Madurai, teaching Paradise Lost and Paradise Regained during her undergraduate years. While Paradise Lost is about the tragic story of Satan rebelling against God and
+
+humanity falling from grace and being forced out of the Garden of Eden, the sequel Paradise Regained symbolizes humanity’s spiritual victory and the salvation through obedience to God.
+
+Though she no longer remembers much about Canterbury Tales by Geoffrey Chaucer and The Faerie Queene, the famous epic poem by Edmund Spenser, that she studied during those years, it remains a part of her literary journey.
+
+Her engagement with Shakespeare extended through both her undergraduate and postgraduate years, during which she studied more than 30 of his plays. It is no exaggeration to say that the plots and characters of his plays can leave students spellbound.
+
+She also relishes the memory of staging a few scenes from King Lear at the annual College Day event.
+
+During her postgraduate studies, she delved deeply into Ernest Hemingway’s works and relished every novel she read. The Sun Also Rises, A Farewell to Arms,
+
+For Whom the Bell Tolls
+
+The Old Man and the Sea possess a timeless appeal that remains unmatched. With fiction being her favourite genre, this columnist spent many happy hours in her college library, which had an extensive collection of novels catering to every literary taste. Three decades on, with changing times and a demanding profession, she finds time only to read newspapers, leaving little room for the fiction she once loved.
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/recalling-a-literary-odyssey-1973572)
+
+---
+
+### Shobhaa De | When India’s Pest Control Failed To Kill Desi Roaches
+*Deccan Chronicle · Opinion*
+
+The home-grown desi cockroach is a unique insect. Try as you will, but you cannot squash it under the sturdiest boot. It springs back up and multiplies. Cockroaches are between 125 and 140 million years old. They come in 7,000 species. The Indian cockroach is the smartest/wiliest of the lot and is playing a starring role these days.
+
+Imagine! An insect has boldly taken on the mightiest in the land.
+
+And is winning. An army of cockroaches is crawling across India. As the Indian government discovered during this dramatic week, when it was caught on the wrong foot by an unstoppable surge of youth power, propelled by the Cockroach Janta Party (CJP).Not a single authoritarian agency could stop Gen Z from being seen, heard, acknowledged, admired and respected. These kids did what adults couldn’t -- they shook up the smug, sinister network of the high and mighty, and sent then scrambling for cover.
+
+Shame on those who thought they could (mis)use state machinery to intimidate, terrorise and dabaao the crowd.
+
+The courageous kids used their dimaag and daring to show the leaders they meant business.The complacent government was taken completely off-guard by a hunger-strike that galvanised the youth into action. Autocratic babus planned and orchestrated the bully’s response like it was a war strategy designed to counter an enemy encroaching on Indian territory. Or like a masterplan to foil a full-blown terror attack. Come on… are children that scary?Desh ke bachchey… Salute!A few points worth noting:*Sending sadistic cops in plainclothes, hiding behind masks, minus name tags, but ready with lathis and teargas, is not efficiency. It’s cowardice. More Trump and ICE than democracy.*For the Prime Minister to drive past the protesters with his impressive convoy without pausing to look at -- forget address the protesters -- reeks of fear and demonstrates weak leadership that conveniently prefers to look the other way.*To orchestrate a riot-like situation with readily available stones and empty ambulances driving around to generate panic is a nasty despotic tactic designed to demoralise kids who had left their homes armed with nothing more lethal than placards and slogans.*Disseminating false propaganda and detaining students from railway stations is something even Stalin would have avoided.*Shutting down 16 Metro stations in Delhi showed fear. Not confidence. Even that didn’t stop the crowds from converging and bravely putting up a fight.*What made CJI Surya Kant, originator of the “cockroach” putdown, imperiously say “Don’t waste our time” to a petitioner seeking an urgent listing of police excesses via submitted videos? What an unfortunate, unnecessary snub!*Rahul Gandhi was as usual wasting time demanding the resignation of education minister Dharmendra Pradhan, who seems to have Araldite stuck on his kursi. Worse, Rahul Baba sweetly demanded an apology from Prime Minister Narendra Modi… Bachchey: when has our great PM ever felt the need to apologise?*Ditto for Sonam Wangchuk’s pre-conditions to end his fast: “Ifkey demands are met”. Bro… if those demands were to be met, all this high drama wouldn’t happen in the first place.(Late Thursday night, Sonam Wangchuk finally ended his 26-day fast at Gurgaon’s Medanta Hospital, in the presence of Union ministers J.P. Nadda and Jitendra Singh, his wife and CJP leaders.)*Police brutality against unarmed protesters is being passed off as a defensive response. The police shamelessly trot out the number of cops injured; while clips of bleeding kids go viral. The CPRF called in for what? These are young, angry, frustrated, disillusioned kids speaking up for a better future; not hardened criminals or terrorists. Such measures to control the very students affected by the Neet scandal! Where were these super-efficient security agencies during the leaks? Guarding the netas who made money from the scandal?*In Mumbai, cops were digitally tracking protesters, targeting those seen as trouble-makers. Never before have cops barged into citizen’s homes to order youngsters to stay away from Shivaji Park. Social media handles were closely monitored before picking up kids randomly, demanding they share live locations. Despite all these scare tactics, 2,500 youth packed Dadar’s streets and others turned up in good numbers at Chembur, Juhu, Colaba and Powai.*Rhiya Ahir, a 27-year-old model, became the face of the Mumbai agitation, when she spontaneously did a repeat of the incredibly courageous act of a lone protester who stood in front of a tank during the 1989 Tiananmen Square massacre.“I couldn’t help myself”, said Rhiya (admiringly dubbed a “baddie”), as she blocked a police van full of students chanting slogans. She refused to budge till the police released the protesters, saying she couldn’t just stand by and “do nothing”.*Well, Rhiya… thousands of mega-celebrities did “nothing”, said nothing. Their silence upset many. But let’s be honest: are they in a position to speak up without fear of...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/shobhaa-de-when-indias-pest-control-failed-to-kill-desi-roaches-1973664)
 
 ---
 
