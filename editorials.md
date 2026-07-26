@@ -1,8 +1,175 @@
 # Editorials
 
-_Last updated: 2026-07-25 04:46 UTC_
+_Last updated: 2026-07-26 05:00 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 26 July 2026
+
+### Crowd of one: Why the State is scared of the exam-citizen
+*Deccan Herald · Opinion*
+
+In my May piece in The Prism, I wrote about the Cockroach Janta Party (CJP) with suspicion. My Gen Z daughter had bought into the $CJP memecoin, a token launched by anonymous opportunists. I saw in it the familiar ugliness of our time: every rebellion instantly financialised, every slogan turned into a ticker symbol. I was not entirely wrong. But I was wrong enough. I mistook the parasite for the organism.
+
+The Delhi protests were catalysed by the NEET scandal. But what gathered at Jantar Mantar, moved towards Parliament, and led to the resignation of Education Minister Dharmendra Pradhan was not merely a crowd of angry aspirants. It was a new political figure in Indian life: the exam-citizen.
+
+‘There’s something happening here/ But what it is ain’t exactly clear/ There’s a man with a gun over there/ telling me I got to beware/ I think it’s time we stop, children, what’s that sound?/ Everybody look what’s going down.’
+
+(Buffalo Springfield recorded ’For What It’s Worth’ in 1966, after riot police in Los Angeles violently dispersed a crowd of young people gathered peacefully on the Sunset Strip.)
+
+The exam-citizen is the young Indian whose relationship with the state is mediated through forms, admit cards, coaching centres, biometric verification, answer keys, rank lists, cut-offs, counselling portals, and court cases. She meets the Republic not as a bearer of rights, but as a candidate. Study hard enough, wait long enough, suffer quietly enough, and the system will finally reward your merit. This is the bargain; the last remaining promise of India. The NEET scandal shattered that promise.
+
+India’s exam-industrial complex is a political economy of managed desperation. Families sell land, pawn jewellery, take loans, move children into coaching towns, buy test series, rent rooms, purchase data packs, pouring everything they have into this hope. An enormous machinery envelopes this hope: coaching empires, ed-tech platforms, private colleges, hostel economies, consultants, brokers, paper-leak rackets, litigation, and state agencies that preside over the lottery.
+
+The reason this complex exists is simple: India has too few secure exits for too many young people. Too few good public universities. Too few affordable medical seats. Too few dignified jobs. Too few respected vocational pathways. Too few institutions whose degrees carry real value. Instead of expanding opportunity, the state has perfected the art of rationing it.
+
+‘There’s battle lines being drawn/ And nobody’s right if everybody’s wrong/ Young people speaking their minds/ Getting so much resistance from behind’.
+
+Exams turn structural failure into individual failure. If there are no jobs, no seats, no future, the state can still say: everyone had the same paper. The answer key was neutral. But the answer key does not record who had coaching, English, electricity, educated parents, mental health, caste privilege, money, or a room of one’s own. The examination pretends that unequal children arrive as equal candidates. The exam is thus India’s most successful alibi.
+
+NEET, UPSC, JEE, SSC – each converts public anger into private preparation. Do not protest; prepare. Do not ask political questions; revise. Do not complain about unemployment; improve your marks. Do not demand dignity; qualify for it. The system teaches the young to relate to the state not through citizenship, but through eligibility. You are not owed anything. You must clear the cut-off.
+
+This is why the Delhi protests feel larger than a resignation. The real accusation is deeper: the state has converted citizenship into examination, and then failed even to conduct that examination properly. It has asked Gen Z to suspend their lives in the name of merit, while allowing merit itself to be compromised by money, networks, negligence, and fraud.
+
+‘What a field-day for the heat/ A thousand people in the street/ Singing songs and carrying signs/ Mostly say, hooray for our side/ It’s time we stop, hey, what’s that sound?/ Everybody look what’s going down.’
+
+That is the social fact from which the CJP emerged. And this is where I was wrong back in May. I saw the memecoin and thought the movement had been captured by capital before it had touched the ground. But the young people were not buying a token. They were redeeming a claim: we are not insects, not failed candidates, not data points. We are citizens. It means the exam-citizen has escaped the examination hall.
+
+That is why the state is afraid. The fear is that the candidates have recognised each other. They were long trained to compete alone, against each other. But now, they have begun to assemble. The crowd at Jantar Mantar was not merely demanding a fairer exam, but a different bargain entirely.
+
+They came to Delhi as roll numbers. They stood there as citizens. And for one terrifying, beautiful moment, our Republic had to sit for its own exam.
+
+Aakash Singh Rathore as Dr Jekyll is a Professor of Philosophy, Politics and Law, author and editor of over 20 books and counting, and as Mr Hyde, one of India’s top-ranking Ironman triathletes @ASR_metta
+
+The writer, as Dr Jekyll, is a Professor of Philosophy, Politics and Law, author and editor of over 20 books and counting, and as Mr Hyde, one of India’s top-ranking Ironman triathletes.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH)
+
+[Read full article](https://www.deccanherald.com/opinion/crowd-of-one-why-the-state-is-scared-of-the-exam-citizen-4087594)
+
+---
+
+### Emperors without empathy
+*Deccan Herald · Opinion*
+
+All of us have witnessed the delusional hubris of those intoxicated by power. Surrounded by sycophants in echo chambers and cocooned in gilded cages of self-importance, rulers lose touch with the ground beneath their feet. When the hungry ask for bread, emperors fear revolt and answer with bayonets.
+
+Emperor Caligula intended to appoint his horse Incitatus as consul. Whether he actually meant to do it hardly matters. His message was unmistakable: he held the institutions of the Republic in contempt. He could have appointed a donkey and made the same point. Power had ceased to respect limits.
+
+Ralph Waldo Emerson understood it well: “An empire is an immense egotism”. I learnt that lesson the hard way. Freshly commissioned into the Indian Army, I was barely twenty – still in my salad days, green in judgment but rich in certainty. As a young Captain commanding an independent unit, I possessed summary court martial powers. A senior Havaldar, with almost as many years of service as my age, was produced before me for pilfering rations meant for the jawans’ langar and selling them to a local shopkeeper. Outraged, I stripped him of his rank and had him posted from the comfortable South, where families could live together, to the harsh North-East on the Chinese border. I believed I had done justice. A couple of years later, fate arranged my education.
+
+Serving in an infantry brigade, I got romantically drawn to a bright young college student. She was Muslim, living in a hostel. One evening, she called in panic. Her parents had discovered our relationship, taken her home, confined her, and fixed her marriage against her wishes. She pleaded with me to rescue her. At that age, I mistook my recklessness for courage.
+
+With two fellow officers, I mounted what today sounds like a comic commando operation. At midnight, we scaled a six-foot compound wall, reached her first-floor room, helped her climb out with a small bag, bundled her into an Army jeep, drove to the nearest railway station, and sent her safely to friends in Bengaluru with Rs 5,000 in her hand.
+
+The next morning, all hell broke loose. The local MLA arrived with the police. The Brigade Commander summoned me. “Come clean,” he said. I confessed everything.
+
+He heard me out patiently before saying, “You are not going to marry her. Persuade her to return. Her parents have promised not to force the marriage and will allow her to continue her studies. But you must stop seeing her.” I gave him my word. Two days later, he called me again. “I’m not court-martialling you,” he said. “Everybody deserves one chance.” Then his face broke into a smile as he handed me the Rs 5,000 her parents had returned. “You bugger,” he laughed. “You have your cake and eat it too.”
+
+I was fortunate. There was no poisonous vocabulary like “love jihad” in those days. Only then did shame cut me to the bone. I had shown none of the compassion to that Havaldar which my Brigade Commander had shown me. I had followed the rule book but ignored the human being. Aldous Huxley’s words have stayed with me ever since: “Try to be a little kinder.”
+
+Which brings me to the students who protested in Delhi. Whatever one thinks of their demands or leadership, their anger is real. It reflects anxieties far beyond examinations – about jobs, opportunity, and the feeling that the system has failed and stopped listening. That explains why the protests travelled beyond campuses and attracted international attention. This is precisely the moment when empathy becomes statesmanship.
+
+Narendra Modi has often shown an instinctive ability to connect directly with young people. He invokes Vasudhaiva Kutumbakam, quotes Swami Vivekananda, and speaks of India’s demographic dividend. Why not meet these students? Invite a handful of their representatives for a simple meal, without the insulating ring of courtiers and officials. Listen more than speak. If mistakes have been made, acknowledge them honestly and correct them swiftly. An apology, where deserved, diminishes no leader. It enlarges him.
+
+The youth are not the opposition. They are India’s future. History offers enough warnings. Bangladesh, Nepal, and Sri Lanka all witnessed youth-led upheavals that swept away governments. This country has a deeper inheritance. This is Gandhi’s land.
+
+Democracies remain stable not because governments never err, but because they respond to discontent with empathy; because they possess the humility to hear that discontent before it hardens into rage.
+
+Capt G R Gopinath (Retd.) builds bridges, sometimes by tearing down walls. He is a soldier, farmer, and entrepreneurThe writer builds bridges, sometimes by tearing down walls. He is a soldier, farmer, and entrepreneur.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH)
+
+[Read full article](https://www.deccanherald.com/opinion/emperors-without-empathy-4087593)
+
+---
+
+### The hidayat for wellness
+*Deccan Herald · Opinion*
+
+Udayan Vajpeyi is a medical doctor. William Harris was speaking at a symposium about Raymond Williams in Korea when the young writer suddenly fell down. He lay unconscious on the floor while we tried to wake him up with our uniquely ineffective ways. Until a man came and checked Will’s pulse, made his diagnosis, and suggested a remedy. That is how I became aware of Udayan Vajpeyi’s professional expertise. To read his poems from the Hidayat Kabitayein section of Khuli Aankhein Aur Anya Kabitayein after that knowledge is, therefore, to feel an added layer of pleasure – and pressure.
+
+In these poems, though, Udayan Vajpeyi is not a physician but patient. The hidayat in the title is a collection of the new world’s sermons on ‘wellness’. The first poem is Protein. ‘I must eat a lot of protein now, I must fill my stomach with milk, paneer, dahi and dal.’ That is how the poem begins: a cacophonous collective that we now carry inside our heads supervising our protein intake as if our lives – and life insurance – were dependent on it. The second stanza is about eating very little sugar. We read about the effect of such a vigilant and calibrated diet, how things don’t move inside, and how he pines for sweetness all day. The outside enters the inside in varied ways – the health gospels in the head at first, and then the world, through metaphors. The first of these is the alimentary canal, which is likened to a queue in front of a railway booking counter – the food moves as slowly.
+
+The deprivation of sugar – of sweetness – triggers expectations, in the mind and the tongue, where rasa lives. ‘Mithaas ki chaha bani rehti hai jaise/ beech samudra main meethey pani ki’ – the craving for sweetness continues like that for sweet water in the middle of the sea. The poem ends with the world taking up real estate inside the speaker again, this time through something akin to metaphor – the dream of sugarcane fields inside a night dream. It’s fascinating, even moving, to see how the outside slips into the interior: pulses and dairy entering through the mouth, the restriction on sugar at the toll gate as it were; the queue of living humans outside a railway booking counter, a boat in the middle of an ocean, sugarcane fields. These invisible entrants cannot be detected through diagnostic tests; they build the poem just as the dal, dahi and doodh build the poet.
+
+The conceits continue in Char Litre Pani, a poem that records the consequences of drinking four litres of water. ‘Yeh bahut adhik hai’, this is too much, says the speaker, after the obedience to the health(y) dictum. There’s waterlogging inside the poet – and the poem – and soon he is no longer only a human being. Humour – and water – has turned the human into something else. Where else have we met the word tarang, waves, for the water inside the human body? As the night wears on, the body feels like something being grazed on.
+
+In both the poems, we see the outside entering inside – seeping, soaking, dissolving, draining, moving. There’s the obverse too. In Bistar, a poem about changing bedsheets daily, Vajpeyi writes: my bedsheet is changed every day; that is how my worries and insomnia are washed every morning; every morning there’s new bed-linen so that my worries and insomnia can fill them till the next morning. This is a poem of two stanzas: in the first, the bedsheet absorbs the night’s excrements of worry and insomnia; in the second, the fresh bedsheet waits, in anticipation of what the night will secrete into it. The same set of words is used in the first and second stanzas: bistar, bed; chadar, bedsheet; anidra, insomnia; subah, morning; dhoney; wash.
+
+And yet, apart from a minor change in tense, the past and future, the stanzas become different just from the syntax and arrangement of the words and the actions they commit or promise. But the first stanza has five lines, the second four. If both are about the invisible inside leaking into the outside, why should their length be different? ‘Subah tak usse anidra aur udbigna se bhar saku’. So that I can fill the bedsheet with insomnia and worry. Is it because the past feels longer than the future?
+
+Sumana Roy is an author and poet. Her books include How I Became a Tree and Provincials.
+
+The writer is an author and poet. Her books include How I Became a Tree and Provincials.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH)
+
+[Read full article](https://www.deccanherald.com/opinion/the-hidayat-for-wellness-4087595)
+
+---
+
+### Pradhan’s loss, Rahul’s gain?
+*The New Indian Express · Opinion*
+
+Predictably, Sonia Gandhi and Rahul Gandhi described the resignation as “a victory of India’s youth”. The BJP rejected that interpretation, maintaining that the government had acted in the larger interest of students. Between these competing political narratives lays the more important question: does this resignation represent an isolated concession, or has it punctured the aura of political invincibility that the Modi government has carefully cultivated over a decade? Or has it revived a demoralised opposition led by Rahul Gandhi?
+
+Rahul sat cross-legged on a dharna outside the Prime Minister’s residence on a sweltering Delhi afternoon, flanked by sister Priyanka Gandhi Vadra, as chants of “Pradhan hatao” rolled across Jantar Mantar barely a kilometre away. For weeks, the scene had repeated itself: tear gas drifting over crowds of coaching-hub students, baton charges scattering demonstrators near Parliament and a knot of opposition leaders taking turns at the microphone to demand the head of Pradhan over the NEET-UG paper-leak scandal. On Saturday, the demand was met. Pradhan resigned. For a government that has spent 12 years perfecting the art of never blinking, it was a rare visible embarrassing retreat.
+
+The resignation matters less for the man than for the precedent. The first Cabinet rank ministerial resignation extracted by public pressure in Modi’s entire tenure as both Chief Minister and Prime minister. Pradhan’s exit breaks an unbroken run and was won through an unusual convergence: Rahul and Congress leading dharnas and parliamentary disruption, regional allies from the Samajwadi Party to the Trinamool Congress joining in, education activist Sonam Wangchuk sustaining a 26-day hunger strike, and a youth-driven protest movement calling itself the Cockroach Janta Party mobilising students who had never previously engaged with party politics. Rarely has street pressure, parliamentary pressure, and civil-society pressure aligned so tightly against a single BJP minister.
+
+There is a pointed irony here for the BJP. The very toolkit it once accused the Congress-led UPA of being fatally vulnerable to sustained opposition agitation, middle-class outrage, and street pressure forcing a minister’s exit, has now claimed one of its own.
+
+Under Manmohan Singh, roughly half a dozen ministers resigned under comparable pressure over the UPA’s decade in office: A Raja over the 2G spectrum scam, Ashwani Kumar and Pawan Kumar Bansal within the same fortnight in 2013, and Dayanidhi Maran, Shashi Tharoor and Virbhadra Singh, among others. The BJP spent years mocking that pattern as proof of UPA’s corruption and disarray. Now the NDA has surrendered its own minister to precisely the same kind of pressure it once claimed to be immune to.
+
+Yet, whether this genuinely strengthens the opposition or simply proves how thoroughly Modi’s government otherwise controls the narrative is a harder question. One resignation does not undo 12 years of electoral dominance, and the government’s own framing offers a counter-narrative: Pradhan resigned, in his own words “in the larger interest of students”, not as an admission of guilt. Modi has not conceded any deeper systemic failure in the examination system.
+
+The CBI probe now underway, the cancelled exam and the re-test may end up appearing as decisive government action rather than capitulation, particularly once the news cycle moves on. Sceptics note that the BJP has weathered far larger controversies without conceding ground, and that a single resignation, however symbolically loaded, is a thin reed on which to build a national opposition revival. Modi’s personal approval and the BJP’s organisational machine remain, by most measures, substantially intact.
+
+Still, political observers are reading the moment as more than symbolic. It is the first tangible scalp Rahul has claimed in a career defined more by slogans than outcomes. For Congress strategists, the lesson is that grievance politics, when fused with an issue that touches middle-class aspiration directly—a rigged exam, a stolen future—can still move the needle against an otherwise dominant BJP. Will it work in the coming state elections?
+
+The real test now shifts to Uttar Pradesh, where Assembly elections are due in 2027. Akhilesh Yadav and his wife Dimple have already positioned themselves alongside Rahul and Priyanka at these protests, reviving the “UP ke ladke, UP ki ladkiyan” pairing from earlier campaigns that delivered disappointing returns at the ballot box. Congress strategists will now try to convert Pradhan’s resignation into a template: proof that the government can be made to bend and a rallying point for the same student and middle-class constituencies who felt betrayed by the NEET fiasco.
+
+Whether that translates into votes is a different matter. Uttar Pradesh’s electorate has historically prioritised infrastructure, welfare delivery and Yogi Adityanath’s law-and-order narrative over single-issue grievances, and past agitations, from the 2019-20 citizenship protests to the farm-law stir, generated enormous street energy without dislodging the BJP at the ballot box.
+
+History suggests both readings are plausible simultaneously. The 1974 JP movement began with a comparatively narrow grievance in Bihar and Gujarat before snowballing into a national anti-Indira wave that produced the 1977 defeat. The India Against Corruption movement of 2011-12 forced ministerial resignations and dented UPA’s moral authority, yet its direct electoral beneficiary was a new party, AAP. But nationally, the BJP was the beneficiary as Modi became Prime Minister. The Congress hopes Pradhan’s exit could mark the beginning of a similar chain reaction, or it could remain an isolated concession that Modi’s government successfully neutralises before the next election cycle begins.
+
+Political authority begins to erode not when a minister resigns, but when citizens discover that even the most powerful government can be compelled to respond to public pressure. Whether Rahul and his allies can convert that single, hard-won victory into durable political capital, particularly in Uttar Pradesh, will determine if July 25, 2026, is remembered as the moment the opposition finally found its footing, or as a rare, contained exception in an otherwise unbroken run of BJP dominance.
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/pc/2026/Jul/25/pradhans-loss-rahuls-gain)
+
+---
+
+### Student protests: Lessons for adults
+*The New Indian Express · Opinion*
+
+Updated on: 25 Jul 2026, 6:45 pm4 min readCopiedRegimes rarely choose their nemesis. Sometimes they arrive genetically coded for resilience and success. The Cockroach Janta Party did not choose its own name: the insult on a young people was pronounced from an altitude where words are meant to be weighed before being uttered. Abhijeet Dipke deployed the insult as identity leveraging an old truth: the creature survives everything designed to exterminate it.
+
+The rash comment produced a rash of dissent founded in angst and anger that acquired barricades, tear gas and a hunger strike. The leaks of exam papers year after year are not aberrations but recurrences, and have claimed over a score of lives. The protestors’ demands are quaint for the cynical— accountability, the minister’s resignation, withdrawal of cases, compensation to families of students who died and a system where papers never leak.
+
+No matter the political hue, parties in power harbour contempt for questions, are disdainful of dissent and revel in the complacency of arrogance. On the opening day of the monsoon session thousands marched on Parliament; over a hundred were injured. By Tuesday, the protesters had returned and rebuilt the camp the police had demolished. Mass outrage registered on the Richter scale. The cockroach, as advertised, survived. On Saturday, the arc of power bent before the wall of resistance.
+
+The biographical irony is thick enough to cut. This NDA regime owes much to student politics—nearly a dozen ministers graduated from the ABVP and the JP movement, their careers beginning with the kind of protests they now police. The Prime Minister’s own political formation runs through the Nav Nirman agitation of 1974. The party’s résumé was minted in the anti-Emergency movement amid lathi charges. Confronting its own biopic, the regime chose to wield lathis on those carrying the baton forward, only to retreat.
+
+The protests illustrated the erosion of the contract between society and the State. The epicentre Jantar Mantar, the 18th-century observatory built to read the heavens, measured the Republic’s mood. Barricades extended to the street named after Leo Tolstoy, who wrote that governments sustain themselves because people submit to systems they inwardly reject. This was not just another group. It represented the NEET middle, the hope of families who liquidated savings for a seat on the train to prosperity. Lending their voice were the jobless, professionals, activists and parents.
+
+Gen Z protesters’ repertoire of innovations in the face of brutality inspired and riveted India. Students in Delhi sang the national anthem, freezing the police mid-lathi-charge; in Patna the use of water cannon was converted into a rain dance; in Mumbai a young woman stopped a police van—India’s own tank-woman frame. The geography of the protests illustrates the consensus of the youth from the proverbial Kashmir to Kanyakumari—the catchment includes the districts spanning coaching empires harvesting over $7 billion annually.
+
+Governments underestimate students at their own peril. It was students who set themselves and the official languages script aflame in Madras in 1965, triggering the exit of Congress and the installation of DMK in Tamil Nadu. Indira Gandhi lost the plot with the 1974 agitation in the hostels of Ahmedabad. It was Bihar’s students who then asked Jayaprakash Narayan to lead them. The Assam agitation was led by students. Globally, students hastened de Gaulle’s exit in Paris, led the Velvet Revolution in Prague, defied Suharto in Indonesia and recently drove change in Dhaka, Colombo and Kathmandu. Students do not need to win elections to end governments. Each generation files its petition on the street when it is not heard.
+
+Arithmetic explains power and political anxiety. Projections estimate the 15-29 cohort at around 371 million—a youth nation larger than the population of the US. It is the constituency of potential voters—some about to reach the ballot box, some in the job queue disappointed by it. It came of political age a decade back and knows only the promises and disappointments of one regime. Any government in an argument with a quarter of its population can only hope to change the narrative or submit.
+
+Typically, the standard operating system of power is ignore, insult, injure, invite. The regime’s spin masters inducted the foreign hand to shift the narrative just like Indira Gandhi did before imposing the Emergency. The mechanics of discouragement follow the muscle. Ill-advised advisories from universities caution students against expressing affinity with political movements, in person and on social media. The opposition, meanwhile, did what oppositions do—arrive after the audience is seated.
+
+Students are the isotopes of the body politic. Like the radioactive tracers doctors use, students perform the diagnostic function for society and regimes. The malignancy lights up. They have no baggage, no stake in the settled order, no incentive to lie about the condition of the State. Isotopes are also the variants that split and set off the chain reaction. Their grievances are leading indicators: the leaked paper today is the jobless quarter tomorrow. And they impose an impossible dilemma on power.
+
+The cause of the anger is a crisis of systemic credibility. Count the instruments of the State that have let down the youth: exams that cannot certify merit, the paradox of unemployment and unfilled posts, courts with seemingly no time for grievances, programmes for internships and jobs that under-deliver, and fast-track courts with a slow-track record. A nation’s aspirations cannot flourish in a society where truth resides in the complicity of silence. The young at Jantar Mantar refused the terms of that settlement. In their victory the students taught the State and the adults a lesson about youth power and the genetic code of Gen Z.
+
+Author of The Gated Republic, Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/Jul/25/student-protests-lessons-for-adults)
+
+---
 
 ## 25 July 2026
 
@@ -38,6 +205,28 @@ Worse, the number of young women (aged 15-29 years) who were neither looking for
 Santosh Mehrotra was a former Professor of Economics, Jawaharlal Nehru University, and with the Planning Commission. Jajati Keshari Parida is a Professor of Economics, University of Hyderabad. The writers are the authors of the book, ‘India Out of Work: Rethinking India’s Growth Story’
 
 [Read full article](https://www.thehindu.com/opinion/lead/a-growth-story-that-needs-women-at-work/article71262978.ece)
+
+---
+
+### Chandrakant Lahariya | Right To Return Home Alive: Killer Roads a Growing Menace in India
+*Deccan Chronicle · Opinion*
+
+On the first Sunday of July, I lost a dear friend, Dr Biplab Mukhopadhyay, 43, a gifted laparoscopic gynaecological surgeon, to a tragic road traffic accident in Delhi. He had spent the day doing what he was trained to do: saving lives. After completing a successful surgery, he stepped out of the hospital and began crossing a road in New Delhi’s Chattarpur area, when a speeding motorcycle struck him. He was rushed to the emergency room in hospital but did not survive.I had known Biplab for only three years. Yet friendship is not always measured in calendar time. Some people take decades to enter our inner lives; others arrive quietly through meetings, brief conversations and small acts of warmth. He had that rare gift: a gentle presence. Whenever we met, there was a smile, a brief conversation, perhaps a joke, and the assumption that there would always be another meeting. That Sunday afternoon, I had seen him at an academic gathering. By late evening, the news arrived that he was gone.For India, Biplab will become one more road-traffic fatality. For his wife, children, family, patients and friends, he will never be a number. He is a life interrupted, a chair left empty, a familiar voice silenced.The distance between a statistic and a human life helps explain why India has tolerated its road- safety crisis for so long. In 2024, India officially recorded nearly 4.88 lakh road crashes. They killed 177,177 people: about 485 deaths every day, or more than twenty every hour. These numbers, already staggering, tell only part of the story. Road crashes do not merely kill. They disable as well.A survivor may leave a trauma ward with a spinal injury, brain damage, an amputation, visual loss, chronic pain or cognitive impairment. The burden of road trauma is counted not only in funerals but in lost livelihoods, interrupted education, depleted savings, dependence and years of healthy life lost.This is why the Supreme Court’s judgment of June 19, 2026 matters. By recognising the right to walk, including the right to safe and demarcated footpaths, as a fundamental right, the court did more than settle a legal dispute. In India, our cities have been designed as though roads belong first to cars and vehicles and pedestrians must bargain for whatever remains. The court’s proposition is simple: mobility cannot be measured only by how rapidly cars travel. A decent city must also ask whether a child can walk safely, whether an elderly person can cross without fear, and whether a wheelchair user can move independently.But while courts can declare rights; only the governments can free up the pavements for the public.
+
+Speeding, drunk driving, red-light jumping, wrong-side driving and failure to use helmets or seat belts cannot remain offences enforced mainly through occasional campaigns. Missing footpaths, unsafe crossings, dark stretches, dangerous junctions and recurrent crash locations should be identified and repaired against deadlines.Ambulance speed, trained first responders, rational trauma-referral networks and functional trauma centres often determine whether a victim dies, survives with severe disability or returns to ordinary life.The medium-term task is harder: redesign the system itself.
+
+People make mistakes: drivers misjudge speed, children move unpredictably, older people walk slowly, and riders lose balance. The answer is safer design: continuous footpaths, protected cycle lanes, frequent crossings, refuge islands, traffic calming, safer junctions, good lighting, corrected black spots, appropriate speeds, and faster emergency care when crashes occur.This is the essence of the safe system approach: people will make mistakes, but ordinary mistakess hould not carry a death sentence. Roads, speeds, vehicles and institutions must be designed to absorb error. The key challenge is cultural.India must abandon the idea that a good road is simply one on which vehicles move fast. Speed has become the vanity metric of transport policy. Flyovers, expressways and widened carriageways are visible achievements; a safe crossing or intact pavement is less photogenic. Yet civilisation is often revealed by the infrastructure it builds for the slowest person, not the fastest machine.Sweden’s Vision Zero began with an ethical proposition: no death or serious injury on the road is acceptable. Its significance lay not in imagining that people would stop making mistakes, but in refusing to make individuals carry the entire burden of a system’s failures. Road users had responsibilities; but so did road designers, vehicle manufacturers, enforcement agencies and governments. Geography, density and traffic patterns differ. But the principle still travels well: road deaths fall when societies stop describing them as inevitable accidents and start treating them as preventable system failures.That shift requires political leadership, stronger city governments, better crash data, independent safety audits, accountable road agencies and...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/chandrakant-lahariya-right-to-return-home-alive-killer-roads-a-growing-menace-in-india-1973916)
+
+---
+
+### Manish Tewari | Resilient Iran Changes Mideast Security Game
+*Deccan Chronicle · Opinion*
+
+Between 2024 and 2026, the Middle East moved from a prolonged shadow war into direct state-to-state conflict.On June 13, 2025, Israel launched surprise and sneak attacks at nuclear facilities in Iran. The United States joined the assault on June 22, 2025, under the aegis of an operation codenamed Midnight Hammer to try and obliterate Iran’s nuclear facilities that were not decapitated by the Israeli strikes. Seven B-2 Spirit stealth bombers flew continuously for 18 hours from their base in Whiteman, Missouri, defended by F-35 and F-22 fighter aircraft to draw any incoming surface to air missile or anti-aircraft fire. These B-2 stealth bombers dropped bunker bursting bombs on Fordow and Natanz Iranian nuclear sites. The bombing inflicted significant damage.Tehran retaliated by leveraging its ‘Axis of Resistance,’ a loosely knit network of armed groups and state actors in the Middle East. It is also colloquially referred to as the Shia Crescent that emerged in the wake of the ill-considered US invasion of Iraq. Its cohesion is at best recondite. While the Hezbollah in Lebanon coordinates closely with its Iranian patron, others, such as Yemen’s Houthis, are partners of convenience. What binds them are shared objectives, driving the American presence and influence out of the region, the elimination of the Israeli state, and support for the Palestinian resistance.From Decapitation to Continuity: The US and Israel again on February 28, 2026, amid ongoing negotiations between the US and Iran in Geneva on the nuclear question launched an operation codenamed Operation Epic Fury and Operation Roaring Lion, respectively, against Iran’s nuclear and ballistic missile infrastructure with an underlying assumption that this round of regime decapitation strikes would topple the Iranian leadership.This undergirded assumption was based upon the widespread protests against the Iranian regime that commenced on December 28, 2025, and continued through much of January and February 2026. The protests were brutally put down by the mullah regime in Tehran with over 30,000 young Iranians being mercilessly butchered by the indiscriminate use of heavy military grade weapons against unarmed protesters.On March 1, 2026, a US-Israeli precision strike assassinated Ayatollah Ali Khamenei, the Iranian Supreme Leader who had reigned for thirty-seven years.An Interim Leadership Council was constituted within days. Mojtaba Khamenei succeeded his father with the backing of the Islamic Revolutionary Guard Corps.Notwithstanding extensive disenchantment with the mullah regime and visible domestic polarisation, the Islamic Republic preserved functional command. It is this capacity to absorb unprecedented blows that is now reshaping the security architecture of the Middle East.Bases as Liabilities: The Middle Eastern Security architecture rests on America’s forward military presence, which dates back to the Marine landing in Beirut in 1958. According to the Council on Foreign Relations, in total, the US has military facilities across at least 19 countries in the Middle East, eight of them are considered as permanent in countries including Bahrain, Egypt, Iraq, Israel, Jordan, Kuwait, Qatar, Saudi Arabia, Syria, and the United Arab Emirates. The US military also uses large bases in Djibouti and Turkey, which are part of other regional commands but often contribute significantly to US operations in the Middle East.Paradoxically, 18 out of these 19 military and basing arrangements are with the Islamic and Arab states and only one is with Israel. The latter however is the most significant. As the US and Israeli militaries stepped up their attacks again after a momentary ceasefire and the war enters its 149th day, Tehran launched strikes again across the Middle East, forcing Bahrain, Iraq, Kuwait, Oman and Qatar, along with Jordan and Syria, to take defensive action against incoming missiles and drones. Tehran’s actions in itself sketch out the contours of the region’s current security order. Iran insists that it is hitting US facilities because Washington has used its regional bases as launchpads for strikes on Iran. A logic that automatically converts host-state territory into a veritable battlefield.On July 18, Kuwait’s ministry of electricity, water and renewable energy confirmed via X that an Iranian strike hit one of its power generation and water desalination stations, sparking a fire and knocking a large number of electricity generation units out of service.The Gulf Cooperation Council’s secretary-general, Jasem al-Budaiwi, condemned Iran’s “treacherous” attacks on Bahrain, Kuwait and Jordan, warning that continued strikes on critical infrastructure risked dragging the region into deeper instability. The states anchoring US’s regional presence are now absorbing the blowback of a war fought from their soil and the security architecture built on it is bending under the strain.Hormuz as Leverage: Iran’s second instrument is geography. The Strait of...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/manish-tewari-resilient-iran-changes-mideast-security-game-1973912)
 
 ---
 
@@ -8493,45 +8682,6 @@ The most dangerous consequence of the war may not be visible in today’s data�
 Author of The Gated Republic, Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India
 
 [Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/May/02/trumps-war-sends-prices-up-rupee-down-and-budgets-into-a-spin)
-
----
-
-## 26 April 2026
-
-### Korea earns. India pays. Who dictates?
-*The New Indian Express · Opinion*
-
-Recently, a day before South Korean President Lee Jae Myung’s aircraft touched down at Palam, the foreign ministry held its customary pre-visit briefing at South Block. While briefing the reporters, Secretary (East) P Kumaran made an unusual disclosure: “Bilateral trade is close to $27 billion, but it is quite unbalanced. Our exports are in the range of about $6.5 billion, while Korea’s is about $21.4 billion. So there is a need to rebalance the CEPA (Comprehensive Economic Partnership Agreement).”
-
-The sentence was deliberate and it wasn’t a diplomatic deviation. It was the government publicly naming an asymmetry that had gone diplomatically unspoken for 16 years. What followed—the handshakes, the fanfare, the 16 MoUs, the headline promise of doubling bilateral trade to $54 billion by 2030—must be read against that uncomfortable reality.
-
-India’s exports to South Korea plummeted to $5.82 billion in 2024-25, as against $8 billion in 2021-22. Korean exports to India surged to $21.06 billion over the same time. The trade deficit, at $15.2 billion in 2024-25, has roughly tripled since the 2010 CEPA came into force. Indian exports to Korea contracted at an 11 percent compound annual rate between 2021-22 and 2023-24, while Korean imports grew 10 percent a year. Fifteen years of CEPA have tripled the gap that the 2030 trade target will now have to close.
-
-The roughly $50-billion bilateral target Modi and Lee announced is not new. Moon Jae-in and Modi set the same goal in 2019. What is new is Delhi’s public acknowledgement that hitting that number without fixing the ratio would simply enlarge the chasm.
-
-The roughly $50-billion bilateral target Modi and Lee announced is not new. Moon Jae-in and Modi set the same goal in 2019. What is new is Delhi’s public acknowledgement that hitting that number without fixing the ratio would simply enlarge the chasm.
-
-At the heart of the outrage stand the Korean blue-chip subsidiaries whose Indian operations now dwarf their parents in perceived value and cash-generation power. For example, LG Electronics India reported revenue of Rs 24,366 crore and a net profit of Rs 2,203 crore last year, up 46 percent year-on-year. Royalty payments to the South Korean parent reached Rs 454.61 crore. But the real headline came with its October 2025 IPO: the Indian subsidiary’s market capitalisation surged to approximately $13 billion upon listing, eclipsing its South Korean parent’s market cap of about $9 billion at the time on the Seoul exchange. In one stroke, LG India’s net worth in the eyes of global investors surpassed that of its Korean headquarters’. And it was purely due to generous policy environment.
-
-Maruti Suzuki had earlier achieved the same inversion. India’s largest carmaker has recently been worth approximately $57 billion, more than double its Japanese parent Suzuki Motor Corp’s market cap. The pattern is not coincidental. It is structural.
-
-Hyundai Motor India and its sibling Kia tell a similar tale of extraction masked as investment. Last year, the company reported consolidated revenue of approximately Rs 69,193 crore and a profit after tax of `5,640 crore. Its IPO, India’s largest, raised $3.3 billion through an offer-for-sale mechanism, with the entire proceeds flowing to the Korean parent rather than to the Indian subsidiary. Royalty payments stand at 3.5 percent of sales revenue, mysteriously raised from 2.5 percent in earlier years, translating into thousands of crores annually repatriated to Seoul. Together, these auto majors command nearly 20 percent of India’s passenger vehicle market. Such an anomaly has left Tata Motors and Mahindra to fight an uphill battle against what many term subsidised Korean pricing power.
-
-Samsung India completes the triumvirate of value extractors. Its revenue for the first time crossed Rs 1.11 lakh crore during 2025, making it the only consumer-electronics firm in India to cross the trillion-rupee mark. During 2024, its net profit stood at Rs 8,188 crore on revenue of Rs 99,541 crore, while royalty remittances to the Korean parent hit Rs 3,322 crore, roughly 40 percent of that year’s net profit. Retained earnings have ballooned and been diverted to Vietnam.
-
-Even Japanese major Suzuki, through its Maruti Suzuki India avatar, has come under parallel attack for similar preferential treatment. Long accused of royalty structures that siphon significant portions of profit, the message from Indian auto captains is clear: when foreign giants, Korean or Japanese, enjoy duty arbitrage, technology-transfer loopholes and policy sweeteners, domestic firms bleed competitiveness. Indian policymakers, they allege, have been influenced into crafting an environment where FDI is feted while local investors shoulder the risk without equivalent reward.
-
-The most galling dimension for many is the Vietnam paradox. Korea’s cumulative FDI in India stood at about $10 billion till 2024, despite India’s economy being 10 times larger than Vietnam’s. Profits earned from Indian consumers through high royalties, IPO cash-outs and dividend flows are effectively subsidising Vietnamese factories that then export finished goods back into India. Why? Swadeshi leaders ask this in rising chorus: should Korean conglomerates plough cash extracted from India into manufacturing facilities in a smaller neighbour that then undercuts Indian industry? The optics is toxic: India as a lucrative cash cow, Vietnam as the preferred factory floor.
-
-This is no abstract economic grievance. It strikes at the soul of India’s self-reliance narrative. Decades of liberalisation were sold on the promise that FDI would catalyse domestic industry, transfer technology and create balanced growth. Instead, the policy has tilted towards foreign giants who repatriate profits, royalties, special dividends and IPO proceeds liberally.
-
-On the other hand, Indian firms struggle with higher compliance costs, delayed approvals, and a royalty burden that starves local innovation. As CEPA upgrade talks accelerate post the Lee visit, the moment of reckoning has arrived. Yet the fundamental question lingers: will Delhi muster the courage to rewrite the rules, or will Korean or Japanese influence once again preserve status quo that extracts wealth while eroding India’s industrial sovereignty?
-
-The answer to that question will define not merely the future of India-Korea trade relations, but the credibility of every strategic partnership India signs from this point forward. CEPA should be rewritten not by negotiators who measure success in MoU counts, but by those who measure it in industrial jobs created and domestic enterprises strengthened.
-
-India possesses the leverage it has never previously exercised. It’s the world’s largest consumer market and the world’s fastest-growing major economy. The future will reveal whether New Delhi’s negotiators, seated across from their Korean counterparts, have the institutional will to block the outflow, or whether India, once again, signs the documents, hosts the dinner and watches the profits leave on the next flight to Seoul.
-
-[Read full article](https://www.newindianexpress.com/opinion/columns/pc/2026/Apr/25/korea-earns-india-pays-who-dictates)
 
 ---
 
