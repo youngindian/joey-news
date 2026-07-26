@@ -1,3 +1,418 @@
+## 26 July 2026
+
+### CJP's Abhijeet Dipke Shares First Morning Update After 37-Day Protest: 'This Is Just The Beginning'
+*Mallika Soni · general*
+
+In a video posted on X (formerly Twitter), the 30-year-old said he was finally able to rest after weeks of continuous activity.
+
+[Read full article](https://www.news18.com/india/cjps-abhijeet-dipke-shares-first-morning-update-after-37-day-protest-this-is-just-the-beginning-ws-l-10233879.html)
+
+---
+
+### ‘Their Valour Will Remain Source Of National Pride’: PM Modi Pays Tribute To Soldiers On Kargil Vijay Diwas
+*Aanchal Sinha · general*
+
+PM Narendra Modi paid tribute to Indian soldiers on Kargil Vijay Diwas, honoring their courage and sacrifice in the 1999 Kargil War.
+
+[Read full article](https://www.news18.com/india/their-valour-will-remain-source-of-national-pride-pm-modi-pays-tribute-to-soldiers-on-kargil-vijay-diwas-ws-kl-10233861.html)
+
+---
+
+### 'If you had not called us 'cockroaches'...': Abhijit Dipke's message to CJI Surya Kant from Jantar Mantar after Dharmendra Pradhan's resignation
+*TOI City Desk · regional*
+
+In this image received on July 25, 2026, Cockroach Janta Party (CJP) Founder Abhijeet Dipke celebrates after Union Education Minister Dharmendra Pradhan resigned (PTI Photo)
+
+NEW DELHI: Cockroach Janta Party (CJP) founder Abhijit Dipke on Saturday thanked Chief Justice of India Surya Kant, saying his "cockroaches" remark about unemployed youth had sparked the movement that culminated in Union Education Minister Dharmendra Pradhan's resignation."If you had not called us 'cockroaches', I would not have returned to India. If you had not called us 'cockroaches', the youth of the country would not have come out on the streets. If you had not called us 'cockroaches', Dharmendra Pradhan's resignation would not have happened," Dipke said. The movement traces its origins to May 15 this year, when Chief Justice of India Surya Kant, during a court hearing, reportedly remarked that some unemployed youngsters become journalists, RTI activists or social media users and "start attacking everyone".
+
+He later clarified that his comments had been taken out of context and were not intended as a criticism of unemployed youth in general. The CJI said he was referring only to individuals entering professions with fake or bogus degrees and described reports claiming he had demeaned young people as "totally baseless".Dipke's remarks came hours after the CJP called off its 36-day agitation following Pradhan's resignation on Saturday and the government's acceptance of its remaining demands.
+
+The youth-led movement had mobilised lakhs of people over alleged irregularities in competitive examinations and the NEET paper leak.In a statement announcing his resignation, Pradhan said the developments of the past 10 days had "saddened" him deeply and that the issue was "not a matter of personal prestige".He said he did not want "anti-national forces" to exploit the situation and wanted to ensure that "the unity of the nation remains intact", "the future of even a single student should not become entangled in legal complications" and that students could focus on their studies and careers."Keeping all these considerations in mind, I have sent my resignation to the Hon'ble Prime Minister," he said.Soon after the announcement, the CJP declared that it was ending its agitation after the government agreed to its remaining demands, including compensation for the families of students who allegedly died by suicide following the NEET paper leak and the withdrawal of FIRs registered against protesters.The decision followed the third round of talks at the Constitution Club of India, where Union ministers J P Nadda and Jitendra Singh met CJP representatives Saurav Das and Ashutosh Ranka.Addressing a joint press conference with the CJP leadership, Nadda said the government would provide "honourable compensation" within the rules to the families of students who committed suicide after the NEET examination controversy and ensure the withdrawal of all FIRs registered against protesters."As the government accepted all our demands, we call off our protests with immediate effect. We appeal everyone to go back home peacefully," Das said.Celebrations broke out at Jantar Mantar after Pradhan's resignation, with protesters chanting "Hum Jeet Gaye" (We have won). As the protest site was cleared, authorities urged demonstrators to disperse peacefully, while the Delhi Metro Rail Corporation reopened all entry and exit gates at nearby stations.Pradhan's resignation marked a significant political setback for the Narendra Modi government, which had initially dismissed the agitation before opening talks with the protesters.He is only the second Union minister to resign during Narendra Modi's tenure as prime minister following sustained public controversy. The first was M J Akbar, who stepped down as minister of state for external affairs in 2018 after sexual harassment allegations emerged during the #MeToo movement.The resignation is also among the few instances since 2014 in which the Modi government has reversed course under sustained public or political pressure, alongside shelving proposed amendments to the land acquisition law in 2015 and repealing the three farm laws in 2021.
+
+---
+
+### ED Attaches Hotel Rangsharda, Prabhadevi Land Worth ₹332 Crore In Mumbai PMLA Case
+*Pragya Bahuguna · general*
+
+The ED has attached Hotel Rangsharda in Bandra and a Prabhadevi property worth ₹332.24 crore over alleged commercial misuse of MHADA-allotted land.
+
+[Read full article](https://www.news18.com/cities/mumbai-news/ed-attaches-hotel-rangsharda-prabhadevi-land-worth-332-crore-in-mumbai-pmla-case-ws-l-10233860.html)
+
+---
+
+### Kerala Lottery Result Live: Samrudhi SM-65, July 26, 2026 Winners | News18
+*Nibandh Vinod · general*
+
+Kerala Lottery Result Today: Samrudhi SM-65 lottery result will be declared today, on Sunday, July 26. Check the live updates and full list of winning numbers from 3 pm.
+
+[Read full article](https://www.news18.com/india/kerala-lottery-result-today-samrudhi-sm-65-july-26-live-10230945.html)
+
+---
+
+### Top 7 quotes that defined CJP’s protest against Education Minister
+*India Today Education Desk · general*
+
+## From emotional speeches to powerful slogans, the CJP protest at Delhi's Jantar Mantar was marked by words that resonated with thousands of students. Here are seven quotes that captured the spirit of the movement.
+
+CJP protest: Top 7 quotes that defined CJP’s protest against Education Minister. (Photo: PTI)
+
+The protest led by the Cockroach Janta Party (CJP) at Delhi's Jantar Mantar was not only defined by large crowds and sustained demonstrations but also by powerful speeches and slogans that reflected the mood of thousands of students.
+
+The movement, launched over demands linked to education reforms and accountability, reached a major milestone after Education Minister Dharmendra Pradhan resigned. Even after the resignation, CJP leaders made it clear that their agitation would continue until all their demands are addressed. However, after the meeting with the government, the protest has been called off.
+
+But, the voices of protest still remain high. Here are the seven quotes that came to define the protest:
+
+### THE WORDS THAT STOOD OUT
+
+**1\. "Dharmendra Pradhan has resigned and this is the proof that if you don't get scared, you can win."**
+
+— Abhijeet Dipke, CJP Founder
+
+Announcing the resignation to cheering protesters at Jantar Mantar, Dipke described it as proof that sustained public pressure can bring change.
+
+**2\. "I may even die, but I won't step back."**
+
+— Sonam Wangchuk
+
+The education reform activist's statement became one of the most emotional moments of the protest, reinforcing the message that the movement would continue despite challenges.
+
+**3\. "He has resigned, but we have two more demands. We will not go like this."**
+
+— Abhijeet Dipke
+
+Even after the resignation, Dipke reminded supporters that the protest was not over, with issues such as compensation and other pending demands still unresolved.
+
+**4\. "The Education Minister has submitted his resignation. Long live Student Power!"**
+
+— CJP Official Statement
+
+The organisation's official announcement celebrated the resignation as a victory for collective student action.
+
+**5\. "We will not be scared by your politics."**
+
+— Protest slogan introduced by Abhijeet Dipke
+
+Repeated throughout the demonstrations, the slogan urged students and citizens to overcome fear and continue raising their voices.
+
+**6\. "_Kaha jaata tha iss sarkar mein istife nahi hote. Jhukti hai duniya, jhukaane waala chahiye._" (People often said that no one resigns under this government. Today proves that change is possible when people stand their ground.)**
+
+— Abhijeet Dipke
+
+Delivered moments after the resignation was announced, the line drew loud cheers from the gathering and quickly became one of the protest's defining moments.
+
+**7\. "PhD in Promises."**
+
+— A slogan seen among protesters
+
+Displayed on placards at the protest site, the phrase criticised what demonstrators described as repeated assurances without concrete action.
+
+### WHAT HAPPENS NEXT?
+
+The CJP protest began as a campaign demanding accountability and reforms in the education sector. The resignation of Education Minister Dharmendra Pradhan marked a significant moment for the movement, putting it as the first step towards major changes to come.
+
+\- Ends
+
+Princy Shukla
+
+Jul 26, 2026 09:00 IST
+
+---
+
+### Grandparents at 70, parents at 45: How IVF is quietly redrawing the Indian family
+*Smarica Pant · general*
+
+## As more Indians become parents in their 40s through IVF and assisted reproduction, family life is changing in unexpected ways. Grandparents in their 70s are becoming active caregivers, while parents are balancing toddlerhood with retirement planning, creating an entirely new phase of Indian family life.
+
+As more couples embrace parenthood later in life through IVF, grandparents are increasingly playing an active role in raising the next generation. (AI Generated)
+
+There was a time when becoming a grandparent in India usually happened in the early 50s. Children were born soon after marriage, and three generations often moved through life on a familiar timeline.
+
+Today, that picture is changing.
+
+Across India's cities and, increasingly, in smaller towns too, many couples are becoming first-time parents in their late 30s and 40s. Careers, financial stability, delayed marriages, second marriages, changing priorities and growing awareness about fertility treatment have all contributed to this shift. Alongside these social changes, advances in in-vitro fertilisation (IVF) and assisted reproductive technology (ART) have made it possible for many people to have children later than previous generations thought possible.
+
+The result is not just older parents. It is creating a completely new family structure.
+
+Today, it is increasingly common to find grandparents in their late 60s and even 70s helping raise toddlers, attending school functions, babysitting after classes, and learning how to use video calls to entertain grandchildren. Parents, meanwhile, are worrying about nursery admissions while also planning retirement, paying for home loans, supporting ageing parents and building college funds—all at the same time.
+
+Doctors say IVF is no longer only changing how babies are conceived. It is quietly changing what it means to be a parent, a grandparent and a family in modern India.
+
+### PARENTHOOD IS NO LONGER FOLLOWING THE OLD TIMELINE
+
+For decades, Indian society expected a predictable sequence: education, marriage, children and then grandchildren.
+
+That timeline has steadily shifted.
+
+Many women today pursue higher education, build careers or marry later. Couples often wait until they feel financially secure before starting a family. Some face fertility challenges that become more common with increasing age, leading them to seek medical help through IVF or other fertility treatments.
+
+According to Dr Muskaan Chhabra, Fertility Specialist at Birla Fertility & IVF, IVF allows many couples to become parents when pregnancy has not happened naturally after careful medical evaluation and personalised treatment.
+
+### THE RISE OF "OLDER GRANDPARENTS"
+
+Perhaps the biggest change is happening one generation above.
+
+Instead of becoming grandparents in their early 50s, many are entering grandparenthood in their late 60s or early 70s.
+
+For some families, retirement no longer means travelling, relaxing or pursuing hobbies. Instead, it means morning school runs, preparing lunchboxes, storytelling, helping with homework, and spending afternoons with energetic toddlers.
+
+Dr Muskaan Chhabra says grandparents are increasingly becoming active participants throughout the fertility journey and beyond.
+
+She notes that parents who once found infertility difficult to discuss are now accompanying their adult children to consultations, asking informed questions and offering emotional support during treatment. After the baby arrives, many continue to play an important caregiving role despite being in their late 60s or 70s.
+
+For working couples, this support can be invaluable.
+
+With daycare costs rising, and both parents often employed, grandparents provide stability, trust and continuity that many families depend on.
+
+### BALANCING DIAPERS AND RETIREMENT PLANNING
+
+Late parenthood also creates unique financial realities.
+
+Parents in their 40s are often at the peak of their careers, but they are simultaneously managing several major financial responsibilities.
+
+They may be:
+
+-   Saving for retirement.
+-   Paying off home loans.
+-   Supporting ageing parents.
+-   Funding IVF treatment.
+-   Planning for a child's education that may continue well into their own retirement years.
+
+Unlike younger parents, they have fewer earning years left before retirement to build wealth for their children.
+
+Financial planners say this makes long-term planning more important than ever.
+
+### MORE MATURITY, BUT LESS ENERGY?
+
+Experts say later parenthood comes with both advantages and challenges.
+
+Many older parents are emotionally mature, financially stable and better prepared for raising children. They often report feeling more patient and intentional in their parenting.
+
+However, physical stamina can become a challenge. Keeping up with toddlers requires energy, regular health check-ups and maintaining good physical fitness. Parents also need to think ahead about their own health as their children grow into teenagers.
+
+The same applies to grandparents. Many are willing and eager to help, but caregiving in their 70s can also be physically demanding.
+
+Families increasingly need to balance enthusiasm with realistic expectations about health and caregiving responsibilities.
+
+### IVF IS CHANGING FAMILY CONVERSATIONS
+
+Another noticeable shift is the way families talk about fertility. Just a decade ago, infertility was often discussed in whispers, if at all.
+
+Today, fertility specialists say conversations are becoming more open. Parents attend appointments with their adult children. Siblings, relatives and even workplaces are becoming more supportive of fertility treatment.
+
+Dr Chhabra says IVF is no longer viewed only as a private issue between a couple and their doctor. Families are becoming active partners in the journey, reflecting a broader acceptance of fertility care.
+
+### CHANGING IDEAS OF MOTHERHOOD AND FATHERHOOD
+
+Public conversations around later motherhood have also become more visible.
+
+Celebrities and public figures having children in their 40s have challenged the traditional belief that parenthood must happen within one fixed age window.
+
+Doctors caution that every fertility journey is unique and that one person's experience should not be compared with another's. Age remains one of the biggest factors affecting fertility, and IVF cannot completely overcome the natural decline in egg quality or sperm quality.
+
+Still, growing awareness has encouraged more couples to seek medical advice earlier instead of silently accepting infertility.
+
+### A NEW GENERATION OF INDIAN FAMILIES
+
+The changing age of parenthood is creating families unlike any India has seen before. A five-year-old may have grandparents who are in their mid-70s. A father attending a parent-teacher meeting may also be planning his retirement. A grandmother who imagined peaceful retirement may instead be learning nursery rhymes again.
+
+These changes reflect more than medical advances. They mirror broader shifts in Indian society: people marrying later, living longer, building careers differently and redefining what family life looks like.
+
+IVF has not simply helped more couples become parents. It has quietly rewritten the rhythm of the Indian family.
+
+The traditional timeline of marriage, children and grandparenthood is giving way to one that is more flexible, more individual and increasingly supported by modern medicine. As Dr Chhabra points out, what has changed is not the value Indians place on family, but the age at which people reach parenthood and the growing acceptance of medical support in helping them get there.
+
+\- Ends
+
+Smarica Pant
+
+Jul 26, 2026 09:00 IST
+
+---
+
+### Black Panther 3 introduces David Jonsson as the new grown-up Prince T'Challa—here's why Marvel chose him to carry Chadwick Boseman's legacy
+*Trending Desk · business*
+
+David Jonsson Black Panther: Marvel Studios has officially found the next actor to carry one of the Marvel Cinematic Universe's most emotional legacies. At San Diego Comic-Con 2026, director Ryan Coogler confirmed that David Jonsson will star in Black Panther 3 as the grown-up Prince T'Challa, the son of the late King T'Challa and Nakia.
+
+The announcement marks a major turning point for the Black Panther franchise, which has been navigating the future of Wakanda since the death of Chadwick Boseman in 2020. Rather than recasting Boseman's character, Marvel is moving the story forward through the next generation.
+
+**
+
+  
+
+## Who is David Jonsson, the new Black Panther?
+
+David Jonsson has quickly become one of Britain's most promising young actors.
+
+The 32-year-old first earned recognition for his role in the HBO/BBC drama Industry, before gaining wider attention for his performance in Alien: Romulus. More recently, he starred in The Long Walk, the adaptation of Stephen King's novel that further cemented his reputation as a rising Hollywood talent.
+
+Now, Jonsson is stepping into one of Marvel's biggest franchises as the adult version of Prince T'Challa, a character briefly introduced at the end of Black Panther: Wakanda Forever.
+
+**
+
+## How Prince T'Challa was introduced in the MCU
+
+Fans first met the young prince during the emotional closing moments of Black Panther: Wakanda Forever.
+
+In that scene, Nakia, played by Lupita Nyong'o, revealed that she and King T'Challa had secretly raised a son away from Wakanda. Although the boy was known as Toussaint, she also revealed his Wakandan name—T'Challa—honoring his late father.
+
+That ending hinted the Black Panther legacy would continue through the next generation instead of replacing Chadwick Boseman's character.
+
+## Ryan Coogler confirms Black Panther 3 at Comic-Con
+
+After years of speculation, Ryan Coogler officially announced Black Panther 3 during Marvel Studios' Hall H presentation at Comic-Con.
+
+Coogler will return as writer and director, while Letitia Wright and Winston Duke are set to reprise their roles. Marvel also confirmed that the film will arrive in theaters on December 15, 2028 and will be shot in 70mm large-format film, giving the next Wakanda adventure a more cinematic look.
+
+## David Jonsson reacts to joining the Marvel family
+
+Taking the stage after the announcement, Jonsson admitted he was overwhelmed by the opportunity to become part of the Black Panther franchise.
+
+"Thank you to this amazing family that I have the honor and the privilege, the blessing to join... Believe me, the honor is entirely mine."
+
+The audience responded with loud applause as Jonsson appeared alongside Ryan Coogler, Letitia Wright, Winston Duke, and Marvel Studios president Kevin Feige.
+
+## Why Marvel chose not to recast Chadwick Boseman's T'Challa
+
+Following Chadwick Boseman's death in 2020 after a private battle with colon cancer, Marvel made the unprecedented decision not to recast King T'Challa.
+
+Instead, Black Panther: Wakanda Forever focused on Shuri's journey while quietly laying the foundation for the future through the introduction of T'Challa's son.
+
+By casting David Jonsson as the grown-up prince, Marvel is preserving Boseman's legacy while allowing a new chapter of Wakanda's story to unfold.
+
+## Denzel Washington also joins Black Panther 3
+
+Another major surprise revealed during the Comic-Con panel was the confirmation that Denzel Washington will appear in Black Panther 3.
+
+Ryan Coogler has previously spoken about wanting to work with the Oscar-winning actor for years, and the filmmaker confirmed that a role was written specifically for him. However, Marvel has not yet disclosed details about Washington's character.
+
+## What Black Panther 3 means for the MCU
+
+The third Black Panther film is expected to continue Wakanda's story after the events of Avengers: Secret Wars, introducing a new generation of heroes while honoring the legacy built by Chadwick Boseman.
+
+With David Jonsson taking on the role of the grown-up Prince T'Challa, Ryan Coogler returning to direct, and a December 2028 release date now confirmed, Marvel has finally answered one of the biggest questions surrounding the future of the Black Panther franchise.
+
+---
+
+### 'This Is Just The Beginning': Abhijeet Dipke thanks supporters, critics in new video, watch
+*Apurwa Amit · general*
+
+CJP founder Abhijeet Dipke shared a new video on Sunday thanking everyone who made the huge victory of the youth possible. He also thanks all critics for helping him improve, and eventually deliver on the promise of the Cockroach Janta Party’s first campaign.
+
+CJP founder Abhijeet Dipke; Image source: X/ @Cockroachisback
+
+A day after Dharmendra Pradhan stepped down, Cockroach Janta Party (CJP) founder Abhijeet Dipke shared a new video on Sunday. He said he was finally able to sleep peacefully after a long fight and expressed gratitude to the protestors who supported the movement.
+
+## **What Abhijeet Dipke said in his new video?**
+
+CJP founder Abhijeet Dipke thanked his critics, saying their suggestions helped the Cockroach Janta Party secure victory in its ‘first’ campaign. 
+
+In a video message posted on his X handle this morning, he said “There is no panic,” and described the 37-day protest as “really, really difficult.” He also told his followers on social media that “this is just the beginning” and added that “the Cockroach Janata Party has a long way to go.”
+
+The 30-year-old, who became the face of the youth, appeared calm in his new video as he said, "I could go to sleep and wake up in my bedroom without thinking about what to do next or what will happen till evening."
+
+> CJP Founder @abhijeet\_dipke releases a video thanking everyone who made the huge victory of the youth possible.
+> 
+> He also thanks all critics for helping him improve, and eventually deliver on the promise of the Cockroach Janta Party’s first campaign. #ANewDay pic.twitter.com/1JQNozymLo
+> 
+> — Cockroach is Back (@Cockroachisback) July 26, 2026
+
+## **About Cockroach Janta Party**
+
+Abhijeet Dipke launched CJP in May as a satirical reaction to a comment made by the Chief Justice of India. However, within about 70 days it grew into a full-scale movement that brought together Gen Z across the country.
+
+Soon, thousands of CJP supporters, who called themselves 'cockroaches', filled the center of Delhi. The slogan 'inquilab' echoed through Jantar Mantar, the landmark protest ground facing India’s seat of power.
+
+Students and young demonstrators blamed Pradhan for the NEET paper leak and for student suicides, and demanded his resignation. The delay in action only brought more people to the protest.
+
+Meanwhile, Delhi is expected to return to normal on Sunday, a day after Union Education Minister Dharmendra Pradhan stepped down amid weeks of nationwide protests led by the Cockroach Janta Party (CJP). With the party stating that all its demands have been accepted, it has withdrawn its call for a nationwide agitation.
+
+Public transport services are also likely to resume fully after days of disruption. The Delhi Metro Rail Corporation (DMRC) confirmed that all metro stations are now open, with both entry and exit gates functioning.  
+
+Several central Delhi metro stations had remained closed and internet curbs were in place during the peak of the protests. The demonstrations ended with celebrations at Jantar Mantar on Saturday after news of Pradhan’s resignation reached protestors.  
+
+Later in the evening, Rashtrapati Bhavan announced that Pralhad Joshi, who is currently in charge of Consumer Affairs, Food and Public Distribution, and New and Renewable Energy, has been given additional charge of the Education Ministry.
+
+---
+
+### Ensure paper leaks don't happen again: Students' plea to new Education Minister
+*India Today News Desk · general*
+
+Several students taking part in the CJP protests on Saturday said they hope the change in leadership at the Education Ministry will lead to concrete changes in the system. With Dharmendra Pradhan no longer heading the ministry, students said they want action on long-standing concerns over exam transparency, the cost of education and the condition of government schools.
+
+Across the protest site, three demands came up repeatedly: a transparent exam system, affordable and quality education, and stronger government schools with greater focus on primary education. Students said the change of minister was only a beginning and that deeper reforms were needed.
+
+Raj Yadav from Ghaziabad, who has been part of the sit-in since the protest began nearly a month ago, said the government must carry out broad reforms. "I demand that the new minister focus on the education system. He should bring about changes across the entire system, address its flaws, and ensure it operates effectively," he said.
+
+Srishti, a resident of Laxmi Nagar in east Delhi, said the high cost of education had made studying difficult for many students. She said she had to work to fund her own education and that the impact of a paper leak was far-reaching. She urged the new minister to ensure enough teachers are appointed in all schools, make education affordable and stress skill development for children in government schools.
+
+Vikram Chaudhary from Rajasthan, who has been participating in the protest for at least a fortnight, said reforms should begin at the primary school level. He called for better quality education in government schools, a higher education budget and improved facilities for preparing for competitive exams such as UPSC, NEET and JEE. "Education has become very expensive in this country. The government needs to address this seriously," Chaudhary said.
+
+Shaurya, a Class 11 student preparing for NEET, said Pradhan's resignation had given him hope. "I am happy that our voices have been heard. I am confident that the new Education Minister will not allow incidents like paper leaks to happen again," he said.
+
+Gaurav Tomar, a resident of Baghpat in Uttar Pradesh who has been part of the protest since July 20, demanded stronger primary education, greater promotion of skill development in government schools and steps to check rising education costs. "Education is not a business; it is every child's right, and they must receive it," he said.
+
+Shravan Kumar, a resident of Jaisalmer in Rajasthan, said students should not be made to take re-exams repeatedly and that issues such as exam centres being allotted in remote areas must be resolved.
+
+\- Ends
+
+India Today Web Desk
+
+Jul 26, 2026 08:54 IST
+
+---
+
+### 'Mujhe Hero Mat Banana': Abhijeet Dipke's appeal to protestors after Dharmendra Pradhan resigns
+*ET Online · business*
+
+CJP’s Abhijeet Dipke has clearly stated “DON’T MAKE ME THE HERO” regarding the resignation of Dharmendra Pradhan. In a firm response, Dipke dismissed any attempt to portray him as the central figure or champion behind the development, emphasizing that the focus should remain on the larger issues and...
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/mujhe-hero-mat-banana-abhijeet-dipkes-appeal-to-protestors-after-dharmendra-pradhan-resigns/videoshow/132635917.cms)
+
+---
+
+### NSUI calls Pradhan's resignation 'victory for millions of students', demands immediate ban on NTA
+*SECTIONS NSUI calls Pradhanvictory · business*
+
+New Delhi: National Students' Union of India (NSUI) National President Vinod Jakhar termed the resignation of Union Education Minister Dharmendra Pradhan a "victory for millions of students", while demanding an immediate ban on the National Testing Agency (NTA) and strict action against those responsible for paper leaks.
+
+Speaking in the context of the month-long student protests, Jakhar said, "It's a victory for millions of students. A corrupt institution like the NTA hasn't been banned yet. We want it banned with immediate effect, and those guilty should be punished severely."
+
+Jakhar also urged the Central government to reach out to families who lost children due to alleged paper leaks and provide them with "large financial compensation."
+
+  
+
+"Strict laws should be enacted in this country against paper leaks. The government should talk to the families who lost their children over the paper leak and provide them with large financial compensation," he told on Saturday.
+
+"Today, the country's law and order is a complete failure. Privatisation has made education so expensive that children from ordinary poor families can't study," the NSUI chief said.
+
+Crediting Congress leader Rahul Gandhi for leading the agitation, Jakhar said the protests were a result of a "massive student movement" initiated under his leadership. Jakhar said NSUI workers supported students during the nationwide protests, including those who faced police action.
+
+"Rahul Gandhi, the leader of the students, initiated the massive student movement. We protested against any lathi charges across the country. We opened our office doors to the students. We set up service camps, arranged for them to sleep, provided food, and provided medical kits. Even if they were facing lawsuits, legal assistance was provided," he added.
+
+The NSUI chief asserted that the student body's agitation would continue until all demands were met.
+
+"Under the leadership of Rahul Gandhi, we stand with the students across the country... our fight continues," Jakhar said.
+
+Meanwhile, the internet has been restored at the Jantar Mantar protest site and neighbouring areas of Central Delhi after the Cockroach Janata Party (CJP) announced a withdrawal of the agitation as they received assurance from the government over their demands.
+
+The administration has used jammers for mobile internet in the region for days as the youth protest over NEET-UG paper leak grew in numbers.
+
+The Delhi Metro Rail Corporation has also restored regular passenger services at all stations.
+
+"Entry gates of all Metro Stations of the Delhi Metro network are now open", the DMRC said.
+
+The decision follows days of security restrictions and staggered closures at 18 key central Delhi metro stations, including Rajiv Chowk, Central Secretariat, Mandi House, ITO and New Delhi.
+
+The CJP has withdrawn their agitation, saying the decision was taken in "good faith" after receiving assurances from the government.
+
+CJP's Chief Spokesperson Saurav Das said, "Cockroach Janta Party declares that we withdraw the agitation in good faith, with the understanding that the agreed-upon terms will be executed within the agreed-upon timelines."
+
+Dharmendra Pradhan resigned as the education minister following over a month-long protest, especially led by Cockroach Janata Party at Jantar Mantar along with a 26-day-long hunger strike by activist Sonam Wangchuk.
+
+
+---
+
 ## 25 July 2026
 
 ### Kerala Lottery Result Live: Karunya KR-762, July 25, 2026 Winners | News18
