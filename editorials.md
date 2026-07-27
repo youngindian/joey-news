@@ -1,10 +1,199 @@
 # Editorials
 
-_Last updated: 2026-07-26 05:00 UTC_
+_Last updated: 2026-07-27 05:25 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
 
+## 27 July 2026
+
+### Do not surrender to China, do not depend on the U.S.
+*The Hindu · Opinion*
+
+A volatile political climate in Washington has triggered a wave of strategic anxiety in New Delhi. Buffeted by the transactional, often erratic policy shifts of the Donald Trump administration — which hit India last year with punitive tariffs on steel and aluminium, stripped its preferential trade status, and aggressively renewed ties with Islamabad while imposing irritants such as tightening H-1B visa rules — a growing chorus of domestic voices is calling for a fundamental reset of India’s China policy.
+
+The argument, championed largely by an influential business lobby, suggests that India’s confrontational approach toward Beijing was overly synchronised with Washington’s strategic agenda of “containment” rather than India’s national interests. The lobby contends that because India remains deeply reliant on Chinese technology, supply chains, industrial inputs, and capital, a dogmatic anti-China stance ultimately stymies domestic economic growth while barely denting Beijing’s economy. The core risk, critics warn, is Washington’s historical pattern of tactical flip-flops — escalating tensions one day and striking bilateral deals the next — which risks leaving an overextended India strategically vulnerable to Chinese retaliation.
+
+[Read full article](https://www.thehindu.com/opinion/lead/do-not-surrender-to-china-do-not-depend-on-the-us/article71270024.ece)
+
+---
+
+### DC Edit | CJP-led Stir Forces Govt To Be Held Accountable
+*Deccan Chronicle · Editorial*
+
+The resignation of Dharmendra Pradhan as Union education minister comes as the result of an attempt by the people of India to enforce as essential an element of democratic governance as accountability. It is not a common occurrence for ministers to leave office on this account in India though there is no dearth of governmental failures here and that makes this event a watchable one.
+
+The Indian political scene is witnessing an interesting phenomenon where a hardly two-month-old Cockroach Janta Party (CJP) has shaken the foundations of the NDA government at the Centre which is backed by the century-old Rashtriya Swayamsevak Sangh (RSS). That the government is led by a team of Prime Minister Narendra Modi and master strategist home minister Amit Shah makes the phenomenon all the more curious, for the duo was considered invincible, at least till yesterday; and has been selling its narratives to the voters successfully for more than a decade.
+
+There are many theories that seek to explain the success of the unprecedented agitation at Delhi’s Jantar Mantar which later spread to other parts of the country over 36 days. One tenable argument is that the BJP team failed to identify the simmering discontentment in its own support base, the middle class, after the mess-up in several examinations, including the cancellation of the Neet medical entrance examination and the goof-up in the evaluation of the answer sheets in the Class 12 examination conducted by the Central Board of Secondary Education. Why it failed so is a topic for the BJP and the larger Sangh Parivar to ponder over.
+
+The BJP has been making an effort to spread the idea that Mr Pradhan had to sacrifice his post as he was unfairly targeted by the Opposition and the Cockroaches. This, however, is an untenable position. The National Testing Agency, commissioned to conduct the entrance examination to most top-level educational institutions in this country, bears witness to the callousness with which Mr Pradhan ran his ministry all these years. The agency has no statutory back-up, is manned by a hopelessly inadequate number of people who are either on deputation or on contract, and yet was trusted to conduct successfully 18 examinations taken by more than 65 lakh students. Mr Pradhan, or for that matter Prime Minister Modi, has no excuse to offer for leaving the agency in such a pass, their lack of involvement ultimately costing the lives of 23 bright young Indians. The CBSE mess-up is equally indefensible. The BJP must stop painting Mr Pradhan as the fall guy; it must investigate why these failures took place.
+
+The Opposition’s job is to make the government accountable; and the fact that it required an agitation spearheaded by the young crowd unattached to political parties to wake the government up from its slumber points to its failure as well. Now that they have tasted blood, the Opposition parties may organise themselves into one fighting force to challenge the government on issues they perceive as critical to the survival of the democratic republic. The successful agitation by the CJP must have convinced the established parties that the young crowds are waiting in the wings and it is up to them to form a larger platform with them and take the country’s causes forward.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-cjp-led-stir-forces-govt-to-be-held-accountable-1974181)
+
+---
+
+### DC Edit | Major H-1B Relief For Techies
+*Deccan Chronicle · Editorial*
+
+The refusal of a US federal appeals court to revive the Trump administration’s $100,000 fee on new H-1B visas offers relief to thousands of skilled professionals from India and other countries. It will also be a reprieve for American companies that depend on global talent to fill specialised positions to remain competitive.
+
+The rejection comes based on a key constitutional principle that separates powers between executive and legislature. Under the US Constitution, the legislature — Congress — alone is empowered to impose a new tax. The Trump administration imposed the levy without the legislative sanction, which violates the basic principles of separation of powers in a democracy.
+
+Though the Trump administration called the levy a fee, which is an administrative charge for processing visas, the US judiciary treated it as a tax and hence declared it illegal. The judgment, therefore, is not against the imposition of a hefty levy on the H-1B visas, rather it is against the executive acting beyond its constitutional authority.
+
+This relief, however, may prove short-lived. Republican lawmakers have proposed a new legislation seeking to suspend the issuance of new H-1B visas for three years and formally authorise the $100,000 fee. As Republicans have a majority in both chambers of Congress, the House of Representatives and the Senate, the proposal cannot be dismissed as mere political signalling. If Congress enacts this law, it will stand judicial scrutiny and allow the Trump administration to reimpose the fee.
+
+The H-1B programme has long attracted criticism in the US over alleged misuse, wage suppression and the displacement of American workers. Its critics argue that companies exploit loopholes to underpay visa holders or use the programme to replace domestic employees, while the companies claim that the H-1B visas allow them, as a result the United States, to stay competitive, which is key for survival in the capitalist world. The US, therefore, needs to decide whether it wants to trade competitiveness for welfare.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-major-h-1b-relief-for-techies-1974186)
+
+---
+
+### Improve public trust in government schools
+*Deccan Herald · Editorial*
+
+The UDISE+ 2025-2026 (Unified District Information System for Education Plus) report on India’s school education presents a mixed picture. Dropout rates are lower, teacher numbers are higher, and infrastructure is better. But a shift in student enrolment from government schools to private schools, and uneven performance among states, remain matters of concern.
+
+The secondary dropout rate has declined from 13.8 per cent in 2022-2023 to 7 per cent in 2025-2026. Though the mid-school (Classes V-VIII) dropout rate has seen a slight increase, the overall trend is positive. The number of teachers has increased by 8.3 per cent and pupil-teacher ratios have improved. Single-teacher and zero enrolment schools have decreased. Digital infrastructure has improved with more schools connected to computers and the Internet. Nearly all schools now provide electricity, drinking water, and functional toilets. A majority of teachers are women.
+
+UDISE+ report shows fall in school dropout rates, rise in number of teachersEnrolment has declined from 24.80 crore in 2023-2024 to 24.72 crore in 2025-2026. This is explained as a structural shift caused by factors such as falling birth rates in many states, migration of people, which disrupts children’s education, and issues linked to the financial difficulties of parents, child labour, and inaccessibility of schools.
+
+Between 2023-2024 and 2025-2026, government schools lost about 8.6 million students while private unaided schools added more than 88 lakh students. This shows a lack of confidence in government schools, despite private school education imposing a higher financial burden on parents. More than 8,000 government schools have closed in a year, and enrolment of students belonging to Scheduled Castes has declined. Though the digital infrastructure has improved, the proportion of schools with playgrounds has declined, and more than 40 per cent of schools lack adequate accessibility features for children with disabilities.
+
+While the improvements are salutary, the report also shows that much more progress needs to be made in school education. Even a 7 per cent dropout rate translates into lakhs of students. Many schools lack infrastructure and facilities. More trained teachers are necessary. The share of the education ministry in the Union Budget declined from 4.6 per cent in 2013-2014 to 2.5 per cent in 2025-2026.
+
+The reduced budget priority will affect infrastructure, teacher availability, other facilities and the quality of education. Many surveys have reported the poor quality of education in schools, with many students in higher classes unable to read, write, and do basic arithmetic. That shows that the improvements noted in the report are not enough. It is the State’s responsibility to ensure that every child in India gets quality education, and it should create the conditions for that.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/improve-public-trust-in-government-schools-4088369)
+
+---
+
+### India’s youth force a democratic reckoning
+*Deccan Herald · Editorial*
+
+Union Education Minister Dharmendra Pradhan’s resignation is a victory for democracy. Weeks of student protests, which intensified in the past few days, forced the minister to quit.
+
+Formed in mid-May, the Cockroach Janta Party (CJP) gave voice to the discontent and anger of students over the NEET question paper leak. It is not just the affected students who demanded action against those responsible for the leak and sought reforms in the examinations and education system; the demands touched a chord with the entire student community and the wider nation.
+
+Activist Sonam Wangchuk’s fast in New Delhi gave a boost to the demands and the students’ march to Parliament last Monday brought them to the forefront of national attention. The Narendra Modi government’s attempt to suppress the agitation with police violence only strengthened it, and a recalcitrant regime was finally forced to concede the students’ demands.
+
+'Victory of youth power, democracy': Opposition on Pradhan's resignationThe resignation is a political defeat for the Modi government, which has not been receptive to the Opposition, civil society, social organisations, and sections of people on issues big and small. Its conduct has been marked by arrogance, false prestige, intolerance, and coercion.
+
+Young citizens have now taught it the basic principles of democracy: sensitivity to people and willingness to be guided by them, accountability for decisions and actions, and the need for humility, sincerity, and honesty. The government tried to counter the protest with violence, and vilified the students with baseless charges.
+
+Various State resources were used against them. It accepted the students’ demands only when it realised that there was no other option and the situation was going out of control. Pradhan claimed he resigned to prevent “anti-national forces” from exploiting the unrest. If that was his reason, he has not learnt the right lesson. It would be a folly to consider that the protests were just about exams or education. They were about freedom, good governance, fair conduct, and the future.
+
+There are lessons for the entire establishment. The Opposition should introspect why it could not take up an issue that was important for millions of young people. It tried to join the bandwagon when it saw that the youngsters were making an impact, exposing the poverty and inadequacy of the Opposition’s politics as much as it indicted the government’s policies and style of governance.
+
+The Modi government has tried to enfeeble the Opposition and create an Opposition-mukt Bharat, but the youth have shown that they can fill the void and take up the challenge.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/indias-youth-force-a-democratic-reckoning-4088372)
+
+---
+
+### Safe food is a right
+*Deccan Herald · Opinion*
+
+Food Safety Day is observed globally on June 7 every year to raise awareness about the dangers of foodborne illness and to keep food safe across the entire supply chain. This year’s theme was ‘From Burden to Solutions – Safe Food Everywhere’. Ensuring safe food is a major challenge for governments in developing countries, where awareness and enforcement are lacking. In India, one in six food samples (2022–2025) failed to meet food safety standards, and more than 1,100 food licences had to be cancelled.
+
+The Food Safety and Standards Authority of India (FSSAI) was established under the Food Safety and Standards Act, 2006 (FSSA) to ensure science-based standards for articles of food and to regulate their manufacture, storage, distribution, sale and import to ensure safe and wholesome food for human consumption. Even after 20 years of its enforcement, adulteration and fake products remain the biggest challenge to food safety, affecting both the formal and informal sectors. It is impossible to trace or recall adulterated products once they enter the supply chain, and even a single failed sample can impact hundreds.
+
+A few decades ago, food adulteration meant diluted milk or pebbles in grains, but now it is milk spiked with detergents and spices laced with synthetic dyes. Recently, a significant quantity of adulterated tea powder was seized, in which synthetic colours, jaggery juice and expired tea had been mixed to boost appearance and profits. FSSAI, on analysis, found that approximately 20 per cent of food samples were adulterated and misbranded. The Food Safety Department and Drug Administration in Karnataka serve as the nodal agency of the FSSAI, and the Karnataka Land Tribunal concurrently deals with all appellate cases under the FSSA. Over the last two years, more than 2,85,688 food business establishments were registered and 77,654 licences issued, thereby achieving 113 per cent of the target given by FSSAI.
+
+Food safety officers inspect 70 hotels, bars, restaurants, street food vendors in MysuruThe department has initiated action to ban artificial colours and synthetic dyes in food items, the use of plastic in the preparation of idli, and the use of liquid nitrogen while serving smoking desserts. Regular inspections have been conducted in hotels, restaurants and street food outlets and in anganwadis, including visits to SC/ST/OBC/minority hostels.
+
+The major challenge is that a large proportion of the urban population comprises migrants who for their daily food depend on small manufacturers, street vendors, and retailers, who are not covered under the FSSA. Due to insufficient food testing laboratories and a shortage of skilled staff, the collection and testing of food samples in accredited laboratories gets delayed. Karnataka currently has only 106 laboratories accredited under the National Accreditation Board for Testing and Calibration Laboratories (NABL) and four government laboratories, while there are only 80 food safety officers against sanctioned posts of 210.
+
+There is an urgent need for upgrade to ensure that safe food becomes the norm and practice.
+
+The National Human Rights Commission (NHRC) recently organised a workshop on ‘Tackling Food Adulteration’ and reiterated that food adulteration is a human rights concern affecting the right to life, health and dignity. Some of their recommendations included mapping the entire life cycle of food products for the identification of contamination points and the integration of scientific monitoring into regulatory frameworks; encouraging citizen participation and undertaking public awareness campaigns; educating vendors not to use colours to enhance the appearance of food and vegetables; and strengthening training and capacity-building initiatives across all stakeholders, extending support for the testing of food adulteration at school/college laboratories.
+
+Courts have also intervened at regular intervals, and in a PIL (Swami Achyutanand Tirth & Ors vs UOI, 2016), the Supreme Court of India directed effective implementation of the FSSA by putting in place food safety management systems and food safety audits so as to realise its ultimate goal of ensuring safe and wholesome food. In Dhariwal Industries Ltd vs State of Maharashtra, the Court directed the authorities to play a proactive role in ensuring safe and wholesome food and in preventing the risk to health caused by unsafe food.
+
+In Sushil Kumar Gupta vs State of West Bengal, the Supreme Court held that the police, though not food safety officers under the FSSA, 2006, are not barred from investigating offences punishable under the IPC/BNS.
+
+(The writer is a retired DGP and Special Rapporteur, NHRC, Karnataka)
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/safe-food-is-a-right-4088410)
+
+---
+
 ## 26 July 2026
+
+### Youth at the vanguard: On the Education Minister’s resignation
+*The Hindu · Editorial*
+
+A government that does not bend to the will of the people risks being broken. The resignation of Dharmendra Pradhan as Union Education Minister, after a sustained agitation by youth led by the satirically named Cockroach Janta Party (CJP), is more than just a ministerial casualty of the “paper leaks” scandal. It is a seminal moment in the unravelling of what political scientists describe as the Bharatiya Janata Party (BJP)-dominant party system in Indian democracy, which allows little elbow room for a fragmented Opposition. Entrance examinations are the gatekeeping mechanism that determines which young Indians get to enter the narrow but reassuring world of formal employment later on, in a country where most work remains in the grinding unorganised sector. Repeated leaks across several examinations have turned an apparatus for testing merit into one of widespread graft. Close to 20 lakh candidates were made to take the National Eligibility cum Entrance Test (Undergraduate) again after gruelling preparation that coincided with their school examinations. Several students did not survive the ordeal. The grievance bound youth across castes and religions, the very identities that political mobilisation in India has been confined to in recent years. Bypassing a television establishment largely aligned with the ruling dispensation, the faceless protesters built support on social media within days. The high-handedness of the Delhi police and the attempts to throttle the Internet and mobility around the protest venues only swelled their ranks. The government eventually found that this agitation could not be crushed, swayed, split, distracted or left to dissipate, as others have been over the past 12 years. It was forced to negotiate, and in the face of the CJP’s rightful stubbornness, Mr. Pradhan’s continuation became untenable. The nothing-to-lose desperation of the protesters gained a political halo that came from their non-alignment with electorally focused established parties. This was a movement that could not be hijacked or undermined by the political elite, whether of the Opposition or of the government.
+
+Calm returns to Jantar Mantar after 36-day NEET protest ends; Dipke, Wangchuk recuperate
+
+But Mr. Pradhan’s announcement of his resignation does not inspire confidence. Instead of accepting moral responsibility for the failures in the conduct and the marking of various examinations, he tactfully sought to present his stepping down as an attempt to prevent “anti-national” elements from exploiting the situation created by the protests. Evident in his resignation letter is the government’s mindset that sections of the students were acting against the Indian state with ulterior motives. This is also part of the same narrative that prompted the Delhi Police to meet the protests with shock batons, pellet guns, and lathis with nails. The police actions were nothing short of calculated brutality that violated all protocols of crowd control. The resignation is a tactical retreat on the part of the government, not a realisation of mistakes made; it came after the abject failure of efforts to paint the protests as communal, as inspired by foreign agencies, and as designed for political mileage. Among the several missteps, the government first acted as if the social media followers were made up of mostly bots who would vanish from view if their accounts were withheld, then as if their virtual presence would have no real-life consequences, and finally as if they could be fought off with Instagram reels. Only on encountering failure after failure did the government get Mr. Pradhan to sign off. But, commendably, the protesters withdrew the agitation once their demands were met.
+
+In the days ahead, the impact of the protests will be far wider than what the government hopes to restrict it to. Over the years, the Narendra Modi-led BJP government has converted mostly narrow electoral victories — a plurality of votes yielding a majority of seats, singly or in coalition — into expansive mandates. It has used them to break the constitutionalist consensus on settled questions of secularism and federalism, advancing a unitary, majoritarian agenda by creeping degrees. It has simultaneously raised its floor of support by radicalising sections in the north, west and now the east of India on the communal plank, which has in turn helped secure its legislative strength. It has recast dissent as anti-national or separatist and hollowed out the Opposition through induced defections and selective deployment of enforcement agencies. Combined with the pusillanimity of other institutions, including a passive judiciary, this has led to what many describe as a managed democracy living under an undeclared emergency for civil liberties. A nation born of non-violent struggle has needed, more than once since Independence, a non-parliamentary convulsion to turn its institutions back towards the vision of the freedom-fighting generation that framed the Constitution. The CJP, and those who stood with it — Sonam Wangchuk fasted for 26 days — have shown that a just demand, pressed through the quintessentially Indian route of satyagraha, can outlast the state’s brutality and move an inflexible government to action. This is a lesson for the institutions charged with checking the executive, and for those charged with questioning authority, especially the media, which — barring some notable exceptions — have mostly played a negative role. They must play their constitutionally mandated and socially responsible role rather than give in to browbeating or expediency. Whether they do so will be tested as the government sets about reforming the entrance examination system with a different Minister in charge. What is certain is that India is yearning for change and rejuvenation.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/the-hindu-editorial-on-students-protest-and-education-minister-dharmendra-pradhan-resignation/article71268704.ece)
+
+---
+
+### Bharat Bhushan | Pressure Proof No More: Why Modi Capitulated
+*Deccan Chronicle · Opinion*
+
+Prime Minister Narendra Modi has suffered the worst defeat of his 12 years in office as the youth protests, led by the Cockroach Janata Party (CJP), forced him to capitulate and accept all their demands. The 36-day protest of youngsters barely out of school and college shifted political optics in the country.
+
+Mr Modi’s image of not bowing to pressure had already developed cracks after the year-long farmers’ agitation of 2020-2021. It was finally shattered by a swarm of teenagers calling themselves “cockroaches”, turning an insult into a badge of resilience and satire. The “Modi does not bend” and “Modi is pressure-proof” narratives that shaped his image have cracked and unravelled with irreverent slogans, memes and repartee that will become a permanent marker of youth victory in social media archives.
+
+The protesting youngsters have set a precedent that will embolden the political Opposition in the country. The vulnerability of the Modi government they have laid bare could inspire and encourage future mass protests that demand systemic changes.
+
+Why did Prime Minister Modi bend before the youngsters? The outgoing education minister, Dharmendra Pradhan, had described the protestors as “the B-Team of terrorists”, reflecting the initial confrontational mood in the government before its 180-degree turn. The Modi-aligned media talked-up the ubiquitous “foreign hand” and the government’s sympathisers posted messages on social media about a sinister “conspiracy” afoot to remove the Modi government.
+
+Neither the offer of cosmetic changes nor confrontation, involving the deliberate savagery by the police, using pellet guns and tasers, worked. Ordinary people were aghast that the State could use such brutality against unarmed, young peaceful protesters, most in their teens. This effectively expanded the support for the protests.
+
+Worse, in the eyes of the government, an avowedly apolitical movement looked in danger of falling into the hands of the Opposition. Congress leader Rahul Gandhi and other Opposition leaders were amplifying the protests both in the street and in Parliament, demanding accountability and apology from the Prime Minister, not just from the education minister. If youth anger was not cooled, the Modi government calculated that the Opposition would get an opening for the state elections of 2027 and the sentiment might even impact the general election of 2029.
+
+The demographic details of the protests must also have mattered to the Modi government. Many of the protestors came from middle class families that had catapulted the BJP to power. It was evident from social media that these families were also feeling the loss of opportunities by an educational testing system that had been subverted and gamed. While Mr Modi could depend on alliances and poaching of MPs in Parliament, he could not risk a big slice of his traditional voter base turning hostile.
+
+The BJP faced the prospect of losing its critical youth voter base. It was clear to the students that a Prime Minister who held forth on “Pariksha pe Charcha” (Dialogue on exams), could not assure their integrity. Mr Modi’s capitulation may have aimed to retain young voters for the 2029 election.
+
+Once Mr Modi understood that traditional methods of confrontation and quashing dissent were not working, he reversed gears surprisingly quickly. Multiple ministerial-level talks with the leaders of the protest signalled that the Modi government would henceforth treat a two-month-old satirical “party” as a negotiating counterpart rather than as a fringe nuisance that could be quashed.
+
+That a 76-year-old Prime Minister made a midnight Instagram reel, addressing a youth audience, was also an unprecedented reversal of stance from a leader who for more than two decades has not held a press conference or taken any questions from journalists. The informal and reactive style was evident in the fact that he chose to address youngsters his grandchildren’s age, as “friends”, departing from his usual register of communication and trying to adjust to the style, social media platform and language of his young critics. This strategic adaptation was layered over the loss of composure of someone who sees himself as above public accountability, and prefers one-way communication and teleprompter-based messaging.
+
+The resignation of the education minister has clearly removed an acute trigger, replacing the bitter anger with the sweetness of victory. However, whether the memory of the repression before the victory gets calcified in the youngsters’ minds depends on what happens in the coming months.
+
+The youth demands went beyond those immediately conceded. They have demanded structural changes in the educational testing system.
+
+This system is centred on over-centralisation of educational testing, neglect of school education, unequal access, and allowing coaching centres to proliferate to prepare students for the immense and ever-increasing competitive pressure for limited but...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/bharat-bhushan-pressure-proof-no-more-why-modi-capitulated-1974164)
+
+---
+
+### Parsa Venkateshwar Rao Jr | A ‘Performance Audit’ Of NTA By CAG Is Essential Amid Edu Mess
+*Deccan Chronicle · Opinion*
+
+It was natural that all fingers pointed, and rightly so, at education minister Dharmendra Pradhan.
+
+Now that he has stepped down, the real issue is what went wrong with the National Testing Agency (NTA), that conducts all kinds of examinations for all kinds of jobs, from that of entry into the Allahabad high court and Delhi high court, medical colleges and the Indian Space Research Organisation, and more, including the National Eligibility and Entrance Test (Neet). As there have been no problems with umpteen tests that NTA seems to conduct day in and day out, the focus is on Neet, because it is here that paper leaks are happening time and again.
+
+It looks like the government is keen to clean up the place as quietly and as secretively as possible. Before Mr Pradhan quit, the ministry dismissed 47 officials of various ranks in the NTA in a peremptory manner. They have been given marching orders, and it was made known that they will face legal and criminal action for their acts of omission and commission. The rot in the system is not with these 47 officials but with NTA’s organisational structure and the information systems that is
+
+the base of the data that the dismissed people could misuse with impunity. The public has a right to know what went wrong that the test papers got leaked, and what is the involvement of these 47 employees. The government can say with all the furtiveness that it is capable of that there was an internal inquiry and it is on the evidence of wrongdoing that emerged that the dismissals were ordered. But the government has not disclosed anything about an internal inquiry, which is a matter of fairness with regard to the employees and about the modus operandi of the leakage of the test papers. If the government wants to take the issue to the courts, it must have evidence for the prosecution in place. Of course, it will then emerge into the public domain.
+
+The announcement about fresh recruitments being made to the NTA to replace the system that has gone wrong gives some picture of the deeply faulty mode of the agency. It has now been declared that recruitment will be for four contractual positions of general managers and for 16 young professionals who have not cleared the UPSC examinations who will be the support team for the four general managers. It has not been specified whether the general managers will be from the private sector, those with degrees in business management, those equipped with technical knowhow in matters like cyber security.
+
+There is no hint as to the new people being recruited in place of the 47 who have been thrown out involved a restructuring of the NTA, and in what manner. What the people need to know is the actual points of malfunctioning of the testing system. Either government has carried out an internal assessment and it is recruiting the new team based on what they have learnt about the loopholes in the NTA’s old structure, or is doing it in a hurry to hide the rickety system. There are any number of too-clever-by-half technical experts who thinks all problems can be fixed through computerisation. This government led by a technically naïve Prime Minister believes in the simplistic solution of computerisation. The new buzzword, of course, is AI, and it will be said that AI will clear all the bugs in the system. On the face of it, the paper leaks are not due to failure of the system and the data banks. It is the human beings who operate the system who can bend the system. The idea that there will be a foolproof way to keep out the human operators managing the data flow is nothing short of foolishness.
+
+What is needed to stem the rot in the exam system across the board is to fix responsibility of the people who manage the system. The dismissal of the 47 people, which implies their involvement in the criminal use of the test papers, reveals where the solutions are to be found: in the people, and not in the computers. The more systems are managed by smart machines, that is smart computers, the less scope there is for finding fault with the 47 dismissed staff or even with minister Dharmendra Pradhan. Responsibility has to lie with the staff and the person at the top -- the minister in question. There should be no room for anyone to shrug shoulders and walk off.
+
+The Neet scandal is just the tip of the iceberg. There is a lot of malfunctioning in the government that Prime Minister Narendra Modi and his ministers have been running for the last 12 years. There has not been enough scrutiny of the workings of the government. The loud protestations by Mr Modi and his ministers is not a testament of efficient governance but distracting attention from the rot that is hidden from public view. The Opposition parties have been lazy. They have not demanded the reports by the Comptroller and Auditor-General (CAG) of various ministries, departments and agencies. It is something the BJP had done when it was in Opposition and it managed to nail, fairly and unfairly, the...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/parsa-venkateshwar-rao-jr-a-performance-audit-of-nta-by-cag-is-essential-amid-edu-mess-1974173)
+
+---
 
 ### Crowd of one: Why the State is scared of the exam-citizen
 *Deccan Herald · Opinion*
