@@ -1,3 +1,428 @@
+## 27 July 2026
+
+### Shillong Teer Result Today, July 27, 2026: Winning Numbers and Results
+*Nibandh Vinod · general*
+
+Shillong Teer Result Today, July 27, 2026: Check Shillong, Juwai, Khanapara, Morning and Night Teer winning numbers, draw timings and result updates.
+
+[Read full article](https://www.news18.com/india/shillong-teer-result-today-july-27-2026-winning-numbers-10231093.html)
+
+---
+
+### Q1 Results Today: Coal India, BEL, Tata Power, among 68 firms on July 27
+*Business Standard · business, entrepreneur, finance*
+
+Q1 Results Today: Coal India is expected to post muted earnings in the first quarter (Q1FY27), as analysts see muted offtake, subdued e-premiums and higher operating expenses impacting the company's performance.
+
+[Read full article](https://www.business-standard.com/companies/quarterly-results/q1-results-today-coal-india-bel-tata-power-canara-bank-coforge-july-27-126072700151_1.html)
+
+---
+
+### Market Opens Higher; Sensex Jumps Over 580 Points, Nifty Reclaims 23,900 as Oil Prices Slide
+*Mohammad Haris · business*
+
+The domestic equity markets open sharply higher, tracking positive global cues after easing tensions in West Asia sent oil prices tumbling, lifting risk sentiment across markets.
+
+[Read full article](https://www.news18.com/business/markets/market-opens-higher-sensex-jumps-over-580-points-nifty-reclaims-23900-as-oil-prices-slide-ws-l-10235056.html)
+
+---
+
+### Two people killed, several injured in shooting at Seattle food festival: CNN citing police
+*India Today News Desk · general*
+
+## Police said multiple people were shot in the US city's downtown area on Sunday evening.
+
+Officers gather at a site after Seattle Police responded to what they described as a shooting with 'multiple' victims at Seattle Center. (Reuters photo)
+
+At least two people were killed and five others, including a two-year-old child, were wounded on Sunday in a shooting at a food festival in Seattle, according to local news outlets.
+
+Police said multiple people were shot in the US city's downtown area on Sunday evening.
+
+"Please avoid the area," the police said on X, referring to Seattle Center, where the Bite of Seattle food festival was being held. "Police are investigating a shooting. Multiple shooting victims. Shots fired at the Seattle Center," the police department stated..
+
+_The Seattle Times_ and local TV station _KOMO_ reported two people were killed and five were wounded, citing the Seattle Fire Department.
+
+Witnesses reported hearing several shots around 6 pm (local time), _The Seattle Times_ reported.
+
+_This is a developing story. It will be updated._
+
+\- Ends
+
+(With inputs from Reuters)
+
+Devika Bhattacharya
+
+Jul 27, 2026 09:20 IST
+
+---
+
+### UP Man Kills 8-Month Pregnant Wife With Sickle After Argument; Children Witness Horror
+*Aanchal Sinha · general*
+
+According to officials, Mansoori was heavily addicted to alcohol and gambling and had sold most of his land to support his addictions.
+
+[Read full article](https://www.news18.com/india/up-man-kills-8-month-pregnant-wife-with-sickle-after-argument-children-witness-horror-ws-kl-10235028.html)
+
+---
+
+### The Great Indian Spice Battle: Why Gujarat And Rajasthan Are Fighting Over Jeera And Saunf
+*Pragati Ratti · general*
+
+Rajasthan farmers contend that cumin and fennel have been cultivated in the state for generations and recognising only Unjha under a GI could create confusion
+
+[Read full article](https://www.news18.com/explainers/the-great-indian-spice-battle-cumin-fennel-why-gujarat-and-rajasthan-are-fighting-over-jeera-and-saunf-gi-tag-ws-l-10235033.html)
+
+---
+
+### Probe finds RAF used pellet guns on protesters during Parliament march: Sources
+*Jitendra Bahadur Singh · general*
+
+## According to sources, an RAF personnel fired pellet rounds, some of which hit the ground and injured protesters. There were reports of firing in the Connaught Place area during the July 20 Parliament march.
+
+RAF fired pellet rounds at protesters during CJP's Parliament march: Sources (Photo: ITGD)
+
+Some protesters were injured after pellets hit the ground during the July 20 Parliament march in Delhi's Connaught Place area, prompting the CRPF to begin a detailed review of the incident, sources said.
+
+The CRPF is preparing a report on the firing reported in the area during the agitation, with the official investigation report from the CRPF/RAF expected after a detailed assessment of the incident.
+
+According to CRPF sources, more than 47 RAF personnel were also injured in the Connaught Place area, some of them seriously. The Delhi Police and RAF had used crowd-control measures, including tear gas and lathi-charges, during the protest.
+
+The CRPF is now conducting an internal professional review of the RAF's actions after the agitation. Such post-event assessments are part of the force's Standard Operating Procedure following every major operation and will examine all aspects of the RAF's actions and the overall operation.
+
+At least four cases of pellet-gun injuries among protesters at Delhi's Jantar Mantar have been reported. India Today Digital spoke to one such victim, whose medical records showed that he sustained pellet injuries during the CJP's 'Sansad Chalo' march on July 20.
+
+Although the police and government have categorically denied that pellet guns were used during the protest, several victims have come forward.
+
+On Friday, Leader of Opposition in the Lok Sabha Rahul Gandhi addressed the media alongside one such victim, Sahil Lohchab, whose injuries were visible across his body and face.
+
+“The government has been denying that pellets were fired. But here is the proof,” Rahul Gandhi said as he lifted Lohchab’s T-shirt to show what he described as pellet injury marks across his upper torso.
+
+“The government must stop lying. They have fired guns at the future of India,” Rahul said.
+
+_This is a developing story. It will be updated._
+
+\- Ends
+
+Devika Bhattacharya
+
+Jul 27, 2026 09:09 IST
+
+---
+
+### ITR Filing: 4 Days Left Before July 31 Deadline; What Happens If You Miss the Due Date?
+*Mohammad Haris · business*
+
+If you miss the July 31 deadline, you can still file a belated ITR. However, filing late can result in penalties, interest and the loss of certain tax benefits.
+
+[Read full article](https://www.news18.com/business/tax/itr-filing-4-days-left-before-july-31-deadline-what-happens-if-you-miss-the-due-date-ws-l-10235004.html)
+
+---
+
+### Nvidia in talks with OpenAI to guarantee $250 billion financing for data centre: Report
+*Karan Mahadik · legal*
+
+Nvidia's graphics processing chips are well-suited for massive data crunching necessary to train large AI models like ChatGPT that have underpinned the explosive growth of AI globally to date. (Image: Reuters)
+
+Nvidia is in talks to provide roughly $250 billion in financing guarantees for OpenAI as part of a massive data center project, the Wall Street Journal reported on Sunday. The backstop from Nvidia would help the ChatGPT maker lease a 10-gigawatt project that SoftBank’s energy subsidiary is developing in southern Ohio, the newspaper said, citing people familiar with the matter.
+
+For OpenAI, a ⁠deal ​would be the first step toward controlling its own infrastructure instead of renting it from Microsoft, Amazon and Oracle, while for Nvidia, it would guarantee demand for its chips for years to come.
+
+The project is expected to ​cost more ​than $500 billion in total, including the chips ⁠inside the data center, according to the WSJ.
+
+The $250 billion guarantee covers the data center lease and debt financing, but ‌would not cover the Nvidia chips inside the center, the WSJ said, adding that the chipmaker was also discussing financing OpenAI’s chip purchases worth up to $350 billion.
+
+Nvidia’s backing would support financing vehicles aimed at reassuring lenders about the project’s funding, the report added.
+
+The first phase of the project is expected to be finished in 2028, ⁠with around 800 megawatts ⁠of power, the Journal said.
+
+The power is controlled by the U.S. government and funded separately by ⁠Japan under a ‌recent trade deal, tied to Tokyo’s pledge to ​invest $33 billion in a natural gas plant. ‌U.S. Commerce Secretary Howard Lutnick is involved in deciding who gets access, according to the report.
+
+Story continues below this ad
+
+Reuters could not immediately verify the ‌report. Nvidia, OpenAI and ​the U.S. ​Commerce Department ​did not respond to requests for comment outside regular business hours.
+
+OpenAI, in advanced talks for several weeks ​to lease the site, is among the companies ⁠showing the strongest interest in the project, while Anthropic, Microsoft and Google have also spoken to Lutnick in recent weeks, the report said.
+
+The deal ‌underscores a ⁠broader shift as tech giants increasingly tap debt and equity markets to fund AI infrastructure, with spending set ​to top $700 billion this year.
+
+---
+
+### Top stocks to buy: Stock recommendations for July 27, 2026 week - check list
+*TOI Business Desk · business*
+
+Top stocks to buy this week
+
+Stock market recommendations: Federal Bank, and TVS Motors - Motilal Oswal Wealth Management Research Desk has recommended these two stocks as the top stock picks for the July 27, 2026 week:
+
+CMP (Rs)
+
+TP (Rs)
+
+Upside (%)
+
+Federal Bank
+
+354
+
+400
+
+13%
+
+TVS Motors
+
+3869
+
+4,470
+
+16%
+
+Federal BankFederal Bank reported a strong 1QFY27 performance with PAT of INR11.8b (+37% YoY, 3% above est), driven by 26% YoY NII growth (5% beat), while adjusted NIM expanded 13bp QoQ to 3.33% on the back of lower cost of funds.
+
+Provisions declined 21% YoY, supporting healthy earnings growth. Advances grew 15% YoY (5% QoQ), led by the SME, gold loan & corporate segments, with mngt guiding for loan growth at the higher end of the mid-teen range.Asset quality continued to improve, with GNPA/NNPA at 1.52%/0.18%, lower slippages of INR4.1b, & a PCR of 88.2%. We have raised FY27/FY28 PAT estimates by 4.6%/1.8%, factoring in sustained NIM expansion, healthy loan growth, stable fee income & contained credit costs of 50–55bp.
+
+We expect FY27E RoA/RoE of 1.25%/12.1%, supported by improving profitability, strong asset quality & steady earnings.TVS MotorsTVS Motor’s 1QFY27 EBITDA exceeded our estimate by 8%, driven by an improved product mix, favorable currency benefits, and disciplined cost control, while PAT of INR10.2b (+32% YoY) remained in line with estimates. Management expects the domestic two-wheeler industry to deliver double-digit growth in 2QFY27, with demand momentum similar to or slightly better than 1Q.
+
+It will continue investing ~INR35b in new products and capacity expansion, raising annual two-wheeler capacity to 8.3m units and three-wheeler capacity to 420k units by FY27-end. We raise our FY27/FY28 EPS estimates by 8%/5% and project TVS to record a revenue/EBITDA/PAT CAGR of 20%/23%/24% over FY26-28, supported by continued market share gains, margin improvement, and a healthy product launch pipeline, sustaining premium valuations.Stock market round-up from last weekBSE Sensex and Nifty50 finished in the red on Friday, marking their fifth straight session of losses, as investors remained on edge amid elevated crude oil prices driven by geopolitical tensions in West Asia and fresh concerns over US trade tariffs.Market sentiment was also weighed down by continued foreign institutional selling and weakness in heavyweight HDFC Bank.Over the past five trading sessions, the BSE Sensex has declined by 2,091.68 points, or 2.67%, while the NSE Nifty has lost 566.85 points, or 2.32%.Developments in the West Asia conflict, movements in crude oil prices and the outcome of the US Federal Reserve's policy meeting are expected to be the primary factors influencing the stock market this week, according to analysts.(Disclaimer: Recommendations and views on the stock market, or any other asset classes or personal finance management tips given by experts and analysts are their own. These opinions do not represent the views of The Times of India.)
+
+---
+
+### Dentist, lover, ally: Meet the woman set to inherit Epstein's $100 million fortune
+*India Today World Desk · world*
+
+## Belarusian-born dentist Karyna Shuliak, Jeffrey Epstein's longtime companion and heir to his USD 100 million estate, was among his closest confidantes, managing his properties and personal affairs in his final years.
+
+Jeffrey Epstein and Karyna Shuliak met in 2011, when she was 21 and he was 58. (Photo: US Justice Department)
+
+Karyna Shuliak, a Belarusian-born dentist and Jeffrey Epstein's longtime companion and the primary beneficiary of his final trust, has returned to public attention as scrutiny deepens into around three million pages of US Department of Justice files released in early 2026, shedding fresh light on her relationship with the disgraced financier. Just before his death, Epstein named Shuliak as the heir to his assets worth up to USD 100 million, including luxury properties and a multi-million-dollar diamond ring.
+
+Latest records portray Shuliak as one of the closest figures in Epstein's inner circle during the final eight years of his life. They show her not only as his romantic partner but also as a confidante, property manager and financial dependent. The files also reveal how Epstein shaped nearly every aspect of her adult life, from her education and immigration status to her professional career and financial security.
+
+### NAMED HEIR TO EPSTEIN'S MULTIMILLION-DOLLAR ESTATE
+
+According to the documents, Epstein amended his will just days before his death by suicide in a New York jail in August 2019, naming Shuliak the chief beneficiary of a trust estimated to be worth up to USD 100 million (around Rs 962 crore). The estate included his Manhattan townhouse, an apartment in Paris, a ranch in New Mexico, private islands in the US Virgin Islands and a 32-carat diamond ring purchased for USD 1.2 million "in contemplation of marriage," the New York Times reported.
+
+Despite being designated as the principal heir, Shuliak is unlikely to receive the inheritance. Large portions of Epstein's estate, estimated to be worth between USD 120 million and USD 200 million, have been frozen and are being used to fund compensation for victims of his sex-trafficking and abuse.
+
+The Justice Department files identify Shuliak as the last person Epstein spoke to before his death. While they place her at the centre of his personal and financial world, investigators have not accused her of participating in Epstein's criminal activities. Nor has she been identified as one of his victims.
+
+Shuliak was the last person Epstein spoke to before his suicide. (Photo: US Justice Department)
+
+### FROM BELARUS TO NEW YORK
+
+Shuliak's association with Epstein began after she moved from Belarus to New York. Originally a dental student at Minsk University, she travelled to the US on a student visa to study English while working as a dental assistant. Epstein, who was known to favour women from Eastern Europe, invited her to the US, promising to help her continue her education and secure her immigration status.
+
+The two met in 2011, when Shuliak was 21 and Epstein was 58. Their relationship continued until Epstein's death in 2019.
+
+The documents suggest Epstein played a decisive role in shaping Shuliak's professional future. After Columbia University's College of Dental Medicine initially rejected her application, Epstein used his wealth, donations and influential associates to help secure her admission through what investigators described as an irregular admissions process.
+
+According to the records, Epstein arranged a donation of about USD 210,000 to the university and enlisted prominent alumni connected to the dental school to support her application. He also financed her tuition, allowing Shuliak to complete her dental education and later obtain licences to practise in the US Virgin Islands, Florida, New Mexico and eventually New York.
+
+### A SHAM MARRIAGE TO SECURE US RESIDENCY
+
+The files further reveal how Epstein helped Shuliak remain in the US by arranging a same-sex marriage with one of his female associates after she overstayed her student visa.
+
+The marriage took place in October 2013, just days before Shuliak's scheduled deportation hearing. According to congressional investigators, the union was potentially "illusory" and designed to help her obtain permanent residency. The couple also maintained joint bank accounts and travelled together to reinforce the appearance of a genuine marriage.
+
+Shuliak became a naturalised US citizen in May 2018 before divorcing her spouse the following year. Although congressional investigators later questioned the legitimacy of the marriage, US immigration authorities have not challenged her citizenship.
+
+Shuliak with the woman she married in 2013. (Photo: US Justice Department)
+
+### MANAGING EPSTEIN'S ASSETS, EMOTIONAL DEPENDENCE
+
+Beyond their personal relationship, the newly released files show that Shuliak became deeply involved in Epstein's day-to-day affairs. Emails and investigative records indicate she managed household staff, supervised renovation and interior design projects, coordinated deliveries and oversaw logistics across several of Epstein's residences.
+
+Her responsibilities extended to Little St James, Epstein's private island in the US Virgin Islands, where she oversaw the installation of a fully equipped dental office after qualifying as a dentist. Staff members viewed her as one of the most trusted managers within Epstein's organisation because of her extensive involvement in his personal affairs, the NYT reports.
+
+The documents also describe a relationship marked by emotional dependence and substantial financial support. Epstein is found to have transferred nearly USD 1 million to Shuliak during their relationship and sent tens of thousands of dollars to her parents in Belarus. He is also said to have paid for her mother's medical treatment in New York and helped improve her family's living conditions.
+
+Emails released by investigators show Shuliak expressing affection for Epstein and thanking him for supporting both her education and her family. In one message cited in the files, she described him as "the purest man out of all men."
+
+### SHULIAK AWARE OF EPSTEIN'S DEALS
+
+At the same time, the records suggest Shuliak was aware of aspects of Epstein's conduct. She was a frequent passenger aboard Epstein's private jet, commonly known as the 'Lolita Express' and regularly visited several of his properties, including Little St James.
+
+Private correspondence indicates that while she objected to Epstein's relationships with other young women, she did not directly challenge the conduct itself. Instead, she asked that such encounters be kept away from her.
+
+In one 2012 email cited in the documents, she wrote, "If that is not a lot to ask, please enjoy it but keep me away from it. I will stay with you no matter what, as long as you are happy".
+
+Despite these revelations, investigators have not identified Shuliak as a co-conspirator in Epstein's sex-trafficking operation and the files contain no indication that the FBI formally interviewed her during its investigation.
+
+### LIFE AFTER EPSTEIN'S DEATH
+
+Following Epstein's death, Shuliak largely withdrew from public life while continuing her dental career. She completed additional training at Columbia University, received her New York dental licence in November 2025 and began working part-time at a dental practice in Brooklyn under the name "Dr Karyna."
+
+That anonymity ended after the Justice Department released its cache of investigative records in early 2026, including thousands of emails and photographs documenting her years with Epstein.
+
+According to the documents, patients recognised her following widespread media coverage of the files. She stopped reporting to the Brooklyn dental clinic shortly after the records became public.
+
+### FORTUNE OUT OF REACH DESPITE BEING NAMED BENEFICIARY
+
+The newly released documents stop short of alleging criminal wrongdoing by Shuliak. Instead, they portray a woman whose education, immigration status, career and lifestyle were heavily shaped by one of the most notorious sex offenders in modern American history.
+
+Although Epstein intended to leave her a fortune worth up to USD 100 million and named her as the principal beneficiary of his trust, the freezing of his estate means the wealth that once appeared destined for Shuliak is expected to instead go towards compensating the survivors of his abuse.
+
+\- Ends
+
+Jul 27, 2026 09:00 IST
+
+---
+
+### Daily Briefing: Centre unveils exam reform task force amid growing scrutiny of Delhi protest crackdown
+*Anupama Yadav · legal*
+
+**Good morning,**
+
+India celebrated two landmark sporting achievements as 18-year-old Anahat Singh became the first Indian to win the World Junior Squash Championship, **ending Egypt’s 13-year dominance** with a straight-games victory over Ruqaiyya Salem in the final. Competing in her fifth and final junior world championship, Anahat overcame the tournament she once called a “curse” by defeating three Egyptian opponents en route to the title. Meanwhile, **Mirabai Chanu clinched her third consecutive Commonwealth Games gold** in the women’s 49kg category in Glasgow, adding to her silver from 2014 to secure a fourth CWG medal overall. The Olympic and world champion treated the event as a stepping stone to the Asian Games, opting against chasing records as she carefully managed recurring injuries. Together, Anahat’s historic breakthrough and Mirabai’s sustained excellence highlighted both the rise of India’s next generation of champions and the enduring class of one of its greatest weightlifters.
+
+**On that note, let’s get to the rest of today’s edition. 👇**
+
+**🚨** **Big Story**
+
+The Centre has constituted a six-member high-powered task force, **headed by Infosys co-founder Nandan Nilekani**, to recommend sweeping reforms to India’s examination system in the wake of the NEET-UG 2026 paper leak. Bringing together experts from technology, education, governance, internal security and public administration, including former ISRO chief S. Somanath, Union Home Secretary Amrit Lal Meena, former CBSE chairperson Anita Karwal, IB Director Tapan Deka and IIT Madras Director Prof. V. Kamakoti. The panel has been tasked with making public examinations more secure, transparent, technology-driven and leak-proof. The move follows weeks of nationwide student protests and comes alongside the government’s proposed amendments to strengthen anti-cheating laws, with the panel expected to submit its recommendations within a fixed timeline.
+
+**_Pellet Gun Probe_**
+
+A preliminary CRPF inquiry into the July 20 CJP Parliament march has found that a Rapid Action Force (RAF) personnel **fired seven rounds from a pellet gun**, with five pellets striking protesters during the crackdown in Delhi. At least three protesters were treated for pellet injuries, prompting allegations of excessive force. While the officer reportedly claimed he acted in self-defence after protesters turned violent, the CRPF has launched a detailed probe to determine whether the use of force complied with standard operating procedures. Investigators are examining video footage, operational records and witness statements as the incident continues to draw political scrutiny and renewed demands for accountability over the handling of the student-led protest.
+
+**⚡** **Only in Express**
+
+A row has erupted over the Geographical Indication (GI) tags granted to ‘Unjha Jeera’ and ‘Unjha Saunf’, with farmers in Rajasthan arguing that the spices are predominantly grown in their state while Unjha in Gujarat serves primarily as a trading hub. Claiming, **“We grow it, Unjha sells it,”** they say the GI tag unfairly attributes the produce to a market rather than its place of cultivation, potentially allowing “Unjha” branded spices to fetch premium prices at the expense of Rajasthan’s growers. Farmer groups have urged the Centre and the GI Registry to review or revoke the registration, while supporters maintain that the GI recognises Unjha’s long-standing trading ecosystem, grading standards and market reputation. The dispute has reignited a broader debate over whether GI tags for agricultural products should be based on where a crop is cultivated or where it acquires its commercial identity.
+
+**📰** **From the Front Page**
+
+**Bihar unrest:** The Bihar bandh over the alleged NEET-UG 2026 paper leak turned violent after **three students sustained bullet injuries** during clashes with police in Siwan, marking a sharp escalation in the state’s student-led agitation. Police said they opened fire after protesters allegedly pelted stones and attacked security personnel, but officials stressed it was too early to determine whether all three injuries were caused by police bullets. One of the injured students claimed he was shot while on his way to collect a certificate. The unrest disrupted normal life across Bihar, with road blockades and demonstrations affecting transport and businesses, while the police action has intensified demands for an independent probe and fuelled allegations of excessive force against students.
+
+Story continues below this ad
+
+**Mumbai garbage problem:** More than 2,500 metric tonnes of garbage washed onto Mumbai’s beaches after heavy monsoon rains and high tides, triggering a massive BMC cleanup. **Juhu Beach was the worst affected**, accounting for nearly 72 per cent of the waste collected. Civic officials said plastic, thermocol, clothes and other debris dumped into drains are carried into the Arabian Sea before being pushed back ashore during high tides. The cleanup has once again exposed Mumbai’s chronic waste management problem, with pollution levels in coastal waters far exceeding permissible limits. Marine experts warned that the plastic waste is damaging fragile coastal ecosystems and posing a growing threat to marine biodiversity.
+
+**📌** 
+
+IMAX is doubling down on India, one of its fastest-growing global markets, after expanding its footprint in the country by nearly 60 per cent since 2020 and planning further growth amid rising demand for premium cinema experiences. A key driver of that momentum is **Christopher Nolan’s The Odyssey**, which has pushed the boundaries of IMAX filmmaking by overcoming one of the format’s biggest challenges—its notoriously loud camera noise. At Nolan’s urging, IMAX developed a soundproof “blimp” enclosure that reduced camera noise by nearly a third, enabling sync sound recording while filming. Shot over 91 days using more than 2 million feet of film, the movie promises image quality of up to 18K. However, Indian audiences will only be able to watch the film in digital IMAX as the country currently lacks 70mm IMAX projection systems.
+
+**⏳** **And Finally…**
+
+In an Idea Exchange session, BJP MP and **actor Ravi Kishan** described social media as an “unknown power” capable of “creating and destroying overnight”, saying its influence on politics and public opinion has become impossible to ignore. While acknowledging that platforms have transformed political communication, he argued that the BJP’s real strength continues to lie in its grassroots organisation and cadre network. On the Jantar Mantar protests, Kishan said governments must listen to public concerns while ensuring law and order. 
+
+🎧 Before you go, tune in to today’s **_3 Things_** **podcast.** We begin with the growing calls for Education Minister Dharmendra Pradhan’s resignation. Next, Heena Khandelwal explains how the arrival of a bureaucrat in Mumbai triggered a sweeping crackdown on Maharashtra’s food industry. Finally, we look at the devastating floods in Gujarat, where relentless rainfall has claimed nearly 40 lives and left several others injured or missing.
+
+**_That’s all for today, folks! Until tomorrow,_** 
+
+**_Anupama_**
+
+---
+
+### Gujarat Hardlook: Surat’s Creeks- A Flood of Challenges
+*Kamal Saiyed · legal*
+
+On two days earlier this month, **Surat saw its worst flood** of the season so far – caused by swelling of two creeks. Officials attribute this to ‘haphazard’ development along the creek banks after the 2006 delimitation, when the city grew from 112 square metres to 461 sq m. KAMAL SAIYED reports
+
+AMIR ANSARI, 52, came to Surat several years ago with many dreams – like the thousands of other migrants from Bihar. Hailing from Gopalgunj district, Ansari and his wife Hamida began a new life in a new city. After doing petty jobs for a couple of months, he launched a property brokership. The couple had three children. On July 7, their sons, Harun, 23, and Faruk, 22, who were returning after work in a Gujarat Industrial Development Corporation (GIDC) factory at Sachin, did not reach home. Ansari last spoke to them around 6 pm that day when they told him that they had left the factory along with a colleague. At that time, the Mithi Creek waters overflowed, leading to flooding as deep as six feet.
+
+Ansari soon heard that two men had drowned near the main road in Unn Patia, a suburb, and his heart sank. The following day, his sons’ bodies were recovered. They were among the nearly 34 who were swept away in the creek floods and drowned on the two fateful days of July 7-8, when the city received over 14 inches of rain.
+
+The family is now left with the youngest daughter, who is 12, Faruk’s widow and their six-month-old child. Harun had been engaged to be married soon.
+
+ The Tapi River, which flows through Surat from East to West into the Arabian Sea, breaks out into several tributaries along the way (Express)
+
+Ansari told The Indian Express, “I have not witnessed such severe flooding in our area ever before. In the 2006 floods, we were not impacted but this time there was 4 to 6 feet deep water in Unn. I feel I have lost both my hands, as both my sons were earning around Rs 55,000 a month. They had been on the job for five to six years. The property brokerage business has not been running well for the past few years. Our family relied on the income of my sons and I was adding a small portion. After their death, we are worried about how we will survive in this city. My daughter-in-law is still with us. I am much older and suffering from diabetes and high blood pressure, so I cannot work in the textile mills. We will stay here for a few more months and later, after seeing the situation, we may return to our native place in Bihar.”
+
+It was in 2006 that Surat was previously ravaged by floods, and around 150 persons died largely because of water released suddenly from the Ukai Dam upstream of the Tapi River, leading to flooding.
+
+## Why creeks turned into graves
+
+The Tapi River, which flows through Surat from East to West into the Arabian Sea, breaks out into several tributaries along the way. Surat is among Gujarat’s coastal cities with multiple busy ports, with its diamond, textile and brocade embroidery industries attracting thousands of migrants from across the country. Historically, the city served as an important trade centre in the 17th century.
+
+Story continues below this ad
+
+Surat Municipal Corporation (SMC) officials say that the city’s expansion and “unregulated” development is a major reason for the creeks losing their natural course and flooding the city. Surat municipal limits was 112 sq kilometres (km) in 2004 but grew to 461 sq km following delimitation, a move that urbanised what was agricultural land.
+
+The city sees several creeks pass through it that serve as natural streams for flow of storm water or treated sewage, till their flow is obstructed. These are the Mithi, Koyali, Bhedwad, Simada and Kakra creeks which pass from different parts of the city and finally meet the Arabian Sea through the Mindhola River at Khajod.
+
+ Officials attribute this to ‘haphazard’ development along the creek banks after the 2006 delimitation, when the city grew from 112 square metres to 461 sq m
+
+Of these, Mithi and Bhedwad are linked to the flooding of the city on July 7-8, claiming several lives and destroying homes and textile markets. When the 56-km Mithi Creek overflows, its water enters the low-lying areas of Udhna, Limbayat, Dindoli and Bhestan creating flood-like situations.
+
+Surat Municipal Commissioner M Nagarajan recently said the city had received 30 per cent of the season’s rainfall on those two days. However, two weeks later, Surat was under water again as South Gujarat received another spell of heavy rainfall, leading to swelling of rivers.
+
+Story continues below this ad
+
+The storm and sewage water from the Bardoli command area passes through different parts of the city and meets the Arabian Sea.
+
+The Mithi Creek meets the Mindhola River , a Tapi tributary, at Khajod, where the swanky Surat Diamond Bourse in the Diamond Research and Mercantile (DREAM) city, is located.
+
+Other major buildings on the creek banks are: The Raghukul and Millenium Textile Markets on Mithi Creek
+
+SMC officials said that this season, for the first time, they observed that due to the rise in water in the Bhedwad Creek, a flood-like situation arose at Pramukh Park bridge (both sides), Talangpur, Dindoli and Pandesara areas in Udhna. Officials attribute this to “unprecendented” rainfall. On July 7, Palsana saw a record rainfall of 18 inches, Kamrej 17 inches and Surat city 14.5 inches, while Bardoli also recorded over 15 inches.
+
+Story continues below this ad
+
+SMC sources said it was also looking at the Irrigation Department survey report, the DILR (District Inspector, Land Record) report and CWC reports.
+
+Surat District Collector Tejas Parmar said, “Till Friday afternoon (July 24), we have **distributed Rs 6.80 crore as cash dole** to around 75,651 people, followed by Rs 18.15 crore to 36,315 for their household items damage compensations. A total of Rs 24.95 crore have been distributed to the beneficiaries as cash to the flood-affected victim families. We have also started distributing the compensation amount of Rs 4 lakh to the families of those who died in the floods. We are collecting various documents, such as police report (accidental death), post-mortem report, panchnama, details of the kin of the deceased and their documents.”
+
+Sources in the district collector’s office said that 35 people died due to floods in Surat city and district.
+
+ The year 1988 saw heavy rainfall of 388 mm recorded in Bardoli and Palsana talukas in Surat district. Water entered agricultural fields directly and some flowed into natural drains. (Express)
+
+## ‘Mithi Creek a major concern’
+
+Limbayat Zone Deputy Commissioner N M Patel said, “There are two types of floods – river flood and creek flood. River floods affect parts of the city which falls on the banks of the Tapi River. If more water is discharged from Ukai Dam, the water level in the Tapi, which has around 2.50 lakh cusecs carrying capacity, increases and later **water enters into the different parts of the city**. As for creek floods – we have two major creeks, Mithi and Bhedwad – they overflow and result in flood situation in low-lying areas on the banks in Udhna Zone of the SMC.”
+
+Story continues below this ad
+
+He added, “Among Mithi and Bhedwad creeks, our major concern is Mithi Creek, which affects large areas in the city. We have got the data of Mithi Creek floods since 2004 . In 2004, the total area of Surat city was around 112 square km. In 2006, the delimitation process was carried out and new areas added to the SMC limit. Due to increased urbanisation, many projects have come up and the flow of the Mithi and Bhedwad creeks were affected. The water-carrying capacity was limited but due to agricultural fields, the water entered deep into the fields and some water entered the creek. But after delimitation, agricultural fields turned into concrete jungles and the water of excess rain, instead of percolating, feeds the creeks through natural drains.”
+
+According to historical records, the year 1988 saw heavy rainfall of 388 mm recorded in Bardoli and Palsana talukas in Surat district. Water entered agricultural fields directly and some flowed into natural drains. Due to increased urbanisation, this year marked the first time in the century that Surat has witnessed heavy rainfall. During the current monsoon season, the command area of Mithi Creek (Palsana, Bardoli, Limbayat) received heavy rainfall going up to 450 mm on July 7. Mithi Creek enters Surat city through the Saniya Hemad area, which falls within the Varachha Zone, and that area received 507 mm of rainfall that day leading the creek to burst. After two hours of rainfall, the water level in the Mithi creek exceeded the danger level of 9.35 metres flowing up to 9.50 metres, which officials say was “unprecedented”.
+
+## Panel to study creek floods
+
+Last year, after a flood situation cropped up in the Limbayat area on the banks of Mithi Creek on June 22, a high power committee was formed comprising the District Collector, SMC, SUDA and Irrigation Department officials, to determine the reason behind the floods. The Central Water Commission (CWC) authorities were told to develop a comprehensive study taking into account rainfall data of 100 years and prepare a report on the water-carrying capacity and modeling of the Mithi Creek. The study was directed by Union Jal Shakti Minister C R Patil, a three-term Lok Sabha MP from Navsari constituency which includes the Udhna and Limbayat areas, impacted by creek floods. The panel was to study the entire catchment area and downstream to the Mindhola River and Arabian Sea.
+
+**Union Jal Shakti Minister C R Patil** told The Indian Express, “The presence of a large number of shrimp ponds leading to bottleneck situation on the banks of Mindola river meeting Arabian Sea, near Khajod and Dream City, has resulted in creek floods in Surat. The seamless flow of creek water gets affected due to such bottlenecks. Similarly, in Gandevi taluka of Navsari district, there are several shrimp ponds, which are also responsible as obstructions to the flow of river water into the sea. This has caused human casualties and loss of household items and damage to houses to individuals staying in Gandevi taluka. Large numbers of poor and middle-class are affected by creek floods in Surat city and Gandevi.” He added, “I had a talk with Gujarat Chief Minister Bhupendra Patel on Sunday and told him to get such unauthorised shrimp ponds removed on the banks, so that seamless flow of water can be maintained which can prevent floods. I also told him to make arrangements for some water ponds nearby the creeks in Kamrej, Palsana, Bardoli (in Surat) on government land so that water flow in the creeks can be maintained and even the rainwater harvesting structure should be made in such areas in the city, which will also prevent creek floods in Surat that happens every monsoon. The creeks should also have higher carrying capacity, with more depth and width.
+
+---
+
+### Anti-paper leak bill in Parliament today, young MPs to lead 10-hour discussion
+*Himanshu Mishra · general*
+
+The government is set to introduce the Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026 in the Lok Sabha on Monday, with the NDA deploying young MPs to spearhead an expected eight-to-10-hour discussion on the legislation aimed at tightening the law following the nationwide uproar over the NEET paper leak.
+
+The proposed legislation, which comes weeks after nationwide anti-leak protests, seeks to establish fast-track courts in every state to exclusively hear paper leak cases and mandates that investigations be completed within two months.
+
+It also significantly enhances punishment for offenders, prescribing imprisonment of up to 10 years and fines of up to Rs 50 lakh for individuals found guilty of leaking examination papers.
+
+Organised paper leak syndicates could face penalties of up to Rs 10 crore.
+
+The Bill will be introduced by Union Minister of State Jitendra Singh.
+
+According to parliamentary sources, the legislation is expected to be debated for eight to 10 hours, with the NDA fielding Bansuri Swaraj and Tejasvi Surya to lead the discussion.
+
+Other NDA speakers are likely to include Lavu Sri Krishna Devarayalu of the TDP, JD(U)'s Rajiv Ranjan Singh, Shiv Sena's Shrikant Shinde, NCP's Sunil Tatkare, Apna Dal's Anupriya Patel and Lok Janshakti Party (Ram Vilas)'s Arun Bharti.
+
+Trinamool Congress MPs Sayoni Ghosh and Mitali Bag are also expected to participate in the debate.
+
+Monday will also mark the first Question Hour for newly-appointed Education Minister Pralhad Joshi, who replaced Dharmendra Pradhan after the latter resigned on July 25 amid mounting pressure.
+
+Questions 
+
+The Bill comes against the backdrop of a massive nationwide agitation against the NEET paper leak led by the Cockroach Janta Party (CJP), which began at Delhi's Jantar Mantar on June 20 and gained momentum after activist Sonam Wangchuk joined an indefinite fast on June 28.
+
+The movement reached a flashpoint on July 20, when police stopped protesters marching towards Parliament. The action sparked allegations of excessive force, including claims that pellet guns were used against students.
+
+Delhi Police has denied using pellet guns during the protest, while the CRPF has not publicly responded to allegations involving the Rapid Action Force.
+
+The 36-day agitation ended on Saturday after the government accepted several key demands of the protesters, including the resignation of Dharmendra Pradhan.
+
+\- Ends
+
+Karishma Saurabh Kalita
+
+Jul 27, 2026 08:49 IST
+
+
+---
+
 ## 26 July 2026
 
 ### CJP's Abhijeet Dipke Shares First Morning Update After 37-Day Protest: 'This Is Just The Beginning'
