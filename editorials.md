@@ -1,8 +1,162 @@
 # Editorials
 
-_Last updated: 2026-07-27 05:25 UTC_
+_Last updated: 2026-07-28 04:44 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 28 July 2026
+
+### All art, no deal: On the U.S.-Saudi Arabia nuclear deal
+*The Hindu · Editorial*
+
+The announcement of a United States-Saudi Arabia civil nuclear deal, in the midst of a U.S.-Iran war that began over Tehran’s nuclear programme, could hardly have come at a worse time. Matters became more complicated when U.S. President Donald Trump, after the agreement had been signed, added a new condition: that Saudi Arabia should join the Abraham Accords. Saudi Arabia has long sought to develop a civilian nuclear programme. Crown Prime Mohammad bin Salman, or MBS, wants to end the kingdom’s “addiction” to oil. His Vision 2030 aims to diversify the economy through finance, megaprojects, tourism and power-hungry artificial intelligence (AI) data centres. The kingdom currently relies heavily on oil and gas for electricity generation. Saudi officials believe that nuclear power would help meet rising domestic energy demand, while freeing more oil and gas for export. MBS first took up his nuclear ambitions with Mr. Trump during the latter’s first presidential term. His successor Joe Biden offered a deal but made it contingent on Riyadh joining the Abraham Accords. At that time, Saudi Arabia appeared open to normalising ties with Israel, but Hamas’s October 2023 attack on Israel and Israel’s genocidal war on Gaza prompted the Saudis to shelve the idea. The July 22 deal suggested that Riyadh and Washington continued talks and remained keen on nuclear cooperation.
+
+As a signatory to the NPT, Saudi Arabia has every right to pursue a peaceful nuclear programme. But the agreement announced by U.S. Energy Secretary Chris Wright leaves open the possibility of nuclear enrichment on Saudi soil. This flies in the face of the U.S. opposition to any Iranian enrichment on its soil. The agreement, according to U.S. media reports, does not require Saudi Arabia to adopt the IAEA’s Additional Protocol, which grants inspectors broad powers to conduct short-notice inspections. The omission has fuelled concerns that the kingdom could eventually acquire the technical capability to weaponise its nuclear programme. Facing domestic criticism, Mr. Trump declared that the deal would proceed only if Saudi Arabia joined the Abraham Accords — a condition which was conspicuously absent when the agreement was signed. This apparent reversal is unlikely to reassure Riyadh, which is already questioning the reliability of U.S. security guarantees. If the deal eventually goes ahead, Tehran is likely to harden its position on enrichment in any future nuclear talks with the U.S. If Mr. Trump’s objective was to reassure a long-standing ally while signalling strategic leverage over a regional rival, the execution of the deal has had the opposite effect. Ill-timed diplomacy, ambiguous provisions and shifting conditions have deepened Saudi concerns and strengthened Iran’s resolve. That is the result of Mr. Trump’s version of the “art of the deal”.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/all-art-no-deal-on-the-us-saudi-arabia-nuclear-deal/article71272673.ece)
+
+---
+
+### Forced labour farce: On India and the U.S.’s new tariffs
+*The Hindu · Editorial*
+
+The 10% tariff that the United States has imposed on India and several other countries over their imports of goods supposedly made using forced labour is merely an attempt to restore permanent tariffs and, once again, highlight the benefits of a trade deal with the U.S. The U.S. Supreme Court’s February 2026 decision dealt a body blow to the U.S.’s attempts to secure trade deals. The main threat, of high reciprocal tariffs, had been removed. U.S. President Donald Trump’s solution, of a temporary 10% tariff on all countries, suffered from two weaknesses: it would expire in 150 days, and was levied on all countries equally, regardless of whether they had a deal with the U.S. or not. Those tariffs have now expired. The Section 301 ‘forced labour’ tariffs announced last week are more permanent, and have carved out benefits for those with trade deals with the U.S. For example, while U.S. imports from India will face a 10% tariff over and above the base tariff the U.S. charges everybody, the European Union and Taiwan will face a total tariff of 10%. Similar benefits have been accorded to Japan, South Korea and Switzerland, all of which also have trade deals with the U.S. at various stages of formalisation. If stopping forced labour was the primary focus, tariffs would have been applied equally across all offenders, regardless of trade deal status. The tariffs would also not have had as many product-wise exemptions and country-wise quotas as the final version has.
+
+There is also the question of whether the U.S. should be penalising other countries for their trade with third parties. India has not been accused of using forced labour, yet faces tariffs because others have been. This, soon after the U.S. government told a court that it did not want to act as the “world police”. India has done well to reduce the proposed 12.5% tariffs to a final 10%, the same as or better than most of its competitors. All it took was a notification banning the import of goods made using forced labour. The action itself will be difficult to enforce, since it will require countries such as China and Malaysia to allow Indian government officials to visit and investigate their labour conditions. But simply issuing the notification won India a tariff reduction. However, uncertainty persists since the other Section 301 investigation, on excess capacity, is yet to play out and could result in further tariffs. It is highly unlikely that India will accept a trade deal until those tariffs become clear. That said, the tariffs should not push India towards a deal. Experience has shown that the U.S. tariff landscape can change radically even after a deal is signed.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/forced-labour-farce-on-india-and-the-uss-new-tariffs/article71272646.ece)
+
+---
+
+### Beyond compliance, India’s road to cleaner mobility
+*The Hindu · Opinion*
+
+The debate over India’s proposed Corporate Average Fuel Efficiency (CAFE) III norms comes at a crucial time for the global automobile industry as it transitions from internal combustion engines (ICE) to electrified powertrains. It also highlights India’s vulnerability to imported crude oil amid renewed geopolitical tensions. The framework India adopts today will influence investment, technology choices and energy security for decades.
+
+CAFE III, compliance or transformationThe Power Ministry’s July 16 draft notification marks the third iteration of CAFE III after months of industry lobbying. While some manufacturers pushed for stricter norms, others sought flexibility. The proposal attempts a compromise, but the question remains whether it prioritises compliance over transformation.
+
+CAFE norms set annual sales-weighted average fuel-efficiency targets for manufacturers’ passenger vehicle fleets rather than individual models. Introduced in the United States in 1975 after the 1973 Arab oil embargo, they aimed to reduce oil dependence and protect consumers from high fuel costs. The rules caused automakers to adopt smaller, more efficient vehicles. This also helped accelerate the rise of Japanese manufacturers.
+
+From the 1990s, fuel-efficiency regulations gained a second purpose: reducing greenhouse-gas emissions. In the United States, the EPA’s Endangerment Finding brought greenhouse gases under the Clean Air Act, with later emissions standards aligned closely with CAFE rules. While technology-neutral, the rules encouraged innovation in hybrids and electric vehicles (EV). Ironically, the Obama administration’s $465 million Department of Energy loan to Tesla in 2010 helped accelerate an EV industry now dominated by China.
+
+China’s experience is even more instructive. It introduced mandatory fuel-consumption standards in 2004, initially regulating individual vehicle models by weight rather than fleet averages. As car ownership surged, concerns over oil imports and urban air pollution grew. The standards tightened over time before China changed direction in 2018 with the introduction of its Dual Credit System.
+
+Under this framework, manufacturers must meet both Corporate Average Fuel Consumption (CAFC) standards and New Energy Vehicle (NEV) credit requirements. Fuel-efficiency compliance alone is insufficient. Companies that fail to earn enough NEV credits through EV or plug-in hybrid production must purchase credits from those with surplus EV production, creating a market that rewards innovation and penalises delayed electrification. For example, in India, Maruti Suzuki could remain NEV credit-deficient by 18% despite having highly fuel-efficient ICE models if it had no EVs in its portfolio. It would need to buy credits from companies such as Tata Motors or Mahindra, which generate NEV credits through their EV portfolios. While CAFC credits can be banked, carried forward or transferred within corporate groups, NEV credits cannot be offset in the same way. The results are evident. According to the International Energy Agency’s Global EV Outlook 2026, China sold more than 13 million electric cars in 2025, accounting for almost 55% of new passenger vehicle sales. Comparable figures were about 27% in the European Union, nearly 10% in the U.S. and around 4% in India.
+
+India’s own debate has centred on differences between Maruti Suzuki, Tata Motors and Mahindra & Mahindra. An earlier proposal effectively carved out lighter small cars from the full stringency of CAFE III. That exemption has since been removed. The current proposal seeks to reduce average emissions from around 113 gCO2/km to 77 gCO2/km by FY2031-32. On paper, that appears ambitious. Yet, the headline target tells only part of the story.
+
+The cost of flexibilityThe revised framework introduces several flexibility mechanisms that, taken together, substantially reduce its effective stringency.
+
+The first is the Carbon Neutrality Factor, which awards compliance benefits for vehicles compatible with higher ethanol blends and other fuels. Yet, the government has informed Parliament that no decision has been taken to move beyond E20 blending (20% plant-based ethanol with 80% regular petrol). Manufacturers therefore receive compliance advantages for technologies whose long-term policy trajectory remains uncertain. Ethanol is also more expensive than petrol, and has lower energy density, and therefore delivers lower mileage — a fact belatedly acknowledged by the Centre after it drew severe criticism.
+
+The second is the use of super credits. Battery EVs, plug-in hybrids, strong hybrids and flex-fuel vehicles receive additional weight in fleet calculations. While this encourages cleaner technologies, it also means that fewer actual low-emission vehicle sales are required to offset higher-emission models. Strong hybrids, which generally rely primarily on the ICE while using electric propulsion over relatively short distances and at lower speeds, also receive super-credit benefits despite offering only partial electrification.
+
+The third mechanism is banking and trading of compliance credits. Manufacturers outperforming their targets can accumulate credits and sell them to others. In addition, the draft allows companies to buy credits directly from the Bureau of Energy Efficiency (BEE) at administratively fixed prices if deficits remain after trading. The BEE is therefore not a market exchange but effectively a seller of last resort.
+
+In theory, this introduces efficiency into the system. In practice, it allows companies that are lagging to meet compliance requirements without upgrading their own technology. Moreover, the draft notification allows manufacturers to buy compliance credits from the BEE at ₹2,500 per gram of CO2/km in FY2028, rising to ₹4,500 by FY2032. By comparison, the Energy Conservation Act prescribes additional penalties of ₹25,000 or ₹50,000 per vehicle depending on the extent of non-compliance. Expressed in CAFE terms, the lower penalty threshold is broadly equivalent to a little over ₹5,000 per gram of CO2/km, implying that the proposed buyout price begins at less than half that level.
+
+Finally, compliance is assessed over three-year blocks before shifting to two-year blocks, allowing manufacturers to average performance across multiple years rather than meeting targets annually. Therefore, delays in one year can be compensated in another.
+
+The case of CNGTaken together, these mechanisms significantly alter the stringency of these regulations. Which raises a fundamental question: What is the purpose of a regulation?
+
+Regulation should shape markets rather than simply accommodate prevailing market preferences. India’s own experience with compressed natural gas (CNG) illustrates the point. Once policy support aligned with regulatory certainty, manufacturers rapidly introduced CNG variants. Regulation can create markets as much as respond to them.
+
+To put this in perspective: manufacturers’ voluntary commitments already average nearly 20% EV share by 2030, with several original equipment manufacturers aiming for 30% or higher. In effect, the revised regulation attempts only half of what the industry itself has committed to. The timing also matters. India remains heavily dependent on imported crude, exposing the economy to geopolitical shocks, imported inflation and currency pressures. Strengthening fuel-efficiency standards is therefore not merely an environmental objective. It is an energy-security strategy, an industrial policy and a macroeconomic imperative.
+
+These developments highlight the urgency and significance of revising India’s CAFE norms, as they offer an opportunity to address a macroeconomic vulnerability while helping meet India’s Glasgow commitment on energy efficiency.
+
+India should seize this opportunity to position itself alongside the world’s leading automotive markets in the transition to low-carbon mobility.
+
+[Read full article](https://www.thehindu.com/opinion/lead/beyond-compliance-indias-road-to-cleaner-mobility/article71273564.ece)
+
+---
+
+### Cauvery: A necessary political reset
+*Deccan Herald · Editorial*
+
+The proposed meeting between Karnataka Chief Minister D K Shivakumar and his Tamil Nadu counterpart C Joseph Vijay in Bengaluru to discuss Cauvery water-sharing is a welcome initiative.
+
+At a time of deficient rainfall and mounting anxiety in both states, it signals a willingness to move beyond political posturing and revive direct dialogue. The last such bilateral meeting was in 2012, when J Jayalalithaa and Jagadish Shettar met at the Supreme Court’s suggestion. Although those talks ended without a breakthrough, resuming political engagement after 14 years is significant in itself.
+
+CM Vijay's Cauvery talks plan with Karnataka sparks political row in Tamil NaduThe Cauvery dispute, rooted in the colonial-era agreements of 1892 and 1924, has traversed decades of negotiations and litigation. The Cauvery Water Disputes Tribunal’s final award in 2007, modified by the Supreme Court in 2018, allocated 404.25 TMC to Tamil Nadu, 284.75 TMC to Karnataka, 30 TMC to Kerala, and 7 TMC to Puducherry, with 14 TMC reserved for environmental protection and flows into the sea.
+
+The Supreme Court also reaffirmed the primacy of drinking water needs, while the Cauvery Water Management Authority and the Cauvery Water Regulation Committee were entrusted with implementing the award. Yet no legal framework can entirely substitute for political goodwill when the monsoon fails.
+
+Tamil Nadu's grievance that it has not received the stipulated quantity of water is understandable. Karnataka argues that the shortfall reflects inadequate inflows rather than wilful non-compliance. In distress years the accepted principle is that shortages should be shared on a pro-rata basis rather than borne by one state alone. The talks would also address concerns over the long-pending Mekedatu balancing reservoir project. Karnataka maintains that it is primarily intended to secure drinking water supplies and regulate flows, benefiting Tamil Nadu as well. Tamil Nadu, however, fears that an upstream reservoir could give Karnataka greater operational control during lean years. These competing claims deserve reasoned discussion rather than outright rejection.
+
+CWRC asks Karnataka, Tamil Nadu to conserve Cauvery water for next yearThe Cauvery is far more than a river; it is an emotional symbol, and disputes over its waters have sparked violence, most notably in 1991 and 2016. Inflows into the Harangi and Krishnaraja Sagar reservoirs following recent rains may ease the immediate crisis.
+
+Tamil Nadu, meanwhile, should invest in barrages, check dams, and off-stream storage as an estimated 60-70 per cent of surplus water flows into the sea unutilised during peak monsoons due to inadequate storage in the delta. Even if favourable rains ultimately resolve this year's shortage, dialogue must endure. When neighbours share a river, sustained conversation is always preferable to recurring confrontation.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/cauvery-a-necessary-political-reset-4089488)
+
+---
+
+### Trade uncertainty is the new normal
+*Deccan Herald · Editorial*
+
+The United States administration's move to impose 10-12.5% tariffs on imports from several countries, including India, signals that the government under President Donald Trump is undeterred by judicial setbacks or the mounting domestic and international criticism over its trade policies.
+
+Drawn from Section 301 of the 1974 Trade Act, the new duties effectively replace tariffs under Section 122 that lapsed last week after they reached their statutory 150-day limit. The US Supreme Court had earlier struck down the reciprocal tariffs introduced last year under the International Emergency Economic Powers Act, which pushed the government towards an alternative under Section 122.
+
+The fresh tariffs come after an investigation into inadequate efforts to prohibit the import of goods produced through forced labour. Notably, another ongoing probe under Section 301 is likely to result in additional tariffs on account of structural excess capacity in manufacturing sectors.
+
+DH Deciphers | US imposes 'forced labour' tariff on 60 economies; what it means for IndiaImports from India are set to face the 10% tariff above the "most favoured nation" (MFN) rate.
+
+Originally, the US Trade Representative (USTR) proposed a 12.5% rate, but lowered it to 10% after India amended its foreign trade policy to prohibit the import of goods made with forced labour. This 10% rate also applies to countries such as Bangladesh, Pakistan, Sri Lanka, and the United Kingdom. China faces a 12.5% tariff, while Japan, South Korea, and the European Union fall under the MFN rate.
+
+Upcoming tariffs targeting excess capacity are likely to push the total rates close to the reciprocal rate. These new duties highlight continued global trade volatility caused by Trump’s arbitrary use of tariffs for economic and political leverage.
+
+India is likely to remain vulnerable to the threat of US tariffs. A bill seeking to impose additional tariffs on countries importing Russian crude may impact India. Another proposal for the imposition of 100-200% tariffs on generic drugs from August 2028 is under consideration. This will have a significant effect on pharmaceutical companies in India, a major player in generic medicines. Some of these measures may serve as bargaining chips in the negotiations leading up to the India-US trade agreement.
+
+However, no agreement can be considered final, given that the Trump administration has repeatedly shifted its demands, leaving trading partners in perpetual uncertainty. India must, therefore, seek the best terms in the negotiations and factor in the risks of prolonged trade volatility. This means it must diversify, explore markets beyond the US, and pursue import substitution, particularly in the case of goods sourced from America.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/trade-uncertainty-is-the-new-normal-4089489)
+
+---
+
+### 'The aim is to set up a system to ensure robust, leak-proof and transparent exams at scale'
+*Deccan Herald · Opinion*
+
+Trust remains central to the question paper-setting process because of the element of human vulnerability, said V Kamakoti, a member of the six-member Task Force appointed by Prime Minister Narendra Modi to overhaul the National Testing Agency. He said the panel would develop a comprehensive framework for all national examinations, not just NEET. Excerpts:
+
+What are the reforms that the Expert Panel constituted by Prime Minister Narendra Modi would suggest? How can technology help?
+
+Entrance examinations at scale have been conducted for several decades. While there are unfortunate events of leaks, many examinations have been conducted successfully. Unfortunately, this year’s NEET had a problem. The primary objective is to create a robust, transparent, and leak-proof testing system capable of handling massive volumes of candidates.
+
+NEET retest | NTA must learn from UPSC, IBOver the years, testing methods have evolved from written subjective papers to Optical Response Sheets (ORS) introduced by the IITs and to computer-based testing (CBT). A key benefit of CBT is that question papers remain under secure digital control until exam day, making traditional leaks virtually impossible in a true CBT environment.
+
+The NTA successfully implemented some of the recommendations of the Dr K Radhakrishnan Committee appointed after the 2024 NEET paper leak, ensuring zero transit leaks in 2026. However, human vulnerability remains at the root of trust, which is the question-paper-setting process.
+
+Technology can help, but NEET is conducted in 12 languages, and at least 40 to 50 people are involved in this entire process. If even one person’s integrity is compromised, the security fails.
+
+That is the challenge, and the panel’s recommendation will focus on trust-building and integrating technology so that even if one component fails, the overall impact is minimised.
+
+From Aadhaar architect to ex-ISRO chief: Meet faces behind India's new taskforce to make exams leak-proofHow is this committee different from the Radhakrishnan Committee?
+
+The Radhakrishnan Committee focused on establishing general structural robustness. Our panel will look at all past insights and convert them into a comprehensive framework that applies to all national examinations, not just NEET.
+
+Since the Task Force members are from various sectors, I am confident that the team will bring diverse perspectives to plug security gaps. However, the core challenge remains unchanged — how to secure a completely reliable pool of educators to set question papers without leaks.
+
+Is there any timeline for the committee to submit its recommendations?
+
+The next exam cycle schedule is to start around December. I think we have to come out with a set of short-term recommendations in a month or two.
+
+What kind of overhaul does the NTA need?
+
+The successful conduct of the NEET re-exam (after cancelling the original exam) proved that when technology is required, it is effectively adopted. However, technology alone cannot prevent human betrayal.
+
+Trust is paramount. While multiple question setters could be used and papers randomly selected, the intensive translation process still involves many people.
+
+Regarding CBT, the framework is strong and can be expanded quickly, but it faces capacity constraints – handling a maximum of three lakh candidates in a single go. To accommodate 22 lakh to 23 lakh students, testing must be scaled or conducted across eight to ten sessions. Generating multiple question papers for these sessions is entirely manageable using robust normalisation formulas, similar to the method successfully used for the JEE Mains.
+
+What is your message to the students who went through a lot of mental agony due to the re-tests and controversies?
+
+For the current year, the NEET cycle is complete, and students should look forward to a bright future. There is a wonderful future ahead for them. For current plus-two students and parents, I wish to tell them that the government is taking these matters very seriously, and our committee will ensure that the voices of youth and parents are reflected in building a highly robust mechanism.
+
+[Read full article](https://www.deccanherald.com/opinion/the-aim-is-to-set-up-a-system-to-ensure-robust-leak-proof-and-transparent-exams-at-scale-4089496)
+
+---
 
 ## 27 July 2026
 
@@ -14,6 +168,15 @@ A volatile political climate in Washington has triggered a wave of strategic anx
 The argument, championed largely by an influential business lobby, suggests that India’s confrontational approach toward Beijing was overly synchronised with Washington’s strategic agenda of “containment” rather than India’s national interests. The lobby contends that because India remains deeply reliant on Chinese technology, supply chains, industrial inputs, and capital, a dogmatic anti-China stance ultimately stymies domestic economic growth while barely denting Beijing’s economy. The core risk, critics warn, is Washington’s historical pattern of tactical flip-flops — escalating tensions one day and striking bilateral deals the next — which risks leaving an overextended India strategically vulnerable to Chinese retaliation.
 
 [Read full article](https://www.thehindu.com/opinion/lead/do-not-surrender-to-china-do-not-depend-on-the-us/article71270024.ece)
+
+---
+
+### DC Edit | Amid Pause in Iran War, It’s Best Time To Get Peace Deal
+*Deccan Chronicle · Editorial*
+
+The weekend break in military strikes in the Iran war is about the best thing that could have happened since hostilities had broken out full scale once again 13 days ago. The US President Donald Trump may have been forced to hit the pause button because expanded military action could have come close to draining America’s diminishing stockpile of air defence munitions, especially Patriot anti-missile interceptors.The hiatus has given Mr Trump the space to ruminate over whether the time has come to hit ‘stop’ once and for all, declare victory and walk away from an unwinnable war. Announcing victory will not be the would not be the first untruth he has uttered in his time in office. It may serve as a salve to a person who says his actions are limited only by his “own morality,” but though they are now constrained by the harsh realities of limits on his and American military powers.The lull in fighting prompted Iran to refrain from attacking shipping in the Strait of Hormuz, leading to a most promising turn of events after the standoff had sent crude oil prices to $100 a barrel, causing furrows on the world’s brow, including the United States, where the price of a gallon had risen to $4.1 and to $5.6 in California. What the price of fuel and the cascading effect on the cost-of-living may do to influence the midterm polls is another thought that may have crossed his mind.The immediate concern is Mr Trump’s meeting today with Israel’s Benjamin Netanyahu who convinced him to go to war over Iran with the promise of swiftly ending Iran’s uranium enrichment programme and the regime of Ayatollah Khamenei. There may, perhaps, be no better time to rope Israel into ceasing offensive action in Lebanon and contributing directly to the peace effort, which may start once again in talks in West Asia if the quiet of the weekend prevails.Iran’s control of the Strait of Hormuz as a bargaining chip and a second choke point in the Gulf of Aden through one of its proxies has meant it has waged an asymmetrical war and any US escalation in strikes on infrastructure would only thrust more hardships on civilians who are not the targets. However, it is in keeping the shipping going through the seaways that Iran and possibly Oman can benefit if they can impose a toll on shipping. Such solutions can, however, come only through negotiations, which must resume at once if the pause is to continue.There is another person in Russia who also needs to learn a thing or two about unwinnable wars. His time to reflect may have also come as it is said now that the replacement rate of Russian troops lost in the war in Ukraine is coming down so sharply that only the virtual abduction of young men to send to the front is taking place. What seems obvious to right-thinking people in the rest of the world may not apply to the likes of the White House and Kremlin occupants. For wisdom to dawn, reason must break through to stop wars.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-amid-pause-in-iran-war-its-best-time-to-get-peace-deal-1974428)
 
 ---
 
@@ -48,6 +211,33 @@ This relief, however, may prove short-lived. Republican lawmakers have proposed 
 The H-1B programme has long attracted criticism in the US over alleged misuse, wage suppression and the displacement of American workers. Its critics argue that companies exploit loopholes to underpay visa holders or use the programme to replace domestic employees, while the companies claim that the H-1B visas allow them, as a result the United States, to stay competitive, which is key for survival in the capitalist world. The US, therefore, needs to decide whether it wants to trade competitiveness for welfare.
 
 [Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-major-h-1b-relief-for-techies-1974186)
+
+---
+
+### DC Edit | Protect the Right to Dissent
+*Deccan Chronicle · Editorial*
+
+The reiteration of simple facts can do a lot of good if it is done at the right time. Chief Justice of India Surya Kant’s statement that the right to peacefully protest is constitutionally protected and people taking part in a protest does not give the police licence to baton-charge them has come a bit late but it could still do some good.The CJI’s statement comes against the backdrop of serious allegations of police excesses during the youth protests, especially on July 20, demanding the resignation of Dharmendra Pradhan as Union education minister taking responsibility of a series of lapses in the conduct of various examinations this year. It may be remembered that the the court had declined to hear a representation seeking an investigation into allegations of police atrocities and had dismissed the offer to produce videos of police baton-charging students. Had the observation come at that time, it would have given the protesters more confidence in the democratic and judicial systems in the country.There are reports of increased police surveillance and harassment of the protesters and those who extended a helping hand to them. Some say new First Information Reports (FIRs) are being filed against protesters. App-based food delivery platforms were prevented from servicing the area. The government caused the shutting down of mobile Internet and metro stations, denying these facilities to people. While it is legal and mandated that those who broke the law are brought to book, the police cannot resort to their usual tactic of converting an investigation into a process of hunting and surveillance. It is not just that baton-charging is a violation; any act of the state that comes in the way of peaceful protest is a violation of constitutional rights. The apex court must intervene and ensure that people are able to enjoy those constitutional protections and caution the state against obstructing it.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-protect-the-right-to-dissent-1974417)
+
+---
+
+### Aakar Patel | The State and the Individual: Anger Over Its Failure Led to Minister’s Exit
+*Deccan Chronicle · Opinion*
+
+Many are puzzled by the size of the Cockroach Janta Party-led protests and the rapidity with which they delivered a famous civil rights victory. To understand the environment that produced this anger, we need to set aside the immediate issue on which the youth have mobilised and step back to assess the larger picture.Let us begin with a question: What is our relationship with the State? A word that we can take to mean the government, whether local or central. For some of us, such as those writing and likely reading this, the points at which the State intersects with our lives are few. This is the upper class (only 3 per cent of India pays income-tax, so we cannot speak properly of a middle class -- only an upper and the rest). Professionally, this class operates in English, and lives in the cities of India. English, which nine of ten Indians do not speak, allows those of us who do speak it and work in it to be global. In cultural and even professional ways, we are inhabitants of a wider world than the majority of Indians.Physically, our lives are less touched by the State than for most Indians. We are unlikely to have been educated in government schools and our children haven’t spent time in anganwadis. Our health is taken care of by the private sector and its doctors and hospitals, not by the nearly ten lakh women who are Accredited Social Health Activists. Our reliance on the public distribution system, through which the State gives subsidised foodgrain, is low or non-existent. Eighty crore people, two-thirds of India, benefit from PDS, which gives individuals either 5 kg of rice or wheat every month. Over twenty crore Indians are still undernourished because their access to State help is inadequate or absent. This column’s readers are unlikely to be among them.The flat we live in doesn’t have a toilet built with government subsidy. We don’t use public transport systems -- particularly the cheaper mediums such as intra- and inter-city buses -- as much as most of the population does. Many of us have abandoned trains for planes. So, the deterioration in rail services -- a third of all India's trains ran late in 2018 -- does not affect us much. When the Union government first eased Covid-19 restrictions, it allowed airlines to fly at full capacity but ran fewer than 300 of its 16,000 daily trains for several months. During notebandi, we were either unaffected or less affected than crores of families by the actions of the State.And then there are the negative points of contact with the State. Here, again, our club is not touched by the criminal justice system as many Indians are. Both in the number of times that we are in contact with it and in the way we are. We may not be familiar with some of the peculiar features of India's criminal justice system, such as administrative detention. This is how the Indian State holds, for months and often years, individuals without a crime or a trial. They are locked up on the mere suspicion of the State and its agents -- the police and the bureaucracy -- that if free, these individuals may commit an offence in future. We, or those we know, have rarely been subjected to a system of justice where there is punishment without a crime. We may not even be aware of it.The few points of contact we have with the State lie elsewhere and occur infrequently. We may need an electricity connection restored, a road paved, a passport renewed or a driving licence acquired. We feel harassed by the process required to acquire these essentials (there are agents who can smooth things for us). When we complain of the State’s inefficiency. it is through the experience we have in such things, and not in those that are linked to everyday life. Our food, health, shelter and education are not affected by or dependent on the State. It would not be inaccurate to say that we cannot measure or gauge the efficiency of the State to any extent because we are not engaged with it in any meaningful measure. The majority is more informed about the reality of governance than we are, purely because they have primary data that is much richer and whose periodicity is more frequent.The spaces in which we have first-hand familiarity with the government and what it does, and how well or how poorly, are scarce. We, the elite and the few, likely know less about how well India is governed and how efficient the State is than the many.Elections are the only time we politically engage with the State in structural terms. Here, our contact with the system is more removed than it is for the majority. Electoral promises and delivery do not mean the same thing to us. How many of us have actually met with or made a demand of our legislator for something that will make a difference to our life? It is the more abstract issues on the manifesto that we may find appeal in, rather than the more direct ones. Identity and nationalism and India's status in the world are important and substantial things for an elite that considers...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/aakar-patel-the-state-and-the-individual-anger-over-its-failure-led-to-ministers-exit-1974431)
+
+---
+
+### Shikha Mukerjee | Why ‘Cockroaches’ Are Virtually Indestructible
+*Deccan Chronicle · Opinion*
+
+Measured in the binary of victory-versus-defeat, it’s true that the youth-initiated and youth led protest under the banner of the Cockroach Janta Party triumphed against the might of Narendra Modi’s BJP by compelling the discredited education minister, Dharmendra Pradhan, to resign. The resignation was the CJP’s top demand, its non-negotiable requirement to end the protest.The youth who took to protests, negotiating and deal-making like ducks to water were born and nurtured within the system that the Modi government reconstructed to represent its ideology of Hindutva hegemony, centralisation of power, dismantling federalism and disenfranchising voters. The online party, which isn’t a “party” at all in the formal sense, took on the world’s largest party, BJP, which is supposed to be a well-oiled machine with disciplined cadres.When organisation is taken on and defeated by an unorganised bunch of frustrated, discontented and disenchanted young people, with expectations and aspirations that link them to a particular cohort, huge in numbers, a new phenomenon is born. Abhijeet Dipke’s infuriated response to Chief Justice of India Surya Kant’s labelling of unemployed educated youth as “cockroaches” triggered a movement that describes itself as “a political front of the youth, by the youth, for the youth”.What the slogan does not say is what makes the Jantar Mantar protest and the protests across India a vital testament to democracy. The movement is inclusive; if the ultra-left All India Students Association was there, so was the Congress’ student wing NSUI. So too was Sonam Wangschuk, who added moral heft to the protest by going on hunger-strike in support of the students’ demands. Farmers, traders, school teachers and professional politicians, retired persons, parents and survivors of the brutal system of education and examinations were also there. So too were elected and veteran leaders of the Opposition parties. As Rahul Gandhi explained, it’s “my job,” as Leader of the Opposition, to represent the side opposed to the government.The movement challenged every narrative that the BJP-RSS has introduced into and effectively taken over the public discourse. It didn’t make distinctions between youth from different religions or from economic and social categories. Jai Bhim, Inquilab Zindabad and Vande Mataram found space, along with Bharat Mata Ki Jai — to show differences in affiliations and ideologies within the protest space.It’s perfectly obvious that the politically astute Prime Minister and his trusted henchman Amit Shah realised that the new phenomenon that could call for a nationwide protest against the entirely prepared violence against protesters in New Delhi on July 20 and successfully pull it off, couldn’t be tackled with the usual negotiating and deal-making tactics.Retreat was the only sensible option. Mr Pradhan had to go because the alternative was an intensification of the protest by young people across the country, prolonged dharna within sight of the seat of power, namely the Prime Minister’s office; and challenging his claim that the BJP rules from the Himalayas to the Bay of Bengal. To oust the protestors, the Modi Sarkar would perhaps have to stage a repeat of Tiananmen Square.Having won its objectives, the CJP leadership declared it would go home and sleep. That too defines the youth and its attitudes. Education reform is what they have set as their target: they intend to get it done, step by step, starting a month from the resignation day, July 25.What else the CJP aims to achieve is unknown. Its “manifesto” said it will fight against Rajya Sabha seats for retired CJIs, it will hold the Chief Election Commissioner accountable, under the UAPA, for deletion of voter names, and this accountability will be strictly time-bound, presumably fast-tracked. It did say it supported 55 per cent women’s reservation in elected bodies.The CJP as a platform of dissent makes sense. Other and older democracies have birthed platforms like Black Lives Matter and “MeToo”, in response to specific issues of misgovernance, from extreme and murderous violence by the State to cover-ups of the elite and powerful over sexual abuse, violence, harassment. Anna Hazare’s movement demanding strict anti-corruption laws was a demand for accountability. The CJP’s demand for Mr Pradhan’s ouster was a gesture towards accountability.What is the next step for the CJP and its platform of dissent? Holding the government to account is like walking the talk; the price of liberty being eternal vigilance. If India’s democracy and its citizens are transiting to participation in politics, through a mechanism of eternal vigilance to protect and defend rights and entitlements, it is a maturing urgently desired.Limiting one’s political participation to just voting hasn’t worked. In the years since Mr Modi came to power, the idea of participation has been reduced to listening in silence, denoting approval or acceptance, every harangue and...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/shikha-mukerjee-why-cockroaches-are-virtually-indestructible-1974407)
 
 ---
 
