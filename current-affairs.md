@@ -1,3 +1,508 @@
+## 28 July 2026
+
+### Parliament flags IIT brain drain issue, Centre says it's a personal choice
+*India Today Education Desk · general*
+
+## Responding to concerns over IIT graduates moving abroad, the Centre told Parliament that studying or working overseas is a matter of individual choice, not a systemic issue. It added that many return after gaining international exposure, while IITs and NEP 2020 are boosting employability.
+
+Parliament flags IIT brain drain issue, Centre says it's a personal choice
+
+With the migration of IIT graduates back in focus in Parliament, the Centre on Monday said pursuing higher education or employment abroad is a matter of individual choice rather than a reflection of systemic shortcomings.
+
+It added that decisions to move overseas are influenced by factors such as educational opportunities, affordability and career aspirations, while noting that many graduates return to India after gaining global exposure.
+
+### GOVERNMENT RESPONDS TO BRAIN DRAIN CONCERNS
+
+The issue was raised in the Lok Sabha by Trinamool Congress MP Mala Roy, who sought details on IIT campus placements over the past three years, the number of graduates who secured jobs but later moved abroad, and the reasons behind their migration.
+
+Responding on behalf of the Ministry of Education, Minister of State Sukanta Majumdar addressed all three queries together but did not furnish data on the number of IIT graduates who went overseas after securing campus placements.
+
+Instead, he said pursuing higher education or employment abroad is "a matter of individual will and choice", influenced by factors such as affordability, access to education loans, exposure to foreign societies, and aptitude for specific fields of study.
+
+### IITs STRENGTHENING PLACEMENT ECOSYSTEM
+
+The ministry said IITs have undertaken several initiatives to improve placement outcomes and enhance students' employability. These include academia-industry conclaves, business summits, leadership talks, internships, industry-readiness programmes, soft skills workshops, mock interviews, and career development initiatives.
+
+According to the government, IITs are also leveraging their extensive alumni networks to strengthen ties with leading global companies and create better employment opportunities for students.
+
+### PLACEMENTS DEPEND ON MULTIPLE FACTORS
+
+The Centre noted that campus placement figures are influenced by a range of factors beyond recruitment demand. These include prevailing market conditions, students opting for higher education or research, and a growing preference for entrepreneurship and start-up ventures.
+
+The ministry added that a significant number of undergraduate students voluntarily choose not to participate in campus placements, instead pursuing off-campus recruitment opportunities or preparing for competitive examinations.
+
+It also highlighted that incubators and pre-incubators established across IITs are fostering technology-based start-ups, enabling graduates to emerge as job creators rather than job seekers.
+
+### MANY STUDENTS RETURN AFTER OVERSEAS STINTS
+
+On the question of students moving abroad, the government said international mobility for education and employment is influenced by a combination of economic, academic and personal considerations. These include affordability, access to bank loans, exposure to international societies, and interest in specialised areas of study.
+
+The ministry also stressed that overseas migration is often temporary, with many graduates returning to India after completing higher education or gaining short-term professional experience abroad.
+
+### NEP FOCUSING ON GLOBAL COMPETITIVENESS
+
+Reiterating its broader vision for higher education, the government said it recognises the realities of a global knowledge economy where international mobility is increasingly common.
+
+It added that the implementation of the National Education Policy (NEP) 2020 has focused on improving access, equity, inclusivity and quality in higher education while promoting the internationalisation of Indian education. The policy, the ministry said, aims to position India as a global education destination while equipping graduates to compete in an increasingly interconnected world.
+
+\- Ends
+
+Apoorva Anand
+
+Jul 28, 2026 09:00 IST
+
+---
+
+### Bus carrying Amarnath pilgrims overturns in J&K's Ganderbal, 30 injured
+*Ashraf Wani · general*
+
+## A bus ferrying around 50 Amarnath pilgrims overturned and rolled down a roadside slope in Jammu and Kashmir's Ganderbal district, leaving at least 30 passengers injured.
+
+Officials said the vehicle overturned and rolled about 20-25 metres down a roadside slope before coming to rest on the roof of a house.
+
+A bus carrying Amarnath pilgrims overturned in Jammu and Kashmir's Ganderbal district early Tuesday, leaving at least 30 passengers injured, officials said.
+
+The bus was carrying around 50 pilgrims from the Baltal base camp to Srinagar when it met with an accident on the Sonamarg road. Officials said the vehicle overturned and rolled about 20-25 metres down a roadside slope before coming to rest on the roof of a house.
+
+Around 30 passengers suffered minor injuries in the accident and were immediately shifted to a nearby hospital for medical examination and treatment, officials said, adding that no fatalities were reported.
+
+Personnel from the Indo-Tibetan Border Police (ITBP), Central Reserve Police Force (CRPF) and Jammu and Kashmir Police launched a rescue operation immediately after the accident, with ITBP medics providing first aid to the injured before they were shifted to a hospital.
+
+Security personnel also supervised the rescue operation, evacuation of passengers, medical assistance, crowd management and traffic regulation in the area.
+
+The cause of the accident was not immediately known and further investigation is underway.
+
+\- Ends
+
+Shipra Parashar
+
+Jul 28, 2026 08:55 IST
+
+---
+
+### Heart attack patients have higher levels of microplastics in their blood, says study
+*Anuradha Mascarenhas · legal*
+
+The findings suggest a strong association between the presence of tiny plastic particles in the bloodstream and acute heart attacks. (Photo/Canva)
+
+People who suffered a major heart attack had significantly higher levels of micro and nanoplastics (MNPs) in their blood than those with chronic coronary artery disease or even healthy coronary arteries, according to a new study published in the European Heart Journal.
+
+The findings suggest a strong association between the presence of tiny plastic particles in the bloodstream and acute heart attacks. Researchers also found that smokers and people exposed to higher levels of air pollution had greater concentrations of these particles in their blood. The study does not prove that microplastics directly cause heart attacks. Instead, it highlights a strong association between environmental exposure, the presence of microplastics in the blood and different stages of coronary artery disease. The authors say the findings point to the need for more research into how these pollutants may affect cardiovascular health.
+
+“Our findings not only support the well-established link between fine particulate air pollution (PM2.5) and acute cardiovascular events, but for the first time connect PM2.5 exposure and smoking with the presence of micro- and nanoplastics across the spectrum of coronary artery disease,” said Dr Pasquale Paolisso, clinical cardiologist at Sant ’Andrea University Hospital in Rome and the study’s first author.
+
+## Another risk factor for heart disease
+
+Dr K Srinath Reddy, Chancellor of the Public Health Foundation of India Institute of Public Health Sciences (deemed to be a university) and former head of the Department of Cardiology at AIIMS, New Delhi, said the research adds another environmental risk factor to the growing list of contributors to heart disease. “This study suggests that microplastics may be one more factor causing long-term damage to coronary arteries and triggering acute heart attacks,” Dr Reddy told The Indian Express. “The researchers also found a less strong, but still important, association between blood levels of microplastics and chronic coronary artery disease.”
+
+Chronic coronary artery disease is a long-term condition in which fatty deposits gradually build up inside the coronary arteries, reducing blood flow to the heart. Over time, this can cause chest pain, breathlessness and increase the risk of a heart attack. A heart attack, by contrast, occurs suddenly when one of these arteries becomes completely blocked, cutting off blood supply to part of the heart muscle.
+
+Dr Reddy also pointed to the particularly strong association between smoking and higher blood levels of microplastics. “These may come directly from cigarette filters or be absorbed more easily because smoking damages the lungs’ natural protective barriers,” he explained. “This could be another hidden factor contributing to heart attacks, even in people who otherwise appear healthy.”
+
+## What are microplastics?
+
+Micro- and nanoplastics are extremely small plastic particles that have become widespread environmental pollutants. According to the United Nations Environment Programme (UNEP), microplastics range in size from one nanometre to five millimetres. A nanometre is many thousands of times smaller than the width of a human hair, while five millimetres is about the width of a wedding band.
+
+Story continues below this ad
+
+These particles are now found almost everywhere — in the air, drinking water, soil and food. UNEP estimates that around 2.7 million tonnes of microplastics entered the environment in 2020, and that figure is expected to double by 2040 if current trends continue. People are exposed mainly by inhaling polluted air or ingesting contaminated food and water, and increasing evidence suggests that these particles can accumulate in human tissues.
+
+The researchers note that while people are routinely exposed to microplastics, little has been known about how much accumulates in the bloodstream during different stages of heart disease.
+
+## What the study found
+
+The multicentre study enrolled 61 patients undergoing coronary angiography, an imaging procedure used to examine the heart’s arteries. The participants were divided into three groups. The first included 19 patients with ST-elevation myocardial infarction (STEMI), the most severe type of heart attack caused by complete blockage of a coronary artery, who underwent emergency angioplasty (primary percutaneous coronary intervention or PCI). The second group included 20 patients with chronic coronary syndrome, a stable form of coronary artery disease caused by narrowed arteries, who underwent planned angioplasty. The third group consisted of 22 people whose coronary angiograms showed normal arteries and who served as the control group.
+
+Researchers collected blood samples both from the coronary arteries supplying the heart and from elsewhere in the body. They also recorded participants’ smoking history and estimated their exposure to PM2.5 air pollution on the day of testing as well as over the previous two years.
+
+Story continues below this ad
+
+Micro- and nanoplastics were detected in 84.2 per cent of patients with acute heart attacks, compared with 40 per cent of patients with chronic coronary artery disease and 31.8 per cent of those with normal coronary arteries. The most commonly detected plastic was polyethylene, which is widely used in packaging materials and everyday consumer products.
+
+Patients with acute heart attacks also had significantly higher concentrations of microplastics in both coronary and peripheral blood than the other two groups. Higher exposure to PM2.5 and a history of smoking were independently associated with greater microplastic levels in the bloodstream.
+
+## Why it matters
+
+The researchers say the findings add to growing evidence that micro- and nanoplastics are biologically active pollutants rather than simply inert contaminants. Laboratory and animal studies have suggested that these particles may trigger inflammation, damage blood vessels, accelerate the build-up of fatty plaques inside arteries and make existing plaques more unstable. These mechanisms could increase the risk of cardiovascular events, although this has yet to be conclusively demonstrated in humans.
+
+The study also offers a possible explanation for how air pollution and microplastics may act together. Because both are primarily inhaled, PM2.5 particles may act as carriers, transporting microplastics deep into the lungs. Together, the two pollutants may damage the lung’s protective barrier, allowing microplastics to enter the bloodstream and potentially contribute to inflammation throughout the body.
+
+Story continues below this ad
+
+The findings underscore the need to view pollution as a cardiovascular health issue, not just an environmental one. Reducing exposure to air pollution, tobacco smoke and plastic pollution should now become part of broader population-level strategies to prevent heart disease, rather than focusing only on individual risk factors such as cholesterol, diabetes and high blood pressure.
+
+Anuradha Mascarenhas is a Senior Editor at The Indian Express, based in Pune. With a career spanning three decades, she is one of the most respected voices in Indian journalism regarding healthcare, science and environment and research developments. She also takes a keen interest in covering women's issues . Professional Background Education: A gold medalist in Communication and Journalism from Savitribai Phule Pune University and a Master’s degree in Literature. Author: She authored the biography At The Wheel Of Research, which chronicles the life and work of Dr. Soumya Swaminathan, the former Chief Scientist at the WHO. Key Focus: She combines scientific accuracy with storytelling, translating complex medical research into compelling public and human-interest narratives. Awards and Recognition Anuradha has won several awards including the Press Council of India's national award for excellence in journalism under the gender based reporting category in 2019 and the Laadli Media award (gender sensitivity -2024). A recipient of the Lokmat journalism award (gender category-2022), she was also shortlisted for the RedInk awards for excellence in journalism-2021. Her debut book At The Wheel Of Research, an exclusive biography of Dr Soumya Swaminathan the inaugural chief scientist of World Health Organisation was also nominated in the Popular Choice Category of JK Paper AUTHER awards. She has also secured competitive fellowships including the Laadli Media Fellowship (2022), the Survivors Against TB – New Research in TB Media Fellowship (2023) and is part of the prestigious 2025 India Cohort of the WomenLift Health Leadership Journey.” Recent Notable Articles (Late 2025) 1. Cancer & Specialized Medical Care "Tata Memorial finds way to kill drug-resistant cancer cells" (Nov 26, 2025): Reporting on a breakthrough for triple-negative breast cancer, one of the most aggressive forms of the disease. Discipline, diet and purpose; How a 97-year-old professor defies ageing'' (Nov 15, 2025) Report about Prof Gururaj Mutalik, the first Head of Department at Pune's B J Government Medical College who at 97 credits his longevity to healthy habits and a strong sense of purpose. 2. Environmental Health (The "Breathless Pune" Series) Long-term exposure even to 'moderate' air leads to chronic heart, lung, kidney issues" (Nov 26, 2025): Part of an investigative series highlighting that even "safe" pollution levels are damaging to vital organs. "For every 10 µg/m3 increase in PM2.5 level, there was 6-8% jump in medicine sales" (Nov 23, 2025): Using commercial data to prove the direct link between air quality and respiratory illnesses in Pune. 3. Lifestyle & Wellness News "They didn't let cancer, diabetes and heart disease stop them from travelling" (Dec 22, 2025): A collaborative piece featuring survivors who share practical tips for traveling with chronic conditions. At 17, his BP shot up to 200/120 mmHG; Lancet study flags why child and teen hypertension doubled between 2000 and 2020'' (Nov 12,2025)--A report that focusses on 17-year-old-boy's hypertensive crisis and reflects the rising global trend of high blood pressure among children and adolescents. 4. Scientific Recognition & Infrastructure For promoting sci-comm, gender diversity: IUCAA woman prof highlighted in Nature" (Nov 25, 2025): Covering the global recognition of Indian women scientists in gender studies and physics. Pune researchers find a spiral galaxy like the Milky Way from early universe'' (December 3, 2025)- A report on how Indian researchers discovered a massive galaxy that existed when the universe was just 1.5 billion years old , one of the earliest to have been observed so far. Signature Beat: Health, Science & Women in Leadership Anuradha is known for her COVID-19 reportage, where she was one of the first journalists to provide detailed insights into the Covishield and Covaxin trials. She has a dedicated interest in gender diversity in health and science, often profiling women researchers who are breaking the "leaky pipeline" in STEM fields. Her writing style is scrupulous, often featuring interviews with top-tier scientists and health experts from various institutions.   ... 
+
+-   Tags:
+-   heart
+
+---
+
+### Bank of Baroda confirms data breach. Can the lender now face penalties?
+*India Today Business Desk · general*
+
+Bank of Baroda has confirmed that an employee email account was compromised, resulting in unauthorised access to certain customer data, reported news agency Reuters.
+
+While the state-run lender has stressed that its core banking systems remain secure and has launched a forensic investigation after implementing initial containment measures, the confirmation shifts attention to what happens next.
+
+Can the bank face regulatory penalties? Could customers seek compensation? And what steps should account holders take to protect themselves from the possible misuse of their personal information?
+
+### WHAT ACTION COULD THE BANK FACE?
+
+With the breach now confirmed, regulators are expected to examine how the incident occurred, whether Bank of Baroda complied with cybersecurity requirements and whether there were any lapses in protecting customer information.
+
+The Reserve Bank of India (RBI) could review whether the lender adhered to its cybersecurity and risk management framework for banks. Depending on the findings, the central bank may direct the bank to strengthen its security controls, improve internal processes or take other supervisory measures. If regulatory violations are established, the RBI also has powers to impose penalties under the applicable banking laws.
+
+India's cybersecurity agency, CERT-In, may also examine whether the incident was reported in accordance with cyber incident reporting requirements and whether the bank followed appropriate response protocols.
+
+The incident could also attract scrutiny under the Digital Personal Data Protection (DPDP) Act.
+
+Sudiptaa Paul Choudhury, Chief Marketing Officer at QNu Labs, said the DPDP Act allows penalties of up to Rs 250 crore for failing to take reasonable security safeguards and up to Rs 200 crore for failing to report a breach.
+
+"This lands right in the middle of a live regulatory shift in India. While the Data Protection Board is already operational, the penalty machinery formally switches on this November," she said.
+
+She added that CERT-In's six-hour breach reporting mandate already applies, while Section 43A of the Information Technology Act exposes companies to compensation claims for negligent handling of sensitive personal data. RBI's cybersecurity framework also imposes additional reporting and remediation obligations on banks.
+
+However, experts note that no penalty is automatic. The findings of the forensic investigation and regulators' assessment will determine whether any action is warranted.
+
+### IS YOUR MONEY SAFE?
+
+Bank of Baroda has maintained that its core banking systems were not accessed during the breach, suggesting that the incident involved customer data rather than the systems that process banking transactions.
+
+That distinction is important, Choudhury said.
+
+"What's alleged here is a data breach, not a banking-systems breach. Nobody is reporting unauthorised fund transfers," she said. She added that customer deposits continue to be protected by Deposit Insurance and Credit Guarantee Corporation (DICGC) insurance of up to Rs 5 lakh per bank, regardless of what the investigation eventually finds.
+
+However, she cautioned that customers should not mistake that reassurance for complete safety.
+
+"Safe isn't the same as risk-free, because a data leak doesn't drain your account by itself, it hands scammers a script," she said.
+
+She explained that fraudsters armed with details such as a customer's name, Aadhaar number or loan amount can sound far more convincing when posing as bank officials or relationship managers.
+
+"The leak is the loaded gun, phishing is the trigger, don't pull it for them," Choudhury said.
+
+### WHAT SHOULD CUSTOMERS DO NOW?
+
+Customers should not wait for the forensic investigation to conclude before taking steps to secure their accounts, Choudhury said.
+
+"Don't wait for confirmation, act like it's real," she said.
+
+She advised customers to immediately change their net banking and mobile banking passwords, enable transaction alerts if they have not already done so and make it a habit to review every alert carefully. Customers should also avoid clicking on links received through SMS or emails claiming to be from the bank over the coming weeks, as data breaches are often followed by phishing campaigns targeting anxious customers.
+
+"Every breach headline triggers a wave of 'verify your KYC' phishing, so open the app directly or type the URL yourself instead," she said.
+
+If Aadhaar details are suspected to have been exposed, customers should lock their Aadhaar biometrics through the UIDAI website or the mAadhaar app.
+
+"It takes five minutes and shuts a door identity thieves love," Choudhury said.
+
+She also urged customers to check their credit reports regularly rather than focusing only on bank statements.
+
+"Leaked PII gets used to open loans and cards in your name, not just to empty your existing account," she said.
+
+Customers should immediately report any suspicious activity to the bank as well as through the National Cyber Crime Reporting Portal or by calling the cybercrime helpline 1930 instead of waiting to see whether anything goes wrong.
+
+### CAN CUSTOMERS SEEK COMPENSATION?
+
+A confirmed data breach does not automatically entitle every affected customer to compensation.
+
+However, customers who suffer financial losses because of negligent handling of their personal information may have legal remedies under applicable laws.
+
+Choudhury pointed out that Section 43A of the Information Technology Act already provides for compensation claims in cases involving negligent handling of sensitive personal data. Customers can also approach the bank's grievance redressal mechanism and, where appropriate, escalate complaints under the RBI's Integrated Ombudsman Scheme.
+
+### THE BIGGER COST MAY BE TRUST
+
+For a public sector bank serving millions of customers, the financial penalty may ultimately be only one part of the fallout.
+
+"For a public sector bank carrying this much retail trust, add parliamentary scrutiny and reputational cost to the bill, because the fine is rarely the biggest number. Trust is," Choudhury said.
+
+Summing up the broader lesson from the incident, she added: "Breaches don't happen because encryption failed somewhere. They happen because someone, somewhere, assumed 'it won't be us.' That assumption is the actual vulnerability, every single time."
+
+The forensic investigation is expected to determine how much data was accessed, how many customers were affected and whether there were any lapses in the bank's cybersecurity controls. Those findings will ultimately decide whether regulators initiate any enforcement action. Until then, cybersecurity experts advise customers to remain alert to phishing attempts, secure their accounts and closely monitor their financial activity.
+
+\- Ends
+
+Jul 28, 2026 08:49 IST
+
+---
+
+### Before Dharmendra Pradhan's exit, Centre offered portfolio change; CJP rejected it
+*Himanshu Mishra · general*
+
+## Sources said the Centre offered the CJP the option of changing Dharmendra Pradhan's portfolio instead of seeking his removal. The delegation rejected the proposal, insisting that Pradhan's resignation was the only acceptable outcome.
+
+Union Minister JP Nadda with MoS Jitendra Singh and CJP Spokespersons Saurav Das and Ashutosh Ranka, during a joint press conference after Education Minister Dharmendra Pradhan resigned from the Union Cabinet. (PTI)
+
+The Cockroach Janata Party delegation that met Union Ministers JP Nadda and Jitendra Singh on Saturday rejected an offer from the Centre to change Dharmendra Pradhan’s portfolio instead of removing him from the Cabinet altogether, sources told India Today.
+
+The government’s negotiators argued that removing a minister from office or changing their portfolio was entirely the Prime Minister’s prerogative.
+
+However, the CJP rejected the proposal outright and made it clear that it would accept no alternative to Education Minister Pradhan’s resignation.
+
+On Monday, Pradhan received a hero’s welcome from NDA leaders in Parliament, in a visible show of support for the former Education Minister, who resigned on Saturday amid nationwide protests over the NEET paper leak.
+
+At the same time, Opposition leaders led by Congress MP Priyanka Gandhi Vadra held a protest over the alleged use of excessive force against students during the demonstrations.
+
+The confrontation between the Opposition and the NDA took place as Parliament was set to take up the Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026, which seeks to tighten the country’s anti-paper leak law in the wake of the NEET controversy.
+
+BJP MPs assembled at the Makar Dwar entrance before Pradhan’s arrival and waited there to receive him. When he entered the Parliament complex, party colleagues escorted him inside, greeted him and presented him with a ceremonial cap as a gesture of solidarity.
+
+On the other hand, Opposition leaders staged their protest over what they alleged was excessive force used against students during the nationwide protests.
+
+Raising the slogan “Shiksha Chori” (theft of education), they asked Union Home Minister Amit Shah to apologise for what they described as police brutality against peaceful protesters.
+
+The political stand-off unfolded as Parliament prepared to discuss the Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026.
+
+The proposed law is aimed at strengthening measures against paper leaks after the NEET controversy, which led to Pradhan’s resignation and had become a central demand of the Cockroach Janta Party-led movement.
+
+Meanwhile, as Pradhan walked into a grand welcome, Congress MP Jairam Ramesh, who had vociferously demanded his resignation until a day earlier, approached him and expressed sympathy after he eventually stepped down.
+
+“It happens,” the Congress leader told him. “Nothing happened,” Pradhan retorted, before adding, “I am a street fighter, not an AC-room activist.”
+
+After six days of washout during the Monsoon Session, Parliament is likely to take up a discussion today on a bill seeking to amend the anti-paper leak law. The bill was tabled in Parliament on Monday amid a massive uproar by the Opposition, which demanded answers from the Centre over the use of police force against protesters in Delhi and across the country.
+
+The Public Examination (Prevention of Unfair Means) Amendment Bill, 2026, which came in the wake of weeks of massive youth protests, proposes more stringent punishment for examination fraud, increasing the maximum jail term from five years to 10 years and imposing a fine of up to Rs 50 lakh.
+
+\- Ends
+
+Sayan Ganguly
+
+Jul 28, 2026 08:48 IST
+
+---
+
+### California boy swept away by monster waves, 16-year-old lifeguard jumps to rescue
+*India Today Trending Desk · general*
+
+## A 10-year-old boy was swept into rough surf at Seabright Beach in California before a 16-year-old lifeguard and others brought him back to shore.
+
+A 16-year-old lifeguard saved a boy hit by strong waves at a California beach. (Photo: X)
+
+A 16-year-old lifeguard is being hailed as a hero after rescuing a young boy who was swept into the ocean by towering waves at a California beach. The dramatic rescue, captured on video, has since spread widely across social media.
+
+The teenager's bravery has garnered much praise, including from Eric Trump, who called for him to receive the "highest civilian honor."
+
+According to a report by NBC, the incident unfolded on Saturday at Seabright Beach in Santa Cruz, California, when unusually powerful waves caught beachgoers off guard.
+
+The viral video, filmed by Scott Vander Dussen, shows the young boy, believed to be around 10 years old, struggling against the rough surf after being pulled into the water by the crashing waves. As wave after wave slammed into him, people on the shore watched in horror, fearing the worst.
+
+"It caught a lot of people off-guard," Vander Dussen told NBC. "Unfortunately, this young man was overwhelmed and swept out in just a moment's time."
+
+Within seconds, a 16-year-old lifeguard sprang into action. The teenager plunged into the turbulent water and fought through the heavy surf to reach the struggling child. The video captures the tense rescue as the lifeguard battled the waves before finally managing to bring the boy closer to shore.
+
+**Watch the clip:**
+
+According to NBC, other beachgoers and a second lifeguard quickly joined the effort. Together, they helped carry the exhausted boy safely back onto the beach, where relieved onlookers watched the rescue come to a successful end.
+
+The dramatic footage has spread widely across social media, with many users hailing the teenage lifeguard's courage and presence of mind in an extremely dangerous situation.
+
+Among those reacting to the video was Eric Trump, who reshared the clip on X and praised the young rescuer.
+
+"Give this 16-year-old lifeguard the highest civilian honor. This is truly the best of America! Well done!" he wrote.
+
+For many viewers, the viral video is a reminder of both the unpredictable power of the ocean and the life-saving role trained lifeguards play when seconds can mean the difference between life and death.
+
+\- Ends
+
+Srimoyee Chowdhury
+
+Jul 28, 2026 08:48 IST
+
+---
+
+### Felt something hit my arm … blood dripped down to my fingers: Artist recalls moment pellets struck him during CJP protest
+*Tabshir Shams · legal*
+
+Prashant, a graphic artist, had joined the protest “to take a stand”. (Photo: Special Arrangement)
+
+Prashant, a 25-year-old artist from Delhi, can feel the pellets lodged in his arms. “The doctors have removed many of them, but a few still remain deep inside the tissue,” he told The Indian Express at Lok Nayak Hospital on Monday evening. He had come to the hospital for follow-up medical advice on the pellet injuries that he had sustained during the Cockroach Janta Party’s July 20 protest in the capital.
+
+Hospital records from Lady Hardinge Hospital dated July 20 show that Prashant was injured in the chest, right upper limb, and inguinal (groin) region.
+
+Dr Himani Ahluwalia, Director of Lady Hardinge Hospital, told The Indian Express, “Pellets can be made of lead, steel, or even plastic. The ones lodged near the surface of the skin can be removed with forceps, but those lodged deeper in the muscle are difficult to extract. We keep them under observation.”
+
+Dr Ahluwalia said patients hurt by pellets receive the same treatment as those with a puncture wound, and are advised to follow up across various departments.
+
+ prashant said that he drew inspiration for his art from what he saw around him, and from issues “that affect the poor”. (Photo: Special Arrangement)
+
+The Central Reserve Police Force (CRPF) is learnt to have found that a person from its Rapid Action Force (RAF) who was deployed in the Connaught Place area during the July 20 protest had fired at least seven rounds from his pellet gun. Five rounds hit protesters, sources have told The Indian Express.
+
+Prashant, a graphic artist, had joined the protest “to take a stand”. He said that he drew inspiration for his art from what he saw around him, and from issues “that affect the poor”. He had been visiting Jantar Mantar since the protest began on June 6, he said.
+
+“I wanted to understand why people were protesting, what their concerns were. I was documenting the protest, and I would put the protesters on canvas. The protest was beautiful; how could I not capture what was unfolding around me,” he said.
+
+Story continues below this ad
+
+Prashant described the scene in Connaught Place on July 20: “Around the inner circle, chaos was unfolding. On one side stood the protesters, on the other, the police. The protesters were throwing stones, and the police responded with lathicharges and tear gas. Men in blue uniforms (RAF) were all around us.”
+
+ Prashant said he was documenting the protest, and would put the protesters on canvas. (Photo: Special Arranegement)
+
+Prashant said he repeatedly urged the protesters not to throw stones, and pleaded with the police to not beat them. “I was hit on the legs by a lathi while trying to save a friend. The police were beating us brutally,” he said.
+
+“The acrid smell and haze of the tear gas made it hard to see anything. Suddenly, I felt something hit my right arm, and realised that a security personnel had shot at me. My body went into a shock. The force was hard enough to throw me back a few feet,” Prashant said.
+
+“I was wearing a full-sleeved black T-shirt. The blood dripped down to my fingers. My hands quickly swelled up,” he said.
+
+Credit for photos: Special Arrangement
+
+Tabshir Shams covers health for The Indian Express. He holds a Master's degree in International Relations from South Asian University. Before joining The Indian Express, he interned at The Hindu from December 2025 to June 2026, where he assisted in the research and editing of a book on delimitation published by The Hindu Group Publications. During this time, he also wrote for The Hindu's Text & Context section, on subjects ranging from Pakistan's military establishment to Bangladesh's elections, and reported a Spotlight feature on a jute mill in Samastipur and its ripple effects on labour migration and the local economy. In July 2025, he interned at The Indian Express, where he wrote several explainers on international relations alongside a health report. His Master's thesis examines civil-military relations in Pakistan, with a focus on the post-2019 period. ... 
+
+**Stay updated with the latest - Click here to follow us on Instagram**
+
+-   Tags:
+-   Cockroach Janta Party
+-   Jantar Mantar
+
+---
+
+### CJP's Midnight Update After Govt Talks: 'No Protester Will Be Left Alone, We Are In This Together'
+*Mallika Soni · general*
+
+CJP Chief Spokesperson Saurav Das said officials shared copies of notifications issued by the Bihar and Assam governments confirming the withdrawal of FIRs against protesters.
+
+[Read full article](https://www.news18.com/india/cjps-midnight-update-after-govt-talks-no-protester-will-be-left-alone-we-are-in-this-together-ws-l-10237033.html)
+
+---
+
+### Video: Massive crater appears on newly opened Dehradun bridge after heavy rain
+*Ankit Sharma · general*
+
+A newly inaugurated bridge over the Tons River in Dehradun was damaged following overnight rain, raising questions over the quality of construction of the key link connecting Dehradun with Vikasnagar and neighbouring Himachal Pradesh.
+
+The bridge, inaugurated only a few days ago, developed a massive crater near the approach to the water crossing after heavy rain, disrupting traffic along the route. Residents have questioned whether the newly built structure was capable of withstanding the monsoon, which brings intense rain and flooding to Uttarakhand.
+
+Visuals of the damaged bridge quickly circulated on social media. However, the administration is yet to issue an official statement on the extent of the damage or its cause. A technical inspection is expected to determine whether the damage resulted from flooding, structural deficiencies, or other factors.
+
+The incident comes as Uttarakhand remains under a heavy rain alert. The India Meteorological Department (IMD) has issued an orange alert for heavy to very heavy rain in nine districts on Tuesday, warning of thunderstorms and intense spells of rain that could trigger widespread disruptions.
+
+Dehradun is among the districts under the orange alert, along with Uttarkashi, Tehri, Rudraprayag, Chamoli, Udham Singh Nagar, Bageshwar, Pithoragarh and Nainital. The IMD has warned of heavy to very heavy rain at isolated places, accompanied by thunderstorms and intense rain spells.
+
+In view of the forecast, the state government has directed all district administrations to remain on high alert and take precautionary measures to minimise disruptions and ensure public safety.
+
+Several parts of Uttarakhand recorded widespread rain on Monday. According to IMD data, Dangoli received the highest rainfall at 65 mm, followed by Berinag (41.5 mm), Ghat (41 mm), Song (40 mm), Bastia (37 mm), Haldwani (35 mm), Almora (33.5 mm), Jakholi (32 mm) and Tanakpur (28 mm).
+
+With heavy rain expected to persist over the coming days, the damage to the newly opened bridge is likely to intensify scrutiny of infrastructure quality in the hill state, where monsoon conditions routinely put public works to the test.
+
+\- Ends
+
+Jul 28, 2026 08:42 IST
+
+---
+
+### 'Dharmendra Pradhan is symbol of corruption': Rahul Gandhi
+*ANI · business*
+
+New Delhi: Leader of Opposition in the Lok Sabha Rahul Gandhi on Monday criticised Bharatiya Janata Party (BJP) for the manner in which NDA MPs welcomed former Union Education Minister Dharmendra Pradhan to Parliament, claiming that he will always remain a symbol of "corruption" and "India's ruined education system."
+
+In a post on X, Gandhi alleged that felicitating Pradhan in Parliament amounted to celebrating the destruction of the future of lakhs of students.
+
+  
+
+"Dharmendra Pradhan is, and will always remain, the symbol of corruption and India's ruined education system. It is that very system that took the lives of 26 children and forced lakhs of youth onto the streets. His resignation did not come out of morality - it was forced out of fear of the youth's rage. And today, the BJP is garlanding that same person inside Parliament. This is not an honour--it is a celebration of ruining the futures of lakhs of children. Every student in the country is watching this. And they will remember every face involved in this," Gandhi said.
+
+His remarks came after BJP and NDA MPs raised slogans of "Dharmendra Pradhan zindabad" and felicitated the former Education Minister upon his arrival in Parliament.
+
+Pradhan resigned from the Union Cabinet on Saturday following widespread protests over the alleged NEET paper leak and concerns over irregularities in the country's examination system.
+
+The development comes as the Centre on Monday introduced the Public Examinations (Prevention of Unfair Means) Amendment Bill in Parliament, aimed at strengthening measures to curb paper leaks and examination malpractices.
+
+The resignation and the introduction of the amendment bill followed weeks of nationwide protests by students demanding accountability and reforms in the examination system. While the Centre has announced a series of measures to address the issue, Opposition parties have continued to press the government over the handling of the protests, alleged police action against students, and accountability over the examination controversy.
+
+---
+
+### Delhi flight status today: Check latest advisory by IGI airport as IMD predicts rain in the national capital
+*Trending Desk · business*
+
+Delhi's Indira Gandhi International Airport (IGIA) has issued a passenger advisory after the India Meteorological Department (IMD) forecast inclement weather in the airport's vicinity. Parts of the national capital witnessed rainfall on Tuesday, with the weather department predicting continued wet conditions throughout the day. However, flight operations at the airport are currently running normally.
+
+## **IMD forecasts cloudy skies with moderate rain**
+
+The weather office has forecast a generally cloudy sky with moderate rainfall across the capital. According to the IMD, light to moderate rainfall is expected to persist through the morning, forenoon, afternoon, evening and night, indicating sustained wet conditions throughout the day.
+
+  
+
+> — DelhiAirport (@DelhiAirport)
+
+Delhi's maximum temperature is expected to settle around 33 degrees Celsius, while the minimum is likely to hover near 24 degrees Celsius. Humidity levels are expected to range between 75 and 80 percent, adding to the muggy conditions accompanying the rainfall.
+
+## **Flight operations currently unaffected**
+
+Despite the adverse weather conditions in and around the airport, flight operations remain normal at this time, according to the advisory issued by IGIA.
+
+## **Ground teams coordinating with stakeholders**
+
+Airport authorities stated that on-ground teams are working closely with all stakeholders to ensure passengers experience a smooth and uninterrupted journey, even as rain continues to affect parts of the city.
+
+## **Passengers urged to check with airlines**
+
+The airport has advised travellers to remain in touch with their respective airlines for the latest flight status and updates, as the IMD's forecast points to persistent rain through the coming hours.
+
+---
+
+### SIR enumeration forms haven't reached even 50% of residents in Delhi's villages, unauthorised colonies, says AAP
+*Unknown · business*
+
+New Delhi: The Aam Aadmi Party (AAP) on Monday alleged large-scale irregularities in the ongoing Special Intensive Revision (SIR) exercise in the national capital, claiming that nearly 50 per cent of residents in Delhi's villages and unauthorised colonies have not received enumeration forms, despite the Election Commission's claim that more than 99% have been distributed.
+
+Noting the large-scale irregularities in the process, AAP Delhi President Saurabh Bharadwaj said that if people do not even receive the enumeration forms, they cannot be expected to fill and return them, making their SIR verification impossible.
+
+Addressing a press conference at the AAP headquarters on Monday, Bharadwaj said, "The Election Commission claims that more than 99% of enumeration forms have been distributed in Delhi, but reports from the ground show that this is completely false. I appeal to the media to visit any village or unauthorised colony and ask residents whether they have actually received the enumeration forms."
+
+  
+
+Nearly 50% of them, Saurabh Bharadwaj said, would state that the forms had never reached them.
+
+He stated, "BLOs are sitting on large numbers of enumeration forms instead of distributing them. While forms have been delivered door-to-door in affluent neighbourhoods and DDA flats, they have not been distributed in villages and unauthorised colonies, which together account for nearly 70% of Delhi's population."
+
+Meanwhile, Burari MLA Sanjeev Jha said, "Votes are being deleted on such a massive scale in the name of the SIR exercise that its magnitude is difficult to imagine. The BLOs entrusted with this responsibility are simply not reaching the people. In my Burari constituency, Polling Booth No. 64 has 1,670 registered voters, but only 510 forms have been submitted. At Booth No. 158, only 427 forms have been submitted out of 1,460 voters, while at Booth No. 160, only 280 forms have been submitted out of 1,041 registered voters."
+
+He further said, "Only about 30-35% of forms have been submitted at each polling booth. When BLOs are asked about the next step, they say they have been instructed by higher authorities to mark everyone else as 'shifted,' which effectively means their names will be deleted from the electoral rolls."
+
+Giving an example, Sanjeev Jha said that one individual tracked down a BLO, only to be told that his SIR verification had already been completed in Uttarakhand, even though he had been living in Delhi for the past 30 to 40 years. When the matter was verified, it was found that no SIR verification had taken place anywhere. "BLOs are merely completing formalities and deleting votes by matching similar names in the system without carrying out proper verification," he said.
+
+The AAP MLA said that many residents of unauthorised colonies were not highly educated, and this was being exploited to carelessly delete their votes. During the pre-SIR exercise conducted over the summer vacation in June, around 1.3 to 1.4 million votes had already been deleted. "Now, even people who had voted in the previous election were complaining that their names no longer appeared on the electoral rolls," he stated.
+
+On behalf of the AAP, Sanjeev Jha appealed to the Election Commission to either extend the timeline for the SIR process or provide a solution regarding the votes deleted during the pre-SIR exercise. He warned that if the SIR continued in Delhi in its present form, only 30-40% of the existing votes in unauthorised colonies and villages would remain, reducing the voter base to nearly half of what it had been in the previous election. "It is the EC's responsibility to ensure that not a single eligible voter is left out. But if the Commission instead decides to find ways to delete the maximum number of votes, democracy itself will be undermined," he said.
+
+Senior AAP leader and former MLA Durgesh Pathak said that the SIR exercise had already become the subject of widespread discussion across the country. He referred to a viral video of a BJP leader from Punjab released a few days ago, in which the leader said that if 25,000 to 30,000 votes were deleted in an Assembly constituency, the election could easily be won.
+
+"It would not be an exaggeration to say that the BJP has now completely taken control of the SIR process in Delhi. BLOs, who are junior-level officials, are being pressured, called to MLAs' offices, and handed lists, resulting in large-scale manipulation of the electoral rolls," he added.
+
+Referring to the issue of tenants living in Delhi, Durgesh Pathak said that both he and Sanjeev Jha themselves lived in rented accommodation and changed houses every six months or every year. "I live in Rajendra Nagar and have changed houses three times, because of which my voter registration has also shifted several times. After recently moving to a new residence, I had not yet been able to get my name added to the electoral roll, so the BLO went to my old address instead. Since people there knew me, they were able to get in touch with me. But ordinary citizens do not have that advantage," he said.
+
+Durgesh Pathak said that nearly 60-70% of Delhi's residents, who come from Uttar Pradesh, Bihar, Haryana, Punjab and other parts of the country, live in rented accommodation and frequently change houses. As a result, all such tenants now faced the risk of having their votes deleted. He appealed to the Election Commission to treat Delhi's SIR exercise differently from that of other states.
+
+He continued, "Unlike most states, where nearly 80% of the population lives in rural areas, and tenancy is uncommon because homeowners themselves reside in their houses, Delhi presents unique circumstances." He therefore urged the Election Commission to treat Delhi as a special case.
+
+Durgesh Pathak further said, "Polling officials themselves have been raising these concerns at multiple levels, but senior officials are under pressure to complete the process quickly, finish deleting votes, and satisfy the BJP. The BJP has deployed party workers and paid individuals at every polling booth to manage the electoral rolls."
+
+He appealed to the Election Commission to adopt a more sensitive approach towards tenants, who constitute a very large section of Delhi's population, and to reform the entire process accordingly.
+
+---
+
+### Paris knife attack: Man held after stabbing three women, terror probe considered
+*SECTIONS Paris knife attack Man held after stabbing three women · business*
+
+French police on Monday detained a man accused of attacking three women with kitchen knives in Paris before bystanders and an off-duty police officer overpowered him, Reuters reported.
+
+The attack took place near Porte de Clichy, where the suspect allegedly stabbed three women aged 19, 24 and 36. Two of the victims suffered serious injuries, French Interior Minister Laurent Nunez told reporters.
+
+The report, citing verified video said it showed a man with long black hair, dressed in a cream tracksuit and holding two large kitchen knives, attempting to stab a young woman. It was not immediately clear whether she was injured.
+
+  
+
+Mohamed-Ali Bouhadjar, 26, who recorded and posted the footage on Snapchat, told Reuters that he and other bystanders intervened after witnessing the attack.
+
+"When I saw him stab a woman in the back, I started shouting, 'Come on, let's stop him!'" he said. According to Bouhadjar, one person threw a suitcase at the attacker, causing him to drop the knives, after which several people pinned him to the ground.
+
+Another video clip verified by Reuters showed the suspect being restrained by bystanders on a pedestrian crossing with the two knives lying nearby. In the footage, the man can be heard saying, "It is Allah who commanded me."
+
+Nunez said the suspect was taken into custody by an off-duty police officer, praising his actions as "courageous". Authorities have not established a motive for the attack and were unable to verify the suspect's identity, with the minister saying his statements during the arrest were "incoherent".
+
+France's national anti-terrorism prosecutor's office said it was assessing whether to open an investigation into the incident, Reuters reported.
+
+
+---
+
 ## 27 July 2026
 
 ### Shillong Teer Result Today, July 27, 2026: Winning Numbers and Results
