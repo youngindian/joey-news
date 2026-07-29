@@ -1,3 +1,693 @@
+## 29 July 2026
+
+### Q1 results: Adani Enterprises, Asian Paints, Dabur India, 85 more on Jul 29
+*Business Standard · business, entrepreneur, finance*
+
+Q1FY27 company results: Firms including Ambuja Cements, Suzlon Energy, Birlasoft, Tata Capital, Cholamandalam Investment and Finance, and Pine Labs are also to release their April-June earnings today
+
+[Read full article](https://www.business-standard.com/companies/quarterly-results/q1-results-adani-enterprises-asian-paints-dabur-india-85-more-on-jul-29-126072900150_1.html)
+
+---
+
+### ‘Cow urine expert’: Priyanka Gandhi mocks IIT professor in Lok Sabha speech
+*Express Web Desk · politics*
+
+Congress MP Priyanka Gandhi speaks in lok Sabha on Tuesday; IIT Madras Director V Kamakoti speaks to media on Monday. (Photos: ANI Videograbs)
+
+As the logjam in the Parliament ended on Monday, paving the way for discussions on the NEET paper leak, the Congress Tuesday targeted the Central government over its measures to prevent the menace. Speaking in the Lower House, Wayanad MP Priyanka Gandhi questioned the competency of the **new task force formed by Prime Minister Narendra Modi** to oversee the next-generation reforms in the education sector
+
+While speaking about the **members of the committee**, Gandhi made a veiled reference to IIT Madras Director V Kamakoti as “_gaumutra visheshagya_” or a “cow urine expert”.
+
+She also pointed out that creating new committees will not work unless their recommendations are implemented. “The Radhakrishna Committee was also formed to bring in reforms. Till date, none of his recommendations have been implemented,” she said. “And now this new committee has an ex-IB chief, an owner of an IT company, and also a ‘_gaumutra visheshgya_‘ (cow urine expert). What do they know about education?” she asked.
+
+## Why the ‘gaumutra expert’ tag?
+
+Though Gandhi did not name him, the ‘gaumutra’ remark has been interpreted as being directed to Kamakoti because of the history of his advocacy for the “benefits” of cow urine.
+
+In January last year, a **video of him praising the medicinal benefits of cow urine** drew sharp criticsim from the Opposition and rationalist groups.
+
+During a speech at a ‘Go Samrakshana Sala’ event in Chennai on January 15, 2025, that coincided with the Tamil festival of Maatu Pongal, Kamakoti shared an anecdote of a sanyasi who recovered from high fever after consuming gomutra (cow urine). “A prominent sanyasi developed a fever. The idea of calling a doctor was suggested to him… I forgot the name of that sanyasi. He immediately said he would drink gomutra. Gomutra was immediately brought, and he consumed it with much ease. The fever seemed to have disappeared in 15 minutes. So, for antibacterial, antifungal, digestive issues, and irritable bowel syndrome – for many such issues – _gaumutra_ is a very important medicine,” Kamakoti said.
+
+According to people close to him, the speech was in the broader context of promoting organic farming and protecting indigenous cattle breeds. They said his speech was mainly about the discourse on the importance of sustainable agricultural practices and rooted in published scientific studies that explored the bioactive properties of cow urine.
+
+Story continues below this ad
+
+However, soon after the video clip of Kamakoti’s speech went viral, Congress MP Karti P Chidambaram took to X and said “peddling pseudoscience” is “most unbecoming” of the director.
+
+Tamil Nadu BJP President K Annamalai commented on Kamakoti’s remark and said, “It’s unfortunate that our Chennai IIT Director, who is a very decorated person, who is an expert in AI, quantum computing, he chose to follow his dharma. He chose to pray to god in his own way. That is being politicised by a group of students union. Everybody has the right to practise his religion. I urge them to stop the protest, respect the sanctity of the institution. IIT Chennai is not only the pride of Chennai but the entire country.”
+
+---
+
+### Gold Rate Today, July 29: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
+*Aanya Mehta · politics*
+
+The gold price in India today stands at Rs ₹14,416 per gram for 24 carat gold,  Rs ₹13,214 per gram for 22 carat gold and ₹10,812 per gram for 18 carat gold, as per Good Returns.
+
+**Gold Rate Today:** The gold price in India today stands at **Rs ₹14,416 per gram** for **24 carat gold**,  **Rs ₹13,214 per gram** for **22 carat gold** and **₹10,812 per gram** for **18 carat gold**, as per Good Returns.
+
+The price of 24K gold today, July 29, 2026, in India, stands at Rs 14,416 per gram, reflecting a decrease of Rs 1 over that on July 28.
+
+Similarly, the price of 22K and 18K gold currently stands at Rs 13,214 per gram and Rs 10,812 per gram for 18 carat gold, marking a decrease of Rs 1 each, over the prices on July 28.
+
+Gold and silver prices dropped briefly when global fears cooled, even with taxes at 15%. However, rising Middle East tensions mean prices are still swinging daily.
+
+Purity
+
+Grams
+
+Today (INR)
+
+24 Carat
+
+10g
+
+Rs 14,416
+
+22 Carat
+
+10g
+
+Rs 13,215
+
+18 Carat
+
+10g
+
+Rs 10,812
+
+### City Wise Rate:
+
+**City**
+
+**24K**
+
+**22K**
+
+**18K**
+
+Chennai
+
+Rs 14,415
+
+Rs 13,214
+
+Rs 11,029
+
+Mumbai
+
+Rs 14,416
+
+Rs 13,214
+
+Rs 10,812
+
+Delhi
+
+Rs 14,431
+
+Rs 13,229
+
+Rs 10,827
+
+Kolkata
+
+Rs 14,416
+
+Rs 13,214
+
+Rs 10,812
+
+Bangalore
+
+Rs 14,416
+
+Rs 13,214
+
+Rs 10,812
+
+Hyderabad
+
+Rs 14,416
+
+Rs 13,214
+
+Rs 10,812
+
+Pune
+
+Rs 14,416
+
+Rs 13,214
+
+Rs 10,812
+
+Vadodara
+
+Rs 14,421
+
+Rs 13,219
+
+Rs 10,817
+
+Ahmedabad
+
+Rs 14,421
+
+Rs 13,219
+
+Rs 10,817
+
+## **Tensions in West Asia**
+
+Joint US and Saudi forces launched counter strikes targeting Iranian-backed militias in Iraq, retaliating against 30 IRGC guided drone attacks launched over the past month at targets including Saudi oil facilities.
+
+This assertion was made soon after the US alleged that Iran had launched a series of ballistic missiles in a planned surprise strike targeting American troops at a base in Jordan.
+
+Brent crude surged over 6% last Thursday, topping $100 a barrel for the first time since May. The sudden spike follows escalating conflict in West Asia and recent attacks on trade routes, which have intensified concerns over global oil supply shortages.
+
+Story continues below this ad
+
+Middle Eastern regional tensions briefly calmed following the unexpected signing of a 60-day memorandum of understanding between the United States and Iran in mid-June 2026.
+
+This short-lived pact was designed to suspend local combat operations and guarantee the protection of merchant ships traveling through vital international sea lanes. However, the delicate truce fell apart in short order.
+
+Ongoing military attacks and persistent interference with shipping routes compelled both nations to officially revoke the deal, re-igniting active warfare and triggering a succession of counter strikes across the territory. With diplomatic channels collapsing yet again, widespread market fears have once more come to the fore.
+
+Consequently, market participants are turning back to gold to function as a dependable safe-haven buffer against rising geopolitical instability and economic unpredictability.
+
+Story continues below this ad
+
+At the same time, regional gold valuations continue to undergo everyday cost adjustments driven by international market movements, state import duties, and fluctuations in local currency exchange rates.
+
+© IE Online Media Services Pvt Ltd
+
+---
+
+### 8-Year-Old builds offline AI storytelling device using Rs 760 microcontroller
+*India Today Education Desk · general*
+
+## Laksh has built a voice-controlled AI storytelling device that runs entirely offline on an ESP32 chip. The project shows how open-source models and low-cost hardware can power compact AI tools without cloud access.
+
+An eight-year-old developer has built a voice-controlled artificial intelligence (AI) storytelling device that runs completely offline using an $8 microcontroller.
+
+Laksh, co-founder of Projects by Laksh, developed the device using an ESP32-S3 microcontroller, an INMP441 microphone, an I2S speaker, and a MAX98357A amplifier. The system does not require Wi-Fi, cloud services or APIs to work.
+
+The AI can create short stories, read them aloud, display simple animations and respond to voice commands such as "play", "pause", "resume" and "next story."
+
+### BUILT ON AN OPEN-SOURCE AI MODEL
+
+Laksh built the project by modifying an open-source language model called TinyStories LLM for ESP32, created by developer slvDev. The original model was designed to generate stories on the ESP32 microcontroller without an internet connection.
+
+Laksh added several new features, including voice interaction, playback controls and animations. The result is a small AI device that users can control through spoken commands.
+
+The source code for the original project is available on GitHub, where developers can build on the existing model or create their own versions.
+
+### DEMO SHOWS AI IN ACTION
+
+In a demonstration of the device, Laksh introduced the project and explained that it runs entirely on the ESP32 chip.
+
+When given the voice command, "Make a funny story," the AI responded by generating a new story. It then read the story aloud while displaying animations on the device. Users could control the storytelling using simple voice commands to play, pause, resume or move to the next story.
+
+The demonstration showed that all processing takes place on the device itself, without connecting to the internet.
+
+### NEXT STEP IS BETTER VOICE QUALITY
+
+Laksh said the current limitation is the quality of the text-to-speech (TTS) system running on the ESP32. While the AI can generate and read stories, the spoken English voice still sounds basic.
+
+He said improving the text-to-speech output is the next goal for the project.
+
+The project highlights how open-source AI models and low-cost hardware can be combined to build offline AI applications. It also shows that small language models can run on compact devices without relying on cloud computing, making them useful in places where internet access is limited or unavailable.
+
+\- Ends
+
+Jul 29, 2026 08:53 IST
+
+---
+
+### Trump, Zelenskyy discuss Patriot licence and weapons push at White House
+*India Today World Desk · general*
+
+## Trump and Zelenskyy met at the White House to discuss Patriot production, missiles and diplomacy. The talks signalled warmer ties and Ukraine's push for immediate arms and tougher sanctions on Russia.
+
+Image used for representational purposes only
+
+US President Donald Trump and Ukrainian President Volodymyr Zelenskyy met at the White House on Tuesday ahead of Senator Lindsey Graham's funeral, discussing ways for Ukraine to produce its own powerful weapons and other steps that could help its war effort against Russia. After the closed-door Oval Office meeting, Zelenskyy said the two leaders also discussed diplomacy, while Trump described it as a "Great Honour" and said, "Many things were discussed. The meeting went very well!"
+
+The meeting came after the NATO summit in Ankara earlier this month, where Trump announced that the US would give Ukraine a licence to make Patriot defence systems, a long-standing demand from Kyiv as it faces Russian missile attacks. US officials also agreed that Steve Witkoff and Jared Kushner, the president's main envoys, would travel to Kyiv at a later date, according to a person familiar with the talks.
+
+The latest engagement reflects a change in Trump's approach to Zelenskyy as the war continues more than four years after Russia's 2022 invasion. Their relationship had been strained during an earlier White House meeting in Trump's second term, when Zelenskyy was criticised for being ungracious. Since then, the Ukrainian president has tried to build ties with the Republican administration, while also leaning on both expected and unexpected allies in Trump's circle.
+
+The wider regional picture has also become linked to the Ukraine war. Over the weekend, Ukraine fired on at least one Iranian vessel in the Caspian Sea, while Zelenskyy has said Russia has been offering satellite imagery of US bases in the Persian Gulf to Iran. In a social media post after Tuesday's meeting, Zelenskyy thanked Trump for the "good meeting" and for the administration's efforts to help Kyiv. "The President and I discussed licences for Patriot interceptor production and several other ideas that could help," Zelenskyy said. "We also spoke about diplomacy -- it's important that the diplomatic process be reinvigorated." He also said he had offered condolences to Trump over Graham's death.
+
+Later in his one-day visit to Washington, Zelenskyy said he had met officials from Lockheed Martin to discuss more cooperation in defence production and technology-sharing. "Ukraine has a lot to share with those who help us protect lives," he said. He later met senators at the Capitol, where he again pressed Ukraine's case for Patriot interceptors and for a sweeping sanctions bill aimed at hurting morale and increasing pressure on Russia, according to two people with direct knowledge of the private discussion.
+
+According to one of those people, Zelenskyy told senators that while Ukraine welcomed Trump's decision to allow Patriot production, that was a longer-term solution. For this year, he said, Ukraine would need the US to provide missiles that Kyiv would pay for with European funds. Finnish President Alexander Stubb, who was also in Washington for Graham's funeral, told senators that Ukraine continued to have strong support from NATO and the European Union both in supplying and paying for weapons and in imposing sanctions on Russia.
+
+Luke Coffey, a senior fellow at the Hudson Institute, said increasing production capacity for Patriot interceptors was important not only for Ukraine, but also for the US and its Gulf allies, especially when supplies were under pressure during the war in Iran. "Ukraine has shown that its defence industry is capable, innovative and creative," Coffey said. "I have no doubt that when they're granted the licence, they will be able to produce these missiles which will hopefully mean there will be more available for the US."
+
+Trump welcomed Zelenskyy to Washington as the Ukrainian leader came to honour Graham, whose final act as a public official was to visit Kyiv and secure agreement on a sanctions package targeting countries that buy Russian oil, gas and other exports. In an interview with Fox News, Trump said Graham's support for Ukraine had never faded. "Ukraine, he's very militant about," Trump said on "Fox & Friends". "I mean, Lindsey liked war, to be honest with you." The administration's warmer approach to Zelenskyy has also come as far-right activist Laura Loomer, who has influence with Trump, has recently changed her stance on Russia's war against Ukraine.
+
+Before meeting Trump, Zelenskyy also said Russia had been helping Iran by obtaining satellite imagery of US bases in the Gulf region that later appeared in Iran. He said there was a "clear correlation" between Russia's images and later Iranian strikes. Iran has been a key ally of Russia in the war and has helped Moscow develop its drone capabilities. However, Trump on Monday played down the significance of any Russian help for Iran, saying, "I don't think they've been doing it, certainly not at a high level," and, "And if they have, it has been very un-impactful."
+
+After the Caspian Sea attack, the foreign ministers of Iran and Ukraine spoke, according to social media posts on Tuesday. Ukrainian Foreign Minister Andrii Sybiha described the exchange as "frank" and said Ukraine's focus was "solely at defending our country from Russian aggression" and not on targeting civilians. Iran said at least one sailor had been killed. Iranian Foreign Minister Abbas Araghchi said Iran was also not seeking escalation but "made clear any attack on our citizens or interests is unacceptable."
+
+Zelenskyy's Capitol meeting took place just before a key Senate vote on the Russia sanctions bill and after Graham's funeral. According to one person with direct knowledge, Zelenskyy told senators there was a window to bring Russian President Vladimir Putin to the negotiating table. In an 86-12 bipartisan vote, the Senate took the first steps towards passing the legislation after more than a year of talks. The bill, seen as the main policy tribute to Graham after his death this month from a tear in his aorta, would impose tariffs on goods from the top five buyers of Russian oil or natural gas, including China and India, and would also sanction Putin, senior Russian political and military leaders, and Russian financial institutions and energy projects.
+
+Tuesday's meetings showed Ukraine trying to secure immediate military supplies, expand long-term defence production and push for tougher sanctions on Russia, while also tying the war more closely to wider tensions involving Iran and the Gulf.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Jul 29, 2026 08:52 IST
+
+---
+
+### Rs 60-crore Meenakshi Temple land grabbed through fake transfers, case against 19
+*Pramod Madhav · general*
+
+A 1.79-acre property worth around Rs 60 crore belonging to a charitable trust associated with Madurai's famous Meenakshi Temple has been allegedly grabbed through fraudulent land transfers, registrations and mortgage transactions, officials said. The Madurai City Central Crime Branch (CCB) registered an FIR against 19 people in the matter.
+
+The FIR alleged that the accused conspired to usurp the temple trust land through fraudulent _patta_ transfers, forged registrations and mortgage transactions in violation of court orders and registration laws. The case was registered based on a complaint filed by Meenakshi Temple Joint Commissioner and Executive Officer Sellathurai and anti-corruption organisation Arappor Iyakkam.
+
+According to the complaint, a will registered in 1930 at the Saidapet Sub-Registrar's Office declared that the Ashoka Vilas bungalow and its adjoining garden on Alagar Kovil Road belonged to a charitable trust created to serve the Meenakshi Sundareswarar Temple and the Alagar Temple. The will permitted only leasing of the property and expressly barred its sale, mortgage or transfer of ownership.
+
+However, on June 24, 2016, then Madurai North Tehsildar Anbazhagan allegedly removed the temple's ownership from official records and illegally transferred the _patta_ in favour of nine individuals.
+
+After the alleged irregularity came to light, the Revenue Divisional Officer cancelled the Tehsildar's order, reaffirmed that the land belonged to the temple trust and directed that the _patta_ be restored in the temple's name. A 
+
+The FIR further alleges that despite the court's order, a General Power of Attorney (GPA) was registered on April 16, 2021, at the Murappanadu Sub-Registrar's Office in Thoothukudi district through the then Sub-Registrar Anantharaman. Based on that document, a mortgage deed was subsequently registered on July 19, 2021, at the Vadamadurai Sub-Registrar's Office in Dindigul district by then Sub-Registrar Prasanth Santhana Karuppan.
+
+Investigators alleged that the accused acted in concert to illegally take control of the temple trust land by facilitating fraudulent _patta_ transfers, registering documents despite legal restrictions and creating mortgage transactions over the disputed property.
+
+The CCB has registered the case under Sections 318(4) (cheating) and 61(2) (criminal conspiracy) of the Bharatiya Nyaya Sanhita against the 19 accused. Further investigation is underway.
+
+\- Ends
+
+Prateek Chakraborty
+
+Jul 29, 2026 08:52 IST
+
+---
+
+### Assam flood toll rises to 75, govt raises aid for victims' families
+*India Today News Desk · general*
+
+## Assam's flood toll rose to 75 after seven more deaths were reported, even as the overall flood situation showed signs of improvement with the number of affected people dropping from 4.45 lakh to 3.32 lakh.
+
+Relief and rescue operations continued across the affected districts, with the Army, Air Force, NDRF, SDRF, and civil volunteers engaged in evacuation and assistance efforts. (Photo: PTI)
+
+As the death toll from Assam's floods climbed to 75 with seven more fatalities reported on Tuesday, the Himanta Biswa Sarma government announced a slew of relief measures, including increasing compensation for the families of those killed or missing to Rs 9 lakh and easing documentation requirements for claiming the ex gratia.
+
+According to the Assam State Disaster Management Authority (ASDMA), all seven deaths were reported from the Nazira revenue circle in Sivasagar district.
+
+While the death toll rose, the overall flood situation showed signs of improvement, with the number of affected people declining to 3.32 lakh across seven districts from 4.45 lakh a day earlier.
+
+The deluge continues to affect Sivasagar, Charaideo, Golaghat, Jorhat, Nagaon, Sonitpur and Kamrup Metropolitan districts, inundating 622 villages across 21 revenue circles. Charaideo remains the worst-hit district with 1,42,756 people affected, followed by Sivasagar (97,074) and Jorhat (57,371).
+
+### GOVT EASES EX GRATIA NORMS, HIKES PAYOUT
+
+Meanwhile, in a Facebook Live address, Chief Minister Himanta Biswa Sarma said the government has relaxed the norms for disbursing ex gratia to the next of kin of those killed in the floods.
+
+Sarma said that families will no longer be required to submit a post-mortem report, with a certificate issued by the concerned circle officer now being sufficient to claim the compensation.
+
+The state government also announced an additional Rs 5 lakh from the Chief Minister's Relief Fund over the existing Rs 4 lakh ex gratia, taking the total compensation for families of those killed in the floods to Rs 9 lakh.
+
+"Over and above the Rs 4 lakh ex gratia per victim that is paid at present, we have decided to give additional Rs 5 lakh to the families of the deceased from the CM's Relief Fund," he said.
+
+The same amount will also be extended to the families of missing persons if their bodies are not recovered within a month, with the circle officer authorised to issue the required certificate.
+
+The government further announced an interim financial assistance of Rs 15,000 for around one lakh severely affected families in the four worst-hit districts of Sivasagar, Charaideo, Jorhat and Golaghat. The amount will be directly transferred to beneficiaries' bank accounts to help meet immediate household expenses.
+
+In another relief measure, beneficiaries of the Orunodoi scheme in these four districts will receive Rs 2,500 for August instead of the usual Rs 1,250. Sarma said the temporary increase would be offset by a slight one-time reduction in payouts to beneficiaries in other parts of the state.
+
+Students in Sivasagar and Charaideo whose education has been disrupted by the floods will receive financial assistance for books and uniforms.
+
+The government will provide Rs 1,000 to higher secondary students, Rs 3,000 to undergraduate students and Rs 5,000 to postgraduate students for purchasing books, while fees for issuing duplicate educational marksheets have also been waived.
+
+Sarma said more than Rs 26 crore has been collected in the Chief Minister's Relief Fund since the latest wave of floods began around 10 days ago, including Rs 60 lakh through micro-donations from 4,610 individuals. The fund will be used to provide interim relief, educational assistance and other support not covered under existing government guidelines.
+
+### RESCUE OPS CONTINUE IN 7 FLOOD-AFFECTED DISTRICTS
+
+Meanwhile, relief and rescue operations continued across the affected districts, with the Army, Air Force, National Disaster Response Force, State Disaster Response Force, Fire and Emergency Services, and civil volunteers engaged in evacuation and assistance efforts.
+
+A total of 81 relief camps are sheltering 32,477 displaced people, while another 34 relief distribution centres remain operational.
+
+According to the ASDMA, 45,341.98 hectares of crop area remain submerged, while the Dhansiri (South) river is flowing above the danger level at Numaligarh in Golaghat district. Floodwaters have also damaged houses, schools, anganwadi centres and cattle sheds across several districts.
+
+The Chief Minister said a detailed assessment of damage to homes, crops, fisheries and livestock will begin on August 3, following which compensation will be disbursed to eligible families.
+
+### FLOODWATERS RECED IN SIVASAGAR, BUT NORMALCY YET TO RETURN
+
+Even as floodwaters have begun receding in parts of Sivasagar district, normalcy is yet to return, with several villages still submerged and hundreds of families continuing to live in relief camps.
+
+Rajabari village, located along the Dorika river, remains completely inundated. Residents said floodwaters entered the village within an hour, leaving them with little time to save their belongings before fleeing to safer locations.
+
+The district administration has continued relief and rescue operations, while several social organisations, volunteers and local residents have been distributing food and other essential supplies to affected families.
+
+The All Assam Students' Union (AASU) also distributed relief material at camps. AASU General Secretary Samiran Phukan demanded a special economic package for flood-hit residents and urged Prime Minister Narendra Modi and Home Minister Amit Shah to visit the affected areas to assess the situation firsthand.
+
+While water levels are gradually receding, thousands of families continue to face the challenge of rebuilding their homes and livelihoods after more than a week of flooding.
+
+\- Ends
+
+(with inputs from Purna Bikash Bora and PTI)
+
+Shipra Parashar
+
+Jul 29, 2026 08:50 IST
+
+---
+
+### Amit Shah to move birth registration bill; Rahul Gandhi to target government on exam leaks in Lok Sabha today
+*Unknown · business*
+
+New Delhi: Union Home Minister Amit Shah is set to introduce the Registration of Births and Deaths (Amendment) Bill, 2026, in the Lok Sabha on Wednesday, as per the revised list of business for the day.
+
+The Lower House will also continue further consideration of the Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026. Union Minister Jitendra Singh is scheduled to move that the Bill, aimed at curbing examination malpractices, be taken into consideration and subsequently passed.
+
+  
+
+Significantly, Leader of Opposition (LoP) in the Lok Sabha, Rahul Gandhi, is expected to address the House around 12:30 PM today specifically regarding the "Anti-Paper Leak" bill. The opposition has been critical of the government's handling of recent examination irregularities and is expected to raise several concerns during the discussion.
+
+Apart from this, the government will also bring the Supreme Court (Number of Judges) Amendment Bill, 2026, for consideration and passing. This will be moved by Union Minister Arjun Ram Meghwal. Concurrently, a statutory resolution has been moved by opposition MPs, including Sougata Ray from the Trinamool Congress (TMC), NK Premachandran of the Revolutionary Socialist Party (RSP), and Congress MP Dean Kuriakose, expressing disapproval of the Supreme Court (Number of Judges) Amendment Ordinance promulgated by the President in May 2026.
+
+Several ministers, including Jitendra Singh, Union Minister of State for Commerce Jitin Prasada, and Minister of State for Rural Development Chandra Sekhar Pemmasani, are scheduled to lay papers on the table pertaining to their respective ministries, including Earth Sciences, Electronics and IT, and Communications.
+
+The House will also hear a motion from PP Chaudhary from the Bharatiya Janata Party (BJP) and Dharmendra Yadav from the Samajwadi Party (SP) seeking an extension of time for the Joint Committee to present its report on the Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024, and the Union Territories Laws (Amendment) Bill, 2024, until the winter session of 2026.
+
+Additionally, statements regarding the implementation of recommendations from various standing committees--including those on fake news, sugar industry reviews, and science and technology grants--are slated to be made by union ministers, including Minister of State (MoS) Parliamentary Affairs L Murugan and Minister of State of Coal and Mines Satish Chandra Dubey.
+
+---
+
+### Trump announces high civilian honour to teen who saved boy at California beach
+*India Today Trending Desk · general*
+
+## US President Donald Trump said a 16-year-old California lifeguard who rescued a boy from violent waves at Seabright Beach would be invited to the White House for a high civilian honour.
+
+President Trump has tweeted in praise for the 16-year-old California lifeguard's heroic deed. (Photo: X)
+
+A 16-year-old California lifeguard's heroic beach rescue has caught the attention of US President Donald Trump, who has announced plans to honour him at the White House.
+
+Trump's post was shared after dramatic footage of the rescue at Seabright Beach in Santa Cruz went viral online.
+
+"We're going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP," Trump tweeted.
+
+His announcement has further amplified attention around the rescue, with many users welcoming the recognition for the teenager's quick thinking and bravery under extreme conditions.
+
+**See the post:**
+
+> We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP https://t.co/dGL15o1tIv— Donald J. Trump (@realDonaldTrump) July 28, 2026
+
+According to NBC, the incident unfolded on Saturday when a boy, believed to be around 10 years old, was swept into the sea after being caught in powerful waves. The rescue was captured on video by bystander Scott Vander Dussen, who said the child was quickly overwhelmed by the surf.
+
+As beachgoers watched in horror, a 16-year-old lifeguard plunged into the rough water and battled the crashing waves to reach the child. With the help of another lifeguard and several people on the beach, the boy was safely brought back to shore.
+
+The dramatic rescue quickly spread across social media, drawing praise for the teenager's courage.
+
+Earlier, Eric Trump had shared the video on X, writing, "Give this 16-year-old lifeguard the highest civilian honour. This is truly the best of America! Well done!"
+
+The rescue has continued to be widely praised online, with users calling the 16-year-old's actions nothing short of heroic.
+
+Many said his willingness to dive into dangerous surf without hesitation saved a young life, while others described him as an example of courage and selflessness. Trump's announcement has only added to the outpouring of appreciation, with many saying the teenager deserves to be honoured for his remarkable act of bravery.
+
+\- Ends
+
+Srimoyee Chowdhury
+
+Jul 29, 2026 08:49 IST
+
+---
+
+### The memory crisis made Dell innovate on XPS 13’s entry-level price point… here is the story
+*Anuj Bhatia · technology*
+
+The current memory crisis may signal the end of entry-level, mass-market laptops, as the cost of producing any consumer electronics device has shot up due to the rising cost of key components. The shortage of memory chips, dubbed “RAMageddon,” is also forcing companies like Dell back to the drawing board to design notebooks that, while not necessarily high-end, are practical for everyday use and cost only slightly more than the typical budget laptop on the market.
+
+“I think this is one of the first time when the innovation was focused on how to deliver a great premium device at less than half the entry price we typically have,” Chris Cowger, Senior Vice President, Global Consumer and eCommerce at Dell Technologies, told indianexpress.com in an interview on the sidelines of the company’s launch of its new consumer notebook portfolio in Delhi on Tuesday. Its new XPS 13 looks and feels like a flagship laptop and is just as nice to use as the premium models that came before it, yet it costs Rs 79,990, a price point that makes the XPS brand more accessible to a broader range of consumers.
+
+“We did focus on cost out while also still trying to maintain premium and not ultimately delivering a device that you would consider cheap was probably the biggest focus with the XPS 13,” he added.
+
+Despite the shortage of RAM caused by growing demand from data centers, fuelled by the AI boom, the industry is facing a memory crunch that has sent laptop and smartphone prices soaring, especially in a tough economy. Yet, as Cowger pointed out, products like the XPS 13 feel like a mainstream notebook while remaining interesting to be considered experimental in nature in the midst of an ongoing memory crisis.
+
+ The XPS 13 base model will run Intel’s Wildcat Lake platform, which is a relatively new entry-level series. (Image credit: Anuj Bhatia/Indian Express)
+
+At just 12.7mm thick and weighing less than a kilogram, Dell’s XPS 13 is not only the thinnest and lightest version of the XPS 13 the company has ever made, but it also comes with a premium feature set, including a CNC-machined aluminium chassis, a 2.5K IPS display, quad speakers, Wi-Fi 7 support, and an Intel Core Series 3 “Wildcat lake” processor paired with 8GB of RAM and 512GB of storage. That puts the XPS 13 in the same category as the MacBook Neo, Apple’s lower tier Mac notebook. Both the XPS 13 and the MacBook Neo are aimed at people who may have been using tablets as their primary computers but are now looking for a regular laptop with reasonable specifications, with no intention of settling for a bargain notebook.
+
+“We can work with partners globally to deliver a system that hits many of those entry-level price points. But I think every time we explore a product in that space, we end up with something that still doesn’t quite meet Dell’s standards,” Cowger responded when asked whether it was even possible to create a sub-Rs 50,000 notebook that ticks all the boxes in the current market environment.
+
+Story continues below this ad
+
+Historically, the XPS line (which Dell resurrected at CES 2026 and used to reframe its laptop marketing around build quality, battery life, and display performance) has targeted a different set of consumers, including corporate professionals, high-flying executives, and other premium buyers. With the new XPS 13, however, the company is targeting students. As Cowger pointed out, Dell’s goal was never to build a cheap XPS computer. After all, the company is not willing to sacrifice what it considers quality in exchange for a lower price. There are trade-offs, of course. The base version ships with 8GB RAM, though Dell is also selling a model with 16GB RAM for Rs 94,990.
+
+## **‘Moving from the AI PC hype’**
+
+In the last two years, the entire industry has hyped “AI PCs,” a term OEMs have used to market notebooks and computers by capitalising on the generative AI boom to drive sales. Consumers, however, have either failed to understand the messaging or have not found much value in the manufacturer-driven AI PC hype. That’s becoming more and more prevalent in how new PCs are being marketed by PC companies.
+
+“I think the broader industry ecosystem overall has been slow to deliver those killer usage models that one would directly attribute to having a PC for,” Cowger said. “The consumer-facing AI ecosystem hasn’t yet come up with use cases that make people realise why they should be interested in AI and what they can do with it. But the question is: why do I need a PC specifically to do that? Why can’t I just do this in the cloud or on a smartphone?” he added.
+
+Cowger continues: “I think the message that at least our data shows consumers still want to hear is that, even if it’s not clear to them exactly how they want to use a PC with artificial intelligence, they do feel compelled to future-proof their devices. From a future-ready messaging perspective, I think it still really resonates.”
+
+Story continues below this ad
+
+ Chris Cowger, Senior Vice President, Global Consumer and eCommerce at Dell Technologies. (Image credit: Anuj Bhatia/Indian Express)
+
+The idea of AI PCs isn’t as flawed as it is often made out to be. Cowger points to the laptop’s longer battery life, which has improved as a result of how AI is being integrated into silicon today. “It wasn’t really the AI usage models themselves that were driving adoption, but some of the other well-known features that are absolutely critical to consumers got significantly better with AI PCs.” Cowger admits that consumers, especially those buying portable notebooks, value factors such as the device’s weight and size, build quality and design, display size and resolution, and battery life.
+
+It’s not the end of the road for AI PCs, though. PC brands are still pushing AI PCs in 2026, but as the RAM shortage is expected to last for another year or possibly even longer than predicted, companies are building PCs around relevant features – exactly what consumers are looking for in a computer. This strategy marks a departure from the time when PC vendors pushed more powerful computers, even when consumers did not necessarily need them or local AI processing capabilities. Similarly, smartphone companies have also struggled to sell AI to consumers, though some companies are finding ways to shrink AI models so they can run on smartphones, making AI more private instead of relying on the cloud to process requests.
+
+## **‘Challenging market but India surprised me’**
+
+India’s PC market saw strong growth in Q1 2026, with shipments reaching 4.4 million units, up 31.1 per cent year over year. Notably, the premium notebook segment (priced at $1,000 and above) grew 70.1 per cent year over year. However, IDC predicts that the global PC market will slow in the second half of 2026, forecasting that global PC shipments will decline by 11.3 per cent for the full year, with conditions expected to worsen through Q4, when shipments are projected to fall 20 per cent year over year.
+
+More and more laptop and smartphone manufacturers have started raising prices and pulling cheaper models from the market, as these devices are harder to produce and offer smaller margins.
+
+Story continues below this ad
+
+“It’s a tough business to be in, and there are certainly markets that I think are more challenged than others. In India, I have been very pleasantly surprised by how resilient the market has been in light of the changes we have already seen year to date,” he said.
+
+ Dell estimates around 17 hours of battery life for the XPS 13. (Image credit: Anuj Bhatia/Indian Express)
+
+## ‘Innovation in financing’
+
+Cowger admits that the memory shortage and rising laptop prices may drive innovation in device financing, making computers more accessible and affordable. “For the longest time, in India, we saw financial schemes work long before you saw them anywhere else in the world. Now you are seeing buy now, pay later and things like that. You are seeing options that look much more like low-cost, multi-installment EMI plans in a lot of other countries around the world. The innovation that has been coming forward to keep feeding the desire for technology is the financial innovation around affordability,” he said.
+
+---
+
+### 'Only a few hours remain before deadline expires': Another warning from CJP of fresh protest
+*TOI City Desk · regional*
+
+(CJP) spokespersons Saurav Das and Ashutosh Ranka during a meeting with Union Ministers (PTI Photo)
+
+NEW DELHI: The Cockroach Janta Party (CJP) on Wednesday again warned it will launch another nationwide agitation if the government fails to provide written assurances on withdrawing First Information Reports (FIRs) against students who took part in protests over the alleged NEET-UG 2026 paper leak.The warning came hours after the Supreme Court directed states to release eligible student protesters while allowing investigations in existing FIRs to continue.CJP chief spokesperson Saurav Das said the Centre had promised to withdraw all FIRs filed against students and protesters in Delhi as well as BJP-ruled and NDA-governed states, but had yet to put the assurance in writing despite Tuesday's deadline."The government gave us a guarantee that all FIRs filed against students and protesters so far would be withdrawn and that no action would be taken against any protester in the future, not just in Delhi, but also in any BJP-ruled state or any state governed by the NDA.""This guarantee was given to us on Saturday in front of the entire nation. A deadline of Tuesday was set for this, and while only a few hours remain before it expires, we have not yet received that assurance from the government in writing," he said.Das said he met government representatives on Wednesday after being invited for talks, where they cited the Supreme Court's interim order permitting investigations into existing FIRs to continue.
+
+"I even went to meet government representatives this evening, following an invitation from them. They showed me a Supreme Court order; specifically, Direction No. 4 states that investigations into existing FIRs may proceed. The government argued that because this is a written order from the Supreme Court, the matter has become sub judice. I asked them directly whether or not they would provide the guarantee in writing.
+
+We have received no response from them so far," he said.Accusing the government of going back on its promise, Das said the party would not accept any decision that contradicted the assurances given to students."I want to tell the government: you are about to commit a massive betrayal of the country's youth. We have made it clear that we will not accept any order or decision that violates the guarantee given by the government.
+
+You must honour the promises made to the students. We want you to keep your word regarding any future decisions taken in the interest of students. If you fail to do so, we want to make it clear that we will announce another massive protest, one that will take place in Delhi as well as in other states.
+
+We will launch a nationwide protest once again, as we remain committed to working in the best interests of students," he said.The CJP had led a 37-day protest at Delhi's Jantar Mantar over the alleged NEET-UG paper leak, during which activist Sonam Wangchuk observed a 26-day hunger strike. The agitation ended after the government accepted several demands, including the resignation of then education minister Dharmendra Pradhan, compensation for aspirants who died by suicide and the withdrawal of FIRs against protesters.Earlier on Wednesday, the Supreme Court directed all states to release students below the age of 18 who were arrested or detained during the nationwide protests, provided they have no criminal antecedents.The court also ordered that no coercive action be taken against students for the time being, directed authorities to preserve electronic evidence
+
+---
+
+### Iran to receive Chinese air-defence missiles within weeks: Report
+*SECTIONS Iran · business*
+
+Iran is expected to receive within weeks a first shipment out of up to 400 Chinese-made shoulder-fired air-defence missile launchers, three sources ​familiar with the deal told Reuters, as it rebuilds its defences ​amid war with the United States.
+
+The purchase, valued at $60-70 million, is one of Tehran's largest-known efforts to strengthen its short-range ​air defences since the outbreak of its war with the U.S. and Israel, which exposed gaps in Iran's ability to protect military sites and strategic infrastructure.
+
+  
+
+The contract covers the purchase of between 300 and 400 man-portable air defence systems (MANPADS), including Chinese-made QW-12 and FN-16 missiles, the sources said.
+
+The deal was signed with Zhongqing Baoshang International Investment, a Hong Kong-based company that the sources said was acting ‌as an intermediary between ⁠the Iranian side ⁠and the Chinese supplier.
+
+  
+
+## IRAN NEEDS TO REARM AFTER MONTHS OF WAR
+
+The sources spoke on condition of anonymity because of the sensitivity of the matter. Iran's foreign ministry did not immediately reply to a request for ​comment.
+
+China's Foreign Ministry said: "The relevant reports are completely groundless. China has consistently played a role in promoting peace and ending the conflict."
+
+Beijing-based Zhong Qing Bao Shang Group, the parent company of Zhongqing ​Baoshang International Investment, did not immediately respond to an email request for comment on Tuesday.
+
+Iran needs to rearm after months of fighting in which the U.S. and Israel have struck facilities linked to its missile, drone and air-defence programmes, and Tehran responded with barrages of ballistic missiles and drones.
+
+The conflict has highlighted the challenge of defending fixed ​military and strategic sites against advanced aircraft and precision-guided weapons.
+
+Washington abruptly suspended two weeks of bombardment on Saturday, ⁠but President ‌Donald Trump said strikes would resume if negotiations failed to end the five-month-old conflict, which has in theory been in a state of ​ceasefire since April.
+
+The delivery ​of hundreds of MANPADS would significantly expand Iran's inventory of short-range air-defence weapons and underscore how military ties with China are deepening.
+
+The ⁠sources cautioned that, although the agreement had been signed, delivery schedules, quantities and other implementation details ​could still change.
+
+Under a plan agreed by the parties, deliveries will initially be by air from Urumqi in western ​China, then transiting through Pakistan to Iran, according to the sources, who did not clarify whether the transfers would take place by air or by road.
+
+Pakistan's military public relations wing ISPR said: "Speculations of Pakistan being involved in supply of Air Defence weapons to Iran from China are absolutely concocted and false." A spokesperson for the Pakistani Foreign Ministry did not respond to requests for comment.
+
+## CHINA AND IRAN EXPLORE LAND ROUTES FOR DELIVERY, SOURCES SAY
+
+While Iran has invested heavily in the past two decades in missiles, drones and radar, military experts say portable air-defence systems are important because they can be dispersed quickly, operated by small teams and relocated frequently, making them less vulnerable than ‌fixed air-defence batteries.
+
+A European security source said authorities in his country were aware of several contracts under discussion involving the possible sale of QW-series MANPADS to Iran, including QW-12, QW-18 and QW-19 systems.
+
+A second security source, in the Middle East, said Iran had been seeking to ​purchase QW-12 and QW-18 ​missiles, but they were unaware that a deal ⁠had already been concluded.
+
+The QW-12 and FN-16 are shoulder-fired, infrared-guided surface-to-air missile systems designed to engage low-flying aircraft, helicopters and drones. Their mobility allows them to be deployed rapidly around military installations, energy infrastructure and other sensitive sites.
+
+Defence analysts regard the QW-12 as less capable than newer QW variants, including the QW-18 and QW-19, but say ​the systems can still provide an effective layer of short-range protection against drones and low-flying targets.
+
+Two Western intelligence sources and an Iranian official said Tehran had also explored the use of overland routes to move Chinese military supplies and dual-use components more discreetly and reduce the risk of disruption.
+
+The procurement highlights the Islamic Republic's continuing reliance on a combination of domestic weapons production and foreign suppliers despite years of sanctions and restrictions on defence-
+
+Reuters previously reported that Iran was close to securing a separate agreement with China to acquire anti-ship cruise missiles, according to people familiar with those negotiations. Reuters could not determine whether the agreement went through.
+
+---
+
+### AI out of control? OpenAI, Anthropic ask White House to help slow frontier AI development
+*Armaan Agarwal · general*
+
+## More than 1,100 employees from major companies, OpenAI, Anthropic, Google, Meta to name a few, have signed a statement to the White House. They want the Trump administration to do something about the pace of AI development.
+
+Over 1,100 employees from companies such as OpenAI and Anthropic have urged the White House to help slow the pace of AI development. (Representational image made with AI)
+
+AI models are progressing faster than ever. Today, we have advanced models like Claude Fable and GPT-5.6 that are so good that there were fears over how they may be misused. As tech companies continue to pour billions into AI, the rate of development is unlikely to slow down on its own. Now, over 1,100 employees from OpenAI, Anthropic, Google, Meta, and many more leading tech companies have come together to sign a statement to the US government over this rapid pace of development.
+
+The employees, which include senior staff members and co-founders, want the Trump administration to do something about how more advanced AI models are developed, potentially creating governance tools around AI. They fear that if things continue as is, AI may go out of control.
+
+One key concern here is automated AI development, where an AI model, such as Claude, may be able to train its future versions without needing a human.
+
+### AI may train itself and go past human understanding
+
+“The world's leading AI companies believe they could be close to automating AI research,” the statement reads. “It is hard to predict exactly how much this will accelerate AI progress, but there is a real risk that capability development rapidly accelerates beyond our ability to understand or control the resulting systems.”
+
+That is, the researchers and scientists are worried that if AI gets the power to train itself, it may go beyond what we as humans can keep track of.
+
+The problem here, the researchers say, is that companies are in a race to build more advanced models, leaving little time to fully address risks and deploy security measures. “Each company—and country—is under intense competitive pressure not to unilaterally slow that acceleration. And today, the world lacks the technical and governance tools to deliberately pace frontier-wide progress," it said.
+
+To give you some context, OpenAI recently stated that two of its most advanced AI models went rogue and tried to hack the database of US company HuggingFace to find answers to a benchmark. Though HuggingFace employees managed to stop the cyberattack.
+
+### AI workers want government intervention
+
+The solution, the employees say, is to regulate how fast AI models can be developed. And for this, they want the Trump administration to take the lead. “We request that the U.S. government support an international effort to develop the technical and governance tools needed to deliberately pace the frontier of automated AI development,” the statement read.
+
+That is, these employees from the biggest AI labs want the White House to intervene and regulate the pace at which AI models develop.
+
+At the time of writing over 1,100 employees had signed this statement. Some of the key signatories include Anthropic CEO Dario Amodei, Claude Code lead Boris Cherny, OpenAI co-founders John Schulman and Wojiciech Zaremba, and Meta’s vice-president of AI research Dawn Song. Senior figures from other companies including Google, Thinking Machines, Mistral, and Microsoft have also signed the statement.
+
+Do note that this comment comes at a time when many believe that AI may already be able to develop on its own. OpenAI CEO Sam Altman, who did not sign the letter, said this week that humans are now "in the singularity,” a phrase often used for the point at which AI becomes able to improve itself autonomously.
+
+Researchers have also pointed to the increasing role of AI coding assistants, with many engineers relying on AI systems to write code – vibe coding. At many companies, AI was now writing a large part, if not majority of the code.
+
+Last month, Anthropic’s in-house think tank said AI systems could plausibly design and refine themselves if capabilities continued to advance. At the time, Anthropic added that "it would be good for the world to have the option to slow or temporarily pause frontier AI development" to give society time to prepare for automated AI research and development.
+
+This is not the only AI-
+
+\- Ends
+
+Armaan Agarwal
+
+Jul 29, 2026 08:40 IST
+
+---
+
+### Coca-Cola's Rs 11-40 problem: Why the beverage giant is losing market share in India
+*India Today Business Desk · general*
+
+## Coca-Cola has admitted that it lost market share in India during the April-June quarter, blaming higher packaging costs and the absence of the right products in the crucial Rs 11–40 price segment.
+
+Coca-Cola lost market share in India in April-June quarter due to packaging cost rise. (Photo:Pexel)
+
+Walk into any neighbourhood shop in India and you'll notice one thing, many customers don't ask for a specific bottle size, they ask for a drink that fits their budget. Whether it's Rs 20, Rs 30 or Rs 40, price often drives the purchase.
+
+That's exactly where Coca-Cola says it is losing ground.
+
+The beverage giant has admitted that it lost market share in India during the April-June quarter, blaming higher packaging costs and the absence of the right products in the crucial Rs 11–40 price segment.
+
+### THE RS 11-40 GAP
+
+Speaking to Reuters, Coca-Cola Chief Financial Officer John Murphy said the company currently does not have the right "pack price architecture" in the Rs 11–40 range, a segment that caters to a large section of Indian consumers.
+
+"Right now, the mid-tier (price pack of between 11 and 40 Indian rupees) is one where we do not yet have the pack price architecture that we need. We're working on that. And so I expect that over time we'll recover some of the share losses," Murphy said.
+
+While India's soft drink industry is recovering after a difficult year, Murphy acknowledged that Coca-Cola's market share declined during the quarter.
+
+### WHY IS COCA-COLA UNDER PRESSURE?
+
+One of the biggest challenges has been the sharp rise in aluminium and PET plastic prices this year.
+
+The higher input costs have forced Coca-Cola to increase prices across India while also dealing with supply constraints for aluminium cans. The pressure intensified earlier this year after the Iran conflict disrupted supplies through the Strait of Hormuz, leading to shortages of aluminium cans.
+
+To bridge the gap, the company has started sourcing larger-sized cans from Southeast Asia, Reuters had earlier reported.
+
+Murphy said Coca-Cola is working to offset the higher costs but admitted that aluminium and PET prices have risen more than the company had expected.
+
+### DIET COKE DEMAND SURGES
+
+Interestingly, one category where Coca-Cola is seeing strong momentum is Diet Coke.
+
+Reuters had earlier reported that shortages triggered a wave of "Diet Coke parties" in India, pushing demand for the beverage sharply higher.
+
+Murphy described the surge as "a wonderful problem to have" and said the company expects demand for Diet Coke in India to grow around tenfold this year, albeit from a small base.
+
+### INDIA REMAINS A KEY MARKET
+
+Despite the recent setback, Coca-Cola remains optimistic about its long-term prospects in India.
+
+The company reported better-than-expected quarterly earnings globally and raised its full-year forecast, helped by strong advertising campaigns linked to the FIFA World Cup.
+
+However, India stood out as one of the weaker markets in the Asia-Pacific region, with the loss of market share weighing on the company's regional performance, according to Reuters.
+
+For now, Coca-Cola is betting that fixing its pricing and packaging strategy in the Rs 11-40 segment will help it win back consumers in one of its fastest-growing markets.
+
+\- Ends
+
+Jul 29, 2026 08:39 IST
+
+---
+
+### Auto wholesales likely to stay strong in July on PV, CV demand: Nuvama
+*ANI · auto*
+
+Synopsis
+
+Domestic automobile wholesales are projected for strong growth in July 2026. Passenger and commercial vehicle volumes are expected to expand significantly year-on-year. Two-wheeler sales will also see double-digit domestic growth during this period. Tractor segment volumes are anticipated to exceed ten percent growth domestically. Medium-term outlook suggests personal transport segments will outperform others.
+
+Auto sector to report strong growth with PV and CV volumes expanding over 20% YoY in July: Nuvama Report
+
+New Delhi: Domestic automobile wholesales are expected to sustain their upward trajectory in July 2026, with passenger vehicle (PV) and commercial vehicle (CV) volumes likely to expand by over 20 per cent year-on-year (YoY), according to a report by Nuvama.
+
+The PV segment is anticipated to register robust double-digit growth, expanding by over 25 per cent YoY in the domestic market during July 2026.
+
+  
+
+Simultaneously, CV industry volumes are projected to post double-digit expansion exceeding 20 per cent YoY in the domestic market for the month.
+
+Industry demand continues to receive support from improved affordability, new product introductions, and adequate financing availability across retail channels.
+
+Detailing the near-term momentum across primary categories, the Nuvama report stated, "2Ws and tractors are anticipated to report growth of over 10%. Meanwhile, exports growth is likely to remain positive for most OEMs, supported by growth across Africa, Latin America and Asia regions."
+
+In the two-wheeler (2W) sector, volumes are also set to expand in double digits, recording over 15 per cent YoY growth domestically in July 2026. This trajectory is underpinned by "enhanced affordability, marriage season demand, and adequate financing availability."
+
+Furthermore, positive export growth for mass-market original equipment manufacturers is expected to continue, driven by expanding sales across Africa, Latin America, and Asia.
+
+The tractor segment is projected to continue its upward trajectory in July 2026, with domestic volume growth exceeding 10 per cent YoY. This momentum stems from "improved affordability, enhanced rural liquidity, and credit availability." However, terms of trade within the sector remain adverse, largely on account of fuel inflation.
+
+Addressing the key variable for rural demand going forward, the report noted, "Going forward, rainfall coverage and spread would be a key monitorables for farmer sentiments and tractor demand."
+
+Looking at the medium-term outlook spanning FY26 to FY28, the report highlights stronger growth prospects for personal transport segments compared to commercial and agricultural machinery. Domestic PVs and 2Ws are expected to achieve compound annual growth rates (CAGR) of 11 per cent and 7 per cent, respectively.
+
+Conversely, growth is projected to remain moderate for medium and heavy commercial vehicles (MHCVs) as well as tractors.
+
+
+---
+
 ## 28 July 2026
 
 ### Parliament flags IIT brain drain issue, Centre says it's a personal choice
