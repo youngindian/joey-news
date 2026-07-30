@@ -1,3 +1,610 @@
+## 30 July 2026
+
+### MV Electrosystems IPO opens today: GMP hints at 25% listing gains, should investors apply or skip?
+*Ritesh Presswala · finance, ipo*
+
+The much-awaited MV Electrosystems IPO opens for subscription today, July 30, 2026, giving investors an opportunity to participate in a company that operates in India's growing railway electrification and power electronics segment.
+
+Ahead of the issue opening, the IPO is attracting attention in the grey market, where shares are reportedly trading at a 25% premium over the upper issue price of Rs 425. The current Grey Market Premium (GMP) indicates a possible listing price of around Rs 531 per share, translating into an estimated listing gain of approximately Rs 106 per share.
+
+However, while the grey market sentiment appears positive, investors need to look beyond short-term listing expectations and evaluate the company's fundamentals, growth prospects, and risks before making an investment decision.
+
+The MV Electrosystems IPO comprises a fresh issue of 68 lakh shares worth Rs 289 crore. Since the issue does not include any offer-for-sale (OFS) component, the entire funds raised through the IPO will be utilised by the company to support its business operations, meet working capital requirements, and drive future growth initiatives.
+
+The IPO will open for subscription on July 30, 2026, and investors can place their bids until August 3, 2026. The basis of allotment is expected to be finalised on August 4, 2026, while the shares are likely to be listed on both the NSE and BSE on August 6, 2026.
+
+The company has set the IPO price band at Rs 400 to Rs 425 per share. The minimum application size is 34 shares, meaning retail investors will need to invest at least Rs 14,450 when applying at the upper price band of Rs 425 per share.
+
+Sundae Capital Advisors Pvt. Ltd. is the book running lead manager for the issue, while Kfin Technologies Ltd. is acting as the registrar.  
+
+## **  
+MV Electrosystems IPO GMP Today**
+
+The Grey Market Premium (GMP) for the MV Electrosystems IPO is currently around Rs 106 per share, indicating that the stock is trading at a premium of nearly 25% over its upper issue price of Rs 425 in the unofficial market.
+
+Based on the prevailing GMP, the estimated listing price of MV Electrosystems shares is projected to be around Rs 531 per share. This suggests a potential listing gain of approximately Rs 106 per share for investors who receive allotment at the upper price band of Rs 425.
+
+However, investors should note that GMP trends are unofficial market indicators and can change before the actual listing date depending on demand, subscription levels, and overall market sentiment.
+
+##   
+Where Will MV Electrosystems Use IPO Funds?
+
+The company intends to utilise the proceeds from the IPO primarily to strengthen its operations, support expansion plans, and improve its long-term growth prospects.
+
+A major portion of the funds raised will be allocated towards meeting the company's long-term working capital requirements, with an investment of Rs 180 crore. Additionally, Rs 21 crore will be used for research and development activities focused on developing new power electronic equipment. The remaining amount will be utilised for general corporate purposes.
+
+Since MV Electrosystems operates in the large-scale manufacturing and infrastructure-
+
+## **  
+About MV Electrosystems Ltd.**
+
+Founded in 2009, MV Electrosystems Ltd. is engaged in the design, development, assembly, and manufacturing of electrical and power electronic equipment used mainly in railway rolling stock applications.
+
+The company offers a diverse range of products, including IGBT-based 3-phase drive propulsion systems for electric locomotives, switchgear panels for railway coaches and EMUs, cable protection and management solutions, and various electrical components, systems, and sub-systems.
+
+MV Electrosystems operates in a sector that is witnessing strong growth due to India's ongoing railway modernisation initiatives, including broad-gauge electrification, increased focus on domestic manufacturing under the Make-in-India program, and expansion of the railway network.
+
+With rising investments in railway infrastructure and the development of high-speed rail projects, the company is positioned to benefit from the growing demand for advanced power electronics, railway electrical systems, and 
+
+##   
+Should You Apply for MV Electrosystems IPO?
+
+Despite the positive sentiment in the grey market, analysts recommend that investors carefully evaluate the company's financial performance and business outlook before making an investment decision.
+
+Brokerage firm Swastika Research has assigned an "Avoid" rating to the MV Electrosystems IPO, citing concerns over the company's recent performance and future growth visibility.
+
+The brokerage highlighted that the company's FY26 financial performance weakened, with revenue declining by around 21% year-on-year. Additionally, MV Electrosystems reported a net loss of Rs 12.6 crore, raising concerns about its current profitability.
+
+Investors should also closely monitor the company's 
+
+According to analysts, the success of the investment opportunity will largely depend on the company's ability to improve execution, achieve consistent revenue growth, and expand profit margins in the coming years.
+
+## **  
+Verdict**
+
+MV Electrosystems IPO has generated investor interest due to its railway sector exposure and strong grey market premium. The company operates in a promising industry supported by India's infrastructure growth story.
+
+However, the weak recent financial performance, losses, and execution challenges make the IPO suitable mainly for investors who are comfortable with higher risks and a long-term investment horizon. Investors looking only for listing gains may find the current GMP attractive, but those focused on fundamentals may prefer to wait for clearer signs of earnings recovery and consistent growth before investing.
+
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of Economic Times)
+
+---
+
+### India seeks sunflower oil alternatives on Black Sea disruptions
+*SECTIONS India seeks sunflower oil alternatives · business*
+
+India, the world’s top sunflower oil buyer, is rushing to secure supplies of alternate vegetable oils as attacks in the Black Sea region disrupt imports and its own crops falter due to weak monsoon rains.
+
+With shipments from top producers Russia and Ukraine facing delays of up to 60 days and prices rising, according to traders, the country is turning to South American suppliers and to rival oils like palm and soy to plug the import gaps.
+
+Attacks in the Black Sea are “definitely affecting us,” said Mannan Khan, director of MK Agrotech Pvt. Ltd., a vegetable oil importer and distributor in the southern Indian city of Mysore. Dozens of his shipments, especially from Russia, have been delayed, he added.
+
+  
+
+The company was forced to source half its sunflower supply from Argentina as violence in the Black Sea region intensified in the past month. Khan is also “betting on” Australian canola oil, subbing it in for 3-4% of his firm’s total import volume, with plans to raise it further.
+
+The pivot is expected to help meet rising demand in India ahead of festival season starting next month. But it also stands to further tighten a global vegetable oil market already facing supply risks from a strong El Niño and higher biofuel demand, potentially lifting consumer prices.
+
+Sunflower oil, used in cooking and biofuel, made up about a fifth of India’s total vegetable oil imports in the first half of the year, according to the Solvent Extractors’ Association of India. The majority — about 1 million tons — came from the Black Sea region.
+
+Ukraine has stepped up drone attacks on Russia-linked shipping infrastructure and vessels in the Black Sea, prompting Moscow to warn that it’s unsafe to navigate in the waters. Meanwhile, the third-largest exporter of sunflower oil in Ukraine last week suspended operations, citing a sharp intensification of Russian missile and drone attacks on port and logistics infrastructure. Together, the two countries accounted for 63% of global sunflower oil exports last season, according to the US Department of Agriculture.
+
+The disruptions have pushed India’s local sunflower oil price index up 6% this month, widening its premium over palm and soy.
+
+Demand is now starting to shift to rivals, according to Aashish Acharya, vice president at Patanjali Foods Ltd., one of the country’s top vegetable oil buyers. Imports of palm oil are expected to jump around 40% on a monthly basis to 700,000 tons in July, while a higher-than-normal 500,000 tons of soy oil is expected to come in every month, he added.
+
+Meanwhile, India’s own oilseed planting has lagged due to a below-average monsoon, according to official data. That’s likely to hit output and increase the country’s reliance on imports. This comes as the global vegetable oil market is facing supply constraints on several fronts, including hot and dry weather wrought by a ‘super’ El Niño and expanded biodiesel mandates in Indonesia and Malaysia, the world’s biggest palm oil producers.
+
+“India’s import requirements will be large,” said Khan from MK Agrotech, adding that he expected prices to “stay firm and likely firm further.”
+
+---
+
+### India needs more AI champions, says Paytm's Vijay Shekhar Sharma
+*Ani · business*
+
+New Delhi: India needs many more artificial intelligence (AI) champions that can take technology to the grassroots and the masses, Paytm Founder and Chief Executive Officer Vijay Shekhar Sharma said calling for greater investment and capability building to support the country's long-term growth.
+
+Speaking at the 22nd J.R.D. Tata Memorial Lecture in New Delhi, Sharma said AI should be a key focus area for India as it works towards becoming a developed nation under the Viksit Bharat 2047 vision.
+
+  
+
+"Once again, AI is my power, AI is my aim and ambition. We need many more AI champions and champions which will bring the technology to the grassroots and masses," Sharma said.
+
+He said achieving this would require India to strengthen its capabilities in technology, investment and innovation.
+
+"That requires us to build the capability, investment, and technology in India. It is exactly the moment which we should take a resolve on and build for our country," he said.
+
+Sharma said businesses should focus on building technologies that will shape India's future instead of relying only on existing business models.
+
+"Today we are talking about AI, we are talking semiconductors, we are talking businesses which are the foundation for the 2047 Viksit India vision," he said, adding that India's businesses and the government are aligned towards achieving this goal.
+
+He said companies should invest in future technologies rather than "milking what is there."
+
+"If we continue to milk what is there, we don't build for the future and we don't build the nation of tomorrow. When we commit ourselves to build what is going to come in the future, we build the nation of tomorrow," Sharma said.
+
+Drawing inspiration from industrialist J.R.D. Tata, Sharma said businesses that contribute to nation-building ultimately create enduring value.
+
+"J.R.D. gave us the lesson that if you build the nation, the business follows--not that you build the business and the nation follows," he said.
+
+The Paytm founder also said startups should be recognised not only for their valuations but also for their resilience, values and contribution to nation-building. He added that India must strive to become a global benchmark for quality rather than being seen as a country that takes shortcuts.
+
+Sharma said building institutions, strengthening capabilities and investing in emerging technologies such as AI would help India create businesses that endure for generations while contributing to the country's long-term economic development.
+
+---
+
+### Bengaluru hotels threaten Swiggy boycott from August 15
+*SECTIONS Bengaluru hotels threaten Swiggy boycott · business*
+
+Bengaluru: The Bangalore Hotels Association (BHA) has warned that hotels affiliated to it and other hospitality bodies in the city would suspend business with online food delivery platform Swiggy from August 15 if the company failed to resolve longstanding issues relating to payment transparency, unauthorised deductions and advertising charges.
+
+The association said it had given Swiggy a final opportunity to rectify the issues through discussions, warning that all affiliated bodies would discontinue business with the platform from Independence Day if corrective measures were not taken.
+
+"Failing this, all our associations in Bengaluru have unanimously decided to suspend all business with Swiggy from August 15," the association said in a press release on Wednesday.
+
+  
+
+The association alleged that Swiggy was deducting advertisement and promotional charges without obtaining written or digital consent from hotel owners before launching CPC, CPA or promoted advertisements.
+
+It also sought a one-click opt-out mechanism for advertisements without any subsequent charges.
+
+It further demanded greater transparency in payment statements, saying all charges, including commission, GST, CPC advertisements, offers and promotional charges, should be disclosed separately.
+
+The association also objected to service charges being levied on the GST amount collected from customers for remittance to the government.
+
+According to the association, unnecessary deductions and discrepancies in the accounting system had resulted in hotel owners receiving less than 50 per cent of the billed order value, causing severe financial hardship.
+
+Speaking to PTI, BHA honorary president P C Rao said the core issue was the platform's payout mechanism. "The main issue is that the payment and payout system is not functioning properly. There are too many deductions," he said.
+
+He clarified that the association was not opposed to Swiggy's service charge but objected to additional deductions. "We have no objection to the service charge. Whatever the service charge is, they can take it. But apart from that, they impose additional service charges, payout charges, advertisement charges, map-up charges, and various other charges without our permission, and deduct them," he said.
+
+He alleged that in some cases, restaurants received only Rs 40,000-Rs 50,000 against payouts of Rs one lakh and said the association had repeatedly raised the issue with the company.
+
+"If they rectify the issues within the next 15 days and conduct business properly going forward, we will continue to work with them. Otherwise, we don't have any other option; we'll come out," Rao said.
+
+He clarified that the association had not yet suspended services and would wait until August 15 before taking a final call.
+
+He added that any decision to discontinue Swiggy services would be taken while ensuring customers were not inconvenienced, and that the association would make alternative arrangements wherever possible.
+
+There was no immediate reaction from Swiggy on the matter.
+
+---
+
+### Suvendhu Adhikari Clears Air On Non-Veg Row: ISKCON Meals Will Be 'Satvik', Eggs Will Come Separate
+*Nikhil Singh · general*
+
+West Bengal Chief Minister Suvendu Adhikari has made clear that non-vegetarian food will not be removed from meals in public schools. Though, ISKCON will only provide Satvik meals.
+
+[Read full article](https://www.news18.com/india/suvendhu-adhikari-clears-air-on-non-veg-row-iskcon-meals-will-be-satvik-eggs-will-come-separate-ws-l-10241808.html)
+
+---
+
+### 650 to 135 in 24 hours: NEET student alleges score changed thrice, moves Delhi HC
+*India Today Education Desk · general*
+
+## A NEET-UG 2026 candidate has moved the Delhi High Court after his score on the NTA portal allegedly changed three times in a day and he disputed the OMR sheet shown to him. The plea seeks the original sheet and digital records, raising questions over exam record handling.
+
+NEET-UG 2026 aspirant moves Delhi HC after score changed thrice in 24 hours
+
+A NEET-UG 2026 candidate has approached the Delhi High Court alleging serious irregularities in the National Testing Agency's (NTA) evaluation process after his score on the official result portal allegedly changed three times within 24 hours.
+
+Claiming that the answer sheet shown by the NTA is not the one he filled during the examination, the student has sought production and preservation of his original physical OMR sheet for independent verification.
+
+The petition, filed through Advocate Vineet Jindal, seeks directions to the NTA to produce and preserve the student's original physical OMR answer sheet along with all 
+
+### SCORE ALLEGEDLY CHANGED THREE TIMES
+
+According to the petition, the student appeared for the NEET-UG 2026 examination held on June 21. After matching his responses with the provisional and final answer keys, he estimated that he should score around 620 marks.
+
+However, when the results were declared on July 16, the NTA portal allegedly displayed 650 marks initially. After the portal logged him out, and he signed in again, the score reportedly changed to 500 marks. By the following day, the displayed score had dropped to 135 marks, as reported by ANI.
+
+The petition states that the NTA has not provided any explanation for these successive changes.
+
+### STUDENT DISPUTES OMR SHEET SHOWN BY NTA
+
+Following the discrepancy, the student sent multiple email representations to the NTA and also filed an application under the Right to Information (RTI) Act seeking records 
+
+The petition states that he later visited the NTA office in New Delhi on July 20, where officials showed him an OMR sheet on a computer screen, claiming it was his answer sheet. The student, however, disputed its authenticity, maintaining that it was not the OMR sheet he had filled during the examination.
+
+According to the plea, despite his objection, officials informed him that it was the only OMR sheet available in their records and that the same document would also be produced before the Court. The same OMR sheet was subsequently emailed to him, which he continues to contest.
+
+### PLEA FLAGS DISCREPANCY IN NTA RECORDS
+
+The petition also points to an alleged error in a calculation sheet supplied by the NTA. It reportedly mentions the examination date as July 21, 2026, instead of June 21, 2026, when the NEET-UG examination was actually conducted.
+
+According to the petitioner, this discrepancy raises concerns about the authenticity and reliability of the records maintained by the agency.
+
+### RELIEFS SOUGHT BEFORE THE COURT
+
+The petition clarifies that the student is not seeking re-evaluation of his answers. Instead, it is limited to verification of the original physical OMR sheet and the 
+
+It seeks directions for the NTA to produce the original OMR sheet before the Court, preserve all relevant digital records, including server logs, scanning logs, audit trails and metadata, and allow the student to participate in the ongoing NEET-UG 2026 counselling process.
+
+The plea also requests the appointment of an independent expert, forensic laboratory or Court Commissioner to examine the original OMR sheet and the connected electronic records and submit a report before the Court.
+
+The case raises questions over the integrity of the examination evaluation process and the handling of candidates' records. The Delhi High Court is expected to consider the student's plea on Friday, with the petitioner seeking judicial intervention to verify the authenticity of his original OMR sheet and the records maintained by the NTA.
+
+\- Ends
+
+Apoorva Anand
+
+Jul 30, 2026 08:45 IST
+
+---
+
+### Farmers end strike as Madhya Pradesh govt raises moong procurement to 60 per cent, suspends fertiliser e-token system
+*Unknown · business*
+
+Bhopal, The Madhya Pradesh government has agreed to procure 60 per cent of the moong crop from eligible farmers, extended the procurement deadline and halted the e-token system for fertiliser distribution, prompting agitating farmers to call off their protest in Bhopal.
+
+The announcement came on Wednesday night following talks between representatives of the state government and farmer leaders at the state secretariat, hours after thousands of protesters marched to within about a km of Chief Minister Mohan Yadav's residence after staging a demonstration outside Union Agriculture Minister Shivraj Singh Chouhan's house.
+
+In an official statement, the government said it had decided to increase procurement from each eligible farmer from the existing 25 per cent to 60 per cent of the moong crop in the larger interest of farmers.
+
+  
+
+The decision will take immediate effect for farmers producing around three quintals of moong per acre in districts such as Narmadapuram, Sehore and Harda, it said, adding that efforts would be made to extend the benefit to the maximum number of cultivators.
+
+The government also extended the last date for procurement from August 10 to August 20 and the slot-booking deadline from July 30 to August 10.
+
+State Agriculture Minister Aidal Singh Kansana said a committee would be formed to examine complaints and practical difficulties relating to the e-token system for fertiliser distribution and recommend improvements.
+
+Till the committee submits its recommendations and necessary changes are carried out, the e-token-based fertiliser distribution system will remain suspended with immediate effect, he said.
+
+Some farmer leaders initially maintained their demand for procurement of 100 per cent of the moong crop at the minimum support price (MSP) and said a final decision would be taken after consulting all stakeholders and that the agitation would continue.
+
+However, shortly afterwards, Prateek Sharma, state coordinator of the Rashtravadi Kisan Army, told PTI Video that the farmers were satisfied with the government's decisions and all participating organisations had jointly decided to withdraw the agitation.
+
+Additional Superintendent of Police Shailendra Singh Chouhan told PTI that the protesting farmers had accepted the government's announcements and were returning to their homes. He said buses had been arranged to ensure their safe return from Roshanpura Square.
+
+Earlier in the day, thousands of farmers under the banner of the Samyukta Kisan Morcha and 18 other organisations had breached multiple barricades, demonstrated outside Chouhan's residence and camped at Roshanpura Square, prompting the state government to initiate talks.
+
+The farmers had demanded procurement of the entire summer moong crop at MSP, abolition of the e-token system for fertiliser distribution and timely availability of adequate fertilisers for the next sowing season.
+
+The agitation had disrupted traffic on the busy Narmadapuram Road since Tuesday night, after the first round of talks with the government failed to break the deadlock.
+
+Chouhan wrote to the chief minister, saying the Centre had already approved procurement of up to 4,54,580 metric tonnes of summer moong for Madhya Pradesh under the Price Support Scheme for the 2025-26 season, accounting for 87 per cent of the total quantity approved nationwide under the PM-AASHA scheme.
+
+He clarified that the Centre does not prescribe procurement targets for states and that procurement beyond the prescribed limit under the scheme has to be undertaken by the state government.
+
+---
+
+### Jantar Mantar under heavy security again after CJP's fresh protest threats
+*Anmol Nath Bali · general*
+
+## Visuals show barricades at the Jantar Mantar protest site being welded together to prevent their removal during any future demonstration, as Delhi Police steps up security with heavy deployment of police and paramilitary personnel amid the CJP's fresh protest threat.
+
+The enhanced security comes days after the CJP accused the Centre of reneging on its assurance that no legal action would be taken against protesters and threatened to return to the streets. (Photo: PTI)
+
+Following a fresh warning from the Cockroach Janta Party (CJP) that it will resume its agitation unless all FIRs against protesters are withdrawn, the Delhi Police has stepped up security at Jantar Mantar by deploying additional personnel and welding together metal barricades at the protest site.
+
+The enhanced security comes days after the CJP accused the Centre of reneging on its assurance that no legal action would be taken against protesters and threatened to return to the streets.
+
+Visuals from Jantar Mantar, where the CJP staged its 36-day protest demanding the resignation of former Union Education Minister Dharmendra Pradhan, show barricades on both sides of the venue being welded together with iron to prevent protesters from moving beyond the designated area or removing the barriers during any future demonstration.
+
+Heavy security deployment also continues at Jantar Mantar, with personnel from the Delhi Police, paramilitary forces and other security agencies stationed across the venue.
+
+Earlier on Tuesday, the CJP warned that it would restart its protest, alleging that the Centre had violated the July 25 understanding reached after the agitation by allowing criminal proceedings against protesters to continue.
+
+CJP spokesperson Ashutosh Ranka accused the government of a "complete breach" of the agreement, claiming that hundreds of students had been arrested in BJP-ruled states despite assurances that no legal action would follow.
+
+Ranka demanded the immediate withdrawal of all FIRs, the release of detained protesters, an end to the registration of fresh criminal cases by the Delhi Police, central agencies and police in BJP-ruled states, and the public release of the signed agreement.
+
+CJP founder Abhijeet Dipke, while speaking to the media after returning to his hometown in Maharashtra, said the government was forcing the CJP to launch another agitation.
+
+"The government is forcing us to start a protest against....it should stop troubling the students. The anger is still there among students, because their anger was not against just one minister, but against the entire government. The government should fall in line, else the students will do it," he said.
+
+The party also announced the formation of a nationwide legal aid cell and launched an online evidence-gathering platform, SAAKSHI, to assist protesters facing legal action. Rajya Sabha MP Kapil Sibal announced a corpus of Rs 1 crore to provide legal assistance to those booked in connection with the protests.
+
+The CJP had called off its protest on July 25 after Dharmendra Pradhan resigned as Union Education Minister.
+
+\- Ends
+
+Shipra Parashar
+
+Jul 30, 2026 08:44 IST
+
+---
+
+### Barricades Welded, RAF Deployed As CJP Warns Of Fresh Protest At Jantar Mantar
+*Aanchal Sinha · general*
+
+A company of the Rapid Action Force (RAF), along with local police personnel, has also been stationed at the site round the clock, officials said.
+
+[Read full article](https://www.news18.com/india/barricades-welded-raf-deployed-as-cjp-warns-of-fresh-protest-at-jantar-mantar-ws-l-10241791.html)
+
+---
+
+### Assam redefines who qualifies as an original inhabitant in new heritage land law
+*India Today News Desk · general*
+
+## Assam Chief Minister Himanta Biswa Sarma described the law as "the most secular" measure brought by the state, saying it would apply equally to religious institutions of all communities. Sarma said families living in protected areas for three generations up to 2006 would be allowed to stay even without land pattas.
+
+Assam passes law limiting land sales near 250-year-old heritage sites
+
+The Assam Assembly on Wednesday passed the Assam Land and Revenue Regulation (Amendment) Bill, 2026, which allows only “original inhabitants” and specified categories of people to buy or hold land within a protected 5-km radius of “iconic heritage institutions” that are at least 250 years old. The key feature of the amendment is that the Himanta Biswa Sarma government has redefined who qualifies as an “original inhabitant” in the protected zone around these “iconic heritage institutions.”
+
+While the original law was passed in 2024 but never came into force, the 2026 amendment defines the length of a generation and introduces a cut-off date of January 1, 2006, both of which were missing from the original law.
+
+Replying during the discussion on the Bill, Chief Minister Sarma described it as “the most secular” law brought in by the state. He said the provisions would apply to religious institutions of every community if they are 250 years old or older, and said families living in such areas for three generations up to 2006 would be allowed to remain even without a land patta.
+
+Sarma said one generation would be counted as 25 years and that this condition would apply irrespective of religion. “Any religious institution of 250 years old is protected under this law. Now, any family that has been living there for three generations till 2006 will be allowed to live even if it does not have a land patta,” he said.
+
+He added that people staying there without authorisation would face eviction. “Any other people living there will be evicted if they are staying in an unauthorised manner. Besides, no people from Hindu or Muslim or any other group will be able to purchase land within that protected area,” he said.
+
+The Bill says people who already hold land pattas in the protected areas will be allowed to stay, regardless of religion or social category. At the same time, no new person will be allowed to purchase land there unless he or she falls under the categories of “original inhabitants”, Scheduled Castes, Scheduled Tribes, indigenous ethnic communities or disadvantaged groups.
+
+Under the Bill, an “original inhabitant” is a person who, along with the family, has been living in the protected area for the last three generations up to January 1, 2006, with one generation taken as 25 years. The legislation identifies Moran, Matak, Chutia, Koch-Rajbongshi and Ahom as “indigenous ethnic community”. It classifies people from tea, adivasi and other communities notified by the government from time to time as “disadvantaged group”.
+
+The Bill also states that the District Commissioner may evict unauthorised occupants from the protected heritage area, except persons belonging to the Scheduled Castes, Scheduled Tribes, indigenous ethnic community and disadvantaged groups. Sarma said those already living there with valid land documents would not be affected even if they do not fall within the permitted categories, as the law would not operate retrospectively.
+
+Calling the measure even-handed, Sarma said it would cover religious places of all communities that are 250 years old or more. “I feel this is the most secular law we have ever brought in. Let us create a new greater Assam by respecting each other. We are preventing both religious majorities and religious minorities from entering within 5km of a religious place of 250 years old,” he said.
+
+\- Ends
+
+Sayan Ganguly
+
+Jul 30, 2026 08:42 IST
+
+---
+
+### US claims to strike dozens of IRGC targets in Iran; alleges Iran attempted missile strikes
+*Ani · business*
+
+Florida: US Central Command (CENTCOM) forces have claimed to carry out a "heavy wave of strikes" against dozens of Islamic Revolutionary Guard Corps (IRGC) targets in Iran on Wednesday (local time), calling the action a response to attempted Iranian missile strikes on US forces in West Asia.
+
+The strikes, completed at 10 p.m. ET on July 29 (Wednesday), targeted IRGC military command centres, missile and drone facilities, coastal surveillance and defence sites, and maritime capabilities, according to a CENTCOM press release.
+
+  
+
+The strikes aimed to "further diminish threats posed by Iran and its proxies to American forces, commercial shipping, and neighboring Gulf countries," CENTCOM said.
+
+CENTCOM said that the US action came a day after IRGC forces launched multiple ballistic missiles from Iran in an "attempted surprise attack" on US forces based in West Asia.
+
+"All Iranian missiles were successfully intercepted," CENTCOM said.
+
+Earlier, in a post on X, CENTCOM said, "U.S. forces began launching strikes against Iran at 8 p.m. ET today. The strikes are a powerful response to yesterday's attempted Iranian attacks on U.S. forces based in the Middle East."
+
+CENTCOM also said that more than 50,000 US service members are currently deployed to West Asia and "remain highly vigilant, focused, lethal, and ready."
+
+The development comes as US President Donald Trump reaffirmed his threat of military action against Iran, stating that Washington plans to strike Tehran "very hard" and asserting that "it's our turn to hit them."
+
+When asked during an Oval Office appearance about an earlier blast at Egypt's Mediterranean port of Damietta, Trump confirmed that he had received a briefing on the incident, adding that "it's going to be straightened out."
+
+Directing further warnings at Tehran, the US President declared, "They know it's coming."
+
+Trump further noted the possibility of future diplomacy, saying, "We'll see if we get there with an agreement at some point," prior to reiterating his warning of kinetic action.
+
+The US President's sharp rhetoric came in the immediate aftermath of an explosion on Wednesday that rocked a US-owned and operated liquefied natural gas (LNG) vessel at Egypt's Damietta Port following a drone strike, raising fears that the West Asia conflict is spilling over into critical energy hubs beyond its traditional Gulf theatre.
+
+---
+
+### Trump says he'd be 'quite disappointed' if China arms Iran
+*ANI · business*
+
+Washington, DC: US President Donald Trump has stated that he would be "disappointed" if China supplied weapons to Iran, reiterating assurances he said Chinese President Xi Jinping had personally given him that Beijing would not sell arms to Tehran.
+
+Addressing reporters during an Oval Office interaction, Trump responded to international media reports indicating that Tehran is slated to receive a consignment of up to 400 Chinese-manufactured shoulder-fired missiles within weeks.
+
+  
+
+"Well, that would be surprising," Trump told reporters in the Oval Office.
+
+"I mean, things like that happen, but that would be surprising. He (Xi) told me very strongly he wouldn't partake, and he knows I'd be quite disappointed," the US President added.
+
+The development follows earlier intelligence assessments reported by CNN, which indicated that Beijing was preparing to deliver new air defence systems to Iran at a time when Tehran is actively seeking to replenish specific military hardware with support from key foreign partners.
+
+These Oval Office remarks follow warnings issued by the US President last week to both Beijing and Moscow against supplying arms to Tehran, whilst maintaining that he accepts assurances from President Xi and Russian President Vladimir Putin that neither nation is currently providing such military support.
+
+Addressing the matter on his Truth Social platform, Trump indicated that both nations were abstaining from arms transfers to Iran, writing, "Therefore, two major Countries that people speak of often in terms of Iran are, in my opinion, not participating."
+
+He added, "If they did, it would be very bad for them -- Certainly not in their best interests."
+
+The ongoing scrutiny comes amid Washington's investigations into whether Russian and Chinese intelligence networks have been providing targeting data to Tehran following a series of strikes on American military installations.
+
+Recalling his summit with his Chinese counterpart in Beijing in May, Trump noted that Xi gave an explicit commitment not to arm Tehran under any circumstances, stating, "considering our relationship, I take him at his word."
+
+The US leader revealed that Putin had extended a similar commitment despite the ongoing conflict in Ukraine, citing the Russian President's understanding of US arms policy.
+
+"He understands that I do not sell Weapons to Ukraine, but to NATO Countries. They pay full price, and how those Weapons are distributed, I have no idea," Trump noted.
+
+Affirming his reliance on the personal commitments conveyed by both foreign leaders, Trump reiterated to reporters, "I mean, I will tell you that President Xi said he will not partake, and President Putin said the same thing. I think you know I trust them," before adding, "I don't think they'd want to have me disappointed."
+
+---
+
+### Hyderabad weather today: Will the city see heavy rain as IMD issues alert for 16 Telangana districts?
+*Trending Desk · business*
+
+Hyderabadis are once again keeping one eye on the sky and the other on the traffic app. After a stretch of dry, humid days, the city has been drenched twice in the past 48 hours, and the India Meteorological Department has sounded the alarm yet again.
+
+## Hyderabad Weather Today: What's the alert actually say?  
+
+The Met Centre in Hyderabad has flagged a heavy rainfall warning for 16 districts across Telangana, valid for the next two days. The India Meteorological Department, Hyderabad, has issued a heavy rainfall alert for 16 districts in Telangana over the next 48 hours, with Hyderabad and several other districts also likely to experience thunderstorms, lightning and strong winds.
+
+**
+
+The districts under the red flag for heavy rain, anywhere between 64.5mm and 115.5mm, are
+
+1.  Adilabad
+2.  Komuram Bheem Asifabad
+3.  Mancherial
+4.  Nirmal
+5.  Nizamabad
+6.  Jagtial
+7.  Rajanna Sircilla
+8.  Karimnagar
+9.  Peddapalli
+10.  Jayashankar
+11.  Bhupalpally
+12.  Mulugu
+13.  Bhadradri Kothagudem
+14.  Vikarabad
+15.  Sangareddy
+16.  Medak
+17.  Kamareddy
+
+Hyderabad city itself isn't on that specific list, but that doesn't mean it's off the hook. A separate advisory has widened the net, an orange alert covers Telangana with thunderstorms and moderate rain expected in specific districts, where up to 5mm of rain per hour along with gusty winds under 40 kmph could hit. Add to that a yellow alert already sitting over the Cyberabad belt, and you get a fairly messy picture for anyone trying to plan their commute today.
+
+## Telangana Weather Today
+
+If Tuesday's numbers are anything to go by. Telangana's wettest patch was up north, Jayashankar district recorded the state's highest rainfall at 196mm on Tuesday, with Jagtial, Nirmal, Peddapalli, Mulugu, Mancherial and Nizamabad also seeing heavy downpours. Within the city limits, Musheerabad bore the brunt of it. Hyderabad's highest rainfall figure of 54.5mm was logged in Musheerabad, with Shaikpet, Tirumalagiri, Golkonda and Khairatabad also reporting significant rain. If you were stuck near Tank Bund or the Secretariat on Tuesday evening, you already know this part of the story, waterlogged stretches, crawling traffic, the usual monsoon chaos.
+
+There's also a slightly alarming voice in the mix. T Balaji, the independent forecaster who runs the popular "Telangana Weatherman" account and has built a reputation for calling these systems early, went further than the official line. He warned of extremely flooding rain across various districts between July 29 and 30, projecting that cumulative rainfall could touch 300 to 450mm at a few spots in north Telangana over 36 hours. That's the kind of number that turns streets into rivers, so if you live or work in the northern belt, it's worth keeping tabs on local updates through the day rather than assuming things will simply blow over.
+
+Siasat Daily
+
+  
+
+## What' the weather forecast for Hyderabad today?
+
+Here's the slightly better news for the city. Rain is expected to continue into Thursday, but in fewer parts of the city compared with the last couple of days. Temperatures should hold fairly steady, with a high near 30°C and a low around 22°C, and while waterlogging and slick roads are likely to return, the IMD hasn't flagged major traffic snarls or drainage failures for today the way it did earlier this week. Mornings are likely to stay overcast with intermittent light showers rather than another Tuesday-style downpour. The city is expected to remain cloudy with light rain likely to continue through the morning hours.
+
+## Weather Hyderabad Today: Should you be worried about your commute?
+
+Traffic police aren't taking chances. Following the heavy rains, authorities advised residents to avoid unnecessary travel, as rain combined with peak-hour traffic had already slowed vehicular movement considerably. A few practical things worth keeping in mind if you're heading out:
+
+-   Avoid low-lying stretches you already know flood easily, Tank Bund, parts of the Old City, and areas around Musheerabad have all seen standing water this week.
+-   Keep an eye on open manholes near waterlogged patches, especially after dark.
+-   If your building or society has faced power dips during past storms, charge your devices and keep a torch handy, short outages tied to rain have been reported in a few pockets.
+-   Give yourself extra time for any commute between 5pm and 8pm, when rain has consistently overlapped with peak traffic this week.
+
+The weather system driving all this is linked to a low-pressure area over the Bay of Bengal, and forecasters expect the rain to taper gradually rather than switch off overnight. Southern districts, Hyderabad included, are likely to see comparatively lighter spells over the coming days than the north, where the heavy alert remains in force. Whether that holds will depend on how the low-pressure system tracks, something the IMD will keep updating through its nowcasts.
+
+---
+
+### Mumbai weather today: Rain returns after brief break, IMD issues red, orange and yellow alerts across Maharashtra
+*Trending Desk · business*
+
+Mumbai and nearby areas are expected to witness a fresh spell of rainfall from Thursday, July 30, after a brief break in monsoon activity. The India Meteorological Department (IMD) has issued a yellow alert for Mumbai and Thane, forecasting thunderstorms, lightning, heavy rainfall and gusty winds in isolated areas. Several other parts of Maharashtra are also under weather alerts due to the revival of monsoon conditions.
+
+## **Mumbai, Thane under yellow alert**
+
+The IMD has upgraded the weather warning for Mumbai to yellow, predicting thunderstorms accompanied by lightning, heavy rainfall and gusty winds reaching 50 to 60 kmph at isolated places.
+
+Thane is also expected to experience similar conditions, with thunderstorms and heavy rain forecast for Thursday.
+
+  
+
+**  
+
+## **Palghar to see orange alert on Friday**
+
+The IMD has issued an orange alert for Palghar district on Friday, July 31. The warning includes heavy to very heavy rainfall, thunderstorms with lightning and gusty winds of 50 to 60 kmph at isolated places.
+
+## **Maharashtra district-wise IMD alert status**
+
+The IMD has issued a red alert for Jalgaon, warning of heavy rainfall conditions.
+
+An orange alert has been issued for Raigad, the ghat areas of Pune, Kolhapur and Satara, along with Nashik, Dhule, Chhatrapati Sambhajinagar, Jalna, Amravati, Wardha, Nagpur, Bhandara, Gondia, Chandrapur and Gadchiroli for extremely heavy rainfall.
+
+A yellow alert has been issued for Mumbai, Thane, Palghar, Nandurbar, Ratnagiri, Sindhudurg, Satara, Pune, Beed, Parbhani, Latur, Nanded, Hingoli, Buldhana, Akola, Washim and Yavatmal, with heavy rain expected in these districts.
+
+## **Deep depression system triggers monsoon revival**
+
+Meteorologists have linked the renewed monsoon activity to a deep depression system over Odisha, which has strengthened rainfall patterns across the region.
+
+According to IMD data, between Tuesday, July 28, and Wednesday morning, July 29, Mumbai's Colaba coastal observatory recorded 4.8 mm rainfall, while the Santacruz station received 0.1 mm. Earlier, the eastern suburbs recorded average rainfall of 8 mm, followed by around 3 mm rainfall across the western suburbs and island city areas.
+
+## **Mumbai rainfall remained above normal in July**
+
+The recent slowdown in rainfall was attributed to the absence of active monsoon systems after Mumbai received above-normal rainfall throughout July.
+
+So far, Mumbai's suburbs have recorded 1,490 mm rainfall in July, which is higher than the city's actual monthly rainfall quota for the month.
+
+---
+
+### Mark Zuckerberg says in 5 years billions will have personal AI agents, he is betting big Meta money on it
+*Armaan Agarwal · general*
+
+## Mark Zuckerberg predicts that soon billions of people will have their personal AI agents working around the clock. He is so confident that he is pouring billions of dollars from Meta's reserves into AI.
+
+Mark Zuckerberg is pouring billions of dollars into AI agents. (Photo: Reuters)
+
+Silicon Valley is going all-in on AI tools, and in particular AI agents. Mark Zuckerberg, the CEO of Meta, believes that soon billions of people will have their own AI agents who do their work around the clock. And to stay ahead, he is ready to burn Meta’s cash reserves.
+
+To give you some context, an AI agent is more than just a chatbot. Agents can automate tasks for you and complete them in the background, even when you are away.
+
+“I think that it’s extremely unlikely if you look out five years from now, for example – whatever period of time you want – that you don’t have billions of people with a personal agent that understands your goals and that is just working on your behalf 24/7 to achieve your goals in whatever the domain is that you care about,” Mark Zuckerberg said during Meta’s latest earnings call.
+
+He claimed that personal agents would be ‘the foundation for our next wave of products and revenue lines in the months and years ahead’.
+
+### Meta joins Google in taking a hit on cash flow
+
+But creating AI agents is not cheap. As is the case with large language models (LLMs), companies need to pour billions of dollars on AI agents too. So much so, that Meta’s cash reserves have taken a hit. As per the company’s latest earnings report, the company has seen a major fall in free cash flow as it continues to invest heavily into AI.
+
+Meta’s free cash flow in the second quarter fell 91 per cent to $784 million from $8.55 billion a year earlier, and the lowest since 2022. Free cash flow is essentially the cash a company has left after paying its operating expenses and investing in long-term assets such as buildings, and infrastructure.
+
+That is, in one year, Meta has spent almost $8 billion more than what it makes as part of its investment plans. At the same time, the company raised the lower end of its 2026 capital expenditure forecast to $130 billion from $125 billion. Its shares fell about 10 per cent after the results.
+
+Mark Zuckerberg is not the only one who is willing to spend big on AI though. Recently, Google confirmed that it had turned cash negative for the first time in 22 years. Alphabet, Google's parent company, reported negative free cash flow of $5.9 billion in the second quarter, as it continues to spend more than it makes.
+
+It is likely that companies like Meta and Google will continue to burn cash reserves to gain an upper hand in the AI race.
+
+The Meta CEO explained that while Meta had plans to rent out compute to customers to run AI models, there was “a significantly higher margin on selling intelligence rather than selling compute directly.”
+
+As per reports, Meta plans to double its overall computing power to 7 gigawatts this year and then to 14 gigawatts next year. The company currently has 32 data centres in operation or under construction.
+
+### WhatsApp to become more important in AI agent era
+
+This year, Meta has released a new Muse family of AI models, including Muse Spark 1.1, and Muse Image. The models were developed in less than a year by the Meta Superintelligence Labs (MSL), led by Alexandr Wang.
+
+But Mark Zuckerberg explained that messaging apps will continue to play an important role when it comes to AI agents, likely as the go-to-platform for you to interact with your agent.
+
+The Meta CEO added, “As we move toward a future where we’re all interacting with multiple agents, I think that WhatsApp and our other messaging surfaces are going to become increasingly important.” Zuckerberg stated that WhatsApp was the biggest platform for Meta AI. Though Instagram is expected to get more features soon.
+
+Meta is also carrying costs beyond AI infrastructure. Its Reality Labs division, which oversees its AR and VR products, lost about $4.6 billion in the quarter and has posted more than $80 billion in operating losses since 2021. The company has also booked severance expenses after laying off about 10 per cent of its workforce, or around 8,000 employees, in May this year.
+
+\- Ends
+
+Armaan Agarwal
+
+Jul 30, 2026 08:37 IST
+
+---
+
+### Actor Madhavan reacts to last three seconds of Shravani Sangle's stunning finish as India bags gold at Asian U23 Athletics Championships 2026
+*Unknown · business*
+
+India's thrilling gold-winning finish at the Asian U23 Athletics Championships 2026 has caught the attention of actor Madhavan, after a dramatic final few seconds changed the course of the mixed relay race. The race, held in Ordos, the People's Republic of China, appeared to be slipping away from India as China held the lead in the final lap. But 20-year-old Indian sprinter Shravani Sachin Sangle produced a stunning late surge, charging past her opponent in the final moments and helping India clinch gold.
+
+## Shravani Sangle's stunning final sprint
+
+Indian film and television actor Bakhtyar M Irani recently shared a video of India's mixed relay race on social media. What initially looked like a routine sporting clip turned into a thrilling finish as the Indian team battled China for the top spot.
+
+With just three seconds remaining, Sangle made her move. She accelerated past the Chinese runner at the crucial moment, turning the race around and securing the gold for India. The dramatic finish also caught the attention of actor Madhavan, who was left amazed by Sangle's performance and reshared the video on his story.
+
+  
+
+The moment has since highlighted the young athlete's ability to deliver under pressure, particularly with the race coming down to its final seconds.
+
+Screenshot of Instagram story.
+
+  
+
+## India wins 16 medals at Asian U23 Athletics Championships 2026
+
+India finished the Asian U23 Athletics Championships 2026 with an impressive haul of 16 medals, comprising three gold, four silver and nine bronze medals. The inaugural edition of the U23 continental meet was held from July 9 to 12 and featured close to 50 Indian athletes competing across track and field events.
+
+India's relay teams played a major role in the medal tally, accounting for four medals. The country won gold in both the mixed 4x400m and women's 4x400m relays, while the men's 4x400m and women's 4x100m relay teams secured silver medals.
+
+  
+
+Sangle emerged as India's most successful athlete at the championships, returning home with three medals. According to Olympics.com, she won gold medals in the mixed 4x400m and women's 4x400m relays and also claimed bronze in the 400m hurdles.
+
+## Who is Shravani Sachin Sangle?
+
+Born on November 16, 2005, Sangle is a 20-year-old Indian track athlete who has been making her mark across sprint and relay events. She recorded several notable performances in July 2026. According to data from the World Athletics website, she clocked 58.09 seconds in the 400m hurdles on July 11 and recorded 54.42 seconds in the 400m.
+
+She also contributed to India's strong relay performances, helping the mixed 4x400m team record 3:18.64 on July 9 and the women's 4x400m team finish in 3:33.62 on July 12.
+
+## About R Madhavan's film career  
+
+The actor recently basked in the success of Aditya Dhar's Dhurandhar and its sequel Dhurandhar: The Revenge, in which he played IB Chief Ajay Sanyal.
+
+He is now gearing up for his next project, G.D.N, an upcoming Tamil-language biographical drama directed by Krishnakumar Ramakumar, who co-wrote the screenplay with Madhavan. The film stars Madhavan in the titular role alongside Sathyaraj, Jayaram, Priyamani and Dushara Vijayan. Based on the life of inventor and engineer G. D. Naidu, the film is set to explore the remarkable journey of the pioneering figure.
+
+
+---
+
 ## 29 July 2026
 
 ### Q1 results: Adani Enterprises, Asian Paints, Dabur India, 85 more on Jul 29
