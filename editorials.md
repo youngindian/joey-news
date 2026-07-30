@@ -1,8 +1,106 @@
 # Editorials
 
-_Last updated: 2026-07-29 04:48 UTC_
+_Last updated: 2026-07-30 04:36 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 30 July 2026
+
+### Hiding the scissors: On the Central Board of Film Certification
+*The Hindu · Editorial*
+
+The Central Board of Film Certification (CBFC) wields significant cultural influence by deciding which films can be screened in Indian cinemas. Its decisions on what to excise from Indian films are followed nearly completely even by streaming services, despite not being required to show the censor’s version of a filmmaker’s artistic vision. The patterns that producers interpret from the CBFC’s decisions determine which stories are even made. There is a reason why few political films that espouse the cause of secularism (or the ills of communalism) are seen in cinemas today. There is also a reason why few would dare to make a film such as Satluj, considering what it went through at the censors’ hands, and the fate it was met with when an online release was briefly achieved. The censor board stands captured, blocking off films that are inconvenient to the ruling dispensation in ways that have never been seen before, and purging politics hostile to the dominant philosophy from films. All this to say, what the CBFC does matters, and the only check on its authority is the Cinematograph Act, 1952 and the rules framed thereunder, but its autonomy is only on paper.
+
+The CBFC is required to watch and rule on films in a matter of weeks. For over a year, the film Monkey Man, featuring a dystopian vision of a society with supremacy baked in, has not even been watched. This amounts to a de facto ban, but the CBFC has chosen the route of avoiding that headline by simply not taking a call one way or the other. Even background references to the government’s inaction during the COVID-19 pandemic were removed from Homebound, India’s entry to the Oscars. The CBFC is also guilty of unlawful concealment. In plain defiance of Section 5A(2) of the Cinematograph Act, the board has stopped publishing certificates in the government Gazette. In addition, it has now placed the online details of its certificates with cuts — unindexed and difficult to obtain as they are — behind an “under maintenance” message. Archives have stopped receiving cut portions of films for researchers’ study. Pre-censorship as a concept is odious to free societies, and the CBFC’s role ought to be curtailed, if not abolished altogether. While it exists, however, the CBFC must be compelled by the film fraternity, and its founding statute, to follow the law. The censor’s scissors have plagued and stifled the voice of generations of storytellers, but the dynamic this has played out in has been visible and must be held accountable.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/hiding-the-scissors-on-the-central-board-of-film-certification/article71281220.ece)
+
+---
+
+### ​Unaddressed challenges: On India’s crisis in education
+*The Hindu · Editorial*
+
+The Indian political leadership tends to respond to mass protest with new laws, fast-track courts and inquiry committees, rarely addressing core issues. The Cockroach Janta Party agitation has met a similar fate: the immediate demand conceded, the upsurge mollified with new legislation, the promise of judicial scrutiny, and a task force. This is crisis management, building on a dysfunctional architecture. For the National Testing Agency (NTA), the task force is expected to operationalise the K. Radhakrishnan Committee’s October 2024 blueprint, much of it stalled for 18 months: a statutory, UPSC-like NTA under a Director General and two Additional Directors General; 10 functional verticals spanning cybersecurity, psychometrics and forensics; a thousand standardised testing centres; a Digi-Exam biometric framework integrating Aadhaar, facial recognition and continuous surveillance. The NTA has issued hiring notifications, but structural challenges remain: six to 12-month recruitment cycles, pay scales that cannot compete with those of the private sector, and cadre creation requiring legislative sanction. The NEET 2027 deadline is daunting. Fully implemented, the Radhakrishnan panel’s recommendations would have included a shift toward continuous, computer-adaptive testing. Standardised tests such as the GRE play a key role in American admissions, but do not carry the stakes of a single sitting. The panel also noted that agencies such as the National Medical Commission and the IITs are treated as passive clients in the exam cycle. But these may well be outside the purview of the taskforce since, as constituted, it leans on capacity in technology, space research, intelligence, public administration, and logistics. Its lone academic is the IIT Madras director. More career educators and assessment researchers might have pressed the broader question — what these examinations are meant to measure, and whether they should exist in their current form — that the government appears to treat as settled. Instead, a crisis in education is being addressed as a technical problem.
+
+JEE’s conduct owes much to IIT faculty who see its integrity as intrinsic to a brand they have a stake in. NTA’s paper-setters carry no comparable loyalty. Unlike JEE Advanced, where nearly every question is a fresh application of fundamentals, NEET draws on question banks mixed and matched algorithmically — perpetuating the nexus with coaching classes, and potential for mischief. One of the top AIIMS institutions could plausibly be entrusted with NEET paper-setting each year. But the government’s approach does not lend itself to greater engagement with academia. The task force’s mandate, as the Prime Minister has spelled it out, covers the entire examination system, not NEET alone. Yet, it may well approach the CBSE marking fiasco, too, as a technical problem. Both point to the same failure: an inability to build high-quality academic institutions capable of functioning autonomously. That is not what this task force is built to address.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/unaddressed-challenges-on-indias-crisis-in-education/article71281233.ece)
+
+---
+
+### FCRA Bill 2026, a threat to civil society organisations
+*The Hindu · Opinion*
+
+According to the government’s legislative programme for the monsoon session of Parliament, the Foreign Contribution (Regulation) Amendment Bill, 2026, has been listed for consideration. Although the Bill was included in the legislative agenda during the previous session, its consideration was postponed following widespread protests, particularly from Christian organisations and non-governmental organisations (NGO). At the time, the government made it clear that it remained committed to passing the Bill. Nevertheless, some interpreted the postponement as a sign that the government intended to defer it indefinitely or even drop it altogether. Those expectations have now been dispelled.
+
+In India, foreign contribution has always been a controversial issue. Normally, foreign contributions are allowed to support humanitarian relief and sectors such as health care, education, and environmental protection.
+
+[Read full article](https://www.thehindu.com/opinion/lead/fcra-bill-2026-a-threat-to-civil-society-organisations/article71282647.ece)
+
+---
+
+### E20 switch demands more evidence
+*Deccan Herald · Editorial*
+
+By stating in Parliament that it has not conducted any exercise to determine the volume of vehicles compatible with E20 fuel, the Union government has revealed a clear lack of administrative preparedness. The government has announced that it would go ahead with the proposal for E20 (petrol blended with 20 per cent ethanol), maintaining that the fuel is compliant with the country’s existing vehicle standards. It said E15+ petrol has been in use for more than three-and-a-half years and E19-20 for more than two-and-a-half years.
+
+The government claims that 20 crore two-wheelers and more than three crore petrol cars have been using the blended fuel over the past few years without any reported damage to their engines.
+
+It told Parliament that a decision on raising the ethanol component beyond the current 20 per cent would be taken only after scientific and technical studies, and consultation with relevant stakeholders, including automobile manufacturers, oil marketing companies, and research institutions. This promised rigour for the future was missing ahead of the official endorsement of E20.
+
+Can E20 fuel damage older vehicles? Kejriwal seeks clarity from auto firmsThe use of ethanol has been recommended for multiple reasons. It can reduce dependence on imported crude, lower carbon emissions, and create a larger market for agricultural produce from which it is made. However, variations in crude prices, the impact on food production, and water consumption of source crops such as sugarcane shape the economy of ethanol use.
+
+Notably, no comprehensive studies have been done on the allied technical, economic, and marketing issues. Critics point out that testing under controlled conditions is not sufficient to implement a policy that impacts millions of vehicles. It is claimed that a 10 per cent ethanol blend has been found to reduce fuel efficiency by approximately 3-5 per cent.
+
+Consumers count the litres, the miles they get from them, and the money paid for every mile. Many of them may not be averse to making a sacrifice for a larger cause, but they would want to be assured that the promised benefits are real. Public policy, which affects millions of people, should be grounded in scientific data, transparent execution, and user trust. The government should have initiated a wider public consultation on the rollout.
+
+Consumers have multiple reservations and apprehensions regarding the fuel. As stronger resistance emerges – a protest march has been planned in Delhi next week – the government should engage with the concerns. It must validate its claims on the fuel’s efficiency with an independent audit and create public confidence before it greenlights the plan as policy.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/e20-switch-demands-more-evidence-4092358)
+
+---
+
+### SIR and the burden of inclusion
+*Deccan Herald · Editorial*
+
+The Election Commission's own figures have lent troubling weight to the fears expressed by civil society groups over Karnataka's ongoing Special Intensive Revision (SIR) of electoral rolls. Around 80 lakh voters – nearly 15 per cent of the state's electorate – have been marked as ASDDO (Absent, Shifted, Dead, Duplicate and Others). The figure is alarmingly close to the activists' prediction that nearly one crore voters could face deletion or exclusion.
+
+This is not the first exercise to clean up electoral rolls since the last intensive revision in 2002. Summary revisions are conducted before every election, with additions, deletions, and corrections. It is therefore inconceivable that such a vast number of voters have suddenly become dead, ineligible or permanently shifted without detection. The EC itself says over 91 per cent of voters had been pre-mapped. If so, why has the ASDDO list become so enormous?
+
+Karnataka SIR | Political parties, activists raise alarm over 79.75 lakh ASDDO votersThe activists’ explanation deserves serious attention. Booth Level Officers (BLOs), pressed by tough deadlines, are alleged to have wrongly marked voters without adequate verification. Equally worrying are mapping errors involving family linkages, logical discrepancies, and difficulties in tracing progeny details from the 2002 rolls.
+
+Responsibility for such errors cannot rest solely with BLOs; Electoral Registration Officers (EROs) and the EC must be held accountable. The Commission has assured that voters whose names are proposed for deletion will receive notices and can file appeals. Voters marked absent (more than 11 lakh people) and wrongly mapped as shifted have the provision to seek redress from the BLOs. That response still misses the point.
+
+Citizens should not be forced to run from pillar to post to reclaim a right lost through bureaucratic error. The burden will fall heaviest on migrant workers, tenants, women who have changed surnames after marriage, residents of informal settlements, and vulnerable groups who often lack ready documentation or the time to navigate official procedures. Many may abandon the process, effectively losing their vote despite being eligible.
+
+The Karnataka High Court's refusal to entertain a plea seeking an extension of the deadline is disappointing. The experience of West Bengal, where delayed intervention left lakhs without voting rights, should serve as a cautionary tale.
+
+The EC must verify every proposed deletion before publishing the draft rolls, even if that means extending the exercise. Booth-level agents should be involved in scrutinising doubtful entries, while EROs must ensure every deletion is backed by physical verification. Electoral roll revision must be guided by a presumption of inclusion, not exclusion. Administrative convenience can never take precedence over the constitutional right to vote.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/sir-and-the-burden-of-inclusion-4092357)
+
+---
+
+### Reaping the rewards of resilience
+*Deccan Herald · Opinion*
+
+All of us who enjoyed the June-July FIFA and Wimbledon Championships and the ICC Women’s T20 World Cup would have been struck by the sheer grit and tenacity on display at those keenly contested events. Every game was a test of extraordinary endurance. Of course, their best efforts did not always translate into victory; some who fought valiantly, ignoring injury and battling burnout, finally faced failure.
+
+For those courageous competitors, however, finally does not mean finality. Although they might not have lived up to their expectations (or those of their supporters) in a crucial match, they are unlikely to let recent reverses impede future aspirations and achievements. Instead, disregarding defeat, they will continue to pursue their passion for sport.
+
+This resilience, as even an amateur athlete is aware, goes far beyond mere strength and stamina. While not downplaying the importance of physical fitness, we should realise that resilience is essentially a classic case of mind over matter. The American Psychological Association Dictionary defines resilience thus: “The process and outcome of successfully adapting to difficult or challenging life experiences, especially through mental, emotional, and behavioural flexibility and adjustment to external and internal demands.”
+
+Frankness, not flattery, is a friendTime and again, we hear of people who possess this admirable quality in abundance. J K Rowling comes to mind. Her manuscript of Harry Potter and the Philosopher’s Stone was rejected by 12 publishers, but Rowling rebounded from those rebuffs to become a renowned author.
+
+Thomas Alva Edison is another inspiring individual. When he was creating the first commercially practical incandescent light bulb, a positive outcome repeatedly eluded him. Surmounting setbacks, he declared, “I have not failed. I have just found 10,000 ways that will not work.”
+
+It might seem from these examples that resilience is a blessing reserved for the gifted. On the contrary, it is freely accessible, not just to a favoured few. Each of us is endowed with the capacity to bounce back from traumatic situations, but not through magical means. If we wish to avail of the valuable commodity at our disposal, we must exert ourselves. When we harness and develop this remarkable resource, we will reap the rewards of resilience.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/reaping-the-rewards-of-resilience-4092347)
+
+---
 
 ## 29 July 2026
 
@@ -36,6 +134,94 @@ On June 22, 2026, 15 people gasped to death in a burning building in Aliganj, Lu
 It was not merely a building that caught fire, but a system that failed. A tragedy waiting to happen, aided by those whose job it was to prevent it.
 
 [Read full article](https://www.thehindu.com/opinion/lead/the-urban-nightmare-a-fire-with-no-escape/article71277999.ece)
+
+---
+
+### DC Edit | Pak Protesters Must Be Heard
+*Deccan Chronicle · Editorial*
+
+International attention is just being drawn to the situation in Pakistan-Occupied Kashmir, where a security crackdown has been ordered against protesters. Reports have it that over 90 people have died in the region since the latest round of protests began gathering momentum in early June, of whom over 20 may have been killed since the Azad Jammu Kashmir legislative assembly polls began early this week.Given Pakistan’s record in dealing with civil movements protesting about misrule and the denial of fundamental rights, etc., it is small wonder that a high death rate is inextricably associated with how the nation’s forces enforce law and order.Even so, it is not in India’s interest to attempt any sort of intervention into what is happening across the Line of Control beyond pointing to the world Pakistan’s record in human rights and its propensity to put down any movement against the establishment that is heavily backed by the Army under its much-vaunted field marshal Asim Munir.India did comment that the protests are a direct consequence of Islamabad’s systematic exploitation over decades of the people and their continuous oppression in a territory which it wished to remind was being illegally occupied by Pakistan. It is a comment on the prevalent attitude against protesters that they have been equated with India to be considered as “enemies”, as articulated by defence minister Khawaja Asif.
+
+Elections to the assembly provided the spark for the most recent wave of protests in which the Joint Awami Action Committee (JAAC), which is spearheading the movement, has been demanding the abolition of 12 legislative seats in the assembly that are reserved for Kashmiri refugees living on the Pakistan side of the border.Talks with federal ministers and the PoK administration having failed, the committee has been in the forefront of the agitation, backing calls for boycott of the polls and the administration has taken a tough stand against those who wished to boycott the elections. The integrity of the polls is also questionable given Pakistan’s despair to control the disputed territory. Pakistan has never been known to worry about human rights when it comes to handling restive regions.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-pak-protesters-must-be-heard-1975004)
+
+---
+
+### DC Edit | SC Must Crack Down Hard on Police Brutality
+*Deccan Chronicle · Editorial*
+
+Finally, the Supreme Court has made a forceful though delayed intervention in the cases relating to the student protest over the leakage of question papers in the NEET examination when it stopped governments from going ahead with their vindictive action against the protesters and suggested that an independent investigation into allegations of police excesses on students is warranted instead. Now, a close follow-up by the court on their compliance with its own directions and suggestions would go a long way in inspiring confidence.One of the curses of the system of administration of criminal justice in India is that the process can easily be made the punishment if the government so chooses. Detention, arrest and the long-drawn legal process together make a nightmarish experience for people in the normal course; it will be worse if the government gets involved in them. The registration of cases against peaceful protesters at Jantar Mantar in Delhi as well as in the other states was a deterrence ploy of the government. The apex court’s order directing the release of all the students with no criminal antecedents and its ban on the registering of new FIRs on such people come as a big relief for the protesters. It must be emphasised that the term “criminal antecedents” is confusing as there is many a political activist with cases registered against them for participating in public agitations. The court must ensure that the police go with the spirit of its order.Even the government would agree that the youth who hit the streets seeking accountability on the part of the government after the cancellation of the Neet examination attended by 22 lakh people and the mess the CBSE made of the valuation of its Class 12 answer sheets had a bona fide case. The Prime Minister’s announcements about the formation of an experts committee on NTA reforms and the tightening of the anti-paper leak law in response to the students’ protests point to the lacunae the government had left unaddressed. It is hence unacceptable that those who raised genuine concerns about the future of the young generation are treated inhumanely by the police, those in police uniform and those without uniform.Allegations of the use of electric batons, lathis fitted with nails and inappropriate behaviour with students, including girls, have already surfaced. It is hence very much in order that the Supreme Court forms a special investigation team to get to the bottom of the allegations. The police brutality must not go undocumented; we are an independent country functioning on the rule of law.The government wanted its actions to be a deterrent for those who democratically and peacefully protest against its policies; the SC’s moves, on the other hand, come as offering a deterrent to the government and its agencies if they plan to unleash the might of the state on its people. And that is the need of the hour. Moreover, it is the obvious choice for the state in a democratic republic.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-sc-must-crack-down-hard-on-police-brutality-1975009)
+
+---
+
+### Dilip Cherian | Exam Reforms: Centre Goes For Systems Fix For A Systems Failure
+*Deccan Chronicle · Opinion*
+
+Governments, especially those with strong political instincts, usually respond to crises with tougher laws, tighter enforcement and louder messaging. Technology rarely becomes the headline act. That is why the decision to hand India’s examination reforms to Nandan Nilekani is more significant than it first appears.
+
+The government has been battered by recurring exam paper leaks and allegations that have chipped away at public confidence. It could have chosen another committee of retired administrators. Instead, it turned to a team led by the man who helped build Aadhaar and shape India's digital public infrastructure. The message Prime Minister Narendra Modi wants to send out is that this is a systems problem.
+
+Mr Nilekani brings something that few people in India can claim. He has run a global corporation, worked inside government and learnt how bureaucracy functions. Those are very different skill sets, yet he has demonstrated an unusual ability to combine them. Corporate efficiency without bureaucratic patience rarely survives in government. Bureaucratic instinct without execution rarely changes anything. Mr Nilekani has shown he understands both.
+
+The Modi Sarkar has often preferred political solutions to institutional ones. This appointment suggests that, when cornered, it is willing to reach for technocratic expertise instead of doubling down on familiar responses. That is a healthy instinct.
+
+Technology, of course, will not eliminate cheating by itself. Human ingenuity can outwit software just as it can exploit weak institutions. But technology can make fraud harder, improve accountability and create audit trails that were previously impossible.
+
+If this exercise succeeds, the real achievement will not be another digital platform. It will be restoring trust in one of the few institutions on which millions of young Indians stake their future.
+
+Continuity matters too
+
+Much is being written about the churn unfolding in the higher bureaucracy, with the Centre reshaping key positions as it prepares for the next phase of governance post the Cockroach Andolan. Against this backdrop, the decision to entrust Defence secretary Rajesh Kumar Singh with the additional charge of secretary, department of ex-servicemen welfare, may appear routine but is anything but.
+
+The move reflects something this NDA government led by Mr Modi has consistently valued: Continuity. Rather than disrupt the system, it has chosen to keep a closely linked portfolio in experienced hands while the incumbent, Sukriti Likhi, is on leave. It is a small administrative decision, but one that points to a larger governing philosophy.
+
+The defence ministry and the department of ex-servicemen welfare are not disconnected silos. Policies concerning veterans, pensions, rehabilitation and welfare work best when there is seamless coordination with the broader defence establishment. Having one senior officer oversee both departments, even briefly, can help maintain that alignment and prevent files from slowing down.
+
+Rajesh Kumar Singh brings years of administrative experience and already has his hands on the ministry's most critical issues. Giving him temporary charge avoids unnecessary transition costs and ensures that decision-making remains uninterrupted.
+
+Governments are often judged by headline appointments and dramatic reshuffles. Yet effective administration is just as much about getting quieter decisions right.
+
+In a season of bureaucratic realignment, this appointment is a reminder that stability has its own value.
+
+Rank cannot be a refuge
+
+The higher the rank, the higher the standard. That is the principle every police force claims to uphold. In practice, however, senior officers often seem to enjoy a degree of insulation unavailable to their juniors. That is why Kerala's decision to suspend senior IPS officer M.R. Ajith Kumar deserves attention beyond the immediate controversy.
+
+The suspension is not a finding of guilt. It is recognition that allegations of misconduct against a serving police chief cannot be examined credibly while the officer remains in office.
+
+For years, India's policing system has suffered from an uncomfortable imbalance. Constables and inspectors are routinely suspended pending investigation. At the top, disciplinary action is far rarer, with transfers and prolonged enquiries often replacing decisive institutional responses. The result is a perception that the chain of command also doubles as a shield.
+
+Kerala has, at least for now, chosen a different course. Acting before Ajith Kumar could assume higher office sends a message that promotion cannot become an escape route from scrutiny. Whether the inquiry eventually exonerates him or establishes wrongdoing is a matter for due process. What matters today is that due process has been allowed to begin without the shadow of official authority hanging over it.
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/dilip-cherian-exam-reforms-centre-goes-for-systems-fix-for-a-systems-failure-1974981)
+
+---
+
+### Gurjit Singh | Asean Is Key To Delhi's Indo-Pacific Strategy
+*Deccan Chronicle · Opinion*
+
+External affairs minister S. Jaishankar has returned from a hectic schedule at the Asean post-ministerial and related conferences in Manila in late July. The formal meetings included the Asean-India post-ministerial conference, the East Asia Summit foreign ministers’ meeting, and the Asean Regional Forum. On the sidelines was the Quad foreign ministers’ meeting and nearly a score of bilateral meetings with fellow ministers.
+
+These engagements show that, despite concerns about the centrality of Asean, Asean-led institutions are still important as diplomatic platforms where regional powers and partners convene annually. The foreign ministers’ meetings will be followed by the Leaders’ Summit in October.
+
+It is evident that India no longer treats the Asean-Plus meetings merely as engagement with a regional organisation. India is using these meetings as the diplomatic fulcrum of its Indo-Pacific engagement, pursuing multilateral, plurilateral and bilateral diplomacy with equal vigour. Several discernible trends emerged from the meetings.
+
+The first is India’s continued recognition of Asean’s centrality while using Asean-led mechanisms to broaden the Indo-Pacific agenda. In his interventions, Mr Jaishankar emphasised the key role of Asean as the centrepiece of a free, open, inclusive and rules-based Indo-Pacific. Even as strategic rivalries intensify, India avoids portraying the Indo-Pacific exclusively as a security construct. Instead, it links the concept with maritime security, connectivity, resilient supply chains and economic security. The designation of 2026 as the Asean-India Year of Maritime Cooperation reflects India’s effort to align its Indo-Pacific vision with the Asean Outlook on the Indo-Pacific.
+
+A second important trend is India’s growing emphasis on economic security rather than conventional trade diplomacy. The external affairs minister consistently referred to disruptions in supply chains and the challenges posed to food, energy and health security as defining issues. This terminology reflects India’s belief that security, economics and technology are inseparable. Trusted supply chains, resilient manufacturing, critical technologies, maritime connectivity and economic security are increasingly replacing traditional discussions on tariff liberalisation. This approach is already visible in India’s recent joint statements with Japan, Australia, the EU and the Quad, and is now extended to Asean as India seeks broader economic partnerships while balancing the effects of the US-China strategic rivalry.
+
+A third visible trend was the prominence accorded to maritime security. At the Asean, ARF and EAS meetings, India reiterated its longstanding support for freedom of navigation, secure sea lanes and the protection of commercial shipping. While these have traditionally been associated with the South China Sea, the sharper tone of the minister’s interventions reflected recent attacks on civilian shipping, seafarers and maritime routes in the Red Sea. Maritime security is therefore no longer viewed solely through the prism of naval cooperation, but as an essential requirement for global trade, economic stability and uninterrupted energy flows. This broader conception resonated with Asean’s own approach, reflected in its statements on the crisis in West Asia.
+
+A fourth trend was India’s continuing emphasis on counter-terrorism as an integral component of regional security. At the ARF, which focuses principally on security issues, the EAM called for stronger international action to disrupt the financing of extremist and terrorist networks. India has consistently sought to broaden Asean’s security agenda beyond maritime disputes in the South China Sea to include terrorism, cybercrime and other transnational threats. The minister’s emphasis on curtailing financial flows to terrorism showed India’s effort to bring its domestic counter-terrorism priorities into evolving regional norms. This approach also links financial integrity, cross-border law enforcement, technology governance and intelligence cooperation into a more comprehensive security framework.
+
+Pakistan, an Asean sectoral dialogue partner since 1992, participates only in the Asean Regional Forum (ARF). At the 33rd ARF, deputy PM and foreign minister Ishaq Dar described the unresolved Jammu and Kashmir issue as the principal source of instability in South Asia and called for its resolution under UN Security Council resolutions. Referring to the Indus Waters Treaty, he maintained that it remains legally valid and urged dialogue over unilateral actions. He also advocated stronger preventive diplomacy and regional cooperation in the “Asia-Pacific”, reflecting Chinese terminology.
+
+The MEA strongly rejected Pakistan’s remarks, accusing Islamabad of misusing a multilateral platform to spread falsehoods and divert attention from its record of cross-border terrorism. India reiterated that Jammu and Kashmir is an integral part of the country and that the...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/gurjit-singh-asean-is-key-to-delhis-indo-pacific-strategy-1974972)
 
 ---
 
