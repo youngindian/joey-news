@@ -1,3 +1,690 @@
+## 31 July 2026
+
+### Seattle police chief Shon Barnes resigns after Bite of Seattle fallout
+*India Today World Desk · world*
+
+## Seattle Police Chief Shon Barnes resigned after criticism over delayed updates following the Bite of Seattle shooting. The move hands interim control to Andre Sayles as the city faces pressure over public safety communication.
+
+Seattle Police Chief Shon Barnes resigned on Thursday after criticism that the city was slow to release key information following a fatal shootout at a food festival last weekend. Mayor Katie Wilson announced the move and named Deputy Chief Andre Sayles, a law enforcement veteran with more than two decades of experience, as interim chief.
+
+The resignation came after hours of speculation over Barnes' future, with some of his supporters saying he had resisted Wilson's request to step down. In a written statement, Wilson thanked Barnes for his service, while Barnes said it had been an honour to serve the city.
+
+Barnes had earlier told The Seattle Times that whether he remained as chief was "up to the mayor". He said he was off for the day and spending time with family. In the mayor's statement, Barnes said, "I hope this transition gives the city and this department the opportunity to return full focus to what matters most, addressing youth gun violence and preventing more tragedies."
+
+Gunfire broke out last weekend at the Bite of Seattle, an annual three-day festival that draws hundreds of food and retail vendors and performers. Barnes was out of town at a law enforcement conference when the shooting happened. Three people, including one suspect, were killed and four others were wounded. One of the injured was a 2-year-old boy.
+
+According to court documents, dozens of officers were at the event, and at least one officer saw a 15-year-old suspect firing into the crowd and quickly persuaded him to surrender. Police are still searching for at least one other person. While Wilson credited the quick police response with potentially saving lives, she said the city was slow to communicate afterwards.
+
+After an initial social media post about the shooting, police took nearly five hours to share more information with the public, including whether there was any continuing threat. The city also did not send any alert through its emergency notification system. In the meantime, Wilson said two people had been taken into custody, but later withdrew that statement. Assistant Seattle Police Chief Tyrone Davis gave an update around 11 pm on Sunday at a press conference attended by Wilson, Governor Bob Ferguson and US Representative Pramila Jayapal.
+
+In a video statement on Thursday, Wilson said, "What I did not fully understand in that moment was how little information had reached the public or the press since the incident began at 6 pm. Had I known that, I would have pushed for an immediate briefing, rather than waiting for a press conference to be organised."
+
+Barnes was Seattle's second Black police chief. Several Black community organisations, including the Seattle NAACP and the Urban League of Metropolitan Seattle, rallied on Thursday in support of him. In an open letter to the mayor's office, they said he had improved relations between the department and the community, helped reduce gun violence and strengthened the department's operations. "Chief Barnes should not be made a scapegoat for the complex challenges of public safety," the letter said.
+
+At least six City Council members also issued statements backing Barnes. A statement signed by four of them said the city had had four chiefs in less than three years. "Our priority must be stability, not further disruption," it said.
+
+Barnes was appointed by former mayor Bruce Harrell in December 2024 after serving as chief of the Madison, Wisconsin, police department. When Wilson, a democratic socialist who had once supported defunding police, won last year's mayoral race, she kept Barnes in the role, signalling to business groups and community organisations that she did not plan a sharply different approach to public safety.
+
+Jon Scholes, president of the Downtown Seattle Association, said in an emailed statement, "Seattle had been on a positive course on public safety with police hiring trending up and crime trending down. It's imperative the next chief of police is able to maintain progress that's been made and instill confidence in our community." Barnes had also faced criticism for spending time in Chicago, where his family lives. Department spokesperson Sgt Patrick Michaud said on Thursday that Barnes had made four trips to Chicago this year and spent about 18 days travelling there in total.
+
+The resignation comes as Seattle prepares for another major festival weekend, with the Seafair Weekend Festival 2026 starting on Friday. Barnes' exit follows intense scrutiny over the city's handling of information after the Bite of Seattle shooting, even as supporters argued that he had brought stability and progress to the police department.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Jul 31, 2026 09:18 IST
+
+---
+
+### In revamp of Old Delhi, a proposal to bring back trams
+*Vibha Sharma · regional*
+
+NEW DELHI: Delhi govt is considering the reintroduction of a tram system around Shahjahanabad as part of a comprehensive redevelopment plan for Old Delhi. It has also proposed bringing all roads in the Shahjahanabad Redevelopment Corporation (SRDC) area under Public Works Department (PWD) to ensure coordinated planning, uniform standards and faster execution of infrastructure projects.The decisions were taken during a review meeting of SRDC on July 15. The meeting reviewed key projects, including the improvement of SP Mukherjee Marg, including Dangal Maidan parking, redevelopment of arterial roads and inner streets, facade restoration of buildings in Chandni Chowk and Jama Masjid precinct redevelopment, the minutes stated.While a series of detailed presentations were made by each consultant for their respective projects, PWD has been directed to prepare an integrated redevelopment strategy by consolidating all project plans to preserve the architectural and cultural heritage of Old Delhi.“The department will also identify road stretches that can be executed together, prioritise projects that can be completed within a shorter timeline, and ensure that there is no overlap or conflict in infrastructure works,” the minutes stated. “Assessing the feasibility of introducing a tram system around Shahjahanabad to improve sustainable and heritage-sensitive urban mobility should also be done,” it added.
+
+Sanjay Bhargava of Chandni Chowk Sarv Vypar Mandal said that while all the projects were approved by Delhi High Court in the past, they could not be implemented. “Now that the above four proposals are finally discussed in a meeting, we expect work to start soon,” he said.Utility ducting, pedestrian pathways and facade restoration will be planned in an integrated manner to avoid overlap, creating a uniform visual and functional identity.
+
+“Consultants have been asked to submit revised presentations with detailed work plans and project cost estimates. PWD will also prepare an overview of the SRDC area and obtain details from the power department on the stretches where underground electrical utility works have already been undertaken,” the minutes said.The meeting also directed SRDC to explore the feasibility of transferring all roads within its jurisdiction to PWD.
+
+Until such a decision is taken, PWD may constitute a dedicated team to oversee SRDC projects.SRDC was also asked to identify unutilised properties and examine their land use and ownership for setting up outlets, eateries, cafes and tourist-friendly infrastructure under PPP mode.A follow-up review meeting will be held next month.
+
+---
+
+### Stock Market LIVE: Sensex up 70 points, Nifty above 24,300; Nifty IT tumbles over 3%
+*Unknown · business, entrepreneur, finance*
+
+Sensex Today | Stock Market LIVE Updates Friday: At pre-open, the Nifty50 and the Sensex were trading on a mixed no. South Korea's Kospi surged 15 per cent as SK Hynix and Samsung shares advance
+
+[Read full article](https://www.business-standard.com/markets/news/stock-market-live-july-31-nse-bse-sensex-today-nifty50-gift-nifty-q1-results-today-ipo-share-market-126073100128_1.html)
+
+---
+
+### Thousands are fleeing Morocco to Spain. Here's why Ceuta, a tiny Spanish territory in Africa, is at the center of it
+*Trending Desk · business*
+
+Spain has rushed military and extra police to Ceuta, its North African enclave, after one of the largest single-day migrant crossings the territory has seen in years. The scenes, people swimming ashore, crowds breaking through border barriers, and a nearby crossing point briefly turning violent, have put a spotlight on a question many are now searching for online: why are people fleeing Morocco for Spain?
+
+## Why are thousands of people fleeing Morocco to Spainish territory Ceuta?
+
+Spanish state broadcaster TVE reported that somewhere between 2,000 and 3,000 people entered Ceuta in a single day this week, though the figure has not been independently verified. Footage circulating from the scene showed migrants swimming or drifting in on inflatable tubes from the Moroccan side, while others rushed a land gate and ran into the city as border guards struggled to hold the line.
+
+  
+
+Just across the frontier, in the Moroccan town of Fnideq, authorities reportedly used water cannons late into the night to try to push people back, a sign of how strained the situation had become on both sides of the fence.
+
+Agencies
+
+In Melilla, Spain's other North African enclave, a separate flashpoint erupted at the Beni Ansar crossing, the only official land route between the two cities for six years. Rights monitors described vehicles set on fire and injuries among both migrants and security personnel.
+
+The human cost has been severe. Local officials recovered nine bodies in Ceuta this week alone, part of a grim tally of roughly 60 migrant deaths linked to attempts to reach the enclave in recent months.
+
+  
+
+### Is Ceuta part of Spain? Why is Ceuta so important to Europe?
+
+To understand why this keeps happening, it helps to understand geography. Ceuta is an autonomous city of Spain located on the northern coast of Africa, across the Strait of Gibraltar from mainland Spain. Although it shares a land border with Morocco, Ceuta is officially Spanish territory and has been governed by Spain for centuries. As a result, it is also part of the European Union, uses the euro as its currency, and Spanish is its official language.
+
+Ceuta occupies a strategically important location at the entrance to the Mediterranean Sea. Along with Melilla, it is one of two Spanish autonomous cities in North Africa. Its unique geography and status have made it an important hub for trade, migration, and border security between Europe and Africa.
+
+### Does Morocco claim Ceuta?
+
+Yes. Morocco claims sovereignty over Ceuta, arguing that the city should be part of Moroccan territory because of its location on the African continent. The issue has remained a longstanding point of diplomatic disagreement between the two countries since Morocco gained independence in 1956.
+
+Spain, however, rejects Morocco's claim and maintains that Ceuta is an integral part of the Spanish state. Spanish officials argue that the city has been under Spanish sovereignty for centuries and that its residents are Spanish citizens who have consistently expressed their desire to remain part of Spain. Despite the competing claims, Ceuta continues to be administered by Spain, while both countries generally manage the dispute through diplomatic channels.
+
+Ceuta and Melilla are Spanish-controlled cities on the North African coast, which makes them the only places where the European Union shares an actual land border with Africa. For migrants from Morocco and countries further south, that fence is the closest thing to a walkable doorway into Europe, no boat across open water required, just a swim, a climb, or a rush through a checkpoint.
+
+That geography is precisely why both cities see recurring surges whenever conditions align, and why this week's events echo a similar mass crossing in 2021, when around 10,000 people entered Ceuta, many of them unaccompanied minors, overwhelming a city of only about 85,000 residents.
+
+## What is happening in Ceuta? Why Are People Fleeing Morocco to Spain?
+
+The short answer: a mix of desperation, opportunity, and a recent legal shift that changed the calculus for migrants and smugglers alike.
+
+Spain's Supreme Court recently ruled that migrants intercepted at sea near Ceuta or Melilla can no longer be summarily sent back under the enclaves' special "border rejection" rules, the fast-track process that previously let guards immediately return people caught at the fence. That ruling appears to have been seized on by smuggling networks, according to Spanish officials, who describe the surge as the work of "mafias and criminal organizations" exploiting the new legal opening.
+
+At the same time, Spain's government has been processing a wave of applications under a program designed to grant legal status to roughly 500,000 undocumented migrants already in the country, a policy that has drawn double that number of applicants and, critics argue, may be signaling to would-be migrants that Spain is an easier destination than other parts of Europe.
+
+A Guardia Civil spokesperson summed up the shift bluntly: what had been a steady, manageable flow turned into what they called an outright surge almost overnight.
+
+For the people making the crossing themselves, the motivation is simpler. One migrant who reached Ceuta, still soaked from the swim, told reporters that police tried to stop him, but that determination carried him across anyway. Aid workers on the ground say those arriving include Moroccan nationals as well as people from further south in sub-Saharan Africa, among them entire families, evidence that this is less a single event than the latest peak of a long-running, region-wide pattern of economic and humanitarian displacement.
+
+## Is Spain Being "Invaded" by Morocco?
+
+The phrase "Spain invaded by Morocco" has been trending in searches this week, but it's worth being precise about what is and isn't happening. This is not a military incursion, and there is no indication the Moroccan state has ordered or directed the crossings. What's unfolding is a migration crisis: thousands of individual civilians, not soldiers, attempting to cross a border fence, often at serious personal risk and sometimes with fatal outcomes.
+
+That said, Spanish officials have leveled a 
+
+## How far is Morocco from Spain?
+
+Morocco and Spain are remarkably close to each other. At the narrowest point of the Strait of Gibraltar, the two countries are separated by about 14 kilometers (8.7 miles) of water. On a clear day, it's possible to see the coastline of Morocco from the southern Spanish town of Tarifa, and vice versa.
+
+The countries are also connected by Spain's two autonomous cities in North Africa, Ceuta and Melilla, both of which share land borders with Morocco. Travelers can reach Morocco from southern Spain by ferry, with crossings from Tarifa to Tangier taking about one hour, while ferries from Algeciras to Tangier Med or Ceuta typically take 60 to 90 minutes, depending on the route.
+
+Despite their close proximity, Spain and Morocco are separated by an international maritime border, and travel between them requires the appropriate travel documents. The Strait of Gibraltar is one of the world's busiest shipping lanes, linking the Atlantic Ocean with the Mediterranean Sea.
+
+## Spain's Response, and the Political Fallout
+
+Madrid has sent roughly 200 specialized police officers and 60 additional troops from the mainland to reinforce Ceuta. Spanish Prime Minister Pedro Sánchez was set to travel to the enclave alongside Interior Minister Fernando Grande-Marlaska to meet with security forces and local officials.
+
+On the ground, the disruption has been visible in daily life. Many shopkeepers in Ceuta kept their doors closed this week, with one clothing store owner telling reporters he needed to protect his business and family first, describing how migrants poured through the border fence within minutes during the early morning chaos.
+
+Politically, the crisis has reignited a familiar fight. Ceuta's mayor has called on Spain's national government to formally declare a state of emergency. Opposition leader Alberto Núñez Feijóo accused the Sánchez government of failing to confront what he called a national security crisis. The criticism hasn't stayed within Spain's borders, either, Italy's foreign minister publicly described Sánchez's migration approach as misguided, underscoring how a local border crisis in North Africa is now reverberating through wider European debates over migration policy.  
+_  
+(Inputs from Reuters)_
+
+---
+
+### Karnataka cabinet expansion likely on Monday; Congress MLAs vie for berths
+*SECTIONS Karnataka cabinet expansion likely · business*
+
+Bengaluru: With the Karnataka Cabinet expansion likely to take place early next week, several Congress MLAs on Friday openly pitched for ministerial berths, while many leaders indicated that the final decision would be taken by the party's high command after consultations in Delhi.
+
+The speculation gained momentum after a nearly two-hour-long meeting was held at the residence of AICC president Mallikarjun Kharge in the national capital.
+
+  
+
+Speaking to reporters here, Congress MLA Basavaraj Rayareddi on Thursday said the party's high command was expected to finalise the list of new ministers soon.
+
+"Expansion is up to the party High Command and the Chief Minister to decide. It might happen on Monday. I am not an aspirant. It is the party and the Chief Minister who will decide about that," Rayareddi said.
+
+Congress MLA Ashok Pattan said an announcement on the cabinet expansion is likely on Sunday evening or on Monday morning.
+
+"A meeting was held this evening at the residence of AICC president Mallikarjun Kharge. The meeting lasted for about two hours. As per my information, AICC general secretary KC Venugopal will arrive on Sunday evening, and an announcement is likely to be made either on Sunday evening or on Monday morning," Pattan said.
+
+When asked about his ministerial aspirations, Pattan said, "Yes, I am an aspirant. Nobody knows whose names have been cleared yet."
+
+Congress MLA Nayana Motamma also expressed optimism about the swearing-in ceremony taking place on Monday.
+
+"From what I understand, the cabinet expansion or the swearing-in ceremony is likely to take place on Monday. I believe the High Command will send its final list on Sunday night," she said.
+
+Motamma said she had met the party leadership, including the Congress president and senior AICC leaders. She said that she would be happy to serve the party and the government if the Congress high command decides to provide opportunities to youngsters, considering women's reservation.
+
+Congress MLA Shivaraj Tangadagi said senior leaders had informed them that the decision would be announced soon.
+
+"Our leaders and senior leaders held a meeting today. After the meeting, they said the decision would be announced tomorrow. I am confident that I will get an opportunity," Tangadagi said, adding that he would abide by whatever decision is taken by the party leadership and the Chief Minister.
+
+Senior Congress MLA Shivalinge Gowda also exuded confidence over the expansion, saying, "Everything will be known on Monday".
+
+When asked about the reported swearing-in ceremony, Gowda said, "Yes, it will happen on Monday, 100 per cent. There is no doubt about it," adding that he was hopeful of being inducted into the Cabinet.
+
+Meanwhile, Congress MP Randeep Surjewala refrained from commenting on the timeline, saying, "At this juncture I have no comments to make. Our Chief Minister and PCC president will tell you when the date of cabinet expansion is."
+
+Earlier this week, Karnataka Deputy Chief Minister G Parameshwara said the cabinet expansion would take place only after discussions between Chief Minister DK Shivakumar, senior state leaders and the Congress high command, with the final decision resting with the party leadership.
+
+The Karnataka Cabinet currently has 14 members, including Deputy Chief Minister G Parameshwara, following Shivakumar's appointment as Chief Minister on June 3.
+
+---
+
+### An AI-designed enzyme edited rice DNA. Is this Indian farming’s future?
+*Radifah Kabir · general*
+
+Hold a grain of rice between two fingers. It is the most ordinary thing in India, so ordinary it has become almost invisible, the quiet centre of a billion meals a day, the first solid food of the newborn and the last offered to the dead. We have been improving it for 10,000 years in the only way we knew, by choosing the best plants, saving their seed, and waiting a whole season for the harvest to tell us whether we had chosen well.
+
+In a laboratory in Cuttack, that ancient, patient bargain was quietly rewritten.
+
+A small team slipped a set of molecular instructions into a living rice cell, and then there was nothing left to do but wait. What made the waiting almost unbearable was the messenger.
+
+The team behind POC1 at the ICAR-National Rice Research Institute, Cuttack, where an AI-designed enzyme was first shown to edit a crop. (Photo: By special arrangement)
+
+The tool carrying those instructions had never existed in nature, in any bacterium, plant, or animal that had ever drawn breath across four billion years of life on Earth. It had been conjured, letter by letter, by artificial intelligence.
+
+“There was a real scientific tension in the lab back then,” Dr Kutubuddin Ali Molla, who led the work at the ICAR-National Rice Research Institute (NRRI) in Cuttack, told _India Today Digital_. “Nearly every day, we talked about potential outcomes, wondering if the experiment would be successful or if we had missed something.”
+
+The question was almost childlike in its simplicity. Could an enzyme dreamed up by a machine cut the DNA of a plant?
+
+The answer, it turned out, was yes. And in that single syllable, a rice cell in Odisha eased open a door that plant science had never before walked through.
+
+### THE ENZYME THAT NATURE NEVER MADE
+
+To understand what happened in Cuttack, you first have to meet the enzyme, and reckon with where it came from.
+
+Its name is OpenCRISPR-1. It is a nuclease, which is simply a protein that snips DNA at a chosen spot, the way scissors part a ribbon. Its provenance is the astonishing part.
+
+In 2025, scientists at the American artificial intelligence-first protein design company Profluent Bio did not go prospecting for it in some obscure microbe, as every widely used gene-editing enzyme before it had been unearthed.
+
+Instead, they trained large language models, the same broad family of artificial intelligence that animates today’s chatbots, on more than a million natural CRISPR systems, and asked the software to compose a wholly new one. The result, published in _Nature_, was OpenCRISPR-1.
+
+Edited rice raised to maturity in the institute's glasshouse, the proof that an enzyme built by a machine can carry all the way from a single cell to a grain-bearing plant. (Photo: Radifah Kabir)
+
+It is a chain of 1,380 amino acids, the tiny building blocks that link up to form any protein. In more than 400 of those spots, it differs from Cas9, the natural enzyme behind most gene editing today. Yet, in human cells, it cut just as neatly, and made far fewer mistakes.
+
+One doubt remained. Cas9 comes from bacteria and OpenCRISPR-1 has only ever worked in human cells. Nobody knew whether a tool built by a machine would work inside a plant, whose cells are very different from ours.
+
+The Cuttack team took the AI enzyme's genetic recipe and transcribed it into the dialect a rice cell reads most fluently, a routine step called codon optimisation.
+
+They christened the plant-adapted version Plant OpenCRISPR-1, or POC1. Their findings, first released as a preprint on January 22, 2026, now appear in the pre-eminent journal _New Phytologist__._
+
+### WHAT IT ACTUALLY MEANS TO EDIT A GENE
+
+Every living being carries its instructions in DNA, a code written in just four chemical letters: A, T, G and C. Change the letters, and you change the instructions.
+
+Gene editing is the craft of making that change deliberately, at one precise address in a genome of billions of letters.
+
+The tool that made it practical, and won its inventors a Nobel Prize, is CRISPR-Cas9, often likened to a pair of molecular scissors. A short strand of RNA acts as a satnav (satellite navigation), steering the Cas9 scissors to the exact spot where they cut.
+
+Rice cells stripped of their walls glow green under the microscope, a marker confirming the editing machinery has been delivered inside more than 80 per cent of them. (Photo: By special arrangement)
+
+When a cell repairs that cut, it often stumbles, adding or dropping a few letters. That small scar silences the gene. Scientists call it a knockout.
+
+For its opening test, the team used POC1 to make two incisions in a rice gene, 573 letters apart, and let the cell splice the loose ends together, excising the fragment in between. It worked. Across several genes, POC1 edited between 10 and almost 17 per cent of the cells it reached, a rate statistically indistinguishable from Cas9's.
+
+The machine's enzyme, in other words, could hold its own against nature's.
+
+### FOUR TOOLS FROM A SINGLE ENZYME
+
+Snipping a gene out is the blunt end of the craft. The real prize is finesse, and here the team went much further, fashioning POC1 into a full repertoire.
+
+The first refinement is base editing, which rewrites a solitary DNA letter without severing the strand, like correcting one typo without tearing out the page. One version converts an A into a G.
+
+Another turns a C into a T. POC1 manages both. Tellingly, its C-to-T editor outperformed the Cas9 equivalent at several targets, making the correction more reliable.
+
+The first sign of success: green shoots rise from clumps of edited rice tissue in a petri dish, the moment a laboratory edit begins its journey towards a whole plant. (Photo: By special arrangement)
+
+The second refinement is prime editing, the most versatile of all. Picture a search-and-replace function for DNA, able to rewrite short passages of code to order.
+
+POC1 could do this too, though at some sites, it trailed the sharpest Cas9 systems.
+
+Knockout, two kinds of base editing, and prime editing, all riding on an enzyme no organism ever produced. “We wanted to determine if it could be developed into a fully functional platform for plant genome editing,” Dr Molla told _India Today Digital._ It could.
+
+### THE PATENT PUZZLE AT THE HEART OF IT
+
+The most talked-about promise of this work owes less to biology than to lawyers, and here you, the reader, must slow down, because the story has a second side.
+
+Cas9 is ensnared in a long and costly thicket of patents, held largely by foreign institutions. Every Indian scientist or seed company hoping to turn a Cas9-edited crop into a product must thread those licences, and the expense eventually alights on the farmer.
+
+Dr Kutubuddin Ali Molla, who led the study, has already used POC1 to create disease-resistant and nitrogen-efficient rice. (Photo: By special arrangement)
+
+OpenCRISPR-1 was released as an open-source enzyme, expressly to sidestep that snare. “AI provides an interesting possibility to create whole new genome-editing enzymes from scratch and overcome the IP challenge for commercialisation of crops,” Dr K.C. Bansal, former Director of India's National Bureau of Plant Genetic Resources, tells _India Today Digital._
+
+Yet the picture is not immaculate, and Dr Molla is candid about it. A patent has, in fact, been granted to Profluent Bio on OpenCRISPR-1. The company has indicated, he says, that the enzyme is meant to circumvent existing licensing constraints rather than erect fresh ones.
+
+Whether that assurance survives contact with the real world will decide how freely the tool can travel. To smooth its passage, the Cuttack team has lodged its POC1 kits with the global non-profit repository Addgene for open use.
+
+### WHY INDIA HAS BEEN WAITING FOR A TOOL LIKE THIS
+
+For Dr Bansal, the allure is national as much as scientific.
+
+“It is quite consistent with India’s vision of Atmanirbhar Bharat in agriculture,” he tells _India Today Digital._ “With the availability of an open CRISPR system, India will not have to rely on solutions developed overseas.”
+
+The timing is auspicious. On March 30, 2022, India exempted the gentlest forms of gene editing, known as SDN-1 and SDN-2, from the onerous regulations that govern genetically modified crops, on the strict condition that no foreign DNA is left behind in the plant.
+
+India cleared its first gene-edited rice varieties, Pusa DST Rice 1 and DRR Rice 100 (Kamala), in 2025. (Photo: By special arrangement)
+
+In 2025, the country cleared its first two gene-edited rice varieties, Pusa DST Rice 1 and DRR Rice 100, nicknamed Kamala. Because POC1 leaves no foreign gene behind, crops made with it would tread the same lighter path.
+
+Asked what the technology might realistically deliver first, Dr Bansal does not equivocate.
+
+“Climate resilience is the most important issue,” he says. “Climate change is no longer a prediction. It is already impacting crop production.” A high-yielding crop, he adds, is worth little if it cannot weather a heatwave or a flood.
+
+### THE HONEST LIMITS
+
+None of this anoints POC1 a miracle, and its makers make no such pretence.
+
+Across the board, it matched Cas9 rather than dethroning it, edging ahead in places and falling short in others. In the one experiment carried all the way to whole plants, it actually trailed slightly, editing 36 per cent of lines against Cas9’s 48, a gap too small to be statistically meaningful but honest to report.
+
+Its off-target behaviour, the hazard of accidentally editing the wrong spot, has been measured in human cells but not yet in plants.
+
+Side-by-side trials show Pusa DST Rice 1 standing visibly healthier than its parent variety MTU1010 under both drought and severe salinity stress. The grain circles at the bottom confirm the yield difference: Pusa DST Rice 1 produces a significantly larger, denser harvest under both conditions. (Photo: Special arrangement/Dr Chinnusamy)
+
+Dr Molla intends to interrogate it with computational prediction followed by meticulous sequencing. And for now, the whole edifice rests on a single crop, rice.
+
+There is one further note of humility. At almost the same moment, an independent team also tested OpenCRISPR-1 in rice, in a study that cited the Cuttack preprint. Dr Molla is unruffled.
+
+“When a brand-new technique is independently verified by several labs, it boosts confidence in the area,” he says, calling the two efforts complementary rather than adversarial. His own group ventured further, he notes, building the base and prime editors the other team did not.
+
+### FROM THE LAB BENCH TO THE DINNER PLATE
+
+The story does not end at proof of concept. Dr Molla’s team has already used POC1 to create disease-resistant rice, now under evaluation, and rice that husbands nitrogen shrewdly, matching ordinary yields on roughly 70 per cent of the usual fertiliser.
+
+That is where the promise turns tangible. “A major impact could be on the availability of desired value-added crops for food processing,” Dr Bansal says, imagining faster, cheaper innovation coursing “from the lab to the fields of farmers, the food processing industries, and ultimately the plates of common people.”
+
+The steepest hurdle, Dr Molla cautions, is the long march from a promising edit to a field-ready variety, proven season upon season across India’s punishing spread of climates.
+
+An enzyme that never existed in nature just edited rice DNA. Indian scientists in Cuttack built POC1, an AI-designed, open-source gene editor that matches CRISPR-Cas9, and could help India grow climate-resilient crops without the usual patent burden. (Photo: Gen AI/India Today)
+
+Even so, something quietly historic happened in that Cuttack laboratory. The oldest companion of Indian civilisation, that grain held between two fingers, was rewritten by an enzyme that biology never invented.
+
+Curiosity, not fear, is what carried the team through the waiting. “Curiosity is frequently a more powerful motivator for scientists,” Dr Molla says.
+
+This time, curiosity edited a genome. You may never hold a grain of rice the same way again.
+
+\- Ends
+
+Radifah Kabir
+
+Jul 31, 2026 09:00 IST
+
+---
+
+### Japan earthquake toll rises to 34 as Kumamoto mall collapse search goes on
+*India Today World Desk · general*
+
+## A powerful earthquake in Kumamoto killed 34 people and trapped victims in a collapsed mall and factory site. The disaster has left thousands in shelters, strained power supplies and kept rescuers searching for survivors.
+
+The death toll from a powerful earthquake in southwestern Japan has risen to 34, the Kumamoto prefectural government said on Friday. The quake set off an explosion at a shopping mall, toppled a factory chimney and flattened homes.
+
+The magnitude 7.1 earthquake struck Japan's southern main island of Kyushu on Tuesday. Officials said 34 deaths had been confirmed as 
+
+More than 3,500 homes were still without electricity, and over 9,000 people were staying in shelters. Power sources were being added at shelters to provide air conditioning, as concerns grew in the days after the quake about illness linked to the sweltering heat.
+
+Search teams continued operations in the Kumamoto area on Friday, including at the collapsed Aeon Mall shopping centre in the town of Kashima, where some of the worst damage was recorded. The complex was crowded with thousands of people when the quake struck.
+
+The company said about 3,000 shoppers were evacuated to a parking lot before an explosion took place in another part of the mall, where some staff members had remained at work. The mall's second floor then collapsed, trapping people.
+
+At the site, seven people were confirmed dead and 11 had been rescued, Chief Cabinet Secretary Minoru Kihara told reporters in Tokyo on Friday. Authorities did not say how many people were still missing.
+
+In the Yatsushiro area, a search operation at a Nippon Paper Industries factory ended after a chimney collapsed in the quake, Kihara said. Searchers rescued 11 people there, while nine others were confirmed dead.
+
+With the death toll at 34, thousands still in shelters and rescue work continuing in badly hit areas, the earthquake has left widespread damage and disruption across parts of Kumamoto and Kyushu.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Jul 31, 2026 08:56 IST
+
+---
+
+### Asian markets rally as Microsoft profit sparks AI stock rebound
+*India Today World Desk · general*
+
+## Asian markets surged after strong Microsoft earnings reignited buying in AI-linked technology shares. The rebound eased immediate fears over AI spending returns even as yen volatility and oil risks lingered.
+
+Stock photo used for illustration
+
+Asian markets rose sharply on Friday, led by a rebound in South Korean and Japanese technology shares after strong gains on Wall Street. The rally came after Microsoft reported stronger-than-expected quarterly profit, easing worries over whether heavy spending on artificial intelligence would deliver returns.
+
+South Korea's Kospi jumped 16.5 per cent in early trade to 6,515.40, while Tokyo's Nikkei 225 climbed 5.5 per cent to 65,282.21. US futures edged higher and oil prices also moved up.
+
+Samsung Electronics surged 24.8 per cent and memory chipmaker SK Hynix soared 27.8 per cent as investors returned to AI-
+
+The rebound followed Microsoft's report of stronger-than-expected profit for the last quarter. Its shares jumped 15.5 per cent for their best day in nearly 18 years, with the results seen as a sign that big spending on AI is translating into profits. Traders moved back into technology stocks that had come under pressure over doubts about whether such large investments would bring adequate returns.
+
+Despite Friday's surge, the Kospi remains well below the peak of over 9,000 that it hit in June. In Japan, SoftBank Group, an investor in OpenAI, jumped 15 per cent, while chip equipment maker Tokyo Electron rose nearly 11 per cent. "The market went from throwing AI stocks overboard to fighting for the remaining seats before most traders had finished writing the obituary," Stephen Innes of SPI Asset Management said in a commentary.
+
+The dollar fell sharply against the Japanese yen overnight amid suspected intervention after trading above 160 yen for weeks. Japan's Nikkei financial newspaper said the intervention was coordinated, with the Federal Reserve Bank of New York conducting what is known as a "rate check", in which it asks banks to provide exchange-rate quotes for currency trades. After dropping more than 2.4 per cent, the dollar bounced back in early Friday trade, gaining 0.6 per cent to 160.59 yen.
+
+The Bank of Japan was due later on Friday to wrap up its policy meeting and was expected to keep interest rates unchanged. Analysts said the suspected intervention may have been timed to pre-empt speculative moves linked to the central bank's decision. "Intervention in support of the yen may not work any better now than it has previously, but the persistence of the Japanese authorities suggests to us that the yen will remain around the 160 level this year before staging a more sustained rebound next year," Jonas Golterman of Capital Economics said in a commentary. The euro fell to USD 1.1515 from USD 1.1524.
+
+Elsewhere in Asia, Taiwan's Taiex surged more than 7 per cent and Australia's S&P/ASX 200 added 0.5 per cent to 9,015.60. Oil prices rose on tensions between the US and Iran, with the Strait of Hormuz, a key waterway for oil transport, remaining largely closed. Brent crude, the international standard, was up 0.3 per cent at USD 87.14 per barrel. It had been trading near USD 72 a barrel before the Iran war began in late February.
+
+On Thursday, Wall Street's benchmark S&P 500 gained 1.7 per cent to 7,437.63, the Dow Jones Industrial Average added 1.2 per cent to 52,208.06, and the Nasdaq composite rose 2.8 per cent to 25,122.18. Overall, Asian markets rebounded strongly on Friday as AI-linked shares recovered, while currency moves in Japan and higher oil prices remained in focus.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Jul 31, 2026 08:54 IST
+
+---
+
+### Maharashtra Building Collapse: 4 dead, several trapped as four-storey building falls during repair works in Bhiwandi
+*Apurwa Amit · general*
+
+The building, named Kohinoor Apartment, had been marked ‘dangerous’ by the municipal corporation earlier. As per initial reports, the structure suddenly caved in, leaving several people trapped under the debris.
+
+Tragedy struck in Bhiwandi, Maharashtra, on Friday when a four-storey building collapsed, killing four people. The incident occurred while repair work was being carried out at the site.
+
+The building, named Kohinoor Apartment, had been marked ‘dangerous’ by the municipal corporation earlier. As per initial reports, the structure suddenly caved in, leaving several people trapped under the debris.  
+
+## **What exactly happened?**
+
+According to officials, a part of the Kohinoor Building in Balaji Nagar area of the powerloom town came down around 11:30 pm on Thursday. 
+
+Municipal officials said the building had 48 rooms, with 12 on each floor, and had earlier been declared dangerous by the civic authorities.
+
+Anticipating the worst, locals quickly moved many families to safer places. But before some residents could get out, the 'B' wing of the building collapsed, officials said.  
+
+## **Rescue operation underway**
+
+Authorities fear nearly 11 people remain trapped which includes six labourers and five residents. Rescue operations are currently underway.
+
+> #WATCH | Maharashtra | A body recovered from the site where a four-storey building partially collapsed in Bhiwandi, late night. pic.twitter.com/woAXSJjXFR
+> 
+> — ANI (@ANI) July 31, 2026
+
+“There are many such buildings in Bhiwandi that have been declared dangerous. While we are trying to rescue those trapped, I would advise people living in such buildings to vacate them immediately,” Bhiwandi Nizampur City Municipal Corporation Mayor Narayan Chaudhary said.
+
+A large multi-agency rescue operation is in progress. Teams from the National Disaster Response Force (NDRF), Thane Disaster Response Force (TDRF), and the local fire brigade are at the site. A dog squad, four fire engines, two ambulances, and heavy earth-moving equipment have also been deployed.
+
+---
+
+### US proposes $100,000 fee on post-study work permits, 3.6 lakh Indians hit
+*India Today Education Desk · general*
+
+## The proposed fee would apply to the Optional Practical Training (OPT) programme, which allows international graduates to work in the US for up to three years after completing their studies.
+
+US mulls $100,000 fee on post-study work permits for international students
+
+OPT, or Optional Practical Training, is a work authorisation available to international students studying in the US on an F-1 student visa. It allows eligible graduates to gain practical work experience 
+
+For years, OPT has been one of the biggest attractions of studying in the United States, giving graduates an opportunity to earn a US salary, gain industry experience and improve their chances of securing longer-term work visas such as the H-1B.
+
+After reports that the Trump administration is considering imposing a $100,000 fee on international students seeking post-study work authorisation in the US, many prospective students are wondering what OPT actually is and who would be affected if the proposal becomes policy.
+
+### WHAT IS OPT?
+
+OPT is not a visa. It is a temporary employment authorisation granted to students on an F-1 visa.
+
+Eligible international students can generally work in the US for:
+
+-   Up to 12 months after completing a bachelor's, master's or doctoral degree.
+-   Students graduating from eligible STEM (Science, Technology, Engineering and Mathematics) programmes can apply for an additional 24-month STEM OPT extension, allowing them to work for a total of 36 months.
+-   The employment must be directly 
+
+### WHO WOULD BE AFFECTED?
+
+If the proposed fee is implemented, it would primarily affect:
+
+-   International students graduating from US universities on F-1 visas.
+-   Students planning to apply for post-study work authorisation under OPT.
+-   STEM graduates seeking the longer 36-month work period.
+
+Indian students are likely to be among the worst affected. India is now the largest source of international students in the US. Many of them study STEM courses, which make them eligible for a 24-month OPT extension after graduation.
+
+For many Indian students, the chance to work in the US after completing their degree is a major reason to choose an American university. A sharp increase in the OPT fee could make studying in the US more expensive and influence future enrolment decisions.
+
+### WHY IS OPT SO IMPORTANT?
+
+For many international students, OPT serves as a bridge between university and long-term employment.
+
+It allows graduates to:
+
+-   Gain US work experience.
+-   Recover part of the high cost of studying abroad.
+-   Build professional networks.
+-   Improve their chances of obtaining employer sponsorship for an H-1B visa.
+
+Many technology, engineering, finance and research employers recruit international graduates through OPT before deciding whether to sponsor them for longer-term employment.
+
+### WHY IS THE PROPOSED FEE CAUSING CONCERN?
+
+According to a Wall Street Journal report, the Trump administration is considering a $100,000 fee for graduates seeking to work through OPT as part of a broader overhaul of student visa rules. The proposal has not yet been finalised, and it remains unclear who would ultimately pay the fee—students, employers or universities.
+
+If implemented, the measure could significantly reduce the attractiveness of US higher education for international students, especially those relying on post-study employment to offset tuition costs.
+
+However, the fee is not in effect. The proposal is still under consideration and has not been officially announced or implemented. Details, including eligibility, exemptions and the timeline, remain unclear.
+
+\- Ends
+
+Mridusmita Deka
+
+Jul 31, 2026 08:51 IST
+
+---
+
+### Delhi fire probe exposes major lapses: Illegal cables delayed rescue, untrained officials under scrutiny after
+*DNA Web Team · general*
+
+A probe into the Palam Vihar fire found illegal cables, equipment failure, and poor training delayed rescue efforts, leading to nine deaths.
+
+An official inquiry into the March 18 fire at a building in Delhi's Palam Vihar has uncovered serious failures by several government agencies, raising fresh concerns about the city's emergency response system. The 85-page report says illegal overhead cables delayed rescue operations, key firefighting equipment failed without any backup plan, and officials responsible for investigating the incident lacked proper technical training.
+
+The report, submitted by the South-West district magistrate to the Delhi government's Home Department, examined the circumstances surrounding the fire that killed nine people.
+
+### **Rescue delayed after firefighting lift got stuck**
+
+One of the inquiry's biggest findings is that firefighters lost valuable time because the Bronto Skylift, used to rescue people from high-rise buildings, could not reach the building properly.
+
+According to the report, the lift became obstructed by a network of illegal overhead telecom and internet cables. Firefighters had to manually move low-hanging wires using hooks, while local residents helped remove banners blocking the vehicle's path.
+
+The report says the equipment eventually failed, and there was no backup rescue plan in place.
+
+By the time another Bronto Skylift reached the spot, all nine people trapped inside the building had died.
+
+### **Report points to electrical short circuit**
+
+The inquiry found that the fire most likely started due to an electrical short circuit near the ground-floor miniature circuit breaker (MCB) unit. It said the flames spread quickly because combustible material had been stored inside the building.
+
+### **MCD, Fire Services face criticism**
+
+The report has criticised both the Municipal Corporation of Delhi (MCD) and the Delhi Fire Services (DFS) for several lapses.
+
+According to the inquiry, MCD failed to enforce licensing rules properly. While trade licences had been issued only for the basement and ground floor, commercial activities had spread to the first floor as well.
+
+The report also said encroachments, banners and other obstructions on the road reduced access for emergency vehicles.
+
+MCD officials did not respond to requests for comment.
+
+Delhi Chief Fire Officer A.K. Malik said the department had not yet received the report and would comment only after reviewing it.
+
+### **Operators had no official training**
+
+The inquiry also found that the firefighters operating the Bronto Skylift had never received formal training despite handling the equipment for nearly two years.
+
+Instead, they learnt to operate it from senior colleagues.
+
+The report recommends specialised training for operators of advanced firefighting equipment and asks the government to prepare standard operating procedures after every major fire.
+
+### **Probe questions investigator's expertise**
+
+The inquiry has also raised concerns about the investigation conducted after the fire. It says the Assistant Electrical Inspector leading the statutory probe admitted he had received no technical training after joining the department.
+
+According to the report, he also told investigators that he had failed to determine the cause of any of the eight or nine previous fire cases he had handled.
+
+Calling the situation "sad and shocking", the report questioned how an officer responsible for investigating electrical accidents could perform his duties without proper training.
+
+### **Recommendations for reforms**
+
+The inquiry has recommended bringing all internet and cable operators under a proper regulatory system and making identification markings on cables compulsory.
+
+It has also suggested strict action against companies found to have installed unauthorised cables. Other recommendations include filling vacant posts in Delhi Fire Services, improving training, setting up an expert committee to examine why the Bronto Skylift failed, and strengthening the fire department's communication system.
+
+The report said firefighters "cannot be blamed" because they made their "best possible efforts" despite equipment failure, but stressed that Delhi's firefighting system now requires a complete overhaul.
+
+### **Series of recent tragedies**
+
+The Palam Vihar incident is one of several major civic disasters reported in Delhi this year.
+
+On June 3, a fire at a bed-and-breakfast in Hauz Rani claimed at least 21 lives, including 12 foreign nationals. Four days earlier, an illegal building collapsed in Saidulajab, killing six people.
+
+In May, another fire in Vivek Vihar claimed nine lives.
+
+---
+
+### Spain sends military to Ceuta after migrant surge leaves at least nine dead
+*India Today World Desk · general*
+
+## Spain is deploying the military in Ceuta after thousands of migrants crossed from Morocco. The surge left at least nine people dead and exposed fresh strain on the border.
+
+Image used for representational purposes only
+
+Spain said on Thursday it would deploy the military to help restore order at its border with Morocco in Ceuta after thousands of migrants entered the small Spanish territory, with at least nine people dying during the chaos. The government said the Armed Forces would assist the Civil Guard to “maintain security in the city of Ceuta”.
+
+The move came after authorities in Ceuta sought reinforcements from Madrid as large crowds breached the border fence. Prime Minister Pedro Sanchez is due to visit Ceuta on Friday along with Interior Minister Fernando Grande-Marlaska.
+
+Rachid Sbihi, head of the association representing Spain’s Civil Guard officers policing the border in Ceuta, told The Associated Press that “the situation is absolute chaos”. “It’s not possible to give precise numbers, but there are thousands of migrants crossing,” he said, adding that the border had “totally collapsed”. Achraf Maimouni of the Moroccan Association for Human Rights in northern Morocco also described the situation as “exceptional”. “The Tarajal border was opened under unusual circumstances this morning and people crossed,” he said.
+
+Video footage showed crowds, mainly Moroccans, walking around the breakwaters at Tarajal beach and onto local roads. Most appeared to be young men, though families with women and small children were also seen. Some shouted “Viva Espana!” to a freelance photographer working for the AP. It was not immediately clear what had prompted so many migrants to cross into Ceuta.
+
+Spain’s government delegation in Ceuta said at least nine people died on Thursday, though it did not give details on how they died. Bodies could be seen floating in the water. Local authorities said dozens have died this year while trying to reach Ceuta.
+
+The latest surge followed a rise in attempts to reach the enclave, mainly by swimming, on Wednesday. Morocco has not publicly commented on the crossings, and its Interior Ministry did not respond to requests for comment. Spain’s Interior Ministry said Morocco was “closely cooperating” and that Moroccan police were stopping “numerous people” trying to cross. Both countries agreed to work together “for the return, as soon as possible, of all the people who entered Ceuta illegally.”
+
+Spain’s Interior Ministry also said it would guarantee the safety of citizens and the integrity of the border, but added that a national emergency could not be declared over migration concerns, as Ceuta’s authorities had requested. The disruption also had an effect in Italy, where Prime Minister Giorgia Meloni threatened to suspend Italy’s open-border Schengen agreement with Spain “to defend our borders and ensure the safety of our citizens”, although Italy does not share a border with Spain.
+
+Ceuta’s authorities had earlier linked the increase in arrivals to a Spanish Supreme Court ruling this month that barred the immediate return of migrants arriving by sea without due process. The ruling does not apply to migrants entering Spain by land, including by climbing the border fence. Some activists in Morocco questioned that explanation, saying most migrants would not have been aware of such legal decisions.
+
+Spain remains a major entry point into Europe for migrants seeking better economic opportunities or fleeing violence in their home countries. To reach Ceuta on the northern African coast, migrants often swim from the Moroccan town of Fnideq, a journey of about 5 kilometres, while others attempt the crossing from nearby Belyounech, where the distance is shorter.
+
+The scenes recalled the May 2021 border crisis, when more than 8,000 migrants entered Ceuta in two days. At the time, Morocco was accused of easing border controls after Spain allowed Polisario Front leader Brahim Ghali to be treated in a Spanish hospital, sparking a diplomatic crisis between Rabat and Madrid. The Polisario Front says it represents the Sahrawi people of Western Sahara, which Morocco claims as its own.
+
+Juan Jesus Vivas, the head of Ceuta’s regional government, asked the national government to declare an emergency on national security grounds and send more police as well as the army to the border “to guarantee the inviolability of the frontier and citizen safety”. He had warned on Wednesday that reception centres were overwhelmed and that hundreds of people were sleeping on the streets after more than 1,500 migrants entered the territory in the past week. Thousands more crossed overnight and on Thursday.
+
+Spain’s Interior Ministry did not confirm how many migrants had reached Ceuta in recent days, saying its next migration report would be published on August 3. Ministry figures showed that by July 15, nearly 3,000 migrants had entered Ceuta by land or sea this year. The ministry said laws on declaring national emergencies do not treat migration flows as a national security risk, and that agencies were “coordinating to respond with speed and efficacy to the situation in Ceuta”. The latest crossings have left Ceuta facing a fresh border crisis, with Madrid sending in the military, local authorities seeking more support and the reasons for the sudden surge still unclear.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Jul 31, 2026 08:46 IST
+
+---
+
+### 'Officials confused about who can ban whom': Telegram CEO Durov hits back after Russia charges him with terrorism
+*Unknown · world*
+
+Moscow: Telegram founder Pavel Durov on Thursday slammed Russia's recent decision to label him a "terrorist" after he refused to comply with state demands for mass censorship and surveillance on his platform.
+
+In a recent statement shared on X, Durov pointed out that he has been banned from "publishing information on the internet" under Russian law.
+
+Mocking the measures, he remarked, "Russia has designated me as a 'terrorist' for refusing its demands for mass surveillance and censorship on Telegram. Under Russian law, I'm banned from 'publishing information on the Internet'. Russian officials are clearly confused about who can ban whom from the Internet."
+
+  
+
+This comes after Russia's Federal Security Service (FSB) charged Telegram co-founder Pavel Durov with facilitating terrorist activities and launched procedures to place him on the international wanted list, according to Russian state-run news agency TASS.
+
+The FSB said Durov, who heads Telegram's administration, has been charged under Part 1.1 of Article 205.1 of the Russian Criminal Code, which pertains to assistance to terrorist activity.
+
+"Telegram administration head Pavel Durov has been charged... (with facilitating terrorist activities) as part of a criminal case under investigation, and an international warrant for his arrest has been issued," the FSB said, according to TASS.
+
+According to TASS, lawyer Vladimir Zherebenkov said Durov could also face arrest in absentia, highlighting it as a standard legal procedure required for extradition.
+
+"This is a standard procedure required to extradite a person to Russia. A Russian court issues an arrest warrant in absentia, after which Russian law enforcement agencies begin seeking his extradition, including through Interpol. Durov will likely face the same," Zherebenkov told TASS.
+
+Citing a legal representative, Sputnik reported that the criminal charges against Telegram's CEO Durov could carry a life sentence.
+
+Sputnik, attributing information to the FSB, reported that Russian authorities accused Telegram of failing to remove channels, chats and bots allegedly used by Ukrainian intelligence services to coordinate terrorist attacks and mass-casualty operations inside Russia.
+
+It further claimed that such activities had resulted in numerous fatalities, including women and children, and caused billions of dollars in material damage.
+
+Sputnik also reported the FSB's allegation that Ukrainian operatives used Telegram's dating service to pose as young women, befriend Russian men and recruit them into carrying out terrorist activities.
+
+The agency further claimed that since July 2025, Russian authorities had detained 46 young users of the dating service across 16 regions who were allegedly acting on instructions from Ukrainian intelligence to attack police officers and carry out arson attacks.
+
+Earlier, the 41-year-old billionaire had been charged with crimes on Telegram, including the spread of child sexual abuse material, fraud and drug sales, according to French prosecutors.
+
+At that time, Durov noted that operating a global communications platform is a tricky balance between privacy and security, adding that in Russia and Iran, the messaging company has been willing to be banned rather than cede to government demands.
+
+---
+
+### Indian-American father shares how lifeguard snatched son from deadly California surf
+*India Today Trending Desk · general*
+
+## Sumit Rai has described how a teenage lifeguard pulled his 10-year-old son Nathaniel from rough surf at Seabright Beach in California.
+
+Indian-American father shares how lifeguard snatched son from deadly California surf (Photos: ABC7News and Scott Vander Dussen)
+
+The Indian-American father of a 10-year-old boy who was rescued from the ocean by a teenage lifeguard in California has shared details of the terrifying ordeal, saying his son lost consciousness in the water and narrowly escaped death.
+
+Speaking to _ABC7News_, Sumit Rai said he believes only seconds separated his son, Nathaniel, from a fatal outcome.
+
+"Another two or three seconds, I don't think my son would have made it," Rai said.
+
+Rai was shocked to receive a phone call on the night of July 25 informing him that Nathaniel, who had been holidaying in California with his mother and eight-year-old sister, had been caught in a drowning incident earlier that day.
+
+Describing what happened, Rai said Nathaniel realised he was drowning before losing consciousness in the water.
+
+"From what I gathered, he assumed he was going to die. He was drowning. He knew he was drowning. He blacked out. He went unconscious. When he came out of the water, he was clearly limp. It doesn't look like he was breathing," Rai told _ABC7News_.
+
+He credited the swift response of 16-year-old Santa Cruz lifeguard Ryder Williams, fellow lifeguard Aaron Bohnen and others at the beach with saving his son's life.
+
+"We're just lucky. Fortunate, because of Ryder and those people that helped, that he actually survived this," Rai said.
+
+Nathaniel was swept into rough surf by powerful waves at Seabright Beach, prompting a dramatic rescue that lasted about two minutes. As horrified onlookers watched, Ryder Williams plunged into the water, battled the crashing waves and brought the 10-year-old safely back to shore.
+
+The rescue was captured by Scott Vander Dussen, whose footage later went viral on social media.
+
+Speaking about the dramatic incident with _ABC7News_, Vander Dussen said the presence of trained lifeguards proved crucial.
+
+"If the lifeguards weren't there, it would've had a different ending," he said.
+
+Rai also expressed heartfelt gratitude to everyone involved in the rescue, saying no words could adequately convey what they had done for his family.
+
+"God bless them and, you know, thank you. I cannot express sufficient gratitude. There's nothing more valuable to me than my children. And so to save one of them and their lives, especially at such a young tender age, you know, which is such a premature way to lose someone. I can't thank them enough," Rai said.
+
+Meanwhile, Nathaniel remains in California as he continues recovering from the traumatic experience.
+
+Looking back at the viral rescue video, Rai said he still struggles to watch it without thinking about how close his son came to dying.
+
+"If I was watching that video, I wasn't sure if he'll make it if I hadn't seen the end of it. And I wasn't sure, honestly, if the lifeguard would make it out with those conditions. I'm just so grateful that Ryder and others were there to help pull him out and save his life. Otherwise, I can't imagine what life would look like today," Sumit Rai said.
+
+The heroic rescue has made headlines as Ryder Williams received praise from across the United States. President Donald Trump has also invited the teenage lifeguard to the White House to present him with a civilian honour.
+
+\- Ends
+
+Jul 31, 2026 08:45 IST
+
+---
+
+### Q1 results: Maruti Suzuki, ITC, Indian Oil, ABB India, 107 more on July 31
+*Business Standard · business, entrepreneur, finance*
+
+Q1FY27 company results: Firms including Bajaj Finserv, Aditya Birla Capital, GAIL (India), Shree Cement, Dixon Technologies, and Sun Pharmaceutical are also to release their April-June earnings today
+
+[Read full article](https://www.business-standard.com/companies/quarterly-results/q1-results-maruti-suzuki-itc-indian-oil-abb-india-107-more-on-july-31-126073100156_1.html)
+
+
+---
+
 ## 30 July 2026
 
 ### MV Electrosystems IPO opens today: GMP hints at 25% listing gains, should investors apply or skip?
