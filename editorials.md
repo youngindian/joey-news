@@ -1,8 +1,291 @@
 # Editorials
 
-_Last updated: 2026-07-31 05:02 UTC_
+_Last updated: 2026-08-01 04:54 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 1 August 2026
+
+### A healthy tax: On taxing foods high in fat, sugar and salt
+*The Hindu · Editorial*
+
+India, which has a long history of addressing the challenges of undernutrition, has to pivot to attack the curious phenomenon of overnutrition that evolving lifestyles have now laid at its door. The recent National Family Health Survey data showed that in India, while stunting and undernutrition continue to be cause for concern, despite some gains, the sharp rise in adult overweight and obesity, besides diet-related metabolic conditions, cannot be ignored any more. Two unrelated developments have advanced the question of unhealthy diets in very pointed suggestions that would nudge consumers to make the right choices. First, a Parliamentary Standing Committee has recommended mandatory front-of-pack nutrition labelling indicating whether packaged food products are high in sugar, and second, a national consortium has advised the government to levy a health tax on high fat, salt and sugar foods, and enforce stricter regulations on their advertisements. The Standing Committee on Consumer Affairs, Food and Public Distribution also made a recommendation to include the sugar content in baby foods, attacking the excess sugar consumption issue right where it begins. The consortium on adolescent nutrition, which goes by the practical name Let’s Fix Our Food, is led by the Indian Council of Medical Research-National Institute of Nutrition (ICMR-NIN), and comprising several other prominent institutions in India and abroad, has recommended that the government ensure a healthier school food environment, stricter regulation of marketing of unhealthy food, and front-of-pack nutrition labelling. These efforts will be among the steps to tackle the rising burden of obesity and diet-related non communicable diseases that require a comprehensive strategy helmed by the government.
+
+According to the World Health Organization, since 2017, at least 133 countries have increased or introduced a new health tax. A “junk food law” came into force in Colombia in 2023, to tackle the high consumption of packaged foods. An additional tax on such foods began at 10%, rose to 15% the next year and touched 20% the subsequent year. Norway, Hungary, Denmark, Bermuda, Dominica, St. Vincent and the Grenadines, and the Navajo Nation (U.S.), have also specifically implemented taxes on unprocessed sugar and sugar-added foods. With the ICMR-NIN report indicating that over 17 million children and adolescents are affected by obesity, and that this number can cross 27 million by 2030, there cannot be a better time to act on these suggestions that will go a long way in educating the consumer to make healthy food choices.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/a-healthy-tax-on-taxing-foods-high-in-fat-sugar-and-salt/article71290917.ece)
+
+---
+
+### Force of law: On the Delhi police
+*The Hindu · Editorial*
+
+The extent and the nature of police action, which continues in Delhi against student protesters, remain a matter of grave concern for India’s democracy. The Supreme Court of India is seized of the matter, but it has done little so far to restrain the police, which appears to be acting outside of the law. To have an independent inquiry that examines the allegations being raised — as is being considered by the Court — is one thing. But an accountable police force would have swiftly acted to preserve its own honour and reputation, considering what is already available in the public domain. Its male officers in uniform appear in videos slapping a woman protester, and attempting to bring down a lathi on the private parts of a girl. The Delhi police is actively pursuing protesters who were apparently present at the protest site, using facial-recognition and other surveillance technologies, the legality of which remains dubious and controversial. Yet, it has offered no response regarding the identity of the officer seen openly assaulting a young woman at a public gathering. The Delhi police would not require any software or Court intervention to identify and hold its own personnel accountable. All it needs is professionalism and a strict adherence to the principle of the rule of law.
+
+There is also a simultaneous law-enforcement sweep against freedom of expression, both online and offline, targeting critics of the government. The police appears eager to proceed against people merely for saying something. Abusive language has indeed been used by some content creators against government functionaries. If any of that warrants police action, the applicable law should be clearly cited, and due process should be followed transparently. Instead, there are reports of arbitrary police action that appears intended more as intimidation than law enforcement, targeting protesters, their families and, in some cases, even social media platforms. At the same time, the police seem uninterested in acting against online mobs that are threatening and abusing the protesters. The Delhi police has maintained that criminals infiltrated the protests. Those involved in violence must certainly be identified and brought to justice in accordance with the law. The force has also not explained the circumstances under which pellets were fired at protesters. Police practices must adhere to established rules and standards, and any breach must be dealt with firmly. This is an occasion for both the Centre and the Court to underscore a basic constitutional principle: nobody, including the police, is above the law. The government should not appear to have gone back on its promises to the agitating students, who called off the protests once their demands were met. That would only entrench cynicism and deepen resentment among the youth who turned up in their thousands at Jantar Mantar.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/force-of-law-on-the-delhi-police/article71290227.ece)
+
+---
+
+### Gen Z’s voice must lead to a humane education system
+*The Hindu · Opinion*
+
+With the successful demonstration by the Cockroach Janta Party, a point has been made. A light has been shown in our national darkness. We can use that light, or we can continue to curse the darkness. The choice is always there. Gen Z has pronounced a fiat. It will be wise on our part to take heed. The education system needs not just an overhaul but also a complete change. A change in policy itself. We must now sit down and work out a system in which examinations are seen as fair, conducted professionally, and taken happily and voluntarily. Competitive examinations should no longer be associated with student suicides.
+
+India’s education system has produced extraordinary professional talent, yet its admission culture has also created a dangerous emotional environment in which marks, ranks, and single-shot competitive examinations are often treated as the sole measures of intelligence, worth, and future possibility. This must change.
+
+[Read full article](https://www.thehindu.com/opinion/lead/gen-zs-voice-must-lead-to-a-humane-education-system/article71291634.ece)
+
+---
+
+### DC Edit | Be Fair To The Children, Set Exam System Right
+*Deccan Chronicle · Editorial*
+
+After all the rumpus over Neet paper leaks and how it affected millions of lives as a retest was conducted and how it engendered a spontaneous protest by students and youth that spread organically, what we have is a law that spells out the most stringent punishment for culprits who leak question papers.
+
+The ruckus in Parliament was created by political parties that may have been aiming to hijack the protests run by students who had legitimate reasons to harbour fears over their future. The government’s response was confrontational and not constructive in trying to rebuild confidence. This betrayed the fact that the lawmakers were more intent on treating the symptoms rather than the disease itself.
+
+There is a plethora of warnings in the law to exam papers leakers and organised crime syndicates that play with the lives of students — more than 120 may have died in suicides associated with the stress of Neet — but there is nothing yet on whether the system of a unified entrance test must exist in its present form with all its contradictions and its clear slant favouring the rich who can afford to feed a Rs 70,000 crore coaching institute industry.
+
+The composition of a committee headed by a technocrat may have drawn unfavourable comment in the heat of parliament debate that was too often marred by invective and comments tending to classify people in three categories that were beneath contempt. How often the debate descended into a farcical game of personal abuse tended to show up the hollowness of the legislators’ approach.
+
+It is in how the Nandan Nilekani-led committee approaches the broad subject of a unified entrance test for the medical profession that will define what good it can do in course-correcting a system. It is obvious the system has too many inherent flaws. Tests are overseen by a national testing agency that is run with temps thus displaying a lack of seriousness in handling an extremely sensitive subject that has a direct bearing on the lives of millions of youth.
+
+Is there a clear case for doing away with the system as it exists now and reverting to the older methods by which the tests were run regionally or state-wise rather than in one national test leading to enormous stress on candidates? It is up to the committee to examine this aspect as well though its main task would be to find a way to bring about an equivalence not prevalent today in a system that treats a rural candidate with no access to specialised coaching on par with the urban elite crowd.
+
+The problem is not just technical which needs addressing on how the system can be made leak-proof and exams conducted in a foolproof way. It is not about crisis management. What is called for is a deeper study of the system and finding ways to make it equitable. Ideally, Neet can aim at only filling a national quota in medical and allied seats while states run their own entrance tests to seats in colleges on their soil. And running separate tests for allied subjects in nursing, paramedical, physiotherapy and allied fields might increase the value of sectoral education.
+
+The fact is, in the age of knowledge, aspiration has globalised but opportunity in India is too limited to take care of the sheer numbers of youth involved, which is why so much emphasis is laid on centralised entrance tests. There are much larger issues that must be addressed because unemployment among the youngest is running at around 85%, according to reliable estimates. Of course, it is important that the most aspirational Neet test be redirected towards equitability first before systemic challenges are met.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-be-fair-to-the-children-set-exam-system-right-1975634)
+
+---
+
+### DC Edit | Hockey India: No Saffron, Please
+*Deccan Chronicle · Editorial*
+
+A saffron switch to the national game’s jersey has left a lot of former players and supporters feeling blue. Hockey India, the game’s governing body in the country, chose the colour popularly associated with the ruling Bharatiya Janata Party, triggering communal cries across the nation.
+
+Former captains of national hockey sides have vehemently condemned the choice saying blue is where the heart of Indian sportspersons is. In the latest twist, the top two officials at Hockey India do not seem to be painting from the same palette. President and former player Dilip Tirkey said the decision to turn saffron was taken without his knowledge while secretary Bhola Nath Singh insists all officials were aware of the change.
+
+Hockey India also tried to justify the move by saying the synthetic turf, on which hockey games are played, is blue and the old uniform was prone to blend with the surface, affecting on-field clarity and visibility for players. The national body also said that saffron symbolises courage, sacrifice and victory and no external pressure guided its decision. In that case, why not any other colour such as red or bright yellow?
+
+Though saffron is the top band of our flag, it is the blue from the Ashoka Chakra in the middle that has been widely used on national jerseys, across sports. The cricket players of Team India are better known as Men in Blue, because of the kit’s dominant colour even as ‘India’ and the players’ names and numbers are printed in saffron on the chest and back. A good deal of saffron does form part of the jersey and trousers too.
+
+There has been an instance of India’s cricket kit being changed to orange and navy blue, which got a thumbs down from furious fans, who likened it to the uniform worn by fuel-dispensing personnel at petrol filling stations. Sensing a severe drop in mileage, the Board of Control for Cricket in India quickly shelved the kit before the issue caught fire. However, to communalise colour is just not sport. Sportspersons sweat to earn ‘India colours’ as they call national jerseys. It doesn’t matter to them whether they are saffron, blue, white or green.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-hockey-india-no-saffron-please-1975642)
+
+---
+
+### Sanjeev Ahluwalia | Techno-protest: A New Red Flag Is Facing India
+*Deccan Chronicle · Opinion*
+
+Poor governance systems for testing about eight million candidates for admission into college -- the second largest examination process after China -- can be traced to the 2018 ambition to scale up quickly, like a start-up, on-the-cheap. The consequence? A handful of permanent employees in a registered society called the National Testing Agency (NTA) under the Union ministry of education.
+
+Add a layered multiplicity of state-level agencies for physically conducting the examinations, to keep costs low and yet tick the “inclusive governance” box. All this in a society where jugaad and hustling is a dominant skill waiting to exploit loopholes. The outcome is a porous system, unevenly empowered to monitor, detect or protect against fraud and collusion -- a powder keg waiting to explode.
+
+It took eight years for the accumulated faults and errors to discredit it in the eyes of the users -- the candidates and their families. Paper leaks, cancellations and re-examinations and errors in tabulating scores, reduced it to a farce from a marvel of scaled up public digital rails for higher education. To be fair, the objectives remain laudable -- reducing candidate stress from the earlier fractured system of appearing in multiple tests for admission to a specific university-level study programme.
+
+So, what forced the government to accept (a) the resignation of the Union minister in charge of education; (b) reform of NTA by proposing a high-powered committee headed by India’s celebrated, socially conscious, tech bro -- Nandan Nilekani – the man who mothered Aadhaar and subsequently the ONDC, a widely held, not-for-profit Section 8 company, competing with Amazon and Flipkart; (c) agree to compensate the families of students who committed suicide because of systemic NTA faults; and (d) to ignore the minor violations of the protesters gathered at Jantar Mantar, a designated spot in New Delhi for protests after permission from the government.
+
+The thirty-six-day long protest and a three week-long hunger strike was a novel agitation by Gen Z in Delhi and subsequently in a few other urban locations across the country. The never-before element was the leadership of an external saviour, very much in keeping with a globalised India -- Abhijeet Dipke -- an Indian student who jetted in from Boston University, carrying the Indian Constitution -- reminiscent of the Congress Party’s less successful strategy in Parliament to corner the BJP.
+
+Prior mobilisation on social media had already evoked a rapturous response and several million followers.
+
+Unsurprisingly, the physical response was less fulsome, with only a few thousands gathering at the protest site over the next month. Possibly, the sweltering, extreme heat of June dissuaded many.
+
+The Cockroach Janta Party is, for now, a social movement and not a registered entity. It focuses on student issues but more generally asserts liberal principles -- the right to mobilise to be heard directly by the government. It reeled in social media support by simultaneously partying even as a select few went on a hunger-strike. It welcomes strategic collaboration. Sonam Wangchuk -- a prominent, principled influencer and activist from Ladakh -- made common cause and led the hunger-strike, raising the stakes higher.
+
+Why has the government heard and negotiated with it so readily versus its reluctance during the agitation against the proposed farm legislation? The politically inclined point to the urban middle class, social base of the Gen Z protesters, which overlaps with the BJP’s core supporters, versus farmers in rural areas, where the BJP is less entrenched historically.
+
+More substantively, the CJP demands were pitched so low that they were worth considering -- change of the minister in charge, a standard demand when administrative lapses occur.
+
+Protection for the protesters from police retribution: a no-brainer because they were more sinned against than sinners.
+
+Compensation for the families of about a dozen students who committed suicide versus about 2,200 suicide cases, attributed to exam failure in 2022. In comparison, the year-long farmers agitation in 2020-21 sought to reverse new legislation for structural change via commercialised farming. They won because of the overwhelming numbers affected by the proposed changes.
+
+Should students expect an overhauled, secure system for admission examinations? Given the proposed formation of an “A team” for this purpose, there is reason for hope.
+
+Was it a mistake then to use an “out of government” model of a registered society in the first place? The gold standard for cooperatives has been the Gujarat Cooperative Milk Marketing Federation (GCMMF), better known by its brand name Amul. It remains the most successful scaled-up model of operations benefiting more than three million individual milk-producing members. The difference is that it is answerable to its beneficiaries and its institutionalisation largely due to Dr Verghese Kurien, whose...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/sanjeev-ahluwalia-techno-protest-a-new-red-flag-is-facing-india-1975658)
+
+---
+
+### In metro test, a lesson in self-reliance
+*Deccan Herald · Editorial*
+
+The imminent induction of new trains on Bengaluru’s Purple and Green Metro lines is welcome relief for thousands of commuters who have long endured overcrowded platforms and packed coaches during peak hours.
+
+With the Bangalore Metro Rail Corporation Limited (BMRCL) securing the crucial Internal Safety Assessment certificate and the final approval from the Commissioner of Metro Railway Safety expected shortly, additional rolling stock should begin entering service in August. While the new trains will improve passenger comfort and operational flexibility, they also expose the high cost of delays in planning and manufacturing critical transport infrastructure.
+
+There has been a series of setbacks, beginning with the award of a major rolling stock contract to a Chinese manufacturer in 2019. The Galwan clashes, subsequent restrictions on procurement from China, delays in establishing local manufacturing, the COVID-19 pandemic, supply-chain disruptions, and prolonged statutory testing all combined to slow deliveries.
+
+Metro overcrowding to ease in Bengaluru; BMRCL gets ISA nod for new DTG trainsEven after the trains were built, they had to undergo rigorous technical evaluations before being cleared for passenger service. The episode demonstrates how vulnerable public infrastructure projects become when supply chains are concentrated in too few hands.
+
+The lessons extend beyond Bengaluru Metro. India is witnessing an unprecedented expansion of metro rail systems, not only in metropolitan centres but also in Tier-2 cities. Demand for coaches, signalling systems, propulsion equipment, and spare parts is set to grow steadily over the coming decades.
+
+Karnataka is well placed to seize this opportunity. The state already possesses a strong industrial base, a thriving automotive components ecosystem, advanced engineering talent, and a mature supply chain.
+
+Rather than viewing rolling stock procurement merely as a transport necessity, policymakers should see it as an opportunity to build a globally competitive mobility manufacturing hub. With services accounting for roughly 60% of the state’s economy, such diversification would broaden growth and reduce dependence on a single sector.
+
+Encouraging investment in coach production, component manufacturing, and maintenance facilities would generate high-value employment while reducing dependence on overseas suppliers. The state should back this ambition with a dedicated policy that strengthens India’s push for greater self-reliance.
+
+Bengaluru’s mobility challenges are unlikely to diminish as the city grows, and reliable public transport will remain central to its future. The new trains should therefore be seen not as the end of a long delay, but as the beginning of a broader industrial strategy. Expanding metro capacity is important, but building the capability to manufacture the trains locally may prove even more valuable.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/in-metro-test-a-lesson-in-self-reliance-4095022)
+
+---
+
+### The perils of imposed nationalism
+*Deccan Herald · Editorial*
+
+National symbols, by design, unite people and reflect the shared and aspirational values of the country. They exist above the partisan politics of governments and parties.
+
+However, with the passage of a bill that elevates Vande Mataram to the status of the national anthem and makes any insult or obstruction to its singing a punishable offence, the Union government has turned the national song into a polarising text.
+
+The bill amended Section 3 of the Prevention of Insults to National Honour Act, 1971, expanding the scope of legal protection to Vande Mataram. The amended law penalises whoever intentionally prevents the singing of Vande Mataram or causes disturbance to its rendition by any assembly.
+
+The punishment of up to three years’ imprisonment, or fine, or both – relevant to the national anthem under the original act – now also applies to the contentious full version of the national song.
+
+Vande Mataram Bill passed in Lok Sabha amid Opposition uproar Vande Mataram, written by Bankim Chandra Chatterjee and published in his novel Anandamath in 1882, was a rallying cry for patriots during the freedom struggle.
+
+Since some of the song’s stanzas have Hindu religious imagery, members of minority communities, especially Muslims, were uncomfortable singing those segments. Taking these apprehensions into consideration, the Congress Working Committee (CWC) in 1937 recommended only the first two stanzas of the song.
+
+Last year, while inaugurating celebrations around the song’s 150th anniversary, Prime Minister Narendra Modi claimed that the omission eventually led to the partition of the country – a prejudiced interpretation of a decision that reflected the spirit of the freedom struggle.
+
+It was also a statement out of tune with the national ethos. While championing the bill in Parliament, the government invoked Vallabhbhai Patel. Ironically, Patel had supported the 1937 CWC resolution.
+
+The amended law has been framed as a challenge to the minority communities and weaponises the national song. National symbols call for willing compliance; they should not be imposed on people. Mandating the rendition of the song’s six-stanza version undermines the nation’s secular fabric and conflicts with the Constituent Assembly’s intent when it adopted only two stanzas as the national song.
+
+The amended bill overrides the vision of the framers of the Constitution of India, the ultimate national symbol. It infringes upon the religious freedom of minority communities.
+
+True patriotism is inherently natural and inclusive. It must be cultivated voluntarily rather than imposed through overreach. Forcing compliance through legal coercion or the threat of punitive measures such as imprisonment risks encouraging a culture of political vigilantism.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/the-perils-of-imposed-nationalism-4095021)
+
+---
+
+### After the laughs
+*Deccan Herald · Opinion*
+
+“All this politics? I don’t do that, dude. I just tell jokes.”
+
+As a comedian, I’ve heard this countless times from fellow comics. On the surface, it sounds harmless. But there’s unseen labour in that statement: the mental labour of looking away. Ironically, a comedian’s job is to make people see.
+
+Many of us believe that jokes about relationships, dating, or Bengaluru traffic are somehow “apolitical”. But negotiating these spaces – how much we spend on a date, who we choose to date, whose perspective we centre, what aspects of a situation we choose to highlight – are all political choices. Politics isn’t confined to elections. It’s embedded in our everyday lives, our values, and our relationships. We have normalised these choices so completely that they appear neutral. They aren’t.
+
+The recent Gen Z-led protests made one thing clear to me: comedians and protesters have far more in common than either group would like to admit. Both raise their voices. Both challenge the status quo. Both are trying to change the way people see the world. Perhaps there’s a lot they can learn from each other, too.
+
+Every successful protest is, at its heart, a communication campaign. It isn’t just about expressing anger; it’s about making people pay attention. Protesters think deeply about messaging, symbolism, and emotional impact. They understand that sometimes less really is more. A single slogan, a clever placard or a satirical meme can spark more conversation than a hundred-page policy document.
+
+The pyre is not a petition: Ken-Betwa protests beyond valuationGen Z, in particular, has mastered the language of the internet. Their messages are concise. Their humour is layered with irony. Their slogans are designed to be photographed, shared, remixed, and quoted. Whether one agrees with their politics is almost beside the point. As communicators, they understand something many professionals don’t: attention is the first step towards influence. Comedians should be paying attention.
+
+Too often, I see comedians walk into open mics unprepared, relying entirely on improvisation or crowd work. While spontaneity has its place, good communication is rarely accidental. It requires intention. Protest movements spend hours crafting messages that can be understood in seconds. Comedians spend months polishing jokes, but sometimes forget to ask themselves the simplest question: What do I want my audience to leave thinking about?
+
+That said, both comedians and protesters have blind spots. One of the most obvious is gender.
+
+The recent protests, despite asking important questions, used language that reinforced the very stereotypes they sought to dismantle. Placards mocked politicians by comparing them to women, ridiculing men’s masculinity, or using feminine objects as symbols of weakness. For a generation that has taught many of us to think more carefully about pronouns, identity and inclusion, it was a surprising contradiction.
+
+Comedians are no different. Comedy has long relied on punching down – on jokes about women, queer people, minorities, and anyone perceived as “other”. We often defend these jokes as harmless or “just humour”, without examining the assumptions they reinforce. If both comedians and protesters are serious about creating a more thoughtful society, they must also be willing to interrogate their own language.
+
+Perhaps the biggest lesson for comedians is this: we are not just joke writers; we are framers of reality.
+
+Every night on stage, we offer audiences a particular way of seeing the world. Sometimes that perspective comforts. Sometimes it unsettles. Sometimes it simply reveals the absurdity hiding in plain sight. Whether we intend it or not, every joke communicates values. Every punchline suggests what deserves ridicule, what deserves empathy, and what we consider normal. That is influence.
+
+In an age of shrinking attention spans and endless digital noise, the people who shape public conversations won’t necessarily be those with the most information. They will be those who communicate with clarity, creativity, and emotional intelligence.
+
+Comedians and protesters are often seen as inhabiting different worlds. One entertains while the other agitates. One seeks applause while the other seeks action. I think that distinction is far too neat.
+
+Both are trying to persuade. Both are trying to build communities around shared ways of seeing. Both understand, in their best moments, that changing minds begins with changing perception.
+
+The next time a comedian insists they’re “just telling jokes” or a protester dismisses humour as frivolous, it may be worth remembering that history has rarely been changed by facts alone. More often than we like to admit, it has been changed by stories, symbols, and the courage to laugh at power.
+
+The writer is a stand-up comedian and actor based in Bengaluru.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/after-the-laughs-4095020)
+
+---
+
+### The making of a policy-literate citizen
+*Deccan Herald · Opinion*
+
+The quality of a democracy depends on an active citizenry. But active citizenship usually means voting once every five years or protesting when things go wrong. Both matter enormously.
+
+However, both have limitations. While elections are periodic, protests are reactive. Protests depend on a problem becoming bad enough to trigger them. Between elections and eruptions, long stretches of governance go unwatched.
+
+A few weeks ago, the authors of this piece got the opportunity to organise and run a two-day workshop for a cohort of Disom Foundation fellows. The fellows came from different parts of India and diverse socioeconomic backgrounds.
+
+Many of them have been working at the grassroots level, raising issues faced by their communities and fighting social evils such as untouchability and the devadasi system. Many young people are now seen signing up for fellowships and courses that equip them to drive change.
+
+As part of the workshop, we trained the fellows in public policy skills such as how to look beyond the budget speech and analyse the data in the budget documents. Apart from budget analysis, we covered the mechanics of policy formulation – diagnosing and defining a problem, identifying alternative ways to solve that problem, weighing these alternatives, anticipating and mitigating unintended consequences, and mapping stakeholders.
+
+India needs a new population policy to sustain the economyAdditionally, we brainstormed a few frameworks: the Overton window, Kingdon’s schema of understanding how policy windows open, and Wilson’s matrix for explaining what kind of change is politically possible.
+
+Watching the two days unfold, what struck us was the idea of what an informed citizen can do – someone who doesn’t just question a suboptimal policy but can identify what problem it was supposed to solve, how well it does that, and what a better alternative would look like.
+
+Democratic processes depend on inputs such as public comments, consultations, and representation in local bodies. These inputs are only as good as the people who are making them.
+
+A citizenry that understands trade-offs, not just grievances, can propose alternatives instead of just objecting to a proposal. It can tell the difference between a policy that is unpopular and one that is unfair. It can push a demand from the margins into the window of possibility.
+
+This is what it looks like for citizens to participate in shaping the policy discourse between elections, rather than participating only once every five years.
+
+However, this kind of participation remains largely rare. One primary reason is that the skills required for effective participation are themselves rare; it is not that citizens lack the willingness to participate.
+
+This is why we think policy literacy should be treated less as a specialist skill for bureaucrats, researchers, and activists, and more as a civic infrastructure – a competence that strengthens the republic. Building this infrastructure is the difficult part, and it does not happen by accident. First, it requires a widening of who policy education is built for.
+
+Though public policy education is fairly new in India, the country has had rigorous programmes in related disciplines such as public finance, governance, and public administration. However, these programmes typically cater to a narrow pipeline – young, urban, English-fluent, and headed towards government, consulting or academia.
+
+Fellowships like DISOM prove that there is a demand outside that pipeline. India needs more programmes in different formats to meet this real demand.
+
+Second, well-meaning individuals willing to fund such initiatives have to treat this as core and not peripheral. But this is difficult. The returns on capacity building are diffused and delayed, while the returns on service delivery – such as a vaccination drive or the provision of free meals – are more immediate and relatively easy to measure. Thus, funders might be inclined towards service delivery over capacity building. However, the leverage of capacity building is real – one informed citizen who can read the budget and hold an official accountable can affect the outcomes for thousands. Moreover, the skills compound as they are passed on to others.
+
+Third, the delivery channel for such education should not be restricted to civics lessons in classrooms. Public policy education should be incorporated from a young age.
+
+The application of public policy tools and frameworks will create greater agency. Also, existing channels closer to the ground should be leveraged, i.e., panchayats, cooperative societies, area sabhas, and even resident welfare associations (RWAs).
+
+When Janaagraha launched its “Ward Works” campaign in 2001, mobilising residents (including RWAs) to engage with the municipal budget, it helped make Bengaluru the first in India to adopt participatory budgeting.
+
+None of the above is to say that policy literacy substitutes the hard work of movement-building or that civic infrastructure makes protest and political contestation unnecessary. Democracies will need people willing to take to the streets when quieter channels fail. But quieter channels, if they function effectively, will reduce the need to take to the streets.
+
+A republic stands to benefit from citizens who function as a continuous, low-level check on the state, independent of election cycles or scandals. Therefore, it must invest in producing such citizens. Right now, that investment is ad hoc – a workshop here, a fellowship there. It should become normalised.
+
+Sarthak is a fellow at the Takshashila Institution; Sowmya is the Chief Operating Officer at Takshashila.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/the-making-of-a-policy-literate-citizen-4095027)
+
+---
+
+### The morning ritual
+*Deccan Herald · Opinion*
+
+Though a cliché, the statement that the morning newspaper is as essential as the morning coffee is very true even in this era of breaking news and live updates. Many people prefer reading to scrolling on smartphones in the relatively more peaceful morning hours. The pleasure of expecting the newspaper, therefore, never seems to wane.
+
+In my home, the first to pick up the nattily folded newspaper lying on the threshold is the sweeping maid, who places it on a nearby table. Later there is a scramble to get at the paper, which unfolds a variety of tidings, from the stray dog menace in the city to the latest situation of the Gaza war.
+
+My pert cousin, a cricket enthusiast, usually removes the sporting page; the editorial page is the first preference of my brother, who is anxious to know its views on the burning topics of the day; my son, an executive, likes to have the Business page. As I miss the satisfaction of having read the newspaper unless all the pages are with me, I wait till the others have finished.
+
+10-minute Kannada newspaper reading must in schoolsIn middle-class households, every copy of a newspaper is read not only by the buyer and the family but also by others who borrow it. In libraries, offices, and other institutions, one copy is read by many people. It would be interesting if statisticians estimated the average number of readers for every copy of a newspaper.
+
+Borrowers are sometimes in a greater hurry to read the paper than the subscriber. You feel gauche when, close on the heels of the paper-boy, the co-tenant’s kid barges into the drawing room where you are having a tête-à-tête with a guest and says in a husky whisper, “Dad wants today’s paper.”
+
+Not very long ago, I was travelling in a suburban bus. Despite the deafening cacophony of newspaper vendors at a wayside bus stop, hardly anyone bought a copy, though snacks were selling like hot cakes. I purchased my favourite newspaper as the bus was about to move and began reading it.
+
+As we were bowling along, I espied a young man opposite me who had hitherto been sitting with a distrait look, twisting his frame and cocking his head in an attempt to read the paper. Sympathising with his predicament, I handed it to him.
+
+A few minutes later, he folded it and was about to return it when a loquacious passenger beside him snatched it with an apologetic grin. I watched the paper change hands swiftly, reaching almost the other end of the bus. By the time the bus came to its final halt, there was no trace of the newspaper, and most of the passengers had already got down.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/the-morning-ritual-4095026)
+
+---
 
 ## 31 July 2026
 
@@ -88,6 +371,69 @@ There are also reports that the US is running low on munitions and anti-missile 
 Once the US airstrikes resumed, Iran too began retaliatory attacks, beginning with US military facilities in Jordan. There was always an indirect link between the Ukraine and Iran wars. Iran had been supplying drones to Russia for use and Ukraine had similarly transferred anti-drone munitions to the Gulf countries. A more direct link occurred when Ukraine attacked an Iranian vessel in the Caspian Sea. It was thus more...
 
 [Read full article](https://www.deccanchronicle.com/opinion/columnists/kc-singh-trumps-dilemma-over-iran-compromise-or-a-long-war-1975341)
+
+---
+
+### OF CABBAGES AND KINGS | Elections Loom In Trumpistan: Will Democratic Socialists Gain? | Farrukh Dhondy
+*Deccan Chronicle · Opinion*
+
+“I like wearing linen shirts --
+
+Hate ironing them after a wash.
+
+I love the taste of oranges
+
+But don’t care for orange squash
+
+If you identify this as doggerel
+
+And think I’m obsessed with trivia
+
+I don’t give a damn and wish you well
+
+And I even respect and forgive ya.”
+
+From Off Piste to Piste Off, by BachchooElections loom in Trumpistan, the first one on August 4 in Michigan. Commentators in the United States predict that the Democratic left-wing radical, Dr Abdul El-Sayed, a pro-Palestinian Muslim son of an Egyptian immigrant, who is campaigning on expanding Medicare for all and the abolition of certain customs and immigration regulations, will win.
+
+His election, a seeming aberration in the Maggot Republic, will confirm a drift, or even a determined turn, towards left-wing Democrats overtaking Maggots and even moderate Republicans.
+
+Zohran Mamdani’s mayoral election in New York could perhaps be seen as a landmark in this transformative journey. A group called the Democratic Socialists of America (DSA) are contributing to Dr El-Sayed’s campaign, though he is not formally a member. The DSA is also actively supporting several other candidates in the looming elections. There’s Francesca Hong in Wisconsin.
+
+Most prominently, there is Alexandra Ocasio-Cortez, a DSA member, who hasn’t put in a bid yet, but doesn’t rule out an attempt at the Democratic nomination for the presidency in 2028.
+
+By November, when the mid-term election results come in, we shall know if this shift is in fact a political tide moving towards the shores of Trumpistan or even one that might flood it with impeachment, replacement -- yes, cross your fingers, but don't hold your breath.
+
+What’s causing the shift?
+
+The DSA itself says that its support comes from the graduates --who face unemployment, unrewarding or inadequately- remunerative employment or who feel relatively poorer owing to inflation. Nate Silver, American psephologist, said this week that 40 per cent of post-grads who earn less than $60,000 annually describe themselves as supporters of the sort of national and international policies and stances that the DSA sports.
+
+The other factor, notable in the United States, is the expanding role of Artificial Intelligence, which has, purportedly, replaced very many of the jobs that the educated middle-classes might aspire to. There are no precise or absolutely reliable nation-wide statistics in the United States, which count the jobs that AI has taken from men and women, though the trend is certainly on the up -- and threatening.
+
+Reading about this fear (Is it a panic pushing this demographic leftward?) I asked an AI bot if Artificial Intelligence will replace newspaper and media commentators. So here, gentle reader, is what the bot said:
+
+“Newspaper columnists often provide unique insights, personal experiences, and creative viewpoints that resonate emotionally with readers. AI currently struggles to replicate this depth of human creativity and nuance consistently.
+
+“Columnists analyse complex social, political, and cultural issues, often challenging established views. AI can assist by providing data and trends but lacks genuine opinions and moral reasoning.
+
+“Readers trust columnists for transparency about biases and ethical stances. AI-generated content may face scepticism regarding authenticity and accountability.”
+
+Encouraging, or what??? (Don’t get foolishly carried away fd -- it’s early days yet –Ed).
+
+So, let’s leave the USA and consider Blighty, where statistics say there is no forceful trend towards graduate unemployment.
+
+Even so, two factors should surely be disturbing. The first is that newspapers -- all of them -- regional and national -- are laying off journalists by the hundreds. The BBC has, for the last two years, announced packages of redundancies, some voluntary some compelled. The market for freelancers supplying news outlets and the Beeb has virtually vanished. Other occupations, such as publishing, advertising and colleges and universities, have also been hit.
+
+The second factor is that of the exorbitant cost of getting a degree at a British university.
+
+When I was at Cambridge in the late 1960s, my British contemporaries were all funded by government grants. The State paid their fees and meals were provided in college. Of course, pocket money came from parents and even from holiday jobs, but none of them ran up the kind of debt that the present university population is compelled to do.
+
+This generous scheme of grants was abolished by Tory Prime Minister David Cameron and his chancellor George Osborne in 2015. They replaced it with a loan scheme, which compelled university students to borrow money from the State and pay their university fees through this. They used the rest of the loan to live.
+
+One student I know graduated with debts of over £50,000. She’ll have to repay this in instalments from her salary. How many decades will she be in debt?
+
+So far, the new PM Andy Burnham has not announced any measures ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/of-cabbages-and-kings-elections-loom-in-trumpistan-will-democratic-socialists-gain-farrukh-dhondy-1975625)
 
 ---
 
