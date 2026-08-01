@@ -1,3 +1,444 @@
+## 1 August 2026
+
+### Indian content creator gets the surprise of his life after Vir Das calls himself a fan
+*India Today Trending Desk · general*
+
+## Comedian Vir Das praised Sydney-based creator Gaurav Yadav and his office lunch videos on a podcast. The unexpected mention left Yadav emotional and drew warm reactions from viewers online.
+
+Indian content creator gets the surprise of his life after Vir Das calls himself a fan (Photos: @soisgaurav/Instagram)
+
+An Indian content creator living in Australia received an unexpected shoutout from comedian Vir Das, leaving him emotional after learning that one of the country's biggest comedians was a fan of his videos.
+
+Gaurav Yadav, an Indian based in Sydney, Australia, shared the moment on his Instagram account after discovering that Vir Das had mentioned him during a podcast. The clip quickly caught the attention of social media users, many of whom celebrated the wholesome interaction between the two creators.
+
+The video opened with Yadav beaming at the camera as he announced, "Vir Das mentioned me in a podcast." It then cut to a clip from the comedian's podcast, where Das spoke about one of his favourite creators on the internet.
+
+"My favourite social media handle on the internet is a guy who lives in Sydney, Australia," Das said. He went on to explain that Yadav worked a regular tech job and had built a following simply by filming himself eating his office lunches.
+
+"He's just a guy who works in tech. And he just eats and records himself eating on camera. And there's an appetite, sir. And people are just... watching him eat," the comedian joked.
+
+The video then switched back to Yadav, who was visibly overwhelmed by the praise. Thanking Das, he admitted he had never imagined that someone he had admired for years would even know who he was.
+
+"Vir Das, thank you. I would never have imagined that somebody I have looked up to for years would even know that I exist," he said.
+
+Reflecting on the moment, Yadav added that hearing the comedian call him one of his favourite creators made him realise how unpredictable life could be. "Life is weird. So damn weird, actually. You never know where it's gonna take you. So nice of him," he said with a smile.
+
+In the caption accompanying the post, Yadav detailed on how his content journey had begun with a simple idea. He wrote that when he first started filming himself eating lunch during his 9-to-5 job, he believed only a handful of people would relate to it.
+
+Never, he said, had he imagined that a comedian he had watched for years would recognise his work, let alone publicly call himself a fan.
+
+Using the moment as encouragement for others, Yadav urged people not to abandon their passion projects while pursuing conventional careers.
+
+He wrote that people should earn their degrees, do their jobs and pay their EMIs, but continue building something of their own because they never know where a small side project might lead. He ended the post by thanking Das, saying the recognition genuinely meant a lot to him.
+
+Watch the video here:
+
+The post received attention from viewers, who congratulated Yadav on the unexpected recognition.
+
+Many said he had become one of their favourite creators as well, while others jokingly called him their "favourite eater" and said the recognition was well deserved.
+
+Several users also praised his signature corporate lunch videos, saying his office food content and ASMR-style eating clips had become a comforting part of their daily social media scroll.
+
+\- Ends
+
+Yashna Talwar
+
+Aug 1, 2026 09:17 IST
+
+---
+
+### Parenting begins with you: Why healing yourself helps raise emotionally secure children
+*Dr Alisha Lalljee · legal*
+
+Every parenting challenge is also an opportunity for self-discovery. Understanding how your own childhood influences your reactions can help build stronger, healthier relationships with your children.
+
+[Read full article](https://indianexpress.com/article/parenting/parenting-begins-with-you-why-healing-yourself-helps-raise-emotionally-secure-children-10801157/)
+
+---
+
+### Meghalaya High Court denies bail to school teachers accused of sexually assaulting 5-year-old
+*Somya Tyagi · legal*
+
+The Meghalaya High Court denied bail to two teachers accused of sexually assaulting a five-year-old student, citing the gravity of the allegations and trauma suffered by children.
+
+[Read full article](https://indianexpress.com/article/legal-news/meghalaya-high-court-denies-bail-teachers-sexually-assaulting-5-year-10812237/)
+
+---
+
+### Kerala Lottery Result Live: Karunya KR-763, August 1, 2026 Winners | News18
+*Nibandh Vinod · general*
+
+Kerala Lottery Result Today: Karunya KR-763 result will be declared today, on Saturday, August 1. Check the live updates and full list of winning numbers from 3 pm.
+
+[Read full article](https://www.news18.com/india/kerala-lottery-result-today-karunya-kr-763-august-1-live-10244405.html)
+
+---
+
+### #TheatreReview: A story about a never-ending performance, on & off camera
+*Shivika Manchanda · regional*
+
+The dramaturgical perspective of society suggests that everyone is performing, constantly managing impressions depending on who is watching. If Only, written, directed and produced by Vidushi Mehra, explores this school of thought. Set in Mumbai’s Hindi film industry, it suggests that for those chasing success in showbiz, the performance never really ends. There is no backstage. The play follows four young aspirants – Aaliya, an actor grappling with insecurities beneath her success; Karam, who dreams of becoming the quintessential Bollywood hero; Anika, a photographer yearning to be seen for who she truly is; and Vedang, a writer trying to hold on to authenticity in a commercial industry. As their lives become increasingly intertwined, ambition, desire and ego blur the line between who they are and who they are expected to be, forcing each to confront secrets and choices that threaten not only their own futures but also those of the people around them. The play, staged at KNMA, Saket, examines the complexities of aspiration, identity and the pursuit of recognition. The strongest aspect of the production is its ensemble.
+
+Taarini Puri, Vivhan Mehra, Shivam Sahni and Lavanya Rathore are completely invested in their characters. The chemistry between the four actors reflects the rigour of their rehearsal process, evident in their timing, dialogue delivery, ease with one another, and nuanced emotional transitions throughout. The use of the stage space is particularly interesting. There are several moments when all four actors occupy the stage, yet the audience understands they are in entirely different locations.
+
+Without relying on elaborate sets, the actors, through precise blocking and expression, make those transitions believable. Another effective element is the live tabla by Bivas Sharma. Rather than merely accompanying the action, it punctuates emotional beats, amplifying moments of tension, introspection and drama. The music becomes an extension of the actors’ expressions. More than a story about Bollywood, If Only is about performativity. It makes me think of Sociologist Erving Goffman’s idea in The Presentation of the Self in Everyday Life (1956) that we are all constantly performing versions of ourselves. In the entertainment industry, however, that performance seems inescapable. The characters continue to perform even when the cameras are absent, and the play captures the emotional burden of living in that perpetual state of presentation. In doing so, it encourages the audience to empathise with people in an industry that often appears glamorous on the outside but is deeply vulnerable beneath the surface. While the ending could be sharper, the play succeeds in telling an engaging, thoughtfully staged story, carried by committed performances and strong writing.
+
+Should you watch it?
+
+Want us to review your play? Mail us at tims.delhitimes @timesofindia.com
+
+---
+
+### Air pollution during monsoon: Dirty air after rains becoming India's big lung cancer risk
+*Smarica Pant · general*
+
+## More Indians who have never smoked are being diagnosed with lung cancer, raising fresh concerns about the long-term impact of polluted air. While smoking remains the biggest risk, experts say improving air quality has become a public health priority.
+
+Can air pollution be the new tobacco? Understanding India's changing lung cancer risk (Representative photo. Credits: Reuters)
+
+For decades, lung cancer was seen as a disease that mainly affected smokers. Doctors would routinely ask patients about their smoking history because tobacco was considered the single biggest cause of the disease. While that remains true, a worrying trend is now emerging in India and across the world: an increasing number of people who have never smoked are being diagnosed with lung cancer.
+
+This shift has prompted researchers and oncologists to look beyond cigarettes. Air pollution, both outdoors and indoors, is now under greater scrutiny. India's rapidly growing cities, heavy traffic, industrial emissions, crop burning, construction dust, and the widespread use of biomass fuels for cooking in many homes expose millions of people to polluted air every day.
+
+The question being asked is simple but important: Could air pollution become the new tobacco when it comes to lung cancer?
+
+Doctors say the answer is not straightforward. Smoking is still far more dangerous for an individual, but constant exposure to polluted air is becoming an increasingly important risk factor, especially for people who have never smoked. Since almost everyone breathes polluted air, even a smaller individual risk can translate into a large number of cases across the population.
+
+**SMOKING REMAINS THE BIGGEST RISK**
+
+According to Dr. Aseem Kumar Samar, Director – Medical Oncology, CK Birla Hospitals Jaipur, tobacco continues to be the strongest preventable cause of lung cancer.
+
+"Tobacco smoke contains thousands of harmful chemicals, many of which directly damage the cells lining the lungs. This repeated injury can lead to genetic changes that eventually develop into cancer," he explains.
+
+Smoking also exposes people to much higher concentrations of cancer-causing substances than air pollution. This is why doctors continue to stress that quitting tobacco is the most effective way to reduce an individual's risk of lung cancer.
+
+**WHY AIR POLLUTION IS NOW A GROWING CONCERN**
+
+Although air pollution may not be as harmful as smoking on an individual level, its impact cannot be ignored.
+
+Tiny particles known as PM2.5, along with toxic gases and other pollutants, can travel deep into the lungs. Over many years of exposure, these pollutants trigger chronic inflammation, oxidative stress, and cellular damage. This long-term injury may increase the likelihood of developing lung cancer.
+
+Unlike smoking, where the risk is concentrated among smokers, air pollution affects entire communities. People living in polluted cities, working in high-exposure occupations, or spending years breathing contaminated air may all be at increased risk.
+
+The health effects usually develop slowly and may take years or even decades to appear.
+
+**WHY MORE NON-SMOKERS ARE DEVELOPING LUNG CANCER**
+
+Doctors are increasingly seeing lung cancer in people who have never smoked, particularly among women and younger adults.
+
+Dr. Samar says this trend is likely linked to multiple environmental and lifestyle factors rather than a single cause.
+
+These include:
+
+-   Outdoor air pollution
+    
+-   Indoor smoke from biomass fuels such as wood, coal, and cow dung
+    
+-   Passive smoking
+    
+-   Occupational exposure to harmful chemicals and dust
+    
+-   Long-term exposure to environmental pollutants
+    
+
+The increase in cases among non-smokers shows that lung cancer is no longer only a smoker's disease.
+
+**AIR POLLUTION IS NOT "THE NEW TOBACCO"—BUT IT IS A SERIOUS THREAT**
+
+Experts caution against comparing air pollution and smoking as though they carry the same level of risk.
+
+Smoking remains several times more dangerous for an individual and is responsible for most preventable lung cancer cases.
+
+However, because nearly everyone is exposed to polluted air, the overall impact on public health is becoming increasingly significant.
+
+Improving air quality could prevent many future cases, particularly among people who have never smoked.
+
+**WHAT CAN YOU DO TO LOWER YOUR RISK?**
+
+While individuals cannot completely avoid polluted air, they can reduce their overall risk by making healthy choices.
+
+Doctors recommend:
+
+-   Never start smoking and quit if you currently smoke.
+    
+-   Avoid second-hand smoke whenever possible.
+    
+-   Use clean cooking fuels instead of biomass fuels.
+    
+-   Wear well-fitted masks during periods of severe air pollution if exposure cannot be avoided.
+    
+-   Improve indoor ventilation.
+    
+-   Follow local air quality updates and limit outdoor activity when pollution levels are very high.
+    
+-   Support cleaner environmental practices and pollution-control measures.
+    
+
+**SYMPTOMS THAT SHOULD NEVER BE IGNORED**
+
+Early diagnosis can significantly improve treatment outcomes.
+
+Dr. Samar advises seeking medical attention if you experience:
+
+-   A cough lasting more than three weeks
+    
+-   Coughing up blood
+    
+-   Unexplained weight loss
+    
+-   Persistent chest pain
+    
+-   Shortness of breath
+    
+-   Repeated chest infections
+    
+
+Many people dismiss these symptoms as a lingering infection or seasonal illness. However, when they persist, medical evaluation is essential.
+
+**EARLY DETECTION CAN SAVE LIVES**
+
+Lung cancer often does not cause obvious symptoms in its early stages, which is why many patients are diagnosed only after the disease has advanced.
+
+Recognising warning signs early and consulting a doctor without delay can improve the chances of successful treatment.
+
+At the same time, preventing exposure to known risk factors remains equally important.
+
+India's lung cancer landscape is changing. Smoking continues to be the leading and most preventable cause of the disease, but air pollution is emerging as an important contributor, especially among people who have never smoked.
+
+As cities continue to battle poor air quality, experts say protecting lung health will require action at both the individual and policy level. Quitting tobacco remains the single most effective step anyone can take, but cleaner air, safer cooking fuels, reduced environmental pollution, and greater public awareness will all play an important role in reducing the future burden of lung cancer in India.
+
+\- Ends
+
+Smarica Pant
+
+Aug 1, 2026 09:00 IST
+
+---
+
+### July Ends As India’s 12th-Driest Since 2001, IMD Forecasts Below-Normal Rains For Aug-Sept
+*Karishma Jain · general*
+
+Nearly 42% (311) of the 741 districts assessed by the IMD have recorded below-normal rainfall this season so far, affecting agricultural output.
+
+[Read full article](https://www.news18.com/india/july-ends-as-indias-12th-driest-since-2001-imd-forecasts-below-normal-rains-for-aug-sept-ws-l-10246057.html)
+
+---
+
+### From Traditional Schooling To Home Tutoring: Priyanka Gandhi Vadra's Educational Qualification | Pics
+*Meemansa Shekhawat · general*
+
+Priyanka Gandhi Vadra's educational journey is a blend of traditional schooling and precautionary steps that were taken to counter external threats to her family. Let's dive deeper
+
+[Read full article](https://www.news18.com/photogallery/photogallery/from-traditional-schooling-to-home-tutoring-priyanka-gandhi-vadras-educational-qualification-pics-ws-l-10246026.html)
+
+---
+
+### India to get 11 new flying schools to tackle India's 30000+ pilot shortage
+*SECTIONS India · general*
+
+New Delhi: In a major push to strengthen domestic pilot training capacity and reduce reliance on foreign flying schools, the Airports Authority of India (AAI) has successfully completed the tender process for 11 new Flying Training Organisation (FTO) slots at seven of its airports under the latest e-tender round launched in February 2026.
+
+The technical bids were opened on 30 April 2026 and financial bids on 22 May 2026. The entire process has been successful for all sites, AAI documents state.
+
+India's civil aviation sector is set for rapid expansion with the Ministry of Civil Aviation estimating a requirement of over 30,000 to 31,800 additional pilots over the next decade. Indian carriers are expected to induct around 500 more aircraft in the next five years while the airport network is projected to grow by 50 more airports.
+
+  
+
+Currently, India has 41 DGCA-approved FTOs operating from 63 flying bases (as of April 2026). Without faster expansion of domestic training capacity, the growing demand cannot be met sustainably, the AAI note warns.
+
+In 2021, nine FTO slots were awarded at five airports and in 2022, six more slots were awarded at 5 airports. In addition, the AAI Board had approved allotment of land on a card rate basis for 25 years at 20 airports to encourage FTO development.
+
+The 11 new FTOs are projected to add 60 to 70 training aircraft in the initial phase, scaling up to a combined fleet of 110 to 120 aircraft at full capacity, along with multiple simulators and training devices. These facilities are expected to create an initial annual training capacity of 400 to 500 aviation professionals, including cadet pilots and technical trainees. At full maturity, the output could rise to approximately 1500 professionals per year, with a core output of 700 to 750 cadets and trainees.
+
+This additional capacity will help to reduce dependence on overseas pilot training, retain training expenditure within India, improve utilisation of regional airports and make them ideal for ab-initio flying training.
+
+Domestic pilot licensing numbers have already shown strong growth; CPL issuances rose from 640 in 2018 to 1628 in 2024. In a recent year, DGCA also issued 615 CPLs to foreign-trained cadets alongside a massive 2309 Student Pilot Licences, reflecting rising domestic enrolment.
+
+The new FTOs at regional airports are expected to further accelerate this trend by offering more accessible and cost-effective training options for aspiring pilots while improving productive use of airport infrastructure.
+
+---
+
+### July Rainfall Ends Near Normal Despite El Niño: Why IMD’s Forecast Missed The Mark
+*Karishma Jain · general*
+
+Monthly rainfall in July ended with a 1 per cent surplus, against the weather department’s prediction of a deficit of at least 6 per cent.
+
+[Read full article](https://www.news18.com/india/july-rainfall-ends-near-normal-despite-el-nino-why-imds-forecast-missed-the-mark-ws-l-10246032.html)
+
+---
+
+### US Marine Corps F-35B crashes near Miramar after pilot ejects safely
+*India Today World Desk · world*
+
+## A US Marine Corps F-35B crashed near Miramar air base after the pilot ejected before impact. The aircraft was destroyed in a Class A mishap, but the pilot survived with non-life-threatening injuries.
+
+An F-35B fighter jet of the US Marine Corps crashed near the Miramar air base in San Diego on Friday after the pilot ejected moments before impact. The Marine Corps said the pilot was taken to a local medical facility in stable condition for evaluation and treatment of non-life-threatening injuries.
+
+Aerial footage from a news helicopter showed black smoke rising from the wreckage in a dirt field, with military and firefighting crews at the site. What appeared to be white flame retardant covered the ground, and at least one person was seen spraying the wreckage with a fire hose. The Marine Corps later described the incident as a "Class A mishap", its most serious accident category.
+
+Wade Lott, 36, said he saw the crash while driving to work at a concrete company south of the flight line. He said two jets were descending towards the runway together. "It just blew up, it was crazy," Lott said, adding that he watched from his truck as the first jet landed without incident.
+
+Lott said the second jet then began slowing down, almost as if it were trying to hover. According to him, when the aircraft was about 100 feet above the ground, the pilot ejected and the parachute opened as the pilot rose to about 200 feet in the air. "The jet hit the ground right next to another plane," Lott said. "It ploughed into the runway and just blew up."
+
+Candace Hadley, a spokesperson for San Diego Fire, said firefighters were at the scene to deal with a vegetation fire that broke out near the crash site. She referred further questions to Marine Corps Air Station Miramar.
+
+The base was once home to the Navy fighter pilot training school shown in the original "Top Gun" film and was known as "Fightertown USA". The school was moved to Naval Air Station Fallon in Nevada in 1996 after the base was transferred to the Marine Corps.
+
+According to a 2024 analysis by the Government Accounting Office, the US Marine Corps, Navy and Air Force together have more than 630 F-35 aircraft. The F-35B is one of several versions of the jet and is designed for short take-offs and vertical landings. A single F-35B costs about USD 109 million, while the report estimated the overall F-35 programme will cost roughly USD 2 trillion after the military buys more than 1,800 more aircraft and operates them for decades.
+
+The Marine Corps said Friday's crash was a "Class A mishap", a category used when damage exceeds USD 2 million, an aircraft is destroyed, or a service member is killed. Air Force Safety Centre statistics show there have been at least 17 other Class A mishaps involving F-35 aircraft since 2000. The Flight Safety Foundation's Aviation Safety Network database says at least seven other military aircraft mishaps have taken place in the US this year.
+
+The Lexington Institute, a think tank focused on defence technology and national security, has described the F-35 as the safest and most capable fighter jet in the US military fleet. The article said there have been fewer crashes involving F-35 variants since the aircraft entered service in 2015 than with other fighter jets when they were new, and fatal crashes involving F-35s are rare. In five F-35 crashes, pilots were able to eject, though at least one was injured when an F-35 crashed near the international airport in Albuquerque, New Mexico, in May 2024.
+
+The crash near Miramar left the aircraft destroyed, triggered a fire response on the ground and was witnessed by people near the air base, but the pilot survived after ejecting in time and remains in stable condition, according to the Marine Corps.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Aug 1, 2026 08:48 IST
+
+---
+
+### Peruvian ex-President Ollanta Humala released from prison after court overturns his 15-year money-laundering conviction
+*Unknown · business*
+
+Peruvian ex-President Ollanta Humala was released from prison on Friday ​evening after Peru's Constitutional Court ​overturned his 15-year money-laundering conviction.
+
+Humala, who was serving his ​sentence at a special detention facility that houses several of Peru's jailed former leaders, had been convicted last year over receiving illicit campaign contributions from Brazilian construction giant Odebrecht, ‌now known ⁠as Novonor, ⁠during his successful 2011 presidential campaign.
+
+"They needed to persecute us because of our administration ​and our political ideology, and they have forced me to seek asylum for my wife ​and to take my children out of the country," the center-leftists former leader said at the prison gates upon his release.
+
+  
+
+The prosecution did not ​issue any comments following Humala's release.
+
+Humala's wife, Nadine ⁠Heredia, also ‌received a prison sentence in the case but she ​is in ​Brazil after being granted asylum by President Luiz Inacio Lula ⁠da Silva.
+
+Peruvian courts overturned Humala's conviction on Thursday afternoon, ​paving the way for a criminal court to order ​his release the next day.
+
+The case formed part of a sweeping corruption investigation into Odebrecht's operations across Latin America that ensnared much of Peru's political establishment. President Keiko Fujimori, who was sworn in this week, was also investigated over alleged campaign contributions linked to the company. Peru's Constitutional ‌Court last year threw out that case.
+
+During a trial that lasted three years following an investigation launched in 2016, Humala ​denied wrongdoing ​and described the charges ⁠as politically motivated.
+
+"I was taken hostage by the state and by the hitmen of the justice system," Humala told journalists after being released from detention.
+
+Peru's ​Constitutional Court said it had annulled Humala's conviction because campaign contributions did not constitute the crime of money laundering at the time the alleged acts took place. The court relied on the same legal reasoning when it overturned proceedings against Fujimori last year.
+
+(Reporting by Marco Aquino, Writing by Inigo Alexander, Editing by Will Dunham and William Mallard)
+
+---
+
+### 12 projects, Rs 4,000-crore LoC agreement: India, Bhutan review development ties
+*Divya A · legal*
+
+The two sides discussed all aspects of bilateral cooperation including development partnership, energy, trade and investment, connectivity, people-to-people ties, as well as other regional issues of mutual importance, the MEA said in a statement on Friday.
+
+[Read full article](https://indianexpress.com/article/india/india-bhutan-review-development-ties-loc-agreement-projects-10813007/)
+
+---
+
+### Rajasthan governor urges periodic evaluation of teachers every five years
+*India Today Education Desk · general*
+
+## Rajasthan Governor Haribhau Bagde called for academic evaluation of teachers every five years at a workshop in Kota. He said the exercise should lift education standards without affecting jobs, promotions or pensions.
+
+According to the Governor, such evaluations would help determine the quality of education being delivered to students.
+
+Rajasthan Governor Haribhau Bagde has called for a system of evaluating teachers every five years, saying it is essential to improve the quality of education. He clarified that such assessments should not impact teachers' jobs, promotions or pension benefits.
+
+The governor made the remarks while inaugurating the two-day national workshop, 'Healthy and Educated Woman: Empowered Nation' (Swasth evam Shikshit Mahila: Sashakt Rashtra), at the State Institute of Agriculture Management (SIAM) in Kota on Thursday.
+
+The event was jointly organised by Agriculture University, Kota, and Shiksha Sanskriti Utthan Nyas (SSUN), New Delhi. Around 300 participants, including scientists, teachers, medical professionals, researchers, social workers and students from across the country, attended the workshop, according to PTI.
+
+### NEED FOR CONTINUOUS LEARNING AND STRONGER EDUCATION STANDARDS
+
+Bagde said a nation's progress should not be measured only by economic growth but also by intellectual development, honesty, curiosity and a lifelong commitment to learning. He urged students and researchers to develop the habit of regular study, ask meaningful questions and draw inspiration from India's traditional knowledge systems and Vedic education.
+
+To raise educational standards, he proposed that teachers undergo an assessment once every five years to measure their subject knowledge and teaching skills. According to him, such evaluations would help determine the quality of education being delivered to students.
+
+Responding to concerns raised by some teachers' organisations, the governor said the proposed evaluation would be purely academic in nature and would not affect teachers' employment, service conditions or retirement benefits.
+
+Bagde also highlighted Rajasthan's campaign to make the state drug-free and referred to India's efforts to eliminate tuberculosis. He said the country should show the same resolve in eliminating paper leaks, adding that preventing such incidents is the responsibility of everyone involved in education, from primary school teachers to university faculty.
+
+Expressing concern over dummy admissions and the functioning of certain schools, he said he had asked officials to gather data on such institutions so that appropriate action could be taken.
+
+Speaking at the inaugural session, SSUN National Secretary Dr Atul Kothari said educating girls from poor and disadvantaged backgrounds is one of the most important steps towards nation-building.
+
+Agriculture University Vice-Chancellor Dr Vimla Dunkwal, who presided over the event, said "Nari Shakti hi Rashtra Shakti" and stressed the need to provide quality education and healthcare to every girl and woman for inclusive development.
+
+National Women's Action Coordinator Dr Shobha Paithankar also voiced concern over the growing dependence on fast food and its impact on public health.
+
+\- Ends
+
+Mridusmita Deka
+
+Aug 1, 2026 08:44 IST
+
+---
+
+### Woman killed in Idukki landslide as heavy rain triggers floods across central Kerala
+*SECTIONS Woman killed · business*
+
+Idukki: A woman was killed after a landslide buried her house in the high-range Idukki district on Saturday, while incessant heavy rain triggered floods and fresh landslides across central Kerala, with several feared trapped under debris in Kottayam district, officials said.
+
+The deceased was identified as Sumathi, a resident of the Adoormala area. Debris from a landslide struck her house in the early hours of Saturday, the district administration said.
+
+Neighbours managed to rescue her husband Ravi and the couple's son. Both sustained injuries and were admitted to a hospital in Thodupuzha.
+
+  
+
+Authorities said the family's house was destroyed in the landslide.
+
+Sumathi's body was recovered after a search operation carried out by personnel of the National Disaster Response Force (NDRF), Fire and Rescue Services, police and revenue officials.
+
+In another incident, a person was reportedly trapped after a landslide hit a house in the Vagamon area of Idukki district. Rescue operations were underway, officials said, adding that traffic in the area came to a standstill after debris blocked the road.
+
+Meanwhile, at Upputhara, a parked police jeep was damaged in a landslide.
+
+With the Pullakayar river overflowing, the Kokkayar low-level crossing (chappath) has been submerged. Around six houses were inundated in the surrounding area, and the affected families were shifted to safer locations, officials said.
+
+Authorities said several other landslides were reported from different parts of the district. Heavy rain disrupted traffic at multiple locations as well.
+
+The road between Kattappana and Vazhavara was blocked following a landslide, while rising water levels in the Chottupara stream at Vandiperiyar led to waterlogging on National Highway 183.
+
+The road at Nellimala was also blocked, affecting vehicular movement.
+
+Authorities have announced the opening of the shutters of minor dams in the district,
+
+In the neighbouring Kottayam district, heavy rain triggered widespread flooding in Erattupetta, Kanjirappally, Koottickal and Erumeli, inundating residential areas, disrupting traffic and prompting large-scale rescue operations.
+
+A house was buried under debris in a landslide at Payyanithottam in Poonjar, where two persons are feared trapped.
+
+Search and rescue operations were continuing to trace them.
+
+Erattupetta town witnessed a sudden rise in water levels overnight, forcing authorities to halt vehicular traffic.
+
+Several houses in Erattupetta, including those in Nadakkal and Murikkoly, were inundated.
+
+Rescue personnel, assisted by local residents, evacuated people stranded on the upper floors of their homes to safer locations. Traffic in the area remained completely disrupted, according to officials.
+
+In Koottickal and Mundakkayam, water levels continued to rise after the Manimala and Pullakayar rivers overflowed. The Koottickal causeway and low-level crossing were submerged, while water entered several houses.
+
+Traffic was also affected after the Mundakkayam causeway went under water.
+
+More landslides were reported from the hilly areas of Pathanamthitta district.
+
+Ranni MLA Pazhakulam Madhu, in a social media post, said heavy flooding had been reported in Ranni and adjoining areas. He urged people to remain cautious as river water levels had risen to dangerous levels and said floodwaters had entered several houses and shops.
+
+The India Meteorological Department (IMD) has forecast continued heavy rainfall in parts of Kerala, prompting authorities to keep rescue teams on alert and advise people in vulnerable areas to remain cautious.
+
+The IMD issued a red alert predicting very heavy rain in Pathanamthitta, Kottayam, Idukki, Malappuram, Kozhikode, Wayanad, Kannur and Kasaragod districts.
+
+An orange alert has been issued for Ernakulam, Thrissur and Palakkad districts.
+
+District administrations announced holidays for schools in several districts, considering the forecast of heavy rain on Saturday.
+
+
+---
+
 ## 31 July 2026
 
 ### Seattle police chief Shon Barnes resigns after Bite of Seattle fallout
