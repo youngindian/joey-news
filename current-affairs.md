@@ -1,3 +1,496 @@
+## 2 August 2026
+
+### Odisha cabinet approves bill to create economic region development bodies, Rs 2,995-cr scheme for tribals
+*SECTIONS Odisha cabinet approves bill · business*
+
+Bhubaneswar: The Odisha government has given its nod to table a bill in the Assembly to create Economic Region Development Authorities (ERDAs) for urban growth.
+
+A total of 11 proposals, including a Rs 2,995-crore project for socio-economic development of tribals, were cleared at a cabinet meeting chaired by Chief Minister Mohan Charan Majhi here on Saturday.
+
+"The cabinet cleared a bill for amending the Odisha Development Authority (ODA) Act, 1982 to enable the establishment of ERDAs in the state," Chief Secretary Anu Garg told reporters after the meeting.
+
+  
+
+She said urbanisation is a major engine of economic growth and provides for the planned development of city agglomerations as integrated economic corridors with modern infrastructure, employment hubs, efficient mobility and coordinated service delivery.
+
+"Odisha has envisioned such city agglomerations like the Bhubaneswar-Cuttack-Puri-Paradeep Economic Region (BKPPER), the Bargarh-Jharsuguda-Sambalpur, Berhampur-Chhattrapur-Gopalpur and Jeypore-Koraput-Sunabeda agglomerations," she said.
+
+An economic plan has been developed for the BKPPER as a pilot project in collaboration with the NITI Aayog, the chief secretary said.
+
+She said preparation of region-specific economic plans for these agglomerations would facilitate planning beyond individual municipal boundaries, leverage the complementary economic potential of the constituent urban centres, attract investment, generate employment and improve housing, mobility, public services and overall quality of life.
+
+Though the Union Budget 2026-27 recognised the importance of such four city economic regions in the country as engines of economic growth, and BKPPER is one such region along with Varanasi (Uttar Pradesh), Surat (Gujarat) and Visakhapatnam (Andhra Pradesh), there is a need for proper administration of such city economic regions in the state. Accordingly, ERDAs will be established, she said.
+
+The Odisha Development Authorities (Amendment) Bill, 2026, will provide a comprehensive statutory framework for the constitution, powers, and functioning of ERDAs for coordinated and integrated development of economic regions across Odisha, the chief secretary said.
+
+In another major decision, the cabinet approved a proposal for the implementation of Mukhya Mantri Janajati Jeevika Mission (MMJJM) 2.0, a livelihood initiative aimed at improving the socio-economic condition of eight lakh tribal and Particularly Vulnerable Tribal Group (PVTG) households across the state.
+
+Garg said the cabinet accorded its nod to implement the MMJJM 2.0 over five years, from 2026-27 to 2030-31, with a total financial outlay of Rs 2,995 crore, fully funded by the state government.
+
+She said the MMJJM's first phase will be implemented in 13 districts covering about 1.5 lakh tribal households.
+
+Garg said the programme aims to enhance the income and overall well-being of tribal and PVTG households by promoting sustainable farm, off-farm and non-farm livelihood activities through production clusters.
+
+The cabinet also approved six proposals of the Water Resources Department which aimed to strengthen Odisha's agricultural sector, focusing on expanding irrigation coverage and ensuring administrative justice.
+
+---
+
+### Unwritten love story of female friendships
+*Sonali Kokra · general*
+
+Buried in my phone live WhatsApp groups called Sole Sisters and Bag Ladies and half a dozen others with delightfully cringey, punny names. Cumulatively, these groups are roughly 500 women deep. I've met, at best, maybe a dozen of them.
+
+And, yet, I can tell you with a fair degree of accuracy, who among these familiar-but-faceless women is struggling with caregiving responsibilities for a narcissistic mother who just won't let up. Which one is burnt out by an ADHD child. How many have fallen out of love with their husbands. And who all uninstalled their dating apps for the 36th week in a row after their 228th run-in with a married man tediously quoting Rumi and sermonising about marriage being a social construct. The women in these groups have helped each other crack interviews, start SIPs, rehome shoe/pet/plant babies, build apps and appetisers and, on occasion, even fed and clothed each other.
+
+In my 20s, I mythologised romantic love, built my entire emotional architecture around the idea that it is the main event. The meet-cute, the discovering of each other's eccentricities and peccadilloes (and problematic exes that give you pause), the soft and hard launches, the nail-biting will-they-won't-they (and by that I obviously mean both sets of vaguely disappointed parents who think their simple-minded spawn deserves better than what they've chosen for themselves), the invariable separation (because every good love story needs a cliffhanger), the ring and, finally, the choking declarations of finally finding the person who "completes" you and is your "everything".
+
+  
+
+But the thing about trying to complete someone and being their everything is that it's a fantasy. And it is profoundly draining. Love requires equal partnership. Parenting needs you to be a bottomless container. Work asks you to be efficient. Friendship is possibly the only relationship that welcomes the slightly unhinged, unfinished version of the person lurking beneath the competent-adult exterior.
+
+## **Our True Better Halves**
+
+Which is why, now, in my 30s, I have far more appreciation for the people who have been doing the actual heavy lifting. The ones who watch us go through more personality changes in a decade than Ranbir Kapoor has managed in his entire filmography (so far), who are our cheerleaders through three career pivots, who saw us at our most diminished- sedated with grief or humiliated by failure -and still chose to stay. They're really the ones we should be introducing as our "other half" to the world.
+
+The friend who, at 18, smoked beedis with me outside the principal's room as a form of silent protest for something that seemed like a good hill to die on for two rebels without a cause during a college trip, is still, at 38, the one who determinedly floods her phone book with my fledgling business's catalogue while waiting for her mammogram.
+
+Another one has flown across continents on little notice because "something felt very off" when I suddenly stopped responding to texts for a fortnight. No judgement, no leapfrogging to bitchy interpretations, just a gut that said, "that's not normal", which ultimately resulted in "I'm here" at 2 am with five ice creams and the kind of hug that glues something-you don't yet know what-back together.
+
+## Council Of Women
+
+One of the most delightful things about getting older is that if you do it right, you end up with a small council of scarily competent, gossipy-but-not-judgy women who will organise themselves around your crises, combat-ready, wielding Tupperwares and enough packets of Electral because obviously you need to be reminded to eat and drink and at least brush your teeth and hair, if you can't be bothered to shower, because you're not a heathen. There's more romance in their no-nonsense presence than the collective poetic oeuvre of all the men I've encountered in the dating world.
+
+Men do all of this, too, but while studiously pretending they're doing nothing at all. An ex and his best friend maintained their own two-decade-old friendship built almost entirely on cricket statistics, aggressive mockery and a shared refusal to ever say the words "I love you, man" without immediately following it with an insult. Unlike my WhatsApp groups with long, verbose paragraphs providing context for the life event currently being dissected and equally sturdy walls of texts dedicated to the pursuit of ferreting out subtexts and undercurrents, his have subsisted almost entirely on memes, cricket/football arguments and the occasional four-word check-ins. For 11 years!
+
+Women narrate their closeness. Men, pressured into emotional impermeability early in their lives, often build intimacy through the shared absurdity (and comfort) of doing something pointless together for decades. Both, I've come to appreciate, are expressions of love. One just comes bearing better voice notes.
+
+Romantic love, for all its theatre, exists largely to convince you that you were chosen-that one person looked at the field and picked you over everyone else. And, of course, it feels good to be chosen.
+
+But friendship never bothered with the audition. It just kept showing up, on its own schedule-mammogram texts, 2 am ice cream, four-word check-ins-sometimes after years of near-total silence, refusing, rather rudely, to make a big deal of itself. Maybe that's the real reason it never got its own love story. We didn't bother to write it down because it was never trying to be literature. It was just trying to get us to Saturday.
+
+_Sonali Kokra is a Mumbai-based writer_
+
+---
+
+### From ‘Mere Pyare Deshvasiyon’ To ‘Hi, Friends’: PM Modi’s Message Of Forgiveness To Gen Z
+*Karishma Jain · general*
+
+At a time when the political atmosphere had turned deeply acrimonious, PM Modi chose not to respond with anger. Instead, he chose forgiveness.
+
+[Read full article](https://www.news18.com/india/from-mere-pyare-deshvasiyon-to-hi-friends-pm-modis-message-of-forgiveness-to-gen-z-ws-l-10246572.html)
+
+---
+
+### Govt Must Give People Choice Between Pure Petrol & E-20 At Petrol Pumps, Says Arvind Kejriwal
+*Aanchal Sinha · general*
+
+He appealed to people not to purchase any vehicle until E100-compatible vehicles begin to be manufactured in the country, warning that the government's policy would ruin consumers.
+
+[Read full article](https://www.news18.com/india/govt-must-give-people-choice-between-pure-petrol-e-20-at-petrol-pumps-says-arvind-kejriwal-ws-kl-10247434.html)
+
+---
+
+### India’s BRICS Presidency gathers momentum with key Ministerial meets early August
+*Dipanjan Roy Chaudhury · business*
+
+India will host key ministerial meetings as part of its BRICS presidency over the next two weeks, in the run-up to the summit in Delhi on September 12-13 which will see participation of the Presidents of Russia and China among other leaders.
+
+Four ministerial meetings—pertaining to trade and investment, finance and central bank governors, culture and statistics--will be held in different cities of northern and central India ahead of the summit, according to people familiar with the matter.
+
+Over the past month there has been a flurry of BRICS ministerial meetings, including those of energy and health ministers of the 11-member grouping, which is named after the first letters of its original founding member countries Brazil, Russia, India and China, with South Africa added later.
+
+  
+
+Trade and investment and finance ministers will meet at a time when BRICS member states are keen to boost trade in national currencies among themselves and navigate tariffs and unilateral sanctions besides push for reforms of multilateral financial institutions, said the people cited earlier.
+
+BRICS has been of the view that there is an urgent need to reform the World Bank and the International Monetary Fund to make them more agile, effective, inclusive, unbiased, accountable, and representative towards enhancing their legitimacy and credibility.
+
+In May, the BRICS foreign ministers acknowledged during their meeting that members of the grouping represent a broad diversity of societies and civilisations which are affected differently by unjustified unilateral protectionist measures inconsistent with World Trade Organization rules and that BRICS should focus on promoting a just and fair, stable and predictable environment for mutually beneficial sustainable development.
+
+The foreign ministers, including the Chinese representative, emphasised on the importance of creating more resilient, reliable and stable supply chains, and they agreed that BRICS should work towards broader and more equitable participation of developing economies in higher-value added segments of global manufacturing and production, including through trade and investment initiatives, industrial cooperation, development of complementary production capacities and technology transfer on mutually agreed terms based on national priorities. These initiatives will contribute to economic resilience and help mitigate the impacts of multiple economic disruptions, according to the BRICS foreign ministers.
+
+The foreign ministers condemned the imposition of unilateral coercive measures that are contrary to international law and reiterated that such measures, in the form of unilateral economic sanctions and secondary sanctions, have far-reaching negative implications for human rights, including the rights to development, health and food security, of the general population of targeted states, disproportionately affecting the poor and people in vulnerable situations, deepening the digital divide and exacerbating environmental challenges.
+
+---
+
+### Kerala Lottery Result Live: Samrudhi SM-66, August 2, 2026 Winners | News18
+*Nibandh Vinod · general*
+
+Kerala Lottery Result Today: Samrudhi SM-66 lottery result will be declared today, on Sunday, August 2. Check the live updates and full list of winning numbers from 3 pm.
+
+[Read full article](https://www.news18.com/india/kerala-lottery-result-today-samrudhi-sm-66-august-2-live-10247191.html)
+
+---
+
+### US State Department issues new travel advisory for Americans in Middle East as Iran conflict escalates
+*Monica Singh · general*
+
+US State Department on Saturday urged Americans in the Middle East to consider leaving or be ready to depart at short notice due to security risks and Iran conflict escalation. Advisory covers UAE, Bahrain, Iraq, Israel, Jordan, Kuwait, Lebanon, Oman, Qatar and Saudi Arabia.
+
+The US State Department on Saturday urged Americans across the Middle East to consider leaving the region or be prepared to depart at short notice, citing growing security risks, flight disruptions and the possibility of further escalation in the conflict with Iran.
+
+In a fresh travel advisory distributed through US embassies in the United Arab Emirates, Bahrain, Iraq, Israel, Jordan, Kuwait, Lebanon, Oman, Qatar and Saudi Arabia, the department warned travellers to remain vigilant amid possible airspace closures and airline cancellations.
+
+"Americans currently in the Middle East should exercise caution and heightened vigilance and should be prepared for flight cancellations, periodic airspace closures, and potential travel disruptions," the advisory said. It added that US citizens should consider departing the region or be ready to leave if the security situation worsens.
+
+The department also advised Americans to reconsider planned travel to or through the Middle East. The latest warning marks a stronger stance than an earlier advisory issued this month, which did not recommend preparing to leave the region.
+
+## **Tensions with Iran escalate**
+
+The advisory comes as tensions between Washington and Tehran continue to escalate. US President Donald Trump warned on Friday that the US would be "hitting them very hard" if necessary, while Iran vowed to "punish" the US following what American officials described as a heavy exchange of strikes.
+
+On Saturday, Kuwait's Army said its air defence systems intercepted Iranian drones, adding that explosions heard in the country were caused by efforts to destroy the incoming aerial threats.
+
+The warning follows confirmation by the US military two days earlier that it had carried out a "heavy wave of strikes" on Iran. The renewed hostilities have intensified concerns that the conflict, now in its sixth month, could widen further across the region.
+
+## **Diplomacy fails, oil prices rise**
+
+Despite earlier hopes for diplomacy, including a memorandum of understanding signed in June to facilitate peace talks, fighting resumed after Trump declared the ceasefire "over" in early July.
+
+The prolonged conflict has also fuelled higher global oil prices and pushed up fuel costs in the United States, raising concerns over its broader economic impact.
+
+---
+
+### Age to be imperfect: In the AI era, flaw is not failure -- it's human signature
+*Jaspreet Bindra · general*
+
+Garry Kasparov lost to IBM's Deep Blue, and our belief in human supremacy over machines took a big blow.
+
+The ancient game of chess, created in India and perfected by other civilisations, was al-ways regarded as the highest theatre of pure human intelligence. But now it was conquered by a machine. Since then, the machine has only become more powerful.
+
+Today a decent chess engine on a mobile phone can defeat the strongest human grand master. Magnus Carlsen or R Praggnanandhaa is not better than Stock fish, and no human being ever will be.
+
+  
+
+And yet, playing chess has become even more popular.
+
+An increasing number of people watch Carlsen and Pragga play They watch because the point of human chess is not only the perfect move, but the vulnerability of two hu mans like us who would hesitate, mis calculate, panic and improvise, get tired and then suddenly find a move that feels like magic
+
+It is human drama, and machine-like perfection of two computers playing each other will leave them cold, the very antithesis of drama. This peculiar quest for imperfection may be come the defining truth of the Alage.
+
+We have spent the last few years asking whether Alcan write, draw.code and create as well as human beings. Increasingly, the answer seems to be yes, or at least close enough, for most practical purposes.
+
+Al can write a clean LinkedIn post, generate a hummable song, produce a perfectly structured memo, make a McKinsey-like slide and finish off by summarising all of it in a competent email. It is fluent, smooth, tireless, often near perfect; 10 out of 10, almost.
+
+The problem is that we may soon become sick of 10 out of 10.
+
+## MARK OF THE HAND
+
+We are already seeing this in the plague of AI slop on LinkedIn. You can spot it from a mile away: the smooth opening line, the neat three lessons, the inspirational paragraph, the carefully balanced humility, the "here is what it taught me" ending.
+
+It is grammatically correct and emotionally dead. In response, we have started hunting for posts that are messy, opinionated, oddly structured, perhaps even badly punctuated, but unmistakably written by someone who has lived that thought.
+
+The same is happening with books. Amazon is reportedly flooded with AI-generated titles, many polished but soulless. As a result, we increasingly look for books from known publishers rather than self-published ones as a signal of human authorship.
+
+In such a world, the value of a human book lies not just in how well it is written, but in how clearly it has been felt. When text becomes infinite, real authorship becomes scarce.
+
+This phenomenon is not new Human beings have always valued the mark of the hand.
+
+A machine can make a perfect ceramic bowl, smooth, symmetrical and identical to the next thousand bowls. But we often pay more for the potter's bowl precisely because it is not perfect. The uneven lip, the thumbprint, the mi-nor dent, or the slight tilt in the body of the pot: these are not defects, but provenance, signal-ling that a human hand passed through here.
+
+The Japanese have a phrase for this: wabi sabi, the beauty of something that is impermanent, imperfect and incomplete, and thus its art of kintsugi, where a broken pot is mended back together with gold lacquer:
+
+In India, we have our own version of it. We have the nazarbattu, the small black spot on a baby's face or the fiercely ugly face mask hung above doors. Perfect beauty feels dangerous, almost inhuman. Persian carpet makers were said to leave a flaw in their carpets because perfection belonged only to God. The flaw was not a failure, but a human signature.
+
+Great art has always under-stood this. Picasso did not paint faces the way a camera sees faces. MF Husain did not draw horses like they should look like; his horses were restless, elongated, full of motion rather than anatomy, their power coming not from accuracy but from distortion.
+
+AI will become very good at beauty, with symmetrical faces, flawless prose, balanced compositions and correct answers. But beauty is not the same as perfection; it is in the cracked note of a singer, the pause before an actor remembers a line and the grandmother who never measured any-thing but always got the dish right.
+
+This is why author Sangeet Paul Choudary says that in the age of AI, humans will become "luxury goods". He uses the example of a wine sommelier-it is for their knowledge, selection and cork-sniffing performance that we pay a premium in a restaurant.
+
+Similarly, we pay a huge premium to go to a live concert over a Spotify rendition. When machine output becomes abundant and cheap, human output becomes premium not because it is perfect, but because it carries human presence and lived experience.
+
+## AUTHENTICITY OVER EFFICIENCY
+
+The mistake humans will make in the Al age is to compete with machines on the finish and polish. The worst thing a writer or an artist can do now is try to sound like AI, as many of us are doing on our LinkedIn posts sounding smooth, agreeable, optimised and dead. The winners will be those who become more of themselves, not less. Authenticity will always win over efficiency.
+
+We began with chess, so let us end with football. Imagine if the recent football World Cup was played by perfect AI robots. There would be no misplaced passes or bad tack-les, nerves or exhaustion, no striker missing from two yards, and no Messi walking for 70 minutes and then suddenly bending space-time. It would be technically astonishing and emotionally hollow.
+
+In a world where machines can generate perfection on demand, the most valuable thing a human being may do is remain un-mistakably, recognisably imperfect.
+
+_The author is co-founder, AI&Beyond_
+
+(Disclaimer: The opinions expressed in this column are that of the writer. The facts and opinions expressed here do not reflect the views of www.economictimes.com.)
+
+---
+
+### Screams, Sudden Death, And An Overnight Burial: 16-Year-Old UP Girl's Body Dug Up 52 Days Later For Fresh Probe
+*Vani Mehrotra · general*
+
+A 16-year-old girl's body was exhumed in Aligarh 52 days after burial following allegations of suspicious circumstances surrounding her death.
+
+[Read full article](https://www.news18.com/india/uttar-pradesh-aligarh-teen-girl-body-exhumed-52-days-after-burial-fresh-investigation-ws-el-10247427.html)
+
+---
+
+### Weather updates today, August 2: IMD issues rain alert; check if your state is on the list
+*Trending Desk · business*
+
+The India Meteorological Department (IMD) has forecast widespread rainfall across several parts of the country from August 2 to 7, with heavy rain expected in parts of northwest, central and eastern India. Himachal Pradesh, Jammu and Kashmir, Uttarakhand, Delhi-NCR, Uttar Pradesh, Rajasthan, Madhya Pradesh, Odisha, Bihar and other regions are likely to witness varying intensity of rainfall during the period. The weather department has also warned of thunderstorms, lightning and gusty winds in several areas.
+
+  
+
+## **Northwest India weather forecast**
+
+The India Meteorological Department (IMD) has forecast widespread rainfall across several parts of India from August 2 to 7, with heavy rain likely in multiple states. The weather department has predicted thunderstorms, lightning and gusty winds in several regions, along with isolated instances of very heavy rainfall. Northwest, central and eastern parts of the country are expected to witness varying intensity of showers during the forecast period.
+
+## **Delhi weather forecast**
+
+Delhi is likely to witness fairly widespread rainfall between August 3 and 7. Isolated to scattered rainfall is also expected on August 2.
+
+The IMD has forecast isolated heavy rainfall over Delhi along with Haryana and Chandigarh from August 2 to 4.
+
+## **Haryana and Chandigarh weather forecast**
+
+Haryana and Chandigarh are likely to receive fairly widespread to widespread rainfall between August 3 and 7.
+
+Isolated rainfall is expected on August 2, while isolated heavy rainfall is likely from August 2 to 4.
+
+## **Punjab weather forecast**
+
+Punjab is expected to receive fairly widespread to widespread rainfall on August 3 and 4.
+
+The state may witness isolated to scattered rainfall on August 2 and between August 5 and 7. Isolated heavy rainfall is also likely between August 2 and 4.
+
+## **Uttar Pradesh weather forecast**
+
+West Uttar Pradesh is likely to experience fairly widespread to widespread rainfall between August 3 and 7. Isolated rainfall is expected on August 2.
+
+The IMD has forecast isolated heavy rainfall over West Uttar Pradesh from August 3 to 5.
+
+East Uttar Pradesh may witness fairly widespread to widespread rainfall from August 2 to 7. Isolated heavy rainfall is likely between August 2 and 6.
+
+## **Rajasthan weather forecast**
+
+West Rajasthan is likely to receive fairly widespread rainfall on August 2, followed by isolated to scattered rainfall from August 3 to 7.
+
+East Rajasthan may witness isolated to scattered rainfall between August 2 and 7.
+
+Thunderstorms, lightning and gusty winds reaching 30 to 40 kmph, with gusts up to 50 kmph, are likely over both East and West Rajasthan on August 2.
+
+The IMD has also forecast isolated very heavy rainfall over East and West Rajasthan on August 2.
+
+## **Himachal Pradesh weather forecast**
+
+Himachal Pradesh is likely to receive fairly widespread to widespread rainfall from August 2 to 7.
+
+The IMD has forecast isolated heavy rainfall during the same period.
+
+## **Jammu and Kashmir, Ladakh weather forecast**
+
+Jammu and Kashmir, Ladakh, Gilgit-Baltistan and Muzaffarabad are likely to witness fairly widespread to widespread rainfall between August 2 and 7.
+
+Thunderstorms, lightning and gusty winds with speeds of 30 to 40 kmph and gusts up to 50 kmph are also expected during the period.
+
+Isolated heavy rainfall is likely from August 2 to 7.
+
+## **Uttarakhand weather forecast**
+
+Uttarakhand is expected to receive fairly widespread to widespread rainfall between August 2 and 7.
+
+The IMD has forecast isolated thunderstorms and lightning during this period, along with isolated heavy rainfall.
+
+## **Madhya Pradesh weather forecast**
+
+East Madhya Pradesh is likely to receive fairly widespread to widespread rainfall from August 4 to 7.
+
+West Madhya Pradesh may witness isolated to scattered rainfall between August 2 and 7, while East Madhya Pradesh may experience similar conditions on August 2 and 3.
+
+Thunderstorms, lightning and gusty winds reaching 40 to 50 kmph, with gusts up to 60 kmph, are likely over West Madhya Pradesh from August 2 to 5. East Madhya Pradesh may witness gusty winds reaching 30 to 40 kmph with gusts up to 50 kmph during the same period.
+
+Isolated heavy rainfall is expected over East Madhya Pradesh between August 4 and 7.
+
+## **Maharashtra weather forecast**
+
+Vidarbha is likely to witness fairly widespread to widespread rainfall on August 5 and 6.
+
+Isolated to scattered rainfall is expected over Vidarbha from August 2 to 4 and on August 7.
+
+The IMD has also forecast isolated thunderstorms and lightning over Vidarbha between August 2 and 5.
+
+## **Chhattisgarh weather forecast**
+
+Chhattisgarh is likely to receive fairly widespread to widespread rainfall between August 3 and 7.
+
+Isolated rainfall is expected on August 2, while thunderstorms and lightning are likely between August 2 and 5.
+
+The IMD has forecast isolated heavy rainfall over the state from August 3 to 7.
+
+## **West Bengal weather forecast**
+
+Sub-Himalayan West Bengal and Sikkim are likely to witness fairly widespread to widespread rainfall from August 2 to 7.
+
+Gangetic West Bengal may also receive widespread rainfall between August 2 and 7.
+
+Thunderstorms, lightning and gusty winds reaching 30 to 40 kmph, with gusts up to 50 kmph, are likely over Gangetic West Bengal on August 2 and 3.
+
+The IMD has forecast isolated heavy rainfall over Gangetic West Bengal on August 3 and between August 5 and 7. Sub-Himalayan West Bengal may receive isolated heavy rainfall on August 6.
+
+## **Bihar weather forecast**
+
+Bihar is likely to witness fairly widespread to widespread rainfall from August 2 to 6.
+
+Isolated rainfall is expected on August 2 and August 7.
+
+Thunderstorms, lightning and gusty winds are likely between August 2 and 7, with wind speeds reaching 30 to 40 kmph and gusts up to 50 kmph.
+
+The IMD has forecast isolated heavy rainfall over Bihar from August 2 to 5.
+
+## **Jharkhand weather forecast**
+
+Jharkhand is expected to receive fairly widespread to widespread rainfall from August 2 to 7.
+
+Thunderstorms, lightning and gusty winds reaching 40 to 50 kmph, with gusts up to 60 kmph, are likely between August 2 and 5.
+
+The IMD has forecast isolated heavy rainfall over Jharkhand on August 5.
+
+## **Odisha weather forecast**
+
+Odisha is likely to receive fairly widespread to widespread rainfall from August 2 to 7.
+
+Isolated thunderstorms and lightning are expected during the same period.
+
+The IMD has forecast isolated heavy rainfall over Odisha between August 2 and 7, with isolated very heavy rainfall also likely.
+
+## **Andaman and Nicobar Islands weather forecast**
+
+The Andaman and Nicobar Islands are likely to witness fairly widespread to widespread rainfall between August 2 and 7.
+
+Thunderstorms, lightning and gusty winds reaching 40 to 50 kmph, with gusts up to 60 kmph, are expected during this period.
+
+The IMD has forecast isolated heavy rainfall over the islands from August 2 to 7.
+
+---
+
+### MNC Employee Hangs Self At Gurugram Home, Minor Son Records Act; Family Alleges Wife Wanted Divorce
+*Vani Mehrotra · general*
+
+An MNC employee was found hanging at his Gurugram home. His family alleges foul play, claiming his wife wanted a divorce, while police await the post-mortem report.
+
+[Read full article](https://www.news18.com/india/gurugram-man-found-hanging-family-alleges-foul-play-wife-sought-divorce-son-records-father-hanging-ws-el-10247414.html)
+
+---
+
+### Commonwealth Games 2026 Day 10: Can India cross 40 medals? Final day schedule, events and timings
+*Trending Desk · business*
+
+India will look to add more medals on the final day of the Commonwealth Games 2026 in Glasgow on Sunday, August 2, with judo and track cycling providing the last opportunities for podium finishes. The Indian contingent enters the closing day with 39 medals, including 13 gold, 17 silver and nine bronze, despite the shortened sports programme at the Games.
+
+Rio 2016 Olympian Avtar Singh will lead India's judo challenge in the men's -100kg category, while track cyclists will aim to secure the country's first Commonwealth Games cycling medal. The official closing ceremony at The Hydro will bring the event to an end, with India set to take over hosting duties for the 2030 Commonwealth Games.
+
+## **Judo stars aim to add more medals for India**
+
+Avtar Singh will headline India's judo campaign on the final day as he competes in the men's -100kg category. Ishroop Narang in the women's -78kg category and Yash Ghangas in the men's +100kg category will also represent India on the mat.
+
+Indian judo has already created history at Glasgow 2026. Asmita Dey became the first Indian judoka to win a Commonwealth Games gold medal after claiming the women's -48kg title, while Harsh Singh added another gold soon after.
+
+Yamini Mourya won a silver medal, while Unnati Sharma secured bronze to further strengthen India's performance in judo.
+
+## **Track cyclists chase historic Commonwealth medal**
+
+India's track cycling contingent will compete for a maiden Commonwealth Games medal on the final day.
+
+Ronaldo Singh Laitonjam will compete in the men's 1000m time trial, while Harshveer Singh Sekhon and Dinesh Kumar will participate in the men's 40km points race.
+
+Sixteen-year-old Lisha Das, the youngest member of India's Glasgow 2026 contingent, will conclude India's para track cycling campaign in the women's C4-C5 1000m time trial final.
+
+## **Commonwealth Games 2026 India schedule today, August 2**
+
+**Judo**
+
+Women's -78kg Round of 16: Ishroop Narang, 2:30 PM IST  
+Men's -100kg Round of 16: Avtar Singh, 2:36 PM IST  
+Men's +100kg Round of 16: Yash Ghangas, 2:48 PM IST
+
+Women's -78kg Quarter-final: Ishroop Narang (if qualified), 3:06 PM IST  
+Men's -100kg Quarter-final: Avtar Singh (if qualified), 3:18 PM IST  
+Men's +100kg Quarter-final: Yash Ghangas (if qualified), 3:42 PM IST
+
+Women's -78kg Repechage: Ishroop Narang (if qualified), 3:54 PM IST  
+Men's -100kg Repechage: Avtar Singh (if qualified), 4:00 PM IST  
+Men's +100kg Repechage: Yash Ghangas (if qualified), 4:12 PM IST
+
+Women's -78kg Semi-final: Ishroop Narang (if qualified), 4:18 PM IST  
+Men's -100kg Semi-final: Avtar Singh (if qualified), 4:24 PM IST  
+Men's +100kg Semi-final: Yash Ghangas (if qualified), 4:36 PM IST
+
+Women's -78kg Bronze Medal Match: Ishroop Narang (if qualified), 7:30 PM IST  
+Women's -78kg Final: Ishroop Narang (if qualified), 7:42 PM IST  
+Men's -100kg Bronze Medal Match: Avtar Singh (if qualified), 7:48 PM IST  
+Men's -100kg Final: Avtar Singh (if qualified), 8:00 PM IST  
+Men's +100kg Bronze Medal Match: Yash Ghangas (if qualified), 8:48 PM IST  
+Men's +100kg Final: Yash Ghangas (if qualified), 9:00 PM IST
+
+**Para track cycling**
+
+Women's C4-C5 1000m time trial final: Lisha Das, 8:40 PM IST
+
+**Track cycling**
+
+Men's 40km points race qualifying: Harshveer Singh Sekhon, Dinesh Kumar, 1:45 PM IST
+
+Men's 1000m time trial final: Ronaldo Singh Laitonjam, 3:27 PM IST
+
+Men's 40km points race final: Harshveer Singh Sekhon, Dinesh Kumar (if qualified), 9:09 PM IST
+
+## **Closing ceremony and India's 2030 hosting handover**
+
+The Commonwealth Games 2026 closing ceremony at The Hydro will officially mark the end of the Glasgow edition.
+
+India will formally take over as the host of the 2030 Commonwealth Games during a 20-minute cultural presentation. Led by Shankar Mahadevan, Manushi Chhillar and other performers, the showcase will highlight India's heritage before the Commonwealth Games flag is handed over to Ahmedabad.
+
+The closing ceremony is scheduled for 1:30 AM IST on August 3.
+
+---
+
+### DKS Cabinet likely to be finalised, but Karnataka delay among rarest in history
+*India Today News Desk · general*
+
+Nearly two months after DK Shivakumar **took the oath as Karnataka Chief Minister on June 3**, the full expansion of his Council of Ministers remains pending, with reports indicating the list could be finalised over the weekend, around August 2, and swearing-in possibly early next week.
+
+DKS and other state leaders met the Congress top leadership at party president Mallikarjun Kharge's residence in New Delhi on Thursday to discuss the expansion of the Cabinet.
+
+Shivakumar was sworn in at Lok Bhavan along with Deputy Chief Minister G Parameshwara and 12 other ministers, a first batch of 13 ministers in total with him, for a 14-member team initially. Karnataka's constitutional limit is 34 ministers including the CM, so roughly **20 berths remain vacant**.
+
+Portfolio allocation for the first group happened quickly, but further expansion has been delayed by high-command consultations in Delhi over regional, caste, community, gender and generational balance, competing factional lists (involving Shivakumar and predecessor Siddaramaiah), and other political priorities.
+
+By July 31, this amounts to about 58 days since the initial swearing-in.
+
+Recent reports have pointed to finalisation of names by around August 2, with induction targeted for August 3 or shortly after, ahead of the monsoon session, which begins on August 13.
+
+This is longer than some recent Karnataka precedents but does not set a new national record for the time a state government has operated with a minimal or incomplete cabinet after a CM's induction.
+
+Indian states have seen several extended periods of limited cabinets, often one- or two-member core teams handling all departments, while leadership negotiated equations, high-command clearances, or other factors.
+
+### OTHER STATES HAVE SEEN A LONGER DELAY IN CABINET APPOINTMENT
+
+One of the longest such instances in recent years came in Telangana, where K Chandrasekhar Rao (KCR) was sworn in as Chief Minister on December 13, 2018, along with only one other minister, Mohammed Mahmood Ali.
+
+The **council remained a two-member affair** for over two months before 10 more ministers were inducted on February 19, 2019, creating a gap of around 66–68 days. The delay, attributed to administrative reorganisation and political considerations, also drew criticism from the Opposition over governance.
+
+Maharashtra has also witnessed similar delays on multiple occasions.
+
+After the Shiv Sena split in 2022, Eknath Shinde and Deputy Chief Minister Devendra Fadnavis ran the government as the only **two members of the council for nearly 40 days** before the cabinet was expanded on August 9. Three years earlier, the Uddhav Thackeray-led Maha Vikas Aghadi government functioned with just a seven-member cabinet for about 40 days after taking office in November 2019, as alliance partners negotiated the distribution of portfolios.
+
+Karnataka itself has experienced a comparable, though shorter, phase. After the collapse of the JD(S)-Congress coalition in 2019, BS Yediyurappa was sworn in as Chief Minister on July 26 and headed a one-man cabinet for 25 days before inducting 17 ministers on August 20. During this period, he even chaired cabinet meetings alone while the BJP worked through caste and regional representation and awaited the party high command's approval.
+
+Similar, though less prolonged, episodes have unfolded elsewhere.
+
+In Himachal Pradesh, Chief Minister Sukhvinder Singh Sukhu and his deputy **operated with a two-member council** for about four weeks after taking office in December 2022 before the first cabinet expansion in January 2023.
+
+Delays of several weeks have also been seen in Puducherry, Bihar, Madhya Pradesh and other states, particularly where coalition negotiations or consultations with party leadership have prolonged the process of balancing regional, caste and political representation.
+
+Against this backdrop, Karnataka's current delay — of around 58 days since the initial swearing-in — stands out as one of the longer recent examples, though it remains shorter than Telangana's 2018-19 record. The Constitution does not prescribe a deadline for completing cabinet formation, but prolonged delays have often sparked criticism over governance.
+
+\- Ends
+
+Anand Singh
+
+Aug 2, 2026 08:30 IST
+
+
+---
+
 ## 1 August 2026
 
 ### Indian content creator gets the surprise of his life after Vir Das calls himself a fan
