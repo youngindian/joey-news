@@ -1,8 +1,259 @@
 # Editorials
 
-_Last updated: 2026-08-01 04:54 UTC_
+_Last updated: 2026-08-02 04:56 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 2 August 2026
+
+### Shashi Warrier | Why The ‘Return’ Of PoK May Be Less Than Ideal
+*Deccan Chronicle · Opinion*
+
+A neighbour — I’m not going to offer any information that might enable him to find himself here — arrived at home in a celebratory mood one afternoon in July. “You seem to be having a good day,” I said.
+
+“Yes, yes,” he said. “This is a happy day for all of us.”
+
+I looked out of the window. It was sunny: we were preparing for drought. “Why?” I asked.
+
+“Because Pakistan is breaking up!” he announced. “They will undergo what they wanted us to!”
+
+Whatever trouble there is in Pakistan has a habit of spilling over into India. I kept quiet, thinking perhaps that this neighbour knew something I didn’t. I settled him down and brought him a drink. Prita refused to join us. “The man’s nuts,” she said. “I don’t want to talk to him.”
+
+So I was shrinking at the thought of spending a drink with this man when I was saved by the bell: the doorbell. On the doorstep stood Murthy and Raghavan and a bottle of Scotch, and they couldn’t have come at a better time!
+
+Prita emerged from her shell. “I want to see Murthy and Raghavan take this guy apart,” she whispered.
+
+Soon we were all seated, with finger food and drink, and after the introductions I told Murthy and Raghavan that the neighbour was here to celebrate the breakup of Pakistan.
+
+“They might be breaking up,” said Murthy, “but why are you celebrating?”
+
+“Because Akhand Bharat is coming,” said the neighbour — let’s call him BB, the initials of my nickname for the man — “and we will see the return of our old glory.”
+
+“Are you talking about POJK?” asked Raghavan, “and the JAAC’s 38-point list of demands?”
+
+“Yes, yes,” said BB. “But there are other things. There is unrest in Balochistan, and in Khyber Paktunkhwa. These two will separate, and then even Sindh will go, and only Pakistani Punjab will be left of the old Pakistan!”
+
+From the way he was dropping the names of parts of Pakistan he seemed to know what he was talking about. “How do you think that’s going to happen?” asked Murthy.
+
+“I don’t know,” said BB, “but the stars say it will happen, and I believe them!”
+
+“What stars?” asked Raghavan.
+
+BB pointed at the sky. “All the ones that matter,” he said. “Jupiter and Saturn and Rahu and Ketu… We have the star positions of the Mahabharat repeating themselves. So there will be war soon, and we will win, and Akhand Bharat will once again be a dharmic nation!”
+
+“Do you know how many people died during and just after the Mahabharata war?” asked Raghavan.
+
+“A lot,” said BB, “but I don’t know exactly. It’s not mentioned.”
+
+“It is,” said Raghavan. “Only 12 major figures survived the war, and, if we go by the text itself, nearly four million soldiers were killed, including the ones massacred the night after.”
+
+“It was all for dharma,” replied BB. “It was worthwhile. After all, it cleansed the earth.”
+
+Murthy sat up. “You said that the stars tell of another war,” he said. “Do you mean to say we’re going to see lots of people dying in the near future? Millions?”
+
+“In the next six or seven years,” said BB. “There will be World War, not just European war like in the past! China will break up. They are hiding their problems from the rest of the world but the problems will only grow. Pakistan will break up. The Bangladeshis will be in big trouble because they irritate India!”
+
+“So how do you think Akhand Bharat will form again?” asked Murthy.
+
+“All those people who seceded will ask to come back again!” said BB. “The war will weaken them and they will do a ghar wapasi! They will want to be part of Bharat!”
+
+“Do you know what happened in Kashmir after the Soviets left Afghanistan?” asked Raghavan.
+
+“Yes,” replied BB. “The troubles in Kashmir started then.”
+
+“Most of the people who caused the troubles in Kashmir were from POJK,” said Raghavan.
+
+“Those people are still there,” said Raghavan. “If we allow them to rejoin India, all those people, and the weapons they’ve stockpiled, will be part of India. It’s going to be like hugging a nest of wasps! Is that what you want?”
+
+“I’m sure we’ll find a way to deal with all that,” said BB. “We dealt with Kashmir, didn’t we?”
+
+“Right” said Murthy. “Have you heard of a place called Mirpur?”
+
+“Of course!” said BB. “It’s only about a hundred kilometres from Islamabad, in the southern part of POJK.”
+
+“Yes,” said Murthy, “and do you know its commonest nickname?”
+
+“They call it ‘Little England’,” said Murthy. “And do you know why?”
+
+“No,” replied BB, smiling. He didn’t know Murthy. We did, so we, too, were smiling.
+
+“Because lots of Mirpuris settled in Britain, mostly doing simple jobs, like driving cabs,” said Murthy.
+
+“Honest workers!” said BB, “Like all Indians.”
+
+“Have you heard of the Rotherham grooming scandal?” asked Murthy.
+
+“Of course!” said BB. “It demonstrates the bias of the West! The police didn’t investigate the crime because they were afraid of being called Islamophobic!”
+
+“Well,” said Murthy, “All those cabbies in the Rotherham and related scandals are Mirpuris. So, we’ll have to call them ‘Indian...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/shashi-warrier-why-the-return-of-pok-may-be-less-than-ideal-1975873)
+
+---
+
+### Beyond the outrage: Why India’s silent achievements outshine political noise
+*Deccan Herald · Opinion*
+
+The dust is settling down at Jantar Mantar, after a Cockroach Janta Party (CJP)-led protest resulted in the resignation of the Union education minister in connection with the NEET paper leaks. A tougher anti-paper leak law has been passed, and an expert panel has been constituted to recommend ways to ensure stronger guardrails.
+
+The jury is still out on what these measures will eventually achieve, but it is clear that politics has taken over. The Opposition and the government are eyeing leverage, from the youth discontent against the establishment and the announcement of post-protest examination “reforms”, respectively.
+
+India's first hydrogen train: Salient featuresTwo key takeaways emerge from this agitation and its outcomes. One: not all those who protested were students. Most of those who joined and vandalised property certainly did not have educational reform on their agenda. They must be identified and held accountable. So what was in it for the student?
+
+An overhaul of the NEET admission framework is in order. The government needs to seriously consider increasing the number of medical seats. It must restructure the current syllabus to align with the needs of the times.
+
+The larger goal must be to facilitate a system where millions of students can pursue merit-based career pathways without being bogged down by pressure around limited access and tough eligibility cut-offs.
+
+Two: while the agitation grabbed international headlines, the nation quietly recorded some sterling achievements across domains – from infrastructure and education to space and defence. These highs were, of course, muted in the din around the protests.
+
+When these protests were gathering momentum, on July 17, India’s first Hydrogen Train was flagged off between Jind and Sonipat. So far, the train has travelled over 1,200 kilometres.
+
+Indian Railways has proposed more hydrogen fuel cell-based trains for heritage and hill routes, at an estimated cost of Rs 80 crore per train and ground infrastructure at Rs 70 crore per route.
+
+The launch places India in a group of five countries – alongside Germany, the United States, China, and Japan – furthering the idea of hydrogen-powered rail transportation.
+
+A day after the Hydrogen Train was flagged off, India’s latest leap into outer space unfolded. Vikram-I, a satellite launcher developed by space startup Skyroot Aerospace, lifted off from Sriharikota, signalling a new phase in the country’s space programme.
+
+Skyroot is the first private company to conduct an orbital launch from Indian soil. The milestone also underlines the efforts by IN-SPACe, the nodal agency that hand-holds non-governmental entities in the space sector. This success follows major recent achievements such as
+
+Vikram-1: Creating history, India lifts off its first private orbital rocket Chandrayaan-3, Aditya-L1, and SpaDeX (space docking experiment). In July, the Indian Space Research Organisation (ISRO) also successfully conducted the flight acceptance test of the indigenously developed CE20 cryogenic engine for the next LVM3 mission.
+
+In the same month, the Indian Navy commissioned INS Mahendragiri, an advanced stealth frigate with 75% indigenous content. A team of Indian students gave an outstanding performance at the 56th International Physics Olympiad in Colombia.
+
+All five members of the team won gold medals. A total of 381 students from 87 countries participated, and India secured the joint World No 1 position. At around the same time, a team of young Indians participated in the 67th International Mathematical Olympiad 2026, held in Shanghai, China, winning two gold and four silver medals. India was placed seventh among 117 countries at the event, which featured 666 participants.
+
+Even as political heat was rising and the protests were dominating the news cycle, India was preparing for strategic diplomatic meetings beginning with the Shanghai Cooperation Organisation (SCO) Leadership Summit scheduled in Bishkek, Kyrgyzstan, on August 31 and September 1.
+
+On September 12 and 13, India will host the 18th BRICS Summit as part of its 2026 group presidency. Later in the month, Prime Minister Narendra Modi is scheduled to address the United Nations General Assembly (UNGA) in New York.
+
+Instead of dwelling on the youth protests and fuelling political narratives in the guise of credible dissent, critics should acknowledge the progress the country is making in diverse sectors. The Opposition, particularly the Congress party, would benefit from adopting a more constructive approach that recognises India’s ongoing growth story.
+
+Given that a return to power appears unlikely in the short term, their most effective strategy would be to engage constructively with these achievements and support the nation’s socio-economic development and ascending global profile.
+
+The writer reads between the lines on big national and international developments from his vantage point in the BJP and the RSS.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/beyond-the-outrage-why-indias-silent-achievements-outshine-political-noise-4096164)
+
+---
+
+### Doctors, lawyers and an unsettled case of unequal liability
+*Deccan Herald · Opinion*
+
+Are lawyers different from doctors? Of course they are. But lawyers and doctors also inhabit different status zones in India. While the medical profession carries enormous prestige, lawyers, barring the most sought-after advocates in the Supreme Court, have not really received the same kind of esteem.
+
+I constantly remind my students that all the major leaders of the Indian freedom struggle were lawyers. Somewhere between independence and today, lawyers have lost their sheen.
+
+Beyond the outrage: Why India’s silent achievements outshine political noiseA doctor friend of mine called me the other day about the recent Andhra Pradesh High Court decision in A.S.S.K. Durga Prasad v. National Consumer Disputes Redressal Commission, which held that lawyers are not subject to the Consumer Protection Act (CPA).
+
+The High Court was following the precedent set by the Supreme Court in Bar of Indian Lawyers v D.K. Gandhi, a decision rendered in 2024. The doctor was not particularly upset that lawyers had been excluded from consumer claims; what made him apoplectic was that the same Supreme Court had decided earlier that doctors would be subject to consumer claims.
+
+How did we come to this judicial pivot when the public is more distrustful of lawyers than doctors outside of the court?
+
+Let’s begin with the CPA’s architecture. The Act covers deficiencies in services provided to consumers. Services have been defined widely and inclusively, but the CPA creates an exception for ‘contracts of personal service’.
+
+The idea is that if one person controls the services provided by another person, he/she is disallowed from suing the service provider for deficiencies in service.
+
+In D.K. Gandhi, the Supreme Court decided that lawyers were not subject to the CPA for three reasons. First, the CPA was meant to capture unfair and unscrupulous practices by businesses towards consumers. Lawyers are not engaged in businesses in the sense meant by the CPA, and neither are clients consumers.
+
+A profession is not the same as a business. A profession requires higher-order mental skills and has a larger purpose than making money. Second, lawyers perform under a contract of service in the sense that they are under the control of their clients. A litigator argues on a client’s behalf, but acts on the client’s instructions.
+
+Finally, the Supreme Court held that lawyers are engaged in a sui generis profession, which sets them apart from other professionals. They are traditionally known for their role in administering justice; therefore, the legal profession is not of a nature within the purview of consumer protection laws.
+
+I don’t find compelling the idea that lawyers are performing contracts of service. Lawyers seek client instructions, but they are not really subject to the client’s control when the case is pursued or the legal advice is drafted.
+
+A client can hardly understand legal strategies, much like a patient can hardly understand the treatment protocols followed by the doctor. Likewise, I’m not sure that lawyers as professionals are unique in their ambition and reach and, therefore, outside the CPA’s purview.
+
+However, I believe the CPA is not an enactment that sits well with professional services like those performed by lawyers. A lawyer’s services are not only about outcomes (case wins or losses); therefore, judging these services solely by outcomes is difficult.
+
+Lawyers may also find themselves delivering bad news to clients or speaking without fear or favour. I’m not sure that the CPA is designed to engage with the complexity of such tasks.
+
+The Supreme Court’s judgment in D.K. Gandhi, a two-judge bench decision, was contrary to its opinion on the liability of doctors under the CPA in an earlier case of Indian Medical Association v V.P. Shantha.
+
+In that case, a larger three-judge bench stated that medical services can come under the broad umbrella of services covered under the CPA. Having opined that professionals are not subject to the CPA, the Court in D.K.
+
+Gandhi asked the Chief Justice of India to refer the matter of doctors’ liability under the CPA to a larger bench. However, the Supreme Court declined to consider the matter. Therefore, until the matter comes up afresh before the Court, doctors would continue to be subject to the jurisdiction of the CPA.
+
+Many characteristics of lawyers’ services apply to doctors with equal force. A doctor’s work is not only about outcomes, and in many instances, doctors must deliver bad news to patients.
+
+Given the timelines, any dispute resolution regarding deficiency in services in India is not a great option. Nevertheless, if lawyers are excluded from the CPA, it stands to reason that doctors should be excluded, too. What’s not for the goose should not be for the gander.
+
+The writer is a law professor who thinks that the law is too important to be left to the lawyers.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/doctors-lawyers-and-an-unsettled-case-of-unequal-liability-4096165)
+
+---
+
+### Trump tariffs target India again
+*The New Indian Express · Opinion*
+
+The result is not statecraft, but a sustained campaign of economic destabilisation that undermines the very norms of reciprocity upon which stable international relations are built. The latest and most provocative action arrived last week, hours after the funeral of Senator Lindsey Graham at Washington National Cathedral, where Volodymyr Zelenskyy and Benjamin Netanyahu stood among the mourners, when the US Senate voted 86-12 to advance the Graham’s legislation, Sanctioning Russia and Iran Act of 2026.
+
+The legislation authorises secondary tariffs of up to 100 percent on countries that continue to purchase Russian oil and gas. An earlier draft had explicitly named India, China, Slovakia, Hungary and Azerbaijan as targets. Trump’s fear and favour were clearly reflected in the provisions of the Act. It carefully exempted 15 European nations still importing Russian gas on the grounds that their volumes represented a smaller and declining share of demand.
+
+India buys oil, but then, Europe buys gas. Only one category was judged suitable for maximum pressure. That bipartisan statute—advanced after a colleague’s funeral with more than 60 co-sponsors from both parties—is far harder to reverse than any presidential order. It represents the institutionalization of coercive diplomacy, transforming a temporary executive preference into enduring legislative mandate.
+
+This vote is the culmination of a campaign that has already altered the duty on Indian goods five times in 15 months. Each one of the penal changes were calibrated to extract further concessions rather than to establish a durable framework. In April 2025, Washington threatened a 26 percent tariff. By August, the rate stood at 50 percent, the additional 25 points imposed solely because India continued to purchase Russian crude. Earlier this year, Trump and Modi announced an interim understanding that lowered the rate to 18 percent in return for $500 billion in promised Indian purchases of American energy, technology and other goods.
+
+Eighteen days later, the US Supreme Court, in a 6-3 opinion authored by Chief Justice John Roberts, ruled that the International Emergency Economic Powers Act never authorised those tariffs, voiding more than $160 billion already collected and rendering the India understanding moot. Trump absorbed the judicial setback and immediately imposed a flat 10 percent surcharge under Section 122 of the Trade Act of 1974.
+
+When that temporary authority expired on July 24, Section 301 duties of 10 percent took effect the same night, justified by findings on forced-labour enforcement. Five successive rates, one country, 15 months—an unbroken sequence of recalibration conveying a sordid saga of undiplomatic conduct. It’s for the first time in America’s 250-year-old history that its Head of State has acquired the image of a bully with scant regards for conviction and consistency.
+
+China, which imports comparable volumes of Russian oil, has faced no such revolving door of punishment and has been offered something closer to a negotiated truce. India, the more cooperative partner, has been the more frequently punished. Keeping in view the importance of strategic partnership, India has been making significant concessions. The US goods trade deficit with India stood at around $58 billion in 2025, 27 percent higher than the year before.
+
+However, India’s own surplus with the US narrowed to $34.4 billion in 2025-26 from $40.9 billion the previous year. India reduced the share of its crude imports drawn from Russia, increased purchases of American energy and kept the negotiating channels open while Indian firms committed substantial new investment on American soil. More than a dozen rounds of high-level negotiations followed by visits of senior officials to both Washington and New Delhi have taken place. But they have been turned into either photo albums, TV bytes, or been dismissed by Trump as irrelevant for now.
+
+None of these adjustments has produced a stable rate, a durable exemption, or even a settled legal basis for the duties currently applied. Cooperativeness has been interpreted not as leverage to be reciprocated but as elasticity to be tested repeatedly. Funnily, Trump continues to describe Modi as a friend while deploying every available statute and legislative opportunity to damage his prestige at home. The Trumpian presidency has been transformed from an institution that seeks to forge global consensus into one that thrives on confrontation. Leaders like Netanyahu and Zelenskyy, who postpone or avoid fresh electoral mandates, receive public support and diplomatic latitude. But the fastest-growing large democracy is treated as a problem to be managed through successive layers of tariffs.
+
+Policies that generate worldwide economic instability fall with particular force on brown democracies that lack China’s strategic weight or Europe’s alliance insulation. Modi has so far kept his counsel and refused to escalate, preserving India’s strategic autonomy and room for manoeuvre. Yet, the longer this campaign of coercive diplomacy continues, the clearer it becomes that the damage will rebound upon Trump’s own political base and upon the American economy.
+
+As India expands its manufacturing base, deepens partnerships across the Global South, and positions itself as a credible counterweight to Chinese influence in South Asia, it will emerge stronger, not weaker. By targeting that rising power, Washington is not protecting Americans. It is eroding the commercial relationships and strategic partnership that once promised to balance Asia and advance shared interests.
+
+A superpower that mistakes harassment for statecraft will eventually discover that the countries it seeks to discipline possess alternatives, and that the voters who once cheered confrontation will tire of higher prices, disrupted supply chains and diminished alliances. India has already demonstrated the patience of a rising power that knows time is on its side. America would do well to remember that patience is not the same as permanent forbearance, and that the weaponisation of diplomacy ultimately weakens the hand that wields it.
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/pc/2026/Aug/01/trump-tariffs-target-india-again)
+
+---
+
+### The real disruption is India in transition
+*The New Indian Express · Opinion*
+
+Updated on: 01 Aug 2026, 6:51 pm4 min readCopiedIt is the best of times. It is the worst of times. Dickens wrote in the past tense, about revolutionary France. India’s paradox is in the present tense. Context defines — and designs — the prospects of prosperity.
+
+India is witnessing five transitions running at once. Family businesses are transferring control and wealth. Business models are migrating from distribution to platforms rearranging who owns the fruits of work. There is a toll-booth model of business—wealth management, wellness coaching, wishful tourism—thriving on public savings. Governments are forced to expand welfare as consumption is bifurcating into a K-shape on rising prices. And artificial intelligence is wrenching the human interface from a sector that absorbed two decades of graduates.
+
+None of this is accidental or contradictory. Different transitions are landing on different people. Each acts on its own. Together they compound. Viewed through GDP, India is resilient, still among the fastest-growing major economies. Viewed through employment, ownership or consumption, the K-shaped economy appears. Beneath the reassuring aggregates, almost every mechanism by which India created wealth over three decades is changing at once.
+
+Big business is morphing as the baton passes across houses—Ambani, Adani, Birla, Goenka, Mittal. The founding generation built for scarcity—ports, power plants, refineries, telecom towers. Most of it built with the State, or sold to it. Their prime asset was political proximity and the craft of extracting clearances, spectrum, land and bank capital. That asset is personal and not passed. What passes on is capital, a portfolio of businesses and, presumably, risk appetite.
+
+The transfer is significant. EY and Julius Baer put India on the cusp of an unprecedented inter-generational wealth transfer, with an estimated $1.5 trillion changing hands over the next decade. Some inheritors would rather run a family office than a plant. The economic payoff is immediate: professional management trims the conglomerate discount, improves capital efficiency and accelerates creative destruction.
+
+Secession from the family philosophy often follows succession. The inheritors are not hooked on knowing the sarkar or managing regulatory whimsy. Educated globally and reared on tech ecosystems, they are betting on platforms and the personalisation of experience. Unlike the Japanese and Korean houses, they are not going global. They are betting on the Indian consumer.
+
+Schumpeterian ‘creative destruction’ is manifest. The old corporate model—own assets, control supply chains, scale linearly—is fading. Firms once grew by adding factories, warehouses and branches. They now grow by adding networks. Asset-light platforms—asset managers, fintech aggregators, quick-commerce apps, digital exchanges—scale exponentially deploying minimal manpower. Success is visible in market valuations.
+
+Appreciate the arithmetic. Eternal, a food service platform, is worth as much as Nestlé, an admired packaged foods enterprise in the country. Swiggy, perpetually in the red, has a market cap of around Rs 78,600 crore and sits on brokerage buy lists. HDFC Bank runs 9,689 branches across 4,175 cities and employs 2.11 lakh people. Investors pay 14 times earnings for the bank and 38 times for its sibling HDFC AMC, which employs 1,738.
+
+Much has been written about the confidence of the Indian retail investor; the truth is more prosaic. Equity is a Hobson’s choice for a middle class struggling to preserve purchasing power against the cost of education, healthcare and aspiration. In the first six months of the year, domestic funds absorbed Rs 4.5 lakh crore even as foreign investors sold. Unsurprisingly, asset managers are hot, as are the wealth outfits and companies running market infrastructure like the NSE readying the largest IPO of them all.
+
+Information technology built India’s middle class. For 30 years, Indian software trained engineers and billed clients for hours. AI is rewriting that script; tomorrow’s contracts will price outcomes, not man-hours. The sector faces challenges as generative systems dissolve the forms, functions and structures that generated the jobs. Yes, the global capability centres are hiring. That is the thin edge or end of the wedge. Salaries are drawn in India while value migrates, with the margin, to a multinational balance sheet.
+
+The profits migrating from retailer to platform is real; so is the retrenchment of human interface. A dark store replaces the working capital and the shopkeeper simultaneously. This is formalisation that raises measured output and GST buoyancy while thinning the informal middle. The gainers are listed. The losers are not. The macro implication is stark. GDP grows, but employment does not keep pace. The paradox of platform boom: soaring corporate profitability alongside a shrinking wage share. Consumption data tagged as ‘premiumisation’ reflects K-shaped divergence. The aggregate is healthy. The household is trading down.
+
+India is changing not merely how wealth is created, but who captures it. The toll-booth economy is expanding. Earnings and jobs are also challenged by the transition in consumer behaviour. Parents who expected to create wealth postponed consumption and children who expect to inherit it consume differently. To define is to limit, Wilde wrote. Every generation redefines prosperity; this one defines it by where it has been rather than by what it holds.
+
+Every one of these transitions arrives at the same destination. Ownership of capital takes a larger share of growth and labour is left with a smaller one. The formalisation of consumption has widened the tax base, but the narrowing of the wage base has implications for the political economy. The political class has adopted a mechanism where it uses taxpayer money to compensate and preserve its market share. India’s social contract is being rewritten alongside its economic model.
+
+The disruption is not any one technology, but the convergence of transitions happening at once. Dickens understood that contradictory truths can hold at the same moment. It is the best of times for those who own. It is the worst for those stranded in the transitions.
+
+Author of The Gated Republic, Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/Aug/01/the-real-disruption-is-india-in-transition)
+
+---
 
 ## 1 August 2026
 
@@ -76,6 +327,56 @@ Though saffron is the top band of our flag, it is the blue from the Ashoka Chakr
 There has been an instance of India’s cricket kit being changed to orange and navy blue, which got a thumbs down from furious fans, who likened it to the uniform worn by fuel-dispensing personnel at petrol filling stations. Sensing a severe drop in mileage, the Board of Control for Cricket in India quickly shelved the kit before the issue caught fire. However, to communalise colour is just not sport. Sportspersons sweat to earn ‘India colours’ as they call national jerseys. It doesn’t matter to them whether they are saffron, blue, white or green.
 
 [Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-hockey-india-no-saffron-please-1975642)
+
+---
+
+### Anita Katyal | Did BJP Just Lose The Middle Class?
+*Deccan Chronicle · Opinion*
+
+The student protesters at Jantar Mantar have gone home after the Narendra Modi government bought peace with them by accepting their key demand for the resignation of Dharmendra Pradhan but the disquiet in the Bharatiya Janata Party continues to linger. The ruling party leaders are trying to ascertain the long-term political impact of the protests led by angry, outspoken and irreverent students. For a change, many of them are openly saying the protest could have been handled better. Party insiders do not hesitate to point out that the government should have settled matters amicably by reaching out to the protesters much earlier. Besides worrying about how the carefully crafted image of the party has taken a beating, BJP leaders are concerned that the fire lit by the protests is reaching their homes as their own children are sympathetic towards the protesters. It is also feared that the party could end up alienating a large section of the middle class if the government takes harsh action against the students as, in many cases, their parents are BJP supporters.
+
+Besides brooding over the fall-out of the recent student protests, the BJP ministers and MPs are on tenterhooks over the much-talked about Cabinet reshuffle which appears imminent after Dharmendra Pradhan’s resignation. While ministers are hoping they are not axed or moved to inconsequential ministries, those outside are waiting to get their foot into the door. According to the political grapevine, the performance of BJP chief ministers is also on the cards and changes are not ruled out. The performance of Madhya Pradesh and Rajasthan chief ministers is said to be lacklustre while Haryana’s Nayyab Singh Saini and Maharashtra’s Devendra Fadnavis are considered to be in the safe zone. With Punjab Assembly elections coming up next year, several Punjabi leaders in the BJP are pinning their hopes on replacing Delhi chief minister Rekha Gupta whose record has not exactly been impressive.
+
+Last week’s Lok Sabha debate on the anti-paper leak bill witnessed some interesting scenes. The breakaway faction of Trinamul Congress MPs who have merged with a little-known regional outfit — the National Citizens Party of India (NCPI) — finds itself in an awkward situation. The rebels have been recognised as a separate group by Lok Sabha Speaker Om Birla but they continue to be listed as Trinamul Congress MPs in parliamentary records for all official purposes as the NCPI is not a recognised party. Predictably, there is palpable tension between the breakaway group and the original Trinamul MPs. This was on display during last week’s debate when the more senior and eloquent MPs like Kakoli Ghosh Dastidar, Satabdi Roy and Saayoni Ghosh didn’t want to participate in the debate as they feared incessant heckling from their former colleagues. As a result, the group picked Sharmila Sarkar as its lead speaker. The Trinamul Congress fielded Abhishek Banerjee to send out a clear signal to the deserters, who complained about his style of functioning, that Mamata Banerjee’s nephew is there to stay.
+
+And then there was an awkward moment when Opposition and BJP MPs clashed last week at the main entrance of the new Parliament house. While Opposition members kept up chants of “chanda chor” to highlight the theft of donations at the Ram Temple in Ayodhya and also drew attention to the police action against student protesters, the ruling party MPs countered it with slogans hailing Dharmendra Pradhan. It was during this shouting match that Priyanka Gandhi Vadra came face-to-face with Sushmita Deb, a one-time member of Rahul Gandhi’s core team who first jumped ship to join the Trinamul Congress and then moved on to the BJP. Priyanka looked Sushmita in the eye and shouted “Nehru chor nahin hai”. A visibly embarrassed Sushmita was initially taken aback but recovered sufficiently to put her arm around Priyanka’s waist, saying, “I think we need to move on.”
+
+The season’s mango party hosted by Lok Sabha MP Shashi Tharoor at his Lodhi Estate residence last week was attended by a galaxy of politicians, diplomats, media personalities and, not to mention, many wannabes. The party drew a full house but the debate in the Lok Sabha played spoilsport as Congress MPs were unable to make it because Rahul Gandhi was scheduled to participate in the debate on the anti-paper leak bill around the same time.
+
+Among those who put in an appearance included Congress MP Karti Chidambaram and party office bearers Major Dalbir Singh and Captain Praveen Davar. But the presence of Samajwadi Party chief Akhilesh Yadav, Trinamul Congress MP Derek O’Brien and BJP’s Jay Panda compensated for the absence of senior Congress leaders.
+
+However, Delhi’s humid weather proved to be a dampener, both literally and figuratively. The best of chiffon sarees and halter tops were soaked in sweat. Ditto for the men in suits and Nehru/ Modi jackets. As for the food, there were plenty of mangoes but the long queues put off many guests while ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/anita-katyal-did-bjp-just-lose-the-middle-class-1975829)
+
+---
+
+### Pavan K. Varma | Resignation of Pradhan: What Took Him So Long?
+*Deccan Chronicle · Opinion*
+
+In the parliamentary elections of 2014, Nitish Kumar’s JD(U) got just two seats out of 40. I was with him when he decided to resign as chief minister and take moral responsibility for the debacle. Soon the news spread, and party leaders and MLAs thronged his residence to persuade him not to do so. The JD(U) still had a comfortable majority in the state Assembly, and there was no compulsion for Nitish to resign. But he was adamant. An unsuspecting Jitan Ram Manjhi then became CM.
+
+What Nitish Kumar did was a matter pertaining to politics. But the principle is the same: Authority and accountability are inseparable. A public office is not merely a privilege but a burden of responsibility. A minister is not expected to resign only when he has personally committed an illegality, or when an inquiry had established his direct culpability. He could resign because something grave had gone wrong in the department he headed.
+
+Constitutionally, the position is clear enough. The Council of Ministers is collectively responsible to the Lok Sabha, and individual ministers hold office during the pleasure of the President, in practice on the advice of the Prime Minister. But constitutional accountability is only the minimum requirement. There is also a moral and political accountability which cannot be reduced to a clause in the Constitution. A minister is entrusted with a portfolio because he is presumed capable of exercising supervision over it. If that system suffers a catastrophic failure, the minister cannot simply say: I did not personally do it; some subordinate officer did.
+
+That was once understood in India, and there are many such examples in our democratic history. The most celebrated example is Lal Bahadur Shastri. As railway minister, he offered his resignation after the Mahbubnagar accident in 1956, in which more than a hundred people died. Prime Minister Jawaharlal Nehru initially persuaded him against it. But after the Ariyalur railway disaster later that year, which killed over a hundred people, Shastri resigned. He had not caused the accident. Yet he believed that as the minister responsible for the grave failure, he had to bear moral responsibility. His resignation became one of the defining examples of political probity in independent India.
+
+T.T. Krishnamachari resigned as finance minister in 1958 in the aftermath of the Mundhra scandal, involving the controversial investment of LIC funds. The issue was not that Mr Krishnamachari had personally enriched himself. The larger question was whether the minister could disclaim responsibility for the functioning of his ministry. He could not.
+
+V.K. Krishna Menon resigned as defence minister in the aftermath of India’s disastrous performance in the 1962 war with China. Again, resignation was not a judicial verdict of personal guilt. It was an acknowledgement that the person at the apex of a crucial ministry could not indefinitely remain insulated from the consequences of institutional failure.
+
+Madhavrao Scindia, as civil aviation minister, resigned in 1992 after the crash of a leased Russian aircraft, although there was no loss of life. The resignation was accepted. Nitish Kumar resigned as railway minister after the Gaisal train disaster in 1999, in which nearly 300 people died. The resignation was an explicit acceptance of moral responsibility. Mamata Banerjee did something similar in 2000 after the Howrah-Amritsar Mail accident in Punjab, in which more than 40 people were killed. She said she regarded it as her moral duty to resign. Prime Minister Atal Behari Vajpayee, however, did not accept her resignation.
+
+Union home minister Shivraj Patil and Maharashtra chief minister Vilasrao Deshmukh resigned after the grave security failures responsible for the Mumbai terror attacks of November 2008, explicitly owning moral responsibility. The higher the office, the greater the obligation to answer for what happens under one’s watch.
+
+The Prime Minister is, of course, constitutionally entitled to decide whom he wants in his Cabinet. A minister’s resignation cannot become a weapon that the Opposition brandishes after every administrative failure. Nor should ministers be sacrificed merely because a political adversary demands it. Government cannot function if every accusation automatically becomes grounds for dismissal.
+
+But the opposite extreme is equally dangerous: The notion that a minister should remain in office unless a court, investigative agency or parliamentary committee establishes personal culpability. That reduces ministerial accountability to merely theory. Democracy requires something more.
+
+A minister is not a bureaucrat. Bureaucrats administer; ministers lead, supervise, defend policy and accept political responsibility. If a system fails spectacularly, it is hardly sufficient to suspend a few officials and announce a committee of inquiry. The minister must ask himself whether his continued presence strengthens public confidence in the system or...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/pavan-k-varma-resignation-of-pradhan-what-took-him-so-long-1975824)
 
 ---
 
@@ -9858,68 +10159,6 @@ Addressing that requires a reworking of the growth strategy to generate decent j
 Kalaiyarasan A. is Associate Professor, Madras Institute of Development Studies
 
 [Read full article](https://www.thehindu.com/opinion/lead/tamil-nadus-political-transition-growth-story-faultlines/article70970784.ece)
-
----
-
-## 3 May 2026
-
-### Exit polls: Paid prophecy, not psephology
-*The New Indian Express · Opinion*
-
-The running theme was near-identical. The BJP was positioned for substantial gains across multiple states. Some agencies appeared a full day after the final phase of polling concluded not one of these agencies disclosed its ownership structure, named its institutional backer, declared its client relationships with state governments or political parties, or published its methodology. They appeared, pronounced and disappeared to be recalled by the same channels at the next election, regardless of accuracy.
-
-Their chief qualification seemed less methodological mastery and more media malleability: the readiness to rehearse results before the real results arrived. The historical record on accuracy is not flattering. In the 2021 West Bengal elections, the aggregated poll of polls estimated the TMC would win approximately 156 seats and the BJP approximately 121 in a 294-seat assembly. The actual result was TMC 215, BJP 77. The exit polls underestimated the TMC by about 60 seats and overestimated the BJP by more than 40—a collective structural failure, not a marginal rounding error. In the 2024 Haryana elections, every major agency projected a decisive Congress majority of 44-65 seats with the BJP trailing at 15-28. The BJP won 48 seats and returned to power for an unprecedented third consecutive term.
-
-In the 2024 Lok Sabha elections, multiple agencies predicted the NDA would cross 350 seats. The BJP ended with 240. The consistency of these failures reveals a pattern more troubling than random inaccuracy. India’s exit polls demonstrate a documented tendency to cluster projections in a manner the British polling inquiry identified as herding, whereby pollsters consciously or unconsciously adjust their numbers towards each other to avoid the professional embarrassment of standing alone with a contrarian prediction.
-
-Several agencies this week released precise caste and community voting patterns for Bengal and Tamil Nadu, with exact percentages of Scheduled Caste voters, OBC preferences and minority behaviour. This data does not officially exist. No credible institution maintains a verified real-time caste database accessible in the hours immediately following polling. When an exit poll agency publishes such figures, it is fabricating a sociological narrative in numerical disguise and broadcasting it to an audience with no mechanism for verification.
-
-In Britain, organisations that publish political polls must be members of the British Polling Council, which mandates full disclosure of methodology, sample size, weighting procedures, fieldwork dates and commissioning identity. Full data tables must be published within two working days. When British pollsters failed in the 2015 general election, the British Polling Council and Market Research Society commissioned an independent LSE-led inquiry that produced 12 methodological reforms which the industry adopted. In the US, the National Council on Published Polls requires disclosure of sample sizes, margins of error, question wording and funding sources, with professional consequences for non-compliance.
-
-In India, no such principle operates. Beyond the Election Commission’s prohibition on publishing exit polls until voting concludes, there is no registration requirement, obligation to publish methodology or a professional body with enforceable standards. The same agencies that missed Bengal 2021 by 60 seats were invited back for Lok Sabha 2024. The same agencies that declared Congress victorious in Haryana were projecting outcomes for Tamil Nadu.
-
-Failure is not merely tolerated. It is rewarded with renewed commissions and expanded airtime, because TV channels are not purchasing accuracy. They are purchasing content that fills the vacuum between the conclusion of voting and the declaration of results while inflation, the plummeting rupee and the energy crisis wait patiently outside the studio.
-
-Tomorrow, when ballots are counted across Bengal, Tamil Nadu, Kerala, Assam and Puducherry, the reckoning arrives conducted by the most impartial examiner available to a democracy, which is reality itself. Examine this week’s projections carefully. Every agency has shielded its predictions behind arithmetically improbable ranges, projecting not a number but a spread wide enough to render the prediction technically unfalsifiable. An agency projecting the BJP at between 130 and 175 seats in a 294-seat assembly cannot be wrong if the party wins 131 or 174. An agency projecting the TMC at between 100 and 155 has covered a range capacious enough to contain almost any conceivable result. These ranges are escape hatches engineered to ensure that no matter what counting reveals on Monday, the agency can point to some corner of its projection and declare vindication.
-
-But Monday’s counting will expose not merely whether an agency correctly identified the winning party, but whether its seat estimates bore any relationship to the actual distribution of victories across constituencies, and whether its fabricated caste-wise data had any empirical correspondence to what actually happened at the ballot box.
-
-There is, moreover, a more sinister question that Monday’s results may illuminate. When a dozen agencies independently arrive at virtually identical seat projections for five elections covering crores of voters, one of three explanations must hold. Either rigorous independent survey produced identical conclusions by coincidence statistically implausible. Or several agencies worked from shared data of undisclosed provenance, raising the question of whose data it is. Or some projections were designed to reflect a desired outcome rather than a reality measured with psephology.
-
-May 4 will not definitively resolve which explanation holds. But it will provide the evidentiary foundation for a more honest public reckoning with the question than India has so far managed. Exit polls that shroud their ownership, conjure their caste calculus and engineer elastic ranges pollute democratic discourse. India’s elections—vast, volatile and vulnerable—are among the most intricate exercises in modern democracy. They unfold not in studios but in sun-scorched streets and rain-lashed rural routes, where voters queue with a patience that puts punditry to shame.
-
-Across constituencies that cameras seldom capture and commentators rarely comprehend, choices are made with quiet conviction. To process that collective will through a commercial contraption is to trade democratic dignity for televisual drama. It is, at its irreducible essence, contempt for the voter dressed in the borrowed vocabulary of science. Monday’s counting will not cure that contempt. But it may finally make it impossible to deny.
-
-[Read full article](https://www.newindianexpress.com/opinion/columns/pc/2026/May/02/exit-polls-paid-prophecy-not-psephology)
-
----
-
-### Trump’s war sends prices up, rupee down and budgets into a spin
-*The New Indian Express · Opinion*
-
-The Hormuz Strait is the jugular vein for Asian economies. Over 20 million barrels of crude oil and related products move through the strait daily in normal times. Its closure has cramped availability and ramped up prices. The resultant shortage has seen the benchmark Brent prices yo-yo this month between $100 and $128 a barrel. Every dollar’s increase pushes up the import bill and widens the current account gap. It is estimated that the rise in crude prices from pre-war $65 to over $100 will result in an annual increase of $70 billion to India’s crude import bill.
-
-Thanks to the poll-piper, the government did not hike prices. That may not sustain as the cost of subsidies for oil, gas and fertilisers will wreck the carefully-constructed macro fundamentals. Unsurprisingly, there is buzz about a ‘security’ cess or a ‘war’ cess. While that transitions through the corridors of economics and politics, the currency is already taking a major hit despite the steps taken by the RBI—tumbling from Rs 84.66 to the US dollar in May 2025 to Rs 95.20 this week.
-
-The rupee is trapped in a quandary. Its slide has triggered the exit of foreign institutional investors—their net sales, at Rs 2 lakh crore or roughly $20 billion in the first four months of the year, are higher than their sales in all of 2025. Returns on India’s benchmark Nifty50—both year-to-date and year-on-year—are lower than what is offered by banks for fixed deposits. Despite the fall in the index—over 8 percent this year—HSBC, Goldman Sachs, J P Morgan Chase, Bernstein and UBS saw it fit to downgrade Indian stocks to underweight or neutral. The slide of the rupee causes a flight to safety and that, in turn, causes a further fall. The rupee’s state is both the cause and the consequence of its weakness.
-
-The rupee also faces the threat of slowing or shrinking remittances from $135 billion received last year. India rescued and repatriated 5.72 lakh Indians via Operation Samudra Setu II as Gulf projects stalled under drone threats and a cooling regional economy. The International Energy Agency has warned that restoration of capacity and output could take two years. If the Gulf dream goes into retreat, it will impact the quantum of remittances as also the options for those seeking employment.
-
-The cost and the pain are not just seen in spreadsheets. It is a double- or even a triple-whammy! The conflict’s molecular contagion has left thousands of manufacturing units without gas to fuel production—from the ceramic kilns of Morbi to the textile mills of Panipat-Sonipat, many are facing an existential challenge. Elsewhere, enterprises are stranded as migrant labourers head home without LPG for community kitchens. Many restaurants and cloud kitchens have scaled back or shut down.
-
-The energy shock comes in the wake of a troubled job market. Thanks to the impact of generative AI—from coding to enterprise management and advances in deployment of agentic AI—IT service giants, India’s largest employers, exporters and growth multipliers, are redrawing their armadas. They have slowed hiring and hastened firing. This year, many IT service companies and global capacity centres—including Oracle, TCS and Technicolor—are expected to trim headcount further.
-
-The war has triggered what the IEA called the largest oil supply disruption in the history. The spiral of prices is manifest—38 percent in the US, 27 percent in Spain, 30 percent in Canada, and 38 percent in the Philippines. Liquefied natural gas prices are up 60 percent in parts of Asia. Chemical and steel manufacturers in the EU have imposed surcharges of up to 30 percent. Jet fuel has almost doubled in North America. Shipping and logistics companies have implemented fuel surcharges. Effectively, the cost of production is higher, the cost of transportation is spiralling and the cost of insurance is spiking.
-
-This, naturally, casts a shadow on global growth. The IMF warns that the 2025 momentum has halted. The global fuel mix is largely thermal—gas, crude and coal. The IMF warned that in an adverse scenario, global growth could fall below 2.5 percent and inflation rise to 5.4 percent, with an escalation possibly triggering a global recession.
-
-The Hormuz Strait is a critical energy supply route for China, India, Japan and South Korea, which account for a big part of global output. Europe’s growth, fragile before the war, is close to flat-lining. Growth in the US seems robust, but is dependent on billions being poured into the promise of productivity. Ratings agency Fitch warned this week that the US’s debt level is higher than AA-rated nations’ and will touch 120 percent of GDP.
-
-The most dangerous consequence of the war may not be visible in today’s data—the structural damage to the world order. In India, the post-poll piper is yet to arrive for collecting payment. The election cycle is over. The question the political class must address in earnest is how we navigate an era where the familiar has been rendered uncertain and uncertainty is a constant.
-
-Author of The Gated Republic, Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India
-
-[Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/May/02/trumps-war-sends-prices-up-rupee-down-and-budgets-into-a-spin)
 
 ---
 
