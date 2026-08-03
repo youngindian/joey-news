@@ -1,10 +1,286 @@
 # Editorials
 
-_Last updated: 2026-08-02 04:56 UTC_
+_Last updated: 2026-08-03 05:05 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
 
+## 3 August 2026
+
+### Distress and dispute: On Karnataka, Tamil Nadu and the Cauvery
+*The Hindu · Editorial*
+
+With the southwest monsoon playing truant in its first half, a familiar distress situation has developed in the Cauvery basin. The principal riparian States — Karnataka upstream and Tamil Nadu downstream — have made little progress in evolving a distress-sharing formula in the vexed dispute. Once again, heavy rain in the Cauvery catchment has come to the aid of both States. Whether this will douse the embers or fan parochial flames remains to be seen. Political tensions are rising, with pro-Kannada groups calling for a Karnataka bandh on August 13 and the DMK planning a stir in Thanjavur on August 3, coinciding with the Aadi Perukku festival on the Cauvery’s banks. Despite a surge in inflows into four major Karnataka reservoirs in the Cauvery basin, it is too early to conclude that the water shortage affecting farmers in both States is over. The decision of the Congress government in Karnataka not to release irrigation water adds to the crisis, though such refusals over scheduled water deliveries are not new. Consequently, Billigundulu, the inter-State border measuring point, realised barely one thousand million cubic feet (tmc ft) against the stipulated 31 tmc ft in July, the wettest month.
+
+Perhaps guided by forecasts of a deficient monsoon, Karnataka’s Chief Minister chose to err on the side of caution, anticipating an acute drinking water shortage ahead. However, this has proved costly for Tamil Nadu, which realised only about 3.6 tmc ft from June 1 to July-end, barely 10% of the 40-odd tmc ft prescribed by the Cauvery Water Disputes Tribunal and the Supreme Court. The Cauvery Water Management Authority (CWMA), at its July 30 meeting, ratified the Cauvery Water Regulation Committee (CWRC)’s directive that Karnataka release 3,500 cusecs to Billigundulu daily for 15 days from July 29. Although this quantum would not have met irrigation needs in Tamil Nadu’s Cauvery delta, it would have provided some support to the ecosystem. The CWMA’s decision has upset farmers in Karnataka and the political class but nature has intervened in a limited way. If Karnataka finds the existing mechanisms — the CWMA and CWRC — inadequate, it can suggest alternatives, but must first abide by the decisions of these institutions, which safeguard riparian States’ interests in line with Tribunal and Supreme Court verdicts. Unlike his predecessors, Tamil Nadu Chief Minister C. Joseph Vijay reached out to his Karnataka counterpart, D.K. Shivakumar — but Mr. Shivakumar has asked Mr. Vijay to defer his August 3 Bengaluru visit. However, this episode should not deter the two States from making a renewed bid to work out a distress-sharing formula, the last of which was attempted nearly 25 years ago. Mr. Vijay should also take a cue from his counterpart in handling the Cauvery issue, by bringing together other political players in the State.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/distress-and-dispute-on-karnataka-tamil-nadu-and-the-cauvery/article71297936.ece)
+
+---
+
+### The state against its students, lessons to remember
+*The Hindu · Opinion*
+
+On July 26, 1876, 150 years ago almost to the day, Surendranath Banerjee founded the Indian Association in Calcutta. Its first great agitation was, at its core, a student grievance. The colonial government had lowered the maximum age for the Indian Civil Service examination from 21 to 19, a change that quietly shut young Indians out of the highest offices open to them. The state treated the complaint as an administrative footnote. Banerjee treated it as a constitutional question, toured the country, and turned the anger of examination-going youth into the first genuinely pan-Indian political mobilisation. The Raj never recovered the loyalty of the generation it dismissed.
+
+Fifty years ago, in the winter and monsoon of 1976, two states on two continents were teaching the opposite lesson in real time. On June 16, schoolchildren in Soweto, South Africa, who marched against the imposition of Afrikaans as the medium of instruction were met with live ammunition; hundreds died in the weeks that followed. In India, the Emergency had already emptied the campuses by other means: student unions stood suspended, and activists of every persuasion sat in jail under the Maintenance of Internal Security Act (MISA). Pretoria used bullets, New Delhi used preventive detention, and both were confident they had restored order. Within a decade and a half, the generation of Soweto had made apartheid ungovernable, and the generation of the Emergency had produced much of India’s post-1977 political leadership. Order purchased through the suppression of the young turned out to be the most expensive commodity either state ever bought.
+
+Abhijeet Dipke, Ashutosh Ranka and Saurav Das | The three faces of a revoltThe pattern repeats againThis July, the streets around Parliament and Jantar Mantar have supplied the third panel of the triptych. What began as an online satire has become one of the largest student mobilisations in years, built on grievances that are neither manufactured nor abstract: a leaked National Eligibility cum Entrance Test (Undergraduate), or NEET-UG, paper that forced the cancellation of an undergraduate medical examination taken by over 20 lakh aspirants, and an on-screen marking controversy that left thousands of school students in limbo. So far, the state’s response has followed the familiar pattern of barricades, tear gas, a baton charge that injured more than 100 students during the march on Parliament, and rhetoric from the highest levels of the establishment comparing protesters to vermin.
+
+History suggests three lessons that the state would do well to learn before the pattern completes itself. Lesson one: force does not disperse a genuine grievance, it organises it. The Soweto uprising did not begin as a revolution. It began as a march by schoolchildren over the language of instruction. It was the shooting that made it a revolution. Every image of a fallen student became a recruitment poster, exile camps filled with teenagers who had left the country in the months after June 1976. The regime’s own commission later conceded that the police response, not the original grievance, had transformed a protest into an insurrection.
+
+The mechanism is not South African, it is universal. When the state answers a specific, bounded demand with generalised violence, it converts a policy dispute into a question of dignity, and dignity disputes do not settle. The students who returned to Jantar Mantar the morning after the lathi charge, and said so to every camera available, were following a script written in Soweto and in a hundred places since. A government that reads their return as defiance to be broken, rather than as evidence that force has already failed, is preparing its own sequel.
+
+The ‘lazy’ generation held power accountableThe politics of disrespectLesson two: contempt delegitimises the state faster than it delegitimises the students. The colonial government’s error in 1876 was not primarily one of policy. It was one of register. By treating the civil service age question as beneath serious engagement, it told an entire educated generation that their aspirations had no standing before the state. Banerjee understood that the insult was more mobilising than the injury, and the Indian Association was built on that understanding.
+
+The instinct to belittle is alive today. When constitutional functionaries such as the Chief Justice of India reach for the vocabulary of pest control to describe a section of youth, they repeat the Raj’s mistake with less excuse. Dehumanising language aimed at the young does not shrink a movement but hands the movement its identity, its symbols and its moral high ground in a single gesture. The protesters outside Parliament this week did not have to manufacture the charge that the state holds them in contempt. The state made the charge for them, on the record. A government serious about de-escalation would begin not with concessions but with a change of register by acknowledging, plainly and publicly, that the integrity of public examinations is a legitimate constitutional concern of every citizen who sits for one, and that those raising it are stakeholders, not enemies.
+
+Lesson three: protest is the symptom; blocked accountability is the disease. Students do not camp on pavements because they enjoy tear gas. They do so when every institutional channel for redress has been tried and found closed. The 1876 agitation arose because Indians had no representative forum in which the civil service rules could even be debated and the Association became the forum the constitution did not provide. The Emergency-era campuses went silent because the ordinary machinery of accountability, the courts, the press, the legislature, had been suspended; when it was restored in 1977, the verdict was unambiguous.
+
+The Gen Z-led education reform movement has been explicit that it wants action rather than assurances: credible investigations, examination reform, and accountability for the institutional failures that preceded the leak. These are demands that a functioning system of parliamentary and regulatory oversight should have been capable of processing without a single barricade. The durable answer to this protest is therefore not a better crowd-control strategy but a stronger accountability architecture, wherein an examination authority enjoys genuine independence, evaluation and revaluation are subject to statutory transparency, parliamentary committee scrutiny produces published findings, and consequences attach to officials rather than only to invigilators and middlemen. A state that builds those channels makes the street redundant. A state that refuses to build them makes the street inevitable.
+
+Youth angst that should worry every political partyEnsure genuine accountabilityIt is an accident of the calendar, but a useful one, that the July 2026 crackdown falls in the same week as the sesquicentenary of the Indian Association. The men who governed India in 1876 could not have imagined that a students’ grievance about an examination would seed the movement that ended their rule. Public officials who governed India and South Africa in 1976 could not have imagined that the teenagers they jailed and shot would inherit their states. No government ever believes the pattern applies to itself. That is precisely how the pattern survives.
+
+The young people at Jantar Mantar were not asking the state to surrender. They were asking it to be worthy of the examinations it conducts. On the evidence of a century and a half, the governments that listen to that request are the ones that last.
+
+Shashank Pandey is a lawyer based in New Delhi and former Legislative Assistant to Member of Parliament (LAMP) Fellow
+
+[Read full article](https://www.thehindu.com/opinion/lead/the-state-against-its-students-lessons-to-remember/article71298559.ece)
+
+---
+
+### Revive KGF, stop mining paralysis
+*Deccan Herald · Editorial*
+
+Andhra Pradesh's commissioning of the Jonnagiri Gold Mine, India's first private-sector primary gold mine since Independence, marks a milestone for the country's mining sector.
+
+The state is preparing several more gold-bearing blocks for auction to attract private investment and reduce imports. In contrast, India’s most famous gold mine at Kolar Gold Fields (KGF) in Karnataka continues to languish despite repeated promises of revival.
+
+The now-defunct Union government undertaking Bharat Gold Mines Limited (BGML), which operated KGF, was shut in 2001 after falling gold prices, mounting losses, and years of mismanagement rendered operations unviable.
+
+During its century-long history, BGML produced nearly 800 tonnes of gold. The Union Ministry of Mines itself informed the Karnataka High Court that reserves worth around Rs 8,000 crore may still be underground. The prolonged neglect of KGF is, therefore, difficult to justify.
+
+Inside India's first private gold mine as Andhra awaits its 'KGF moment'In 2006, the Union Cabinet approved handing over BGML's assets to the Employees Forum after valuation and global bidding, with the employees retaining the right to match the winning bid.
+
+Ernst & Young prepared the bid documents, which were approved by the Karnataka High Court and later upheld by the Supreme Court. Yet, nearly two decades later, the project remains mired in bureaucratic delays.
+
+The Employees Forum says it has repeatedly petitioned Prime Minister Narendra Modi for intervention, but to no avail. Meanwhile, BGML's nearly 20,000 acres of freehold land, strategically located along the Bengaluru-Chennai Industrial Corridor, faces steady encroachment, increasing the urgency for decisive action.
+
+The Centre's latest proposal to auction the tailings dumps — mounds of mine waste left behind after decades of gold extraction — has also raised legitimate concerns.
+
+Modern technology can recover significant quantities of gold from the 33 million tonnes of processed ore, making the dumps commercially attractive. However, employees argue that separating this asset would weaken the case of reviving the underground mines as an integrated project, an apprehension that cannot be ignored.
+
+At a time when the prime minister has urged Indians to reduce their appetite for imported gold, the most effective response is to boost domestic production by reviving KGF.
+
+Rather than allowing legal and administrative uncertainty to persist indefinitely, the Centre should constitute an expert committee comprising representatives from the Union and Karnataka governments, mining specialists, financial experts, and the Employees Forum.
+
+It should submit a time-bound roadmap to resolve the remaining legal hurdles, and recommend a viable revival strategy. India cannot afford to let one of its richest mining legacies remain buried under official indecision.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/revive-kgf-stop-mining-paralysis-4096828)
+
+---
+
+### Sanctity cannot substitute neutrality
+*Deccan Herald · Editorial*
+
+The Supreme Court has rightly underlined the need for a fair process in the appointment of the Chief Election Commissioner (CEC) and election commissioners (ECs) while hearing a petition challenging the current system of appointment.
+
+Under the Chief Election Commissioner and Other Election Commissioners (Appointment, Conditions of Service and Term of Office) Act, 2023, appointments of the CEC and ECs are made by a committee comprising the prime minister, a Union minister, and the leader of the opposition.
+
+This law was enacted after the apex court, in the Anoop Baranwal case, directed that the selection committee include the prime minister, the leader of the opposition, and the Chief Justice of India (CJI).
+
+The court laid down this procedure to ensure equal representation of the government and the Opposition, with an independent, neutral person of eminence as the third member to guarantee fairness in the choice.
+
+'No show of fairness?': Supreme Court questions exclusion of CJI from CEC, ECs appointment panelA bench of Justices Dipankar Datta and S C Sharma has, in earlier hearings, noted that the committee created by the 2023 law lacked even “one absolutely neutral person.”
+
+The presence of a neutral person on the committee is essential because elections are the most important democratic process, and the body that conducts them must be neutral and independent.
+
+Solicitor General Tushar Mehta defended the law, arguing that it was wrong to assume that the prime minister and the minister would “not act in the interest of democracy” merely because they hold a majority in the committee.
+
+He said that the office of the prime minister carries constitutional authority and high sanctity, and demanding a neutral member implied a lack of trust in the prime minister.
+
+The court made it clear that the issue was not one of trust or distrust in the prime minister, but imbalance in the committee’s composition, which tilts power toward the executive. Democratic processes must not only be fair but also be seen to be fair.
+
+The sanctity of the office of the prime minister does not ensure fairness and neutrality. The government rushed the legislation to override the Anoop Baranwal judgment and secure control over the appointment of the next CEC.
+
+The consequence is visible in the conduct of the Election Commission of India, which increasingly mirrors the government’s interests. The Solicitor General offered a weak defence of a wrong position, while the court’s questions and observations were fair and valid, and affirmed the need for institutional checks and balances in the system.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/sanctity-cannot-substitute-neutrality-4096827)
+
+---
+
+### Iran breaks retaliation cycle
+*Deccan Herald · Opinion*
+
+The ongoing conflict in West Asia began on February 28, with the United States and Israel launching major air strikes, marking the start of the 2026 Iran war.
+
+Iran retaliated with missile and drone attacks across the region. A temporary ceasefire between the US and Iran came into effect on April 8. On July 10, US President Donald Trump stated that the ceasefire was “over”, due to Iranian strikes on commercial shipping in the Strait of Hormuz, indicating the collapse of the truce.
+
+The US resumed a new wave of strikes on Iran, with Iran retaliating across the Gulf. On July 25, Trump said that the US had paused its bombing campaign to allow diplomacy a chance, and he later said that Washington and Tehran were having “good talks”.
+
+'For future benefit of the world': Trump announces pause in strikes on Iran if a deal is agreed uponReuters reported that the pause followed concerns raised by senior military leaders about the sustainability and effectiveness of continued strikes. In response, a senior Iranian official said that Iran would halt retaliatory strikes as long as the US maintained its pause in bombing. Consequently, there was an uneasy pause in hostilities, and oil markets began to stabilise.
+
+That calm did not last long. On July 29, Iran launched pre-emptive ballistic missile attacks on US forces in Jordan and Kuwait.
+
+This was an unexpected, exceptional strategic shift by Iran, which had been following a strike-for-strike retaliatory policy until now. Prior to that, it had also activated its proxies, notably in Sudan and Iraq. On July 20, the Houthis announced a “maritime blockade” against Saudi Arabia, and that Saudi-linked shipping in the Red Sea and the Bab el-Mandeb Strait would be targeted.
+
+The conflict entered a new phase when Saudi Arabia publicly joined US strikes against Iran-backed militias in Iraq, marking Riyadh’s first acknowledged participation in the widening campaign.
+
+On July 29, the arc of the West Asian conflict further enlarged when an unidentified drone attacked Damietta Port on Egypt’s Mediterranean coast near the Suez Canal, causing a fire on US-linked gas storage tanker Energos Winter, which spread to a second vessel, Gaslog Salem.
+
+These developments have far-reaching implications for both the conduct and the eventual outcome of the conflict. By its recent actions, Iran has attempted to take control of the escalation continuum by raising the stakes for the US and, through horizontal escalation, amplifying instability and insecurity in the region.
+
+So far, the US has been controlling the escalation ladder with Iran in the reactive mode. Throughout the conflict since February, Iranian officials have consistently framed military actions as proportionate retaliation for US attacks, sanctions, and pressure. That narrative helped Iran position itself domestically and internationally as reacting rather than initiating. This pattern has been reversed. Iran has rightly concluded that the US lacks the appetite to force a decisive outcome of the conflict.
+
+Over time, Iran has assessed that the current scale and trajectory of US military operations will likely remain unchanged. In fact, the US is striving to wage a high-stakes war using a force level designed for rapid response and limited objectives, rather than decisive victory. This is not the force posture for achieving a regime change, destroying nuclear capability or forcing a total surrender.
+
+Even securing Kharg Island or the Strait of Hormuz is beyond the capability of these forces. Moreover, the US naval blockade of Iran is largely a symbolic reaction lacking strategic intent. It represents tokenism undertaken in response to military and diplomatic failures in altering Tehran’s position.
+
+Therefore, Washington’s frequent and unceasing threats to annihilate the country have not been taken seriously by Iran, as it lacks credibility and has become ineffectual. As force becomes less usable, the threat to use it loses its value.
+
+Escalation, in many ways an irreversible process, is a competition to pay the cost in pursuit of objectives and is also a competition in risk-taking. Consequently, escalation dominance is a complex mind game in which military calculations are only one element of the matrix; others being resolve, commitment, assurance, morale, and internal discipline.
+
+The US has fared poorly in these parameters. The US had the military power to expel the Chinese from Korea in 1953 but was irresolute. Iran also feels it has suffered enough. Therefore, it has attempted to escape from the current state, where it is being continuously battered by the US, by changing the circumstances.
+
+Surprisingly, the US political and military leadership has been unable to read the Iranian intention to escalate in the fog of war, which will always exist in a conflict situation.
+
+What may happen now? The April agreement to cease hostilities and negotiate for lasting peace is dead and buried. Renewed bombing duels by both sides, interspersed with pauses, are likely to continue along with diplomatic efforts. Both sides will have to accept a ceasefire with conditions or guarantees satisfactory to Iran, which will retain its military capability, bolstered further by Russia and China.
+
+Any long-term agreement will have to be renegotiated. Since Iran has equal, if not more, leverage now than it had in April, it is in a position of strength to dictate terms and not accept conditions unfavourable to it.
+
+Reuters quoted Trump admitting on August 1 that “Iran is becoming stronger every day, and if we wait too long, the problem gets much bigger.”
+
+However, the US may have to settle for an inconclusive or disjunctive outcome, like the status quo ante that existed when the conflict commenced. It may also have to accept a compromise settlement that largely reflects Iran’s current control of Hormuz.
+
+The issue of dismantling Iran’s nuclear capability has become even more vexed after the US and Saudi Arabia signed a civil nuclear cooperation agreement on July 22. Iran is unlikely to settle for anything that curtails its nuclear potential in relation to Saudi Arabia. The US is in a serious predicament that is largely of its own making.
+
+The author is a former Vice Chief of Army Staff.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/iran-breaks-retaliation-cycle-4096831)
+
+---
+
 ## 2 August 2026
+
+### Falling walls: On building collapses
+*The Hindu · Editorial*
+
+In September 2020, the Bhiwandi Municipal Corporation in Maharashtra placed the Kohinoor building on its ‘danger’ list around the same time the Jilani building collapsed a few kilometres away, killing 41. Six years on, and hours after officials declared the Kohinoor to be unsafe again and evacuated around 40 residents, it collapsed, killing 10. In the half decade in between, the owners had refused to vacate or redevelop the property and instead undertook unauthorised repairs. While the fall of the Jilani building, which was old but not on a ‘dangerous’ list, was a failure of anticipation, that of the Kohinoor building, on such a list and which fell mid-repairs, implies a failure of enforcement. Yet, the State responded similarly in both instances, by suspending officials in 2020 and filing a criminal case against the contractor now. Bhiwandi, one of India’s largest powerloom hubs, has a large low-income migrant population living in small houses in densely packed neighbourhoods. With hundreds of buildings on the ‘danger’ list and no transit camps or temporary housing, residents often choose unsafe homes over homelessness, while owners continue collecting rent. Evacuation orders are also hard to enforce without police support, while allowing the corporation to claim that legal liability has been discharged on paper; demolitions are politically fraught. That both buildings collapsed during the monsoons is also not coincidental.
+
+India treats infrastructure as an asset with a one-time investment. The post-2000s construction boom only outpaced maintenance work and administrative oversight, with the latter having fragmented further since. In mid-2024, roofs/canopies collapsed at airports in Delhi, Jabalpur, and Rajkot while Bihar had a spate of collapsing bridges in 2024-26. Roads have frequently caved in and basements have flooded in tier-I cities, including in the Rajinder Nagar tragedy. This year, similar collapses have also been reported in Kolkata and Pune. Despite the availability of technologies to continuously monitor structures and issue early warnings, urbanisation has outrun municipal capacity, with most of the resulting failures involving a known hazard. The apparent rise in the frequency of these incidents indicates a lack of attention to construction quality as much as greater media coverage and there being more infrastructure to fail. But in place of the state’s almost instinctive responses in the form of legal and disciplinary action, inquiries and promises of audits, and victim compensation, India’s buildings need widespread rehabilitation work. Nothing short of an urban renewal would do.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/falling-walls-on-building-collapses/article71297906.ece)
+
+---
+
+### DC Edit | Fifa’s Infantino In A Fix After U-turn
+*Deccan Chronicle · Editorial*
+
+The international football federation’s chief Gianni Infantino quickly scrapped a $20 billion deal to sell a 20 per cent stake in the sport’s blue riband World Cups to a consortium of private investors headed by Joshua Kushner, the brother of the US President Donald Trump’s son-in-law Jared Kushner.
+
+The radical proposal was likened to selling the soul of the game as the super ambitious Swiss-Italian Fifa president sought not only personal glory but also a route to a $65 million a year salary like the US’s NFL commissioner draws besides access to private jets. This was a personal aggrandisement scheme right up the alley of the deal-making enterprises associated with the White House occupant and his immediate kin.
+
+The proposal received such a fierce pushback as to force the Italian administrator to beat a hasty retreat but so stung were the European associations, which are leading members of Fifa and Uefa, that they are calling for his head now.
+
+His idea was too radical but the need for additional funds for football-playing national associations to nurture and promote the game is undeniable. And yet private enterprise was never a part of Fifa’s fund-raising efforts.
+
+Mr Infantino’s cavorting with Mr Trump had not gone down universally well with heavy criticism directed at the Fifa peace prize, which was born of the sycophantic football chief’s imagination.
+
+The federation bowing to Mr Trump’s diktat to cancel the red card and subsequent suspension of the US striker Folarin Balogun was another event which showed Mr Infantino in poor light.
+
+The fact is football, the universally popular sport in which 211 nations participate and compete for 48 places in the globally glamorous World Cup, has all the power to attract finances on its own. The US World Cup is said to have gathered a revenue of $15 bn as global commercial interests line up to sponsor and advertise in the ‘beautiful’ game. There was little need for such a senior administrator to try and lead them on a garden path to tainted riches.
+
+The proposal to oust him as Fifa’s head was dubbed “kill the monster,” which perfectly sums up how hurt the true lovers of the game felt. Interesting times are ahead as Mr Infantino battles to save his elected seat and his legacy in an expanding World Cup, the latest edition of which was a success despite all the politics that was injected into it by Mr Trump’s USA.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-fifas-infantino-in-a-fix-after-u-turn-1976084)
+
+---
+
+### DC Edit | Modi, Metas & Protesters: Be Sincere, Not Indulgent
+*Deccan Chronicle · Editorial*
+
+Prime Minister Narendra Modi’s offer of pardon to the student protesters who allegedly hurled abuses at him during their recent agitation and their response demanding an apology from him instead for the police brutality on them mark a defining moment in Indian politics. The whole episode makes it evident that only honest communication can work with India’s youth who are nothing but irreverent towards anything bereft of a true understanding of the events, unlike in the past when emotions played a crucial role. It’s for the Prime Minister and his administration, and politicians of all hues, too, for that matter with their decades of standing to ruminate about this lesson and come up with a strategy that can keep youth engaged.
+
+The facts that make the background for the exchange are pretty obvious, stark and evident: The Union government was callous and criminally negligent when it conducted an entrance examination which lakhs of students and their families considered critical in their lives. It then played around with a qualifying examination which, again, impacted millions of students. The government offered no apologies to them; instead, it came up with ad hoc measures and quick fixes. That the Neet paper leak happened through the very persons who were commissioned to set the question papers signals the deep rot that had set in the system and how ignorant and oblivious the government was of what was happening right under its very nose. The way the government gave a company with criminal antecedents access to the CBSE paper valuation process adds to its culpability. Worse, the government did nothing to bring out the truth; the affected students themselves did the job.
+
+The protesters were forced to come out on the streets when the government started acting as if everything was hunky-dory and that the nation can return to business as usual. Insensitive government apparatchiks even now contend that the flawless conduct of the repeat examination of Neet is proof enough of the government’s commitment to the student community; they refuse to understand, leave alone empathise with, the agony that millions of students were made to suffer. Some 23 of them called it a day and took refuge in the cold hands of death is of no consequence to them.
+
+So, Prime Minister Modi, his government and his party must recognise the fact that the government erred first, and it erred again when it unleashed police brutality on unsuspecting students protesting against what they perceive as a grave injustice to them. It’s impious then to make an offer of pardon to them; it’s very normal that they attach little value to it.
+
+So, let the government make a clean breast of its mistakes and incompetencies and open an honest attempt to communicate with them. Show them proof of remorse by taking concrete steps to ensure that these will not be repeated and the wrongdoers are being made to pay for their crimes. The formation of an expert committee to revamp the National Testing Agency and tightening of the anti-paper leak law are highly unlikely to impress them for they are a repeat of the ineffective steps the government had taken in the past. Grandstanding and condescending gestures are anathema to them; so is victim-playing. There are no substitutes for honesty, transparency and truthfulness. They work with all generations; and Generation Z is no different in this respect.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-modi-metas-protesters-be-sincere-not-indulgent-1976081)
+
+---
+
+### Anita Anand | Vigilantism Poses A Growing Threat And Is A Blot On India’s Democracy
+*Deccan Chronicle · Opinion*
+
+When citizens don’t believe they can get justice, they often take the law into their own hands. This is called vigilantism, and it has been on the rise in India for the past several decades.
+
+Vigilantism is commonly summarised as “taking the law into one’s own hands”, or “trying to punish someone for breaking a law even though one does not have the right to do that”. A vigilante practises or engages in vigilantism.
+
+According to the political scientist Regina Bateson, vigilantism is “the extra-legal prevention, investigation, or punishment of offences”. This definition comprises three components: Extra-legal, meaning actions taken outside the law (not necessarily in violation of it); Prevention, investigation, or punishment, which require specific actions, not merely attitudes or beliefs; and Offence, which is a response to a perceived crime or violation of an authoritative norm.
+
+Scholars and analysts studying vigilantism in India point out that there is also “collective vigilantism”, as “group violence to punish perceived offences against a community”.
+
+Traditional societies practise vigilantism either because the judicial system isn’t available or because people don’t believe they can obtain justice from it. But in a so-called modern society like India, why is vigilantism fairly common?
+
+India’s criminal justice system is severely strained by delays in justice caused by case backlogs and procedural complexities; overcrowded prisons and inadequate rehabilitation facilities; corruption and politicisation within law enforcement, which affect impartiality and efficiency; and misuse of investigative powers and occasional police brutality, all of which undermine public trust.
+
+It is impossible to cover the history of vigilantism in India due to the many diversities and polarisations in religion, class, caste and privilege. I will take three important cases that share, as their common denominator, issues of injustice, poverty, caste and religion.
+
+The first, the Naxal movement, began in the early 1960s as a land-grab movement at Naxalbari in West Bengal. It was led by a group of radical leftists who believed it would mark the start of a violent revolution to eradicate poverty, inequality, and injustice. Known as Naxalites, they spread their violent tactics and militarised actions to other regions within India.
+
+In response, non-state actors, such as landlords and upper castes, formed private armies to protect their land and prestige and to defeat the “Naxalite menace”. The most notorious of these private armies was the Ranvir Sena, formed in Bihar in 1994. The Indian State also created forces to defeat the Naxalites, whom it viewed as a serious menace to society.
+
+The emergence of Naxalite/Maoist movements can be traced to the Indian State’s inability to meet expectations and solve socio-economic problems post-Independence in 1947. This included the disregard for the social oppression of disempowered castes, the economic oppression of marginal communities due to the failure to implement land reforms, and the failure to implement schemes to promote economic development, as well as the parliamentary parties’ disinterest in solving these problems.
+
+However, in the 21st century, recent vigilante groups are distinct in character from the militant groups of the 20th century. Vigilantism now appears to have created new relationships with the State, not only drawing on the latter for support but also increasingly targeting the Indian Constitution and pressing for extra-legal actions.
+
+Analysts point out that rather than a State deficit, the situation is a reversal: vigilante groups are increasingly drawing their impetus from State support. For example, the “Salwa Judum”, or purification hunt, was a State-supported militia in Chhattisgarh mobilised to counter the Naxalite insurgency. It was later declared illegal by the Supreme Court for human rights violations.
+
+Recent vigilante groups appear to have emerged not only to fill the vacuum created by the State’s deficit but also to serve as de facto “agents of the State”. This marks a new trend in the history of militant vigilante groups in India.
+
+Since 2012, there has been a rise in organisations affiliated with the Rashtriya Swayamsevak Sangh (RSS), a paramilitary right-wing organisation and a member of the Sangh Parivar.
+
+The Bhartiya Gau Raksha Dal (BGRD), or the Indian Cow Protection Organisation, regularly engages in cow vigilante violence against the minorities, primarily Muslims and Dalits. It has close ties with the State machinery, including the ruling parties at both the Central and state levels, the police, and a Gau Commando Force. Vigilantes patrol state borders to prevent people from smuggling cows and conduct raids on slaughterhouses.
+
+Contrast this with a movement in which women, particularly minority and poor women, came together to protect themselves against routine violence.
+
+The Gulabi Gang, or the Pink Sari Brigade (named after the group’s...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/anita-anand-vigilantism-poses-a-growing-threat-and-is-a-blot-on-indias-democracy-1976043)
+
+---
+
+### SANJAYOVACHA | India Has Huge Stake In Ending World War III | Sanjaya Baru
+*Deccan Chronicle · Opinion*
+
+Are we in the midst of World War III? The war in Europe has become a Eurasian war with North Korean troops joining and Chinese support propping up Russia. Ukraine remains in play, at least in part due to the support from Western Europe and the United States. The war in West Asia, yoyoing up and down depending on President Donald Trump’s attention span, has drawn in many countries. The United States has made its military presence felt in Latin America, virtually “occupying” Venezuela and imposing a siege on Cuba. Africa has its own little wars from time to time. Its northern and eastern flanks have been drawn in one way or another into one conflict or another.
+
+While there is no war going on currently in Asia to India’s east, many of the countries in the region are being drawn into the two major ongoing conflicts in Western Europe and West Asia. North Korea is a direct recruit, while Japan is a declared ally of the North Atlantic Treaty Organisation (Nato) countries. Pakistan is embedded in the West Asian conflict in more ways than one. India has suffered collateral damage, with US gunboats entering the Indian Ocean region and Indians being killed in both the major wars.
+
+Do we, therefore, declare that we are now in the midst of World War III? The question has been raised by scholars and commentators. In answering this question, it would be wrong to look for parallels from World War I and II. Both of them were essentially military campaigns in which the armed forces of rival countries were directly engaging each other. Millions died, cities were destroyed, normal life was totally disrupted in the nations that were at war, except for the United States. The same cannot as yet be said of the ongoing conflicts in Europe and West Asia. The damage to life and property has been limited to countries directly engaged in conflict, but countries around the world are paying an economic price already.
+
+The impact of both conflicts has been felt globally. Energy and food prices have shot up. Global trade has been disrupted.
+
+The world’s most powerful economies -- the Group of Seven -- have weaponised finance, energy and trade -- and many citizens of countries around the world, including India, trapped in conflict zones due to their employment have been killed. The Indian people are bearing the burden of these conflicts.
+
+There is as yet relative peace in Asia to our east and southeast, and China is holding its fire in the Taiwan Strait. Most countries in this region have increased their defence spending and war preparedness. Even as India deals with President Donald Trump’s trade offensive and a sweeping sanctions regime, it is maintaining defence relations with the US, as it indeed is with Russia. India has also increased defence spending, and is also exporting arms: selling arms to Israel, a perpetrator of war, and selling BrahMos missiles to various Asian countries.
+
+During World Wars I and II Indian citizens were drawn into the conflict, dying on European and Asian frontlines in defence of the British Empire. Today, Indian soldiers are not yet engaged but Indian citizens are dying as a consequence of the two wars. More importantly, the Indian economy has already paid a huge price as a result of both wars. The rise in energy and food prices, the disruption in supplies and the decline in global demand for manufactures and services have all negatively impacted India. After suffering the consequences of demonetisation and the Covid-19 pandemic, India is now burdened by the consequences of both wars.
+
+Clearly India has a huge stake in bringing both conflicts to an end. Prime Minister Narendra Modi once famously declared that “this is not an era of war”, but India’s ability to intervene and make a difference has been limited by the fact that in both conflicts India has friendly relations with both sides. India’s relations with Russia are as important for her as relations with the European Union and the United States, even if Ukraine is a lesser consideration. In West Asia, India has a stake in maintaining good relations with all sides.
+
+India is currently seeking membership of the United Nations Security Council. It is not clear why the external affairs ministry has thrown India’s hat into the ring at this late stage. But, having done so, it could consider strengthening its case by in fact being a peace activist on the world stage. India has a direct stake in ending both conflicts. It also has a stake in ensuring that all the major powers -- the US, Russia and China -- respect international law and the UN Charter in their own neighbourhoods.
+
+India is hosting the Brics summit in September this year. While Russia and Iran are directly involved in a war, most Brics countries have a stake in a return to a more peaceful and stable global environment. Can Indian leadership articulate a vision for world peace and build a coalition of nations that seek an end to both the Ukraine and Gulf conflicts? Equally, they should insist that ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/sanjayovacha-india-has-huge-stake-in-ending-world-war-iii-sanjaya-baru-1976060)
+
+---
 
 ### Shashi Warrier | Why The ‘Return’ Of PoK May Be Less Than Ideal
 *Deccan Chronicle · Opinion*
