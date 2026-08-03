@@ -1,3 +1,717 @@
+## 3 August 2026
+
+### 'Funded By Boston Scholarship Letter And Loan': CJP's Dipke Counters Row Over US Education
+*Meemansa Shekhawat · general*
+
+CJP founder Abhijeet Dipke junked suggestions that his education at the renowned Boston University was funded by unexplained family wealth
+
+[Read full article](https://www.news18.com/india/funded-by-boston-scholarship-letter-and-loan-cjps-dipke-counters-row-over-us-education-ws-l-10248619.html)
+
+---
+
+### RBI MPC meeting begins today: Will repo rate remain unchanged despite global rate hikes?
+*India Today Business Desk · general*
+
+The Reserve Bank of India's (RBI) Monetary Policy Committee (MPC) begins its three-day meeting today against the backdrop of rising global inflationary pressures, higher crude oil prices and a growing list of central banks that have opted to raise interest rates over the past few months.
+
+Yet, unlike many of its global peers, economists expect the RBI to hold the repo rate steady this week, betting that domestic inflation remains under control despite mounting external risks.
+
+According to a Reuters poll, 68 of the 72 economists surveyed expect the RBI to leave interest rates unchanged when Governor Sanjay Malhotra announces the policy decision on Wednesday.
+
+While a rate hike is widely seen as unlikely this week, economists believe the central bank could adopt a more hawkish tone as inflationary pressures gradually build.
+
+### WHY IS INDIA LIKELY TO TAKE A DIFFERENT PATH?
+
+Since the outbreak of the US-Israel conflict involving Iran five months ago, several central banks, including those in Europe, Australia, Indonesia, the Philippines, Singapore, South Korea and South Africa, have raised benchmark interest rates in response to higher inflation risks.
+
+The US Federal Reserve and the Bank of Japan, however, have also kept rates unchanged.
+
+India finds itself in a relatively comfortable position.
+
+Retail inflation rose to 4.38% in June, crossing the RBI's 4% target for the first time in 17 months. However, it remains comfortably within the central bank's tolerance band of 2% to 6%.
+
+Core inflation, which excludes volatile food and fuel prices, has also stayed close to 4%, giving policymakers flexibility to wait for more data before considering any rate action, according to economists surveyed by Reuters.
+
+Samiran Chakraborty, Citi's Chief India Economist, said core inflation remains within the RBI's comfort zone.
+
+"Although core and underlying inflation have risen modestly, they remain within the RBI's comfort zone. Consequently, a rate hike is unlikely in 2026 unless core inflation sustains above 4.5%," he said.
+
+### WHAT COULD CHANGE RBI'S STANCE?
+
+Even though the RBI is widely expected to maintain status quo this week, economists believe the central bank's language could become more cautious.
+
+Wholesale inflation surged to 9.87% in June, while a central bank survey conducted in May showed inflation expectations among households have also started rising.
+
+Higher crude oil prices following renewed geopolitical tensions in the Gulf have further added to concerns over imported inflation.
+
+Tanay Dalal, Economist at Axis Bank, expects the MPC to acknowledge these risks while remaining data dependent.
+
+"The MPC is likely to shift language acknowledging risks of firmer inflation and policy action ahead, while maintaining a data-dependent approach," he said.
+
+He added that wholesale price pressures could begin feeding into retail inflation over the next three to four months, gradually reducing the RBI's room for flexibility.
+
+### PRESSURE FROM THE RUPEE
+
+Another challenge facing the RBI is the rupee.
+
+Ahead of the June monetary policy, the Indian currency had slipped to a record low, prompting calls from some economists for a rate hike similar to those undertaken by countries such as Indonesia and the Philippines to support their currencies.
+
+Instead of increasing rates, the RBI introduced measures to attract foreign capital, including removing capital gains tax for foreign investors in government bonds and making dollar deposit schemes for non-resident Indians more attractive.
+
+According to Reuters, these measures have helped attract nearly $40 billion in inflows, providing temporary support to the rupee.
+
+However, renewed pressure from rising oil prices has once again weighed on the currency.
+
+Trinh Nguyen, Senior Economist for Emerging Asia at Natixis, believes the RBI may eventually have to tighten policy if these pressures persist.
+
+"If you compare India to similarly rated markets, it's not the most compelling story from a real yields perspective," Nguyen said.
+
+"Fundamentally, I think the right call for India is higher rates. They are not going to do it this week but the longer they wait, the more they will be pushed to it."
+
+Interest-rate swap markets are already pricing in roughly 75 basis points of rate hikes over the next 12 months, suggesting investors expect policy tightening eventually.
+
+### WHAT DOES THIS MEAN FOR HOMEBUYERS?
+
+For borrowers, particularly homebuyers, an unchanged repo rate would mean relief.
+
+A status quo would help keep home loan rates stable, offering certainty to both existing borrowers and prospective buyers at a time of heightened global uncertainty.
+
+Pradeep Aggarwal, Founder and Chairman of Signature Global, said domestic inflation remains within the RBI's manageable range, giving the central bank enough room to maintain policy stability.
+
+"The housing sector has been witnessing healthy demand, supported by lower home loan rates, improving affordability, and strong consumer confidence. Maintaining this supportive policy stance will help sustain housing demand and continue contributing meaningfully to India's economic growth," he said.
+
+Umesh Gowda H A, Chairman and Founder of Sanjeevini Group, echoed similar views.
+
+"The upcoming RBI Monetary Policy Committee meeting comes at a time when the global economy is grappling with heightened geopolitical tensions, persistent supply chain disruptions and renewed inflationary pressures. While a status quo on the repo rate appears to be the most prudent approach, the central bank's commentary on inflation and liquidity will be equally important," he said.
+
+Mukesh Choudhary, Managing Director of Accuspace, said policy consistency is particularly important during uncertain times.
+
+"We expect the MPC to adopt a wait-and-watch approach. Such a stance would reassure both domestic and foreign investors who value policy consistency during uncertain times," he said.
+
+Ankur Jalan, CEO of Golden Growth Fund, also expects the RBI to adopt a cautious approach.
+
+"In this environment, we expect the RBI to adopt a cautious and calibrated approach, with a status quo on policy rates being the most likely outcome," he said.
+
+Lalit Parihar, Managing Director of Aaiji Group, said preserving macroeconomic stability should remain the central bank's priority despite calls for lower borrowing costs.
+
+"A measured policy stance will reinforce investor confidence and ensure that financing costs remain predictable," he said.
+
+While markets overwhelmingly expect the RBI to keep the repo rate unchanged, investors will closely watch three things:
+
+Whether the RBI turns more hawkish on inflation.Its outlook on crude oil and imported inflation.Any hints on the timing of a future rate hike if inflationary pressures continue to build.
+
+With global central banks increasingly opting for tighter monetary policy, the RBI may continue to hold rates steady this week—but its guidance could offer the clearest indication yet of whether India's rate cycle is approaching a turning point.
+
+\- Ends
+
+Aug 3, 2026 09:19 IST
+
+---
+
+### OpenAI employee claims Google had ChatGPT before OpenAI but never released it
+*Armaan Agarwal · general*
+
+## In November 2022, OpenAI took the world by storm with ChatGPT, an AI chatbot that we had never seen before. But according to OpenAI's Thibault 'Tibo' Sottiaux, Google had its own chatbot before ChatGPT but simply didn't release it.
+
+Google had its own ChatGPT before OpenAI made one, says OpenAI employee. (Photo: Reuters)
+
+Nearly four years ago, OpenAI shook the world with ChatGPT – an AI chatbot that could talk to you in a way that we had never seen before. Google had to play catch up following ChatGPT’s release as it scrambled to get a piece of this AI pie. But according to OpenAI’s Thibault ‘Tibo’ Sottiaux, who was part of Google’s AI team before, Google could’ve enjoyed an advantage all along.
+
+Tibo replied to a post on X from AI engineer Cheng Lou who wrote, "I sometimes think about that Jeff Dean interview where he said they had an internal bot before ChatGPT but didn't think it was better than just googling."
+
+Tibo who worked at Google before joining OpenAI revealed that Google had its own ChatGPT almost a year before OpenAI released it "I was part of that team. Basically ChatGPT one year before it came out. Called LMChat and then another codename,” he wrote.
+
+Tibo claimed that Google blocked the release of its own chatbot at the time.
+
+### Google blocked AI chatbot release
+
+The OpenAI employee claimed that Google was worried that a chatbot could hamper its search business and decided to block the release. “Google was too nervous to release it and DeepMind was blocked from shipping products that could disrupt Google,” Tibo added. “I think about this a lot.”
+
+Thibault ‘Tibo’ Sottiaux left Google DeepMind in July 2024 to join OpenAI.
+
+You see, Google fundamentally created the architecture of a large language model (LLM) that we use today with its 2017 paper, “Attention is All You Need.” Simply put, Google developed the Transformer architecture that puts the T in ChatGPT – GPT stands for Generative Pre-trained Transformer. But Google decided not to release its chatbot back in the day, and OpenAI beat them to it.
+
+Though after the release of ChatGPT, Google found itself playing catchup, initially with AI model Bard, before releasing Gemini.
+
+Back in 2022, Google CEO Sundar Pichai and Google DeepMind chief scientist Jeff Dean said Google had similar capabilities to OpenAI, but the risks of getting things wrong were greater because users had to trust the answers they received from Google.
+
+Dean said in an all-hands meeting back then, "This really strikes a need that people seem to have but it's also important to realize these models have certain types of issues." That is, the company claimed that it was worried about hallucinations – where an AI chatbot may make up information instead of relying on facts – something which remains a problem to some extent even today.
+
+Before ChatGPT though, Google was widely seen as the leading AI company, with Google Brain, DeepMind and Google Research driving work in the field. The company had the research, infrastructure and talent, and had developed models such as LaMDA, PaLM and Meena.
+
+As per reports, these systems were kept internal or were not fully integrated into Google's product suite, with concerns around accuracy, safety and the risk of disrupting its search business.
+
+OpenAI's launch changed the pace of the market. ChatGPT reached one million users in five days and 100 million in two months. Today, ChatGPT has about 1 billion monthly active users, with Google’s Gemini nearly 950 million. Google and OpenAI are at the frontier of AI development alongside Anthropic when it comes to building the most advanced AI models out there.
+
+This is not the first time that discussions about Google’s decision not to release its chatbot have gone viral online. Though if Google had decided to release its chatbot, it is possible that OpenAI may not have gained the same level of attention it did.
+
+\- Ends
+
+Armaan Agarwal
+
+Aug 3, 2026 09:15 IST
+
+---
+
+### India news Live Updates, 3 August 2026: Tamil Nadu farmers stage sand-burial protest as Cauvery row flares up
+*Express Web Desk · politics*
+
+Tamil Nadu farmers bury themselves in Cauvery sand demanding Karnataka release water for Kuruvai crop. Bypoll counting begins with focus on Prashant Kishor's debut. Centre orders exclusive NDPS courts for 3.9 lakh pending drug cases.
+
+[Read full article](https://indianexpress.com/article/india/today-india-breaking-news-live-updates-3-august-2026-cauvery-protest-sand-burial-bypoll-counting-prashant-kishor-10815315/)
+
+---
+
+### 'Modi Ji Will Forgive You': CJP Slams Probe Into Dipke's Finances, Asks Why PM CARES Fund Isn't Scrutinised
+*Vani Mehrotra · general*
+
+CJP spokesperson Vaishnavi Gaur responds after an RTI activist sought a probe into Abhijeet Dipke's family finances. Dipke says his US education was scholarship-funded.
+
+[Read full article](https://www.news18.com/india/cjp-responds-abhijeet-dipke-rti-complaint-dipke-pm-cares-fund-cockroach-janta-party-vaishnavi-gaur-ws-l-10248615.html)
+
+---
+
+### How IIT Madras helped Jhandu Kumar win India's first Commonwealth Games 2026 medal
+*Radifah Kabir · general*
+
+On a competition platform in Glasgow, Jhandu Kumar bent over a loaded barbell and drove 190 kilograms into the air. When the bar settled and the judges' lights turned in his favour, a 28-year-old from Bihar's Nalanda district had won India's first medal of the 2026 Commonwealth Games. The bronze was his by the slenderest margin imaginable. Only a tenth of a point had kept him from silver.
+
+Prime Minister Narendra Modi called it a spectacular performance. Jhandu Kumar, the son of a vegetable vendor, had made the whole country proud.
+
+Para powerlifter Jhandu Kuma won India's first medal at the Glasgow 2026 Commonwealth Games. (Photo: PTI)
+
+Yet, the more extraordinary part of this story does not begin on that platform in Glasgow at all.
+
+It begins several years earlier, in a room at the Indian Institute of Technology Madras, with a young researcher, an improbable idea, and a professor honest enough to admit how little he knew.
+
+### IT BEGAN WITH A YOUNGSTER AND A CONFESSION
+
+Professor Mohanasankar Sivaprakasam leads a healthcare technology group at IIT Madras. The director of the Healthcare Technology Innovation Centre and the Sudha Gopalakrishnan Brain Centre at IIT Madras, Professor Sivaprakasam was awarded the prestigious Rashtriya Vigyan Puraskar 2025 in the Vigyan Yuva-Shanti Swarup Bhatnagar category for Technology and Innovation.
+
+Since around 2010, his teams had been building indigenous medical devices, the sort of instruments that measure what is happening inside the human body so that doctors can help patients recover.
+
+Somewhere around 2016 and 2017, people began putting a question to him that he could not immediately answer. “You improve the health of patients,” they said. “Could you improve the performance of athletes?”
+
+Rashtriya Vigyan Puraskar awardee Mohanasankar Sivaprakasam is the head of Acrophase (Photo: Special arrangement)
+
+The idea to actually attempt it did not descend from a senior professor. It came from one of his own researchers, a man barely in his mid-20s at the time. That researcher was Preejith SP, today the chief technologist of the centre that grew out of the conversation.
+
+“I told him openly that I know nothing about sports,” Professor Sivaprakasam told India Today Digital. “We can start the work, and then we learn, and then we will grow this.”
+
+That admission, more than any single machine, is where the story truly opens. A senior scientist agreed to walk into a field he did not understand, on the strength of a young researcher’s conviction, and to learn it from the ground up. The centre they built was named Acrophase, a word that means peak performance. The idea took shape around 2016. The laboratory was formally set up in 2021.
+
+### THE LADDER THAT ENDS TOO SOON
+
+To understand why a room full of sensors should matter to a vegetable vendor's son, you have to understand how sports really works in India, away from the television lights.
+
+There are roughly five to six lakh professional athletes in the country, people who rise every morning to train because sports is their livelihood.
+
+By the centre's own reckoning, no more than one or two thousand of them ever reach genuinely modern, technology-driven support. The rest train largely in the dark.
+
+Cricket is the exception, cushioned by the wealth of the Indian Premier League (IPL) and a sturdy domestic structure. Almost everywhere else, the professor says, the ladder simply ends.
+
+If you are not in the national team, the rung below is desperately low, and access to good facilities falls away steeply. In track and field, in weightlifting, in the para sports, even a national jersey guarantees very little unless a major international competition happens to be looming.
+
+This is the gap Acrophase set out to close, and it did so quietly. Its work was never aimed at the _“Virat Kohlis and Rohit Sharmas”_ of Indian sport, Professor Sivaprakasam said, who reach world-class facilities anyway. It was built for the aspiring athlete nobody was watching.
+
+### A LABORATORY THAT BUILT ITS OWN EYES
+
+The instruments that measure elite athletes are almost always imported, and they are punishingly expensive. A single high-end system can cost more than a small federation sees in a year. Acrophase could not afford to buy its future, so it built it.
+
+Its advantage came from two places. The first was the group's long experience of measuring the human body for medicine. The second was software. By writing clever algorithms, the team found it could take a simpler, cheaper sensor and coax from it the accuracy that usually demands costly hardware.
+
+A hospital electrocardiogram, or ECG, the test that records the heart's electrical activity, normally uses 12 points of contact on the body. Acrophase uses just one. The detail the other 11 would have captured is instead rebuilt by the software.
+
+The result is a device accurate enough for serious use, yet affordable enough to handle 50 or 60 athletes at once. A comparable system licensed from abroad, the professor says, could cost millions.
+
+Two wearable devices do most of the daily work. The first is a chest band worn only during training. It carries two sensors, one for the heart and one for movement, and together they measure what the team calls load, the total strain a session places on the body.
+
+From the tiny variations between one heartbeat and the next, a measure known as heart rate variability, the experts can read how hard an athlete is working and how well the body is coping.
+
+The second device is a wristband worn through the night. It tracks sleep, the truest sign of whether the body has recovered, and keeps a rough watch on emotional stress.
+
+A third instrument, which reads the faint electrical signal a working muscle gives off, a technique called electromyography or EMG, stays in the laboratory and shows exactly when and where a muscle starts to tire.
+
+The lab also measures VO2 max, the peak volume of oxygen a body can draw in and use during all-out effort, which remains the clearest single number for endurance.
+
+Preejith SP, who describes the set-up with the ease of someone who built it, likens the array of equipment to the kind glimpsed in the Brad Pitt film _F1_.
+
+Its purpose, though, is quietly radical. It records an athlete's load and recovery day by day, instead of leaving them to be guessed at the end of a session.
+
+### WHY THE ENGINEERS WERE ASKED TO STEP BACK
+
+The centre's most important lesson had nothing to do with hardware.
+
+In its first few years, the professor admits, the project nearly failed, and for a simple reason. It let engineers speak directly to athletes and coaches.
+
+The reports they produced were precise, detailed and utterly baffling to the people meant to use them. The coaches would study the numbers and, quite reasonably, say they did not understand.
+
+So the centre rebuilt itself around a layer of translators. It brought in exercise physiologists, sports physiotherapists, nutritionists and former athletes, people who lived in the athlete's world and could turn a graph into a plan.
+
+Today, no engineer at Acrophase talks to a coach directly. Someone from the athlete's own domain always stands in between.
+
+Beneath all of it lies a golden rule. The athlete is told almost nothing about the numbers. Their only task is to compete and to trust their coach. Every measurement, every correction, every warning goes to the coach instead, because an athlete's mind, as the professor puts it, is already full.
+
+### READING A BODY THE WORLD OVERLOOKED
+
+Para athletes ask more of this science than anyone. With an able-bodied athlete, the team can begin from a broadly standard set of tests. With a para athlete, almost nothing is standard.
+
+Consider an athlete like Jhandu Kumar. In a para powerlifter of his classification, the strength of the lower limbs is close to zero, so everything rests on the upper body.
+
+The lab measures the force each individual muscle can generate, checks the range through which every joint can move, and studies slow-motion video of each lift.
+
+It watches, above all, for imbalance, the instinct to lean on one stronger limb which, in a sport decided by a whisker, can separate a clean lift from a failed one.
+
+None of this reaches Jhandu Kumar as a spreadsheet. It reaches his coach as a handful of small corrections, and the athlete simply lifts.
+
+Around the science sits a second kind of support, which is money. The centre runs a digital platform called the Unified Athlete Interface, a sort of professional network for Indian athletes, where anyone in the country can register, build a profile and log their progress.
+
+More than a thousand athletes are already on it, including over 400 para athletes. Through partners such as the SBI Foundation and the Wadhwani Foundation, the centre routes scholarships and performance funding to athletes who would otherwise have none.
+
+The next ambition is to identify talent even earlier.
+
+Acrophase is building what it calls India's first athlete profiling platform, testing young people across 10 sports, from athletics and boxing to archery and swimming, and using a blend of physiological measurements, on-field tests, a little genetics and artificial intelligence to work out which sport a child's body is truly built for.
+
+In wealthier countries, this profiling is routine by the age of 12 or 13.
+
+India has never had a system for it. Right now, the centre works hands-on with 26 para athletes and 50 able-bodied athletes every day, a figure it began building only in July 2025 and hopes to raise to 80 and 90 respectively by the end of this year.
+
+### THE TWO GAPS INDIA CANNOT IGNORE
+
+The professor is careful not to let the technology take all the credit. Two human problems, he says, matter far more, and both belong in any honest telling of this story.
+
+The first is coaching. India's coaches, he argues, need serious upskilling in how to measure and read performance the way the rest of the world does. Something as basic as an athlete's balance can no longer be judged by eye. It has to be measured, and coaches have to learn to trust the measurement.
+
+The second is money, and here his language turns blunt. Funding for most of India's athletes, he says, is abysmal. By his own rough estimate, the great majority survive on a few thousand rupees a year of real performance support, while only the thousand or so at the very summit receive anything like a proper monthly stipend.
+
+Yet the sum needed to change this is not vast. Spread even Rs 20,000 a year of assessment funding across five lakh athletes, he says, and the entire system could rise. The numbers are small. The will has been missing.
+
+There is a quieter gap too, around the mind. Acrophase keeps a light watch on emotional stress through its wristbands and calls in respected psychologists when an athlete needs one, but sports psychology in India, the team notes, is still finding its feet.
+
+And an athlete's career is cruelly brief. In many disciplines, a competitor who has not arrived by 24 is already thought finished.
+
+### THE QUIET REVOLUTION
+
+Return, finally, to that platform in Glasgow, and to the shape of the whole story.
+
+A young researcher had an idea. A professor who knew nothing about sport believed in him, and lent it his name and his credibility. Together they built something for the athletes the country tends to forget, and years later that quiet work helped carry a vegetable vendor's son to a Commonwealth Games podium.
+
+"I am grateful to Acrophase, IIT Madras for enabling financial support and guiding me in my training," Jhandu Kumar said after his win. This is the kind of backing that can help athletes like me win medals for India.
+
+There are five to six lakh athletes in India waiting for the same chance. A laboratory in Chennai has shown, with indigenous sensors and a stubborn faith in people the system overlooked, that giving it to them may cost far less than anyone ever imagined.
+
+\- Ends
+
+Radifah Kabir
+
+Aug 3, 2026 09:10 IST
+
+---
+
+### Nineteen Years Later: Taslima Nasreen Recalls The Night She Was Forced To Leave Kolkata
+*Meemansa Shekhawat · general*
+
+For nearly two decades, the events of 22 November 2007 have remained one of the most painful chapters in the life of exiled Bangladeshi author Taslima Nasreen
+
+[Read full article](https://www.news18.com/india/nineteen-years-later-taslima-nasreen-recalls-the-night-she-was-forced-to-leave-kolkata-ws-l-10248578.html)
+
+---
+
+### UPI Payments May Soon Need An Extra 'Yes' Before Money Leaves Your Account
+*Apoorva Misra · general*
+
+A transaction could be flagged if it involves an unusually large amount, a first-time beneficiary, a new device or a payment pattern that differs from a customer's spending habits
+
+[Read full article](https://www.news18.com/explainers/upi-payments-may-soon-need-an-extra-yes-before-money-leaves-your-account-ws-l-10248628.html)
+
+---
+
+### 8th Pay Commission: How 3%, 5%, 6% annual increments could raise central government employees' salaries over 5 years | Mint
+*Shivam Shukla · economy*
+
+The 8th Pay Commission today, 3 August, marked nine months since its constitution on 3 November 2025. Headed by Justice Ranjana Prakash Desai, as the Chairperson, the Commission has now completed half of its allocated 18-month term. It will submit final recommendations on salaries, fitment factor, allowances and pension reforms to the central government.
+
+Over the past nine months, the 8th Pay Commission has conducted several meetings in Delhi, Ladakh, West Bengal and Odisha. These consultations were aimed at hearing employee unions' grievances and views to shape salary and pension revisions.
+
+## **Latest meetings**
+
+According to the 8th Pay Commission's website, meetings are scheduled for August and September. Fitment factor discussions are expected to dominate, while the annual increment rate can also significantly influence long-term salary growth for central government employees over the next decade or so.
+
+Under the 7th Central Pay Commission, employees received an annual increment of around 3% of their basic pay. For the 8th Pay Commission, several employee unions have urged the Commission to raise the annual increment to 5%, 6%, or even 7%, arguing that higher annual increments would boost employee morale and deliver stronger salary progression throughout an employee's career.
+
+As annual increments are applied to basic pay, higher rates will not only increase monthly salaries over time but could also result in a higher revised salary during future pay revisions.
+
+## **Proposed annual increment rates submitted by employee bodies**
+
+**Organisation/Union**
+
+**Proposed Annual Increment**
+
+National Council of the Joint Consultative Machinery (NC-JCM)
+
+6%
+
+All India Defence Employees' Federation (AIDEF)
+
+6%
+
+Federation of National Postal Organisations (FNPO)
+
+6%
+
+All India New Pension Scheme Employees Federation (AINPSEF)
+
+7%
+
+Indian Railways' Supervisors' Association (IRTSA)
+
+5%
+
+_**Source:** Official memoranda submitted to the 8th Pay Commission._
+
+_BankBazaar.com_ has prepared salary projections based on the 7th Pay Commission matrix, comparing 3%, 5% and 6% annual increments over five years. These are illustrative estimates and not recommendations of the Commission.
+
+## **Level 1 salary progression**
+
+**Year**
+
+**3% Annual Increment**
+
+**5% Annual Increment**
+
+**6% Annual Increment**
+
+Starting Basic
+
+₹18,000
+
+₹18,000
+
+₹18,000
+
+Year 1
+
+₹18,500
+
+₹18,900
+
+₹19,100
+
+Year 2
+
+₹19,100
+
+₹19,800
+
+₹20,200
+
+Year 3
+
+₹19,700
+
+₹20,800
+
+₹21,400
+
+Year 4
+
+₹20,300
+
+₹21,900
+
+₹22,700
+
+Year 5
+
+₹20,900
+
+₹23,100
+
+₹24,200
+
+_Note: Illustrative estimates based on the 7th CPC Pay Matrix and assumed annual increment rates. Actual pay progression may differ. Source: BankBazaar.com._
+
+A Level 1 employee's basic pay is projected to rise to ₹20,900 after five years under a 3% increment, compared with ₹23,100 and ₹24,200 under a 5% or 6% increment, respectively.
+
+## **Level 2 salary progression**
+
+**Year**
+
+**3% Annual Increment**
+
+**5% Annual Increment**
+
+**6% Annual Increment**
+
+Starting Basic
+
+₹19,900
+
+₹19,900
+
+₹19,900
+
+Year 1
+
+₹20,500
+
+₹21,100
+
+₹21,100
+
+Year 2
+
+₹21,100
+
+₹22,400
+
+₹22,400
+
+Year 3
+
+₹21,700
+
+₹23,800
+
+₹23,800
+
+Year 4
+
+₹22,400
+
+₹25,200
+
+₹26,000
+
+Year 5
+
+₹23,100
+
+₹26,800
+
+₹27,600
+
+_Note: Illustrative estimates based on the 7th CPC Pay Matrix and assumed annual increment rates. Actual pay progression may differ. Source: BankBazaar.com._
+
+At Level 2, the projected basic pay is ₹23,100 with a 3% increment, ₹26,800 with a 5% increment and ₹27,600 with a 6% increment, respectively, reflecting the compounding effect of higher annual increases.
+
+## **Level 3 salary progression**
+
+**Year**
+
+**3% Annual Increment**
+
+**5% Annual Increment**
+
+**6% Annual Increment**
+
+Starting Basic
+
+₹21,700
+
+₹21,700
+
+₹21,700
+
+Year 1
+
+₹22,400
+
+₹22,800
+
+₹23,100
+
+Year 2
+
+₹23,100
+
+₹24,500
+
+₹24,500
+
+Year 3
+
+₹23,800
+
+₹25,100
+
+₹26,000
+
+Year 4
+
+₹24,500
+
+₹26,300
+
+₹27,600
+
+Year 5
+
+₹25,200
+
+₹27,700
+
+₹29,100
+
+_Note: Illustrative estimates based on the 7th CPC Pay Matrix and assumed annual increment rates. Actual pay progression may differ. Source: BankBazaar.com._
+
+These projections show that higher pay levels amplify the monetary gains from larger annual increments. Apart from raising monthly basic payments, higher increments will also boost DA, HRA, NPS contributions and retirement benefits, while potentially boosting salaries in future pay revisions.
+
+The 8th Pay Commission has not yet made any recommendations or changes, and the decision will be made on its final recommendation, expected to be tabled to the Central government in May-June 2027.
+
+_For more information, updates and recent developments, visit website of the 8th Pay Commission at:_ _https://8cpc.gov.in/_
+
+---
+
+### Karnataka Cabinet Expansion: 18 To Take Oath Today, Sealed List Expected — Who's In?
+*Sumedha Kirti · general*
+
+Congress high command is set to finalise the list this afternoon before it's sent to state leaders in a sealed envelope, with the swearing-in expected at Lok Bhavan this evening.
+
+[Read full article](https://www.news18.com/cities/bengaluru-news/karnataka-cabinet-expansion-18-to-take-oath-today-sealed-list-expected-whos-in-10248571.html)
+
+---
+
+### 2 teens on Friendship Day outing swept away at Vizag beach, drown
+*Apoorva Jayachandran · general*
+
+## According to sources, the two were standing close to the shoreline and taking photographs when a powerful wave suddenly crashed over them.
+
+Two friends drowned in Visakhapatnam beach while celebrating Friendship Day
+
+A Friendship Day celebration in Andhra Pradesh’s Visakhapatnam ended in tragedy after two youths drowned after being swept away by strong waves at a beach on Sunday.
+
+The incident took place at the old Gangavaram beach, where a group of seven friends from Pedajalaripet had gone to celebrate the day. According to reports, they were standing near the shoreline and taking photographs when a powerful wave suddenly crashed over them.
+
+A 17-year-old girl lost her balance and was dragged into the sea by the strong current. Seeing her being swept away, her friend, identified as Ramu, jumped into the water to rescue her. However, he too was overpowered by the rough sea and drowned.
+
+The two were swept away before other members of the group could react or seek immediate help.
+
+Local authorities were alerted soon after the incident, and rescue teams were deployed to the spot. Further details about the recovery operation and the circumstances surrounding the incident are awaited.
+
+The tragedy serves as another reminder of the dangers of venturing too close to the sea during rough conditions, particularly while taking photographs near the shoreline.
+
+\- Ends
+
+Akash Chatterjee
+
+Aug 3, 2026 08:57 IST
+
+---
+
+### Daisy Shah recalls giving first Rs 5,000 cheque to her dad; why many do the same
+*Vaibhavi Mishra · legal*
+
+"I looked at the 5,000 cheque, and then I gave it to my dad. He said, tu hi rakh (you keep it)," the actor recalled.
+
+[Read full article](https://indianexpress.com/article/people/daisy-shah-recalls-giving-first-rs-5000-cheque-to-her-dad-why-many-do-the-same-10787778/)
+
+---
+
+### Why $49 billion in foreign inflows, led by FCNR(B) deposits, haven’t lifted the rupee
+*Siddharth Upasani · legal*
+
+While NRI interest in FCNR(B) deposits is sky-high, the rupee’s trajectory is likely to be more sedate.
+
+[Read full article](https://indianexpress.com/article/explained/explained-economics/flattish-rupee-a-puzzle-as-nris-pour-37-bn-into-fcnrb-deposits-10815303/)
+
+---
+
+### ‘The more you spend, the more you earn’: Financial advisor warns against dumping money in SIPs and shares his father’s controversial money advice
+*Tanisha Sarkar · business*
+
+What if saving every rupee is not always the smartest way to build wealth? Financial advisor Prem Soni has challenged the conventional advice of cutting every expense, investing aggressively and prioritising financial security above everything else. Sharing a lesson he learned from his father, Soni argued that spending on things that genuinely improve your life can sometimes fuel ambition and encourage people to earn more. His unconventional take has sparked a wider debate about saving, spending, ambition and building wealth.
+
+## ‘The more you spend, the more you earn’
+
+Prem Soni, a financial advisor, took to X to share what he described as his father’s “worst financial advice”. He acknowledged that the idea goes against what many finance books traditionally teach, but argued that there is a psychological side to money that is often overlooked.
+
+According to Soni, his father believed that “the more you spend, the more you earn.” His reasoning was that constantly training yourself to be satisfied with less could eventually reduce your motivation to pursue higher earnings.
+
+  
+
+Soni explained that when someone becomes comfortable with a smaller lifestyle, their hunger for growth can weaken. By contrast, spending on things they genuinely value can create a stronger desire to improve their income.
+
+## Two families, two approaches to money
+
+To explain the difference, Soni described two hypothetical families. The first family saves almost everything. They rarely eat at restaurants, do not take vacations and may continue using the same scooter for decades. Their desires are repeatedly postponed for some future date.
+
+  
+
+> — ValueWithPrem (@ValueWithPrem)
+
+The second family, which Soni said resembles his own father’s approach, spends on good food, quality clothes, a decent car and travel. Soni pointed out that society generally views the first family as financially disciplined. Young people are often told to reduce their lifestyle, avoid unnecessary purchases and invest every available rupee. But his father viewed extreme restriction differently.
+
+  
+
+## Why Soni says extreme saving can affect ambition  
+
+Soni argued that constantly forcing yourself to live with less can influence how you think about money and success. When people become comfortable with a smaller lifestyle, he suggested, their desire to earn more can gradually weaken. He described excessive contentment at the wrong stage of life as “a sedative” because it can reduce the urgency to pursue bigger goals.
+
+His alternative is to spend thoughtfully on things that genuinely matter. According to Soni, experiencing a better lifestyle can change the question people ask themselves. Instead of wondering, “How do I save Rs 500 today?”, they may start asking, “How do I earn another Rs 5,000 tomorrow?” For him, the question itself can influence the direction of a person's financial journey.
+
+## But Soni is not advocating reckless spending
+
+Soni's argument comes with an important qualification. He stressed that spending more does not mean living extravagantly or taking on debt simply to maintain a lifestyle. He advised people not to use borrowed money for lifestyle expenses or purchase depreciating products merely to impress others. Instead, he suggested spending on “slightly better things that you can afford”, such as a decent car or a comfortable home. The distinction, according to Soni, is between spending intentionally and spending recklessly.
+
+## ‘Saving protects what you already have’
+
+Soni also drew a distinction between saving and ambition. He argued that saving can protect existing wealth, while ambition creates the potential for new wealth. Saving therefore remains important, but he cautioned against making financial restriction the entire foundation of one's identity.
+
+Otherwise, he said, people could end up “building a comfortable cage and calling it discipline.” His point is not that SIPs, fixed deposits or savings are bad. Rather, he believes they should not replace the effort to increase one's earning potential.
+
+## Why Soni says young people should focus on active income
+
+Soni particularly directed his message at people who are young and starting their careers. He argued that this stage of life should be about developing skills, increasing income and creating opportunities rather than immediately focusing only on passive income. His advice was blunt: “Don't jump to passive income from the start.”
+
+Instead, he encouraged young professionals to remain ambitious, tolerate some discomfort and build something that pays them for their skills. For Soni, the bigger financial goal is therefore not simply reducing expenses. It is creating the ability to earn substantially more over time.
+
+## The difference between discipline and deprivation  
+
+Soni's post ultimately questions whether extreme frugality should always be celebrated as financial discipline.  
+His father's approach, as described by Soni, was to enjoy a reasonable standard of living while maintaining the motivation to work harder and earn more. The lesson is not to spend without limits, but to avoid confusing deprivation with financial wisdom.
+
+As Soni put it, “Save, yes.” But he believes young people should also remain hungry enough to build active income, develop valuable skills and create the wealth they do not yet have.
+
+---
+
+### No mockery of religion: Maithili Thakur defends Varanasi FIR against Rahul Gandhi
+*ET Online · business*
+
+No mockery of religion: Maithili Thakur defends Varanasi FIR against Rahul Gandhi
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/no-mockery-of-religion-maithili-thakur-defends-varanasi-fir-against-rahul-gandhi/videoshow/132817683.cms)
+
+---
+
+### Cab driver falls in love with passenger, both murder his wife months later
+*Ashish Srivastava · general*
+
+A man and his girlfriend have been arrested in Lucknow for allegedly killing his wife and dumping the body in the Gomti River. The two accused, the police said, first met around seven months ago when the man, a cab driver, picked up the woman, who worked at a call centre, for a ride she had booked.
+
+Their acquaintance soon turned into a romantic relationship. According to the police, Umendra Pratap Singh and his lover, Aarti Verma, allegedly conspired to kill his wife, Anjali Singh, after she came to know about their extramarital relationship and repeatedly objected to it.
+
+Investigators claimed the duo smothered her and squeezed her neck. After she died, they allegedly wrapped her body in a blanket and transported it in a car to a spot where they dumped it into the Gomti River.
+
+In an attempt to mislead the police, Umendra purportedly approached the police and lodged a missing person complaint, claiming that his wife had disappeared from home.
+
+Meanwhile, an unidentified woman's body was recovered from the Gomti River on July 31. It was later identified by family members as that of Anjali. Following this, the police registered a murder case based on a complaint filed by her brother and launched an investigation.
+
+During questioning, Umendra allegedly confessed that constant disputes with his wife over his affair had prompted him and Aarti to plan the murder.
+
+According to the police, Umendra took jewellery worth around 10 lakh from his house and handed them over to Aarti to create the impression that Anjali had left home with her valuables.
+
+The police said that the jewellery, two mobile phones and the car used in the alleged crime have been seized.
+
+Police further said that Umendra has a prior criminal record, with a case registered against him in Hardoi district back in 2020. His criminal history in other districts is also being verified.
+
+\- Ends
+
+Aug 3, 2026 08:53 IST
+
+
+---
+
 ## 2 August 2026
 
 ### Odisha cabinet approves bill to create economic region development bodies, Rs 2,995-cr scheme for tribals
