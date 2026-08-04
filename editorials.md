@@ -1,8 +1,176 @@
 # Editorials
 
-_Last updated: 2026-08-03 05:05 UTC_
+_Last updated: 2026-08-04 04:45 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 4 August 2026
+
+### ​FIFA foul: On the shelved FIFA Forward Enterprise
+*The Hindu · Editorial*
+
+The collapse of FIFA’s controversial plan that would have helped private investors benefit from the World Cup and other flagship competitions represents the latest hit to the global body’s reputation. In the aftermath of the 2026 World Cup, FIFA president Gianni Infantino hurriedly put together strategies to form the FIFA Forward Enterprise (FFE) to consolidate all revenue-generating operations, and invite private bodies to hold non-controlling stakes in the body. But this elicited enormous backlash from a number of FIFA’s 211 member associations, with European governing body UEFA even declaring that its 55 members would boycott the World Cup. Europe is football’s nerve-centre, and with the Asian Football Confederation and players’ union FIFPRO also expressing apprehensions, and one of Mr. Infantino’s senior advisers quitting in protest, the scheme was a non-starter. The episode has also reduced Mr. Infantino’s standing, especially after the controversy-ridden World Cup, where political interference by the U.S. — one of the co-hosts — and rampant commercialisation severely diminished ‘the beautiful game’. The now-shelved FFE was to be backed by a venture capitalist with familial ties to U.S. President Donald Trump, making the whole deal all the more suspect. The 2027 FIFA election, where Mr. Infantino was expected to be re-elected for a third full term, is no longer a cake-walk.
+
+The saga has brought back into focus the conflict at the heart of FIFA’s functioning and the patronage politics it enables. FIFA is the global regulator of the sport, and ideally, its commercial wing should be kept at an arm’s length. However, the organisation’s structure is such that the revenue generated is often used as leverage to extract favour. As a non-profit, FIFA is duty-bound to redistribute income amongst its members, but presidents — past and present — have turned it into a vote-catching tool to hold on to power. To approve the FFE project, FIFA had reportedly offered each of its members $20 million upfront, and a direct beneficiary of this would have been Mr. Infantino at next year’s election, for every association has one vote. However, history shows that moves to use legacy tournaments for self-aggrandisement are bound to fail. In 2018, the International Tennis Federation entered into a 25-year, $3 billion partnership with a private investment firm to re-jig the over-a-century-old Davis Cup, with the promise of extra money for the game’s global development. That agreement lasted just five years, with the shift from the traditional home-and-away format deeply unpopular and considered soul-shattering to the sport. It is time FIFA re-inculcates fairness, embraces consensus and shuns its president’s unilateralism.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/fifa-foul-on-the-shelved-fifa-forward-enterprise/article71301247.ece)
+
+---
+
+### Proof of life: On the Registration of Births and Deaths (Amendment) Bill 2026
+*The Hindu · Editorial*
+
+The Registration of Births and Deaths (Amendment) Bill 2026 passed in the Lok Sabha amends Section 13(3) of the 1969 Act. In the updated framework, registrations delayed for up to two years still require a district, a subdivisional or an authorised executive magistrate’s order, but when the delay exceeds two years, a judicial magistrate is required to verify the event and pass an order. The 2023 amendment rendered birth certificates the principal, in fact near-conclusive, proof of date and place of birth for school admission, voter rolls and applications for passport, Aadhaar, driving licence and government jobs. It also allowed the Centre and States to create digital databases, and required them to share data with the Registrar General. As the certificate’s gatekeeping power grew, so did the incentive to obtain one fraudulently, leading to the 2026 amendment. However, the Bill’s passage lacked debate in the Lok Sabha as the Opposition was protesting the July 20 police crackdown on the CJP protests. Since identity documents have also become more politically sensitive, moving potentially more contentious cases into courts insulates the administration from accusations that it is arbitrarily granting or refusing documentation. But while judicial scrutiny places the decision at arm’s length from the executive, erroneous decisions could prove more difficult for disadvantaged applicants to rectify.
+
+The amendment also leaves the evidentiary rules unchanged. If the government believed executive magistrates were approving suspicious applications because the evidentiary standards were too lax, it could have prescribed more rigorous documentation, but it has not. Further, how the risk of fraudulent registrations rises after two years is unclear; the government has also not published evidence justifying a judicial magistrate’s intervention at two years or whether it considered less burdensome alternatives. For now, it appears to be a compromise based possibly on shorter delays being common enough for administrative responses to resolve. Registrations are also not infrequently delayed for valid reasons, for example because they transpired in remote areas, or undocumented migrants realised a need for educational certificates. But when identity documents become indispensable to access state support, the government’s policy instinct has been to raise the documents’ level of assurance rather than render them more accessible. In the same vein, the amendment may further a broader philosophy that, in pursuit of bureaucratic certainty, treats the wrongful exclusion of legitimate citizens as an acceptable price to minimise the risk of wrongful inclusion. And the Rajya Sabha must debate the Bill to clarify whether this trade-off is backed by sufficient evidence.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/proof-of-life-on-the-registration-of-births-and-deaths-amendment-bill-2026/article71301223.ece)
+
+---
+
+### AI and cyber, the double helix of today’s security threats
+*The Hindu · Opinion*
+
+The rapid proliferation of digital technologies is reshaping the global security landscape. What was once an interconnected, but relatively limited, digital world, has altered into a complex interconnected ecosystem where dangers and threats lurk at every step. The combination of Artificial Intelligence (AI) and cyber threats has emerged as one of the most critical concerns of the modern world.
+
+While AI has changed from being merely an operational efficiency mechanism into an absolute infrastructure mandate, cyber threats are becoming more sophisticated, harder to detect and more difficult to mitigate. Today, AI-powered malware can adapt and evolve in response to changes in its environment, making it harder for traditional anti-virus software to detect. The global interconnectedness of digital systems has also raised the ante as far as cyber attacks are concerned. Malicious autonomous agents are today well positioned to undermine the legacy of “Zero Trust” protocols, aggravating insider threat vectors.
+
+Meanwhile, as seen in the war in Ukraine, newer technologies are demonstrating the potential to undermine conventional military calculus through asymmetric impact. The rapid proliferation of digital technologies and systems across every discipline, cyber breaches and malicious activities are impacting every level of security. Many governments facing sophisticated cyber adversaries are drawing up a security architecture which involves a blend of innovation, policy coherence and strategic realism, but still lag behind.
+
+A new disruptive eraAI, meanwhile, is reshaping every consequential domain of human activity. AI’s Large Language Models (LLM) are intruding into many business enterprises, without either proper training or evolution of the human interface. As ‘Agentic’ AI — as distinct from Generative AI — becomes a force to reckon with, problems attached to AI implementation are set to become even more complex. The catalyst for such concerns is the arrival of the latest AI systems, notably Mythos, developed by United States firm Anthropic. According to experts it demonstrates an uncanny ability to detect ‘Zero day’ vulnerabilities across major operating systems. What is evident is that AI is beginning to test the limits of legacy systems.
+
+AI’s overarching influence makes it essential to understand the risks and threats it poses, especially when combined with cyber capabilities, where the danger grows exponentially. AI has already transformed modern warfare, as seen in the Russia-Ukraine conflict and the U.S./Israel-Iran war. AI-powered smart systems can detect, track, and predict missile trajectories with remarkable accuracy. AI can also provide different kinds of intelligence from photos, text, radio, and electromagnetic signals to deny adversaries a tactical advantage. Munitions, such as systems dubbed “Goalkeeper” and “Whiplash” can independently identify and strike targets. Yet, nations, particularly the U.S., have not yet demonstrated a level of sagacity on how best to wield this power and in a manner that does not endanger human civilisation.
+
+These developments are fuelling concerns about AI’s future as increasingly capable models and robots replace human roles. LLMs and autonomous agents are already performing complex tasks once reserved for people. The World Economic Forum warns that while AI will strengthen cyber defences, it will also enable more sophisticated automated attacks, potentially rendering current “Zero Trust” protocols ineffective. This raises concerns that hard power may increasingly be shaped by nations and organisations at the forefront of AI.
+
+Companies in the West such as Anthropic and Palantir are behaving as if they own the world of tomorrow, since they hold the key to the world’s mightiest technology. Anthropic has reached a stage today where with Mythos, it creates the spectre of all-encompassing power residing in a single instrument that is not subject to any rules. China, perhaps, has its own version of Anthropic or something resembling it, but this is of little comfort to the rest of the world. What is becoming clearly evident is that an attacker with the latest version poses a grave threat to not merely one country but an entire civilisation.
+
+An AI ‘power shift’As AI technologies become more rampant and uncontrollable, existing rules concerning cyber security may require to be completely rewritten. Many experts warn that as “Agentic Autonomous Operations” become even more sophisticated, the world could reach an inflection point that has grave forebodings for the world. Whether Mythos is the harbinger of this is yet to be determined, but it is generally acknowledged that the newer generations of AI machines provide opportunities for ‘rogue groups’ to demonstrate capabilities that were once associated with only nation states. As Agentic AI begins to displace Generative AI, enabling it to act more autonomously, threat levels are certain to go up still further. AI has, hence, the potential to become the dominant source of military and economic power, even as the rules to govern AI are still in a fledgling state. The bugle call has already been sounded by the pontiff of Anthropic, the AI firm that makes models such as Mythos, that it has the potential to become the dominant source of military and economic power as civilisation advances.
+
+Notwithstanding the god-like properties of existing modern AI models, experts warn that they are often subject to “hallucinations”, thus giving scope for distortions, producing misleading reactions. Judgments in such cases tend, quite often, to be subjective. Even otherwise, biases are known to creep into decisions dictated by AI, enhancing the danger posed by unrestricted reliance on AI. Furthermore, experts warn that it is vitally important to guard against such ‘algorithmic radicalisation’, and ensure that AI platforms do not push opinion makers towards extreme views.
+
+A future that needs oversight, wisdomThe world, thus, appears to have reached a tipping point in AI progress and development. Already, some companies that are leading the AI charge are accusing others of stealing their technologies and expanding on them to their advantage. The latest is a charge made by the U.S. against China, viz., that China’s ‘Moonshot’ AI stole from Anthropic’s most sophisticated AI Large Language Model ‘Fable’, to help create its latest AI version. Predictably, China has rejected this charge, but it reflects the intensity of the competition between the U.S. and China in this area. If Anthropic’s claim is true — that its latest model has surpassed “all but the most skilled humans” in finding and exploiting security vulnerabilities in everything from popular operating systems to cryptographic software — the world could face a new kind of apocalypse.
+
+The world has steadily progressed from abiding concerns of stagnant economic growth to doomsday technologies, and this merits a great deal of introspection. Altruism is not enough to decide on how to handle a technology that is about to eat up the world. There are several aspects of advanced AI that clearly demand more introspection, but this is not evident. As AI increasingly enters into the arena of defence sensing and warning, there is a need not only to keep machines under human control but also to ensure that AI-dictated warnings do not outrun proper understanding and reality.
+
+Those steeped in defence aspects already know the gap that exists between warning and understanding of what might happen, and how critical this is in strategic terms. High-powered AI systems may often prove unreliable as they may demonstrate a bias towards national security given that algorithms often display such biases. The world, hence, needs to reach an understanding on how best to deal with this new technology which can, and could, end or make the future of the world. What we have seen in Ukraine and West Asia is not even the tip of this iceberg. Better to “cross the river by feeling the stones” is a better maxim than ‘blind prejudice or unadulterated endorsement of a new technology’.
+
+M.K. Narayanan is a former Director, Intelligence Bureau, a former National Security Adviser, and a former Governor of West Bengal
+
+[Read full article](https://www.thehindu.com/opinion/lead/ai-and-cyber-the-double-helix-of-todays-security-threats/article71302018.ece)
+
+---
+
+### A costly amnesty in green governance
+*Deccan Herald · Editorial*
+
+India’s environmental law stipulates that development projects should obtain the relevant environmental clearances ahead of operations.
+
+The country’s Environmental Impact Assessment (EIA) framework, based on the Environment (Protection) Act, 1986, and the 2006 EIA Notification, mandates “prior environmental clearance” of projects before irreversible damage can occur. A May 2025 Supreme Court ruling prohibited ex post facto environmental clearances “in any form”.
+
+On July 29, the Court upheld this principle, but diluted the law in spirit, intent, and practice. A bench led by Chief Justice Surya Kant set aside a 2021 Office Memorandum that allowed retrospective validation of environmental violations.
+
+But it held that a “narrowly tailored amnesty scheme” can be allowed where it is justified by “public interest”. The Court’s condition is that ex post facto clearances may be allowed if done by a statutory notification instead of an administrative order.
+
+Experts question WII's environmental impact assessment of Tinaighat-Kulem railway line doubling projectWhile the Court has affirmed the mandate for prior clearance, it has said that the law allows the government to retrospectively validate the violations with a statutory notification, provided such a measure satisfies the tests of proportionality, sustainable development, and public interest.
+
+It is the government and the industry that propose large-scale projects that require EIA and prior environmental clearance. Allowing the government to clear such projects by issuing a notification citing public interest removes any legal bar for the projects.
+
+The Court has introduced the idea of amnesty into environmental jurisprudence. It says if amnesty schemes are acceptable to deal with tax law violations, they can be replicated for environmental law violations, too.
+
+While an amnesty scheme might help the government recover lost or stolen revenue, it will not undo environmental damage like vanished forests or wetlands.
+
+The Court contends that the government’s powers to protect the environment, under Section 3 of the Act, include the power to grant amnesty for violations.
+
+Under the ruling, clearances already granted under previous notifications will remain protected. Retrospective approvals will be valid if done through formal legislative notifications in the name of public interest. Only a fine may have to be paid.
+
+The Court’s ruling conforms with a recent pattern of ex post facto validation of decisions, as seen in the cases relating to Aadhaar and Article 370. It may have narrowed the scope for ex post facto validation of violations, but the opening it has provided may be adequate to greenlight projects with major breaches.
+
+The judgment is a setback for environmental governance at a time when climate change demands stronger legal safeguards.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/a-costly-amnesty-in-green-governance-4098022)
+
+---
+
+### The mob cannot seize the stage
+*Deccan Herald · Editorial*
+
+Stand-up comedy has become an unlikely barometer of free expression in India. The latest instance is comedian Kunal Kamra's Bengaluru performances, shifted from Whitefield to Koramangala after an obscure outfit objected to the show.
+
+The episode once again exposed that the easiest way to silence an artist is not through the law, but through the threat of disruption. This fits a familiar pattern in the state. In 2021, Kamra was forced to cancel a 20-day Bengaluru run after the venue received threats. Munawar Faruqui's ordeal was more severe.
+
+His show was pulled out in 2021, marking his twelfth cancellation in just two months across India, after he was arrested in Madhya Pradesh before he even took the stage over allegations that he intended to offend religious sentiments. Vir Das's show in 2022 was cancelled after protests over his I Come From Two Indias monologue.
+
+Comedian Kunal Kamra cancels select Bengaluru shows after controversyOrganisers often withdraw not because authorities ban the event but because venue owners fear vandalism. Such ‘voluntary’ cancellations are, in reality, decisions taken under duress.
+
+The Supreme Court, in S Rangarajan v. P. Jagjivan Ram (1989), made it clear that free speech cannot be held hostage to threats of violence and that it is the state's duty to protect expression rather than yield to intimidation.
+
+Yet those who threaten disruption are seldom prosecuted for criminal intimidation, even as performers bear the losses and other consequences. The Congress was among the strongest critics of such cancellations when it sat in the Opposition.
+
+Priyank Kharge had then rightly observed that questioning authority and expressing dissent are fundamental to democracy. Those words deserve to be translated into policy now that he is Home Minister.
+
+Karnataka's cultural history makes this principle self-evident. From the irreverent Hasyagara of Yakshagana and the social commentary of Bayalata to the satire of Hirannaiah and the works of Girish Karnad, P Lankesh, and B V Karanth, the state's artistic tradition has challenged authority, mocked hypocrisy, and provoked debate.
+
+It has enriched, not diminished, public life. Freedom of expression is not absolute. If a performance violates the law or incites hatred, action should follow. But pre-emptively stopping a show because someone predicts it might be objectionable turns the heckler's veto into public policy.
+
+The Congress came to power promising an inclusive and liberal Karnataka. The government must not allow fringe groups to decide what citizens may watch. Its duty is to protect lawful performances and punish those who threaten violence, not those who take the stage.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/the-mob-cannot-seize-the-stage-4098023)
+
+---
+
+### Punishing paper leaks can only fix the symptom, not the structural flaws
+*Deccan Herald · Opinion*
+
+The Union government’s Public Examinations (Prevention of Unfair Means) Amendment Act, 2026, strengthens India’s response to paper leaks after the NEET-UG crisis triggered weeks of student protests and eventually the resignation of Union Minister of Education Dharmendra Pradhan.
+
+On paper, the response looks formidable: imprisonment of up to ten years, higher fines, two-month investigations, three-month trials through special fast-track courts, and, separately, a high-powered examination reform task force led by Nandan Nilekani to explore technological solutions.
+
+The harder question, however, is whether any of these addresses the vulnerabilities that allowed another examination crisis to occur barely two years after NEET-UG 2024.
+
+On that count, the answer is uncomfortable. The government already had a detailed reform blueprint. The K Radhakrishnan Committee, constituted after the 2024 controversy, made 101 recommendations covering examination security, the National Testing Agency (NTA)’s capacity, outsourcing, testing infrastructure, and technology. Nearly two years later, only 57 recommendations have been fully implemented, and 10 have been partially implemented.
+
+Therefore, the present crisis is not the result of the government not knowing what needs to change. It follows an incomplete attempt to change it.
+
+Bill to amend anti-paper law gets President's assentOne of the Committee’s central concerns was the vulnerability created by the examination supply chain itself. It recommended reducing NTA’s dependence on outsourced staff and private service providers, building permanent domain expertise within the agency, and expanding secure government-controlled testing infrastructure.
+
+It also proposed computer-assisted secure pen-and-paper Testing under which the encrypted question papers would be digitally transmitted to examination centres and printed shortly before the test, eliminating much of the printing, storage, and transportation chain through which a leak can occur.
+
+The 2026 Amendment Act does not incorporate these structural fixes, opting instead to penalise the symptom. It increases penalties for service providers found liable under the law, but does not reduce the system’s dependence on vendors in the first place.
+
+It creates fast-track courts after a leak has occurred, but does not mandate secure digital transmission of question papers before one occurs. It raises sentences, but does not restructure how high-stakes examinations are designed or delivered.
+
+Even the transition towards computer-assisted examinations, among the most consequential preventive recommendations of the Radhakrishnan Committee, finds no statutory place in the Amendment Act. In other words, the Committee sought to shrink the opportunities for a leak; the law primarily raises the cost of being caught after one.
+
+There are reasons to question that reliance on punishment. The Law Commission, in its 262nd Report, while examining capital punishment, cautioned against assuming that greater severity necessarily produces greater deterrence, a principle that applies here too: increasing imprisonment from five years to ten will do little if investigation and prosecution cannot reliably carry a case to conviction.
+
+The fast-track court provisions face a similar problem. Two months for investigation and three months for trial are desirable targets, but statutory deadlines do not by themselves create investigative, forensic, or judicial capacity.
+
+The Law Commission, in its 245th Report on judicial arrears, cautioned that without adequate infrastructure and support staff, even increasing judicial strength would not effectively reduce delay.
+
+Despite their specialised mandate, more than 2.45 lakh cases remained pending before fast-track special courts for rape and POCSO cases at the end of 2025. The lesson is not that timelines are unnecessary, but that a three-month deadline is only as credible as the institutional machinery built to meet it.
+
+The missing guarantee
+
+There is also a more immediate omission regarding the victims of these lapses. The Act gives the state deadlines to investigate the offenders and courts deadlines to try them, but gives students no comparable right when the examination system fails.
+
+There is no statutory deadline for deciding whether an examination will be cancelled, no guaranteed period within which a re-examination must be conducted, and no compensation framework for candidates forced to spend again on travel, accommodation, and preparation because an examination was compromised.
+
+The law is elaborate about what the state may do to the accused; it says remarkably little about what the state owes the student. That gap matters because every compromised examination imposes costs long before offenders are investigated, tried, or punished by the state.
+
+The Nilekani-led task force may now address precisely the preventive side of the problem that the Amendment Act largely leaves untouched. Its focus on examination reform and technological solutions could help translate the earlier push towards computer-based and computer-assisted testing into a secure and workable system.
+
+But the direction of reform is not new. The blueprints for structural and technological safeguards have been available since 2024. The fundamental issue is not a lack of technological roadmaps, but that legislative penalisation has moved faster than bureaucratic implementation.
+
+The Amendment Act ultimately answers only part of the problem. It makes paper leaks more punishable, but does much less to make them harder to commit, and almost nothing to guarantee relief to students when the system fails. If public examinations are to regain their credibility, these omissions will matter more than whether the maximum punishment is five years or ten.
+
+The writers are lawyers and policy researchers.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/punishing-paper-leaks-can-only-fix-the-symptom-not-the-structural-flaws-4098032)
+
+---
 
 ## 3 August 2026
 
@@ -14,6 +182,37 @@ With the southwest monsoon playing truant in its first half, a familiar distress
 Perhaps guided by forecasts of a deficient monsoon, Karnataka’s Chief Minister chose to err on the side of caution, anticipating an acute drinking water shortage ahead. However, this has proved costly for Tamil Nadu, which realised only about 3.6 tmc ft from June 1 to July-end, barely 10% of the 40-odd tmc ft prescribed by the Cauvery Water Disputes Tribunal and the Supreme Court. The Cauvery Water Management Authority (CWMA), at its July 30 meeting, ratified the Cauvery Water Regulation Committee (CWRC)’s directive that Karnataka release 3,500 cusecs to Billigundulu daily for 15 days from July 29. Although this quantum would not have met irrigation needs in Tamil Nadu’s Cauvery delta, it would have provided some support to the ecosystem. The CWMA’s decision has upset farmers in Karnataka and the political class but nature has intervened in a limited way. If Karnataka finds the existing mechanisms — the CWMA and CWRC — inadequate, it can suggest alternatives, but must first abide by the decisions of these institutions, which safeguard riparian States’ interests in line with Tribunal and Supreme Court verdicts. Unlike his predecessors, Tamil Nadu Chief Minister C. Joseph Vijay reached out to his Karnataka counterpart, D.K. Shivakumar — but Mr. Shivakumar has asked Mr. Vijay to defer his August 3 Bengaluru visit. However, this episode should not deter the two States from making a renewed bid to work out a distress-sharing formula, the last of which was attempted nearly 25 years ago. Mr. Vijay should also take a cue from his counterpart in handling the Cauvery issue, by bringing together other political players in the State.
 
 [Read full article](https://www.thehindu.com/opinion/editorial/distress-and-dispute-on-karnataka-tamil-nadu-and-the-cauvery/article71297936.ece)
+
+---
+
+### A common civil code spelling equality for every Indian
+*The Hindu · Opinion*
+
+The 22nd Law Commission has called for responses to a proposal for a Uniform Civil Code in India. This has set off a debate, which has often been acrimonious. But the debate itself is much needed as Indians have never been consulted on the personal laws they are governed by. These laws were instituted by the British colonial government by giving a cursory hearing to the clergy, or religious scholars in the case of religions without one. The result was a religion-based set of personal laws for Hindus, Muslims and Christians. Whether the colonisers did this out of a deep concern for the sentiments of the natives or it was intended as another instrument in a strategy of divide and rule in order to hold India is irrelevant, but we should note the provenance of India’s personal laws.
+
+SC issues notice to Centre on plea to ban polygamy
+
+Laws that are boxedPersonal laws in India are boxed according to the religion or social origins of the citizen. However, it does not take much to see a fearful symmetry between them. This is their unmistakably patriarchal framing, whereby men are privileged at every turn. Thus, only a man can be the ‘karta’ or head of a Hindu Undivided Family, a divorced Muslim woman is not entitled to maintenance beyond a certain period, among some tribes of India, the custom is that women do not inherit ancestral property, and a Parsi woman who marries outside the community is excommunicated. So, from the point of view of women’s empowerment, India’s civil code is uniform already. As for the section of the population that we today refer to as the LGBT community, the British colonialists considered them mere flotsam and jetsam, to be ignored altogether. Not only did they not even merit a personal law but their actions deserved to be criminalised, even when they were consensual.
+
+We can now see why we cannot consider ourselves to be a democracy so long as we continue with current approach to personal law. It is not because it is not the same for different religious groups but because their uniformly patriarchal core denies women equality before the law. Prime Minister Narendra Modi’s widely reported query as to how one country can be run on two laws misses this. But so does the Opposition when it rushes to defend inaction on these personal laws on grounds of diversity, which they hold as sacrosanct.
+
+The antiquity of India’s customs and the diversity of its peoples are both brought up to make a case for tip-toeing around the existing personal laws despite their unequal rights for men and women. But is this a valid argument at all? India’s caste system is antique alright, but India’s lawmakers were wise enough to junk it in law very early on the history of independent India.
+
+The matter of diversityNext comes diversity. Opponents of reform seem to be unaware that they are extolling a diversity based on religion. Here it is worth recalling political scientist Pratap Bhanu Mehta’s reminder that India was not conceived of as “a federation of religions”. Similarly, during the deliberations of the Constituent Assembly, B.R. Ambedkar is said to have expressed surprise that religion was being given as much importance when choosing India’s political arrangements. These observations have a bearing on what is being debated today. Whether India’s civil code accords with the diktats of all religions is irrelevant. What matters is that it must be in accord with the democratic principles of liberty, equality and dignity. It is entirely possible to draft a civil code that preserves these ideals without any reference to religious practices. This would have the merit of being secular, in keeping with the defining character of India’s constitution.
+
+Self-appointed heads of religious groups have resisted calls for a common civil code by resorting to the argument that it infringes upon religious freedom. They fail to see that religious freedom means the freedom to adopt the faith of one’s choice. In the domain of expression of faith, such as public worship, Indian courts have declared that it should conform to constitutional principles. In what may be considered one of the most significant social changes in India, restriction of temple entry to the avarna was discontinued almost a century ago. Much later, the Supreme Court of India struck down the practice of restricting women’s entry to the Sabarimala temple.
+
+These milestones point to an understanding of the right to religion as being confined to choice of one’s faith and not to extra-constitutional expressions of it, such as the regulation of women’s autonomy by men. This takes us to the question of the efficacy of legislation in advancing rights. For instance, when it comes to temple entry, we find instances of Dalits being denied entry even today. There are also recorded cases of bigamy among Hindus, in some regions greater than among Muslims. But the conclusion drawn from this that banning polygamy among Muslims is discriminatory is a non sequitur. The response to finding bigamy among Hindus hardly invalidates a call for ending the provision for polygamy among Muslims. The right response would be to prosecute those Hindus violating the law.
+
+What is relevant here is not parity among men of different religious groups when it comes to marriage, it is the rights of women within every religious grouping. The demand that sections of the population, whether tribal or Muslim, are entitled to separate personal laws even when they are gender unjust fails to acknowledge that they are equal beneficiaries of India’s democracy. Democracy guarantees them liberty and equality in all spheres of life, including access to the rule of law, freeing them from arbitrary governance. A reform of their personal laws to end gender discrimination, rendering them compatible with democracy, would be no more than to seek a balance between their rights and their responsibilities.
+
+Bridging a gapThe obsession with parity among males across India’s religion-based personal codes blanks out the issue of the rights of its LGBT community. No amount of reform of the Hindu, Muslim and Christian personal codes can reach them, for they have been rendered invisible by these colonial-era constructions. If there were to be a common civil code applicable to all Indians irrespective of faith, gender and sexual orientation, the LGBT population could be accommodated within it. In its absence, an alternative would have to be conceived of. Given the recognition implicitly granted to them with the reading down of Section 377 of the Indian Penal Code in 2018 and a highly visible hearing of a petition in the Supreme Court to allow same-sex marriage, which concluded only recently, the question of a personal law for this group can no longer be postponed.
+
+To be credible, the current debate on personal law must include the LGBT, for the questions of civil partnership, inheritance and adoption are as relevant to them as to other Indians. Mundane acts such as opening a bank account or purchasing life insurance would make one aware of this. Complacently confining the discussion of India’s personal laws within a Hindu-Muslim binary, leaves unrecognised the potential to empower a wide section of the population through their drastic overhaul. The combination of uniformly gender unjust personal laws and a disempowered LGBT population points to the advantage of having a universal civil code which encompasses all Indians. On Independence Day in 1947, Prime Minister Jawaharlal Nehru had, in a message to the nation, stated that the task before India was to “create social, economic and political institutions which will ensure justice and fullness of life to every man and woman”. No social cleavage has been imagined in this vision. A universal civil code would be a step in that direction.
+
+Pulapre Balakrishnan is an economist
+
+[Read full article](https://www.thehindu.com/opinion/lead/a-common-civil-code-spelling-equality-for-every-indian/article67091277.ece)
 
 ---
 
@@ -45,6 +244,114 @@ The young people at Jantar Mantar were not asking the state to surrender. They w
 Shashank Pandey is a lawyer based in New Delhi and former Legislative Assistant to Member of Parliament (LAMP) Fellow
 
 [Read full article](https://www.thehindu.com/opinion/lead/the-state-against-its-students-lessons-to-remember/article71298559.ece)
+
+---
+
+### DC Edit | Beyond Commonwealth Medal Count
+*Deccan Chronicle · Editorial*
+
+The 2026 Commonwealth Games in Glasgow marked both an ending and a beginning. As the curtains came down on a scaled-down edition in Scotland, the baton was passed to Ahmedabad, which will host the Games in 2030. For India, Glasgow was less about where it finished on the medals table and more about what the campaign revealed: its growing strengths, its persistent weaknesses and the enormous responsibility that now comes with staging the next edition.
+
+India finished fourth behind Australia, England and Canada with 39 medals (13 gold, 17 silver and nine bronze). On paper, that appears to be a step backwards from the 61 medals won in Birmingham four years ago. But numbers, in this case, tell only part of the story. The downsized Glasgow Games, shifted from Australia to Scotland, had a sharply reduced programme. With shooting, badminton, wrestling and hockey excluded, India’s 50-medal target was unrealistic, making its campaign more creditable. Of India’s 122 athletes, 38 won medals, with Gulveer Singh claiming two, giving the country a slightly better conversion rate than Birmingham. Boxing led with 10 medals, including seven golds, followed by athletics with 16 and weightlifting with eight.
+
+Neeraj Chopra’s silver in javelin was below the lofty standards he has set for himself as Sri Lanka’s Rumesh Tharanga Pathirage produced a memorable performance to win gold. Yet the sight of debutant Yash Vir Singh sharing the podium with India's Olympic champion underlined the lasting impact Neeraj has had on a new generation of javelin throwers. Tejaswin Shankar battled injury to win India’s first-ever CWG medal in the decathlon. The six medals won in para athletics provided another encouraging reminder that India's talent pool continues to deepen across disciplines.
+
+The 2010 Delhi Games remain India’s finest Commonwealth performance, with 101 medals, including 38 gold, and a second-place finish. Yet they are equally remembered for corruption allegations, delays, inflated contracts and administrative chaos that embarrassed the country. Ahmedabad must learn from Delhi’s failures and deliver efficient, transparent and corruption-free Games, with timely infrastructure, clean competition and a lasting sporting legacy.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-beyond-commonwealth-medal-count-1976336)
+
+---
+
+### DC Edit | Protect Lives, Restore Trust In J&K; Don’t Let Fear Back
+*Deccan Chronicle · Editorial*
+
+The killing of two young Hindu migrant labourers from Chhattisgarh in Kulgam on July 31 evening — days after the “shoot and scoot” assassination of IRP head constable Ashiq Hussain Qureshi in neighbouring Anantnag — has once again exposed the fragility of peace in Jammu and Kashmir. Police suspect a lone Lashkar-e-Taiba operative may be responsible, but the impact is far wider: the attacks revive old anxieties, shake public confidence, and target those most vulnerable.
+
+Migrant workers sustain construction, horticulture, brick kilns and infrastructure across the Valley. They travel thousands of kilometres to earn modest wages, yet remain poorly protected and easy targets. Their killings are not just acts of brutality; they are attempts to disrupt normalcy, sow fear, and fracture communal harmony.
+
+The latest attacks triggered a massive security response — cordon-and-search operations, additional deployments, and intensified counter-terror grid strengthening. His directives for mandatory registration, employer-provided insurance, and dignified last rites for victims are necessary steps. But Kashmir’s recent history shows force alone cannot secure lasting peace.
+
+This Wednesday, August 5, marks seven years since the Centre stripped Jammu and Kashmir of its special status and bifurcated it into two Union Territories. Against this politically charged backdrop, the National Conference has intensified its demand for the full restoration of statehood — an aspiration widely shared across the region.
+
+It is in this context that NC president Farooq Abdullah’s remarks questioning the “timing” of the Kulgam and Anantnag attacks have sparked controversy. Abdullah argues that targeted killings often spike whenever political demands — especially statehood — gain momentum. The Lt. Governor’s call for an unbiased investigation is legitimate; his caution against premature conclusions is prudent. But political speculation around terror incidents, from any side, risks deepening polarisation and distracting from the urgent task of securing lives.
+
+Reports suggest the Centre may restore statehood under a Delhi-like model while retaining control over policing and law and order, a plan the NC rejects. Whatever the framework, the Anantnag and Kulgam attacks must not be used for political score-settling.
+
+Terror attacks must not be politicised to undermine elected leaders or democratic demands. Authorities must also avoid mass detentions, demolitions and sweeping arrests that alienate communities and erode trust.
+
+Lasting peace needs targeted counter-terror operations and community-sensitive policing. Migrant workers require secure housing, transport, rapid-response teams and liaison officers. Investigations must be swift, transparent and protected from misinformation, while political leaders must condemn violence, support victims’ families and avoid exploiting tragedy.
+
+Jammu and Kashmir stands at a crossroads today. Constitutional changes reshaped its politics but not its people’s aspirations. Restoring meaningful statehood, empowering elected institutions and clarifying administrative and security roles are essential to rebuilding trust.
+
+Statehood alone cannot bring peace. Peace requires residents and migrant workers to live without fear, tourists to feel safe, and security personnel to be protected from terrorist attacks.
+
+The Valley must break free from violence and political exploitation. Whatever the statehood model, Kashmir needs inclusive politics, protective security and unity. The killers must face justice, while people are safeguarded with compassion and foresight.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-protect-lives-restore-trust-in-jk-dont-let-fear-back-1976327)
+
+---
+
+### Aakar Patel | Why India Is Now In The Race For A ‘Non-permanent’ Seat At The UNSC
+*Deccan Chronicle · Opinion*
+
+The “Mother of Democracy” is standing for a non-permanent elected seat at the United Nations Security Council. Non-permanent because it is a two-year term and elected because 10 seats are shared between the 188 member states wanting to sit alongside the five permanent members. These 10 seats come with no veto power, so if any one of China, the US, Russia, UK or France do not want something, it is rejected no matter how the other 14 vote.
+
+The Mother has been elected eight times before and the last time was as recently as in 2021-22. I cannot remember what we achieved then and am unsure why we are again contesting, but a clue is available in the date. The term is for 2028 and 2029, which will mean that bang in the middle of the next general election we will have the opportunity to erect hoardings and pretend we are globally important. Remember the G-20 presidency from a couple of years ago.
+
+Elections at the UN are in June next year and there is one other candidate in the Asia-Pacific group whom we have to defeat (or get to withdraw), and that is Tajikistan. It has the advantage of being endorsed by the 56 voting members of the Organisation of Islamic Conference and of taking the sympathy vote as a nation that has never been elected even once.
+
+Candidates need the support of two-thirds of the total 193 member states, so 129 votes if all nations are present and voting. Theoretically, it is possible for us to win without any of the 56 OIC votes, but it will be tough. We must do some jugaad to get Tajikistan to withdraw or break the Muslim bloc with the appeal of our platform.
+
+So, what is our platform? It was announced through an address by external affairs minister S. Jaishankar. As with most things in New India, the acronym is the most important bit. This time we have been given “SHANTI”, which expands to “Securing Holistic Advancement through Norms, Trust and Integrity”. Which sounds like something our election commission says, or the Delhi police.
+
+“SHANTI” has six elements. The first is the claim that India is the Voice of the Global South. How? Where? That is not explained, but let us assume it is true. Second is reformed multilateralism, which is a fancy way of saying give us a permanent UNSC seat. Third is peacekeeping. Readers may not know that a few nations dominate the UN peacekeeping force. The largest contributor is Nepal, next are India, Bangladesh, Rwanda and Pakistan. India will make peacekeeping “future-ready”, which Mr Jaishankar says “means to be better equipped, technologically enabled, to be realistically mandated and focused on core objectives”. Perhaps it means we will issue Aadhaar cards.
+
+Fourth is artificial intelligence, where our role is unclear given that America and China are the only two nations with AI capabilities. Mr Jaishankar clarifies that the contribution of the Mother here is yet another acronym. He says: “India has put forward a human-centric vision of AI, that draws on both its capabilities and on India’s traditions. Our word for that is MANAV, which is an acronym for Moral and ethical systems, Accountable governance, National sovereignty, Accessible and inclusive, and Valid and legitimate systems”. Okay.
+
+Fifth is maritime order, which is to say that Iran should stop blockading Hormuz. Sixth is terrorism, our most favourite subject. Mr Jaishankar says “our commitment is to concentrate on countering terror financing”. This is not true. In its September 2024 Mutual Evaluation Report on India, the Financial Action Task Force (FATF) rated India as only "partially compliant” because of Mother’s dislike of NGOs, about which I have written here before.
+
+These six things comprise our platform. Perhaps the world will find this scintillating manifesto reason enough to vote for us. But we will have to address the two, related, gigantic, global issues of our time. The illegal war in Iran affecting everyone and the genocide in Palestine.
+
+On the first, we have nothing to say because we are afraid to speak against President Donald Trump and we accepted a medal from Israel hours before the war began. On the second, recognising that it needs to be mentioned, Mr Jaishankar said in his address: “We have only yesterday, at the Palestine donor group meeting in Brussels, additionally committed to setting up a specialty hospital, an artificial limb fitment centre and a vocational training institute for Palestine.”
+
+But of course, our real record on Palestine is clear and transparent.
+
+India abstained from votes calling for Israel to stop bombing Gaza. Only one nation has voluntarily, enthusiastically embraced Israel amid its genocide and apartheid against Palestinians, and that is India. Germany does it out of historic guilt, America does it because of the Israeli lobby. India alone has decided it hates Palestinians enough to love Israel.
+
+As my organisation Amnesty International revealed last week, India has been shipping weapons to Israel including warheads and other munitions used...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/aakar-patel-why-india-is-now-in-the-race-for-a-non-permanent-seat-at-the-unsc-1976317)
+
+---
+
+### Shikha Mukerjee | Fix The Education ‘System’; Just A New Law Not Enough
+*Deccan Chronicle · Opinion*
+
+Something is rotten in the state of India’s education, with apologies to William Shakespeare; a harsher law will not do the job that an overhaul, without ideological bias, would.Paper leaks, as India knows, is a yearly phenomenon; the victims of the government’s decades of ineptitude and unintelligent approach to public examinations are everywhere.
+
+In Bihar, victims of a botched railway recruitment exam set rail coaches on fire, blocked railway tracks, pelted stones. More than one crore applicants had taken the test for a total of 35,000 jobs, that would have given them tenured employment starting at around Rs 20,000 per month. In Bihar, Madhya Pradesh, Uttar Pradesh, Haryana, Telangana, young men and women, exploded in rage over the change in the rules for recruitment to the armed forces — the “Agnipath” scheme.
+
+For the Narendra Modi government, not to know this is impossible. The solution to paper leaks does not lie in harsher punishment for the small fry who are invariably nabbed for paper leaks.
+
+The paper leaks business is big, an estimated Rs 1,000 crores at least. A punishment of Rs 10 crores is chicken-feed and entirely affordable.
+
+The “system” needs to be fixed; tokenism is not a solution. Education, in the context of public examinations, be it for admission into under-graduate, post=graduate or fellowship programmes or for recruitment in the safest and most secure jobs in the country, namely government jobs, has been reduced to a competition. It is a fierce fight to “crack the exam” — turning education into a commodity. By doing so, a market is created, of a supply mechanism of leaked papers to meet the demand to succeed.
+
+The National Education Policy and revisions of history and science curricula, dismantling institutions to replace them with new ones like the utterly untrustworthy National Testing Agency, which keeps springing leaks on unsuspecting students and helps the exam mafia rake profits contribute to the stench, but they aren’t solutions. Nor is tinkering with mid-day meals — satvik (pure vegetarian) menus versus menus with animal proteins — that fail to serve the purpose of a government-sponsored meal in schools.
+
+Students know what needs changing; so do educationists and experts; it is evident the government does not. Paternalistic, patriarchal and pathetic as the political class reveals itself to be, Gen Z or Gen Alpha knows it must stand up for itself or it will be thrown under the bus by a political class that talks about AI but does little to educate India’s young adequately to tackle an AI-appropriated world that eats up low-skilled jobs and has no value for the poorly qualified products of India’s ramshackle universities.
+
+The numbers, show exactly the pits of destroyed desires to which India’s youth have been consigned, with little chances of escape. Of 307 million young people in the 15-29 age group who entered the labour market, roughly 141 million are in the labour force; while 127 million are “employed”, but less than one in eight (15 million) have regular salaried jobs with a contract and social security, decent working conditions, fair pay and career prospects. Put differently, a quarter (25.7% of the young, and in India, the legal age for a young person to have a job is only 14) are engaged in unpaid family work. About 21.3% of the young are, euphemistically, engaged in “own account work,” while 22% are engaged in casual work, and 18% are employed in regular work, but without social security and only 11.8% have jobs with social security.
+
+Qualifications: a degree in medicine, engineering, or even law and in accountancy, are investments that the student and his/her family make to buy a chance at a better quality of life. It’s also true these families know there are no guarantees; the qualified young may not land the jobs that are worth the investment.
+
+Education needs capacity-building reforms that create the capabilities required by an economy that must adopt and adapt to AI technologies. It doesn’t need ideological reform of the Vedic maths variety. India needs massive investment in education; not the chicken feed of private investment in education as a safe profit-making route, but public investment to produce young Indians who can join a workforce that is transforming with AI technologies.
+
+There is a mismatch between expectations of the aspiring and it must be recognised; the meritorious young are frustrated by the very restrictive choices they have because of the serious scarcity of opportunities for work with adequate compensation.
+
+The Neet process is a test that excludes those deemed ineligible; a hit-and-miss event, that can destroy dreams, of the family and the tested, regardless of his/her talent. The job recruitment tests are also a method to exclude the eligible from the rest. In both instances, the number of vacancies — of seats in medical colleges and tenured jobs in various government services — are seriously disproportionate; over one crore aspirants ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/shikha-mukerjee-fix-the-education-system-just-a-new-law-not-enough-1976314)
 
 ---
 
