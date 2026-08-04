@@ -1,3 +1,572 @@
+## 4 August 2026
+
+### FSSAI bans old monk: Why did regulator stop sale of three variants of the popular Rum?
+*Trending Desk · business*
+
+The government has clarified that the Food Safety and Standards Authority of India (FSSAI) has initiated enforcement action against certain alcoholic beverage manufacturers, including makers of select Old Monk rum variants, over alleged violations of food safety regulations.
+
+In a statement, the Ministry of Health and Family Welfare (MoHFW) said the action relates to the use of flavouring substances that mimic the characteristic aroma and taste of standardised alcoholic beverages such as rum and whisky, as well as allegedly misleading age-
+
+  
+  
+
+## Why did regulator ban Old Monk variants?  
+
+According to FSSAI, the characteristic taste and aroma of alcoholic beverages are expected to develop naturally through the base ingredients, fermentation, distillation, maturation and other recognised manufacturing processes. For instance, rum derives its profile from ingredients such as molasses, while whisky develops its characteristics from malt and ageing.
+
+However, the regulator said some manufacturers were found to be adding external flavouring substances that mimic the inherent aroma and taste of standardised alcoholic beverages and marketing them as regular rum or whisky. FSSAI alleged that these manufacturers primarily used neutral or extra neutral alcohol, which lacks a distinct flavour profile, and then added flavour externally to recreate the expected characteristics of the beverage.
+
+The statement of the ministry said that these products should instead be labelled as "rum-flavoured spirit" or "whisky-flavoured spirit" where applicable, adding that front-of-pack labels must clearly indicate the true nature of the product under the Food Safety and Standards (Labelling and Display) Regulations, 2020.
+
+FSSAI said laboratory testing of rum and whisky samples from multiple manufacturers found the presence of artificial or nature-identical flavours, leading laboratories to classify the products as sub-standard. The regulator cited laboratory findings stating that "the addition of artificial flavours is masking its natural flavour and making the product substandard". It also noted that failing to describe such products as "flavoured" or "premix" variants on labels could mislead consumers.
+
+Separately, FSSAI said the "7 years old blended" claim on an Old Monk XXX Rum variant was found to be misleading. According to the regulator, neutral (unaged) spirit constituted the major ingredient in the product, while matured rum made up less than 5% of the blend. FSSAI said this violated the Food Safety and Standards (Alcoholic Beverages) Regulations, 2018, which require age statements to be based on the youngest spirit used in the blend.
+
+## What does the action mean?  
+
+In a statement on PIB, the regulator has said conditional revocation has been issued. "For the existing stock in hand they have been allowed to sell the product by revealing the true nature of the product on the front of the pack whereas for future production a clear direction has been passed as to not add identical flavour in the product, such as rum flavour or whisky flavour," the statement read.
+
+---
+
+### 'Pakistani mediators compromised, favour Iran at expense of US': Defence analyst General Jack Keane
+*animediators compromised · business*
+
+Washington DC: Following US President Donald Trump's decision to halt plans for a massive stike on Iran to reopen diplomatic engagement for a deal with Tehran, retired US General Jack Keane, a prominent defence analyst and supporter of Trump, has criticised the role of Pakistan and Qatar as mediators in efforts aimed at easing tensions with Iran, alleging that both countries are "compromised" because they favour Tehran over Washington.
+
+Genral Kean is the Chairman of the Institute for the Study of War, a member of the prestigious Secretary of Defense Policy Board, having advised four US Defence Secretaries and a member of the 2018 and 2022 Congressional Commission on the National Defence Strategy.
+
+Speaking during an interview with Fox News, Keane argued that the choice of mediators had negatively influenced US diplomacy with Iran.
+
+  
+
+"It is well known in the Middle East region by our intelligence services, by all the players, that the Pakistanis and the Qataris are compromised because they favour Iran at the expense of the United States. This is historical; this is not new. And yet they're the mediators. So their influence here, I think, has played a part in misleading the United States in terms of Iran's real intentions," Keane said.
+
+Keane also criticised the role of Saudi Arabia, alleging that Riyadh had repeatedly discouraged Washington from taking stronger military action against Iran.
+
+Referring to discussions over the Strait of Hormuz, he claimed Saudi Arabia denied the United States access to its airbases and airspace and advised against military action, believing such an operation would fail.
+
+He further alleged that Saudi Arabia had, on multiple occasions, urged US leadership to pursue negotiations instead of military operations.
+
+"The Saudis are not willing to sacrifice to rid the Middle East region of Iran's aggression. That's the absolute fact that we're seeing playing out here," Keane said.
+
+According to Keane, Saudi Arabia has been reluctant to risk casualties or damage to its oil infrastructure while expecting the United States and Israel to bear the burden of confronting Iran.
+
+"They're willing for us to make that sacrifice, for sure. They're willing for Israel to make that sacrifice, for sure," he said.
+
+Keane also highlighted the long-standing security relationship between the United States and Saudi Arabia, noting Washington's role in protecting the kingdom during the Gulf War and maintaining strategic ties despite tensions following the killing of Saudi journalist Jamal Khashoggi.
+
+"I think this is shameful that they lack the spine to stand up for their people and for the region here and support the President on what is taking place," he added.
+
+Keane's remarks come amid ongoing discussions over regional security and diplomatic efforts involving multiple Middle Eastern stakeholders.
+
+His comments reflect his personal assessment of the strategic roles played by Pakistan, Qatar and Saudi Arabia in the broader US-Iran dynamic and have not been independently verified.
+
+---
+
+### Vijay's son Jason Sanjay reveals dad's career advice, says 'Mom is a spy': 'He never spoon-fed me
+*Trending Desk · business*
+
+Tamil Nadu Chief Minister Vijay's son and first-time director Jason Sanjay has broken his usual silence about his family, sharing childhood stories and his father's one big piece of career advice, days ahead of his debut film 'Sigma.' Speaking to Behindwoods, Jason opened up about growing up as Vijay's son, his mother Sangeetha's uncanny knack for catching him out, and an old song shoot he barely remembers.
+
+**
+
+The interview comes at an interesting time. Vijay's family has been the subject of constant online chatter, especially during his election campaign, when unverified reports claimed Jason had even switched to using his mother's surname. Jason and his family never addressed those claims directly, until now, choosing instead to talk about real memories rather than rumours.
+
+  
+  
+
+## 'He Never Spoon-Fed Me'
+
+Jason called his father's win as Chief Minister a "historic revolution" for the family, adding that it comes with a bigger duty to protect what they have built together. He also recalled the one instruction Vijay gave him before he entered the film industry, to make his own name rather than lean on his father's. "He never spoon-fed me," Jason said, describing how Vijay stayed hands-off once his son chose filmmaking as a career.
+
+## A Mother Who Catches Everything
+
+If Vijay handed out career advice, Sangeetha appears to run a tighter ship at home. Jason laughingly compared her to a detective: "My mom is like a spy." He recounted a night he took the family car without telling anyone and returned only the next morning, by which point the family was close to filing a missing person's complaint. He admitted he "really got into trouble" once he walked through the door.
+
+  
+
+### A Song He Barely Remembers
+
+Long before he was calling "action" on his own film, Jason appeared as a child in the song "Naan Adicha Thaangamatta" from Vijay's film 'Vettaikaaran.' He said he was only eight or nine at the time and remembers little beyond wearing the costume and running to hug his father when the cameras rolled. Asked if he inherited his father's famous dance moves, Jason kept it modest, insisting he is not a natural dancer and asking not to be compared with Vijay.
+
+## Jason Sanjau Career Plan: Direction, Not Acting
+
+For now, acting is off the table. Jason said his focus is entirely on directing, starting with 'Sigma,' which stars Sundeep Kishan and marks his debut behind the camera. He will also make a brief on-screen appearance in one of the film's songs. A release date is yet to be announced.
+
+---
+
+### Manish Tewari submits adjournment notice in Lok Sabha seeking discussion on new anti-defection law to curb opportunistic mass defections
+*Unknown · business*
+
+New Delhi: Congress MP Manish Tewari on Tuesday submitted an adjournment motion notice in the Lok Sabha, seeking the suspension of Question Hour, Zero Hour, and all other listed business of the day to discuss the need for a new anti-defection law to curb what he termed "mass political defections" driven by opportunism.
+
+In his notice addressed to the Secretary-General of the Lok Sabha, Tewari stated that he intended to move a motion for the adjournment of the House's business to discuss "a definite matter of urgent public importance."
+
+"I move that this House do suspend Question Hour, Zero Hour, and all other listed business of the day to discuss the contours of a new Anti-Defection Law that proscribes Mass Political Defections driven by opportunism and bereft of any genuine ideological or policy differences while simultaneously providing space for honest and critical dissent both inside and outside Parliament and the legislatures," the notice read.
+
+  
+
+Tewari said the proposed discussion should focus on framing an anti-defection law that discourages politically motivated defections while safeguarding the space for principled dissent within Parliament and state legislatures.
+
+The Congress MP urged the government to adjourn the scheduled business of the House and allow a full discussion on the issue, describing it as a matter of urgent importance.
+
+According to the revised List of Business issued by the House, Union Finance Minister Nirmala Sitharaman is set to introduce the Taxation and Other Laws (Amendment) Bill, 2026, in the Lok Sabha on Tuesday. The Bill seeks to further amend the Payment and Settlement Systems Act, 2007, the Income-tax Act, 2025, and the Finance Act, 2026. Sitharaman will move for leave to introduce the legislation and subsequently introduce the Bill in the House.
+
+The Finance Minister will also lay on the Table an explanatory statement, in Hindi and English, outlining the reasons for immediate legislation through the promulgation of the Income-tax (Amendment) Ordinance, 2026 (No. 2 of 2026).
+
+The Lok Sabha will thereafter take up discussion on the Demands for Excess Grants for 2022-23. After the discussion concludes, Sitharaman will introduce the Appropriation (No. 3) Bill, 2026--seeking parliamentary approval for expenditure incurred during the financial year ended March 31, 2023, in excess of the amounts originally granted--and will move for its consideration and passage.
+
+The House will also hear statements from ministers on the implementation of recommendations made by parliamentary standing committees. Union Minister Jitin Prasada will make a statement on the implementation of recommendations relating to the Department for Promotion of Industry and Internal Trade.
+
+Minister of State Chandra Sekhar Pemmaswill make a statement on recommendations concerning the Department of Land Resources, while Minister of State Bhagirath Choudhary will present a statement on the implementation of recommendations 
+
+The House is also scheduled to consider and pass the Bankers' Books Evidence Bill, 2026, which aims to modernise the legal framework governing evidence relating to bankers' books by aligning it with contemporary digital banking practices. The day's agenda also includes Matters under Rule 377 before the House takes up the remaining legislative business.
+
+---
+
+### WhatsApp Outage: Users say they could not send messages, video, pics for hours
+*Manisha Chauhan · general*
+
+Several WhatsApp users were temporarily locked out after their accounts were placed under review, with the company saying its automated systems can sometimes make mistakes.
+
+Thousands of WhatsApp users, including many in India, were left frustrated on Monday evening after the messaging app suddenly restricted access to their accounts, leaving them unable to send messages or make calls.
+
+The issue started around 8 pm (IST). Users said their accounts were unexpectedly placed under review without any prior warning. During the review period, all major WhatsApp features remained unavailable.
+
+> My WhatsApp account was suddenly disabled without any warning. I only use the official app, and my work depends on WhatsApp. Please help. This was so unnecessary @WhatsApp pic.twitter.com/du6EewmpPM
+> 
+> — saloni (@saloniigavde) August 3, 2026
+
+Those affected were shown a message saying: "Account in review. Date requested: 3 Aug 2026. Your account activity and device info is being checked to make sure it follows our terms of service. We will notify you of the result typically within 24 hours."
+
+The notice also directed users to pages explaining responsible use of WhatsApp and information 
+
+> WhatsApp reporta una afectación masiva en todo el mundo y no se puede compartir imágenes o videos.
+> 
+> Además se reporta la suspensión masiva de cuentas de este servicio de mensajería.  
+> ¿Eres de los afectados? pic.twitter.com/IBZqWS25ER
+> 
+> — La Hora (@LaHoraMX) August 3, 2026
+
+As complaints spread across social media, many users questioned why their accounts had been restricted. One X user wrote, "WhatsApp has placed several accounts under investigation for 24 hours. WhatsApp suddenly put several users' accounts under investigation on Monday evening. As a result, they were unable to use the app's features for 24 hours. This step has left people frustrated in India and several other places, and they also lodged their complaints on social media."
+
+Another user posted, "WhatsApp has banned my account for absolutely no reason. Has anyone else experienced this? Any idea what the next steps are?"
+
+Responding to the reports, a WhatsApp spokesperson told PTI that the platform relies on automated systems to detect misuse, but admitted these systems do not always get it right.
+
+"We are always working to stay ahead of those trying to abuse our service and ban accounts to help keep other users safe. Sometimes we get this wrong and if we do, we try to fix it as quickly as possible to get people back to chatting," the spokesperson said.
+
+The company did not reveal how many accounts were affected or confirm whether the reviews were triggered by a technical issue or an automated enforcement action. However, it said it works to restore access as quickly as possible whenever legitimate accounts are mistakenly flagged.
+
+---
+
+### Justice Liberhan called Babri Masjid demolition a well-planned conspiracy
+*Manraj Grewal Sharma · legal*
+
+Even after a special CBI court acquitted all the accused in the demolition case in 2020, Liberhan remained firm. He will be remembered for heading the inquiry into one of independent India’s most contentious episodes.
+
+[Read full article](https://indianexpress.com/article/india/justice-liberhan-babri-masjid-demolition-well-planned-conspiracy-10816817/)
+
+---
+
+### Amnesty condemns crackdown in Rawalkot as CPJ raises alarm over journalist disappearances, communications blackout
+*Unknown · business*
+
+Synopsis
+
+Global watchdogs condemn escalating state violence and press restrictions in Rawalakot. Amnesty International and CPJ Asia demand an end to the crackdown. They highlight enforced disappearances of journalists and widespread internet shutdowns. Reports indicate significant casualties during ongoing protest movements.
+
+Amnesty condemns crackdown in PoJK as CPJ raises alarm over journalist disappearances, communications blackout
+
+Rawalkot: Global human rights and press freedom watchdogs, including Amnesty International and the Committee to Protect Journalists (CPJ Asia), have issued urgent statements condemning escalating state violence, press restrictions, and media suppression surrounding ongoing protests in Rawalakot and across Pakistan-occupied Jammu and Kashmir.
+
+The monitoring groups are raising alarms over the reported enforced disappearances of journalists, restrictions on foreign outlets, and widespread internet shutdowns, demanding an immediate halt to the crackdown and transparent investigations into human rights violations.
+
+Highlighting disturbing reports of force used against demonstrators in Rawalakot, Amnesty International pointed to a pattern of state-led violence and urged an immediate external inquiry.
+
+  
+
+"The disturbing reports emerging from Rawalakot are consistent with the Pakistauthorities' long history of unlawful violence against protesters in Jammu and Kashmir. A prompt, independent, and transparent investigation must be ordered into the security forces' use of force against protesters. So long as an internet and mobile services blackout remains in place, it will severely impede the independent verification of the full extent of the situation on the ground. We urge the Pakistani authorities to restore all communications access and allow media and independent observers into the area," Amnesty said in a post on X.
+
+"The disturbing reports emerging from Rawalakot are consistent with the Pakistani authorities' long history of unlawful violence against protesters in Jammu and Kashmir. A prompt, independent, and transparent investigation must be ordered into the security forces' use of force... pic.twitter.com/SlVd8GPgPN- Amnesty International USA (@amnestyusa) August 3, 2026"
+
+Additionally, in a series of statements, the Committee to Protect Journalists (CPJ) detailed a systematic crackdown on news gathering, citing ongoing communications shutdowns and state-imposed reporting barriers.
+
+"CPJ is monitoring the deteriorating press freedom conditions in Pakistan-administered Kashmir amid ongoing protests. Reports of internet blackouts, telecommunications shutdowns, restrictions on reporting, and the detention and disappearance of journalists are deeply concerning. Pakistani authorities must immediately end the crackdown on journalists, restore access to information, and allow independent reporting," CPJ said in a post on X.
+
+  
+
+"#Pakistan: CPJ is monitoring the deteriorating press freedom conditions in Pakistan-administered Kashmir amid ongoing protests. Reports of internet blackouts, telecommunications shutdowns, restrictions on reporting, and the detention and disappearance of journalists are deeply...- CPJ Asia (@CPJAsia) August 3, 2026"
+
+—
+
+The press freedom body expressed particular urgency regarding the safety of media personnel operating in the region, including the reported disappearance of journalists seized by uniformed personnel in Islamabad.
+
+"CPJ is deeply concerned by reports that independent journalist Razi Tahir and his colleague Muhammad Saif have been missing since August 1. They were reportedly taken by men in police uniforms from their office in Islamabad, and their whereabouts remain unknown. Pakistani authorities must acknowledge whether they are in state custody, ensure due process, and immediately release them if they are being arbitrarily detained," it wrote.
+
+"Journalists Razi Tahir and Muhmmad Saif remain missing after reportedly being taken by men in police uniform on August 1. Pakistani authorities must acknowledge their detention if they are in state custody, ensure due process, and immediately release them. Kashmiri journalist Raja Ikram, who was reportedly detained in Islamabad on August 1, was later released," it added.
+
+CPJ also noted that media censorship appears to be extending beyond regional borders, pointing to reported state actions against major news outlets and long-running telecom disruptions.
+
+"Separately, unconfirmed reports suggest access to Al Jazeerahas been restricted in Pakistan after the outlet reported from Kashmir on August 1. Pakistan's Ministry of Information and Broadcasting accused the broadcaster of "yellow journalism." Media reports also indicate that a partial internet blackout and severe telecommunications restrictions have been in place across Pakistan-administered Kashmir since June 5.
+
+The development comes against a backdrop of mounting casualties during the ongoing protest movement. According to data updated by the Human Rights Council of Pakistan-occupied Jammu & Kashmir (HRC-PoJK) as of Sunday, a total of 80 fatalities have been documented, comprising 33 civilian deaths prior to July 27, 43 from July 27 onwards across Rawalakot, Mirpur, and Muzaffarabad, and 4 Pakistan-occupied Jammu & Kashmir police personnel.
+
+---
+
+### DGCA likely to mandate carbon emissions reporting for international flights; India advances SAF blending roadmap
+*Unknown · general*
+
+New Delhi: The Directorate General of Civil Aviation (DGCA) is likely to introduce a mandate requiring aircraft operators, both Indian and foreign carriers operating on international routes, to report data covering a minimum of 90 per cent of their annual carbon emissions arising from operations involving all international airports in India.
+
+Sources said that this move is aimed at ensuring a level playing field and avoiding economic distortion among operators.
+
+This comes amid India's preparations to meet global sustainability requirements under the Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA).
+
+  
+
+Last week, Union Civil Aviation Minister Ram Mohan Naidu chaired a high-level stakeholder consultation on Sustainable Aviation Fuel (SAF).
+
+"We had a very important stakeholder consultation on sustainable aviation fuel... India has agreed to the CORSIA mandate of 1% SAF blending in the ATF for international flights by 2027, 2% by 2028 and 5% by 2030. The discussion that we had was how prepared we are to achieve that 1% SAF blending. Our OMCs are all coming together with the best of the processes to manufacture and produce SAF in the country itself. The Panipat Refinery and the Mumbai Refinery are already at the final stages of getting SAF done. We also want to bring private industry into manufacturing SAF," the Minister said.
+
+Oil Marketing Companies (OMCs) are collaborating to scale up domestic SAF production. Refineries at Panipat and Mumbai are in advanced stages of readiness, with the government also seeking greater private sector participation in manufacturing.
+
+The consultation reviewed progress on SAF supply chains, production timelines, certification, accounting and reporting frameworks aligned with ICAO/CORSIA requirements and the development of a national SAF registry. Officials from the Ministries of Civil Aviation, Petroleum & Natural Gas, and Environment, Forest and Climate Change, along with DGCA, Bureau of Indian Standards, Bureau of Energy Efficiency, airlines, airport operators and OMCs participated.
+
+India's draft SAF policy is in its final stages. The government has emphasised achieving the initial 1 per cent blending target in a cost-effective manner while minimising the burden on passengers and airlines.CORSIA's mandatory phase begins on 1 January 2027. The proposed emissions reporting requirement and domestic SAF push form part of India's broader strategy to ensure compliance, support the growth of its aviation sector, and contribute to global decarbonisation efforts.
+
+---
+
+### Meta Under Fire! Nishikant Dubey Demands Zuckerberg's Apology Over PM Modi Video Removal | News18
+*Unknown · general*
+
+A fresh controversy has erupted after Meta removed a video featuring Prime Minister Narendra Modi, prompting a sharp response from Parliament's Standing Committee on Communications and Information Technology.Committee Chairman Nishikant Dubey has demanded a personal apology from Meta CEO Mark Zucker...
+
+[Read full article](https://www.news18.com/videos/breaking-news/meta-under-fire-nishikant-dubey-demands-zuckerberg-s-apology-over-pm-modi-video-removal-news18-10250609.html)
+
+---
+
+### Tamil Nadu weather today (August 4): IMD forecasts rain, thunderstorms in Chennai, Madurai and other regions
+*Trending Desk · business*
+
+The India Meteorological Department is expecting Tamil Nadu to witness moderate rainfall in several districts, including Chennai, Kancheepuram, Chengalpattu and Madurai, on Tuesday, while thunderstorms accompanied by lightning are expected at isolated places across the rest of the state and the Karaikal region.
+
+**Rain forecast for Tamil Nadu on August 4**
+
+The IMD said moderate rain is likely at a few places over the Western Ghat districts, Tiruvannamalai, Villuppuram, Cuddalore, Kancheepuram, Chennai, Madurai, Chengalpattu, the Delta districts, Puducherry and Karaikal. Isolated places in these regions may also witness thunderstorms accompanied by lightning and gusty winds reaching 40-50 kmph. Meanwhile, the rest of Tamil Nadu is expected to receive light rain at a few places, with isolated thunderstorms and lightning.
+
+  
+
+## Tamil Nadu weather:  
+
+Day
+
+Weather forecast
+
+Day 1 (August 4)
+
+Moderate rain at a few places is likely over the Western Ghat districts, Tiruvannamalai, Villuppuram, Cuddalore, Kancheepuram, Chennai, Madurai, Chengalpattu, Delta districts, Puducherry and Karaikal. Thunderstorms accompanied by lightning and gusty winds (40-50 kmph) are likely at isolated places. Light rain with isolated thunderstorms and lightning is expected over the rest of Tamil Nadu.
+
+Day 2 (August 5)
+
+Moderate rain at isolated places is likely over the Western Ghat districts, Tiruvannamalai, Villuppuram, Cuddalore, Kancheepuram, Chennai, Madurai, Chengalpattu and Puducherry. Light rain with isolated thunderstorms and lightning is expected over the rest of Tamil Nadu and Karaikal.
+
+Day 3 (August 6)
+
+Heavy rain is likely at isolated places over the ghat areas of Theni and Tirunelveli. Light to moderate rain is expected over the remaining Western Ghat districts, North Coastal Tamil Nadu, Puducherry and Karaikal. Light rain is likely over the rest of Tamil Nadu.
+
+Day 4 (August 7)
+
+Heavy rain is likely at isolated places over the ghat areas of Tirunelveli. Moderate rain is expected over the remaining Western Ghat districts, while light rain is likely across the rest of Tamil Nadu, Puducherry and Karaikal.
+
+Day 5 (August 8)
+
+Moderate rain at isolated places is likely over the Western Ghat districts.
+
+Day 6 (August 9)
+
+Light rain at isolated places is likely over Tamil Nadu, Puducherry and Karaikal.
+
+  
+
+## Tamil Nadu weather: Heavy rainfall alert  
+
+The IMD has also issued a heavy rainfall warning for parts of Tamil Nadu later this week. Heavy rain is likely at isolated places over the ghat areas of Theni and Tirunelveli districts on Day 3 (August 6), while the ghat areas of Tirunelveli are expected to continue receiving heavy rainfall on Day 4 (August 7). In addition, thunderstorms accompanied by lightning and gusty winds reaching 40-50 kmph are likely at one or two places across Tamil Nadu, Puducherry and Karaikal on Day 1 (August 4).
+
+Warning
+
+Day
+
+Forecast
+
+Heavy rainfall
+
+Day 3 (August 6)
+
+Heavy rain is likely at isolated places over the ghat areas of Theni and Tirunelveli districts.
+
+Heavy rainfall
+
+Day 4 (August 7)
+
+Heavy rain is likely at isolated places over the ghat areas of Tirunelveli district.
+
+Thunderstorm warning
+
+Day 1 (August 4)
+
+Thunderstorms accompanied by lightning and gusty winds reaching 40-50 kmph are likely at one or two places over Tamil Nadu, Puducherry and Karaikal.
+
+---
+
+### Woman accuses Delhi auto driver of watching porn, masturbating. Rapido fires him
+*India Today Trending Desk · general*
+
+## A woman alleged a Rapido auto driver watched pornography and masturbated during her ride in Delhi. Rapido responded to the incident and said the driver was permanently barred from the platform.
+
+A Delhi auto driver was caught watching porn and masterbating during a ride. (Photo: Instagram)
+
+An Assamese woman's account of a disturbing Rapido ride has shocked people after she alleged that the auto driver was watching pornography and masturbating during the ride. Rapido has since said the driver was permanently removed from the platform.
+
+Sukanya Dutta, a researcher and digital creator from Assam who is based in Delhi, said she had booked a Rapido auto from Safdarjung to Model Town at around 8.48 pm. According to her, she had no reason to suspect anything was amiss until an unexpected warning from a fellow commuter changed the course of her journey.
+
+As the auto halted at a traffic signal, a woman riding a motorcycle alongside tried to get Dutta's attention. She allegedly pointed out that the driver was watching something inappropriate on his phone. The moment he noticed the interaction, the driver quickly put his phone away.
+
+Only then, Dutta said, did she realise the man was allegedly watching pornographic content while touching himself as he drove.
+
+With nearly 30 minutes still left in the journey and much of the route passing through unfamiliar stretches, Dutta said she chose not to get off the vehicle. Instead, she stayed on until she reached a crowded area she was familiar with, believing it was the safer option.
+
+She also contacted Rapido's safety team during the ride, informing them that she felt unsafe and alleging that the driver was watching pornography. However, she claimed she did not receive any immediate response while the ride was still in progress.
+
+After reaching her destination, Dutta confronted the driver on camera. According to her, he did not deny watching explicit content, instead claiming he was "just watching bideshi videos of women wearing chote chote kapde."
+
+**Here’s the post:**
+
+In her post, Dutta thanked the unidentified woman biker whose intervention first alerted her to the situation. Reflecting on the experience, she wrote, "People often ask women, 'Why didn't you just get off?' But that's the reality of being a woman, we're constantly calculating risk."
+
+Responding to the incident, Rapido said the driver had been permanently barred from the platform following a review of his "unprofessional behavior."
+
+“A thorough review of the interactions will be conducted to identify areas of improvement and strengthen our processes to ensure timely and appropriate support, particularly in safety-
+
+The company also apologised for the experience and said it would examine its handling of the complaint to improve its safety response in future.
+
+\- Ends
+
+Srimoyee Chowdhury
+
+Aug 4, 2026 08:42 IST
+
+---
+
+### Govt to sell up to 6.5% stake in LIC via OFS; floor price set at Rs 382 per share
+*India Today Business Desk · general*
+
+## The Centre has launched an offer for sale in LIC, with a base 2% sale and an option to divest another 4.5% at a floor price of Rs 382 a share. The sale is aimed at helping the insurer meet Sebi's public shareholding norms ahead of the 2027 deadline.
+
+Floor price fixed at Rs 382 per share.
+
+The Centre on Monday announced an offer for sale (OFS) of up to a 6.5% stake in Life Insurance Corporation of India (LIC), marking the government's first stake sale in the country's largest insurer since its landmark initial public offering (IPO) in 2022.
+
+The offer comprises a base sale of up to 2% equity, with an option to sell an additional 4.5% stake if there is sufficient demand. The floor price has been fixed at Rs 382 per equity share, according to an exchange filing by LIC.
+
+At the floor price, the full 6.5% stake sale could fetch the government about Rs 31,410 crore, Reuters reported.
+
+The stake sale is aimed at helping LIC meet Sebi's minimum public shareholding (MPS) norms ahead of the May 16, 2027 deadline.
+
+### WHAT IS THE GOVERNMENT SELLING?
+
+According to the exchange filing, the President of India, acting through the Ministry of Finance, will sell up to 12.65 crore equity shares in the base offer, representing 2% of LIC's paid-up equity share capital.
+
+In addition, the government has retained an oversubscription option to sell another 28.46 crore shares, equivalent to 4.5% of LIC's equity capital.
+
+If the oversubscription option is fully exercised, the total offer size will increase to nearly 41.11 crore shares, or 6.5% of LIC's paid-up equity capital.
+
+### WHY IS THE GOVERNMENT SELLING ITS STAKE?
+
+The primary objective of the OFS is to help LIC comply with Sebi's minimum public shareholding norms.
+
+LIC currently has a public shareholding of around 3.5%. If the government sells the entire 6.5% stake, the insurer's public shareholding will rise to 10%, allowing it to meet the regulatory requirement well ahead of the May 2027 deadline.
+
+"This (OFS) will help achieve MPS milestones ahead of schedule," Department of Investment and Public Asset Management (DIPAM) Secretary Arunish Chawla said in a post on X, according to Reuters.
+
+LIC had listed on the stock exchanges in May 2022 after the government diluted a 3.5% stake through one of India's biggest-ever IPOs. This is the government's first divestment in the insurer since that listing.
+
+### WHEN WILL THE LIC OFS OPEN?
+
+As per the exchange filing, the OFS will open for non-retail investors on Tuesday, August 4.
+
+Retail investors and eligible employees will be able to place bids on Wednesday, August 5. Non-retail investors whose bids are not allotted on the first day can also carry forward and revise their bids on the second day in accordance with Sebi's OFS guidelines.
+
+The offer will remain open during normal trading hours on both days.
+
+### WHAT IS THE FLOOR PRICE?
+
+The government has fixed the floor price at Rs 382 per equity share.
+
+LIC shares ended Monday's trading session 0.9% higher at Rs 428.50, Reuters reported. This means the floor price is about 11% lower than Monday's closing market price.
+
+The final allocation price will be determined through the OFS process.
+
+### DISCOUNT FOR RETAIL INVESTORS AND EMPLOYEES
+
+Retail investors and eligible employees participating in the OFS will receive a discount of Rs 15 per equity share on the discovered price, according to the exchange filing.
+
+The filing also states that up to 50 lakh equity shares have been reserved for eligible employees, subject to applicable allocation rules.
+
+In line with Sebi's OFS framework, at least 10% of the offer shares have been reserved for retail investors, while a minimum of 25% has been earmarked for mutual funds and insurance companies. Any unsubscribed portion under these categories will be available to other eligible bidders.
+
+### WHO CAN PARTICIPATE?
+
+The OFS will be conducted through the stock exchange mechanism.
+
+Institutional investors can bid on the first day of the issue, while retail investors—defined as those bidding for shares worth up to Rs 2 lakh across exchanges—can participate on the second day. Eligible employees can also apply under the employee reservation category.
+
+The OFS marks a significant milestone in the government's divestment programme.
+
+Reuters reported that the Centre has set a divestment and asset monetisation target of Rs 80,000 crore for FY27. It has already raised about Rs 21,200 crore this financial year through stake sales in public sector companies, including NHPC, Coal India and Indian Railway Finance Corporation (IRFC).
+
+The LIC stake sale is expected to be one of the government's biggest divestment exercises this financial year.
+
+For LIC, the transaction is equally significant as it will help the insurer move closer to meeting Sebi's minimum public shareholding norms well before the stipulated deadline, improving free float and potentially increasing investor participation in the stock.
+
+_**(Disclaimer: The views, opinions, recommendations, and suggestions expressed by experts/brokerages in this article are their own and do not reflect the views of the India Today Group. It is advisable to consult a qualified broker or financial advisor before making any actual investment or trading choices.)**_
+
+\- Ends
+
+Aug 4, 2026 08:40 IST
+
+---
+
+### 'Folded like an umbrella...': Trump blasts Pirro, says she 'choked' in dropping reflecting pool case
+*ET Online · business*
+
+President Donald Trump sharply criticized U.S. Attorney Jeanine Pirro on Monday for dropping a case of alleged vandalism at the Lincoln Memorial Reflecting Pool in Washington, saying she had "choked" under pressure from a judge and "folded like an umbrella." "Instead of going after the people that d...
+
+[Read full article](https://economictimes.indiatimes.com/news/videos/folded-like-an-umbrella-trump-blasts-pirro-says-she-choked-in-dropping-reflecting-pool-case/videoshow/132844600.cms)
+
+---
+
+### 2 firefighters killed after wall collapses during Noida chip factory fire
+*India Today News Desk · general*
+
+## A fire at ILGIM's PCB chip manufacturing unit in Greater Noida turned deadly after a wall and iron beam collapsed on firefighters. The accident left two personnel dead and injured three others.
+
+Greater Noida PCB factory fire leaves 2 firefighters dead, 3 injured.
+
+A fire at an electronic chip manufacturingunit in Greater Noida early Tuesday claimed the lives of two firefighters aftera wall and an iron beam collapsed and struck them, police said.
+
+The blaze broke out around 3 am at ILGIM, aprivate company that manufactures PCB chips, in the Ecotech 3 area. Accordingto news agency PTI, at least six fire brigade vehicles were rushed to thescene. Firefighters brought the fire under control, but suddenly, a part of thebuilding gave way.
+
+Police said a side wall and an iron beamcollapsed while fire personnel were battling the blaze, seriously injuring fivefirefighters: Chief Constable Driver Rajpal Singh, Fireman Manish Kumar, ChiefConstable Driver Tirathpal Singh, Fireman Amit Kumar and Fireman Rohit Yadav.
+
+All five were rushed to a hospital, wheredoctors declared Rohit Yadav and Tirathpal Singh dead during treatment. Theremaining three firefighters are out of danger, police said.
+
+Police said officers and teams from theState Disaster Response Force remain at the site.
+
+The cause of the fire was not immediatelyknown. An investigation is in progress.
+
+\- Ends
+
+Inputs by Arun Tyagi
+
+Devika Bhattacharya
+
+Aug 4, 2026 08:37 IST
+
+---
+
+### Dabur can’t use ‘100% natural’ labels on honey, ghee, other products: Food safety regulator
+*Abhishek Chakraborty · politics*
+
+FSSAI orders Dabur India to remove '100% Natural' and '100% Pure' claims from products like honey and ghee, citing misleading labels and unauthorised "Jaivik Bharat" organic logo use.
+
+[Read full article](https://indianexpress.com/article/india/dabur-stop-using-100-natural-pure-labels-on-honey-ghee-products-fssai-10816807/)
+
+---
+
+### Board of Peace envoy meets with Netanyahu on Gaza disarmament deal, urges halt to strikes
+*SECTIONS Board · business*
+
+Synopsis
+
+A peace official met with Israeli Prime Minister Benjamin Netanyahu to discuss a new disarmament deal. The agreement aims for complete weapon decommissioning and a transition to civilian governance. The official also urged Israel to halt its military strikes in the Gaza Strip. Hamas stated commitment to the ceasefire agreement's second phase implementation. Mediators denounced Israeli strikes and called for international pressure on Israel.
+
+US President Donald Trump poses for a photo with Israel's Prime Minister Benjamin Netanyahu
+
+Jerusalem: The Board of Peace official overseeing Gaza's postwar transition met on Monday with Israeli Prime Minister Benjamin Netanyahu, according to a statement, in part to discuss a new disarmament deal the board reached with Hamas.
+
+Nikolay Mladenov, the high representative for Gaza, held "constructive and detailed" talks with the prime minister and his team, the Board of Peace said in a statement.
+
+"The goal is clear and is not in question: the complete decommissioning of weapons in the Strip and the transition away from rule by the gun to civilian governance," it said.
+
+  
+
+According to two people familiar with the meeting, Mladenov also pressed Netanyahu to halt Israeli strikes in the Gaza Strip. Mladenov and his team, including senior adviser Aryeh Lightstone, are pressuring Israel to stop striking Gaza as they push ahead with the agreement to decommission the weapons held by Hamas.
+
+In a statement on Monday, Hamas said that the group and the various Palestinian factions "remain committed to what was agreed regarding the implementation of the second phase of the ceasefire agreement, including all parties' obligations".
+
+It added that the group is awaiting "a clear and official response" from Mladenov and the mediators regarding what was agreed upon.
+
+US President Donald Trump announced the agreement, which is part of a broader ceasefire deal reached last year, last Thursday. It called for Israel to cease its military operations and for Hamas and its allies in Gaza to halt all militant activity. The agreement also laid out in general terms what the decommissioning process would look like.
+
+After the text of the agreement was released, Israel said it had "serious security concerns" and that it shared those with the United States.
+
+It also ramped up its strikes in Gaza, killing 17 people overnight Saturday and into Sunday, according to local health officials. There were no recorded airstrikes in Gaza on Monday.
+
+Israeli attacks have killed 1,250 people since the ceasefire deal was reached in October, an agreement that ended major fighting in a war that had raged for two years.
+
+Egypt, Qatar and Turkey, mediators in the Gaza truce negotiations, denounced the ongoing Israeli strikes in a statement on Monday, saying that the particular targeting of healthcare facilities, medical infrastructure and resulting civilian casualties constitutes a flagrant violation of international law and international humanitarian law.
+
+The mediators also called on the international community to continue to exert pressure on Israel to fulfil its end of the deal.
+
+The war began when Hamas-led militants attacked southern Israel, killing around 1,200 people and taking 251 others hostage.
+
+Israel's military offensive in Gaza has since killed 73,375 people, according to the Gaza Health Ministry. Its figures do not distinguish between civilians and combatants but they are considered generally reliable by the United Nations and other international organisations.
+
+---
+
+### Japan shifts to drones and AI as defence paper flags China threat
+*India Today World Desk · general*
+
+## Japan's new defence paper says the country must adapt to drone and AI warfare while boosting arms production. The shift signals a faster military modernisation drive as China, Russia and North Korea raise regional tensions.
+
+Stock photo used for illustration
+
+Japan needs to adapt to new methods of warfare such as drones and artificial intelligence, and strengthen its defence industry, the government said on Tuesday. A 598-page defence paper adopted by the Cabinet said the country must respond to lessons from conflicts in Ukraine and the Middle East, while also dealing with what it called China’s biggest strategic challenge, alongside concerns over Russia and North Korea.
+
+Japan has increased military spending and capability in recent years, and has begun deploying long-range cruise missiles as a deterrent to China’s military activity. The paper said Japan is alarmed by the growing presence of Chinese warships and the increasing frequency of their activity in the Pacific Ocean.
+
+Citing the use of drones in Ukraine, the paper said it was essential for Japan to adapt to “new ways of warfare”. With many countries racing to develop combat drones, the government has made domestic development a priority for coastal defence, alongside long-range missiles. “Speed is key,” Defence Minister Shinjiro Koizumi said in early July.
+
+Japan’s Acquisition, Technology and Logistics Agency recently selected four drone makers from 38 applicants for a rapid development programme. Their drones are to move to testing by Japan’s navy in early August before a final selection is made. A number of companies are also developing similar systems, with Toshiba announcing on Friday that it plans to jointly develop combat drones with startup Pro Drone.
+
+The paper said uncrewed weapons could help Japan deal with a falling number of service members in a country with a shrinking population. But experts say developing fully homegrown drones will be difficult when Japan’s commercial drone market is dominated by Chinese imports.
+
+Japan has also strengthened its military forces on its south-western islands in recent years as it worries about a conflict in Taiwan, which China claims as its territory. The defence paper said the growing presence of Chinese warships and the frequency of their activity in the Pacific are a major concern, and noted that the Defence Ministry has set up a unit to study Japan’s Pacific strategy and strengthen its defence against China.
+
+The paper said China has consistently increased military spending without transparency and has rapidly and extensively strengthened its nuclear and missile capabilities. It also said that last December Chinese aircraft locked their radars on Japanese planes during Chinese aircraft carrier drills near south-western Japan, which is considered a possible preparation for firing missiles.
+
+It further noted that two Chinese aircraft carriers were spotted near the southern Japanese island of Iwo Jima in June for the first time. This raised concerns in Tokyo over Beijing’s expanding military activity far beyond its borders and in disputed areas in the East China Sea. Tensions between Tokyo and Beijing have also risen since Takaichi said in November that Chinese military action against Taiwan could justify Japan’s use of force.
+
+China’s growing joint military operations with Russia around Japan, including joint bomber flights and warship operations, are also “a grave national security concern”, the paper said. It added that North Korea’s rapid missile development, including hypersonic arsenals, is an “increasingly serious and pressing threat”, and said the North’s growing military ties with Russia and its support for Moscow’s war in Ukraine are a grave concern.
+
+The paper said strengthening arms production and technology is essential to Japan’s military power. The government has been expanding funding for startups and scientific research. In a country that has maintained a pacifist pledge since the end of World War II, many established companies have avoided links with lethal weapons, but officials said a growing number of startups are interested in adapting dual-use technology for military purposes.
+
+Japan’s recent decision to scrap its ban on exporting lethal weapons could also help strengthen its underdeveloped defence industry. Koizumi said weapons technology transfer, joint development and production would strengthen both Japan’s defence industrial base and its ties with defence partners. Japan has recently made major deals, including the joint development and transfer of 11 upgraded Mogami-class frigates to Australia. It is also discussing a similar deal with New Zealand and has reached an agreement to sell retired destroyers to the Philippines.
+
+Overall, the defence paper sets out Japan’s push to modernise its military with drones and other new technologies, while building up domestic arms production and responding to growing security concerns linked to China, Russia and North Korea.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Aug 4, 2026 08:36 IST
+
+
+---
+
 ## 3 August 2026
 
 ### 'Funded By Boston Scholarship Letter And Loan': CJP's Dipke Counters Row Over US Education
