@@ -1,8 +1,186 @@
 # Editorials
 
-_Last updated: 2026-08-04 04:45 UTC_
+_Last updated: 2026-08-05 04:44 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 5 August 2026
+
+### Straws in the wind: On the Bankipur, Datia and Manjalpur by-elections
+*The Hindu · Editorial*
+
+The by-elections held on July 30, 2026 in three Assembly constituencies across three Bharatiya Janata Party (BJP)-ruled States threw up some surprises, but it may be risky to read them as indicators of any definitive or enduring political trend. Still, Bankipur in Bihar, Datia in Madhya Pradesh and Manjalpur in Gujarat were among the most closely watched electoral contests. Though involving only three seats, the results were significant, offering clues about regional political currents, the strength of major parties and the prospects of emerging political formations. These were also the first electoral tests after student protests forced the BJP to remove Union Education Minister Dharmendra Pradhan on July 25. The most consequential result came from Bankipur. The seat fell vacant after BJP national president Nitin Nabin resigned following his election to the Rajya Sabha. Jan Suraaj Party (JSP) founder Prashant Kishor chose the constituency for his electoral debut, turning what would otherwise have been a routine by-election into a high-profile political contest. He defeated BJP candidate Neeraj Kumar by 19,324 votes, ending decades of BJP dominance in the constituency. It marks the JSP’s first major electoral success and gives Mr. Kishor political legitimacy after years as an election strategist.
+
+In Datia, the Congress secured an important victory as its candidate, Ghanshyam Singh, defeated BJP candidate Ashutosh Tiwari by just over 6,000 votes. Unlike Bankipur, Datia witnessed a robust voter turnout of 71.44%, indicating strong local engagement with the contest and suggesting that the Congress retains pockets of resilience in Madhya Pradesh despite the BJP’s dominance. The victory does not alter the balance of power in the Assembly, but gives the Congress evidence that local anti-incumbency and candidate-specific factors can still work in its favour. For the BJP, the defeat serves as a reminder that its Statewide strength does not automatically translate into victory in every constituency. The third contest, in Manjalpur produced a different outcome. The BJP retained the constituency, with Satish Govindbhai Patel defeating his rival by over 30,000 votes. Manjalpur demonstrates the BJP’s ability to hold its core support base. At the same time, the outcomes in Bankipur and Datia suggest some volatility among the BJP’s core social base of Hindu voters, particularly the upper castes. There is also a larger acceptance among the electorate for fresh political experiments, and that is a trend that connects what happened in the Tamil Nadu Assembly elections with Bankipur. If this trend holds, the challenge will be not only for the BJP but also for other legacy parties, including and particularly the Congress.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/straws-in-the-wind-on-the-bankipur-datia-and-manjalpur-by-elections/article71305481.ece)
+
+---
+
+### ​Top spot: On the new phase of the Khelo India Scheme
+*The Hindu · Editorial*
+
+One of the biggest impediments to India’s aspiration to bid for the 2036 Olympics is the lack of enough world-class performers. For India, a prospective host, targeting a prestigious top-10 finish is a humongous task. In the 21st century, the country achieved its best-ever result of 48th with seven medals at the Tokyo Olympics in 2021 and was 71st with six medals at Paris 2024. India needs to win approximately 30 to 40 medals, including gold in double digits, to be in the elite club. To chase this Olympic dream, the Union Cabinet has approved an allocation of ₹29,054 crore — an eight-fold increase — for the new phase of the Khelo India Scheme. The primary goal of this ambitious grassroots programme is to tap talent early for the 2036 Olympics. It aims to increase Khelo India centres, State and National centres of excellence and accredited academies from roughly one per district — more than 1,000 centres at present — to an average of two or three. Involving schools and clubs, encouraging talented children to compete in club-level events, upgrading facilities, and assimilating grassroot-coaches and technical officials are essential ingredients of the wholesome scheme.
+
+A novel concept of upgrading the knowledge of local coaches by helping them overcome the language barrier posed by English, the formation of a National Coach Accreditation Board to standardise coaching and better utilisation of physical education teachers are expected to impart correct training at the basic level. In sync with the National Education Policy, the Khelo India Feeder Schools and Khelo India Utkrishta Vidyalaya initiatives are designed to integrate education and sports. The existing Khelo India Athletes programme, with 2,904 athletes, and the new Emerging Khelo India Athletes initiative aim to expand the talent pool to around 28,000. Talent identification, digitisation of the sports ecosystem to maintain data on every athlete, and a bottom-to-top communication channel are its key components. The overall outlay, including assistance to National Sports Federations, stands at a staggering ₹36,441 crore for 2026-31. However, the biggest challenge will be effective and transparent implementation of the scheme. Enabling talent to graduate to the highest level, already backed by the Target Olympic Podium Scheme, with an eye on the 2036 Olympics and beyond will be crucial. The 2030 Commonwealth Games in Ahmedabad will be an immediate test. The other major hurdle for India’s attempt to emerge as a sporting power is its dubious distinction as a doping hub. Strict anti-doping measures, promotion of a sports culture by maximising the scope of the Fit India Movement, and a focus on grassroots development must go hand-in-hand to achieve the desired results.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/top-spot-on-the-new-phase-of-the-khelo-india-scheme/article71305508.ece)
+
+---
+
+### Jammu and Kashmir — the elusive quest for Statehood
+*The Hindu · Opinion*
+
+August 5 marks seven years since Jammu and Kashmir (J&K)’s special status (Article 370) was revoked by the Narendra Modi administration; a few days hence, August 9 will mark seven years of J&K’s loss of Statehood. Both actions were accompanied by the most dubious lockdown in India’s history. Thousands of troops were flown in, over 5,000 political leaders and cadre were detained, and curfew was imposed together with a communications blockade.
+
+These were emergency measures, yet no emergency was either visible or declared. The Modi administration argued that its measures were temporary and would lead to a violence-free region in which economic growth would be unleashed. Instead, and predictably, violence has continued, as last year’s terrorist attacks in Kashmir’s Pahalgam (April) and Delhi’s Red Fort (November) attest; indeed, it has spread to areas that were relatively dormant, such as Poonch-Rajouri, and from there to adjoining districts of J&K.
+
+Economically, the region continues to suffer. According to the J&K Economic Survey 2025-2026, the ratio of the region’s per capita income to the national average is 76.6%, whereas it was 79.9% in 2013-14, a fall of 3.3 percentage points. Unemployment remains close to twice that of the national average; graduate unemployment is as high as 23.9%.
+
+Jammu & Kashmir: From a State with autonomy to two Union TerritoriesLockdowns and summonsKashmiri response to the Pahalgam attack was a wholehearted rejection of violence, expressed in peace marches and candlelit demonstrations. It offered the Modi administration an opportunity for peacebuilding on the ground, beginning with the restoration of Statehood. Instead, the Union Home Ministry chose an even more heavy-handed security response. This year’s Amarnath yatra is the most militarised in the history of J&K. Citizens are routinely charged under the draconian Jammu and Kashmir Public Safety Act (PSA) and the Unlawful Activities (Prevention) Act on the flimsiest of grounds; mass summons are common — over 2,000 were called in for questioning after Constable Ashiq Hussain Qureshi was shot on July 22 this year — curfews are more often in place than not; and the Union Territory has had the highest number of Internet and communications shutdowns in the country since 2019.
+
+At the time, few recognised how momentous the Modi administration’s actions were, not only in what they did but also in how they did it. Article 370 was hollowed out by executive fiat — a Governor who later said he was ‘ordered’ to sign by the Union Home Minister. Statehood was removed by legislative fiat, via a Parliament which did not even consider consulting J&K’s people or political leaders. No Indian State had been stripped of its Statehood since Delhi lost its Statehood in 1956.
+
+Article 370 abrogation case | The Hindu’s detailed coverage Together, the two actions comprised a breathtaking violation of India’s constitutional principles and the basic structure of the Union. They should have been seen as the second major salvo against India’s democracy — the first being the re-communalisation of the Indian polity through state-sanctioned attacks on Muslims and Christians — but instead they were hived off as specific to conflict-ridden Jammu and Kashmir.
+
+The belief that draconian measures are justified in a conflict-ridden region is fundamentally flawed both morally and pragmatically, as India knows from its own colonial past. Morally, the argument that subjugation is a means towards a desirable end masks the point that subjugation is a repugnant end per se, never a means. Pragmatically, as India knows from its more recent past, subjugation only breeds disaffection which will likely express itself in violence when peaceful means of expression are disallowed.
+
+Editorial | ​Fulfil the promise: On restoring Statehood to Jammu and Kashmir
+
+Yet, the deployment of the argument has allowed the Modi administration to get away with direct rule for seven years. The Supreme Court of India let Solicitor General of India Tushar Mehta parrot the argument for four years before weakly advising that Statehood be restored as soon as possible.
+
+Three more years have passed since then, without the Court hearing petitions seeking a timeline for restoration. At no point did the Court question the Union on the utility of its measures on constitutionally moral, or even merely pragmatic, grounds.
+
+Lieutenant-Governor holds powerThe Constitution limited the imposition of emergency conditions to six months. Yet, in J&K, emergency conditions have not been lifted for seven years. Though the J&K High Court has repeatedly and increasingly lamented the misuse of draconian laws by the J&K police, its strictures do not appear to have led to reform. J&K held elections two years ago, but the elected administration has few powers. It is the Lieutenant-Governor who controls the administration, the police and government prosecutors under the 2024 Transaction of Business Rules; he has now been granted emergency powers over telecommunications. As an appointee rather than an elected representative, the Lieutenant-Governor is not accountable to the people.
+
+Accountability through democracyThanks to India’s young, who so joyfully turned the derogatory ‘cockroach’ into an assertion of strength, accountability has acquired a salience that it had been stripped of over the past decade. Fortuitously, J&K’s ruling National Conference party had already decided to renew a campaign for the restoration of Statehood that the Congress party had launched two years ago but persisted with only fitfully. Now the campaign for Statehood must couch itself in the name of accountability.
+
+As the Constitution clearly recognised, an elected administration is the only way to provide for accountability. Though accountability needs guarantees by an independent legislature, oversight and autonomous institutions and a free media, these too require an elected administration to develop. At base, civil society acquires some space to push for reform under an elected administration, which it lacks under an appointed administration.
+
+Over the past decade, J&K has acquired a number of ugly firsts. It was the first State to undergo wide use of the semi-lethal pellet guns in 2016. (Ironically, pellet guns were developed partly as a less lethal response to the stone-pelting agitation in 2010. Our Interlocutors report had criticised their induction.) It was the first State to lose its special status and its Statehood in 2019. It was the first State to undergo a communal delimitation in which Jammu’s demography was altered by the creation of additional Hindu-majority constituencies, some of them with populations below 50,000, in 2022.
+
+Article 370 abrogation: Seven years on, what has changed in Kashmir? | In Focus PodcastIs it not time for J&K to experience some positive firsts instead of suffering only ugly ones? After all, it was the first State to overcome communal gerrymandering when the 2024 elections yielded a majority for the pluralist National Conference-Congress alliance. It is only fitting that it also be the first State to regain the Statehood that has been withheld for so long.
+
+Radha Kumar is a former Member, Group of Interlocutors for Jammu and Kashmir, and the author of the book, The Republic Relearnt: Renewing Indian Democracy, 1947-2024
+
+[Read full article](https://www.thehindu.com/opinion/lead/jammu-and-kashmir-the-elusive-quest-for-statehood/article71306297.ece)
+
+---
+
+### After expansion, a test of stability
+*Deccan Herald · Editorial*
+
+The long-awaited expansion of Karnataka Chief Minister D K Shivakumar's cabinet has delivered both satisfaction and disappointment in equal measure.
+
+Two months after assuming office with 13 ministers, the Chief Minister has now inducted 19 colleagues, taking the cabinet’s strength to 33 against the constitutionally permitted maximum of 34.
+
+While the reshuffle broadens regional and community representation, it also exposes the compulsions and contradictions of balancing competing interests within the ruling Congress party. While nearly 60% of the representation has gone to the AHINDA bloc, for the first time in nearly three decades, the state cabinet has no Brahmin representative.
+
+Kodagu continues to remain without a minister for 13 years, while the coastal belt is underrepresented. The induction of several new faces signals an attempt to nurture the next generation of party leadership, though this shift leans heavily on political legacy, with sons of influential leaders finding a place in the ministry.
+
+Disgruntlement brews as D K Shivakumar Cabinet gets 19 new ministersThe process has also left considerable heartburn. Mankal Vaidya’s name was initially announced, but dropped to include S S Mallikarjun. The exclusion of the lone woman in the list, MLC Gayathri Shanthegowda, set the rumour mills abuzz.
+
+A no-woman cabinet makes for poor optics at a time when the Congress is strongly advocating 33% reservation for women. Equally debatable is the return of B Nagendra, who had stepped down earlier over corruption allegations.
+
+Several senior legislators have expressed displeasure at being excluded, some even threatening resignation. Though former Chief Minister Siddaramaiah stayed away from the swearing-in, his imprint on the expanded cabinet is unmistakable, underlining the delicate balance the Chief Minister must maintain between competing power centres. Shivakumar’s assertion that all is well masks what is clearly a tightrope walk.
+
+The reshuffle also carries a message that seniors who have long enjoyed power must recognise that the renewal of leadership is essential to the party's future.
+
+The Bharatiya Janata Party (BJP) has consistently invested in building a second line of leadership alongside its veterans, and the Congress appears to be attempting a similar, if cautious, transition.
+
+A cabinet can never satisfy every aspiration, and with supporters of the disappointed leaders now taking to the streets, Shivakumar faces the immediate task of managing discontent. With the next Assembly polls about two years away, this appears to be an election-oriented cabinet unlikely to witness further changes.
+
+The Chief Minister must now move swiftly from political management to governance, so that the present disquiet proves a passing phase rather than a lasting liability.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/after-expansion-a-test-of-stability-4099380)
+
+---
+
+### Don’t rebrand a sporting legacy
+*Deccan Herald · Editorial*
+
+Hockey India (HI)'s decision to swap blue for saffron on the team jerseys in the upcoming FIH World Cup in Belgium and the Netherlands lacks any real justification beyond saffron being the ruling establishment's political colour.
+
+The federation’s primary argument that blue jerseys blur into the blue synthetic turf, creating visibility issues, doesn't hold up. The blue turf has been standard in field hockey for more than a decade, and Indian players have done well on it, winning bronze medals in the Olympic Games in 2020 and 2024, while wearing blue.
+
+Notably, the decision has not been communicated along with credible evidence for the contrast between kit colours and the playing surface influencing player performance or visibility. The manner in which the colour switch was effected raises valid questions about the political objectives behind the move.
+
+'This is embarrassing': Indian hockey teams' new saffron jersey sparks rowFormer players and administrators have criticised the decision, even as the federation faces charges of aiding a push to saffronise the sport. Viren Rasquinha, former India captain, called the move “embarrassing”, asserting that blue is always linked to the team’s legacy and identity.
+
+The most striking voice of dissent came from within the official fold, with HI president and former India captain Dilip Tirkey saying federation office-bearers were informed about the decision only a few hours before the jerseys were unveiled.
+
+The president seeking an explanation from the HI Director-General on this matter deepens concerns about the institutional processes followed. He reportedly wrote in an official communication that the larger issue was about decision-making – about a change involving one of Indian hockey’s “most recognisable” symbols.
+
+However, HI secretary Bhola Nath Singh has maintained that all officials were informed about this change.
+
+The federation has justified the colour change, citing feedback from the players and coaches. The official clarification has pointed to requests made by the players and coaches in connection with a visual overlap caused by the blue jerseys on the blue turf, necessitating a change in the kit’s colour.
+
+It has also noted the significance of saffron, which represents courage and strength in the national flag. However, these arguments fail to justify altering a long-standing sporting legacy. For decades, the blue jersey has defined Indian hockey.
+
+The team wore blue when they brought home multiple titles – the colour has been integral to a sporting identity, affirmed in expressions such as “Men in Blue”. Any decision to disregard this cherished tradition sets a concerning precedent.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/dont-rebrand-a-sporting-legacy-4099382)
+
+---
+
+### The future of work needs new ground rules
+*Deccan Herald · Opinion*
+
+The student protests that dominated the headlines were triggered by an examination paper leak. But it would be a mistake to view them only as a protest against the mismanagement of examinations. The leak touched a much deeper anxiety.
+
+For millions of young Indians, success in a competitive examination is one of the few remaining routes to a secure and reasonably paid livelihood. When the integrity of that process is compromised, it means another year in an already prolonged wait for employment. The protests were therefore as much about jobs as about examinations.
+
+The gig economy’s labour questionGovernment competitive examinations have become a national waiting room for graduates. Young people in their early twenties spend several years in coaching classes, libraries, and rented rooms, making repeated attempts at examinations where the success rate may be one or two per cent. These are prime years in which they could have acquired work experience, workplace skills, savings, and professional networks.
+
+This waiting is not irrational because entry-level private-sector salaries have hardly moved for a long time. The average monthly earnings of a young male graduate fell from about Rs 21,800 in 2011 to Rs 19,573 in 2023, even before adjusting for inflation.
+
+A government job, by contrast, offers much better pay, continuity, health benefits, social status, and much greater protection against dismissal. Waiting is therefore an individually rational response. But the collective outcome is a considerable waste of human potential.
+
+The Periodic Labour Force Survey reported an overall unemployment rate of 3.1% in 2025 and youth unemployment of 9.9%. But the “usual status” measure can classify a person as employed even if he or she undertook a subsidiary economic activity for only 30 days during the previous year.
+
+Someone helping intermittently on a family farm, doing occasional delivery work or earning a small amount through self-employment may thus be statistically employed without possessing a stable livelihood.
+
+That is why the employment debate must go beyond the binary distinction between employed and unemployed. Underemployment, disguised unemployment, irregular hours, low wages, absence of contracts, and lack of social security are equally important.
+
+Agriculture offers the clearest illustration of human capital underutilisation. Its share in employment, after declining for several decades, rose from 44.1% in 2017-18 to 46.1% in 2023-24.
+
+This reversal reflected pandemic-era migration as well as the inability of manufacturing and services to absorb workers sufficiently. Agriculture produces only about one-sixth of national output but supports more than two-fifths of the workforce.
+
+More revealing is the wage picture. Average daily earnings of male casual workers remained virtually unchanged at Rs 455 in 2025 (Rs 456 in 2024). Female casual earnings rose from Rs 299 to Rs 315. The spread of platform work must be understood in this setting.
+
+A recent promotional offer advertised an hour of domestic help for Rs 29. This was a subsidised price charged to the customer, not the wage paid to the worker.
+
+Platforms perform a useful economic function. They reduce search costs, match customers and workers quickly, create new services, and can bring transparency into deeply informal labour markets.
+
+The policy response should therefore not be to obstruct the gig economy. But describing workers as “partners” cannot by itself settle the question of responsibility when the platform controls access to customers, working hours, ratings, penalties, and eligibility to work.
+
+Precarity is also appearing in occupations once regarded as secure. In information technology, layoffs occur through reduced bench periods, performance improvement plans, skill-based exits, and encouraged resignations.
+
+At the same time, researchers and engineers with scarce artificial-intelligence expertise are receiving exceptional salaries and stock awards. The labour market is becoming more unequal: extraordinary rewards at the frontier, but greater insecurity in routine coding, testing, and back-office work.
+
+This suggests that India must prepare for a future in which there may be plenty of work, but fewer conventional jobs. A job traditionally implied a continuing relationship with one employer, a defined salary, predictable hours, and some measure of social protection.
+
+Work in the future may increasingly be organised through projects, assignments, platforms, and multiple short-term engagements. The gig worker, broadly defined, may no longer be a small or exceptional category. Flexible working arrangements could become the norm for a substantial part of the workforce.
+
+Such flexibility can enable women with care responsibilities, older people, migrants, and skilled professionals to participate on terms better suited to their circumstances. It can also encourage entrepreneurship. But without an appropriate framework, flexibility for the employer can easily become insecurity for the worker.
+
+India, therefore, needs two simultaneous objectives: an environment in which the gig and platform economy can flourish, and a framework that ensures such work is decent. Social-security benefits must become portable across employers and platforms.
+
+Platforms should disclose how remuneration, ratings, work allocation, and deactivation decisions are determined. Workers need accessible grievance mechanisms, timely payment, and protection against arbitrary exclusion. The law must preserve genuine flexibility without allowing the terminology of “partnership” to eliminate every employer obligation.
+
+It is in this context that India’s abstention from the ILO Convention on Decent Work in the Platform Economy does not bode well. The International Labour Organisation’s Convention No. 193 is the world’s first legally binding treaty targeting app-based and digital platform work.
+
+The representatives of both Indian workers and employers reportedly supported the convention, while the government delegate abstained. The government’s choice raises concerns because India’s domestic gig workforce is expanding rapidly, yet there is official reluctance to commit to binding global standards on algorithmic transparency and worker reclassification.
+
+India certainly needs more employment. The policy challenge is to protect workers, not jobs, and to enable technology and flexible working. It is to ensure that a labour market based increasingly on assignments, contracts, and platforms does not leave workers without income security, bargaining power or social protection. Otherwise, the national waiting room may continue to fill.
+
+The writer is a noted economist; Syndicate: The Billion Press
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/the-future-of-work-needs-new-ground-rules-4099539)
+
+---
 
 ## 4 August 2026
 
@@ -58,6 +236,122 @@ Those steeped in defence aspects already know the gap that exists between warnin
 M.K. Narayanan is a former Director, Intelligence Bureau, a former National Security Adviser, and a former Governor of West Bengal
 
 [Read full article](https://www.thehindu.com/opinion/lead/ai-and-cyber-the-double-helix-of-todays-security-threats/article71302018.ece)
+
+---
+
+### DC Edit | Lens On Sexual Abuse In Sport
+*Deccan Chronicle · Editorial*
+
+A trial court has acquitted Brij Bhushan Sharan Singh and Vinod Tomar in a case of sexual harassment filed by six women wrestlers, including prominent international medal winners Vinesh Phogat and Sakshi Malik. The seeking of justice might not end with this though it is likely that the grounds that the evidence was short of proving the crime may weigh heavily even if the sportspersons pursue the matter in higher courts.
+
+What the cause celebre, which remained in national focus for over three years since demonstrations first took place in Jantar Mantar in April 2023 and chief judicial magistrate of the Rouse Avenue court began hearing the case from 2024, was to bring humongous attention to sexual harassment and intimidation that young sportspersons face.
+
+Brij Bhushan, ex-MP and former president of the Wrestling Federation of India, and his fellow official may have been cleared of the charges because the evidence was scanty, and testimony inconsistent and even flawed as we saw the accused claim that they were not even in the city as mentioned in the pleas. It does not, however, mean that the problem does not exist in Indian sport, especially because talented rural sportspeople are known to move to urban centres with better infrastructure and so come under the direct influence of sports administrators, among whom sexual predators may be present.
+
+The court framed charges of sexual harassment, intimidation and outraging the modesty of women against Brij Bhushan and criminal intimidation against Mr Singh. There was so much smoke that the facile assumption was that there had to be a fire. Irrespective of the legal position and the difficulty of proving sexual harassment cases in the Indian judicial environment, this defining case was necessary as it led to many such charges being aired and several coaches and administrators coming under fire for alleged mistreatment of sportspersons and, we daresay, the outing of many predators.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-lens-on-sexual-abuse-in-sport-1976629)
+
+---
+
+### DC Edit | Results In Bankipur, Other Bypolls A warning To BJP
+*Deccan Chronicle · Editorial*
+
+The Cockroaches appear to have bitten off a good chunk of the BJP’s popular base if one were to go by the party’s shock defeat in the Bankipur Assembly seat in Bihar, its loss in Dahita in Madhya Pradesh and a win with a much reduced margin in Manjalpur in Gujarat in recently held by-elections. The message of the electorate, however, to all parties is that the youth of this country is getting disillusioned with them and hence they have two options: Perish or perform. And the signs are most ominous for the BJP, the ruling party at the Centre and in most states.
+
+The loss in Bankipur is significant for the BJP for more reasons than one. The bypoll was necessitated when Mr Nitin Nabin who represented the constituency vacated the seat before taking over as the national president of the BJP. The party naturally marshalled all its resources to ensure victory in the prestigious battle against Prashant Kishor, once a poll strategist for BJP representing his fledgling Jan Suraaj Party. The mostly urban constituency had elected only a BJP candidate for more than three decades even in the worst of seasons. It was also the first election after the BJP assumed the chief ministerial chair after wresting it from its long term ally, the JD(U), and sent Nitish Kumar packing from the state politics. The numbers are significant: The party lost by a margin of 19,324 in a seat which it had won with a lead of 51,936 votes in 2025. Every single reason has contributed in magnifying the blow to the saffron party.
+
+The loss in Madhya Pradesh to the Congress is a sign of the declining popularity of the Mohan Yadav ministry in the state though it was not a sitting seat of the party. Both the BJP and the Congress faced internal strife in the bypoll on the choice of the candidate but the fact remains that the final numbers favoured the Opposition party. The BJP has experimented with new faces as its choice for chief ministers but the slogans around “double engine” growth may have lost its steam at least in the state. It will be a morale booster for the Congress that it remains a fighting force in the state and gives it time to prepare for the Assembly polls in 2028.
+
+Yet the most disheartening among the results for the BJP could be its scraping through the Manjalpur bypoll ahead of the Gujarat Assembly election scheduled next year. The party indeed retained the seat but the margin of victory tells an ominous story: It has fallen to 30,630 from the 1,00,754 it had led with in the 2022 Assembly election. This erosion in votes will be tough to recoup in the Assembly election scheduled for next year unless the BJP worked hard at the grassroots.
+
+The success of the Jantar Mantar agitation has given out a clear message to all parties: The young generation is unwilling to live on promises politicians make; they want actions that can positively impact their lives. So it is up to them to decide if they want to change or face consequences.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-results-in-bankipur-other-bypolls-a-warning-to-bjp-1976622)
+
+---
+
+### Anil Tyagi | 2 Top Leaders Decide Fate Of Thousands Of Civil Servants
+*Deccan Chronicle · Opinion*
+
+The fate of thousands of civil servants, including 5,577 IAS officers, 4,594 IPS and those from nearly 60 Central services and PSUs are in the hands of a single two-member committee, Appointments Committee of the Cabinet (ACC).
+
+The ACC now comprises two senior-most politicians from the administration, Prime Minister Narendra Modi and home minister Amit Shah. They are inevitably the most powerful decision-makers today. But what is significant, and crucial, is the subtle yet critical change in the composition of the ACC.
+
+Earlier, it had three members: the Prime Minister, home minister, and the Cabinet minister of the concerned ministry. On June 19, 2014, the membership was reduced to two. Not many, including senior retired and working civil servants, know the reason(s) behind the change. There are no policy papers or minutes that explain the decision.
+
+Prior to 2014, the establishment officer (EO), ex-officio secretary to the ACC in the department of personnel and training (DoPT), who served ex-officio as the secretary to the ACC, prepared a list of vacancies that were pinpointed by the various Central ministries. The official panel of candidates was forwarded to the ACC for final approvals. The ACC either held in-person meetings in the Prime Minister’s Office in South Block or discussed the issues on phone. Once the committee approved the appointments, the EO’s office issued the requisite orders.
+
+Since 2015, contend sources, the role of the EO and DoPT has diminished. The relevant Central ministry or department initiates the future appointments, which is done online through the ACC Vacancy Monitoring System (AVMS). This usually happens up to two months before an actual vacancy arises. Instead of the EO’s role in forwarding the names of the potential candidates, sources contend that in most cases the names for the coveted posts are decided at the higher/highest levels. The EO’s role is largely limited to preparing the digital proposal and submitting the file electronically to the ACC for approval.
+
+One is not sure how, when and where the two members of the ACC meet to finalise the appointments. When one looks at the official communication that announces the appointments, it typically states: “The ACC has approved the following names for the post…”
+
+Seniority takes back seat; extension raj holds sway
+
+The one question in the minds and lips of senior civil servants, which is being discussed in professional and social circuits is about the future of T.V. Somanathan, the current Cabinet secretary. His term expires on August 31, and the senior secretaries wish to know if it will be extended. A 1987-batch IAS officer of the Tamil Nadu cadre, Mr Somanathan took charge as Cabinet secretary on August 31, 2024, for a two-year term. Sources say that an extension may not be difficult unless Prime Minister Modi decides otherwise and has other plans.
+
+Experience shows that in the past 12 years, during the three consecutive Modi terms, extensions of senior civil servants were more the rule than an exception. Instead of the mandatory two-year terms, the former Cabinet secretaries like B.K. Chaturvedi served for three years, K.M. Chandrashekhar for four, Ajit Kumar Seth for four, and Pradeep Kumar Sinha for 4.2 years. Mr Somanathan’s predecessor, Rajiv Gauba, a 1982-batch IAS officer of the Jharkhand cadre, held the post for five years, which made him the country’s longest-serving Cabinet secretary.
+
+A similar pattern can be seen in the high-profile ministries. The tenure of Vikram Misri, a 1989-batch IFS officer, was extended till July 14, 2027. Praveen Sood, director of the CBI and a 1986-batch officer of the Karnataka cadre, got a second extension until May 24, 2027. Alok Sharma, DG SPG, and Alok Garg, DG Narcotics Control Bureau, received extensions. While Satish Kumar, IRMS 1986, chairman of the Railway Board, got a second extension, Gurdeep Singh, CMD, NTPC, recently received a six-month extension (up to January 2027) despite having served for 10 years.
+
+Therein lies the paradox, and complication. Each extension of a senior bureaucrat slashes a year, or two, or more from the career calendars of those who are in the promotion queue and they wait with bated breath for the incumbent to retire. There is a growing feeling that possibly the Modi Raj has quietly shifted promotions and tenures in the civil services from a seniority-based rotating system that allows new entrants to a less flexible trust-based one.
+
+Big Brother is watching
+
+In Lutyens’ Delhi, everything is noticed, and little goes unobserved, monitored and documented. Spread across 28.73 sq km, the Capital’s enclave that denotes and wields power and influence has become a zone that is under constant watch and surveillance since Mr Modi became Prime Minister on May 26, 2014.
+
+Look around and quietly observe the iconic hangouts of the rich and powerful. Senior civil servants, who once inhabited Delhi Golf Club, India Habitat Centre, IIC and Khan Market,...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/anil-tyagi-2-top-leaders-decide-fate-of-thousands-of-civil-servants-1976606)
+
+---
+
+### Sunil Gatade | Gen Z Protests Helped To Revive India’s Opposition
+*Deccan Chronicle · Opinion*
+
+There is a saying in Marathi, “Aandhala magto ek dola, dev deto don”, which transliterates to: “The blind prays to God to give him one eye, and he gets both”.
+
+It is an apt description in which the Opposition across the country, which was virtually hapless till yesterday in the wake of the BJP’s bulldozer brigade running amok through its ranks, finds itself much emboldened following the Gen Z movement.
+
+The successful agitation for the removal of controversial education minister Dharmendra Pradhan by the Cockroach Janta Party has turned historic in that it has suddenly debilitated the Narendra Modi government and has given voice to its detractors.
+
+It was not that the Opposition was not attempting to raise the issue vociferously, but the fact that concerted attempts to break its ranks have somewhat broken its resolve or weakened it. Prime Minister Modi and home minister Amit Shah were running down their necks consistently to establish an “one umbrella” rule, which is antithetical to a parliamentary democracy.
+
+The failure of the strong leader to understand the plight and emotions of Gen Z resulted in his undoing, so much so that he was caught napping by the fierce passion and doggedness at the Jantar Mantar protests. unmindful of alleged police excesses.
+
+In fact, the Delhi police, which works under Mr Amit Shah, helped spread the Jantar Mantar protests like wildfire throughout the country by their strong-arm tactics that proved more than counterproductive.
+
+The CJP might have now called off the protests, but the Opposition has taken a cue from it by turning aggressive on the ruling side, squarely blaming the Union home minister for the excesses on the students and demanding an apology from the Prime Minister.
+
+The Opposition’s attempts to encircle Mr Shah, the crisis manager of the Modi Sarkar, and the de facto number two in the government, are bound to bring a fresh churn to the ongoing Monsoon Session of Parliament, where hardly anything is going as per the government’s script.
+
+The talk in political circles speaks of a rift in the Union Cabinet as well as the party over the handling of the student protests. The RSS chief’s appeal for a dialogue with the students was at divergence to the strong-arm tactics used by the police.
+
+Mr Modi might have sought to buy peace by sacrificing a “corrupt” Dharmendra Pradhan. But wittingly or unwittingly, he has opened the floodgates for the Opposition to “gherao” it on a number of issues to set right the education system, on the one hand, as well as institutions of democracy on the other.
+
+In fact, the CJP’s drawing first blood in the movement against the government has emboldened the Opposition to go on the offensive, and it is raring for a kill. “You have nothing to lose but your chains”.
+
+The fact is that the CJP has helped the Opposition to break the Narendra Modi code, which looked unbreakable due to the politics of polarisation to the hilt.
+
+A political commentator remarked that since Mr Modi has now bent once, you will see him bending again and again as the sheen is off his leadership. There are still three years to the next Lok Sabha polls, and the ruling side is not in the best of health. The Pradhan episode has made a huge difference.
+
+It has not only made a major hole in the credibility of the PM within the BJP, but also the claim of him being the most outstanding leader India has ever produced.
+
+The significance of the resignation of Mr Pradhan should be gauged from the fact that for the first time since he started as Gujarat CM 24 years ago, Mr Modi was forced to ask one of his ministers to quit. M.J. Akbar’s resignation as minister of state for external affairs following the “MeToo” scandal in 2018 was in a different league.
+
+Till now, the Prime Minister’s attitude was like an overlord's, always seeking to protect his men, whatever might be their omissions and commissions, as if they had done no wrong. claiming that his government stood for “na khaunga, na khane doonga”.
+
+With the Opposition turning restive, things would not be the same again for the Prime Minister. The beleaguered leader is expected to face an avalanche of problems, as his detractors have not only woken up but are up in arms after more than a decade of suppression.
+
+History is replete with instances where those who forget their promises have to repent sooner rather than later. Mr Modi had promised two crore jobs per year before he became Prime Minister in May 2014. He had also promised “achche din” for the one billion-plus people
+
+of India, which were seen as the gospel truth.
+
+A resurgent BJP had not only become an aggressive BJP but also an arrogant and autocratic BJP, with the “godi media” playing footsie, knowing full well that the government pulls the purse strings for advertisements.
+
+The arrogance emanated from the belief that it has mastered the art ot winning elections by hook or crook, and the work at hand is only to marginalise the allies and detractors once and for all. ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/sunil-gatade-gen-z-protests-helped-to-revive-indias-opposition-1976612)
 
 ---
 
