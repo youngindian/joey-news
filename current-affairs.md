@@ -1,3 +1,640 @@
+## 5 August 2026
+
+### UAE seeks more details on extradition of Merchant Navy captain's murder accused
+*Sanjay Sharma · general*
+
+## Shattaf is accused of murdering retired Merchant Navy officer in Lonavala in 2006 before fleeing India and also faces charges of forgery, criminal breach of trust and obtaining an Indian passport using false information.
+
+Hussain Mohammad Shattaf is wanted for the murder of retired Merchant Navy Captain Manmohan Singh Virdi.
+
+India’s efforts to extradite Hussain Shattaf, the prime accused in the 2006 murder of retired Merchant Navy officer Captain Manmohan Singh Virdi in Maharashtra’s Lonavala, have moved a step forward, with the United Arab Emirates (UAE) seeking additional documents 
+
+The Ministry of External Affairs (MEA) spokesperson, Randhir Jaiswal, said India's extradition request had already been formally submitted to the UAE and that New Delhi was working expeditiously to provide the additional documents sought by the authorities.
+
+"That specific extradition request was sent to the UAE side. They've asked for some more documentation in that regard, and we are working on this particular matter," Jaiswal said during a media briefing.
+
+Asked about the number of extradition requests currently pending with the UAE, Jaiswal said the ministry would have to gather the relevant details before responding.
+
+In December 2025, MEA officials said the process for the extradition of Shattaf, also known as Hussain Mehboob Khokhawala, had been initiated and the request forwarded to the Indian Embassy in the UAE.
+
+Shattaf is believed to have fled India soon after the Mechant Navy captain's murder and has since been residing in the UAE. Besides the murder charge, he faces allegations of forgery, criminal breach of trust and obtaining an Indian passport by furnishing false information. He is also accused of forging a marriage certificate to secure residency in the UAE. His Indian passport, issued in 2019, expired in 2021.
+
+Nearly two decades after the killing, the case has again drawn attention as the Virdi family intensifies its efforts to have Shattaf brought back to India to face trial. The family maintains that the murder trial has remained stalled because the prime accused has not been extradited.
+
+Reacting to the MEA's latest statement, the victim's brother and the original complainant in the case, Captain Manjit Singh Virdi (Retd) expressed hope that the extradition process would now make progress.
+
+"We have complete faith in our government and our country. I believe the government is making every possible effort to bring my brother's killer back from the UAE to face justice in India," he said.
+
+Earlier this week, the Virdi family submitted a fresh representation to Prime Minister Narendra Modi, seeking his intervention to expedite the extradition process. In the letter addressed to the Prime Minister's Office (PMO), Captain Virdi said the prolonged delay in Shattaf's extradition had stalled the murder trial and deprived the family of justice for nearly two decades.
+
+The MEA's latest statement indicates that diplomatic and legal engagement between India and the UAE over Shattaf's extradition is continuing. The UAE's request for additional documentation marks another procedural step in the process as New Delhi works to complete the formalities required to bring the fugitive back to India.
+
+\- Ends
+
+Aug 5, 2026 09:01 IST
+
+---
+
+### UPI Payments May Get Costlier: What The New Charges Could Mean For You
+*Saurabh Verma · general*
+
+UPI payments may no longer remain completely free as the government considers MDR charges on high-value transactions. Here's what could change for users and merchants.
+
+[Read full article](https://www.news18.com/photogallery/india/upi-payments-fee-return-government-plan-merchant-charges-10252755.html)
+
+---
+
+### JEE toppers spotted the next big trend for decades. What are they telling us in 2026?
+*Roshni Chakrabarty · general*
+
+## For decades, India's top JEE rankers have often picked engineering branches long before they became the country's hottest careers. From Electrical to Computer Science, history reveals an intriguing pattern. With Civil Engineering and core branches making a comeback in 2026, are India's brightest students signalling the next big shift once again?
+
+For decades, India's top JEE rankers have often picked engineering branches long before they became the country's hottest careers.
+
+What if India's brightest engineering students have been forecasting the country's next big career wave all along?
+
+It sounds like a stretch. But a look back at decades of JEE history reveals an uncanny pattern. Again and again, many of India's highest-ranked JEE candidates have gravitated towards disciplines that only became the country's hottest careers years later.
+
+Long before the software boom, JEE toppers chose Computer Science. Before electronics became a global industry, they gravitated towards Electrical Engineering. Even earlier, they favoured Mechanical Engineering when India was gearing up for industrialisation.
+
+It is impossible to say they predicted the future. Yet the timing is striking enough to make you pause.
+
+Now, a fresh shift in IIT admissions has sparked a familiar question.
+
+With some of the country's top rankers opting for Civil Engineering and other core branches in 2026, are they once again seeing something the rest of us have not?
+
+### A PATTERN ACROSS GENERATIONS
+
+Engineering preferences have never been static.
+
+Long before IITs existed, Civil Engineering was India's most prestigious technical profession. The engineering college at Roorkee, established in 1847, trained engineers for landmark projects such as the Ganges Canal, with many graduates moving into the Public Works Department.
+
+When the IITs emerged after Independence, however, the centre of gravity shifted.
+
+Many of the top JEE rankers in the 1950s and early 1960s chose Mechanical Engineering. Looking back, it is tempting to see a connection with an India preparing for rapid industrialisation through steel plants, heavy manufacturing and public sector enterprises.
+
+It is an interesting historical pattern, even if it cannot be proven as the reason behind those choices.
+
+By the late 1960s and 1970s, another shift appeared. Electrical Engineering became the preferred destination for many of the country's top-ranked students, despite India having little domestic electronics manufacturing at the time.
+
+In hindsight, some see this as a generation betting on technologies such as transistors and electronics before they became mainstream.
+
+Then came perhaps the most remarkable switch.
+
+In 1980, JEE AIR 1 Pandu Nayak chose Computer Science at IIT Bombay, a branch that was still new and far from today's status as the most coveted engineering discipline.
+
+India's economic liberalisation was still more than a decade away. The internet boom had not begun. Yet Computer Science would go on to dominate engineering admissions through the 1990s and 2000s.
+
+Was it a coincidence? Probably, at least in part.
+
+But it is a coincidence that has repeated itself often enough to make people look twice.
+
+### THE TIMELINE IS HARD TO IGNORE
+
+Period
+
+Preferred branch among many top JEE rankers
+
+advertisement
+
+What happened later
+
+1950s to early 1960s
+
+Mechanical Engineering
+
+India accelerated industrialisation and heavy manufacturing
+
+Late 1960s to 1970s
+
+Electrical Engineering
+
+The global electronics and semiconductor revolution gathered pace
+
+1980 onwards
+
+Computer Science
+
+Liberalisation, IT services and the internet transformed India's economy
+
+2026?
+
+Renewed interest in core branches
+
+Too early to know
+
+Nobody can say these branch choices caused the future.
+
+Nor is there evidence that JEE toppers consistently stay exactly "10 years ahead" of every economic shift.
+
+But looking back, their choices have often appeared to move before the wider job market caught up.
+
+### THE 2026 SHIFT THAT GOT EVERYONE TALKING
+
+This year's IIT admissions and the latest JoSAA counselling data have revived that conversation.
+
+Civil Engineering saw a remarkable jump in opening ranks at some of India's top IITs.
+
+At IIT Delhi, Civil Engineering opened at AIR 179, compared with AIR 3,030 last year. At IIT Bombay, the opening rank improved from 2,666 to 385. Mechanical Engineering also became more competitive across several older IITs.
+
+This does not mean Computer Science has fallen from the top. CSE remains the undisputed king of IIT admissions, with nearly every top-100 ranker preferring it.
+
+But for the first time in years, a noticeable number of high-performing students are choosing core engineering branches over what was once considered the obvious option.
+
+### WHY MIGHT THIS BE HAPPENING?
+
+The answer probably lies in two massive trends unfolding at the same time.
+
+First, Artificial Intelligence is changing software development. AI tools can now generate code, debug programs and automate many routine tasks that were once handled by junior engineers. Computer Science is far from becoming obsolete, but the industry is changing rapidly.
+
+Second, India is entering one of its biggest infrastructure and manufacturing phases in decades.
+
+Expressways, metro systems, semiconductor plants, defence manufacturing, renewable energy projects, logistics corridors and smart cities all need engineers who build physical systems as much as digital ones.
+
+Modern Civil Engineering is also very different from its old image. Today's graduates work with AI, Geographic Information Systems (GIS), digital twins, remote sensing, sustainability modelling and data analytics alongside traditional engineering.
+
+The line between core engineering and technology is becoming increasingly blurred.
+
+### DO JEE TOPPERS REALLY PREDICT THE FUTURE?
+
+Probably not in the way a crystal ball does.
+
+Branch choices are shaped by many factors, including personal interest, placements, institute reputation, family advice and changing job markets.
+
+Experts quoted during this year's admission season have also urged caution, calling the Civil Engineering surge an early signal, not evidence of a permanent shift.
+
+Still, history suggests India's top rankers often think beyond the immediate placement cycle. They are choosing careers they expect to matter 10 or 20 years later, not just the ones paying the highest salaries today.
+
+That is perhaps why their decisions attract so much attention.
+
+Whether 2026 marks the beginning of a fourth great engineering wave or simply an unusual admission cycle will only become clear over the next few years.
+
+But if history has taught us anything, it is this: keeping an eye on where India's brightest JEE rankers choose to go can sometimes offer an early glimpse of where the country's next opportunity may lie.
+
+\- Ends
+
+Aug 5, 2026 09:00 IST
+
+---
+
+### Could Buying Your Next Phone Or TV Via UPI Cost More? Why Govt Is Rethinking Free Payments
+*Apoorva Misra · general*
+
+The government is reportedly examining a proposal to allow banks and payment service providers to levy a Merchant Discount Rate (MDR) on merchant UPI transactions above Rs 2,000
+
+[Read full article](https://www.news18.com/explainers/could-buying-your-next-phone-or-tv-via-upi-cost-more-why-govt-is-rethinking-free-payments-ws-l-10253163.html)
+
+---
+
+### Stock market today: Will Sensex and Nifty open higher ahead of RBI MPC decision?
+*India Today Business Desk · general*
+
+Benchmark indices are set for a positive start on Wednesday as investors await the Reserve Bank of India's (RBI) monetary policy decision later in the day, with markets widely expecting the central bank to keep interest rates unchanged while closely watching its commentary on inflation, growth and liquidity.
+
+GIFT Nifty futures were trading at 24,733.50 at 8:28 am, indicating a higher opening for the Nifty 50 after it closed at 24,614.90 in the previous session.
+
+The Reserve Bank of India's Monetary Policy Committee (MPC) is scheduled to announce its decision at 10 am. According to a Reuters poll, the central bank is expected to leave the repo rate unchanged, while Governor Sanjay Malhotra is likely to maintain a slightly hawkish stance due to inflation risks arising from volatile crude oil prices and a weaker-than-normal monsoon.
+
+"The RBI is likely to hold the repo rate at 5.25% and retain a neutral stance. But this should not be interpreted as policy inertia. Rather, it would represent a deliberate choice to preserve optionality," said Dr. Manoranjan Sharma, Chief Economist, Infomerics Ratings.
+
+_"_The August policy, therefore, is likely to be less about the headline rate and more about the RBI’s assessment of the durability of inflation, the resilience of domestic demand, the trajectory of crude prices, liquidity conditions and the rupee," he added.
+
+Markets have rallied strongly since the RBI's last policy meeting on June 5. The Nifty has gained 5.1% during this period, helped by measures aimed at stabilising the rupee and reviving foreign institutional investor (FII) inflows.
+
+According to Jefferies, the RBI's concessional swap facility has attracted $40.8 billion in forex inflows through July 31, primarily through FCNR(B) deposits and other channels. The brokerage estimates total inflows under the scheme could reach $80 billion to $100 billion before the facility closes for FCNR(B) deposits on September 30.
+
+Global cues also remained supportive. Brent crude edged up 0.5% to around $80 a barrel after falling sharply over the previous two sessions, as investors tracked developments in efforts to end the US-Iran conflict and reopen the Strait of Hormuz.
+
+Despite the positive undertone, traders are expected to remain cautious after the introduction of the new Closing Auction Session (CAS) mechanism for futures and options stocks led to unusual divergence between the Nifty and Sensex over the past two trading sessions, increasing volatility around market close.
+
+Investors will also closely monitor Governor Malhotra's post-policy commentary for any guidance on inflation, liquidity conditions and the central bank's outlook for interest rates over the coming months.
+
+_**(Disclaimer: The views, opinions, recommendations, and suggestions expressed by experts/brokerages in this article are their own and do not reflect the views of the India Today Group. It is advisable to consult a qualified broker or financial advisor before making any actual investment or trading choices.)**_
+
+\- Ends
+
+Aug 5, 2026 08:54 IST
+
+---
+
+### Two-stage JEE model under consideration for NEET-UG, Centre tells Supreme Court
+*India Today Education Desk · general*
+
+## Centre told the Supreme Court that a JEE-like two-stage NEET-UG and computer-based testing are being examined as part of wider exam reforms. The proposal could reshape the country's biggest medical entrance test, but decisions will first follow expert recommendations and wider consultations.
+
+NEET UG may get JEE-like two-stage exam: Government tells Supreme Court
+
+A two-stage NEET-UG on the lines of the Joint Entrance Examination (JEE) and a possible shift to computer-based testing are under active consideration, the Centre has informed the Supreme Court, signalling that India's largest medical entrance examination could undergo its biggest structural overhaul in years.
+
+The Centre made the submission in an affidavit before the apex court, which is hearing a batch of petitions seeking reforms in the National Testing Agency (NTA) following allegations of question paper leaks. The court is scheduled to hear the matter again on August 6.
+
+The affidavit says stakeholders are examining whether NEET-UG should continue as a single-stage examination or adopt a two-stage format similar to JEE Main and JEE Advanced. Alongside this, authorities are also evaluating a transition from the current pen-and-paper mode to computer-based testing.
+
+According to the Centre, no final decision has been taken. The roadmap will be finalised after considering the recommendations of the High-Powered Task Force chaired by Nandan Nilekani, which was constituted to suggest reforms in the examination system.
+
+### TASK FORCE TO WEIGH SECURITY, TECHNOLOGY AND EQUITY
+
+The government said the panel brings together experts from technology, space, intelligence, academia and public administration to assess every aspect of the proposed changes. Its recommendations will cover technology, examination security, infrastructure, accessibility, equity and academic considerations before any new model is adopted.
+
+The affidavit also notes that seven of the NTA's eight major examinations have already migrated to computer-based testing with multi-session, multi-day schedules. These include JEE Main, CUET-UG, CUET-PG, UGC-NET and CSIR-NET. NEET-UG remains the only major NTA examination that continues to be conducted in pen-and-paper mode.
+
+### NEET'S SCALE MAKES REFORM MORE COMPLEX
+
+The Centre argued that NEET-UG presents unique challenges because of its massive scale and the diversity of candidates. More than 22 lakh students register for the examination, with a majority coming from rural areas and a large proportion being women.
+
+Unlike other entrance tests, NEET-UG serves as the gateway to multiple undergraduate courses, including MBBS, BDS, AYUSH, veterinary science and nursing programmes. The government said these factors make the examination distinct and require any structural changes to be carefully evaluated.
+
+It also clarified that since NEET-UG is conducted on behalf of the Ministry of Health and Family Welfare and regulated by the National Medical Commission (NMC), any changes to the examination format will be implemented only after consultations with both bodies in accordance with the National Medical Commission Act, 2019.
+
+The Centre further assured the Supreme Court that aspirants would receive adequate advance notice before any change in the examination pattern or mode is introduced, ensuring that the transition is smooth and does not place candidates at a disadvantage.
+
+\- Ends
+
+Apoorva Anand
+
+Aug 5, 2026 08:52 IST
+
+---
+
+### 20 Class 9 students complain of ragging in hostel. Seniors thrash them with bats
+*Ajaya Kumar Nath · general*
+
+## The assault was triggered after the junior students complained to the headmaster that they had been facing ragging and harassment by senior students inside the hostel.
+
+The students were assaulted after they complained of being harassed by seniors. (AI-generated image)
+
+More than 20 Class 9 students were allegedly beaten by senior students at a government school hostel in Odisha's Rayagada district after they complained to authorities about ragging and harassment.
+
+The incident took place on Sunday at the SSD High School hostel.
+
+According to preliminary information, a Class 10 student, along with several other senior students, called the 20 boys into a room and thrashed them cricket bats and sticks.
+
+The attack was triggered after the junior students complained to the headmaster that they had been facing ragging and harassment by senior students inside the hostel.
+
+Several students were injured and were later shifted to a hospital for treatment, while their parents were informed about the incident.
+
+Following the assault, the district administration launched an inquiry into the matter and issued a show-cause notice to the school's headmaster over negligence in handling complaints of ragging.
+
+The administration has also directed school authorities to immediately report any such incidents in the future and warned that strict action would be taken against those found responsible.
+
+Headmaster Pratap Chandra Saunta said the school authorities learnt about the incident only on Tuesday.
+
+"We came to know about the incident on Tuesday morning. Some Class 10 students had physically assaulted several Class 9 students. Since the incident occurred late at night, the authorities were unable to learn about it immediately. We informed the parents of the affected students and sent the injured students to the hospital for medical treatment," he said.
+
+One of the injured students, Shubham Naik, claimed that the abuse had been continuing for a long time and that repeated complaints to teachers had gone unaddressed.
+
+"Senior students have been regularly attacking and torturing us in the school hostel with sticks. We complained to the teachers about it, but they did not take any action. They have been assaulting us on the hostel premises for a long time," he said.
+
+\- Ends
+
+Karishma Saurabh Kalita
+
+Aug 5, 2026 08:52 IST
+
+---
+
+### Bangladesh warns media not to air Sheikh Hasina's virtual address from India
+*Reuters · general*
+
+## Sheikh Hasina is due to make her first public appearance, albeit by video link, since she fled Dhaka, at an event hosted by the Foreign Correspondents' Club of South Asia in New Delhi alongside her son, Sajeeb Wazed Joy, and other speakers.
+
+Hasina has remained in India since the student-led protests toppled her government in 2024.
+
+Bangladesh warned the country's media not to publicise the statements of exiled former Prime Minister Sheikh Hasina who is due to give a virtual address on Wednesday from India to mark the second anniversary of the uprising that ousted her.
+
+Hasina has remained in India since the student-led protests toppled her government in 2024. She was sentenced to death in 2025 for crimes against humanity over her crackdown on the demonstrations, a verdict she has dismissed as legally void.
+
+The 78-year-old is due to make her first public appearance, albeit by video link, since she fled Dhaka, at an event hosted by the Foreign Correspondents' Club of South Asia in New Delhi alongside her son, Sajeeb Wazed Joy, and other speakers.
+
+Hasina’s aides have not shared details of the contents of her address, but the former premier told Reuters last month that she and party colleagues plan to return from exile around December and present themselves in court, a move that would test how Bangladesh's new government handles its most prominent political opponent.
+
+### INDIA SAYS IT HAS NO INVOLVEMENT IN PRIVATE EVENT
+
+Information Adviser Zahed Ur Rahman warned Bangladeshi media on Tuesday that announcing or publicising Hasina's planned speech would violate a December 2024 order by Bangladesh's International Crimes Tribunal that prohibits media outlets and social media platforms from publishing or broadcasting Hasina’s speeches, statements, interviews, and audio or video messages.
+
+Hasina aide Abu Obaidha Arin said the event would go ahead, adding that Dhaka's "efforts to silence dissent cannot extinguish voices" beyond the country's borders.
+
+Bangladesh had asked New Delhi to clarify its stance on Hasina's planned address, warning India that allowing political activities by a fugitive could hurt improving bilateral ties.
+
+Indian foreign ministry spokesperson Randhir Jaiswal said Wednesday's event was being organised by a private media entity.
+
+"The government has no involvement whatsoever in it, neither does it endorse any views that may be expressed at the forum," he told a regular media briefing.
+
+The fresh tension between the neighbours comes as Dhaka continues to seek Hasina's extradition from India.
+
+Bangladesh's State Minister for Foreign Affairs Shama Obaed Islam said Bangladesh had repeatedly conveyed its concerns to India over Hasina and other Awami League leaders making political statements from Indian soil.
+
+Relations between the neighbours have been strained since Hasina's ousting, though both sides have recently signalled a willingness to improve ties under Prime Minister Tarique Rahman's government, which took office after February's election.
+
+\- Ends
+
+Shipra Parashar
+
+Aug 5, 2026 08:50 IST
+
+---
+
+### Anthropic, OpenAI AI agents go fully rogue in testing, Mythos breaks the most rules
+*Armaan Agarwal · general*
+
+## OpenAI and Anthropic have found their advanced AI models at the centre of new security breaches. As per the UK's AI Security Institute (AISI), Claude Mythos 5 and GPT-5.6 Sol went rogue in latest safety tests, with Mythos going as far as creating fake profiles to deceive users.
+
+Anthropic and OpenAI models have gone rogue yet again. (Photo: Reuters)
+
+AI models from OpenAI and Anthropic are at the centre of new security breaches. The UK’s AI Security Institute, or AISI, has found that during security tests of Anthropic’s Claude Mythos 5 and OpenAI’s GPT-5.6 Sol, the AI agents took went completely rogue, including the creation of fake profiles and attempts to trick real people.
+
+The latest breach comes just days after OpenAI revealed that two of its AI models attempted to hack US company HugginFace during an evaluation test. Anthropic has also reported similar breaches recently.
+
+### What did the AI agents do?
+
+As per AISI, Claude Mythos 5 and GPT-5.6 Sol, the most advanced AI models from each AI startup, created fake online identities and tried to place malicious code the software code platform, GitHub. The institute said the behaviour showed a level of autonomy and deception it had not seen this clearly before, though it added that it found no evidence of real-world harm.
+
+The incidents emerged during 122 runs of a fictional cybersecurity challenge used to assess the models’ capabilities. AISI said it found 19 unsanctioned actions across 10 test runs, with 17 linked to Anthropic’s agent and two to OpenAI’s. The agency first detected unusual data transfers leaving its research systems, after which it found that some agents had engaged in sustained, potentially harmful activity directed at real people and organisations. It stopped the relevant evaluations, isolated the machines and contained the activity within about an hour.
+
+### Mythos tried to fake identities
+
+The most serious case involved Anthropic’s Mythos agent. AISI explained that the model wrote malicious code and then researched the real people maintaining GitHub. It created fake online identities based on those people, sent direct messages while masquerading as them, and tried to pressure and trick real people into approving the code.
+
+AISI said that when the agent’s pull request was challenged in public, it edited its earlier activity to appear harmless and considered using a fresh identity to continue. Human review stopped the attempt. GitHub was notified by AISI.
+
+AISI added that this was the first time it had seen risks around autonomy and deception manifest so clearly in the real world without specific prompting.
+
+Anthropic said on X that the AISI set-up involved ‘deliberately permissive conditions’ that were not representative of its production models and that there was no evidence of an escape from a secure environment.
+
+The company said it was working closely with AISI and carrying out its own investigation to identify the causes of the behaviour.
+
+### GPT-5.6 Sol’s setup did not work
+
+The actions attributed to OpenAI’s Sol model were less severe but still outside the test boundary. OpenAI said the model reused a GitHub token left publicly accessible by another lab’s agent, and tried account recovery methods.
+
+Sol also attempted to use real internet infrastructure such as third-party DNS services in ways that resembled an actual attack. But the final exploit attempt failed and caused no real-world harm.
+
+OpenAI stated the conditions did not reflect ordinary deployment and that independent testing remained important for understanding risk before release.
+
+It also disclosed a separate incident involving Irregular, a third-party testing partner, where a misconfiguration let its models access the public internet in a supposedly isolated test, mirroring a similar Anthropic disclosure last week.
+
+AISI claimed that such testing was routine, and that the events happened under very specific conditions. Even so, it said the activity went beyond what the models had been prompted or authorised to do. It also said this was not a case of agents escaping a secure environment, unlike the July Hugging Face incident involving an OpenAI agent, because internet access had been allowed as part of the test.
+
+\- Ends
+
+Armaan Agarwal
+
+Aug 5, 2026 08:47 IST
+
+---
+
+### IMD Issues Red Alert For Assam, Kerala And Madhya Pradesh As Heavy Rain Batters India
+*Parishmita Saikia · general*
+
+Monsoon remains in full force, with extremely heavy rain forecast in parts of the Northeast and widespread downpours elsewhere. Here's where the wettest conditions are expected
+
+[Read full article](https://www.news18.com/cities/new-delhi-news/imd-issues-red-alert-for-assam-kerala-and-madhya-pradesh-as-heavy-rain-batters-india-ws-l-10253125.html)
+
+---
+
+### Lok Sabha to take up Bankers' Books Evidence Bill, Taxation Amendment Bill today
+*ANI · business*
+
+New Delhi: The Lok Sabha on Wednesday is scheduled to take up The Bankers' Books Evidence Bill, 2026 and The Taxation and Other Laws (Amendment) Bill, 2026 for consideration and passing on Wednesday, according to the Revised List of Business.
+
+Union Finance Minister Nirmala Sitharaman will move The Bankers' Books Evidence Bill, 2026, which seeks to provide a law relating to evidence with respect to bankers' books and align it with contemporary digital banking practices, along with matters connected or incidental thereto.
+
+  
+
+She will also move The Taxation and Other Laws (Amendment) Bill, 2026, which proposes amendments to the Payment and Settlement Systems Act, 2007, the Income-tax Act, 2025, and the Finance Act, 2026, for consideration and passing.
+
+The House will also take up a statutory resolution moved by NK Premachandran and Sougata Ray seeking disapproval of the Income-tax (Amendment) Ordinance, 2026 (No. 2 of 2026), promulgated by the President on June 5.
+
+Further, Congress MP Manish Tewari submitted an adjournment motion notice in the Lok Sabha, seeking suspension of the day's listed business to discuss the need for a new anti-defection law to curb mass political defections.
+
+In his notice, Tewari sought leave to move a motion for the adjournment of the House to discuss what he described as a matter of "definite urgent public importance."
+
+According to the notice, the proposed law should prohibit "mass political defections driven by opportunism and bereft of any genuine ideological or policy differences," while simultaneously providing space for "honest and critical dissent both inside and outside Parliament and the legislatures."
+
+Tewari also urged the government to adjourn the day's business and allow a full discussion on the issue in the House.
+
+Congress MP Manickam Tagore B also submitted an adjournment motion notice in the Lok Sabha, seeking a discussion on the police action during a student protest held at Jantar Mantar in New Delhi on July 20 and demanding a statement from Union Home Minister Amit Shah on the incident.
+
+In his notice, Tagore said reports and allegations arising from the incident had raised serious concerns over the nature and proportionality of force used to disperse the protesters.
+
+"Reports and allegations arising from the incident have raised serious concerns regarding the nature and proportionality of force used to disperse the protesters. It has been alleged that lathi charges, pellet guns, tear gas, and water cannons were used against students, including women participants, resulting in injuries and widespread public concern. These allegations require a full, fair and transparent examination," the notice reads.
+
+Through the adjournment motion, Tagore sought answers on who authorised the police action, whether the use of force complied with the law, established police procedures and constitutional safeguards governing peaceful assemblies, and whether pellet guns, tear gas, water cannons or any other crowd-control measures were used.
+
+He also sought details on the number of students, including women, who were injured, detained or arrested during the protest, complaints alleging police misconduct or excessive use of force, and the action taken on such complaints.
+
+Tagore further demanded that the government order an independent, impartial and time-bound judicial inquiry into the incident to establish the facts and fix accountability wherever required.
+
+The Congress MP also sought information on the number of FIRs registered against students in connection with the protest, the offences invoked, and the reasons for initiating criminal proceedings. He urged the government to withdraw all FIRs registered against students and assure that peaceful student protests and democratic dissent would not be met with police action, criminal prosecution or any form of legal coercion.
+
+He also asked whether the government proposed to engage with the students through dialogue instead of coercive measures and whether the Prime Minister would express regret and apologise to the students in Parliament if an inquiry established that excessive or unjustified force had been used against peaceful protesters.
+
+---
+
+### No plan B: JPSC aspirant's study planner captures the cost of chasing government jobs
+*India Today Education Desk · general*
+
+## A Jharkhand civil services aspirant opened her study notebooks at a Ranchi protest over alleged irregularities in the 14th JPSC exam and other recruitment tests. The moment has come to reflect broader anxiety among aspirants over paper leaks, delays and the shrinking trust in fair recruitment.
+
+No plan B: JPSC aspirant's study planner captures the cost of chasing government jobs
+
+She wasn't carrying a placard. She was carrying years of preparation. In a video that has resonated widely online, a Jharkhand Public Service Commission (JPSC) aspirant opens her notebooks instead of raising slogans. Inside are neatly planned study schedules, exam strategies, daily targets, and notes on how she keeps downloading apps to improve her communication skills. She says she has "no Plan B."
+
+The moment is heartbreaking because it captures something larger than one student's struggle. It reflects an exam system where years of disciplined preparation can be overshadowed by allegations of paper leaks, recruitment delays, and repeated controversies.
+
+### A PROTEST BUILT ON YEARS OF PREPARATION
+
+The aspirant joined hundreds of students protesting in Ranchi, demanding accountability over alleged irregularities in the 14th JPSC examination, the JSSC-CGL recruitment process, and other state recruitment tests.
+
+Their message is simple: if honest hard work cannot guarantee a fair chance, what exactly are students preparing for?
+
+Unlike many demonstrations driven by slogans, this protest has become a display of years invested in public service dreams—through notebooks, timetables, mock tests, and relentless routines.
+
+### WHY STUDENTS ARE PROTESTING
+
+Students have been staging an indefinite sit-in in Ranchi since July 29, demanding greater transparency and accountability in Jharkhand's recruitment process. Their primary demands include the cancellation of the 14th JPSC Combined Preliminary Examination, held on April 19, citing alleged irregularities.
+
+They have also called for a CBI-led independent investigation, along with probes by other central agencies, into the alleged misconduct.
+
+Additionally, the protesters are seeking comprehensive reforms in Jharkhand's recruitment bodies to ensure transparent, fair, and timely examinations, as well as the introduction of a fifth "Not Attempted" option in OMR answer sheets to reduce the possibility of evaluation errors.
+
+The protest has continued for days as students seek accountability over alleged paper leaks, irregularities, and delays that they say have repeatedly disrupted recruitment.
+
+### A PROBLEM THAT GOES BEYOND ONE EXAM
+
+Jharkhand was created in 2000 with the promise of expanding opportunities for its youth. Yet, over the past 26 years, recruitment examinations have repeatedly been hit by allegations of paper leaks, procedural irregularities, delayed results, cancellations, and prolonged legal disputes.
+
+From the state's first JPSC Civil Services Examination to the latest controversy surrounding the 14th JPSC exam, successive governments have faced criticism for failing to restore confidence in the recruitment process.
+
+For many aspirants, the issue is no longer about one examination. It is about whether years of effort can still be rewarded in a system they believe has become increasingly unpredictable.
+
+### MORE THAN A VIRAL VIDEO
+
+The image of a protester holding a study planner instead of a protest sign has resonated because it represents thousands of aspirants whose lives revolve around competitive examinations. Every timetable, revision plan, and notebook is evidence of time, money, and hope invested in a single opportunity.
+
+The protest is not just about one recruitment exam. It is about a generation asking whether honest preparation still has a fair chance in a system they believe has repeatedly failed to protect the value of their hard work.
+
+\- Ends
+
+Aug 5, 2026 08:43 IST
+
+---
+
+### 'We Don't Want To Spoil Ties With India': Bangladesh After New Delhi Distances Itself From Sheikh Hasina Event
+*Meemansa Shekhawat · general*
+
+The comments unfolded against the backdrop of a proposed media event in New Delhi on August 5 to mark the anniversary of Sheikh Hasina's ouster from Bangladesh
+
+[Read full article](https://www.news18.com/world/we-dont-want-to-spoil-ties-with-india-bangladesh-after-new-delhi-distances-itself-from-sheikh-hasina-event-ws-l-10253118.html)
+
+---
+
+### ICMAI CMA Inter Result June 2026 out at icmai.in: Check direct link, toppers and other details
+*SECTIONS ICMAI CMA Inter Result June · business*
+
+ICMAI June 2026 results: The Institute of Cost Accountants of India (ICMAI) has declared the results of the Intermediate and Final examinations held under the Syllabus 2022 for the June 2026 session. Along with the results, the Institute has released group-wise pass percentages, the number of candidates who qualified, and the provisional rank lists for both examination levels.
+
+  
+
+According to the result analysis, 7,885 candidates completed the Intermediate course, while 4,220 candidates completed the Final course.
+
+**Check direct link:** https://eicmai.in/Inter\_Final\_Result\_J26\_5jdf7-ytf/index.htm
+
+  
+  
+  
+
+### Intermediate results: Group II records higher pass percentage
+
+A total of 28,471 candidates appeared for the Intermediate Group I examination, of whom 6,813 qualified, taking the pass percentage to 23.93%.
+
+For Group II, 17,488 candidates appeared and 5,358 cleared the examination, recording a pass percentage of 30.64%.
+
+Among the 10,897 candidates who appeared for both groups, 1,397 cleared either one group (12.82%), while 2,144 passed both groups, resulting in a pass percentage of 19.68%.
+
+Intermediate Examination (June 2026)
+
+Appeared
+
+Passed
+
+Pass %
+
+Group I
+
+28,471
+
+6,813
+
+23.93%
+
+Group II
+
+17,488
+
+5,358
+
+30.64%
+
+Both groups – Passed either one group
+
+10,897
+
+1,397
+
+12.82%
+
+Both groups – Passed both groups
+
+10,897
+
+2,144
+
+19.68%
+
+### Final results
+
+For the Final examination, 10,474 candidates appeared for Group III, with 3,165 qualifying, translating into a pass percentage of 30.22%.
+
+In Group IV, 5,393 candidates appeared and 2,384 passed, taking the pass percentage to 44.21%.
+
+Among the 4,337 candidates who appeared for both groups, 702 cleared either one group (16.19%), while 1,430 passed both groups, recording a pass percentage of 32.97%.
+
+Final Examination (June 2026)
+
+Appeared
+
+Passed
+
+Pass %
+
+Group III
+
+10,474
+
+3,165
+
+30.22%
+
+Group IV
+
+5,393
+
+2,384
+
+44.21%
+
+Both groups – Passed either one group
+
+4,337
+
+702
+
+16.19%
+
+Both groups – Passed both groups
+
+4,337
+
+1,430
+
+32.97%
+
+### Intermediate toppers
+
+-   Rank 1: Raunak Jain (Surat)
+-   Rank 2: Mohit Das (Visakhapatnam)
+-   Rank 3: Kantala Prashanth Reddy (Hyderabad)
+
+### Final toppers
+
+-   Rank 1: Mokshit Vamsi Krishna Mattupalli (Guntur)
+-   Rank 2: Rahul Kailas Bhoir (Navi Mumbai)
+-   Rank 3: Vannemreddy Hemanth (Guntur)
+
+Candidates can check and download their scorecards from the official ICMAI website using their login credentials.
+
+---
+
+### OpenAI, Anthropic AI agents created fake identities during UK cyber tests: Report
+*Tech Desk · legal*
+
+A UK government-backed AI safety body has revealed new instances of unauthorised behaviour by advanced AI agents during cybersecurity evaluations.
+
+[Read full article](https://indianexpress.com/article/technology/artificial-intelligence/uk-ai-watchdog-openai-anthropic-ai-agent-security-10818326/)
+
+---
+
+### Republicans rubber-stamped Todd Blanche, chief architect of the Epstein cover-up: Chuck Schumer
+*ET Online · business*
+
+Senate Democrats, led by Chuck Schumer, fiercely criticized Republican committee members for advancing the nomination of Acting Attorney General Todd Blanche to become the permanent U.S. Attorney General. Schumer blasted the committee's vote as a rubber stamp for corruption, citing Blanche's ties to...
+
+[Read full article](https://economictimes.indiatimes.com/news/international/world-news/republicans-rubber-stamped-todd-blanche-chief-architect-of-the-epstein-cover-up-chuck-schumer/videoshow/132886576.cms)
+
+
+---
+
 ## 4 August 2026
 
 ### FSSAI bans old monk: Why did regulator stop sale of three variants of the popular Rum?
