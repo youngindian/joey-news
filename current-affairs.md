@@ -1,3 +1,384 @@
+## 6 August 2026
+
+### ‘People are crying for Sheikh Hasina to return’: Bangladesh rights leader Siddiqui
+*ANI · business*
+
+New Delhi: Bangladesh Human Rights Watch Secretary General Mohammed Ali Siddiqui on Wednesday alleged that Bangladesh is facing a severe economic crisis under the current dispensation, saying that a large section of the people are "crying for former Prime Minister Sheikh Hasina to return to the country."
+
+Speaking to after attending an event addressed virtually by Sheikh Hasina, Siddiqui said the former prime minister was determined to return to Bangladesh by December despite the risks involved.
+
+  
+
+"I came here to join this event, and (former) PM Sheikh Hasina gave her remarks as she determined to go back by December. With all the measures, based on millions of her supporters and the people awaiting to welcome her, all the atrocities, killings, rapes, lootings, violence need to stop," Siddiqui said.
+
+He alleged that Bangladesh's economy had deteriorated significantly and claimed that the country's GDP growth had slowed sharply.
+
+"The economy is ruined in our country. I believe this country is going down because the GDP growth rate came at 2.2 per cent. It was continuously 6.5 per cent and above. So, no foreign investment, no new job creation and people lost jobs, especially in the garments industry. More than 30 lakh people lost their job, especially women. So, that is the biggest alarm in the country," he said.
+
+Siddiqui further claimed that many people in Bangladesh were comparing the present government with the previous Sheikh Hasina-led administration.
+
+"People comparing the Yunus Govt, the present govt and Sheikh Hasina's Govt are crying for Sheikh Hasina to come back and take the country," he said.
+
+His remarks were made shortly after former PM Sheikh Hasina addressed her first virtual press briefing from New Delhi since leaving Bangladesh. She announced that she intends to return to her country in December despite the possibility of arrest, imprisonment or threats to her life.
+
+"I want to go back in December," Hasina said, adding that fear would not deter her from what she described as her duty towards the people of Bangladesh.
+
+During her address, Hasina also called for the ban on the Awami League to be lifted, sought the release of detained party leaders and demanded the withdrawal of legal cases against party members.
+
+Meanwhile, India's Ministry of External Affairs distanced itself from the event. MEA spokesperson Randhir Jaiswal said the Government of India had "no involvement whatsoever" in the press interaction and did not endorse any views expressed during the forum.
+
+---
+
+### Jharkhand student protest: Devendra Nath Mahato denies ending hunger strike, says fast to continue until demands are met
+*Unknown · business*
+
+Student leader and Jharkhand Loktantrik Krantikari Morcha (JKLM) leader Devendra Nath Mahato on Wednesday dismissed reports claiming that he had ended his hunger strike over alleged irregularities in the JPSC, JSSC, and other recruitment examinations.
+
+He asserted that his fast continues and he has only started drinking water on the advice of climate activist Sonam Wangchuk.
+
+Mahato, who is leading a hunger strike at a separate protest site in Ranchi, stated that reports of him ending his fast were "misleading and false."
+
+  
+
+"This is misleading and false news. After speaking with Sonam Wangchuk, I only started drinking water--which I wasn't doing earlier--and my hunger strike is still ongoing. Today is the fifth day. It is completely wrong that such fake and misleading news is being spread. The hunger strike continues; I am not consuming any food, and this will go on until all our demands are met and all the students of Jharkhand are fully satisfied," Mahato told ANI.
+
+He further mentioned that representatives of the students and the government would hold discussions regarding the ongoing agitation.
+
+"Regarding the dialogue with the government, student representatives from our side and their side (other student camp) will meet for a collective discussion," he added.
+
+Another student protester, Prem Nayak, said his health had deteriorated due to the hunger strike while reiterating that Mahato had not withdrawn his protest.
+
+"My health is deteriorating, and I feel unstable. Whenever I try to stand, I start shaking. I try to speak as little as possible and remain lying down. Several false rumours are being spread claiming that Devendra Nath Mahto has broken his hunger strike. This is completely false," Nayak said.
+
+He clarified that Mahato only drank water after Wangchuk advised him to stay hydrated.
+
+"Sonam Wangchuk advised him to drink at least water, so he only drank some water because his lips were parched. But people are twisting this to claim that Devendra Nath Mahto broke his strike. That is absolutely untrue--it is a pure rumour," he said.
+
+Nayak added that the protesters would continue their agitation until their demands were accepted.
+
+"Until the government accepts our demands, we are directly demanding the Chief Minister's resignation, as he is unfit to hold that position," he alleged.
+
+Meanwhile, the Jharkhand government on Wednesday initiated talks with students protesting in Ranchi over alleged irregularities in the Jharkhand Public Service Commission (JPSC), Jharkhand Staff Selection Commission Combined Graduate Level (JSSC CGL), and other competitive examinations. Senior officials invited a five-member delegation to meet Chief Minister Hemant Soren.
+
+Sub-Divisional Magistrate (SDM) Kumar Rajat and Additional District Magistrate (ADM) Dhananjay Kumar reached the protest site and conveyed the government's invitation for discussions at the Chief Minister's residence.
+
+Speaking to reporters, SDM Rajat said, "They (protesting aspirants) have sought some time, which has been granted. Once they decide, they will inform us. We will continue to remain here..."
+
+However, the protesting aspirants maintained that any discussion with the Chief Minister should be held collectively among students. They sought two hours to deliberate on the government's proposal before making a decision.
+
+---
+
+### US immigration gets stricter: What Indian applicants for visas, green cards and other immigration benefits should know
+*Varsha Agarwal · general*
+
+According to a press release, USCIS stated that the policy will prevent people from filing incomplete or "placeholder" applications just to obtain temporary immigration benefits (such as work authorisation). How could it impact Indian applicants? Know here.
+
+US immigration gets stricter: What Indian applicants for visas, green cards and other immigration benefits should know (Representative image/File photo)
+
+The United States has imposed striicter rules on its immigration benefit processing rules, allowing US Citizenship and Immigration Services (USCIS) officers to deny incomplete or insufficiently documented applications for visas, green cards and other immigration benefits. In its new policy, the officers no longer have to issue a Request for Evidence (RFE) or a Notice of Intent to Deny (NOID) before rejecting an application. 
+
+## **USCIS tightens rules for immigration benefits**
+
+According to USCIS press release, the applicants must establish their eligibility for an immigration benefit at the time they file their request.  The agency said its application forms and accompanying instructions should clearly specify the evidence required for each immigration benefit, enabling applicants to submit complete requests at the time of filing. The policy is effective immediately and applies to requests pending or filed on or after Aug. 5, 2026, unless otherwise specified by regulations or USCIS policy.
+
+Under the Biden-era policy, USCIS officers were encouraged to first ask applicants for missing documents or additional evidence before denying an application. This gave applicants an opportunity to correct mistakes and complete their filings. With new policy effective, there is no second chance henceforth, also affecting thousands of applicants, iincluding Indians. 
+
+## **Why did USCIS make this change?**
+
+According to press release, USCIS stated that the policy will prevent people from filing incomplete or "placeholder" applications just to obtain temporary immigration benefits (such as work authorization). The move will reduce frivolous filings, speed up processing for legitimate applicants and also restore officers' discretion under existing immigration regulations. "This policy better aligns USCIS procedures with long-standing Department of Homeland Security regulatory authority and form instructions, helps restore integrity to the immigration system, and makes it more difficult for aliens to file frivolous benefit requests," read the statement. 
+
+## **New US immigration rule: How could it affect Indians?**
+
+Although Indian migration to the US is undergoing a massive shift with already stricter immigration rules, the latest move will definitely affect Indians applying for USCIS-managed immigration benefits. Indians applying for Green Cards (Adjustment of Status), Employment Authorisation Documents (Work Permits/EADs); H-1B extensions or change of status, L-1, O-1 and other employment-
+
+If an application is incomplete or does not prove eligibility, USCIS can reject or deny it immediately, without issuing an RFE or a NOID.  This leaves applicants with less room for errors and may increase rejections. Indian applicants must ensure their applications are fully complete and supported with all required evidence at the time of filing. The move will also enable USCIS to process genuine applications more efficiently by not spending time on incomplete or frivolous cases.
+
+---
+
+### Kazakhstan positions itself as key logistics hub linking Europe with Asia & regional AI hub
+*Dipanjan Roy Chaudhury · business*
+
+Central Asia’s biggest state Kazakhstan has unveiled a new phase of its transport infrastructure strategy, launching construction of the Beineu–Saksaulsk highway and announcing the expansion of two additional road corridors as part of a broader effort to position the country as a key logistics hub linking Europe and Asia.
+
+Speaking at a meeting on Aug. 3, Kazakh President Kassym-Jomart Tokayev said the projects are designed not only to improve domestic connectivity but also to increase transit capacity, and strengthen Kazakhstan’s role in Eurasian supply chains.
+
+  
+
+“Our main goal is to transform Kazakhstan into one of the leading logistics hubs connecting Europe and Asia,” Tokayev said.
+
+Tokayev announced the expansion and reconstruction of the Kyzylorda–Saksaulsk and Ulgaysyn–Saksaulsk highways, covering a combined 774 kilometers. According to him, domestic companies will lead construction, creating more than 10,000 jobs, while annual freight volumes along the corridor are expected to increase 2.5-fold to 13.2 million tons after completion.
+
+  
+
+“Undoubtedly, these projects will contribute to the development of the national economy and tourism, as well as to improving the welfare of the population. Each of these projects is seamlessly integrated into the transportation system of Kazakhstan. The historically established vertical transportation networks are now complemented by horizontal connections,” Tokayev said, instructing that all projects should be completed no later than 2029.
+
+The road projects form part of a wider effort to transform transport into one of Kazakhstan’s principal growth sectors. According to Tokayev, freight transportation reached nearly 37 million tons in 2025, a 6% increase from the previous year.
+
+Tokayev noted that Kazakhstan’s transport ambitions now extend beyond physical infrastructure. Rather than simply expanding highways, he said the country must build a modern digital transport ecosystem, supported by a forthcoming national program for domestic freight carriers and the local automotive industry.Tokayev argued that Kazakhstan’s transport ambitions now extend beyond physical infrastructure. Rather than simply expanding highways, he said the country must build a modern digital transport ecosystem, supported by a forthcoming national program for domestic freight carriers and the local automotive industry.
+
+Meanwhile more than 500 high school students from 106 countries gathered in Astana for the International Olympiad in Artificial Intelligence (IOAI). Tokayev used the event to showcase Kazakhstan’s broader ambition to become one of Eurasia’s leading AI economies. Tokayev described artificial intelligence as one of the central pillars of Kazakhstan’s long-term development strategy.
+
+The country has also positioned itself more actively within global AI governance, becoming a founding member of the World Artificial Intelligence Cooperation Organization (WAICO), while securing major partnerships with NVIDIA and U.S.-based AI infrastructure company Firebird to develop large-scale computing infrastructure.
+
+---
+
+### New NBFC-UL list soon, Tata Sons listing question remains open
+*Akash Mandal · legal*
+
+The RBI’s thinking indicates that the revised identification methodology does not alter the Tata Group holding company’s existing regulatory standing.
+
+[Read full article](https://indianexpress.com/article/business/tata-sons-listing-nbfc-open-tata-sons-10820078/)
+
+---
+
+### 3 Workers Killed, 2 Injured After Gas Leak At Chemical Plant In Karnataka's Yadgir
+*Meemansa Shekhawat · general*
+
+A gas leak at a chemical plant in Karnataka's Yadgir killed three workers, with two sustaining injuries. According to police, a probe has been ordered to identify those responsible
+
+[Read full article](https://www.news18.com/india/3-workers-killed-2-injured-after-gas-leak-at-chemical-plant-in-karnatakas-yadgir-10255703.html)
+
+---
+
+### Jharkhand protests: CID arrests 5 more; students open to dialogue with Soren govt - key points
+*Vivek Dubey · general*
+
+The state government has repeatedly stressed its willingness to engage with the protesters.
+
+NEW DELHI: Students protesting alleged irregularities in recruitment examinations in Jharkhand have agreed in principle to hold talks with the state government, provided the discussions are held in the presence of the media.
+
+The breakthrough came as the CID arrested five more people in the probe into the alleged recruitment scam.The development comes as the Special Investigation Team (SIT) intensifies its probe into the alleged recruitment scam by examining digital records, application logs and other documents, while the state government maintains that action is being taken against those responsible.
+
+## Here are the top developments:
+
+## Students agree to talks, but seek public meeting
+
+Student leaders said they were prepared to send a four- or five-member delegation for discussions after receiving a message from the government through the Sub-Divisional Officer (SDO).
+
+However, they insisted that the talks should be transparent."We also had another demand: if the chief minister comes out to speak with us publicly in front of live media on an open platform, a proper resolution could be reached. In our previous protest, our representatives were taken into a closed room, and nothing came out of it. They are calling a five-member team just to stall and suppress our movement," one protester alleged.
+
+Another protester echoed the demand, saying, "The chief minister should listen to the students' demands in front of the press and media, and whatever promises he intends to fulfil should be stated publicly. For the last 26 years in Jharkhand, students' issues have been heard in closed rooms, and the files have remained closed forever."Student leader Ravindra Paswan said both sides had shown willingness to engage."The government has expressed its willingness to engage in dialogue, and we have also conveyed our willingness. Dialogue is essential in a democratic country as it is the only way to reach a resolution," Paswan said.He added that the students had placed two conditions before the government."Our primary condition is that the dialogue should take place directly with the Chief Minister, and we have been assured that the Chief Minister will be present.
+
+Secondly, we want at least two media representatives to be present during the discussions. The SDO has asked us to submit the names of our delegation members before 10 am, after which the date and time of the meeting will be communicated," he said.
+
+## Government says doors are open
+
+The state government has repeatedly stressed its willingness to engage with the protesters.Jharkhand minister Irfan Ansari said, "The Chief Minister has constituted the committee...
+
+We have opened the door for dialogue. Talks will take place, we will listen to your demands, and if they are reasonable, we will certainly accept them. They are our students, our children." He also accused the BJP of trying to politicise the issue.Rural development minister Deepika Pandey Singh said a committee had been formed and students had been asked to nominate their representatives so discussions could begin.However, Finance Minister Radhakrishna Kishore clarified that the ministers' group was only monitoring the agitation and was not a formal negotiation committee. He said the Chief Minister remained sensitive to the students' concerns and that the government was ready for talks whenever the students decided to engage.Earlier this week, chief minister Hemant Soren also said the government was open to dialogue and assured students that their demands would be considered seriously."...Many individuals have already been arrested and sent to jail, and investigative agencies are conducting raids at multiple locations. Overall, the agencies are working diligently and effectively on this matter, and I believe we will move forward towards a concrete resolution..." he said."The government's doors are open to everyone. Anyone who has demands can come forward and present their concerns. We are already aware of the issues to some extent, and if they present their views, the government will certainly consider them seriously," he added.
+
+## Probe gathers pace as arrests rise
+
+The CID's latest action saw five more arrests in connection with the alleged examination irregularities, taking the total number of arrests to 19.The investigation is being led by an SIT, which is examining digital records, application logs and other evidence to establish the extent of the alleged recruitment irregularities.
+
+On August 5, Soren also met Governor Santosh Gangwar and briefed him on the alleged irregularities in the JPSC and JSSC examinations as well as the ongoing protests.
+
+The Governor described the allegations as a serious matter and stressed the need for a transparent examination process to maintain the confidence of young job aspirants.According to an official release, Soren assured the Governor that the state government was committed to ensuring justice for students and that no injustice would be allowed.The protests began after the results of the 14th JPSC Civil Services Preliminary Examination were declared on July 5. Aspirants have since been staging round-the-clock demonstrations and an indefinite sit-in, demanding cancellation of the preliminary examination and a review of recruitment tests conducted through TDPL agencies.
+
+---
+
+### Parliament Monsoon Session 2026 Live Updates: Lok Sabha Deadlock Continues; Special Session Proposed For Delimitation Bill
+*Aanchal Sinha · general*
+
+“Sloganeering, whether inside or outside the House, is not good for democracy. By showing placards and sloganeering, you are lowering the dignity of the House," Om Birla said.
+
+[Read full article](https://www.news18.com/india/parliament-monsoon-session-2026-day-14-live-updates-lok-sabha-rajya-sabha-proceedings-key-bills-and-opposition-protest-latest-news-liveblog-ws-l-10255704.html)
+
+---
+
+### PTI warns of Islamabad march on September 27 over Imran Khan’s jail case
+*India Today World Desk · general*
+
+## PTI leader Suhail Afridi said the party will march to Islamabad on September 27 if Imran Khan does not get justice. The warning raises pressure for court hearings and restored access to the jailed former prime minister.
+
+Pakistan Tehreek-e-Insaf supporters will march towards Islamabad on September 27 if "justice" is not provided to the party’s founding chairman and jailed former prime minister Imran Khan, Khyber Pakhtunkhwa Chief Minister Suhail Afridi said on Wednesday. He made the announcement at a large PTI gathering in Peshawar, held on the eve of Khan completing three years in prison.
+
+Afridi said the party’s first demand was that the cases against Khan and his wife should be fixed for hearing and decided on merit. The second demand, he said, was the restoration of meetings with their legal team, doctors, relatives and party leaders. He claimed that if justice was delivered, Khan could be released "within 30 minutes", failing which people from across the country would march to Islamabad.
+
+Saying the PTI was seeking justice and not charity, Afridi maintained that the party would continue its struggle through constitutional and democratic means, including peaceful protests. Welcoming supporters from across Pakistan, he said people from Khyber Pakhtunkhwa, Punjab, Sindh and Balochistan had gathered to express solidarity with Khan, and added that the turnout reflected his continued popularity.
+
+Referring to the completion of three years since what he called Khan’s "abduction", Afridi alleged that the former prime minister had been kept in solitary confinement and that his sisters faced mistreatment when they tried to meet him in prison. He also alleged that the 26th and 27th constitutional amendments had weakened the judiciary and claimed that courts were no longer able to dispense justice independently. The 26th amendment capped the country’s chief justice’s tenure at three years, while the 27th amendment created the post of Chief of Defence Forces and set up a constitutional court.
+
+The chief minister repeated the PTI’s longstanding stand that Khan was removed from office through an "external conspiracy", aided by "internal collaborators", after he refused to compromise on Pakistan’s sovereignty. He said Khan had sacrificed personal comfort for the country’s future and had raised the issues of Islamophobia and Muslim rights at the international level.
+
+Afridi also alleged that the regime change in April 2022 had led to economic decline and a resurgence of terrorism, particularly in Khyber Pakhtunkhwa, and said the province had once again become a victim of insecurity and bloodshed. He accused the present government of damaging Pakistan’s relations with neighbouring countries, including Iran, Afghanistan and China, and criticised what he described as dynastic politics, saying the PTI would resist any attempt to impose hereditary rule.
+
+He said the party had exhausted all legal and judicial forums without getting justice and therefore had no option but to exercise its constitutional right to peaceful protest. Urging supporters to continue their struggle for their constitutional and democratic rights, Afridi said he would lead the march to Islamabad on September 27 if the party’s demands were not met.
+
+The PTI gathering in Peshawar was used to press for hearings in the cases against Khan and his wife, restoration of access to them, and to warn of a march to Islamabad if those demands were not addressed.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Aug 6, 2026 08:44 IST
+
+---
+
+### Rs 20,000 salary, Rs 3,000 savings: Bengaluru CA walked 4 km daily instead of taking an auto
+*Tanisha Sarkar · business*
+
+At 22, Meenal Goel was earning Rs 20,000 a month in her first job, but after paying rent, food and bills, just Rs 3,000 remained. Instead of spending Rs 60 on an auto ride each day, the Bengaluru-based CA chose to walk 4 km for three months. What began as a way to save money soon became something bigger. For Goel, those daily walks became a lesson in self-reliance, resilience and learning to do hard things.
+
+## Why Meenal Goel walked 4 km every day
+
+Bengaluru CA Meenal Goel recently took to social media to share a personal story about money, independence and resilience. At 22, during her first job, Goel earned Rs 20,000 a month. Once rent, food and other bills were paid, she was left with only Rs 3,000 in savings. The obvious solution seemed simple. Take an auto.
+
+People around her repeatedly told her to spend the Rs 60 fare because it was a relatively small amount. But Goel looked at the numbers differently. A Rs 60 daily fare for 26 working days came to Rs 1,560 a month. That amounted to 52% of her monthly savings. So, instead of taking an auto, she started walking.
+
+  
+  
+
+## Rs 60 a day became Rs 1,560 a month
+
+Goel walked 4 km every day for three months to avoid the auto fare. She revealed that her parents did not know she was doing it. Had they found out, she believes they would have immediately sent her money. But Goel had made a promise to herself at 20: “No more depending on them.”
+
+That decision gave the daily walk a deeper meaning. It was no longer simply about saving Rs 60.
+
+## ‘I was building something bigger than savings’
+
+Goel said people around her thought she was being unreasonable. They questioned why she was putting herself through the daily walk when her parents could afford to help her. But Goel saw the situation differently. She said every time she walked those 4 km, she was building something “bigger than savings”. For her, that something was self-reliance.
+
+She also described the walks as a way of proving to herself that she could “do hard things”.
+
+---
+
+### Global layoff wave continues: Why Amazon, Meta, Oracle and 40+ companies are cutting jobs
+*India Today Business Desk · general*
+
+More than 40 companies across industries including technology, banking, retail, manufacturing and healthcare have announced layoffs this year as businesses continue to cut costs, restructure operations and increasingly adopt artificial intelligence (AI), according to a Business Insider report.
+
+Some of the world's biggest companies, including Amazon, Meta, Oracle, UPS, Walmart, Citi, Dell, Visa, Nike and Standard Chartered, are among those reducing their workforce in 2026.
+
+While several companies cited AI-led productivity gains, others blamed slowing business growth, restructuring plans and changing customer demand.
+
+### AI EMERGES AS A KEY DRIVER OF LAYOFFS
+
+According to the report, companies such as Block, Coinbase and Standard Chartered have openly acknowledged that artificial intelligence has become one of the reasons for reducing headcount, with AI now performing work previously handled by employees.
+
+However, not every company is laying off workers because of AI.
+
+Several firms are restructuring businesses, simplifying operations or responding to weaker demand in specific segments.
+
+### BIGGEST LAYOFFS ANNOUNCED SO FAR
+
+Among the largest workforce reductions announced this year are:
+
+UPS: 30,000 jobs to be cut as part of network restructuring and cost savings.
+
+Oracle: Around 21,000 employees, or 13% of its workforce, laid off due to AI adoption and restructuring.
+
+Citi: About 20,000 jobs, or roughly 10% of its workforce, being cut to align staffing with business needs and reduce costs.
+
+Amazon: Around 16,000 corporate jobs eliminated as the company reduces bureaucracy and reshapes its business.
+
+Dell: Around 11,000 employees, or 10% of its workforce, laid off under a restructuring plan.
+
+Este Lauder: Up to 10,000 jobs being cut as part of a restructuring programme and reduction in retail roles.
+
+British American Tobacco: Around 9,000 jobs, nearly one-fifth of its workforce, being eliminated to improve agility and expand the use of technology.
+
+Heineken: Between 5,000 and 6,000 jobs being cut to improve productivity and lower costs.
+
+Visa: Around 2,600 jobs, or 7% of its workforce, being eliminated as part of its AI-led business transformation.
+
+WiseTech: Around 2,000 employees, or 30% of its workforce, laid off because of AI-driven productivity gains.
+
+Atlassian: About 1,600 employees, representing 10% of its workforce, laid off to reorganise the company and invest more in AI.
+
+Nike: Around 1,400 jobs cut as the sportswear maker streamlines operations, increases automation and pushes ahead with its turnaround strategy.
+
+Cloudflare: More than 1,100 employees, or 20% of its workforce, laid off as part of AI-driven restructuring.
+
+Meta: The company has also announced layoffs linked to AI investments, restructuring and cost-cutting, although it did not disclose the number of affected employees.
+
+Other companies announcing layoffs include Walmart, LinkedIn, Target, Expedia, Freshworks, Coinbase, Crypto.com, Pinterest, Workday, Zillow, eBay, GoPro, Groupon, T-Mobile, Verizon, Kenvue, Papa Johns, Patreon, Saks Global, Sprout Social, Wix and Lululemon.
+
+### MORE JOB CUTS COULD FOLLOW
+
+As per the report, the layoffs announced so far may only be part of a broader trend.
+
+More than 100 companies in the United States have filed WARN (Worker Adjustment and Retraining Notification) notices, which employers are required to submit before carrying out large-scale layoffs or plant closures.
+
+While some notices relate to already announced job cuts, others point to additional layoffs that could take place in the coming months.
+
+### WHY ARE COMPANIES CUTTING JOBS?
+
+The report says three broad factors are driving the latest wave of layoffs:
+
+Greater adoption of AI and automation.
+
+Government policy changes.
+
+Broader economic conditions and shifting consumer demand.
+
+Many companies are reducing traditional roles while redirecting investments towards artificial intelligence, automation and digital transformation.
+
+The report also cites a World Economic Forum survey, which found that 41% of companies worldwide expect AI to reduce their workforce over the next five years.
+
+At the same time, it said demand for jobs in artificial intelligence, big data and financial technology is expected to grow significantly by 2030, suggesting that while some roles disappear, new opportunities will emerge in technology-focused sectors.
+
+\- Ends
+
+Aug 6, 2026 08:37 IST
+
+---
+
+### Delhi man watches HBO’s ‘The Staircase’. He ‘recreates’ murder plot days later
+*Pragynesh · legal*
+
+On July 30, the 62-year-old software consultant allegedly killed his wife, Komal Singh inside their home, hid the murder weapon and fled with more than Rs 12 lakh in cash.
+
+[Read full article](https://indianexpress.com/article/cities/delhi/delhi-man-watches-hbos-the-staircase-he-recreates-murder-plot-days-later-10820042/)
+
+---
+
+### Alexander Zverev, Felix Auger-Aliassime And Daniil Medvedev Exit Montreal Masters
+*Unknown · sports, tennis*
+
+The ATP Montreal Masters lost its top two seeds in the space of a few hours on Wednesday as Germany's Alexander Zverev and Canadian Felix Auger-Aliassime both exited the field.
+
+[Read full article](https://sports.ndtv.com/tennis/alexander-zverev-felix-auger-aliassime-and-daniil-medvedev-exit-montreal-masters-11872142)
+
+---
+
+### High Court To Rule On Tarun Tejpal's Acquittal Today: What Is The 2013 Sexual Assault Case?
+*Karishma Jain · general*
+
+The verdict will determine whether the 2021 acquittal of former Tehelka editor-in-chief Tarun Tejpal stands or is overturned.
+
+[Read full article](https://www.news18.com/india/high-court-to-rule-on-tarun-tejpals-acquittal-today-what-is-the-2013-sexual-assault-case-ws-l-10255611.html)
+
+---
+
+### Man dies by suicide using helium gas in Telangana hotel, note cites gambling losses
+*India Today News Desk · general*
+
+## Police said the man purchased a helium gas cylinder along with 
+
+Officials said the man was addicted to gambling and had suffered significant financial losses. (Representative image)
+
+A 33-year-old chartered accountant died by suicide by inhaling helium gas in a hotel room in Telangana after suffering huge financial losses in gambling, police said on Wednesday.
+
+According to a senior police official, the hotel staff alerted police on Tuesday after the man failed to respond to repeated knocks on his room door. Police entered the room through a window and found the Siddipet native, who worked at a private firm in Hyderabad, dead inside.
+
+The official said the man had purchased a helium gas cylinder and 
+
+Police recovered a purported suicide note from the hotel room in which the man said he had decided to end his life after suffering financial losses in gambling.
+
+According to the preliminary investigation, the deceased was addicted to gambling and had incurred heavy financial losses. Police said that despite receiving financial support from his relatives, he was forced to sell his flat in Hyderabad. Further investigation is underway.
+
+\- Ends
+
+Shipra Parashar
+
+Aug 6, 2026 08:31 IST
+
+
+---
+
 ## 5 August 2026
 
 ### UAE seeks more details on extradition of Merchant Navy captain's murder accused
