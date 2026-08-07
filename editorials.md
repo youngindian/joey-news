@@ -1,8 +1,302 @@
 # Editorials
 
-_Last updated: 2026-08-06 04:45 UTC_
+_Last updated: 2026-08-07 04:12 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 7 August 2026
+
+### Access paradox: On medical education in India
+*The Hindu · Editorial*
+
+The scope of medical education in India has expanded so rapidly that it raises important questions about access to it. The number of seats has nearly tripled in 12 years, thanks in part to the government’s push to improve access to health care, entailing infrastructure upgrades and simplified regulations. However, much of the growth has been happening in the private sector, in addition to new government colleges attached to district hospitals. This year, for the first time, private institutions host more than half of all MBBS seats. Of the roughly 10,000 new seats, 79% are in such institutions, a sign that growth in the near future will remain concentrated thus. The increase in seats is, in and of itself, commendable as India’s students still compete fiercely for MBBS seats even as health-care centres suffer a debilitating shortage of specialist practitioners. Thousands of students also seek education abroad. Therefore, expanding domestic ‘capacity’ is a natural response and the rising number of seats ought to relieve the bottleneck and keep talent at home.
+
+But problems abound. Whereas an MBBS seat in a government college rarely exceeds ₹5 lakh for the full term, that in a private institution can cost 10 times more, sustained in part by the unflagging demand for health care. These institutions’ commercial viability is clustered in specific geographies, especially in tier-I and -II cities in the more prosperous States, where incomes are higher. Unless their students deliberately fan out after graduation, their skills also become concentrated in these clusters, whereas the paucity of health-care providers is felt more keenly in the rural areas farther away. Rapid growth also raises the risk of highly uneven quality, with institutions seeking to secure NMC accreditation with the bare minimum of facilities rather than mindfully addressing local needs. ‘Capitation fees’, which persist despite government bans, create new debt that can influence behaviour after graduation. Finally, sans competitive salaries, housing and schools, and assured career progression, graduates gravitate to private practice or abroad. Paradoxically, then, the surge in private capacity obligates the government to keep adding capacity, including opening new AIIMS-like institutions, so the number of cheap seats also keeps increasing. The NMC’s rule of having half of all private institution seats be charged at government rates should be enforced; the NMC should also embrace mechanisms that support surprise inspections and the ability to inspect records without institutions’ permission. Finally, beyond compelling rural service, governments should reward it, in addition to ensuring that the daily needs of rural health-care workers and their families and of hospitals are both well-met.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/access-paradox-on-medical-education-in-india/article71313988.ece)
+
+---
+
+### Stop the scam: On the ‘digital arrest’ menace
+*The Hindu · Editorial*
+
+The Supreme Court of India’s order of August 4 on the “digital arrest” menace is notable for not being lured into complacency. After all, the Indian Cybercrime Coordination Centre’s status report showed that complaints on the National Cyber Crime Reporting Portal fell from 1,23,672 in 2024 to 58,249 in 2025, and stood at 16,377 in the first six months of 2026. The Court called the figures “certainly encouraging” and directed the Reserve Bank of India to circulate a standard operating procedure for temporary debit holds on mule accounts, States to notify cybercrime coordination centres and operationalise e-Zero FIRs, and an inter-departmental committee to examine a victim compensation framework. Thanks to advisories from banks, telecom operators and the police, fewer senior citizens and others are getting victimised by these scams, which have succeeded due to older victims’ deference to authority and fear of legal trouble. Yet, scammers find it easy to target youth and professionals, and senior citizens the advisories have not reached. And there have been very few convictions despite scrutiny and investigation, which suggests that law enforcement must move faster in tackling these scams.
+
+The digital scammers have proved nimble in their modus operandi. They route calls through SIM boxes to mask their origin, making them appear as Indian numbers, and use multiple mule accounts across many States to move funds swiftly. They are now known to deploy deepfakes on video calls to dupe victims and remain untraceable by investigators. In effect, the fraudsters always seem to be a step ahead of those pursuing them. The Court’s insistence on restoring money — completed in 36,290 cases involving ₹18.05 crore — and on the swift disposing of account-freeze cases, alongside detection systems such as MuleHunter.AI, used in over 20 banks, will help limit the damage even when perpetrators are not caught or convicted. But convictions are rare as many of these fraud and extortion schemes are run from overseas “scam compounds” in Myanmar, the wider Golden Triangle, and Cambodia. In Myanmar, scam centres proliferated through direct and indirect official patronage, even as recent scrutiny produced raids that were largely for show with these centres shifting to new areas in the conflict-ridden country. After Beijing’s crackdown, in 2023, on scam centres targeting Chinese victims, scammers shifted focus to other countries, with Indians also being trafficked and tortured to commit digital crimes against fellow citizens. New Delhi must use diplomatic pressure in coordination with China, the U.S. and ASEAN to compel Naypyidaw and Phnom Penh to act against the networks that host these compounds.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/stop-the-scam-on-the-digital-arrest-menace/article71314079.ece)
+
+---
+
+### Donald Trump in the Persian labyrinth
+*The Hindu · Opinion*
+
+“When we are finished, take over your government. It will be yours to take. This will be probably your only chance for generations,” United States President Donald Trump told Iranians on February 28, 2026, after the U.S. and Israel assassinated Iran’s Supreme Leader Ayatollah Ali Khamenei, and launched a war against the country. More than five months later, the war that Mr. Trump believed would be over in weeks, if not days, is far from over. The Islamic Republic has not only survived but has also consolidated its position, at home and in the region. Mr. Trump has alternated between strikes, ceasefires, talks, threats, ultimatums, renewed strikes, and U-turns in an attempt to shape the course and outcome of the conflict and the behaviour of the Iranian state, while seeking a face-saving exit. But with the war unresolved and his objectives unmet, Mr. Trump, confronting a resolute yet risk-tolerant Tehran, has found himself in a strategic cul-de-sac.
+
+The U.S. and Israel launched the war with four principal objectives: destroy Iran’s nuclear programme; dismantle its missile capabilities and military industrial base; end Tehran’s support for its non-state quartet (Hamas, Houthis, Hezbollah and Hashad) and bring about a regime change. The first three objectives, however, were inseparable from the fourth. Without toppling the Islamic Republic, achieving any of the other goals appeared impossible even before the war began. This makes regime change or regime collapse the central strategic aim of the war on which all the others depended.
+
+[Read full article](https://www.thehindu.com/opinion/lead/donald-trump-in-the-persian-labyrinth/article71314667.ece)
+
+---
+
+### DC Edit | Govt, Opp. Must Allow Parliament To Function
+*Deccan Chronicle · Editorial*
+
+The continued disruption of parliamentary proceedings that has translated into passage of bills with no debate in the Monsoon Session presents a no-win situation not only for the Opposition and the government but, more importantly, for the country as a whole. It is incumbent upon the government and the Opposition to jointly find a solution to the logjam so that Parliament can resume its jobs, lawmaking and parliamentary oversight, in order to give meaning to accountability, the term that is the flavour of the season.
+
+The government made a move to end the impasse when parliamentary affairs minister Kiran Rijiju met Leader of the Opposition in the Lok Sabha Rahul Gandhi but the discussions do not appear to have borne fruit. Mr Gandhi has reiterated the Opposition position that the Union home minister must explain to Parliament the events at Jantar Mantar in relation to the protests led by Cockroach Janta Party demanding the resignation of then education minister Dharmendra Pradhan following a series of lapses in the conduct of Neet, CBSE and CUET.
+
+There is no doubt in the minds of the right-thinking people that police brutality was out on display against the youth who were legitimately raising a matter of utmost concern to them. The government may proceed against criminals who managed to creep into the youth’s protest and indulged in criminal activities but that does not offer the police an excuse to beat up protesting students, many of them teenagers. The Union government and the home minister are responsible for the conduct of the Delhi police; they own an explanation to the country on the doings of the cops under them.
+
+The Opposition has a point, too, when it demands that the government explain the theft of offerings at the Ram temple in Ayodhya. The government constituted the trust that manages the temple on the orders of the Supreme Court of India, and hence is responsible to the people on the acts of omissions and commissions attributed to the trust. True, investigations are on and no wrongdoing against the trust has yet been found out but many individuals are suspects, its senior office-bearers having quit on their own. The legal process may take its course but the government does not have the luxury to remain silent; it needs to share updates with the people.
+
+On its part, the Opposition must realise that it has primarily been sent to Parliament for carrying out the all-important business of lawmaking and parliamentary oversight. It must be careful as to not create a situation wherein bills are passed without discussion. Given the nature of the governments in the country in the past and in the present, it may not be repentant about a lack of presence, but the end result points to a good deal of irresponsibility.
+
+The government carries a larger share of the responsibility. It needs to ensure that Parliament functions because the people have entrusted them with that task. It must offer a workable solution to the Opposition which should accept it and go back to the House. Parliament must be allowed to function, issues must be debated and laws must be discussed. That’s the least the people expect in a democracy.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-govt-opp-must-allow-parliament-to-function-1977231)
+
+---
+
+### DC Edit | Tough Choices For Hasina
+*Deccan Chronicle · Editorial*
+
+It is a perilous journey that Bangladesh’s former Prime Minister Sheikh Hasina will be undertaking if she chooses to follow up on her desire to return to Bangladesh by the end of the year. She accepts the reality that she may be jailed on her arrival and may even be executed if the death sentence against her is carried out.
+
+India has been a haven for the Bangladeshi leader in the two years since she had to flee home at short notice. Coming here was her choice, which was backed by India considering how good the ties were during her time in office. Leaving to go home would be her choice too, but one loaded with the threat hanging over her freedom and her life itself.
+
+The reaction of the Bangladesh government of Tarique Rahman to her holding a virtual press meet from her protected residence in New Delhi was a dead giveaway about how the former PM is regarded now. “Bangladesh is outraged that the absconding convicted genocider [sic] Sheikh Hasina was allowed to engage in live interaction with the media in New Delhi,” was the caustic message from Dhaka.
+
+Sheikh Hasina was a democratically elected Prime Minister whose political career was forged after cataclysmic events in which her father Sheikh Mujibur Rehman was eliminated along with many members of his family.
+
+She continued her reign later by holding elections from which she excluded the main rival — Bangladesh Nationalist Party.
+
+Condemned as an autocrat, she became the focus of a student movement which avowedly began as a protest against seats reserved for the kin of martyrs. Who sponsored it or manipulated the events quickly thereafter to oust her and put in an adviser in Md Yunus who oversaw a disastrous interregnum before Khaleda Zia’s party returned to power with her son at the helm will remain a mystery.
+
+Given the toxic political rivalries among major parties in the subcontinent and a dreadful history of assassinations or state-sponsored executions of Presidents and Prime Ministers, it is with trepidation that Sheikh Hasina’s intending return to her homeland should be viewed. As a friend of India, we will wish her well if she does decide to go home because of compulsions only she can know of.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-tough-choices-for-hasina-1977242)
+
+---
+
+### Bhopinder Singh | Don’t Misuse The  ‘Prestige’ Of The Military To Further Partisan Politics
+*Deccan Chronicle · Opinion*
+
+In the United States of America, military service commands immense respect. Equally revered, however, is the principle that the Armed Forces must remain above partisan politics. This is why retired veterans are generally expected to separate the symbols of military service -- such as the uniform, medals and insignia -- from political campaigns, debates and party contests. The purpose is not to diminish their rights as citizens, but to preserve a more important democratic compact: that the authority of the armed forces belongs to the Constitution and the nation, not to any political faction or partisan ideology.
+
+This distinction is so deeply embedded in American political culture that some of the country’s most celebrated military figures have warned against weakening it.
+
+Republicans such as John McCain and James Mattis have expressed concern about attempts to blur the boundary between military prestige and partisan politics, particularly when certain political leaders (such as incumbent President Donald Trump) seek to portray senior officers as personal extensions of their own movements. The concern is not about the political opinions of individuals who have served in uniform; it is about preventing the institution itself from appearing to take sides.
+
+India, on the other hand, presents a more complicated picture. The country’s retired military officers enjoy the same democratic freedoms as all other citizens, yet the conventions separating military symbolism from political advocacy are less firmly established. Increasingly, retired officers have appeared in political settings and toxic television debates wearing regimental attire, medals or other visible markers of military identity. Such appearances have triggered a debate over whether the stature earned by military service is being transferred, intentionally or otherwise, into partisan political contests.
+
+The attraction for political actors is fairly obvious. At a time when confidence in many public institutions has been weakened, the armed forces remain among the few national
+
+institutions that command broad public trust. A former officer speaking with the authority and language of the regiment carries the kind of credibility that politicians and other commentators often struggle to match. Military symbolism therefore becomes a powerful political asset -- one that can lend emotional force and moral weight to arguments far removed from matters related to defence and national security.
+
+But this is a risky exchange. The short-term benefits of borrowing military prestige may come at the cost of a longer-term institutional erosion. The strength of a professional military in a democracy lies not only in its battlefield capability but also in its perceived impartiality. Once citizens begin to associate military identity with a particular political position or political party, the institution risks losing the broad-based confidence on which its legitimacy depends.
+
+This does not mean, of course, that veterans should withdraw from public life. On the contrary, their experience in leadership, administration, national security and public service can enrich the democratic debate. They have every right to join political parties, contest elections, campaign for causes and express their personal views. The crucial distinction is that they do so as individual citizens, not as representatives -- real or implied -- of the armed forces on active service.
+
+The concern arises when personal political expression is accompanied by the visual language of the institution itself. A retired officer appearing in regimental gear, displaying service symbols or invoking military identity while advancing a partisan argument, may unintentionally create the impression that the armed forces share that position. That perception, even if incorrect, can be damaging because it weakens the separation between the personal convictions of veterans and the constitutional neutrality of the military.
+
+Military regulations and traditions do recognise circumstances in which veterans may appropriately display their service identity, particularly during ceremonial, commemorative or official occasions. The difficulty emerges when these symbols migrate into overtly partisan environments – such as political rallies, television battles and ideological campaigns, where the uniform risks becoming less a reminder of national service and more a prop in political theatre.
+
+The phenomenon has extended beyond questions of defence policy into wider political controversies. Retired military voices have featured prominently in debates on issues ranging from national security operations to domestic political disputes such as economic policy, religious questions and public protests. The danger is not that veterans participate in these conversations; it is that their military credentials may be used to imply institutional authority in areas where the armed forces themselves have no constitutional role.
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/bhopinder-singh-dont-misuse-the-prestige-of-the-military-to-further-partisan-politics-1977235)
+
+---
+
+### Wasbir Hussain | Time For Diplomatic Reset In Delhi’s Ties With Dhaka
+*Deccan Chronicle · Opinion*
+
+Diplomacy is often conducted through symbolism. A handshake, an invitation, or even the choice of an ambassador can reveal more than official communiqués. Today, India and Bangladesh appear to be communicating through such signals.
+
+New Delhi has chosen veteran politician Dinesh Trivedi, not a career diplomat, as high commissioner to Dhaka, conferring Cabinet rank. Bangladesh, in turn, named serving foreign secretary Asad Alam Siam as envoy to India. These aren’t routine appointments. Both capitals seem to recognise that the relationship has entered dangerous territory and political intervention is urgently needed. And Prime Minister Narendra Modi has invited Bangladesh PM Tarique Rahman to the Brics summit in New Delhi in September, which can provide the right platform to discuss contentious issues.
+
+The slide in bilateral ties began after the dramatic political transition in Bangladesh in August 2024. Since then, mistrust has steadily replaced the warmth of the Sheikh Hasina era. Even after Bangladesh elected a new government under Tarique Rahman, the anticipated reset has remained elusive.
+
+Mr Rahman’s first major diplomatic choices reinforced India’s concerns. By choosing Malaysia for his first foreign trip and China next, while keeping India waiting, Dhaka departed from an established convention of visiting New Delhi early. Every Bangladeshi leader understands such departures are read not merely as scheduling decisions but as strategic messaging.
+
+The message was unmistakable: Bangladesh intends to broaden its strategic options and is no longer ready to be seen operating within India’s political orbit.
+
+And China hardly needs a second invitation. Beijing spent the past decade patiently building influence across South Asia: not through military alliances but through ports, highways, railways, industrial parks, energy projects and generous financing. Bangladesh occupies a pivotal place in this strategy. Sitting astride the Bay of Bengal, bordering India’s vulnerable Northeast, it’s one of the region’s most valuable geopolitical prizes.
+
+For India, the issue extends far beyond bilateral diplomacy. It’s about strategic geography: Nearly every ambitious Northeast connectivity initiative depends on a cooperative Bangladesh. Access to Chittagong and Mongla ports, multimodal transport corridors, rail connectivity, inland waterways and road links can dramatically reduce transport costs for the eight Northeast states. Bangladesh isn’t simply India’s neighbour; it’s the Northeast’s natural gateway to the sea.
+
+If political relations deteriorate, India’s Act East Policy risks becoming an expensive slogan rather than a transformative strategy. One must remember that Prime Minister Modi is bent on making the Act East policy work and succeed.
+
+There are security implications. China has steadily expanded its strategic footprint around India’s periphery: from Pakistan and Sri Lanka to Nepal and Myanmar. Should Bangladesh drift substantially into Beijing’s strategic embrace, India will face a far more complex security environment along its entire eastern frontier.
+
+It’s not that Bangladesh will become a Chinese military ally overnight. Rather, the cumulative effect of deeper Chinese infrastructure investment, digital penetration, telecommunications partnerships, surveillance technologies and defence cooperation could gradually erode India’s traditional strategic advantage in its own neighbourhood.
+
+For the Northeast, this matters enormously. The region already faces challenges due to insurgency, illegal migration, narcotics trafficking, arms smuggling and instability spilling over from Myanmar. Any weakening of India’s strategic understanding with Bangladesh complicates border management and intelligence cooperation while giving external powers greater room to influence developments around one of India’s most sensitive regions.
+
+The Siliguri Corridor (Chicken’s Neck), which links mainland India with the Northeast, is one of India’s most vulnerable choke poimts. A Bangladesh that maintains strategic balance contributes to regional stability. A Bangladesh increasingly aligned with China inevitably raises uncomfortable questions for Indian planners.
+
+This is why New Delhi’s move to send Dinesh Trivedi carries significance. Political relationships can’t always be repaired through diplomatic notes. They require trust, direct access and political credibility. By appointing a senior political figure instead of a career diplomat, India appears to acknowledge that rebuilding confidence with Dhaka is now a political mission.
+
+Bangladesh’s decision to send its serving foreign secretary to New Delhi suggests a similar assessment. Both governments understand that allowing relations to drift further helps neither country.
+
+One obstacle continues to cast a long shadow over bilateral ties: Sheikh Hasina. Her continued presence in India is politically sensitive inside Bangladesh. Whether justified or not, many in the new political...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/wasbir-hussain-time-for-diplomatic-reset-in-delhis-ties-with-dhaka-1977238)
+
+---
+
+### Krishna waters: Legal limbo must end
+*Deccan Herald · Editorial*
+
+For decades, the Upper Krishna Project (UKP) has symbolised Karnataka's commitment to correcting a historic regional imbalance in irrigation. While the southern parts benefited from irrigation works initiated during the reign of the Mysore Maharajas and expanded after Independence, the drought-prone districts of Kalyana Karnataka and Kittur Karnataka have remained heavily dependent on uncertain monsoons.
+
+It is, therefore, ironic that today, the state is losing 5,500 TMC of its allocated share of Krishna waters simply because it cannot store it. The Krishna Water Disputes Tribunal-II allotted Karnataka 907 TMC of water, Maharashtra 666 TMC, and the then undivided Andhra Pradesh 1,005 TMC.
+
+It also permitted Karnataka to raise the Full Reservoir Level of the Almatti dam from 519.6 metres to 524.26 metres, enabling the state to utilise an additional 177 TMC earmarked for irrigation and drinking water projects. However, the Centre has not gazetted the award because of the Supreme Court's stay, leaving the state unable to legally raise the dam height.
+
+Karnataka failed to utilize its share of 5,561 tmcft of water last decade through Upper Krishna project As a result, water that could have transformed parched fields in northern districts continues to flow downstream unutilised. Completion of Phase III of the UKP would bring irrigation to nearly 5.94 lakh hectares (about 14.7 lakh acres) across Vijayapura, Bagalkote, Yadgir, Kalaburagi, Raichur, and Koppal districts. Yet, despite abundant inflows into the Almatti reservoir this monsoon, these benefits remain unrealised. Formally launched in 1964, the project has seen the completion of major structures such as the Almatti dam, Narayanpur dam, and Hipparagi barrage. Even after six decades, however, it remains a work in progress because the crucial third phase is stalled.
+
+Legal hurdles are only one part of the problem. Raising the reservoir level requires the acquisition of about 1.33 lakh acres and the rehabilitation of 20 villages. So far, only around 30,500 acres have been acquired. Delays have sharply escalated costs, with the project estimate swelling beyond Rs 1 lakh crore. Speculative land prices have led to demands for exorbitant compensation, further complicating acquisition.
+
+The state must press for an expedited hearing in the Supreme Court so that the legal uncertainty surrounding the tribunal award is resolved. Simultaneously, it should engage Maharashtra, Telangana, and Andhra Pradesh to address their legitimate concerns over flooding and downstream flows. The state cannot wait indefinitely to complete land acquisition and rehabilitation. Only by pursuing legal, diplomatic, and administrative solutions can Karnataka ensure that its rightful share of Krishna waters irrigates its own fields instead of flowing downstream.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/krishna-waters-legal-limbo-must-end-4102189)
+
+---
+
+### The burden is still on the survivor
+*Deccan Herald · Editorial*
+
+The acquittal of Bharatiya Janata Party (BJP) leader and former Wrestling Federation of India (WFI) chief Brij Bhushan Sharan Singh in a sexual harassment case by a Delhi court raises troubling questions. These questions are familiar, too, especially when the charges are directed against powerful individuals.
+
+In Brij Bhushan’s case, the allegations were made by acclaimed women wrestlers, including Vinesh Phogat and Sakshi Malik, and pertained to sexual harassment and criminal intimidation. The court rejected the charges, stating the evidence was inconclusive and citing inconsistencies in the witness testimonies. About two-thirds of sexual harassment cases in the country do not lead to convictions; the rate drops further when influential persons are arraigned. Brij Bhushan, at the time of being accused, was an MP who held clout in the party and the government.
+
+After the wrestlers went public with the allegations in 2023, it was clear that their bigger fight would be against the establishment. The fact that the Supreme Court had to intervene to get an FIR registered points to the odds the wrestlers were against. A minor wrestler who levelled charges against Brij Bhushan later withdrew her complaint, leading to the scrapping of a case under the POCSO Act.
+
+Delhi court acquits Brij Bhushan Singh, co-accused in wrestlers’ sexual harassment case The wrestlers attracted international attention after they launched an agitation at Jantar Mantar in Delhi. They were dragged away by the police as they headed to Parliament in a march. Some of them considered throwing their medals in the Ganga. Though the Ministry of Sports formed an oversight committee to examine the wrestlers’ charges, its report was never made public.
+
+The women wrestlers have said that they will appeal against the judgment. Vinesh Phogat noted that the wrestlers have not given up their hope for justice. They may keep the fight going, but this is a legal battle that underlines the challenge in confronting individuals holding positions of power. Two recent cases from Kerala – one involving the sexual assault of an actress and the other around a nun’s allegations of rape against a priest – illustrate a troubling pattern where protracted legal processes invariably end up punishing the survivors.
+
+The collapse of such cases in court will deter women from reporting the abuse. The complainants face intimidation and social harassment. Those who raised the charges against Brij Bhushan also had to navigate professional challenges. When the complainant suffers, and the accused prevails, it erodes trust in the state’s capability to protect survivors and dispense certain and timely justice.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/the-burden-is-still-on-the-survivor-4102188)
+
+---
+
+### Blindness towards the bright side
+*Deccan Herald · Opinion*
+
+Once, an acquaintance in government service got transferred to an unglamorous place far from where his son was studying. For the fourth time in a row, he did not get a place of his choice. Instead of raising it with the concerned authorities, he fell into a melancholy, relentlessly rueing his ill fate.
+
+Many of us are prone to harbouring thoughts of victimhood of one kind or the other. Many a time we blame our fate; at other times we slam the system. Sometimes circumstances become our ‘enemy’. We sink ourselves into sulking with the notion that we are victimised by the system, discriminated against by the divinity. The mind of the person who feels victimhood becomes agitated with helplessness. The ‘victim’, displaying self-pity to the hilt, vainly attempts to garner sympathy.
+
+Feelings of victimhood lower your morale and confidence. Instead of facing the challenges boldly, you exacerbate the conditions for yourself. You cannot extricate yourself from the vicious web spun by your own negativity. Your position is further weakened and becomes susceptible to further ‘victimisation’. You become a victim of imaginary victimhood.
+
+Choosing empathy over judgementThe sooner you free yourself from the irrational trap of victimhood, the better. Nobody is immune from difficulties and challenges in life. We have to learn to develop a proper perspective on our circumstances. We must see the brighter side as well. If we stay positive, the outcome will eventually be positive. Let us avoid becoming victims of self-deception.
+
+Starting from weather to politics to food, we fret over everything that does not ‘suit’ us. Complaining and blaming become our second nature. People who complain and blame become prone to sulking and seething. Human nature must be aligned with Nature and with the nature of things. The only thing under our control is how we respond to things which are not under our control. The direction of our lives is determined more by our response to than by circumstances. In the US, they say, ‘there is no bad weather, only bad clothing’.
+
+Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
+
+[Read full article](https://www.deccanherald.com/opinion/blindness-towards-the-bright-side-4102180)
+
+---
+
+### Europe’s fate lost to wars, wildfire and migration
+*Deccan Herald · Opinion*
+
+By Michael D Shear for The New York Times
+
+Once again in recent days, Europe has seemed to be watching from the sidelines as its destiny is shaped by outside forces.
+
+Would President Donald Trump choose to restart a massive war with Iran and drive up the cost of oil? Would global warming drive wider and worse wildfires, even as several already raged across the continent? Would a sudden, unexplained surge of people across the Moroccan border into a Spanish exclave — almost all of whom were immediately sent back — divide the bloc’s leaders and fuel the far right?
+
+It has already been a brutal summer for Europe: two wars, record heat, rising inflation and deep anxiety about food, energy and security. The back-to-back crises are prompting calls for joint action, urgent Zoom meetings between different groups of presidents and prime ministers, and political hand-wringing in parliaments from Poland to the United Kingdom.
+
+But like so much else that has happened in the past several years, many of Europe’s challenges are out of its control.
+
+The Iran war — a conflict that most of Europe never wanted — has disrupted life across the region, driving up the price of gas, groceries and travel. The continent’s leaders have pledged to help secure the passage of oil through the Strait of Hormuz once the fighting ends. And yet, they seem destined to hear about the next stage of the war from Trump’s social media feed.
+
+Europe has been unable to resolve the war in Ukraine after more than four years of bloodshed. Its achievements in cutting emissions to combat climate change are overshadowed by the actions of the United States and China. The future of artificial intelligence is being shaped largely elsewhere. Right-wing populism has risen, fueled by migration, inequality and misinformation.
+
+Spain, Morocco try to halt deadly rush on Spanish enclave after tens of thousands cross in a day “No matter how you look at it, measure it, this is a difficult, unsettling time for Europe,” said Richard Haass, who served for two decades as the president of the Council on Foreign Relations. He said Europe is partly a victim of circumstance, but also is responsible for its lack of authority over its own fate.
+
+“It’s not just that they’ve under-spent, but they’ve underorganized themselves when it comes to their own security,” he said. “It’s essentially a bystander, with few exceptions, to the AI competition. That’s not something that was done to Europe by the United States or China. That was something that was done by Europe to itself.”
+
+On many fronts, Europe has acted.
+
+When Russia invaded Ukraine more than four years ago, Europe and Britain immediately took steps to support Ukraine, including sending billions of dollars in aid, sanctioning Russia and welcoming millions of Ukrainian refugees into their countries through special programs.
+
+After Trump reentered the White House in 2025 and signalled a warmer stance toward President Vladimir Putin, Britain, France, Germany and other European nations formed the “Coalition of the Willing” to try to protect Ukraine’s interests in any peace deal, and worked behind closed doors to reconcile the Ukrainian and American presidents. Those efforts helped prevent Putin from cutting a deal with Trump at Ukraine’s expense.
+
+But while the coalition has repeatedly stated that “no arrangements regarding European interests and security can be negotiated without Europeans,” that has proved difficult to enforce. Time and again, Trump has sidelined America’s allies in favour of direct — and largely fruitless — talks with either Russia or Ukraine.
+
+“For years, European leaders have spoken about strategic autonomy and Europe’s emergence as a serious security actor,” Lesia Ogryzko, the director of the Sahaidachnyi Security Centre in Kyiv, Ukraine, wrote for the Atlantic Council. “The coming months may provide the clearest test yet of whether those ambitions are realistic.”
+
+They have had less influence over the U.S.-Israeli war against Iran, even though its effects are felt keenly across the continent. Europe’s vocal opposition to Trump’s decision to go to war enraged the American leader and soured trans-Atlantic relations.
+
+In April, partly as an effort to repair relations with Trump, Britain and France announced an effort to organise a military operation that could help protect free and open travel through the Strait of Hormuz once a lasting ceasefire was agreed to. But the on-again, off-again fighting between the United States and Iran has made it too dangerous for the operation to begin. Diplomats from several European countries said the possibility that they will send military ships to help remove mines from the strait or escort tankers is essentially on hold until it becomes clear whether the war is truly on pause.
+
+Trump has threatened in recent days to dramatically escalate strikes on Iran if the regime does not agree to open the strait. On Tuesday, the president told Fox News that Iran would be “hit very hard” if the crucial waterway was not opened very soon.
+
+Even as the Iran crisis has continued, wildfires have been raging across Europe, where swaths of bright red on the weather maps indicated the unprecedented heat waves that have become increasingly frequent.
+
+For most of the past two decades, European countries have mostly been in agreement about the dangers posed by climate change and have acted to cut emissions and invest in renewable energy. But since Trump’s arrival in the United States, they have been at odds with one of the world’s largest polluters, making their efforts to confront the changing climate more difficult.
+
+Now, it is clear that countries in the region are facing the consequences of global warming, with average temperatures rising faster than on any other continent. Britons are living through the driest July in nearly two centuries. Fires have displaced more than 300,000 people in France and Spain. In Greece, firefighters died battling blazes that are yet to be fully controlled.
+
+The surge last week of tens of thousands of people into Ceuta, a tiny Spanish territory on the North African coast, raised the possibility of a new crisis that is testing European unity on one of the region’s most potent political issues.
+
+Pedro Sánchez, Spain’s left-wing prime minister, has become famous for his welcoming approach to some migrants, particularly workers from Latin America. But he has taken a tougher approach with people attempting to illegally cross Spain’s borders with Morocco. He quickly cracked down on arrivals in Ceuta with his country’s military, and most were sent back over the weekend. A floating barrier is being set up near a sea wall between the two countries.
+
+The incident exposed tensions within the European Union that have grown deeper in recent years, as far-right parties including the Alternative for Germany and France’s National Rally have seized on fear of migrants as a way to energise political supporters. Almost two dozen EU countries lashed out at Spain in the hours after the migrants arrived in Ceuta, with some calling for suspending the country from the bloc’s free-movement zone. Sánchez responded by calling those nations “selfish.”
+
+Some analysts noted that the lack of solidarity with Spain at a time when it faced an external threat was an indication of the difficulty that the continent has in projecting authority on the global stage.
+
+Haass said he thinks the lack of unity underscores the fundamental problem for Europe as it seeks to shape its future.
+
+“The whole,” he said, “is much less than the sum of its parts.”
+
+Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
+
+[Read full article](https://www.deccanherald.com/opinion/europes-fate-lost-to-wars-wildfire-and-migration-4102340)
+
+---
+
+### Tackling male proxy politics
+*Deccan Herald · Opinion*
+
+Today’s electoral conversations are dominated by the female vote, governance by welfare schemes for women, and legislation by the women’s quota. Let the reader not mistake this for women’s dominance; a long and protracted process has brought matters to this pass. While it is a fact that tremendous gains have been made in women’s health and education in the last eight decades, the country still flounders under the superstructure of gender imbalance.
+
+There is a cavernous gap in women’s representation in the states’ and Union legislative, executive and judiciary, barely touching 15-20 per cent. An eagerly awaited and long overdue step to remedy political under-representation was the 106th Constitutional Amendment of 2023, the Nari Shakti Vandan Adhiniyam. It reserved 33per cent of constituencies in state and general elections for women, with rotation. This followed the landmark Panchayati Raj Act (73rd Constitutional Amendment Act, 1992) that established the third tier of governance. With its 33 per cent reservation, the 73rd Amendment paved the way for the entry of women into grassroots, elected administration.
+
+Beyond quota, the missing feminine in Indian politics However, even after three decades, and the climb of literacy and urbanisation, the patriarchal superstructure hasn’t quite acquiesced to legislated gender representation. The plague of ‘male proxies’ haunts Panchayats and municipalities across India, although its prevalence has seen some reduction over the years. The unstated fear is as follows. When the 106th Amendment is actualised, and the swell of women reaches the legislatures, will the illegitimate and habituated usurpation of women’s political space spill over to the higher tiers? This fear is real, since time-tested methods of “training” women and “sensitising” men at the local self-government levels have not been sufficiently effective in redressing this malaise.
+
+This is because the root cause assessment is partially flawed. The pith of the issue is that elected women are proxied, not by strangers, but by their own male kin. Intrusion into their profession by male relatives, therefore, cannot be resisted without tension spilling over to their personal lives. Elected women’s professional assertion incurs the risk of family alienation, and jeopardy to their entire ‘domestic complex’. Indeed, male relatives indulge in the violation by exploiting this very aspect of patriarchal society: women’s subordinate domestic status. They trap her in a vice between the domestic contract and the elected role. What is unfortunate, but typical in male-dominated societies, is that administrative functionaries witnessing this power-mongering, even recipients of ‘sensitisation’ training, do not act to suppress proxies, though it is not a kinship matter for them.
+
+‘Proxy’ is a deleterious euphemism for the usurpation of public office. It is also viewed mainly as detrimental to the elected individual herself, when the bigger offence is against the public office, through impersonation. This is salient because assuming the role of an elected or unelected public officer is a cognisable, non-bailable offence under BNS Section 204 (IPC, Section 170), a serious crime. Given the statutory nature of this transgression, the onus of reporting and acting upon it lies both with the state and the citizenry, and not just the representative herself. This also makes the cavalier attitude of administrative functionaries an abetment to the offence.
+
+With this ammunition in place, governments of the states and the Union must execute a paradigm shift in handling male interloping on elected women’s territories. They can do this by —
+
+1. Enjoining the police to enforce BNS Section 204 on impersonators, upon receiving public complaints.
+
+2. Issuing government orders and regulations to Panchayats as elected bodies, and unelected government functionaries, mandating the registration of complaints against impersonators of elected women’s offices.
+
+3. Providing physical, informational, and cautionary paraphernalia, and complaint registration mechanisms at Panchayat offices and Panchayati Raj departments at village, taluk, and district levels.
+
+4. Mounting a public awareness campaign to encourage citizens to report impersonation with videographic evidence.
+
+Thus far, the inaction of law enforcement, the dereliction of government employees, and the frustrated surrender of the public have provided institutional safe-harbour for power-mongering. What is proposed here is a transposition that drives the offender to his reckoning. He is not a proxy for his wife, or sister, or daughter; rather, he is a non-bailable, criminal impersonator of public office. Such statutory intervention, in addition to curbing malpractice through penal action, also induces a crucial psychological deterrent — fear of reprisal — in aspiring impersonators. An assertive approach such as this could go much further in unshackling female elected representation from male insurgents.
+
+Given the cancerous nature of ‘proxying’ on representative democracy, it is imperative that governments act posthaste. Instead, the old habit of laying the consequences of the male-kin’s criminal offence at the elected female’s doorstep makes her the target of both the rifle’s shot and its recoil.
+
+(The writer is a Bengaluru-based policy consultant)
+
+Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
+
+[Read full article](https://www.deccanherald.com/opinion/tackling-male-proxy-politics-4102175)
+
+---
 
 ## 6 August 2026
 
