@@ -1,3 +1,265 @@
+## 7 August 2026
+
+### 'Sir, I Have A Life Outside Office': Gen-Z Interviewee Refuses Weekend Work And Still Gets Hired
+*Nikhil Singh · general*
+
+At a time when big personalities from India's corporations are advocating for ever longer working hours, a genZ applicant refused to work on weekends during interview and got hired
+
+[Read full article](https://www.news18.com/india/sir-i-have-a-life-outside-office-gen-z-interviewee-refuses-weekend-work-and-still-gets-hired-ws-l-10258187.html)
+
+---
+
+### Psychology says people who never skip breakfast on weekends may rely more on routines than they realize, and research explains why
+*Maitreyee Thakkar · world*
+
+Synopsis
+
+Many people break weekday schedules on weekends, while some maintain consistent breakfast times. Breakfast choices are often driven by routine and practicality, not conscious decisions. Maintaining predictable eating patterns reinforces the body's internal clock and daily rhythms. These consistent habits become automatic responses to familiar morning cues. This regularity suggests a broader pattern of stable daily routines for individuals.
+
+​**What psychology really says about people who never skip weekend breakfast (AI generated image)**​  
+
+You wake up on a lazy Sunday. Do you still reach for breakfast at the same time? For many people, weekends are a chance to break away from weekday schedules. Alarm clocks are switched off, meals happen later, and routines become more flexible. But not everyone changes their habits.
+
+Some people still wake up, make breakfast, and eat it at nearly the same time every Saturday and Sunday. It may seem like a small preference, but psychologists and nutrition researchers say this kind of consistency could reflect something deeper: the powerful role that routines and habits play in everyday life.
+
+  
+
+## **Why breakfast is one of our most habit-driven meals**
+
+Among all meals of the day, breakfast appears to be the one people are most likely to eat out of habit rather than conscious decision-making.
+
+A 2022 study by Romain Cadario and Carey K Morewedge examined eating patterns in more than 4,400 adults. The researchers found that breakfast choices were driven more by routine and practicality than lunch or dinner. Participants frequently ate the same foods and followed similar morning eating patterns because breakfast typically happens under time constraints before work or school.
+
+The study concluded that breakfast is often guided by utilitarian goals and habitual repetition. People rely on established routines instead of making new food decisions every morning. In other words, if you find yourself preparing the same breakfast every weekend without giving it much thought, you're probably following a deeply ingrained habit rather than making a fresh decision each day.
+
+  
+
+## **What your weekend breakfast says about your routine**
+
+Weekends tend to disrupt everyday schedules. People often sleep in, stay up later, and eat meals at different times. A 2025 study by Ashima K. Kant and colleagues analyzed national dietary data from thousands of American adults.
+
+The researchers found that most participants delayed breakfast on weekends compared with weekdays, a pattern consistent with social jet lag, where weekend schedules drift away from weekday routines.
+
+However, not everyone followed this pattern. Some participants maintained nearly identical breakfast timing throughout the week, suggesting a much more stable daily schedule.
+
+Researchers note that consistent meal timing is considered one indicator of regular behavioral routines and may help reinforce the body's circadian rhythm, the body’s internal clock.
+
+Rather than simply being "breakfast lovers," these individuals may also be maintaining a broader pattern of regular daily habits.
+
+## **The psychology behind eating breakfast at the same time**
+
+For years, scientists have debated whether eating breakfast itself is essential. Increasingly, researchers argue that consistency may be just as important. People who consistently eat breakfast every day, and even those who consistently skip it, show more regular eating patterns than individuals who frequently switch between eating and skipping breakfast.
+
+Researchers suggest that maintaining predictable eating behaviors may contribute to overall dietary regularity, regardless of breakfast preference itself.
+
+This reinforces an important psychological principle: humans tend to thrive on predictable routines, and regular eating schedules are one way those routines become established.
+
+## **What psychology really says about people who never skip weekend breakfast**
+
+People who maintain the same breakfast routine on weekends may not simply be disciplined. According to habit researchers, repeated behaviors eventually become automatic responses to familiar cues such as waking up or entering the kitchen. At that point, breakfast requires little conscious planning, making the behavior easier to maintain even when weekday obligations disappear.
+
+So if you find yourself eating breakfast at nearly the same time every weekend, it doesn't necessarily mean you're unusually disciplined. More likely, your brain has built a routine that runs almost automatically.
+
+---
+
+### OpenAI’s first AI device may be a $300 doughnut-shaped smart speaker: Report
+*Tech Desk · legal*
+
+OpenAI is reportedly developing its first AI-powered device, a doughnut-shaped smart speaker with cameras and sensors, priced between $300 and $400.
+
+[Read full article](https://indianexpress.com/article/technology/artificial-intelligence/openais-first-ai-device-may-be-a-300-doughnut-shaped-smart-speaker-report-10821705/)
+
+---
+
+### Insurance claim sparks murder probe, ex-serviceman's body exhumed, wife under lens
+*Sagay Raj · general*
+
+## Investigators have said Sandeep Manjarik had met with a road accident while returning from a temple fair earlier this year. He was hospitalised for treatment but later died under circumstances that his family has described as suspicious.
+
+The police have launched a probe after Sandeep Manjari family said that he might have been murdered for a Rs 2 crore insurance claim.
+
+The death of a former serviceman in Karnataka's Belagavi district has come under the scanner as police investigate allegations that he was murdered as part of a conspiracy by his wife to claim a Rs 2 crore insurance payout.
+
+Police on Friday exhumed the body of 45-year-old Sandeep Manjarik, nearly three months after his death, following the claims made by his family.
+
+According to investigators, Sandeep had met with a road accident while returning from a temple fair earlier this year.
+
+He was admitted to a private hospital for treatment but later died under circumstances that his family has described as suspicious.
+
+The probe took a dramatic turn after Sandeep's relatives accused his widow, Suma Manjari, and her alleged lover, Pundalik Dombar, conspired to kill him.
+
+Police are investigating claims that poison was allegedly administered through a glucose drip while Sandeep was undergoing treatment at the hospital.
+
+The allegations gained further momentum after Pundalik released a selfie video in which he claimed that Suma had spoken to him about her husband's Rs 2 crore insurance policy and said they could settle in Belagavi after receiving the insurance money.
+
+He also claimed that she had asked him to procure pesticide before Sandeep's death.
+
+Acting on the family's complaint and the emerging allegations, police exhumed Sandeep's body.
+
+Samples and other remains have been sent to the Forensic Science Laboratory (FSL) for a fresh probe.
+
+Police have questioned both Suma Manjari and Pundalik Dombar as part of the investigation.
+
+Officials said further action will be taken after the forensic examination report is received.
+
+\- Ends
+
+Karishma Saurabh Kalita
+
+Aug 7, 2026 08:29 IST
+
+---
+
+### Ex-Syndicate Bank chief rejected higher pay for Rs 960 Tata job in 1977, shares why
+*India Today Trending Desk · general*
+
+## Ajay Nanavati, former chairman of Syndicate Bank, recalled returning to India after studying chemical engineering in the US and accepting a job at Tata despite a monthly salary of just Rs 960.
+
+Ex-Syndicate Bank chief rejected higher pay for Rs 960 Tata job in 1977 (Photos: Ajay Nanavati/LinkedIn)
+
+Ajay Nanavati, former chairman of Syndicate Bank, has reignited the age-old debate over whether young professionals should prioritise learning or salary in the early years of their careers after sharing his first appointment letter from 1977.
+
+In the LinkedIn post accompanying a picture of the letter, Nanavati recalled returning to India after studying chemical engineering in the US and accepting a job at Tata despite a monthly salary of just Rs 960.
+
+His father, who was then the managing director of a multinational company and had spent heavily on his education, was initially taken aback by the figure but still encouraged him to take the offer.
+
+"I'd thought I was cat’s whiskers and companies would be falling all over themselves to hire me," Nanavati said, admitting that he had better-paying offers at the time. However, he chose Tata because the opportunity to work at Bombay House mattered more than the pay gap.
+
+Looking back, Nanavati described it as "probably the smartest career decision" he ever made, arguing that "compensation follows competence far more often than the other way around."
+
+Drawing a comparison with today's hiring landscape, Nanavati said many young professionals now view investment banking, consulting and private equity through the lens of compensation first. His advice, however, remains unchanged: "In the early years of your career, optimise for learning, not earning."
+
+He encouraged young professionals to build deep domain expertise, work with exceptional leaders, seek challenging environments and develop sound judgment and credibility before chasing higher salaries.
+
+Take a look at the post here:
+
+An active discussion is what followed in the comments section as several professionals shared their own career journeys.
+
+Several agreed with Nanavati's philosophy, as one professional said curiosity, learning, organisational culture, purpose and values remain more important than maximising compensation, even for experienced employees, adding that both health and wealth compound over time.
+
+Others argued that learning and earning should not be viewed as mutually exclusive. A user said prioritising learning makes sense if financial circumstances allow it, as the first decade of a career shapes technical expertise, decision-making, professional networks and problem-solving skills that continue to pay dividends later.
+
+In their view, the ideal role combines fair compensation with a steep learning curve, making long-term professional growth more valuable than a larger first paycheck.
+
+Many also shared stories of modest beginnings. One recalled graduating first among more than 5,000 students from Calcutta University in 1980 before joining Price Waterhouse in Kolkata as an audit assistant for just Rs 60 a month, with parents covering daily lunch expenses because entry-level chartered accountancy salaries were so low.
+
+Not everyone agreed that Nanavati's salary was unusually small for its time. A chemical engineering graduate from IIT Bombay pointed out that the typical starting salary for their 1985 graduating batch was around Rs 1,500, suggesting Rs 960 in 1977 may not have been exceptionally low.
+
+Others felt career priorities have changed across generations. While broadly agreeing with Ajay Nanavati’s advice, a user observed that many young professionals today are less focused on spending decades with a single employer.
+
+Instead, they tend to weigh compensation, work-life balance and time off alongside opportunities for skill development, arguing that perspectives from professionals in their 20s and 30s may differ significantly from those of older generations.
+
+\- Ends
+
+Aug 7, 2026 08:27 IST
+
+---
+
+### Trump plan to scrap Head Start rules sparks fears for vulnerable children
+*India Today World Desk · general*
+
+## The Trump administration has proposed stripping most federal rules from Head Start. Supporters call it flexibility, but critics say it could weaken services for vulnerable children.
+
+Image used for representational purposes only
+
+The Donald Trump administration has proposed a sweeping overhaul of Head Start, the US government's early education programme for poor children, removing many of the rules that have long defined it. Officials say the move will give local centres more flexibility, but advocates and former programme leaders warn it could weaken a scheme that serves about 700,000 vulnerable children, including those who are homeless, in foster care or disabled.
+
+The proposal, posted online on Thursday, opens a 60-day public comment period before it can take effect, though legal challenges could delay it. The Department of Health and Human Services, which oversees the federally funded preschool programme, says the changes are aimed at cutting costs and expanding access. Critics say the plan strips away key safeguards and support services that make Head Start different from other childcare programmes.
+
+Alex J. Adams, an assistant secretary at Health and Human Services, said the department wants to give Head Start centres more freedom by removing most of the programme's regulations, including rules on low staff-to-student ratios. "Federal mandates can certainly hinder local decision-making, drive up costs and limit the program's reach," Adams said on a call with reporters.
+
+Health Secretary Robert F. Kennedy praised Head Start, which was started by his uncle Sargent Shriver under President Lyndon B. Johnson. "It's a program that works for the most vulnerable of the poorest kids in our society, and it's really important we protect it," Kennedy said. But Khari Garvin, who oversaw Head Start under former President Joe Biden, said the proposal would hollow out the scheme. "This version of Head Start is a shell of the program," Garvin said. "This is a deeply diluted version of the program, which, in my view, will cause child and community outcomes to wane."
+
+Head Start is currently governed by more than 100 pages of regulations covering matters such as staff-to-student ratios, curriculum and services for children in poverty, including medical and dental screenings. The Trump administration wants to remove nearly all of that rule book, erasing about 1,400 regulations. Under the proposal, operators such as non-profits and school districts would instead follow state and local childcare licensing requirements, including on child safety and class sizes. The changes would also remove detailed requirements on preventing lead exposure in Head Start facilities.
+
+Several other parts of the programme would also go. Rules requiring staff to work with parents on setting and meeting goals would be scrapped. Deadlines for health and developmental screenings would be removed. So would the rule requiring children to brush their teeth at school. Parents and advocates say these wider services are central to Head Start's impact. Lori Pittman, an advocate from Washington state, said her family was in crisis when she enrolled her son, while her husband was struggling with substance abuse. She said Head Start encouraged her to return to school and later employed her. "I was given the opportunity, while my child was in Head Start, to learn about leadership, to go back to school," Pittman said. "I know Head Start works."
+
+Conservatives welcomed the proposal. Jonathan Butcher of the Heritage Foundation said: "If the goal here is to make it more efficient for taxpayers, then the type of regulatory changes they're thinking of here are good steps." Adams said centres could still choose to operate in the same way as before even if the rules are loosened. He said deregulation could save more than USD 2 billion, which could be put back into the programme to create more than 200,000 new places. The administration said those savings would come partly from reducing staff, including teachers, and allowing class sizes to increase.
+
+Head Start advocates questioned whether the proposal would actually help expand the programme. Enrolment has been falling for a decade, partly because rising costs have outpaced federal funding, forcing centres to serve fewer children. Staff shortages have also added to the problem, and advocates say those shortages are unlikely to ease if teachers are asked to supervise more students. They also fear financial pressure could push programmes to drop services that would become optional. "They're saying they're going to serve all these other kids," said Jenny Mauer, head of the Wisconsin Head Start Association. "What are you going to lose to do that, to serve more children without more money?"
+
+Alongside the deregulation, the proposal includes some new requirements. Staff would have to deliver all instruction in English, except in tribal communities running immersion programmes in native languages. Administrative expenses would be capped at 5 per cent, down from 15 per cent. The plan would also require 30 minutes of physical activity for every three and a half hours of the programme, outdoors if the weather allows. New nutrition rules backed by Kennedy would require more education for families, including warnings about "the negative health consequences of sugar-sweetened beverages and grain-based desserts".
+
+Experts say state childcare licensing rules are much less strict than current Head Start standards and are mainly designed to ensure children's health and safety. They generally do not require medical screenings, specify how parents should be engaged, or set out what should be taught. Shantel Meek, who leads the Children's Equity Project at Arizona State University and co-authored an analysis comparing state licensing rules with Head Start standards, said the differences were wide. "Whereas licensing is, like, the bare minimum to keep kids safe, Head Start includes keeping kids safe but also ensuring that kids are developing, growing, learning well," Meek said. "It's a totally different purpose."
+
+Meek's analysis found that if the proposal is implemented, about 80 per cent of Head Start students would face worse staff-to-student ratios. In Mississippi, for example, a Head Start teacher can currently teach up to four two-year-olds, while state childcare rules would allow one adult to supervise up to 12 children of that age. Head Start, which operates in all 50 states, has traditionally enjoyed support from both Democrats and Republicans, but it has faced repeated pressure under the Trump administration. Earlier in 2025, some centres briefly shut after problems accessing federal funds, and a later budget draft removed Head Start funding before it was restored following a backlash. Overall, the proposed rewrite would replace many long-standing national standards with local rules, a shift the administration says will widen access but critics say could transform the programme's character.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Aug 7, 2026 08:20 IST
+
+---
+
+### Rahul Gandhi's UP event gets clearance. But there are conditions
+*India Today News Desk · general*
+
+## The conditional clearance for Rahul Gandhi's student interaction came after the Congress accused the Uttar Pradesh government of using administrative pressure to prevent the programme.
+
+UP Congress claimed the administration was intimidating the venue provider into cancelling the event.
+
+A day after the Kayastha Pathshala (KP) Trust revoked permission for Congress leader Rahul Gandhi's proposed 'Chhatron Ki Goonj' programme at KP Ground in Uttar Pradesh's Prayagraj, the trust late Thursday allowed the event to go ahead, subject to certain conditions.
+
+The decision came amid a political row, with the Congress accusing the UP government of attempting to derail the August 8 event by pressuring the venue provider to withdraw permission.
+
+Acting president of the KP Trust, Jitendra Nath Chaudhary, told PTI that the organisers had been granted permission after consultations with legal experts. The conditions include ensuring that teaching and academic activities at KP College are not disrupted.
+
+"After consulting advocates of the high court, the organisers have been granted permission to hold the programme subject to certain conditions. These include ensuring that teaching and academic activities at the college are not disrupted, and obtaining permission from the district magistrate," he said.
+
+The trust had on Wednesday withdrawn its earlier approval for the event, citing an Allahabad High Court order dated August 14, 2025, which restricts the use of the KP College ground to sports and educational activities.
+
+It had also cited waterlogging at the venue following recent rains.
+
+Earlier on Thursday, Congress leaders alleged that the BJP-led Uttar Pradesh government was trying to prevent the programme from taking place because Rahul Gandhi has been consistently raising issues concerning students through the 'Chhatron Ki Goonj' campaign.
+
+Addressing a joint press conference in Delhi, Uttar Pradesh Congress in-charge Rajendra Pal Gautam, along with MPs Kishori Lal Sharma, Tanuj Punia and Imran Masood, claimed the administration was intimidating the venue provider into cancelling the event.
+
+Gautam asserted that lakhs of students had registered for the interaction and maintained that the programme would be held as scheduled.
+
+"Lakhs of students have registered for this interactive event, and students across the country are eagerly awaiting it. The event will be held at the scheduled venue," Gautam asserted.
+
+In Prayagraj, Uttar Pradesh Congress president Ajay Rai also reiterated that the party would go ahead with Gandhi's interaction despite the earlier revocation of permission.
+
+According to Gandhi's itinerary shared by Rai, the Leader of Opposition in the Lok Sabha will leave Delhi by a special flight at 2 pm on August 8, reach Prayagraj around 3.30 pm, visit Anand Bhavan and then attend the student interaction at KP Ground from 6 pm to 8.30 pm before returning to Delhi later that night.
+
+Accusing the BJP government of misusing the law for political purposes, Gautam said the Congress was organising the event in accordance with all legal requirements and urged the Uttar Pradesh government and the Prayagraj administration not to obstruct it.
+
+Congress MP Tanuj Punia alleged that the BJP was trying to stop the programme because it feared growing support for Gandhi among young people, adding that the party would continue to raise issues affecting students.
+
+\- Ends
+
+India Today Web Desk
+
+Aug 7, 2026 08:15 IST
+
+---
+
+### World Handloom Day today, 4 artisans demonstrate traditional weaving techniques at Pragati Maidan
+*Anusree K C · legal*
+
+Assam artisan Mitali Baruah is demonstrating the traditional loin loom at the 'Know Your Weaves' exhibition in Pragati Maidan ahead of World Handloom Day.
+
+[Read full article](https://indianexpress.com/article/cities/delhi/world-handloom-day-assam-artisan-loin-loom-pragati-maidan-10821675/)
+
+---
+
+### CJP announces leadership line-up: Abhijeet Dipke takes charge as convener, check who gets what post
+*Lairenlakpam Warli · regional*
+
+The announcement followed a two-day meeting of the CJP core team, where the party also named chief spokesperson Saurav Das and spokesperson Ashutosh Ranka as co-conveners
+
+NEW DELHI: The Cockroach Janta Party (CJP) has announced its National Working Committee as part of efforts to strengthen its organisational framework, with founder Abhijeet Dipke appointed as the National Convener.The announcement followed a two-day meeting of the CJP core team, where the party also named chief spokesperson Saurav Das and spokesperson Ashutosh Ranka as Co-Conveners, along with assigning responsibilities to other key members.The newly formed committee will oversee the party’s expansion strategy, including the formation of state coordination committees, Lok Sabha-level units, and city-level teams across the country in the next six months, the CJP said.
+
+Who Gets What: CJP's National Working Committee Line-UpAbhijeet Dipke (30) — Founder & National ConvenerSaurav Das (27) — Co-ConvenerAshutosh Ranka (30) — Co-ConvenerAjinkya Shinde (35) — National Organisation In-ChargeDeepak Baliyan (26) — Organisation Co-In-Charge & North Zone LeadAafreen Nawaz (34) — National SecretaryRatna Singh (31) — Legal Affairs LeadVaishnavi Gaur (29) — Research & Policy LeadRohan Deshpande (31) — Technology LeadVijay Reddi Mallangi (30) — Media LeadYogesh Ingale (33) — Finance & West Zone LeadAnkit Bhardwaj (35) — East & North East Zone LeadCJP's Expansion RoadmapCJP said it will launch a membership drive through its website, inviting students, young professionals and workers to join the organisation.
+
+The outfit clarified that it is not collecting any funds as part of the membership campaign.The organisation also reiterated that it has no immediate plans to enter electoral politics. "Adding one more political party will not be useful at this time. We will work at the grassroots level," CJP spokesperson Saurav Das said."We are launching a membership drive through our website. Students, young professionals and workers can join us to raise their voices unitedly, " Saurav Das told PTI.Meanwhile, CJP co-convener Ashutosh Ranka said a delegation will visit student protesters in Jharkhand, where an agitation over alleged recruitment exam irregularities has entered its 13th day. Six demonstrators are currently on hunger strike.
+
+
+---
+
 ## 6 August 2026
 
 ### ‘People are crying for Sheikh Hasina to return’: Bangladesh rights leader Siddiqui
