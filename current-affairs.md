@@ -1,3 +1,234 @@
+## 8 August 2026
+
+### Taipei says China's traffic control order for Taiwan Strait during typhoon is 'ridiculous'
+*Reuters · world*
+
+Taipei: China's attempt to implement traffic control measures on shipping heading into the Taiwan Strait during Typhoon Dolphin is "ridiculous", Taipei said, adding that Beijing has no right to restrict access to international waters.
+
+China, which views democratically governed Taiwan as its own territory, also claims the strategic strait through which billions ‌of dollars ⁠of trade ⁠flow every year - a claim both Taipei and Washington reject.
+
+On Wednesday, Chinese state ​media said that due to the approach of the typhoon, starting from Thursday night, ​ships heading north through the southern entrance of the Taiwan Strait must heed traffic control measures.
+
+  
+
+All vessels must comply with requirements, choose safe ​waters to shelter from the storm, and ⁠follow the ‌instructions of on-site maritime management authorities to ensure safety ​at sea, ​it said.
+
+"The unreasonable and crude statement by the ⁠relevant Chinese Communist departments reflects an ignorance, disregard, and ​trampling of international order and norms. It is ​utterly ridiculous!" Taiwan's Mainland Affairs Council said in a statement late Friday.
+
+"Taiwan's own affairs need no meddling from the Chinese Communists," it added.
+
+In a separate statement released at the same time, Taiwan's Coast Guard said it had not detected any "abnormal movements" by Chinese vessels, nor ‌had any shipping companies reported being subjected to "broadcast interference".
+
+Merchant and cargo ships transiting the area should disregard any Chinese ​broadcast demands ​they may receive, ⁠and immediately report such incidents, the Coast Guard added, saying it would take all necessary measures to ensure freedom and safety of navigation.
+
+The typhoon ​is tracking to the north of Taiwan and is expected to make landfall on China's east coast late Saturday or early Sunday.
+
+China's military operates in the strait on an almost daily basis.
+
+Taiwan's government rejects Beijing's sovereignty claims, saying only the island's people can decide their future.
+
+---
+
+### Saudi military says Houthi attacks left 11 civilians, including child, injured near Yemen border
+*SECTIONS Saudi military says Houthi attacks left · world*
+
+Cairo: More than 10 civilians, including a 4-year-old child, were injured in Saudi Arabia on Thursday after a series of attacks by Yemen's Houthi rebels, according to the Saudi military.
+
+The attacks, which took place in the southern region of Najran, near the Yemeni border, came hours after the Iran-backed rebels claimed responsibility for another series of strikes in central and eastern Yemen that killed at least 30 government troops and wounded at least 50 others.
+
+  
+
+A Houthi leader said Saudi-backed troops were targeted in the attacks and that "hundreds" were either killed or injured. The assaults hit camps for forces of the internationally recognised government in the provinces of Marib and Hadramout, the Yemeni officials said. They spoke on condition of anonymity because they were not authorised to speak to the media.
+
+Turki al-Malki, a spokesman for the Saudi military, said the later attack wounded seven Saudi nationals, one Yemeni, two Egyptians and one Pakistani expat. The Houthis did not release any statement.
+
+"The terrorist Houthi militia carried out these terrorist attacks using indiscriminate shelling against civilian objects, which is a flagrant violation of the Customary International Humanitarian Law through deliberate targeting of civilians and civilian objects," al-Malki said in a post on X.
+
+The back-to-back attacks mark the latest major escalation since a de facto truce in Yemen in April 2022 that halted major fighting between the Houthis and a Saudi-led coalition, which backs the internationally recognised government.
+
+Yemen's army reported publicly only that the Houthi attacks on its camps had left dead and wounded among its troops, but it didn't give a death toll.
+
+Houthi Brig. Gen. Yahya Saree said the attacks on camps in Marib and Hadramout provinces were carried out with ballistic missiles and drones and that they were in response to a build-up of Saudi-backed forces in eastern Yemen.
+
+The strikes killed and injured "hundreds of Saudi enemy mercenaries" and destroyed and burned camps, depots, military vehicles and weapons, the Houthi leader said.
+
+"We call upon all our people to remain vigilant and confront any Saudi aggression, and to strike Saudi troop concentrations wherever they may be," Saree said in his address.
+
+The US mission to Yemen expressed condolences to the families of the killed Yemeni soldiers in Hadramout and Marib, adding in a statement on X that the attacks by the Houthis "represent yet another example of their terrorism against the Yemeni people."
+
+Yemen has been embroiled in a civil war since 2014, when the Houthis seized the capital of Sanaa, forcing the internationally recognized government into exile in Saudi Arabia.
+
+A Saudi-led coalition intervened months later and has been battling the rebels since 2015 to try and restore the internationally recognized government to power. However, the war has turned into a stalemated proxy conflict with neither side winning.
+
+The Houthis claim that their recent escalation, including a naval blockade against Saudi Arabia in the Red Sea and the Bab el-Mandeb Strait, is in response to the Kingdom's air and sea blockade on Yemen since 2015.
+
+---
+
+### Fear, curfews & fraternity: Being a migrant worker in Kashmir
+*Bashaarat Masood · legal*
+
+Every year, as the snow melts, lakhs of migrants from Bihar, Uttar Pradesh, West Bengal and Assam make the journey to Kashmir. Now, with another terror attack targeting migrant workers in South Kashmir, The Indian Express on what brings them to the Valley — and why they can't afford to turn back.
+
+[Read full article](https://indianexpress.com/article/long-reads/fear-curfews-fraternity-migrant-worker-jammu-kashmir-10823211/)
+
+---
+
+### Kairana, 10 years later: Gangster killing in encounter turns page on ‘Hindu exodus’ chapter
+*Manish Sahu · legal*
+
+Furqan was out on bail, facing trial in murder of a trader in Kairana in 2014
+
+[Read full article](https://indianexpress.com/article/cities/lucknow/kairana-10-years-later-gangster-killing-in-encounter-turns-page-on-hindu-exodus-chapter-10823214/)
+
+---
+
+### Woman’s Skeleton Found Inside Bengaluru House, Police Suspect She Died A Year Ago
+*Aanchal Sinha · general*
+
+Police suspect that Dakshayini died about a year ago. During this period, her daughter and son-in-law had reportedly not visited the house.
+
+[Read full article](https://www.news18.com/india/womans-skeleton-found-inside-bengaluru-house-police-suspect-she-died-a-year-ago-ws-kl-10260296.html)
+
+---
+
+### Maharashtra bans 114 literature items ‘linked to terror outfits’
+*Manish Kumar Pathak · legal*
+
+Investigation by ATS, intelligence input, and cyber surveillance found that extremist literature and propaganda were being circulated and shared through both physical and digital platforms.
+
+[Read full article](https://indianexpress.com/article/cities/mumbai/maharashtra-bans-114-literature-items-linked-to-terror-outfits-10823215/)
+
+---
+
+### Delhi records its wettest August 1st week in 16 years; IMD issues yellow alert for today
+*TNN · regional*
+
+Along with bringing relief, the incessant rain also caused traffic snarls and waterlogging, and uprooted trees.
+
+NEW DELHI: Friday was the season’s wettest day in many parts of Delhi, and the fourth straight rainy day, testing the capital’s infrastructure to the maximum.There was familiar traffic chaos as many arterial stretches were flooded, particularly in south and central Delhi, while nine cases of house and wall collapse were reported in addition to at least 16 fallen trees across the city.
+
+Delhi has received 127mm of rainfall in the first seven days of Aug
+
+Safdarjung, the city’s main weather station, got 127mm of rain in seven days, making it the wettest first week of Aug in at least 16 years. It recorded 77.1mm more in 12 hours till 8.30pm Friday. More rain is likely on Saturday, IMD said.There was severe traffic congestion in Gurgaon, leaving commuters stranded on the expressway and other major roads. Commuters also reported being stuck on DND Flyway for two hours. MB Road came under two feet of water while Okhla underpass, too, was inundated.
+
+Yellow alert is in place for Saturday in Delhi
+
+Along with bringing relief, the incessant rain also caused traffic snarls and waterlogging, and uprooted trees.Delhi has received 127mm of rainfall in the first seven days of Aug, making it the wettest first week of the month in at least 16 years, shows India Meteorological Department’s (IMD) data. A yellow alert is in place for Saturday for light-to-moderate showers. The intensity is likely to reduce from Sunday.
+
+As the rain poured through the day, the difference between the maximum and minimum temperatures came down to just 1.9 degrees. The maximum temperature was 27.5 degrees Celsius, seven degrees below normal, against Thursday’s 27.6. The minimum temperature was 25.6 degrees Celsius, one degree below normal and the same as the previous day.IMD’s data shows that heavy rainfall was seen mostly at stations in south and southwest Delhi.
+
+From 8.30am to 8pm, Pushp Vihar received the maximum rainfall at 147.5mm, followed by Chhatarpur at 131mm. Among the other stations that saw heavy rainfall are Aya Nagar at 87.4mm, Palam at 88.7mm, Jharoda Kalan at 69.5mm, Janakpuri at 72mm and Pusa at 67.5mm.The Met department classifies rainfall as light when it is up to 15.5mm; as moderate, when it ranges from 15.6mm to 64.4mm, and as heavy, when it’s between 64.5 and 115.5mm in a 24-hour period.Most areas saw moderate showers, with base station Safdarjung recording 77.1mm, Ridge in north Delhi 49.6mm and Lodhi Road 49.3mm between 8.30am and 5.30pm.This Aug so far, Safdarjung has received 127mm of rainfall as opposed to the entire month’s normal of 233.1 mm. The city witnessed two heavy rainfall days in July. Though Delhi saw a rain deficit of 44% in June, July ended with a rain surplus of 23%.The maximum temperature, which has now remained below 30 degrees Celsius for two days, is likely to remain between 30 and 32 degrees Celsius Saturday.
+
+“It is likely to be 33-35 degrees Celsius from Sunday. The minimum temperature is predicted to settle between 22 and 24 degrees Celsius over the next few days,” said a Met official.Though there are chances of light-to-moderate rain Saturday, the city is likely to receive light-to-very light rain from Sunday to next Thursday.The rain helped in keeping Delhi’s air quality index on the lower side by washing out pollutants. At 63, AQI remained satisfactory for the eighth consecutive day. It was 74 Thursday.
+
+---
+
+### Nasa’s Voyager 2 gets power-saving upgrade, mission extended by a year
+*Science Desk · legal*
+
+Nasa engineers have reconfigured Voyager 2's onboard power systems with a new "Big Bang" upgrade, allowing the nearly 49-year-old spacecraft to continue returning data from interstellar space
+
+[Read full article](https://indianexpress.com/article/technology/science/nasas-voyager-2-gets-power-saving-upgrade-mission-extended-by-a-year-10823232/)
+
+---
+
+### House panel calls for new satellite to monitor forest fires in Himalayan region
+*Nikhil Ghanekar · politics*
+
+The panel called for a ‘National pine-needle utilisation policy’ to identify zones and provide fiscal and market-access incentives for pine needle collection.
+
+[Read full article](https://indianexpress.com/article/india/house-panel-calls-for-new-satellite-to-monitor-forest-fires-in-himalayan-region-10823217/)
+
+---
+
+### Pentagon strips Frank Kendall clearance over Air Force One leak claim
+*India Today World Desk · general*
+
+## The Pentagon revoked former Air Force Secretary Frank Kendall's clearance over alleged disclosures about Air Force One. The move sharpens scrutiny of the new aircraft's security gaps and the administration's response to press reporting.
+
+The Pentagon on Friday revoked former US Air Force Secretary Frank Kendall’s eligibility to access classified information and barred him from holding any sensitive position, alleging that he disclosed sensitive information about Air Force One’s capabilities to the media. The move followed reports last month, including in The New York Times, on security concerns over the new Air Force One gifted by Qatar.
+
+The aircraft, which underwent a USD 400 million retrofit and upgrade, has been used for domestic travel and was also flown by President Donald Trump to Turkiye last month. But Trump used an older Air Force One aircraft to leave the NATO summit as the US launched airstrikes on Iran and Tehran attacked three Gulf Arab states.
+
+The Times reported that the change was made at the urging of the Secret Service and that the newer aircraft lacked some of the advanced security features of the older Air Force One. Trump denied to reporters that the switch was due to security concerns, though he also said he is under threat “all the time” and is Iran’s “No. 1” target.
+
+In the Times report, Kendall, who served under President Joe Biden, was quoted as saying that the time available for upgrades to the aircraft would not have been enough for “all the normal Air Force One modifications” and that he was surprised it was used outside the US.
+
+After the reporting, the Justice Department subpoenaed the Times reporters in an effort to make them reveal their sources, raising concerns over press freedom. The department later withdrew the subpoenas last month after criticism from the judge over sloppy legal work.
+
+Chief Pentagon spokesman Sean Parnell did not say in a post on X which media outlet Kendall was accused of sharing classified information with. “Safeguarding classified information is a non-negotiable duty,” he wrote. “Those who violate that trust forfeit the privilege of access and any role requiring it.” Kendall did not immediately respond to a call and text seeking comment.
+
+This is not the first time the Trump administration has revoked security clearances. Last year, it revoked the clearances of 37 current and former national security officials. Soon after the administration took office, Defence Secretary Pete Hegseth also withdrew security protections and clearance for retired Joint Chiefs of Staff chairman Gen. Mark Milley.
+
+Parnell did not say whether Kendall was being referred for prosecution, and the Pentagon did not immediately respond to questions on the matter. Such accusations are typically accompanied by referrals for prosecution under the Espionage Act. In one well-known case, the Obama administration filed charges against Edward Snowden after he disclosed a large cache of secret documents on US surveillance operations before fleeing to Russia. More recently, a federal judge sentenced a Massachusetts Air National Guard member to 15 years in prison in 2024 for leaking classified military documents about the war in Ukraine, in what was described as the most consequential national security breach in years.
+
+In sum, the Pentagon’s action against Kendall came after reporting on security concerns around the new Air Force One, with questions also arising over the aircraft’s capabilities, the administration’s response to the media reports, and whether the case could lead to prosecution.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Aug 8, 2026 07:08 IST
+
+---
+
+### Delhi Confidential: Data Power
+*Express News Service · legal*
+
+A POWERPOINT presentation at the NDA Parliamentary Party meeting earlier this week became the main talking point among MPs of the ruling alliance.
+
+[Read full article](https://indianexpress.com/article/delhi-confidential/delhi-confidential-data-power-10823239/)
+
+---
+
+### A K-pop band’s plea to fans: Put down the phone
+*Editorial · opinion*
+
+Whether or not their followers heed the request, Cortis has reopened one of the most heated debates of the digital age: At what point does recording an experience become a refusal to live it?
+
+[Read full article](https://indianexpress.com/article/opinion/editorials/a-k-pop-bands-plea-to-fans-put-down-the-phone-10823094/)
+
+---
+
+### Maharashtra is allowing homeopathic doctors to prescribe allopathic medicines. This is dangerous
+*Editorial · opinion*
+
+The country's public health deficits can be addressed by expanding medical education, investing in institutions and strengthening incentives for doctors to serve in areas where they are urgently needed. These objectives are best achieved by respecting the integrity of each system rather than through...
+
+[Read full article](https://indianexpress.com/article/opinion/editorials/maharashtra-is-allowing-homeopathic-doctors-to-prescribe-allopathic-medicines-this-is-dangerous-10823096/)
+
+---
+
+### 2 men spent 14 years in jail over an error: Forensic report from another case
+*Anand Mohan J · politics*
+
+The HC found that the FSL report did not belong to the present case at all but was related to another prosecution, involving entirely different accused, weapons and injured persons
+
+[Read full article](https://indianexpress.com/article/india/2-men-spent-14-years-in-jail-over-an-error-forensic-report-from-another-case-10823137/)
+
+---
+
+### Weekly Quiz
+*Unknown · general*
+
+Weekly Quiz
+
+[Read full article](https://www.indiatoday.in/interactive/quiz/news/weekly-quiz-624-07-08-2026)
+
+---
+
+### Vehicle jumps checkpoint in Ramban, triggers security scare
+*Arun Sharma · politics*
+
+Vehicle jumps checkpoint in Ramban, triggers security scare
+
+[Read full article](https://indianexpress.com/article/india/vehicle-jumps-checkpoint-in-ramban-triggers-security-scare-10823216/)
+
+
+---
+
 ## 7 August 2026
 
 ### 'Sir, I Have A Life Outside Office': Gen-Z Interviewee Refuses Weekend Work And Still Gets Hired
