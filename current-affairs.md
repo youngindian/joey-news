@@ -1,3 +1,444 @@
+## 9 August 2026
+
+### Did Air India Phuket-Delhi Pilot Test Positive In Dope Test? What Happened After 300 Feet Drop Amid Turbulence?
+*Vani Mehrotra · general*
+
+Air India’s Phuket-Delhi pilot reportedly tested positive in a post-flight dope test after a 300-foot altitude drop, a report has claimed. DGCA is probing the turbulence incident.
+
+[Read full article](https://www.news18.com/india/air-india-phuket-delhi-flight-pilot-captain-dope-test-air-india-plane-300-feet-drop-turbulence-ws-l-10261628.html)
+
+---
+
+### 'Looting People...': Union Minister Kumaraswamy’s Toll Dare To Karnataka Govt Over NICE Road
+*Mallika Soni · general*
+
+Kumaraswamy demanded that the state government immediately take over the Bengaluru-Mysuru Infrastructure Corridor (BMIC) project and halt toll collection on the road.
+
+[Read full article](https://www.news18.com/cities/bengaluru-news/looting-people-union-minister-kumaraswamys-toll-dare-to-karnataka-govt-over-nice-road-ws-l-10261637.html)
+
+---
+
+### Iran releases video of Mojtaba Khamenei to counter ill-health reports
+*India Today News Desk · world*
+
+## The footage comes after reports in Israeli media claimed that Khamenei had been rushed to a hospital and that concerns over his health were circulating among Iran's leadership.
+
+Iran's Supreme Leader Mojtaba Khamenei appears in a video
+
+Days after Israeli media reported that Iran's Supreme Leader Mojtaba Khamenei was in an “extremely critical condition”, Iran's semi-official Mehr News agency released an undated video showing him appearing to be in good health.
+
+The video, released for the first time by Mehr, appears aimed at countering growing speculation over Khamenei's health and whereabouts. Mehr is a semi-official Iranian news agency sponsored by the government and operated by the Islamic Development Organisation.
+
+The footage comes after reports in Israeli media claimed that Khamenei had been rushed to a hospital and that concerns over his health were circulating among Iran's leadership.
+
+On Friday, Israeli Channel 14, citing sources inside Iran, reported that Khamenei's condition was extremely serious. An earlier report by The Jerusalem Post, citing IranWire and sources close to Iranian President Masoud Pezeshkian's administration, also reported concerns about his health.
+
+One source cited by The Jerusalem Post went so far as to say, “We would not be surprised if we heard news of his martyrdom soon.”
+
+The release of the video by Mehr appears to be an attempt by Iranian state-linked media to push back against the reports and reassure the public about the Supreme Leader's condition. However, the video is undated, and its timing or circumstances could not be independently verified.
+
+_This is a developing story. It will be updated._
+
+\- Ends
+
+Prateek Chakraborty
+
+Aug 9, 2026 07:44 IST
+
+---
+
+### Vijay Playbook In Karnataka? Chetan Ahimsa Announces Plan To Form New Political Party
+*Nikhil Singh · general*
+
+Actor and activist Chetan Ahimsa who has been taking Ambedkarite positions on several political issues, has announced plans to join politics. His party would focus on environment.
+
+[Read full article](https://www.news18.com/india/vijay-playbook-in-karnataka-chetan-ahimsa-announces-plan-to-form-new-political-party-ws-l-10261621.html)
+
+---
+
+### Rodrigo de Paul's Beautiful Tribute For Lionel Messi After Scoring For Inter Miami
+*Unknown · sports*
+
+Lionel Messi's Inter Miami teammate Rodrigo de Paul paid a beautiful tribute to the Argentina icon, who recently lost his father.
+
+[Read full article](https://sports.ndtv.com/football/rodrigo-de-pauls-beautiful-tribute-for-lionel-messi-late-father-after-scoring-for-inter-miami-11884985)
+
+---
+
+### Bengaluru police detain 1,909 suspected illegal immigrants, 15 confirmed Bangladeshi
+*SECTIONS Bengaluru police detain 1 · business*
+
+Bengaluru: The Bengaluru Electronic City sub-division police detained 1,909 suspected illegal immigrants during a major crackdown carried out across 29 locations, with 15 people subsequently confirmed to be Bangladeshi nationals, police said.
+
+The operation was conducted early Saturday under the leadership of M Narayana, Deputy Commissioner of Police, Electronic City, with 23 special teams carrying out simultaneous raids from around 4 am.
+
+  
+
+A total of 295 police officers and staff were involved in the joint operation aimed at identifying and detaining suspected illegal immigrants residing in the Electronic City area.
+
+Following verification of documents, 15 people were confirmed to be illegal Bangladeshi nationals. Police said they were found in possession of fake Aadhaar cards that showed West Bengal and Assam as their places of origin.
+
+The documents of the remaining 1,894 suspects are being verified. Their visas, passports and other nationality-
+
+According to police, the 15 confirmed Bangladeshi nationals are from Khulna district's Bagerhat in Bangladesh and are believed to have illegally crossed into India.
+
+DCP Narayan also warned against organisations carrying out what he termed "moral policing" by raiding shelters of Bangladeshi nationals, threatening them and allegedly extorting money.
+
+"If you suspect someone is a Bangladeshi national, please inform the police. Do not take the law into your own hands. Legal action will be taken against those involved in moral policing," the DCP said.
+
+Further investigation is still underway.
+
+---
+
+### Delhi-NCR Weather Today: Will it rain in Delhi, Noida, Gurgaon, and Ghaziabad? Check the latest update and forecast for the upcoming days
+*Trending Desk · business*
+
+The national capital has been seeing an active monsoon for the past few days. Delhi weather today also is expected to be cloudy with moderate showers throughout the day. According to IMD, light to moderate showers are expected in Noida, Gurgaon and Ghaziabad. IMD on Friday also issued yellow and orange alerts in different parts of the city,
+
+## Delhi-NCR Weather Today
+
+  
+
+For today, IMD has not issued any alerts so far, but some parts of Delhi will receive showers during the day. Temperatures are expected to remain between 26°C and 32°C, bringing some relief from heat but increasing humidity levels. Residents are advised to stay prepared for sudden rain spells and plan their commute accordingly.
+
+## Noida Weather Today
+
+Noida is expected to see a cloudy and rainy day today, with the monsoon remaining active across the region. Light to moderate showers are likely at intervals, along with the possibility of thunderstorms and gusty winds, which could lead to waterlogging and traffic disruptions in some areas. Temperatures are expected to stay around 26°C to 32°C, bringing relief from heat but increasing humidity levels.
+
+  
+
+## Gurgaon Weather Today
+
+Gurgaon is expected to have light to moderate rainfall throughout the day. Temperatures are expected between 27°C and 34°C, with high humidity levels making it feel warmer. Residents should be prepared for waterlogging, traffic slowdowns, and sudden heavy spells in some areas.
+
+  
+
+## Ghaziabad Weather Today
+
+Ghaziabad is experiencing a cloudy and humid day with chances of light to moderate rain as monsoon activity continues across the Delhi-NCR region. Intermittent showers and possible thunderstorms are expected, which may cause waterlogging and traffic delays in some areas. Temperatures are likely to stay around 26°C to 34°C. Recent forecasts also indicate that rainy conditions may persist for the next couple of days, so residents should stay prepared for sudden downpours.
+
+## Delhi weather for the upcoming days
+
+Delhi is set to experience a typical active monsoon pattern over the coming week. Expect frequent clouds, light to moderate rain, and occasional thunderstorms almost every day. Rainfall activity is expected to remain consistent due to ongoing monsoon systems. Overall, the next few days will be wet, humid, and slightly cooler than peak summer, with chances of waterlogging and traffic disruptions during heavier spells.
+
+---
+
+### See you, CIO: Why India’s family offices are struggling to hire and retain investment chiefs
+*Apoorva Mittal · business*
+
+A prominent businessperson made a frantic phone call to Gaurav Shah. The chief investment officer (CIO), whom his family business hired just 11 months ago, had quit—and he needed a replacement. “I have to save the mess,” the promoter told Shah, who is a managing partner of Arete Ventures, which has an executive search division.
+
+When Shah and the promoter met in Mumbai, they agreed the problem was not the CIO who said ciao in a hurry, but the chaotic situation he was thrown into. He was hired even before there was an operating structure or a supporting team in place. An investment head, Shah pointed out, should be hired with a clearly defined mandate.
+
+Says Shah: “Many professionals come with deep experience in private equity, venture capital, or institutional investing. But a family office may ask them to do all of it together, build the platform from ground up, define the investment thesis and create portfolio and sourcing discipline. While hiring a CIO, the family must define the mandate, not merely the title and compensation.”
+
+  
+  
+
+ET Bureau
+
+A CIO is integral to a family office, as they steer its entire investment programme, but in India these two entities are still learning to tango. And this awkward dance—a professional in a personal space, an outsider on the inside, dealing with familial relations and wealth—is becoming more evident as the family office ecosystem grows by leaps and bounds.
+
+India has more than 300 family offices managing upward of $30 billion in assets, according to The Indian Family Offices Report 2026 by The Economic Times and 1Lattice. However, the industry estimates that the number could be much higher—more than 1,000—since most of them operate with no obligation to register or disclose.
+
+  
+
+## THE CHANGING OFFICE
+
+The family office itself is undergoing a shift. Before 2020, most Indian family offices weren’t really investment operations; they were treasury desks built to protect generational wealth. Beating the Nifty by a percentage point or two was the ambition.
+
+Two things broke that pattern—money and succession. As FII and FDI inflows rose, families that had been sitting on real estate, gold and blue-chip stocks began to put in a slice in private equity, venture funds and pre-IPO rounds. As those bets worked out, the exposure grew, pushed by a younger generation eager to diversify.
+
+A third less visible force is regulatory pressure. “With a lot of regulatory action, families want to ensure that everything is squeaky clean,” says a senior executive at a family office who did not wish to be named.
+
+However, as family offices try to evolve from promoter-run treasury desks to professional investment institutions, they are struggling to find and retain CIOs whose title holds an authority promoters are often not willing to bestow.
+
+That tension shows up, first, in who gets to say yes.
+
+“In most family offices, the final decision on any investment is made by the family. A CIO is only expected to give their analysis to the family,” says Aroon Kumar Aggarwal, managing partner for Asia, Bradford Consultants. “Senior professionals who need independent decision-making powers are not willing to join family offices except for the large ones.”
+
+The demand for these roles, recruiters say, is far ahead of supply. Munish Randev, founder of Cervin Family Office, a multi-family office and advisory firm for family offices, says he gets a call from headhunters every other day.
+
+While the demand is for professionals with a cross-asset-class breadth, the trouble is in finding ones who can survive the intensely personal culture of a promoter-led office.
+
+“Culturally, family offices at times don’t understand investment professionals,” says Randev. “Sometimes they say they want to build a professional family office but we have been told that they would call up at 11 pm as they had just come back from a holiday in Europe and wanted some information.”
+
+He points to what he calls the 90-10 rule: most families keep 90% of the money in bonds and safe instruments but spend most of the time talking about the riskier 10%. “The professional’s grouse is that after the corpus is fully invested, the fund goes into maintenance mode and is not exciting enough,” he says.
+
+One executive lived the ambiguity associated with family offices. A CIO, who joined a Mumbai family office after months of getting to know the promoter, says he knew within a month he had made a mistake. He had built a relationship with the person he thought was calling the shots—only to discover, after joining, that someone else was.
+
+“I’ve seen amazing family offices where they treat you with equality, and there are some places where people look down upon you.”
+
+Devashish Khanna, CIO of private investments at Capri Global Family Office, says it comes down to the promoter’s mindset. “Every family is different. I know a lot of families that have a billion dollars in cash but invest only in bonds and fixed income.”
+
+He traces the current wave to two groups reshaping the ecosystem—newly rich founders setting up family offices and next-generation heirs stepping into family businesses their parents built.
+
+## ‘ARE YOU A VEGETARIAN?’
+
+Some of the friction or discomfort is “cultural” in a literal sense.
+
+Randev recalls an Ahmedabad-based family business promoter who wanted a Gujarati-speaking candidate. In another case, the demand was for a vegetarian executive as the role involved working closely with several generations of a vegan family.
+
+“These requirements may sound unusual but they persist,” says Randev. “Getting the ‘right’ person has become a serious issue for many families. Finding someone with the right investment capabilities and relevant fund management experience and cultural fit is very difficult.”
+
+Shah says some families are reassessing overly restrictive filters as they confront a limited pool of candidates and are worn down by churn. “The discussion is shifting from whether a candidate shares every personal preference of a family to whether the executive can respect the family’s values and workplace norms.”
+
+The vetting sometimes goes beyond the candidate. Aggarwal recalls setting up a search for a real-estate family office — a sector where, he says, “there are generally skeletons in the closet” that surface the moment a serious candidate starts doing their own research.
+
+Rather than let the search stall, his firm worked with the client to remove two or three family members from early conversations and pitch materials, so that candidates could get excited about the opportunity before running into parts of family history that would make them uneasy. The family agreed to the change without much resistance—a sign, he says, of how aware some promoters already are of their reputational baggage.
+
+## PAY PROBLEM
+
+Beyond the culture-fit conversation is a bigger problem: pay structure.
+
+In private equity and venture capital, partner-level executives are compensated with “carry” or carried interest—a share of profits—on top of salary and bonus. In family offices, it barely exists.
+
+“About 90% of family offices in India don’t understand the concept of carry. Even if they do, they would love to deny that to the CIO,” says Khanna.
+
+“If you are doing nothing—just fixed income for ₹10,000 crore—nobody will pay you more, and that’s absolutely fine. But if you are doing large private equity, public markets, and looking at a 20% CAGR, you have to be compensated. Everybody is hoping that they change—let’s see.”
+
+Part of the problem is structural: unlike an alternative investment fund (AIF), a family office doesn’t answer to an external regulator. Even a written carry arrangement, says Khanna, relies largely on the family’s willingness to honour it, with few formal mechanisms for enforcement.
+
+Many family offices also still run under the shadow of the operating business’s HR policies, treating an analyst, who needs to be out of office 15 days a month sourcing deals, the same way they would treat a shop-floor manager.
+
+A senior family-office executive who did not want to be identified frames the standoff as a trust problem: families aren’t willing to hand over full investing authority, but they have also learned not to micromanage everything.
+
+“What they are looking for right now is somebody who can set up a process where the decision-making is clearly laid out,” says the executive. “That’s why relationships, once formed, are pretty long-term but, in the first year or so, there could be a lot of attrition because people are still trying to figure each other out.”
+
+Not every hire ends in a stalemate. Ankit Chona set up his family office in 2018, after selling his ice cream business, Havmor, to South Korea’s Lotte Confectionery for ₹1,020 crore.
+
+Chona hired someone with a wealth-management background to vet proposals and, over seven years, gave her room to grow into the job. Today, Nirali Solani heads his family office, oversees investor relations across his group businesses, including Hocco, and works closely with the business leadership and finance teams.
+
+Chona says his method for resolving disagreements is simple: “Either convince or be convinced.” He adds, “I would have the final say but a lot of confidence is built over time that I usually don’t have a strong point of view that is different from the team’s.”
+
+## OFFICE AS CLASSROOM
+
+Several large family offices are now treating the CIO’s desk as a classroom—where young heirs are asked to shadow the professional, sit with them on workdays and eventually make the calls themselves. The executive is expected to mentor rather than dictate.
+
+A recruiter recalls a mandate a client gave: the family didn’t want someone who had “been there, done that”. They wanted a CIO who would do the research, offer views and let the next generation make the calls.
+
+Meanwhile, at some of the largest family offices, the opposite mandate is just as common—hand over a defined pool of capital and largely leave the professional to run it alone.
+
+It is a changing role and executives are learning it on the job. What started as a treasury function has expanded to managing investments and overseeing an office handling philanthropy, governance and even succession.
+
+While there are many crinkles to smooth out, the furthest end of that arc is a shift to something closer to a steward of the family’s brand and legacy—a model that family offices in the West have already moved toward, and that some of the more sophisticated Indian offices are now reaching for.
+
+---
+
+### Maharashtra Man Arrested For Sexually Abusing Minors, Men; 600+ Videos Found On Phone
+*Mallika Soni · general*
+
+The accused allegedly lured minors with money and exploited survivors by threatening to circulate their videos on social media.
+
+[Read full article](https://www.news18.com/cities/mumbai-news/maharashtra-man-arrested-for-sexually-abusing-minors-men-600-videos-found-on-phone-ws-l-10261622.html)
+
+---
+
+### Mumbai family accepted flat possession after a 2-year delay, lost their RERA compensation claim; know what went wrong | Mint
+*Eshita Gain · economy*
+
+## After purchasing a Mumbai apartment, a family received possession after a delay of more than two years. They filed a complaint with MahaRERA seeking compensation in form of interest but lost the case. Here's what happened. 
+
+Mumbai family accepted flat possession after a 2-year delay, lost their RERA compensation claim; know what went wrong**(Pexels)**
+
+A family that bought an apartment in Mumbai for ₹1.05 crore was denied any compensation for a possession delay of more than two years after MahaRERA held that they had accepted the flat without protest.
+
+The authority ruled that since the homebuyers neither raised objections nor sought a formal possession letter at the time of taking handover of the property, they could not later claim interest compensation for the delay.
+
+The complainant had signed the sale agreement on February 25, 2022, and the builder promised to give possession by June 30, 2022. However, the apartment was handed over only on March 15, 2025, after a delay of more than two years, according to a report by the _Economic Times_.
+
+MahaRERA observed that while Section 18 of the RERA Act (Real Estate Regulatory Authority) does not specify a limitation period, grievances relating to delayed possession must be raised before the project is completed and possession is accepted, not at a later date chosen by the homebuyer.
+
+## What grievances did the homebuyers raise?
+
+As per the report, the homebuyers had made partial payments even before signing the sale agreement and continued making payments thereafter.
+
+They even made a payment on March 10, 2025, just days before taking possession, but the builder allegedly failed to provide receipts for those payments. Although they received physical possession on March 15, 2025, the builder never issued a formal possession letter till date.
+
+The complainant also claimed that the builder failed to provide all the common amenities that were promised in the sale agreement, noting that the delayed possession has caused them mental agony, hardship and financial losses.
+
+This is why they filed a case with MahaRERA seeking a compensation. The family requested interest at the rate of 18% per annum on the amounts they paid for the apartment, from the respective dates of payments till March 15, 2025, that is the date they received possession, totaling ₹50.6 lakh.
+
+## Builder defended delay citing approvals
+
+The builder argued before MahaRERA that the complainant were aware of the project's construction status when they purchased the flat and had been informed that the possession timeline was subject to statutory approvals and other factors beyond the developer's control.
+
+The builder's lawyers relied on clause 25 of the sale agreement, which allowed an extension of the possession date in cases involving delays in approvals, force majeure events or other unforeseen circumstances.
+
+The builder's lawyer also contended that the homebuyers had accepted possession of the apartment and had not cleared their outstanding dues. Therefore, they were not entitled to seek interest or compensation for the delay in handing over possession.
+
+“That the claim of the complainants for interest up to 15.03.2025 is untenable as the complainants were already in beneficial occupation of the flat,” the property builder's lawyer told MahaRERA authority.
+
+On the homebuyers' allegation that the builder failed to provide common amenities as per the terms of the agreement for sale, MahaRERA held that they had not placed on record any photographs, documents or other evidence to substantiate these claims. In the absence of supporting material, the authority declined to grant relief on this ground.
+
+On July 2, 2026, the homebuyers lost the case in MahaRERA as the authority refused to grant any interest compensation for this possession delay.
+
+### About the Author
+
+Eshita Gain
+
+Eshita Gain is a digital journalist at Mint, where she joined in May 2025. She writes on corporate developments, personal finance, markets, and business trends, with a focus on delivering timely and relevant stories to a broad audience. <br><br> While her core beat lies in business and finance, she is not confined to a single niche and frequently explores stories across domains, including international relations and policy developments. <br><br> She holds a postgraduate diploma in business and financial journalism by Bloomberg from the Asian College of Journalism (ACJ), Chennai. During her time there, she received rigorous training in tracking financial data, interpreting corporate filings, and reporting on business developments. She has pursued her graduation from St. Joseph’s University, Bengaluru in a multi-disciplinary course. Her majors included Journalism, International Relations, peace and conflict studies. <br><br> Eshita has previously worked in digital marketing, which enables her to write SEO friendly copies that are clear and engaging. <br><br> Her primary interest lies in breaking down complex subjects and writing clear, accessible copies that inform readers. She aims to bridge the gap between technical financial language and everyday understanding. Outside the newsroom, Eshita enjoys reading non-fiction, and exploring new places, constantly seeking fresh perspectives and stories beyond headlines.
+
+---
+
+### Dharmendra Pradhan's First Reaction After Resignation Over NEET Protests | Students Protest | News18
+*Unknown · general*
+
+Former Education Minister Dharmendra Pradhan has resigned amid a growing political controversy surrounding the NEET protests and student unrest. His remarks about attempts to mislead Gen Z have added a new dimension to the ongoing debate over India's education system and the handling of student grie...
+
+[Read full article](https://www.news18.com/videos/breaking-news/dharmendra-pradhan-s-first-reaction-after-resignation-over-neet-protests-students-protest-news18-10261632.html)
+
+---
+
+### Jharkhand govt, protesting students to hold fresh talks at noon after no headway
+*India Today News Desk · general*
+
+The Jharkhand government has announced another round of talks with protesting job aspirants after a series of meetings with student groups failed to end a 15-day agitation over alleged irregularities in recruitment examinations. The fresh meeting with student representatives is scheduled for 12 pm on Sunday.
+
+The decision came after five rounds of discussions over Friday and Saturday, including a meeting with the JPSC-JSSC Reforms Manch, which has been leading the protest. Soon after the announcement, the group accused the government of "political manoeuvring" and said the move was aimed at dividing students and shifting attention from their main demands.
+
+On Saturday, the Hemant Soren government held four rounds of talks with different student organisations, including the Congress-backed NSUI, Jharkhand Chhatra Morcha and Adivasi Chhatra Sangh. The government had held talks with the JPSC-JSSC Reforms Manch on Friday.
+
+After a four-hour meeting between the government panel and Chief Minister Hemant Soren on Saturday evening, Rural Development Minister Dipika Pandey Singh said the panel had informed the chief minister about the demands and concerns raised by student delegations. "It was decided in the meeting with the chief minister that a final round of talks with the protesting students will take place at 12 pm on Sunday," she said.
+
+The JPSC-JSSC Reforms Manch strongly objected to the fresh engagement with other student bodies. Ravindra Paswan, a leader of the group, said the government was trying to weaken the agitation by holding talks with organisations that had "played no role in the ongoing protest."
+
+"This is political manoeuvring by the government. It is trying to create a divide among students and divert attention. But they should know that all students are united," Paswan said at a press conference at Jaipal Singh Munda Stadium, where students have been protesting since July 25. He said the Manch had already placed all its demands before the five-member government panel during a detailed meeting on Friday night.
+
+The government panel, comprising ministers Dipika Pandey Singh, Sudivya Kumar, Chamra Linda and Sanjay Prasad Yadav, first met the faction of protesters led by Jharkhand Loktantrik Krantikari Morcha leader Devendra Nath Mahto, whose fast entered its seventh day. It later met the NSUI, ACS and JCM separately and sought their charters of demand. The JCM submitted five demands, including cancellation of the 14th JPSC Civil Services Examination.
+
+The NSUI submitted six demands, including a CID probe within 90 days into all JPSC and JSSC examinations under suspicion and the setting up of a Jharkhand Testing Agency on the lines of the National Testing Agency. ACS leader Kartik Oraon demanded that tribal and regional languages be included as qualifying papers in recruitment examinations and that tests in which irregularities were found be cancelled.
+
+The government said the discussions were held in a positive atmosphere and that it was considering the concerns raised by the protesting aspirants. Minister Sanjay Prasad Yadav said the government would continue talks with the agitators seeking comprehensive reforms in the Jharkhand Public Service Commission and Jharkhand Staff Selection Commission. Higher and Technical Education Minister Sudivya Kumar said the government had issued an email ID to seek suggestions from aspirants on reforms in the recruitment process.
+
+Despite the talks, the protesters said their agitation would continue until all their demands were met. They also announced a march to the Assembly on August 10 if the government failed to meet their demands by Sunday. Meanwhile, the All India Students' Association set up a separate platform at the stadium on Saturday, though its leaders said this should not be seen as a separate agitation.
+
+AISA national president Neha Bora, who was attacked with ink during Friday's Assembly march near Birsa Chowk, briefly joined the protest and raised slogans demanding cancellation of the 14th JPSC and JSSC-CGL examinations. Ranchi unit chief Vijay Kumar said the organisation had the same demands as the larger agitation and that its members would join the August 10 march without carrying the AISA banner.
+
+The agitation has also seen protests by the ABVP. On Friday, its members scuffled with police while trying to breach barricades near the chief minister's residence. Deputy Superintendent of Police Ajay Aryan said around eight to 10 ABVP protesters were detained during the march and later released. The ABVP has announced a separate Vidhan Sabha march on August 11.
+
+Amid the protests, students and job aspirants also observed martyr Nirmal Mahto's death anniversary by marching from the protest site to Albert Ekka Chowk and holding a flashlight procession. So far, 19 people have been arrested in connection with alleged irregularities in JPSC examinations, while former panel chairperson L Khiangte has been questioned four times since July 28. With the deadlock still unresolved, all eyes are now on Sunday's talks between the government and the protesting aspirants.
+
+\- Ends
+
+India Today Web Desk
+
+Aug 9, 2026 07:21 IST
+
+---
+
+### Jharkhand JPSC Row: Govt Announces Fresh Talks, Mulls 14th Exam Cancellation As Students Allege 'Political Manoeuvring'
+*Vani Mehrotra · general*
+
+Jharkhand govt will hold fresh talks with JPSC-JSSC protesters on Sunday as cancellation of the 14th JPSC exam remains under consideration.
+
+[Read full article](https://www.news18.com/india/jharkhand-jpsc-exam-protest-row-14th-exam-cancellation-plan-fresh-talks-ws-l-10261612.html)
+
+---
+
+### Mojtaba Khamenei appears in undated video amid reports of critical health, questions over his whereabouts
+*DNA Web Desk · general*
+
+The video of Iran's supreme leader Mojtaba Khamenei was published for the first time by Mehr, a semi-official news agency.
+
+Mojtaba Khamenei appears in undated video amid reports of critical health, questions over his whereabouts (Source: X/ @Mehrnewsarabic)
+
+Days after Israeli media claimed that Iran's Supreme Leader was in critical condition and had been rushed to a hospital, Iran's semi-official Mehr News agency released an undated video showing Mojtaba Khamenei appearing to be in good health.
+
+The video of Mojtaba Khamenei was published for the first time by Mehr, a semi-official news agency sponsored by the government of Iran and run by the Iranian government's Islamic Development Organisation, as an effort to negate mounting speculation over Khamenei's health and whereabouts.
+
+> https://t.co/j8OfnYg64P
+> 
+> — وكالة مهر للأنباء (@mehrnewsarabic) August 8, 2026
+
+Earlier on Friday, Israeli media reports had claimed that Khamenei was in an "extremely critical condition". Channel 14, citing sources inside Iran, and an earlier report by The Jerusalem Post, quoting IranWire and sources close to Iranian President Masoud Pezeshkian's administration, reported that concerns over his health were circulating within Iran's leadership. One source cited by The Jerusalem Post had claimed, "We would not be surprised if we heard news of his martyrdom soon. "Khamenei assumed the position of Supreme Leader shortly after his father, Ayatollah Ali Khamenei, was assassinated in joint US-Israeli military strikes on February 28. Since taking office, he has not made any public appearances and has communicated exclusively through written statements.
+
+Reports indicate he was injured and potentially disfigured in the initial strikes that targeted his father's compound, forcing him into hiding and compelling him to communicate with senior regime figures through a slow network of intermediaries to avoid targeting. Adding to the speculation surrounding his status, President Masoud Pezeshkian acknowledged in a state TV interview that direct interaction with Khamenei is currently "very difficult".International and regional reports have repeatedly questioned his physical location and capacity. In July, Saudi news outlet al-Hadath, citing an Israeli security source, claimed that Khamenei was "not in Iran."
+
+Around the same time, US President Donald Trump asserted in a Fox News interview that Iran's top military leadership had been eliminated, claiming that Khamenei was "90% gone" and incapacitated following the military campaign.
+
+Iranian state officials have previously downplayed the severity of his initial injuries, but the persistent lack of live appearances or direct public addresses continues to fuel intense regional and international speculation regarding his health and leadership stability.
+
+While Western and opposition intelligence sources have frequently suggested that he sustained severe or disfiguring injuries, leading to his total absence from live public appearances and reliance solely on written statements, Iranian state officials have offered contrasting accounts.
+
+Representatives from Iran's Health Ministry previously characterised his initial injuries as superficial, and senior officials have maintained that he continues to provide strategic oversight and operational directives for the country.
+
+(Except for the headline, the story hasn't been edited by DNA staff but is directly published from ANI)
+
+---
+
+### Iran told US it won't charge ships using Strait of Hormuz, says Vance
+*India Today Global Desk · general*
+
+## JD Vance said Iran has told the US it does not plan to toll ships in the Strait of Hormuz. Washington is still seeking proof on safe passage, demining and a fuller reopening of the route.
+
+US Vice President JD Vance. (Photo: Reuters)
+
+US Vice President JD Vance has said Iran has assured Washington that it does not intend to impose transit fees on vessels passing through the Strait of Hormuz, one of the world's most critical energy corridors, though American officials remain cautious as talks over maritime security continue.
+
+Speaking in an interview with Fox News, Vance said Tehran had communicated that it had no plans to levy charges on commercial shipping using the strategic waterway.
+
+“You see, some people within the Iranian system, of course, talk about tolling. The Iranians have told us they have no plans to toll the Strait of Hormuz. But again, we're going to see what actions actually happen,” Vance told Fox News.
+
+### US SEEKS RETURN TO NORMAL ENERGY FLOWS
+
+Vance said Washington's primary objective is to see oil and gas exports from the Gulf return to levels seen before the conflict erupted earlier this year.
+
+"Our expectation is that the same volume of oil and gas that moved through the Gulf before the conflict will move again," Vance said, adding that Iranian officials had conveyed that message to the US.
+
+According to the vice president, Gulf nations also support restoring normal shipping and energy trade through the region. However, he stressed that the US would judge Iran by its actions rather than its statements.
+
+"We don't trust, we verify. We actually look not at people's words, but people's deeds," Vance said, noting that Washington would closely monitor developments on the ground before drawing conclusions.
+
+### HORMUZ TOLL PROPOSAL REMAINS A KEY CONCERN
+
+The Strait of Hormuz has been at the centre of tensions between Tehran and Washington in recent months. One of the most contentious issues has been reports that Iran was considering charging ships a fee for using the narrow passage.
+
+Earlier reports citing Iranian officials suggested Tehran was exploring transit fees ranging from 5% to 7% of the value of cargo carried by vessels crossing the strait.
+
+Addressing those concerns, Vance acknowledged that some voices within Iran had discussed the possibility of tolls but said US officials had received assurances from Tehran that no such plan was currently under consideration.
+
+"The Iranians have told us they have no plans to toll the Strait of Hormuz," he said.
+
+### FOCUS SHIFTS TO SAFE NAVIGATION AND DEMINING
+
+Beyond the toll issue, negotiations have increasingly focused on ensuring the safe movement of commercial vessels through the waterway.
+
+Vance said Iran and Gulf countries, particularly Oman, have been discussing mechanisms to secure shipping lanes after mines were reportedly laid in parts of the strait during the conflict.
+
+According to him, current discussions are centred on establishing safe transit routes and carrying out demining operations to reduce risks for commercial shipping.
+
+The US is also seeking guarantees that Iran will not target commercial vessels moving through the region.
+
+### IRAN SIGNALS CONDITIONS FOR FULL REOPENING
+
+While diplomatic engagement appears to be advancing, Iranian officials have indicated that a complete reopening of the strait remains tied to broader political and security demands.
+
+Oman has confirmed that discussions with Tehran on maritime arrangements have been constructive, though no timeline has been announced for a final agreement.
+
+Iranian Foreign Minister Abbas Araghchi said negotiations were in their final stages but cautioned that restoring full access to the waterway would depend on additional conditions being met.
+
+Iranian officials have called for compensation from the US over alleged violations of a previous ceasefire understanding and have demanded an end to what they describe as hostile measures against Iran.
+
+Mohammad Baqer Zolqadr, Iran's security chief, also stated that the Strait of Hormuz would not fully reopen until Washington addresses several Iranian concerns, including sanctions-
+
+### PROGRESS, BUT NO BREAKTHROUGH YET
+
+US President Donald Trump has suggested that an agreement with Iran could be reached soon. Vance, however, struck a more measured tone, saying progress had been made in recent days but significant issues remained unresolved.
+
+"The question is whether Iran's system can deliver what is necessary for us to feel that our objectives have been met," Vance said, indicating that negotiations remain a work in progress.
+
+The Strait of Hormuz handles roughly one-fifth of global oil and natural gas trade, making any disruption to shipping in the region a matter of major concern for energy markets and governments worldwide.
+
+\- Ends
+
+Nitish Singh
+
+Aug 9, 2026 07:16 IST
+
+
+---
+
 ## 8 August 2026
 
 ### Taipei says China's traffic control order for Taiwan Strait during typhoon is 'ridiculous'
