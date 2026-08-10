@@ -1,8 +1,318 @@
 # Editorials
 
-_Last updated: 2026-08-09 03:18 UTC_
+_Last updated: 2026-08-10 03:28 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 10 August 2026
+
+### ​Podium finish: On India at the Glasgow Commonwealth Games
+*The Hindu · Editorial*
+
+In the truncated Commonwealth Games in Glasgow, India performed well, exceeding expectations and retaining fourth place behind developed nations such as Australia, England, and Canada, despite a sharp drop in medals from 61 to 39, including 13 gold, 17 silver, and nine bronze. The gold rush on the penultimate day, powered by the spectacular performance of the boxers who won seven gold and three silver medals, improved India’s position. While some weight classes had weaker draws, several categories posed strong challenges. Propelled by determination and hard work, five women boxers — Sakshi Chaudhary, Preeti Pawar, Jaismine Lamboria, Priya Ghanghas, and Arundhati Choudhary — and two men, Sachin Siwach and Ankush Panghal, ensured India’s best-ever showing of 10 medals, three more than that in the last edition. The women boxers’ fearless approach established them as a force to reckon with. India won 16 medals in athletics and para-athletics, with notable contributions from para-athletes Dilip Gavit, Soman Rana, and Sharmila Dhankar. In world-class fields, the country’s athletes won 10 medals compared to eight in Birmingham 2022. Neeraj Chopra recovered from injury to take a creditable silver and lead the country to twin-medal glory in javelin along with Yashvir Singh and underlined India’s rising status as a javelin powerhouse. Other moments to cherish included triple jumpers Praveen Chithravel and Selva Prabhu’s twin podium finishes, Gulveer Singh becoming the first Indian to medal in 5000m and 10000m, Murali Sreeshankar winning his second straight long jump silver, Tejaswin Shankar claiming the country’s first-ever decathlon medal, and Sarvesh Kushare pocketing a high jump silver.
+
+Asmita Dey and Harsh Singh sprang a surprise by winning the country’s first gold medals in judo, while Mirabai Chanu lived up to her billing to clinch her third successive gold medal. She led Indian lifters to a significant haul of eight medals. The country’s strong show, against an expectation of around 30 medals, helped the contingent leave Glasgow on a high as Ahmedabad prepares to host a bigger Games offering more medals in 2030. Indian athletes’ praiseworthy performance in Glasgow has raised hopes for the Aichi-Nagoya Asian Games next month, where a bigger haul is expected from a wider range of disciplines. While India is capable of securing impressive medal collections at the Commonwealth and Asian Games, it needs to raise its level manifold to be counted among the best globally. Aspiring to host the 2036 Olympics, it must identify priority sports and invest in them to ensure a higher finish, even while waging a perennial war against doping.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/podium-finish-on-india-at-the-glasgow-commonwealth-games/article71325001.ece)
+
+---
+
+### Shifting sands: On the Pakistan, Saudi Arabia, Türkiye Joint Defence Agreement
+*The Hindu · Editorial*
+
+The joint defence agreement, signed by Pakistan, Saudi Arabia and Türkiye in Mecca on August 7 reflects their shared strategic anxieties and the changes under way in West Asia’s security architecture. The three countries have pledged to bolster collective security and deterrence, and promised to treat an armed attack against one as an attack against all. On paper, this is a formidable alliance. Pakistan is a nuclear-armed country with a powerful military; Saudi Arabia, one of the world’s largest crude oil exporters, has deep pockets and considerable influence across the Muslim world; and Türkiye has an expanding military industrial base, including advanced drone production capabilities. That the pact was announced in the middle of the war on Iran and Israel’s continuing bombing campaigns in the region is no coincidence. Faced with the prospect of reduced American strategic presence in West Asia, regional powers have begun looking beyond the traditional U.S. security umbrella for new partnerships. In September 2025, a few weeks after Israel bombed Qatar, Pakistan and Saudi Arabia announced a bilateral defence agreement. The war on Iran, which saw Tehran retaliating by striking U.S. bases across the Persian Gulf, and Israel’s wars in its neighbourhood, have further deepened the security concerns of Saudi Arabia and Türkiye. They have now decided to turn the page on their often fraught relationship and build a trilateral framework with Pakistan, which fought a short aerial war with India in May 2025.
+
+This agreement shows the growing appetite of regional powers for formal security pacts. Türkiye, which has long sought a bigger role in West Asia, will gain more strategic space. Pakistan, traditionally a South Asian regional power overshadowed by India, is also seeking to expand its role as a West Asia security provider and mediator. The alliance would allow the three countries to deepen defence cooperation and military interoperability though it is too early to say whether it would help them address their security challenges. Alliances based on collective security, such as NATO and CSTO, are generally formed to build deterrence against conflicts. The biggest liability of the Mecca Agreement is that it was signed amid ongoing wars. Over the past five months, Saudi Arabia has faced repeated Iranian missile and drone attacks. The collective security pledge is unlikely to deter Iran from targeting U.S. bases in Saudi Arabia if the war, currently on pause, escalates further. Existing conflicts, therefore, make the promise of collective defence largely symbolic from the very outset. So, the credibility of the Mecca Agreement will ultimately depend on whether the three partners can turn their political commitment into a credible deterrent, which is currently non-existent.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/shifting-sands-on-the-pakistan-saudi-arabia-turkiye-joint-defence-agreement/article71325024.ece)
+
+---
+
+### Either culpable or incompetent
+*The Hindu · Opinion*
+
+On July 20, 2026, India’s young people came together to demand a fair education system and accountability for paper leaks.
+
+These young women and men came from every caste, class, region and religion. They were brave enough to demand justice, wise enough to know their Constitutional rights, tender enough to laugh at their own turmoil, and earnest enough to believe that they could fight and win.
+
+The nation watched the protesters in awe, as they sang, danced, laughed, held hands and stood together. Their resistance gave voice to the pain both of their own generation, and of crores of Indians who are suffering but have been silenced by fear.
+
+Met with violenceThe protests carried forward India’s proud legacy of peaceful resistance, a tradition which won it independence and is protected by Article 19 of the Constitution.
+
+Yet, the government tried to crush the youth’s voice with a brutal assault. They were attacked with tear gas shells, beaten with nail-studded lathis and shot with pellet guns.
+
+Nineteen-year-old Sahil Lochab, whom I met, had hundreds of lead pellets lodged all over his upper body. A pellet struck his eye, likely blinding him. Policemen wielding batons brutally assaulted young women, injuring many on their private parts. Minors were beaten with lathis, their bones broken, gashes and bruises on their bodies. In Bihar, student protesters were shot with firearms, including an AK-47, in Siwan, leaving many severely injured.
+
+Who authorised this illegal and unconstitutional violence?
+
+Centralised powerThe Narendra Modi government prides itself on its centralised control. Whether it is a mission to Mars or an Olympic medal, it repeatedly trumpets that the credit is due to Prime Minister Narendra Modi and Home Minister Amit Shah. Nothing moves without their approval.
+
+The violence happened in the heart of Delhi, barely 500 metres from Parliament. Both the security forces deployed, the Delhi Police and the Rapid Action Force (RAF), report directly to the Home Minister.
+
+There are only two possibilities. First, he authorised the attack on the students — in which case he is culpable. Second, he had no idea that it was taking place — which means that he is entirely incompetent. Either way, as Home Minister, what happened on that day is his responsibility, and he must resign.
+
+Instead, his inaction proves that he approves of the attack on students. He has not ordered any inquiry or even issued a statement. He has refused to come to Parliament, and motions filed daily by the Opposition asking for a discussion have been summarily rejected.
+
+At the same time, Prime Minister Modi, desperate to protect his image, has activated his propaganda machinery and Godi media. First information reports and detentions of young protesters continue, in order to intimidate them. The Bharatiya Janata Party’s online trolls threaten young female protesters and their parents, forcing them to issue public apologies. Prime Minister Modi personally made a video “forgiving” the youth of India for exercising their legitimate right to express themselves. How absurd it is for a Prime Minister to forgive his own people when they are demanding accountability.
+
+Standing with India’s youthSince Prime Minister Modi is clearly so out of touch, let me warn him — young people across the country have awakened. His image is destroyed and can never be rebuilt. The youth of India will not allow him, Home Minister Shah, or any official to escape the consequences of their actions. We in the Opposition stand with the youth. We will not allow these crimes to pass unpunished.
+
+On July 20, 2026, Sahil and thousands of young people across India demanded accountability from those they elected to office. Sooner or later, they will get that accountability. And we will ensure it.
+
+Rahul Gandhi is the Leader of the Opposition in the Lok Sabha, Member of Parliament for Rae Bareli, Uttar Pradesh, and Member of the Indian National Congress
+
+[Read full article](https://www.thehindu.com/opinion/lead/either-culpable-or-incompetent/article71325526.ece)
+
+---
+
+### DC Edit | Mecca Defence Pact Needn’t Scare India
+*Deccan Chronicle · Editorial*
+
+Security scenarios being imagined for the Middle East today appear as terrifying as those of the Cold War era when strategic deterrence with nuclear weapons and ICBMs made it appear as if the world was going to implode at any moment in an US-led West versus USSR confrontation.
+
+Saudi Arabia, Pakistan and Turkey signing a defence agreement based on a Nato-style collective defence principle, clearly aimed at dealing with a threat from Iran and its proxies, is just another reminder of what the West Asia cauldron is like presently, gripped by an enigmatic alternating cycle of escalating wars and periods of tense peace.
+
+The Mecca Joint Defence Agreement should not, however, be seen as anything more than a shield for Saudi Arabia’s historical apprehensions over the possible threat of a Shiite-majority Iran going nuclear. This is not to be taken to mean that if any nation attacks Pakistan, as India did last year, the pact will automatically draw other allies into the conflict.
+
+At a time when the security agreements and assurances of the US seem to mean very little for allies like Saudi Arabia and other nations in the Middle East that are taking hits from Iran and its proxies like the Houthis in Yemen in its war with America and Israel, the pact is best seen as diversification from a strategic hedge that places all faith in a single security guarantor.
+
+The Saudis already have a bilateral strategic mutual agreement with Pakistan, which assumes that the pact could even call for the right to use a nuclear weapon in defence, and Turkey joining it in a tripartite agreement now may only further a collective deterrence as well as promote the usual arrangements like intelligence sharing, etc.
+
+There is always the hope that all such pacts are to be seen as purely defensive measures against the known intractability of Iran as a foe in a restive region that has been defined more by periodical aggression than any genuine desire for lasting peace.
+
+India need not fear what may be termed an Islamic Nato, which is not about Sunni Muslim-majority nations ganging up with Pakistan. And there is no categorical nuclear-sharing clause in this agreement which Iran could use as an excuse to further any nuclear weapon ambitions.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-mecca-defence-pact-neednt-scare-india-1977966)
+
+---
+
+### DC Edit | What If Merchant Recoups UPI Fee From Customer?
+*Deccan Chronicle · Editorial*
+
+Seven years after the merchant discount rate (MDR) was discarded for UPI transactions, the Central government is all set to reintroduce a service charge for processing payments following the approval of an enabling provision through an amendment to the Payment and Settlement Systems Act, 2007.
+
+The suspension of MDR in 2019 — coupled with the ease of transactions offered by UPI and worries surrounding currency notes during the Covid-19 pandemic — mainstreamed QR code payments and catapulted India into becoming the global leader in digital payment systems.
+
+Within six years, UPI’s QR Codes have become the most ubiquitous feature in India. In the last financial year, the National Payments Corporation of India (NPCI) processed 24,162 crore UPI transactions, or 90 per cent of total digital transactions in the country. These transactions were valued at Rs 3,14,23,251 crore, accounting for 57 per cent of the total value of digital transactions in FY 2025-26. IMPS, CTS cheque clearing and NACH clearance together form 36 per cent of digital transactions by value.
+
+As banks failed to make money from UPI despite its unparalleled dominance, they lobbied, with the support of the Reserve Bank of India (RBI), for the reintroduction of a service charge that could enable them to invest in infrastructure and maintenance. While ‘users pay’ is a generally accepted commercial principle, the prospect of charges on UPI has brought disquiet among customers as well as merchants in the country.
+
+Finance minister Nirmala Sitharaman stepped in to clarify that people-to-people UPI transfers will not be charged. She said that if the MDR is reintroduced, only commercial transactions valued beyond a threshold could come under the purview of the service charge. Analysts believe this threshold could be Rs 2,000.
+
+According to NPCI data, the ticket size of 86 per cent of UPI transactions is less than Rs 500, which translates to 20,778 crore transactions. Transactions with a ticket size between Rs 500 and Rs 2,000 account for 10 per cent, or 2,416 crore transactions.
+
+Only four per cent of transactions — 966 crores in absolute terms — have a transaction value of more than Rs 2,000 each. However, these four per cent of transactions — with an average ticket size of Rs 20,000 — make up around two-thirds of UPI payments by value, or Rs 2 lakh crore, opening up space for competition, including from Visa and Mastercard.
+
+Reports also suggest that the MDR on UPI will be lower than the fee charged by international payment processing companies. As Visa and Mastercard charge an MDR of between one per cent and three per cent, UPI’s MDR could be significantly lower at 0.5 per cent or 0.75 per cent.
+
+The government contends that the MDR will be collected from merchants and not consumers. However, in practice, though illegal, many small and mid-sized merchants try to recoup the MDR from customers for accepting online payments, which would marginally increase the cost for customers. The government, therefore, needs to prevent this illegal practice. Otherwise, people will switch to cash payments damaging the country’s long-term goal of achieving a less-cash economy.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-what-if-merchant-recoups-upi-fee-from-customer-1977978)
+
+---
+
+### Bharat Bhushan |Why Changes In FCRA Stoke Minority Fears
+*Deccan Chronicle · Opinion*
+
+In April this year, facing intense criticism and hoping to woo the Christian vote in the Kerala Assembly elections, the government deferred the Foreign Contributions (Regulation) Amendment Bill 2026. Now a second push to ratify the amendments in Parliament is underway.
+
+A key provision of the bill is that once an organisation exits FCRA -- whether voluntarily, for non-compliance, missing the renewal deadline, or through government cancellation -- it will lose its assets created through foreign funds.
+
+This time, some perfunctory consultations have been held with Christian groups, who have been given assurances that the seizure of assets following the cancellation of an organisation’s FCRA certificate will not apply retrospectively. Past assets -- schools, hospitals and places of worship built over decades -- will be spared.
+
+The seized assets will vest in a “designated authority” created by the government, which can pass them on to government departments, ministries or other organisations to manage for public purposes. In principle, these could include non-governmental bodies approved by the government. There are fears that minority institutions could pass into the hands of organisations ideologically aligned with the government.
+
+The government cites the neutral language of the bill to claim it does not discriminate on the basis of religion. It claims that the aim is to prevent foreign funds from compromising national security, public order or shifting local demographics (through proselytization). It has assured that the amendments will not permit altering the religious identity of any seized place of worship.
+
+However, behind the statutory language, critics point out the amendments give enormous leeway for discretionary intervention by the government. They provide no checks before an organisation is deprived of its FCRA certificate. Assets can be taken over by the designated authority without judicial checks. The organisation gets no hearing before FCRA renewal is denied, and there is no appeal mechanism until after assets have already been seized.
+
+In effect, before any independent body examines whether the action was warranted, the organisation has already lost its assets -- although judicial intervention is most useful before asset seizure. Already there is no legal provision for challenging non-renewal of an FCRA certificate. The proposed amendments will compound this disability further.
+
+The courts are structurally locked out while seized property remains vested in the designated authority. The first appeal must go to the designated authority itself, and only if still aggrieved, can the organisation move a district court within 90 days.
+
+Crucially, no deadline is set for the designated authority to decide an appeal -- assets can remain seized indefinitely while no order is passed, blocking recourse to filing an appeal in courts. There is also no interim relief mechanism during an appeal, allowing the designated authority to transfer or dispose of seized assets even while an appeal is pending. The designated authority as an institutionalised discretionary instrument that deprives organisations of property without clear safeguards, is against the spirit of Article 100A of the Constitution.
+
+Parliament is being asked to vote on the text of the bill, but its operational details -- how assets are vested, managed, and disposed of, exemptions and the appellate mechanism -- are left to executive rule-making, where the real discretionary power lies, without parliamentary scrutiny.
+
+The bill also offers no clarity on how to handle mixed funding: how foreign and domestic contributions to a hospital, school, community centre or place of worship would be separated, with only the relevant portion being seized. Left to administrative judgment, mixed-funded infrastructure could end up being seized in full -- an enormous discretionary power. The requirement of prior Central government permission for any investigation further suggests that action may be driven by the ideological leanings of those in power, applied inconsistently and selectively.
+
+Beyond this wide discretionary space and delayed judicial remedy, what worries minority institutions most is the historical record of FCRA enforcement under the Narendra Modi government. Empirical evidence suggests that the amendments are part of an ongoing ideological project, regardless of the neutral language used.
+
+Since Prime Minister Modi came to power, major Christian healthcare and educational networks, as well as Muslim welfare institutions, have faced intense FCRA scrutiny, with license suspended or cancelled.
+
+Christian institutions affected include the Church's Auxiliary for Social Action (India's largest and oldest Christian humanitarian and rural development organisation), the Evangelical Fellowship of India, the Churches of North India Synodical Board of Social Service, the Indo-Global Social Service Society, the Ecreosoculis North Western Gossner Evangelical...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/bharat-bhushan-why-changes-in-fcra-stoke-minority-fears-1977975)
+
+---
+
+### Parsa Venkateshwar Rao Jr |No Need For Indians To Lose Sleep Over Pakistan’s New Pact With Saudis, Turkey
+*Deccan Chronicle · Opinion*
+
+The Mecca defence agreement that Saudi Arabia’s Crown Prince/Prime Minister Mohammed bin Salman reached with Turkish President Recep Tayyip Erdogan and Pakistan Prime Minister Shehbaz Sharif on Friday is something that is multi-mirrored. It appears in several images to viewers from different points. India is wary of Pakistan and Turkey, but not of Saudi Arabia. It is already the case that Ankara is supplying military drones to Islamabad, and this came to light during Operation Sindoor in May 2025. If there is an outbreak of war between India and Pakistan, Saudi Arabia can only give financial help to Pakistan, and Turkey can continue its supply of military drones. That is unlikely to tilt the military balance in favour of Pakistan. The tripartite defence alliance is not something that India needs to lose its sleep over.
+
+Israel interprets the defence agreement as aimed against it, though Israeli diplomats and intelligence agencies know better than to believe in this naïve view. It is the case that President Erdogan’s Turkey is strongly supportive of the Palestinians and it is vehemently opposed Prime Minister Benjamin Netanyahu’s Israel. Pakistan does not have diplomatic relations with Israel, and Islamabad’s support for Palestinians is part of its Islamist tokenism. Saudi Arabia supports the Palestinians in principle though it is not averse to doing business with Israel.
+
+It is clear that Saudi Arabia sees the defence alliance as a strategy to counter Iran. Iran’s attacks on its Arab Gulf neighbours in response to the United States-Israel attack this February made Riyadh aware of its vulnerability. It has been found that the United States does not want to come out in defence of its Gulf Arab alliance partners, though they are paying the price for hosting American military bases in their territories. The United Arab Emirates has formed an undeclared military alliance with Israel. The Saudis are not willing to depend on Israelis, though Israel will only be too willing and happy to be part of a defence alliance with Saudi Arabia. Riyadh’s military pact with Turkey and Pakistan is an ostensible gesture that the richest oil economy in the region is not alone nor isolated. None of Gulf Arab countries are too comfortable with Saudi Arabia, which is the big brother in the Gulf Cooperation Council (GCC).
+
+The question really is whether Pakistan and Turkey will go to war with Iran if there are hostilities between Tehran and Riyadh. Pakistan and Turkey have friendly ties with Iran. In case of military contest, it will be a deadlock between Iran and Turkey and Iran and Pakistan.
+
+The Mecca agreement is carefully worded. It is called a defence agreement. That is, it holds good if any of the three countries are attacked. Iran is unlikely to attack either Turkey or Pakistan. Tehran, for all the zeal of its ayatollahs calling the shots supported by the Iran Revolutionary Guards Corps (IRGC), will not directly attack Saudi Arabia. It would not even attack Israel, which is the ideological enemy of the Shia regime. The defence agreement seems a symbolic statement of three Sunni Islamic states, and it is an indirect stance against Shia-oriented Iran. Symbolism has its uses at a rhetorical level, but it does not carry much weight on the ground.
+
+Similarly, Israel will not attack Saudi Arabia, because the Saudis don’t pose a military threat to Israel. Whatever his anger of Israel’s actions in Gaza and West Bank, Mr Erdogan will not launch a war against Israel. Pakistan will not commit the mistake of attacking far-away Israel.
+
+The case of Turkey poses a special problem. If Turkey were to be attacked, it is not just Pakistan and Saudi Arabia who would have to rush to the side of Ankara, but also the whole of Nato. Turkey is a member of the Western military alliance. An attack on one of its members will pull in the remaining 20-odd European countries into the conflict. Israel is the only country that could be seen as a potential military threat to Turkey. Tel Aviv, however, cannot break ranks with the US and Europe to indulge in a military misadventure against Turkey.
+
+It is, however, hard to ignore the invisible hand of the United States in this exercise of military alliance-building. The Americans would not want to be dragged into a war in the region. They have learnt that lesson from the ongoing hostilities. It is now acknowledged that Benjamin Netanyahu had successfully persuaded US President Donald Trump to enter the fray. American intelligence and military experts are accepting the folly of doing so. Washington is keen to create a network of regional military alliances in West Asia to counter Iran as long as Iran is under the control of the Shia clerics.
+
+The Americans are at a loss to formulate their global strategy. Iran is an ideological opponent but it is not the ideological enemy. The United States, Europe and Israel are opposed to Islamism of the variety symbolized by Mr Erdogan in Turkey and the clerics in Iran, but...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/parsa-venkateshwar-rao-jr-no-need-for-indians-to-lose-sleep-over-pakistans-new-pact-with-saudis-turkey-1977971)
+
+---
+
+### Bike taxis seized, rules still missing
+*Deccan Herald · Editorial*
+
+Karnataka's renewed crackdown on bike taxis has once again exposed the State's contradictory approach to urban mobility. Even as the government has challenged the high court's January judgment before the Supreme Court, it has resumed seizing two-wheelers operating as taxis, citing the absence of commercial permits and regulatory approvals.
+
+The government's concerns are not without merit. Commercial passenger transport cannot operate outside the framework of the Motor Vehicles Act. Requirements such as yellow-board registration, insurance, driver verification, and safety standards exist to protect passengers and ensure accountability. Allowing private white-board vehicles to carry fare-paying passengers without meeting these obligations creates legal ambiguities, weakens consumer protection, and places regulated operators such as autorickshaws and taxis at a competitive disadvantage.
+
+Cops warn auto drivers against harassing bike taxi drivers in BengaluruHowever, the real problem lies not in insisting on regulation but in refusing to create one. During the high court proceedings, the State explicitly stated that it had taken a conscious policy decision not to frame rules for bike taxis. The court rightly held that the government cannot use policy inaction as an indirect ban while simultaneously preventing a legitimate business activity. It also made clear that the State retains full authority to regulate the sector by prescribing conditions for permits, registration, and safety.
+
+The resulting policy vacuum serves no one. It discourages investment by mobility platforms that require regulatory certainty before expanding services or creating jobs. Thousands of gig workers who depend on bike taxis for their livelihood face uncertainty, repeated vehicle seizures, and loss of income. Commuters, particularly in Bengaluru, lose an affordable and efficient last-mile transport option that often succeeds where larger vehicles struggle through traffic. A city battling chronic congestion cannot afford to discard a mobility solution without offering a viable alternative.
+
+The government's reluctance inevitably raises questions. Is it genuinely driven by safety and regulatory concerns, or is it yielding to pressure from powerful autorickshaw unions? Whatever the answer, governance cannot be reduced to maintaining the status quo through litigation and periodic enforcement drives. Several states have demonstrated that regulation is possible through commercial permits or dedicated policy frameworks suited to local conditions.
+
+Karnataka need not copy any one model, but it must evolve one of its own. The choice before the government is not between regulation and prohibition. It is between orderly regulation and perpetual uncertainty. Karnataka should stop governing through a policy vacuum and instead establish a transparent framework that balances safety, fair competition, innovation, and the commuting needs of millions.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/bike-taxis-seized-rules-still-missing-4105161)
+
+---
+
+### Inflation risks rise, but RBI bets on growth
+*Deccan Herald · Editorial*
+
+The decision of the Reserve Bank of India (RBI)’s Monetary Policy Committee (MPC) to keep interest rates unchanged was expected, as both the domestic situation and the external environment pointed to a status quo. The MPC decided to maintain the repo rate at 5.25% and retain its neutral stance. The situation has not changed much since its June meeting, when it decided to maintain the status quo. This is the fourth consecutive time the RBI has kept the rate unchanged.
+
+The situation in West Asia remains volatile. Crude prices are high, and have pushed the headline inflation rate to 4.8% in June, which is above the RBI’s comfort level. The recent increase in inflation is driven largely by food and fuel prices. Core inflation, excluding precious metals, remains subdued at around 2.3-2.5%, but all sectors are likely to see inflationary pressures in the coming weeks.
+
+RBI likely to keep policy interest rates unchanged amid growing inflation risksThe RBI believes that inflation will tend to climb up till the October-December quarter (Q3) of FY2027, and then start declining. It expects the CPI to fall from 5.9% in Q3 to 5.5% in Q4, and then to 5.3% in Q1 of the next financial year (FY2028). But the uncertainty on the external front and the impact of a subpar monsoon will be major negatives. Both kharif and rabi crops will be hit.
+
+The MPC noted that “global oil prices have remained volatile with sharp two-way movements triggered by geopolitical developments, blurring the near-term outlook.” But the RBI expects that growth will not be affected. It has noted that in the first quarter, the economy performed better than expected with robust private consumption and ‘’resilient’’ investment.
+
+Clearly, the RBI is focusing on growth in these circumstances. It has raised its growth forecast to 6.7% for the whole year. Though agricultural output may be affected by the deficiency of the monsoon, overall growth may not be impacted. Merchandise exports grew 15.5% year-on-year in June, and other growth indicators are positive. RBI Governor Sanjay Malhotra said in June that the “Prolonged global supply chain disruptions, volatility in global financial markets, and weather-related shocks continue to pose downside risks to the domestic growth outlook.” In the latest statement, he said that the “risks are evenly balanced.”
+
+The higher projection for the whole year shows that the RBI is confident that the positive factors will prevail, on balance. The status quo decision is to be seen in that context. Malhotra has said that future policy decisions will remain “data dependent”, and that the RBI will rightly adopt a “wait-and-watch” policy.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/inflation-risks-rise-but-rbi-bets-on-growth-4105160)
+
+---
+
+### Listening to Gen Z: Karnataka’s governance through open dialogue
+*Deccan Herald · Opinion*
+
+Whenever I look into the eyes of our young students, I do not just see the future. I see my own past. I am reminded of my own youthful days, filled with fire, passion, and an unyielding desire to bring change.
+
+I was not born into privilege, nor did I inherit power. I became a student leader when I was in college, raising my voice for student rights and standing at the forefront of every struggle. Politics was not a career choice; it was a calling born out of student activism.
+
+My path changed forever because one visionary leader believed in the power of the younger generation — the former Prime Minister late Rajiv Gandhi. He saw potential where others saw inexperience. He actively encouraged, nurtured, and placed his trust in thousands of young leaders like me across the nation. It was his faith in youth leadership that gave a young worker like me the platform to rise, serve, and reach the position where I stand today as your Chief Minister.
+
+Question things that are accepted without a thought, PM Modi tells studentsBecause I walked in your shoes, I know where it bites. Because I was moulded by youth politics, I know that Gen Z does not need sympathy—you need opportunity, trust, and a platform to conquer the world.
+
+The power, dreams, thinking, and hard work of our youth are the divine forces that determine India’s future. Today, the power of Karnataka’s young minds is the primary force behind India’s development. Safeguarding your ideas, aspirations, and rights must be the foremost priority of any responsible government. Ever since coming to power, this government has been striving for the overall progress of the youth.
+
+A few days ago, while attending the Bengaluru India Nano 2026 summit held on the GKVK campus, I noticed hundreds of students from the agriculture university protesting in the scorching heat. Setting aside security protocols and the pride of authority, my Cabinet colleague Priyank Kharge and I went directly to the protesting students.
+
+Sitting among those young minds under a tree, I listened to their grievances. Their primary concern was that allowing BE and BTech graduates to apply for the recruitment of agricultural officer (AO) and assistant agricultural officer (AAO) posts severely compromised the future of BSc (Agriculture) students who spent years pursuing specialised agricultural education.
+
+I reassured them and asked them to remain confident. Later, I convened an urgent meeting with senior KEA officials, suspended the KEA exams scheduled for August 8 and 9, and issued instructions to form an expert committee to review the Cadre & Recruitment (C&R) rules and guarantee statutory and legal protection for the employment opportunities of our agriculture graduates.
+
+The Karnataka model vs the Delhi model
+
+Recently, we saw how the Narendra Modi-led Union government treated young students who gathered in Delhi’s Jantar Mantar from all corners of the country to protest against the irregularities in the NEET examination. What we saw was police high-handedness unleashed on Delhi’s streets on the youth who raised their voices to secure a better tomorrow. What we saw was the arrogance of power suppressing the legitimate anger of the youth.
+
+However, in Karnataka, our approach is starkly different. In a democracy, dialogue is the ultimate solution. The protesting students are our children. Lathis and tear gas have no place in our government; instead, open dialogue and delivering immediate justice is our path.
+
+Karnataka has always been the home of incredible talent. Today, the world views India’s future through Bengaluru. The state is laying a strong foundation to establish the nation’s very first artificial intelligence (AI) university and a state-of-the-art ‘Quantum City’. Not only this, but Karnataka also has the distinction of contributing the highest number of doctors, engineers, scientists, and technologists to the world, standing tall as the undisputed ‘startup capital’.
+
+Having been a student leader myself, I strongly believe that nurturing leadership qualities right from student life is essential to strengthening democracy. To ensure students gain democratic values, organisational strength, and leadership training at the college level itself, our government is seriously considering restarting student union elections in colleges. Our vision is that the youth should not merely stick to bookish knowledge but develop a broad perspective to lead society.
+
+Our core motto is ‘Yuva Karnataka, Nava Bharata’ (Youthful Karnataka, New India). To realise this dream, 10,000 ‘Bharat Jodo’ Youth Clubs and Youth Platforms are being formed across the state. Through these platforms, we will listen to the concerns of Gen Z at every taluk, college and village, help them develop their skills, and support their aspirations for dignified employment.
+
+To bolster the financial security, self-reliance, and self-confidence of the youth, our government has successfully implemented the ‘Yuva Nidhi’ guarantee scheme. A monthly assistance of Rs 3,000 to unemployed graduates and Rs 1,500 to diploma candidates is being transferred directly into their bank accounts. This acts as an economic shield to empower youth to confidently prepare for competitive exams.
+
+Our commitment does not stop here. To support youth awaiting government jobs, we have already initiated the recruitment process for over 70,000 vacancies in the state. To maintain transparency in competitive examinations and prevent question paper leaks, we are consulting with global experts to implement AI technology-driven, high-level security systems. Every honest youth who studies hard must get a job commensurate with their merit.
+
+The Gen-Z community is the true harbinger of technology, innovation, and social change. Giving wings to your dreams and building a safe, fair, and bright future for you is the primary responsibility of our government. Whether it is the cause of agriculture students or any young mind in the state, I will personally stand by you like a rock.
+
+I was once a young student with big dreams, standing in the crowd. Today, as your chief minister, I open the doors of leadership for you. Karnataka’s achievement is the achievement of all of India, and my proud wish is for every single youth to become a bright shining lamp, Siri Hanate, illuminating the state’s future.
+
+The all-round welfare, empowerment, and success of our youth are the ultimate and sole goal of my life and my government.
+
+The writer is the Chief Minister of Karnataka.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/listening-to-gen-z-karnatakas-governance-through-open-dialogue-4105154)
+
+---
+
+### The snake in your medicine cabinet: What venom can teach modern medicine
+*Deccan Herald · Opinion*
+
+Somewhere in a Bengaluru pharmacy right now, someone is being handed a tablet to control their blood pressure. Few of them know that the drug traces its origin to the venom glands of a South American pit viper. Fewer still connect that fact to the snake killed in a backyard last week, or to Karnataka's own uneasy relationship with the reptile, in a year that has just recorded the state's worst snakebite toll on record.
+
+Karnataka recorded 154 snakebite deaths in 2025, the highest of any state in India, up from just 19 in 2023. The biggest driver is a reporting change: Karnataka declared snakebite a notifiable disease in February 2024 under the Epidemic Diseases Act. That alone explains much of the surge in recorded cases, since many rural bites and deaths likely went undocumented earlier. The state is also home to 10 of the 18 snake families found worldwide. That combination — high risk, high biodiversity — sits at the heart of a debate that usually breaks down into two camps: those who fear snakes and want them gone, and those who defend them for keeping rodents off farms. Both miss a third reason snakes are worth protecting, one that has nothing to do with agriculture and everything to do with what is sitting in your medicine cabinet.
+
+Snakebite cases: Health dept's medical audit to improve treatment in KarnatakaVenom is not poison in the crude sense. It is a precision instrument, shaped over millions of years to interact with a very specific biological target — a blood vessel, a nerve receptor, a clotting protein — with an accuracy pharmaceutical chemists spend decades trying to replicate synthetically. In the 1960s, researchers studying the venom of the Bothrops jararaca pit viper isolated a peptide that sharply lowered blood pressure in prey. That discovery led directly to captopril, one of the first ACE inhibitors, a class of drugs still widely prescribed for hypertension and heart failure more than 50 years later. Venom research has since fed into anticoagulants used in stroke prevention, painkillers explored as alternatives to addictive opioids, and early cancer treatments that exploit venom proteins' unusual ability to target diseased cells selectively.
+
+Here is the uncomfortable part: most snake venom has never been fully studied. Each species carries a venom profile that functions as its own evolutionary fingerprint, shaped by its prey, habitat and specific evolutionary pressures. When a species disappears, that entire chemical library disappears with it, unread. This is not a hypothetical loss. It is the same logic that drives rainforest conservation for undiscovered plant compounds, except with venom, we have already seen the payoff, in a drug bottle, in a patient's hand.
+
+A fair objection follows: doesn't this just create a new reason to exploit snakes? It doesn't, and the reason is reassuring. Venom for research and antivenom production is almost never obtained by killing snakes — it is extracted through milking, where a trained handler safely draws venom from a live snake much as one would draw blood, and the animal is returned unharmed. More importantly, once a venom compound's structure is identified, the snake is often no longer needed at all. Captopril today is manufactured entirely synthetically. Researchers increasingly use recombinant DNA techniques, the same approach used to produce human insulin without animals, to manufacture venom peptides in bacteria or yeast once the target molecule is known. The real argument, then, is not that we need snakes to keep extracting from them. It is that we need living, wild populations now, while there is still a chance to study them, because after identification, the snake's job is done — the chemistry can be reproduced without it.
+
+None of these excuses looking away from the human cost. Karnataka's Forest Department has responded to the state's rising snakebite toll not with mass culls but with an operational manual for certified rescuers and a WhatsApp chatbot for snakebite awareness — evidence that public safety and conservation can be pursued together rather than treated as opposing goals. Improving antivenom access and teaching people to identify dangerous species should sit at the centre of any serious conservation effort, not as an afterthought but as the price of asking people to coexist with an animal they have every reason to fear.
+
+The next time a snake turns up somewhere it ‘shouldn't’, the reflex to kill it on sight is understandable but shortsighted. A call to a local rescue line does more for both public safety and scientific possibility than a shovel does. Somewhere in that reptile's glands may be sitting a molecule we have not yet had the chance to find.
+
+The writer is an assistant professor at Dayananda Sagar College, Bengaluru.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/the-snake-in-your-medicine-cabinet-what-venom-can-teach-modern-medicine-4105163)
+
+---
+
+### The tragic costs of aspiration: When exam failure becomes a failure of self
+*Deccan Herald · Opinion*
+
+India is an examination state where the lives of children become a rut of continuous competitive examinations. Children are sold the pipe dream that cracking competitive examinations is the lone route to success and stability. ‘Aspirants’, a unique identity found in India, not only reflects ambition but also relentless preparation, deferred dreams, and tenacious perseverance.
+
+There are close to 60 million aspirants who write one or more competitive exams every year and succumb to the pressures of exam competition due to the prevalent mindset that regards quality education and dignified employment as essential status symbols of a secure life. But just getting a degree from higher education institutions (HEIs) is not serving the purpose, as competitive exams have become the only way to fetch a job, making coaching centres a Hobson’s choice. As of April, India has approximately 68,181 coaching centres, which sell hope instead of education, enticing aspirants into this precarious journey of ‘success as per society standards’.
+
+Often, aspirants stay away from home in long, isolated study sessions in coaching centres; they face repeated failures and multiple attempts. Most of these aspirants are institutionless, often functioning outside the purview of school or university systems. Eventually, students also become institutional orphans—a by-product of systemic apathy and structural bottlenecks, making them vulnerable to stress, anxiety, depression and, at times, suicide.
+
+Beyond paper leaks: Why India's public exams continue to fail studentsData indicate that over the last decade, the total number of suicides in India increased by an average of 2% annually, whereas student suicides rose by 4% — twice the overall rate. Official records do not distinctly document suicides among candidates preparing for competitive tests. Consequently, the scale of the problem remains hidden within student-suicide statistics, hindering the development of evidence-based solutions.
+
+The moment we hear about aspirants’ suicide, we ask what was wrong with them rather than what made them think a failure in an exam is a failure in life. From a psychological lens, high propensity towards suicide stems from feelings of helplessness, hopelessness and worthlessness. What pushes them towards such drastic measures: is it a personal or a systemic issue?
+
+Helplessness and frustration arise when one has no sense of control over the outcomes. Students start their exam journey with the hope of guaranteed employment, but they stumble into the labyrinth of administrative chaos. Question paper leaks, exam postponements, re-exams, changing syllabi, incorrect questions, inaccurate correction methods, distant examination centres, and prolonged recruitment processes act as a stress multiplier, worsening their mental health. Besides, the lurking thought that the competitive exams might not be conducted in a just and fair manner adds to the uncertainty.
+
+The examinations are designed in such a way that most aspirants become recurring attempters, as they fail to clear the exams and are left with a deep sense of failure and bleak view of the future. The exam preparations do not necessarily guarantee a secure future, and the experience and knowledge acquired become redundant outside of the exam effort.
+
+When the aspirants fail repeatedly, that failure becomes an identity rather than remaining individual episodes. The equation of exam failure with a larger failure of the self gives rise to self-blame or self-doubt. This instance of an internalised failure, which owes largely to governance failure, could make any subsequent achievement feel inadequate.
+
+Limited opportunities and intense competition allow only a handful of aspirants to enter HEIs or government service. The rest are left stranded after years of grinding, with few secure pathways to dignified employment.
+
+Ideally, State institutions must come to the rescue of students and remove the uncertainties surrounding the examination process. However, the current mental health architecture, which is institution-centric, leaves aspirants without adequate institutional support. There is no specialised mental health support linked to examination bodies or recruitment commissions, no support centres in coaching hubs, and no digital mental health platforms or helplines. Combined with the cold, business-like attitude of coaching centres, this makes aspirants wonder why the nation is absent for its nation-builders.
+
+Ashwini is an assistant professor of psychology, School of Liberal Arts and Sciences and Anurag is an assistant professor of law, School of Law, Vidyashilp University, Bengaluru.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/the-tragic-costs-of-aspiration-when-exam-failure-becomes-a-failure-of-self-4105156)
+
+---
 
 ## 9 August 2026
 
