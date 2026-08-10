@@ -1,3 +1,910 @@
+## 10 August 2026
+
+### Psychology says some people keep expecting the worst even when life is going well because...
+*India Today Education Desk · general*
+
+## Life is going well, yet you still feel like something bad is about to happen. Psychology suggests this isn't always pessimism. Defensive pessimism, negativity bias, uncertainty intolerance and past experiences can all make the brain stay alert, even during life's happiest moments.
+
+Life is going well, yet you still feel like something bad is about to happen. Psychology suggests this isn't always pessimism.
+
+You finally get the promotion you've worked towards for years.  
+But instead of celebrating, a thought appears: "What if I can't live up to expectations?"
+
+Your medical tests come back normal.  
+"Maybe they missed something."
+
+Your relationship is going well.  
+"What if it suddenly falls apart?"
+
+For some people, good news is quickly followed by the feeling that something bad must be around the corner.
+
+Psychology suggests this isn't always a sign of negativity. Researchers say the brain may be responding to uncertainty, learned experiences, defensive pessimism, negativity bias and hypervigilance, all of which can make it difficult to fully relax, even when life is going well.
+
+### DEFENSIVE PESSIMISM CAN FEEL LIKE A WAY TO STAY PREPARED
+
+One explanation comes from Defensive Pessimism, a concept developed by psychologist Julie Norem.
+
+Defensive pessimism describes a strategy where people deliberately imagine possible problems before important events.
+
+Rather than expecting disaster because they enjoy worrying, they believe preparing for the worst will help them cope if things go wrong.
+
+Imagine someone flying overseas for a long-awaited holiday.
+
+Instead of simply looking forward to the trip, they mentally prepare for delayed flights, lost luggage and missed connections.
+
+Most of those things never happen.
+
+Yet imagining them creates a sense of being prepared.
+
+Research suggests this strategy can sometimes reduce anxiety, although relying on it constantly may also increase unnecessary worry.
+
+### NEGATIVITY BIAS MAKES THE BRAIN PAY MORE ATTENTION TO THREATS
+
+Another explanation comes from one of psychology's best-established findings: negativity bias.
+
+Researchers, including Roy Baumeister and colleagues, have shown that negative events generally have a stronger psychological impact than equally positive ones.
+
+From an evolutionary perspective, overlooking danger carried greater consequences than overlooking good news.
+
+Imagine receiving ten compliments at work and one piece of criticism. Many people remember the criticism first.
+
+The same bias can make people focus on what could go wrong even during happy periods of life.
+
+The brain isn't trying to spoil the moment. It's trying to protect it.
+
+### INTOLERANCE OF UNCERTAINTY MAKES "WHAT IF?" QUESTIONS HARD TO IGNORE
+
+Psychologists studying Intolerance of Uncertainty have found that some people experience significant discomfort when outcomes remain unknown.
+
+Even when everything is going well, uncertainty still exists.
+
+Will the new job work out?  
+Will the relationship last?  
+Will this success continue?
+
+Because the brain cannot answer those questions with certainty, it sometimes keeps searching for possible risks instead.
+
+For some people, the unknown itself feels more stressful than the possibility of bad news.
+
+### PAST EXPERIENCES CAN TRAIN THE BRAIN TO STAY ALERT
+
+The brain is constantly learning from experience.
+
+If someone's life has involved repeated disappointments, unexpected setbacks or unpredictable situations, the brain may gradually become more alert to signs that something similar could happen again.
+
+Psychologists often describe this as hypervigilance, a state of heightened awareness where people continuously scan for possible problems.
+
+Imagine someone whose previous jobs ended unexpectedly.
+
+Even after finding a stable workplace, they may continue worrying that redundancy or bad news is just around the corner.
+
+Their brain isn't necessarily responding to the present. It's responding to patterns it learned from the past.
+
+### THE BRAIN OFTEN OVERESTIMATES FUTURE EMOTIONS
+
+Another useful explanation comes from affective forecasting, the study of how people predict their future emotional reactions.
+
+Research by psychologists Daniel Gilbert and Timothy Wilson shows that people often overestimate both how bad negative events will feel and how long those feelings will last.
+
+Someone waiting for exam results may imagine complete devastation if they don't achieve the expected marks.
+
+Someone starting a new relationship may constantly picture how painful a future breakup would be.
+
+The brain creates detailed emotional forecasts, even though those predictions are frequently inaccurate.
+
+### STRESS APPRAISAL SHAPES HOW WE SEE THE SAME SITUATION
+
+Psychologist Richard Lazarus, through his Transactional Model of Stress and Coping, argued that stressful situations are shaped less by the event itself than by how people evaluate it.
+
+Two employees may receive identical promotions.
+
+One sees new opportunities. The other immediately worries about higher expectations and possible failure.
+
+The promotion hasn't changed. The brain's interpretation has.
+
+That interpretation largely determines whether the future feels exciting or threatening.
+
+### SO, WHY DO SOME PEOPLE EXPECT THE WORST?
+
+Psychology suggests that expecting the worst isn't always about being naturally negative.
+
+It often reflects a combination of defensive pessimism, negativity bias, intolerance of uncertainty, hypervigilance, affective forecasting and personal life experiences that encourage the brain to stay prepared for potential problems.
+
+These psychological mechanisms developed to protect us, not to make us unhappy.
+
+Understanding them can help people recognise that constantly expecting disaster isn't always an accurate prediction of the future.
+
+Sometimes it's simply the brain trying a little too hard to keep us safe.
+
+### FAQs
+
+**Why do I always expect something bad to happen even when life is going well?**
+
+Psychologists say this may be linked to defensive pessimism, negativity bias, intolerance of uncertainty or past experiences that taught the brain to stay alert for possible problems.
+
+**Is expecting the worst the same as being pessimistic?**
+
+Not necessarily. Some people use defensive pessimism as a coping strategy to prepare for uncertainty rather than because they believe bad outcomes are inevitable.
+
+**Can past experiences make me expect the worst?**
+
+Yes. Repeated setbacks or unpredictable experiences can increase hypervigilance, making the brain more likely to look for possible threats even during stable periods.
+
+**How can I stop assuming the worst will happen?**
+
+Psychologists suggest becoming aware of automatic thought patterns, challenging predictions with evidence and gradually building tolerance for uncertainty can help reduce this habit over time.
+
+\- Ends
+
+Aug 10, 2026 08:00 IST
+
+---
+
+### Wildfire rages across France, forces evacuations as 200 firefighters battle blaze
+*Agence France-Presse · general*
+
+## As a precaution, two hamlets in the municipality of La Tieule, directly in the path of the flames, were evacuated at around 5:00 pm, affecting about 20 homes.
+
+A fast-moving wildfire was raging in southern France on Sunday, forcing evacuations as more than 200 firefighters raced to contain the blaze.
+
+The fire broke out around 12:45 pm (1045 GMT) in the Lozere region, about 140 kilometres (85 miles) northwest of Montpellier.
+
+Officials said it might have been sparked by a vehicle catching fire on a local road.
+
+By late afternoon, the fire had burned some 153 hectares (370 acres) and continued to spread.
+
+Around 270 firefighters from Lozere and neighbouring departments were deployed, backed by four Canadair water bombers and two Dash aircraft.
+
+A Lozere fire service spokesman said their combined efforts had helped “contain the blaze and save two homes” that were directly threatened.
+
+“The flanks are being held. Work is now focused on the head of the fire, which remains inaccessible,” he added.
+
+As a precaution, two hamlets in the municipality of La Tieule, directly in the path of the flames, were evacuated at around 5:00 pm, affecting about 20 homes.
+
+“This is an area with a great deal of woodland. It’s extremely dry. The drought is unlike anything we’ve seen in a long time,” said Marc Toulouse, a senior fire officer in Lozere.
+
+Local authorities urged residents not to call emergency services to report the blaze, warning that doing so could overload crews already fighting the fire.
+
+French officials are still taking stock of the damage caused by a series of fires, mainly in the south of France, including the largest wildfire since 1949, in the southwest Gironde region.
+
+\- Ends
+
+Akash Chatterjee
+
+Aug 10, 2026 07:59 IST
+
+---
+
+### Video: Wife finds husband at another woman’s flat in Noida, clash follows
+*India Today News Desk · general*
+
+A high-voltage drama unfolded at a residential society near Noida when a physical altercation broke out between two women after one of them found her husband at the other woman's apartment.
+
+The incident took place at the Gaur City-2 township in Greater Noida West, also known as Noida Extension. A video of the incident also went viral on social media.
+
+According to the police, one of the women seen in the video is involved in a court dispute with her husband, and the couple have been living separately amid the dispute.
+
+They were scheduled to appear in court on Friday, August 7, in connection with the case. However, the man failed to attend the hearing. His wife subsequently reached a flat in Gaur City-2 while trying to locate him.
+
+There, she found him inside with another woman. This led to an argument between the two women, which soon escalated into a physical altercation.
+
+A crowd also gathered outside the apartment following the commotion. After the scuffle, both sides approached the police.
+
+During questioning, officials learnt that the woman present in the flat was a friend of the man. She was vacating the apartment and had called him to help her move her belongings, officials said.
+
+The man's wife, however, arrived at the scene while the two were there, leading to a dispute between the two women. Despite both sides approaching the police, neither party filed a complaint, an official said.
+
+\- Ends
+
+(Based on inputs from Arun Tyagi)
+
+Aug 10, 2026 07:59 IST
+
+---
+
+### Jodhpur's lady don, sons arrested after swindling businessman of over Rs 2 crore
+*Ashok Kumar · general*
+
+## Jodhpur Lady Don Sumta Vishnoi has 16 criminal cases registered against her in Jodhpur and other locations. The cases include drug smuggling and fraud, and she has previously spent time in judicial custody.
+
+Jodhpur lady don Sumta Vishnoi has 16 criminal cases registered against her in Jodhpur and other locations.
+
+Sumta Vishnoi, known in Rajasthan’s criminal circles as “lady don”, was arrested from her home in Jodhpur in connection with a Rs 2.45-crore fraud case. Her two sons were also taken into custody.
+
+According to police, they received information on Saturday that Vishnoi was at her residence. When officers reached the house, however, they found nobody outside except dogs.
+
+Suspecting that someone could be inside, they called a carpenter and asked him to break open the wooden door.
+
+Police then found Vishnoi inside with one of her sons.
+
+When a senior police officer saw her, Vishnoi reportedly greeted him with, “Jai Hind Sir.”
+
+The police then asked the carpenter to open another locked room where they suspected her other son was hiding. Vishnoi intervened and told the officers, “Don’t break it. I’ll take him out.”
+
+She subsequently brought her other son out, following which the three were taken to the police station.
+
+Vishnoi, Vinod and Manish were produced before a court and remanded to police custody until August 14. Police are now questioning them as part of the investigation.
+
+The fraud case was registered following a complaint by Parvat Singh Rajpurohit, a businessman from Chittorgarh.
+
+According to the complaint, Vishnoi allegedly used her purported connections with politicians, officials and the police-court system to convince Rajpurohit that she could get important work done for him.
+
+He claimed that she took Rs 1.5 crore promising to secure the prasad contract at the Sanwaliyaji Temple Trust, while demanding another Rs 1.4 crore on the assurance that she could facilitate bail for a person from the High Court.
+
+Neither promise was afulfilled, and Rajpurohit claimed that Vishnoi subsequently refused to return the money.
+
+Police said the complainant had also alleged dealings involving Vishnoi’s sons, leading to their arrest in the case.
+
+The police have confirmed that Vishnoi has 16 criminal cases registered against her in Jodhpur and other locations. The cases include drug smuggling and fraud, and she has previously spent time in judicial custody.
+
+Police said she has been particularly associated with cases involving drug trafficking.
+
+Vishnoi is also alleged to have had longstanding links with notorious smuggler Pradeep Iram. According to the police account, the two were involved in smuggling operations, with Vishnoi escorting consignments of doda post from Madhya Pradesh.
+
+She was also involved in transporting weapons and would drive through the night during such operations, police said.
+
+Iram and his associates were also allegedly known to use police uniforms while carrying out smuggling activities.
+
+\- Ends
+
+Karishma Saurabh Kalita
+
+Aug 10, 2026 07:51 IST
+
+---
+
+### Missed a loan EMI? RBI’s new recovery rules shield borrowers from harassment and device locking | Mint
+*Shivam Shukla · economy*
+
+## RBI’s new loan recovery rules protect borrowers from harassment, misuse of personal data and unauthorized device locking, setting clearer boundaries for banks, NBFCs and recovery agents from January 2027. 
+
+RBI’s new loan recovery framework strengthens borrower protection by limiting intrusive recovery practices while allowing lenders to pursue legitimate unpaid dues through regulated, transparent processes.
+
+Managing personal loans or home loan EMIs can be stressful. Missing due dates or defaulting on repayments carries serious implications, including the risk of being pursued by recovery agents. Borrowers must have a repayment strategy before applying for loans.
+
+The Reserve Bank of India (RBI) has now issued new directions to protect borrowers from intrusive loan-recovery practices. The guidelines, titled _Conduct of Regulated Entities in Recovery of Loans and Engagement of Recovery Agents,_ were issued on 6 August and will take effect from 1 January 2027.
+
+The framework sets strict limits on how banks and recovery agents can contact borrowers, use personal data and deploy technology to recover unpaid dues.
+
+## **Banks barred from locking borrower devices**
+
+Banking institutions cannot use technology or advanced mechanisms to forcibly restrict a borrower’s mobile phone, tablet, laptop or other similar devices to ensure recovery of pending dues from a personal, car, home or auto loan. The only exception in such cases is when the loan was specifically taken to finance that particular device.
+
+Even in such cases, lending institutions must follow a gradual process and provide due notice and time.
+
+**RBI rule**
+
+**What it means for borrowers**
+
+Personal devices
+
+Cannot be disabled for recovery of un
+
+Financed devices
+
+Restrictions may apply, subject to RBI safeguards
+
+Notice period
+
+The borrower must receive due notice before restrictions
+
+30 days past due
+
+Device restrictions cannot begin before this stage
+
+60 days past due
+
+Full restrictions may be imposed as per the loan agreement
+
+Essential functions
+
+Incoming calls, SMS and emergency SOS must remain available
+
+Personal data
+
+Contacts, photos, SMS, call logs and location history cannot be accessed for recovery
+
+_Note: For complete details, refer to the official RBI notification._
+
+## **Recovery agents prohibited from harassment and data misuse**
+
+The RBI has also tightened rules governing recovery agents. Customer integrity and privacy are of paramount importance. Banks must ensure that only information necessary for recovery is shared with employees or agencies.
+
+Recovery agents cannot use abusive language, personal attacks, threaten or publicly shame borrowers, or contact relatives, friends or colleagues to intimidate them.
+
+The rules also prohibit banks and their technology providers from accessing personal information stored on a borrower’s device, including contacts, photos, text messages, call records and location history, for loan recovery purposes. Any such attempt is against the law and can result in appropriate remedial action.
+
+## **Borrowers reminded of EMI obligations under new rules**
+
+For borrowers, it is essential to keep in mind that the new rules do not cancel or dilute loan obligations in any way. Borrowers remain responsible for unpaid EMIs, any pending debt obligations and applicable interest. Non-compliance can have legal ramifications and impact credit profiles and credit scores.
+
+The RBI framework makes it clear that loan recovery must follow regulated, transparent and fair processes rather than intrusive and threat-driven tactics. For borrowers facing financial difficulty, the RBI has said that banks must have systems in place to address financial distress and to explain available resolution options.
+
+### About the Author
+
+Shivam Shukla
+
+Shivam writes on personal finance, equity markets, and mutual funds. He has previously contributed to several leading publications, including Moneycontrol. He can be reached at shivam.shukla@htdigital.in
+
+---
+
+### Ithaca, the island of Odysseus, gets its Hollywood moment
+*Afp · business*
+
+Ithaca: Standing on the ferry as it waits to dock on the Greek island of Ithaca, Giorgia Ongarato is only too keen to talk about the "Odyssey" -- the epic poem that inspired Christopher Nolan's blockbuster film.
+
+The Italian lawyer said it was her dream to come to Ithaca, widely believed to be the same island as the home of Odysseus in the poem.
+
+  
+
+Dressed in a T-shirt emblazoned with the word "Odyssey" in ancient Greek alongside a line from the poem, she enthused: "I studied Greek when I was a child, and I studied the Odyssey."
+
+While she stressed that the film was not her entry point into the tale of the hero battling his way back home from the Trojan war, the 50-year-old said she was also a fan of the film -- describing it as "wonderful".
+
+The island's businesses and officials now expect the film to inspire many more to follow in her footsteps.
+
+Ithaca, in the Ionian Sea off the west coast of mainland Greece is far from the country's tourist hubs, and despite limpid waters and spectacular bays, it has never been a regular stop for travellers.
+
+Its interior is rugged, carpeted with olive and cypress trees, and strikingly calm even at the height of the tourist season.
+
+Although the movie has undoubtedly piqued the interest of many, it has also been slightly controversial in Greece -- although some Greek locations were used, not a single scene in the blockbuster was actually shot on Ithaca.
+
+## \- Homeric monuments abound -
+
+That decision has left some crestfallen on the island of roughly 3,000 inhabitants -- where the film has been shown twice in open-air screenings since its July 16 worldwide release.
+
+Xhimi Xoxha, who runs a restaurant in Ithaca's capital of Vathi, said he was content that the movie was already "generating publicity for the island". He predicted the positive effects would continue.
+
+While Ithaca mayor Dionysis Stanitsas agreed that the publicity was "tremendous", he could not hide his disappointment that the island itself did not feature.
+
+"We had reached out to the production team and asked that some scenes be filmed here on the island," he said. "Unfortunately, that wasn't feasible."
+
+He is, however, counting on rising demand next year, and the island was already fully booked for this season by the time the film came out.
+
+"As more people see it, they will begin planning trips to visit the island," he said.
+
+Visitors will not find a palace of Odysseus or any spectacular archaeological site likely to confirm the existence of the Homeric hero.
+
+But village squares and the town hall are dotted with statues of Odysseus and Homer.
+
+And there are other pointers to the island's rich literary heritage.
+
+In the small sun-drenched port, boats bob in the green water bearing names like "Telemachus" (son of Odysseus) and "Calypso" (a goddess and nymph who imprisoned him).
+
+Trinket shops offer busts of Homer and Penelope, Odysseus's wife.
+
+T-shirts can be found amid the jumble featuring the Cyclops Polyphemus -- one of the many monsters vanquished by Odysseus.
+
+And the truly devoted can splash out for a wall plate decorated with a Trojan Horse.
+
+Archaeologist Spyros Couvaras is among those expecting a dramatic upsurge in visitors, saying it was clear that visitors wanted more than just sand and sea -- they wanted the history and the mythology.
+
+None of those are in short supply here.
+
+A short distance from the shops and restaurants of the port, holidaymakers stretch out on deck chairs under parasols at Dexia beach, enveloped by the grating sound of cicadas.
+
+According to legend, this is where Odysseus landed after years of voyaging.
+
+Couvaras said the "driving force" of the renewed interest was undoubtedly the movie.
+
+"But behind Nolan's film stands Homer," he said.
+
+---
+
+### Samsung Galaxy Z Fold8 Ultra, Z Fold8, Z Flip8, Watch Ultra2 & Watch9 go on sale: Check price, features and offers
+*Unknown · business*
+
+Samsung has officially expanded its foldable and wearable portfolio with the launch of the Galaxy Z Fold8 Ultra, Galaxy Z Fold8, Galaxy Z Flip8, Galaxy Watch Ultra2 and Galaxy Watch9. The new devices are now rolling out globally, with sales beginning in select markets from August 7.
+
+According to Samsung, early demand for the latest Galaxy Z series has been strong, with pre-orders rising by more than 30% compared with the previous generation. Graphite emerged as the most popular colour for the Galaxy Z Fold8 Ultra and Galaxy Z Fold8, while Pink was the top choice among Galaxy Z Flip8 buyers.
+
+  
+
+## Samsung Galaxy Z Fold8 Series Brings Three Foldable Experiences
+
+Samsung's latest Galaxy Z lineup is designed to offer different foldable experiences depending on how users want to work, create, consume content and stay connected.
+
+  
+
+The Galaxy Z Fold8 focuses on a wider cover display for everyday tasks such as messaging, browsing and watching short-form videos, while its 4:3 main display is designed for more immersive activities such as reading, gaming and viewing content.
+
+The foldable is Samsung's lightest Galaxy Z Fold yet, weighing 201g. It also features the company's new Flex Titanium technology, which supports a slimmer display structure while improving durability and reducing the visibility of the crease over time.
+
+  
+
+## Galaxy Z Fold8 Ultra Gets 8-Inch Display And 200MP Camera
+
+The Galaxy Z Fold8 Ultra takes Samsung's Ultra branding into the foldable segment, offering a larger workspace, upgraded cameras and hardware aimed at demanding users.
+
+The device features an 8-inch main display, giving users more room for multitasking and creative work. Samsung has also introduced features such as Now Nudge, which can suggest relevant next steps across supported applications.
+
+Photography is another major focus. The Galaxy Z Fold8 Ultra comes with a 200MP main camera that supports HDR in 200MP mode, along with a new 50MP ultra-wide camera for wider shots and macro photography.
+
+Samsung has also introduced Dual Recording across the Galaxy Z Fold8 Ultra, Galaxy Z Fold8 and Galaxy Z Flip8. The feature allows users to record an event while simultaneously capturing their own reactions. The My FanCam feature can automatically track and reframe a selected subject.
+
+The Galaxy Z Fold8 Ultra packs a 5,000mAh battery and supports 45W Super Fast Charging 2.0. It also features an expanded graphite cooling structure. When unfolded, the device measures just 4.1mm thick and weighs 215g, making it Samsung's slimmest Z Fold design yet.
+
+## Galaxy Z Flip8 Focuses On Camera, FlexWindow And AI
+
+The Galaxy Z Flip8 has been designed for users looking for a compact foldable with an emphasis on quick interactions and photography.
+
+Samsung has redesigned its FlexWindow to provide access to applications, information and actions directly from the cover screen. The Now Brief feature can also surface personalised information based on a user's schedule, routines and interests.
+
+Users can access Gemini from the FlexWindow using the side key or natural voice commands, allowing them to carry out connected tasks without necessarily opening the phone.
+
+For photography, the Galaxy Z Flip8 features a 50MP camera, Samsung's ProVisual Engine and FlexCam capabilities. These features are designed to make it easier to capture and preview photos and videos from different angles.
+
+## Samsung Galaxy Watch Ultra2 Targets Outdoor And Fitness Users
+
+Alongside the new foldable phones, Samsung has launched the Galaxy Watch Ultra2, aimed at outdoor enthusiasts and users looking for a more rugged smartwatch.
+
+The Galaxy Watch Ultra2 comes in a 47mm size and features an 800mAh battery. Its display can reach up to 5,000 nits of brightness, while the watch uses a shock-resistant titanium casing.
+
+The smartwatch also includes dedicated outdoor sports tracking modes, including Trail Run. It carries IP69K and 10 ATM ratings and is certified to EN 13319, adding to its focus on durability and outdoor use.
+
+## Galaxy Watch9 Designed For Everyday Health Tracking
+
+The Galaxy Watch9 is positioned as a more everyday health and wellness companion. It is available in 40mm and 44mm sizes and features a lightweight aluminium casing designed for comfortable 24/7 wear.
+
+Its display can reach up to 3,000 nits of brightness. Samsung has also introduced several health and fitness features, including Vitals, Heart Health Score, Daily Cardio Load, Fitness Index and Hearing.
+
+Both Galaxy Watch Ultra2 and Galaxy Watch9 are powered by the Snapdragon Wear Elite Platform, with Samsung focusing on improved performance, comfort, battery life and continuous health tracking.
+
+## Samsung Makes Switching From iPhone Easier With Smart Switch
+
+Samsung has also upgraded its Smart Switch migration experience to make it easier for users to move from other devices, including iPhones.
+
+iOS users can scan a QR code on their existing device and transfer data wirelessly without downloading an additional application. Smart Switch can now transfer more types of information, including passwords and passkeys, call history, accessibility settings and eSIM information.
+
+Samsung has also introduced compatibility between Quick Share and AirDrop, allowing users to share files between Galaxy and iOS devices in both directions.
+
+## Galaxy Z Fold8, Flip8 And Watch9 Availability
+
+The new Samsung Galaxy devices began rolling out from August 7, with availability expanding globally through carriers, retailers, Samsung's website and Samsung Experience Stores.
+
+The Galaxy Z Fold8 Ultra, Galaxy Z Fold8 and Galaxy Z Flip8 are available in multiple colours, with additional colours offered exclusively through Samsung's online store in some markets.
+
+The Galaxy Watch Ultra2 is available in a 47mm size, while the Galaxy Watch9 comes in 40mm and 44mm variants. Samsung noted that colours, connectivity options, models and availability can vary depending on the market and retailer.
+
+## Samsung Galaxy Z Fold8 Series Offers And Google AI Pro Trial
+
+Customers purchasing a new Galaxy Z series device will receive a six-month trial of Google AI Pro, which includes 5TB of cloud storage. Samsung says the offer provides access to Google's AI models and tools aimed at improving productivity and creativity on its foldable devices.
+
+Buyers of the Galaxy Watch Ultra2 and Galaxy Watch9 can also access an exclusive two-month iFIT subscription trial, allowing users to explore workouts and training programmes with iFIT trainers.
+
+## Samsung Care+ Offers Protection For New Galaxy Devices
+
+Samsung is also offering Samsung Care+ for customers looking for additional protection. The service covers unexpected incidents such as accidental drops, spills and knocks, with unlimited repairs for accidental damage under the applicable plan.
+
+Optional Theft & Loss cover and access to Samsung's worldwide repair service are also available, depending on the plan and market.
+
+## **Samsung Galaxy Z Fold 8 Ultra, Galaxy Z Fold 8, Galaxy Z Flip 8, Galaxy Watch Ultra 2, Galaxy Watch 9 Price and Availability**
+
+**Model**
+
+**RAM/Storage**
+
+**Colours**
+
+**Price**
+
+Galaxy Z Fold8 Ultra
+
+12/256GB
+
+Graphite, Cream, Violet Shadow and Green Shadow (online exclusive)
+
+INR 199999
+
+12/512GB
+
+INR 219999
+
+16/1TB
+
+INR 259999
+
+Galaxy Z Fold8
+
+12/256GB
+
+Graphite, Cream, Lavender and Pistachio (online exclusive)
+
+INR 179999
+
+12/512GB
+
+INR 199999
+
+16/1TB
+
+INR 239999
+
+Galaxy Z Flip8
+
+12/256GB
+
+Graphite, Cream, Pink and Mint (online exclusive)
+
+INR 124999
+
+12/512GB
+
+INR 144999
+
+  
+
+**Model**
+
+**Size**
+
+**Connectivity**
+
+**Colours**
+
+**Price/Unit**
+
+Galaxy Watch Ultra2
+
+47mm
+
+Titanium Silver and Titanium Gray
+
+INR 64999
+
+Galaxy Watch9
+
+40mm
+
+Graphite and Cream
+
+INR 41999
+
+40mm
+
+Graphite and Cream
+
+INR 37999
+
+44mm
+
+Graphite and Silver
+
+INR 44999
+
+44mm
+
+Graphite and Silver
+
+INR 40999
+
+## **Samsung Galaxy Z Fold 8 Ultra, Galaxy Z Fold 8, Galaxy Z Flip 8, Galaxy Watch Ultra 2, Galaxy Watch 9 offers**
+
+**Galaxy Z8 Series Launch Offers**
+
+**Z Fold8 Ultra 256**
+
+**Z Fold8 256**
+
+**Z Flip8 256**
+
+Option 1
+
+Platform + NBFC EMI
+
+4K UG\* + 30M NBFC\*\* EMI
+
+4K UG + 30M NBFC EMI
+
+3K UG + 30M NBFC EMI
+
+Option 2
+
+Platform + Bank EMI
+
+3K BCB\*\*\* + 12M Bank EMI
+
+3K BCB + 12M Bank EMI
+
+2K BCB + 12M Bank EMI
+
+Option 3
+
+UG Only
+
+8K UG Only
+
+8K UG Only
+
+5K UG Only
+
+Option 4
+
+BCB Only
+
+7K BCB Only
+
+7K BCB Only
+
+4K BCB Only
+
+\*Upgrade \*\*Non-banking Financial Company \*\*\* Bank Cashback
+
+**Model**
+
+**Multibuy Offer**
+
+**OR**
+
+**BCB Offers**
+
+**AND**
+
+**NBFC + Bank EMI**
+
+Galaxy Watch Ultra2
+
+INR 9500 Multibuy Offer
+
+INR 6500 BCB Offer
+
+Up to 24M NCEMI with 0 Down-Payment
+
+Galaxy Watch9 44MM
+
+INR 6500 Multibuy Offer
+
+INR 4500 BCB Offer
+
+Galaxy Watch9 40MM
+
+INR 6000 Multibuy Offer
+
+INR 4000 BCB Offer
+
+---
+
+### Jharkhand students to march to Assembly today after talks with government fail
+*Ashutosh Mishra · general*
+
+Students protesting alleged irregularities in government recruitment examinations in Jharkhand are set to march to the state Assembly on Monday after talks with the Hemant Soren government ended without a breakthrough on Sunday.
+
+Both sides accused each other of not being serious about resolving the issue, with the deadlock centred on the students’ demand for a CBI probe into alleged irregularities in recruitment examinations and cancellation of a Jharkhand Staff Selection Commission (JSSC) examination. The government has rejected these demands.
+
+The protesters said the Assembly march would go ahead despite appeals from Chief Minister Hemant Soren and Governor Santosh Kumar Gangwar to return to the negotiating table. Security arrangements have been tightened across Ranchi ahead of the protest.
+
+“Even after three rounds of talks, the government has not conceded to 100 per cent of our demands. Regarding the march to the Legislative Assembly scheduled for Monday, aspirants and our fellow supporters from all districts of Jharkhand are extending our moral support. We will march in large numbers from the old Assembly building to the new one, conducting this as a completely peaceful march,” student leader Sanjay Mehta said.
+
+According to Mehta, the protesters’ key demands include cancellation of the Jharkhand Staff Selection Commission (JSSC) Combined Graduate Level (CGL) examination, a CBI probe into the alleged irregularities, acceptance of the examination reform model proposed by the students and adherence to their suggested recruitment calendar.
+
+“If the government fails to meet even a single one of these demands, the movement will continue until they are fulfilled,” he said.
+
+The protest leaders have urged the agitators to remain united and peaceful, march together to the Assembly without disrupting traffic or inconveniencing the public, avoid confrontation with police, report any signs of disorder and continue pressing their demands peacefully while verifying information and avoiding rumours.
+
+### VERY IMPORTANT DAY FOR JHARKHAND: MAHTO
+
+Devendra Nath Mahto, who has been on a hunger strike for eight days, urged students and parents across Jharkhand to join the planned Assembly march on Monday, calling August 10 “a very important day for Jharkhand”.
+
+“Students have been troubled by paper leaks in every examination, and we are fighting against this,” Mahto said, adding that he had lost 10 kg, suffered a drop in blood sugar and was in severe pain. “But the pain of seeing question papers being leaked and students being denied jobs is greater than this physical pain.”
+
+Calling Monday a “decisive day” for the movement, Mahto appealed to protesters to gather at the Old Assembly Ground at 10.30 am and march towards the Assembly. He urged them to remain peaceful and follow the law despite administrative restrictions.
+
+“Our student delegation has held two rounds of talks with the government. To a large extent, our movement has received a positive response, but it is not sufficient. Complete reforms are necessary,” he said.
+
+“Tomorrow (Monday) is a very important day for Jharkhand. It is our decisive battle so that children from poor families, farmers’ families, working-class families and rural areas can get jobs. There should be no manipulation, no setting and no paper leaks in any examination,” Mahto said.
+
+The protest in Ranchi entered its 17th day on Monday, with six students on indefinite hunger strike.
+
+Students have rejected the government’s claim that it has accepted 98 per cent of their demands, saying the assertion does not reflect the outcome of the negotiations. They alleged that the government had agreed to cancel only three of the 13 examinations whose cancellation they had sought.
+
+“The Jharkhand government is spreading lies that it fulfilled 98 per cent of our demands. It cancelled only three of the 13 exams sought by us,” a student leader said.
+
+### GOVERNMENT SAYS 98% DEMANDS ACCEPTED
+
+The Jharkhand Mukti Morcha (JMM)-led government, however, maintained that it had agreed to most of the students’ demands and urged them to withdraw the agitation and continue negotiations.
+
+“It is unfortunate that students are not ready to withdraw the agitation, though we agreed to most of their demands. There is no intention to save any culprit involved in exam irregularities,” Higher and Technical Education Minister Sudivya Kumar, a member of the government panel, said.
+
+The government said it had agreed to cancel the 14th JPSC examination and proposed an Enforcement Directorate probe into alleged financial irregularities in the JPSC examination.
+
+It has also announced a fast-track court mechanism under which charge sheets in cases 
+
+As part of examination reforms, the government has proposed an expert panel comprising representatives from IIT-ISM Dhanbad, IIM Ranchi and XLRI Jamshedpur.
+
+It has also proposed a committee headed by a retired High Court judge to examine the JSSC-CGL issue.
+
+The state has launched a portal seeking students’ suggestions on examination reforms and said it would formulate a standard operating procedure to ensure greater transparency in future recruitment examinations.
+
+The government, however, has rejected the demand for a CBI probe into the JSSC-CGL examination, arguing that the examination was conducted under the monitoring of the High Court and the Supreme Court.
+
+The disagreement over the nature of the probe remains the central sticking point in the negotiations.
+
+### SOREN, GOVERNOR APPEAL FOR DIALOGUE
+
+Chief Minister Hemant Soren said those responsible for examination irregularities would face strict action and assured protesting students that justice would be delivered transparently.
+
+He also cautioned against politicising the agitation and urged students not to be misled by political interests.
+
+Governor Santosh Kumar Gangwar also appealed to the protesters to resolve the matter through dialogue, saying the government’s doors remained open.
+
+Gangwar said the authorities did not want to compromise the future of students.
+
+The government panel also met Mahto, whose health condition worsened on Sunday and appealed to him to withdraw his hunger strike.
+
+## JPSC MEMBERS RESIGN AMID ALLEGATIONS
+
+Amid the protests and allegations, three Jharkhand Public Service Commission (JPSC) members resigned on Sunday.
+
+Governor Santosh Kumar Gangwar accepted the resignations of Ajeeta Bhattacharya, Anima Hansda and Jamal Ahmad, according to a statement issued by the Lok Bhavan.
+
+The resignations came after the Jharkhand CID summoned all three members for questioning in connection with allegations including paper leaks.
+
+Bhattacharya, the wife of JMM leader Supriyo Bhattacharyya, is scheduled to be questioned on August 10, Ahmad on August 12 and Hansda on August 14.
+
+JPSC chairman L Khiangte had resigned on July 22. Officials said 19 people have so far been arrested in connection with alleged irregularities in JPSC examinations.
+
+Khiangte has been questioned four times since July 28. The CID questioned him for nine hours on July 28 and for eight hours each on July 29 and July 31.
+
+He resigned a day before the CID searched multiple locations, including his official residence, in connection with the alleged irregularities. Khiangte said he had "voluntarily chosen to resign" to ensure an impartial investigation.
+
+The JPSC had earlier postponed the Combined Civil Services Mains Examination, scheduled from July 25 to July 27, citing "unavoidable circumstances" amid the protests.
+
+### SECURITY TIGHTENED AHEAD OF ASSEMBLY MARCH
+
+The Jharkhand Police has made elaborate security arrangements across Ranchi ahead of Monday’s march and imposed prohibitory orders around the Assembly premises. Senior officials said the police administration had been put on alert in view of the possibility of unrest during the proposed march.
+
+Cops urged the students to maintain the peaceful and disciplined character they had demonstrated during the two-week-long agitation.
+
+“It is their responsibility to ensure that anti-social elements and troublemakers are prevented from joining the march,” Additional Director General of Police, Manoj Kaushik, said.
+
+Ranchi SSP Rakesh Ranjan added, "We do not want a blot on the career of any student due to disruption of law and order. Barricades have been put in place at major points with the deployment of an adequate police force across the city".
+
+A prohibitory order has been imposed within a 750-metre radius of the Vidhan Sabha building from August 6 to August 12 and will remain in force between 6 am and 10 pm during this period.
+
+A similar prohibitory order was imposed from Sunday midnight in Jamshedpur in view of the protest march planned in Ranchi.
+
+The Ranchi district administration has appealed to the protesting students to refrain from aggressive demonstrations and cautioned against violence and illegal activities during the march.
+
+The government has also said that elaborate security arrangements have been made and that no student would be harassed during the protest.
+
+Most schools are expected to remain closed on Monday in view of the planned agitation.
+
+The protesters, however, alleged that hundreds of students travelling to Ranchi from different parts of Jharkhand were being stopped by police from reaching the state capital.
+
+\- Ends
+
+Aug 10, 2026 07:44 IST
+
+---
+
+### NALSAR students urge university to reconsider CJI Surya Kant as convocation chief guest
+*SECTIONS NALSAR students urge university · business*
+
+A section of students at the National Academy of Legal Studies and Research (NALSAR), Hyderabad, has urged the university to reconsider its proposed invitation to Chief Justice of India Surya Kant as chief guest for its upcoming convocation, Times of India reported, citing concerns over his reported remarks during a hearing on alleged police excesses against ‘Chalo Sansad’ protesters at Jantar Mantar in Delhi.
+
+At least six separate representations have been submitted to the university administration by students from different batches, seeking reconsideration of the proposed invitation, TOI has learnt.
+
+  
+
+The CJI has traditionally delivered the convocation address at NALSAR. The date for the 2026-27 batch’s convocation, however, has not yet been finalised, students said.
+
+The first representation was submitted on July 23 to the vice-chancellor, registrar, professors and the university administration. It referred to remarks reportedly made by Surya Kant during the hearing, including his response to an offer by counsel to show videos of the alleged police action: “We are not interested in videos; we don’t have time to watch.” The representation also quoted him as telling the counsel: “Don’t waste our time, and don’t waste your time”.
+
+The students said the reported remarks were at odds with the constitutional values they believed the university should uphold.
+
+Referring to the remarks, the students said, “A convocation is meant to be a moment where the University’s own values, including a commitment to constitutional rights, access to justice, and reasoned engagement with grievances, are visibly reflected in the choices it makes."
+
+"We feel that receiving our degrees from a dignitary whose recent public conduct, as reported, appears dismissive of serious allegations of police brutality against protesting citizens sits uncomfortably with what we have been taught to value during our time at NALSAR.”
+
+Five subsequent representations from students of different batches expressed support for the concerns raised in the original letter and asked the university to take the objections into account before finalising the chief guest.
+
+Students told TOI that they had not received any response from the university so far. Repeated attempts by TOI to contact NALSAR vice-chancellor Srikrishna Deva Rao were unsuccessful. The institute’s registrar, meanwhile, said he was not aware of the representations.
+
+Students claimed the representations had received support from hundreds of students across the institute. One student said each representation carried the signatures of around 70 to 80 students, putting the combined number at roughly 350 to 450. The figures could not be independently verified by TOI.
+
+“We respect the CJI’s position. But we have been taught the Constitution and constitutional values, and we don’t want to support something that goes against those values,” said a student, who is also a member of the Student Bar Council.
+
+Another student, referring to the wording of the original representation, said: “We request the university to strongly reconsider this choice of chief guest for this convocation…We are open to discussing this further with the administration in whatever manner is convenient, whether through a meeting with student representatives or through any other channel the university considers appropriate.”
+
+The students’ representations come before the university has finalised the date of the convocation, leaving open the possibility of further discussion between the administration and student representatives over the proposed chief guest. (With inputs from Times of India)
+
+---
+
+### Yemeni military says Houthi attack on Mocha kills 7, wounds 30
+*SECTIONS Yemeni military says Houthi attack · business*
+
+The Yemeni military said seven people including military personnel and civilians were killed and ‌30 others ⁠wounded ⁠in a Houthi attack on the Red Sea port city of Mocha, civilian infrastructure and armed forces.
+
+"Four members of the armed forces and three ​civilians have been killed, ⁠and 30 ‌others injured," the Yemeni ​military ​said in a statement early ⁠on Monday.
+
+Air defences intercepted and shot ​down 11 Houthi drones ​that participated in the attack, the military said.
+
+  
+
+Footage shown by Houthi-affiliated Al Masirah TV showed the launch of several ballistic missiles ‌and drones, which Houthi military spokesperson Yahya Saree said in a post on ⁠Telegram targeted Saudi troop concentrations and weapons depots.
+
+The Yemeni military said the Houthi ​attacks had also targeted residential neighbourhoods in Mocha.
+
+---
+
+### The heart problem that can quietly steal your stamina as you age
+*Unknown · legal*
+
+Heart valve disease often develops slowly, with breathlessness, fatigue and reduced activity mistaken for normal ageing. Here’s why recognising the signs matters
+
+[Read full article](https://indianexpress.com/article/health-wellness/heart-problem-steal-stamina-age-10825619/)
+
+---
+
+### Dollar near two-month trough as US inflation data awaited
+*Reuters · forex, finance*
+
+The U.S. dollar hovered near a two-month low against major currencies on Monday as investors awaited this week's inflation data for clues on the Federal Reserve's rate path.
+
+The euro ​edged higher to $1.1558, hovering near its strongest level since mid-June, while sterling was steady at $1.3490, near a five-week peak.
+
+The yen held firm at 157.90 per dollar, having given back some intervention-driven gains but remaining well off the ‌roughly 164 multi-decade ⁠low hit ⁠late last month.
+
+The dollar index, which tracks the currency against six major peers, was little changed at 99.6, hovering ​near its lowest level since June 2.
+
+Data on Friday showed the U.S. economy unexpectedly shed jobs in July ​and job gains for the prior two months were revised sharply lower, cooling expectations for a Fed rate hike next month.
+
+U.S. Treasury yields fell as the jobs report dashed hike bets, with those on benchmark U.S. 10-year notes last at 4.637%. The futures ⁠market has ‌scaled back the chance of a September move to around 44%, from 67% a week ago.
+
+"The weaker U.S. labor-market signal has pulled down real-rate expectations, extended the ⁠dollar decline... but not yet a clean easing story," Geoff Yu, ​senior EMEA market strategist at BNY, wrote in a note, adding ​that perceptions around U.S. inflation data will likely be the biggest factor for currencies this week.
+
+A consensus estimate calls for the core CPI to rise 0.2% month-on-month in July, lifting the annual rate to 2.5% and extending a gradual moderation in inflation. The annual rate was 2.6% in June.
+
+Producer price data on Thursday and retail sales figures on Friday will further inform the outlook for ‌inflation.
+
+"Although there's a lot of inflation dynamics, the Fed will for now stay on the sidelines and wait to see how things play out," Rodrigo Catril, ​senior FX strategist ​at NAB, said in ⁠a podcast.
+
+Oil prices rose on Monday, with Brent oil futures last up 1.4% at roughly $85 per barrel amid continued uncertainty over the reopening of the Strait of Hormuz. Iran said a deal with ​Oman defining new shipping lanes was in its final stages but it added that the U.S. must still meet other conditions.
+
+In Asia, the New Zealand dollar and Australian dollar each slipped 0.1% to $0.7062 and $0.5889 respectively.
+
+Market participants await the Reserve Bank of Australia's rate decision on Tuesday. The central bank is expected to hold its key rate at 4.35% for the rest of the year.
+
+---
+
+### Monsoon rain clouds begin to disappear as El Nino eyes a comeback over India
+*India Today Science Desk · general*
+
+## Satellite imagery shows monsoon cloud cover retreating across large parts of India and the Bay of Bengal. The shift has revived concerns that El Nino may be steering the season into another subdued phase.
+
+The latest satellite signals do not necessarily mean that the monsoon has collapsed. (Photo: Windy)
+
+India’s monsoon appears to be losing some of its recent strength, with satellite imagery showing a noticeable reduction in cloud cover across large parts of the country and even over the Bay of Bengal.
+
+The changing pattern has raised fresh concerns that El Nino could be beginning to influence the Indian monsoon after weeks of relatively active rainfall.
+
+At present, the low-pressure system (LPS) over central India remains the primary weather system generating clouds and rainfall. Its influence is largely concentrated over central parts of the country, while large areas elsewhere are beginning to see a decline in monsoon activity.
+
+One of the more significant signals is the reduction in cloud cover over the Bay of Bengal, a key moisture source for the Indian monsoon.
+
+A decrease in organised cloud activity over the Bay of Bengal can indicate weakening moisture transport towards the Indian landmass, potentially limiting the formation and movement of rain-bearing systems.
+
+The monsoon axis is also shifting southwards. This change is likely to push the most active rainfall zone away from the northern plains, bringing mainly dry weather back to Delhi-NCR, Haryana, Punjab and Uttar Pradesh.
+
+While isolated areas could still receive rain, the showers are expected to be short-lived. Moderate rainfall may occur at a few places, particularly during the afternoon and evening hours, but a widespread spell of rain is not currently expected across the region.
+
+The emerging pattern comes at a time when scientists and weather watchers are closely tracking the development of El Nino conditions in the Pacific Ocean. El Nino is typically associated with changes in atmospheric circulation that can weaken or disrupt the Indian summer monsoon, although its influence varies from one event to another.
+
+The latest satellite signals do not necessarily mean that the monsoon has collapsed. India continues to have active rainfall-producing systems, particularly over central India. However, the rapid reduction in cloud cover and weakening activity over the Bay of Bengal suggest that the monsoon may be entering another subdued phase.
+
+For northern India, the immediate takeaway is a return to hotter and largely dry conditions, punctuated by occasional localised showers.
+
+The key question now is whether the weakening cloud shield is temporary, or the first clear sign that El Nino is beginning to regain control over India’s monsoon.
+
+\- Ends
+
+Sibu Kumar Tripathi
+
+Aug 10, 2026 07:30 IST
+
+
+---
+
 ## 9 August 2026
 
 ### Did Air India Phuket-Delhi Pilot Test Positive In Dope Test? What Happened After 300 Feet Drop Amid Turbulence?
