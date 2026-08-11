@@ -1,8 +1,139 @@
 # Editorials
 
-_Last updated: 2026-08-10 03:28 UTC_
+_Last updated: 2026-08-11 03:20 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 11 August 2026
+
+### Case for consensus: On delimitation
+*The Hindu · Editorial*
+
+The monsoon session of Parliament is in its last week without any substantive deliberations or legislative outcomes. There may be several reasons for the stalemate, but at its core are the controversial FCRA amendments and the opacity around the government’s delimitation proposals. Overall, it is as if the government views Parliament as an obstacle to be circumvented rather than a forum for deliberation and consensus-building on national issues. That is the attitude that offers no resolution to any question, while it may create winners and losers on some. But in the absence of good-faith conversations and consensus, what may appear to be a victory for the government or the Opposition at one moment could turn out to be a net loss for parliamentary democracy and the nation. A parliamentary majority is a necessary technicality, but democracy is not limited to that. The effort must always be to expand consensus and reduce conflict across the spectrum of opinion on any given issue. India, being as diverse as it is, naturally has multiple views, not only between the government and the Opposition but also within each side. Unfortunately, expressing and reconciling those opinions is given far less priority than marshalling the numbers to support any given move.
+
+The impact of the forthcoming delimitation is going to be far-reaching; it must be preceded by as wide a consensus as possible. The country’s representative system is on the cusp of a revision, but the government that is anxious to modify its timeline and terms also wants to be extremely secretive about it. Passing legislation with very little prior deliberation or parliamentary debate has become routine in recent years. Delimitation is a topic about which there is a great deal of misunderstanding and serious concern. A large segment of even the political class may be oblivious to its scope and implications. Rather than trying to change the laws regarding delimitation and the size of the Lok Sabha by somehow aggregating the required number of votes behind it, the government should circulate its proposals and receive feedback from all stakeholders. An all-party meeting, as demanded by the Opposition, can be a good start to the deliberations that should take place in the polity at large and inside Parliament. Anything that is technically legitimised through subterfuge will be seen by the public as such. It must be recalled that in 1976 and in 2001, under a Congress government and a BJP government, respectively, decisions with regard to delimitation were taken unanimously. The government and the BJP should once again take the initiative to build a consensus on delimitation for the sake of the nation’s unity and progress.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/case-for-consensus-on-delimitation/article71328817.ece)
+
+---
+
+### Tracking nursing: On the Nurses Registration and Tracking System
+*The Hindu · Editorial*
+
+For a country where the human resources in health care will always fall short of the recommended patient-professional ratio, it is important to make sure that every single resource is harnessed. However, government data tabled in the Lok Sabha have shown that the Nurses Registration and Tracking System, created over seven years ago, has registered less than a third of the total nurses in the country. Only 14.24 lakh of the 46.02 lakh registered nursing personnel have been enrolled, leaving 31.78 lakh outside the national system. Clearly, the move to create an accurate national registry and streamline registration-related services on a single platform for all nurses is far from yielding satisfactory results. There are also stark regional disparities, and unexpected performances with the large southern States (Tamil Nadu, Karnataka, and Andhra Pradesh) figuring among the laggers, while Bihar, Jharkhand and Odisha show between 80%-99% enrolment rates. The Indian Nursing Council has attributed the delays to issues rooted in jurisdiction, and federal tension, on the grounds that primary registration is legally the responsibility of individual State Nursing Registration Councils. To receive a National Unique Identity card and nurse passbook, nurses rely on verification by their respective State Nursing Councils. Further, the charge is that several State councils have resisted migrating fully to the central portal and continue operating independent parallel systems.
+
+Poor nurse registration — irrespective of whether it is caused by incomplete digital tracking systems, outdated State registries, delayed licensing, or regional autonomy — has widespread consequences across health-care systems, apart from personally affecting nurses. For nurses, there will be delays in sanctioning their requests for inter-State transfer and credential verification for overseas employment. For the nation, without a centralised live registry that can provide a true measure of how many nurses (with specialisations) are available where, there might be artificial surpluses or deficits on paper, leading to less-than-ideal deployment of resources, and implementation of policy decisions. Fragmented registries also make it easy for unverified individuals, impersonators, or personnel with revoked licences to practise using fraudulent credentials, thus compromising patient safety. A live tracker would be of utmost use during public health emergencies — including disease outbreaks and natural disasters. Else, it could be impossible for state agencies to track, mobilise or deploy specialised nursing personnel to high-alert zones. Given the crucial complementary role, and in some areas, even the primary role that nurses play in the health-care system, efforts must be made to ensure that all nurses are brought into the portal.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/tracking-nursing-on-the-nurses-registration-and-tracking-system/article71328779.ece)
+
+---
+
+### DC Edit | Jharkhand Stir Reveals Real Issues Far Deeper Than NEET
+*Deccan Chronicle · Editorial*
+
+As the protests by Jharkhand job aspirants snowballed into open defiance of restrictions placed around the new Vidhan Sabha in Ranchi with protesters sticking to their demand for accountability over exam paper leaks and breaches in the integrity of the JPSC-JSSC tests, the realisation may have dawned on all political leaders that Jantar Mantar may have been just a trailer.
+
+Behind the demonstrativeness at Jantar Mantar, which then spread to Ranchi in a restrained and peaceful manner under the leadership of students, is something that is genuine. The frustrations and discontent among the youth over a broken examination system which carries enormous implications for their careers and jobs and their very future have found a path to put governments on notice about the dire and urgent need for cleaning up the exam and recruitment systems.
+
+The same pattern of police brutality, discernible in the use of force as in water cannons, baton charges and firing of tear gas shells, was to be seen in Ranchi, capital of an Opposition-ruled state as well. An opportunistic Opposition that saw an opening to be more relevant in national affairs and jumped on the explosive Jantar Mantar situation may now have to persuade one of its own leaders to be reasonable and assuage the Jharkhand protesters.
+
+Not only is the problem the same as happened to the prestigious medicine gateway that is Neet but also that state governments which conduct their own civil service entrance tests for jobs — seen as tickets to a secure life and so are in disproportionately high demand — can be equally callous about trying to ensure the preservation of the integrity of the exam system, which has had huge holes punched into it by the greed of question paper setters and the paper-leak mafia.
+
+The initial response of governments that have had to deal with the gathering student protests was to treat it as a law and order situation which had to be controlled to prove that the establishment is in control. What was invariably missing at the start was the desired empathy backed by a timely recognition of the need to sit down and talk to student leaders and convince them that the government has woken up to the reality of the situation and that, going forward, its efforts to retrieve the system’s fairness will be real.
+
+No one expects that an ideal meritocracy can be put in place in a country that has such a huge, decades-old commitment to affirmative action. But the least those who run competitive exams can do is to ensure that the question papers are not leaked and that a level playing field is offered to all those who endeavour to ace the tests and get their favoured stream of study or land government jobs.
+
+Governments have the money to hire the expertise to foolproof question papers and the exam process. It is a lack of will to address the issue as vital to Gen Z aspirations and study it thoroughly to find solutions to stop the irregularities and the leaks until protests exploded that showed up the character of political leaders. If they cannot heed the level of protests as seen in New Delhi and Ranchi, they will be doomed in their avocation as career politicians.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-jharkhand-stir-reveals-real-issues-far-deeper-than-neet-1978201)
+
+---
+
+### DC Edit | Unlock Faster FDI Decisions
+*Deccan Chronicle · Editorial*
+
+A proposal, reportedly being considered by the government to raise the threshold for foreign direct investment (FDI) proposals requiring approval of the Cabinet Committee on Economic Affairs (CCEA) from Rs 5,000 crore to Rs 15,000 crore, is both timely and sensible. India cannot remain a preferred destination for global capital if it retains approval structures that have not kept pace with the rising scale of investment.
+
+Under the current FDI norms, investment proposals involving foreign equity inflows above Rs 5,000 crore must go before the CCEA, while those below the threshold can be cleared by the ministry concerned. The reported move to triple the limit would allow ministries to decide on proposals without automatically pushing them for the consideration of the Cabinet committee, which met just 10 times in 2025.
+
+The current Rs 5,000-crore benchmark ($550 million) appears dated as investment requirements for semiconductors, electronics, renewable energy, automobiles, data centres, infrastructure and advanced manufacturing routinely run into several thousand crores. This makes the investment which may once have qualified as an exceptionally large investment seem increasingly normal. The approval architecture, therefore, must evolve accordingly.
+
+When multiple countries, including the developed ones, vie for global capital, speed and ease of doing business matter.
+
+Besides labour costs, market size and tax incentives, multinational companies typically look for regulatory certainty and the time taken to secure approvals. Every avoidable layer of decision-making imposes a cost and may lead to a lost opportunity.
+
+India has made considerable progress in dismantling unnecessary controls over foreign investment.
+
+That process must continue wherever regulation adds delay without adding meaningful oversight. The proposed change, which is speculated to be under consideration, preserves the essential safeguards of India’s FDI regime. It also signals to global investors that India understands a basic rule of modern business: capital goes where opportunity is matched by speed, certainty and administrative efficiency.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-unlock-faster-fdi-decisions-1978221)
+
+---
+
+### Get the Karnataka government moving
+*Deccan Herald · Editorial*
+
+The Congress executed the change of guard in Karnataka with surgical precision, replacing Siddaramaiah with D K Shivakumar on June 3 without the drama and disruption that often accompany a transfer of power. Yet while the transition at the top was smooth, the rest of the party’s apparatus has struggled to recalibrate. Thirteen ministers were administered the oath along with Shivakumar, but it took two months to expand the Cabinet, and the uncertainty that continues suggests that internal politics has overshadowed the business of governance. Rumblings began even before the swearing-in ceremony. Mankal Vaidya was replaced with S S Mallikarjun at the last minute, while Gayathri Shanthegowda, the lone woman among the proposed ministers, was dropped. This left the Cabinet with a vacancy and, more significantly, without a woman minister.
+
+A week after the expansion, the ministers are unable to take charge of their departments as portfolios are yet to be allotted. More troubling are reports that some of the newly inducted ministers could be asked to resign even before being assigned responsibilities, to accommodate disgruntled leaders who have refused to fall in line with the party’s diktat. Should this materialise, it would make a mockery of the Cabinet expansion. One of its objectives was to bring in fresh faces and nurture a new generation of leadership. But the old guard appears reluctant to relinquish ground, with several leaders seeking to preserve influence. The result is an administrative vacuum, with unelected bureaucrats becoming the de facto decision-makers in critical areas.
+
+Karnataka bandh on August 13 will go ahead, asserts Kannada activist Vatal NagrajThe delay has also cast its shadow on the monsoon session of the legislature, which was postponed from August 6 to 13. Traditionally, the session convenes soon after a leadership change, giving elected representatives – and through them, the people – a chance to hear the new Chief Minister’s policies, programmes, and roadmap. That opportunity has been denied for two months. The Congress’s predicament is understandable: it faces a problem of plenty in terms of legislators and leaders, while caste and regional aspirations cannot simply be brushed aside. However, political compulsions cannot become an excuse for administrative paralysis. To his credit, Shivakumar has injected some momentum into an administration criticised for becoming dormant. But the leadership must now swiftly get its house in order and not allow the inertia to persist. The Congress will be judged not by how smoothly the leadership transition took place, but by how effectively its government delivers for the people at large.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/get-the-karnataka-government-moving-4106387)
+
+---
+
+### UPI success is a model to preserve
+*Deccan Herald · Editorial*
+
+With the amendment to the Payment and Settlement Systems Act, 2007, which enables the government to levy charges on banks and service providers for UPI transactions, questions emerge on the central idea of free transactions envisioned under the digital regime. The government has clarified that person-to-person transactions will remain free, and any future Merchant Discount Rate (MDR), enabled by the legislation, will apply only to a specific category of merchant transactions. It is reported that transactions of Rs 2,000 and above may attract costs, which are yet to be determined. According to NPCI data, 86% of UPI transactions involve Rs 500 or less, and those between Rs 501 and Rs 2,000 account for 10%. Only 4% of transactions involve Rs 2,000 and more, though they constitute around two-thirds of UPI payments by value.
+
+The argument for imposing an MDR is that banks and payment processors have borne the costs of maintaining and upgrading the UPI infrastructure since the system went free in 2020. While the government’s incentive scheme covers a part of the costs, banks and payment operators have highlighted their burden, which they see as disproportionate. Reserve Bank of India (RBI) Governor Sanjay Malhotra recently said, “Someone will have to pay” for these transactions. The demand for an MDR regime has grown with the steady expansion of the UPI footprint. UPI is a major Indian success story that has transformed financial transactions. With 640 million daily transactions, it has emerged as the world’s largest real-time digital payment system and has significantly helped the country move towards its stated objective of a cashless economy.
+
+Parliament clears taxation bill, Sitharaman says UPI transactions to remain free for consumersThis makes it imperative that the UPI services continue to be free for most of its users. It is stated that the MDR will be limited only to merchants, who may be tempted to recoup this cost under various pretexts. The cost of this change should not be passed on to customers. The government should establish robust, transparent provisions to prevent any such attempt. A failure here can prove costly, pushing people back to cash payments. It is also important to look closely at the claim that transactions for customers are “free”. A part of the subsidy that the government extends to the scheme is met with taxes paid by citizens, through substantial budgetary allocations. Access and affordability have steered the UPI system to the success it has achieved. Policy revisions must stay true to these foundational principles.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/upi-success-is-a-model-to-preserve-4106386)
+
+---
+
+### AI is reading for us. What about the thinking?
+*Deccan Herald · Opinion*
+
+Many people hail artificial intelligence as the next major advancement in humankind. Every technological advance, however, compels society to confront an unsettling question: Progress for whom, and at what cost? We are forced to address this issue in light of the recent disclosures on Anthropic's internal project, Project Panama. The disagreement is also a much larger discussion about knowledge, culture, and the future of human intellect, even though it has been primarily portrayed as a copyright dispute.
+
+Anthropic bought millions of actual books, removed their bindings, scanned each page to create digital datasets, and then recycled or threw away the original copies, according to court records made public during the copyright dispute. According to reports, the business saw this as an effective way to get top-notch training data for its AI models. Due to the transformative character of the usage, a United States federal court determined that scanning legally acquired books for AI training might be considered fair use. However, the same lawsuit also discovered that Anthropic had independently collected millions of digital books that had been stolen; this behaviour was not covered by fair-use protection and resulted in significant legal liabilities.
+
+Travellers beware of AI CaptiveCrunch cyberthreat; hackers using hotel Wi-Fi to record your video, audio, steal passwordsThese are separate legal concerns. But from an ethical standpoint, they all centre on the same question: What happens when books stop being educational tools and are used as raw materials by machines? A physical book's worth is derived from its tangible presence, including its edition, annotations, typography, pictures, and even use indicators, in addition to the words printed on its pages. These physical traits are essential for comprehending the history of ideas, as historians, literary academics, archivists, and bibliographers have long shown. A book that has been destructively scanned could still be readable, but it is no longer a cultural memory.
+
+To be clear, destructive scanning is not new in and of itself. It has occasionally been employed by libraries and archives to provide public access to rare works or to preserve decaying collections. The key difference is in intent. To increase access and preserve information, public institutions digitise books. The main reason commercial AI companies digitise books is to create proprietary models that are profitable. While enclosure benefits private platforms, preservation benefits the general public.
+
+This distinction is important because AI systems are starting to take over as the primary interface humans use to interact with information. Instead of reading a book, checking a journal article, or comparing many sources, consumers are increasingly asking chatbots questions. AI replies with concise synopses, integrated reasoning, and responses that appear authoritative. There is no denying the convenience. Less comforting are the philosophical consequences.
+
+Learning is the methodical process of creating understanding, not only the acquisition of knowledge. It is frequently a laborious, sluggish, and difficult intellectual process. AI can identify important points, compare writers, describe a 500-page book in a matter of seconds, and even write articles. These features can boost output, but they also promote a covert kind of cognitive outsourcing. People may depend more and more on machine-generated interpretations rather than interacting directly with original works. The fear is not that AI would instantly reduce human intelligence. Instead, it is that civilisations may progressively abandon the customs that foster independent thought. Critical thinking is developed via debating opposing viewpoints rather than absorbing conclusions.
+
+The price of efficiency
+
+Important issues about the political economics of knowledge are also brought up by Project Panama. Proprietary AI systems use millions of books produced over centuries by philosophers, scientists, historians, writers, and poets as training material. A small number of firms dominate the resultant models, which mediate the presentation and accessibility of knowledge. Although the original books are still scattered across libraries and bookshops, commercial algorithms are increasingly exposing the public to their condensed material.
+
+A democratic examination of this concentration of informational power is warranted. Liberal democracies depend on people who can assess the facts, identify prejudice, and discuss opposing ideas. AI systems are not intended to introduce people to the entirety of the richness and diversity of intellectual traditions; rather, they are made to produce knowledge. Although useful, efficiency shouldn't take the place of plurality.
+
+This should not be interpreted as a criticism of AI in general. AI has huge potential to democratise expertise, speed up scientific discovery, increase educational access, and support research. Additionally, one should not be suspicious of digitalisation. Numerous manuscripts have been preserved thanks to digital preservation, which has also increased global access to knowledge.
+
+Making sure that technical progress stays in line with human growth rather than just business optimisation is the difficult part. AI systems run the danger of undermining the very intellectual capabilities democratic societies rely on if they start to replace reading rather than complement it.
+
+Therefore, Project Panama should be remembered as more than just a copyright lawsuit or a tale of millions of books being destroyed. It represents a significant change in how people see knowledge. Books are increasingly regarded as inputs for training machines rather than only as tools for educating people.
+
+Whether AI can read every book ever published is not the real challenge posed by Project Panama. The question is whether we are unintentionally producing a generation that reads less, reflects less, and thinks less independently as a result of our zeal to create thinking robots. That would be a much bigger loss than any one library being destroyed.
+
+Enterprises should embed responsible AI, security throughout agent lifecycle: Infosys executiveThe legal issue of fair use vs piracy is now mostly settled, and Project Panama will probably be regarded as a case study in how AI firms acquired their training data. However, the more enduring question it poses is unrelated to courtrooms. The question is whether a generation that grew up with rapid synthesis would still frequently decide to sit with the challenging original. No judge can make that decision. Long after this case is forgotten, it will be created, one reader at a time.
+
+(The writer is an assistant professor at the Department of Political Science, Amity Institute of Liberal Arts, Amity University, Bengaluru)
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/ai-is-reading-for-us-what-about-the-thinking-4106379)
+
+---
 
 ## 10 August 2026
 
@@ -65,6 +196,17 @@ Rahul Gandhi is the Leader of the Opposition in the Lok Sabha, Member of Parliam
 
 ---
 
+### English in India, a language that has earned its place
+*The Hindu · Opinion*
+
+What makes a language Indian? A recent observation by the Supreme Court of India has revived the debate over whether English can be considered an indigenous language of India. The debate over the place of English in India has often been framed as a contest between English and Indian languages. Such a binary is both historically misleading and politically unhelpful. The promotion of Indian languages such as Hindi, Tamil, Telugu, Odia, Kannada, or Marathi need not — and should not — be predicated upon denying recognition or patronage to English. The future of India’s linguistic diversity lies not in choosing one language over another but in nurturing multilingualism. English may not be an indigenous language in the same historical sense as Sanskrit or Tamil, yet, over two centuries, has acquired a legitimate claim to belong to India.
+
+The strongest objection to treating English as an Indian language is that it arrived with British colonialism. It was introduced to facilitate administration, commerce, missionary activity, and what the colonial rulers described as their civilising mission. In its early history, English undoubtedly served the interests of the Empire. Yet, languages cannot be permanently imprisoned by the circumstances of their arrival. Their identities are continually reshaped by the people who speak them. Once English entered India, Indians appropriated it, transformed it, and made it serve Indian aspirations rather than colonial objectives.
+
+[Read full article](https://www.thehindu.com/opinion/lead/english-in-india-a-language-that-has-earned-its-place/article71329291.ece)
+
+---
+
 ### DC Edit | Mecca Defence Pact Needn’t Scare India
 *Deccan Chronicle · Editorial*
 
@@ -111,6 +253,39 @@ The government contends that the MDR will be collected from merchants and not co
 
 ---
 
+### Aakar Patel | Why Indians Need To Protect, Expand The Right To Hold Peaceful Protests
+*Deccan Chronicle · Opinion*
+
+There was a remarkable exchange in the Delhi high court last week. The government was asked why it was not considering shutting down Jantar Mantar area as a venue for protests.“Why don’t you shut it down? According to me, these things should not happen in the city, but it’s the government’s call. Why should the city be put to ransom unnecessarily?” the court asked. It was hearing a plea filed by All India Dalit Christian Rights Protection Committee seeking directions to the Delhi police to decide its plea seeking permission to hold a protest at Jantar Mantar.
+
+The group’s advocate then asked if it was the Centre's stand that in Delhi there can be no protests. To this, the reply was: “That’s for the police to decide.”
+
+The advocate said: “Fair enough, let them say that there will be no democratic, peaceful protests in Delhi. We will accept it.”
+
+The bench’s position was that the “city should not be held to ransom” by protesters. The government’s response was not known but all governments in India think that protests are a nuisance which gets in the way of “good governance”.
+
+It is important to examine the issue at some depth and therefore this column today.
+
+Article 19 says that: “All citizens shall have the right (a) to freedom of speech and expression; (b) to assemble peaceably and without arms; (c) to form associations or unions; (d) to move freely throughout the territory of India; (e) to reside and settle in any part of the territory of India; (g) to practise any profession, or to carry on any occupation, trade or business.”
+
+The reality is that today we have no such rights. Do Indians have the right to “assemble peacefully and without arms”? No. We have the right to apply for permission for peaceful assembly to the local police station.
+
+The police has the right to approve, deny or not respond (that was the reason the Dalit Christians moved court). That is where the real right is held. Scenes of groups of protesters, some as small as half-a-dozen, holding placards and chanting slogans outside business establishments and government offices, and even political rallies, are common in the United States and Europe. In India, such a gathering will be broken up or not allowed to happen. India has criminalised protest. Where it is allowed, after written permission, it is usually in so-called “designated areas” allocated for protests.
+
+Some see even these as a nuisance. Jantar Mantar in Delhi is such a place, an area cordoned off at both ends with stalls of protests, some of them there for months, unseen and unheard. In Bengaluru, you have Town Hall and Freedom Park, in Mumbai Azad Maidan, where protests after permission may be allowed during specific periods of time. This does not constitute the right to peaceful assembly. It is denial of a fundamental right given to us by the Constitution. We have to claim this right as we need to the others.
+
+Freedom of speech and expression is qualified by so many laws that it is hard to know where to begin. India has criminalised free speech through sedition, criminal defamation and criminal contempt of court. The mother country we borrowed these laws from no longer has them. There is no right to dissent in India, and anything offensive to majoritarian Hindutva is called anti-national. Kashmiris can teach you a thing or two about freedom of speech and expression if you claim that India is free. Forming associations is not easy in India and registration can be denied or cancelled. Those who work in the organised civil society space, meaning professional NGOs, know just how difficult the State makes it for them to exercise this basic right. We have seen the problem with the right to carry out a trade, which has been struck off for butchers, and by extension, for restaurants. Many of these rights have become ossified. The State has strong investment in denying them to us, and we have not been as strong in claiming them.
+
+The footnote under Article 19 reads “Nothing shall affect the operation of any existing law, or prevent the State from making any law, in so far as such law imposes reasonable restrictions on the exercise of the right…” The question is whether the restrictions imposed are reasonable. They are not. Reclaiming our fundamental rights is the only way to realise and unlock the value of our Constitution.
+
+We have to peacefully reclaim our rights both at the level of the individual and the level of civil society. India has a weaker civil society than most other democracies. It is vibrant, yes, and it is defiant and it is brave. But it is small. India needs to create a bigger space for that part of our nation which is not government and not business corporations. That is civil society. It is groups, formal and informal, and individuals, and the space that they create with their actions.
+
+These groups must be encouraged and given space to express themselves. They should not be seen as a nuisance, but unfortunately that is precisely how those in power and those...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/aakar-patel-why-indians-need-to-protect-expand-the-right-to-hold-peaceful-protests-1978177)
+
+---
+
 ### Bharat Bhushan |Why Changes In FCRA Stoke Minority Fears
 *Deccan Chronicle · Opinion*
 
@@ -143,6 +318,41 @@ Since Prime Minister Modi came to power, major Christian healthcare and educatio
 Christian institutions affected include the Church's Auxiliary for Social Action (India's largest and oldest Christian humanitarian and rural development organisation), the Evangelical Fellowship of India, the Churches of North India Synodical Board of Social Service, the Indo-Global Social Service Society, the Ecreosoculis North Western Gossner Evangelical...
 
 [Read full article](https://www.deccanchronicle.com/opinion/columnists/bharat-bhushan-why-changes-in-fcra-stoke-minority-fears-1977975)
+
+---
+
+### Dev 360 | Beyond Reels & Memes: The Lessons From Gen Z Protests | Patralekha Chatterjee
+*Deccan Chronicle · Opinion*
+
+The summer of 2026 has delivered two unmistakable signals. The Narendra Modi government risks drawing the wrong lessons from them.Within weeks, the Cockroach Janta Party (CJP) evolved from an online satirical platform into a nationwide protest that culminated in the resignation of education minister Dharmendra Pradhan. Days later, Prashant Kishor’s Jan Suraaj Party wrested Bihar’s Bankipur Assembly seat — a BJP stronghold since 1995 — by over 19,000 votes. Both episodes are being framed primarily as a communication failure: The youth, especially Gen Z, it is argued, needs reels, hip vocabulary and Instagram bonding.
+
+That diagnosis is tidy. It is also incomplete and potentially self-defeating.
+
+What actually worked for the Cockroach Janta Party and for Kishor was simpler, more direct, and far more awkward for the status quo.
+
+They treated youth discontent as material and legitimate, not as a branding challenge to be managed with better packaging. They named the concrete failures that millions of young Indians experience daily — a coaching economy that drains family savings while offering no guarantee of fairness and a broken examination system riddled with repeated paper leaks. It forced over two million Neet aspirants to retake an already high-stakes test and led to student suicides. Add the crushing weight of graduate unemployment several times the overall rate; and the routine humiliation of forced migration for work that leaves entire districts hollowed out.
+
+They spoke of dignity — the basic expectation that years of much-advocated aspiration should not end in paper-leak chaos or the necessity of leaving home simply to survive. They operated largely as outsiders. The CJP was not a registered political party. Neither does it intend to become one in the near future, preferring to remain a pressure group. It did not lean on traditional political machinery or mainstream media that large sections of young people have already abandoned. Its founder, Abhijeet Dipke, a 30-year-old who studied political communications at Boston University, built the movement in the digital spaces Gen Z actually inhabits — like Instagram — where it rapidly amassed millions of followers before translating online anger into physical presence at Delhi’s Jantar Mantar, India’s most iconic protest site.
+
+Protesters brought diapers and cockroach masks as props. The police lathi-charged, teargassed and used pellet guns when protesters tried to march towards Parliament. That only swelled the numbers, with every blow recorded and disseminated on social media. The CJP-led protesters and All India Students’ Association (AISA) activists, including the extremely articulate Neha Bora, made the cockroach cool and brought education centre-stage.
+
+Kishor's Bankipur campaign followed a different idiom, but similar logic. Running as an outsider against both the BJP and the RJD, he framed the byelection as a referendum on education, employment and migration. Rebuilding the school system was a core campaign theme. After a door-to-door campaign, Jan Suraaj won decisively.
+
+The scramble that followed -- and that may intensify -- reveals more anxiety than understanding among CJP’s prime targets.
+
+The BJP’s Gen Z outreach promos, for example, mimic youth vocabulary. They have pivoted around gym workout and video messages from Prime Minister Narendra Modi.
+
+The problem: the scale of the discontent extends beyond memes, digital spaces where these messages circulate.
+
+The broken education system is just the tip of the iceberg in a country where half the population is below 25.
+
+India’s Gen Z population (over 370 million) is not a homogenous group but there is a common thread tying disparate sensibilities together — a large cohort of digitally native young people is entering adulthood amid high graduate unemployment, intense competition for limited professional seats, and a persistent gap between the aspirations the system has spent years advertising — demographic dividend, skill India, rising opportunity — and the opportunities it actually provides.
+
+The anger is real, visible, and already consequential. After the CJP-led protests, India’s schoolchildren also found their voice: 1,500 students held a six-hour sit-in demanding better school facilities in Sarvodaya Inter College in Fatehpur, UP. In Barmer, Rajasthan, students locked the gates of the Government Senior Secondary School and staged a sit-in, demanding immediate deployment of teachers until permanent appointments are made. In Jharkhand, many aspiring to sit for local competitive exams for government jobs are in protest mode. They are demanding a CBI probe into alleged exam irregularities and paper leaks.
+
+Polished attempts by those suddenly wanting to cosy up to Gen Z through performative youthfulness risk registering as forced or cringe. Trying to woo Gen Z with better content is the low-cost, low-risk response. It allows the political class to believe the problem is primarily one of messaging....
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/dev-360-beyond-reels-memes-the-lessons-from-gen-z-protests-patralekha-chatterjee-1978158)
 
 ---
 
