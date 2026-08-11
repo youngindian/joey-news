@@ -1,3 +1,502 @@
+## 11 August 2026
+
+### Jharkhand Bandh Today: BJP-Led Statewide Shutdown Over Police 'Atrocities'; Students Demand CBI Probe
+*Vani Mehrotra · general*
+
+BJP has called a Jharkhand bandh from 8 am to midnight over police action against JPSC-JSSC aspirants during their Assembly march in Ranchi.
+
+[Read full article](https://www.news18.com/india/jharkhand-bandh-bjp-student-protest-police-lathicharge-ranchi-parliament-gherao-jpsc-jssc-aspirants-ws-l-10265060.html)
+
+---
+
+### Sawan Shivratri 2026: Kanwar Yatra To Impact Delhi-NCR Traffic Today; Check Routes To Avoid
+*Prisha Vibhavari · general*
+
+Sawan Shivratri is one of the most significant days of the holy month of Shravan, with large numbers of devotees expected to visit Shiva temples across Delhi-NCR for jalabhishek.
+
+[Read full article](https://www.news18.com/india/sawan-shivratri-2026-kanwar-yatra-to-impact-delhi-ncr-traffic-today-check-routes-to-avoid-10265082.html)
+
+---
+
+### Molbio IPO enters 2nd day of bidding: Should you bid for the listing? Check GMP
+*India Today Business Desk · general*
+
+## The Rs 939.70 crore Molbio IPO opened for subscription on August 10 and will close on August 12. The price band has been fixed at Rs 768-807 per share, with a lot size of 18 shares.
+
+Molbio Diagnostics IPO subscribed 0.83 times on day one.
+
+Molbio Diagnostics IPO enters the second day of bidding on Tuesday with the issue yet to be fully subscribed on the first day. The grey market, however, is pointing to a potential premium listing, while brokerages have recommended subscribing to the issue, particularly for investors with a medium to long-term investment horizon.
+
+The Rs 939.70 crore IPO opened for subscription on August 10 and will close on August 12. The price band has been fixed at Rs 768-807 per share, with a lot size of 18 shares. At the upper price band, retail investors need Rs 14,526 to apply for one lot.
+
+The issue comprises a fresh issue of Rs 200 crore and an offer for sale of Rs 739.70 crore. The shares are scheduled to list on BSE and NSE on August 17.
+
+### MOLBIO IPO GMP: WHAT IS THE GREY MARKET SIGNAL?
+
+Molbio Diagnostics' latest grey market premium, or GMP, stands at Rs 127.
+
+At the upper IPO price of Rs 807, this points to an estimated listing price of around Rs 934 per share.
+
+That indicates a potential listing gain of about 15.74% over the upper end of the IPO price band.
+
+However, GMP is an unofficial indicator and does not guarantee the actual listing price. The stock can list at a price above or below the grey-market estimate.
+
+The GMP has also fluctuated in the run-up to the IPO. It was Rs 170 on August 5, rose to Rs 220 on August 6, then declined to Rs 180 on August 7 and Rs 130 on August 8. It stood at Rs 122 on August 9 before recovering to Rs 127 on August 10.
+
+So, while the grey market continues to signal a premium listing, the movement also shows that expectations have not been steady.
+
+### HOW DID MOLBIO IPO PERFORM ON DAY 1?
+
+Molbio Diagnostics IPO was subscribed 0.83 times at the end of the first day of bidding.
+
+The retail portion was subscribed 0.77 times, while the QIB category, excluding anchor investors, was subscribed 1 time. The NII category was subscribed 0.73 times as of 5:07 pm on August 10.
+
+With two days of bidding still remaining, investors will be watching whether retail and non-institutional demand picks up before the issue closes on August 12.
+
+### SHOULD YOU BID FOR MOLBIO FOR LISTING GAINS?
+
+If the objective is purely listing gains, the current GMP is encouraging.
+
+A GMP of Rs 127 over the upper issue price of Rs 807 indicates an estimated listing price of Rs 934 and a potential gain of around 15.74%.
+
+But GMP alone does not determine whether an IPO is worth subscribing to. Investors also need to look at the company's business, financial performance, valuation and the risks highlighted by brokerages.
+
+On that front, the brokerage view is positive.
+
+Geojit Investments has given the IPO a 'Subscribe' rating for investors with a medium- to long-term investment horizon. It said Molbio is valued at around 56 times FY26E P/E at the upper price band, which is broadly in line with the industry average. Geojit highlighted Molbio's leadership in molecular diagnostics, its device-and-consumables business model, industry tailwinds, growth potential and strategic acquisitions.
+
+Ventura Securities, BP Equities, SBI Securities and Swastika Securities have also recommended subscribing to the IPO. BP Equities and SBI Securities specifically recommended the issue for investors with a long-term investment horizon.
+
+### WHY BROKERAGES LIKE MOLBIO
+
+A key attraction is Molbio's proprietary Truenat platform, a portable molecular diagnostics system designed to provide testing closer to the point of care.
+
+The company has developed 43 assays covering 30 diseases, including tuberculosis, hepatitis, HIV, HPV and Covid-19, according to SBI Securities.
+
+Another important part of the business is its recurring revenue model.
+
+Molbio sells diagnostic devices as well as test kits and consumables that are used with those devices. Test kits accounted for around 74% of product revenue in FY26, according to SBI Securities.
+
+BP Equities described this as a closed-system model, where the installation of a diagnostic device can create recurring demand for the company's proprietary test kits.
+
+The company has also reported strong financial growth.
+
+Revenue from operations rose from Rs 1,020 crore in FY25 to Rs 1,446 crore in FY26, an increase of 41.7%. EBITDA rose from Rs 262 crore to Rs 321 crore, while adjusted profit after tax increased from around Rs 150 crore to Rs 165 crore.
+
+Ventura also noted that test-kit volumes rose to 17.56 million units in FY26 from 12.24 million in FY25, supporting the recurring-revenue nature of the business.
+
+### WHAT ARE THE RISKS?
+
+The brokerage reports have also flagged risks that investors should consider before subscribing.
+
+One of the biggest is customer concentration.
+
+SBI Securities said 84.6% of Molbio's product sales revenue in FY26 came from Indian central and state governments and international aid agencies. Its top 10 customers accounted for 83.3% of product sales revenue.
+
+There is also a high dependence on tuberculosis testing.
+
+Around 70.2% of FY26 test-kit sales revenue came from TB diagnostic kits, according to SBI Securities. This creates a concentration risk around a single disease segment.
+
+Margins have also moderated. EBITDA margin declined from 25.7% in FY25 to 22.2% in FY26, while adjusted PAT margin fell from 14.7% to 11.4%.
+
+Working capital is another area to watch. SBI Securities said the average cash conversion cycle stood at 323 days in FY26, partly reflecting long payment cycles from government bodies.
+
+### IS MOLBIO IPO VALUATION EXPENSIVE?
+
+At the upper price band of Rs 807, Molbio is valued at around 55-56 times FY26 earnings, based on the calculations in the brokerage reports.
+
+SBI Securities puts the FY26 P/E at 56.5 times, while BP Equities calculates it at 54.6 times. Both note that the valuation is below the average multiple of the listed peer group.
+
+Geojit, meanwhile, said the company's valuation at around 56 times FY26E P/E is in line with the industry average.
+
+Swastika Securities has also recommended subscribing to the issue, citing Molbio's position in molecular diagnostics, growth prospects, return ratios and valuation.
+
+### SO, SHOULD YOU SUBSCRIBE?
+
+For investors looking purely for a listing gain, Molbio's current GMP provides a positive signal. The Rs 127 GMP indicates a possible listing price of Rs 934, or a potential gain of around 15.74% over the upper issue price.
+
+But this is only an unofficial grey-market indication and should not be treated as a guaranteed return.
+
+For medium- to long-term investors, the brokerage reports are more clearly positive. Geojit Investments, Ventura Securities, BP Equities, SBI Securities and Swastika Securities have all recommended subscribing to the IPO, with BP Equities and SBI Securities specifically recommending it for investors with a long-term horizon.
+
+The positive view is based on Molbio's Truenat platform, its recurring test-kit business, strong FY26 revenue growth, molecular diagnostics leadership and expansion opportunities.
+
+At the same time, investors need to consider the company's dependence on government and institutional customers, high exposure to TB testing, working-capital requirements and the moderation in margins.
+
+So, the GMP currently points to a potentially positive listing, while the brokerage reports support subscription for investors with a medium- to long-term view. But the GMP is not a guarantee of listing gains, and investors should consider the company's fundamentals and risks before bidding.
+
+_**(Disclaimer: The views, opinions, recommendations, and suggestions expressed by experts/brokerages in this article are their own and do not reflect the views of the India Today Group. It is advisable to consult a qualified broker or financial advisor before making any actual investment or trading choices.)**_
+
+\- Ends
+
+Aug 11, 2026 07:43 IST
+
+---
+
+### Wipro to exit Nifty50 after nearly 3 decades; BSE to replace it from September 30
+*India Today Business Desk · general*
+
+Wipro is set to lose its place in the benchmark Nifty50 index after nearly three decades, with BSE Ltd selected to replace the IT services company in the latest semi-annual reshuffle of the index.
+
+The change will take effect from September 30, 2026, after the close of trading on September 29, according to the NSE Indices review. BSE's inclusion follows a sharp rise in its average free-float market capitalisation, which has now comfortably met the criteria for entry into the Nifty50.
+
+For Wipro, the move marks a significant change. The company has been part of the Nifty50 since the index was launched around three decades ago. The only previous exception was between April and September 2013, when Wipro was temporarily excluded following its corporate demerger.
+
+### WHY IS BSE REPLACING WIPRO?
+
+The decision is primarily linked to the relative size of the companies based on free-float market capitalisation.
+
+BSE's six-month average free-float market capitalisation stood at Rs 1,40,879 crore, according to NSE Indices.
+
+In comparison, Wipro's six-month average free-float market capitalisation was Rs 55,930 crore.
+
+This means BSE's average free-float market capitalisation was at least 1.5 times that of Wipro, which is currently the Nifty50 constituent with the lowest six-month average free-float market capitalisation.
+
+The 1.5-times threshold is important because it determines whether another eligible company can replace a stock that falls out of the benchmark.
+
+BSE's market capitalisation comfortably cleared that requirement, paving the way for its inclusion in the index.
+
+### WIPRO'S EXIT IS NOT BECAUSE BSE WAS THE ONLY CONTENDER
+
+BSE was not the only company considered for the vacancy.
+
+NSE Indices also evaluated TVS Motor Company and Divi's Laboratories for inclusion in the Nifty50.
+
+TVS Motor had an average free-float market capitalisation of Rs 84,566 crore, while Divi's Laboratories stood at Rs 82,930 crore.
+
+However, neither was selected.
+
+The reason was that after Wipro's exclusion, the two lowest-ranked companies among the remaining Nifty 50 constituents — HDFC Life Insurance Company and Tata Consumer Products — did not meet the required 1.5-times threshold when compared with the potential entrants.
+
+HDFC Life had an average free-float market capitalisation of Rs 65,666 crore, while Tata Consumer Products stood at Rs 73,054 crore.
+
+BSE, therefore, emerged as the company that met the required criteria for the Nifty 50 inclusion.
+
+### WHAT CHANGES FOR WIPRO?
+
+The biggest change is Wipro's position in India's flagship stock market index.
+
+The company will no longer be part of the Nifty50 from September 30.
+
+The latest index change does not mean Wipro is leaving the stock market. The development is specifically about its removal from the Nifty50 benchmark.
+
+Wipro's exit also marks the end of its long run as one of the companies represented in the country's most closely tracked equity index, apart from its brief exclusion during the 2013 demerger.
+
+### WHAT DOES BSE'S ENTRY MEAN?
+
+For BSE, the inclusion represents a significant elevation in its position among India's largest and most closely tracked companies.
+
+The exchange operator has seen its free-float market capitalisation rise sharply enough to qualify for the Nifty 50, with its six-month average reaching Rs 1,40,879 crore.
+
+BSE's inclusion will also be reflected in the Nifty50 Equal Weight Index.
+
+The Nifty 50 is one of India's most widely tracked equity benchmarks, so BSE's entry will put the exchange operator among the companies represented in the country's flagship index.
+
+The reshuffle will become effective from September 30, 2026.
+
+Trading on September 29 will be the last session before the new composition takes effect. From September 30, BSE will be part of the Nifty 50, while Wipro will no longer be a constituent.
+
+The change is part of NSE Indices' semi-annual review of broad-market indices, which has also resulted in changes to several other benchmarks, including the Nifty 100, Nifty 500, Nifty Midcap 150, Nifty Smallcap 250, Nifty Next 50, Nifty Next 100 and Nifty India FPI 150 Index.
+
+For investors, the key takeaway is therefore straightforward: Wipro's nearly three-decade presence in the Nifty 50 is coming to an end, and BSE will take its place from September 30 after meeting the index's free-float market capitalisation criteria.
+
+_**(Disclaimer: The views, opinions, recommendations, and suggestions expressed by experts/brokerages in this article are their own and do not reflect the views of the India Today Group. It is advisable to consult a qualified broker or financial advisor before making any actual investment or trading choices.)**_
+
+\- Ends
+
+Aug 11, 2026 07:35 IST
+
+---
+
+### Attari Border Now Open For E-Visa Holders As India Expands Entry Network To 88 Ports
+*Vani Mehrotra · general*
+
+India has added 11 international ports for e-visa holders, including Attari, Agartala, Bhopal and Tirupati, taking the total to 88.
+
+[Read full article](https://www.news18.com/india/india-adds-11-new-e-visa-entry-ports-attari-india-pakistan-border-bhopal-tirupati-agartala-ws-l-10265048.html)
+
+---
+
+### Trump takes aim at childhood vaccine schedule, orders revamp
+*SECTIONS Trump takes aim · business*
+
+Synopsis
+
+President Donald Trump announced an executive order for revised childhood vaccine recommendations. This order promotes spacing out vaccines into separate medical visits for children. It also directs health departments to improve vaccine research and development. Public health experts have voiced concerns about potential risks from this approach. States retain the authority to mandate vaccinations for schoolchildren.
+
+President Donald Trump announced an executive order for revised childhood vaccine recommendations. This order promotes spacing out vaccines into separate medical visits for children.
+
+New York: President Donald Trump on Monday announced he was signing an executive order calling for revamped childhood vaccine recommendations that promote his long-held belief that childhood shots should be spaced out into separate medical visits.
+
+The order will recommend separating the measles, mumps and rubella (MMR) vaccine into three different shots administered in separate visits, and direct the nation's health department to improve vaccine research, says a White House fact sheet, first reported by The Daily Caller.
+
+  
+
+Trump also said in an event at the Oval Office on Monday afternoon that one-year-olds should have their shots separated out into five separate visits, though it wasn't clear whether he was talking about all the vaccines they receive or specific ones.
+
+Public health experts have raised concerns that spacing out shots as Trump suggests can lead to an increased risk that children become infected with a vaccine-preventable disease before returning for another visit. Childhood vaccines - and how and when to give them in combination - go through rigorous studies, and safety tracking continues for years as the shots are used.
+
+Separate measles, mumps and rubella vaccines for children, which Trump said he wants kids to receive, are not currently available in the US.
+
+Even as the order calls for revised vaccine recommendations, states, not the federal government, have the authority to require vaccinations for schoolchildren. The order will advise states with school vaccine mandates to consider updating their laws to reflect the administration's recommendations, the fact sheet said.
+
+Last December, Trump ordered HHS to review how peer nations approach vaccine recommendations and consider revising US guidance accordingly. The department responded by cutting the number of vaccines it recommends for every child, a move that has since been blocked in court.
+
+In the months leading up to Monday's announcement, Trump's administration had largely pivoted away from talking about vaccine policy in favour of less polarising topics like healthy eating and efforts to lower drug prices ahead of November's elections. Polls show most Americans still support school vaccine requirements, though Republicans are less likely than Democrats to see them as important.
+
+Still, Trump has been fixated on connecting autism to vaccines. He has recently ramped up pressure on Health Secretary Robert F. Kennedy Jr. to identify the cause of autism, something Kennedy had pledged to do with new research unveiled last year. Trump publicly prodded the health secretary for an update on autism research in a Cabinet meeting last month.
+
+"How are you doing on the autism research?" Trump asked.
+
+"We will have an answer for you," Kennedy said.
+
+Scientific consensus and decades of studies have firmly concluded there is no link between childhood vaccines and autism.
+
+Monday's order comes as school years are starting around the country, and the nation contends with a measles outbreak that experts say could result in the US losing its measles elimination status.
+
+---
+
+### Is the Opposition shooting itself in the foot by disrupting Parliament?
+*Anand Singh · general*
+
+When Parliament is disrupted, the first impression is usually that of a government unable to conduct business. That is particularly relevant now, because the Monsoon Session, which began on July 21, is **facing repeated disruptions and adjournments** almost from the outset, with Opposition parties protesting over a range of issues.
+
+Bills have been delayed, Question Hour is disrupted and proceedings are repeatedly adjourned. But there is another way of looking at the cost of a dysfunctional Parliament. It is one that places the Opposition, rather than the government, at the centre of the disadvantage.
+
+Congress MP Shashi Tharoor made precisely this argument at an IIMUN (India's International Movement to Unite Nations) event. Political protests, _dharnas_ and demonstrations have a legitimate place in a democracy, he said, but Parliament serves a different purpose. It is where political disagreement is converted into questions, arguments, scrutiny and a permanent legislative record.
+
+A government with a majority can ultimately use its numbers to pass legislation. The Opposition, by contrast, has far fewer institutional tools to influence the government. Its most important ones are inside Parliament — Question Hour, Zero Hour, debates, motions, amendments and parliamentary committees.
+
+That makes a functioning Parliament particularly valuable to the Opposition.
+
+"There is no problem with all sorts of political demonstrations, _dharnas_, _hartals_, _gheraos_, sloganeering, whatever. All those are legal, constitutional and permitted in our democratic framework," Tharoor said.
+
+"But the temple of our democracy is a place where you go for prayer in the form of argument, debate and reasoned thinking," Tharoor said.
+
+The distinction matters because parliamentary democracy is not simply a mechanism for counting votes. The government's majority determines whether it can ordinarily get its legislation passed. Parliament, however, is also designed to make the government answer questions, defend its policies, hear objections and place its reasoning on record.
+
+And many of those mechanisms are more valuable to an Opposition party than to the government itself.
+
+### THE OPPOSITION'S MOST IMPORTANT WEAPONS ARE PARLIAMENTARY
+
+Question Hour is perhaps the clearest example.
+
+The Lok Sabha describes asking questions as an "inherent and unfettered parliamentary right" of its members. During Question Hour, MPs can seek information on virtually every aspect of government administration and policy, while ministers are required to answer. Starred questions permit oral answers and supplementary questions, allowing MPs to pursue the government's response in real time.
+
+That accountability mechanism is especially useful to the Opposition.
+
+A minister does not need to use Question Hour to establish that his or her ministry is functioning; the minister already sits inside the executive. An Opposition MP, however, can use a question to demand data, expose inconsistencies, seek explanations or force a minister to publicly defend a decision.
+
+As Tharoor put it, "We are the ones who get to question the ministers during Question Hour, put them on the spot and challenge them."
+
+The structure of parliamentary government itself gives the Opposition a reason to use the House as an accountability forum. The government controls the executive machinery, and the Opposition's institutional role includes scrutinising that machinery.
+
+The same logic applies to matters raised outside Question Hour.
+
+In the Lok Sabha, Zero Hour is the period immediately following Question Hour and before listed business. Although "Zero Hour" is not formally recognised in the Rules of Procedure, it has evolved as an established parliamentary practice through which members can raise matters of urgent public importance, subject to the Speaker's permission.
+
+Rule 377 provides another route. Under it, members can raise matters of general public interest that are not points of order. The Lok Sabha says up to 20 such matters can currently be raised on a single day.
+
+These procedures matter particularly to MPs who are not part of the executive because they offer a formal route to place constituency grievances and public-interest issues before the government.
+
+"An Opposition member needs to flag these issues and put them on record," Tharoor said. "A minister doesn't need that. A minister or even a ruling party MP can get his work done because he's in power, his party's in power," Tharoor also said.
+
+The distinction is important. A ruling-party MP may also use Zero Hour or Rule 377, ask questions and participate in debates. But the Opposition has fewer alternative avenues to compel public answers from the executive.
+
+When proceedings are lost, therefore, the Opposition does not merely lose speaking time, it loses institutional opportunities to exercise the very role that parliamentary democracy assigns to it.
+
+### DISRUPTION CAN ALSO WEAKEN THE OPPOSITION'S CASE
+
+Opposition parties often disrupt proceedings precisely to draw attention to an issue they believe the government is refusing to discuss. The disruption can generate headlines, force negotiations and sometimes compel the government to respond outside the House.
+
+But prolonged disruption can also remove the Opposition's opportunity to make its case in the institution where that case has the greatest constitutional and political weight.
+
+The current Monsoon Session of the 18th Lok Sabha illustrates that tension. The Lok Sabha's official calendar scheduled Question Hour and government business through the session, but repeated disruptions have affected proceedings. On August 10, the Lok Sabha passed the Tribunals Reforms Bill, 2026 without discussion amid Opposition protests.
+
+If the Opposition walks out or proceedings are repeatedly disrupted, the government can, subject to parliamentary procedure, continue with business when the House is in order. It may face political criticism for legislation passed without adequate discussion, but it does not lose its fundamental numerical advantage.
+
+The Opposition, however, does.
+
+This is why Tharoor argues that the assumption behind disruption — that "the government will pass the Bill anyway because they have the votes" — can be self-defeating.
+
+Notably, the BJP has time and again attacked Leader of the Opposition in the Lok Sabha, Rahul Gandhi, accusing him of deliberately disrupting Parliament to avoid a discussion with the Modi government.
+
+The Opposition, especially Rahul Gandhi, has repeatedly alleged that its microphones are being switched off during proceedings. The Opposition said the mics of its MPs were turned off to prevent them from raising issues, questioning ministers and putting their objections on record, though the government and parliamentary authorities have rejected or disputed such claims.
+
+### A BILL IS MORE THAN THE VOTE THAT PASSES IT
+
+The second part of Tharoor's argument concerns legislation.
+
+Parliament is not merely a voting chamber. Bills are introduced with stated objectives and reasons, debated by MPs, scrutinised through committees in some cases, amended where the House chooses, and ultimately put to a vote.
+
+The parliamentary committee system exists precisely because detailed scrutiny cannot always be conducted effectively on the floor of the House. The Rajya Sabha's official material describes committees as a mechanism for detailed examination, with members able to deliberate at length, consider evidence and examine issues in greater depth. It also describes parliamentary control as "criticism, not obstruction; scrutiny, not initiative; and accountability, not prior approval".
+
+When the Opposition participates in this process, it does not necessarily have to defeat a Bill to influence it.
+
+It can identify unintended consequences. It can propose amendments. It can question the assumptions behind the legislation. It can place an alternative interpretation on record. It can force ministers to respond.
+
+And even when the government rejects those arguments, the debate remains part of legislative history.
+
+This is particularly significant because parliamentary debate can help establish the political and legislative context in which a law was enacted. Courts ultimately interpret statutes by applying legal principles to the enacted text, and the Supreme Court has repeatedly emphasised the primacy of statutory language. At the same time, parliamentary material can have a limited role as an interpretive aid in appropriate circumstances. In a 2020 judgment, the Supreme Court noted that the statement of objects and reasons has a limited role, particularly when a court examines the validity or interpretation of an ambiguous provision.
+
+Tharoor made a 
+
+His broader argument was that the statement of objects and reasons cannot substitute for political deliberation.
+
+"The government has not had a chance to explain why they're bringing the Bill other than this pro forma statement of objects and reasons," he said. "And the Opposition has neither refuted it, nor given a counter-logic that the government was forced to respond to."
+
+The point is not that every Bill must be subjected to lengthy debate before it can become law. Parliamentary procedure allows legislation to be taken up in different ways, and a government with a majority is entitled to seek passage of its legislative agenda.
+
+The issue is whether Parliament is being used as a forum for deliberation before that vote takes place.
+
+### THE NUMBERS DECIDE THE BILL. THE DEBATE TESTS IT
+
+This is where the familiar distinction between majority rule and parliamentary accountability becomes important.
+
+Tharoor recalled the famous quote Atal Bihari Vajpayee made to PM Indira Gandhi, during his years in Opposition, "We have the arguments, you have the votes".
+
+Whether the government has the numbers and whether the Opposition has the better argument are two different questions. A parliamentary democracy requires both to have a place.
+
+Tharoor's argument is not that political protest should disappear.
+
+"You are actually depriving the Opposition of an opportunity to do all these things that I've mentioned to you," Tharoor said.
+
+If Parliament is not functioning, the Opposition might be denying itself the very institutional power it needs most.
+
+\- Ends
+
+Anand Singh
+
+Aug 11, 2026 07:30 IST
+
+---
+
+### Monsoon refuses to slow down: New system to dump more rain, El Nino threat looms
+*India Today Science Desk · general*
+
+## A fresh low-pressure area is likely to form over the northwest Bay of Bengal around August 12. Its development could sustain widespread monsoon activity despite the emerging El Niño threat.
+
+The developing system could become another important engine for the monsoon. (Photo: IMD)
+
+India’s monsoon is showing little sign of slowing down, with a new low-pressure system expected to develop over the northwest Bay of Bengal around August 12, potentially triggering another spell of heavy rainfall across eastern and northern parts of the country.
+
+According to the latest weather update, an upper-air cyclonic circulation is currently positioned over the northwest Bay of Bengal and adjoining areas, extending into the middle levels of the atmosphere. Under its influence, a low-pressure area is likely to form around August 12.
+
+The developing system could become another important engine for the monsoon, particularly over Odisha, where the India Meteorological Department (IMD) has forecast heavy to very heavy rainfall between August 12 and 14.
+
+The system could also help maintain widespread monsoon activity over parts of central and eastern India as it develops and moves inland.
+
+Another important feature supporting the ongoing rainfall is the monsoon trough, which remains active and is positioned south of its normal location in the lower levels of the atmosphere.
+
+This southward positioning is significant because the monsoon trough acts as a major corridor for rain-bearing systems across India. Its location can determine which regions receive sustained rainfall and where the monsoon remains relatively subdued.
+
+The Western Himalayan region is also expected to remain active, with isolated heavy to very heavy rainfall likely during the week. This raises the possibility of intense rainfall episodes over parts of Himachal Pradesh, Uttarakhand and Jammu & Kashmir and adjoining mountainous areas.
+
+Meanwhile, a shear zone is running across central and adjoining north Peninsular India. The feature extends through the lower and middle levels of the atmosphere and tilts southward with height, adding another layer of atmospheric instability and moisture convergence.
+
+The combination of the active monsoon trough, the shear zone and the developing Bay of Bengal system suggests that India’s monsoon remains firmly active despite concerns over the emerging El Nio threat.
+
+For now, the Bay of Bengal remains the key area to watch. If the expected low-pressure area develops as forecast, it could provide the monsoon with another fresh pulse of rainfall just when signs of weakening activity were beginning to emerge.
+
+The next few days will determine how effectively this new system translates into rainfall across India.
+
+\- Ends
+
+Sibu Kumar Tripathi
+
+Aug 11, 2026 07:30 IST
+
+---
+
+### US court dismisses fraud charges against billionaire Gautam Adani
+*Business Standard · business, entrepreneur, finance*
+
+US District Judge Nicholas Garaufis in Brooklyn, New York, on Monday dismissed conspiracy, securities and wire fraud charges against Adani and his nephew Sagar Adani
+
+[Read full article](https://www.business-standard.com/companies/news/us-court-dismisses-fraud-charges-against-billionaire-gautam-adani-126081100086_1.html)
+
+---
+
+### US to mandate online filing for green cards, citizenship and asylum
+*India Today World Desk · world*
+
+## The US will require online applications for several immigration benefits, including green cards and asylum. Officials say the shift will cut costs, reduce errors and speed up case processing.
+
+Image used for representational purposes only
+
+The US will soon require online applications for a range of immigration benefits, including green cards, citizenship and asylum, as part of a move to improve efficiency and cut operational costs. Under a new rule, forms that have been available for e-filing for at least 180 days will have to be submitted online.
+
+The rule, published by the US Citizenship and Immigration Services in the Federal Register on Monday, also creates a process for making more forms online-only after giving at least 60 days' notice. The change could affect green card applications and renewals, family-based petitions, citizenship requests, asylum claims, employment authorisation applications and Temporary Protected Status filings.
+
+Applicants will generally file through a USCIS online account, either by completing the form online or by uploading a PDF version of the completed form along with supporting evidence. USCIS said the rule is meant to speed up its shift away from paper-based processing and reduce reliance on the Treasury Department's lockbox service, which receives and processes mailed applications.
+
+The agency said electronic filing would improve efficiency, reduce errors, and strengthen fraud detection and security screening by making immigration data easier to access and analyse. People who are unable to file online can seek an exemption by submitting a new form, which USCIS will review on a case-by-case basis before granting a waiver. In such cases, applicants will have to pay USD 25 in filing charges.
+
+In fiscal year 2025, USCIS processed more than 14 million benefit requests, while lockbox facilities handled about 453 million pages of paper submissions. USCIS spent about USD 396 million on operating lockbox intake systems and more than USD 10 million on postage alone. The Department of Homeland Security said mandatory e-filing would cut manual handling, data entry, shipping, storage and scanning costs, while speeding up adjudication workflows.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Aug 11, 2026 07:24 IST
+
+---
+
+### Video: Uttarakhand flashflood rips apart bridge, sweeps away vehicle and driver
+*Ankit Sharma · general*
+
+A sudden surge of floodwaters triggered by cloudbursts and intense monsoon rains turned the Tamak drain in Uttarakhand’s Chamoli into a raging torrent, sweeping away a Bailey bridge, a vehicle and a Border Roads Organisation (BRO) driver.
+
+The bridge on the Malari-Niti National Highway connects Jyotirmath to the border area and the collapse snapped road connectivity to around a dozen villages, including Jumma and Niti and cut off the frontier.
+
+A BRO driver, Pankaj, a resident of Pithoragarh district, was swept away by the powerful current as he was watching the floodwaters when the bridge suddenly collapsed. He remained missing.
+
+A vehicle was also swept away as the floodwaters surged through the drain.
+
+Rescue teams were quickly mobilised, with personnel from the district administration, State Disaster Response Force (SDRF) and National Disaster Response Force (NDRF) dispatched to the site.
+
+Following the bridge collapse, authorities suspended traffic on nearby roads as well. Officials said administrative teams were assessing the damage, while the BRO began work on alternative arrangements. Traffic is expected to be restored within a day or two, Chamoli District Disaster Management Officer NK Joshi added.
+
+Over the past several years, floods and landslides in the Tamak drain have disrupted the Joshimath-Niti road, while flood debris has repeatedly choked the nearby Dhauli Ganga.
+
+Chief Minister Pushkar Singh Dhami directed officials to intensify relief and rescue operations and take precautionary measures in the lower areas following the flooding.
+
+Dhami also directed officials to ensure that supplies of ration, food, medicines and other essential commodities to villages in the surrounding areas are not affected by the bridge collapse.
+
+\- Ends
+
+Aug 11, 2026 07:18 IST
+
+---
+
+### Nvidia partners with Wall Street giants to raise $500 billion for AI buildout
+*SECTIONS Nvidia partners · economy*
+
+Nvidia said on Monday it has partnered with six major financial institutions to launch compute financing platforms aimed at raising over $500 billion in third-party capital for AI infrastructure.
+
+Nvidia CEO Jensen Huang said on X that the company has the ‌option to ⁠backstop up ⁠to $125 billion, or 25% of the poential deals.
+
+The move highlights how surging demand for AI computing capacity is drawing institutional investors, as governments, companies and startups race to build out data centers to support AI workloads.
+
+Big Tech companies have signaled that spending on AI ​would not slow down, with combined ⁠outlays set ‌to surpass $730 billion this year.
+
+Nvidia signed memorandums of understanding with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and ⁠KKR for the financing platforms.
+
+The initiative is intended ​to broaden access to Nvidia-based infrastructure among frontier ​AI developers, enterprises, governments and cloud providers, while creating longer-duration, usage-linked investment opportunities for large asset managers and private capital firms.
+
+"These financing platforms will help customers access scarce compute at scale and build the AI factories that will power ‌every industry and country in the age of AI," Huang said.
+
+Nvidia said the arrangements would "create dedicated ​pools of ​capital at significant ⁠scale at attractive rates" for its customers.
+
+The company did not disclose the financial terms, investment commitments by individual firms or a timetable ​for deploying the planned $500 billion.
+
+The Financial Times had reported the development first on Monday, later confirmed by Reuters.
+
+
+---
+
 ## 10 August 2026
 
 ### Psychology says some people keep expecting the worst even when life is going well because...
