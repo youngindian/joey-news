@@ -1,3 +1,391 @@
+## 12 August 2026
+
+### Eat, Feast, Count? Karnataka Food Agency Wants Calorie Charts At Weddings, Big Events
+*Mallika Soni · general*
+
+Karnataka's FDA is set to issue an advisory asking caterers to display the calorific content of food items served at weddings.
+
+[Read full article](https://www.news18.com/cities/bengaluru-news/eat-feast-count-karnataka-food-agency-wants-calorie-charts-at-weddings-big-events-ws-l-10267639.html)
+
+---
+
+### Legal Trouble For Kangana Ranaut As Petition Filed In Agra Over ‘Generation Gutter’ Remark On GenZ
+*Shobhit Gupta · general*
+
+The Bollywood actor had stirred a major controversy by terming Gen Z protesters who were part of the Cockroach Janta Party (CJP)-led protest as "generation gutter".
+
+[Read full article](https://www.news18.com/india/legal-trouble-for-kangana-ranaut-as-petition-filed-over-generation-gutter-remark-on-genz-ws-l-10267572.html)
+
+---
+
+### 'Committed To Safeguarding National Interests': India Says It Is Assessing Implications Of Pak-Saudi-Turkey Pact
+*Meemansa Shekhawat · general*
+
+India said it is assessing the implications of the Mecca Joint Defence Agreement between Pakistan, Saudi Arabia, and Turkey
+
+[Read full article](https://www.news18.com/india/committed-to-safeguarding-national-interests-india-says-it-is-assessing-implications-of-pak-saudi-turkey-pact-ws-l-10267603.html)
+
+---
+
+### Kandla Port's 40-day cargo delays put India’s rice exports at risk
+*Sutanuka Ghosal · general*
+
+Kolkata: India’s rice exporters are facing a fresh logistical headache, with congestion at Kandla port stretching cargo clearance to 35-40 days and threatening to derail shipments to overseas markets.
+
+The problem is acute where import permits have tight validity windows. Exporters have raised concerns over the delays as the port facility must juggle bulky steel, iron, coal and urea cargoes and shipments of a perishable commodity, such as rice.
+
+  
+
+The urgency was underscored by the Indian Rice Exporters’ Federation in a letter to APEDA chairman Abhishek Dev, seeking priority berthing for MV ORIENT GLORY, which arrived at Kandla on August 6 with capacity to load about 26,750 tonnes of rice for Angola.
+
+The federation warned that Angola’s import permits are valid only until August 31 and that delays in berthing, loading and sailing could result in commercial losses, contractual liabilities and possible rejection of consignments. India supplies nearly 21 million tonnes of rice to the global markets. -
+
+The disruption comes at a time when India is sitting on surplus rice stocks and is well placed to benefit from an expected rise in global demand. The shortage of containers has added to the problem, particularly for containerised basmati and non-basmati shipments from North India.
+
+“The situation has become a serious concern for India’s rice-export sector,” said Dev Garg, vice-president, Indian Rice Exporters Federation (IREF), adding that the continuing West Asian crisis and acute shortage of containers at Kandla and Mundra ports have resulted in an inventory build-up of around 50,000-80,000 tonnes in port warehouses.
+
+According to Garg, the disruption has persisted since March and could become more damaging as fresh-crop arrivals begin in October. “A large share of containerised basmati and non-basmati rice shipments from North India moves through these two ports,” he said.
+
+The logistics bottleneck is also beginning to have an impact on global prices. BV Krishna Rao, president of the Rice Exporters Association, said prices of Indian non-basmati rice have risen around 13% in the global market over the past month as availability has declined. “Price of non-basmati rice has risen to $385 per tonne from $340 per tonne a month ago,” he said.
+
+## **Record Basmati Shipments**
+
+The disruption comes at a time when India’s basmati rice exports have reached record levels. India exported 6.52 million tonnes of basmati rice in 2025-26, valued at Rs 50,138 crore, according to APEDA. The country also exported 15.01 million tonnes of non-basmati rice worth Rs 51,892 crore during the year..
+
+Garg said the logistics constraints are particularly unfortunate because India is in a position to meet a potential increase in global demand. Despite El Niño conditions, India’s rice production is expected to rise from around 151 million tonnes to 153 million tonnes, creating an additional surplus of nearly 2 million tonnes, while stocks are estimated at around 27 million tonnes above buffer requirements.
+
+At the same time, global rice production is projected to decline by around 9 million tonnes, while global import demand could rise by nearly 4 million tonnes, Garg said. India therefore has both the stocks and production capacity to bridge a substantial part of the global supply gap.
+
+---
+
+### Donald Trump administration bans medicaid funding for gender transition care for minors
+*Monica Singh · world*
+
+## Donald Trump administration bans medicaid funding for gender transition care for minors
+
+Trump announced Medicaid will no longer fund gender transition surgeries and hormone therapies for minors. CMS under Dr Mehmet Oz issued a final rule ending federal funding for puberty blockers, hormones and surgeries for minors.
+
+US President Donald Trump on Tuesday (local time) announced that Medicaid will no longer fund gender transition surgeries and hormone therapies for minors, saying his administration would protect children from what he termed "baric" practices.
+
+In a post on his Truth Social platform, Trump said the decision was taken at his direction by Dr Mehmet Oz, Administrator of the Centres for Medicare and Medicaid Services.
+
+"Today, at my direction, Dr Mehmet Oz announced that Medicaid will NO LONGER fund gender transition surgeries and hormones for minors. We are not going to pay for our innocent children to undergo these barbaric surgeries and practices, which result in unthinkable and irreversible harm to their young bodies," Trump said.
+
+He further added, "Thanks to our strong position and pressure on this issue over the past year and a half, dozens of U.S. hospitals have already ended this so-called 'gender-affirming care,' and we expect many more to follow. Just think about all of the young, innocent, and perhaps confused children who will be spared! While the Democrat (sic) Party wants your kids to be able to chop off their reproductive organs before they are old enough to vote, President Donald J. Trump (ME!) and the Republican Party say that is ABSURD, and we will protect America's children. Please remember this when you are casting your vote in the Midterm Elections in November."
+
+## **CMS final rule ends federal funding**
+
+The US Department of Health and Human Services (HHS) has announced that federal Medicaid and Children's Health Insurance Program (CHIP) funding will no longer cover gender transition procedures for children and young people, Anadolu News Agency reported.
+
+According to the report, the final rule, implemented through the Centres for Medicare & Medicaid Services (CMS), will end federal funding for puberty blockers, cross-sex hormones and gender transition surgeries for minors. Anadolu News Agency quoted HHS Secretary Robert F Kennedy Jr as saying that the move was aimed at ending taxpayer funding for what he described as procedures carrying "serious risks" and the possibility of "irreversible harm".
+
+CMS Administrator Dr Mehmet Oz said children should be protected rather than subjected to what he called experimental interventions. "By cutting off federal funds for these sex-rejecting procedures, we're following the science, saving taxpayer dollars, and, most importantly, protecting children from potentially irreversible harm so they can truly flourish," Oz added, Anadolu News Agency reported.
+
+## **What the rule covers**
+
+Mental health services would not be affected by the rule. Children already receiving hormone therapy will continue to receive federal funding for up to six months, Anadolu News Agency reported.
+
+The new rule will come into effect on October 13.
+
+---
+
+### Tired of potholes, traffic: 20 private firms want to leave this Maharashtra town
+*Omkar Wable · general*
+
+## Around 20 industrial units in Chakan are exploring relocation to Khandala after months of discussions over poor roads, congestion and recurring accidents. The proposed move has triggered concern over 4,000 jobs and Rs 1,000-crore business activity even as the government says wider exit fears are overstated.
+
+Around 20 industrial units in Maharahstra's Chakan are exploring relocation to Khandala after months of discussions over poor roads.
+
+Around 20 small and medium-sized industries in Maharashtra’s Chakan Industrial Development Corporation have started exploring relocation to Khandala MIDC in Satara district, citing poor infrastructure, severe traffic congestion, pothole-ridden roads and recurring accidents. If the units eventually relocate, nearly 4,000 employees could be affected, while the companies together account for an estimated business impact of around Rs 1,000 crore.
+
+Chakan MIDC has emerged as one of Maharashtra’s major automobile and industrial hubs, with global automobile companies such as Mercedes-Benz, Volkswagen, Skoda and Hyundai operating in and around the region.
+
+However, industry representatives said worsening infrastructure and traffic conditions have prompted several MSME units to consider moving out.
+
+The companies have formed an association and started discussions at the administrative level to secure land and other facilities at Khandala MIDC. Industry representatives said they had been exploring alternative locations for several months before considering relocation from Chakan.
+
+Disha Exports owner Dhananjay Shedbale said his company employs around 140 people and that several families depend on these jobs.
+
+“I have been working here for the last 19 years, but the situation has become extremely difficult. The roads are in a terrible condition and the government has failed to address the problem. Waste management issues also remain unresolved. We have been raising these concerns for the last 14 months and have written to officials, including the divisional commissioner and chief engineer, but there has been no response,” Shedbale said.
+
+Shantanu Kulkarni, president of the small-scale industries association and owner of Matrix Pulling, said the industries took the relocation decision after months of discussions.
+
+“Industries need an alternative system and proper infrastructure to operate. We are all MSMEs and do not have the same resources or setup as large companies. We face different problems every day. We discussed the issue for seven to eight months, but since the difficulties continued, we decided to explore shifting elsewhere. We have shortlisted four to five options and are now considering Khandala MIDC, where the infrastructure is already in place,” Kulkarni said.
+
+The possible relocation has also drawn political attention. Local MLA Babaji Kale admitted that the government had failed to address the problems faced by industries in the area. Kale said he would personally meet representatives of the affected industries and urge them not to proceed with the relocation. He also said he planned to meet the Chief Minister soon to raise the issue and seek a solution.
+
+### GOVT DOWNPLAYS MASS EXODUS POSSIBILITY
+
+However, a response from the government has sought to downplay the possibility of a wider industrial exodus from Chakan.
+
+A government representative said reports claiming that industries had been leaving Chakan had circulated for the last three years, but no large-scale relocation had taken place. The representative said the Maharashtra Industrial Development Corporation (MIDC) and the Public Works Department (PWD) were jointly developing infrastructure in Chakan.
+
+### SUNETRA PAWAR HOLDS MEET OVER ISSUE
+
+The representative also said Deputy Chief Minister Sunetra Pawar had held a meeting on the issue, where positive decisions were taken.
+
+“There have been reports of this nature for the last three years, but no one is going anywhere. MIDC and PWD are jointly developing infrastructure in Chakan. Deputy Chief Minister Sunetra Pawar also held a meeting, and we took positive decisions there. Just as we have faith in entrepreneurs, they also have faith in the government. Some people may be relocating their units, but it would be wrong to say that the entire Chakan MIDC is going away. This issue should not be politicised,” the representative said.
+
+The industry representatives, however, maintain that the infrastructure and traffic problems have made operations increasingly difficult for MSMEs. The proposed relocation of around 20 units has raised concerns over employment and industrial activity in the Chakan region.
+
+\- Ends
+
+Akshat Trivedi
+
+Aug 12, 2026 08:03 IST
+
+---
+
+### 'Have a lot of threats': Trump says his plane faced greater risk after secret Turkey military flight
+*ET Online · business*
+
+US President Donald Trump said on Tuesday (August 11) the plane he flew on after he secretly took a military flight from Turkey last month was "at greater risk." The switch involved the Republican president being moved between aircraft in a catering truck because of worries over reports of a potential Iranian assassination threat. "I think actually the plane that I flew on was at greater risk," Trump told reporters after The Washington Post broke the story. "I think it was at greater risk because that would be the plane I think that they would be more likely to go for."
+
+---
+
+### 'High On Marijuana, Questionable Behaviour': Will Air India Phuket-Delhi Flight Pilot Lose Licence?
+*Pragati Ratti · general*
+
+According to reports, multiple sources familiar with the incident said the pilot appeared to be under the influence of psychoactive substances while operating flight AI2379.
+
+[Read full article](https://www.news18.com/explainers/will-air-india-phuket-delhi-flight-pilot-lose-licence-after-turbulence-testing-positive-for-marijuana-ws-l-10267594.html)
+
+---
+
+### Ardee Industries IPO set to debut today; 27% GMP points to strong listing gains
+*Ritesh Presswala · finance*
+
+Ardee Industries is all set to make its stock market debut on the BSE and NSE today, with grey market sentiment pointing to a potentially strong listing. The IPO is currently commanding a 27% grey market premium (GMP), signalling that the shares could list well above their issue price.
+
+The strong GMP comes after an impressive subscription response. The IPO, which was open from August 5 to August 7, was subscribed a staggering 133.66 times overall, reflecting robust investor appetite across categories.
+
+Institutional investors led the charge, with the Qualified Institutional Buyers (QIB) portion subscribed 197.77 times. The Non-Institutional Investors (NII) category saw even stronger demand, with subscription reaching 255.24 times, while the retail portion was subscribed 45.71 times.
+
+The Rs 425.87 crore IPO comprised a fresh issue of 6.04 crore shares worth Rs 320 crore and an offer for sale (OFS) of 2 crore shares amounting to Rs 105.87 crore.
+
+Ardee Industries had fixed the IPO price band at Rs 50–Rs 53 per share. With the issue receiving an overwhelming response and the GMP indicating a potential premium of around 27%, all eyes are now on the listing-day performance.
+
+Pantomath Capital Advisors Private Limited is the book-running lead manager for the issue, while KFin Technologies Limited is serving as the IPO registrar.
+
+  
+
+## IPO Objectives: Utilisation of Funds
+
+The proceeds from the Ardee Industries IPO directed towards strengthening the company’s balance sheet and supporting its future expansion initiatives. The company intends to deploy Rs 220 crore towards fulfilling its growing working capital requirements and Rs 20 crore towards the repayment or pre-payment of select borrowings. The balance amount will be utilised for general corporate purposes, taking the overall utilisation of IPO proceeds to Rs 240 crore.
+
+## About Ardee Industries
+
+Founded in 1993, Ardee Industries Limited operates in the sustainable recovery and recycling of end-of-life energy storage products and non-ferrous scrap. The company focuses on manufacturing high-purity lead and specialised lead alloys, including lead calcium, lead antimony, lead tin, lead silver, and lead cadmium variants.
+
+Its product portfolio serves multiple industries, including energy storage, electric mobility, automotive, and chemical sectors. As of March 31, 2025, Ardee Industries catered to over 50 customers across domestic and international markets, with a strong presence in the battery and metals industries. The company has also expanded its global footprint by exporting products to seven countries, including Singapore, Hong Kong, South Korea, Switzerland, the United Arab Emirates, Japan, and the United States.
+
+The company’s manufacturing facility is located across approximately 7.61 acres in Tirupati district, Andhra Pradesh. With an installed production capacity of 104,025 metric tonnes per annum (MTPA), the facility is equipped with modern recycling infrastructure, including rotary furnaces, refining kettles, casting systems, and advanced pollution control mechanisms.
+
+## Financial Performance
+
+Ardee Industries has demonstrated strong financial growth in recent years. In FY 2025-26, the company’s total income increased by 57% to Rs 1,168.9 crore, compared with Rs 743.5 crore in the previous fiscal year. The company also witnessed a significant improvement in profitability, with Profit After Tax (PAT) surging 155% to Rs 84.7 crore, up from Rs 33.3 crore in FY 2024-25.
+
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of Economic Times)
+
+---
+
+### Woman leaves husband for lover, he kills her and hides body in suitcase
+*India Today News Desk · general*
+
+A 20-year-old woman from Bihar’s Nawada district, who had left her husband and eloped with her lover to start a new life, was murdered by the same man, according to police.
+
+The accused then stuffed her body in a trolley suitcase, locked the room and fled from Dadra and Nagar Haveli, where the murder took place, police said.
+
+Nearly two months after the murder of Chhoti Upadhyay, accused Rishabh Kumar Singh has been arrested in Varanasi, where he was working under a changed identity.
+
+According to police, Chhoti was already married when she was in a relationship with Rishabh, who was from the same village.
+
+At Chhoti’s insistence, the two left their village and moved to Silvassa in Dadra and Nagar Haveli, where they got married. Their families opposed the relationship and refused to accept Chhoti. An FIR alleging kidnapping was also registered against Rishabh.
+
+After their marriage, Chhoti repeatedly urged Rishabh to return to their village. This led to frequent disputes between the couple, police said.
+
+On the morning of June 9, the two had a heated argument. That evening, Rishabh strangled Chhoti to death in anger, according to officials.
+
+Police said the accused then tied her body with a rope, wrapped it in plastic and stuffed it into a trolley suitcase in an attempt to conceal the crime. He locked the room and fled to Varanasi, where he began working as a labourer at a private company while concealing his identity.
+
+The murder came to light nearly two months later, on August 3, when the landlord broke open the locked room to rent it to another tenant. A foul smell coming from a suitcase kept in the bathroom led to the discovery of the body.
+
+During the investigation, Uttar Pradesh Police received information that Rishabh was in Varanasi. Acting on a tip-off, a joint police team raided a private firm in Varanasi and arrested him. Rishabh was working there under a changed name.
+
+\- Ends
+
+(With inputs from Raushan Jaiswal in Varanasi)
+
+Aug 12, 2026 08:00 IST
+
+---
+
+### Shillong Teer Result Today, August 12, 2026: Winning Numbers and Results
+*Nibandh Vinod · general*
+
+Shillong Teer Result Today, August 12, 2026: Check Shillong, Juwai, Khanapara, Morning and Night Teer winning numbers, draw timings and result updates.
+
+[Read full article](https://www.news18.com/india/shillong-teer-result-today-august-12-2026-winning-numbers-10265641.html)
+
+---
+
+### Shruti Haasan faces allergies from her Persian cat. When is it risky for you?
+*India Today Health Desk · general*
+
+## Shruti Haasan recently spoke about rehoming her Persian kitten after developing a severe allergy. But are Persian cats more likely to cause allergies? Here is what cat owners need to know before bringing one home.
+
+Shruti Haasan’s experience with a severe allergy after adopting a Persian kitten raises questions about cat allergies, symptoms and who should be cautious. (Image: Instagram and Pexels)
+
+Bringing home a Persian kitten can feel like the beginning of a very fluffy love story. But for some people, living with a cat can also mean sneezing, itchy eyes, skin rashes or even breathing problems. Actor Shruti Haasan recently spoke about having to rehome her Persian kitten Aslan after developing a severe allergy, calling the decision heartbreaking. But does the Persian breed itself make allergies worse? Not exactly. Cat allergies are mainly caused by proteins produced by cats, particularly allergens found in saliva, skin and dander. All cats produce allergens, and there is no truly hypoallergenic cat breed.
+
+### WHY CAN A PERSIAN CAT TRIGGER AN ALLERGY?
+
+The culprit is not simply a cat's fur. One of the main cat allergens is a protein called Fel d 1, which is found largely in saliva and skin secretions and gets distributed through grooming and shedding. Cat allergens can also be carried in dander.
+
+This means a person can react to a Persian cat even if they have never reacted to another breed. At the same time, Persian cats are not inherently more allergenic simply because they have long hair.
+
+However, their dense coats can collect dander and other particles, which may increase the amount of allergen present around the home. The American College of Allergy, Asthma & Immunology notes that fur length itself is not associated with cat allergen levels.
+
+### WHAT DOES A MILD CAT ALLERGY LOOK LIKE?
+
+For some people, symptoms can be irritating but manageable. These may include:
+
+-   Sneezing
+-   Runny or blocked nose
+-   Watery, red or itchy eyes
+-   Coughing
+-   Skin rash or hives
+
+Highly sensitive people can develop symptoms within minutes of touching a cat or entering a home where a cat lives.
+
+Cat owner Radifah Kafir says, she did not experience any allergy symptoms after bringing her cat home.
+
+"Honestly, none at all, and that surprised a lot of people around me. I braced myself for the usual complaints, such as itchy eyes, sneezing and persistent throat tickle, simply because so many new cat owners describe exactly that in the first few weeks."
+
+### WHEN DOES A CAT ALLERGY BECOME SERIOUS?
+
+Breathing difficulty is where a routine allergy should not simply be brushed aside. Wheezing, chest tightness and shortness of breath can occur with pet allergies and may be particularly concerning for people with allergic asthma.
+
+Kafir says owners should watch for more serious symptoms.
+
+"A serious reaction looks and feels entirely different. Watch for tightness in the chest, real difficulty breathing, swelling around the face or throat, or hives spreading rapidly across the body."
+
+Severe allergic reactions can worsen quickly. Trouble breathing, throat swelling, widespread hives, dizziness or fainting require urgent medical attention.
+
+### CAN YOU REDUCE CAT ALLERGENS AT HOME?
+
+If you already have a cat, reducing exposure can help. Regular cleaning, using a high-efficiency vacuum cleaner and keeping the cat away from bedrooms can reduce allergen exposure.
+
+Kafir says grooming Kiwi has become part of the routine.
+
+"We frequently brush Kiwi's hair. Grooming became a twice-weekly ritual, brushing his coat outdoors so loose fur and dander did not settle into our carpets and cushions."
+
+She adds that keeping him on a regular vaccination and deworming schedule and feeding him good-quality food may have contributed to how healthy and low-shedding his coat has remained, although this should not be taken as a proven method of preventing cat allergies.
+
+\- Ends
+
+vaishnavi parashar
+
+Aug 12, 2026 08:00 IST
+
+---
+
+### ‘Hardline Hindu? Pure Veg? Do You Wear Janeu?’: Ram Temple Authorities’ Questions For CEO Candidates
+*Prisha Vibhavari · general*
+
+The candidates were also questioned about their consumption of alcohol, with the interview panel asking whether they were teetotallers, PTI sources said.
+
+[Read full article](https://www.news18.com/india/hardline-hindu-pure-veg-do-you-wear-janeu-ram-temple-authorities-questions-for-ceo-candidates-ws-l-10267609.html)
+
+---
+
+### Who Followed Umar Ahmed's Jail Convoy From Jhansi To Prayagraj? UP Police Dig In After Shocking Toll Breach
+*Sumedha Kirti · general*
+
+Umar Ahmed Toll Barriers Breach Case: Investigators are trying to establish whether these vehicles travelled with convoy from outset or joined it at different points along route
+
+[Read full article](https://www.news18.com/cities/prayagraj/who-followed-umar-ahmed-jail-convoy-from-jhansi-to-prayagraj-up-police-dig-in-10267567.html)
+
+---
+
+### IMD Gets Delhi Rain Data Wrong, Later Fixes It: How Does It Actually Measure Rainfall?
+*Mallika Soni · general*
+
+IMD corrected Delhi's August rainfall data, reducing the cumulative figure. So how does IMD collect and compile rainfall data and where can an error creep in?
+
+[Read full article](https://www.news18.com/india/imd-gets-delhi-rain-data-wrong-later-fixes-it-how-does-it-actually-measure-rainfall-ws-l-10267593.html)
+
+---
+
+### Delhi-NCR weather today, August 12: Check IMD forecast for Delhi, Noida, Ghaziabad, Gurgaon
+*Trending Desk · business*
+
+Delhi and several parts of the National Capital Region are likely to experience cloudy conditions and spells of rain on Wednesday. The minimum temperature in Delhi is expected to remain around 29°C, while the maximum may reach 36°C. Noida and Ghaziabad could witness heavy rainfall accompanied by thunderstorms and lightning, while Faridabad and Gurgaon are also likely to receive rain.
+
+  
+
+## Delhi weather today
+
+Delhi is likely to record a minimum temperature of 29°C and a maximum of 36°C on Wednesday. The mercury is expected to remain around 29°C during the day, while wind speed is likely to be around 1.67, with winds moving at 355 degrees and gusts reaching 5.28.
+
+  
+
+The city is expected to have a generally cloudy sky with moderate rain. Light to moderate rainfall is likely during the afternoon, evening and night. Sunrise is expected at 5:48 AM, while sunset will take place at 7:03 PM.
+
+As per the seven-day forecast, Delhi's temperature is likely to reach 36°C on Wednesday and Thursday, 32°C on Friday, 34°C on Saturday, Sunday and Monday, and 32°C on Tuesday.
+
+  
+
+## Noida weather today
+
+Noida is likely to record a minimum temperature of 28°C and a maximum of 32°C. The mercury is expected to remain around 31°C during the day. Wind speed is likely to be around 3.61, with winds moving at 106 degrees and gusts reaching 7.5.
+
+The city is expected to have a generally cloudy sky with one or two spells of rain or thundershowers. Heavy rainfall, thunderstorms and lightning are also likely. Sunrise is expected at 5:47 AM, while sunset is likely at 7:03 PM.
+
+As per the seven-day forecast, Noida's temperature is likely to reach 32°C on Tuesday, 36°C on Thursday, 31°C on Friday, 34°C on Saturday, 33°C on Sunday and 34°C on Monday.
+
+## Ghaziabad weather today
+
+Ghaziabad is likely to see a minimum temperature of 27°C and a maximum of 31°C. The mercury is expected to remain around 31°C during the day. Wind speed is likely to be around 3.89, with winds moving at 105 degrees and gusts reaching 8.06.
+
+Heavy rainfall, thunderstorms and lightning are expected in the city. Sunrise is likely at 5:47 AM, while sunset is expected at 7:03 PM.
+
+As per the seven-day forecast, Ghaziabad's temperature is likely to reach 31°C on Tuesday, 36°C on Thursday, 30°C on Friday, 34°C on Saturday, 33°C on Sunday and 33°C on Monday.
+
+## Gurgaon weather today
+
+Gurgaon is likely to record a minimum temperature of 28°C and a maximum of 32°C. The mercury is expected to remain around 31°C during the day. Wind speed is likely to be around 3.06, with winds moving at 110 degrees and gusts reaching 8.06.
+
+Light to moderate rainfall is expected in the city. Sunrise is likely at 5:49 AM, while sunset is expected at 7:04 PM.
+
+As per the seven-day forecast, Gurgaon's temperature is likely to reach 32°C on Tuesday, 36°C on Thursday, 31°C on Friday, 34°C on Saturday and Sunday, and 35°C on Monday.
+
+## Faridabad weather today
+
+Faridabad is expected to record a minimum temperature of 27°C and a maximum of 34°C. The mercury is likely to remain around 33°C during the day. Wind speed is expected to be around 1.67, with winds moving at 140 degrees and gusts reaching 5.28.
+
+The city is likely to experience partly cloudy skies with one or two spells of rain or thundershowers. Light to moderate rainfall is also expected. Sunrise is expected at 5:35 AM, while sunset is likely at 6:42 PM.
+
+As per the seven-day forecast, Faridabad's temperature is likely to reach 34°C on Tuesday and Thursday, 32°C on Friday and Sunday, 33°C on Saturday and 29°C on Monday.
+
+---
+
+### Cristiano Ronaldo announces marriage with longtime girlfriend Georgina Rodriguez in style
+*Mukesh Thapliyal · business*
+
+Portuguese football star Cristiano Ronaldo married his longtime girlfriend, Georgina Rodriguez, in a civil and private ceremony in Cascais, Portugal, on Tuesday, according to his management team, Reuters reported. Their five children attended the ceremony. The couple got married exactly one year after Rodriguez, 32, announced their engagement on Instagram. The five-time Ballon d’Or winner has been in a relationship with Rodriguez since 2016.
+
+Ronaldo, who played for Portugal at the World Cup this summer, is one of the most decorated players in football history, having won major trophies with Manchester United, Real Madrid, Juventus and his current club, Al-Nassr in Saudi Arabia.
+
+The 41-year-old Ronaldo announced his marriage to Rodriguez with a stylish post on Instagram. He shared a photo of the couple’s hands showing their wedding bands, along with the caption, "C (heart) G".
+
+  
+
+Ronaldo’s World Cup career ended with 27 appearances, the second-most by any player, and 11 goals. While impressive, his World Cup record was underwhelming compared with the extraordinary standards he set through his club career.
+
+
+---
+
 ## 11 August 2026
 
 ### Jharkhand Bandh Today: BJP-Led Statewide Shutdown Over Police 'Atrocities'; Students Demand CBI Probe
