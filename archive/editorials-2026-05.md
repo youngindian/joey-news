@@ -1,5 +1,50 @@
 # Editorials archive — 2026-05
 
+## 13 May 2026
+
+### Tamil Nadu’s political transition, growth story faultlines
+*The Hindu · Opinion*
+
+In Tamil Nadu, the electoral triumph of the Tamilaga Vettri Kazhagam (TVK) under the leadership of C. Joseph Vijay is seen as something that would lead to a break from the ‘Dravidian Model of development’. But only time will tell if Mr. Vijay’s victory is only an extension of Dravidian politics. Going by the TVK’s election manifesto, there is scope for continuity, not a break, from extant economic policy. The party’s victory comes at a time when Tamil Nadu is faced with a series of challenges. While some are internal, emerging from chinks in the State’s relatively better development outcomes and in its political trajectory, others have been aggravated by external challenges such as the shifts in federal relations and the changes in the global economic order.
+
+Successive Dravidian parties have built an economy that is inclusive, productive, and broad-based. The State has shown that economic growth can go together with social development: simultaneous interventions in growth drivers (infrastructure such as power and transport) alongside investments in affordable health and education. It may not be an exaggeration to say that, even without parental support, the probability of a child surviving, getting fully immunised, being fed nutritious food, getting into school, entering college, and progressing to university is far higher in Tamil Nadu than in many other States in India (perhaps, Kerala is the other).
+
+But now, “there is trouble in paradise”. New faultlines have emerged in the Dravidian model. Historically, Tamil Nadu’s industrial story has rested on a simple idea: using state policy to stitch together the growth of territorially rooted micro, small, and medium enterprises (MSMEs) and large electronics and manufacturing firms, so that learning, jobs, and value creation are spread across regions within the State. That model has weakened with the rise in precarity of jobs and sluggish wage growth. The growth — and indeed there has continued to be growth — has not generated jobs or real wage growth. Ex-post welfare transfers have not cut it either. Not to mention, the increased welfare transfers have come at the expense of fiscal prudence.
+
+Jobs and growthTamil Nadu is a global manufacturing hub and its industrial policy, irrespective of the political regime, has remained consistent and non-contradictory. It has, therefore, attracted large global investments such as Hyundai, Ford and Nokia in the past, and Foxconn which manufactures Apple iPhones. However, there has been a gap between the investment promised and actualised. As per Centre for Monitoring Indian Economy Pvt. Ltd (CMIE) data, during 2021-25, announced investments rose to ₹6.80 lakh crore, but completed investments stood lower at ₹1.57 lakh crore. The completion ratio stands at 23.09%, which is lower than before. Even these investments did not generate commensurate jobs. The employment elasticity of new jobs is much lower now than in previous regimes: 0.01 per unit of promised capital, less than one job per crore of investment. The latest Annual Survey of Industries tells us that the ratio of jobs created per unit of capital investment, number of workers to gross capital formation, was 0.58 for Tamil Nadu, 0.34 for Gujarat, and 0.33 for Maharashtra. Historically, Tamil Nadu’s uniqueness lies in the pursuit of development that delicately balances the needs of capital with a requisite degree of safeguards for workers. As a result, even when the wage share in national income has been falling across the world due to increases in capital intensity, Tamil Nadu has been able to protect its workers, at least relatively.
+
+Related StoriesTamilaga Vettri Kazhagam | The star who stormed into politics
+
+Seeking a new paradigm for Dravidian exceptionalism
+
+TVK’s victory in Tamil Nadu polls: The rise of an apolitical polity
+
+Vijay’s Tamilaga Vettri Kazhagam: a new political dawn in Tamil Nadu
+
+How Vijay built a grassroots base even before launching TVK
+
+Did kids make ‘Vijay mama’ a success?
+
+The wage levels in Tamil Nadu were higher because of lower levels of contractualisation and the better bargaining strength of labour. Relative to its own past, the State is now witnessing rising contractualisation, declining wage shares, and weakening employment elasticity as capital intensity increases. MSMEs are losing ground and many traditional, labour-intensive clusters face a survival crisis. They are yet to recover fully from successive shocks of demonetisation (2016), Goods and Services Tax (2017) and COVID-19 (2020). U.S. President Donald Trump’s tariffs have compounded the crisis. The new factories that have come in have weak linkages with the existing small firms. On the other hand, the persisting skill gap in labour market has further limited the ability to generate jobs, adopt new technologies and absorb new entrants.
+
+Aspirations versus achievementThe Dravidian model that generated aspirations among youth has brought new troubles. Its emphasis on education as the route to self-respect translated into broad-based aspirations for success which implied dignity and self-respect. These are values that the Dravidian movement has long stood by. Tamil Nadu is one of the few Indian States that democratised higher education and addressed elite bias. Its gross enrolment ratio (GER) in higher education is 51%, which means that 51% of all youth in the age group of 18-23 years are engaged in some form of higher education, which is twice the national average of 27.1% and comparable to most European countries. It is also inclusive, as the GER of Scheduled Caste (SC) men and women stands at 38.8% and 40.4%, respectively, much higher than that of upper-caste youth in many States.
+
+‘There needs to be a new set of economic and social policies attentive to these faultlines’ | Photo Credit: AFP
+
+But since education expanded without improvements in quality, its returns have declined, weakening the prospect of mobility and opening new pathways for inequality. With education being decoupled from the job market, the relative position of the first-generation graduate has become increasingly fragile when compared to those with generational wealth. Double-digit growth does not mean anything to new entrants if it does not generate jobs with commensurate wages. Educated youth work as delivery agents and gig workers who are exploited by platform companies. A feeling of betrayal has set in. The welfare that follows is not enough and cannot compensate for the loss of dignity that is endured through joblessness or informality. The new welfarism of the Dravida Munnetra Kazhagam party has ensured a vast social and economic safety net for the underprivileged, but these welfare measures did not resonate with first-time voters in 2026. In the absence of meaningful employment, the youth perceive these as measures that take away dignity.
+
+New policies, delivering dignityNo doubt, Tamil Nadu still does better in most indicators vis-à-vis other States. For youth, this is a given. They have been listening to this narrative their entire lives, but that slogan of success does not resonate with their lives. The Dravidian movement took on the old hierarchy but is blind to the new hierarchy, and their own position within it. Thomas Piketty emphasises that besides political equality, voice, power, and participation, and access to basic goods for everyone, the question of dignity is the most severe form of inequality in our times. Tamil Nadu has achieved some degree of equality in basic health, education, food, and transportation through a more generous welfare state. But it has not delivered dignity. So how does one even do that?
+
+Tamil Nadu Assembly Elections 2026 | Full coverage
+
+Addressing that requires a reworking of the growth strategy to generate decent jobs, better wages and reforming governance to reduce the gap between the governed and the governing, foster associational life among people, and dismantle new sites of hierarchy. In absence of these measures, even welfare, framed in the language of rights, may not work because the line between legitimate welfare and illegitimate bribe, or money-for-votes, has blurred. This often makes youth resentful or confused about what is an entitlement and whether a cash transfer is a right or a bribe. What is thus required is a new set of economic and social policies attentive to these faultlines.
+
+Kalaiyarasan A. is Associate Professor, Madras Institute of Development Studies
+
+[Read full article](https://www.thehindu.com/opinion/lead/tamil-nadus-political-transition-growth-story-faultlines/article70970784.ece)
+
+---
+
 ## 3 May 2026
 
 ### Exit polls: Paid prophecy, not psephology
