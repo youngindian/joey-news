@@ -1,3 +1,460 @@
+## 13 August 2026
+
+### Indian origin teen faces murder charges after mother, brother found dead in US home
+*Express Global Desk · legal*
+
+Arjun Aravind was apprehended in Wayland after allegedly fleeing Acton in his mother's car, according to District Attorney Marian Ryan.
+
+[Read full article](https://indianexpress.com/article/world/us-news/indian-origin-teen-arjun-aravind-charged-mother-brother-murder-massachusetts-10830811/)
+
+---
+
+### Minister joins sanitation workers' protest, Rajasthan CM resolves issue in hours
+*India Today News Desk · general*
+
+A Rajasthan minister joined a protest against his own government, and, in an unusual turn of events, helped resolve an issue that did not even fall under his portfolio. Rajasthan forest minister Sanjay Sharma sat on a _dharna_ in support of sanitation workers in Alwar over the alleged delay in issuing their appointment letters.
+
+The sit-in protest, which took place on the premises of the Alwar Municipal Corporation, helped resolve the long-pending issue in just four hours. The demonstration was initially launched by sanitation workers who had been waiting for their appointment letters since being hired in the 2012 recruitment drive.
+
+Working at the Alwar Municipal Corporation for the past seven years, they had been running from pillar to post seeking their appointment letters. With municipal elections due in the state, they decided to boycott work.
+
+On learning about their protest, Sharma joined them, saying he would not leave the protest site until the workers were issued their appointment letters. The BJP minister also blamed the Alwar collector and the municipal commissioner for the delay.
+
+Following an intervention by the Chief Minister's Office (CMO) later, officials issued appointment letters to five workers and announced the formation of a three-member committee to decide on the remaining cases, prompting Sharma to end his _dharna_.
+
+The forest minister said five people were given appointment letters as their files were already ready, while other eligible candidates will get the letters at an event involving Union Home Minister Amit Shah and Chief Minister Bhajanlal Sharma on August 16.
+
+He also levelled serious allegations against the district collector, Artika Shukla, accusing her of acting arbitrarily and undermining government schemes.
+
+During the dharna, Sharma said the Rajasthan High Court last year ordered the issuance of appointment letters for sanitation workers recruited in the 2012 drive, following which the municipal corporation sought guidance from the director of the local self-government department on the matter.
+
+After months of communication, the authorities were about to issue appointment letters to 69 candidates, but it was put on hold, he claimed.
+
+The minister said that members of the Valmiki community informed him that the officials had denied them appointment letters.
+
+"I spoke to the district collector, but her attitude was surprisingly negative. She appeared to be adamant and not in the mood to dispose of the matter. So, I came to the corporation office and sat on _dharna_ with the workers," he was quoted as saying by news agency PTI.
+
+"I have also communicated the issue to the chief minister's office," he added. His protest gave the opposition Congress fresh ammunition to target the BJP government in Rajasthan.
+
+### CONGRESS ATTACKS BJP GOVT
+
+Rajasthan Congress president Govind Singh Dotasra asserted that corruption has become so rampant in Rajasthan that a minister of the BJP government was himself staging a protest for the sanitation workers' cause.
+
+He said the minister's protest against his own government and allegations against the district administration and municipal corporation raised serious questions over the functioning of CM Bhajanlal Sharma's government.
+
+"If a minister sits on a _dharna_ against scams in his own government, one can imagine the extent of corruption under the BJP rule," Dotasra alleged.
+
+He further claimed that Sharma's _dharna_ against the district collector and municipal commissioner showed the sorry state of the administrative system under the BJP government.
+
+\- Ends
+
+(Based on inputs from Himanshu Sharma, with additional inputs from PTI)
+
+Aug 13, 2026 08:13 IST
+
+---
+
+### South Delhi Woman Sedates Husband; Lover Strangles, Electrocutes His Private Parts, Fakes Burglary
+*Vani Mehrotra · general*
+
+A 55-year-old man was allegedly sedated, strangled, electrocuted and beaten to death in Sangam Vihar. Police arrested his wife and her alleged lover.
+
+[Read full article](https://www.news18.com/india/south-delhi-sangam-vihar-murder-wife-lover-kill-man-electrcute-private-parts-ws-l-10269967.html)
+
+---
+
+### Why Cosmopolitan Cities Like Mumbai, Bengaluru Are Becoming More Conservative
+*Saurabh Verma · general*
+
+Cosmopolitan metros are witnessing growing tensions over language and regional identity, raising questions about whether Mumbai, Bengaluru and Chennai are becoming less inclusive.
+
+[Read full article](https://www.news18.com/india/why-cosmopolitan-cities-mumbai-bengaluru-chennai-becoming-conservative-language-debate-10269248.html)
+
+---
+
+### American Airlines shakes up leadership as CEO faces pressure to close profit gap
+*SECTIONS American Airlines shakes up leadership as CEO faces pressure · business*
+
+CHICAGO, - American Airlines is reorganizing senior management, broadening oversight across its commercial and operations teams and adding a former Spirit Airlines executive to run technical operations, as CEO Robert Isom faces pressure to close the carrier's profit gap with rivals.
+
+In a staff memo ‌seen by Reuters, ⁠Isom ⁠acknowledged a "meaningful gap" between American's current performance and where he said the airline should be. He said the moves ​were the "first step in a series of actions" aimed at strengthening the team, improving alignment and accelerating execution.
+
+The ​company's profit gap with Delta Air Lines and United Airlines was already wide before the recent fuel shock that followed the U.S.-Israeli attacks on Iran that kicked off a war that has caused ​energy prices to surge.
+
+  
+
+Former Spirit Airlines COO John Bendoraitis ⁠will join American to ‌lead technical operations, one of a number of moves to try to ​boost performance. ​Chief Commercial Officer Nat Pieper will add marketing and branding to his duties, ⁠Chief Customer Officer Heather Garboden will take on reservations and service recovery, ​and JC Gulbranson will add airports and planning.
+
+Chief Communications Officer ​Ron DeFeo is stepping down, according to the memo. Caroline Clayton will oversee communications and Steve Neuman government affairs.
+
+Garboden, Gulbranson, Clayton and Neuman will join American's senior leadership team. American expects roughly break-even results in 2026, as higher jet fuel prices ate up gains from stronger revenue. Delta and United expect solid profits. The heat on Isom has already been building. Flight attendants earlier this year called ‌for a leadership change, while its pilot union has questioned whether the current management team can close the earnings gap.
+
+Pilots' union head Nick Silva recently contrasted ​American's breakeven outlook with ​profits at rivals, arguing ⁠that "rising fuel costs are not holding our competitors back from innovation and profitability."
+
+In a memo to pilots last week, Silva said the union had sought a meeting with American's board to discuss concerns ​about the company's future but was "rebuffed." It has since held discussions with analysts, investors and other stakeholders, he said.
+
+"The consensus is clear: Something must change. The only question is 'When?'" Silva wrote. Isom made clear he is not changing course, saying American has "the right strategy and the right team to deliver it," as it focuses on expanding its global network, growing premium revenue and strengthening its AAdvantage loyalty program.
+
+---
+
+### Indian-Origin Teen Kills Mother, Brother In US; Had Searched For ‘Fantasies Regarding Killing His Family’
+*Prisha Vibhavari · general*
+
+Investigators said Arjun's online activity indicated his concerning behaviour, including ChatGPT searches about hypothetical scenarios or fantasies involving killing his family.
+
+[Read full article](https://www.news18.com/world/indian-origin-teen-kills-mother-brother-in-us-had-searched-for-fantasies-regarding-killing-his-family-ws-l-10269963.html)
+
+---
+
+### After Cristiano Ronaldo, Neymar Sends Emotional Message To Lionel Messi After Father's Death
+*Unknown · sports*
+
+Brazilian football superstar Neymar joined the likes of Cristiano Ronaldo to send a heartful message to Lionel Messi after the death of his father Jorge.
+
+[Read full article](https://sports.ndtv.com/football/after-cristiano-ronaldo-neymar-sends-emotional-message-to-lionel-messi-after-fathers-death-11902859)
+
+---
+
+### Iran could prolong war with US until Donald Trump leaves office, says senior IRGC adviser
+*Monica Singh · general*
+
+Senior IRGC adviser Mohammad Reza Naqdi told PBS that Iran could deliberately prolong its war with the US until Trump leaves office to impose attrition and deter future attacks. He said Iran is "winning" but wants deterrence.
+
+A senior adviser to the commander of Iran's Islamic Revolutionary Guard Corps (IRGC) has said Tehran could deliberately prolong its war with the United States until President Donald Trump leaves office, using attrition to deter future attacks.
+
+“One way is to prolong this war until we get to the next term of the presidency and cause attrition, so that if anyone else wants to attack Iran, they will know there is a cost,” Mohammad Reza Naqdi told PBS NewsHour on Tuesday.
+
+Naqdi, a senior adviser to the IRGC commander-in-chief, said Iran believes it is currently winning the war but has not yet achieved its final objective.
+
+## **Goal is deterrence, not just victory**
+
+He said prolonging the conflict would allow Iran to gain more experience fighting the US and impose a cost that could serve as a deterrent against future attacks. "We have to establish deterrence so that the enemy never dares to attack us. One way is to prolong the war and impose attrition, so that anyone who considers attacking Iran knows there will be a price to pay," he said.
+
+The remarks offer one of the clearest indications yet of how at least one senior Iranian military figure views the timeline of the conflict, explicitly linking the duration of the war to the end of Trump's current presidency.
+
+Asked whether Iran's objective was to drag out the war until Trump is out of office, Naqdi said Tehran's goal was to establish deterrence so that “the enemy never dares to attack us”.
+
+## **Claims US military is "weaker than perceived"**
+
+Naqdi also said Iran had learned from the conflict and had found the US military to be weaker than previously perceived.
+
+He issued a warning about Iran's ability to continue fighting, saying the country was producing more missiles each day than it was launching. He claimed Iran could manufacture missiles in different locations and continue launching rockets even if the war lasted for years.
+
+## **Warning: "We will be even more dangerous" without missiles**
+
+But he suggested Iran could pose an even broader threat if its missile stockpile were exhausted.  “If there comes a day when Iran has no more missiles left, that's when we will be even more dangerous for America,” Naqdi said.
+
+Asked how Iran could become more dangerous without missiles, he replied: “Because America has thousands of economic interests throughout the world, and all of them can be easily destroyed.” The IRGC adviser did not specify what economic targets he was referring to or how Iran might attack them
+
+---
+
+### 'Repeated claims don't change reality...': Iran refutes Trump's claim of 'total control' over Hormuz
+*ET Online · business*
+
+Iran again has rejected US President Donald Trump’s “total control” claim over Strait of Hormuz. Iranian PGSA said the strategic waterway remains blocked and will not be reopened until Tehran's conditions are accepted. The Persian Gulf Strait Authority, in a post on X, said Trump's claims and repeated statements by US officials that Hormuz was no longer blocked did not change the situation. The Iranian response came hours after Trump claimed on Truth Social that the US exercised "total control" over the Strait of Hormuz and "will keep it". He described the U.S. naval deployment in the region as a "WALL OF STEEL" and said, "there is nothing Iran can do about it.” Trump further maintained that Tehran's military infrastructure had been severely degraded, concluding his message with the phrase, "Praise be to Allah!".
+
+---
+
+### Top stocks to buy today: Stock recommendations for August 13, 2026 - check list
+*TOI Business Desk · business*
+
+Top stocks to buy on August 13, 2026
+
+Top stock market recommendations: Indian Bank, DLF, and Polycab India - Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth Management has picked these three as the top stocks to buy on August 13, 2026. The analyst has also shared his technical views on Nifty and Bank Nifty.Indian Bank (BUY):
+
+-   LCP: Rs 897
+-   Stop Loss: Rs 855
+-   Target: Rs 985
+
+After consolidating near its 50-week SMA for 3 months, stock is strongly coming out of its range. This move is accelerated by an inverse head-and-shoulder pattern breakout on the daily chart.
+
+With the pattern’s retest also underway, stock is now ready to march forward towards the pattern’s target near 980-985 levels.DLF (BUY):
+
+-   LCP: Rs 661.75
+-   Stop Loss: Rs 630
+-   Target: Rs 735
+
+With a month-long pennant formation unfolding, stock is placed right at the pattern’s upper bound, brimming near the breakout threshold. Furthermore, the stock’s 14-period ADX is trading near the lows, signifying an impending expansion in volatility. With the lowest point of the pennant (near 630) now a strong base, stock is set to continue its preceding up move.Polycab India (BUY):
+
+-   LCP: Rs 9,289
+-   Stop Loss: Rs 8,920
+-   Target: Rs 10,030
+
+Since late June, this stock witnessed healthy correction, successfully retesting a prior resistance which is now a robust support. Apart from seeing improvement in price action after retesting this role reversal mark, a near-term trend line breakout occurring on the daily chart is further creating a stronger picture for an imminent upside move towards all-time levels.Index View: NiftyNifty ended flat yesterday, having recovered almost all its intraday losses in the last couple hours of trade along with a final push from the CAS session.
+
+For the past two trading sessions, Nifty’s open and high are nearly equal. Hence, it is now crucial for Nifty to overcome 24575 levels for further upside triggers. Above that, Nifty’s 200-day moving average at 24575 will be eyed. Support for the index is placed at 24200, followed by 24050.Bank Nifty ViewWhile the 200-day moving average is acting as a resistance for Nifty, Bank Nifty is holding firm above its 200-DMA. After spending two trading sessions near this level, Bank Nifty closed in green yesterday gaining over 400 points. With 57150 now acting as a strong base, the index remains open for 58300/58600 as per charts.(Disclaimer: Recommendations and views on the stock market, or any other asset classes or personal finance management tips given by experts and analysts are their own. These opinions do not represent the views of The Times of India.)
+
+---
+
+### Want To Tip Your Driver? Centre Orders Ride Apps To Stop Asking For Money Before Trip Completion
+*Aanchal Sinha · general*
+
+The ministry clarified that passengers can choose to tip only after the ride has ended and that the payment must remain voluntary.
+
+[Read full article](https://www.news18.com/india/want-to-tip-your-driver-centre-orders-ride-apps-to-stop-asking-for-money-before-trip-completion-ws-kl-10269926.html)
+
+---
+
+### Kerala man loses money to scratch card ‘fraud’, bank to refund, compensate
+*Richa Sahay · legal*
+
+The man claimed that he scratched a ‘cashback’ card that appeared on social media, following which Rs 9,854 was deducted from his Federal Bank account in 2021.
+
+[Read full article](https://indianexpress.com/article/legal-news/kerala-man-rs-9854-scratch-card-fraud-bank-refund-pay-rs-8000-10830224/)
+
+---
+
+### Ban the poison, not the plastic. You can’t stomach pan masala’s ugly truth
+*Radifah Kabir · general*
+
+## On August 10, FSSAI banned plastic and foil packaging for pan masala, then clarified that it is not banning the product. As a food and biotechnologist, I believe this is the smaller scandal. The bigger one is that we are agonising over the wrapper of a proven, addictive carcinogen while leaving the carcinogen itself on every counter in the country.
+
+You have seen them a thousand times, and taught yourself, each time, to look away.
+
+The little _gutka_ sachet torn open with the teeth. The head tipped back with the ease of long practice. The _pan masala_ tucked into the pouch of the cheek, where it will lie and steep for hours like something brewing in its own warmth. The patient, ruminant working of the jaw. The teeth gone the colour of old rust, the gums following them down, and then the long crimson arc of spit flung against a staircase, a platform, or a wall, until the country itself seems streaked the colour of dried blood.
+
+We call it a habit. It is a slow suicide.
+
+Look again, and see it plainly. A person is pressing a known carcinogen into the soft, living flesh of their own mouth, day upon day, holding it against the same tender patch of cheek until that cheek begins to stiffen, to scar, to close like a fist. Beneath the perceived calm of the chewing, in a silence no one can hear, cells are quietly forgetting what they were meant to be. This is not a habit, but a cancer rehearsing itself, sold across a counter for the change in a pocket.
+
+And this month, with all of it in plain sight, the state reached out and, very carefully, changed the wrapper.
+
+On August 10, the Food Safety and Standards Authority of India (FSSAI) notified the Food Safety and Standards (Packaging) Amendment Regulations, 2026, forbidding plastic, aluminium foil and metallised layers for _pan masala_, and permitting only paper, cellulose, tin or glass. On its own, it is a sound and even admirable measure. Billions of these tiny multilayer sachets, all but impossible to recycle, clog our drains and smother our landfills, and to be rid of them is no small thing.
+
+But the regulator appended a single, revealing sentence. This, it said, is not a ban on the product itself.
+
+Read that again, slowly. We have passed a law about what to wrap a carcinogen in.
+
+I am a food technologist, and to my eye, the packaging is the lesser of the two scandals. The greater one is that the thing sealed inside the sachet is a proven, addictive, cancer-breeding substance some people have taught themselves to call a mouth freshener, and that the national food regulator's boldest response, in the year 2026, has been to make its shroud compostable. We are tidying the packaging of a poison.
+
+### WHAT IS ACTUALLY INSIDE A _PAN MASALA_ SACHET?
+
+Peel away the perfume and the flavour and the clever advertising, and the heart of every _pan masala_ is one thing, unchanging: areca nut, the seed of the areca palm, which most Indians know simply as _supari. Gutka_ is that same nut with tobacco folded in. _Paan_, or betel quid, cradles the seed in a betel leaf smeared with slaked lime, and, more often than not, tobacco again.
+
+The nut is no innocent passenger in this mixture. It is the whole trouble.
+
+Areca nut is a carcinogen, which is merely the scientist's word for a thing that causes cancer. And this is no marginal, arguable case. The World Health Organization's cancer arm, the International Agency for Research on Cancer, weighed the world's evidence and placed areca nut in Group 1, the highest and gravest category it keeps, reserved for substances shown beyond reasonable doubt to cause cancer in human beings. It shares that shelf with tobacco and with asbestos.
+
+And here is the fact the trade would rather stay buried: the verdict holds even when there is no tobacco at all. In its landmark 2004 monograph, the agency ruled that areca nut, on its own, is carcinogenic, and that betel quid without tobacco is carcinogenic too. So, the soothing words 'tobacco-free', printed so proudly across the packet, do not mean harmless. They mean one poison in the place of two.
+
+### IS _PAN MASALA_ REALLY CANCEROUS EVEN WITHOUT TOBACCO?
+
+Yes. And the manner of its cruelty is worth dwelling on, for it is slow, and quiet, and almost tender in its patience.
+
+Long before any tumour declares itself, the habitual chewer tends to develop oral submucous fibrosis. Put plainly, the lining of the mouth begins to stiffen and scar. The soft, yielding tissue of the cheeks turns taut and leathery, tightening by degrees until many can no longer open their mouth to eat a proper meal, or to let a dentist look inside.
+
+It is painful. It is, for the most part, beyond undoing. And it is what medicine calls a precancerous condition, the last warning bell before the malignancy itself. The cancer agency named areca nut, by name, as the cause of this disease.
+
+This is not some rare misfortune visited on the unlucky few. It is the plain, remorseless arithmetic of holding a Group 1 carcinogen against the same soft wall of the mouth, several times a day, for years, while you work and drive and wait for a bus that is always late.
+
+### HOW MANY PEOPLE DOES ORAL CANCER KILL IN INDIA?
+
+Here the figures cease to be abstract, and begin to wear faces.
+
+Oral cancer is among the three commonest cancers in India, accounting for close to 30 per cent of every cancer diagnosed in the country, with something like 1,20,000 fresh cases and more than 72,000 deaths each year. Roughly a third of all the oral cancer on earth is ours. We are, to say it without flinching, the oral cancer capital of the world, and the single loudest reason is what our people place in their mouths.
+
+The vastness of the habit accounts for the vastness of the disease. India's own Global Adult Tobacco Survey counted close to 200 million adults who use smokeless tobacco, the _khaini_, the _gutka_, or the tobacco-laced _paan_. Add the further tens of millions chewing tobacco-free _pan masala_ and plain _supari_ in the honest belief that it is harmless, and you have an epidemic that arrives not as a wave but one small sachet at a time.
+
+These are not the quiet deaths of old age from unnameable causes. They are, in overwhelming part, preventable cancers of the mouth and the throat, in men and, more and more, in women, a great many of them young, all for a product sold openly at every tea stall for the price of a boiled sweet.
+
+### IS _PAN MASALA_ ADDICTIVE, OR JUST A HABIT?
+
+This is the point at which the case for a mere change of wrapper collapses entirely. You cannot simply tell people to choose to stop, because the product has been built, with some cunning, to take the choosing out of their hands.
+
+Areca nut is not merely a flavour. It is a drug. Researchers place it as the fourth most widely used psychoactive substance in the world, behind only nicotine, alcohol and caffeine, chewed by an estimated 600 million people. Its chief active agent is an alkaloid, a naturally occurring plant compound, by the name of arecoline.
+
+Arecoline moves through the brain in a manner uncomfortably close to nicotine's. A recent review of the neurobiology of betel nut addiction traces how it acts upon the brain's cholinergic and dopamine systems, the very reward circuitry that every addictive drug learns to pick the lock of, granting the small lift that sends the hand back to the packet, and the craving and grey listlessness that descend when the packet is taken away.
+
+In studies conducted within India, a large share of areca users bear the unmistakable marks of dependence.
+
+So this is no fresh choice, made anew over morning tea. It is a chemical hook, set early and sunk deep, tended by a market only too pleased to keep it baited. And a hook is precisely the thing a paper wrapper will never loosen.
+
+### HAS INDIA NOT ALREADY BANNED _GUTKA_?
+
+On paper, it has, which is what makes the plastic rule stranger still.
+
+Under our food safety law, tobacco and nicotine may not be used as ingredients in any article of food, and it is on that ground that most states have outlawed _gutka_, the tobacco-bearing kind, for more than a decade.
+
+If we already accept that a food cannot contain tobacco, then we have already accepted the bigger idea: that a food regulator can take a dangerous product off the shelf, not just redesign its packet.
+
+But the bans are easy to dodge. The industry's favourite trick is the twin pack. The _pan masala_ is sold in one pouch and the tobacco, or a sachet of sweet _supari_, in another, and the buyer simply mixes the two by hand. The law is followed on paper and broken in practice.
+
+Karnataka has just moved to shut that loophole. The state has imposed a fresh one-year, state-wide ban on the making, storing, transporting, distributing and selling of any _gutka_ or _pan masala_ that contains tobacco or nicotine, and, tellingly, extended it to the twin-pack sachets too. It is a welcome, muscular step, and proof that a state can act decisively when it chooses to.
+
+And yet even this bold order stops where every such order stops: at the tobacco. It does not touch the nut.
+
+Meanwhile, the tobacco-free _pan masala_, still made from a Group 1 carcinogen, is sold completely legally, often to children drawn in by its sweet, fruity flavours, who move on to the tobacco versions later.
+
+We banned an ingredient, then let the product through in two seemingly innocent halves. Now we are busy perfecting the wrapper. If that sequence does not strike you as an absurdity, consider it from the vantage of the disease, which is wholly indifferent to whether it arrives swaddled in plastic or in cellulose.
+
+### SO SHOULD INDIA BAN _PAN MASALA_ AND _GUTKA_ OUTRIGHT?
+
+Yes, India should, and I mean to be fair about the cost of saying so, for the objections are real and deserve an argument rather than a slogan.
+
+The first is livelihood. Areca farming feeds millions, and the _pan masala_ trade is a vast, tax-paying enterprise. That is a genuine price, and any honest ban must arrive hand in hand with an honest plan: support and alternative crops for the grower, a real passage to other work for the labourer.
+
+But we did not leave the asbestos in our ceilings because good people were employed in laying it. When the entire purpose of a product is to deliver a carcinogen, the humane course is to help those around it find another living, not to keep the harm breathing for their sake.
+
+The second is the old suspicion of prohibition itself. Ban it, the argument goes, and you merely gift the trade to the black market, as the ragged record of state _gutka_ bans attests. There is truth in this too, but it is an argument for doing the thing properly, nationally, uniformly, closing the twin-pack loophole and naming areca nut itself as the hazard, rather than an argument for the present muddle of leaky state orders and cosmetic central ones. Feeble enforcement is a reason to enforce with resolve, not a reason to lay down the pen.
+
+The third is personal freedom, the right of an adult to choose their own ruin. But the argument assumes a choice both free and informed, and a substance that is addictive, and sold to teenagers as an innocent freshener of the breath, is neither. Real freedom would begin with a nation that knew the sweet _supari_ lodged in its cheek belongs on the same grim register as the cigarette.
+
+### WHY BAN THE PRODUCT AND NOT JUST THE PLASTIC?
+
+Because it is not the plastic that is killing anyone. It is the nut.
+
+I want the sachets gone from our rivers as fervently as anyone alive. But a rule that turns a carcinogen's wrapping from foil to paper, while the regulator declares in the same breath that the product itself may stay, is not public health. It is public relations in a green coat. It lets us all feel that something has been done, even as the mouths of millions of our countrymen go on stiffening, scarring and turning malignant precisely on schedule.
+
+We know, to a certainty, what lies inside the packet. A global scientific consensus three decades old has told us, and goes on telling us, that it causes cancer. Our own hospital wards recite the toll, bed after occupied bed. The only thing that remains in any doubt is our willingness to act upon what we have known all along.
+
+So yes, by all means, let us trade the plastic for paper. But let us not mistake a tidier shroud for a braver country.
+
+Ban the poison, not merely the plastic.
+
+_Radifah Kabir is a food and biotechnologist turned science journalist._
+
+\- Ends
+
+Radifah Kabir
+
+Aug 13, 2026 08:00 IST
+
+---
+
+### Psychology says feeling exhausted after socialising doesn't always mean you're an introvert
+*India Today Education Desk · general*
+
+## You enjoy meeting people, but afterwards you feel completely drained and need time alone. Psychology suggests this doesn't automatically make you an introvert. Mental effort, emotional regulation, sensory overload and social monitoring can all leave the brain feeling exhausted.
+
+You enjoy meeting people, but afterwards you feel completely drained and need time alone. Psychology suggests this doesn't automatically make you an introvert. (AI-generated image)
+
+Everyone laughs. The conversation flows easily. You genuinely enjoy yourself.
+
+Yet the moment you get home, all you want is silence.
+
+You ignore your phone, lie on your bed and hope nobody calls for the rest of the night.
+
+Many people assume this means they're introverts. Psychology suggests the answer isn't that simple.
+
+Researchers say social exhaustion can be influenced by cognitive load, emotional regulation, sensory stimulation, self-monitoring, personality traits and stress levels, meaning even highly sociable people can feel mentally drained after spending time with others.
+
+### SOCIALISING REQUIRES MORE MENTAL EFFORT THAN MOST PEOPLE REALISE
+
+One explanation comes from Cognitive Load Theory, developed by educational psychologist John Sweller.
+
+Although the theory originally focused on learning, psychologists also use the idea of cognitive load to explain situations where the brain is handling multiple streams of information at once.
+
+During a conversation, you're not just listening. You're remembering names, following different topics, reading facial expressions, choosing the right words, watching other people's reactions.
+
+Perhaps even wondering whether you've spoken too much.
+
+Imagine attending a family wedding where you're introduced to dozens of relatives you've never met before. By the end of the evening, your brain has been processing information for hours without much of a break.
+
+That mental effort alone can feel exhausting.
+
+### EMOTIONAL REGULATION CAN DRAIN YOUR MENTAL ENERGY
+
+Another explanation comes from psychologist James Gross' Process Model of Emotion Regulation.
+
+People constantly adjust their emotions during social interactions.
+
+You might hide disappointment to avoid hurting someone's feelings, suppress frustration during a meeting, smile politely even when you're tired, laugh at a joke you don't fully understand.
+
+These small acts of emotional regulation happen almost automatically, but they still require mental effort.
+
+For example, someone working in customer service may spend an entire day appearing cheerful despite dealing with difficult customers.
+
+By the time they reach home, emotional exhaustion may feel stronger than physical tiredness.
+
+### SENSORY OVERLOAD CAN MAKE SOCIAL EVENTS FEEL EXHAUSTING
+
+Social gatherings rarely involve conversation alone.
+
+There may be loud music, bright lights, multiple conversations happening at once, phones buzzing, children running around.
+
+The brain has to filter all of this information continuously.
+
+Psychologists studying sensory processing have found that people differ in how strongly they respond to environmental stimulation.
+
+Imagine spending three hours at a crowded wedding reception. Even if you enjoy every minute, your brain has been processing hundreds of sights, sounds and movements at the same time.
+
+It's hardly surprising that many people feel the need for quiet afterwards.
+
+### SELF-MONITORING MAKES SOME CONVERSATIONS MORE DEMANDING
+
+Psychologist Mark Snyder's Self-Monitoring Theory helps explain why social situations are more tiring for some people than others.
+
+High self-monitors constantly adjust their behaviour depending on the people around them.
+
+They think about how they're coming across, whether they're speaking appropriately, whether they're making a good impression.
+
+Imagine attending your first day at a new workplace. You probably choose your words more carefully than you would with close friends.
+
+That constant monitoring requires attention, making the interaction mentally more demanding.
+
+### PERSONALITY EXISTS ON A SPECTRUM, NOT IN TWO BOXES
+
+Psychologist Hans Eysenck, one of the pioneers of personality research, argued that introversion and extraversion exist on a continuum rather than as two completely separate categories.
+
+Many people fall somewhere in the middle. They enjoy socialising but also need time alone afterwards.
+
+Others love meeting people in familiar settings but become exhausted in large crowds.
+
+This means feeling socially drained doesn't automatically reveal your personality type.
+
+It may simply reflect the type of interaction, the number of people involved or how mentally demanding the situation was.
+
+### STRESS CAN MAKE SOCIALISING FEEL MORE EXHAUSTING THAN USUAL
+
+The brain doesn't process social situations in isolation.
+
+If you're already dealing with work pressure, family responsibilities or poor sleep, social interactions demand even more mental energy.
+
+Psychologist Richard Lazarus' Transactional Model of Stress and Coping suggests that stress depends partly on the demands we face and the resources we feel we have available.
+
+Imagine attending a birthday party after an exhausting week at work. Normally, you might stay for hours. This time, you want to leave after thirty minutes.
+
+The difference isn't your personality. It's the amount of mental energy you had available before you even arrived.
+
+### SO, WHY DO SOME PEOPLE FEEL EXHAUSTED AFTER SOCIALISING?
+
+Psychology suggests social fatigue is rarely explained by introversion alone.
+
+Instead, it often reflects a combination of cognitive load, emotional regulation, sensory stimulation, self-monitoring, stress and individual personality differences that place demands on the brain during social interactions.
+
+Needing time alone afterwards doesn't necessarily mean you dislike people.
+
+It may simply mean your brain has spent hours processing conversations, emotions and sensory information without a chance to recover.
+
+Sometimes the desire for solitude isn't about avoiding people.
+
+It's about giving the mind enough space to recharge before engaging again.
+
+### FAQs
+
+**Does feeling tired after socialising mean I'm an introvert?**
+
+Not necessarily. Psychology suggests social exhaustion can result from cognitive load, emotional regulation, sensory stimulation and stress, regardless of personality type.
+
+**Can extroverts feel socially drained too?**
+
+Yes. Even highly outgoing people may feel mentally exhausted after long or emotionally demanding social interactions.
+
+**Why do crowded places leave me feeling so tired?**
+
+Busy environments require the brain to process large amounts of sensory information while managing conversations and emotions, which can increase mental fatigue.
+
+**Is it normal to need time alone after spending time with people?**
+
+Yes. Many people benefit from quiet time after socialising because it allows the brain to recover from sustained mental and emotional effort.
+
+\- Ends
+
+Aug 13, 2026 08:00 IST
+
+
+---
+
 ## 12 August 2026
 
 ### Eat, Feast, Count? Karnataka Food Agency Wants Calorie Charts At Weddings, Big Events
