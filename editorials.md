@@ -1,8 +1,207 @@
 # Editorials
 
-_Last updated: 2026-08-13 03:42 UTC_
+_Last updated: 2026-08-14 03:40 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 14 August 2026
+
+### ​A predictable rise: On inflation
+*The Hindu · Editorial*
+
+A rise in India’s July retail inflation was a foregone conclusion, but its modest increase, at 4.45%, up from 4.38% in June, is still the highest in 19 months, since December 2024. This is the second consecutive month that retail inflation has stayed above the Reserve Bank of India (RBI)’s 4% target, even while remaining comfortably within its 2%-6% tolerance range. Predictably, it has again been driven by food, fuel and transport, even as core inflation, excluding precious metals, has remained below 3%. What is telling is the extent of rural, food-led inflation, which rose from 5.45% in June to 5.79% in July, while urban food inflation decreased marginally from 5.09% to 5.05%. Staples such as onion (22.54%), garlic (35.36%) and ginger (83.62%) fuelled the rise, even as potato (-16.56%) and tomato (-4.59%) moderated. Transport, however, continues to have a wider impact, pointing to elevated input-cost pressures. Transport inflation quickened to 4.43% in July from 4.31% in June, while the crucial subdivision, transport services for goods, rose from 7.70% to 7.77%. Despite the July 1 cut in commercial LPG prices of about ₹183, food and beverage serving services inflation quickened to 7.75% in July, indicating that restaurants are yet to recoup revenues and margins lost following the steep operating costs from March through May. Commercial LPG was cut by a further ₹202 on August 1, but this is unlikely to immediately bring down menu prices.
+
+The monsoon remains a concern, with parts of western, central and southern India remaining rain-deficient. Precious metals inflation, particularly gold (32.98%) and silver (109.84%), moderated, but remains extraordinarily high. Crude prices were relatively stable during the July CPI reference period, but began rising again in August. More worryingly, Ukraine-related disruptions around Russia’s Black Sea export infrastructure, particularly Novorossiysk, could raise freight and risk premiums for Russian crude. Russia supplied nearly half of India’s crude imports in June, making such disruptions relevant to India’s landed energy costs. The rupee also depreciated by about 1.6% between the June 15 and July 15 CPI reference dates, further amplifying imported inflation. In the background, there are signs of weakening economic momentum, with the HSBC composite PMI showing a sharp fall from 57.1 in June to 54.3 in July, its weakest expansion since March 2022. While the PMI is a high-frequency indicator and need not reflect a long-term trend, it is nevertheless worth taking note of. The RBI’s Monetary Policy Committee, which held the repo rate at 5.25% for the fourth consecutive meeting in August, is therefore likely to remain on hold through the second quarter of FY27, as it weighs persistent supply-side inflation against weakening economic momentum.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/a-predictable-rise-on-inflation/article71341559.ece)
+
+---
+
+### ​Sticks and goals: On India at the FIH Hockey World Cup 2026
+*The Hindu · Editorial*
+
+When India celebrates its 80th Independence Day, its men’s hockey team will open its World Cup campaign against Wales in Amstelveen, aiming to end a 51-year medal drought. Because of hockey’s emotional connection with Indians, the wait has been agonising for the eight-time Olympic champion. It won its last medal when the Ajit Pal Singh-led side lifted the trophy in Kuala Lumpur in 1975 during the pre-synthetic turf era. Trust in the present Harmanpreet Singh-captained side has grown after India broke a 41-year Olympic jinx with bronze in Tokyo in 2021 and retained it in Paris 2024. Under coach Craig Fulton, the team won Asian Games gold in 2023, Olympic bronze in 2024, and the Asia Cup in 2025, with the last one helping it qualify for the World Cup. Despite finishing eighth in the FIH Pro League 2025-26, India showed positive signs by beating World champion Germany and Olympic champion the Netherlands. After experiencing experimentation, defeats and two controversies — involving most-capped player Manpreet Singh, and the unwarranted decision to change the jersey from the familiar blue to saffron, the squad has regrouped for its first World Cup following the retirement of legendary custodian P.R. Sreejesh. After Wales, the eighth-ranked side faces a formidable England and traditional rival Pakistan in the pool.
+
+Comprising two-time Olympic medallists and promising youngsters, the team, placed sixth and ninth in the last two editions, now targets a higher finish in the World Cup before embarking next month on a mission to retain the Asian Games gold, which will earn it a berth in the 2028 Olympics. The Salima Tete-led women’s team has rebuilt under Dutchman Sjoerd Marijne after turmoil caused first by the exit of his predecessor and then by an alleged sexual harassment case involving a former Hockey India official. Marijne, who took India to its best-ever fourth in Tokyo in his first stint, guided it to World Cup qualification and Nations Cup victory. Despite the Hockey India League experience and the exposure to foreign players, the team of five 200-cap players and 11 debutants may find it tough to match 1974’s fourth-place finish. Ranked ninth, India plays Olympic silver medallist China on August 16, then South Africa and higher-ranked England. It will target a better position than 2022’s ninth before switching focus to the Asian Games. For the first time, the World Cup for both genders involving 32 teams altogether, with a new and tricky format, is co-hosted by Belgium and the Netherlands. Both the Indian teams must play as cohesive units to build towards Los Angeles 2028.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/sticks-and-goals-on-india-at-the-fih-hockey-world-cup-2026/article71341289.ece)
+
+---
+
+### Making transparency the foundation of trust in medicine
+*The Hindu · Opinion*
+
+India marked Doctors’ Day on July 1, but the occasion demands that we continue to look beyond well-deserved expressions of gratitude and reflect on the structural foundations that sustain public confidence in health care. Trust in medicine is frequently thought of as a sacred, isolated bond between patient and doctor. In reality, that trust is forged much earlier — within the institutions that regulate care, the systems that deliver it, and the transparency that connects them.
+
+The limitations of this system are readily observable. This writer tried the simple exercise of verifying a doctor’s credentials on the Tamil Nadu Medical Council (TNMC) website. What should have been a straightforward search turned out to be unexpectedly challenging. The system required specific details, such as the doctor’s exact registration number, which are not easily available to the public. Whether something obvious was missed or the website was simply not designed with the public — or even a colleague concerned — in mind, the experience pointed to a larger question: how much does institutional transparency shape public faith in medicine?
+
+How institutions build trustIn many western countries, public trust is maintained through highly accessible regulatory frameworks. For example, the United Kingdom’s General Medical Council hosts a publicly searchable register where anyone can quickly verify a doctor’s qualifications, registration status, and any history of regulatory restrictions. Similarly, the provincial Colleges of Physicians and Surgeons in Canada require minimal identifying information to view a physician’s professional profile. These organisations explicitly signal that professional standards are being ensured through peer review, continuing education, and clear processes for handling complaints. This transparency does more than just share data. It reassures people that medical practice is open to independent scrutiny, creating a safe environment where individual doctor–patient relationships can thrive.
+
+India’s clinical landscape is evolving admirably, with a workforce that is known for its excellent clinical acumen despite working under considerable constraints. While the National Medical Commission has taken steps to improve medical education and professional standards in recent years, public-facing regulatory transparency remains uneven. State Medical Councils, including the TNMC, hold digital registers, but the ease with which a regular patient can navigate them varies. As India continues its digital transformation, making these regulatory portals genuinely user-friendly is a low-hanging opportunity to reinforce public trust at its foundation.
+
+Beyond individual blameBetween regulatory bodies and individual consultation rooms lie the systems of care — hospitals, clinics, and their organisational processes. These daily workflows heavily influence patient satisfaction, shaping perceptions of fairness long before a clinical outcome is reached.
+
+System transparency requires clear communication about medical costs, operational processes, and pathways to register a grievance. Crucially, it also means having an internal culture of medical auditing. Rather than placing blame entirely on individuals when things go wrong, modern health-care systems — following World Health Organization guidelines — are moving toward analysing the systemic design flaws that allow mistakes to occur in the first place.
+
+This approach requires a formal culture of “Open Disclosure”. In advanced medical jurisdictions, being honest when things go wrong is a professional requirement, not an option. It involves a structured, honest conversation with the patient or their family, acknowledging the incident, explaining how it occurred, and detailing the steps being taken to prevent recurrence.
+
+Formalising open disclosure in India, right from the ground level of clinical care, would be transformative. When hospitals support their doctors to be transparent about clinical uncertainties or complications, they reduce the emotional burden on the practitioner and prevent potential friction with families. A lack of clear information breeds suspicion. When processes are opaque or difficult to navigate, public dissatisfaction builds rapidly — even if the actual clinical care delivered was appropriate. Much of this friction arises not from malice, but from a mismatch between patients’ expectations and their actual experience.
+
+India has seen a worrying rise in violence against health-care workers. The Indian Medical Association reports that over 75% of doctors have faced some form of workplace violence. While the root causes are multifactorial, deep-seated systemic mistrust is often the spark that escalates conflict. In these high-stress settings, transparency is a protective shield, not an administrative burden. A system that is completely honest about limitations and constraints within clinical care makes it less likely that individual frontline doctors will become the sole targets of a family’s anger and resentment.
+
+At the ground level, the doctor–patient relationship remains the ultimate test of the profession — a space where high-stakes decisions are made in moments of profound human vulnerability. Here, transparency transitions from policy into a purely human interaction.
+
+Modern patients increasingly expect clarity regarding who is treating them and why specific clinical decisions are chosen. This means explaining a diagnosis in plain language, detailing the rationale behind investigations, discussing therapeutic alternatives, and being transparent about costs and complications. Providing proactive, periodic updates on a patient’s progress — or lack thereof — is often the single most effective way to ease a family’s distress.
+
+This shift toward shared decision-making recognises that transparency in treatment is about relationships, not just data. However, if transparency is to be a core part of modern medicine, it must be integrated into medical training. This cannot be taught in a lecture hall alone; it must be actively modelled by senior doctors during everyday clinical practice and teaching. By embedding this culture of communication early, we prepare the next generation of physicians to navigate increasing public expectations.
+
+In my experience, the majority of conflicts in health care do not arise from the medical decisions themselves, but from how those decisions were communicated and understood. When patients feel genuinely heard and informed, the bond is strengthened. When communication is poor, even appropriate care may be perceived as inadequate.
+
+A final reflectionDoctors need safe, respectful, and dignified environments in which to work. Patients require reassurance that the care they receive is both ethical and competent. These are not competing demands; they are mutually reinforcing traits.
+
+Trust in medicine is built collectively by what our institutions make visible, how our clinical care systems function, and how doctors and patients talk to one another. When transparency runs through all three layers, it stops being an abstract ethical principle and becomes part of everyday practice.
+
+Doctors’ Day has passed, words of appreciation are important. But the days after also invite a structural look at our systems. At a time when the medical profession is practising under unprecedented strain, enhancing transparency in regulatory frameworks, clinical corridors, and individual consultation rooms is the most meaningful way to protect the integrity of the profession. Trust is not an entitlement to be claimed; it is a professional pact that must be continuously renewed through transparency.
+
+Dr. Vincent Arockiasamy, FRCPC, is Clinical Assistant Professor of Paediatrics, and former Director, Student Assessment, Undergraduate Medical Education, University of British Columbia, Canada, and is also involved in medical professional regulation
+
+[Read full article](https://www.thehindu.com/opinion/lead/making-transparency-the-foundation-of-trust-in-medicine/article71342035.ece)
+
+---
+
+### DC Edit | Pilot Drug Test Sets Off Alarm
+*Deccan Chronicle · Editorial*
+
+The disclosure that the commander of an Air India flight from Phuket to New Delhi had taken medication prescribed by his family doctor for severe sleep difficulties is deeply disturbing, particularly because a confirmatory post-flight test was reportedly positive for cannabis. Although investigators have not established that the pilot was impaired or that his condition contributed to the aircraft’s sudden loss of altitude, the episode could seriously undermine passengers’ confidence in air travel.
+
+Civil aviation rests on an unwritten compact. Passengers surrender control because airlines promise professional competence, regulatory vigilance and uncompromising safety. Therefore, a pilot consuming an impairing substance while commanding an aircraft would represent a grave breach of that understanding.
+
+A pilot affected by a psychoactive substance could experience impaired concentration, slower reactions, altered perception, reduced coordination or poor decision-making. Despite all the safeguards that modern aviation offers, the flight’s safety ultimately depends on sound human judgment. At cruising altitude, even a momentary lapse can have serious consequences.
+
+Reports of drug use, fatigue, and undeclared medication can make passengers question the safety of air travel. Airlines and the government must also investigate reasons that made the pilot in question not declare his medical conditions as per the mandate.
+
+No personal or professional difficulty can justify reporting for duty while impaired or concealing medication that could affect performance. At the same time, the airlines need to create an environment in which pilots can disclose sleep disorders, mental health concerns and other medical problems without automatically fearing dismissal.
+
+While Air India’s decision to make all pilots, instead of a random 10 per cent, undergo drug tests is welcome, testing alone cannot substitute for a mature safety system. The Aircraft Accident Investigation Bureau (AAIB) must conduct its investigation into the technical aspects of the aircraft without getting overshadowed by the pilot’s drug test results. Therefore, every person involved in aircraft operations should behave responsibly. Otherwise, it will not only affect their career, but also damage the airline and air travel as a whole.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-pilot-drug-test-sets-off-alarm-1979028)
+
+---
+
+### Abhijit Bhattacharyya | Trump Out Of Options, Time To Stop Tormenting Tehran
+*Deccan Chronicle · Opinion*
+
+What is President Donald Trump really up to? Over five months after he and Israeli Prime Minister Benjamin Netanyahu unilaterally launched their war against Iran February 28, with sensational assassination of Tehran’s supreme leader Ayatollah Ali Khamenei on the first day, the war is nowhere near an end.
+
+After blitzkrieg-like aerial attacks by the US and Israel on Iran’s military and infrastructure failed to achieve its objectives, as Iran countered hard at the Gulf Arab states hosting US military bases, America and Iran signed an interim memorandum of understanding in June to halt mutual-retaliatory attacks and reopen the Strait of Hormuz, a final peace deal still proves elusive. The negotiations have hit fresh hurdles over control of the Strait of Hormuz, and on shipping terms and tariffs. Meanwhile, as the war becomes increasingly unpopular in the US, President Trump’s desperation to get out of the Iran-mess grows by the day, particularly with the midterm elections looming.
+
+The questions continue to be intriguing. Why is the world’s sole superpower still addicted to fighting wars across continents, far from its homeland, and why does it see ghosts in its imaginary adversaries? Why the insatiable hunger for bloodshed and why doesn’t it cease its endless invasions and interventions in Asia, South America, Central America and North Africa after seven decades? Why does POTUS continue this “gunboat capitalism” as a “tool of state power”, which will make no nation richer or safer?
+
+Declassified CIA documents revealed how the US had targeted Iran’s sovereignty in a 1953 coup, which was widely known but acknowledged only in 2013. Before that, the world had already seen the Korean War (1950-1953). The list of America’s forward deployment and divisive diplomacy grew with breakneck speed, resulting in all-round destruction in terrain “far from mainland USA”. There was the Lebanon intervention (1953); Bay of Pigs invasion of Cuba (1961); Vietnam (1955-1975); the invasion of Grenada (1983); strikes on Libya (1986); the Panama invasion (1986); the first Gulf War (1990-1991); the intervention in Somalia (1992-1995); Kosovo (1999); Afghanistan (2001-2021); the Iraq invasion (2003-2011); the Libya intervention (2011) and now the Iran war, beginning February 2026.
+
+Contextually, one must also peruse the words of scholar Nathan Robinson: “Between 1946 and 2000, the US undertook over 80 election-interference ops around the world”. The most startling, however, is former secretary of state Mike Pompeo’s admission at Texas A&M University on “Why Diplomacy Matters” in April 2019: “What’s the cadet motto at West Point? You will not lie, cheat, or steal, or tolerate those who do. I was CIA director. We lied, we cheated, we stole. We had entire training courses. It reminds you of the glory of the American experiment.”
+
+That’s the transparent and profound declaration of an inherently disruptive policy which has practical application in every nation of the world. One can, therefore, conclude that the present assault launched by the US and Israel will continue to torment Tehran as long as it takes to fulfil the “glory of the American experiment” and “mission success”.
+
+The world knows that it is an unequal contest between the US-Israel duo and the Islamic Republic. The likely outcome is the inevitable flattening of Iran’s territory (like in Vietnam and Afghanistan). In the prolonged conflicts in the Far East, Southeast Asia and poverty-afflicted landlocked Afghanistan, all three were ravaged, but could not be vanquished, conquered or captured. All three forced the US to vacate their soil and make an ignominious retreat. True, the warriors of Wall Street wrecked the wretched, poor but fearless Afghans, the valiant and valorous Vietnamese and courageous Koreans, but the outcome was zero. And now Iran is the fourth Asian target. It will be impossible not to believe that the Persians won’t do what they have been doing for thousands of years with unmatched bravery and enviable self-pride.
+
+The battered, unbent but a charged Iran has openly challenged Mr Trump: “We want a land invasion”. Tehran has claimed that “Iran has the advantage: It has been accumulating missiles and drones for decades now. We are prepared for a land war.” For Tehran, that is the preferred option because air power alone can never win a war on its own. The only exception perhaps was the August 1945 use of nuclear weapons on Japan’s Hiroshima and Nagasaki by the US Air Force. Similarly, conquest or capture of land can’t be done solely by the Navy, no matter how strong and versatile the fleet. Boots on the ground are the ultimate reality of any war even today.
+
+In Korea and Afghanistan, American boots had to be left behind, and Vietnam proved to be a super death-trap for land warriors. The US lost 300,000 soldiers in the Second World War, the lowest among the Allied powers, compared to the Soviet Union’s 30 million fatalities.
+
+The 58,220 deaths and 153,372 “wounded...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/abhijit-bhattacharyya-trump-out-of-options-time-to-stop-tormenting-tehran-1979023)
+
+---
+
+### Devi Kar | Choosing A School For Your Child: The Things You Should Be Focusing On…
+*Deccan Chronicle · Opinion*
+
+The other day I asked a prospective parent why he was uprooting his daughter from a perfectly good institution, especially since his residence was a good distance away from our school. His answer disturbed me. He said his daughter wished to opt for the commerce “stream”, and had found our school’s commerce results had been excellent in the past five years. My response was that it was possible to attain very high marks and grades in board exams irrespective of the school. In fact, I added that a child needn’t even attend a regular school and yet get unusually good or even outstanding exam results by enrolling in a coaching centre known for churning out examinees who “maxed” their papers. Indeed, today, nothing below 100 per cent satisfies most good students, not ambitious ones alone. I have seen students being deeply disappointed with a score of 99.
+
+But a steady record of good results can’t be the only criterion for choosing a school for your child. When parents are seeking admission at the pre-primary stage, they of course, look for different things. For example, a playschool has to have a welcoming ambience with an inviting physical appearance along with warm and cheerful teachers. Parents are very particular about infrastructure these days. Classrooms must be cheerful, bright and airy. Furniture must be child-friendly and ergonomic while equipment for teaching and learning should be carefully selected and meet contemporary educational needs. Parents have become fussy about various things -- the diction and appearance of teachers, the cleanliness of the school and the teacher-student ratio. Thay try to make sure the children who attend the school are from a similar socio-economic background.Another point determining school selection is its “reputation”. I am still not quite sure about the factors that contribute to the public perception of a “good” school. Sometimes it is considered just “trendy” to send children to a particular school. But parents have to first decide on the kind of school the child should attend, depending on the child’s age, family circumstances, Board preference, personal liking and so on. Is it to be a play school, high school, international, national or regional? Distance from one’s home, the school’s infrastructure, facilities available, co- and extracurricular activities and the range of subjects offered, the kind of placements the students get after they leave school are all important factors. Strangely, there is no way to ascertain the quality of teachers, though it is generally regarded as a major factor (if not the most important one) that contributes to the quality of the school.
+
+Also, it is widely accepted that a school cannot function well without effective and imaginative leadership.
+
+Sometimes, undue importance is given to infrastructure. Schools have learned to attract clientele by flaunting their facilities through clever advertising -- swimming pool, gymnasium, smart devices to aid teaching. They publicise board results where every other student performs spectacularly. What is sometimes discovered later, to the chagrin of parents, is a lack of pastoral care, erratic individual attention and an uninspired approach to teaching and learning.
+
+Some discerning parents do a thorough check. They find out about the school in detail from past and present pupils and do not rely only on the school website or published rankings. However, others insist on blindly sending their children to the school they themselves attended.
+
+Having mentioned the criteria that are believed to make a good school, people often find themselves judging the total experience of the school-going child instead of looking at different aspects of a school in a disparate manner. I believe that every child learns not only from information and instruction, but also from the environment. Therefore, it is vital that a school should be conscious of providing enriching and interesting experiences on an ongoing basis. This way, the school becomes an exciting learning centre and the child grows up to be a curious individual who is not afraid to explore and experiment.
+
+The obsession with marks, grades and exam results has become a national disease. As a result, our children’s intellectual growth is stunted in terms of imagination, creativity, resourcefulness and innovativeness. When progressive schools encourage learning through activity and avoid dependence on textbooks and notes, I have noticed that many parents are dissatisfied and they grumble about “proper” studies not being done.
+
+Today’s parents should have a different mindset and not equate learning with the ability to retain and reproduce information which is out there for everyone to access. What they should demand from a school, instead, is the fostering of learning which will enable young people to process what they have imbibed from real world experiences and be able to apply them appropriately.
+
+In spite of the great importance that is placed on...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/devi-kar-choosing-a-school-for-your-child-the-things-you-should-be-focusing-on-1979034)
+
+---
+
+### FCRA Bill: Scripting overreach
+*Deccan Herald · Editorial*
+
+Strong opposition to the Foreign Contribution (Regulation) Amendment Bill, 2026, has pushed the Union government to refer it to a Joint Parliamentary Committee (JPC). The move followed resistance in Parliament and outside. Protests were held in the North-Eastern states and Kerala by church-affiliated organisations. Criticism went beyond politics – the Chief Minister of Nagaland, Neiphiu Rio, who heads a coalition government in the state with the Bharatiya Janata Party (BJP) as a partner, sought a reconsideration of the amendments. Church leaders met Home Minister Amit Shah to convey their apprehensions, but were not convinced by his assurances. The Tamil Nadu Assembly passed a resolution demanding the withdrawal of the Bill. Opposition parties, including the Congress, the Samajwadi Party and the Left, civil society organisations, and NGOs have raised serious objections to the Bill.
+
+The government claims that the amended Bill intends to strengthen national security and transparency in the working of NGOs, trusts, and religious organisations. It amends a 2010 law by adding very stringent provisions. At the centre of the criticism is the possibility of the Bill’s provisions being weaponised, citing procedural lapses, paving the way to target minority institutions, particularly Christian institutions. Under the amendments, when an organisation loses its registration either because of a lapse or a refusal by the government to renew it, and the organisation fails to restore it within a prescribed period, the government can take over its assets built with foreign contributions. The new provisions offer limited scope for judicial remedy in such situations. Notably, the Bill requires state governments and agencies to seek approval from the Centre before initiating investigations under the FCRA. This stands in conflict with the federal framework. The stipulation that all foreign contributions must first arrive at a single designated account at the State Bank of India (SBI) in New Delhi makes the operation of such accounts extremely difficult.
+
+FCRA Bill 2026: Rajya Sabha recommends 10 MPs for Joint Parliamentary CommitteeThe Union government has all along adopted a confrontational attitude towards NGOs. Many of these organisations have made significant contributions in areas where the government does not reach or where its work is inadequate, such as health and education. Over the past 10-odd years, the government’s policies have led to the closure of thousands of such organisations. The amendment risks crippling the sector without providing the organisations a fair opportunity to defend themselves, even when they are targeted for undefined “breaches” such as proselytism. The government’s approach to NGOs has an anti-minority streak, which its latest legislation amplifies.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/fcra-bill-scripting-overreach-4110410)
+
+---
+
+### Prison breaches demand deeper reform
+*Deccan Herald · Editorial*
+
+The seizure of a mobile phone, pen drive, and other prohibited items from former MP Prajwal Revanna, who is serving a life sentence for rape, is a disturbing reminder that Bengaluru’s Parappana Agrahara Central Prison repeatedly struggles to enforce even its most basic rules. The phone had WhatsApp, social media, and streaming applications, while its SIM was active inside the prison for months. A video has since surfaced showing Revanna in civilian clothes, speaking on the phone from within his cell. What makes the episode more troubling is that the items were recovered not by the prison authorities but during a surprise raid by the Central Crime Branch (CCB). It raises uncomfortable questions about whether internal oversight has failed through negligence or through complicity. Ironically, Bengaluru Rural MP C N Manjunath complained that prison jammers were disrupting mobile connectivity for residents and businesses nearby. Yet the same technology, ostensibly robust enough to inconvenience an entire neighbourhood, evidently has gaps wide enough for an inmate’s phone to function undetected. The authorities owe the public a clear answer: is this failure technical, administrative, or both?
+
+Parappana Agrahara has a long history of controversies involving VIP inmates. Abdul Karim Telgi allegedly ran his counterfeit stamp-paper racket from within its walls. In 2017, AIADMK leader V K Sasikala was accused of enjoying preferential treatment, including a private kitchen. Actor Darshan was photographed with cigarettes and refreshments, and a rowdy-sheeter was filmed celebrating his birthday in custody. Each episode has reinforced the perception that money, influence, and connections can penetrate the prison’s walls, while senior officers look on, helpless. The institutional response to these scandals follows a well-worn playbook: suspensions, show-cause notices, and promises of reform. What remains unclear is what happens afterwards. Once media attention wanes, compromised officers are quietly reinstated or shifted elsewhere, leaving the corruption pipeline intact. Suspension alone cannot serve as punishment. Officers implicated in smuggling banned material must face criminal investigation, exactly as the inmates who possess it do, and those found culpable must be dismissed.
+
+2 more phones seized in Bengaluru Central Prison during raids amid Prajwal Revanna mobile rowWhile technical failures can be fixed with better equipment, the deeper rot of human corruption demands sustained institutional will. The state must mandate unannounced inspections, rotate staff regularly, audit surveillance infrastructure, and see disciplinary proceedings through to documented conclusions. If Karnataka’s premier central prison is this porous, other prisons deserve urgent scrutiny. Until accountability becomes permanent rather than performative, Parappana Agrahara will remain not an institution of correction, but a sanctuary for the privileged.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/prison-breaches-demand-deeper-reform-4110411)
+
+---
+
+### Wrongful takedowns, empty apologies
+*Deccan Herald · Opinion*
+
+On the night of July 28, Facebook took down Prime Minister Narendra Modi’s video message to students on the NEET paper leak. For five hours, nobody in India could see it. Then it returned, and Meta called it a technical error. Parliament did not accept that. Its Standing Committee on Information Technology summoned the company and gave Mark Zuckerberg three days to apologise personally. If not, it wanted the Union government to consider withdrawing Meta’s safe harbour protection under Section 79, which shields platforms from liability for what users post. The apology came, and the story moved on.
+
+It should not have, because of what happens to the others. Last week, the Kerala journalist K A Shaji posted a photograph of Rahul Gandhi and Shashi Tharoor with student protesters. Facebook blocked it, citing legal requirements under the IT Rules. In May, the Congress said Instagram blocked photographs of Rahul Gandhi with Tamil Nadu Chief Minister C Joseph Vijay under the same rules. Nobody was summoned.
+
+The question here is obvious. If there is an order on the takedown, the platform must show it. If not, why should a machine decide what Indians see? Rule 4(8) of the IT Rules says a user must be told the grounds for a takedown and given a chance to contest it. But a notice citing legal requirements under those rules is treated as good enough, though it names no rule, no order, and no authority. A ground you cannot see is one you cannot contest.
+
+Belagavi | Govt opinion on pro-Karnataka resolution soon: Minister Satish Jarkiholi Why would a platform delete a lawful post at all? Every automated filter makes two kinds of mistakes. It takes down something lawful, or leaves up something unlawful. Nobody has built one that avoids both; so how aggressively a company sets its filter depends on what each mistake costs.
+
+The Supreme Court foresaw this in Shreya Singhal. It read down Section 79(3)(b), which strips a platform of protection if it ignores a takedown demand, holding that only a court order or government notification can trigger that duty. Otherwise, the judges said, platforms buried in complaints would simply delete. Elon Musk’s X has now told the courts that the same provision is being used to order blocking without going through Section 69A. That is the formal route, requiring a designated officer, recorded grounds, and a review committee. The shortcut has none of them, and the user sees the same blank notice.
+
+Some essential corrections
+
+A Supreme Court-monitored inter-departmental committee has recorded the Ministry of Electronics and Information Technology (MeitY)’s own admission that no comprehensive mechanism is in place to ensure intermediaries comply with the IT Rules, or to address non-compliance. So the State is threatening to withdraw an immunity that is conditioned on due diligence, while recording that it has no systematic way of knowing whether due diligence is performed by anyone at all. Meta’s own remedy tells the rest. It has told the government that posts from the Prime Minister and other prominent accounts will get extra senior review before any takedown. The fix for a system that wrongly deletes lawful speech is a separate lane for important people. Everyone else keeps the one that failed.
+
+Three changes would do more, and none requires an apology. The reasons obligation under Rule 4(8) should first be given content. Every restriction applied in India ought to disclose whether it rests on a legal instrument, identified by number and issuing authority, or on the platform’s own assessment. Where a company invokes Indian law, it should be capable of naming the law.
+
+Second, create a duty to restore. The rules require a grievance to be disposed of in 15 days, but disposing of a complaint is not the same as putting the post back. Nothing obliges a platform to restore content it wrongly removed, or to do so within a fixed time. A post blocked during a protest is worthless a fortnight later.
+
+Third, make platforms publish how often they get it wrong. Not t
+
+heir source code, which no regulator could read, but how many lawful
+
+political posts they remove in error in each Indian language, and how many are restored on appeal. An error rate nobody measures is one nobody need reduce.
+
+Parliament had real bargaining power and spent it on an apology. Its ultimatum, if acted on, would push the wrong way, raising the price of leaving content up while taking it down stays free. The software is unchanged, the express lane is built, and the next post to vanish will belong to someone who cannot call a committee.
+
+(The writer is an advocate practising in the Bombay High Court)
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/wrongful-takedowns-empty-apologies-4110407)
+
+---
 
 ## 13 August 2026
 
@@ -12613,325 +12812,6 @@ While the PWD has offered to cover the cost of compensatory afforestation, the S
 This tree-felling controversy must therefore compel Karnataka to rethink its development priorities. True progress lies not in widening roads at any ecological cost, but in designing infrastructure that respects and preserves natural assets built over generations.
 
 [Read full article](https://www.deccanherald.com/opinion/editorial/tree-felling-exposes-flawed-priorities-4004690)
-
----
-
-## 15 May 2026
-
-### ​Bursting at the seams: On the rise in inflation
-*The Hindu · Editorial*
-
-India’s April retail inflation, at a 13-month high of 3.48%, is only marginally higher than its March print of 3.4%, and continues to remain deceptively benign. Wholesale inflation has more than doubled to 8.3% in April from 3.88% in March — a 42-month high — signalling that substantial upstream price pressures are still working their way through the economy. Unsurprisingly, the spike in the Wholesale Price Index (WPI) has been led by soaring fuel and power prices, which rose 24.71%, while petroleum and natural gas prices surged 67.2%. This clearly indicates that the full impact of rising energy costs has not yet been passed on to end-consumers. However, such a pass-through now appears imminent. Union Petroleum Minister Hardeep Singh Puri recently indicated that the Centre may have little choice but to raise retail petrol and diesel prices, with public sector oil marketing companies reportedly absorbing “under-recoveries” of nearly ₹30,000 crore a month since the U.S.-Israeli war with Iran began. Any increase in retail fuel prices will have economy-wide implications.
-
-April retail inflation has already been driven chiefly by food, with the Consumer Food Price Index rising to 4.2% from 3.87% in March. Predictably, restaurants and accommodation services witnessed among the sharper increases, reflecting the cascading effect of rising commercial LPG prices. The price of the widely used 19.2 kg commercial LPG cylinder has risen by roughly ₹850-₹1,000 over revisions since the conflict began, while the 5 kg canister has reportedly seen increases of over ₹200 in several markets. The canister is extensively used by migrant wage labour across the country, directly feeding into food basket costs and potentially dampening consumption demand. This comes even as Prime Minister Narendra Modi has appealed to people to refrain from “extravagant spending on weddings and travel abroad” and to cut back on buying precious metals for a year. Consequently, the Centre doubled import duties on gold and silver in an attempt to discourage safe-haven investments and ease pressure on the rupee, which has depreciated by nearly 8.5% against the U.S. dollar in the past two-and-a-half months since the conflict began. For context, the rupee had depreciated by roughly 2%-3% annually on average over the previous five fiscal years. The current slide is therefore exceptionally sharp. It is increasingly evident that retail inflation is bursting at the seams and will likely find fuller expression in the months ahead. The sharp divergence between the Consumer Price Index and WPI suggests that producers are still absorbing a significant share of rising costs, a situation that is unlikely to remain sustainable. This leaves the Reserve Bank of India with limited room but to eventually tighten monetary policy in order to keep inflation within its tolerance band of 2%-6%. What is unfolding is not merely transient inflation driven by commodity volatility, but also broader systemic inflationary pressure, with limited manoeuvring space for both the government and the central bank.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/bursting-at-the-seams-on-the-rise-in-inflation/article70978970.ece)
-
----
-
-### ​Cooling doctrine: On India’s response to extreme heat
-*The Hindu · Editorial*
-
-Over the past decade, India’s response to extreme heat has settled into a familiar choreography. Summer comes and the National Disaster Management Authority (NDMA) regurgitates its tally of rising preparedness. The 16th Finance Commission has gone further, recommending that heatwaves be notified as a national disaster — a designation that would unbolt the door to dedicated central funding. But the heat action plan, as currently conceived, has reached the limits of what it can do. Even the NDMA concedes that the quality of these plans is uneven — several are imitations of plans drafted elsewhere. Where implementation happens at all, it leans heavily on short-term palliatives such as water kiosks, public advisories, and shaded waiting areas at bus stops. While these measures save lives at the margins, they do not alter the underlying exposure of the tens of millions of Indians who work, commute and sleep in conditions that are becoming, in the most clinical sense of the word, biologically untenable.
-
-What India needs is something larger and more ambitious — a national cooling doctrine; a scalable framework that treats sustained access to safe indoor temperatures as a public-health entitlement to be guaranteed. The doctrine must begin where the harm is most acute: mandatory minimum cooling standards for indoor workplaces — factories, warehouses, commercial kitchens, call centres, delivery hubs — backed by an honest and fair inspection regime. Technology will have to do the heavy lifting by deploying passive cooling materials, reflective roofing deployed at scale, district cooling systems for dense urban zones, and cheaper, more efficient air conditioning calibrated for the peculiarities of Indian grids. But the problem cannot be solved by importing solutions designed for the temperate, wealthy economies of the global North. India’s heat is wetter, longer and more humid than the dry European summers that produced much of the existing cooling literature. Most Indians cannot afford the energy bills that western-style mechanical cooling implicitly assumes, as the grid in India, even on its best days, can supply at most 60% of its installed capacity. There is no quick fix on offer but to keep printing heat action plans while indoor temperatures climb is no longer a serious answer — it is theatre.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/cooling-doctrine-on-indias-response-to-extreme-heat/article70977941.ece)
-
----
-
-### The Iran war, India’s strategic autonomy challenges
-*The Hindu · Opinion*
-
-United States President Donald Trump’s tariff wars against friend and foe over the last year now pale in comparison to the upheaval created by the unprecedented Israeli-American attack on Iran and counterstrikes. For decades, India’s stakes in a stable and friendly Tehran have been huge for energy security, geopolitical advantage, and space for strategic autonomy. If the Ukraine war tested India’s foreign policy agility and independence, the Iran war is a generational challenge. The slew of economic and defence deals that India signed with European countries recently was popularly seen as a signal of major geoeconomic and geopolitical shift in India’s favour. In this new West Asian war scenario, it is already clear that deals with France and the European Union (EU) hardly give India a stronger hand.
-
-Strategic autonomy is difficultThe 114 Rafale fighter jet purchase from France and the India-EU Free Trade Agreement (FTA) pointed to historic achievements. These surprisingly quick denouements (after 20 years of slow negotiations on the FTA and extended talks on the Rafales since 2016) were mostly rearguard actions against Mr. Trump’s punishing tariffs. But New Delhi and some European countries such as France seemed to believe they were important steps toward a more distributed multipolar world order against American unilateralism. Washington’s disregard for potentially catastrophic effects from the attack on Iran on global commerce and security are showing that U.S. unipolarity is holding fast.
-
-Until Mr. Trump’s coercive tariffs, New Delhi did not have to worry much about independence in economic policymaking. That is because unlike the post war American-led military order with the North Atlantic Treaty Organization (NATO) and Asian formal treaty alliances, Washington’s liberal economic order tended to be open and inclusive, driven largely by market forces. The double whammy of economic and military unilateralism will now make it more difficult for countries such as India to exercise strategic autonomy.
-
-President Trump is changing the economic system in ways that mirror the exclusivist military system. The U.S. government is increasingly demanding a greater alignment of the economic policies of other countries with American strategic interests. This is a fundamental break from the earlier practice and it threatens the entire post-Second World War liberal economic order. New Delhi has been able to pick and choose close economic tie-ups with the U.S. while, at the same time, keeping its distance from alliance politics. That had not stopped the U.S. from nurturing commercial ties with India in a big way since 2000. Indeed, the U.S. overtook China as India’s largest trading partner in 2021-22. But note that China was at the top of India’s economic partners even as U.S.-China relations were sharply declining. All this is to say that until very recently, economic and strategic relations could co-exist along competing trajectories.
-
-For India and the U.S., a convergence of interests about a rising China had brought their relations to a level that appeared irreversible. Even as this meeting of the minds occurred, India’s diversification of big power partnerships remained intact. India’s ability to maintain good relations simultaneously with the U.S., Russia, China, Iran, Israel, Vietnam, and the major European powers — without taking strong sides, even under duress — is the clearest expression and exercise of strategic autonomy.
-
-Mr. Trump’s arbitrary demands to discontinue crude oil imports from Russia, forego the strategic partnership with Iran on Chabahar port, desist from even considering a de-dollarise option in BRICS, and clearly align with American geoeconomic and geopolitical interests, pose the biggest challenge to India’s strategic autonomy in decades. America’s 30-day waiver for Russian oil purchases owing to energy supply chain disruptions came as a brief reprieve for India, yet on terms set by Washington. It was more than just an embarrassment for India when a U.S. submarine sank an Iranian naval ship (IRIS Dena) in the Indian Ocean that was returning from the Indian Navy’s International Fleet Review 2026 naval exercise on March 4. India’s image as the key regional naval power took a big hit.
-
-Deals with Europe have not eliminated risksIndia’s FTA with the EU and historic Rafale fight jet deal with France are two developments that many interpreted as India trying to manage the new autonomy dilemma created by Mr. Trump. New Delhi chose French fighter jets over Russian and American jets with the hope that it would finally get the technology transfer and domestic production it has long sought. India is growing, and so is its military; it will keep buying, and France is locking itself into a huge commercial deal.
-
-For India, while the spending is extremely high, it will not get a better deal with the U.S.; and it will not get a better performing fighter jet from Russia. In this geopolitical climate, this deal helps both India and France as they want to diversify partners and protect their strategic autonomy. But there is some doubt about just how much tech is being transferred and the fact that source codes and algorithms will be under French control. This means that India will be wedded to the French for upgrades. This also could undercut India’s ‘Make in India’ aspiration.
-
-As for the FTA, we could see this in the context of Mr. Trump’s economic assaults and a rushed attempt to save the idea of a liberal economic world order. But there are domestic political hurdles in India to overcome, from farmers and industrial workers who are a big electoral chunk. Moreover, France and the EU might be using commerce and trade now as a way to gain leverage over India. De-risking from Mr. Trump’s uncertainties through the FTA has obviously not eliminated political or economic risks.
-
-America’s long shadowWhat seems the flimsiest basis for strengthening strategic autonomy is the novel idea of a common perception of a new world order. Geopolitically speaking, India is much more in favour of global multipolarity than western countries. Europe (less France) tends to fall into line with the U.S. under pressure. At this particular moment of Mr. Trump’s high-handedness with Europe, it is not surprising that Europe is turning to countries such as India. But historically they have followed the American lead.
-
-U.S. Secretary of State Marco Rubio’s speech at the Munich Security Conference in February 2026 made it clear that Europe and America belong together, casting it in common civilisational and identity terms which leaves the Global South out in the cold. He minced no words, openly whitewashing western colonial expansion and calling for a “western supply chain” to regain its position. This suggests that a new geoeconomic alliance system of this sort would be hierarchical. The Global South seems to be less partners, more targets of competition. The standing ovation for Mr. Rubio from a supposedly critical European audience spoke volumes.
-
-In this era of culture contests and tribalism, it is hard to see a natural affinity between Europe and India when the going gets tough. As the world remains shell shocked by the Iran war, it is clear that European states will effectively facilitate American and Israeli interests despite the display of reservations by pronouncements such as “not our war” on the West Asian conflict. In any new regional order that emerges, it is also clear that New Delhi will hardly be able to count on the Europeans for Indian strategic autonomy purposes.
-
-Deepa M. Ollapally is Research Professor of International Affairs, The George Washington University, U.S.; N. Manoharan is Professor and Director, Centre for East Asian Studies, CHRIST University, Bengaluru
-
-[Read full article](https://www.thehindu.com/opinion/lead/the-iran-war-indias-strategic-autonomy-challenges/article70979587.ece)
-
----
-
-### DC Edit | Bonhomie Only Takeaway From Trump-Xi Summit
-*Deccan Chronicle · Editorial*
-
-US President Donald Trump may have had four Ts uppermost on his mind while travelling to meet his Chinese counterpart Xi Jinping in Beijing — Trade, Tariffs, Tehran and Taiwan.
-
-Billed as the most consequential meeting in years between the world’s top economic powers, it may have ended up as an underwhelming event if not for the bonhomie that seemed the biggest takeaway for both sides.
-
-There was very little by way of tangible outcomes, not only for the US but also for the world itself if it had reason to believe Mr Trump could convince China into playing a big mediatory role in bringing the Iran war towards a close by getting the Strait of Hormuz opened. As China buys 90 per cent of Iran’s oil to meet 40 per cent of its consumption, it was fair to assume that China would take some interest in trying to see traffic resume unhindered.
-
-While concerns over trade with China represents a point of tension and it was open to Mr Trump to interpret what Mr Xi may have said about the United States being a declining nation as seen in the demise of the post-World War II order, the world may have been more taken with what China could potentially do to bring about an end to the conflict in West Asia which Mr Trump seems incapable of doing on his own.
-
-The roseate picture Mr Trump may have painted in his trademark bravado after grand shows of affability between him and Mr Xi Jinping in two full days of meetings, banquets and visits to the Temple of Heaven and the Chinese Communist party’s secret compound in Zhongnanhai collides with the truth that the prickliest issues remain unresolved, including China’s stand on the self-governing island of Taiwan over which Mr Xi issued a stern ‘keep off’ warning to the US.
-
-Speaking more in line with China’s aspirations to be considered an equal to the US, Beijing said the two countries were entering “new orientation” which it termed as “constructive strategic stability” and which it expected would last at least three years.
-
-This must have come as a shock to Mr Trump who had adopted a deferential posture in his interactions with Mr Xi, showering praise on their friendship. Such an attitude was far removed from the transactional dealings to which he reduced many of his meetings with the leadership of the rest of the world.
-
-Maybe, Mr Trump did convince China, the world’s largest aviation market, to commit to buy 200 Boeing aircraft. There was, however, no firm word regarding things like American corn and beef that the US had lined up hopefully as products that China would buy to the tune of at least $30 billion in an attempt to revive trade that is yet to attain old highs despite the truce on tariffs the two leaders had agreed upon when they met last in South Korea in October 2025.
-
-Had the two nations been able to forge deals about resuming their trade at scale, India might have been pushed to compete harder to sort out its export problem with US tariffs even as its status as a “China Plus One” manufacturing destination takes a hit. In the absence of constructive outcomes from Beijing meetings, India would be free to pursue its objective of setting its US trade on an even keel.
-
-The absence of firm indications of China helping with the straitened situation in the Strait of Hormuz means India would have to bear more pain from the chokepoint syndrome that has skewed its oil supply as well as that of much of the world.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-bonhomie-only-takeaway-from-trump-xi-summit-1956988)
-
----
-
-### DC Edit | Fuel Hike To Hit Economy Hard
-*Deccan Chronicle · Editorial*
-
-The BJP-led NDA government’s decision to hike petrol and diesel prices by Rs 3 after absorbing the impact of soaring global crude oil prices is likely to have a cascading effect on the overall economy, affecting household budgets.
-
-With oil marketing companies losing at least Rs 14 per litre on petrol and Rs 42 per litre on diesel, the retail fuel prices could see a further rise in the country.
-
-Despite the government not passing on the crude oil price hike, wholesale inflation surged to 8.3 per cent in April, its fastest pace in three-and-a-half years. Though wholesale inflation does not guide the Reserve Bank of India’s decisions on interest rates or the government’s fiscal policy, wholesale inflation indicates supply side pressures and serves as a diagnostic tool of the broader economy.
-
-As the global oil supply situation is not expected to return to the pre-war situation for the next few months, energy prices could remain elevated throughout 2026, with colder regions adding further pressure to oil prices after October.
-
-With the government finally increasing prices of petrol and diesel, the impact of higher fuel prices could be passed on to farm produce and manufactured goods. It will have an impact on retail inflation and force the RBI to increase interest rates.
-
-The Indian economy has always suffered when crude oil prices shot up. As almost 90 per cent of the oil demand comes from the transportation sector, the government must crack down on non-essential travel within the country, if it is really resolute enough to save the economy from the oil surge.
-
-The government should also force freight companies to immediately shift to container trucks which could be transported to longer distances through rail freight. Though such a shift will take time, the demand for containers for lakhs of trucks will boost commercial activity in the country and provide an impetus to the economy.
-
-Extraordinary situations warrant extraordinary solutions. The government needs to decide whether it wants to save the economy or remain popular.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-fuel-hike-to-hit-economy-hard-1956972)
-
----
-
-### DC Edit | Kerala Has A CM, At Last
-*Deccan Chronicle · Editorial*
-
-After sitting on a decision for 11 long days to pick a leader of the Congress legislature party in Kerala as authorised by its members, the party high command has finally cast its lot with V.D. Satheesan, the Opposition leader in the outgoing House and a seasoned politician with a record of winning six elections back-to-back without a break. Mr Satheesan will now be facing challenges that anyone in his chair will do in addition to the ones already created by the inability of the party’s central leadership to take a decision on time.
-
-The Congress-led United Democratic Front (UDF) unseated the Left Democratic Front (LDF) led by the CPI(M), which had in 2021 broken through the revolving door, with a massive win, bagging 102 of the 140 seats in the Assembly. The UDF was an emaciated lot after conceding defeats in two consecutive elections in 2021; and the Pinarayi Vijayan-led government looked formidable with its sterling record on the development and welfare fronts.
-
-Mr Satheesan coined the term ‘Team UDF’ and galvanised his party and the constituents of the UDF injecting in them the confidence that they can take on the LDF. The massive victories in the Assembly by-elections and the 2024 Lok Sabha elections were reason enough for the UDF workers to lay their trust in the leadership Mr Satheesan.
-
-It was not just the UDF and its strategies that helped it coast to victory. The LDF government was happily contributing ammo to the reconstituted Team UDF. The strategist in Mr Satheesan was smart to identify the fault lines in the LDF’s political arguments — there were many — and hit them hard.
-
-The losses in the Lok Sabha poll and the erosion of the Hindu vote bank had led the CPI(M) and the LDF to try tactics it had never adopted before in Kerala. They decided to propitiate leaders of the NSS and the SNDP, organisations of the powerful Nair and Ezhava communities, in order to crawl back to their old strongholds. They soft-pedalled on the hate-filled statements of the SNDP Yogam leader against the minority communities, especially Muslims. Mr Satheesan entered the scene flashing the secular card. In the end, the comrades found themselves losing the trust of the Muslims and were unable to get back their traditional vote bank.
-
-Mr Satheesan will now find the going tough. The two senior leaders, AICC general secretary (organisation) K.C. Venugopal and veteran leader Ramesh Chennithala who lost out in the race, have already expressed their displeasure with the party leadership for ignoring their claims. The constitution of a cabinet that balances the various permutations and combinations will itself be a challenging task.
-
-The promises the UDF has made to the voters, including the five guarantees, will cost a bomb; the state government that just about manages its finances will have to look for new avenues of revenue generation should it want to meet them all. The efforts by a section of the communal forces to appropriate Mr Satheesan have been conspicuous, and he will have to fight off such attempts to keep the state and its people stay united. Coming are the days when the leadership of Mr Satheesan will be put to test.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-kerala-has-a-cm-at-last-1956809)
-
----
-
-### DC Edit | Resist Lustre Of Gold
-*Deccan Chronicle · Editorial*
-
-The import of gold, silver and platinum is to be viewed as non-essential in the current geopolitical situation. The negative effects of the Iran war are cascading in terms of oil and gas prices and their irregular supply from the Middle East despite the cessation of direct hostilities. Projections of India’s trade as well as current account deficits point in a negative direction.One of the simpler ways to help tackle foreign exchange reserves and CAD-related pressures in the face of global volatility is to restrict the import of precious metals. This is not a measure easily taken considering the sentimental attachment of Indians to gold that has far more than just its financial value. They say you can put all the taxes you want on gold and still Indians would be a majority among those shopping for the metal.
-
-The tax on imports has been raised from six per cent to 15 per cent but that could also incentivise smuggling which is something the country has been fighting for decades without great success and despite recent drop in duties. It is a rule of thumb that for every ton of smuggled gold caught, 10 tons may have already landed in India.
-
-The appeal for austerity when the CAD is under pressure has a particular relevance. Even a 20 per cent decrease in imports of crude oil can help bridge the deficit and if people are pushed into discretionary buying or outright abstinence from gold for a while until crude oil prices cool to below the $100 mark — which could take a year or more — they would be helping the nation get through a difficult period for the economy.
-
-Gold constitutes the second-largest import after crude oil. In the last financial year, gold imports rose 24.1 per cent from the previous year to nearly $72 billion and the crude oil bill for the year could be well upwards of $137 bn, which was the figure for 2025 imports. A measure of discipline in imports of the two major items could help lessen the burden, also by way of a rupee which will perform better against the dollar if imports come down. It is a small sacrifice for people to resists the lustre of gold for a while.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-resist-lustre-of-gold-1956802)
-
----
-
-### M.P. Nathanael | Are The Central Armed Police Forces Children Of A Lesser God?
-*Deccan Chronicle · Opinion*
-
-To thunderous applause, Union home minister Amit Shah extolled the dedication and efficiency of CRPF personnel in maintaining law and order across the country without caring for their personal comforts in difficult areas. He was addressing CRPF personnel on the occasion of the force’s 87th anniversary in February this year. Recounting their sacrifices, he noted that over 2,270 personnel were killed in the course of duty since its raising in July 1939. From just two battalions, it has grown to 248 battalions with a massive strength of 3,25,000 personnel, he noted, adding that it emphasised its efficacy, versatility, high operational efficiency and capability. Such encomiums are liberally showered not only on the CRPF but also other Central Armed Police Forces (CAPF), including the Border Security Force, Indo-Tibetan Border Police, Central Industrial Security Force and the Sashastra Seema Bal. The Assam Rifles, the Centre’s oldest armed police force, in manned by Army officers for operational purposes though administratively under the Union home ministry.
-
-It is the CAPFs who were instrumental in exterminating the Maoists once and for all. But sadly, the services rendered by these forces recede into oblivion when it comes to looking into their welfare. Nothing is more demoralising than depriving thousands of officers and other ranks of promotions. More so in the uniformed services, where the ranks on the shoulder straps or the chevrons on the upper sleeves of uniforms matter the most. Officers who join the CAPFs as assistant commandants languish in the same rank for over 15 years while those in the defence services earn at least three ranks and IPS officers sport the rank of DIG within that period. Disheartened, the officers of the CAPFs have knocked on the doors of the high courts and the Supreme Court.
-
-Some favourable court decisions raised their hopes of better days ahead. After prolonged hearings for over a decade, the apex court ruled that the deputation of IPS officers to the CAPFs be “progressively reduced” within two years. This was in conformity with the Organised Group A Service (OGAS) status granted to the CAPFs way back in 1986. But instead of abiding by the court’s decision, IPS officers continued to be placed there. While dismissing a review petition by the Centre in October last year, the apex court directed that cadre review of all CAPFs be carried out within six months.
-
-To circumvent the ruling, the Centre brought in the Central Armed Police Forces (General Administration) Act 2026, under which the present quota of 50 per cent of posts of IG, 67 per cent of posts of additional DGP would continue to be held by IPS officers, leaving the rest for cadre officers. The Special DG and DG posts would be the exclusive preserve of the IPS cadre. Thankfully, the new law was silent on reserving posts for IPS officers in the rank of DIG, which was earlier fixed at 20 per cent. It was hoped that cadre officers could now be promoted to DIG. But in violation of the apex court verdict, IPS officers of DIG rank and commandants were indicted into the CAPFs even after the new law came into force.
-
-A wave of despondency set in among CAPF personnel as the bill was introduced and retired officers held protests in New Delhi and elsewhere.
-
-For their bravery, thousands of CAPF personnel have been awarded gallantry medals, including the Chakra series, except the Param Vir Chakra, and the President’s Police Medal for gallantry, the Police Medal and even Sena Medals. BSF and CRPF personnel acquitted themselves well in bravely repulsing Pakistani soldiers. No IPS officer ever led them in the field.
-
-While the Centre may claim IPS officers are competent to take up the leadership role at higher posts, the cadre officers are in no way less competent. They are in fact better suited for the leadership role in higher ranks for their better understanding of the nature of duties and ethos of the organisation, by way of commanding the men from the grassroots level as company commanders and then serving in different capacities on getting promoted to higher ranks. The kind of leadership that can be provided by CAPF officers by virtue of having been with them in all operations and living among them cannot ever be given by IPS officers parachuted into these forces at the top echelons.
-
-IPS officers claim they can be channels of better coordination with the state police to carry out operations. Nothing could be farther from the truth. If it was so, they should have been deputed to the Army and Assam Rifles which are engaged in counter-insurgency operations and even in the highly sensitive areas of Jammu and Kashmir and in the Northeast. CAPF battalions carry out operations under the command of battalion commanders in coordination with superintendents of police and there are instances galore where CAPF personnel have carried out operations independently and successfully. The deputation of CAPF officers as SP (Operations) in states...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/mp-nathanael-are-the-central-armed-police-forces-children-of-a-lesser-god-1956819)
-
----
-
-### Sanjeev Ahluwalia | Efficiency, Yes; Strategic Resilience Is Critical Too
-*Deccan Chronicle · Opinion*
-
-The “open economy” phase of globalisation -- which started in the 1980s -- was all about enhancing economic efficiency, ending friction losses from trade and investment barriers, dulling the economic pain from selective use of national sovereignty to create tax barriers, impose exchange controls and limits on foreign investment. The global consensus favoured adopting developed economy practices like market instruments over direct fiscal intervention by governments in the real economy.
-
-This development model is now severely threatened by three unforeseen imperatives. First, the demands of climate action have infused renewed urgency to State action. Publicly funded incentives for decarbonisation, enhanced outlays for climate adaptation, research and development in digital technology, defence and space applications have become widely accepted, legitimate public policy concerns.
-
-The United States is ploughing a lonely furrow by rejecting the science behind climate change. This has not appreciably altered the drift of global financing away from fossils fuels and towards low carbon options.
-
-Over the decade ending in 2024, not only did global investment in energy increase from $2 trillion per year to $3 trillion, the share of investment in fossil fuels reduced from about two-thirds in 2015 to one-third by 2024, with a corresponding increase in the share of non-fossil fuels: mainly renewables. Consider that even West Asian economies -- who have the most to lose if oil loses its economic value -- have not stepped off the pedal to diversify their economies away from their oil wealth. The ongoing debilitating war between the US, Israel and Iran has only served to bolster their resolve for economic diversification, though their near-term investment objective is to make their petroleum supply routes resilient to enforced stoppages.
-
-Second, best-practice economic principles for policy action by developing economies have mutated since the 1990s, when they were first espoused. The World Bank confirms that developing country interest in efficient, “active” industrial policy is growing. This is unsurprising. The spectacular success of directed development in China offers a hard-to-ignore model of State-led development. This is despite top-down managed economic progress having downsides: like creating structural political deficits by shifting the power balance in favour of the State versus citizen autonomy. But this fear no longer creates significant misgivings. Presumably, a full stomach is better than the freedom to choose how to starve.
-
-Is rapid growth -- Chinese style -- also wasteful? Incremental capital output ratio (ICOR) is a broad-brush metric to assess the efficiency of growth. It is calculated as the incremental capital required to generate a unit of growth -- so lower estimates imply higher capital efficiency. ICOR levels have increased in China over time from around 3 to 4 prior to 2008 to 5-6 post 2011. India grew slower than China but has a similar trajectory. ICOR increased from 4 in the 2000s to between 5 to 6 after 2011.
-
-However, there are caveats to be acknowledged in cross-country comparisons.
-
-Over a defined period, an increasing ICOR suggests higher capital intensity to achieve a unit of output. But it could also merely reflect a structural change in the terms of trade-driven by technology- in favour of capital (machines) and away from labour. The capital and material intensity of Artificial Intelligence is a contemporary concern as is the associated re-valuing of labour. As the world increasingly depends on capital and machines, ICOR is likely to increase, at least till the investments start generating commercial returns by being applied to real-world use cases. And opinion is divided as to by when that might happen.
-
-ICOR as a metric of efficiency works best if starting conditions are broadly similar across economies. Lower levels of institutional capacity initially and the poor quality of infrastructure assets could also cloud the signalling value of ICOR. Heavy start-up investment outlays can only be amortised over time. Think of investment-heavy Metro trains, on which ridership -- as a proxy for value creation -- becomes optimum only over time as more stations are added, interconnecting lines built and last-mile connectivity at interchange points are resolved, including transport security for women and the aged. Till this optimal point is reached, the ICOR would remain very high.
-
-Third, the double whammy of expensive oil and decarbonisation outlays is likely to drive economies to try and do more with less, which is a positive for economic efficiency. One outcome of these twin pressures might be a heightened search for hybrid collaboration regimes -- catchily dubbed as variable geometry – where economies choose a set of trading and investment partners and negotiate preferential terms via conditional give or take -- also now known as “deals”. Mini-lateral groups can fix a specific problem...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/sanjeev-ahluwalia-efficiency-yes-strategic-resilience-is-critical-too-1956796)
-
----
-
-### Reform must insulate policing from politics
-*Deccan Herald · Editorial*
-
-The suspension of more than 700 police personnel in Karnataka in just two years is an indictment of the steady erosion of integrity within the very force entrusted with upholding the law. When those sworn to protect citizens themselves stand accused of grave offences, the crisis transcends misconduct and enters the realm of institutional decay.
-
-Of the 713 officers suspended between January 2024 and January 2026, around 400 have already been found guilty and are undergoing punishment. The nature of the allegations is particularly alarming: murder, kidnapping, extortion, facilitating fake passports, tampering with criminal records, shielding gambling and narcotics rackets, and even masterminding a daylight dacoity involving crores of rupees.
-
-The rot is not confined to the lower ranks; officers of the Deputy Superintendent rank have been implicated in serious cases, demolishing the comforting illusion that this is merely a problem of rogue constables.
-
-That nearly 60% of these suspensions originate from Bengaluru – a city positioning itself on the global stage – renders the situation especially grave. A police force compromised by corruption and political manipulation cannot command public confidence. Transfers and postings have become an industry driven by politicians, particularly legislators who wield enormous influence over the police.
-
-Recommendation letters from MLAs have become unofficial currency within the system. The Police Establishment Board has been reduced to a decorative mechanism while political interference continues unabated. Officers dependent on politicians for lucrative postings inevitably become beholden to their patrons rather than the Constitution. The result is a force that increasingly behaves like an extension of political power instead of an impartial law-enforcement institution.
-
-Reform in KPSC cannot waitThis is precisely why the Supreme Court, in the landmark Prakash Singh judgment of 2006, mandated sweeping reforms – fixed tenures, independent oversight of transfers, and autonomous complaint authorities – specifically to insulate policing from politics. In Karnataka, as in much of India, these directives remain largely unimplemented.
-
-The crisis also begins at the recruitment stage. The infamous Police Sub-Inspector recruitment scam exposed how corruption had infected entry-level selection itself. A compromised recruitment process inevitably produces compromised policing. What is needed is a zero-tolerance policy. Officers accused of grave crimes must face swift trials and summary dismissal upon conviction.
-
-Investigations into police criminality should be handed to independent agencies under judicial oversight. Transfers must be completely insulated from political influence, and recruitment processes must be made transparent and tamper-proof. Without these safeguards, the rule of law collapses the moment those entrusted to enforce it become instruments of criminality and political patronage.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/reform-must-insulate-policing-from-politics-4003373)
-
----
-
-### Vinesh Phogat vs WFI: No fair play in this procedure
-*Deccan Herald · Editorial*
-
-With the Wrestling Federation of India (WFI) deferring Vinesh Phogat’s comeback to competitive events, the stand-off between the ace wrestler and the sport’s apex governing body in the country has taken a bitter turn. The WFI has issued a show-cause notice to the wrestler citing multiple grounds for her ineligibility including her alleged failure, as a retired athlete, to inform the United World Wrestling (UWW) six months ahead of her intended comeback.
-
-While Phogat has dismissed the charges raised in the notice, the WFI’s objectives will be under scrutiny, given that she has in the past questioned the functioning of the federation and its former chief and Bharatiya Janata Party (BJP) leader, Brij Bhushan Sharan Singh.
-
-A double World Championships bronze medallist, Phogat is preparing for a strong return to the sport and reportedly has the 2028 Los Angeles Olympics in her plans. In its notice, the WFI also noted her disqualification from the final at the Paris Olympics in 2024, following a discrepancy related to her weight category.
-
-Phogat and her supporters see the show-cause notice as the WFI’s attempt to stop her from participating in the senior open ranking tournament in Gonda (May 10-12). The WFI is headed by Sanjay Singh, an aide of Brij Bhushan Singh, against whom Phogat and other women wrestlers had raised sexual harassment charges, in 2023. Recently, she also identified herself as one of Brij Bhushan Singh’s six victims.
-
-Vinesh Phogat reaches Gonda, insists she is eligible to compete; WFI says her reply incompleteThis raises questions about the timing of the federation’s move. Phogat is preparing to legally challenge the action against her. Some athletes have sought the Union government’s intervention in the matter. But nothing is likely to come out of that call – the former WFI boss prevailed at the height of the controversy, even when women wrestlers were staging protests against him on the streets.
-
-The controversy centres on a champion wrestler who has represented India on the global stage and brought multiple laurels to the country. An athlete of her stature deserves all the institutional support as she makes a comeback bid. It was upon the federation to provide Phogat this backing. Instead, it chose to invoke rules and raise unconvincing charges to make her return difficult.
-
-It must be noted that Phogat is also a Congress MLA from Haryana. Professionalism and transparency are non-negotiables in the administration of sport. When a high-performing world-class athlete faces such treatment from the administrators, it is a statement on how the system handles the sport and the sportsperson.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/vinesh-phogat-vs-wfi-no-fair-play-in-this-procedure-4003372)
-
----
-
-### Roads vs Trees | How Mumbai’s planners are destroying the city
-*Deccan Herald · Opinion*
-
-Twenty years ago, the MMRDA, the government body responsible for planning in Mumbai, decided to chop 121 trees on a 3-km suburban road, which it had decided to widen. But it didn’t think it necessary to inform those who’d have been most affected. This author, unwilling to believe rumours, inquired with the MMRDA office, and was told the residents ought to be thrilled they were getting a brand new 90-foot road.
-
-It took a sustained struggle on the road and off it for the MMRDA to accept an alternate plan that saved the canopy of trees that set apart this nondescript road from others, and which, even in Mumbai’s punishing summers, lowered the temperature as soon as one entered it.
-
-Significantly, the tree authority of the city’s municipal corporation, set up to protect its trees, played no role in this struggle. Why would it? It was this authority that allowed the destruction of this mini urban forest. It was only after the struggle got media attention that the tree superintendent intervened.
-
-700 Mumbai trees face axe; greens send SOS to CM Devendra FadnavisThis episode encapsulates all the elements that have helped strip Mumbai of its trees over these last two decades, and made Mumbaikars suffer frequent heat waves (three in the last month alone), despite being fortunate enough to live right on the sea: a planning authority accountable only to the chief minister; a city corporation indifferent to its duties; and a government oblivious to the climate change that is rendering life unbearable for many.
-
-Mumbai’s planners have recently cut between 700 and 3,000 trees for a single project. It is revealing that when Mumbai’s tree cover is at its lowest, the tree authority has decided it has no need for tree experts. This year, only politicians have been appointed to its board. A civic official was candid enough to admit that the tree authority members didn’t ‘appreciate’ experts because the latter ‘tended to have strong views’. One expert revealed that after she had objected to the cutting of over 2,000 trees for a metro shed in 2019, the authority stopped informing her of meetings, and then sacked her for non-attendance.
-
-This brazen disregard for trees isn’t restricted to anonymous officials; it comes from the very top. Tree-cutting in Mumbai is subject to mandatory compensatory planting of trees. In fact, that’s the rule normally cited by judges to allow large-scale tree cutting. But it will no longer be followed in Mumbai.
-
-Recently, the additional municipal commissioner announced that there is no space left to plant trees within the city, so they have begun planting them outside, thereby defeating the very rationale of the rule. Abandoning projects that involve cutting down thousands of trees is, of course, out of the question, even though the ordinary Mumbaikar won’t suffer if they were scrapped, since many of these projects cater primarily to private transport. In fact, the opposite is true: ordinary Mumbaikars, 47% of whom walk to work, will be hurt very badly by the loss of tree cover that these new highways and link roads entail.
-
-According to the assistant commissioner, 30-40 hectares would be required for compensatory tree plantation. This reveals both the scale of deforestation that’s taken place, as well as the lack of imagination among our town planners. Instead of searching for large land parcels, which apparently the state government owns, why don’t they simply start by planting trees along the sides of highways, roads, and pavements? The excuse that these trees would interfere with underground utilities is laughable.
-
-Officials can get away with saying things like ‘we have no space to plant trees’ or ‘whatever’s happening, it’s better than Delhi’, the comment made by an official to citizens protesting the proposed cutting of 45,000 mangroves for an extension to the Coastal Road, only because they and their political bosses don’t have to face the brunt of their destructive acts. Those that do — the gig workers, house helps, postmen and salesmen, peons and security guards, auto and taxi drivers. and hawkers — in fact, the entire unorganised sector that forms the majority of our working population, cannot afford to protest.
-
-But the middle class can. In Mumbai, citizens’ protests have had mixed results. One such protest saved a beloved garden from being wrecked; another plan to chop down 125 Pink Trumpet trees that transform a bleak highway every year has been challenged in front of the National Green Tribunal.
-
-Mumbai’s oldest areas bear the names of trees that stood on them hundreds of years ago: Bhindi Bazar, Laburnum Road, Tamarind Street, Babulnath, Wadala. If citizens are determined, it should be possible to regain that sensibility in this increasingly treeless city.
-
-Jyoti Punwani is a senior journalist.
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
-
-[Read full article](https://www.deccanherald.com/opinion/roads-vs-trees-how-mumbais-planners-are-destroying-the-city-4003826)
-
----
-
-### Why Modi needs RSS cover for dialogue with Pakistan
-*Deccan Herald · Opinion*
-
-The call for keeping open the doors of dialogue with Pakistan by Dattatreya Hosabale, general secretary of the Rashtriya Swayamsevak Sangh (RSS), has surprised many. It seems to contradict the Narendra Modi government's current security doctrine of non-engagement with Pakistan.
-
-Hosabale’s description of Pakistan, which carried out the Pulwama terrorist attack, as a "pin prick", understates its brazenness and underplays its importance in helping Modi secure a second term as Prime Minister in 2019. Pulwama's "pin prick" in 2019 not only killed 40 Indian security personnel, but its memory also forced India’s hand in avenging the killing of 26 civilians in Pahalgam in 2025. The four-day war with Pakistan that followed significantly eroded India's military and diplomatic credibility.
-
-While advocating an appropriate response to terrorism, Hosabale, however, felt, "We should not close the doors. We should always be ready to engage in a dialogue." He distinguished between Pakistan's government and military, which he said had lost India's confidence, and its people, adding, "People-to-people relations can ease India-Pakistan tensions because we have cultural links and we were once one nation. I strongly believe civil society contacts will ultimately help normalise ties." This statement will require some unwrapping.
-
-Meanwhile, the Congress was quick to take a dig at Hosabale’s statements. Party general secretary Jairam Ramesh pointed out that the government's "bhakt brigade" would have "frothed, fumed and fulminated" on TV channels had such ideas been expressed by someone outside the RSS’ ideological fold. Ramesh observed that the most plausible trigger for Hosabale's remarks may have been the RSS’ Western outreach programme.
-
-In its centenary year, the RSS faces growing scrutiny abroad. Human Rights Watch, Genocide Watch, and various international organisations have flagged the RSS’ role in the persecution of minorities in India. In March, the US Commission on International Religious Freedom named the RSS as a potential target for sanctions, citing its "responsibility and tolerance of severe violations of religious freedom." Hosabale’s proposal of a dialogue with Pakistan’s civil society seems to be an exercise calculated for Western consumption.
-
-However, Hosabale's framing of a people-to-people peace dialogue is a non-starter. The distinction between the Pakistani State and civil society is hardly a new insight. It has underwritten Indian diplomacy towards Pakistan for the last three decades, spanning all governments and every phase of the bilateral relationship.
-
-More critically, shunning the State and engaging the people has never worked in practice. Today, more than ever, such an engagement lacks a credible architecture. India’s most credible civil society organisations capable of conducting meaningful dialogue — independent think tanks, human rights groups, minority organisations, peace networks — have been decimated by the Modi government through FCRA licensing procedures. Those that remain are largely docile or are RSS-affiliated bodies implementing government projects and programmes.
-
-According to Swedish V-Dem Institute’s data, India's civil society participation index fell drastically under Modi — from 0.84 in 2013 to 0.61 in 2023, its lowest in 47 years. In Pakistan, civil society is similarly State-dependent, with the military deciding the terms of any engagement with India. With no independent actors on either side, the suggestion is unworkable. Hosabale and the government must know this.
-
-History also shows that unofficial Track-II dialogues and civil society contacts have rarely contributed to official dialogue. If anything, people-to-people engagement has been a consequence of official warming, never its cause. Without a State-level thaw, meaningful civil society contact is either impossible or marginal, confined to third countries facilitated by international think tanks.
-
-So, were there no more compelling reasons for Hosabale’s gambit than refurbishing RSS’ image? The geopolitical context suggests otherwise.
-
-Pakistan's global profile has undergone a significant makeover after Operation Sindoor, and has been further enhanced by Washington asking Islamabad to play a mediating role in the US-Israel war on Iran. India, by contrast, was diplomatically isolated among its ‘strategic partners’ over Operation Sindoor, and found itself on the wrong side of the Iran conflict due to Modi's ill-timed visit to Israel on the eve of the war. India's ties with the US have soured under Donald Trump and feel worse against Islamabad's increasingly cosy relationship with Washington.
-
-After castigating India for not acknowledging his role in brokering a ceasefire during Operation Sindoor, Trump’s berating of India has not let up, including additional tariffs on Indian exports for purchasing Russian oil. India’s Right-wing that always vied for US affections, is bewildered. RSS leader Ram Madhav plaintively asked interlocutors in Washington DC, what more India could have done to please the US after it curtailed imports of Russian and Iranian oil and absorbed punitive tariffs without complaining (he later backtracked).
-
-With the Pahalgam attack, Modi's Kashmir narrative has also come unstuck. The claim that normalcy had returned after 2019 was decisively punctured. A year on, with Pakistan's diplomatic star in the ascendant, it is becoming strategically costly to continue denying a dialogue with Pakistan. The RSS leaders’ US visit likely confirmed just how isolated India had become, and American pressure to recalibrate its Pakistan policy.
-
-The BJP and the RSS share a playbook where the RSS floats a position the BJP government cannot officially articulate. Policy changes follow if public reaction is positive. Modi desperately needs such cover before he can even explore reopening a dialogue with Pakistan.
-
-However, softening on Pakistan is very likely to be seen as an ideological betrayal by the BJP’s Hindutva voter base.
-
-Pakistan is not merely a foreign policy issue for the BJP's Hindutva base; it is a constitutive element of its identity. BJP election campaigns and religious polarisation of voters draw their energy from an anti-Pakistan framework. When the RSS, as head of Hindutva's ideological fount, declares that the door for dialogue should not be closed, it can be presented not as appeasement but as civilisational wisdom.
-
-Following the West Bengal victory, Modi’s image has become stronger and might allow him to address this thorny issue with greater confidence. Even so, Modi needs his ideological flank to be protected. The sudden ceasefire after Operation Sindoor showed him that the support of the Hindutva base is not unconditional. It is predicated on giving no quarter to Pakistan.
-
-That is why Modi needs the blessing of the RSS to move forward with Pakistan.
-
-Hosabale has obliged Modi by advocating dialogue, couched in the ‘Akhand Bharat’ idea — that is what the rhetoric of "we were once one nation" does. This is the political cover Modi needs to make his rigid Pakistan policy more flexible, without alienating his base.
-
-Bharat Bhushan is a New Delhi-based journalist.
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
-
-[Read full article](https://www.deccanherald.com/opinion/why-modi-needs-rss-cover-for-dialogue-with-pakistan-4003855)
 
 ---
 
