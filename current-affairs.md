@@ -1,3 +1,529 @@
+## 14 August 2026
+
+### Israel warned US of Iran plots against Trump, but US could not verify threats
+*Reuters · business*
+
+Washington: The U.S. has received several warnings from Israel over the past year that Iran intended to assassinate President Donald Trump, including before a secret Air Force One ruse in ​Turkey, that U.S. intelligence officials could not independently verify, according to a current ​U.S. official and two former officials.
+
+The warnings, passed to U.S. intelligence agencies and in some cases relayed directly by Israeli officials to senior ​White House officials, included possible plots to shoot Trump with a sniper or recruit someone to attack him with a knife at a large public event, the sources said. The tips began in the lead-up to the 12-day war in June 2025 and intensified prior to the U.S. decision to go to war in Iran in February, the sources said.
+
+  
+
+The most detailed warning came ahead of the NATO summit in Ankara in July, the U.S. official and the ‌other person familiar with the ⁠matter said. ⁠Israeli officials briefed the White House about intelligence that indicated Iran may try to kill Trump, potentially with a shoulder-launched missile, while he traveled on Air Force One for the summit, the officials said.
+
+The U.S. intelligence community has long assessed that Iran wants ​to retaliate for Trump's killing of Iranian military commander Qassem Soleimani in 2020. But the Central Intelligence Agency has not been able to corroborate some of the specific threats against Trump's life shared by Israeli ​intelligence since early last year, the officials said.
+
+In the case of the NATO episode, a Turkish official said the country's intelligence agencies also did not have any evidence to corroborate the Israeli claim about the threat to Trump's life, an assessment the host country shared with Americans.
+
+Despite the lack of verification, White House officials and the Secret Service have taken steps to mitigate the threats out of ​an abundance of caution, including an extraordinary deception operation during the Turkey trip that involved moving Trump from Air Force One ⁠to a different ‌aircraft for his flight out of the country.
+
+That episode underscores how Israeli intelligence is influencing the Trump administration's decision-making about Iran at a time of heightened ​tensions with Tehran - and broader disagreement ​between U.S. and Israeli intelligence assessments on Iran's threat overall.
+
+Earlier this year, American intelligence agencies assessed that Iran was not actively building a nuclear weapon, ⁠even as Israel argued Tehran posed an urgent threat. Despite the reports from the U.S. intelligence community, Trump moved ​forward with strikes in Iran in February. Trump also took into consideration intelligence shared by Israel that Tehran had tried to ​assassinate him before launching the military campaign, Reuters previously reported.
+
+A spokesperson for the Israeli embassy disputed that Israel was using its intelligence to influence U.S. policy on Iran.
+
+"The same people who claim that Israel is trying to influence U.S. policy through alleged intelligence sharing would just as soon accuse Israel of concealing critical information if it benefited their own agenda," the spokesperson said.
+
+The White House and CIA both declined comment.
+
+Secret Service spokesman Anthony Guglielmi declined to discuss specific intelligence matters but said the agency remains focused on Trump's security amid recent assassination attempts and an increase in threats against the president.
+
+"The U.S. Secret Service continuously analyzes a wide range of information to guide our protective operations in real time and across every location we secure," he said.
+
+## CLOSE ALLIANCE
+
+The U.S. has long relied heavily on Israeli intelligence ‌on Middle East matters, particularly as they relate to Iran.
+
+The current and former officials said Israeli intelligence on Iran typically flows to the CIA or the National Security Agency through formal channels and is subsequently analyzed, two former U.S. officials said.
+
+The U.S. intelligence agencies often cannot verify Israeli intelligence but will use other ​forms of information to make ​judgment calls on its authenticity and accuracy, the officials said.
+
+In ⁠several instances over the course of the two U.S. military offensives in Iran, the CIA assessed it had "low confidence" in the Israeli intelligence about the threats posed by Iran, including any plans to assassinate Trump, according to one former official and another person familiar with the matter.
+
+It is unclear how widely those assessments have been circulated inside the administration.
+
+The NSA declined to comment.
+
+Two of ​the former U.S. officials described to Reuters several instances in which senior Israeli officials and representatives over the last year called the White House, including in the Situation Room, to brief senior Trump officials on Iranian threats directly.
+
+The direct engagement comes amid a breakdown in U.S. intelligence sharing inside the Trump administration.
+
+Last year, amid increased tension with the Office of the Director of National Intelligence, the CIA stopped working on joint assessments with the National Intelligence Council, the former officials said.
+
+The council is the U.S. intelligence community's elite analytical group overseen by ODNI to turn out reports reflecting the view of the broader intelligence community, with the CIA being the largest contributor to its assessments.
+
+Fewer recent Iran assessments by the NIC have stemmed partly from recent layoffs at ODNI, the officials and another person familiar with the matter added.
+
+---
+
+### Trump orders Navy catapult system redesign, replacing state-of-the-art tech with older system
+*SECTIONS Trump orders Navy catapult system redesign · business*
+
+President Donald Trump has ordered the US Navy to remove the electromagnetic system used to launch fighter jets from its newest aircraft carriers and return to older steam-powered catapults, according to a directive issued Thursday.
+
+The order requires the Pentagon and Navy to submit plans within two months to remove the Electromagnetic Aircraft Launch System, or EMALS, from the Ford-class carrier program. It also calls for the replacement of the class's electromagnetic weapons elevators. The changes are expected to cost billions of dollars and would return the Navy's newest carriers to technology that requires more sailors to operate and is harder to maintain.
+
+  
+
+## USS Doris Miller to be first carrier affected
+
+Trump's directive identifies the USS Doris Miller, the fourth Ford-class aircraft carrier, as the first ship to undergo the changes. The USS Gerald R. Ford, along with the upcoming USS John F. Kennedy and USS Enterprise, would not be affected.
+
+However, making a major change to a ship after its design has been finalised could create significant technical and financial challenges.
+
+General Atomics, which manufactures EMALS, told The Associated Press that the decision to remove the system from the Doris Miller deserved careful reconsideration. The company said work on the carrier's catapults and arresting gear was already about halfway complete.
+
+It warned that changing the system at this stage could create significant costs, schedule disruptions and integration risks.
+
+  
+
+## Trump has long criticised electromagnetic system
+
+Trump's opposition to EMALS dates back to at least 2017, during his first presidential term. In an interview with Time magazine that year, he criticised the electromagnetic system as “not good” and claimed it lacked the power of traditional steam catapults.
+
+He has continued to raise the issue at rallies and other public events, repeatedly expressing a preference for steam technology.
+
+Trump's latest directive comes as the US military faces competing demands for funding and the Navy continues to deal with shortages of sailors aboard its ships.
+
+## Why the Navy adopted EMALS
+
+EMALS is the Navy's newest carrier-based aircraft launch system, developed for the USS Gerald R. Ford and future Ford-class carriers. While it performs the same basic function as the traditional steam catapult, EMALS uses a different technology based on stored kinetic energy and solid-state electrical power conversion.
+
+The system was designed to expand the operational capabilities of Ford-class carriers by allowing them to launch a wider range of aircraft, from lightweight unmanned platforms to heavy strike fighters. Its computer-controlled technology also enables greater monitoring and automation of the launch process.
+
+The Navy has cited several advantages of EMALS over traditional steam catapults, including greater reliability and efficiency, more precise control of launch speeds and smoother acceleration. The system is also designed to support higher sortie rates while reducing long-term costs through lower manning and maintenance requirements.
+
+EMALS can launch a broader range of aircraft while placing less stress on the ship and aircraft. The technology also provides greater launch-energy capacity and improvements in system weight, volume and maintenance.
+
+The system is also intended to create quieter and cooler working and living conditions for sailors. More intuitive maintenance software is designed to reduce the time required to identify and troubleshoot problems.
+
+## EMALS offers operational advantages
+
+On the USS Gerald R. Ford, EMALS reduced the number of sailors required to operate the catapults from roughly a dozen to two.
+
+The Navy highlighted the system's capabilities in a February press release, saying the Ford could launch and recover aircraft at a higher rate than older Nimitz-class carriers.
+
+The decision to return to steam catapults would therefore increase the personnel required to operate the launch system at a time when the Navy has struggled to fill positions aboard warships. At the beginning of the year, the service had about 20,000 unfilled positions across the fleet.
+
+## China and France also use electromagnetic technology
+
+Trump's decision to roll back the technology comes as China's newest aircraft carriers use electromagnetic catapults. France has also said it plans to use the system on its next aircraft carrier.
+
+The directive also highlights concerns over repeated changes to Navy ship designs. Trump's memo said constant design modifications have contributed to higher costs, delays and cancellations in the shipbuilding programme.
+
+## Decision comes amid major defence funding needs
+
+The order comes as Congress considers budget and funding measures sought by the Trump administration for the Pentagon and the war with Iran.
+
+Defense Secretary Pete Hegseth estimated last month that the cost of the war had reached $37.5 billion. Republicans were preparing a $95 billion package to fund the military and other White House priorities.
+
+Hegseth described the supplemental war funding as an “urgent, necessary” injection of money and characterised Trump's proposed $1.5 trillion defence budget as a generational investment in the military.
+
+The House narrowly approved both measures, while the Senate is expected to consider them when it returns in September.
+
+---
+
+### Gold, Silver Rate Today Live Updates: Gold slips after two-month high as investors book profits; silver also declines - The Times of India
+*Unknown · business*
+
+Gold and silver prices remain in focus as investors assess the next move in precious metals after gold's sharp rally and subsequent pullback.
+
+Gold prices fell on Friday as traders locked in profits following bullion's climb to an over two-month high on Thursday. Spot gold was down 0.5% at $4,330.37 per ounce by 0103 GMT, while US gold futures for December delivery fell 0.8% to $4,386.80.
+
+Gold had touched its highest level since June 5 on Thursday, but subsequently reversed course and settled 1.3% lower. The move wiped out its gains for the week and highlighted the volatility surrounding the precious metal as investors reassess the US interest-rate outlook.
+
+Fresh US economic data is central to that outlook. Producer prices were unchanged in July as goods prices declined while services costs increased marginally. The report came a day after data showed consumer inflation remained relatively mild, strengthening expectations that the Federal Reserve may keep rates unchanged next month.
+
+However, the outlook remains uncertain. Cleveland Fed President Beth Hammack has maintained that the US central bank should raise interest rates immediately to contain growth and inflation. Her comments underline the differing views among policymakers as markets attempt to determine the Fed's next move.
+
+Geopolitical risks are another important driver for bullion. The United States has threatened to maintain its naval blockade of Iran indefinitely amid stalled ceasefire talks, keeping uncertainty around the Middle East elevated. Any escalation could strengthen demand for gold as a safe-haven asset, while signs of de-escalation could weigh on prices.
+
+The liveblog will also track continuing central-bank demand for gold. A US SEC filing showed that the Bank of Korea held 679,765 shares of the SPDR Gold Trust worth roughly $250.4 million at the end of June. The investment marks its first disclosed gold holding since 2013.
+
+Silver is also being closely watched. Spot silver fell 0.8% to $63.92 an ounce, while platinum dropped 1% to $1,700.60 and palladium slipped 0.3% to $1,303.25.
+
+Follow this liveblog for the latest Gold Rate Today and Silver Rate Today, along with key global market developments, Fed signals, economic data and geopolitical factors influencing precious-metal prices.
+
+---
+
+### ‘Shadow Trans-Shipment Network’: US Flags India As ‘Tier-1’ Hub For China-Led Tariff Evasion
+*Prisha Vibhavari · general*
+
+India has been placed in the “Tier-1 Diversified Scale Leader” category in a new US report, alongside major trading partners.
+
+[Read full article](https://www.news18.com/world/shadow-trans-shipment-network-us-flags-india-as-tier-1-hub-for-china-led-tariff-evasion-10272136.html)
+
+---
+
+### Insurer ‘rejects’ late husband’s critical illness claim, widow gets Rs 50 lakh payout
+*Jagriti Rai · legal*
+
+Considering that insurer had not paid claim for man's illness even after his death, the commission noted that if opposite party had paid claim to widow in time, she would have been able to utilise the money for her benefit.
+
+[Read full article](https://indianexpress.com/article/legal-news/insurer-late-husbands-critical-illness-claim-widow-wins-10831712/)
+
+---
+
+### ‘No Role In Disturbance’: Bar Council Drops Proceedings Against NALSAR 2026 Graduating Batch After Backlash
+*Shobhit Gupta · general*
+
+On August 13, the Bar Council issued a circular all State Bar Councils not to enrol any student who graduated from NALSAR University of Law, Hyderabad, in 2026 as an advocate.
+
+[Read full article](https://www.news18.com/india/no-role-in-disturbance-bar-council-drops-proceedings-against-nalsar-2026-graduating-batch-after-backlash-ws-l-10272123.html)
+
+---
+
+### Two girls leave for school in UP, attempt suicide at man's house; one dies
+*India Today News Desk · general*
+
+A class 11 student allegedly died by suicide while her friend survived after the duo attempted to hang themselves at a house in Uttar Pradesh's Saharanpur district, police said. The incident took place on Thursday.
+
+The second girl survived after the noose around her neck broke, causing her to fall to the ground. The police said the suspected suicide appears to be linked to a love affair between one of the girls and a local young man, but all possible angles were being investigated.
+
+Both teenagers had left their respective homes for school that morning but never arrived. After being alerted by the school authorities, their families began searching for them.
+
+Their families later learnt that one of them was allegedly in a relationship with a young man and had gone to his house with her friend.
+
+After reaching his address, the two families found the door was locked from the inside and there was no response despite repeated knocks. The commotion caused a crowd to gather at the spot.
+
+The families eventually managed to enter the house through another door. Upon entering, they found one of the students hanging from a noose, while the other was lying on the floor motionless.
+
+Subsequently, the police arrived at the scene and rushed the two girls to the hospital, where one of them was declared dead. The other had noose marks around her neck and was administered urgent medical care.
+
+"The matter appears to be 
+
+According to the police, the young man whose house the students had visited lives with his father and has been absconding since the incident. Efforts are underway to trace him.
+
+No one else was found inside the house when the survivor and her friend's body were discovered. The body was sent for post-mortem examination and police are questioning schoolmates and local residents, officials said.
+
+\- Ends
+
+Based on inputs from Rahul Kumar, with additional inputs from PTI)
+
+Aug 14, 2026 08:00 IST
+
+---
+
+### Iowa man faces 124 charges after over 100 turtles of protected species were captured - Here’s what Alabama law says
+*Divyadeep Singh · business*
+
+An Iowa man is facing over 100 charges for allegedly capturing more than 100 protected flattened musk turtles in Alabama. Authorities in Alabama have hit Aiden Throndson with a 124-count criminal indictment following allegations that he captured protected flattened musk turtles, according to court documents cited by local stations WBRC and ABC 33/40.
+
+The legal filing details 20 individual counts for unlawfully capturing or taking the regulated reptiles, alongside another 104 counts 
+
+The alleged offenses took place on or about August 5, 2026 near the intersection of Highway 278 and County Road 73 in Winston County, according to a complaint cited by news outlets. Throndson was arrested Aug. 8 near the same intersection.
+
+  
+
+Flattened musk turtles, scientifically known as Sternotherus depressus, are found only in Alabama. The U.S. Fish and Wildlife Service classifies the species as threatened under the Endangered Species Act.
+
+Alabama law prohibits the hunting, trapping, collecting or capturing of flattened musk turtles without applicable authorization. The law also regulates transactions involving the turtles or their parts, ABC 33/40 reported.
+
+The Alabama Administrative Code separately identifies the flattened musk turtle as a protected nongame reptile, according to ABC 33/40. Following his arrest, Throndson was given a $100,000 cash bond along with an additional $5,200 good bond, WBRC and ABC 33/40 reported.
+
+---
+
+### Psychology says people who struggle to ask for help aren't always independent, they may fear...
+*India Today Education Desk · general*
+
+## They'll happily help everyone else, but when they need support themselves, they stay silent. Psychology suggests this isn't always independence or pride. Fear of being a burden, low self-worth, attachment patterns and self-reliance beliefs can all make asking for help feel emotionally risky.
+
+They'll happily help everyone else, but when they need support themselves, they stay silent. Psychology suggests this isn't always independence or pride.
+
+Your workload is becoming overwhelming, but you tell yourself you'll manage.
+
+You're moving house, yet you refuse every offer of help.
+
+You've been feeling emotionally drained for weeks, but when someone asks if you're okay, you automatically reply, "I'm fine."
+
+Many people assume this means you're fiercely independent.
+
+Psychology suggests the explanation is often much more complicated.
+
+Researchers say people who struggle to ask for help may be responding to fear of being a burden, attachment patterns, low self-worth, rejection sensitivity and deeply learned beliefs about self-reliance, making even small requests feel emotionally uncomfortable.
+
+### FEAR OF BEING A BURDEN CAN STOP PEOPLE FROM SPEAKING UP
+
+One of the strongest explanations is exactly what many people describe themselves.
+
+They don't want to inconvenience anyone.
+
+Psychologists have found that some people consistently overestimate how much their problems will trouble others.
+
+Instead of thinking, "My friend will probably be happy to help," they think, "I'm making their life harder."
+
+Imagine someone whose car breaks down late at night.
+
+Rather than calling a close friend, they spend hours trying to solve the problem alone because asking for help feels more uncomfortable than the situation itself.
+
+The emotional discomfort isn't caused by the request.
+
+It's caused by the belief that needing help makes them a burden.
+
+### ATTACHMENT STYLES SHAPE HOW COMFORTABLE WE FEEL DEPENDING ON OTHERS
+
+Psychologist John Bowlby's Attachment Theory, later expanded by Mary Ainsworth, suggests that early relationships influence how people seek support throughout life.
+
+People with a more avoidant attachment style often learn that relying on others feels risky or uncomfortable.
+
+As adults, they may become highly self-reliant, even when support is available.
+
+For example, someone recovering from surgery may insist on doing everything themselves despite family members repeatedly offering assistance.
+
+Their reluctance doesn't necessarily reflect confidence.
+
+It may reflect years of believing they should cope alone.
+
+### LOW SELF-WORTH CAN MAKE PEOPLE FEEL THEIR NEEDS MATTER LESS
+
+Another explanation comes from research on contingent self-worth.
+
+Some people unconsciously believe their value comes from being helpful, capable or easy to be around.
+
+When they need support themselves, those beliefs are challenged.
+
+Imagine an employee who always volunteers to help colleagues meet deadlines.
+
+When they begin struggling with their own workload, they say nothing because they worry asking for help will make them appear less competent.
+
+Psychology suggests the issue isn't weakness.
+
+It's that their self-worth has become tied to always being the one who gives, never the one who receives.
+
+### REJECTION SENSITIVITY CAN MAKE EVERY REQUEST FEEL RISKY
+
+Research by psychologists Geraldine Downey and Scott Feldman introduced the concept of rejection sensitivity.
+
+Some people become especially alert to the possibility of being criticised, rejected or dismissed.
+
+Because of this, even a simple request can feel emotionally dangerous.
+
+Imagine texting a friend to ask for a favour.
+
+Before pressing send, you wonder:
+
+"What if they think I'm annoying?"  
+"What if they say no?"  
+"What if I've asked for too much?"  
+In reality, the friend may be perfectly happy to help.
+
+But the brain prepares for rejection long before any response arrives.
+
+### THE NORM OF RECIPROCITY MAKES SOME PEOPLE FEEL THEY OWE OTHERS
+
+Social psychologist Alvin Gouldner described the Norm of Reciprocity, the idea that people naturally feel obligated to return favours.
+
+While this principle helps relationships function, some people experience it much more intensely than others.
+
+Instead of seeing help as something friends willingly offer, they immediately begin worrying about how they'll repay it.
+
+Imagine borrowing someone's car for a day.
+
+Rather than appreciating the gesture, you spend the entire time thinking about how to "make it up" to them.
+
+For some people, the imagined debt becomes so uncomfortable that they stop asking for help altogether.
+
+### SELF-COMPASSION MAKES IT EASIER TO ACCEPT SUPPORT
+
+Psychologist Kristin Neff's research on self-compassion suggests that people who treat themselves with kindness are also more willing to acknowledge when they need support.
+
+They recognise that everyone struggles at times.
+
+Everyone needs help occasionally. Everyone has limits.
+
+Imagine telling your closest friend they shouldn't ask anyone for help because it would make them a burden.
+
+You probably wouldn't agree. Yet many people apply that harsh standard only to themselves.
+
+Learning self-compassion helps challenge that double standard.
+
+### SO, WHY DO SOME PEOPLE FIND IT SO HARD TO ASK FOR HELP?
+
+Psychology suggests that avoiding help isn't always about independence or pride.
+
+It often reflects a combination of fear of being a burden, attachment patterns, low self-worth, rejection sensitivity, beliefs about reciprocity and limited self-compassion that make asking for support feel emotionally risky.
+
+Ironically, the people who hesitate most to ask for help are often the first to offer it to everyone else.
+
+Understanding these psychological patterns can help explain why reaching out sometimes feels much harder than carrying everything alone.
+
+### FAQs
+
+**Why do I find it so difficult to ask for help?**
+
+Psychologists say fear of being a burden, rejection sensitivity, attachment patterns and low self-worth can all make asking for support feel emotionally uncomfortable.
+
+**Is refusing help a sign of independence?**
+
+Sometimes, but not always. For many people, refusing help reflects emotional beliefs about burdening others rather than genuine self-sufficiency.
+
+**Can childhood experiences affect help-seeking?**
+
+Yes. Attachment Theory suggests that early relationships can influence how comfortable people feel relying on others later in life.
+
+**How can I become more comfortable asking for help?**
+
+Psychologists recommend recognising unhelpful beliefs about burdening others, practising self-compassion and remembering that healthy relationships involve both giving and receiving support.
+
+\- Ends
+
+Aug 14, 2026 08:00 IST
+
+---
+
+### Big Surprise In India's Playing XI For 1st Test, Senior Player Left Out By R Ashwin
+*Unknown · sports*
+
+Ravichandran Ashwin pulled off a big surprise as he named his India XI for the first Test against Sri Lanka at Galle.
+
+[Read full article](https://sports.ndtv.com/india-vs-sri-lanka-2026-27/big-surprise-in-indias-playing-xi-for-1st-test-senior-player-left-out-by-r-ashwin-11907833)
+
+---
+
+### Gift Nifty Signals Muted Start for Indian Markets as Crude, US-Iran Tensions Weigh
+*Mohammad Haris · business*
+
+The Gift Nifty trades at 24,443, down 16.5 points, or 0.07 per cent, in early trade, as of 7:45 am.
+
+[Read full article](https://www.news18.com/business/markets/gift-nifty-signals-muted-start-for-indian-markets-as-crude-us-iran-tensions-weigh-ws-l-10272121.html)
+
+---
+
+### Uttarakhand Tunnel Collapse Live News Updates: NDRF, SDRF race to rescue trapped workers in Chamoli; 7 dead - The Economic Times
+*Economic Times · business*
+
+14 Aug 2026 | 08:29:23 AM IST
+
+At least nineteen workers were trapped inside an under-construction tunnel in Uttarakhand's Chamoli district  
+
+Synopsis
+
+Uttarakhand Tunnel Collapse Live News Updates: Rescue teams raced on Friday to evacuate workers trapped inside an under-construction THDC tunnel at Pipalkoti in Uttarakhand’s Chamoli district after water and debris entered the tunnel. NDRF and SDRF personnel continued the operation amid rising water levels, while officials said seven of 19 rescued workers had died at the district hospital.
+
+Uttarakhand Tunnel Collapse Live News Updates: Rescue operations continued on Friday to evacuate workers trapped inside an under-construction tunnel of the Tehri Hydro Development Corporation Limited (THDC) at Pipalkoti in Uttarakhand’s Chamoli district, a day after water and debris entered the tunnel. Seven people have died among those rescued and taken to the District Hospital in Gopeshwar, officials said.
+
+A total of 19 people were brought to the hospital from the accident site. Dr Aayush, speaking to reporters, said seven had been declared dead, while 13 had initially arrived in relatively stable condition. Ten were admitted, while one young man whose condition was unstable was referred to the Base Hospital in Srinagar.
+
+**Rescue teams battle rising water inside tunnel  
+**  
+NDRF and SDRF teams are continuing efforts to reach and evacuate the remaining workers trapped inside the tunnel. NDRF team commander Amrit Lal Meena said a large volume of water had entered the tunnel when rescuers reached the site, with water also seeping in from the sides.
+
+Meena said specialised equipment was being used during the rescue operation and that four bodies had been recovered from the water so far. He said the operation would continue until all those trapped were retrieved.
+
+**Around 20-22 workers were inside  
+**  
+THDC Executive Director (Projects) Kumar Sharad said around 20 to 22 workers were inside the tunnel when the accident occurred. Officials had initially said 18 workers were rescued and shifted to the district hospital for treatment.
+
+Sharad said three to four of the rescued workers were in serious condition. The rescue operation remains underway as teams work to evacuate the remaining workers from the under-construction tunnel.
+
+## AIADMK to protest across Tamil Nadu over farm loans, Cauvery Water issue
+
+AIADMK General Secretary Edappadi K. Palaniswami will lead a protest at the Thanjavur Head Post Office on Friday, as part of demonstrations being held across Tamil Nadu demanding a complete waiver of farmers' crop loans. The protest in Thanjavur is scheduled to begin at around 9:30 a.m., with Palaniswami expected to address party workers and farmers gathered at the venue.
+
+The AIADMK has announced protests at all district headquarters across the state, raising demands 
+
+Palaniswami had called for the statewide protests, making the demand for a complete waiver of crop loans one of the key issues to be raised during the demonstrations. The party is expected to highlight the financial difficulties faced by farmers and press the government to take steps to provide relief.
+
+### Area around Russia's Baltic Sea port of UST-Luga damaged in drone attack, governor says
+
+### 3.0 magnitude earthquake hits Himachal Pradesh's Chamba
+
+An earthquake of magnitude 3.0 struck Chamba in Himachal Pradesh on Friday, reported the National Centre of Seismology (NCS).
+
+The earthquake hit the district at 06:36 am.
+
+Sharing the details on its website, the NCS said, "M: 3.0 - Chamba, Himachal Pradesh, Origin Time: 2026-08-14 06:36:28 IST, Latitude: 33.131, Longitude: 76.585, Depth: 5 km."
+
+### Uttarakhand Tunnel Collapse Live News Updates: NDRF, SDRF race to rescue trapped workers in Chamoli; 7 dead, 19 injured
+
+Rescue operations continued on Friday to evacuate workers trapped inside an under-construction tunnel of the Tehri Hydro Development Corporation Limited (THDC) at Pipalkoti in Uttarakhand’s Chamoli district, a day after water and debris entered the tunnel. Seven people have died among those rescued and taken to the District Hospital in Gopeshwar, officials said.
+
+A total of 19 people were brought to the hospital from the accident site. Dr Aayush, speaking to reporters, said seven had been declared dead, while 13 had initially arrived in relatively stable condition. Ten were admitted, while one young man whose condition was unstable was referred to the Base Hospital in Srinagar.
+
+**Rescue teams battle rising water inside tunnel  
+**  
+NDRF and SDRF teams are continuing efforts to reach and evacuate the remaining workers trapped inside the tunnel. NDRF team commander Amrit Lal Meena said a large volume of water had entered the tunnel when rescuers reached the site, with water also seeping in from the sides.
+
+Meena said specialised equipment was being used during the rescue operation and that four bodies had been recovered from the water so far. He said the operation would continue until all those trapped were retrieved.
+
+**Around 20-22 workers were inside  
+**  
+THDC Executive Director (Projects) Kumar Sharad said around 20 to 22 workers were inside the tunnel when the accident occurred. Officials had initially said 18 workers were rescued and shifted to the district hospital for treatment.
+
+Sharad said three to four of the rescued workers were in serious condition. The rescue operation remains underway as teams work to evacuate the remaining workers from the under-construction tunnel.
+
+### Industrialist Karan Adani meets Odisha CM Mohan Charan Majhi to discuss new infrastructure projects
+
+### Today marks the 12th day of my hunger strike and the 21st day of the protest. My health isn't great today; my blood sugar level has risen, and my blood pressure is also high. Health workers have advised me to go to the hospital, but I have refused... There is a possibility that a team will go to hold talks with the government today. Discussions are underway, and a team from our side may go for negotiations... Talks are being held with the ministers. Jairam Kumar Mahato is leading the dialogue, and the talks might take place later this evening. Representatives from both sides will be present, and a group of five of us will go to put forward our points... We remain adamant on our demands: the cancellation of the JPSC and JSSC CGL exams, a CBI inquiry, and the enactment of strict laws. We stand firm on these three demands
+
+### Mumbai wakes up to cloudy skies, pleasant weather. Visuals from Chowpatty area
+
+### Today we mark #PartitionHorrorsRemembranceDay. We recall the courage of all those who were impacted by Partition. It was a moment in history that tore apart several lives…families were uprooted, loved ones were lost and immense suffering was endured. At the same time, overcoming this, people rebuilt their lives from nothing, turned adversity into achievement and contributed immensely to our nation’s progress. Their life journeys remind us of the strength of the human spirit. May this day deepen our resolve to preserve harmony and brotherhood in our nation and collectively work towards building a Viksit Bharat
+
+\- PM Modi on X
+
+---
+
+### Malamaal Weekly 2: Elvish Yadav joins movie cast alongside Riteish Deshmukh, Paresh Rawal in hit sequel
+*Unknown · business*
+
+Bigg Boss OTT winner Elvish Yadav is set to make his Bollywood debut with the upcoming sequel to the 2006 comedy film Malamaal Weekly. Yadav announced his casting in _Malamaal Weekly 2_ in a post on X, revealing that he will share the screen with Paresh Rawal, Rajpal Yadav, Raveena Tandon and Riteish Deshmukh, among others.
+
+The actor and content creator expressed gratitude for the opportunity and said he hoped to learn from the established performers involved in the project.
+
+  
+
+> — ElvishYadav (@ElvishYadav)
+
+  
+
+## Elvish Yadav announces film debut
+
+Yadav shared his excitement about working with the cast in an X post, saying the opportunity to work alongside several established stars would allow him to learn from them.
+
+He also expressed hope that his new experience in the film industry would make his supporters proud. In another post, Yadav reflected on his journey, saying he entered Bollywood without industry connections and credited his audience's support for helping him reach the big screen.
+
+Yadav said the love he had received from his followers had played a significant role in his journey and asked them to continue supporting him.
+
+  
+
+## What is Malamaal Weekly about?
+
+Released in 2006, _Malamaal Weekly_ featured Paresh Rawal, Om Puri, Riteish Deshmukh, Rajpal Yadav and Asrani in prominent roles. The comedy was set in the fictional village of Laholi and centred on Lilaram, a lottery ticket seller played by Paresh Rawal.
+
+The plot begins after a lottery ticket sold by Lilaram wins a major jackpot. After the ticket holder dies, Lilaram devises a plan to claim the prize himself. However, the villagers also become interested in the winnings, leading to a series of misunderstandings, rivalry and comic situations.
+
+  
+
+> — ElvishYadav (@ElvishYadav)
+
+  
+
+## Malamaal Weekly's source and remakes
+
+The original film was based on the 1998 Irish comedy _Waking Ned_. Its story was later adapted into several Indian languages.
+
+The Telugu version, Bhagyalakshmi Bumper Draw, was released in 2006, followed by the Kannada film Dakota Picture in 2012 and the Malayalam film Aamayum Muyalum in 2014. Priyadarshan directed the Malayalam adaptation.
+
+Malamaal Weekly was a commercial success following its 2006 release and became known for its ensemble cast and comedy-driven storyline.
+
+## What to expect from Malamaal Weekly 2
+
+With the cast of Malamaal Weekly 2 taking shape, the sequel is expected to retain the ensemble-driven comedy associated with the original while presenting a new story built around comic misunderstandings and chaos.
+
+---
+
+### America wants to make its own humanoid robots. That won’t be easy.
+*New York Times · technology*
+
+The US is trying to build a domestic humanoid robot industry, but China’s lower costs, large-scale manufacturing and control over key components give its companies a major advantage.
+
+[Read full article](https://indianexpress.com/article/technology/america-wants-to-make-its-own-humanoid-robots-that-wont-be-easy-10832364/)
+
+
+---
+
 ## 13 August 2026
 
 ### Indian origin teen faces murder charges after mother, brother found dead in US home
