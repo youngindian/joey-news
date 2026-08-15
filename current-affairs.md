@@ -1,3 +1,548 @@
+## 15 August 2026
+
+### Independence Day bank holiday: Are banks open or closed on August 15? Check status - The Economic Times
+*Sneha Kulkarni · finance*
+
+### Synopsis
+
+Bank holiday today: Cstomers are advised to check local holiday schedules, as state-specific holidays may further impact branch operations throughout the month. With regional festivals leading to varying closures in different states, it ensures employees can take time off for significant national and local events.
+
+ET Online
+
+AI generated
+
+In August 2026, banks will be closed on various days depending on the state, as many closures are linked to regional festivals, commemorations, local occasions, etc. This means customers in one state may find their bank branch open while branches in another state may remain closed on the same day. So customers visiting a bank branch must check their state's bank holiday schedule.
+
+In India, three days are recognised as ‘national holidays’, and all businesses, including banks, must give their employees a day off on these occasions: January 26 (Republic Day), August 15 (Independence Day) and October 2 (Gandhi Jayanti).
+
+## Are banks closed today on August 15, 2026, for Independence Day?
+
+Banks are closed today (Saturday, August 15, 2026) nationwide to commemorate Independence Day. The third Saturday of the month is a working day at banks as per the Reserve Bank of India (RBI) holiday calendar, but banks will remain closed today because of Independence Day.
+
+As per the RBI rule, all scheduled and non-scheduled banks observe a public holiday on the second and fourth Saturdays of the month.
+
+## Bank holidays in August
+
+Banks in August will be closed for festivals such as Ker Puja, Tendong Lho Rum Faat, Patriot’s Day, Independence Day/Parsi New Year (Shahenshahi), Birthday of Maharaja Bir Bikram Kishore Manikya Bahadur, Milad-Un-Nabi/First Onam/Milad-i-Sherif (birthday of Prophet Muhammad), Id-E-Milad/Baravafat/Milad-un-Nabi (birthday of Prophet Mohammad)/Thiruvonam depending on the state. It is important to note that the closure of bank branches will vary across states.
+
+## August bank holidays 2026
+
+Aug-26
+
+4
+
+8
+
+13
+
+15
+
+19
+
+25
+
+26
+
+28
+
+Agartala
+
+•
+
+•
+
+•
+
+Ahmedabad
+
+•
+
+•
+
+Aizawl
+
+•
+
+Belapur
+
+•
+
+•
+
+Bengaluru
+
+•
+
+•
+
+Bhopal
+
+•
+
+•
+
+•
+
+Bhubaneswar
+
+•
+
+Chandigarh
+
+•
+
+Chennai
+
+•
+
+•
+
+Dehradun
+
+•
+
+•
+
+•
+
+Gangtok
+
+•
+
+•
+
+•
+
+Guwahati
+
+•
+
+Hyderabad
+
+•
+
+•
+
+Imphal
+
+•
+
+•
+
+•
+
+Itanagar
+
+•
+
+Jaipur
+
+•
+
+•
+
+Jammu
+
+•
+
+•
+
+•
+
+Kanpur
+
+•
+
+•
+
+•
+
+Kochi
+
+•
+
+•
+
+•
+
+•
+
+Kohima
+
+•
+
+Kolkata
+
+•
+
+Lucknow
+
+•
+
+•
+
+•
+
+Mumbai
+
+•
+
+•
+
+Nagpur
+
+•
+
+•
+
+New Delhi
+
+•
+
+•
+
+Panaji
+
+•
+
+Patna
+
+•
+
+•
+
+Raipur
+
+•
+
+•
+
+Ranchi
+
+•
+
+•
+
+Shillong
+
+•
+
+Shimla
+
+•
+
+•
+
+Srinagar
+
+•
+
+•
+
+•
+
+Thiruvananthapuram
+
+•
+
+•
+
+•
+
+•
+
+Vijayawada
+
+•
+
+•
+
+(Join our ETWealth WhatsApp channel for all the latest updates)
+
+---
+
+### Life insurer denied Rs 1 crore death claim over earlier policy postponement on medical grounds; here's why family wins in state commission - The Economic Times
+*Anshika Jain · finance*
+
+A life insurance policy is meant to give a family financial support and stability when the policyholder is no longer around to take care of them. But what do you do when an insurer rejects a death claim, alleging that the policyholder didn’t disclose an earlier insurance proposal or medical information?
+
+A recent case before the Telangana State Consumer Disputes Redressal Commission shows the importance of disclosing relevant information while buying a life insurance, and why an insurer must also prove that the policyholder had knowingly concealed such information before repudiating a claim.
+
+The case involved a Rs 1-crore Tata AIA Life Insurance policy taken by a retired Central Excise officer. After his death during the COVID-19 pandemic, his wife, who was the nominee, filed a claim. The insurer rejected the claim, alleging that the policyholder had failed to disclose that another insurer had previously postponed his insurance proposal due to medical findings.
+
+## **The policyholder died less than two years after taking the Rs 1 crore cover**
+
+The deceased policyholder had purchased a Tata AIA Life Insurance Samporna Raksha policy with a **Rs 1 crore sum assured**. The policy commenced on October 31, 2019, had a 25-year term and carried an annual premium of about Rs 58,800. His wife was the nominee.
+
+He died on May 25, 2021 after contracting Covid-19. His wife subsequently submitted a death claim for the ₹1 crore sum assured. As the death occurred less than two years after the policy commenced, the insurer investigated the claim
+
+## **Why did Tata AIA Life reject the Rs 1 crore death claim?**
+
+The insurer's investigation found that the policyholder had earlier approached ICICI Prudential Life Insurance for another Rs 1 crore policy.
+
+According to the insurer, that proposal had been postponed following medical findings. Tata AIA alleged that the policyholder did not disclose this earlier proposal and its postponement when applying for the Tata AIA policy.
+
+The Tata AIA proposal form had specifically asked whether any previous insurance application or reinstatement application on life, accident, medical or health, critical illness, or disability had ever been declined, postponed or accepted at extra premium or modified terms. The policyholder had answered "No".
+
+The insurer argued that this amounted to suppression of a material fact and that it would have assessed the risk differently had the earlier proposal been disclosed.
+
+It therefore repudiated the death claim and cancelled the policy from inception, while refunding the premiums received.
+
+## **The family challenged the insurer's decision**
+
+The policyholder's wife and son challenged the repudiation before the District Consumer Commission.
+
+They also pointed out that Tata AIA had conducted its own medical examination before issuing the policy and had declared the deceased fit and healthy. They argued that the alleged LVH condition also had no connection with his death, which was due to Covid-19.
+
+The District Commission ruled in favour of the family and directed Tata AIA Life to pay the Rs 1 crore claim with 9% annual interest from the date of repudiation, along with Rs 50,000 compensation and Rs 10,000 towards litigation costs.
+
+Tata AIA then appealed against the order before the State Consumer Commission.
+
+## **Why did the Commission ‘distinguish’ (precedent doesn’t apply) the Supreme Court's ruling on non-disclosure?**
+
+The Commission relied on the Reliance Life Insurance Co. Ltd. v. Rekhaben Naresh Bhai Rathod case because the Supreme Court had ruled that previous insurance policies or proposals may constitute material facts requiring disclosure.
+
+“Such information can influence an insurer’s assessment of risk. However, the Commission distinguished that case because Tata AIA failed to prove that the deceased knew about the earlier postponement before completing its proposal form. Thus, the precedent established the legal principle of full disclosure but did not automatically justify repudiation. The insurer still had to prove conscious and material suppression, which it failed to do,” says Alay Razvi, Managing Partner, Accord Juris.
+
+In simple terms, the Commission's reasoning was:
+
+Non-disclosure of a material fact can justify repudiation, but the insurer must first prove that the alleged suppression actually occurred and that the insured had the requisite knowledge of the fact being suppressed, explains Kumar.
+
+The Commission found that Tata AIA had not discharged that burden. The medical reports alone did not establish that the deceased had been informed of the findings or the postponement. Consequently, the Commission held that the factual foundation necessary for applying the Rekhaben Rathod case verdict was absent, he adds.
+
+## **An earlier insurance proposal alone was not enough to prove deliberate suppression**
+
+The Commission found a critical evidentiary gap in Tata AIA's case. According to Vivek Kumar, Advocate, Delhi High Court, although the insurer produced documents showing the earlier proposal and medical reports, it did not produce evidence establishing that:
+
+-   the earlier proposal had actually been postponed before the Tata AIA proposal was submitted;
+-   the postponement had been communicated to the deceased;
+-   the deceased knew about the adverse medical findings; and
+-   despite having such knowledge, he knowingly gave a false answer to Tata AIA.
+
+Importantly, Tata AIA had also conducted its own medical examination before issuing the policy, giving it an opportunity to independently assess the insured's health. The Commission therefore held that the insurer could not rely merely on suspicion or assumptions to establish conscious suppression.
+
+The Commission ultimately held that “suspicion that the insured must have known is not a substitute for evidence.” Since conscious non-disclosure was not proved, the repudiation could not be sustained, and the appeal was dismissed.
+
+## **What did the** Telangana State Consumer Commission finally rule?
+
+The State Commission dismissed Tata AIA Life's appeal and confirmed the District Commission's order in full.
+
+This means the insurer was required to honour the Rs 1 crore death claim, along with the interest, compensation, and litigation costs ordered by the District Commission. The judgment was pronounced on June 12, 2026.
+
+## **What Tata AIA Life said**
+
+_Our investigation revealed that, prior to obtaining the Tata AIA policy, the DLA had applied for life insurance with another private insurer, where his proposal was postponed following a medical examination due to findings of Concentric Left Ventricular Hypertrophy (LVH) with an impaired left ventricular filling pattern._
+
+_We contended that the deceased had failed to disclose this prior postponement and had answered the relevant question in the proposal form in the negative, thereby amounting to suppression of material facts._
+
+_Accordingly, we treated the non-disclosure as a breach of the principle of utmost good faith and repudiated the claim. The premiums paid under the policy were subsequently refunded to the claimant’s bank account. The Company’s position is that knowledge of the earlier adverse underwriting decision and the associated medical findings would have materially affected its underwriting assessment._
+
+_The TSCDRC has held the Company liable to pay the death claim of ₹1,00,00,000, along with applicable interest and costs. The Company remains of the view that the earlier proposal postponement and the 
+
+## **What lessons should other consumers take away from this judgment?**
+
+The case offers an important lesson for both policyholders and insurers. The biggest lesson is that consumers should be extremely careful and completely transparent while filling insurance proposal forms.
+
+“Even though the policyholder ultimately succeeded in this case, the judgment should not be understood as saying that non-disclosure of previous insurance proposals is harmless. The Commission itself recognised that information concerning previous insurance proposals can be material to an insurer's assessment of risk,” says Kumar.
+
+At the same time, the judgment provides an important protection for consumers:
+
+“This case establishes that an insurer seeking to repudiate a life insurance claim on grounds of suppression of a material fact bears the burden of proving not merely that an earlier proposal was postponed by another insurer, but also that the insured had actual knowledge of such postponement and its adverse findings at the time of filling the subsequent proposal form - mere non-disclosure, without proof of conscious concealment, cannot sustain repudiation,” says Vishal Jain, Founder & Senior Partner at Ayaam Legal.
+
+“Further, when an insurer conducts an independent medical examination and certifies a proposer as healthy, the insurer cannot then argue that the same is irrelevant and reject the claim,” says Sohil Shah, Partner at Pioneer Legal.
+
+---
+
+### Kerch Strait warning, a call for vigilance
+*Editorial · general*
+
+Amid the Russia-Ukraine war, the paralysis of export trade, with most shipowners suspending port calls and hesitant to make voyages amid skyrocketing war-risk insurance premiums, can potentially spill over into a global food supply crisis similar to that in 2022
+
+[Read full article](https://indianexpress.com/article/opinion/editorials/kerch-strait-warning-a-call-for-vigilance-10833880/)
+
+---
+
+### Magnitude 7.7 earthquake strikes off Indonesia, tsunami warning issued
+*Reuters · business*
+
+A magnitude 7.7 earthquake struck off Indonesia’s Flores region early Saturday, killing at least two people, injuring two others and damaging buildings and homes. Authorities initially issued a tsunami warning for several provinces but later lifted it after monitoring showed no significant change in sea levels.
+
+The U.S. Geological Survey said the earthquake struck at 5:58 a.m. local time at a depth of 10 kilometres. The epicentre was about 68 kilometres north-northwest of Ende city in East Nusa Tenggara province. Several aftershocks followed the main earthquake.
+
+Preliminary reports from the Maumere Search and Rescue Agency said at least two people died and two others were injured after buildings collapsed or suffered severe damage, according to Indonesia’s disaster management agency.
+
+  
+
+The earthquake was felt across much of Flores island, where early reports indicated extensive damage.
+
+Local television footage showed patients being evacuated from several hospitals as a precaution. Hospital workers moved beds, IV stands, oxygen cylinders and other equipment outside and set up temporary areas to treat patients.
+
+  
+
+## Buildings damaged in Flores
+
+Yohanna Embu, a resident of Sikka regency in East Nusa Tenggara, said several buildings were damaged and people rushed towards higher ground after the strong shaking.
+
+“Many buildings here were damaged ... I saw that the waiting room at the port terminal in Maumere had collapsed,” she said.
+
+Students attending morning Mass at St. Peter Major Seminary in Sikka also fled after the roof of an assembly hall collapsed. The seminary, locally known as Ritapiret Seminary, is on the predominantly Catholic island of Flores.
+
+The Rev. Guidelbertus Tanga, rector of the seminary, said students and nuns rushed outside during the earthquake.
+
+“Our students and nuns ran out in panic beneath a collapsing roof,” Tanga said. “At least one priest suffered a broken leg after jumping from the second floor of a building during the quake.”
+
+## Tsunami warning lifted
+
+Indonesian authorities initially issued a tsunami warning covering parts of East Nusa Tenggara, West Nusa Tenggara, South Sulawesi and Southeast Sulawesi provinces.
+
+Officials asked people to stay away from beaches and riverbanks and advised residents in coastal areas to move to higher ground.
+
+Indonesia’s Meteorology, Climatology and Geophysics Agency later lifted the warning after its monitoring found no significant sea-level changes that could threaten coastal communities.
+
+## Indonesia faces frequent earthquakes
+
+Indonesia has more than 17,000 islands and regularly experiences earthquakes and volcanic activity because it lies along the Pacific “Ring of Fire,” an area with numerous volcanoes and fault lines.
+
+Flores has previously experienced a deadly earthquake and tsunami. In December 1992, a powerful earthquake triggered a tsunami that killed about 2,500 people on the island.
+
+---
+
+### Delhi on high alert for Independence Day; 25,000 personnel deployed
+*SECTIONS Delhi · business*
+
+New Delhi, The capital is on high alert in view of Independence Day celebrations, with more than 25,000 police and paramilitary personnel deployed across the city to maintain law and order, while a multi-layered security grid is in place around the Red Fort, a senior police officer said.
+
+Elaborate security arrangements -- involving over 1,000 CCTV cameras and AI-based video analytics -- are in place around the Red Fort, where Prime Minister Narendra Modi will unfurl the national flag and address the nation.
+
+"We have elaborate security arrangements, keeping in mind the incidents witnessed in the capital last year," Deputy Commissioner of Police (North) Raja Banthia told PTI.
+
+  
+
+The security plan includes multiple layers of checking and screening at entry points and around the Red Fort, besides a dedicated anti-terror response mechanism to deal with any possible threat or emergency situation, the officer said.
+
+More than 25,000 Delhi Police and paramilitary personnel are deployed at strategic locations across the city, including the Red Fort and other sensitive areas.
+
+"Advance liaison, mock drills and advance intimation have been carried out so that all agencies are prepared and there is a coordinated response in case of any emergency," Banthia said.
+
+More than 1,000 CCTV cameras are deployed inside and outside the Red Fort to keep a close watch on the area. The cameras are linked to systems equipped with artificial intelligence-based video analytics, while live feeds are being monitored from a dedicated control room, he said.
+
+The surveillance system will help security personnel detect suspicious activity, crowd-
+
+"If a law and order situation emerges, we will respond immediately. Response teams are ready and deployed at strategic locations," Banthia said.
+
+Security personnel are also regulating the movement of people and vehicles in vicinity of the Red Fort, while checking and screening are being carried out to ensure that visitors and invitees face minimum inconvenience.
+
+Police and specialised response teams are maintaining heightened surveillance at vital installations, public places, markets, transport hubs and other sensitive locations across the city.
+
+Security agencies are maintaining close coordination and sharing inputs to ensure swift and coordinated response to any emerging threat. Mock drills and advance coordination exercises have also been carried out to familiarise personnel with emergency response procedures.
+
+---
+
+### Indonesia issues Tsunami warning after 7.7-magnitude earthquake strikes along Pacific Ring of Fire
+*Rana Sarkar · business*
+
+Synopsis
+
+A powerful 7.7-magnitude earthquake struck near Indonesia's Flores Island, prompting a local tsunami warning. Authorities urged residents to move to higher ground and stay away from coastal areas. The shallow undersea quake was followed by three strong aftershocks, causing significant shaking. Indonesia, situated on the Pacific Ring of Fire, is highly susceptible to such seismic events.
+
+Reuters
+
+Villagers outside their homes following an earthquake of magnitude 7.7 in Talibura, Easu Nusa Tenggara, Indonesia.
+
+Indonesia issued a local tsunami warning on Saturday after a powerful 7.7-magnitude earthquake struck beneath the sea near Flores Island. Indonesia’s Meteorology, Climatology and Geophysics Agency issued a tsunami warning for parts of East Nusa Tenggara, West Nusa Tenggara, South Sulawesi and Southeast Sulawesi, urging residents to stay away from beaches and riverbanks, the Associated Press reported.
+
+The agency said the shallow undersea earthquake struck near Flores Island and advised people in vulnerable coastal areas to move to higher ground while authorities monitored tide gauges for signs of tsunami activity.
+
+The warning came after the earthquake was followed by three strong aftershocks, measuring 5.9, 5.6 and 6.1 in magnitude, according to the US Geological Survey (USGS). Authorities in Australia, located across the Timor Sea, said there was no tsunami threat to the country at the time, CNN reported.
+
+  
+
+The earthquake was strong enough to expose a large population to potentially dangerous shaking. The USGS PAGER system estimated that around 500,000 people experienced very strong or severe shaking, which can cause slight to moderate damage to well-built structures and extensive damage to poorly constructed buildings.
+
+Indonesia, with more than 17,000 islands is particularly vulnerable to earthquakes, tsunamis and volcanic eruptions because it sits along the Pacific “Ring of Fire,” a vast zone of tectonic activity marked by numerous faults and volcanoes.
+
+The country has experienced some of the world's deadliest earthquake-
+
+The most devastating occurred on December 26, 2004, when a magnitude 9.1 earthquake struck off the coast of Indonesia's Sumatra island. The resulting Indian Ocean tsunami killed more than 220,000 people across countries bordering the ocean, with more than half of the victims in Indonesia.
+
+Indonesia's eastern islands have also repeatedly been struck by destructive earthquakes and tsunamis.
+
+In December 1992, a magnitude 7 earthquake generated a tsunami that killed about 2,500 people on Flores, the same island near the latest earthquake.
+
+In August 2018, a magnitude 6.9 earthquake struck the island of Lombok, killing hundreds. Later that month, a series of powerful earthquakes struck several islands in the South Pacific and Indonesia.
+
+Then, in September 2018, a magnitude 7.5 earthquake struck Sulawesi, triggering a tsunami that killed hundreds more.
+
+More recently, a 6.5-magnitude earthquake struck the Cianjur region of West Java in November 2022, killing hundreds of people.
+
+(Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.)
+
+Download The Economic Times News App to get Daily International News Updates.
+
+...moreless
+
+---
+
+### Independence Day: US Secretary of State Marco Rubio extends greetings, says US-India ties stronger than ever
+*Unknown · business*
+
+Washington, US Secretary of State Marco Rubio has greeted the people of India on its 80th Independence Day, asserting that the bilateral ties were stronger than ever due to the personal relationship between President Donald Trump and Prime Minister Narendra Modi.
+
+In a statement issued here on Friday, Rubio said the deep ties of friendship and family between the people of the two countries form the foundation of a partnership that is innovative, resilient and forward looking.
+
+"On behalf of the United States of America, I extend warm congratulations to the people of India on their Independence Day," Rubio said.
+
+  
+
+"Thanks to the personal relationship between President Trump and Prime Minister Modi, the US-India relationship continues to grow and is stronger than ever," the US secretary of state said.
+
+Rubio said from defence and energy security to critical minerals, artificial intelligence, space cooperation, and commerce, US-India collaboration is making both nations, and the broader Indian Ocean region, safer, stronger, and more prosperous.
+
+"The deep ties of friendship and family between our two peoples form the foundation of a partnership that is innovative, resilient, and forward-looking. The United States looks forward to the future our two countries will build together," Rubio said.
+
+Several states across the US have issued special proclamations to commemorate August 15, 2026, as 'India Day' to mark the country's independence, highlighting the growing contribution of its diaspora to the American fabric.
+
+A number of senators, Congress members, lawmakers and city councils have extended greetings on India's Independence Day.
+
+---
+
+### Vice-President C P Radhakrishnan writes: From the freedom that was won to the Bharat we build
+*C P Radhakrishnan · legal*
+
+I pay homage to Tiruppur Kumaran, known as Kodi Kaatha Kumaran (Kumaran, the protector of the flag). He came to be known by this title after sacrificing his life in Tiruppur (my hometown) , refusing to let the national flag fall even in the face of death
+
+[Read full article](https://indianexpress.com/article/opinion/columns/vice-president-c-p-radhakrishnan-writes-from-the-freedom-that-was-won-to-the-bharat-we-build-10833886/)
+
+---
+
+### Pratap Bhanu Mehta writes: The nationalism that evokes pride, the nation we are
+*Pratap Bhanu Mehta · legal*
+
+India is great because now we have to learn to speak of ourselves as great, and the more bombast with which we speak, the more evidence we have of our greatness
+
+[Read full article](https://indianexpress.com/article/opinion/columns/pratap-bhanu-mehta-writes-the-nationalism-that-evokes-pride-the-nation-we-are-10833882/)
+
+---
+
+### Bar Council breaks the law to crawl, its chief must go
+*Editorial · legal*
+
+The CJI’s rebuke isn’t enough. BCI chairman Manan Kumar Mishra has embarrassed himself and undermined the institution he leads
+
+[Read full article](https://indianexpress.com/article/opinion/editorials/bar-council-breaks-the-law-to-crawl-its-chief-must-go-10833879/)
+
+---
+
+### IPS officer faces bribery charge, Chhattisgarh DGP submits report in CBI court
+*Jayprakash S Naidu · legal*
+
+Allegations stem from a Rs 21.15 lakh cyber fraud case from last year at Chhattisgarh's Ambikapur, which revealed what investigators believe is a much larger racket
+
+[Read full article](https://indianexpress.com/article/india/ips-officer-faces-bribery-charge-chhattisgarh-dgp-submits-report-in-cbi-court-10833944/)
+
+
+---
+
 ## 14 August 2026
 
 ### Israel warned US of Iran plots against Trump, but US could not verify threats
