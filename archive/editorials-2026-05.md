@@ -1,5 +1,205 @@
 # Editorials archive — 2026-05
 
+## 16 May 2026
+
+### ​Juggernaut rolls on: On the third phase of SIR of electoral rolls
+*The Hindu · Editorial*
+
+The Election Commission of India (ECI) has announced a third phase of its controversial Special Intensive Revision (SIR) of electoral rolls, covering 16 States and three Union Territories with a combined electorate of 36.73 crore. Given what transpired in Phase 2 — a staggering net trim of 10.2% in the rolls — it would be prudent for the ECI to make structural changes in how it conducts this third phase, so that the disenfranchisement visible particularly in States such as West Bengal is not repeated. At least, the exercise will not be hurried through because of an impending election. The SIR has produced mass deletions of varying scale across States, with West Bengal’s the most egregious. This was the cumulative result of the ECI’s reliance on faulty software, arbitrary criteria, and methodological flaws, which together led to the removal of a disproportionately higher number of electors from marginalised and minority communities, most notably in West Bengal. Across States, the SIR was marked by the centralisation of data and decision-making in ECI authorities in New Delhi rather than with empowered Electoral Registration Officers in the States; by booth rationalisation conducted in parallel with enumeration rather than after it, which obscured the scale of deletions and made it harder for electors to verify their inclusion; and by software errors that deleted entire sets of duplicate names rather than only the excess entries. Most fundamental of all is the design of the enumeration process itself, which places the onus on electors rather than on ECI officials to establish eligibility on the rolls. The aggregate result of these flaws is visible in the data: gender-ratio drops in the electorate across nearly every State where the SIR was conducted — Tamil Nadu being the notable exception — and mismatches with officially estimated elector-population ratios.
+
+Yet, none of this has moved the ECI to change course. That the lessons of Bihar were not absorbed in Phase 2 itself raises the suspicion that the insouciance is by design. Worryingly, the Supreme Court of India has chosen managerial supervision over adjudication, directing the acceptance of more identity documents, deploying judicial officers, even as the underlying questions on Section 21(3) of the Representation of the People Act and on the shifting of the burden of proof to electors remain unresolved. As Phase 3 commences, the burden now falls on political parties and civil society to sensitise electors to ensure that their enumeration forms are properly processed. The ECI should prioritise universal adult franchise over a method that places the onus of remaining on the rolls upon electors themselves.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/juggernaut-rolls-on-on-the-third-phase-of-sir-of-electoral-rolls/article70984164.ece)
+
+---
+
+### Superpower summit: On the Trump visit to China
+*The Hindu · Editorial*
+
+As U.S. President Donald Trump left Beijing on Friday after two days of talks with Chinese President Xi Jinping, the world’s two biggest powers appeared to have come to a temporary truce. How long it will last remains to be seen, given that the summit concluded without any apparent breakthroughs in the long list of differences, from trade to Taiwan, that have strained relations. Instead, both sides appear focused on injecting some stability into a relationship that has, of late, seen many ups-and-downs. Mr. Xi offered a new label for ties, calling for “a constructive relationship of strategic stability” for the remaining years of Mr. Trump’s term and beyond. If both agree on the need for some stability, their priorities appear to differ. Mr. Xi told Mr. Trump that Taiwan was the most important issue in the relationship, which could descend into conflict if not properly managed. The U.S. stance on Taiwan remains unchanged, which includes substantial arms sales. How this détente will handle the Trump administration’s next sale remains to be seen. For Mr. Trump, getting China to buy more American goods and relax controls on rare earths are key metrics of the health of ties. He said that Beijing had agreed to buy 200 Boeing aircraft, step up purchases of soyabean, and relax restrictions on U.S. beef exports – the “three Bs” he has emphasised. The U.S. has also allowed 10 Chinese firms to resume purchases of advanced Nvidia chips. Both sides have discussed setting up a Board of Trade to manage trade issues, including reducing tariffs on some Chinese goods, and a Board of Investment to green light Chinese investment in non-sensitive sectors.
+
+These deals, if confirmed, may at most lead to a pause in a bruising trade war. However, the Beijing summit has also served as a reminder of the broader changing structural dynamics in relations between the world’s two biggest powers. If the U.S. remains the pre-eminent military power today, it is the limits of its ability to command global influence that have come into question increasingly, all the more so after the Iran war. China, for its part, has made clear it is no longer interested in biding its time or hiding its global ambitions. As Mr. Xi put it to Mr. Trump, can China and the U.S. avoid the Thucydides Trap, of an inevitable conflict between the established power and the rising power, and create a new model of relations? This question holds significance for India and the rest of the world, which have to navigate this rivalry. Standing up to U.S. pressure, while managing difficult relations with an increasingly confident China, will be two key tests of India’s diplomacy in the years to come. Reinforcing India’s strategic autonomy and independence, rather than diluting it, will offer the best path forward.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/superpower-summit-on-the-trump-visit-to-china/article70983712.ece)
+
+---
+
+### Trade, supply chains and economic statecraft
+*The Hindu · Opinion*
+
+The past decade has collapsed the old boundary between economics and geopolitics, creating a world in which supply chains, trade routes, energy corridors and technology ecosystems have become the real battlegrounds of power. What once belonged to corporate strategy decks is now the daily fare of national security briefings. Tariffs behave like sanctions, semiconductor alliances resemble defence pacts, and the flow of critical minerals can tilt influence as decisively as troop deployments once did. In this new order, states compete not only with armies or ideologies but with regulatory regimes, infrastructure networks and the capacity to anchor global production. The fusion of markets and statecraft is no longer a trend; it is the organising principle of 21st century geopolitics.
+
+Trade as strategic leverageThis shift has also exposed the fragility of the older globalisation consensus — the belief that trade naturally fosters cooperation and shared prosperity. Increasingly, economic ties are being repurposed as instruments of strategic leverage. Tariffs, export controls, supply-chain restrictions and energy dependencies have become tools through which states attempt to shape the behaviour of others. The scramble over critical minerals, the weaponisation of interdependence (with China’s curbs on the export of rare earths allowing it to flex its muscles against the United States and India), and the resurgence of tariff politics (used by U.S. President Donald Trump to punitive effect) all underscore how easily commerce can be turned into coercion. In such an environment, economic diplomacy is inseparable from national security, and countries must navigate a world where prosperity and power are intertwined.
+
+For India, this shift has encouraged a more pragmatic approach to foreign policy, one that places greater emphasis on economic resilience and diversification. This fusion of economics and geopolitics has created a rare moment in which India’s structural strengths align with the world’s strategic needs. As companies and governments rethink their exposure to concentrated supply chains, India’s scale, stability and reform trajectory have moved it from the periphery of globalisation to the centre of boardroom strategies and diplomatic calculations. A country once viewed in the West as a promising but difficult market is now seen as an indispensable node in a diversified global economy — large enough to matter, stable enough to trust, and open enough to absorb investment at scale.
+
+Three shifts underpin this new positioning. First, India’s domestic reforms — digitisation, infrastructure expansion, and targeted deregulation — have lowered transaction costs and improved predictability, making it easier for global firms to build long-term capacity.
+
+Second, the geopolitical recalibration around China has created a structural demand for alternative production ecosystems, and India is one of the few economies with the labour force, political stability and market depth to meet that demand.
+
+Third, India’s own strategic imagination has expanded: it now sees trade agreements, technology partnerships and supply-chain diplomacy not as peripheral to national strategy but as central instruments of statecraft.
+
+The new order and IndiaIn this environment, India’s relationships with major powers are increasingly shaped by economic security rather than traditional geopolitics alone. Semiconductor collaborations, critical-mineral partnerships, defence-industrial co-production and digital-public-infrastructure exports are all examples of how India is weaving economic resilience into its foreign policy. These are not merely commercial arrangements; they are strategic bets on a world where influence flows through production networks as much as through military alliances. It is a world where Pax Silica complements Pax Americana, but unlike the latter, does not require a military partnership.
+
+At the same time, India must navigate the risks of this new order. Interdependence can empower, but it can also expose. Over-reliance on any single partner — whether for technology, minerals, or markets — creates vulnerabilities that can be exploited. The challenge is to build a diversified portfolio of economic relationships that enhances India’s autonomy rather than constraining it. Promiscuity is not a virtue in inter-personal relationships, but in the trade world of the third decade of the 21st century, it may be the only viable “default mode” for India’s conduct. Of course, like the other kind, trade promiscuity also requires precautions. Even as it pursues multiple partners, India must strike a careful balance: deepening integration without surrendering strategic space, attracting investment without becoming dependent on it, and embracing globalisation without repeating the mistakes of earlier eras. This global shift also places new demands on India’s internal economic strategy. To anchor global supply chains, India must continue improving logistics, regulatory clarity and workforce skills. To lead in emerging technologies, it must invest in research, intellectual property and trusted digital infrastructure. To secure critical minerals, it must build resilient partnerships abroad and sustainable extraction policies at home. And to maintain credibility as a democratic alternative in a world of authoritarian efficiency, it must ensure that economic growth is matched by institutional strength and social cohesion.
+
+The stakes are high because the opportunity is historic. For the first time since liberalisation, the global economy is not merely inviting India to participate — it is actively seeking India’s presence. The question is whether India can convert this moment of geopolitical demand into long-term economic capability.
+
+As the global trading system fragments into overlapping coalitions and custom-tailored economic arrangements, India’s task is not to retreat behind new walls but to remain confidently open on its own terms. The goal is neither complete individualism nor naive globalism, but a calibrated integration that avoids excessive dependence on any single partner. Serial dating works best when each partner is aware of your other relationships, knows multiple options exist but is not threatened by any of them. This is why energy security, technology partnerships and resilient supply chains have become central to India’s external engagement: they are the arenas in which the next phase of global competition will be decided.
+
+Economic diplomacy is no longer an adjunct to foreign policy; it is one of its organising principles. Countries that can align their economic strategy with their diplomatic posture will shape the emerging order rather than be shaped by it.
+
+This moment also coincides with a profound transition in the architecture of global trade. The multilateralism that defined the late 20th century — rooted in universal rules and broad consensus — has lost momentum under the weight of geopolitical rivalry and domestic political pressures. In its place, nations are turning to flexible bilateral and regional arrangements that allow them to tailor partnerships to strategic priorities. For India, this shift is not a setback but an opening. It creates space for a more agile, interest-driven diplomacy that can leverage India’s scale, stability, and reform trajectory to build coalitions across geographies and sectors.
+
+India at global crossroadsThe convergence of these trends places India at a pivotal juncture. The world is searching for diversified production bases, trusted digital ecosystems and stable democratic partners. India can meet that demand — but only if it continues to invest in competitiveness at home and credibility abroad. The choices made now will determine whether India becomes a central anchor of the new global economy or remains merely one of its many participants. The opportunity is historic, but it is not automatic. It requires clarity of purpose, institutional steadiness and the confidence to engage the world without fear or favour.
+
+In a world where prosperity and power now move through supply chains rather than shipping lanes, India’s future will be shaped not by choosing between globalisation and self-reliance, but by mastering the art of engaging the world on terms that protect its autonomy while amplifying its ambition.
+
+Shashi Tharoor is the fourth-term Member of Parliament (Congress party, Lok Sabha) for Thiruvananthapuram, the Chairman of the Parliamentary Standing Committee on External Affairs and the Sahitya Akademi Award-winning author of 29 books, including Pax Indica (2012) and The New World Disorder (2020)
+
+[Read full article](https://www.thehindu.com/opinion/lead/trade-supply-chains-and-economic-statecraft/article70984368.ece)
+
+---
+
+### Devi Kar | The Rewards & Challenges Of A Mixed Student Body In School
+*Deccan Chronicle · Opinion*
+
+Today, it is almost expected that all reputed schools will be “inclusive”. It is important to clarify at the outset that being inclusive and having a mixed or diverse student population are two different things. The term “inclusive” has a strong element of intentionality, whereas having a diverse student cohort may just be incidental.
+
+However, there are school leaders who look for homogeneity as they feel that a heterogeneous student population is likely to throw up all kinds of complications and challenges, which would definitely get in the way of a smooth teaching-learning process. Generally, teachers are used to dealing with mixed-ability classes and are trained in differentiated teaching, though some schools have a policy of grouping students into sections of each class according to their ability levels. I feel that this system may make teaching easier but it certainly introduces an element of undesirable superiority and inferiority complexes among the students and deprives them of learning lessons of life from students with different backgrounds and experiences.
+
+In many coveted schools that are known for their academic excellence -- not necessarily limited to commendable public examination results -- there may be diverse students, that is, hailing from different communities, regions or even countries, yet socio-economically they may be quite homogeneous. These schools ensure that only those candidates who are likely to perform well in academics are admitted, hence their classes do not pose the challenges that mixed-ability groups usually do. Other schools follow a policy where they admit a percentage of students who come from under-resourced and under privileged communities. In such cases, a different set of challenges has to be faced.Some parents prefer to send their children to schools where they will interact with other children of the same kind. They feel secure that they don’t have to worry about the polish and culture of the families of their children’s friends, the language they would use and the kind of homes they would visit. Befriending children from a different socio-economic stratum altogether would generate all kinds of complications and complexities. Further, even if they open their own homes to such children, they wouldn’t have the confidence to allow their children to visit theirs. Probably, the children from “poor” families would also hesitate to invite their affluent friends to their humble homes or even meet their uneducated, unsophisticated and vernacular-speaking parents.Why is it, then, that some of us strongly feel that a truly mixed student population is desirable in any school for a rich and complete education to be imparted? If a student has to be prepared for the real world, which is one of the purposes of a school education, society outside the school walls must be reflected within, as far as possible. Children will not be able to face life beyond school if they are kept cocooned in an artificial setting. School should give them opportunities to interact with different kinds of children with varied family backgrounds. Not only will they be the richer for it, but they will develop the skills needed to deal with different kinds of people in their adult lives.
+
+If a school has a policy of admitting students from different socio-economic strata, it indirectly strengthens the character of every student, irrespective of background. Those from wealthy homes learn to be compassionate and also to appreciate those who perform well without the facilities and advantages that they themselves are fortunate to have. The children of middle-class parents learn to be proud of their identity and accept that there would always be people who were better off than them and others who were worse. In some schools there are some “free students”, who are from low-income homes. I have seen them grow in resilience as well as self-confidence.
+
+In a conducive environment, children learn how to deal with each other’s sensitivities. I remember the time when I was discussing “inclusion” and “exclusion” with middle-schoolers, a student mentioned that it can happen even in an “expensive” school that a group of girls talking about their foreign holidays or the latest fashion trends make a few individuals feel “excluded” as they could not participate in such conversations. Similarly, those who come to school in chauffeur-driven limousines are unable to relate to the daily commute by public transport that many of their classmates are accustomed to. Reactions can be varied -- ranging from envy and admiration to pity and condescension.
+
+No doubt there are many complex issues that can arise in a diverse school community. However, the dividends are so rich that the challenges pale into insignificance. India is a country with multiple cultures and though there is a strong drive to make everything standard and uniform, I fervently hope and pray that we will always support plurality. We would be sadly impoverished if...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/devi-kar-the-rewards-challenges-of-a-mixed-student-body-in-school-1957165)
+
+---
+
+### Manish Tewari | Towards Tighter Online Censorship And Political Dictatorship
+*Deccan Chronicle · Opinion*
+
+When the Government of India introduced the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules in 2021, experts raised concerns about expanded executive influence that tantamounted to Constitutional overreach qua online speech.
+
+Since then, the Rules have steadily evolved through amendments, advisories and executive interventions. The Draft IT Rules Second Amendment, 2026, is yet another major turning point that could reshape the relationship between citizens, platforms, and regulators.
+
+According to MeitY, the proposed amendments are clarificatory and procedural in nature, aimed at strengthening intermediary compliance, improving legal certainty, and enhancing oversight mechanisms relating to online content regulation. However, a closer reading also raises important questions about the scope of executive oversight and the potential impact of the amendments on lawful online expression and the Constitutional Guarantee of Free Speech.
+
+Broadening the scope of online speech regulation
+
+One of the most significant changes is the expansion of the Rules from publishers to ordinary users. The amended Rule 8(1) seeks to bring “news and current affairs content” posted by non-publisher users under the regulatory framework of Part III of the IT Rules. This means the same mechanism originally designed for digital publishers and OTT platforms could now potentially apply to individual citizens posting commentary, analysis or opinions online that constitutes the most extreme form of censorship proscribing the individual’s freedom of speech and expression.
+
+The concern lies not only in the expansion, but also in the vagueness of the definition itself. “News and current affairs content” includes “noteworthy content” relating to socio-political, economic, or cultural issues. In practice, this could cover a wide range of online speech - from an Instagram story discussing elections to a WhatsApp forward about public policy or a tweet criticising government action.
+
+This marks a significant expansion of the regulatory framework into areas of ordinary online expression. The breadth of the language may create room for inconsistent interpretation and uneven enforcement. India has already seen repeated cases involving content takedown requests, blocking orders and pressure to remove politically embarrassing material especially for ruling dispensations both at the Centre and in the states. It would not be trite to state that the misuse of these take down provisions is exponentially more by the Central government. The proposed changes will exacerbate the gross abuse of executive discretion in content governance.
+
+Expanding executive oversight mechanisms
+
+Another notable aspect of the amendments is the expanded role of the Inter-Departmental Committee (IDC), an executive-led body that oversees digital content. The amended Rule 14(2) would give the ministry the power to refer matters directly to the IDC even where there is no complaint from an aggrieved party. This means that the executive authorities could proactively initiate the scrutiny of online content at their own discretion.
+
+This would represent a notable shift in the structure of content oversight. Previously, the framework at least nominally relied on complaints and grievance mechanisms. The new proposal appears to move toward a more proactive model of executive scrutiny where authorities may initiate review of content even absent a user complaint.
+
+The lack of independent or judicial oversight in this process raises serious constitutional concerns.
+
+The proposed amendments also come at a time when several provisions of the 2021 IT Rules are already under judicial challenge before the constitutional courts. The Bombay High Court had stayed portions of the Rules relating to the Code of Ethics and government oversight mechanisms, observing that they could have a chilling effect on free speech. The Madras High Court affirmed that the stay would apply nationally.
+
+Against this backdrop, the proposed expansion of similar oversight mechanisms raises questions about whether further judicial clarity should first be awaited.
+
+Expansion of Due Diligence Obligations
+
+Perhaps the most significant amendment is the insertion of Rule 3(4), which links intermediary safe harbour protections to compliance with government-issued advisories, clarifications, guidelines, directions, and standard operating procedures.
+
+Under Section 79 of the Information Technology (IT) Act, 2000, intermediaries are protected from liability for actions of their users so long as they follow due diligence obligations. This “safe harbour” principle forms the backbone of the modern internet.
+
+Advisories, clarifications, guidelines and standard operating procedures are administrative directions and are not laws made through parliamentary scrutiny. Unlike rules that are debated in Parliament or formally notified and subject to legislative oversight, executive instructions can be ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/manish-tewari-towards-tighter-online-censorship-and-political-dictatorship-1957160)
+
+---
+
+### Ranjona Banerji | Inside The Mind Of  An Internet Troll
+*Deccan Chronicle · Opinion*
+
+How do I insult thee? Let me count the ways.
+
+This must be the favourite poem of trolls who bottom feed on the Internet. Well, before the trolls get to me, I will be upfront: there is no such poem. There is a poem like it, but I have changed one word. Also, I would be impressed if trolls had heard of the poem and also know which word I have changed.
+
+I know. How snobbish of me. No wonder I get trolled. I probably deserve it.
+
+There are though, I have found, three aspects of one’s life which will inevitably lead to incessant trolling.
+
+The first is being female. Now this I had no control over. I imagine I should blame my father. But that makes little sense because it’s not as if he had control over which sperm, it’s just that the sperm determines the XX or XY or any other combinations. Although, I hear there is new research which suggests that the egg decides which sperm to choose. On the whole I think it’s better to blame both parents and thus absolve myself of all responsibility. It seems fairer this way.
+
+Although, don’t tell those trolls which thrive on misogyny that new genetic research also suggests that intelligence comes from the mother. On the other hand, I think I’m falling so deep into rabbit holes that I won’t be able to dig myself out. Because what about those mothers who produced these vicious trolls?
+
+O dear. I’ll stop now.
+
+Anyway, the thing is that trolls don’t like females. Or to be more definitive, females who have opinions which they express.
+
+And what really upsets them is if these trolls are from Bengal. I did not realise that the Bengali woman is such a hated person. How innocent you might say. Most of my life, I’ve been fed up of the other more usual cliches about Bengalis — so cultured, so artistic, so clever and so on. As if every Bengali was some combination of William Shakespeare, Leonardo Da Vinci and Albert Einstein combined. Or in Bengali, Rabindranath Tagore. If you meet half my relations, you would know what a laugh that is.
+
+It was after the sad death of actor Sushant Singh Rajput and the subsequent vilification of a Bengali starlet, that I learnt that the greatest attribute of Bengali women is that they are witches who are experts in black magic. Now, had anybody told me this before, I see that my life would have been very different. Sadly, there was no internet when I grew up and for a good part of my adult life. So, I never met a troll and never learnt this important fact about myself. If any troll reads this, I would be happy to fulfil their fantasies if they could point me in the direction of any witching school which specialises in “jaadu-tona” or is it “kaala jadu”? Either way, do forgive my attempt to try and use words associated with North Indian prejudices. However, surely it is not too late to learn how to punish those who deserve it and revenge they say is best served cold? Watch out, all ye who crossed my path in the past! Er, does this include the trolls? Hmmm. Food for thought. Although I have to find the local equivalent of Hogwarts or wherever Gandalf went to school, something perhaps like the Special Bengali Women’s Higher College of Kaala Jadu and Tona.
+
+Of course, I forgot to mention that many Bengalis are also Islamo-Christo-Fascist-Commie-Congressis. I am not certain what this political combination implies but it certainly makes it clear that these Bengalis are not the bigoted Hindutva right-wing. Except of course those of my relations in Bengal who voted for the BJP. Presumably they get trolled by Islamo-Christo-Fascist-Commie-Congressis, who from all accounts are not as successful as trolls than our dear pals (and relations) on the right.
+
+But you know what upsets these trolls even more than being female, Bengali, witches, Islamo whatever? It’s being all those things plus being concerned about the environment, trees, forests, wildlife, green cover, global warming and that sort of thing. That is the absolute tipping point.
+
+I realised this to my innocent amazement when I posted on social media about the Great Nicobar project. Now I had posted about this before. But posting it after a certain opposition leader had visited the islands of Nicobar was apparently the end of all tolerance. Every misogynistic sexual taunt and verbal assault was thrown at me, with no concern for the various black magic spells that I could throw their way. The rage was total! Bad enough that I was pro-rainforest and anti-development and national security concerns and whatever else enrages them. But to show support for the environment after a visit by an Opposition politician? No way. That cannot be tolerated.
+
+Forests can be chopped down. Wildlife destroyed. Tribals lose their homes. But opposition politicians must be opposed. And as long as thousands of crores of rupees are spent, we can be sure that our security and strategic interests are well looked after. Plus, those of a few friends. O no. I did not just write that. And shh. Not a word about border and security...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/ranjona-banerji-inside-the-mind-of-an-internet-troll-1957179)
+
+---
+
+### Congress, finally, reads the Kerala verdict
+*Deccan Herald · Editorial*
+
+Ten days after the Congress-led United Democratic Front (UDF) registered a landslide electoral victory in Kerala, the party’s high command chose V D Satheesan as the state’s new Chief Minister. The uncertainty that prevailed before the high command picked Satheesan did the party no good.
+
+The announcement was delayed because the central leadership backed All India Congress Committee (AICC) general secretary K C Venugopal, who did not contest the election, while the people clearly favoured Satheesan, who led the alliance to this resounding victory.
+
+By prioritising a coterie’s interests above the party and the people, the leadership risked serious damage, given that Kerala is one of the Congress’s few remaining pockets of influence. Left to themselves, the leaders would have decided against the overwhelming will and verdict of the people. This lack of political judgment is even more striking because Congress has lost states when it imposed chief ministers on the people or removed them from office against public opinion.
+
+Its final decision is being hailed as a victory of consensus and the spirit of internal democracy, but the credit should go to the positions taken by the public and the allied parties, the residual good sense of some leaders, and a media consistently critical of this post-results power play. It must be said that even before the euphoria of a massive victory settles, the Congress leadership has lost some credibility.
+
+Celebrations on in Kerala as V D Satheesan is named as Chief MinisterSatheesan was the face of the party and the UDF in the elections. He is not a dynast and is the first from his family to join politics. A leader who rose from the grassroots, the first-time Chief Minister has about three decades of political experience. He is seen by a large section of the cadre as a principled leader who would not cede space to communal interests. Satheesan is also the unlikely politician with a book: a voracious reader with a range of interests.
+
+The new Chief Minister will face multiple challenges in office. Financially, Kerala has just managed to stay afloat, while resisting the Centre’s unfriendly policies. The government will need a substantial revenue thrust to implement the five guarantee schemes announced during the campaign.
+
+The Lok Bhavan can be expected to be at odds with the government on many fronts. Satheesan may also face opposition from the party’s MLAs and even ministers, given the circumstances of his appointment. The high command must ensure that he gets the full backing in what could also be a crucial term for the party’s national footprint.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/congress-finally-reads-the-kerala-verdict-4004689)
+
+---
+
+### Tree felling exposes flawed priorities
+*Deccan Herald · Editorial*
+
+The renewed felling of 233 trees in Ballari for road-widening is more than a local environmental issue. It reflects a deeper policy failure in Karnataka’s approach to development – one that increasingly views mature trees as obstacles rather than vital urban infrastructure. What makes this particularly disturbing is not merely the scale of the proposed destruction, but the manner in which it began.
+
+Trees were reportedly felled during the night of April 24 without permission, before police and forest officials intervened to halt the exercise after 25 trees had already been cut down. Separate criminal cases have since been registered against Public Works Department (PWD) officials and contractors. Yet, despite the legal and public backlash, efforts to resume the felling continue.
+
+This episode stands in stark contrast to the vision once championed by former Chief Minister Ramakrishna Hegde, under whose leadership the state consciously invested in avenue plantations and green highways. Roadside trees were treated not as ornamental additions, but as ecological assets essential for shade, temperature regulation, and public well-being. Today, however, the focus appears to have shifted from social forestry to project-driven felling.
+
+While the Forest Department has suggested alternative engineering solutions, including remodelling road shoulders to preserve the trees, PWD officers argue that retaining them would obstruct drainage systems, pedestrian pathways, electricity infrastructure, and road signage.
+
+Around the world, and even in parts of Chandigarh and Lutyens' Delhi, planners increasingly adopt “design-around” solutions such as split carriageways and permeable pavements that protect mature root systems instead of treating tree felling as the default option. This is especially important in Ballari, one of Karnataka’s hottest districts. The removal of large roadside trees could intensify the urban heat island effect and sharply increase surface temperatures.
+
+In hot city Ballari, PWD wants to axe 233 trees for road widening The controversy also raises troubling legal questions. Under the Karnataka Preservation of Trees Act, 1976, large-scale felling requires statutory scrutiny and public consultation. Whether such processes were meaningfully followed before 233 trees were marked for destruction remains unclear.
+
+While the PWD has offered to cover the cost of compensatory afforestation, the Supreme Court has repeatedly observed that planting five or ten saplings for every tree cut is inadequate. A sapling cannot immediately replace the oxygen output, biodiversity value, or microclimatic cooling provided by a 50-year-old tree.
+
+This tree-felling controversy must therefore compel Karnataka to rethink its development priorities. True progress lies not in widening roads at any ecological cost, but in designing infrastructure that respects and preserves natural assets built over generations.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/tree-felling-exposes-flawed-priorities-4004690)
+
+---
+
 ## 15 May 2026
 
 ### ​Bursting at the seams: On the rise in inflation

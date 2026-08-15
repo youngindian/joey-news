@@ -1,8 +1,201 @@
 # Editorials
 
-_Last updated: 2026-08-14 03:40 UTC_
+_Last updated: 2026-08-15 02:34 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 15 August 2026
+
+### House in disorder: On the monsoon session of Parliament
+*The Hindu · Editorial*
+
+Just as the monsoon session of Parliament began on July 20, the student protest demanding the resignation of Dharmendra Pradhan, as Union Education Minister, gathered momentum. The BJP had the context and the confidence to turn the session into a theatre of its triumph, powered, most remarkably, by its victory in the West Bengal Assembly election. But the popular reaction to the brutal crackdown on the protesting students by the Delhi Police turned its plans upside down, as rogue policemen were filmed assaulting and attempting to sexually abuse young people. Though no accountability has yet been fixed for the blatant violations of the law by police personnel, the BJP and the Union government have had to face sustained criticism from the Opposition and sections of public opinion. Prime Minister Narendra Modi and Home Minister Amit Shah barely attended the proceedings. Several Bills were passed, with inadequate deliberation. The government passed a Bill which facilitates the operation of a February guideline by the Home Ministry on the mandatory singing of the full version of Vande Mataram, the national song, at state functions. The Mines and Minerals (Development and Regulation) Amendment Bill, passed amid Opposition protests, overlooks concerns about its potential to undermine federalism and the rights of those on resource-rich land.
+
+The amendment to mining regulations follows the unfortunate pattern of hurried lawmaking and the continuing expansion of the powers of the central government at the cost of States and local communities. The session also legislated stronger measures against malpractices in examinations, in an effort to calm the anger of students. Whether those measures will be adequate to restore trust in the education system, remains to be seen. Mr. Pradhan eventually resigned during the session. Two other legislative attempts, the first, to rush through a new architecture for the delimitation process and the second, to regulate foreign contributions, did not entirely materialise, but both remain alive. It need not have been this way. The government should hold broader and more transparent consultations on both delimitation and the proposed FCRA amendments. The FCRA Amendment Bill will now be examined by a Joint Parliamentary Committee, but the exercise should not be reduced to a mere numbers game. The Centre must convene an all-party meeting, circulate draft legislation, and consult State Chief Ministers on its proposals on delimitation. The Opposition may have succeeded in stalling the government’s moves on delimitation and the FCRA, but it should not be triumphant. As the BJP itself discovered, political circumstances can turn rapidly. At any rate, Parliament should not be treated as a gladiatorial arena where one side vanquishes the other. It must remain a forum for constant conversation and the collective pursuit of solutions to the problems confronting the nation.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/house-in-disorder-on-the-monsoon-session-of-parliament/article71345972.ece)
+
+---
+
+### Internet unbound: On the summoning of Meta staff
+*The Hindu · Editorial*
+
+The Union government has summoned Facebook and Instagram parent Meta, and given senior staff from the firm a dressing down. Publicly, the reason is the brief removal, in India, of a video message by Prime Minister Narendra Modi. However, the government is hardly making a secret of its intent to nudge Meta to suppress posts of protests such as the one at Jantar Mantar. A barrage of takedown notices have already erased or suppressed some of the more emblematic forms of the protests. Instagram Reels, where users are shown automatically recommended posts from various creators, have emerged as one of the most influential forms of mass media in the country. Seeking suppression of political speech on such a platform would put India in unenviable company, joining the ranks of Pakistan, where TikTok was banned for some time in 2021 until it agreed to “control immoral/indecent content”. More importantly, it would bring India much closer to the tightly controlled digital ecosystem of China, where nearly all dissent is wiped out in mere minutes. All that possibly stands in the way of India’s cyberspace drifting to that status quo is a lack of capacity to check posts in real time, a “problem” that is ripe for a destructive AI-based solution.
+
+Meta is no bastion of resistance in spite of being a central site of the mobilisations over the last few weeks. For months, it has crawled when asked to bend, by needlessly taking down every post referred to it under Section 79(3)(b) of the Information Technology Act, 2000, a censorship route that merely notifies platforms that the reporting agency feels the content referred to is illegal. Despite posts taken down under this section almost never going to court, Meta has uniformly chosen to comply automatically. This has set the stage for the arm-twisting that the government appears to be undertaking. The conditions that enabled widespread censorship in China were fostered over the decades preceding the Internet’s growth. In the absence of those conditions, and in the absence of a single-party system with a stated ideological commitment to centralise control, the Internet cannot be tamed. But warping the public’s cultural self-perception is damaging for society, and must be stopped. These draconian measures can be used by successive governments if left unchecked. The current dispensation has drawn the wrong lesson from the protests and the accompanying online zeitgeist. Mass mobilisations are the lifeblood of democracy, not an aberration that bears no repetition.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/internet-unbound-on-the-summoning-of-meta-staff/article71345994.ece)
+
+---
+
+### India at 80, a democracy in search of renewal
+*The Hindu · Opinion*
+
+The nation has entered its 80th year of Independence. This is an occasion when all Indians, rising above their differences, will join together in paying homage to their freedom fighters, whose endless exertions and sacrifices delivered the people from the British colonial rule. This is when a subject nation rose to freedom to embark upon its ‘tryst with destiny’ and found its soul in the promised freedom and dignity of a people, long oppressed.
+
+India has since traversed a long distance, navigating a turbulent course of history, managing religious, caste and regional conflicts as also economic disparities. India has suffered wars, terrorism, famines and pandemics. And, today it can justly pride itself in its scientific and technological accomplishments, its defence and nuclear capabilities, a robust economy and a leadership role in the shaping of a new world order.
+
+The erosion of fraternityBut an objective audit of the nation’s trajectory as a democracy must contend with grave challenges to the aspiration for an inclusive and benevolent society. Without a partisan apportioning of blame or underplaying national achievements, India must consider whether its politics as practised in the decades gone by has secured fraternity amongst fellow citizens. The heightened disparities and communal discord have resulted in the othering of large sections of its people.
+
+The pervasive arrogance of power at all levels defies the constitutional and moral constraints upon its exercise. Transgression of constitutionally demarcated jurisdictions by the co-equal branches of the Indian state and the strained Centre-State relations are ominous signals for the future of India’s federal polity. The pursuit of politics fixated on the acquisition of power at any cost, unconcerned with the means and ends, is a clear affront to the moral injunctions that undergird the founders’ vision of a just political order. Electoral outcomes influenced by money, muscle and a pliant bureaucracy suborn the autonomy of voters and interrogate the purity of the country’s electoral processes.
+
+A political culture in which opponents are crushed into submission, conscientious dissenters are trolled to unbearable levels of humiliation, and their reputations maligned and families targeted, question the idea of politics as the highest form of public service that, as Thomas Mann famously reminded us, determines the destiny of man in our times. Clearly, substantive democracy is more than majoritarian triumphalism. It is about the vindication of justice, freedom and human dignity perched at the zenith of constitutional fundamentals.
+
+The mixed performance of their roles by constitutional institutions has added to the nation’s democratic deficit. The Supreme Court of India’s role as custodian of individual freedoms and as sentinel on the qui vive has been increasingly scrutinised in recent times. Notwithstanding the richness of its profound pronouncements in Puttaswamy (2017), Romila Thapar (2018), Navtej Johar (2018) and the ‘Bulldozer’ justice case (2024) et al., some of its recent decisions, particularly in bail matters, and delays in its adjudicatory processes have been critiqued as abnegation of the judicial function.
+
+In some instances, it has preferred a “formal or barren legalism” (against which, years ago, Chief Justice of India H.J. Kania had cautioned us), to justify long incarceration of the accused without trial. The Court appears to have failed to enforce its edicts and indifference to media trials that impinge on the fairness of the judicial process has dented its credibility. The functioning of the collegium system in the matter of appointment of judges has contributed to the diminished moral authority of the highest court.
+
+Parliament, as the highest forum of India’s representative democracy, has long ceased to be an institution for informed deliberations about the country’s future. Floating political loyalties of elected representatives of the people mock its institutional sanctity. The Election Commission of India needs to rescue its battered reputation as the chief superintendent of the country’s electoral processes by dispelling widespread doubts about its functioning, even as it may rightfully claim credit for successfully conducting the world’s largest electoral exercises over the years. Exceptions apart, the credentials of the Indian media as guardians of public interest are suspect. Most journalists and television anchors now combine the role of presenter, prosecutor and judge in the service of their masters’ preferred agendas. That the pillars of Indian democracy have frayed over the years is an inescapable conclusion tested on the touchstone of practised politics and constitutional philosophy.
+
+The worrying indifference of the citizenryBut the failure of India’s politics to promote substantive democracy does not rest with any one party, leader or an institution. The indifference of a vast section of the citizenry to the brazen aberrations of constitutional governance has contributed to a gradual hollowing out of an otherwise promising democracy, rendered hostage to visceral animosities and ideological bankruptcy. Hannah Arendt, the philosopher, reminded us of the “banality of evil”, implying the necessity of an enlightened citizenry to participate in the life of the nation in a dialectical relationship between politics and society. Amartya Sen’s idea of democracy premised on “participatory living and government by discussion” eludes us. Indeed, the popular response against routinised state violence and atrocities against the weak has not been loud enough to invite the necessary structural changes in the processes of governance. It is trite, therefore, that “the ballot box echos the living room”, leaving us Indians with the shell without the substance of democracy.
+
+Because politics mirrors the state of society, and its values and failings, the task of national renewal must begin by looking inwards to apply the correctives. A social and political order that allows the brutalisation of a person in custody without meaningful recourse, which contents itself with illusory and wholly inadequate welfare schemes for crores of indigent persons and is not outraged enough at the unspeakable atrocities against children, youth, women and the marginalised, invites a decisive self indictment. We know that “when society rewards greed, politics becomes transactional. When it condones deception and lies, leaders tend to follow”.
+
+Ennobling politics is not about manipulative conversations in which patriotism and truth are perceived as mutually exclusive. Politics that insists on a history made to order, negates the historical continuum and carries within the seeds of its rejection. Responsive democracy can thrive only in an inclusive society guided by a moral compass transcending the seductions of realpolitik. Elevating politics suffused with purpose presupposes a social milieu in which conscience prevails over power and where idealism is not dismissed as a utopian impossibility. The obvious needs reiteration, lest it is forgotten.
+
+The choice before IndiansIt is, therefore, for We, The People, to ensure that a larger political morality rooted in ethical fundamentals prevails over narrow identities in a renaissance of political culture that defers to justice, social, economic and political, as the ultimate command of the Constitution. Wisened by history and empowered by reason, it is for Indians, as inheritors of a free nation, to ensure that a democracy envisioned to enrich lives does not waste itself through acquiescence in injustice of any kind.
+
+The debt of gratitude owed to India’s freedom fighters summons Indians at this transformative moment to make choices that will place them on the right side of history — on the side of freedom and justice for all.
+
+In conclusion, this writer repeats what he had written when India turned 75. “It is time to conquer our fears, reclaim our freedom and anchor our politics in honour that values principle over power”. And as Frantz Fanon had reminded us, it is for each generation to “discover its mission, fulfil or betray it”. The outcome of the recent students’ protest at Jantar Mantar carries a hopeful message that democracy and dignity, despite the challenges, are secure in the idealism of the youth, inspired by a purifying sense of justice.
+
+Ashwani Kumar is Senior Advocate, Supreme Court of India, an author and a former Union Minister for Law and Justice. The views expressed are personal
+
+[Read full article](https://www.thehindu.com/opinion/lead/india-at-80-a-democracy-in-search-of-renewal/article71346620.ece)
+
+---
+
+### DC Edit | Aug. 15: Spirit Of India’s Youth Reignites Optimism
+*Deccan Chronicle · Editorial*
+
+As the nation slips into its 80th year of Independence, the pomp and grandeur of celebration at the historic Red Fort is bound to lead to reflection of what has been achieved by a free India and what must be done to leave the nation a better place for the youth of today who have found voice to state what is wrong with the establishment.
+
+What they have in terms of the right to protest today is part of the freedom generations of yesteryear fought for. What they have exposed in their demonstrativeness is the toxic political environment which has permeated the very culture of a political class that is so self-absorbed as to have become a burden on the system.
+
+The anxieties of what tomorrow will bring may weigh heavily on younger generations even as we celebrate where India has reached in her 79-year journey in terms of economic heft, social stability in a diverse country and progress into the most modern era. As we go forward, what will be achieved will come despite the narcissistic netas and not because of them.
+
+It is a misfortune that the wars being fought by major powers cramped India’s bull run as an economy that seemed headed towards the third largest in the world. The geopolitical pressures may have been handled well enough not to leave India scarred by rising prices of petroleum and other goods and essentials, but the journey forward is going to be that much harder because of what is still happening in Iran, Ukraine, Gaza and the waterways of the world.
+
+What India may not have done enough towards defusing may have been the friction points surrounding issues in Kashmir, Manipur and the Northeast, for which the blame should be borne by the powers that be choosing to let the problems fester rather than take bold decisions in the interest of the people concerned.
+
+The drift shows the light on the political class as a whole much as the student protests did in exposing not only the ruling party at the Centre but also the one in Jharkhand where brutal treatment meted out to the youth betrayed a clear lack of understanding of what they were protesting about, which was about their future welfare.
+
+The abjuring of violence is a responsibility that all the people of India bear and which is the least they can do for a nation that attained Independence through a satyagraha movement rather than a street revolution. The students who have rightly pointed out the faults in the exam and recruitment systems, which are bound to have a direct bearing on their careers and lives, would do well to remember that any damage they inflict is to their own country.
+
+As a land of not so equal opportunities, India sees its economic disparities further exposed by the steady rise in the cost-of-living, but this is a universal phenomenon affecting the richest countries as well as the poorest. Neither the ruling party nor the Opposition has any worthwhile ideas about mitigation.
+
+The quality of leadership may have to improve manifold if India is to cope with the startling pace of change in the world with AI disrupting traditional ways of working and living. The brightest silver lining is the innovativeness of youth that is so apparent in the technical and entrepreneurial skills displayed by the emerging smart generation in a land that boasts of lakhs of startups that are shaking up things in an increasingly digital world in which to be globally competitive is the key to success.
+
+The youth aspire to build an ecosystem that is far more liberal and inclusive therein raising optimism about free India on Independence Day.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-aug-15-spirit-of-indias-youth-reignites-optimism-1979275)
+
+---
+
+### DC Edit | Bar Council’s Self-goal At Nalsar
+*Deccan Chronicle · Editorial*
+
+The Bar Council of India’s decision to temporarily halt the enrolment of graduates who passed out of Nalsar University of Law in 2026 — a decision that has now been rescinded — because they opposed the university’s invitation to Chief Justice of India Surya Kant — is unfortunate and bad in law and spirit.
+
+According to the Bar Council, the action against the Nalsar students was taken because of their alleged disrespect for the highest judicial office in the country. The Bar, however, did not say which law empowered it to act in a matter in which it has no locus standi.
+
+The Bar Council also did not say how a petition asking the university to reconsider an invitation could be immoral because, after all, the students had left it to the university to accept or reject the petition. If an expression of disagreement is construed as immoral or disrespectful, the right to freedom of speech and expression guaranteed under Article 19(1)(a) of the Constitution is in serious jeopardy.
+
+The Advocates Act, which gives regulatory powers to the Bar Council, does not empower it to sit in judgment on “the standards of professional conduct and etiquette” to be observed by persons who have not yet become advocates — Nalsar students have not yet become advocates. The law empowers the Bar Council to make rules to maintain the standards of legal education in universities but does not allow it to monitor the moral compass of students.
+
+Though the Bar Council rightly withdrew the defective order within hours, its issue in itself raises serious questions about the legal knowledge of the Bar Council members who supported the impugned order.
+
+Every student has the right to decide from whom they want to receive their degree certificate. If a student does not wish to accept the certificate from a judge, it does not amount to contempt because the distribution of certificates is not a judicial function and, hence, does not lower the majesty of the court.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-bar-councils-self-goal-at-nalsar-1979280)
+
+---
+
+### Shikha Mukerjee | Modi, Shah In a Fix: How To Tackle Opp. Challenge
+*Deccan Chronicle · Opinion*
+
+If not totally eclipsed then emphatically partially so, the BJP and its twin helmsmen, Narendra Modi and Amit Shah, chose to take cover inside their parliamentary offices for almost the entire 19 sittings, from July 20 to August 13, of Parliament’s Monsoon Session, which was adjourned sine die on Thursday. The Opposition, as a collective, achieved the hitherto unthinkable: it forced the Prime Minister and home minister to remain absent and run the government’s legislative business by proxy, because showing up inside the House was so daunting.
+
+It has opened them up to charges, that alas, stick rather stubbornly to their reputations, that by “running away”, the two top leaders exposed themselves as disrespectful and contemptuous of Parliament. It also felt they were afraid, effectively confirming Leader of the Opposition Rahul Gandhi’s jibe that Mr Shah was behaving like a coward.
+
+Asking the home minister to explain who ordered the use of pellets against the protesters at Jantar Mantar is an entirely legitimate question and the responsibility of the Opposition. If the home minister chose not to explain to the Opposition inside the House, it doesn’t mean he is not accountable. Nor does it mean he doesn’t have to explain why pellet guns were used. He must, because that is his job.
+
+By refusing to respond to the request by vice-president C.P. Radhakrishnan, Rajya Sabha Chairman, for Mr Shah to come and speak for himself, on August 6, on the issues raised by the Opposition on the violence against students outraged by repeated Neet paper leaks, Mr Shah made it clear he doesn’t hold himself accountable to Parliament. While one hopes this is a temporary, though disgraceful, act of contempt of the prestige and honour of the House and the vice-president, the home minister has shown zero regret over not attending the sessions from the front bench allotted to him, nor has he apologised for his wilful absence.
+
+By barricading themselves inside their offices, the PM and home minister may have avoided facing the Opposition, but it doesn’t take away from fundamentals of democratic government that they are accountable to the House, to which they were elected as representatives of the people. The key identity of the two ministers are that they are temporary holders of office and were elected as MPs. Their ministerial positions are jobs that they get paid to do.
+
+Going into seclusion and issuing statements to selective media channels is not what the country pays them to do. Nor does the country pay them to run the legislative side of government by proxy, delegating responsibility for steering bills like the change in Kerala’s name to Keralam, the Public Examinations (Prevention of Unfair Means) Amendment Bill and the National Cooperative Development Corporation (Amendment) Bill to junior ministers, even when Mr Shah was “whole day, from morning till late night, in Parliament”.
+
+The credibility of the Prime Minister and home minister were staked by Mr Modi and Mr Shah to fulfil a possibly egotistical goal. There is reason for speculating that the goal of keeping out of sight and missing from the benches was egotistical. The home minister through his proxy, the hapless parliamentary affairs minister Kiren Rijuju, declared he would attend the House and listen to the Opposition on condition that the Opposition pleaded on bended knees that he should do so. In his strange letter to the Speaker, who is incidentally his senior in terms of protocol, Mr Shah directed Om Birla to talk to the Opposition and fix a time for a debate on student protests, offering to be present in the Lok Sabha for as long as it takes.
+
+Mr Shah ought not to have been disrespectful of the Chair in the Lok Sabha and Rajya Sabha. As a member of the Lok Sabha, Mr Shah ought to have remembered that he can enter and participate in the proceedings as and when necessary, or he thinks is necessary. He is answerable inside and outside the precincts within which he had secreted himself.
+
+The confrontation between the Opposition and the government was about the fundamental right to protest and to do so without being subjected to the extremes of violence by the State, at the directions of the political executive. Saying sorry for unleashing the violence of the State machinery would have served Mr Modi better. Mr Gandhi, by advising him to do so, was offering him a lifeline; by not grabbing it, Mr Modi made a mistake. India’s youth understand the tactics of their elders to control their actions.
+
+It is a rare occasion when the Opposition has remained collectively committed to demanding answers from a government that has rarely done the wholesome thing of coming clean on its actions. It serves as a reminder that the Opposition, mainly the parties that constitute the INDIA bloc, represent 40.6 per cent of voters who participated in the 2024 general election, as against 42.5 per cent who supported the National Democratic Alliance, of which the BJP got 37 per cent.
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/shikha-mukerjee-modi-shah-in-a-fix-how-to-tackle-opp-challenge-1979269)
+
+---
+
+### Freedom is an unfinished promise
+*Deccan Herald · Editorial*
+
+Independence Day is about freedom. August 15 is an emotional and intellectual code, invoked to connote a state of mind and existence that knows no bounds except those defined in a compact given unto us by ourselves. The day is the vantage point, our Red Fort, to look at the road we have traversed and the road ahead, and to reflect on what we have done with the freedom we gained. The nation was founded on the best ideals of democracy, equality, and fraternity among people, irrespective of religion, language or race. These ideals were to be realised within the expanding contours of freedom promised by our tryst with destiny. The question we should pose to ourselves is whether those contours have expanded or shrunk.
+
+They have shrunk. Resistance came in an unprecedented mobilisation of youth at Jantar Mantar, turning grievances over a flawed examination system into a collective call for accountability, breaking the BJP government’s facade of invincibility and energising voices of dissent. That resistance matters in a time of shrinking freedoms. The charter of rights at the heart of the Constitution is under pressure. The right to life is not a given when citizens can be easily arrested under draconian laws and kept in jail indefinitely. The right to free speech is not real when criticism attracts repression and vengeance. Religious freedom exists in the book, but majoritarian pressures and targeted legislation have soured the lived experience of minorities. The country ranks low on all the indices of freedom, with an overall score that evaluates it as partly free.
+
+Full 'Vande Mataram' played ahead of and after President Droupadi Murmu's Independence Day addressIndia has achieved much since it attained nationhood. We have the world’s sixth-largest economy and have made progress in every field of life. But we have not gone far enough on our goals and promises, and slipped on the most fundamental promise of August 15. That is about a life in democracy, about strengthening its processes and institutions, about the idea of a union of states, about liberty, equality, and fraternity. When parliament is disrespected and weakened, the right to vote is arbitrarily denied, and even citizenship is uncertain, we fail the spirit of August 15. There is stirring rhetoric from the ramparts of the Red Fort about accomplishments, promises, and new ideas and ideals. But beyond the words, the day gives us an opportunity to redeem the pledge taken on freedom’s first dawn. Hope and determination should sustain us to realise a future that will ensure justice and fullness of life to every man and woman.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/freedom-is-an-unfinished-promise-4111691)
+
+---
+
+### Unlock findings for targeted welfare
+*Deccan Herald · Editorial*
+
+The Karnataka State Commission for Backward Classes (KSCBC) is contemplating approaching the High Court for clarity on its earlier order restraining the release of data from the Social and Educational Survey. The court, while refusing to stay the survey, had imposed conditions to protect individual privacy. The Commission has since submitted its report to the government. The current confusion concerns what the court meant by “data”: raw individual-level data or the commission’s findings, which comprise consolidated figures. The latter interpretation appears unlikely, as it would render the report itself infructuous, particularly when the court has upheld the survey. The division bench has also relied on the Supreme Court’s judgment requiring robust, empirical, and quantifiable data to establish varying degrees of backwardness and inadequate representation before a state can sub-classify reserved categories. Nevertheless, the court’s clarification is essential to prevent legal ambiguity from becoming an excuse for indefinite delay.
+
+The first survey, commissioned in 2015 under the chairmanship of H Kantharaj during Siddaramaiah’s earlier tenure as chief minister, was never released. In 2020, the Yediyurappa-led Bharatiya Janata Party (BJP) government appointed K Jayaprakash Hegde as the Commission’s chairman. The panel updated the report and submitted it in 2024, after Siddaramaiah returned as chief minister. Although Congress had promised to implement it, the government, amid pressure from dominant communities, rejected the report on the ground that it was based on 2015 data and ordered a fresh survey under Madhusudan R Naik, costing around Rs 450 crore.
+
+KSCA to form Governing Council to run Maharaja & Maharani CupsThe survey, covering more than six crore people, was intended to collect updated data on the social, educational, and economic status of households to better target welfare and allocate resources. But it also mapped community populations, reportedly challenging long-held assumptions about the numerical strength of Dalits, backward classes, and minorities relative to Vokkaligas and Lingayats. That has inevitably made the exercise politically sensitive. Yet even if population figures are contested, information on literacy, land ownership, employment, and representation in government jobs can help direct welfare and affirmative action towards those most in need. Inaction on relevant findings weakens the evidentiary basis for targeted welfare interventions. After successive surveys have consumed hundreds of crores of rupees in public money, continued silence is difficult to justify. The government must urgently initiate a reasoned debate on the findings and take them to their intended outcomes. Evidence should not remain buried simply because it may unsettle an entrenched social and political order.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/unlock-findings-for-targeted-welfare-4111692)
+
+---
+
+### The viral conundrum
+*Deccan Herald · Opinion*
+
+The virus, for long a familiar menace and now an unlikely ally, has lately been under the spotlight again. Within days of the United States Senate grilling former health official Anthony Fauci in Washington, DC, over accusations of hiding the origins of the Covid-19 virus and funding a research laboratory in China from where the virus is alleged to have leaked, researchers at Stanford University and the Arc Institute announced they had used AI to design and validate 16 bacteriophages – viruses that infect bacteria – that are not found in nature and can kill certain laboratory strains of E. Coli.
+
+Interestingly, while Fauci refused to answer a single question during the hearing, not even about the day of the week or the colour of his tie, invoking his Fifth Amendment right against self-incrimination as many as 106 times, the brains behind the new bacteriophages went to great lengths to explain that their inventions posed no threat to humans.
+
+Belagavi | Govt opinion on pro-Karnataka resolution soon: Minister Satish Jarkiholi These developments are connected by more than just a wildcard pathogen. Together, they represent the emerging risk to biosafety: the growing human power to intervene in biological and public-health systems without the necessary political and institutional capacity to govern that power responsibly. The irony lies in having too much to state but too little to answer, saying more than needed but less than required, and having everything on the record but nothing on oath.
+
+Biosafety rests on two pillars: technical containment – practical, physical, and procedural measures to mitigate the risk of accidental exposure to or abuse of biological agents – and public trust, the belief that institutions will be forthright should anything go wrong. But these recent developments suggest that both pillars are at risk. The first pillar is running too far ahead, and the second is quietly giving way, leaving biosafety vulnerable to the politics of opportunism and scapegoating.
+
+As genetic material wrapped in protein, a virus, strictly speaking, is not alive; it has no metabolism of its own and cannot reproduce. Yet, when it infects a cell, it can devour all of the host’s resources to proliferate rapidly. That makes the creation of bacteriophages at once innocuous and unsettling.
+
+There is nothing unusual about laboratories synthesising and engineering viruses to better understand their functioning and potential ways in which they can be deployed as vaccines and therapies. These new phages, however, stem from AI models trained on genome databases comprising evolutionary relationships between living beings and viruses, often going back millions of years.
+
+Yet, there is also something disconcerting about them. Just as we inherit traits only from our parents and grandparents and not from those unrelated to us, each phage family tightly packs its DNA in its own version of proteins. However, there is at least one phage in the new set whose DNA is packaged in a protein taken from its distant relative. The phage can get the job done – like a dog digging with a cat’s claw – but against the law of nature. While we are no strangers to how even the smallest disruptions to the natural order can have rippling effects, the long-term consequences are not yet fully understood.
+
+This is where the need for an elaborate oversight mechanism becomes critical: everything from biosafety committees, permits, registries, inspections, and audits to proven containment, handling, storage and disposal protocols, traceability records, and trained staff. Unfortunately, institutional opacity and governance loopholes, questioned by politics for the wrong motivations, are hardly reassuring, especially in times of rogue leaders, AI, and ambitions.
+
+The Senate hearing was brought about, of all things, by Fauci’s diary, which he kept during the pandemic, rather naively on a government computer, and which later found its way from a vaccine-sceptic Health and Human Services Secretary to, quite predictably, a Senator known to be Fauci’s bête noire. Fauci’s evolving views on masks or his jottings on possible adverse reactions to the first vaccine dose cannot be called politically enlightening or scientifically explosive by any stretch of the imagination. In fact, on the key question of the genesis of the virus, the diary is said to contain little except entries suggesting Fauci’s private discussions with scientists on the plausibility of lab-leak. Yet, what this has done is made people suspect a schism between the private beliefs and public assertions of those who are supposed to know better.
+
+Nearly six years after the pandemic, we may have deified survival as triumph to push the pain aside and move on, but whether we have truly done anything of substance to improve our preparedness for a rogue pathogen isn’t clear. What if the growing ease of engineering pathogens, thanks to advances in synthetic biology, gene editing and AI technologies, were weaponised amid escalating geopolitical volatility? What if man-made pandemics became a real risk in the face of dual-use biotech, state-sponsored bioweapons programmes, lab accidents in militarised facilities or compromised biosafety and biosecurity norms?
+
+It is increasingly likely that the next pandemic, far from being a purely biological event, will be a test of whether institutions, still smarting from Covid-era secrecy, can be trusted to manage an unforeseen threat, a threat that could as well be engineered. The answer, at this point, appears to be discouraging. It is time biosafety bodies mandated real-time transparency around the origin of high-risk research before the next outbreak forces the question, possibly under far more exacting conditions. Building “God-tier” biotech on a foundation of waning public trust may complicate the way ahead.
+
+(The writer is an independent journalist and commentator)
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/the-viral-conundrum-4111689)
+
+---
 
 ## 14 August 2026
 
@@ -137,6 +330,65 @@ Today’s parents should have a different mindset and not equate learning with t
 In spite of the great importance that is placed on...
 
 [Read full article](https://www.deccanchronicle.com/opinion/columnists/devi-kar-choosing-a-school-for-your-child-the-things-you-should-be-focusing-on-1979034)
+
+---
+
+### OF CABBAGES AND KINGS | Amid Rising Heat, How ‘Rewilding’ Drive Divides UK; As Species Die Out | Farrukh Dhondy
+*Deccan Chronicle · Opinion*
+
+“Love is not a gift, it’s the illusion
+
+That two humans, perhaps alone, adrift,
+
+Find fulfilment in fusion…
+
+Of course it heals, and offers us a reason
+
+To make two one and live an anchored state
+
+From spring to winter, passing very season
+
+Postponing thoughts of our ultimate fate…”
+
+From The Butterfly Flutters, by BachchooIn Britain today, apart from debates about whom to support politically or what to do about asylum seekers, there’s the argument about “rewilding”.
+
+It’s the movement to allow the growths of nature to take their course -- like not condemning any form of flora as an unwelcome “weed”. The “rewilders” say that it will stop threated species from getting extinct and disappearing from the planet.
+
+The farming lobby is seriously opposed, arguing that “rewilding” wastes land that could be used to cultivate crops or house and nurture cows, poultry, sheep, etc.
+
+And now that Britain is gripped by the hottest summer on record, the debate about global warming and consequently “rewilding” makes the headlines.
+
+It’s the right-wing that seems to oppose it. The Conservative and extreme-right lobbies are, for instance, advocates of fox-hunting, on the grounds that foxes are vermin. Though the sport of chasing foxes with hounds has been banned by law, they still ride out behind dogs who follow a false trail of fox-scented decoy bundles.Tally Ho!
+
+(The cry reminds me of a very strange Bollywood song with the usual soupy lyrics, but with a chorus which went “Tally ho, tally ho…” I’m sure it didn’t mean “hunt your lover”, but was perhaps a perverted pronunciation of “Thaaly Ho Jai” -- let clapping prevail?)
+
+In contrast, the “rewilders” want badgers, foxes and the like to breed and flourish, rather than be eliminated or fade away.
+
+Established in 1964, the International Union for Conservation of Nature (IUCN) estimates that 49,500 species of the flora and fauna of our evolving earth are today classified as threatened with extinction. These include mammals, birds, amphibians, reptiles, crustaceans and even conifers and corals.
+
+The IUCN details the human activities that cause or contribute to these threats.
+
+One which caught my attention was the threat to flying foxes -- the brown, furry bat-like creatures -- not directly through human activity, but through rising temperatures. Thousands of these creatures are dropping dead as a consequence of hot weather, which can undoubtedly be attributed to global warming and human activity.
+
+Why did it catch my attention? Quirky reason. In my childhood the family of a friend of mine called Rashid. Rashid lived in a large house with acres of enclosed forest behind it. Rashid’s father employed a “carer” for this forest called Khadeyvak, who proudly asserted that he was an Adivasi. He had built himself a hut in the forest and used catapults and a bow and arrow he had constructed to kill birds and flying foxes which he’d skin, roast on twig fires and eat.
+
+As a gang of young boys, we traipsed through the undergrowth of this “jungle” and of course sat around Khadevak’s campfires as he cooked the flying foxes and, uninhibitedly, shared the meal. I now suppose we contributed to the thinning out of the flying fox species?
+
+We’ve all heard of dinosaurs, unicorns and dodos and are expected to regret the loss of the latter two, but I for one had never heard of numbats or Black Cockatoos. These are among the estimated hundred species threatened with extinction in Australia, now labelled the extinction capital of the world.
+
+More alarming is the estimate that more than a billion animals have perished this year in the raging forest fires.
+
+Throughout history there must have been human tribes that became extinct through wars or slaughter. The religions of some nations disappeared through conversion, even though the populations that held those beliefs multiplied and thrived -- the polytheistic Greeks and Romans converted to Christianity, but didn’t die out.
+
+The Zoroastrian religion of Iran was partially wiped out when in 641 AD the Arabs invaded and converted most of the population to Islam. Those who remained Zoroastrian made their way as refugees to India and settled there as the Zoroastrian Parsis -- my family, me!
+
+And now, because the Parsis refuse to include in the religious community anyone who wants to adopt the Zoroastrian religion and “convert”, and because we only recognise the children of male Parsis as belonging to the religion and reject the children of female Parsis who marry non-Parsis, our numbers are dwindling.
+
+We are indeed an endangered species -- as King Charles III, when he was the Prince of Wales, remarked to me. I’ll tell you: He was on a visit to India and the British high commission asked if he could participate, in some way, in the film I’d written about the 1857 Indian Mutiny called The Rising, which was in pre-production.
+
+Charles came with two equerries and after a mock clapper-board scene, was presented by the producer to the lined-up cast and crew.
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/of-cabbages-and-kings-amid-rising-heat-how-rewilding-drive-divides-uk-as-species-die-out-farrukh-dhondy-1979256)
 
 ---
 
@@ -12612,206 +12864,6 @@ What the government does to arrest the fall of the rupee and the rise of inflati
 Author of The Gated Republic, Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India
 
 [Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/May/16/build-forex-fortress-monetise-public-assets-in-dollars)
-
----
-
-## 16 May 2026
-
-### ​Juggernaut rolls on: On the third phase of SIR of electoral rolls
-*The Hindu · Editorial*
-
-The Election Commission of India (ECI) has announced a third phase of its controversial Special Intensive Revision (SIR) of electoral rolls, covering 16 States and three Union Territories with a combined electorate of 36.73 crore. Given what transpired in Phase 2 — a staggering net trim of 10.2% in the rolls — it would be prudent for the ECI to make structural changes in how it conducts this third phase, so that the disenfranchisement visible particularly in States such as West Bengal is not repeated. At least, the exercise will not be hurried through because of an impending election. The SIR has produced mass deletions of varying scale across States, with West Bengal’s the most egregious. This was the cumulative result of the ECI’s reliance on faulty software, arbitrary criteria, and methodological flaws, which together led to the removal of a disproportionately higher number of electors from marginalised and minority communities, most notably in West Bengal. Across States, the SIR was marked by the centralisation of data and decision-making in ECI authorities in New Delhi rather than with empowered Electoral Registration Officers in the States; by booth rationalisation conducted in parallel with enumeration rather than after it, which obscured the scale of deletions and made it harder for electors to verify their inclusion; and by software errors that deleted entire sets of duplicate names rather than only the excess entries. Most fundamental of all is the design of the enumeration process itself, which places the onus on electors rather than on ECI officials to establish eligibility on the rolls. The aggregate result of these flaws is visible in the data: gender-ratio drops in the electorate across nearly every State where the SIR was conducted — Tamil Nadu being the notable exception — and mismatches with officially estimated elector-population ratios.
-
-Yet, none of this has moved the ECI to change course. That the lessons of Bihar were not absorbed in Phase 2 itself raises the suspicion that the insouciance is by design. Worryingly, the Supreme Court of India has chosen managerial supervision over adjudication, directing the acceptance of more identity documents, deploying judicial officers, even as the underlying questions on Section 21(3) of the Representation of the People Act and on the shifting of the burden of proof to electors remain unresolved. As Phase 3 commences, the burden now falls on political parties and civil society to sensitise electors to ensure that their enumeration forms are properly processed. The ECI should prioritise universal adult franchise over a method that places the onus of remaining on the rolls upon electors themselves.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/juggernaut-rolls-on-on-the-third-phase-of-sir-of-electoral-rolls/article70984164.ece)
-
----
-
-### Superpower summit: On the Trump visit to China
-*The Hindu · Editorial*
-
-As U.S. President Donald Trump left Beijing on Friday after two days of talks with Chinese President Xi Jinping, the world’s two biggest powers appeared to have come to a temporary truce. How long it will last remains to be seen, given that the summit concluded without any apparent breakthroughs in the long list of differences, from trade to Taiwan, that have strained relations. Instead, both sides appear focused on injecting some stability into a relationship that has, of late, seen many ups-and-downs. Mr. Xi offered a new label for ties, calling for “a constructive relationship of strategic stability” for the remaining years of Mr. Trump’s term and beyond. If both agree on the need for some stability, their priorities appear to differ. Mr. Xi told Mr. Trump that Taiwan was the most important issue in the relationship, which could descend into conflict if not properly managed. The U.S. stance on Taiwan remains unchanged, which includes substantial arms sales. How this détente will handle the Trump administration’s next sale remains to be seen. For Mr. Trump, getting China to buy more American goods and relax controls on rare earths are key metrics of the health of ties. He said that Beijing had agreed to buy 200 Boeing aircraft, step up purchases of soyabean, and relax restrictions on U.S. beef exports – the “three Bs” he has emphasised. The U.S. has also allowed 10 Chinese firms to resume purchases of advanced Nvidia chips. Both sides have discussed setting up a Board of Trade to manage trade issues, including reducing tariffs on some Chinese goods, and a Board of Investment to green light Chinese investment in non-sensitive sectors.
-
-These deals, if confirmed, may at most lead to a pause in a bruising trade war. However, the Beijing summit has also served as a reminder of the broader changing structural dynamics in relations between the world’s two biggest powers. If the U.S. remains the pre-eminent military power today, it is the limits of its ability to command global influence that have come into question increasingly, all the more so after the Iran war. China, for its part, has made clear it is no longer interested in biding its time or hiding its global ambitions. As Mr. Xi put it to Mr. Trump, can China and the U.S. avoid the Thucydides Trap, of an inevitable conflict between the established power and the rising power, and create a new model of relations? This question holds significance for India and the rest of the world, which have to navigate this rivalry. Standing up to U.S. pressure, while managing difficult relations with an increasingly confident China, will be two key tests of India’s diplomacy in the years to come. Reinforcing India’s strategic autonomy and independence, rather than diluting it, will offer the best path forward.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/superpower-summit-on-the-trump-visit-to-china/article70983712.ece)
-
----
-
-### Trade, supply chains and economic statecraft
-*The Hindu · Opinion*
-
-The past decade has collapsed the old boundary between economics and geopolitics, creating a world in which supply chains, trade routes, energy corridors and technology ecosystems have become the real battlegrounds of power. What once belonged to corporate strategy decks is now the daily fare of national security briefings. Tariffs behave like sanctions, semiconductor alliances resemble defence pacts, and the flow of critical minerals can tilt influence as decisively as troop deployments once did. In this new order, states compete not only with armies or ideologies but with regulatory regimes, infrastructure networks and the capacity to anchor global production. The fusion of markets and statecraft is no longer a trend; it is the organising principle of 21st century geopolitics.
-
-Trade as strategic leverageThis shift has also exposed the fragility of the older globalisation consensus — the belief that trade naturally fosters cooperation and shared prosperity. Increasingly, economic ties are being repurposed as instruments of strategic leverage. Tariffs, export controls, supply-chain restrictions and energy dependencies have become tools through which states attempt to shape the behaviour of others. The scramble over critical minerals, the weaponisation of interdependence (with China’s curbs on the export of rare earths allowing it to flex its muscles against the United States and India), and the resurgence of tariff politics (used by U.S. President Donald Trump to punitive effect) all underscore how easily commerce can be turned into coercion. In such an environment, economic diplomacy is inseparable from national security, and countries must navigate a world where prosperity and power are intertwined.
-
-For India, this shift has encouraged a more pragmatic approach to foreign policy, one that places greater emphasis on economic resilience and diversification. This fusion of economics and geopolitics has created a rare moment in which India’s structural strengths align with the world’s strategic needs. As companies and governments rethink their exposure to concentrated supply chains, India’s scale, stability and reform trajectory have moved it from the periphery of globalisation to the centre of boardroom strategies and diplomatic calculations. A country once viewed in the West as a promising but difficult market is now seen as an indispensable node in a diversified global economy — large enough to matter, stable enough to trust, and open enough to absorb investment at scale.
-
-Three shifts underpin this new positioning. First, India’s domestic reforms — digitisation, infrastructure expansion, and targeted deregulation — have lowered transaction costs and improved predictability, making it easier for global firms to build long-term capacity.
-
-Second, the geopolitical recalibration around China has created a structural demand for alternative production ecosystems, and India is one of the few economies with the labour force, political stability and market depth to meet that demand.
-
-Third, India’s own strategic imagination has expanded: it now sees trade agreements, technology partnerships and supply-chain diplomacy not as peripheral to national strategy but as central instruments of statecraft.
-
-The new order and IndiaIn this environment, India’s relationships with major powers are increasingly shaped by economic security rather than traditional geopolitics alone. Semiconductor collaborations, critical-mineral partnerships, defence-industrial co-production and digital-public-infrastructure exports are all examples of how India is weaving economic resilience into its foreign policy. These are not merely commercial arrangements; they are strategic bets on a world where influence flows through production networks as much as through military alliances. It is a world where Pax Silica complements Pax Americana, but unlike the latter, does not require a military partnership.
-
-At the same time, India must navigate the risks of this new order. Interdependence can empower, but it can also expose. Over-reliance on any single partner — whether for technology, minerals, or markets — creates vulnerabilities that can be exploited. The challenge is to build a diversified portfolio of economic relationships that enhances India’s autonomy rather than constraining it. Promiscuity is not a virtue in inter-personal relationships, but in the trade world of the third decade of the 21st century, it may be the only viable “default mode” for India’s conduct. Of course, like the other kind, trade promiscuity also requires precautions. Even as it pursues multiple partners, India must strike a careful balance: deepening integration without surrendering strategic space, attracting investment without becoming dependent on it, and embracing globalisation without repeating the mistakes of earlier eras. This global shift also places new demands on India’s internal economic strategy. To anchor global supply chains, India must continue improving logistics, regulatory clarity and workforce skills. To lead in emerging technologies, it must invest in research, intellectual property and trusted digital infrastructure. To secure critical minerals, it must build resilient partnerships abroad and sustainable extraction policies at home. And to maintain credibility as a democratic alternative in a world of authoritarian efficiency, it must ensure that economic growth is matched by institutional strength and social cohesion.
-
-The stakes are high because the opportunity is historic. For the first time since liberalisation, the global economy is not merely inviting India to participate — it is actively seeking India’s presence. The question is whether India can convert this moment of geopolitical demand into long-term economic capability.
-
-As the global trading system fragments into overlapping coalitions and custom-tailored economic arrangements, India’s task is not to retreat behind new walls but to remain confidently open on its own terms. The goal is neither complete individualism nor naive globalism, but a calibrated integration that avoids excessive dependence on any single partner. Serial dating works best when each partner is aware of your other relationships, knows multiple options exist but is not threatened by any of them. This is why energy security, technology partnerships and resilient supply chains have become central to India’s external engagement: they are the arenas in which the next phase of global competition will be decided.
-
-Economic diplomacy is no longer an adjunct to foreign policy; it is one of its organising principles. Countries that can align their economic strategy with their diplomatic posture will shape the emerging order rather than be shaped by it.
-
-This moment also coincides with a profound transition in the architecture of global trade. The multilateralism that defined the late 20th century — rooted in universal rules and broad consensus — has lost momentum under the weight of geopolitical rivalry and domestic political pressures. In its place, nations are turning to flexible bilateral and regional arrangements that allow them to tailor partnerships to strategic priorities. For India, this shift is not a setback but an opening. It creates space for a more agile, interest-driven diplomacy that can leverage India’s scale, stability, and reform trajectory to build coalitions across geographies and sectors.
-
-India at global crossroadsThe convergence of these trends places India at a pivotal juncture. The world is searching for diversified production bases, trusted digital ecosystems and stable democratic partners. India can meet that demand — but only if it continues to invest in competitiveness at home and credibility abroad. The choices made now will determine whether India becomes a central anchor of the new global economy or remains merely one of its many participants. The opportunity is historic, but it is not automatic. It requires clarity of purpose, institutional steadiness and the confidence to engage the world without fear or favour.
-
-In a world where prosperity and power now move through supply chains rather than shipping lanes, India’s future will be shaped not by choosing between globalisation and self-reliance, but by mastering the art of engaging the world on terms that protect its autonomy while amplifying its ambition.
-
-Shashi Tharoor is the fourth-term Member of Parliament (Congress party, Lok Sabha) for Thiruvananthapuram, the Chairman of the Parliamentary Standing Committee on External Affairs and the Sahitya Akademi Award-winning author of 29 books, including Pax Indica (2012) and The New World Disorder (2020)
-
-[Read full article](https://www.thehindu.com/opinion/lead/trade-supply-chains-and-economic-statecraft/article70984368.ece)
-
----
-
-### Devi Kar | The Rewards & Challenges Of A Mixed Student Body In School
-*Deccan Chronicle · Opinion*
-
-Today, it is almost expected that all reputed schools will be “inclusive”. It is important to clarify at the outset that being inclusive and having a mixed or diverse student population are two different things. The term “inclusive” has a strong element of intentionality, whereas having a diverse student cohort may just be incidental.
-
-However, there are school leaders who look for homogeneity as they feel that a heterogeneous student population is likely to throw up all kinds of complications and challenges, which would definitely get in the way of a smooth teaching-learning process. Generally, teachers are used to dealing with mixed-ability classes and are trained in differentiated teaching, though some schools have a policy of grouping students into sections of each class according to their ability levels. I feel that this system may make teaching easier but it certainly introduces an element of undesirable superiority and inferiority complexes among the students and deprives them of learning lessons of life from students with different backgrounds and experiences.
-
-In many coveted schools that are known for their academic excellence -- not necessarily limited to commendable public examination results -- there may be diverse students, that is, hailing from different communities, regions or even countries, yet socio-economically they may be quite homogeneous. These schools ensure that only those candidates who are likely to perform well in academics are admitted, hence their classes do not pose the challenges that mixed-ability groups usually do. Other schools follow a policy where they admit a percentage of students who come from under-resourced and under privileged communities. In such cases, a different set of challenges has to be faced.Some parents prefer to send their children to schools where they will interact with other children of the same kind. They feel secure that they don’t have to worry about the polish and culture of the families of their children’s friends, the language they would use and the kind of homes they would visit. Befriending children from a different socio-economic stratum altogether would generate all kinds of complications and complexities. Further, even if they open their own homes to such children, they wouldn’t have the confidence to allow their children to visit theirs. Probably, the children from “poor” families would also hesitate to invite their affluent friends to their humble homes or even meet their uneducated, unsophisticated and vernacular-speaking parents.Why is it, then, that some of us strongly feel that a truly mixed student population is desirable in any school for a rich and complete education to be imparted? If a student has to be prepared for the real world, which is one of the purposes of a school education, society outside the school walls must be reflected within, as far as possible. Children will not be able to face life beyond school if they are kept cocooned in an artificial setting. School should give them opportunities to interact with different kinds of children with varied family backgrounds. Not only will they be the richer for it, but they will develop the skills needed to deal with different kinds of people in their adult lives.
-
-If a school has a policy of admitting students from different socio-economic strata, it indirectly strengthens the character of every student, irrespective of background. Those from wealthy homes learn to be compassionate and also to appreciate those who perform well without the facilities and advantages that they themselves are fortunate to have. The children of middle-class parents learn to be proud of their identity and accept that there would always be people who were better off than them and others who were worse. In some schools there are some “free students”, who are from low-income homes. I have seen them grow in resilience as well as self-confidence.
-
-In a conducive environment, children learn how to deal with each other’s sensitivities. I remember the time when I was discussing “inclusion” and “exclusion” with middle-schoolers, a student mentioned that it can happen even in an “expensive” school that a group of girls talking about their foreign holidays or the latest fashion trends make a few individuals feel “excluded” as they could not participate in such conversations. Similarly, those who come to school in chauffeur-driven limousines are unable to relate to the daily commute by public transport that many of their classmates are accustomed to. Reactions can be varied -- ranging from envy and admiration to pity and condescension.
-
-No doubt there are many complex issues that can arise in a diverse school community. However, the dividends are so rich that the challenges pale into insignificance. India is a country with multiple cultures and though there is a strong drive to make everything standard and uniform, I fervently hope and pray that we will always support plurality. We would be sadly impoverished if...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/devi-kar-the-rewards-challenges-of-a-mixed-student-body-in-school-1957165)
-
----
-
-### Manish Tewari | Towards Tighter Online Censorship And Political Dictatorship
-*Deccan Chronicle · Opinion*
-
-When the Government of India introduced the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules in 2021, experts raised concerns about expanded executive influence that tantamounted to Constitutional overreach qua online speech.
-
-Since then, the Rules have steadily evolved through amendments, advisories and executive interventions. The Draft IT Rules Second Amendment, 2026, is yet another major turning point that could reshape the relationship between citizens, platforms, and regulators.
-
-According to MeitY, the proposed amendments are clarificatory and procedural in nature, aimed at strengthening intermediary compliance, improving legal certainty, and enhancing oversight mechanisms relating to online content regulation. However, a closer reading also raises important questions about the scope of executive oversight and the potential impact of the amendments on lawful online expression and the Constitutional Guarantee of Free Speech.
-
-Broadening the scope of online speech regulation
-
-One of the most significant changes is the expansion of the Rules from publishers to ordinary users. The amended Rule 8(1) seeks to bring “news and current affairs content” posted by non-publisher users under the regulatory framework of Part III of the IT Rules. This means the same mechanism originally designed for digital publishers and OTT platforms could now potentially apply to individual citizens posting commentary, analysis or opinions online that constitutes the most extreme form of censorship proscribing the individual’s freedom of speech and expression.
-
-The concern lies not only in the expansion, but also in the vagueness of the definition itself. “News and current affairs content” includes “noteworthy content” relating to socio-political, economic, or cultural issues. In practice, this could cover a wide range of online speech - from an Instagram story discussing elections to a WhatsApp forward about public policy or a tweet criticising government action.
-
-This marks a significant expansion of the regulatory framework into areas of ordinary online expression. The breadth of the language may create room for inconsistent interpretation and uneven enforcement. India has already seen repeated cases involving content takedown requests, blocking orders and pressure to remove politically embarrassing material especially for ruling dispensations both at the Centre and in the states. It would not be trite to state that the misuse of these take down provisions is exponentially more by the Central government. The proposed changes will exacerbate the gross abuse of executive discretion in content governance.
-
-Expanding executive oversight mechanisms
-
-Another notable aspect of the amendments is the expanded role of the Inter-Departmental Committee (IDC), an executive-led body that oversees digital content. The amended Rule 14(2) would give the ministry the power to refer matters directly to the IDC even where there is no complaint from an aggrieved party. This means that the executive authorities could proactively initiate the scrutiny of online content at their own discretion.
-
-This would represent a notable shift in the structure of content oversight. Previously, the framework at least nominally relied on complaints and grievance mechanisms. The new proposal appears to move toward a more proactive model of executive scrutiny where authorities may initiate review of content even absent a user complaint.
-
-The lack of independent or judicial oversight in this process raises serious constitutional concerns.
-
-The proposed amendments also come at a time when several provisions of the 2021 IT Rules are already under judicial challenge before the constitutional courts. The Bombay High Court had stayed portions of the Rules relating to the Code of Ethics and government oversight mechanisms, observing that they could have a chilling effect on free speech. The Madras High Court affirmed that the stay would apply nationally.
-
-Against this backdrop, the proposed expansion of similar oversight mechanisms raises questions about whether further judicial clarity should first be awaited.
-
-Expansion of Due Diligence Obligations
-
-Perhaps the most significant amendment is the insertion of Rule 3(4), which links intermediary safe harbour protections to compliance with government-issued advisories, clarifications, guidelines, directions, and standard operating procedures.
-
-Under Section 79 of the Information Technology (IT) Act, 2000, intermediaries are protected from liability for actions of their users so long as they follow due diligence obligations. This “safe harbour” principle forms the backbone of the modern internet.
-
-Advisories, clarifications, guidelines and standard operating procedures are administrative directions and are not laws made through parliamentary scrutiny. Unlike rules that are debated in Parliament or formally notified and subject to legislative oversight, executive instructions can be ...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/manish-tewari-towards-tighter-online-censorship-and-political-dictatorship-1957160)
-
----
-
-### Ranjona Banerji | Inside The Mind Of  An Internet Troll
-*Deccan Chronicle · Opinion*
-
-How do I insult thee? Let me count the ways.
-
-This must be the favourite poem of trolls who bottom feed on the Internet. Well, before the trolls get to me, I will be upfront: there is no such poem. There is a poem like it, but I have changed one word. Also, I would be impressed if trolls had heard of the poem and also know which word I have changed.
-
-I know. How snobbish of me. No wonder I get trolled. I probably deserve it.
-
-There are though, I have found, three aspects of one’s life which will inevitably lead to incessant trolling.
-
-The first is being female. Now this I had no control over. I imagine I should blame my father. But that makes little sense because it’s not as if he had control over which sperm, it’s just that the sperm determines the XX or XY or any other combinations. Although, I hear there is new research which suggests that the egg decides which sperm to choose. On the whole I think it’s better to blame both parents and thus absolve myself of all responsibility. It seems fairer this way.
-
-Although, don’t tell those trolls which thrive on misogyny that new genetic research also suggests that intelligence comes from the mother. On the other hand, I think I’m falling so deep into rabbit holes that I won’t be able to dig myself out. Because what about those mothers who produced these vicious trolls?
-
-O dear. I’ll stop now.
-
-Anyway, the thing is that trolls don’t like females. Or to be more definitive, females who have opinions which they express.
-
-And what really upsets them is if these trolls are from Bengal. I did not realise that the Bengali woman is such a hated person. How innocent you might say. Most of my life, I’ve been fed up of the other more usual cliches about Bengalis — so cultured, so artistic, so clever and so on. As if every Bengali was some combination of William Shakespeare, Leonardo Da Vinci and Albert Einstein combined. Or in Bengali, Rabindranath Tagore. If you meet half my relations, you would know what a laugh that is.
-
-It was after the sad death of actor Sushant Singh Rajput and the subsequent vilification of a Bengali starlet, that I learnt that the greatest attribute of Bengali women is that they are witches who are experts in black magic. Now, had anybody told me this before, I see that my life would have been very different. Sadly, there was no internet when I grew up and for a good part of my adult life. So, I never met a troll and never learnt this important fact about myself. If any troll reads this, I would be happy to fulfil their fantasies if they could point me in the direction of any witching school which specialises in “jaadu-tona” or is it “kaala jadu”? Either way, do forgive my attempt to try and use words associated with North Indian prejudices. However, surely it is not too late to learn how to punish those who deserve it and revenge they say is best served cold? Watch out, all ye who crossed my path in the past! Er, does this include the trolls? Hmmm. Food for thought. Although I have to find the local equivalent of Hogwarts or wherever Gandalf went to school, something perhaps like the Special Bengali Women’s Higher College of Kaala Jadu and Tona.
-
-Of course, I forgot to mention that many Bengalis are also Islamo-Christo-Fascist-Commie-Congressis. I am not certain what this political combination implies but it certainly makes it clear that these Bengalis are not the bigoted Hindutva right-wing. Except of course those of my relations in Bengal who voted for the BJP. Presumably they get trolled by Islamo-Christo-Fascist-Commie-Congressis, who from all accounts are not as successful as trolls than our dear pals (and relations) on the right.
-
-But you know what upsets these trolls even more than being female, Bengali, witches, Islamo whatever? It’s being all those things plus being concerned about the environment, trees, forests, wildlife, green cover, global warming and that sort of thing. That is the absolute tipping point.
-
-I realised this to my innocent amazement when I posted on social media about the Great Nicobar project. Now I had posted about this before. But posting it after a certain opposition leader had visited the islands of Nicobar was apparently the end of all tolerance. Every misogynistic sexual taunt and verbal assault was thrown at me, with no concern for the various black magic spells that I could throw their way. The rage was total! Bad enough that I was pro-rainforest and anti-development and national security concerns and whatever else enrages them. But to show support for the environment after a visit by an Opposition politician? No way. That cannot be tolerated.
-
-Forests can be chopped down. Wildlife destroyed. Tribals lose their homes. But opposition politicians must be opposed. And as long as thousands of crores of rupees are spent, we can be sure that our security and strategic interests are well looked after. Plus, those of a few friends. O no. I did not just write that. And shh. Not a word about border and security...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/ranjona-banerji-inside-the-mind-of-an-internet-troll-1957179)
-
----
-
-### Congress, finally, reads the Kerala verdict
-*Deccan Herald · Editorial*
-
-Ten days after the Congress-led United Democratic Front (UDF) registered a landslide electoral victory in Kerala, the party’s high command chose V D Satheesan as the state’s new Chief Minister. The uncertainty that prevailed before the high command picked Satheesan did the party no good.
-
-The announcement was delayed because the central leadership backed All India Congress Committee (AICC) general secretary K C Venugopal, who did not contest the election, while the people clearly favoured Satheesan, who led the alliance to this resounding victory.
-
-By prioritising a coterie’s interests above the party and the people, the leadership risked serious damage, given that Kerala is one of the Congress’s few remaining pockets of influence. Left to themselves, the leaders would have decided against the overwhelming will and verdict of the people. This lack of political judgment is even more striking because Congress has lost states when it imposed chief ministers on the people or removed them from office against public opinion.
-
-Its final decision is being hailed as a victory of consensus and the spirit of internal democracy, but the credit should go to the positions taken by the public and the allied parties, the residual good sense of some leaders, and a media consistently critical of this post-results power play. It must be said that even before the euphoria of a massive victory settles, the Congress leadership has lost some credibility.
-
-Celebrations on in Kerala as V D Satheesan is named as Chief MinisterSatheesan was the face of the party and the UDF in the elections. He is not a dynast and is the first from his family to join politics. A leader who rose from the grassroots, the first-time Chief Minister has about three decades of political experience. He is seen by a large section of the cadre as a principled leader who would not cede space to communal interests. Satheesan is also the unlikely politician with a book: a voracious reader with a range of interests.
-
-The new Chief Minister will face multiple challenges in office. Financially, Kerala has just managed to stay afloat, while resisting the Centre’s unfriendly policies. The government will need a substantial revenue thrust to implement the five guarantee schemes announced during the campaign.
-
-The Lok Bhavan can be expected to be at odds with the government on many fronts. Satheesan may also face opposition from the party’s MLAs and even ministers, given the circumstances of his appointment. The high command must ensure that he gets the full backing in what could also be a crucial term for the party’s national footprint.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/congress-finally-reads-the-kerala-verdict-4004689)
-
----
-
-### Tree felling exposes flawed priorities
-*Deccan Herald · Editorial*
-
-The renewed felling of 233 trees in Ballari for road-widening is more than a local environmental issue. It reflects a deeper policy failure in Karnataka’s approach to development – one that increasingly views mature trees as obstacles rather than vital urban infrastructure. What makes this particularly disturbing is not merely the scale of the proposed destruction, but the manner in which it began.
-
-Trees were reportedly felled during the night of April 24 without permission, before police and forest officials intervened to halt the exercise after 25 trees had already been cut down. Separate criminal cases have since been registered against Public Works Department (PWD) officials and contractors. Yet, despite the legal and public backlash, efforts to resume the felling continue.
-
-This episode stands in stark contrast to the vision once championed by former Chief Minister Ramakrishna Hegde, under whose leadership the state consciously invested in avenue plantations and green highways. Roadside trees were treated not as ornamental additions, but as ecological assets essential for shade, temperature regulation, and public well-being. Today, however, the focus appears to have shifted from social forestry to project-driven felling.
-
-While the Forest Department has suggested alternative engineering solutions, including remodelling road shoulders to preserve the trees, PWD officers argue that retaining them would obstruct drainage systems, pedestrian pathways, electricity infrastructure, and road signage.
-
-Around the world, and even in parts of Chandigarh and Lutyens' Delhi, planners increasingly adopt “design-around” solutions such as split carriageways and permeable pavements that protect mature root systems instead of treating tree felling as the default option. This is especially important in Ballari, one of Karnataka’s hottest districts. The removal of large roadside trees could intensify the urban heat island effect and sharply increase surface temperatures.
-
-In hot city Ballari, PWD wants to axe 233 trees for road widening The controversy also raises troubling legal questions. Under the Karnataka Preservation of Trees Act, 1976, large-scale felling requires statutory scrutiny and public consultation. Whether such processes were meaningfully followed before 233 trees were marked for destruction remains unclear.
-
-While the PWD has offered to cover the cost of compensatory afforestation, the Supreme Court has repeatedly observed that planting five or ten saplings for every tree cut is inadequate. A sapling cannot immediately replace the oxygen output, biodiversity value, or microclimatic cooling provided by a 50-year-old tree.
-
-This tree-felling controversy must therefore compel Karnataka to rethink its development priorities. True progress lies not in widening roads at any ecological cost, but in designing infrastructure that respects and preserves natural assets built over generations.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/tree-felling-exposes-flawed-priorities-4004690)
 
 ---
 
