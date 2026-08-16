@@ -1,3 +1,203 @@
+## 16 August 2026
+
+### Go chemical-free to tap global agri market, says PM Modi
+*TNN · general*
+
+NEW DELHI: Identifying agriculture and food production as the "second strength" of the seven streams (Sapta Dhara) of power that can take India to "new heights" in the next 5-7 years, PM Narendra Modi Saturday pitched for transitioning to chemical-free farming and creating integrated farm-to-export supply chains for millets, spices and fruits."We have to move from the farm to the export market. Whether it is our traditional cuisine, our millets, our spices, our fruits or our flowers, we have so much to offer. These should become global brands. Our farmers should give greater impetus to chemical-free farming, as the demand for such products is only going to increase across the world," said Modi. He said, "If our agricultural products meet global parameters in every respect, we will be able to reach markets across the world with ease.
+
+"Absence of supply chain is currently one of the main obstacles before farmers in moving towards crop diversification. Despite attempts to move towards climate-resilient millets, farmers have not found millets as attractive as water-guzzling sugarcane and paddy in terms of getting an assured income.
+
+Govt's focus on tapping the global market through export promotion and creation of adequate supply chains may be an effective step towards crop diversification, to attain the twin goals of increasing farmers' income and promoting sustainable farming through judicious use of inputs.
+
+"We must move forward in the direction of food processing as well... Because of FTAs, we are getting access to a very large market, and we must reach them.
+
+..," said the PM while outlining the seven streams (Sapta Dhara) of power before the country. He identified "manufacturing" as the first strength and "technology and innovation" as the third strength of the seven streams that can pave the way for a developed India by 2047.
+
+---
+
+### Stop expecting women to be perfect victims
+*Anjali Chauhan · legal*
+
+Women do not owe anyone the performance of devastation. They do not owe anyone the right reaction, the right memory, the right amount of anger, the right amount of fear.
+
+[Read full article](https://indianexpress.com/article/opinion/columns/stop-expecting-women-to-be-perfect-victims-10835157/)
+
+---
+
+### Subsidised fertiliser sales halted across Madhya Pradesh, farmers fear supply crisis
+*Anand Mohan J · legal*
+
+Part of ‘stock reconciliation exercise’; order does not announce a date for resumption of sales
+
+[Read full article](https://indianexpress.com/article/india/fertiliser-sales-halted-across-madhya-pradesh-as-government-orders-stock-check-farmers-fear-supply-crisis-10835103/)
+
+---
+
+### Pakistan’s new recruits don’t cross the border. They’re Indian teens
+*Mohamed Thaver · legal*
+
+Over two years, agencies in Uttar Pradesh, Punjab, Rajasthan, Delhi and Maharashtra have traced dozens of young men recruited online by Pakistan-based gangster Shehzad Bhatti and his aides, allegedly at the ISI’s behest. The Indian Express reports on a network that scans Instagram comments for the b...
+
+[Read full article](https://indianexpress.com/article/india/pakistans-new-recruits-dont-cross-the-border-theyre-indian-teens-10835141/)
+
+---
+
+### EXCLUSIVE: Actors Shah Rukh, Ajay Devgn, Tiger Shroff get FDA showcause notices over ‘Vimal Elaichi’ ad
+*Heena Khandelwal · legal*
+
+The regulator says the ad indirectly promotes a pan masala brand banned in Maharashtra. Endorsers face a penalty of up to Rs 10 lakh
+
+[Read full article](https://indianexpress.com/article/cities/mumbai/exclusive-actors-shah-rukh-ajay-devgn-tiger-shroff-get-fda-showcause-notices-over-vimal-elaichi-ad-10835152/)
+
+---
+
+### UGC NET June 2026 answer keys releasing today: Where and how to check
+*Education Desk · legal*
+
+The answer key being released now is provisional. Candidates should check the responses carefully before submitting any objection. NTA will consider the challenges received and, after review by subject experts, prepare the final answer key.
+
+[Read full article](https://indianexpress.com/article/education/ugc-net-june-2026-answer-keys-released-how-to-check-download-link-response-sheet-csir-net-icar-aieea-aice-nta-10834902/)
+
+---
+
+### Roof collapse in Rajasthan school catches Cockroach Janta Party’s attention
+*Parul Kulshrestha · legal*
+
+Students able to get many of their demands heard as administration swings into action
+
+[Read full article](https://indianexpress.com/article/cities/jaipur/how-a-protest-over-school-roof-collapse-helped-alwar-students-get-other-issues-addressed-too-10835101/)
+
+---
+
+### Buried under 45 loads of soil: How search for missing mason led Karnataka Police to his killer brother
+*Atiya Firdos · legal*
+
+A Tumakuru court sentenced a Karnataka man to life imprisonment for killing his younger brother and burying his body in a construction pit.
+
+[Read full article](https://indianexpress.com/article/cities/bangalore/buried-under-45-loads-of-soil-how-search-for-missing-mason-led-karnataka-police-to-his-killer-brother-10835100/)
+
+---
+
+### Taiwan detects 11 Chinese aircraft, eight naval vessels operating near its territory
+*Ani · business*
+
+Taipei: Taiwan detected 11 sorties of Chinese People's Liberation Army (PLA) aircraft, eight vessels belonging to the People's Liberation Army Navy (PLAN), and two Chinese official ships operating around the island up to 6 am (local time) on Sunday.
+
+In a post on X, Taiwan's Ministry of National Defence said that seven of the 11 PLA aircraft sorties crossed the Taiwan Strait's median line and entered the northern and central parts of Taiwan's Air Defence Identification Zone (ADIZ).
+
+"11 sorties of PLA aircraft, 8 PLAN vessels and 2 official ships operating around Taiwan detected up until 6 am (UTC+8) today. 7 out of 11 sorties crossed the median line and entered Taiwan's northern and central part ADIZ. #ROCArmedForces have monitored the situation and responded," the post stated.
+
+  
+
+On August 15, Taiwan detected four sorties of Chinese PLA aircraft, eight PLAN vessels, and one official ship operating around the island up to 6 am local time on Saturday, Taiwan's Ministry of National Defence said.
+
+In another post on X, the ministry noted that three of the four PLA aircraft sorties crossed the Taiwan Strait median line and entered the northern, central, and eastern parts of Taiwan's ADIZ.
+
+« Back to recommendation stories
+
+I don't want to see these stories because
+
+They are not relevant to meThey disrupt the reading flowOthers
+
+"4 sorties of PLA aircraft, 8 PLAN vessels and 1 official ship operating around Taiwan detected up until 6 am (UTC+8) today. 3 out of 4 sorties crossed the median line and entered Taiwan's northern, central and eastern part ADIZ. #ROCArmedForces have monitored the situation and responded," the Ministry of National Defence added.
+
+China's claim over Taiwan is a complex issue rooted in historical, political, and legal arguments. Beijing asserts that Taiwan is an inseparable part of China--a viewpoint embedded in its national policy and upheld through domestic laws and international statements.
+
+Taiwan, however, maintains a distinct identity, functioning independently with its own government, military, and economy. China's historical claim to Taiwan dates back to the Qing Dynasty's annexation of the island in 1683 after defeating the Ming loyalist Koxinga.
+
+---
+
+### Memories of Partition from a railway station in Delhi
+*Vivek Shukla · legal*
+
+The station witnessed thousands of Muslims saying goodbye forever to their homeland and their loved ones. From here, trains used to leave regularly for Lahore.
+
+[Read full article](https://indianexpress.com/article/opinion/columns/memories-of-partition-from-a-railway-station-in-delhi-10835143/)
+
+---
+
+### 'Everyone lives in fear': Yemenis worry about return to all-out war
+*SECTIONS Yemenis worry about return · business*
+
+Dubai: Yemen's years-long civil conflict killed tens of thousands of people, uprooted millions and drove the country to the brink of famine before a 2022 truce restored relative calm. Now, renewed hostilities between the Houthi rebels and the government have many fearing the return of all-out war.
+
+Hodeida native Anwar, a father of two, recalls fleeing the advance of the Iran-backed Houthis, seeking refuge in the city of Mokha.
+
+Last week, explosions startled him and his children as the rebels hit Mokha port, reviving fears of another cycle of displacement and violence.
+
+  
+
+"I do not want our lives to be haunted by constant panic caused by Houthi terror. Mokha used to be a safe city and a haven for many Yemenis," he told AFP.
+
+"The hardest part is not fearing for my own safety, but fearing for my children and family," he said.
+
+Yemen, which has been embroiled in more than a decade of civil conflict, last month became the latest country to be dragged into the Middle East war as the Houthis upended the 2022 truce with the Saudi-backed government, ramping up attacks on areas it holds.
+
+The government said it had retaliated after deadly attacks that hit military camps in the central Marib province and the Mokha port on the Red Sea, as well as residential areas in Marib home to displaced people.
+
+Anwar's three-year-old daughter was born after the truce and has "no idea what war is", he said.
+
+When she heard explosions, she ran to her father and asked what was happening, he said, but he did not have the heart to tell her, saying they were fireworks for a wedding.
+
+With the spectre of war back, Najem Hammoud al-Wahbani, another Mokha resident, said "everyone lives in fear".
+
+"Every day, Houthi missiles and drones fly overhead. We hear shelling in the distance, but we fear that, tomorrow, it could be right here."
+
+## 'It could destroy everything'
+
+Last month, the Houthi rebels welcomed an Iranian plane landing in the capital Sanaa, setting off a spate of tit-for-tat attacks.
+
+They later announced a maritime blockade of the government's backer Saudi Arabia -- which led a coalition that heavily bombed the country throughout the war -- hitting its tankers in the Red Sea and attacking government forces in Yemen.
+
+Mohammed Ali, who was displaced from Hodeida province to al-Khokha, north of Mokha, was considering moving his family further east to Aden.
+
+If fighting reaches Khokha, where he runs a construction business,"it could destroy everything, including my future and my children's future", he said.
+
+The Houthis have ramped up provocations of their Saudi foe since last month.
+
+Earlier this month, the rebels launched their deadliest attacks in years, killing 58 government troops, according to a military source, mainly in oil-rich Marib province.
+
+Two civilians were killed in Houthi shelling on residential areas and displacement camps in Marib that same day.
+
+## 'Where would I flee?'
+
+Marib is divided between the government and the Houthis and has become a flashpoint for attacks. It hosts 60 percent of all internally displaced people in Yemen, according to the International Organization for Migration.
+
+Ali Munif, 46, has been living in a displacement camp on the outskirts of Marib city since his village was overrun by the rebels in 2021.
+
+"If war returns to Marib, where would I flee?" he asked.
+
+A mother of one living near one of the military camps that were hit told AFP the strikes shook the windows and doors like a quake.
+
+"It brought back the fear, anxiety, and despair we experienced at the height of war," she said, requesting anonymity for security concerns.
+
+The experience shook the charity worker, who has had trouble sleeping since the attacks.
+
+"We now live with the constant thought that we could become a target at any moment," she said.
+
+---
+
+### Power of the name: Why ‘Mecca’ matters in new defence pact
+*© The Indian Express Pvt Ltd Pakistan Saudi Arabia Make Us Preferred Source · legal*
+
+Why do governments spend time choosing highly symbolic titles for their treaties? The answer lies in how shared ideas and symbols shape our political world
+
+[Read full article](https://indianexpress.com/article/opinion/columns/power-of-the-name-why-mecca-matters-in-new-defence-pact-10835155/)
+
+---
+
+### Armed Naxals gone, now identify & isolate 'dimagi Naxals': PM Modi on Independence Day
+*Manash Pratim Gohain · general*
+
+New Delhi: The youth took centre stage in Prime Minister Narendra Modi's Independence Day address on Saturday as he unveiled a host of initiatives, including free online coaching and AI skilling, but also warned against "dimagi Naxals.
+
+..looking for ways of violence and anarchy", who, he said, must be "identified" and "isolated".The PM's 13th consecutive speech from the ramparts of Red Fort, over 75 minutes long, was marked by repeated invocations of the youth, who were the face of the most consequential protest his govt has faced since 2014, leading to education minister Dharmendra Pradhan's resignation and a slew of legislative and executive measures to reform the examination system.The PM emphasised the threat "dimagi Naxals" pose even as his govt has largely eliminated "hathiyari Naxals" (armed Naxals). Modi has often used the term "urban Naxals" to describe sympathisers of the Maoist movement. His coinage of "dimagi Naxals" appears to be a nod to the belief in BJP circles that hardcore Left groups, especially AISA, the student wing of CPI(ML), played a key role in mobilising and sustaining support for the Cockroach Janta Party-led protest.
+
+"These dimagi Naxals are looking for ways of violence and anarchy. They are resorting to various tactics to drag society to the wrong path. We must identify these dimagi Naxals, isolate them, and steer the nation's youth toward the mainstream effort of transforming India into a developed nation," he said.The challenge of 'dimagi Naxals should not be underestimated' as they used to have presence in "corridors of power", even as advisers in govt committees, he emphasised. BJP has accused Congress of keeping people with professed Naxal sympathies in committees that shaped policies during UPA's tenure in 2004-2014.
+
+
+---
+
 ## 15 August 2026
 
 ### Independence Day bank holiday: Are banks open or closed on August 15? Check status - The Economic Times
