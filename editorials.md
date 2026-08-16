@@ -1,8 +1,220 @@
 # Editorials
 
-_Last updated: 2026-08-15 02:34 UTC_
+_Last updated: 2026-08-16 02:43 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 16 August 2026
+
+### Pavan K. Varma | Students: Be Non-partisan; Stop Protests, Drive Policy
+*Deccan Chronicle · Opinion*
+
+On August 6 in Mumbai, RSS chief Mohan Bhagwat made a significant comment: “If Gen Z is protesting, they're not anti-national. They're our own people. They're our next generation.” He also said that, the grievances of Gen Z are genuine, and if asked whom he would trust, he would place his faith in Gen Z.
+
+At a time when student dissent can easily be classified as subversion, conspiracy or anti-nationalism, the RSS supremo has chosen to give the protests a remarkably generous vote of confidence.
+
+This assumes greater significance because only days earlier a senior RSS functionary, Atul Limaye, the organisation's joint general secretary, had apparently taken a markedly more suspicious view of the movement. Speaking to ABVP activists at Chhatrapati Sambhajinagar on July 30, he alleged that anti-national slogans were raised from the CJP stage and described the wider movement as an attempted “subversion of democracy through democratic means”. The distinction between the two approaches is important.
+
+Essentially, Limaye was asking who is behind the protest, while Bhagwat was asking the more fundamental question: why are the young protesting?
+
+The Cockroach Janta Party (CJP) and the larger Gen Z protest has set political parties at war with each other.
+
+The Congress blames the BJP for atrocities on the protesters in Delhi.
+
+The BJP is attacking the Congress for the violence against protesters in Jharkhand.
+
+Amidst this vociferous acrimony, Parliament was a washout.
+
+Objectively, it seems quite apparent that all political parties are trying to appropriate the youth unrest for their own political benefit. The critical question is whether this generation can escape the older mechanisms of political co-option. This would depend, of course, on how these protests develop and sustain themselves in the future. If the present unrest remains confined to individual examinations, recruitment scandals and campus grievances, it may gradually dissipate. But if disparate grievances begin to converge around a larger demand about governance and accountability of the entire political establishment, it could pose a new and real threat.
+
+The student movement did not emerge from a vacuum. The Neet examination controversy was the immediate detonator. For young Indians, competitive examinations are not merely examinations. They are often the principal gateway to a respectable career, social mobility and the fulfilment of family expectations. Years of preparation, enormous financial expenditure and intense emotional pressure are invested in them.
+
+If the sanctity of such examinations is compromised, the young do not merely lose marks. They lose faith in the promise that effort will be rewarded.
+
+That is why the agitation has acquired a significance far beyond Neet. The deeper grievances are about corruption, unemployment, police action, bureaucratic arrogance, authoritarian tendencies, and
+
+the perceived erosion of institutions. What began as a demand for fairness in an examination has become by now equally about whether the system delivers.
+
+Concerns like this cannot be lathi-charged out of existence. The students want examinations they can trust. Jobs they can compete for fairly. Institutions that are impartial. Police forces that exercise restraint. Universities where questioning is not treated as disloyalty. Governments that
+
+And elections that are fair.
+
+For decades, the political system has known how to mobilise the young through caste, religion, region and ideology. Mandal mobilised one set of identities; Mandir another. Political parties have become adept at converting social distinctions into electoral arithmetic. But what happens when a young person begins to see another student — not as a Hindu or Muslim, Brahmin or Dalit, North Indian or South Indian — but as someone confronting the same examination, the same unemployment, the same uncertainty and the same institutional failures?
+
+The really transformative possibility then is not that Gen Z will become another political party but a new political constituency. Such a constituency would be uncomfortable for everyone. It would trouble the BJP because it could not be easily absorbed into the politics of religious divides. It would trouble the Congress because the Opposition's attempt to piggyback on youth anger cannot conceal its own dynastic baggage and organisational infirmities. It would trouble regional parties because a pan-Indian youth identity could cut across carefully cultivated caste and regional loyalties.
+
+The Opposition will inevitably attempt to use the movement. That is the nature of politics. But the young should be wary of becoming the foot soldiers of parties whose own record they have every right to question. A movement that demands accountability from the government must demand it from the Opposition as well.
+
+The challenge for the young is, thus, not to exchange one form of political manipulation for another, but to see themselves...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/pavan-k-varma-students-be-non-partisan-stop-protests-drive-policy-1979519)
+
+---
+
+### Shreya Sen-Handley | Battle Won, Who Might The Roaches Bite Next?
+*Deccan Chronicle · Opinion*
+
+When you were little, and from an Anglicised clan such as mine, you might’ve heard chimed, “Night, night, don’t let the bed bugs bite”, as you were put to bed at slumber-time.
+
+But if bugs can bite, I remember questioning, did they have the necessary dental apparatus? The masses of mosquitoes in the monsoons, certainly left enough red welts on tender skin, to make a child imagine bloodthirsty fangs sinking into them after dark.
+
+If a part of my childhood was spent in the mosquito-infested gullies of Kolkata, however, the other half was in typhoon-tossed Manila, which was as mosquito-free as it was cockroach-crammed! The horror everyone evinced for those creepy-crawlies was only outdone by the protective zeal demonstrated by our dog, lunging behind sofas in pursuit as if weapon-wielding thugees had suddenly sprung up, leading me to wonder which was the more fearsome; the winged vampires, aka mossies, of my early years, or the indestructible cockroach swarms of my tween era.
+
+The answer to this question was revealed just last month, when India’s youth, labelled cockroaches by the Chief Justice, proudly, and with tongue firmly in cheek, embraced the appellation to take on the might of the incumbent authoritarian Indian government and WIN against them (perhaps only temporarily, as the aftermath is proving, but that doesn’t diminish what they managed to achieve, or their courageous resilience). Gen Z showed Gen X (and the Boomers, undoubtedly; architects of so much that’s wrong with the world today) how to hold power to account and make it pay (if only lightly, this time). They proved that ordinary citizens need not be toothless.
+
+Talking of teeth, our household’s been particularly toothsome these last few weeks. With my son’s braces being fitted, we’ve grown long in the tooth from sitting about in dentists’ and orthodontists’ waiting rooms.
+
+Both my son and daughter have inherited my healthy (haven’t had a cavity yet, and I’m in my fifties — hooray!) but unusually large and crooked teeth. They also have their father’s British genes to contend with, which doesn’t confer the strongest or whitest teeth.
+
+But if the British were as unconcerned about their teeth as American jokes make them out to be, dentists’ lobbies would not be heaving. It’s true that in the past, Brits could be rendered toothless as early as their thirties, so poor was their dental DNA, not to mention their hygiene. Was that why they were so attached to their cannon balls and muskets, you ruminate (as it would be a tad rude to ask anyone else), because nature supplied them with feeble natural defences?
+
+In the present, however, it is Americans who have firearms as appendages, and a teeth-burnishing obsession that leave them resembling Mister Ed (I know, I know, I’m a glass-house dweller if ever there was one!), awaiting the cleansing of the Augean stables. Even vanilla Friends satirised this slice of Americana, by having socially-awkward Ross whiten his teeth to a dusk-busting fluorescence, but only the degree of dazzle was spotlighted.
+
+If it’s sharp social commentary we want, Zadie Smith’s White Teeth has a great deal more bite. Published at the start of this century, with an Asian family central to the story, the political and racial landscape she digs into incisively, isn’t wildly different from the one we inhabit now.
+
+Walking along Belgrave road in Leicester a few weekends ago, eyeballing its large, colourful Bombay film murals (Rishi Kapoor and Dimple in Bobby gracing a pink backdrop, Sridevi peeking from behind bangles in an iconic eighties stance, and the sensuous Rekha from Umrao Jaan following you with her eyes), gleaming gold jewellery in shiny showrooms, and shimmering sarees in big and small family stores, as we breathed in the fragrances emanating from the rows of Indian restaurants dominating the neighbourhood, I was heartened that such a place existed in Britain, nor was it alone, but also fearful that the resurgence of overt, and often violent, racism might spell the end for these rare blossoms of British cosmopolitanism.
+
+The point is not that all of Blighty should look like this, not remotely, but that the Britain of the green and pleasant locales I love deeply — the tranquil tarns and tors of the Lake Poets, Shakespeare performed in bowering rose gardens, and golden Cotswold cottages — does, in fact, fit beautifully with the drama of Asian-flavoured oases, each enriching the other rather than tarnishing their unique resplendence. And this is true of anywhere on earth, delights of every hue and heritage only add to the magnificence of a place!
+
+But the world is increasingly more determinedly narrow-minded, and more brazenly confrontational as well. Consequently, never have I been more anxious about the future of Britain’s multi-ethnic, multicultural youth than today. They’ve always faced many more obstacles than their white counterparts, but racist practices were covert in the recent past, and in some quarters, frowned ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/shreya-sen-handley-battle-won-who-might-the-roaches-bite-next-1979522)
+
+---
+
+### Gen AI’s epochal music moment
+*Deccan Herald · Opinion*
+
+Over the past few weeks, I subscribed to three AI music generation platforms and dabbled in them to understand what they can do. Their capabilities are staggering and represent a watershed moment in history. We are perhaps at the juncture where generative AI could do to musicians what the power loom did to weavers, printing did to calligraphers, and photography did to painters.
+
+What we regarded as the highest accomplishment of human evolution – the ability to create and play music – now looks like child’s play. Musicians have likely arrived at a most difficult crossroads in history, when all the values they regarded as eternal suddenly look meaningless. The long years of discipline and rigour it took to master an instrument and train a voice look redundant. The eclectic listening a composer invested looks like nothing compared to what a machine can scan and learn from. Collaborations make little sense when all you need to do for a change of genre is change your prompt from K-pop to swing jazz to ‘80s Bollywood.
+
+Walter Pater famously said, “All art constantly aspires to the condition of music,” placing it above writing, painting, and sculpture. That is the aura now in jeopardy. Anyone with a phone and zero knowledge of poetry and music can create music.
+
+Suno is the most popular app in the new world of AI music generation. What it can pull off is unprecedented and mind-boggling – all you do is give it a text prompt, and it can write lyrics, make a tune, arrange the orchestra, and deliver a song in less than a minute. You can tweak the lyrics, change the genre, and get another version, again within a minute. And you can continue generating version after version, changing the voice, changing the style, and altering the lyrics. Ace Studio has a steeper learning curve; Fadr began as an AI mastering platform and recently introduced a song remixing feature. Google’s Flow Music, which does not ask for a subscription, has some catching up to do with the competition.
+
+The first few songs that I got Suno to do sounded so rich they sounded right out of big-budget film and pop albums. Someone I know who listens to music all day in a professional capacity said he could easily distinguish between human recordings and AI songs, but non-specialists won’t get there in a hurry. You might assume the machines would be far from comfortable in Indian languages. No. What Suno can render in Kannada, for example, is convincing. The pronunciation gives you no room to complain. I can’t say the same of the Kannada lyrics, though. What AI generates sounds like a silly mish-mash of recent film songs.
+
+Karnataka CM DK Shivakumar unveils ‘Jobs Mission’, AI varsity and tech hubs in 80th I-Day addressLaunched in December 2023 by a four-member team of machine-learning researchers in Massachusetts, it is now in Version 5.5. One of its latest features is that it can clone your voice with 10 seconds of audio and then generate songs using your voice. It has run into legal problems, with Universal Music Group and Sony Music suing it for copyright infringement in training its models. Suno is navigating those choppy waters by getting into licensing arrangements.
+
+The implications for professional musicians are wide. If film scores, songs, jingles, and session vocals are all made on an app, what is left for the singers and instrumentalists to do? What happens to the music producers, sound engineers, and studios? And if you are in the business of music reviewing, how do you tell what is machine-generated and what is human? And on a philosophical level, what is truth in music? What should music teachers, schools, and conservatories teach?
+
+Earlier advances in music technology – the synths created new sounds, multitrack sequencers enabled one person to play many instruments, auto-tune corrected what a singer sang, and the Digital Audio Workstation (DAW) put a studio on a laptop – did not eliminate the musician. But generative AI is different, as it seeks to replace the musician with a description.
+
+Like weaving, painting, and calligraphy, live music will not go away, but technology is aggressively redrawing its contours. Musicians will use AI to sketch out ideas faster, combine their tunes with AI arrangements, and make music without visiting a studio. Live performances, especially improvisational music, could acquire new audiences. Who knows, we could find fresh virtue in human imperfection and value the human pursuit a little more.
+
+The writer often sees high art in kitsch and vice versa. Write to us at: theprism@deccanherald.co.in
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/gen-ai-s-epochal-music-moment-4112788)
+
+---
+
+### Looking for equality in the past
+*Deccan Herald · Opinion*
+
+A conference I organised recently at Vidyashilp University discussed nineteenth- and twentieth-century Indian thinkers of equality. Exciting as this intellectual exercise was, I was a bit uneasy that its focus on the modern period might reinforce the prevailing view that equality was a modern ideal. While the view that all humans are equal and whose rights and freedoms are secured by the state did gain worldwide currency following the French Revolution, other moral imaginations of equality have existed before and since.
+
+For instance, a Kannada verse of Devara Dasimayya, the twelfth-century weaver poet-saint, affirms that the self (atman) is neither male nor female: “If they see breasts and long hair coming/ they call it woman/ if beard and whiskers/ they call it man:/ but, look, the self that hovers/ in between/ is neither man/ nor woman/ O Ramanatha” (Translator: AK Ramanujan).
+
+M D Pallavi, the well-known singer and actor, offered to set to music and sing the verses I selected as embodying different visions of equality in a concert. (Opening the conference, Atmageete, a minimalist vocal-and-acoustic-guitar concert, saw her move brilliantly among enchanting voices from different languages, periods, and regions of the country). I rummaged through English translations of a few celebrated Bhakti saint-poets. Rather than imaginations of equality that conformed to what we take to be equality today, I looked for verses that affirmed a desire for equality in their own times.
+
+Rejecting all human rulers, a Tamil verse by Nammalvar, a ninth-century saint-poet, declares Vishnu to be the only lord: “My lord of a thousand names gives and gives/ the fame of his giving crosses all boundaries/ I cannot praise anyone else, cannot say to some paltry thing of this world: ‘Your hand is bounteous as the rain/ Your shoulders are as strong as the mountains.’/ I cannot tell such barefaced lies” (Translator: AK Ramanujan).
+
+A verse by Lal Ded, the fourteenth-century Saiva woman saint-poet from Kashmir, observes that the sun shines on all lands, not only on the rich, and that water flows in every home, and concludes that Shiva is difficult to attain.
+
+Found in the Guru Granth Sahib, a verse by Ravidas, the fifteenth-century saint-poet and worshipper of a formless God, dreams of a city free of pain, crime, and taxes, where no one owns property, and all are one, without anyone being ranked second or third. A verse by Mirabai, the sixteenth-century saint-poet and devotee of Krishna, extols Shabari, a poor, ragged Bhil woman of ordinary appearance, whose loving devotion to Ram—who saw no one as high or low—led him to accept the fruits she had already tasted to check for their sweetness.
+
+Space of equality cannot be converted into an arena of caste humiliation: Karnataka HCFor Bulleh Shah, the eighteenth-century Punjabi Sufi poet, true devotion brought a transcendence of all binaries. After declaring himself neither hungry nor full, neither naked nor clothed, neither a sinner nor a virtuous man, neither sad nor happy, he says: “The mind fixed on God leaves behind the duality of Hindu and Turk.” (Translator: Christopher Shackle).
+
+Vemana, the seventeenth-century Telugu saint-poet, refutes untouchability by showing it to be illogical: “When the pariah touches you/ you plunge into water/ When you depart to the cremation ground/ the pariah burns your body/ The filth that touched you then/ Where did it go now.” (Translators: J S R L Narayana Moorty and Elliot Roberts).
+
+Equality does not only concern humans. Composed by Narayana Guru, the nineteenth-century philosopher-saint from Kerala, Jiva Karunya Panchakam (Five Verses on Kindness to Life) opens with this verse: “All are born of the same Self/ there is no other way to say it;/ how then can we kill living beings/ and eat them with least pity.” (Translator: Vinaya Chaitanya).
+
+These so-called spiritual verses have had real-world consequences; for instance, they have seen the emergence of new communities of faith.
+
+The verses above are indeed anchored in differing theological visions: Saivism, Vaishnavism, and Sufi Islam. Are we obliged to accept these worldviews fully before engaging their moral poetry? Are we merely flirting with the latter otherwise? Knowing the philosophical foundations of these verses doubtless enriches the appreciation of their depth and texture. But the verses can exude a moral force even otherwise, stirring our ethical and aesthetic instincts in unexpected ways. My mother’s lesson that the left hand should not know what the right hand gives has stayed with me since childhood. The later realisation that what I had taken to be a Kannada saying had its origins in a Biblical injunction was important to me, but it did not take away from what it had meant to me all along. And then there is the question: did the saint-poets compose only for their followers? Surely not.
+
+The writer is a Vidyashilp Professor who looks for new ways of looking. Write to us at: theprism@deccanherald.co.in
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/looking-for-equality-in-the-past-4112790)
+
+---
+
+### Egoistic encounters paralyse Parliament
+*The New Indian Express · Opinion*
+
+A healthy democracy rests on three essential Ds: dialogue, debate and deliberation. After which a fourth D, decision, must follow, whether by majority or consensus. The purpose of the first three is not to prevent the fourth, but to ensure that when a decision is finally taken, it has been tested against competing arguments and subjected to public scrutiny. The cardinal principle of a robust democratic architecture is well settled. The opposition must have its say. The government must have its way.
+
+India is just killing this spirit. The just-concluded monsoon session exposed the malaise. Eleven Bills were passed by both the Houses. Seven of them received five minutes or less of discussion in the Lok Sabha, a total of 28 minutes. Nine of the 11 were passed with no member speaking except the minister in charge.
+
+The last day of the session captured the decline perfectly. Prime Minister Narendra Modi was present. Home Minister Amit Shah was present after weeks of opposition demand that he answer questions about police action against students. The Leader of the Opposition Rahul Gandhi and senior colleagues were present, too. Yet the House could not turn that gathering into a debate.
+
+Outside, rival groups of MPs staged protests against each other. Inside, slogans drowned speech until the Speaker adjourned the House sine die. The exchange between the Home Minister and the Opposition was revealing. He offered a full debate and said he was ready to answer questions. The opposition rejected the government’s terms and insisted on its own.
+
+The LOP later said sustained pressure on the Prime Minister and home minister was the only way to enforce accountability. The government accused the opposition of running away from debate. Both claims may have served short-term politics. Together they showed that the middle ground where negotiation once happened has almost vanished. Personal style has sharpened the problem.
+
+On the other hand, the LOP chose open confrontation as a tool of effective resistance. But these instruments become dangerous when firmness hardens into refusal to give an inch and political combat replaces the work of the House. An older generation of political managers understood the difference between election season and parliamentary season.
+
+Men such as Pramod Mahajan, Kamal Nath and Ghulam Nabi Azad could fight hard in public and still strike deals in private because they knew the other side also had pressures to meet. Their task was not only to defend their own side but to keep the House working despite disagreement. That skill of quiet persuasion is just missing in the current leadership of all the parties.
+
+Today, the language is more combative. A minister’s challenge to the LOP to face the home minister in the House turned the issue into a contest over who was running away, rather than a search for a way to let the House function. The opposition cannot escape its share of blame. Its duty is to question and expose. Disruption is not a substitute for that duty. The credible and the stronger option for Rahul was to allow the home minister to speak without setting any preconditions. And then dismantle the answers with facts and evidence.
+
+The government carries equal responsibility to run the house. A majority is a mandate to govern, not a licence to treat the opposition as a nuisance. A strong leader should be willing to be questioned and examined for legislative and administrative actions. The opposition has no right to veto the government’s programme, yet it has every right to insist that Bills be debated and tested before numbers are used to pass them.
+
+Unfortunately, numbers have been used as a weapon to silence contrary opinions for long. Numerical advantage has been weaponised by all ruling parties to curtail sittings. The decline did not begin with the present government. The 13th Lok Sabha sat for 356 days, the 14th for 332, the 15th for 357 and the 16th for 331. The 17th sat for only 274 days, the lowest for any full term. The 15th Lok Sabha alone lost 803 hours to disruptions. When it sits for fewer days, loses hours to chaos and sends fewer Bills for detailed study, Executive power expands by default.
+
+The formal checks on the misuse of powers by both the government and opposition remain on paper, leading to a total collapse of the principle of participatory democracy. The same pattern appears in the states, where many legislatures meet for fewer than 50 days a year. Elections alone do not keep a democracy healthy. Legislatures need time, authority and seriousness if they are to question those who govern.
+
+The remedy is not to weaken the government or to let the opposition freeze it. India needs a return to the politics of give-and-take: concede a little on procedure to gain substance, allow the other side its argument so that one’s own can be stronger. That is not soft politics. It is the practical grammar of parliamentary narrative.
+
+Powerful personalities must remember the difference between personal authority and institutional legitimacy. Elections reward mobilisation. Parliament requires negotiation. Ruling alliances or Prime Ministers cannot treat the House as a mere extension of their electoral triumph. The opposition cannot treat disruption as the main proof of accountability.
+
+The visible erosion of parliamentary dialogue can lead to a much dangerous pushback from civil society. Once citizens conclude that Parliament cannot settle political fights, they will look elsewhere, to the streets and extra-parliamentary confrontations. The political class still has time to reverse the slide. The government must talk before confrontation lead to calamitous outcomes. The opposition must question without stopping the House.
+
+India does not need a Parliament free of conflict. It needs one able to turn differences into debate, debate into deliberation, and deliberation into decisions that carry consensual legitimacy. After 79 years of independence, Indians expect civilised conflicts between an ideology and an alternative ideology, between leaders led by convictions, not conveniences. Egoistic encounters shouldn’t be allowed to inflict an unbearable pain of parliamentary paralysis.
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/pc/2026/Aug/15/egoistic-encounters-paralyse-parliament)
+
+---
+
+### Case for 850 MPs, record of 543 MPs, nine Bills, no debate
+*The New Indian Express · Opinion*
+
+Updated on: 15 Aug 2026, 7:20 pm4 min readCopiedParliament’s monsoon session was adjourned sine die on Thursday. In 19 sittings it passed 11 Bills. Ten of them took a combined 64 minutes on the floor of the Lok Sabha. In the case of nine Bills, only the piloting minister spoke and there was no debate. Question Hour in the Lower House functioned for 9 minutes across the entire session—1 percent of the time allotted—and of 380 questions listed for oral answer, two were answered.
+
+That damning record brings into focus the quest to ramp up the number of MPs. Ironically, the one Bill the government could not move this session was the one aimed at expanding Parliament—the Delimitation Bill, 2026, which would raise the Lok Sabha from 543 seats to 850, mired in a swamp of politics and arithmetic.
+
+The case for enlargement rests on the claim that smaller constituencies equal closer representation, and that closer representation means better governance. The first half of the proposition is arithmetic. The second is an empirical claim—and the weakest plank in a package carrying a great deal more than it advertises.
+
+Begin with what an additional member could actually do. The 7th Schedule places defence, foreign affairs, currency, banking and railways with the Union, and public order, police, public health, agriculture, land and local government with the states. The Tenth Schedule disqualifies a member who votes contrary to the direction of his party. Intervention is limited by the political placard of the day—the number of calling attention and adjournment motions this session: zero.
+
+Expansion of political representation is widely believed to improve governance via highly localised constituencies. The presumption of better outcomes is debatable. Veda Narasimhan and Jeffrey Weaver studied 12 lakh hyperlocal representatives across 1.5 lakh local governments (panchayats). The conclusion: “We find precisely estimated null effects” on core functions, including programme delivery and oversight over public finances. Another meta analysis of legislature size and public spending, led by Danilo Freire and published in the British Journal of Political Science, found “no robust evidence” that legislature size moves government budgets in either direction.
+
+The thesis of higher representation is challenged by studies and by the anatomy of governance. Every parliament session sees ministers weave and dodge accountability for poor services. The standard formulation: health, education, law and order, cities, water, agriculture, land, labour permits are state subjects. The addition of 307 MPs will not change outcomes. They will put the same question 307 times and get the same reply.
+
+Legislative power is backed by spending power. Last year, the states cumulatively spent Rs 63.54 lakh crore, much more than the Rs 50.65 lakh crore targeted by the Union. This year, the Union government is expected to spend over Rs 53.47 lakh crore. The biggest allocations are for subjects under the purview of states. Indeed, most of the 191 major schemes—including 29 PM-linked schemes with allocations of over Rs 4 lakh crore—are subjects listed under the states.
+
+This week girl, students at schools in Lucknow, Alwar, Kannauj and Ujjain were out on the streets—in one case, the students locked themselves in their classrooms—seeking better conditions and more teachers. Last week, this column had highlighted that despite claims of 100 percent electrification, over 73,000 schools have no electricity.
+
+In the 80th year of independence, over a lakh schools with 29 lakh students are single-teacher ones. Across primary healthcare centres and community centres, the positions for 9,765 doctors, 5,223 specialists, 1,910 radiographers, 8,976 pharmacists, 8,979 lab technicians and 21,843 nurses are vacant.
+
+Almost every misery haunting the life and livelihood of citizens must be cured by the states. The missing constable, the run-down primary health centre, the teacher-less government school, the chaos in land records, vacant posts, the problem of contaminated water, slums in towns, the flooding in cities, tanker mafia thriving on poor water supply, silt and litter in municipal towns are all List II or List III.
+
+The case for 850 MPs flies in the face of the track record of the 543 who are there. The authors of the Constitution had vested powers with the central government to scaffold the Union and empowered the states to deliver development. The trouble is that the key to power is vested in appropriation of resources. Successive Union governments pushed through amendments—the worst being the 42nd—and virtually colonised the states. Policy is designed in Delhi and implementation is with the states. The locus of poor governance is the divorce of authority and accountability.
+
+There is no disputing that Indians need better representation. The question is where—the need for representation is far greater at ground zero. What would be the necessary and sufficient conditions? India’s next phase of growth depends on structural reforms. Start with reversal of the 42nd Amendment and restoration of the 7th Schedule to the original format Babasaheb Ambedkar and Alladi Krishnaswami Iyer had envisaged.
+
+Delhi is scarcely the repository of wisdom—every major reform and welfare idea has come from the states. Empower the third tier of government with funds, functions and functionaries. Only when that foundation is in place does the argument for more representatives, at any tier, acquire legitimacy.
+
+The US has not changed the size of its House of Representatives since 1913, capping it at 435, nor of its Senate since 1959, though its population has trebled. The oldest democracy and largest economy has not needed numerical optics. The addition of MPs without structural reforms may address the political deficit, but not the development deficit. Representation is not a number. It is power. What is on offer is the number.
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/Aug/15/case-for-850-mps-record-of-543-mps-nine-bills-no-debate)
+
+---
 
 ## 15 August 2026
 
@@ -108,6 +320,23 @@ Though the Bar Council rightly withdrew the defective order within hours, its is
 Every student has the right to decide from whom they want to receive their degree certificate. If a student does not wish to accept the certificate from a judge, it does not amount to contempt because the distribution of certificates is not a judicial function and, hence, does not lower the majesty of the court.
 
 [Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-bar-councils-self-goal-at-nalsar-1979280)
+
+---
+
+### Anita Katyal | Will Pradhan Be Next Odisha CM? Diggy, Nath Fret After Datia Win!
+*Deccan Chronicle · Opinion*
+
+Will former Union education minister Dharmendra Pradhan replace Mohan Charan Majhi as the next Odisha chief minister? Speculation in this regard picked up speed soon after Mr Pradhan resigned from the Union Cabinet following the unrelenting student protests over the Neet exam paper leaks. On landing in Odisha after his resignation, Mr Pradhan undertook a road trip to his parliamentary constituency Sambalpur where he addressed a public rally, spoke positively about Gen Z and went on to invoke Odia pride which was also the BJP’s main campaign theme in the last Assembly election. En route to Sambalpur, Mr Pradhan was accorded a warm welcome by party cadres, sending out a clear message that the former minister’s resignation has not impacted his popularity in his home state. Mr Pradhan plans to undertake an extensive tour of the state in the coming days which has fuelled chatter that this is all in preparation for his appointment as chief minister of Odisha in the near future. In fact, Mr Pradhan had hoped to occupy the chief minister’s kursi when the BJP wrested the state from the well-entrenched Biju Janata Dal two years ago but preference for a tribal leader denied him the post then. Though forced to step down as education minister, Mr Pradhan continues to enjoy the confidence of the Bharatiya Janata Party’s top leadership which is expected to rehabilitate him at the earliest opportunity.
+
+After avoiding Parliament for nearly three weeks, Union home minister Amit Shah broke his silence a day before the Monsoon Session came to a close, stating that he was ready to respond to a debate on last month’s student protests over the Neet exam paper leaks. The offer was summarily rejected by the Congress-led opposition, which had stalled proceedings to press its demand for the same debate and a response from the home minister on the July 20 police action against the Jantar Mantar student protesters. But the question being asked is why did the home minister take so long to respond to the Opposition’s demand. The growing view in the Capital’s political circles is that Mr Shah’s readiness to reply to a discussion was linked to the ongoing student protests in Jharkhand which took a serious turn last week when protesters were lathi-charged by the local police. Since the Jharkhand government is run by the JMM-Congress coalition, it can be safely surmised that Mr Shah’s reply would have put the Congress in the dock, shifting the focus away from the Delhi violence. Well aware that the belated offer of a debate was a trap, the Congress wriggled out of a potentially difficult situation by upping the ante and demanding Mr Shah’s resignation.
+
+These days, the Bharatiya Janata Party is constantly being accused of over-centralisation. The Parliamentary board, the party’s highest decision-making body, it is said, is barely consulted on key issues while chief ministers line up for an audience with the BJP’s top leadership for approval of their major policies and appointments. From all accounts, the BJP appears to have taken a cue in these matters from the Congress which has always had a “high command” culture.
+
+For instance, when the Karnataka Cabinet was expanded earlier this month after several rounds of discussion, the list of new ministers was released by K.C. Venugopal, Congress general secretary in charge of organisation. This was highly unusual as such announcements are normally made by the chief minister concerned for it is his prerogative to pick his team. However, it is known that Congress chief ministers, over the years, were required to get the final go ahead for their ministerial appointments from the party leadership. In many cases, they camped in Delhi for days for consultations. But the names were announced by the chief minister to keep up the façade that he enjoys functional autonomy. Clearly, this façade has now been done away with.
+
+Former Madhya Pradesh chief minister Kamal Nath and Digvijaya Singh have reason to be concerned after the Congress won the Datia byelection by defeating the ruling Bharatiya Janata Party. The reason: The Datia victory is the Congress’s first Assembly bypoll win in Madhya Pradesh since Jitu Patwari took charge as its state unit president over two years ago. Mr Patwari has been struggling to establish himself since then. The Datia win has come as a godsend as it has raised his profile. This is exactly what must be worrying the senior Congress leaders. Known to be local “satraps” with considerable influence over the state Congress cadres, both Kamal Nath and Digvijaya Singh are now keen to use this influence to promote their sons. Mr Singh’s son Jaivardhan Singh is a member of the Madhya Pradesh Assembly while Kamal Nath’s son Nakul Nath lost the 2024 Lok Sabha election after winning from Chhindwara in the 2019 election. It is not good news for the two sons if other younger politicians like Jitu Patwari, start making a mark in state politics.
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/anita-katyal-will-pradhan-be-next-odisha-cm-diggy-nath-fret-after-datia-win-1979497)
 
 ---
 
@@ -12704,166 +12933,6 @@ India’s economy is haunted by unanswered questions. Margaret Heffernan famousl
 Author of The Gated Republic, Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India
 
 [Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/Jun/06/wars-tariffs-leaks-silence-of-answers-deepens-sense-of-drift)
-
----
-
-## 17 May 2026
-
-### ‘Bhojshala identity is a colonial-era rebranding, has no archival backing’
-*Deccan Herald · Opinion*
-
-The Madhya Pradesh High Court has declared that the disputed Bhojshala complex in Dhar district is a temple dedicated to goddess Saraswati. It has ruled that the Centre and the Archaeological Survey of India (ASI) can decide on its administration and management. The complex houses Kamal-al-Din congregational mosque, widely known as Kamal Maula mosque, and tombs, including that of Sufi saint Kamal Malawi.
-
-Historian of medieval India and Delhi University professor Ruchika Sharma tells DH that the structure’s identity as Bhojshala is a colonial-era rebranding that transformed the medieval mosque into a nationalist flashpoint.
-
-Since your research traces the term Bhojshala back only to 1903, how do you view the legal weight being given to a name that lacks a pre-colonial archival trail?
-
-It's sad because the association that they're making with the fact that this was once a Saraswati temple comes even after 1903.This ”massive discovery” by then ASI director K N Dixit, who found a sculpture in the British Museum that he said is Saraswati, was ridiculous because there is an inscription on the sculpture that says this is a statue of goddess Ambika/Amba who is a Jain goddess, and that it was made by a person called Vararuchi.
-
-In the judgment, they have said that at the end of the day, Jainism is part of Hinduism. This absolutely makes no sense because if you look at both of these religions historically, they've often been in loggerheads with each other...The remains which have been used to make the Kamal Maula mosque, which is now being misnomerised as Bhojshala, are basically Jain temple remains. And they have nothing to do with a Saraswati temple. Even the name Bhojshala is incorrect. What K K Lele (who was in charge of the archaeological department at Dhar), who in 1903 gave this name, wanted it to mean was King Bhoja’s school. But shala does not mean a school. A shala just means a place. A school would have been called vidyalay, vidyapeeth or gyanpeeth…
-
-This 120-year history is being given far more importance than the fact that an inscription on the mosque states that the structure was first repaired by Dilawar Khan Ghori, the governor of Malwa region, in 1392-93, which means it was even older at that time. It was the first jama masjid of Dhar…It's sad that this almost 700-year-old mosque has now been branded a temple.
-
-You describe these sites as palimpsests of reused materials. Does the legal search for an ‘original religious character’ overlook the functional ways medieval builders operated?
-
-What exactly is the legal framework looking for? Because if the argument is that this is a mosque which was made by reusing a temple wholesale, then they would have had to add the mihrab (a semicircular niche in the wall) and the minbar (a raised pulpit)… So, they did just this and let the temple be as it is? This is not the case in the Kamal Maula mosque. If you see the height of the pillars in the mosque, it is clear that these have been stacked one on top of the other. It's a hypostyle mosque.
-
-It being made out of reused material does not mean that the material itself, all of it, has come from a temple or temples. These could be pillars that might have come from a palace which has multiple histories associated with it. If you look at a 14th-century temple, and if you look at this particular mosque, which is a 14th-century congregational mosque, you will see that there is a huge difference in the size of the pillars. The temple pillars at that time were usually smaller in size. These pillars, stacked one on top of the other to achieve height, have been reused from multiple sources.
-
-Secondly, even the inscriptions found inside the mosque, which are being claimed as 'Hindu inscriptions' with grammatical sutras, are basically Sanskrit inscriptions and have a Jain connection.
-
-Lele, in the early 1900s, said the inscriptions are actually grammatical sutras. And because they are grammatical sutras, they must have been of the so-called Bhojshala. Those inscriptions have nothing to do with any of this.
-
-The minbar or a raised pulpit.
-
-Where exactly does the ASI’s scientific findings at Dhar clash with the ‘political mythology’ you’ve documented in your work?
-
-The ASI under English did a better job at understanding what the structure is than what happened from the 20th century onwards. They identified it as a mosque. They even documented the history of Kamal Malawi's (Kamal-al Din) tomb, and how the tomb and mosque are sort of related… And then found a 'Hindu inscription'. But they identified that this is reused temple material or reused material of an earlier structure.
-
-The British were one of the first to identify these sort of structures which have either been made out of reused material, or they have been entire temples that have been converted into a mosque, which is very rare in the subcontinent. So, they identify Kamal Maula's mosque as one made out of reused material... The biggest break is Lele, and then Dixit in 1917 radically changed the whole dynamic to this being a Saraswati temple...The judgment says that Jainism is part of Hinduism. I don't see how that is relevant in declaring this to be a temple of Saraswati, because Saraswati is not a Jain deity at all.
-
-The pillars, stacked one on top of the other to achieve height, have been reused from multiple sources, says Ruchika Sharma.
-
-If the 'Bhoja’s Saraswati' statue in the British Museum is not originally from this site, what remains as the primary physical evidence for the court's 'religious character' ruling?
-
-It's these reused materials. The only basis they have is the fact that this is built out of reused material. And also this idea presented before the court that it looks like a temple. No, it does not look like it. No temple looks like this at all. No temple has a mihrab, no temple has a minbar, no temple has such a height. The height in itself should give you the idea that this is not a temple at all…
-
-Based on your research, does the ASI possess the archival data to manage this site as a 'Sanskrit center', or is the state asking them to curate a legend?
-
-More than a legend, I think this is a carefully manufactured myth. Lele based his claim on the fact that there are two Sanskrit inscriptions inside.
-
-These are grammatical sutras and they have nothing to do with King Bhoja. Where is the name Bhoja coming from? There is zero documentation to support this or that it was a shala. The term Bhojshala is a misnomer.
-
-And there is a clear illusion of Jain history over here. What is associated with the mosque is Jain history because of the materials used. Indologist Michael Willis’ study has shown that the two inscriptions talk about a play by a disciple of a Jain scholar. There is Jain history associated with the site. And that needs to be acknowledged.
-
-Does moving Muslim worship to an 'alternative land', as suggested by court, settle the dispute, or does it effectively erase the site’s history as a shared space?
-
-100%. What it erases is the around 700 years of history of this being a mosque. It replaces it, not with history, but with a carefully manufactured myth.
-
-The Jain history associated with it does not mean that this suddenly becomes a Jain temple. Because it never served as that in the first place.
-
-It is sad that India is going down this path where the material used in a particular structure is going to decide the status of the structure — the religious status of the structure or the functional status of the structure.
-
-As sites like Ayodhya, Gyanvapi, and now Bhojshala are legally reclassified, is the historian’s role now to explain the past, or simply to act as a witness to its reconstruction?
-
-I think the historian's role is both of them. Historians before us have been doing this for a long time. Which is why we can say with complete surety that before 1903, we didn't have a Bhojshala.
-
-The history of this site has been documented through inscriptions. It has been documented through its architecture, through 700 years of prayers inside the mosque, and through English surveys, etc. There is documentation available of it only being a mosque. Documentation is a part of explaining history. You cannot explain history till you've documented the facts. A historian's role has always been this and should continue to be. And we need to create public awareness because more than the fact that you've erased 700 years of history of this being a mosque, what is problematic is the repercussions that it's going to have on the ground.
-
-[Read full article](https://www.deccanherald.com/opinion/interview/bhojshala-complex-dispute-bhojshala-identity-is-a-colonial-era-rebranding-has-no-archival-backing-says-historian-ruchika-sharma-4005690)
-
----
-
-### Transparency runs into custom error
-*Deccan Herald · Opinion*
-
-Earlier this month, the Karnataka Information Commission (KIC) got its first woman Chief Information Commissioner. Now, the state has its full complement of 10-plus-one commissioners to decide disputes under the RTI Act. We also know their names and office locations, but that is nearly all the Commission will tell us about its functioning.
-
-Despite being the primary stakeholders of the transparency regime, we do not know which cases will be taken up for hearing, on which date, and by which information commissioner. At the time of writing, the ‘cause list’ link on the KIC’s website drew a blank when queried about the daily listing of cases for May 2026.
-
-The website is also silent about the KIC’s roster– which departments and public authorities have been assigned to which commissioner for deciding information-related grievances. We can only infer from the ‘contact us’ segment of the website that those stationed in Belagavi and Kalaburagi may be hearing cases from those parts of the state.
-
-Admirably, Karnataka was the first state in the country to establish and populate its Information Commission in 2005, even before the Central Information Commission (CIC) was set up. Its primary job is to entertain citizens’ grievances about the replies of public authorities to their requests for information or even the lack of response. It probes the appeals and complaints of RTI applicants unhappy with the quantity, quality, or correctness of the information supplied by public information officers (PIOs).
-
-Between 2017-18 and 2021-22, KIC disposed of almost 90,000 cases. We do not know what happened later because the Commission has not published its annual reports. What is worse is that the decisions of the information commissioners have become sarkari secrets as most of them are no longer uploaded on the Commission’s website.
-
-Strangely, 30 cases listed for the new state Chief Information Commissioner, for resolution in the month of May, only display the decision to adjourn every matter without any indication about the next date of hearing. Two commissioners are not even listed in the ‘decisions’ section.
-
-Twenty years on, the RTI story is still being writtenLast month, the information commissioner stationed at Kalaburagi claimed that the KIC had disposed of 40,000 cases in one year and that his contribution was resolving almost 1,187 cases within 90 days. A commendable achievement indeed, as several were apparently pending for 5-6 years. At the time of writing, clicking on this commissioner’s ‘date-wise orders’ for May displayed “404 custom error” messages.
-
-If the Commission’s decisions are not publicly accessible, where will appellants and public authorities find precedents to support their contentions during hearings? Cases decided over the last two decades by previous information commissioners have been removed from the website, for reasons best known to the KIC.
-
-Until 2021-22, Karnataka ranked just behind the Union government and Maharashtra in the volume of RTI applications. The departments of rural development, revenue, and urban development, in that order, reported handling more than 60% of the 3.79 lakh RTI applications that year – indicating the popularity of the law in both rural and urban areas. Interestingly, the departments of education, social welfare, food and civil supplies, and women and child welfare, which attract a large number of information requests in other states, did not make it to the top-10 list in Karnataka. In the absence of subsequent annual reports, we know nothing about recent trends.
-
-More than 10% of the RTI applications filed with Karnataka’s top three departments escalated to the first appeals stage in 2021-22. 50% of these matters decided by the appellate authorities ended up at the KIC. This indicates a very high level of dissatisfaction with the performance of those public authorities.
-
-We do not know the current pendency status because the KIC’s website does not display this data, unlike the CIC, which regularly updates pendency figures (36,307 pending cases as of today). The KIC’s mandatory disclosure of basic information, required under Section 4(1)(b) of the Act, is currently stuck in 2022-23, as evidenced by its budgetary data, even though the document is marked ‘2025-26’.
-
-The KIC, like its counterparts elsewhere in the country, is mandated to steer public authorities away from pointless opacity towards purposive transparency that strengthens our democracy. The Commission must practise what it preaches if it intends to remain relevant to the citizenry. The state Chief Information Commissioner must lead from the front.
-
-(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH)
-
-[Read full article](https://www.deccanherald.com/opinion/transparency-runs-into-custom-error-4005819)
-
----
-
-### Tehran, Moscow must walk the talk
-*The New Indian Express · Opinion*
-
-What the summit produced, beyond the predictable procedural failure, was a brazen and meticulously documented display of duplicitous diplomacy by two nations that routinely present themselves as India’s most dependable strategic partners: Iran and Russia. While their foreign ministers publicly extolled New Delhi’s virtues as peacemaker, bridge-builder and indispensable mediator, their prior actions had already told a different story. It was one of calculated exclusion dressed up in the language of admiration.
-
-Iran’s Foreign Minister Abbas Araghchi arrived in Delhi to press the BRICS members to unite against what he termed “violations of international law” and “Western hegemony”. The summit’s collapse, driven largely by Iran’s insistence on explicit condemnation of US-Israeli “aggression”, predictably left the conclave fractured and fruitless. Yet even amid this discord, Araghchi found time to lavish India with praise. In post-meeting remarks, he declared that New Delhi could play a “greater role” in promoting peace in West Asia, welcomed any “constructive role by India”, and rhapsodised about the Chabahar port as a “golden gate” to Central Asia, promising safe passage for friendly vessels through the Strait of Hormuz and readiness to resume oil supplies. The words flowed warmly, graciously, almost effusively. They were also entirely hollow.
-
-Russia’s Sergey Lavrov performed the same act with greater precision. He drew a pointed distinction between Pakistan’s current role as facilitator of short-term US-Iran dialogues and India’s vastly superior credentials for long-term, structural mediation. “If they seek a long-term mediator between Iran and its Arab friends,” he observed, “this role could be played by India, considering its vast diplomatic experience and international standing.” He also suggested that India as BRICS chair could host preliminary conversations between Iran and the UAE to forestall future hostilities, leveraging relationships built across decades of careful, patient diplomacy. These were not throwaway pleasantries. They were careful, calibrated affirmations precise in their praise, precise in their pointlessness.
-
-For both nations had already made their choices. And India was conspicuously absent from them. Since the US-Israeli strikes in February that killed Iran’s Supreme Leader Ali Khamenei and triggered a catastrophic spiral of missile barrages, a fragile ceasefire and a de facto blockade of Hormuz, India had signalled its readiness to intervene at every available turn. Prime Minister Narendra Modi advocated de-escalation from the very first day, drawing on historical relations with Iran rooted in three decades of energy cooperation and a deep cultural affinity. It offered back-channel facilitation. It offered mediation plainly, repeatedly, without condition as the one power capable of speaking credibly to all sides without the taint of ideological alignment. The offer was neither accepted nor acknowledged. Instead, Tehran turned to Islamabad.
-
-Pakistani mediation produced the April 2026 ceasefire framework. America-Iran talks were hosted in Islamabad on April 11-12. Iranian ministers made multiple visits to Pakistan, shuttling proposals across a fragile diplomatic corridor and personally sustaining the truce through repeated high-level engagement. Prime Minister Shehbaz Sharif seized the moment with characteristic fanfare, declaring it “a matter of pride for the nation” that Pakistan had brought the US and Iran to the table after 47 years of estrangement. Congratulatory calls flooded in from European capitals, Gulf monarchies and Asian diplomatic missions.
-
-In India, the reaction was sharp and unsparing. Strategic analysts and opposition voices alike demanded answers: why had India, with its deeper historical leverage with Tehran, superior infrastructure, broader global credibility and genuine desire for regional stability, been kept away from the high table? The choice of Islamabad as venue deepened the affront. The message was unmistakable: tactical convenience had been allowed to trump strategic partnership, and India had been made to watch from the gallery. Moreover, Iran’s decision to impose broader restrictions on movements through the Straits of Hormuz compounded this duplicity and disrupted supplies, and aggravated India’s energy calculations in ways other nations largely avoided a disparity that carried the unmistakable scent of deliberate pressure.
-
-Russia, Iran’s most steadfast political and military backer, bears its own share of culpability. Moscow possesses leverage over Tehran that no other power can replicate. Had Lavrov genuinely believed India to be the ideal long-term broker, it could have used every instrument to mount pressure on Iran. It did not. Modi’s personal rapport with President Trump, India’s singular ability to engage Washington, Tehran, Riyadh and Abu Dhabi simultaneously without ideological baggage are precisely the assets Lavrov publicly celebrated. That Moscow neither championed nor protected India’s inclusion was not an oversight. It was a deliberate choice dressed in the language of praise. India, the world’s fastest-growing major economy and one of its largest energy importers, has not merely a stake in resolution but a civilisational responsibility to pursue it.
-
-The reckoning, however, is coming and it is coming for Islamabad first. Pakistan’s mediation drive has collapsed under the weight of its own limitations. Its leverage was always transactional, never structural. Confidence in Islamabad’s ability to deliver durable outcomes has drained away. Iran now stands at a crossroads. Internally pressured, economically isolated and diplomatically exhausted, Tehran must confront a simple, inconvenient truth. India, the partner it flattered and sidelined, possesses everything it now desperately needs. India’s diplomatic capital is not borrowed. It has been earned across decades of principled, patient engagement with every stakeholder in this conflict. The BRICS summit inadvertently became a morality play about the cost of shortsightedness.
-
-For India, it delivered an unambiguous lesson: in diplomacy, as in life, being praised is not the same as being respected, and being celebrated is not the same as being included. A genuine pivot towards New Delhi would not merely vindicate the public endorsements offered so freely by Iran in Delhi. The stage now demands a statesman. Tehran, along with Moscow, must decide to walk the talk.
-
-[Read full article](https://www.newindianexpress.com/opinion/columns/pc/2026/May/16/tehran-moscow-must-walk-the-talk)
-
----
-
-### Build forex fortress: Monetise public assets in dollars
-*The New Indian Express · Opinion*
-
-This triggered a riveting spectacle of photo-ops. The durability of the self-certified austerity of politicians will show up sooner than later. The state actors didn’t come up with much beyond wheel arithmetic and theatrics. Meanwhile, the rupee careened to Rs 96 per US dollar, the stock indices slid further, bond yields went up, and wholesale inflation at 8.3 percent signalled higher retail inflation ahead. Any hope of a solution from Beijing was dashed by a “he said, Xi said” warble of words.
-
-India’s economic crises have almost always been about the gap between the economy’s need for dollars and its ability to earn dollars. The rupee’s troubles predate the war. They reflect the economy’s inability to compete consistently in global markets and deliver returns—foreign institutional investors sold Indian equities worth Rs 1.61 lakh crore in 2025.
-
-Now is the time to think big, think lateral. Governments and goats love weeds. Speculation is rife about cesses and surcharges on everything from travel to remittances. Chasing paise will not help. India must build a forex fortress leveraging its growth opportunities and sovereign assets. To that end, here are a few thoughts.
-
-From Robert Solow to Béla Balassa and Paul Samuelson, the economics is unambiguous: a currency is a claim on a nation’s productive capacity. India has the assets. James Tobin described the ‘Q ratio’ as the relationship between an asset’s market value and its replacement cost. By that metric, India’s public sector and sovereign assets are chronically undervalued.
-
-India needs to consolidate its resources. The value of its listed public enterprises is over Rs 39 lakh crore and that of its banks is over Rs 17 lakh crore. The strategic play is to carve out government shareholding above the statutory 51 percent threshold into a sovereign wealth fund (SWF)—say, the Amrit Kaal Fund—modelled on Singapore’s GIC. The SWF can cherry-pick high-performance counters and package them into dollar-denominated exchange-traded funds for overseas bourses (and GIFT City) and rupees for Indians.
-
-The SWF will enable raising dollar resources. It will also signal that India has matured as a custodian of capital. It strips away the “bureaucratic discount” and replaces it with an “India premium”. The SWF also becomes a kinetic anchor platform for India’s next-generation mega-projects capable of leveraging its assets to raise debt seamlessly—whether in rupees at home or in dollars overseas.
-
-Thomas Edison said the value of an asset is in its utility. The same principle applies to sovereign balance sheets. Yet India’s approach to its vast domestic wealth remains structurally constrained. Yes, it has monetised some assets, but for the better part it has treated its rupee-paid domestic assets—sprawling rail networks, land banks, highways—as entries in the fiscal ledger and not leveraged its potential for dollar realisation.
-
-It is time it recast its approach. The government has listed assets worth Rs 16.72 lakh crore for monetisation. Thus far, it has depended on anchor investors—global and Indian pension funds—to realise the value. The two friction points faced by investors are currency risk (to pensioners the funds must hedge) and ticket size. How about looking at the value potential of bundling these assets?
-
-Instead of listing individual infrastructure investment trusts for roads, power or rail, why not offer a diversified bundle denominated in dollars—thereby reducing currency risk? The world’s 500 top asset managers are now managing over $128 trillion and mega funds look for larger ticket sizes and reduced currency risks. This way, global institutional investors need not play the guessing game about an emerging market currency and focus on funding India’s growth on neutral terms.
-
-Dollar townships are another option. India needs homes for its burgeoning youth population—there are roughly 90 lakh marriages every year. India also needs new townships around the industrial corridors that are sustainable and smart. Urbanisation, which is a force multiplier and an employer at the intersection of rural and urban economies, could also be leveraged to woo patient foreign capital.
-
-Global players though do not want to navigate the friction points of India’s permission raj. To start with, the Union can ask the states to compete for 25 township slots with all the clearances in place. The government could then invite bids in dollars from global players (BentallGreenOak, TPG and Kohlberg Kravis Roberts, Blackstone et al) with or without local partners. The idea is to enhance the value of India’s most illiquid rupee asset into dollar resources, and set new standards in urbanisation.
-
-These are only some of the ideas, but they should suffice to frame the change in approach needed. India does not lack assets; it lacks the strategic audacity to leverage them. By professionalising ownership, recycling infrastructure and incentivising state-level competition, India can convert latent national wealth into a kinetic global advantage.
-
-What the government does to arrest the fall of the rupee and the rise of inflation in the next few weeks would matter. But what matters more is what it does to pave the way for sustainable growth. In the final accounting of history, it is not what was done that defines a crisis. It is what was not.
-
-Author of The Gated Republic, Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India
-
-[Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/May/16/build-forex-fortress-monetise-public-assets-in-dollars)
 
 ---
 

@@ -1,5 +1,165 @@
 # Editorials archive — 2026-05
 
+## 17 May 2026
+
+### ‘Bhojshala identity is a colonial-era rebranding, has no archival backing’
+*Deccan Herald · Opinion*
+
+The Madhya Pradesh High Court has declared that the disputed Bhojshala complex in Dhar district is a temple dedicated to goddess Saraswati. It has ruled that the Centre and the Archaeological Survey of India (ASI) can decide on its administration and management. The complex houses Kamal-al-Din congregational mosque, widely known as Kamal Maula mosque, and tombs, including that of Sufi saint Kamal Malawi.
+
+Historian of medieval India and Delhi University professor Ruchika Sharma tells DH that the structure’s identity as Bhojshala is a colonial-era rebranding that transformed the medieval mosque into a nationalist flashpoint.
+
+Since your research traces the term Bhojshala back only to 1903, how do you view the legal weight being given to a name that lacks a pre-colonial archival trail?
+
+It's sad because the association that they're making with the fact that this was once a Saraswati temple comes even after 1903.This ”massive discovery” by then ASI director K N Dixit, who found a sculpture in the British Museum that he said is Saraswati, was ridiculous because there is an inscription on the sculpture that says this is a statue of goddess Ambika/Amba who is a Jain goddess, and that it was made by a person called Vararuchi.
+
+In the judgment, they have said that at the end of the day, Jainism is part of Hinduism. This absolutely makes no sense because if you look at both of these religions historically, they've often been in loggerheads with each other...The remains which have been used to make the Kamal Maula mosque, which is now being misnomerised as Bhojshala, are basically Jain temple remains. And they have nothing to do with a Saraswati temple. Even the name Bhojshala is incorrect. What K K Lele (who was in charge of the archaeological department at Dhar), who in 1903 gave this name, wanted it to mean was King Bhoja’s school. But shala does not mean a school. A shala just means a place. A school would have been called vidyalay, vidyapeeth or gyanpeeth…
+
+This 120-year history is being given far more importance than the fact that an inscription on the mosque states that the structure was first repaired by Dilawar Khan Ghori, the governor of Malwa region, in 1392-93, which means it was even older at that time. It was the first jama masjid of Dhar…It's sad that this almost 700-year-old mosque has now been branded a temple.
+
+You describe these sites as palimpsests of reused materials. Does the legal search for an ‘original religious character’ overlook the functional ways medieval builders operated?
+
+What exactly is the legal framework looking for? Because if the argument is that this is a mosque which was made by reusing a temple wholesale, then they would have had to add the mihrab (a semicircular niche in the wall) and the minbar (a raised pulpit)… So, they did just this and let the temple be as it is? This is not the case in the Kamal Maula mosque. If you see the height of the pillars in the mosque, it is clear that these have been stacked one on top of the other. It's a hypostyle mosque.
+
+It being made out of reused material does not mean that the material itself, all of it, has come from a temple or temples. These could be pillars that might have come from a palace which has multiple histories associated with it. If you look at a 14th-century temple, and if you look at this particular mosque, which is a 14th-century congregational mosque, you will see that there is a huge difference in the size of the pillars. The temple pillars at that time were usually smaller in size. These pillars, stacked one on top of the other to achieve height, have been reused from multiple sources.
+
+Secondly, even the inscriptions found inside the mosque, which are being claimed as 'Hindu inscriptions' with grammatical sutras, are basically Sanskrit inscriptions and have a Jain connection.
+
+Lele, in the early 1900s, said the inscriptions are actually grammatical sutras. And because they are grammatical sutras, they must have been of the so-called Bhojshala. Those inscriptions have nothing to do with any of this.
+
+The minbar or a raised pulpit.
+
+Where exactly does the ASI’s scientific findings at Dhar clash with the ‘political mythology’ you’ve documented in your work?
+
+The ASI under English did a better job at understanding what the structure is than what happened from the 20th century onwards. They identified it as a mosque. They even documented the history of Kamal Malawi's (Kamal-al Din) tomb, and how the tomb and mosque are sort of related… And then found a 'Hindu inscription'. But they identified that this is reused temple material or reused material of an earlier structure.
+
+The British were one of the first to identify these sort of structures which have either been made out of reused material, or they have been entire temples that have been converted into a mosque, which is very rare in the subcontinent. So, they identify Kamal Maula's mosque as one made out of reused material... The biggest break is Lele, and then Dixit in 1917 radically changed the whole dynamic to this being a Saraswati temple...The judgment says that Jainism is part of Hinduism. I don't see how that is relevant in declaring this to be a temple of Saraswati, because Saraswati is not a Jain deity at all.
+
+The pillars, stacked one on top of the other to achieve height, have been reused from multiple sources, says Ruchika Sharma.
+
+If the 'Bhoja’s Saraswati' statue in the British Museum is not originally from this site, what remains as the primary physical evidence for the court's 'religious character' ruling?
+
+It's these reused materials. The only basis they have is the fact that this is built out of reused material. And also this idea presented before the court that it looks like a temple. No, it does not look like it. No temple looks like this at all. No temple has a mihrab, no temple has a minbar, no temple has such a height. The height in itself should give you the idea that this is not a temple at all…
+
+Based on your research, does the ASI possess the archival data to manage this site as a 'Sanskrit center', or is the state asking them to curate a legend?
+
+More than a legend, I think this is a carefully manufactured myth. Lele based his claim on the fact that there are two Sanskrit inscriptions inside.
+
+These are grammatical sutras and they have nothing to do with King Bhoja. Where is the name Bhoja coming from? There is zero documentation to support this or that it was a shala. The term Bhojshala is a misnomer.
+
+And there is a clear illusion of Jain history over here. What is associated with the mosque is Jain history because of the materials used. Indologist Michael Willis’ study has shown that the two inscriptions talk about a play by a disciple of a Jain scholar. There is Jain history associated with the site. And that needs to be acknowledged.
+
+Does moving Muslim worship to an 'alternative land', as suggested by court, settle the dispute, or does it effectively erase the site’s history as a shared space?
+
+100%. What it erases is the around 700 years of history of this being a mosque. It replaces it, not with history, but with a carefully manufactured myth.
+
+The Jain history associated with it does not mean that this suddenly becomes a Jain temple. Because it never served as that in the first place.
+
+It is sad that India is going down this path where the material used in a particular structure is going to decide the status of the structure — the religious status of the structure or the functional status of the structure.
+
+As sites like Ayodhya, Gyanvapi, and now Bhojshala are legally reclassified, is the historian’s role now to explain the past, or simply to act as a witness to its reconstruction?
+
+I think the historian's role is both of them. Historians before us have been doing this for a long time. Which is why we can say with complete surety that before 1903, we didn't have a Bhojshala.
+
+The history of this site has been documented through inscriptions. It has been documented through its architecture, through 700 years of prayers inside the mosque, and through English surveys, etc. There is documentation available of it only being a mosque. Documentation is a part of explaining history. You cannot explain history till you've documented the facts. A historian's role has always been this and should continue to be. And we need to create public awareness because more than the fact that you've erased 700 years of history of this being a mosque, what is problematic is the repercussions that it's going to have on the ground.
+
+[Read full article](https://www.deccanherald.com/opinion/interview/bhojshala-complex-dispute-bhojshala-identity-is-a-colonial-era-rebranding-has-no-archival-backing-says-historian-ruchika-sharma-4005690)
+
+---
+
+### Transparency runs into custom error
+*Deccan Herald · Opinion*
+
+Earlier this month, the Karnataka Information Commission (KIC) got its first woman Chief Information Commissioner. Now, the state has its full complement of 10-plus-one commissioners to decide disputes under the RTI Act. We also know their names and office locations, but that is nearly all the Commission will tell us about its functioning.
+
+Despite being the primary stakeholders of the transparency regime, we do not know which cases will be taken up for hearing, on which date, and by which information commissioner. At the time of writing, the ‘cause list’ link on the KIC’s website drew a blank when queried about the daily listing of cases for May 2026.
+
+The website is also silent about the KIC’s roster– which departments and public authorities have been assigned to which commissioner for deciding information-related grievances. We can only infer from the ‘contact us’ segment of the website that those stationed in Belagavi and Kalaburagi may be hearing cases from those parts of the state.
+
+Admirably, Karnataka was the first state in the country to establish and populate its Information Commission in 2005, even before the Central Information Commission (CIC) was set up. Its primary job is to entertain citizens’ grievances about the replies of public authorities to their requests for information or even the lack of response. It probes the appeals and complaints of RTI applicants unhappy with the quantity, quality, or correctness of the information supplied by public information officers (PIOs).
+
+Between 2017-18 and 2021-22, KIC disposed of almost 90,000 cases. We do not know what happened later because the Commission has not published its annual reports. What is worse is that the decisions of the information commissioners have become sarkari secrets as most of them are no longer uploaded on the Commission’s website.
+
+Strangely, 30 cases listed for the new state Chief Information Commissioner, for resolution in the month of May, only display the decision to adjourn every matter without any indication about the next date of hearing. Two commissioners are not even listed in the ‘decisions’ section.
+
+Twenty years on, the RTI story is still being writtenLast month, the information commissioner stationed at Kalaburagi claimed that the KIC had disposed of 40,000 cases in one year and that his contribution was resolving almost 1,187 cases within 90 days. A commendable achievement indeed, as several were apparently pending for 5-6 years. At the time of writing, clicking on this commissioner’s ‘date-wise orders’ for May displayed “404 custom error” messages.
+
+If the Commission’s decisions are not publicly accessible, where will appellants and public authorities find precedents to support their contentions during hearings? Cases decided over the last two decades by previous information commissioners have been removed from the website, for reasons best known to the KIC.
+
+Until 2021-22, Karnataka ranked just behind the Union government and Maharashtra in the volume of RTI applications. The departments of rural development, revenue, and urban development, in that order, reported handling more than 60% of the 3.79 lakh RTI applications that year – indicating the popularity of the law in both rural and urban areas. Interestingly, the departments of education, social welfare, food and civil supplies, and women and child welfare, which attract a large number of information requests in other states, did not make it to the top-10 list in Karnataka. In the absence of subsequent annual reports, we know nothing about recent trends.
+
+More than 10% of the RTI applications filed with Karnataka’s top three departments escalated to the first appeals stage in 2021-22. 50% of these matters decided by the appellate authorities ended up at the KIC. This indicates a very high level of dissatisfaction with the performance of those public authorities.
+
+We do not know the current pendency status because the KIC’s website does not display this data, unlike the CIC, which regularly updates pendency figures (36,307 pending cases as of today). The KIC’s mandatory disclosure of basic information, required under Section 4(1)(b) of the Act, is currently stuck in 2022-23, as evidenced by its budgetary data, even though the document is marked ‘2025-26’.
+
+The KIC, like its counterparts elsewhere in the country, is mandated to steer public authorities away from pointless opacity towards purposive transparency that strengthens our democracy. The Commission must practise what it preaches if it intends to remain relevant to the citizenry. The state Chief Information Commissioner must lead from the front.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH)
+
+[Read full article](https://www.deccanherald.com/opinion/transparency-runs-into-custom-error-4005819)
+
+---
+
+### Tehran, Moscow must walk the talk
+*The New Indian Express · Opinion*
+
+What the summit produced, beyond the predictable procedural failure, was a brazen and meticulously documented display of duplicitous diplomacy by two nations that routinely present themselves as India’s most dependable strategic partners: Iran and Russia. While their foreign ministers publicly extolled New Delhi’s virtues as peacemaker, bridge-builder and indispensable mediator, their prior actions had already told a different story. It was one of calculated exclusion dressed up in the language of admiration.
+
+Iran’s Foreign Minister Abbas Araghchi arrived in Delhi to press the BRICS members to unite against what he termed “violations of international law” and “Western hegemony”. The summit’s collapse, driven largely by Iran’s insistence on explicit condemnation of US-Israeli “aggression”, predictably left the conclave fractured and fruitless. Yet even amid this discord, Araghchi found time to lavish India with praise. In post-meeting remarks, he declared that New Delhi could play a “greater role” in promoting peace in West Asia, welcomed any “constructive role by India”, and rhapsodised about the Chabahar port as a “golden gate” to Central Asia, promising safe passage for friendly vessels through the Strait of Hormuz and readiness to resume oil supplies. The words flowed warmly, graciously, almost effusively. They were also entirely hollow.
+
+Russia’s Sergey Lavrov performed the same act with greater precision. He drew a pointed distinction between Pakistan’s current role as facilitator of short-term US-Iran dialogues and India’s vastly superior credentials for long-term, structural mediation. “If they seek a long-term mediator between Iran and its Arab friends,” he observed, “this role could be played by India, considering its vast diplomatic experience and international standing.” He also suggested that India as BRICS chair could host preliminary conversations between Iran and the UAE to forestall future hostilities, leveraging relationships built across decades of careful, patient diplomacy. These were not throwaway pleasantries. They were careful, calibrated affirmations precise in their praise, precise in their pointlessness.
+
+For both nations had already made their choices. And India was conspicuously absent from them. Since the US-Israeli strikes in February that killed Iran’s Supreme Leader Ali Khamenei and triggered a catastrophic spiral of missile barrages, a fragile ceasefire and a de facto blockade of Hormuz, India had signalled its readiness to intervene at every available turn. Prime Minister Narendra Modi advocated de-escalation from the very first day, drawing on historical relations with Iran rooted in three decades of energy cooperation and a deep cultural affinity. It offered back-channel facilitation. It offered mediation plainly, repeatedly, without condition as the one power capable of speaking credibly to all sides without the taint of ideological alignment. The offer was neither accepted nor acknowledged. Instead, Tehran turned to Islamabad.
+
+Pakistani mediation produced the April 2026 ceasefire framework. America-Iran talks were hosted in Islamabad on April 11-12. Iranian ministers made multiple visits to Pakistan, shuttling proposals across a fragile diplomatic corridor and personally sustaining the truce through repeated high-level engagement. Prime Minister Shehbaz Sharif seized the moment with characteristic fanfare, declaring it “a matter of pride for the nation” that Pakistan had brought the US and Iran to the table after 47 years of estrangement. Congratulatory calls flooded in from European capitals, Gulf monarchies and Asian diplomatic missions.
+
+In India, the reaction was sharp and unsparing. Strategic analysts and opposition voices alike demanded answers: why had India, with its deeper historical leverage with Tehran, superior infrastructure, broader global credibility and genuine desire for regional stability, been kept away from the high table? The choice of Islamabad as venue deepened the affront. The message was unmistakable: tactical convenience had been allowed to trump strategic partnership, and India had been made to watch from the gallery. Moreover, Iran’s decision to impose broader restrictions on movements through the Straits of Hormuz compounded this duplicity and disrupted supplies, and aggravated India’s energy calculations in ways other nations largely avoided a disparity that carried the unmistakable scent of deliberate pressure.
+
+Russia, Iran’s most steadfast political and military backer, bears its own share of culpability. Moscow possesses leverage over Tehran that no other power can replicate. Had Lavrov genuinely believed India to be the ideal long-term broker, it could have used every instrument to mount pressure on Iran. It did not. Modi’s personal rapport with President Trump, India’s singular ability to engage Washington, Tehran, Riyadh and Abu Dhabi simultaneously without ideological baggage are precisely the assets Lavrov publicly celebrated. That Moscow neither championed nor protected India’s inclusion was not an oversight. It was a deliberate choice dressed in the language of praise. India, the world’s fastest-growing major economy and one of its largest energy importers, has not merely a stake in resolution but a civilisational responsibility to pursue it.
+
+The reckoning, however, is coming and it is coming for Islamabad first. Pakistan’s mediation drive has collapsed under the weight of its own limitations. Its leverage was always transactional, never structural. Confidence in Islamabad’s ability to deliver durable outcomes has drained away. Iran now stands at a crossroads. Internally pressured, economically isolated and diplomatically exhausted, Tehran must confront a simple, inconvenient truth. India, the partner it flattered and sidelined, possesses everything it now desperately needs. India’s diplomatic capital is not borrowed. It has been earned across decades of principled, patient engagement with every stakeholder in this conflict. The BRICS summit inadvertently became a morality play about the cost of shortsightedness.
+
+For India, it delivered an unambiguous lesson: in diplomacy, as in life, being praised is not the same as being respected, and being celebrated is not the same as being included. A genuine pivot towards New Delhi would not merely vindicate the public endorsements offered so freely by Iran in Delhi. The stage now demands a statesman. Tehran, along with Moscow, must decide to walk the talk.
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/pc/2026/May/16/tehran-moscow-must-walk-the-talk)
+
+---
+
+### Build forex fortress: Monetise public assets in dollars
+*The New Indian Express · Opinion*
+
+This triggered a riveting spectacle of photo-ops. The durability of the self-certified austerity of politicians will show up sooner than later. The state actors didn’t come up with much beyond wheel arithmetic and theatrics. Meanwhile, the rupee careened to Rs 96 per US dollar, the stock indices slid further, bond yields went up, and wholesale inflation at 8.3 percent signalled higher retail inflation ahead. Any hope of a solution from Beijing was dashed by a “he said, Xi said” warble of words.
+
+India’s economic crises have almost always been about the gap between the economy’s need for dollars and its ability to earn dollars. The rupee’s troubles predate the war. They reflect the economy’s inability to compete consistently in global markets and deliver returns—foreign institutional investors sold Indian equities worth Rs 1.61 lakh crore in 2025.
+
+Now is the time to think big, think lateral. Governments and goats love weeds. Speculation is rife about cesses and surcharges on everything from travel to remittances. Chasing paise will not help. India must build a forex fortress leveraging its growth opportunities and sovereign assets. To that end, here are a few thoughts.
+
+From Robert Solow to Béla Balassa and Paul Samuelson, the economics is unambiguous: a currency is a claim on a nation’s productive capacity. India has the assets. James Tobin described the ‘Q ratio’ as the relationship between an asset’s market value and its replacement cost. By that metric, India’s public sector and sovereign assets are chronically undervalued.
+
+India needs to consolidate its resources. The value of its listed public enterprises is over Rs 39 lakh crore and that of its banks is over Rs 17 lakh crore. The strategic play is to carve out government shareholding above the statutory 51 percent threshold into a sovereign wealth fund (SWF)—say, the Amrit Kaal Fund—modelled on Singapore’s GIC. The SWF can cherry-pick high-performance counters and package them into dollar-denominated exchange-traded funds for overseas bourses (and GIFT City) and rupees for Indians.
+
+The SWF will enable raising dollar resources. It will also signal that India has matured as a custodian of capital. It strips away the “bureaucratic discount” and replaces it with an “India premium”. The SWF also becomes a kinetic anchor platform for India’s next-generation mega-projects capable of leveraging its assets to raise debt seamlessly—whether in rupees at home or in dollars overseas.
+
+Thomas Edison said the value of an asset is in its utility. The same principle applies to sovereign balance sheets. Yet India’s approach to its vast domestic wealth remains structurally constrained. Yes, it has monetised some assets, but for the better part it has treated its rupee-paid domestic assets—sprawling rail networks, land banks, highways—as entries in the fiscal ledger and not leveraged its potential for dollar realisation.
+
+It is time it recast its approach. The government has listed assets worth Rs 16.72 lakh crore for monetisation. Thus far, it has depended on anchor investors—global and Indian pension funds—to realise the value. The two friction points faced by investors are currency risk (to pensioners the funds must hedge) and ticket size. How about looking at the value potential of bundling these assets?
+
+Instead of listing individual infrastructure investment trusts for roads, power or rail, why not offer a diversified bundle denominated in dollars—thereby reducing currency risk? The world’s 500 top asset managers are now managing over $128 trillion and mega funds look for larger ticket sizes and reduced currency risks. This way, global institutional investors need not play the guessing game about an emerging market currency and focus on funding India’s growth on neutral terms.
+
+Dollar townships are another option. India needs homes for its burgeoning youth population—there are roughly 90 lakh marriages every year. India also needs new townships around the industrial corridors that are sustainable and smart. Urbanisation, which is a force multiplier and an employer at the intersection of rural and urban economies, could also be leveraged to woo patient foreign capital.
+
+Global players though do not want to navigate the friction points of India’s permission raj. To start with, the Union can ask the states to compete for 25 township slots with all the clearances in place. The government could then invite bids in dollars from global players (BentallGreenOak, TPG and Kohlberg Kravis Roberts, Blackstone et al) with or without local partners. The idea is to enhance the value of India’s most illiquid rupee asset into dollar resources, and set new standards in urbanisation.
+
+These are only some of the ideas, but they should suffice to frame the change in approach needed. India does not lack assets; it lacks the strategic audacity to leverage them. By professionalising ownership, recycling infrastructure and incentivising state-level competition, India can convert latent national wealth into a kinetic global advantage.
+
+What the government does to arrest the fall of the rupee and the rise of inflation in the next few weeks would matter. But what matters more is what it does to pave the way for sustainable growth. In the final accounting of history, it is not what was done that defines a crisis. It is what was not.
+
+Author of The Gated Republic, Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/May/16/build-forex-fortress-monetise-public-assets-in-dollars)
+
+---
+
 ## 16 May 2026
 
 ### ​Juggernaut rolls on: On the third phase of SIR of electoral rolls
