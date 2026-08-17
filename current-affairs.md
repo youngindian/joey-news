@@ -1,3 +1,143 @@
+## 17 August 2026
+
+### Why Maharashtra’s campuses have gone 30 years without a student vote
+*Pallavi Smart · legal*
+
+Thousands of students in Maharashtra protested over the NEET paper leak in July. None of them has ever voted on their own campus. The state revived elections in 2016 and deferred them in 2019, and the government's position now is that nobody has asked.
+
+[Read full article](https://indianexpress.com/article/cities/mumbai/why-maharashtras-campuses-have-gone-30-years-without-a-student-vote-10836330/)
+
+---
+
+### Jobs to exam coaching help: How CMs are responding to youth discontent
+*Lalmani Verma · legal*
+
+From Jantar Mantar to Ranchi, youth protests have prompted CMs across party lines to announce a slew of welfare measures in their Independence Day speeches.
+
+[Read full article](https://indianexpress.com/article/political-pulse/jobs-to-exam-coaching-help-how-cms-are-responding-to-youth-discontent-10836216/)
+
+---
+
+### Indonesia’s Flores region hit by magnitude 5.87 earthquake
+*Express Global Desk · legal*
+
+An earthquake of magnitude 5.9 struck Indonesia's Flores region on Monday.
+
+[Read full article](https://indianexpress.com/article/world/indonesia-flores-region-hit-by-magnitude-5-87-earthquake-10836388/)
+
+---
+
+### Taiwan detects one Chinese military aircraft, 16 ships around island
+*SECTIONS Taiwan detects one Chinese military aircraft · business*
+
+Taipei: Taiwan detected one sortie of Chinese People's Liberation Army (PLA) aircraft, nine vessels belonging to the People's Liberation Army Navy (PLAN), and seven official ships operating around the island on Monday (local time).
+
+In an X post, Taiwan's Ministry of National Defence said that a single PLA aircraft sortie entered Taiwan's northern Air Defence Identification Zone (ADIZ).
+
+  
+
+"1 sortie of PLA aircraft, 9 PLAN vessels and 7 official ships operating around Taiwan detected up until 6 am. (UTC+8) today. 1 out of 1 sortie entered Taiwan's northern part ADIZ. #ROCArmedForces have monitored the situation and responded," the 'X' post said.
+
+On Sunday, Taiwan detected 11 sorties of PLA aircraft, eight vessels belonging to the PLAN, and two Chinese official ships operating around the island up to 6 am (local time).
+
+In a post on X, Taiwan's Ministry of National Defence said that seven of the 11 PLA aircraft sorties crossed the Taiwan Strait's median line and entered the northern and central parts of Taiwan's Air Defence Identification Zone (ADIZ).
+
+"11 sorties of PLA aircraft, 8 PLAN vessels and 2 official ships operating around Taiwan detected up until 6 am (UTC+8) today. 7 out of 11 sorties crossed the median line and entered Taiwan's northern and central part ADIZ. #ROCArmedForces have monitored the situation and responded," the post stated.
+
+China's claim over Taiwan is a complex issue rooted in historical, political, and legal arguments. Beijing asserts that Taiwan is an inseparable part of China--a viewpoint embedded in its national policy and upheld through domestic laws and international statements.
+
+Taiwan, however, maintains a distinct identity, functioning independently with its own government, military, and economy. China's historical claim to Taiwan dates back to the Qing Dynasty's annexation of the island in 1683 after defeating the Ming loyalist Koxinga.
+
+---
+
+### 40 years ago August 17, 1986: Art 249 extended to J&K
+*Editorial · legal*
+
+This is the front page of The Indian Express published on August 17, 1986.
+
+[Read full article](https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-august-17-1986-art-249-extended-to-jk-10836284/)
+
+---
+
+### Global Market Today: Asian shares mixed, dollar dips as Fed hike bets ease
+*SECTIONS Global Market Today Asian shares mixed · economy*
+
+Synopsis
+
+The dollar experienced a decline following disappointing US economic indicators, leading to less anticipation for interest rate hikes. Treasury yields dropped universally as retail sales saw a significant downturn. Meanwhile, oil prices reversed their upward trend as traders sought new market signals. In Asia, stock markets showed little variation amid careful monitoring of Middle Eastern affairs, with ongoing geopolitical tensions impacting global investor confidence.
+
+The dollar remained under pressure after weak US economic data reduced bets for the Federal Reserve to raise interest rates next month.
+
+A Bloomberg gauge of the currency’s strength slipped 0.1%, hovering around levels last seen in May. The dollar was weaker against all of its Group-of-10 peers after Friday data showed US retail sales fell in July by the most in more than a year as consumers pulled back on purchases.
+
+Swaps traders see around a one-in-four chance that the Fed will raise interest rates next month. That’s down from a 50% chance only a week ago. Treasuries rose across the curve. The yield on the rate-sensitive 2-year fell two basis points to 4.15%, while that on the benchmark 10-year eased one basis point to 4.68%.
+
+Elsewhere, oil erased earlier gains as traders looked for the next catalyst to set direction, with renewed Israeli attacks on Lebanon and the prospect of fresh US sanctions on Iran adding to geopolitical uncertainty. Brent crude traded around $88.55 a barrel, having earlier climbed to almost $89. Asian stocks were little changed, with South Korea out for a holiday.
+
+Monday’s cautious moves came as investors watched for efforts to reopen the Strait of Hormuz, which may weigh on oil after it jumped almost 6% last week. With stocks near record highs on a revival in the artificial intelligence trade, attention remained on the Middle East for the next market catalyst after the weak US consumer data tempered optimism after back-to-back benign inflation readings.
+
+“The most significant headwind for the market currently remains geopolitical uncertainty, which continues to weigh on market sentiment here and there – although the relative lack of military activity in the Middle East has lowered volatility at the margins,” said Kyle Rodda, a senior analyst at Capital.com.
+
+In geopolitical news, Israel said it killed 11 people, including a senior Hezbollah commander, in strikes on southern Lebanon, one of the deadliest days of fighting in months.
+
+The fighting on the periphery of the Iran war may further complicate what appears to be deadlocked negotiations between Washington and Tehran.
+
+The sides are poised to arrive at the formal end of their own ceasefire agreement with no apparent path forward on the Strait of Hormuz and with the US readying an “economic isolation” plan.
+
+In other corners of the market, futures contracts for the S&P 500 and the Nasdaq 100 Index advanced, after the underlying gauges slipped Friday on signs of a slowdown in US consumer spending.
+
+Gold inched up 0.4% to about $4,390 an ounce.
+
+Elsewhere, the yen traded stronger as Japan’s economic growth unexpectedly slowed in the three months through June as capital spending continued to slump.
+
+On Friday, US equities slipped from a record as consumer sentiment slid more than expected and retail sales dropped the most in more than a year.
+
+Focus will also be on the sale of 20-year US government bonds this week as it tests investor appetite for long-term debt following a few record-breaking auctions.
+
+A slew of China data, including retail sales and industrial production, will be in focus Monday. Economists expect consumer spending to have picked up slightly in July, while factory output may have slowed, according to Bloomberg surveys.
+
+China’s “macro momentum continues to deteriorate” as credit growth has slowed and inflation remains weak, Wee Khoon Chong, a strategist at BNY wrote in a note to clients. “July activity data are likely to reinforce the slowdown, with retail sales and high-tech investment the key areas to watch for resilience.”
+
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+...moreless
+
+_(You can now subscribe to our ETMarkets WhatsApp channel)  
+_
+
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+...moreless
+
+---
+
+### 'File case against Sonia Gandhi…': JSP founder Prashant Kishor reacts to Vande Mataram Row
+*ET Online · business*
+
+Jan Suraaj Party founder Prashant Kishor reacted to the controversy surrounding the recitation of Vande Mataram at the Congress headquarters. He questioned the BJP's response to the issue and said that if the party considers the matter serious, it should take legal action against Congress leader Son...
+
+[Read full article](https://economictimes.indiatimes.com/news/politics-and-nation/file-case-against-sonia-gandhi-jsp-founder-prashant-kishor-reacts-to-vande-mataram-row/videoshow/133284376.cms)
+
+---
+
+### IITs are now teaching working professionals, a space long held by IIMs
+*Pallavi Smart · legal*
+
+Before 2020, IITs' executive programmes mostly meant short campus workshops. Now they run full online master's degrees, participation is up more than tenfold at one institute, and fees run up to Rs 8 lakh.
+
+[Read full article](https://indianexpress.com/article/education/iits-teaching-working-professionals-iims-10836274/)
+
+
+---
+
 ## 16 August 2026
 
 ### Go chemical-free to tap global agri market, says PM Modi
