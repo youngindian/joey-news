@@ -1,10 +1,209 @@
 # Editorials
 
-_Last updated: 2026-08-16 02:43 UTC_
+_Last updated: 2026-08-17 02:43 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
 
+## 17 August 2026
+
+### ​United and free: on the Prime Minister’s Independence Day speech
+*The Hindu · Editorial*
+
+Prime Minister Narendra Modi’s Independence Day speech, his thirteenth, was delivered within an entirely new political context, shaped by the recent student protests that led to the resignation of his Education Minister. The protests may have waned, but their underlying and lingering reasons for the unrest remain a matter of serious concern for the country. Mr. Modi sought to offer hope, inspiration and purpose on the one hand while, on the other, built a new phantom labelled ‘dimagi naxals’, who, he said, influenced policymaking and required purging. The speech was specifically addressed to the young citizens of the nation. Mr. Modi repeatedly stressed the need for big dreams, firm resolve and rapid execution, arguing that India could no longer think in incremental terms. He promised skill training for one crore youth over the next year to prepare India for the artificial intelligence era; free online coaching for competitive examinations to reduce the burden on families and improve access to opportunities; and renewed the government’s emphasis on innovation, quantum technology, space, robotics, data centres and other emerging sectors. Mr. Modi reiterated his commitment to self-reliance in defence production, including advanced technologies such as drones and next-generation defence systems. All Indians would naturally appreciate these promises and the statement of purpose.
+
+Whether Mr. Modi wanted, or tried, to build a unified national approach towards these challenges and their management is doubtful. India’s progress is a continuum that should ideally have a compounding effect with each subsequent year. Comparing, in absolute terms, achievements before and after 2014, when he became Prime Minister, is neither statistically relevant nor politically prudent. The fact about India as it enters the 80th year as a free nation that fought off colonialism is that its challenges are unprecedented. It has a massive young population entering the workforce even as technology is disrupting life and work as never before. What India needs is an all-hands-on-the-deck approach, requiring a unified political will among parties and stakeholders that is unaffected by electoral contests. India also needs an indigenous understanding and philosophy of development rather than trying to mimic the techno-capitalism that is rattling advanced economies. This is a point that was underlined by the Rashtriya Swayamsevak Sangh chief Mohan Bhagwat in his Independence Day speech. Mr. Modi clearly sees the challenges; but he also sees, unfortunately, an enemy in every critic. As he leads the country into a new year of independence, perhaps he could consider new ideas, including those from his critics, instead of amplifying divisive ones.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/united-and-free-on-the-prime-ministers-independence-day-speech/article71352939.ece)
+
+---
+
+### DC Edit | Heed Ground Realities, Deal With Gen Z Priorities Better
+*Deccan Chronicle · Editorial*
+
+The Jantar Mantar agitation may have yielded an immediate result in the form of the resignation of a mighty minister from the Union Cabinet but its reverberations have not yet ceased; in fact, they have only started, shaking the foundations of the thought processes of the political class. Every party is making attempts to connect with the generation which is on a warpath against deep-rooted systemic problems, asking fundamental questions. Prime Minister Narendra Modi’s address to the nation on the Independence Day is reflective of this desperate attempt by the Indian politicians to engage with this section of the citizenry.
+
+The Prime Minister has sought to address the Generation Z offering them schemes that would at best pretend to address issues in the conventional manner. Mr Modi has offered to make available free online tuitions for competitive examinations. It is a solution a politician typically offers when he hears that young people are angry that several students committed suicide when the Neet examination for admission to medical courses got cancelled. That those who cannot afford coaching centres again can make use of the government offer would have been the thought the government. This, however, hardly addresses the problem as the students are asking for quality schools which employ quality teachers, something that free online entrance examination coaching can hardly replace. Time the government looked at what is fundamentally wrong with the education system.
+
+Unemployment, too, is staring one of the world’s fastest growing economies, and artificial intelligence is unlikely to help the scene. Economists talk of jobless growth in a country whose Prime Minister often talks of the fact that more than half its population is aged less than 30 and the country is on brink of a harvest of this demographic dividend. Training in AI is not the solution to unemployment but focusing on areas which can generate jobs for the masses is. An honest attempt to understand the ground reality and formulate policies to create more sustainable jobs must be on top of the government’s agenda. There are no ad hoc solutions to a real, live issue. Yet all those seven programmes the Prime Minister offered the Gen Z appear to suffer from this disconnect.
+
+The government has claimed success in eliminating Maoism from the country after setting a deadline of March 31, 2026. Maoists mounted an armed and violent challenge to the country’s institutionalised democracy. But the government refuses to acknowledge the fact that Maoism has thrived due to institutionalised inequality, elimination of which would have cut the roots of all such forces. Instead of addressing it, the government now wants to label those who question government policies as ‘intellectual Naxalites’ and take them on. In this way it believes it can put down not just the streams of thought that militate against a system which sustains itself on institutionalised exploitation but also the political opposition. However, this announcement by the Prime Minister betrays the political bankruptcy of the BJP, instead. Anti-intellectualism has been a hallmark of all fascist regimes; it is for the BJP to decide if it wants its government to turn into one.
+
+The Congress, the principal Opposition party, appears to be equally clueless about the tectonic shift that has of late visited the country’s politics. It has failed to empathise meaningfully with the sentiments that powered the Jantar Mantar agitation; it is yet to demonstrate that it has got wind of the thought process of a generation which asks questions. It thinks it can survive on the privilege and honour of being the Opposition but that is unlikely to work, too.
+
+Verbal solutions are unlikely to gratify the youth, but actions could. So, politicians of all hues would better learn the language of the generation with which they seek to engage.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-heed-ground-realities-deal-with-gen-z-priorities-better-1979716)
+
+---
+
+### Kamal Davar | Time To Rebuild Relationship With Dhaka, With Eye On China & Pak
+*Deccan Chronicle · Opinion*
+
+In a world which is virtually at war with itself, South Asia remains one of the world’s most geopolitically stressed regions.India, the leading military and economic power in South Asia, faces two major adversaries: China and Pakistan. Now, another one may be emerging.
+
+Bangladesh, our once friendly eastern neighbour which the Indian Army had helped to liberate in December 1971, has, forget about gratitude, turned openly anti-India with the forced ouster of Prime Minister Sheikh Hasina in August 2024. That these developments took India’s diplomats and intelligence agencies by surprise should be a matter of concern for New Delhi.
+
+One wonders how ordinary Bangladeshis, including radical elements, can forget the brutal terror unleashed by the West Pakistan forces on them over 50 years ago: one of the worst genocides in human history in 1970-71. How can they forget the over two million East Pakistanis killed, lakhs of women raped or violated, and the insulting treatment of their hero Sheikh Mujibur Rahman, who was actually elected Prime Minister of Pakistan?
+
+Can Bangladesh ever forget around 4,000 Indian soldiers had laid down their lives to liberate their homeland? In the decades that followed, successive Indian governments have gone out of their way to help Bangladesh, economically and otherwise.
+
+The current anti-India feelings fanned by the Jamaat and other radical elements are thus hard to fathom. There are also student activists and others working as proxies of China and Pakistan’s ISI, with suspected encouragement by the United States, which is supposedly India’s strategic partner.
+
+It is also true that all through these decades since 1971, and despite their role in war crimes and other atrocities, Pakistan’s ISI and the military have maintained close contacts with Bangladesh’s Directorate-General of Forces Intelligence. Were the Indian intelligence agencies sleeping?
+
+Did successive governments in India make a strategic mistake by putting all their eggs in one basket: that of Sheikh Hasina and her Awami League? It might have been better to establish and maintain contacts with the Bangladesh Nationalist Party and even the Jamaat-e-Islami.
+
+After the outbreak in Dhaka in July-August 2024 forced Sheikh Hasina to flee to New Delhi and seek shelter, the condition of the minorities in Bangladesh -- Hindus, Christians, Buddhists -- worsened considerably, with frequent killings, torching of their temples, homes and businesses. The interim administration of Muhammad Yunus was as radicalised as the Jamaat and didn’t act in time to quell the violence.
+
+Many Hindu families are reportedly waiting to cross the border
+
+into India. Hindus constitute nearly eight per cent of the nation’s population; and Buddhists and Christians together comprise just one per cent; with their numbers gradually declining over the years, with many seeking shelter in India. Earlier, Bengali pride often transcended religious affiliations; but that is unfortunately no longer the case. Ther is no doubt that Pakistan is now busy fanning anti-India sentiments.
+
+Given this anti-India climate in Bangladesh, what really are the options open to New Delhi?
+
+The simmering student protests that led to regime change has now quietened, but violent radicalism is still on the rise. The pro-India Awami League was banned from contesting the general election, which eased the way for Tarique Rahman’s BNP to win and for him to become Prime Minister.
+
+An urgent priority for India will be to swiftly reinforce the vulnerable Siliguri Corridor, also known as “Chicken’s Neck”, a 22x60-km stretch at its narrowest point and the only land link from India’s mainland to the Northeast. India shares a 4,086-km boundary with Bangladesh, nearly 80 per cent of which is fenced; while 800 km remains to be fenced, mostly in riverine and difficult areas. In case of any mischief by Dhaka, at the prompting of Islamabad, India may have to take some kinetic action. The point to remember in our security calculus is that China and Pakistan will always try to expand their military and economic footprint inside Bangladesh to influence the eastern front, which also impacts India’s Northeast.
+
+India must unequivocally convey to Bangladesh in clear-cut terms that it doesn’t covet even an inch of Bangladeshi soil. Also, India has been more than accommodating in negotiations over Ganga river waters (called Padma in Bangladesh), water- sharing, the differences over the Farakka Barrage and over land transfers in the border region. In December 2026, the Ganga river waters treaty is due to expire, and Dhaka is extremely keen to renew it. However, India too requires more water for its agricultural needs.
+
+New Delhi must also convince Washington that it should not encourage Pakistan to meddle in Bangladesh. Notwithstanding the unpredictability of US President Donald Trump’s and his ever-changing geopolitical positions, India must influence the US establishment to be wary of China’s games in this...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/kamal-davar-time-to-rebuild-relationship-with-dhaka-with-eye-on-china-pak-1979711)
+
+---
+
+### Bills without debate diminish democracy
+*Deccan Herald · Editorial*
+
+The near washout of the monsoon session of Parliament is yet another reminder of the mortal threat to the country’s most important institution of parliamentary democracy.
+
+The numbers about its performance are stark.
+
+In the 25-day session, the Lok Sabha functioned for barely 19% and the Rajya Sabha for around 39% of their scheduled time. Twelve Bills were passed by both Houses, but only one saw substantive discussion. Nine Bills were passed without any MP, other than the minister concerned, speaking on them. This poor performance is not just a statistical failure. It shows the inability and refusal of both the government and the Opposition to engage each other, marking the breakdown of dialogue and civility in public life.
+
+The ruling party has blamed the Opposition, particularly the Congress, for repeated disruption of the House. The Opposition has accused the government of avoiding accountability on issues such as the police action against protesting students in Delhi and the theft of donations at the Ram temple.
+
+The result was a paralysis of Parliament. While both sides share responsibility, the government bears the greater burden. It must ensure that the House functions and discussions are held; yet it resisted debates on the important issues that the Opposition wanted to raise. By the time Home Minister Amit Shah offered to debate the students’ protest, it was too late. Even then, conditions were laid down for his statement. Politically, it was a defensive, even evasive, move.
+
+CJP says three sets of questions on youth protests disallowed in Lok SabhaPrime Minister Narendra Modi, who is the Leader of the House in the Lok Sabha, and Amit Shah appeared in the House just for a few minutes in the 25-day session. That absence inevitably signals scant commitment to the House. The confrontation in the House spilled beyond the House, with MPs facing off with placards outside Parliament.
+
+Parliament has reached a stage where its basic functionality has come to be questioned. Legislation passed without a debate may be legal, but it will lack legitimacy. All important issues of the nation need to be discussed in Parliament.
+
+The nation is yet to receive answers to questions about the use of force against students and the theft of donations at the Ram temple in Ayodhya. Parliament is meant for dialogue, not for a monologue. The government should facilitate discussions and accommodate the Opposition. Otherwise, it cannot expect co-operation.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/bills-without-debate-diminish-democracy-4113421)
+
+---
+
+### KSPCB is not a parking lot for politicians
+*Deccan Herald · Editorial*
+
+Karnataka appears set to repeat a mistake it has made too often: considering a political appointee to head the Karnataka State Pollution Control Board (KSPCB).
+
+For nearly 25 years, the post has gone to retired bureaucrats or political nominees, with the last technical chairperson being H C Sharatchandra, a scientist and environmentalist.
+
+This pattern has produced more controversy than governance. Vaman Acharya, an MBBS doctor and BJP leader, resigned midway through a tumultuous term, following friction with the government. His successor, Lakshman, a Congress appointee, faced an Income Tax raid.
+
+In 2019, Congress MLA K Sudhakar was appointed chairman, as part of efforts to placate dissident legislators. He quit a few months later after becoming a minister. The most serious episode followed the appointment of M Sudheendra Rao, who was removed by the Yediyurappa government within three months. He alleged that certain party leaders demanded Rs 16 crore to allow him to continue in office, triggering a major political storm.
+
+Another BJP appointee, Shanth A Thimmaiah, faced court cases over the legality of his tenure and was eventually removed amid allegations of serious irregularities. The KSPCB needs an environmental guardian at the helm, not another political tenant.
+
+The political utility of the post is hard to miss. It has repeatedly been used to accommodate politicians denied ministerial berths or as a stopgap arrangement. Even P M Narendraswamy, appointed chairman in February 2025, resigned after becoming a minister recently.
+
+A regulatory institution cannot become a parking place for political aspirants. The deeper problem is that the Centre and the state have diluted the technical threshold despite the Supreme Court’s emphasis in Techi Tagi Tara vs Arunachal Pradesh on expertise in pollution control bodies.
+
+Nine resorts in Koppal operating without permission from KSPCB ordered to shutThe Centre’s amendment and Karnataka’s rules broadened eligibility, allowing administrative or public experience to substitute for specialised qualifications. That may ease political appointments, but it weakens the institution.
+
+The KSPCB is not an administrative office. Industrialisation brings complex chemical effluents, hazardous waste, and toxic emissions. Bengaluru’s air and noise pollution require scientific monitoring and interpretation. Environmental impact assessments and industrial clearances handled without adequate technical scrutiny risk becoming routine exercises in rubber-stamping, weakening public-health protection.
+
+Karnataka’s expanding footprint of resource-intensive data centres makes domain expertise even more urgent. Climate change further demands knowledge in carbon accounting, industrial decarbonisation, and circular economy practices. The government should stop treating the KSPCB chairmanship as a rehabilitation centre and appoint a qualified, independent expert. A body charged with safeguarding the ecology cannot afford to have its own integrity polluted by political expediency.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/kspcb-is-not-a-parking-lot-for-politicians-4113419)
+
+---
+
+### Rescue must begin before the disaster
+*Deccan Herald · Opinion*
+
+At 6 am on July 31, my phone began to buzz. The calls were about an unfolding operation in Kerala, and what followed was a reminder of a simple truth: the most successful rescue is often the one that begins before the disaster does.
+
+By the time the heavy rain set in, over the first five days of August, the National Disaster Response Force (NDRF) personnel were already on the ground. As part of the pre-monsoon preparedness mechanism, 11 teams (a full NDRF team is 47 personnel) had been pre-positioned across the state ahead of it. Their deployment was not a reaction to a disaster that had already happened; it was a response to the possibility of one.
+
+The decisive work of disaster management happens largely unseen, well before the first rescue call is made — in forecasting, the pre-positioning of resources, evacuation planning and coordination.
+
+A rainfall figure, on its own, rarely tells the whole story. When the heavy rain arrived, it had to be read together with the state of the reservoirs, because rain running into catchments that are already brimming behaves very differently from the same rain on empty ground.
+
+The dam bulletin reaching the state emergency operations centre tells its own story: in Idukki, Lower Periyar is at its full reservoir level, Kallarkutty has crossed 96%, and several major reservoirs remain in the red, still spilling water through their gates more than a week after the downpour.
+
+With the dams this full, even the light-to-moderate rain is not a small matter. It is the two readings together, rainfall and reservoir level, that show where the danger lies. Kautilya understood this 2000 years ago: his Arthashastra speaks of preparing the counter to an adversity before it arrives, vinipāta-pratīkāra. Do not wait for the crisis to prepare for it.
+
+Brief downpour floods roads, disrupts traffic in BengaluruThe clearest lesson of the operation was the value of having specialised forces already in place. The NDRF teams were positioned in advance, with the State Disaster Response Force, Fire and Rescue Services and Civil Defence volunteers ready to reinforce them.
+
+Many of those volunteers had come through NDRF training programmes run across several states in the preceding months, and the Kerala State Disaster Management Authority had run multi-agency tabletop exercises before the monsoon so that when the calls came, most of those in the room had, in effect, already rehearsed the day once.
+
+All of this buys the thing that matters most in a flood: time. When a settlement is cut off, the difference between a team already in the district and one still being moved from far away is measured in lives. The point is not more personnel on paper, but the right people and expertise in the right place before conditions turn.
+
+Rescue makes the news, but it is the wrong yardstick. The better measure is how many people never had to be rescued at all, because they were moved out in time. Through those five days of heavy rain, more than 3,000 people were evacuated to safety in coordinated moves involving the the NDRF, the SDRF, Civil Defence and the district administration. A reactive system counts the people it has to pull out of danger; an anticipatory one counts the people it can move to safety before the danger reaches them. The second count is the one that should define the work.
+
+No single agency handles a major disaster on its own. This response held because the district administration, the NDRF, the SDRF, Fire and Rescue Services, Civil Defence and the meteorological and dam-monitoring agencies were working on the same page. At its best, coordination of this kind becomes something more deliberate: fusion.
+
+In the older model, uniformed forces are called in only after local capacity is already overwhelmed; civil–military fusion turns that around. It has the civil administration and the uniformed forces, the NDRF, the state forces, and, in larger emergencies, the armed forces, planning together and operating as one system from the first hour, rather than as separate columns that meet for the first time in the middle of a crisis. That integration cannot be assembled once the water is rising. It has to be built earlier, in agreed command arrangements, standing liaison and joint rehearsals. Kerala’s pre-monsoon deployment, cross-state training and tabletop drills were exactly this groundwork.
+
+Incidents like this one should not stay as isolated lessons. They should shape a broader disaster-management doctrine built on four plain steps: forecast, prepare, pre-position and evacuate, held together by fusion between civilian and uniformed responders. Technology helps at every step, from real-time reservoir data to interoperable communications, but technology alone does not save lives; institutional preparedness, and the willingness to act on it, do.
+
+(The writer is an assistant commandant, National Disaster Response Force)
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/rescue-must-begin-before-the-disaster-4113429)
+
+---
+
 ## 16 August 2026
+
+### Not just turbulence: on the Air India aircraft incident
+*The Hindu · Editorial*
+
+The August 4, 2026, incident involving Air India flight AI 2379, from Phuket to Delhi, with 137 passengers and eight crew, now has two tracks. The first concerns its reclassification: the initial ‘event of turbulence’ is now a “serious incident” after inflight technical issues and a significant deviation in aircraft altitude caused injuries to more than 20 passengers and crew, quickly drawing in the Directorate General of Civil Aviation (DGCA). The subsequent probe by the Aircraft Accident Investigation Bureau, along with France’s investigation authority, BEA, and technical representatives from Airbus, should unravel the multiple anomalies that briefly overtook the Airbus A320N — fault warnings across the hydraulic systems, elevator flight-control faults, autopilot disconnection, emergency-exit door indications and an engine anti-ice warning. Airbus’s initial data is said to support the evidence of technical errors. However, it is the second track that has received much attention: the result of the pilot-in-command’s post-flight screening for psychoactive substances.
+
+The Tata Group-Singapore Airlines joint venture airline has been prodded into commencing the immediate and mandatory screening of its flight deck crew ‘for any substances or unprescribed medications’. But the deeply discomfiting discovery has exposed the weak link in crew screening — the greater emphasis on pre- and post-flight breathalyser checks for alcohol than on testing for psychoactive substances, which falls under the Civil Aviation Requirements (CAR) Section 5-Air Safety Series F Part V. In fact, the CAR — which applies to Air Traffic Controllers also — leans more towards random and post-flight/post-shift testing, with graded disciplinary action. With India’s air carriers expanding operations, crew citing stress-related issues, and, separately, the availability of substances for medicinal or recreational use, the regulator must ensure stringent psychoactive substance testing and operational compliance. The DGCA’s Medical Circular No. 02 of 2021, on ‘over-the-counter (OTC) drugs and self-medication’, highlights pilot cognitive/psychomotor skills impairment, drawing on the Mangaluru (2010) and Kozhikode (2020) fatal air accidents. Further, documented cases from the West reveal that even small levels of impairment can affect crew judgement, reaction time, coordination, and decision-making, the critical skills needed in the flight deck. Ensuring that fit crew are behind the controls is an aviation industry bedrock, and every Indian operator, large or growing, must uphold the highest standards. This was a lucky escape, but luck cannot be allowed to become a safety strategy.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/not-just-turbulence-on-the-air-india-aircraft-incident/article71352918.ece)
+
+---
+
+### India’s democracy needs different electoral rhythms
+*The Hindu · Opinion*
+
+The “One Nation, One Election (ONOE)” proposal (to enforce a uniform, synchronised timeline for national and State elections across India) represents a profound misapprehension of the structural mechanics of the parliamentary system, and poses an existential threat to the federal architecture designed by the framers of the Constitution.
+
+To align the distinct political rhythms of dozens of individual States with the central government, in the name of national uniformity, is to prioritise administrative convenience over democratic substance. The argument for synchronisation relies heavily on a superficial calculation of financial expenditure and an overblown narrative of governance paralysis. Yet, it ignores the fundamental constitutional friction that occurs when presidential mechanics are clumsily grafted onto a parliamentary democracy.
+
+[Read full article](https://www.thehindu.com/opinion/lead/indias-democracy-needs-different-electoral-rhythms/article71353386.ece)
+
+---
+
+### DC Edit | Curb Sale Of Unhealthy Food
+*Deccan Chronicle · Editorial*
+
+The Supreme Court’s direction to the Food Safety and Standards Authority of India (FSSAI) to implement front-of-package labelling (FOPL), a standard adopted internationally, on pre-packaged food products is a step in the right direction.
+
+If FSSAI does not act within two weeks, the apex court said it will pass necessary orders mandating FOPL. This might bring two-year-long litigation on the issue to a conclusion. The Central government has not been forthcoming in implementing FOPL in the country because traditional Indian foods tend to contain excessive amounts of sugar, salt and oil.
+
+Though the Supreme Court is right in its stand, the government’s hesitation is also understandable, especially after the flak it received two years ago for classifying samosa and jalebi as unhealthy through the oil and sugar board initiative by the National Institute of Nutrition (NIN), which was intended to help people make informed decisions.
+
+However, the government cannot escape its obligation to guide people in making the right choices merely because doing so could affect its electoral prospects. This issue assumes greater urgency because nearly 80 per cent of these packaged food products are available in the vicinity of schools, and up to 10 per cent of school-age children are overweight.
+
+The NIN initiative caused an uproar because the installation of oil and sugar boards was mandatory at all institutions and could have affected the livelihoods of lakhs of informal food vendors. The issue relating to pre-packaged foods is slightly different because consumers of these products largely come from the upper-middle and affluent classes.
+
+After implementing the court’s order, the government must engage with food experts and vendors to reinvent traditional cuisines to make them suitable for people with sedentary lifestyles. A gradual shift is acceptable, but inaction over dangerous food consumption is not expected of a responsible government.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-curb-sale-of-unhealthy-food-1979691)
+
+---
 
 ### Pavan K. Varma | Students: Be Non-partisan; Stop Protests, Drive Policy
 *Deccan Chronicle · Opinion*
@@ -48,6 +247,41 @@ The Opposition will inevitably attempt to use the movement. That is the nature o
 The challenge for the young is, thus, not to exchange one form of political manipulation for another, but to see themselves...
 
 [Read full article](https://www.deccanchronicle.com/opinion/columnists/pavan-k-varma-students-be-non-partisan-stop-protests-drive-policy-1979519)
+
+---
+
+### SANJAYOVACHA | Zhu Rongji And His Role In Rise Of 21st Century China | Sanjaya Baru
+*Deccan Chronicle · Opinion*
+
+During my first visit to China in the early 1990s I was taken around a village across the river from Shanghai and told that this area would one day become a modern metropolis. Viewing all the plans that I was shown, I returned to write a column titled “A Manhattan of the East”. The plans were for nothing less.
+
+Revisiting Pudong across the Shanghai bund a decade later, I stood in awe of the transformation planned and executed within a decade. In April 2001 leaders from around the world arrived in Pudong New District to attend the Asia-Pacific Economic Cooperation (Apec) summit meeting.
+
+The man who was placed in charge of the transformation of Shanghai by Deng Xiaoping, the architect of China’s modernisation and globalisation, died last week at the age of 98. To an Indian unfamiliar with China’s recent history, Zhu Rongji would be best described as a combination of Manmohan Singh, P. Chidambaram and Montek Singh Ahluwalia, all put together, for his contribution to China’s economic transformation. From the late 1980s till the early 2000s, Zhu Rongji was responsible for a wide range of national policy initiatives including trade liberalisation, fiscal stabilisation and privatisation of state-owned enterprises.
+
+Equally, Zhu was responsible for the transformation of Shanghai from a colonised port town through which British imperialists pushed opium to dope and enslave a nation into Asia’s Manhattan, a bustling globalised metropolis. Zhu was able to do more for Shanghai in a decade then what a half a dozen chief ministers have been able to do so far for a city like Hyderabad.
+
+Trained to be an economist, Zhu joined the faculty of economics at Tsinghua University. Like many intellectuals and members of the Communist Party of China, Zhu had also been forced to quit his job and go to a village to work as a labourer during the Cultural Revolution. At the end of the Mao Zedong era Zhu, like Deng and hundreds of others, was rehabilitated and allowed to return to his earlier profession.
+
+As Deng’s biographer Ezra Vogel records in his monumental tome, Deng Xiaoping and the Transformation of China: “Deng had known Zhu in Beijing earlier, when Zhu had been deputy head of the State Economic Commission, and Deng recognised that he was a rare talent who combined bold political leadership skills, a strategic understanding of how to improve the economy, and an unusual confidence in pursuing reforms.”
+
+Returning from a visit to Shanghai in February 1990, Deng had told China’s Prime Minister Li Peng to prioritise the development of that port city and suggested that Zhu be made responsible for this task. As Vogel records, Deng told Prime Minister Li and Chinese President Jiang Zemin: “Why do people support us? Because over the last ten years our economy has been developing… If the economy stagnated for five years or developed only at a slow rate …. What effects would be produced? This would be not only an economic problem but also a political one.” He then went on to speak about the need for sustained economic reform and ended by observing: “It is of prime importance to develop Shanghai. That city is a trump card.”
+
+The man who monetised that trump card was Zhu. He was then named governor of the People’s Bank of China, during which term he was required to manage the consequences of the Asian financial crisis of 1997-98. China’s regional and global financial profile grew as a consequence. In 1998, Zhu succeeded Li as Prime Minister and in his five-year term (1998-2003) he undertook wide-ranging economic and fiscal reforms at home and oversaw China’s entry into the World Trade Organisation.
+
+If Deng was the political and intellectual architect of post-Mao China, Zhu was the technocrat who attended to the details. It is not surprising that Zhu’s obituaries have appeared across the world duly noting his contribution to the modernisation and globalisation of the Chinese economy.
+
+In an essay I wrote on “Henry Kissinger and the Selling of China” in a volume I co-edited titled, A New Cold War: Henry Kissinger and the Rise of China, I discuss in detail the bargaining that went on between the United States and China for China’s admission into the World Trade Organisation.
+
+With Kissinger’s support on the US side, Zhu played a key role in persuading the Clinton administration to agree to China’s admission into the WTO, a decision that accelerated China’s rise as a global trading superpower.
+
+As I record in my 2021 essay, Kissinger played an important role in convincing the US leadership at the turn of the century that the US ought to treat China as a “normal trading” nation and agree to its entry into the World Trade Organisation. The US and China were at the time in the midst of negotiations on the terms of that entry.
+
+Kissinger lent his weight to China’s admission stating that China’s membership of the WTO “should be in the interest of China, of the United States and of the world community”.
+
+Kissinger concluded his address stating: “I ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/sanjayovacha-zhu-rongji-and-his-role-in-rise-of-21st-century-china-sanjaya-baru-1979696)
 
 ---
 
