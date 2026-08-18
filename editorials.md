@@ -1,8 +1,318 @@
 # Editorials
 
-_Last updated: 2026-08-17 02:43 UTC_
+_Last updated: 2026-08-18 02:37 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 18 August 2026
+
+### Awaiting answers: On the student protests in Jharkhand
+*The Hindu · Editorial*
+
+When the route up the economic ladder in society is limited to an ever-narrowing range of options in the public sector, and the process of gaining entry through entrance examinations becomes tainted, angst and agitation are the results. This is why students in Jharkhand, loosely organised into two platforms — the Jharkhand Public Service Commission (JPSC)-Jharkhand Staff Selection Commission (JSSC) Abhyarthi Nyay Manch and the JPSC-JSSC Reform Manch — have been protesting in Ranchi for over three weeks. The trigger was the July 2 result of the JPSC’s 14th Combined Civil Services preliminary examination, which shortlisted 2,204 candidates from about 3.5 lakh aspirants for 103 posts. Aspirants pointed to undisclosed category-wise cut-offs, oddities in the merit list, a widely circulated OMR sheet on which an ostensibly successful candidate had attempted fewer than half the questions, and the fact that the conducting agency had been blacklisted in May 2025. The two platforms differ in their political leanings and have sought to negotiate separately with the government, but both want the cancellation of the disputed JPSC and JSSC exams, a CBI investigation and prosecution of officials, besides the reconstitution of commissions and a predictable examination calendar. The Jharkhand Mukti Morcha-led coalition government has responded with CID raids, arrests, resignations in the JPSC, and a cabinet committee. On Monday it went further, announcing the cancellation of all examinations conducted since 2014 by the outsourced agency, TSR Data Processing, which might help assuage the agitating students but could leave those who cleared the examinations fairly in the lurch.
+
+The rot in the exam system is deep-rooted. Since the State’s formation in 2000, results have frequently been delayed and cycles have been bunched up many times. In a recent JSSC exam, an SIT reported no organised leak despite CID reports that described money changing hands for pre-examination access. These have eroded students’ trust in the government; hence the demand for a CBI probe. The 2003 and 2005 exams were subject to CBI scrutiny but the cases are still pending. Yet, the Hemant Soren-led government should concede this politically unpalatable demand, along with other steps, including a fixed exam calendar, and fair and transparent marking with clear cut-offs and time-bound results. Jharkhand is one of India’s poorest States, and its mineral wealth has not led to sufficient employment. With youth forced to rely on monsoon-dependent agriculture and allied activities, a government job offers a steady option. Aspirants spend years in coaching centres and libraries in pursuit of this. The youth deserve not only a fair recruitment system but also a government that diversifies their options for gainful employment.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/awaiting-answers-on-the-student-protests-in-jharkhand/article71357240.ece)
+
+---
+
+### Losing forest for trees: On the CAG’s audit of the Green India Mission
+*The Hindu · Editorial*
+
+A performance audit by the Comptroller and Auditor General (CAG) of the Green India Mission (GIM) has found that a scheme conceived to heal India’s forests had, across a decade, achieved almost nothing it set out to do. Instead of improving forest quality over 1.4 million hectares, the mission only managed 0.11 million — not even a tenth of the target. On expanding forest cover, the mission barely scraped together four per cent. The Compensatory Afforestation Fund Management and Planning Authority (CAMPA) channels money collected from industry for diverting forest land into afforestation, while the Mahatma Gandhi National Rural Employment Guarantee Scheme, now rebranded as VB-G RAM G funds rural wage labour that can be used for plantation and land-restoration works, but GIM’s intended convergence with these schemes never materialised. The mission was one of the eight pillars of the National Action Plan on Climate Change, unveiled in 2008, and the instrument through which India promised the Paris Agreement an additional carbon sink of 2.5 billion to 3 billion tonnes by 2030. Its animating idea was ecological — biodiversity, water, sequestration, and the revival of habitat. GIM however seems to be on the back burner and, for all practical purposes, replaced by a tree plantation drive called ‘Ek Ped Maa Ke Naam (A Tree in the Name of Mother)’. Launched in 2024, the government reports planting 140 crore saplings so far, but the latest forest data expose the gulf between a tree and a forest. The India State of Forest Report 2023 records a gain of 1,445 square kilometres in green cover but only 156 sq km of it is true forest. The rest, 1,289 sq km, is ‘tree cover outside recorded forests.’ Within the recorded forests, dense canopy is thinning into scrub. Ergo, India is planting more and foresting less.
+
+Few examples encapsulate this as much as the controversy over the Aravallis. Arguably the country’s most degraded range — its hillocks quarried away, its native growth overrun by the invasive ‘vilayati kikar’ (Prosopis juliflora) — it is now to be rescued by a ‘Green Wall’ of fresh planting. But these arboreal conscripts cannot undo the damage from years of mining, halt encroachment, or summon back an ecosystem that took millennia to form. Restoration is not landscaping. The CAG’s instrument is accountancy: it can count hectares and rupees, not the worth of a living forest; and its assessment cannot always capture the practical challenges of implementing missions. However, its verdict still lands. A mission to restore India’s forests has been allowed to wither while the state busies itself counting trees.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/losing-forest-for-trees-on-the-cags-audit-of-the-green-india-mission/article71356794.ece)
+
+---
+
+### Taxing ‘frivolous’ industries will not fund India’s science
+*The Hindu · Opinion*
+
+Whenever concerns are raised about the lack of funding for Indian science, a solution often put forward is to tax “unintellectual” industries such as cinema, tourism, apparel, and perfumes. For example, only recently, an academic from one of India’s leading research institutes suggested taxing the Indian Premier League (IPL), which, he argued, would magically generate “₹15 billion” for scientific pursuits; the “stroke of genius” was duly fawned over.
+
+This reflects a common instinct: it is naturally hard not to want a share of the cake for a ‘nobler’ cause, when a ‘frivolous’ business makes profit in plain view.
+
+A flawed propositionIt is equally easy to overlook the economic cascade effects of such frivolities. Organised sport, for example, generates employment across a multitude of allied industries: merchandise, food and beverage, broadcasting, physiotherapy and rehabilitation (sports science is a science too). This investment has undeniable trickle-down benefits, across more sports than one and beyond major cities.
+
+Though well-intentioned, the myopic and fallacious “tax-this-to-fund-that” proposition needs to be dispelled immediately.
+
+If ‘profit’ in the sports or film industries necessarily came at the expense of science, then the exercise in financial imputation should be very simple: of the $5 billion in profit earned by a match or a movie, $1 billion was made because a laboratory fell short of centrifuges. If that were true, then all scientists should refrain from watching movies or sports on government-subsidised campus Wi-Fi, as this would imply scientific funding flowing back to the entertainment industry. Luckily for them, the empirical evidence does not hold up: countries boasting a high expenditure on sport do not necessarily have poor scientific output, and vice versa. Besides, science is not an isolated pursuit: significant scientific input goes into making films or manufacturing textiles.
+
+The disastrous economic experiments in India and around the world in the 20th century demonstrated that wealth is not a fixed, zero-sum pie: progress in X does not necessarily come at the expense of Y. As academics, we must refrain from making sweeping moralistic remarks, as though we know the right level of wealth surplus and how it should be spent better than the market does. Millions of dispersed individual decisions made by ordinary people contain more information than centralised academic or bureaucratic intelligence.
+
+Moreover, how do we know that the state can reliably direct the proceeds towards science? Government spending is the prerogative of bureaucrats and politicians, who are inevitably insulated from the consequences of such expenditure.
+
+Should the money be directed towards science, must it be distributed equally among all institutes and laboratories across the country, or apportioned according to productivity? If the latter, how will productivity be measured, and by whom? Some scientists appointed as advisers to the Department of Science and Technology? Would they not favour their colleagues and collaborators?
+
+But, why only science? Just as scientists can make a fair claim for the setting up of state-of-the-art research laboratories, surgeons could demand better hospitals in Tier-3 towns, and policemen could call for better protective gear. Given the same pool of government money, how does one choose among these equally valid, competing claims? Politicians are notorious for basing such decisions on the electoral strength of each group, while academics form factions among themselves: microbiologists might grumble about theoretical physicists receiving disproportionately high funding, much to the delight of funding agencies.
+
+If ‘only science’, then what kind of science? Should the money go towards buying more microscopes, gene sequencers, or chromatography equipment?
+
+Most scientists would, credulously, want these decisions to be left to scientists themselves: a grand delusion, for no subsidy is ever unconditional. A government that provides a fertilizer subsidy will ensure that it is used only to purchase fertilizers, and will go to extreme lengths to define what a fertilizer is. The subsidy giver has historically viewed the subsidy recipient as a potential embezzler. State funding for science is no different.
+
+What is ‘allowed’ instead of ‘needed’Government funding for science is, by definition, categorised into watertight compartments, for example, electronics, chemical reagents, consumables, travel grants, and equipment. Laboratories that do not need that extra bottle of hydrogen chloride but desperately need a computer monitor are often unable to make the purchase because the money has been rigidly earmarked. Once, a laboratory was allowed to purchase a server under “electronics”, but not a graphics card because, for some inexplicable reason, it fell under “consumables” rather than “electronics”. If a scientist does not spend all the money allocated to her in a financial year, she may receive less funding in the next one. This absurd incentive produces colossal wastage, as what is “allowed” is bought instead of what is “needed”, often at the cheapest possible price.
+
+Consequently, precious time is wasted learning tricks to circumvent these restrictions, much like companies did during the Licence Raj. Experiments are often put on hold while scientists navigate cumbersome procurement rules, particularly towards the end of each financial year.
+
+Steps to takeTheoretically, the money is there, but it is squandered because its expenditure is predetermined by archaic rules that the bureaucracy has little incentive to change. Removing these restrictions would free up considerable resources for their intended use. Procurement aside, even the recruitment of scientists is governed by the archaic University Grants Commission Act (1956), contributing to India losing some of its best scientists to opportunities overseas.
+
+Another indirect and “less bad” measure for expanding available funds would be to remove the Goods and Services Tax and steep import duties on scientific equipment. The rent on knowledge creation slows research and stagnates the circulation of money, which ultimately returns to the government.
+
+Right now, India also places crippling restrictions on private investment in science. Strict compliance requirements under CSR rules incentivise short-term, low-risk research projects. Foreign Contribution (Regulation) Act procedures remain tedious, and many laboratories struggle to navigate the paperwork required to attract foreign funding. This is unfortunate, as private endowments have a greater stake in the success of research than any anonymous bureaucrat ever would.
+
+In a bid to promote domestic manufacturing, the government has resorted to import substitution, a measure that serves only to insulate local industries from global competition while failing to deliver world-class products.
+
+The mandatory adoption of the Government e-Marketplace (GeM) has been a death knell, further delaying procurement and forcing scientists to settle for cheaply made Indian equipment that looks identical on paper but falls short of international standards. Often, they spend time identifying “features” available only in foreign-made products so that they can be allowed to purchase them.
+
+If a venture can be a great success in attracting international talent by virtue of being taxed less, so can other endeavours. For India to be at the forefront of science, the mechanism is to liberalise the bottlenecks through which money and capital somehow manage to trickle into academia and reduce dependence on the government, rather than taxing the few geese that lay the golden eggs.
+
+Ritvik Chaturvedi is Senior Research Fellow, Centre for Earth Sciences, Indian Institute of Science (IISc), Bengaluru. Website (www.ritvikc.com)
+
+[Read full article](https://www.thehindu.com/opinion/lead/taxing-frivolous-industries-will-not-fund-indias-science/article71357138.ece)
+
+---
+
+### Aakar Patel | Without Freedom, Does The Word ‘Independence’ Really Mean Much?
+*Deccan Chronicle · Opinion*
+
+The term “independence” is linked to “freedom” and is a meaningless word without it. A few years ago I had surveyed the state of freedom in India as the world saw it. I had done this for one of my books, but periodically I revisit this list of indices to see what changes have come.
+
+On Independence Day last Saturday, I thought it would be apposite to do this. Some of the organisations which are referred to here may be unfamiliar to readers but they are reputable and their findings are respected. We shall look at what the government says about them at the end. Let us start.
+
+The Pew Research Centre is an American organisation that monitors long term trends. It reviews government restrictions and social hostilities around the world. Its latest finding is that India has high levels of the former and “very high” levels of social hostilities. By 2019, India was in the top 10 in each of the following categories:
+
+*Countries with high levels of social hostilities related to religious norms;
+
+*Countries with high levels of inter-religious tension and violence;
+
+*Countries with high levels of religious violence by organised groups;
+
+*Countries with high levels of individual and social group harassment.
+
+CIVICUS is the global alliance of civil society organisations. It monitors freedom of association, of peaceful assembly and expression. In its rating India’s civic space fell from “Obstructed” to “Repressed”. It says that the “deterioration of India’s civic space is alarming” -- particularly its assault on freedom of expression using an array of restrictive laws and its attempts to impede human rights groups.” Because of this, its report says that “India has been added to a watchlist of countries that have seen a rapid decline in civic freedoms”.
+
+The Economist Intelligence Unit is a part of the Economist magazine based in the UK. It publishes a Democracy Index in which it classifies India as a “flawed democracy”. It says this is the "result of democratic backsliding under the leadership of Narendra Modi" and the "increasing influence of religion under Modi, whose policies have fomented anti-Muslim feeling and religious strife, has damaged the political fabric of the country”.
+
+Founded in 1941, Freedom House says it is "the oldest American organisation devoted to the support and defence of democracy around the world”.
+
+In its Freedom in the World report, India fell from “free” in 2014 to “partly free”. Kashmir, which is rated separately, is “not free”.
+
+It says that the “BJP has presided over discriminatory policies and a rise in persecution affecting Muslims”.
+
+The Washington-based World Justice Project says it is an “independent, multidisciplinary organisation working to advance the rule of law worldwide”. Its Rule of Law Index monitors accountability, just law, open government, and accessible and impartial justice. India fell from 66th in the world to 77th in 2022 to 86th now.
+
+Reporters Without Borders is based in Paris and produces an annual World Press Freedom Index. India is ranked 157th in the world and the reasons cited include a "rise in violence against journalists, highly concentrated media ownership, and outlets with increasingly overt political alignment”.
+
+Founded in Washington in 1977, the Cato Institute says its vision is “a free and open society in which liberty allows every individual to pursue a life of prosperity and meaning in peace”.
+
+In its Human Freedom Index, India has fallen from 87th to 110th in the world, with low scores on personal freedom and economic freedom.
+
+Berlin-based Transparency International says it “holds the powerful and corrupt to account, by exposing the systems and networks that enable corruption”. India’s rank has fallen in its Corruption Perceptions Index from 85th to 91st. Its survey says that 39 per cent of Indians had to pay a bribe in the last 12 months.
+
+The International Food Policy Research Institute in Washington publishes the Global Hunger Index. India is ranked 102 with a hunger ranking that is “serious”.
+
+The University of Gothenburg produces the Varieties of Democracy (V-Dem) Index which examines institutional democracy and “autocratisation”. After 2014, it says India has seen “one of the most dramatic shifts among
+
+all countries in the world over the past 10 years”. India lost its status as a democracy and was classified as an “electoral autocracy”, joining nations like Hungary and Turkey. On freedom of expression, media and civil society, India was “as autocratic as is Pakistan, and worse than both Bangladesh and Nepal”. India had introduced “discrimination by religion” through its citizenship laws.
+
+In 2020, concerned by the findings, the government ordered that a “single, informative dashboard” be prepared for 32 global indices. This monitoring exercise was “not just to improve rankings but to improve systems and drive reforms to attract investments and to shape India’s perception globally”. Later, the government said it would launch “a massive publicity...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/aakar-patel-without-freedom-does-the-word-independence-really-mean-much-1979986)
+
+---
+
+### Sanjeev Ahluwalia | Trouble At Bombay House? Tata Titans Locked In Tussle
+*Deccan Chronicle · Opinion*
+
+A face-off between two sets of storied owners of an unlisted, private holding company, Tata Sons, established in 1896, which controls twenty-six listed Tata companies with a combined market valuation of about $328 billion, or seven per cent of the market cap of Sensex (2025), annual aggregate revenues of $180 billion and about a million employees, is big and unsettling news. The group’s operations span a hundred countries and six continents.
+
+The twist is the ownership structure of the holding company: Tata Sons. Two Tata Trusts control two-thirds of its equity. The Shapoorji Pallonji group — a legacy construction company and close associates of the Tata family — has held another 19 per cent since 1930. Together, these three trusts are the majority owners of Tata Sons. The Tata companies are well governed. Each operates independently under the guidance and supervision of its own board of directors. The problem is backseat driving by the trusts owning Tata Sons often muddies top-down signals.
+
+The most recent such incident is the lack of unanimity about extending the term of Natarajan Chandrasekaran, chairman of Tata Sons, beyond February 2027 when it ends. Noel Tata — Ratan Tata’s half-brother, who now controls the Tata Trusts after the demise of Ratan Tata in October 2024 — is opposed to Mr Chandrasekaran’s extension. The clash might be personal. Ratan ushered in Mr Chandrasekaran, a technologist with the Tata group for three decades, as a trusted chairman to replace chairman Cyrius Mistry, who was removed by a board resolution in 2017. In doing so, Ratan Tata overlooked Noel Tata then and again in 2022, whilst anointing Mr Chandrasekaran for a second term. This must have hurt.
+
+There are also substantive disagreements around Tata strategy going forward. Ratan Tata had a flair for the big game. Not all his bets paid off. Investments in JLR, Corus Steel in Europe, Air India and Tata motors have not been multi-baggers. Legacy investments in steel and chemicals remain slow on growth. But investments in TCS have paid off. It contributes 17 per cent of Tata group revenue but 59 per cent of group profits. The Midas touch explains the bond between Ratan and Mr Chandrasekaran, who was earlier Chairman TCS and the first non-Parsi to be chairman of Tata Sons.
+
+Noel groupies however point out that more recently, between 2017 and 2025, TCS market value increased by 126 per cent — slower than the market cap of Sensex which increased by 176 per cent. They apprehend that the proposed entry into a full-stack AI model for investments is more than what the Tata group can chew.
+
+Investment is heavy as is obsolescence (three years) and the returns increasingly uncertain. AI still flounders for a viable use case. It is, however, also true that Noel’s professional experience is mostly in investment light, quick return retail, where he excelled in making Trent, a fashion retailer, and Titan, a jewellery brand, highly profitable. His approach is pragmatic.
+
+Mr Chandrasekaran shares Ratan’s visionary approach like founder Jamshedji Tata and J.R.D. Tata, the nationalist entrepreneur who mothered Air India.
+
+Dissonance between the Tata Sons owners has been rife since Ratan, at age 75, chose Cyrus Mistry, scion of the Shapoorji Pallonji group, co-owners of Tata Sons, to succeed him. Earlier the redoubtable J.R.D. Tata, also without any direct heirs, had chosen Ratan in 1991 as the successor. After a one-year transition period as deputy chairman starting November 2011, Cyrus Mistry replaced Ratan Tata as Tata Sons chairman in December 2012 at age 43 — the youngest-ever chair and only the second person outside the Tata family in that position.
+
+Ratan Tata became chairman emeritus of Tata Sons and started overtly distancing himself from day-to-day management. But this was not to be. Either Cyrus Mistry was imprudently impatient in forcing the sedate pace of change in Bombay House or Ratan Tata had not quite delinked from his industrial “babies” as cleanly as he wished to.
+
+The titans then fell out. A no-holds-barred corporate war ensued. It ended badly for Cyrus Mistry. He was voted out as chairman in October 2016, just short of four years since he took over. Subsequent litigation in the NCLT between the SP group, contesting the abrupt removal of Mr Mistry, and Tata companies supporting it, unearthed slanderous allegations on both sides. Most remain unsubstantiated. Mr Mistry got no NCLT relief. However, his subsequent appeal to the NCALT was a triumph, securing a dismissal of the board resolution ending his chairmanship. But it proved a pyrrhic victory. In the Supreme Court on appeal by the Tata Group, Mr Mistry’s plea for a stay on the order removing him was not allowed. In May 2021 the Tata group’s appeal finally prevailed and the NCLAT order favouring the SP group was overturned without any relief.
+
+CJI Bobde and Justices Bopanna and Ramasubramanian offered practical advice to the litigants. They astutely pointed out that it took...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/sanjeev-ahluwalia-trouble-at-bombay-house-tata-titans-locked-in-tussle-1979975)
+
+---
+
+### Essential regulation, credible concerns
+*Deccan Herald · Editorial*
+
+The objective behind the proposed Karnataka Regulation of Use of Government Premises and Public Property Bill, 2026, is understandable. Public land, roads, parks, playgrounds, and government buildings cannot become the preserve of private groups or be used without regard for traffic, safety, property or public order. A clear, uniform statutory regime can bring much-needed consistency to a system that has lacked a single law governing such use.
+
+The Bill, which replaces a 2025 Government Order that the High Court stayed, requires organisers to seek permission at least seven days before an event, with approval deemed granted if authorities fail to respond within that period. This provision curbs bureaucratic discretion from becoming an indefinite barrier, while the right to appeal against rejection adds another safeguard.
+
+However, the legislation must be judged not only by its intent but also by the discretion it confers on the state. Authorities may reject applications citing public safety, law and order, communal harmony or traffic disruption.
+
+These are legitimate concerns, particularly when large gatherings strain infrastructure and risk stampedes. But the breadth of these grounds could invite inconsistent interpretation. The experience of the 2025 order warrants particular caution.
+
+Karanataka: NMPT fire personnel rescue bull from noose-like rope tied around its neckThe High Court stayed it over concerns about fundamental rights, its sweeping definition of gatherings, and the attempt to criminalise procedural lapses. The new bill addresses an important infirmity by giving the framework statutory backing and explicitly excluding funerals, marriages, informal recreation, and routine schooling activities.
+
+The provision making offences cognisable and non-bailable, with imprisonment of up to three years for a first offence and five years for a repeat offence, appears severe when the violation may involve unauthorised use rather than violence or damage. Though the provision for warrantless arrest raises valid concerns, the government maintains it is vital for prompt enforcement.
+
+Even so, the power to deprive citizens of liberty must be exercised sparingly and with mechanisms against arbitrary action. The political controversy surrounding the bill, with the Bharatiya Janata Party (BJP) alleging that it is aimed at restricting RSS activities, makes neutrality more essential. Home Minister Priyank Kharge says the law applies equally to all.
+
+That claim must be demonstrated in practice. The state has every right to protect its property, but public spaces also belong to citizens. A credible law must regulate their use without turning permission into a tool of control. Clear definitions, proportionate penalties, transparent criteria, and checks against selective enforcement would make this legislation more credible and constitutionally sound.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/essential-regulation-credible-concerns-4114619)
+
+---
+
+### Mining reform amid federal unease
+*Deccan Herald · Editorial*
+
+With the passage of the Mines and Minerals (Development and Regulation) Amendment Bill, 2026, the Union government aims to supplement the mining sector with a more predictable fiscal regime, encouraging investment.
+
+The Centre’s stated rationale is that different state-level taxes and levies created uncertainty. However, the bill has caused concern among states as it takes away some of the powers they enjoyed – the amendments curb their right to impose taxes, cesses or other levies on minerals sourced in their territory.
+
+The bill was passed in parliament amid protests by the Opposition and the rejection of demands for a referral to a parliamentary standing committee.
+
+A uniform fiscal structure is expected to promote ease of doing business for mining groups. However, facilitating this ease infringes on state governments’ right to collect charges that the Supreme Court sanctioned. In an important judgment in 2024, a nine-judge bench of the apex court ruled that states had the power to levy taxes on mineral rights. It also allowed state governments to recover dues on mineral rights dating back to April 1, 2005.
+
+The Court held that the royalty claimed by the state is not a tax but a contractual and financial consideration paid by the lessee to the lessor. The Bill conflicts with this judgment, stating that “no tax, cess or such other levy (by whatever name called) shall be imposed by the state government on mineral rights”.
+
+Jharkhand CM Soren urges PM Modi to reconsider mining bill, flags impact on state's financesThe Constitution allows states to tax mineral extraction, though this power is subject to limits set by Parliament. The government has used this provision to bring forward the amendments. Parliamentary powers to enact legislation do not necessarily mean they should be exercised, especially when such legislation goes against the interests of states.
+
+Notably, no consultation was held with the states on an issue that potentially carries serious financial repercussions for them. States such as Jharkhand, Odisha, Andhra Pradesh, Karnataka, Madhya Pradesh, and Rajasthan will be adversely affected by the legislation as it will deny them a significant part of their revenues. Jharkhand and Odisha generate as much as 75-80% of their non-tax revenue from mining. Some of the states have criticised the Bill.
+
+With key resources drying up, many states are under severe strain. The amended bill, while drawing on principles of stability, takes away from the states their revenue-generating powers at a crucial time. Read along with the Centre’s earlier decisions that conflicted with states’ interests, this presents an extended pattern of disrupted fiscal federalism.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/mining-reform-amid-federal-unease-4114624)
+
+---
+
+### China hunts for scientific talent. The US makes it easier
+*Deccan Herald · Opinion*
+
+Who’s got the talent? In the competition for scientific and technological supremacy, that question rises above the rest. Not long ago, the answer was unequivocal: the United States.
+
+But while it remains the world’s leading destination for ambitious scientific minds, a combination of funding cuts, restrictive immigration policies and suspicion of Chinese-born scientists is eroding its advantage just as China, despite serious shortcomings of its own, is becoming a credible alternative.
+
+The appeal of each country can be seen in two events of the past few months. The four winners of this year’s Fields Medal, one of mathematics’ highest honours, included two scholars born in China who had come to the United States for advanced studies. They flourished in — and remain in — the West.
+
+Then there is Zhilin Yang. Like many Chinese, he came to the United States for his graduate degree. But rather than stay, he returned to China to start Moonshot AI. In July, his company released an impressive open-source AI model, called Kimi K3, that comes close to the performance of the best models made in America — at a lower cost.
+
+Yang had no shortage of opportunities in the US when he received his doctorate from Carnegie Mellon in 2019. But he told Ruslan Salakhutdinov, a computer science professor and his doctoral thesis adviser, that he was determined to build a company in China.
+
+“The US still has a big, big advantage. We get the best people,” Salakhutdinov said. “But China will become more attractive. In the AI space, it is becoming very very clear.”
+
+China has also become more successful at recruiting academic scientists from abroad. Omar Yaghi, who shared last year’s Nobel Prize in chemistry, left the University of California, Berkeley, for Tsinghua University, where he will lead an institute using AI to accelerate the discovery of new materials. Since last year, universities in mainland China and Hong Kong have recruited at least eight prominent mathematicians from Western institutions. Joshua Zahl, who collaborated with Hong Wang, one of the Fields Medal winners this year, took a full-time professorship at Nankai University. He declined to discuss his move.
+
+These are significant wins for a country where Tu Youyou was the only scientist working in the mainland to have received a Nobel Prize in a scientific category.
+
+The biggest change in China’s recruiting power is money, said Dong Jielin, who researches Chinese science and technology policy. Two decades ago, she said, scientists returning from abroad were expected to sacrifice financially in the name of serving the country. Now Chinese universities can offer salaries that are competitive with those in Europe, along with generous relocation packages.
+
+Still, after the Fields Medal winners were announced, one question emerged in the extensive Chinese media coverage and an outpouring of online discussion: Can China’s academic system give unproven young researchers the freedom, patience and tolerance for failure they need to become exceptional?
+
+The two Chinese-born winners, Wang and Yu Deng, entered Peking University in 2007. Deng, an International Mathematical Olympiad gold medallist, received direct admission to the university’s mathematics programme. After his sophomore year, he transferred to the Massachusetts Institute of Technology, earned his doctorate from Princeton and became a professor at the University of Chicago.
+
+India twice lead China but settle for 2-2 draw in World Cup openerHe said pursuing doctoral study abroad was common among Chinese students in basic science at the time. Chinese mathematics has improved substantially since then, he said, and publications by China-based researchers in leading mathematics journals have risen markedly.
+
+Wang, 35, entered Peking University at 16 to study earth and space sciences and transferred into mathematics a year later.
+
+She went to the École Polytechnique near Paris before doing further graduate studies at MIT. In a video, she described how her doctoral adviser at MIT had listened patiently when she disagreed with others. “It helped me to gain confidence,” said Wang, now a professor at both New York University and the Institut des Hautes Études Scientifiques in France. She declined requests to be interviewed.
+
+In a video posted by the Simons Foundation after the Fields Medals were announced, she said she felt “a little discouraged” but found professors in France and the United States who helped her gain confidence. Wang was not criticising Peking University, but her remark resonated widely in China, where many people treated “discouraged” as shorthand for their own experiences in a highly competitive education system shaped by punishment and shame. The hashtag “discouraged” remains censored on the social media platform Weibo.
+
+“If they had not left China at 20, would they still be standing on that prize stage today?” asked a YouTube commentator who goes by Laozhou Hengmei. China’s scientific achievements, he argued, still did not match its economic size and abundance of talent.
+
+China can increasingly match the funding and infrastructure that attract prominent scientists. What it has more difficulty reproducing are the freedom, trust and institutional stability that allow young talent to flourish. Those remain among America’s strongest advantages, and the very advantages its current policies are putting at risk.
+
+“The US used to be sort of the default, the no-brainer option,” Terence Tao, an Australian-born Fields medallist who is a professor at the University of California, Los Angeles, said in a video.
+
+Last year, the Trump administration’s suspension of federal funding to UCLA affected both his personal grant and an institute he helps lead. The funding was reinstated after a successful lawsuit. But he has warned that abrupt funding disruptions can derail multiyear projects and damage researchers’ trust in the system.
+
+“The best and brightest may not automatically come to the US as they have
+
+for decades,” he said.
+
+Foreign students received nearly 44% of the STEM doctorates awarded by American universities in 2023. Students from China earned 17% of all US doctorates in science and engineering in 2020, and about 87% of Chinese recipients from 2005 to 2015 intended to stay, a 2023 study found.
+
+The United States is now making that pipeline less dependable. The number of visas issued to international students fell by roughly one-third in 2025.
+
+Last month, the Trump administration finalised a rule limiting how long foreign students can remain without applying for an extension. Announcing the measure, Homeland Security Secretary Markwayne Mullin said it would keep them focussed on their “primary purpose: completing their studies and returning home.”
+
+Deng, 37, the 2026 Fields medallist, said many universities in China, the United States and elsewhere had contacted him. He was considering his options but will remain at the University of Chicago for now. His research, collaborators and quality of life would all influence his decision, he said.
+
+I asked whether, if he were 20 today, he would still leave China for the United States. He noted the cuts to research funding and knowledge of the people affected by visa problems.
+
+“If I were making the decision in China today,” he said, “I would think much more carefully about whether to come to the United States.”
+
+[Read full article](https://www.deccanherald.com/opinion/china-hunts-for-scientific-talent-the-us-makes-it-easier-4114602)
+
+---
+
+### Having the courage to hop out of hesitation
+*Deccan Herald · Opinion*
+
+I have been consistently using this carefully maintained, nearly quarter-century-old, vegetable-chopping-cum-coconut-grating device for years. Last week, when it became wobbly because its wooden edges had worn out, I had no choice but to switch to another. I had to make a conscious effort to overcome the initial discomfort of getting used to the glossy new gadget. Perhaps I missed my old prized possession so much that even trying out the new one felt like a chore.
+
+Certainly, I did not want to agree with the oft-repeated saying, “Change is the only constant in life.” True, whatever the context or stage of life, there is a certain comfort in staying within the familiar zone.
+
+But, lo and behold! The sleek new model, with its sharp cutting edge, made chopping quicker and saved considerable time. This small experience set me thinking. Perhaps it is our own apprehension that often gets in the way of progress.
+
+The sanctity of the sacred springWhether it is changing careers, joining a new class that sparks creativity, trying out a different recipe or even opting for a new hairstyle, there is often a moment of hesitation. At times, our attachment to the things we believe offers us comfort and can make us overlook opportunities that may come our way only once.
+
+Recently, an acquaintance was advised to take up more arduous gym workouts to achieve the weight she had aimed to reach. Which all along she avoided, being amply intimidated by an array of unfamiliar gym equipment and amazing anatomies around her. Somehow, sloughing off all her inhibitions, she started slogging at the gym with determination. Today, her commitment to fitness has helped her stay in a fabulous shape, and more importantly, fostered a feisty confidence in her.
+
+Once, during a stroll through sprawling green spaces, much against my stubborn spirit, I had to swerve away from my ‘usual’ stretch, since soil surface there was sodden, being slathered with slimy slush, due to incessant showers. But it was sheer serendipity, stepping onto another stretch, where I stood stupefied -- a splendid setting sun, the fragrance of flowers, and the soothing chirp of sundry birds-- a stupendous scene I had never noticed before.
+
+Perhaps there is a simple truth in all this: stepping away from what is familiar can sometimes open us to experiences we would otherwise miss. We may not always know what awaits us beyond our comfort zone, but sometimes, all it takes is the courage to take a different route.
+
+[Read full article](https://www.deccanherald.com/opinion/having-the-courage-to-hop-out-of-hesitation-4114584)
+
+---
+
+### Usha Vance’s faith tests US pluralism
+*Deccan Herald · Opinion*
+
+Does the religious identity of prominent Indian Americans ever become an albatross around their neck? In Usha Vance’s case, it increasingly looks that way. The wife of Vice President J D Vance was raised Hindu and has not indicated any intention of converting to Christianity. Her faith has become a revealing fault line in American politics — one where religion, race, marriage and political power collide.
+
+Usha Vance’s Hindu identity has been discussed intensely because her husband’s political trajectory has placed their interfaith marriage under a national spotlight. Vance, a Catholic convert and one of the leading figures in the Republican Party, is widely viewed as a potential contender for the 2028 presidential nomination.
+
+In October 2025, at a Turning Point USA event in Mississippi attended by thousands, Vance was asked about his interfaith marriage and the religious upbringing of his children. He said that Usha accompanies him to church on most Sundays and that he hoped she would eventually be “moved” by the same Christian faith that had moved him. He also acknowledged that she has free will and that her not converting would not create a problem for their marriage.
+
+The episode was striking partly because of the history of their relationship. When Vance married Usha in 2014, he was not yet a Catholic; he had described himself at the time as agnostic or atheist. The couple held both Christian and Hindu wedding ceremonies, with the Hindu ceremony blessed by a Hindu priest. Five years later, in 2019, Vance converted to Catholicism.
+
+Usha, meanwhile, has accompanied him to Mass while retaining her own religious identity. Their four children are being raised in the Christian faith. The arrangement is ordinary for the compromises interfaith couples make. Yet because her husband is now vice president, the private question of religious difference has acquired a public dimension.
+
+'Obsessed with Usha': JD Vance reveals what drew him to second lady in new memoirVance’s memoir, Communion: Finding My Way Back to Faith, published in June this year, has made faith even more central to his public persona. While promoting the book, Vance again defended his hope that Usha might one day share his faith, saying that when a person believes something deeply, it is natural to want loved ones to share that belief. His position may be understandable as personal conviction, but the attention reveals how little room American public life sometimes leaves for religious ambiguity.
+
+Usha is hardly a passive figure whose identity can be reduced to her husband’s politics. A Yale-trained lawyer, she clerked for Chief Justice John Roberts before joining Munger, Tolles & Olson, where she represented some of the country’s leading corporations. She has a formidable record and a mind of her own. Yet that has not shielded her from scrutiny. Nick Fuentes, the white supremacist and far-right commentator, has questioned whether a politician with an Indian wife can genuinely support “White identity”. He also mocked Vance’s decision to name his son Vivek. Vance has defended his wife against such attacks.
+
+This leaves Vance caught between two impulses within his own political coalition: one that wants his wife to become Christian, and another that regards her Indian identity as evidence that she does not belong. Usha’s predicament is not unique. Nikki Haley converted from Sikhism to Christianity before entering electoral politics. Bobby Jindal converted from Hinduism to Catholicism, and his Hindu-born wife also converted. Kamala Harris grew up with both Hindu and Black Baptist influences, reflecting the layered identity of an Indian American raised in the United States. Vivek Ramaswamy, meanwhile, has remained Hindu while building a national political profile.
+
+All these cases raise the same uncomfortable question: must the faith of a candidate—or of a candidate’s spouse—be made to resemble whatever the electorate considers familiar and acceptable?
+
+America’s founders sought to prevent precisely such a religious qualification for public office. Article VI, Clause 3 of the US Constitution prohibits a religious test for federal office, while the First Amendment bars government from establishing religion or prohibiting its free exercise. These principles emerged from a country wary of religious establishment and coercion.
+
+The larger test is not whether Usha Vance eventually converts. It is whether she remains free not to. Her faith is hers to keep, change or reconcile in her own way. The real measure of American pluralism may be whether the country — and especially the political movement her husband leads — can accept that choice without demanding that she first become someone else.
+
+(The writer is a Delhi-based journalist)
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/usha-vance-s-faith-tests-us-pluralism-4114583)
+
+---
 
 ## 17 August 2026
 
@@ -14,6 +324,23 @@ Prime Minister Narendra Modi’s Independence Day speech, his thirteenth, was de
 Whether Mr. Modi wanted, or tried, to build a unified national approach towards these challenges and their management is doubtful. India’s progress is a continuum that should ideally have a compounding effect with each subsequent year. Comparing, in absolute terms, achievements before and after 2014, when he became Prime Minister, is neither statistically relevant nor politically prudent. The fact about India as it enters the 80th year as a free nation that fought off colonialism is that its challenges are unprecedented. It has a massive young population entering the workforce even as technology is disrupting life and work as never before. What India needs is an all-hands-on-the-deck approach, requiring a unified political will among parties and stakeholders that is unaffected by electoral contests. India also needs an indigenous understanding and philosophy of development rather than trying to mimic the techno-capitalism that is rattling advanced economies. This is a point that was underlined by the Rashtriya Swayamsevak Sangh chief Mohan Bhagwat in his Independence Day speech. Mr. Modi clearly sees the challenges; but he also sees, unfortunately, an enemy in every critic. As he leads the country into a new year of independence, perhaps he could consider new ideas, including those from his critics, instead of amplifying divisive ones.
 
 [Read full article](https://www.thehindu.com/opinion/editorial/united-and-free-on-the-prime-ministers-independence-day-speech/article71352939.ece)
+
+---
+
+### DC Edit | As NTA Stumbles Again, Time For A Total Overhaul
+*Deccan Chronicle · Editorial*
+
+The announcement by the National Testing Agency (NTA) cancelling the English, commerce and sociology papers of the UGC-NET examination held in June this year is yet another example of the callous way the national agency went about its job and took the young people of this country for a ride. The Union government must at least now look seriously into its functioning and make transformational changes instead of opting for quick fixes and ad hoc measures.
+
+Post-graduate students across the country take the UGC-NET examination with the hope that it could open to them the world of academia. An enormous amount of effort goes into preparing for it as the national test is intended to select some of the best candidates who will direct research and teaching in this country. Unfortunately, the NTA, the government agency which conducts this test, does not approach the examination with the same seriousness as the students. It may be remembered that the NTA had released the answer key of this year’s UGC-NET examination one-and-a-half months after the examination against the usual timeframe of a couple of weeks.
+
+The decision to cancel the examination has come after a committee appointed by the NTA to examine several complaints about multiple errors in these papers submitted a report that should make everyone associated with the agency hang their heads in shame. The papers had “many factual, typographical, and translation errors including misspelt names of prominent scholars, garbled book titles, errors in the stem wording of questions, grammatical errors, gender and number agreement errors, punctuation mistakes, and non-standard coined terms for established concepts, as well as repetition of a significant number of questions previously administered.” The agency conceded that “papers carrying such defects do not meet the standards of fairness and error-free examination, and defects of this extent cannot be cured merely by dropping questions after the challenge process,” and hence ordered a re-test.
+
+The NTA’s inability to conduct a series of important examinations efficiently has been discussed exhaustively in this country for several years. The 2024 question paper leak in the Neet had prompted the government to take two steps: one, to appoint a committee of experts to strengthen the agency and two, to tighten the law and increase the punishment for the wrongdoers convicted of messing up with examinations. The government took a similar step after this year’s massive bungling in several examinations without bothering to take the corrective steps suggested by the K. Radhakrishnan committee which made a slew of recommendations to avoid the mistakes.
+
+It may be recalled that the CBI which investigated the leak in the Neet question papers found that the rot in the agency had set in so deeply that that people who have access to the question papers, including those who set them, were involved in the leak. It has emerged as a porous, shaky and untrustworthy organisation entrusted with the job of selecting the brightest students for the country’s most important and critical educational institutions. The government owes the young people of this country proper corrective action to ensure that this year’s lapses are never repeated.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-as-nta-stumbles-again-time-for-a-total-overhaul-1979965)
 
 ---
 
@@ -33,6 +360,23 @@ The Congress, the principal Opposition party, appears to be equally clueless abo
 Verbal solutions are unlikely to gratify the youth, but actions could. So, politicians of all hues would better learn the language of the generation with which they seek to engage.
 
 [Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-heed-ground-realities-deal-with-gen-z-priorities-better-1979716)
+
+---
+
+### DC Edit | Wake-up Call For Airport Security
+*Deccan Chronicle · Editorial*
+
+The accidental discharge of a licensed firearm at Varanasi’s Lal Bahadur Shastri International Airport on Sunday cannot be dismissed as a mere procedural lapse or accident — it is, in fact, a wake-up call for Indian aviation security.
+
+According to reports, the passenger, who followed all standard declaration protocols, mistakenly believed that his pistol was unloaded and pulled the trigger, leaving two airport staff members wounded. This act, despite being unintentional, raises several questions: Does the airport not have a mechanism or technology to check whether a firearm is loaded? What prompted him to pull the trigger? How did this crucial security aspect escape scrutiny by the Bureau of Civil Aviation Security?
+
+Under the current Bureau of Civil Aviation Security rules, passengers are allowed to carry licensed firearms with up to 50 cartridges. The mandated procedure includes advance intimation to the airline about the passenger’s intention to carry a licensed gun as checked-in baggage, a declaration at check-in, and the screening and packing of the firearm after the cartridges have been separated from the weapon in an isolated bay at the airport.
+
+Though the passenger followed all the rules and the incident occurred in the secluded, designated screening area, it is an undeniable fact that he passed through the check-in area, which was crowded with general passengers, airline employees and airport staff. If a person with malicious intentions had such access to the airport, they could have created mayhem.
+
+When passengers are not allowed to carry matches in their carry-on luggage, how can the airport allow them to enter check-in bays with guns—loaded or unloaded? It is time to treat all firearms with absolute caution by removing them entirely from the general airport environment. If passengers want to carry firearms, CISF personnel should take possession of the firearms outside the airport complex and hand them over to the airport logistics team. The goal of airport security is to mitigate risk, not merely manage the aftermath when security fails. Let this be the last time a “declaration” at an airline counter results in a trip to the trauma centre.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-wake-up-call-for-airport-security-1979955)
 
 ---
 
@@ -70,6 +414,15 @@ India must unequivocally convey to Bangladesh in clear-cut terms that it doesn�
 New Delhi must also convince Washington that it should not encourage Pakistan to meddle in Bangladesh. Notwithstanding the unpredictability of US President Donald Trump’s and his ever-changing geopolitical positions, India must influence the US establishment to be wary of China’s games in this...
 
 [Read full article](https://www.deccanchronicle.com/opinion/columnists/kamal-davar-time-to-rebuild-relationship-with-dhaka-with-eye-on-china-pak-1979711)
+
+---
+
+### Proving ‘Stridhana’: Reality Must Trump Rigidity
+*Deccan Chronicle · Opinion*
+
+Even while coming out of prison, inmates are entitled to take back all their belongings deposited and inventoried at the time of incarceration. But in many matrimonial homes in which brides may be confined, why should it be a struggle to get back their belongings or ‘stri-dhana’ (as the term suggests, the wife’s personal articles) when they exit?Aside of criminal cases filed under Section 316 of the Bharatiya Nyaya Sanhita, 2023, where entrustment and dishonest appropriation and conversion can be proved, cases for return of ‘stridhana’ are intensely fought in Family Courts and higher echelons. The bone of contention is invariably over proof of belongings. ‘You brought nothing’ or ‘You didn’t bring this or that’ or ‘How many Karats was that ornament ’ punctuate common domestic arguments.Wedding photographs with the bride usually decked up with jewellery are a good starting point. Bills, online or hard copies, for the purchase of gold or silver or consumer durables constitute obvious proof. Often, invoices are delivered by the business establishments along with the products to the destination address. In such cases, corresponding bank statements are other possible records.Undeniably, in certain communities, marriages cannot take place unless a fixed minimum amount of gold, usually handed down from one generation to another, and other articles are brought in. Wouldn’t the principle of ‘Res Ipsa Loquitur’ (The thing speaks for itself) apply in these instances? For ancestral jewellery passed on across generations, bills may just not be available.A bride does not enter a matrimonial home with an evidence-gathering mindset. Neither can she be expected to carry a body camera, NYPD style! There are two brilliant judgments that address this point.The Supreme Court in MG Vs ASB (2025) raised practical questions. “Is it reasonable to expect that a woman who is freshly married and is intending to live in the same house and under the same roof with her husband, to keep her belongings like jewellery etc under her own lock and key, thus showing a spirit of distrust to the husband right after the moment she gets married?” The apex court added that the “very concept of marriage rests on the inevitable mutual trust of the spouses, which conjugality necessarily involves.” The court further reasoned that such matrimonial matters are not a criminal trial where the “mode and manner of acquisition” and “chain of circumstances” need to be “conclusively proved without any missing link.”There just cannot be rigid legal proof of ‘stridhana’. A Division Bench of the Kerala High Court in RR Vs KKG (2025) factored in this difficulty. It rightly held that “due to private and often informal nature of such transfers, it becomes merely impossible for women to produce documentary evidence proving ownership or misappropriations. In such situation the courts must rely on the principle of preponderance of probabilities to deliver justice.” The role of courts in recognising truth in its “real context”, the Bench nailed it succinctly.“The gold given to a bride at the time of marriage is often kept by the husband or his family under the guise of safekeeping of family customs. The woman rarely gets a written record or receipt for such transfers and the woman's access to her own ornaments can be restricted. When disputes arise, especially in cases of domestic violence, dowry harassment or divorce, the woman may claim that her gold ornaments have been misused or never returned. However, since she seldom receives the list or acknowledgment of the items given to her, proving ownership becomes difficult.”‘Stridhana’ is not a caution deposit. Or a donation to the marital home. In many cases, apart from the monetary security it offers, it is also of sentimental value symbolising sacrifices made by parents - especially when wedlock becomes a deadlock.(The writer is an advocate practising at the Madras high court, legal columnist & author of 4 books. This column is only to spread legal awareness)
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/proving-stridhana-reality-must-trump-rigidity-1979793)
 
 ---
 
