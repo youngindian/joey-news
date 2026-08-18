@@ -1,3 +1,308 @@
+## 18 August 2026
+
+### In Uttarakhand, why BJP is ‘micro-managing’ 23 seats it lost in 2022
+*Lalmani Verma · legal*
+
+CM Pushkar Singh Dhami tasked with overseeing preparations in Khatima, a seat which he lost in 2022; state chief Mahendra Bhatt to monitor Piran Kaliyar, which BJP has not won since 2012.
+
+[Read full article](https://indianexpress.com/article/political-pulse/in-uttarakhand-why-bjp-is-micro-managing-23-seats-it-lost-in-2022-10837724/)
+
+---
+
+### Rain, cloudy skies to remain in Mumbai, Thane; El Nino system to get stronger
+*Express News Service · legal*
+
+Mumbai has not received heavy rainfall in August and the city's Santacruz station has recorded only 255 mm of rain
+
+[Read full article](https://indianexpress.com/article/cities/mumbai/imd-weather-mumbai-rain-cloudy-skies-thane-light-rainfall-el-nino-system-stronger-10837462/)
+
+---
+
+### 15-km walk to Vaishno Devi without ‘travel help’, agency to pay Rs 5 lakh to travellers
+*Richa Sahay · legal*
+
+The man claimed that his team of 22 travellers decided to visit temples and tourist destinations across India and approached the travel agency in 2025 to make the necessary arrangements.
+
+[Read full article](https://indianexpress.com/article/legal-news/15-km-walk-vaishno-devi-travel-help-agency-rs-5-lakh-travellers-10837107/)
+
+---
+
+### Is India a reason behind Egypt staying out of the Mecca Pact?
+*Shounak Sanyal · general*
+
+In 1956, as British and French troops stormed toward the Suez Canal and Israeli armour rolled across the Sinai, India responded by condemning the Anglo-French-Israeli military action and supporting Egypt's right to control the canal. Five years later, in 1961, as Indian troops marched to liberate Goa (then a Portuguese colony), Egypt returned the favour by blocking Portuguese reinforcements from passing through the Suez Canal.
+
+As the two above examples illustrate, New Delhi and Cairo have had strong ties for decades. Both countries, after shaking off the shackles of British rule, were instrumental in setting up the Non-Aligned Movement (NAM), which opposed aligning with either the US or the USSR in the course of the Cold War. Today, their partnership remains robust, particularly in trade and defence. This enduring relationship with India could be one reason behind Egypt's hesitation to join the Mecca Pact.
+
+The Mecca Pact refers to the tripartite collective defence agreement **signed between Turkey, Pakistan and Saudi Arabia** earlier this month on August 7. Right from the get-go, the leaders of what some have termed the Islamic Nato have made no secret of their **desire to bring more nations into the fold**.
+
+Egypt, which has Africa's most powerful military, **has been identified as the next likely entrant**, alongside Qatar, Kuwait, Jordan, Azerbaijan and Syria. Turkish Foreign Minister Hakan Fidan, described Cairo as a "natural partner" and said only "technical issues" remained before it could join.
+
+On paper, several factors make Egypt an ideal candidate to join the Mecca Pact. It boasts the strongest military force on the African continent, fielding over 4.4 lakh military personnel as well as hundreds of modern tanks and aircraft acquired via US military aid. It also controls the Suez Canal, a vital maritime artery connecting Europe to Asia.
+
+There have been some voices in Cairo favouring Egypt's inclusion. Egyptian Foreign Minister Badr Abdelatty said last week that **Cairo was "seriously considering" joining the agreement**, pending constitutional and legal reviews of the defence obligations it would entail. Yet, thanks to a combination of opposition to Egypt's entry to the pact from Saudi Arabia, as well as Cairo's unwillingness to sabotage its ties with countries like India, means that the Islamic Nato remains bereft of Egypt as a member, at least for the time being.
+
+India and Egypt share deep-rooted civilisational ties, dating back at least to the 3rd century BCE. The ties were elevated to a Strategic Partnership in 2023. Cairo and New Delhi also have close defence relations, with their militaries engaging in joint exercises. Around 700 Indian companies are registered in Egypt, with 70 of them active and having invested over $5.5 billion.
+
+### OPPOSITION IN SAUDI ARABIA TO EGYPT JOINING MECCA PACT
+
+Ironically, even as Turkey is pushing hard for Egypt's inclusion in the Mecca Pact, Saudi Arabia is far more hesitant.
+
+According to a report in the UK-based news outlet, Middle East Eye, Saudi Arabia, one of the three partners of the Islamic Nato, has opposed Egypt's entry into the alliance "at least for now".
+
+Three Saudi sources familiar with the discussions told Middle East Eye stated the Saudi position was driven by a growing frustration with President Abdel Fattah el-Sisi's government and a belief in Riyadh that Egypt no longer offered the strategic or military value it once did.
+
+According to the Middle East Eye report, Saudi Arabia opposed Egypt joining the Mecca Pact due to simmering tensions with Cairo. Despite providing around $25 billion to shore up Sisi's government after it took power in 2013, Riyadh has become frustrated by a lack of reciprocal support.
+
+One source cited by Middle East Eye pointed to Egypt's "minimal and unreliable" role in Yemen (where Riyadh has been **battling Iranian-backed Houthi militants since 2015**) and its alignment with the UAE.
+
+The UAE is among India's strongest allies in the Middle East. The UAE and Saudi Arabia are engaged in a strategic, economic and foreign policy rivalry.
+
+A former senior Saudi adviser bluntly stated, "Egypt has always been dependent on us, on the US, and it does not give back, it just takes and takes with no return."
+
+While Turkish Foreign Minister Hakan Fidan called Cairo a "natural partner" and pushed for its inclusion, Saudi sources dismissed claims that Egypt voluntarily abstained. The former adviser called that notion "laughable," adding, "The matter of fact is, Sisi would have been eager to join so he could reap the financial gains of this agreement, as he usually does."
+
+Middle East Eye further reported that Saudi Arabia viewed Turkey and Pakistan as more reliable partners. The former senior adviser emphasised that "decision makers in the leadership have serious concerns about Sisi's loyalty," noting "he is simply seen that he cannot be trusted, and rightly so," but added, "Maybe in the future, if we see that there is change or improvement."
+
+### EGYPT HAS STRONG ECONOMIC TIES WITH INDIA
+
+Saudi Arabia's opposition, however, is not the only factor that can explain Egypt's absence from the Mecca Pact. Cairo's own foreign policy may also make it wary of joining a bloc that could constrain several of its valued partnerships.
+
+Cairo maintains amicable ties with several countries that the three signatories of the Mecca Pact do not always see eye to eye. This includes Greece and Cyprus (which have longstanding tensions with Turkey), the UAE (which has **questioned the true intent of Saudi Arabia joining the Mecca Pact**), Israel (with which Egypt has maintained a peace treaty since 1973) and India.
+
+A report by Egyptian outlet Mada Masr, citing diplomats and other sources, suggests that preserving this room for manoeuvre is central to Cairo's thinking.
+
+A senior Egyptian diplomat told the outlet that Cairo has sought to maintain a "balanced relationship with all parties" and does not want to be drawn into regional alignments that could constrain its foreign policy. The BBC and the Middle East Eye had also cited Mada Masr's report.
+
+A former Arab diplomat cited by Mada Masr said Egypt was also wary of Turkey's complicated relations with Greece and Cyprus, as well as Cairo's growing economic ties with India.
+
+"Egypt will not be joining a defence agreement with Turkey, especially in view of the complex relationship it has with Greece and Cyprus," the diplomat told the Egyptian outlet. "Equally, it is hard to see Egypt getting involved in a defence agreement with Pakistan, considering that Egypt is in talks to advance economic relations with India."
+
+### WILL EGYPT JOIN THE MECCA PACT? UAE A BIG FACTOR
+
+Cairo also needs to take account its ties with the UAE. Egypt has a defence treaty with the UAE and, according to Middle East Eye, deployed Rafale fighter jets in response to Iranian strikes on the UAE in May. At the same time, Egypt remains heavily dependent on Emirati financial support. It is also reluctant to get involved in **Saudi Arabia's lengthy conflict with the Houthis in Yemen**, reported Middle East Eye.
+
+Writing for the London-based think tank, Chatham House, foreign affairs expert, Ahmed Aboudouh, noted that despite Egypt's close ties with all three countries of the Islamic Nato, Egypt has, for the time, refused to commit due to the desire of its leaders to "embrace non-alignment and avoid military blocs to prevent entrapment".
+
+"Joining the Mecca Pact could signal that Egypt is choosing sides to the three members' various geopolitical rivals – which together could be seen as including Iran and the Houthis, Israel, the UAE, Greece, Cyprus and India. This perceived alignment could negatively impact Cairo’s relationships with these actors without delivering a significant pay-off," wrote Aboudouh.
+
+### WILL INDIA TIES PLAY A ROLE IN EGYPT NOT JOINING MECCA PACT?
+
+India adds another layer to this calculation. Indrani Bagchi, CEO of the Delhi-based think tank, Anata Centre, told the BBC that India was "one of the reasons" for Egypt's decision, but "the last reason".
+
+She pointed to Egypt's peace treaty with Israel and its close ties with the UAE, saying Cairo had "avoided joining a group whose member country, Pakistan, does not recognise the existence of Israel and is also anti-India."
+
+Bagchi added that joining the agreement "would not have had any significant impact on relations with India, but it would not have sent a good message either".
+
+That consideration carries economic weight. According to the BBC, more than 700 Indian companies are registered in Egypt, with around 70 operating across sectors and total investments of more than 5.5 billion US Dollars. Bilateral trade stood at 6.5 billion US Dollars in 2025-26, while Indian companies employ around 40,000 Egyptians.
+
+For Egypt, therefore, staying out of the Mecca Pact for now could be less about rejecting the pact and more about preserving its strategic flexibility. Joining the Saudi-Turkey-Pakistan Islamic Nato could complicate Cairo's relationships with India, Israel and the UAE, with which it has fostered valuable partnerships, and force it to take sides in rival regional alignments it has so far sought to balance.
+
+\- Ends
+
+Shounak Sanyal
+
+Aug 18, 2026 07:00 IST
+
+---
+
+### Girl’s body found stuffed in suitcase in Delhi, relative arrested
+*India Today News Desk · general*
+
+## The case came to light on Monday after the police received a tip-off about the killing. Acting on the information, police laid a trap and arrested the accused, who confessed to the crime during interrogation.
+
+The victim had recently come to Delhi from Bihar.
+
+The body of a girl was found stuffed inside a suitcase and dumped in Delhi’s Burari area, police said, adding that a relative of the victim has been arrested in connection with the murder.
+
+The case came to light on Monday after the police received a tip-off about the killing. Acting on the information, police laid a trap and arrested the accused, who confessed to the crime during interrogation.
+
+The accused then took the police to an area in Ajit Vihar where he had hidden the suitcase.
+
+According to police sources, the girl, who recently came to Delhi from Bihar, was killed on Sunday.
+
+The body has been sent for post-mortem examination.
+
+Police are awaiting the medical report to determine the exact cause and manner of death and to establish whether the girl was sexually assaulted.
+
+\- Ends
+
+(With PTI inputs)
+
+India Today Web Desk
+
+Aug 18, 2026 06:59 IST
+
+---
+
+### Class 12 exams shields minor from custody, Mumbai court grants bail
+*Vidya · general*
+
+## A Special POCSO Court in Mumbai granted anticipatory bail to a 17-year-old accused of stalking and sexually harassing a fellow college student. The court said arrest would cause disproportionate hardship during his Class 12 board exam preparation and imposed contact restrictions.
+
+Special POCSO Court in Mumbai has granted anticipatory bail to a 17-year-old boy accused of stalking and sexually harassing a fellow college student-( Photo-ITG)
+
+A Special POCSO Court in Mumbai has granted anticipatory bail to a 17-year-old boy accused of stalking and sexually harassing a fellow college student, observing that disrupting his Class 12 board examination preparation would cause disproportionate hardship.
+
+Special Judge R.J. Pawar passed the order on August 17, 2026. The teenager was booked by Khar Police under Sections 78 and 351(2) of the Bharatiya Nyaya Sanhita, 2023, and Section 12 of the Protection of Children from Sexual Offences Act.
+
+According to the prosecution, the accused and the girl became acquainted in college and frequently communicated. After the girl’s father allegedly asked her to sever contact with the teenager, she stopped communicating with him. Police alleged that the boy subsequently stalked her and repeatedly attempted to contact her.
+
+The prosecution further alleged that the teenager sought to meet the girl, but her father refused. The accused allegedly responded by verbally abusing and threatening him.
+
+The defence denied the allegations, maintaining that the communication between the two had been voluntary and consensual since September 2025. The teenager claimed he approached the girl’s father after learning that she was in contact with another boy. His lawyer argued that the FIR was retaliatory and followed an alleged threat by the girl’s elder sister to the accused’s father.
+
+The court noted that Section 12(1) of the Juvenile Justice Act provides a strong statutory presumption in favour of bail for a child in conflict with the law. It found that none of the exceptions under the provision applied to the teenager.
+
+The judge also noted that the accused was a first-time offender with no criminal antecedents and that custodial interrogation was unnecessary because the evidence was primarily documentary and testimonial.
+
+The court granted anticipatory bail on a personal bond of Rs 15,000 with one surety. The teenager was barred from contacting, approaching or following the girl and cannot leave Mumbai without prior court permission.
+
+\- Ends
+
+Zafar Zaidi
+
+Aug 18, 2026 06:54 IST
+
+---
+
+### 'Kim Jong Un has always treated me with great respect': Trump says he 'gets along well' with North Korean leader
+*Unknown · business*
+
+Washington, DC: US President Donald Trump said North Korean leader Kim Jong Un has always treated him with "great respect", highlighting their personal rapport and saying his approach is aimed at making the situation on the Korean Peninsula safer.
+
+Speaking to reporters, Trump said he had met Kim on multiple occasions and that the two leaders understood each other. Trump contrasted his relationship with Kim with the North Korean leader's reported views of previous US presidents.
+
+  
+
+"Kim Jong Un has always treated me with great respect, and we met on two primary occasions, spoke, and spent time. I understand him. He understands me. I get along with him. You know, he didn't like Biden, he didn't like Obama, he didn't like anybody, but I get along with him very well. Now, what I'm doing is making things safer, just the opposite," Trump said.
+
+This comes after Trump instructed Secretary of War Pete Hegseth to "substantially reduce" joint military exercises with South Korea, citing his relationship with North Korean leader Kim Jong Un and describing the drills as costly and inappropriate.
+
+In a post on Truth Social, Trump said he was "not happy" that the United States had previously agreed to participate in joint military exercises with South Korea.
+
+"Based on my very good relationship with Kim Jong Un, of North Korea, I am not happy with the fact that the United States has, long ago, agreed to participate in Joint Military Exercises with South Korea," Trump said.
+
+Trump described the exercises as costly and said they send a signal that is "totally inappropriate and hostile" to North Korea, which he claimed has been "unthreatening and respectful" during his presidency.
+
+He said it was too late to cancel the exercises altogether but instructed Hegseth to substantially reduce them.
+
+"Therefore, and based on the fact that it is too late to cancel, I have instructed Secretary of War, Pete Hegseth, to substantially reduce the Joint Military Exercises!" Trump said.
+
+---
+
+### NTA removes 50 staff members as UGC-NET re-tests trigger exam overhaul
+*India Today News Desk · general*
+
+## The NTA has ordered re-tests for three UGC-NET papers after multiple errors were found. The move has intensified scrutiny of the agency even as the government pushes a wider exam reform plan.
+
+The NTA announced re-tests for the English, Commerce and Sociology papers, triggering fresh protests by opposition parties and student groups. (Photo: India Today)
+
+The National Testing Agency (NTA) on Monday moved to contain the fallout from its decision to hold re-tests for three UGC-NET papers that were found to have several errors, announcing more action against staff and a wider reform drive. The agency has now removed 50 staff members in total and is bringing in professionals for key leadership roles as it faces criticism over repeated lapses in major examinations.
+
+The move came a day after the NTA announced re-tests for the English, Commerce and Sociology papers, triggering fresh protests by opposition parties and student groups. Critics said the agency's failures were affecting students' academic and career plans, while the NTA said it had acted in the interest of candidates and was reviewing its internal processes to make future examinations fair and error-free.
+
+Education Minister Pralhad Joshi, who took charge after Dharmendra Pradhan resigned following widespread protests over a leak in the NEET-UG exam, held a meeting with the Higher Education secretary, the NTA director general and other senior officials.
+
+The ministry said he was briefed on the steps taken after the recent issues and on efforts to reform the examination system. Although the ministry had earlier said in an X post that Joshi was informed that "more than 50 staff have been removed from NTA", an official later clarified that the figure included 47 removals made earlier.
+
+In July, the NTA had terminated 47 officials in the NEET paper leak controversy. On Monday, the ministry said 10 new professional leadership positions, including chief technology officer, chief finance officer, CISO, GM (test security) and GM (R and D and psychometrics), had been advertised and were being filled. It said domain specialists from the private sector were also being brought in for cybersecurity, psychometrics, question paper design and other specialised areas.
+
+The ministry said Joshi directed strict compliance with established examination protocols and called for a complete overhaul of the confidential operations architecture, secluded rooms, air-gapped systems and device deposit protocols on a war footing. The NTA has also been asked to carry out a thorough audit of all examination processes and submit a report on the corrective steps taken.
+
+Later, Joshi said on X that the discussion focused on strengthening the education system through wider reforms. "We also deliberated on critical issues relating to school and higher education, with a focus on addressing key challenges and ensuring a more robust, responsive and future-ready education system," he said.
+
+Opposition leaders and student bodies stepped up their attacks on the agency. Congress leader Rahul Gandhi said on X, "this is no longer an education system. It is an extraction machine". He added that Pradhan's resignation was the first step, but not the last, and said, "NTA's leadership must be held accountable too."
+
+Several student organisations, including the NSUI, SFI, AISA and KYS, held protests in Delhi and announced nationwide demonstrations against the decision to re-conduct the UGC-NET papers. The ABVP also expressed concern, with its national general secretary Virendra Singh Solanki saying students' future could not be compromised and that the NTA must be held accountable.
+
+Other Congress leaders accused the government of making students pay for the NTA's inefficiency, while the Aam Aadmi Party said the issue was not a "minor error" but a failure that was costing students their time, money, mental peace and opportunities.
+
+According to the announcement, the re-test for the English and Commerce papers will be held on September 9, while the Sociology exam will be conducted on September 10. The NTA conducted UGC-NET June 2026 from June 22 to 30 across 87 subjects for the award of junior research fellowship, eligibility for assistant professors and admission to PhD programmes.
+
+NTA sources said the agency had acted proactively after receiving complaints and chose to order re-tests in candidates' overall interest.
+
+"The task of an examination-conducting agency is not only to conduct error-free examinations, but also to act promptly and honestly whenever an anomaly is found," a source said.
+
+The source added that the NTA had accepted that something had gone wrong and had taken corrective action "at the cost to itself, rather than papering over the problem".
+
+Another source said, "The willingness to identify problems proactively, to admit them, and to act, even where action is difficult, is itself the foundation of a more accountable examination system. An agency that conducts examinations at this scale will occasionally encounter problems; what defines its credibility is that it finds them, owns them, and corrects them in the interest of candidates."
+
+The NTA said it had received several complaints about multiple errors in the three papers and had set up a committee to examine the lapses.
+
+"The committee identified the anomalies in the three subjects and recommended that, in the interest of holding a fair and error-free examination, these three papers should be re-conducted. It was recommended that papers carrying such defects did not meet the standards of fairness and error-free examination," it said.
+
+\- Ends
+
+India Today Web Desk
+
+Aug 18, 2026 06:41 IST
+
+---
+
+### Sebi cautions investors against social media live trading tips and unregistered advisory services
+*SECTIONS Sebi cautions investors against social media live trading tips · economy*
+
+Mumbai: The Securities and Exchange Board of India (Sebi) Monday cautioned investors against social media accounts offering 'live trading strategies' and real-time stock market tips, warning that such sessions may involve unregistered investment advisory services.
+
+The regulator said it had noticed individuals on social media platforms offering real-time strategies and tips on taking positions in the stock market.
+
+"It is observed that these live trading sessions are being viewed by a substantial number of viewers and live chats are also enabled beside the session where unregistered advisory services are being exchanged," Sebi said.
+
+"These persons portray themselves as experts in the securities market, provide detailed analysis of when to invest, when to exit, strategies to be followed and the positions to be taken on market indices. Some of these persons claim that they trade real-time while showcasing the performance of their trades, patterns that the market is forming based on live data and the target expected to be reached," it said.
+
+The regulator said that live market data cannot be shared by entities except for purposes linked to the orderly functioning of the securities market or meeting regulatory requirements.
+
+In May, it said market price data could be shared for investor education and awareness with a 30-day lag and without monetary incentives.
+
+---
+
+### 40 years ago August 18, 1986: Police firing in Pakistan
+*Editorial · opinion*
+
+This is the front page of The Indian Express published on August 18, 1986.
+
+[Read full article](https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-august-18-1986-police-firing-in-pakistan-10837718/)
+
+---
+
+### Union Minister Piyush Goyal discusses scaling up retail investment with Nippon Life India AMC CEO Sundeep Sikka
+*Unknown · business*
+
+New Delhi: Union Minister for Commerce and Industry Piyush Goyal on Monday held a meeting with Sundeep Sikka, MD and CEO of Nippon Life India Asset Management Ltd, and discussed measures to deepen retail investment and strengthen India's asset management ecosystem.
+
+Goyal said the meeting also focused on exploring avenues to attract greater global capital into Indian markets.
+
+"Held a meeting with Mr. @SundeepSikka, MD & CEO of Nippon Life India Asset Management Ltd. Discussed opportunities to scale up & deepen retail investment, strengthen the asset management ecosystem, and explore avenues for attracting greater global capital into Indian markets," he posted on X.
+
+  
+  
+
+> — PiyushGoyal (@PiyushGoyal)
+
+Earlier on Monday, Goyal also held a meeting with the Check Point Software CEO, Nadav Zafrir and discussed the company's growing engagement in India, including its AI-driven security to protect our digital public infrastructure.
+
+"Held a productive meeting with Mr. Nadav Zafrir, CEO @CheckPointSW, and discussed the company's growing engagement in India, including its R&D expansion and harnessing AI-driven security to protect our digital public infrastructure. We also explored advancing cooperation in cybersecurity, digital trust and AI-led innovation, while building a resilient digital ecosystem to support India's technology-driven growth," the Union Minister posted on X.
+
+Piyush Goyal participated in the third Meeting of the Apex Monitoring Authority of the National Industrial Corridor Development and Implementation Trust (NICDIT), chaired by Union Finance Minister Nirmala Sitharaman.
+
+He called for faster and outcome-oriented implementation of Industrial Corridor projects, with greater focus on timely investment and operationalisation.
+
+Goyal stated that BHAVYA and future industrial developments should be aligned with PM GatiShakti and planned through an integrated area-development approach.
+
+He called for focused investor outreach and stronger marketing of industrial nodes, including leveraging opportunities arising from India's Free Trade Agreements and exploring country- and sector-specific industrial enclaves.
+
+The Minister emphasised the need to match investor requirements with suitable locations and develop ready-to-use industrial ecosystems with plug-and-play infrastructure, flatted factories, worker housing and supporting economic and social infrastructure. Such an approach, he said, would facilitate faster investment and commencement of operations.
+
+The National Industrial Corridor Development Programme now covers 20 approved projects across 13 States and 7 Industrial Corridors.
+
+Four industrial smart cities - Dholera, Shendra-Bidkin, Greater Noida and Vikram Udyogpuri - have entered the production stage.
+
+So far, 469 plots covering approximately 5,348 acres have been allotted, with an estimated investment potential of around Rs 2.21 lakh crore and employment potential of approximately 1.29 lakh persons. 134 units are already in production, while another 95 units are under construction.
+
+
+---
+
 ## 17 August 2026
 
 ### Why Maharashtra’s campuses have gone 30 years without a student vote
