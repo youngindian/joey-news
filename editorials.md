@@ -1,8 +1,323 @@
 # Editorials
 
-_Last updated: 2026-08-18 02:37 UTC_
+_Last updated: 2026-08-19 02:41 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 19 August 2026
+
+### Beyond America: On the Arab states, their security needs
+*The Hindu · Editorial*
+
+Donald Trump’s threat to bomb Oman, a long-standing American ally in the Persian Gulf, reflects both his administration’s deepening frustration with the war against Iran and Washington’s declining influence in the region. This is the second time that the U.S. leader has threatened to attack Oman, which hosted talks between Washington and Tehran before he launched the war on February 28. When Mr. Trump backed down from a threatened escalation after 13 days of bombing on Iran in July, he said the U.S. and Iran were close to a deal on reopening the Strait of Hormuz, which was closed by Iran after it was attacked. But Iran never said that it had agreed to a deal with the U.S. over the Strait and instead issued several demands, including releasing frozen funds and issuing sanctions relief, as preconditions for any agreement. Ever since, Oman, under U.S. influence, has been talking to Iran seeking a settlement. As Iran, which survived two rounds of U.S. bombings, refused to offer major concessions, the U.S.’s frustration with Oman has deepened. Mr. Trump has repeatedly claimed that the Strait of Hormuz was open, but traffic through the waterway, through which one-fifth of the world’s seaborne oil passed before the war, is nowhere near its pre-war levels.
+
+The war has raised questions about America’s regional security strategy and its commitment to the security of its allies. Over the years the U.S. had built military bases across the Persian Gulf. However, Tehran has turned these bases into a liability by repeatedly striking them and their host countries. At least 15 American bases, including the Fifth Fleet Headquarters in Bahrain, are either damaged or destroyed, which has substantially reduced the U.S.’s strategic presence. But Mr. Trump does not seem to grasp the seriousness of the situation. Instead of reassuring the allies, he is now threatening to bomb them because they are not able to deliver on his push for a face-saving deal with Iran. From day one of the war, his threats and rhetoric did little to advance America’s strategic goals or deter Iran. But Mr. Trump, stuck deep in the Persian sands, appears unable to change tack. Whether he acknowledges America’s growing limitations in West Asia or not, countries in the region confront a new strategic reality: the foundations of the old security architecture have been shaken. In their hour of need, American bases have turned out to be a liability. They should also recognise that the decades-old policy of containing Iran has failed. To ensure their own security and regional stability, the Persian Gulf countries need to look beyond the American security umbrella and lay the foundations for a new regional order, shaped by a cold peace between the Arab states and Iran.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/beyond-america-on-the-arab-states-their-security-needs/article71360986.ece)
+
+---
+
+### ​Time to push back: On India and the continuing U.S. pressure
+*The Hindu · Editorial*
+
+The latest accusation levelled by the United States against India has the potential to be the most harmful to the Indian economy. A recent White House report, naming around 40 countries in all, has said that India ranks among the top ‘enablers’ of China’s evasion of U.S. tariffs. The accusation is that India and these other countries are importing Chinese goods, making minor modifications to them, and then exporting them to the U.S. at lower tariffs than what Chinese goods would have faced. The fact that Chinese imports form a significant pillar of Indian manufacturing is no secret. Yet, the nature of these imports is slowly changing. India is gradually moving away from importing finished products, making cosmetic changes, and selling them. Instead, the share of intermediate goods in Indian imports from China has been steadily rising. That is, India is doing much of its own assembly and manufacturing in several sectors now, relying on China and other countries for the parts needed. This shift is an important step towards full-scale manufacturing in India. The U.S. has not yet announced punitive actions based on its assessment of apparent Chinese tariff evasion, though that eventuality is conceivable. However, should it do so, India must resist bowing to U.S. pressure on this issue. As even the government has admitted, Chinese imports right now are an important part of the Make in India story.
+
+The fear of India bowing to U.S. pressure is based on precedent. In his first term as U.S. President, Donald Trump railed against India’s tariffs on high-end motorcycles. In 2018, India cut these tariffs to 50% from the earlier 60%-75%, and then cut them further to 40% in February 2025, before trade deal talks had even started. Similarly, it slashed the import duties on shrimp feed and its components in the February 2024 Budget, a key ask of the U.S. It did the same with tariffs on frozen duck and turkey. The pressure of the 50% punitive tariffs pushed India to diversify away from Russian oil, despite India’s strident claims of energy sovereignty and the discount it was receiving. Russia’s share in India’s oil imports fell to below 20% in January 2026, from nearly double that when the 50% tariffs were imposed six months earlier. This had happened with Venezuelan oil in 2019 as well. It was the West Asia crisis, and the U.S.’s temporary reprieve, that has seen India turning back to Russian oil. Allowing FDI in the e-commerce inventory model, as India recently did, was something Amazon had been lobbying for for a decade, and a dilution of India’s long-held stance. The U.S. can wield immense pressure and so concessions are understandable. But that has emboldened it to make increasing demands. India needs to start pushing back.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/time-to-push-back-on-india-and-the-continuing-us-pressure/article71360916.ece)
+
+---
+
+### Employment guarantee has slipped into limbo
+*The Hindu · Opinion*
+
+Rural workers are paying a heavy price for the Union Government’s ill-conceived tinkering with India’s employment guarantee law. Indeed, evidence is mounting of an unprecedented crash in employment generation under the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) and its successor, the Viksit Bharat–Guarantee for Rozgar and Ajeevika Mission (Gramin) alias VB-G RAM G Act.
+
+One aspect of this crash has been widely noted: the 50% decline in employment generation under VB-G RAM G in July 2026, vis-à-vis MGNREGA in the same month last year. The 50% estimate is actually based on a premature figure of 7.7 crore person-days for July 2026. The latest figure is 8.3 crore, and the final figure is likely to be around 9 crore according to the Ministry of Rural Development. But even if we accept this anticipated total for July, the decline vis-à-vis July 2025 would be above 40%, which is a massive setback.
+
+Misleading excuseThe Ministry of Rural Development made a lame attempt to attribute this setback to the fact that a few States explicitly suspended VB-G RAM G in parts of July 2026 under Section 6 of the Act, but this is the mother of all red herrings. For one thing, these States account for a small share of total MGNREGA employment, and the July 2026 decline looks much the same in proportionate terms when these States are left out. For another, the July decline is just the continuation of a crisis that began earlier.
+
+Related StoriesWorker rolls shrink by 67.6 lakh in first fortnight after MGNREGS transition, finds LibTech
+
+First instalment of ₹25,863 crore under VB-GRAM G released
+
+₹95,962 crore set aside for VB-G RAM G
+
+Playing hide and seek on employment guarantee
+
+The deliberate unmaking of India’s ‘right to work’
+
+With new Bill, demand-led rural jobs scheme set to turn supply-driven
+
+Some background may help. A Bill paving the way for the replacement of MGNREGA with VB-G RAM G was rushed through Parliament in December 2025. The Rural Development Minister announced, at that time, that the replacement would take place on April 1, 2026. However, nothing of the sort happened on April 1. Evidently, the Ministry was not ready for the transition. The Rules, in particular, had not been framed. MGNREGA continued, by default.
+
+On May 22, 2026, the Ministry released draft VB-G RAM G Rules for public consultation. These Rules are mainly a rehash of MGNREGA rules and orders. Release of the final Rules began at the end of June, just on time for the official replacement of MGNREGA with VB-G RAM G on July 1. VB-G RAM G wage rates were also notified on June 30, with a minimum norm of ₹300 per day — much the same as the earlier MGNREGA norm of ₹100 per day at 2009-10 prices.
+
+The transition, the ground realityDuring the first three months of this financial year (April to June), confusion prevailed. To paraphrase Gramsci, the old world of MGNREGA was dying, and the new world of VB-G RAM G was struggling to be born. In some districts, MGNREGA functionaries refused to open new works. In many areas, there was no MGNREGA work at all. This was a serious lapse, as MGNREGA is normally at a peak during these summer months (a slack agricultural season in large parts of India). The limbo continued in July 2026, when VB-G RAM G made a faltering start.
+
+In 2024-25 and 2025-26, the first four months of the financial year (April to July) accounted for nearly 50% of annual employment generation — 128 crore and 119 crore person-days, respectively. In 2026-27, however, MGNREGA and VB-G RAM G generated only 70 crore person-days of employment in the same months — a decline of 43% from the average of the preceding two years.
+
+Employment declined in all major States, but the decline was far from uniform across States (see chart). It was relatively small in a few States (example, Andhra Pradesh, Assam and Telangana), but larger than 40% in most States. In 10 out of 19 major States, the decline ranged between 60% and 85%. States where employment generation came to a virtual standstill in April-July 2026 include Madhya Pradesh, Uttar Pradesh and Jharkhand, some of India’s largest and poorest States.
+
+In Focus podcast | VB-GRAMG Bill: Will it destroy the world’s most successful workfare program?This crash in employment is all the more startling as the transition to VB-G RAM G was supposed to lead to a huge increase in employment generation. The VB-G RAM G allocation in the 2026-27 Union Budget is ₹95,692 crore — a little more than the actual MGNREGA expenditure in 2025-26. The total VB-G RAM G budget, inclusive of State contributions (40% of the total for most States), was due to shoot up to ₹1.5 lakh crore or so — an increase of about 70% vis-à-vis MGNREGA expenditure in 2025-26. With wages more or less unchanged in real terms, one would expect this enhanced budget to trigger a big increase in employment generation. Instead, the first four months of 2026-27 witnessed an unprecedented crash.
+
+An uncertain road aheadIt is, of course, too early to pass judgement on VB-G RAM G. But the launch is certainly a damp squib as things stand. The fact that employment generation has been virtually nil for months in some of India’s largest and poorest States is particularly alarming.
+
+VB GRAM G vs MNREGA: Which burdens States more? | In Focus PodcastThe situation may improve in the next few months, but it is hard to see how the projected VB-G RAM G expenditure of ₹1.5 lakh crore in 2026-27 is going to materialise. Wage payments may face serious problems too, with the imposition of facial recognition at the worksite and Centre-State cost-sharing. The outlook is bleak.
+
+Jean Drèze is an independent scholar based in Ranchi, Jharkhand; Mohammad Zameer is an independent scholar based in Ranchi, Jharkhand
+
+[Read full article](https://www.thehindu.com/opinion/lead/employment-guarantee-has-slipped-into-limbo/article71361563.ece)
+
+---
+
+### DC Edit | Can New-look BJP Hear Gen Z?
+*Deccan Chronicle · Editorial*
+
+Alerted by the sharp message emerging from the Gen Z-led protests, the BJP now appears to be recalibrating. The organisational changes carried out on Monday signal more than a routine redistribution of posts.
+
+Under its 45-year-old president Nitin Nabin, the BJP has attempted to balance continuity with a clear infusion of younger leadership. The reshuffle is also an acknowledgement that the nation's vocabulary is changing and that the new generation cannot be addressed in the tired and cliched political language of the past.
+
+While retaining several experienced leaders, the new 65-member national team marks a generational shift, with 51 new office bearers. Six are below 40 and another 15 are in the 40-49 age bracket. Yet, the party has not purged the old guard wholesale. Instead, it has brought back leaders like Vasundhara Raje, Ram Madhav, and Smriti Irani who were kept at a distance from the party's central structure. This signals the party's intent to use the mass appeal of Ms Raje and Ms Irani, while Ram Madhav could serve as the crucial bridge between the party and the RSS.
+
+With social media emerging as the new political battleground, removing BJP's IT cell chief Amit Malviya is one of the most telling changes. Following the Jantar Mantar protest, Mr Malviya's style attracted criticism from within the Sangh clan. There was also a growing view that his aggressive social media approach was proving counterproductive.
+
+Mr Malviya has been replaced by mild-mannered 58-year-old chemistry professor-turned-politician Deepak Mhaskey from Chhattisgarh. The inclusion of Priti Gandhi, BJP social media communicator; Alok Bhatt, digital influencer; Shiwanand Dwivedi, researcher and ideological communicator; and Arun Yadav, BJP's former Haryana IT cell chief, indicates the BJP's attempt to reorient its political narrative in the digital space.
+
+The appointment of 35-year-old Vadodara MP Hemang Joshi as BJP's youth wing chief suggests that the party is now looking beyond a handful of high-profile leaders. Yet the real test lies ahead. Will the younger new team be allowed to develop an independent political voice or will it be confined to the timeworn, traditional scripts doled out by a tightly centralised party? More importantly, will the powerful old guard, with its entrenched grip over the organisation, continue to crack down on dissent and turn a deaf ear to the voices rising from the streets?
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-can-new-look-bjp-hear-gen-z-1980338)
+
+---
+
+### DC Edit | Youth Power Triumphs, In Ranchi As At Jantar Mantar
+*Deccan Chronicle · Editorial*
+
+The power of youth as exhibited in their right to protest — under Article 19 of the Constitution as the Supreme Court reminded the authorities — has prevailed in spectacular fashion.
+
+From Jantar Mantar to Jharkhand, the protesters, be they students, job aspirants or a collective of young people gathering under the banner of the Cockroach Janta Party, achieved their aims in bringing about the resignation of the Union education minister and the cancellation of the JSSV-CGL and TDPL-conducted recruitment examinations in Jharkhand.
+
+The students and youth braved the power of the state that manifested in brutal methods of crowd control like lathi charges, baton strikes, pellet guns, water cannons and iron barricades, protesters’ names mentioned in FIRs following the use of surveillance methods like facial recognition, etc. With fasting leaders and fearless frontliners in protest action they drove home their point about the fecklessness of governments in handling subjects that hold great significance for young people like entrance exams and recruitment tests.
+
+A movement that amalgamated around a march to Parliament may not end with Jantar Mantar and Jharkhand. Both protests, which ran in the face of government reluctance to hold parleys early with the protesters to find out their grievances only to bend when there was no alternative to conceding justifiable demands may be just the beginning of a display of the power of young people who are riddled with anxieties and doubts over their future.
+
+The history of youth struggles goes back a long way in India too, beginning with youth participation in the freedom struggle and the ringing in of a change of guard in Tamil Nadu with the anti-Hindi agitation in the 1960s. The CJP and student union-led protests in Delhi and Ranchi will go down in history as an inflection point in which the young people found their voice to protest blatant injustice as in exam paper leaks and state-driven recruitment processes for government jobs in which politicians also meddle.
+
+It is the life of students, which is at stake, top court judges said. It is not as if political leaders were unaware of this when so many instances of shoddy conduct of examinations, paper leaks and corruption by mafia had popped up periodically to remind them that the system was sporting gaping holes and that not enough was being done by government agencies that have taken over centralised tests that are supposed to determine merit among millions of aspirational young Indians.
+
+The fundamental error of the state was in tackling the protests as a law and order problem rather than the outpouring of genuine student grievances. Exam reforms are being talked about now and enquiry panels being formed to probe the excesses of the Delhi police – not that the Jharkhand police were any less in demonstrating brutality or registering cases against protesters — after the demonstrators had withstood nearly a whole month of privation just to register their angst over an uncaring system.
+
+A stubborn Union ministry that refused to see quickly enough the reason behind the unrest and a vacillating state chief minister who trotted out pedantic excuses for not cancelling the exams earlier were symptomatic of the response of authority to the expression of dissent. The political implications for governments that get elected for five-year terms should not matter here so much as the establishment of a renewed force in India of a youth empowered in its awakening from a slumber of decades.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-youth-power-triumphs-in-ranchi-as-at-jantar-mantar-1980328)
+
+---
+
+### Anil Tyagi | How the Capital Panic-planned For The Great
+Cockroach Bite
+*Deccan Chronicle · Opinion*
+
+It was a Thursday, the night of July16. It was a long night of words rather than a night of long knives. The weapons came days later. The events centred around two powerful locations in the Capital. As the hunger strike of Sonam Wangchuk, the Ladakhi engineer-environmentalist, entered the 18th day, the Prime Minister’s Office (PMO) was active. Dr P.K. Mishra, principal secretary, PMO, and a 1972-batch civil servant from Gujarat cadre, summoned Govind Mohan, home secretary, and Jitender Singh, the minister of state for the PMO.
+
+The meeting lasted 47 minutes.
+
+At the American Embassy, five to six kilometres from South Block, cables flickered. An alert went out for American citizens to stay clear of Central Delhi, around Jantar Mantar, on July 20-21. Did the PMO take crucial decisions on that night? Did the Americans know about the coming storm? On July 17, Satish Golcha, commissioner of Delhi Police, was removed before dawn. Anurag Kumar, a 1994-batch AGMUT, and special director, Intelligence Bureau, took charge. Decision-making moved out of the grasps of Delhi Police.
+
+At 4.17 am on July 18, an unmarked convoy transferred Wangchuk to Safdarjung Hospital. On July 20, as the quiet call of “Sansad Chalo” rang across the country, tens of thousands of students, youth and strangers poured into the Capital. The rest is history. Pellet guns. Tear gas. Buckled barricades. Chaos. Maze of smoke. Blood, violence, and utter confusion. On July 21, politics took front seat. The Congress’ Rahul Gandhi announced a dharna against “Delhi Police atrocities” outside the PM’s residence. Jitender Singh, the PMO’s MoS, arrived for talks. It was clear that the command-and-control structure had shifted. Later, in the corridors of Parliament, Rahul Gandhi delivered the line that hung in the air like a blade: “If Amit Shah ordered the crackdown, he is culpable. If he did not know about it, he is incompetent.”
+
+TVK’s Bureaucrats Meant to Change Tamil Nadu
+
+The biggest challenge for C. Joseph Vijay, the chief minister of Tamil Nadu, and leader of Tamilaga Vettri Kazhagam Party, was how to efficiently run the state government. He wanted to set an example. This was his election promise. As a first step, Mr Vijay, whose life-size posters dot the state, has begun to quietly rearrange the civil servants, who lie at the heart of governance, who move files, control departments, and determine access to the CM. P. Senthilkumar, a 1995-batch officer is the new secretary-I to the CM. His experience in ministries and departments related to finance, health, and district administration, apart from election management, offers what Mr Vijay desperately needs — how a government runs and works. G. Laxmi Priya is Secretary-II to the CM, and brings a different profile, with experiences in the social sector and district administration. Together, the duo will be the bridge between politics and bureaucracy, decisions and delivery.
+
+Then there is T. Udhayachandran, who has moved from finance to the Tamil Nadu Industrial Investment Corporation. He will be the bureaucratic for the business community. Moving from finance to TIIC places a seasoned financial administrator directly inside the industrial-investment machinery. Count the others. Pradeep Yadav has moved to MSME, Atul Anand to IT and digital services, P. Umanath to industries, and Nirmal Raj to transport.
+
+Mariam Pallavi Baldev, with extensive exposure to industries and investment entities, remains an important cog in the civil services wheel. Jhon Arokiasamy and Vishnu Reddy, CM Vijay’s advisers, represent the political-access architecture. Of course, chief secretary Dr M. Sai Kumar will be the main anchor to the state’s reconstructed bureaucratic edifice. The administration of Tamil Nadu is changing fast, civil servant by civil servant.
+
+VVIP Protocol’s Quiet Fix
+
+Behind the polished choreography of every VVIP motorcade in the Capital lies a quiet drama and theatrics of the past that the protocol division of the ministry of external affairs prefers not to discuss publicly. Time and again, the jammers, the invisible electronic shields to protect a visiting dignitary, a foreign President or Prime Minister, worked a little too well. In many cases, while the luxury car with the dignitary in the convoy sailed through, the cars that followed found themselves in the dark. Navigation blinked out. Systems froze. In some awkward moments, the support vehicles stopped, leaving their occupants staring ahead, as the rest of the convoy pulled ahead. These are glitches that give protocol officers nightmares. Imagine a high-tech vehicular fortress stranded on a locked-down road because the technology guarding the VVIPs knocked it offline.
+
+After several such close calls, the protocol division found a fix. It redrew the formation of the convoys. The VVIP vehicles, along with their jammer units, now travel in a tight, protected bubble. Everything else, whether escort cars, support staff, and the rest of the...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/anil-tyagi-how-the-capital-panic-planned-for-the-greatcockroach-bite-1980309)
+
+---
+
+### K.C. Singh | Iran War Stymieing New India-Taliban Relations
+*Deccan Chronicle · Opinion*
+
+The Taliban government’s second term in Afghanistan, after being ejected by the US in 2001, completed five years on India’s Independence Day. Their first term began after capturing Kabul in 1996, with Pakistan’s active support. India and Iran opposed their rise by extending military and political support to the Northern Alliance led by Ahmad Shah Massoud.
+
+India then saw the Taliban as a Pakistani ally, if not proxy. Besides Pakistan, only two countries then recognised the Taliban regime, Saudi Arabia and the United Arab Emirates.
+
+After a 20-year US military presence in Afghanistan, the Trump administration during its first term signed a conditional peace agreement with the Taliban in Doha on February 29, 2020. The deadline for the withdrawal of the US and coalition forces was May 1, 2021. It was contingent on the Taliban desisting from attacking US forces and constraining the operations of Al Qaeda and other terrorist groups. The deal eventually landed on the desk of President-elect Joe Biden, who implemented it rather hurriedly. Consequently, the US left behind a huge arsenal of weapons, armed vehicles, drones and helicopters. They probably calculated that President Ashraf Ghani’s government, excluded from the Doha talks, would arrange with the Taliban a collaborative interim government. However, the popular support for the Ghani regime collapsed quickly, leading to Taliban seizing power on August 15.There are multiple dimensions to the Taliban story. First comes the domestic scenario. Because of sanctions and Afghanistan’s severance from the global banking regime the economy is struggling. Also, since October 2025 critical border crossings with Pakistan, for people and traders, have been blocked. Open hostilities with Pakistan since February 2026 have worsened the scenario. Pakistani airstrikes have killed nearly 500 civilians. And since February 28 the Iran war has disrupted Afghanistan’s communication routes via Iran. Also impacted is humanitarian and development aid from abroad. From $4 billion worth in 2020 it has slumped to $1.2 billion in 2025.
+
+Afghanistan is also coping with over four million Afghan refugees repatriated by Iran and Pakistan, constituting almost 10 per cent of its 45 million population. The Economist magazine argues that despite the economic and strategic challenges the Taliban has ensured stability and domestic peace, after decades of terrorism. It adds that the Taliban are “running a modern state” much better than they did during their first term (1996-2001). One reason is that the civil servants running affairs during the Ghani regime were not entirely purged. Most stayed on, providing administrative continuity.
+
+However, the Taliban's main domestic problem emanates from their ideological approach to women. Over 160 decrees have been passed to deny women the rights to act independently, travel, study and work. According to a recent UN Women report, after surveying 5,000 Afghans, 55% of men and 65% of women felt worse off than they did pre-August 2021. Because women can no longer study to become doctors, a mounting shortage of female doctors is reducing female access to medical treatment. Female mental health is also suffering. According to Unesco, due to the bar on females attending schools after age 12, their “future becomes increasingly dark”.
+
+In July, protests broke out in Herat, a western city with a large population of Shias and Tajiks. Popular chants sought “education, work, freedom”. The Taliban government is, apparently, not a monolith as it has many factions. But the supreme leader Sheikh Haibatullah Akhundzada, based in Kandahar like Mullah Omar in the 1990s, has centralised control. Using undeclared income from mining he has built an 8,000-member force loyal to him. So, for the foreseeable future, the regime is unlikely to evolve or liberalise.
+
+As a landlocked country, Afghanistan’s relations with its two immediate neighbours, Iran and Pakistan, assume importance. During Taliban’s first term, maltreatment of Shia Hazaras, killings of some Iranian diplomats and the history of Iranian support to their opponents the Northern Front, affected relations with Iran. In fact, the two almost went to war. After the US’s troop withdrawal, the interests of both governments converged over suppressing the terrorist Islamic State of Khorasan Province (IS-KP). Iran also provided Afghanistan access for trade and supplies after the latter’s relations with Pakistan collapsed. Iran maintains active and diplomatic channels without recognising the Taliban regime.
+
+Taliban-India relations have gone through a similar cycle. During the Taliban's first term, India was upset over their role in the IC-814 hijacking which ended at Kandahar. Additionally, there was the 2008 lethal attack on the Indian embassy in Kabul. India was also concerned about terrorist training camps in Afghanistan of ISI-sponsored groups targeting India. Thus, India was relieved when the US and its allies ejected...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/kc-singh-iran-war-stymieing-new-india-taliban-relations-1980316)
+
+---
+
+### BCI overreach raises deeper questions
+*Deccan Herald · Editorial*
+
+Last week, the Bar Council of India (BCI) directed its state bodies not to enrol graduates from the 2026 batch of the National Academy of Legal Studies and Research (NALSAR) University of Law, Hyderabad.
+
+The directive – issued by BCI chairman Manan Kumar Mishra and subsequently withdrawn, along with an apology – came as punishment to students who objected to Chief Justice of India (CJI) Surya Kant attending their convocation as the chief guest. Mishra’s apology does not mute questions related to the Council’s powers, the chairman’s prerogative in exercising them and, more importantly, the undermining of the right to freedom of speech.
+
+Even after backtracking, the Council noted that most students were not part of the protest campaign, calling them “innocent”. Does that imply the others are not? Is it stating that opposition to the CJI constitutes an offence?
+
+TISS replaces CJI Surya Kant as chief guest for 86th convocation amid NALSAR row, reschedules event over 'protest fears'The BCI’s primary role involves prescribing standards for professional conduct and legal education. Its threat to disallow the enrolment of students amounted to using powers it did not possess. Barring professionals from practice for engaging in peaceful protest threatens the constitutionally guaranteed rights-based regime. Custodians of the legal profession should be at the forefront, defending those rights. Instead, they attempted to silence the students.
+
+The BCI’s original directive provides context as it comes days after student protests in Delhi transformed into a movement about the right to dissent – protests led by an outfit that, ironically, originated as a response to the CJI’s remarks.
+
+In the apology, the BCI chairman – also a Bharatiya Janata Party (BJP) MP in the Rajya Sabha – did not cite the directive's illegality or arbitrariness. Instead, he chose to talk about “hurting the feelings” of the students. This is not an issue of hurt sentiments. It is about a statutory body violating its code and disrespecting students' rights as citizens. After this violation, Mishra’s continuance as the Council's chairman has become untenable. His 14-year tenure at the helm has also raised questions.
+
+The CJI did well to rebuke the BCI and its chairman over the issue. However, the Council’s directive and its hasty retreat do not mask the reality that students are confronting the CJI’s positions or that the protest is finding new venues, such as Bengaluru’s National Law School of India University (NLSIU), where students have objected to the CJI attending the university’s convocation.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/bci-overreach-raises-deeper-questions-4116022)
+
+---
+
+### Forest killing: Let the evidence speak
+*Deccan Herald · Editorial*
+
+The killing of three men in an alleged exchange of fire with forest personnel inside the Cauvery Wildlife Sanctuary in Chamarajanagar district has quickly escalated into a political and linguistic flashpoint. This is precisely why all parties concerned must resist the temptation to draw conclusions before the facts are established.
+
+The Forest Department claims its personnel confronted suspected poachers early on August 15 following a tip-off about armed men entering the Shagya forest range. The men allegedly opened fire, and the personnel retaliated. Firearms and about 34.5 kg of suspected wild animal meat were recovered from the spot.
+
+The families, however, reject the charge, saying the three men had gone into the forest searching for missing cattle. They alleged the victims were shot at close range and questioned why warning shots were not fired. A murder case has been registered, and a magisterial inquiry ordered. Forest Minister Ramalinga Reddy has said the officials opened fire in self-defence.
+
+Only an impartial inquiry can establish the sequence of events: who fired first, whether the use of force was proportionate or whether this was a cold-blooded killing. If the latter is established, it must determine whether there was any personal motive. Unfortunately, the incident is being politicised, with the Opposition accusing the government of “killing innocent farmers”.
+
+'Poachers' killing | Fourth accused Mahima Das releases video; seeks protectionMoreover, the fact that the victims were Tamil-speaking residents of Karnataka's border villages has allowed it to acquire a Tamil-Kannada dimension. Tamil Nadu Chief Minister C Joseph Vijay has described the incident as a “massacre” and rejected the Forest Department's explanation. The central question thus risks drifting from facts, law, and accountability to emotive politics.
+
+History also casts its shadow here. These forests were once Veerappan's territory. He began as a small-time offender before expanding into large-scale killing of elephants and smuggling sandalwood. This should serve as a reminder that illegal activity in protected forests cannot be allowed to flourish unchecked. At the same time, if forest officials exceeded their mandate, they must face legal consequences; conversely, if a poaching network is confirmed, its wider links must be exposed.
+
+The government should therefore refrain from releasing large compensation before the inquiry, as such a gesture can prejudge culpability and undermine the investigation's credibility. If families face immediate hardship, modest interim relief may be justified on humanitarian grounds, without implying liability. The responsible course now is to let an impartial inquiry establish the truth, free of political and linguistic distortions.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/forest-killing-let-the-evidence-speak-2-4116182)
+
+---
+
+### Closing in on digital arrest scams
+*Deccan Herald · Opinion*
+
+A glimmer of hope has emerged in India’s battle against one of the most disturbing forms of cyber fraud. The status report filed by the Indian Cybercrime Coordination Centre (I4C) before the Supreme Court suggests that the response to ‘digital arrest’ scams is becoming more organised and effective. Complaints on the national cybercrime portal fell from more than 1.23 lakh in 2024 to around 58,000 in 2025 and roughly 16,000 by the end of June 2026. During the same period, Rs 18.05 crore was restored to victims in more than 36,000 cases.
+
+Behind the numbers lie painful human stories. The proceedings before the apex court were triggered by the case of an elderly couple from Haryana who lost Rs 1.05 crore after fraudsters impersonated officials from multiple government agencies and used forged documents. Similar cases have surfaced nationwide.
+
+The pattern is chillingly familiar. An unexpected call. A stern voice claiming to be from the police. An accusation that your identity has been linked to a crime. Panic replaces rational thinking, and savings begin to disappear. Criminals posing as police officers, CBI officials, Enforcement Directorate personnel or even judges exploit fear, convincing victims that immediate payment is the only way to avoid arrest or prosecution.
+
+Digital arrest scams succeed not because victims lack intelligence but because they exploit trust, fear and the instinct to obey authority. Deepfake video feeds and spoofed local numbers can make the deception appear convincing. Many syndicates reportedly operate from scam compounds across Southeast Asia, making transnational enforcement difficult.
+
+Encouragingly, the status report points to a shift from fragmented responses towards a more integrated national framework. Banks, regulators, law-enforcement agencies, telecommunications providers and technology platforms are working together through shared information systems and common response protocols. Grievance-redressal mechanisms now extend to more than 1.23 lakh bank branches across 69 banks, while money-restoration initiatives involve 57 participating banks.
+
+In cybercrime, every minute matters. Criminals move stolen funds across multiple accounts within moments. The faster authorities can identify suspicious transactions, freeze funds and alert agencies, the greater the possibility of limiting losses.
+
+Digital arrest scams | Supreme Court gives RBI four weeks to adopt SOP for banksA proposed standard operating procedure could enable banks to place temporary debit holds on accounts suspected to be linked to cyber-enabled financial fraud. Such operations often rely on interconnected ‘mule accounts’ used to disperse illicit funds across borders. AI-driven monitoring and a uniform banking response could improve recovery while helping investigators trace fraudulent transactions.
+
+Reporting mechanisms are also becoming faster. Wider adoption of the e-Zero FIR system and the operationalisation of cybercrime coordination centres across the states could reduce delays in registering complaints and launching investigations.
+
+Beyond enforcement, victim restitution deserves equal attention. For many families, stolen money represents retirement savings, a child’s education, medical security or decades of hard work. Prompt restoration of recovered funds strengthens confidence in digital payments and financial institutions.
+
+Public awareness remains the first line of defence. Citizens should remember two rules: no police officer, CBI agent or judge will conduct an arrest over a video call, and no government agency will demand an immediate online fund transfer to ‘verify’ money or clear a person’s name.
+
+Awareness, however, must also give people the confidence to pause. When confronted by an intimidating caller claiming to represent the police, a court or a government agency, the safest response is verification. End the call, contact the institution through an official channel and speak to someone you trust before taking financial action. A few minutes of hesitation can prevent years of financial and emotional distress.
+
+Stronger safeguards must also respect privacy, due process and legitimate digital interactions. Security measures are most effective when transparent and proportionate. Building confidence in the digital ecosystem requires striking that balance.
+
+Digital arrest scams are unlikely to disappear overnight. Criminals will continue to adapt as technology evolves. The question is whether institutions can stay one step ahead. Recent progress suggests that India is moving towards an integrated system combining prevention, faster response, stronger coordination and improved victim restitution.
+
+Digital arrest scams are not merely assaults on bank accounts; they undermine public confidence in the digital ecosystem. Technology may be the weapon, but fear is the trigger and trust the target. India may have begun to turn the tide. The challenge now is to keep moving forward.
+
+(The author is an independent writer)
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/closing-in-on-digital-arrest-scams-4116017)
+
+---
+
+### Facing quagmire in Iran, Trump turns to Kim Jong Un
+*Deccan Herald · Opinion*
+
+The last time President Donald Trump vowed to halt a country’s nuclear weapons programme, he held three face-to-face meetings with Kim Jong Un of North Korea, declared that the two men had developed a “great relationship” and walked away empty-handed.
+
+That was in Trump’s first term. Not only did the diplomatic effort fail, but Kim immediately hit the accelerator on his programme and today possesses roughly 60 nuclear weapons, by some estimates, as well as missiles that appear capable of reaching the United States — exactly the combination Trump had vowed to dismantle.
+
+For months now, proliferation experts have questioned whether Trump could also end up walking away from his efforts to check Iran’s nuclear programme — especially now that he appears to be more focused on getting the Strait of Hormuz open than on dealing with Iran’s stockpiles of uranium, which are buried under rubble after the US bombed them in June 2025.
+
+Stymied in Iran, Trump is increasingly turning his sights back to North Korea, even though analysts see little hope of quickly dismantling that country’s growing nuclear arsenal.
+
+Trump’s social media declaration Sunday night, praising Kim and publicly ordering Defence Secretary Pete Hegseth to diminish the United States’ role in an annual military exercise with South Korea, a US ally in the Pacific, appeared intended to signal that he wants to resume negotiations. A day later, it remained unclear just how the Pentagon would scale back its role in the 11-day exercise, and a one-line statement sent to reporters by the Pentagon press office Monday afternoon did not provide any clarity.
+
+“The Department of War is actively working on executing the commander in chief’s directive,” the statement said, using the Trump administration’s name for the Department of Defence.
+
+Robert Litwak, a scholar at George Washington University who has written about the nuclear programmes in both North Korea and Iran, called the contrast between Trump’s approaches to those two countries “an incredible tale of two rogue states.”
+
+Trump shares map showing Strait of Hormuz as US territory“We’re at war with Iran, a nuclear-threshold state,” he said. “But with North Korea, we are placating a dictator who can target the US homeland with nuclear weapons.”
+
+Trump’s outburst was also aimed at punishing the South Koreans for declining to join in the war against Iran, a position that deeply angered Trump. It was a point he made in the same social media post and reiterated to reporters in the Oval Office on Monday.
+
+The president has also been angry that Seoul has been slow to deliver on what the White House believes is a $350 billion promise for new investments, including in shipbuilding. Last October, Trump visited South Korea and celebrated its future investments in the United States, including a promised multibillion-dollar expansion of Samsung’s chipmaking plant in Texas.
+
+“Trump defaults back to the complaint about South Korean free-riding” on the US troop presence on the Korean Peninsula, said Scott A Snyder, the president and CEO of the Korea Economic Institute of America, “and he uses the security relationship as a lever to put more pressure on the South Korean government.”
+
+Looming over the tensions is Trump’s inability to extract the US from the Iran war. He has hinted at his eagerness in recent months to move on from that conflict and return to dealing with Kim — who indulged Trump’s desire for leader-to-leader talks with those summits during Trump’s first term.
+
+President Lee Jae Myung of South Korea said in June that Trump appeared to want to resume talks with Kim, and Trump posted a picture of himself with the North Korean leader on social media at least twice in recent months. “Kim Jong Un and I get along GREAT!” Trump wrote alongside a photograph he posted Saturday of their meeting at the border between North and South Korea in 2019.
+
+Trump followed that up with another chummy post Monday, this one a meme showing Kim making a phone call with military officers standing behind him. The caption read, “Hey Donald, we cool … right?”
+
+The North Korean nuclear programme has been a deep concern since the late 1980s, long before Iran’s nuclear programme was on the radar. In 1994, during a crisis triggered by North Korea’s expulsion of international nuclear inspectors, the Clinton administration debated a military strike on the North Korean facility at Yongbyon. But it held back, and later that year, former President Jimmy Carter struck a deal with Kim Il Sung, the grandfather of the current North Korean leader, to end the nuclear programme in return for help building civilian nuclear reactors.
+
+It all fell apart, and subsequent efforts to bring the North Korean programme under control failed. In 2006, the North conducted its first nuclear test, and followed with five more, the most recent in 2017.
+
+The next year, having labelled Kim “Little Rocket Man,” Trump met the North Korean leader in Singapore. After their encounter, he told a New York Times reporter that he expected that the North would dismantle its programme fast. “It’s going to go very quickly,” he said after the summit. “I really believe that it’s going to go fast. And it is a very substantial arsenal. There’s no question about it.”
+
+But while Trump recalls the encounters fondly — during the first term, he would bring out Kim’s letters to him and read excerpts to visitors in the Oval Office — they went down in history as a diplomatic failure. A second summit, in Vietnam, ended with a collapse of the talks. Trump went into the sessions ill-prepared, his national security adviser at the time, John Bolton, said later, and the effort fell apart when Kim refused to dismantle facilities outside the main enrichment and reprocessing centre at Yongbyon.
+
+Some fear the same thing could happen again. “Another Trump-Kim summit, which is what the president seems to be angling for, could be a disaster,” said Joel S Wit, a former State Department diplomat who was involved in early talks with the North and wrote a history of the effort, Fallout: The Inside Story of America’s Failure to Disarm North Korea.
+
+“Trump doesn’t seem to realise that the Kim Jong Un of today isn’t interested in better relations with the United States,” Wit said. “He is hellbent on keeping his nuclear weapons, sending troops to Ukraine to support his Russian ally and threatening South Korea.”
+
+On Monday, critics of Trump’s foreign policy quickly attacked the president for undercutting a key alliance. Senator Jack Reed of Rhode Island, the top Democrat on the Armed Services Committee, said Trump had made “another inane, haphazard decision” that punished South Korea “for no reason beyond Trump’s ego.”
+
+Victor D Cha, a Georgetown University professor who worked on Asia policy in the George W Bush White House, described Trump’s social media outburst as a symptom, at least in part, of the president’s frustration over Iran. He noted that Trump’s charm offensive directed at Kim came as the president tried to maintain his hard line against Tehran, a study in contrasts in Trump’s approach to perhaps the world’s two most vexing nuclear proliferation challenges.
+
+“He’s kind of trending in two opposite directions,” Cha said. “He’s trending in the direction of pragmatically negotiating with a nuclear North Korea. But in the case of Iran, he’s taken an absolutist stance.”
+
+Trump defended his approach to North Korea in the Oval Office on Monday. Asked by a reporter whether he was prioritising the interests of US adversaries over allies, the president shot back, “I’m making it much safer.”
+
+“Kim Jong Un has always treated me with great respect,” the president added. “I understand him. He understands me.”
+
+But Kim is also closely watching Trump’s war on Iran, analysts say. That war has shown North Korea, Cha said, “that they are right to pursue nuclear weapons to avoid a military strike.”
+
+[Read full article](https://www.deccanherald.com/opinion/facing-quagmire-in-iran-trump-turns-to-kim-jong-un-4116014)
+
+---
+
+### Towards a meaningful life
+*Deccan Herald · Opinion*
+
+After speaking about the human tendency to get lured by the sensory attractions of the world and thus its inability to recognise its inherent divinity, the Bhagavad Gita says that this veil of ignorance enshrouds man’s mind, benumbing it from the fact that this creation in all its variegated forms is but a manifestation of the omniscient supreme power, having been there in the past and in the present and which will be there in the future also.
+
+Only a mind that is purified by a determined effort to disentangle itself from all worldly pulls will be able to discern the eternal, internal flame of divinity. Those who are able to achieve this are the Mahagnanis, the realised beings for whom there is no rebirth, those whom the world reveres as Mahatmas in the true sense of the word. Does this mean that all lesser mortals have to abandon their worldly responsibilities and take to a life of asceticism? No, the Gita holds out the encouragement that even small efforts in this direction will still yield significant results in the form of a more balanced, emotionally stable life conducive to material progress. This in itself is more than enough for most people.
+
+The sanctity of the sacred springThe Gita now elaborates on this further. “All beings are born with the dualities of attraction and repulsion – raga and dvesha," it says. It notes that this tendency to gravitate towards things that give pleasure and happiness and detest those that cause pain and revulsion is inborn in man. As a corollary to this, when man’s efforts to realise his desires meet with obstacles or failure, they turn into anger and hatred. Here, the Gita brings in the two concepts of avarana, or concealment, and vikshepa, or wrong projection. Both these are the offshoots of man’s ignorance. If avarana conceals the real nature of a thing that man desires, making him believe that it will bring him happiness, vikshepa outwardly projects a façade of stability and comfort, while it actually is something more sinister, like a whirlpool projecting itself as the placid surface of the river. In the words of the revered Swami Chinmayananda, "The ultimate aim of all spiritual practice – sadhana – is to free oneself from the grip of these two dualities of attraction and repulsion. By birth, all beings are enveloped in this shroud of ignorance. But, by conscious effort, man can move towards true knowledge and a meaningful life."
+
+[Read full article](https://www.deccanherald.com/opinion/towards-a-meaningful-life-4116008)
+
+---
 
 ## 18 August 2026
 
