@@ -1,3 +1,334 @@
+## 19 August 2026
+
+### US-South Korea cut Ulchi drills short after Trump orders exercise reductions
+*India Today World Desk · general*
+
+## South Korea and the United States have shortened their joint Ulchi Freedom Shield drills after Washington sought cuts. The move may strain allied readiness while doing little to draw North Korea back to talks.
+
+Image used for representational purposes only
+
+South Korea and the United States have agreed to cut short their joint military drills and scale down some field exercises at Washington's request, South Korean officials said on Wednesday. The move came days after US President Donald Trump ordered cuts to the exercises.
+
+The summertime Ulchi Freedom Shield drills began on Monday and were originally due to run for 11 days. Trump said he wanted the Pentagon to "substantially reduce" the exercises, citing what he described as a good relationship with North Korean leader Kim Jong Un and South Korea's refusal to join the US war against Iran.
+
+South Korea's military said the ongoing drills with the US would now end on Friday instead of August 27, as initially planned. It also said the two sides had agreed to reduce some joint field training exercises.
+
+Many experts say Trump's decision could hurt combined US-South Korean readiness and eventually weaken their decades-old alliance. Ulchi Freedom Shield is largely a computer-simulated command post exercise meant to improve the allies' ability to respond to possible regional security threats such as North Korean aggression. The two countries usually hold field training exercises during the same period.
+
+The drills, along with a similar exercise held in spring, are a central part of the US-South Korea alliance, which goes back to the 1950-53 Korean War. They have also long been a source of tension with North Korea, which has described the exercises as a rehearsal for war and has responded in the past with provocative missile tests.
+
+North Korea has not responded to Trump's overture. But earlier on Wednesday, its state news agency KCNA carried commentary that criticised the US-South Korean drills as "frantic" and "extremely dangerous" and said it would completely frustrate what it called its rivals' hostilities.
+
+Experts said Kim Jong Un, strengthened by North Korea's advancing nuclear programme and expanding military cooperation, is unlikely to accept Trump's overture any time soon unless he is offered bigger concessions. In response to Trump's earlier outreach, Kim said last year that he could return to talks only if the US dropped its demand that North Korea agree to denuclearisation before diplomacy began.
+
+Trump and Kim met three times between 2018 and 2019, but their diplomacy later collapsed over disagreements on North Korea's demand for wide sanctions relief in exchange for limited denuclearisation steps. The latest decision on the drills marks another shift in an exercise that has long been a key part of the US-South Korea alliance and a recurring source of friction with Pyongyang.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Aug 19, 2026 07:06 IST
+
+---
+
+### Instagram ad becomes cyber trap, MP family loses Rs 98,000 in minutes
+*Sarvesh Purohit · general*
+
+## A Gwalior family said that clicking an Instagram advertisement froze their phone and led to unauthorised UPI withdrawals. Police have registered a case as investigators examine how access to the bank account was gained.
+
+Cyber fraudsters had emptied nearly Rs 98,000 from their bank account through three UPI transactions (Representative image)
+
+An ordinary Instagram scroll turned into a nightmare for a family in Madhya Pradesh's Gwalior after clicking on an advertisement which led to a cyber fraud. The mobile phone suddenly froze after the click, and by the time the family realised what had happened, cyber fraudsters had emptied nearly Rs 98,000 from their bank account through three UPI transactions.
+
+The incident was reported from Rudra Pura under the Purani Chhawani police station area. According to a complaint filed by Jay Pratap Singh Batham, his wife Rachna was using Instagram on a mobile phone on August 11 when an advertisement appeared on the screen.
+
+She clicked on the advertisement, but instead of opening normally, the phone immediately became unresponsive. The device froze so badly that none of its functions worked, and even switching it off became impossible.
+
+The family took the phone to a shop near Purani Chhawani crossroads, where the shopkeeper managed to shut it down and restart it. At the time, the family reportedly had no idea that their bank account could already be at risk.
+
+Then came the shocking discovery.
+
+Around midnight, Jay Pratap received a bank message regarding an instalment. When he checked his account, the balance showed minus Rs 2,970. The family had nearly Rs 1 lakh in the account, but the money had suddenly vanished.
+
+Alarmed, Jay Pratap asked his wife whether she had transferred money to anyone. She denied making any transaction. Suspecting cyber fraud, he immediately contacted the cybercrime helpline 1930 and reported the matter.
+
+The next day, a visit to the bank revealed the extent of the loss. The account statement showed that Rs 98,000 had been withdrawn through three separate UPI transactions.
+
+The victim subsequently complained to the bank and approached Purani Chhawani police on August 16. Police registered a case and handed the investigation over to the cyber cell.
+
+Investigators are now trying to establish what happened after the Instagram advertisement was clicked and how the alleged fraudsters gained access to the bank account.
+
+A routine social media scroll, one seemingly harmless click and a frozen phone were followed by a devastating financial shock, turning an Instagram advertisement into a suspected cyber trap worth Rs 98,000.
+
+\- Ends
+
+with inputs from Sarvesh Purohit
+
+Zafar Zaidi
+
+Aug 19, 2026 07:04 IST
+
+---
+
+### Why new Maharashtra rules give CM Devendra Fadnavis veto power over any minister
+*Vallabh Ozarkar · legal*
+
+Three years after HC quashed a decision by then CM Shinde, the Fadnavis govt amends business rules to empower the CM to override any minister in public interest.
+
+[Read full article](https://indianexpress.com/article/political-pulse/maharashtra-rules-cm-devendra-fadnavis-veto-power-minister-10839275/)
+
+---
+
+### Milky Mist Dairy Foods lists at 18% premium to issue price
+*SECTIONS Milky Mist Dairy Foods lists · economy*
+
+#### Uh-oh! This is an exclusive story available for selected readers only.
+
+Worry not. You’re just a step away.
+
+What’s Included with
+
+ETPrime Membership
+
+## 1Exclusive Insights That Matter
+
+### Uncover the truth with our investigative stories
+
+### Make strategic moves using the real-world case studies
+
+### Read industry-specific stories to identify emerging trends
+
+### Spot opportunities with in-depth insights that matter
+
+-   Trump temper on H-1B visas is forcing Indians to do these things to stay put in US
+    
+    What Adani’s US indictment means for India Inc’s overseas fundraising
+    
+-   Why veterans like Reliance, L&T are on acquisition spree? Aswath Damodaran has an answer.
+    
+    Will China’s dollar bond sale in Saudi Arabia trump the US in financial world?
+    
+-   Huawei launches its own OS to compete with Google and Apple. But can it win beyond China?
+    
+    The problem with lab grown diamonds
+    
+-   Why a falling rupee is a better option for the economy
+    
+    A list of top 20 momentum stocks that have delivered massive returns in one year
+    
+
+## 2Invest Wisely With Smart Market Tools & Investment Ideas
+
+Alpha Trade
+
+Get daily trade ideas from SEBI-registered research analysts.
+
+Investment Ideas
+
+Grow your wealth with stock ideas & sectoral trends.
+
+Stock Reports Plus
+
+All-in-one stock research with Stock Score, peer comparison & key signals.
+
+BigBull Portfolio
+
+Get to know where the market bulls are investing to identify the right stocks.
+
+Stock Analyzer
+
+Check the score based on the company's fundamentals, solvency, growth, risk & ownership to decide the right stocks.
+
+Market Mood
+
+Analyze the market sentiments & identify the trend reversal for strategic decisions.
+
+Stock Talk Live at 9 AM Daily
+
+Ask your stock queries & get assured replies by ET appointed, SEBI registered experts.
+
+## 3Stay informed anytime, anywhere with ET ePaper
+
+ePaper - Print View
+
+Read the PDF version of ET newspaper. Download & access it offline anytime.
+
+ePaper - Digital View
+
+Read your daily newspaper in Digital View & get it delivered to your inbox everyday.
+
+Wealth Edition
+
+Manage your money efficiently with this weekly money management guide.
+
+## 4Times Of India Subscription (1 Year)
+
+TOI ePaper
+
+Read the PDF version of TOI newspaper. Download & access it offline anytime.
+
+Deep Explainers
+
+Explore the In-depth explanation of complex topics for everyday life decisions.
+
+Health+ Stories
+
+Get fitter with daily health insights committed to your well-being.
+
+Personal Finance+ Stories
+
+Manage your wealth better with in-depth insights & updates on finance.
+
+New York Times Exclusives
+
+Stay globally informed with exclusive story from New York Times.
+
+## 5Enjoy Complimentary Subscriptions From Top Brands
+
+Docubay Subscription
+
+Stream new documentaries from all across the world every day.
+
+---
+
+### Trump is threatening to bomb Oman, but why?
+*SECTIONS Trump is threatening · world*
+
+Dubai: The world knows that US President Donald Trump is angry with Iran. But he's not happy with the small country lying across the Strait of Hormuz from the Islamic Republic, either: Oman.
+
+Oman has played a relatively low-profile role since the Iran war began, including as a mediator. But its geography has thrust the sultanate into the uncomfortable position of negotiating with Tehran over management of the strait while facing Trump's threats.
+
+Trump this week told Fox News reporter Trey Yingst that the US would bomb Oman if it "gets in the way," using an expletive for emphasis. It's not the first such threat he's made. Oman has not commented.
+
+  
+
+Here's a look at the country in the middle of the Washington-Tehran tug-of-war.
+
+**Trump is not happy about emerging Oman-Iran deal**
+
+Trump threatened Oman because he's not happy that it's close to a deal with Iran over the strait, two regional officials said Tuesday.
+
+Trump is under pressure. He vowed a quick war and a weakened Iran, along with a better deal on Tehran's nuclear program. Instead, Iran has seized on the Strait of Hormuz as a new weapon in talks, asserting control of what had been seen as an international waterway before the war.
+
+US-Iran negotiations have dried up. This week ended the 60-day period that launched when the US and Iran signed an interim agreement. It had been meant to open the way for more detailed talks. There's no sign of it being extended. Trump now says there are no planned talks with Iran.
+
+So the only confirmed discussions happening now are between Iran and Oman about shipping on the strait. These have been going on for weeks. Oman hasn't said much about them publicly. Tehran says they're finalizing a joint statement. There's widespread thinking that Iran is not in much of a hurry.
+
+Trump has made plenty of threats against Iran. Now he's venting his frustration at Oman, too.
+
+**The sultanate had been trying to make peace**
+
+Oman, with a population of just over 5 million, is one of the quieter actors in the Gulf. Unlike other regional states, it hasn't been targeted during the war in the way that Tehran has lashed out at neighbors hosting US military personnel.
+
+Oman has allowed the US military to use its facilities, though Washington has described defense relations as smaller in scale compared with Gulf neighbors like the United Arab Emirates.
+
+Oman's leaders have preferred engagement with Iran. The sultanate has been involved in mediation efforts, but that work is now being driven by Qatar and Pakistan.
+
+The world's focus has turned more toward Oman since the interim agreement was signed. Not long after the signing, the relative calm was shattered when Iran started firing at ships trying to transit the Strait of Hormuz near the Oman coast on a route supported by the US
+
+Now Oman is in discussions that appear to be driven by Iran, which has described the talks as aiming to "develop mechanisms to ensure safe navigation through the Strait of Hormuz while respecting the sovereign rights and sovereignty of both coastal states, as well as Iran's security and national interests." The mechanisms might include fees.
+
+Regional officials have said the emerging deal calls for ships to enter the Persian Gulf through an Iranian-controlled route and exit through a route controlled by Oman. But any deal appears to rely on the US lifting its blockade of Iranian ports.
+
+Oman earlier this month described the talks as "proceeding in a positive and constructive atmosphere," while in the same statement condemning repeated attacks on ships transiting the strait.
+
+After a meeting Tuesday between Oman's foreign minister and his Egyptian counterpart, Egypt said the Iranian-Omani deal could pave the way for the US and Tehran to return to negotiations for a "comprehensive and permanent deal that addresses all concerns and enhances regional security and stability."
+
+**It is not clear what effect Trump's threat might have**
+
+Oman is caught between two heavily armed and stubborn powers. Meanwhile, global supplies of oil, natural gas and 
+
+Since Trump's latest threat, the government's Oman News Agency has been posting about other things - the Muscat Stock Exchange, sports, imports of coffee and tea. Foreign ministry statements have focused on diplomatic meetings and greetings.
+
+It is not clear whether Trump's threat will make any difference in Oman's talks with Iran, including in hurrying the countries to finalize and announce a deal.
+
+But it's clear that the US president is passing along the growing heat his administration feels as midterm elections approach, and as the global economy watches events on the Iran-gripped strait for any sign of relief.
+
+---
+
+### 40 years ago AUGUST 19, 1986: Agitation by Pak opposition
+*Editorial · legal*
+
+This is the front page of The Indian Express published on August 19, 1986.
+
+[Read full article](https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-august-19-1986-agitation-by-pak-opposition-10839261/)
+
+---
+
+### Can Gaja Alternative Asset Management IPO deliver long-term growth for high-risk investors?
+*Sachin Kumar · economy*
+
+ET Intelligence Group: Gaja Alternative Asset Management, which manages and advises India-focused investment funds, plans to raise ₹450 crore through a fresh issue to fund its investments in existing and new funds and repay loan. Additionally, it will raise ₹100 crore through an offer for sale. The promoter stake will fall to 54% after the IPO, from 71% currently. The company has generated an average multiple on invested capital (MOIC) of 3.3 times across prior investments and funds, implying strong investment returns. However, its earnings are dependent on fund performance and its business is exposed to regulatory changes. Given these factors, the issue appears to be suitable for long-term investors with a higher risk tolerance.
+
+## **Business**
+
+Incorporated in 1999, the company invests in sectors including education, energy and environment, financial services, consumer and digital technology. Its investment approach is focused on the mid-market segment, comprising deal size of ₹50-250 crore. The Limited Partners (or investors) of Gaja Capital funds are spread across 20 countries including India, the US, Europe and the Middle East. It derives income from management fee, carried interest, which refers to share of profits from successful investments, and income from sponsor commitment. Income from sponsor commitments represents gains on the company's own capital invested in the funds. As of March 31, 2026, it has committed about ₹274 crore, or 6.4% of the total size of the Gaja Capital Funds. The carried interest accounted for nearly 48% of total income in FY26. Any weak investment performance will affect the carried interest and sponsor 
+
+  
+
+ET Bureau
+
+The firm’s past success and a fast-growing market provide comfort while the nature of its revenue mix calls for a measured approach
+
+  
+
+## **Financials**
+
+Revenue increased to ₹158 crore in FY26 from ₹104 crore in FY24. Net profit grew to ₹82 crore in FY26 from ₹45 crore in FY24. Net margin rose to 52% from 43% during the period, reflecting operating leverage as cost-to-income ratio fell to 44.6% in FY26 from 52.3% in FY25. Across its three funds, MOIC has ranged from 1.7 times to 3.8 times. MOIC shows how much an investment has grown compared with the amount originally invested. The return on equity increased to 16.5% in FY26 from 14.5% in FY24.
+
+## **Valuation**
+
+As the first standalone private equity firm to list on the exchanges, Gaja Alternative Asset Management has no direct listed peers. The IPO is priced at a P/E multiple of 27.5 times, compared with P/E multiples of around 25-40 times for listed asset management companies (AMCs).
+
+---
+
+### To shore up revenue, BMC to levy sewage tax on 54,000 homes under 500 sq ft
+*Pratip Acharya · legal*
+
+Homes currently exempt from property tax to face new charge from April 2027; water tax hike also proposed
+
+[Read full article](https://indianexpress.com/article/cities/mumbai/bmc-revenue-sewage-tax-smaller-homes-10839247/)
+
+---
+
+### African honeyguide birds recognise local calls from honey hunters to help find hidden bee nests
+*TOI Science Desk · science*
+
+Deep in the forests of Mozambique, finding a wild bee nest can begin with a sound. Yao honey hunters use a distinctive call to attract greater honeyguides, small birds capable of leading people towards bee colonies hidden inside trees.
+
+The relationship has been passed down for generations, but new research suggests the birds are not simply responding to any human noise. They appear to recognise the particular signals used by the people they live alongside. In experiments in Mozambique and Tanzania, honeyguides were much more likely to respond to the local call than to a signal used by honey hunters elsewhere. The finding points to an unusual form of communication between humans and a wild species, shaped by traditions on both sides.
+
+It also adds a new detail to a relationship in which birds locate hidden bee nests, while people open them and leave behind the beeswax the honeyguides feed on.
+
+## How African honeyguides help honey hunters find hidden bee nests
+
+The greater honeyguide (Indicator indicator) has an unusual role in African honey hunting. From above the forest, the bird can locate bee colonies that are difficult for people to spot. When a honey hunter gives the right signal, the bird approaches and begins moving through the landscape, making conspicuous calls as it goes.
+
+The person follows until the bird reaches a tree containing a nest. At that point, the bird settles nearby and becomes quiet, effectively leaving the final search to the hunter.The arrangement works because each side can provide something the other cannot easily obtain alone. Hunters have the tools and knowledge needed to open a tree and reach the honeycomb, while the bird has an ability to locate bee nests. After the honey is taken, honeyguides can feed on the beeswax that remains.
+
+According to US National Public Radio, honey is also an important part of the Hadza diet, with earlier calculations indicating that it accounts for roughly 10% of their annual calories with the help of honeyguides.
+
+### Why African honey hunters use special calls to attract honeyguides
+
+The researchers were interested in a detail that could easily have been overlooked. Honey hunters do not all call honeyguides in the same way. In Tanzania, Hadza hunters use a particular whistle. In Mozambique, Yao hunters use a trilling call followed by a low grunt, described as sounding roughly like “brrr-humph”.
+
+These are not simply different versions of the same sound; they are signals embedded in the traditions of separate communities.Claire Spottiswoode and Brian Wood wanted to know whether the birds themselves recognised this difference. The study published in Science, titled ‘Culturally determined interspecies communication between humans and honeyguides’, compared honeyguides' responses in Tanzania and Mozambique by playing recordings of the different human signals. The researchers also used ordinary recordings of people saying their names as a control, allowing them to distinguish a response to the specific honey-hunting signal from a general reaction to hearing a person nearby.
+
+Image AI generated
+
+### Honeyguides respond more strongly to local calls from African honey hunters
+
+The results were strikingly different between the two locations. In Tanzania, honeyguides appeared in response to Hadza whistles 82% of the time. When the birds heard the trilling calls traditionally used by Yao honey hunters in Mozambique, they appeared only 24% of the time. In Mozambique, the pattern was reversed: the birds responded to the local trills 73% of the time, compared with 26% for the Tanzanian whistles.According to the researchers, differences in how the sounds travelled through the environment could not explain the pattern. The birds were responding preferentially to the signals associated with the people they normally encountered. The Science paper therefore argues that the findings are consistent with honeyguides learning local human signals. NPR reported Brian Wood describing the result as strong evidence for a learning process, although exactly how the birds acquire this knowledge remains unresolved.
+
+### Why scientists are unsure how honeyguides learn human calls
+
+There is an important complication. Honeyguides are not known for the kind of vocal learning associated with parrots or many songbirds. The birds also do not grow up being raised by their biological parents. Honeyguides lay their eggs in the nests of other bird species, which then raise the young. That makes the route by which a young honeyguide could acquire knowledge of a particular human signal far less obvious.One possibility raised in the reporting is that younger honeyguides learn socially by watching older birds interact with people. When a hunter opens a tree, several honeyguides may gather to feed on the exposed beeswax. As many as half a dozen or more birds can sometimes be present. If younger birds observe older ones responding to local honey-hunting calls, they may gradually acquire the same association.
+
+
+---
+
 ## 18 August 2026
 
 ### In Uttarakhand, why BJP is ‘micro-managing’ 23 seats it lost in 2022
