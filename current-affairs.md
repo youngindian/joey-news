@@ -1,3 +1,126 @@
+## 20 August 2026
+
+### CBI insignia, fake IDs, WhatsApp notice: How Delhi bizman’s wife foiled ‘Special 26’-style raid
+*Hadi Khan · regional*
+
+Fake CBI raid attempt foiled (Image Credit: X)
+
+NEW DELHI: A suspected ‘Special 26’-style fake CBI raid was foiled at a businessman’s residence in Delhi’s Rohini after his wife refused to open the gate for a group of people claiming to be CBI officers.According to a complaint filed with the police, around eight to 10 people arrived at the residence and said they had come to conduct a CBI search. They allegedly tried to enter the house without showing proper authorisation or establishing their identities.The woman refused to let them in despite alleged pressure and threats to open the gate. The group then remained outside the house for around 1.5 hours, according to the complaint.
+
+Neighbours gathered at the spot and questioned the group about the search warrant and other authorisation. When asked to provide a copy of the notice, the alleged fake officers reportedly said the document was in their car and left the spot on the pretext of bringing it.The family subsequently called the police helpline 112, following which a police team reached the residence.The complaint states that the suspected fake officers were wearing clothes bearing the CBI insignia and carrying identity cards claiming they were CBI officials.
+
+A notice purportedly bearing the name and signature of the CBI Director was later sent to the complainant’s father on WhatsApp.Although the message was subsequently deleted, the family had taken a screenshot and submitted it to police along with the complaint.The family has alleged that the notice was fabricated and was intended to make the group’s purported action appear to be an official CBI operation.The incident was captured on CCTV cameras installed near the residence. Police are examining the footage and investigating the matter.
+
+---
+
+### Tukaram Mundhe effect? Idli replaces vada pav, chaas for cola in Mumbai school canteens
+*Pallavi Smart · legal*
+
+Canteens are dropping fried food and fizzy drinks, and parents are being told what to pack ever since FDA warned schools against selling junk food on their premises.
+
+[Read full article](https://indianexpress.com/article/cities/mumbai/tukaram-mundhe-effect-idli-replaces-vada-pav-chaas-for-cola-in-mumbai-school-canteens-10841037/)
+
+---
+
+### ‘Denied’ boarding on flight to Canada, Punjab man wins Rs 1.53 lakh payout from airlines
+*Ashish Shaji · legal*
+
+The commission directed the airlines to refund Rs 1.23 lakh, pay Rs 20,000 as compensation for mental agony, harassment and inconvenience and also pay Rs 10,000 towards litigation expenses.
+
+[Read full article](https://indianexpress.com/article/legal-news/denied-boarding-canada-punjab-rs-1-53-lakh-payout-airlines-10840098/)
+
+---
+
+### From hospital charges to emergency care: What Maharashtra’s new healthcare Bill proposes
+*Purnima Sah · legal*
+
+Maharashtra's new healthcare Bill seeks to make hospital prices transparent, but it does not regulate them, says health rights groups.
+
+[Read full article](https://indianexpress.com/article/cities/mumbai/price-transparency-no-deposit-for-emergency-patients-maharashtras-new-healthcare-bill-10840661/)
+
+---
+
+### Maharashtra history textbook says vedic period diet was plant-based, removes caste reference
+*Soham Shah · legal*
+
+However, the new textbook stated, “Their diet consisted of grains, milk, curd, ghee, honey and vegetables. They used various foodgrains such as barley, wheat, rice and millet in their meals. Thus, their diet consisted of plant-based foods.”
+
+[Read full article](https://indianexpress.com/article/cities/pune/maharashtra-history-textbook-says-vedic-period-diet-was-plant-based-removes-caste-reference-10840948/)
+
+---
+
+### She hired the house maid and her family to kill her daughter-in-law
+*Mohamed Thaver · legal*
+
+The death of the 35-year-old was first reported as a fall in the bathroom. Marks on her neck and bleeding from the head made police suspicious. Five arrests have followed, four of them from one family.
+
+[Read full article](https://indianexpress.com/article/cities/mumbai/she-hired-the-house-maid-and-her-family-to-kill-her-daughter-in-law-10841029/)
+
+---
+
+### After prison, a laptop, 40 hens, and Rs 50,000 to start again
+*Sadaf Modak · legal*
+
+Thirty-three years, four revisions. Maharashtra's unique one-time grant for released prisoners has gone from Rs 1,000 in 1993 to Rs 50,000 this week, and for the first time covers those acquitted after a year in custody.
+
+[Read full article](https://indianexpress.com/article/cities/mumbai/maharashtra-prisoners-50000-rehabilitation-grant-10840997/)
+
+---
+
+### Morari Bapu begins Ramcharitmanas recital at Harvard during Tulsi Jayanti
+*India Today World Desk · general*
+
+## Morari Bapu has begun a nine-day Ramcharitmanas recital at Harvard University in Cambridge. The event brings together spiritual tradition, scholarship and Tulsi Jayanti observance on a global stage.
+
+Image used for representational purposes only
+
+Indian spiritual leader Morari Bapu has begun a nine-day recital of the Ramcharitmanas at Harvard University in Cambridge, in an event titled 'Manas Guru Prasad'. The recital started at Sanders Theatre on August 15 and will continue till August 23.
+
+The programme also included a three-day scholarly discussion from August 16 to 18, according to a press release issued in New York on Wednesday. The event also marked Tulsi Jayanti on August 19, the birth anniversary of poet-saint Tulsidas.
+
+Prof Diana Eck, Faculty Director at Harvard's Lakshmi Mittal and Family South Asia Institute, said Ram, Sita and Lakshmana could be seen as "primordial pilgrims" whose 14-year exile from Ayodhya through Prayag, Chitrakoot, Panchavati and Kishkindha to Rameshwaram unfolded across India.
+
+"As they travelled, these places were transformed into sacred sites, and pilgrims have followed their footsteps ever since," Eck said. She added that the journey also became the landscape of Ramlila, extending beyond India to Thailand, Indonesia and Cambodia.
+
+Dolar Popat, a member of the UK House of Lords, said Harvard's motto, 'Veritas', resonated with the values of "Satya, Prem and Karuna", making the gathering meaningful.
+
+The press release said Bapu had started the Tulsi Jayanti programme in 2010 to honour those dedicated to preserving, interpreting and carrying forward the tradition of Ram Katha and the Ramcharitmanas.
+
+"This Katha is being held in Savan maas, in the context of Tulsi Jayanti. What was lit today by the sadhus was not gyan deep; it was prem jyoti," Bapu said. He added that the gathering would focus on the "Tribhuvana Sutras" of Satya, Prem and Karuna.
+
+Paavan Popat OBE, a member of the organising team, said the event brought together "the world's oldest recital traditions and one of its greatest centres of learning". He said Bapu had taken the Ram Katha to Kailash Manasarovar, the Vatican, the United Nations and Cambridge, and that the presence of sadhus and scholars from Chitrakoot, Ayodhya and Varanasi at Harvard was particularly significant.
+
+According to the statement, Bapu has delivered more than 980 Kathas at over 900 locations worldwide, including the Vatican, the UN headquarters in New York and the University of Cambridge in 2023. The Harvard recital and the discussions around it brought together spiritual tradition, scholarship and the observance of Tulsi Jayanti over nine days.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Aug 20, 2026 06:50 IST
+
+---
+
+### Rupee falls to a 3-week low of 95.71, raising financial concerns
+*SECTIONS Rupee falls · economy, finance*
+
+Mumbai: The Indian rupee closed at a three week low of 95.75 on Wednesday, marginally weaker from its previous close of 95.68, with traders attributing the modest retreat to substantial central bank interventions that prevented further losses for the local monetary unit.
+
+The RBI has consistently intervened for the past nine trading sessions, arresting weakness in the rupee, as oil prices soared. Indian equity indices have also continued to fall through most of last week and this week, reflecting the impact of soaring energy costs.
+
+---
+
+### 40 years ago August 20, 1986: Violence spreads in Pakistan
+*Editorial · legal*
+
+This is the front page of The Indian Express published on August 20, 1986.
+
+[Read full article](https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-august-20-1986-violence-spreads-in-pakistan-10840880/)
+
+
+---
+
 ## 19 August 2026
 
 ### US-South Korea cut Ulchi drills short after Trump orders exercise reductions
