@@ -1,3 +1,535 @@
+## 21 August 2026
+
+### BSE cleared as eligible exchange in FTSE Russell equity indices
+*SECTIONS BSE cleared as eligible exchange · economy*
+
+FTSE Russell said on Thursday that India's BSE has met the criteria to be an eligible exchange for its equity indices, paving the way for BSE-listed stocks to be ‌considered ⁠for index ⁠inclusion and potentially attracting passive fund flows.
+
+​Stocks listed on BSE's main board will be ​assessed for index eligibility from FTSE's March 2027 review, the index provider said.
+
+​Any stocks listing on the ⁠BSE main ‌board through initial public ​offerings ​will also be eligible for ⁠fast-track screening, it added.
+
+If a company ​is listed on both the ​BSE and the NSE and passes liquidity tests on both exchanges, the NSE-listed security will be selected for index eligibility as the exchange has more ‌international institutional investor participation, FTSE Russell said.
+
+NSE-listed stocks are already eligible for inclusion ⁠in FTSE Russell indices.
+
+The NSE earlier this month said it would add BSE to ​its benchmark Nifty 50 index, effective September, which analysts at Nuvama said could bring in $695 million of inflows for BSE.
+
+---
+
+### Economic pressure a 'delicate dance' against Iran, most effective tool: JD Vance
+*Ani · world*
+
+Washington, DC: US Vice President JD Vance on Thursday (local time) said economic pressure remains the "most effective tool" available to Washington against Iran, while describing the approach as a "delicate dance", CNN reported.
+
+Speaking on the "Clay Travis and Buck Sexton Show", Vance said the US could use economic measures to influence Tehran but warned that such pressure could also have wider consequences.
+
+  
+
+"The most effective tool that we have is the economic pressure we can apply to them. And this is a delicate dance, because we apply economic pressure to them, they're going to try to apply economic pressure to us," Vance said, according to CNN.
+
+"What has been true over the last couple of weeks is they have felt a lot more pressure than we have," he added.
+
+Vance acknowledged that oil prices had increased but said the administration was working to ensure energy supplies continued through the Strait of Hormuz.
+
+"Obviously oil prices are elevated, which people see at the pump," he said, as reported by CNN.
+
+"They are trying to close the Strait down, and if we can, you know, not even get it back to where it was before, but if we can get enough oil and gas out to give some Americans some ease at the pump, some ease on energy prices," Vance added.
+
+According to CNN, he said maintaining pressure on Iran over attacks on commercial vessels would influence Tehran's decision-making.
+
+"Meanwhile, the Iranians are punished for shooting at commercial ships. That just applies a lot of economic pressure to them, and that changes their calculus for you know what kind of a deal they want to make," Vance said.
+
+Vance said the broader objective of the US policy was to prevent Iran from rebuilding its nuclear capabilities, CNN reported.
+
+"What we are trying to do is create a changed reality on the ground, where not just we can say with confidence their facilities have been destroyed; we can also say with confidence they're never going to try to rebuild, and that's the phase that we're in now," he said, as per CNN.
+
+Vance's remarks came amid heightened tensions between Washington and Tehran following the US announcement of new sanctions against Iran.
+
+The Iranian Ministry of Foreign Affairs had condemned the latest US economic and trade sanctions, calling them "economic terrorism" and "crimes against humanity."
+
+In a statement issued on Thursday, the ministry said the sanctions were "another indication of the continuation of 73 years of hostility and animosity by US policymakers toward the Iranian people."
+
+"The US economic sanctions against Iran, which target the fundamental human rights of every Iranian citizen, constitute 'economic terrorism' and 'crimes against humanity'," the statement said.
+
+Iran accused Washington of pursuing a policy that had already failed and said the new measures would not affect its determination to protect its independence and national sovereignty.
+
+"Economic sanctions and pressure are the other side of the same coin as war and military aggression," the Iranian Foreign Ministry said.
+
+The ministry also said the US government and those responsible for the policy would bear responsibility for its consequences.
+
+"The Islamic Republic of Iran remains steadfast and determined in defending its security and national interests and confronting the US military, economic, political and psychological pressures and attacks," it added.
+
+The statement followed US President Donald Trump's announcement of what he described as the "most crushing economic operation ever taken" against Iran, warning countries providing financial, business or government support to Tehran of "tremendous economic consequences."
+
+"No one has given the Islamic Republic of Iran a greater opportunity to make a Deal than me. TRAGICALLY, for them, they have failed to take it," Trump said in a post on Truth Social.
+
+"Therefore, today, I am announcing the MOST CRUSHING ECONOMIC OPERATION EVER TAKEN AGAINST ANY COUNTRY! This will be Economic Warfare and Isolation on an unprecedented scale," he added.
+
+Trump said the measures would target Iran's economic lifelines, including oil smuggling networks, financial transfers, exchange houses, ship registries and front companies.
+
+"Oil smuggling, swap lines, cash transfers, exchange houses, ship registries, front companies -- It all needs to stop NOW," Trump said.
+
+He also warned that any country allowing its financial institutions, businesses, airports or government entities to support Iran would face "tremendous economic consequences."
+
+The developments come amid tensions over the Strait of Hormuz, a key global energy transit route. Trump had earlier claimed that the waterway remained open and that the US naval blockade had been effective.
+
+"Right now the Strait is open. A lot of boats are coming through," Trump said, adding that "the naval blockade has been extremely effective" and "100 per cent successful."
+
+Trump also reiterated that Iran would not be allowed to acquire nuclear weapons, stating, "IRAN WILL NEVER HAVE A NUCLEAR WEAPON."
+
+Meanwhile, Iranian Foreign Minister Seyed Abbas Araghchi criticised Trump's "Economic D-Day" announcement, saying it diverted attention from US economic issues.
+
+"The so-called 'Economic D-Day' is a diversion from America's own crisis: unprecedented debt and surging interest costs," Araghchi said in a post on X.
+
+"Doubling down on failed policies will only bring further defeat -- and enmity of Iranians. US economic terrorism threatens global economy and sovereignty worldwide," he added.
+
+Iranian Parliament Speaker Mohammad Bagher Ghalibaf had earlier said Tehran would not reopen the Strait of Hormuz until the United States fulfilled commitments under a 14-point Memorandum of Understanding, including lifting the blockade, releasing frozen Iranian assets and easing oil sanctions.
+
+---
+
+### India’s 1st FYUP batch walking into a vacuum, risks wasting a year to complete master’s
+*Kritika Sharma · regional*
+
+The bigger idea of the fourth undergraduate year being a direct route to a PhD programme is yet to take root.
+
+NEW DELHI: At the Jantar Mantar protest in July, closely competing with anger on paper leaks was frustration about the four-year undergraduate programme (FYUP).The country’s first and predominantly Delhi University batch to graduate this year under the National Education Policy (NEP)-mandated bachelor’s programme has enough reasons to feel let down.
+
+PG seat mismatch
+
+Shakshi Rao, for instance, couldn’t have hoped for a better start to college life after getting through to St Stephen’s College. Four years on, she risks leaving college with a regret and a setback. The regret, she says, is opting for the full four-year programme. The likely setback is wasting an academic year. That’s because the graduating batch is virtually walking into a vacuum.
+
+Future hangs in balance
+
+NEP’s four-year graduation is supposed to be followed by a one-year master’s.
+
+But this year, seats collectively available in Delhi’s universities won’t even accommodate 10% of just DU’s 30,000-odd FYUP graduates (all courses).The bigger idea of the fourth undergraduate year being a direct route to a PhD programme is yet to take root. Some institutions like IISc are doing it basis an entrance test and interview, but it’s still the nascent stage. So, most FYUP students face a stark choice — don’t do a master’s at all or waste a year and enrol for the regular two-year course.
+
+DU’s one-year master’s courses across 24 programmes have 2,565 seats (of which, 988 are in general category). Since these are reserved exclusively for DU graduates, the vacuum is worse for students from other universities.‘We were told fourth year will provide us research degree on a par with PhD scholars’Jawaharlal Nehru University (JNU), the natural choice for top-rankers not just from DU but universities across India, has started a one-year master’s programme in just four courses that cumulatively have 71 seats.Ambedkar University has around 30 one-year master’s seats each in seven courses. Even for DU’s own students, the possibility of securing a general category seat is very low, particularly in high-demand subjects such as political science, history, English, economics, Hindi and philosophy.For all her academic accomplishments, Shakshi — who majored in political science and had economics as a minor — now feels an “uncertainty about my future”.
+
+The fourth year of FYUP, she says, was marked by “confusion” and an attenuation of interest. Graduation brought home the realisation that opting for the fourth year was a mistake. “I’ve applied for the two-year political science master’s as well because there’s no guarantee I’ll get the one-year.
+
+These are crucial years. I’ll basically spend an extra year to complete my five-year degree,” she said.Akriti, who graduated in political science from Maharaja Agrasen College, described her fourth-year research dissertation on transgender issues in Delhi University as “half baked”, one that lacked both in direction and guidance.
+
+“Our teachers told us the fourth year will give us a research degree and we will be on a par with PhD scholars but nothing of the sort happened. Many students used ChatGPT to write their dissertations,” she added.Vidhi, a graduate from Ambedkar University, said she has applied for eight different one-year master’s degrees in clinical psychology, including at colleges in Jaipur and Lucknow. “We keep being referred to as the ‘experimental batch’,” she said.
+
+“I thought that I would get an advantage because of the four-year programme, but colleges are selecting students who have already done a master’s in psychology for the clinical psychology programme,” she said.Samuel, who graduated from a DU college, was for-ced to return home and enrol for a two-year master’s at a university in Tripura. “I am wasting a year. People start their PhD in six years, but I will only be done with my master’s,” he said.Since the 2023 academic session, around 105 universities, including 19 central universities, have adopted it. More one-year master’s programmes will open up in the next two-three but getting admission into one is likely to remain a struggle because the number of FYUP graduates will also rise. Jamia Millia Islamia in Delhi, for example, will see its first FYUP batch of 1,500 students graduate next year. The university will start a one-year master’s next session but has not yet disclosed the number of seats in the course.DU professor Abha Dev Habib said the university should have announced the total number of seats in one-year master’s programmes well in advance so that students could make an informed decision on whether to go for the full FYUP or exit at the third year. “Had students known in their third year about the number of seats in the one-year programmes, they would have probably dropped out after that year,” she said.Habib said the way in which the one-year master’s programme is being offered is questionable.
+
+“It should be an independent programme. But currently, they will sit with the second-year batch of (two-year) master’s students. It just feels like the education system is not letting students grow properly,” she said.A retired DU professor expressed disappointment with the way FYUP has been implemented so far in India. He said students shouldn’t need a master’s after four years of graduation. “I don’t think people have any idea how the policy should be implemented.
+
+The whole point of a four-year degree is that a student should be so well equipped that they are ready to get into research right after graduation. It should only be a small cohort of students who are serious about research who should get into the four-year programme.
+
+But from what I see, students seem directionless,” he said.He said as an idea, FYUP is a great academic reform but the way it’s being implemented is like tokenism.
+
+“NEP says connect the curriculum through the real world… The universities should bring in new activities for students and change the methodology of teaching but nothing like that is happening,” he added.Defending DU’s one-year master’s intake, registrar Vikas Gupta said it is proportional to the regular postgraduate intake the university has each year. “For about 1 lakh graduating students, we have 13,000 seats in two-year master’s, so we are accordingly offering seats in one-year master’s,” he said.
+
+According to DU’s controller of exams, 30,000 students graduated in the first batch of FYUP this year.Gupta said apart from this, nearly 2,000 seats have been added in School of Open Learning to cater to those who miss out on regular seats. “This is the first year of any university offering a one-year master’s. Naturally, there will be a few hiccups. From next year, we will know exactly how to go about it,” added Gupta.An official from Ambedkar University said that it’s a learning curve for them as well and the university had done whatever it could. “We have seen huge interest in our one-year programme. Seats are currently at overcapacity,” the official said.
+
+---
+
+### UN Security Council tests contenders in race for next secretary-general
+*SECTIONS UN Security Council tests contenders · business*
+
+United Nations: The UN's most powerful body, the Security Council, meets Friday to hold another straw poll to gauge the popularity of a growing field of contenders to lead the embattled organization.
+
+Costa Rica's Rebeca Grynspan was the front-runner after last month's first informal vote, in which the council's 15 members, including the five with veto power, pass judgment in secret on the candidates.
+
+  
+
+Argentina's Rafael Grossi -- the current head of the UN nuclear watchdog -- is also a candidate along with Chile's Michelle Bachelet, Ecuador's Maria Fernanda Espinosa, Guyana's Carolyn Rodrigues-Birkett, Uganda's Olara Otunnu and Senegal's Macky Sall.
+
+After the first round concluded, Ecuador's Ivonne A-Baki threw her hat into the race to succeed Antonio Guterres, who will complete his second five-year term on December 31, 2026.
+
+"While the first straw poll set the scene for the Secretary-General race, the second may give us some direction about where it is headed," said the International Crisis Group's Daniel Forti.
+
+"Diplomats expect fluctuations in the vote distribution compared to the July poll. Most will be watching to see whether the early front-runners consolidate their support or slip in the standings.
+
+"It is unlikely that any candidate will emerge from (Friday's) poll with a decisive lead."
+
+Forti said the veto-wielding nations -- Britain, China, France, Russia and the United States -- might wait until later to express their preferences, while new contenders could emerge.
+
+Russia's ambassador to the UN, Vassily Nebenzia, said Thursday he could not rule out that possibility.
+
+"If, for example -- I'm speculating now -- if there is a deadlock on any of the candidates we are seeing today, if nobody... flies, then I think that we may see other candidates as well," Nebenzia said.
+
+## **\- 'End of the road'? -**
+
+Even if a candidate earns the required nine votes from the 15 available in the Security Council, they must also avoid a veto by the five major powers, which are deeply divided.
+
+Once a candidate clears those bars, their name will go to the General Assembly of all UN members for confirmation.
+
+The Security Council straw poll was devised in the early 1980s in an attempt to break a deadlock between two candidates shut down by vetoes.
+
+The informal mechanism has persisted, in various forms, despite criticism from countries opposed to the opaque process.
+
+"There is a good chance that some nominees realize after (Friday's) vote that their campaigns have reached the end of the road," Forti added.
+
+Each member state must anonymously assign each candidate one of three labels: "encourage," "discourage," or "no opinion."
+
+That would give those with no support the opportunity to withdraw -- though they are not obliged.
+
+In the first rounds of the process expected to take several weeks, all ballots are the same color.
+
+But after an unspecified number of votes, the ballots of the five permanent members will become a different color from those of the elected members, making it possible to identify potential vetoes, without knowing which country blackballed any given candidate.
+
+It is tradition that the UN's top job should rotate between different regions.
+
+Under that premise, the role should go to a candidate from Latin America this time. There are many candidates from the region, though Sall and Otunnu hail from Africa.
+
+---
+
+### When an Indian sword became a metaphor for Prophet Muhammad
+*Aabhas Maldahiyar · general*
+
+## Centuries before critical minerals became the language of power, Indian craftsmen mastered a material that kings, merchants and warriors thousands of kilometres away sought. Indian steel travelled across ancient trade routes into Arabia and also its poetry. This is why an Arabian poet invoked the famed Indian sword as a metaphor to praise Prophet Muhammad.
+
+_"Inna'r Rasula lasaifun yustadaau bihi, Muhannadun min Suyufillahi maslulu."_
+
+These words, according to Islamic tradition, belong to 7th century Arabian poet Ka'b bin Zuhair in his celebrated Bnat Su'd, a 58-verse Lmiyyah composed after his conversion to Islam. It meant, "Indeed, the Messenger is a sword by which illumination is sought, an Indian sword, drawn forth from the swords of God."
+
+Zuhair compared Prophet Muhammad to Muhannad — an Indian sword. Tradition holds that, moved by the poem, the Prophet placed his cloak over Zuhair's shoulders. One may wonder: why, among the many images available to a poet praising the Prophet, invoke an Indian sword? And what did "Indian" signify when it became a mark of a blade of exceptional quality?
+
+The question is not merely literary. It opens a much larger story about technology, trade and power.
+
+Perhaps the clue lies in **something PM Narendra Modi said from the Red Fort** this Independence Day. He asked India to think about something that rarely stirs the imagination: critical minerals. Beneath that dry vocabulary lies one of the oldest truths of power: nations that control the materials needed to build the future possess an extraordinary strategic advantage.
+
+Listening to Modi, history enthusiasts cannot help but wonder: has India lived this story before? The answer lies not in some distant technological future, but in a forgotten chapter of India's own past — when mastery over a critical material could shape the fortunes of civilisations.
+
+Now return to those opening verses. Beneath the poetic imagery of Ka'b bin Zuhair lies a striking historical clue: long before critical minerals became the language of modern geopolitics, iron was already a strategic resource.
+
+The civilisation that could wrest iron from the earth, command the furnace and turn metal into steel possessed far more than a material. It possessed technology, and technology has always been a currency of power.
+
+Bharat understood this thousands of years ago.
+
+The story of Indian steel does not begin in Jamshedpur or with 20th-century industry. It begins beside clay furnaces, tended by craftsmen whose names are lost to history, even as their knowledge travelled far beyond India's shores.
+
+Archaeological sites across the Middle Ganga Valley, including Malhar, Dadupur and Raja Nala-ka-tila, reveal an early tradition of ironworking. Some evidence has been dated to the second millennium BCE, though the chronology remains debated. By the first millennium BCE, iron was everywhere: knives, arrowheads, axes, chisels, tongs, agricultural implements and weapons.
+
+Iron was no longer a curiosity. It was transforming everyday life.
+
+But making iron was one achievement. Making exceptional steel was another.
+
+Indian craftsmen learnt to control ore, charcoal, heat and air with remarkable precision. A small error could mean a blade that shattered; mastery produced one worth carrying across continents.
+
+Then, in southern India, metallurgy took an extraordinary leap.
+
+### THE STEEL CALLED WOOTZ
+
+The men who made it did not call it wootz. In southern India, it was simply _ukku_ — steel. Arab merchants knew it as _Hinduwani_; Persian writers called it _pulad_ (_faulad_). The word wootz came much later, probably from a British rendering of _ukku_, entering scientific vocabulary in the 18th century after George Pearson of the Royal Society examined Indian samples sent by Scottish doctor-author Helenus Scott.
+
+By then, Indian steel had already travelled across Asia for centuries.
+
+Wootz was crucible steel: iron and carbon-rich material were sealed inside a crucible and heated until carbon entered the metal, producing a high-carbon steel unlike ordinary wrought iron.
+
+Its exact beginnings remain debated. But India undoubtedly became a major centre of crucible-steel production, **particularly in the peninsula**, centuries before the Common Era.
+
+The smiths knew nothing of carbon percentages, cementite or metallography. They had no instruments to measure furnace temperatures. Yet generations of observation had taught them what no textbook could: which ore, how much charcoal, what heat and when to strike.
+
+Modern metallography later revealed the secret behind wootz's famed patterns: networks of cementite within the steel.
+
+Production flourished across peninsular India. The area that is now Telangana, Karnataka and Tamil Nadu **became important centres**. At Konasamudram (now in Telangana), archaeologists found 60 crucible-steel ingots; a reminder that this was no isolated village craft, but an industry.
+
+### THE INDIAN STYLE THAT TRAVELLED ABROAD
+
+This Indian metal was already moving through the great commercial arteries of the ancient world, travelling with merchants, envoys and armies.
+
+Roman historian Quintus Curtius Rufus, in Historiae Alexandri Magni, Book IX, 8.1, records Indian envoys bringing Alexander 100 talents of "bright iron" — _ferri candidi_ — along with Indian shields, chariots, cavalry and exotic animals. Whatever the precise nature of this metal, the scale of the gift is striking. Indian iron was not a curiosity to be admired and forgotten. It was valuable enough to be carried into a royal diplomatic exchange.
+
+Then comes Roman author-naturalist Pliny the Elder. In Natural History, Book XXXIV, he writes, "But of all the different kinds of iron, the palm of excellence is awarded to that which is made by the Seres, who send it to us with their tissues and skins; next to which is the Parthian iron."
+
+The identity of the Seres is connected with the Chera of southern India.
+
+More explicit is the Periplus of the Erythraean Sea, a first-century CE account of Indian Ocean commerce, which records Indian steel among the goods moving through the trade linking India with the Red Sea and West Asia.
+
+Indian steel would leave its homeland as metal and travel thousands of kilometres before becoming a weapon in a distant kingdom.
+
+Eventually, Indian crucible steel — wootz — became closely associated with the legendary blades known in the West as Damascus steel. The terms, however, should not be confused: pattern-welding was a different technology, and not every Damascus blade was made from Indian steel.
+
+Yet the larger truth survives the technical distinctions: India did not have to forge every famous Damascus blade for Indian steel to shape their legend. It only had to produce a metal worth carrying across continents.
+
+### THE SWORD THAT CARRIED INDIA'S REPUTATION
+
+There was a time when the quality of a sword could tell you where the finest steel was being made. Indian steel had earned precisely that reputation. Long before modern branding, "Indian" itself could serve as a mark of quality.
+
+The pre-Islamic Arabian poet Zuhayr ibn Abi Sulma wrote of the Saif Hindi, the Indian sword, "The Hindi sword will not let you down, even if fighting an armed battalion."
+
+Tarafa ibn al-Abd, one of the seven poets of the Mu'allaqat, likewise invoked the Muhannad, the Indian sword.
+
+"A wound inflicted by someone close to us is way deeper and hurtful than one sustained through Muhannad \[Indian sword\]," he said.
+
+These fragments of an older literary memory clearly tell us that Hind (India) had already become associated with the finest weapons.
+
+Ibn Hisham records another intriguing tradition. When the Jurhum fled Mecca after their defeat by Khuza'a, they are said to have buried treasures in the Zamzam well. When Abd al-Muttalib later rediscovered it, the objects recovered reportedly included swords and armour, among them Qala'i swords; a term associated with Indian swords.
+
+Later tradition even connected Jabal Hindi in Mecca with Indian swords.
+
+Whether every detail of these traditions can be independently established is another matter. What matters is the persistence of the association: Hind and the superior sword had become intertwined in the Arabic imagination.
+
+Then return to the opening verse of this story, and have a relook at what those metaphors reveal. The Indian sword (steel) carried an idea of sharpness, strength and reliability. Indian steel had travelled far enough to enter the language of poetry, warfare and prestige.
+
+Centuries later, the 12th-century geographer Muhammad al-Idrisi offered an even more explicit testimony in his Nuzhat al-Mushtaq. Describing Indian iron and sword-making, he praised the skill of Indian craftsmen in smelting and treating iron.
+
+"There are no sharper and better-slashing iron than that of India, and there is no doubt about it," Muhammad al-Idrisi wrote.
+
+By then, Indian steel had earned something more enduring than a reputation: a place in the technological memory of the world.
+
+### THE PILLAR THAT SURVIVED THE EMPIRES
+
+India's metallurgical story was not confined to weapons.
+
+In Delhi stands an iron pillar more than 1,600 years old. It has survived monsoon, heat, dust and centuries of exposure with remarkably little corrosion above ground.
+
+The pillar is made of forge-welded wrought iron, and scientists have studied its unusual resistance for decades. Its composition and the formation of a protective phosphate-rich corrosion layer are important parts of the explanation.
+
+It would be wrong to call it "rust-proof". It is not. Its buried portion has suffered corrosion. But that qualification only makes the surviving achievement more impressive. The pillar tells us something a written boast never could. Indian ironworkers of the Gupta age had mastered the production, forging and joining of enormous quantities of iron with a degree of control that continues to interest modern corrosion scientists.
+
+The empire that erected it disappeared, but the pillar has remained.
+
+### EUROPE DISCOVERS INDIAN STEEL
+
+Centuries later, Indian steelmakers encountered a radically changing world.
+
+European travellers began recording steel production in southern India. By the late eighteenth century, European scientists were examining Indian wootz, fascinated by a high-carbon steel whose properties seemed almost impossible to reproduce. Samples travelled to Britain, where metallurgists and circles associated with the Royal Society examined them.
+
+For Europe, entering the age of modern science, Indian steel posed a tantalising question:
+
+How did Indian craftsmen achieve this?
+
+The irony is hard to miss. European scientists were beginning to explain through chemistry and microscopy what Indian craftsmen had perfected through generations of observation, experiment and inherited knowledge. Their furnaces were modest. Their understanding was not.
+
+The Industrial Revolution would eventually transform steel making to a scale the old crucible furnaces could never match. Yet Indian steel had already travelled much farther than the furnaces that produced it. It moved along ancient trade routes, entered Arab poetry, found a place in Persian vocabulary, shaped West Asian sword-making and ultimately reached European laboratories.
+
+And suddenly, **PM Modi's words from the Red Fort** acquire a different resonance.
+
+He was speaking about the future, not history. Yet the future he described carries an unmistakably old Indian echo.
+
+Critical minerals. Secure supply chains. Control over the materials that will power the next age.
+
+The names have changed. The contest has not.
+
+Yesterday, it was iron. Today, it is lithium, cobalt and rare earths. Tomorrow, it will be whatever material becomes indispensable to the technology of its age.
+
+India once understood this instinctively. Its craftsmen took something buried beneath the earth and transformed it into a material sought by kings, merchants and warriors thousands of kilometres away. Indian steel did not conquer the world with armies. It travelled because the world wanted it.
+
+That is the real lesson.
+
+A mineral buried in the ground is only a resource. Knowledge turns it into technology. Technology turns it into an advantage. And an advantage, at scale, becomes power.
+
+The ancient Indian smith understood the first part of that equation long before modern science gave it a name.
+
+He took ore, mastered fire and made steel. Then he sent something forged in an Indian furnace across the world.
+
+The world once came looking for Indian steel.
+
+Modi's call from the Red Fort is, in many ways, a call to ensure that when the world comes looking for the critical materials and technologies of the next century, India is ready to forge what the future cannot do without.
+
+**(Aabhas Maldahiyar is the author of Babur: The Quest for Hindustan.)**
+
+\- Ends
+
+Sushim Mukul
+
+Aug 21, 2026 07:00 IST
+
+---
+
+### Nancy Kissinger, widow of ex US Secretary of State Henry Kissinger, dies at 92 in Connecticut
+*Rana Sarkar · business*
+
+Nancy Kissinger, the wife of former US Secretary of State Henry Kissinger, died Thursday, August 20, at her home in South Kent, Connecticut, at the age of 92, according to an announcement from her family.
+
+The death of Nancy Kissinger, who was married to the late diplomat for more than four decades, was first reported by The New York Times.
+
+Born Nancy Sharon Maginnes in Manhattan in 1934, she married Henry Kissinger in 1974 and became a familiar presence alongside him during his high-profile diplomatic career. Although she never officially held a diplomatic position, she frequently accompanied her husband on international missions, including trips to Russia, the Middle East and other parts of the world.
+
+  
+
+“To the men and women who know her well,” The New York Times quoted one friend as saying after the wedding, “Mrs. Kissinger is an intelligent, capable and warm woman, with a great deal of charm, a good sense of humor and an iron sense of integrity.”
+
+Nancy and Henry Kissinger did not have children together. Henry Kissinger, who served as Secretary of State under Presidents Richard Nixon and Gerald Ford, died in November 2023 at the age of 100.
+
+Nancy Kissinger is survived by her two stepchildren, Elizabeth Vandermark and David Kissinger, as well as five step-grandchildren.
+
+Her brother Bristol died in the early 1980s, while her brother David died in 2020.
+
+---
+
+### Piyush Goyal pitches Singapore as springboard for India’s agri-food exports
+*SECTIONS Piyush Goyal pitches Singapore as springboard · business*
+
+Singapore, August 21 (ANI): Union Commerce and Industry Minister Piyush Goyal on Thursday said new avenues are being created for Indian farmers and processed food manufacturers to expand their presence in Singapore and markets across ASEAN and Australia through an APEDA-FairPrice roadshow-cum-instore promotion.
+
+Goyal, in a post on X, said he was "Pleased to join Ms. Gan Siow Huang, Minister of State for Foreign Affairs and Trade & Industry, Singapore, and other dignitaries at the APEDA-FairPrice roadshow-cum-instore promotion being organised for expansion of exports of diverse range of India's agricultural & processed food products."
+
+  
+
+"Organic products, fresh fruits & vegetables, frozen fruits & vegetables, dairy products, cashew, rice, millet-based products, and products sourced from different regions of India are being promoted through this engagement," Goyal said.
+
+He added that the initiative was creating new opportunities for Indian farmers and processed food manufacturers to increase their presence in the Singapore market and subsequently expand into the wider ASEAN region and Australian market.
+
+"New avenues are being created for Indian farmers and processed food manufacturers to expand presence in the Singapore market and further to the whole ASEAN region and Australian market," the post read.
+
+The initiative comes as an Indian ministerial delegation visited Singapore for the fourth India-Singapore Ministerial Roundtable (ISMR) and the fourth India-Singapore Business Roundtable (ISBR), aimed at further strengthening bilateral trade, investment and economic cooperation.
+
+The Indian delegation was led by Finance Minister Nirmala Sitharaman and included Goyal, External Affairs Minister S Jaishankar, Union Minister for Electronics and Information Technology Ashwini Vaishnaw, and Minister of State for Commerce and Industry and Electronics and Information Technology Jitin Prasada.
+
+Around 70 senior Indian business leaders from sectors including technology, software and artificial intelligence, manufacturing and engineering, infrastructure and sustainability, financial services and fintech, healthcare and life sciences, food and agriculture, logistics, maritime and trade, and professional services accompanied the delegation.
+
+The fourth ISMR, held on August 20, reviewed progress since the third roundtable in New Delhi in August 2025 and explored new avenues to accelerate implementation of the India-Singapore Comprehensive Strategic Partnership Roadmap.
+
+The ISMR is the apex ministerial mechanism for advancing the Comprehensive Strategic Partnership between the two countries.
+
+External Affairs Minister S Jaishankar also met Singapore Prime Minister and Finance Minister Lawrence Wong along with Sitharaman, Goyal and Jitin Prasada.
+
+In a post on X, Jaishankar said, "A real pleasure to call on PM @LawrenceWongST of Singapore, along with Ministers @nsitharaman, @PiyushGoyal, and @JitinPrasada."
+
+"Discussed the progress across various dimensions of India-Singapore relations. Value his thoughts on taking the partnership forward," he added.
+
+Wong also described the interaction as a "pleasure" ahead of the fourth ISMR.
+
+"It was a pleasure to catch up with India's Finance Minister Nirmala Sitharaman, External Affairs Minister Dr S Jaishankar, Commerce and Industry Minister Piyush Goyal, & Minister of State Jitin Prasada, ahead of the 4th India-Singapore Ministerial Roundtable (ISMR) in Singapore," Wong said in a post on X.
+
+The two sides discussed progress in implementing the roadmap for the Comprehensive Strategic Partnership and ways to strengthen cooperation in economic ties, digitalisation, connectivity, skills development and sustainability.
+
+The business delegation's programme includes B2B, G2B and institutional engagements focused on strengthening partnerships, promoting investment and market access, enhancing technology collaboration and developing talent.
+
+The ministers also engaged with Singaporean counterparts and senior leaders, besides interacting with Centres of Excellence and visiting skilling institutions.
+
+During the visit, the ministers held government-to-business engagements with representatives of the Global Finance & Technology Network, YPO Global, Milken Institute, Keppel Infrastructure, Temasek Holdings and IHH Healthcare, among others, followed by a Family Office Roundtable.
+
+The APEDA-FairPrice initiative at City Square Mall is aimed at promoting Indian agri-food exports and strengthening the presence of Indian products in Singapore's retail market.
+
+Singapore was India's largest source of foreign direct investment in FY2025-26, with FDI inflows of USD 19.8 billion. Cumulative FDI from Singapore stood at USD 194.68 billion between April 2000 and March 2026, according to the Commerce Ministry.
+
+Bilateral trade between India and Singapore has also grown significantly, rising from USD 6.7 billion in FY2004-05 to USD 36.1 billion in FY2025-26, the ministry said.
+
+---
+
+### Tony releases today: Recalling Anthony Bourdain’s impact on how we watched food and travel
+*Anagha Jayakumar · legal*
+
+Tony releases on August 21, starring Dominic Sessa as Anthony Bourdain and Antonio Banderas. We examine how Bourdain changed food and travel writing, from Kitchen Confidential to Parts Unknown.
+
+[Read full article](https://indianexpress.com/article/explained/explained-culture/tony-release-anthony-bourdain-biopic-kitchen-confidential-10841693/)
+
+---
+
+### 'Let's understand them': Ex-Army Chief Gen Naravane's message on Gen Z in Pune
+*ET Online · business*
+
+'Let's understand them': Ex-Army Chief Gen Naravane on Gen Z in Pune 'They want country's betterment'
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/lets-understand-them-ex-army-chief-gen-naravanes-message-on-gen-z-in-pune/videoshow/133390603.cms)
+
+---
+
+### Can Augmont Enterprises IPO deliver long-term growth for high-risk investors?
+*SECTIONS Can Augmont Enterprises IPO deliver long-term growth · economy*
+
+ET Intelligence Group: Augmont Enterprises, an integrated gold and silver platform, plans to raise ₹620 crore through a fresh issue to fund working capital requirements. It will also raise ₹205 crore through an offer for sale. The promoter group's stake will fall to 81.9% after the IPO from 92.7%. Its business is operated through the Augmont SPOT platform for enterprise and international sales and Augmont gold for all consumer-focused offerings, supported by online and offline distribution channels. Over 90% of the revenue comes from Augmont SPOT platform, reflecting revenue concentration. More than 63% of the revenue comes from Maharashtra. Despite strong reported profits, Augmont had operating cash flow deficit of ₹42 crore in FY26, highlighting the sensitivity of the business to working-capital movements. However, the company has strong growth in financials. Given these factors, investors with high-risk appetite may consider the IPO.
+
+ET Bureau
+
+The Fine Print Profits mask the operating cash deficit at the integrated gold & silver platform, showing sensitivity to working-capital swings
+
+## **Business**
+
+Incorporated in 2012, Augmont Enterprises undertakes gold and silver procurement and refining, bullion trading, digital gold and silver, jewellery manufacturing, international sales and gold-backed financial services. It also offers digital gold and silver, gold SIPs, gold FDs, gold loans and gold recycling. It operates two refineries with a combined capacity of 284 tonnes annually. The company manufactures products at its unit located in Sitapur SEZ, Rajasthan, with an installed capacity of 13.8 MTPA as of March 2026 and sells them in international markets.
+
+  
+
+## **Financials**
+
+Revenue from operations jumped 64.2% annually to ₹94,186.2 crore and net profit grew 114.1% annually to ₹348.3 crore between FY24 and FY26. Operating profit before interest, tax, depreciation and amortization (EBITDA) increased 92.7% to ₹386 crore during the period. On a year-on-year basis, revenue jumped 169.7%, EBITDA surged 271.4% while net profit soared 358.5% in FY26. The company's EBITDA margin remains low at under 1% as its high-volume, low-spread bullion business leaves limited room after operating expenses. The large value of gold and silver transacted also inflates the revenue base, keeping reported margins thin. The company faced a cash deficit from operations of ₹42 crore in FY26 as against positive cash flow of ₹105 crore in FY25 and ₹96.7 crore in FY24. This was due to an increase in trade receivables, a decrease in other current financial liability and an increase in taxes paid.
+
+  
+
+  
+
+## **Valuation**
+
+The company does not have any listed comparable peers in India. Considering the post-IPO equity and net profit for FY26, it demands a price-earnings (P/E) multiple of 21 and price to sales multiple of 0.1.
+
+---
+
+### Two feared dead after soil collapses at under-construction hospital in Punjab's Mohali
+*SECTIONS Two feared dead after soil collapses · business*
+
+Mohali: Rescue operations were underway after soil collapsed at an under-construction private hospital building in Mohali on Thursday evening, with authorities working to ascertain the exact number of casualties.
+
+Speaking to reporters, Deputy Superintendent of Police (DSP) Harsimran Singh Bal said police teams, with the help of members of the public, were carrying out rescue operations and shifting those rescued to the hospital.
+
+  
+
+"As far as casualties are concerned, we are currently carrying out the rescue operation. With the cooperation of the public, the police have sent the injured labourers to the hospital. All those who were injured have been sent to the hospital," Bal said.
+
+The DSP said it was too early to confirm the exact number of casualties and that further information would be shared after receiving an update from doctors.
+
+"As per initial information, two people have been rescued and sent to the hospital. It is too early to tell. We will form a proper SIT. The SSP will form the SIT, and then a proper investigation will be conducted," the DSP said.
+
+According to a construction worker, four labourers were working at the site when soil fell from above and buried them. Two of them were injured and shifted to hospital, while the other two died.
+
+"Four people used to work here. Soil fell from above. Four people were buried. Two of them were injured and have been sent to the hospital. The remaining two have died. Everyone has been rescued. A hospital was being built. This incident happened around 7 pm," the worker said.
+
+Another construction worker claimed that his grandfather was among those killed in the incident. "My grandfather was working here when soil fell from the top. He died on the spot. His body was recovered by an earthmover," he said.
+
+Harvinder Singh, Municipal Councillor from Ward No. 22, alleged that proper requirements had not been followed during the construction of the Medicity private hospital.
+
+"The Medicity private hospital is being constructed. They haven't fulfilled any obligations; nothing has been done properly here. Two labourers died, and one has been hospitalised. We have informed the entire administration. Officials from the local police station came here. Everyone has been rescued now," he said.
+
+The police said a Special Investigation Team (SIT) would be constituted and a detailed investigation would be conducted into the incident.
+
+Further investigation is underway.
+
+---
+
+### Delhi-NCR Sees Rise In Swine Flu, Other Respiratory Infections Amid Monsoon
+*Yimkumla Longkumer · general*
+
+Experts said monsoon conditions often lead to a rise in seasonal infections and urged people, particularly those at higher risk, to take precautions.
+
+[Read full article](https://www.news18.com/india/delhi-ncr-sees-rise-in-swine-flu-other-respiratory-infections-amid-monsoon-ws-l-10285196.html)
+
+---
+
+### Canada, US ‘very close’ to trade deal as tariff deadline looms
+*SECTIONS Canada · business*
+
+Ottawa/Washington: Canada and the United States are "very close" to agreeing a trade deal ​that could help reduce months of tariffs ​and counter duties but more work remains to be done, a top Canadian official said ​on Thursday.
+
+Dominic LeBlanc, the minister responsible for trade with the U.S., was speaking after he met U.S. Trade Representative Jamieson Greer in Washington.
+
+  
+
+The two sides are trying to meet a deadline set by U.S. President Donald Trump, who says he will impose a new 50% tariff ‌on about $20 billion ⁠worth of ⁠Canadian goods at 12:01 a.m. EDT (0401 GMT) on Saturday.
+
+A deal could mark a detente in what has been nearly two years of tense relations ​between two long-time allies and major trading partners, and allow broader negotiations on renewing the U.S.-Mexico-Canada trade agreement to move forward.
+
+"We're very ​close. We continue to make progress and we're going to stay here and do the work that's necessary," LeBlanc told reporters.
+
+LeBlanc and Canada's chief trade negotiator, Janice Charette, met Greer for more than three hours. Stepping out of the USTR's ​office, LeBlanc said Charette would continue the talks.
+
+The proposed deal is expected to ⁠cut the ‌top-line tariff on Canadian-built vehicles to 15% from 25% and halve tariffs on Canadian steel ​and aluminum to ​25%, sources said.
+
+The White House and USTR have been contacted for comment.
+
+A key question remaining ⁠is around implementation and whether all USMCA or Canadian content will be counted ​against tariffs or if the U.S. will be able to change the rules.
+
+Another ​issue is whether the U.S. will approve Canadian content per vehicle or if it will simply be counted more broadly. The two sides are also discussing whether the U.S. will reduce the current cap on parts that can be exempted from the top line tariff rate.
+
+The talks in Washington are aimed at getting more concrete details on the implementation of the rate and how the content will be calculated, one of the sources said.
+
+Trump had initially set the tariffs to ‌take effect on Wednesday before giving the two sides a three-day extension to complete negotiations and expressing hope that a deal was likely.
+
+Unlike many of Trump's earlier tariffs, the new duties would ​apply even to ​products that qualify for preferential treatment ⁠under the U.S.-Mexico-Canada Agreement, which has shielded much of Canadian trade from tariffs, posing an added risk to Canada's economy.
+
+Trump said on Wednesday that Washington would make some tariff concessions and suggested that an agreement would also remove Canadian ​tariffs on U.S. goods.
+
+Several leaders of Canada's 10 provinces said Carney had urged them to end restrictions on the sale of U.S. alcohol, a particular irritant for Washington, if Canada reaches a deal with the United States. Most provinces stopped distributing U.S. alcohol products in response to tariffs Trump imposed on goods from Canada last year, and many Canadians have pledged not to buy U.S. alcohol even if it returns to store shelves.
+
+
+---
+
 ## 20 August 2026
 
 ### CBI insignia, fake IDs, WhatsApp notice: How Delhi bizman’s wife foiled ‘Special 26’-style raid
