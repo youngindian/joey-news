@@ -1,8 +1,214 @@
 # Editorials
 
-_Last updated: 2026-08-20 02:39 UTC_
+_Last updated: 2026-08-21 02:46 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 21 August 2026
+
+### Socialist surge: On the rise of democratic socialism in the U.S.
+*The Hindu · Editorial*
+
+As the Trump administration persists with its blunderbuss reshaping of American foreign policy — a marriage of hyperimperialism, with wars in West Asia, a de facto capture of power in Venezuela and the strangling of Cuba’s fuel trade, and isolationism, seen in withdrawals from multilateral institutions and tariffs imposed on a whim — the world has been waiting for a political alternative to Trumpism to take shape. After 2024, when a vapid Democratic Party displayed little ideological gumption on foreign policy, welfare or taking on the plutocrats reshaping American democracy, the prospects looked slim. Then, in November 2025, Zohran Mamdani won New York City on a platform of decommodification — placing citizens’ needs above market shibboleths — while openly calling Israel’s war on Gaza a genocide. His victory did more than capture New York’s imagination. It set off an insurgency by democratic socialists within Democratic Party ranks. In Michigan’s August 4 primary, Abdul El-Sayed, a progressive backed by Independent Senator Bernie Sanders, won the Democratic nomination for the Senate despite pro-Israel groups spending heavily against him. Angie Nixon, a three-term State legislator who joined the Democratic Socialists of America in June, has won Florida’s Democratic Senate nomination, having spent merely $60,000 on advertising as opposed to her moderate opponent’s $2.2 million. Such results matter in a country where socialism has been used to evoke the Red Scare, even decades after the Cold War.
+
+Mr. Sanders, whose unabashed democratic socialism is closer to European social democracy than to state ownership of the means of production, ran two presidential campaigns that prepared this ground while the likes of Alexandria Ocasio-Cortez and others showed its electoral viability in Democratic strongholds in House elections. In 2026, a new generation of democratic socialists has sharpened its methods and its reach. The focus on affordability in childcare, rent freeze, Medicare for All and taxing the rich while breaking with the Democratic Party’s foreign policy consensus, including on funding Israel’s military, has carried them beyond strongholds such as New York. The new cohort has not only won primaries but also registered a shift in the political outlook of many Americans. But caution is warranted. Taking on the Republican machine in November will be a far tougher task, especially if the Democratic establishment does not rally around its insurgents against Trumpism. Yet, supporters point to a deeply unpopular Mr. Trump, and a welfare-first message that could cut across the U.S.’s culture wars the Republicans will keep stoking. For the Global South, including Indians, the rise of democratic socialism as a viable force in the U.S. will be welcome, as its emphasis rests on fair trade and multilateral engagement, besides an end to Washington’s forever wars.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/socialist-surge/article71369197.ece)
+
+---
+
+### Trial by fire: On fire accidents in West Bengal
+*The Hindu · Editorial*
+
+What is it with West Bengal and fires? Since 2025, there have been major fires, in hotels and in godowns, claiming some 65 lives, many of them poor and migrant workers and pilgrims. The State seems to be an egregious case of the generally poor fire safety record of Indian factories, industrial facilities as well as cities and towns built on top of greed, a disregard for laws, corruption, and scant respect for lives and property. The Shikha Inn was housed in a century-old building on Mirza Ghalib Street in Kolkata, which apparently had several hotels — on each of its five floors. It was obviously not built to be a hotel. Shikha Inn is typical of what happens in India, where old buildings with electrical systems designed for a certain load are quickly repurposed, and modern equipment is added without any consideration of whether the system can handle the air-conditioners, washing machines, heaters and induction stoves. The August 17 fire in Tarapith was apparently electrical too and the killer was the smoke. The fire spread rapidly because the pilgrim hotel used flammable materials extensively. Rituraj Hotel, which caught fire in April 2025, had also been repurposed. With just one stairway, the fire on the first floor cut off escape, and, just as in the Mirza Ghalib Street fire, smoke trapped those above.
+
+For the new BJP government in West Bengal, the accidents have provided more fodder for its attacks on the TMC. Though Chief Minister Suvendu Adhikari called the Kolkata fire “impossible to ignore”, he nevertheless blamed a “legacy of negligence”. This may well be true but serves little purpose. The present government has, similar to its predecessor, a dedicated Fire Minister. There have been promises of robust action such as a Statewide safety audit, but the focus seems to be more on the TMC than on corrective action. Mr. Adhikari should dismount the campaign horse and look at the elephant in the room — crumbling infrastructure. In its first 100 days, the government has been rather silent on the creaky infrastructure of West Bengal — a State with a rich history of urban life, industrialisation, culture and progressive politics that once led the nation, but now lags behind much of India in roads, buildings, amenities and governance. Urban renewal is the stock-in-trade of the BJP across India and West Bengal will be well served by a State BJP that adopts it. Heritage buildings and conservation have their own value, including for tourism, but require careful planning to suit today’s needs. Mr. Adhikari should place governance above petty politics and focus on infrastructure.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/trial-by-fire-on-fire-accidents-in-west-bengal/article71369212.ece)
+
+---
+
+### Centre’s fiscal outlook faces geopolitical, revenue risks
+*The Hindu · Opinion*
+
+Geopolitical headwinds in the background of recently introduced tax changes would shape the Centre’s fiscal outlook for 2026-27. Despite pressure on tax revenues and subsidies, strong non-tax receipts and policy interventions may keep fiscal outcomes broadly on track.
+
+As per the Controller General of Accounts (CGA) data, the Centre’s gross tax revenues (GTR) grew only by 3.7% in the first quarter of 2026-27. This was the result of subdued revenue performance of personal income tax (PIT) and Goods and Services Tax (GST), both of which were subjected to substantive modifications in 2025-26. In both cases, extensive rate rationalisation was undertaken. In the case of GST, there was a substantive rate reduction. The expectation was that while these reforms would entail an initial revenue sacrifice, subsequent expansion of the tax base would offset the revenue loss over time. PIT revenue growth in 2025-26 was only 0.037%, implying a buoyancy of zero. For the second half of 2025-26, GST revenue growth was 4.67%. The revenue reducing effect of these major tax interventions has continued in 2026-27. PIT shows a growth of 6.8% in the first quarter of 2026-27 while GST revenues showed a contraction of (-)11%.
+
+[Read full article](https://www.thehindu.com/opinion/lead/centres-fiscal-outlook-faces-geopolitical-revenue-risks/article71369976.ece)
+
+---
+
+### DC Edit | Gen Alpha Joins Gen Z In Questioning Policy Of Govt
+*Deccan Chronicle · Editorial*
+
+The reported plans of the BJP to send a Union minister to a university every day to “interact directly with students and understand their concerns” can be seen as a response to the perceived failure of the party to reads the young minds but the mantris on the mission will do bear in mind the rebuke a vice-chancellor in Kerala received while trying to push the governmental agenda. The attempts by Mohanan Kunnummal, the vice-chancellor of Kerala University of Health Sciences, to extract an answer from students gathered at a function to honour them for their performance in the Class 10 and Class 12 examinations to the effect that they are not “cockroaches” were met with deafening silence. Repeated prodding by Dr Kunnummal to say that they are, in fact, “lions” failed to move them.
+
+The BJP may have started showing the signs of losing to battle to control the larger political narrative which it has been peddling quite successfully for more than a decade for good reasons. The party had started on a winning note against the then United Progressive Alliance government at the Centre. The theme was the alleged massive corruption under the government and the “development history” of Gujarat under Narendra Modi, then the state’s chief minister. After three successive elections to the Lok Sabha and running the government for the last 12 years, the party is now facing tough questions on governance.
+
+Lack of quality education and employment opportunities used to be items on the agenda of political parties during elections till now, but they have lately become the sole agenda of the youth brigade. The Cockroach Janta Party (CJP) which successfully ran a campaign for the resignation of Dharmendra Pradhan as Union education minister for his failures has called for a social audit of government-run schools in all states. The party says it has got massive response from all over the country. There are reports from several states about students hitting the streets demanding better infrastructure for their schools. The poor education facilities in the country are not the responsibility of the BJP alone; it is the collective failure of all the parties which are and were in government. But the BJP may be held answerable because the Generation Alpha has seen the party in power at the Centre and in most states during the larger part of their life.
+
+The real challenge for the BJP will be its inability to flash the communal card as a panacea for every ill in this case; the signs from the youngsters till now have been that they are unwilling to take that bait. They are also unlikely to subscribe to the hate campaign the right wing often unleashes when questioned. The youth ask basic questions on education, healthcare, housing and decent infrastructure and will be satisfied only if they get convincing answers. Narratives that take birth in IT cells and are propagated through WhatsApp may die their natural death soon for actions on the ground alone can see the BJP through. The party should not expect the silence of the students in Kerala everywhere; this bunch can turn vocal in their disagreement with the official story.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-gen-alpha-joins-gen-z-in-questioning-policy-of-govt-1980921)
+
+---
+
+### DC Edit | J&K: US Envoy States The Obvious
+*Deccan Chronicle · Editorial*
+
+The US Ambassador to India Sergio Gor may have stated a self-evident truth in terming Kashmir as an “important part of India”. This may be somewhat at variance with what the official stance of Mr Donald Trump’s US may be, but it comes as a reaffirmation of the fact that the land has historically been an integral part of the Indian nation.
+
+Given its obsessive but impossible dream of possessing the Valley, Pakistan was certain to be riled by what an important envoy who has Mr Trump’s ear may have said on the subject. Its antics over internationalising the issue at the UN over nearly eight decades having failed, Pakistan should know by now that its stand on Kashmir comes as the biggest stumbling block to any talks between the two countries on the tensions that have sporadically led to wars and, most recently, a special operation codenamed Sindoor.
+
+The US envoy’s visit to Kashmir, the first since Article 370 was abrogated, might have been an eye opener for him from the security point of view, which is why he will be recommending a downgrading of the US advisory warning its citizens not to visit J&K. The attractions of the Valley can be seductive to visitors and Mr Gor won’t be the last American to be pleased with what he saw, including how secure the place is despite the occasional incident of Pakistan-sponsored terror or targeted killing popping up.
+
+An offshoot of the latest flare up over Kashmir may have led to tit-for-tat action on Pakistan’s sneaky way of “grabbing territory” in its encroachment of an area around its high commission in New Delhi. Such brazen flouting could be bulldozed away, but not Pakistan’s attitude to India that was reflected in its removing security barricades around the Indian high commission in Islamabad just days ago.
+
+Pakistan would be well advised to look after the people of the territory it seized in what is now Pakistan-occupied Kashmir where the disquiet has led to frequent clashes and loss of lives of residents from excessive use of force and firing. Publicly hankering for Kashmir may suit its domestic politics, but the world tired long ago of listening to Pakistan’s untenable claims on parts of J&K.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-jk-us-envoy-states-the-obvious-1980909)
+
+---
+
+### John J. Kennedy | Tech Not Enough; For Effective Exam Reform, Strengthen Capacity of NTA
+*Deccan Chronicle · Opinion*
+
+Public institutions do not usually fail because they lack expert advice. They often fail because they lack the capacity to turn that advice into consistent administrative performance. India’s examination system clearly demonstrates this problem. Despite several rounds of reform, stronger laws, and repeated expert reviews, controversies over public examinations keep recurring. The Union government has now set up a high-level task force under Nandan Nilekani to reform the system. At this crucial juncture, another question must also be asked: Has the debate focused too much on redesigning the system and too little on strengthening the organisation that runs it?
+
+There has been no shortage of reform. Security protocols have been tightened. Parliament passed the Public Examinations (Prevention of Unfair Means) Act in 2024 to deter organised malpractice. After the 2024 Neet controversy, the K. Radhakrishnan Committee reviewed the National Testing Agency (NTA) and submitted 101 recommendations on governance, technology, examination processes, and organisational restructuring. A steering committee was set up to oversee their implementation. Now, in 2026, the law has been amended again to introduce stricter penalties for violations. Each major examination controversy has led to another round of procedural reforms, reflecting the belief that stricter rules and new safeguards are enough to restore public confidence.
+
+The public administration has always distinguished between good policy design and the organisational capacity needed to implement it. Governments often have well-designed policies but struggle to implement them because their institutions lack capacity. When failures come from weak implementation rather than flawed design, more reforms alone will not produce better outcomes.
+
+The NTA illustrates this problem. Since its establishment in 2018, it has become India’s primary testing agency, conducting hundreds of examinations for more than 6.6 crore candidates. According to a reply given in the Rajya Sabha on July
+
+22, 2026, the NTA has filled only 24 of its 39 sanctioned permanent posts. The remaining 15 posts are vacant. The agency also relies on 73 contractual staff and 124 outsourced personnel. Staffing numbers alone do not explain examination failures. However, a ratio of 24 permanent employees to roughly 200 contractual and outsourced staff raises a real question about whether organisational capacity has kept pace with institutional responsibility.
+
+Some critics argue that NTA’s failures stem less from staffing shortages and more from political interference in decisions such as centre allocation, or from corruption at specific points in the system. These factors do matter and should not be dismissed. However, they do not remove the staffing problem. An agency with a thin permanent core is more exposed to both interference and corruption, because it has fewer people with the institutional standing and job security to resist pressure or flag irregularities. The staffing gap and the integrity gap are connected, not separate explanations. The challenge, thus, is not only one of scale. It is one of organisational coherence. Examination policy is designed centrally, but execution depends on a wide network of agencies, state administrations, examination centres and service providers, each operating under different conditions. Maintaining uniform standards across this network is difficult. A public system is only as reliable as its weakest link. This applies across the entire examination supply chain: paper setters, printing facilities, secure storage, transport, digital systems, logistics partners and examination centres. Many reported paper leaks occur within this network, not at the policy level. Effective examination governance requires continuous oversight and accountability at every stage, not only secure procedures on paper. Other countries that run large-scale, high-stakes testing keep a stronger permanent core within their testing bodies, even when they use external vendors for specific tasks such as printing or logistics. This allows a stable group of people to be held accountable for standards across cycles, rather than relying mainly on rotating deputationists and short-term contracts.
+
+Technology can strengthen examination security through artificial intelligence, encryption, biometric verification and digital surveillance. Continued investment in these tools is useful. But technology supports administration; it does not replace it. Secure systems still need competent supervision and clear accountability. Stronger laws provide an important deterrent, but their effect depends on timely detection of violations, impartial investigation and consistent enforcement.
+
+Public examinations depend on trust. Students prepare for years because they believe that effort and merit will decide outcomes. Universities and employers accept examination results because they trust the authority that produces them. This...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/john-j-kennedy-tech-not-enough-for-effective-exam-reform-strengthen-capacity-of-nta-1980918)
+
+---
+
+### Parsa Venkateshwar Rao Jr | Time To Dispel The Myths Over Liberalisation Of 1991
+*Deccan Chronicle · Opinion*
+
+The last week of July went virtually unnoticed by many. It marked 35 years of economic liberalisation. It was on July 24, 1991 that the P.V. Narasimha Rao government announced a new industrial policy which away with licensing for the majority of industries, which meant that no permission was needed to set up new enterprises, or for expanding and upgrading the existing ones, allowing for import of foreign technology, foreign collaboration and foreign funds. This is what is generally celebrated by the naïve enthusiasts of liberalisation, naïve because they do not see the gradual shift in the Industrial Policy Resolution of 1948, 1956, and the Industrial Policy statement of 1973, 1977 and 1980. The propaganda that in 1991, the chains of the licence-permit raj were broken is inaccurate, to the say the least. For example, the 1991 statement said the 1973 Industrial Policy Resolution “identified high-priority industries where investment from large industrial houses and foreign companies would be permitted”. This was a shift from the 1956 Industrial Policy Resolution, which “gave primacy to the role of the State to assume a predominant role and direct responsibility for industrial development.” So, the image of the long, dark ages of socialism from 1947 to 1991 is an intellectual myth. And 1973 is generally identified as the high noon of Indira Gandhi’s romance with socialism. Perhaps the honest question to ask, and which has not been asked, is how closed was the Indian economy at the end of the 1980s. It was not the socialist dystopia that the “andh bhakts” of reforms make it out to be. Economists Suresh D. Tendulkar and T. Bhavani, in their 2007 book, Understanding Reforms Post-1991 India, introduce without elaborating “economic nationalism” along with socialism as an inhibiting factor. It is to be recalled that the fringe organisation called Swadeshi Jagran Manch was a vocal opponent of liberalisation in the early years.
+
+Looking back to 1991 with rose-tinted blinkers even after 35 years is not an intelligent thing to do, but it is what market-friendly economist stalwarts continue to do. There have been honourable exceptions. In 1996, five years after Annus Mirabilis, economists Amit Bhaduri and Deepak Nayyar in their book titled The Intelligent Person’s Guide to Liberalisation, write: “The mood of the moment, among those who make decisions and shape opinions in India, is such that economic liberalisation is perceived as both virtue and necessity. But to the citizen it is obvious that economic liberalization is no panacea. And only the dishonest or the naïve can think of it as a magic wand.”
+
+This observation holds good even today in the middle of rising oil prices, inflation and scarcity of jobs.
+
+Such has been the socialism intellectual hangover that no one paused to ask questions about the challenges that a market economy poses. It is common sense that if the State-controlled Soviet-style socialist economy is held back by inertia, market economies are rocked by volatility in trade and finance, leading to squalls and crises. The first market crisis came with the dotcom bust in 2001.
+
+This was followed by the financial meltdown of 2007-08, which hit India in 2011. As a matter fact, the global markets have not recovered from the 2007-08 shocks, and growth rates everywhere declined, with China moving to the new normal of six per cent growth rate from the 10 per cent average of two decades and more, and Europe is stuck in the low growth rate orbit. One of the ardent, even fanatical, advocate of market economics threw his hand up in bewilderment when faced with the issue of financial derivatives, which led to the fall of investment banks in the United States.
+
+More interestingly, the economic reforms evangelists are not able to make up their mind whether Prime Minister Narendra Modi’s State-driven market economy is a happy model of a free market, and whether this is the reason for sluggish private investment of the last decade. Many of the market-loving economic pundits have gingerly expressed their reservations about the Modi approach, but they have not laid their exact diagnosis of the slow growth of seven per cent, which paradoxically happens to be the fastest among major economies, on the table. The reason is a certain intellectual timidity because the government is still the powerful institution which doles out rewards.
+
+It is also interesting that not many economists are ready to accept that reforms in India have been ushered in stealthily. It is only Bhaduri and Nayyar who point this out, while Tendulkar and Bhavani say that coalition governments with no consensus on reforms pursued the policy from 1991 to 2007. The economists can rightly argue that it is not their business whether the reforms policies were implemented through stealth or transparently.
+
+There is also no interest by a majority of economists to analyse the policy potholes that gave birth to the Rs 4,000-crore stock market scam of Harshad...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/parsa-venkateshwar-rao-jr-time-to-dispel-the-myths-over-liberalisation-of-1991-1980915)
+
+---
+
+### Engineering education needs a reset
+*Deccan Herald · Editorial*
+
+Karnataka Higher Education Minister Basavaraj Rayareddi’s announcement in the Legislative Council that the state will not establish new government engineering colleges is a welcome recognition of reality. When 28,000 to 30,000 engineering seats remain vacant every year despite multiple admission rounds, adding more institutions serves little purpose. The problem extends beyond Karnataka: across India, 30% to 40% of engineering seats – roughly 3,00,000 to 5,00,000 annually – go unfilled. The country has built an enormous technical education infrastructure over the past three decades, but capacity has expanded far beyond actual demand. Vacancies are particularly acute in regional and rural colleges, where many institutions struggle to attract students. Given this background, Karnataka has repeatedly petitioned the All India Council for Technical Education (AICTE) to impose a moratorium on new private colleges.
+
+Karnataka govt to launch campaign to transform 100 schools in 100 daysA major distortion arises from the artificial demand created by private colleges for computer science and allied courses. To offset vacancies in core streams like mechanical, civil, and electrical engineering, institutions offer multiple variants of essentially similar programmes such as Artificial Intelligence, Data Science, Cybersecurity, and Internet of Things, capitalising on student preferences and market perceptions, often without corresponding investment in faculty or laboratories. This has created an oversupply of narrowly trained software graduates, alongside declining enrolment in fields vital to manufacturing, infrastructure, energy, and semiconductors. Such unchecked expansion risks a market glut. If software hiring slows due to automation or economic cycles, thousands of graduates may face unemployment. Technical education must therefore respond not only to current trends but also to long-term economic needs.
+
+Karnataka’s decision marks a shift from expansion to consolidation. Rather than adding more colleges, the emphasis must be on better utilising existing infrastructure – upgrading institutions for quality rather than quantity, and repurposing underused campuses as centres for skilling, reskilling, and industry-linked training in emerging areas. This approach draws on the findings of an expert committee headed by S Sadagopan, former Director of IIIT-Bengaluru, which found that only about 17% of engineering graduates are readily employable. The committee recommended reducing computer science seats, capping intake in related disciplines, limiting multiple variants of the same course, and integrating AI across branches instead of treating it as a stand-alone specialisation. It also proposed setting up a Karnataka Engineering Education Reforms Authority to oversee these structural changes. Other states facing similar challenges would do well to consider a similar course correction. In higher education, quality, relevance, and employability matter far more than the number of buildings or seats created.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/engineering-education-needs-a-reset-4118724)
+
+---
+
+### Green India Mission: Lost in silos
+*Deccan Herald · Editorial*
+
+The Comptroller and Auditor General (CAG)’s performance audit of the Green India Mission (GIM), tabled in parliament last week, is a severe indictment of the flagship environmental programme. GIM, launched in 2014 with fanfare, aimed to protect, restore and expand forest cover, and improve vegetation and tree cover across the country. It proposed to mobilise targeted efforts to enhance biodiversity and carbon sequestration, and envisioned an expansion of forest-based livelihoods. The report says the mission, which had a target of improving the quality of forests over 1.4 million hectares, could do so only in 0.11 million hectares. A 98% shortfall was reported in efforts towards increasing the forest cover. The CAG examined results across 16 states and union territories between 2015-16 and 2024-25, and reported abject failure in all aspects.
+
+Multiple factors have been cited – from an absence of convergence with relevant programmes to insufficient funding, from weak planning to erratic monitoring systems. The CAG noted that GIM lacked “effective alignment” with CAMPA, MGNREGS, and other programmes tied to afforestation, leaving initiatives such as the Nagar Van Yojana and the School Nursery Yojana to progress in isolation. The mission failed to secure the originally proposed funding support. Financial controls were lax; many states did not maintain annual accounts, while those prepared by the others were often unaudited or contained discrepancies. Annual targets for afforestation were largely non-existent and monitoring remained deficient at all levels. Vulnerability was identified as a key marker for the mission. However, the CAG highlighted poor prioritisation, noting that regions with low- and moderate-level risks were selected over those facing a greater threat from climate change.
+
+India's forests are losing their climate resilienceGIM is an important component in India’s response to climate change and is integral to its national action plan. It was designed to play a crucial role in meeting the country’s commitment to the Paris Agreement on expanding its carbon sink. That a programme of this scope and consequence was handled with such indifference reveals a commitment that does not go far beyond the optics of afforestation drives. There is much talk about the need to plant trees, to improve the state of forests, to revive degraded lands, and to hasten climate action. Millions of saplings are being planted every year. However, official statistics about the extent of forests and tree cover have been consistently questioned. The CAG report encapsulates everything that is wrong with the country’s biggest afforestation programme. Its criticism should form the basis for efforts to repair and rejuvenate the mission.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/green-india-mission-lost-in-silos-4118723)
+
+---
+
+### Building bridges of faith and peace
+*Deccan Herald · Opinion*
+
+Religion is an integral part of human existence. If one wishes to have peace of mind, one must also construct defences of peace in one’s own mind. The world cannot have peace until nations and people begin to reduce their selfish desire for more and more material possessions.
+
+Differences in religious beliefs and practices should not hinder the efforts of various religions working for world peace. They must work in harmony and cooperation in the true spirit of service. Our country, Indian society, is pluralistic in nature. The diversity that exists in India in terms of religion, culture and languages is highly unique. Despite this diversity, the people of this country have been living in peace and harmony.
+
+No religion preaches violence. Vasudhaiva Kutumbakam is the well-known cardinal principle of Hinduism. Swami Vivekananda said, “We believe not only in universal toleration but we accept all religions as true.” Prophet Muhammad taught his followers to make peace and not to hurt the religious sentiments of others. The Quran says, “O mankind, We have created you from male and female” and calls upon humanity to develop a sense of brotherhood.
+
+The journey matters as much as the goalLove and peace are central to the Christian scheme of things. Compassion holds an important position in Buddhism. The Dalai Lama has said that there will be no peace among religions without dialogue.
+
+The value of peace is often underestimated. It does more than prevent destruction. It releases human and material energies for development. Peace redirects those resources towards education, economic growth, science and social welfare. Peace is not weakness; it demands greater courage than confrontation. Development, justice, reform and prosperity cannot be pursued effectively while society remains trapped in conflict. Therefore, religious leaders, political leaders and academics could play a leading role. Interfaith dialogue has immense importance in minimising differences among conflicting parties. Campaigns for peace and humanity should be organised from time to time so that the world can become an embodiment of unity, love, brotherhood, peace and prosperity.
+
+[Read full article](https://www.deccanherald.com/opinion/building-bridges-of-faith-and-peace-4118721)
+
+---
+
+### Surveillance in a legal vacuum
+*Deccan Herald · Opinion*
+
+On August 1, West Bengal’s Special Task Force (STF) arrested Mohammed Hamim Mondal, a Jaish-e-Mohammed operative who, on his Pakistan-based handlers’ instructions, had allegedly planned to breach the Jantar Mantar protest site in New Delhi disguised as a police officer. Months earlier, Delhi Police’s Special Cell and Punjab Police had dismantled an ISI-run espionage network that planted Chinese CCTV cameras near defence installations.
+
+Neither case was cracked by facial recognition; both came from traditional intelligence work. But together, they describe the environment Delhi’s security apparatus operates in: a capital housing Parliament, the diplomatic corps, and India’s most sensitive institutions, exposed to cross-border terrorism, espionage, and organised infiltration of public spaces. Against this backdrop, Delhi Police’s use of facial recognition technology (FRT) at Jantar Mantar deserves to be taken seriously.
+
+Since June, as students protested the NEET-UG paper leak, Delhi Police ran facial recognition at Jantar Mantar against a database of roughly 350,000 criminal records. Between July 20 and 25, the system flagged 2,873 people with criminal antecedents in the protest zone, including 989 suspected of serious offences. Whatever the police inquiry finds, the scale is telling: a protest that drew thousands of peaceful demonstrators also drew a significant shadow population with criminal histories moving through the same crowd. This is exactly what facial recognition exists to surface, separating the protest from those hiding within it.
+
+Jantar Mantar protest offers Kashmir’s youth a new template for mobilisationThis idea is not new to Indian law. The Karnataka Public Safety (Measures) Enforcement Act, 2017, requires commercial establishments, religious sites, hospitals, and “any place of organised congregation where more than 100 people gather at a time” to install and maintain CCTV. Telangana’s Act of 2013 and Gujarat’s of 2022 follow the same template, first set by Andhra Pradesh in 2013, mandating cameras at gatherings above a notified threshold. A Delhi-specific Public Safety Act, enacted by Parliament, could do for Delhi what these states have done for CCTV and explicitly extend it to facial-recognition matching at gatherings above a defined size.
+
+The clearest evidence that facial recognition works, when backed by law, comes from the United Kingdom. The UK Court of Appeal’s 2020 ruling in Bridges v. Chief Constable of South Wales Police struck down an early trial for lacking clear rules on watchlists and officer discretion. London’s Metropolitan Police responded not by retreating but by building a 2024 framework that confines live facial recognition to three defined uses: crime hotspots, protective security at major events, and intelligence-led searches for specific individuals, with senior authorisation and a proportionality check on the impact on protests.
+
+In May 2026, the Met deployed the technology at protest events for the first time, identifying a convicted child sex offender, with only 10 false alerts and roughly 80% public support in its own surveys. London earned these results by legislating around the technology after courts forced the issue, not by avoiding it.
+
+A calibrated response
+
+That is the warning Delhi cannot ignore. In the absence of a law, India’s courts are already being asked to settle this question: petitions by Aishe Ghosh in the Delhi High Court and Rajya Sabha MP A A Rahim in the Supreme Court both argue facial recognition at protest sites has no valid statutory basis. They have a point. Delhi Police’s own RTI response confines its stated mandate to missing persons and unidentified bodies, and no statute authorises the broader use now underway. Left unresolved, that gap invites the kind of judicial intervention that initially shut the technology down in Britain; a court ruling on a practice with no legislative backing is more likely to restrict or ban it outright than craft a calibrated framework. The smarter path is to legislate first, not wait for a court to decide by subtraction.
+
+The elements of that law are not mysterious; states have already written most of them. A Delhi Public Safety Act extended to facial recognition should fix a clear headcount threshold, require senior authorisation for deployments, mandate independently audited accuracy standards, set fixed data retention and deletion timelines, and require public reporting of scans, matches, and outcomes after every operation. Facial recognition has shown what it can do for a capital that cannot afford to guess who moves through its most sensitive spaces. What it needs now is not a defence after the fact, but a law that puts that capability beyond a court’s power to take away.
+
+(Rakshit is an assistant professor in the School of Arts, Humanities, and Social Sciences, Chanakya University; Nirupama is an assistant professor in the School of Law, Governance, and Public Policy at the university)
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
+
+[Read full article](https://www.deccanherald.com/opinion/surveillance-in-a-legal-vacuum-4118726)
+
+---
+
+### The art of reading social cues
+*Deccan Herald · Opinion*
+
+Today’s children, in my view, are an enviable lot. They enjoy unprecedented freedom and choice. They get the desired exposure, and much more, to the outside world. The inadvertent mention of the word ‘exposure’ covers not just gadgets but also the society they live in. Socialising is the buzzword. Stepping out of the four walls of the house, they have the opportunity to meet people from various walks of life and take part in various cultural events, besides the regular timetable-driven sports and educational activities. This exposure seems to have made children more aware of social cues.
+
+The other day, my colleague’s son was brooding on what to give his friend on his birthday. I travelled back in time to the 1960s, when I had an invite to attend my classmate’s birthday party at home. My daily schedule was well-scripted. Go to school, come back, relax for some time, refresh with some snacks, play with the children in our staff quarters – which, incidentally, had six families, but only two had children of my age – come back, do my homework, help Mother with her domestic chores while she simultaneously told me some stories with a moral in them, have dinner and then retire to bed.
+
+Memories floating on milkweed: Rediscovering childhood magic in natureSharad Jaipuria was my classmate and a good friend. One day he invited me and another of our classmates – Rajiv Razdan – for his birthday party at home. My experience of a birthday celebration outside of our home was limited to my classroom experience: the entire class standing up and singing the ‘Happy Birthday to you’ song, followed by the birthday boy or girl opening a box of chocolates and starting with the class teacher offering the candy to all in the class. For me personally, on my birthday, I would go to the nearby temple with my parents in the evening. This was the first time I had an invite for a birthday party at home.
+
+On the anointed day, Sharad’s car picked me up and then Rajiv from his house. He got a beautifully gift-wrapped Pilot pen set and wanted to know what I was going to present. I got the shock of my life. Little did I know that I should arm myself with a birthday present. Pocket money was unheard of then.
+
+Caught in a fix I entered the party hall and greeted the birthday boy with a handshake while others handed over some gifts before shaking hands. Being the odd one out, I wanted to quietly escape from the place but could not. Overcome by guilt at having come empty-handed, I was crestfallen and stood silently while the birthday cake was cut, balloons were burst, games were played and everyone present rejoiced. Finally, when it was time to leave, I was given a gift – like for all others – and dropped at home. I had my first lesson in the imperative need for socialising.
+
+Children may have their own challenges now, but they seem to pick up social cues much earlier.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
+
+[Read full article](https://www.deccanherald.com/opinion/the-art-of-reading-social-cues-4118725)
+
+---
 
 ## 20 August 2026
 
