@@ -1,10 +1,242 @@
 # Editorials
 
-_Last updated: 2026-08-21 02:46 UTC_
+_Last updated: 2026-08-22 02:36 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
 
+## 22 August 2026
+
+### DC Edit | On Water, Southern States Refuse To See Eye To Eye
+*Deccan Chronicle · Editorial*
+
+It was a peace-making confluence that, ironically, let differences and animosity spill over into the open, giving rise to the doubt if the southern states could ever see eye to eye on issues concerning water. Though Union home minister Amit Shah, the presiding deity of the gathering, batted for better cooperation among the state governments, the chief ministers, whom he was addressing, were in no mood to listen to him but pressed for the long-persisting demands of their states, turning the Southern Zonal Council into an anachronism.
+
+While Amit Shah claimed that the Council resolved 1,445 of 1,869 interstate disputes that came up before it from 2014, the proceedings at the Fishermen’s Cove beach resort on Thursday made an observer doubt if that rate of success — around 80% — could be achieved hereafter.
+
+The issues that were raised at the conclave of chief ministers, lieutenant governors and administrators of the southern states and Union Territories were caused by the same bad blood that had engendered riots, agitations, protracted legal battles and even violence in the past several decades, indicating that no one, particularly politicians, learns from experience.
+
+Kerala has not given up on its demand, raised first in 1979, for the demolition of the over 120-year-old Mullaiperiyar dam located in its territory but providing water to parched districts of Tamil Nadu. Similarly, Karnataka that has been having a running feud with Tamil Nadu over the sharing of River Cauvery was insisting on building another dam across Cauvery at Mekedatu.
+
+That the disputes which broke out during an earlier era dominated by leaders of previous generations continue to resonate at common forums like the Southern Zonal Council, despite several court interventions and other peace initiatives, is a tragedy because even modern-day leaders are seemingly keen on continuing the fights rather than finding solutions to the problems that primarily concern the needs of the common people.
+
+Kerala, in a bid to stop giving water to Tamil Nadu came up with the theory that the Mullaiperiyar dam would give way anytime and wanted it to be decommissioned in 1979 though Tamil Nadu was legally entitled to have the facility till 2885. The fear was spread across Kerala and even a film titled Dam999 (the 999 referring to the 999-year lease period) was released in Malayalam.
+
+Karnataka had been a habitual defaulter in releasing water in the Cauvery to Tamil Nadu despite the Supreme Court fixing a quantum of water to be let into the river from their dams — that was after several tribunals and committees failed to adjudicate on the water sharing process — in the protracted dispute.
+
+When Karnataka wanted to build another dam at Mekedatu, which environmentalists fear would be an ecological disaster and Tamil Nadu saw as a bid to block the last drop coming into the state, there was opposition to it from different quarters. Still the conclave at Kovalam saw Karnataka standing by the project and even predicting that it would help Tamil Nadu solve its water shortage.
+
+With Tamil Nadu insisting on all states adhering to court rulings and tribunal verdicts, it stood on the other side of the fence with no force looking capable of demolishing the fence in sight. Linking great rivers was once again talked about but such gargantuan projects are more akin to castles in the air.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-on-water-southern-states-refuse-to-see-eye-to-eye-1981197)
+
+---
+
+### DC Edit | Why Stop Revanth Visit To US?
+*Deccan Chronicle · Editorial*
+
+The denial of routine official clearance by the Union ministry of external affairs for chief minister A. Revanth Reddy’s seven-day official visit to the United States does not augur well for the country’s federal set-up. Though it may sound unusual, Mr Revanth Reddy’s objective in the proposed visit was to meet the top brass of reputed educational institutions and persuade them to establish offshore campuses in Telangana in place of the routine invest-in-Telangana pitch.
+
+The clearance was denied after the chief minister-led official delegation had already reached the United Kingdom for the first leg of the two-nation tour. The MEA stated that political clearance is assessed based on whether the visit is appropriate to the office held and the purpose of the trip, adding that “it was not so in respect of (CM’s) US visit”. This leaves one puzzled as to how clearance was granted for his UK tour, which was being undertaken for a similar purpose.
+
+The Narendra Modi government has often been criticised for targeting Opposition leaders by unleashing agencies like the CBI and ED against them. It has also shown discrimination in granting foreign tour clearances to CMs from non-NDA parties. Earlier, clearances were denied twice for Arvind Kejriwal and once each for Mamata Banerjee and Bhupesh Baghel.
+
+Politically, Revanth Reddy has little to lose and much to gain. The denial elevates him as a key target of the BJP and erases criticism of his alleged hobnobbing with Mr Modi. He can also counter the BRS, which has celebrated the denial as an embarrassment, by questioning whether only the kin of BRS leadership should enjoy the privilege of studying abroad.
+
+Had politics not interfered, and Mr Revanth Reddy succeeded in bringing offshore campuses to India, thousands of Gen Z students could have pursued higher education closer to home at a fraction of the cost of studying abroad — especially at a time when US immigration policies are increasingly turning hostile toward Indian students.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-why-stop-revanth-visit-to-us-1981208)
+
+---
+
+### Shobhaa De | Politics Changed; ‘Gen G’ Must Step Up, Or Go Home
+*Deccan Chronicle · Opinion*
+
+We love Gen Z… but what to do with Gen G (Geriatrics)? Dekho Bhai… one thing the Cockroaches and Dimaagi Naxals have changed forever is the political narrative of India. Nobody can overturn what started at Jantar Mantar on June 6 and then rapidly swept across the country. Today, the ground reality is so dramatically altered, we can pinch ourselves, blink and ask incredulously, ‘’Yeh kya hua? Kab hua? Kaisey hua?’’ Has a miracle taken place? Can India’s youth claim the credit for it?
+
+The answer, without frills, is a simple ‘Yes!’
+
+What exactly this win means in asli terms, cannot be quantified — it’s way too premature to arrive at dramatic conclusions. But morally and psychologically, it’s a triumph. Is it the start of a thought revolution? Will the Cockroaches and Dimaagi Naxals succeed in their stated objectives (better education for our children)?
+
+Or will the initial euphoria and the heady smell of success, derail the fired-up leaders and their fervent followers? Tasting victory on this scale can either bolster the original lot and inspire them to get on with the work to seek educational reforms they so vociferously demanded, or they can get swept away by the tidal wave of fame, adulation, hero worship. At the moment, we shouldn’t deny them their moment of glory — they did what millions wanted, but didn’t have the guts to articulate. As they say in colloquial Hindi: Sarkar ko hila diya.
+
+Now that the sound barrier has been boldly breached, not just by Gen Z but Gen Alpha as well… we can safely assume India’s collective laryngitis issue has been dealt with as well. Indians have broken 12 years of maunvrat. Citizens have rediscovered their voice boxes… and dimaags. Pertinent questions are being fearlessly tabled by countless infuriated and frustrated Indians, asserting their basic constitutional rights from a government that is clearly on the back foot. The history of India will reflect this seminal moment as being the one that separated the pre-2014 era from the one Gen Z gave birth at Jantar Mantar.
+
+What can explain the government’s folly? With all their brain power, financial resources, intelligence networks, undercover operations, threats and other intimidatory tactics, not a single marketing genius pointed out the obvious to netas: A vibrant young India is being run by exhausted geriatrics.
+
+A deliciously youthful nation is at the mercy of men and women in their 70s and 80s. Most are visibly old, senior citizens hopelessly out of touch with today’s rapidly changing world. Stuck in the hoary past, unwilling or unable to accept change, their outdated views of what young India wants, have finally caught up with them. Anachronistic, ancient and obnoxious, their preachy attitude and icky platitudes are backfiring on them. Gen Z and Gen Alpha… both are done with Gen G.
+
+Their advice? Go home, naana-naani, daada-daadi. Aaram karo. We need more than you can possibly deliver.
+
+But also remember — we will not spare you! Sab yaad rakhengey. Where does that leave the bewildered, middle-aged generation? We can’t suddenly reverse time and join the Cockroaches and fight the good battle at the barricades. Neither can we proudly call ourselves ‘Dimaagi Naxals’’ and pose difficult questions to the sarkar. But we can speak up! No age limit for that. No cut off point. For more than 12 years, most of India was on mute. This in itself is such a powerful statement of how an autocracy functions while pretending to be a democracy. Faced with all manner of threats and punishments, false cases and fake allegations, a powerless mass of people across the country chose to suffer in silence, allowing the sarkar to grow more and more despotic, encouraged by the fear psychosis it had systematically and knowingly unleashed. The blatant abuse of power and privilege went unchecked, unquestioned… and soon, apathy set in. If this was our fate…accept the worst and say nothing. Those who sang hosannahs to these netas were richly awarded. Those who objected, were sidelined. Propaganda disguised as patriotism became palatable, even profitable.
+
+Till the cockroaches crawled out of the woodwork. And the manzil shook. The future of the manzil and its occupants is at stake, as we cheer school kids across the country, demanding what is rightfully theirs — quality education. A young girl from Jharkhand put it best when she said, “Jharkhand is 25 years old, but still feels like one.”
+
+Enrolment into government schools dropped by 2.6 crores last year. Twenty-five government schools shut down every day in India. Where are these kids supposed to learn in order to contribute to the Prime Minister’s Viksit Bharat? ‘’Ashikshit’’ kids, without water, benches, classrooms, toilets, blackboards and qualified teachers are being lectured to by leaders who may be semi-literate themselves. The Supreme Court was recently told 326 MPs and 14 CMs have criminal cases against them. Instead of addressing this, and the biggest problem, facing our children by...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/shobhaa-de-politics-changed-gen-g-must-step-up-or-go-home-1981215)
+
+---
+
+### Idle fund, damning statements
+*Deccan Herald · Editorial*
+
+The publication of the audited financial statements of the PM CARES (Prime Minister’s Citizen Assistance and Relief in Emergency Situations) Fund for financial years 2023-24 and 2024-25 revives a few familiar and largely unanswered questions. The statements show that the fund had a closing balance of Rs 8,452 crore at the end of FY 2024-25. However, the total spending during the fiscal stood at Rs 87.9 lakh – a mere 0.01% of the corpus. In the previous year, the fund reported spending of Rs 15.6 crore. Both payments were made towards the PM CARES for Children scheme.
+
+PM-CARES fund receives Rs 1,162.92 crore, spends only Rs 16.47 crore during 2023-25: Audit reportThe PM Cares Fund was set up during the Covid years, in 2020, as a public charitable trust to provide relief during health emergencies, natural disasters or man-made calamities. Its stated objectives also included the creation of relevant infrastructure and financial support for research. It is estimated that the fund received about Rs 13,000 crore in its first three years. Domestic donations and foreign contributions declined in 2024-25, but the corpus expanded to Rs 8,452 crore by March 31, 2025. Of this, Rs 7,846 crore is in fixed deposits, earning over Rs 469 crore in interest during the fiscal. Criticism of the relief mechanism has centred on the minuscule spending, given that the country faced multiple challenges over the past six years when contributions from the corpus could have significantly boosted the relief and assistance efforts. The Union government has not been forthcoming about the source of contributions. The lack of transparency regarding the fund’s operational details and areas of expenditure has also been a point of contention; this is the first disclosure of audited financial statements since FY 2022-23.
+
+A fund run on public contributions, operated from the Prime Minister’s Office (PMO) with the Prime Minister and senior cabinet ministers as ex officio trustees, needs more transparency in its working. The government has maintained that the fund does not come under the ambit of the Right to Information (RTI) because it is not a public body defined under the Act. In February this year, the PMO told the Lok Sabha Secretariat that questions about the fund are not admissible in Parliament. This means information would remain limited to what the government chooses to make public. The numbers tell a story of serious inaction. It will take a structural shift towards transparency and accountability to restore public trust. Regular disclosures on contributions and expenditure will be an important first step in that shift.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/idle-fund-damning-statements-4119956)
+
+---
+
+### New logins for old governance
+*Deccan Herald · Editorial*
+
+Karnataka presents itself as a leader in digital governance, with 1,981 services available online. Of these, 738 are completely online without citizens having to go to a public office. Yet official data presented in the Legislative Assembly by Chief Minister D K Shivakumar paints a less flattering picture: 67% of services covered by the Sakala Act required applicants to visit government offices in person. These numbers expose a fundamental weakness in the state’s digital transformation. As Melukote MLA Darshan Puttannaiah put it, the government has only changed the medium without changing the process: files that once moved from table to table now move from login to login. The point deserves serious attention. Digitisation cannot mean merely reproducing cumbersome bureaucratic procedures on a screen.
+
+What online?: Citizens visit govt offices in Karnataka for 67% of servicesFor people, the problem is often not unwillingness to use technology but the technology itself. Seva Sindhu, Kaveri, Bhoomi, and other portals can involve slow pages, failed logins, delayed OTPs, broken links, authentication errors, database outages, and poor performance under heavy traffic. In June, a planned 24-hour shutdown of several government portals was required for critical state data centre infrastructure upgrades. Kaveri 2.0, too, suffered a week-long disruption in 2025 following a cyberattack. The e-Swathu property-document process malfunctioned, forcing citizens back to offices and intermediaries. Such a human interface creates precisely the discretion and opacity that digitisation is meant to eliminate. Even applying for the crucial Permanent Resident Certificate, one of the 11 documents listed by the Election Commission for voters left out of the Special Intensive Revision (SIR), was plagued by glitches. This friction imposes a disproportionate burden on rural masses, who are forced to travel to taluk or district headquarters when online services become inaccessible.
+
+e-Governance Minister Priyank Kharge is partially right when he says many still prefer physical interaction and a paper acknowledgement, but this over-simplifies the problem. Some are indeed slow to adapt, but many turn to offices because online services falter or because they believe personal contact is the only way to move a stuck file. Technology-driven governance should, therefore, be measured not by the number of online services but by the proportion completed end-to-end without human intervention. This requires rigorous load testing before launches, interoperable departmental databases, reliable authentication, real-time updation and monitoring, offline fallbacks, and transparent service-level guarantees. Seva Sindhu’s stated goal is faceless and paperless service delivery. The launch-now-fix-later attitude must end. Karnataka has made rapid strides in e-governance; the bigger step is to make it actually work.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/new-logins-for-old-governance-4119957)
+
+---
+
+### A hunter, disarmed by words
+*Deccan Herald · Opinion*
+
+Masti Venkatesha Iyengar, the recipient of the Jnanpith Award for his enriching contribution to Kannada literature under the pen name ‘Srinivasa’ and a very close friend of my father Navaratna Rama Rao, was a frequent visitor to our house. Being ardent lovers of literature, they shared a common interest, further strengthening their emotional bond.
+
+During Masti’s one such visit to our house, father had not yet returned from his customary morning walk. He decided to wait for father and asked me to get him a blank sheet of paper and a writing pad.
+
+Preferring to sit on the bench in our garden, he at once started penning his thoughts, which I am sure must have become one of the myriad pages of his enormous literary works.
+
+While he was engrossed thus, I, a boy of eight then, was looking for a hapless bird to get at with my catapult. Soon, an unfortunate mynah became a victim, and the little bird dropped dead right in front of Masti, instantly distracting him. He stared at the dead bird as he uttered, his feeble voice drenched in acute pain, “Ah! Dear God, what am I seeing?" He turned towards me in disbelief. His sharp eyes, which had showered so much of avuncular benevolence whenever we met, now bore a look of sadness and disgust.
+
+I went to my friend’s birthday party empty-handed. I never made that mistake again“Tell me, you brave warrior, why did you kill this innocent, defenceless bird?" It was so unexpected that I didn’t know what to answer.
+
+“Are you going to eat it?” he asked, looking into my eyes. “Ugh, never!” I gasped.
+
+“Did it harm you in any manner?” “No, how could it!” I stammered in confusion.
+
+“Do you hate birds?" he was unrelenting. “No, I love them!” I blurted instinctively.
+
+“Then why did you kill it? Do you harm those you love?” he pursued.
+
+That did it. Engulfed in guilt and remorse, I was hiding my tears when father returned from his walk. As they were entering the house, Masti turned back and gave me a sharp look, the significance of which I could not comprehend then.
+
+Several decades later, I visited him at his residence to express my gratitude for the impressive book he had written in Kannada about the life of my father. After the customary kind enquiries, he suddenly asked me with a twinkle in his eyes, "When did you return from Shivamogga? Your brother told me that you had gone on a hunting safari by jeep around the Sirigere forests. Hope you enjoyed shooting a good number of deer and other hapless ones!”
+
+I instantly knew what had made him ask this and admired his remarkable memory. I explained to him that I did go on a safari with my good friend, who happens to be the divisional forest officer of the region, to shoot the beauty of the wildlife – but with a camera, not with a gun. "I expected it,” he said with a smile. "I knew my words that day had touched your heart when I saw your reaction."
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
+
+[Read full article](https://www.deccanherald.com/opinion/a-hunter-disarmed-by-words-4119951)
+
+---
+
+### E20 and some fuel for thought
+*Deccan Herald · Opinion*
+
+Amidst the raging debate on blending petrol with ethanol, two apparent flip-flops draw attention. One is the rather hurried action by automotive manufacturers to withdraw their submission to the government, which expressed concern over the policy to supply E20 petrol due to possible adverse effects on engines. The other is the suggestion by the Chief Economic Advisor (CEA) Anantha Nageswaran that the government could consider supplying E10, with a lower ethanol content, for older vehicles.
+
+How such differentiated supply and usage would be regulated and monitored at the pump level, based on the vehicle’s age, is a smaller concern. The larger issue is that these reactions create the impression that the changeover may have been rushed through without studies or due deliberation. Could this have been handled with less backlash? A quick primer on the industry methodology when managing a change helps explain the dynamics.
+
+E20 switch demands more evidenceThe automotive industry perennially faces the need to modify its strategies, with product and component design at the core. Product and component upgradation is a continuous process, driven by several factors such as enhanced safety, changing customer preferences, cost reduction, regulatory requirements, and technological breakthroughs. If such changes are handled without a plan, they can create losses and risk because the entire pipeline carrying components of a superseded design has to be dealt with appropriately. Action begins at the source of the raw material used to make the component and extends all the way to vehicles already running on the road with that component fitted, together with all work in progress at various stages of manufacturing and supply.
+
+Recognising the complexity in such transitions, the moment a change is initiated, a vigorous change-management drill comes into play. This includes identifying and segregating affected products, extensive trials of the new version, deciding the disposition of older versions, managing work in progress, and monitoring implementation. An essential precaution is to build solutions considering ground-level practices. The objective throughout is to minimise risk, loss, and surprises.
+
+Against this background, it is difficult to comprehend why, after the changeover to higher ethanol blending, we are encountering basic concerns such as contamination at the pump level, higher fuel consumption, and possible damage to engine components. Even assuming these issues are eventually addressed through corrective action, including perhaps tweaking fuel prices to soften the impact on consumers, a more fundamental concern remains. Is there a clearly articulated long-term strategy for selecting India’s future sources of motive power that considers the complete chain of costs, benefits, and unintended consequences?
+
+Today, there is a vast array of options for powering vehicles: LNG, CNG, EVs, hybrids, solar, hydrogen, ethanol, and hydrocarbon-based fuels such as petrol and diesel. Alongside these is an impressive range of performance-enhancing technologies, including turbochargers, superchargers, regenerative braking, and fuel cells. Understandably, every strategy brings promise along with baggage.
+
+Carbon-based fuels are finite, contribute to pollution, and are a drain on foreign exchange. Electric vehicles are noiseless, pollution-free, and eliminate several mechanical components. However, batteries need rare minerals and are expensive, charging infrastructure is inadequate, and disposal of batteries containing chemicals and toxic materials remains a challenge.
+
+Ethanol, despite being cheaper and a means to reduce imports, brings its side effects. Regardless of whether the feedstock is sugarcane, maize or rice, they call for considerable water usage. When water-intensive crops are being discouraged, it would be grotesque if water is diverted to support transportation.
+
+There may be peripheral complications. Food crops, ethanol, sugarcane, and the lucrative alcoholic beverage industry are all intertwined. Governments are hassled over financial incentives, pricing formulas, and allocations. Adding the transport industry will heighten tensions.
+
+Policy of transparency
+
+Every pathway involves economic, environmental, and social trade-offs. The challenge is to evaluate all credible alternatives within a common decision-making framework. We need a comprehensive white paper setting out the strengths, weaknesses, and long-term implications of each strategy, supported by robust data, and a mathematical model evaluating multiple scenarios. Such approaches are routine in industry. Statistical models, operations research, and scenario-planning are widely used for demand forecasting and strategic decision-making under complex conditions. We should apply these rigours to select our mobility strategy.
+
+A transparent, evidence- based framework would help policymakers weigh competing objectives such as energy security, environmental sustainability, agricultural impact, water use, infrastructure investment, foreign exchange, consumer costs, and technological readiness. The hurry to stop the forex haemorrhage is understandable. Let us also analyse and decide.
+
+(The writer was a senior executive in leading automotive organisations for over 40 years)
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
+
+[Read full article](https://www.deccanherald.com/opinion/e20-and-some-fuel-for-thought-4119952)
+
+---
+
+### Let truth protect those who protect our forests
+*Deccan Herald · Opinion*
+
+A forest at midnight means darkness, difficult terrain, and split-second decisions. What happened inside the Cauvery Wildlife Sanctuary near Hanur on August 15 must be established by evidence, not rhetoric. Three men died in firing by Forest Department personnel. If unlawful or excessive force was used, those responsible must face the law. But accountability begins with truth, not a verdict.
+
+Sections of the media, public, organisations, and political parties have criticised frontline staff before the inquiry is complete. Accountability is necessary, but assigning blame before findings emerge prejudges the process and risks demoralising them. Equally unfortunate are attempts to give the incident a linguistic or religious colour. Forest and wildlife protection transcend language, religion, caste and community; Karnataka’s Forest Department is known for enforcement without such distinctions.
+
+According to the Forest Department, personnel acting on hunting information found four persons several kilometres inside the sanctuary around midnight, allegedly carrying country-made firearms and suspected deer meat. It says they fired when challenged and personnel returned fire in self-defence. Three died, one escaped, and a forest guard was injured. The families say the men were searching for missing cattle. That deserves investigation. But even assuming they were, the Wildlife (Protection) Act, 1972 applies. Unauthorised sanctuary entry, carrying firearms, illegal hunting, and unauthorised livestock grazing attract penal provisions.
+
+Green India Mission: Lost in silosThe inquiry must establish why they were deep inside the sanctuary around midnight, whether cattle were missing, whether firearms were carried and, if so, fired, whether the meat was wildlife meat, and if the men had any wildlife-offence history.
+
+The families reportedly received financial assistance, including from the government. If true, humanitarian support is understandable; however, public payment before the inquiry concludes should have a clear basis, prejudge neither the firing nor the deceased, and create no unintended precedent before facts are established.
+
+Forensics, including ballistics, gunshot residue, and post-mortem findings, can reconstruct events. The guard’s injury, DNA identification of the meat, and the fourth person could be crucial.
+
+Some argue that the men should have been arrested or shot in the legs. But if the personnel were fired upon first, expecting precise leg shots during a sudden armed threat in darkness may be unrealistic. Whether the threat was imminent and the response justified must be answered by evidence, not hindsight.
+
+Cauvery and MM Hills have long faced wildlife crimes. In June and October 2025, six tigers were poisoned in the MM Hills Wildlife Sanctuary in two incidents. Days before the Hanur incident, a forest watcher was killed by an elephant while tracing suspected sandalwood smugglers, underscoring the need for vigilance.
+
+In March 2017, in the same sanctuary, forest personnel killed a poacher from a gang that, according to the Department, had killed wildlife and fired upon them. His family said he was searching for missing livestock. A murder complaint followed; forest staff reportedly sought transfers. A September 20, 1991, Government Order recognised the morale impact of charges after firing on armed smugglers and poachers. It permitted forest guards and above to use minimum necessary force in specified self-defence circumstances and required a magisterial inquiry where misuse was alleged or suspected. Criminal proceedings cannot begin until the inquiry recommends them. If applicable here, the FIR raises questions of legal tenability.
+
+Seven anti-poaching camps and nine staff quarters in the Cauvery Wildlife Sanctuary, one camp in the MM Hills Wildlife Sanctuary, and a department vehicle were damaged; some camps were allegedly blasted using gelatin and about two hectares of forest were set ablaze – acts unjustifiable as protest. Two persons with wildlife-offence backgrounds were reportedly seen at the protests. This does not establish involvement in later offences, but alongside attacks on anti-poaching infrastructure and reported explosives, warrants investigation.
+
+Authorities must examine whether poachers, smugglers or vested interests exploited the unrest to intimidate the staff and weaken enforcement.
+
+A critical line of defence
+
+Frontline forest personnel face wild-animal attacks, poachers, smugglers, and local and political pressures. In divisions bordering Tamil Nadu and Kerala, many hail from North Karnataka and serve far from their families. Inadequate housing, schooling, and modest pay and benefits compared with equivalent ranks elsewhere add to their challenges. Their morale is vital to wildlife protection.
+
+Forest Minister Ramalinga Reddy has rightly defended the department in the Assembly and in his responses to the media while making clear that established wrongdoing would invite action. He said the magisterial inquiry report would be submitted on August 22. Supporting personnel without shielding wrongdoing is the required balance.
+
+The inquiry must establish whether self-defence arose and scrutinise every shot; subsequent attacks require investigation for links with poaching, smuggling or vested interests. A petition on the incident, attacks on Forest Department infrastructure, and implications for wildlife protection and staff morale has been submitted to the Central Empowered Committee.
+
+If evidence establishes wrongdoing by forest personnel, let the law take its course. If they acted lawfully in legitimate self-defence, the state must stand by them with equal conviction. Laws and boundaries alone cannot protect a forest. Someone must walk into the darkness and enforce them. Hold that person accountable when the law is crossed – but do not condemn them before the truth is known. When those who guard the forest are demoralised into fearing their duty, the forest itself is left unguarded.
+
+(The writer is a wildlife conservationist)
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
+
+[Read full article](https://www.deccanherald.com/opinion/let-truth-protect-those-who-protect-our-forests-4119953)
+
+---
+
 ## 21 August 2026
+
+### Noise annoys: On noise and the Patna High Court order
+*The Hindu · Editorial*
+
+In a February 2025 hearing in the matter of Surendra Prasad vs State of Bihar, the Patna High Court acknowledged DJ trolleys and loudspeakers to be a major source of noise in Patna. After criticising the Bihar State Pollution Control Board (BSPCB) for failing to curb the menace, Justice Rajiv Roy directed the BSPCB to obtain reports from the police about permissions granted to operators of these noise sources and the action taken. In October, the police said they had seized equipment, levied fines, and so on over three months in Patna, Barh, and Fatuha but had taken no action in Masaurhi, a picture Justice Roy called “unbelievable” for suggesting that there were no noise violations there. In the course of these hearings, Justice Roy also summoned police officers and upbraided boilerplate affidavits, among others. The High Court’s August 14 order was a continuation of this escalation, culminating — for now — in Statewide directives on the emission of high-decibel noise. Effectively, the High Court’s actions illustrate how dismal enforcement has become despite the existence of comprehensive laws. Courts have repeatedly said that people have a right under Article 21 to be protected from unlawful noise. Today, with episodic enforcement having become endemic, the Patna High Court becoming a quasi-regulator is, at least as a stopgap measure, creditable.
+
+It is absurd to expect the public to complain about every DJ or horn before the police can respond. The High Court’s directions to the authorities to pursue routine rather than complaints-based enforcement and to have DJs, sound-system operators, and event halls register themselves with the subdivisional authorities are the sort of proactive enforcement that regulating noise pollution in particular warrants. In fact, the High Court’s order also touched on a practical, everyday understanding of how loud-noise violations occur when it directed loudspeakers to stop playing at 9.55 p.m., five minutes before the law’s 10 p.m. cut-off, effectively allowing time for operators to wind up rather than permit the deceptively innocuous practice of carrying on past 10 p.m. because “it is just a few minutes”. Loud noise is often produced by ordinary social events such as festivals, weddings, political campaigns, and religious events, and enforcing rules creates friction with people who believe they have a right to practise their culture as they deem fit. Also, governments have an incentive to tolerate, rather than antagonise, their constituents. At the same time, having operators register themselves so that officials can regulate all of them equally rather than sporadically can also eliminate selective interventions. In the final analysis, the success of the High Court’s latest order should be measured by whether the State develops a consistent habit of enforcement.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/noise-annoys-on-noise-and-the-patna-high-court-order/article71374274.ece)
+
+---
+
+### Saving faces: On protests, biometric surveillance
+*The Hindu · Editorial*
+
+India appears to be normalising the technical ability to subject political gatherings to searchable biometric surveillance without first having settled, through legislation and judicial oversight, the circumstances in which the state may lawfully do so. While the Delhi Police have continued to deny the use of excessive force and manhandling people involved in the Cockroach Janta Party protests, contrary to protestors’ testimonies, facial recognition equipment was present at the protest site while the demonstrations were on. According to its affidavit to the Supreme Court of India, the police deployed a facial recognition system (including Artificial Intelligence-enabled cameras to scan faces in real-time against a database), a mobile surveillance van and a command and control vehicle, smart spectacles for identifying individuals on the move, and drones and videographers; the van and the spectacles have been tied to private contractors. The police have also not addressed whether actual biometric processing occurred with every individual within the range of cameras. Even if the police discarded the images associated with infructuous checks, that the data may have been accessible to private contractors, whose terms of engagement are unclear, is worrisome. However, no statute governs the use of facial recognition systems; the Digital Personal Data Protection Act, whose data-processing obligations are not yet in force, still makes broad exemptions for state agencies. The Automated Facial Recognition System of the National Crime Records Bureau can be used to identify criminals, unidentified bodies, and so on, and the Criminal Procedure (Identification) Act 2022 expanded the set of records that the police may collect from specified persons. However, these actions are still only allowed vis-à-vis specific groups of people.
+
+Irrespective of the constitutional validity of the police’s actions, the chilling effect on potential participants may also curtail the right to protest. The state has to pass a well-established proportionality test when interfering with the right to privacy. While the first question — the existence of a legitimate objective — already poses important challenges to facial recognition en masse, the technology is indiscriminate at the point of capture. After all, there is a less restrictive but equally effective alternative (e.g., conventional policing). At this time, far too many questions are unanswered — including over the data-processing agreements, access, legal provisions that authorised major decisions, and the expected rate of false positives — for the use of facial recognition with all protesters to be justified.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/saving-faces-on-protests-biometric-surveillance/article71374244.ece)
+
+---
 
 ### Socialist surge: On the rise of democratic socialism in the U.S.
 *The Hindu · Editorial*
@@ -39,6 +271,39 @@ As per the Controller General of Accounts (CGA) data, the Centre’s gross tax r
 
 ---
 
+### Ensuring equity amid India’s educational progress
+*The Hindu · Opinion*
+
+The Unified District Information System for Education Plus (UDISE+) 2025-26 report highlights notable progress in India’s school education system, covering 1.47 million schools, 240 million students, and 10.2 million teachers. Progress has been recorded in gross enrolment, student retention, dropout reduction, teacher availability, and educational infrastructure. However, the report also shows that regional and social disparities persist in access, resources, learning opportunities, and educational outcomes. Disparities in gross enrolment ratios (GER), dropout rates, pupil-teacher ratios, and infrastructure availability across regions and social groups indicate the ongoing challenge of guaranteeing equitable, inclusive, and quality education in India.
+
+Regional and social imbalancesThe report confirms that significant variations exist across socioeconomic groups and geographic regions in terms of various indicators. The distribution of enrolled students shows that Andhra Pradesh leads in Aadhaar seeding (99.6%), followed by Chandigarh (99%), while Meghalaya records the lowest rate (35%), compared with the national average of 90.2%. Uttar Pradesh accounts for the highest share of schools and student enrolment, while Meghalaya and Himachal Pradesh have the lowest shares of schools relative to enrolment, indicating higher student-school ratios.
+
+At the school level, West Bengal has recorded the highest proportion of foundational and preparatory schools (79%) of total, and among the lowest secondary schools (11%); Chandigarh has the highest secondary schools (83%) and the lowest foundational and preparatory schools (5%) of total. The social composition of enrolled students shows significant variation across regions. Chandigarh and Delhi have the highest proportions of General category students, while Lakshadweep, Mizoram, Meghalaya, and Ladakh have high proportions of Schedule Tribe (ST) enrolment. Punjab records one of the highest shares of Scheduled Caste (SC) enrolment, whereas Other Backward Classes representation is particularly high in Tamil Nadu and Gujarat.
+
+At the national level, the GER has recorded highest for OBCs (49%), followed by General (27%), SCs (17%), and STs (10%). Thus, GER indicates large differences in school education enrolment in comparison to their corresponding population of each social group.
+
+The Gender Parity Index across all school levels shows higher girls’ enrolment and participation than boys across most of the States/Union Territories. The UDISE+ data show that students from minority communities account for more than 20% of enrolment, with Muslims and Parsis among the major minority groups. The average enrolment per school shows that Chandigarh registers the highest average enrolment per school (1,194), followed by Delhi (788); while Ladakh records the lowest average enrolment (64), indicating variation in the size of the schools across the country.
+
+The pupil-teacher ratio (PTR) is an important factor influencing students’ performance and achievement. The PTR varies highly, registering lowest in Union Territories and highest in densely populated States. A significant inter-State variation in PTR exists across pedagogical stages; i.e., foundational, preparatory, and middle PTRs are generally lower than secondary across most of the States. Jharkhand records the highest Secondary PTR (43), followed by Uttar Pradesh, signifying a heavy workload on teachers. On the other hand, Sikkim has the lowest secondary PTR (6), followed by Ladakh. The GER varies significantly at the levels of schools and regions across the country. Meghalaya records the highest Foundational GER (131), followed by Mizoram, while Bihar has the lowest GER (24), preceded by Uttar Pradesh. Meghalaya again records the highest Preparatory GER (171), followed by Manipur; whereas Gujarat has the lowest GER (74), preceded by Bihar. Chandigarh and Meghalaya record the highest Middle GER (118), followed by Delhi. On the contrary, Bihar has the lowest GER (70), preceded by Nagaland. Similarly, Chandigarh registers the highest Secondary GER (109), followed by Goa; while Bihar has the lowest GER (48), preceded by Nagaland.
+
+The dropout rate determines the attainment and transition rate to the next stage of schools. Bihar accounts for the highest preparatory dropout rate (7.9%), followed by Meghalaya. On the other hand, many States/Union Territories such as Delhi, Haryana and Maharashtra do not report dropout. Similarly, Bihar records the highest middle-level dropout rate (9%), followed by Uttar Pradesh. While several States/Union Territories such as Chandigarh, Maharashtra and Andhra Pradesh do not register dropouts at this stage, Ladakh records the highest secondary dropout rate (14.8%), followed by Karnataka. West Bengal has the lowest dropout rate (1.5%), preceded by Telangana.
+
+Persistent gapsGenerally, access to schooling has improved significantly over the years. Most children now have a school at a suitable distance, but regional differences continue. Remotely located places, hilly, tribal and border areas still have limited schools and transport facilities, where school-going children face greater difficulties in attending school regularly, such as in Bageshwar district of Uttarakhand, Ganjam and Kandhamal districts of Odisha, Kathua district of Jammu and Kashmir, and Palghar district of Maharashtra. Simultaneously, children from SCs, STs, minorities, and economically poor families have a greater likelihood to face different barriers that limit their enrolment, attendance, and completion of schooling.
+
+School infrastructure has improved in several areas of the country, i.e., access to drinking water and electricity. However, the availability of infrastructure varies regionally across the country. Educationally backward districts are still struggling to provide a learning environment in rural schools in comparison to urban areas.
+
+Teacher availability is a factor that significantly influences educational outcomes. The report shows that many States have recruited qualified teachers, while teacher shortages continue in several regions. Rural and remote schools often face a shortage of teachers performing multiple classes and subjects and many other non-teaching responsibilities allotted by the government. High student-teacher ratios reduce the individual attention students receive and adversely affect the learning process. Despite progress in girls’ schooling, challenges persist in reducing dropout rates, enhancing transition from primary to secondary education, and providing sufficient and suitable facilities for disabled children. Inclusive infrastructure, accessible classrooms, and supportive teaching practices are essential for equitable education.
+
+Targeted investment will helpThe UDISE+ 2025-26 report shows that educational inequality persists across accessibility, infrastructure, teacher availability, digital resources, and social inclusion. Addressing these dimensions collectively is essential for equitable educational development. In line with the National Education Policy (NEP) 2020, targeted investment in educationally deprived regions, improved digital infrastructure, adequate teacher deployment, and stronger support for disadvantaged groups can help bridge persistent gaps.
+
+Regional and social imbalances continue to influence educational opportunities and learning conditions. Reducing these disparities requires a balanced approach that collectively improves infrastructure, promotes equitable teacher deployment, strengthens inclusive social and economic policies, and provides dedicated support for disadvantaged social groups. A regionally and socially balanced approach that integrates educational quality, equity, and accessibility will help create a more inclusive education system, address the paradox of progress in India’s evolving school education landscape, and contribute to the country’s long-term social, economic, and regional development.
+
+Sahab Deen is a Project Scientist at the Remote Sensing Applications Centre, Lucknow, Uttar Pradesh. Navneet Sharma teaches Education at the Central University of Himachal Pradesh, Dharamshala
+
+[Read full article](https://www.thehindu.com/opinion/lead/ensuring-equity-amid-indias-educational-progress/article71374765.ece)
+
+---
+
 ### DC Edit | Gen Alpha Joins Gen Z In Questioning Policy Of Govt
 *Deccan Chronicle · Editorial*
 
@@ -68,6 +333,63 @@ An offshoot of the latest flare up over Kashmir may have led to tit-for-tat acti
 Pakistan would be well advised to look after the people of the territory it seized in what is now Pakistan-occupied Kashmir where the disquiet has led to frequent clashes and loss of lives of residents from excessive use of force and firing. Publicly hankering for Kashmir may suit its domestic politics, but the world tired long ago of listening to Pakistan’s untenable claims on parts of J&K.
 
 [Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-jk-us-envoy-states-the-obvious-1980909)
+
+---
+
+### Farrukh Dhondy | Nathan Cofnas, Race-realist Who Led Witch-hunt Against Jason Arday
+*Deccan Chronicle · Opinion*
+
+“Memory is blessed with all that time we spent
+
+The moments that inevitably went
+
+Into the past. Yes, Time rules all our lives
+
+It’s futile, even silly, to relent.
+
+The moving finger writes — you know the verse
+
+Time is a blessing — not ever a curse
+
+Though human frailty sometimes makes us wish
+
+We could induce Time to work in reverse.”
+
+— From Rubaiyat-e-RumbabaJason Arday took his own life in a London flat last week and this week 30,000 people gathered on the streets of London to hold a vigil in his memory and support his grieving friends and family.
+
+Who was Jason Arday? Why did he take his own life? Why did his suicide induce thousands to express their sympathy on London’s streets and on social media? Very many academics and the Prime Minister, Andy Burnham, expressed their sorrow and condolences.
+
+Jason was a 41-year-old professor of the sociology of education at Cambridge University. He was a fellow of Jesus College, Cambridge, having a doctorate in his subject from one of the Liverpool Universities and having taught at several universities before his appointment.
+
+Yes, people do kill themselves, but thousands don’t gather in vigils for their souls or memories. Neither do Prime Ministers and Chancellors of universities offer their sincere condolences.
+
+So what was so unusual about this suicide? The circumstances that brought it about?
+
+Jason Arday was black. So what? So he was, in his position, hounded because of it and the persecution became a nationally reported affair and led to his fatal despair.
+
+An unusual and monstrous manifestation of racism stepped out of the shadows. Yes, gentle reader, as an Indian ‘immigrant’ I’ve faced all manner of racist discrimination — if you can call being bombed out of your second floor flat by a fire bomb ‘racism’. Then there were other less life-threatening incidents — being turned away by landlords when attempting to rent a room; not being served in pubs; being beaten up by four thugs outside a club where I’d had a pleasant evening with four female, white colleagues…
+
+None of it led me to despair.
+
+So what happened to Jason? It started in July. An ex-academic of Cambridge University, one Nathan Cofnas, who labels himself a ‘race realist’, began the hounding of Jason by publicly accusing him of having constructed his doctorate thesis by plagiarising the work of other scholars. Cofnas alleged that large portions of Arday’s work had been lifted from the research and theses of previous sociologists.
+
+There followed demands for a detailed investigation into Jason Arday’s qualifications and claims of having lectured at other universities before being appointed to the Cambridge post.
+
+As his position and qualifications were questioned, there emerged a demand for an investigation into the academic process through which he was appointed as a professor. It is alleged that Arday achieved the elevation to his professorship through ‘concessional’ considerations.
+
+The ‘Master’ of Jesus College, Cambridge is, since 2019, a lady called Sonita Alleyne who is the first woman and the only black individual to hold that position. It is now alleged that she influenced Arday’s appointment.
+
+Jason Arday replied to the accusation of plagiarism by claiming that he was born autistic and only began to speak at the age of 11 and only learned to read and write at the age of 18. He said he might have, through a lapse of memory during his research, made the mistake of transcribing passages of the work of others or indeed learning from it and justifiably using its arguments.
+
+The central fact to emerge through this affair about plagiarism and false credentials, none of which has been subjected to proper independent scrutiny, is not to do with Arday, but rather to do with the stance and motives of Nathan Cofnas.
+
+Cofnas is an unabashed racist. He has made no secret of his view that black individuals “can only excel at sport and entertainment” and that their promotion through the ranks of Western meritocracy is either undeserved positive-discrimination or some corrupt practice. It’s a very peculiar opinion for a supposed ‘academic’ to hold. I have no access to Master Cofnas, but would like to ask him if his view applies to Asians and to Chinese? Does it apply to the black Nobel prize-winners? To Barack Obama, Nelson Mandela, James Baldwin… (forget it, I can’t be bothered to continue with an endless list!)
+
+What I will say is that in my short and happy life I have come across and befriended several black individuals whose intellect, writing and achievements are outstanding. A few of them were not, in simple terms, startling achievers, but their work and careers certainly intruded into and shaped chunks of history.
+
+C.L.R. James’ books are, to my mind, the best Marxist expositions of his and succeeding generations. Then my late friend Darcus Howe, born in Trinidad and; like myself, an ‘immigrant’ to Britain, contributed in the most distinctive and effective way to the integration and...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/farrukh-dhondy-nathan-cofnas-race-realist-who-led-witch-hunt-against-jason-arday-1981172)
 
 ---
 
