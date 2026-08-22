@@ -1,3 +1,105 @@
+## 22 August 2026
+
+### Marathi language mandate for cabs, autos is a wrong turn
+*Editorial · legal*
+
+By making employability conditional on linguistic assimilation, it ignores what makes cities like Mumbai work, and it undermines the constitutional guarantee of freedom of mobility
+
+[Read full article](https://indianexpress.com/article/opinion/editorials/marathi-language-mandate-for-cabs-autos-is-a-wrong-turn-10844125/)
+
+---
+
+### Vande Mataram debate won’t get us anywhere: Telangana Congress chief
+*Nikhila Henry · legal*
+
+“Irrespective of seniority or personality, if someone crosses the line, we will have to act,” says B Mahesh Kumar Goud on internal rifts in the state unit.
+
+[Read full article](https://indianexpress.com/article/political-pulse/b-mahesh-kumar-goud-telangana-congress-chief-b-mahesh-kumar-on-vande-mataram-row-cms-word-final-on-official-events-10844135/)
+
+---
+
+### On interest rates, Monetary Policy Committee can’t be both dovish and hawkish
+*Editorial · legal*
+
+Across the world, central banks are grappling with uncertainty over inflation and the course of monetary policy. By the time the MPC meets next in October, there should be more clarity on agriculture and the trajectory of inflation
+
+[Read full article](https://indianexpress.com/article/opinion/editorials/on-interest-rates-monetary-policy-committee-cant-be-both-dovish-and-hawkish-10844123/)
+
+---
+
+### A birthday wish with perfect timing: Why PM Modi’s greeting to Nirmala Sitharaman said a lot
+*Aanchal Magazine · legal*
+
+Amid talk of Cabinet reshuffle and government’s Gen Z outreach, a series of votes of confidence for Finance Minister
+
+[Read full article](https://indianexpress.com/article/political-pulse/a-birthday-wish-with-perfect-timing-why-pm-modis-greeting-to-nirmala-sitharaman-said-a-lot-10844137/)
+
+---
+
+### Cops recover headless body in pond. Find accused, missing head, and a chilling motive – 20 metres away
+*Sujit Bisoyi · legal*
+
+Police in Odisha's Balangir suspect the crime to be an attempt at human sacrifice carried out by the accused in a bid to get back his estranged wife
+
+[Read full article](https://indianexpress.com/article/india/headless-body-pond-accused-missing-head-chilling-motive-10844140/)
+
+---
+
+### SIR’s exclusion of citizens is made possible by the complicity of institutions
+*Suhas Palshikar · legal*
+
+When the exercise is complete, it may have created a multitude of SADs — Shifted, Absent, Duplicate — who are then pushed to the margins of formal existence, as their passports or claims to various welfare schemes may also be cast into doubt
+
+[Read full article](https://indianexpress.com/article/opinion/columns/sirs-exclusion-citizens-complicity-institutions-10844120/)
+
+---
+
+### Keep UPI free, and fund it from the savings it generates
+*RS Sharma · legal*
+
+That, not a Merchant Discount Rate, is the road to a truly cashless India
+
+[Read full article](https://indianexpress.com/article/opinion/columns/upi-payments-free-fund-savings-generates-10844124/)
+
+---
+
+### How to define ‘industry’ under labour law: Inside SC’s split verdict
+*Vineet Bhalla · legal*
+
+The expansive definition from 1978 will continue to apply to pending cases. It will have no bearing on the new Industrial Relations Code.
+
+[Read full article](https://indianexpress.com/article/explained/explained-law/supreme-court-industry-verdict-triple-test-labour-law-10844016/)
+
+---
+
+### A degree, and a testimonial written differently, for TISS graduate who died in Delhi fire
+*Pallavi Smart · legal*
+
+Shrutika Baranwal, 25, died days before joining a job secured through campus placement; her parents will collect her first-class TISS degree on Saturday
+
+[Read full article](https://indianexpress.com/article/cities/mumbai/shrutika-baranwal-tiss-graduate-delhi-fire-death-degree-testimonial-10844157/)
+
+---
+
+### 40 years ago, August 22, 1986: Revised pay scales
+*Editorial · legal*
+
+About 5 million central government employees will draw their salaries from October 1986 under the revised schedule announced by the Finance Minister.
+
+[Read full article](https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-august-22-1986-revised-pay-scales-10844121/)
+
+---
+
+### Budh Gochar Simha Rashi on August 22: Check Effects on All Zodiac Signs During Mercury Transit in Leo 2026
+*Nibandh Vinod · lifestyle*
+
+Mercury Transit 2026: Mercury enters Leo today, bringing a focus on communication, creativity and confidence. Here are six zodiac signs that may benefit from this transit.
+
+[Read full article](https://www.news18.com/astrology/horoscope/mercury-transit-in-leo-2026-budh-gochar-simha-rashi-august-22-effects-on-zodiac-signs-ws-e-10285636.html)
+
+
+---
+
 ## 21 August 2026
 
 ### BSE cleared as eligible exchange in FTSE Russell equity indices
