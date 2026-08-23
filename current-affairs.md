@@ -1,3 +1,380 @@
+## 23 August 2026
+
+### In their 60s, they found love. What they kept separate was their money
+*Lijee Philip · business*
+
+Theirs is a story that could have been a movie. With one crucial difference.
+
+Sameer Mukherjee and Ashish Agrawal had been friends since childhood in Kolkata. Their wives, Sheela Ghosh and Amruta Menon, were contemporaries, too-they went to the same school. And both were taught by Dominic Braganza, a violin teacher in the city. After marriage, the two couples settled down in the same neighbourhood. They shared the ordinary rhythms of family life-celebrating anniversaries, discussing household problems, meeting over meals and, eventually, watching their children grow up, get married and leave home. (The names of the couples have been changed, on request.)
+
+Their lives seemed to be completing an arc, together. They were even looking at senior living facilities. Then came the first tragedy. Amruta was diagnosed with late-stage cancer. Within months, she passed away.
+
+  
+
+Sheela and Sameer stood by Ashish through the loss. There was barely time for the grief to settle when tragedy struck a second time. Sameer died of a heart attack. The children of both families stayed with the parents for a while-until they had to return to their own lives.
+
+Sheela and Ashish became each other's refuge. They had dinner together every other day. In the background played Air on the G String, a piece that evoked old memories. Friendship slowly turned into companionship. Soon, they fell in love. Both were in their late 60s when they decided to live together. Ashish moved into Sheela's apartment, with the blessings of their children.
+
+It was, in many ways, a silver romance with the makings of a movie script, with one important deviation. They may have been moony-eyed about each other. But they are clear-eyed about money. They are living under the same roof but there is one thing they have not combined-their wealth.
+
+He pays for household expenses and consumables; she pays for maintenance of the house and the car. Assets accumulated in their previous marriages remain separate. Their children are supportive. They do not want their parents to be lonely nor are they demanding an early transfer of wealth.
+
+There is a reason why this arrangement works. By the time Sheela and Ashish found each other, they had built financial lives of their own.
+
+ET Bureau
+
+(Image has been edited using AI)
+
+Ashish was chief technology officer of an engineering firm in Kolkata, while his late wife Amruta had inherited considerable land in Kerala from her mother. She had sold several properties and accumulated substantial wealth. That money proved invaluable when Amruta needed emergency medical treatment overseas. After her death, her assets were bequeathed to Ashish.
+
+Sheela, who ran an NGO for underprivileged children, had her own financial history with Sameer, who was a finance head in a leading multinational company. Sameer was a prudent stock-market investor. And his investments were held in a family trust. After his death, Sheela continued as a trustee and a beneficiary along with their children.
+
+Sheela and Ashish did not rethink financial decisions or reallocate wealth made in their earlier marriages. They shared their lives without sharing their money.
+
+Their story frames a question that is becoming increasingly important for Indians in their 60s and 70s: what happens when you enter a relationship later in life, after families have formed expectations about inheritance?
+
+## **Ties and knots**
+
+Old age doesn't spell the end of romance.Some are dating, a few are choosing live-in relationships and others are remarrying. Matrimonial platforms are seeing growing demand from older people, while lawyers and estate planners are dealing with the complications that can follow a late relationship.
+
+Rajat Dutta, founder of Inheritance Needs Services, a Mumbai-based company that provides inheritance-
+
+It is not as easy as Sheela and Ashish would have you believe.
+
+In another family, children were happy when their widowed father found companionship. But they became apprehensive when the relationship became serious and the conversation stumbled on the family home.
+
+For the children, the house was more than an asset. It was where they grew up. It was a reminder of their mother. For the father, it was an asset he now solely owned and had every right to decide how to deal with.
+
+Nobody was fighting over money per se. The conflict was subtler: could a parent begin a new life without changing what the children believed were their inheritance rights?
+
+That is how late-life relationships collide with succession planning.
+
+## **It's complicated**
+
+Mumbai-based family and matrimonial lawyer Mrunalini Deshmukh says people are free to marry or not, but wealth needs to be dealt with consciously. "Where wealth is concerned, I would tell the person to ring-fence it by a will or a document akin to a prenuptial agreement," she says.
+
+The issue is complicated when children from an earlier marriage are involved. A new partner may have financial or legal rights depending on the nature and circumstances of the relationship, while children may worry that the new relationship could alter what they assumed would eventually be their inheritance.
+
+Deshmukh says children are often accepting of their parents' emotional needs and may even actively encourage a widowed parent to find a companion. What makes them uncomfortable is not the new partner, but uncertainty around wealth.
+
+In a case involving a wealthy man in his 60s, he had to document the eventual distribution of wealth in a will. His companion was provided with just 20% of his wealth, while 80% went to his children.
+
+Deshmukh says, in her experience, only about 10% of children are not interested in receiving any share of their parents' wealth. So the conversations around inheritance need to be clear.
+
+## **Honey & money**
+
+Increasing life expectancy and people staying active and working for longer than earlier generations did are making these conversations urgent as well. At 60, a person could expect more than a decade of active life, which involves travel, companionship, medical care, shared homes and changing financial needs.
+
+The shift is visible on matrimonial sites. Murugavel Janakiraman, chairman and MD of Matrimony.com, says people in their 60s and 70s are looking for companionship, not necessarily marriage, on the platform. "Recently, a mother-daughter duo registered on the platform. The mother, a widow in her 60s, was looking for a companion while the daughter, in her mid-20s, was looking for a spouse," he says.
+
+Janakiraman says the trend reflects a broader demographic shift: people are living longer while their children are increasingly settled in other cities or overseas.
+
+He saw it up close when a support manager in the organisation helped his father find a companion through the platform. Matrimony.com is now exploring whether services could be developed specifically for older age groups.
+
+While a second relationship is a new chapter, succession planning is the inevitable sequel. Dutta believes private family trusts can be appropriate if capital protection, income support and beneficiary needs have to coexist.
+
+He says Inheritance Needs has been addressing succession issues of people having Indian assets and live-in relationships with foreigners. He also notes a strange pattern recurring in families. Indian parents are willing to provide lifelong financial security for their child but can be reluctant to give the child's partner access to family wealth. The same reluctance is displayed by children when their parents remarry.
+
+Lawyers caution older couples to be practical when it comes to about what the current partner and children from a previous relationship should receive.
+
+Some couples will keep their finances entirely separate. Others will use wills, trusts and carefully structured arrangements to provide for both a new partner and children from an earlier life.
+
+When Ranu Sachdeva, a widow with two married daughters, decided to marry Paritosh Gajju, a doctor who had lost his wife and had three daughters living abroad, they decided to modify their individual wills. (Names have been changed to protect identity.) If one partner died first, the other would be provided adequately, but they minimised the intermingling of their core assets.
+
+The question is no longer whether people in their 60s and 70s can fall in love again. They do, happily. The harder question is whether a family can make room for that love without treating it as a threat to the wealth it expects to inherit.
+
+It was once a predictable script for most-marry, raise children, retire and grow old within the family-but now the final chapter is becoming less predictable.
+
+The challenge is not choosing between love and inheritance, but finding a way to protect both.
+
+---
+
+### Gautam Gambhir, Shubman Gill Refuse To Release India Reserves For Duleep Trophy: Report
+*Unknown · sports*
+
+The Indian team management has taken a strong decision ahead of the second Test against Sri Lanka, which begins on Sunday in Colombo.
+
+[Read full article](https://sports.ndtv.com/sri-lanka-vs-india-2026/gautam-gambhir-shubman-gill-refuse-to-release-india-reserves-for-duleep-trophy-report-11946435)
+
+---
+
+### How CJP turns up heat on Bengal BJP government: Schools to row over death of activist’s father
+*Ravik Bhattacharya · legal*
+
+CJP tries to enter Bengal's opposition space at a time when a depleted TMC is divided, and Congress and Left have a marginal presence
+
+[Read full article](https://indianexpress.com/article/political-pulse/how-cjp-turns-up-heat-on-bengal-bjp-government-schools-to-row-over-death-of-activists-father-10845385/)
+
+---
+
+### ‘Tremendous, largely untapped potential in India-Turkiye ties across every pillar’: Ali Murat Ersoy, Turkiye’s Ambassador to India
+*Divya A · legal*
+
+In the entire year, Turkiye recorded a little over 2 lakh Indian tourists. Ersoy says arrivals are gradually increasing and momentum continues to build. Edited excerpts:
+
+[Read full article](https://indianexpress.com/article/india/tremendous-largely-untapped-potential-in-india-turkiye-ties-across-every-pillar-ali-murat-ersoy-turkiyes-ambassador-to-india-10845418/)
+
+---
+
+### Imitation isn’t the sincerest form of flattery
+*Leher Kala · legal*
+
+ost-generative AI is so clever that plagiarism can no longer be reliably detected, as long as the user asks ChatGPT to paraphrase the content. If the Ardays’ of this world are allowed to flourish unheeded, the future means endless, tired regurgitations of stuff that already exists.
+
+[Read full article](https://indianexpress.com/article/opinion/columns/imitation-isnt-the-sincerest-form-of-flattery-10845494/)
+
+---
+
+### Unemployment is not about just education
+*Pulapre Balakrishnan · legal*
+
+Only when the employment crisis India faces today is understood can the necessary corrective action be taken. While India owes its youth the best education, public policy must aim to keep India’s aggregate demand for goods high.
+
+[Read full article](https://indianexpress.com/article/opinion/columns/unemployment-is-not-about-just-education-10845493/)
+
+---
+
+### Two dog food manufacturers recall products within days over metal and salmonella contamination risks: Everything pet owners need to know
+*Rana Sarkar · business*
+
+Two dog food manufacturers have issued product recalls in August following reports of contamination risks involving canned and raw dog food products. On August 21, 2026, Fromm Family Foods LLC recalled two varieties of its wet canned dog food because of potential metal contamination. The announcement came four days after Oma’s Pride recalled a lot of its raw canine food due to potential Salmonella contamination, with three dog illnesses reported in connection with the recall.
+
+## Fromm recalls canned dog food over potential metal contamination
+
+  
+
+Wisconsin-based Fromm Family Foods recalled 3,852 cases of Fromm Turkey Pâté Wet Dog Food and 1,973 cases of Fromm Diner Classics Milo’s Meatloaf Pâté Wet Dog Food on August 21.
+
+The recall was initiated after the company received complaints about metal contamination. Fromm said it had identified the error and implemented corrective measures alongside its existing safety processes.
+
+The recalled products were distributed through neighborhood pet stores and online outlets in the United States and Canada.
+
+The affected products are:
+
+  
+
+-   **Fromm Turkey Pâté Wet Dog Food** — 12.2-ounce can
+    
+    -   UPC: **072705118700**
+    -   Lot code: **EP2A3306 551006**
+    -   Best By: **032029**  
+        
+    
+      
+    
+-   **Fromm Diner Classics Milo’s Meatloaf Pâté Wet Dog Food** — 12.5-ounce can
+    -   UPC: **072705132324**
+    -   Lot code: **EP2A3306 551029**
+    -   Best By: **032029**
+
+Consumers have been advised to stop feeding the recalled products to their dogs and return them to the retailer.
+
+Metal fragments can pose serious risks if swallowed. Depending on their size and shape, they can cause injuries to the mouth and gastrointestinal tract, gastrointestinal upset, partial blockage or intestinal obstruction.
+
+Dogs that ingest metal may show symptoms including choking, vomiting, loss of appetite, lethargy or stomach discomfort. Owners whose dogs have consumed the recalled food and are showing symptoms should contact a veterinarian.
+
+Fromm said there have been no reported illnesses or injuries associated with the recalled products so far. The company said no other Fromm products are affected.
+
+## Oma’s Pride recalls raw dog food over Salmonella risk
+
+Four days earlier, on August 17, 2026, Oma’s Pride of Avon, Connecticut, recalled one lot of its Woof Complete Canine Chicken Recipe, a frozen raw dog food, after testing found Salmonella contamination. The recall involves 639 bags of the 6-pound product.
+
+The affected product is:
+
+-   **Woof Complete Canine Chicken Recipe, 6 lb bag**
+-   Lot: **BB012729**
+-   Manufacturing date: **January 27, 2026**
+-   Best-by date: **January 27, 2029**
+-   SKU: **F-WOOFC-6**
+-   UPC: **8 7938400145 9**
+-   Distribution dates: **February 12 to May 15, 2026**
+
+The recalled food was distributed to retail and wholesale accounts and directly to consumers in Arizona, California, Indiana, Kentucky, Louisiana, Maryland, New Jersey, Nevada, New York, Pennsylvania and Virginia.
+
+The product was sold frozen in a 6-pound gusseted stand-up pouch containing 12 individually wrapped, 8-ounce vacuum-sealed portions.
+
+Oma’s Pride said the recall began after the FDA received a consumer complaint and subsequently collected and tested a product sample that came back positive for Salmonella. The company said it is continuing to investigate the source and root cause of the contamination.
+
+The company said three illnesses in dogs have been reported in connection with the complaint.
+
+## Salmonella can affect dogs and people handling contaminated food
+
+Dogs that consume Salmonella-contaminated food may develop lethargy, diarrhea or bloody diarrhea, fever, vomiting, decreased appetite and abdominal pain. Some infected animals may show few or no symptoms while still carrying and potentially spreading the bacteria to other animals or people.
+
+The contamination also poses a risk to people who handle the affected pet food, particularly if they do not thoroughly wash their hands afterward or clean surfaces that came into contact with the product.
+
+Consumers who purchased the recalled Oma’s Pride lot have been advised to stop feeding it immediately, safely dispose of it and contact the company for a refund. They should also wash and sanitize pet food bowls, cups and storage containers and wash their hands after handling the recalled food or contaminated utensils.
+
+Oma’s Pride said no other products, sizes or lots are affected by its recall. Both recalls were conducted voluntarily in coordination with the US Food and Drug Administration, with the two companies citing different contamination concerns: potential metal fragments in Fromm's canned dog food and Salmonella in the recalled Oma’s Pride raw dog food.
+
+---
+
+### ED books Jammu and Kashmir Deputy CM’s brother in PMLA case
+*Express News Service · politics*
+
+The police officer, against whom the Anti-Corruption Bureau had earlier registered an FIR for allegedly amassing assets disproportionate to his known sources of income, is currently suspended. On Friday, the ED booked him for allegedly possessing several benami assets.
+
+[Read full article](https://indianexpress.com/article/india/ed-books-jammu-and-kashmir-deputy-cms-brother-in-pmla-case-10845512/)
+
+---
+
+### No bail to woman accused in 2019 Pulwama attack
+*Arun Sharma · politics*
+
+On the delay argument, the court noted that the trial was ongoing and witnesses were being examined, and that releasing Jan might allow her to influence key witnesses, thereby hampering the judicial process.
+
+[Read full article](https://indianexpress.com/article/india/no-bail-to-woman-accused-in-2019-pulwama-attack-10845415/)
+
+---
+
+### Sumit Sarkar (1939-2026): Historian, constant rebel whose work reshapes the future
+*© The Indian Express Pvt Ltd Make Us Preferred Source · legal*
+
+A historian’s death is a different kind of leaving. He does not leave behind just a body of work, but also a work unfinished, one that the next generation must walk into archive rooms to complete.
+
+[Read full article](https://indianexpress.com/article/opinion/columns/sumit-sarkar-1939-2026-historian-constant-rebel-whose-work-reshapes-the-future-10845489/)
+
+---
+
+### In Surat weaving hub, factories to stay shut 2 days a week
+*Kamal Saiyed · legal*
+
+There are over 800 weaving factories (around 30,000 powerloom machines) in the Unn area in Surat that manufacture textile grey cloth made from polyester yarn, which has seen a major price rise amid the Iran-US-Israel conflict
+
+[Read full article](https://indianexpress.com/article/cities/ahmedabad/in-surat-weaving-hub-factories-to-stay-shut-2-days-a-week-10845502/)
+
+---
+
+### At centre of NEET leak, Maharashtra drafts law to rein in coaching centres
+*Pallavi Smart · legal*
+
+Draft Bill bans Integrated coaching or 'dummy schools', covers all centres with 25-plus students
+
+[Read full article](https://indianexpress.com/article/cities/mumbai/at-centre-of-neet-leak-maharashtra-drafts-law-to-rein-in-coaching-centres-10845419/)
+
+---
+
+### Gaza ceasefire hangs in the balance as Israeli strikes fuel fresh uncertainty
+*SECTIONS Gaza ceasefire hangs · business*
+
+DEIR AL-BALAH, Gaza Strip: Deadly airstrikes in Gaza on Wednesday cast more doubt on whether new U.S. efforts can advance a tenuous ceasefire in the Palestinian territory.
+
+Just two days after U.S. negotiators reportedly asked Israel to draw down attacks in the Gaza Strip, at least 10 people were killed Wednesday in two strikes, according to local hospitals and the Palestinian Red Crescent. Israeli troops also crossed the ceasefire line in southern Gaza and detained a Hamas police colonel at dawn Wednesday, two witnesses and a Hamas official said.
+
+  
+
+Israel's military said one of the strikes on Wednesday, in the area of Nuseirat refugee camp, struck a Hamas commander who had participated in the Hamas-led attack in southern Israel on Oct. 7, 2023, in which 1,200 people, mostly civilians, were killed and 251 abducted. A second strike in the Tuffah area of Gaza City struck four Hamas militants gathering in a police station, the military said, claiming they were planning to carry out attacks against Israeli troops.
+
+Israel's military said a strike the day before targeted a meeting of four Hamas commanders and additional militants.
+
+The commanders killed included Muhammad Hamdi Ahmad Al-Masri, Muhammad Attar and Muhammad Fathi Hussein Nasser, all accused of carrying out terrorist attacks against Israeli troops, and Samed Samir Harb Abu Habal, who infiltrated Israeli territory during the Oct. 7, 2023, Hamas attack, according to a statement from Israel's military.
+
+The Hamas-run Interior Ministry said the Wednesday Gaza City strike on the police station killed eight police officers and a 13-year-old girl. Two officers were women, it said. One person was killed in Nuseirat. On Tuesday evening, an Israeli strike on a busy seaside cafe killed seven Palestinians, including a child, according to Gaza's Health Ministry.
+
+Jared Kushner, a U.S. negotiator and President Donald Trump's son-in-law, held a marathon meeting with Israeli Prime Minister Benjamin Netanyahu on Monday, in which he asked Israel's leader to draw down attacks on Gaza, a person familiar with the meeting said. The person spoke on condition of anonymity because they weren't authorized to brief journalists.
+
+Also on Wednesday, Israel's military said it had completed reviews of 150 incidents of troop conduct during the war in Gaza and would launch criminal investigations into the 2024 killings of a 5-year-old girl and her family, as well as of 15 Palestinian paramedics in 2025.
+
+## At least 17 killed in Israeli strikes
+
+The deadly strikes in Gaza on Tuesday and Wednesday exacted more casualties even as a ceasefire that's been in place since October has significantly diminished the fighting in the tiny enclave where more than 2 million Palestinians live. Since the ceasefire, Israeli strikes have killed at least 1,273 people, according to health officials in Gaza.
+
+The nearly three-year Israel-Hamas war has killed more than 73,400 Palestinians, according to Gaza's Health Ministry. The ministry, part of the Hamas-run government, maintains detailed records viewed as generally reliable by U.N. agencies and international organizations. It doesn't distinguish between civilians and militants, but says women and children make up around half of the toll.
+
+In the early hours of Wednesday, at least 15 Israeli troops entered the Muwasi coastal area, west of the city of Khan Younis, two residents and a Hamas official said.
+
+Accompanied by armed men, the troops stormed the tent of Sabri Abdel-All, a colonel for the Hamas-led Blue Police in Khan Younis. They also detained another resident identified as Nashat Ezzat Zaarab, they said.
+
+The two residents and the Hamas official spoke on condition of anonymity for their safety.
+
+## Latest ceasefire negotiations offer few concrete commitments
+
+On the diplomatic front, the ceasefire also appears stalled. Trump's initial ceasefire plan laid out a broad vision for ending Hamas' rule in Gaza and rebuilding the territory, much of which was reduced to rubble during the war.
+
+But since last fall, major sticking points have emerged on the conditions of Hamas' disarmament and Israel's withdrawal - and which should come first.
+
+Earlier this month, Trump announced that Hamas had agreed to disarm. But Hamas said it would begin to disarm if Israel halts strikes and withdraws, adding that laying down its heavy weapons would come later and be contingent on the creation of a Palestinian state - something Israel's government rejects.
+
+Netanyahu also pushed back on the deal, saying Israel won't withdraw from its current lines in Gaza until Hamas has completely disarmed.
+
+After Wednesday's strikes, Hamas spokesperson Hazem Qassem lashed out at the Board of Peace - the body Trump established to oversee the ceasefire - saying it has provided a "cover" for Israel to escalate its attacks in Gaza instead of pressuring it to abide by the ceasefire agreement.
+
+---
+
+### Goa court discharges man accused of rape — ‘Law does not recognise marital rape’
+*Pavneet Singh Chadha · politics*
+
+The victim alleged that the accused had forcible sexual intercourse with her, and despite this, she decided to go ahead with the civil marriage, which took place on August 7, 2024.
+
+[Read full article](https://indianexpress.com/article/india/goa-court-discharges-man-accused-of-rape-law-does-not-recognise-marital-rape-10845495/)
+
+---
+
+### BJP to Yogi Adityanath, how new UP faces in Nitin Nabin team chart 2027 plan
+*Lalmani Verma · legal*
+
+A BJP insider says with these appointments the party leadership has sought to dismiss allegations like those made by SP chief Akhilesh Yadav that “engines of BJP’s double-engine government are colliding with each other in UP”
+
+[Read full article](https://indianexpress.com/article/political-pulse/bjp-to-yogi-adityanath-how-new-up-faces-in-nitin-nabin-team-chart-2027-plan-10845366/)
+
+---
+
+### One Nation One Election | On NDA table: Joint polls for 22 states/UTs with Lok Sabha 2029
+*Damini Nath · legal*
+
+Current Bills’ timeline is 2034; House panel chief says: It’s for NDA Chief Ministers to decide
+
+[Read full article](https://indianexpress.com/article/political-pulse/one-nation-one-election-on-nda-table-joint-polls-for-22-states-uts-with-lok-sabha-2029-10845384/)
+
+---
+
+### Israel says it has ‘no interest’ in escalation with Turkiye over Syria strike
+*SECTIONS Israel says it has · business*
+
+Jerusalem: Israeli Foreign Minister Gideon Saar has said Israel has "no interest" in escalating tensions with Turkiye amid a dispute over last week's Israeli strike on Syria's Abu al-Duhur military airbase, Al Jazeera reported.
+
+"We are committed to preserving the status quo," Saar said, adding that Israel prefers a diplomatic solution.
+
+  
+
+The Israeli Foreign Minister, however, stressed that Israel would not accept the establishment of Turkish bases in Syria, according to Al Jazeera.
+
+The remarks came after Israel carried out airstrikes on the Abu al-Duhur military airport in Syria's eastern Idlib province, citing intelligence that suggested Turkiye was planning activities at the facility that could threaten Israeli security.
+
+Israeli Defence Minister Israel Katz on Saturday said the military had recommended targeting the Syrian airbase several times based on intelligence regarding alleged Turkish plans to deploy forces there.
+
+"The IDF recommended several times carrying out the strike on the Abu Duhur airport in Syria in light of the clear intelligence received regarding Turkey's intentions to carry out activities there that would endanger the security of the State of Israel," Katz said, according to The Times of Israel.
+
+Katz said consultations were held with Prime Minister Benjamin Netanyahu and military leadership before the operation was approved. He added that a direct warning was issued to the Syrian government at the highest levels in an attempt to prevent the move, but it went unanswered.
+
+He said Israeli and US officials were briefed on the intelligence before the strike was carried out.
+
+Earlier, Israeli Ambassador to the United States Yechiel Leiter said Israel had received intelligence indicating that Turkiye intended to significantly expand its military presence in Syria, describing the move as crossing a "red line", The Jerusalem Post reported.
+
+"Those who needed to be exposed to the intelligence received it. Those who needed to know what was coming knew. We made clear that this was a violation of our understandings and that is why Israel acted as it did," Leiter said.
+
+Israeli Prime Minister Benjamin Netanyahu had also said Israel sent a "clear message" to Turkiye over alleged plans to establish a military foothold in Syria, warning that Israel would not tolerate Turkish military presence moving south.
+
+However, Turkiye has rejected Israel's claims. According to Al Jazeera, the Turkish Defence Ministry said no Turkish military delegation was present at the Abu al-Duhur airbase before or during the Israeli attack.
+
+Syrian authorities also denied reports of plans to establish a permanent Turkish military base at the facility, though they acknowledged that Turkish officers had previously visited the airbase as part of military cooperation involving training and exchange of expertise.
+
+Meanwhile, Israeli Defence Forces announced another operation in southern Syria, saying it had fired at a person described as a "terrorist" who was allegedly in the final stages of preparing attacks.
+
+"The IDF will continue to operate in order to remove any threat to IDF soldiers and Israeli civilians," the force said.
+
+---
+
+### Tavleen Singh writes: Am I a Naxal?
+*Tavleen Singh · legal*
+
+With ideas that are so far from being leftist, why do I fear that I might end up in the ‘dimagi Naxal’ category? Well, because I oppose many of the policies that the Modi government has chosen to follow. I agree with the Cockroach Janta Party’s campaign to improve village schools.
+
+[Read full article](https://indianexpress.com/article/opinion/columns/tavleen-singh-writes-am-i-a-naxal-10845478/)
+
+
+---
+
 ## 22 August 2026
 
 ### Marathi language mandate for cabs, autos is a wrong turn
