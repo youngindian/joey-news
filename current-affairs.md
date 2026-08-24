@@ -1,3 +1,228 @@
+## 24 August 2026
+
+### Aasha Singh Jaiswal cause of death: Veteran actress, known for mimicry and Mahabharat role, dies in Mumbai
+*Unknown · business*
+
+Veteran actress and mimicry artist Aasha Singh Jaiswal has died in Mumbai. The actress, who was known for her work in films and television, passed away on August 22 at the age of 7:30 pm, according to her son Akkash Bharadwaj. Her death was confirmed by Akkash, who told ANI that his mother breathed her last in Mumbai. Her passing has left her family and those who knew her work mourning her loss.
+
+Aasha Singh Jaiswal was also remembered for her mimicry performances and her association with popular television. According to reports, she appeared in BR Chopra’s iconic television series Mahabharat, where she played Kripi, the sister of Kripacharya. While details about the cause of her death have not been made public, her family has confirmed the news of her passing.
+
+  
+
+## Aasha Singh Jaiswal dies in Mumbai
+
+Speaking to ANI, Akkash Bharadwaj said that Aasha died on the evening of August 22 at around 7:30 pm in Mumbai. He added that the family carried out her last rites the following morning.
+
+  
+
+Aasha’s final rites were held on August 23 at the Pawan Hans Crematorium in Vile Parle West, Mumbai. The family bid farewell to the veteran artiste, who spent years working across films and television.
+
+The family has not shared any further details about the circumstances surrounding her death. As of now, there is no confirmed information about the cause of death.
+
+## Son Akkash Bharadwaj remembers his mother
+
+Following her death, Akkash paid an emotional tribute to his mother on Instagram. Remembering her dedication, he described Aasha as a hardworking “Iron Lady” and asked people to pray for peace and salvation for her soul.
+
+He wrote, "Wah ek karmath Loh-Mahila (Iron Lady) thi. Aap sabhi unki aatma ki sadgati evam shanti ke liye prarthna karen. Aur unke kaam ko social media par zarur dekhen aur yaad rakhen taaki unki aatma jahan bhi hon prasanchitt ho ki aap unka kaam ab bhi dekh aur yaad kar rahen hain (She was a hardworking Iron Lady. Please pray for the peace and salvation of her soul. Do watch and remember her work on social media so that her soul, wherever it may be, feels pleased knowing that you still watch and remember her work)"
+
+In his message, Akkash also opened up about how deeply Aasha was connected to her profession. He said that her work had been central to her life and expressed hope that her dedication would continue to be remembered even after her death.
+
+Akkash further shared his mother’s outlook towards death, asking people not to look at it only through grief. Instead, he recalled her belief in finding spiritual peace and divine bliss.
+
+## Aasha Singh Jaiswal’s work in films and television
+
+Aasha Singh Jaiswal was known for her work as an actress as well as a mimicry artist. Over the years, she became associated with both television and films and was recognised for her ability to entertain audiences through her performances.
+
+According to TOI report, one of the notable credits linked to her is BR Chopra’s Mahabharat, one of the most popular television adaptations of the Indian epic. Reports state that Aasha played Kripi, who is known in the epic as the sister of Kripacharya.
+
+Her work in television and mimicry became an important part of her artistic identity. While she may be best remembered by viewers for her performances on screen, her son’s tribute shared another side of her legacy, her strong commitment to her craft.
+
+---
+
+### US announces ‘economic D-Day’ against Iran as Tehran vows sanctions will fail
+*India Today World Desk · world*
+
+US Treasury Secretary Scott Bessent has announced plans for what he described as the “single greatest financial offensive ever marshalled against an adversary”, as the Trump administration prepares to impose sweeping new sanctions on Iran.
+
+In a post on X, Bessent said US President Donald Trump had dismantled Iran’s military capabilities, destroyed nearly 100 percent of its military factories and “buried its nuclear program”. He said the United States was now entering the “endgame” in its confrontation with Tehran.
+
+“At dawn begins an economic D-Day,” Bessent said, warning that Washington would use every available agency, authority and measure to sever the economic lifelines sustaining the Iranian regime.
+
+US Treasury Secretary Scott Bessent on X
+
+Bessent accused Tehran of using security guarantees as a form of extortion and said the Trump administration had ended an era in which Iranian retaliation was considered certain while US enforcement was viewed as negotiable.
+
+### BESSENT WARNS OF TOUGHEST SANCTIONS
+
+Bessent is scheduled to hold a press conference at 2 pm EDT on Monday, where he is expected to outline the new measures. He has previously warned that Washington could impose the “toughest sanctions in history” on Iran.
+
+Trump has also warned countries against providing “any type of lifeline to Iran”, signalling that Washington could target nations and entities that continue economic ties with Tehran.
+
+Bessent has specifically urged China to cooperate with Washington. China remains a major buyer of Iranian oil, purchasing more than 80 percent of Iran’s shipped oil, according to 2025 data from analytics firm Kpler.
+
+### IRAN DISMISSES US SANCTIONS THREAT
+
+Iranian Foreign Minister Abbas Araqchi rejected the threat of fresh US sanctions, describing the expected measures as evidence of Washington’s desperation.
+
+In a video posted on Telegram, Araqchi said the United States had shifted from military operations to what he described as “the same old plans”.
+
+“The fact that they have moved on from military operations ... to bring up the same old plans shows that they are desperate,” he said.
+
+Araqchi called on Washington to engage with Tehran respectfully and pursue what he described as a solution based on “justice and honour”.
+
+He also insisted that previous US military and economic measures had failed and predicted that the new sanctions would meet the same fate.
+
+“We have never been afraid,” Araqchi said, adding that blockades and other military actions had failed and that the latest US initiative would fail as well.
+
+### HORMUZ CRISIS ADDS PRESSURE
+
+The escalation comes as the Strait of Hormuz remains at the centre of the wider confrontation. Iran has brought shipping through the strategic waterway to a virtual standstill, refusing to allow unauthorised oil tankers to transit the route, which is crucial to global energy supplies.
+
+The effective blockade has disrupted oil shipments and pushed global crude prices higher, adding to pressure on international markets.
+
+With Washington preparing its most aggressive economic measures yet and Tehran refusing to back down, the latest escalation threatens to deepen the confrontation between the two countries and further disrupt global energy supplies.
+
+\- Ends
+
+Zafar Zaidi
+
+Aug 24, 2026 07:05 IST
+
+---
+
+### Who is Shelley Fabares? Singer and actor dies at 82; here’s what we know about her cause of death and past health issues
+*Divyadeep Singh · world*
+
+Actress Shelley Fabares, a fixture on television for decades, from her breakout role as a teenager on The Donna Reed Show through One Day at a Time and Coach, died on Saturday, August 22, 2026, in Los Angeles, her family said in a statement to The Associated Press. She was 82. The family did not provide a cause of death, which remained unknown at the time of reporting.
+
+“To her family and friends, Shelley was a source of love, strength, laughter, and comfort,” her family wrote. “She had a remarkable ability to make people feel welcomed, valued, and cared for.” Born in Santa Monica, California, in 1944, Fabares started acting as a young child.
+
+  
+  
+
+## Inside Shelley Fabares’ decades-long acting career
+
+Shelley Fabares’s first television credit came at age 10 when she appeared on “The Loretta Young Show.” Many movies and television shows followed: She acted with Paul Newman, Frank Sinatra and Eva Marie Saint in a Producers Showcase production of “Our Town”; was in the Rosalind Russell movie “The Girl Rush” and the Rock Hudson drama “Never Say Goodbye.”
+
+Other early credits include “Annette,” “Captain Midnight” and the “Black Leather Jackets” episode of “The Twilight Zone.” Her biggest break came when she was cast as Mary Stone on “The Donna Reed Show,” where she was a regular from 1958 through 1963. During that time she also got a recording contract and had two Top 40 hits including “Johnny Angel.” In the early 1960s, she also co-starred in three movies with Elvis Presley: “Girl Happy,” “Spinout” and “Clambake.”
+
+“I think the years on ‘The Donna Reed Show,’ the years from 14 to 19, were so incredibly important,” Fabares told the Los Angeles Times in 1993, as quoted by AP. “Donna Reed was simply an extraordinary woman, a woman of great strength, kindness, integrity and compassion. I am not trying to make her sound like a saint, but she had the most profound influence on me. I carry her with me today.”
+
+In the late 1970s, Fabares made an impression as Francine Webster on the CBS sitcom “One Day at a Time.” She also played James Caan’s wife in “Brian’s Song.” One of her biggest roles came when she was cast as Christine Armstrong in “Coach,” although the show took a minute to find its audience.
+
+“I did always feel from the very beginning if they could find the right spot for us, this was a show that would last,” she said in the 1993 Los Angeles Times interview.
+
+### Shelley Fabares married twice, faced health issues
+
+Fabares married twice, first to producer Lou Adler in 1964. She had been married to “M-A-S-H” actor Mike Farrell since 1984. She was also a devoted advocate for Alzheimer’s awareness, which affected her mother. In early 1999, a visit to the emergency room for an esophageal bleed revealed that she had progressive liver failure. After spending 22 months on a waiting list, she had liver transplant surgery in October 2000.
+
+In an interview with Cedars-Sinai Medical Center in Los Angeles three years after the transplant, she said she'd been “changed by the experience” and was eternally grateful to Farrell who was with her “every step of the way.”
+
+Her family, in their statement, said “we will remember Shelley for her kindness, loyalty, wit, courage, and beautiful spirit. We will miss her deeply — not only as a celebrated performer, but as the loving and extraordinary person she was in our everyday lives.”
+
+---
+
+### Gangster Goldy Brar claims role in NIA-designated terrorist Hardeep Singh Nijjar's killing in purported audio
+*Unknown · world*
+
+Ottawa: Three years after NIA designated terrorist Hardeep Singh Nijjar was killed in Canada, Gangster Goldy Brar has claimed that he and his gang had a hand in the killing.
+
+The Audio files which were reportedly part of the anti-gang Operation Hardball and were released on social media by Canada-based commentator and journalist Ruchi Wali. In the purported audio tape Satinderjeet Singh alias Goldy Brar, who has links to the Lawrence Bishnoi gang, allegedly claims responsibility for the killing of Nijjar.
+
+According to the purported audio tapes, Brar is heard claiming, "I am not a coward like Lawrence Bishnoi (Balkaran Brar). I own up to my role (of getting Nijjar killed). He (Bishnoi) did convince me to take this step (Killing of Nijjar)."
+
+  
+
+Brar is further heard saying, "People who engaged & encouraged youth (16-17 yrs old) to sell drugs. People who blackmailed youth to sell drugs & become a snitch. Nijjar supported & strengthened people who would use youth to sell drugs, so that he (Nijjar) could use such people as needed."
+
+"So we (Goldy Brar & team) had to kill Nijjar (because they were using youth to sell drugs). Everyone has to bear the consequences of their action. Everyone has to bear the consequences of their action," Brar is quoted as saying again," he adds in the purported audio.
+
+The authenticity of the purported audio recordings and the claims made in them have not been independently verified.
+
+Earlier in July, following a major international law enforcement crackdown codenamed "Operation Hard Ball", the Federal Bureau of Investigation (FBI) said that Satinderjeet Singh (Goldy Brar) was wanted for his alleged involvement in the Lawrence Bishnoi Organized Crime Group which is allegedly engaged in a variety of violent acts in Southern California, and across the United States and Canada.
+
+The FBI said that these acts include assassinations of political and religious figures, shootings, murders, kidnappings, extortions, assaults, and the trafficking of narcotics and weapons. According to the FBI, Singh is based in the United States and is the alleged leader of the Group in North America.
+
+On July 1, 2026, a federal arrest warrant was issued for Singh in the United States District Court, Central District of California, Los Angeles, California, after he was charged with Racketeer Influenced and Corrupt Organizations Conspiracy; Conspiracy to Interfere and Attempted Interference with Commerce by Extortion; and Conspiracy to Distribute and Possess with Intent to Distribute Controlled Substances.
+
+The Killing of Nijjar had become a flash point between India and Canada with the then Canadiam PM Justin Trudeau linking it to the Indian government, a charge that India vehmently denied. Later the RCMP commissioner had denied those links and had blamed gang members linked to Lawren Bishnoi to the killing.
+
+---
+
+### 40 years ago August 24, 1986: Clash at phone exchange
+*Editorial · legal*
+
+This is the front page of The Indian Express published on August 24, 1986.
+
+[Read full article](https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-august-24-1986-clash-at-phone-exchange-10846500/)
+
+---
+
+### Fly Like An Eagle – Second Wave of Natural Gas Pipelines Has the Permian Cleared for Takeoff
+*Unknown · commodity, natural-gas*
+
+The Permian Basin is poised to gain new natural gas pipelines and projects over the next year or two, finally easing its long-standing takeaway ...
+
+[Read full article](https://rbnenergy.com/daily-posts/blog/second-wave-natural-gas-pipelines-has-permian-cleared-takeoff)
+
+---
+
+### Hawk Fire near Reno forces 42,000 to evacuate as wildfire rapidly spreads in US' Nevada
+*SECTIONS Hawk Fire near Reno forces · world*
+
+Los Angeles: Officials in Nevada in the western United States urged people to evacuate their homes Sunday as a fast-moving, wind-driven wildfire bore down on the city of Reno.
+
+Some 42,000 people have evacuated their homes and another 45,000 have been told to get ready leave, Reno Mayor Hillary Schieve told CNN.
+
+The one-day-old Hawk Fire had grown to 15,040 acres (6,087 hectares) by Sunday afternoon and was burning five miles (8 km) northwest of Reno, a metropolitan area of over 280,000 people, according to census data from 2025.
+
+  
+
+The blaze has already destroyed some mountaintop homes and injured six people, including three first responders, local media reports said.
+
+The Hawk Fire showed "extreme fire behavior," according to InciWeb, a US government website that tracks fire activity.
+
+Pictures posted on X by the local fire service showed flames and towering smoke clouds atop mountains that overlook the city.
+
+Governor Joe Lombardo declared a state of emergency in Washoe County, where Reno is located.
+
+The Hawk Fire "is spreading quickly and threatening homes and structures," his order said.
+
+Reno is located in northwestern Nevada near the border with California and the tourist area of Lake Tahoe in the Sierra Nevada mountains.
+
+Local fire chief Richard Edwards urged people to be ready to evacuate immediately when told to do so, or even sooner.
+
+"The Hawk Fire is a very dynamic incident for us as it's being driven by the winds. The wind-driven fires move very rapidly into our residential areas," he warned.
+
+---
+
+### Who is Ashton Jeanty? Raiders' running back leaves Sunday's practice after scary injury - What we know so far
+*Mukesh Thapliyal · business*
+
+Las Vegas Raiders running back Ashton Jeanty suffered an apparent right leg injury during Sunday’s practice in Henderson, Nevada. Jeanty went down awkwardly while diving for an underthrown pass from quarterback Kirk Cousins and remained on the ground before trainers helped him off the field. He was unable to put weight on his right leg as he left the practice area. The team has not yet provided details about the severity of the injury or a potential recovery timeline.
+
+Former Boise State standout Jeanty was selected No. 6 overall in the 2025 NFL Draft. The 22-year-old made an immediate impact as a rookie, starting all 17 games and rushing for 975 yards and five touchdowns while adding 346 receiving yards and five receiving touchdowns. The Raiders expected Ashton Jeanty to play a major role in his second NFL season as first-year head coach Klint Kubiak looks to build a run-focused offense.
+
+Rookie running back Mike Washington Jr. stepped in to handle the remaining first-team snaps after Jeanty left practice, reported ESPN. Washington has impressed throughout training camp and had already been sharing first-team opportunities with Jeanty before Sunday’s setback. His strong performances have positioned him as a potential option for a larger role if Jeanty is forced to miss time.
+
+  
+
+Jeanty appeared in Las Vegas’ preseason opener against the Arizona Cardinals but, along with other projected starters, sat out Thursday’s win over the Houston Texans.
+
+If Jeanty misses time because of his apparent knee injury, the Raiders could rely more heavily on rookie Mike Washington Jr., who took first-team reps after Jeanty left Sunday’s practice. Other running back options include Dylan Laube, undrafted rookie Roman Hemby and Dare Ogunbowale.
+
+---
+
+### The making of the Republic of Abuse
+*Sagarika Ghose · legal*
+
+The Modi regime’s mantra is: My abuse is free expression, but your dissent is a threat to the nation.
+
+[Read full article](https://indianexpress.com/article/opinion/columns/the-making-of-the-republic-of-abuse-10846507/)
+
+
+---
+
 ## 23 August 2026
 
 ### In their 60s, they found love. What they kept separate was their money
