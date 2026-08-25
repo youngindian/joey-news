@@ -1,3 +1,577 @@
+## 25 August 2026
+
+### 'Where's the apology?' Gurugram's Paul outlet faces flak over worm in sandwich
+*India Today News Desk · general*
+
+PAUL India has faced a barrage of criticism on social media after a customer claimed he found a live worm inside a sandwich at its One Horizon Centre outlet in Gurugram, with several users questioning why the company had not publicly apologised.
+
+In a statement on Monday, the French bakery and restaurant chain said it took food safety, hygiene and quality standards "extremely seriously" and that the incident did not reflect its standards. However, its statement did not include an apology, drawing further criticism online.
+
+"We at PAUL India take food safety, hygiene and quality standards extremely seriously. The matter reported at our One Horizon, Gurugram outlet does not reflect the standards we strive to uphold," the company said.
+
+"PAUL India maintains rigorous food safety, hygiene and compliance standards. We remain committed to upholding the highest standards and ensuring the best possible experience for all our customers," it added.
+
+Many social media users lashed out at PAUL and demanded it to apologise and take accountability for the incident.
+
+"Where is the apology? Seems you guys are defensive," one user wrote.
+
+"But still no apology!!" another commented.
+
+"What's the purpose of this post? No apology? No accountability?" a third user asked.
+
+"No apology?!" another user wrote.
+
+Others wrote, "No regrets. No sorry. Have some shame" and "Apologise at least?"
+
+Some users also questioned PAUL's food safety practices. One comment said that in such a case, the licence of those who failed to follow food safety standards should be cancelled.
+
+Another user claimed the chain's food quality had deteriorated, writing, "Your food standards are terrible. From your breads to your meats, everything tastes off now. Have stopped eating at your outlets or ordering from you guys."
+
+### LIVE WORM FOUND INSIDE SANDWICH
+
+PAUL's statement came days after a video surfaced on social media showing a white-coloured worm crawling inside a sandwich served at its Gurugram outlet. The footage showed people at the table appearing shocked after discovering the insect.
+
+According to customer Sulabh Mathur who posted the video on Instagram, he visited PAUL at One Horizon Centre with his friends around 11 am on Friday (August 21) for breakfast. The group had ordered six to seven dishes, and Mathur said he had eaten around half of a sandwich when he noticed a live worm moving inside the bread.
+
+He filmed the worm and shared the video on social media, where it quickly gained attention.
+
+"Extremely disturbing and concerning. Food hygiene compromised. Customers, please be careful and vigilant about what you’re being served," Mathur wrote on Instagram.
+
+After the video gained attention, representatives of PAUL reportedly contacted Mathur through calls and messages and privately apologised for the incident. The restaurant management described the incident as unfortunate and said customer safety and trust were its priorities. PAUL also said it was conducting an internal investigation.
+
+(Credits: Instagram/Sulabh Mathur)
+
+However, Mathur criticised the response from the restaurant authorities. He shared a screenshot of the communication from PAUL on social media and accused the restaurant of trying to address the incident with what he described as a prepared and routine response rather than adequately addressing its seriousness.
+
+The company's public statement subsequently drew further criticism from social media users, many of whom questioned why it had not issued an apology.
+
+PAUL's internal investigation is expected to examine how the worm ended up inside the sandwich and whether there was any lapse during the preparation, storage or handling of the food.
+
+\- Ends
+
+Prateek Chakraborty
+
+Aug 25, 2026 07:06 IST
+
+---
+
+### Why BJP Haryana government’s push for ‘Meghwal’ tag for ‘Chamar’ on certificates sparks a row
+*Sukhbir Siwach · legal*
+
+CM Saini's proposed move to recommend to the Centre for replacing “Chamar” with “Meghwal” on caste certificates draws allegation of “divide and rule” from a Dalit section
+
+[Read full article](https://indianexpress.com/article/political-pulse/bjp-haryana-cm-nayab-singh-saini-meghwal-chamar-caste-certificates-10847926/)
+
+---
+
+### Who is Mohanan Kunnummal, Kerala V-C at centre of Governor-government tussles?
+*Shaju Philip · legal*
+
+Since his appointment as the Vice-Chancellor of the Kerala University of Health Sciences in 2019, Kunnummal has found himself at the centre of recurring tensions between the Governor’s office and the state government.
+
+[Read full article](https://indianexpress.com/article/political-pulse/who-is-mohanan-kunnummal-kerala-v-c-at-centre-of-governor-government-tussles-10847909/)
+
+---
+
+### Heavy rain alert in Delhi day after monsoon chaos, 15 flights cancelled
+*India Today News Desk · general*
+
+Heavy rain lashed several parts of Delhi and adjoining areas of the National Capital Region (NCR) on Tuesday morning as weather officials issued a red alert for the national capital. The city remained heavily clouded a day after intense showers caused severe waterlogging, traffic chaos and several flight diversions.
+
+The airline tracking platform Flightradar24 showed that 15 flights were cancelled at Delhi’s Indira Gandhi International Airport, while more than 90 were delayed. However, the airport authorities are yet to issue an official statement on the impact of the weather on flight operations.
+
+Rain lashed several parts of the city, including Connaught Place, AIIMS, ITO, RK Puram and Ferozeshah Road, among other areas.
+
+According to the latest update from the India Meteorological Department (IMD) on Tuesday morning, moderate rain is expected at many places across Delhi, with heavy to extremely heavy showers likely at isolated places. Thunderstorms along with lightning and gusty winds are also likely over the national capital.
+
+Gurugram and Faridabad, the two NCR regions, have also been placed under a yellow alert, with more rain expected. Noida, meanwhile, remains heavily clouded, although the IMD has not issued any specific weather warning for the city.
+
+On Monday, the downpour brought several parts of Delhi-NCR to a standstill, with waterlogging reported on major roads and commuters facing prolonged traffic jams. Areas across Delhi, as well as parts of Gurugram and Noida, witnessed severe disruption as rainwater accumulated on roads and low-lying stretches.
+
+The day also saw 26 flights cancelled, 15 diverted to other cities and more than 390 delayed amid heavy rain.
+
+With the intense showers, rainfall in Delhi remained above normal at several observatories, pushing up the city’s cumulative figures. Till August 24, Safdarjung recorded 246.2 mm against the normal 191.1 mm, an excess of 29 per cent. Palam received 227.2 mm, 28 per cent above normal, while Lodi Road recorded 233.2 mm, an excess of 22 per cent. Ridge recorded 243 mm, 50 per cent above normal and Ayanagar received 266.3 mm, which was 66 per cent above its normal rainfall.
+
+The IMD attributed the intense showers to the interaction of a middle- and upper-level western disturbance with a lower-tropospheric trough extending from the low-pressure area over Gangetic West Bengal towards southwest Uttar Pradesh.
+
+\- Ends
+
+Aug 25, 2026 07:03 IST
+
+---
+
+### Tough conversion law kicks in Friday, Mumbai pastors ask worshippers to sign form they pray of their own ‘free will’
+*Purnima Sah · legal*
+
+'Self-declaration' more as assurance, say pastors in Vasai, Virar, Mira-Bhayandar, Thane, Mumbai, Palghar after incidents of disrupted Sunday prayers and FIRs.
+
+[Read full article](https://indianexpress.com/article/cities/mumbai/maharashtra-anti-conversion-law-mumbai-prayer-meetings-10847949/)
+
+---
+
+### ‘I hadn’t even seen his face’: Heartbroken father mourns newborn lost to Amravati NICU fire
+*Ankita Deshkar · legal*
+
+Swapnil Borge shared his joy with strangers, unaware that a fire at Amravati hospital had already taken the life of his newborn he never had the chance to see.
+
+[Read full article](https://indianexpress.com/article/cities/mumbai/amravati-hospital-maharashtra-nicu-fire-newborn-deaths-10847960/)
+
+---
+
+### Kerala woman suffers Salmonella infection from cafe’s grilled chicken, wins Rs 96,000
+*Ashish Shaji · legal*
+
+The complainant claimed that she developed vomiting, abdominal pain and other symptoms after eating Alfaham from the cafe.
+
+[Read full article](https://indianexpress.com/article/legal-news/kerala-woman-salmonella-infection-grilled-chicken-wins-rs-96000-10847324/)
+
+---
+
+### UPI expands to 11 countries as July transactions touch Rs 29.87 lakh crore
+*Manjeet Negi · general*
+
+## UPI has expanded to 11 countries and processed Rs 29.87 lakh crore in July, the government said. The expansion underlines growing global acceptance of India's interoperable digital payments model.
+
+India’s Unified Payments Interface (UPI) has expanded its international footprint to 11 countries.
+
+India’s Unified Payments Interface (UPI) has expanded its international footprint to 11 countries and processed transactions worth Rs 29.87 lakh crore in July alone, according to the government.
+
+In a detailed release titled “UPI Transforming India’s Payment Landscape”, the Press Information Bureau said UPI has grown 12,000-fold over the past decade and has emerged as the backbone of India’s digital payments ecosystem and a key pillar of the country’s Digital Public Infrastructure.
+
+Developed by the National Payments Corporation of India (NPCI), UPI accounted for around 49% of global real-time payment transaction volume in 2024, according to a figure highlighted by the International Monetary Fund in its June 2025 report, “Growing Retail Digital Payments: The Value of Interoperability.”
+
+The payment platform is now operational for acceptance and/or cross-border remittances in Bhutan, Nepal, Singapore, the UAE, France, Sri Lanka, Mauritius, Qatar, Cambodia, Greece and the Maldives. Greece and the Maldives are the latest countries to adopt UPI.
+
+The government said UPI has undergone several major expansions since its launch. Between 2020 and 2022, UPI AutoPay was introduced for recurring payments such as EMIs and SIPs, while UPI 123PAY enabled feature-phone users to make payments through IVR and missed calls. UPI Lite was also launched for low-value payments without requiring a PIN, while credit cards were subsequently linked to the platform.
+
+UPI also made its international debut in Bhutan during this period.
+
+In 2024, UPI Circle was introduced to enable delegated payments. The Reserve Bank of India also increased the tax payment limit through UPI from Rs 1 lakh to Rs 5 lakh. The UPI 123PAY transaction limit was raised to Rs 10,000, while the UPI Lite wallet limit was increased to Rs 5,000, with the per-transaction limit raised to Rs 1,000.
+
+In 2025, UPI added on-device biometric authentication and Aadhaar-based face authentication for UPI PIN onboarding, further expanding its authentication options.
+
+The government said UPI’s international expansion reflects the growing global acceptance of India’s digital payment infrastructure and its interoperability-focused model.
+
+\- Ends
+
+Zafar Zaidi
+
+Aug 25, 2026 07:00 IST
+
+---
+
+### Onam bank holiday today: Are banks open or closed on Tuesday, August 25, 2026? Check status - The Economic Times
+*Sneha Kulkarni · finance*
+
+### Synopsis
+
+Bank holiday today: In Kerala, banks will remain closed on August 25 and 26 in observance of Onam and Milad-i-Sherif, while several other states will also celebrate Id-E-Milad with a closure on August 26. Despite these holidays, online and mobile banking will be fully operational. Customers are encouraged to plan their branch visits accordingly to ensure a smooth banking experience during these festive days.
+
+ET Online
+
+Are banks open or closed today? Check here
+
+Customers are advised to plan their bank work well in advance, particularly those that require visiting a physical branch as banks will be closed in Kerala due to the festival of Onam and Milad-i-Sherif (birthday of Prophet Muhammad) on (Tuesday, August 25, 2026) and due to Id-E-Milad (birthday of Prophet Muhammad) on Wednesday (August 26, 2026). In many states, banks will be closed on Wednesday due to the holiday of Id-E-Milad. However, online and mobile banking services will continue to be available during both the holidays.
+
+## Festivals in August 2026
+
+Banks in August will be closed for festivals such as Ker Puja, Tendong Lho Rum Faat, Patriot’s Day, Independence Day/Parsi New Year (Shahenshahi), Birthday of Maharaja Bir Bikram Kishore Manikya Bahadur, Milad-Un-Nabi/First Onam/Milad-i-Sherif (birthday of Prophet Muhammed), Id-E-Milad/Baravafat/Milad-un-Nabi (birthday of Prophet Mohammad)/Thiruvonam depending on the state.
+
+  
+
+## Are banks open or closed on August 25, 2026?
+
+Banks are closed in Kerala on August 25 to celebrate Milad-Un-Nabi/first Onam/Milad-i-Sherif (birthday of Prophet Muhammed), as per the RBI holiday calender.
+
+Banks across Kerala will remain closed on Wednesday as well for Onam and Id-E-Milad.
+
+Onam is one of the state’s most important and widely celebrated festivals. Since Onam is a major regional holiday, banking services in Kerala will not be available on these days.
+
+## Bank holiday on August 26, 2026
+
+Banks are closed in Maharashtra, Karnataka, Madhya Pradesh, Andhra Pradesh, Tamil Nadu, Uttarakhand, Telangana, Manipur, Jammu and Srinagar, Jharkhand, Chattisgarh, Bihar, New Delhi, Uttar Pradesh and Kerala to celebrate Id-E-Milad/Baravafat/Milad-un-Nabi (Birthday of Prophet Mohammad)/Thiruvonam.
+
+Aug-26
+
+4
+
+8
+
+13
+
+15
+
+19
+
+25
+
+26
+
+28
+
+Agartala
+
+•
+
+•
+
+•
+
+Ahmedabad
+
+•
+
+•
+
+Aizawl
+
+•
+
+Belapur
+
+•
+
+•
+
+Bengaluru
+
+•
+
+•
+
+Bhopal
+
+•
+
+•
+
+•
+
+Bhubaneswar
+
+•
+
+Chandigarh
+
+•
+
+Chennai
+
+•
+
+•
+
+Dehradun
+
+•
+
+•
+
+•
+
+Gangtok
+
+•
+
+•
+
+•
+
+Guwahati
+
+•
+
+Hyderabad
+
+•
+
+•
+
+Imphal
+
+•
+
+•
+
+•
+
+Itanagar
+
+•
+
+Jaipur
+
+•
+
+•
+
+Jammu
+
+•
+
+•
+
+•
+
+Kanpur
+
+•
+
+•
+
+•
+
+Kochi
+
+•
+
+•
+
+•
+
+•
+
+Kohima
+
+•
+
+Kolkata
+
+•
+
+Lucknow
+
+•
+
+•
+
+•
+
+Mumbai
+
+•
+
+•
+
+Nagpur
+
+•
+
+•
+
+New Delhi
+
+•
+
+•
+
+Panaji
+
+•
+
+Patna
+
+•
+
+•
+
+Raipur
+
+•
+
+•
+
+Ranchi
+
+•
+
+•
+
+Shillong
+
+•
+
+Shimla
+
+•
+
+•
+
+Srinagar
+
+•
+
+•
+
+•
+
+Thiruvananthapuram
+
+•
+
+•
+
+•
+
+•
+
+Vijayawada
+
+•
+
+•
+
+(Join our ETWealth WhatsApp channel for all the latest updates)
+
+---
+
+### Auto, taxi shortage in Mumbai as drivers face out-of-syllabus Marathi questions
+*Anand Singh · general*
+
+For decades, Mumbai's iconic _kaali-peeli_ taxis and autorickshaws have given the city its daily rhythm and enabled the superfast pace the city boasts about. Not just during peak office hours, cabs and autorickshaws are also a crucial part of the city's late-night ecosystem. But since August 21 (Friday), hailing a taxi or autorickshaw and hearing the meter-down sound has become extremely difficult in Mumbai, because officials from the Regional Transport Offices (RTOs) have **started checking if the drivers can speak Marathi**.
+
+The _nakas_ are everywhere, from south Mumbai to the northern suburbs. Drivers who fail to speak in Marathi are being issued a "memo", and if they fail again after a month, their registration as cab or autorickshaw drivers could be cancelled for three months, until they can pick up a few basic sentences in Marathi. At least, that's what the official requirement says.
+
+Basic sentences in Marathi shouldn't be much of a problem. But drivers allege that the questions they are being asked by the officials are "out of syllabus".
+
+The checking drive is scheduled to continue until September 30.
+
+A section of autorickshaw **drivers in Mumbai began a three-day strike** on Monday evening against Maharashtra's new Marathi language requirement for commercial passenger vehicle drivers.
+
+Mumbai had already been facing a shortage of autos since Friday, when the drive began. Several commuters told India Today Digital that they had to wait 40-50 minutes to find an auto or cab, with many reaching work late.
+
+The language test, the drivers said, has added pressure to an already difficult livelihood.
+
+On Monday, autorickshaw and taxi drivers in the Kandivali suburb staged a road blockade, alleging that the enforcement of the Marathi language rule has led to harassment and threats against drivers who are not proficient in the language.
+
+Cab drivers who spoke to India Today Digital said they are willing to learn Marathi, but claimed that some questions being asked by officials are beyond what they were taught during the government's training programme.
+
+The requirement applies to taxi and autorickshaw drivers, including those working with app-based cab services such as Ola and Uber. The Maharashtra government amended the Maharashtra Motor Vehicles Rules, 1989, to make working knowledge of Marathi mandatory for commercial passenger vehicle drivers. The enforcement drive began on August 20, **after a three-month grace period ended** on August 15.
+
+Maharashtra Chief Minister Devendra Fadnavis said on Monday, "We are not trying to make our Hindi-speaking brothers experts in the Marathi language, but they should have working knowledge of the language... The deadline to learn the language has been extended three times now. Our Mahayuti government will not allow injustice based on language."
+
+### DRIVERS SAY RTO OFFICIALS' QUESTIONS ARE OUTSIDE THEIR TRAINING
+
+Kisun Yadav, a Kandivali-based taxi driver, originally from Patna, told India Today Digital that drivers were prepared to learn Marathi but were struggling with the way the requirement was being implemented.
+
+He said, "Training and certification centres were operating in parts of Mumbai, including Marol Naka, Kanjur Marg, Kurla, Andheri and Goregaon. But the material taught there did not adequately prepare drivers for some of the questions they were facing during RTO checks."
+
+Yadav said this was particularly difficult for older drivers, many of whom have limited education and depend on driving for their livelihood. He said some drivers were not even literate and had taken up driving because they had few other options to earn a living.
+
+The pressure is also greater for drivers who work on short-term contracts. Yadav told India Today Digital, "Many autorickshaw drivers do not own their vehicles. Instead, they work under contractors who own several autos or cabs and pay drivers a share of their daily earnings."
+
+For such drivers, Yadav said, "Learning another language while meeting daily income targets is very difficult. Not all of them become cab or auto drivers permanently. They keep moving from driving, labour work, and other jobs, whatever comes their way."
+
+Yadav also questioned the timing of the government-backed Marathi classes conducted through the Konkan Sahitya Parishad. He said attending classes meant losing working hours, while the sessions were held during periods when drivers could otherwise be earning.
+
+Ashok Tiwari, another cab driver who spoke to India Today Digital, is originally from Ballia in Uttar Pradesh, and has lived in Mumbai since he was five and learnt Marathi in school. But he said his experience cannot be compared with that of lakhs of other drivers who came to Mumbai later in life.
+
+Notably, in Mumbai alone, there are 4.6 lakh auto-rickshaw and taxi licence holders, according to figures cited in The Hindu's report.
+
+Tiwari said learning a new language can itself be difficult for people with little or no formal education. His main objection, however, was to what he described as questions that were outside the training material provided to drivers.
+
+### WHAT IS THE LANGUAGE TEST THAT MUMBAI DRIVERS NEED TO TAKE?
+
+The official test consists of practical questions based on situations drivers encounter every day. These include communicating with passengers about destinations, fares, routes, meters and CNG stops. Expected responses include phrases such as, "_Mala CNG bharayche aahe. Thode thambave lagel_" (I need to fill up with CNG, we'll have to stop for a while), and "_meter chalu kele aahe_" (have started the meter).
+
+The transport department has said the questionnaire is based on the Marathi training provided to drivers by the Konkan Sahitya Parishad. Officials have said the questions are designed around everyday conversations between drivers and passengers.
+
+But the drivers India Today Digital spoke to asked what exactly constitutes "working knowledge" of Marathi?
+
+It must be noted that Marathi is the mother tongue of nearly 36% of Mumbai City's population, making it the city's largest linguistic group, according to the 2011 Census. However, at the same time, Uttar Pradesh and Bihar were among the biggest sources of migrants to Mumbai from outside Maharashtra, accounting for nearly 47% of Mumbai's out-of-state migrant population, according to 2011 census data.
+
+The Census report on the mother tongue of residents in the city has shown that respondents who identify Hindi to be their mother tongue have grown by over 40% from 25.88 lakh to 35.98 lakh in Mumbai. At the same time, the number of respondents who said that Marathi is their mother tongue fell by 2.64% from 45.23 lakh in 2001 to 44.04 lakh.
+
+So, the Marathi language rule comes against this backdrop. Drivers who spoke to India Today Digital said most passengers they encounter understand and converse in Hindi, and that this has been the case in Mumbai for decades.
+
+### OVER 1,200 DRIVERS ISSUED NOTICES IN FIRST ROUND
+
+Maharashtra Transport Minister Pratap Sarnaik said on August 21 that 1,268 commercial passenger vehicle drivers had been issued notices after the first day of statewide checking. Of the 8,217 drivers tested until the evening of August 20, 3,995 were tested in the Mumbai Metropolitan Region (MMR).
+
+As of August 20 (Thursday), in the MMR, 604 drivers were found to lack working knowledge of Marathi. On the same day, outside the MMR, 4,222 drivers were tested and 664 were issued notices, according to the press release by Sarnaik.
+
+Drivers receiving notices have one month to acquire the required working knowledge of Marathi. If they fail to comply, their badges can be suspended for three months.
+
+Sarnaik defended the exercise, saying, "Possessing working knowledge of Marathi is not merely a matter of following rules but is also about the convenience and safety of passengers."
+
+However, cab drivers Kisun Yadav and Ashok Tiwari said that if you go to a busy station like Dadar or Bandra Terminus, or Chhatrapati Shivaji Maharaj Terminus, where trains from everywhere in Maharashtra arrive every few minutes, you'll barely find any passengers who only speak in Marathi. "If someone from Kolhapur or Solapur or Satara is initiating the conversation in Hindi, why would I respond in Marathi?" asked Yadav.
+
+The minister, however, has also said the government does not want to take away anyone's livelihood, but wants to protect Marathi and Maharashtra's identity and culture. He said 1.65 lakh drivers had already undergone Marathi training and received certificates during a 105-day campaign.
+
+The results, however, are visible in the form of strikes and absent cabbies and autorickshaw drivers in India's financial capital.
+
+But the rule itself is not entirely new. According to Sarnaik, a requirement for practical Marathi knowledge for operating autos and taxis has existed in Maharashtra since 1989, but had not been strictly enforced. The state amended the 1989 rules in 2026 to give the requirement effect.
+
+The enforcement has nevertheless triggered concern among drivers and unions.
+
+Official data says Maharashtra has around 9.65 lakh licensed rickshaw and taxi drivers. The government's training campaign covered only 1.65 lakh drivers.
+
+### DRIVERS FROM UP, BIHAR FEAR CONFRONTATION WITH MNS MEMBERS
+
+For drivers from Uttar Pradesh and Bihar, there is another concern — the fear of confrontation with Raj Thackeray-led Maharashtra Navnirman Sena's (MNS) activists.
+
+Drivers told India Today Digital that the MNS's history of confrontations with north Indians in Mumbai makes some of them nervous about the language drive.
+
+The party has a long association with aggressive Marathi identity politics. The MNS won no seat in the 2024 Maharashtra Assembly election and did not contest the 2024 Lok Sabha election, but is aggressive against both north and south Indians when it comes to language politics.
+
+The picture, however, is more complicated than a simple MNS-versus-migrant narrative.
+
+MNS has joined hands with Uddhav Thackeray-led Shiv Sena (UBT). Yet Jan Suraaj leader and newly elected Bankipur MLA Prashant Kishor, who had worked with Uddhav Thackeray's undivided Shiv Sena, said he had sought an assurance that Hindi-speaking migrants would not be targeted. He also credited the Uddhav-led Sena with ensuring that such violence did not take place during his stint with the party.
+
+However, workers of Raj Thackeray's party have continued to target north Indians, with several instances of north Indian business owners being beaten up during the BMC polls in January this year, **despite the language plank falling flat**.
+
+For drivers like Yadav and Tiwari, however, politics is secondary to the **immediate effect on earning a living**.
+
+Yadav said learning Marathi is not a problem by itself. The problem, he said, is being expected to learn it quickly while continuing to meet daily financial commitments, particularly when the questions being asked during checks do not always match what the drivers were taught.
+
+The frustration is now visible on Mumbai's roads, as the three-day strike began on Monday, and commute already difficult because of the rains.
+
+\- Ends
+
+Anand Singh
+
+Aug 25, 2026 07:00 IST
+
+---
+
+### Credit report errors: Experts explain common mistakes that hurt your credit score and how to fix them | Mint
+*Shivam Shukla · economy*
+
+## Credit report errors can lower your credit score and affect loan eligibility. Learn about common mistakes, how to identify inaccuracies and practical steps to dispute and correct incorrect credit information.
+
+Regularly checking a credit report can help borrowers identify incorrect repayment records, duplicate accounts and outdated loan information before these errors affect their creditworthiness.
+
+A weak credit profile and a low credit score are often associated with missed payments, missed due dates or poor financial habits. However, errors in credit reports can also affect a borrower’s profile.
+
+Errors such as incorrect repayment status, outdated loan information, duplicate accounts, or inaccuracies in personal information can create an inaccurate picture of an individual’s borrowing history and creditworthiness.
+
+Kaushik Chatterjee, Founder & CEO, lendingplate, says, “People often assume that a low credit score is always the result of missed payments or poor financial habits, but that is not necessarily the case. Mistakes in a credit report, such as an incorrect repayment status, a duplicate account or outdated loan information, can also affect a borrower’s profile. Hence, checking your credit report regularly and flagging any discrepancies early is important. A little attention can go a long way in keeping your credit history accurate.”
+
+## **What are common mistakes borrowers should watch for?**
+
+Credit reports bring together information from multiple sources and reflect borrowing relationships. Even a minor, harmless-looking mismatch can warrant a drop in score and require attention. This makes it vital for borrowers to review and correct common mistakes on their credit reports.
+
+Shakti Shekhawat, Business Head, BharatLoan, says, "Credit reports bring together information from multiple borrowing relationships, so even a small reporting mismatch can sometimes create confusion for consumers. Changes in personal details, duplicate reporting, an account not being updated after closure or an incorrectly recorded repayment can all warrant a closer look. Borrowers should not assume that every discrepancy is permanent. Reviewing their report and understanding the source of an entry is the first step towards keeping their credit record accurate."
+
+## **How to identify and fix errors?**
+
+The signs of credit report errors are generally easy to catch. They can include, for example, a sudden change in credit score, incorrect balance reflections or unusual or incorrect entries in credit profiles.
+
+If such an error is identified, borrowers should raise a dispute through proper channels with the relevant lending institutions or credit bureaus.
+
+Kuldeep Yadhuvanshi, Business Head, Rupee112, shares, "Consumers often look at their credit score as a single number, but the more important question is what is driving that number. A sudden change should encourage borrowers to look at the underlying report for unusual enquiries, incorrect balances or repayment information. Understanding the reason behind a change can help borrowers distinguish between an actual credit issue and a reporting error, and take the right action accordingly."
+
+Regularly reviewing credit reports and promptly addressing any discrepancies can help borrowers maintain an accurate credit history.
+
+### About the Author
+
+Shivam Shukla
+
+Shivam writes on personal finance, equity markets, and mutual funds. He has previously contributed to several leading publications, including Moneycontrol. He can be reached at shivam.shukla@htdigital.in
+
+
+---
+
 ## 24 August 2026
 
 ### Aasha Singh Jaiswal cause of death: Veteran actress, known for mimicry and Mahabharat role, dies in Mumbai
