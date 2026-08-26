@@ -1,3 +1,358 @@
+## 26 August 2026
+
+### Rahul Gandhi effect? Why Maharashtra BJP is moving to keep Mahayuti united
+*Shubhangi Khapre · legal*
+
+Amid growing pressure from Congress and the Cockroach Janta Party, CM Devendra Fadnavis moves to rebuild trust within the alliance.
+
+[Read full article](https://indianexpress.com/article/political-pulse/rahul-gandhi-effect-why-maharashtra-bjp-is-moving-to-keep-mahayuti-united-10849511/)
+
+---
+
+### Oil prices slide 2% on Iran-Oman talks to reopen Strait of Hormuz
+*SECTIONS Oil prices slide · economy*
+
+Oil prices dropped about 2% on Wednesday, adding to the previous session's losses, on fresh hopes the Strait of Hormuz could reopen after Iran said it had resumed talks with neighbour Oman on managing the strategic waterway.
+
+Brent crude futures fell $1.78, or 2.0%, to $86.80 a barrel by 0027 GMT, while U.S. West Texas Intermediate crude futures were down $1.49, or 1.8%, at $80.87. Both benchmarks lost more than 3% on ‌Tuesday.
+
+"The market continues ⁠to react ⁠to developments surrounding navigation through the Strait of Hormuz, and hopes for progress in talks between Iran and Oman have triggered selling," said Mitsuru Muraishi, an analyst at Fujitomi Securities.
+
+"That said, uncertainty over the outlook has prompted ​bargain buying, limiting further losses, and prices are likely to remain range-bound for the time being," he added.
+
+Iran said it had restarted talks with Oman to manage the Strait as it faces ​heightened economic pressure from U.S. President Donald Trump.
+
+Iran and Oman have ⁠been in ‌on-and-off talks for weeks about controlling traffic through the waterway, which handled ​one-fifth of global ​oil and liquefied natural gas shipments before the war began in February.
+
+The ⁠two countries said on Tuesday that they discussed "a joint temporary navigational ​corridor" through the strait and agreed to clear it of mines.
+
+Despite ​the ongoing tensions, the U.S. is beginning to send personnel back to some diplomatic missions in the Middle East that were evacuated or downsized amid tensions with Iran, two people familiar with the matter told Reuters.
+
+The move suggests Washington sees a lower risk of the conflict with Iran escalating in the near term, though some embassies will initially operate below full capacity.
+
+On Monday, Washington ‌expanded sanctions aimed at cutting off Iran's economic lifeline, threatening to punish countries that continue to do business with Tehran, though it said it would not ​impose penalties immediately.
+
+Separately, ​an oil tanker was ⁠struck on Tuesday by an unidentified projectile and disabled about 9 nautical miles (17 km) northeast of Oman's Ash Shishah, which lies at the entrance to the strait, the United Kingdom Maritime Trade Operations ​said.
+
+In the U.S., the American Petroleum Institute reported crude oil inventories rose by about 4.2 million barrels in the week ended August 21, market sources said.
+
+Analysts polled by Reuters estimated crude oil stockpiles would rise by about 600,000 barrels on average. Official data from the EIA, the statistical arm of the U.S. Department of Energy, are due at 10:30 a.m. ET (1430 GMT) on Wednesday.
+
+---
+
+### A bus, bickering Punjab Congress leaders, and Rahul Gandhi’s unity test
+*Man Aman Singh Chhina · legal*
+
+Party works out schedule for next month’s yatra, but not everyone convinced. “We are like a family WhatsApp group where everyone has muted each other,” says a leader.
+
+[Read full article](https://indianexpress.com/article/political-pulse/a-bus-bickering-punjab-congress-leaders-and-rahul-gandhis-unity-test-10849507/)
+
+---
+
+### The life of IIT-Delhi’s Rishikesh Kumar: Finding his voice in poetry, teaching
+*Sophiya Mathew · legal*
+
+Rishikesh, who allegedly died by suicide on campus at IIT-Delhi on Saturday, was a compelling Hindi speaker, his friends said.
+
+[Read full article](https://indianexpress.com/article/cities/delhi/the-life-of-iit-delhis-rishikesh-kumar-finding-his-voice-in-poetry-teaching-10849685/)
+
+---
+
+### Fair pricing could help sustain UPI network
+*Abhinav Motheram · legal*
+
+A workable principle: Keep UPI free for consumers and small merchants, while allowing a capped MDR for larger commercial users and higher-value transactions
+
+[Read full article](https://indianexpress.com/article/opinion/columns/fair-pricing-could-help-sustain-upi-network-10849720/)
+
+---
+
+### Punjab debacles to base erosion, Amritpal Singh: Why BJP, Akalis keep alliance option open
+*Liz Mathew · legal*
+
+Despite B L Santhosh's pitch for BJP's solo run in 2027 Punjab polls, the party's backroom discussions with SAD for a tie-up continue at various levels.
+
+[Read full article](https://indianexpress.com/article/political-pulse/bjp-sad-alliance-punjab-assembly-elections-2027-10849482/)
+
+---
+
+### Iran and Oman discuss temporary Hormuz corridor as impasse with US drags on
+*SECTIONS Iran · general*
+
+Cairo: Iran said it had restarted talks with neighbor Oman to manage the Strait of ​Hormuz as it faces heightened economic pressure ​from U.S. President Donald Trump in the wider conflict.
+
+Iran and Oman have been ​in on-and-off talks for weeks about controlling traffic through the strategic waterway, which handled one-fifth of global oil and liquefied natural gas shipments before the war began in February.
+
+Most shipping has been shut down since then.
+
+  
+
+The two countries said on Tuesday that they ‌discussed "a joint temporary ⁠navigational corridor" ⁠through the strait and agreed to clear it of mines.
+
+Trump said all mines in the strait had been cleared, repeating comments that ​he has previously made.
+
+Though active hostilities between the U.S. and Iran have largely subsided, diplomatic efforts to reach a peace deal ​have stalled and passage through the waterway remains perilous.
+
+An oil tanker was struck on Tuesday by an unidentified projectile and disabled about 9 nautical miles (17 km) northeast of Oman's Ash Shishah, which lies at the entrance to the strait, the United Kingdom Maritime Trade Operations said.
+
+Separately, the U.S. ⁠Secret Service ‌said on Tuesday that it was aware of a video broadcast by Iranian state ​television discussing a ​potential plot to assassinate Trump's youngest son, Barron.
+
+A three-minute video broadcast by Iranian state ⁠TV discussed a potential plot to assassinate Barron Trump, 20, claiming that ​he was being monitored and alleging that a $10 million bounty had been offered ​for his killing.
+
+## SANCTIONS
+
+Despite the ongoing tensions, the U.S. is beginning to send personnel back to some diplomatic missions in the Middle East that were evacuated or downsized amid tensions with Iran, two people familiar with the matter told Reuters.
+
+The move suggests Washington sees a lower risk of the conflict with Iran escalating in the near term, though some embassies will initially operate below full capacity.
+
+In an effort to hobble Iran's economy, the United ‌States earlier this week threatened to punish countries that continue to do business with Iran, but said it would not impose penalties immediately.
+
+Oil prices fell for a second day ​as traders brushed ​off the impact of the U.S. ⁠sanctions, while Iran denounced the U.S. effort to isolate its economy as an act of "gross lawlessness", expressing confidence that many countries would not join the pressure campaign.
+
+U.S. public approval of the war has fallen to its ​lowest level since the conflict's early days, and Trump's popularity is likewise at a record low ahead of congressional elections in November, according to Reuters/Ipsos polling.
+
+Thousands of people have died in the conflict, most of them in Iran and Lebanon, while the U.S. and Israel have degraded much of Iran's conventional military capacity. The exact state of its nuclear program, which the U.S. and Israel aim to dismantle, remains unknown.
+
+---
+
+### Trump's spy chief Ratcliffe travels to Russia for meetings, reports say
+*India Today World Desk · general*
+
+## CIA Director John Ratcliffe travelled to Moscow for talks with senior Russian officials. The undeclared agenda and unusual security measures underscored wider tensions over Ukraine and Iran.
+
+US President Donald Trump and CIA Director John Ratcliffe. (Photo: Reuters)
+
+CIA Director John Ratcliffe made an unannounced visit to Moscow on Tuesday to hold meetings with Russian officials, in a rare high-level US-Russia engagement amid stalled efforts to end the war in Ukraine and growing tensions between Washington and Moscow over Iran, according to US media reports.
+
+The purpose and substance of Ratcliffe’s meetings were not immediately disclosed. A US official who confirmed the visit to the media declined to say whom Ratcliffe met or what was discussed, while the CIA declined to comment. The Kremlin initially said it had no information about the visit or any planned meetings with US officials, adding to the secrecy surrounding the trip.
+
+Ahead of Donald Trump's spy chief's visit to Moscow, the United States asked Ukraine to temporarily halt drone and missile strikes on Moscow and other cities in northern Russia, CNN reported.
+
+The visit marks Ratcliffe’s first known trip to Russia since he became CIA director under Trump. It is also the first publicly known visit by a sitting CIA director to Moscow since November 2021, when then-CIA chief William Burns travelled to Russia and met President Vladimir Putin amid growing concerns over Russia’s military buildup around Ukraine.
+
+### US MILITARY AIRCRAFT LANDS IN MOSCOW
+
+Details of Ratcliffe’s presence in Moscow emerged after a US Air Force Boeing C-17 Globemaster III military transport aircraft landed at Moscow's Vnukovo International Airport early Tuesday.
+
+Flight-tracking data indicated that the aircraft had departed from Joint Base Andrews near Washington and stopped in Riga in Latvia, before continuing to Moscow. The aircraft later departed the Russian capital, with reports indicating that Ratcliffe’s stay lasted only several hours.
+
+The movement of the aircraft and a US diplomatic motorcade in Moscow helped reveal the otherwise undisclosed visit. The Washington Post reported that publicly available footage showed vehicles with diplomatic plates travelling through central Moscow.
+
+The White House, Pentagon, CIA and US Air Force did not publicly announce the trip. Officials familiar with the visit spoke on condition of anonymity because they were not authorised to discuss the matter. Latvian Defence Ministry officials also declined to provide any details, and just said the flight had been properly coordinated.
+
+\- Ends
+
+With inputs from Reuters
+
+Nitish Singh
+
+Aug 26, 2026 07:03 IST
+
+---
+
+### They hid TET exam papers in their shoes for Rs 8,000. Now, their trial nears
+*Mohamed Thaver · legal*
+
+Police are also likely to file a chargesheet in the next 10 days against the 16 accused, naming Bijendra Gupta as the mastermind.
+
+[Read full article](https://indianexpress.com/article/cities/mumbai/they-hid-tet-exam-papers-in-their-shoes-for-rs-8000-now-their-trial-nears-10849594/)
+
+---
+
+### Instagram chief admits Meta omitted weak teen safety tool uptake
+*AFP · general*
+
+Oakland: Adam Mosseri, who oversees Instagram at Meta, admitted in a California court on Tuesday that he touted newly launched safety tools for teens without disclosing low adoption rates from early testing several years ago.
+
+With more than three billion users around the world, Meta is fending off accusations by a coalition of 29 US states that it deliberately designed its products to hook children and gather their data while misleading the public.
+
+The trial entered its second week on Monday and is expected to last through late September.
+
+  
+
+A lawyer with the Colorado Attorney General's office, Jason Slothouber, questioned Mosseri about the low usage of the tools, known as Take a Break and Quiet Mode, which were launched in 2021 and 2023, respectively.
+
+Other witnesses have testified over the past week that these tools weren't effective, though Mosseri pushed back on the idea that adoption remains low.
+
+"This is one feature with a disappointingly low usage rate which since this time has significantly improved," Mosseri said.
+
+On December 8, 2021, Mosseri testified at a Congressional hearing about the negative impacts of social media on young people. One day before, Meta published a blog post, authored by Mosseri, about rolling out new safety features for teens.
+
+"Early test results show that once teens set the reminders, more than 90% of them keep them on," the blog post says.
+
+However, that number referred to the number of people who kept it on after turning it on.
+
+When asked if Meta disclosed its low adoption, which only reached 1 or 2 percent of the accounts, Mosseri admitted the company did not but said the safety features were later turned on by default in Teen Accounts, which have parental controls and launched in 2024.
+
+However, Mosseri couldn't recall if Meta had ever disclosed the percentage of teen accounts that have parental controls turned on.
+
+Mosseri will continue testifying on Wednesday. Founder and CEO Mark Zuckerberg is also expected to testify, though it's unclear when.
+
+## 'Disappointing' adoption
+
+Meta knew that its tools for protecting teenagers on Instagram were largely ineffective, other witnesses have testified.
+
+Internal Meta documents shown to jurors on Tuesday said that Take a Break, which allows users to set reminders to stop scrolling, reached an adoption rate of 1.8 percent, while Quiet Mode, which silences late-night notifications, reached 8.7 percent.
+
+Under questioning from state lawyers, Francesco Fogu, Meta's director of product design at Instagram, said Tuesday that he was not aware of the numbers, but conceded that the company "knew adoption rates would be lower" if those tools were not turned on by default.
+
+Judge Yvonne Gonzalez Rogers, who will decide the case using the jury's verdict as guidance, appeared stunned that Fogu was unaware of the internal data.
+
+If Meta is convicted, US states will seek around $200 billion in penalties, and a court loss could force fundamental changes to its business model and send shockwaves through the industry.
+
+Two former employees also testified that Take a Break and Quiet Mode were not effective.
+
+"In my experience, Take a Break is a feature that's designed to fail," Arturo Bejar, a former Meta engineering director, testified last week.
+
+George Volichenko, a data scientist who worked on safety features at Instagram in 2022 and 2023, said Monday that adoption rates for those features were "very low and disappointing" and just "a drop in the ocean."
+
+He painted Meta's leadership as uninterested in meaningfully boosting their use.
+
+Leadership did not approve turning on Quiet Mode by default for younger teens, which held down adoption because the setting was hard to find in the app, Volichenko said.
+
+Switching the safety features on by default would have caused a "notable negative impact" on user engagement, he said.
+
+Meta's business model revolves around selling advertising, and the company earns more when users spend more time on its apps.
+
+---
+
+### ‘Rs 15 lakh for sir’: First in a decade, anti-graft agency seeks nod to prosecute a Mumbai judge
+*Manish Kumar Pathak · legal*
+
+Judge was named in FIR after clerk allegedly accepted Rs 15 lakh for favourable order; agency awaits sanction to file chargesheet
+
+[Read full article](https://indianexpress.com/article/cities/mumbai/rs-15-lakh-for-sir-first-in-a-decade-anti-graft-agency-seeks-nod-to-prosecute-a-mumbai-judge-10849578/)
+
+---
+
+### Sister’s birthday sarees ‘never’ reached US, courier company to pay man Rs 78,000
+*Richa Sahay · legal*
+
+The man was sending a 24.33-kg parcel containing sarees, groceries and other articles to his sister in the US, but the parcel was allegedly never delivered.
+
+[Read full article](https://indianexpress.com/article/legal-news/sisters-birthday-sarees-us-courier-company-man-rs-78000-10848949/)
+
+---
+
+### Is ethanol the villain in sugar price surge in India?
+*Avinash Kateel · general*
+
+## As retail sugar prices surge and India prepares to import the commodity, one primary question has emerged: is diversion of cane for ethanol production to blame? Here's what agriculture experts, including Ashok Gulati, have to say on the sugarcane and E20 issue.
+
+Sugar prices have spiked sharply due to shortage of sugarcane production. (Image: Reuters)
+
+For years, ethanol was presented as part of the answer to India's sugar problem. Ethanol was seen as a way to absorb surplus sugarcane, improve the finances of mills and reduce the country's dependence on imported crude oil. But with sugar prices surging by 40% in a month and Indian households bracing for the festival season, the same fuel policy is now giving rise to a question: is the **diversion of sugarcane for the production of ethanol** to blame?
+
+There is no easy consensus on this question. Two prominent agricultural economists and professors at the Indian Council for Research on International Economic Relations (ICRIER) — Ramesh Chand and Ashok Gulati — agree that India's sugar supply and balance has tightened, but differ on how much blame ethanol deserves.
+
+India has built a massive ethanol-manufacturing ecosystem and mandated E20 petrol five years ahead of schedule as part of its Ethanol Blended Petrol programme.
+
+Chand, who is also a former Niti Aayog member, argued in an Opinion piece in The Times of India that the present price spike in sugar cannot principally be attributed to cane diversion for ethanol. Gulati told India Today TV that ethanol diversion, alongside lower sugar production and depleted stocks, had added to the pressure. Gulati also said that the government should have acted months earlier. Separately, Lucknow University professor Sudhir Panwar explained to India Today Digital the multiple factors behind the rise in sugar prices.
+
+The disagreement of the two individuals of the ICRIER matters because India is now trying to balance two competing priorities. One is food prices at home and the second is fuel security on the road. This is part of the bigger food-versus-fuel debate and the trade-off.
+
+Amid the political uproar with the Opposition blaming the cane diversion to ethanol production for the sugar crisis, the government clarified stating it is monitoring the situation closely, and cited a combination of factors that impacted the surge, including lower-than-expected domestic production, increased demand ahead of the festive season, weather-
+
+**Sugar prices seem to be cooling down** after hitting a record Rs 67 per kg last week, with ex-mill rates now falling 18% to Rs 55 per kg. Food secretary Sanjeev Chopra attributed the drop to the government's recent decision to allow sugar imports and action against hoarding and speculation. For clarity, India will be importing raw sugar and processing it in the country.
+
+### WHY SUGAR PRICES SPIKED SUDDENLY IN INDIA?
+
+India's sugar prices remained relatively stable for several years even as sugarcane production expanded in the country. But the equation changed in the 2025-26 sugar season.
+
+In his Opinion piece written for The Times of India on August 25, Ramesh Chand argued that the immediate trigger was a much tighter-than-expected supply position.
+
+"The initial estimate for 2025-26 sugar production was around 34.3 million tonnes. That has since been revised down to about 30.6 million tonnes, a reduction of nearly 11%," Chand wrote, citing official data.
+
+Excessive rainfall, waterlogging and diseases such as red rot and top borer damaged crops in important producing regions, affecting both cane yields and sugar recovery. At the same time, firm international prices and stronger domestic demand ahead of the festival season added to the pressure.
+
+But Chand also said that this should not automatically be interpreted as a "failure of the ethanol programme".
+
+On the other hand, Ashok Gulati agreed that lower production is at the heart of the crisis. But unlike Chand, he believed the diversion of cane towards ethanol has compounded the problem.
+
+Speaking to India Today TV's Consulting Editor Rajdeep Sardesai, Gulati said the government "miscalculated the shortage" and failed to act despite warning signs several months earlier.
+
+"It's very clear that the sugar production was down. It was a delayed decision and recognition on the part of the government," Gulati told India Today TV.
+
+Gulati's calculation is straightforward. He argued that production was down by about 10%, opening stocks had fallen from around 8 million tonnes to 5 million tonnes, and some cane was being diverted towards ethanol.
+
+"And then whenever you are diverting to ethanol, naturally it becomes a cumulative impact," he said.
+
+**Panwar said a diversion of sugarcane to produce ethanol** was one of the reasons behind high prices of sugar in India. "The market forecast for sugar wasn't that bad, which also signals market manipulation by sugar stockists and retailers," he told India Today Digital.
+
+### HOW ETHANOL HELPED UTILISE EXCESS SUGARCANE
+
+India's ethanol programme gained importance precisely because the sugar industry had a problem of too much sugar.
+
+The sweetener's production, according to the Ministry of Consumer Affairs, Food and Public Distribution, rose from about 20.3 million tonnes in 2016-17 to more than 32 million tonnes in 2017-18 and 33 million tonnes in 2018-19.
+
+Production was substantially above domestic consumption, while exporting the surplus was not always commercially attractive because Indian sugar prices were generally higher than international prices.
+
+Ethanol offered mills another dimension. From 2018-19, mills were allowed to use B-heavy molasses and sugarcane juice or syrup for ethanol production. This gave them flexibility to decide how much cane should go into sugar and how much into fuel.
+
+In years of surplus production, more cane could be diverted towards ethanol, preventing sugar stocks from accumulating excessively. It also diversified mill revenues and helped improve their ability to pay sugarcane farmers on time.
+
+The diversion, however, has not simply increased every year.
+
+According to data from the Department of Food and Public Distribution cited by Chand in his Opinion piece in The Times of India newspaper, "43 lakh tonnes of sugar were diverted to ethanol in 2022-23, 24 lakh tonnes in 2023-24 and 34 lakh tonnes in 2024-25".
+
+The present situation, Chand said, was fundamentally different because the production shortfall emerged after the crop was hit by weather and disease.
+
+### IS ETHANOL REALLY NOT TO BLAME?
+
+According to Ramesh Chand, ethanol diversion obviously impacts sugar prices because sugarcane juice, syrup and B-heavy molasses used to make ethanol could otherwise have yielded sugar.
+
+But he also argued that the more important question is not simply "how much sugar was diverted to ethanol", but whether the total quantity of sugar available is adequate to meet domestic consumption and maintain sufficient stocks".
+
+Chand strengthened his argument by the fact that the share of sugar diverted to ethanol has actually declined. According to the figures he cites, it fell from around 11.5% in 2022-23 and 11% in 2024-25 to about 9% in 2025-26.
+
+At the same time, nearly three-fourths of India's ethanol is now produced from grain feedstocks, particularly maize.
+
+Therefore, Chand argues that making ethanol diversion the principal explanation for the current price surge does not adequately explain the sudden deterioration in India's sugar balance.
+
+In his view, ethanol has actually been a "stabilising force" for the sugar economy.
+
+"India’s sugar production and the subsequent govt decision is mainly 
+
+Ashok Gulati's bigger criticism was directed at the timing of government intervention. He said that India should have opened sugar imports "four to eight months earlier", when warning signs about production and stocks were already emerging.
+
+He also suggested that the government could have temporarily reduced sugarcane diversion to ethanol. One alternative, according to Gulati, would have been to import ethanol rather than divert as much domestic sugarcane towards fuel.
+
+"You could have imported ethanol and avoided the domestic sugarcane complex going into ethanol," he said.
+
+Another option, he suggested, was to produce more ethanol from rice using Food Corporation of India stocks. The basic argument is that India had several policy levers available, but they were not used quickly enough.
+
+Gulati did mention diversion of sugarcane for ethanol production as one of the factors.
+
+The disagreement between Chand and Gulati ultimately points to a larger policy question.
+
+India wants to achieve its E20 target, reduce crude oil imports and expand domestic ethanol production. At the same time, it needs to ensure that diverting agricultural commodities towards fuel does not undermine food availability or push up prices.
+
+India's ethanol capacity has expanded rapidly. Sugarcane accounts for roughly 30-35% of ethanol feedstock, with maize and rice making up much of the rest.
+
+"Sugarcane diversion towards ethanol shouldn't be at the cost of sugar, and shouldn't increase food prices. We need correct estimates of sugarcane production and sugar requirements of India, and the international situation and sugar prices," Panwar said.
+
+Cane diversion to produce ethanol is one of the factors if not the villain. Ramesh Chand sees the sugar surge mainly as a production and supply problem, while Ashok Gulati argues that ethanol diversion added to the pressure and that the government acted too late.
+
+Their disagreement highlights India's larger dilemma as the country pushes for E20 petrol, it must balance fuel security with the need to keep enough sugarcane available for food. What should be monitored is that the Ethanol Blended Petrol programme doesn't end up disturbing food prices.
+
+\- Ends
+
+Avinash Kateel
+
+Aug 26, 2026 07:00 IST
+
+---
+
+### What should an MLA do when a fake post goes viral? UP workshop has answers
+*Maulshree Seth · legal*
+
+What should an MLA do when a fake post goes viral? UP workshop has answers
+
+[Read full article](https://indianexpress.com/article/cities/lucknow/what-should-an-mla-do-when-a-fake-post-goes-viral-up-workshop-has-answers-10849711/)
+
+
+---
+
 ## 25 August 2026
 
 ### 'Where's the apology?' Gurugram's Paul outlet faces flak over worm in sandwich
