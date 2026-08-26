@@ -1,10 +1,97 @@
 # Editorials
 
-_Last updated: 2026-08-25 02:41 UTC_
+_Last updated: 2026-08-26 02:49 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
 
+## 26 August 2026
+
+### End the culture of secrecy in judicial appointments
+*The Hindu · Opinion*
+
+The debate over transparency in judicial appointments has resurfaced after Justice Ujjal Bhuyan of the Supreme Court of India recently observed that greater openness in the collegium process would strengthen public confidence and help ensure that merit remains the governing principle. Reformers argue that insulation from political interference was never meant to become insulation from constitutional accountability itself — a question that has remained unresolved for three decades.
+
+The collegium is a judicial creation, not a constitutional one. The First Judges Case (1981) gave the executive primacy in appointments; the Second Judges Case (1993 4 SCC 441) shifted primacy to the collectively formed opinion of the Chief Justice of India and senior judges; the Third Judges Case (1998 7 SCC 739) expanded this into today’s five-member collegium. The reasoning was sound, but close to three decades later, the process remains among the least transparent in any major constitutional democracy: no notification of vacancies, no eligibility matrix, no known methodology for assessing candidates. Even Fali Nariman, credited as an architect of the collegium, later turned critic, recalling that it was ‘not receptive at all’ to the Bar. When the system’s own architects concede that it answers to no one, reform can hardly be called interference.
+
+Resolutions without reasonsOne has the example of the collegium’s own record on disclosure, which has moved backwards, not forwards — perhaps the clearest evidence of an institution retreating deeper into opacity. In October 2017, it began publishing resolutions with brief reasons for elevation, a step then hailed as a foundation for transparency.
+
+That practice thinned steadily, and since November 28, 2024, resolutions have stopped naming which members took part in a decision or disclosing any reasoning at all. In November 2025, (then) Chief Justice of India (CJI) B.R. Gavai confirmed that the collegium had resolved to stop publishing detailed reasons altogether, citing concern that disclosure could harm the career prospects of candidates — a rationale that would equally justify withholding reasons from every rejected litigant.
+
+This cannot be seen in isolation: the Court, in the MediaOne judgment (2023), held that sealed-cover secrecy is ‘antithetical to a transparent and accountable system’. If that principle governs the court’s own cases, why should a lesser standard govern its own?
+
+This absence of due process has fuelled a recurring allegation: that opacity has allowed relatives of sitting and retired judges — the so-called ‘Uncle Judges’ — an easier passage to the Bench than first-generation lawyers with no lineage to lean on. It is important to remember this is not a complaint from critics from outside alone: former CJI R.M. Lodha himself remarked that nearly one in three High Court judges could be an ‘uncle’.
+
+The allegation is not anecdotal: in 2018, the Union government flagged 11 of the 33 names recommended by the Allahabad High Court collegium, noting that they were relatives of sitting or retired judges. A broader assessment in 2025 found that nearly 30% of the Supreme Court judges — roughly 10 of 33 — had familial links to former judges. In January 2025, this issue pushed the collegium to consider barring judges’ kith and kin from consideration altogether (the proposal was discussed and in principle it was agreed to have higher scrutiny if candidates are relatives, but legally a bar was not created). That, in itself, is an admission that without a publicly defined selection matrix, there is no objective way to distinguish a meritorious relative from a beneficiary of judicial lineage.
+
+This is where the judiciary’s own jurisprudence turns inward. Articles 14 and 16 guarantee equality and equal opportunity in public employment. In Secretary, State of Karnataka and Others vs Umadevi (2006 4 SCC 1), the Court held that appointments to public office cannot be made through backdoor methods and must ordinarily follow a transparent procedure open to eligible candidates. If constitutional equality demands openness in the recruitment of a clerk or an engineer, why should the highest constitutional offices remain exempt from comparable standards? To be sure, judicial appointments cannot be reduced to a competitive examination; qualities such as independence and temperament resist quantification. But, qualitative judgment does not require the total absence of procedure. It is prudent to note the irony: the Court itself held, in CPIO vs Subhash Chandra Agarwal (2019 3 SCC 1), that the CJI’s office falls within the Right to Information Act — a logic never extended to how judges are appointed.
+
+What other democracies doOther constitutional democracies show that transparency and judicial independence can coexist. In the United Kingdom, the Judicial Appointments Commission publicly advertises vacancies and conducts structured interviews; in South Africa, the Judicial Service Commission invites nominations publicly and conducts televised interviews. None of these systems is flawless, but each rests on a premise that India has yet to accept: independence is strengthened, not weakened, when citizens understand how judges are chosen.
+
+India’s collegium continues to operate as though it belongs to an earlier era of institutional deference. Political theorist Jürgen Habermas argued that democratic legitimacy ultimately rests on the public sphere — an arena where institutions must justify themselves before informed citizens.
+
+This is not abstract: every judicial appointment is now dissected on social media within minutes. The scrutiny of a CJI’s own remark comparing youngsters to ‘cockroaches’ travelled from placards at Jantar Mantar to trending hashtags within hours; it will not take long for such movements to arrive at the doorstep of the higher judiciary itself. Contempt jurisdiction, built for the newsroom and the courtroom gallery, cannot be used to trifle the scrutiny of this scale and anonymity — it is an alarm bell for a system that still keeps its own appointments behind closed doors and resists constructive criticism. Institutions that embrace reform voluntarily emerge stronger; those that resist witness a slow erosion of the legitimacy they seek to protect.
+
+Reform, not retreatNone of this requires dismantling the collegium; it only requires modernising it. A transparent framework could publish anticipated vacancies in advance, invite applications from eligible advocates, disclose objective eligibility criteria, and record reasoned recommendations explaining why one candidate was preferred over another. Confidential inputs on integrity can remain protected — transparency does not demand disclosure of every file, only openness about the process, the criteria and the reasoning behind constitutional appointments.
+
+This is ultimately not a contest between the judiciary and the executive, nor an attempt to weaken judicial independence. It is a question of whether one constitutional value is allowed to eclipse another. The Constitution promises an independent judiciary, but, equally, promises equality, fairness and reasoned decision-making; values that are complementary, not adversarial. The debate of the 1990s was executive versus judiciary. The debate of this decade is opacity versus transparency. Therefore, unless the collegium accepts that independence without accountability breeds the very distrust it was designed to prevent, this asymmetry between what the judiciary demands of every other institution and what it permits of itself will continue to exist.
+
+Puhazh Gandhi P. is a lawyer and political analyst who writes on the Constitution, commerce and policies
+
+[Read full article](https://www.thehindu.com/opinion/lead/end-the-culture-of-secrecy-in-judicial-appointments/article71389685.ece)
+
+---
+
+### Monsoon session: Lost in the din
+*Deccan Herald · Editorial*
+
+The Karnataka legislature’s monsoon session, the first since D K Shivakumar assumed office as Chief Minister, ended as a near-washout. At a time when large parts of the state are grappling with drought and other pressing problems, the session – curtailed by three days – produced little meaningful debate. The Opposition deserves censure for failing to devise a strategy to hold the administration accountable, but the treasury benches cannot escape responsibility for exploiting the din to push through important legislation. The immediate flashpoint was the Opposition’s demand for the resignation of B Nagendra, chargesheeted in the Valmiki Corporation scam and recently reinducted into the Cabinet. The demand may not be without merit, but it should not have dominated the session. Once the government refused to concede, the Opposition had no fallback plan.
+
+The drought, the Cauvery dispute, the NICE controversy, and numerous constituency-level concerns that merited discussion were ignored altogether. Legislators travel hundreds of kilometres to participate in the session and rely on Question Hour and Zero Hour to raise matters affecting their constituencies. They were denied that opportunity. A legislature cannot fulfil its constitutional role if its members spend more time in the well of the House than participating in debates. The cost is not merely the loss of sitting days; it is the loss of an opportunity to question the executive, seek explanations, and place public grievances on record. Nor can the government claim victory. Significant legislation was passed amid disorder, including the controversial Bill permitting diversion of up to 5% of parkland for infrastructure. Even more consequentially, the Appropriation Bill, which authorises expenditure under the state budget, was adopted without scrutiny. Passing laws without discussion, particularly those involving public money, may be procedurally valid, but it is a poor advertisement for parliamentary democracy.
+
+Karnataka | The monsoon legislature session that was...or wasn’tExpelled Bharatiya Janata Party (BJP) leader Basanagouda Patil Yatnal has often alleged “adjustment politics” between Opposition leaders and the ruling party, deliberately creating conditions in which the government receives a free pass. This allegation cannot be treated as fact, but it should compel the floor leaders of both Houses, as well as the top brass of the BJP and the Janata Dal (S), to explain this failure. There is an old democratic maxim: the opposition must have its say, but the government must have its way. In this case, the Opposition forfeited its say, while the ruling party made full use of the vacuum. When both sides abdicate their responsibilities, democracy itself is diminished.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/monsoon-session-lost-in-the-din-4124138)
+
+---
+
+### The costs of an idle cohort
+*Deccan Herald · Editorial*
+
+NITI Aayog’s latest report highlights an emerging national challenge: an estimated 8.7 crore people in India aged 15-29 are not studying, working or undergoing any employment-related training. Findings in 'Reimagining Skilling for Viksit Bharat@2047’ categorise these youngsters under the acronym NEET (Neither in Education, Employment or Training). The description is ironic, given that the recent youth protests centred on demands for accountability and reforms in the education sector, following the NEET question paper leaks. The findings are based on data from the National Sample Survey of 2021 (78th round); these numbers have likely risen. They provide a reality check for planners and policymakers who bet on India’s young population as a demographic dividend of immense social and economic consequence.
+
+With a large component of the country’s youth remaining outside the productive landscape and dependent on others for their needs, the narratives around demographic dividend demand a reevaluation. These youngsters remain suspended in a system without employment and, crucially, without the requisite qualifications for employment. They point to a systemic failure in channelling human potential. Excluded from a productive labour force, this cohort, which spans about 15 years, comes with an economic cost borne by society. A large section of the youth remaining unemployable can also translate into substantial social and political costs. The report calls the NEET youth “constrained by the absence of income and the sunk cost of prior education”. Its findings indicate that the dividend now risks turning into a liability.
+
+‘Gen Z on the March’ puts youth politics, paper leaks at centre stage in BengaluruNITI Aayog recommends greater emphasis on skilling and vocational education to navigate this challenge. It proposes early-stage skilling embedded in the school system (from grade 6 through grade 12) to ensure employability. The report points out that a stated objective of the National Education Policy (NEP), to integrate skilling and employability into early school years, has not been effectively pursued. The planning body has recommended a shift towards demand-driven skilling aligned to high-growth sectors such as EVs and green industries, and the mainstreaming of apprenticeship programmes. However, skilling will not help if there is no employment requiring those skills. India’s development model has not created jobs on a scale that meets the needs of its burgeoning population. The findings should act as a pivot for the government, helping it shape policies to create jobs in industry, services, and other key sectors. A skilled and unemployed population can be no better than the NEET group.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/the-costs-of-an-idle-cohort-4124143)
+
+---
+
+### Righteous rule will return
+*Deccan Herald · Opinion*
+
+The Onam season is Kerala’s evergreen festival. With the monsoon, paddy completes its growth in some fields, as another planting cycle begins in other fields. There is a sense of plenty. And in keeping with Indian culture, there is a looking up to rulers, earthly and divine, both of whom are brought in to animate the Onam legend!
+
+The good king, Mahabali (also known as Maveli ), rules with justice and righteousness – which are the foundations for prosperity and equity, whether under monarchs or under modern Constitutions. On the other hand, Vamana’s is a theocratic world that is often represented as being in a tussle for dominion over the material world of kings, and for the loyalty of their subjects. The Onam narrative suggests that King Mahabali, who ensured order in his earthly kingdom, chose not to disrupt the priest-imposed social order, either. With the confidence that comes from security in one’s own identity, Mahabali acceded to what Vamana wanted, which included Mahabali’s banishment. Onam is the annual return of Mahabali in the season of plenty, in the hearts of common people, as they hold on to the ideal that prosperity is a function of right living, not of power and ceremony. It carries a quiet message, that the principles of justice and righteousness can never be obliterated by demonising those who perform their duties as Mahabali did.
+
+The sweetest Onam story: Payasam sales bring hope to a teen fighting Kidney diseaseIn Jesus’s time, the priests feared that this carpenter would affect their income, with his competent and competing religious teaching. Among other things, they wanted to collect religious taxes from him (Matthew 17:24), and also challenged him on whether his fellow-Jews must pay colonial taxes (Matthew 22:17). Showing a coin that had the imprint of the emperor, Jesus famously said, “Give to the king what belongs to the king, and to God what belongs to God.” More than money, he meant hearts dedicated to God’s definition of justice and righteousness – two of the most-repeated words in the Old Testament. In one of Mahatma Gandhi’s favourite Bible verses, Jesus said, “Blessed are those who hunger and thirst for righteousness, for they shall be satisfied.” While this is a call to just governance, Jesus also implied that he would return, permanently – the divine-king who was called a demon (Luke 11:15), who would wipe away every tear (Revelation 21:4).
+
+[Read full article](https://www.deccanherald.com/opinion/righteous-rule-will-return-4124135)
+
+---
+
 ## 25 August 2026
+
+### Escape velocity: On what India’s space sector must focus on
+*The Hindu · Editorial*
+
+For much of the 20th century, a rocket tearing a white seam through the sky did for India roughly what football did for Argentina and Brazil. Nations shut out of the councils where economic and strategic weight was measured found, in a game of European origin, an arena where their poverty did not disqualify them. Mastery was open to anyone with nerve and skill. Space was other things but also India’s football. A famished, newly independent republic that could barely feed itself nevertheless chose to gamble on rockets and atomic piles — an expensive bet on a future it could not yet see. In that era of a controlled economy and state broadcaster monopoly, a launcher rising was its own justification. The utility of its payload was secondary, in the eyes of the masses, to the veneer of technological competency. Today, rockets and satellites are no longer emblems; they are the plumbing of the information age, the unglamorous scaffolding beneath navigation, banking, weather and war. On the third National Space Day — the anniversary of Chandrayaan-3’s touchdown in the lunar south polar region — Prime Minister Narendra Modi urged 20 space-startup founders to build an “aura” that would draw the world’s talent to India. But that might be a wrong framing married to the old view of space. A private space sector cannot harvest success merely because its wares are called rockets and launch vehicles; the romance that carried the state programme will not carry a business.
+
+A recent peer-reviewed analysis in Economics Letters by Alessio Terzi and Francesco Nicoli finds that it cost $13,302 to loft a kilogram into low-earth orbit on an Indian rocket in 2025 — costlier than China ($5,809), Japan, Russia, Europe and the United States ($3,225), and well above the global average of $3,868. That is because India launches too rarely and uneconomically to rapidly build the required reputation for reliability. There were only five launches in 2025, against the 30 that were projected. The consequence is visible. GSAT-N2, at 4,700 kg too heavy for ISRO’s LVM-3, went up on a Falcon 9; Pixxel and Digantara — two of the 20 at Mr. Modi’s meeting — rode SpaceX to orbit. SpaceX alone put three-quarters of the world’s payload into orbit in 2025, underlining its near monopolistic stranglehold but also pointing to opportunities. The value of India’s space sector can no longer rely on aura but in jobs, in long-term capital and the tax revenues that follow and, in heavy-lift launches that undercut SpaceX and China. Moon bases with NASA and interplanetary reveries belong to the new imagination of space, and they matter — but they are the ornament, not the engine.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/escape-velocity-on-what-indias-space-sector-must-focus-on/article71389175.ece)
+
+---
 
 ### Invisible actors: On bulk applications, voter name deletion
 *The Hindu · Editorial*
@@ -25,6 +112,17 @@ The 2026 BWF World Championships in New Delhi marked the rise of France as an on
 For India, the competition was the 12th straight edition where it secured at least one medal, with Gayatri Gopichand and Treesa Jolly bagging a bronze in women’s doubles. The performance is the latest in a series of good outcomes for Indian badminton after an ordinary 2025, where Satwiksairaj Rankireddy and Chirag Shetty’s World Championships doubles bronze was the best result. This year, Lakshya Sen reached the All England Open final, and Ayush Shetty at the Badminton Asia Championships. P.V. Sindhu’s victory at the Japan Open Super 750 last month was only her second Tour title in the last four years, and there were also triumphs for Satwiksairaj and Chirag at Singapore Open Super 750, and for Devika Sihag, Tanvi Sharma and Ashmita Chaliha at the Super 300 level. Yet, the feeling is unmistakable that India should have done better at a home World Championships, with Lakshya’s second-round defeat to the unheralded American teenager Garret Tan the most disappointing. There is no questioning the 25-year-old’s capability; he is a World Championships bronze medallist, a two-time All England finalist and finished an agonising fourth at the Paris 2024 Olympics. But no Indian men’s singles player has won an elite BWF Super 1000-level title since K. Srikanth in 2017. A swift end to this drought is essential for the overall health of the sport.
 
 [Read full article](https://www.thehindu.com/opinion/editorial/perfect-host-on-india-as-host-of-2026-bwf-world-championships/article71384749.ece)
+
+---
+
+### Root causes: On India’s youth crisis
+*The Hindu · Editorial*
+
+It has been a few weeks since the youth agitation forced the resignation of then Union Education Minister Dharmendra Pradhan. The government conceded the students’ demands for examination reform, which found an echo in the Prime Minister’s Independence Day address, when he announced free online coaching for competitive examinations using India’s digital public infrastructure. MoSPI’s survey data bears out why this would be welcome to students — private coaching costs 16% of what an Indian family spends on a child’s education, against 12.5% in 2018, and nearly a quarter of that budget by the higher secondary years which is when the student prepares for competitive exams. Cheaper coaching is of limited value as quality professional education remains confined to a handful of institutions. For instance, over 22 lakh candidates appeared in this year’s medical entrance exam for about 1.4 lakh undergraduate seats with fewer than 10,000 of them at the top 50 colleges. The situation is similar to the Joint Entrance Examination for engineering colleges. That is perhaps why, for the first time since the All India Survey on Higher Education began in 2011, undergraduate enrolment fell by 93,322 in 2023-24, particularly among young men. The fall was the sharpest in Uttar Pradesh, where The Hindu’s analysis found undergraduate enrolment down 1.53 lakh even as diploma enrolment rose 1.38 lakh. An analysis of Periodic Labour Force Survey unit-level data found that of every 100 graduates aged 15 to 29 in 2025, only 26 were in regular salaried employment, and just four had a salaried job with a contract and social security. The youth employment crisis therefore has two ends — in the preparation for jobs, and in jobs themselves. Mere free coaching would address neither.
+
+The structural problems in the Indian economy, despite the government’s touting of 6%-6.5% growth, are now too obvious to ignore. Manufacturing, the job sector best placed to absorb India’s college graduates, remains at around a sixth of gross value added, nowhere near the quarter of the economy the government has long promised. Meanwhile, the private sector has been retreating from its task as corporate investment has fallen from 17.3% of GDP in 2007-08 to 10.3% in 2024-25, unmoved by the cut in corporate tax from 30% to 22% in 2019. The steps required of the Union government are clear: public investment in industrial capacity, support for industry disciplined by export performance rather than domestic protection, and tempering a regulatory and enforcement zeal that seems to selectively target enterprises, affecting the jobs-catering medium-sized companies in particular. This route has a better chance of delivering jobs for the youth at the scale needed and as countries such as Vietnam have shown.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/root-causes-on-indias-youth-crisis/article71389888.ece)
 
 ---
 
@@ -113,6 +211,50 @@ Any decision to redefine the industry would have led to the reassessment of case
 
 ---
 
+### DC Edit | Taste Of Sugar Not So Sweet This Season
+*Deccan Chronicle · Editorial*
+
+Sugar has an important part to play in the lives and lifestyles of Indians. Millions of diabetics, moms who are trying to wean children off high sugar diets and fitness fanatics who follow strict regimens based on dietary guidelines may make a sizeable segment who might view refined sugar in an entirely different light.
+
+For a billion others, at least ‘thoda mitha’ in almost everything is the norm, be it a celebratory occasion with sweetness conferring a symbolic blessing or just people gorging on sweetmeats. What is not so sweet this season, however, is the price of sugar that has shot up nearly 40 percent.
+
+Blaming the dramatic price rise on a poor monsoon for agriculture thanks to the El Nino effect or the pests that get at the crop is based on facile assumptions. However, it is the government that must take the major blame for misjudging the sugar crop this year to the extent that it had to take drastic U-turns, from allowing sugar exports based on expectations of good production to permitting import of a million tonnes free of duty before October 31.
+
+The government is not in the business of growing sugar but it must take the blame for the current situation since it controls almost everything else — from ordering how much will go to the market, how much stockholding is permitted, how much can be exported to how much can be diverted for ethanol production.
+
+The contrast is noticeable in a market that was supposed to have enough to permit diversion to exports and ethanol, besides allowing two million tonnes for export to one where the authorities are worried about releasing a higher quota to the market in the festive season that begins with Onam and runs into the New Year with the next major harvest season.
+
+The government may have been misled by over optimistic forecasts of sugar output by industry bodies at the beginning of this sugar season last year, but then it claims that it has its own agencies guiding it in the matter of assessing national output before taking a call on exports. The July 2025 outlook by a sugar manufacturing association weakened with time and the projected production fell by more than six million tonnes after 2.4 million tonnes were said to have been diverted to ethanol.
+
+The 20 per cent ethanol-blended petrol not only brings down your car mileage but also affects sugar prices, especially in a tight market, which straightaway adds to the government mismanagement quotient because the much-vaunted savings in import of crude were prioritised thus affecting the dynamics of food production. The drop in mileage might also mean that more crude would have to be imported thus defeating the arguments for the E-20 mix, but that is another matter altogether.
+
+What the sugar crisis of 2026, which will spill over into next year as the opening stock for the new sugar season is likely to be lesser than in Oct. 2025, portrays is that excessive government control in anything leads to even more problems than what market forces may bring, including its perennial habit of speculative hoarding of stock.
+
+Emergency relief measures like the ordering of an additional 10 lakh tonnes of sugar is not a band-aid solution. But the sugar situation that is threatening to turn bitter this season must serve as a lesson for the government to be far more proactive in getting its numbers right and planning smartly in a commodity that is also tied to India’s cultural roots. There is a lot to learn from the failures on the sugar front, for the government as well as the market.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-taste-of-sugar-not-so-sweet-this-season-1982247)
+
+---
+
+### DC Edit | Trump’s Fresh H1-B Play
+*Deccan Chronicle · Editorial*
+
+Despite repeated legal reversals, US President Donald Trump appears unwilling to reconsider his administration’s relentless campaign against immigration. Each time a court strikes down one measure, the Trump administration seems to search for another route to achieve almost the same objective.
+
+The White House is now planning to introduce a fee exceeding $103,265 for new H-1B petitions after a federal court declared an earlier presidentially imposed levy unlawful. The proposed fee, according to the US Citizenship and Immigration Services, would help cover the costs of multiple federal agencies under the Homeland Security department — a legal alibi for defending a patently discriminatory treatment of this category of immigrant visa.
+
+Unlike the previous proposal for the $100,000 fee, the current one makes the H-1B visa difficult for the foreigners who are already living in the United States. Such broader tightening of wage, eligibility and scrutiny requirements could make employment visas harder to obtain even for foreign graduates and professionals.
+
+Every government is duty-bound to prioritise the welfare of its citizens and its country over foreigners. However, the Trump administration has produced no scientific study or evidence to show that the United States can meet the staffing requirements of its booming technology industry, without tapping the overseas talent.
+
+Only days ago, another federal court struck down the administration’s suspension of immigrant visas for citizens of 75 countries. Yet, instead of absorbing the message, the administration has reportedly prepared to revoke as many as 200,000 B1 business and B2 tourist visas held by people who have applied for asylum.
+
+This step goes against the United States’ long projected image as the leader of the free world. As the leader, the US has a special obligation to treat those escaping tyrannical regimes with humanity. While border control is a sovereign right, collective suspicion is not sound policy. A powerful democracy must enforce its laws without extinguishing the compassion and responsibility that give those laws legitimacy.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-trumps-fresh-h1-b-play-1982295)
+
+---
+
 ### Aakar Patel | Faith Vs Law & The Absurd Politics Of Ghar Wapsi
 *Deccan Chronicle · Opinion*
 
@@ -133,6 +275,60 @@ On October 26, 2019, PTI reported the VHP saying it had converted 25,000 Muslims
 On December 13, 2015, Rediff interviewed the man who would go on to become chief minister of Uttar Pradesh (“Yogi Adityanath proposes anti-conversion law, without ban on ‘reconversion’”). “We have reconverted several lakh Muslims and Christians over the past 10 years,” he claimed, speaking of the activities of his organisation, the Hindu Yuva Vahini. “What I am doing is simply taking such people back to their old home from where they were weaned away through inducement or coercion.” He explained why he wanted the exemption for his own conversions from the law: “So what if someone’s ancestors were converted to Islam or Christianity several hundred years ago? Time is of no consequence. Therefore, all those Hindus who were compelled to switch over to Islam during Mughal emperor Aurangzeb’s rule — when the maximum mass conversions took place — should get exemption under the new law that the BJP wants to legislate.”
 
 [Read full article](https://www.deccanchronicle.com/opinion/columnists/aakar-patel-faith-vs-law-the-absurd-politics-of-ghar-wapsi-1981972)
+
+---
+
+### Abhijit Bhattacharyya | Is China Silently Occupying Arunachal To Shame India?
+*Deccan Chronicle · Opinion*
+
+According to the Hindu Saka calendar, the month of Bhadra (Bhado) spans August 22 to September 22. However, there’s also the possibility of these dates moving owing to shift in the lunar cycle. For believers though, the Bhadra month is best avoided when it comes to any auspicious activity. Bhadra, considered the daughter of Lord Surya and the sister of Shani (Saturn), possesses a none-too-pleasant temperament. Hence the widespread belief across India not to hold weddings, house-warming (grihapravesh), business deal signing or any important functions during this Indian month.
+
+In tune with India’s inherent spirit of unity in diversity, the Bengali San calendar marks Bhadra mid-August to mid-September when all positive, auspicious or new work are invariably postponed or kept in abeyance.
+
+The lines above, however, do not necessarily mean that a vast India should follow a uniform script of belief or behaviour. What’s surprising, though, is that this year’s Bhadra has brought a bewildering inventory of disturbing pan-India developments. Suddenly, India faces fresh a multi-front combination of severe internal and external turbulence. From internal politics, domestic market pressure and upheaval in the voting process to the younger generations’ mass movement on the streets, Gulf war disruptions, foreign currency volatility, rupee depreciation, a yawning foreign trade balance of payment deficit and now the several unofficial reports on Chinese army’s unusual and overactive movements leading to perceived transgression into India’s northeastern province of Arunachal Pradesh. What’s cooking?
+
+Why local people of Arunachal are increasingly vocal about Chinese troops’ penetration into Upper Subansiri district of border state is the most intriguing question. And, too, why is the local establishment coy about sharing those details? Shouldn’t the Indian state step in to officially clarify the matter? If there’s nothing in it, announce it to the public. But, if there is any substance in the reports of the local people, take action decisively. Will it be wise to keep quiet to avoid incurring Chinese displeasure owing to the impending 18th Brics Leaders’ Summit in New Delhi because, in the foreign minister’s own eyes, China is stronger than India?
+
+Yet should New Delhi suffer and tolerate Beijing’s brazenly illegal claim over Arunachal Pradesh which is indisputably an inalienable and integral part of India’s sovereign territory? Beijing may try and give any name like Zangnan to Indian land, but that does not give any legitimacy to licentious gunboat gangsterism to the Dragon and its ilk. China may like to quench its thirst for land and water by sending its gunboatwallahs to other smaller, weaker and proximate points, but let India take a stand and not get trapped in the repeated deception and web of false diplomacy of the Chinese dictator.
+
+It has been our experience that whenever New Delhi takes a big step in the diplomatic arena, clandestine attempts are invariably made by China to show it in poor light. Therefore, is there a similar idea-to-implementation plan to embarrass us during the 18th Bric Summit of September 12-13 in New Delhi which also incidentally falls in the “inauspicious” month of Bhadra? In fact, India does face an uphill task of making the 18th Brics Summit a success owing to a variety of internal and external forces in play.
+
+Let’s delve into a few (albeit known) factors which could effectively force India’s hand. Instances galore exist showing how India got trapped into territory loss, trade deficit, banking retreat and industrial decimation. The latest open-source info provided by Indian missions in Beijing/Shanghai says: “Many Indian banks had established their presence in mainland China through branches or representative offices in major cities. However, most of them have closed their ops in recent years and presently only SBI and ICICI branches function in Shanghai.”
+
+Mark the words on Indian banks: “closed ops”. Beijing, on other hand, ensured that two of its “heavyweight” banks, the Industrial & Commercial Bank of China (ICBC) and the Bank of China are continuing uninterrupted business in Mumbai since, respectively, 2011 and 2018. Unlike India in China, Chinese banks have not closed in India. Some prominent Indian private players are still floating in China alright, but how much is India gaining as a nation? Should laissez faire be allowed to go berserk at the cost of the interests of a vast majority of Indians? Is it fair? Should India imitate the reckless capitalism of the United States? Shouldn’t the State assume some role and responsibility to control and keep a portion of the revenue originating from foreign countries to facilitate a better utilisation and distribution of the fruits of today’s global financial apparatus?
+
+The Indian mission in China candidly narrated in its website a reality rarely reflected by New Delhi’s blockbuster media moguls: “Though India-China bilateral trade...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/abhijit-bhattacharyya-is-china-silently-occupying-arunachal-to-shame-india-1982272)
+
+---
+
+### Anil Tyagi | Can A Geriatric Admin Respond To The Needs Of Gen Y & Z?
+*Deccan Chronicle · Opinion*
+
+Recent events at Capital Jantar Mantar and Gen Z’s so-called political maturity has triggered several thought processes within the government, the BJP and among the party’s Members of Parliament. One of them relates to leadership. Of course, no one dares to question the ‘might-and-right’ of the Prime Minister. But it is the dependence on, or rather the composition of, the second layer, the so-called implementers, which is being debated. The discussions are getting louder by the day, even as the high-pitched decibel levels at Jantar Mantar are fading away.
+
+Take the case of those saddled in the Prime Minister’s Office, with the sole intention of translating the leader’s vision into an active mission. While Prime Minister Narendra Modi is 75 years old, PMO’s principal secretary P.K. Mishra is 78, and national security adviser Ajit Doval, at 81, is an octogenarian. An ageing, if efficient, administrative group. Add to them the older loyalist cabinet ministers — external affairs minister S. Jaishankar, 71 years, petroleum minister Hardeep Singh Puri, 74, and Arjun Ram Meghwal, law and justice, 72.
+
+For many BJP MPs, and party politicians, the ageing executive-legislative ecosystem, though visionary, may be outdated. With a majority of voters in the next national elections expected to be Gen Z and millennials (Gen Y), this circle of governance may not be able to feel the “pulse of the nation”. If the upper echelons of governance comprise elderly civil servants, technocrats, and ministers, who help the Prime Minister shape decisions, there may be a disconnect. The electoral and political fissures and cracks were visible after the events at Jantar Mantar last month.
+
+BJP MPs are concerned about the information disruptions within the government. The Bhupender Yadav episode is symbolic. After members of the personal staff, who worked with the environment minister, were removed on July 3, he reportedly told a senior BJP leader that he did not have “an iota of an idea” about it. This begs a question — why are orders issued to MPs from the highest places, like regularly dispatching them to their respective constituencies after the end of each Parliament Session?
+
+Shivakumar’s Super-Shifts
+
+Most new chief ministers either opt for a bureaucratic cleansing or shakeup, or continuity. There is rarely a middle ground. But D.K. Shivakumar, the chief minister of Karnataka, chose a third ‘mixed’ option since he took over on June 3, 2026. While retaining the original set-up, he focused on a new command structure within, and around, the chief minister’s office (CMO). This contrasts with his predecessor’s (Siddaramaiah) strategy, which was for status quo. Mr Shivakumar shifted Tushar Giri Nath to the CMO as additional chief secretary. He replaced Anjum Parwez, who had served with Siddaramaiah. Munish Moudgil got concurrent charge as principal secretary to the CM for programme and project implementation, a signal that the CM wants a tight monitoring of projects. CM’s six-member governance committee is headed by former chief secretary S.V. Ranganath, and comprises retired civil servants, which denotes a dependence on institutional memory and experiences.
+
+However, chief secretary Shalini Rajneesh retained her position in Shivakumar’s regime. A 1989-batch IAS officer, she assumed the post under Siddaramaiah in August 2024 and will retire in June 2027. L.K. Atheeq, who worked with the previous CM, was appointed as financial adviser to the new CM. The picture is becoming clear. Use every positive and advantage within the state civil services to deliver results. But the test will emerge when the next chief secretary is chosen. It will truly indicate CM Shivakumar’s real gameplan.
+
+Trivedi’s ‘Middle’ Tarique with Modi?
+
+Many successes in the intriguing and mysterious world of diplomacy are related to Track-II efforts initiated by powerful Track-I actors. Hence, many eyes are fixed on Dinesh Trivedi, the newly appointed high commissioner to Bangladesh. This is especially crucial in the light of sensitive, even controversial, India-Bangladesh relations. Mr Trivedi’s aim seems to be to create a direct link between Prime Minister Narendra Modi, and Tarique Rahman, his Bangladeshi counterpart, bypassing the official, established and rooted diplomatic channels. The off-road diplomatic paths to Indian corridors of power need to be open.
+
+One of the first clues comes from a recent high-level private meeting between Mr Trivedi and Mr Rahman in Dhaka. In an unusual turn of expected protocol, during the discussion, Mr Trivedi asked his deputy, Pawan Badhe, to leave the room. The symbolism was a powerful one. A diplomat and a head of state talked about issues that only they were privy to. More importantly, Mr Badhe is known to be a key cog within the official wheel of the Indian external affairs ministry.
+
+Obviously, the exclusion from the meeting had the tongues wagging. Questions were raised. Has Mr Trivedi decided to run a semi-official, but...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/anil-tyagi-can-a-geriatric-admin-respond-to-the-needs-of-gen-y-z-1982255)
 
 ---
 
