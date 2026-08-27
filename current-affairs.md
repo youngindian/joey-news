@@ -1,3 +1,256 @@
+## 27 August 2026
+
+### Nestle wants India to consult on food-labelling rules amid debate on packaging warnings
+*Reuters · legal*
+
+Supreme Court, after hearing the pleas of health activists, slammed New Delhi for delays and called for implementing front-facing warning labels.
+
+[Read full article](https://indianexpress.com/article/world/nestle-calls-for-industry-say-in-india-front-of-pack-food-labelling-rules-10851922/)
+
+---
+
+### Nepal floods: West Bengal opens control room; Tollywood actor among those stranded
+*Sweety Kumari · legal*
+
+Chief Minister Suvendu Adhikari stated that West Bengal stands in full solidarity with Nepal and asserted that the administrative channels are actively coordinating with the Indian Embassy in Kathmandu.
+
+[Read full article](https://indianexpress.com/article/cities/kolkata/nepal-floods-300-indians-missing-bengal-24x7-control-room-10851887/)
+
+---
+
+### Are CGHS centres closed from August 27-31, 2026? Ministry responds as confusion prevails - The Economic Times
+*Sneha Kulkarni · general*
+
+The directorate of CGHS, Ministry of Health & Family Welfare, has clarified that the Central Government Health Scheme’s (CGHS) wellness centres will remain open from August 27 to 31, 2026, as per their regular working schedules. The clarification comes after a fake notice claiming that the centres would remain closed during these five days started circulating.
+
+The Press Information Bureau’s (PIB) Fact Check team has also informed that a notice is being widely circulated on social media claiming that CGHS wellness centres/dispensaries will remain closed from August 27-31, 2026, due to the deployment of medical officers for NEET-PG examination duty.
+
+The PIB Fact Check team also confirmed that the notice has neither been issued nor authorised by the Directorate of CGHS.
+
+  
+
+## Ministry denies closure of Wellness Centres
+
+In a circular dated August 22, 2026, the directorate of CGHS, Ministry of Health & Family Welfare, said that an unauthorised notice carrying the CGHS name and logo was being circulated.
+
+The directorate said that the notice claimed that CGHS wellness centres would be closed from August 27 to August 31 because medical officers had been assigned duty for the NEET-PG examination.
+
+The directorate has made it clear that the notice was neither issued nor approved by the CGHS, and its contents are false.
+
+CGHS wellness centres will continue to provide services during this period according to their prescribed working hours, says the circular.
+
+## No disruption in CGHS services
+
+The directorate said that if CGHS staff are required for other official duties, the necessary arrangements will be made to ensure that services to beneficiaries are not affected.
+
+Additional directors of CGHS have been asked to ensure adequate staffing and duty arrangements at wellness centres under their jurisdiction, as per the circular.
+
+They have also been directed to make beneficiaries aware of the clarification and ensure that the fake notice is not displayed or circulated through any CGHS office or official, says the
+
+## CGHS beneficiaries advised to ignore fake notice
+
+CGHS beneficiaries and members of the public have been advised to disregard the notice claiming that wellness centres will remain closed from August 27 to August 31.
+
+The directorate has asked beneficiaries to check CGHS-
+
+## When are CGHS wellness centres closed?
+
+As per the CGHS website, wellness centres remain closed on all central government holidays. However, if three consecutive holidays fall together, a wellness centre will not remain closed for more than two consecutive days.
+
+## CGHS wellness centre timings
+
+CGHS wellness centres are generally open from 7:30 am to 2:00 pm on all working days, except where emergency services are available.
+
+For wellness centres offering emergency services, the timings are:
+
+Regular OPD services: 7:30 am to 1:30 pm
+
+Limited emergency services: 1:30 pm to 7:30 am
+
+## What is the procedure to get a CGHS card?
+
+Pensioners can get a CGHS card made from the office of the additional director of the
+
+city, where the beneficiary resides. Forms can be downloaded from the CGHS
+
+website, cghs.gov.in, at the link
+
+What are the criteria for entitlement of hospital ward endorsed on CGHS card in CGHS empanelled hospitals?
+
+The entitlement of hospital wards in private hospitals empanelled under the CGHS is as
+
+under:
+
+S No. ward entitlement
+
+Corresponding basic pay drawn by the officer in the 7th CPC per month
+
+1 general ward up to Rs 36,500/-
+
+2 Semi-rivate ward Rs 36,501 to Rs 50,500/-
+
+3 private ward Rs 50,501 and above
+
+---
+
+### He blocked Mumbai local door. Then pushed off co-passenger for asking him to move
+*Manish Kumar Pathak · legal*
+
+The incident is the fourth case of serious violence on Western Railway suburban trains this year, following three murders after minor disputes between co-passengers escalated into fatal attacks.
+
+[Read full article](https://indianexpress.com/article/cities/mumbai/mumbai-local-train-man-blocks-door-pushes-another-10851937/)
+
+---
+
+### Rasuwa, once a thriving Nepal city, now buried under mud after flash floods
+*India Today Video Desk · world*
+
+## Kiren Rijiju Hits Back At Trolls Over River Swim, Questions Rahul Gandhi's Patriarchy Pitch
+
+In an exclusive interview on India Today, Union Minister for Parliamentary Affairs and Minority Affairs Kiren Rijiju addressed key national political issues, parliamentary proceedings, and border security. Commenting on his viral video swimming in an Arunachal Pradesh river, Rijiju dismissed comparisons with Leader of Opposition Rahul Gandhi, stating he has swum in mountain waters since childhood. He responded to Rahul Gandhi's remarks on patriarchy, questioning Congress' stance on issues affecting Muslim women, including triple talaq and polygamy. Rijiju asserted that India is governed by the Constitution rather than religious texts and noted that Hinduism permits internal debate. Regarding the parliamentary monsoon session disruptions, he emphasized the need for constructive debate over repeated washouts. On national security, Rijiju detailed border infrastructure development in Arunachal Pradesh since 2014, addressing undemarcated frontier stretches, psychological naming tactics by neighboring nations, and force deployment along the border. He also commented on freedom of expression regarding Kangana Ranaut, government responses to Gen Z protests, and Prime Minister Narendra Modi's focus on governance over narrative creation.
+
+---
+
+### FPIs pump in over Rs 27k cr in Aug; highest monthly flow since Sept 2024
+*Unknown · business, entrepreneur, finance*
+
+Despite being net buyers for the past two months, FPIs are still net sellers in Indian equities thus far in 2026 with their net sales totalling Rs 2.27 trillion ($24.31 billion) in CY26, data shows.
+
+[Read full article](https://www.business-standard.com/markets/news/fpis-pump-in-over-rs-27k-cr-in-aug-highest-monthly-flow-since-sept-2024-126082700693_1.html)
+
+---
+
+### Japan rain triggers floods and landslides in Ishikawa and Toyama
+*India Today World Desk · world*
+
+## Torrential rain battered Ishikawa and Toyama, triggering floods, landslides and rescues. Authorities moved lakhs to safety as more rain threatened fresh damage by Friday morning.
+
+Stock photo used for illustration
+
+Torrential rain hit Japan's north-central prefectures of Ishikawa and Toyama on Thursday, triggering floods and landslides, closing roads and leaving people stranded in homes and vehicles.
+
+The Japan Meteorological Agency issued its highest Level 5 heavy rain warning for parts of the two prefectures and urged residents in affected areas to take precautions against possible flooding and landslides. The rain eased later in the day and the warning was lowered to medium, but the agency said more rain and landslides were possible through Friday morning.
+
+The agency forecast up to 20 centimetres of rain in the Kaga and Noto areas through Friday morning. Authorities in the two prefectures advised more than 3,80,000 people to move to safer places.
+
+Footage shown by public broadcaster NHK showed stranded residents in Himi city in Toyama being rescued in a rubber boat by relief workers wading through knee-high water. Several vehicles that had stalled on flooded roads were left behind.
+
+In neighbouring Ishikawa prefecture, west of Toyama, flooding cut off 270 homes in three municipalities, though officials said there were no reports of injuries among the stranded residents. Heavy rain also caused landslides and road closures in Ishikawa. Chief Cabinet Secretary Minoru Kihara said several rivers had overflowed in the two prefectures, flooding many homes but with no reported injuries.
+
+The severe weather also caused power cuts in more than 1,000 homes in Toyama and Ishikawa, according to Hokuriku Electric Power Co. Earlier this month, heavy rain and widespread flooding in Chiba prefecture, east of Tokyo, had left 13 people dead.
+
+Thursday's rain in Ishikawa and Toyama brought flooding, landslides, road closures, rescues and power cuts, while authorities continued to warn of more rain and the risk of further landslides through Friday morning.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Aug 27, 2026 15:04 IST
+
+---
+
+### Pratap Bhanu Mehta writes: Trump, Modi and the trouble with being wounded strongmen
+*Pratap Bhanu Mehta · legal*
+
+India and America are facing a new spectre: The prospect of a deeply wounded elected strongman. A wounded strongman is a leader who rode to electoral success on personalised power as an answer to many of society’s major challenges. What happens when the aura collapses? Leaders like Narendra Modi and...
+
+[Read full article](https://indianexpress.com/article/opinion/columns/pratap-bhanu-mehta-modi-trump-wounded-strongmen-opinion-10851929/)
+
+---
+
+### Indians stranded on Rasuwa route to Kailash Mansarovar. Why tourists prefer this route
+*Divya A · legal*
+
+Hundreds of those who remain unaccounted for more than 24 hours later belong to this group -- mostly foreign nationals, including, according to the latest figures, 137 Indians.
+
+[Read full article](https://indianexpress.com/article/india/kailash-mansarovar-yatra-nepal-rasuwa-route-explained-floods-indians-missing-10851930/)
+
+---
+
+### India's EV market to reach Rs 20 lakh cr by 2030, will create 5 cr jobs: Nitin Gadkari
+*SECTIONS India's EV market · general*
+
+Synopsis
+
+India's electric vehicle market is projected to reach twenty lakh crore rupees by 2030. This significant growth is expected to generate five crore new employment opportunities across the nation. The government aims to make India's automobile industry the world's number one within five years. Current logistics costs are being reduced, aiding global market competitiveness. Bio-fuel is identified as a key component for the future of transportation.
+
+Union Minister for Road Transport and Highways Nitin Gadkari said India's EV market is projected to reach twenty lakh crore rupees by 2030
+
+New Delhi: India's electric vehicle (EV) market is expected to grow to Rs 20 lakh crore by 2030, with the potential to create five crore jobs, Union Minister Nitin Gadkari said on Wednesday.
+
+Addressing a summit organised by the CII-ITC Centre of Excellence for Sustainable Development, Gadkari said that currently 57 lakh electric vehicles are registered in India, with 7 per cent market penetration.
+
+"India's electric vehicle(EV) market will be worth Rs 20 lakh crore by 2030. It will also create five crore jobs by 2030," he said.
+
+  
+
+The road transport and highways minister highlighted that India's two largest two-wheeler vehicle manufacturers, Bajaj Auto and Hero MotoCorp, export more than 50 per cent of vehicles they produce.
+
+Gadkari said there is demand for one lakh electric buses annually in India, but 'we are able to manufacture only 50,000-60,000 EV buses annually'.
+
+He said the government aims to make India's automobile industry number one in the world within five years.
+
+The future of the Indian automobile industry is very good as the country has trained manpower, Gadkari added.
+
+"Within five years, our target is to make India's automobile industry the number 1 in the world... it is difficult, but not impossible," the road transport and highways minister said.
+
+Gadkari pointed out that the quality of vehicles manufactured in India is good and the cost is less, so all top automobile companies are present in the country.
+
+"When I took charge as transport minister, the size of the Indian automobile industry was Rs 14 lakh crore. The size of the Indian automobile industry is now Rs 22 lakh crore," Gadkari said.
+
+Presently, the size of the US automobile industry is Rs 78 lakh crore, followed by China (Rs 47 lakh crore) and India (Rs 23 lakh crore).
+
+Gadkari noted that India is spending Rs 22 lakh crore on importing fossil fuels and because of the import of fossil fuels, "we are facing a problem of pollution".
+
+"We are making good highways...Good roads with alternatives, and bio-fuel is the future," the minister said.
+
+Talking about logistics cost, Gadkari said that the government aims to reduce India's logistics cost to 8 per cent, as without reducing logistics cost, it would be difficult to get competitiveness in global markets.
+
+Gadkari further said a recent report prepared by IIT Chennai, IIT Kanpur and IIM Bangalore has revealed that India's construction of expressways and economic corridors has helped reduce the country's logistics cost to 10 per cent from 16 per cent earlier.
+
+"The government's aim is to bring down logistics cost to 8 per cent, which will help India become more competitive," he said.
+
+---
+
+### Nepal flash floods: Chandigarh opens helplines to trace missing local residents
+*Hina Rohtaki · legal*
+
+In response to communication disruptions caused by flash floods in Nepal, the Chandigarh UT Administration has issued an urgent appeal to city residents to report missing or untraced family members travelling in the region.
+
+[Read full article](https://indianexpress.com/article/cities/chandigarh/chandigarh-helpline-missing-residents-nepal-flash-floods-10851917/)
+
+---
+
+### Amid ‘life threats’, Allahabad High Court backs interfaith couple’s right to live together
+*Ashish Shaji · legal*
+
+The Allahabad High Court said interfaith couples have a right to live together under the Constitution and directed the police to act on any threat to the lives of the petitioners.
+
+[Read full article](https://indianexpress.com/article/legal-news/life-threat-allahabad-high-court-interfaith-couple-live-together-10851851/)
+
+---
+
+### How OpenAI's AI agents found a way to coordinate and hack Hugging Face
+*Business Standard · business, entrepreneur, finance*
+
+Findings from OpenAI and METR offer a detailed account of the Hugging Face incident, revealing how hundreds of AI agents communicated and coordinated activity across separate evaluation runs
+
+[Read full article](https://www.business-standard.com/technology/artificial-intelligence/openai-ai-agents-swarm-hugging-face-hack-126082700690_1.html)
+
+---
+
+### Lawrence Bishnoi’s legal team member arrested in arms smuggling case
+*Alok Singh · legal*
+
+Police sources said the accused was allegedly in contact with Bangladesh-based arms supplier Shahbaz Ansari.
+
+[Read full article](https://indianexpress.com/article/cities/delhi/deepak-khatri-arrested-lawrence-bishnoi-arms-case-10851934/)
+
+
+---
+
 ## 26 August 2026
 
 ### Rahul Gandhi effect? Why Maharashtra BJP is moving to keep Mahayuti united
