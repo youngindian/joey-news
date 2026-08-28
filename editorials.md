@@ -1,8 +1,257 @@
 # Editorials
 
-_Last updated: 2026-08-27 11:53 UTC_
+_Last updated: 2026-08-28 13:16 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 28 August 2026
+
+### Danger from above: On the Nepal flood
+*The Hindu · Editorial*
+
+Disaster struck Nepal on Wednesday after a flash flood ravaged the Himalayas and foothills. As of Thursday, at least 389 people including several foreign tourists, had died, while at least 300 Indians remained missing. Satellite imagery analysed by global agencies, including the Indian Space Research Organisation, points to a glacier collapse or ice-rock avalanche in Tibet, possibly followed by a temporary river blockage and its sudden failure. An earthquake was initially suspected, but evidence has not borne it out. While the immediate flood wave has passed, there are warnings of possible secondary flooding from debris blockages upstream. There has been extensive damage along the Bhote Koshi and Trishuli corridors, with settlements washed away and hydropower and monitoring infrastructure damaged. Nepalese authorities said 35 motorable and 45 suspension bridges and about 40 kilometres of roads had been damaged.
+
+Given that it is the monsoon, north India and the larger Himalayan regions are under the influence of a powerful Western Disturbance. It would thus not have been unreasonable to attribute the floods to these extratropical storms that can cause clouds to collide with mountains and release enormous quantities of rain at short notice. But the ubiquity of satellites is helping establish a more complex picture, pointing to collapsing glaciers and recalling the October 2023 South Lhonak Lake disaster in Sikkim. There, an eponymous Himalayan glacier suddenly gave way, releasing millions of tonnes of water, debris and rock that pulverised Sikkim’s largest hydropower project. Subsequent analysis showed that the resulting Glacial Lake Outburst Flood (GLOF) had been years in the making. The Indian Himalayas have nearly 7,500 glacial lakes and about 15,000 glaciers, some monitored through remote sensing. Yet, fully assessing their condition requires site visits, difficult because these lakes lie in inhospitable terrain while expeditions are generally feasible only from July to September. Even with satellite monitoring, accurately forecasting a glacier collapse remains exceedingly difficult — and can be counterproductive if warnings trigger panic among residents who, often because of habit or lack of alternatives, are unlikely to move out of harm’s way. Dams and hydropower projects in such terrain are often among the first casualties of these natural outbursts, which are increasing amid global warming. Beyond relief and rescue, governments must enforce construction codes, discourage settlements and large projects in known vulnerable zones, and invest in better tracking of glacier health. Such monitoring can feed long-term disaster planning into development programmes. A tragedy is frequently not the result of a conspiracy but the product of passive neglect; the latter can be addressed.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/danger-from-above-on-the-nepal-flood/article71396710.ece)
+
+---
+
+### New-age fires: On India’s ICU fire accidents
+*The Hindu · Editorial*
+
+Not too long ago, India’s fire accidents typically occurred in industrial facilities, large offices, mass gatherings, firecracker units and railway compartments, caused by faulty machinery, weak safety procedures and careless use of flammable materials. While these risks persist, what has got added to the country’s poor record in fire safety in the last 15 years or so is residential buildings, hotels and hospitals, especially Intensive Care Units (ICU). Electrical fires now seem predominant, often caused by increased appliance use, overloaded electrical systems and poor maintenance. ICUs are especially vulnerable with their oxygen-rich environments. This month, back-to-back accidents at neonatal ICUs in Amravati, Maharashtra, and Chhindwara, Madhya Pradesh, claimed the most vulnerable: newborn babies. The Amravati fire was put out in 30 minutes, but the smoke was too much for the three babies admitted because of complications. A faulty ventilator is suspected to be the cause. In the NICU at Chhindwara District Hospital, a short circuit in a warmer triggered a fire and three babies, just days old, suffered burns. Over the past 15 years, ICU fires, including the one in Jhansi in 2024, in which 18 newborns died, have not served as a wake-up call. The Amravati fire shared many features with previous incidents.
+
+Perhaps the best way to respond to these new-age fires would be to treat ICU accidents as a distinct category. ICUs are sealed compartments where smoke fills up very quickly. In an NICU, where patients cannot self-evacuate, evacuation drills are essential. A best-case setup would have three independent exits, with at least two allowing horizontal evacuation, automatic sprinklers, independent power lines for large equipment, oxygen cylinder bed supports, and fire drills every two years. A well-designed ICU also locates oxygen outlets away from sockets. Following a Delhi NICU fire, the National Neonatology Forum called for mandatory fire safety certification for NICU-equipped hospitals, regular power audits, analogue addressable alarms, and an evacuation protocol — now RACE or Rescue, Alarm, Confine, Extinguish/Evacuate. The 2026 National Guidelines on Fire and Life Safety in Healthcare Facilities can be a useful starting point for ICU-NICU safety. Beyond all this lies an issue in power quality: electrical harmonics. NICU equipment is packed with electronic components that draw distorted current, which can silently overheat neutral wiring, transformers, and loose connections without tripping a breaker. Post-fire reports citing generic “short circuits” or “technical faults” may well be missing this harmonic-driven degradation, a largely unaudited risk factor.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/new-age-fires-on-indias-icu-fire-accidents/article71396744.ece)
+
+---
+
+### Why 543 should remain 543
+*The Hindu · Opinion*
+
+Days after both Houses of Parliament were adjourned sine die on August 13, 2026, the monsoon session has yet to be formally prorogued. The delay has prompted speculation that Parliament could be reconvened for another attempt at the constitutional amendment linked to delimitation and women’s reservation. Whether or not that happens, it gives urgency to a question Parliament must confront: must delimitation necessarily mean an enlargement of the Lok Sabha?
+
+At first glance, the issue looks like arithmetic. India’s population has grown enormously since Lok Sabha seats were frozen half a century ago, so it seems natural to argue that representation must now expand correspondingly. But, constitutional design is not arithmetic alone.
+
+[Read full article](https://www.thehindu.com/opinion/lead/why-543-should-remain-543/article71397429.ece)
+
+---
+
+### DC Edit | Clear Global Warning In Nepal-Tibet Catastrophe
+*Deccan Chronicle · Editorial*
+
+A glacial collapse triggering an ice rock avalanche and causing enormous floods in regions of Nepal and Tibet that are popular with pilgrims and trekkers may have led to an unfathomable loss of lives upwards of a thousand people of many different nationalities making for an international tragedy of the biggest proportions since the tsunami of 2004.
+
+As an apocalyptic wall of mud, water and debris cascaded down after a chunk of ice from a glacier estimated to measure 0.2 sq. km may have broken off at a height of 5,200 metres to fall 1,200 metres vertically into the valley below to register the equivalent of a 5.2 earthquake on the Richter scale, there would have been little time for anyone in its path to escape.
+
+No early warning system could have coped to send a meaningful alert downstream as the Trishuli River (also known as Bhotekoshi) is said to have risen nine metres in less than 30 minutes, swelling into a demonic sheet of material trying to find its own level, carrying away people and destroying everything in its path — bridges, hydroelectric power station equipment, villages, besides people.
+
+There is something frighteningly intense and sudden about glacier collapses that humans can at best choose to live and stay as far away as possible, especially in the age of global warming. The link between glacier collapses and climate change are still hypothetical, but it is well-known that global warming has been causing glacier retreats.
+
+It has also been established that the Himalayas are warming twice as fast as the global average and Nepal is said to have lost a third of its ice over the last three decades. Such facts make it possible to link these tragedies to the human effect on the climate leading to global warming.
+
+Ecologists and environmentalists have been warning the world for years about the fragility of the Himalayan mountain region and the deleterious effect of human activities in it adding to a large carbon footprint. Nepal’s steep and picturesque valleys may make great travel corridors, but they are not the place to be in when disaster strikes.
+
+The scenes could have come straight out of a horror movie made in the era of computerised graphics that left behind a dystopian terrain as witness to the irresistible force of Nature. And those who were fortunate not to be in the wrong place at the wrong time could only watch on as rescue and aid bearing forces and volunteers scrambled to find survivors.
+
+With so little credible information in terms of numbers coming out of the Chinese side of this catastrophe that hit the border region with such force, the toll could well be imagined. The tragedy was particularly poignant for Indians who have been enthusiastic visitors to holy Hindu shrines in Nepal as well as Mount Kailash near Lake Mansarovar in China that was opened to Indians only last year after a thaw in India-China relations.
+
+Ecologists and environmentalists have been warning the world for years about the fragility of the Himalayan mountain region and the deleterious effect of human activities. It will soon enough be established that this epic tragedy was principally caused by global warming. Each riverbank will represent a danger zone and that by itself is an early warning.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-clear-global-warning-in-nepal-tibet-catastrophe-1982852)
+
+---
+
+### DC Edit | Welcome Curbs On Meta Use
+*Deccan Chronicle · Editorial*
+
+US social media giant Meta Platforms’ decision to pay up to $17.1 billion in penalties and introduce restrictions on the uncapped use of its social media platforms, such as Instagram and Facebook, is a historic win for those who advocate safe online environments for children and teenagers. More importantly, it challenges the technology industry’s long-held assumption that children’s attention is a resource that may be harvested without limit.
+
+According to the deal with 47 states, Meta will pay up to $17.1 billion for violating US child privacy and consumer protection laws, making it one of the biggest penalties imposed in recent times.
+
+The biggest victory, however, lies in the restrictions that Meta has agreed to impose on users aged under 18. A teenager’s use of Instagram and Facebook will be capped at two hours. However, parents can grant additional time. Young users will be restricted from using the apps between midnight and 6 am, and notifications will be silenced during school hours.
+
+Meta will also disable “like” counts, which are among the factors most frequently blamed for social media addiction and user anxiety. It will also block teenagers from using extreme makeup filters that mimic cosmetic surgery, leading to feelings of inferiority among many users.
+
+Another major victory is Meta’s introduction of an option to switch off autoplay and the algorithm that generates a personalised feed and contributes immensely to user addiction. While most teenagers who have already experienced the algorithm may not switch it off, the option can help those who want to overcome their addiction.
+
+In a survey conducted by the Pew Research Center in 2024, about half of teenagers said social media had a mostly negative effect on people their age. Yet, many could not wean themselves away from these echo chambers. The current deal gives them a new chance to rebuild their lives.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-welcome-curbs-on-meta-use-1982855)
+
+---
+
+### Does One-size-fits-all Work For Northeast?
+*Deccan Chronicle · Opinion*
+
+Calling Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim and Tripura the “Northeast” is geographically convenient, administratively useful and strategically unavoidable. But politically and socially, the term can be deeply misleading. It suggests a degree of commonality that does not exist. The eight states occupy a contiguous space on the map, share several historical experiences and face common challenges of connectivity, remoteness, border security and economic underdevelopment. Yet they are divided by ethnicity, language, competing territorial claims, distinct constitutional arrangements and sharply divergent political interests. The Northeast is, therefore, real as a geographical and policy category, but much less real as a single political community.
+
+The recent violence along the Assam-Arunachal Pradesh border is a useful reminder. The two states have been trying for years to settle competing claims over villages and territory; the dispute has periodically produced local confrontations despite political negotiations and a 2023 agreement that resolved a substantial portion of the contested areas. Assam has similarly longstanding boundary disputes with Nagaland and Mizoram. Assam’s official records themselves describe disputes with several neighbouring states, underlining how the supposedly unified Northeast contains multiple unresolved territorial fault lines.
+
+Manipur demonstrates the problem even more starkly. Its conflict, which began principally as a Meitei-Kuki confrontation in 2023, has entered its fourth year and acquired another dangerous dimension: conflict between Kuki-Zo groups and Nagas. Recent clashes, hostage-taking and blockades have shown that the ethnic geography of Manipur cannot be reduced to a binary Meitei-Kuki divide.
+
+What must also be noted is that each state has its own political vocabulary.
+
+Assam is the demographic, economic and logistical hub of the region, but its interests often collide with those of its neighbours. It is simultaneously concerned about immigration, land and forest protection, resource extraction, floods, river management and its disputed boundaries with Arunachal Pradesh, Nagaland, Mizoram and Meghalaya. For Assam, the Northeast often means a region in which it must defend its own territorial and demographic interests.
+
+Arunachal Pradesh, by contrast, is overwhelmingly shaped by its long frontier with China, its sparse population, tribal land systems, connectivity deficit and hydropower potential. Its relationship with Assam is not always one of regional solidarity: Questions of historical territory and control over villages can become matters of acute local sentiment. The state also has a strategic identity quite different from that of the densely populated Brahmaputra Valley. Recent reports of Chinese activity in the Taksing area, rejected by authorities in India as untrue, underline that Arunachal’s security concerns are also directly linked to the India-China frontier.
+
+Nagaland has perhaps the strongest reason to resist being treated simply as one component of a generic Northeast. Its central political question remains the Naga national and political settlement, whose geographical implications extend beyond Nagaland into Manipur, Arunachal Pradesh and Assam. Nagaland’s relationship with Myanmar is equally distinctive because Naga communities live on both sides of the international boundary.
+
+Mizoram has an equally distinctive security and demographic outlook. Its long border with Myanmar, its Mizo ethnic links across international boundaries, particularly in Myanmar, and its experience of receiving refugees have produced concerns quite different from those of Assam or Sikkim. At the same time, Mizoram has its own unresolved boundary dispute with Assam, while its 109-km border dispute with Tripura is also being revived for negotiations. Thus, even two states often portrayed as culturally close do not automatically share territorial interests.
+
+Meghalaya illustrates another contradiction. Its politics are strongly shaped by tribal land ownership, the Sixth Schedule, ecological concerns and resource rights. The controversy over coal mining and the state's opposition to uranium mining demonstrate a tension between local control of natural resources and national development priorities.
+
+Tripura has a different historical trajectory, dominated by the transformation of its demographic balance after Partition and subsequent migration, and by continuing demands for greater recognition of indigenous tribal interests. Its current political concerns are therefore substantially different from those of the Himalayan frontier states. Even Tripura has a live interstate dispute with Mizoram, showing again that regional identity does not erase competing territorial interests.
+
+Sikkim is arguably the greatest challenge to a one-size-fits-all Northeast framework. Its political history, demographic composition and constitutional relationship...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/does-one-size-fits-all-work-for-northeast-1982851)
+
+---
+
+### How Dependable Are US Security Guarantees For Japan, S. Korea?
+*Deccan Chronicle · Opinion*
+
+In the Indo-Pacific, the United States is the formal security guarantor of Japan, Republic of Korea (ROK), Australia, New Zealand, Thailand and the Philippines through bilateral defence agreements. For strategic planners of these countries, the US guarantees include a “nuclear umbrella” defined as the “Extended Nuclear Deterrence (END)”.
+
+The policy of END was developed by the US during the Cold War as a strategic military doctrine to protect non-nuclear weapon US allies against potential threats from the Soviet Union and China. Its objective was to convince allies that they need not build their own nuclear arsenal, as the US would deter any large-scale aggression by threatening a nuclear response.
+
+In the last 10 years, the global strategic landscape has become more uncertain and long-established security alliances are being challenged from within. The US has abandoned Afghanistan and transformed its role in the Ukraine-Russia conflict from a security enhancer for Ukraine to an arms dealer. President Donald Trump has made ambiguous comments about the US commitment to help defend Taiwan against any aggression from China. There is serious tension between the US and other Nato members. Also, the Chinese military might is growing rapidly and it would soon be in a position to challenge US military dominance in the Indo-Pacific.
+
+In this background questions are being raised in the strategic communities of ROK and Japan on the dependability of the US nuclear umbrella. In the medium term, ROK seeks deterrence against a nuclear-armed North Korea and Japan seeks deterrence primarily against China and also against North Korea.
+
+ROK has two nuclear states as neighbours, China and North Korea. Any realistic assessment would conclude that the much-desired denuclearisation of North Korea in unlikely to ever happen. One of the ROK’s options to deter North Korea is to again permit deployment of American tactical nuclear artillery shells on South Korean territory which was withdrawn by then President George H.W. Bush in 1991 after the collapse of USSR. The other long-term option is to gradually enhance its capacity to develop nuclear weapons.
+
+Under the US-ROK Agreement for Peaceful Nuclear Cooperation dating back to 1954 and revised in April 2015, ROK is not allowed any enrichment of uranium or reprocessing of spent fuel from its numerous nuclear power reactors. ROK stores more than 5,00,000 bundles of spent fuel which occupies 98.1% of its total storage capacity. For quite some time ROK has been demanding from the US the consent to reprocessing and in the August 2025 Summit between Presidents Donald Trump and Lee Jae Myung the two leaders agreed to discuss ROK’s “right to spent fuel reprocessing”. It may be noted that Japan has such rights under the relevant US-Japan agreement.
+
+ROK’s participation in US strategic decision making in the Korean peninsula is more complicated. At present US commanders head the “ROK/US Combined Forces Command” and 28,000 US defence personnel are deployed in South Korea. ROK has been demanding more say in strategic decision making. To partially satisfy this Korean quest, former Presidents Joe Biden and Yoon Suk Yeol had adopted a Washington Declaration on April 29, 2023, which inter alia established a bilateral nuclear consultative group.
+
+As for Japan, it is considered a latent nuclear state as it has mastery over the complete nuclear fuel cycle from uranium enrichment to spent fuel reprocessing. It is estimated that it would take about three-to-five years for Japan to build a credible functional nuclear arsenal based on high-end computer simulations without the necessity of a nuclear test.
+
+Since the horrific atomic bombings of Hiroshima and Nagasaki in 1945, the Japanese public opinion is overwhelmingly against nuclear weapons. Even among the supporters of the present Sanae Takaichi government, 56.7% explicitly oppose any acquisition of nuclear weapons. This is in contrast to the public opinion in ROK where, in a recent poll, 76.2% were in favour of this.
+
+Japan’s “Three Non-nuclear Principles” adopted in 1967 prohibit possession, production and introduction of nuclear weapons on Japanese territory. However, under a secret agreement Japan has been allowing nuclear weapons on US naval ships when in Japanese waters.
+
+Japan is now faced with the America First policy of the US. Aggressive missile testing by North Korea over Japanese air space and China’s relentless military expansion also make the Japanese nervous. Also, Japan is convinced that any Chinese takeover of Taiwan would adversely affect its security. The distance between Taiwan and Japanese island Okinawa is only about 790km.
+
+After taking over the leadership of LDP in October 2025, Prime Minister Sanae Takaichi has followed a more robust security policy similar to that of the late Prime Minister Shinzo Abe. Under her watch Japan’s security and defence policy is being revised moving away from strict post-World War-2 pacifism. ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/how-dependable-are-us-security-guarantees-for-japan-s-korea-1982848)
+
+---
+
+### Datura sale exposes regulatory blind spot
+*Deccan Herald · Editorial*
+
+The discovery of poisonous Datura fruits and seeds being sold on Amazon, Swiggy Instamart, and BigBasket is a grave breach of a fundamental online marketplace duty: ensuring that what reaches a consumer’s kitchen does not threaten life. Karnataka’s Food Safety and Drug Administration has directed the removal of these items and recommended suspension of the platforms’ food licences. The offences are particularly serious: mislabelling a toxic substance as food, misusing FSSAI licensing to lend legitimacy, and exposing consumers to an extreme health hazard. Datura’s seeds, fruits, leaves, and flowers contain toxic alkaloids that can cause delirium, hallucinations, coma, and even death. Its potency is unpredictable, making casual consumption especially dangerous. It is also abused for its hallucinogenic effects and has been described as a “zombie drug”. Datura does have traditional uses in Ayurveda, but only under controlled conditions and after appropriate processing. That can never justify offering it to unsuspecting consumers.
+
+The episode has also exposed a regulatory gap. E-commerce businesses selling edible products require central licensing, leaving Karnataka unable to cancel such licences directly. That the state government had to write to the Centre after the local FSSAI machinery failed to respond with the urgency the case demanded is disturbing. A regulator cannot afford a lackadaisical attitude when a poisonous substance is being offered for consumption. Nor can platforms hide behind the excuse of third-party sellers. If a marketplace verifies vendors, processes orders, collects payments, and delivers goods, it cannot disclaim responsibility when its own systems enable such sales. Platforms must vet vendors, screen listings, verify licences, and block dangerous items immediately, rather than wait for regulators or consumers to discover them.
+
+State cannot suspend food licences of e-commerce sites: Karnataka Health Minister U T KhaderThis is not an isolated concern. E-commerce and quick-commerce platforms have repeatedly faced questions over the online sale of prescription medicines and other prohibited or unsafe products. Some of the same platforms have also been found selling expired products or storing them in unhygienic conditions. India’s laws are too often treated casually because violations rarely carry serious penalties. That must change. If the Centre fails to act with the seriousness the case demands, the state should explore every available provision of criminal law, including the Bharatiya Nyaya Sanhita, relating to endangering human life. Offering a toxic substance for consumption is not a technical violation; it is a question of life and death. The government must ensure that this case does not end with a licence suspension; it must result in accountability and create a deterrent for others.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/datura-sale-exposes-regulatory-blind-spot-4126583)
+
+---
+
+### Sugar shock: Bracing for impact
+*Deccan Herald · Editorial*
+
+Soaring sugar prices over recent weeks have started to hit domestic budgets, causing worries ahead of the festival season. Retail prices have gone up by about 35-40%, from Rs 48 per kg reported last month to about Rs 65. Prices have touched Rs 70-75 in some regions. Multiple factors have led to the price spike, but the most prominent among them is the Union government’s inability to foresee the production and supply crunch and to take timely corrective steps. Some important decisions may also have contributed to the situation. The country has recorded a significant fall in domestic production: output estimates for 2025-26 came down to about 306 lakh metric tonnes (LMT) from an initial projection of 343 LMT. Government estimates place the country’s sugar consumption at 280-290 LMT. While climatic factors, including waterlogging caused by excessive rainfall in key producing states such as Maharashtra, reduced cane yields, pest and fungus attacks reduced yields in another major state, Uttar Pradesh.
+
+The government controls every stage of production, and much of the supply is organised and managed by sugar co-operatives. However, prompt measures to address the shortage were largely absent – imports in time, for instance, could have averted the current situation. High festival demand during the next few months will likely put pressure on depleting supplies, further impacting the prices. Speculation and hoarding by a section of traders may have added to the pressure. International prices also rose over 16% in recent weeks. The government has decided to import 10 LMT of raw sugar but it will take time for the stocks to materialise and reach the market. It has also imposed stock limits on dealers and bulk consumers, announced physical verification of mill inventories, halted exports, and called for early crushing.
+
+Diseases, waterlogging hit sugar output by 10%, says governmentWhile the diversion of cane for ethanol production has been cited as another reason for the fall in supply, the government has claimed that the share of sugar diverted for ethanol has fallen from about 12% in 2022-23 to 9% in 2025-26. It has also clarified that nearly three-fourths of the ethanol produced in the country now comes from grains, most of it from maize. However, the diversion from the current pool has had an impact. Sugar prices will need close monitoring in the coming weeks, given their potential impact on household budgets and food inflation. The prices and production scenario should push the country to devise a comprehensive policy that balances the demands of food security and fuel needs.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/sugar-shock-bracing-for-impact-4126588)
+
+---
+
+### Jadavpur University | Where no regime rules
+*Deccan Herald · Opinion*
+
+Last week, a general body meeting of the Faculty of Engineering and Technology Students’ Union inside Jadavpur University (JU) turned into something larger than a routine campus quarrel. Left-leaning students from the Students’ Federation of India and allied groups faced supporters of the Akhil Bharatiya Vidyarthi Parishad.
+
+What began as an argument over forming a union in a place where elections have long been stalled spilled past midnight. Outsiders entered, flags burned, and rooms were vandalised. The next afternoon, ABVP supporters scaled Gate Number 4, hurled eggs, stones and bottles, and damaged the university emblem. The outer lotus ring, symbol of philosophy, fine arts and culture around the three-flamed lamp of knowledge, lay broken on the ground.
+
+BJP MLA Sarbari Mukherjee arrived in support of the ABVP side. Chaos followed. Such confrontations are not new at JU. They form part of its daily texture. Yet the truth remains that every ruling party in West Bengal, from the Congress through the Left Front and the Trinamool Congress to the Bharatiya Janata Party now, has tried to bring this campus to its knees — and failed.
+
+Jadavpur University: Inquiry panel chief resigns, varsity to appoint new committee headTo understand why, one must return to the Swadeshi years of 1905 and 1906. Bengal stood partitioned, and nationalist feeling ran high. The National Council of Education, Bengal, rose in response, determined to offer literary, scientific and technical learning on national lines and under national control. Raja Subodh Chandra Mullick, Brajendra Kishore Roy Chowdhury, Sir Rash Behari Ghosh, Rabindranath Tagore, and Sri Aurobindo Ghosh shaped the effort.
+
+Aurobindo Ghosh served as the first principal of the Bengal National College. The Bengal Technical Institute joined the journey. In 1955, Jadavpur University took formal shape, yet its revolutionary beginnings still define it. This was never a place built to obey.
+
+The Left has long been strong here, but JU never became a loyal servant of the Left Front. In June 2005, when Buddhadeb Bhattacharjee was chief minister, students on a fast unto death protested the suspension of five of their colleagues. Police entered the campus at night and charged with batons.
+
+The same students who later stood firm during the Singur and Nandigram agitations of 2006 and 2007 opposed the Left government’s land policies and backed Mamata Banerjee’s rise. When the Trinamool Congress (TMC) took power in 2011, the relationship soured. In 2014, the Hok Kolorob movement erupted after police action against students demanding justice over a campus molestation case and the resignation of Vice-Chancellor Abhijit Chakrabarti. Students and teachers forced the issue until Banerjee herself visited and Chakrabarti stepped down.
+
+Now the BJP has won West Bengal. Many liberal, secular, and Left-leaning voters, tired of corruption and governance failures under the TMC, shifted allegiance. Holding them will not be easy.
+
+After 2014, the BJP sought greater influence over liberal campuses across India. JU presents both a prize and a problem. Capture its narrative and the Left-leaning unions lose ground. Fail, and the campus continues to generate the very stories of resistance that feed Opposition politics.
+
+Jadavpur University files police complaints over campus violence, forms probe panelPrime Minister Narendra Modi has spoken of ‘Dimagi Naxals’, those who spread ideology rather than arms. Chief Minister Suvendu Adhikari has ordered probes into graffiti near the men’s hostel that showed solidarity with the banned CPI(Maoist). Labels such as ultraleft, Naxal, Maoist, or anti-national have been applied by successive regimes. The language changes. The impulse does not. Governments prefer campuses that cheer rather than question.
+
+Yet something larger is at work. Students of the arts, science, and engineering faculties have repeatedly taken exception to wrongs committed by whoever occupies Writers’ Building. They have stood against the establishment not out of blind loyalty to one ideology, but because the university’s own history teaches self-reliance and refusal to bend.
+
+Now, political groups other than the ABVP have again found common cause against external interference. Teachers and students remain linked by a shared sense that the campus belongs to those who study and teach within it, not to the party that happens to rule the state.
+
+The broken emblem has been repaired and reinstalled. The metal lotus sits once more above Gate Number 4. The scars of burned posters and erased graffiti linger longer. Narratives will continue. The BJP will speak of restoring nationalism. The Left will speak of fascism. Beyond both, JU keeps its older identity. Born from the demand that education serve freedom rather than empire, it has outlasted every attempt to turn it into a fortress of the ruling party of the day.
+
+The students who gather in Aurobindo Bhavan or near the hostels carry that inheritance whether they realise it or not. They quarrel among themselves. They clash with outsiders. They refuse, time and again, to let any government decide the limits of their dissent.
+
+In a state where power has changed hands several times, the campus remains the one place that no regime has fully claimed. The latest confrontation only confirms what history already shows — that Jadavpur University does not bow.
+
+(Sayantan Ghosh, the author of Battleground Bengal, teaches at St Xavier’s College (Autonomous), Kolkata.)
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/jadavpur-university-where-no-regime-rules-4126810)
+
+---
+
+### Mohan Bhagwat's costly global gambit | From under the radar to under fire
+*Deccan Herald · Opinion*
+
+Rashtriya Swayamsevak Sangh chief Mohan Bhagwat's three-nation global outreach tour comes at a difficult time for the organisation. International perception of the RSS as a ‘paramilitary group’ and Hindu supremacist organisation has grown significantly in global media since its best protégé, Narendra Modi, came to power in 2014. Before that, international awareness of the RSS was largely confined to specialised South Asian academic circles.
+
+Bhagwat’s international tour has inadvertently consolidated global opposition to the RSS. Previously fragmented anti-RSS activism abroad has united under the ‘No Platform for Hate’ coalition, turning a fringe diaspora debate into both a New York City Hall press conference and a powerful lobbying instrument with lawmakers in the US, Canada and the UK.
+
+RSS chiefs have undertaken global tours before. Rajendra Singh, the RSS chief from 1994 to 2000, was the first to travel abroad to observe and promote the sister organisation Hindu Sevak Sangh (HSS), and helped set up the Friends of India Society to foster understanding of India abroad.
+
+His successor, K S Sudarshan, took a high-profile trip to North America in 2005 aimed at preserving Hindu cultural identity among second-generation immigrant youth as well as engaging with chapters of the HSS and Vishwa Hindu Parishad overseas.
+
+But whereas Singh and Sudarshan only sought to keep the diaspora connected to its Hindu roots, Bhagwat's visit primarily addresses foreign institutions, academics, policymakers, and the global public; it is a defensive exercise to correct what is perceived as a ‘biased Western narrative’. Earlier tours occurred when the RSS was seen as an obscure domestic entity. Bhagwat's tour comes when RSS visibility is high and it faces intense global scrutiny as the ideological backbone of the ruling BJP.
+
+Bhagwat's tour has forced him to defend his organisation's image against institutional critics. The bipartisan, semi-autonomous US Commission on International Religious Freedom (USCIRF) has called on the US government to freeze RSS’ US-held financial assets and those of specific leaders for severe violations of religious freedom, bar implicated members from entering the US, and revoke Bhagwat's visa.
+
+India has routinely rejected the USCIRF's recommendations (non-binding on the US government) to designate India a ‘country of particular concern’, a label for nations engaging in or tolerating ‘systematic, ongoing and egregious’ religious freedom violations. The report has even suggested banning US arms sales to India and conditioning trade and military aid on measurable improvements in religious freedom and minority rights. Critical USCIRF reports have appeared before, but the growing spread of RSS activities has further eroded India's inclusive, pluralist image.
+
+How did the RSS earn such notoriety abroad? The BJP's rise to power on its own, and its implementation of the RSS’ Hindutva agenda, has put the organisation in the global spotlight. The narrative of Hindu majoritarian ideology and paramilitary voluntarism has escalated from Western media critique to enter official discourse. This process intensified as Modi's ‘Hindutva face’ was revealed through beef lynchings, the abrogation of Article 370 and bifurcation of Jammu & Kashmir, the religiously discriminatory Citizenship Amendment Act, and the Ram temple construction at Ayodhya. These were seen globally not merely as Modi government initiatives but as fulfilment of the RSS’ core ideological project. The RSS was seen as the root cause of India’s authoritarian shift and responsible for India's steep decline on global democratic and press freedom indices.
+
+As a result, the RSS will have to mark its centenary in a defensive mode, claiming it is merely a cultural organisation whose uniformed military-style drills build character, fitness and civic discipline — and that it actually believes in ‘universal oneness’ and one world family, despite religious polarisation and persecution at home.
+
+Few are buying this narrative except the converted. New York Mayor Zohran Mamdani expressed his "deepest opposition" to Bhagwat's first show of strength at Madison Square Garden, calling the RSS’ ideology an "exclusionary vision". Protests under the banner ‘No platform for Hate’, organised by a coalition including Muslim, Hindu, Christian, Dalit and civil society groups such as Hindus for Human Rights and the Indian American Muslim Council, argue the event's theme of ‘Universal oneness’ is an attempt to sanitise the RSS’ history of promoting majoritarian supremacy and hostility to minorities in India.
+
+‘Does he have a bias?’ Yes, towards Indian youth: What Indian-American VC said about Mohan BhagwatOpposition extends beyond the US protests. Canadian MPs Heather McPherson and Jenny Kwan sent an open letter urging the government to bar Bhagwat's entry and ban the RSS, citing his history of hate speech, advocacy of violence against religious minorities, and intimidation of critics in India and Canada. The call for action by elected officials is far more significant than street protests. In the UK, the tour's final leg, South Asian diaspora coalitions have raised alarm over the global ‘platforming’ of Hindutva ideology.
+
+Bhagwat may have walked into a reputational trap. Within India, he enjoyed the protection of the RSS protégés in governments at the Centre and states. They ensured friendly media coverage. That protection vanishes on the global stage, exposing his organisation's strategic vulnerabilities.
+
+Bhagwat has effectively surrendered the advantage the RSS held for a century in operating under the radar. It had let its political protégé the BJP take the spotlight while it worked as Hindutva's ideological powerhouse. By stepping onto the Madison Square Garden stage, the RSS forces Western institutions to examine its antecedents, organisation and polarising ideology — and they are classifying it as a far-Right ‘exclusionary’ organisation.
+
+The tour risks escalating the RSS’ problems from media criticism to State-level scrutiny abroad. In the UK, the Leicester riots of August-September 2022 were traced to Hindutva nationalism by a SOAS-led independent inquiry, and a leaked British Home Office counter-extremism report commissioned by then-Home Secretary Yvette Cooper officially listed "Hindu nationalist extremism" alongside political Islam as threats to UK social cohesion. Western democracies will not be willing to let divisive Hindu nationalist ideology spread to their societies.
+
+Beyond the USCIRF, organisations like the Indian Overseas Congress have publicly demanded Western authorities scrutinise the activities of the RSS. There have also been demands to look into Hindutva influence pedalling, financial and lobbying frameworks of the RSS-affiliated charities.
+
+Ultimately, if criticism continues to overshadow Bhagwat’s visit, it will be a net negative for his stated aims, especially as more officials and civil society organisations abroad speak out against it. Bhagwat’s message to policymakers, academics and mainstream institutions will clearly not land with its intended audience.
+
+Bharat Bhushan is a New Delhi-based journalist
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/mohan-bhagwats-costly-global-gambit-from-under-the-radar-to-under-fire-4126971)
+
+---
 
 ## 27 August 2026
 
