@@ -1,3 +1,559 @@
+## 28 August 2026
+
+### Samsung Galaxy S26 Ultra price drops by Rs 15,000 without conditions
+*INDIATODAY · general*
+
+The Samsung Galaxy S26 Ultra is currently listed on Amazon at the lowest price with the platform offering a flat discount of Rs 15,000. Here are the details of the latest Samsung phone deal.
+
+This Samsung phone is currently selling on Amazon with a starting price of Rs 1,24,990. This is for the 12GB + 256GB version. This is applicable on only the black colour option.
+
+This is down from its launch price of Rs 1,39,999, which means that interested buyers are getting a flat discount of Rs 15,000.
+
+At the moment, there is no bank card offer. But, the deal is already quite solid.
+
+It brings upgrades over the S25 Ultra, including a newer chipset, faster charging, a slightly slimmer design, and refinements to the camera system, particularly in the main and zoom sensors.
+
+With this Samsung phone, people can expect solid performance for gaming and an excellent camera experience out of the box.
+
+It is powered by the Snapdragon 8 Elite Gen 5 chipset and packs a 5,000mAh battery with 60W wired charging support.
+
+The camera system includes a 200MP primary sensor, a 50MP periscope telephoto lens, a 10MP telephoto sensor, and a 50MP ultra-wide camera, along with a 12MP front shooter.
+
+In daylight, you will get mesmerising shots with good colours, exposure,  and dynamic range. It can also take reliable portrait shots with solid blur effect in the background.
+
+The addition of a privacy display feature also sets it apart. It is a very useful feature, which will help in times when you don't want people to peep into your phone screens, as it reduces side-angle visiblity. 
+
+The S26 Ultra is a compelling pick for those looking for the latest hardware and longer software support without burning a hole in their pocket.
+
+---
+
+### Samsung Galaxy S25 gets cheaper: Here's the latest deal
+*INDIATODAY · general*
+
+If you want to buy a smartphone that comes with a flagship vibe and doesn't put a heavy burden on your wallet, the Samsung Galaxy S25 could be that device, which is available at the lowest price on Amazon.   
+
+The smartphone is currently listed at Rs 61,499, while the device was originally launched at Rs 80,999.
+
+That means you're getting a direct discount of Rs 19,500. The discount doesn't end here; there's more.  If you are a holder of an Amazon Pay ICICI Bank credit card, you can avail an instant discount of Rs 1,844.
+
+With this additional bank offer, the effective price of the Galaxy S25 drops to Rs 59,655.
+
+Moreover, the Galaxy S25 is still a solid premium phone even though the next-generation model has arrived. With a compact form factor. It features an attractive 6.16-inch Dynamic  AMOLED 2X display. 
+
+Under the hood, the Galaxy S25 has a  top-notch Qualcomm Snapdragon 8 Elite processor, which is powering many flagship users.
+
+Since this is a compact phone, it packs a 4,000mAh battery under the hood. It can last close to 9 hours with average usage.
+
+It can offer you excellent photography and videography experience. The device has a 50MP + 10MP + 12MP triple camera setup at the back and a 12MP front camera for selfies.
+
+---
+
+### Google Pixel 10 gets Rs 21,000 discount, but there is catch
+*INDIATODAY · general*
+
+Want a premium Android phone but don’t want to touch the flagship mark? Well you can checkout the Google Pixel 10 on Flipkart. 
+
+Pixel 10 (256GB) is listed at Rs 74,999, down from its selling price of Rs 79,999.
+
+Now to get the Rs 21,000 discount you need to pull some strings.
+
+First get an eligible HDFC and ICICI credit card and you get Rs 4,000 off. Flipkart Axis and Flipkart SBI credit cards offer up to Rs 3,148 off.
+
+Now if you have an old phone, for say Pixel 7 to trade in, you can get upto Rs 12,000 in exchange.
+
+That way you can bring the effective price of Pixel 10 down to Rs 58,494 on Flipkart. 
+
+What do you get with the Pixel 10? So it's not the latest Pixel, as Pixel 11 is already up in the market. But Pixel 10 has not lost its charm at all. Like for real.
+
+The Pixel 10 comes with 12GB RAM and 256GB storage and is powered by Google's Tensor G5 chipset.
+
+The camera experience remains one of the biggest reasons to consider a Pixel. The phone comes with a 48-megapixel + 13-megapixel + 10.8-megapixel rear camera setup and a 10.5-megapixel front camera.
+
+You also get a 6.3-inch OLED Actua display and a 4,970mAh battery, making the Pixel 10 a well-rounded option for everyday use.
+
+---
+
+### iPhone 16 available under Rs 34,000 on Flipkart, here is how
+*INDIATODAY · general*
+
+Yes you read the title right. You can really get the iPhone 16 for under Rs 34,000. But the catch is you need the right cards and a phone to trade in. So how does the deal work?
+
+On Flipkart the 128GB iPhone 16 is currently listed at Rs 64,900, down from the launch price of Rs 79,900. 
+
+Now coming to the real savings. The listing shows up to Rs 3,783 off with Flipkart Axis Bank or Flipkart SBI credit cards. So the price goes down to Rs 61,117.
+
+Flipkart is offering an exchange discount of upto Rs 49,250 based on the model and condition of the phone you trade in. 
+
+If you have an iPhone 13 in good condition without scratch and damage you can avail upto Rs 27,250.
+
+Put all of these offers together and the effective price of iPhone 16  comes to around Rs 33,867.
+
+But iPhone 16 is old so why consider it? Even though it is no longer Apple's newest iPhone, the iPhone 16 still offers plenty of flagship-level hardware.
+
+It comes with Apple's A18 chip, which is capable of handling everyday tasks, gaming and multitasking without breaking a sweat.
+
+For photography, you get a 48-megapixel main camera, paired with a 12-megapixel secondary camera. You also get a 6.1-inch Super Retina XDR display, a compact design and support for Apple's latest software and AI features.
+
+---
+
+### Nepal floods: 85 Indians among 117 tourists rescued, death toll reaches 538
+*Manisha Chauhan · general*
+
+## Nepal floods: 85 Indians among 117 tourists rescued, death toll reaches 538
+
+Nepal’s flood death toll has crossed 500, while a fresh dam breach and an overflowing barrier lake in Tibet have raised fears of another wave of flooding.
+
+Nepal is facing a fresh threat even as rescue teams continue searching for people missing after devastating floods and landslides earlier this week.
+
+At least 538 people have died in Nepal and China following the disaster, with hundreds still missing on both sides of the border. Authorities are now warning people living near the rivers to move to safer, higher ground after a dam upstream in Tibet reportedly burst.
+
+### **Fresh flood threat after Tibet dam breach**
+
+Nepal Police issued an alert on Friday after receiving information about a dam breach upstream in Tibet. The warning has raised concerns that another surge of water could reach flood-hit areas. Rescue workers and residents have been asked to leave vulnerable locations and move to higher ground.
+
+The situation has also affected rescue efforts at a hydropower project, where around 100 people are reportedly trapped inside a tunnel. Teams are continuing efforts to reach them.
+
+### **Barrier lake overflows near China-Nepal border**
+
+A separate concern has emerged near China’s Gyirong border port, where a natural lake formed after debris blocked a river following the floods. China’s state broadcaster CCTV reported that the lake had started overflowing, prompting authorities to suspend rescue operations in the area temporarily.
+
+The barrier lake reportedly contained around 2 million cubic metres of water as of Thursday morning. Officials are worried that if the debris holding the water breaks, a large volume of water could rush downstream towards Nepal.
+
+The development comes as the country is still struggling to cope with the destruction caused by the earlier floods.
+
+### **Nepal flood death toll continues to rise**
+
+The floods and landslides struck Nepal on August 26, with Rasuwa district near the China border among the worst-affected areas.
+
+The Bhotekoshi and Trishuli river corridors were hit by powerful flows of water, mud and debris. Homes, roads, bridges and other infrastructure were damaged or completely swept away.
+
+At least 475 people had been confirmed dead in Nepal, while around 1,500 people were reported missing in the earlier count. The latest overall toll, including deaths reported in China, has now reached at least 538.
+
+Authorities expect the number of casualties to increase as rescue teams reach areas that remain difficult to access.
+
+### **Hundreds of Indians remain uncontactable**
+
+The disaster has also affected a large number of Indian nationals. As of Thursday, around 290 Indians in Nepal were still uncontactable, while 84 had been rescued. Among those rescued were 63 workers associated with the Trishuli-I hydropower project and 21 people from Tamil Nadu.
+
+Nepal’s Foreign Minister Shisir Khanal had earlier said nearly 300 Indian tourists were missing. The latest update from the Nepal Tourism Board puts the number of missing Indian nationals at 178.
+
+### **Foreign nationals among the missing**
+
+The disaster has affected tourists and visitors from several countries. Authorities said 826 people were missing in Nepal, while another 558 were reported missing in Tibet. The missing foreign nationals include citizens of India, Australia, Britain, Malaysia, the Netherlands, Portugal, South Africa, South Korea and the United States.
+
+With rescue operations continuing and another possible flood threat emerging from upstream, authorities on both sides of the border remain on high alert.
+
+---
+
+### Odisha colleges told to cut cooking oil use, skip puris, vadas and bondas
+*SECTIONS Odisha colleges told · business*
+
+The Odisha government has asked principals of all government-run and government-aided colleges to cut the use of cooking oil in campus canteens and avoid high-oil breakfast items such as puris, vadas and bondas.
+
+Higher Education Department Deputy Secretary Ramesh Chandra Behera issued the directive to college principals on Friday, citing persistent global supply-chain disruptions and the impact of geopolitical conflicts on food, fertiliser and fuel supplies.
+
+  
+
+In his letter, Behera said the world had faced repeated supply-chain disruptions and crises since the Covid-19 pandemic. The conflicts in Ukraine and Iran had further contributed to supply-side pressures on food, fertiliser and fuel, he said.
+
+"No country in the world is immune to the economic impact of the crisis," Behera wrote.
+
+The department said several countries had taken steps to curb fuel demand and noted that India was also facing the "negative consequences" of the prolonged crisis.
+
+Behera said Prime Minister Narendra Modi had made a public appeal to citizens to make small contributions towards addressing the challenges facing the country.
+
+The Higher Education Department directed principals to issue instructions to college hostels and canteens to reduce the use of cooking oil while preparing meals for students.
+
+"Avoid high-oil menu items like puris, vadas and bondas in breakfast, reduce deep-fried food without compromising nutrition and promote use of traditional ghee, mustard oil and groundnut oil over imported palm/sunflower/soyabean oil," the department told the principals.
+
+The directive also extends beyond college campuses. National Service Scheme (NSS) and Youth Red Cross (YRC) volunteers have been asked to organise awareness programmes in their communities to encourage households to reduce the use of cooking oil in everyday meals.
+
+---
+
+### From subsidies to loans: How UP govt push turned Meerut into a sports goods hub
+*India Today News Desk · general*
+
+## Meerut's sports goods industry has expanded from a cricket bat base into a multi-sport manufacturing and export hub. Government schemes, migrant skills and rising global demand have helped drive its steady growth.
+
+Industry players credit govt initiatives, including Uttar Pradesh’s One District One Product scheme for the expansion. (Credits: Usman Chaudhary)
+
+Meerut’s sports goods industry, once known primarily for its cricket bats, has grown into a major manufacturing and export hub, with thousands of small and large units now producing equipment for a wide range of sports.
+
+According to the district industries department, Meerut currently has around 5,000 to 7,000 sports goods manufacturing units, while the annual export of sports equipment from the district is estimated at around Rs 975 crore.
+
+Cricket bats, balls and stumps remain among its best-known products, but manufacturers now produce hockey sticks, footballs, volleyballs, carrom boards, tennis and badminton equipment, sports nets, protective gear, kit bags, sportswear, boxing gloves, gym equipment and shuttlecocks.
+
+### LEGACY SPANNING NINE DECADES
+
+Meerut’s sports manufacturing industry dates back nearly 90 years. According to the industries department, some families began manufacturing footballs in the city between 1935 and 1940. The industry received another major push after Partition, when migrants from cities such as Sialkot and Peshawar brought their skills and experience to Meerut.
+
+Over the decades, local manufacturers expanded beyond footballs and cricket bats, turning the city into a diversified sports goods production centre.
+
+### GOVT SCHEMES GIVE INDUSTRY A PUSH
+
+Industry players credit government initiatives, including Uttar Pradesh’s One District One Product (ODOP) scheme, interest-free loans, machinery subsidies and the Centre’s Khelo India programme, with helping small businesses expand.
+
+Charanjit Bhatia, owner of Buchi Sports, said Meerut had only four or five sports units in its early years, compared with thousands today. He said easier access to loans and subsidies of up to 50 per cent on new machinery had helped manufacturers increase production and adopt newer technologies.
+
+Aditya Mahajan of BDM Sports said Khelo India and other government initiatives had helped broaden Meerut’s identity beyond cricket bats, with manufacturers now catering to several sports.
+
+### FROM MEERUT TO GLOBAL MARKETS
+
+Meerut-made sports goods are exported to countries including Australia, South Africa, England, the US, West Indies, New Zealand, Germany, France, Sri Lanka, Russia and Bangladesh.
+
+The industry supports not only large manufacturers but also thousands of workers and small businesses involved in stitching, polishing, fitting, packaging, transportation and supply.
+
+With manufacturers increasingly focusing on technology, quality, design, branding and exports, Meerut is steadily strengthening its position as a global sports goods hub, with annual exports of nearly Rs 975 crore.
+
+\- Ends
+
+With inputs from Usman Chaudhary
+
+Ritaban Misra
+
+Aug 28, 2026 16:52 IST
+
+---
+
+### ‘Exam Warriors, RSS Books’: Congress Takes Dig At Penguin Over Sonia Gandhi Memoir, BJP Hits Back
+*Vani Mehrotra · general*
+
+Congress leader Gaurav Gogoi questioned Penguin’s clarification on Sonia Gandhi’s memoir, while BJP’s Amit Malviya hit back over its fact-checking explanation.
+
+[Read full article](https://www.news18.com/india/sonia-gandhi-memoir-penguin-row-gaurav-gogoi-amit-malviya-bjp-congress-reaction-ws-l-10298352.html)
+
+---
+
+### Nepal declined foreign rescue help offer? India clarifies as 320 still missing
+*India Today News Desk · general*
+
+### Download App
+
+NewsIndiaNepal declined foreign rescue help offer? India clarifies as 320 still missing
+
+## The MEA said 320 Indians and 100 people of Indian origin were still out of touch after devastating flash floods killed around 600 people in Nepal.
+
+Nepal floods
+
+India said it has offered to send NDRF personnel to Nepal for rescue operations, after reports said Kathmandu has turned down requests from several countries to deploy search teams following the devastating floods, which have left around 600 dead. In a media briefing on Friday, the MEA said the government's immediate priority was to locate its nationals who are still uncontactable. The MEA said 320 Indians and 100 people of Indian origin were still out of touch.
+
+"We have also made a specific offer to Nepal authorities to dispatch NDRF teams along with associated equipment that can help in ongoing search and rescue operations. We await a response from Nepal," MEA spokesperson Randhir Jaiswal said.  
+
+\- Ends
+
+Abhishek De
+
+Aug 28, 2026 16:49 IST
+
+---
+
+### 'He’s so handsome, so strong!': Speaker Johnson nails Trump impression; crowd bursts into laughter
+*ET Online · business*
+
+Speaker Mike Johnson had the room reacting when he broke into an impression of President Donald Trump while talking about House candidate Tano Tijerina. Johnson mimicked Trump’s signature style, delivering the line: 'Look at him, Mike, he’s so handsome, he’s so strong.' The unexpected Trump impressi...
+
+[Read full article](https://economictimes.indiatimes.com/news/international/world-news/hes-so-handsome-so-strong-speaker-johnson-nails-trump-impression-crowd-bursts-into-laughter/videoshow/133590178.cms)
+
+---
+
+### Russia renews Kyiv drone attacks as homes, warehouses and air quality hit
+*India Today World Desk · world*
+
+## Russian drones struck the Kyiv region for a second straight day, damaging homes, warehouses and vehicles. The attacks deepened fears of a winter assault on infrastructure as officials warned of prolonged outages and economic strain.
+
+Stock photo used for illustration
+
+Russian forces resumed drone attacks on Ukraine’s Kyiv region on Friday, damaging more than a dozen apartment buildings and storage facilities in the second straight day of aerial strikes, according to officials. The attacks killed one person and injured two others, while Kyiv authorities said air quality worsened in some areas and urged residents to stay indoors, keep windows closed and follow air raid warnings.
+
+The fresh strikes came a day after prolonged air raid alerts in Kyiv effectively shut down the capital for 15 hours, Ukraine’s Foreign Ministry said, severely disrupting civilian life and hurting the economy more than four years after Russia’s full-scale invasion. Ukrainian officials also said Russia was targeting the power grid in what they described as an annual effort to “weaponise winter”, while authorities in the southern Kherson region warned of prolonged outages and advised residents to move if they could.
+
+Tymur Tkachenko, head of the Kyiv regional military administration, said the latest strikes damaged 14 warehouses, 16 private houses, three apartment buildings and 16 vehicles. Ukraine’s State Emergency Service said a second drone hit one site after emergency teams had arrived, in what the military calls a “double tap” attack aimed at first responders. The strikes continued into daylight, and Tkachenko urged people to remain in safe places and pay attention to air raid alerts.
+
+Russia’s Defence Ministry said its forces had struck a warehouse in the Kyiv region storing Ukraine’s Flamingo cruise missiles and fuel for rocket boosters. Ukrainian officials did not immediately confirm the claim, and The Associated Press could not verify it. Recent strikes have damaged several warehouses in Kyiv and the surrounding region, including facilities storing books, food and other consumer goods. Andrii Kovalenko, head of Ukraine’s Centre for Countering Disinformation at the National Security and Defence Council, said Russia was launching small numbers of fast-moving jet-powered drones in waves to paralyse the capital. “The goal is to exhaust air defences and the population,” he said on social media.
+
+In the Kherson region on the Black Sea, where around 70 per cent of the territory is under Russian control, officials urged tens of thousands of residents to move to safer areas because power and heating cuts could last well into winter. Oleksandr Prokudin, head of the Kherson regional military administration, said in a social media post late on Thursday: “Kherson may be without electricity and heat not for hours or days, but for a long time. And we need to prepare for this now.” He said Russia had stepped up attacks on critical infrastructure, dropping 170 glide bombs on the region since July 1, more than in the first six months of the year. He also said Russia had launched more than 1,700 attack drones in the past two months, increasingly using jet-powered Shahed and Gerbera drones against critical infrastructure, while attacks by smaller drones had risen to 6,500 in the past week alone. Authorities, he said, would help people with evacuation, transport, resettlement and social support.
+
+Ukraine’s Ministry of Economy is also revising down its GDP growth forecast in 2026 because of the impact of Russian attacks, which have restricted exports, especially grain through Black Sea ports. Economy Minister Oleksandr Kravchenko, quoted by Interfax-Ukraine, said growth earlier expected at around 1.3 per cent this year was now likely to come down to 0.8 per cent. He said the economy grew 0.6 per cent in the first quarter and recovered to post modest growth by the end of June, but further gains were being held back by damage to energy and logistics infrastructure and port blockades.
+
+Ukraine’s air force said Russia fired 164 drones overnight and did not mention any missiles, which are usually part of such attacks. In the northern Sumy region, a 61-year-old man was killed and seven others were injured in a Russian glide bomb strike, regional administration head Oleh Hryhorov said. At the same time, Russia’s Defence Ministry said its air defences shot down 512 Ukrainian drones overnight over 18 Russian regions, as well as over illegally annexed Crimea and the waters of the Black Sea.
+
+Ukraine’s General Staff said Ukrainian forces struck the Slavneft-YANOS refinery in Russia’s Yaroslavl region overnight, causing a fire at the site, which it said lies around 1,000 kilometres from the Ukrainian border. The military said the plant produces petrol, diesel, aviation fuel, fuel oil, lubricants and other petroleum products. In a separate Ukrainian drone attack on Friday morning in Yaroslavl, Governor Mikhail Yevrayev said one person was killed and 27 were injured, including 10 hurt when drone debris fell on a bus. He said unspecified industrial infrastructure, residential areas and retail facilities were hit. In Russia’s Moscow region, Governor Andrei Vorobyov said a drone struck a supermarket and damaged windows in a nearby outpatient clinic. In Sevastopol in Crimea, the Russian-installed governor Mikhail Razvozhayev said a five-storey residential building suffered heavy damage in a drone attack and four people were injured.
+
+The latest exchange of attacks showed the conflict intensifying on both sides, with Kyiv facing fresh strikes on homes, warehouses and infrastructure, Kherson preparing for a difficult winter, and both Russia and Ukraine reporting damage and casualties from overnight drone operations.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Aug 28, 2026 16:46 IST
+
+---
+
+### ChatGPT or foreigner bride? Grandmother's innocent reaction while talking to AI about her grandson divides the internet. 'Don't do this'
+*Unknown · business*
+
+A grandmother’s innocent conversation with what she believed was a foreign woman has left social media users smiling, but not everyone watching the viral clip found the joke amusing. The woman was actually speaking to ChatGPT’s AI voice assistant, something she apparently did not realise during the conversation.
+
+The video was shared on Instagram by Abhiruchi Bhatti, who filmed her grandmother, or Nani, as she spoke to the chatbot. Bhatti told her grandmother that the family had found a foreign girl for her grandson Ashu and that the woman could speak Hindi.
+
+The grandmother then took the phone and began talking to the supposed woman on the other end.
+
+  
+  
+
+## Grandmother speaks to ChatGPT thinking it is a real woman
+
+The conversation quickly became the sweetest part of the video. The grandmother asked the woman how she was and appeared interested in knowing more about her. ChatGPT responded through its voice assistant, introducing itself and offering to answer questions.
+
+The grandmother seemed completely comfortable with the conversation. She smiled, laughed and even appeared to blush at different points while speaking to the voice on the phone.
+
+At one point, she was asked about her health and replied that she was completely fine. The conversation eventually turned towards the possible marriage, with the grandmother expressing a simple wish for the couple.
+
+“Both should be happy. He isn't getting married, is he?” she asked, according to the video.
+
+Her granddaughter replied, “Yes.”
+
+Bhatti later explained why she had not corrected her grandmother.
+
+“Nani is talking to ChatGPT, genuinely believing there’s a real human on the other side… and honestly, I don’t even have the heart to tell her otherwise,” she wrote in the caption.
+
+“May we always protect this pure, innocent generation that finds magic in the simplest things,” she added.
+
+The video was followed by two more parts, in which the grandmother continued talking to her grandson’s supposed would-be wife.
+
+## Internet divided over the viral video
+
+The clip attracted plenty of affection from viewers, with many people saying the grandmother’s innocence was what made the interaction so touching.
+
+“She is such an innocent soul. Bless her heart,” one user wrote.
+
+Another commented, “This is so adorable. The way she is talking so sweetly to ChatGPT. Last innocent generation.”
+
+One viewer also reflected on the role grandparents have played in family life, writing, “They had wrinkles on their faces, but their love made our whole childhood beautiful.”
+
+ChatGPT India also reacted to the video, writing, “Nani ji ne toh pyaar se welcome kar liya (The grandma has welcomed her with a lot of love).”
+
+But there was another side to the reaction. Some viewers felt the grandmother was being made part of a prank without understanding what was happening and said the joke should not have been recorded or shared.
+
+“Don't do this, please. At this stage, a person is like a small kid. After watching this clip, it seems that you are making fun of Amma Ji. So, don't,” one user wrote.
+
+“I feel bad. This kind of prank should be banned,” another commented.
+
+A third viewer said, “I’ve seen many such videos. But, this one seems like the one where she is getting emotionally harassed.”
+
+Another user added, “Sis, you shouldn’t make fun of her like this. Our parents don’t know how to operate their mobile phones. Don’t ridicule her like this.”
+
+---
+
+### India Sends Tunnel Rescue, Medical Teams To Flood-Hit Nepal, Offers Bailey Bridges To Restore Connectivity
+*Saurabh Verma · general*
+
+India has also offered Bailey bridges to help restore connectivity in Nepal, where more than 500 people have died in catastrophic flash flood.
+
+[Read full article](https://www.news18.com/india/india-sends-tunnel-rescue-medical-teams-to-flood-hit-nepal-offers-bailey-bridges-to-restore-connectivity-10298348.html)
+
+---
+
+### Industrial output growth eases to 6.7% in July as three sectors slow
+*Business Standard · business, entrepreneur, finance*
+
+Manufacturing growth moderated to 7.3 per cent from 9.5 per cent in June, while mining and quarrying slipped back into contraction during the month
+
+[Read full article](https://www.business-standard.com/economy/news/india-s-industrial-output-growth-at-6-7-in-july-shows-govt-data-126082800859_1.html)
+
+---
+
+### Mumbai doctor on Kailash Mansarovar Yatra with wife went missing in Nepal; he has spent 30 years climbing Himalayan mountains and even organised Everest expedition once
+*Unknown · general*
+
+A Mumbai doctor with three decades of experience exploring the Himalayas is among those missing in Nepal along with his wife while on a Kailash Mansarovar Yatra.
+
+Dr Milind Chitley had organised the pilgrimage for a group of 61 people and travelled with them on the journey. His wife, Janhavi, was also with him. The couple are now missing after the Nepal disaster, according to reports.
+
+Chitley is not new to difficult mountain journeys. He has spent about 30 years taking part in Himalayan trails and expeditions and has explored more than 3,000 routes in the region.
+
+  
+
+### Mumbai doctor has spent decades in the Himalayas
+
+Chitley completed his MBBS from Grant Medical College in Mumbai in 1983 but developed a strong interest in mountaineering alongside his medical career.
+
+His experience includes working with the organising committee of the 1997 Everest Expedition. He also served as the climbing doctor for the first Indian civilian expedition to a mountain above 8,000 metres.
+
+One of the biggest achievements of his mountaineering career came on Mount Kanchenjunga, where he climbed beyond 23,000 feet.
+
+His long association with adventure activities also led him to establish an adventure sports company called Hills and Trails. He has been associated with mountaineering organisations including the Himalayan Club and has also served as president of Andheri Sports Club.
+
+### He had taken 61 people on Kailash Mansarovar Yatra
+
+Chitley had organised the 61-member Kailash Mansarovar Yatra that began on August 23. His own Mumbai clinic was scheduled to remain closed from August 24 to September 6, according to a notice placed outside the clinic, as reported by _The Times of India_.
+
+The doctor also had a reputation for being an avid cyclist. He had undertaken long bicycle journeys, including trips from Mumbai to Goa and Mumbai to Kanyakumari.
+
+His connection with the Himalayas went far beyond occasional trekking. According to _The Times of India_, Chitley had walked more than 3,000 trails and expeditions across the Himalayan range.
+
+### Patients and neighbours wait for news
+
+News of Chitley's disappearance came as a shock to people around his clinic in Andheri East. Several local residents and patients told _The Times of India_ that they knew him as an approachable and helpful doctor.
+
+Some neighbours recalled seeing him regularly in cycling gear and said his wife Janhavi would also occasionally visit the clinic.
+
+After learning that the couple were missing, local residents gathered around the clinic and hoped for their safe return.
+
+Chitley's case has drawn particular attention because of his extensive experience in the mountains. Despite spending decades travelling through Himalayan terrain and taking part in major expeditions, he and his wife are now among those caught up in the Nepal disaster.
+
+The disappearance has also left the people who knew the doctor personally waiting for updates on the couple's whereabouts.
+
+(With TOI inputs)
+
+---
+
+### Nepal flash floods: 60 Keralites safe, eight still unreachable
+*India Today News Desk · general*
+
+## NORKA Roots said it prepared a list of 82 people after verifying information received till Thursday evening by the offices of the chief minister and chief secretary, the State Disaster Management Authority and its own help desks.
+
+Authorities said a 23-member Kailash Mansarovar pilgrimage group, including 19 people from Keralam, is continuing its journey from Darchen in Tibet to Saga and is expected to reach Saga by Friday evening. (Representational Photo: Pixels)
+
+Sixty people from Keralam stranded after flash floods in Nepal have been confirmed safe, while eight Keralites, including four Australian citizens, could not be contacted, NORKA Roots said on Friday. The state government agency said the details of those not reachable have been shared with the Ministry of External Affairs.
+
+NORKA Roots said it prepared a list of 82 people after verifying information received till Thursday evening by the offices of the chief minister and chief secretary, the State Disaster Management Authority and its own help desks.
+
+Of the 82 people, 14 are from other states and their details have also been shared with the Ministry of External Affairs and the respective state governments.
+
+In a statement, NORKA Roots Chief Executive Officer Rajesh Madhavan said 60 people from Keralam in Nepal had reported being safe. He said eight Keralites, including four who hold Australian citizenship, could not be contacted.
+
+Madhavan said a 23-member Kailash Mansarovar pilgrimage group, including 19 people from Keralam, is continuing its journey from Darchen in Tibet to Saga and is expected to reach Saga by Friday evening.
+
+The group is scheduled to travel from Saga to Kathmandu on the morning of August 29 through the Kodari-Nyalam border crossing and is expected to return to India by air from Kathmandu on August 31. NORKA Roots said it is coordinating with the authorities concerned and monitoring the group's travel.
+
+The agency said some other Keralites had informed their families that they had travelled from Nepal to India and reached Darjeeling in West Bengal, while some others are safe in the Mount Everest region.
+
+It also said information had been received about one person who last contacted his family from Thulo Syabru in Langtang, Nepal, and another person facing travel difficulties in Jajarkot in Karnali Province.
+
+NORKA Roots said, on the direction of the Chief Minister's Office, arrangements had been made to help Keralites returning to India from Nepal travel to their homes in Keralam. It said those needing assistance can contact NORKA Roots help desks or the Delhi NRK Development Office.
+
+\- Ends
+
+India Today Web Desk
+
+Aug 28, 2026 16:41 IST
+
+---
+
+### WHO stress advisory WHO has a warning for people with these 8 symptoms, from headaches to muscle tension: Here’s why you should take them seriously
+*Trending Desk · business*
+
+Stress is easy to brush aside. A busy day, a difficult conversation or a packed workload can leave you feeling overwhelmed, but many people simply carry on and hope the feeling passes.
+
+The World Health Organization (WHO) has highlighted why stress should not be ignored, urging people to recognise its signs and make time to pause, breathe and slow down.
+
+  
+
+In a post shared on X, WHO said stress can make it harder to relax and make decisions. It can also increase feelings of anxiety and irritation and negatively affect overall health.
+
+## What are the common signs of stress?
+
+Stress does not always show up as an obvious feeling of worry. It can also appear through physical changes in the body.
+
+The WHO graphic highlights several possible signs, including:
+
+  
+
+-   Headaches
+-   Neck and shoulder pain
+-   Back pain
+-   Muscle tension
+-   An upset stomach
+-   Loss of appetite
+-   A feeling of heaviness in the chest
+-   A sensation of having a lump in the throat
+
+These symptoms can have different causes, so experiencing one or more of them does not necessarily mean that stress is the reason.
+
+## How does stress affect the body?
+
+When stress builds up, it can affect both mental and physical wellbeing. You may find it difficult to relax, concentrate or make decisions, while feelings such as anxiety and irritation can become more noticeable.
+
+Physical tension can also develop, particularly around areas such as the neck, shoulders and back.
+
+That is why recognising the early signs can be useful rather than simply pushing through them.
+
+## Why is it important to recognise stress early?
+
+Ignoring stress for long periods can make it harder to switch off and recover from everyday pressures.
+
+Recognising that you are feeling stressed gives you an opportunity to step back and make small changes. Even a short pause during a hectic day can help create some breathing space.
+
+WHO's message encourages people to spot the signs of stress and practise simple techniques that allow them to pause, breathe and slow down.
+
+## What can you do when you feel stressed?
+
+Simple habits can help you create a little distance from whatever is causing the pressure.
+
+You could try:
+
+-   Taking a few slow, deep breaths
+-   Stepping away from work or a stressful situation for a few minutes
+-   Getting some fresh air or going for a short walk
+-   Speaking to someone you trust
+-   Breaking overwhelming tasks into smaller steps
+-   Giving yourself time to rest and switch off
+
+The goal is not to eliminate every stressful moment from life, that would be quite a trick, but to learn how to respond when stress starts building up.
+
+## When should you take stress seriously?
+
+If stress is persistent, overwhelming or interfering with your everyday life, it is worth speaking to a qualified healthcare professional.
+
+Similarly, symptoms such as chest pain, severe headaches or other worrying physical symptoms should not automatically be assumed to be caused by stress. Seek appropriate medical advice, particularly if symptoms are new, severe or persistent.
+
+---
+
+### iPhone 17 Pro Max, 17 Pro price drops days before iPhone 18 Pro India launch event
+*Ankita Garg · general*
+
+## The iPhone 17 Pro and iPhone 17 Pro Max are now available at discounted prices on Flipkart, with additional bank offers bringing their effective prices down further just days before the iPhone 18 Pro launch event in India.
+
+Flipkart has cut prices on the iPhone 17 Pro and iPhone 17 Pro Max ahead of Apple's September 9 event.
+
+The iPhone 17 Pro and iPhone 17 Pro Max have received price cuts on Flipkart, giving buyers a chance to pick up Apple's current Pro models at lower prices just days before the upcoming iPhone 18 Pro launch in India. Apple is set to hold its upcoming iPhone event on September 9.
+
+The iPhone 17 Pro Max, which originally starts at Rs 1,49,900, is currently listed on Flipkart's mobile app at Rs 1,44,900 after a flat Rs 5,000 discount. Buyers can bring the price down further with eligible bank offers. SBI and ICICI credit card users can get an additional Rs 6,000 discount, taking the effective price to Rs 1,38,900. Flipkart Axis Bank credit card users can get Rs 9,000 off, reducing the effective price to Rs 1,35,900.
+
+This means the maximum discount available on the iPhone 17 Pro Max is Rs 14,000 when the Flipkart Axis Bank offer is applied. With the SBI or ICICI offer, the total discount comes to Rs 11,000.
+
+### iPhone 17 Pro gets up to Rs 5,000 discount
+
+The smaller iPhone 17 Pro is also available at a lower price. Its original starting price of Rs 1,34,900 has been reduced by Rs 5,000, bringing the Flipkart price down to Rs 1,29,900.
+
+The same bank discounts are available on the iPhone 17 Pro as well. Depending on the card used, buyers can therefore bring the effective price below Rs 1,25,900.
+
+The discounts make the price difference between the two Pro models interesting. At the discounted prices, buyers have to decide whether the larger display and battery of the Pro Max are worth paying extra for.
+
+### iPhone 17 Pro vs Pro Max: Which one should you buy?
+
+The biggest difference between the two models is their physical size. The iPhone 17 Pro has a 6.3-inch OLED display, while the Pro Max comes with a larger 6.9-inch panel. Both support a peak brightness of 3,000 nits.
+
+The two phones otherwise share most of their major hardware. Both use the A19 Pro chip and feature a 48-megapixel main camera, 48-megapixel ultrawide camera and 48-megapixel telephoto camera. They also have an 18-megapixel front camera.
+
+Battery life is another advantage for the Pro Max. Apple rates it for up to 39 hours of video playback, compared with up to 33 hours on the iPhone 17 Pro.
+
+Both phones also support fast charging, iOS 26 and Apple's latest software features. They come with 256GB storage as standard, with higher storage options available.
+
+For buyers who want a more compact phone, the iPhone 17 Pro offers essentially the same core experience at a lower price. However, those who prioritise a bigger screen and longer battery life may find the discounted iPhone 17 Pro Max more appealing, especially with the current Flipkart offers.
+
+\- Ends
+
+Ankita Garg
+
+Aug 28, 2026 16:41 IST
+
+
+---
+
 ## 27 August 2026
 
 ### Nestle wants India to consult on food-labelling rules amid debate on packaging warnings
