@@ -1,8 +1,91 @@
 # Editorials
 
-_Last updated: 2026-08-28 13:16 UTC_
+_Last updated: 2026-08-29 08:12 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 29 August 2026
+
+### Unkind cuts: On the Telangana and Karnataka electoral rolls
+*The Hindu · Editorial*
+
+The Special Intensive Revision (SIR) process being conducted by the Election Commission of India (ECI) is increasingly leading to a clear case of disenfranchisement in several parts of India. Marauding on after a judgment by the Supreme Court of India allowed it to proceed, the SIR has now struck out a fifth of the names from the electoral rolls in Telangana and Karnataka — nearly 22% and 19.5% respectively — and among the highest in the country. The cuts are steepest in their capital cities — five constituencies in Bengaluru have lost more than half of their electors while nine of Hyderabad’s 15 have seen deletions of more than 40%. Cuts of this kind cannot simply be a trimming of bloated rolls at the margins. If they are accurate, the ECI’s own summary revision processes were yielding bloated rolls in recent elections, and doing so in the very places with high net in-migration from the rest of India. And if the deletions are to be justified, those struck off the rolls must have left the States — a move within Karnataka or Telangana would only relocate a voter’s name on the same State roll, not remove it altogether. Yet, this is neither borne out by recent survey data nor by the government’s own population estimates.
+
+During the Bihar SIR, the Court asked why political parties had filed so few objections, seeking inclusion of wrongly deleted names; that question might hold true for the Southern States as well. A plausible reason could be that the voter id is useful to a citizen only once in a few years, leading to less alacrity on their part. This may explain why a process that puts the onus on electors yields cuts of this scale. Meanwhile, proving a smoking gun in the data is difficult because of the ECI’s opacity. It has not published the elector-to-population ratio for any State so far during the revision even though doing so is mandatory and is the only test of under-enrolment. The Karnataka Chief Electoral Officer has not even bothered to release a gender-wise breakdown of the deletions, instead scattering the lists across several Google Drive links without the old booth numbers, making verification arduous. The outcome of such shoddiness is visible in West Bengal, where the ECI’s dubious “logical discrepancy” process disenfranchised lakhs of electors, forcing them to seek redress before tribunals set up under the aegis of the Court. Months after the elections, records obtained under a Right to Information request show that barely 82,000 of the nearly 38 lakh appeals before the 19 tribunals have been decided, with more than 90% of those decisions favouring electors seeking restoration. The ECI — an institution once envied even by wealthier democracies for bringing large numbers of Indians to the polling booth — is now an obstacle to universal adult franchise.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/unkind-cuts-on-the-telangana-and-karnataka-electoral-rolls/article71401014.ece)
+
+---
+
+### Five years on, Taliban are still at a fork in the road
+*The Hindu · Opinion*
+
+For a people long regarded as at the crossroads of civilisations, the past five years of the Islamic Emirate of Afghanistan (IEA) under Taliban rule resemble the backwaters. After 47 years of bloodletting, terrorism and foreign occupation, the current “stability” is a respite. But the ongoing time-freeze only postpones an eventual transition to modern universality. So far, the process has been glacial and selective, causing pain and uncertainty. It is time to take stock of the past half-decade and try to fix the broad contours of a foreseeable future.
+
+The IEA’s overall performance since the August 15, 2021 takeover has been a binary. On the positive side, though the IEA 2.0 transition was as chaotic as the IEA 1.0 transition in 1996, it spared the country from mass retribution. Afghanistan is now largely stable and secure. The country’s “Badlands” were long associated with militant groups such as al-Qaeda. Their 9/11 attacks unleashed two decades of bloody U.S. retribution on both al-Qaeda and the IEA 1.0. The IEA 2.0 has disallowed the use of their territory for operations against other countries. During the past five years, an estimated 5.7 million refugees from Pakistan and Iran have returned to Afghanistan. While this return of an eighth of the country’s population has exacerbated the penury, the government has managed it reasonably well. These unmistakable shifts from the ruinous policies of the previous Islamic Emirate (1996-2001) have partially mitigated the world’s concerns.
+
+[Read full article](https://www.thehindu.com/opinion/lead/five-years-on-taliban-are-still-at-a-fork-in-the-road/article71401782.ece)
+
+---
+
+### Fragile mountains sound another alarm
+*Deccan Herald · Editorial*
+
+Nepal is witnessing a massive humanitarian tragedy unfold, with at least 530 people dead and thousands missing after a wall of ice and rock tumbled from the mountains and cascaded down for miles, destroying everything on the way. It tore through a three-river system, destroying major hydropower plants and a Nepal-China border crossing. Buildings, bridges, and vehicles floated like matchboxes on the roaring waters, underlining the fragility of human lives and constructions before an onslaught by Nature. The collapse, on impact, registered a magnitude of 5.2. Rescue operations are continuing, but hopes for survivors have dimmed over the hours. Many victims were residents of villages on the torrent’s way. Others were pilgrims and tourists, including many Indians. A fresh warning of secondary floods has been issued.
+
+It may take months to ascertain the exact cause of the disaster. However, there are clear signs of Nature responding under pressure, aggravated by climate change. Experts noted that a huge chunk of ice may have broken off a glacier due to the warming of the mountain ecosystem. The Himalayas are the world’s youngest and most fragile mountain range, and they have been warming at a pace several times the global average. It is estimated that Nepal has lost about one-third of its snow cover in the last three decades. The depletion is accelerating, and the fragmentation and detachment of ice from the slopes is the most prominent mode of glacier retreat across the mountain range. The 2023 Glacial Lake Outburst Flood (GLOF) in Sikkim, the 2024 Thame flood near Everest, and many other regional flash floods were triggered by similar glacier disruptions. Many minor events triggered by environmental degradation are happening every day across the range. The Indian Himalayas are estimated to have about 9,500 glaciers. Keeping a watch on them and assessing them continuously is extremely difficult. However, the crisis calls for heightened vigilance. The health of the Himalayas needs to be monitored with greater scientific validation, through international cooperation. Such informed intervention is critical for the region and the livelihoods of millions of people.
+
+The flash floods are yet another reminder of the escalating climate risks in the region and the need to respect and protect nature for our own good. India has done well to take an active role in the rescue and relief efforts after the disaster. There should be better cooperation and coordination among all Himalayan countries in monitoring the state of the mountains and protecting them.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/fragile-mountains-sound-anotheralarm-4127669)
+
+---
+
+### The message from a no-women Cabinet
+*Deccan Herald · Editorial*
+
+Karnataka’s new government has a glaring gender deficit. Nearly three months after D K Shivakumar assumed office as chief minister, not a single woman has been inducted into his council of ministers. The omission became more glaring when MLC Gayathri Shanthegowda, whose name was on the approved list, was dropped at the last minute. This is no aberration. Women have long been marginalised in Karnataka’s ministerial politics, as elsewhere in India. Grace Tucker became the state’s first woman deputy minister only in 1957, a decade after Independence, while Yashodhara Dasappa was the first woman cabinet minister in 1962. S M Krishna’s (1999-2004) ministry remains the state’s high-water mark, with four women ministers.
+
+As early as 1959, a state legislation mandated seats for women in panchayats. Ramakrishna Hegde’s government reserved 25% of seats in 1983. In 2010, the BJP government under B S Yediyurappa raised the quota to 50%, against the 33% stipulated in the 73rd Amendment. His successor, D V Sadananda Gowda, extended it to urban local bodies. Fifteen years of such reservation have created a substantial reservoir of women with experience in local governance, undercutting any claim that the party lacks suitable candidates. The Congress’s own history shows that women are hardly short of leadership ability. The party produced India’s first woman Prime Minister, Indira Gandhi; first woman President, Pratibha Patil; and first woman chief minister, Sucheta Kripalani. As Prime Minister, Rajiv Gandhi pioneered women’s reservation at the grassroots.
+
+The current situation is poor optics for Congress when its leader, Rahul Gandhi, is campaigning to “smash the patriarchy”. Women outnumber men among Karnataka’s voters, yet the state has among the lowest representation of women legislators in the South. The irony is sharper because schemes such as Gruha Lakshmi and Shakti place women at the centre of electoral strategy, even as they remain excluded from executive power. If even a one-third benchmark were applied to a full-strength cabinet of 34, there should be about 11 women ministers. With B Nagendra resigning over his alleged involvement in the Valmiki Corporation scam, the calls for inducting a woman minister will get louder. However, the objective should not be to fill quotas with token appointments or confine women to the familiar Women and Child Development portfolio. Women must not be treated as a checkbox. A government that seeks women’s votes and designs flagship schemes around them cannot keep them outside the room where power is exercised.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/the-message-from-a-no-women-cabinet-4127670)
+
+---
+
+### Jan Dhan at 12: 59 crore bank accounts, but how many are actually being used?
+*Deccan Herald · Opinion*
+
+The Pradhan Mantri Jan-Dhan Yojana (PMJDY) was launched in August 2014 to help the weaker sections and low-income groups get access to various financial services such as savings bank accounts, need-based credit, and insurance. Twelve years on, the report card looks impressive – over 59 crore accounts with a total amount of over Rs 3 lakh crore, and more than 32 crore female beneficiaries. This deep penetration at an affordable cost was possible only through the effective use of technology.
+
+However, the real story is the yawning gap between access and usage. Opening an account is a necessary first step, but it is not the same as bringing someone into the financial system in any meaningful sense. This is similar to literacy missions claiming that a person is no longer a “financial untouchable” the moment he or she can sign cheques or application forms, even though the person can neither read nor write.
+
+The scheme’s own numbers reveal an uncomfortable truth: roughly 26% of these accounts are dormant, with no transaction recorded for over two years. In some public-sector banks, dormancy runs as high as a third. A dormant account with zero balance does not help a household save, borrow, or insure itself against shocks, or build a credit history. Moreover, high dormancy imposes real costs on banks that must still maintain these accounts.
+
+If Financial Inclusion 1.0 had the goal of providing banking services to every family, Financial Inclusion 2.0 should aim to make every citizen economically strong. The measure of success should not be only the number of bank accounts, but their active use.
+
+On one hand, smartphone penetration has increased, but digital literacy is still limited. Digital frauds have been increasing. Many bank accounts have been opened in the names of women, but these accounts are often operated by other family members. Therefore, the next step of financial inclusion should be to build digital trust and ensure real financial freedom.
+
+The Reserve Bank of India (RBI)’s Financial Inclusion (FI) Index, launched in August 2021, measures the reach of financial services and covers parameters such as banking, investments, and insurance, apart from the postal and pension sectors. Financial inclusion is defined as the availability of affordable financial products and services to meet the needs of individuals and businesses while supporting entrepreneurship and empowering women. The index helps track progress, identify gaps, and nudge banks to open branches in underserved areas. The FI index in March 2026 stood at 70, up from 53.9 in 2021. The growth was witnessed across all three sub-indices of access, usage, and quality.
+
+Germany's INDEX opens Bengaluru tech centre to tap India’s manufacturing pushIndia can learn from successful international examples. Kenya’s flagship model M-Pesa expanded mobile financial services in rural areas and helped people send and receive money directly on phones via SMS, even without a bank account. It enabled farmers to receive loans directly on their phones to buy seeds.
+
+Brazil’s Pix, like UPI in India, made digital payments between people, businesses, and the government fast and affordable. Nearly 80% of the population uses Pix, and it is the most used payment method in the country. India’s strength lies in integrating Aadhaar, UPI, DigiLocker, and banking services into a unified Digital Public Infrastructure, making financial services more accessible, efficient, and inclusive.
+
+The road ahead for the government should be clear. First, we need to increase the active usage of bank accounts. In other words, shift the metric from the number of accounts opened to the number of accounts used. Second, small farmers, rural households, and women in villages should have easier access to loans through formal banking channels – expanding Mudra loans or Kisan credit card linkages is key here. Third, insurance and pension should become integral parts of financial inclusion so that every family is better prepared to face financial crises.
+
+Fourth, digital financial education should be included in school and college curricula. Fifth, we must ensure that women actively use and benefit from their bank accounts. Sixth, enhance the focus on financial literacy drives through self-help groups, panchayats, and community radio, covering areas such as how to use a debit card, how to check balances in an ATM, how to do a UPI transaction, etc.
+
+India stands at a moment of historic opportunity. Financial inclusion should be a tool of economic empowerment, helping the underprivileged live with dignity.
+
+(The writers are former bankers and train young bankers at Manipal
+
+Academy of Higher Education, Bengaluru)
+
+[Read full article](https://www.deccanherald.com/opinion/jan-dhan-at-12-59-crore-bank-accounts-but-how-many-are-actually-being-used-4127672)
+
+---
 
 ## 28 August 2026
 
@@ -14,6 +97,17 @@ Disaster struck Nepal on Wednesday after a flash flood ravaged the Himalayas and
 Given that it is the monsoon, north India and the larger Himalayan regions are under the influence of a powerful Western Disturbance. It would thus not have been unreasonable to attribute the floods to these extratropical storms that can cause clouds to collide with mountains and release enormous quantities of rain at short notice. But the ubiquity of satellites is helping establish a more complex picture, pointing to collapsing glaciers and recalling the October 2023 South Lhonak Lake disaster in Sikkim. There, an eponymous Himalayan glacier suddenly gave way, releasing millions of tonnes of water, debris and rock that pulverised Sikkim’s largest hydropower project. Subsequent analysis showed that the resulting Glacial Lake Outburst Flood (GLOF) had been years in the making. The Indian Himalayas have nearly 7,500 glacial lakes and about 15,000 glaciers, some monitored through remote sensing. Yet, fully assessing their condition requires site visits, difficult because these lakes lie in inhospitable terrain while expeditions are generally feasible only from July to September. Even with satellite monitoring, accurately forecasting a glacier collapse remains exceedingly difficult — and can be counterproductive if warnings trigger panic among residents who, often because of habit or lack of alternatives, are unlikely to move out of harm’s way. Dams and hydropower projects in such terrain are often among the first casualties of these natural outbursts, which are increasing amid global warming. Beyond relief and rescue, governments must enforce construction codes, discourage settlements and large projects in known vulnerable zones, and invest in better tracking of glacier health. Such monitoring can feed long-term disaster planning into development programmes. A tragedy is frequently not the result of a conspiracy but the product of passive neglect; the latter can be addressed.
 
 [Read full article](https://www.thehindu.com/opinion/editorial/danger-from-above-on-the-nepal-flood/article71396710.ece)
+
+---
+
+### Deferred rivalry: On the U.S. Open
+*The Hindu · Editorial*
+
+The Carlos Alcaraz-Jannik Sinner rivalry is no doubt this era’s defining matchup, but it has also been punctuated by long pauses. In early 2025, Sinner was absent for three months as he served a doping-related ban; this season, Alcaraz was out of action for four months from mid-April owing to a troublesome wrist. Just when it seemed that the two leading lights will come face to face at the US Open starting Sunday, Sinner has been waylaid by a knee injury. In 2025, they met six times in six months; there has just been a solitary duel in the subsequent nine. In a way, the postponement of the battle may suit Alcaraz, for the seven-time Major champion has not played a competitive singles fixture since Barcelona in April. The Spaniard has warmed up for Flushing Meadows with two mixed doubles matches partnering the legendary Serena Williams, but a best-of-five-sets contest is a significant step-up. The 23-year-old will open against Roman Safiullin — a tricky player who beat Alcaraz in 2023 on a Paris hard-court and reached the Wimbledon fourth round this year — and is drawn to meet the in-form American Ben Shelton in the quarterfinal. Potential semifinal opponents include 24-time Slam titlist Novak Djokovic and 2021 US Open winner Daniil Medvedev, which makes the defending champion’s path challenging.
+
+However, Djokovic and Medvedev are on their own tough journeys. The 39-year-old Serb is no longer the once-renowned hard-court master, and lost his lone match – in Cincinnati – after the semifinal reverse to Sinner at Wimbledon. Medvedev was last in a Major final at the 2024 Australian Open and is without a trophy since February. Alexander Zverev thus has a golden opportunity to make his big breakthrough on his favourite surface. Without Sinner, the German will be the top seed, and following the French Open triumph and Wimbledon runner-up finish, the 29-year-old will be confidence personified. Among women, two-time defending champion Aryna Sabalenka would have liked to be that player, but the Belarusian World No. 1 has wobbled of late and seen her lead at the top cut to less than 450 points. Her chief challenger Elena Rybakina may be racing against time to recover from an ankle injury, but with Iga Swiatek, Coco Gauff and Jessica Pegula all in impressive form leading into New York, Sabalenka will have a daunting task. Wimbledon winner Linda Noskova will be looking for a worthy follow-up while the fast-rising 21-year-old from the Philippines, Alexandra Eala, will hope to continue her recent eye-popping run. With Serena and Venus Williams set to pair up in doubles, there will be a rich sprinkling of stardust too.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/deferred-rivalry-on-the-us-open/article71401054.ece)
 
 ---
 
@@ -39,6 +133,23 @@ At first glance, the issue looks like arithmetic. India’s population has grown
 
 ---
 
+### DC Edit | Chandra Haircut Triggers Debate
+*Deccan Chronicle · Editorial*
+
+The National Company Law Tribunal’s approval of a Rs 6.5-crore repayment plan for Essel Group founder Subhash Chandra, which represents 0.03 per cent of the group’s overall 99.97 per cent debt or 0.25 per cent of Rs 2,574 crore loans, for which he provided a personal guarantee, has triggered a healthy public debate on the functioning of the 10-year-old Insolvency and Bankruptcy Code (IBC).
+
+In the last 10 years, the IBC has allowed creditors to recover about Rs 4.32 lakh crore through approved resolution plans up to March 2026, with recoveries amounting to 116.85 per cent of liquidation value and 94.56 per cent of fair value. More than 32,000 cases have been settled before admission into insolvency proceedings, involving assets worth about Rs 14 lakh crore.
+
+Despite many successful recoveries, the haircut in Mr Chandra’s case — called by the Congress as mundan (tonsure) — highlights malaise in the system. The mystery over the approval deepens further as big names in the Indian banking industry such as LIC Housing Finance, HDFC Bank, Axis Bank, Canara Bank, RBL Bank and Union Bank have opposed the plan.
+
+The stark disparity between corporate haircuts and individual defaults threatens to dilute the fundamental deterrence the IBC was designed to create. The NCLT's acceptance of a near-total write-off at the individual level risks reducing personal guarantees to mere paper promises. Dissenting creditors argue that approving token recoveries sets a damaging precedent for ongoing high-profile resolutions and erodes credit discipline across the banking sector.
+
+If the government is sincere in its approach towards defaulters, the Insolvency and Bankruptcy Board of India (IBBI) must conduct a comprehensive forensic tracking of global assets to scrutinise undisclosed global holdings and prevent defaulters from turning insolvency mechanisms into an escape hatch for promoters seeking clean-slate exits at the public’s expense.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-chandra-haircut-triggers-debate-1983092)
+
+---
+
 ### DC Edit | Clear Global Warning In Nepal-Tibet Catastrophe
 *Deccan Chronicle · Editorial*
 
@@ -61,6 +172,27 @@ With so little credible information in terms of numbers coming out of the Chines
 Ecologists and environmentalists have been warning the world for years about the fragility of the Himalayan mountain region and the deleterious effect of human activities. It will soon enough be established that this epic tragedy was principally caused by global warming. Each riverbank will represent a danger zone and that by itself is an early warning.
 
 [Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-clear-global-warning-in-nepal-tibet-catastrophe-1982852)
+
+---
+
+### DC Edit | No Space For Blame Game On Nepal-Tibet Tragedy
+*Deccan Chronicle · Editorial*
+
+The scale of the glacial collapse disaster in the Himalayas is so huge that an exponential rise in the toll is only to be expected. Nepal’s security and disaster response forces are toiling manfully to help find any survivors before it is too late for them. The real toll could be above 1,000 only on the Nepal side while data from China is still being posted reluctantly. And the ground situation is not safe yet as news of a barrier dam breaking in Tibet kept the region on tenterhooks on Friday.
+
+It is, however. too late to argue over the fundamental cause of the tragedy and whether it was a Chinese glacial lake burst, termed as a “geological disaster dam”, which triggered the glacial collapse that led to the gargantuan mix of ice, rock and debris flattening the terrain as it gravitated downstream in the Bhotekoshi-Trishuli river system. The fact is the glacial avalanche was the immediate cause of the catastrophe on the border, as substantiated by satellite observations.
+
+China may not have passed an international alert on an impending disaster in time to help, which is what the Nepali media claimed. China reportedly has a strong monitoring and early warning system in border areas regarding any glacial lake outburst floods. Its action now in passing on a level 4 flood alert about a barrier lake building at the confluence of two rivers and which was beginning to overflow was a clear follow-up to the fateful event of August 26.
+
+In a region filled with glacial lakes and glaciers, the importance of early warning can never be overstressed, but the difficulty of passing on information in real time which in turn will have to be transmitted to the population spread over a vast and remote area of poor communication capacity must also be considered. And then there is the threat of crying wolf and getting the people into a frenzy each time any glacial disturbance is noticed by remote sensing.
+
+It takes several hours for the water to flow down the rivers that flow across the Nepal-China border and an early warning of the type that China put out on Thursday may be valuable in saving lives, if not the houses and other buildings. Of course, there is a need for greater coordination among the Himalayan nations if disaster warnings are to be meaningful and come in real time.
+
+Historically, early civilisations were nurtured and flourished on the banks of water bodies like rivers. Living on riverbanks exacerbates the problems in the most modern era of extreme weather events in which flash floods have become commonplace. While shifting people away from near water bodies, at least in mountainous terrain, is still an impossible task, building an early warning system on mobile phone communication can be more easily established even if they will be patchy in the remote areas in which the latest tragedy struck.
+
+The greater fear is one about which very little can be done and that is to do with the building of large infrastructure projects that can easily disturb the fragile mountain ecosystem. National security is the reason why nations would build roads, bridges and supporting infra in remote border areas which goes against the grain of general safety. But who is to bell the cat, considering China is the biggest such constructor, including dams and hydroelectric projects.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-no-space-for-blame-game-on-nepal-tibet-tragedy-1983083)
 
 ---
 
@@ -140,6 +272,82 @@ Japan is now faced with the America First policy of the US. Aggressive missile t
 After taking over the leadership of LDP in October 2025, Prime Minister Sanae Takaichi has followed a more robust security policy similar to that of the late Prime Minister Shinzo Abe. Under her watch Japan’s security and defence policy is being revised moving away from strict post-World War-2 pacifism. ...
 
 [Read full article](https://www.deccanchronicle.com/opinion/columnists/how-dependable-are-us-security-guarantees-for-japan-s-korea-1982848)
+
+---
+
+### Rahul Rides Youth Anger,  Smriti Hits Defiant Note
+*Deccan Chronicle · Opinion*
+
+The Bharatiya Janata Party (BJP) and the Indian National Congress (INC), the two major national parties, have suddenly woken up to the presence of the young people, with the convenient label of “Gen Z”, and both the parties are frantically engaged in reaching out to them. For many years now, the youth of the country did not figure as a factor in the political strategies of the big two parties. It is true that the Congress’ Rahul Gandhi had been reaching out to them time and again because it seemed that given his own relatively young age, say a decade ago, he had been addressing student gatherings. But now in 2026, after the Cockroach Janata Party (CJP) inspired youth tsunami at Jantar Mantar in July over Neet paper leak, Rahul Gandhi has been double quick in seizing the opportunity of reaching out to the awakened and activist Gen Z. And they have been responding to him with gusto as could be seen in his engagements in Kota, In Allahabad (Prayagraj) and in Pune.
+
+The BJP on its part has been slow in waking up to the fact that Gen Z is the new political actor on the nation stage. First, Prime Minister Narendra Modi responded rather hesitatingly by taking to the Instagram videos, and this lack of confidence has boomeranged. The young protesters responded with savage humour. Mr Modi asked his Cabinet colleagues to take to Instagram. But it is clear that it has turned out to be a social media minefield that no senior BJP leader dares to tread. The party has not given up. It is thinking of ways to connect with the youngsters. As the party in power, now for over a decade, it is at a severe disadvantage. It has become the party of status quo, while the protesters are screaming for change. This is exactly the situation that the Congress confronted in 2011 when the Anna Hazare-led India Against Corruption movement of Arvind Kejriwal Kejriwal, Prashant Bhushan, exploded. The Congress was helplessly status quo, even as Kejriwal & Co. pressed for change. The BJP then was a silent bystander, and took advantage of the discontent in 2014.
+
+The respective attitudes of the Congress and the BJP towards Gen Z can be seen fortuitously in the stances of former electoral rivals, Rahul Gandhi and BJP’s Smriti Irani. The two faced off in 2014 and in 2019, Rahul defeating her in 2014, and she defeating him in 2019. Rahul in his address to an emotionally-charged gathering of young women — organised by the Congress’ National Students Union of India (NSUI) — in Pune tore into the Manu Smriti, the outdated Hindu legal code which was revived by the British abetted by Brahmin scholars in the 19th century, and drove home the modern message of the rights and freedoms of the individual. And the audience responded with a loud of hurrah of approval. Rahul spoke the modern inspirational message that each individual is unique and irreplaceable. That is the kind of rhetoric that connects instantaneously with the modern youngster.
+
+Contrast this with Smriti Irani’s response to the impatience and anger of the youngsters which was typical of a status quo party. In an interview with the television news channel, NDTV, Ms Irani raised a rhetorical counter-question, “Are we not relevant because we are not 29?” The magic figure of 29 is India’s young population’s media age, which is climbing up. It was 25 a decade ago. Her anger was perceptible when she termed the emphasis on the young as “ageist”. This is the utmost defensive stance.
+
+Ms Irani is not any ordinary member of the right-wing Hindu nationalist party, with its reactionary and conservative ethos. She is the party’s new-appointed general secretary, and she is part of the triumvirate comprising party president Navin Nabin and fellow general secretary Vinod Tawde tasked with youth outreach. Ms Irani’s stance and attitude resounds with defiance, which is not very helpful in reaching out to a young audience that is restless. It does not show any trace of conciliation, and a desire to reach out to the youngsters and create a positive vibe. It is a negative approach on the face of it. Rahul Gandhi, on the other hand, is tapping into the anger and restlessness. This is something that the BJP did in 2014 and successfully too — tapping into public anger.
+
+Interestingly, Rahul is in his late 50s, and Ms Irani has just entered the 50s slot. But Mr Gandhi is at an advantage because the public mood favours him. The younger Ms Irani is facing headwinds because she has to defend a government that is seen as responsible for all that is wrong with the examination system, and also the general fact that the economy is going through a stressful stage despite the unrealistic rhetoric of the Prime Minister and his Cabinet colleagues. The youngsters are feeling the economic stress and there is no way of convincing them that there is no problem with the economy.
+
+The BJP is in a tight spot because it is the ruling party. It seems to recognise the problem and it is thinking of ways to grapple with the problem. But it...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/rahul-rides-youth-anger-smriti-hits-defiant-note-1983055)
+
+---
+
+### Zealous Writers And The Perils  Of Guesting At Online Book Clubs
+*Deccan Chronicle · Opinion*
+
+“The nightingale’s song holds no melody —
+
+It may have for some but certainly not for me
+
+A poet said I must have dirty ears
+
+His melodious words are fancy’s fantasy.”
+
+—From Rubaiyat of Karokaan by Bachchoo
+
+Have you, gentle reader, ever won the Nigerian lottery? I have won it several times, despite never having bought a ticket, though the communicants who want my bank details, so they can deposit the millions I have won, tell me that
+
+an anonymous admirer bought a hundred lottery tickets in my name and one of them won.
+
+I don’t send my bank details, such as they are! I confess, I have been tempted to make up account numbers and sort codes from standard UK banks in order to waste the scammer’s time while trying to access money from these. But then I’ve decided not to waste my own time, because there’s no point in trying to make a fool of some idiot who tried to make a fool of me.
+
+Family Motto: “The intelligent must make concessions!”
+
+I’ve received e-mails saying that an estranged, unknown, distant but admiring relative has died and the lawyers executing his will have to send my considerable inheritance, so they need my bank details? The only problem — for them — was that they hadn’t researched Parsi, Zoroastrian first names and sent me these missives saying they were acting for the late ‘Herbert’ or ‘Benjamin’ Dhondy…
+
+Did I send my bank details? Has the Pope converted to Zoroastrianism?
+
+In recent months I’ve been the target of three instances of what seems to be a new scam aimed at defrauding writers of books.
+
+Here’s how it works: I get an e-mail from a very Western-sounding correspondent — two females and one male — saying that they have read one of my books and sending me a flattering review. They inevitably say that the book deserves more attention from readers and buyers. Do I disagree? Subsequent emails tell me that they are professional book-promoters and can assure me that, for instance, they can raise the volume of online viewers of my book’s title from, say, 30 to 3,000. What’s not to like?
+
+Then they ask for what seems a fairly modest advance — let’s say $150. They offer to send their bank details so I can make the deposit and they can start the promotion processes.
+
+A variation of this suggestion came from “Distinct Book Club”. The correspondent, with an intriguing name consisting of a very Western first and last names and ‘Ali’ between them.
+
+Distinct offered me a Zoom meeting with thousands of the book club’s members who would be very interested to ask me questions about the ‘content’ of my book. And yes, he wanted an up-front advance in order to set up the Zoom meeting.
+
+What was intriguing about Distinct’s proposal of a Zoom question-and-answer was, how did the purported thousands of members of the book club know what to ask if they hadn’t bought and read the book? I asked ‘Ali’ precisely that and he said one of the members had read the book and told the others about it.
+
+I think and thought my proposal to both the book promoters and to Distinct was that they should proceed with the promotion and the Zoom and I would pay them by ‘results’. By this I meant that if the promotion resulted in the sale, by the hundreds or thousands, I would get the figures from the publishers of the numbers and the royalty I would earn from the sales. I would, through a watertight contract, give them one third of the royalty I earned.
+
+This was an extremely generous offer as even a few score sales of the titles they were promoting would give them several multiples of the sum they asked for in advance.Guess what? They all refused this payment-by-resulting-sales offer Instead they insisted on the advance payment. I was at a gathering of writers and the topic turned to promotion. Two of whom said the scammers didn’t want the small advance but wanted the bank details or debit/credit card details attached.
+
+They would use these for criminal extraction, even using overdraft limits which banks offered these accounts.
+
+What was remarkable was that when I said I would pay the advances demanded, and asked for their bank details, they all came back with bank accounts in the name of distinctly Nigerian individuals.
+
+My daughter Tir Dhondy is a TV investigative journalist and presenter. One of the docs she made for the BBC is called Sexploitation and involves a Nigerian slum gang who post false porn to white lads in Europe and the US and when they reciprocate with porn pictures of themselves, they blackmail them, demanding money. One victim of this blackmail committed suicide which started Tir’s investigation.
+
+I have asked two of my book-promotion con-persons if they would be interviewed for a documentary about book-promotion scams. Answer came there none!
+
+The Sexploitation gang wrote extremely idiomatic and plausible emails posing as girls wanting porn and sex. My book-promotion correspondents are also extremely efficient, polite, flattering communicators. One of them...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/zealous-writers-and-the-perils-of-guesting-at-online-book-clubs-1983088)
 
 ---
 
