@@ -1,3 +1,910 @@
+## 29 August 2026
+
+### Tsunami from mountains: Rescued Tamil Nadu pilgrim recalls Nepal flood horror
+*India Today World Desk · general*
+
+## For 21 pilgrims from Tamil Nadu, the sacred journey to Kailash Mansarovar turned into a terrifying fight for survival as they watched the Himalayas unleash a wall of water and debris, with one survivor recalling the monstrous flash flood as a "tsunami falling from the mountains".
+
+Twenty-one pilgrims from Tamil Nadu, caught in Nepal’s devastating floods, returned home on Friday carrying harrowing memories of the disaster and a deep sense of relief at having survived.
+
+What began as a pilgrimage through one of the world’s most majestic mountain landscapes quickly turned into a terrifying battle for survival for 21 pilgrims from Tamil Nadu travelling towards Kailash Mansarovar, when devastating flash floods tore through Nepal’s Rasuwagadhi region on August 26.
+
+“It felt like a tsunami falling from the mountains,” one survivor recalled, as torrents of water, mud and debris came hurtling down the slopes, sweeping away roads, buildings and everything in their path. The pilgrims were forced to abandon their journey and scramble up steep, rugged terrain to escape the advancing waters, witnessing the Himalayan landscape around them transform into a scene of destruction within moments.
+
+The destruction was particularly severe in Rasuwagadhi and Timure region, near the Nepal-China border, where the market area was swept away.
+
+Among those caught in the disaster were women from Tamil Nadu's Tiruchirappalli, Vallinayaki and Karpagam, who were travelling by bus towards the Chinese border when a massive landslide struck.
+
+They recalled seeing a thick, smoke-like cloud of mud, rocks and debris rushing down the mountain. With no immediate help available, the 21 passengers escaped through the driver’s side and began climbing a steep mountainside.
+
+When some of the women struggled to climb, they used a sari to pull one another up, eventually reaching a rescue centre after nearly two-and-a-half hours. The group was part of a larger contingent undertaking the sacred Kailash Mansarovar Yatra and was brought back to India safely on Friday after the disaster.
+
+Another rescued pilgrim from Andhra Pradesh’s Visakhapatnam, said the floodwaters came within 100 metres of him. Describing the situation as “very serious”, he said, “God helped me” survive the ordeal.
+
+The pilgrims credited the Nepal Army and local authorities with bringing them to safety. They were taken to Kathmandu before travelling to India via New Delhi, reaching Chennai on an Air India flight on Friday night, where they were reunited with anxious families.
+
+External Affairs Minister S Jaishankar met the group in Delhi and said the pilgrims had been rescued by the Nepal Army from a “very difficult place”. The Indian Embassy in Kathmandu subsequently facilitated their return.
+
+Their safe return came as India continued efforts to trace nationals affected by the disaster. MEA spokesperson Randhir Jaiswal said 320 Indian nationals remained “uncontactable”, while around 100 people of Indian origin were also yet to be reached.
+
+MEA also said that contact had been established with around 400 Indian citizens on the Chinese side, all of whom were safe. "We are doing everything possible to ensure the safety of our Indian citizens and providing all possible assistance to Nepal as per their request," MEA spokesperson Jaiswal said.
+
+India has also sent humanitarian assistance to Nepal, including food, medicines, blankets, solar lamps and other essential supplies.
+
+Meanwhile, Nepal’s flood toll climbed to 626 on Saturday, with 2,426 people still missing, according to the country’s disaster authority. The number of missing people rose significantly from 1,924 reported on Friday night, while the number of unaccounted foreign nationals remained unchanged at 517, according to the National Disaster Risk Reduction and Management Authority.
+
+The updated figures came three days after the floods tore through parts of Nepal, as search and rescue operations continued across the worst-hit areas.
+
+\- Ends
+
+Shipra Parashar
+
+Aug 29, 2026 12:37 IST
+
+---
+
+### Uttarakhand man went to Dubai to operate cranes, now earning over Rs 1 lakh a month
+*India Today Education Desk · general*
+
+## A crane operator from Uttarakhand has shared details of his Dubai job, saying he earns around Rs 1-1.7 lakh a month. Here is what he says about the crane operator's salary, licence and work.
+
+Balwinder Singh from Uttarakhand has worked as a crane operator since 2005. He says he now earns up to Rs 1.7 lakh a month in Dubai. (Image: Instagram/@jaggy.abroad)
+
+Dubai's skyline is filled with cranes, but behind those towering machines are workers who spend years learning how to operate them safely. One such worker is Balwinder Singh from Uttarakhand, who has been operating cranes since 2005.
+
+In a recent Instagram video shared by content creator Jagdish Chawla, Singh spoke about his work, earnings and experience in Dubai.
+
+According to the details shared in the video, Singh earns more than Rs 1 lakh a month. He also said that the Dubai crane operator salary can range from around 4,000 to 4,500 AED a month, depending on the circumstances.
+
+### HOW MUCH DOES A CRANE OPERATOR EARN IN DUBAI?
+
+According to Singh's account, a crane operator in Dubai can earn around 4,000-4,500 AED per month, which was described as approximately Rs 1-1.7 lakh. However, this should not be treated as a fixed salary for every crane operator in Dubai.
+
+Pay can vary depending on experience, employer, type of crane, working hours and other employment conditions. Singh's more than two decades of experience may also be a factor in his earnings.
+
+For comparison, Indeed's Dubai salary data listed an average base salary of about 3,044 AED per month for crane operators as of August 13, 2026.
+
+### DO YOU NEED A SPECIAL COURSE TO BECOME A CRANE OPERATOR?
+
+Singh said that becoming a crane operator in Dubai does not necessarily require a special course, but workers need a valid crane operator's licence.
+
+According to the details shared by Chawla, the licence can cost around 6,000-7,000 AED, with the individual usually paying for it. Singh also said he arranged his own visa and obtained his licence independently.
+
+### SINGH HAS BEEN OPERATING CRANES SINCE 2005
+
+For Singh, the Dubai job is the result of years spent in the profession. He started operating cranes in 2005 and has now spent more than 20 years working with machinery.
+
+Speaking about opportunities in Dubai, Singh said, “Dubai has opportunities for those who are willing to work hard, so don’t hesitate to come and build your career here.”
+
+The video has since attracted attention online, with users discussing the profession, salary and experience of the Uttarakhand worker.
+
+_**(Disclaimer: This story is based on a social media post. The details, including figures, background, and outcomes, have not been independently verified by India Today. The article is intended for informational purposes only, and readers are advised to exercise their own discretion before drawing conclusions or making decisions based on the content.)**_
+
+\- Ends
+
+vaishnavi parashar
+
+Aug 29, 2026 12:35 IST
+
+---
+
+### Delhi civic body plans cleaning overhaul for Lutyens’ Delhi roads
+*India Today News Desk · general*
+
+## The NDMC will frame a standard operating procedure for cleaning roads and public spaces in Lutyens' Delhi. The move aims to curb dust, improve road upkeep and tighten safety norms for ground staff.
+
+The NDMC chairman had previously apologised to residents of the Lutyens' area over waterlogging in most parts after heavy rain. (Credits: PTI)
+
+The New Delhi Municipal Council will prepare a standard operating procedure to improve the cleaning of roads and public spaces in the Lutyens' area, with a focus on pressure-jet water cleaning and mechanised sweeping. NDMC chairman Manoj Kumar Dwivedi said the council would integrate these measures and institutionalise them through an SOP.
+
+Responding to suggestions and feedback on civic cleaning, Dwivedi said pressure-jet water cleaning was already being carried out. In a post on X, he said, "We will integrate it with other things and make an SOP for best cleaning and dust/dirt removal. Then will institutionalise it."
+
+Dwivedi said six mechanised road sweeping machines have already been deployed and more will be added soon. He said it was important to ensure a steady water supply for these machines so that dust can be controlled effectively while the roads are being swept.
+
+He also said dust on the roads was linked to road conditions and the upkeep of green spaces along the roads. Some of these issues, he said, were "legacy problems" and would take time to fix.
+
+The NDMC is considering "reengineering" measures to deal with these challenges, and international standards will be followed while constructing new roads, he added.
+
+Dwivedi also announced that fluorescent safety jackets would be made mandatory for all ground staff. According to him, the jackets would make workers more visible to the public, while fluorescent strips would improve safety during dark hours.
+
+On a suggestion that ground staff should also be given shoes, he said the need would depend on the nature of the work, citing the example of a pump operator deployed during waterlogging, for whom shoes may not be advisable. He added that other requirements would be assessed and included in an SOP.
+
+Earlier this week, the NDMC chairman had publicly apologised to residents of the Lutyens' area over waterlogging in most parts after heavy rain. He had said his outreach on social media was aimed at improving public communication and strengthening the council's feedback mechanisms.
+
+\- Ends
+
+India Today Web Desk
+
+Aug 29, 2026 12:33 IST
+
+---
+
+### Flyer on Phuket-Bengaluru flight 'tries to hide' drugs in lav overhead panel, held on arrival
+*Saurabh Sinha · regional, india*
+
+The accused was allegedly carrying 13 packets of contraband substance
+
+NEW DELHI: A passenger flying from Phuket to Bangalore on Friday allegedly tried to conceal narcotics in the overhead oxygen mask panel of Air India Express flight (IX 903). Sources say he was allegedly carrying 13 packets of contraband substance he had bought in Phuket."He tried to hide them in an overhead panel of the aircraft lav. When he was not able to either do so or conceal the entire stuff with him, he threw some in the lav bin," said sources. They add this passenger told the crew he had inadvertently damaged an overhead panel while changing clothes in the lav.
+
+When the aircraft landed in Bangalore around 7 pm Friday, there were customs officials at the aerobridge who are learnt to have arrested him.At this stage, it is not known whether customs had intel on this passenger allegedly carrying narcotics or the crew had informed the airport.An AI Express spokesperson said: "We are aware of an ongoing investigation involving smuggling of a prohibited substance by a passenger on a flight from Phuket. We maintain strict protocols and continue to support the authorities in all investigations.”
+
+---
+
+### ‘Lake America’, Kim Jong Un and more: Trump’s distraction game heats up as Iran war drags on and midterms loom
+*Unknown · world*
+
+US President Donald Trump appears to be intensifying his efforts to shift attention away from the Iran war and economic pressures as Republicans head into a difficult midterm election season in November.
+
+Trump has in recent weeks turned to a series of headline-grabbing subjects, from his proposal to rename Lake Ontario to renewed talk of North Korean leader Kim Jong Un and posts about changes at the White House.
+
+  
+
+The moves fit a political approach Trump has used throughout his career: redirecting public attention when an issue becomes politically damaging.
+
+"This president specializes in diversions," William Galston of the Brookings Institution told AFP.
+
+The Iran war has weighed on Trump's approval ratings, which polls have placed consistently in the low 30s. The conflict has now reached the six-month mark with no clear end in sight, creating a challenge for a president who campaigned on keeping the United States out of prolonged foreign wars.
+
+The Atlantic reported that the White House was seeking to push the conflict into the background by avoiding further military action and focusing instead on less newsworthy economic measures against Tehran.
+
+Trump's Lake Ontario announcement provided a fresh example of the strategy. On Thursday, he called reporters into the Oval Office to announce an order to rename the lake, which borders Canada, as "Lake America."
+
+The announcement came amid an ongoing trade dispute with Canada and reinforced the "America First" message that Trump has used to appeal to his political base.
+
+Democrats criticised the move. Senate Minority Leader Chuck Schumer called it a "juvenile" effort to divert attention from economic concerns.
+
+"It's a pathetic attempt at distraction, and it's working families who are paying the price," Schumer said in a statement following the announcement.
+
+### Trump turns attention to Kim
+
+A week earlier, Trump unexpectedly revived the possibility of talks with North Korean leader Kim Jong Un, despite having rarely discussed the issue since returning to the White House in January 2025.
+
+Trump praised Kim, whom he met three times during his first presidency, while criticising US ally South Korea and reducing the scale of joint military exercises with Seoul.
+
+Trump has also drawn attention to his changes to the White House. On Friday, he posted on his Truth Social network about "cleaning and regrouting the Granite" at the White House entrance.
+
+Democrats have argued that such displays risk making Trump appear detached from voters' concerns.
+
+At the same time, Trump is seeking to make the midterm elections a referendum on his own record. After candidates backed by him won several Republican primaries, he has suggested that his personal involvement could help the party retain power.
+
+"Pretend I'm on the ballot," Trump told Fox News on Wednesday.
+
+Trump is also planning to spend $400 million from his political war chest on television advertising highlighting his record ahead of the November elections. Republicans are facing the possibility of losing control of Congress in the midterms.
+
+The White House has meanwhile promoted what it described as "14 recent wins", covering issues including restrictions on mail-in voting and increased deportations of migrants.
+
+### Economy remains a key challenge
+
+Trump's attempts to redirect the political conversation face significant obstacles, particularly if voters continue to feel the impact of higher prices.
+
+The Iran war remains a difficult issue for a president who promised to avoid involving the US in new foreign conflicts. At the same time, persistently high oil prices could keep the cost of living and the economy at the centre of the midterm campaign.
+
+"It's hard to change people's minds when you're talking about things they're experiencing directly," Galston said.
+
+The White House has also lost one of its prominent public voices after Press Secretary Karoline Leavitt stepped down, saying she wanted to spend more time with her children.
+
+Trump's political influence could face another test after the midterms, when he enters the lame-duck phase of his presidency. However, he is likely to remain a central figure in Republican politics through speculation over his preferred successor for the 2028 presidential election.
+
+Trump has also repeatedly hinted at seeking a third presidential term. The US Constitution bars presidents from being elected to a third term, although Trump has continued to fuel speculation about the possibility.
+
+---
+
+### BJP turns PM's 'dimaagi Naxal' remark into memefest to bash Opposition
+*Piyush Mishra · general*
+
+## BJP state social media handles have begun tagging and reposting one another in a meme-led campaign against the Opposition. The coordinated push centres on the party's 'Dimagi Naxal' line and signals a wider digital rollout.
+
+The activity comes as BJP national president Nitin Nabin’s new team settles into its organisational responsibilities. (File Photo: ITG)
+
+The Bharatiya Janata Party’s (BJP) newly constituted social media team appears to be moving towards a more aggressive and coordinated digital campaign, with state units increasingly working together to target the Congress and other Opposition parties through memes, videos, satire and pop-culture references.
+
+Over the past three days, several BJP state social media handles have begun quoting, reposting and tagging one another, creating a cross-state amplification strategy around political messaging. The campaign has focused particularly on the BJP’s “Dimagi Naxal” narrative and what the party describes as an ideological battle with the Opposition.
+
+(Credits: X/BJP Jammu and Kashmir)
+
+(Credits: X/BJP Madhya Pradesh)
+
+The activity comes as BJP national president Nitin Nabin’s new team settles into its organisational responsibilities. The party’s social media operation is being led by national social media convener Deepak Maske, with state units experimenting with a more collaborative approach to digital campaigning.
+
+The latest push appears to have begun with the BJP’s Jammu & Kashmir handle, which shared a video featuring Bollywood actors Salman Khan, Sanjay Dutt and Jackie Shroff appearing together on a reality-show stage.
+
+The BJP gave the clip a political spin, portraying the actors as representatives of Karnataka, Jammu & Kashmir and Goa BJP units, respectively, and describing them as a “nightmare” for the “Dimagi Naxal ecosystem”.
+
+Madhya Pradesh BJP subsequently joined the exchange, while Delhi BJP posted a video featuring actor Pankaj Tripathi with the message, “Haven’t forgotten us, have you?” The interactions have since developed into a broader meme-based campaign involving multiple state handles.
+
+### A NEW WAY OF GENZ OUTREACH?
+
+A BJP IT cell functionary said the objective was to bring the party’s state-level social media ecosystem onto a common platform. State handles are being encouraged to amplify one another’s posts and collaborate on content when an issue has relevance beyond an individual state.
+
+Party sources said the strategy is aimed not only at increasing reach but also at shaping political conversations across multiple states simultaneously. The BJP is also using scenes from Bollywood and Hollywood films, actors and humorous clips to make political messaging more accessible and shareable, particularly among younger audiences.
+
+The “Dimagi Naxal” phrase has emerged as a key theme after Prime Minister Narendra Modi used it in his political messaging. BJP handles are now attempting to push the term further through memes and short-form videos attacking what the party describes as an Opposition ecosystem.
+
+A BJP leader described the recent activity as merely a “trailer”, signalling that a larger digital campaign could follow. The party is also looking to replicate the strategy on Instagram, while a teaser reading “Shall we begin” has appeared across its social media platforms with multiple state handles tagged together.
+
+The developments suggest the BJP is moving towards a state-to-state digital network combining political attacks, satire and pop culture in an effort to shape the online narrative.
+
+\- Ends
+
+Ritaban Misra
+
+Aug 29, 2026 12:19 IST
+
+---
+
+### Meta India head Sandhya Devanathan to join OpenAI in regional role
+*Business Standard · business, entrepreneur, finance*
+
+Devanathan will be based in Singapore and oversee consumer growth, enterprise adoption, partnerships, regulatory engagement and operations across Southeast Asia and Australia
+
+[Read full article](https://www.business-standard.com/companies/news/meta-india-head-sandhya-devanathan-to-join-openai-in-regional-role-126082900299_1.html)
+
+---
+
+### Nepal President Ram Chandra Paudel thanks India for 'generous support and solidarity' after floods
+*Abhishek Mishra · general*
+
+Nepal President thanks India for support
+
+Nepal President Ram Chandra Paudel on Saturday expressed his "deepest" gratitude to India for its assistance to the flood-hit Himalayan nation during the difficult time.President Paudel thanked his counterpart in New Delhi, President Droupadi Murmu, and posted on X: "On behalf of the Government and the people of Nepal, I extend our deepest gratitude to Your Excellency Smt Droupadi Murmu for your kind concern and also for the generous support and solidarity extended by your government following the recent calamity in Nepal.
+
+"
+
+Nepal President also expressed condolences over the loss of Indian lives in the disaster, adding in his post on X: "We also offer our heartfelt condolences and profound sympathy to the Government and the people of India for the tragic loss of Indian lives in the disaster"
+
+The expression of gratitude comes after India actively monitored the situation in Nepal and extended immediate assistance and relief material to the country.
+
+India also launched assistance flights as part of its disaster response following the Himalayan tragedy.India has also sent an 11-member specialised medical and tunnel rescue team to Nepal to support relief and rescue operations.So far, Nepal has recorded 626 deaths, while more than 4,000 people remain missing following the flood disaster that struck days ago.The tragedy was reportedly triggered by a glacier collapse near the Nepal-China border.
+
+---
+
+### Nagendra resigned to avoid embarrassment to Congress: DK Shivakumar
+*Pranjal Pandey · general*
+
+Shivakumar said Nagendra submitted his resignation after being hurt by the opposition’s "false allegations" and the disruption of Assembly proceedings (Photo: ANI).
+
+NEW DELHI: Karnataka chief minister DK Shivakumar said on Saturday that B Nagendra, who held the planning and statistics portfolio, has submitted his resignation from the state cabinet to avoid embarrassment to the Congress party, though the final decision will be taken after discussions with the party high command.Nagendra resigned from the state Cabinet on Friday as opposition protested over his alleged involvement in the Rs 89 crore Valmiki Corporation scam, marking his second resignation, 25 days after being re-inducted on August 3."Minister Nagendra has submitted his resignation to avoid embarrassment to the party. After discussing with the party high command, a final decision will be taken tomorrow morning," Shivakumar said.According to Shivakumar, Nagendra submitted his resignation after being hurt by opposition’s "false allegations" and the disruption of Assembly proceedings, highlighting his role as "a Dalit and Scheduled Caste leader" who defeated senior BJP leaders in elections."Though Nagendra has handed over his resignation letter, it will be brought to the notice of the Congress high command in Delhi, and after discussing with them, a final decision will be taken," he said.
+
+"Nagendra is innocent. After verifying the investigation reports and after discussion, it is known that there is no truth in the allegations against him," he said, adding that the manner in which the BJP had treated a Dalit leader had hurt the wider poor population.The opposition BJP, which along with ally JD(S), has been demanding for the Ballary rural MLA’s sacking ever since he made his way back into the Cabinet, described his stepping down as a "victory"."Today I am voluntarily tendering my resignation as minister," Nagendra said on Friday as he broke down in tears in front of the reportersNagendra compared himself being targeted to Lord Ram’s killing of Shambuka in Ramayana, alleging that the "manuwadis" never want a tribal person to rise.
+
+According to the Uttara Kand of Ramayana, ascetic Shambuka was killed by Rama for performing penance.He claimed that his name had been included in the second charge sheet filed by the central agencies, and that it was not included in the first CBI charge sheet.Nagendra thanked several party leaders like Shivakumar, Congress president Mallikarjun Kharge, Rahul Gandhi, and Siddaramaiah for extending support to him, stating he voluntarily resigned despite repeated assurances from the party leaders.Nagendra also said he would travel across Karnataka, including the 15 Assembly constituencies reserved for Scheduled Tribes, to highlight the alleged injustice.
+
+---
+
+### Is India prepared for the next Glacial Lake Outburst Flood? Nepal catastrophe brings 200 high-risk lakes in focus
+*Unknown · business*
+
+The deadly glacial disaster in Nepal has sharpened a question India can no longer afford to leave unanswered: how prepared is the country for a similar chain reaction from its own Himalayan glacial lakes? The issue assumes urgency with around 200 high-risk glacial lakes identified across India's Himalayan region, as reported by _TOI's Pradeep Thakur_.
+
+The Himalayan ranges in India are home to about 7,500 glacial lakes, according to a government survey, with roughly 10% located in Sikkim alone. Of these, 25 in Sikkim have been classified as very high-risk, highlighting the scale of the threat posed by rapidly changing mountain environments.
+
+Click here to read latest developments on Nepal Flash Floods
+
+  
+
+The risk extends well beyond Sikkim. Around 4,700 glacial lakes lie within the Ganga river basin, whose catchment covers more than 2.5 lakh square kilometres. A breach of even one high-risk lake could unleash enormous volumes of water and debris into downstream valleys, threatening settlements, roads, bridges and critical infrastructure.
+
+The concern is not hypothetical. India witnessed one of its most devastating Glacial Lake Outburst Flood (GLOF) disasters in recent years in Sikkim on October 3, 2023.
+
+Glacial rocks measuring 14.7 cubic metres collapsed into South Lhonak Lake shortly before midnight, "generating a 20-m high displacement wave". The resulting flood tore through downstream areas, destroying hydropower infrastructure and settlements.
+
+The Nepal disaster has now brought the vulnerability of the Himalayan region back into sharp focus, particularly because such events may not follow a single, predictable pattern.
+
+Krishna Vatsa, member of the National Disaster Management Authority (NDMA), said the precise sequence behind the Nepal disaster was still being scientifically established but pointed to the rapidly escalating nature of such hazards.
+
+"These are cascading hazards: an ice or rock failure can become a debris flow, create a temporary lake and then generate a flash flood. Such events can develop extremely rapidly and may provide very little warning time downstream."
+
+## India has identified the lakes. The next question is preparedness
+
+India's response to the growing GLOF threat includes the National GLOF Risk Mitigation Programme, under which 195 at-risk glacial lakes have been identified. The programme focuses on five areas: assessment, monitoring, early warning, mitigation and community awareness.
+
+But experts argue that identifying the lakes is only the first step.
+
+"India's National GLOF Risk Mitigation Programme has marked 195 at-risk glacial lakes and follows five key priorities (assessment, monitoring, early warning, mitigation, community awareness). It needs to be speeded up and scaled up immediately as a priority for national security," said Syed Safi Ahsan Rizvi, an ex-NDMA member.
+
+The government had moved to strengthen coordination after the South Lhonak Lake disaster. A high-level coordination committee on GLOF disaster risk reduction was established, with Prime Minister Narendra Modi's principal secretary PK Mishra spearheading the initiative.
+
+The committee was tasked with bringing multiple agencies together, conducting surveys of glacial lakes and identifying those posing the greatest risk.
+
+The Centre also allocated Rs 150 crore for the National GLOF Risk Mitigation Programme covering four Himalayan states with high-risk glacial lakes.
+
+The coordination committee held its first meeting on disaster risk reduction in November 2024. At the meeting, Mishra expressed satisfaction with the group's "tri-focal lens: assessment, monitoring, and mitigation".
+
+The committee subsequently held regular meetings and gathered feedback that was incorporated into a joint strategy involving the Centre and states. However, the follow-up actions and their implementation have not been clearly outlined.
+
+## From mapping lakes to warning communities
+
+The government had earlier said multi-agency expeditions were carried out to assess all "A-category" glacial lakes.
+
+The teams brought together scientists and officials from the National Disaster Management Authority, Central Water Commission, Geological Survey of India, Centre for Development of Advanced Computing, Indo-Tibetan Border Police and the Army.
+
+The scale of India's glacial-lake landscape, however, makes the challenge formidable. Thousands of water bodies are scattered across some of the world's most difficult terrain, while warming temperatures, unstable ice and changing precipitation patterns are increasing concerns about sudden failures.
+
+The Nepal disaster has underscored why the distinction between simply knowing where high-risk lakes are and being able to detect a failure early enough to warn people downstream matters.
+
+For India, the warning comes from a landscape it already knows is vulnerable. The South Lhonak disaster demonstrated how quickly a glacial collapse can transform into a devastating downstream flood. Nepal's catastrophe has added another dimension: a sequence involving ice or rock collapse, debris flow, temporary lake formation and a subsequent flood can unfold with little time for communities to react.
+
+_**(With inputs from ToI)**_
+
+---
+
+### Coal India says gasification scheme rules may favour private sector players
+*Business Standard · business, entrepreneur, finance*
+
+CIL has flagged the 60-day bidding window and exclusion of captive power plants from eligible project costs, saying the rules could disadvantage it against private rivals
+
+[Read full article](https://www.business-standard.com/companies/news/coal-india-gasification-incentive-scheme-rules-private-sector-rivals-126082900287_1.html)
+
+---
+
+### Argentina to ease pharma barriers as India trade tops $6.5 bn
+*SECTIONS Argentina · business*
+
+Argentina has committed to reduce barriers to facilitate entry of Indian pharmaceutical sector in the South American nation, the commerce ministry said on Saturday.
+
+This is expected to provide greater opportunities for Indian pharmaceutical companies and contribute to improving access to quality and affordable healthcare in Argentina, it said.
+
+"Argentina has committed to work towards upgrading India from Annex II to Annex I under its pharmaceutical regulatory framework and reducing barriers to entry," it added.
+
+  
+
+The issue came up for discussions during the visit of Commerce Secretary Rajesh Agarwal to Buenos Aires this week.
+
+He was in the country for the India-Argentina Joint Trade Committee (JTC), which was held on August 24, 2026 at Palacio San Martín, Buenos Aires.
+
+Bilateral trade between India and Argentina crossed USD 6.5 billion in 2025, registering consistent annual growth of over 17 per cent.
+
+Investment opportunities across mining, energy and infrastructure were also discussed, including the continued engagement of India's KABIL in Argentina's lithium sector.
+
+KABIL's mining activities in Catamarca, the first lithium mining initiative by an Indian company in Argentina, have progressed significantly with the completion of Phase II drilling, it said.
+
+It added that emerging areas of cooperation, including aviation, space technology, telecommunications and digital services, were identified as areas offering further opportunities for both countries, particularly in 5G, artificial intelligence and digital infrastructure.
+
+The visit was also important as India and Mercosure bloc are looking to expand the existing preferential trade agreement.
+
+Mercosur is a trade bloc in Latin America comprising Brazil, Argentina, Uruguay, and Paraguay. The India-Mercosur PTA came into effect on June 1, 2009.
+
+Progress on the Terms of Reference, along with the adoption of digital certificates of origin, is expected to facilitate trade and make cross-border commerce more efficient for businesses, it said.
+
+---
+
+### New labour code impact: Rs 8k less net take home pay likely for employee with Rs 15 lakh CTC; check the impact on CTCs of Rs 10 lakh, Rs 25 lakh and Rs 50 lakh - The Economic Times
+*Neelanjit Das · general*
+
+One of the most important provisions under the new labour code which became effective last year for most salaried employees and workers is that the wages must account for 50% of the total CTC when calculating PF, bonus, gratuity upon retirement or in other specified situations but this does not include gratuity on termination, and other benefits. It’s important to note that this 50% rule excludes certain components like HRA, gratuity payable on termination, retrenchment compensation, and a few others.
+
+Additionally, the proviso to Section 2(y) states that if these exclusions exceed 50% of the total salary paid to an employee, then the amount exceeding 50% shall be deemed to be part of "wages".
+
+This article will clarify what components are excluded and how they affect your monthly net take home salary.
+
+## What are the excluded components for the 50% wage rule under new labour code
+
+Excluded components refer to those parts of the pay that won’t be used to determine 50% of your wages for calculating PF, gratuity and other benefits. This means your employer either has to increase your basic pay or allocate more money to other ‘included’ components to ensure that your wage makes up 50% of your CTC for these calculations.
+
+Sudhakar Sethuraman, Partner, Deloitte India, said to ET Wealth Online that Section 2(y) of the Code on Wages excludes specified components from the definition of "wages". The 50% test compares the aggregate value of the excluded items listed in clauses (a) to (i) against total remuneration.
+
+Clauses (j) and (k), namely gratuity payable on termination of employment and retrenchment compensation, are outside the scope of this test. Sethuraman explains what the exclusions listed in clauses (a) to (i) are:
+
+-   Statutory bonus payable under any law;
+-   Value of accommodation and the supply of light, water, medical attendance or other amenity;
+-   Employer's contribution to provident fund, pension or social security schemes;
+-   Conveyance allowance or travelling concession;
+-   Sums paid to defray special expenses entailed by the nature of employment;
+-   House Rent Allowance (HRA);
+-   Remuneration payable under an award or settlement between parties or in line with a court order;
+-   Overtime allowance; and
+-   Commission.
+
+The Ministry of Labour and Employment FAQ No. 3 dated December 30, 2025 provides the following:
+
+"Performance-based incentives, Employee Stock Option Plans (ESOPs), variable part of the component or reimbursement-based payments to the employee shall not be part of the wages."
+
+Sethuraman says that if the FAQ is read literally, it suggests that reimbursement-based payments are excluded from "wages". However, the FAQ addresses what constitutes wages and does not specifically discuss whether reimbursements form part of the total remuneration that is used for applying the 50% test.
+
+Also, clause (e) of Section 2(y) clearly excludes, "any sum paid to the employed person to defray special expenses entailed on him by the nature of his employment".
+
+Sethuraman suggests that one perspective is that reimbursements included in an employee's pay structure may still count towards the total remuneration for the 50% test. On the other hand, legitimate business expense reimbursements, like official travel expenses incurred and reimbursed on actual basis, could be excluded from the ambit of remuneration itself.
+
+However, this stance is not completely clear and could use some more regulatory clarification.
+
+## How net take home salary can be affected
+
+Some organisations have kept the basic pay the same but have increased the other components to comply with the 50% rule. Meanwhile, other companies have opted to increase the basic pay to 50% of CTC and adjust calculations accordingly. It’s a good idea to check with your HR department to find out what your company has done.
+
+A summary of the net impact on take home salary is as follows:
+
+CTC (in Rs)
+
+Net In-Hand (Old labour law)
+
+Net In-Hand (New labour code)
+
+Monthly Reduction
+
+Remark
+
+10 Lakh
+
+70,667
+
+65,381
+
+5,286
+
+Decreased take home Due to PF on inclusion
+
+15 Lakh
+
+106,000
+
+98,072
+
+7,928
+
+Decreased take home Due to PF on inclusion
+
+25 Lakh
+
+158,047
+
+146,464
+
+11,583
+
+Decreased take home Due to PF on inclusion
+
+50 Lakh
+
+277,949
+
+255,643
+
+22,305
+
+Decreased take home Due to PF on inclusion
+
+Source: Nangia & Co LLP (This calculation has assumed employer increased basic to comply with the 50% wage rule)
+
+## Key impact on employees
+
+Avneet Singh, Associate Partner, Nangia & Co LLP explained to _ET Wealth Online_ that the revised salary structure is expected to have the following implications:
+
+-   Increase in Basic Pay as a proportion of total remuneration.
+-   Higher Provident Fund (PF) contributions by both employers and employees.
+-   Higher gratuity liability and corresponding provisioning by employers.
+-   Reduction in the proportion of salary paid as allowances.
+-   Lower monthly take-home salary for employees due to increased statutory deductions.
+-   Enhanced long-term retirement savings and social security benefits.
+
+Singh says the implementation of the new labour code is expected to have a short-term impact on employee liquidity while strengthening long-term financial security.
+
+Singh says: “Employees may experience a reduction in monthly take-home salary owing to higher provident fund contributions; however, this will be offset by enhanced retirement savings, a larger provident fund corpus, and increased gratuity benefits over the course of their employment.”
+
+Ultimately, the extent of the financial impact will depend on the organisation's existing salary structure, provident fund policy, and whether the additional statutory cost is absorbed by the employer or accommodated through a restructuring of the employee's overall CTC.
+
+## Is there any change in tax-exempt reimbursements and allowances between old and new labour law?
+
+The labour codes do not determine the tax treatment of allowances, reimbursements or salary components. Taxability and exemptions continue to be governed by the Income-tax Act, 2025 and the Income-tax Rules, 2026.
+
+Labour codes regulate the wage base that is relevant for labour and social security benefits to employees / workers, including provident fund, gratuity, bonus, employee state insurance, etc. Consequently, Sethuraman points out a component may be taxable under the income-tax law and yet be excluded from wages under labour law, or vice versa.
+
+Therefore, the new labour code has altered the manner in which remuneration is evaluated for labour law purposes, particularly through the definition of wages and the 50% rule. It has not altered the tax treatment of salary components.
+
+Under the new tax regime, the following benefits continue to enjoy tax exemption or concessional tax treatment, subject to prescribed conditions and limits:
+
+### 1.Employer's NPS contribution
+
+Up to 14% of Basic Salary + Dearness Allowance for all employees, including employees in the private sector.
+
+### 2.Employer's Provident Fund contribution
+
+This is tax-exempt subject to the overall annual threshold applicable to the aggregate of employer contributions to recognised PF, NPS and approved superannuation funds.
+
+### 3.Meal vouchers / food coupons
+
+Exempt up to Rs 200 per meal, subject to prescribed conditions.
+
+### 4.Gratuity on retirement or termination
+
+Exempt up to the prescribed statutory limit of ₹20 lakh.
+
+### 5.Leave encashment at retirement
+
+Exempt up to Rs 25 lakh for non-government employees.
+
+### 6.Official expense reimbursements
+
+Reimbursement of official mobile and telephone expenses and employer-provided vehicle facilities continue to receive tax treatment based on prescribed conditions and actual business usage.
+
+Under the old tax regime, exemptions are additionally available for:
+
+-   House Rent Allowance (HRA)
+-   Leave Travel Allowance (LTA)
+-   Children's Education Allowance
+-   Children's Hostel Allowance
+
+Old tax regime allows deduction for expenditure on housing loan principal repayment and interest payments, tuition fees, insurance, Mediclaim, investment in specified bonds,
+
+## Sodexo, child education, children’s hostel: Old vs New regime
+
+**Benefit**
+
+**Old regime**
+
+**New regime**
+
+**Remarks**
+
+Food coupons
+
+Not taxable up to Rs 200 per meal
+
+Not taxable up to Rs 200 per meal
+
+Vouchers/ coupons non-transferable, usable only at eating joints, not encashable, during working hours
+
+Children Education Allowance
+
+Rs 3,000 per month per child up to two children is exempt from tax
+
+Fully taxable
+
+Children Hostel Allowance
+
+Rs 9,000 per month per child up to two children is exempt from tax
+
+Fully taxable
+
+Source: Deloitte
+
+## Workings for CTC of Rs 15 lakh and Rs 50 lakh
+
+### CTC 15 lakh
+
+New labour code
+
+Component
+
+Annual
+
+Monthly
+
+Percentage
+
+Treatment in Wages
+
+Basic Salary
+
+6,00,000
+
+50,000
+
+40%
+
+Inclusion
+
+3,00,000
+
+25,000
+
+20%
+
+Exclusion
+
+Sodexo Meal Card
+
+1,05,600
+
+8,800
+
+7%
+
+Inclusion
+
+Special Allowance
+
+2,90,829
+
+24,236
+
+19%
+
+Inclusion
+
+Gross Earnings
+
+12,96,429
+
+1,08,036
+
+Employer PF
+
+1,19,571
+
+9,964
+
+8%
+
+Exclusion
+
+Employer NPS
+
+84,000
+
+7,000
+
+6%
+
+Exclusion
+
+Total CTC
+
+15,00,000
+
+1,25,000
+
+Inclusion
+
+9,96,429
+
+66%
+
+Exclusion
+
+5,03,571
+
+34%
+
+Total
+
+15,00,000
+
+100%
+
+Source: Nangia & Co LLP
+
+### Income tax calculation for CTC 15 lakh
+
+**Particulars**
+
+**Gross amount**
+
+Net amount
+
+PF (annual)
+
+1,19,571
+
+Annual Gross
+
+12,96,429
+
+Standard Ded
+
+75,000
+
+Meal Exemption
+
+1,05,600
+
+Taxable Income
+
+11,15,829
+
+51,583
+
+87 Rebate
+
+51,583
+
+Final Tax
+
+0
+
+Cess
+
+0
+
+Annual Tax
+
+0
+
+Gross Salary
+
+108,036
+
+PF (monthly)
+
+9,964
+
+Income tax
+
+\-
+
+**Net In Hand**
+
+**98,072**
+
+### CTC Rs 25 lakh
+
+New labour code
+
+**Component**
+
+**Annual**
+
+**Monthly**
+
+**Percentage**
+
+**Treatment in Wages**
+
+Basic Salary
+
+10,00,000
+
+83,333
+
+40%
+
+Inclusion
+
+5,00,000
+
+41,667
+
+20%
+
+Exclusion
+
+Sodexo Meal Card
+
+1,05,600
+
+8,800
+
+4%
+
+Inclusion
+
+Special Allowance
+
+5,55,114
+
+46,260
+
+22%
+
+Inclusion
+
+Gross Earnings
+
+21,60,714
+
+180,060
+
+86%
+
+Employer PF
+
+1,99,286
+
+16,607
+
+8%
+
+Exclusion
+
+Employer NPS
+
+1,40,000
+
+11,667
+
+6%
+
+Exclusion
+
+Total CTC
+
+25,00,000
+
+208,333
+
+Inclusion
+
+16,60,714
+
+66%
+
+Exclusion
+
+8,39,286
+
+34%
+
+Total
+
+25,00,000
+
+Source: Nangia & Co LLP
+
+### Income tax calculation for Rs 25 lakh CTC
+
+Particulars
+
+Gross
+
+Net
+
+PF (annual)
+
+1,99,286
+
+Annual Gross
+
+21,60,714
+
+Standard Ded
+
+75,000
+
+Meal Exemption
+
+1,05,600
+
+Taxable Income
+
+19,80,114
+
+1,96,023
+
+87 Rebate
+
+0
+
+Final Tax
+
+1,96,023
+
+Cess
+
+7,841
+
+Annual Tax
+
+2,03,864
+
+Gross Salary
+
+1,80,060
+
+PF (monthly)
+
+16,607
+
+Income tax
+
+16,989
+
+Net in hand
+
+1,46,464
+
+Source: Nangia & Co LLP
+
+---
+
+### How Much Storage Do You Need on a Smartphone?
+*Shaurya Tomer · technology, mobile*
+
+Does everyone really need 256GB, 512GB or even 1TB of space on their smartphone? Here's what matters.
+
+[Read full article](https://www.gadgets360.com/mobiles/features/how-much-storage-do-you-need-on-a-smartphone-11952169)
+
+
+---
+
 ## 28 August 2026
 
 ### Samsung Galaxy S26 Ultra price drops by Rs 15,000 without conditions
