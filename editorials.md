@@ -1,8 +1,128 @@
 # Editorials
 
-_Last updated: 2026-08-29 08:12 UTC_
+_Last updated: 2026-08-30 07:12 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 30 August 2026
+
+### The Durgas we worship, the Yashodhas we abandon
+*Deccan Herald · Opinion*
+
+Rahul Gandhi is on the offensive these days. “Smash the patriarchy”, he said, mocking what he called the “Manusmriti mindset” – an oblique hit at Narendra Modi’s remarks on Jantar Mantar’s women protesters. Later, after Kangana Ranaut culture-policed Kriti Sanon for her clothes while tying a rakhi in a commercial, he wrote: “What a woman wears, what she does, and where she goes is her choice.”
+
+The country split at once. Sanatanis on one side, those the Prime Minister now calls “Dimagi Naxals” on the other. Our prime-time TV anchors egged it on. It was less a debate than a mud-slinging pit. The BJP listed Congress’s and Rahul’s hypocrisies. Why was Priyanka moved from Rae Bareli to Wayanad? Why did Rajiv Gandhi overturn the Supreme Court’s Shah Bano judgment that ordered alimony to a divorced woman? Why did the UPA oppose the Uniform Civil Code, but stand by triple talaq?
+
+The Congress hit back. The BJP, they said, preaches morality while crushing young love with ‘Love Jihad’, and looks away from khap panchayats and ‘honour’ killings. Some got personal and asked Modi to look in the mirror. It became a strange contest: who is more misogynistic? And in that shouting match, we lost the woman, the centre of the debate.
+
+That takes me back to my village. There was a Brahmin, married and childless. After years of waiting, he married again, a younger and prettier woman. When a couple has no children, society tends to ‘fault’ the woman. Then, his first wife delivered two sons in quick succession. The second wife also bore children. On his meagre income as a priest, he saw his folly.
+
+The power of women at work: Empathy, emotional safety and shared strengthOne day, he announced a Kashi yatra with his first wife – the vow every Brahmin takes to bring back Ganga water in a copper urn. They boarded a night train to Varanasi. On the third night, while his wife slept, the man slipped off at a small station and headed back to his village, with a sense of relief. His wife had never left her village; she spoke only Kannada and had not a paisa on her. On his return to the village, he filled a copper pot with tap water and went home weeping. He told everyone how he lost his wife in the crowd at a Kashi ghat while taking a dip, how he waited three days, and then concluded she had been washed away to the Lord’s lotus feet. “I, a sinner, still live,” he moaned. People murmured, but commiserated as if he were bereaved. He resumed his priestly duties without remorse.
+
+Two months later, there was a commotion at his porch. He stepped out and stood still, as if he had seen a ghost. A bedraggled woman stood there with a crowd. “Yashodha!” he cried and fainted. It was his wife.
+
+Life is stranger than fiction. But sometimes, fiction tells it truly. In Banu Mushtaq’s Heart Lamp, Mehrun is still in her teens when she is forced into marriage, though she wants to study. She marries a well-off man and bears five children. Her husband, Inayat, body-shames her and tells her she fails to satisfy him. His misogyny and infidelity distress Mehrun, so she returns to her family home with her infant daughter. The reception is cold, even hostile. Men are like that, she is told – the man will return when he is satiated; it is for her to adjust.
+
+Her brothers are worried about what society would say, and tell her that a wife’s place is with her husband. They take her back to her husband. She enters the house she hates and pulls a blanket over herself. Her husband, who has been away, comes home unaware she had left, and soon, leaves again.
+
+Night falls. The darkness in the house becomes one with the darkness in Mehrun’s soul. She looks at her five children; at Salma, the eldest daughter, 16, who will be their mother after dawn, walks to the backyard, and pours kerosene over herself. She is about to strike a match when Salma sees her mother and stops her. The girl tells Mehrun that the children need their Ammi.
+
+This is not fiction. This is the all-pervading orthodoxy we read and hear about every day. We worship Durga, Kali, Lakshmi, Saraswati, Parvati, Maramma, and Yellamma with great fervour, and then we abandon Yashodha at a dark railway station. Gandhi put it simply: “The soul of a civilisation can be measured by the respect it accords to women.”
+
+(Capt G R Gopinath (Retd.) builds bridges, sometimes by tearing down walls. He is a soldier, farmer, and entrepreneur.)
+
+Capt G R Gopinath (Retd.)
+
+[Read full article](https://www.deccanherald.com/opinion/the-durgas-we-worship-the-yashodhas-we-abandon-4128698)
+
+---
+
+### UPI has transformed payments. Why is India still losing tax revenue?
+*Deccan Herald · Opinion*
+
+India’s Unified Payments Interface (UPI) has steadily grown in acceptance since its launch in 2016. Indigenously developed by the National Payments Corporation of India, the interface has transformed digital payments in the country. The numbers tell the story: the UPI now accounts for 87.6% of the retail digital payment volume, processing 24,162 crore transactions in FY 2025-2026. By June 2026, it had 55.49 crore users. It has also outdone credit cards as a payment option. This is important, given that transaction fees on international credit card payments (such as forex markup fees) in cross-border purchases represent a foreign currency outflow.
+
+The popularity of UPI can be traced to three of its unique features. The first is its user-friendly operating system. Linked to the mobile number and the bank account of the user who downloads the payment gateway, the transaction goes through with a click. The QR code has become the easiest of tools to receive payments, at times even in single digits, changing how vendors across the spectrum do business.
+
+Second, the interface has ensured ease of doing business for small traders. Besides, several online marketing businesses, airlines, high-end goods and services, and e-commerce applications accept UPI payments. This has reduced the work of banks in the form of cheque clearance and managing unaccounted transactions to a great extent.
+
+The third feature entails the total absence of cash in transactions. This needs to be seen in the context of the 2016 demonetisation, which led to the withdrawal of Rs 500 and Rs 1,000 notes (about 87% of the total currency) from circulation. According to the Reserve Bank of India (RBI), out of the Rs 15.41 lakh crore worth of banned notes, 99.3% (Rs 15.31 lakh crore) was returned to the banking system. The exercise did not result in a huge drop in cash dealings in small and retail trade. Cash transactions were substantially reduced only after UPI gained acceptance among both consumers and traders.
+
+'Golgappa and vegetable sellers far more intelligent than Rahul': BJP attacks Cong for 'mocking' UPIIndia’s yearly retail market size is estimated to be about Rs 88 to 93 lakh crore. Of this, 80% is handled by unorganised outlets such as traditional corner stores, local vendors, and small traders. Their supply chain continues to heavily depend on cash transactions, often unbilled and out of the Goods and Services Tax (GST) net. Since digital transactions are linked to PAN, Aadhaar, the Income Tax portal, and bank accounts, sales through the interface are recorded. However, the bulk of vendors’ purchases remains unaccounted for, causing a loss of tax revenue.
+
+The government has clarified that the recent Taxation and Other Laws (Amendment) Bill, 2026, aims to enhance regulatory flexibility. This policy update comes with a commitment: individual users and standard Person-to-Person (P2P) money transfers using UPI will remain entirely free of transaction charges. However, reports indicate that this zero-charge benefit for P2P transfers may carry a threshold – potentially capped at just Rs 2,000. This is a modest limit that represents a tiny fraction of average retail transactions, making the amendment facilitate a fee on all higher-value transfers.
+
+Banking institutions push for a revenue mechanism along the lines of the Merchant Discount Rate (MDR) – the processing fee businesses pay on card transactions, traditionally split among the card networks, issuing banks, and payment gateways.
+
+Public adoption of any digital financial network hinges on ease of use, transparent operations, and an assurance of non-interference by the banks and government agencies, such as the Income Tax Department. Overregulation carries its own risks. In July 2025, the Karnataka GST administration issued tax demand notices to numerous traders after analysing the UPI transaction volumes from their bank accounts.
+
+While UPI’s direct link to bank accounts offers transparency, it also reveals the vendors’ business activity. Fearing the possibility of penalties and aggressive tax audits, many small traders abandoned digital payments and reverted to cash-based operations.
+
+This regulatory overreach reminds one of a classic fable – of the greedy farmer who slaughtered his golden-egg-laying goose to attain immediate wealth. Over its 10 years of operation, UPI has secured markedly significant socio-economic dividends, such as unprecedented digital inclusion and reduced cash-handling costs. The economic empowerment it has facilitated far outweighs the gains from revenues collected by enforcing a transaction fee. India’s policymakers must resist the lure of short-term gains and devise strategies to preserve the digital payment ecosystem. A structural disruption now risks denting public trust – sometimes, these shifts can become irreversible.
+
+(Seshadri Chari reads between the lines on big national and international developments from his vantage point in the BJP and the RSS.)
+
+[Read full article](https://www.deccanherald.com/opinion/upi-has-transformed-payments-why-is-india-still-losing-tax-revenue-4128694)
+
+---
+
+### Modi's great game: Friends, freedom, power
+*The New Indian Express · Opinion*
+
+India has arrived at that uncomfortable moment. As world’s fourth largest economy with 1.4 billion people, India is no longer a mendicant at the high table of world politics. It’s one of the powers that can alter the balance around it. Prime Minister Narendra Modi’s meetings this week with Vladimir Putin at the Shanghai Cooperation Organisation summit in Bishkek and with Xi Jinping and, yet again, followed by Xi’s expected presence at the BRICS summit in New Delhi, matter far beyond diplomacy.
+
+For a decade, Modi has cultivated Putin and Xi while drawing India closer to Washington. Donald Trump has disrupted that architecture with punitive tariffs, coercive bargaining and transactional diplomacy. India is no longer being asked simply to choose friends. It is being tested on whether she can choose an autonomous course of action without losing any one of them.
+
+The record of Modiplomacy with Putin and Xi is extraordinary. But the balance sheet is uneven. Modi and Putin have met at least 20 times since Modi came to power. Their relationship has survived Ukraine, Western sanctions and India’s partnership with America because defence, energy and institutional familiarity give it resilience. With Xi, Modi met repeatedly until Galwan shattered their confidence. They met again at Bali in 2022, Johannesburg in 2023, Kazan in 2024 and Tianjin in 2025. Yet one question refuses to disappear: how can two of Asia’s most powerful leaders meet so frequently and still remain unfriendly?
+
+The answer exposes the limits of personalised diplomacy. Personal rapport can open doors; it cannot repeal geography, history or strategic ambition. The roots reach back to Vajpayee’s 2003 Beijing visit, when China recognised Sikkim as part of India and a boundary framework was created. Instead, India and China learnt to do business without learning to trust. Trade expanded while strategic suspicion hardened along the Himalayas. Wuhan was meant to restore confidence after Doklam; Mamallapuram was meant to consolidate it. Galwan exposed the hollowness of the assumption that summitry could tame rivalry.
+
+The 25th round of boundary talks between Ajit Doval and Wang Yi on August 25 produced an eight point consensus and a commitment to pursue a fair, reasonable and mutually acceptable settlement. Useful diplomacy, but after two decades, it would be self-deception to mistake another agreement to negotiate for an agreement to settle.
+
+That distinction will hang heavy over any Modi-Xi encounter. The real question is whether Beijing is prepared to create a conditional strategic status quo without which a durable economic relationship with India cannot flourish. China has reasons to reduce tensions as its confrontation with Washington intensifies. India must prevent the border from consuming its economic bandwidth. There is space for accommodation, but accommodation cannot mean acquiescence. Modi may follow the dictum dictated by American President Theodore Roosevelt: “Speak softly and a carry a big stick.”
+
+But Putin presents a different equation. Russia has been India’s most dependable Great Power partner because the relationship rests on accumulated strategic interests rather than political fashion. Moscow remained with Delhi when Western capitals were reluctant to do so; Delhi remained with Moscow when Washington wanted India to distance itself from Russia. Russian oil became central to India’s energy calculations while defence cooperation continued to underpin its military architecture.
+
+But Russia has moved dramatically closer to Beijing, making China increasingly important to its economic and strategic calculations. Putin may be the leader with whom Modi has the most durable strategic chemistry. But he is also increasingly tied to China, with which India has been walking on eggshells for decades. An India-Russia-China troika confronting America is, therefore, more fantasy than strategy. China wants greater primacy in Asia, India wants an Asian balance and Russia wants to remain an independent pole. Shared perturbation about American paramountcy is not common destiny.
+
+Trump has made India’s economic autonomy harder to preserve. His unpredictable coercive diplomacy has exposed the uncomfortable truth that strategic partnership does not abolish strategic self interest. Tariffs have been weaponised and trade negotiations have acquired the character of coercive bargaining. None of this makes America an adversary. India needs America for technology, investment, defence and the Indo Pacific.
+
+But the closer the relationship becomes, the more important it is for India to assert its right to disagree. A partnership that cannot survive disagreement is not a partnership between equals. It’s a hierarchy disguised as friendship. India’s dilemma is that every major relationship is indispensable for a different reason. America offers technology and capital; Russia provides defence continuity and energy; China is simultaneously India’s principal Asian security challenge, an unavoidable neighbour and a major economic power. The answer cannot be equidistance. It has to be freedom of manoeuvre and management.
+
+For India, prudent autonomy means moving closer to Washington at her own terms. Retain intimacy with Moscow without becoming hostage to Russia’s dependence upon Beijing. But autonomy requires capability: economic resilience, military credibility, technological depth and diplomatic confidence. This is where Modi’s personal diplomacy faces its hardest examination. Putin has preserved a vital partnership; Xi engagement has prevented permanent hostility; Washington has brought technology and strategic depth. But diplomacy cannot be measured by access or applause. It must be measured by outcomes.
+
+For decades, India was criticised for punching below its weight. That facile formulation is obsolete. Now everyone wants India to punch in his direction. None of these calculations should become India’s calculation. Modi’s great game is not to balance Trump, Putin and Xi like weights on a diplomatic scale. It is to make India itself into a heavyweight that changes the balance. His legacy will not be the number of summits he attended, but whether he transformed India from an object of great power competition into a country capable of shaping it.
+
+When Trump calculates America’s interests, Putin Russia’s and Xi China’s, will New Delhi merely calculate how to accommodate them, or will they increasingly have to calculate what New Delhi will do? Will India ultimately shape the global order? That is the difference between being courted by Great Powers and becoming one, between possessing influence and exercising power, between having a seat at the table and influencing the menu. For that, Modi should store in his mind an adage: “Diplomacy without arms is like music without instruments.”
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/pc/2026/Aug/29/modis-great-game-friends-freedom-power)
+
+---
+
+### K-shaped shopping basket in two-speed economy
+*The New Indian Express · Opinion*
+
+Updated on: 29 Aug 2026, 6:43 pm3 min readCopiedIt could be coincidence, correlation or causation. The chief executives of six of India’s largest packaged-goods and retail companies—Hindustan Unilever, Nestlé, Britannia, Godrej Consumer, Colgate-Palmolive and DMart—left their companies in about a year. One does not have to get into a forensic assessment of the persons or the quality of the boards to be mystified.
+
+On Monday, India will know the economy’s growth rate for the April-June quarter—and if forecasts are reliable, the GDP would have grown at around 7.2 percent. That, in the face of global uncertainty, is laudable. Adam Smith had observed, “Consumption is the sole end and purpose of all production.” The mantra suggests that last quarter’s consumption would have been robust. But the boardroom churn suggests that stakeholders are not impressed with the prospect in subsequent quarters.
+
+Drill down the data ladder and the picture begins to look interesting – indeed, it’s complicated. The folks spending to drive home a car or a durable are not spending on daily consumables. Nielsen-IQ reported poor growth in the January-March quarter and company results show an uptick in revenue growth but a troubling stalling of volume and/or value. Raise the question among the pundits and you will be told about hyper-competition triggered by new models, and probably be assailed by jargon ranging from premiumisation to shrinkflation!
+
+The proof of value is best illustrated by the performance of listed entities. It is well known that Nifty50 is one of the weakest indices in the world at present with -1 percent returns for the year. Nifty FMCG is the worst-performing sectoral index at -16 percent and has posted negative returns for the past three years—worse than the much-beleaguered Nifty IT index.
+
+The de-rating by investors has hit the line-up of the sector’s most-starred names: Godrej Consumer down 26.3 percent, Hindustan Unilever 24.2 percent, DMart 19.4 percent, Trent 17.9 percent, and Britannia— relatively a survivor—still down 8.8 percent. DMart, once the most-sought stock, is flat over a 5-year period, while Godrej CP and HUL are at -12.5 percent and -25 percent over the same period. Meanwhile Haldiram, a packaged food giant that has Temasek as an investor, has recorded a valuation of over $10 billion.
+
+The FMCG and retail numbers are a macro signal, not a sector story.The reality is manifest in GDP data. PFCE or the total money spent by households has hovered at an average of around 56.5 percent of GDP for over 12 quarters. It spans a wide spectrum from imputed rent to cars to onions. So why is the basic consumption basket stalling if the economy is growing rapidly at 7+ percent? The divergence is essentially what Peter Atwater named in 2020 as the ‘K-shaped economy’—one where the ends are splitting rather than rising together.
+
+The problem for FMCG companies is the gap between volume and value, whereas for the economy it is the distance between employment, income and consumption. Take the rural landscape first. Arindam Das and Yoshifumi Usami analysed labour bureau and National Statistical Office data on rural wages from 2014-15 to 2022-23 to state that “the growth of wage rates in rural areas virtually collapsed for all agricultural and non-agricultural occupations” and real wage rates stagnated to under 1 percent.
+
+Urban wages tell a similar story, squeezed by rising costs even as pay stalls. An India Ratings report of wages revealed that growth in real wages averaged at 5.7 percent between 2020 and 2026. The connection between wages and consumption is manifest. V Anantha Nageswaran had warned companies that poor compensation would impact consumer demand and prove self-destructive for the corporate sector.
+
+Author of The Gated Republic, Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/Aug/29/k-shaped-shopping-basket-in-two-speed-economy)
+
+---
 
 ## 29 August 2026
 
@@ -25,6 +145,81 @@ For a people long regarded as at the crossroads of civilisations, the past five 
 The IEA’s overall performance since the August 15, 2021 takeover has been a binary. On the positive side, though the IEA 2.0 transition was as chaotic as the IEA 1.0 transition in 1996, it spared the country from mass retribution. Afghanistan is now largely stable and secure. The country’s “Badlands” were long associated with militant groups such as al-Qaeda. Their 9/11 attacks unleashed two decades of bloody U.S. retribution on both al-Qaeda and the IEA 1.0. The IEA 2.0 has disallowed the use of their territory for operations against other countries. During the past five years, an estimated 5.7 million refugees from Pakistan and Iran have returned to Afghanistan. While this return of an eighth of the country’s population has exacerbated the penury, the government has managed it reasonably well. These unmistakable shifts from the ruinous policies of the previous Islamic Emirate (1996-2001) have partially mitigated the world’s concerns.
 
 [Read full article](https://www.thehindu.com/opinion/lead/five-years-on-taliban-are-still-at-a-fork-in-the-road/article71401782.ece)
+
+---
+
+### Much Bickering In Punjab Cong; Datia Loss Feeds Chouhan Hope
+*Deccan Chronicle · Opinion*
+
+Once dismissed as a “Pappu”, Congress leader Rahul Gandhi has finally come into his own. There is all-round agreement that the public perception about the Lok Sabha leader of Opposition is changing and he is now being viewed in a more positive light. This follows Rahul Gandhi’s recent successful efforts to connect with Gen Z. But despite these positives, there is a degree of despondency in the party. Congress insiders maintain that though Rahul Gandhi’s personal popularity is growing, the party organisation continues to be in a mess. Virtually every state unit of the Congress is in the throes of bitter infighting. From Punjab and Himachal Pradesh to Goa and Jammu and Kashmir, factional battles are a regular feature everywhere. Congress members fear the party will lose the momentum generated by Rahul Gandi’s “Chhatron ki Goonj” programmes, if the party fares poorly in next year’s Assembly elections. Poll-bound Punjab and Himachal Pradesh are particularly vulnerable as rival groups in these states are showing no signs of backing down. If the Congress loses in these states, not only will it be wiped out in the entire northern belt, it will also be a setback for Rahul Gandhi. The goodwill he has garnered in recent months could quickly disappear if he fails to deliver electoral victories for the party.
+
+Reports from Punjab are particularly disconcerting for the Congress. The raging battle between the camps headed by the state party chief Amrinder Singh Raja Warring and former chief minister Charanjit Singh Channi could well nix any chance of the Congress ousting the Aam Aadmi Party in next year’s election. Speculation is rife that Mr Channi could float his own party closer to the election and that the Bharatiya Janata Party is not averse to lending him a helping hand in this endeavour. In fact, Union minister Bhupendra Yadav admitted to Congress leaders in an informal conversation during the recent Parliament session that Congress members in Punjab were lining up to join the BJP. Given this state of flux, the Congress Party’s plans to launch its poll campaign with a bus yatra is being constantly delayed. Rahul Gandhi is to flag the yatra but he is learnt to have told Congress Punjab in-charge Bhupesh Baghel that he will only go if the party puts up a united face.
+
+Even after he moved to Delhi and took charge of the agriculture ministry over two years ago,Much Bickering In Punjab Cong; Datia Loss Feeds Chouhan Hope made it a point to visit his home state Madhya Pradesh as often as possible. His regular trips evoked considerable chatter in political circles as it was read as a sign that Mr Chouhan had not reconciled to the loss of the chief minister’s post, having been replaced by the present incumbent Mohan Yadav. Interestingly, the frequency of Mr Chouhan’s visits has increased after the Bharatiya Janata Party lost the recent bypoll in Datia to the Congress. Mr Chouhan even convened a meeting of all Madhya MPs in Bhopal recently. Mr Chouhan perhaps thinks there is still an outside chance that he could return as chief minister. He lives in hope as Mohan Yadav finds himself in the dock after the party’s defeat in Datia.Opposition parties belonging to the INDIA bloc were in an upbeat mood when the Monsoon Session of Parliament came to a close earlier this month. They were particularly happy that they had put up a united front and succeeded in pushing the Modi government on the defensive following the police crackdown on student protesters at Jantar Mantar. But there has been no news of the INDIA bloc since then. The combined Opposition had decided at its last meeting in June that they would meet every two months to chart out a common plan of action to take on the BJP in their respective states. Congress president Mallikarjun Kharge had announced then that the next meeting would be held in Hyderabad in August. This announcement followed complaints from regional parties that instead of meeting once a year, the INDIA bloc should have regular consultations.
+
+As it happens, the month of August is drawing to a close but the Congress Party’s allies, including the Trinamul Congress and the Samajwadi Party, have yet to hear from the party about the proposed conclave. So much for Opposition unity.
+
+Now that the organisational reshuffle in the Bharatiya Janata Party has been completed, conversation in Delhi’s political circles these days is focussed on the much-anticipated Cabinet reshuffle. With Punjab elections due next year, MPs from the state are predictably eyeing a seat at the high table. It is expected that someone from the state will be accommodated especially since Ravneet Singh Bittu resigned on completion of his Rajya Sabha term while Union minister Hardeep Puri’s Rajya Sabha term ends later this year. Former Aam Aadmi Party MP Raghav Chadha is a contender but a case is being made for another former AAP Rajya Sabha member Vikramjit Singh Sahney on the ground that the BJP needs a Sikh to replace Mr Bittu and,...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/much-bickering-in-punjab-cong-datia-loss-feeds-chouhan-hope-1983320)
+
+---
+
+### Susegad, Napcation & Freshly Baked Poee
+*Deccan Chronicle · Opinion*
+
+“Any plans today?” the butler asked, sliding a tray of cut papaya onto my Pool Patio balcony. “None,” I said, and meant it fully. I had come to The Westin Goa for three nights to do the one thing I’m chronically bad at: nothing. This is a napcation, I remind myself, not a vacation. There is a difference, and I intend to honour it, susegad rhythm and all.
+
+We’d landed well past eleven, the kind of hour when even lobby chandeliers seem to dim in sympathy, and by the time the key card slid into my palm it was closer to midnight than not. There was talk of freshening up, of maybe just sleeping straight through, but then dinner arrived anyway, in-room, on a trolley that seemed to know something about jet lag and the hunger it produces. No restaurant, no menu debate, just curry and rice under a silver dome, eaten cross-legged on the bed while Goa introduced itself through an open window, all cicadas and warm salt air, the promise of the trip already, quietly, keeping itself.
+
+It’s 5:45 am on the first proper morning, and I am, against every instinct of a napcation, awake. Not from an alarm, but from a restlessness that only a new bed can produce, and the vague memory of the front desk mentioning an 80-year-old bakery worth losing sleep over. I ask the driver on airport-transfer duty if he knows it, and he does, of course he does, everyone in these parts seems to have grown up on this bread and 20 minutes later I’m standing in Moira, a village known for its colourful Portuguese bungalows and a short drive from the resort, well outside the manicured hush of the property, in front of the Tavares Bakery, a traditional Goan house that now bakes poee for 80 years to feed not just the entire Goa, homes and hotels included, but also some parts of Mumbai.
+
+Poee, for the uninitiated, is Goa’s own hollow, pillowy bread, eaten with sausage curry or simply torn apart and eaten warm, plain, straight off the paddle. Inside, the bakery is dim and furnace-hot, lit mostly by the orange glow of an oven that has, I’m told, not gone cold in 80 years. The bakers assigned for different tasks for different stages of baking, move with the unhurried certainty of someone who has done this 10,000 mornings in a row. They don’t speak much English, and I don’t speak much Konkani, but one of them hands me a poee anyway, still too hot to hold properly, and gestures for me to eat. I do. It’s soft in the centre, faintly charred at the edges, and tastes like nothing I can compare it to except, perhaps, patience itself.
+
+Back at the resort by seven, poee wrapped in paper like contraband, I make it just in time for the buffet breakfast at The Market, the sprawling spread more than a match for anything I could have brought back with me. I do the only sensible thing available to a woman on a napcation after that: I go back to bed.
+
+The Westin’s beds are dangerously good, the kind that make you suspicious of your own mattress at home. I surface only for lunch, a chef-curated meal, once again at The Market, that arrives in unhurried courses, each one better suited to a nap than the last. Later, I let the Heavenly Spa do what its name promises, 45 minutes of being kneaded into something closer to jelly than journalist. Dinner is at Haven, the resort’s Asian dining space, where I share plates I can’t finish over cocktails I definitely can, the evening dissolving into that particular Goan quiet where the loudest sound is cutlery.
+
+The following day brings a Goan thali at lunch, all fresh spice and coastal memory, and by afternoon I’m coaxed out of my pool-patio room for a kayaking session in the Chapora River that I approach the way I approach most exercise: reluctantly, then happily. Ten on ten points for post kayak snacks, a Goan special called alle belle, which are basically soft rice pancakes (or crepes) rolled or folded around a rich, moist filling of freshly grated coconut and jaggery. Dinner that night is at Drift, in-water dining, quite literally, the table lapped by the pool as the sky goes copper over the hills, feet still faintly damp from the paddle earlier. It occurs to me, somewhere between courses, that I have eaten better in three days than I have caring for myself in three months.
+
+I did not see a single fort, market, or waterfall this trip, beyond breakfast. I saw a bakery that has outlived three generations, a spa that undid my shoulders, and more of my own eyelids than the itinerary technically allowed for. Some holidays are checklists. This one was closer to a long, warm exhale — poee in one hand, a cocktail in the other, nothing urgent on the agenda, everything, somehow, accounted for.
+
+Arunima Mazumdar is a Delhi-based independent journalist, writer and literary critic. She is also the founder of Dokusha Book Club, India's first book community dedicated to reading Japanese literature.
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/susegad-napcation-freshly-baked-poee-1983332)
+
+---
+
+### The System That Killed The Fearless Bureaucrat
+*Deccan Chronicle · Opinion*
+
+My father, a senior bureaucrat, would tell me a story of the early days after Independence. Pandit Ravi Shankar Shukla, a veteran and respected politician, was the chief minister (CM) of the then state of Central Provinces and Berar, with Nagpur as its capital. In an officer’s meeting, Shukla was keen that a certain decision be taken immediately.
+
+K.B.L. Seth, a highly regarded I.C.S officer, was the chief secretary. He explained to the CM that the decision would be in contravention of certain rules, and it would not be possible to implement it immediately in its current form. This annoyed the CM, and in anger he said: “What do you mean it is not possible?
+
+Everything is possible, even removing you from the service is possible.” Seth calmly responded: “Sir, I am a covenanted officer, and removing me from service for doing my duty would not be possible. However, it is possible for you to appoint another chief secretary, and I am not enamoured of this post.” Shukla instantly calmed down and graciously apologised. The decision was reviewed; Seth remained the chief secretary; and the CM and him enjoyed a relationship of even greater cordiality and mutual respect.
+
+There was a time when a good bureaucrat was expected to possess the ability to say no. Such an officer could disagree with his political superior without regarding disagreement as disloyalty. The politician, for his part would often respect the officer for his courage of conviction.
+
+That compact appears increasingly close to extinction. The administrative services were once described as the “steel frame” of India. It was expected to provide continuity amidst political change; institutional memory amidst political flux; and professional advice even when that advice was inconvenient. The minister represented the political will. The civil servant was expected to explain what was administratively feasible, legally permissible and institutionally prudent.
+
+The relationship was never entirely idealistic. Politicians, of course, have always liked “cooperative officers”. Bureaucrats love to blame politicians but are from blameless themselves. In fact, in all likelihood, it was not the politician who first compromised the bureaucrat, but the bureaucrat who first conveyed to the politician that he was willing to be compromised. This attitude, in turn compromised the dharma of the bureaucracy: that an officer belonged, first and foremost, to the institution he served; his allegiance was to the Constitution, the law and the public interest — not to the individual politician occupying a particular office.
+
+Bureaucratic pliability has verifiable dividends: a desirable posting, an extension of tenure, a promotion, proximity to power, or simply the assurance that one's career will not be obstructed. The result is a damaging condominium of mutual convenience. The politician wants compliance; the bureaucrat wants patronage. Each can supply what the other seeks.
+
+Ethics, or self-esteem don’t matter in this happy ‘relationship’. I recall an incident in New York, when the private secretary (PS) to a minister, a senior IAS officer, arrived five minutes late at the airport to receive the minister’s wife. When he met her, she exploded: “Ullu ke patthe, ye time hai aane ka!: Bloody fool, is this the time to show up!” The officer quietly swallowed the unacceptable insult in order to retain the coveted post of PS to the minister.
+
+It is equally true that the calibre of politician has also dramatically changed, and there are very few left of the ilk of Ravi Shankar Shukla. Alas, this transformation happened quite quickly after 1947.
+
+A well-known politician in the 1970s, who was both a Cabinet minister in the Centre and the CM of an important state, said publicly that he would be willing to give his very skin to make chappals or slippers for then Prime Minister Indira Gandhi. When politician reduce themselves to this kind of abject sycophancy before their political superiors, they expect the same kind of self-debasement and grovelling from the bureaucrats who work under them.
+
+Politicians are unlikely to change, but the willing supplication of covenanted officials is, frankly, shameful. The need for them to reclaim their mandated self-respect is imperative because bureaucracy is where the decisions of government become concrete realities for citizens, be it the acquisition of land, the award of a contract, the allocation of a licence, the transfer of an employee, the demolition of a house, the construction of a road, or the delivery — or denial — of a welfare entitlement.
+
+Corruption thrives when institutions become complicit. A politician who wants an improper favour requires an officer willing to facilitate it. An officer who seeks immunity for overlooking the rules requires a politician to protect him. The two are mutually dependent, and self-perpetuating, isolating the few honest bureaucrats left.
+
+In fact, the honest officer, in such an ecosystem, becomes an...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/the-system-that-killed-the-fearless-bureaucrat-1983314)
 
 ---
 
