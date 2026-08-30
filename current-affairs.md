@@ -1,3 +1,277 @@
+## 30 August 2026
+
+### South Carolina officer killed in park gunfight after domestic dispute call
+*India Today World Desk · general*
+
+## Officer Christopher DeLong was killed and Officer David Dymock was injured during a shootout in Columbia after a domestic dispute call. The suspect also died, and the shooting has left the department grieving as state agents investigate.
+
+A police officer was killed and another was injured in a gunfight at a park in South Carolina on Saturday after police responded to a call about a domestic dispute, Columbia police Chief W.H. “Skip” Holbrook said. The suspect, a 33-year-old man with a lengthy criminal record, also died, Holbrook told a news conference in the state capital.
+
+The officer who died was identified as 29-year-old Christopher DeLong, who had been with the police department for two years. He is survived by his wife and two young children. “Our hearts are broken this evening,” Holbrook said, appearing emotional at times.
+
+According to Holbrook, the incident began at about 9.30 am on Saturday when a woman called police and said a man she had a restraining order against was damaging property at her home. DeLong arrived quickly and was told the suspect had left. The woman gave him a description of the man and the vehicle, the chief said.
+
+At about 10.30 am, DeLong left the home. Minutes later, he reported a suspicious person after seeing a man near a vehicle matching the description given by the woman, Holbrook said. Officer David Dymock then arrived as backup, and minutes later radioed that the officers “were hit and a suspect was down”, the chief said.
+
+Holbrook identified the suspect as Adam Tyler Dowdy and said he had a history of arrests in at least four states, including on charges of disorderly conduct, contempt of court, public intoxication, possession of a controlled substance and probation violations. After the Saturday night news conference, Holbrook and other law enforcement officials joined a procession from the hospital. Dymock was in stable condition, the chief said.
+
+In a social media post, DeLong’s wife described him as the “best dad to our babies” and said she was “living a nightmare”. Holbrook said the South Carolina Law Enforcement Division would investigate the shooting, and a spokesperson for the agency said the investigation was ongoing. “I hope that our officers know that they’re not alone in this. We will lean on each other in this tragic time,” Holbrook said. “Let’s pray for this department.” The shooting left one officer dead, another injured but stable, and the suspect dead, with the investigation now under way.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Aug 30, 2026 10:49 IST
+
+---
+
+### NEET-PG aspirant dies by suicide day before exam, says she was depressed in note
+*Abdul Basheer · general*
+
+## A 26-year-old NEET-PG aspirant from Andhra Pradesh died by suicide in a Hyderabad hostel a day before her exam. Police say a purported note mentioned long-term depression, while no link to the test has been confirmed.
+
+Police said a purported suicide note was recovered from the hostel room. (Representative image)
+
+A 26-year-old NEET-PG aspirant from Andhra Pradesh died by suicide at a private hostel in Hyderabad on Saturday, a day before she was scheduled to appear for the postgraduate medical entrance examination, police said.
+
+The deceased was identified as Yashwita, a native of Kurnool district. She had completed her MBBS and had been living at a private hostel near RTC Cross Roads in Hyderabad, where she had been preparing for the NEET-PG examination for several months.
+
+According to police, Yashwita allegedly consumed a poisonous substance inside her hostel room. She was found unconscious after her father, who was unable to contact her over the phone, alerted the hostel authorities.
+
+Hostel staff subsequently found her in the room and rushed her to a nearby hospital. However, doctors declared her brought dead.
+
+### SUICIDE NOTE RECOVERED BY POLICE
+
+Police said a purported suicide note was recovered from the hostel room. According to preliminary information, Yashwita had written that she had been suffering from depression since her intermediate years.
+
+Police said the note did not specifically refer to the NEET-PG examination or indicate that the upcoming test was a reason for her death.
+
+Her father had reportedly spoken to her on Saturday morning and was planning to accompany her to the examination centre the following day. The incident came to light later in the day when he was unable to reach her over the phone.
+
+The NEET-PG 2026 examination is scheduled to be held on Sunday, August 30, with medical graduates across the country appearing for the postgraduate entrance test.
+
+### CASE REGISTERED, POLICE TRYING TO ESTABLISH TIMELINE
+
+The Chikkadpally police have registered a case and begun an investigation into the circumstances surrounding Yashwita's death. Officers are examining the purported suicide note and other evidence recovered from the hostel room.
+
+Police are also seeking to establish a timeline of events leading up to her death and are speaking to hostel staff and people who may have been in contact with her.
+
+Authorities have not confirmed any link between her death and the NEET-PG examination. The investigation is ongoing, and further details are expected to emerge after the police complete their inquiry.
+
+\- Ends
+
+Ritaban Misra
+
+Aug 30, 2026 10:45 IST
+
+---
+
+### Before a people disappear, their stories do
+*Suvir Saran · legal*
+
+Why the erasure of ordinary Muslim families in films should alarm us.
+
+[Read full article](https://indianexpress.com/article/express-sunday-eye/before-a-people-disappear-their-stories-do-10855462/)
+
+---
+
+### Tea break turns lifesaver for 5 Chhattisgarh men amid Nepal floods
+*India Today News Desk · general*
+
+Sometimes, it is the most trivial decision that can alter the course of a life. For five friends from Chhattisgarh, a casual tea break in Nepal on August 26 became the thin line between being swept away in a devastating flash flood and escaping it.
+
+What was meant to be a brief pause, ended up saving the men from the deadly fury of the disaster that unfolded on Wednesday. The group spent the next two days harrowingly sheltering on higher ground, sleeping in their rented car and watching the swollen Trishuli river rage below.
+
+Narayan Sen, Dinesh Ojha, Prem Singh Jagat, Yatendra Prakash and Dinesh Singh Thakur, all aged between 50 and 60 years and residents of Mana Camp area in Raipur, returned home on Saturday.
+
+### SURVIVORS RECOUNT NEPAL FLOOD FURY
+
+"We were lucky that we stopped for tea on August 26 when the flash floods struck. If we had left 10–15 minutes earlier, we might have got trapped," 53-year-old Sen, who runs a salon, was quoted as saying by news agency _PTI_.
+
+"Had we not stopped there, we do not know what would have happened," he said. The group departed from Raipur on August 21 and arrived in Nepal the following day. They had hired a car and were planning to visit the Pashupatinath Temple, Manokamana Temple and other tourist attractions in the Himalayan nation.
+
+At around 10 am on August 26, the day the disaster struck, they stopped for tea at a hotel in Nepal's Dhading district. "There we learnt that a bridge ahead had been washed away in a flood. The hotel belonged to an Indian, who helped us a lot and provided us with food," Sen said.
+
+The men became unwilling eyewitnesses to the unfolding tragedy. The group managed to take shelter on higher ground at Malekhu and spent the night in their vehicle.
+
+Locals and authorities helped them. Thakur (55), who is a police head constable, said he and his friends were around 50 km from Pashupatinath Temple when the catastrophic flood struck.
+
+"While having tea at the hotel, we noticed people suddenly becoming restive. Later, we learnt about the devastation caused by the flood. We heard that entire villages, buildings, offices and hydropower projects had been devastated," he recalled.
+
+They later visited the bank of the Trishuli river to witness the situation first-hand. "What we saw is very difficult to describe in words," said Thakur.
+
+"We kept chanting Lord Shiva's name, and we feel his blessings protected us," he added. Thakur lauded the local administration and police's handling of the deeply distressing situation.
+
+"There was no electricity and water, but the administration and police helped us. They told us that we were at a higher place and should not worry," he said.
+
+The tourist group managed to stay in touch with their families back in India via the internet, and used the helpline provided by the Indian government to share their location.
+
+"Internet service was working well there, so we remained in contact with our families and did not panic," Thakur said.
+
+The friends were finally able to leave Nepal on August 28. Amid the devastating disaster, the five men shared a heartwarming moment when local women security personnel tied _rakhis_ on their wrists to mark Raksha Bandhan.
+
+"We were supposed to return from the trip after the Rakhi festival, so our sisters had already given us rakhis. The women security personnel deployed there tied these rakhis on our wrists. That was the most comforting moment," Thakur said.
+
+Dinesh Ojha, who runs a tailoring shop, said the scenes they witnessed in the aftermath of the flash flood would stay with them forever.
+
+"We will never be able to forget what we saw. Many people were desperately searching for their missing family members," he said.
+
+Ojha further said the group remained worried about the possibility of another flood hitting the affected region. "We slept in our car, but we could not really sleep. There was always the fear that another flood might come," he told _PTI_.
+
+"We are happy that finally we have reached back home," Ojha added.
+
+### NEPAL FLOOD DEATH TOLL CROSSES 700
+
+As of Sunday morning, the official death toll in Nepal due to Wednesday's flash flood stood at 734.
+
+Meanwhile, in Tibet, 16 people have been officially confirmed dead by Chinese authorities so far. Nearly 3,000 people remain missing, including about 2,426 in Nepal and 554 in Tibet's Gyirong County.
+
+\- Ends
+
+(With inputs from PTI)
+
+Aug 30, 2026 10:32 IST
+
+---
+
+### Punjab government moves to act against employees absent during Maha Hartal
+*Kanchan Vasdev · legal*
+
+More than three lakh government employees had participated in the mass casual leave on August 27, while over 3.5 lakh pensioners had extended support to the protest.
+
+[Read full article](https://indianexpress.com/article/cities/chandigarh/punjab-government-moves-to-act-against-employees-absent-during-maha-hartal-10855425/)
+
+---
+
+### Nepal Floods Day 5: Tibetan Water Release Triggers Evacuations as Rescue Operations Resume
+*India Today Video Desk · general*
+
+## RSS Chief Addresses New York Event, Pitches Unity Amid Mixed Reactions & Protests
+
+An address by the RSS chief at Madison Square Garden in New York marked part of a global outreach celebrating the centenary of the RSS, with planned visits to Canada and the United Kingdom. The event, titled Universal Oneness Celebration, drew about 5,000 Indian-American attendees and featured cultural performances, food distribution, and discussions centered on unity, harmony, and multi-faith tolerance. During the speech, the RSS chief stated that Hindu Rashtra does not mean driving Muslims out of India and described Hindutva as a cultural idea that does not exclude any community, asserting that public opinion brings change rather than political power. The event drew mixed reactions, generating opposition and protests outside the venue. The mayor of New York criticized the RSS as an exclusionary organization, while protesters outside labeled the address a political stunt. Similar opposing sentiments are brewing in Canada ahead of the next leg of the tour.
+
+---
+
+### PM Modi in Tashkent: Indian diaspora welcomes him with music, dance and cultural performances
+*ET Online · business*
+
+PM Modi in Tashkent: Indian diaspora welcomes him with music, dance and cultural performances
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/pm-modi-in-tashkent-indian-diaspora-welcomes-him-with-music-dance-and-cultural-performances/videoshow/133623351.cms)
+
+---
+
+### Abhishek Banerjee summoned by Kolkata Police over Camac Street scuffle
+*PTI · business*
+
+Kolkata: Police here have served a notice on TMC leader Abhishek Banerjee in connection with a scuffle between officials and private guards of his office over removing a billboard bearing party signage earlier this week, a senior officer said on Sunday.
+
+The notice was handed over to Banerjee at his residence here late on Saturday evening.
+
+  
+
+The officer said the Diamond Harbour MP has been asked to appear before the Shakespeare Sarani Police Station on Tuesday noon in connection with the case.
+
+Three FIRs have been registered in connection with the incident, with Banerjee named as an accused in two of them, officials said. Party leaders, including Derek O'Brien and former MLA Humayun Kabir, have also been named in the FIRs.
+
+According to officials, O'Brien was served a notice on Sunday.
+
+Private guards at Abhishek Banerjee's office, his supporters and some party leaders on Thursday scuffled with police and Kolkata Municipal Corporation officials, trying to prevent them from entering the building on Camac Street and dismantling an "unauthorised" billboard.
+
+However, the TMC's Rajya Sabha MP Derek O'Brien, who was present at the spot during the raid, described reports of resistance attempts by private guards as "fake news". He said the guards were posted on duty at the entrance of the building.
+
+The billboard, bearing TMC signage, set up on an iron structure facing the road on the top floor of the building, was dismantled by the KMC personnel after police forced their way inside.
+
+O'Brien had alleged that the police barged into the office with an "illegal" notice, assaulted senior leaders and heckled party supporters and office staff.
+
+"A notice has been served on Abhishek Banerjee in connection with the investigation. He has been asked to appear before the investigating officer on Monday. The investigation is underway, and all aspects of the incident are being examined," the senior Kolkata Police officer told PTI.
+
+Fourteen people have so far been arrested in connection with the incident.
+
+Police are examining CCTV footage and other evidence as part of the investigation, the officer said.
+
+---
+
+### Vietnam’s coffee farmers are betting on durian to strike it rich in China
+*SECTIONS Vietnam’s coffee farmers are betting · business*
+
+Dak Lak: Vietnam's Central Highlands produces around one sixth of the world's coffee, but farmers are switching their traditional crop for durian to cash in on surging Chinese demand for the pungent "king of fruits".
+
+"You can live okay with coffee, but it's durian that makes you rich," said Pham Xuan Lan, as he showed AFP journalists around his farm.
+
+  
+
+Blessed with a tropical climate and rich basalt soil, the lush Central Highlands produces vast quantities of robusta beans, and Vietnam trails only Brazil in coffee output.
+
+But the area dedicated to durian has soared more than fivefold to 200,000 hectares (494,000 acres) nationwide over the past decade, according to the agriculture ministry.
+
+Vietnam only officially entered the Chinese durian market after a 2022 trade protocol but last year became the country's biggest supplier by volume, ending Thailand's near two-decade dominance.
+
+Lan was an early adopter, diversifying his crop two decades ago and now boasting 400 durian trees in Ea Knuec commune, part of Dak Lak province.
+
+They produce 60 tonnes of the sweet yet smelly fruit, which is driven in frozen containers thousands of kilometres north into China.
+
+The 56-year-old expects to make $76,000 this year -- against $10,000 had he stayed with just coffee.
+
+"With durian, I bought a car, houses for my children and built a villa for my family," he said, his affluence evident around him.
+
+Other local farmers have followed suit, focusing on the premium Ri6, Musang King and Dona varieties.
+
+During the August-October harvest, Dak Lak's roads are packed with trucks loaded with the spiky fruit, and at a durian festival this month, 525 vehicles formed what the Guinness World Records declared the largest ever parade of fruit-carrying vehicles.
+
+## \- Billions of views -
+
+The boom is driven by demand from China, fuelled by a combination of expanding supply and growing popularity on social media, particularly among young people.
+
+On Douyin, China's equivalent of TikTok, videos of users cracking open fruit with their bare hands have been watched billions of times.
+
+"This tastes really sweet. It's almost like it's been coated in sugar," said Douyin influencer Liulianzi in a clip liked more than 17,000 times.
+
+Once a luxury food, increased competition between Thailand and Vietnam and improved transport links have helped cut prices and make the fruit more affordable.
+
+At a durian tasting event in Beijing last month, Ada Song told AFP that she had spent almost 1,000 yuan ($150) on the fruit in recent weeks.
+
+"I have tried nearly 20 different varieties," Song said.
+
+Durian "tastes just as sweet as cake, without the greasiness and heaviness".
+
+China imported almost $7.5 billion worth of fresh durian last year, a near 12-fold rise from 2015.
+
+Now Beijing is seeking to boost its homegrown produce, with more than 3,000 hectares of plantations on the southern island province of Hainan, which has a similar climate to northern Vietnam.
+
+But "our Hainan durians will always be just a supplement to Southeast Asian durians", acknowledged Feng Xuejie, a durian expert at the Hainan Academy of Agricultural Sciences.
+
+"It's not even a competition."
+
+## \- Improving quality -
+
+Vietnam's durian exports are expected to reach $4 billion this year, up from $180 million in 2021 -- 90 percent of them going to its northern neighbour.
+
+But in the Central Highlands there are concerns about the reliance on China, as well as the risks of oversupply as more farmers join the rush.
+
+Many anxiously eyed a recent price crash in Malaysia, blamed on an unusually bumper harvest.
+
+Many farmers there have also switched to durian, focusing on premium varieties and fresh fruit, although the country has only a small slice of the Chinese market.
+
+Vietnam's government warned in early August of the "risks of oversupply and loss of quality control as the planted area is increasing rapidly".
+
+Farmers warn durian is not a one-way bet, requiring a strict mix of humidity, water and fertilisers.
+
+Lan likened growing it to "raising a child -- I can give you all the tricks but I cannot guarantee you similar success".
+
+He still grows coffee as his land is leased from a coffee company, allowing him to hedge his bets.
+
+For some, the durian dream has already turned sour.
+
+Hung, a farmer who gave only one name, switched entirely from coffee to durian five years ago, but switched back two years ago, admitting it was too hard to produce the quality required.
+
+"I could not do it. I failed," the 42-year-old said. "So I would never go back to durian again."
+
+
+---
+
 ## 29 August 2026
 
 ### Tsunami from mountains: Rescued Tamil Nadu pilgrim recalls Nepal flood horror
