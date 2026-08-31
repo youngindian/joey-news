@@ -1,3 +1,319 @@
+## 31 August 2026
+
+### Gauahar Khan on motherhood, work and the importance of being present
+*Lifestyle Desk · legal*
+
+Gauahar Khan, who welcomed her son Zehaan in 2023, once shared how she has intentionally chosen to be hands-on with parenting
+
+[Read full article](https://indianexpress.com/article/people/gauahar-khan-relying-nanny-raise-child-working-woman-emotional-connection-10085041/)
+
+---
+
+### Tibet Mudslide: Gong Ming Reports Highway Clearance Underway, 546 Missing & 16 Dead
+*India Today Video Desk · world*
+
+## PM Modi Central Asia Visit: Student Interaction In Tashkent To Bilateral With Putin At SCO Summit
+
+Prime Minister Narendra Modi interacted with Indologists and students at the Mahatma Gandhi Center in Tashkent, Uzbekistan, encouraging research on Indian subjects and translations into the Uzbek language. During the visit, both nations established a Hindi scholarship in memory of late Prime Minister Lal Bahadur Shastri and a Sanskrit chair at Tashkent University. Over 2,700 Uzbek students have benefited from India's ITEC economic and technical cooperation program. Following his Uzbekistan visit, Prime Minister Modi arrived in Bishkek, Kyrgyzstan, to attend the 26th Shanghai Cooperation Organisation summit. On the sidelines of the SCO summit, Prime Minister Modi is set to hold bilateral talks with Russian President Vladimir Putin. Key agenda items for the bilateral meeting include energy cooperation, defense ties, delayed defense deliveries, addressing trade imbalance, and Russian crude oil imports. At the SCO summit, India seeks to push for counter-terrorism consensus, expand connectivity via Chabahar port and INSTC, and balance strategic autonomy.
+
+---
+
+### Sadhguru urges five-nation Himalayan Board after Nepal flash flood
+*India Today World Desk · general*
+
+## Sadhguru called in Kathmandu for a five-nation Himalayan Board after Nepal's deadly flash floods. He said the fragile mountain region needs urgent cross-border cooperation beyond politics.
+
+Stock photo used for illustration
+
+Indian spiritual leader Sadhguru Jagadish Vasudev on Sunday called for a five-nation Himalayan Board comprising India, China, Pakistan, Nepal and Bhutan, saying greater cooperation was needed to deal with disasters in the fragile mountain region. Addressing an event titled 'In Solidarity With Nepal' in Kathmandu, he also pledged Rs 1 crore to Nepal's Prime Minister Disaster Relief Fund, according to an official statement from the Isha Foundation.
+
+His remarks came as a massive flash flood near the China-Nepal border left hundreds dead and thousands missing. The National Disaster Risk Reduction and Management Authority said the death toll had risen to 903, while 77 pilgrims from the Isha Foundation and three volunteers stationed on the Nepal side were reportedly unaccounted for.
+
+The 77-member group, led by the Isha Foundation, has remained out of contact after the flood. The organisation, founded by Sadhguru, runs multiple Kailash Mansarovar pilgrimages each season, with groups travelling from Kathmandu through Nepal to Tibet and trekking on foot as part of the journey.
+
+Calling on countries to look beyond political boundaries in dealing with a mountain system shared by all, Sadhguru said, "The mountains don't know your political affiliation. The mountains don't know what nonsense or language you speak." He said, "Himalayas are the most fantastic and majestic feature on the planet. At the same time, they are very fragile." Stressing the need for urgent action, he added, "A body comprising all these nations where the Himalayan ranges run has to happen now."
+
+He said the scale of the disaster was beyond what could reasonably have been anticipated and that Nepal should not be left to deal with its aftermath alone. "Nobody expected something like this to happen... But now that it's happened, we must look at this because this is not something a small nation like Nepal can solve by themselves," he said.
+
+The Kathmandu event brought together people in support of those affected by the disaster. Along with immediate relief and Sadhguru's donation to the Prime Minister Disaster Relief Fund, the call from the gathering was for closer regional cooperation as Nepal continued to deal with the impact of the flash floods and the search for the missing.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Aug 31, 2026 11:06 IST
+
+---
+
+### Trump once tried to shut Roman telescope. Now, he calls Nasa to congratulate
+*India Today Science Desk · general*
+
+It was a moment both celebratory and obviously ironic at Nasa's post-launch press conference after the space agency sent to orbit its latest space observatory, the Nancy Grace Roman Space Telescope, to study and reveal the secrets of the universe.
+
+As officials were discussing the successful launch of the Roman telescope, Nasa Administrator Jared Isaacman received a phone call from US President Donald Trump.
+
+Moments later, Trump was addressing the room, congratulating the Roman team and praising the mission. But the irony prevailed.
+
+The Trump administration, led by the same president dishing out compliments and crediting a globally renowned agency on call, had previously proposed cutting or cancelling funding for the very telescope whose launch it was now celebrating.
+
+### THREATENED MISSION TO A SUCCESSFUL LAUNCH
+
+Roman lifted off at 4:56 pm IST on August 30 aboard a SpaceX Falcon Heavy from Launch Complex 39A at Nasa's Kennedy Space Center in Florida, US.
+
+The observatory has now begun its journey towards the second Sun-Earth Lagrange point, or L2, roughly 15 lakh km from Earth.
+
+The telescope is one of Nasa's most important new observatories.
+
+SpaceX's Falcon Heavy rocket, carrying the Roman telescope, is seen on the launch pad prior to launch. (Photo: Nasa)
+
+It boasts a 2.4-metre primary mirror, which is similar in size to Hubble's, and it also possesses a Wide Field Instrument that can see an area of sky at least 100 times larger than Hubble's field of view in a single observation.
+
+Roman will survey enormous stretches of the universe, helping scientists investigate dark energy and dark matter, study how galaxies evolved and search for planets beyond our solar system.
+
+Its wide surveys will also create a vast pool of data that can be used for many other areas of astronomy.
+
+### WHEN TRUMP TRIED TO KILL ROMAN TELESCOPE
+
+Trump's relationship with the Nancy Grace Roman telescope goes back much further than Sunday's congratulatory call.
+
+During his first presidency, his administration proposed cancelling the mission in three separate budget requests between 2019 and 2021.
+
+The Nancy Grace Roman Telescope is seen at the Nasa space facility. (Photo: Nasa)
+
+Congress had rejected those proposals and continued funding Roman.
+
+The mission faced another serious threat during Trump's second term.
+
+In 2025, proposed White House budget documents called for the slashing of Nasa's science spending, raising concerns that Roman could be cancelled.
+
+Those proposed cuts could have put more than 50 Nasa missions at risk, including the launch of the Nancy Grace Roman Space Telescope.
+
+Congress ultimately rejected those cuts and approved about $24.4 billion for Nasa for fiscal year 2026, allowing Roman and other major science missions to continue.
+
+That decision, evidently, proved fruitful.
+
+Nasa administrator holds a phone during the call from Donald Trump. (Photo: Nasa)
+
+Instead of being cancelled or indefinitely delayed, Roman reached the launch pad and is now on its way to space.
+
+For a telescope designed to give humanity a much wider view of the universe, its journey has already been nothing short of eventful; from repeated funding threats on Earth to finally beginning its scientific journey beyond it.
+
+But the journey, nonetheless, has only just begun.
+
+\- Ends
+
+Aug 31, 2026 11:05 IST
+
+---
+
+### $40 million Ferrari, $13 million tax twist: 87-year-old billionaire’s charity buy could cut his US tax bill
+*Unknown · business*
+
+American billionaire Herbert A. Wertheim’s $40 million purchase of Ferrari’s first electric vehicle at a charity auction could potentially qualify for a significant tax deduction under US charitable giving rules, Fortune reported.
+
+The 87-year-old optometrist-turned-businessman and philanthropist bought the Ferrari Luce earlier this month at a Sotheby’s public auction. The auction was held to benefit the Ferrari Foundation, which supports education initiatives globally.
+
+The $40 million price paid for the car was more than 36 times its presale estimate of $1.1 million. While the Luce has a retail price of $640,000, the auctioned vehicle carried a higher value because it had a pre-production chassis.
+
+  
+
+The potential tax benefit stems from the charitable nature of the purchase. Automotive content creator and television presenter Peter Greaves highlighted the possibility in a YouTube video, according to Fortune.
+
+Based on the 2026 US tax rules, Wertheim could potentially deduct the amount paid above the car's estimated fair market value. Fortune reported that if his adjusted gross income were around $200 million, a 0.5% floor would also apply to the deduction.
+
+The calculation would leave around $37.9 million after accounting for the $1.1 million estimated value of the car and the 0.5% adjusted gross income threshold. The US' so-called 2/37ths rule, introduced under the One Big Beautiful Bill Act, would further reduce the amount eligible for the deduction, Fortune reported.
+
+Under the new rules, the benefit for itemised deductions for top earners is capped at 35%, compared with 37% earlier. Based on the calculation cited by Fortune, Wertheim could potentially receive more than $13 million in tax savings.
+
+Wertheim did not immediately respond to Fortune's request for comment and has not publicly commented on whether he intends to claim the tax benefit from the Ferrari purchase.
+
+The billionaire, who has an estimated net worth of $4.8 billion, has previously participated in luxury vehicle charity auctions. He reportedly paid $26 million for a Ferrari Daytona SP3, known as the "599+1". He has donated more than $200 million to various causes, including $50 million to UC Berkeley Optometry and $100 million to Baptist Health Foundation.
+
+In February, Wertheim also paid $2 million at a Mar-a-Lago charity event for a private visit with US President Donald Trump at the White House. He briefly launched a Congressional bid in Florida's 22nd District earlier this year.
+
+### US charity tax breaks face changes
+
+The tax deduction for charitable giving in the US dates back to 1917, when Congress introduced it under the War Revenue Act to encourage private philanthropy during World War I.
+
+The rules have evolved over the years, but the One Big Beautiful Bill Act has reduced the tax benefit for top earners from 37% to 35%. The legislation also requires itemised taxpayers to claim deductions only for charitable donations exceeding 0.5% of their adjusted gross income.
+
+The changes could affect charitable giving by wealthy Americans. Fortune cited an estimate from the Indiana University Lilly Family School of Philanthropy that the new 35% limit could reduce donations by between $4.1 billion and $6.1 billion.
+
+The changes come as concerns grow that lower contributions from wealthy donors could place a greater burden on middle-class donors and charities.
+
+---
+
+### Family of American mercenary Matthew VanDyke rally for his release from Tihar Jail
+*India Today World Desk · general*
+
+## American mercenary and PoW Matthew VanDyke is in Delhi's Tihar Jail after his arrest by the NIA in March. He had visited restricted areas in the Northeast without permission. VanDyke's family has appealed for diplomatic intervention to get him back in the US.
+
+Matthew VanDyke was arrested at Kolkata airport on March 11. (File image)
+
+The family of American mercenary and trainer of rebels Matthew VanDyke, who is in New Delhi's Tihar Jail after being **arrested by the National Investigation Agency (NIA)** in March, has asked the US Embassy to "intervene urgently" to "bring him back home".
+
+"The family of Matthew VanDyke seeks urgent US diplomatic intervention as Matthew VanDyke is presently still denied basic detainee rights, and is being kept in solitary confinement at Tihar Jail 8/9 in Delhi, India. It is time to bring Matthew VanDyke back home," the family of the former mercenary and prisoner of war (PoW) posted from his verified X handle with the last edit on Monday.
+
+VanDyke has been booked under Section 18 (conspiracy to commit a terrorist act) of the Unlawful Activities (Prevention) Act (UAPA). The provision covers conspiring, attempting, aiding, advising or facilitating the commission of a terrorist act.
+
+The NIA has accused Matthew VanDyke of entering Mizoram without the mandatory Restricted Area Permit and illegally crossing into Myanmar. It alleges that VanDyke contacted ethnic armed groups there and helped train them in weapons handling and drone warfare, including drone assembly, operations and jamming technology. The agency has further alleged that the group planned to import drones from Europe and supply weapons and other military hardware to Myanmar-based groups linked to proscribed insurgent organisations in India's Northeast.
+
+In a statement issued by Sons of Liberty International (SOLI), the organisation founded by VanDyke, his family said that he had been detained at Kolkata airport on March 11 and was transferred from the NIA headquarters to Tihar Jail on April 6. The statement claimed that he had an injured leg and diminished eyesight and had been denied prescription medicines and regular communication with his family.
+
+According to the statement, the family said VanDyke's lawyers, Rohit Dandriyal and Rohit Gour, had approached a court in Delhi seeking permission for his treatment at a private hospital and proper communication with his relatives in the US. According to the statement, both applications were denied on June 1.
+
+It alleged that VanDyke's mother, Sharon VanDyke, who is over 80, had been allowed only a five-minute emergency call with him several months ago. The statement also claimed that VanDyke was "too weak to stand or walk during a court appearance" and now used a wheelchair while meeting his lawyers.
+
+_**(This is a developing story. Please check back for updates.)**_
+
+\- Ends
+
+Sushim Mukul
+
+Aug 31, 2026 11:01 IST
+
+---
+
+### Delhi HC stays ‘unusual’ order granting future interim bail to Tillu gang member
+*Nirbhay Thakur · legal*
+
+Key operative of the Tillu gang, named Amit is facing trial in 15 criminal cases tied to the syndicate
+
+[Read full article](https://indianexpress.com/article/cities/delhi/tillu-gang-member-interim-bail-delhi-hc-10856583/)
+
+---
+
+### India became ‘Vishwaguru’ through service, not pursuit of superpower status: RSS cheif Mohan Bhagwat in Toronto
+*Ayush Pandey · general*
+
+RSS chief Mohan Bhagwat in Toronto
+
+RSS chief Mohan Bhagwat said India became a "Vishwaguru" (world teacher) through its selfless service to humanity rather than by becoming a "Mahashakti" (superpower), highlighting the country's civilisational tradition of friendship, refuge and respect for diversity.Addressing the "Hindu Vishwa Bandhu - Embrace the World in Friendship" gathering in Toronto, Bhagwat said India's global influence had historically come from sharing knowledge and extending help, rather than seeking territorial or political dominance."One may call Bharat a superpower, but it was not one. It served the world and by its own character, it became 'Vishwaguru', not Mahashakti," he said.Bhagwat cited India's history of providing refuge to people fleeing persecution and conflict.
+
+Recalling the Second World War, he referred to the Maharaja of Jamnagar offering shelter and protection to Polish refugees until they could return safely."There are so many instances; it is still continuing," Bhagwat said.He also referred to India's evacuation efforts during conflicts in the Middle East, saying Indian military aircraft had rescued citizens of several countries alongside Indians."When, some years back in the Middle East war, people were trapped, the military planes of Bharat went there and rescued not only Bharatiya citizens; citizens of seven countries were rescued from there by Bharatiya," he said.
+
+Bhagwat said India had historically provided peaceful refuge to Muslims, Christians, Jews and Parsis, arguing that those facing persecution could find asylum in the country."Anywhere in the world, if someone was persecuted, he got asylum in Bharat only," Bhagwat said.‘This is the tradition. This is the DNA of Bharat’The RSS chief contrasted India's civilisational outreach with imperial expansion, saying Indian travellers spread knowledge and values without conquering countries."Our ancestors travelled from Mexico to Siberia... They crossed the Himalayas on foot, went to Southeast Asia through small boats, but they conquered no country. They gave knowledge, astronomy, ayurveda, imparted civilisational values... Even today, when an ordinary Bharatiya goes to any country, the people there offer Namaskara," he added.He said helping people in distress was embedded in India's civilisational character and that the country had extended assistance even when help was not explicitly sought."This is the tradition. This is the DNA of Bharat," he said.Bhagwat also explained his understanding of the term Hindu, saying it should not be confined to a particular language, form of worship or lifestyle."When I say Hindu, the word Hindu cannot be defined by any specific language, through any specific worship, or through any living style," he said, adding that Hindus "respect all" and "accept all".He called for embracing diversity while recognising an underlying unity among humanity."We have to serve, accept, respect this diversity because it is an expression of unity. It beautifies it. It is the decoration. We celebrate it," he said.Bhagwat said India's ancient ethos viewed diversity as a natural feature of existence while considering unity to be the fundamental reality."There have been many castes, many creeds, many languages. Everything is many. Nothing""Nature, expression of reality, is diverse. Diversity is natural.
+
+Unity is the reality. You have to tackle with natural, keeping in mind reality. That is the ancient ethos of Bharat," he added.Invoking the philosophy of Vasudhaiva Kutumbakam, Bhagwat said an open-minded and knowledgeable person recognises the world as one family."Those who are open-minded and knowledgeable embrace the concept of Vasudhaiva Kutumbakam--the belief that the entire earth is one family," he said.He said that despite differences in people's physical appearance, humanity was fundamentally united, making service to others a responsibility."Therefore, serving others is our duty. We have gained this wisdom, which brings us enduring happiness and satisfaction," Bhagwat said.
+
+The address was delivered at the "Hindu Vishwa Bandhu - Embrace the World with Friendship" gathering, which brought together more than 2,000 members of Canada's Hindu community from all 10 provinces.The event was organised by CHORD, Canadian Hindus for Outreach, Relations and Dialogue, with support from more than 175 organisations. It focused on friendship, dialogue, belonging and shared responsibility, drawing on the Hindu civilisational ideal of "Vasudhaiva Kutumbakam".
+
+---
+
+### Kia’s first hybrid SUV with AWD to come this week: All you need to know
+*Auto Today · general*
+
+## Kia is set to introduce the Sorento in India this week, bringing its first strong-hybrid SUV with AWD, alongside a diesel option, premium features and new AI-powered technology.
+
+Kia is set to launch the Sorento in India on September 4, marking the Korean carmaker’s entry into the strong-hybrid SUV segment in the country. The premium three-row SUV will become Kia’s flagship SUV in India and will be offered with both hybrid and diesel powertrains.
+
+The India-spec Sorento is being locally assembled at Kia’s Anantapur plant, with production already underway. Kia has also opened pre-bookings for the SUV through its dealerships and official website ahead of its launch later this week.
+
+### Kia Sorento: What to expect
+
+The Sorento will bring Kia’s latest global SUV design language to India, featuring an upright front end, a wide stance and a more premium appearance. It will sit above the Carnival in Kia’s SUV hierarchy and is expected to be positioned as a more premium alternative to established three-row SUVs.
+
+The India-spec model is expected to measure around 4,815mm in length, 1,900mm in width and approximately 1,700mm in height, with a wheelbase of 2,815mm. Kia is expected to offer the SUV in six- and seven-seat configurations, with captain seats likely to be available on higher variants.
+
+Inside, the Sorento is expected to feature a premium dashboard with a curved panoramic display incorporating twin 12.3-inch screens. Other expected features include a rotary gear selector, touch-sensitive climate controls, panoramic sunroof, premium upholstery, ventilated front and second-row seats, wireless charging, ambient lighting, a powered driver's seat and a Bose audio system.
+
+### Kia Sorento hybrid with AWD
+
+The biggest talking point of the Sorento will be its strong-hybrid powertrain, which will make it Kia India’s first hybrid SUV. Unlike many hybrid SUVs in the segment, the India-spec Sorento Hybrid will be offered with all-wheel drive.
+
+The SUV is expected to use a 1.6-litre turbo-petrol hybrid powertrain producing around 238-241bhp and 380Nm of combined torque. The powertrain is expected to be paired with a six-speed automatic transmission.
+
+Internationally, the Sorento Hybrid is available with both front-wheel drive and all-wheel drive, but Kia has opted for the AWD configuration for the Indian market. This should give the SUV an added advantage for buyers looking for a premium hybrid with greater traction and all-weather capability.
+
+### Diesel engine also on offer
+
+Kia will also offer the Sorento with a 2.2-litre diesel engine, giving buyers a choice between electrified and conventional powertrains.
+
+In international markets, the diesel engine develops around 202bhp and 441Nm and is paired with an eight-speed automatic transmission. India-specific output and transmission details are expected to be announced closer to the launch.
+
+The availability of a diesel option could make the Sorento appealing to buyers who regularly undertake long-distance journeys, while the hybrid is likely to be positioned as the more refined and efficient option for urban and mixed driving.
+
+### Kia Sorento to get Live Generative AI
+
+Technology will be another major highlight of the new Sorento. Kia has confirmed that the India-spec SUV will feature its Kia AI Assistant, powered by Live Generative AI.
+
+Kia says the Sorento will be the first Kia globally to introduce this technology. The system is designed to offer more natural, conversational interactions than conventional voice assistants while also providing access to real-time and continuously updated information.
+
+The SUV is also expected to feature a 360-degree camera, multiple airbags, hill descent control, an electronic parking brake with auto hold and a Level 2 ADAS suite. Higher variants could additionally get a head-up display and terrain-specific drive modes.
+
+### Kia Sorento India launch and expected price
+
+The Kia Sorento will launch in India on September 4, 2026. With local production already underway at Kia’s Anantapur facility, the SUV will be locally assembled for the Indian market.
+
+Kia is expected to price the Sorento from around Rs 40 lakh (ex-showroom). It will take on premium three-row SUVs such as the Volkswagen Tayron, Toyota Fortuner, Skoda Kodiaq, MG Majestor and Jeep Meridian.
+
+With a strong-hybrid powertrain, AWD, a diesel engine, six- and seven-seat configurations and a long list of premium technology, the Sorento will give Kia a significantly more upmarket offering in India's three-row SUV segment.
+
+****Subscribe to Auto Today Magazine****
+
+\- Ends
+
+Aug 31, 2026 10:59 IST
+
+---
+
+### 'Country Babur came from': Owaisi takes dig at PM Modi's Uzbek honour
+*Vivek Dubey · general*
+
+Owaisi pointed to Uzbekistan's historical connection with Babur
+
+NEW DELHI: AIMIM chief Asaduddin Owaisi took a dig at the BJP after Prime Minister Narendra Modi was conferred Uzbekistan's highest state honour.PM Modi was presented with the Order of "Oliy Darajali Dustlik" by Uzbekistan President Shavkat Mirziyoyev during his two-day state visit to the Central Asian country.
+
+The honour is Uzbekistan's highest state award.Reacting to the recognition, Owaisi pointed to Uzbekistan's historical connection with Babur, who he said was born in the Fergana Valley in present-day Uzbekistan and founded the Mughal Empire in India."I congratulate the BJP; the very country from which Babur came to India has conferred an award upon the Prime Minister. The Fergana Valley is in Uzbekistan. Wherever the Prime Minister goes these days, he returns with an award. Congratulations. You used to hurl so many insults in Babur's name, yet the people of that very country are now honoring you with an award. The Sangh needs to reflect on this... We hope that members of the Sangh Parivar and RSS supporters will no longer speak of Babur in that manner," he said.The remarks come against the backdrop of the BJP and RSS's frequent criticism of the Mughal period and references to Babur in political discourse, particularly in discussions around the construction of the Ram temple in Ayodhya and India's history.PM Modi, meanwhile, thanked Mirziyoyev for the honour and described him as his "brother". He said India and Uzbekistan would work together for the welfare of the Global South and humanity.
+
+"My friend, the father of the economic revolution in Uzbekistan, who has served as a role model across this entire region in scaling new heights of development--this two-day visit of mine will always be remembered," PM Modi said.Owaisi's comments on the award came while he was also criticising RSS chief Mohan Bhagwat over his recent remarks on Hindu-Muslim unity. Bhagwat, speaking at the 'One World One Humanity' event in New York, said there was no difference between human beings and that different religious paths led to the same goal.
+
+Owaisi described Bhagwat's remarks as an "old trick from the RSS playbook"."What the current RSS chief Mohan Bhagwat has said is an old trick from the RSS playbook. They will never disavow or retract the things the RSS has consistently stated," he said."There is a distinct difference between the speeches they deliver for the outside world and those meant for their own members--this has always been their playbook style," Owaisi said.
+
+---
+
+### After deadly Nepal floods, Sadhguru bats for 5-nation board to deal with disasters
+*Sagay Raj · general*
+
+As over 900 people died in the deadly flash floods in Nepal and Tibet, spiritual leader Sadhguru Jaggi Vasudev has called for a five-nation Himalayan Board involving India, China, Pakistan, Nepal and Bhutan to coordinate responses to disasters in the mountainous region.
+
+Speaking at a solidarity event for Nepal in Kathmandu, the 68-year-old Isha Foundation founder said countries must look beyond political boundaries when dealing with disasters in the Himalayas. He also pledged Rs 1 crore to the Nepal Prime Minister's Disaster Fund for relief and recovery efforts.
+
+Sadhguru said the Himalayan region should be treated as a connected ecological system rather than as separate territories divided by national borders. He called for greater cooperation among the five countries to address disasters and protect communities living in the mountain region.
+
+He also urged people not to attribute the Nepal flash floods to “divine reason” or a “mystical possibility”. He said such explanations could diminish the reality of the suffering caused by the tragedy.
+
+As a gesture of support for those who died in the tragedy, Sadhguru said _Kala Bhairava Karma_, a consecrated death ritual intended to bring ease and a pleasant transition for people who have died natural or unnatural deaths, would be performed at the Isha Yoga Centre in Tamil Nadu's Coimbatore on September 3.
+
+He said the ritual would be offered in memory of those who died in the disaster and as a gesture of solidarity with their families.
+
+### SADHGURU ON 77 MISSING PILGRIMS IN NEPAL
+
+Earlier, Sadhguru said the flash floods have also left 77 pilgrims from the Isha Foundation's Kailash pilgrimage group unaccounted for. The group was returning to Nepal when the disaster struck near the Tibet border.
+
+Recalling the incident, the spiritual leader said the group's strict practice of reaching the Tibet-Nepal border immigration centre at Gyirong early had initially made him feel reassured when the flood hit.
+
+He said group leader Praveen, who has been associated with him for more than two decades, called to say that all members had reached the immigration centre at 9:05 am. The group had deliberately arrived early because of the “chaos and confusion” at the border, where even a slight delay could mean hours waiting for immigration.
+
+When the first images of the flood emerged, Sadhguru said the water and debris appeared to be around 40 feet high.
+
+“I said, ‘This is okay. Our people are all in the immigration centre, so maybe it will flood the centre, maybe they'll lose their baggage, maybe they'll lose their passports, maybe they'll lose their clothes. I don't care, but they will stay alive,’” he recalled.
+
+However, the whereabouts of the 77 pilgrims have remained unknown since the disaster. Maa Gambhiri, a coordinator with the group, said 77 families were waiting anxiously for information. “There are 77 families waiting desperately for the answers. It is an emotional turmoil for them,” she said.
+
+The group comprised pilgrims from 19 nationalities, and the Isha Foundation has contacted the embassies of India, China and Nepal for assistance.
+
+\- Ends
+
+Prateek Chakraborty
+
+Aug 31, 2026 10:56 IST
+
+
+---
+
 ## 30 August 2026
 
 ### South Carolina officer killed in park gunfight after domestic dispute call
