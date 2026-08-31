@@ -1,10 +1,334 @@
 # Editorials
 
-_Last updated: 2026-08-30 07:12 UTC_
+_Last updated: 2026-08-31 07:26 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
 
+## 31 August 2026
+
+### Drawn to defeat: On India’s chances in the ICC World Test Championship
+*The Hindu · Editorial*
+
+This was a triumph that ironically suffered the after-effects of a loss. India’s 1-0 series victory in the two-Test outing recently in Sri Lanka, in normal circumstances, would have been seen as a positive. However, in the race for key points in the ICC World Test Championship (WTC) cycle, the ideal India-centric result would have been a clean sweep at 2-0. But with Dhananjaya de Silva’s men thwarting India’s bid for a win in the second Test at Colombo’s Sinhalese Sports Club Ground, and forcing a draw, the visitors continue to occupy the fifth slot in the WTC rankings. It is a position one below Bangladesh after the eastern neighbour secured a 1-1 draw against Australia in the series Down Under. If a WTC final berth has to be secured then India has to do extremely well away against New Zealand and at home against Australia, and then hope that the various permutations cropping up will be favourable. Shubman Gill’s men find themselves in this piquant situation due to their vulnerability at home, having lost a Test series to South Africa last year. The transition angst within the Indian unit is yet to abate following the exit of R. Ashwin, Virat Kohli and Rohit Sharma. Slowly, new heroes are emerging and the results could improve.
+
+Stepping into the Emerald Isle and hamstrung by the injured Jasprit Bumrah’s absence, India did its homework. A warm-up fixture was won, while some of its players had earlier turned out for India A against Sri Lanka A and were ready. When the series commenced with the first Test at picturesque Galle, India led from the front and won by 165 runs to secure a 1-0 lead. Devdutt Padikkal’s 167 and 44 led the run charts and most importantly it also meant that the critical number three spot in the batting order had found an apt occupant for now. This is the same position that in the past had featured pedigreed men such as Dilip Vengsarkar, Rahul Dravid and Cheteshwar Pujara. Left-arm spinner Manav Suthar too did well and his classical mode is a throwback to a gentle past. Sri Lanka’s brief resistance hinged on Sonal Dinusha, who registered a ton. Soon he would become an immovable personality at the batting crease and India learnt it the hard way at Colombo. His twin hundreds helped Sri Lanka erase the ignominy of suffering a follow-on and also survive a tense final day to wrest a draw. The conclusion felt like a victory for the host and India is now placed in a must-win corner in its future Tests.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/drawn-to-defeat-on-indias-chances-in-the-icc-world-test-championship/article71407872.ece)
+
+---
+
+### State of exception: On India, the UN CERD report
+*The Hindu · Editorial*
+
+In its first review by the U.N. Committee on the Elimination of Racial Discrimination (CERD) since 2007, India has elicited an expression of “grave concern” about reports of the law enforcement apparatus resorting to violence — physical and otherwise — against minority ethnic and ethno-religious groups, Dalits, and non-citizens over the years. The Committee also noted that India, which ratified the International Convention on the Elimination of All Forms of Racial Discrimination in 1968, has not provided detailed and updated information about the state’s inquiries and sanctions arising from allegations of such violence. While the government has told CERD that caste bias falls outside Article 1 of the convention because caste is not synonymous with race, CERD has allowed all forms of discrimination based on inherited status. The Committee’s concerns also span the practice of manual cleaning of sewers despite a law banning it; hate speech against, poor living conditions of, and the mass refoulement of Rohingya Muslims; the mass deprivation of citizenship via the National Register of Citizens; large-scale deletions from the Special Intensive Revisions of electoral rolls; the government’s use of the FCRA, UAPA, AFSPA, and PMLA instruments to hamper the work of civil society organisations; the Bharatiya Nyaya Sanhita not expressly criminalising racist hate speech; and the Forest (Conservation) Amendment Act exempting “national security” projects from consultative decision-making.
+
+Given these issues and the fragmented recourse available, the lack of suitably disaggregated data on disenfranchised communities, including due to a much-delayed Census and the slow release of NCRB data, has transcended the bounds of administrative lethargy to actively impeding independent checks of India’s claims about fighting caste- and faith-based discrimination. In fact, India has been implementing “special measures” based on 2011 Census data, which could mask a regression in the socioeconomic status of Scheduled Tribes and Adivasis. Together with the Global Alliance of National Human Rights Institutions recommending the downgrade of the NHRC last year, following the government appointing police officers to investigative roles and a lack of pluralism, CERD is effectively stepping into a vacuum. The road ahead remains clear, from restoring the NHRC’s independence and criminalising hate speech to supportive affirmative action, collecting and publishing disaggregated data, and improving the transparency of the electoral roll revisions, and strengthening enforcement overall. But if the government’s attempted use of a technicality to keep the issues of 200 million Dalits a “domestic matter” and avoid international accountability — and its dismissal of CERD’s concerns as politically motivated — is any guide, the task continues to fall to civil society to exert influence in multilateral fora and sustain political, legal, and administrative resistance to government choices that normalise India’s sadly widespread culture of discrimination of all sorts.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/state-of-exception-on-india-the-un-cerd-report/article71407847.ece)
+
+---
+
+### The politics of calling minds ‘Naxal’
+*The Hindu · Opinion*
+
+In his Independence day address this year, Prime Minister Narendra Modi declared that his government had eliminated the threat of armed Naxals/Maoists, but added that ‘dimaagi Naxals (brainy Naxals’) remain. These dangerous individuals, he said, had been elevated to policy advisers by his predecessors. Now, they look for opportunities to ‘drag society onto the wrong path’ and ‘steer the nation’s youth’ away from the ‘mainstream effort’ to turn India into ‘a developed nation.’ He asked Indian citizens to ‘identify and isolate’ such individuals among them.
+
+Is Mr. Modi the first leader of a democratic nation to declare thoughts to be crimes, without resort to innuendo or euphemism, in a formal address to the nation? A search for other instances came up empty.
+
+[Read full article](https://www.thehindu.com/opinion/lead/the-politics-of-calling-minds-naxal/article71408423.ece)
+
+---
+
+### DC Edit | Actions Must Match Words Of RSS Chief
+*Deccan Chronicle · Editorial*
+
+RSS chief Mohan Bhagwat’s statements in New York that a Hindu who believes Muslims should be driven out of India cannot remain a Hindu is not immediately at variance with a tradition of the right-wing organisation, for it has made similar noises pregnant with possibilities of multiple interpretations. What is important is how the RSS and the Government of India which is ideologically connected to it practise it back home.
+
+Taken together, Mr Bhagwat’s statements celebrate what is Indian and has been established in the thought processes of most Indians: unity in diversity. The RSS chief does not see diversity as an exclusive proposition but complementary as he explains the idea. Diversity is a decoration of our innate unity and has to be protected, he said while speaking at the Faith Leaders’ Conference, which brought together speakers from Christianity, Judaism, Hinduism and Islam.
+
+Mr Bhagwat was at his philosophical best when he explained the concept: “As I protect my own specific nature, I have to protect others as well. Diversity is the rule of nature. Unity is the truth behind nature.” He explained his thesis in the words of the sages who have advised their disciples for ages that all paths are leading to the same goal. Mr Bhagwat also recalled the fact that India had historically provided shelter to people of different denominations who could not find safety elsewhere, almost echoing Swami Vivekananda’s speech at the World Parliament of Religions more than a century ago.
+
+Those who have watched the RSS closely know that the organisation does not uphold principles of diversity. It has always espoused the theory of cultural nationalism which, according to it, is Hindu. Bunch of Thoughts, a compilation of the speeches of M.S. Golwalkar, the most vocal face of the RSS in its history, had listed the Muslims, the Christians and the Communists as the internal enemies of the Indian nation, in that order. He has his own reasoning to label them so, but that does not quite square with what Mr Bhagwat has told the world from the US.
+
+The founding fathers of India were quite convinced that India is a union of several cultures and the country can survive and succeed only if they approved of each other, making a celebration of each of them. The Constitution embodied that spirit when it made every effort to reflect India’s diversity and provided for measures to protect them. The RSS, however, never supported the fundamental principles of the Constitution, including federalism.
+
+The Sangh and its affiliates, governments included, have been looking for the possibility of dividing the people on religious lines, and not help them find common cause; the latest being the controversy over ‘Vande Mataram’. If the RSS has come to a better understanding of the idea of India other than what it has held all through the nearly 80 years of India’s Independence, then it must be welcomed.
+
+Mr Bhagwat had once advised his cadre not to go in search of a shivling under every Muslim place of worship but that has not yet stopped the trend. It remains to be seen how his nuanced position that India belongs to people of all religions will be taken by the RSS cadre. The proof of the pudding, as they say, is in its eating and nowhere else.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-actions-must-match-words-of-rss-chief-1983587)
+
+---
+
+### Mr Goyal Goes To Tokyo Wooing Wary Japanese
+*Deccan Chronicle · Opinion*
+
+The Union minister for industry and commerce, Piyush Goyal, is known for hype and hyperbole. So it was entirely understandable that he would make much of a muchness about leading the biggest ever business delegation out of India when he landed last week in Tokyo. "We will set up your hotels, your restaurants for your cuisine. We will have your schools, colleges and hospitals in India.” He told his Japanese business audience, urging them to invest in India. He added for good effect, “And we will top it off with a golf course.”
+
+Mr Goyal is not the first Indian minister to try seduce Japanese business into moving away from easier pastures in its neighbourhood to what they view as daunting India. Prime Minister Indira Gandhi tried. So did Prime Minister Manmohan Singh. Indeed, even Prime Minister Narendra Modi did. A decade ago, he even appointed a Japanese speaking person in the PM’s office tasked with the responsibility of helping Japanese business cut through Delhi’s infamous red tape.
+
+For a good half century Indian governments have been trying to get Japan to invest more in India than it has, of all places, in China! Japanese companies have invested a total of US$130 billion in China compared to US$48 billion in India. In 2025 alone Japanese investment into China surged by over 55 per cent, while in India the comparable figure was just over 10%. Southeast Asian economies, including Vietnam, have been able to attract more investment from Japan than India.
+
+Several factors continue to contribute to India’s lower profile in the minds of Japanese investors. The story is a long one and begins in the 1980s when Indira Gandhi managed to persuade Osamu Suzuki to invest in the iconic small car project. I tried to place the history of the relationship in perspective gathering essays by distinguished Indian and Japanese analysts in my book The Importance of Shinzo Abe: India, Japan and the Indo-Pacific (HarperCollins, 2023). The fact is that from the mid-1980s India has been trying to attract Japanese investment, with sporadic bouts of success.
+
+Prime Ministers Gandhi and Yasuhiro Nakasone set up an India-Japan Study Committee headed by Manmohan Singh (then deputy chairman, Planning Commission) and the eminent Japanese economist Saburo Okita. They outlined a framework for increased interaction between both countries. Through the 1990s several ‘Study Groups’ arrived in Delhi from Tokyo to examine investment opportunities in India and returned home leaving behind a long list of demands.
+
+My friend the late Shoji Ito, of Tokyo’s Institute of Developing Economies, used to be a regular member of these study groups. Ito-san was always candid. Japanese investors find China, Taiwan and South-East Asia easier to do business in than India. I would, however, draw his attention to the fact that while Japan’s ‘zaibatsu’ were still ‘studying’ India, South Korea’s ‘chaebol’ were moving in fast. By 1998 Hyundai’s Santro had begun to challenge Suzuki’s Maruti. Over the next decade Korean brands began edging out Japanese ones across several markets.
+
+India came back on to the radar of Japanese corporate boards only after Prime Minister Shinzo Abe landed in New Delhi in August 2007 to launch a new phase in the relationship. Thanks to the leadership of both Prime Minister Abe and Manmohan Singh there was a spurt in Japanese investment into India after 2006 and that enthusiasm was revived after Abe’s return to office in 2012, with Modi taking charge in 2014. Japan has been an important partner for India, investing in urban infrastructure, transportation and a range of industries.
+
+However, India expects more, wants more. This is also because over the past decade the growing strategic partnership in the spheres of defence and military engagement, which has strengthened the foundations of the ‘India-Japan Special Strategic and Global Partnership’, has also generated greater expectations in India. During the visit of Prime Minister Sanae Takaichi to India in July the two heads of government re-affirmed their commitment to ‘Advancing a Partnership of Strategic Convergence and Trust for Shared Growth, Prosperity and Resilience.’ Several columns have been written since on the growing strategic convergence between the two nations and how the shadow of China’s rise and the confusion in Washington DC with respect to US policy in the Indo-Pacific have elevated the importance of the Japan-India relationship.
+
+The problem, however, is that there may be strategic convergence within the bureaucratic and political establishments of two countries without a similar commitment in corporate board rooms. The assumption that ‘trade follows the flag’, so to speak, that business-to-business relationships will develop automatically in step with government-to-government relations has often been proved wrong. This is now visible across many of India’s external relationships.
+
+One key to opening more Japanese doors to India is, ironically, China. Part of the ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/mr-goyal-goes-to-tokyo-wooing-wary-japanese-1983592)
+
+---
+
+### Plumping For Modi In 2029:  Naidu’s Gamble
+*Deccan Chronicle · Opinion*
+
+We are living in interesting times. At a time when chips are down for Narendra Modi, his foe-turned-friend N. Chandrababu Naidu has come out backing the PM for the fourth term, sending the message that this time he is no longer the kingmaker in the NDA like during Atal Behari Vajpayee’s time but one ‘dutiful’ ally doing his bit to boost up the alliance.
+
+The Andhra Pradesh CM’s sudden act of declaring Mr Modi as the next PM after the 2029 polls is intended to keep the BJP in good humour, knowing full well that the Prime Minister is the most unpredictable person politically and could swing things either way for him in Andhra Pradesh.
+
+Like the PM, Mr Naidu, 76, has crossed the 75 mark and wants time to stabilise the TDP rule. More prominently, to settle his son Nara Lokesh politically. The fear of the future is making Mr Naidu bend over backwards.
+
+Mr Naidu’s gesture is also aimed at sending a message to the world’s largest party that he is its most prominent backer in the South among the non-BJP parties in the NDA, a region that has remained a difficult one to crack for the saffron outfit.
+
+The sudden emergence of actor Vijay’s TVK in Tamil Nadu and the Congress’ easy victory in Kerala polls, coupled with the grand old party appearing to be settling in power in Karnataka, have brought fresh challenges to Mr Modi and home minister Amit Shah in the South.
+
+What is worrying for the opposition is that the surprise action of Naidu indicates that the BJP has “pocketed” the AP CM like it did Nitish Kumar earlier.
+
+Both the leaders, once leading figures of the Opposition and detractors of Mr Modi, have been “plucked by the BJP like ripe fruits”.
+
+In fact, both the TDP chief and the JD-U supremo look like willing comrades of the BJP. It appears that they have realised the nuisance value and destructive power of the “bulldozer BJP”. “If you can’t beat them, join them” looks like the strategy of a hapless Naidu as well as Kumar.
+
+Mr Kumar was some time ago “persuaded” to resign as the Bihar CM by a resurgent BJP, which installed its own man, Samrat Chaudhary, in his place.
+
+It was a sort of bloodless coup performed by Mr Modi and Mr Shah, as Mr Kumar, dubbed “Paltu Ram” by his detractors, frequently changed sides to remain the CM for a record 20 years.
+
+Mr Kumar has been ailing for some time and has failed to install an effective second line of leadership in his party. Despite him being brought to the Rajya Sabha, the JD-U chief has so far remained a “mauni baba”, realising that silence is golden in these ticklish times.
+
+It also means that Mr Modi, knowing the worth of each person, has taken “ample care” of both these non-BJP leaders, willingly forcing them to fall in line.
+
+The politics of Andhra Pradesh has been revolving around Mr Naidu and his arch-detractor, N. Jagan Mohan Reddy of the YSRCP, for the past decade. Earlier, it saw a tussle for power between Mr Naidu and the late Y.S. Rajasekhar Reddy, who was in the Congress. He is the father of Jagan Mohan, who parted ways with the Congress and marginalised the party since his departure.
+
+Though Jagan Mohan’s sister is the state Congress chief, she has not been able to make any inroads in the Opposition space to establish the Congress.
+
+Chandrababu wants to complete his term without any trouble, which could pave the way for his son to succeed him. He cannot be friendly with the Congress for obvious reasons, while a credible alternative to the BJP-led front is impossible without the Congress. Therefore, the kingmaker of a third front has no options but to remain with the BJP bandwagon.
+
+The ease with which Mr Modi has ruled since the last Lok Sabha polls despite failing to get a majority for the BJP is due to the fact that he has taken sufficient care of both Mr Naidu and Mr Kumar without making much ado about anything.
+
+Opposition claims after the 2024 Lok Sabha polls that the two leaders would play their game and make Modi uncomfortable at the drop of a hat not only were belied, but they also turned out to be extra-loyalists.
+
+On their part, TDP and JD(U) had no option but to back Mr Modi, as the Opposition did not have the numbers to form the govt even if they joined the opposition camp. Besides. the TMC and AAP were not ready to back a Congress PM.
+
+Right or wrong, the talk in political circles is that Mr Naidu is facing an anti-incumbency even before his half-term is over. He also wants to ensure that the BJP remains on his side and does not overtly or covertly help Jagan Mohan.
+
+Mr Naidu’s other worry is the growing ambition of the Jana Sena chief and his deputy CM Pawan Kalyan, the actor-turned-politician who was instrumental in formulating the BJP-JSP-TDP alliance in the 2024 polls that toppled the Jagan Mohan Reddy regime. There have been reports of a rift between the two leaders over the seat-sharing in the local body polls.
+
+When Jagan Mohan was the CM, he had put Mr Naidu in jail in one case of alleged corruption. Political observers believe that it...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/plumping-for-modi-in-2029-naidus-gamble-1983586)
+
+---
+
+### A sword of Damocles over GBA elections?
+*Deccan Herald · Editorial*
+
+The sword of Damocles once again hangs over Bengaluru’s much-postponed civic body elections. The previous BBMP council's term ended in September 2020, leaving the city without an elected civic body for nearly six years. The latest complication is the Special Intensive Revision (SIR) of electoral rolls, which has thrown up an extraordinary situation: nearly 45% of voters risk exclusion from the rolls. Bengaluru had about 1.03 crore registered voters before the exercise began; the draft roll now recognises only 56.99 lakh. As many as 46.88 lakh names fall under the Absent, Shifted, Dead, Duplicate and Other (ASDDO) categories. Another 24 lakh, flagged for discrepancies, must establish their eligibility through claims and objections by personally appearing before electoral registration officers.
+
+The timing poses a serious challenge to elections for the Greater Bengaluru Authority (GBA), which replaced the 198-ward BBMP with five corporations — Bengaluru Central, North, South, East and West, spread across 369 wards. The Supreme Court has accepted the state's submission that polls would be held by December, given Booth Level Officers’ preoccupation with the SIR exercise. Once the SIR is completed by October-end, unless extended, the State Election Commission must incorporate the revised electorate into all newly-formed wards. Cutting the electorate nearly in half could sharpen disparities in voter bases — some wards may swell disproportionately, while others shrink to as few as 10,000 voters — necessitating a fresh look at ward boundaries and reservations. A heavily contested roll, with lakhs seeking inclusion, could also invite legal challenges. The Election Commission of India must conduct the claims and objections process efficiently, transparently, and with every reasonable opportunity for genuine voters to be heard and included. But these concerns cannot become a pretext for postponing elections indefinitely.
+
+The state government may not control every aspect of the SIR exercise, but it does control how quickly subsequent processes move. It must ensure ward-level electoral preparation begins without delay, and that any necessary redrawing of boundaries is completed at the earliest. Political parties, too, must be held to account: legislators across the spectrum have reasons to be wary of these elections, since they stand to cede power — and control over purse strings — to newly-elected corporators. But a global city of Bengaluru's scale and importance cannot be governed indefinitely by bureaucrats without democratic accountability. Bengaluru has waited long enough. The electoral process must be completed with urgency so that citizens can finally exercise their right to choose those who govern their city.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/a-sword-of-damocles-over-gba-elections-4129381)
+
+---
+
+### Meta ruling a fillip for tech accountability
+*Deccan Herald · Editorial*
+
+Meta’s decision to pay up to $18 billion to settle claims in the United States over harm caused to children by Facebook and Instagram marks an acknowledgment of its responsibility to its users and society, especially children. Forced by legal suits, the company can no longer rely on routine statements about its awareness of its own social responsibility. The penalty is meant to redress the damage it has done, and will fund youth mental health programmes and online safety training in the US. Importantly, the judgment recognises that addictive features on Meta’s platforms severely damaged teenagers’ mental health. Evidence showed that Meta ignored data about the damage it caused to mental health, sticking to its design and policies for commercial reasons.
+
+Under the agreement, Meta must implement safety features, including a two-hour daily time limit, a night-time block, school-hour restrictions, hidden likes and responses, and other changes curbing constant engagement. Age-assurance measures and parental controls will be added, though parents may not access what children view. The ruling will impact features like infinite scrolling, personalised recommendations, notifications, and other tools that are designed to capture attention and tempt users to return. If other platforms are also made to adopt similar restrictions, daily limits and other features could be made more stringent. Meta’s chief executive Mark Zuckerberg has said that there should be a level playing field lest children switch to another social media platform. He insists that if Meta has to comply, competitors like YouTube and TikTok should also do the same.
+
+Making other companies abide by the restrictions is the next challenge. There is a political move in the US to make the rules apply to other companies too, since the harm done by all companies is the same. Children have suffered depression, self-harm, and have otherwise been affected in many ways in their individual and social behaviour and academic performance because of their addiction to the platforms. But the ruling now is about Meta, and it should not be allowed to get away with it on the grounds that others are not yet bound by it. The settlement is applicable to the company only in the US. Children in India and other countries are not entitled to the protections Meta has agreed to offer in the US. Regulators in other countries must press Meta to adopt similar safeguards. The agreement in the US provides a benchmark that can be used elsewhere.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/meta-ruling-a-fillip-for-tech-accountability-4129387)
+
+---
+
+### BRICS 2026 | India's bilateral diplomacy confronts strategic fault lines
+*Deccan Herald · Opinion*
+
+All doubts and speculations about holding a full complement 18th BRICS Summit next month in New Delhi and its attendance have ended with a categorical statement by the Ministry of External Affairs (MEA) on August 27 that “BRICS member and partner countries as well as outreach invitees” will strengthen “intra-BRICS cooperation on common priorities and share perspectives on global and regional matters of mutual importance” at their two-day deliberations.
+
+The MEA statement tells only half the story. The three previous BRICS leaders’ gatherings hosted by India in 2012, 2016 and 2021 — the last by video conference because of COVID-19 — were designed to strengthen strategic political and geo-economic partnerships within this plurilateral group. The upcoming New Delhi Summit will have unprecedented bilateral dimensions within BRICS.
+
+India not in favour of BRICS currency, we do not support any such scheme: Piyush GoyalTake for instance, Brazil, one of this organisation’s founding members. Brazil is attending the New Delhi Summit at a time when the South American country has become existentially vital for India’s season of autumn/winter festivities. The sweetness of Diwali, Dussehra, Durga Puja, and many more such celebrations will depend on timely Brazilian supplies of sugar to overcome the shortfall in the domestic market and confront a price surge of 40-50% in retail purchases this month. India will use Brazil’s presence at the summit to press for speedy shipments of one million metric tonnes of sugar to reach Indian ports by early October. Thailand has declined India’s request for sugar supplies because it has contracted elsewhere. In the current global sellers’ market for sugar, Brazil is India’s big hope not to compound mass public discontent.
+
+BRICS nations adopt joint declaration for industrial cooperation, promotion of innovationIt is an open secret within BRICS that India has been less than comfortable with Brazil’s chairships and its positions on the perspectives of the organisation. At the second BRIC — without an S — Summit in 2010 in Brasilia, India and Brazil clashed behind closed doors on the induction of South Africa as a member. Then Prime Minister Manmohan Singh wanted consolidation of BRICS before expansion while Brazil’s President Luiz Inácio Lula da Silva said South Africa’s inclusion had a special meaning for BRICS. Lula got his way with support from China and Russia. South Africa attended the next summit in Sanya (China) as a full member. The same scenario was repeated in Johannesburg in 2023 when the South Africa presidency, supported by all except Prime Minister Narendra Modi — but especially Brazil — successfully pushed for including six new member countries. Differences are also rife between India and Brazil within BRICS on Gaza, Ukraine, de-dollarisation of global finance, and other subjects. The New Delhi Summit will show if bilateral economic diplomacy is enough to put political differences in the shade.
+
+China backs India to hold ‘successful’ BRICS summit but remains evasive about Xi’s attendanceChina’s ​President Xi Jinping did not bother to attend the last BRICS Summit in Rio de Janeiro. Two things will stand out when Xi is in New Delhi in a fortnight. His participation will signal China’s support to multipolarity at a time when United States President Donald Trump has taken a wrecking ball to the existing world order without creating a replacement. The second is the size of Xi’s delegation to New Delhi. When he last visited India seven years ago, he brought a 200-member team with him. Bilateral ties between the two countries had then not plunged the post-Galwan depths after the deadly 2020 military clashes. Rare leaks in Beijing and standard leaks in New Delhi converge on the size of Xi’s delegation to India. It will be double that of the Chinese delegation on that bilateral visit. Its importance cannot be understated. China’s leadership, like Brazil’s, is giving bilateral elements extraordinary importance within BRICS.
+
+The India-China boundary dispute is unlikely to be resolved during the lifetime of the current generation of Indian rulers or even the next. It is far too complex and there are unseen external considerations. It is leftover by history and history is rarely made in an instant. Therefore, it doesn’t stand to reason or logic that whenever Special Representatives (SR) of both countries meet, the outcomes are blown out of all proportion. Turf battles in external ties in India have a lot to do with such exaggerations. The eight-point consensus at the SR meeting on August 25 is merely meant to satisfy uninformed, but inflammatory public opinion. Yet, Xi will arrive in September with a 400-member team. It points to the importance of two sentences in the joint statement after the latest SR meeting. “Both sides appreciated the reopening of three designated border trading points. The two sides agreed to strengthen exchanges and cooperation in border trade, pilgrimage and other areas…to create an atmosphere featuring dialogue, peace, consultation and cooperation in the border areas.” This, taken into account with India’s recent relaxation of rules for Chinese investments, would mean the scope for bilateral economic cooperation is brightening.
+
+'Ongoing conflicts, economic uncertainties and climate are shaping global landscape': India at BRICSExternal Affairs Minister S Jaishankar’s visit to Moscow this month for a meeting of the India-Russia Inter-governmental Commission on Trade, Economic, Scientific, Technological and Cultural Cooperation will similarly increase the prospect of their bilateral relations during BRICS. India wanted ties with Bangladesh to be visibly improved before the BRICS meeting to which Prime Minister Tarique Rahman has been invited. But a secretly planned trip by Rahman in August fell through on the extradition issue of his predecessor Sheikh Hasina. The intractable problem of September 12-13 will, therefore, remain the contentious presence of Iran and its Arab Gulf rivals at the Summit.
+
+K P Nayar has extensively covered West Asia and reported from Washington as a foreign correspondent for 15 years.
+
+Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH
+
+[Read full article](https://www.deccanherald.com/opinion/brics-2026-indias-bilateral-diplomacy-confronts-strategic-fault-lines-4129691)
+
+---
+
+### Faulty sugar estimates leave a bitter taste
+*Deccan Herald · Opinion*
+
+On the eve of the festival season, the retail price of sugar is about Rs 60-65/kg. In August 2025, it was about Rs 46/kg. Despite the government’s decision to allow duty-free import of 1 million metric tonnes (MMTs) of raw sugar, and cutting the stock limit for bulk buyers (who purchase over 10 tonnes a month) to 15 days of their requirement, retail prices have not come down.
+
+The core reason for the price rise is not the diversion of 3.5 MMT of sugar to ethanol or even the export of about 0.8 MMT. It is the overestimation of sugar production in 2025-2026. The decisions on sugar exports and ethanol diversion were taken based on these inflated production estimates.
+
+India is now estimated to have a closing sugar stock of about 3.5 MMT on September 30, below the usual comfort level of about 6 MMT.
+
+The government estimates crop production based on inputs from State governments. In the case of sugar, the Indian Sugar & Bio-Energy Manufacturers Association (ISMA) also provides its estimate. The government also takes estimates from the Mahalanobis National Crop Forecast Centre, which uses tech-driven and satellite-based estimates of production. The government can also take inputs from intelligence agencies. Finally, the decision is taken by the Ministry of Agriculture, which releases estimates of production in several tranches. But State-wise estimates are not released simultaneously.
+
+The market, including the sugar industry and trade, also relies on estimates of ISMA. In 2025-2026, the production was revised several times.
+
+In its initial estimates on July 31, 2025, ISMA projected gross production of sugar at 34.9 MMT. This was in anticipation of a good monsoon last year and a strong post-monsoon cane rebound.
+
+On November 4, it released the first advance estimate in which gross production was projected at 34.35 MMT. After an estimated diversion of 3.4 MMT of sugar toward ethanol, the net production was still projected at 30.95 MMT.
+
+Based on these estimates, the government allowed the export of 1.5 MMT of sugar on November 14. On February 13, the government approved an additional quota of 5 lakh tonnes for export.
+
+Clearly, the government’s estimate of production did not take into account the damage to crops in Maharashtra, Karnataka, and Gujarat due to excessive rainfall in September and October. The crop in Uttar Pradesh was also affected by red rot fungal disease and top shoot borer insect pest, causing lower recovery. It seems that the expertise available with ICAR’s own Indian Sugarcane Research Institute, Lucknow, was not used to assess the damage.
+
+On February 25, ISMA released the third advance estimate in which production was reduced to 32.4 MMT and diversion of 3.1 MMT for ethanol. So, the net sugar production was estimated at 29.3 MMT.
+
+By August 24, ISMA acknowledged that net sugar production would be much lower at 27.9 MMT. The estimated production was much lower in Karnataka, Maharashtra, and UP as compared to initial estimates. In UP, highly successful variety, Co-0238 was attracting pests, causing lower recovery.
+
+Because the production shortfall was recognised late, policymakers had little reason early in the season to revisit either sugar exports or the planned diversion of sucrose towards ethanol.
+
+In the case of sugarcane, the industry uses agri-tech extensively and yet, the estimates did not prove to be even nearly accurate. This experience also shows the limitation of agri-tech startups that claim that they can provide much better estimates of production than the government.
+
+Sugarcane is not the only crop where wrong estimates led to import of sugar. In 2003-2004, an incorrect estimate of wheat production led to large wheat exports, and the central pool stock came down to 2 MMT against the buffer norm of 4 MMT. It led to the import of 5.5 MMT of wheat in the next two years.
+
+Going forward, the government should invest more in estimating crop production. For most crops, trade estimates of production are lower than the government estimates. Releasing estimates provided by the states may help in bringing transparency and more scrutiny, which can lead to better estimates.
+
+Siraj Hussain is former Union Agriculture Secretary and Professor of Practice at the Institute of Development and Communication, Chandigarh. Shweta Saini is an agricultural economist and CEO of Arcus Policy Research.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/faulty-sugar-estimates-leave-a-bitter-taste-4129719)
+
+---
+
+### The Rs 6.25 crore question | What is a promoter guarantee worth?
+*Deccan Herald · Opinion*
+
+The headline number in the Subhash Chandra insolvency case is Rs 6.25 crore. Against admitted claims of about Rs 22,006.57 crore in the personal-guarantor proceedings, that represents a recovery of roughly 0.03 per cent, or an apparent 99.97 per cent haircut.
+
+HDFC Bank is considering an appeal to the National Company Law Appellate Tribunal (NCLAT), while LIC Housing Finance has indicated it will challenge the outcome. Several other lenders opposed the plan.
+
+The more consequential question is what a promoter’s personal guarantee is actually worth when creditors seek to enforce it.
+
+The Rs 22,006.57 crore represents claims admitted against Chandra in his capacity as personal guarantor for borrowings by several Essel/Zee-linked companies. It is not Rs 22,000 crore personally borrowed by him. Only about Rs 2,574 crore of the admitted claims relate to loans for which Chandra’s personal guarantee was provided when the borrowing was originally undertaken.
+
+Most of the other guarantees were furnished later as additional security. The corporate borrowers remain liable and lenders retain other recovery avenues. It does not, however, resolve the central question of what economic value Chandra’s personal guarantee ultimately delivered.
+
+HDFC Bank mulling appeal against NCLT ruling in Subhash Chandra caseA personal guarantee is meant to provide protection beyond the company’s balance sheet. It also creates accountability: a promoter who stands behind corporate borrowing knows that failure can reach personal assets. If that guarantee ultimately produces almost no recovery, banks must confront a basic question: what, precisely, did they believe they were securing when they took the promoter’s signature?
+
+What does the haircut tell the market?
+
+So what message does a near-100 per cent haircut deliver? To promoters, it risks suggesting that the personal consequences of failure can be far smaller than the liabilities their guarantees once supported. To lenders, it exposes the danger of treating a promoter’s signature as credit enhancement without establishing what stands behind it.
+
+To the public, it risks reinforcing a more damaging belief: that when financial power and legal complexity converge, the obligations of the powerful can shrink faster than those of everyone else.
+
+Credit markets ultimately run on trust and discipline. A guarantee has value only when the assets, liquidity, and continuing capacity behind it are real and enforceable. This makes the case a governance issue as much as an insolvency one.
+
+When banks lend on the perceived strength of a promoter, a weak guarantee does not merely weaken one loan. It weakens the credibility of the entire promise on which credit was extended.
+
+When legal structures meet economic reality
+
+The case also raises a difficult question about creditor voting. The repayment plan secured 80.814 per cent of the votes cast, comfortably above the statutory threshold. Yet five entities supporting it together accounted for 61.78 per cent of the total voting share.
+
+Several institutional lenders challenged their participation, alleging connections and potential conflicts with Chandra and the wider promoter ecosystem. The NCLT did not accept family or commercial proximity, by itself, as establishing the statutory relationship required for disqualification.
+
+That legal test must remain precise. But modern business families operate through networks of companies, investment vehicles, and relatives with overlapping economic interests.
+
+In today’s corporate world, the regulatory and insolvency architecture should be capable of tracing ultimate beneficial ownership and economic control wherever those relationships are relevant to recovery. The law should neither equate family connection with control nor allow separate legal identities to obscure genuine economic relationships.
+
+The tribunal’s proceedings deepen the unease. The two-member bench was divided before a third member approved the plan, while creditors had sought a forensic examination of Chandra’s financial affairs. At this scale of admitted claims, the decision not to pursue such scrutiny inevitably raises the question of whether the recoverable value of his assets and economic interests was fully tested.
+
+That question becomes sharper when Chandra reported a personal net worth of Rs 31.79 crore in 2024, including about Rs 25 crore attributed to his mortgaged residence, while lenders pointed to substantially larger historical wealth figures.
+
+A fair process must leave room for scrutiny, but also for the borrower’s rights and reputation to be respected until the judicial process reaches finality.
+
+Wealth held through family members, companies, trusts or other structures is not automatically concealed wealth, and sophisticated taxpayers are entitled to structure their affairs within the law. Yet it also revives a long-standing market perception that Indian promoters can see their companies fail without themselves becoming visibly poorer or materially changing their lifestyles.
+
+It makes any question of whether assets or economic interests were transferred or structured beyond legitimate creditor recourse particularly important. The issue is, therefore, not what Chandra’s net worth looks like on paper, but whether the process established what economic value was legally available to satisfy the guarantee.
+
+Where finance meets public confidence
+
+There is another dimension that cannot be ignored. Chandra has long been perceived as a businessman whose influence and relationships extend beyond the corporate sphere. He has also spent years fending off creditors, including attempts to wrest control of enterprises associated with him. But it explains why a case involving him will inevitably attract greater public scrutiny, particularly when the recovery appears so small against the claims admitted.
+
+That is also why the case has acquired political resonance despite being fundamentally commercial and judicial. The Opposition has understandably seized on it, questioning whether India has ‘two systems’. In a democracy, such scrutiny is legitimate.
+
+The answer, however, must come through evidence, due process, and appellate adjudication, not political assertion.
+
+The larger political-economy question is whether India has genuinely built an IBC regime in which financial consequences are determined by assets, contracts, and law, rather than by the stature or standing of the borrower.
+
+What banks, promoters and IBC must learn
+
+Businesses can fail. That is part of capitalism. But a promoter who voluntarily guarantees corporate borrowing cannot treat that guarantee as binding only while the business is thriving.
+
+Insolvency must maximise realistic recovery, and that realism must work both ways. If a guarantor genuinely has limited recoverable assets, creditors cannot recover what does not exist. If economic interests have not been adequately examined, the process must have the tools and resolve to establish that fact.
+
+'Neta-Company Loot Tribunal': Congress on NCLT haircut approval for Subhash ChandraThe Chandra case, therefore, tests more than one repayment plan. It tests whether promoter guarantees carry real economic value, whether creditor voting is genuinely free of conflicts, and whether the IBC can see through sophisticated structures used to hold wealth, ownership, and influence.
+
+A guarantee cannot be valuable when credit is sanctioned and virtually worthless when recovery begins. Nor should complex ownership structures become a maze through which economic value slips beyond legitimate creditor reach.
+
+The NCLAT may uphold, modify, or overturn the plan. That is the proper judicial course. The larger institutional question will remain: does the outcome reflect the guarantor’s genuine economic capacity, or simply the limits of what the process was able to identify and recover?
+
+For a law designed to restore credit discipline and end the expectation that banks will indefinitely absorb the consequences of promoter failure, that distinction is fundamental.
+
+If admitted claims of this scale can yield such a negligible recovery, the IBC must be able to demonstrate that every legitimate avenue of recovery was pursued. Otherwise, legal finality may arrive long before public confidence does.
+
+Srinath Sridharan is a corporate adviser and independent director on corporate boards. (X: @ssmumbai)
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/the-rs-625-crore-question-what-is-a-promoter-guarantee-worth-4129716)
+
+---
+
 ## 30 August 2026
+
+### DC Edit | A Wake-up Call For NCLT
+*Deccan Chronicle · Editorial*
+
+The National Company Law Tribunal’s approval for a plan providing Rs 6.25 crore to creditors and Rs 25 lakh for process costs, against claims stated in the proceedings at about Rs 22,006.57 crore, appears to be set for an imminent legal challenge. A day after HDFC Bank announced its decision to appeal NCLT’s decision, Union Bank of India, Canara Bank and LIC Housing Finance have joined suit.
+
+The recovery plan secured 80.81 per cent of creditors’ votes, mostly consisting of private lenders, exceeding the statutory threshold. However, the proposed recovery of 0.03 per cent attracted wide criticism as it is exceptionally low and makes a mockery of the Indian insolvency law.
+
+Any business involves inherent risk. A business person employs people and becomes an essential part of the economy, while taking the entire risk oneself. As a result, insolvency law aims to protect a business person who incurred losses by making bona fide expenditures for the company.
+
+Therefore, most lenders and the NCLT cannot reject a lender’s demand for scrutiny, including a forensic audit, merely because the recovery plan has secured overwhelming support.
+
+The NCLAT also does not appear to have examined why the company’s net worth, earlier showing vastly larger figures, collapsed to about Rs 31.79 crore now. The tribunal should also look into allegations that private lenders, who approved the recovery plan, have connections with Essel Group chairman Subhash Chandra.
+
+The recovery plan has also become controversial because two-thirds of its support came from lenders owned by Chandra’s younger brother Jawahar Goel. Five entities — Veena Investments, Direct Media Distribution Ventures, World Crest Advisors, Lemonade Capital Advisors and Corpcall Capital Advisors — have 61.78 per cent voting share in the committee of creditors and voted in favour of the beleaguered plan.
+
+The NCLT, therefore, must restrain itself from approving the recovery plan merely on technicalities and proceed with caution. Otherwise, fraudsters will come up in no time to make use of this loophole and loot the lenders.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-a-wake-up-call-for-nclt-1983554)
+
+---
 
 ### The Durgas we worship, the Yashodhas we abandon
 *Deccan Herald · Opinion*
