@@ -1,3 +1,527 @@
+## 1 September 2026
+
+### Living in Brazil, billing a Goa company? This is how India will tax professional income of NRIs | Mint
+*Livemint · economy*
+
+An Indian professional has moved to Brazil for a long-term project and qualifies as a non-resident of India. Alongside the overseas assignment, the individual, with permission from their employer, provides architectural design and planning services to a resort company in Goa.
+
+The Goa-based company plans to pay the professional fees into the individual's foreign bank account.
+
+## Will India still tax this income?
+
+_The short answer: Yes_
+
+Assuming the individual qualifies as a non-resident (NR) for Tax Year 2026-27 under the Income-tax Act, 2025, India can tax income that is received or deemed to be received in India, or income that accrues or is deemed to accrue or arise in India.
+
+The architectural design and planning work would qualify as consultancy services and fees for technical services (FTS) under Indian tax law.
+
+Since the payment is being made by an Indian resident company to a non-resident, the income would be deemed to accrue or arise in India.
+
+Under Indian domestic law, the income would therefore be taxable at 20%, plus applicable surcharge and cess.
+
+## But there's a catch: The India-Brazil DTAA
+
+If the individual is also a tax resident of Brazil, the India-Brazil Double Taxation Avoidance Agreement (DTAA) would come into play.
+
+Under many Indian tax treaties, professional services such as architecture fall under Independent Personal Services. Generally, such income is taxable only in the country where the individual is resident, subject to conditions such as having a fixed base in India or spending 183 days or more in India during a 12-month period.
+
+However, the India-Brazil DTAA has specific provisions for fees for technical services.
+
+## Tax rate could be 10%, not 20%
+
+The India-Brazil DTAA was recently amended to introduce provisions covering FTS, including consultancy services.
+
+Under this treaty, the FTS provisions override the Independent Personal Services provisions when the services qualify as FTS.
+
+Since the architectural services in this case fall under the FTS provisions, the Independent Personal Services article would not apply.
+
+Instead, the Indian tax liability would be limited to 10% of the gross professional fees under the treaty.
+
+Since the DTAA rate is more beneficial than the domestic tax rate, the individual can claim the treaty benefit.
+
+## What is needed to claim the 10% rate?
+
+-   The individual would need to provide:
+-   Tax Residency Certificate (TRC)
+-   Form 41 for Tax Year 2026-27
+
+## Can tax paid in India be claimed in Brazil?
+
+Potentially, yes.
+
+A tax credit for taxes paid in India may be available in Brazil, subject to the applicable provisions of Brazilian tax law.
+
+## Bottom line
+
+Being paid into a foreign bank account does not by itself determine whether the income is taxable in India.
+
+In this case, the professional fees from the Goa-based company would be taxable in India under domestic law. However, if the individual qualifies as a Brazilian tax resident and meets the requirements for claiming treaty benefits, the India-Brazil DTAA could reduce the Indian tax rate from 20% to 10% of the gross fees.
+
+### About the Author
+
+Livemint
+
+For about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on all the listed companies on BSE and NSE, startups, mutual funds, Union ministries, geopolitics, and untapped human interest stories from around the world, helping our readers to stay informed on the latest developments around the globe. Our Coverage Areas 1. Companies: Comprehensive news and analysis on listed and unlisted companies, corporate announcements, corporate chatter, C-suite, business trends, hiring alerts, layoffs, work-life balance, world's top billionaires and richest and more. 2. Personal finance: Insights into mutual funds, small savings schemes like - PPF, SSY, post office savings scheme, stock to watch, personal loans, credit cards, top bank FDs, real estate, income tax and more. 3. Politics: Comprehensive coverage of general elections, state elections and bypolls, Lok Sabha, Vidhan Sabha, Parliament, PMO, PIB, finance ministry, home ministry, among other union ministries and government departments. 4. National News: From metro cities like Delhi, Mumbai, and e to untapped stories from rural India, we cover human interest, health, education, crime and courts, and law and order, among other areas of public interest. 5. Economy: In-depth analysis of India's macro and micro-economic indicators like- GDP, inflation, forex, fiscal deficit, current account deficit, interest rate cycle, economic recovery, RBI circulars, indirect taxes, GST, Insolvency and Bankruptcy imports, exports and everything that impacts Indian economy. 6. Geopolitics: Well-rounded and deeply researched coverage on US News, Oval Office European Union, Ukraine Russia War, middle-east crisis, royal families and global leaders like - Donald Trump, Vladimir Putin, Kim Jong Un, Xi Jinping and premiers of other leading economies in the world. Meet the Team 1. Gulam Jeelani, Political Affairs Editor 2. Sugam Singhal, Senior Assistant Editor 3. Chanchal, Assistant Editor 4. Sanchari Ghosh, Chief Content Producer 5. Pratik Prashant Mukane, Chief Content Producer 6. Sayantani Biswas, Chief Content Producer 7. Ravi Hari, Deputy Chief Content Producer 8. Garvit Bhirani, Deputy Chief Content Producer 9. Akriti Anand, Senior Content Producer 10. Jocelyn Felix Fernandes, Senior Content Producer 11. Swastika Das Sharma, Content Producer 12. Mausam Jha, Content Producer 13. Riya R Alex, Trainee Content Producer
+
+---
+
+### Teen raped inside bus: 11 challans, defunct CCTV camera among lapses flagged
+*Sakshi Chand · legal*
+
+The investigation has also revealed that the bus allegedly had heavy curtains covering its windows, restricting visibility into the passenger compartment from outside, officers said.
+
+[Read full article](https://indianexpress.com/article/cities/delhi/teen-raped-inside-bus-11-challans-defunct-cctv-camera-among-lapses-flagged-10858075/)
+
+---
+
+### IBPS RRB Recruitment 2026: Application process begins for 13,441 posts
+*Education Desk · legal*
+
+The last date to apply for the recruitment process and to pay the exam fee has been fixed as September 21. The institute will activate the form correction window shortly after the closure of the forms to allow candidates to make changes in the submitted forms.
+
+[Read full article](https://indianexpress.com/article/education/ibps-rrb-recruitment-2026-applications-begin-ibps-in-group-a-officers-group-b-assistants-10858111/)
+
+---
+
+### IndiGo, SpiceJet Share Prices: Aviation Stocks Fall Up To 3.2% After ATF Price Hike
+*Mohammad Haris · business*
+
+InterGlobe Aviation, the parent of IndiGo, falls 3.21% to Rs 5,066, while SpiceJet declines 1.45% to Rs 10.17 in Tuesday's trading session as of 10:25 am.
+
+[Read full article](https://www.news18.com/business/markets/indigo-spicejet-share-prices-aviation-stocks-fall-up-to-3-2-after-atf-price-hike-10303289.html)
+
+---
+
+### Gold Rate Today, September 1: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
+*Aanya Mehta · legal*
+
+Today's 18, 22 and 24 Carat Gold Prices in Chennai, Bangalore, Hyderabad, Mumbai, Delhi: The gold price in India today stands at Rs ₹15,693 per gram for 24 carat gold, Rs ₹14,385 per gram for 22 carat gold and ₹11,770 per gram for 18 carat gold, as per Good Returns.
+
+[Read full article](https://indianexpress.com/article/india/gold-rate-today-september-1-check-18-22-and-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10858138/)
+
+---
+
+### SCO Summit: PM Modi In Bishkek To Highlight Security, Connectivity And Fight Against Terrorism
+*India Today Video Desk · general*
+
+## India Records 7.8% GDP Growth, Pushes For Made In India And Vocal For Local
+
+India has recorded a gross domestic product growth rate of 7.8 percent despite ongoing global supply chain disruptions, international conflicts, and economic instability persisting since 2020. A renewed push has been made for self reliance through the Swadeshi and Made in India initiatives, alongside the vocal for local campaign. Citizens are encouraged to prioritise domestic products, choose domestic venues over destination weddings abroad, avoid international leisure travel, and limit gold purchases unless necessary. The expansion reflects collective national effort to overcome pessimism and achieve the vision of a developed nation by the centenary of independence. The focus remains on maintaining high growth momentum through clear policies, unified national effort, and strengthening indigenous industry to support economic stability and future generations.
+
+---
+
+### Telangana BJP chief placed under house arrest, calls out Congress government
+*Abdul Basheer · general*
+
+## Telangana BJP president N Ramchander Rao was placed under house arrest when he planned to visit Nalgonda and meet Nagam Varshith Reddy after a reported attack on his residence. The BJP called it a bid to block the Opposition, while accusing Congress workers of the vandalism and the government of misusing the police.
+
+This is the second time he's been put under house arrest in a week. (File Photo: ITG)
+
+Telangana BJP state president N Ramchander Rao was placed under house arrest on Tuesday, preventing him from travelling to Nalgonda to meet BJP district president Nagam Varshith Reddy, whose residence was reportedly ransacked a day earlier.
+
+The BJP condemned the police action and accused the Congress-led Telangana government of attempting to restrict the Opposition from meeting party workers and raising issues concerning them.
+
+Rao said the house arrest was the second such incident involving him within a week. According to the BJP leader, he had earlier been prevented from meeting students who were protesting over their demands.
+
+He said the latest restriction came after he planned to visit Reddy's residence following the reported attack.
+
+“Democracy is being systematically crushed in Telangana. Twice within a week, the Congress government has placed me under house arrest—first to prevent me from meeting protesting students, and now to stop me from meeting our Nalgonda District President, whose house was ransacked by Congress goons,” Rao said.
+
+> #WATCH | Hyderabad, Telangana: BJP State President Ramchander Rao alleges house arrest, claims he was prevented from visiting Nalgonda.
+> 
+> Ramchander Rao was set to meet BJP Nalgonda District President Nagam Varshit Reddy, whose house was allegedly vandalised by Congress workers in pic.twitter.com/tGsSZUDUm8— ANI (@ANI) September 1, 2026
+
+Rao said the incidents reflected Congress’ “frustration” over the BJP’s growth in Telangana and warned that the party would retaliate if such actions continued. He said he had planned to visit the Nalgonda BJP chief and his injured mother but was detained by police.
+
+“This is the second house arrest for me in these three days,” Rao said to _ANI_, adding that he remained determined to travel to Nalgonda despite the police restrictions.
+
+### CONGRESS RESPONSIBLE FOR VANDALISM: BJP
+
+The BJP said that Congress workers were responsible for the reported vandalism at Reddy's residence in Nalgonda. The allegations come amid heightened political tensions between the ruling Congress and the BJP in the state.
+
+Rao also accused the Congress of adopting double standards on democracy and constitutional values.
+
+He argued that while the party speaks about protecting the Constitution, its government was using police restrictions to prevent Opposition leaders from meeting students, party workers and people affected by political incidents.
+
+“The same mindset is now being reflected in Telangana. The Congress speaks about protecting the Constitution, but its government is using police restrictions to prevent the Opposition from standing with students, party workers and victims of political attacks,” he said.
+
+The BJP leader further claimed that the restrictions amounted to an attempt to prevent him from carrying out his responsibilities as the state party president.
+
+### WHY THE HOUSE ARREST?
+
+The house arrest also comes against the backdrop of the reported attack on the Nalgonda BJP chief's residence. Rao had planned to travel to Nalgonda to meet Reddy and assess the situation following the incident.
+
+The BJP has strongly criticised the police action and accused the Congress government of misusing administrative machinery against political opponents.
+
+The allegations and counter-allegations are likely to intensify the political confrontation between the two parties in Telangana, with the BJP maintaining that its leaders and workers should be allowed to meet those affected by such incidents and raise concerns without restrictions.
+
+\- Ends
+
+Ritaban Misra
+
+Sep 1, 2026 10:24 IST
+
+---
+
+### Why these retirees sold their family homes and property investments for a better retirement | Mint
+*Shipra Singh · economy*
+
+Buying another house in Bengaluru was an option, but homes near his sons were expensive. So he chose to rent instead. He sold the Bhopal house and invested the proceeds in Section 54EC capital gains bonds, government securities and fixed deposits. Separately, he also sold an ancestral property in Andhra Pradesh that held greater emotional value.
+
+“I was not reluctant to sell the Bhopal house as it was in everyone’s best interest to sell and move on. However, I was emotionally attached to my ancestral property in Anantapur. After weighing the pros and cons and discussing it with my sons, I realized it was far more prudent to sell it during my lifetime,” he said.
+
+The sales did not dramatically alter his retirement budget as Rao already had enough savings. But selling the properties simplified his life.
+
+“Having my net worth in liquid instruments rather than physical real estate brings immense peace of mind. Had something happened to me, managing and selling the properties remotely would have been a significant administrative burden for my sons,” he said.
+
+## A new calculus
+
+Rao’s experience raises a question more ageing homeowners may have to confront: how much real estate do they actually need in retirement?
+
+India’s population aged 60 and above is projected to reach 347 million by 2050, according to the United Nations Population Fund. At the same time, family structures are changing as children increasingly move to other cities or countries and geriatric care becomes less centred around large families living together.
+
+That is changing retirees’ relationship with property. Homes accumulated for the next generation may have little practical use if children have settled elsewhere, while maintaining and eventually selling those properties can become a burden for heirs, said Kalpesh Ashar, CFP and Sebi-registered investment advisor.
+
+Some retirees are therefore selling secondary real estate during their lifetime and moving the proceeds into financial assets that are easier to manage and divide.
+
+## Too big for two
+
+The other shift is downsizing. As large family homes are left to elderly couples, some seniors are moving into managed or gated housing.
+
+A 67-year-old Noida resident, who did not wish to be named, sold his large independent bungalow and moved to an apartment in a gated complex.
+
+“It was my family home–a two-storey house with six rooms, two kitchens and five bathrooms. My children grew up there, went to college and started their careers. Eventually, however, the children moved out and I was left there with my wife and elderly father,” he said.
+
+The house, once suited to a multigenerational family, became a burden for three older residents. It needed major repairs and security was a concern, as the family was uncomfortable leaving it locked for extended periods.
+
+“My children suggested selling it and buying an apartment. It took me a year to make up my mind as I was emotionally attached to the house. Seeing a friend make a similar move helped me understand the economics better,” he said.
+
+The move also strengthened his finances. He spent only about one-fourth of the sale proceeds on the new apartment and placed the balance in fixed deposits. The new society provides security, power backup, water and maintenance.
+
+“I can freely go for walks and run errands. Quality of life has improved,” he said.
+
+His experience highlights the trade-off between holding property for future appreciation and unlocking its value to improve finances and quality of life today.
+
+Selling a property rather than renting it out can make sense financially and mentally, said Ajay Pruthi, founder of PLNR and a Sebi-registered investment advisor.
+
+“Rental yields are typically around 2-3% of the property value before society charges, property tax and repairs. Moreover, chasing tenants in your 70s-80s is not easy. An empty property, meanwhile, generates expenses without income,” said Pruthi.
+
+Pruthi’s broad rule for retirees is to retain the house they live in and reconsider holding additional properties unless they generate sufficiently attractive returns.
+
+Ashar said the preference for accumulating residential property also needs to be viewed in the context of the investment choices available to the previous generation. “Holding several properties now can become difficult in retirement, especially when the next generation has settled elsewhere.”
+
+## Unlocking value
+
+Selling is not the only way to unlock the value of a family property. Redevelopment can work for retirees who want to remain in the same location but no longer want the upkeep of an independent house.
+
+That is what Padma Mahadevan’s parents did with their family property in Chennai. Her father built an independent house on inherited land in 1984. As he and his brother, who lived next door, grew older, maintaining the properties became difficult, with recurring expenses on waterproofing, pest control and repairs.
+
+The brothers eventually handed their adjoining properties to a developer. Mahadevan’s father and uncle received two flats each, along with cash. For Mahadevan’s parents, redevelopment meant they could remain in the same prime locality while moving into homes that were easier to maintain. It also unlocked wealth from land the family had held for decades.
+
+“My father was a state government employee and we as a family always lived frugally for much of my childhood. The surplus changed my parents' lives in retirement. They started going on holidays and financially upgraded into a completely different bracket,” Mahadevan said.
+
+Succession also became simpler. One flat has already been given to Mahadevan, while the other, where her parents lived, will go to her brother, who lives in London. The family’s housing needs have since changed again. Mahadevan’s father died in April and her mother moved to a senior living community in Coimbatore, where her sisters live. She is renting there for now but has enough savings to buy a home in the retirement community if she chooses to.
+
+Redevelopment worked for Mahadevan’s family because it unlocked the value of their land while allowing them to retain homes in the same location. But holding multiple properties may make less sense when the next generation is unlikely to use them.
+
+Ashar said retirees will increasingly need to consider how much of their wealth they want tied up in real estate. “You might be asset-rich in retirement with multiple properties, but if you are cash-poor, it is of no use,” he said.
+
+The problem can be more pronounced when children live abroad. Ashar said he has seen families where the next generation has little interest in property held by their parents in India and finds it difficult to sell it after their death.
+
+“As far as possible, make life easy for the children by selling your real estate, which is difficult for heirs to liquidate in comparison with financial assets, and keep inheritance as simple as possible,” he said.
+
+## Plan first
+
+For retirees who sell property, what they do with the proceeds is equally important. Pruthi recommends deciding the allocation before the sale.
+
+First, set aside the capital gains tax liability and evaluate whether Section 54EC bonds make sense.
+
+“Buy capital gains bonds only if the tax you save is bigger than what you lose by locking money at 5.25% for five years,” he said.
+
+A separate corpus should be earmarked for medical emergencies and old-age care. The remaining money can then be divided according to when it will be needed. Senior Citizens’ Savings Scheme, Post Office Monthly Income Scheme and fixed deposits of different maturities can provide regular income, while money not required for several years can be invested in growth assets depending on the retiree’s risk profile.
+
+“Split the money into buckets and don't dump it into one big FD,” he said.
+
+Ashar also cautions against giving away the entire sale proceeds or assets to children early simply to simplify succession. Retirees should first ensure they have enough under their own control to fund the rest of their lives.
+
+“It is a good idea to give away a part of the money meant to be passed on so that the children can put it to good use. However, it should not be done at the cost of losing your own independence,” he said.
+
+---
+
+### Trump says Xi to visit Washington this month for high-stakes summit
+*SECTIONS Trump says Xi · business*
+
+Synopsis
+
+President Trump announced President Xi Jinping will visit Washington for a summit. The leaders will discuss global security, trade, and human rights issues. Both nations are navigating economic tensions and a temporary trade truce. The meeting aims to manage strategic friction points responsibly. Unresolved issues like tariffs and regional disputes are expected.
+
+President Trump announced President Xi Jinping will visit Washington for a summit. The leaders will discuss global security, trade, and human rights issues.
+
+Washington DC: US President Donald Trump on Monday (local time) announced from the Oval Office that he is preparing to host Chinese President Xi Jinping for a high-stakes bilateral summit in Washington later this month, following months of diplomatic engagement, including President Trump's state visit to Beijing in May this year.
+
+Speaking to reporters, President Trump expressed optimism about the meeting, emphasising a strong personal rapport while signalling that a broad agenda, spanning global security, trade, and human rights, will be on the table.
+
+  
+
+"He's coming in a couple of weeks. He looks forward to it, I look forward to having him. We've had a very good relationship... He's a man I have a lot of respect for. I think he respects me and I think he respects our country," Trump remarked.
+
+Taking a swipe at previous US leadership, Trump added that China's perception of American leadership has shifted dramatically over his tenure: "He (Xi) didn't respect our country two years ago. He thought our country was run by fools and he was right. Now we are the hottest country in the world right now."
+
+When pressed on whether he would lobby for the release of Nelson Wells Jr. and Dawn Michelle Hunt, two American citizens held in China for over a decade, Trump noted, "I'll speak to him about a lot."
+
+Preparations for the summit were set in motion earlier by US Secretary of State Marco Rubio. Speaking ahead of the ASEAN foreign ministers' meeting in the Philippines, Rubio confirmed that Beijing and Washington had been laying the groundwork for the September visit, aiming to manage strategic friction points responsibly.
+
+"We anticipate that the trip is happening in September," Secretary Rubio said ahead of the meeting with ASEAN foreign ministers in the Philippines in July.
+
+The upcoming summit takes place against the backdrop of an uneasy economic landscape between the world's two largest economies. While both nations are navigating a temporary trade truce, deep-seated economic tensions continue to strain bilateral ties.
+
+While both sides have signalled willingness to stabilise ties, the summit is expected to be dominated by unresolved friction points: Intermittent threats of reciprocal tariffs and retaliatory levies on key agricultural goods and critical raw materials; heightened US restrictions on advanced semiconductor exports and AI technologies facing Chinese countermeasures on critical minerals; disagreements over trade surpluses, currency policies, and manufacturing dependencies and regional flashpoints, including maritime disputes in the South China Sea and global shipping disruptions around the Strait of Hormuz.
+
+Despite the strategic rivalry, both sides have indicated a willingness to extend temporary trade waivers to preserve global market stability.
+
+---
+
+### El Nino events in last 40 years have become stronger than they were 1,000 years ago
+*India Today Science Desk · general*
+
+The El Nino taking shape over the Pacific is proving more than another turn in a climate cycle.
+
+El Nino events during the past 40 years have been nearly 40% stronger than those of the pre-industrial era, and stronger than any seen in the previous 1,000 years, a new study has found.
+
+### CORAL REEFS REVEAL CLIMATE RECORD
+
+El Nino is a recurring warming of the tropical Pacific that can shift winds, rainfall and temperatures far beyond the ocean where it begins. Its effects can include droughts as well as rain, floods, wildfires and food insecurity.
+
+Researchers behind the study examined cores from 13 modern and ancient corals in the Galapagos Islands and, as it turns out, their chemistry preserved clues about seawater temperature over several decades.
+
+> You're looking live at El Nio going "full-tilt" to start meteorological fall. Once in a lifetime event.
+> 
+> Three monster hurricanes in E. Pacific w/Hawaii splitting the uprights.
+> 
+> Moisture from Hurricane Marie is going to inundate U.S. desert Southwest with major monsoon! pic.twitter.com/WN6G8gM2ra— Ryan Maue (@RyanWeather) September 1, 2026
+
+The team found that strong El Ninos become especially prominent over the past four to five decades, while earlier events showed a “pretty consistent pattern of lower intensity."
+
+“We don't see a time in the past where El Ninos have been as strong as today, and we show that the strength of El Nino changes in parallel with the warming of global temperature,” said lead author Julia Cole of the University of Michigan.
+
+### SHOULD INDIA BE WORRIED ABOUT EL NINO?
+
+India is sensitive to El Nino, which has been evident this year.
+
+Historically, the climate phenomenon has been linked to weaker monsoon rainfall, higher temperatures and longer dry spells.
+
+A farmer walks across a partially dried up paddy land. (Photo: PTI)
+
+In June, the India Meteorological Department (IMD) had confirmed El Nino and that it expected it to strengthen during the monsoon.
+
+Japan's Meteorological Agency declared it a day earlier.
+
+Although a possible positive Indian Ocean Dipole (IOD) offered some hope of cushioning its impact, India's June rainfall still ended nearly 40% below normal and has been deficient ever since.
+
+“The question is not whether the current El Nino is going to happen, but how bad is it going to be, and how bad will the impacts be?” Cole said.
+
+> The most aggressive El Nio forecast currently belongs to Italy's CMCC model, which shows a remarkable +5.1°C in January.
+> 
+> One clue: CMCC maintains strong westerly wind anomalies farther east than most models, ranking #1 in the eastern Pacific in November and #2 in December. pic.twitter.com/x9awsyEloP— Ben Noll (@BenNollWeather) August 12, 2026
+
+The researchers said that the bigger concern is not El Nino but El Nino playing out on a warmer planet.
+
+“This event is superimposed on global warming, and it's likely to supercharge the temperature increase that we would normally see from greenhouse gases,” Cole said.
+
+Forecasts cited in the study suggest temperatures could reach 1.7-1.8°C above pre-industrial levels.
+
+> It's looking like a toasty start to September in the central and eastern U.S., with the potential for some record heat
+> 
+> Similar to September 2015, during the last super El Nio. pic.twitter.com/rSKuVMgYlT— Ben Noll (@BenNollWeather) August 27, 2026
+
+“We believe global warming is supercharging El Nino,” Cole said. “And if that's true, then we expect stronger climate extremes that will amplify ecological, infrastructural and human losses.”
+
+\- Ends
+
+Sep 1, 2026 10:20 IST
+
+---
+
+### Trump says it's 'very early' to talk about a Hegseth 2028 presidential campaign
+*SECTIONS Trump says itvery early' to talk about a Hegseth · business*
+
+US President Donald Trump on Monday told reporters it was too soon to discuss his potential successor, sidestepping talk of a 2028 campaign by Defense Secretary Pete Hegseth.
+
+Asked about an NBC News report that the Pentagon chief has discussed a potential ‌White House ⁠run, ⁠Trump said Hegseth is doing a "fantastic job, but it's very early to ​talk about that."
+
+"We have to get through the midterms first," Trump told reporters ​in the Oval Office.
+
+  
+
+The president's Republican Party is fighting to maintain control of both chambers of the US Congress in November's elections.
+
+**Hegseth issues statement**
+
+Hegseth, an Army National Guard veteran ⁠and former ‌Fox News Channel television host, campaigned for ​Republicans this ​month at the politics-heavy Iowa State Fair. He ⁠called the report on his 2028 presidential ambitions "100% ​false" in a social media post last week.
+
+**Trump's hasn't picked a successor**
+
+Trump, who is limited to two terms as president, has not named a successor to lead his "Make America Great Again" movement after he leaves office in 2029. Vice President JD Vance and Secretary of State Marco Rubio have both been ‌encouraged by their supporters to run.
+
+"I'll bet there's a lot of people considering it that you don't ​know about," ​Trump said. "Right now, ⁠all he loves is - and all he cares about is - the military and taking care of the military."
+
+Trump has wielded his endorsement ​power in 2026 races, even boosting some Republican challengers to success over sitting senators. "It is, without question, the strongest Endorsement in the History of Politics," Trump said in a Truth Social post on Sunday.
+
+_(With inputs from Reuters)_
+
+---
+
+### John Ternus takes charge at Apple: Can a hardware chief restore its product edge?
+*Anuj Bhatia · legal*
+
+As Cook steps down as Apple CEO, Ternus takes over a company grappling with AI, slowing growth, and questions about its innovation pipeline.
+
+[Read full article](https://indianexpress.com/article/technology/tech-news-technology/john-ternus-takes-charge-at-apple-can-a-hardware-chief-restore-its-product-edge-10858099/)
+
+---
+
+### Two killed, one rescued as car gets swept away in Dehradun amid heavy rainfall
+*Manisha Chauhan · general*
+
+## Two killed, one rescued as car gets swept away in Dehradun amid heavy rainfall
+
+Two people died and a young woman was rescued after their SUV was swept away by heavy rainwater near Kandoli Bridge in Dehradun’s Prem Nagar area.
+
+Two people were killed after an SUV carrying three occupants was swept away by a strong water current near Kandoli Bridge on Poundha Road in Dehradun’s Prem Nagar area, officials said.
+
+The State Disaster Response Force (SDRF) received information late at night about the vehicle being washed away by rainwater near Lower Kandoli. An SDRF team from Dakpatthar, led by Assistant Sub-Inspector Suresh Tomar, immediately reached the area and began a search and rescue operation.
+
+### **Woman rescued two kilometres from accident site**
+
+According to the SDRF, three people — one man and two women — were travelling in the SUV when it was caught in the strong current. "Three individuals--one male and two females--were travelling in the vehicle when it was swept away by the strong current," an SDRF official said.
+
+Despite heavy rain and difficult conditions, rescue personnel continued their search through the night. During the operation, an injured woman identified as Sehaj, daughter of Gulshan Baveja, was found around two kilometres from the spot.
+
+"Despite adverse weather conditions during the night, search and rescue efforts were carried out continuously. During the operation, one injured female, identified as Sehaj, daughter of Gulshan Baveja, was rescued approximately two kilometres away from the incident site and handed over to the police," the official added.
+
+### **Two bodies recovered**
+
+The SDRF team continued searching the area and nearby locations for the remaining occupants. After an overnight operation, rescuers recovered the bodies of the other two people. One of the deceased was identified as 20-year-old Akshay, a resident of Jaipur, Rajasthan. The other victim was an unidentified young woman.
+
+The bodies were handed over to the local police for further legal formalities and post-mortem examinations.
+
+### **SDRF on alert amid Uttarakhand rains**
+
+The incident occurred a day after the SDRF was placed on high alert following an Orange Alert issued by the Meteorological Department for Uttarakhand. SDRF Commandant Arpan Yaduvanshi held a meeting to assess the preparedness of teams deployed across the state. Company commanders provided updates on weather conditions and the readiness of their respective teams.
+
+The commandant instructed all personnel to remain alert during the rainfall and ensure that rescue equipment and essential safety gear were ready for emergencies.
+
+---
+
+### Commercial LPG Cylinder Gets Costlier: 19-kg Cylinder Price Hiked By Rs 9.50; Check Latest Rates
+*Mohammad Haris · business*
+
+After the latest revision, the price of a 19-kg commercial LPG cylinder in Delhi stands at Rs 2,738.
+
+[Read full article](https://www.news18.com/business/economy/commercial-lpg-cylinder-gets-costlier-19-kg-cylinder-price-hiked-by-rs-9-50-check-latest-rates-10303256.html)
+
+---
+
+### Nepal floods leave children traumatised as mental health crisis deepens
+*India Today World Desk · general*
+
+## Nepal has deployed counsellors and helplines as flood survivors grapple with shock and separation. The response underscores a mounting mental health emergency likely to outlast the immediate rescue phase.
+
+Image used for representational purposes only
+
+Nepal's deadliest floods in a decade have left behind a growing mental health crisis, with children waking from nightmares, adults struggling with fear and anxiety, and families separated by the rushing waters trying to find one another. As the country deals with the scale of the disaster, mental health workers say the psychological toll of loss, displacement and uncertainty is only now beginning to emerge.
+
+With the death toll crossing 900 and nearly 4,000 people still missing, the government has stepped up its mental health response in the worst-hit areas. According to a report by The Kathmandu Post on Tuesday, quoting officials, around 50 psychiatrists, psychologists and psychosocial counsellors have been deployed in Rasuwa and Nuwakot districts, while another 64 trained counsellors are on standby in Bagmati Province in view of what could be a prolonged need for support.
+
+The stepped-up response comes as more than 11,000 people have been rescued and entire settlements, homes, roads and bridges have been destroyed by the floods. Mental health professionals involved in the effort said Psychological First Aid, usually introduced after the immediate phase of a disaster, is now beginning in the worst-affected areas. Pomawati Thapa, senior consultant and medical generalist at the Department of Health Service, said about 10 of the 50 professionals deployed in Rasuwa and Nuwakot are directly providing Psychological First Aid, while a four-member team has been sent to Uttargaya in remote Rasuwa, an area without road access. She said the department has prepared a deployment plan and is coordinating placements where support is needed. Thapa said the initial response focused on Psychological First Aid and volunteer mobilisation while officials assessed conditions on the ground, and the Health Ministry later expanded deployment as the scale of the disaster became clearer.
+
+The response is being supported by the Nepal Red Cross Society, the Centre for Mental Health and Counseling Nepal, and several other NGOs. The government has also widened access to psychosocial support through telephone helplines. Ministry of Health and Food Safety deputy spokesperson Samir Kumar Adhikari said the 1115 hotline provides general health counselling and coordination, and staff handling calls have also been trained to offer basic psychosocial support after the floods. A dedicated psychosocial service is available through 1166, operated from Patan Mental Hospital, where calls are connected to psychosocial counsellors regardless of where they originate. Adhikari said seven counsellors are currently working in rotation to provide round-the-clock services. The ministry is also facilitating the 1098 Child Helpline.
+
+On the ground, however, mental health professionals said most survivors remain in the early stages of coping and formal counselling has barely begun. Psychologist Gopal Bohara, who is working with a four-member psychosocial team from the Centre for Mental Health and Counseling Nepal in Bidur, Nuwakot, said survivors were showing clear signs of shock and distress. "Most of them are currently in shock, unable to articulate their problems," Bohara said. He said two children at the holding centre have repeatedly woken up at night, suffering nightmares and crying that the flood has returned. Adults, he said, have shown anxiety, heightened fear and an exaggerated startle response. His team, made up of two psychologists and two psychosocial counsellors, is working alongside medical teams and coordinating with local health authorities.
+
+Psychiatrist Nirajan Bhattarai, who is part of a Health Ministry team deployed in Bidur Municipality, said the immediate priorities continue to be safety, basic needs and coordination. "Safety and basic needs have to come first," he said. Bhattarai said his team is providing emergency medication to people whose psychiatric treatment was disrupted by the flood and to those suffering from severe sleep disturbances, with Psychological First Aid and other interventions to follow as the immediate crisis stabilises. For now, much of the work involves reconnecting families, linking survivors with services and helping them get shelter and medical care rather than formal counselling. He said many adults were reluctant to interact with responders, while children appeared more willing to engage.
+
+Mental health workers have cautioned that the psychological impact may become more visible only after the immediate crisis has passed. Bohara said survivors were dealing not only with fear and grief but also with the loss of their communities. For now, the focus remains on keeping survivors safe, reuniting separated families, restoring access to psychiatric medication and providing Psychological First Aid as Nepal responds to the aftermath of the floods.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Sep 1, 2026 10:10 IST
+
+---
+
+### Global Market: Japan stocks see sector rotation as tech shares tumble
+*Anupam Nagar · finance*
+
+Japan’s Nikkei share average edged lower on Tuesday as investors shifted away from heavyweight technology stocks toward other sectors, while a sharp rise in government bond yields dampened broader risk appetite.
+
+The tech-heavy Nikkei was down 0.2% at 66,173.86 as of 0200 GMT, after moving between gains and losses in early trading. In contrast, the broader Topix index rose 0.5% to 4,178.62.
+
+According to Reuters, Japanese and U.S. government bond yields climbed to fresh highs on Tuesday as uncertainty in the Middle East kept oil prices elevated. Higher energy prices have increased concerns about inflation and strengthened expectations that the Bank of Japan and U.S. Federal Reserve could maintain or pursue tighter monetary policy.
+
+## AI stocks under pressure
+
+AI-
+
+Data-centre-
+
+The market appeared to be undergoing a short-term sector rotation, with automobile stocks emerging as one of the beneficiaries. Toyota and Nissan each gained 3.1%.
+
+  
+
+## Sector rotation supports broader market
+
+Despite weakness in technology stocks, the broader market remained relatively firm. Tokyo Electric Power Company Holdings was the Nikkei’s biggest percentage gainer, rising 5.1%.
+
+Market breadth also pointed to underlying strength, with 168 of the Nikkei’s 225 components advancing, compared with 54 decliners, while three stocks were unchanged.
+
+The divergent performance between the Nikkei and Topix highlighted the impact of sector rotation, as investors moved away from highly valued technology and AI-linked shares and into areas that could benefit from the changing market environment. Reuters noted that the broader bullish trend in Japanese equities remained intact despite the near-term shift in leadership.
+
+(Disclaimer: Recommendations, suggestions, views, and opinions given by experts are their own. These do not represent the views of The Economic Times.)
+
+---
+
+### ATF price up 5.46%; commercial LPG rates rise by up to Rs 11 from September 1
+*India Today Business Desk · general*
+
+## The price of ATF, or jet fuel, for domestic airlines was increased by Rs 6.28 per litre to Rs 121.28 per litre, from Rs 115, according to state-owned oil marketing companies. This is the second consecutive monthly increase in ATF prices, following a Rs 5 per litre hike in August.
+
+Domestic LPG 14.2-kg cylinder prices remain unchanged for households.
+
+Aviation turbine fuel (ATF) prices were increased by 5.46% on Tuesday, September 1, while the price of commercial LPG cylinders used by hotels, restaurants and other establishments was also raised, in line with changes in international benchmark prices.
+
+The price of ATF, or jet fuel, for domestic airlines was increased by Rs 6.28 per litre to Rs 121.28 per litre, from Rs 115, according to state-owned oil marketing companies. This is the second consecutive monthly increase in ATF prices, following a Rs 5 per litre hike in August.
+
+Meanwhile, Indian Oil Corporation increased the price of 19-kg commercial LPG cylinders across major cities from September 1.
+
+In Delhi, the price of a 19-kg commercial LPG cylinder was increased by around Rs 9.50 to Rs 2,747.50. In Mumbai, the revised price stands at Rs 2,701, while in Chennai it is Rs 2,916.50.
+
+Kolkata saw the steepest increase among the cities listed, with the price rising by Rs 11.50 to Rs 2,884 per 19-kg cylinder.
+
+In Bengaluru, the price increased by Rs 10 to Rs 2,831, while Thiruvananthapuram also saw a Rs 10 increase, taking the price to Rs 2,784.
+
+Commercial LPG prices in Bhubaneswar and Hyderabad rose by Rs 11 to Rs 2,919 and Rs 2,996, respectively. In Patna, the price of a 19-kg cylinder remains above the Rs 3,000 mark, rising to Rs 3,029 after the latest hike.
+
+### DOMESTIC LPG PRICES UNCHANGED
+
+In a relief for households, oil marketing companies have not increased the price of 14.2-kg domestic LPG cylinders.
+
+The latest changes therefore primarily affect commercial establishments that use larger LPG cylinders, including hotels, restaurants and other businesses.
+
+The price of 5-kg FTL non-domestic LPG refills was also increased by Rs 2, from Rs 762 to Rs 764, effective September 1.
+
+The ATF price increase, meanwhile, comes after the fuel had already become costlier by Rs 5 per litre from August 1, adding to the fuel-cost burden for domestic airlines.
+
+\- Ends
+
+Sep 1, 2026 10:06 IST
+
+
+---
+
 ## 31 August 2026
 
 ### Gauahar Khan on motherhood, work and the importance of being present
