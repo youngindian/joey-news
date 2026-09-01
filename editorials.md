@@ -1,8 +1,244 @@
 # Editorials
 
-_Last updated: 2026-08-31 07:26 UTC_
+_Last updated: 2026-09-01 06:39 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 1 September 2026
+
+### Deadly span: On vulture safety in India, threat of electrocution
+*The Hindu · Editorial*
+
+Whereas for many decades the chief concern about vulture safety was centered on chemical threats, the threat of electrocution posed by India’s expanding power infrastructure may supersede it. In the 1990s, India’s vultures suffered one of the world’s worst population crashes, nosediving 99.5% by 2007 from a high of around four crore in the 1980s; the white-rumped, Indian, and slender-billed vultures were nearly wiped out. The culprit was diclofenac, a painkiller for cattle that wrecks vulture kidneys. The government banned the use of diclofenac, with additional bans in 2023 to mitigate threats posed by aceclofenac and ketoprofen, among some other NSAIDs. The birds’ decline left carcasses exposed for longer, supporting feral dog populations and leading to rabies outbreaks; a 2024 study in American Economic Review estimated that human mortality thus rose 4% and the associated damages cost India $69.4 billion a year. While electrocution has not become as deadly as NSAIDs have been, the fragility of the vulture population and the proliferation of unsafe power infrastructure warrant early action. One official survey reported in 2025 that vultures were nesting at only 50% of their historic nesting sites. It is no trivial detail that the raptors’ wide wingspans mean a large individual can contact two conductors at once. They also have a habit of perching on elevated structures, are attracted to open landscapes, and have incentives to congregate where the availability of food is predictable, a risk enhanced by people dumping food waste around electrical installations.
+
+As The Hindu reported based on a recent study in the Journal of Threatened Taxa, “relocating a livestock carcass dump 2.4 km away from high-tension power infrastructure near Uttarakhand’s Dehradun may have saved these large scavengers from … electrocution”. An assessment prepared for the State Climate Resilient Power System Development Project also noted an Egyptian vulture and some steppe eagles had been electrocuted on medium-voltage, rather than high-voltage, lines. Research has noted that persistent mortality due to electrocution alone could render a local population extinct. Avian electrocution is also likely under-documented in India since dead birds can be removed by humans or scavenged. As the study indicated, one inexpensive solution is to separate vulture feeding sites from power infrastructure. Other measures to protect raptors, and even other birds, especially near settlements, include insulating conductors, increasing the gap between energised and grounded components or otherwise preventing a bird from bridging them — non-trivial considering vulture wingspans — and installing safe perches.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/deadly-span-on-vulture-safety-in-india-threat-of-electrocution/article71411071.ece)
+
+---
+
+### Step up regulation: On AYUSH medical education
+*The Hindu · Editorial*
+
+Non-government institutions accounted for 86% of Ayurveda and 85% of homoeopathy colleges in 2024, according to government data, showing that the private sector is leading the AYUSH medical education infrastructure’s rapid expansion. Permitted seats also rose by 43% and total admission capacity by 25% between 2021 and 2024, when the Centre’s AYURGYAN allocation for AYUSH education, training, research, innovation and capacity-building, increased nearly sixfold. While similar concerns vis-à-vis allopathic medical education have been confined to whether institutions adequately prepare students for evidence-based practice, the questions of the AYUSH systems are about the quality of training and what students are being trained to practise. Given the combination, it is notable that quality issues in India’s AYUSH system long predate the current boom. In a 2005 audit, the Comptroller and Auditor General found insufficient hospital beds, outpatient services, and/or staff widespread among homoeopathy colleges, with bed occupancy from 1% to 71%. A 2020 Journal of Ayurveda and Integrative Medicine article similarly reported that many institutions had a shortfall exceeding 50% in the teaching staff required by standards then. The regulator, the National Commission for Indian System of Medicine (NCISM), has often withheld or denied permission to institutions after inspections have found gaps in faculty strength and infrastructure.
+
+While this shows a working regulatory system, the expansion led by the private sector is of additional concern as it is accompanied by incentives for these institutions to maximise student intake while maintaining faculty size and laboratory infrastructure. As of August 21, the NCISM had listed 17 Ayurveda colleges — all private — whose permissions it had denied, several for “non-compliance with inspection process”. In Hillside Ayurveda Medical College (2023), the Karnataka High Court acknowledged that “often educational institutions are … guilty of admitting excess students for financial gains”. The National Commission for Homoeopathy has given 41% of all homoeopathy colleges the lowest grade, including nearly half of all private institutions. Effectively, the expansion of AYUSH education is amid persistent quality issues, including inadequate or disputed faculty strengths, failures in inspection requirements and student intake numbers, and even allegations of fictitious faculty. While it would be premature to infer that the rapid expansion evident will have amplified these problems, the persistent regulatory non-compliance warrants tougher quality control and a reexamination of the incentives for private institutions, together with questions about the evidence backing AYUSH medicinal systems.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/step-up-regulation-on-ayush-medical-education/article71411043.ece)
+
+---
+
+### Political demography, the future of democracy
+*The Hindu · Opinion*
+
+What is common between Elon Musk, M.K. Stalin, a Catholic bishop in Keralam, N. Chandrababu Naidu, C. Joseph Vijay and Mohan Bhagwat? All of them are asking ‘their’ people to have more children.
+
+The political consequences of changing patterns of birth, death and the movement of people are being felt the world over. The ongoing Census 2027 operations in India have brought a sense of urgency to this question of uneven population trends across regions and communities. The impending question of delimitation of Lok Sabha constituencies, which is to follow the first Census after 2026, adds another layer of urgency.
+
+Natalism, or pronatalism, is a belief system or policy stance that encourages human reproduction and high birth rates, and there are vocal advocates of this these days in communities around the world. Elections and political debates increasingly involve questions of fertility, migration, ageing, identity and belonging. Mr. Musk speaks of falling birth rates as a major threat to civilisation, particularly western. In India, Mr. Naidu, president of the Telugu Desam Party (TDP) and Chief Minister of Andhra Pradesh, has urged Telugu families to have more children. Mr. Stalin, president of the Dravida Munnetra Kazhagam and former Tamil Nadu Chief Minister, invoked the idea of having “16 children”, rhetorically, for Tamils. Mr. Bhagwat, Rashtriya Swayamsevak Sangh (RSS) chief, has explicitly called for Indian, rather Hindu, families to have three children. The Catholic church asks its members to have bigger families. In the most recent development, the Tamil Nadu government, led by Mr. Vijay, Chief Minister and founder and president of the Tamilaga Vettri Kazhagam (TVK), has extended one-year maternity leave to women government employees having a third child in Tamil Nadu. In 2024, West Bengal and Trinamool Congress (TMC) Minister Firhad Hakim’s remark that Muslims could soon become a majority in the State drew criticism, with the TMC distancing itself from the comment and condemning it.
+
+Take the subject seriouslyAll this makes political demography — the study of how population changes, such as births, deaths, ageing, and migration, affect government policies, political power, and international security — more salient. Sadly, while there is abundant politics around demography, true scholarship is being stifled by conspiracy theorists seeking political capital and by demographic sceptics who view any discussion of the subject as nativism or xenophobia.
+
+While the global population will continue to grow for some time, that growth is uneven across political boundaries and social groups. India itself is moving rapidly through a fertility transition. India’s total fertility rate has fallen below replacement level, to 2.0 children per woman according to the National Family Health Survey (NFHS)-5. Fertility has declined across every major religious community; though the pace of decline has been uneven across regions and communities, the gap is narrowing. Pew Research, using NFHS data, found that Muslim fertility declined from 4.4 children per woman in 1992 to 2.4 in 2019-21, fertility declined among every major religious group and fertility gaps between religious communities have narrowed.
+
+Demographic factors will challenge the existing electoral process. The ‘One person, one vote, one value’ principle in India is not applied blindly, but in consonance with group rights of representation. Social federalism and political federalism are both part of India’s democratic design. Rich and poor people both move, though for different reasons. In recent years, around two lakh Indians have been giving up their Indian citizenship on average, each year. The poor also move — from places with fewer opportunities to places with greater opportunities. According to the 2011 Census, India had about 45 crore internal migrants. Some regions are ageing, while others will remain younger for longer. Keralam has the highest median age in India, estimated at 37 years in 2026, and this is projected to reach 47 years by 2051. The median age in Uttar Pradesh is approximately 26.9 years, making it one of the youngest States in India. India’s projected median age is about 29.2 years in 2026. Even by 2036, the median age of Uttar Pradesh is projected to reach only 31.7 years, according to some estimates.
+
+What is in focusNatalism is simplistic rhetoric in response to complex realities. No country or society has easily or consistently reversed a sustained decline in fertility. Countries such as Japan, South Korea, China, and Italy have introduced financial incentives, childcare support, parental leave, and other pronatalist measures, but none has succeeded in restoring fertility to the levels seen in earlier decades. South Korea, despite extensive family policies, continues to have extraordinarily low fertility. Italy, too, has continued to experience declining births despite financial incentives and family-support measures. This suggests that fertility is not simply a question of money. It is tied to housing, employment, education, gender relations, the cost of raising children, and people’s expectations about the future.
+
+The reason for continued population growth in many societies is increasingly expanding lifespan and population momentum rather than increasing births. The spread of that growth is uneven across political boundaries and social groups. Similarly, wealth creation and distribution remain uneven and will remain so. Fewer people are being born, people are living longer, moving faster and farther; these factors in combination with demands of democracy and federalism raise challenges that require cool thinking and new imaginative capacity.
+
+Studying the interlinkage between politics and demography is a marginal field within political science and demography, but it should not remain so. In many countries, such as the United States and India, the question of federalism is also in play alongside demography and the economy. A balance will have to be achieved both across social groups nationally and across States in terms of development outcomes, growth, opportunities, and political power. India’s southern States, for instance, achieved fertility decline earlier and now face the possibility of ageing faster than States with relatively younger populations.
+
+The political question is not simply who has more people, but who has invested in development, who has fewer young people entering the workforce, who needs resources, and how representation should respond to these differences. In a utopian world, if all of humanity were one, no consideration other than individual identity should come into play. But these questions are, for better or worse, framed in terms of group identities. Recognition of group identities is not alien to democratic practice; it can be an integral and essential part of it. The political problem, therefore, is not that groups exist. It is how democratic institutions and development planning can accommodate changing group identities without turning demographic differences into permanent political antagonism.
+
+Impact on planning and politicsThe changes in demographic patterns affect both planning and politics. Groups with larger populations will claim greater political power, while groups that are shrinking will feel increasingly insecure. As the number of older and retired people grows relative to the working-age population, their care will require higher commitment of national resources. When these demographic differences vary across regions, they can create friction between States as resources and people move across borders — from regions where there is more to regions where there is less. Regional demographic differences can also cause disputes over taxation, fiscal transfers, development, and political representation.
+
+World over, conversations about demographic shifts have become a source of diatribe. While one group talks about replacement theory and fears that its race is being wiped out, another dismisses such concerns as conspiracy theories. Demographic change is neither a conspiracy to replace any community nor an imagined phenomenon. It is real, natural, and likely to be difficult to reverse. Politics needs to shift from trying to profit from demographic change to sensitively managing and navigating it. The question, then, is whether there can be a more expansive idea of “The People.”
+
+varghese.g@thehindu.co.in
+
+[Read full article](https://www.thehindu.com/opinion/lead/political-demography-the-future-of-democracy/article71411868.ece)
+
+---
+
+### DC Edit | Act Against NEET-PG Negligence
+*Deccan Chronicle · Editorial*
+
+The power failure that prevented 2,445 medical graduates from completing the NEET-PG at two iON Digital Zone centres — TC Nos. 41682 and 41683 — at Sitapura locality in Jaipur cannot be dismissed as an unforeseen technical disruption. Electricity failures are not unforeseen in India. That is why centres conducting computer-based examinations were mandated to have adequate uninterruptible power supply systems and a rehearsed recovery protocol.
+
+While the government has appointed a three-member committee to
+
+investigate the incident, the National Board of Examinations in Medical Sciences
+
+has ordered a re-examination on September 5. A re-examination, however, repairs only part of the damage because the affected candidates will have to answer a question paper, which is different from the one everyone else had answered. This could raise accusations about the new question paper either being easy or tough — either way there won't be any equal treatment for all candidates and potentially leading to litigation.
+
+Union health ministry officials blamed Tata Consultancy Services (TCS), the operator of iON Digital Zone centres, for the internal power-supply failure. However, the government must resist the temptation to make TCS as a whole the convenient scapegoat. TCS has successfully supported the examination at more than 1,100 centres, with over 2.63 lakh candidates completing it. The failure was concentrated at two adjoining centres, pointing to negligence in local execution, supervision or certification.
+
+The government must identify the individuals who inspected and approved the centres, maintained the electrical systems, certified the generators and UPS installations, and supervised operations on examination day and take action against them.
+
+The government should also scrutinise the Rajasthan connection of the NEET-UG paper leak and the NEET-PG power outage. The officials need to investigate whether it was merely a coincidence that the two unfortunate events happened in Rajasthan or if there was any strong exam mafia that was operating in the state.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-act-against-neet-pg-negligence-1983867)
+
+---
+
+### DC Edit | SC Judges’ Support For Dissent To Help Democracy
+*Deccan Chronicle · Editorial*
+
+Political movements in India have very little to do with the judiciary historically except when the courts are called upon to decide on cases on their legal merit, and not in their political or social context. But the birth of the Cockroach Janta Party (CJP) spurred by a comment of the Chief Justice of India has had its reverberations, positively impacting the thought process of the young generation. While the CJI was not very particularly sympathetic to them in the initial phase, he and other judges of the Supreme Court have now come in support of them. It is a welcome development in that the Generation Z will now be encouraged to raise probing questions before the government without fearing for a backlash from the judiciary.
+
+After CJI Surya Kant publicly admonished the Bar Council of India (BCI) for its shock decision to ban the enrolment of students of Nalsar University of Law, Hyderabad, for their protest to invite him as the chief guest at its convocation, students in several institutions in the country have raised their objections to the invites extended to the CJI and the chairman of the BCI for functions on their campuses. It marks a break from the past when no one, leave alone students, will publicly air their differences of opinion with the judges, whatever the topic be.
+
+After the CJI, more judges have voiced their opinion about a matter in which the seemingly powerless students were engaged in a fight with the all-powerful organisation such as the BCI. Justice B.V. Nagarathna of the Supreme Court has publicly stated that the Bar Councils must introspect on their role and importance in upholding professional ethics, morality and professional competence. "When a Bar Council does not earn the respect of its members, it is not a good sign for the legal profession," she said.
+
+If hers was an oblique critique of the BCI for its decision with respect to Nalsar, Justice Ujjal Bhuyan was more explicit when he said students expressing a different point of view or asking questions cannot be threatened with punitive action. Such an approach is unconstitutional and a misuse of power, the Supreme Court judge explained. He also highlighted the idea of a university where “established positions can be examined and questioned” and disagreements are not met with hostility. A university should be where the habit of thinking freely begins, and a student does not hesitate to ask difficult questions, he said.
+
+While the nuanced position of the individual judges of the apex court on the rights of the students, and the general public, is welcome, it will produce the desired result of promoting discourses and strengthening democracy only when it translates into judicial action. There are scores of people, students included, languishing in Indian jails charged under draconian laws for questioning government policies or the laws. Examples of university officials acting as the stooges of the establishment smothering dissent can be found across the country. The instances of the judiciary coming to the aid of the dissenters are scarce. It is time the highest court in the land sent out the firm message that a difference of opinion is not a crime and threatening the dissenters with punitive action is "unconstitutional and a misuse of power".
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-sc-judges-support-for-dissent-to-help-democracy-1983866)
+
+---
+
+### Dev 360 | India’s AI Future Still Needs Properly Equipped Schools
+*Deccan Chronicle · Opinion*
+
+In his Independence Day address from the Red Fort, Prime Minister Narendra Modi announced two initiatives aimed at India's youth: free online coaching for competitive examinations and a programme to train one crore young Indians in artificial intelligence over the next year. His promises came as nationwide youth protests had put their aspirations — and discontent — squarely in view.
+
+Arguably, free online coaching could make a difference in a country where families spend heavily on preparation for JEE, NEET and other fiercely competitive exams. India also needs to prepare its young for an economy in which AI will increasingly matter. Using digital public infrastructure to widen access to high-quality learning is important.
+
+But in the same month that India was promised this digital future, schoolchildren in several parts of the country were making a more basic demand — give us a school that works.
+
+In Uttar Pradesh, Bihar, Rajasthan, Madhya Pradesh and Maharashtra, students have marched, staged sit-ins and, in one case, stopped a minister’s convoy after complaints went unheeded. Their demands have included teachers, paved roads to school, electricity, drinking water, toilets, fans and safe, functioning classrooms.
+
+In July 2025, the roof of a government school in Rajasthan’s Jhalawar district collapsed, killing seven students and injuring others. The tragedy triggered a statewide safety audit that identified thousands of unsafe or dilapidated schools. The government primary school in Rajasthan’s Rampura-Kanwarpura village, which recently made headlines, was among those classified as dilapidated in September 2025. Children had been attending classes in a cowshed ever since. What was meant to be temporary continued for almost a year, until a youth-led Cockroach Janta Party team arrived. The team was reportedly roughed up by villagers. But the pressure had one immediate fallout: the 18 children are now out of the cattle shed, and a new school building is promised. The state government and some local villagers say funds for it were already sanctioned.
+
+The question: How do we reconcile almost a year of some children studying in cattle sheds with a national ambition to create an AI-skilled workforce?
+
+Another important detail: The AI announcement needs unpacking. We do not yet have the full picture of what training one crore young Indians in AI will entail. What will they learn? Who will be eligible? What level of training is envisaged? How will they be assessed? Will the objective be basic AI literacy or job-oriented technical skills?
+
+The distinction matters.
+
+India already has YUVA AI for ALL, a foundational AI-literacy programme designed to help people understand what AI is, how it is used and how to use it responsibly. But foundational AI literacy is very different from training one crore people to become AI engineers or acquire job-ready technical skills. The promise is welcome; however, we need to know the operational details.
+
+There is an equally important question at the other end of the pipeline: What sort of educational foundation are the young people entering this digital future receiving?
+
+An online coaching class assumes a device, electricity, connectivity, somewhere quiet to study and enough foundational knowledge to benefit from the teaching. Serious AI training assumes even more.
+
+Before children can work with sophisticated technology, they need to be able to read confidently, understand mathematics, reason, solve problems and learn independently.
+
+That is where India’s schools matter.
+
+A recent Niti Aayog report, citing ASER data, noted that the share of Class 3 children able to solve at least a basic subtraction problem rose from 25.4 per cent in 2014 to 33.7 in 2024 — still leaving roughly two-thirds unable to do so.
+
+Schools are about hardware and software. Buildings, classrooms, toilets, electricity, water, roads, fans and, increasingly, digital equipment make up the hardware. The software comes from teachers, the quality of teaching, learning materials and the environment in which children are taught.
+
+A brightly painted school building does not produce high learning outcomes if teachers are missing, poorly equipped, unable to teach effectively or use fear to intimidate.
+
+This is why reports of children studying in cattle sheds are more than an embarrassing anecdote. They point to a much larger question about what we mean when we say India is building a technology future.
+
+UDISE+ data show substantial improvements in access to basic infrastructure nationally. Those gains matter. But national averages can coexist with extraordinary local failures. Rajasthan’s data, for example, have acknowledged tens of thousands of government school buildings requiring major repairs.
+
+The people pointing this out should not be dismissed because they are ‘outsiders’.
+
+Schools are places of learning. If they are in a horrendous state, and if the learning outcomes that form the foundation are poor, it is a...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/dev-360-indias-ai-future-still-needs-properly-equipped-schools-1983871)
+
+---
+
+### Hindutva, An Ideology Built On The Pain Of Minorities
+*Deccan Chronicle · Opinion*
+
+A foreign outlet interviewed me this week and at the end of it, after we had wrapped up, the interviewer said he was surprised. He said he did not know that this was the position India was in, and I find this is quite a common reaction. Other than the academics who study India and foreign correspondents posted here, few realise how much India has changed from the image they had of it.
+
+I will recap what was asked of me in that interview and how I replied so you can get a picture of what the interviewer grasped. You can also compare it to your own assessment of where India stands today.
+
+He first wanted to look at Hindutva — its origins, ideological foundations and how it differs from Hinduism as a religion. I told him Hindutva was the words ‘Hindu’ and ‘tva’ and meant Hinduness. The word was used in Savarkar’s book a century ago in which he wrote that India and Hindu come from the same root as Indus and Sindhu. He felt that one could only be Hindu and by extension Indian if one’s holy sites were in India and not in Jerusalem or Mecca or elsewhere.
+
+To the second part, I said that Hinduism was a religion and was concerned with personal belief: gods, prayers, fasts, festivals. Hindutva was concerned about the other person’s belief and what they could not eat, where they could not pray, who they could not love and where they could not stay.
+
+He then asked how Hindutva became increasingly influential in Indian politics, particularly through the rise of the BJP. I said that though it was formed in 1951, for four decades the BJP/BJS had only had a single-digit vote share nationally and did not win a single state without alliances till 1990. The party did not know which issue to mobilise on through all those years. What made it popular, and doubled its vote share to 18 per cent was the demolition of the mosque in Ayodhya. Some 3,000 Indians were killed in the violence that made the BJP ascendant. Two other demands, stripping Muslims of their constitutional autonomy in Kashmir and taking away their personal law, kept the pot simmering.
+
+He then wanted to discuss how Hindutva has affected India’s political institutions and the wider political environment, including the treatment of religious minorities. Here there was nothing to do other than recite the numbers which show us the total exclusion our ruling party practices as revealed in its ministers, Lok Sabha and Rajya Sabha members and its state legislators.
+
+The laws criminalising possession of beef started in 2015, triggering beef lynchings, and laws criminalising interfaith marriage started in 2018. He was aghast to learn about the reversal of burden of proof and the presumption of guilt. How can you call yourself a democracy with all this around you, he asked. I shrugged.
+
+He then asked about the Prime Minister’s role in the normalisation of Hindutva politics and why this political project has remained electorally successful. I said Mr Narendra Modi was more open and honest about his championing of Hindutva than the BJP leaders before him. This made him popular with his votaries and had taken the BJP nationally to 38 per cent where it has remained.
+
+The BJP was also, I said, enthusiastic about permanent polarisation through law and policy (I referred to the bulldozers and absence of due process and he was dumbstruck).
+
+He then asked how Hindutva has affected India’s Muslims and other minorities, and whether the rise of majoritarian politics is changing how minorities understand their place within the Indian state. I answered as best as I could. The main point was that India had more minorities than the population of Western Europe.
+
+Asked about Hindutva beyond India’s borders, I told him Israel puts us on display as its trusted friend and ally when asked to justify its actions against Palestinians.
+
+I said our ambition since 2014 had moved from a global one to a regional one and our obsession was getting the better of our neighbours. We had stop-ped competing with China and I gave him the numbers on the economy and the position since 1991.
+
+He asked: Do BJP leaders not see the damage they are doing? I said that in my experience they genuinely believed in their ideology. To them it was not a means to an end but an end in itself and for this reason what was happening by way of exclusion and persecution would continue no matter the fallout.
+
+Finally, he asked me to look ahead and discuss India's future — whether the country can move away from majoritarian politics, what role the Opposition and India’s democratic institutions may play, and whether India’s pluralist tradition can withstand the growing influence of Hindutva.
+
+I said our natural state was pluralist and that broadly society did not reflect the ideology of our government. However, so many years of it being imposed on us top-down had meant the ideology had seeped into institutions and into society and this would remain after the party had gone from power.
+
+So far as the future was concerned it was dark...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/hindutva-an-ideology-built-on-the-pain-of-minorities-1983864)
+
+---
+
+### Cloud seeding demands grounded goals
+*Deccan Herald · Editorial*
+
+Karnataka’s decision to explore cloud seeding in response to below-normal monsoon rainfall is understandable, but expectations must remain realistic. The government has announced a Rs 28.52-crore programme involving 200 flight hours over 60 days across the state’s four revenue divisions, with monitoring and technical committees overseeing it. The stated aim is to provide relief to standing crops amid rainfall deficits and drought-like conditions. This is not the state’s first experiment. Project Varuna in 2003, Project Varshadhare in 2017, and a two-year programme in 2019-20 all attempted to augment rainfall. The government claimed success in 2017, but such assertions are difficult to verify. Rainfall varies naturally across locations and seasons, making it hard to isolate the effect of seeding from broader climatic patterns.
+
+Cloud seeding cannot conjure rain from clear skies; it requires moisture-laden clouds and favourable atmospheric conditions. Aircraft or ground generators disperse particles such as silver iodide into existing clouds to encourage precipitation. The gains are generally modest. The United States Government Accountability Office has estimated that the additional precipitation ranges from zero to 20%, while stressing that reliable data is limited and the environmental impacts of silver iodide require close study. Practical uncertainties compound the problem. Winds may carry seeded clouds away from target areas, leaving intended beneficiaries without any respite. Conversely, directing precipitation towards unprepared regions risks localised flooding or waterlogging. None of this renders cloud seeding futile. When suitable clouds exist, it can provide supplementary relief to agriculture or reservoirs. Yet it is costly, temporary, and far from a drought-proofing strategy. Each sortie must therefore be independently evaluated, with transparent data on prevailing conditions, rainfall received, and any measurable additional precipitation attributable to the intervention. The government should resist equating post-operation showers with proof of success.
+
+Karnataka should proceed cautiously because cloud seeding is as unpredictable as the weather itself. The Cloud Aerosol Interaction and Precipitation Enhancement Experiment (CAIPEEX), conducted by the Indian Institute of Tropical Meteorology, has developed a scientific protocol for hygroscopic seeding of warm convective clouds and reported rainfall enhancement under favourable conditions. Its findings provide a useful scientific reference and a framework for conducting controlled experiments, while also underlining the importance of rigorous measurement and the dependence of results on atmospheric conditions. In the long run, however, the state’s priority must remain watershed development, groundwater recharge, efficient irrigation, reservoir management, and drought-resilient agriculture. Cloud seeding can supplement these efforts, but it must never become a substitute for them.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/cloud-seeding-demands-grounded-goals-4130639)
+
+---
+
+### The missing urgency in due process
+*Deccan Herald · Editorial*
+
+Justice Sandeep Mehta of the Supreme Court of India has made serious allegations against Rajasthan’s Acting Chief Justice (ACJ) Sanjeev Prakash Sharma, accusing him of corruption, nepotism, favouritism, and misuse of roster powers. He has demanded Justice Sharma’s transfer through letters addressed to the Chief Justice of India (CJI) Surya Kant. In three letters on August 2, 10, and 17, Justice Mehta informed the CJI of a “grim and disturbing scenario” in the Rajasthan High Court. It is unusual for a judge at the country’s highest court to make allegations of such a serious nature against another judge. Justice Mehta has urged the Supreme Court’s collegium to appoint a Chief Justice from another high court to Rajasthan “with immediate effect”, and noted that continued inaction was causing serious damage to the institution. He said saving the institution from “further carnage” was imperative.
+
+In response, the CJI said he and the collegium had taken note of the complaint, but cautioned that the allegations had to be handled through the established internal mechanism. The CJI is correct in this position, but the established procedures have often been found wanting. The question arises why Justice Mehta had to write three letters on the matter, and why his charges remain under investigation. The judge had demanded immediate action on account of the nature of the charges. Justice Sharma is set to retire on September 25, and there is doubt whether the matter can be addressed within the available time. The collegium had decided that a new chief justice should be appointed at least two months before a vacancy arises. This has not happened in the case of the Rajasthan High Court.
+
+The letters have again raised questions about the collegium’s decision-making procedures and institutional transparency. While due process is important in the investigation of complaints, there should be ways of expediting that process when it is required. Inability to make timely decisions will damage the credibility of the collegium, its foundational purpose, and the Supreme Court. The lawyers at the High Court have boycotted Justice Sharma’s court, and launched a strike against him. Following the protests, the ACJ has opted out of judicial work. The Supreme Court should undertake a speedy and transparent inquiry into the allegations and share its findings with the public. It should also disclose how it arrived at the findings. Those who dispense justice should not only be just but also be seen as just.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/the-missing-urgency-in-due-process-4130638)
+
+---
+
+### Neither a cockroach, nor a Dimagi Naxal, yet…
+*Deccan Herald · Opinion*
+
+I am neither a cockroach nor a ‘Dimagi Naxal’, and certainly not Gen Z — yet the causes they're agitating for resonate with me, and I suspect many of my ilk feel the same. I harbour serious misgivings about the Cockroach Janta Party (CJP), and equally little patience for those whose visceral dislike of the Prime Minister blinds them to any achievement since 2014.
+
+That said, one feels a growing unease about the direction politics is taking. There is a sense of indignation spreading among Indians who stand slightly right or left of centre — not just the political middle, but the middle class at large. Whatever one thinks of its methods, the CJP struck a nerve: though billed as youth-led, its message resonated far beyond Gen Z, lancing a boil, and airing long-simmering frustrations.
+
+An admirer of Narendra Modi (and not necessarily the BJP) would claim that the problems being raised — education, jobs, civic infrastructure — are old ones, and not solvable overnight. But in the current mood, that won't wash; that defence would collapse into cynicism.
+
+Modi stormed into power on hope and disillusionment with the incumbent government's competence and character, and voters continued to trust his capability through successive elections. The welfare schemes during Modi 1.0 — sanitation, cooking gas, water — and their last-mile delivery inspired confidence; JAM, UPI, and DBT proved game-changers at the bottom of the pyramid. That faith was rewarded in 2019. Yet the law of diminishing returns eventually kicks in — LPG cylinders once seen as a boon begin to hurt when prices rise. With basic needs met, it’s ‘Dil Maange More’!
+
+From food security to vaccine roll‑out during Covid 19, from rural consumption powering growth to largely insulating the economy from external shocks, the government’s achievements are substantial. GST is strengthening with every passing day, and so is better tax administration-funded development. On foreign policy, opinion is divided.
+
+So where lies the disconnect? The turning point was the 2024 Lok Sabha results. Since then, the BJP has gone on an all-out mission to consolidate its position — through alliances, engineered defections, and an election machine in overdrive to capture State after State. Critics see the delimitation exercise, framed as the women's reservation bill, as reshaping Parliament's arithmetic in the BJP's favour — that perception has stuck. Elections, everyone knows, run on money, side deals, and compromise — and the promise of probity, much vaunted on the campaign trail, has been quietly set aside.
+
+Another inevitable risk of an unbroken run of election victories is hubris and a widening distance from the grassroots — and in its third term, the Modi government shows signs of both. Over 12 years, the stature of BJP Chief Ministers has diminished; like the Congress of yore, they hold office at the pleasure of the high command, with little skin in the game — making the most of their tenure while it lasts. The malady extends to MPs, MLAs, and Central Ministers alike, and governance is the natural casualty: last-mile delivery, once the government's hallmark, has taken a back seat. Flagship programmes tell a similar story of promise outrunning delivery, from Swachh Bharat to Skill India — the more complex the scheme, the more it has run aground on bureaucratic gaps. Tellingly, even as gig work expands, the old hunger for a ‘sarkari naukri’ endures — people still don't trust the new economy to deliver what the old one promised.
+
+Meanwhile, the Congress has poured its energy into recasting Rahul Gandhi as the face of change — banking on years of pent-up anti-incumbency to do what organisation-building has not. Whether that strategy also counts on unrest to sharpen its edge is speculation; but the CJP’s guerrilla entry through the same cracks has certainly raised the stakes. Whether the CJP is acting alone or as a force multiplier for the Opposition, time will tell — but it has rattled the government. Some fear that a threatened Modi could tilt toward a more authoritarian mode, as powerful leaders elsewhere — and in India's own past — have done. That may be scaremongering. But it is fair to say the government has no magic potion in store, and knows it.
+
+The government surely knows that the promise of Viksit Bharat feels like a distant dream to many. Today's youth live in the here and now, and so, increasingly, do the rest of us. For those who backed Modi, without signing up for his party, the expectation is straightforward: basics done well, tangible delivery, and humility to notice when the mood has shifted. That, more than any slogan, is what would restore trust.
+
+Sandip Ghose is a current affairs commentator. X: @SandipGhose.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/neither-a-cockroach-nor-a-dimagi-naxal-yet-4130987)
+
+---
 
 ## 31 August 2026
 
