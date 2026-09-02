@@ -1,8 +1,92 @@
 # Editorials
 
-_Last updated: 2026-09-01 06:39 UTC_
+_Last updated: 2026-09-02 06:16 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 2 September 2026
+
+### Endurance test: On the Indian economy’s resilience
+*The Hindu · Editorial*
+
+India’s economic growth during the first quarter of this financial year has surprised most people. Against a perception among economists that growth would slow to about 6%-7% on account of the impact of the West Asia crisis, real growth in the April-June 2026 quarter came in at a robust 7.8%. This was not a statistical anomaly, either, as growth was underpinned by strong performances in both manufacturing and services. In fact, the manufacturing sector grew at a three-quarter-high of 9.2%. The sector has likely benefited from the Goods and Services Tax rate cut implemented last September, and further from the Reserve Bank of India’s (RBI) 125-basis point cumulative interest rate cuts through 2025. A part of it is also that companies likely front-loaded their output in the expectation of further uncertainty on inflation, potential future rate hikes, and other possible headwinds. The other piece of good news is that capital creation seems to have picked up. While it is not yet clear what the share is between the government and the private sector, capital creation overall has a welcome multiplier effect on the economy. The services sector, too, has continued to see robust growth, adding strength to the economy. Yet, the economy is not out of the woods, and this robust performance will be more difficult to replicate in the quarters ahead. As Chief Economic Adviser V. Anantha Nageswaran has cautioned, Hormuz uncertainty is likely to keep oil prices above $80 a barrel, too high for a country that imports 85%-90% of its oil requirement.
+
+This is perhaps why Prime Minister Narendra Modi on Tuesday reiterated his appeal to Indians to buy local, avoid non-essential foreign travel and weddings abroad, and stop unnecessary purchases of gold. The pressure of maintaining a reasonable trade deficit has so far rested on India’s services exports. This has served India reasonably well so far, but the global economy is stuttering. This, combined with the growth of Artificial Intelligence services elsewhere, could hurt demand for Indian services exports going ahead. The economy is also yet to face the full brunt of a deficient monsoon and the impact this will have on rural demand. The consumption-related data for July in the Index of Industrial Production already points to sluggish rural demand. While inflation remains well within the RBI’s comfort zone, it has been increasing. The RBI expects it to hit 5.9% in October-December 2026, which would further hit demand. The front-loading of manufacturing will also, by definition, peter out over the next few quarters. The strength of the Indian economy’s resilience was tested in Q1 and it passed admirably. However, the much tougher stamina test remains.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/endurance-test-on-the-indian-economys-resilience/article71415445.ece)
+
+---
+
+### The south’s muted voice as political power shifts north
+*The Hindu · Opinion*
+
+Even though the national movement was dominated by leaders from northern, western and eastern India, the voice of the southern region has never felt as stifled in national politics and policy as it feels today. True, Gandhi, Nehru, Netaji and Patel were the tallest of leaders. Neither C. Rajagopalachari of Madras, nor T. Prakasam of Andhra, nor indeed E.M.S. Namboodiripad (EMS) of (Kerala) Keralam had their kind of national presence. Nor are the various resistance movements and anti-British revolts of the south valorised across the country, especially in northern India. Yet, the presence of a galaxy of leaders from the south in its leadership ranks helped the original Indian National Congress to be seen as an all-inclusive umbrella party in which political voices from different parts of the country felt included.
+
+Blame it on demographics or the penchant for a ‘national’ language, parliamentary politics seems to have contributed to the political domination of northern India over southern India. Both the Indian National Congress and the Jana Sangh, and its later avatar, the Bharatiya Janata Party (BJP), have been dominated by leadership from the north. In the nearly eight decades of India’s independent existence, only one Prime Minister from the south completed a full term in office. Other Prime Ministers from south India have been seen, at best, merely as placeholders. The domination of the so-called Nehru-Gandhi family in the Congress party, and the ideological dominance of Hindi and the political dominance of the Hindi heartland in the BJP, have cast a long shadow over southern political leadership.
+
+[Read full article](https://www.thehindu.com/opinion/lead/the-souths-muted-voice-as-political-power-shifts-north/article71416519.ece)
+
+---
+
+### DC Edit | EC’s Six-crore Purge A Self-goal On SIR?
+*Deccan Chronicle · Editorial*
+
+The special intensive revision (SIR) of electoral rolls in the country undertaken by the Election Commission is turning out to be the biggest challenge faced by the Indian Republic after it came into being if one were to go by the number of deletions from the voter lists and reports about the callous way the exercise is being carried out, disenfranchising people on questionable grounds which strikes at the roots of a constitutional democracy. What is worse is that while hapless voters are drawn into unending legal processes to restore their democratic right, the EC is presenting it as its crowning achievement across the globe. The government appears gleeful as the EC elects the voters and the judiciary plays the role of a willing assistant.
+
+It is estimated that six crores of the 36 crore names in the electoral rolls in 16 states and three Union territories which conducted the SIR have been deleted in the third phase. The National Capital Territory of Delhi perhaps bore the worst brunt when it saw one in every three voters there being declared ineligible to vote. This is perhaps the highest share of invalid numbers in a state or a UT. More than two crore voters in Maharashtra have been removed from the rolls, while in Karnataka, the number is 1.07 crores. More than 73 lakh names have been removed from the rolls in Telangana, 44 lakhs in Andhra Pradesh and 43 lakhs in Jharkhand, followed by other states which also saw names being removed in their lakhs.
+
+It was not long ago the EC conducted the elections to the West Bengal Legislative Assembly after deleting about 90 lakh names from the voters’ list. It had made no arrangements to ensure that all those who had been denied their voting rights would have a chance to be heard by the tribunals before the polls; only a few thousand appeals were heard by the time the elections were held. It now emerges that the SIR appellate tribunals in the state have restored the voting rights of 75,443 of the 82,782 persons who moved them. This means 91 per cent of those asked not to vote in the Assembly elections were treated unjustly, undemocratically, illegally and unconstitutionally by the EC which removed their names and the apex court which refused to give them a fair hearing.
+
+The EC claims that it has the legal mandate to conduct the SIR to which none has a quibble. But the right to clean up the voters’ list is not an order to strip people of their voting rights. Worse, the EC’s steps have given governments in many states the leeway to deny people their other rights including renewal of passports and even issue of ration cards or getting rice under popular schemes. The chief election commissioner himself has been linking the voters’ list and citizenship, which is a matter totally outside his remit.
+
+The SIR has become a threat to voters’ rights when it asks the voters to prove their claim to be on the voters’ list. Common sense would dictate that the EC produce proof before removing a name as the list was prepared by no agency other than itself and upon the production and verification of documents. Thus, the EC is undermining the very process it has undertaken in its efforts to disenfranchise the people. This must stop. Voting rights are no child’s play. If the EC does not understand it, it is then for the apex court to intervene and read out the Constitution.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-ecs-six-crore-purge-a-self-goal-on-sir-1984128)
+
+---
+
+### A check on arbitrary arrests
+*Deccan Herald · Editorial*
+
+The Karnataka High Court's recent orders against Whitefield police expose a problem far bigger than a single station's misconduct. In one case, police arrested an attesting witness in a disputed will, despite having issued him a notice granting time to appear. The arrest occurred before the deadline expired. Justice M Nagaprasanna declared the arrest illegal and imposed Rs 3 lakh in costs personally on the investigating and supervisory officers. In another case, Whitefield police travelled to Udupi to bring an activist to Bengaluru for questioning over a Facebook post celebrating the cancellation of comedian Kunal Kamra's proposed show. Again, they acted before the three-day notice period lapsed. In another proceeding, when the court asked why CCTV footage from the station was unavailable, officers cited power fluctuations. Against this backdrop, Justice M Nagaprasanna's observation that Whitefield be renamed “Darkfield” was a stinging indictment.
+
+The larger issue is personal liberty. The Supreme Court has repeatedly held that arrest is a discretionary power, not a compulsory response to an FIR. The law itself requires police to justify the necessity of arrest in cases punishable by up to seven years. Yet this safeguard is often treated as a formality. Police are only part of the problem, though. Magistrates who mechanically authorise custody without scrutinising arrest memos and case papers equally undermine liberty – a lapse the Supreme Court has criticised. As the first judicial authority to examine an arrest, a magistrate's responsibility is a crucial constitutional safeguard against arbitrary detention. At the same time, judicial condemnation of police excesses must not, inadvertently, become condonation of the conduct of the accused. Courts must weigh cases holistically. Communally inflammatory social media posts and hate speech have at times secured stays, occasionally followed by triumphant gloating online by the accused. Such episodes risk signalling that provocative communalism can bring judicial protection. Hate speech has rarely attracted meaningful consequences of late, though courts are not solely to blame. Weak investigation, procedural lapses, and unprepared law officers often leave them little choice. Public prosecutors, too, have been faulted for poor case presentation.
+
+Karnataka's police force has been regularly drawing complaints. Political interference, including the entrenched practice of influencing postings, has weakened the chain of command. Unless Chief Minister D K Shivakumar and Home Minister Priyank Kharge act to depoliticise the force and overhaul the legal team, the government must be prepared for repeated courtroom embarrassment. The malaise runs deeper, and Whitefield is only a visible symptom.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/a-check-on-arbitrary-arrests-4131937)
+
+---
+
+### Growth story carries cautious outlook
+*Deccan Herald · Editorial*
+
+A 7.8% growth of the economy in the first quarter of the financial year, as against 6.9% in the same quarter last year, reflects strong momentum despite global disruptions. This marks a slowdown from the quarter ending March 2026, which had registered a growth rate of 8.6%, but the situation has since improved considerably. This growth surpasses projections, including the Reserve Bank of India's (RBI) estimate of 7%. The numbers are significant, given that they come in the first quarter since the beginning of the war in West Asia, and the elevated crude prices and supply disruptions were expected to impact economic activity. The figures reveal a trend of resilience, with an 8.2% rise in the gross value added (GVA) during the April-June quarter. The nominal GDP growth was 10.3%; it was 8.1% during Q1 of 2025-26.
+
+Disaggregated figures show that most sectors contributed to the growth. Manufacturing grew at a strong 9.2% (8.3% in the same period last year), and construction grew at 7.7% (5.2% in 2025-26). Services registered a remarkable 10% jump, pointing to healthy overall growth across the financial, real estate, and professional services sectors. Private consumption grew at 7.1%. Urban demand was strong, as seen in the growth in vehicular sales. Investment expanded by 11.9%, compared to 5.8% in the same quarter last year. The Centre’s capex grew by roughly 24%, and bank credit for both industry and consumption showed good growth. While these were positives, agriculture and allied sectors grew only 3.6%, against 4.4% in the corresponding quarter last year. The below-normal monsoon this year can impact these sectors for the entire year. Mining and quarrying witnessed a contraction. The underperforming sectors call for greater attention in the coming months as they involve large numbers of people.
+
+The direct tax relief and a reduction in the goods and services tax (GST) rates, effected last year, likely prompted greater consumption and demand, supporting growth. Demand is unlikely to continue as inflation shows an upward trend. The overall inflation rate this year is likely to be higher than last year. The agricultural sector is projected to continue to underperform, which might impact other sectors. External risks and uncertainties will weigh on the economy. Crude prices have started to move up again. If the global headwinds gather pace, maintaining the current growth momentum through the rest of the year will prove challenging.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/growth-story-carries-cautious-outlook-4131936)
+
+---
+
+### Caodaism: Vietnam's syncretic path to peace
+*Deccan Herald · Opinion*
+
+Religion is a way of life, a culture that shapes us and shows us the path and the process. All religions propound the eternal values of truth, love and empathy and are ways to achieve that Godhood we are forever seeking. Among the religions of the world in practice is also Caodaism, a syncretic religion that is a fusion of different faiths, a blend of elements of Western and Eastern philosophies.
+
+Founded in Southern Vietnam in 1926, Caodaism is a monotheistic religion, Cao meaning high and Dai meaning peace. Its tenets are based on certain codes believed to have been revealed to the religious founder Ngo Van Chieu through a series of séance messages from 1921. With a large following, Caodaism is Vietnam’s third largest religion after Buddhism and Christianity and also has a following beyond its borders. What is truly distinctive about Caodaism is that it combines elements from many of the world’s major religions – Buddhism, Confucianism, Taoism, Roman Catholicism, Islam, Judaism, and Jainism.
+
+In the city of Tai Ninh stands the Divine Temple, Cao Dai, and its symbol is the Divine Eye in a triangle. Known as the Great Faith, Caodaism preaches the veneration of ancestors, nonviolence, vegetarianism and salvation from samsara. Theories of karma and reincarnation from Buddhism, ethical precepts from Confucianism, practices from Taoism, and hierarchical organisation of Catholicism form part of this religion. Another fascinating aspect of Caodaism is that among its pantheon of saints figure spiritual and historical figures like Buddha, Joan of Arc and Julius Caesar and scientific genius Louis Pasteur. The primary saints of the religion are Nguyen Binh Khiem, the 16th-century Vietnamese poet, philosopher and prophet; Sun Yat Sen, Chinese nationalist leader; and Victor Hugo, the celebrated French writer.
+
+The most prominent and revered of them is Victor Hugo, whose teachings form part of Caodaism and the text of important prayers. At the Cao Dai Temple there is a mural showing Victor Hugo writing on a celestial tablet, Dieu et Humanite et Justice, meaning a divine order permeates human laws and societal ethics. Human laws may be amiss at times, but Divine law, omniscient, looks past human flaws to understand and show us the right path.
+
+The profound messages of universal justice, harmony, and liberty as enshrined in Caodaism reverberate in all religions, as each of them is a quest for the Supreme Intelligence in a harried world of strife and conflict.
+
+[Read full article](https://www.deccanherald.com/opinion/caodaism-vietnams-syncretic-path-to-peace-4131923)
+
+---
 
 ## 1 September 2026
 
@@ -14,6 +98,17 @@ Whereas for many decades the chief concern about vulture safety was centered on 
 As The Hindu reported based on a recent study in the Journal of Threatened Taxa, “relocating a livestock carcass dump 2.4 km away from high-tension power infrastructure near Uttarakhand’s Dehradun may have saved these large scavengers from … electrocution”. An assessment prepared for the State Climate Resilient Power System Development Project also noted an Egyptian vulture and some steppe eagles had been electrocuted on medium-voltage, rather than high-voltage, lines. Research has noted that persistent mortality due to electrocution alone could render a local population extinct. Avian electrocution is also likely under-documented in India since dead birds can be removed by humans or scavenged. As the study indicated, one inexpensive solution is to separate vulture feeding sites from power infrastructure. Other measures to protect raptors, and even other birds, especially near settlements, include insulating conductors, increasing the gap between energised and grounded components or otherwise preventing a bird from bridging them — non-trivial considering vulture wingspans — and installing safe perches.
 
 [Read full article](https://www.thehindu.com/opinion/editorial/deadly-span-on-vulture-safety-in-india-threat-of-electrocution/article71411071.ece)
+
+---
+
+### Do not gamble: On the Russia-Ukraine conflict
+*The Hindu · Editorial*
+
+With Russia and Ukraine escalating their long-range attacks on each other’s territory, the risk of the conflict spilling over into other parts of Europe is rising. There have been isolated but significant incidents suggesting that Russia is carrying out ‘gray zone’ attacks, testing the resolve of the North Atlantic Treaty Organisation (NATO). Three explosive drones were discovered near a German airport. One was shot down over Romania, while another Russian projectile landed in Poland. European officials also say that Russia is recruiting foreign agents for sabotage and conducting cyberattacks for digital espionage. According to U.S. media reports, U.S. intelligence agencies believe that Russian President Vladimir Putin, under pressure at home amid Ukraine’s growing long-range attacks, could carry out a cyberattack or a limited land incursion into NATO territory in the years ahead. CIA chief John Ratcliffe visited Moscow in a bid to warn the Kremlin against escalating the war into NATO member-states. Inside Russia, government officials and nationalist voices have hardened their rhetoric. A Foreign Ministry spokesperson recently said British military facilities “located both inside Ukraine and beyond its borders” may become legitimate targets if Ukraine continues to attack Russia with British weapons. Mikhail Galuzin, Russia’s Deputy Foreign Minister, recently threatened to topple the regime in Kyiv and establish a new governance body — all suggesting that Russia could be preparing to escalate the war.
+
+Russia still has no clear path to victory. Yes, Russia has taken more than 20% of Ukraine’s pre-2014 territory. But its incremental territorial gains have slowed. Until early this year, the Russians were using artillery, glide bombs, drones and infantry to blast through Ukraine’s deeply entrenched positions. But with its long-range attacks, particularly on Russia’s energy sector, supply networks, and military systems, Ukraine’s new aerial front is inflicting economic pain on the Russians. According to some reports, Ukrainian attacks have knocked out roughly 20% of Russia’s refining capacity. Russia is also striking Ukraine — its air defences are weak — with drones and ballistic missiles. But with continuing support from Europe, Kyiv has managed to withstand Russia’s hits. But this stalemate is dangerous. Under pressure at home and stuck on the frontline, Russia could use U.S. preoccupation in the Persian Gulf to escalate the conflict and break the impasse. But that would be a huge mistake, as it could trigger an all-out war between two nuclear-armed sides. Escalation would only compound Russia’s problems. Mr. Putin should instead opt for serious diplomatic engagement with Ukraine and the West, to find a middle ground and end Europe’s longest war since the Second World War.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/do-not-gamble-on-the-russia-ukraine-conflict/article71415822.ece)
 
 ---
 
@@ -79,6 +174,23 @@ The government must identify the individuals who inspected and approved the cent
 The government should also scrutinise the Rajasthan connection of the NEET-UG paper leak and the NEET-PG power outage. The officials need to investigate whether it was merely a coincidence that the two unfortunate events happened in Rajasthan or if there was any strong exam mafia that was operating in the state.
 
 [Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-act-against-neet-pg-negligence-1983867)
+
+---
+
+### DC Edit | ‘Marathon Man’ Messi On His Last Legs
+*Deccan Chronicle · Editorial*
+
+Lionel Messi will not be seen in the famous light blue and white striped jersey of Argentina again — he has announced his retirement from internationals. Even though the football world saw it coming ever since his team was outplayed by Spain in the Fifa World Cup final two months ago, Monday’s declaration felt like a kick in the gut. Messi the Magician has wound up his wand... did he run out of tricks?
+
+At 39, the flesh is certainly weak. To cope with the rigorous of international football and robust rivals is quite a task for someone of that age. Physically, he most certainly couldn’t have made it to the next big football show, the 2030 World Cup. And having won almost everything — the World Cup, Copa America (South American championship) and a clutch of European Champions League titles with his long-standing club Barcelona, for which he scored a whopping 120 goals at the Continental stage and 474 in the Spanish League — there was nothing more left to achieve for the icon.
+
+The goals, they have been aplenty. Making his international debut at just 18, Messi has found the net 125 times for Argentina in 207 matches played, the most for any player from the South American country, for whom he turned up at six World Cups. Messi also owns the unique record of being the only player to score in the World Cup group stage, pre-quarterfinal, quarterfinals, semifinals and final.
+
+The recent demise of his father and career agent on August 8 would have mentally sapped Messi, who first hinted at retirement in a tribute to Jorge. “I don’t know what I’m going to do without you; I don’t know how to go on. I only played football and now I have quite a few doubts about whether I’ll keep doing it for much longer,” he wrote. Understandably, he hung up his international boots on the last day of the month.
+
+He will continue to kick the ball around for Inter Miami in USA’s Major League Soccer, which does not rank high on the competitive scale. For the many football-mad fans though, all eyes will now be on the American club to catch the star on his last legs.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-marathon-man-messi-on-his-last-legs-1984110)
 
 ---
 
@@ -182,6 +294,58 @@ I said our natural state was pluralist and that broadly society did not reflect 
 So far as the future was concerned it was dark...
 
 [Read full article](https://www.deccanchronicle.com/opinion/columnists/hindutva-an-ideology-built-on-the-pain-of-minorities-1983864)
+
+---
+
+### Modi’s Twin Queens In The World Power Game
+*Deccan Chronicle · Opinion*
+
+It is a unique game. There are only white pieces on the 8x8 board. There is, of course, a King, who stands taller than anyone else. But there are two Queens, each one limited to move only on either white or black squares. Sometimes, they decide to change the rules midway — the Queen on black decides to move on white, and vice-versa. The game is being played in New Delhi but the ramifications of each move engage powerful people across the globe. There is no doubt that NSA Ajit Doval and MEA’s S. Jaishankar are King Narendra Modi’s most consequential Queens.
+
+Mr Jaishankar, the external affairs minister, has rooks, bishops, and knights spread across Washington, Moscow, EU, and the Middle East. Of course, there are thousands of pawns, more than the usual eight in a normal chess game. This Queen has influential global admirers — the US secretary of state Marco Rubio openly appreciates him, and the US Ambassador to India Sergio Gor maintains daily contact. While Mr Jaishankar operates on the white side of the geopolitical board, Mr Doval, the national security adviser, specialises in the dark arts, and lurks in the shadows. His covert networks are invaluable, and networks with global intelligence and security agencies were built over decades. Information, contacts and institutional memories are his real operatives on the chessboard.
+
+Mr Jaishankar is Mr Modi’s global face, the diplomatic Queen. Mr Doval is his operational Queen. While one negotiates, the other anticipates. While one speaks for India, the other knows what India needs to do before it speaks. One is a dovish hawk, the other a straightforward hawk. Mr Modi cannot afford to sacrifice either. He guards them with gentle, but firm, hands. Both are crucial as in the new global order where no nation is powerful enough, India manages the interests of Russia, America, China, Brics, and other multilateral fora. But then unexpected situations require an inevitable sacrifice. A Cabinet reshuffle is around the corner. The game, as they say, is afoot.
+
+Satheesan’s Keralam: A CM out of aspirant’s shadow
+
+On May 18 this year, when UDF’s V.D. Satheesan became Keralam’s chief minister, he had to tackle the K.C. Venugopal factor. The latter was a strong contender for the post, a powerful general secretary in Congress’ central leadership, with proximity to Rahul Gandhi. But Mr Satheesan got the green light from the Congress Legislature Party. More than 100 days later, the CM has sent a strong message through the bureaucratic changes. He intends to run the state on his terms. He retained crucial portfolios such as finance, planning, general administration, and personnel and administrative reforms. Initiatives like digital monitoring, PlanSpace 2.0, asset tracking, and tighter accountability aim to make the state civil servants directly answerable to the political master.
+
+At the heart of the chief minister’s office is Rathan U. Kelkar, IAS, secretary to the CM, who is backed by T. Sreekumar, special private secretary, whose experience in the secretariat gives the CMO institutional muscle. The communications team includes media secretary Roy Mathews, press secretary Seeji Kadakkal, and additional private secretaries Thilakan K.P.K. and Mohanachandran M.S. The bureaucratic reset happened with Bishwanath Sinha as chief secretary, and other senior officers in key positions in Home, finance, health and local government. The emerging administrative structure has Mr Satheesan’s imprint, not Mr Venugopal’s. The signals from Thiruvananthapuram are unmistakable: Mr Satheesan sits on the CM’s chair, surrounded by people that he desires and wants.
+
+Missing bureaucrats in the Capital
+
+In the modern version, this story begins in 2014. Prime Minister Narendra Modi’s slogan, “Reform, Perform, Transform”, energised the nation, and impacted the country’s executive. The Central department of personnel and training (DoPT), the coordinating agency for civil servants, was given the mandate to unshackle the old system, and inculcate a 360-degree evaluation, and tighter scrutiny for central postings. Instead of myriad push-and-pull factors, the selected few mandarins in New Delhi would decide who was good enough for the top jobs. Admirable as it was, the process created immense uncertainty. This intensified when a few “Super-A” category officers were denied Central deputation, and the selection criteria, despite the so-called transparency, remained opaque. Civil servants, who sometimes believe that they wield the real power, responded secretly and strategically, not openly.
+
+Increasingly, officers stuck to their states, and showed little inclination to move to the Capital. They realised that in their respective state cadres, they, as senior IAS and IPS officers, would be the queen bees, with unlimited political access, and enormous authority. In contrast, New Delhi offered DoPT’s and other forms of intense scrutiny, cutthroat and often murderous competition, and curtailed fiefdoms. Suddenly,...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/modis-twin-queens-in-the-world-power-game-1984079)
+
+---
+
+### Why Calling Rahul Gandhi ‘Anarchist’ Does Not Work
+*Deccan Chronicle · Opinion*
+
+Different rules for different sets of people is chaotic governance, a violation of the fundamental principle of equality and the rule of law. As a former minister, a senior functionary of the BJP and a national spokesperson of the party, Ravi Shankar Prasad cannot be excused for getting over-excited and accusing the Leader of the Opposition, Rahul Gandhi, of doing “politics of anarchy.” By using a verb like do/does/doing Ravi Shankar Prasad implied that all that the LoP does is pursue the politics of anarchy.
+
+Had Mr Prasad paused to consider what he was about to say before he actually spat out the accusation, he may have reconsidered the use of a descriptor like anarchy. First, the politics of anarchy is not a crime. The Father of the Nation, Mahatma Gandhi, by his own measure believed the ideal society was “enlightened anarchy.” His disciple, Vinoba Bhave, acquired a label, “ahimsa anarchist”. Neither of these two leaders is despised or trashed by the BJP; they are not the same as the party’s favourite punching bag, Jawaharlal Nehru. Indeed, Bhagat Singh, a strange icon for the BJP, found anarchism’s “idea of universal brotherhood,” to “have the same meaning” as “the Sanskrit sentence vasudev kutumbakam”.
+
+Singling out Rahul Gandhi as an anarchist is a mystery unless the BJP was rattled by his act of accompanying Sahil Lochab to first the Mandir Marg police station and then the Sansad Marg police station. If scaremongering is what the BJP intended by pasting the anarchist label on the LoP, it backfired.
+
+Indians spend money to watch online and in cinema halls films like the Gangs of Wasseypur, Badlapur and the classic Omkara; they even watch a film like Kathal (Jackfruit) where a local political honcho has the police guarding his favourite jackfruit tree from thieves. Like it or not, the nexus between crime, police and politics is a favourite as are themes of the heroic young man overturning the system like Rang De Basanti, Jawan and Sarkar with Tamil Nadu chief minister Chandrashekhar Vijay in the lead as a vigilante against voter fraud.
+
+No one has accused the Bhim Army’s Bharat Ekta Mission functionaries “of cheap, attention-seeking politics that Rahul Gandhi displayed today outside the Sansad Marg police station” as J.P. Nadda did when they met the senior superintendent of police Ankita Sharma, Badaun, Uttar Pradesh, in her office where the district magistrate, Avinash Rai, was also present to submit a complaint that a district secretary of the Azad Samaj Party, Kanshiram Sonam, was locked up and beaten inside the police station, while Aman, the Bhim Army functionary, was falsely accused in a police case.
+
+Far from calling out those who padlocked the gates of a police station as two brothers , Dilip and Sudip Ram, both junior level local BJP leaders did in Entally constituency in Central Kolkata, on the night of August 15, for doing “politics of anarchy,” the West Bengal BJP has merely, temporarily, suspended them from membership.
+
+If Rahul Gandhi “does politics of anarchy,” for police station hopping followed by a seven-hour dharna to get a FIR registered against the police for pellet gun injuries on Sahil Lochab, a protester at the July 20 protest in New Delhi, so do others. The BJP ought to have remembered this when sending Mr Prasad out to vent against Rahul Gandhi.
+
+As a matter of fact, the BJP ought to have thought of what anarchism is and why Rahul Gandhi cannot be called an anarchist, strictly speaking. The responsibility of using labels with some degree of accuracy is not difficult, especially not for a party that talks almost nonstop about its ideology vis-à-vis the lack of ideological moorings of its political opponents, most of whom the BJP leadership, including Narendra Modi and Amit Shah, loudly proclaim are on the make, that is, faithful to the cause of enriching their families at the expense of the poor and the public at large, meaning parivaarvadis.
+
+Anarchists are not bomb throwers only; they are not terrorists as such; they do think that freedom and equality can only be attained through all forms of resistance and struggle against coercive institutions, including (and the list is long) states, armies, slavery, the wage system, the landlord system, prisons, monopoly capitalism, oligopoly capitalism, state capitalism, bureaucracy, meritocarcy, theocracy, governement, patriarchy, matriarchy, oligarchy, protection rackets, intimidation by gangsters and more. In other words, anarchism opposes government in all its forms, meaning the rigid prescriptions that are the rules of governance.
+
+By insisting, like many others before him and after him, that the Delhi Police register an FIR based on Mr Lochab’s complaints, Rahul Gandhi, contrary to doing the politics of anarchy, was as a matter of fact tyring to ensure the police followed the law, that is sections 181, 181 (1) and 185 of the Bharatiyta Nyay Sanhita, that deal with voluntarily causing hurt or grievous harm by using dangerous...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/why-calling-rahul-gandhi-anarchist-does-not-work-1984102)
 
 ---
 
