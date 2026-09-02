@@ -1,3 +1,742 @@
+## 2 September 2026
+
+### Goa tightens prison rules, 3-year jail term for phone possession inside jails
+*India Today News Desk · general*
+
+## The Goa Assembly has passed a new prisons bill that criminalises mobile phone use and contraband communication inside jails. The law signals a wider crackdown on organised crime, staff collusion and security lapses in prisons.
+
+Under the bill, no prisoner, visitor or prison official will be allowed to possess or use prohibited communication devices, bring in or take out banned articles, supply them to inmates or facilitate unauthorised communication. (Representative image)
+
+The Goa Assembly on Tuesday passed the Goa Prisons and Correctional Services Bill, 2026, making possession or use of mobile phones and other prohibited electronic communication devices inside prisons a cognisable and non-bailable offence.
+
+The offence will carry imprisonment of up to three years and a fine of up to Rs 25,000, with any sentence awarded to a prisoner beginning after the term already being served ends.
+
+Chief Minister Pramod Sawant tabled the bill in the House as a comprehensive law to replace the existing prison legislation and bring in tougher provisions against contraband, mobile phone use and organised criminal activities from within jails. The House later passed the bill by voice vote in the evening.
+
+Under the bill, no prisoner, visitor or prison official will be allowed to possess or use prohibited communication devices, bring in or take out banned articles, supply them to inmates or facilitate unauthorised communication. Prison officials who knowingly allow such activities will also face punishment.
+
+The legislation also proposes a minimum two-year jail term, extendable to three years, for possessing, operating or using electronic or wireless communication devices, their components or accessories inside prison premises.
+
+The provisions will also apply to those who assist, abet or instigate the supply of such devices, as well as those involved in manipulating, damaging or destroying prison equipment. Personnel posted in sensitive barracks and cells will be rotated periodically to prevent the development of "inmate-staff nexuses" and complacency. Goa has one central prison, located at Colvale village in North Goa district.
+
+The bill also provides for stronger intelligence gathering and surveillance of high-risk, hardened and habitual offenders to check gang activities, organised crime, witness intimidation and criminal operations from inside prisons. Prison authorities will gather intelligence, monitor inmates and analyse information in coordination with the State Police Intelligence Wing.
+
+High-risk barracks and cells will face periodic searches for contraband and mobile phones, along with surprise checks and the use of advanced jamming solutions. It also provides for reporting the release of high-risk, hardened or habitual offenders after completion of sentence, undertrials released on bail, and inmates released temporarily on parole or furlough to the district Superintendent of Police concerned for monitoring.
+
+The proposed law also empowers the government to set up open and semi-open correctional institutions to support rehabilitation and reintegration of prisoners into society. It covers prison management, prisoner discipline and security, contraband control, rehabilitation, skill development, vocational training, human rights and correctional services.
+
+The officer-in-charge of every prison will be responsible for maintaining discipline, while prisoners will have to obey lawful orders and follow the Act and rules framed under it.
+
+The bill draws from the Model Prisons and Correctional Services Act, 2023, circulated by the Union Ministry of Home Affairs, and seeks to consolidate prison-
+
+\- Ends
+
+India Today Web Desk
+
+Sep 2, 2026 10:04 IST
+
+---
+
+### UP Home Guard PET dates announced for 41,424 posts, test from September 8
+*Ashish Srivastava · general*
+
+## UP Home Guard PET for 41,424 posts under Recruitment 2025 will be held from September 8 to 15, 2026. September 16 is reserved for emergencies. PET admit cards will be released seven days before.
+
+UP Home Guard PET dates announced, exam for 41,424 posts from September 8 (File photo: ITGD)
+
+The Uttar Pradesh Police Recruitment and Promotion Board has announced that candidates who cleared the written examination for the recruitment of 41,424 Home Guard posts in Uttar Pradesh now have to appear for the Physical Efficiency Test (PET). The PET will be conducted from September 8 to September 15, 2026.
+
+The board has also designated September 16, 2026, as a reserve day. The reserve day will be used in case the examination is disrupted due to an emergency or any unforeseen circumstances.
+
+### UP HOME GUARD PET 2026 DATES
+
+According to the latest information released by the UPPRPB, candidates who successfully qualified for the written examination will now be required to participate in the PET as part of the recruitment process.
+
+The physical test will be conducted across the scheduled dates from September 8 to 15. Candidates should carefully check their individual exam date and centre details once the admit cards are released.
+
+### ADMIT CARD DETAILS
+
+The UPPRPB has stated that the PET admit cards will be uploaded to the board's official website approximately seven days before the respective examination date.
+
+Candidates will be able to download their admit cards through a link that will be made available on the UPPRPB website. They should keep their login credentials and other required details ready to avoid any last-minute inconvenience.
+
+Candidates are advised to check all details mentioned on the admit card, including the examination date, reporting time and venue, before appearing for the PET.
+
+### OTHER DETAILS
+
+The recruitment board has advised candidates to regularly visit the official UPPRPB website for further updates 
+
+All important notifications, instructions, and updates regarding the PET will be issued through the board's official website. Candidates should rely only on official notifications and avoid information circulating through unofficial sources or social media.
+
+\- Ends
+
+Karan Yadav
+
+Sep 2, 2026 10:02 IST
+
+---
+
+### Ather Konarc review, first ride: Can this be the electric scooter for the masses?
+*Abhinav Jakhar · general*
+
+## Ather's Konarc is less about chasing headline performance and more about making electric scooters feel familiar, comfortable and natural, while bringing the brand's engineering depth to a wider audience.
+
+Ather has spent years establishing itself as one of India’s most engineering-focused electric two-wheeler manufacturers, but the Konarc is arguably the scooter that matters most. Positioned as Ather’s attempt to make EVs genuinely mainstream, it sits alongside the performance-focused 450 range and family-oriented Rizta, but takes a different approach altogether. It is the first scooter to use Ather’s new EL platform, a modular architecture designed to be scalable across products and markets. With six Konarc variants spanning 100km to 200km of claimed IDC range, it is also Ather’s broadest attempt yet at reaching buyers who still aren’t convinced that an EV can replace a petrol scooter. That makes the Konarc considerably more important than its relatively straightforward appearance suggests. The design is clean and unmistakably Ather, but there is a greater emphasis on practicality than visual drama. The steel unibody chassis and metal rear panels are a first for an Ather scooter, while the long 1,352mm wheelbase and 14-inch front and 12-inch rear wheels are intended to give it a planted stance on Indian roads. There are also some nice touches, including illuminated Ather branding and animated wraparound lighting.
+
+The design remains distinctly Ather, with a clean aesthetic that prioritises practicality over visual flair.
+
+The features list is where the Konarc starts to demonstrate the thinking behind it. There is MagicKey, which allows keyless access and can automatically lock the scooter when you walk away, while AutoPop opens the seat remotely and holds it vertically for easier access. AirWalk is another clever addition, using the motor to provide a little assistance when manually pushing or pulling the scooter. These aren’t features designed to win a specification-sheet battle; they solve small, everyday annoyances. There is plenty more. The Konarc gets a 31-litre under-seat boot, USB Type-C charging, Bluetooth connectivity, Ather Connect, OTA updates, AutoHold, FallSafe and Park Assist.
+
+The higher variants feature a 7-inch touchscreen, while the S variant we tested gets a simpler 7-inch display.
+
+The higher variants get a 7-inch touchscreen, while the S variant I rode gets a more basic 7-inch display. The scooter also introduces Ather’s Advanced Electronic Braking System, which uses software, sensors and regenerative braking to dynamically alter the braking balance depending on road conditions.
+
+AutoPop remotely opens and holds the seat upright, while the Konarc offers a 31-litre under-seat boot.
+
+For our first ride experience, we rode the Konarc S with the 3.5kWh battery, essentially the 161km IDC-range version. On paper, its 70kmph top speed doesn’t sound particularly exciting, but that misses the point. The Konarc isn’t trying to be a sporty electric scooter. Its acceleration is smooth, progressive and deliberately familiar. Twist the throttle, and it builds speed gradually rather than firing forward with the instant shove that has become characteristic of many EVs. In fact, it feels remarkably close to riding a conventional petrol-powered scooter. And that, according to Ather, is precisely the point.
+
+The S variant of the Konarc comes with a fixed back rest.
+
+The 3.5kWh version is rated at 4.7kW (6.3bhp) and 16Nm in the specification sheet, with a claimed 0-40kmph time of 4.7sec and a 70kmph top speed mentioned earlier. What impresses more is the way the Konarc carries its weight. At around 129kg in the 3.5kWh specification, it is certainly not featherweight, but the weight is easy to manage.
+
+The Ather Konarc is powered by a hub motor delivering up to 6.3bhp and 16Nm of torque.
+
+Manoeuvring it around a parking lot or filtering through traffic doesn’t require much effort, and the predictable handling makes the Konarc approachable for riders making the switch to an EV for the first time. The long wheelbase and relaxed rake also contribute to stability without making it feel cumbersome.
+
+The acceleration is smooth and progressive, building speed gradually rather than delivering the instant shove typical of many EVs.
+
+The braking performance is another strong point. The variant I rode had a disc brake up front and a drum at the rear, and the braking action felt strong and confidence-inspiring. The lever response is progressive rather than grabby, which suits the Konarc’s overall character. The more sophisticated AeBS technology is reserved for higher variants, but the basic braking hardware works well. Ride quality, however, is where I expected more. The Konarc is certainly more comfortable than the Rizta, with better composure over broken surfaces and a generally more settled ride. Ather has given it 90mm of suspension travel at the front and 100mm at the rear, and the long-travel setup does take the edge off more gradual speed breakers. But there is still an underlying jitteriness over smaller imperfections. It isn’t uncomfortable, but considering Ather’s focus on making the Konarc a comfort-oriented mainstream scooter, I expected the ride quality to be a bigger step forward.
+
+The engineering underneath remains one of the Konarc’s biggest strengths. Its sequential gear-drive transmission is designed to deliver smooth, near-silent power delivery while reducing mechanical wear. The fifth-generation Bedrock battery gets a new 10-year/100,000km (extended) warranty option, while service intervals have been stretched to 10,000km or once a year. Charging has also been made simpler, with a 450W onboard charger integrated into the scooter. Add the optional 450W unit and combined charging rises to 900W, with Ather claiming up to a 50 per cent reduction in home charging time. And that really sums up the Konarc. Ather makes very well-engineered products, and the Konarc is no different. But instead of engineering an electric scooter primarily for enthusiasts, Ather has taken that expertise and applied it to what matters most to the average scooter buyer: ease of use, predictable performance, practicality, comfort, charging and ownership. It isn’t perfect, particularly in the ride-quality department, but as a first taste of Ather’s scalable EL platform, the Konarc makes a convincing case for itself.
+
+### Verdict
+
+The Konarc may not be Ather’s quickest or most sophisticated scooter, but its smooth performance, practicality, comfort and approachable nature could make it a mainstream success.
+
+The Ather Konarc S 161 with its 3.5kWh battery costs Rs 1.44 lakh (ex-showroom), while the range starts at Rs 99,999 for the S 100. It isn’t the quickest, most exciting or most sophisticated Ather, but it may be the most important. The smooth power delivery, manageable size, strong brakes, useful features and improved comfort make it feel like a genuinely approachable alternative to a petrol scooter. I expected better ride quality, but the Konarc still gets many of the fundamentals right. More importantly, it feels like a product engineered around what mainstream buyers actually need. It has left a good impression, and only time will tell if the Konarc can be a hit for the Bengaluru-based brand in the near future.
+
+****Subscribe to Auto Today Magazine****
+
+\- Ends
+
+Sep 2, 2026 10:00 IST
+
+---
+
+### Vijay govt, DMK clash over Rs 5 lakh bribe claim for fireworks unit licence
+*Apoorva Jayachandran · general*
+
+The Tamil Nadu Assembly witnessed a sharp face-off over fireworks licences, after Industries Minister Selvi S Keerthana alleged that the previous DMK government charged Rs 3 lakh to Rs 5 lakh in bribes for a single licence. The DMK swiftly turned the charge back on the ruling TVK, asking whether licence renewals under the present government were also being granted after alleged payments.
+
+The exchange, which happened on Tuesday, escalated into a broader war of allegations, with both sides citing claims purportedly made by fireworks industry associations. While Keerthana said the TVK government had renewed licences for 177 fireworks factories without taking money, DMK leader Thangam Thennarasu alleged that associations had accused the present government of taking bribes for renewals and approvals.
+
+During the Assembly proceedings on Tuesday, Industries Minister Selvi S Keerthana accused the previous government of widespread corruption in the licencing process.
+
+"There was so much corruption even in issuing licences for fireworks. Truly, it was rampant. To get a single licence, they took Rs 3 lakh to Rs 5 lakh,” she alleged.
+
+The minister then contrasted the alleged practices under the previous government with the TVK administration's handling of licence renewals.
+
+"Today, across 177 fireworks factories, without taking a single rupee," she said, before referring to the industry's response to the government's actions.
+
+Keerthana said there were five owners' associations representing the fireworks sector and claimed that representatives of all five had appreciated the government's handling of the licencing process.
+
+"There are five owners' associations, and all five associations have come and said, 'Thank you so much, madam. We have never seen governance like this'. That kind of reputation and credit goes entirely to our Chief Minister today," she said.
+
+### DMK CHALLENGES MINISTER
+
+Former minister and DMK leader Thangam Thennarasu responded by turning the minister's allegation back on the TVK government.
+
+He referred to claims by the government that it had quickly processed the renewal of licences that had previously been held up.
+
+"Now they (TVK) are claiming, 'we have immediately processed all the renewals for those licences that had been put on hold; renewal is currently underway, and we are the ones who granted renewals to everyone,'" Thennarasu said, presenting what he described as allegations made by associations against the present government.
+
+"The Honourable Minister had said that day that despite having issued all these renewals, the Member is still raising these allegations here," he said.
+
+He then posed a direct question to Keerthana.
+
+"Now, I ask this. Certain associations have come and told me that you granted all those renewals only after taking money from everyone. Just as you claimed that some people approached you, certain associations and pharmacists are coming to us and alleging that you took bribes for all the renewals and approvals you have been issuing. Do you accept this?" Thennarasu asked.
+
+Minister Keerthana then rejected the suggestion that she herself had made the specific allegation about bribes being paid for renewals.
+
+Responding to Thennarasu, she said the claim had come from members of an association and that she had received documentary evidence from them by email.
+
+"I did not utter that word. From the association there, all the owners from that association, even now, I am not uttering that word. People from the association came and stated it," she said.
+
+She even added that the association members had emailed her evidence to support their claim.
+
+"They have sent me the evidence for that via email. If needed, I will submit that evidence. The owners from that association have emailed me the evidence. I am not the one saying this," Keerthana said in the Assembly.
+
+The exchange has turned the licencing of fireworks manufacturing units into a fresh political flashpoint in Tamil Nadu, with the ruling TVK using the issue to allege corruption under the previous DMK administration, while the DMK has sought to put the current government on the defensive by raising counter-allegations about licence renewals.
+
+\- Ends
+
+Sep 2, 2026 09:58 IST
+
+---
+
+### Taiwan says its companies plan to invest another $20 billion in US
+*anies plan · business*
+
+TAIPEI, Taiwanese companies are planning another $20 billion of investments in ​the U.S. driven by demand for ​AI applications, the island's economy minister said on Wednesday ​without giving details, though drawing a warm response from a visiting U.S. official.
+
+The U.S., which is Chinese-claimed Taiwan's most important international backer and arms supplier despite the lack ‌of formal diplomatic ⁠ties, ⁠has pushed Taiwanese technology companies to ramp up their investments as part of a U.S. effort to get more domestic semiconductor manufacturing.
+
+  
+
+Speaking at the opening of the U.S. ​pavilion at the SEMICON trade show in Taipei, Taiwan Economy Minister Kung Ming-hsin said Taiwanese companies were "very actively" investing in the U.S.
+
+Since May, when Taiwan ​attended the SelectUSA Investment Summit, Kung said the ⁠ministry had ‌conducted a new assessment of which companies, aside from ​major chipmaker ​TSMC, might want to further their investments in the ⁠country, and the result was an extra $20 billion.
+
+AI and ​chip orders were "extremely lively", which is what is drawing this ​interest, Kung added, though he did not give details of which companies he was talking about.
+
+TSMC announced in July a further $100 billion investment in the U.S. state of Arizona, bringing the total planned investment to $265 billion.
+
+Speaking at the same event as Kung, a U.S. Commerce Department ‌official who oversees the government programme to boost domestic semiconductor manufacturing, called the CHIPS Act, welcomed the announcement.
+
+"It demonstrates our ​continued shared ​commitment to a secure, ⁠resilient and innovative semiconductor and electronics supply chain," said Bill Frauenhofer, executive director of semiconductor investment and innovation at the department.
+
+"These projects will strengthen critical ​technology capabilities in the U.S. and advance innovations that will shape our collective future for decades to come."
+
+U.S. President Donald Trump has on occasion criticised Taiwan for "stealing" American semiconductor business, a perception Taiwan's government says is unfair even as it has backed its companies to increase their U.S. investments.
+
+---
+
+### Bessent says 19 finance ministers agreed 'cheap exports' are unsustainable, but China dissented
+*SECTIONS Bessent says · business*
+
+Asheville: Treasury Secretary Scott Bessent said Tuesday that 19 of the members of the G20 had agreed to address streams of "cheap exports" that cause global economic imbalances, but said China had dissented.
+
+Bessent made his comments at the end of a two-day meeting with finance ministers and central bankers where he tried to focus on growth, telling reporters he had urged some of his G20 counterparts to take a page from the Trump administration's playbook of using tariffs and other measures to crack down on trade imbalances.
+
+  
+
+"We believe that non-market-based economies pushing out a never-ending stream of cheap exports is not sustainable," Bessent told reporters. describing the sentiment that all but one G20 member had agreed to.
+
+"It is clear that the country with the world's largest and unsustainable current account surplus, the People's Republic of China, was the dissenter," Bessent said.
+
+The Trump administration, echoing many economists, has blamed China for trade imbalances that have left it with a large trade surplus while the U.S. has a sizable deficit. At the closing press conference Tuesday, Bessent also previewed the upcoming meeting between President Donald Trump and China's President Xi Jinping.
+
+He told reporters he had warned other nations at the beginning of Trump 's second term that the new U.S. "tariff wall" would mean that Chinese goods would flood their markets.
+
+"And unfortunately, I was right," Bessent said. "The rest of the world probably needs to take a hard look at what they should be doing to protect their citizens' jobs, their manufacturing base, so that everything they do doesn't get offshored."
+
+He also said Trump and Xi would discuss artificial intelligence policy when they meet later this month, saying more guardrails were needed to prevent "non-state actors" from building their own models.
+
+After the press conference, Trump posted on his social media site that "very productive and positive conversations were had" during the G20 meetings. He added, "Other Countries should follow our lead."
+
+The Trump administration's tariff policies have been criticized by economists and politicians for raising costs for U.S. consumers and, in many cases, for punishing allies. The Tax Foundation, an independent think tank, found that the tariffs imposed by the Trump administration throughout 2025 raised the overall retail price of imported consumer goods by roughly 7% relative to pre-tariff trends.
+
+Ultimately, the U.S. Supreme Court in February decided that the sweeping global tariffs that Trump imposed under an emergency powers law were unconstitutional. The Trump administration has been overhauling its approach, and is eyeing an additional 7.5% tariff on Chinese imports after investigating alleged excess industrial capacity and forced-labor regulations.
+
+Bessent says US and China found some common ground on Iran
+
+Bessent met with his counterparts from China at the summit and said there was some common ground on Iran, specifically that Iran "cannot have a nuclear weapon" and that oil and other goods should flow freely through the Strait of Hormuz, which Iran has restricted.
+
+Bessent has said China's trade surplus, which reached a record-high $1.2 trillion in 2025, is a barrier to global economic growth - as well as what he calls excessive regulation.
+
+Global debt has reached a record high of $353 trillion, with the U.S. debt reaching a record $40 trillion in August. Markets have been concerned about a sell-off in U.S. government bonds, but Bessent told reporters, "I don't think we're in any kind of dire situation" on bond markets.
+
+Meanwhile, the presence of Russian Finance Minister Anton Siluanov continued to agitate attendees of the conference. Siluanov met with Bessent on Monday on the sidelines of the meeting, but was not included in the traditional "family photo" of ministers.
+
+Canadian Finance Minister Francois-Philippe Champagne said Russia's attendance at the G20 meeting "created a lot of discomfort around the table, not only from Canada, but from colleagues around the table."
+
+"We have made sure our discomfort is being heard by colleagues with respect to who is in attendance at the meeting," Champagne said.
+
+The European Commissioner for the Economy, Valdis Dombrovskis, said during a press conference Tuesday that it is not the time to "normalize" relations with Russia.
+
+Bessent defended the inclusion of Siluanov, arguing that "if the sides don't talk, if we are not engaged, then how can it be solved?"
+
+"I know that some Europeans had a sour taste" about the invitation, Bessent said. "If both fighters go in a corner, then there will never be a resolution to this horrible conflict," he said.
+
+---
+
+### UN says world must navigate 'reality' of 1.5C overshoot
+*SECTIONS UN says world must navigate · business*
+
+Synopsis
+
+A United Nations report details managing global temperatures after exceeding the 1.5C target. Scientists agree warming above this level poses grave risks to the planet. The challenge has shifted from avoiding overshoot to navigating its consequences. Carbon dioxide removal is essential alongside deep emission cuts for recovery.
+
+UN outlines pathways to restore global temperatures to 1.5°C after the climate target is breached.  
+
+The United Nations outlined Wednesday how the world might bring global temperatures back to 1.5C once the milestone target is breached in a first-of-its-kind assessment that drew criticism from climate activists.
+
+UN Secretary General Antonio Guterres last year acknowledged the inevitability of overshooting 1.5C but this is the first time a UN agency has addressed this head-on in a dedicated report.
+
+Scientists agree that warming above 1.5C relative to pre-industrial times poses grave risks and nearly 200 nations committed in 2015 to try and keep global temperature rises to this safer threshold.
+
+  
+
+But the world is expected to blow past 1.5C in a matter of years and attention has pivoted to making any "overshoot" as brief and contained as possible.
+
+In a much-anticipated report, the UN Environment Programme (UNEP) stated unequivocally that 1.5C would be surpassed and "the challenge has shifted from avoiding overshoot to navigating it".
+
+"It's a reality check. We have to live with this warmer world... but there's still a lot we can do to limit warming," said report co-author Richard Betts from the University of Exeter.
+
+The report "was about responses rather than just sort of saying it is happening", he told journalists.
+
+Fellow author Debra Roberts said it was important for policymakers "to realise the rules of the game are now changing".
+
+"I think for me that's the clarion call... we now have to reconfigure our climate governance around dealing with an overshoot pathway. None of our plans are prepared for that," said Roberts from the University of KwaZulu-Natal.
+
+**Dismay**
+
+The report's stark language alarmed climate campaigners who have rallied around 1.5C since it was affirmed as the more ambitious goal of the Paris Agreement a decade ago.
+
+"This is a heartbreaking moment, but overshoot is not the reason to give up and surrender 1.5C", said Jasper Inventor, Deputy Programme Director at Greenpeace International.
+
+Bill Hare, a climate scientist and CEO of policy institute Climate Analytics, slammed the report and said it risked becoming "a call to apathy rather than a call to arms".
+
+Small island nations threatened by rising seas have been particularly vocal defenders of the 1.5C target and have urged wealthier countries not to abandon the milestone even as it slips out of reach.
+
+The world has already warmed roughly 1.4C since 1850-1900 mostly from the burning of fossil fuels and the last three years have been the hottest on record.
+
+**No good outcomes**
+
+Scientists say any overshoot of 1.5C threatens more extreme weather and pushes the planet closer to tipping points like the collapse of ice sheets and loss of coral reefs.
+
+UNEP executive director Inger Andersen said there "are no good outcomes if we remain above 1.5C". "Let's be very clear - that 1.5C target is still the goal. But now, we need to approach it differently: from above," Andersen told journalists.
+
+Guterres it was possible to bring warming back below 1.5C by the end of the century.
+
+"The fight for 1.5 degrees is the fight for humanity," he said.
+
+To achieve this, carbon dioxide removal - the process of pulling carbon from the air and storing it - would be essential alongside deep and rapid cuts to greenhouse gas emissions, the UNEP report said.
+
+At present, carbon removal plays a vanishingly small part in addressing climate change and is strongly opposed by many activists pushing for a faster phase out of coal, oil and gas.
+
+"The only way to minimise harm is to cut emissions now... not to delay action with speculative techno-fixes," said Lili Fuhr from campaign organisation CIEL.
+
+---
+
+### Shehnaaz Gill says she has ‘betrayed’ in love when her emotional needs weren’t met
+*Lifestyle Desk · legal*
+
+Shehnaaz went on to articulate what she looks for in a partner: “I want my partner to be understanding, open-minded, and independent.”
+
+[Read full article](https://indianexpress.com/article/people/shehnaaz-gill-betray-partner-feeling-emotionally-unfulfilled-relationship-10351383/)
+
+---
+
+### NC, BJP to stage counter protests in Srinagar; security tightened
+*Pti · business*
+
+Srinagar: Police and security forces were deployed in large numbers at Lal Chowk and Jawahar Nagar here on Wednesday to maintain law and order in view of the BJP plan to gherao the Civil Secretariat and the ruling National Conference's plan to stage a counter protest outside the office of the national party.
+
+Roads leading to the BJP office at Jawahar Nagar have been sealed to prevent any unruly gathering, while all entry points to Ghanta Ghar at Lal Chowk have been put off limits to all vehicles, the officials said.
+
+The BJP has asked its workers to assemble at Ghanta Ghar before they march towards the Civil Secretariat across the Budshah Bridge over River Jhelum, while the National Conference has asked its workers to gather outside Gindun Sports Complex at Rajbagh for the march towards the BJP's office.
+
+  
+
+While the NC will gherao the BJP headquarters in Jammu and Srinagar over statehood issue, the BJP's gherao of the Civil Secretariat here is over the Omar Abdullah government's alleged failure to fulfil its electoral promises.
+
+The NC announced that it will gherao the opposition BJP headquarters in Jammu and Srinagar, demanding accountability for the promises the Union government made in Parliament and the Supreme Court regarding the restoration of statehood.
+
+The NC's protest announcement comes in response to the BJP's secretariat gherao plan for Wednesday to protest against the alleged failure of the Omar Abdullah government to deliver on the promises made by it during the election campaign in 2024.
+
+The BJP, the principal opposition party in Jammu and Kashmir, had originally planned its secretariat gherao on July 20 but postponed it due to NC holding a peaceful sit-in at Jantar Mantar in Delhi to press for restoration of statehood to J-K.
+
+A BJP spokesperson said the youth of J-K are asking questions which the NC government must answer.
+
+"On September 2, we shall raise the concerns over alleged backdoor appointments, job outsourcing, unemployment, corruption and unfulfilled commitments outside the Civil Secretariat, Srinagar," he said.
+
+The spokesperson said the youth of Jammu and Kashmir deserve jobs and transparency in the appointments.
+
+Jammu and Kashmir was reorganised into the Union Territories of Jammu and Kashmir, and Ladakh in August 2019 following the abrogation of Article 370.
+
+In December 2023, the Supreme Court upheld the constitutional validity of the Centre's decision, observing that statehood should be restored as soon as possible.
+
+---
+
+### Nirmala Sitharaman, World Bank chief Ajay Banga hold meeting, discuss deepening cooperation
+*Pti · business*
+
+Washington: Finance Minister Nirmala Sitharaman has met World Bank President Ajay Banga and discussed further strengthening the partnership between India and the international finance institution to deepen corporate, infrastructure and municipal bond markets.
+
+Sitharaman met Banga on the sidelines of the G20 Finance Ministers and Central Bank Governors (FMCBG) Meeting, in Asheville, on Tuesday.
+
+The Union Finance Minister appreciated the World Bank Group's continued engagement with India and acknowledged the speedy processing of the Development Policy Financing (DPF) of USD 1.5 billion," a Finance Ministry statement said.
+
+  
+
+It said Sitharaman appreciated the International Finance Corporation's (IFC) support to MSMEs through SIDBI, which was processed in record time and has had a positive impact on the MSME sector.
+
+"The two leaders discussed further strengthening the India-World Bank Group partnership, including exploring a larger role for MIGA (Multilateral Investment Guarantee Agency) in India to deepen corporate, infrastructure and municipal bond markets through systematic use of guarantees and greater mobilisation of private capital," the Finance Ministry said.
+
+It said the discussions also covered a sector-based, programmatic approach to credit enhancement for infrastructure.
+
+Banga appreciated the significant transformation in India's infrastructure and noted the opportunities to further leverage the World Bank Group's instruments to support India's development ambitions, including through MIGA's engagement and political risk insurance for Indian companies investing overseas, the statement said.
+
+Sitharaman also highlighted India's engagement with the World Bank Group on establishing a Global Digital Public Infrastructure Knowledge Hub in India, including exploring opportunities to leverage technology in areas such as agriculture, and looked forward to early progress towards its launch.
+
+The Union Finance Minister also discussed developing globally competitive tourism destinations under the new India-World Bank Group Country Partnership Framework, through a coordinated approach combining International Bank for Reconstruction and Development (IBRD) policy and infrastructure support, IFC investment and MIGA guarantees, it said.
+
+The two leaders further discussed evolving the partnership from a traditional lender-borrower relationship towards a strategic platform for global knowledge, innovation and private capital mobilisation, combining India's scale and implementation capacity with the World Bank Group's global expertise and financing instruments, the Finance Ministry statement said.
+
+---
+
+### Mumbai CEO spent 7 days with no money for food at 18. What he learnt stayed with him
+*India Today Trending Desk · general*
+
+## A Mumbai-based startup founder shared a LinkedIn post detailing how, at 18, he survived for seven days on bread and water without money for food. He said the experience changed how he sees risk and failure.
+
+A Mumbai-based founder's LinkedIn post about hitting rock bottom has gone viral. (Photos: LinkedIn/Abhishek Agarwal)
+
+Mumbai-based founder Abhishek Agarwal once hit a point where even food was unaffordable. Seven days of bread and water at 18, he says, gave him something unexpected; the courage to stop fearing rock bottom.
+
+Agarwal, founder of The Deliberate Pause, revisited those days in a post on LinkedIn, calling them one of the most difficult and, in hindsight, most important periods of his life.
+
+“I was broke as f\*\* when I was 18,” he wrote. But he was quick to distinguish his experience from the everyday inconveniences people often associate with being short of money.
+
+“I don’t mean the kind of broke where you can’t afford the vacation you wanted, or you have to wait until next month to buy something. I mean actually broke. Broke for education, broke for food!”
+
+For seven days, food was a struggle. “So I ate bread and drank water. That was pretty much it,” Agarwal recalled.
+
+The hunger has stayed with him, but so has something deeper.
+
+“I remember the hunger, but I think what stays with me more is the helplessness of it,” he wrote.
+
+Yet, looking back, Agarwal believes those seven days gave him something that comfort never could: the knowledge that even at his lowest point, he could make it through.
+
+“I found out what having almost nothing felt like. And I also found out something I couldn’t have known otherwise: I could survive it!!!”
+
+That realisation, he said, has quietly stayed with him through the risks and setbacks that followed, from business failures and financial uncertainty to rejection and plans falling apart.
+
+It is why he believes everyone needs their own “most broke” moment. But Agarwal was careful not to romanticise hardship.
+
+“Not because poverty is noble. It isn’t. Not because suffering automatically makes you stronger. It doesn’t," he said.
+
+For him, the value lies elsewhere: in the courage that comes from discovering your own ability to withstand uncertainty. “There is a certain kind of courage that only comes from hitting rock bottom,” he wrote.
+
+**See the post:**
+
+A LinkedIn user echoed that thought, writing that the real lesson was not about being broke, but about discovering that circumstances can become worse without leaving you helpless.
+
+For Abhishek Agarwal, those seven days were about more than hunger. They became proof that even when everything feels uncertain, survival itself can become a source of courage.
+
+\- Ends
+
+Srimoyee Chowdhury
+
+Sep 2, 2026 09:45 IST
+
+---
+
+### Tamil Nadu temple mobile ban: Vijay govt restricts phone entry at 50+ temples, Rs 5 to be charged for deposit
+*Trending Desk · business*
+
+Devotees visiting major temples in Tamil Nadu will no longer be allowed to carry their mobile phones inside temple premises from September 1, as part of a new move to preserve the sanctity of religious spaces and curb photography and social-media content.
+
+The Hindu Religious and Charitable Endowments (HR&CE) department has instructed temple authorities to set up designated counters where devotees can deposit their phones before entering. The devices will be kept in safe custody and returned after darshan.
+
+  
+  
+
+### ₹5 fee for depositing mobile phones
+
+Devotees depositing a mobile phone will have to pay ₹5 per device. Temple authorities will issue a receipt for the deposited phone. The department has asked temples to put employees or volunteers in charge of the counters. They will have to maintain proper records of the phones received and handed back to devotees.The arrangement is intended to ensure that devotees can retrieve their phones without confusion or delay.
+
+## Tamil Nadu Temples Mobile Ban List
+
+District
+
+Temple
+
+**Chennai**
+
+Kapaleeswarar Temple, Mylapore
+
+Vadapalani Andavar Temple
+
+Parthasarathy Swamy Temple, Triplicane
+
+Vadivudai Amman Temple, Tiruvottiyur
+
+Thyagarajaswamy Temple, Tiruvottiyur
+
+**Tiruvallur**
+
+Devi Karumariamman Temple, Thiruverkadu
+
+Bhavani Amman Temple, Periyapalayam
+
+Veeraraghava Temple, Tiruvallur
+
+Subramania Swamy Temple, Tiruttani
+
+**Kancheepuram**
+
+Murugan Temple, Kundrathur
+
+Kamakshi Amman Temple, Mangadu
+
+Subramania Swamy Temple, Vallakottai
+
+Kamakshi Amman Temple, Kanchipuram
+
+Varadaraja Perumal Temple, Kanchipuram
+
+Ekambareswarar Temple, Kanchipuram
+
+**Madurai**
+
+Meenakshi Sundareswarar Temple
+
+Subramania Swamy Temple, Tirupparankundram
+
+Kallalagar Temple, Alagarkoil
+
+**Dindigul**
+
+Dhandayuthapani Swamy Temple, Palani
+
+**Thoothukudi**
+
+Subramania Swamy Temple, Tiruchendur
+
+**Tiruvannamalai**
+
+Arunachaleswarar Temple
+
+**Tiruchirappalli**
+
+Mariamman Temple, Samayapuram
+
+Ranganathaswamy Temple, Srirangam
+
+**Tirunelveli**
+
+Nellaiappar Temple
+
+**Kanyakumari**
+
+Thanumalayan Swamy Temple, Suchindram
+
+**Coimbatore**
+
+Koni Amman Temple
+
+Marudamalai Subramaniyaswamy Temple
+
+**Salem**
+
+Kottai Mariamman Temple
+
+**Ramanathapuram**
+
+Ramanathaswamy Temple, Rameswaram
+
+**Tenkasi**
+
+Tirumalai Kumaraswamy Temple, Panpoli
+
+Tirukutralanathar Temple, Courtallam
+
+**Erode**
+
+Bannari Mariamman Temple, Sathyamangalam
+
+Sangameswarar Temple, Bhavani
+
+**Ranipet**
+
+Lakshmi Narasimha Swamy Temple, Sholinghur
+
+**Thanjavur**
+
+Brihadeeswarar/Peruvudaiyar Temple
+
+**Cuddalore**
+
+Sathya Gnana Sabha–Vallalar Deiva Nilayam, Vadalur
+
+  
+
+### No photography, videography or reels inside temples
+
+The decision comes amid concerns over the increasing use of mobile phones inside temple premises for taking photographs, recording videos and making social-media reels. Temple staff have been directed to stop unauthorised photography and videography. The restrictions will also apply when VIPs and other dignitaries visit temples.
+
+However, photography or videography involving VIPs and dignitaries can be allowed if prior permission has been obtained. The department's focus is not limited to mobile phones. Temple authorities have also been told to ensure that unauthorised recording does not take place inside the premises.
+
+  
+
+### Tamil Nadu temples may get new queue systems
+
+The mobile phone restriction was among several issues discussed in the Tamil Nadu Assembly.
+
+During question hour on Monday, HR&CE minister C Ramesh said the government is examining queue management systems for major temples. The aim is to make the movement of devotees smoother, particularly at temples that witness large crowds.
+
+The government is also considering changes to entry and exit routes at major temples. Better crowd movement, the minister said, would help devotees get darshan without unnecessary obstruction.
+
+### Preparations begin for 2028 Mahamaham
+
+The state has also started preparations for the 2028 Mahamaham festival in Kumbakonam. According to the minister, a review meeting has already been conducted through the district collector, with officials from different government departments taking part.
+
+The preparations are expected to involve coordination among various departments as the festival draws large numbers of devotees to Kumbakonam.
+
+For now, the immediate change for visitors to major temples is the mobile phone rule. From September 1, devotees will need to leave their phones at designated counters before proceeding inside.
+
+---
+
+### Afghanistan vs India T20I Series 2026: Full schedule, squads, dates, timings, venue and key players to watch
+*Trending Desk · business*
+
+The Afghanistan vs India T20I series 2026 is set to bring the two sides face-to-face in a three-match bilateral contest in September. Afghanistan will host India for the series, but all three matches will be played in New Delhi at the Arun Jaitley Stadium. The series is scheduled from September 13 to September 17, with matches taking place on September 13, 15 and 17.
+
+## Afghanistan vs India T20I Series 2026: Full Schedule
+
+All three matches will be played at the Arun Jaitley Stadium in Delhi. Each game is scheduled to begin at 7:00 PM IST.
+
+  
+
+Match
+
+Date
+
+Day
+
+Venue
+
+Time
+
+1st T20I
+
+September 13, 2026
+
+Sunday
+
+Arun Jaitley Stadium, Delhi
+
+7:00 PM IST
+
+2nd T20I
+
+September 15, 2026
+
+Tuesday
+
+Arun Jaitley Stadium, Delhi
+
+7:00 PM IST
+
+3rd T20I
+
+September 17, 2026
+
+Thursday
+
+Arun Jaitley Stadium, Delhi
+
+7:00 PM IST
+
+## Afghanistan vs India: Arun Jaitley Stadium To Host All Three Matches
+
+The Arun Jaitley Stadium in New Delhi will be the sole venue for the entire series. The first T20I will be played on September 13, followed by the second on September 15 and the third on September 17. Hosting all three matches at one venue gives both teams the opportunity to become familiar with the playing conditions.
+
+  
+
+India’s squad: Shreyas Iyer \[C\], Abhishek Sharma, Vaibhav Sooryavanshi, Sanju Samson \[WK\], Ishan Kishan \[WK\], Tilak Varma \[VC\], Shivam Dube, Nitish Kumar Reddy\*, Axar Patel, Washington Sundar\*, Varun Chakaravarthy, Ravi Bishnoi, Jasprit Bumrah\*, Arshdeep Singh, Harshit Rana\*
+
+NOTE: \* Subject to fitness clearance
+
+**India’s Wicketkeeping Options**
+
+Sanju Samson and Ishan Kishan are the two wicketkeepers included in India’s squad, giving the team two options behind the stumps for the T20I series.
+
+**Strong Batting Line-Up**
+
+India have several batting choices, with Abhishek Sharma, Vaibhav Sooryavanshi, Shreyas Iyer, Tilak Varma and Shivam Dube among the players available to strengthen the top and middle order.
+
+**All-Rounders Add Depth**  
+The all-rounders’ group features Shivam Dube, Nitish Kumar Reddy, Axar Patel and Washington Sundar. Their ability to contribute with both bat and ball gives India additional flexibility when selecting the playing XI.
+
+**Varun Chakaravarthy And Ravi Bishnoi Lead Spin Attack**  
+Varun Chakaravarthy and Ravi Bishnoi are the two specialist spinners in the squad. Both provide India with different options in the spin department and could play a key role depending on the conditions.
+
+**Bumrah, Arshdeep And Harshit Form Pace Unit**  
+Jasprit Bumrah, Arshdeep Singh and Harshit Rana make up the specialist pace-bowling group. The trio provides a combination of experience, variation and attacking options for India.
+
+**Four Players Subject To Fitness Clearance**  
+Jasprit Bumrah, Nitish Kumar Reddy, Washington Sundar and Harshit Rana are subject to fitness clearance. Their availability could influence India’s final combination and playing XI for the Afghanistan T20I series.
+
+Afghanistan squad: Mohammad Nabi, Gulbadin Naib, Rashid Khan, Naveen-ul-Haq, Azmatullah Omarzai, Ibrahim Zadran (Captain), Mujeeb Ur Rahman, Darwish Rasooli, Nangeyalia Kharote, Fazalhaq Farooqi, Rahmanullah Gurbaz (Wicketkeeper), Sediqullah Atal, Noor Ahmad, Noor ul Rahman (Wicketkeeper), Abdullah Ahmadzai
+
+---
+
+### From Sainik School to IAF education: Air Vice Marshal Shakti Sharma's historic journey
+*India Today Education Desk · general*
+
+## Shakti Sharma has made history as the first woman officer from the non-medical branch to attain the rank of Air Vice Marshal. Her appointment as Assistant Chief of the Air Staff (Education) in the Indian Air Force marks a distinguished career spanning education, leadership and institution-building.
+
+Air Vice Marshal Shakti Sharma is the first woman officer from the non-medical branch to reach the rank and lead IAF Education. (Photo: X/@IAF\_MCC)
+
+In a historic first for India’s defence services, Air Vice Marshal Shakti Sharma has become the first woman officer from the non-medical wing to attain the rank of Air Vice Marshal or equivalent. On September 1, 2026, Sharma was promoted to the rank and appointed Assistant Chief of the Air Staff (Education).
+
+Her achievement marks another significant milestone in the growing presence of women in senior leadership roles across India’s armed forces. With a career spanning more than three decades, Sharma has served at training establishments, air stations, Command Headquarters and Air Headquarters, gaining extensive experience in military education, training and institutional development.
+
+### COMMISSIONED INTO THE IAF IN 1994
+
+Sharma was commissioned into the Education Branch of the Indian Air Force on June 18, 1994. Over the course of her career, she has held a range of appointments involving education, training and professional development.
+
+Her work has also focused on strengthening links between the armed forces and academic institutions.
+
+One of her notable contributions was the establishment of IAF Chairs of Excellence at IIT Kanpur and Pune University. The initiatives helped promote academic and strategic collaboration between the Indian Air Force and leading higher-education institutions.
+
+### FIRST WOMAN OFFICER TO LEAD A SAINIK SCHOOL
+
+Sharma had already broken new ground before reaching the rank of Air Vice Marshal.
+
+She became the first woman officer from the three services of the Indian Armed Forces to command a Sainik School, serving as Principal of Sainik School Kapurthala.
+
+The CBSE-affiliated residential school focuses on academics, discipline, leadership and preparing students for future careers, including opportunities in the armed forces.
+
+During her tenure, Sharma worked closely with students and encouraged them to consider careers in the defence services.
+
+### NOW RESPONSIBLE FOR IAF EDUCATION
+
+As Assistant Chief of the Air Staff (Education), Sharma will oversee education-
+
+Her new appointment places her in a key position to guide educational initiatives and contribute to the development of personnel across the force.
+
+### FROM EDUCATION BRANCH TO AIR VICE MARSHAL
+
+Sharma's elevation highlights both her career and the growing role of women in India's defence services. From joining the Education Branch in 1994 to leading a Sainik School and taking on senior leadership roles, her journey reflects expertise, perseverance and institution-building.
+
+Her rise to Air Vice Marshal marks a significant milestone for women in the armed forces and offers an example for those entering defence services today.
+
+\- Ends
+
+Apoorva Anand
+
+Sep 2, 2026 09:42 IST
+
+---
+
+### DU women students hold midnight march over alleged Greater Noida gang-rape, seek safer campuses
+*SECTIONS DU women students hold midnight march over alleged Greater Noida gang-rape · business*
+
+Several women students of Delhi University took out a midnight protest march on late Tuesday against the alleged gang-rape of a 16-year-old girl on a bus she boarded in Greater Noida, demanding safer public spaces for women while opposing restrictions on their freedom.
+
+The march, organised by the Students' Federation of India (SFI) under its 'Reclaim the Night' campaign, also saw the release of the organisation's Women Students' Manifesto ahead of the Delhi University Students' Union (DUSU) elections.
+
+  
+
+The midnight march came amid outrage over the alleged gang-rape of the 16-year-old girl on a bus she boarded in Greater Noida.
+
+The manifesto puts women's safety, representation and gender justice at the centre of its demands. Among other measures, it calls for voting rights for students of all women's colleges in DUSU elections and 50% reservation for women in the union's office-bearer positions.
+
+The SFI has also sought safe and affordable women's hostels without discriminatory curfews, functional Internal Complaints Committees with student representation, and accessible menstrual hygiene facilities across university campuses.
+
+The manifesto further calls for stronger emergency support systems, the deployment of women police personnel on campuses, and an end to moral policing and gender-based harassment.
+
+It also seeks measures to prevent women students from dropping out, greater access to scholarships and fellowships, gender-sensitive curricula and regular independent safety audits across Delhi University campuses.
+
+The protesters said women's safety should not come at the cost of their freedom. They opposed restrictions that require women students to remain indoors after dark, arguing that safer public spaces should not be created by limiting women's mobility.
+
+
+---
+
 ## 1 September 2026
 
 ### Living in Brazil, billing a Goa company? This is how India will tax professional income of NRIs | Mint
