@@ -1,3 +1,405 @@
+## 3 September 2026
+
+### Op Sindoor Battle To Ayodhya's Sacred Soil: A Look At New Ram Temple Trust CEO Jeetendra Mishra's Journey
+*Meemansa Shekhawat · general*
+
+Air Marshal (retd.) Jeetendra Mishra has been appointed the first full-time CEO of Shri Ram Janmabhoomi Teertha Kshetra Trust
+
+[Read full article](https://www.news18.com/india/op-sindoor-battle-to-ayodhyas-sacred-soil-a-look-at-new-ram-temple-trust-ceo-jeetendra-mishras-journey-ws-l-10307435.html)
+
+---
+
+### Gold prices rise 2,300/10 gram in 2 days; silver gains Rs 3,300/kg as yields, dollar soften. Key levels to watch
+*Veer Sharma · gold, commodity*
+
+Gold and silver prices opened higher for a second session on the Multi Commodity Exchange (MCX) on Thursday after the US dollar softened and bond yields eased. Attention now turns to US nonfarm payrolls data, which could influence expectations for the Federal Reserve’s next policy decision.
+
+In the domestic market, MCX silver futures for September 2026 delivery were up Rs 2,460 at Rs 2,38,726 per kg. Gold futures for October 2026 delivery rose Rs 1,600 to Rs 1,53,995 per 10 grams. Over two days, silver has gained more than Rs 3,000, while gold is up Rs 2,300 per 10 grams.
+
+The closely watched US nonfarm payrolls report is due on Friday. Ahead of the data, the ADP National Employment Report showed that private payrolls in the US rose less than expected in August.
+
+A mixed report released by the Federal Reserve on Wednesday showed that US economic activity expanded modestly in recent weeks, while employment increased slightly and prices rose moderately. The report may provide limited direction to policymakers as they consider whether to raise interest rates at their September 15-16 meeting.
+
+Markets are currently pricing in a 62% probability of a US rate hike this month, according to the CME FedWatch Tool. Gold is traditionally viewed as a hedge against inflation, but higher interest rates increase the opportunity cost of holding the non-yielding asset.
+
+Geopolitical tensions also remained in focus, with fears of renewed escalation in the Middle East after the US and Iran exchanged their biggest barrage since July. Washington struck Iran’s southern coast, while Tehran launched attacks on US bases across the region.
+
+  
+
+## Gold, silver international prices
+
+Spot gold was steady at $4,386.28 per ounce. Prices recovered from a near one-month low in the previous session after the US dollar and Treasury yields pulled back from recent highs. US gold futures for December delivery gained 0.4% to $4,432.10.
+
+Among other precious metals, spot silver was flat at $65.30 per ounce, platinum was steady at $1,760.33, while palladium declined 0.1% to $1,344.48.
+
+## How should you trade gold?
+
+Jigar Trivedi of IndusInd Securities expects MCX Gold October futures to extend gains for the second consecutive session. He sees Rs 1,53,000 per 10 grams as the intraday resistance level, while Rs 1,52,000 per 10 grams is the key support. The overall outlook remains positive.
+
+## Gold rates in physical markets
+
+## Gold price today in Delhi
+
+Standard gold (22 carat) prices in Delhi stand at Rs 1,11,592 per 8 grams, while pure gold (24 carat) prices stand at Rs 1,21,728 per 8 grams.
+
+## Gold price today in Mumbai
+
+Standard gold (22 carat) prices in Mumbai stand at Rs 1,11,472 per 8 grams, while pure gold (24 carat) prices stand at Rs 1,21,608 per 8 grams.
+
+## Gold price today in Chennai
+
+Standard gold (22 carat) prices in Chennai stand at Rs 1,11,472 per 8 grams, while pure gold (24 carat) prices stand at Rs 1,21,608 per 8 grams.
+
+## Gold price today in Hyderabad
+
+Standard gold (22 carat) prices in Hyderabad stand at Rs 1,11,472 per 8 grams, while pure gold (24 carat) prices stand at Rs 1,21,608 per 8 grams.
+
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)
+
+---
+
+### Garena Free Fire MAX Redeem codes today, September 3, 2026: Check full list of codes, free rewards and how to redeem
+*Trending Desk · business*
+
+Garena Free Fire MAX players in India can try their luck with new redeem codes on September 3, 2026. Subject to availability, these codes may unlock free in-game rewards, including diamonds, weapon skins, outfits, character items and other collectibles. For regular players, redeem codes offer a convenient way to add new items to their collection without spending additional money.
+
+## Garena Free Fire MAX redeem codes for September 3, 2026
+
+Here are the codes circulating for today's rewards:
+
+  
+
+-   FFRSX4CYHLLQ
+-   FFSKTXVQF2NR
+-   NPTF2FWSPXN9
+-   FFDMNSW9KG2
+-   FFCBRAXQTS9S
+-   FFSGT7KNFQ2X
+-   FPSTQ7MXNPY5
+-   4N8M2XL9R1G3
+-   H8YC4TN6VKQ9
+-   FF6YH3BFD7VT
+-   B1RK7C5ZL8YT
+-   4ST1ZTBZBRP9
+-   BR43FMAPYEZZ
+-   UPQ7X5NMJ64V
+-   S9QK2L6VP3MR
+-   FFR4G3HM5YJN
+-   6KWMFJVMQQYG
+-   FZ5X1C7V9B2N
+-   FT4E9Y5U1I3O
+-   FP9O1I5U3Y2T
+-   FM6N1B8V3C4X
+-   FA3S7D5F1G9H
+-   FK3J9H5G1F7D
+-   FU1I5O3P7A9S
+-   F7F9A3B2K6G8
+-   FE2R8T6Y4U1I
+
+## How to Redeem Free Fire MAX Codes
+
+Step 1: Visit the official Garena Rewards Redemption website.
+
+  
+
+Step 2: Log in using the account linked to your Free Fire MAX profile.
+
+Step 3: Enter the redeem code in the designated field.
+
+Step 4: Carefully check the code to ensure all letters and characters are entered correctly.
+
+Step 5: Click on the submit option to complete the redemption process.
+
+Step 6: If the code is valid and active, the reward will be sent to your Free Fire MAX in-game account.
+
+## Redeem Free Fire MAX Codes Before They Expire
+
+Free Fire MAX redeem codes are usually available for a limited period and may not stay active indefinitely. Some codes can also come with a specific redemption limit, after which they may no longer work. If you want to try the latest redeem codes, it is better to use them as soon as possible instead of waiting until later in the day.
+
+---
+
+### Carlos Alcaraz Overpowers Jaime Faria To Reach US Open Third Round
+*Unknown · sports, tennis*
+
+Defending champion Carlos Alcaraz overcame an early wobble to book his place in the third round of the US Open on Wednesday, recovering from a set down to defeat Portugal's Jaime Faria in four sets.
+
+[Read full article](https://sports.ndtv.com/tennis/alcaraz-overpowers-faria-to-reach-us-open-third-round-11995239)
+
+---
+
+### China says it conducted survey of waters east of Taiwan last month
+*SECTIONS China says it conducted survey · business*
+
+Hong Kong: China's Ministry of Natural Resources conducted a survey of waters east of Taiwan last month that it said would help it create "one map" for territorial planning and resource management, ‌state broadcaster CCTV ⁠said ⁠on Thursday.
+
+Taiwan's coast guard said on August 21 that it had warned off and shadowed a Chinese research ship sailing in sensitive waters near the island, the third time the vessel had appeared since May in what Taipei ⁠sees as ‌ongoing maritime provocation.
+
+  
+
+The survey, conducted ​August ​10 to 31, aimed to understand the ⁠basic geology and structural characteristics of the ​seabed in China's jurisdictional sea areas, ​CCTV said citing the ministry.
+
+China's coast guard also said that it conducted routine law enforcement patrols in the waters east of Taiwan on Thursday. It is the third such patrol ‌since June.
+
+There was no immediate response from Taiwan's government to the CCTV ​report or ​the announcement ⁠by China's coast guard.
+
+China views democratically governed Taiwan as its own territory and recognises no claims of ​sovereignty by the government in Taipei, including in the waters around the island. Taipei rejects Beijing's sovereignty claims.
+
+---
+
+### PayPal layoffs: 600 jobs cut in India without prior notice, report says
+*Armaan Agarwal · general*
+
+## PayPal has reportedly laid off as many as 600 employees in India, roughly 10 per cent of its workforce in the country. Some impacted employees claim that they were fired on a call without any prior notice.
+
+PayPal has reportedly fired 600 employees in India. (Photo: Reuters)
+
+Digital payments platform PayPal has reportedly conducted a major round of layoffs in India. The company is said to have fired 600 employees, or roughly 10 per cent of its Indian workforce. This move comes at a time when PayPal is going through a global restructuring with similar cuts in other regions.
+
+As per a report from Moneycontrol, PayPal has cut around 600 jobs in Chennai, Bengaluru and Hyderabad across several teams including technology, engineering, operations, payments and finance. PayPal is said to have had just over 6,000 workers in India before this round of layoffs.
+
+A separate report from BusinessLine claims that as many as 25 per cent of PayPal’s Indian workforce – about 1500 workers – may be affected by the end of the restructuring.
+
+### Employees say PayPal fired them on call
+
+According to the report, PayPal fired employees on a call without giving a prior notice about this decision. “We didn’t get any prior notice. We got an invite to join a call on Monday morning (August 31) and there were many employees on it from across offices in India,” an impacted employee said, as cited in the report. “We were informed that we would be let go. Right after the call, our access was immediately revoked.”
+
+The employee added, “After that we only got an off-boarding email informing about the further process. We are getting some job assistance and were promised one month’s salary as severance pay. But, we are yet to hear back on that and the full and final settlement.” Another employee reportedly said that they received a direct email on August 31 saying they had been fired.
+
+### PayPal is laying off workers globally
+
+The layoffs in India come amid a wider restructuring at PayPal. Earlier this year, PayPal was reported to have planned a multi-year plan that would lead to 20 per cent job cuts globally. PayPal had about 23,800 employees globally as of December 31, 2025, which means it would affect about 4,760 roles.
+
+As per reports, PayPal is conducting layoffs in phases, beginning in the Asia-Pacific region, including India, followed by meetings with affected employees across the US, Europe, the Middle East and Africa on Monday.
+
+In Ireland, reports say, about 164 employees were laid off on the same day, which was about 12 per cent of PayPal’s headcount in the country. The company has also reportedly fired 25 per cent of its workforce in Israel, or about 70 workers.
+
+The company said in May this year that it aimed to deliver at least $1.5 billion in gross run-rate savings over the same period.
+
+PayPal is far from the only company that is conducting layoffs. On Wednesday, Uber announced plans to cut 3,300 jobs globally, with the savings to be invested into new tech, such as self-driving cars. Oracle, too, could fire around 10,000 workers soon, despite having laid off 32,000 workers globally earlier this year.
+
+Globally, over 1,28,000 tech roles have been cut this year alone, as per layoffs.fyi. An increase from about 1,22,000 job cuts in all of last year.
+
+\- Ends
+
+Armaan Agarwal
+
+Sep 3, 2026 09:38 IST
+
+---
+
+### ‘Every Citizen Deserves Dignity’: Milind Deora Reacts After Mumbai Cop Push Cyclist For VIP Convoy | Video
+*Aanchal Sinha · general*
+
+The incident reportedly occurred while a VIP convoy was being allowed to pass through the otherwise restricted stretch of road.
+
+[Read full article](https://www.news18.com/india/every-citizen-deserves-dignity-milind-deora-reacts-after-mumbai-cop-push-cyclist-for-vip-convoy-video-ws-kl-10307418.html)
+
+---
+
+### 'Move faster': Nvidia’s Jensen Huang has an AI message for India, the world’s leading IT power
+*SECTIONS Nvidia’s Jensen Huang has an AI message · business*
+
+Nvidia CEO Jensen Huang has urged India to accelerate its adoption and development of artificial intelligence, saying the country has a strong opportunity to build a domestic AI economy by leveraging its decades-old information technology industry. Speaking to reporters on the sidelines of the G20 Innovation Ministerial, Huang said the rapid pace of AI development meant countries could not afford to move slowly.
+
+“AI is moving fast, so every country has to move faster,” Huang told IANS.
+
+  
+
+## India has a strong starting point
+
+Huang described India as one of the world's leading IT powers and said the emergence of AI represented the start of a new technology platform. For India, he said, this could create an opportunity to build on the expertise and infrastructure developed by its existing technology sector.
+
+  
+
+“India is one of the world's leading IT industries, and this is the beginning of a new IT platform,” Huang told IANS.
+
+He also recalled an earlier interaction with Prime Minister Narendra Modi, saying he had discussed AI with him about a decade ago. Now, Huang said, he was keen to see Indian companies and start-ups turn that early interest into businesses, products and technologies.
+
+“I’m really anxious to see and very excited to see the local companies and the local startups starting in India, starting to take advantage of the technology,” he said. According to Huang, the next step is for these businesses not only to use AI but also contribute to its development and help create a local ecosystem around the technology.
+
+  
+
+## AI is becoming economic infrastructure
+
+Huang said AI should no longer be viewed simply as another emerging technology. It is increasingly becoming part of the infrastructure needed to build modern economies. He pointed to the US approach, where companies are working across the AI technology stack, but said other countries did not necessarily have to replicate the entire system. Instead, nations could choose the technologies and components that best suited their own requirements.
+
+The US, he said, wanted other G20 nations to adopt AI and use it to develop their own AI economies. For India, that could mean an opportunity to combine its existing software and IT capabilities with AI computing, applications and start-ups.
+
+## Nvidia CEO cautions against over-regulation
+
+Huang also weighed in on one of the biggest debates surrounding AI: how governments should regulate the technology. His advice was to focus on real-world risks rather than harms that may never occur.
+
+“The advice that I would have is to regulate practical and actual harm and not regulate theoretical and hypothetical harm,” he said.
+
+Huang argued that AI remains in its formative phase and that regulation should allow the technology to develop while ensuring that genuine risks are addressed. He also said technological progress itself could help make AI systems safer.
+
+Drawing a comparison with automobiles, Huang noted that cars have become significantly safer over the past century as engineering and technology improved. The same principle, he suggested, should apply to AI.
+
+## AI systems are improving, Huang says
+
+Huang said the quality and reliability of AI systems had improved substantially over the past two years. According to him, newer systems are producing fewer hallucinations, becoming more grounded in factual information and showing stronger abilities to handle practical problems.
+
+“We need to keep moving in that direction,” he said. But he stressed that improving AI capabilities should go hand in hand with safety.
+
+Technology companies, he said, have a responsibility to ensure that the systems they develop are safe even as the industry races to build more powerful models. “Every single company has to take it upon themselves to develop the technology safely,” Huang said.
+
+## No discussion on additional semiconductor tariffs
+
+Huang was also asked whether he had discussed the possibility of additional US tariffs on semiconductors during the G20 ministerial. He said there had been no such discussion with the US official. “I had no conversation 
+
+## Why Nvidia matters in the AI race
+
+Nvidia was founded in 1993 and initially became known for graphics processing units, or GPUs, used primarily in computers and gaming.
+
+The company's role changed dramatically with the rise of AI. Its chips became a key part of the computing infrastructure used to train and run advanced AI systems, helping Nvidia emerge as one of the most important companies in the global AI boom.
+
+Huang, who co-founded Nvidia and has led the company since its creation, has consequently become a prominent voice on the future of AI, from computing infrastructure and business opportunities to regulation and safety.
+
+His message to India was straightforward: the AI race is moving quickly, and the country needs to move with it.
+
+---
+
+### What to know about a reported US airstrike that hit a wedding in Iran
+*SECTIONS What · business*
+
+CAIRO - A U.S. missile hit a home in southern Iran where dozens were gathered to celebrate the wedding of a fisherman's daughter, according to a rights group and Iranian media.
+
+Iranian state media said four people - two women and two children - were killed and more than 60 were wounded. The rights group said one of the children, a teenager, was killed by another strike on a nearby communications tower.
+
+Heavy explosions shook the coastal town of Kuhestak on the Strait of Hormuz on Tuesday, and security footage carried by Iran's semiofficial Fars news agency showed fireballs lighting up the night sky. It came amid the latest round of American bombardment in southern Iran that the U.S. military said was targeting air defenses, radar systems and maritime assets.
+
+  
+
+Kuhestak is one of a string of small towns that dot the barren coastline along the Strait of Hormuz, the chokepoint that has become a central front in the six-month war. Kuhestak is located about 30 kilometers (18 miles) from the town of Minab, where more than 100 children were killed in a U.S. missile strike that hit a primary school on Feb. 28, the opening day of the war launched by the U.S. and Israel.
+
+U.S. Central Command spokesman Capt. Tim Hawkins said the U.S. military was looking into the reports of the strike on a wedding. He would not say if the military had launched a formal investigation.
+
+Little information has come out of the remote area. This is what we know so far.
+
+  
+
+## A missile smashed into the wedding party
+
+At least one missile hit the home of Ali Mallahi, a fisherman who at the time was celebrating the wedding of his daughter, state media said.
+
+"The missile completely destroyed the ceiling of the house," Mallahi said in an interview with state TV as he pointed to the hole. He said a neighboring house that shares the same yard was hit by another missile. Like most of the town's population, Mallahi belongs to Iran's Baluch ethnic minority.
+
+There was no immediate video footage of the moment of impact. But videos aired by Iranian media showed a crater, and walls and the roof of the building heavily damaged, with a smashed car nearby and debris - including wedding guests' shoes - scattered around.
+
+Four people were killed and dozens wounded, according to state media
+
+The state news agency IRNA and state TV said two women and two children, aged 4 and 16, were killed, and at least 68 were wounded. Just after the strike, Ahmad Nafisi, the province's deputy governor, had told Iranian state television that five people were killed. There was no explanation for the change.
+
+At the hospital in Minab where wounded people were taken, Iranian media showed at least two girls and a woman in bandages. One of the children looked like she was still in shock.
+
+A man at the hospital with bandages on his head and arm said he was heading to the wedding when he heard jets overhead. The explosion hit as he arrived.
+
+"Blocks were falling and hitting people's heads. And many small children and women that were there were terribly injured. So many," he said in a video posted by the Iranian Red Crescent, which did not identify him.
+
+## The nearby port was also targeted
+
+Also hit in the round of strikes was a communications tower at Kuhestak's port, about 100 meters (yards) from Mallahi's house, according to state media.
+
+At least two missiles hit the communications tower and another hit a pier at the port, Moein Arjomand, director of the Balochistan Human Rights Documentation Network, told the AP, citing witnesses who spoke to his group.
+
+The group, which maintains contacts with Baluch communities in Iran, said the 16-year-old was killed by shrapnel as he rode his motorcycle near the communications tower, rather than at the wedding as reported by Iranian media.
+
+Separately, Iran has said four members of its paramilitary Revolutionary Guard and 10 members of the Guard's volunteer Basij forces were killed in the latest round of U.S. attacks. A total of 108 people were wounded, according to state media.
+
+## Expert says fragments point to a U.S. weapon
+
+A weapons expert told The Associated Press that images of fragments of ordnance that Iranian media said was used in the strike on Mallahi's home, indicated that it was an "American air-delivered guided weapon."
+
+N.R. Jenzen-Jones, director of Armament Research Services, initially identified the weapon as a SLAM-ER cruise missile, an air-launched missile that can be retargeted in flight by a human operator. But after examining further imagery, he said it was more likely to be a JSOW, a type of guided bomb, though he did not rule out a SLAM-ER and said multiple weapons may have hit the site.
+
+U.S. Central Command declined to comment on the analyst's findings.
+
+---
+
+### New Ram temple CEO must take action against those accused of donation theft: UP Congress chief
+*SECTIONS New Ram temple CEO must take action against those accused · business*
+
+New Delhi \[India\], September 3 (ANI): Uttar Pradesh Congress president Ajay Rai on Wednesday questioned whether the appointment of retired Air Marshal Jitendra Mishra (retd) as the first CEO of the Shri Ram Janmabhoomi Teerth Kshetra Trust would bring back devotees' trust and recover money allegedly lost from the temple trust.
+
+Reacting to Mishra's appointment, Rai asked whether bringing in a new CEO and new members to the trust would restore donations made by devotees and whether action would be taken against those allegedly involved in wrongdoing.
+
+  
+
+"Will appointing a new CEO or bringing in new people in the Trust bring back the donations by devotees? Has action been taken against the thieves?" Rai said.
+
+He questioned why action had not been taken against those he alleged were responsible for the alleged financial irregularities, naming Champat Rai, Anil Mishra and Govind Dev Giri, while also referring to Nripendra Misra.
+
+"Will the retired Air Marshal take action against these thieves and send them to jail? When will the action be taken and the stolen money be brought back?" the Congress leader asked.
+
+Rai further said that the trust would regain the confidence of devotees only when concrete action was taken against those accused of wrongdoing and the allegedly missing money was recovered.
+
+He also raised questions over the choice of the new CEO, saying that the Ram Mandir is the birthplace of Lord Ram and arguing that a Shankaracharya should have been appointed to the position.
+
+"This is Lord Ram's birthplace. Any Shankaracharya should have been appointed for this position," Rai said.
+
+His comments came after the Shri Ram Janmabhoomi Tirth Kshetra Trust on Wednesday appointed retired Air Marshal Jitendra Mishra as its Chief Executive Officer (CEO), besides appointing three new trustees.
+
+The decisions were taken at a meeting of the Trust's trustees in Ayodhya, which also discussed the appointment of the CEO, filling vacant trustee posts, approval of the 2025-26 annual accounts, progress of the SIT probe into alleged financial irregularities and developments before the Supreme Court.
+
+Mishra was appointed on the recommendation of the committee constituted for selection of the CEO. He has 39 years of experience in various branches of the Indian Air Force, extensive leadership experience and has been awarded the Uttam Yudh Seva Medal.
+
+Air Marshal Jeetendra Mishra (retd), on his appointment, said that it is a great fortune for him to be chosen for the role and he considers it a blessing of Lord Ram.
+
+In his first interview after being named CEO of the Ram Temple, he told that he had got the opportunity to serve Ram Mandir and the devotees.
+
+He said he would serve in the new role after 43 years of service to the nation in the Indian Air Force.
+
+"I consider this a great fortune that they chose me from so many candidates. I also consider this the blessings of Lord Ram that after 43 years of service to the nation in the Air Force, He has given me the opportunity to serve Sri Ram Mandir and Sri Ram bhakts," he said.
+
+"As I said, I would like to thank the selection committee, Sri Ram Mandir Trust and Lord Ram for having chosen me for this responsibility. I pray to God to grant me the capability so that I can shoulder it well," he added.
+
+Also, on new trustees and the first CEO of Shri Ram Janmabhoomi Teerth Kshetra Trust, Congress MP Kumari Selja said, "I don't know about others, but the CEO is a (retired) Air Marshal. He was dedicated to protecting the nation. We hope that he will do good work. But we don't know the background of the others. We saw what happened earlier. There was theft right under their nose, before the Govt. There has been no answer to that so far. There was a so-called SIT. We still don't know where the crores of rupees went. It must have gone to just one place."
+
+Earlier, Hanuman Garhi temple priest Mahant Raju Das welcomed the appointment of retired Air Marshal Jitendra Mishra (retired) as the first CEO of the Shri Ram Janmabhoomi Teerth Kshetra Trust, saying the armed forces veteran was "fortunate" to get the opportunity to work at the Ram Temple.
+
+Das urged Mishra to ensure that worship at the temple is conducted according to Vaishnav traditions and called for all gaushalas in Ayodhya to be adopted by the Trust.
+
+---
+
+### From Tihar Jail, Yasin Malik Files For Divorce From Pakistani Wife: 'Won't Let Her Live Like A Widow'
+*Parishmita Saikia · general*
+
+Yasin Malik is serving a life sentence in Tihar Jail. Now, he wants to end his marriage with Mushaal Mullick after years of separation from his family
+
+[Read full article](https://www.news18.com/cities/new-delhi-news/from-tihar-jail-yasin-malik-files-for-divorce-from-pakistani-wife-wont-let-her-live-like-a-widow-ws-l-10307397.html)
+
+---
+
+### Gadkari meets Dutch Ambassador, discusses India-Netherlands cooperation in green infra, mobility, energy transition
+*Unknown · business*
+
+New Delhi: Union Minister for Road Transport and Highways Nitin Gadkari met Netherlands Ambassador to India Marisa Gerards in the national capital, where both sides held discussions on deepening India-Netherlands cooperation in sustainable infrastructure, green mobility and energy transition.
+
+According to a post shared by Gadkari on X, the meeting, which took place on Wednesday, focused on leveraging technology and innovation to strengthen bilateral trade and create new avenues for collaboration.
+
+"Ambassador of the Kingdom of the Netherlands to India, H.E. Ms. Marisa Gerards, called on in New Delhi today. The meeting featured productive discussions on deepening India-Netherlands cooperation in sustainable infrastructure, green mobility and energy transition, with a focus on leveraging technology and innovation to strengthen bilateral trade and create new avenues for collaboration," the post read.
+
+  
+
+Ministry of Road Transport and Highways also said that the discussions between Gadkari and Gerards focused on cooperation in green mobility, energy transition, technology and innovation.
+
+"Ambassador of the Kingdom of the Netherlands to India, H.E. Ms. Marisa Gerards, called on Union Minister Shri Nitin Gadkari in New Delhi. Discussions focused on India-Netherlands cooperation in green mobility, energy transition, technology and innovation," the government's nodal agency for information PIB wrote on X.
+
+Earlier on Tuesday, Gerards had paid a courtesy call on Secretary, DA&FW, Atish Chandra, on August 27 at Krishi Bhawan here.
+
+According to a post on X by the Department of Agriculture and Farmers Welfare, the discussions centred on strengthening existing cooperation and exploring opportunities for deeper engagement in agriculture and allied sectors.
+
+"Strengthening India-Netherlands cooperation in agriculture! Ms. Marisa Gerards, Ambassador of the Netherlands, paid a courtesy call on Shri Atish Chandra, Secretary, DA&FW, on 27 August 2026 at Krishi Bhawan, New Delhi. The discussions centred on strengthening existing cooperation and opportunities for deeper engagement in agriculture and allied sectors," the post read.
+
+Gerards also met Chief Election Commissioner and Chairman of the Council of Member States of International IDEA, Gyanesh Kumar, as part of efforts to deepen cooperation in the electoral and democratic spheres.
+
+According to the Election Commission of India (ECI), Kumar and Gerards reaffirmed their shared commitment to strengthening democratic cooperation, in line with the vision set out at IICDEM 2026.
+
+"Both sides reaffirmed their shared commitment to strengthening democratic cooperation, in line with the vision set out at IICDEM 2026. They also agreed to work closely together to deepen collaboration on election management and the training of election staff," the Election Commission said in a post on X.
+
+
+---
+
 ## 2 September 2026
 
 ### Goa tightens prison rules, 3-year jail term for phone possession inside jails
