@@ -1,8 +1,265 @@
 # Editorials
 
-_Last updated: 2026-09-03 06:19 UTC_
+_Last updated: 2026-09-04 06:23 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 4 September 2026
+
+### Forging consensus: On India and the SCO meeting
+*The Hindu · Editorial*
+
+Prime Minister Narendra Modi’s attendance at the annual meeting of Shanghai Cooperation Organisation (SCO) leaders in Bishkek, Kyrgyzstan, marking 25 years of the Eurasian grouping, had a multi-pronged agenda. This was an occasion to meet his counterparts, for the first time since the U.S.-Israel war on Iran began more than six months ago, which has inflicted economic costs on the whole grouping. The grouping includes Iran, as well as Pakistan that has emerged a mediator between Iran and the U.S., and the Bishkek declaration that condemned the U.S. and Israel’s attacks on Iran and supported Iran’s right to peaceful nuclear technology under the NPT, was significant. Many of the SCO members are also in the BRICS grouping who Mr. Modi will host in Delhi on September 12-13 — this includes Russian President Vladimir Putin, Chinese President Xi Jinping and Iranian President Masoud Pezeshkian. New Delhi is keen to forge consensus on a joint declaration, which has been difficult due to UAE-Iran tensions and Mr. Modi’s discussions with Mr. Pezeshkian included BRICS cooperation. India’s ties with the Central Asian Republics have flagged due to other preoccupations, making Mr. Modi’s visits to Tashkent and Bishkek, and meetings with regional leaders this time, an important initiative to revive talks on trade, critical minerals, tourism and other areas. As Pakistan takes over the SCO chairmanship, the Bishkek Summit allowed Mr. Modi to set out India’s agenda for the coming year. His speech at the Summit focused on the importance of dismantling the ecosystem of “terrorist financing, recruitment, radicalisation, and safe havens”, calling on the SCO to eschew “double standards” on terrorism. He also pressed for a strong message to countries that “use terrorism as an instrument of policy and provide safe haven and support to terrorists” — a pointed reference to India’s oft-repeated concerns about Pakistan. The Bishkek declaration’s inclusion of strong language on “all forms” of terrorism, including cross-border, has thus been welcomed by New Delhi. It remains to be seen how far the Pakistan presidency will take these ideas forward.
+
+Compared to the high-octane optics and the Modi-Putin-Xi handshake at the 2025 Tianjin SCO Summit, this year’s summit was relatively sombre. The U.S.’s tariffs, its war with Iran and sanctions on Russia have damaged economic security, energy security and connectivity (the Hormuz Strait blockade), and pose major challenges to the grouping. For India, after tensions with Pakistan had peaked last year after the Pahalgam attacks and the four-day conflict, the past year has been sobering, given Pakistan’s diplomatic forays with the U.S., and the new security pact with Saudi Arabia and Türkiye. In the altered geopolitical framing, India must seek to broaden its engagement with all regional multilateral organisations such as the SCO.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/forging-consensus-on-india-and-the-sco-meeting/article71424095.ece)
+
+---
+
+### Welcome move: On the Supreme Court and Gen Z protesters
+*The Hindu · Editorial*
+
+In what should be termed a salutary gesture, the Supreme Court of India, at the request of the Union government, invoked its powers under Article 142 of the Constitution to quash criminal cases against the youth who had taken part in nationwide protests seeking examination reforms and government accountability. Led by a group, the Cockroach Janta Party (CJP), in response to Chief Justice of India’s “unemployment” and “cockroaches” remark — these protests swelled in numbers and reach, forcing the then Union Minister of Education, Dharmendra Pradhan, to resign. Among the demands for halting the agitations was the CJP’s call to withdraw the FIRs against protesters in Delhi and other States/Union Territories, which the Court has granted, while directing the Centre to ensure that no fresh FIRs are registered over the protests in July. That the Centre asked for this step by the Court shows how the CJP’s agitations resonated with the youth of the country, who agreed with the movement’s core demands. It is also an acknowledgment by the Bharatiya Janata Party (BJP)-led government that this is a pressing issue that revealed its failings, particularly the series of paper leaks across India over the years, compounded by an employment deficit for youth.
+
+The Centre’s stand in the CJP matter is in stark contrast to how it has dealt with dissent on other issues that have driven thousands to protest in recent years. The most prominent among these were the farmer-led protests in and around Delhi, and the agitations against the communally motivated Citizenship (Amendment) Act. Both were largely peaceful, but this did not prevent the government from foisting serious charges including those related to terrorism and sedition, on peaceful protesters, many of whom remain in jail without trial or bail. Legitimate protest has long been a means of defusing pent-up discontent with government policies in India. The Centre has instead sought to criminalise it, branding dissent and disaffection as sedition to create a chilling effect. The CJP managed to overcome that ploy not only through the justness of its demands but also because the protesters’ identities as youth and students transcended the limited categories of religion, caste and even class (“richer farmers”) that the BJP sought to use to sow discord and delegitimise them. Even if it is too much to expect the Centre to seek similar relief for those held in earlier cases, the Court would do well to apply to them the standard it has now set for the CJP. Until it does, the relief granted to the CJP and its sympathisers will remain an exception rather than a principle.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/welcome-move-on-the-supreme-court-and-gen-z-protesters/article71424064.ece)
+
+---
+
+### Youth power, an electoral force still in the making
+*The Hindu · Opinion*
+
+It is the season of youth in India, without any formal commemorative event to mark it. They are being courted like never before. Political parties across the aisle, Ministries, Departments, think tanks and media organisations of every kind are engaging with the theme of youth. Education and examination systems are being reassessed; skills and coaching processes are under scrutiny; unemployment is being scanned and nuanced.
+
+The whole nation seems occupied with the subject. Political parties are ramping up their conversations on digital platforms, where young people are assumed to reside. Leaders are recasting their hitherto successful models of communication to capture the attention and gain the confidence of Generation Z — the 14-to-29-year-olds — while mimicking their candid vocabulary. College and school campuses are crowded by political personalities. The overstretch almost suggests a desperation to connect.
+
+[Read full article](https://www.thehindu.com/opinion/lead/youth-power-an-electoral-force-still-in-the-making/article71425047.ece)
+
+---
+
+### DC Edit | MP Minister’s Apology Won’t Do
+*Deccan Chronicle · Editorial*
+
+There is hardly an element of surprise in the decision of Madhya Pradesh governor Mangubhai Patel to endorse the state Cabinet’s recommendation against granting permission for the prosecution of minister Kunwar Vijay Shah over his controversial remarks targeting Colonel Sofya Qureshi, the Army spokesperson during Operation Sindoor, as it serves the BJP to attach a religious angle to every incident. But the party must be reminded that its decision to condone the grave mistake of its minister comes at the cost of weakening the morale of the armed forces.
+
+Colonel Qureshi did nothing to warrant being labelled a “sister of terrorists” when she was explaining to the world how India was making Pakistan accountable militarily for the terror attack on unsuspecting innocent pilgrims in Pahalgam in Jammu & Kashmir. The terrorists, as per the government’s own version, had Pakistani links and hence it launched Operation Sindoor targeting terror sites in that country. Col. Qureshi was performing the role assigned to her as part of that operation. The BJP owes an explanation to the country as to what prompted its senior leader to make an attempt to link the very same officer to terrorists.
+
+The nasty communal colour with which the minister wanted to paint an officer of the armed forces would have gone unchallenged but for the firm stand of the Madhya Pradesh high court which ordered the filing of a first information report against him. It should not be missed that the state government sat on the issue for a year and was shaken out of its slumber by the Supreme Court which enquired about the progress of the investigation.
+
+The Indian armed forces represent the country and its values; the men and women wear their uniform and perform their tasks on the assurance that they enjoy the confidence of the whole country. Ministers such as Mr Shah puncture that solemn bond. If the BJP believes its own propaganda about its patriotism and concern for the armed forces, it should take steps to ensure that the wrongdoer faces the law and does not escape with worthless apologies.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-mp-ministers-apology-wont-do-1984680)
+
+---
+
+### DC Edit | Putin, Trump: Two Leaders Now Fighting Endless Wars
+*Deccan Chronicle · Editorial*
+
+The world is weary of the two ‘forever wars’ but not the two men who started them and who do not seem to know how to end them. The first war has now passed the four-and-a-half-year mark while the second has been on, off and on for six months now but whose effects have spread so much that the world is feeling the pinch as major economies falter even as the cost-of-living and prices are rising universally.
+
+An autocratic revanchist in Russia eyeing territorial revenge and a global policeman seeking to stop a country in the world’s most restive region from arming itself with nuclear weapons are holding the global economy to ransom. Apart from whispering about the need to stop the endless wars, leaders have been unable to bring any pressure on the two to stop the wars and leave the world in peace.
+
+Russian President Vladimir Putin ordered the invasion of Ukraine on February 24, 2022, to a forecast of a few days of military action before Donetsk was taken. The Russian army is still at it, bogged down in the battlefield and losing more men than can be replaced easily. A world just recovering from the economic downturn of the Covid-19 pandemic was breathing easier when Russia declared war on Ukraine.
+
+US President Donald Trump who had promised his nation that he would not be dragging it to war like his predecessors and who went further in promising to end every war on the planet, including that of Israel over Gaza and India versus Pakistan, is still bombing Iran in fits and starts, whimsically switching to a naval blockade of the Strait of Hormuz to economic strangulation of Iran with sanctions and back to bombs and the more sophisticated missiles and drones of modern warfare.
+
+Mr Trump went to war with the stated objectives of destroying Iran’s nuclear capabilities, extinguishing its missile production, obliterating its navy and air force and stopping its funding of proxies in the region like the Hamas in Gaza, Hezbollah in Lebanon and the Houthis of Yemen. After a projected four weeks became six months, a minuscule portion of his objectives may have been met but he is unable to find an exit plan as in Vietnam or Afghanistan even if the US had to accept that its mighty army had been unable to win a war once again.
+
+As America found a resilient country fighting an asymmetrical war smartly enough to bring the Strait of Hormuz into play and choking the passage of about a fifth of the world’s oil supplies and all goods in and out of the Gulf to make a bargaining chip that has forced Mr, Trump to take extraordinary action to try and seize back control while his forces escort reluctant oil tankers through the strait.
+
+Mr Putin, who said he fears being hanged by his countrymen if Russia does not take the Donetsk from Ukraine, is not only threatening to expand the war by taking aim at civilian infrastructure but also helping arm Iran with missile capability to take on American battleships. Meanwhile, Israel stays on the offensive path, choosing to strike in Gaza occasionally and still killing civilians.
+
+It seems to matter little to Messrs Putin and Trump that their own people are suffering and not only from body bags coming home. The Americans are paying more for gas at the pump and necessities at the supermarkets and the Russians are battling inflation even as youngsters fled the country in droves after the war broke out. And the world is still left wondering if there would be an end to these ‘forever wars’.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-putin-trump-two-leaders-now-fighting-endless-wars-1984682)
+
+---
+
+### After Nepal, Nations Must Track Himalayan Climate
+*Deccan Chronicle · Opinion*
+
+As the list of survivors of the recent Himalayan tragedy crawls up with painful slowness, and the heavy rain-filled clouds move reluctantly away, people are beginning to ask if there will never be any respite from the tyranny of climate change. Also, will the world unite to save itself?
+
+One hopeful sign is the claim that a Chinese-Tibetan drone has spotted what it calls the epicentre of the Himalayan landslide. Another is the report by Tara Chettry, country director in Nepal and Bhutan for the London-based Save the Children Fund, that about 600 rescued children have been sent to temporary camps. Their survival after their homes and families were washed away is a pointer to the impoverished and landlocked Himalayan country’s determination to rise above cruelly crippling geography.
+
+That means a constant struggle against Nature. The August calamity was by no means the worst. Nepal’s disaster authority recorded more than 32,000 separate incidents between 2018 and 2024 alone, killing almost 3,700 people across a wide range of hazards, including earthquake, floods, landslides, avalanches and glacial outbursts.
+
+But the defining event seared into Nepalese and presumably also Tibetan memory remains the 2015 Gorkha earthquake that killed 8,896 people in 2015 when the damage was estimated roughly at $7 billion or nearly one-third of Nepal’s economy at the time. It also triggered a rockfall-avalanche and air blast that levelled the village of Langtang, a once-scenic Himalayan settlement in Nepal at an altitude of 11,253 feet, killing more than 350 people.
+
+The August 26 flash floods are reckoned to be the second-biggest natural disaster in the Himalayan nation’s turbulent history in the last 30 years, with the scale of the devastation raising fears that the death toll could climb further.
+
+Nepal alone reports more than 2,400 missing persons. Thousands remain lost, including nearly 300 Indian tourists. Their number includes a group of 32 pilgrims from West Bengal who had reportedly registered with the Chalo Jaai Travel Club and were known to have crossed the border between Nepal and China’s Tibet Autonomous Region. Apparently, however, there is no sign of them in TAR or Chinese records.
+
+Although the focus is still on the massive dimensions of the human tragedy, attention is beginning to shift to the economic aspect as is inevitable when dozens of bridges have to be restored, thousands if not hundreds of thousands of houses built, and roads that the angry flood waters turned into torrential rivers relaid all over again. Initial estimates place the physical damage at $1.3 billion, with Nepal’s finance minister, Swarnim Wagle, warning that recovery could cost “a few billion”.
+
+At the same time, the demand is growing for effective concerted action to spare the people of the eastern Himalayas the heart-rending ravages of these increasing depredations.
+
+According to reports, Gopal Thapa, the organiser of another travel group, Leaf Holidays, a Kathmandu-based travel and trekking agency, hired a chopper to try and trace 55 people, including four Singaporeans, who were being escorted to Tibet for the Kailash-Mansarovar pilgrimage which is sacred to Hindus. The group was inside the Gyirong Port complex on the Nepal-China border when the leader last spoke with them on the morning of August 26. They had cleared immigration on the Nepali side and were queueing up to clear remaining formalities on the Tibetan side.
+
+Among those missing are his brother, Gokarna Thapa, 33, father of two children aged seven and one, who was leading the group, as well as eight other Nepalese staff from the agency. He has tried desperately each day to call their phones since the tragic flash flood but has not been able to get through.
+
+“It has been very painful,” he told the media.
+
+The 55-member group was an eclectic mix of nationalities, comprising 24 Malaysians, four Singaporeans, seven Ukrainians, an Italian, three Americans, two British, one Belarusian and 13 Nepalis. “Fifty-five people missing, it is no small thing,” Thapa said. He added that he personally hired the helicopter for around US$3,000 to try to track his group members and assess the situation.
+
+Having watched the crisis develop, Mr Thapa is not surprised. But given the resilience of human nature, and hoping against all odds, he is waiting for some good news from the Nepali authorities who are trying to rescue potential survivors. “We are hoping that from 55 at least one person, two persons, maybe 10 people survive,” he added at the time of writing. “At least one…” he is quoted as saying. “Then I can know the news about what happened there.”
+
+BBC Television’s virtually non-stop coverage of the drama in the eastern Himalayas has included some starkly moving scenes. An old man was carried piggyback out of the dark depths of a submerged tunnel. Another man had to be dragged by his hands and feet through the sludge which a commentator warned would soon turn into “Swampland”.
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/after-nepal-nations-must-track-himalayan-climate-1984677)
+
+---
+
+### When And How Lipid Levels Can Transform Into A National Anxiety
+*Deccan Chronicle · Opinion*
+
+Two headlines arrived in the Indian newspapers, in the same week of July 2026. One reported that nearly nine in 10 Indian adults have at least one abnormal blood lipid level. The other announced the United States approval of Lipfendra, or enlicitide, the first oral PCSK9 inhibitor, a potent cholesterol-lowering medicine. When read together, the headlines raise an uncomfortable question: Does medicine become especially alert to the scale of a risk just when it acquires a new means of treating it?
+
+This is not an argument against science or a conspiracy theory. India’s disease burden of high blood pressure, diabetes, obesity, fatty liver disease and lipid abnormalities is high and is rising. Sedentary work, calorie-dense diets, abdominal obesity, poor sleep, stress, tobacco use and genetic susceptibility have created a distinct South Asian risk profile, often marked by high triglycerides, high LDL (bad cholesterol), and low HDL (good ones) cholesterol.
+
+Yet India’s recent experience with anti-obesity medicines offers a warning. Obesity did not suddenly appear when new weight-loss injections entered the country. Its prevalence had been rising for decades. But the arrival of powerful drugs transformed obesity into a dominant medical conversation. Greater recognition was welcome. The problem was that lifestyle modifications relegated to sidelines and reframed as a medical condition waiting for the treatment. The injections became the mainstream discourse.
+
+The findings of ICMR-INDIAB-25 analysis on cholesterol levels should therefore be read carefully, not converted into panic. Published in July 2026 in the Journal of Clinical Lipidology, it analysed fasting lipid profiles from 23,665 adults from a nationwide cohort. It reported that 87.3% had at least one lipid abnormality under the definitions applied by the researchers. The figure is striking, but easily misunderstood. It does not mean that 87.3% of Indian adults have dangerously high LDL cholesterol, nor that nearly nine in ten require tablets. Much of the burden was driven by low HDL cholesterol, found in 66.8% of participants. ‘Abnormal lipids’ is a composite category covering different measurements, causes and risks. It is not a single disease with one prognosis and one prescription.
+
+This distinction matters because no medicine that merely raises HDL has been shown to improve cardiovascular outcomes enough to become standard treatment. To translate the study into the claim that “nine in 10 Indians have abnormal cholesterol” is therefore might be technically correct description but not fully clinically relevant. Most Indians need healthier diets, regular physical activity, less tobacco, better sleep and stronger primary care. Only a proportion will need lipid-lowering drugs, depending on LDL, history and cardiovascular risk.
+
+Lipfendra requires similar precision. The US Food and Drug Administration approved the once-daily tablet in July 2026 alongside diet and exercise for adults with hypercholesterolaemia and some other conditions. In phase-three studies, enlicitide produced large reductions in LDL cholesterol, about 56% in a trial involving people with established cardiovascular disease or elevated risk, and about 59% at 24 weeks among those with inherited high cholesterol. These are impressive results, but they describe reductions in LDL, not equivalent reductions in heart attacks, strokes or deaths. A large cardiovascular-outcomes trial is under way. LDL is a well-established causal risk factor and a valuable treatment target, but lowering a laboratory number is not automatically identical to extending life. The eventual clinical benefit, safety, adherence and cost must be judged together.
+
+The steady lowering of recommended LDL targets by various professional societies also deserves public scrutiny. For someone who has survived a heart attack, has familial hypercholesterolaemia or faces very high cardiovascular risk, an aggressive target may be lifesaving. But the same number should not become a universal definition of normality for India’s diverse population.
+
+But even in high risks, the threshold seems to be lowered every passing year and more so nearly coinciding with licensing of a new lipid lowering drug. We can reduce it to lower levels, so let's do that, which seems to be an approach in lipid lowering.
+
+Every lower threshold expands the number of people classified as ‘not at goal’. It may also create a larger market for additional medicines when statins and ezetimibe are considered insufficient. Thresholds are not discovered in nature like new planets. They are set by expert committees after interpreting evidence, estimating acceptable risk and balancing benefits, harms and costs. Such judgments may be sound, but never commercially inconsequential.
+
+This is where medicalisation begins, not with the invention of a useful medicine, but with the quiet conversion of risk into disease and of vulnerability into lifelong consumption....
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/when-and-how-lipid-levels-can-transform-into-a-national-anxiety-1984684)
+
+---
+
+### Food safety: Message in large print
+*Deccan Herald · Editorial*
+
+The FSSAI (Food Safety and Standards Authority of India)’s proposal to mandate a prominent display of content labels on food packets can help improve consumer awareness regarding unhealthy packaged food. The regulator has told the Supreme Court of India that warning labels, in a red hexagonal format, would notify consumers about high sugar, high salt, high fat, etc., and use descriptions such as “highly sweetened beverage”. Though packaged food items currently carry information about their contents, it is typically lost in small print at the back of the packets. Most consumers do not read this information, and many who do are not fully aware of the outcomes of consuming food high in sugar or salt. A prominent label with a clear indication would help consumers decide whether they should buy the product or not.
+
+The Front of Pack Nutrition Labelling (FOPNL) exercise, proposed for stage-wise implementation, will commence with warnings when the product in question exceeds the prescribed limits for two or more components: added saturated fat, added sugar, etc. However, experts have flagged concerns over the approach, pointing out that it could allow many products to escape scrutiny. They have demanded clear and separate markers for every specified nutrient of concern. These warnings should be prominently labelled, ensuring that the intended message gets adequate consumer visibility. The FSSAI should follow this statement of intent with targeted, time-bound implementation of the process. It is to be noted that the regulator made these proposals after raps from the apex court over its failure in issuing the warning labels. Earlier this year, the Court had told the FSSAI that it should not be concerned about the interests of multinational companies, but about the citizens’ right to health.
+
+Food safety: How to tell if vegetables are spoiled or safe to eat?Calls for front-of-pack warnings have been repeatedly met with inaction of the authority. Its record invites credible apprehensions about the implementation of FOPNL. The packaged food industry has long opposed any form of warnings, but public health must be prioritised above industry interests. India is the global diabetes capital, and faces rising threats from hypertension, obesity, and high cholesterol – all ailments linked to unhealthy diets. Implementing a clear front-of-pack warning scheme has become increasingly crucial in addressing this crisis. The onus is on the government to complement the labelling exercise with awareness programmes, educating the public on the indicators and ways to interpret them. Global evidence of such warnings encouraging consumers to adopt healthier eating habits should form the pivot for the larger campaign.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/food-safety-message-in-large-print-4134486)
+
+---
+
+### Resilience now for future droughts
+*Deccan Herald · Editorial*
+
+Deficient rainfall and drought are exposing two sides of Karnataka’s water crisis: failing crops in rural areas and shrinking access to drinking water in urban centres. India faces a 14% rainfall gap this monsoon, but Karnataka’s deficit is deeper at 23%, according to the India Meteorological Department (IMD). With no relief expected in September, the situation could worsen. As the kharif sowing season draws to a close, about 20 lakh hectares of the state’s 84-lakh-hectare target remains unsown, including 15 lakh hectares of cereals. Across the country, paddy sowing has declined 3.35% during the kharif season, mainly due to substantial reductions in Karnataka, Telangana, Jharkhand, and Madhya Pradesh. Deficient rains, falling groundwater levels, and adverse weather have left even standing rain-fed crops vulnerable to withering, stunting, pests, and disease. More than 37 lakh crop insurance applications received by the agriculture department – an all-time high – highlight the anxiety among farmers. Good sowing, thus, is no guarantee of a good harvest.
+
+The urban manifestation of the drought is perhaps starkest in Bengaluru. The city, which is heavily dependent on the Cauvery for its water needs, recorded a 63% rainfall shortage in August. With the city’s borewells running dry, this should not become another cycle of emergency tanker deployment and the fleecing of citizens that follows. In the short term, drinking water must take precedence over non-essential uses. Tankers need registration, transparent pricing, and monitoring, while vulnerable neighbourhoods must receive supplies based on need rather than purchasing power. Rural areas similarly require assured drinking water, fodder support, employment, and faster crop-insurance and relief payments.
+
+Leaner monsoon, deeper drought threatHowever, the larger challenge is to stop treating drought as an exceptional event, because it is not. Karnataka has India’s second-largest drought-prone and arid area, after Rajasthan, despite being home to major river systems such as the Cauvery and Krishna. The state administration is therefore accustomed to dealing with recurring droughts. Short-term mitigation must proceed on a war footing, but equally urgent are long-term strategies: watershed development, farm ponds, aquifer recharge, and rainwater harvesting. In dry regions, crop patterns should gradually move away from water-intensive paddy and sugarcane towards millets and pulses, backed by micro-irrigation. Bengaluru must strictly enforce rainwater harvesting, expand wastewater recycling, revive and rejuvenate its lakes, and reduce leakage in the distribution system. Karnataka is prone to spells of both floods and drought, trends that will only be aggravated by climate change. The state must therefore build resilience for the future, rather than merely respond when the next crisis arrives.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/resilience-now-for-future-droughts-4134485)
+
+---
+
+### A National Savarna Aayog? The BJP's upper-caste dilemma
+*Deccan Herald · Opinion*
+
+Some Bharatiya Janata Party (BJP) MPs have reportedly submitted a memorandum to Union Minister J P Nadda requesting the Union government to set up a ‘Rashtriya Savarna Aayog’ (National Commission for Upper Castes). This has led to speculation that the Narendra Modi government may be considering setting up a national body to protect the interests of castes, not falling in the SC/ST and OBC categories.
+
+It may be tempted to do so for several reasons, though a more neutral name like ‘Samanya Varg Ayog’ (General Category Commission) may be adopted for it.
+
+Two immediate catalysts for the demand perhaps have been the controversy over the University Grants Commission’s equity regulations and the political shock of the Bankipur byelection in Bihar.
+
+The UGC regulations — now held in abeyance by the Supreme Court following student protests — defined caste discrimination only in relation to SC, ST, and OBC students, with legally mandatory redress mechanisms. Upper-caste students objected that the rules recognised caste discrimination only when the victim belonged to a reserved category, excluding ‘general category’ students. There was no provision to punish false complaints, even as an elaborate redress architecture — Equal Opportunity Centres, Equity Committees, Campus Equity Squads, 24x7 helplines — was mandated for reserved-category students. This marked a sharp departure from the advisory 2011 guidelines; the 2026 regulations were strict, with severe consequences for non-compliance.
+
+The UGC regulations grew into a symbol of broader resentment against the BJP at the Centre, seen as increasingly favouring reserved-category claims and taking its traditional upper-caste base for granted. Uttar Pradesh — headed for elections in February/March — saw the highest number of protests, along with Bihar and Delhi. At least 10 BJP office-bearers and a city magistrate in UP resigned in protest.
+
+The second likely trigger was the BJP's shock defeat in Bankipur, a seat vacated by party president Nitin Nabin, a five-time MLA there before being elevated to the Rajya Sabha and as BJP president. The Assembly seat has a substantial upper-caste electorate, and its loss was read by BJP leaders as evidence of upper-caste anger and fears about a weakening of its traditional North Indian upper-caste base.
+
+The discontent has been compounded by the BJP’s efforts to present itself, under Modi, as a pan-caste Hindu coalition. Modi was promoted by the BJP as an OBC (Ghanchi/Teli caste), and the party gained significantly among non-Yadav OBCs while retaining its upper-caste support. However, the active promotion of a caste census by the party has unsettled upper-caste voters, who fear that once caste figures are compiled nationally, reservations and political representation for OBC groups will grow, and power and resources could grow more distant.
+
+This poses a dilemma for Hindutva ideologues: the RSS vision of Hindu unity requires caste to carry less significance, while a caste census would make caste even more salient by highlighting disparities. The party has no clear solution for how it may resolve these contradictory pulls.
+
+The BJP is trying to pre-empt the issue from escalating. Nadda met representatives of the ‘Reservation Hatao Andolan’ protesting at Jantar Mantar, promising to examine their demand that affirmative action be based on economic rather than caste criteria. This links to the idea of a national statutory body protecting the poor and educationally disadvantaged within the general category, whose problems otherwise get little attention from the State.
+
+BJP pulls up MPs for visititing family of 1984 anti-Sikh riots convict Sajjan Kumar A precedent exists in Bihar's Rajya Savarna Ayog, set up in 2011 to identify disadvantaged upper castes and recommend measures for them. It was revived in 2025. Described as Bihar's ‘busiest commission’, it has been collating upper-caste grievances and proposing measures such as free coaching, hostels, and age relaxation in government recruitment for economically weaker upper-caste candidates.
+
+Electoral considerations — paramount for the Modi government — could also push it towards creating such a commission.
+
+Brahmins, Rajputs, Banias, and other forward castes have traditionally formed the BJP's social base. As the party's expansion draws it toward OBCs, Dalits, and other marginalised groups, it faces a delicate balancing act. Though not yet ready to desert the BJP, its upper-caste base can no longer be taken for granted.
+
+In the 2027 UP polls, the BJP will need to hold on to both its upper-caste base and its non-Yadav OBC and Dalit support. UP Brahmins are especially aggrieved. They see Chief Minister Yogi Adityanath, favouring his own Rajput/Thakur caste in policing, administration, and political appointments. The killing of gangster Vikas Dubey (a Brahmin) and his associates in questionable police encounters and the public clash between police and the Shankaracharya's disciples (Vedic students or Batuks) — who were beaten and dragged by their shikhas (tufts) on live television — has further fuelled Brahmin anger against Adityanath.
+
+A National Savarna Ayog, if it is indeed set up, would signal that the BJP has not forgotten its upper-caste base even as it grapples with electoral arithmetic. A new commission for economically weaker upper castes may just be the compromise that could help the BJP resolve the contradictions of pursuing a caste census that could strengthen OBC reservation; rewriting the UGC equity rules without alienating SCs/STs; and placate the upper castes on reservations without the OBCs feeling that their Mandal-era gains have been abandoned.
+
+Were the Modi government to set up the commission, it may also help expose a faultline in the Gen Z coalition which the agitation managed to successfully suppress; that there is a difference between grievances common to youth and those of caste-based injustice.
+
+The Cockroach Janata Party-led Gen Z movement united young people around educational testing, unemployment, and government accountability rather than caste identity. A Savarna Ayog would introduce a new dynamic of caste-based grievance, potentially shifting the narrative from ‘not enough jobs for everyone’ to ‘jobs not distributed according to a caste's population share’. This could appeal to forward-caste youth in Hindi-belt states, while alienating OBC and Dalit Gen Z youth from the BJP.
+
+Equally, the Savarna Ayog could backfire if it is perceived as a government measure to divide them and distract from the real issue of jobs and accountability. It could unite Gen Z more firmly and the commission be reviled as yet another outrageous attempt by the BJP to divert youth concerns about economic opportunity by splitting the movement along caste lines.
+
+Bharat Bhushan is a New Delhi-based journalist.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/a-national-savarna-aayog-the-bjps-upper-caste-dilemma-4134852)
+
+---
+
+### The teacher we celebrate is not the teacher we support
+*Deccan Herald · Opinion*
+
+Every Teachers’ Day, we celebrate the patient mentor, the nation-builder, and the person who sees potential in every child. We share messages of gratitude and call teachers the backbone of education. But one question must sit beside these tributes: what does the education system do for the teacher it celebrates?
+
+This matters especially in India, where teachers’ experiences are not uniform. Institutional resources, gender, caste, tribe, geography, and the social location of schools shape their conditions.
+
+The National Curriculum Framework for Teacher Education (NCFTE) 2009 imagined the teacher as a reflective practitioner: someone who understands children, engages critically with curriculum and pedagogy, and responds to the social and cultural contexts of learning.
+
+The National Education Policy (NEP,2020) continues this vision. It calls for greater professional autonomy, reduced administrative work unrelated to teaching, and at least 50 hours of continuous professional development each year.
+
+English teacher post aspirants in Karnataka seek fair share in GPT recruitmentNo teacher in 150 Himachal schools; only one in 3500West Bengal SSC likely to come out with reworked merit list for school teacher recruitmentThe message is clear: good teaching cannot be separated from the conditions in which teachers work. Yet that is where the contradiction begins.
+
+The teacher who enters a classroom often carries a long list of duties that have little to do with teaching: attendance and records, online data entry, surveys, meetings, reporting requirements, school events, and the rollout of new initiatives. Individually, each task may appear reasonable. Together, they shrink the time available for teaching, planning and reflection.
+
+We expect teachers to build curious classrooms, even as their professional lives leave little space for curiosity. We urge children to question, experiment, and think independently, while teachers may work in systems where compliance is more visible and more easily measured than professional judgement.
+
+Moreover, not all teachers enter this system from the same starting point.
+
+For a female teacher posted in a remote area, an in-service programme at a distant District Institute of Education and Training may involve more than taking time away from school. Distance, transport, family responsibilities, safety and mobility determine whether professional development is genuinely accessible.
+
+The issue is not that teachers are unwilling to learn. It is that availability is not the same as accessibility. Teacher education must consider where teachers live, how they travel, the care work they undertake, and the support they can access.
+
+The same applies to teachers from historically marginalised communities. The inequalities children encounter in school do not disappear when someone becomes a teacher. Teachers from Dalit, Adivasi, nomadic, and denotified communities may also face stigma and institutional exclusion.
+
+Denotified communities continue to bear the historical burden of colonial classification as ‘criminal tribes’, a stigma that can shape encounters with public institutions. This matters because teacher autonomy cannot be separated from whose knowledge and experience the system recognises.
+
+A teacher is not merely the last link in a chain of implementation. Teaching requires constant decisions that cannot be reduced to a lesson plan: knowing when a child needs another explanation, when a textbook example will not work for a class, when a discussion should take an unexpected turn, or when two learners need different forms of support. These decisions require knowledge, experience, and the freedom to exercise judgement.
+
+That is why teacher education deserves greater attention. If teachers are expected to be reflective, adaptive, and professionally autonomous, these capacities cannot suddenly be demanded once they enter school. They must be cultivated during preparation.
+
+NCFTE 2009 and NEP 2020 both recognise that preparing teachers requires engagement with child development, society, curriculum, and pedagogy, not simply subject knowledge.
+
+A teacher may leave a programme with a strong understanding of inclusive pedagogy, child-centred learning or competency-based education. What happens when that teacher enters a large classroom with limited resources and a growing burden of administrative work? Teaching quality is shaped not only by what teachers know, but also by what the system allows them to do.
+
+The same is true of professional development. NEP 2020’s proposal of 50 hours a year is valuable. But it should not become another target to complete and record. The question is what those hours make possible: Can teachers observe colleagues, discuss classroom challenges, encounter new ideas and reflect on their practice? Or do they merely collect another certificate?
+
+Karnataka: Teacher aspirants fear age relaxation ignored in recruitment notification The teacher who chases his classroom across Kashmir’s mountainsWe ask much of teachers: classrooms must be inclusive; learning should be competency-based; children should think critically; pedagogy should be experiential; and, every learner’s needs should be recognised. These aspirations are worthwhile.
+
+But they require time, resources, mentoring, manageable workloads, and trust in teachers’ professional judgement. Celebrating teachers in words is easy. The meaningful measure of our commitment lies in the time they have to teach, the opportunities they have to learn, the support they receive, and the freedom they are given.
+
+If Teachers’ Day is to mean more than an annual ritual of gratitude, we must stop asking teachers to do more. We must build a system that trusts them enough to think, supports them enough to learn, and gives them enough freedom to teach.
+
+Richa Pandey holds a doctorate in education, and is a researcher at the Ravi J Matthai Centre for Educational Innovation, Indian Institute of Management Ahmedabad.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/the-teacher-we-celebrate-is-not-the-teacher-we-support-4134868)
+
+---
 
 ## 3 September 2026
 
