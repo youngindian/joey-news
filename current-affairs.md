@@ -1,3 +1,449 @@
+## 4 September 2026
+
+### ‘I could have been lynched’: Influencer Swatantra Bharadwaj clarifies ‘cracking skull’ claim during CJP protest
+*Hadi Khan · regional*
+
+Swatantra Bharadwaj (L) Nishu Aazad (R)
+
+NEW DELHI: Activist and self-styled influencer Swatantra Bharadwaj has clarified his earlier claim of attacking the father of CJP activist Nishu Azad during a protest at Jantar Mantar, saying the incident was an act of 'self-defence.
+
+'“What people are calling an attack was an act of self-defence. If I had not acted in self-defence, I could have been lynched by the mob or killed.""There was no attempt to attack him. I have proofs in the form of video. I was gheroed by 10-15 people. When I acted in self-defence, he was hit on the head. As per his medical report from Delhi Police, he did not suffer major injuries. I am cooperating with the ongoing investigation,” Bharadwaj said.Bhardwaj has been accused of assaulting Sanjay Kumar, the father of student activist Nishu Azad, during a Cockroach Janta Party (CJP) protest at Jantar Mantar.His clarification comes after a clip from a podcast surfaced on social media in which he appeared to claim that he had “cracked the skull” of Nishu’s father and had escaped being jailed despite the alleged assault.
+
+“I cracked the skull of Nishu's father. Do you know which section this crime attracts? Section 307.
+
+He needed 60 stitches. The man was being taken away in an ambulance in a serious condition. His daughter was standing outside the police station and saying that she would die by suicide if her father didn't get justice. But I was not even jailed. The world should know this. I was out and about through the night,” Bhardwaj is heard saying in the video.He also appeared to claim that he had the backing of several political leaders, including Delhi minister Kapil Mishra, Union minister Chirag Paswan and Prime Minister Narendra Modi.“I have the blessings of Hanuman. Secondly, Kapil Mishra is my elder brother. They say Kapil Mishra called and I was released. Chirag Paswan is my elder brother. How many leaders do you know? Do you know Modi ji? Modi ji is also my elder brother. I have everyone's support,” he says.The video triggered criticism from opposition leaders, with Leader of Opposition in the Lok Sabha Rahul Gandhi questioning why Bhardwaj was not jailed and whether he enjoyed political protection.Bhardwaj has now denied that he was released because of political influence and said the remarks in the podcast had been made sarcastically.“The podcast clip that is being shared on social media by Rahul Gandhi and others is fake. Those saying that I was released because of influence from Kapil Mishra, I want to tell them that Kapil Mishra and Chirag Paswan are like my brothers. People should understand what was said in sarcasm,” he said.He maintained that he had been surrounded by 10-15 people during the incident and that Kumar was hit when he acted in self-defence.Bhardwaj also disputed claims about the severity of Kumar's injuries, saying the Delhi Police medical report showed that he did not suffer major injuries. He said he was cooperating with the ongoing investigation.The allegations have sparked a political row, with opposition leaders questioning the circumstances surrounding the incident and Bhardwaj's claims of political connections.
+
+---
+
+### Before you eat your next mithai with chandi varak, read this doctor’s warning
+*Smarica Pant · general*
+
+## Occasional consumption of contaminated foil on sweets may not be harmful, but regular consumption could increase the risk of heavy metal exposure. Dr Anil Arora of Sir Ganga Ram Hospital explains how contaminated foil may affect the brain, kidneys and liver over time.
+
+Think that shiny foil on your mithai is pure silver? Doctor explains the risk
+
+Chandi varak, the thin shiny foil commonly placed on Indian sweets, is often associated with traditional sweets and festive celebrations. While the foil used on sweets may be pure silver, concerns can arise when the material is contaminated with other metals. According to Dr Anil Arora, Chairperson, Institute of Liver Gastroenterology, Sir Ganga Ram Hospital, occasional consumption of contaminated foil may not be enough to cause harm, but regular consumption over a long period could pose a risk if the foil contains heavy metals.
+
+The doctor explained that genuine silver foil is made from very pure silver and is typically a very thin film. He said such foil is required to meet food safety standards and be confirmed as safe for human consumption. However, the concern arises when what is being presented as silver foil is contaminated with metals such as aluminium, arsenic or cadmium.
+
+Dr Arora said that continued consumption of sweets covered with contaminated foil could potentially lead to heavy metal poisoning. Such exposure may affect major organs, including the brain, kidneys and liver. He stressed that eating contaminated foil once in a while is not necessarily enough to cause such effects, with the concern being more relevant to long term and repeated consumption.
+
+### WHAT IS THE CONCERN WITH CHANDI VARAK?
+
+According to Dr Arora, the foil placed on sweets may be pure silver, which can be 99.9% silver. It is generally made into an extremely thin film for use on food. The concern is when the foil becomes contaminated with other metals.
+
+He specifically mentioned aluminium, arsenic and cadmium as metals that can contaminate what is being used as silver foil. If such contamination is present and the foil is consumed repeatedly over a long period, there may be a risk of heavy metal poisoning.
+
+The doctor said this exposure could potentially have harmful effects on organs such as the brain, kidneys and liver.
+
+### OCCASIONAL CONSUMPTION MAY NOT BE HARMFUL
+
+Dr Arora made a distinction between occasional consumption and regular, long-term consumption. He said consuming contaminated foil once in a while it is not enough to necessarily cause harm.
+
+However, the concern increases when people regularly consume sweets carrying contaminated foil. Repeated exposure over time could increase the risk associated with heavy metals that may be present in the foil.
+
+This is particularly relevant because sweets are commonly consumed during festivals, celebrations and other occasions, making chandi varak a familiar part of Indian food culture.
+
+### HOW CAN YOU IDENTIFY THE FOIL?
+
+Dr Arora said consumers may find it difficult to distinguish between genuine silver foil and contaminated material simply by looking at the sweet.
+
+He explained that genuine silver foil is generally thin, very shiny and extremely light. A blackish or visibly contaminated film, according to him, may be more likely to indicate contamination with aluminium.
+
+However, he also pointed out that it is not easy for an ordinary consumer to determine whether the foil used on a sweet is genuine silver or contaminated material.
+
+### FOOD SAFETY AUTHORITIES HAVE A ROLE
+
+Dr Arora said food safety authorities have an important role in preventing contaminated foil from being used on sweets. Since consumers may not be able to identify the difference between genuine silver foil and contaminated foil themselves, ensuring the safety of the material used on food is important.
+
+He said it is the duty of the Food Safety and Standards Authority of India to prevent contaminated film from being used on sweets.
+
+The concern, therefore, is not simply about whether people eat the foil once or occasionally. The bigger issue is repeated consumption of sweets carrying foil that may be contaminated with heavy metals.
+
+### LONG TERM EXPOSURE IS THE MAIN CONCERN
+
+The key message from Dr Arora is that occasional consumption of contaminated foil should not be confused with repeated exposure over a long period. While a single or occasional instance may not be enough to cause heavy metal poisoning, continued consumption could pose a greater concern if the foil contains harmful metals.
+
+With consumers often unable to verify the composition of the foil themselves, the responsibility of ensuring that the material placed on sweets is safe becomes even more important.
+
+For consumers, the advice is to be aware of the quality of sweets and the material used on them, while food safety authorities and manufacturers have a role in ensuring that the foil used for food is safe for consumption.
+
+\- Ends
+
+Smarica Pant
+
+Sep 4, 2026 09:59 IST
+
+---
+
+### 'Fear Can't Decide My Duty': Sheikh Hasina On Return To Bangladesh Despite Death Sentence | Exclusive
+*Apoorva Misra · general*
+
+The former prime minister says her decision is driven by a desire to “stand beside” the people of Bangladesh during what she describes as one of the nation’s most difficult periods
+
+[Read full article](https://www.news18.com/world/fear-cant-decide-my-duty-sheikh-hasina-on-return-to-bangladesh-despite-death-sentence-exclusive-ws-l-10309639.html)
+
+---
+
+### FSSAI cracks down on 'Wai Wai' maker over bhujia made from floor-collected noodles
+*India Today Business Desk · general*
+
+The Food Safety and Standards Authority of India (FSSAI) has ordered a Nepali billionaire-owned company that produces the famous Wai Wai noodles to stop manufacturing certain products after food safety inspectors found broken noodles collected from the factory floor being used to make Indian snacks, news agency Reuters reported. This comes amid a nationwide crackdown against eateries, outlets and restaurants over food hygiene and quality, with popular brands such as Pizza Hut and Domino's also facing regulatory action in recent weeks.
+
+The action was taken against a factory operated by CG Foods India in Rajasthan. The company is part of CG Corp Global, the conglomerate led by Binod Chaudhary, Nepal's only billionaire who is widely known as the 'Noodle King' for building the Wai Wai instant-noodle brand.
+
+The FSSAI said inspectors found that the factory was "re-processing floor-collected broken noodles into _bhujia_ without heat treatment".
+
+_Bhujia_ is a popular fried Indian snack sold in small packets by numerous food companies across the country. The investigation focused on two Wai Wai-branded _bhujia_ products.
+
+Authorities also seized nearly 32,000 kg of stock from the facility and found 1,925 boxes of expired finished products. The FSSAI said that legal proceedings had been initiated against the food business operator and that samples had been collected for testing.
+
+This comes days after Maharashtra food safety officials found expired and nearly expired products carrying altered expiry dates and nutrition labels during a raid on a warehouse in Navi Mumbai. The products were from major brands such as Nestle, Unilever, Coca-Cola and PepsiCo, with officials finding chemicals allegedly used to rub off dates from packaging and machines to print replacement labels.
+
+Nearlu 5,000 cartons of consumer products were found inside four rooms of the facility. These included popular items such as Lay's and Kurkure chips by PepsiCo, Maggi Masala Noodles by Nestle, Coca-Cola's Thums Up and Limca cans, and Unilever's Knorr Mushroom Soup.
+
+While crackdowns are happening across India, Maharashtra FDA chief Tukaram Mundhe has gained prominence for his no-holds-barred approach and strict hygiene and safety protocols. Last month, he suspended the licences of four Domino's Pizza and one Pizza Hut outlets after a statewide raid revealed multiple violations.
+
+\- Ends
+
+Sep 4, 2026 09:53 IST
+
+---
+
+### ‘Ruckus’, Slogans And Showdown: AAP-BJP Clash Over SC Panel Poll, Delhi Mayor's Office Turns Battleground
+*Aanchal Sinha · general*
+
+AAP councillors entered the Mayor's office and raised slogans, while a verbal confrontation took place between the councillors and Wahi.
+
+[Read full article](https://www.news18.com/india/ruckus-slogans-and-showdown-aap-bjp-clash-over-sc-panel-poll-delhi-mayors-office-turns-battleground-ws-kl-10309604.html)
+
+---
+
+### Volkswagen To Lay Off Another 50,000 Employees; To Halve Model Portfolio
+*Mohammad Haris · business*
+
+With the latest reductions, total planned job cuts across the Volkswagen Group could reach about 1,00,000.
+
+[Read full article](https://www.news18.com/business/markets/volkswagen-to-lay-off-another-50000-employees-to-halve-model-portfolio-10309631.html)
+
+---
+
+### Nepal floods leave nearly 600 children missing in Rasuwa and Nuwakot
+*India Today World Desk · general*
+
+## Flash floods in Nepal have left hundreds of children missing in Rasuwa and Nuwakot. The disaster has exposed the scale of devastation as rescue teams race against broken communications.
+
+Image used for representational purposes only
+
+Nearly 600 children remain unaccounted for in Nepal's Rasuwa and Nuwakot districts after flash floods that struck parts of the country last month, while the overall death toll has risen to 1,282 and more than 4,700 people are still missing.
+
+The floods were triggered by an ice-rock avalanche near the Nepal-Tibet border on August 26 and devastated towns and villages in northern and central Nepal. Security forces are continuing search operations across the affected areas, even as officials and schools struggle to verify the number of missing children and teachers because communications remain disrupted.
+
+According to Nepal Police, 359 bodies have been recovered in Chitwan, 218 in Nawalparasi East, 208 in Nawalparasi West, 185 in Nuwakot, 72 in Gorkha, 60 in Dhading, 140 in Rasuwa and 38 in Tanahu. With two people dying while undergoing treatment in two hospitals in Kathmandu, the death toll has reached 1,282. The joint command of security forces is searching for 4,798 people missing from different areas.
+
+The Kathmandu Post, citing figures compiled by local Education Development and Coordination Units, local governments and educational institutions, reported that an estimated 280 children are missing in Rasuwa and between 300 and 350 are unaccounted for in neighbouring Nuwakot in central Nepal. Surya Bahadur Khatri, head of the Nuwakot Education Development and Coordination Unit, said, "We are actively liaising with headmasters to collect verified data on missing students, though school heads are struggling to provide exact figures due to broken communications." He added, "Although a few missing students have been located, new reports of unaccounted-for children continue to arrive from various schools. We estimate that at least 300 pupils are missing in our district."
+
+In Bidur Municipality of Nuwakot alone, roughly 250 children have been missing since the floods hit, according to Navaraj Sapkota, school inspector of the municipality's education unit. "The situation on the ground is deeply distressing. In some cases, we have located surviving parents who cannot find their children, while in other instances, surviving students are searching for missing parents," he said. Bidur has 170 educational institutions, including 142 community schools and 28 private schools. In Rasuwa, Durga Prasad Silwal, chief of the local education unit, said official verification was under way, but preliminary records showed that 280 students were currently missing across the district.
+
+The disaster has also affected teachers and school staff, with education units confirming that 22 of them remain missing across the two districts. According to the Kathmandu Post, Rasuwa reported 16 missing teachers, including 15 from community schools and one from a private institution, while Nuwakot confirmed six missing teachers. Several teachers from Dhading and Gorkha who had travelled to Rasuwa for pilgrimage were also caught in the floods and remain missing. Although several bodies have been recovered in downstream districts, authorities have yet to verify the exact number of identified students or teachers. Ministry of Education data showed that the floods affected 22 schools across Rasuwa, Nuwakot and Dhading, with 12 institutions completely destroyed.
+
+The latest figures show the scale of the disaster in Nepal, with 1,282 dead, 4,798 people still missing, hundreds of children unaccounted for in Rasuwa and Nuwakot, and schools, teachers and staff among those badly affected.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Sep 4, 2026 09:50 IST
+
+---
+
+### IIT grad Anil Chakravarthy named Adobe CEO, Shantanu Narayen hails his business skills
+*Armaan Agarwal · general*
+
+## Adobe has named Anil Chakravarthy as its new CEO. He will replace Shantanu Narayen on December 1. Chakravarthy has worked at Adobe for nearly seven years and is a graduate from IIT Varanasi.
+
+Anil Chakravarthy will take over as Adobe CEO on December 1. (Photos: Reuters/Adobe)
+
+Adobe is set to have a new CEO. The company has announced Anil Chakravarthy will be replacing Shantanu Narayen as president and CEO. Narayen had said in March that he would step down after 18 years in the top job. Chakravarthy will take over on December 1 and also join Adobe’s board at a time when investors are concerned over the company’s future as AI reshapes the software industry.
+
+Anil Chakravarthy shared a LinkedIn post, acknowledging that AI will be at the forefront of innovation. “Honoured and incredibly excited for what’s ahead at Adobe. Our customers, employees (best in the world!) and AI innovation are top of mind, as always,” he wrote. “Deep gratitude to our Chair & CEO, Shantanu Narayen, and the Adobe Board of Directors for their trust in me. Adobe’s best days are ahead!”
+
+A screenshot of Chakravarthy's LinkedIn post.
+
+In a statement, Shantanu Narayen called Anil Chakravarthy an “experienced transformational leader who leads with values, integrity and a deep knowledge of our business.” Narayen will move into the role of executive chair and work closely with him during the transition, the company said.
+
+### Who is Anil Chakravarthy?
+
+Anil Chakravarthy joined Adobe in January 2020, nearly seven years ago, after serving as CEO of enterprise cloud data management company Informatica from 2015 to 2020.
+
+He first joined Adobe as executive vice-president and general manager of its Digital Experience business. In September 2020, Chakravarthy also took charge of worldwide field operations across Adobe’s portfolio, and in December 2021 he was promoted to president of Digital Experience and worldwide field operations. Most recently, he served as president of Adobe’s customer experience orchestration business and worldwide field operations.
+
+In the past, Chakravarthy held executive roles at Symantec and VeriSign and also worked at McKinsey & Company.
+
+He holds a Bachelor of Technology in Computer Science and Engineering from the Indian Institute of Technology (Banaras Hindu University) Varanasi, and a Master of Science and PhD from the Massachusetts Institute of Technology. He currently also serves on the board of IT services and consulting company FIS.
+
+### Anil Chakravarthy to lead Adobe in AI era
+
+Chakravarthy’s appointment comes as Adobe tries to hold its position in design and creative software while rapid advances in AI bring new competition into its markets.
+
+The company has been embedding AI across its products and in June raised its annual profit forecast, pointing to demand for its AI-powered tools. Even so, some analysts have remained sceptical about the longer-term effect of AI on Adobe’s business.
+
+Anil Chakravarthy comes with a strong background in implementing AI solutions across Adobe’s products. As per the company, Chakravarthy helped build its customer experience orchestration business, which uses real-time data and AI to help businesses deliver more personalised customer experiences across digital channels.
+
+He has also led AI-linked products including Adobe CX Enterprise, GenStudio and Brand Visibility, and played a role in Adobe’s acquisitions of Workfront and Semrush and their integration into the company’s portfolio.
+
+Adobe’s shares have come under pressure alongside other software companies seen as vulnerable to AI disruption. After a boom in 2023, the stock fell 25 per cent in 2024 and another 21 per cent in 2025, and is down about 18 per cent so far in 2026.
+
+The shares were down about 2 per cent in extended trading after the announcement, with another report putting the after-hours decline at 1.7 per cent.
+
+\- Ends
+
+Armaan Agarwal
+
+Sep 4, 2026 09:50 IST
+
+---
+
+### IIT Delhi Sonipat campus's new solar course comes with Europe internship: Details here
+*India Today Education Desk · general*
+
+IIT Delhi’s Sonipat campus has begun its academic journey with a programme focused on one of the world’s biggest clean-energy challenges: solar power.
+
+The institute has launched a one-year Postgraduate Diploma in Solar Systems and Management in collaboration with the International Solar Alliance (ISA) and Institut National de l’Energie Solaire (INES), France.
+
+The inaugural batch began on September 3 with nine international fellows from eight countries. The programme is being offered by IIT Delhi’s Department of Energy Science and Engineering.
+
+### A CLASSROOM WITH A GLOBAL PURPOSE
+
+This is not designed as a conventional classroom programme. The course will provide hands-on training in solar technology and its applications, with teaching by IIT Delhi faculty members, industry experts and other specialists.
+
+The programme is sponsored by the United Nations Industrial Development Organisation (UNIDO).
+
+Prof Ramesh Narayanan, Head of the Department of Energy Science and Engineering at IIT Delhi, said the programme would help place the institute at the global forefront of energy education and management.
+
+The larger aim is to train participants from the ISA’s more than 120 member countries so they can become trainers at Solar Technology and Application Resource Centres, or STAR-C centres, in their respective countries.
+
+### FROM SONIPAT TO EUROPE
+
+The learning will not end when the diploma does.
+
+After completing the programme, the fellows will undertake a one-month internship in Europe focused on applied solar technologies. They will then be assigned to STAR-C centres in their home countries.
+
+These centres aim to build skills, infrastructure and innovation ecosystems that can help countries accelerate solar-energy deployment and create green jobs.
+
+### MORE PROGRAMMES IN THE PIPELINE
+
+The new programme is also part of a broader partnership between IIT Delhi and the International Solar Alliance.
+
+The two institutions formalised a Framework for Action earlier this year to strengthen cooperation in renewable energy, with a focus on capacity building, academic collaboration and human-resource development.
+
+For IIT Delhi’s Sonipat campus, this first programme could be the start of a larger academic offering.
+
+Prof Somnath Baidya Roy, professor-in-charge of the Sonipat campus, said the institute plans to introduce more such programmes in the coming years.
+
+\- Ends
+
+Princy Shukla
+
+Sep 4, 2026 09:49 IST
+
+---
+
+### Suriya's parenting tip: why “you didn’t come first” can affect a child’s confidence; one sports day incident that changed his perspective
+*Trending Desk · business*
+
+School today often carries more weight than just learning for many children, it's tied to marks, ranks and constant comparison. The pressure to be "the best" can start early, and actor Suriya has spoken candidly about this issue. An old conversation of his with Vanitha TV has resurfaced online, striking a chord with many who 
+
+## How "You Didn't Come First" Shapes a Child's Mind
+
+Suriya pointed out how easily parents shift focus to what a child didn't achieve rather than what they did. He explained, "If they're getting 18 marks, you're not happy. 'You didn't come first. Oh, you didn't come first at all in class.' We put that in their mind."
+
+His concern wasn't that parents shouldn't encourage effort, it was about how constant comparisons chip away at a child's self-belief. When kids repeatedly hear that finishing first is everything, they may begin equating anything less with failure, gradually losing sight of the joy of learning or exploring their own talents.
+
+  
+  
+
+## The Real Issue Is Pressure, Not Competition Itself
+
+Suriya clarified that competition itself isn't something to avoid, it can push children to try harder. What he cautioned against was competition turning aggressive, where kids feel they must outdo everyone else. "That hardcore competitiveness is nice. Just let them not be very, very aggressive about it," he said, adding that empathy toward others matters just as much as ambition. He also touched on the broader system, how tough college cutoffs and admission pressures weigh heavily on students and parents. Yet, he believes children should still get room to simply enjoy being kids.
+
+## A Sports Day Moment That Taught Him a Bigger Lesson
+
+Suriya recounted an incident involving his son Dev during a school sports day. The event required kids to run, grab a water bottle, and race back. Confident in his son's speed, Suriya believed his son had a strong chance of winning.
+
+Midway through the race, though, Dev paused not because he was tired, but to pick up a blue bottle, his favourite colour. He then went looking for another one, eventually returning with a pink bottle too, because he remembered his sister Diya loved that colour.
+
+Dev lost the race. But when he told his father why, Suriya realised his son had prioritised something far more meaningful than winning, he had thought of his sister entirely on his own.
+
+## "I'm Good At Certain Things"
+
+What struck Suriya even more was Dev's reaction to losing. There was no jealousy or disappointment, just quiet acceptance. "He runs very well. Nobody can beat him. He's the fastest in our class," Dev told his father about the boy who won.
+
+At the same time, Dev recognised his own strengths, pointing out that he was better at drawing than the boy who'd beaten him in the race. Suriya was struck by how naturally his son understood that different people excel in different ways, without anyone teaching him that lesson. "Nobody had coached him to think that way," he said.
+
+## Every Child Doesn't Have to Finish First
+
+Suriya's larger message is simple: childhood shouldn't feel like a race everyone must win. One child may not top the class but could be a gifted artist. Another may not run the fastest but might be kind, imaginative, or a wonderful friend. Some talents surface early, others take time.
+
+Parents, he suggests, can still push children to do their best, without tying their worth to rank or marks. Because in the end, being first in class is just one kind of achievement. Learning to value others, recognise one's own strengths, and stay kind while competing might matter far more in the long run.
+
+\[With TOI inputs\]
+
+---
+
+### Thought 2026 was extreme? Here's why 2027 is expected to be worse
+*India Today Science Desk · general*
+
+If 2026 has already felt like a year of weather extremes, the outlook for 2027 offers little comfort.
+
+The World Meteorological Organisation (WMO) has warned that the El Nino over the tropical Pacific is expected to strengthen into a very strong event and persist all the way through February 2027.
+
+The agency puts the likelihood of El Nino continuing into February at nearly 100%, its most unequivocal forecast yet.
+
+It's something the world is now paying attention to because El Nino can disturb rainfall and temperature patterns across the globe and do so effortlessly.
+
+A dog walks on cracked ground at a dried-up lagoon. (Photo: Reuters)
+
+And with the planet already experiencing exceptionally warm oceans and a changing climate, the effects of El Nino could add another layer of stress.
+
+### EXTREME WEATHER TO STAY
+
+El Nino is a natural climate pattern in which unusually warm waters develop across the central and eastern tropical Pacific Ocean.
+
+This warming changes atmospheric circulation, which can shift where rain falls and where heat builds up thousands of kilometres away.
+
+It's therefore a worrying issue that the current event is already strengthening.
+
+> El Nio is firmly established and will intensify into a very strong event in the coming months. WMO forecasts show ~100% likelihood that it will persist through February 2027.
+> 
+> A very strong El Nio same impacts everywhere.
+> 
+> WMO El Nino Update: https://t.co/KUPq04jjkT pic.twitter.com/PAx1EZTCOH— World Meteorological Organization (@WMO) September 3, 2026
+
+WMO has said that exceptionally warm Pacific waters are expected to push it towards very strong intensity, with the peak likely towards the end of 2026.
+
+The El Nino's climate effects, however, are expected to continue into 2027.
+
+That could mean a greater risk of extreme heat, drought and flooding in different parts of the world. Although, one should keep in mind that El Nino does not mean every country will become hotter or drier, as the effects vary according to the region.
+
+### WHY WILL 2027 FACE EXTREME WEATHER?
+
+There is another reason to watch 2027 closely.
+
+> With El Nio-driven rising air in full force, more strong hurricanes and typhoons will brew across the Pacific Ocean in the weeks ahead.
+> 
+> In the Atlantic, storm risk could increase from late September into October, as pulses of convection tap into largely untapped ocean warmth. pic.twitter.com/J7SFGbJAWl— Ben Noll (@BenNollWeather) September 3, 2026
+
+WMO's latest longer-range assessment has said that global temperatures are likely to remain at or near record levels over the next five years.
+
+The organisation has given an 86% chance that at least one year between 2026 and 2030 will be warmer than the current record-holder, 2024.
+
+The report specifically noted that El Nino expected towards the end of 2026, increases the chances of 2027 becoming that record-breaking year.
+
+So, 2027 is not being forecast as universally "worse" than 2026. Rather, the concern is that an already warmer planet could collide with a powerful El Nino, increasing the odds of another year marked by exceptional heat and disruptive rainfall.
+
+> You're looking live at El Nio going "full-tilt" to start meteorological fall. Once in a lifetime event.
+> 
+> Three monster hurricanes in E. Pacific w/Hawaii splitting the uprights.
+> 
+> Moisture from Hurricane Marie is going to inundate U.S. desert Southwest with major monsoon! pic.twitter.com/WN6G8gM2ra— Ryan Maue (@RyanWeather) September 1, 2026
+
+### HOW WILL EN NINO AFFECT INDIA?
+
+For India, the biggest concern is rainfall.
+
+El Nino has historically often been associated with weaker southwest monsoon rainfall, although it does not determine India's monsoon on its own.
+
+India's 2026 monsoon has already struggled, with the India Meteorological Department (IMD) forecasting seasonal rainfall at 90% of the long-period average, while August ended with a 16% rainfall deficit.
+
+An instructor trains children on a dry patch of the Ganga riverbed. (Photo: PTI)
+
+If El Nino remains active into early 2027, its influence could continue to affect temperature and rainfall patterns, raising concerns over water availability, agriculture and heat.
+
+The warning, therefore, is not that every extreme event in 2027 will be caused by El Nino. Rather, it's that the planet is set to enter another year while carrying a certain level of instability sitting atop an already warming planet.
+
+\- Ends
+
+Sep 4, 2026 09:45 IST
+
+---
+
+### Planning A Bhandara This Ganeshotsav? Tukaram Mundhe's FDA Deadline Is 7 Days — Apply Now
+*Sumedha Kirti · general*
+
+FDA commissioner Tukaram Mundhe has made registration compulsory for all Ganeshotsav feasts. Here is the step-by-step process, the checklist, and the penalty for skipping it.
+
+[Read full article](https://www.news18.com/cities/mumbai-news/planning-bhandara-this-ganeshotsav-tukaram-mundhe-fda-deadline-7-days-apply-now-10309582.html)
+
+---
+
+### Janmashtami 2026: Lord Krishna had a sister Yogamaya who was also born on the same ashtami night. She also has a connection with Delhi's Mehrauli and Vindhyavasini
+*Trending Desk · business*
+
+Krishna Janmashatami 2026: As devotees across India celebrate Janmashtami 2026 on Friday, September 4, the story of Lord Krishna's birth brings another figure into focus, Yogamaya, the divine girl associated with Krishna's birth and regarded in tradition as his sister. Her story is closely linked to the events surrounding Krishna's birth and, according to religious tradition, to two important places of worship, the Yogmaya Temple in Delhi's Mehrauli and the Vindhyavasini shrine in Vindhyachal.
+
+Krishna's birth is celebrated at midnight on the eighth day, or Ashtami, of the dark fortnight of the Hindu month of Bhadrapada. According to the traditional account, Yogamaya was born on the same night.
+
+  
+
+While Krishna was born to Devaki and Vasudeva in Mathura, Yogmaya was born to Yashoda and Nanda. Vasudeva later carried Krishna across the Yamuna to Gokul and brought Yashoda's newborn daughter back to Mathura.
+
+The story of Yogamaya appears in the Bhagavata Purana. She plays an important role in the events surrounding Krishna's birth. Kamsa, who had been warned that Devaki's eighth child would be responsible for his death, had imprisoned Devaki and Vasudeva. When he saw the newborn girl instead of Krishna, he tried to kill her.
+
+But the child slipped from his hands and appeared in the sky in a divine form. She warned Kamsa that the child who would eventually defeat him had already been born elsewhere. This is the reason Yogamaya is remembered alongside the story of Krishna's birth. She was not simply another character in the birth narrative. Her appearance helped protect Krishna's identity and marked the beginning of Kamsa's downfall.
+
+  
+
+## Why is Yogamaya linked to Krishna's sister?
+
+In Hindu tradition, the girl who was exchanged with Krishna is regarded as his sister. Different religious traditions identify her with Yogamaya, Mahamaya or other forms of the divine feminine. The tradition also connects her with the goddess Vindhyavasini. This is where the story moves beyond Mathura and Gokul and reaches Vindhyachal and Delhi.
+
+## Yogamaya Temple in Mehrauli
+
+Delhi has an unusual connection with Krishna's sister through the ancient Yogmaya Temple in Mehrauli. Located close to the Qutb complex, the temple is dedicated to Goddess Yogmaya. Local religious tradition identifies the deity worshipped here with the sister of Krishna. The shrine remains an active place of worship in Mehrauli.
+
+The temple's history is surrounded by several traditions. Some accounts associate the shrine with ancient Delhi and the area known as Yoginipura. Other traditions attribute the original shrine to the Pandavas. These claims belong to the religious and local traditions surrounding the temple and should not be confused with firmly established archaeological history.
+
+The present temple structure is associated with the early 19th century, with accounts placing its rebuilding in 1827 during the reign of Mughal emperor Akbar II.The temple also has a connection with Delhi's famous Phool Walon Ki Sair, in which floral offerings are taken to the Yogmaya Temple as well as the nearby shrine of Qutbuddin Bakhtiyar Kaki.
+
+## From Yogamaya to Vindhyavasini
+
+The other major link in the story is Vindhyachal in Uttar Pradesh. According to a widely followed tradition, after escaping from Kamsa, Yogamaya manifested as Goddess Vindhyavasini and took her abode in the Vindhya mountains. The Vindhyavasini Devi Temple at Vindhyachal is therefore associated with the goddess who appears in the Krishna birth story.
+
+Vindhyavasini is worshipped as a form of the goddess, and her identity is connected with several names and traditions in Hindu religious literature. This creates a distinctive religious connection: the same divine figure associated with Krishna's birth is worshipped as Yogmaya in Mehrauli and as Vindhyavasini in Vindhyachal, according to tradition.
+
+## Why Yogamaya matters on Janmashtami
+
+Janmashtami is usually remembered for Krishna's midnight birth, but the story of Yogamaya is an important part of the same narrative. Krishna was born in the prison of Mathura while Yogamaya appeared as the girl who was taken back to Kamsa. Her escape from Kamsa's hands and warning to him became one of the turning points in the story.
+
+For devotees, the two births on the same Ashtami night are therefore connected. Krishna's journey from Mathura to Gokul changed the course of the story. Yogamaya's appearance before Kamsa announced what was to come.
+
+## A lesser-known Delhi connection to Janmashtami
+
+For many people in Delhi, the Yogmaya Temple provides a local connection to a story usually associated with Mathura and Vrindavan. The shrine stands in Mehrauli, close to the Qutb complex, and continues to be associated with Yogmaya, the goddess regarded in tradition as Krishna's sister.
+
+So, while Mathura and Vrindavan remain at the centre of Janmashtami celebrations, the story of Krishna's birth also leads to an old temple in south Delhi and to the Vindhyachal shrine of Vindhyavasini.
+
+That is what makes the story of Yogamaya an interesting part of Janmashtami, her story begins on the same night Krishna was born, but her worship continues in traditions that stretch from the Krishna legend to Mehrauli and Vindhyachal.
+
+---
+
+### Union home minister Amit Shah opens 400-bed tower of private hospital
+*TNN · regional*
+
+Union Home Minister Amit Shah inaugurated a new 400-bed tower at Max Smart Super Specialty Hospital.
+
+NEW DELHI: Union home minister Amit Shah Thursday inaugurated Max Smart Super Specialty Hospital, Saket's new 400-bed tower, taking the integrated Saket facility's capacity to around 1,200 beds and making it the largest private hospital in the city by bed capacity.In a post on X, Shah said, "Inaugurated the new building of the Max Smart Super Speciality Hospital in Saket, Delhi. The new facility marks another milestone in the hospital chain's 25-year journey of service to the people, in which it provided 3.60 lakh people with state-of-the-art free medical care worth Rs 244 crore in the past year alone. This new addition will further expand these services, benefiting more people.
+
+"The expansion comes amid rising demand for advanced tertiary and quaternary care in Delhi-NCR, with Max Healthcare chairperson and MD Abhay Soi warning that the region could face a significant shortage of hospital capacity over the next 10-15 years.Soi said Delhi-NCR currently has fewer than 10,000 private-sector hospital beds, while the requirement could rise to around 40,000 beds over the next 15 years. He said this would require a major expansion of healthcare capacity.
+
+Max Healthcare plans to increase its overall capacity from around 6,000 beds to more than 10,000 beds, with investments of over Rs 6,000 crore. Soi said the company is redeploying its free cash flow to create additional capacity.The inauguration was attended by Delhi chief minister Rekha Gupta, health minister Pankaj Kumar Singh and South Delhi MP Ramvir Singh Bidhuri. Soi said around 45% of Max's Delhi business comes from other states and cities, while international patients account for about 9%.
+
+
+---
+
 ## 3 September 2026
 
 ### Op Sindoor Battle To Ayodhya's Sacred Soil: A Look At New Ram Temple Trust CEO Jeetendra Mishra's Journey
