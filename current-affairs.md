@@ -1,3 +1,475 @@
+## 5 September 2026
+
+### Speeding car crashes into another, teen on scooter gets trapped in between; dies
+*Abdul Basheer · general*
+
+## CCTV footage of the incident shows a white car suddenly crashing into a blue car that was making a turn. The electric scooter carrying the two boys came between the two vehicles and got trapped in the collision.
+
+A 15-year-old boy was killed, and another minor sustained serious injuries after the electric scooter they were travelling on was caught between two cars in a road accident in Telangana’s Kamareddy town on Friday.
+
+The accident occurred in the Ashok Nagar area of the town. CCTV footage of the incident shows a white car suddenly crashing into a blue car that was making a turn. The electric scooter carrying the two boys came between the two vehicles and got trapped in the collision.
+
+The impact was so severe that both riders were thrown off the scooter. One of the boys died on the spot after sustaining serious injuries, while the other was rushed to the Kamareddy General Hospital, where he is undergoing treatment.
+
+### POLICE PROBE ACCIDENT
+
+Following the accident, police registered a case and launched an investigation to determine the circumstances that led to the crash.
+
+Officials are examining how the two cars collided and how the scooter became trapped between them. The exact cause of the accident has not yet been officially established.
+
+Police are also investigating whether factors such as excessive speed or negligent driving played a role in the crash. No such cause has been confirmed so far.
+
+Further details are awaited as the investigation continues.
+
+### BUS OVERTURNS IN KAMAREDDY
+
+Meanwhile, on the same day, in a separate incident, a bus overturned at Kamareddy’s Jukal X Road, killing the driver and leaving several passengers injured.
+
+According to a report by news agency ANI, the bus was travelling from Hyderabad to Bichkunda when it hit a roadside divider before overturning. The driver, identified as Anjaneyulu, died on the spot.
+
+Several passengers sustained injuries in the accident and were taken to a hospital for treatment.
+
+\- Ends
+
+Akash Chatterjee
+
+Sep 5, 2026 09:53 IST
+
+---
+
+### Shoes scattered, lungs torn out: Eyewitnesses recount US strike on Iran wedding
+*India Today World Desk · general*
+
+## A US missile strike hit Kuhestak in southern Iran, with residents reporting a wedding gathering was caught in the blast. The attack, which killed at least five people and injured more than 50, is now under US scrutiny amid escalating hostilities with Tehran.
+
+Rubble lies around a damaged house following the attack near a wedding gathering in Kuhistik, Sirik, Iran, September 2, 2026.
+
+The shoes were scattered across the ground, children were among the wounded and a wedding celebration had been turned into a scene of devastation in Kuhestak, a small coastal town in southern Iran.
+
+Days after the US strike, the signs of the blast remained etched across the town — damaged buildings, piles of rubble and belongings left behind as residents fled the chaos. At least five people were killed, including a child, while more than 60 others were injured, according to Iranian media and rights groups.
+
+“There was dust and smoke everywhere. Someone was shouting, someone was screaming,” local resident Suleiman Zakiri Fard told Iran's WANA news agency, according to Reuters. “People were coming out one by one, some with blood all over their faces.”
+
+(Credits: Reuters)
+
+Fard said he witnessed two drone strikes that hit the wedding gathering after a missile strike on a nearby telecommunications tower.
+
+The wedding had been about to begin when the explosions struck. According to AP, women and children had gathered at a family compound for the ceremony, although the bride and groom had not yet arrived.
+
+(Credits: Reuters)
+
+### ‘THE SCENES WERE VERY HEARTBREAKING'
+
+For 34-year-old Sasan Zarei, a local vendor, the aftermath was equally harrowing.
+
+Zarei said he was outside the town when he heard the explosions on Tuesday. He rushed towards the site after learning that the home of local resident Ali Mallahi had been hit and joined others searching through the rubble.
+
+“We rushed to help, and recovered people and stuff from under the rubble. Most of the injured were kids,” Zarei told the Associated Press (AP).
+
+He recalled seeing shoes scattered around the blast site and described the injuries suffered by children.
+
+“The scenes were very heartbreaking. The shoes had been scattered everywhere. One of the kids had their lungs torn out. They are now hospitalized,” Zarei said, according to AP.
+
+Zarei also disputed the suggestion that the area was a military site.
+
+“The US, out of desperation and fear of Iran's missiles, (hit) the innocent people. This was not a military area or anything like that,” he said.
+
+The reported strike has since become the focus of questions over whether a US munition directly hit the wedding gathering.
+
+### WEAPONS EXPERTS POINT TO DIRECT US STRIKE
+
+The United States has not accepted responsibility for the incident. However, an analysis by Reuters of verified images and videos found that the explosion at the wedding was likely caused by a direct hit from a US munition rather than a ricochet from another target.
+
+Reuters shared images and footage from the scene with four military weapons experts. Three said the munition was likely a US weapon rather than an errant Iranian air-defence missile, while one suggested that the weapon may have missed its intended target.
+
+(File Photo: ITG)
+
+The wedding location was about 135 metres from a telecommunications tower that was reportedly targeted in the US operation, according to Reuters.
+
+Iranian authorities have also pointed to evidence recovered from the scene. The Chief Justice of Hormozgan province told WANA that fragments found at the site belonged to the US military.
+
+Footage filmed in Kuhestak on Friday showed damaged buildings and rubble still littering the streets, several days after the blast.
+
+### VANCE SAYS US IS INVESTIGATING
+
+US Vice President JD Vance said Thursday that Washington was investigating reports that a US strike had hit a wedding.
+
+“We’re investigating it very fully,” Vance said, adding that the United States does not target civilians during combat but that “sometimes things happen”.
+
+US Central Command spokesman Capt. Tim Hawkins also said the military was looking into reports of the strike on the wedding. He did not say whether a formal investigation had been launched.
+
+The US military has said its wider operations in southern Iran targeted military assets, including air-defence systems, radar installations, maritime assets and communications sites.
+
+The incident has nevertheless intensified scrutiny of the civilian toll of the renewed US-Iran hostilities.
+
+### A TOWN CAUGHT IN WIDER WAR
+
+Kuhestak is one of several small towns along Iran's barren southern coastline, close to the strategically important Strait of Hormuz.
+
+The reported strike came as Washington and Tehran exchanged attacks after a month-long lull in hostilities. Iran launched retaliatory missile and drone attacks against US forces and American allies in the region following the latest US bombardment.
+
+The Strait of Hormuz has emerged as a major flashpoint in the conflict, with the US accusing Iran of disrupting shipping through the vital waterway. The escalation has raised fears of a wider regional conflict and possible disruption to global energy supplies.
+
+For Kuhestak, however, the consequences of that confrontation have been painfully local.
+
+A place where families had gathered for a wedding was reduced to rubble. The celebration never began, and residents were left searching for survivors amid shattered homes and scattered belongings.
+
+The tragedy has also revived memories of another deadly strike nearby. In February, a US missile strike destroyed a primary school in Minab, around 30 kilometres from Kuhestak, killing more than 175 people, according to Iranian officials.
+
+Now, once again, residents are left to pick through the wreckage of a conflict being fought far beyond their small coastal town — and to mourn a celebration that became another chapter in its growing list of wartime tragedies.
+
+\- Ends
+
+Ritaban Misra
+
+Sep 5, 2026 09:49 IST
+
+---
+
+### Pamela Anderson grows homegrown roses for beauty treatments in her home garden. Actress shares 4 simple gardening tips for beginners
+*Unknown · business*
+
+Pamela Anderson’s idea of a home garden goes far beyond keeping a few pots on a balcony. The actress has created a sprawling kitchen garden at her family property on Vancouver Island, where vegetables and flowers grow side by side. What makes it even more interesting is how she uses the harvest — from cooking with fresh produce to turning rose hips into homemade beauty treatments.
+
+The Hollywood actrss' garden is part of Arcady, her seven-acre family property. According to her conversation with Architectural Digest, the property has an extensive vegetable-growing area along with roses, melons and ground cherries. The vegetable beds alone cover around 15,000 square feet, giving her plenty of space to experiment with different crops.
+
+  
+
+## Pamela Anderson’s garden is both beautiful and productive
+
+The garden is home to a wide range of vegetables, including lettuce, beets, radishes, tomatoes, zucchini and different varieties of squash. Roses and sunflowers are also planted among the vegetable beds, giving the space a more natural and colourful look.
+
+  
+
+Pamela Anderson’s favourite plants include Yves Piaget roses and heirloom tomatoes. But the roses are not grown only for their appearance. She collects rose hips from them and uses them to prepare face oils and other homemade beauty products.
+
+The vegetables also have a practical role in her daily life. She uses the fresh produce in her plant-based cooking, including dishes linked to her vegan cookbook, I Love You: Recipes from the Heart. The garden’s harvest is not limited to her own kitchen either. She has shared the produce with family, friends and neighbours, while some of it has also been donated to local food banks and soup kitchens.
+
+For Pamela Anderson, gardening appears to be about more than growing food. She has described the garden as a place where she was able to reconnect with herself. Instead of treating it like a perfectly controlled project, she prefers to let things grow in a more relaxed way.
+
+  
+
+## Anderson’s gardening style is far from rigid
+
+Unlike formal gardens that rely on neat rows and carefully planned patterns, Anderson prefers a less structured approach. Speaking to Architectural Digest, she described herself as a “romantic gardener” and explained that she does not enjoy straight lines.
+
+Her approach involves rotating crops, trying different plants each season and allowing the garden to evolve naturally. It is a style that may sound very different from the highly organised vegetable patches often seen online, but Anderson believes gardening does not have to be complicated.
+
+Despite managing a garden that spans thousands of square feet, she has a surprisingly simple message for people who are just starting out. When asked what advice she would give someone planting their first garden, Anderson encouraged them to experiment and not worry about getting everything right immediately. In other words, beginners should be willing to make mistakes and learn along the way.
+
+## 4 simple gardening tips from Pamela Anderson
+
+**1\. Don’t be afraid of mistakes**
+
+Pamela's first piece of advice is perhaps the easiest to remember: start experimenting. Plants may not always grow as expected, and some attempts may fail. Instead of giving up, she believes beginners should treat those mistakes as part of the process.
+
+**2\. Start with the basics**
+
+Anderson has boiled gardening down to three essentials - good soil, enough water and sunlight. For someone starting their first garden, understanding these basics can be more useful than buying lots of equipment or trying complicated techniques.
+
+**3\. Don’t worry about perfect rows**
+
+Anderson does not believe a garden needs to look perfectly organised. Her preference for natural shapes and mixed planting shows that vegetables and flowers can comfortably share the same space.
+
+**4\. Grow things you can actually use**
+
+Anderson’s garden is closely connected to her kitchen and beauty routine. Growing vegetables that can be used in everyday meals, or plants that have other practical uses, can make gardening feel more rewarding. Her own garden shows how fresh produce can go from the soil to the dinner table, while roses can find a second life in homemade beauty products.
+
+---
+
+### Want to study engineering in Hindi? MP college offers BTech with Rs 2 lakh incentive
+*India Today Education Desk · general*
+
+## SGSITS Indore has introduced a Hindi-medium BTech in civil engineering from the 2026-27 session. The move aims to help Hindi-medium students study technical subjects more easily while still building essential English skills.
+
+For students, the move is expected to make it easier to understand complex engineering concepts without having to first overcome the language barrier (Image: pexels.com)
+
+A Hindi-medium BTech programme in civil engineering has been introduced at Shri G S Institute of Technology and Science (SGSITS), Indore, from the 2026-27 academic session. Students admitted to the programme will also be eligible for a Rs 2 lakh incentive from the Madhya Pradesh government during their final year, according to officials.
+
+The aided autonomous institute has reserved 30 seats for the Hindi-medium civil engineering batch, of which approximately 20 have already been filled.
+
+The programme has been launched as part of efforts aligned with the National Education Policy (NEP), with the aim of making technical education more accessible to students who have completed their schooling in Hindi medium.
+
+Sunil Ajmera, head of the civil engineering department at SGSITS, said the institute had found that several students who studied in Hindi medium until Class 12 faced difficulties when they moved to engineering courses taught in English. In some cases, these challenges led students to discontinue their studies.
+
+According to PTI, Ajmera said: “Keeping this aspect in mind, the BTech civil engineering course has begun in Hindi so that students can study and appear for examinations in their mother tongue.”
+
+### FOUR YEARS OF PREPARATION BEHIND HINDI-MEDIUM ENGINEERING COURSE
+
+The institute had been working on the initiative for several years before formally introducing the programme this academic session.
+
+Vivek Tiwari, assistant professor in the civil engineering department, said faculty members and experts had spent the last four years converting English technical learning material into Hindi.
+
+The institute also conducted workshops to prepare teachers to deliver engineering lessons in Hindi, he added.
+
+For students, the move is expected to make it easier to understand complex engineering concepts without having to first overcome the language barrier.
+
+"For me, studying civil engineering in English would have meant taking help from Google and ChatGPT to understand difficult subjects. But while studying in my mother tongue Hindi, teachers can explain even technical terms in English easily," engineering student Rohit Sharma told PTI.
+
+At the same time, the institute is not treating Hindi and English as mutually exclusive. Students enrolled in the programme will also receive training in essential English-language skills so that they can meet the communication requirements of higher education and employment.
+
+Faculty members said the purpose of introducing civil engineering in Hindi is to allow students to learn technical subjects in their mother tongue while continuing to develop the English proficiency required for professional opportunities.
+
+\- Ends
+
+Mridusmita Deka
+
+Sep 5, 2026 09:44 IST
+
+---
+
+### US to sell Bell helicopters worth $150 million to Iraq
+*SECTIONS US · business*
+
+The US State Department has approved a possible $150 million Foreign Military Sale to Iraq for Bell 412EPX helicopters and 
+
+The proposed package includes Bell 412EPX helicopters, Very High Frequency (VHF) radios, spare parts, ground support equipment, publications and technical data, as well as pilot and maintenance training.
+
+  
+
+It also includes US government and contractor engineering, technical and logistics support services and other 
+
+The proposed sale is intended to improve Iraq’s ability to respond to current and future threats by providing an airlift capability for troop, medical and logistics transport.
+
+“The addition of air-lift capability affords Counter-Terrorism Services operational capabilities,” the State Department said.
+
+The department said the sale would support US foreign policy and national security interests by “helping to improve the security of a strategic partner”.
+
+Iraq is expected to have no difficulty integrating the helicopters and associated services into its armed forces, according to the statement.
+
+The proposed sale would not alter the basic military balance in the region, the State Department said.
+
+Bell-Textron, based in Fort Worth, Texas, will be the principal contractor for the potential sale.
+
+---
+
+### Garena Free Fire MAX Redeem codes today, September 5, 2026: Check full list of codes, free rewards and how to redeem
+*Trending Desk · business*
+
+Garena Free Fire MAX players in India can try their luck with new redeem codes on September 5, 2026. Subject to availability, these codes may unlock free in-game rewards, including diamonds, weapon skins, outfits, character items and other collectibles. For regular players, redeem codes offer a convenient way to add new items to their collection without spending additional money.
+
+## Garena Free Fire MAX redeem codes for September 5, 2026
+
+Here are the codes circulating for today's rewards:
+
+  
+
+-   FFSKTXVQF2NR
+-   FFV2K8PLM4RN
+-   FF2VC3DENRF5
+-   T6Y4U1I5O7PZ
+-   XZDJZE25WEFJ
+-   FFRSX4CYHLLQ
+-   FFL2M8PKR9VN
+-   FFZ2M7KPL5RV
+-   E9QH6K4LNP7V
+-   FF8HG3JK5L0P
+-   FFV4K8PLM3RN
+-   F7F9A3B2K6G8
+-   FQ9W2E1R7T5Y
+-   4N8M2XL9R1G3
+-   S9QK2L6VP3MR
+-   B1RK7C5ZL8YT
+-   FFR4G3HM5YJN
+-   FF6YH3BFD7VT
+-   FF7TRD2SQA9F
+-   BR43FMAPYEZZ
+-   UPQ7X5NMJ64V
+-   XZDJZE25WEFJ
+
+## How to Redeem Free Fire MAX Codes
+
+Step 1: Visit the official Garena Rewards Redemption website.
+
+  
+
+Step 2: Log in using the account linked to your Free Fire MAX profile.
+
+Step 3: Enter the redeem code in the designated field.
+
+Step 4: Carefully check the code to ensure all letters and characters are entered correctly.
+
+Step 5: Click on the submit option to complete the redemption process.
+
+Step 6: If the code is valid and active, the reward will be sent to your Free Fire MAX in-game account.
+
+## Redeem Free Fire MAX Codes Before
+
+They Expire Free Fire MAX redeem codes are usually available for a limited period and may not stay active indefinitely. Some codes can also come with a specific redemption limit, after which they may no longer work. If you want to try the latest redeem codes, it is better to use them as soon as possible instead of waiting until later in the day.
+
+---
+
+### Reached Moon, but caste system persists: HC raps Maharashtra on manual scavenging
+*India Today News Desk · general*
+
+## The Bombay High Court struck down Maharashtra's policymaking private employers directly liable for deaths during hazardous cleaning. It said the state government must first compensate families and then recover the amount, while condemning manual scavenging as caste-driven and inhuman.
+
+Entering a manhole or a sewer line is a centuries-old practice that has been decreed illegal in India through several Supreme Court judgments. (Photo: PTI)
+
+The Bombay High Court has struck down a Maharashtra government policy that made private employers and housing societies directly responsible for paying compensation to the families of workers who died during hazardous cleaning. It held that the state government must first make the payment and then recover the amount from those responsible.
+
+In a strong observation of manual scavenging, the court said that even as India speaks of major achievements, citizens are still being pushed into work that is "below human dignity" because of the continuing caste system.
+
+A division bench of Justices Bharati Dangre and Manjusha Deshpande, in an order passed last week, directed the state government to immediately compensate the dependants of the victims.
+
+It also asked the government to identify, within six months, all those who died while engaged in "hazardous cleaning" as defined under Section 2(d) of the Prohibition of Employment as Manual Scavengers and their Rehabilitation Act, 2013, and pay Rs 30 lakh to the dependants of each deceased person.
+
+The court passed the ruling on petitions filed by trade union Shramik Janata Sangh and others challenging Item 11 of government resolutions dated December 12, 2019 and April 30, 2025. The petitioners had sought to set aside the clause, saying it made private individuals liable for compensation in the event of the death of manual scavengers instead of the state or local authorities.
+
+The petitions said the state government and local authorities had failed to implement the provisions of the 2013 Act, which was adopted by Maharashtra to prohibit manual scavenging.
+
+In its order, the court said, "In the 21st century, we boast about reaching the other side of the moon, yet the hard reality that stares us in the face is that the social evil of the caste system is still followed in our country, which forces some of our citizens to do work that is below human dignity."
+
+It added that though the Constitution guarantees equality before the law, "even after 75 years of adopting the Constitution, our country is not free from the social evil that has haunted us for ages".
+
+The bench also said, "Manual scavenging is one such practice, which forces a particular class of community to undertake this inhumane practice for generations, despite prohibition imposed on it by various judicial pronouncements of the Supreme Court and statutes prohibiting such practice."
+
+The court said the 2013 law does not distinguish between workers engaged in hazardous cleaning on the basis of who employs them, and that the law is meant to eliminate the dehumanising practice of manual scavenging.
+
+Calling the policy "clearly violative" of the fundamental right to equality, the bench cancelled Item 11 in both resolutions and ordered the state government and local authorities to immediately disburse compensation to the families of deceased sanitation workers, whether they were employed in the public or private sector, with recovery from private employers to follow later.
+
+\- Ends
+
+India Today Web Desk
+
+Sep 5, 2026 09:42 IST
+
+---
+
+### Expired curd, bed bug spray: What Bengaluru food safety raid on PGs found
+*Express News Service · legal*
+
+Karnataka food safety officials expanded inspections to PG accommodations in Bengaluru on Friday, issuing notices to 23 facilities for alleged violations.
+
+[Read full article](https://indianexpress.com/article/cities/bangalore/bengaluru-pg-karnataka-food-safety-checks-notices-10864077/)
+
+---
+
+### Kargil War shaped his childhood, innovation shaped his classroom: Meet National Teacher Awardee Mohd Mustafa
+*Samaira Fatima Rizvi · legal*
+
+From studying amid the Kargil War to turning abandoned military bunkers into learning spaces, Mohd Mustafa Kamal’s unconventional teaching journey has earned him the National Teachers Award 2026.
+
+[Read full article](https://indianexpress.com/article/education/kargil-war-shaped-his-childhood-innovation-shaped-his-classroom-meet-national-teacher-awardee-mohd-mustafa-10863484/)
+
+---
+
+### Man rides scooter on footpath to bypass traffic jam, pedestrians forced to make way
+*India Today Trending Desk · general*
+
+## A man recorded himself as he drove his scooter on a footpath to get past a traffic jam. The clip sparked debate over road behaviour, encroached pavements and weak enforcement.
+
+Man rides scooter on footpath to bypass traffic jam, pedestrians forced to make way (Photos: @gharkekalesh/X)
+
+A traffic jam left one man on his scooter looking for a shortcut, and he decided the footpath was the perfect alternative.
+
+X account Ghar Ke Kalesh shared a video showing the man riding his scooter along a concrete footpath while traffic remained bumper-to-bumper on the road beside him.
+
+In the video, the rider was seen moving steadily along the relatively empty footpath, which had a low barrier separating it from the congested road. Cars, two-wheelers and other vehicles could be seen stuck in traffic, their red tail lights stretching along the road.
+
+Meanwhile, the scooter rider continued making his way through the footpath, passing pedestrians, other two-wheelers, street signs and lights as he seemingly avoided the traffic altogether.
+
+Sharing the clip, Ghar Ke Kalesh questioned the behaviour, calling the practice of turning footpaths into “personal highways” anything but normal.
+
+Watch the video here:
+
+The video also triggered a debate over whether the blame should fall entirely on motorists. Some users pointed out that footpaths in many places were already occupied by shops and businesses, leaving pedestrians with little usable space.
+
+Another user criticised two-wheeler riders more broadly, arguing that much of their driving behaviour on the roads was far from normal.
+
+Others, however, shifted the focus to enforcement, asking whether the bigger problem was the rider using the footpath or the authorities allowing such behaviour to continue without consequences.
+
+\- Ends
+
+Yashna Talwar
+
+Sep 5, 2026 09:38 IST
+
+---
+
+### Kerala minister says university heads must shun divisive groups, uphold neutrality
+*India Today News Desk · general*
+
+## Kerala Higher Education Minister Roji M John said university heads should not align with divisive organisations. His remarks came on Teachers' Day and sharpened the ideological clash over academic autonomy in state universities.
+
+In a Facebook post on Teachers' Day, Kerala Higher Education Minister Roji M John said such conduct went against the dignity of the posts they hold. (Photo: Roji M John/Facebook)
+
+Kerala Higher Education Minister Roji M John on Saturday said institutions of higher education must remain spaces of independent thought and constitutional values, and said it was inappropriate for their heads to associate with organisations that promote divisive agendas.
+
+In a Facebook post on Teachers' Day, he said such conduct went against the dignity of the posts they hold.
+
+His remarks come at a time when the state government and Governor Rajendra Vishwanath Arlekar, who is the chancellor of universities in Kerala, are at odds over issues 
+
+"It is not at all befitting of a democratic society that those heading institutions of higher education, which should be centres of independent thought and constitutional values, forget the dignity of the positions they hold and confine themselves to platforms of organisations that promote divisive agendas," John said.
+
+He added, "Such tendencies, which surrender the privilege of academic autonomy before narrow political interests, question the very essence of education and teaching."
+
+John had also criticised the participation of vice-chancellors in the RSS programme earlier, saying the position of a vice-chancellor represented academic and administrative neutrality.
+
+The minister said Teachers' Day should remind teachers of their responsibility to shape generations with humanity and without discrimination. Recalling Dr Sarvepalli Radhakrishnan, India's second President, he said Radhakrishnan believed in the importance of teaching and wanted his birthday to be observed as Teachers' Day across the country.
+
+He also referred to educationists and teachers such as Rabindranath Tagore, APJ Abdul Kalam, Sukumar Azhikode, ONV Kurup, MGS Narayanan and Prof M Leelavathy, and said they had inspired generations to dream, question, challenge and think independently.
+
+Referring to students being humiliated on the basis of caste, John said those responsible had failed to understand the essence of teaching.
+
+"Those who, sitting inside a staff room, humiliated and insulted a student by calling the student by their caste name and drove them towards ending their life are people who failed to understand the essence of teaching," he said. "They failed to realise that the responsibility of teaching is to shape humane human beings from within classrooms."
+
+He extended Teachers' Day greetings to teachers who, in his words, dispel darkness with knowledge and teach students to uphold constitutional values and humanity.
+
+India observes Teachers' Day on September 5 every year to mark Radhakrishnan's birth anniversary and honour teachers.
+
+\- Ends
+
+India Today Web Desk
+
+Sep 5, 2026 09:36 IST
+
+---
+
+### Pakistan grants Army chief unprecedented legal power over all armed forces
+*Express Global Desk · legal*
+
+Supporters call it a legal step. Critics say it hands the army chief more power than the constitution allows.
+
+[Read full article](https://indianexpress.com/article/world/pakistan-military-command-overhaul-nuclear-power-shift-asif-munir-10863958/)
+
+---
+
+### US approves possible $188 million F-16 support for Oman
+*SECTIONS US approves possible · general*
+
+The US State Department on Saturday approved a possible $188 million Foreign Military Sale to Oman for F-16 sustainment services and 
+
+The proposed sale includes major and minor modification support, spare parts, aircraft components, communications equipment, precision navigation and measurement equipment, training and technical support, as well as software and logistics support, according to the State Department.
+
+  
+
+The package will support Oman’s existing fleet of F-16 aircraft and help the country address current and future security threats, while improving interoperability with the US and coalition partners.
+
+“This proposed sale will support the foreign policy and national security of the United States by helping to improve the security of a longstanding partner,” the State Department said. It added that the deal would improve the prospects for bilateral training and exercises with Oman’s military forces.
+
+Oman already operates F-16 aircraft and “will have no difficulty absorbing these articles and services into its armed forces”.
+
+The US government said the proposed sale would not alter the basic military balance in the region and would have no adverse impact on US defence readiness.
+
+There is no principal contractor associated with the potential sale. Support will be provided by the US government or contracted vendors based on requirements determined during implementation.
+
+The State Department would not currently aware of any offset agreement proposed in connection with the sale. Any such agreement would be defined during negotiations between Oman and the contractor.
+
+The implementation of the proposed sale will also not require the deployment of additional US government or contractor representatives to Oman, according to the statement.
+
+---
+
+### Shillong Teer Result Today, September 5, 2026: First And Second Round Winning Numbers
+*Nibandh Vinod · general*
+
+Shillong Teer Result Today: Check the latest winning numbers for Shillong Teer, Juwai Teer, Khanapara Teer, Shillong Morning Teer and Night Teer for September 5, 2026.
+
+[Read full article](https://www.news18.com/india/shillong-teer-result-today-september-5-2026-winning-numbers-10310240.html)
+
+
+---
+
 ## 4 September 2026
 
 ### ‘I could have been lynched’: Influencer Swatantra Bharadwaj clarifies ‘cracking skull’ claim during CJP protest
