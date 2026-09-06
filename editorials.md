@@ -1,8 +1,150 @@
 # Editorials
 
-_Last updated: 2026-09-05 06:11 UTC_
+_Last updated: 2026-09-06 06:24 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 6 September 2026
+
+### 'Amid inflation, BPL income limit of Rs 1.2 lakh needs a hike': MLA Rizwan Arshad
+*Deccan Herald · Opinion*
+
+Bengaluru: Two-time Shivajinagar MLA Rizwan Arshad has a lot on his plate as minister for food, civil supplies, consumer affairs & legal metrology.
+
+In a chat with DH’s Sujay B M, Arshad discusses his plans for reforms to prevent foodgrain pilferage, issues concerning priority household (or BPL) cards and the ongoing Special Intensive Revision (SIR). Excerpts:
+
+The Anna Bhagya guarantee scheme comes under your department. What’s the status of the proposal to provide 5 kg rice plus Indira kits, instead of 10 kg rice?
+
+As promised, we’re providing (rations) to the tune of 10 kg rice. We’ve slightly altered it to provide 7.5 kg rice and 2.5 kg ragi (in south Karnataka) and 2.5 kg jowar (in north Karnataka). The Indira kit is a very good programme, where instead of 5 kg rice, you get dal, sugar, salt, etc. I cancelled the tender since I needed to first understand how the supply chain worked. I will revisit, remodel and re-tender it.
+
+Karnataka: Indira kits to replace free rice under Anna Bhagya schemeKarnataka says it has the highest per-capita income in India. The state also has a high number of BPL cards (4.44 crore). Does this point to a stark income inequality or is the BPL figure inflated?
+
+I don’t think the number of cards is inflated because the National Food Security Act (NFSA) seeks to cover 75% rural and 50% urban population. To meet that mandate, we should issue more cards. There are ineligible people within the BPL net, whom we need to remove from the list. Also, some people should be included in the list. We have decided to temporarily stop deleting cards.
+
+Currently, a family income of Rs 1.2 lakh (per year) is the ceiling to have BPL cards. The Karnataka Administrative Reforms Commission has proposed to make this Rs 3 lakh. What’s your take on that?
+
+We’re definitely thinking in that direction. The Rs 1.2 lakh income ceiling was set around 10 years ago. With inflation and price rise, a rethink is needed. This has wider ramifications, so we need to discuss it with the CM. I feel the limit must increase, but the exact amount needs to be discussed.
+
+While weeding out ineligible beneficiaries, some genuine BPL card holders risk exclusion. Isn’t it?
+
+Of course. Before I took charge, the union government flagged 4.5 lakh cards, which were deleted. Over the last 20 days, we asked the department to re-examine those who applied again. We found that 55,000 of the deleted cards were eligible. We have re-included them.
+
+Your department has lodged 1,497 FIRs against black-marketing of food. How will you stop it?
+
+Immediately after taking charge, I made it mandatory for godowns to have CCTV cameras. None of the godowns has a CCTV camera now. All vehicles transporting food materials should have GPS. We should have a command and control centre, where we can control godowns and movement of material.
+
+How many fair price shops were found with faulty weight measurements?
+
+Rizwan QR code.jpegThe jurisdiction of the legal metrology department extends beyond fair price shops. We also look into whether petrol bunks are dispensing the right amount of fuel, how business houses are functioning. Auto meters, taxi meters all come under this department. Sugarcane farmers complained that they were suffering losses from sugar factories. Now, my team will verify the weighing mechanism there every alternate day.
+
+During the Davangere south bypoll, the Muslim community was angry over not being given the ticket. While Congress won, did the episode create a bitter feeling among Muslims?
+
+Every community is aspirational. When we have decent numbers in a constituency, we expect the ticket. But if the ticket is denied for various reasons, it’s not the end of the road. We had to stand up and ensure that Congress won. There are 11 minority MLAs from Congress in Karnataka (10 Muslims and 1 Christian) and 5 minority MLCs. People accepted our argument and 75-80% of the minorities in Davangere south voted for Congress.
+
+In the ongoing SIR, your Shivajinagar constituency has over 40% electors in ASDDO list. What’s going to happen to genuine voters in this list?
+
+SIR exercise is meant to exclude people. There’s a big trust deficit between the Election Commission (EC) and people. The EC was never such a puppet for the ruling party. Our booth-level agents (BLAs) are active on the ground to help the people. We will hit the streets to defend the voting rights of all genuine voters.
+
+[Read full article](https://www.deccanherald.com/india/karnataka/bengaluru/amid-inflation-bpl-income-limit-of-rs-12-lakh-needs-a-hike-mla-rizwan-arshad-4136541)
+
+---
+
+### Government employees have more legal protection than they think. Here’s what service law says
+*Deccan Herald · Opinion*
+
+There is a branch of law that rarely makes headlines but shapes the life of the ordinary Indian more than almost any other: service law. It governs how a person is recruited into government service, how they are treated while in it, and how they exit it – through retirement, dismissal, or death. It sounds dry. It is anything but.
+
+Consider a few of its foundational principles. The first is that the rules of the game cannot be changed once the game has begun. If a recruitment notification fixes the minimum eligibility criteria before the selection process starts, those norms must hold through to the end – they cannot be tightened or altered midway to suit a different outcome. The second is that no government employee accused of wrongdoing can simply be shown the door. The employer must issue a notice, state the charge, and give the employee a genuine opportunity to be heard before any punitive action follows. The third concerns promotion: a departmental promotion committee cannot elevate one employee while arbitrarily overlooking another who is similarly placed in every relevant respect. And the fourth holds that where an employee joins late, or is denied a promotion, through no fault of their own but because of the employer’s error or delay, they must be granted notional seniority – restored, on paper, to the position they would have held had the employer acted correctly and on time.
+
+Together, these principles stand between a citizen and an arbitrary employer. They insist that government conduct be fair, transparent, and reasonable – not because officials are inherently unreasonable, but because unchecked power tends towards exactly that.
+
+Employer can forfeit gratuity only to extent of proven loss: Supreme CourtOne corner of service law worth examining closely is compassionate appointment. Here, a dependent of a government servant who dies in service or is incapacitated and forced into premature retirement may receive a government job to help the family manage a sudden loss of income. It is, at its heart, a welfare measure: recognition that a breadwinner’s death or disability can push a family into financial free fall, and that the State, as employer, owes something more than condolences.
+
+Two recent Supreme Court judgments show how easily this welfare purpose can be defeated by bureaucratic delay, and the Court’s determination not to let that happen. In Rahul v. New India Assurance Company (judgment dated 16.07.2026), an employee sought voluntary retirement after being medically incapacitated. Under the applicable scheme, if the retirement occurred before the employee turned 55, a dependent would be entitled to compassionate appointment. The employee applied well in time. But by the time the employer got around to processing his paperwork, he had crossed 55 – and his claim for compassionate appointment of his next of kin was rejected. In Raspelli Bhagya Kishaiya v. General Manager, Western Coalfields (12.08.26), the dependent’s application for compassionate appointment was made before the prescribed age cut-off of 35 years, but administrative delay in processing pushed him past it, and the claim was denied on the same technicality.
+
+In both cases, the Supreme Court ruled in the citizen’s favour, holding that an employer’s delay cannot be allowed to work to the employee’s detriment. An employer that sits on an application cannot turn around and use the passage of time it caused as the reason to deny relief.
+
+What should worry us is that in both cases, the High Court had denied relief before the Supreme Court stepped in. That is a sobering reminder that we cannot design a system that depends on the Supreme Court to correct every injustice. For most government employees, disputes first reach the Central Administrative Tribunal, then the High Court, and only occasionally the Supreme Court. If the safeguards of service law are not properly understood and argued at that first stage, most citizens will never get the chance Rahul and Raspelli got.
+
+The same awareness matters well beyond compassionate appointments. An employee whose annual performance appraisal report has been unfairly downgraded, who has been passed over for promotion without justification, or who is marked down at an interview despite scoring well in the written examination, is often at the mercy of these procedural safeguards. Knowing that such conduct can be challenged – and how – is often the only thing standing between an ordinary government employee and a lifetime of quiet, uncompensated injustice.
+
+Service law will never be the subject of prime-time debate. But for the millions of Indians whose livelihoods depend on how fairly the State treats its own employees, it may be the most consequential branch of law.
+
+The writer is a practising lawyer with expertise in disability rights and IP law, and is co-founder of Mission Accessibility. He wears more hats than he can himself sometimes count.
+
+Write to us at: theprism@deccanherald.co.in
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
+
+[Read full article](https://www.deccanherald.com/opinion/government-employees-have-more-legal-protection-than-they-think-heres-what-service-law-says-4136592)
+
+---
+
+### Why Krishna didn’t always play by the rules — and why the Mahabharata needed him
+*Deccan Herald · Opinion*
+
+With Krishna Janmashtami just having gone by, Krishna is on my mind. Krishna is known and loved for many different things, from his stealing butter in Vrindavan to his exposition of the Bhagavad Gita. Apart from being an endless source of inspiration for devotional poets in the vernacular, who have imagined baby Krishna doing every act of mischief accessible to the human mind, Krishna is also a divinity who has elicited many responses that are far from overwhelmingly positive.
+
+I remember with much amusement a conversation my two grandfathers once had on Krishna. One was a fervent devotee, and his voice always got choked up in a rush of love towards god. Questioning god was anathema to him; he had once asked me, “You think scientists are so great, are they greater than god?” Of course, I had never expressed a belief in the greatness of scientists, but that was beside the point to him. The question was merely about what he regarded as a general malaise in my entire generation.
+
+The other grandfather was very much a man of the world and a sceptic – he would have had a lot of questions about Krishna’s behaviour had the god appeared before him in person. He made the mistake of interrupting my other grandfather’s devotional monologue on Krishna – “Whatever you may say, R..., this Krishna of yours was quite a rogue.”
+
+Shri Krishna ParvMy other grandfather was horrified at the blasphemy, and his voice immediately rose in anger. The fight was ultimately quelled by my grandmother, who pointed out to my grandfather that god would not approve of in-laws fighting each other. But although the fight ended, Krishna’s tricks remain questionable.
+
+What explains his many acts of cheating? Like covering up the sun when Arjuna had to kill Jayadratha, leading everyone to think the sun had set and Arjuna’s vow had been broken, only to cause the sky to clear again after, so that Arjuna could fire his arrow at Jayadratha and cut his head off? How about Krishna’s convincing Arjuna that he could fulfil a vow of killing anyone who insulted his Gandiva bow by simply insulting Yudhishtira, since insulting elders was tantamount to killing them? And what explains his constant coaching of the Pandavas on tricks to win their battles?
+
+Krishna represents a rather unique model of what has been called a ‘devious divinity’. While Rama, in the Ramayana, is the model of the good son – always listens to his parents, obeys authority, acts selflessly, fulfils his promises, and so on, which of course brings its own problems, Krishna seems to break every rule. He teaches the Pandavas at each step on which rules to twist and how to turn things around to their favour. But to me, this is the very point, and it makes Krishna’s model a more interesting one.
+
+The Mahabharata, unlike the Ramayana, recognises that the world is complicated, and that the more well-intentioned and virtuous you are, the more likely it is that you will be naïve, and therefore you will end up being cast out, trodden on, and likely never heard from again, unless you can pair your virtue with strategy, pragmatism, and look beyond single instances at the bigger picture.
+
+And Krishna is emphatically not opposed to press conferences. He explains himself repeatedly to anyone who asks, even years after the Kurukshetra war, smilingly accepts questions, and even the ultimate judgement and a curse from Gandhari. So, perhaps the point of Krishna is less about moral perfection and more about the strength of doing one’s best and being ready to face the consequences. But who can learn this when everyone, from publishers to politicians, teaches us to escape responsibility?
+
+The writer is the author of How to Love in Sanskrit and likes writing new things about very old things.
+
+Write to us at: theprism@deccanherald.co.in
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH).
+
+[Read full article](https://www.deccanherald.com/opinion/why-krishna-didnt-always-play-by-the-rules-and-why-the-mahabharata-needed-him-4136590)
+
+---
+
+### Gold comes home as nations hedge against Americana
+*The New Indian Express · Opinion*
+
+Updated on: 05 Sep 2026, 6:59 pm4 min readCopiedThe timing and implications of a decision are often more eloquent than any speech. This week, the Netherlands and Norway—two Nato allies located about 900 km apart along the North Sea—made moves that say more about how nations, even allies, now view America and the unravelling of geopolitics.
+
+The Netherlands moved 86 tonnes of gold out of New York and Ottawa to London. De Nederlandsche Bank (DNB) did not shy from its reasoning. It said, “In view of increasing geopolitical unrest, DNB is strengthening its crisis preparedness.” DNB President Olaf Sleijpen observed, “With this relocation, we have improved the tradability of our gold reserves.” A portion was sold in New York and repurchased in London. Both the method and the destination matter.
+
+North of the Netherlands, Norway’s sovereign wealth fund will be offloading around $80 billion in US Treasury bonds. The Norges Bank Investment Management cut its exposure to government bonds from 70 percent to 50 percent after assessing geopolitical and concentration risks. The NBIM stressed “broad diversification as a strategy in a changing world”.
+
+One country is moving its metal away from the US; the other is distancing from American paper. Neither is a protest. Both air the same anxiety and ask the same question using different assets. It’s about the risks of financial security imposed by unravelling geopolitics. And they are not alone.
+
+France sold 129 tonnes of gold held at the New York Fed and replaced it with gold in Europe, leaving no French central-bank gold in New York. Germany, with the world’s second largest reserves, moved 300 tonnes in recent years to hold 50 percent of its gold at home. The Reserve Bank of India doubled its gold reserves stored at home to 77 percent of its 880 tonnes.
+
+Gold is one half of the story. The other is the US Treasury. China’s holdings have fallen from $1.1 trillion pre-pandemic to $633.4 billion. China has not dumped the Treasury—it is simply deploying its surplus in gold, materials and, speculation has it, in AI-adjacent equity. Japan, the largest foreign holder of American paper, has cut its holdings from $1,239.3 billion to $1,116.7 billion, moving the surplus homewards as yen-denominated yields rise.
+
+The old assumption is weakening—that the world would recycle its dollars into American government debt indefinitely, at whatever price Washington required. Scaffolding that sentiment is fiscal profligacy—US federal debt has crossed $40 trillion, and the 30-year yield is above 5.25 percent. As one of the US Federal Reserve governors, Christopher Waller, observed, “The safety premium for Treasuries is gone.”
+
+At an individual level, these decisions are about national reserves and savings. Collectively, they symbolise disquiet and a quiet rewiring of global trust. It would be tempting to dub this as de-dollarisation, but it would be premature. The dollar accounts for roughly 58 percent of global reserves and denominates much of world trade. The operative term is de-risking or de-concentration, if you please.
+
+Over a century back, J P Morgan told the US Congress memorably that credit rests on character, not gold—the pre-1914 world’s faith that trust between men outranked metal. That faith is precisely what sanctions and asset freezes have broken, which is why reserve managers now want the metal—it is the vintage hedge they’ve returned to. In the past five years, central banks have bought over 4,500 tonnes of gold, with over 289 tonnes in the second quarter of 2026 alone.
+
+Gold trades around $4,475 an ounce. Investors wait for an entry point. Central banks are paying historic prices for an asset that pays no interest, produces no coupon and costs money to store. They are buying what yield cannot deliver: optionality. A Treasury security is a claim on an issuer. Gold is not. In times of turbulent geopolitics, the appeal of an asset with no issuer is obvious.
+
+John Maynard Keynes had trolled the gold standard as a barbarous relic. But tradition has become a tactic—and the tactic now has an econometric footprint. A 2023 IMF paper, pointedly subtitled A Barbarous Relic No More? and co-authored by Serkan Arslanalp, tested what moves the gold share of central bank reserves. Turns out that gold rises with economic, financial and geopolitical volatility. Sanctions prop up the price—the highest jumps in gold reserves are in sanction-wary States like Russia and China. Since 2000, Russia’s gold reserves went from 384 tonnes to 2,333; China’s from 395 to 2,280. Countries locked out of other systems choose gold. It carries no credit risk and can hedge against sanctions.
+
+The freezing of roughly $300 billion of Russian central bank reserves after the invasion of Ukraine was the hinge. No country has converted financial infrastructure into foreign policy on the American scale. Sanctions can freeze assets, bar transactions, cut banks out of dollar-clearing and close US markets. Janet Yellen cautioned in 2023 that the rising use of sanctions creates a desire—in Russia, China and Iran—to find an alternative. Targets and bystanders alike now seek insurance. And insurance means gold.
+
+As Alan Greenspan told the US Congress in 1999, fiat money, in extremis, is accepted by nobody. “Gold is always accepted.” Insurance could also translate into local-currency settlement, common-currency proposals, bilateral swaps, alternative payment rails. Tariffs—used by Donald J Trump to extract concessions—have expanded the need for insurance as the line between trade policy and geopolitics has dissolved. The weaponisation of sanctions manufactures the demand for the shield.
+
+Morgan told Congress that credit rests on character. For half a century, the world extended America that credit on trust. It is now buying insurance against the day it might need to stop doing that. Every tonne brought home is a premium paid. And yes, the gold is coming home.
+
+Author of The Gated Republic, Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/Sep/05/gold-comes-home-as-nations-hedge-against-americana)
+
+---
 
 ## 5 September 2026
 
@@ -48,6 +190,75 @@ About five days ago, India was pleasantly surprised by the Central government’
 
 ---
 
+### Between AI & Humans,Who Makes ‘Better’ Slop?
+*Deccan Chronicle · Opinion*
+
+Raghavan and Murthy turned up on my doorstep together one evening, carrying a bottle of scotch. “What’s up?” I asked as I led them into the drawing room.
+
+“Ask him,” replied Raghavan, pointing at Murthy. “He’s got a new client.”
+
+Murthy’s cellphone dinged with an incoming message. He looked at it and said, “Ah! My master’s been experimenting with AI!”
+
+“What do you mean?” Raghavan asked.
+
+“Politicians now use AI,” he said. “They think AI can replace party spokespersons. Someone I know who’s been accused of corruption put out a statement in response, but it’s AI slop.” He handed the phone over to Raghavan. “Every sentence in here is ok, but when you put it all together it means nothing at all.”
+
+Raghavan looked at it for a moment and passed it on to me before replying, “It’s not fair to call this AI slop,” he said. “It’s human slop.”
+
+“What’s slop?” I asked.
+
+“Stuff that looks as if it means something but doesn’t,” said Raghavan.
+
+The statement said something about the allegations being baseless and wondering who benefitted from them, and something about the people deserving good governance and not fake controversies. There were lots of long words but it was all hot air. “Why call it AI slop?” I asked.
+
+“An AI agent generated it,” said Murthy. “That makes it AI slop.”
+
+“No,” said Raghavan. “It’s slop generated by an AI agent obeying a human too lazy to write it out themselves. So it’s human slop. Besides, it’s humans who wrote the programs that run the AI system, so, I repeat, it’s human slop.”
+
+“At the end of the day, it’s the AI system that produced the slop, so it’s AI slop,” said Murthy with the air of someone clinching an argument.
+
+“If you use an earthmover instead of a spade to dig a hole in the wrong place,” said Raghavan, “who's responsible? The earthmover or the operator?”
+
+“The operator,” replied Murthy.
+
+“Well, there you are, then,” said Raghavan.
+
+“You can’t compare them!” replied Murthy. “AI stands for Artificial Intelligence. It’s supposed to think for itself, unlike an earthmover.”
+
+Prita joined us then, and after a samosa break, Raghavan continued. “It only appears to think. That’s why you get a little warning each time you use AI, telling you that it can make mistakes. The bigger point is that slop has been around as long as humanity. AI made it plentiful, that’s all… There’s a lot of good work being done by people using AI. Of eight of last year’s Pulitzer Prize winners, five used AI to help them with drafting. But there’s lots more slop coming from people who don’t think as hard as Pulitzer winners, so it’s human slop, not AI slop.”
+
+Murthy was unconvinced. “Without AI agents the guy who produced this statement wouldn’t have been able to produce it. So it is AI slop. And AI at least generates higher quality slop than humans do.”
+
+Raghavan burst into laughter. “Nonsense!” he said. “The best ever piece of slop came not from AI but from a human. Whoever gets AI to generate slop of that quality has to be a genius. What to hear about it?”
+
+“Sure,” said Prita and Murthy and I together.
+
+“Back in 1996 an American physicist called Alan Sokal wrote a paper on sociology and sent it off to an academic journal on sociology called Social Text. The title of the paper? ‘Transgressing the Boundaries: Toward a Transformative Hermeneutics of Quantum Gravity.’
+
+“The editors of this journal went through the paper, found it okay, and placed it in the next issue. After it was published, Sokal wrote an article in another journal called Lingua Franca saying that the Social Text paper was a test to see if a cultural studies journal would ‘publish an article liberally salted with nonsense’.”
+
+“What was the point of all that?” asked Murthy.
+
+“There was criticism of science in cultural studies saying that there’s no objective reality, that scientific facts don’t exist,” replied Raghavan. “Sokal had taken pains putting together a paper that used the right buzzwords and was complex enough to hide that it meant nothing. To show that cultural studies were off the mark.”
+
+“That’s nonsense about science!” Prita said. “The next time those guys take a flight somebody should tell them that the aircraft isn’t real and might crash any time!”
+
+“Exactly,” said Raghavan. “You might question the directions science takes, but to deny that science has meaning…”
+
+I couldn’t understand much of what was going on but there was an edge of venom in the air, so I asked, “What happened after?”
+
+“The editors of Social Text said they knew it was a poor paper but published it anyway because they thought it was a ‘symptomatic document’, whatever that is, that they’d been deceived because they weren’t geared to catch malicious deception. But Social Text had gotten caught because their slop check wasn’t good enough to catch Sokal.”
+
+“So what?” asked Murthy.
+
+“So nothing,” replied Raghavan. “Public memory is short. After the initial ruckus, you could say that slop won.”
+
+“That’s sad,” said Prita. “Just think of the power and water and...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/between-ai-humanswho-makes-better-slop-1985111)
+
+---
+
 ### Farrukh Dhondy | UK Jails Are Overflowing: Should Jury Trials Be Fewer?
 *Deccan Chronicle · Opinion*
 
@@ -58,6 +269,25 @@ So far, one fascinating episode has been transmitted, with the drama jury being 
 I am inclined to believe in the British reform restricting jury service to non-trivial cases because the only time I was conscripted on a jury I had to give up five days of work to attend to cases which a magistrate would have dealt with in a day. One of these was a young man accused of breaking into a car and stealing a country-and-western music cassette. He pleaded not guilty saying he hated that particular song which was entitled ‘Ruby Don’t Take Your Love to Town’. The presiding judge was clearly a South Indian gentlemen of the British bench. The defence explained to the court that the song was about an ex-US soldier who had has his...
 
 [Read full article](https://www.deccanchronicle.com/opinion/columnists/farrukh-dhondy-uk-jails-are-overflowing-should-jury-trials-be-fewer-1984943)
+
+---
+
+### How India’s Exam Crisis Is Really A Jobs Crisis
+*Deccan Chronicle · Opinion*
+
+The recent protests over examination leaks have focused attention on paper security, malpractices, institutional weaknesses and administrative failures. These are serious problems that require quick remedies. However, they also point to a larger issue. India’s examination crisis is closely tied to its employment crisis. An examination becomes highly competitive when the number of people seeking secure employment far exceeds the number of desirable jobs. A leaked paper becomes more valuable when the job at the end of the process is scarce and highly valued. This pressure has grown as India has expanded its school and higher education systems, bringing more young people with secondary, higher-secondary and university qualifications into the labour market.
+
+The problem, however, is not simply unemployment. It is the shortage of decent, reasonably secure employment that matches the qualifications and expectations of the youth. The Economic Survey has identified quality employment as a major policy concern. The Periodic Labour Force Survey shows that youth unemployment remains high: among 15-29-year-olds, it was 17 per cent in January-March 2024, rising to 22.7 per cent among young women. Against this background, demand for government jobs remains strong. In 2024, about 30 lakh candidates competed for roughly 17,700 government posts, according to reported figures.
+
+Why does government employment attract such intense competition? Government jobs offer security, predictable career progression and social protection. For many young people, alternatives are low-paid, informal or insecure, with limited prospects. Higher education has raised aspirations, but the labour market has not expanded opportunities at the same pace. The Economic Survey has stressed the need to bridge this education-employment gap. When alternatives are uncertain, spending years preparing for a government examination can seem like an investment in one of the few reasonably secure employment options. Recruitment examinations thus allocate scarce desirable jobs among a large pool of applicants. When secure employment is scarce, the stakes rise sharply. Candidates may spend years preparing, while families bear the costs of coaching, accommodation and repeated attempts. This also means losing opportunities to earn, gain work experience or develop skills. The burden is unequal, however. Better-off families can more easily finance coaching, living expenses and repeated attempts. A formally merit-based examination can, therefore, still depend partly on the resources candidates have before entering the examination hall. The longer recruitment takes, the greater this advantage becomes.
+
+The same scarcity also helps explain why malpractice becomes more consequential. Scarcity does not, by itself, cause leaks or cheating. Weak security, corruption, collusion and administrative failures are the immediate causes and must be addressed directly. But scarcity increases the incentive to gain an unfair advantage. When very large numbers compete for a small number of desirable positions, the potential benefit of obtaining examination material in advance becomes greater. So does the damage when an examination is compromised. A leaked paper is, therefore, not merely an examination failure. It can undermine the process by which thousands of candidates believe they have a fair chance of improving their economic circumstances.
+
+This competition has also created a large examination economy. Coaching institutes, publishers, online platforms and hostels provide useful services. But prolonged preparation can create a cycle: scarce jobs intensify competition, competition encourages longer preparation, longer preparation increases financial and personal investment, and that investment raises the stakes attached to each examination. A cancelled or delayed examination then becomes far more costly for candidates who may have spent years preparing.
+
+The government, therefore, faces two tasks. First, examinations must be secure, transparent, and free from malpractice. Question papers must be protected, procedures independently monitored, and allegations of leaks or manipulation investigated quickly and credibly. Candidates must have confidence that the process is fair. Second, the time and uncertainty attached to recruitment must be reduced. Recruitment calendars should be predictable. Vacancies should be identified and advertised regularly, examination schedules followed, and results and appointments not delayed for years. Where possible, recruitment processes should be simplified so candidates do not spend years moving through multiple stages. But administrative reform can only go so far. India also needs more good-quality employment outside the government. The Economic Survey has identified manufacturing, agro-processing and the care economy as areas with employment potential, while stressing the need to bridge the education-employment gap. Asking young people to acquire more...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/how-indias-exam-crisis-is-really-a-jobs-crisis-1985133)
 
 ---
 
@@ -73,6 +303,37 @@ But her personal take on certain events, forms the real hook and has become the 
 Since no co-author or ghost writer has been mentioned, it is assumed the book contains words penned solely by Sonia Gandhi. But according to the buzz in Delhi, some invaluable ‘’help’’ was provided by two or three brilliant writers and literary critics. Why not? Inputs, suggestions and contributions from close family friends and well-wishers are frequently incorporated when the writer is a first-time author who has undertaken the daunting task of compressing a staggeringly complex life (defined by monumental tragedy) into a 544-page tome.Alfred A. Knopf pulled off a ...
 
 [Read full article](https://www.deccanchronicle.com/opinion/columnists/shobhaa-de-belonging-should-the-sphinx-have-spoken-1984953)
+
+---
+
+### What The ‘Forever Wars’  Today Will Leave Behind
+*Deccan Chronicle · Opinion*
+
+The recently concluded Shanghai Cooperation Organisation Summit (SCO) summit in Bishkek, the capital of Kyrgyzstan, brought together a very interesting cast of characters.
+
+As an aside the city of Bishkek or Pishpek was called Frunze between 1926-1991 when Kyrgyzstan was a part of the erstwhile Soviet Union. It was named after General Mikhail Vasilyevich Frunze (1885–1925), a brilliant Soviet army officer and military theorist, who is revered to this day as one of the founding fathers of the Red Army. I had the occasion of visiting this picturesque city way back in 1986-87 at the invitation of the Students Council of the USSR (SCSU).
+
+Coming back to the SCO summit, beyond the platitudes and homilies contained in the ritualistic Bishkek declaration and the 27 other documents it adopted, it assembled an interesting cast of characters some of whom very actively engaged in creating a new order of things through physical and technological wars. Collectively, these trends will have a profound impact on the remaining 74 years of the 21st century.
+
+First and foremost, there is Russia and its President Vladimir Putin who launched an unnecessary transgression into sovereign Ukrainian territory in the February of 2022 after first occupying Luhansk, three quarters of Donetsk and Crimean regions of Ukraine over the previous seven years. Russia today occupies close to 20 per cent of Ukrainian territory that translates into 1,26,000 square kilometres of land area.
+
+However, Ukrainian mastery over elements of asymmetric warfare has effectively checkmated the Russian advance after initial gains in the first year of the invasion. The frontline has not moved beyond an exchange of mere metres of territory with both the Russian and Ukrainian bogged down in a battle of attrition more representative or reminiscent of the bloody trench warfare of World War-1.
+
+The sobering reality for Russia is the casualty rate in this Ukrainian misadventure. According to an estimate by the Centre of Strategic and International Studies (CSIS) released on July 1, 2026, “Russian battlefield costs continue to mount, with as many as 4,50,000 battlefield deaths and 1.4 million casualties between February 2022 and June 2026. These rates are astounding. Russian fatalities in Ukraine are more than four times greater than all US fatalities in all wars combined since World War-2, and more than nine times greater than all Soviet and Russian fatalities in all wars combined since World War-2. In addition, Russia’s monthly casualty rates of over 30,000 per month in 2026 have likely exceeded Russia’s recruitment rates of roughly 27,000 new recruits per month.”
+
+Despite being actively aided and abetted by Nato and incrementally now once again by the US, Ukraine is also absorbing a lot of punishment. The same report states: “Ukrainian forces have suffered somewhere between 5,25,000 and 6,25,000 casualties (killed, wounded and missing) and between 1,25,000 and 1,50,000 fatalities between February 2022 and June 2026. Combined Russian and Ukrainian casualties have exceeded two million.” The same report
+
+further summarises Russian battlefield casualties and fatalities are significantly greater than Ukrainian casualties and fatalities. “For much of the war, the Russia-Ukraine casualty ratio was between 2:1 and 3:1 (between two and three Russian casualties for every one Ukrainian casualty), though the rate has likely risen to nearly 8:1 in the first half of 2026…” The outcome of this conflict either as a battlefield victory or as a ceasefire agreement or even a broader armistice will determine the reconfigured European Security Architecture in the decades ahead.
+
+Then there is Iran represented by its President Masoud Pezeshkian though the real power lies with an ‘invisible person’ Supreme leader Mojtaba Khamenei not seen in public since his father’s assassination who acts through the Supreme National Security Council whose current secretary Mohsen Rezaei, in turn, was recently appointed in August 2026. Iran has absorbed over six months of US-Israeli strikes but still stands defiant backed in part by both Russia and China. It has by certain independent estimates lost over 6,000 people so far, including civilians, with another 26,500 wounded.
+
+In Lebanon, which is an extension of the Hamas, Muslim Brotherhood and Iranian battlefield, Israel has killed 8,920 people and injured 30,559 others from October 8, 2023, until September 1, 2026, according to a report published by the Lebanese health ministry.
+
+In the Gaza Strip, according to the website Statista, till June 2026, 72,945 people were killed and 172,484 wounded in Israeli operations. Countless others are still unaccounted for as they lie buried under millions of tons of rubble.
+
+Then there is the endless civil war in Yemen between the Iranian-backed Houthis and the Saudi-backed Presidential Leadership Council, its internationally recognised government. How the Iran-US/Israel conflict ends or gets stalemated would...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/what-the-forever-wars-today-will-leave-behind-1985126)
 
 ---
 
@@ -17467,37 +17728,6 @@ The question is not about tech’s utility, but regulating the utilisation. The 
 Author of The Gated Republic, Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India
 
 [Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/Jun/13/the-algo-raj-political-risks-of-tech-oligarchy)
-
----
-
-## 7 June 2026
-
-### Wars, tariffs, leaks: Silence of answers deepens sense of drift
-*The New Indian Express · Opinion*
-
-At 10.30 am on Friday morning, Donald J Trump celebrated “a great Jobs report” and added “stocks should go up”. By noon, the S&P500 had slid nearly 3 percent and tech-heavy Nasdaq plunged over 4 percent. This column underlined the trillion-dollar systemic risk of AI giants dominating indices. To appreciate the magnitude of domination and risk, consider this: the market cap of the top 10 AI-linked tech stocks, at over $28 trillion, is larger than China’s GDP—and the IPOs of OpenAI, Anthropic and SpaceX are yet to be added.
-
-Between breakfast and lunch, more than a trillion dollars were wiped out on Wall Street. The reason for the slide rule: fear of a rate hike by the US Federal Reserve. It was not just stocks. The entire metals group—gold, silver, copper, platinum—went down with the stocks. The yield of the 2-year bond shot up 11 basis points within minutes. Trump’s darling Bitcoin dipped to $59,000, the lowest since Trump’s re-election. The threat of inflation was not unknown. Inflation is already up across the world and visible across national balance sheets.
-
-Inflation is the foster child of Trump’s war in West Asia. Sunday makes it 100 days since the war began as a dip-in and dip-out operation. It continues although Trump claims the US “obliterated” Iran in the first week. The world is stuck between words and meanings—for instance, are the purported ceasefires in Gaza, Lebanon and across the Hormuz Strait really ceasefires? In a bizarre explanation, Trump says, in that part of the world “ceasefire is when you’re shooting in a more moderate manner”. The US President is boxed with no playbook to end the war. The week is a classic long straddle: it begins with a call on peace and ends with a put on obliteration.
-
-Like the tariff war is similarly endless. It is 432 days since the infamous Liberation Day, and yet, chaos reigns. Much water has passed through the Potomac and the Anacostia. The US Supreme Court has shot down tariffs and forced refunds. An undeterred Trump, as this column predicted, is paving new ways to deploy old laws. He imposed tariffs of 10 percent and 12.5 percent on 60 countries, leveraging Section 301 of the US Trade Act of 1974 to accuse countries of importing “goods produced with forced labour”. Effectively, that is code for import of intermediates from China!
-
-Friday saw India inform the world that its GDP grew at 7.7 percent last year. There wasn’t much cheer. That very morning, the Reserve Bank lowered its forecast for growth in the coming year to 6.6 percent and hiked it for inflation to 5.1 percent. The narrative was trapped in the chasm between the vanquished past and a future wrapped in foreboding clouds. India began the decade as the fifth largest economy, hovered at fourth and slid to sixth. With GDP at around $3.76 trillion, it is a nudge away from France, ranked seventh with a GDP of $3.66 trillion. There is the war effect and there is the fog of unfinished agenda.
-
-The fall in rank and stature is blamed on a plunging rupee—down 10 percent from 86 to a US dollar to 95 in a year. The rupee is the villain and victim of circumstance. Foreign institutional sales lead to its fall and its fall leads to FII sales.
-
-The RBI has unveiled six measures—the big two being opening up long-tenure bonds to foreign investors and a facility to pay for the hedging cost of banks fetching dollar deposits. Will it pay off? It did in September 2013, argue the proponents. The circumstances are vastly different. In 2013, India’s policy rate was at 7.5 percent and the US Fed Funds rate was 0.08 percent. The differential (effectively 7.5 percent) plus the currency risk cover was truly lavish. In 2025, India’s policy rate is 5.25 percent and the Fed Funds rate is between 3.5 percent and 3.75 percent. Is the rate high enough to lure depositors?
-
-Like the rupee’s fall symbolises unattended issues. There is much lament about India lacking an AI story. It is true, but it is not the only cause worthy of lament. India’s private sector is sitting on around Rs 15 lakh crore of cash and not investing; the country has a pathetic record in R&D spend. The Rs 1-lakh-crore Research Development and Innovation Fund could help if disbursed. The Rs 1-lakh-crore Urban Challenge Fund could drive smart urbanisation if allocations are speeded. Two panels were tasked in February 2025 to clear the regulatory quagmire. What have they suggested? Will it take fewer than 116 approvals and permits for a solar project? Is it easier to build a hotel or a hospital?
-
-Finally, nothing speaks to the sense of drift more than the approach to resolve issues affecting the youth–for instance, the saga of paper leaks. In December 2025, a parliamentary standing committee bluntly stated the National Testing Agency did not inspire confidence. In 2026, the NTA proved them right! Why wouldn’t the education ministry reach out to techies who manage billion-dollar enterprises to design a system?
-
-India’s economy is haunted by unanswered questions. Margaret Heffernan famously said, “Silence is the language of inertia.” In India’s political economy, the inertia is nurtured by the politics of complicity.
-
-Author of The Gated Republic, Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India
-
-[Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/Jun/06/wars-tariffs-leaks-silence-of-answers-deepens-sense-of-drift)
 
 ---
 
