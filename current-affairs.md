@@ -1,3 +1,352 @@
+## 6 September 2026
+
+### Life in an IIT | How a call at a pani puri stall changed this Bihar student’s life forever
+*Deepto Banerjee · legal*
+
+Mechanical Engineering student Priyanshu Kumar shares his journey from Darbhanga and JEE preparation to IIT Guwahati, friendships, and campus life.
+
+[Read full article](https://indianexpress.com/article/education/life-in-an-iit-jee-mechanical-engineering-branch-why-stopped-chasing-computer-science-engineering-cse-iit-guwahati-iitg-priyanshu-kumar-darbhanga-10864160/)
+
+---
+
+### Man Beaten To Death In Mayur Vihar; AAP MLA Targets BJP, Says ‘Fear Of Police Has Completely Vanished’
+*Aanchal Sinha · general*
+
+An eyewitness and security guard, Nandlal Yadav, said he had seen some people in the area around 4 AM. He claimed that two people had threatened to kill him.
+
+[Read full article](https://www.news18.com/india/man-beaten-to-death-in-mayur-vihar-aap-mla-targets-bjp-says-fear-of-police-has-completely-vanished-ws-l-10312628.html)
+
+---
+
+### If Iran shoots at US ships, we will destroy (and sink) their oil tankers: Pete Hegseth
+*SECTIONS If Iran shoots · business*
+
+US Defense Secretary Pete Hegseth has threatened to wipe out Iran's commercial fleet, declaring on social media platform X that American forces will systematically sink the Islamic regime's oil tankers if Tehran continues targeting Navy ships.
+
+"It’s simple: if Iran shoots at U.S. ships, we will destroy (and sink) their oil tankers. All they have to do is not shoot at US Navy."
+
+Iran’s oil tanker fleet is defenseless — Iran has no navy or air force, said Hegseth in his post. "Our planes, ships & subs can strike them all, in US Central Commad and US Pacific Commad."
+
+  
+
+> — PeteHegseth (@PeteHegseth)
+
+  
+
+The message comes after US Central Command published video footage capturing an Iranian oil vessel consumed by flames before sinking into the Gulf of Oman, concurrently issuing a stern warning to Tehran that assaults targeting American naval assets will provoke severe economic consequences.
+
+The M/T Kylo constituted one of three crude oil carriers belonging to Iran that faced strikes executed by United States military units on Saturday (local time). According to US Central Command, the action followed an initiative by Iran's Islamic Revolutionary Guard Corps (IRGC) involving ballistic missiles aimed at two United States Navy vessels deployed within regional waters.
+
+Through a statement published on X, US Central Command identified the vessel as the M/T Kylo, noting, "Thanks to the precision and professionalism of American service members, the M/T Kylo sank in the Gulf of Oman today and joined Iran's navy at the bottom of the sea."
+
+American military officials confirmed that the strike operations took place on Saturday, local time, following the IRGC missile launch towards the two patrolling US Navy warships. Reports from US Central Command indicated that an American aircraft carrier alongside a guided-missile destroyer successfully avoided several incoming Iranian attacks, leaving zero American personnel wounded.
+
+Additionally, the United States military stated that operations had permanently disabled the M/T Downy close to Kharg Island alongside the M/T Stark 1 situated near Jask. Officials added that the M/T Kylo, alternatively designated as the "Noxen", suffered destruction within the Gulf of Oman following strikes across multiple vital sections. US Central Command noted that crew members received orders to abandon the vessel prior to it becoming completely inoperable.
+
+---
+
+### US military strikes three Iranian crude oil carriers, Central Command confirms
+*ET Online · business*
+
+American forces struck three Iranian crude oil tankers on Saturday after Iran launched ballistic missiles at two US Navy ships, U.S. Central Command said. No American personnel were harmed, Central Command said.
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/us-military-strikes-three-iranian-crude-oil-carriers-central-command-confirms/videoshow/133825712.cms)
+
+---
+
+### No Muslims, Aadhaar mandatory, tilak must: VHP's Maharashtra garba-dandiya rules
+*Mustafa Shaikh · general*
+
+## VHP spokesperson and joint secretary Shriraj Nair said the organisation had decided to prevent members of the Muslim community from participating in garba and dandiya events, arguing that the festival is centred on worshipping the Hindu goddess.
+
+VHP calls to exclude Muslims in garba and dandiya festivals during Navratri (Photo: Representative)
+
+The Vishva Hindu Parishad (VHP) has called for Muslims to be kept out of garba and dandiya events during next month's Navratri festival in Maharashtra and issued guidelines urging organisers to verify the identity of participants.
+
+The Navratri festival begins on October 11 this year. Among the measures suggested by the VHP are checking the Aadhaar cards of attendees and applying tilak on their foreheads.
+
+VHP spokesperson and joint secretary Shriraj Nair said the organisation had decided to prevent members of the Muslim community from participating in garba and dandiya events, arguing that the festival is centred on worshipping the Hindu goddess.
+
+"We have taken a decision not to allow participation of Muslims in garba-dandiya dance during the Navratri festival," Nair said.
+
+"Navratri is not just about songs and dance. The festival is about worshipping the Goddess. Why should Muslims, who are against idol worship, participate in the festival?" he said.
+
+The VHP has described the restrictions as precautionary measures to preserve what it considers the cultural character of Hindu festivals. Nair said the move was not directed against any particular community.
+
+"The VHP, which is unwilling to compromise on its core agenda of religious conversion and anti-cow slaughter, believes festivals are an integral part of the cultural legacy of the Hindus. And it cannot allow its dilution. However, it admits the restrictions are precautionary measures and not directed against Muslims or any other communities," he said.
+
+The guidelines have drawn criticism from opposition parties and leaders, who have questioned both their constitutional validity and whether the RSS leadership endorses the VHP's position.
+
+### OPPOSITION QUESTIONS VHP DIKTAT
+
+Shiv Sena (UBT) MP Sanjay Raut criticised the VHP and referred to a recent speech by RSS chief Mohan Bhagwat in New York, asking whether the organisation disagreed with his remarks on Hindu-Muslim relations.
+
+Bhagwat, while addressing a gathering at Madison Square in New York, had stressed universal oneness and dignity for all people.
+
+"If any Hindu thinks there should be no Muslims in India, he will not remain Hindu. If you want to call yourself a Hindu, you have to believe that all paths lead to the same goal. Every human has dignity. There is no difference between human beings," Bhagwat had said.
+
+Asked to respond to Bhagwat's remarks, Nair said the VHP would not comment on the RSS chief's statement.
+
+"We are not against anybody. We also believe in social harmony and peace," he said.
+
+Nair, however, questioned why the VHP should relax its guidelines for Muslims who, according to him, do not subscribe to the religious beliefs and form of worship associated with Navratri.
+
+"The point is, why should we relax our guidelines for Muslims who don't subscribe to our religious beliefs and style of worship?" he said.
+
+He also said Muslims who wanted to participate in Navratri festivities should attend with their families, while suggesting that they could organise such celebrations at mosques or near their residences.
+
+"If Muslims are keen to participate in the Navratri festivities, they should come with their family members, wives and sisters. They should organise the Navratri festivals in the mosques or places of their residences," Nair said.
+
+Congress MLA Amin Patel called the VHP's move unconstitutional and said festivals traditionally serve as occasions for communal harmony.
+
+"Festivals encourage communal harmony. We are often invited for dandiya and Navratri events out of goodwill. We also call members of other communities for Eid and Ramzan," Patel said.
+
+NCP (SP) spokesperson Clyde Crasto also criticised the VHP's guidelines, saying they could disturb peace and harmony in Maharashtra. He questioned the BJP-led state government's response to the move and asked whether it would remain silent while allowing the VHP to dictate matters relating to law and order.
+
+"The question is, what is the BJP government in the state going to do about this? Are they going to be mute and allow the VHP to govern law and order in the state? They should prove to the people of Maharashtra that nobody is above the law of the land," Crasto said.
+
+### MINORITY COMMISSION OBJECTS TO EXCLUSION
+
+Maharashtra State Minority Commission Chairman Pyare Khan said everyone has the right to celebrate festivals according to their faith, but objected to a blanket exclusion of Muslims from public festivities.
+
+Khan noted that several organisations invite Muslims to such events and argued that festivals should bring communities together rather than create divisions.
+
+"Everyone has the right to celebrate festivals of one's faith. But saying that Muslims will not be allowed... Several organisations invite Muslims too. Festivals connect people, not divide them," he said.
+
+Khan added that participation should depend on whether people are invited, rather than on communal restrictions.
+
+"If someone doesn't want to call them, don't call them. Nobody goes there forcibly anyway. People go when they are called with love," he said.
+
+The VHP's announcement has therefore triggered a wider debate in Maharashtra over who can participate in public religious and cultural celebrations, the role of organisers in verifying attendees' religious identities and the limits of such restrictions in a diverse society.
+
+\- Ends
+
+Akash Chatterjee
+
+Sep 6, 2026 09:49 IST
+
+---
+
+### Shillong Teer Result Today, September 6, 2026: First And Second Round Winning Numbers
+*Nibandh Vinod · general*
+
+Shillong Teer Result Today: Check the latest winning numbers for Shillong Teer, Juwai Teer, Khanapara Teer, Shillong Morning Teer and Night Teer for September 6, 2026.
+
+[Read full article](https://www.news18.com/india/shillong-teer-result-today-september-6-2026-winning-numbers-10312290.html)
+
+---
+
+### Corporate America is getting hooked on open-source AI
+*Karan Mahadik · technology*
+
+Many of the most popular open AI models are made by Chinese companies like Moonshot AI, DeepSeek and Alibaba.
+
+[Read full article](https://indianexpress.com/article/technology/artificial-intelligence/corporate-america-is-getting-hooked-on-open-source-ai-10865285/)
+
+---
+
+### Delhi SIR: Omision of Election Commission? 11 lakh voters' names deleted before review begins
+*Monica Singh · general*
+
+In the first phase of the Systematic Identification of Residents (SIR) in Delhi, nearly 4.8 million names were removed from the electoral roll, which accounts for one-third of the 14.5 million electorate as of June 20.
+
+The first phase of the special intensive revision (SIR) in Delhi deleted nearly 4.8 million names from the Capital’s electoral roll, or roughly a third of the 14.5 million electorate as on June 20.
+
+But even before the controversial process began on June 30, Election Commission data shows that nearly 1.1 million names were dropped between January 2025 – when it was frozen before the February 2025 assembly elections – and June 2026, when it was frozen before SIR. This represents around 7.07% of the city’s electorate in 2025 and 11.32% now.
+
+Of the 1.1 million deletions, nearly 0.3 million were made between May 2026 and June 2026 during the pre-SIR mapping phase.
+
+Delhi’s rolls listed 15,614,000 electors in January 2025. By June 2026, this number had fallen to 14,510,299. It now stands at 9,753,577.
+
+## **Voters say they were unaware of deletions; no SIR form received**
+
+At least 15 people across the Capital who were not aware that their names were dropped during this 16-month period. As a result, their partially filled forms for SIR were never generated, never reached their booth-level officers, and they never got a chance to enroll themselves.
+
+“When SIR started, everybody in my family received an SIR form except me. We went to the BLO multiple times, but he said my name is not there and I should register afresh later using Form 6,” said domestic worker Puja Devi, who voted in the 2020 assembly elections and the 2024 Lok Sabha elections, and lives in Mubarakpur Dabas in northwest Delhi.
+
+In Adarsh Nagar, Baljinder Kumar said he has lived in the same house since 2010. “I have been a voter in this area for over two decades. I was surprised that my name didn’t even appear in the deleted voters’ list. The BLO is now saying that I should register as a new voter under Form 6. But that means I am accepting that I have never voted before,” Kumar said.
+
+Residents across Okhla, Timarpur, Tughlaqabad, Narela, Rohini and Jangpura reported a similar experience. They did not receive an SIR enumeration form because their names were already deleted before the exercise started.
+
+## **Routine revision or error? CEO office vs BLOs**
+
+Officials at the Delhi Chief Electoral Officer’s (CEO) office attribute the 1.1 million deletions to routine quarterly roll revisions and errors by BLOs.
+
+“Even though it’s a high number, it’s possible that these names were removed during routine revisions in that one year. BLOs might have also removed names during the pre-SIR mapping in May and June,” a senior official said. “These people can get back on the rolls by registering as a voter using Form 6.”
+
+Some BLOs, however, insisted they were explicitly barred from deleting names during the pre-SIR mapping window. During this period, they were only supposed to go door-to-door to identify electors whose names appeared in the 2002 rolls.
+
+Jitendra Singh, a BLO from Narela, said additions and deletions were ordinarily processed throughout the year, but the pre-SIR phase was different. “We receive applications for addition and deletion of names throughout the year. In pre-SIR mapping, we are not supposed to delete any names,” he said.
+
+## **Adarsh Nagar records biggest percentage drop**
+
+Adarsh Nagar saw the highest percentage deletion during this 16-month period – roughly a quarter of its 177,398 electors in January 2025. It was followed by Delhi Cantt and Uttam Nagar, where the electorate shrunk by 19.03% and 18.78%, respectively.
+
+In absolute numbers, outer Delhi’s Bawana recorded the single-largest fall, losing 69,112 electors from 384,849 in January 2025 to 315,737 in June 2026, an 18% drop. In Uttam Nagar, the number fell by 59,484 voters (18.8%), and in Nangloi Jat, 50,356 (18.7%)
+
+---
+
+### ‘Sexual Advances, Lewd Remarks': 10 JNU Students Accuse Professor, ICC Probe Underway
+*Shuddhanta Patra · general*
+
+The JNU professor, who lives on the university campus, allegedly invited students to his house for gatherings and made sexual advances.
+
+[Read full article](https://www.news18.com/india/sexual-advances-lewd-remarks-10-jnu-students-accuse-professor-icc-probe-underway-10312616.html)
+
+---
+
+### AAP mocks PM Modi's 'Angry Uncles' remark, says he wrote post 'after looking at himself in mirror'
+*Ani · business*
+
+New Delhi \[India\], September 6 (ANI): The Aam Aadmi Party (AAP) on Sunday took a swipe at Prime Minister Narendra Modi over his "Angry Uncles" remark, saying that the Prime Minister wrote the post after "looking at himself in the mirror".
+
+Sharing PM Modi's post on X, AAP wrote, "Modi ji wrote this tweet after looking at himself in the mirror."
+
+  
+
+> — AamAadmiParty (@AamAadmiParty)
+
+The reaction came after PM Modi, while addressing the centenary celebrations of Shri Ram College of Commerce (SRCC) on Saturday, took a dig at critics of the government's initiatives and described them as "Angry Uncles" who oppose every new project.
+
+  
+
+Addressing students at SRCC, PM Modi said, "Outside this campus, you will find a new world. You will meet two types of people. One type are those who positively transform the power of society into the power of the nation."
+
+"The second species is of those people who become an 'Angry Uncle' whenever any work starts. Their favourite job is to oppose every work. They have only one dialogue: 'What is the need for this?'" he added.
+
+PM Modi cited examples of projects including the Statue of Unity, high-speed trains, UPI, semiconductor manufacturing and the new Parliament building, saying Opposition questioned the need for each initiative.
+
+"When we were building the world's tallest statue, the 'Phoofas' braced themselves and said, 'What is the need for this?' We started work on high-speed trains, the 'Phoofas' spoke up again: 'What is the need for this?'" he said.
+
+Talking about UPI, PM Modi said, "We brought UPI, and these same 'Phoofas' would say: 'Why UPI? What is the need for UPI?'"
+
+He further said, "But India has replied to all such 'Phoofas'. No one can stop India from doing what is necessary for the country."
+
+The Prime Minister participated in the centenary celebrations of SRCC on Teachers' Day and highlighted India's development journey while targeting Opposition parties over their criticism of government initiatives.
+
+---
+
+### Rain Alert Across India Today: Heavy Showers In UP, Haryana; Yellow Alert For Noida, Gurugram
+*Shobhit Gupta · general*
+
+The IMD has forecast a maximum temperature of around 31-33 degrees Celsius and a minimum temperature of 24-26 degrees Celsius in New Delhi.
+
+[Read full article](https://www.news18.com/india/rain-alert-across-india-today-heavy-showers-in-up-haryana-yellow-alert-for-noida-gurugram-ws-l-10312606.html)
+
+---
+
+### Ram temple donation theft: Court extends judicial custody of 8 accused
+*SECTIONS Ram temple donation theft Court extends judicial custody · business*
+
+Ayodhya (UP): A court here on Saturday extended till September 18 the judicial custody of all eight accused arrested in connection with the alleged theft of donations at the Ram temple, their lawyer said.
+
+The eight accused, who were associated with the temple's donation-counting process, were arrested after an FIR was lodged on June 25 following a preliminary report by a state government-constituted Special Investigation Team. They are currently lodged in jail.
+
+Lawyer Kul Shekhar Singh, who represents the accused, told PTI that the judicial custody of all the accused was extended till September 18.
+
+  
+
+The order was passed by Special Judge Rajat Verma of the Anti-Corruption Court in Ayodhya.
+
+The eight accused arrested in the case are Avinash Shukla, Anukalp Mishra, Lav Kush Mishra, Manish Kumar Yadav, Karunesh Pandey, Ram Shankar Mishra, Subhash Srivastava and Ramashankar alias Tinnu Yadav.
+
+In his bail application, Srivastava informed the court about the donation-counting process and claimed that he has been falsely implicated in the case, the counsel said.
+
+He also contended that several other people, apart from the eight arrested accused, were involved in the counting process, the lawyer said.
+
+The counsel said the bail applications of three accused will be heard on September 11, followed by those of another three accused on September 14.
+
+The bail pleas of the remaining two accused will be heard on September 15, he said.
+
+The case relates to the embezzlement of cash and valuables offered by devotees at the Ram temple. Investigators have so far recovered Rs 79.85 lakh, according to the prosecution.
+
+Most of the accused were bank employees deployed for counting cash donations at the temple, while Srivastava was in charge of the donation-counting process and Tinnu Yadav worked as a driver.
+
+On Tuesday, the counsel had sought the unfreezing of Srivastava's Canara Bank account, arguing that the account received his pension and was being used to support his family. The court had adjourned that plea to September 9.
+
+---
+
+### When Nirmala Sitharaman takes Dravidian politics to cleaners with examples of Kamba Ramayanam
+*ET Online · business*
+
+Speaking at the Dr SL Bhyrappa Memorial Lecture in New Delhi, Union Finance Minister Nirmala Sitharaman said Kambar’s 12th-century epic was not merely a translation of Valmiki’s Ramayana, but an infusion of distinct Tamil thoughts, landscapes and lifestyles. She also said the Dravidian movement soug...
+
+[Read full article](https://economictimes.indiatimes.com/news/politics-and-nation/when-nirmala-sitharaman-takes-dravidian-politics-to-cleaners-with-examples-of-kamba-ramayanam/videoshow/133825223.cms)
+
+---
+
+### 9 killed after consuming spurious liquor in Madhya Pradesh’s Sagar
+*Ravish Pal Singh · general*
+
+Nine people have died after allegedly consuming spurious liquor in Madhya Pradesh’s Sagar. The victims were residents of different villages and reportedly fell ill after drinking alcohol on Saturday night.
+
+According to preliminary information, people from Ghooghar, Naoraj, Baraj and surrounding areas had consumed liquor on Saturday night.
+
+Their condition deteriorated soon after, following which family members rushed them to hospital for treatment.
+
+However, doctors at the hospital declared them dead.
+
+While poisonous liquor is being suspected as a possible cause, authorities have not yet officially confirmed that the deaths were caused by alcohol poisoning.
+
+Police said the exact cause will be established after post-mortem examinations.
+
+### POST-MORTEM TO ESTABLISH CAUSE OF DEATHS
+
+Investigators are gathering information from the affected families and local residents as part of the probe. Authorities are also expected to examine the liquor consumed by the victims and trace its source.
+
+The incident has raised concerns over the possible distribution and consumption of illegally produced or spurious liquor in the area. Police are investigating whether the deaths are connected and whether any illegal liquor network was involved.
+
+The administration has not ruled out the possibility of more casualties, as officials continue to assess the situation and gather details.
+
+The Sagar deaths come amid recent cases of suspected spurious liquor consumption in other states.
+
+Last month, 13 people died in Gujarat’s Bhavnagar district after allegedly consuming spurious liquor, while more than a dozen others were hospitalised.
+
+Officials had said four suspected illegal liquor sellers were detained in connection with the case.
+
+According to authorities, the victims had consumed liquor belonging to a popular Indian Made Foreign Liquor (IMFL) brand.
+
+Police arrested 13 of the 21 accused and charged them with offences including culpable homicide and poisoning.
+
+The investigation found that the liquor contained 38.59% methanol.
+
+Gujarat is a prohibition state, where the manufacture, sale and consumption of alcohol are prohibited, subject to limited exceptions under the law.
+
+\- Ends
+
+Prateek Chakraborty
+
+Sep 6, 2026 09:30 IST
+
+---
+
+### From Savings To Investments: 5 Smart Money Habits To Ensure Lasting Wealth
+*Ankita Verma · business*
+
+Here are five key financial habits that separate the wealthy from the middle class.
+
+[Read full article](https://www.news18.com/photogallery/business/savings-and-investments/smart-money-habits-to-grow-wealth-ws-l-10310466.html)
+
+---
+
+### 'Trust shattered': Rahul backs students protesting against MPSC paper leak in Maharashtra
+*Rohitashwa Ranjan · regional, india*
+
+NEW DELHI: Lok Sabha leader of opposition Rahul Gandhi on Sunday backed students protesting against alleged irregularities in Maharashtra Public Service Commission (MPSC) examinations, saying that "every student is tormented by the BJP regime".In a post on X, Rahul said thousands of students were protesting in Maharashtra because their trust in the system had been "shattered"."In Maharashtra, thousands of students are on the streets, protesting peacefully - the reason isn't just one exam or recruitment, but a trust that's been shattered by the entire system," Rahul said.
+
+"Whether it's the central or state government, every student is tormented by the BJP regime.
+
+Paper leaks, stalled recruitments, the unbearable cost of education, inhumane conditions in hostels, food like poison, fraud in DBT and now, they've seized control of a constitutional body like MPSC and destroyed its credibility," he added.The Congress leader urged the government to listen to the students and act immediately, warning that their protests would grow louder until justice was served."Every demand from students for their successful future is justified.
+
+The government must listen to their voice and act immediately - otherwise, this echo of the students will only grow louder until justice is served," Rahul said.Rahul's remarks came amid an ongoing Mumbai Police probe into the alleged leak of the question paper for the MPSC Food and Drug Administration (FDA) Inspector examination.
+
+MPSC conducted the offline examination for Drug Inspector posts on March 22. Candidates had subsequently raised concerns over a possible paper leak, but alleged that their complaints were not acted upon.
+
+The recruitment process was later completed, with a merit list of 488 candidates published.MPSC has since cancelled the recruitment process for Drug Inspector Group-B posts under the Food and Drug Administration Department following a preliminary inquiry into alleged malpractice in the screening examination.A police inquiry prima facie indicated that one candidate had received the question paper before the examination and benefited from it, the commission said. It added that it considered the seriousness of the findings before deciding to cancel the recruitment process.Police have also arrested six people, including three MPSC officials, in connection with the alleged question paper leak in the 2026 Drug Inspector Group-B screening examination, which has now been cancelled.
+
+
+---
+
 ## 5 September 2026
 
 ### Speeding car crashes into another, teen on scooter gets trapped in between; dies
