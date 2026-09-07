@@ -1,3 +1,429 @@
+## 7 September 2026
+
+### New books: Two compelling debuts and one cup of reheated comfort
+*Aishwarya Khosla · legal*
+
+Quick Verdict: Satoshi Yagisawa's More Days at the Torunka Cafe, Antara Mukherjee's Beyond Our Births, and Pia Ghosh-Roy's And I Am the Arrow reviewed
+
+[Read full article](https://indianexpress.com/article/books-and-literature/satoshi-yagisawa-torunka-cafe-antara-mukherjee-pia-ghosh-roy-review-10866431/)
+
+---
+
+### Jharkhand Police makes 10th arrest in exam irregularities case
+*India Today News Desk · general*
+
+## Jharkhand CID has arrested Kundan Kumar in the JSSC-CGL examination irregularities case. The arrest takes the total to 10 as the probe deepens amid a court stay on exam cancellation.
+
+Jharkhand recently witnessed massive protests over exam irregularities. (Photo:PTI)
+
+The Criminal Investigation Department of Jharkhand Police has arrested another accused in the alleged irregularities linked to the Jharkhand Graduate Level Combined Competitive Examination-2023, an official said on Monday. With this, the state probe agency has arrested 10 people in connection with the case.
+
+The examination was conducted by the Jharkhand Staff Selection Commission in 2024. The Jharkhand government had earlier announced the cancellation of several recruitment tests, including the JSSC-CGL-2023 held on September 21 and 22, 2024, following protests by job aspirants over alleged irregularities.
+
+However, the Jharkhand High Court stayed the government’s decision to cancel certain exams, including the JSSC-CGL-2023, on a plea by successful candidates who feared losing their jobs.
+
+“In connection with the JSSC-CGL competitive examination, Kundan Kumar, a resident of Dumri village in Palamu district, has been arrested,” the CID said in a statement on Sunday night.
+
+The agency had earlier arrested an accused from Giridih district on August 30, four successful candidates of the JSSC-CGL examination held in 2024 on August 28, and two accused in the case on August 27. It had also arrested the key accused, Abhay Tiwari, his wife and his brother in late July and early August.
+
+A Special Investigation Team of the Jharkhand CID is probing the alleged irregularities in the JSSC-CGL exam. On July 22, the CID arrested Abhay Tiwari, then posted as a block supply officer in Poriyahat in Godda district, in connection with the probe.
+
+His wife Sushama Kumari and brother Akshay Tiwari were arrested on August 18. The latest arrest has taken the total number of people held in the case to 10.
+
+\- Ends
+
+India Today Web Desk
+
+Sep 7, 2026 10:07 IST
+
+---
+
+### India to modify Su-30 fighter jets to integrate them with RVV BD air-to-air missiles
+*SECTIONS India · business*
+
+In a major capability boost for the Indian Air Force, the Defence Ministry is taking up a proposal to modify the Su-30 MKI aircraft to integrate them with the Russian-origin RVV BD air-to-air missile that can take out enemy targets at 300 kilometres at high speed in the air.
+
+The proposal is being taken up for consideration by the Defence Ministry just a few days before tha arrival of Russian President Vladimir Putin for the BRICS meeting, and many important defence deals are likely to be discussed between the two sides.
+
+  
+
+The proposal to modify the Su-30 MKI aircraft to be integrated with RVV BD missiles is expected to be taken up for clearance at the meeting of the Defence Acquisition Council scheduled to be held today, defence sources told ANI.
+
+The Russian side has many versions of the RVV BD missiles that can hit targets like Airborne Early Warning and Control aircraft and other spy planes in the air at hypersonic speeds of around 6 Mach.
+
+The Defence Ministry, led by Rajnath Singh, has been working to upgrade the air-to-air weaponry of the Indian Air Force with a focus on both indigenous as well as foreign routes.
+
+The Defence Research and Development Organisation has been focusing on and fast-tracking work on the variants of existing and future variants of the Astra air-to-air missiles, which would be able to hit targets up to 300 plus kms.
+
+India has also placed huge orders for acquiring the Meteor air-to-air missiles from France.
+
+The Su-30 MKI, which is being modified or upgraded to be equipped with the RVV BD missiles are the mainstay of the Indian Air Force, as there are over 260 of them in service.
+
+India is also working on two separate projects for modernising the fleet, after which they would be at an advanced level and would be able to see and strike at longer distances than before.
+
+The planes played a major role in Operation Sindoor, where they destroyed multiple Pakistair bases with their long-range air-to-ground payloads, including the BrahMos air-launched missiles and the Rampage.
+
+DAC is also taking up a project to overhaul the Su-30 MKI aircraft at Hindustan Aeronautics Limited along with the AL-31 engines.
+
+HAL is also likely to get a significant order for the ALH Mark 3 choppers.
+
+---
+
+### Satya Niketan building collapse: Locals allege 'illegal construction'
+*ET Online · business*
+
+A local resident spoke about the building collapse in Delhi’s Satya Niketan, alleging that the structure had five floors despite a limit of two or three floors in the area. The resident also said basement work was underway before the collapse and claimed around 40 people were living in the building....
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/satya-niketan-building-collapse-locals-allege-illegal-construction/videoshow/133863690.cms)
+
+---
+
+### BRICS Summit 2026 dates: Check traffic advisories, venue, schedule and other details for this week
+*Trending Desk · business*
+
+New Delhi is preparing for a high-security week as India gets ready to host the 18th BRICS Leaders' Summit. The main summit will be held from September 11 to 13, 2026, with Bharat Mandapam at Pragati Maidan serving as the venue. For people living in or travelling through Delhi, however, the summit is not only a diplomatic event. The movement of foreign leaders and their motorcades is expected to affect traffic on several major roads, particularly around central Delhi and routes connecting important hotels, the summit venue, railway stations and the airport.
+
+Here is what commuters, office-goers, students and visitors should keep in mind this week.
+
+  
+
+## BRICS Summit 2026 dates
+
+The main BRICS Leaders' Summit is scheduled for September 11, 12 and 13 in New Delhi. The summit comes after months of meetings and events under India's BRICS chairship. The leaders' meeting will bring together representatives of BRICS member and partner countries for discussions on economic, political and global issues. The summit's main venue is Bharat Mandapam, Pragati Maidan, one of the capital's key international conference and exhibition venues.
+
+  
+  
+
+## BRICS 2026: Why Delhi traffic may be affected
+
+The biggest issue for ordinary commuters is expected to be the movement of VIP convoys. Delhi Traffic Police has been conducting motorcade rehearsals and preparing diversion plans ahead of the summit. More than 35 roads are expected to come under regulation, while 22 diversion points have been identified as part of the traffic management arrangements.
+
+The affected network extends beyond Pragati Maidan. Routes in central and south Delhi, as well as roads connecting key diplomatic and hotel areas, can see temporary restrictions when a dignitary's convoy passes.
+
+Among the important areas and roads that have figured in the traffic arrangements are Sardar Patel Marg, Janpath, Akbar Road, Mathura Road, Lodhi Road, Mandi House and Dhaula Kuan.
+
+  
+
+## BRICS Traffic Advisory: What should commuters do?
+
+If you have to travel through central Delhi between September 11 and 13, leaving earlier than usual would be sensible. Even a route that normally takes 30 minutes could take considerably longer if a convoy movement temporarily stops traffic.
+
+The Delhi Traffic Police has advised commuters to use public transport, particularly the Metro, wherever possible. People travelling by car should check traffic updates before leaving and be prepared to change their route.
+
+Those heading towards the airport should also leave sufficient buffer time. Airport-bound traffic can be affected by restrictions on routes leading towards the Indira Gandhi International Airport.
+
+## What about railway stations During BRICS Summit?
+
+Travellers going to New Delhi, Old Delhi and Hazrat Nizamuddin railway stations should also plan ahead. The traffic advisory includes route-management arrangements for passengers travelling to and from these stations. If you have a train to catch during the summit period, it would be safer not to leave home at the last minute.
+
+The same applies to people receiving relatives or friends at the stations.
+
+## Delhi schools closed on September 11
+
+One of the immediate changes for Delhi residents is the closure of schools on **Friday, September 11**.
+
+The Directorate of Education has directed schools in the capital to remain closed that day as part of arrangements for the BRICS Summit. The decision is aimed at reducing traffic pressure and making security and movement arrangements easier during the high-profile event.
+
+Some offices are also expected to remain closed or alter their operations on September 11, depending on the applicable government directions and workplace arrangements.
+
+## BRICS: Traffic restrictions may be temporary
+
+Commuters should keep in mind that a road appearing on a BRICS-
+
+Many restrictions are linked to the movement of motorcades and security requirements. Traffic may therefore be regulated, diverted or temporarily stopped before normal movement resumes.
+
+This is why checking live traffic information shortly before travelling will be particularly important during the summit.
+
+## Delhi Metro may be the easier option
+
+For people travelling within Delhi, the Metro is likely to be a more predictable option than taking a private vehicle through areas affected by convoy movement.
+
+The traffic police has specifically encouraged commuters to consider public transport during the period of heightened restrictions. Those who do need to drive should keep alternative routes in mind rather than relying entirely on their usual route.
+
+## Security arrangements across Delhi
+
+Traffic management is only one part of the preparations. Security has been stepped up around the summit venue and hotels where visiting dignitaries are expected to stay. Authorities have also been coordinating with neighbouring states to manage movement on Delhi's borders and prevent security gaps during the summit.
+
+The Delhi administration has also reviewed arrangements covering traffic, security, civic services and emergency medical response ahead of the event.
+
+## What people should keep in mind this week
+
+For Delhi residents, the practical takeaway is fairly simple:
+
+-   **BRICS Summit:** September 11-13, 2026
+-   **Main venue:** Bharat Mandapam, Pragati Maidan, New Delhi
+-   **Traffic:** Restrictions and diversions are expected on several important roads
+-   **Diversion points:** 22 identified in the traffic arrangements
+-   **Regulated roads:** More than 35 roads may be affected
+-   **September 11:** Delhi schools will remain closed
+-   **Airport travel:** Leave extra time and check the latest traffic situation
+-   **Rail passengers:** Plan additional travel time for New Delhi, Old Delhi and Hazrat Nizamuddin stations
+-   **Preferred transport:** Metro and other public transport may be more convenient than private vehicles in affected areas
+
+The safest approach for commuters is to avoid unnecessary travel through the summit's main security corridors, particularly during convoy movements. For essential journeys, checking the latest Delhi Traffic Police directions before starting out could save both time and frustration.
+
+With several world leaders and senior delegations expected in the capital, Delhi is likely to remain under heightened security throughout the summit period. For residents, that means a few days of unusual traffic patterns and restrictions as the city hosts one of the year's biggest diplomatic gatherings.
+
+---
+
+### Purple Style Labs IPO Lists At 7% Discount; Shares Debut At Rs 535
+*Unknown · business*
+
+Purple Style Labs IPO Listing: In the pre-market, the stock was listed at Rs 535 on the NSE, compared with the IPO issue price of Rs 575.
+
+[Read full article](https://www.news18.com/business/markets/purple-style-labs-ipo-lists-at-7-discount-shares-debut-at-rs-535-10313627.html)
+
+---
+
+### After 4th transfer in a year, IAS officer says she's disturbed, demotivated
+*Ravish Pal Singh · general*
+
+Madhya Pradesh IAS officer Neha Marvya Singh has expressed her resentment after being transferred for the fourth time in a year, saying she was "humiliated" after subordinates allegedly organised a "mutiny" against her. She said the latest transfer came just 50 days after she joined her posting.
+
+Singh, 40, a 2011-batch Madhya Pradesh\-cadre IAS officer, expressed her resentment in a message shared with the MP IAS Officers' Association. She said she was "very disturbed" and "demotivated" after seeing the transfer list dated September 5, in which her name appeared again.
+
+"I am transferred because the subordinates whose establishment is not with me but with the department organised a mutiny against me, they are thumping on my desk threatening to get me transferred," Singh wrote.
+
+Singh's remarks came amid recent instances of civil servants opting to leave government service. IAS officer Divya Mittal, a 2013-batch Uttar Pradesh cadre officer, recently announced her voluntary resignation after 13 years in service. Another former IAS officer, Roman Saini, resigned after a brief stint in the bureaucracy and went on to co-found edtech platform Unacademy.
+
+Meanwhile, Neha Singh said she had reported the subordinates' insubordination, hoarding of files and mistreatment through the proper channel, expecting necessary action to be taken against those responsible. "Rather I am getting transferred?" she said.
+
+"I completely understand that, being an IAS officer, I can be asked to perform my duties wherever the state government wants, and I have always respectfully accepted orders. But this time I feel very demotivated," she wrote.
+
+Questioning the circumstances of her transfer, Singh asked, "Is an IAS officer so vulnerable that even his subordinates can get him or her transferred by organising a mutiny?"
+
+"This is the fourth time in one year my name has appeared on the transfer list. I understand that the MP IAS Officers' Association is much beyond just wishing birthdays, congratulating etc.," she wrote, urging the association to address her concerns.
+
+Singh said an officer hardly gets enough time to understand a department within a month, questioning why her subordinates had organised a "mutiny" so soon after she took charge.
+
+"Leave me. I don't think any IAS officer can do anything of the level that subordinates organise a mutiny within a month of joining the officer. An officer hardly gets to understand the work in a month," she wrote.
+
+"But I have been humiliated by this transfer at the behest of the mutiny of subordinates," the IAS officer said.
+
+Singh also raised concerns over her short tenures, saying frequent transfers made it difficult for her to understand and effectively handle her assignments. "How am I supposed to work? My tenures are short months. By the time I understand the charge, I get removed," she said.
+
+She further alleged that the repeated transfers had made her an "easy target" in the eyes of her subordinates. "Even my subordinates feel I am an easy target if I do not work according to them, they can get me transferred," she said.
+
+Singh said she had remained silent and patient for years while being "sidelined and not given work", hoping that the situation would improve. Instead, she said, subordinates had now started threatening her with transfers.
+
+Conspirators always win and I fail. The system has failed me. Today it's me, tomorrow another IAS officer will be the target," the IAS officer further said.
+
+\- Ends
+
+Prateek Chakraborty
+
+Sep 7, 2026 09:58 IST
+
+---
+
+### Delhi Building Collapse: Why Rescue Teams Are Not Using JCBs Despite Students Trapped Under Debris
+*Shuddhanta Patra · general*
+
+The decision not to use JCB machines in the resucue operation is linked to concerns over the stability of the remaining structure.
+
+[Read full article](https://www.news18.com/india/delhi-building-collapse-why-rescue-teams-are-not-using-jcbs-despite-students-trapped-under-debris-ws-t-10313625.html)
+
+---
+
+### Mohan Bhagwat’s 20-Year Vision: What An Organised Hindu Society And A 'Rashtra' Beyond Religion Means
+*Pragati Ratti · general*
+
+RSS chief says Hindu Rashtra is not about ruler, religion or uniformity - ‘diversity is natural, unity is truth’
+
+[Read full article](https://www.news18.com/india/mohan-bhagwats-20-year-vision-what-an-organised-hindu-society-and-a-rashtra-beyond-religion-means-ws-l-10313577.html)
+
+---
+
+### Five names, 30 years, 17 cases: A Kerala man’s ‘Catch Me If You Can’ story
+*Kiran Parashar · legal*
+
+Wanted in cases dating back to 1997, Sam Antony posed as an NCIB officer, extorted businessmen and repeatedly disappeared across states. He was finally arrested in Kerala last month by the Mangaluru Police
+
+[Read full article](https://indianexpress.com/article/cities/bangalore/kerala-conman-sam-peter-cases-10866301/)
+
+---
+
+### Diwali Train Tickets Booking Now Open: Check Dates, Routes And Special Trains
+*Parishmita Saikia · lifestyle*
+
+Diwali is still weeks away, but railway bookings are open now. With demand expected to surge, here’s what passengers need to know before planning their train journey
+
+[Read full article](https://www.news18.com/india/diwali-train-tickets-booking-now-open-check-dates-routes-and-special-trains-ws-l-10313544.html)
+
+---
+
+### Rupee Opens 10 Paise Higher At Near Six-Week High Of 94.39 Against US Dollar; Details Here
+*Mohammad Haris · business*
+
+The strength in rupee comes amid strong foreign currency non-resident deposit inflows and continued intervention by the Reserve Bank of India (RBI).
+
+[Read full article](https://www.news18.com/business/economy/rupee-opens-10-paise-higher-at-near-six-week-high-of-94-39-against-us-dollar-details-here-10313567.html)
+
+---
+
+### How a blacklisted Chinese tech giant kept buying America’s best AI chips
+*Karan Mahadik · technology*
+
+Most Americans have never heard of Inspur, but the company is among the world’s largest makers of computer servers. It has also dodged one sanction after another.
+
+[Read full article](https://indianexpress.com/article/technology/tech-news-technology/how-a-blacklisted-chinese-tech-giant-kept-buying-americas-best-ai-chips-10866468/)
+
+---
+
+### UK rules out JLR bailout as Tata-owned carmaker plans 4,000 job cuts amid rising costs
+*SECTIONS UK rules out JLR bailout as Tata-owned carmaker plans 4 · auto*
+
+The UK government has ruled out financial support for Jaguar Land Rover as the carmaker prepares to cut jobs amid rising costs, weaker sales, US tariffs and growing competition from Chinese automakers.
+
+JLR is expected to cut around 4,000 positions, equivalent to roughly 10% of its global workforce, over the next two years, according to a Times report. The UK’s largest carmaker is looking to reduce costs and restructure its operations as changing market conditions put pressure on its business.
+
+  
+
+Asked by the BBC whether the government could provide financial support to JLR, UK Business Secretary Jonathan Reynolds said on Sunday: “I don’t intervene and run businesses. They need to know what the right footprint for them going forward is.”
+
+JLR said it has started a voluntary redundancy programme as part of a broader plan to deliver about £1.7 billion ($2.3 billion) in savings over two years. The company is also targeting a lower break-even point of 300,000 vehicles and plans to simplify its business in response to global market conditions.
+
+The company did not disclose the number of jobs that could be affected by the redundancy programme.
+
+Reynolds said he had spoken with JLR’s chief executive and Unite general secretary and would meet them early this week, as per the report. He also made clear that the government would not step in to prevent the restructuring.
+
+“A company the size of JLR, which is a huge British success story, at various times in its business cycle the number of, directly, people it employs will change,” Reynolds said. “If this is about making sure over time that the workforce is right to make the business as competitive as possible, that’s the conversation we need to have. Of course you want to mitigate any job losses.”
+
+The restructuring comes as European carmakers face increased competition from Chinese manufacturers, including BYD and Chery, which have expanded their presence with lower-priced electric and hybrid vehicles.
+
+Several established European automakers are also cutting costs. Volkswagen last week secured supervisory board backing for a plan involving a further 50,000 job reductions.
+
+For JLR, the changes come alongside plans to expand its presence in the US, its largest market. The company's restructuring could alter the role of the UK within its wider manufacturing operations as it seeks to improve competitiveness across markets.
+
+JLR employees were reportedly warned to expect the redundancy announcement on Monday.
+
+The potential job cuts also come as the UK government seeks to revive domestic manufacturing. Prime Minister Andy Burnham entered Downing Street this summer promising to re-industrialise the country and expand employment opportunities.
+
+The UK was the world's second-largest auto manufacturing base in the 1950s but has since fallen outside the global top 10, behind countries including Canada and Slovakia. Brexit and the collapse of British EV battery startup Britishvolt have added to the challenges facing the country's automotive industry.
+
+JLR employs around 33,000 people in the UK and about 40,000 globally. The company is owned by India's Tata Motors Passenger Vehicles Ltd.
+
+The carmaker's revenue fell nearly 10% in its most recent quarter, while pretax profit declined 69% to £109 million.
+
+JLR has also dealt with significant operational disruptions in recent years. Flooding at a key supplier affected its operations, followed by a cyberattack that halted production at facilities around the world. The disruption subsequently affected its supply chain, prompting the UK government to guarantee a £1.5 billion emergency loan to help JLR pay suppliers.
+
+The company has also been working to strengthen its US operations. In May, JLR reached an agreement with Stellantis to jointly develop vehicles in the US, a deal that could eventually provide access to manufacturing facilities there.
+
+At the same time, JLR is pushing further into the premium electric vehicle market. Its first electric Range Rover went on sale earlier this month at £154,070, making it one of the most expensive electric SUVs in the market and nearly £50,000 more expensive than its combustion-engine equivalent.
+
+The pricing highlights the challenge facing premium European manufacturers as lower-priced electric and hybrid SUVs from Chinese automakers gain ground in the UK market.
+
+**_With inputs from agencies_**
+
+---
+
+### What is IIM Bangalore’s National Student Case Competition with Rs 5 lakh in prizes?
+*India Today Education Desk · general*
+
+## IIM Bangalore's National Student Case Competition 2026 invites undergraduate and postgraduate students to tackle real-world Digital Public Infrastructure challenges. Teams of five can participate, with submissions closing on September 7 and a total prize pool of Rs 5 lakh.
+
+IIM Bangalore’s National Student Case Competition 2026: Check important details here (Image courtesy: Getty Images)
+
+The Indian Institute of Management Bangalore (IIM Bangalore), through its Centre for Digital Public Goods (CDPG), has announced the National Student Case Competition 2026, with support from Perfios - Anumati Account Aggregator.
+
+The competition invites undergraduate and postgraduate students from colleges and universities across India to engage with real-world challenges 
+
+The registration process for the competition will close today, September 7, at 6 PM IST. The competition is open to undergraduate and postgraduate students from colleges and universities across India.
+
+It offers students an opportunity to engage with real-world challenges 
+
+### 5 LAKH PRIZE POOL
+
+The competition has a total prize pool of 5 lakh, allowing participating students to compete while engaging with real-world challenges 
+
+### WHO CAN PARTICIPATE
+
+The competition is open to bachelor’s and master’s students currently enrolled in any recognised college or university in India, irrespective of their discipline.
+
+Interdisciplinary participation is strongly encouraged, with teams bringing together diverse perspectives from engineering, management, public policy, law, economics, design, social sciences and 
+
+Each team must comprise five students who are currently enrolled in full-time or part-time programmes at their respective college or university.
+
+To encourage diversity of perspectives, teams are encouraged to be:
+
+-   Gender balanced
+-   Multi-year, where applicable
+-   Multi-programme, where applicable
+
+### IMPORTANT DATES
+
+-   Submissions Open: August 14, 2026
+-   Submissions Close: September 7, 2026, at 6 PM IST
+-   Announcement of Shortlisted Teams: By September 15, 2026
+-   National Finals: September 30, 2026, at IIM Bangalore
+
+With the registration deadline set for today, eligible undergraduate and postgraduate students can submit their entries for the National Student Case Competition 2026 by 6 PM IST.
+
+\- Ends
+
+Sep 7, 2026 09:47 IST
+
+---
+
+### TVK worker chased, stabbed to death in Chennai; Stalin Jr takes jab at Vijay
+*Pramod Madhav · general*
+
+A local functionary of the TVK, which leads the coalition government in Tamil Nadu, was chased down a road and hacked to death by multiple assailants in Chennai.
+
+The incident took place on Saturday night. Police have arrested at least five people in connection with the murder so far, officials said on Sunday.
+
+The victim, identified as Kannan, was reportedly a B-category history-sheeter and was involved in at least three criminal cases, including two pertaining to murder.
+
+The police have registered a case into the TVK worker's killing and seized CCTV footage from locations surrounding the crime scene as part of the investigation.
+
+Footage of the murder shows multiple machete-wielding men attacking him on a street.
+
+Kannan had also been involved in the real estate business after entering mainstream politics. He also ran a car rental business catering to IT firms.
+
+### PERSONAL ENMITY BEHIND MURDER?
+
+Three special teams have been formed to investigate the case.
+
+The five arrested persons were identified as Bharani, Rakesh, Naresh, Manikandan, and Hariharan. All five are aged 20, officials said.
+
+Preliminary investigation suggested previous enmity as the likely motive, pointing to a revenge killing, police sources, cited by news agency _PTI_, said.
+
+In 2009, Bharani's paternal uncle Siva was murdered by Kannan. Later, in 2016, Bharani's father was also murdered, police said.
+
+Bharani conspired with his friends to kill Kannan over the previous killings, police said, adding that further investigation was underway.
+
+### DMK TARGETS VIJAY GOVT
+
+The Leader of the Opposition in Tamil Nadu Assembly and former Deputy Chief Minister, Udhayanidhi Stalin, launched a scathing attack on the TVK-led government over the incident, criticising the state of law and order.
+
+The killing came ahead of Chief Minister and TVK founder C Joseph Vijay's Monday response to the Opposition's criticism of the law and order situation in the Assembly.
+
+"Before the Honourable Chief Minister delivers his response to the debate on the police department's grant demands tomorrow, one of his party's leaders has himself become a victim of murder in the capital... a history-sheeter criminal, who had joined the ruling TVK seeking protection for his life, has been chased and killed on the street while fleeing," Stalin said in a post on X (originally written in Tamil) on Sunday.
+
+The DMK leader asserted that the TVK had become a refuge for history-sheeters.
+
+Stalin asked, "Should we grieve thinking about how law and order has deteriorated to the extent that such a murder can happen right on the street in the capital? Or should we grieve thinking about how the TVK has become a garbage dump where all history-sheeter criminals seek refuge?"
+
+He further said that the TVK-led government should stop contemplating "how to blame the DMK for this" and instead take measures to ensure the safety of the public.
+
+\- Ends
+
+(With inputs from PTI)
+
+Sep 7, 2026 09:47 IST
+
+---
+
+### Up your fibre: Should you have soluble or insoluble?
+*Unknown · legal*
+
+Both types of fibre play important roles in gut and overall health. A dietitian explains the difference, the best food sources, how much fibre you need, and why increasing your intake too quickly can cause bloating and discomfort
+
+[Read full article](https://indianexpress.com/article/health-wellness/fibre-diet-soluble-or-insoluble-food-10866412/)
+
+
+---
+
 ## 6 September 2026
 
 ### Life in an IIT | How a call at a pani puri stall changed this Bihar student’s life forever
