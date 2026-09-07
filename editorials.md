@@ -1,10 +1,312 @@
 # Editorials
 
-_Last updated: 2026-09-06 06:24 UTC_
+_Last updated: 2026-09-07 06:31 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
 
+## 7 September 2026
+
+### Bogged down: On the U.S.-Iran conflict escalation
+*The Hindu · Editorial*
+
+Iran’s attacks on American warships outside the Strait of Hormuz and U.S. retaliatory strikes on three Iranian oil tankers in the Gulf waters mark another phase of escalation in the six-month-long war between the two countries. After the collapse of the June 17 Islamabad Memorandum of Understanding (MoU), which sought to resolve the conflict through talks, both sides have carried out tit-for-tat attacks. Last month, U.S. President Donald Trump appeared to shift the focus of his Iran policy from military strikes to economic warfare, announcing new sanctions and tightening the U.S. Navy’s blockade of Iran’s ports. The U.S. also managed to get some oil tankers through the Strait of Hormuz through a southern route along the Omani coast. But Iran, which still maintains its chokehold over the waterway, continued to target vessels taking the southern route. Unable to find a way out, the U.S. returned to strikes, triggering Iranian attacks on American bases in Kuwait, Bahrain and Jordan. The latest escalation is significant because it is the first time in months that Iran has attacked U.S. military vessels, apparently seeking to break the blockade. By targeting Iranian tankers in retaliation, the U.S. has also crossed a red line. The Islamic Revolutionary Guard Corps announced that it had struck six vessels in the Gulf — three tankers and three U.S.-linked ships — in retaliation for the American attacks on oil tankers, and vowed to expand their strikes against U.S. ships.
+
+The central focus of the war today, which the U.S. and Israel launched on February 28 in the name of destroying Iran’s nuclear programme and bringing about regime change in Tehran, is the Strait of Hormuz. That Tehran forced the U.S. to fight over a problem it created rather than pursue Washington’s original objective is, in itself, a strategic victory for Iran. The frequent clashes and counter-clashes underscore two points. First, the U.S. does not have a clear theory of victory. Neither its military effort nor its economic warfare has forced Iran to change its position. The Strait remains unsafe, while the toll on the global economy is mounting. What the Trump administration appears to be doing is ‘mowing the lawn’, taken straight out of the Israeli playbook, with the aim of blunting Iran’s attack capabilities. But each time, Iran retaliates, pursuing its own ‘debasification’ strategy, pushing U.S. military presence away from its immediate periphery. Second, Iran, despite its economic woes, has emerged more assertive. The more the U.S. seeks to trap Iran in an economic gridlock, the less risk-averse Tehran appears to be. As both sides seek escalation dominance, the war risks spiralling out of control. America is visibly under pressure. Mr. Trump has to accept the cold fact that he has lost this war and return to reviving the MoU before it is too late.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/bogged-down-on-the-us-iran-conflict-escalation/article71435336.ece)
+
+---
+
+### Steady gaze: On the launch of the ISRO’s EOS-05 satellite
+*The Hindu · Editorial*
+
+The successful launch of the Indian Space Research Organisation’s (ISRO) EOS-05 satellite is India’s first earth-imaging satellite bound for a geosynchronous orbit, meaning that it is locked-in to the earth’s rotation and can be tuned to continuously observe the same location. The rocket placed it in a transfer orbit early on Friday; onboard thrusters are expected to raise it to its final perch at some 36,000 kilometres above the earth’s surface over the coming weeks. From there it can track fast-changing events such as floods, cyclones and forest fires, and monitor crops, forests, water bodies and land use. Unlike a conventional camera, its sensors examine how the earth’s surface reflects different wavelengths of light, helping distinguish vegetation, water and other land cover. Because it is perched farther away than conventional low-orbit imaging satellites, its strength is not ultra-fine detail but the ability to return to the same broad areas very frequently. India has long had eyes in geostationary orbit, but they have been weather satellites, namely the INSAT-3D series. Its dedicated earth-imaging satellites have operated in low, polar or sun-synchronous orbits. Flying a few hundred kilometres up, they capture much finer detail, but move constantly around the planet, imaging a different strip of territory on successive passes and taking days to return.
+
+EOS-05’s timing could hardly be better. Given the devastation by the Bhote Koshi deluge in Nepal, which has claimed 1,344 lives, such satellites can play some role in understanding changes in landforms and how they may act as precursors to glacier-breaks and avalanches. Or, as winter approaches in north India, in establishing whether stubble fires over Punjab have genuinely declined or burning has simply shifted in time to slip past the polar satellites. ISRO has described the EOS-05 as a “strategic” satellite, a term that stretches from security to weather. All of this is premised on the data reaching a wide enough set of analysts who can turn the images into forecasts and actionable insight. There is cheer, too, that ISRO’s first successful launch of 2026 — and another vote of confidence in the cryogenic stage that failed the agency in 2021 — comes after setbacks. But that does not soften the temperamental nature of launches. Two consecutive failures of the PSLV, the agency’s workhorse since the 1990s, in May last year and again this January, both traced to the third stage, suggest that dependability is not infallibility. The usefulness of its payloads, and the cadence of its launches, should be ISRO’s calling card, rather than any single launch as the hallmark of institutional credibility.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/steady-gaze-on-the-launch-of-the-isros-eos-05-satellite/article71435323.ece)
+
+---
+
+### Judicial integrity — a case the Court cannot ignore
+*The Hindu · Opinion*
+
+Serious allegations against the Acting Chief Justice of the Rajasthan High Court, Justice Sanjeev Prakash Sharma, have come to light following reports of letters written by Supreme Court of India judge Justice Sandeep Mehta to the Chief Justice of India (CJI), in which he has sought Justice Sharma’s immediate transfer. Justice Mehta, who previously served as a judge of the Rajasthan High Court and is regarded for his uprightness, discipline, and integrity, wrote three such letters on August 2, 10, and 17. The contents of these letters are now partly in the public domain.
+
+COMMENT | End the culture of secrecy in judicial appointments
+
+Letters that raise serious questionsThe letters reportedly refer to complaints about the manner in which Justice Sharma has been functioning. They also highlight alleged instances of victimisation of judges, maladministration, improper “shifting of cases” to his Bench, and nepotism in appointments to the Permanent Lok Adalat. Justice Sharma has allegedly been intimidating some of his colleagues with the threat of retributive measures, including transfers, based on his claimed proximity to the CJI. It is reported that Justice Mehta’s letters refer to specific instances of alleged favouritism towards a chosen few among the lawyers and the misuse of power in his capacity as the “master of the roster”. Justice Mehta’s last letter reportedly expresses concern over the CJI’s alleged inaction, particularly as Justice Sharma is due to retire on September 26. So far, there has been no official denial of the reports concerning the contents of the letters. Justice Sharma, of course, has publicly denied the accusations as baseless.
+
+A High Court functioning without a regular Chief Justice and functioning under an Acting Chief Justice for a considerably long period — in the instant case, for about 11 months — is not a good institutional gesture. The fact that Justice Sharma was earlier transferred to the Patna High Court in 2022, and that his request for repatriation to the Rajasthan High Court was rejected by the Collegium in 2023, which instead proposed his transfer to the Punjab and Haryana High Court, is also not a commendable antecedent. Justice Mehta, according to reports, is said to have wondered how such a judge came to be retransferred to the Rajasthan High Court in 2025 and subsequently allowed to function as the Acting Chief Justice, with wide-ranging administrative and judicial powers.
+
+Of late, there have been two crucial developments. First, lawyers at the Rajasthan High Court staged a sit-in protest on the High Court premises, following which Justice Sharma had to opt out from hearing cases. Second, on August 31, the Supreme Court Collegium recommended the appointment of Justice Sanjay Agrawal as the new Chief Justice of the Rajasthan High Court. Accordingly Justice Agrawal is now appointed.
+
+Allegations of corruption against sitting judges in India are neither uncommon nor unprecedented. Yet, certain unique features of the present reports are worth noting. A sitting judge of the Supreme Court reportedly alerted the CJI to the conduct of an Acting Chief Justice of a High Court, supported by verifiable material.
+
+Yet, for several weeks, no cogent steps were reportedly initiated by the CJI in this regard. The CJI reportedly said that the allegations could not be treated as findings and that they “must be dealt with strictly through the established institutional mechanism”. In view of Justice Sharma’s impending retirement, early action by the CJI to Justice Mehta’s letter could perhaps have averted some of the disturbing events that subsequently followed.
+
+Transparency International, in its reports, has underlined the growing trust deficit in the Indian judiciary. According to its 2002 report, based on a household survey, the judiciary was identified as the second-most corrupt institution in certain South Asian countries, including India. The report is indeed shocking. Yet, the present situation in India is far more complex and multi-dimensional. There are many fine judges in India’s judiciary whose integrity and public image should not be tarnished because of aberrations elsewhere, whether on or off the Bench.
+
+COMMENT | Holding the Court accountable amid democratic strain
+
+Institutional responsibility, structural issuesThe repeated episodes of judicial corruption in India reflect certain fundamental issues concerning the functioning of its higher judiciary.
+
+First, the total lack of criteria, coupled with the unavoidable collaboration between the Collegium and the Executive at the Centre under the present system, makes judicial appointments highly partisan, opaque, and often arbitrary. This mechanism and its processes are incapable of identifying the cleanest and most meritorious candidates. The issue of corruption in the judiciary, like many other institutional concerns, is inseparable from the existing method of selecting candidates for judicial office. A system of inviting applications, as is prevalent in Canada, or an independent body for judicial selection, as in the United Kingdom, remains unthinkable in India.
+
+Second, the lack of an effective mechanism to deal with corruption in the higher judiciary in India has had the effect of perpetuating the menace. The Judges (Inquiry) Act, 1968, is inadequate to tackle the issue and has, for all practical purposes, become defunct. The Supreme Court, in K. Veeraswami vs Union of India (1991), held that, for registering a First Information Report against a judge of the higher judiciary, the permission of the CJI is a necessary precondition. As lawyer Prashant Bhushan rightly observed, “the police does not dare approach the Chief Justice for permission to investigate, unless they already have clinching evidence, which they cannot get, unless they investigate” (“Judicial Accountability or Illusion?”, Economic and Political Weekly, November 25, 2006). Although the United Progressive Alliance government facilitated the passage of the Judicial Standards and Accountability Bill in the Lok Sabha in 2012, the Bill lapsed with the dissolution of the 15th Lok Sabha in 2014. The subsequent legislative effort to revive the Bill, with some changes, also remained a non-starter. The impeachment of erring judges, as suggested by Articles 124(4) and 217(1)(b) of the Constitution, has proved to be a failure. Likewise, the in-house mechanism adopted by the Supreme Court in 1999 has not proved to be fault-free or even effective.
+
+COMMENT | A case for judicial introspection
+
+Earlier crises, different responsesBut these considerations could not have been reasons for the CJI not to act promptly upon the concerns allegedly expressed by Justice Mehta. On the contrary, the lack of a permanent systemic solution to the issues raised should have been an additional reason for the CJI to take remedial measures expeditiously and diligently, and to do whatever was possible within his authority. The situation called for judicial statesmanship. In 1990, when an inquiry was underway against Justice V. Ramaswami for alleged misconduct, he was advised by then CJI Sabyasachi Mukharji, to take leave and keep away from judicial work.
+
+Thereafter, when the impeachment motion against Justice Ramaswami failed in Parliament due to the Congress party’s strategic abstention, the judge attempted to resume judicial work, with about nine months of his tenure remaining.
+
+However, then CJI Venkatachaliah refused to allocate any cases to him for hearing, notes Justice K. Chandru in his book, Who Will Judge the Judges? (2026). Even last year, when partly burnt currency notes were reportedly found in the outhouse of Justice Yashwant Varma at his Delhi residence, then CJI Sanjiv Khanna, quickly transferred him to the Allahabad High Court, where he was not allocated any judicial work, practically. In the reported decision in XXX vs Union of India (2025), the Supreme Court emphasised the responsibility of the CJI in matters relating to judicial integrity and allegations of corrupt practices.
+
+Justice Sharma allegedly claimed that the CJI is proximate to him. This was a factor that led to undesirable and avoidable speculations. Given the nature of the allegations and their immediate verifiability, it was imperative that the CJI acted promptly and convincingly, so that further damage to the system and the institution could have been reduced, if not prevented altogether.
+
+Kaleeswaram Raj is a lawyer at the Supreme Court of India
+
+[Read full article](https://www.thehindu.com/opinion/lead/judicial-integrity-a-case-the-court-cannot-ignore/article71435971.ece)
+
+---
+
+### A Ganesh Chaturthi without PoP pollution
+*Deccan Herald · Editorial*
+
+With Ganesh Chaturthi around the corner, the emphasis on ecofriendly celebrations is timely. The Karnataka government’s push against Plaster of Paris (PoP) and chemically coloured idols deserves public support, not merely as a regulatory requirement but as an environmental responsibility. The high court has directed the state government and local authorities to strictly enforce the existing ban on the manufacture, sale, and immersion of PoP idols. PoP does not dissolve easily in water and contributes to siltation and oxygen depletion, while chemical paints may contain toxic heavy metals that contaminate water bodies and harm aquatic life. Enforcement must be combined with awareness and proactive facilitation to ensure that religious sentiment does not conflict with environmental protection. A festival associated with Ganesha, traditionally believed to have originated from clay, offers a fitting occasion to demonstrate that faith and ecological responsibility can coexist.
+
+Ganesh Chaturthi also occupies a deeper place in India’s history. In 1893, Bal Gangadhar Tilak transformed what had largely been a private household observance into a public festival, using it to bring people together at a time when the British restricted political assembly. It became a symbol of solidarity across caste and community. Unfortunately, the character of the festival has since changed. The traditional instruments and folk performances that once accompanied immersion processions are increasingly giving way to towering speakers, DJ systems, and remixed music, as local committees compete over sound and spectacle. Such systems, producing 100-120 decibels, can cause hearing damage and distress to vulnerable residents. The Supreme Court has ruled that loudspeakers are not an integral part of any religious practice, and has laid down strict guidelines for their use.
+
+Special teams begin checks, seize PoP idols across KarnatakaOf greater concern is the disorder that sometimes accompanies these processions. Route disputes, provocative music and slogans, local rivalries and rumours amplified on social media can turn celebration into confrontation. The violence in Nagamangala in September 2024 and the stone-pelting during an immersion procession in Maddur in 2025 are reminders that festivity can quickly curdle into a law-and-order crisis. The festival should unite, not divide. To that end, the organisers must firmly adhere to the routes, sound limits and timings set by the police, rather than treat every restriction as an infringement of religious freedom. There is nothing devotional about music that disturbs entire neighbourhoods or conduct that provokes another community. Ganesha is revered as Vighna Vinashaka, the remover of obstacles. The truest tribute to him would be to ensure that the festival does not itself become an obstacle to peace, public order, environmental health, and the everyday lives of others.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/a-ganesh-chaturthi-without-pop-pollution-4137316)
+
+---
+
+### Payout farce exposes NCLT’s flawed process
+*Deccan Herald · Editorial*
+
+The decision of a special bench of the National Company Law Tribunal (NCLT), headed by its president Justice (Retd) Anupinder Singh Grewal, to stay an order approving a Rs 6.25 crore payout plan against claims of over Rs 22,006.57 crore against Essel group founder Subhash Chandra has only exposed the tribunal’s poor functioning. Public outrage forced the special bench to put the plan in abeyance, and the bench itself was constituted only after the controversy erupted. But for this afterthought, a huge financial claim would have been settled with a repayment of just 0.03% — that’s a haircut of 99.97%. It was rightly described as a mundan. The creditors included some big names from the banking and finance sector. Some of them have appealed the NCLT’s decision. An FIR has also been filed against Subhash Chandra for fraud and breach of trust.
+
+Subhash Chandra has argued that he did not personally borrow money and was only a guarantor for the loans raised by three group companies. Isn’t a guarantor liable for the actions of those companies? The case must be seen against the backdrop of bans harassing thousands of ordinary borrowers and guarantors, many of whom have faced property confiscation or even been driven to suicide under repayment pressure. The NCLT arrived at Rs 6.5 crore by deducting Rs 25 crore — the reported worth of Subhash Chandra’s house — from his declared assets of Rs 31.79 crore. He had to have a roof over his head, no? Yet questions persist about his net worth, which has at different times been declared as Rs 45,888 crore, Rs 40,562 crore, Rs 39.8 crore, and Rs 31.79 crore.
+
+CBI FIR against Subhash Chandra for 'inflation' of net worth to secure nearly Rs 1,000 crore in loansThe repayment plan was approved by a voting support of 80.81%, but 61.78% of that share came from associates or parties related to Subhash Chandra. The NCLT has now said the procedure was wrong. India has seen predatory practices where billions have been siphoned off through haircuts, write-offs, and waivers favouring the wealthiest and most resourceful persons and corporates. Subhash Chandra’s case may still become one such case, because the last word is yet to be said. Vijay Mallya had reason to congratulate Subhash Chandra. He said Rs 14,100 crore was recovered from him against a judgment debt of Rs 6,203 crore. He must be wondering why someone who paid Rs 6.5 crore against a debt of Rs 22,000 crore thrives in India while he is in exile in England.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/payout-farce-exposes-nclts-flawed-process-4137315)
+
+---
+
+### 'India must look beyond unicorns to measure startup success': Akhilesh Tuteja
+*Deccan Herald · Opinion*
+
+Bengaluru: India's startup ecosystem is moving beyond consumer-facing products and conventional software, solving complex challenges across agriculture, energy, smart manufacturing, space and other sectors. At the same time, investor attention is shifting towards AI, semiconductors, infrastructure and industry-specific applications, with increased scrutiny of profitability and business sustainability.
+
+KPMG's Venture Pulse reports show that India's VC exit value in Q4 2025 reached its second-highest level on record. KPMG India Partner and National Leader, Clients and Markets, Akhilesh Tuteja, in an interview with DH’s Tejaswini S, discusses where India's startup ecosystem is heading. Edited excerpts:
+
+How has India’s startup ecosystem evolved over the years?
+
+There is a broad diffusion of innovation happening in the country. Innovation is happening in all directions. People's learning agility has dramatically improved, enabling startup founders to learn from experience rather than only in their family office-backed businesses. DeepTech, which is technology built on advancements in scientific discoveries, gets more attention because it is newer and more visible, but there is equally significant innovation happening at the grassroots level using conventional technologies.
+
+Where is investor attention moving?
+
+From a sectoral perspective, agriculture remains a major focus area in India, followed by energy technology and smart manufacturing, making factories autonomous and efficient. Space is also seeing significant interest, while FinTech continues to have relevance because of its role in social inclusion and affordability. On the technology side, AI remains a major area of interest, particularly vision AI. There is also growing interest in quantum technologies, involving the use of particles at the quantum level to develop powerful computers and innovations in semiconductors and sensor-based technologies. Across Asia, KPMG's latest Venture Pulse report recorded growth of $31.8 billion in Q1 2026, up from $26.2 billion in Q4 2025, driven by AI, semiconductors and infrastructure. The next phase of VC growth in AI is expected to be across AI-first businesses, AI applications, infrastructure and industry-specific solutions.
+
+AI is everywhere. But are we using it where it doesn’t belong?Why are investors moving into these areas?
+
+There are two important reasons. First, the potential market is significantly larger in areas such as AgriTech and energy technology. Even with considerable competition, investors are attracted because the market opportunity is substantial. The second is the opportunity to be the first to solve a problem. If a startup solves a problem before others can, it can create significant value. The latter is a relatively riskier bet, but the upside is very high, while the former is less risky.
+
+How have investor expectations changed?
+
+There are more people willing to experiment than earlier. At the same time, investors are becoming more selective about the businesses they back. There is greater scrutiny of profitability, burn rates and the sustainability of business models, as evidenced by trends in recent KPMG Venture Pulse reports, particularly in e-commerce and quick commerce. Corporate investors also have different expectations from traditional VCs, as they may consider strategic benefits alongside financial returns. A car manufacturer, for example, may invest in technologies related to fuel efficiency, connected vehicles or autonomous driving because access to such innovation can be more important than an immediate financial exit.
+
+With almost every startup calling itself an AI firm, what separates an AI startup from an AI-enabled business?
+
+There is AI everywhere. The question is whether AI is being used to solve the core problem or simply to enable a solution. Content generation, for example, has become a general-purpose application of AI and does not necessarily make a company an AI-first business. On the other hand, consider autonomous systems in space. Making a satellite operate in space is one thing, but developing a vehicle that can move around and collect space debris autonomously is a much harder problem. That is where AI becomes the core of the value-creation, rather than simply a supporting feature.
+
+What are India's biggest gaps in building a global innovation ecosystem?
+
+The bigger gaps are around R&D capital and the ability to protect intellectual property. Traditionally, R&D funding has relied heavily on government policies, incentives and university grants. Globally, private companies are investing heavily in fundamental R&D, and India does not yet have an equivalent ecosystem at the same scale. However, applied research, which aims to solve immediate challenges in the real world, is underway in areas such as agriculture, MedTech and healthcare, yet there is still a gap compared with countries such as China.
+
+How should India measure its startup success?
+
+The number of unicorns is not necessarily the best metric because it measures valuation rather than impact or relevance. For India, the number of entrepreneurs, people impacted and jobs created could be more meaningful indicators. Livelihood also matters: whether a job needs to be done by a human and whether it pays enough. Ultimately, we should look at measures such as per-capita income and the unemployment rate. Not every company needs to become a unicorn. Innovation can happen within a smaller ecosystem and still solve important problems for the country.
+
+[Read full article](https://www.deccanherald.com/business/india-must-look-beyond-unicorns-to-measure-startup-success-akhilesh-tuteja-4137287)
+
+---
+
+### Airlines in India have no incentive to do their job right
+*Deccan Herald · Opinion*
+
+Last month, an Air India A320 flying from Phuket to Delhi lost about 300 feet of altitude during cruise. About 20 passengers and four cabin crew members were injured. In the minutes that followed, with people still hurt in the aisles, cabin crew were on the public address system asking passengers not to record what had happened.
+
+Think about that for a moment. Not the request itself, which might have been panicked instinct, but the fact that in a cabin of injured and shaken people, the announcement that got made was about cameras. Whoever gave that instruction had decided that footage circulating online was the pressing concern. People were bleeding, and the priority was the optics.
+
+The Internet had already made up its mind: the airline was negligent, the fleet neglected, the service culture rotten. The pilot-in-command, it emerged, had tested positive for cannabis and told investigators he slept for 35 minutes during the flight, while the aircraft's fault display recorded nine warning messages inside a single minute. The co-pilot took control and landed the aircraft safely in Delhi. Almost nothing the public believed about that flight was correct, and yet the alarm was not misplaced. That gap, between reaching roughly the right level of concern and reaching it through entirely the wrong reasoning, describes the condition of the market rather than the failings of the audience.
+
+Air India's A320 plane suffered glitches, turbulence during Phuket-Delhi flight: ReportAviation passengers in India have remarkably little ability to punish an airline for treating them badly. We know this because in December 2025 IndiGo cancelled roughly 4,500 flights across 10 days, stranded some 10 lakh passengers, drew show-cause notices from the regulator, had fares capped by government order, and watched the DGCA suspend its crew rest rules to restore capacity. Within months, IndiGo's market position was substantially what it had been before. Nothing stuck.
+
+None of this was a failure of information. The regulator published its findings, the chief executive apologised, and the collapse ran on every front page for a fortnight. The airline had known since 2023 that revised duty and rest norms were coming, and sold a winter schedule it could not legally crew anyway. Everyone knew what had happened, and it did not matter, because IndiGo carries more than 60% of domestic traffic, Air India most of the rest, and on a great many routes the practical choice is one carrier or a train.
+
+This is what usually gets missed in discussions of information asymmetry in Indian aviation. The asymmetry is real, since no passenger can observe rostering practice or fatigue culture before booking, but captivity is the larger problem, opacity compounds it, and the commercial consequence follows.
+
+Brand equity is goodwill a firm draws on when things go wrong, expensive to build, and invisible in ordinary conditions, which is why firms build it only when they expect the investment to be called upon. An airline whose passengers cannot go elsewhere has little reason to expect that call, so it invests in what passengers can see, fare and schedule, and treats the rest as overhead. Safety is not purely a consumer signal, of course, since regulators, insurers and the cost of an accident impose their own discipline. The damage happens below the threshold where those disciplines bite: the crew buffers never built, the fatigue reports nobody acts on, the schedule sold before anyone checks it can be legally crewed.
+
+IndiGo's lean-staffing model was praised as operational efficiency for a decade, and rightly understood that way until the week it was not. Air India spent decades being tolerated rather than chosen: a brand in the cultural sense, but for most of its history a default in the commercial one, and defaults do not need goodwill.
+
+The Tata acquisition was a serious attempt to change that. Then came Ahmedabad in June 2025, where 241 of the 242 people aboard AI 171 died, along with 19 on the ground, in a crash still unresolved. Add the Phuket incident, and a brand 14 months into building a reserve of public trust is being asked to draw on one that does not yet exist.
+
+IndiGo flight hits pole while parking at Srinagar airportWhat might help, is unglamorous. The DGCA collects the operational data that separates a well-run carrier from a lucky one, and publishes almost none of it. Crew ratios, fatigue reports filed, flights sold in a season that could not be crewed: none of this is commercially sensitive. The obvious objection is that a regulator willing to suspend its own rest rules under pressure will not be shamed by its own statistics, which is fair. But publication changes who is watching, and the press and corporate travel desks are harder to wave through than a show-cause notice.
+
+Indian aviation is short of neither regulation nor demand. What it lacks is any mechanism by which an airline that does the job properly ends up commercially better off than one that does not. Until that changes, the incidents will keep coming, the public will keep reaching for the wrong explanations, and airlines will keep worrying about the recording rather than about what the recording shows.
+
+Hardik Sen is Programme Officer at XIM University, Bhubaneswar.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/airlines-in-india-have-no-incentive-to-do-their-job-right-4137566)
+
+---
+
+### We must fiercely reject VHP’s divisive mandates
+*Deccan Herald · Opinion*
+
+The festivities surrounding Durga Puja have always been an inclusive celebration in West Bengal. They mark an annual occasion that is Bengali, rather than Hindu, cultural rather than religious, drawing people of all faiths to it.
+
+But this year, after the Bharatiya Janata Party (BJP) ended Mamata Banerjee’s 15-year rule in West Bengal, a shadow has fallen over this all-embracing festival. The Vishwa Hindu Parishad (VHP) has announced a ban on Muslims participating in the organisation of Durga Puja and called for restrictions on non-vegetarian food during the festivities.
+
+This exclusionary impulse is alien to the spirit of the region. To attempt to compartmentalise Durga Puja into a rigid, vegetarian, single-faith enclave is to fundamentally misunderstand West Bengal’s identity. The land’s modern consciousness was forged by a tradition of radical pluralism, championed most famously by its two greatest literary titans: Rabindranath Tagore and Kazi Nazrul Islam.
+
+Tagore envisioned a world "where the mind is without fear, and the head is held high," a world not "broken up into fragments by narrow domestic walls." His philosophy centred on the ‘Religion of Man’, an understanding that spiritual truth is realised through human love and connection, transcending institutional dogma.
+
+Kazi Nazrul Islam, the rebel poet, embodied a fierce, lived syncretism. A Muslim, Nazrul composed some of the most moving Shyama Sangeet (devotional songs to the Goddess Kali) and Bhajans in Bengali, while simultaneously writing orthodox Islamic ghazals.
+
+In his poem Samyabadi (The Egalitarian), Nazrul proclaimed that the human heart is the ultimate temple and mosque, where all religions meet. It is this poetic lineage that has historically shielded West Bengal from losing its soul entirely to sectarian politics. The collective consciousness of the region understands that festivals belong to the community, not just a creed.
+
+VHP bars participation of Muslims in garba, dandiya events in Maharashtra; sets rules for organisersIndeed, Muslims play an active, indispensable role in organising and fundraising for Durga Puja across West Bengal. They serve as key members and presidents of neighbourhood puja committees. Even the divine form of the goddess owes its existence to this harmony; in clay-modelling hubs like Kumartuli, many Muslim artisans have spent generations meticulously sculpting the very idols that Hindus worship.
+
+In turn, this deep-seated reciprocity defines the region's entire calendar. In the working-class neighbourhoods of the city, Hindus actively participate in preparations for Muharram, helping their Muslim neighbours build tazias and organise peaceful processions. When December arrives, Hindus and Muslims line up outside historic churches to hear the midnight Christmas Eve Mass, seeking peace under the same roof. Eid is an occasion for visiting Muslim friends to share sewai; Christmas lights up Park Street for every community; and the solemn processions of Muharram draw respectful onlookers from all walks of life.
+
+This seamless intermingling is even more remarkable when one considers that West Bengal survived the painful, blood-soaked dissection of Partition. The people of West Bengal looked into the abyss of communal madness and consciously chose to rebuild a society based on a shared linguistic, cultural, and humanistic pride. They chose to remember Tagore and Nazrul rather than the architects of division.
+
+The VHP’s current demands — of identity checks at pandals or imposing food restrictions under the guise of purity — are a direct attack on this historical resilience. Dictating dietary choices during Durga Puja is particularly absurd in West Bengal, where offering fish to the goddess is an ancient, scripturally backed tradition in many households and community pujas. Imposing a pan-Indian, vegetarian uniformity onto a deeply distinct regional tradition is an act of cultural erasure.
+
+'Don't poison youth with impure mindset': VHP slams Rahul for 'Manusmriti' remarksMore dangerously, these bans are designed to divide society and poison people's minds. When you tell a community that they are no longer welcome in a festival they have helped organise, fund, and celebrate for generations, you inject a slow-acting venom into everyday relationships.
+
+If these communal divisions take root, we risk undoing decades of social cohesion. The strength of a society lies not in its ability to enforce conformity, but in its capacity to celebrate diversity. Durga Puja has thrived for centuries precisely because it opens its arms to all, acting as a mirror to West Bengal’s syncretic soul.
+
+However, with YouTubers and Instagrammers criticising the VHP for trying to impose restrictive dietary and artistic rules on Durga Puja, the Right-wing organisation has now sought to do some damage control. Denying reports on its attempts to impose vegetarianism during this period, it, however, maintains that it wants all rituals to be ‘satwik’, the puja themes to be ‘suitable’ and the puja grounds to be clean, each of which is coded. It has also not denied that it wants Muslims to be excluded from the festivities.
+
+To succumb to the politics of exclusion is to insult the legacy of Tagore, to silence the songs of Nazrul, and to disrespect the wisdom of everyday citizens who chose peace over Partition's scars. We must fiercely reject these divisive mandates, ensuring the pandals remain open to all, and the festival remains what it has always been: a triumph of light over darkness, unity over division, and humanity over hatred.
+
+Smita Gupta is a Delhi-based journalist. X: @g_smita. (Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/we-must-fiercely-reject-vhps-divisive-mandates-4137592)
+
+---
+
 ## 6 September 2026
+
+### DC Edit | A Wasted Opportunity To Connect With Gen Z
+*Deccan Chronicle · Editorial*
+
+Prime Minister Narendra Modi’s engagements of late have displayed a pattern in which he makes a conscious effort to charm Generation Z which has hit the streets against the policies and actions of the government he leads, and win them over. However, he appears to fall short in every attempt to complete the arduous task. His engagement with the students in a Delhi college was yet another missed opportunity.
+
+Mr Modi was on the campus 13 years after he last visited. Between his last visit and the latest, a lot of water has flowed down the Yamuna and many things happened in the lives of millions of Indians, including Mr Modi’s. The former Gujarat chief minister won three back-to-back elections to the Lok Sabha, the first on the strength of his promise that good days are ahead for all Indians, and became Prime Minister on all three occasions. He was leading the BJP which claimed to be a party with difference and enjoyed an absolute majority in the lower house on the first two occasions, giving him immense leeway for walking the talk.
+
+However, 13 years later, Mr Modi went back to the campus trumpeting about the GDP growth story which the government insists stupendous, but is taken with loads of salt by a section of economists. If that was the case, and the government is right, his detractors ask, then why doesn’t it create jobs? Their question reverberates with the Generation Z, for it touches their lives.
+
+Mr Modi made no efforts to defend the GDP growth story except offering the standard line that the Opposition always indulges in negativity. When he insists that India is creating employment opportunities despite wars and disruptions, demonstrating the country's strength, he must attach convincing data; a snipe at “those responsible for pushing the economy into the fragile five (cannot digest it)” alone hardly works.
+
+Even the BJP’s detractors would admit that the governments under Mr Modi caused mega-infrastructure projects to materialise, preparing the platform for the youth to take off. Mr Modi could have presented them with a package which will appear as the government’s share of the bargain and asked them to present theirs. He could have laid out what he would be able to do for them, and then asked them to work hard for making them materialise. Instead, he asked them to dream big and work hard, something all motivation speakers with zero investment and resources do. Thus, he wasted his energy, and opportunity, citing those who have been in the Opposition for the last 12 years.
+
+Mr Modi may be wanting to portray himself as the OG (shorthand for ‘original gangster’), but it appears that he will have to do a lot of homework to make the Gen Z convinced that he has the credentials to be one. This irreverent generation puts substance over style, and it is tough to enter their good books with the same planning, strategy and tools using which he won over their parents. Innovation is not something that the young generation alone requires.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-a-wasted-opportunity-to-connect-with-gen-z-1985360)
+
+---
+
+### DC Edit | Hope In Nepal-Tibet Rubble
+*Deccan Chronicle · Editorial*
+
+Humanity can be said to alive and kicking considering how hard rescuers are trying to get to the last possible man or woman standing in the tunnels or lying buried in the mud after the Bhote Koshi river carried floodwaters downstream on Aug. 26, washing away dreams of young people while taking lives indiscriminately and sweeping away homes, roads and bridges.
+
+Keeping aside thoughts of their comforts and their lives for the moment, rescuers have been doing a herculean job trying to give anyone still alive after 12 days of the biggest ever tragedy to have struck Nepal-Tibet, the toll of which is still being counted, with the toll past 1,300 in terms of body counts but 5,500 people still missing. The toll on the Tibet side in China, appears lesser, at 21, but there are at least 500 missing.
+
+The tales of young survivors who were away at school while the rest of their families were swept away would bring tears to the eyes. The plight of around 4,500 people who have been rendered homeless after the ice-rock avalanche crashed to the Himalayan valley with a bang and exhibited the raw power of nature in a 40-foot tsunami of mud, rock and debris, which swamped the Chinese immigration centre in the Gyriong Port, renders this a heartbreaking episode of contemporary history.
+
+Amid the story of death and destruction, what stands out is that more than 13,000 people have been rescued and no one has given up yet on finding more survivors, however bleak the scenario looks. According to experts and Nepal officials, there is reason to believe that at least 100 people may still be alive in 12 hydropower tunnels.
+
+What kind of cataclysm is this that carries away people on a pilgrimage, or a trekking holiday, or simply at home in the relative cool of the Himalayas and just hoping to see how their life goes to the end of another quotidian day.
+
+Many of the kin of those dead or missing may not find closure for weeks, or months, or even years as the haunting story of a possibly human existence-induced calamity lingers.
+
+The cost of reconstruction on the Nepal side, estimated at around $2.5 billion plus 50 million in rescue efforts pales in comparison to the human suffering. Will the tragedy help humans understand how their interventions are leading to climate change and consequent global warming is the question. And we don’t know yet what suffering the ‘Super El Nino’ will bring in its wake soon.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-hope-in-nepal-tibet-rubble-1985381)
+
+---
+
+### The Himalayas Can By No Means Become China’s Hydraulic Frontier
+*Deccan Chronicle · Opinion*
+
+The catastrophic flood along the Nepal-Tibet frontier on August 26, 2026, should become a turning point in Asian water diplomacy. The disaster struck the Bhote Koshi-Trishuli system and assessments point towards a glacier collapse and enormous ice-rock avalanche. By August 27, reportedly at least 359 people died across Nepal and China, with nearly 1,000 people missing. The flood and debris travelled far downstream, destroying settlements, border infrastructure and hydropower facilities. Its message is stark: The Himalayas are becoming increasingly unstable precisely when enormous engineering projects are being inserted into some of their most fragile terrain.
+
+India has already received an equally sobering warning. In October 2023, a Glacial Lake Outburst Flood (GLOF) from South Lhonak Lake in Sikkim surged into the Teesta. ISRO satellite imagery showed that approximately 105 hectares of the lake drained away. The Government subsequently reported that the Teesta rose by 50-60 feet and breached the 1,200-MW Teesta-III project at Chungthang, swept away bridges, roads, Indian Army garrisons and caused devastation far downstream. Later assessments placed the death toll at 179.
+
+These are not isolated accidents. The Hindu Kush Himalaya is undergoing profound climatic change. The Kathmandu based, eight-nation International Centre for Integrated Mountain Development (ICIMOD) found that glaciers disappeared 65 per cent faster during 2011–2020 than during the preceding decade; its 2026 assessment states that regional ice-loss rates have doubled since 2000. Floods, landslides, glacial-lake outbursts and destabilised mountain slopes must therefore increasingly be regarded as structural risks rather than exceptional events.
+
+It is against this background that China has embarked upon perhaps the most audacious hydropower project ever attempted — the mega-project on the lower Yarlung Tsangpo in Tibet, the river that enters India as the Siang and eventually becomes the Brahmaputra before flowing into Bangladesh. Construction formally began in July 2025. Beijing says the project will comprise five cascade hydropower stations, costing US$168 billion and will generate 60 GW, nearly three times that of the Three Gorges project.
+
+China undoubtedly has the right to generate renewable energy. But no upstream country should possess an unfettered right to transform a great transboundary river without meaningful downstream consultation. The strongest case against the project need not rely on exaggerated claims that China will simply “turn off” the Brahmaputra. The real dangers are serious enough: reservoirs can alter seasonal flows and sediment movement; filling and emergency releases can affect downstream conditions; and colossal infrastructure constructed amid earthquakes, landslides, glacial instability and extreme rainfall creates potentially catastrophic consequences.
+
+Nor should China imagine that the danger begins only when the river enters India. The Great Bend of the Yarlung Tsangpo lies within an exceptionally young, unstable and seismically active mountain system. A massive landslide into a reservoir, earthquake, tunnel collapse or extreme glacial event could devastate Tibetan communities, project workers and Chinese infrastructure as well.
+
+Indeed, there is an uncomfortable question here for Beijing itself: Who speaks for ordinary people living downstream of such projects inside Tibet? In 2024, UN human rights experts formally raised concerns over an alleged crackdown on Tibetans opposing the Kamtok/Gangtuo hydropower project on the Drichu/Jinsha River, citing issues including displacement, cultural destruction, environmental damage and restrictions on peaceful opposition. When mega-projects become strategic state priorities in an authoritarian system, affected communities possess far fewer avenues to question the risks imposed upon them.
+
+The problem extends into Southeast Asia. China today operates 12 large mainstream dams on the upper Mekong/Lancang, together capable of storing more than 50 billion cubic metres of water. The Mekong Dam Monitor has documented changes in natural river behaviour and even reservoir filling without advance notification to downstream stakeholders.
+
+Yet many of China’s smaller neighbours feel they have little option but caution — or silence. Laos has deep economic and infrastructure exposure to China; Cambodia remains heavily dependent upon Chinese investment and credit; Myanmar requires Chinese trade, investment and diplomatic space; Bangladesh has extensive commercial and defence relations with Beijing; while Nepal must continually balance geography and economic necessity. Bhutan's circumstances differ, but even it must negotiate a sensitive territorial dispute with a vastly larger China. Cambodia, for example, counts China as its largest creditor, while China remains Bangladesh’s principal source of military hardware.
+
+Individually, these countries are vulnerable. Collectively,...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/the-himalayas-can-by-no-means-become-chinas-hydraulic-frontier-1985367)
+
+---
+
+### The Nine-hour Walk: Dissent Criminalised
+*Deccan Chronicle · Opinion*
+
+A morning walk in Delhi’s Nehru Park turned into a nine-hour ordeal for former civil servant Ashish Joshi who was picked up by Delhi Police’s Special Cell, with his family kept in the dark for most of the time. The episode is not an aberration. It fits the larger pattern of how the Narendra Modi government confronts dissent.
+
+An FIR had earlier been filed against Mr Joshi on August 26 for a social media post calling for a “Nuremberg-style trial” of chief election commissioner Gyanesh Kumar. This could be considered inflammatory rhetoric, but should have been protected under the right to political speech about a public official whose conduct is being questioned by many citizens. Mr Joshi’s post was neither a security threat nor an incitement to violence, yet this post became the basis of his detention.
+
+Picking up and holding a retired civil servant with no flight risk and no history of violence for nearly nine hours without formal arrest and without informing his family is coercion. Such treatment is disproportionate to a mere speech offence.
+
+Surprisingly however, the nine-hour interrogation according to Mr Joshi, was about a different post altogether; one concerning an alleged showdown between Union Home minister Amit Shah and Home secretary Govind Mohan over the police’s handling of the student protest at Jantar Mantar. The post was subsequently geo-blocked in India at the government's request.
+
+The mismatch between the stated legal basis for his detention and the actual line of interrogation suggests the government’s real aim was to question him about a more politically sensitive disclosure while detaining him on another pretext.
+
+One can only speculate on the intent, but the message is chilling: critics will themselves be treated as the problem, rather than the substance of what they say. Leaks about internal friction over the use of police force are evidently treated as more threatening to the state than the unjustified use of force itself.
+
+The incident fits the broad pattern of the Modi government’s intolerance of dissent and dissenters. State machinery is used swiftly and disproportionately in response to an inconvenient public statement or social media post and with an intensity that is aimed at making an example of the dissenters. This is what happened with Ali Khan Mahmudabad, a professor at Ashoka University, who was arrested in May 2025 on a complaint by a Bharatiya Janata Party (BJP) youth leader over a social media post questioning the optics of Operation Sindoor briefings. He was accused of inciting rebellion, insulting religious beliefs and sedition. Had the Supreme Court not intervened urgently, Mr Mahmudabad may have been behind bars.
+
+Even in the recent Gen Z protests, mass FIRs were filed swiftly and indiscriminately at the point of protest, to be withdrawn later because of the public embarrassment generated by further protests, public pressure and the courts. Notice that the correction came from outside the executive. After leaving the FIRs on record, exposing students to legal jeopardy, and sending its own chilling message, the state had to actually enlist the intervention of the Supreme Court to withdraw the FIRs under pressure, with the Solicitor General noting the possibility that a magistrate might reject closure reports filed by the police. The Centre needed the Supreme Court’s help to retrace its steps precisely because its instinct is to file FIRs first and sort things out later.
+
+The operational pattern is consistent: Delegitimise critics first, follow with police action and political mobilisation via statements and social media trolling, and negotiate or retreat only if a movement becomes too large to suppress.
+
+Compare this with the Delhi Police's slowness in taking action against Swatantra Bharadwaj, a Hindutva influencer who bragged on camera about “cracking open the skull” of Sanjay Kumar, father of a dalit protester. He boasted of using a police-issue baton — visuals show him displaying it during the protest — and claimed that his political connections would keep him out of jail.
+
+It took two months of sustained public pressure and a day-long protest by Opposition groups before an FIR was even registered by the Delhi Police. Further pressure was required before a public police assurance of arresting him “within 72 hours” and his final arrest.
+
+Who gets an FIR filed against them under this regime is shaped both by top-down party strategy and by decentralised Hindutva supporters and local police incentives. However, the pattern consistently favours the ruling party's political interests. The inversion of urgency, with swift, disproportionate state action against perceived critics of the government, and reluctance to act against political supporters of the regime is nothing new for the BJP government.
+
+Every criticism — individual or organised — is first framed as a national security issue, a conspiracy, or anti-national, and treated as a law-and-order problem rather than...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/the-nine-hour-walk-dissent-criminalised-1985354)
+
+---
 
 ### 'Amid inflation, BPL income limit of Rs 1.2 lakh needs a hike': MLA Rizwan Arshad
 *Deccan Herald · Opinion*
