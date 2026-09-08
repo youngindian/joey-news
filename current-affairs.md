@@ -1,3 +1,332 @@
+## 8 September 2026
+
+### The 'Mutton Kosha' Dilemma: Suvendu Adhikari's Saffron Tightrope In The Land Of The Fish-Eating Goddess
+*Apoorva Misra · general*
+
+The recent dietary sermon by Bageshwar Dham’s Dhirendra Krishna Shastri, calling for a boycott of non-vegetarian food near Durga Puja pandals, has ignited a deep cultural firestorm
+
+[Read full article](https://www.news18.com/india/the-mutton-kosha-dilemma-suvendu-adhikaris-saffron-tightrope-in-the-land-of-the-fish-eating-goddess-ws-l-10315702.html)
+
+---
+
+### VanDyke, Ukrainians Arrested Over Myanmar Terror Link To Face Chargesheet Under Foreigners Act
+*Pragati Ratti · general*
+
+VanDyke and six Ukrainians were arrested by NIA in March 2026 over allegations of a wider transnational network involving drone operations, training of armed groups in Myanmar
+
+[Read full article](https://www.news18.com/india/vandyke-ukrainians-arrested-over-myanmar-terror-link-to-face-chargesheet-under-foreigners-act-10315696.html)
+
+---
+
+### Rs 25,000 Rent, Zero Safety: Inside Satya Niketan's 'Caged' PG Rooms | Ground Report
+*Sumedha Kirti · general*
+
+A day after a PG collapse killed 7 in Satya Niketan, students describe windowless cage-like rooms, ₹66,000 deposits and 10 people sharing one toilet.
+
+[Read full article](https://www.news18.com/cities/new-delhi-news/rs-25000-rent-zero-safety-inside-satya-niketans-caged-pg-rooms-ground-report-10315619.html)
+
+---
+
+### ‘Orwellian Dystopia’: Allahabad HC Slams ‘Despotic’ Bureaucracy, Quashes NSA Detention Of DU Student
+*Abhro Banerjee · general*
+
+Allahabad High Court quashed NSA detention of Akriti Chaudhary, ordered Rs 5 lakh compensation, and criticized UP bureaucracy, warning against an "Orwellian Dystopia.
+
+[Read full article](https://www.news18.com/india/orwellian-dystopia-allahabad-hc-slams-despotic-bureaucracy-quashes-nsa-detention-of-du-student-ws-l-10315691.html)
+
+---
+
+### Punjab Man Consumes Poison After Raising Drug Sales Issue Before Minister Harpal Cheema
+*Mallika Soni · general*
+
+The man had approached Harpal Singh Cheema during a development-related programme in the village and complained about the alleged open sale of drugs.
+
+[Read full article](https://www.news18.com/india/punjab-man-consumes-poison-after-raising-drug-sales-issue-before-minister-harpal-cheema-ws-l-10315683.html)
+
+---
+
+### Fly-Hi Maritime, Farm Peace SME shares to list today: Here's what GMP suggests ahead of listing
+*Ritesh Presswala · finance, ipo*
+
+Synopsis
+
+Fly-Hi Maritime and Farm Peace are set to make their BSE SME debuts today, September 8, after their IPOs attracted modest demand. Fly-Hi Maritime was subscribed 2.12 times, with its GMP at around Rs 1, indicating a largely flat listing near Rs 103 against the issue price of Rs 102. Farm Peace was subscribed 1.16 times, while its Rs 59 issue price and latest subscription trends will be in focus as investors await its market debut.
+
+ETMarkets.com
+
+Shares of SME companies Fly-Hi Maritime and Farm Peace are set to debut on the BSE SME platform today, September 8. The Fly-Hi Maritime IPO was subscribed 2.12 times, while the Farm Peace IPO was subscribed 1.16 times.
+
+The Fly-Hi Maritime IPO is currently commanding a grey market premium (GMP) of around Rs 1, or 1% of its issue price of Rs 102, suggesting a largely flat listing if the grey-market trend holds.
+
+  
+
+## Fly-Hi Maritime IPO
+
+The Fly-Hi Maritime IPO was a Rs 52.63 crore fixed-price issue comprising a fresh issue and an offer for sale. The fresh issue consisted of 41.60 lakh shares worth Rs 42.44 crore, while the offer for sale comprised 10 lakh shares aggregating to Rs 10.20 crore.
+
+Fly-Hi Maritime IPO was subscribed 2.12 times overall. The issue saw 3.66 times subscription in the retail investor category, while the NII category recorded 58% subscription.
+
+The IPO opened for subscription on September 1, 2026, and closed on September 3. The company's shares are scheduled to list on the BSE SME platform on September 8. Fly-Hi Maritime had fixed the IPO price at Rs 102 per share, with a lot size of 1,200 shares.
+
+Corporate Makers Capital Ltd. acted as the book-running lead manager for the issue, while Kfin Technologies Ltd. served as the registrar.
+
+The company plans to use the net proceeds from the fresh issue primarily to strengthen its working capital position. Of the proceeds, Rs 24.24 crore has been earmarked for working capital requirements, while Rs 4 crore will be used for the repayment or partial pre-payment of borrowings.
+
+Another Rs 1.80 crore has been allocated towards business marketing and development activities, while Rs 6.37 crore is proposed to be used for general corporate purposes. The company expects issue expenses to amount to approximately Rs 6.03 crore.
+
+In the grey market, the Fly-Hi Maritime IPO GMP stands at Rs 1, representing a premium of around 1% over the issue price of Rs 102. Based on the latest GMP, the estimated listing price is around Rs 103 per share. However, GMP is an unofficial indicator and does not guarantee the actual listing price. The stock's debut could vary depending on prevailing market conditions, demand and investor sentiment.
+
+## Farm Peace IPO: Fresh issue of Rs 32 crore
+
+The Farm Peace IPO was entirely a fresh issue, through which the company aimed to raise Rs 32 crore by issuing 54.24 lakh shares.
+
+Farm Peace IPO was subscribed 1.16 times overall. The public issue received 59% subscription from individual investors, while the NII category was subscribed 1.73 times.
+
+The bidding period for the IPO ran from September 1 to September 3, 2026, and the company's shares are scheduled to list on the BSE SME platform today.
+
+Farm Peace had fixed the IPO price at Rs 59 per share, with a lot size of 2,000 shares. Retail investors were required to apply for a minimum of two lots, equivalent to 4,000 shares, involving an investment of Rs 2.36 lakh.
+
+Socradamus Capital Pvt. Ltd. acted as the book-running lead manager for the issue, while Bigshare Services Pvt. Ltd. was the registrar.
+
+Farm Peace plans to deploy the net proceeds from the IPO towards its business requirements. The company has earmarked Rs 23 crore for funding incremental working capital requirements. A further Rs 4.80 crore is proposed for general corporate purposes, while approximately Rs 4.20 crore will be allocated towards issue expenses.
+
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)
+
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+...moreless
+
+_(You can now subscribe to our ETMarkets WhatsApp channel)  
+_
+
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+...moreless
+
+---
+
+### ABVP protests over Satya Niketan building collapse, demands MCD Commissioner’s Resignation
+*ET Online · business*
+
+ABVP staged a protest over the Satya Niketan building collapse in Delhi, demanding the resignation of the MCD Commissioner and accountability for alleged safety lapses. The student organisation called for strict action against those responsible and stronger safety checks for student accommodations f...
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/abvp-protests-over-satya-niketan-building-collapse-demands-mcd-commissioners-resignation/videoshow/133906891.cms)
+
+---
+
+### Rahul Gandhi For PM In 2029? CPI(M)’s MA Baby Says Congress Pitch Is ‘Premature, Unwarranted’
+*Shuddhanta Patra · general*
+
+MA Baby said the immediate priority for all INDIA bloc partners should be strengthening the alliance and maintaining its unity to defeat the Modi government in the next election.
+
+[Read full article](https://www.news18.com/india/rahul-gandhi-for-pm-in-2029-cpims-ma-baby-says-congress-pitch-is-premature-unwarranted-10315690.html)
+
+---
+
+### Canada's retaliatory tariffs take effect as US trade talks stall
+*Reuters · business*
+
+OTTAWA: Canada's retaliatory tariffs on U.S. goods took effect just after midnight on Tuesday as Prime Minister Mark Carney increased economic pressure on his country's biggest trading partner after negotiations collapsed last month, intensifying an 18-month-old trade war.
+
+The counter-tariffs cover $20 billion of U.S. goods, with duties ranging from 15% to 50% across products from steel and furniture to clothing and electronics.
+
+  
+
+The dollar-for-dollar retaliation marks an escalation in the dispute between the neighboring countries, and U.S. and Canadian ‌officials have traded blame ⁠for scuttling ⁠a deal that seemed close to fruition two weeks ago. The rising tensions create uncertainty about the broader U.S.-Mexico-Canada free trade ​agreement, which is up for annual reviews after U.S. President Donald Trump declined to extend it for another decade.
+
+"What ​we are worried about is an escalatory spiral," said Michael Harvey, executive director of the Canadian Agri-Food Trade Alliance and a member of Carney's advisory committee on bilateral U.S. economic relations.
+
+"But at the same time, we totally ​understand that the prime minister needs to find areas of leverage," ⁠Harvey said.
+
+**U.S. ‌TARIFFS HIT CANADIAN WINE, FURNITURE, DAIRY**
+
+Trump's tariffs implemented last month hit sectors including ​wine, furniture, dairy ​products, cement, clothing, fishing rods and hockey equipment, covering $20 billion, or 5%, of ⁠Canadian exports to the U.S.
+
+According to Canadian and U.S. government data, Canada ​has shipped almost 68% of total exports to the U.S. this year, out ​of which roughly 80% moved duty-free due to exemptions under the USMCA pact. Protections under the agreement have provided the domestic economy some resilience.
+
+The new tariffs, imposed under a Depression-era U.S. law, do not allow Ottawa to exercise USMCA exemptions.
+
+Concerns about the USMCA's future have fuelled uncertainty about investment and growth, as Canada wages a trade war against an economy 13 times its size.
+
+Polls show Carney has broad support ‌from Canadians, but it could disappear within months as the consequences of the trade war sink in, according to political analysts.
+
+Just 20% of Americans approved of Trump's tariffs ​on Canadian goods, ​a Reuters/Ipsos poll found.
+
+Carney said ⁠last week his government was ready to sign a trade deal that benefits both countries.
+
+Trump threatened last month to raise U.S. tariffs on all cars, trucks and automotive parts from Canada to 50% starting January 1, ​and signed an executive order renaming Lake Ontario as Lake America.
+
+A government source said there are currently no talks between the two sides among ministers or government officials.
+
+"The Canadian government needs to keep channels open to the United States and not go overboard in terms of rhetoric and reacting to the rhetoric from the American side, while waiting for the American decision-making process to come back to economics," Harvey said.
+
+---
+
+### ‘Who to question if not those in power?’: Saurav Das hits back at Modi’s ‘Naraz Fufa’ remark
+*ET Online · business*
+
+CJP spokesperson Saurav Das hit back at Prime Minister Narendra Modi’s “Naraz Fufa” remark, questioning who citizens should hold accountable if not those in power. Das defended the right of young people to question the government and demand answers, amid a growing political row over criticism, accou...
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/who-to-question-if-not-those-in-power-saurav-das-hits-back-at-modis-naraz-fufa-remark/videoshow/133906850.cms)
+
+---
+
+### Bengalis can eat meat: Bengal BJP chief pushes back on Dhirendra Shastri's veg call
+*India Today News Desk · general*
+
+West Bengal BJP chief Samik Bhattacharya on Monday pushed back against Bageshwar Dham chief Dhirendra Krishna Shastri's appeal to Bengalis to avoid non-vegetarian food during Durga Puja, saying no religious figure or political party could dictate what people in the state should eat or wear.
+
+Making his stand clear, Bhattacharya assured Bengalis that food choices were a matter of personal freedom and that West Bengal's traditional food habits could not be changed at the behest of a visiting religious figure. "We eat what we eat," he said.
+
+"What one eats or wears is a personal choice. Bengal's food culture is diverse, and everyone has the freedom to follow their own preferences. Won't Bengalis have fish or mutton? Even Swami Vivekananda approved of it. No saint, leader, or anyone else has the right to decide what you should eat. Personal choice must remain personal," Bhattacharya said.
+
+During his recent visit to Howrah, Shastri, popularly known as Bageshwar Baba, had appealed to people to avoid non-vegetarian food during Durga Puja and described those who consume it during the festive season as _pakhandis_ (hypocrites).
+
+Responding to the remarks, Bhattacharya said Shastri had the right to advocate vegetarianism, but his views could not be imposed on Bengali society.
+
+"We cannot say much about a saintly figure. His _kathas_ are famous across the country and hundreds of thousands of people went to Howrah to listen to him. Anyone can advocate for vegetarianism and that doesn't make it a crime or a sin. However, if someone uses a word like hypocrite, we do not endorse that," he said.
+
+Bhattacharya said traditional Bengali food practices included non-vegetarian offerings and meals during religious festivals. "I am a political worker. What a sadhu says here or a maulvi says there – what does that have to do with us?" he said, adding that Durga Puja was approaching and Bengalis traditionally eat _luchi_ (poori) on Ashtami and _kochi patha_ (goat meat) on Navami.
+
+"Here, goat meat is offered as an offering to Maa Kali," Bhattacharya said, arguing that West Bengal's religious traditions themselves do not conform to a blanket vegetarian prescription.
+
+The remarks came days after Shastri's visit to West Bengal, where he held religious programmes across the state. His visit had also acquired political overtones, with the Bageshwar Dham chief able to hold programmes under the BJP government despite allegations that he had faced difficulties in obtaining permission during the previous Trinamool Congress regime.
+
+Before Shastri's avoid 'non-veg during Durga Puja' call, the Vishva Hindu Parishad (VHP) urged Durga Puja organisers in West Bengal to preserve traditional practices and keep non-vegetarian food away from pandals. But, the outfit clarified that it was not seeking a ban on non-vegetarian food.
+
+Bhattacharya's intervention makes clear that the BJP government in West Bengal does not endorse any blanket prescription on vegetarianism during Durga Puja.
+
+State minister Dilip Ghosh echoed Bhattacharya's remarks, saying that offering meat to Goddess Kali has been a long-standing tradition for decades.
+
+"The situation in Bengal is different. People here are devotees of Goddess Kali, and animal sacrifices are offered to Her, as well as to many other deities. Sacrifices are even offered to Goddess Durga on Navami, and the meat is consumed as _prasad_. Fish is even offered to the deity as _prasad_. This is a long-standing tradition that has persisted for ages," he said.
+
+### SANJEEV SANYAL REACTS TO SHASTRI'S VEG CALL
+
+Noted economist Sanjeev Sanyal also weighed in on the controversy without naming Shastri. In a post on X, Sanyal said meat was "core to Shakta Hinduism" and was offered to Maa Durga and Maa Kali as part of ancient rituals.
+
+"The _prasad_ eaten by the devotees on Navami/Dasami at Durga Puja is meat. Any interference in this sacred ritual will not be tolerated," he said.
+
+The controversy has opened a wider debate in West Bengal over the intersection of religious observance, personal food choices and the state's distinctive cultural traditions, where fish and meat have long formed an integral part of the Bengali diet.
+
+\- Ends
+
+Prateek Chakraborty
+
+Sep 8, 2026 09:45 IST
+
+---
+
+### Samsung India Lays Off Nearly 100 Executives As TV, Home Appliance Businesses Hit Amid Rise In Costs
+*Mohammad Haris · business*
+
+The layoffs are being carried out in batches and involve employees at various levels, including director-level officials, team leads at the headquarters, and branch managers.
+
+[Read full article](https://www.news18.com/business/markets/samsung-india-lays-off-nearly-100-executives-as-tv-home-appliance-businesses-hit-amid-rise-in-costs-ws-l-10315615.html)
+
+---
+
+### Rs 6 lakh murder deal: Daughter-in-law held after Kanpur pharma trader stabbed 26 times
+*Manisha Chauhan · general*
+
+## Rs 6 lakh murder deal: Daughter-in-law held after Kanpur pharma trader stabbed 26 times
+
+A 63-year-old Kanpur pharmaceutical trader was allegedly stabbed 26 times after police claimed his daughter-in-law paid Rs 6 lakh to have him killed.
+
+A 63-year-old pharmaceutical trader was allegedly killed inside his Kanpur home after his daughter-in-law reportedly paid Rs 6 lakh to get him murdered, police said.
+
+The victim, identified as Viniet Minocha, was allegedly attacked 26 times. Police arrested his 36-year-old daughter-in-law, Shalu, after the suspected attacker, Vishal, allegedly confessed that he had carried out the killing at her request.
+
+## **Daughter-in-law allegedly unhappy with restrictions**
+
+According to investigators, Shalu was unhappy with the restrictions allegedly imposed by her father-in-law at home. Police said she complained about being monitored through CCTV cameras and having limited control over household spending.
+
+>  कानपुर में सनसनीखेज वारदात: बहू ने दी ससुर की सुपारी?!  
+> ​63 वर्षीय दवा कारोबारी विनीत विनोचा की बेरहमी से हत्या! नौकर विशाल और उसके साथी राज किशोर ने दिया वारदात को अंजाम।  
+> ​एनकाउंटर के बाद दबोचे गए: पुलिस मुठभेड़ में दोनों आरोपियों के पैर में लगी गोली।  
+> चौंकाने वाला… pic.twitter.com/XTlBxmYxyu
+> 
+> — (@GaurBulandshahr) September 7, 2026
+
+Despite the family's financial position, she allegedly told investigators that she had to ask Minocha even for money needed for small personal expenses.
+
+## **Suspects allegedly hid inside flat**
+
+The murder took place on Saturday night at the Ratan Orbit apartment complex in Kanpur's Kalyanpur area. Police said Shalu and her husband, Subrat, had gone to a party with their child, leaving Minocha alone at home.
+
+Investigators suspect that Vishal and another man, Raj Kishore, entered the apartment before the murder after Shalu allegedly told security guards to allow them inside on the pretext of delivering medicines.
+
+The two men allegedly had a duplicate key provided by Shalu and hid inside the flat. When Minocha later entered his son's bedroom while checking the rooms, he reportedly came across the two men.
+
+Police allege that Vishal then attacked him and slit his throat during the assault.
+
+## **Phone calls between Shalu and accused raise suspicion**
+
+Investigators reportedly found frequent communication between Shalu and Vishal before the murder. Police said the two had spoken around 35 to 40 times between July 1 and the day of the killing. On the day of the incident alone, they allegedly spoke 14 times, with their conversations continuing until late at night.
+
+Police suspect that Shalu initially tried to mislead investigators before allegedly admitting her involvement. Her husband, Subrat, has been questioned but police have not found evidence so far linking him to the murder.
+
+Investigators are now examining CCTV footage and the security arrangements at the apartment complex to establish the sequence of events and determine the role of everyone involved.
+
+---
+
+### Prasol Chemicals IPO opens for bidding. Check GMP and other key details
+*Ritesh Presswala · finance, ipo*
+
+The Prasol Chemicals IPO has opened for subscription today, September 8, 2026, giving investors a three-day window to bid until September 10. In the grey market, the IPO is commanding a modest 8% premium, hinting at limited listing gains for now.
+
+The IPO is a Rs 500 crore book-built issue, comprising a fresh issue of 11.83 lakh shares worth Rs 80 crore and an offer for sale (OFS) of 62.13 lakh shares worth Rs 420 crore. The price band has been fixed at Rs 643-Rs 676 per share, with a lot size of 22 shares. At the upper price band, retail investors will need a minimum investment of Rs 14,872.
+
+The IPO will close on September 10, with allotment expected to be finalised on September 11. Shares are proposed to list on both the NSE and BSE, with the tentative listing date set for September 16, 2026.
+
+DAM Capital Advisors Ltd. is the book-running lead manager, while KFin Technologies Ltd. is the registrar to the issue.
+
+  
+
+## Prasol Chemicals IPO GMP today
+
+Prasol Chemicals IPO is currently commanding a GMP of Rs 55 per share, or around 8%, over its upper price band of Rs 676. Based on the prevailing GMP, the estimated listing price is around Rs 731 per share.
+
+GMP Note: The Grey Market Premium (GMP) is an unofficial market indicator and is not regulated or guaranteed. Actual listing gains may differ significantly from the estimated price based on market conditions and investor sentiment.
+
+  
+
+## Use of IPO proceeds
+
+The company plans to use the IPO proceeds primarily to repay/pre-pay certain borrowings, either fully or partially, amounting to approximately Rs 60 crore. Any remaining proceeds will be utilised for general corporate purposes, with the total issue proceeds estimated at Rs 60 crore.
+
+## Financial performance
+
+Prasol Chemicals Ltd. reported a 22% increase in total income, rising from Rs 1,015.54 crore in FY25 to Rs 1,237.85 crore in FY26. Profit after tax (PAT) grew strongly by 91%, from Rs 43.57 crore in FY25 to Rs 83.12 crore in FY26, reflecting a significant improvement in profitability.
+
+## About Prasol Chemicals Ltd.
+
+Prasol Chemicals Ltd., incorporated in 1992, is a speciality chemicals manufacturer with a portfolio of 150+ products, including acetone-based, phosphorus-based, and other speciality chemicals. Its products cater to key industries such as performance chemicals, paints & inks, construction & adhesives, pharmaceuticals, agrochemicals, and home & personal care.
+
+The company operates manufacturing facilities at Khopoli and Mahad, with a combined annual capacity of 98,644 MT. As of July 31, 2026, Prasol served 1,600 customers and exported to 69 countries. Its key customers include Alembic Pharmaceuticals, Lubrizol India, Rossari Biotech, Clean Science, Gharda Chemicals, Croda India, Supriya Lifescience, and Yasho Industries.
+
+Prasol is a 3-Star Export House recognised by the Government of India and has a strong global distribution network across APAC, North and South America, and Europe.
+
+## Should you subscribe?
+
+According to an Anand Rathi research report, Prasol Chemicals is seeking a valuation of around 48x FY26 earnings, with a post-issue market capitalisation of approximately Rs 40,008 million. This suggests that the IPO is fully priced at the current valuation.
+
+The company’s operations are dependent on manufacturing facilities, where unplanned shutdowns can disrupt production and overall business activities. However, its strong product portfolio, R&D-driven innovation, and diversified global customer base provide a solid foundation for long-term growth in the speciality chemicals sector.
+
+Given these factors, Anand Rathi has assigned a “Subscribe for Long Term” rating to the issue.
+
+_(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)_
+
+
+---
+
 ## 7 September 2026
 
 ### New books: Two compelling debuts and one cup of reheated comfort
