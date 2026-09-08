@@ -1,8 +1,214 @@
 # Editorials
 
-_Last updated: 2026-09-07 06:31 UTC_
+_Last updated: 2026-09-08 06:24 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 8 September 2026
+
+### Ground control: On ISRO, policy and and its focus
+*The Hindu · Editorial*
+
+The irony was evident: on the day the Indian Space Research Organisation (ISRO) had its greatest success of the year — the launch of its first geosynchronous imaging satellite (EOS-05) on a temperamental GSLV — its employee organisations demanded clarity on its long-term plans. But this grievance was long in the making. Since the Indian Space Policy of April 2023, the message has been clear that ISRO would, one day in the unspecified future, stop making commercial satellites and launch rockets. Clearly inspired by NASA, it expects to focus on ambitious exploratory missions and, literally, moonshots. Why would a space agency ramping up space missions upset a section of employees? This is not the paradox it presents. The letter, co-signed by nine employee associations, and addressed to the chairman, seeks clarity on staff-strength, recruitment and the outsourcing of core functions. ISRO says that it will “not be privatised or reduced”; IN-SPACe, set up to facilitate private participation, says the agency will “not be diminished”, only that the industry’s role must grow. Both are silent on the core concern — potential job losses. This brings up an underlying tension that ISRO must deal with: does its vision of India’s space sector align with its founding principles, of not being enamoured of space races and being laser-focused on space technology as a tool for social development? Or is the image of power, where India is one of a handful of space-faring countries with a mushrooming of ‘space startups’, now the bedrock of that vision?
+
+With a budget 16 times the Department of Space’s — $24.4 billion against ₹13,705 crore — NASA too has scaled back since the 1960s: from 0.7% of American GDP in 1966 to 0.1% now, and from 36,000 civil servants at Apollo’s peak to about 14,000 today. Unlike NASA, which in its early years designed and made every nut and bolt, ISRO has always had a manufacturing relationship with the private sector (Walchandnagar, L&T). What is different is that the buzz is not about established companies building on experience but new entrants with fleeting foreign capital, most interested in satellite data as a service. No sector can hope to be static; survival can mean significant changes to how it operates. There is yet no serious reckoning with the might of China’s space programme. If India’s space sector in 2035 is to be known as a source of export earnings, a nucleus of value-added services that brings in jobs and absorbs skilled labour, then hard choices taken today may be worth it. But jumping onto a bandwagon of space — as fuel for the science fiction fantasy of billionaires and colonial notions of conquest, to align with some misplaced notion of an ‘exclusive’ club — is foolhardy. ISRO must have a transparent policy that spells this out.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/ground-control-on-isro-policy-and-and-its-focus/article71439288.ece)
+
+---
+
+### Natural partners: On India-Belgium ties
+*The Hindu · Editorial*
+
+In terms of size and engagement, Belgium is not one of India’s most important partners. However, the visit of the Belgian Prime Minister to Delhi is part of a larger puzzle of India’s ties with European countries. These have now gained salience with focus areas for India: in economic relations, defence relations and strategic ties. At the top of the agenda in talks between Prime Ministers Bart De Wever and Narendra Modi was bilateral trade opportunities once the India-European Union Free Trade Agreement (FTA) is signed — which is expected in December. India-Belgium trade is about $13 billion, a third of which is from over a century of collaboration in the diamond industry. Antwerp is a global hub for diamond trading, while Mumbai and Surat provide the biggest cutting and polishing services. However, once the EU FTA is signed, they hope to benefit from collaboration in other areas including renewable energy and food processing; the Prime Ministers agreed to set a target of doubling bilateral trade in the next five years. Despite being surrounded by friendly European allies, Belgium has a robust high-tech defence industry — small arms, drone and counter-drone technology, ammunition and naval defence — and is keen to make inroads in the Indian market, with India seeking to diversify its procurement beyond global powers. The two sides agreed on an MoU for co-development of military hardware, and signed a letter of intent on defence cooperation. India will appoint a resident defence attaché to Brussels, complementing Belgium’s move.
+
+Statements by the two leaders, however, indicated that the visit went beyond the bilateral to a more geopolitical framing of strategic ties, both bilateral as well as between India and Europe. At a business event, Mr. De Wever said that Europe is now realising the truth of India’s “warnings” on strategic autonomy from global powers and over dependence in trade and industrial production, in particular referring to China. After the talks, Mr. Modi said that democratic values, a market economy, and people-to-people ties make India and Belgium “natural partners”, a theme he has promoted this past year, as he has stepped up visits to Europe and received a number of European leaders in Delhi, in the run-up to his Brussels visit later this year for the FTA. It is also significant that Mr. De Wever’s visit comes in the same week that New Delhi is preparing to welcome Russian President Vladimir Putin for the BRICS summit in Delhi. The engagement with Belgium demonstrates a new maturity for both European countries and India. This shows sensitivity to their respective positions on the Russia-Ukraine conflict, indicating that ties outweigh Europe’s enmity and India’s deep friendship with Moscow.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/natural-partners-on-india-belgium-ties/article71439366.ece)
+
+---
+
+### India’s opportunity to put BRICS back together
+*The Hindu · Opinion*
+
+BRICS has strayed quite far from where it started. To be held this weekend (September 12-13, 2026) the 18th BRICS Summit, in New Delhi, gives India a huge opportunity to bring coherence back to the expanded group and give it direction if it is to be an effective body in shaping global events.
+
+BRICS was formed to give a greater voice to Brazil, Russia, India, China and South Africa, the emerging economies, in global governance and institutions, particularly financial and economic institutions, and to aim for a more equitable multilateral order. India was initially an enthusiastic participant, seeing the group as a vehicle for genuine reform of multilateral institutions. The first summit hosted by India (the fourth BRICS summit), in 2012, focused on the theme “Global Stability, Security and Prosperity,” tacitly reflecting a much broader geopolitical canvas. The Indian presidency helped lead to the establishment of the BRICS Bank, the New Development Bank. Other Indian initiatives followed, including the integration of a counter-terrorism architecture into BRICS’ work.
+
+The emergence of the China challengeHowever, China had other plans. At the time, even if it was not anti-West, China saw BRICS as a counterpoise to western domination — a view that India also initially shared in the context of reform. More importantly, China needed a group such as BRICS, consisting of emerging economies, to amplify its global ambitions, given that BRICS countries accounted for nearly 20% of world GDP in 2010. Further, China wanted to use BRICS mechanisms such as BRICS-Plus and BRICS Outreach to reach out to the Global South and consolidate their profile as a second pole in a future bipolar world.
+
+Suddenly, India not only had a reform agenda on its hands but also had to act as a counterweight to China’s larger designs on BRICS. India, Brazil and South Africa soon realised that Chinese support for the reform of multilateral institutions was selective. For example, China resisted supporting the three countries’ bid for permanent seats on the United Nations Security Council. Consequently, India started focusing more on BRICS consolidation and intra-BRICS matters to resist Chinese grandstanding. In fact, this year’s theme for India’s chairship has four pillars — Resilience, Innovation, Cooperation and Sustainability — and draws on Prime Minister Narendra Modi’s vision of “Humanity First” and a “people-centric” approach to BRICS cooperation.
+
+In addition, there was a real danger that the principle of consensus, which had kept BRICS a cohesive group, would be bypassed and that BRICS would go the way of the Shanghai Cooperation Organisation (SCO), where the majority can bulldoze their views through. India and Brazil resisted these efforts. The 2019 BRICS Summit in Brasilia was held without any other invited guest countries — just the five original members. But in 2020, under the Russian presidency, probably the first non-consensus chair’s statement on COVID-19 was issued, bypassing the sacred principle of consensus. If non-consensus documents are increasingly resorted to, as we saw at the BRICS Foreign Ministers’ meeting in May 2026 in New Delhi due to the inability of the new members to agree, then BRICS will cease to be effective.
+
+Membership expansion tests BRICS cohesionBut then, it was difficult to resist the Chinese juggernaut. China pushed for the expansion of the New Development Bank and then for the expansion of BRICS itself. India resisted, as did Brazil. But that was not to be, and BRICS now has 11 members, following the addition of Egypt, Ethiopia, Iran, Saudi Arabia, the United Arab Emirates and Indonesia, as well as 10 partner countries.
+
+India’s sagacity has now been vindicated, as the new members of BRICS have started fighting among themselves. While the original five have their differences, some of them serious, they know how to address them with maturity for the greater good of the group. The new members do not have any such compunctions and are subverting BRICS through their bilateral conflicts. BRICS should not go the way of the South Asian Association for Regional Cooperation (SAARC), with bilateral disputes paralysing the group.
+
+In addition, the tussle over the direction BRICS should take has begun. India has tried to keep BRICS as a “non-West” group, as opposed to the increasing pressure from some members to turn BRICS into an anti-West group. An anti-West slant is becoming increasingly difficult to avoid, with China competing with the United States for global leadership, Russia at war with Ukraine with the full backing of Europe, and Iran being bombarded by the U.S. and Israel. It becomes even harder to maintain the “non-West” line when Brazil and India have been subjected to punitive tariffs by U.S. President Donald Trump, and the U.S. Congress is considering legislation that would give the President the power to levy punitive tariffs on countries importing Russian oil. The question being asked is: how can India stop BRICS from becoming anti-West at a time when the Quad (Australia, India, Japan, the U.S.) is being emasculated by the U.S., India-U.S. relations are under great pressure, Pakistan is being courted by the U.S. at India’s expense, and global institutions are being made dysfunctional by the West? The more erratic the U.S. is vis-à-vis BRICS, the greater the chances of BRICS going in the wrong direction. Fortunately, India’s effort to prevent an anti-western drift is shared by many other BRICS members, since they too have much to gain by engaging with multiple actors from different camps in their national interest. They want change, but not geopolitical realignment with China and Russia. This is the direction of BRICS’s future.
+
+But there is a much larger question. Both the U.S. and China are enunciating parallel visions of the world and playing by their own rules, rather than internationally negotiated ones. Both are, in effect, challenging existing international norms and global institutions and setting up parallel structures and standards in emerging areas such as Artificial Intelligence, digital and Internet governance, data ownership, state control, 5G/6G and telecom, satellite navigation, and electric vehicles. Neither is looking for reform of existing institutions. China has just set up a new World AI Cooperation Organisation in Shanghai, in addition to other parallel initiatives such as the Asian Infrastructure Investment Bank, the Belt and Road Initiative and the Digital Silk Road, which challenge the Bretton Woods institutions and their governance and financing models. They see BRICS as one of the vehicles through which to pursue their broader goals. For example, the push for de-dollarisation through the establishment of a parallel BRICS currency is receiving a lukewarm response, since many members are uncomfortable with a renminbi-dominated currency and would prefer merely interlinking payment systems, central bank digital currencies and national-currency transactions. Nevertheless, after the success of its pilot project, China is formally launching its ambitious mBridge, an alternative financial payment system. The last thing India wants is an alternative Bretton Woods system dominated by China.s
+
+India can course correct BRICSThe 2026 Summit in Delhi provides an opportunity for course correction, and India has worked hard to persuade the new members to overcome their political differences. In a world in flux, India has to revive the original raison d’être of BRICS and shape the expanded grouping into a vehicle for reform and stability, while stopping others from hijacking it.
+
+At the 2018 BRICS Summit in South Africa, Mr. Modi first articulated his vision of “reformed multilateralism” at the leaders’ retreat. By 2019, this vision had found its way into the BRICS Summit document in Brasilia, with India, Brazil and South Africa pushing for it. The time has come to revive this agenda and make BRICS a strong voice for the “non-West” middle powers — and, by extension, for the Global South.
+
+In Davos, the Canadian Prime Minister spoke about broadly West-centric middle powers coming together. A Global South middle power is very different. And if there is a credible organisation of Global South middle powers, it is BRICS. It has its problems. To begin with, China is hardly a middle power and has disproportionate influence within BRICS. India and China need to find greater synergy on emerging global issues, even as their bilateral differences are being contained. Further, some middle powers that ought to be there are not represented in BRICS. However imperfect its composition may be, it is clear that BRICS has great geopolitical and geo-economic potential.
+
+At a time when the profile of BRICS is only increasing, with many countries wanting to join it, India should proactively embrace the BRICS reform agenda to serve its larger interest of multi-alignment. If India does not, others will take BRICS in a different direction.
+
+T.S. Tirumurti is Chair, Steering Committee, Deccan Centre for International Relations, former Permanent Representative of India to the United Nations, New York, and former Sherpa of BRICS
+
+[Read full article](https://www.thehindu.com/opinion/lead/indias-opportunity-to-put-brics-back-together/article71439875.ece)
+
+---
+
+### BJP Shows Flickers Of Life Beyond Modi-Shah Grip
+*Deccan Chronicle · Opinion*
+
+It is usually the case that when a party is in power, its party offices are empty and silent. The focus is on the government. It has been so with the Congress when it was in power, and it has been so with the Bharatiya Janata Party (BJP) since 2014.
+
+The party remained on the margins even as Mr Narendra Modi, as head of the National Democratic Alliance (NDA) government, remained the face of the party. And the belief took root in the party that Mr Modi is the BJP’s mascot, in whose name the party won elections. Of course, when the BJP lost state elections, for example in Bihar and Delhi in 2015, the party took the hit and not Mr Modi.
+
+Now, for the first time in over a decade, the party office has become visibly active. The new party president, Mr Nitin Nabin, who had announced a team of office-bearers, including vice-presidents, general secretaries, secretaries as well as the president of the party's youth wing, the Bharatiya Janata Yuva Morcha (BJYM), seems to have set up his own team as captain.
+
+Mr Nabin must have taken many of the decisions on the advice of the Rashtriya Swayamsevak Sangh (RSS), which is the invisible hand in BJP affairs akin to economist Adam Smith’s “invisible hand of the market”, along with suggestions and recommendations of Mr Modi and Mr Shah, who must have functioned like the selection committee. But once the team is announced, Mr Nabin is making it sure that it is his team and he would be calling the shots as it were.
+
+His first act was to convene a meeting of select invitees, including ministers in the government, to brainstorm over the youth outreach in the wake of the phenomenal success of the Cockroach Janta Party (CJP). It was an interesting mix of invitees including Hemang Joshi, president of the BJYM, and the outgoing BJYM president, Mr Tejaswi Surya, both 35, general secretaries Smriti Irani, 50, Vinod Tawde, 62, Anurag Thakur, 51, minister for information technology, electronics, communications, railways, information and broadcasting Ashwini Vaishnaw, 56, minister for health Mansukh Mandaviya, 54. This is not exactly the Gen Next of the BJP shaped by Mr Modi and Mr Shah, but it is part of the team that will take over the baton from the top duo. Though the speculation as to who after Mr Modi is focused on Uttar Pradesh chief minister Yogi Aditya-nath, 54, and Mr Shah, 61, the party needs a new phalanx as it were. The mix of leaders whose ages span from mid-30s to early-60s that Mr Nabin, 46, is leading marks the transition.
+
+For the first time in a decade, there was chatter of many voices in the meeting as to how to respond to the Gen Z challenge, including suggestions that the label Gen Z should be abandoned, and they must not be treated as a single, homogenous group, and that the younger lot should not be given too much attention to the exclusion of people of other age segments. It is refreshingly different to hear the many twitters of the members in place of the unanimous echo of Mr Modi’s pronouncements which became the undeclared diktat for the party members. At the end of the meeting, Mr Nabin said that there would be more sessions on the issue.
+
+There is of course the one-dimensional Modi directive that a member of the party should reach out to a university/college a day. It may not be strictly followed even as his directive of his first term when he wanted a minister of his government to be at the party office and meet with the party members to maintain the live contact between government and party. And in the brainstorming session there was no reference to the ‘reach out to a university/college a day’ mission. The mission mode approach bears the stamp of the Modi signature. It seems that Mr Nabin and his team are trying to grapple with the issue by first trying to identify what it is.
+
+The CJP tide has receded for the moment with the fledgling organisation calling off the September 5 protest march as the Supreme Court had quashed all the FIRs against all the protests, not just in Delhi, but in the states as well. This does not mean that the CJP is sitting back and it is easing pressure on the governments at the Centre and in the states. It is spreading out to examine the state of government-run schools in Rajasthan, which happens to be a BJP-ruled state. The party then has to remain on its feet.
+
+The moot question is whether the BJP is slowly stepping out of the shadow of Mr Modi, who had placed himself as the big leader since 2014. And if that were to happen, then Mr Nabin and his colleagues will have to find their own voice. Of course, it would be unrealistic to expect the new team to abandon the anti-minority, anti-Nehru venom that has fetched the party its electoral dividend. But if the returns on these stale topics are seen to be falling, then Team Nabin would have to look for something different. As of now, Mr Nabin is showing signs of being his own man in the circumscribed space of party programmes, he could remain active in the limited sphere. There is...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/bjp-shows-flickers-of-life-beyond-modi-shah-grip-1985650)
+
+---
+
+### This 9/11, Let’s Reflect On The US Hand In  W. Asia Chaos
+*Deccan Chronicle · Opinion*
+
+The 25th anniversary of the September 11 attacks will soon be upon us. Americans will mourn, taking time off to complain about high petrol prices inflicted on them from another war. Examining US media, it becomes clear that the primary driver of restraint on its military power abroad is not the morality of its voting population. Certainly, it is not the ethics of those who govern it. The most important consideration and perhaps the only consideration when their aircraft carriers sail to distant lands to bomb and kill others is that Americans not be affected negatively.
+
+The capture of Venezuela’s oil, where invasion is accompanied by plunder, is the ideal; the nuisance of inflation emanating from actions against Iranians is not.
+
+This month the US announced that an American company would be given a 100-year concession over 17 oilfields in Venezuela, amounting to 65 billion barrels of crude. Mr Donald Trump, who to his credit is the most honest of American Presidents, said that the US would ‘run’ the country. The BBC headline read: “Remarkable US oil deal puzzles analysts — and angers many Venezuelans.” Few Americans were angered, of course.
+
+A neat middle ground of imperialism is Iraq. Saddam Hussain (Saddam’s unusual name shares a root with the word for trauma Indians are familiar with: sadma) was hanged 20 years ago. His nation was attacked after Americans were sold a lie: that there was a nuclear programme being developed to threaten them. They have absolutely no problem with the exact same lie being used again to murder Iranians; their chief concern is that Iran not interfere with their lives.
+
+As one headline put it: ‘Diesel Is the Blood of the Economy: US Prices Just Hit an All-Time High of $5.848 a Gallon.’ Presumably there was no irony in using the word blood. Certainly, there was no shame.
+
+Why is Iraq a neat middle ground? The invasion was bloody when it happened, but even today Americans exercise total domination over that country without military power. America controls Iraq’s oil revenues, which must be deposited in the Iraqi bank account at the New York Federal Reserve. This has been the case since 2003, meaning for 23 years. Crude oil is Iraq’s most important revenue source, making up around 90 per cent of the state budget. On January 11, 2020, the Wall Street Journal published a story under the headline: “US Warns Iraq It Risks Losing Access to Key Bank Account if Troops Told to Leave.” No explanation is needed to understand it, but it should be added that the Iraqis backed down and did not in fact ask America to pull out its military from Iraq.
+
+Does this affect Americans or their politics? Not in the least. Not any more than Americans will reflect on the deaths of the five lakh people killed in Iraq and Afghanistan. A Brown University study estimates that in all nine lakh people were killed in direct war violence and 45 lakhs indirectly in America's post-9/11 war zones. Just under four crore people have been displaced by the wars in Afghanistan, Pakistan, Iraq, Syria, Libya, Yemen, Somalia and the Philippines.
+
+If there is a reference to those times in political debate, it is usually to the money squandered in doing this. As the university study puts it: “The cost of the post-9/11 wars in Iraq, Afghanistan, Pakistan, Syria, and elsewhere totals about $8 trillion. This does not include future interest costs on borrowing for the wars.”
+
+Those American politicians who do raise the issue of wars, like the young mayor of New York, are attacked for not being imperialistic enough. As I write this, he is being bullied into not attending the 9/11 ceremony in New York later this month. The reasons being cited by his opponents are vague but the understanding is that it is because he is Muslim. This bullying is accompanied, as such things usually are, with the slur that it is in fact he who is the bigot. American missiles killed schoolgirls in Iran, a fact acknowledged by America’s own media, but it is an act of political suicide to admonish its military for its actions.
+
+Of course, there will be nothing in the memorial service about any of that either. It will be insular and there will be only one victim: America. What it is doing to others is a separate matter and cannot interfere with the remembrance of 9/11 and its victims. Indians think of Iran as being in the Middle East but till 1947 we shared a border with Iran. What is happening there is happening in our neighbourhood.
+
+One year ago, on September 9, 2025, Mr Trump renamed the Department of Defense as the Department of War. Again, he showed honesty. America’s military does not exist to defend itself; it exists in the first instance to wage war on others. On the 25th anniversary of that world-changing morning in New York, it is also for the rest of us to reflect. Not only on those who were killed but also on why the event happened and what led to it and what came after it.
+
+In the absence of internal pressure, the US does not correct itself. It ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/this-911-lets-reflect-on-the-us-hand-in-w-asia-chaos-1985657)
+
+---
+
+### Make seva of citizens accountable
+*Deccan Herald · Editorial*
+
+The Karnataka government’s decision to establish a dedicated Praja Seva Department signals an important shift in the way grievance redress is approached.
+
+Chief Minister D K Shivakumar deserves credit for recognising that resolving public complaints cannot remain confined to government offices or depend on citizens travelling to Bengaluru. Good governance begins when governments go to the people. Praja Seva seeks to institutionalise this principle.
+
+By bringing the Sakala Mission, the public grievances division, and administrative reforms under one department, it aims to create a single, permanent structure for addressing grievances.
+
+The Praja Seva Abhiyana, launched last week, involves grievance meetings at the taluk and hobli levels, with designated Saturday sessions, weekly reviews, and escalation mechanisms to ensure petitions do not get lost in files. Technology-enabled tracking will add a layer of accountability.
+
+Praja Seva Andolana in Puttur receives 163 applicationsThe idea itself is not new. Ramakrishna Hegde popularised direct public interaction through Janata Darshans in the 1980s, while subsequent governments carried forward the tradition.
+
+H D Kumaraswamy’s Grama Vastavya extended the concept by taking the chief minister to villages. These experiments demonstrated the value of listening to citizens, but also the limitations of personality-driven and episodic grievance mechanisms.
+
+Praja Seva marks an evolution from the Janaspandana programme associated with the B S Bommai government, which began as a digital grievance-redress platform. While it improved access to the administration, its event-driven nature still required citizens to travel and did not guarantee systematic follow-up. Praja Seva’s emphasis on decentralisation and institutional continuity is therefore significant.
+
+To succeed, Praja Seva must learn from past shortcomings. Timelines should be bound by the Karnataka Sakala Services Act, with penalties or adverse performance entries for unjustified delays.
+
+Crucially, the new set-up must have authority over line departments, whose officers otherwise report only to their superiors or ministries. Without such powers, it risks becoming a mere monitoring layer. Adequate staffing and funds must accompany the new structure, including sufficient discretion for local officials to resolve minor problems without referring every matter upwards.
+
+Technology should reinforce, not replace, accessibility. Physical petitions must be digitally registered and trackable, with citizens receiving acknowledgements. An open dashboard should publish district-wise resolution rates, delays, and satisfaction levels, enabling public and social audits. Finally, grievances should be treated as administrative intelligence, not merely individual complaints.
+
+Recurring petitions can reveal systemic failures and should trigger procedural or policy changes. Praja Seva’s real test is whether it can embed a permanent culture of accountable administration.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/make-seva-of-citizens-accountable-4138486)
+
+---
+
+### Warming peaks: Near and inevitable
+*Deccan Herald · Editorial*
+
+In the United Nations Environment Programme (UNEP)’s latest report on climate change, there is another escalation of an increasingly familiar threat.
+
+The report, titled Limiting Overshoot and released last week, says global temperature rise can no longer be contained within the threshold of 1.5° Celsius above pre-industrial levels, laid down by the Paris Agreement. Even the most favourable projections see the warming to reach 1.8° C in the coming years.
+
+Other climate models have projected worse scenarios. The Paris red line has been breached multiple times in the past five years. Even if all nations implement their stated climate policies, the 1.8°C mark will be touched. If they continue with their current policies, warming could peak at 2.6°C above pre-industrial levels by 2100.
+
+Nepal flood death toll rises to 1,243; PM Balendra Shah flags climate change linkUN Secretary-General António Guterres has asked the world to make the overshoot above 1.5° C “as small and short as possible”. The report notes that climate adaptation has limits, and lost climate conditions cannot be recaptured. Every additional fraction of a degree and the time spent above the threshold make it increasingly difficult to fight an increase in the temperature.
+
+The report says offsetting the heating effect of even a tenth of a degree is much more difficult than preventing that rise. This reiterates the urgency of implementing mitigation strategies with greater focus. No climate plan adopted, promised or envisaged until now can clear the accumulated carbon in the atmosphere in the foreseeable future. Limiting Overshoot also calls for efforts that address threats beyond carbon dioxide.
+
+The UN has identified cutting methane emissions as a quick and cost-effective measure to slow warming in the near term and called for targeted priority actions. While the Global Methane Pledge has provided a head start, its implementation has yet to gather the required pace. India is not a member of the programme.
+
+Climate change is manifesting in diverse forms in different parts of the world. Unprecedented heat waves are sweeping through Europe and America, the polar ice is melting, and the seas are rising. Floods, cyclones, and other disasters are frequent in Asia.
+
+A flash flood in the Bhotekoshi River in Nepal, reportedly caused by a glacial collapse in the higher Himalayas, killed more than a thousand people. Many more are missing. The UNEP report is the latest warning that the time for action is slipping away. It is about events inexorably moving to a tragedy, predicted and chronicled.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/warming-peaks-near-and-inevitable-4138485)
+
+---
+
+### Doping and systemic lapse defeat India’s Asian Games wrestling prospects
+*Deccan Herald · Opinion*
+
+In a shocking turn of events, two wrestlers who were headed to Japan to represent India at the Asian Games have been banned. The immediate reaction would be that the suspensions prove the efficacy of the National Anti-Doping Agency (NADA)’s testing protocols. However, will the efficiency and cohesiveness with which NADA and the national federations work to not just catch offenders, but to prevent and eradicate the menace, stand up to stronger scrutiny? In this case, the lack of cohesion between NADA and the Wrestling Federation of India (WFI) seems to have cost India representation at the Asian Games.
+
+The news of the ban on wrestlers Mukul Dahiya and Deepanshu came out on August 21, well after the entries for the Games were sent by the WFI to the Indian Olympic Association, which, in turn, forwarded them to the Aichi-Nagoya Games organisers. While the NADA list was reportedly updated on August 4, it seems the WFI came to know about it later in the month. This lapse in communication has led to India being unable to field wrestlers in two potentially medal-winning categories (it is not possible to replace an athlete for doping violations once the list is submitted, while changes are allowed in cases such as injuries).
+
+Who is to blame for this miss? NADA? Of course, it should have a mechanism to inform the respective federation once an athlete is banned. In addition, since samples were collected in late May, NADA should have ensured that the results came out much before the entry deadline for the event in July. The federation is not without fault either. The WFI should have had a mechanism to monitor the test results of its international athletes through constant follow-ups. The WFI has proven to be more than capable of such intense scrutiny, considering how it hounded Vinesh Phogat during the national trials. That, probably, is reserved for wrestlers who show dissent.
+
+The lapse is not singular. Asian Games-bound long-distance runner Abhishek Pal was earlier suspended. The episodes, the release of test results and imposition of bans just weeks before the Games (September 19-October 4), indicate the administrative lethargy that has plagued Indian sport for ages. How this has hampered sport in the country is quite an epic to document, but this latest incident presents a more direct impact on the country’s medal tally in Japan.
+
+There are more layers to the problem, though. The ban has led to greater scrutiny of Indian athletes, with tests being conducted by the World Anti-Doping Agency (WADA) at the national camps in Bhubaneswar and Bengaluru. These developments are a damning indictment of how lost the national federations are at ensuring such violations do not happen in the first place.
+
+When it comes to anti-doping measures, the national federations are ad hoc at best, and reluctant at worst. Most adhere to the testing protocols set by NADA, but have yet to establish any form of programmes or initiatives to ensure athletes remain free of performance-enhancing drugs and the use of banned substances, right from the grassroots. The case of the two wrestlers and the WFI’s reaction to it further illustrates this sad status quo.
+
+Dahiya, who would have fought in the 86kg freestyle category, and 130kg Greco-Roman wrestler Deepanshu were caught for two different infringements. Dahiya was provisionally suspended after a sample collected in May returned positive for the stimulant Mephentermine. Deepanshu, meanwhile, has reportedly been handed an eight-year ban. His latest positive test for Stanozolol was treated as a second anti-doping offence since he had previously served a three-year ban for the same substance and returned last year — a reckless repeat offender.
+
+There has been a string of other doping offenses too, including the ban of two of this year’s Under-23 national champions for use of prohibited substances and a notice to 2024 U-23 world champion Chirag Chhikara for not adhering to NADA’s whereabouts clause. The WFI’s reaction to these has been problematic on its own accord.
+
+News reports quoted an unnamed WFI official squarely blaming the issue on the wrestlers’ “lack of education”. The statement is also problematic because both Dahiya and Deepanshu are no novices. Dahiya is an Asian Championships silver medallist, who also represented India at the World Championships last year. The wrestlers must be held accountable, and so should the federation.
+
+The WFI’s reaction to Dahiya’s ban was indicative of this lack of accountability. "Mukul, in his explanation, says that he took an injection on the advice of his friend wrestler,” an unnamed official was quoted as saying. He then added a nonchalant disclaimer, shunning accountability. “Now is this acceptable? The wrestlers will have to take responsibility for what they consume and put in their bodies."
+
+In the aftermath, the WFI put its face-saving mechanism into hyperdrive, coming with a ‘stern advisory’ for its wrestlers. The advisory puts the onus of avoiding dope violations squarely on the wrestlers; while across the world, similar scenarios would have led to governing bodies stepping in with measures and long-term programmes to remove the menace altogether through awareness drives and foolproof monitoring mechanisms, among other things. The WFI’s limited vision and commitment are apparent in what can be described as a hogwash reaction.
+
+Doping in Indian sport needs to be addressed holistically, especially since it is rampant in domestic competitions, including school and university championships, where testing is limited. Testing and bans are just one element in it. They are, after all, the last measure — when things have gone beyond salvage for the athlete and the country.
+
+A more productive approach would be to acknowledge the menace. The national federations and their affiliated bodies right from the sub-district level upwards should then step in. A good start would be to initiate programmes to educate the athletes on not just the career repercussions but also the larger health implications of doping, facilitating a cultural shift towards clean and healthy competition.
+
+Sport, after all, is not just about medal tallies; it is about fostering and building a healthy society.
+
+Leslie Xavier is a senior sports journalist and a national wrestler.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/doping-and-systemic-lapse-defeat-indias-asian-games-wrestling-prospects-4138797)
+
+---
 
 ## 7 September 2026
 
@@ -68,6 +274,54 @@ Justice Sharma allegedly claimed that the CJI is proximate to him. This was a fa
 Kaleeswaram Raj is a lawyer at the Supreme Court of India
 
 [Read full article](https://www.thehindu.com/opinion/lead/judicial-integrity-a-case-the-court-cannot-ignore/article71435971.ece)
+
+---
+
+### DC Edit | Delhi Horror: Court Must Step In
+*Deccan Chronicle · Editorial*
+
+The collapse of a five-storey building in Delhi, in which seven persons, mostly students, have died, is a testament to corruption and inefficiency in the city administration, which allowed people to flout safe construction rules to earn a few thousand rupees more.
+
+The 50-foot-tall building was constructed on a 55-square-yard plot without an adequate foundation to keep the structure stable. Yet, local officials ignored the violations, permitting students to live in precarious conditions.
+
+This is not the only building to have violated the fundamental rules of structural engineering. A seven-storey structure under construction on a 50-square-yard plot collapsed in August. Every year, hundreds of people die in poorly constructed structures built by compromising safety standards to lower construction costs.
+
+According to Delhi chief minister Rekha Gupta, the accumulation of water, combined with ongoing repair work in the basement, led to the collapse of the building. The water reportedly seeped into the foundation of the 30-year-old building, beneath which the soil was already weak.
+
+The Delhi police arrested owner, Hariram Gupta, who flew to Bhiwadi in Rajasthan after the building collapsed. Officials of the Delhi municipal administration and utilities should not escape culpability for failing to bring the violation to the notice of the town planning department for action.
+
+Though the Delhi government sacked five civic officials, such unfortunate incidents will not stop as long as politicians who head governments ignore the wanton breaking of rules and compromise of safety requirements.
+
+The Delhi high court has issued notices to the Municipal Corporation of Delhi and Delhi University over the incident, which is a welcome development. However, instead of focusing on this particular incident, the court should formulate rules to ensure that action is taken against officials for allowing such construction and failing to bring such violations to the notice of the town planning department for further action.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-delhi-horror-court-must-step-in-1985628)
+
+---
+
+### DC Edit | Meetings Show India-China Ties Entering Positive Turf
+*Deccan Chronicle · Editorial*
+
+The first Corps Commander-level meeting of the Indian and Chinese armies in the Eastern sector on Sunday held a particular significance because it was held in Arunachal Pradesh. But the meeting is not to be seen in isolation so much as being another exchange in a series of engagements through which attempts are being made to normalise relations after a low was hit in the standoff at the LAC in 2020 after the Galwan clashes had left casualties on both sides.
+
+Coming as the meeting did not only amid conflicting territorial claims but also at a time of building tension with a strong military presence of both sides across the LAC in an Indian state on whose status China has chosen to keep harping about an old territorial claim, it carries a signal that China was prepared to yield some ground to India’s viewpoint that the boundary question has to settle first.
+
+Post-Galwan, several Corps Commander meetings were held, invariably in the Ladakh sector. The move to include two more sectors came up in NSA’s meeting with Chinese foreign minister Wang Yi in China last month and the meeting at the Vacha-Damai border point was a direct consequence of that. Considering how India has been insisting that peace on the LAC will remain a core component on how it chooses to further ties with China, the location in Arunachal Pradesh as well as the timing can be seen as a confidence-boosting measure.
+
+It augurs well for ties to get a further boost in continuing dialogue as China’s President Xi Jinping is expected to attend the BRICS summit in New Delhi that begins later this week.
+
+There had, of course, been wider breakthroughs which had come soon after Prime Minister Narendra Modi and President Xi had met in the previous SCO summit in Tianjin, China, in 2025 after which visa services were resumed, so too direct flights as well as permission for the Kailash Mansarovar Yatra.
+
+The brief Modi-Xi interaction in Bishkek is bound to have given further impetus to the dialogue processes that might help in not letting the border tensions boil over into another event that neither leader might like to encounter when the time is such the world situation fraught.
+
+Given the fact that a global geopolitical churn is being witnessed since the return of Mr Donald Trump to the White House, the BRICS summit takes on added significance, especially at a time when China is aiming at a bigger role in affairs of the Global South while India has been at it for a while now in gaining recognition as a leading voice of that grouping. Furthermore, Mr Xi’s visit would carry an even greater import as he is scheduled to be at the BRICS before his summit with Mr Trump in Washington.
+
+While China, India and, to an extent, Russia see the present situation as an incentive to forge an alternative world order, who makes the sharpest moves in New Delhi will be a matter of interest. India may, however, place a greater emphasis on playing the summit host even as it aims to further its ties with China after the great reset of 2024.
+
+Face-to-face meetings between Mr Modi and Mr Xi have only led to more positive developments after their first bilateral meetings in Ahmedabad and Mamallapuram near Chennai had not produced the desired results of peace on the border before developing other aspects of the relationship.
+
+The signs before the anticipated meeting of India and China leaders at the BRICS summit have been rendered a little more optimistic after the representatives of the armies interacted in Arunachal Pradesh.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-meetings-show-india-china-ties-entering-positive-turf-1985619)
 
 ---
 
