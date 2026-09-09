@@ -1,3 +1,612 @@
+## 9 September 2026
+
+### Uber, Rapido Licences Suspended In Chandigarh For 6 Months Over Policy Violations; Ola, inDrive Also Hit
+*Prisha Vibhavari · general*
+
+With the latest action, all four major app-based transport aggregators operating across the Tricity - Uber, Rapido, Ola and inDrive - now face licence suspensions in Chandigarh.
+
+[Read full article](https://www.news18.com/india/uber-rapido-licences-suspended-in-chandigarh-for-6-months-over-policy-violations-ola-indrive-also-hit-ws-l-10317744.html)
+
+---
+
+### Satya Niketan Collapse: Owner’s Son Names Two PG Operators Who Leased Building; One Arrested
+*Prisha Vibhavari · general*
+
+Owner Hariram Bansal’s son revealed in police interrogation that he had leased the building to two business partners, Shubham Tyagi and Sudhanshu from August 2025.
+
+[Read full article](https://www.news18.com/india/satya-niketan-collapse-owners-son-names-two-pg-operators-who-leased-building-one-arrested-ws-l-10317770.html)
+
+---
+
+### Noida Rapido rider dares woman to go complain after texting her ‘I love you’
+*India Today Trending Desk · general*
+
+## A Noida-based woman shared a post claiming that a Rapido rider sent her personal messages after completing a delivery. The rider even dared her to lodge a complaint with the company.
+
+A Rapido rider from Noida sent personal messages to a woman after completing her delivery. (Photo: Geetika Srivastava/LinkedIn)
+
+A woman residing in Noida was left uncomfortable after a Rapido rider sent her personal messages, including “I love you” after a parcel delivery order. When she threatened to report him to the police, he appeared unfazed and challenged her to complain to the company as well.
+
+Geetika Srivastava shared a screenshot of the exchange on LinkedIn, showing the messages she received from the rider. He first texted her, “Hello, _kesi ho aap_? (Hello, how are you?)” and then followed it with a blunt “I love you."
+
+Geetika immediately told him not to contact her again and warned him of a police complaint.
+
+Instead of backing off, the delivery rider responded, “_Ha kardo. Jao. Rapido me kar do_ (Yes, go ahead. Make the complaint. Go and complain to Rapido).”
+
+It was this response that particularly concerned Geetika. Sharing the conversation, she questioned why the man seemed so confident about facing a complaint and whether such behaviour carried any consequences.
+
+“Being a woman in this country is tough, but apparently now you can’t even book a single Rapido parcel delivery without being harassed by their delivery guys,” she wrote.
+
+She also questioned the company’s process for hiring and monitoring its delivery partners. “Look how confident he is, telling me to complain. Does that mean he suffers no consequences? What sort of riders have been employed by the company?” she asked.
+
+**See the post:**
+
+Rapido responded to Geetika’s post with an apology regarding the incident she faced. The company said it understood her concerns regarding the delivery executive’s reported behaviour and that such matters were taken “very seriously”.
+
+“Customer safety, dignity, and respect are our top priorities,” Rapido said in its response.
+
+The post started a wider discussion on LinkedIn, with several users criticising Rapido’s response and sharing their own experiences with app-based services.
+
+Some questioned whether a generic apology was enough and called for stronger action when customers report inappropriate behaviour.
+
+However, the company’s statement did not end the discussion, as users continued to question what concrete action would be taken against the delivery rider.
+
+\- Ends
+
+Srimoyee Chowdhury
+
+Sep 9, 2026 10:11 IST
+
+---
+
+### 10% chance AI kills humans next decade: Anthropic safety lead after colleague resigns
+*Armaan Agarwal · general*
+
+## Anthropic's safety lead Evan Hubinger has made a bold admission. After his colleague Jacob Coxon resigned over fears that AI may grow out of control, Evan says that it could be possible for AI to kill all humans.
+
+Anthropic's safety lead Evan Hubinger says that there is a chance AI kills all humans within the next 10 years. (Photo: Reuters)
+
+AI could end humanity. A few years ago, such a phrase would sound like science fiction – something from The Terminator or The Matrix. But today, the fear of AI killing humans has reached a stage where even the brightest minds in the industry are worried. Anthropic’s safety lead, Evan Hubinger, has now accepted that there may be higher than a 10 per cent chance that AI kills all humans in the future.
+
+In a post on X, Hubinger, the person responsible for ensuring AI models remain “aligned” to the best interests for us humans, said there was more than a 10 per cent chance that AI will indeed end humanity within the next 10 years. “I personally think it is >10 per cent within the next decade,” he said. While he acknowledged that Anthropic was “trying its best” to prevent such a doomsday scenario, there was work to do. “We do not yet have a plan to solve alignment for superintelligence and are not clearly on track to,” he added.
+
+Evan Hubinger accepts AI could kill all humans in the future.
+
+Evan Hubinger’s comments came after his colleague, Jacob Coxon, resigned from Anthropic based on such fears. On Tuesday, Coxon claimed that both Anthropic and OpenAI were acting irresponsibly in their push towards more powerful AI models. “They are racing straight to self-improving superintelligence and gambling with our lives,” he wrote on X.
+
+Jacob Coxon claimed that those working on building AI were growing increasingly concerned in Silicon Valley. “The people building AI earnestly believe that it could kill us all by the end of the decade,” he added. “I hear the same people express fear privately. No other human activity poses this level of danger,” Evan Hubinger added, "We really do earnestly believe AI could kill all humans!”
+
+Jacob Coxon explained his decision to resign on X.
+
+This is not the first time we have seen an AI researcher quit while contemplating the future. Earlier this year, Mrinank Sharma, an AI safety researcher at Anthropic resigned. "The world is in peril. And not just from AI, or bioweapons, but from a whole series of interconnected crises unfolding in this very moment,” he wrote on X.
+
+### AI superintelligence could increase risk
+
+Frontier AI labs like Anthropic often share reports on the risk status of AI models. Evan Hubinger recalled that the current AI models had a low risk, but things could change in the future. In particular, he was worried about superintelligence – a stage where AI may surpass human intellect – that may happen before we even know it. “What I am worried about is superintelligence arising from recursive self-improvement, as we have said is happening faster than we thought,” he explained.
+
+Recursive self-improvement refers to the ability of AI models to improve on their own without needing human inputs. Previously, tech trillionaire Elon Musk had claimed that AI may exceed “the sum of all human intelligence in 4 or 5 years."
+
+In recent weeks, there has been growing debate over the power of AI models. OpenAI has faced scrutiny after the Hugging Face incident where 700 AI agents tried to hack the US company’s website. Later, it was revealed that thousands of OpenAI agents also hacked a German website DseWiki. Anthropic's AI models have also gone rogue in the past.
+
+Jacob Coxon believes that such cases may push AI companies to work together and slow down this arms-race for the most powerful AI model. “Warning shots like the Hugging Face attack have made pacing agreements between U.S. labs more viable,” he added.
+
+Anthropic CEO Dario Amodei has himself written about severe AI risks on numerous occasions. In one blog post, Amodei said AI systems were unpredictable and difficult to control, listing behaviours such as obsessions, sycophancy, laziness, deception, blackmail, scheming and "cheating" by hacking software environments.
+
+These comments come at a time when AI labs are making rapid progress with AI models. This week, OpenAI released GPT-6 Astra, with Nvidia CEO Jensen Huang claiming that it was the start of AGI, or artificial general intelligence.
+
+\- Ends
+
+Armaan Agarwal
+
+Sep 9, 2026 10:05 IST
+
+---
+
+### Sensex down 600 points: 5 reasons why stock market is falling today
+*Sonu Vivek · general*
+
+Dalal Street opened in red as the stock market once again woke up with concerns over geopolitical questions and rising crude oil prices. The Sensex tanked nearly 600 points in early trade on Wednesday, while the Nifty slipped below 23,500, before making a brief recovery.
+
+A combination of crude oil nearing $100, escalating Middle East tensions, expectations of a US rate hike, a liquidity drain towards IPOs and heavy selling in IT stocks is weighing on investor sentiment.
+
+As of 10:08 am, the BSE Sensex was down 632.20 points, or 0.84%, at 74,945.38, while the Nifty 50 declined 163.05 points, or 0.69%, to 23,472.05.
+
+Here are the key reasons behind the fall that has investors taking a cautious sentiment and markets seeing a bearish tone.
+
+### BRENT CRUDE IS CLOSING IN ON $100
+
+The first and most immediate concern is oil.
+
+Brent crude was up 1.44% at $99.33 a barrel, while WTI crude rose 1.29% to $94.23. The jump follows an escalation in the Middle East, raising concerns over possible disruptions to energy supplies.
+
+This matters disproportionately for India because it is a major crude importer. Sustained higher oil prices can widen the trade deficit, increase the import bill and add to inflationary pressure.
+
+The Nifty Oil & Gas index was down 0.13% in early trade, while Reliance Industries declined 1.07%.
+
+The concern is not simply where crude is trading today. Investors are worried about what happens if prices remain close to or move above $100 for an extended period.
+
+### US RATE-HIKE FEARS ARE BACK
+
+The second pressure point is the US Federal Reserve.
+
+Stronger-than-expected US jobs data has increased expectations of a rate hike in September. Higher US interest rates can make dollar assets more attractive and tighten global financial conditions.
+
+That creates pressure on emerging markets such as India and can also hurt sectors that depend heavily on US demand.
+
+The impact is particularly visible in IT stocks, which have significant exposure to the US market.
+
+### FII SELLING PICKS UP
+
+FII selling has also emerged as another pressure point for Indian equities in the last few sessions. While foreign portfolio investors had turned strong buyers in August, pouring around $3.1 billion into Indian equities, their biggest monthly inflow in nearly two years, their stance has reversed towards selling at the start of September.
+
+Across the eight sessions from August 28 to September 8 for which data is available, FIIs were net sellers to the tune of Rs 10,494.80 crore.
+
+The selling has been particularly heavy on August 28 and 31, when they offloaded Rs 5,039.80 crore and Rs 7,985.88 crore, respectively. Although FIIs returned as buyers on September 1 and 2, purchasing Rs 1,143.38 crore and Rs 6,688.37 crore, selling resumed over the following sessions.
+
+This recent FII outflow is adding to pressure on the secondary market at a time when rising crude prices, global rate concerns and the IPO boom are already competing for investor liquidity.
+
+Domestic institutional investors have provided a strong cushion, buying a cumulative Rs 30,256.71 crore over the same eight sessions, but their buying has not been enough to fully offset the negative sentiment created by renewed foreign selling.
+
+### IPO BOOM IS SUCKING LIQUIDITY FROM THE SECONDARY MARKET
+
+There is also a distinctly domestic reason for the continuing weakness.
+
+The Indian IPO market is seeing strong momentum, with investors chasing listing gains even as the Nifty's year-to-date return remains negative.
+
+Dr V K Vijayakumar, Chief Investment Strategist at Geojit Investments Limited, said two strong headwinds are currently affecting the market — crude oil near $100 and the liquidity being absorbed by IPOs.
+
+"Two strong headwinds are impacting the market now. One, Brent crude around $100 amidst escalating US-Iran tensions is weighing on the economy. Two, the booming IPO market is sucking liquidity out of the market resulting in sustained downtrend in the Nifty," Vijayakumar said.
+
+He believes the IPO factor may currently be having a bigger impact than crude.
+
+"Perhaps, the latter is impacting the market more than the former," he said.
+
+According to Vijayakumar, listing gains from IPOs have risen to about 22% since June, encouraging both retail and institutional investors to put money into the primary market. He said even FIIs, which have sold equity worth Rs 2.84 lakh crore through exchanges this year, have invested about Rs 36,000 crore in IPOs.
+
+"Everyone is riding the momentum in the IPO market," he said.
+
+### IT STOCKS ARE AMPLIFYING THE FALL
+
+The fourth factor is the sharp sell-off in IT stocks.
+
+The Nifty IT index fell 3.06% in early trade, making it the worst-performing major sectoral index. Infosys fell 3.50%, HCL Technologies declined 3.67%, Tech Mahindra dropped 3.43% and TCS fell 2.88%.
+
+The sell-off has been intensified by the sharp fall in Coforge after its chairman Om Prakash Bhatt resigned following concerns raised by an internal audit over the company's board evaluation process.
+
+Coforge was down 5.70% in early trade.
+
+The weakness in IT is important for the benchmark indices because several large IT companies are heavyweight constituents of the Nifty and Sensex.
+
+The fall is broad, but it is not an across-the-board panic.
+
+Nifty Midcap 50 declined 0.46%, Nifty Midcap 100 fell 0.35% and Nifty Smallcap 100 dropped 0.15%. India VIX rose 3.02% to 11.57.
+
+There are also pockets of buying. Nifty Metal gained 0.70%, Nifty Pharma rose 0.36% and Nifty Healthcare advanced 0.56%.
+
+Vijayakumar believes the current weakness could eventually create opportunities in fairly valued large-cap stocks.
+
+"Investors can now accumulate fairly-valued stocks, particularly large-caps in growth sectors," he said.
+
+He also cautioned investors against blindly chasing IPOs.
+
+"Discretionary is the better part of FOMO," Vijayakumar said.
+
+For now, the market's direction will depend heavily on whether crude can move away from the $100 level, how the Middle East conflict develops and whether expectations of a US rate hike strengthen further.
+
+\- Ends
+
+Sep 9, 2026 10:03 IST
+
+---
+
+### Rupee slips to 94.95 as crude nears $100 amid intensifying US-Iran tensions
+*Shivanghi Payal · business*
+
+Rupee began Wednesday on a weak note, tumbling 21 paise to 94.95 against the US dollar.
+
+Rupee began Wednesday on a weak note, tumbling 21 paise to 94.95 against the US dollar as surging crude oil prices and escalating US-Iran tensions weighed on the domestic currency.
+
+The fall was partly cushioned by a weaker dollar, which provided some support to the rupee.The currency began trading at 94.80 against the dollar in the interbank foreign exchange market and subsequently touched 94.95. In the previous session on Tuesday, Rupee closed at 94.74, falling 18 paise against the American currency."Indian rupee opened lower on escalating geopolitical tensions and surge in crude oil prices.
+
+Brent has neared the $100 mark as US and Iran attack each other," said Anuj Choudhary, research analyst, Mirae Asset Sharekhan.Choudhary said that the currency was expected to trade with a negative bias as crude oil prices continued to rise and geopolitical tensions escalated. He said weak global markets could add further pressure, while a weak dollar could support rupee at lower levels."Weak global markets may further pressurise the rupee. However, a weak dollar may support the rupee at lower levels.
+
+Investors now focus on inflation data from the US and India. USD-INR spot price is expected to trade in a range of Rs 94.70 to Rs 95.15," he added.The dollar index, which measures the strength of the greenback against a basket of six currencies, was trading 0.03% lower at 98.76.Brent crude, the global oil benchmark, rose 1.41% to USD 99.30 per barrel in futures trade as US-Iran tensions intensified and concerns grew over disruption to oil flows through the Strait of Hormuz.The pressure was also visible in equity markets. BSE Sensex tanked 500.25 points to 75,060.61 in early trade, while NSE Nifty declined 129.40 points to 23,506.10. Foreign institutional investors sold equities worth Rs 123.19 crore on a net basis on Tuesday, according to exchange data.
+
+---
+
+### Pakistan warns Houthi attack on Saudi Arabia could activate joint defence pact
+*SECTIONS Pakistan warns Houthi attack · business*
+
+Islamabad: Pakistan said there should be "no ambiguity" that an attack on any one of the three members of the newly formed Makkah Defence Alliance would be treated as an attack on all, as he warned that the pact could become operative following Houthi strikes on Saudi Arabia.
+
+Defence Minister Khawaja Asif's remarks on Tuesday come hours after Yemen's Iran-aligned Houthi forces launched a wave of missile and drone attacks on Saudi Arabia, targeting cities and economic and energy infrastructure and injuring at least 73 civilians.
+
+The minister said any unprovoked aggression against a member state, or a spillover of the Yemen conflict into Saudi Arabia, would activate the collective-defence provisions of the agreement signed by Pakistan, Saudi Arabia and Turkiye in Makkah last month.
+
+  
+
+"There should be no ambiguity; there is no need for any clarity that this is a joint defence agreement," Asif said in an interview with Geo TV channel. Pakistan would honour its commitments to Saudi Arabia under the pact, he said.
+
+"There should be no doubt about this. We are bound by the terms and conditions of this pact and, God willing, we will honour them in case there is a need," Asif asserted.
+
+Asif, however, said he was not aware of any contact between Pakistan and Saudi Arabia following the Houthi attacks.
+
+He stressed that the agreement was defensive in nature and did not authorise the three countries to launch attacks against another state on their own initiative.
+
+"This is not an aggressive agreement under which the three countries would, on their own initiative, attack another country. But if there is any aggression against one member state, all three member states will respond," the minister said.
+
+He expressed hope that tensions would subside, but warned the Houthis against extending the Yemen conflict beyond the country's borders.
+
+"If they try to export them, the clauses of this agreement to counter aggression will become operative," Asif reiterated.
+
+Asif described the Houthis as "non-state actors" and said there was sympathy for Iran across the Muslim world, including Yemen, over its ongoing conflict with the United States.
+
+He, however, cautioned against allowing such sentiments to be used to widen an existing bilateral dispute.
+
+The minister said the Makkah alliance could serve as a deterrent and did not necessarily mean that the three countries would respond to aggression with military force.
+
+"We don't need to respond to a brick with a stone," he said, arguing that the combined military capabilities of Pakistan, Saudi Arabia and Turkiye should themselves act as a deterrent.
+
+He said Saudi Arabia should not be dragged into what he described as an internal conflict in Yemen and expressed hope that diplomatic efforts could help prevent further escalation.
+
+A Saudi-led coalition of Arab states has backed Yemen's internationally recognised government in its war against the Houthis for more than a decade.
+
+The Houthis said Tuesday's attacks were retaliation for dozens of recent Saudi airstrikes on areas of northwestern Yemen under their control. On Monday, the group accused Saudi Arabia of bombing a prison in the city of Al Hazm, killing at least 11 people.
+
+---
+
+### Out of Punjab draft, Raghav Chadha's name added to Delhi voter list. AAP reacts
+*India Today News Desk · general*
+
+## The AAP and Raghav Chadha were involved in a war of words after the BJP Rajya Sabha MP's name was added to the voters' list of Delhi amid the SIR exercise.
+
+BJP Rajya Sabha MP from Punjab Raghav Chadha's name was added to the voters' list of Delhi amid the ongoing Special Intensive Revision (SIR), days after he alleged a "political vendetta" behind the deletion of his name from the Punjab draft rolls. The AAP cried foul, alleging that Chadha illegally registered himself as a voter in Delhi, with the Rajya Sabha MP accusing his former party of behaving like a "dumped lover".
+
+Delhi election officials told PTI that Chadha's name was added to the rolls through the updation process. The former AAP MP has been registered as a voter in Punjab since 2024.
+
+"A total of 700 forms for inclusion of names in the electoral rolls were approved by the EROs in 70 Assembly constituencies in Delhi till Tuesday. Chadha's name was among them," an official at the office of the Delhi Chief Electoral Officer (CEO) said.
+
+The dispute has brought Chadha's voter registration into focus. It has raised a curious question. How was his name included in the Delhi voter list after the draft rolls had already been published? India Today has reached out to the Election Commission on the matter.
+
+\- Ends
+
+Abhishek De
+
+Sep 9, 2026 09:56 IST
+
+---
+
+### Raghav Chadha hits back at AAP over voter roll row, says followed all ECI procedures
+*Ani · business*
+
+New Delhi: BJP MP Raghav Chadha hit back at the Aam Aadmi Party (AAP) over allegations concerning his voter registration, calling them baseless and asserting that he had followed all applicable Election Commission of India (ECI) guidelines and procedures.
+
+In a statement, Chadha accused AAP and its leadership of repeatedly targeting him since he left the party.
+
+  
+
+"I seem to be haunting Arvind Kejriwal and the Aam Aadmi Party. Day and night, all they think about is Raghav Chadha and how to attack him," he said.
+
+Chadha said AAP's latest allegations concerned his voter registration and accused the party of first deciding on an allegation and then attempting to find an argument to support it.
+
+"The facts are simple. I have followed all applicable ECI guidelines and procedures and availed the prescribed remedies," he said.
+
+He further accused AAP of confusing electoral rolls with its party membership register.
+
+"AAP has confused 'electoral rolls' with its 'party membership register.' It wants to cut out everyone who walks away from Kejriwal and his corrupt AAP," Chadha said.
+
+Chadha also alleged that AAP had created a dedicated effort to target him following his departure from the party.
+
+Earlier, the Office of Delhi's Chief Electoral Officer (CEO) on Tuesday clarified the procedure followed for inclusion, deletion and modification of names in electoral rolls after the Aam Aadmi Party (AAP) alleged that the name of Rajya Sabha MP Raghav Chadha was included in the electoral roll of AC-39 (Rajinder Nagar) without following due procedure.
+
+The CEO said names are added, deleted or modified in the electoral roll only based on Forms 6, 7 and 8, respectively. These applications are processed by Electoral Registration Officers (EROs) in accordance with the Representation of the People Act, 1950, the Registration of Electors Rules, 1960, and instructions issued by the Election Commission of India.
+
+Meanwhile, the Aam Aadmi Party (AAP) National Media In-charge Anurag Dhanda on Tuesday said the Election Commission's response to its questions over the addition of Raghav Chadha's name to Delhi's electoral rolls has exposed the "backdoor manner in which the entry was made.
+
+Dhanda said the response itself validates its stand that the Election Commission has failed to explain how Raghav Chadha's name appeared in the electoral rolls after the August 31 draft roll showed 746 voters.
+
+The AAP National Media In-charge said this makes it clear that the name was added through the "backdoor", without following the prescribed legal and procedural process.
+
+Responding to the Election Commission's response, Dhanda said, "The episode shows that even the Delhi Election Commission is unaware of how the addition took place. The Election Commission's inability to explain the specific process behind the entry raises serious questions over the transparency of the SIR process."
+
+He demanded that the Election Commission explain how Raghav Chadha's name appeared as the 747th entry after the August 31 draft roll showed 746 voters, and maintained that the episode raises grave questions over the transparency and credibility of the entire SIR exercise.
+
+---
+
+### Pakistan says Makkah alliance will act if Yemen war spills into Saudi Arabia
+*India Today World Desk · world*
+
+## Pakistan said the Makkah Defence Alliance would activate if the Yemen conflict spills into Saudi Arabia. The warning casts the new pact as a deterrent while underlining that it is not for aggression.
+
+Image used for representational purposes only
+
+Pakistan has said there should be "no ambiguity" that an attack on any one of the three members of the newly formed Makkah Defence Alliance would be treated as an attack on all. Defence Minister Khawaja Asif said the pact signed by Pakistan, Saudi Arabia and Turkiye could become operative if the Yemen conflict spills into Saudi Arabia.
+
+His remarks came hours after Yemen's Iran-aligned Houthi forces launched a wave of missile and drone attacks on Saudi Arabia, targeting cities as well as economic and energy infrastructure. At least 73 civilians were injured in the strikes.
+
+Asif said any unprovoked aggression against a member state, or any spillover of the Yemen conflict into Saudi Arabia, would activate the collective defence provisions of the agreement signed in Makkah last month. "There should be no ambiguity; there is no need for any clarity that this is a joint defence agreement," he said in an interview with Geo TV.
+
+He said Pakistan would honour its commitments to Saudi Arabia under the pact. "There should be no doubt about this. We are bound by the terms and conditions of this pact and, God willing, we will honour them in case there is a need," Asif said.
+
+At the same time, the minister said he was not aware of any contact between Pakistan and Saudi Arabia following the Houthi attacks. He stressed that the agreement was defensive and did not authorise the three countries to launch attacks against another state on their own.
+
+"This is not an aggressive agreement under which the three countries would, on their own initiative, attack another country. But if there is any aggression against one member state, all three member states will respond," he said.
+
+Asif said he hoped tensions would ease, but warned the Houthis against taking the Yemen conflict beyond the country's borders. "If they try to export them, the clauses of this agreement to counter aggression will become operative," he said.
+
+He described the Houthis as "non-state actors" and said there was sympathy for Iran across the Muslim world, including Yemen, over its ongoing conflict with the United States. He also cautioned against letting such sentiment be used to widen an existing bilateral dispute.
+
+Asif said the Makkah alliance could act as a deterrent and did not necessarily mean the three countries would answer aggression with military force. "We don't need to respond to a brick with a stone," he said, adding that the combined military capabilities of Pakistan, Saudi Arabia and Turkiye should themselves act as a deterrent.
+
+He also said Saudi Arabia should not be dragged into what he described as an internal conflict in Yemen, and expressed hope that diplomatic efforts would prevent further escalation. A Saudi-led coalition of Arab states has backed Yemen's internationally recognised government in its war against the Houthis for more than a decade.
+
+The Houthis said Tuesday's attacks were retaliation for dozens of recent Saudi airstrikes on areas of northwestern Yemen under their control. On Monday, the group accused Saudi Arabia of bombing a prison in Al Hazm, killing at least 11 people. Pakistan's position, as set out by Asif, was that the Makkah pact is defensive, but would come into effect if any member state faces aggression.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Sep 9, 2026 09:52 IST
+
+---
+
+### Adani Airports to raise $1 billion primary equity from marquee global investors
+*Saurabh Sinha · business*
+
+The company manages eight airports across India, including Mumbai, Navi Mumbai, Ahmedabad, and Guwahati, handling over 23 per cent of India’s total passenger traffic.
+
+NEW DELHI: India’s largest private airport operator, Adani Airport Holdings Ltd (AAHL), has entered into binding agreements to raise Rs 9,825 crore (about $1 billion) of primary equity capital from a consortium of investors comprising Alpha Wave Global, Premji Invest, Temasek and BlackRock managed funds.
+
+The transaction values AAHL at a pre-money equity valuation of about $18 billion and is one of the largest primary equity investments from financial institutions in India’s airport infrastructure sector. The latest transaction follows AEL’s successful Rs 15,000 crore QIP in July 2026, which was India’s largest QIP by a non-financial corporate.The company says these proceeds will support three strategic priorities: expanding and modernising airport infrastructure across AAHL’s portfolio; accelerating the development of integrated Adani airport city ecosystems around its airports with development of about 2.2 crore square feet of mixed-use development planned in the first phase; and scaling passenger-facing and other non-aeronautical businesses including its ground handling business.The company manages eight airports across India — Mumbai, Navi Mumbai, Ahmedabad, Jaipur, Lucknow, Guwahati, Mangaluru and Thiruvananthapuram — handling over 23 per cent of India’s total passenger traffic.“These investments are expected to increase capacity to serve 20 crore passengers annually, deepen commercial monetisation, enhance passenger experience and further strengthen AAHL’s integrated airport ecosystem,” AAHL, a subsidiary of Adani Enterprises Limited (AEL), said in a statement.
+
+AAHL non-executive director Jeet Adani said: “This partnership marks an important milestone in building out the Adani Airports platform, and we are privileged to have such marquee, long-term investors alongside us on this journey. India’s aviation sector is one of the most powerful multipliers of the country’s GDP growth. Every expansion in air connectivity catalyses trade, tourism, employment and regional development well beyond the airport gate.
+
+With the backing of these partners, we will continue to invest ahead of that growth, scaling our infrastructure, city-side developments and non-aeronautical businesses to build one of the world’s leading integrated airport platforms.”AAHL and the investors have entered into a share subscription agreement and a shareholders’ agreement pursuant to which the investors will subscribe to new equity shares of AAHL in three tranches, with the final tranche expected to be completed by July 2027.
+
+Upon completion of all three tranches, the investors will collectively hold approximately 5.54 per cent in AAHL.AAHL CEO Arun Bansal said: “We will continue to build capabilities within AAHL to scale it into the world's largest airports platform. This ambition is buoyed by the exponential growth opportunities across India, the rising spending power of the Indian consumer, and the momentum of our city-side developments as powerful economic catalysts in the country's major urban centres.”The key advisors to the transaction were Cyril Amarchand Mangaldas, AZB & Partners, JSA Advocates and Solicitors, TT&A Advocates and Solicitors, Jefferies India Private Limited, SBI Capital Markets Limited and Ernst & Young LLP. The transaction is subject to customary conditions precedent, including receipt of applicable approvals.
+
+---
+
+### Father, son kill 22-year-old daughter with hammer, stage murder as hit-and-run
+*Brijesh Doshi · general*
+
+## A father and son in Ahmedabad allegedly killed 22-year-old Sofia with a hammer and staged her death as a hit-and-run to mislead police.
+
+Police arrested the woman’s father, Mohammed Farooq, and her brother, Mohammed Habil, after the investigation
+
+A father and his son in Ahmedabad allegedly killed the 22-year-old woman with a hammer and then staged the murder as a road accident to mislead the police.
+
+Police arrested the woman’s father, Mohammed Farooq, and her brother, Mohammed Habil, after an investigation into what was initially reported as a hit-and-run accident. The woman, identified as Sofia, died on the night of August 12 while travelling with her brother on a motorcycle.
+
+Sofia, 22, worked at Niki Hospital in Bopal area. According to police, Habil was taking her on a motorcycle on the night of August 12 when they claimed that an unidentified vehicle hit them. Both Sofia and Habil reportedly suffered serious injuries, and Sofia died. Following the information, traffic police reached the spot and the M Division police began investigating the incident as an accident.
+
+During the investigation, police found inconsistencies in Habil’s account. The location where he claimed the accident had taken place showed no evidence that any such accident had occurred. CCTV footage also raised suspicion because no other vehicle appeared at the location.
+
+Police then questioned Habil, and the interrogation led to the revelation that he and his father had planned and carried out Sofia’s killing.
+
+Police said a video of Sofia with a young man had gone viral some time earlier, creating fear of social embarrassment within the family. Her father and brother had tried to counsel her, but they suspected that she was involved in a relationship with another person.
+
+According to the police investigation, Farooq and Habil had planned Sofia’s murder around three months earlier. They chose August 12 to carry out the plan during the rain. They selected the route Sofia used to travel to work because it had fewer CCTV cameras and remained dark, which they believed would help them avoid detection.
+
+As part of the plan, Habil and Farooq went on a motorcycle to the hospital where Sofia worked. They took Sofia with them on the motorcycle while returning from Bopal. Habil carried a hammer with him and struck Sofia on the head with it.
+
+After Sofia became unconscious, Habil dropped her from the motorcycle and struck her twice more on the head with the hammer. The father and son waited until she stopped breathing.
+
+After Sofia died, Farooq and Habil continued travelling with her body on the motorcycle. They later placed her body by the roadside. Habil injured himself and damaged the motorcycle to make it appear as though they had been involved in an accident.
+
+The two carried out the staging to prevent the police from suspecting murder.
+
+Traffic police initially investigated the case as a road accident. However, about a month later, the investigation uncovered the murder conspiracy, following which the M Division police registered a murder case and arrested Farooq and Habil.
+
+\- Ends
+
+Akshat Trivedi
+
+Sep 9, 2026 09:51 IST
+
+---
+
+### Philippines defence chief gets China note mid-speech. Here's what he did next
+*India Today World Desk · world*
+
+## Philippines Defence Secretary Gilberto C Teodoro was handed a note from China, outlining Beijing's position on the South China Sea dispute, while he was speaking at a defence forum in Seoul. He read the note aloud before condemning China's conduct and reiterating the Philippines's position on the dispute.
+
+Philippines Defence Secretary Gilberto C Teodoro speaking at the Seoul Defence Forum in South Korea on Tuesday. (Photo: X/@dndphl)
+
+Philippines Defence Secretary Gilberto C Teodoro publicly bashed China after he was handed a note outlining Beijing's position on the South China Sea while he was speaking at a defence forum in South Korea. The unexpected move prompted Teodoro to question China's motive and accuse Beijing of "coercion, bullying and aggression".
+
+In a video that went viral, a man wearing a white sports coat is seen approaching Teodoro from behind and placing a sheet of paper on the table beside him at the Seoul Defence Dialogue. According to forum organisers, the note came from a Chinese military attache with the Chinese Embassy in Seoul, South Korea's Yonhap News Agency reported.
+
+The attache handed the slip to a staff member and asked that it be passed on to Teodoro. The staff member mistook it for a message from Teodoro's own delegation and delivered it to him while he was speaking, according to Yonhap.
+
+Teodoro paused his remarks, picked up the note and told the audience, "I have a note here, I think this is from China. And may I read it?"
+
+He then read the contents aloud. The note said China's position on the South China Sea arbitration was "clear, consistent and firm" and that the 2016 arbitration violated "fundamental principles of international law".
+
+The note appeared to refer to the 2016 South China Sea Arbitration case brought by the Philippines against China under the United Nations Convention on the Law of the Sea (UNCLOS). The tribunal had rejected China's expansive historic-rights claims in the South China Sea, ruling there was no legal basis for Beijing's claims to resources within the Philippines's exclusive economic zone.
+
+China has rejected the ruling and said the tribunal had no jurisdiction.
+
+### TEODORO PUBLICLY CALLS OUT CHINA
+
+After reading the note, Teodoro questioned why such a message had been delivered to him while he was addressing the forum. "How can you deal with a country in an international forum, beyond the question asked me – disrespecting the organisers of this forum. How do you expect to deal with it civilly?" he asked.
+
+He said the manner in which the note was delivered was disrespectful not only to him but also to South Korea, which hosted the event, and the other participants.
+
+"If this is a Chinese position sent to me, it not only disrespects international law, throwing UNCLOS to the floor and trampling upon it, but it also disrespects the basic decency that should be accorded to our most gracious host, the Republic of Korea, and the rest of the audience here," Teodoro said.
+
+Teodoro then accused China of coercion and aggression. "So, perhaps basic decency and behaviour is what China needs to do. This is actual coercion, bullying and aggression," he said.
+
+The defence chief added, "I will keep this paper as a memento of how desperate China is and how ineffective its position is in the face of a free audience."
+
+He later turned to the person who had delivered the note and added a sarcastic jab, "You've just done your country a great service. Thank you, and I hope you don't suffer in a gulag for it."
+
+### ON SOUTH CHINA SEA DISPUTE
+
+Teodoro used the incident to highlight the Philippines's broader dispute with China in the South China Sea.
+
+"I think it is well known to the public, to everyone here, about the Philippine situation where we face challenges daily from the People's Republic of China, which tries to occupy and illegally assert its presence over our territory and especially our exclusive economic zone," he said.
+
+He said the Philippines had been forced to develop defence arrangements and alliances because of the challenges it faces.
+
+"We live in a very interconnected world, and there is no right for any state of that matter to appropriate an international common for its exclusive use or right, contrary to what the international norms clearly state," Teodoro said.
+
+The South China Sea has remained a major source of tension between Manila and Beijing, with both countries repeatedly accusing each other of violating their rights in disputed waters. The Philippines has relied on the 2016 arbitration ruling to challenge China's claims, while Beijing continues to reject the decision.
+
+\- Ends
+
+Prateek Chakraborty
+
+Sep 9, 2026 09:50 IST
+
+---
+
+### Psychology explains the effect of social media on Gen Z’s mental health - how constant comparison, online pressure and endless scrolling can shape self-esteem and well-being
+*Mukesh Thapliyal · business*
+
+## Psychology explains the effect of social media on Gen Z’s mental health - how constant comparison, online pressure and endless scrolling can shape self-esteem and well-being
+
+Synopsis
+
+Generation Z faces both the positive and negative impacts of social media on their lives and mental health. While constant scrolling and comparison can harm self-esteem and disrupt sleep, these platforms serve as valuable sources of connection, support, and mental health resources. Research shows that being intentional in usage and fostering offline relationships can help cultivate healthier digital habits, highlighting the importance of understanding digital engagement patterns.
+
+One of the biggest psychological challenges linked to social media is constant comparison. (Image Credit: AI)  
+
+For Gen Z, social media is more than a place to share photos or keep up with friends. It is woven into everyday life, from entertainment and friendships to news, identity and self-expression. That constant connection can have benefits, but psychologists and researchers are also examining how it may influence mental health. The picture is more complicated than simply saying social media is 'good' or 'bad'. Research points to factors such as how often young people use these platforms, what they do there, whom they compare themselves with and whether social media interferes with sleep or real-world relationships. These experiences can shape self-esteem and emotional well-being in different ways.
+
+**CONSTANT COMPARISON CAN AFFECT SELF-ESTEEM**
+
+One of the biggest psychological challenges linked to social media is constant comparison. People often see carefully selected highlights of others’ lives, which can make their own everyday experiences seem less successful or fulfilling. The American Psychological Association has warned that appearance-focused social media use and comparison may be associated with poorer body image, disordered eating and depressive symptoms, particularly among girls. Research by Amy Orben, Adrian Meier, Tim Dalgleish and Sarah-Jayne Blakemore, published in Nature Reviews Psychology in 2024, also explored how social media may contribute to mental-health vulnerability during adolescence. The researchers stressed that the evidence remains mixed and that adolescence is a period of major social, emotional and cognitive development.
+
+  
+
+A March 2026 study by Alaina Howard and Dr. Marjan Assefi similarly found that social media can have both positive and negative effects on Gen Z, depending on how it is used. Excessive scrolling, FOMO, cyberbullying and unrealistic beauty standards may contribute to anxiety, depression, low self-esteem and body-image concerns. However, social platforms can also provide friendship, support, creativity and mental-health information. The researchers suggest intentional use, reasonable limits and stronger offline connections to promote healthier digital habits. Social media does not affect every young person in the same way. For some, seeing others succeed can inspire them. For others, repeated comparison can reinforce feelings of inadequacy.
+
+**ENDLESS SCROLLING CAN AFFECT WELL-BEING AND SLEEP**
+
+Another concern is the amount of time spent scrolling. A 2026 longitudinal study of 2,350 adolescents in London, led by researchers examining the SCAMP cohort, found that using social-networking sites for more than three hours a day was associated with higher levels of depressive and anxiety symptoms later in adolescence. The researchers also found that insufficient sleep partly explained some of these associations. Earlier research by Jean Twenge, Gabrielle Martin and W. Keith Campbell, published in Emotion in 2018, analyzed data from more than 1.1 million US adolescents. They found that psychological well-being declined after 2012 and that heavier electronic communication and screen use were associated with lower well-being. However, researchers caution against assuming that screen time alone causes mental-health problems.
+
+**THE RELATIONSHIP IS MORE COMPLICATED THAN SCREEN TIME**
+
+A major theme in modern research is that correlation does not automatically mean causation. In a large 2019 analysis, Amy Orben and Andrew Przybylski examined data from 355,358 adolescents and found that the relationship between digital technology use and well-being was much smaller than some earlier research suggested. Their work highlighted how different analytical methods can produce different conclusions. More recent research reinforces that complexity. A 2025 study led by Luisa Fassi, Amanda Ferguson, Andrew Przybylski, Tamsin Ford and Amy Orben examined social-media use among adolescents with and without mental-health conditions, reflecting growing interest in understanding which young people may be more vulnerable rather than treating all users alike. The takeaway is not that Gen Z should abandon social media. Instead, psychology suggests paying attention to patterns of use. A feed that encourages connection, creativity and support can be very different from one dominated by comparison, negativity or pressure.
+
+Social media is now part of the environment in which Gen Z develops friendships, identity and self-esteem. Its psychological effects depend on much more than the number of minutes spent online. Comparison, appearance-focused content, problematic use, sleep disruption and online pressure can create challenges, while genuine social connection can provide benefits. The research remains mixed, and scientists continue to study cause and effect. For young people, the goal may not be eliminating social media but learning to use it more intentionally. Recognizing when scrolling leaves someone feeling anxious, inadequate or exhausted can be an important first step toward building a healthier relationship with the digital world.
+
+(Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.)
+
+Download The Economic Times News App to get Daily International News Updates.
+
+...moreless
+
+---
+
+### A more perfect union? Congress has been the place where America tries to resolve its problems
+*SECTIONS A more perfect union Congress has been the place where America tries · business*
+
+WASHINGTON: It's one thing to issue a Declaration of Independence. It's quite another to launch a grand experiment in representative democracy.
+
+Congress isn't quite yet celebrating its 250th anniversary - the House and Senate as they are recognized today first convened in 1789 - but from the start it has provided an enduring, if imperfect, forum in the country's pursuit of a more perfect union.
+
+From drafting the Bill of Rights that enshrines for many what it means to be an American - freedom of speech, the right to bear arms - to passing modern-day legislation on taxes, Civil Rights, war and peace, the work of Congress has shaped the nation.
+
+  
+
+"Congress needs to be the place where we figure out how to live with each other," said Philip Wallach, a scholar at the American Enterprise Institute in Washington, and author of the book "Why Congress."
+
+It's a messy, often broken process. Most of the bills introduced never become laws. Those that do are often challenged anew.
+
+In recent years, Congress has allowed its foundational powers to erode, shrinking when confronted with a powerful executive in President Donald Trump.
+
+Yet as the branch of government closest to the people, Congress holds a unique spot in the system of checks and balances - one that is revived every two years as voters choose their representatives in the midterm elections, including this fall.
+
+Here are five measures that shaped - and are still shaping - America's pursuit of a more perfect union.
+
+## Money: From tariffs to income taxes - and back again?
+
+The new Congress, established on the revolutionaries' battle cry of no taxation without representation, also needed to pay the bills.
+
+Lawmakers debated how to raise revenues over the years - at times relying heavily on tariffs, then moving briefly toward taxation to handle Civil War debt. But it wasn't until the 20th century that Congress sought ratification of a constitutional amendment to stand up the modern income tax.
+
+First set at 1%, income taxes now account for about half of all U.S. revenues - "the workhorse of the U.S. tax system," said Daniel Bunn, president of the nonpartisan Tax Foundation think tank.
+
+But the tax debate is far from finished. Congress approved a sweeping tax cuts package last year that the president signed into law, while Trump himself has sought a new tariffs regime, some blocked by the courts.
+
+## People: Reconstruction, Civil Rights and the promise of equality
+
+It was a Saturday in 1867 when Congress passed one of the early Reconstruction Acts in the aftermath of the Civil War, overcoming a lengthy veto message from then-President Andrew Johnson. The era became a stress test of the system of checks and balances as Congress and the White House sparred - and ultimately led to the president's impeachment.
+
+"Johnson regularly vetoed congressional Reconstruction legislation," according to the House website. "In response Congress overrode his vetoes more than any other president."
+
+Nearly a century later, Congress passed the Civil Rights Act of 1964 and the Voting Rights Act of 1965, seeking to end the persistent discrimination and racial violence against Black Americans.
+
+More recently, those once-settled issues are being revisited again. The Supreme Court recently struck down part of the Voting Rights Act, unleashing a wave of redistricting battles that threaten to eliminate Black-majority congressional districts particularly in the Southern states.
+
+And as the Trump administration seeks to decrease the number of immigrants in the U.S., it appealed to the Supreme Court to strike down the Reconstruction Era's 14th Amendment, which guarantees birthright citizenship. While the Supreme Court rejected Trump's proposed limits, his court battles continue.
+
+## Health and social services: Building a safety net
+
+In signing the Social Security bill into law, President Franklin D. Roosevelt said that even if the House and Senate had done nothing else, that session of Congress "would be regarded as historic for all time." Roosevelt said the Social Security legislation was a "patriotic" bill that would provide seniors some measure of income protection "against poverty-ridden old age."
+
+Thirty years later, Congress added the Social Security amendments, which stood up the Medicare and Medicaid healthcare programs for seniors and lower-income people. And by 2010, Congress approved the Affordable Care Act, expanding Medicaid and other health care options.
+
+Some 75 million people now receive Social Security. Two in five Americans use the Medicare and Medicaid health care programs. And more than 20 million are enrolled in the ACA, otherwise known as Obamacare.
+
+Republicans in Congress tried to repeal and replace Obamacare during Trump's first term, but those efforts collapsed. More recently, Trump's tax cuts bill required certain adults who use Medicaid to also work, volunteer or go to school, a shift that is expected to save billions of dollars as millions of people are thrown off the program.
+
+Meanwhile, congressional Democrats shut down the government last fall as they tried, and failed, to preserve expiring Obamacare subsidies that help some people purchase health insurance.
+
+## Conflict: The powers of war
+
+While Congress has the authority to declare war, the president as the commander-in-chief executes it. That divide inherent in the Constitution has been called a "'twilight zone' of concurrent authority," according to a Congressional Research Service report, referring to an earlier Supreme Court opinion.
+
+During the Vietnam War, Congress had had enough. In 1973, Congress passed the War Powers Act, which requires, among other provisions, that the president seek congressional approval of military action within 60 days of the start of a conflict.
+
+President Richard Nixon promptly vetoed it.
+
+"Saving our Nation from autocracy demands, at the minimum, that Congress begin the process of becoming again a truly coequal branch of Government," said Republican Sen. Mark Hatfield of Oregon during the debate to override Nixon's veto.
+
+This year, Congress has voted multiple times on war powers resolutions that would stop Trump's military actions in Iran and Venezuela, and prevent attacks on Cuba. None has made it to the president's desk.
+
+## Behavior: Censures and expulsions set a tone
+
+Congress sets many of its own rules and, in the process, sets a tone for the nation.
+
+The House first expelled members in 1861, ousting three representatives who "took up arms for the Confederacy during the Civil War," according to House history. The Senate notably censured anti-communist crusader, Republican Sen. Joseph McCarthy of Wisconsin.
+
+Once rare, censures and expulsions have become more common, particularly in the House.
+
+In 2023, the House voted to expel Republican Rep. George Santos of New York after Ethics Committee investigators said they found "overwhelming evidence" that he had exploited his public position for his own profit.
+
+More recently, Democratic Rep. Eric Swalwell of California and Republican Rep. Tony Gonzales of Texas resigned their seats rather than face possible reprisals over allegations about their personal conduct.
+
+---
+
+### Bageshwar Baba faces police complaint in Kolkata over remarks on Bengali identity and food habits
+*Ani · business*
+
+Kolkata: Congress leader Manash Sarkar has filed a police complaint against Dhirendra Shastri, also known as Bageshwar Baba, at Kolkata's Bhawanipore Police Station, alleging that his remarks about Bengali identity, food practices and Durga Puja hurt sentiments and could create social disharmony.
+
+Manash Sarkar told on Tuesday, "He has made remarks about Bengalis. He called us hypocrites. It means that we do anything in the name of religion. He is telling us what we should or should not eat. He is asking why we eat non-vegetarian food, why we eat fish, mutton, and chicken. Is he going to decide what we should eat? I am also asking the BJP leaders here: Do you agree with him or not?"
+
+  
+
+The Congress leader demanded an apology from Dhirendra Shastri and police action against him.
+
+"The RSS has taught him and brought him here. He is making statements against Bengalis. They (police) said they would look into it. If they do not, then we will have to proceed according to our own course of action. If he does not apologise, and if no action is taken under the law, then, as I said, we will do whatever is necessary. It is also possible that we will not allow him to enter Bengal," Sarkar added.
+
+Shastri's call against consumption of non-vegetarian food during Durga Puja in West Bengal has led to a stir in the State.
+
+West Bengal BJP President Samik Bhattacharya also maintained that consuming meat and fish is part of the Bengali culture.
+
+Samik Bhattacharya told reporters, "I am a political worker. What a sadhu says here or a maulvi says there-what does that have to do with us? I know that the workers of our party are happy. It is part of our West Bengal customs. Durga Puja is approaching; we Bengalis eat luchi on Ashtami, and we also eat kochi patha (meat) on Navami. We eat what we eat."
+
+Echoing a similar sentiment, West Bengal Minister Dilip Ghosh said, "... He expressed his opinion on a particular matter. If someone agrees with it, they can follow it. A large number of people in the country are vegetarian, while many people here have traditionally been non-vegetarian. Everyone has their own choice... Everyone is free to follow their own preferences..."
+
+
+---
+
 ## 8 September 2026
 
 ### The 'Mutton Kosha' Dilemma: Suvendu Adhikari's Saffron Tightrope In The Land Of The Fish-Eating Goddess
