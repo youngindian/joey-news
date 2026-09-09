@@ -1,8 +1,208 @@
 # Editorials
 
-_Last updated: 2026-09-08 06:24 UTC_
+_Last updated: 2026-09-09 06:30 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 9 September 2026
+
+### Falling edifice: On the Delhi private hostel building collapse
+*The Hindu · Editorial*
+
+The collapse of a five-storey building in Delhi, being run as a private hostel that killed seven and injured five in a densely populated colony abutting Delhi University’s South Campus, has brought to light the twin issues of haphazard development in the capital city’s residential areas and the shortage of affordable housing for students. With over 70,000 students entering Delhi University every year and almost half of them needing accommodation on a student budget, the city has failed to keep up with the growing demand. The University has, for all practical purposes, absolved itself of the responsibility, citing lack of land, leaving private players to cash in and run paying guest accommodations or private hostels that are not regulated. In a setup where every extra bed means more revenue, matchbox-sized rooms, often located in buildings that flout building bylaws and fire safety regulations and have no ventilation, are what several students call home. As soon as they arrive in the capital, students from many parts of the country realise that they are paying to live in the city not just in monetary terms but with their safety, security and sanity.
+
+The Delhi government says that it wants the city to be a national education hub and harness the soft power of its youth, but that will be not possible without addressing the need for affordable, safe student housing. The Delhi government has suspended five senior officers of the civic body, ordered a probe and announced that it was working on introducing a stringent policy under which every building used for public activity would be required to undergo periodic structural audits and obtain safety certifications. It must go beyond these reactive measures to seek more durable solutions. In 2024, the basement of a coaching centre flooded due to heavy rains claiming the lives of three civil service aspirants. After that incident as well, probes were ordered, basements were sealed and legal action was taken against owners but a larger systemic change remains elusive. The Centre and the Government of NCT must work together with educational institutions to develop more residential, travel and learning facilities for students. The introduction of four-year undergraduate programmes also means that students will stay on for an additional year, increasing the pressure on accommodation. Private hostels can be part of the solution, but crumbling civic infrastructure, illegal construction and lack of safety audits must be tackled through policy and strict enforcement.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/falling-edifice-on-the-delhi-private-hostel-building-collapse/article71442976.ece)
+
+---
+
+### Perilous retreat: On gram sabhas, tribal land issues
+*The Hindu · Editorial*
+
+Tribal organisations should recognise the Indian state’s attempt to lower the legal barriers erected by the Forest Rights Act (FRA) as a threat to their survival. The Committee on Public Undertakings’ suggestion that a project require the consent of only most, rather than all, gram sabhas affected by that project, as the FRA intends in spirit, portends a significant jurisprudential change. A regime that deems the acquiescence of 70%-75% of affected gram sabhas to suffice will reduce gram sabhas from democratic bodies protecting the constitutional rights of its specific inhabitants to corporate stakeholders. If the rule enters force, a project developer may bypass the consent of a village located directly within a proposed reservoir, say, while ensuring that less affected villages have provided their no-objection certificates. The matter is of a piece with the political fight over classifying tribal communities: by altering the demographic composition of who qualifies as a community member, the state will have an easier time splitting a village assembly and engineering consent. The refusal of the Tribal Affairs Ministry to claim jurisdiction over this issue creates a dangerous regulatory vacuum that leaves the Centre and State governments unchecked to rewrite the rules by which forested land is diverted for non-forest use. While the FRA does not include a clause requiring a no-objection certificate from every affected gram sabha, it is untrue that there is at present no legal requirement that gram sabha decisions can be bypassed.
+
+The government has been rapidly scaling up energy infrastructure, including the long-stalled Teesta-IV project, to meet macroeconomic goals while, in a previous avatar, having passed the FRA to undo “historical injustices” meted out to forest-dependent communities. But the path the state seems willing to pursue, hewing to the notion that the consent requirement was never part of the FRA, is plainly ignoble. If the Environment Ministry entertains the idea, it must change the relevant rules or legislation openly and democratically. The Tribal Affairs Ministry resorting to a technicality, between the FRA and the Environment Ministry’s rules, to recuse itself is hardly better as the bureaucratic manoeuvre could strip forest-dependent communities of their most potent legal instrument. The foundation of these communities’ livelihoods, culture, identity, and political autonomy is land, so they have fought to resist displacement and dispossession and to secure customary collective ownership. In recognition of the social and environment services ST communities continue to render in India and their contribution to national development, including helping meet India’s climate commitments, the Centre and States must also strengthen the powers conferred by the Land Acquisition, Rehabilitation and Resettlement and Panchayats (Extension to Scheduled Areas) Acts to gram sabhas in Scheduled Areas.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/perilous-retreat-on-gram-sabhas-tribal-land-issues/article71442994.ece)
+
+---
+
+### Reclaiming universities through trust, student voice
+*The Hindu · Opinion*
+
+Indian students, particularly Gen Z, are increasingly asserting their freedom and autonomy and demanding accountability. Now, some of the brightest law students are in the news for the wrong reasons, but Chief Justice of India (CJI) Surya Kant deserves some credit for his timely intervention in staying the Bar Council of India (BCI)’s atrocious order about the NALSAR graduating batch; quashing all FIRs against the protesting students; declaring that the BCI has no disciplinary control over the students, and reducing the three-year practice condition to just one year to write the judicial services examination.
+
+The question is not whether the students were right or wrong in seeking a say in their own convocation. The real question is why students are so upset with the governance model of universities that, at times, they not only lose hope but also cross the boundaries of decency and satire. To suggest that this happened simply because of an oral remark by the CJI, which was quickly clarified, is to oversimplify the deeper governance crisis in higher education. How should universities be governed? What is the role of free speech and academic autonomy? And why are Vice-Chancellors increasingly unable to command students’ respect or resolve such issues internally?
+
+At the core must lie academic freedomUniversities cannot function without academic freedom. The Indian Constitution does not explicitly mention academic freedom but there are number of Constitutions which do have such a provision such as Article 5(3) of German Basic Law specifically guarantees right to scientific freedom (Wissenschaftsfreiheit) as the constitutional right to everyone engaged in scholarly teaching and research. The Constitutions of Japan, South Africa, Portugal and Spain too contain such a freedom. Article 137 of Basic Law of Hong Kong says that educational institutions may retain autonomy and enjoy academic freedom. Ideally, government should not dictate universities what to teach, how to teach and what not to teach. Nor should universities deny this freedom to departments and faculties. Recently, the Delhi University dropped a paper on Delhi Sultanate along with some other papers. Gen Z is intelligent enough to see that such curriculum changes have ideological reasons. University curriculum should ideally be decided by the stakeholders including students.
+
+Related StoriesSilencing academia, weakening democratic space
+
+The ceding of academic freedom in universities
+
+Why academic freedom matters
+
+Is academic freedom a made-up concept?
+
+Academic freedom and free speech on university campuses are extremely important as universities are supposed to provide a special place for reflection, inquiry and discussion. It is nobody’s case that they have any right to defame people or indulge in anti-national activities. If an academic activity involves ‘conduct’ rather than free speech, the state would certainly be entitled to regulate such ‘conduct’. Today, even in the West, academic freedom is under serious strain. Federal funding in the U.S. has been weaponised to reshape campus culture, diversity programmes have been dismantled, and research funding in areas such as climate change has been reduced. Universities have also faced pressure for allowing student protests, including those over Gaza. Both right- and left-wing regimes have, at times, sought to control universities.
+
+History offers many examples — from Arnold Toynbee’s resignation from King’s College London in 1924 over his writings on the Greek army’s atrocities, to the persecution of professors during the McCarthy era. With declining public funding, research agendas are increasingly influenced by funders, corporations, and pharmaceutical companies, making a mockery of academic freedom.
+
+The shadow of ‘control’We are witnessing student protests because universities are not governed well. Governments increasingly seek to control universities, and administrations have consequently adopted a ‘control model’ of governance. Most universities remain Vice-Chancellor-centric, while students — who are the very reason universities exist — have little say in their governance. When grievances are not addressed promptly, students feel ignored and suffocated; some take extreme steps. The government is often blamed, but much of the backlash could be avoided if university administrations engaged students in meaningful dialogue and provided timely relief. Vice-Chancellors rarely hold open houses and are often inaccessible to ordinary students. Universities are communities of highly educated faculty and intelligent young people; they require dialogue, trust and openness—not excessive control and surveillance.
+
+Related Stories‘What happened was wrong. Gen Z has united against what is going wrong’
+
+Gen Z’s voice must lead to a humane education system
+
+The stark reality of the missing jobs for India’s Gen Z
+
+The object of universities is to innovate and create knowledge, but knowledge creation cannot happen in a controlled environment. It requires the freedom to question everything and challenge existing ideas. Despite the repeated reverence for ancient India, India’s education system remains over-regulated and grossly underfunded. Its ancient Gurukul system was entirely autonomous, yet, today, India remains far from the National Education Policy 2020’s promise of public investment of 6% of GDP in education. Public investment in education has steadily declined, hovering around 4%-4.1%, with higher education investment getting the smallest pie.
+
+Meanwhile, public university infrastructure has deteriorated and there is an acute shortage of hostels leading to tragedies such as the one in New Delhi, faculty positions remain vacant, and guest faculty are poorly paid. Faculty recruitment processes are faulty with an over-emphasis on ideological leanings rather than merit. Poor teaching frustrates students, while repeated examination paper leaks add to their stress. Eventually, this frustration erupts — not against university administrations, but against the government itself.
+
+We even over-look gross violations of natural justice principles in the appointment of Vice-Chancellors. In one case, a Vice-Chancellor not only changed the composition of the selection committee but also chaired it and voted in the selection of his wife. She was appointed as Vice-Chancellor, and the judiciary declined to follow its own precedents of quashing such appointments. Ultimately, the government received the brickbats for the actions of the Vice-Chancellor.
+
+On the ‘liberty model’Over 16 years as a Vice-Chancellor, this writer implemented what can be described as the new ‘liberty model of governance’ across three universities. Such a model works when students are trusted and, they in turn, act more responsibly. Students have often felt comfortable in meeting the Vice- Chancellor without appointments, sometimes sharing personal concerns and difficulties. This trust has also made it easier to have frank conversations with them, including when difficult or unpopular decisions had to be taken.
+
+Unlike the ‘control’ or top-down model, the ‘liberty model’ views universities as spaces where even the most unpopular ideas can be freely debated. Students should have a meaningful role in academic, administrative and financial decisions, including faculty appointments, procurement, curriculum design and drafting of university regulations. In older institutions such as Aligarh Muslim University, students even have a statutory role in selecting the Vice-Chancellor. We need to democratise our campuses if we want to address the growing problem of student protests.
+
+Ideological governments may in a few cases prefer candidates who have particular ideological leanings, but merit should not be completely undermined. There have also been appointments of individuals with questionable records and adverse CVC reports, while some State universities face allegations of bribery. Paper leaks reflect a similar systemic failure. No examination system can be foolproof if paper setters, moderators or testing officials are appointed for reasons other than absolute merit and integrity.
+
+If the government really wants to win back the confidence of students, universities must become student-centric rather than Vice-Chancellor-centric. Let us embrace the liberty model and reject the dated and regressive control model of university governance. India’s students deserve nothing less than the best.
+
+Faizan Mustafa is Vice-Chancellor of Chanakya National Law University, Patna, having previously served as Vice-Chancellor of NALSAR, Hyderabad, and the National Law University Odisha (NLUO), Cuttack. The views expressed are personal
+
+[Read full article](https://www.thehindu.com/opinion/lead/reclaiming-universities-through-trust-student-voice/article71443775.ece)
+
+---
+
+### DC Edit | Cong Has A Real Shot In Punjab
+*Deccan Chronicle · Editorial*
+
+As Punjab heads for the polls early next year, the political scenario is becoming increasingly competitive. The ruling Aam Aadmi Party, the Congress and an increasingly ambitious BJP have begun preparing themselves. This could well become a closely fought contest, and the party that puts its house in order first could gain a decisive advantage.
+
+Sachin Pilot’s appointment as Congress general secretary in-charge of Punjab added another dimension to the battle for Punjab. The Congress, which remains a formidable force in the state, however, is ridden with factionalism. With state Congress leaders, particularly former chief minister Charanjit Singh Channi and state Congress president Amrinder Singh Raja Warring locked in a bitter power struggle, Mr Pilot might just have been called in to face one of his most difficult assignments. He is expected to douse the fires and make the Congress battle-ready. Before Mr Pilot can chalk out a plan to defeat AAP, he has to defend his own bastion. And that’s easier said than done.
+
+Another Rajasthan leader, Satish Poonia, has been made in-charge of the state by an ambitious BJP. If Mr Pilot has been sent to put the Congress’ house in order, Mr Poonia’s assignment is to turn the comparatively weak BJP into a credible fighting force. It’s a daunting task because the BJP’s problem in Punjab is not merely the vote share, but the party’s electoral base itself which remains too narrow to dream of any kind of a breakthrough. Moreover, there is an absence of a social and organisational base that can convert votes into seats. In short, the BJP does not yet have a state-wide political constituency. And BJP wants Mr Poonia to lead the charge in this mission impossible. And even as the BJP flexes its limited political muscle and threatens to go it alone, the party would struggle to make a serious electoral mark without the Shiromani Akali Dal (SAD).
+
+For AAP, which swept to power in 2022, the main hurdle is the burden of incumbency. The party has also lost its freshness and a widening gap between its promise and delivery has given the Opposition ammunition. If Mr Pilot can contain the simmering differences and factionalism within the party, the Congress has the capacity of breasting the tape. Bringing in former CM Captain Amarinder Singh after getting him to exit the BJP might provide a way forward, if backchannel efforts succeed. For, despite being an octogenarian, he remains the tallest and most charismatic leader in the state.
+
+The Congress, thus, with its deep grassroots network and leaders across Malwa, Majha and Doaba has a fighting chance to return to power. History shows that the party won Punjab in 1992, 2002 and 2017 despite factionalism. Of the 13 Lok Sabha seats in Punjab, the Congress had won seven indicating the party’s base has not yet disappeared. And the Akalis’ decline, AAP’s vulnerability, and the Congress’ ability to combine Jat Sikh, Dalit and urban Hindu votes could put the party ahead in the race. But again, for it, the danger comes from within. It badly needs to take a lesson from the 2024 Haryana Assembly elections. Then, even though the party had everything going for it, it squandered a winnable election because of internal feuding. It was not the BJP’s campaign or electoral strategy that defeated it as much as the raging Bhupinder Singh Hooda-Selja Kumari feud. The lesson here being, do not fight the CM battle, before winning the election.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-cong-has-a-real-shot-in-punjab-1985931)
+
+---
+
+### Lateral Entry: Great Talent Hunt vs The Constitution
+*Deccan Chronicle · Opinion*
+
+It was a convincing experiment borrowed from the West, especially the US of A. Civil services in most nations was on shaky grounds: too bureaucratic, too rigid, sometimes more powerful than the legislature as was reflected in British series like Yes Minister and Yes Prime Minister, and a bit rusted as well as corrupt. Like the White House, Raisina Hill decided to follow suit, and recruit the so-called technocrats, the specialists from the outside, especially the private sector, into government’s top ranks. Such expertise, skills and efficiency would obviously break the stranglehold of the civil services, and inject it with fresh, hot, and boiling blood. But, alas, like most decisions with grand intentions, this one too ran into a giant, seemingly insurmountable obstacle, the Indian Constitution.
+
+The so-called lateral entry model, which envisaged hirings by the department of personnel and training (DoPT) to outsiders, rather than via state IAS and allied cadres, sidestepped a crucial component of the Constitution, i.e., reservations for Scheduled Castes, Scheduled Tribes and Other Backward Classes. An administrative reform became a political minefield. It was not just the numbers. It was the arithmetic and calculations too, along with a mind-blowing complexity. According to the 2011 Socio-Economic Caste Census, there are more than 46.7 million castes, with different names and spellings. It was a stark reminder that reservations were a ticking appointment-bomb, which could explode in the face of any neutrality-based administrative appointment mechanism.
+
+The Union Public Service Commission (UPSC) was forced to withdraw a major recruitment notification, which exposed the inevitable collision between market-driven talent hunt and constitutional equity. There was no option but to press the pause button. DoPT extended the tenures of 17 government officials, which will go on till late 2026 and early 2027. Among the joint secretaries who benefited are Balasubramanian Krishnamurthy in revenue, Samuel Praveen Kumar in agriculture, and Manish Chadha in commerce. Directors and deputy secretaries including Govind K. Bansal, Sagar Rameshrao Kadu, Mandakini Balodhi, Kapil Ashok Bendre, Shekhar Chaudhary, Neeraj Gaba, Hardik Sheth, Bidur Kant Jha, Gaurav Kishor Joshi, and G. Sarathy Raja across several ministries.
+
+A via-media was found, standalone recruitment, which wriggled around reservations, and could be done without attracting attention. Yet, the lateral-entry experiment received another traumatic blow. It sadly struggled to retain the talent it was designed to attract. Rigid government pay scales, limited increments, uncertain performance rewards and friction derailed the aspirations of private-sector aspirants.
+
+Rajasthan’s trio: One throne, two viziers
+
+In the strange theatre of Indian politics, like in a true democracy, anyone can rise from the deeply lows to superlative heights. This, in short, is the story of Bhajan Lal Sharma, the Rajasthan chief minister. He has deep RSS roots, and spent decades as a BJP worker, thrice as district president of the youth wing, and as the party’s state vice-president, and general secretary. At 27, he became the sarpanch of his village, Atari. In 2023, he entered the Rajasthan Assembly for the first time and, within days, became the chief minister. He is believed to enjoy the tacit backing of Union Home minister Amit Shah. Bhajan Lal’s two trusted lieutenants, his viziers, effectively run the state. V. Srinivas, the 1989-batch IAS officer, is chief secretary, and received an extension till February 2027. Akhil Arora, the 1993-batch troubleshooter, is the additional chief secretary in the chief minister’s office, the second-most powerful post. Together, with the blessings from the ‘king’, the trio dismantled old camps, repositioned experienced officers, and forged a new alignment that depended on delivery, investments, and centralised control. Until now, things proved to be smooth, too silken. Now comes the real test: ongoing elections to 309 urban local bodies, including 10 municipal corporations (September 9 and 11). There is another challenge. The OBC Commission’s new survey has reduced the percentage of these castes from the oft-believed 52 per cent to 43-45 per cent, or an overall reservation closer to 19 per cent, rather than the expected 21 per cent. Although the full report remains unpublished, the anger is simmering. Bhajan Lal’s future seems unsteady. Although he is the de jure chief minister, the de facto authority rests with his two lieutenants, and Mr Amit Shah.
+
+Foreign ambassadors go beyond briefings
+
+Diplomats posted in New Delhi are currently on a limb. After the Gen Z movement in July, subsequent political turbulence and the government’s efforts to connect with the youngsters, the foreign ambassadors do not know where to seek credible and insightful information. Confronted with restricted access and official narratives they do not entirely trust, they...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/lateral-entry-great-talent-hunt-vs-the-constitution-1985940)
+
+---
+
+### A rethink on urban expansion
+*Deccan Herald · Editorial*
+
+The High Court’s decision to quash the acquisition of 1,938 acres of land in Anekal for the Karnataka Housing Board’s Suryanagar 4th Phase layout is a reminder that housing needs cannot be met at the environment’s expense.
+
+The division bench found that the proposed layout falls within the Eco-Sensitive Zone around Bannerghatta National Park and overlaps the Karadikkal-Madeshwara elephant corridor.
+
+Earlier, a single judge had permitted the acquisition on the condition that KHB obtain clearances from the Union Ministry of Environment, Forest and Climate Change (MoEFCC).
+
+Staying that order, the bench noted that KHB had failed to secure the mandatory approval from the standing committee of the National Board for Wildlife and had not conducted adequate environmental and socio-ecological assessments.
+
+'Tunnel may damage Lalbagh rock, widen cracks': GSI expert committee flags risksWith the boundaries of the ESZ still under litigation, pushing ahead with such a large development was especially questionable. The court held that the project was misconceived and would have irreversible ecological consequences.
+
+The ruling vindicates concerns raised for more than a decade. Farmers had opposed the acquisition over compensation and loss of agricultural land, while conservationists had warned of its impact on wildlife movement and the risk of human-elephant conflict.
+
+A subsequent proposal to build an 80,000-capacity international cricket stadium on 70 acres of the site has deepened concerns about pressure on the fragile landscape. Several acres have already been flattened, and officials who authorised such violations must be held accountable.
+
+More fundamentally, Suryanagar highlights the contradiction in the government’s approach to the ‘Beyond Bengaluru’ policy. Despite proclamations of decentralised growth, major projects continue to push the city’s urban footprint into its periphery.
+
+Bidadi township, KWIN City, and the rebranding of neighbouring districts as part of the capital’s extension risk producing a larger Bengaluru rather than independent economic centres.
+
+Bengaluru is already bursting at the seams and struggling to cope with its infrastructure and civic pressures. Its legal drinking-water allocation from the Cauvery is capped at 24 TMC a year.
+
+Extending the metropolis deeper into the surrounding areas will only add to that demand and risk worsening the scarcity Bengaluru already faces. Seen against this backdrop, NITI Aayog’s call for developing a second hub away from the capital deserves consideration.
+
+The Suryanagar verdict should prompt a larger rethink. Bengaluru cannot fix the fallout of over-concentration and its housing problems by destroying forests on its outskirts. As the High Court rightly observed,
+
+“Housing is not the only requirement for human existence. Ecology, wildlife, forests, water streams, etc., are equally important.”
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/a-rethink-on-urban-expansion-4139770)
+
+---
+
+### EOS-05 mission: Thrust and rebound
+*Deccan Herald · Editorial*
+
+With its third and final orbit-raising manoeuvre complete, the EOS-05 is set for observations from about 36,000 km above the Earth’s surface. This is India’s first imaging satellite from a geosynchronous orbit. Its position and pace, locked to the Earth’s rotation, enable continuous observation – a marked improvement on the outcomes achieved through Low Earth Orbit (LEO) satellites.
+
+With the success of this mission, the second in the Gisat programme, the Indian Space Research Organisation (ISRO) is set to significantly enhance capabilities in monitoring weather events such as floods, cyclones, and forest fires through advanced imaging across visible, infrared, multispectral, and hyperspectral bands.
+
+With quicker revisits, the EOS-05 facilitates greater frequency in imaging compared to the LEO satellites. The 2,367-kg satellite is designed to track landforms and water bodies in close detail. With the space agency mentioning the strategic significance of the satellite, its utility basket likely includes national security.
+
+Eye in the sky: ISRO successfully launches India's first-ever imaging satellite EOS-05Configured for real-time observation, the EOS-05 can provide key input in disaster warning and damage assessment, and augment capabilities in agricultural management. These are important tools to possess at a time marked by heightened climate risks and frequent extreme weather events across the world.
+
+In the long term, learnings from a series of earth observations can help India sharpen its emergency response systems. The advantage of continuous imaging can extend beyond climate resilience and prove crucial in stepping up strategic surveillance along sensitive landscapes in the region.
+
+The EOS-05 mission comes after a recent run of failures for India’s space agency. In May 2025, the PSLV-C61/EOS-09 suffered a third-stage failure. The satellite was designed to deliver continuous remote-sensing data for applications across sectors. In January this year, the PSLV-C62/EOS-N1 mission failed, too, following an anomaly in the PS3 stage.
+
+The commercial mission was intended to launch the Earth observation satellite EOS-N1, along with 15 co-passenger satellites from domestic and international customers.
+
+The setbacks had caused concerns for ISRO, after a series of successful launches and big-ticket missions such as Chandrayaan-3. These reverses occurred at a time when ISRO’s capabilities for cost-effective, impactful missions were gaining credence.
+
+The two failures also left the agency facing questions regarding its workhorse launcher, the PSLV. With the GSLV-F17 placing the EOS-05 on its intended orbit, ISRO will now hope to carry the momentum into its mission line-up. Topping the list is India’s first human spaceflight programme, Gaganyaan, which has achieved the validation of human-rating systems. The mission is scheduled to have its first uncrewed flight in late 2026.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/eos-05-mission-thrust-and-rebound-4139769)
+
+---
+
+### India still cannot count its displaced population
+*Deccan Herald · Opinion*
+
+On July 24, as floods hit Upper Assam, official reports said more than 700,000 people were affected. A week later, with 82 deaths reported, another update put the number at 178,000. By August 10, the death toll had passed 100, and officials said at least 49,000 people were still staying in 125 relief camps and distribution centres.
+
+These numbers all mean different things: people affected at different times, and those still in shelters weeks later. Look closely, and even the most detailed coverage of this disaster can't answer a basic question: how many people in Assam lost their homes, and for how long?
+
+That should worry us more than the flood itself. Assam floods almost every year. An assessment by World Weather Attribution found that this year's rainfall was not unusual by local standards: measured over both three and 30 days, it had a return period of under two years, meaning rain on this scale is due roughly every year or two — not once a generation. The study blamed expanding settlement, vanishing wetlands, and unstable construction — not an intensifying climate. Roughly a tenth of Assam's people, more than three million, live on chars (low-lying river islands) that flood almost on schedule, and ~40% of Assam’s land is flood-prone. This is not a freak disaster, but a known, mapped, recurring liability India has had decades to build a matching accounting system for, and largely has not.
+
+Climate change making floods in Assam more frequent, harder to predict: ReportThe scale is not small. In 2024, India recorded 5.4 million disaster-related displacements, its highest in more than a decade, with Assam's floods accounting for almost half. Over the past 10 years, India has seen 32.3 million such displacements, more than any country except China and the Philippines. Yet no single institution maintains a permanent, comparable figure for how many people remain displaced, and for how long, with the regularity of a death toll.
+
+Oddly, money is tracked far more closely than people. The 16th Finance Commission raised the five-year budget for State Disaster Response and Mitigation Funds to Rs 2,04,401 crore for 2026-2031, up nearly 28%, with another Rs 79,406 crore set aside nationally; Assam alone will receive Rs 5,825 crore. The Union home ministry's system, the NDMIS, already tracks damage and spending district-by-district. Yet, the money often goes unspent.
+
+In the last cycle, the Comptroller and Auditor General found that more than half the National Disaster Response Fund meant for states went unused in FY2025 — about Rs 6,118 crore of Rs 11,474 crore approved by Parliament — with still more idle in the mitigation and special-assistance funds. India can say how much approved money went unused, but not how many people were still without a home three months after a flood.
+
+Part of the reason is that displacement has no legal home in India. No national law or policy recognises internally displaced persons as a category, and India has not accepted the United Nations' Guiding Principles on Internal Displacement. The Disaster Management Act of 2005 authorises relief and rehabilitation, but relief is triggered by a certified death or a damaged house, not by a running count of who remains away from home. Displacement, as a result, is nobody's specific job.
+
+Odisha floods: 3 killed, over 2 lakh affected; all major rivers in spate after heavy rainThis is fixable without new legislation. The Finance Commission has tied future access to disaster funds, from FY2028, to states keeping real-time data on the NDMIS portal. The Union home ministry could use the same lever to require a displacement module: a shared national definition of who counts as displaced, reported not only during the emergency but at fixed intervals afterwards — say at 30, 90, and 180 days. States could extend the granular daily bulletins Assam's disaster authority produces well past the point where camps close, since chronic displacement on the chars continues long after the cameras leave. The National Disaster Management Authority could make that duration data, not just expenditure data, a condition for the next tranche of funds, as it now proposes for real-time damage data.
+
+News about Assam's floods have faded from mainstream media well before its displaced residents are back home. What India's disaster system still lacks is not sympathy, or funds. It is a settled answer to an ordinary bureaucratic question: how many of its citizens are, right now, still not home — and for how long.
+
+Ankit Mishra is an ICSSR Fellow at the Govind Ballabh Pant Social Science Institute, Prayagraj. Samanta Sahu is an Associate Professor at the Govind Ballabh Pant Social Science Institute, Prayagraj.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/india-still-cannot-count-its-displaced-population-4140111)
+
+---
 
 ## 8 September 2026
 
@@ -63,6 +263,23 @@ T.S. Tirumurti is Chair, Steering Committee, Deccan Centre for International Rel
 
 ---
 
+### DC Edit | Defence Push Right On Time
+*Deccan Chronicle · Editorial*
+
+The Defence Acquisition Council’s approval of procurement proposals worth Rs 1.10 lakh crore from the Army, Navy and Air Force is a timely move to strengthen India’s military preparedness amid rapidly changing geopolitical and security conditions in the region. The proposals address critical requirements of three services ranging from battlefield mobility and surveillance to electronic warfare and aviation capabilities.
+
+As modern conflicts are no longer restricted to conventional weapons, the armed forces must be equipped to identify and operate in areas contaminated by hazardous agents. Therefore, the proposed acquisition of chemical, biological, radiological and nuclear reconnaissance vehicles is significant for the Army. High mobility vehicles, mechanical mine layers, trawl tanks and the Sarvatra Bridge System will improve the Army’s ability to move troops and equipment rapidly across difficult terrain.
+
+Similarly, the procurement of Advanced Light Helicopters (ALH) will strengthen operational flexibility for the Army and Air Force. Helicopters play an indispensable role in reconnaissance, casualty evacuation, troop transport and logistical support, the acquisition of ALHs will be of crucial importance.
+
+The proposal to design, develop and procure indigenous marine gas turbines will be crucial for the Navy. The gas turbines are important for warship propulsion, for which India is currently dependent on foreign suppliers. Developing this strategic capability locally could reduce vulnerability to supply disruptions, sanctions and shifting diplomatic alignments. Missiles and ground-based multi-purpose jammers for the Air Force recognise the growing importance of electronic warfare and stand-off combat.
+
+As all the proposals are expected to be procured from Indian industry, the Rs 1.1 lakh crore acquisition could strengthen domestic manufacturing, create skilled employment and deepen the country’s defence-industrial base. However, the government must ensure that the acquisition must be completed in time without an excuse, and without cost escalation or operational compromise as such delays can leave dangerous capability gaps.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-defence-push-right-on-time-1985902)
+
+---
+
 ### BJP Shows Flickers Of Life Beyond Modi-Shah Grip
 *Deccan Chronicle · Opinion*
 
@@ -85,6 +302,45 @@ The CJP tide has receded for the moment with the fledgling organisation calling 
 The moot question is whether the BJP is slowly stepping out of the shadow of Mr Modi, who had placed himself as the big leader since 2014. And if that were to happen, then Mr Nabin and his colleagues will have to find their own voice. Of course, it would be unrealistic to expect the new team to abandon the anti-minority, anti-Nehru venom that has fetched the party its electoral dividend. But if the returns on these stale topics are seen to be falling, then Team Nabin would have to look for something different. As of now, Mr Nabin is showing signs of being his own man in the circumscribed space of party programmes, he could remain active in the limited sphere. There is...
 
 [Read full article](https://www.deccanchronicle.com/opinion/columnists/bjp-shows-flickers-of-life-beyond-modi-shah-grip-1985650)
+
+---
+
+### SCO At 25: A Mirror Of Eurasian Chasms
+*Deccan Chronicle · Opinion*
+
+The 25th anniversary summit of the Shanghai Cooperation Organisation (SCO) was held in Bishkek, Kyrgyzstan, on August 31 and September 1. Instead of reflecting a celebration, it manifested a mirror of the strategic cleavages within Eurasia.
+
+Twenty-five years ago, the Shanghai Five was a local arrangement aimed at stabilising post-Soviet frontiers and dealing with the main anxiety around regional extremism. It has since enlarged into a weightier strategic institution, now gathering around 40 percent of the global population in its fold.
+
+However, as leaders of its 10 members arrived in Bishkek to attend the summit and the opening of the biannual Nomad Games, the SCO expressed a basic anxiety that lies at its core: can such a body be an effective umbrella for rivalries among its members and yet be a stable balancer to the liberal, Westernised global order?
+
+For China and Russia, the summit was an important event to manifest unity and to be seen as leading a multipolar alternative global system. Moscow used the SCO to show that Western sanctions and attempts to isolate it have not really succeeded across the Global South and Eurasia, as was also evident in the case of the Russia-Asean summit.
+
+China, however, manifests economic capacity and uses its BRI to be the unrivalled contributor to infrastructure development in Central Asia. Its commitments are coalescing around important trade corridors such as the China-Kyrgyzstan-Uzbekistan railway. China continues to promote trade settlement in local currencies to circumvent the US dollar and make China the primary economic locomotive for the region.
+
+Both China and Russia intend to institutionalise economic arrangements through an SCO development bank, with a parallel SCO development fund. These could make important differences in the region beyond what China has achieved through the BRI.
+
+At Bishkek, these were discussed as important mechanisms to fund regional infrastructure and support members from the impact of Western sanctions, which is important for Russia and Iran in particular.
+
+Progress remains slow because of internal differences. China seeks another version of the Asian Infrastructure Investment Bank, where there would be weighted capital allocations to the members. This would be in China’s favour, given the size of its economy. Russia and India, for instance, prefer a body where voting rights are equally distributed, as is the governance, so that China does not become the dominant force in these institutions.
+
+Due to this, a political consensus around the necessity of a development financial institution has grown, but the idea of the bank is still under discussion and cannot be seen as a functional alternative to global lenders at present.
+
+With regard to security, the summit emphasised the importance of the Regional Anti-Terrorist Structure (RATS), based in Tashkent, which has long provided the SCO with a strong basis. RATS is supposed to deal with the SCO’s main anxieties of terrorism, separatism and extremism. Given the low level of achievement of the SCO, RATS remains its most functional institution.
+
+To its credit, intelligence sharing, growing unified watch lists and common exercise frameworks, which could deal with extremist networks across Central Asia, have been working to some extent. The efficiency and impact of RATS, however, are constrained by regional rivalries and the inability to have common basic definitions and accept counterterrorism measures without pointing out national political repression by members. This remains a challenge to its work.
+
+Cleavages among member states have prevented seamless intelligence integration, which would make RATS more useful. However, to blame India and Pakistan, who have only become members relatively recently, is to overlook the fact that these problems persisted in the years before their membership and affected RATS’s efficacy as well.
+
+These national priorities and strategic rivalries were taken advantage of in India’s participation. India showed that it would not be simply co-opted into an anti-Western bias, meticulously maintaining its strategic autonomy.
+
+At Bishkek, India asserted its national priorities on security. Prime Minister Modi clearly criticised state-sponsored terrorism, double standards in dealing with cross-border violence, and cautioned against such activity.
+
+On connectivity, India supported regional infrastructure but said it must respect national sovereignty and territorial integrity, referring to the CPEC under the BRI running through Pakistan-occupied Jammu and Kashmir. Mr Modi’s emphasis on digital public infrastructure (DPI), cultural diplomacy and trade stability showed that India intended to be a stabilising, autonomous bridge rather than a passive participant in a China-led enterprise with Russian support.
+
+The Central Asian republics, four of five of whom are members, since Turkmenistan is permanently neutral, were dealing with the summit pragmatically, understanding the ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/sco-at-25-a-mirror-of-eurasian-chasms-1985922)
 
 ---
 
