@@ -1,3 +1,620 @@
+## 10 September 2026
+
+### US Bond Yields Hit Highest Levels Since 2023 After Treasury Department Announces Up To $6 Billion Buyback
+*Mohammad Haris · business*
+
+US 10-year Treasury yield rises to 4.84%, its highest closing level since Oct 2023. Yields moved higher after the Treasury dept's announcement, signaling skepticism from investors.
+
+[Read full article](https://www.news18.com/business/markets/us-bond-yields-hit-highest-levels-since-2023-after-treasury-department-announces-up-to-6-billion-buyback-ws-l-10320030.html)
+
+---
+
+### Akasa Air lets woman board 8 minutes late, users ask why rules were bent
+*India Today Trending Desk · general*
+
+## A passenger who missed Akasa Air's baggage cut-off by eight minutes was still allowed to board after the staff assessed a workaround. Her post has sparked a debate over consistency in applying airline rules.
+
+A passenger praised Akasa Air for letting her board after delay. (Photo: @rashmikothari98/X)
+
+A passenger’s praise for Akasa Air after she was allowed to board eight minutes past the baggage cut-off has triggered a debate online. While she called it an example of good customer service, many users questioned the exception.
+
+Rashmi Kothari shared her experience on X after travelling from Kolkata to Bengaluru on an 8.25 pm Akasa Air flight. She said she left home at 5.40 pm, expecting the journey to the airport to take around an hour.
+
+"Google Maps showed 1 hour 22 minutes because of a flyover closure, and the traffic only got worse," she wrote. Rashmi said she eventually reached the airport at 7.33 pm, eight minutes after the airline’s baggage check-in cut-off.
+
+She expected that she might have to leave her large suitcase behind or take another flight. Instead, she said the Akasa Air team listened to her situation and worked out a solution.
+
+According to Rashmi, the airline agreed to let her take the suitcase through security and hand it over at the boarding gate. She said the Central Industrial Security Force (CISF) personnel took a few minutes to assess the situation before allowing the baggage through.
+
+Rashmi eventually boarded the flight and thanked Akasa Air for making what could have been a stressful situation easier.
+
+“Airlines have policies. Good customer service is about knowing when to apply empathy within those policies,” she wrote.
+
+**See the post:**
+
+Her gratitude was acknowledged by the airline as well. “We appreciate you taking the time to share such a heartfelt note about your journey with us. Your thoughtful words mean a great deal to us, especially the way you recognised the care and effort behind the experience,” they wrote.
+
+However, her post also drew criticism. Several users questioned whether the same flexibility would be extended to other passengers who miss the baggage cut-off. Some said airline rules are usually enforced strictly and wondered why an exception was made in this case.
+
+Others raised concerns about the security aspect of allowing a large suitcase through after the regular baggage check-in deadline.
+
+Some users also pointed out that they had experienced similar flexibility or good customer service from Akasa Air.
+
+\- Ends
+
+Srimoyee Chowdhury
+
+Sep 10, 2026 10:04 IST
+
+---
+
+### China buys 1 million tons of US soybeans ahead of Xi visit, sources say
+*Reuters · world*
+
+China bought 14 to 15 cargoes of US soybeans this week, or around 1 million metric ‌tons, ⁠four ⁠traders told Reuters, as the world's top oilseed buyer steps up purchases ahead of Chinese President Xi Jinping's visit to Washington later this month.
+
+The purchases ⁠take China's ‌total US ​soybean buying ​to nearly half of ⁠the 25 million tons the White ​House said Beijing had committed ​to annually through 2028.
+
+  
+
+Chinese state stockpiler Sinograin booked the cargoes for shipment from US Gulf terminals between ‌December and February,  
+traders said.
+
+Sinograin did not immediately ​respond to ​Reuters' ⁠requests for comment.
+
+The US Department of Agriculture on Wednesday reported 340,000 tons of US soybean sales to China and another 100,000 tons to unknown destinations.
+
+---
+
+### 'iPhone is no more competing with Samsung; it's competing with Royal Enfield': iPhone 18 prices fuel meme frenzy, 'kidney', bullet bike and gold comparison jokes
+*Trending Desk · business*
+
+The new iPhone 18 pricing has given social media something more than another Apple-versus-Samsung debate. This time, users are comparing the phone with Royal Enfield motorcycles, gold, Bitcoin and even their own kidneys. The jokes started flying as people reacted to the price of the latest iPhone lineup, with some posts pointing out that a premium iPhone can now cost about as much as a new adventure motorcycle.
+
+One viral comparison put the Royal Enfield Himalayan OG 440 at around ₹2.80 lakh on-road and the iPhone Duo 256GB at ₹2.99 lakh. The punchline was simple: for roughly the price of the phone, a buyer could get a brand-new motorcycle, fill its tank and still have some money left.
+
+  
+
+"You could literally buy a brand-new adventure bike on-road, ride across India, and still have ₹30,000 left over," one social media post joked.
+
+That comparison quickly turned into a broader meme: "iPhone is no longer competing with Samsung; it's competing with Royal Enfield."
+
+  
+
+## From smartphone upgrade to 'two kidneys' joke
+
+Apple's pricing has long been fertile ground for the internet's kidney jokes, but the latest prices have brought the old gag back. "To buy iPhone Duo you need two kidney," another post said, playing on the familiar internet joke that people have to sacrifice something valuable to afford a new iPhone.
+
+  
+
+> — imAsif2612 (@imAsif2612)
+
+Another meme took a slightly different approach, saying the phone was called "iPhone Duo" because users would need two jobs to afford it. The humour is exaggerated, of course. But it reflects a very real reaction to the increasingly expensive top-end smartphone market, particularly when buyers compare a phone's price with other large-ticket purchases.
+
+  
+
+## 'iPhone or Himalayan?' Social media finds a new comparison
+
+The Royal Enfield comparison has probably been one of the most relatable jokes because the two products represent completely different kinds of spending.
+
+> — IamTarunJoshii (@IamTarunJoshii)
+
+A Himalayan can be taken on highway trips, off-road rides and long journeys. It is something that can potentially become part of a person's travel plans and daily life.
+
+An expensive smartphone, meanwhile, fits into a pocket.
+
+That contrast is exactly what makes the meme work.
+
+"iPhone Duo is competing directly with RE Himalayan :)" one post said, while another simply declared that Apple's phone had moved beyond the traditional Samsung rivalry.
+
+The joke also plays into a larger social media habit in India: comparing the price of expensive gadgets with cars, bikes, jewellery and other tangible purchases.
+
+## One meme turns iPhone into a 'crorepati' plan
+
+Another viral post used the price difference between markets as the basis for a tongue-in-cheek investment strategy.
+
+> — AshishGupta325 (@AshishGupta325)
+
+It claimed that someone could buy an iPhone in the US for around ₹1.9 lakh, sell it in India for ₹3 lakh and make about ₹1.09 lakh. The post then jokingly suggested repeating the exercise 100 times to become a crorepati.
+
+The arithmetic is presented as a meme, not a serious wealth-building strategy.
+
+Actual international resale involves taxes, currency conversion, purchase limits, availability, travel costs and other factors, so the idea of making a guaranteed profit repeatedly is obviously not as straightforward as the post suggests.
+
+Still, the meme shows how quickly iPhone prices can become a talking point beyond the technology world.
+
+## From Bajaj Finserv jokes to 'iPhone registry'
+
+The internet did not stop with motorcycles and kidneys. One social media post joked that a Bajaj Finserv event would announce higher card limits, supposedly up to ₹5 lakh, specifically for iPhone buyers.
+
+Another took the joke further, claiming that the government would introduce a new "iPhone registry" and allow government banks to offer five-year loans for the phone.
+
+These are clearly satirical posts, but they underline the same point: users are treating the latest iPhone prices almost like the price of a major consumer purchase rather than a routine electronics upgrade.
+
+And that is what makes the memes work.
+
+## iPhone vs Bitcoin: a different kind of price comparison
+
+One of the more unusual memes compared the price of an early iPhone with Bitcoin.
+
+The post showed the iPhone 5 at $649 in 2012, alongside Bitcoin at around $12. It then compared that with an iPhone 18 Ultra price of around $2,000 and Bitcoin at $78,265.
+
+The intended joke was that one technology product loses value over time while the other became an enormously valuable asset.
+
+The comparison is not really about whether consumers should buy Bitcoin instead of an iPhone. It is another example of social media using price history to make fun of the rising cost of flagship phones.
+
+## Pakistan memes take the joke even further
+
+The meme frenzy has not been limited to India. A post listing iPhone 18 series prices in Pakistan claimed prices of ₨4,83,157 for the iPhone 18 Pro, ₨5,27,107 for the iPhone 18 Pro Max and ₨8,78,707 for the iPhone Duo.
+
+> — De\_le\_Vega (@De\_le\_Vega)
+
+The same post listed higher prices for the 1TB and 2TB versions, with the 2TB iPhone Duo reaching ₨ 13,11,000.
+
+That led to another obvious reaction from social media: at those prices, buying the phone starts to feel like a financial decision rather than simply choosing the next smartphone.
+
+## Why expensive iPhones always become meme material
+
+Apple's iPhones occupy an unusual place in Indian pop culture. They are smartphones, but they are also status symbols, aspirational products and, increasingly, objects of comparison with other expensive purchases.
+
+Whenever a new model arrives with a higher price tag, social media quickly converts that number into a joke.
+
+Sometimes it is a kidney.
+
+> — DiscoveryXplore (@DiscoveryXplore)
+
+Sometimes it is a motorcycle.
+
+Sometimes it is gold or Bitcoin.
+
+This time, the Royal Enfield Himalayan has entered the conversation.
+
+And perhaps the most memorable line from the latest meme cycle sums up the mood best:
+
+> — ankitbarnwal10 (@ankitbarnwal10)
+
+**"iPhone is no longer competing with Samsung; it's competing with Royal Enfield."**
+
+The joke may be exaggerated, but the comparison is likely to keep circulating as buyers work out whether the latest iPhone is worth the money.
+
+> — techygeeeky (@techygeeeky)
+
+---
+
+### PM-Xi Jinping bilateral likely at BRICS, first in India since 2020 Galwan clash
+*Pranay Upadhyaya · general*
+
+## Chinese President Xi Jinping is set to arrive in New Delhi on Saturday for the BRICS Summit, where he is likely to hold his first bilateral meeting with PM Narendra Modi since the 2020 Galwan Valley clash.
+
+Prime Minister Narendra Modi and Chinese President Xi Jinping during the Kazan BRICS Summit in October 2024. (Photo: Reuetrs)
+
+Prime Minister Narendra Modi is likely to hold a bilateral meeting with Chinese President Xi Jinping on the sidelines of the BRICS Summit in New Delhi on September 12, marking the first face-to-face bilateral talks between the two leaders since the deadly Galwan Valley clash in 2020.
+
+The proposed meeting is expected to be closely watched as India and China seek to consolidate a cautious thaw in ties following years of military tensions, diplomatic estrangement and strained economic engagement.
+
+Xi is scheduled to arrive in New Delhi on Saturday for the 18th BRICS Leaders' Summit, which India will host on September 12 and 13. His visit will mark his first trip to India in seven years and his first since the 2020 border crisis. New Delhi and Beijing, however, are yet to issue a formal statement confirming the proposed bilateral.
+
+The two leaders recently shared the stage at the Shanghai Cooperation Organisation (SCO) Summit in Kyrgyzstan's Bishkek, where they shook hands but did not hold a formal bilateral meeting.
+
+### DIPLOMATIC ENGAGEMENT AHEAD OF XI'S VISIT
+
+Ahead of Xi's India visit, National Security Adviser (NSA) Ajit Doval travelled to China for high-level discussions as part of efforts to sustain diplomatic engagement between the two countries.
+
+The Working Mechanism for Consultation and Coordination (WMCC) on India-China border affairs has also met, followed by talks between the two countries' Special Representatives on the boundary question.
+
+The renewed diplomatic engagement comes amid a gradual stabilisation of ties following the disengagement of troops from several friction points along the Line of Actual Control (LAC).
+
+### FROM GALWAN TO CAUTIOUS STABILISATION
+
+India-China ties have remained under severe strain since June 2020, when troops of the two countries engaged in a violent confrontation in the Galwan Valley in eastern Ladakh. Twenty Indian soldiers were killed in the clash, while China later acknowledged the deaths of four of its soldiers.
+
+The confrontation triggered a prolonged military stand-off along the LAC and resulted in a sharp deterioration in political, economic and diplomatic relations.
+
+Since then, the two sides have held multiple rounds of military and diplomatic negotiations aimed at disengaging troops and easing tensions at friction points along the border. While the disengagement process has reduced the immediate risk of military confrontation, the broader boundary dispute remains unresolved.
+
+The PM Modi-Xi meeting would therefore carry considerable political significance, coming after years of limited high-level engagement between the two countries.
+
+The two sides have increasingly relied on military and diplomatic channels to manage differences, prevent further escalation and create conditions for a gradual stabilisation of ties. The proposed summit-level engagement could provide an opportunity to build on that process.
+
+### ARUNACHAL PRADESH A KEY CONCERN
+
+Despite the easing of tensions in eastern Ladakh, the wider boundary dispute continues to pose a major challenge to India-China relations, with Arunachal Pradesh remaining one of the most sensitive areas.
+
+China claims the entire Indian state, which it refers to as "Zangnan" or southern Tibet. India has consistently rejected the claim, maintaining that Arunachal Pradesh is an integral and inalienable part of the country.
+
+The eastern sector has recently attracted renewed attention following reports of increased Chinese military activity and aggressive posturing in Arunachal Pradesh’s Upper Subansiri region. The developments have added another layer of complexity to efforts by New Delhi and Beijing to improve bilateral relations.
+
+India has repeatedly maintained that peace and tranquillity along the border are fundamental to the development of the broader bilateral relationship.
+
+China has also, since 2017, released its own lists of names for places in Arunachal Pradesh. India has repeatedly dismissed the move as an attempt to reinforce Beijing's territorial claims through administrative and cartographic measures, asserting that assigning alternative names to locations in Indian territory cannot alter their legal or territorial status.
+
+New Delhi has similarly rejected Beijing's criticism of India's decision to formally identify 27 places and geographical features in Arunachal Pradesh by their standard Indian names.
+
+### WHAT COULD MODI-XI DISCUSS?
+
+A bilateral meeting between PM Modi and Xi could cover the boundary question, regional security, trade and investment, people-to-people exchanges and mechanisms to prevent a renewed escalation along the LAC.
+
+The talks would also take place against a complex global backdrop, with India and China facing economic and geopolitical headwinds arising from US President Donald Trump’s tariff measures and heightened instability following US military interventions in West Asia.
+
+For New Delhi, renewed engagement with Beijing is likely to be calibrated around two parallel objectives: maintaining peace and stability along the border while expanding areas of economic and diplomatic cooperation that serve India's broader strategic interests.
+
+For Beijing, high-level engagement with New Delhi could help consolidate the recent improvement in bilateral ties while strengthening cooperation within BRICS and other multilateral forums.
+
+\- Ends
+
+Karishma Saurabh Kalita
+
+Sep 10, 2026 09:51 IST
+
+---
+
+### IIT scholarships, fellowships for exam rankers: IIT Kharagpur’s Rs 90,000 grant to IIT Kanpur’s Rs 3 lakh aid
+*Education Desk · legal*
+
+IITs are offering substantial scholarships and fellowships to top JEE Advanced, GATE and JAM performers, with benefits reaching Rs 90,000 monthly or Rs 3 lakh annually.
+
+[Read full article](https://indianexpress.com/article/education/iit-offers-special-scholarship-fellowship-exam-achievers-gate-jee-advanced-entrance-exam-phd-stipend-amout-iits-kanpur-kharagpur-delhi-full-list-jee-advanced-gate-jam-10870408/)
+
+---
+
+### 6 mainboard IPOs enter Day 2: Karamtara Engineering, Steamhouse India, LCC Projects & more; check GMP, subscription status
+*Ritesh Presswala · finance*
+
+The IPO action is heating up as six mainboard public issues enter the second day of bidding today, giving investors just three days—until September 11—to place their bids. With a diverse mix of offerings on the table, investors have plenty to track, from subscription trends and grey market premiums (GMP) to issue sizes and investor appetite.
+
+The six IPOs currently open for subscription include Rentomojo, Karamtara Engineering, LCC Projects, Steamhouse India, Manipal Payment & Identity Solutions, and Asset Reconstruction.
+
+Among the six offerings, Rentomojo IPO is the biggest, targeting a fundraising of Rs 1,255.57 crore. It is followed by Karamtara Engineering IPO, which aims to raise Rs 875 crore, while Manipal Payment & Identity Solutions IPO is seeking to raise around Rs 805 crore.
+
+Meanwhile, Asset Reconstruction IPO has an issue size of Rs 732.97 crore, while LCC Projects IPO and Steamhouse India IPO are looking to raise Rs 427.14 crore and Rs 414 crore, respectively.
+
+Investor interest has been particularly strong in three issues. Rentomojo, Karamtara Engineering and LCC Projects IPOs were fully subscribed on Day 1 itself, setting the stage for potentially strong bidding activity as they enter the second day.
+
+With all six issues now moving through the second day of subscription, investors will closely watch GMP movements, subscription numbers and category-wise demand to gauge market sentiment ahead of the September 11 closing date.
+
+  
+
+## Karamtara Engineering IPO
+
+Karamtara Engineering IPO is a book-built issue worth Rs 875 crore. The offering comprises a fresh issue of 2.66 crore shares aggregating to Rs 675 crore and an offer for sale of 78.74 lakh shares worth Rs 200 crore. The IPO opened for subscription on September 9 and close on September 11, 2026. The allotment is expected to be finalised on September 15, while the shares are scheduled to list on NSE and BSE on September 17.
+
+On Day 1, the IPO received an overall subscription of 1.27 times. The Retail Individual Investors (RIIs) category was subscribed 1.07 times, while the Non-Institutional Investors (NIIs) portion saw a subscription of 1.81 times. The Qualified Institutional Buyers (QIBs) category was subscribed 1.20 times.
+
+The price band has been fixed at Rs 241 to Rs 254 per share, with a lot size of 59 shares. Retail investors will need to invest a minimum of Rs 14,986 to bid for one lot at the upper end of the price band. JM Financial Ltd. is the book-running lead manager, while MUFG Intime India Pvt. Ltd. is the registrar.
+
+Karamtara Engineering IPO is currently commanding a GMP of Rs 75, translating into a premium of around 30% over the upper price band of Rs 254. Based on the current grey-market premium, the estimated listing price stands at around Rs 329 per share.
+
+## LCC Projects IPO
+
+LCC Projects IPO is a book-built issue of Rs 427.14 crore. The issue comprises a fresh issue of 1.77 crore shares aggregating to Rs 258 crore and an offer for sale of 1.16 crore shares worth Rs 169.14 crore. The IPO opened on September 9 and remain open until September 11, with allotment expected to be finalised on September 15. The shares are proposed to be listed on NSE and BSE on September 17.
+
+On Day 1, the IPO received an overall subscription of 1.32 times. The Retail Individual Investors (RIIs) category was subscribed 1.26 times, while the Non-Institutional Investors (NIIs) portion saw a subscription of 1.72 times. The Qualified Institutional Buyers (QIBs) category was subscribed 1.14 times.
+
+The IPO has a price band of Rs 139 to Rs 146 per share and a lot size of 102 shares. Retail investors will need a minimum investment of Rs 14,892 for one lot at the upper price band. Motilal Oswal Investment Advisors Ltd. is the book-running lead manager and KFin Technologies Ltd. is the registrar.
+
+LCC Projects IPO has a current GMP of Rs 45, representing a premium of around 30% over the upper price band of Rs 146. The implied listing price based on the latest GMP is around Rs 191 per share.
+
+## Steamhouse India IPO
+
+Steamhouse India IPO is a Rs 414 crore book-built issue comprising a fresh issue of 4.36 crore shares worth Rs 353 crore and an offer for sale of 75.31 lakh shares aggregating to Rs 61 crore. The IPO opened for subscription on September 9 and closes on September 11. The allotment is expected on September 15, with a tentative listing date of September 17 on both NSE and BSE.
+
+On Day 1, the IPO received an overall subscription of 42%. The Retail Individual Investors (RIIs) category was subscribed 70%, while the Non-Institutional Investors (NIIs) portion saw a subscription of 30%. The Qualified Institutional Buyers (QIBs) category has not yet received any bid.
+
+The price band has been fixed at Rs 77 to Rs 81 per share, while the lot size is 185 shares. Retail investors will require a minimum investment of Rs 14,985 for one lot at the upper price band. Equirus Capital Ltd. is the book-running lead manager, while KFin Technologies Ltd. is the registrar.
+
+Steamhouse India IPO is currently trading at a GMP of Rs 20, or approximately 25% above the upper price band of Rs 81. Based on the latest GMP, the estimated listing price is around Rs 101 per share.
+
+## Manipal Payment & Identity Solutions IPO
+
+Manipal Payment & Identity Solutions IPO is a book-built issue of Rs 805 crore, making it the third-largest IPO among the six issues opening on September 9. The offering comprises a fresh issue of 94.40 lakh shares aggregating to Rs 320 crore and an offer for sale of 1.43 crore shares worth Rs 485 crore.
+
+On Day 1, the IPO received an overall subscription of 17%. The Retail Individual Investors (RIIs) category was subscribed 73%, while the Non-Institutional Investors (NIIs) portion saw a subscription of 13%. The Qualified Institutional Buyers (QIBs) category has not yet received any bid.
+
+The IPO opened on September 9 and closes on September 11, 2026. The allotment is expected to be finalised on September 15, followed by a tentative listing on NSE and BSE on September 17. The price band has been fixed at Rs 322 to Rs 339 per share and the lot size is 44 shares. Retail investors will need a minimum investment of Rs 14,916 for one lot at the upper price band.
+
+Motilal Oswal Investment Advisors Ltd. is the book-running lead manager and MUFG Intime India Pvt. Ltd. is the registrar. The IPO currently commands a GMP of Rs 8, translating into a premium of around 2% over the upper price band of Rs 339. Based on the latest GMP, the estimated listing price is around Rs 347 per share.
+
+## Asset Reconstruction IPO
+
+Asset Reconstruction IPO is a Rs 732.97 crore book-built issue and is entirely an offer for sale. The issue comprises 5.27 crore shares worth Rs 732.97 crore, with no fresh issue component.
+
+On Day 1, the IPO received an overall subscription of 38%. The Retail Individual Investors (RIIs) category was subscribed 56%, while the Non-Institutional Investors (NIIs) portion saw a subscription of 33%. The Qualified Institutional Buyers (QIBs) category received a 9% bid.
+
+The IPO opens for subscription on September 9 and closes on September 11. The allotment is expected to be finalised on September 15, while the shares are scheduled to list on NSE and BSE on September 17. The price band has been set at Rs 132 to Rs 139 per share, with a lot size of 107 shares. The minimum retail investment at the upper price band is Rs 14,873.
+
+IIFL Capital Services Ltd. is the book-running lead manager and MUFG Intime India Pvt. Ltd. is the registrar. Asset Reconstruction IPO is currently commanding a GMP of Rs 24, or around 17% over the upper price band of Rs 139. This indicates an estimated listing price of approximately Rs 163 per share.
+
+## Rentomojo IPO
+
+Rentomojo IPO is the biggest offering among the six IPOs opened on September 9, with the company looking to raise Rs 1,255.57 crore. The issue comprises a fresh issue of 37.15 lakh shares aggregating to Rs 150 crore and an offer for sale of 2.74 crore shares worth Rs 1,105.57 crore.
+
+On Day 1, the IPO received an overall subscription of 1.42 times. The Retail Individual Investors (RIIs) category was subscribed 1.54 times, while the Non-Institutional Investors (NIIs) portion saw a subscription of 2.46 times. The Qualified Institutional Buyers (QIBs) category was subscribed 41%.
+
+The IPO opened for subscription on September 9 and close on September 11, 2026. The allotment is expected to be finalised on September 15, while the shares are tentatively scheduled to list on NSE and BSE on September 17.
+
+Rentomojo IPO has a price band of Rs 384 to Rs 404 per share and a lot size of 37 shares. Retail investors will need a minimum investment of Rs 14,948 for one lot at the upper price band. Motilal Oswal Investment Advisors Ltd. is the book-running lead manager, while KFin Technologies Ltd. is the registrar.
+
+The IPO is attracting significant attention in the grey market, with the latest GMP at Rs 130 per share. This represents a premium of around 35% over the upper price band of Rs 404. Based on the current GMP, the estimated listing price is around Rs 547 per share.
+
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of Economic Times)
+
+---
+
+### AirPods 5 vs AirPods 4: What’s New?
+*Nithya P Nair · technology*
+
+Both AirPods 5 and AirPods 4 feature Apple's H2 headphone chip.
+
+[Read full article](https://www.gadgets360.com/audio/features/airpods-5-vs-airpods-4-comparison-12026428)
+
+---
+
+### Low credit score? Improve your credit score with 6 simple steps to build a stronger credit profile - Your credit score isn't stuck. Here's proof
+*ET Online · finance*
+
+Sep 10, 2026, 09:49:45 AM IST
+
+1/9
+
+## Your credit score isn't stuck. Here's proof
+
+A low score feels permanent, it isn't. With focused habits, most people see real movement in their score within just 6 months. No shortcuts, no magic fixes — just a clear plan.  
+
+ET Online
+
+2/9
+
+## One number, endless consequences
+
+Your credit score quietly decides how much you pay for everything borrowed. A weak score means higher interest on home and personal loans, tougher credit card approvals, and sometimes even pricier insurance or a harder time renting. Fix the number, and doors start opening.  
+
+Getty Images
+
+3/9
+
+## Step 1: Know your number before you fix it
+
+You can't improve what you haven't checked. Pull a free credit report from CIBIL, Experian, Equifax, or CRIF High Mark. Scan it for wrong personal details, unfamiliar accounts, or misreported payments — and flag anything that looks off immediately.  
+
+Getty Images
+
+4/9
+
+## Step 2: Late payments are your score's biggest enemy
+
+Payment history alone shapes over a third of your score. Set up auto-pay for every EMI and credit card bill. Even a single missed due date can undo months of progress, consistency here matters more than anything else on this list.  
+
+Getty Images
+
+5/9
+
+## Step 3: Stop maxing out your cards
+
+Using too much of your available credit signals risk to lenders. Keep your usage under 30%, ideally closer to 20%. Pay down balances before your statement closes, and if you can, ask for a higher limit without spending more.  
+
+Getty Images
+
+6/9
+
+## Step 4: Resist the urge to apply for more credit
+
+Every new loan or card application triggers a hard inquiry, and too many in a short window makes you look financially stretched. While you're rebuilding, pause new applications completely, let your existing accounts do the work.  
+
+Getty Images
+
+7/9
+
+## Step 5: Errors on your report can quietly sink you
+
+Wrong late payments or incorrect balances happen more often than people think. File a dispute directly with the credit bureau, attach proof, and get it corrected. It's one of the fastest legitimate ways to see a score bump.  
+
+Getty Images
+
+8/9
+
+## Step 6: Don't close old cards, ever
+
+It feels like cleanup, but closing an unused card can shrink your total credit limit and shorten your credit history — both hurt your score. Leave old accounts open and inactive; their age is quietly working in your favor.  
+
+Getty Images
+
+9/9
+
+## 6 months of discipline, a lifetime of better rates
+
+There's no overnight fix — banks report to bureaus monthly, so changes take 30-45 days to show. But stack these habits consistently for 3-6 months, and the climb becomes real. Start today; your future score is already listening.  
+
+Getty Images
+
+---
+
+### Iran likely to reverse-engineer captured US underwater drone
+*SECTIONS Iran likely · world*
+
+Synopsis
+
+Iran has captured a United States military underwater drone, which raises concerns. Tehran may study and reverse engineer the advanced vessel, presenting a setback. The United States military and drone maker Anduril have downplayed the drone's significance. Iranian embassies have mocked the United States for losing the submersible drone. This incident highlights a propaganda victory for Tehran and an awkward setback for Washington.
+
+Reuters
+
+Iran likely to reverse-engineer captured US underwater drone  
+
+WASHINGTON: Iran's capture of a U.S. military underwater drone gives Tehran an opportunity to study and potentially reverse engineer ​the vessel, delivering a setback for the Pentagon and ​drone maker Anduril.
+
+The U.S. military and Anduril have downplayed the significance of the drone falling into Iranian ​hands. The vessel, a Dive-LD autonomous underwater vehicle designed for long-range surveillance and other undersea missions, is among a new generation of military drones intended to operate for days with little human intervention. Washington has previously treated the loss of advanced drones to Iran as a serious matter.
+
+After Iran captured an RQ-170 Sentinel stealth reconnaissance drone ‌in 2011, then-President Barack ⁠Obama publicly ⁠asked Tehran to return the aircraft. Iran later claimed it had reverse-engineered the drone and subsequently unveiled domestically produced models that appeared to draw heavily on its design.
+
+  
+
+More recently, the ​U.S. military moved swiftly to prevent Iranian forces from taking possession of uncrewed maritime technology. In 2022, a U.S. Navy patrol ship and MH-60S Seahawk helicopter ​were deployed after an Iranian naval vessel attempted to tow away a Saildrone surface vessel in the Gulf, according to the Navy.
+
+Analysts say Iran is unlikely to gain a decisive military advantage from the captured drone, but the episode nonetheless represents a propaganda victory for Tehran and an ​awkward setback for Washington's efforts to project technological superiority.
+
+**IRANIAN EMBASSIES MOCK U.S.**
+
+Iranian embassies around the ⁠world have mocked ‌the U.S. for losing its drone. Iran's embassy in Ghana, in a post on X, boasted about picking the ​submersible up in "a ​strait controlled by people who can hear a shrimp sneeze," adding that, "Our guys picked it up like a plastic ⁠bottle in a fishing net. Fully intact. Still blinking like an idiot. Condolences to ​whoever was holding the joystick."
+
+U.S. Navy Captain Tim Hawkins of U.S. Central Command said the "defective drone ​was an older model that neither collected sensitive data nor carried any classified sonar or radar equipment." Anduril did not immediately respond to a request for comment.
+
+"Of course Iran will take every opportunity as a propaganda win," said Farzin Nadimi, a senior fellow at the Washington Institute for Near East Policy. "It can help the (Islamic Revolutionary Guard Corps) make better versions of their own designs."
+
+Iran will almost certainly try to pry open the drone's hardware, but the drone's software carries built-in defenses, said Bryan Clark, a senior fellow and director of the Center for Defense Concepts and Technology ‌at the Hudson Institute. Iranian engineers "could definitely reverse-engineer the mechanical systems," he said, pointing to Tehran's track record with captured American aircraft.
+
+"Unboxing ceremony by our reverse engineers, tomorrow morning!" Iran's embassy in Hyderabad wrote on X.
+
+The incident has ​also highlighted a disconnect ​between the messaging of Anduril and its customer, ⁠the U.S. Navy.
+
+Navy officials said the Dive-LD was an older-model vehicle that suffered a malfunction and was recovered by Iranian forces after being left "dead in the water."
+
+Anduril has promoted the Dive-LD as "the most reliable and flexible" large autonomous underwater vehicle available, saying it is capable of operating for ​up to 10 days in demanding conditions. In addition to its use by the U.S. Navy, the Dive-LD was the testbed vehicle for the development of Australia's new Ghost Shark large underwater drone.
+
+"This is something that Iran has proven very adept at exploiting for its own benefit in terms of seeking to frame the narrative as one of U.S., in this case, ineptitude and their ability to sort of retain control over the Strait of Hormuz," said Mona Yacoubian, director of the Middle East program at the Center for Strategic and International Studies.
+
+---
+
+### Kanohar Electricals IPO Day 3: GMP signals 35% premium, subscription crosses 10x. Should you subscribe?
+*Ritesh Presswala · finance, ipo*
+
+The Kanohar Electricals IPO has entered its third and final day of bidding, drawing strong interest from investors. A grey market premium (GMP) of around 35% has added to the buzz, keeping the issue firmly in focus ahead of its anticipated stock market debut.
+
+By the end of Day 2, the IPO had been subscribed 10.22 times, with investors bidding for shares against the 1.16 crore shares on offer. Retail investors displayed particularly strong demand, with the retail individual investor (RII) portion subscribed 8.49 times, compared with the 58.46 lakh shares reserved for the category.
+
+Kanohar Electricals IPO is a book-built issue worth Rs 1,055.74 crore, comprising a fresh issue of 47.47 lakh shares worth Rs 300 crore and an offer for sale (OFS) of 1.20 crore shares amounting to Rs 755.74 crore.
+
+The IPO price band has been fixed at Rs 601–Rs 632 per share, while the lot size is 23 shares. At the upper end of the price band, retail investors will need to shell out a minimum of Rs 14,536 for one lot.
+
+Kanohar Electricals IPO opens for subscription on Sep 8, 2026 and closes on Sep 10, 2026. The allotment for the Kanohar Electricals IPO is expected to be finalized on Sep 11, 2026. Kanohar Electricals IPO will list on NSE and BSE with a tentative listing date fixed as Sep 16, 2026.
+
+Nuvama Wealth Management Limited and IIFL Capital Services Limited are the book-running lead managers for the issue, while MUFG Intime India Private Limited is acting as the registrar.
+
+  
+
+## Kanohar Electricals IPO Subscription Status
+
+The Kanohar Electricals IPO continued to attract strong investor interest on the second day of bidding, with the issue receiving an overall subscription of 10.22 times against the 1.16 crore shares on offer.
+
+Among investor categories, the Retail Individual Investors (RIIs) portion was subscribed 8.49 times, with 58.46 lakh shares reserved for the category.
+
+Demand was even stronger in the Non-Institutional Investors (NIIs) segment, which was subscribed 19.22 times against the 25.05 lakh shares offered.
+
+Meanwhile, the Qualified Institutional Buyers (QIBs) category recorded a subscription of 6.50 times, compared with the 33.40 lakh shares reserved for institutional investors.
+
+## Kanohar Electricals IPO GMP Today
+
+The Kanohar Electricals IPO continues to trade at a healthy premium in the grey market. The latest Grey Market Premium (GMP) stands at Rs 223 per share, implying a premium of around 35% over the IPO's upper price band of Rs 632. Based on the current GMP, the estimated listing price stands at around Rs 855 per share, suggesting a potentially strong listing gain over the IPO's upper price band.
+
+**GMP Note:** The Grey Market Premium (GMP) is an unofficial indicator of market sentiment and is not regulated or guaranteed by stock exchanges. GMP levels can change before the listing, and the actual listing price may vary significantly from estimates based on grey-market trends.
+
+## IPO Objects of the Issue
+
+Kanohar Electricals plans to use the net proceeds from the IPO primarily to fund its capital expenditure requirements, with an estimated allocation of Rs 64.18 crore. The company also proposes to deploy Rs 155 crore towards incremental working capital requirements.
+
+The remaining proceeds will be utilised for general corporate purposes. Overall, the company plans to utilise approximately Rs 219.18 crore from the issue proceeds towards these objectives.
+
+## Financial Performance
+
+Kanohar Electricals reported a 45% year-on-year increase in total income, rising from Rs 457.30 crore in FY25 to Rs 662.86 crore in FY26. The company also recorded strong growth in profitability during the period. Profit after tax (PAT) nearly doubled, climbing 99% from Rs 65.12 crore in FY25 to Rs 129.73 crore in FY26, highlighting a significant improvement in its bottom line.
+
+## About Kanohar Electricals Ltd.
+
+Incorporated in 1972, Kanohar Electricals Limited is an Indian transformer manufacturer serving the power transmission, railways, renewable energy and power distribution sectors. The Company operates across two segments: transformer manufacturing and EPC services. It is one of only four Indian manufacturers certified by RDSO to manufacture 100 MVA, 132 kV Scott transformers. Kanohar operates two manufacturing facilities in Meerut, Uttar Pradesh, with a combined transformer manufacturing capacity of 19,200 MVA as of March 31, 2026. The Company also has five regional offices across India and a workforce of 526+ employees.
+
+## Should you subscribe?
+
+According to AnandRathi research report, "The company offers exposure to the structural growth in India’s power transmission and distribution sector, supported by rising grid investments, renewable energy integration and increasing demand for high-voltage transformers. However, the high customer concentration, dependence on the Transformer Manufacturing Business and government/transmission utility orders warrant a measured outlook. At the upper price band, the company is valued at 38.6x FY26 P/E and 28.0x EV/EBITDA, implying a post-issue market capitalisation of Rs 50,046 million. While the valuation is at a premium to Transformers & Rectifiers (India) Limited at 32.2x P/E and 20.8x EV/EBITDA, the premium is supported by Kanohar’s superior recent growth and profitability profile. Accordingly, we recommend a “Subscribe – Long Term” rating for the issue.
+
+SBI Securities said, “At the upper price band of Rs 632, the issue is valued at 38.6x FY26 post-issue P/E, which appears reasonable given its strong growth trajectory, niche certifications, robust order pipeline and favourable industry tailwinds. We recommend subscribing to the issue at the cut-off price.”
+
+Arihant Capital said, “At the upper price band of Rs 632 per share, the issue is valued at approximately 38.58x FY26 earnings, depending on the share-count methodology used. The premium valuation is supported by strong earnings growth, improving margins, high ROCE and a sizeable order book. However, investors should monitor customer concentration, government/PSU dependence, execution risk, commodity-price volatility and the sustainability of the recent margin expansion. We recommend subscribing for investors with a medium-to-long-term horizon.”
+
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of Economic Times)
+
+---
+
+### Tarique Rahman’s BRICS dilemma: Challenges, choices and opportunities for Bangladesh
+*Sanjay K Bhardwaj · opinion, regional*
+
+As a BRICS chair, India is hosting the 18th BRICS Summit on 12-13 September in New Delhi. Prime Minister Narendra Modi has invited Bangladesh’s counterpart Tarique Rahman to the Outreach Session of the summit. Bangladesh has been in top priority of India’s “Neighbourhood First Policy.” Earlier in 2023, erstwhile Prime Minister of Bangladesh Sheikh Hasina had participated in New Delhi’s G-20 summit on India’s invitation. Bangladesh is presently chairing BIMSTEC. For Dhaka, the BRICS invitation offers a global opportunity beyond its immediate regional role in South Asia. Otherwise also, New Delhi has invited Tarique Rahman second time to India for a bilateral visit, first being in February, 2026.
+
+**BRICS: A seat at a bigger table** 
+
+Bangladesh is at a delicate point in its development trajectory. The country was scheduled to graduate from the ‘LDC’ status to ‘Developing Country’ status in November 2026, a transition that is tied to its Vision 2041. However, it now seeks a three-year deferment from UN Committee for Development Policy to strengthen its trade and investment, protect export competitiveness and stabilise its economy. It has chosen strategic consolidation over immediate graduation. The final decision is expected as UN General Assembly session begins this month where the USA’s support is vital. Bangladesh currently holds the UNGA presidency and Foreign Minister Khalilur Rahman is presiding over its 88st session.
+
+At this moment, Bangladesh needs continued and trusted engagement, diversified economic markets and no isolation. BRICS has eleven members which account for about 49.5 per cent of the world’s population, around 40 per cent of the global GDP and approximately 26 per cent of the global trade. Bangladesh has been the part of this economic network through its membership of the New Development Bank since 2021, one of the first countries admitted after the bank’s original five founding members. 
+
+Three of BRICS’s big members- Russia, China and India are already Bangladesh’s closest and largest infrastructure development partners. Russia’s Rosatom is building Bangladesh’s first nuclear facility, the Rooppur Nuclear Power Plant in Ishwardi. The project is expected to supply about 10-12 per cent of Bangladesh’s electricity demand when it is fully operational. China has financed and supported the Karnaphuli Tunnel, Payra power project, Padma Bridge Rail Link, Dasherkandi sewage treatment plant and several others. India also has its own long-standing Line of Credits with Bangladesh, a soft loan amounting about $10b, associated with the connectivity projects such as Akhaura-Agartala rail link, Khulna-Mongla Port rail line, energy projects as Maitree Super Thermal Power Project at Rampal and many more.
+
+BRICS offers Bangladesh a closer and coordinated access to them through one platform. It is more than symbolic; it is a practical opportunity to be at the table and negotiate from within the bloc rather than as a mere recipient from the outside. Bangladesh can directly put forward its interests, discuss its differences, and advance its own development policy on trade, investments, technology, connectivity, both bilaterally and at the multilateral level.
+
+**Why high politics** 
+
+Domestic political calculations and external geo-political factors are at play. One possible reason could be a scheduling overlap with the UNGA session, but the second factor appears stronger, as Tarique wants to establish its own foreign policy posture distinct from that of Sheikh Hasina. Her extradition along with her public address from India, could be an immediate issue, but the traditional foreign policy approaches of the BNP; distancing from India and pursuing closer ties with China and Islamic world may be preventing him from visiting India. Thus, Rahman is in a dilemma in calibrating how close and how visibly, he should engage with India. In the post-Hasina period, the USA has significantly influenced the country’s domestic and foreign policy from Muhammad Yunus to present government of Tarique Rahman.  Here, BRICS is often read as a ‘non-Western’ and, at times, an ‘anti-Western’ formation. Thus, Tarique Rahman’s foreign-policy choices face complications in trying to balance relations with Washington, New Delhi and Beijing. This could be the strongest reason for avoiding him to participate in BRICS summit in New Delhi. 
+
+However, Tarique Rahman’s uncertainity over attending the New Delhi summit reflects that he is also prioritising ‘High Politics’ over ‘Low Politics’. The political calculations are dominating developmental approaches, which include economic and infrastructural gains. Thus, Bangladesh would lose a bigger opportunity to present itself to a major part of the global economy and global space precisely at the moment when it is preparing for a new stage of development. 
+
+**India-Bangladesh impasse** 
+
+India and Bangladesh are part of a common ecological organic system with complex socio-economic interdependencies. Both countries provide opportunities to each other. The geography of both countries serves as a land bridge connecting India’s northeastern states and Bangladesh with rest of South Asia. Their rivers, human resources, energy and border-security are all woven together. However, this interdependence is tested by geopolitical pressures time and again, with China offering huge investments in the Teesta River project and securing the Mongla Port modernisation deal during Tarique’s first foreign visit to China in June, 2026. India is facing strategic competition in its own sphere, particularly the highly sensitive Siliguri Corridor. 
+
+The contestations between the two countries viz. the extradition question, Teesta water-sharing, renewal of the Ganga Water Treaty, border management, and halted infrastructure projects could be resolved through dialogue and deliberation. Thus, this trust deficit at political and social levels since the 2024 transition could only be restored with political maturity and will.
+
+India has repeatedly shown its positive intent through reopening of visas, talks on restarting railway and connectivity projects, appointment of a political leader as new High Commissioner. The BRICS invitation is another such opening in line for Bangladesh. It need not necessarily mean an ‘alignment’; it provides a bigger room for negotiation. It is a multilateral platform where both India and China can be negotiated with, rather than choosing one at the expense of the other. Bangladesh should utilise this agency. 
+
+On India’s side, with the same political party in government at the Centre and in West Bengal, there is a greater scope to resolve the water-sharing issue and achieve better cooperation on other contentious issues as well. Nevertheless, after Tarique Rahman’s election to government, Bangladesh has hesitantly signalled a willingness to revive the relationship.
+
+**Conclusion** 
+
+The question is not whether the two countries need each other, as they do and will. India and Bangladesh cannot be separated by a single summit decision. New Delhi has already signalled very clearly that it is willing to engage with the political leadership in Dhaka. Tarique Rahman should use the BRICS opening to advance Bangladesh’s interests. Missing BRICS may make a domestic political point, but the larger cost is borne by Bangladesh’s development itself. Tarique must not miss the bus to meet the expectations of Bangladesh’s people.
+
+Facebook Twitter Linkedin Email
+
+###### Disclaimer
+
+Views expressed above are the author's own.
+
+###### END OF ARTICLE
+
+---
+
+### Israel opens first Slovenia embassy amid widening settlement dispute
+*India Today World Desk · general*
+
+## Israel opened its first embassy in Slovenia as Foreign Minister Gideon Saar visited Ljubljana. The move deepens a sharp policy shift in Slovenia and has intensified protests and political backlash.
+
+Stock photo used for illustration
+
+Israel on Wednesday opened its first embassy in Slovenia, in a move aimed at strengthening ties with the European Union country at a time when its relations with some long-standing allies have come under strain over its policy on illegal settlements in the occupied West Bank.
+
+Israeli Foreign Minister Gideon Saar travelled to Ljubljana for the opening, which also underlines a change in Slovenia's approach to Israel under right-wing Prime Minister Janez Jansa. The visit came a day after the United Kingdom banned trade with Israeli settlements in the occupied West Bank, while France and Canada announced similar action.
+
+After meeting Slovenian Foreign Minister Tone Kajzer, Saar called the embassy opening a "historic day". According to the STA news agency, he described Israel as "the only democracy in the Middle East and almost the only real and true partner of Europe". He added, "Moreover, we are defending Europe, Europe's security, directly and indirectly," and said that "Israel is the fortress on the front line for Western civilisation".
+
+Hundreds of pro-Palestinian protesters gathered outside the new embassy building and demanded its closure. Kajzer said, according to a foreign ministry post on X, "we want today's opening to mark the beginning of a period of greater dialogue, stronger cooperation and, above all, more tangible results for the benefit of our people".
+
+The latest diplomatic push comes as Israel faces growing criticism over the Gaza war. Israel reacted angrily to the British move on settlement trade and said it would close the British consulate in Jerusalem.
+
+Slovenia's position on Israel has shifted sharply since Jansa took office in early June. The previous centre-left government led by Robert Golob had been among the strongest critics of Israel in the European Union. It recognised a Palestinian state in 2024 and later imposed a ban in 2025 on imports from Israeli settlements, an arms embargo and entry bans on top Israeli officials, including Prime Minister Benjamin Netanyahu.
+
+After taking office, Jansa removed the Palestinian flag from the Slovenian government building, where it had been displayed alongside the Slovenian, EU and Ukrainian flags. His government later scrapped all measures against Israel. This week, Jansa said on X that his government was working to repair the damage of the previous administration. "The economic damage alone due to the anti-Semitic policies of the Golob coalition is enormous," he said.
+
+Golob accused his successor of blocking the EU from taking a tougher position on illegal settlements and told The Associated Press that the embassy opening marked "another step in the same direction of shifting away from international law". His Freedom Movement party said on Wednesday that it would seek to remove Jansa and Kajzer in Parliament. In August, media reports said Slovenia had pushed the EU to dilute a statement condemning Israeli settlements, prompting criticism at home and praise from Israeli officials. Kajzer told AP that "we never blocked anything" and that Slovenia was "constructively contributing to the discussion".
+
+Slovenian political analyst Andraz Zorko said the policy shift did not reflect what he believed to be the dominant public mood in the country. "The majority of Slovenian public is either against Israel or in some kind of neutral position," he said. Until now, Israel's embassy in Vienna handled its diplomatic interests in neighbouring Slovenia.
+
+Kajzer and Saar also signed a multi-sector cooperation agreement covering education, science, culture, youth and sport, according to STA. A business forum is also being held in Ljubljana. The embassy opening, protests outside it and the political reaction in Slovenia together highlighted both the upgrade in bilateral ties and the wider dispute over Israel's policies.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Sep 10, 2026 09:44 IST
+
+
+---
+
 ## 9 September 2026
 
 ### Uber, Rapido Licences Suspended In Chandigarh For 6 Months Over Policy Violations; Ola, inDrive Also Hit
