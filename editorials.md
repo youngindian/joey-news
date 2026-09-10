@@ -1,8 +1,344 @@
 # Editorials
 
-_Last updated: 2026-09-09 06:30 UTC_
+_Last updated: 2026-09-10 06:29 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 10 September 2026
+
+### Dangerous phase: On the crisis in West Asia
+*The Hindu · Editorial*
+
+The crisis in West Asia is escalating on two fronts. On Tuesday, the U.S. said that its forces had struck five Iranian oil tankers in the Gulf waters after what it claimed were Tehran’s attacks on U.S. warships in the region. Iran retaliated with a massive ballistic missile attack on the Muwaffaq Salti U.S. air base in Jordan and vowed to respond with greater force to every U.S. attack from now on. It has also announced a new restricted zone in the Strait of Hormuz, warning commercial ships against crossing it under American naval escort. Separately, Yemen’s Houthis, who are closely aligned with Tehran, launched an attack on Saudi Arabia, wounding dozens. Riyadh has vowed a response. The Houthis, who control northern Yemen and parts of its Red Sea coast, have already enforced a naval blockade of Saudi Arabia’s western ports and launched an offensive against the forces of Yemen’s Saudi-backed government in Taiz and Mocha. With both the Strait of Hormuz, which connects the Persian Gulf with the Gulf of Oman, and the Red Sea, a critical trade channel between Europe and Asia, remaining flashpoints, a horizontally escalating conflict from Tehran to Jordan and Riyadh to Bab-el Mandeb threatens to plunge the entire region into an economic and security abyss.
+
+The current phase of the conflict could prove to be deadlier for several reasons. The U.S., which in the recent past has used intense military strikes and economic strangulation as separate policy tools in an attempt to force Iran to surrender, is now using both simultaneously to exert maximum pressure on Tehran. The U.S. naval blockade has largely prevented Iran from exporting its oil, while the American naval escort to a limited number of ships out of the Strait of Hormuz has helped Washington blunt the impact of Iran’s chokehold on the waterway on global energy prices. But President Donald Trump was wrong if he thought his maximum economic and military pressure would force Iran to make concessions. Iran, instead, decided to escalate the conflict by attacking American warships outside the Persian Gulf, fully aware that this would invite a stronger U.S. military response. Iran appears to believe that it has a window of opportunity with the U.S. heading into its midterm elections within weeks and Mr. Trump remaining politically weak at home. If Iran’s strikes on U.S. military vessels signal a clear decision at the top to escalate the conflict, its missile attack on U.S. bases in Jordan suggests that Tehran has been rebuilding its strike capabilities — capabilities that Mr. Trump had claimed were destroyed. As neither Washington nor Iran seems ready to step back from the precipice, the war is set to enter a more dangerous phase with global economic implications.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/dangerous-phase-on-the-crisis-in-west-asia/article71447652.ece)
+
+---
+
+### Ray of hope: On courts and reflexive arrests
+*The Hindu · Editorial*
+
+The district administration in Noida, Uttar Pradesh, went to great lengths to detain 25-year-old Delhi University law student and activist Akriti Chaudhary on April 11, 2026, in connection with protests by workers in the city. But on September 2, the Allahabad High Court quashed her National Security Act (NSA) detention, terming it an “abuse of the draconian preventive detention law” and came down heavily on the administration. The High Court’s intervention is a silver lining in the dark cloud of extreme executive arbitrariness that is smothering the democratic soul of India. It termed the Noida administration’s conduct “despotic”, its allegations against the activist a “concocted story”, and noted that the District Magistrate had passed the NSA detention order “without application of mind”. Without mincing words, the High Court warned that an unhinged bureaucracy could reduce the State of Uttar Pradesh to an “Orwellian dystopia”. The Division Bench of Justices Atul Sreedharan and Achal Sachdev ordered compensation of ₹5 lakh for Ms. Chaudhary, which is to be deducted from the salaries of the officers concerned. The facts of the case were brazenly in contradiction with the claims of the police and the district administration, but it also took a rigorous and conscientious Bench to provide this relief. It noted in its order that Ms. Chaudhary was already in the custody of the police when the violence that she is accused of took place.
+
+The relief from the High Court has not set the activist free, as she is named by the U.P. Police in 11 other cases. It will be a long journey of legal battles to get her the freedom that every citizen in a democratic country deserves. That the police would go to such an extent to make life difficult for someone who stood up for the underprivileged must shock the conscience of the nation. Between April 10 and 18, 2026, industrial and contractual workers in Noida had staged protests demanding a wage hike and wage parity with neighbouring Haryana. On April 13, the protests allegedly turned violent. The Noida Police claimed to have “strong electronic and videographic evidence” of incitement against Ms. Chaudhary, and it turned out to be merely that, a claim which could not be established. Ms. Chaudhary could receive legal support and media attention that hundreds of others in comparable situations cannot easily access, while the workers remain trapped in miserable conditions because of oppressive business models and state policies that favour capital owners, with the promises made to them still unfulfilled. Yet, the Allahabad High Court’s intervention in Ms. Chaudhary’s case is a ray of hope that democratic protests will be heeded rather than suppressed by the strong-arm tactics of the executive.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/ray-of-hope-on-courts-and-reflexive-arrests/article71447323.ece)
+
+---
+
+### A Karnataka powered by many economic engines
+*The Hindu · Opinion*
+
+A State’s development story cannot be the story of its capital alone. Bengaluru is indeed India’s pride and the city that has placed Karnataka on the global map. From Information Technology (IT), startups, aerospace and biotechnology to global corporations and new-generation entrepreneurs, Bengaluru has everything that makes it the pillar of India’s economy.
+
+But when opportunities are concentrated in one city, so is the pressure. With a population of around 12.5 million and over 11.5 million vehicles, Bengaluru is already facing enormous pressure on its roads, housing and infrastructure. We need to change the pattern of people from rural areas and other cities migrating to Bengaluru in search of opportunities. This is why cities such as Delhi and Mumbai have developed alternative growth centres such as Gurugram and Noida, and Navi Mumbai and Thane, respectively.
+
+[Read full article](https://www.thehindu.com/opinion/lead/a-karnataka-powered-by-many-economic-engines/article71448397.ece)
+
+---
+
+### DC Edit | TN Hooch Trade: Punish Officials
+*Deccan Chronicle · Editorial*
+
+When a hooch tragedy struck Kallakurichi, a backward district in Tamil Nadu, in June 2024, taking a toll of 70 lives, besides sending 161 persons through hell in hospitals, it raised a plethora of questions on a wide range of issues relating to society and the obvious malfunctioning of the police, administrative and prohibition enforcement apparatuses. But there had been more to it, according to the one-man commission appointed to go into the circumstances leading to the disaster.
+
+Besides pointing fingers at the corrupt police force and village bodies, the Justice Gokuldas Commission blames the lack of development as a reason for the disaster by recommending establishment of industries in the district to create jobs for youth as a panacea.
+
+The illicit trade of bootlegging, carried out in a totally unscrupulous manner by mixing methanol to arrack that is banned in the state, with no concern for human lives, was the main cause for the disaster. The 484-page report, presented in the Assembly, alleged a strong nexus between the bootleggers and policemen, blamed the excise and revenue departments for serious lapses and recommended rehabilitation measures for the victims.
+
+It has sought legislative and administrative reforms to regulate the storage, transport and use of methanol to prevent recurrence of such events and asked for the families of victims to be taken care of, particularly orphaned children, by giving them priority access to government hospitals, for food, shelter, education and, in future, employment opportunities. Even survivors should be given low-interest loans for starting small ventures and also additional compensation, says the report, taking a compassionate, and not a victim-bashing, view.
+
+In fact, when the tragedy unfolded it was told the illicit arrack vendor with a sobriquet, ‘Kannukutti’ (young calf), was popular among the people and that his existence was common knowledge. But the report looks at the tragedy through the prism of the affected community’s economic and social backwardness, sans any judgement, with genuine human concern for the deprived people while being harsh on the failure and corruption of the powerful officialdom.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-tn-hooch-trade-punish-officials-1986257)
+
+---
+
+### DC Edit | Why Govt Must Evolve Fairer Spectrum Policy
+*Deccan Chronicle · Editorial*
+
+The Digital Communications Commission (DCC) has approved a revenue sharing model recommended by the telecom regulator Trai for the administrative allocation of satellite spectrum, bringing India closer to the commercial rollout of satellite broadband.
+
+The companies will get spectrum for five years and they will be required to pay a spectrum usage charge (SUC) of five per cent of adjusted gross revenue (AGR), which will be lowered by one per cent in rural and remote areas. The decision will benefit companies such as Elon Musk’s Starlink, Bharti Airtel led Eutelsat OneWeb and Reliance Industries’ Jio Satellite, which are preparing to offer commercial satellite broadband services in India.
+
+Satellite broadband can connect remote villages, islands and border regions, where laying terrestrial networks is either difficult or uneconomical. However, the method chosen for allocating spectrum, a valuable public resource, could potentially to questions of fairness, transparency and equality.
+
+According to Section 4(4) of the Telecommunications Act, 2023, spectrum will ordinarily be assigned through auction but allows administrative allocation for services listed in its First Schedule. The 19 exempted services include certain satellite-based communication services. An administrative assignment does not involve competitive bidding, which was preferred by the Supreme Court.
+
+In Centre for Public Interest Litigation vs Union of India (the 2G judgment), a two-judge bench held that public auctions must be adopted for allocating spectrum to ensure fair price discovery. In its opinion for a Presidential Reference, the five-judge bench said competitive mechanisms like auctions are the baseline to maximise public revenue and avoid Article 14 violations, if finite resources are transferred to private entities for commercial profit. However, it said the state may adopt non-auction routes for public welfare and statutory mandates.
+
+Though the government is justified in choosing the administrative sanction of satellite spectrum because of its distinctive technical characteristics, the satellite broadband service providers are multinational companies and they do not come under the categories enlisted by the Supreme Court.
+
+The administrative allocation will put satellite broadband companies in an advantageous position compared to terrestrial telecom companies, who were forced to pay thousands of crores of rupee to stay in business. This creates two sets of companies targeting the same customers with the same product but with two different spectrum pricing, which violates the fundamental right to equality guaranteed by the Constitution under Article 14.
+
+Ever since the telecom sector opened to the private sector, India has taken many controversial U-turns. The 1994 policy preferred the discovery of annual fees for spectrum through auction, but the government introduced the revenue sharing model in 1999. Initially, mobile meant GSM, but later local WLL operators were allowed to offer services across the nation. In 2012, the auction route was brought back. In 2013, companies with cheaper Broadband Wireless Access spectrum, which could be used only for data services, were allowed to offer calls over their data spectrum.
+
+Inconsistent policies are one of the major reasons that prevent foreign capital from coming into India. The government, therefore, should ensure that its policy on satellite spectrum does not end up in litigation by taking public opinion and evolving consensus on the issue.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-why-govt-must-evolve-fairer-spectrum-policy-1986268)
+
+---
+
+### Forget GDP Nos., Can Indian Household Incomes Keep Up?
+*Deccan Chronicle · Opinion*
+
+India’s GDP numbers have become a war zone. Economists, statisticians and politicians continue to fiercely contest one another’s methodologies and motives.
+
+But an ordinary Indian does not live inside those figures. She is concerned with whether this month felt easier or harder than the same month last year. The economy arrives at the household not as aggregate growth but as rent, school fees, groceries, medical bills, a son or daughter still waiting for a job, lack of a salary hike or a business doing less well than it used to. She worries whether the family income is keeping pace with the cost of living and whether there are enough savings to pay the EMI or absorb a sudden shock.
+
+I was reminded of this recently while talking to a young man in his early thirties at my neighbourhood café in south Delhi. He worked in finance, lived with his parents and earned a decent salary. He was unmarried, and had no immediate financial anxiety in his own life.
+
+But many of his friends, he said, had taken loans; some had even borrowed to get the latest smartphone or fund a holiday. The young, he said, wanted to live in the “now.” The basic calculation was that things would get better: salaries would rise, careers would progress and tomorrow’s income would take care of today’s borrowing.
+
+But, as a finance professional, he could also see the large “if” lurking behind that assumption. What if salaries did not rise as expected? What if someone was laid off and took months to find another job at the same pay? The EMI would not disappear in the meantime. Nor would the rent, school fees or medical bills. Borrowing helps people aspire and cope with the present. It also assumes that tomorrow will be better.
+
+That conversation brought home what is sometimes missed when the economic debate becomes a contest over headline numbers.
+
+Urban India is changing not only in what people earn and consume, but also in how they finance the lives they want. The city life many Indians want has a price — homes, furnished apartments, vehicles, good education for their children and the other markers of a better life all require money, often long before the hoped-for income has actually materialised. Today, credit is no longer that difficult to obtain for many people. The lending landscape has expanded well beyond traditional banks, making borrowing faster and more accessible than it once was. Loans against gold jewellery have also taken off in a big way in the last few years.
+
+The question therefore is not whether borrowing is necessarily bad. Credit can help people buy homes, build businesses and manage legitimate needs. But what happens when borrowing becomes part of the way people maintain their present standard of consumption on the assumption that their future incomes will keep rising? Given the global turmoil and uncertainties, the nagging big ‘if’ persists. What does national growth feel like for people whose job prospects and incomes are not rising?
+
+According to the Reserve Bank of India’s (RBI) June 2026 Financial Stability Report, India’s household debt has climbed to 45.5% of Gross Domestic Product (GDP) by September 2025. The rise in household borrowing is driven primarily by non-housing retail loans, with consumption-related borrowing a major driver. Non-housing retail loans have climbed to 58.4% of household borrowing by March 2026.
+
+The young finance professional I met was not opposed to borrowing. But he was acutely aware of the assumption built into it. The assumption is that the future will be kinder to the borrower than the present. Salaries will rise. Careers will progress. Employment will continue. A temporary squeeze will remain temporary. But if that chain breaks, the arithmetic changes very quickly. An EMI remains an EMI whether the salary has risen or not, even amid layoffs and a potential spike in AI-related redundancies. What does growth feel like when good jobs are scarce, and incomes stand still for millions?
+
+Arguably, India’s household debt-to-GDP ratio is lower than that of many rich countries, but Indian households have much lower incomes and thinner financial buffers, so a rise in debt can leave them more exposed when income falls or an unexpected expense arrives. In India, a lost gig, a hospital bill or a failed monsoon can still mean a moneylender or a gold loan. Formal household debt is also only part of the picture; informal credit sits on top and does not show up comprehensively in official data. When both rise together, distress can be acute.
+
+If you go by headlines, the debate over India’s gross domestic product is the big story. Equally important is how Indian households are negotiating the economy that the GDP number describes. The increase in household debt has coincided with a fall in net household financial savings, given that people are using larger portions of their income to repay loans. Household financial savings temporarily surged during the Covid pandemic, as lockdowns curtailed consumption,...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/forget-gdp-nos-can-indian-household-incomes-keep-up-1986276)
+
+---
+
+### Time For SCO To Refine Focus & Work On A Few Key Areas
+*Deccan Chronicle · Opinion*
+
+The Charter of the Shanghai Cooperation Organisation (SCO) was adopted in 2002 by the six original members; the two regional Giants China and Russia and four Central Asian Republics — Kazakhstan, Kyrgyzstan, Tajikistan and Uzbekistan. The Charter defines among its goals promotion of “effective regional cooperation” in politics, trade economy, defense, law enforcement, S&T etc. Also, SCO is a forum for “multidisciplinary cooperation in the maintenance and strengthening of peace, security and stability in the region and promotion of a new democratic, fair and rational political and international order”.
+
+Initially the focus of the activities of SCO was firmly on the Central Asian Region (CAR).
+
+But gradually the operational area of the ‘region’ expanded to include Northern part of the Indian sub-continent with the admission of India and Pakistan as members in 2017.
+
+There was a certain logic to this evolution as North India and Pakistan are civilisational, historically and culturally a continuum of Central Asia.
+
+Subsequently, the two main drivers of SCO — China and Russia — worked together to admit Iran in 2023 and Belarus in 2024. This was in the background of deteriorating US-Iran relations and Russian aggression against Ukraine in February 2022. These new members were globally seen as an attempt to give an anti-West direction to the SCO. But the four Central Asian countries, India as well as Pakistan were not comfortable with any anti-West trajectory. At the 26th SCO Summit at Bishkek on August 31, 2026, President Sadyr Japarov, as chairman, clearly stated that “SCO will be free from bloc thinking and confrontation and serve as a platform for strengthening trust and ensuring peace and stability”.
+
+The SCO Summit in Tianjin in 2025 as well as the Bishkek Summit have reaffirmed that Central Asia is the core area of the SCO. However, the words “Central Asia” went missing from the statements of the major non-Central Asian leaders at Bishkek.
+
+Prime Minister Narendra Modi stated that “…. SCO has developed a strong tradition of dialogue and co-operation across the vast expanse of Eurasia”. In his statement Russia’s President Vladimir Putin noted that “SCO has de facto become the largest regional association…. on our shared Eurasian continent”.
+
+At the Bishkek Summit, there were 15 dialogue partners of SCO — Armenia, Azerbaijan, Bahrain, Cambodia, Egypt, Kuwait, Laos, Maldives, Myanmar, Nepal, Qatar, Saudi Arabia, Sri Lanka, Turkey and UAE. There does not appear to be any geographical criterion to qualify to become a Dialogue Partner.
+
+A question to be answered is whether SCO is evolving into a Eurasian regional organisation.
+
+In the last 25 years, the Central Asian republics have transformed themselves into confident sovereign republics with growing strategic autonomy. These five countries are looking for investments, and road and rail connectivity towards South Asia, Iran and Turkey, as all the five are landlocked. They also need technology, trade and employment for their growing young populations.
+
+For their development Central Asian republics have now institutionalised a joint approach towards extra regional powers in the CAR -5+1 format. Even with China and Russia, they decide their aid and development agenda in this format rather than through SCO. The Second CAR-China Summit was held in Astana in June 2025 and Second Russia-CAR Summit was held in Dushanbe in October 2025.
+
+An important initiative of SCO was to establish in 2005 a “SCO Contact Group on Afghanistan” as a regional diplomatic mechanism created to address security and counter-terrorism. The group became inactive in 2009 but was revived in 2017 at deputy foreign minister level. After the Taliban takeover of Afghanistan in August 2021, the group has again paused its formal operations. On Afghanistan, the Central Asian republics now have their own separate and pragmatic approach with Uzbekistan playing a leading role for economic engagement with Kabul.
+
+In three decades of independent existence the CAR nations have now become more cohesive.
+
+There is a new generation of leaders except in Tajikistan. After Shavkat Mirziyoyev became President of Uzbekistan in 2016 he has pushed for more regional dialogue, and Summits of Central Asian leaders are now regularly held to coordinate policies and strategy.
+
+In Bishkek, on the future agenda for SCO, there were some differences in emphasis and priorities.
+
+Prime Minister Narendra Modi suggested that for the next 25 years, the people-to-people ties should be at the center of SCO co-operation. A victim of Western sanctions, Russia’s President Vladimir Putin singled out strengthening of commercial ties between member states and encouraged settlement in national currencies. China’s President Xi Jinping put “development first” for SCO to “open up the prospects for shared prosperity”.
+
+He exhorted the members to “taking security as a key goal, and foster an environment of common security”.
+
+At the 26th Summit,...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/time-for-sco-to-refine-focus-work-on-a-few-key-areas-1986263)
+
+---
+
+### Teachers belong in classrooms
+*Deccan Herald · Editorial*
+
+The primary duty of teachers is to teach, but in Karnataka, as in many other states, they spend more time outside classrooms than within them.
+
+In a memorandum to Chief Minister D K Shivakumar, teachers have complained of increasingly being treated as clerks, with much of their time consumed by non-academic tasks.
+
+They are routinely pulled away for election duty, surveys, and census; many were diverted for the Special Intensive Revision (SIR) exercise for a month. Even in schools, they spend considerable time updating the Student Achievement Tracking System (SATS) and other departmental portals.
+
+Technical glitches, slow servers, and inadequate digital infrastructure, particularly in rural schools, can make this work even more time-consuming, sometimes extending beyond school hours.
+
+‘Zero-Teacher’ schools reflect state's deepening education crisisTeacher in Karnataka writes letter in blood to education minister over lack of fundsThe teacher who forgot everythingThe state already suffers from an acute shortage of teachers, and every day a teacher spends away from the classroom is a day of lost instructional time. In understaffed schools, the absence of even one teacher can disrupt classes altogether.
+
+For students who need additional attention, particularly those requiring remedial support, such interruptions can have lasting consequences. Teachers also lose time needed for lesson preparation, assessment, and meaningful interaction with students. This leads to a backlog in syllabus completion, putting undue pressure on the students.
+
+Administrative fatigue also inevitably affects classroom engagement and learning outcomes. The irony is that the government has already diagnosed this problem.
+
+One of the eight education guarantees announced recently promises to relieve teachers of non-academic responsibilities by providing adequate non-teaching staff. The government also aims to build one of the best public school systems in the country over the next three to five years – a tall order unless teachers remain in classrooms where they belong.
+
+The government has already brought legislation to prevent teachers and lecturers from being transferred or deployed to non-teaching posts. Logically, this principle should apply to clerical, administrative or unrelated government duties, except in narrowly defined emergencies.
+
+However, the statutory nature of electoral and census duties may be an impediment. The Centre should address this so that teachers are not treated as the easiest available workforce. The state must fulfil its promise of appointing non-teaching staff without delay.
+
+What is urgently required is a firewall between teaching and non-teaching responsibilities. The Chief Minister has announced that teachers will be accorded the prefix ‘Tr’, akin to doctors and professors. The most meaningful way to honour the profession is to allow teachers to do what they are best at – teach.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/teachers-belong-in-classrooms-4141020)
+
+---
+
+### The making of a preventable tragedy
+*Deccan Herald · Editorial*
+
+The collapse of a building in Delhi’s Satya Niketan, which killed at least seven people, had all the markings of a tragedy foretold – a familiar detail being that the building, functioning as a paying-guest facility, was an unauthorised construction with poor safety systems.
+
+It has been reported that the building was originally sanctioned as a ground-plus-one structure but was expanded with additional floors without the necessary permissions.
+
+This collapse extends a series of incidents involving unsafe and unauthorised buildings, illegal alterations and extensions, commercial misuse of residential properties, and abject failure of regulatory supervision.
+
+Four years ago, Satya Niketan witnessed a three-storey building collapse while under renovation, killing two people. Sunday’s tragedy also exposes a culture of exploitation in areas near universities and educational institutions, where students are forced to live in unsafe conditions.
+
+Delhi, one of India’s major educational centres, has consistently failed to provide safe and affordable accommodation for the thousands of students who land in the city every year to pursue opportunity and a better life.
+
+Delhi building collapse: Three truckloads of debris filled in basement before tragedy, say policeDelhi building collapse: Two-day police custody for owner's son, PG operator, contractor'Don't send your children to Delhi to study': Father who lost his young son in building crashSimilar incidents and fire tragedies have occurred in other areas of the city, including Vivek Vihar and Malviya Nagar, each exposing abysmal enforcement and entrenched corruption.
+
+The costs are irreversible.
+
+The Delhi High Court said that apart from the owner of the paying-guest facility, the Municipal Corporation of Delhi (MCD), which erred as an enforcement agency, and the Delhi University (DU), which failed to provide adequate housing facilities to its outstation students, were responsible for the tragedy.
+
+The High Court has directed the MCD to conduct an executive-level inquiry. A case has been registered, officials suspended, and the owner of the building arrested.
+
+However, legal proceedings typically drag on for years, and the suspended officials, if history is any indication, are likely to rejoin service. Real, systemic accountability is rarely fixed.
+
+This causes preventable incidents to recur. Even with a ‘triple-engine sarkar’ at the helm, Delhi has suffered because of poor administrative oversight. It has struggled under the weight of its expansion, facilitated by rampant violation of building rules.
+
+However, this pattern of negligence is not limited to the national capital. India’s cities are increasingly witnessing the rise of illegal constructions and unsafe paying-guest facilities. Building collapses are one fallout of unchecked urban sprawl.
+
+Given this backdrop, the Supreme Court’s proposal for pan-India safety audits of all paying-guest and student accommodations is a crucial and necessary intervention. It should lead to clearer, universal compliance mechanisms and certain punishment for corrupt officials.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/the-making-of-a-preventable-tragedy-4141019)
+
+---
+
+### From watching Om Puri and Naseeruddin Shah to finding my own stage
+*Deccan Herald · Opinion*
+
+Recently, I performed in a skit as part of a school’s annual day function. No, I am no schoolgirl with stars in my eyes. I had recently reconnected, after a long time, with a theatre actor-couple, quite active in Delhi's vibrant theatre scene, one among the many unsung heroes staging small-scale productions relentlessly, without much remuneration or recognition coming their way.
+
+Having watched stellar performances by stalwarts like Om Puri, Naseeruddin Shah and Shabana Azmi, to name a few, in award-winning films in the good old Doordarshan days as a teen, I had always aspired to train at their alma mater, the National School of Drama (NSD).
+
+I was forever charmed by the world of performing arts, its players and the world they inhabited. So, on a whim, I applied to the theatre department at the Panjab University (often considered a stepping stone to NSD), along with the Mass Communication Department.
+
+Having cleared both the written exams, I dared not take the stage audition for the former, for I had never stepped on stage, except at my school annual functions earlier on.
+
+One look was enough: Remember the teachers who could silence a classroom without a word?Soon, marriage happened and brought me to Delhi. And thus began my long journey as a theatre buff, watching numerous shows at Mandi House, turning wistful as I went past the hallowed grounds of NSD. And my joy knew no bounds when my pre-teen son acted in a play with the actor couple.
+
+“Amma, don’t try to live your dreams through me. Why don’t you join them?,” my son retorted this time as I cajoled him to rejoin their group. It rang a bell somewhere and I got in touch with them.
+
+Soon, my son took charge of my rehearsals at home, as I struggled with the barely 10 one-liners I had in the production. I would just go blank and he would show me clips of Sir Anthony Hopkins, Heath Ledger, Joaquin Phoenix, and Al Pacino (all his favourites). “Ma, this is acting,” he would reprimand me and, in the process, make me more jittery.
+
+"You ought to have been the queen of the stage,” an old friend had exclaimed on hearing my inherited name. “Huh,” I remained clueless. “Ranganayaki means just that, doesn’t it?" she pointed out. My paternal grandmother answered to that name and I was supposed to have acquired it, as is the practice in many communities south of the Vindhyas.
+
+Anyway, I debuted on stage, butterflies in my stomach, my heart pounding, and mouthed my lines in a monotone without much fumbling, at the same venue where my son had done some 20 years back. For me, life had come full circle. And I am a middle-aged woman, full of dreams in my heart.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/from-watching-om-puri-and-naseeruddin-shah-to-finding-my-own-stage-4141021)
+
+---
+
+### India is spending more on R&D. But where are the technologies, companies and jobs?
+*Deccan Herald · Opinion*
+
+The latest Department of Science and Technology (DST) numbers are encouraging. R&D spending has climbed from 0.64% of GDP in 2020-21 to 0.84% in 2023-24, and private companies now fund more than half of all research, a role government alone used to carry.
+
+But spending more is not the same as becoming an innovative economy. A country can pour money into laboratories for years and still fail to turn a discovery into a product or a job. The question that matters here is not how much it spends but what happens after: whether a laboratory idea becomes a technology in someone’s hands.
+
+Rising private spending does not mean companies can take over from the state on their own. A firm that discovers something valuable cannot prevent rivals from benefiting once a paper is published or an employee moves on, so it will always underinvest, however healthy its balance sheet.
+
+Private capital must drive defence R&DIndia’s tax code shows how easily this gets forgotten: a deduction for in-house research spending, once 200% under Section 35(2AB), fell to 150% in 2017, and to a flat, incentive-free 100% in 2020.
+
+The Anusandhan National Research Foundation, set up in 2023 for competitive, matching grants, requires companies to co-invest instead of simply rewarding whoever applies. Done well, such funding pulls in private investment rather than replacing it; left to a shrinking tax break, it risks doing the opposite.
+
+India’s scientists also publish more papers each year, but a paper is not a product. Patent filings by Indian applicants have risen from 13,066 in 2015-16 to a record 1.43 lakh in 2025-26, making India the world’s sixth largest filer.
+
+The Patent Office has struggled to keep pace: First Examination Reports fell 42% between 2023 and 2024 after a restructuring promoted nearly 370 examiners and left entry-level examination thin. Much of the delay further down the chain comes from a simpler problem: nobody is quite sure who owns the idea.
+
+When a researcher, their university, and the funding agency each make unclear claims, everyone has reason to be cautious rather than helpful. Settling ownership and licensing terms upfront would push discoveries towards the market instead of letting them sit.
+
+India’s research capacity also sits overwhelmingly in a small number of cities: Bengaluru for software, Hyderabad for pharmaceuticals, Pune for automotive engineering, and little in between.
+
+Researchers cluster because proximity to skilled workers and suppliers makes innovation cheaper and faster, so concentrating funding around a region’s existing strength beats spreading it thinly.
+
+What gets researched matters as much as where. The Mars Orbiter Mission was completed in 2014 for less than the cost of the Hollywood film it was compared with: proof that Indian science can do more with less when institutions are aligned.
+
+UPI, cheap enough for a vegetable seller and a software firm alike, is now spreading to countries facing the constraints India once had. Both show frugal innovation working. India needs more of it.
+
+None of this can be judged properly if India keeps measuring success by how much was spent and how many papers were published. Chase those numbers hard enough, and both will rise while the underlying economy stays unproductive.
+
+A better scorecard for 2047 would track how many patents are actually licensed and used, how many companies grow out of university research, and whether Indian technology shows up in exports and productivity.
+
+South Korea’s research spending was below 1% of GDP in the early 1980s, with the government covering more than half. Private industry took the lead only once that public foundation was in place.
+
+Korea’s research intensity is now among the world’s highest, well over 4% of GDP, setting the pace in semiconductors and batteries that India is chasing.
+
+If India’s spending keeps rising while its patent office stays understaffed, universities sit on unclear intellectual property, and research stays concentrated in three cities, the money will show up in next year’s DST report, not in the technologies, companies, and jobs it is meant to justify.
+
+None of this requires choosing between basic science and commercial research, or between public and private money. It requires building linkages between them that are currently missing.
+
+India in 2047 should not be judged by how much it spent on research or how many papers it published, but by whether what its laboratories discovered changed how people, in this country and beyond, live and work.
+
+The writer is an associate professor of Economics and Director, Centre for Economics, Law and Public Policy, at the National Law University, Jodhpur, Rajasthan.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/india-is-spending-more-on-rd-but-where-are-the-technologies-companies-and-jobs-4141022)
+
+---
+
+### Two runners, one India | Modi chases cool, Ramabai chases school
+*Deccan Herald · Opinion*
+
+Addressing students at Delhi University's Shri Ram College of Commerce (SRCC), Prime Minister Narendra Modi claimed he was giving his critics a “homeopathic dose”, branding them "Dimagi Naxals”.
+
+Days later, in Beed, Maharashtra, a far more potent dose of reality unfolded: a 47-year-old widow, Ramabai Ranvir, ran a 3-km race in a sari and slippers, discarding the slippers when they became a hindrance, and finishing barefoot. She intends to use the Rs 3,000 prize she won to pay for her daughter's books.
+
+Modi's SRCC speech celebrated India's economic success and Gen Z's aspirations. Ramabai's story exposed the distance between such macroeconomic triumphalism and the reality faced by an ordinary mother trying to educate her daughter.
+
+Modi recalls how as Gujarat CM he toured villages in intense heat to promote girl child educationHer desperate barefoot run posed a question no critic had posed as sharply: if India is truly becoming prosperous and developed, why does something as basic as a child's education demand such extraordinary personal sacrifice from families like hers?
+
+A poor widowed mother delivered exactly the reality check that a speech at a commerce and economics college should have invited — and didn't, because Modi was addressing some of the most privileged beneficiaries of India's education system. Ramabai, by contrast, is fighting to keep her daughter from being excluded from that system by poverty. Her distress poses the more consequential question: what does economic growth feel like at the bottom of the ladder?
+
+What happened at Modi’s meetings at SRCC and later at Vadodara shows two things: first, Modi’s communication strategy is failing; and second, political problems cannot be solved with a linguistic spin.
+
+His political messaging has worked brilliantly for a decade, but now Modi faces a far less deferential generation — one that has turned social media, once his greatest strength, against him, converting the prime minister into meme material and dismantling the taboo against mocking him. The hierarchical relationship he carefully built through mass adulation and choreographing youth engagement has been inverted. He can no longer deliver monologues like ‘Mann ki Baat’ to a generation that talks back in a language he doesn't command.
+
+His desperation to connect with Gen Z was visible in both speeches. At SRCC, he reached for words like "OG" and "flex", telling students that being SRCC alumni was "flex" and that they were the real "OGs". At Vadodara, his youth outreach included a Y-shaped ramp and popular music — a fusion of Queen's 1977 hit We Will Rock You and Aari Aari from Dhurandhar. His speech invoked AI, skills, and future. The effect: a leader working overtime to appear fluent in a register not his own.
+
+Neither a cockroach, nor a Dimagi Naxal, yet… His references to the "naraz fufa" — the disgruntled uncle who appears at every family function only to complain — were aimed at Opposition critics, but the joke more suited to a wedding didn’t fit into Gen Z's idiom. Paired with "flex" and "OG”, Modi's efforts produced cringe rather than connection. Slipping into a middle-aged register he came across as an elderly figure impersonating youth culture rather than belonging to it.
+
+In Modi's usage, a naraz fufa objects to everything and stays perpetually dissatisfied — but the label flips easily. Critics can just as well say it applies to him as someone who can't stand being mocked by the young, who call his government to account and refuse to accept his touted achievements as self-evident truths. This is where Gen Z’s irreverence can flip the insult and Modi’s outreach begins to unravel.
+
+Some social media posts have turned the metaphor back on Modi, casting him as the irritable relative. His bid to be Gen Z's cool uncle by giving them a new, supposedly funny target has failed. Besides, this generation may not want a cool uncle at all. It may simply want him out of the way.
+
+From Naxalbari to ‘Dimagi Naxal’: How a political label became a debate over dissentThe deeper problem is that Modi is trying to resolve a political problem with linguistic spin. But can he appropriate generational rebellion without conceding its political grievances? He is asking the entire political establishment for a Gen Z outreach but will adopting the language of youth help in co-opting those who are challenging the authority of the establishment itself?
+
+The problems of Indian youth are not one of vocabulary or language — they are structural rather than verbal. They relate to youth unemployment, fairness and accountability in exams, policing, inequality, and their sense that established institutions do not listen to them. Using Gen Z slang or calling the Opposition naaraz fufa cannot answer these grievances. They did not stay protesting for seven weeks on the streets of Delhi so that the prime minister could learn their youthful patois to talk about Viksit Bharat and AI.
+
+This is where Ramabai’s three-kilometre run calls out Modi’s narrative. She may well be optimistic about India’s future, but she has a bill to pay — for school fees and books for her daughter. Viksit Bharat requires money here and now for Ramabai and her daughter. And for that she must run desperately — putting one bare foot in front of another to run to the finishing line. In doing so, she has converted youth aspiration from a slogan into a material question.
+
+Modi exhorts India’s youth by talking of aspirations, skills, AI, entrepreneurship, and the future. Ramabai asks a more basic question: ‘How can my daughter afford to reach that future?’ Her worry is that if education, examinations, and employment are the steps of the ladder to the future, how her daughter can be enabled to climb that ladder.
+
+Modi is trying to establish cultural proximity to Gen Z to demonstrate that he is young in his thinking. But Ramabai’s daughter does not need the prime minister to sound young — she needs an educational opportunity that her family can afford.
+
+Ramabai does not fit any of the categories that Modi uses to denigrate his critics — she is not angry, she is not a critic, and she does not complain about everything around her. She is struggling to make the system work for her daughter — and this is where Modi’s rhetorical trick collapses. Her poverty is a fact, not an opinion. In her run to meet the costs of her daughter’s education, Modi’s spectacle of power meets the spectacle of necessity.
+
+Both Modi and Ramabai are running -- one trying to keep pace with Gen Z, the other running for the next generation.
+
+Bharat Bhushan is a New Delhi-based journalist.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/two-runners-one-india-modi-chases-cool-ramabai-chases-school-4141371)
+
+---
 
 ## 9 September 2026
 
