@@ -1,3 +1,382 @@
+## 11 September 2026
+
+### Costly war far from over even as US loosens Iran's grip on Strait of Hormuz
+*SECTIONS Costly war far · business*
+
+Dubai: In recent weeks, the United States has succeeded in loosening Iran's grip over the Strait of Hormuz while virtually shutting down Iran's own oil exports, accelerating its economic free fall.
+
+But the war launched by the US and Israel in February - intended to last a few weeks - is still far from over, and the stalemate is costly for both sides. An agreement reached in June quickly crumbled, with so sign of diplomatic progress since then. Low-level fighting persists, and the US does not seem to have an exit strategy.
+
+The mounting economic pressure on Iran has yet to stoke an uprising, and if its leaders are backed into a corner, they may opt for military escalation rather than capitulation. Their Houthi allies in Yemen have meanwhile stepped up attacks on Saudi Arabia, helping to push oil prices back up.
+
+  
+
+The price of a barrel of Brent crude, the international benchmark, surged above USD 100 this week, and diesel - heavily used in transport and farming - hit a record, potentially stoking inflation. US President Donald Trump has acknowledged that gas prices are likely to stay high through the midterm congressional elections.
+
+"Unfortunately, the US is not winning in the war with Iran despite its limited success in loosening Iran's grip over the strait and the devastating impact on Iran's economy," said Mona Yacoubian, a Middle East expert at the Centre for Strategic and International Studies in Washington.
+
+"Iran shows no sign of backing down, and instead has demonstrated a willingness to not only fight back, but escalate wherever it can. The war is likely to be protracted with no clear victor."
+
+## Iran loses leverage as oil moves through the Strait of Hormuz
+
+Iran effectively closed the Strait of Hormuz - through which a fifth of the world's traded oil and gas transits in peacetime - in the opening days of the war, using the worldwide economic shock as leverage. Meanwhile, it continued to export its own oil, mainly to China.
+
+But in recent weeks, the balance has reversed. A US blockade has virtually halted Iran's exports, while the American military has facilitated greater exports by Gulf countries, according to figures compiled by Homayoun Falakshahi, an oil expert at Kpler, a global trade monitor.
+
+He found that Iran's oil exports had dropped from 1.85 million barrels a day last spring to around 255,000 in August. Exports of non-Iranian oil rose from 300,000 barrels a day at the height of the war to 8.4 million in September, and exports through alternative routes took that number to 10.8 million.
+
+US Energy Secretary Chris Wright boasted of similar figures on Sunday, saying "we're probably two-thirds or more of preconflict flows." Non-Iranian exports were at around 14 million barrels a day before the war, according to Falakshahi.
+
+But the increased flow depends on a major US deployment in the strait that has strained the military's resources. The unpopular war has already cost US taxpayers more than USD 37.5 billion and left 18 US service members dead, and is expected to weigh on Republicans in November's election.
+
+## Tehran could escalate in other ways
+
+The tightened blockade and new US sanctions are already taking a heavy toll on Iran's economy, driving up prices and causing even longer lines outside gas stations.
+
+But so far, it's shown no sign of pushing the country's increasingly hard-line leaders to make concessions on the Strait of Hormuz, Iran's disputed nuclear program or its support for armed groups in the region.
+
+"Washington's main problem is that it still lacks a theory of victory: More ships are getting through, and Iran is hurting, yet none of that has produced a political outcome," said Ali Vaez, an Iran expert at the International Crisis Group think tank.
+
+Iran has continued to attack ships in the strait, drawing limited U.S. strikes on its coastal areas and then responding with missile attacks on Arab countries hosting US forces. Trump recently dismissed the conflict as "small potatoes."
+
+But with the US supply of sophisticated interceptors showing strain, Iran could be tempted to escalate its attacks - or respond through regional proxies.
+
+The Iran-backed Houthis launched a wave of attacks on Saudi oil facilities this week as part of a conflict that goes back more than a decade but has heated up in recent weeks. The Houthis are also attacking Saudi shipping, threatening its oil exports and a crucial trade route through the Bab el-Mandeb chokepoint leading to the Red Sea and the Suez Canal.
+
+The Houthis have damaged Saudi Arabia's Jizan refinery, a large supplier of diesel and jet fuel to Europe, Falakshahi said. The volume of Saudi oil passing through the Bab el-Mandeb bound for Asia has plunged from around 3.4 million barrels a day in June to just 128,000 in August, according to Kpler's figures, though it has recovered slightly to some 700,000 barrels per day in September.
+
+"Tehran has repeatedly signaled that it will respond to growing US pressure by moving up the escalation ladder, not by backing down," Danny Citrinowicz, a senior researcher at Israel's Institute for National Security Studies and a former Israeli intelligence officer focused on Iran, wrote on X.
+
+"Iran will not simply accept an indefinite maritime blockade, nor will it allow Washington to impose mounting economic costs without imposing costs of its own," he wrote.
+
+---
+
+### Telangana weapons heist cracked, it was an inside job, say cops
+*Nikhila Henry · politics*
+
+The initial theory that it was an insider job is confirmed.
+
+[Read full article](https://indianexpress.com/article/india/nirmal-district-women-informal-workers-asuse-2025-10872944/)
+
+---
+
+### Psychology says people who constantly clear phone notifications may crave a sense of control - The surprising reason this tiny digital habit can feel satisfying and what it may reveal about how your brain handles uncertainty
+*Mukesh Thapliyal · business*
+
+A notification appears. You read it, dismiss it and watch the little red number disappear. A few minutes later, another alert arrives - and you clear that one too. For some people, an empty notification bar brings an oddly satisfying sense of relief. It can feel as if one small part of life has been put back in order. Psychology research suggests that this behavior may involve more than liking a tidy phone screen. Notifications create interruptions, unfinished information and uncertainty about what needs attention. Clearing them can provide a quick feeling of completion and control. Research on smartphone notifications also shows that alerts can disrupt attention and influence how often people interact with their devices.
+
+## WHY AN EMPTY NOTIFICATION SCREEN CAN FEEL SATISFYING
+
+Notifications are essentially small demands for attention. A message, email, social-media alert or app reminder tells the brain that something has happened and may require a response. That can create a subtle sense of incompleteness. Until you check the alert, you may not know whether it is important, useful or completely irrelevant. Clearing it removes that immediate uncertainty. Researchers Hippolyte Fournier, Arnaud Fournel, François Osiurak and colleagues examined the cognitive effects of smartphone-style social-media notifications in a 2026 study. They found that notifications produced a temporary slowdown in cognitive processing lasting about seven seconds.
+
+The researchers linked the disruption to the salience of the alert, learned associations and judgments about its relevance. They also found that the effect was 
+
+  
+  
+
+### CLEARING NOTIFICATIONS MAY CREATE A FEELING OF CONTROL
+
+The desire for control is a common psychological response to uncertainty. When something feels unpredictable or unfinished, completing a small, manageable action can provide relief. A notification screen offers an unusually simple opportunity to do exactly that. You cannot control everything happening during the day, but you can control whether your phone shows 27 unread alerts or none. Research by Nicholas Fitz, Kostadin Kushlev, and colleagues provides an especially interesting connection. In a randomized field experiment involving 237 participants, the researchers tested what happened when smartphone notifications were delivered in batches rather than arriving continuously.
+
+Participants who received notifications in three predictable batches each day reported feeling more attentive, productive and in control of their phones. They also reported lower stress and fewer phone interruptions. The finding suggests that predictability matters. People may find it easier to manage information when they can decide when to deal with it instead of responding to alerts throughout the day. That makes the act of clearing notifications potentially rewarding. It creates a visible signal that the incoming information has been dealt with - or at least removed from immediate view.
+
+  
+
+#### IT DOES NOT AUTOMATICALLY MEAN ANXIETY OR A PROBLEM
+
+Constantly clearing notifications does not automatically mean someone has anxiety, obsessive-compulsive disorder or problematic smartphone use. Everyday habits have many possible explanations. Someone may simply prefer a clean home screen. Another person may use notifications as a task-management system and clear them after checking each item. Research also shows that smartphone behavior is more complicated than simply blaming notifications. Maxi Heitmayer and Saadi Lahlou studied smartphone interactions in real-life settings and found that 89% of interactions in their sample were initiated by users rather than notifications. Many interactions also happened unconsciously, suggesting that habitual phone use cannot be explained entirely by incoming alerts.
+
+Another study by Mengqi Liao and S Shyam Sundar, published in Computers in Human Behavior, found an unexpected pattern: among 138 iPhone users, people tended to check their phones more often when notifications were silenced. The effect was particularly pronounced among people with higher fear of missing out (FoMO) and stronger need to belong (NtB). The researchers suggested that notification cues can reduce uncertainty by telling users when new information has arrived. So, clearing alerts and checking for new ones can sometimes become part of the same psychological cycle: uncertainty appears, the person checks, information is processed, relief follows, and another alert eventually starts the cycle again.
+
+##### WHAT THIS TINY HABIT MAY REVEAL
+
+The next time you find yourself clearing every notification, the behavior does not necessarily tell you something dramatic about your personality. But it may reveal how you respond to digital clutter, interruptions and uncertainty. For some people, a clean notification screen provides a small sense of completion. For others, it may simply make the phone easier to use. And for some, repeatedly checking and clearing alerts may become an automatic habit reinforced by the temporary relief it provides. The bigger lesson from the research is that control and predictability can matter in a world filled with constant digital interruptions. Fournier and colleagues' 2026 findings show that notifications can briefly disrupt cognitive processing, while Fitz, Kushlev, and colleagues' 2019 research suggests that batching notifications can improve people's sense of control and reduce interruptions.
+
+That satisfying feeling of seeing a phone with zero notifications may be about more than digital neatness. For some people, clearing alerts creates a small moment of completion in an otherwise unpredictable day. The action is simple: check, dismiss and move on. Yet psychology research suggests that controlling when and how information reaches us can influence attention, stress and our sense of control.
+
+Importantly, this habit alone should not be treated as evidence of a psychological disorder. It may simply reflect a preference for order or an established smartphone routine. But if you find yourself repeatedly checking your phone even when nothing important is waiting, it may be worth noticing the pattern. Sometimes, the urge to clear the screen is less about the notifications themselves and more about wanting life to feel a little more manageable.
+
+---
+
+### Nancy Guthrie Update: Did Savannah Guthrie reveal her mother's fate on live TV? Watch video as ‘TODAY’ show host talks about missing mom in past tense
+*Divyadeep Singh · business*
+
+The search for 84-year-old Nancy Guthrie, mother of NBC journalist and ‘TODAY’ show host Savannah Guthrie, is still going on seven months after she vanished from her Tucson, Arizona home. However, Savannah seemed to talk about her missing mother in the past tense during Thursday's episode (September 10, 2026) of the ‘TODAY’ show.
+
+"My mother’s family w-, my mother was Irish, her grandmother," the NBC host said. "They were from Galway." As she finished her sentence, the other journalists went quiet for a moment, following an excited announcement that the team would be filming a live episode in County Kerry, Ireland.
+
+  
+  
+
+> — Shana\_\_X\_\_ (@Shana\_\_X\_\_)
+
+During the Today show segment, Savannah sat between Al Roker and Craig Melvin alongside the rest of their morning crew. However, a source told The New York Post that Savannah did not use the past tense as a way to acknowledge her mother’s death.
+
+Savannah previously expressed fear that Nancy might be dead after her 84-year-old mother was kidnapped from her Arizona home in February, 2026. The Pima County Sheriff’s Office called the investigation "active and ongoing" and told The Post that it is working with the FBI on the case.
+
+"DNA and video analyses remain ongoing, supported by laboratories nationwide. Advances in technology are aiding investigative efforts, and tips continue to be received and reviewed," the department said in a statement Thursday. Nancy Guthrie disappeared from her home in the early morning hours of February 1, 2026. According to authorities at the Pima County Sheriff's Office and the FBI, she was kidnapped and taken away "against her will".
+
+During the joint investigation, blood matching Nancy Guthrie’s DNA was found inside the house, and doorbell camera footage showed a masked, armed person on her porch the morning she vanished. A few days after the intense search began, the Guthrie family offered a $1 million reward for information leading to Nancy’s "miracle" return.
+
+---
+
+### BRICS Summit 2026 Schedule: Full Timings For September 12-13, Who’s Attending, Key Events
+*Mallika Soni · general*
+
+BRICS Summit 2026 Schedule: Key events, attending leaders, agenda and New Delhi Declaration details for September 12-13.
+
+[Read full article](https://www.news18.com/india/brics-summit-2026-schedule-full-timings-for-september-12-13-whos-attending-key-events-ws-lst-10322566.html)
+
+---
+
+### Why India's Top Banks Are Suddenly Hunting for CEOs | The Morning Brief Decode
+*ET Online · business*
+
+HDFC Bank's Sashidhar Jagdishan is stepping down, Kotak Mahindra is searching for Ashok Vaswani's successor, and ICICI's Sandeep Bakshi has taken just a two-year extension. In this episode, Anirban Chowdhury talks to ET's Banking Editor Sangita Mehta about the wave of CEO exits hitting India's biggest banks through 2028, what really went wrong at HDFC, whether Deputy MD Kaizad Bharucha can take over given RBI's 15-year board cap, and why RBI's tenure and age rules may be quietly ending the era of the long-serving Indian bank CEO.#HDFCBank #ICICI #KotakMahindra #BankingNews #RBI #TheMorningBrief
+
+---
+
+### Xi’s first India trip since 2019 offers olive branch to PM Modi
+*SECTIONS Xi’s first India trip since · business*
+
+When Chinese President Xi Jinping arrives in New Delhi this weekend for his first post-Covid visit to India, he faces the task of managing a delicate detente with his neighbor and rival.
+
+Xi will visit India Sept. 12-13 to attend the BRICS summit, according to the Chinese Foreign Ministry. He will likely meet with Prime Minister Narendra Modi on the sidelines.
+
+  
+
+The visit marks Xi’s first return to India since 2019, when the two leaders met in Chennai for the second in a series of unofficial dialogues before ties broke down over border confrontations that turned deadly the following year. For Xi to visit now, overcoming a growing preference to host leaders at home, underscores both the significance of BRICS to Beijing and the value China places on keeping ties on track with the world’s most populous country.
+
+“The recent easing of tensions between India and China should be seen as pragmatic risk management rather than a more strategic reset,” said Dylan Loh, associate professor at Nanyang Technological University in Singapore. “Both sides recognize that a volatile border serves neither of their long-term economic priorities but deep strategic mistrust remains that will not go away anytime soon.”
+
+When Xi visited India in October 2019, Modi was fresh off a general election that hugely boosted his political hand domestically. In Chennai, Xi toured monuments at the ancient city of Mahabalipuram and declared the next several years “the most critical period” of China-India ties.
+
+Clashes at their 3,488-kilometer (2,167-mile) frontier shattered that momentum. The June 2020 confrontation killed soldiers on both sides and drove relations to their lowest point in decades. Covid halted travel between the nuclear-armed neighbors, while India imposed new restrictions on Chinese investment and technology.
+
+And in 2023, Xi skipped a Group of 20 summit in New Delhi, sending Premier Li Qiang instead in what was seen as a snub to Modi.
+
+It took a meeting of the two leaders on the sidelines of the 2024 BRICS summit in Kazan, Russia, to start right-sizing the relationship. That was followed by a 2025 meeting in Tianjin. Both countries have restored direct flights, while India has relaxed some curbs on investment from Chinese companies. China and India last month signaled some limited progress in border negotiations.
+
+An official in New Delhi said the central objective of this weekend’s meeting will likely be to give the relationship a broader framework for future engagement. Broad areas of discussion will be economic ties, people-to-people exchange and management of the border dispute, said this person, who asked not to be identified because they weren’t authorized to speak publicly.
+
+## Tension Points
+
+Numerous tension points remain. India remains concerned about Chinese export controls over key machinery like tunnel-digging equipment and inputs like rare-earth magnets and oxides, crucial for its manufacturing sector. Beijing has long been wary of India’s alignment with the US in areas like technology, trade and defense.
+
+India also remains uneasy with China’s engagement in an area it considers its backyard, especially its deepening defense relationship with New Delhi’s archenemy Pakistan. Most recently, Pakistan’s military showcased an air-defense system resembling a Chinese platform in a promotional video. That comes on top of Pakistan’s much-publicized deployment of Chinese fighter jets in Islamabad’s clash with India last year.
+
+“India-China rivalry remains the biggest brake on BRICS cohesion,” said Reema Bhattacharya, Head of Asia Research, at risk intelligence company Verisk Maplecroft. “Xi’s expected visit and recent progress on the border dispute create space for cooperation, but the thaw looks tactical and fragile, driven in part by shared frustration with US tariffs rather than a fundamental strategic reset. Bilateral tensions could quickly resurface.”
+
+Last month’s flash flood that engulfed villages and disrupted trade on the China-Nepal border adds to the uncertainty. China has said dozens of Indians remain missing on its side of the border, home to a popular pilgrimage site. Beijing has said it’s in contact with foreign embassies over missing foreigners, but hasn’t disclosed any direct effort to locate missing Indian nationals.
+
+Xi’s visit is “significant as a confidence-building mechanism,” said Chietigj Bajpaee, a senior research fellow for South Asia at Chatham House. But “fundamental grievances” remain, from the border dispute to China’s relationship with Pakistan. “In the absence of a resolution of these fundamental grievances, it will remain a tactical thaw rather than a strategic reset.”
+
+Signs of progress in any upcoming Xi-Modi sit-down would be a framework for dialogue on trade and investment, cooperation on green technology and some effort to address rare-earth supplies from China to India, said Manoj Kewalramani, chairperson of the Geostrategy Programme at the Takshashila Institution.
+
+“There’s been an effort from both sides after Xi Jinping and Modi met in October 2024 in Kazan to try and put a floor on the relationship, rebuild the relationship,” he said.
+
+An unpredictable US under President Donald Trump has added a new wrinkle in China-India ties. India’s relationship with the US, its longtime partner, has deteriorated as trade talks have dragged on, and as Trump has grown closer to Pakistan. Meanwhile, China-US ties are on an upswing, as Xi has grown more confident in managing Trump following the two countries’ last trade war.
+
+The new dynamic leaves Xi in a stronger position as he goes into a meeting with his Indian counterpart, Kewalramani said. “At the same time, I think the Chinese realize that India is a massive neighbor and a significant opportunity, but also an actor that you need to work with if you have to achieve some sort of regional order on your terms.”
+
+**_Disclaimer: The views and analysis cited in the report are those of the respective experts and do not necessarily reflect the views of this publication._**
+
+---
+
+### Mother Allegedly Kills 1-Year-Old Daughter By Slitting Her Throat In Kerala, Attempts Suicide
+*Aanchal Sinha · general*
+
+Police said they received information about the incident, and the child was rushed to a hospital by people nearby. However, she could not be saved.
+
+[Read full article](https://www.news18.com/india/mother-allegedly-kills-1-year-old-daughter-by-slitting-her-throat-in-kerala-attempts-suicide-ws-l-10322564.html)
+
+---
+
+### 'MoU to be signed soon': Kishan Reddy unveils India-Russia critical minerals pact
+*ET Online · business*
+
+'MoU to be signed soon': Kishan Reddy unveils India-Russia critical minerals pact
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/mou-to-be-signed-soon-kishan-reddy-unveils-india-russia-critical-minerals-pact/videoshow/134045110.cms)
+
+---
+
+### Woman accuses boyfriend of hiding identity, drugging her with ‘prasad’ and then rape
+*Dipesh D Tripathi · general*
+
+A 20-year-old Mumbai woman has accused her boyfriend of concealing his identity and religious background to enter into a relationship with her and later sexually assaulting her on the pretext of marriage after drugging.
+
+Based on the woman's complaint, the Mumbai Police have registered an FIR against the accused, Arif Sheikh, who introduced himself to her as "Shiva Rathod".
+
+According to the complaint, the Hindu woman working as a telecaller at a company in Chembur met the accused in January 2025. She alleged that he introduced himself as "Shiva Rathod" and subsequently proposed marriage to her.
+
+The woman told police that the accused allegedly did not disclose his actual name or religious identity. According to the FIR, after their relationship developed, the accused began taking her to different places and allegedly established physical relations with her after assuring her that he would marry her.
+
+However, according to the complaint, she later learned that the man's actual identity was Arif Sheikh. Following the revelation, the two had an argument, according to her statement.
+
+She alleged that the accused subsequently tried to persuade her to continue the relationship and made various assurances to her. The woman further stated that despite the dispute over his identity, the accused allegedly continued to maintain a relationship with her.
+
+In one incident described in the woman's complaint, the accused allegedly took her to a lodge and gave her something to eat, describing it as 'prasad'.
+
+The woman alleged that she became unconscious after consuming it. She further alleged that the accused sexually assaulted her while she was unconscious.
+
+According to the complaint, after regaining consciousness, she allegedly noticed blood in the room and questioned the accused about what had happened.
+
+The woman further alleged that after the incident, the accused gave her a tablet and told her that it would prevent her from becoming pregnant.
+
+The FIR also mentions another alleged incident in which, according to the complainant, she again experienced a state of unconsciousness.
+
+The complaint further alleges that the woman was introduced to some members of the accused's family. According to her statement, she was told that if she wanted to marry the accused, she would have to convert to Islam.
+
+The woman told police that she opposed these demands. She alleged that the situation subsequently turned darker, with the accused allegedly threatening and blackmailing her using photographs and videos.
+
+According to the FIR, the accused allegedly threatened her in an attempt to make her continue living with him. She also alleged that threats were made against members of her family.
+
+The woman told police that she eventually attempted to distance herself from the accused because of his conduct. However, according to her complaint, he continued to follow her and threaten her.
+
+The case was registered by the Mumbai Police on the basis of the woman's allegations. The allegations are contained in the complaint and FIR, and their veracity will be established through the course of the investigation.
+
+\- Ends
+
+Sep 11, 2026 09:48 IST
+
+---
+
+### 15K cops, 200 paramilitary companies, 500 CCTV cameras: Delhi on high alert for BRICS Summit; check if your route is among 35 affected roads
+*Shreedhar Rathi · regional*
+
+New Delhi is implementing extensive security and traffic measures for the upcoming BRICS Summit.
+
+NEW DELHI: Delhi has been placed under a high-security cover ahead of the two-day 18th BRICS Summit at Bharat Mandapam, with around 15,000 Delhi Police personnel, 200 companies of paramilitary forces and more than 500 CCTV cameras deployed across the capital.The Delhi Traffic Police said there would be no citywide shutdown, but commuters should brace for temporary stoppages, diversions and restrictions as VVIP convoys move through the city. Traffic will be regulated wherever required, with vehicles released in phases depending on security conditions and the movement of dignitaries.“We have made elaborate arrangements by ensuring minimum inconvenience to the public.
+
+We have also issued advance advisories on traffic arrangements,” a senior police officer said.Russian President Vladimir Putin arrived in Delhi early Friday for the summit, while China has confirmed President Xi Jinping’s participation, his first visit to India in seven years.Other leaders expected at the summit include Iranian President Masoud Pezeshkian, South African President Cyril Ramaphosa, Egyptian President Abdel Fattah El-Sisi, Abu Dhabi Crown Prince Mohamed bin Zayed Al Nahyan, UN Secretary General Antonio Guterres and WHO chief Tedros Adhanom Ghebreyesus.
+
+Check your route first before planning your travel
+
+### 35+ roads likely to be affected
+
+More than 35 roads could see restrictions or diversions during the summit. These include Mathura Road, Sardar Patel Marg, Shanti Path, Janpath, Ashoka Road, Barakhamba Road, Tolstoy Marg, Africa Avenue Road, Niti Marg, Panchsheel Marg and APJ Abdul Kalam Road.The impact is likely to be felt most by commuters travelling between Noida and central Delhi, east Delhi and central areas, and from Dwarka and west Delhi towards Dhaula Kuan, the airport and south Delhi.The movement of the Egyptian delegation between its hotel in Saket and central Delhi could also add to congestion on south Delhi roads, particularly during peak hours.Officials said the summit would involve multiple high-security movements each day. A single dignitary could travel between the airport, hotel, summit venue and bilateral meetings, resulting in 70-80 or more high-security movements across the city in a day.
+
+Each movement requires separate traffic regulation, access restrictions and route coordination.The city got a glimpse of the arrangements on Wednesday evening when a motorcade rehearsal caused prolonged delays at several locations. Traffic was regulated at 22 diversion points during the exercise between 7pm and 10pm.Around 4,800 traffic personnel have been deployed for summit-
+
+### CCTV, facial recognition for round-the-clock surveillance
+
+Delhi Police has surveyed the identified routes and held coordination meetings with multiple agencies and neighbouring states.
+
+Security arrangements will cover the airport, hotels, Bharat Mandapam and other locations to be visited by the dignitaries.In the New Delhi zone, more than 500 CCTV cameras, including high-resolution cameras, facial recognition systems and automatic number plate-reading cameras, will provide round-the-clock surveillance through a central monitoring room.Enhanced access control, verification, intelligence gathering, traffic management and emergency response systems have also been put in place at the summit venue and hotels.
+
+### Metro, buses, cabs to operate
+
+The Delhi Metro will continue to run, though temporary restrictions on entry, exit or access to some stations could be imposed if required for security reasons.DTC and city buses will also operate, but services on affected routes may be diverted, curtailed or regulated. Autos, taxis and app-based cabs will continue to ply, although movement into restricted areas and pick-up and drop-off arrangements may be affected.Parking will not be allowed on restricted and security-sensitive roads. Essential supplies such as milk and medicines will be facilitated under the applicable arrangements.Candidates appearing for UPSC, NDA, CDS and other examinations have been advised to check their centres and routes in advance, carry their admit cards and IDs, and leave early. Those travelling for planned hospital appointments have also been advised to allow extra time.Traffic officials have coordinated with online map service providers to update restrictions, diversions and alternate routes in real time.Police have also warned people against forwarding unverified social media messages claiming a “Delhi bandh” or blanket road closures, urging commuters to rely on official advisories.(With PTI inputs)
+
+---
+
+### In Bengaluru, CJP flags teacher shortage, infrastructure issues in government schools
+*Kiran Parashar · legal*
+
+CJP’s Ashutosh Ranka and others visited four government schools in Bengaluru as part of its nationwide “School Thik Karo” campaign.
+
+[Read full article](https://indianexpress.com/article/cities/bangalore/bengaluru-government-schools-teacher-shortage-sir-work-infrastructure-10872907/)
+
+---
+
+### Why Is Share Market Falling Today? Key Reasons Behind Sensex, Nifty Crash On September 11
+*Mohammad Haris · business*
+
+Stock market today: Sensex fell nearly 700 points and Nifty slipped below 23,250. Here are the key factors behind the market decline, from crude oil surge to FPI selling.
+
+[Read full article](https://www.news18.com/business/markets/why-is-share-market-falling-today-key-reasons-behind-sensex-nifty-crash-on-september-11-10322556.html)
+
+---
+
+### Delhi-Mumbai rail route targets 160 kmph train operations, 12-hour journey under Mission Raftaar
+*Anish Mondal · legal*
+
+Indian Railways is upgrading the Delhi-Mumbai route for 160 kmph train operations under Mission Raftaar, with a 12-hour journey target and several infrastructure works underway.
+
+[Read full article](https://indianexpress.com/article/india/delhi-mumbai-trains-160-kmph-12-hour-journey-mission-raftaar-10872856/)
+
+---
+
+### Could your Indian degree soon carry more weight across BRICS countries?
+*India Today Education Desk · general*
+
+Could an Indian engineering, science or technology degree one day be recognised more easily across Brazil, Russia, China, South Africa and the newer BRICS members? That could become a possibility if discussions around Mutual Recognition of Qualifications (MRQ) translate into a formal framework.
+
+India, which is hosting the BRICS Summit in New Delhi on September 12-13, 2026, has been pushing greater cooperation in education, research and academic mobility. The BRICS grouping currently has 11 members – Brazil, Russia, India, China, South Africa, Egypt, Ethiopia, Indonesia, Iran, Saudi Arabia and the UAE.
+
+At the 13th BRICS Education Ministers’ Meeting held in Bhubaneswar in August, member countries agreed to convene further Working Group meetings to advance discussions on an agreement on MRQ. The objective, as stated, was to facilitate greater academic mobility and cooperation across BRICS.
+
+The idea of MRQ is particularly important for STEM education. If qualifications, credits and academic standards can be mapped and recognised across countries, students could potentially move more easily between BRICS universities for higher studies, research, exchange programmes and eventually employment.
+
+### RUSSIA, CHINA AND UAE ALREADY ATTRACT INDIAN STUDENTS
+
+The latest Ministry of External Affairs data, based on registrations with Indian missions, shows that Russia is currently the biggest BRICS destination for Indian university students, with around 27,000 reported in universities and tertiary institutions in January 2025.
+
+China followed with 5,330, while Iran had 2,930 and Egypt 1,500. South Africa had 536 Indian university students and Saudi Arabia 830.
+
+The UAE presents an interesting case. It had 2,53,832 Indian students overall, but only 6,507 were in universities or tertiary institutions. The overwhelming majority — more than 2.47 lakh — were school students.
+
+The remaining BRICS members currently have much smaller Indian higher-education cohorts: Indonesia had 17 students, Brazil seven, while no Indian university students were reported in Ethiopia in the January 2025 dataset.
+
+### BRICS STEM CORRIDOR AND MRQ
+
+This uneven distribution also shows why MRQ needs to be taken seriously rather than remaining a diplomatic declaration.
+
+A functional BRICS education corridor could focus initially on STEM fields — engineering, computer science, AI, biotechnology, medicine, climate technology and advanced manufacturing — where universities and industries across the grouping have complementary strengths.
+
+It could eventually mean easier credit transfers, clearer equivalence of degrees, joint programmes, scholarships, research exchanges and smoother movement of students and researchers.
+
+However, mutual recognition would not automatically mean that every Indian degree becomes valid for professional practice in another country. Countries would still need common quality-assurance standards, discipline-specific requirements and clear rules for regulated professions.
+
+For Indian students, therefore, the real test will be whether BRICS can move from broad cooperation to a practical MRQ framework - one that makes an Indian STEM degree genuinely more portable across the world's emerging education and technology hubs.
+
+\- Ends
+
+Mridusmita Deka
+
+Sep 11, 2026 09:43 IST
+
+---
+
+### BRICS Summit: Delhi taxis get new pick-up and drop-off rules from Sep 11
+*India Today Information Desk · general*
+
+Taxi and online cab services in Delhi will follow a designated pick-up and drop-off arrangement during the BRICS Summit from September 11 to 13.
+
+Taxi and online taxi services will follow special arrangements in the area during the BRICS Summit 2026, scheduled from September 11 to 13.
+
+According to the Delhi Traffic Police advisory, passengers travelling by taxi or online cab will need to use the designated location for both pick-up and drop-off.
+
+### PICK-UP AND DROP-OFF ONLY AT GATE 4
+
+All taxi and online taxi services will be allowed to drop off and pick up passengers only outside Gate No. 4 on the Bhairon Road side.
+
+Passengers travelling to the venue by cab should therefore check the designated point before starting their journey.
+
+### DESIGNATED TAXI PARKING ON BHAIRON ROAD
+
+A designated parking area has also been specified for taxis at Bhairon Mandir Parking, located on the other side of the road.
+
+Taxi operators have been advised to use the designated parking arrangement during the summit period.
+
+#### PLAN YOUR JOURNEY IN ADVANCE
+
+The Delhi Traffic Police has advised commuters travelling by taxi to check the pick-up and drop-off point beforehand and plan their journey accordingly.
+
+The traffic advisory is applicable during the BRICS Summit period from September 11 to 13, 2026.
+
+For traffic-
+
+\- Ends
+
+Chaitanya Dhawan
+
+Sep 11, 2026 09:41 IST
+
+
+---
+
 ## 10 September 2026
 
 ### US Bond Yields Hit Highest Levels Since 2023 After Treasury Department Announces Up To $6 Billion Buyback
