@@ -1,8 +1,282 @@
 # Editorials
 
-_Last updated: 2026-09-10 06:29 UTC_
+_Last updated: 2026-09-11 06:31 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 11 September 2026
+
+### Growth spurt: On data by Federation of Automobile Dealers’ Associations
+*The Hindu · Editorial*
+
+According to data released by the Federation of Automobile Dealers’ Associations (FADA), total vehicle registrations in August have increased 17.5% year on year, recording the all-time highest volume for the month, and with alternative powertrains, i.e., CNG, electric, and hybrids, leading passenger vehicle sales for the first time. But upon a closer look, some confounding factors emerge that also warrant caution about the figures. First, July 2026 itself was a strong month, with the August numbers 6.4% lower, possibly due to the monsoon. Second, the number of vehicles retailed in rural areas grew 19.7% year on year over 15.1% in urban areas; passenger vehicles sales likewise increased 24.9% in rural areas versus 10.9% in urban areas. This could be due to rising disposable incomes and consistent state capital expenditure on semi-urban infrastructure. However, tractor sales have in the past indicated monsoon-related rural stress, and while their sales are virtually unchanged year on year, they declined 25% month on month. Together with two-wheelers and passenger vehicles selling well, the trend suggests that non-farm rural incomes and mobility could be strengthening more than capital spending linked to agriculture. Third, last year, the GST Council reduced taxes on small cars, motorcycles (up to 350 cc), three-wheelers, buses, and goods vehicles, so August 2025 sales growth dropped as buyers waited for the new rates from September. Fourth, while CNG, hybrid, and electric powertrains beat petrol/ethanol vehicle sales by 1.1 percentage points, most hybrid vehicles still burn petrol while CNG itself is a fossil fuel. So the lead taken by alternative powertrains is not synonymous with a lead of non-fossil-fuel vehicles.
+
+That said, petrol vehicles falling behind is still notable; the data also show that between August 2024 and August 2026, CNG and electric powertrains contributed most of the surge, implying that Indians are switching to alternatives that are cheaper to run, in light of the West Asia conflict and, to a lesser degree, concerns over ethanol blending. Next, the move away from petrol is uneven: three-wheelers are predominantly electric while two-wheelers catch up, and passenger cars’ powertrains continue to diversify. And electrification continues to reflect rising consumer demand as much as industrial policy. Finally, FADA also reported that, despite record sales, dealers are holding 38-40 days of inventory against the recommended 21. So while the petrol era is far from over, the Indian automotive industry has commenced the mass-market integration of alternative powertrains. But that said, only if September-November preserves the gains in alternative powertrains after the base effect disappears, and dealer inventories return to normal levels, can August 2026 be considered a historic moment.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/growth-spurt-on-data-by-federation-of-automobile-dealers-associations/article71451805.ece)
+
+---
+
+### Rude lessons: On the U.S.-Canada trade dispute, lessons for India
+*The Hindu · Editorial*
+
+The U.S.-Canada trade dispute has a few sharp lessons for India. The two economies have been deeply economically integrated since at least 1965, when they established free trade in automobiles and their parts. This then widened into a full-fledged free trade agreement in 1989, which was expanded into the North American Free Trade Agreement (NAFTA) about five years later. The economic integration between the U.S. and Canada has steadily continued and, by all accounts, has worked well for both economies. The target for the much smaller Canadian economy was to achieve economies of scale by producing vast amounts of a few products. According to Nobel laureate Paul Krugman, Canada accounts for 70% of the oil refined in the American Midwest, and supplies 60% of the nation’s aluminium. It also supplies nearly all the types of lumber used in U.S. residential construction. Yet, despite this long and fruitful trade partnership, their economic relationship has fallen to a new low. Canada pulled out of negotiations over a new tariff deal citing last-minute insertions by the U.S. side. The U.S. has made a similar allegation against Canada. Canada recently levied reciprocal tariffs on the U.S. of up to 50% as a reaction to the 50% tariffs that the U.S. has imposed on imports from Canada. From September 29, the U.S. will outright ban certain Canadian alcoholic spirits, some dairy goods, and motorcycles. Statements by U.S. President Donald Trump are hardly conciliatory in nature.
+
+The first lesson for India lies here: if this is how the U.S. treats a next-door neighbour, alliance member, and long-standing trade partner, India should not take for granted any favourable treatment that it might receive from the U.S. The second lesson is that barrelling ahead with trade deals might not always be the best plan. Before Canada, Malaysia also backed out of a deal it had signed with the U.S. It argued that once the U.S.’s reciprocal tariff system was deemed illegal, the benefit from a trade deal no longer outweighed the costs of opening up to the U.S. Despite the success of its recent trade pacts, India should weigh the same pros and cons when it comes to the U.S., especially since a deal might not be the end of the tariff pressure. India has faced this before. Despite the February 2026 agreement of 18% tariffs on imports from India, the U.S. has forged ahead with its forced labour and excess capacity investigations that could see tariff levels exceed that limit. India has done well to insist that a deal will not be struck until its advantage over its competitors is clear. The third lesson is that this advantage can vanish even after a deal is struck.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/rude-lessons-on-the-us-canada-trade-dispute-lessons-for-india/article71451767.ece)
+
+---
+
+### A unilateral America in a post-unipolar world
+*The Hindu · Opinion*
+
+When the September 11, 2001 terrorist attacks took place, the United States was at the pinnacle of its power. A decade earlier, its Cold War rival, the Soviet Union, had disintegrated. Russia was still struggling to emerge from the post-Soviet chaos while China remained a close economic partner of the U.S. In eastern Europe, Washington had successfully undertaken military interventions, while the North Atlantic Treaty Organization (NATO) had completed its first round of expansion into Russia’s neighbourhood. The U.S. also maintained a formidable military presence in West Asia. Then came 9/11.
+
+The U.S., then the world’s sole superpower, was understandably angry and anguished. It launched “a global war on terrorism”, with Taliban-run Afghanistan, which had hosted al-Qaeda, the perpetrators of the 9/11 attacks, as its first target. But the war that then U.S. President George W. Bush launched went far beyond the remit of a fight against terrorism. Twenty-five years later, the U.S. remains bogged down in West Asia, its rivals are more assertive elsewhere, while the threat of terrorism has become more dispersed across West and South Asia and Africa.
+
+Related StoriesThe global war on terror, an empowered Iran
+
+25 years after 9/11: What is at Ground Zero where the Twin Towers once stood
+
+Even though it was conceived as a transborder fight against terrorist organisations, primarily al-Qaeda, the war eventually evolved into a series of regime-change wars, driven by the goal of reshaping Afghanistan, West Asia and North Africa in accordance with American interests and worldview. Mr. Bush and his neoconservative allies believed that a “deficit of democracy” bred terrorism, and hence, the spread of democracy became a theoretical imperative of the war on terror. In Afghanistan, U.S. forces toppled the Taliban regime and established a new state — the Islamic Republic. The war forced al-Qaeda to disperse into autonomous cells and retreat, but it did not defeat the organisation.
+
+Three consequencesIn less than two years, the U.S. invaded Iraq. Besides the disastrous humanitarian cost of the war, the invasion had three lasting consequences. First, it diverted U.S. attention from Afghanistan and al-Qaeda, giving the Taliban space to regroup and lay the foundations for an insurgency that would eventually defeat the U.S. — 20 years after the 9/11 attacks.
+
+Related StoriesDonald Trump makes 9/11 about himself, again
+
+EU warns of chilling new terror menace 25 years after 9/11 as online youths seek violent thrills
+
+U.S. judge throws out confessions of alleged 9/11 mastermind, says report
+
+Military judge sets June 2028 trial date for 9/11 mastermind Khalid Sheikh Mohammed
+
+Second, the destruction of the state of Iraq and the chaos that followed offered a new haven for al-Qaeda, which was also seeking to regroup. Before 9/11, Afghanistan had hosted Osama bin Laden’s al-Qaeda. After the Iraq war, Abu Musab al-Zarqawi built the deadliest branch of the jihadist organisation in Iraq. The al-Qaeda in Iraq (AQI) would outlive Zarqawi, who was killed in a U.S. airstrike in 2006, and transform itself into the deadly Islamic State of Iraq and Syria (ISIS) in the early 2010s, after Syria, too, plunged into civil war.
+
+Third, the collapse of the Saddam regime in Iraq removed a historical buffer between Iran and the U.S.-backed Persian Gulf monarchies. Saddam had fought Iran for eight years in the 1980s. True, he had later become an outcast in the U.S.-Sunni axis, but he remained a staunch enemy of Tehran. After Saddam fell, Iraq’s Shia movements, which had deep historical ties with Tehran but had been suppressed under Saddam, emerged as the new centres of power in Baghdad. Iran steadily expanded its influence in Iraq, strengthening its regional position while also trapping the U.S. in the morass of Iraq.
+
+Related Stories24 years of 9/11: New York marks attacks against divided backdrop
+
+20 years after 9/11 | Ground zero — A selfie stop for some, a cemetery for others
+
+The regime-change wars did not end with Iraq. In 2011, amid the Arab Spring protests, NATO launched an extensive bombing campaign in Libya aimed at “protecting the Libyan people” from Muammar Qaddafi’s forces. The war, which then U.S. President Barack Obama later said he had “led from behind”, brought down the Qaddafi regime but effectively destabilised Libya, once one of the most stable states in Africa. The collapse of the Libyan state opened the floodgates to terrorism across Africa, as weapons were smuggled across borders and fell into the hands of various militias and terrorist groups. Over the past 15 years, jihadist groups have spread their influence across the Sahel, while western influence has continued to diminish on the continent.
+
+Cutting the losses, geopolitical chain effectsBy the time Mr. Obama had left the White House, war weariness had set in across Washington. Iraq remained unstable, with growing Iranian influence. In Afghanistan, the Taliban were gaining strength with each passing day, putting American troops under enormous pressure. Libya was divided between rival governments and armed militias. In Syria, a Russian military intervention seemed to have turned the tide, though briefly, in favour of the Assad regime. While the U.S. was struggling to manage its wars in Afghanistan, West Asia and North Africa, China, America’s key systemic rival, continued to rise economically and militarily. Having become bogged down in a strategic maze, the U.S. started cutting its losses and repositioning itself across the wider region.
+
+The first move was to accept the fact that the U.S. had lost the war in Afghanistan, the first of its post-9/11 regime-change wars. Donald Trump’s first administration began direct talks with the Taliban, and in February 2020, the U.S. signed an agreement with the Islamist insurgency, committing to withdraw American troops from Afghanistan. On August 15, 2021, two weeks ahead of the deadline, the Taliban entered Kabul.
+
+The paradox of the post-9/11 era is that America emerged from the Cold War as the world’s unrivalled power, but its attempts to consolidate that primacy through military interventions gradually eroded the very strategic freedom that unipolarity had given it. Take the case of the U.S. withdrawal from Afghanistan. The U.S. saw the withdrawal as the swallowing of an inevitable bitter pill: Washington needed to trim its strategic overreach and prepare for the looming contest with China. But two developments since the withdrawal have erected obstacles to America’s strategic repositioning.
+
+First, the U.S. pullback from Afghanistan was interpreted as a sign of weakness by its rivals, particularly Russia, which had long sought to alter the post-Soviet security architecture in its rimland. Call it a geopolitical butterfly effect: in February 2022, less than a year after America’s withdrawal from Afghanistan, Russia invaded Ukraine, testing the U.S. commitment to Europe.
+
+Second, the October 7, 2023 Hamas attack on Israel shook the whole of West Asia. A furious Israel announced its own “war on terror”, launching a full-scale attack on Palestinians in Gaza and extending it into a mini-regional war in West Asia, setting off a chain of developments that led to the February 2026 U.S.-Israeli bombing of Iran. America’s failure to learn the lessons of its failed regime-change wars, its inability to strategically decouple itself from Israel, and its hubris, coupled with a refusal to accept the reality that the world has changed, have all contributed to this folly. The American-Israel axis sought to topple the Islamic Republic and reshape the region. But the war has trapped the U.S. in another quicksand in West Asia.
+
+The changing global orderSo, 25 years after the 9/11 attacks, terrorist groups have not only survived the war on terror but have also evolved into localised tentacles of a transnational jihadist project spanning multiple geographies. Despite America’s commitment to Europe through NATO, there is a widening chasm in the transatlantic alliance. As traditional U.S. allies grow increasingly frustrated with Washington’s newfound transactionalism, Israel, America’s closest ally in West Asia, is dragging Washington deeper into a regional vortex. While the U.S. remains bogged down in West Asia, China has risen as the second pole of an increasingly fluid multipolar order, while Russia is violently challenging the U.S.-led security architecture in Europe. The U.S., as its ill-conceived Iran war would suggest, continues to act like a unilateral hegemon. But its unilateralism is increasingly at odds with the emerging realities of the post-unipolar world.
+
+Collection - 10 stories The Hindu Archives 9/11 report from the ground: Smoke, shock spread over New York The Hindu Bureau 9/11: How The Hindu covered the terror attacks on USA Akul Baiju 25 years after 9/11: What is at Ground Zero where the Twin Towers once stood Monisha R.Twenty-five years after 9/11 A unilateral America in a post-unipolar world You're in this storyTwenty-five years after 9/11 The global war on terror, an empowered Iran Shashank Ranjan Donald Trump makes 9/11 about himself, again AFP EU warns of chilling new terror menace 25 years after 9/11 as online youths seek violent thrills AP Military judge sets June 2028 trial date for 9/11 mastermind Khalid Sheikh Mohammed AP U.S. judge throws out confessions of alleged 9/11 mastermind, says report AFP0 / 0
+
+[Read full article](https://www.thehindu.com/opinion/lead/a-unilateral-america-in-a-post-unipolar-world/article71452546.ece)
+
+---
+
+### DC Edit | IT Industry On Cusp Of Change
+*Deccan Chronicle · Editorial*
+
+The US department of labour’s suspension of Indian IT major Cognizant Technology Solutions’ Permanent Labour Certification (PERM) filings is unfortunate as it seeks to punish people who have come legally to the United States, followed all local laws and paid taxes for no mistake of theirs.
+
+PERM certification is the first in the three-stage process that leads to the issue of permanent US residency or green card. When a company files PERM, it demonstrates that it has a permanent position for a foreign worker and that no qualified American is available for it at the prescribed wage.
+
+With the suspension of Cognizant’s filings, the Trump administration has ensured that its staff’s hope for a US green card is either denied or delayed. Though the action was said to be due to an alleged misuse of immigration programmes by Cognizant, this development will create uncertainty for people who are waiting for the green card.
+
+The suspension must also be viewed in the light of the Trump administration’s broader tightening of immigration controls, which include enhanced scrutiny, social media vetting, visa appointment cancellations and prolonged processing.
+
+The administration has also revoked large numbers of visas for alleged violations, criminal conduct and security or immigration concerns. Recently, they revoked several H-1B petitions filed by an unnamed major IT consulting company for paying their staff wages lower than expected.
+
+The series of US actions reveal that the era of wage arbitrage that Indian IT companies turned into a successful business model for over two decades is coming to an end. However, the US faces a real scarcity of advanced talent in areas such as artificial intelligence, cybersecurity, semiconductor engineering, cloud architecture and specialised healthcare technology. Closing the door to skilled immigration would damage American innovation.
+
+The Indian companies, therefore, must focus on addressing genuine shortages in specialised occupations, so not to essentially displace equally qualified local employees.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-it-industry-on-cusp-of-change-1986561)
+
+---
+
+### DC Edit | TN Ruling Bloc Defines Its Politics With Name
+*Deccan Chronicle · Editorial*
+
+The name may say a lot but there is more to it. Secular Social Justice Victory Alliance, even if abbreviated as SSJVA, is not a simple name or acronym like NDA or UPA. But it’s a telling nomenclature that resonates with the political spirit that drives Tamil Nadu as a unified force now. The five-party alliance, led by the ruling Tamilaga Vettri Kazhagam (TVK), has been functioning informally and without a name since the new government with C. Joseph Vijay at the helm assumed power in the state on May 10. When the group met, for the second time to formalise its activities and strategies, it took on this rather elaborate moniker that explains to the people what the group of parties have in common to come together.
+
+By squeezing in the two key terms — secularism and social justice — that have been defining the political narrative of the state ever since it emerged on its own with value systems independent of the national mainstream — into the name, Mr Vijay and other leaders of the alliance parties have sent across the message that it is quintessentially a Tamil Nadu coalition having the welfare of the state and its progress as agenda. The assumption of the formal name also indicates the collective objective of the parties, the TVK, the Congress, the VCK, the MDMK and the IUML, to aspire for better governance of the state on the basis of shared values and common principles.
+
+The parties perhaps wanted to shed the image of an informal group that came together after the elections just to save a new government that did not have the adequate numbers or to prevent the imposition of President’s Rule in the state. Now, to emerge as a robust long-term alliance on the lines of the NDA or UPA at the national level or the LDF and UDF in the neighbouring Kerala, the SSJVA has taken baby steps by holding a meeting and finalising various thorny issues amicably. In Tamil Nadu, the SSJVA will be directly in combat with the SPA, the Secular Progressive Alliance headed by the DMK, and the BJP’s NDA that has the AIADMK under its wings.
+
+Bestowing a formal structure to the alliance will enable the members to sort out prickly disputes that might arise between them as there will always be a Big Brother figure to smoothen ruffled feathers and usher in amity among them. Also, the alliance will give the individual parties, particularly the rank and file, a sense of kinship accompanied by a feeling of responsibility to stand by each other and take on the enemy on the other side of the fence with fraternal sensibilities. In other words, the five parties have committed themselves to wage a united fight with the other coalitions, perhaps by roping in the two Communist parties in the state, the CPI and the CPI(M), that are backing the government from outside without coming into SSJVA fold.
+
+Such a declared unity among the parties will also enable the people to take political decisions during future elections, be it the immediate by-elections to fill vacancies in the Assembly or to the local bodies that is not too far away, and also help the smaller parties in the state understand where they actually stand politically.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-tn-ruling-bloc-defines-its-politics-with-name-1986553)
+
+---
+
+### Can India Salvage A Fractured Brics?
+*Deccan Chronicle · Opinion*
+
+India is hosting the 18th summit of the 10-member Brics on September 12-13, 2026. Their finance ministers met a month earlier, but issued no joint statement, indicating intra-group differences.
+
+Goldman Sachs in 2001 envisioned a group of promising emerging economies consisting of Brazil, Russia, India and China. They had an opening summit in 2009. South Africa joined a year later. Iran, Egypt, Ethiopia and the United Arab Emirates attended their first summit as member states in 2024 in Russia. Indonesia officially joined in 2025, being the first South East Asian member. Saudi Arabia and Argentina were invited, but neither joined.
+
+Prime Minister Narendra Modi attended the Shanghai Cooperation Organisation (SCO) summit on August 31-September 1 at Bishkek, Kyrgyzstan. On exactly the same dates, the G-20 finance ministers met in the US, where South Africa was not invited. The G-20 summit is due on December 14-15 in Florida, US. Thus, the period August-December will see multiple competing narratives at play.
+
+The Bishkek Declaration, on SCO’s 25th anniversary, correctly argues that “global politics are undergoing profound evolution, with profound changes in economic, social and technological developments”. It adds that the international situation has been rendered “complex” by ongoing conflicts, challenges in energy and food security, global market volatility and severe climate change conditions. The same scenario confronts the Brics summit.
+
+Interestingly, India, China, Russia and Iran are members of both the SCO and Brics. However, while China made Indian membership of SCO contingent on Pakistan’s admission, in BRICS India allowed Iran’s inclusion but alongside that of the UAE. But the geopolitical scenario has evolved since then in the Gulf and West Asia. The UAE, having signed the Abraham Accords in 2020 is now seen by Iran as part of the US-Israel axis in the ongoing Gulf conflict. India too betrayed a similar tilt following the airstrikes by US-Israel on Iran on February 28. However, with the US holding back its trade deal with India, besides Pakistan exploiting the strategic vacuum and playing peacemaker by its mediation between Iran and the US, India is recalibrating its policy. Thus, it endorsed the Bishkek Declaration which condemns the military strikes on Iran but also maintains that no durable peace is possible in West Asia without “comprehensively and justly” resolving the Palestinian issue. At the United Nations India of late had weakened its stand on Palestine.
+
+Both groups insist that they are not against any other nation or group. However, in a world undergoing a political and economic power shift, besides the Iran and Ukraine wars, partisanship is unavoidable. China wants to dominate the agenda of both groups to bolster its support among the Global South, selectively defend useful elements in the existing global order like the World Trade Organisation, accelerate de-dollarisation and seek calibrated reform of the existing multilateral financial and political order.
+
+India agrees with some elements of the Chinese reformist agenda but would resist both organisations becoming anti-West, especially anti-US. India historically played the same moderating-role once the Non-Aligned Movement (NAM) became mammoth and susceptible to anti-West rhetoric.
+
+India has proposed a progressive agenda for the upcoming Brics summit, which seeks “Building for Resilience, Innovation, Cooperation and Sustainability”. Resilience implies the ability to navigate global uncertainties, climate risk and supply-chain disruptions. This covers the global economic disruption caused by the two wars and the arbitrary tariffs imposed by US President Donald Trump. Global trade is already bypassing these obstacles and connecting new markets. Brics members have not adequately adjusted to this reality. Despite their GDP being two-thirds that of Global South, the intra-Brics trade is merely 20 per cent of the South-South trade. This is reflected in India’s $100 billion trade deficit with China.
+
+The second listed theme is innovation. This covers digital public infrastructure, an area that India excels at, financial technology and Artificial Intelligence (AI). China leads other Brics members at AI, especially dominating the rare earths’ supply. It sees the US as its principal rival and is unlikely to encourage another nation to excel.
+
+The third theme is cooperation, covering multilateral policy coordination and global institutional governance reform. Brazil, India, Germany and Japan, have had a G-4 group since the early 21st century to seek UN Security Council reform and expansion of permanent membership. China, and less openly Russia, have never supported this process. All members only agree on reforming the World Bank and International Monetary Fund. The New Development Bank, created by Brics and based in Shanghai, is under-capitalised with $100 billion deposits. China has been running parallel infrastructure funding under...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/can-india-salvage-a-fractured-brics-1986557)
+
+---
+
+### Why Govts Should Help Athletes Exit Senior Positions To Protect Efficiency
+*Deccan Chronicle · Opinion*
+
+A full front-page advertisement in most newspapers on August 26 announced a felicitation ceremony for sportspersons from Haryana and drew widespread attention. On that day, the Haryana government presented a total of Rs 13.97 crore to 11 athletes who won medals at the Commonwealth Games in Glasgow from July 23 to August 2. The seven gold medallists received Rs 1.5 crore each, the two silver medallists Rs 75 lakh each, and two bronze medallists Rs 50 lakh each. Other Haryana sportspersons who participated in the Games were awarded Rs 7.5 lakh each — which, by any measure, is a substantial amount.
+
+The cash doled out to these sportspersons does not end there. More will be added to their kitty as the Central government scheme, too, has provisions to honour medal winning sportspersons in international arena. Those who returned with gold medals become eligible for Rs 30 lakh while silver and bronze medal winners will receive Rs 20 lakh and Rs 10 lakh each, respectively. These amounts are applicable for those who bagged medals in the Commonwealth Games and will make them eligible to the same incentive when they win medals in the Asian Games that begins in Japan on September 19. Much higher amounts await those who clinch medals in Olympics. Apart from the Central government schemes, states have their own incentive schemes which vary from state to state.
+
+The Haryana government has appointed six outstanding sportspersons including three handicapped para-athletes in the Haryana civil services while one athletics gold medallist of Asian Games 2018 Manjit Singh has been inducted into the Haryana police service as deputy superintendent of police. These appointments have been made under the Haryana Outstanding Sportspersons (Recruitment and Conditions of Service) Rules, 2018, on the directions of the apex court in May 2026.
+
+In addition, a good number of them are honoured with the prestigious Arjuna Award and a few even the Khel Ratna which fetch them cash prizes of Rs 5 lakh and Rs 25 lakh, respectively apart from free travel by train in AC sleeper class and other perks.
+
+While none would begrudge generous cash rewards for sportspersons who bring honour to the nation internationally, what is troubling, however, is the liberal practice of promoting or appointing them to gazetted government posts. Often placed in posts for which their competence and knowledge is questionable, they rise mainly on the strength of their sporting achievements. While they garner medals at national and international events, their professional competence is indubitably and understandably far below the desired standard. Their annual performance appraisal report would in no way match with their professional competence for the post that they hold. Not entirely their fault as much of their time is devoted to training, coaching camps, and competitions.
+
+The Indian Railways had largely been utilising their services as ticket examiners or reservation clerks which does not call for very intensive training and in a short span of time, they acquire the competence to carry out their assigned duties. Incidentally, most sportspersons prefer jobs in railways largely because they can be posted to stations closer to their homes.
+
+The defence forces, fortunately, do not offer promotion incentives of this kind. Middle distance runner Sriram Shekhawat secured the seventh place in 800 metres in Montreal Olympics in 1976 to set a national record of 1min 45.77 seconds — no mean achievement. He retired as honorary captain.
+
+Neeraj Chopra, who won Olympic gold in the javelin throw at the Tokyo Olympics in 2020, was then a junior commissioned officer in the Army. He was later conferred the honorary rank of lieutenant colonel, as were sporting stalwarts such as Sachin Tendulkar, who were made an honorary group captain in the Air Force, and Kapil Dev and Mahendra Singh Dhoni, both honorary lieutenant colonels in the Territorial Army. There are also accomplished sportspersons among regular officers, such as Col Rajyavardhan Singh Rathore. Having been commissioned through the regular route, they undergo formal training and pursue sport while continuing to perform the duties of their rank, making them better prepared to shoulder higher responsibilities.
+
+While young aspirants spend years trying to clear the civil services examination, there have been instances of sportspersons in the police rising to senior ranks, and even being conferred the IPS, with limited experience or training for such responsibilities. Police and Central Armed Police Force personnel have reason to resent the rapid advancement of sportspersons who often live in relative comfort and devote much of their time to practice and competitions, while regular personnel work long hours in difficult and often dangerous policing duties in remote areas.
+
+Saikhom Mirabai Chanu was appointed additional superintendent of police in January 2022 after winning silver at the 2020 Tokyo Olympics — an unprecedented...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/why-govts-should-help-athletes-exit-senior-positions-to-protect-efficiency-1986572)
+
+---
+
+### Content takedowns and the misrule of law
+*Deccan Herald · Editorial*
+
+Restrictive action on multiple Instagram accounts last month, and similar curbs imposed later, indicate a new level of censorship initiated by the Union government.
+
+Accounts of students, protesters, journalists, independent content creators, news organisations, activists, and Opposition politicians were targeted during and after the protests in Delhi staged by the Cockroach Janta Party (CJP) activists. Most of the posts taken down pertained to the CJP-led movement, the crackdown on the protesters, and content critical of the Bharatiya Janata Party (BJP) government.
+
+Provisions of the Information Technology Act, such as Section 79(3)(b) and Section 69A, were reportedly invoked for the takedowns. It is ironic that the IT Act, which has free expression in the digital space as one of its core principles, is being used to restrict the very freedom it proposes. Union IT Minister Ashwini Vaishnaw should be held accountable for the misuse of the law, restricting the citizens’ right to free speech.
+
+Govt departments sought takedown of 2.44 lakh social media content during Mar-Jul 2026Instagram was an important vehicle that amplified voices mobilised around the CJP. The party’s official page, which drew millions of followers and doubled as a platform for informed political debate, was briefly made unavailable after what Meta called a “legal request”.
+
+CJP spokespersons reported a “blanket ban on protest and Modi-related content”. Independent media outlets found original reportage restricted by “an automated system”, citing the IT Rules, with no clear explanation and no room for appeal. Arbitrary action was initiated against other accounts and media outlets.
+
+Between March and July, authorities reportedly issued nearly 200,000 blocking orders to Instagram, Facebook, and YouTube, most of them against Instagram. This amounted to over 1,275 takedown directions per day, compared to the average of six orders in the previous year. In August, the deadline for removing “unlawful content” was reduced from 36 hours to three.
+
+When authority expresses its power to the detriment of the rights of citizens, it creates a situation of emergency. What the State-driven censorship of social media content reveals is a digital emergency. The government can claim that the measures were targeted at abuse, deepfakes, or incitement.
+
+However, the move clearly sought to protect the government and its policies from criticism that was peaking online. When digital platforms face pressure over regulations, they risk becoming political instruments. Their priorities shift – avoiding legal liability becomes more crucial than securing public trust.
+
+Technology was also envisioned as a supplement to democratic expression. Its deployment to surveil and suppress that expression is a direct assault on a fundamental, constitutional right.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/content-takedowns-and-the-misrule-of-law-4142324)
+
+---
+
+### Dasara for an evolving state
+*Deccan Herald · Editorial*
+
+Chief Minister D K Shivakumar’s proposal to give a new shape to the Mysuru Dasara procession is timely, provided the effort strengthens rather than overwhelms the festival’s traditional character.
+
+The festivities are more than a celebration of royal heritage; they are an occasion to honour the state’s past, present, and future aspirations. The event, which traces its roots to the Vijayanagara period, evolved under the Wadiyar rulers into a nada habba.
+
+After the abolition of royal privileges, the king was replaced by the idol of Goddess Chamundeshwari in the golden howdah. Beyond that, the basic character of the Jamboo Savari has remained almost unchanged.
+
+The familiar procession of elephants, folk performers, and tableaux depicting the culture of different districts retains its charm. However, a fresh approach can lend it renewed relevance, particularly for younger audiences and visitors from outside the state and country.
+
+Mysuru Dasara 2026| Officials initiate measures to ensure trees not used for IlluminationEnvironmentalists, farmers write to Rahul Gandhi seeking cancellation of Kambala during Mysuru DasaraWill give new shape to Mysuru Dasara, make it more attractive: Karnataka CM ShivakumarThe proposal to invite contingents from the armed forces will help showcase the country’s military might, while the participation of ISRO and DRDO can bring Karnataka’s scientific and technological achievements to the forefront.
+
+Invitations to southern chief ministers and foreign ambassadors can give Dasara a wider national and international profile. In keeping with the times, it should also provide a platform for the state’s vibrant creative economy.
+
+Digital artists, tech-backed light designers, and young innovators can infuse the procession with contemporary energy, reinforcing its appeal to Gen Z and ensuring that the festivities speak to the future as much as to the past.
+
+More importantly, the grand spectacle should highlight the region’s transformation from an agrarian economy to a technological powerhouse and one of India’s leading growth centres. Its achievements in information technology, aerospace, biotechnology, startups, and manufacturing deserve a place alongside its folk traditions and cultural heritage, as does its long association with public sector enterprises and defence establishments.
+
+The story of development should extend beyond technology. Projects such as the Almatti Dam represent the state’s efforts to expand irrigation and transform agriculture. These are equally part of the modern narrative. The criticism that such changes could dilute Mysuru’s identity merits attention, but it should also be remembered that Dasara is no longer just a Mysuru festival.
+
+At the same time, change must not turn the event into an official function dominated by dignitaries – the festival belongs to the people. Dasara must evolve without losing its soul. It should celebrate both the heritage that history has bequeathed and the new Karnataka that its people are building.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/dasara-for-an-evolving-state-4142325)
+
+---
+
+### War economy: How defence budgets fuel global conflict, not peace
+*Deccan Herald · Opinion*
+
+Twenty-five years ago, the twin towers fell, and with them began one of the longest and most expensive wars in modern history. It has not ended since.
+
+War is not a failure of the system. War is the system, working exactly as intended. Strip off the flags and the songs, and the mechanics of war are simple.
+
+A country’s defence budget is not a rainy-day fund tucked away for emergencies. It is an engine, and engines must run. Money appropriated for weapons must be spent on weapons. Weapons manufactured must be sold or fired, or both.
+
+An arsenal that only ever sits in a warehouse is a balance sheet no shareholder will tolerate. So the machine does what machines do: it seeks throughput. And the only throughput a howitzer understands is a body.
+
+Whose war is it anyway?Global military spending crossed $2.7-2.9 trillion in 2025 – the highest figure ever recorded, and the eleventh consecutive year of growth. It now consumes 2.5% of the entire world’s output, a share not seen since 2009.
+
+The United States, China, Russia, Germany, and India together account for well over half of it. The Pentagon has already asked for roughly $1.5 trillion for the year ahead, the largest single request in its history. This stockpiling is not for peace. It is for “threats” and “contingencies” invented in the polished halls of politics.
+
+Heroes are cast – the coalition of the willing, the defenders of democracy, the liberators. Villains are identified – the tyrant, the terrorist, the theocrat, whichever axis the season requires. Armies mobilise, jets fuel, and bombs load, all in the name of freedom, liberty, women’s rights, and the rule of law. And the bombs, with grim regularity, fall on the very people the war was supposedly fought to save.
+
+Beyond the rhetoric of warEarlier this year, a US missile strike destroyed a girls’ elementary school in Minab, Iran, killing well over a hundred children along with the teachers who had stayed behind trying to walk them out.
+
+The strike arrived on the same day the US and Israel launched their offensive against Iran – a war framed, in part, as liberation for Iranian women. Instead, it produced the deadliest single strike on children during the entire conflict.
+
+Iran called it a massacre. Washington’s own investigators would later suggest it was likely a US strike, though responsibility was disputed for months.
+
+The dead were not consulted on the semantics. Precision-guided weapons do not become less lethal for the enormous public wealth spent on them. Sophistication does not mean restraint – it only means better numbers on the ledgers of the war economy.
+
+In the year a school in Iran was reduced to rubble, the country responsible was quietly dismantling its own. Through 2025 and 2026, the Trump administration hollowed out the US Department of Education: half its staff cut, grant programmes for the poorest schools left to dry up, funding for literacy, school meals, and building repairs redirected elsewhere.
+
+The logic in Washington and the logic dropped from the sky over Minab are the same. One clears the ledger of foreign children. The other clears the ledger of domestic ones.
+
+This is not an American disease alone. The pattern repeats, with local variations, from Moscow to New Delhi and in plenty of countries that fired no shots this year but budgeted as if they had. Education, healthcare, welfare – the slow, unglamorous architecture of peace – get trimmed in every austerity drive, the savings quietly reassigned to the “necessity” of defence. Austerity never touches the most glamorous line item of all. Treasuries will find trillions for missiles before they carve out a fraction for school infrastructure or special-ed programmes. The returns on war, apparently, look more tangible than the returns on education.
+
+Modernity has not tempered warfare. It has industrialised it. The same networks that move a photograph around the planet in seconds, the same satellites that let a family video-call across continents, also let a drone hover over a rooftop for hours, waiting.
+
+War has scaled with everything else – more precise on paper, and yet no less indiscriminate in practice about who ends up paying for it, disproportionately the young.
+
+After each blood-dimmed tide, the world takes a recess. Summits are held. Charters are signed. Glasses are raised to peace in marble rooms, photos taken to mark another historic achievement. Peace gets monumentalised, even as new conflicts are seeded in the same rooms. It doesn’t take long to notice that only the paper survives these summits.
+
+Ukraine spends 40% of its GDP and 63% of its national budget on the war. Russia spends a fifth of its state expenditure on the same. The summits on ending that war have so far produced more press releases than ceasefires.
+
+A society that wants war prepares for it – funds it, drills for it, contracts for it, builds the factories years in advance. A society that wants peace mostly just wishes for it: it hopes, attends summits, and applauds the signature. One side organises. The other side hopes. It should surprise no one which side keeps winning.
+
+Mourning cannot be the only ritual for 9/11. We also have to ask what was actually built on the foundations of the twin towers – the budgets, the contracts, the doctrine that a nation’s strength is measured by how efficiently it can end a life at a distance.
+
+Anyone who seeks peace through war should understand that violence begets violence, not its absence. The work of peace has to be at least as rigorous, as funded, and as organised as the machine it’s meant to outlast – rigorous enough to defeat an economics that rewards conflict over human life.
+
+That kind of transformation takes something closer to Gandhi’s moral conviction, or Japan’s deliberate postwar refusal to build a nuclear arsenal, than it does another summit. Retaliation only offers the illusion of security. An eye for an eye ends with the whole world blind.
+
+Sushant teaches English at VIT, Vellore; Navneet teaches Education at CUHP, Dharamshala.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/war-economy-how-defence-budgets-fuel-global-conflict-not-peace-4142318)
+
+---
 
 ## 10 September 2026
 
