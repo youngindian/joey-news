@@ -1,3 +1,682 @@
+## 12 September 2026
+
+### Bajaj Pulsar 125 and 150 review, first ride: Bringing back the classics
+*Abhinav Jakhar · general*
+
+## Twenty-five years after the original changed Indian motorcycling, the Pulsar 125 and 150 get new engines, gearboxes, chassis, suspension and technology. But have they evolved enough?
+
+Bajaj Pulsar 125 and 150 review
+
+There are motorcycles that sell well, and then there are motorcycles that become part of a country’s motorcycling culture. The Bajaj Pulsar is firmly in the latter category. When the original Pulsar 150 arrived in 2001, it gave Indian riders something that was still relatively unusual: performance with attitude, without making the motorcycle inaccessible. Twenty-five years later, Bajaj says more than 20 million Pulsars have found homes across more than 40 countries. That is a serious legacy to carry forward.
+
+For 2026, Bajaj has decided that the 125 and 150 need more than another cosmetic refresh. These are substantially reworked motorcycles, with new engines and gearboxes, a new frame, monoshock rear suspension and a much more sophisticated electronics package. There is also a five-inch TFT with Google Maps mirroring, ride modes and Crawl Tech on higher variants. In other words, these are not simply the old Pulsars wearing new clothes.
+
+Bajaj has gone beyond a cosmetic update, giving the 125 and 150 new engines, gearboxes, frames, monoshock suspension and upgraded electronics.
+
+That is important because the Pulsar has always had a very specific brief. It needs to be fun enough to make the daily commute interesting, comfortable enough to live with every day and efficient enough that performance doesn’t become an expensive hobby. The new 125 and 150 attempt to push that formula forward without abandoning the character that made the nameplate successful in the first place.
+
+### What’s changed on the Pulsar 125 and 150?
+
+The Pulsar 125 is powered by a new 124.58cc engine, producing 12PS, while the Pulsar 150 develops 14bhp.
+
+The biggest changes are underneath. The Pulsar 125 now uses a 124.58cc engine, while the 150 gets a 149.5cc motor. The 125 makes 12 PS and the 150 produces 14 PS, with both using five-speed gearboxes. More importantly, Bajaj has reworked the gearing to improve the amount of tractive effort reaching the rear wheel in the lower gears.
+
+That should be particularly relevant in the environment these motorcycles will spend most of their lives in. Bajaj’s data says 85 per cent of peak torque is available from 3,000rpm, while the revised gearbox can deliver up to 12 per cent more tractive effort at the wheel. The intention is clear: stronger initial acceleration and better response when you’re repeatedly moving away from traffic lights or squeezing through gaps.
+
+Both motorcycles now feature a diamond-type frame, with the engine serving as a stressed member.
+
+The chassis has undergone an equally important transformation. Both motorcycles now use a diamond-type frame, with the engine acting as a stiffness member. Bajaj’s technical material says the new frame is 20 per cent lighter and 60 per cent stiffer than the previous structure. The old rear suspension arrangement also makes way for a nitrogen gas-charged emulsion-type monoshock, aimed at improving stability and cornering composure.
+
+The new five-inch TFT supports Google Maps mirroring, call and message alerts, music controls and digital storage for vehicle documents.
+
+Then there is the technology. The new five-inch TFT can display Google Maps mirroring, call and message alerts and music controls, while riders can also store documents such as their registration certificate and insurance details. Higher variants get three riding modes - Road, Rain and Sport - along with Crawl Tech for low-speed traffic. Integrated starter-generator technology is also available on the top three variants and brings automatic start-stop functionality.
+
+The muscular tank and familiar stance remain, rather than being replaced by an entirely new design.
+
+The design, meanwhile, remains recognisably Pulsar. The muscular tank and familiar stance haven’t been thrown away in favour of something completely new. The wolf-eye headlamp has been redesigned with larger optics, giving the motorcycle a sharper face, but the overall approach is evolutionary.
+
+### Do they feel any different in terms of performance?
+
+The 150 gets a 149.5cc engine that produces 14bhp.
+
+This is where the new motorcycles have the most to prove. The 150 produces 14 PS, while the 125 makes 12 PS, and Bajaj’s performance data puts their 0-60kmph times at 5.7 seconds and 6.4 seconds, respectively. The claimed top speeds are 106kmph for the 150 and 99kmph for the 125. Those numbers suggest that neither motorcycle is about chasing outright speed; instead, they are built around usable performance.
+
+The 150 is better suited to higher speeds and highway use, while the lighter 125 is more suited to city commuting.
+
+The revised gearing should be one of the more noticeable changes in everyday riding. More tractive effort in the lower gears means both motorcycles should feel more eager when leaving the line, while the broad torque availability from 3,000rpm reduces the need to constantly work the five-speed gearbox. For a motorcycle that will spend plenty of time in stop-go traffic, that is arguably more useful than adding another few kilometres per hour to its top speed. The 150 naturally has the advantage when speeds rise. Its larger displacement gives it more headroom for faster roads and highway use, while the 125’s lower output and lighter overall proposition make it better suited to riders whose lives revolve around urban commuting. Bajaj’s own WMTC figures point towards around 50kmpl for the 150 and 55kmpl for the 125, although real-world consumption will inevitably depend on riding conditions and throttle use.
+
+With the addition of a rear monoshock, the Pulsars move beyond the conventional commuter-bike setup.
+
+The new frame should also change the character of both bikes. A lighter, substantially stiffer structure combined with the engine acting as a structural member should give the chassis a more cohesive feel. Add the monoshock at the rear, and the Pulsars have moved away from the traditional commuter-bike hardware that previously defined this part of the range. The stated aim is better straight-line stability and greater confidence when cornering. The suspension is particularly interesting because this is where everyday usability can make or break a motorcycle. The new nitrogen gas-charged emulsion monoshock is intended to combine better control with comfort, while the telescopic front fork continues to handle suspension duties at the other end. The 125 gets 125mm of front suspension travel, and the 150 gets 130mm.
+
+The dimensions also give both motorcycles a useful amount of ground clearance. The 125 sits at 184mm, while the 150 offers 186mm. That should leave enough room for the usual speed breakers and broken sections of Indian roads, while the 795mm seat height of the 125 and 805mm figure listed for the 150 should keep both reasonably accessible for a broad range of riders. On the highway, the 150 is naturally the motorcycle I would pick between the two. The extra displacement and longer overall footprint should make it the more comfortable choice when maintaining higher speeds for longer periods. The 125, meanwhile, makes a stronger case as an urban all-rounder, particularly for riders who value running costs but don’t want to give up the Pulsar’s performance-oriented character.
+
+The braking hardware also reflects their positioning. The technical data lists a 260mm front disc and 230mm rear disc for the 150, while the 125 uses a 240mm front disc and 130mm rear drum. The 150 also gets single-channel ABS, while the 125 uses CBS. Then there are the features you will notice every day rather than once during a test ride. The TFT, navigation, connectivity and ride modes make these considerably more feature-rich motorcycles than the Pulsars of old. Crawl Tech is particularly interesting because it addresses something genuinely relevant to Indian riding: controlling the motorcycle smoothly when traffic barely moves.
+
+Bajaj has evolved the Pulsar formula without losing its identity, retaining the familiar character while adding substantially more sophisticated engineering underneath.
+
+Ultimately, that is what makes these two motorcycles interesting. Bajaj hasn’t tried to turn the Pulsar 125 and 150 into entirely different motorcycles. It has taken the basic formula of performance, usability, and attitude, and attacked the areas where the older bikes were beginning to show their age. The result is a pair of motorcycles that look familiar, but have substantially more sophisticated engineering underneath. And perhaps that is exactly how a 25-year-old icon should evolve. The Pulsar doesn’t need to forget what made it successful. It simply needs to make sure that the same reasons people loved it in 2001 still make sense in 2026.
+
+### Verdict
+
+The new Pulsar 125 and 150 go beyond cosmetic updates, gaining new engines, gearing, frames, monoshock suspension and modern electronics, while retaining their familiar character and everyday usability.
+
+The new Pulsar 125 and 150 matter because Bajaj has finally moved beyond cosmetic evolution. Both get new engines, revised gearing, a stiffer frame and monoshock suspension, while the technology package brings the range properly into the present. The 125 is the more appealing urban proposition, combining strong performance with better claimed efficiency, while the 150 brings extra performance and greater highway ability. The TFT, navigation, and ride modes add useful everyday functionality rather than technology for its own sake. Most importantly, the Pulsar character remains intact. These are familiar motorcycles underneath, but substantially more modern where it counts.
+
+****Subscribe to Auto Today Magazine****
+
+\- Ends
+
+Sep 12, 2026 10:10 IST
+
+---
+
+### Glaciers are melting: Here's how you can see when each of them could go extinct
+*India Today Science Desk · general*
+
+The devastating glacier collapse in Nepal last month showed how rapid changes high in the mountains can affect people far downstream.
+
+On August 26, a collapse involving glacier ice and rock near the Nepal\-China border triggered a destructive flood cascade, killing more than 1,300 people across Nepal and Tibet, with thousands more reported missing.
+
+Scientists have linked the disaster to a warming and increasingly unstable Himalayan environment, where glaciers are melting just like they are around the world.
+
+A father and his son look at the melting Plaine Morte Glacier. (Photo: AFP)
+
+Now, a new interactive website offers another way to understand what is happening to the world's glaciers: by showing when individual glaciers could disappear.
+
+### A MAP OF EVERY GLACIER ON THE PLANET
+
+The Global Glacier Extinction Explorer, developed by researchers from ETH Zurich and Vrije Universiteit Brussel, allows users to search for glaciers around the world and see how their futures could change under different levels of global warming.
+
+The website is based on research published in Nature Climate Change, which examined the future of individual glaciers rather than only calculating the total amount of ice the world could lose.
+
+The website, where global glaciers are colour-coded as per projected extinction date. (Photo: Lander Van Tricht)
+
+“Global numbers such as glacier mass or area loss can feel very abstract," said lead author Lander Van Tricht. "With this website, people can zoom into their own valley or mountain region and see what different levels of global warming could mean for the glaciers they know.”
+
+The researchers found that glacier disappearance could peak around the middle of this century.
+
+Under 1.5°C of warming, around 2,000 glaciers could disappear each year around 2041. At 4°C of warming, the peak could reach about 4,000 glaciers a year in the mid-2050s.
+
+### "EVERY FRACTION OF A DEGREE MATTERS"
+
+The difference between warming scenarios becomes even clearer by 2100.
+
+Nearly half of today's glaciers could survive under 1.5°C of warming, compared with about 20% at 2.7°C and fewer than 10% at 4°C.
+
+A screengrab of the melting glaciers highlighted near the Indian subcontinent. (Photo: GGEE)
+
+“Every fraction of a degree matters,” said Van Tricht. “Limiting warming to 1.5°C could preserve more than twice as many glaciers as a 2.7°C trajectory by 2100.”
+
+The dates shown on the website are projections, not fixed deadlines. A glacier's future depends on factors including its size, elevation, shape and local climate.
+
+### GLACIERS ARE ALREADY DISAPPEARING
+
+The impact of a rapidly warming planet is already visible.
+
+In Switzerland, the Bella Tola Glacier was declared extinct in August 2026 after almost completely disappearing, while the Urirotstock Glacier was declared extinct earlier this summer.
+
+The Rhone Glacier near Goms, Switzerland, is covered with sheets to slow down warming. (Photo: AP)
+
+“These examples make the concept of glacier extinction very concrete,” Van Tricht said. “Our projections showed that many small Alpine glaciers are approaching the end of their lives, and we are now witnessing this process in real time.”
+
+Glaciers do not disappear because of one unusually warm summer. Their decline is the result of years of cumulative snow and ice loss.
+
+“Behind every disappearing glacier is a place, a history and often a community that will experience its absence,” Van Tricht said. “The fact that some of the glaciers projected to disappear in our study are already vanishing today shows that glacier extinction is not a distant, end-of-century problem. It is happening now.”
+
+The website can be visited here.
+
+\- Ends
+
+Sep 12, 2026 10:09 IST
+
+---
+
+### Ganesh Chaturthi 2026 kab hai: September 14 or 15? Know the correct date and time, when to buy Ganpati and which trunk direction is considered auspicious for Bappa murti
+*Trending Desk · business*
+
+Ganesh Chaturthi kaun si tarikh ki hai: Ganesh Chaturthi is almost here, and one question is confusing many devotees this year: Is Ganesh Chaturthi on September 14 or September 15, 2026? The answer is September 14. Lord Ganesha's festival will be celebrated on Monday, September 14, even though the Chaturthi tithi continues into the morning of September 15. According to Panchang, the Chaturthi tithi begins at 7:06 am on September 14 and ends at 7:44 am on September 15. Since the festival is observed on the date when the relevant tithi prevails during the daytime, Ganesh Chaturthi and Ganpati Sthapana will take place on September 14.
+
+The main Ganesh Puja and Sthapana muhurat is 11:02 am to 1:31 pm on September 14. Timings can differ slightly from one city to another, so families following a local Panchang should check the timings for their location.
+
+  
+
+The Ganesh Chaturthi falls on September 14, Monday. The reason for the confusion is that the Chaturthi tithi does not end on the same day. It continues until 7:44 am on September 15. This is common with Hindu festivals, where the calendar date is determined by the relevant tithi and its position at sunrise or during the prescribed period of worship, rather than simply by when the tithi ends. So, if you are planning Ganpati Sthapana at home this year, September 14 is the date to remember.
+
+## When should you buy Ganpati idol?
+
+There is no single universally applicable rule that says every family must purchase the Ganpati idol at one particular hour. Many families buy the idol a day or two before Ganesh Chaturthi so that the mandap, decorations and puja arrangements can be completed in advance. Others bring Bappa home on the morning of Ganesh Chaturthi itself.
+
+If you are buying the idol before September 14, keep it at a clean and respectful place until the time of installation. The important part is to complete the Sthapana and puja according to your family tradition and the local Panchang. For those following the 2026 Delhi timings, the main Sthapana period is 11:02 am to 1:31 pm on September 14.
+
+  
+
+## Ganpati idol: Which direction should the trunk face?
+
+This is one of the most common questions when families go shopping for a Ganpati idol. According to widely followed Vastu and religious traditions, a left-curving trunk is generally preferred for a Ganpati idol kept at home. This form is commonly referred to as _Vamavarti_ or _Vamukhi_ Ganpati and is traditionally associated with household worship.
+
+One point often causes confusion. The direction is described from Lord Ganesha's perspective, not the person looking at the idol. Therefore, a trunk curving towards Ganesha's left can appear on the viewer's right when standing directly in front of the idol.
+
+A right-curving trunk is also a revered form of Ganesha and is associated with Siddhivinayak traditions. It is often said to involve more specific worship practices. These are matters of religious tradition, however, and practices vary between families, temples and regions.
+
+## What should you check before buying a Ganpati idol?
+
+The first thing is simple: look at the idol carefully. Traditional guidance commonly recommends choosing a complete, undamaged idol rather than one with a broken hand, trunk, ear or other part. The idol should have a calm and pleasant appearance and should be suitable for the space where it will be installed.
+
+Many traditional guides also recommend a seated Ganesha for home worship. Some specify a four-armed form, with symbolic attributes such as the _pasha_, _ankusha_, _modak_ and _abhaya mudra_. The mouse, regarded as Ganesha's vehicle, is also commonly shown near the idol.
+
+However, devotees do not need to treat every decorative detail as a compulsory rule. Family traditions differ, and the basic priority should be a respectful, intact idol that can be safely installed and immersed.
+
+## Clay Ganpati is a better choice for visarjan
+
+If you are still deciding which idol to buy, consider a natural clay or other genuinely biodegradable idol. This is not only in keeping with the traditional association of Ganesha idols with clay, but also makes the immersion process more environmentally responsible. Plaster of Paris idols can be difficult to dissolve and may contribute to pollution in water bodies. Before buying an idol advertised as "eco-friendly", check what material has actually been used. A label alone does not guarantee that the idol will dissolve naturally.
+
+## Which direction should Ganpati face at home?
+
+Traditional Vastu guidance commonly recommends placing Ganesha so that the idol's face is towards the east or north. The northeast is also frequently preferred as a location for the puja space. Again, this is based on religious and Vastu traditions, not a scientific requirement. If your family follows a particular regional or ancestral method of Ganpati Sthapana, that tradition can take precedence. The idol should also be placed on a clean, stable platform rather than directly on the floor.
+
+## What else should you remember while bringing Bappa home?
+
+The preparations need not be complicated. Clean the area where the idol will be installed and keep the puja essentials ready before the Sthapana begins. Devotees commonly keep items such as flowers, _durva_, rice, vermilion, fruits and sweets including modak for the puja. Fresh flowers and clean puja materials are generally preferred.
+
+It is also worth planning the visarjan before buying the idol. A smaller, manageable clay idol can make the immersion process easier, particularly for families conducting the ceremony at home.
+
+## Ganesh Visarjan 2026 date
+
+For those observing the full 10-day Ganeshotsav, Anant Chaturdashi falls on September 25, 2026, which is the main visarjan day. However, many families perform visarjan after one-and-a-half, three, five or seven days, depending on their family tradition. So the key dates to remember are simple: Ganesh Chaturthi and Sthapana on September 14, and Anant Chaturdashi on September 25.
+
+For the idol itself, choose one that fits your family's tradition, home and immersion plans. The exact style, colour and trunk direction are matters of religious belief and custom, and there can be differences across regions and families.
+
+---
+
+### India Crosses 80 Lakh Vaccine Mark In Cervical Cancer Fight: Which States Hit 100% Coverage?
+*Karishma Jain · general*
+
+The campaign, which offers a free, voluntary single-dose HPV vaccine to 14-year-old girls at government health facilities, was launched by PM Modi in February.
+
+[Read full article](https://www.news18.com/india/india-crosses-80-lakh-vaccine-mark-in-cervical-cancer-fight-which-states-hit-100-coverage-ws-l-10324452.html)
+
+---
+
+### Stones thrown at homes, shots fired as rowdies go on late-night rampage in Delhi
+*India Today News Desk · general*
+
+## More than 20 men allegedly pelted stones and fired at houses in Delhi's Nand Nagri late at night. Police are probing CCTV and viral videos as residents remain shaken by the violence.
+
+The attackers pelted stones at the houses and also fired shots, leaving residents frightened and forcing many to stay indoors. (Representative image)
+
+Amid a high alert in Delhi, more than 20 men went on a late-night rampage in northeast Delhi's Nand Nagri, pelting stones and opening fire at three to four houses before damaging vehicles and fleeing the area.
+
+The incident took place in D-2 Block of Nand Nagri police station limits, where three to four houses were reportedly targeted. According to the affected families, the attackers pelted stones at the houses and also fired shots, leaving residents frightened and forcing many to stay indoors.
+
+The group also allegedly targeted vehicles parked along the road. Several vehicles were damaged in the stone-pelting, according to local residents.
+
+### OLD DISPUTE SUSPECTED BEHIND ATTACK
+
+One of the affected families has alleged that the incident may be linked to an old dispute with some of the attackers.
+
+According to the family, the dispute dates back around seven years. A police complaint had also been filed at the time, the family said.
+
+The family suspects that the old rivalry may have prompted the late-night attack on their homes. However, the claim regarding the motive has not been independently established, and police are investigating the circumstances surrounding the incident.
+
+The sudden violence caused panic in the neighbourhood, with residents reportedly rushing inside their homes after hearing the sound of stone-pelting and gunfire.
+
+### POLICE PROBE VIRAL VIDEOS
+
+Nand Nagri police reached the spot after receiving information about the incident. By the time officers arrived, however, the attackers had reportedly fled the area.
+
+Several videos 
+
+Police are examining CCTV footage from the locality along with the videos circulating on social media to identify the people involved and establish the sequence of events.
+
+Officials said an investigation is underway and appropriate legal action will be taken against those found responsible.
+
+The incident has raised concerns among residents, particularly as Delhi remains on high alert. The reported firing, stone-pelting and damage to homes and vehicles in a residential area have added to concerns over public safety in northeast Delhi.
+
+Police are continuing to examine the available footage and gather information from residents and affected families as part of the investigation.
+
+\- Ends
+
+With inputs from Israr Ahmad
+
+Ritaban Misra
+
+Sep 12, 2026 09:49 IST
+
+---
+
+### 'If China wants global peace, start at home': CTA President Penpa Tsering's message to President Xi
+*SECTIONS 'If China wants global peace · business*
+
+Dharamshala (Himachal Pradesh) \[India\]: As Chinese President Xi Jinping arrives in India for the BRICS Summit, the Tibetan leadership has made a direct appeal to the Chinese president.
+
+The Sikyong of the Central Tibetan Administration (CTA), Penpa Tsering has urged Xi Jinping to address the Tibet issue through dialogue, saying that if China is serious about making the world a better place, peace must first begin at home.
+
+Chinese President Xi Jinping's India visit for the BRICS Summit is being closely watched for its implications for India-China ties and the wider emerging global order. Against this backdrop, Sikyong Penpa Tsering has called for greater attention to the unresolved Tibet issue, while welcoming better relations between India and China.
+
+  
+
+**Read all BRICS- 
+
+Speaking to the media, the Tibetan political leader said the BRICS Summit should be viewed in the larger context of China's growing engagement across multilateral platforms. He said the Tibetan leadership has consistently supported better relations between countries, including India and China, but stressed that the aspirations of the Tibetan people cannot be forgotten.
+
+Tsering said trust remains a major challenge in dealing with the Chinese government and maintained that dialogue is the way forward. Asked whether he wanted to convey a message to President Xi Jinping regarding the resumption of dialogue with Tibetans, the Sikyong reiterated the Tibetan leadership's commitment to the Middle Way Policy, which seeks a negotiated solution. But his strongest appeal was for China to look inward before speaking about peace globally.
+
+Answering ANI's question, Tsering said "If China is really serious to make this world a better world to live so first, they should make China as a better world to live."
+
+Tsering argued that peace in the wider world must begin within one's own country and society.
+
+"How much more land do you need? If there has to be a peace, you should start from your own household. When there is no peace in your own household, how can you speak about peace in the outer world?," he asked.
+
+The Sikyong also made a direct call for dialogue with Tibetans, questioning how China can advocate negotiations, diplomacy and "no war" while not engaging with the Tibetan side.
+
+"When you speak about negotiation, dialogue, diplomatic relations, no war, but you do that with the Tibetans, have dialogue with the Tibetans to resolve the issue," he said.
+
+Tsering also pointed to what he described as China's changing domestic laws and policies concerning Tibetans, Uyghurs, Mongolians, Hong Kong and Taiwan, saying these developments need to be viewed alongside China's wider role in global geopolitics.
+
+He said it was too early to judge the impact of the BRICS Summit in isolation, and that the bilateral meeting between India and China on the sidelines will also be closely watched.
+
+---
+
+### Bhutan business bets on hazelnuts for farming future
+*SECTIONS Bhutan business bets · business*
+
+Thimphu: Farmer Pema Dema had never even heard of hazelnuts when she was first recruited to begin growing them on her land in Bhutan's Thimphu region.
+
+"I wondered what sort of a nut it was," the 58-year-old told AFP with a laugh, looking out over the deep valley and terraced rice fields that unfold below her farm.
+
+Now she has more than 140 hazelnut trees on the steep slope overlooking her home, and incorporates them into Bhutan's traditional salted suja tea when guests visit.
+
+  
+
+Pema is one of thousands of Bhutanese growing hazelnuts as part of a social enterprise hoping to help subsistence farmers develop a high-value crop.
+
+Mountain Hazelnuts began in 2009 as Bhutan's first 100-percent foreign direct investment project in the agriculture sector.
+
+More than 40 percent of Bhutan's workforce is in agriculture, but production remains largely subsistence-based and is complicated by the country's mountainous terrain.
+
+Steep slopes can be impossible to plough and prone to topsoil washing away in heavy rain.
+
+Hazelnuts seemed to offer a solution.
+
+They grow well at high altitudes and on mountainsides, require no ploughing and their roots can fix soil in place.
+
+Hazelnuts are also a high-value crop with a growing market, and the trees can produce for decades.
+
+That was what attracted Pema, who has been farming for 40 years.
+
+"I thought hazelnuts would be better in terms of fetching a better price," she said.
+
+"I hoped that it would benefit us in the future."
+
+## Learning curves
+
+Mountain Hazelnuts distributed its first saplings in 2011, over 145,000 plants to 800 growers.
+
+Each recruit's land was assessed for suitability and to ensure the crop was not displacing anything.
+
+Growers can only use land that is fallow or degraded, with the goal of increasing Bhutan's overall farming output and improving the country's soil.
+
+Dawa Dhendup, 82, was keen to put the trees on a steep stretch of his farm where he had struggled to grow potatoes.
+
+"It was hard annual labour. But once the hazelnut trees are planted, it's permanent."
+
+In sunglasses to protect his eyes after cataract surgery, he cut a sprightly figure as he harvested nuts from his 1,400 trees.
+
+The company said it now has around 9,000 families growing hazelnuts on 6,000 acres of land across Bhutan.
+
+But in some ways, the project is only just getting off the ground after a series of setbacks and learning curves.
+
+A mismatch between production and polliniser saplings in early planting delayed fruiting, and had to be solved by mass grafting of polliniser plants into orchards.
+
+The pandemic struck another blow, cutting farmers off from outreach officers who advise them on tending the crop.
+
+And then there was climate change.
+
+The hazelnut variety the company initially distributed needs around three months of cool temperatures to develop properly.
+
+But climate change meant trees at lower altitudes were getting as little as six weeks of colder temperatures.
+
+The company again turned to grafting, using stock from Georgia that required fewer "chill-hours" for plants growing between 1,600 and 2,400 metres (5,250 and 7,870 feet).
+
+## Patient capital
+
+In a best-case scenario, hazelnut trees take several years to fruit, and the various setbacks and extended waiting time meant some farmers simply abandoned the project.
+
+But both Pema and Dawa said neighbours who had given up were now reconsidering.
+
+"I'm harvesting and the price is increasing, and they're regretting their decision and feeling envious," Dawa said.
+
+Still, like most growers, he does not yet generate significant income from the nuts.
+
+The company has said it will be increasing the price it offers growers, and with trees reaching maturity and yields expected to increase, income should start to rise.
+
+Investors have so far ploughed $36 million in Mountain Hazelnuts, and for now the company remains reliant on what CEO Sean Watson calls "patient capital".
+
+It hopes to be "cash flow positive" by 2031, Watson said, and to reach 10,000 metric tons of production.
+
+That is a long way from the current 30 metric tons, but "fruiting is starting to really kick in", and production is expected to at least double each year, Watson added.
+
+Seated next to flat baskets full of drying hazelnuts, Pema said she had already benefited because the trees have stopped soil from sliding onto her home during heavy rain.
+
+"Every year the yields are increasing," she said.
+
+"If I had more land, I would have planted more."
+
+---
+
+### Vande Mataram row: Gujarat Speaker orders privilege proceedings against Congress MLA
+*Unknown · legal*
+
+Speaker refers matter to Privilege Committee, asking it to investigate the matter and submit a report before House
+
+[Read full article](https://indianexpress.com/article/cities/ahmedabad/vande-mataram-row-gujarat-speaker-privilege-proceedings-imran-khedawala-10874614/)
+
+---
+
+### Iran President Speaks On BRICS, West Asia Conflict & Ties With India
+*India Today Video Desk · general*
+
+UPDATED: Sep 12, 2026 09:39 IST
+
+Iran President Masoud Pezeshkian speaks exclusively on the sidelines of the BRICS summit, addressing critical issues surrounding the ongoing West Asia conflict, escalating tensions with Israel and the United States, and bilateral relations with India. The interaction focuses on global trade disruptions, particularly around the crucial Strait of Hormuz, the impact of Western sanctions on the Iranian economy, and Iran's strategic positioning within the Islamic world alongside Middle Eastern neighbours such as Saudi Arabia and the United Arab Emirates. The discussion also examines potential diplomatic mediation by India, given its historic ties with Tehran, and Iran's evolving partnerships with Russia and China amid geopolitical shifts across the region.
+
+### VIDEOS FROM OTHER SECTIONS
+
+### LATEST VIDEOS
+
+## India-China Ties: Direct Flights To Resume, Diplomatic Thaw Ahead Of BRICS
+
+China Southern Airlines announced the resumption of regular passenger services on the Guangzhou to New Delhi route starting 21 September after a six-year suspension. Direct flights between Delhi and Beijing have also resumed following bilateral discussions between the Indian Prime Minister and Chinese President in Kazan. Bilateral developments include the resolution of the Kailash-Mansarovar Yatra, easing of Chinese visa procedures, increased educational exchanges, and reciprocal journalist visits. Following tensions after the 2020 Galwan incident, dialogue is facilitating the resolution of Line of Actual Control friction points and progress in trade, technology, and people-to-people connectivity.
+
+## PM Modi's Five BRICS Bilaterals, Xi Jinping Meeting And Bharat Mandapam Gala
+
+Prime Minister Narendra Modi is scheduled to hold five key bilateral meetings on the opening day of the expanded BRICS Summit at Bharat Mandapam in New Delhi. The diplomatic engagements include bilateral discussions with the Prime Minister of Ethiopia, the Prime Minister of Malaysia, the Crown Prince of Abu Dhabi, and the Prime Minister of Vietnam, followed by a meeting with Chinese President Xi Jinping. The summit brings together leaders from across the Global South to discuss inclusive global governance, trade, investment, and diplomatic relations amid ongoing global and regional geopolitical tensions. The itinerary also features a formal BRICS family photograph, a tree plantation ceremony, and a gala dinner hosted by Prime Minister Modi showcasing regional Indian cuisine and local products. The proceedings highlight diplomatic engagements and international cooperation on the sidelines of the multilateral summit.
+
+## PM Modi To Meet Xi Jinping At 18th BRICS Summit In Delhi Amid Border And Trade Focus
+
+Chinese President Xi Jinping arrived in New Delhi for the 18th BRICS Summit hosted by India, marking his first visit to the country in seven years following the 2020 Galwan Valley border clashes. Prime Minister Narendra Modi held a bilateral meeting with President Xi Jinping on the sidelines of the summit to review border disengagement implementation along the Line of Actual Control following military and national security advisor level talks. The leaders also addressed bilateral economic relations and the growing trade deficit. The 18th BRICS Summit brought together representatives from the expanded 11-member bloc under the theme of resilience, innovation, connectivity, and sustainability. Key initiatives discussed include the BRICS Economic Partnership 2030, supply chain resilience, expanded trade in services, and micro, small, and medium enterprise financing. Prime Minister Modi also conducted bilateral discussions with other attending world leaders, including Russian President Vladimir Putin, focusing on regional stability and global trade cooperation.
+
+## 18th BRICS Summit Begins in Delhi, India Pushes MSME Growth and Modi Gifts Tirukkural to Putin
+
+India is hosting the 18th BRICS Summit in New Delhi, bringing together leaders from 11 member nations amidst global challenges, including West Asia conflicts and the unresolved India-China border dispute. Prime Minister Narendra Modi is scheduled to hold key bilateral meetings, including talks with Chinese President Xi Jinping, following discussions with Russian President Vladimir Putin, Iranian President Masoud Pezeshkian, and UN Secretary-General Antonio Guterres. As chair, India is prioritising the BRICS Economic Partnership 2030, expanding trade in services, building resilient supply chains following disruptions at critical transit routes like the Strait of Hormuz, and boosting financing for MSMEs. Additionally, on the sidelines of the summit, Prime Minister Modi presented a Russian translation of the ancient Tamil classic Tirukkural by philosopher Thiruvalluvar to President Putin, highlighting cultural diplomacy and historical literary connections between India and Russia.
+
+---
+
+### BRICS Summit: Inside Putin, Xi’s Armoured Cars With Bulletproof Glass, Life-Support Systems
+*Aanchal Sinha · general*
+
+Putin arrived in New Delhi on Friday in his armoured Aurus Senat limousine, a heavily reinforced vehicle known for its high level of security and secrecy.
+
+[Read full article](https://www.news18.com/india/brics-summit-inside-putin-xis-armoured-cars-with-bulletproof-glass-life-support-systems-ws-l-10324454.html)
+
+---
+
+### Xi Jinping's Historic Visit to India: Aiming for Peace Amidst Global Tensions | PM Modi | News18
+*Unknown · general*
+
+Chinese President Xi Jinping’s arrival in India for the BRICS Summit has put India-China relations firmly in focus. Against the backdrop of ongoing global conflicts and growing geopolitical uncertainty, experts are stressing the importance of dialogue and sustained engagement between the two Asian p...
+
+[Read full article](https://www.news18.com/videos/breaking-news/xi-jinping-s-historic-visit-to-india-aiming-for-peace-amidst-global-tensions-pm-modi-news18-10324544.html)
+
+---
+
+### 5 world market themes for the week ahead
+*SECTIONS · economy*
+
+Policy makers at the Federal Reserve and the Bank of Japan are preparing key interest rate decisions against a backdrop of escalating conflict in the Middle East ​and rising energy prices.
+
+Elsewhere, BRICS leaders meet in India and Swedes ​head to the polls in a tight election race that could give more sway to the far right.
+
+  
+
+## 1/WAITING FOR WARSH
+
+Markets head into a pivotal week wondering whether the Federal Reserve is finally ready to pull the trigger on a rate hike to tackle stubborn inflation.
+
+Fed Funds futures point to markets leaning toward ‌a quarter-point increase when policy ⁠makers announce ⁠their decision on Wednesday, though plenty of investors remain unconvinced. The central bank has kept rates unchanged throughout 2026, and some traders doubt that will suddenly change now.
+
+Bets on a hike grew after new Fed Chair Kevin ​Warsh struck a hawkish tone last month and were bolstered by a hot August jobs report.
+
+Adding to the suspense, Warsh has made clear he won't offer much forward guidance, leaving markets ​guessing not just about this meeting, but what comes next.
+
+  
+
+## 2/ BOJ'S NEXT ACT
+
+The Bank of Japan may be the easiest central bank call of the month. Markets are all but certain policymakers will raise rates by 25 basis points to 1.25% on September 18, a level not seen in more than three decades.
+
+The bigger question is what ​comes next. After plenty of jawboning by BOJ officials about the need for policy tightening, investors are already looking ⁠beyond September. ‌Analysts see the BOJ's October and December meetings as live, while swaps fully price in rates reaching 1.5% by January.
+
+The X factor is ​the yen. Propping up ​the currency became a de facto aim of the BOJ as the yen slumped, reaching a four-decade low in July. A recent ⁠rebound has eased that pressure, though investors remain sensitive to any renewed unwinding of yen-funded carry trades, ​which have rattled assets far beyond Japan's shores.
+
+## 3/INFLATION FIRES
+
+Oil's climb barely raised eyebrows for weeks. Now it has. Brent crude ​has surged back above $100 a barrel for the first time since July..
+
+Physical prices are above $120. Diesel has hit record highs, jet fuel is nearing April's peaks. In Europe, natural gas prices are at their highest since late 2022, with winter approaching and gas storage at its lowest level for this time of year in 15 years.
+
+Record-breaking heatwaves this summer have devastated crops and pastures in many regions, igniting the threat of food inflation. Meanwhile copper, vital for everything from power grids to AI hardware, has raced to record highs near $15,000 a tonne..
+
+The number of fires central bankers are fighting is growing fast.
+
+## 4/BRICS AND CLICKS
+
+As BRICS leaders gather in New Delhi on September 12-13, India is pushing an ‌idea that could test the bloc's ambitions: linking central bank digital currencies to make cross-border payments faster and cheaper.
+
+The catch? Politics. Some members have strained relations, and digital currencies remain a niche experiment in much of the world. Iran and the UAE have severed financial ties ​amid the Middle East conflict, ​while India has long been cautious about deeper ⁠financial integration with China.
+
+BRICS has flirted before with alternatives to the dollar, including talk of a common currency, but those plans went nowhere. A CBDC link-up may be more modest, yet any move that chips away at the dollar's dominance is likely to draw attention from markets - and irk Washington.
+
+## 5/SWEDEN'S NAIL-BITER
+
+Swedes go to the polls on ​Sunday in what is shaping up to be one of the country's tightest elections in years.
+
+Prime Minister Ulf Kristersson's centre-right coalition has eroded the lead once held by Magdalena Andersson's centre-left opposition, turning what once looked like a comfortable opposition victory into a nail-biter race.
+
+The bigger question is what happens afterwards. The anti-immigration Sweden Democrats, backing Kristersson's government since 2022, are pushing for cabinet posts and could gain unprecedented influence over policy, adding to a broader shift to the right across parts of Europe.
+
+For investors, the focus is on spending plans. The government has already cut taxes on fuel and food, and is promising more tax breaks and free kindergarten places if it wins another term, putting fiscal policy back in the spotlight.
+
+---
+
+### Bitcoin vs Ethereum: Which crypto asset could deliver better returns in the next 12 months?
+*Unknown · economy*
+
+Twelve months used to be enough time for a thesis to play out. That is changing. Strengthening mega forces are putting sustained pressure on labor, energy, infrastructure, capital and materials all at once. These supply side constraints are shaping growth, inflation and the price of risk in ways that do not resolve on a calendar year timeline.
+
+AI is the clearest example. It raises the prospect of a permanent growth breakout, accelerating innovation itself and compressing decade long timelines into a few years. But the path to that abundance, when it arrives, runs through scarcity first: power, chips, skilled labor, grid capacity. This tension between a structural, multi year story and near term supply constraints is now surfacing across other asset classes, reshaping how portfolios get built.
+
+Crypto is not exempt from this. Bitcoin and Ethereum are each in the middle of multi year structural shifts, institutional adoption, regulatory clarity, product innovation, that will not fully play out in any single 12 month window. Anyone asking which one wins over the next year is really asking which structural trend gets more confirmation in a short slice of time. That is a narrower and noisier question than it sounds.
+
+## Two assets, two different jobs
+
+The mistake many investors make is treating Bitcoin and Ethereum as competing versions of the same thing. They are not. They are built to do different jobs in a portfolio. Bitcoin’s value proposition rests on fixed supply, network security and its growing role as a macro hedge, something investors reach for when they worry about currency debasement, fiscal deficits or a weaker dollar. It behaves increasingly like digital gold: an asset you hold for what it protects against, not for what it produces.
+
+Ethereum functions as productive infrastructure. It is the settlement layer for stablecoins, tokenized funds and a large share of decentralized finance. Since the Merge, ETH holders can stake the asset and earn a yield paid in more ETH, which gives it a cash flow like character that Bitcoin does not have. Its return in the next 12 months is more tied to real usage: transaction volume, stablecoin settlement, tokenization of real world assets and fee revenue, rather than to macro hedging demand alone.
+
+  
+
+## What the ETF market is signaling
+
+The launch of spot ETFs for both assets gave investors a clean, regulated way to express a view on each, and the flow data across 2026 tells a story about how that view has been shifting.
+
+Bitcoin ETFs remain far larger in absolute terms, holding roughly $76 billion in assets versus roughly $9.7 billion for Ethereum ETFs, a gap of more than seven to one that will not close quickly. That gap will not close in a quarter, and treating any single week of flows as an imminent shift in institutional allocation would be premature. Scale still favors Bitcoin.
+
+But the direction of flows told a different story for part of the year. Spot Ethereum ETFs recorded 365 million dollars in net inflows during July 2026, their strongest month since launching, while spot Bitcoin ETFs attracted just 205 million dollars, the weakest monthly total in the product's history. That reversal followed a rough stretch for Bitcoin products: May and June saw a combined outflow of roughly seven billion dollars from spot Bitcoin ETFs, the worst six month stretch since their 2024 debut.
+
+Two forces appear to explain Ethereum's relative pull. The ETH to BTC trading ratio climbed from a 2026 low near 0.024 in May to about 0.030, a recovery that lined up with the ETF flow reversal and rising institutional interest in Ethereum's staking yield and its role in stablecoin settlement. On top of that, corporate treasuries have started adding ETH directly, with BitMine's stock jumping on the back of its Ethereum treasury strategy and SharpLink Gaming continuing to build its position, a combination of ETF demand and balance sheet demand that looks more durable than a single quarter's rotation.
+
+## Solana is chipping away at Ethereum's turf
+
+Part of the pressure on Ethereum has nothing to do with Bitcoin at all. Solana has pulled in a growing share of on chain activity, particularly retail trading and meme coin volume, competing directly with Ethereum and its Layer 2 networks for transactions, developers and attention. That shift shows up in decentralized exchange volume and social engagement data, and it stacks on top of the fee compression Ethereum already faces within its own Layer 2 ecosystem.
+
+## Framing the next 12 months, not forecasting it
+
+Given how the mega forces argument opened this note, the honest answer to "which delivers better returns" is that it depends on which structural story gets more confirmation in a short window, and that is close to a coin flip dressed up as analysis. A few factors are more useful to track than a price target:
+
+**For Bitcoin:** the trajectory of real interest rates and the dollar, continued corporate and sovereign treasury adoption, and whether ETF flows stabilize after the volatile first half of 2026.
+
+**For Ethereum:** growth in stablecoin settlement volume, the pace of real world asset tokenization moving on chain, staking participation rates, and whether yield bearing ETF structures continue to gain regulatory approval and investor uptake.
+
+**For both:** the same mega forces reshaping every other asset class, energy costs for network security and computation, capital availability, and how AI linked infrastructure demand feeds back into the broader risk asset complex that crypto now trades alongside.
+
+_(The author is Co-Founder, CoinDCX )_
+
+(Disclaimer: The opinions expressed in this column are that of the writer. The facts and opinions expressed here do not reflect the views of www.economictimes.com.)
+
+---
+
+### Should you prepay your loan early? Expert weighs in on interest savings, EMIs and future borrowing | Mint
+*Shivam Shukla · economy*
+
+## Should you prepay your loan early? Experts explain how prepayment can reduce interest costs and debt, why timely EMI payments matter more for credit scores, and what borrowers should check before using savings to close a loan early.
+
+Loan prepayment can reduce interest costs and monthly debt, but timely EMI payments, emergency savings and responsible borrowing remain crucial for maintaining a strong credit profile. (AI-generated image for representational purposes only)
+
+Prepaying a loan can reduce outstanding debt and save interest. But does closing a loan early make someone a better borrower, and is prepayment always the best way to manage debt?
+
+While it is a given that prepayment offers financial benefits, lenders also consider repayment history, financial discipline and the ability to meet obligations consistently. In short, long-term financial habits matter more than a single early loan closure.
+
+While early repayment can offer clear financial benefits, lenders assess borrowers holistically. They consider repayment history, financial discipline and the ability to meet obligations consistently over time. Therefore, long-term ‘financial habits’ matter more than a single decision to prepay a loan. Hence, lending institutions follow an individual’s ‘financial habits’ instead of their ‘financial reaction.’
+
+## **Does loan prepayment improve your credit score?**
+
+Vijendra Singh Shekhawat, CEO, Choice Finserv Private Limited, explained this aspect in detail, stating, "Prepaying a loan will not damage your credit score in any lasting way, but it does not automatically lift it either. What lenders read is your repayment behaviour over time. A record of paying every instalment on the due date carries more weight than closing a loan early."
+
+This means borrowers should not assume or hold the mistaken belief that prepaying a loan will immediately improve their credit score. A strong credit profile takes time; it is built through timely repayments, responsible borrowing and maintaining manageable debt levels.
+
+For example, a borrower who pays every EMI on time but continues with a loan may demonstrate stronger repayment discipline than someone who closes a loan early after missing several instalments.
+
+That is why, in this case, the one who carries the loan might have a higher credit score than the one who closed the loan through prepayment after missing several due dates and being pulled up by the concerned credit card company. Therefore, timely EMI payments and responsible debt management are more important for maintaining a healthy credit profile than early loan closure.
+
+## **What should borrowers consider before prepaying?**
+
+When you close out a loan early, it can reduce the interest burden and free up monthly cash flows. Still, borrowers should diligently assess whether utilising their savings to meet prepayments could ultimately leave them in a difficult financial position.
+
+On this aspect, Shekhawat further added, “Delayed or missed payments are what genuinely pull a score down, so consistency matters more than speed. Early closure helps by lowering your debt and freeing up cash flow, and a loan shut in good standing keeps reflecting well on your report for years. Before you prepay, check for any charges on fixed-rate products and keep an emergency buffer intact. Discipline, not just early payoff, is what builds a strong borrower.”
+
+Hence, borrowers should check applicable foreclosure or prepayment charges, diligently compare the interest savings and make sure that they retain adequate emergency savings before committing lump-sum payments towards an ongoing loan.
+
+In summary, prepaying a loan can be a smart financial decision, but it is not a shortcut to becoming a better borrower. Timely EMI payments, responsible debt management, devoting your time to managing a loan, and financial discipline carry greater significance. The right approach is to repay early when it makes financial sense, without compromising your ability to meet future obligations.
+
+### About the Author
+
+Shivam Shukla
+
+Shivam writes on personal finance, equity markets, and mutual funds. He has previously contributed to several leading publications, including Moneycontrol. He can be reached at shivam.shukla@htdigital.in
+
+---
+
+### US consumer prices accelerate in August, push Fed closer to rate hike
+*SECTIONS US consumer prices accelerate · economy*
+
+U.S. consumer prices accelerated in August, while a key measure of underlying inflation posted its largest increase in four months, reinforcing expectations that the Federal Reserve will raise interest ​rates next week.
+
+The Labor Department's Consumer Price Index report on Friday followed strong readings in several components of the Producer Price Index released on Thursday that feed into the Personal Consumption Expenditures price indexes, the inflation measures the U.S. central bank tracks for its 2% target. The two reports led economists to think that PCE inflation excluding the volatile food and energy categories picked up in August.
+
+Financial markets initially priced in a 91% chance of a quarter-point rate hike at the Fed's meeting on Tuesday and Wednesday, before settling back to 87%, CME's FedWatch tool showed. That was ‌up from 72% on Thursday. ⁠The Fed's benchmark overnight ⁠interest rate is currently in a 3.50%-3.75% range.
+
+Most economists said the firmer inflation readings, combined with signs of the labor market regaining its footing in August, would compel Fed officials to raise borrowing costs not only next Wednesday, but possibly again in October or December.
+
+They argued that with the Iran war ​continuing, the energy shock would spread through the economy. They also expected an AI buildout to drive inflation. Crude oil prices climbed back above $100 a barrel this week, while the U.S. national average diesel price surpassed $6 a gallon for the first time.
+
+"Energy inflation does ​not stay at the gas station. It travels by truck, airplane and cargo ship into nearly every store in America," said Sung Won Sohn, a finance and economics professor at Loyola Marymount University. "The Fed is now more likely than not to raise its policy rate ... it cannot afford to let an energy shock become an everything shock."
+
+The CPI increased 0.4% last month after edging up 0.1% in July, the Labor Department's Bureau of Labor Statistics said. In the 12 months through August, consumer inflation ​advanced 3.4% after rising by the same margin in July. The rise in the CPI was in line with economists' expectations.
+
+A 3.9% jump in gasoline prices ⁠after two straight ‌monthly declines accounted for more than a third of the increase in the CPI over the month. Other motor fuels, which include diesel, surged 9.6%. They surged 44% year-on-year in August.
+
+There was, however, ​some respite for consumers at the supermarket. ​Food prices edged up 0.1% for a second straight month. Grocery prices were unchanged amid muted increases in the costs of meat and fish. Fruit and vegetable prices fell 0.4% over the ⁠month, weighed down by a 6.2% drop in the cost of lettuce because of a Cyclospora outbreak.
+
+But egg prices increased 2.9%, while ​nonalcoholic beverages cost more, as did dairy and 
+
+"Inflation-adjusted wage growth contracted for a fifth consecutive month in August," said Gregory Daco, chief economist at EY-Parthenon. "This is the longest income squeeze since 2012 - excluding the post-pandemic period when public assistance kept income growing despite historical job losses."
+
+## FRUSTRATION OVER RISING COST OF LIVING
+
+Frustration over the higher cost of living has led to a sharp erosion in President Donald Trump's approval ratings and could cost his Republican Party control of the U.S. Congress in the November midterm elections, according to analysts.
+
+The growing disenchantment was also evident in the University of Michigan's Surveys of Consumers, which showed its Consumer Sentiment Index tumbled to 47.8 in early September from 51.7 in August. The deterioration in sentiment was among both Democrats and Republicans. Consumers also anticipated higher inflation over the next 12 months and five years.
+
+Wall Street stocks rose as oil prices retreated, though crude remained on course for a weekly gain of more than 8%. The dollar was steady against ‌a basket of currencies. U.S. Treasury yields initially rose, with the benchmark U.S. 10-year note yield rising to 4.9915% before easing back to 4.92%.
+
+Excluding food and energy, the CPI rose 0.3% last month, the largest increase since April. That was above economists' expectations for a second straight month of a 0.2% gain. Core CPI increased 2.4% year-on-year in August after rising 2.5% in July. Core CPI inflation was ​lifted by a 5.9% jump ​in mobile phone costs, likely 
+
+Airline fares ⁠increased 2.7%, reflecting higher jet fuel costs. The cost of education and communication services rose solidly, while rents rose 0.2% and prices for hotel and motel rooms rebounded 2.4%. But healthcare costs eased and motor vehicle insurance fell 0.8%.
+
+Core goods inflation was benign, suggesting the pass-through from import tariffs was fading, though an escalation in trade tensions between the United States and Canada posed an upside risk. There were rises in the prices of new motor vehicles as well as used ​cars and trucks. Prices for prescription medication were unchanged.
+
+With the CPI and PPI data in hand, most economists expected core PCE inflation to increase 0.3% after gaining 0.2% in July. Estimates for the year-on-year increase in core PCE inflation converged around 3.4%. Core PCE inflation advanced 3.3% in the 12 months through July. The August PCE inflation report will include changes to the methodology.
+
+Fed Chairman Kevin Warsh said last month the central bank will "have work to do" if policymakers don't get the confidence they need that inflation is heading down to 2%. But Trump is pressuring the Fed to cut rates, posting on social media last week, "LOWER THE RATE OR I'LL STOP TRADING WITH COUNTRIES WITH WHICH WE HAVE A DEFICIT."
+
+Economists have blamed what they called political intimidation for the surge in yields on long-term U.S. government bonds.
+
+"The markets are doing the Fed's job for it by pricing the yield curve significantly higher, and the (Federal Open Market Committee) is now behind the curve," said Brian Bethune, an economics professor at Boston College. "At this point, Warsh and the FOMC have painted themselves into a corner."
+
+---
+
+### Wall St Week Ahead: Investors brace for possible rate hike at uncertain Fed meeting
+*SECTIONS Wall St Week Ahead Investors brace · economy*
+
+Investors head into next week's Federal Reserve meeting bracing for the central bank to raise interest rates, a move that could threaten a U.S. stock market rally already showing some vulnerability to rising bond yields.
+
+For years, inflation has persistently run above the Fed's 2% annual target, and interest rate increases are the primary tool the central bank has historically deployed to try to tamp down prices.
+
+After last month's speech by new Fed Chair Kevin Warsh that was widely perceived as hawkish, bets have grown that the Fed will hike rates on Wednesday, at the end of its ‌two-day meeting. Some investors remain ⁠dubious that the ⁠central bank, which has held rates steady in 2026, will take that step.
+
+On Friday, bets increased that the Fed will hike by a quarter percentage point after data showed consumer inflation picked up in August. The core measure of the Consumer Price Index, which excludes the volatile food and energy components, rose by a hotter-than-expected 0.3%.
+
+"The weight is now on a hike in September," said Alicia Levine, chief investment officer at BNY Wealth.
+
+  
+
+## STOCKS NAVIGATING PERIOD ​OF UNCERTAINTY
+
+Higher interest rates could undercut stock performance in several ways, including by raising borrowing costs for consumers and companies. Rate hikes that translate into higher Treasury yields could create more investment competition from bonds and pressure equity valuations.
+
+The benchmark S&P 500 is up nearly 12% so far in 2026, lifted by robust corporate earnings growth boosted by massive spending on AI infrastructure.
+
+The index has ​pulled back recently and was about 2% below its mid-August all-time high. A selloff in the bond market has pushed U.S. ⁠Treasury yields to ‌multiyear highs, with the benchmark 10-year yield closing in on a 5% level that could cause more trouble for stocks. Investors are also grappling with spiking ​tensions between the U.S. and ​Iran that this week pushed oil prices over $100 a barrel.
+
+Stocks rose on Friday as oil prices fell.
+
+"We're at a period where there's a ⁠lot of uncertainty," said Cayla Seder, macro multi-asset strategist at State Street. "You have rising yields, and you have rising ​expectations of hikes ... There is some overall nervousness that has to be priced into the market."
+
+## MARKET ODDS LEAN TOWARD QUARTER-POINT HIKE
+
+Following ​the CPI data, Fed funds futures suggested late on Friday an over 80% chance the central bank will raise its rate of 3.5%-3.75% by a quarter-percentage point, according to LSEG data.
+
+Those odds have shifted up and down in recent weeks, as traders reacted to economic data and comments from Fed officials. The latest employment report showed surprisingly strong monthly job gains, bolstering chances of a rate hike.
+
+The latest reading of the core Personal Consumption Expenditures Price Index, which Fed officials use as a guidepost for inflation's underlying run rate, came in last month at 3.3% on an annual basis.
+
+"We know inflation is above target, we know that unemployment is low," Seder said. "If the Fed does not hike and you see the market rally off of that, I think that could be ‌an opportunity to fade a little bit. Because there's still this looming environment where, maybe they don't hike in September, but they could at a later date."
+
+## WOULD ONE HIKE START A CYCLE?
+
+If the Fed does hike on Wednesday, investors said they will look for signs about whether it is likely to be ​an isolated move or the ​start of a series.
+
+"If it signals a cycle -- like, ⁠hey, we still have work to do ... -- I don't think it's going to be great for the market," said BNY's Levine.
+
+Some investors said Wednesday's Fed decision could be a test of Warsh's inflation-fighting credibility, which came under scrutiny following his press conference at the last Fed meeting in July.
+
+"The market remains concerned a bit with respect to Fed independence," said JP Coviello, head ​of portfolio strategy at Citi Wealth.
+
+## BENCHMARK YIELDS KEEP PUSHING HIGHER
+
+Rate hikes could filter through to bond yields, which have climbed steadily in recent weeks, pressuring equities. The 10-year Treasury yield rose to 4.99% early on Friday, its highest in nearly three years, and was at 4.97% late in the session.
+
+Rate hikes and higher yields could have ripples below the market's surface, investors said. Rate-sensitive areas could struggle more, such as shares of smaller companies that tend to rely more on debt financing.
+
+Citi's Coviello said the rise in yields has stemmed from "good reasons," namely the pickup in economic growth expectations, while the strong earnings performance underscores a solid fundamental backdrop for stocks.
+
+"Given the rate of change in earnings growth that we're seeing at the corporate level, in our view, that outweighs the rise in real yields from an equity investment perspective," he said.
+
+
+---
+
 ## 11 September 2026
 
 ### Costly war far from over even as US loosens Iran's grip on Strait of Hormuz
