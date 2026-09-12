@@ -1,8 +1,268 @@
 # Editorials
 
-_Last updated: 2026-09-11 06:31 UTC_
+_Last updated: 2026-09-12 06:17 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 12 September 2026
+
+### Eyes on the road: On India and road traffic fatalities
+*The Hindu · Editorial*
+
+Despite hosting only 1% of the world’s vehicular fleet, India accounts for around 11% of road traffic fatalities, due in some part to widespread non-compliance with wearing seat belts and helmets while driving. Post-crash investigations have often revealed victims being ejected from vehicles or suffering lethal secondary collisions against vehicles’ interiors; children are also vulnerable due to the patchy use of child restraint systems and rear-seat belts. Recently, a Supreme Court Bench asked the Road Transport Ministry to consider a petition to reduce road traffic deaths by habituating the use of these measures. Actual policing is certainly wanting, including due to chronic shortages of traffic police cadres; there is also room to constrain manufacturers to install tamper-proof seat belt reminders and thwart modifications after purchase. The Motor Vehicles (Amendment) Act 2019 instituted or scaffolded various mechanisms to prevent road traffic deaths whereas the national data so far have not presented evidence of improvement at the scale India needs.
+
+However, in 2024, Road Transport Ministry data said that two-wheeler riders constituted 46.2% and pedestrians 20.6% of road deaths. Seat belts and child restraints only protect occupants of enclosed vehicles, so better enforcing their adoption will address the reasons underlying only one-third of the total mortality. In fact, speeding has been found to be the dominant recorded violation associated with fatalities, and a national strategy focused on mitigating opportunities for vehicles to accelerate to high speeds may yield greater gains. Second, neither the Union government nor State governments have systematically employed the ‘Safe System’ approach. While individual responsibility and the duty of care accruing to schools and similar institutions matter, governments are still expected to design roads assuming that not everyone will behave perfectly. Put differently, they need to reduce the probability as well as the severity of crashes, including by identifying and fixing accident-prone locations, setting up physical environments that compensate for human error, reducing children’s exposure to two-wheeler traffic, and improving timely access to trauma care. Finally, India lacks a public culture that reinforces safe behaviour and deters unsafe behaviour. For India to reduce road mortality in a sustained manner, governments must treat safety through a combination of approaches that does not overstate the role of individual decisions. It is also commendable that the Court has referred the petition to the Centre, rather than assume an interventionist posture as it did in 2019, in a tacit acknowledgment that road safety has outgrown judicial fiat.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/eyes-on-the-road-on-india-and-road-traffic-fatalities/article71456612.ece)
+
+---
+
+### More heft: On India and the 18th BRICS Summit
+*The Hindu · Editorial*
+
+Forging a joint statement at a major multilateral conference, in the midst of global conflicts where members are involved is never easy — for India, hosting the BRICS Summit in Delhi is the second time in recent years, since the G-20 Summit in 2023, that it has had to shoulder such a responsibility. That, however, is not the only reason India’s BRICS presidency comes at a difficult time. The past few occasions India has hosted the coalition of emerging economies — in 2012, 2016 and virtually in 2021 — it was a smaller grouping of just five major powers, where managing consensus was easier. Since the expansion in 2024 — adding Egypt, Ethiopia, Iran, Saudi Arabia, and the UAE — and Indonesia’s induction in 2025, BRICS’ identity has evolved, but a common focus remains elusive. In addition, global conflicts involving BRICS members have grown. The war involving Iran has heightened this impact, as Iran, a victim of the U.S.-Israel strikes, as well as the UAE that was attacked by Iran in retaliation, are members that have been unwilling to agree to a common narrative on the problem. India’s position on Israel also came into conflict with other members earlier this year, as the grouping has traditionally taken a much more critical line on Israel’s actions. The largest share of New Delhi’s problems as host comes however from the United States, where President Donald Trump has accused it of plotting to overthrow the U.S. dollar’s domination of the global economy, and has been threatening tariffs on all members for planning to increase intra-BRICS payments and trade. As the Modi government seeks to restore ties with the Trump administration, on trade and its Indo-Pacific strategy, hosting BRICS also risks invoking America’s ire, however irrational.
+
+As a result, a success in reconciling all these different strands at this time would indeed be a shot across the bow for the grouping and a big win for Indian diplomacy. Since it was first conceptualised 25 years ago, and a summit convened in 2009, the BRICS countries have risen in global stature and economic heft, benefitting intra-BRICS trade. Today, BRICS accounts for half the world’s population, two fifths of the global economy and a fourth of global trade; it also includes many of the world’s top energy producers and biggest consumers. While the grouping prefers not to be called anti-western it is certainly a powerful counter to the G-7, and western-led thinking. Being part of BRICS gives India more heft in advancing its ambitions on the global high table, and its presidency has ensured it prominence on the world stage, as leaders and representatives of 11 BRICS countries including Xi Jinping, Vladimir Putin and Masoud Pezeshkian begin deliberations on Saturday at the Bharat Mandapam to discuss the future of global governance.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/more-heft-on-india-and-the-18th-brics-summit/article71456976.ece)
+
+---
+
+### The BRICS bank — an alternative that wasn’t
+*The Hindu · Opinion*
+
+When India hosts the 18th BRICS summit in New Delhi on September 12-13, 2026, under the banner of “Humanity First”, the occasion will be draped in a familiar promise: that the bloc is building an alternative to the western-dominated global financial order. A new bank to rival the World Bank. A reserve fund to free countries from the International Monetary Fund. A path away from the dominance of the U.S. dollar. Seventeen years into the BRICS project, it is worth asking a blunt question: has any of this actually materialised?
+
+The short answer is no; the reasons have less to do with intention than with structure. The BRICS countries, for all their rhetoric about reshaping the world, are deeply enmeshed in the very system that they claim to challenge. The institutions they built reflect that reality.
+
+[Read full article](https://www.thehindu.com/opinion/lead/the-brics-bank-an-alternative-that-wasnt/article71457282.ece)
+
+---
+
+### DC Edit | Has America Lost Goodwill Of World?
+*Deccan Chronicle · Editorial*
+
+We are all Americans. “Nous sommes tous Américains”. The headline of the editorial on Le Monde, France’s No. 1 newspaper, the day after the September 11 attacks in the United States proclaimed these words. It was in solidarity with a wounded nation, and a wounded people, a feeling the whole world wanted to communicate with those who were the worst victims of terrorism during those times.
+
+And that feeling was justified. In coordinated attacks on the iconic World Trade Center twin towers and the Pentagon, 19 terrorists of Al Qaeda killed close to 3,000 people and forever shattered thousands of lives. Geopolitics, too, changed forever. West Asia and Afghanistan were never going to be the same again. The everyday lives of ordinary people there, and indeed everywhere, including Americans, changed into a different perceptual and security gear from then on, with fear being its most critical part.
+
+That the terrorists have not been able to repeat their misdeed on the same scale is marked as a success in the efforts of the global community as well as the United States, and it is a well-deserved achievement for humanity. However, it has come with a price paid by all communities and all nations.
+
+Yet today it is up to the US to decide if it has since repaid the camaraderie and goodwill shown to it by the world in its moments of crisis. History must have recorded how it has destabilised governments, attacked civilisations and shattered the balance of friendships that existed among countries when it prosecuted this act by waging what it called the “war on terror”. And it continues to send its armadas to distant lands for purposes its government can hardly explain; bombing and killing innocent people in their hundreds; and for a change, wrecking its own alliances with their governments for reasons that are hard to fathom.
+
+And thus it is that it is up to the US, too, to observe and understand exactly why there are no editors today, or citizens from other nations for that matter, either, who are standing up in sorrow and outrage and proclaiming, “We are all Americans”, even though the wounds of that tragedy 25 years ago still fester.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-has-america-lost-goodwill-of-world-1986872)
+
+---
+
+### DC Edit | Summit Must Focus On Boosting Internal Trade
+*Deccan Chronicle · Editorial*
+
+Setting the tone for the two-day Brics summit in New Delhi, Russian President Vladimir Putin said the economic grouping is “not against anyone” but exists to advance its members’ interests. He was also vocal about Brics’ emergence as the real economic leader, noting its 40 per cent share of global output compared with the 29 per cent share of the US-led Group of Seven.
+
+The grouping was formed in 2009, eight years after British economist Jim O’Neill and his employer, Goldman Sachs, used the term Bric to refer to the four leading emerging markets of the time — Brazil, Russia, India and China. South Africa was admitted to the group in 2010 to represent the entire world.
+
+Ever since, Brics has attracted interest from several countries as a counterweight to the Western bloc. The group, which now counts Egypt, Ethiopia, Iran, the UAE, Saudi Arabia and Indonesia among its members, has also emerged as one of the most detested entities for US President Donald Trump.
+
+However, the Brics countries must recognise that numerical strength alone does not create an effective institution. They have different political systems, strategic priorities and relationships with the United States and Europe.
+
+India’s trade with the United States, for instance, is greater than its trade with its long-standing strategic partner, Russia. The US buys more from India than China does. Brazil’s trade relationship with India — despite the two being major economies — is weaker than its trade relationship with the UAE. This is the missing link that the Brics members must address.
+
+India and Russia, meanwhile, appear to have taken the initiative to correct this anomaly during the bilateral meeting between Prime Minister Narendra Modi and Mr Putin. They have decided to increase bilateral trade to $100 billion by 2030.
+
+During their talks, which lasted over 45 minutes, Mr Modi and Mr Putin also agreed to step up cooperation in defence, critical minerals, civil nuclear energy, fertiliser supplies and people-to-people exchanges. However, the two countries should also address the trade imbalance, which has always favoured Russia, as it has never imported from India in equal measure.
+
+On the Russia-Ukraine conflict, Mr Modi conveyed to Mr Putin India’s belief that dialogue and diplomacy were the way forward in resolving conflicts and that India stood ready to assist in peace efforts. He also raised the safety of Indian seafarers and emphasised the importance of freedom of navigation and secure supply routes.
+
+On Saturday, Chinese President Xi Jinping will arrive in New Delhi for the summit, his first visit in seven years. He will hold talks with Mr Modi, marking a major diplomatic breakthrough following the clash between their soldiers in the Galwan Valley in 2020. India-China relations are plagued by skewed trade, strategic mistrust and border disputes.
+
+India, China and Russia account for nearly 60 per cent of Asia’s landmass, economy and population. Unless they resolve their differences and seamlessly connect their economies, Brics cannot realise its full potential. Until Asia resolves its legacy issues, it cannot democratise the world order, which is currently dominated by the firmly entrenched but teetering Western grouping.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-summit-must-focus-on-boosting-internal-trade-1986875)
+
+---
+
+### Labour Enjoys A Burnham Bounce... Will Parliament In UK Oust Farage?
+*Deccan Chronicle · Opinion*
+
+To insist that in this day
+
+Housework should be shared
+
+Women bring in salaries
+
+Genders should be paired.”
+
+—From Baiku Chi Haiku by BachchooTwo cheers for free speech and the right to protest in Britain. The far-right leaders, in effect one single fellow called Daniel Thomas, better known as ‘Danny Tommo’ is said to be responsible for organising two protests.
+
+The first one, gathering a few hundred demonstrators, all wearing balaclavas and dressed in black, disrupted road traffic and cross-channel ferries in Dover. It was, the local papers said, a loud but peaceful and hugely disruptive demonstration.
+
+Last week, this same ‘Tommo’ called his supporters, who came from all over the country, to Portsmouth where a precarious dinghy-load of a hundred or so asylum seekers had crossed 170 miles of the English Channel from France, to land in the city’s harbour escorted by coastguards. The police, who were assembled to minimise disruption, were attacked by the protesters and a few suffered minor injuries. Some peripheral damage was done to vehicles on Portsmouth’s roads.
+
+No arrests were made and no protesters suffered any assault. I note this, and don’t ascribe a third cheer to this demonstrative dimension of ‘free speech’, because last week at the annual conference of the far-right Reform Party, two women protesters who interrupted the speech of Reform’s leader, Nigel Farage, were not simply escorted out of the room, but were savagely assaulted by the ‘Reformists’. These moments were captured by TV. We saw five or six men grab one woman, as she stood up and started shouting at Farage on stage. They punched her, pulled her hair and aimed kicks at her body as they dragged her out of the conference room.
+
+The second female protester was treated in the same way and also hit with a metal crutch wielded by one of the Reformist thugs.
+
+Readers of this column may recall the fact that this Nigel Farage was, and still is, under investigation for several donations amounting to over six million pounds which he received before he was elected to Westminster from a constituency called Clacton. He protested, and still maintains, that he broke no parliamentary rules as he received the five-million donation from a crypto- currency billionaire and tax exile in Thailand called Christopher Harbone. Farage claims the money was given to him for his ‘security’, but he hasn’t over years spent it on any such. To distract from the investigation, Farage resigned as an MP and stood in the by-election he thus caused. All the main parties boycotted this by-election, calling it a stunt, but over 30 jokers and parodic candidates entered the contest, the chief of these being a comedian who wore a metal bin over his head and called himself Count Binface. He got 26 per cent of the vote. Others, one dressed as a chicken, lost their deposits.
+
+Farage, predictably, won against his mocking opponents with 63% of Clacton voters casting their ballots for the far-right, mainly anti-immigrant and anti-asylum-seeker polices, he stands for.
+
+When the result of the election was declared, the 30 opponents turned for the count in Clacton, but Farage stayed away, saying that the local police had said he should. Subsequently the police were reported as saying they issued no such caution. So Clacton’s Nigel was telling what British kids call ‘porkie pies’.
+
+One of the main speakers at the Reform annual conference was a fellow called Zia (Uncle Tom) Yusuf, who was chairman of the Party some months ago, resigned and left the party for 48 hours and then rejoined as the director of efficiency. He is a close associate and influential voice in the top ranks of the party, though he is far from popular. His speech was mainly noted for its threat to overtake the Tory Party. I am sure the Tory leader Kemi (Aunty Tamsin?) Bad-Enoch took note, and will at the soon-to-be Tory Party annual conference retaliate with right-wingish challenges to (imitations of?) Reform’s anti-asylum-seeker-anti-immigrant appeal.
+
+This year’s Reform conference faced a major embarrassment, to put it mildly. The evening before the conference began in Birmingham, Channel 4 TV broadcast a programme in which undercover agents, posing as possible financial donors to Reform, lured two of Farage’s top team into telling the world how they could turn illegal donations from foreign benefactors into seemingly legal ones.
+
+The story broke nationwide. The two top officials were voluntarily suspended from the Party as their annual show began.
+
+Of course, Farage dismissed these clandestine revelations as pub banter — just two guys bragging about how they could do a dodge. It never actually happened. True, but the banter was about cheating or circumventing the law, not upholding it. Ideal leaders of a political party that professes to be a government in waiting?
+
+Since Andy Burnham replaced Keir Starmer as PM, the Labour Party has experienced a slight ‘Burnham...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/labour-enjoys-a-burnham-bounce-will-parliament-in-uk-oust-farage-1986868)
+
+---
+
+### Will Delhi Dare Call Out America On Iran At Brics?
+*Deccan Chronicle · Opinion*
+
+How does one assess the outcome or implications of three major (two multinational and one bilateral) Summits happening in the same month over 25 days? Yes, that is precisely the scenario today. No sooner did the 25th anniversary Summit of the 10-nation SCO (Shanghai Cooperation Organisation) get over on September 1 is India hosting the 10-member 18th Brics Summit. The Sino-American Summit on September 24 is the last event.
+
+The SCO Summit spanning August 31 to September 1 ended with a joint declaration condemning military strikes by the US and Israel on Iran and calling for a just settlement of the Palestine question. Committing to open, fair multilateral trading and agreeing to implement energy and economic development strategies through 2030, it emphasised upon the SCO’s non-military nature to reject bloc-based confrontation. The Bishkek Summit surely saw a satisfactory, though not perfect, conclusion. The performance of the 10 Euro-Asian states spanning across the Great “Heartland” of Halford Mackinder did look steady and inspiring confidence.
+
+In many ways, the Kyrgyzstan-hosted Summit stood out as a successful land-power experiment of our times. Despite many disagreements, the joint declaration signed by all 10 “Heartland” participants counts as an example of diplomacy, the focus being on “dialogue, discussion and agreement, however limited” in stark contrast to what the President of the US (POTUS), Donald Trump, is imposing on his cronies in the West, both business and political. It is his very own special brand of howling, abusing, threatening, insulting monopoly.
+
+India, however, did well to concur to condemn joint Israeli-American military strikes on Iran and opposed the Belt and Road Initiative, too, neither of which will please POTUS or the Chinese President Xi Jinping.
+
+Close on the heels of the Bishkek SCO, it is hosting the 18th Brics Summit from September 11 to September 13. Known world over for efficient handling and warm hospitality to participants of international conferences, it has been respected, since inception (1947), for being an independent and fair nation, taking neutral and principled stand on key issues in world politics. Even at the height of the Cold War and several years into the post-Cold War era, too, New Delhi steered clear of Big Boy rivalry notwithstanding the antics of Pakistan and China, its two main irritants.
+
+Nevertheless, politics has changed since those times. India’s dogged opposition to chronic bloodshed in Palestine is now more nuanced. New Delhi today faces strong headwinds, different from the good old days when its head of government was revered across South Asia through good and bad times. In retrospect, the bilateral oil transactions conducted of one’s own volition and closeness to Moscow evinced by the landmark “Treaty of Friendship” of August 9, 1971, appear to be in the distant past. India, the host of the 18th Brics Summit of Brazil, Russia, India, China, South Africa, Egypt, Ethiopia, Indonesia, Iran and UAE today is openly “with US and Israel” for reasons that are well known.
+
+The external scenario for India today does not appear rosy. With his characteristic unpredictability and verbal invectives, Mr Trump has created unprecedented unease for the best of his time-tested partners like Canada and Nato members. Hence, the real problem for India is likely to arrive in the concluding day of the Summit at the time of the joint declaration, when the war in Iran must be mentioned.
+
+At the SCO Summit in Bishkek, it had gone along with the rest of the nine member states to condemn the US-Israel military strikes on Tehran. Today, Iran is at war with Tel Aviv and Washington who are both India’s friends.
+
+On Russia, Mr Trump has suddenly been unusually accommodative and appreciative owing to potential mega-contracts keeping in view his family business as well as, hopefully, the future of the American economy. On China, too, he will soft-pedal owing to the proximity of the Sino-US Summit. Consequently, India emerges as the softest target for him. As things stand, the delay in finalising the India-US trade deal has already irked him no end. India has also been showing signs of shaking off other demands of the US. That said, Sunday’s events will undoubtedly call for a tightrope walk, coming as it does between two shows of SCO and Beijing-Washington tango.
+
+Now to the Sino-US Summit of September 24. There is no doubt that Beijing-Washington is the most consequential bilateral of the 21st century owing to the geoeconomics and repercussions thereof. Aside the set agenda of trade, tariff, tech, commerce, investment, banking, “opening of market”, buying more American goods and agriculture product and artificial intelligence, what needs to be kept in mind is the Financial Times, London, report of August 26: “Beijing threatens to strike back if US sanctions on Iran hit China’s interests”. If Chinese companies are included in any expansion of Mr Trump’s new secondary...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/will-delhi-dare-call-out-america-on-iran-at-brics-1986879)
+
+---
+
+### A timely rap on arbitrary arrests
+*Deccan Herald · Editorial*
+
+The Allahabad High Court’s sharp rebuke of a top district official in Uttar Pradesh and its critical comments on the preventive detention of a Delhi University student in April under the National Security Act (NSA) should serve as a warning to the bureaucracy.
+
+The court not only quashed Akriti Chaudhary's detention but also awarded her Rs 5 lakh in compensation, to be deducted from the salaries of the officials concerned.
+
+The police claimed they had evidence of the student-activist inciting workers who staged protests in Noida in April demanding a wage hike. However, the court found no such evidence and determined the police had fabricated the records to implicate her.
+
+'Bunch of liars, apologise to victims': Allahabad High Court raps cops over 'illegal detention'Justices Atul Sreedharan and Achal Sachdev of the division bench noted that District Magistrate Medha Roopam passed the detention order without “application of mind” and termed her conduct “worthy of derision”.
+
+The court said the magistrate violated her oath of office and may have tried to make an “example” of the student. This is a severe indictment of the bureaucrat expected to act according to law and established processes.
+
+The court found several factual, chronological, and procedural discrepancies that exposed the detention as predetermined and illegal. WhatsApp messages and videos presented as evidence in court could not support the charges.
+
+The court described the officials’ conduct as “despotic” and warned that such behaviour could turn the state into an “Orwellian dystopia”.
+
+The court’s stern action and strictures arrive as a welcome intervention at a time when normal democratic freedoms are under severe strain, and dissent and protests are routinely punished.
+
+The case involved an alarming abuse of authority: a citizen’s participation in a protest was dubbed incitement, leading to her detention. By quashing the action, the court has sent a clear message to bureaucrats who take arbitrary measures to please their political masters.
+
+Courts have often hesitated to fix personal accountability on erring police officials and bureaucrats. Even judicial and constitutional offices are frequently found wanting in their duty to enforce the rule of law and protect vulnerable citizens, as seen when lower courts upheld the student's unjust detention.
+
+This judgment throws a disturbing light on senior officials kowtowing to the regime of the day, discarding their sworn allegiance to the Constitution. The UP government’s decision to appeal the judgment only proves that the court’s warnings about an Orwellian state are all too real.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/a-timely-rap-on-arbitrary-arrests-4143622)
+
+---
+
+### State must pursue broad-based growth
+*Deccan Herald · Editorial*
+
+Karnataka’s ambition for a $1 trillion economy by 2037 befits a state that has long been among India’s fastest-growing.
+
+Chief Minister D K Shivakumar’s Nava Sankalpa vision goes beyond an economic target, encompassing poverty eradication, zero school dropouts, malnutrition below 5%, better healthcare, regional parity, upgrading five major cities, Rs 1.5 lakh crore in capital investment over 500 days, and Rs 3 lakh crore in fresh investments. It envisages one lakh government recruitments and five lakh private-sector jobs.
+
+The scale of the challenge is formidable. Karnataka’s economy is currently valued at about $343 billion. Tripling it within 11 years demands sustained high growth, not episodic spurts.
+
+The task is not impossible, as the state stands on a strong foundation: GSDP grew by 8.1% in 2025-26, with services accounting for about 70%, industry 19%, and agriculture 11%.
+
+D K Shivakumar’s mega pledge: To make Karnataka $1 tn economy by 2037The composition exposes a structural imbalance. Almost half the population depends on agriculture, yet the sector contributes only about a tenth of output and remains vulnerable to climate shocks.
+
+Services, particularly IT, have created extraordinary wealth, but over-reliance on high-skill services exposes the state to global technology cycles, protectionism, and AI-driven shifts in employment. The disparities are equally striking.
+
+The Bengaluru Metropolitan Region accounts for more than 43% of GSDP, highlighting the need to disperse growth. Karnataka’s per capita income was Rs 4,33,326 in 2025-26, but Bengaluru Urban recorded Rs 8,55,960 against just Rs 1.44 lakh in Kalaburagi. North Karnataka continues to lag in economic and social indicators.
+
+A trillion-dollar economy will mean little if prosperity remains concentrated in a few districts. Human capital is another fault line. Zero dropouts must be matched by better learning outcomes and employability, as graduates often lack the requisite skills. Expanding female participation in the formal workforce is equally vital to enlarging the productive base.
+
+The financial arithmetic cannot be ignored. Funding Rs 1.5 lakh crore in capital investment while sustaining welfare guarantees and managing rising debt will require fiscal discipline and substantial private capital. Attracting Rs 3 lakh crore in investment will depend on easier clearances, regulatory certainty, and effective single-window mechanisms.
+
+The $1 trillion goal must not become a race to enlarge Bengaluru’s economy. What is needed is a granular blueprint translating the vision into district- and sector-wise annual targets, funding commitments, and measurable KPIs. Progress should be reviewed regularly.
+
+Nava Sankalpa will acquire credibility only when its ambitions are translated into a clear, funded, and measurable programme that delivers broad-based prosperity across Karnataka.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/state-must-pursue-broad-based-growth-4143623)
+
+---
+
+### Protecting Western Ghats is a constitutional obligation, not an impediment
+*Deccan Herald · Opinion*
+
+The seventh draft notification of the Western Ghats Ecologically Sensitive Area (WG-ESA) is unprecedented in India’s environmental history. Unprecedented, because it has been ongoing since 2013 with no end in sight.
+
+The proposed WG-ESA spans 56,825 sq km across six states, with 20,668 sq km in Karnataka. According to the High-Level Working Group headed by Dr Kasturirangan, the WG-ESA covers just 37% of the natural landscape.
+
+This fraction includes areas of exceptionally high biological richness, low fragmentation, and low population density. It encompasses protected areas, World Heritage Sites, and critical elephant and tiger corridors.
+
+Several elected representatives of Karnataka have already expressed their apprehensions about the notification. Publicly cited concerns claim the notification will harm farmers’ interests and restrict infrastructure like roads and housing.
+
+A special session of the State legislature is also being convened to debate the issue. This urgency calls for a clear analysis based on facts and legal positions.
+
+Western Ghats panel gets more time to bring all on board as standoff over Ecologically Sensitive Areas continuesKarnataka Assembly to hold 1-day special session on Western Ghats ESA notificationMass protest against 38 proposed Western Ghats projects in Karnataka on Sept 6: SeerWhat is the justification for the WG-ESA cited in the 2026 notification? It states that the Western Ghats are an important geological landform and the origin of three major river systems – Godavari, Krishna, and Cauvery – and many other rivers.
+
+The notification identifies the Western Ghats as a global biodiversity hotspot and a treasure of biological diversity harbouring many endemic species of flowering plants, fish, amphibians, reptiles, birds, mammals, and invertebrates. It records that the landform is a critical centre of evolution for economically important plant species such as pepper, cardamom, cinnamon, mango, and jackfruit.
+
+Its forests perform a significant ecological function in sequestering atmospheric carbon dioxide and thus have a key role in mitigating the impact of climate change. The justification is also based on the fact that some parts of the Western Ghats are prone to landslide hazards, requiring protection.
+
+Furthermore, scientific studies show that the Western Ghats act as a key barrier intercepting the rain-laden southwest monsoon winds, which have immense implications for drainage patterns, agriculture, and the water security of millions of people.
+
+It is a biodiversity vault that safely holds several invaluable genes of food crops, yet undiscovered medicinal plants, designs, chemicals, and fibres, all of which are vital for ensuring food security and agricultural livelihoods. No amount of tree-planting can recreate the outstanding universal value of this ecosystem.
+
+Despite such a credible, scientific justification, why has the WG-ESA run into such intense opposition? Primarily because misconceptions in the minds of people about losing their land holdings and livelihoods have not been dispelled.
+
+So, will private lands and properties be acquired? No. The Environment (Protection) Act, 1986, does not contain any provision that empowers the government to acquire any land or private interest. It is explicitly stated in the draft notification that ownership of property in the ESA will not be affected. This should allay the anxieties.
+
+Will farming, plantations, or house construction be stopped? No. It has been expressly clarified that agriculture and plantation activity shall not be affected due to the provisions contained in the draft notification.
+
+There is no restriction on renovating or repairing houses on private properties within the villages listed. As regards the construction of a bona fide house, the Supreme Court in its final Judgment dated 26.04.2023 has already clarified that it is permissible in eco-sensitive zones. That decision in a related matter applies to the WG-ESA as well since it is under the same provisions of the Environment (Protection) Act.
+
+Will existing industries and commercial activity be shut down? No. The draft notification also makes it clear that all existing industries in the ‘red’ (prohibited) category, including healthcare establishments, shall continue.
+
+The notification mentions that industries in the ‘orange’ (regulated) and ‘white’ (non- or low-polluting) categories, as specified by the central/state pollution control boards, shall be allowed if they strictly comply with environmental regulations.
+
+It also states that all efforts shall be made to promote industries with low environmental impacts. Such activities include dairy, cashew and groundnut production, coffee processing, rice and flour mills, bricks/blocks manufacturing, etc. This makes it amply clear that the genuine needs of local people have been duly considered, and there is no blanket ban on most of the activities that are part of rural and agricultural economies.
+
+There shall be a complete ban on mining and quarrying, and all existing mines located within the identified WG-ESA shall be phased out within five years. While existing thermal power plants can continue, no new plants can come up.
+
+All new building projects and expansion of projects with a built-up area of 20,000 sq m and above, townships and area development projects with an area of 50 hectares and above or with built-up area in excess of 1,50,000 sq m, are in the prohibited category. The notification also prescribes strict regulations on hydropower projects.
+
+The facts are clear. Protecting the Western Ghats is not an impediment to rural growth. It is an insurance for water security and agricultural livelihoods for millions of people. It is also crucial for sequestering carbon and mitigating the impact of climate change.
+
+The Western Ghats are also an area of outstanding natural beauty that must be preserved for future generations. The Precautionary Principle and the doctrine of Intergenerational Equity are cornerstones of environmental jurisprudence.
+
+The State is under a constitutional obligation to protect the environment and safeguard forests and wildlife. It is fervently hoped that the legislature, in its collective wisdom, will consider all these important aspects and take an environmentally sound and socially conscious decision to protect the Western Ghats.
+
+The writer is a trustee of Wildlife First and has served on the National Board for Wildlife.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/protecting-western-ghats-is-a-constitutional-obligation-not-an-impediment-4143620)
+
+---
 
 ## 11 September 2026
 
