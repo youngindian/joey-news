@@ -1,3 +1,481 @@
+## 13 September 2026
+
+### Indian landlady speaks out after Canadian man’s ‘harassment’ claims go viral
+*India Today Trending Desk · general*
+
+## An Indian-origin landlady, accused of harassing her tenants, has shared a video statement contesting a tenant's viral allegations in Canada.
+
+The Indian woman accused of harrasment by her Canadian tenant has shared her side of the story. (Photos: tiwanafarmmarket/Instagram)
+
+A landlord-tenant dispute involving an Indian-origin landlady in Canada, has taken another turn after both sides shared videos presenting their versions of the events. The woman named Raj has denied the allegations against her and claimed that the tenants had not paid rent for months and had damaged her property.
+
+In a video shared after reports of her arrest surfaced, Raj addressed the controversy directly in Punjabi. She began by saying she had been taken into police custody but was released immediately.
+
+“Yes, the police did take me into custody, I don't know what information they had received, but they simply took me home and released me right then and there,” she said.
+
+She also clarified that the video was recorded 10 days earlier but had surfaced publicly only a few days before. She said the controversy had affected her customers and acquaintances and thanked the around 300 customers who visited her.
+
+“My customers, who have supported me so much over the past four years, came to visit me yesterday,” she said, adding that she had been unable to answer all the calls she received.
+
+Raj then gave her account of the tenancy dispute. She claimed the tenants had not paid rent for several months and accused them of harassing her and damaging her property.
+
+“I decided to make this video, to let everyone know that I am perfectly fine. Also, the tenants hadn't been paying rent for several months; they were harassing me and damaging the property,” she said.
+
+I had been dealing with the Tenancy Board regarding this, and they have finally been evicted; they were evicted last week. They released those videos later; meanwhile, the police and my lawyer are working on the matter, and we are handling the situation smoothly. What’s done is done, but everything is okay as lawyers, the police, and the Tenancy Board are all involved. Thanks for helping me,” she added.
+
+**Watch the video here:**
+
+The dispute had earlier gained attention after the tenant posted videos accusing Raj of harassment and threatening behaviour. In one clip, she was seen entering the man’s home and throwing rocks in his direction before a physical confrontation. The man repeatedly asked her to stop and appeared to keep his distance during the altercation.
+
+The tenant has also disputed Raj's claims about the tenancy and continued to post videos alleging assault by the landlady. In one earlier exchange, she pointed to marks on the property and alleged they had been caused by the tenant’s BBQ, a claim he disputed.
+
+In his last update, the tenant posted a video showing police arriving at the landlady's home. The officers told her, “Raj, you are under arrest, please don't argue.”
+
+Seemingly confused, she replied, “It's going to be stressful. No, I have to call my daughter. Can I call my daughter?”
+
+The officers were then seen handcuffing her before escorting her to a police van.
+
+\- Ends
+
+Srimoyee Chowdhury
+
+Sep 13, 2026 10:26 IST
+
+---
+
+### Chhattisgarh cops recover 200 missing phones worth Rs 40 lakh in major drive
+*India Today News Desk · general*
+
+## The Cyber Cell traced the phones using CEIR, technical tracking and inter-state coordination; police are now working to recover 3,000 more missing phones.
+
+Durg Police recovered 200 missing mobile phones worth around Rs 40 lakh and returned them to their rightful owners.
+
+Chhatisgarh Police in Durg have recovered 200 mobile phones reported missing from different police station areas of the district and returned them to their rightful owners as part of an initiative aimed at strengthening social policing. The recovered mobile phones have an estimated total value of around Rs 40 lakh.
+
+Senior Superintendent of Police (SSP) Vijay Agrawal handed over the recovered mobile phones to their rightful owners during a programme organised in Bhilai.
+
+According to Durg Police, the district Cyber Cell and police from the concerned police stations conducted technical analysis of each missing-mobile-phone case after receiving the complaints.
+
+The police traced the phones through the CEIR (Central Equipment Identity Register) portal, technical tracking, coordination with telecom service providers and coordination with police units in other states and districts. The police safely recovered the phones and handed them over to their rightful owners after completing all necessary legal procedures.
+
+SSP Vijay Agrawal said the police recovered around 200 mobile phones worth Rs 40 lakh. He said the phones had gone missing at different times and the police recovered them through a continuous campaign conducted over one month. He said the police have a list of 3,000 more mobile phones and will work on recovering them and returning them to their holders in the coming period.
+
+Agrawal urged citizens to provide information about a missing mobile phone on the CEIR portal, saying this helps police trace it. He also appealed to mobile-phone users to follow cybersecurity practices. He said every person is living in the internet era and using banking services, making cybersecurity essential.
+
+Durg Police appealed to citizens to immediately report a lost or stolen mobile phone to the concerned police station, Cyber Cell or through the CEIR portal. Police also advised citizens to use a screen lock, strong password, biometric security and other security features to protect their mobile phones.
+
+\- Ends
+
+Akshat Trivedi
+
+Sep 13, 2026 10:20 IST
+
+---
+
+### SSC to conduct CGL Tier 1 2026 examination from September 30 to October 30
+*India Today Education Desk · general*
+
+## SSC has released the CGL 2026 exam schedule, with Tier 1 set for September 30 to October 30. The computer-based exam will cover four sections, with 100 questions, 200 marks, and negative marking.
+
+SSC CGL 2026 exam schedule out: Tier 1 to be held from September 30
+
+The Staff Selection Commission (SSC) has released the exam schedule for the Combined Graduate Level Examination (CGL) 2026. According to the official announcement, Tier 1 of the SSC CGL 2026 examination will be conducted from September 30 to October 30, 2026. As per the official information, the computer-based examination will be conducted in two tiers: Tier 1 and Tier 2.
+
+SSC's official notice.
+
+### SYLLABUS
+
+Tier 1 of the SSC CGL 2026 examination will consist of four sections. Each section will have 25 questions carrying 50 marks.
+
+The syllabus includes:
+
+Subject
+
+Number of questions
+
+Marks
+
+General Intelligence and Reasoning
+
+25
+
+50
+
+General Awareness
+
+25
+
+50
+
+Quantitative Aptitude
+
+25
+
+50
+
+English Comprehension
+
+25
+
+50
+
+**General Intelligence and Reasoning:** The General Intelligence and Reasoning section will include questions of both verbal and non-verbal type.
+
+**General Awareness:** The General Awareness section will test candidates' general awareness of the environment around them and its application to society. Questions will also be designed to test knowledge of current events and matters of everyday observation and experience in their scientific aspect, as may be expected of an educated person. The section will also include questions relating to India and its neighbouring countries, especially about History, Culture, Geography, Economic Scene, General Policy and Scientific Research.
+
+**Quantitative Aptitude:** The Quantitative Aptitude section will include questions designed to test the ability of candidates to make appropriate use of numbers and number sense.
+
+**English Comprehension:** The English Comprehension section will test candidates' ability to understand correct English, along with their basic comprehension and writing ability.
+
+### MARKING SCHEME AND DURATION
+
+Applicants will be given one hour to complete the Tier 1 paper. There will be a negative marking of 0.50 marks for each incorrect answer.
+
+Tier 1 will consist of Objective Type, Multiple Choice Questions. The questions will be set in both English and Hindi, except for the English Comprehension section.
+
+Candidates are advised to visit the official website of SSC for further information.
+
+\- Ends
+
+Sep 13, 2026 10:18 IST
+
+---
+
+### India vs Sri Lanka, Women's Asia Cup Final: All You Need To Know
+*Unknown · sports, cricket*
+
+After an unbeaten run in the group stage, Harmanpreet Kaur and Co. will be aiming to clinch a record-extending eighth Women's Asia Cup title.
+
+[Read full article](https://sports.ndtv.com/womens-asia-cup-2026/india-vs-sri-lanka-womens-asia-cup-final-all-you-need-to-know-12039780)
+
+---
+
+### Did Osama bin Laden plan to attack India before 9/11? What declassified CIA files say
+*Monica Singh · world*
+
+Declassified CIA briefs released to mark 25 years of 9/11 reveal Osama bin Laden considered attacking India. Aug 28 1998 memo titled 'Bin Ladin Terrorist Network Still a Threat' lists India, Pakistan, Egypt, Kuwait, Saudi Arabia, Yemen, Uganda and possibly Nigeria.
+
+India is among the list of countries that former al-Qaeda leader Osama bin Laden had once considered to attack, documents released by the US Central Intelligence Agency (CIA) have revealed.
+
+The CIA on Friday released more than 70 presidential intelligence briefs linked to bin Laden, with more than 100 pages of material, to mark the 25th anniversary of the 9/11 attacks at the World Trade Centre in New York City in 2001.
+
+The presidential brief dated August 28, 1998, mentions that bin Laden wanted to launch attacks on multiple countries, including India. The other countries mentioned in the memo, parts of which are redacted, include Pakistan, Egypt, Kuwait, Saudi Arabia, Yemen, Uganda and "possibly" Nigeria.
+
+## **What the August 28 1998 memo says about India threat**
+
+Titled "Bin Ladin Terrorist Network Still a Threat", the document redacts the source of the information. It does not identify a specific Indian target, an attack date, or a precise operational plan.
+
+"Bin Ladin's well-established infrastructure in North America, Europe, and East Asia lends credibility to reports that he also will target US interests in these regions," the document says.
+
+It assesses that bin Laden and other terrorist leaders based in Afghanistan had survived the US attacks on the country and that "their communications network remains intact". The terrorist group had even resumed its training in some camps and other camps were being moved.
+
+It says bin Laden was looking to launch further attacks against the US as well as the UK hours before the US missile strikes on al-Qaeda camps in Afghanistan.
+
+## **CIA warned presidents from Clinton to Bush before 9/11**
+
+The memo further noted that the al-Qaeda chief may "call on a network of individuals and allied groups in at least 60 countries to conduct attacks."
+
+The bundle of presidential intelligence briefs released by the CIA demonstrates that the intelligence agency had warned former US Presidents multiple times from 1998 to 2001 about a possible terrorist attack on the country. The briefs cover a period starting during Bill Clinton's presidency and continue into that of George W Bush.
+
+The release of the briefs provides "unprecedented transparency on America's most sensitive intelligence publication from the years before and the day after one of the darkest moments in our history," the CIA said in a statement.
+
+---
+
+### Delhi Declaration Adopted At 20th BRICS Summit As India Pushes For Global Order Overhaul
+*India Today Video Desk · world*
+
+## West Asia Crisis, BRICS Payment Mechanism & Shifting Global Order Discussed
+
+A panel discussion evaluated key geopolitical shifts highlighted in the New Delhi Declaration and BRICS summit proceedings. Panellists analysed the unfolding West Asia crisis, noting the breakdown of historical post-Ottoman arrangements and the risks faced by nations relying on external military protection. The debate addressed the need for independent economic payment mechanisms to counter Western trade restrictions among BRICS economies. Panellists also raised concerns over the rapid erosion of global strategic stability, the weakening of historic maritime freedom of navigation, and the diminishing influence of traditional superpowers. In response, Ambassador Trigunayat defended the diplomatic document as a comprehensive consensus representing diverse member interests, emphasising the Prime Minister's call for the Global South to act as a rule shaper, prevent attacks on nuclear infrastructure, and collectively resist emerging technological apartheid.
+
+## Iran-UAE Diplomatic Meeting, PM Modi's Global Outreach And West Asia Dynamics
+
+Diplomatic discussions between UAE Crown Prince Sheikh Khaled bin Mohamed bin Zayed Al Nahyan and Iranian President Masoud Pezeshkian highlight regional dynamics in West Asia. In an interview, Iranian President Masoud Pezeshkian reflected on bilateral relations between India and Iran, noting that ties with Prime Minister Narendra Modi have been developing consistently based on historical and cultural foundations. The talks also focused on broader regional engagement, including upcoming deliberations involving GCC member nations and Iran in Oman. Strategic experts and diplomats analysed the multilateral context of the meeting, discussing sovereignty, the United Nations Charter, and diplomatic engagement. The panel assessed the scope of providing platforms for bilateral dialogue, the dynamics of regional conflict resolution, and the strategic positioning of partner nations amid evolving diplomatic alignments in the Middle East.
+
+## India Achieves BRICS Consensus, New Delhi Declaration Adopted Amid Iran-UAE Thaw
+
+At the 2026 BRICS summit in New Delhi, India secured the unanimous adoption of the New Delhi Declaration following overnight negotiations to resolve geopolitical gridlock between Iran and the United Arab Emirates. The final declaration voiced serious concern over tensions in West Asia and urged restraint without naming specific nations. India also facilitated a sideline meeting between Iranian President Masoud Pezeshkian and Crown Prince of Abu Dhabi Sheikh Khaled bin Mohammed bin Zayed Al Nahyan. The declaration prioritised conflict prevention, peaceful dispute resolution, multilateralism, and adherence to international law. It raised concerns regarding unilateral tariff barriers violating World Trade Organization regulations, the risk of nuclear confrontation, and advocated for cross-border trade settlements in local BRICS currencies. The BRICS chair underscored the necessity of institutional reform in representation, responsiveness, and rule-making, calling for equal Global South participation in future technology regulation. Former diplomat Anil Trigunayat highlighted India's established capacity as a diplomatic bridge builder.
+
+## West Asia War, Trump Midterm Strategy, Iran Conflict: Key Takeaways
+
+US President Donald Trump stated that the West Asia war will conclude very soon, indicating it may end right after the midterm elections in the United States. Speaking on the ongoing conflict, he claimed that Tehran is attempting to prolong the situation to complicate the upcoming electoral process. He also reiterated that Iran cannot be permitted to possess nuclear weapons and projected that global oil prices would decrease following the cessation of hostilities. Meanwhile, Iranian President Masoud Pezeshkian, in an exclusive conversation with India Today, blamed Washington for driving the conflict, accusing the United States of targeting civilian infrastructure inside Iran. Channel reporters highlighted that US domestic political concerns ahead of the midterms, damage to American naval assets, and escalating confrontations involving regional groups such as the Houthis are influencing the current strategic outlook and presidential rhetoric.
+
+---
+
+### 48-Year-Old Techie Killed After Being Hit By Car During Morning Walk In Pune
+*Aanchal Sinha · general*
+
+According to news agency PTI, the vehicle was allegedly being driven by a 19-year-old youth.
+
+[Read full article](https://www.news18.com/india/48-year-old-techie-killed-after-being-hit-by-car-during-morning-walk-in-pune-ws-kl-10326057.html)
+
+---
+
+### BRICS Summit: Malaysian PM sings evergreen Kishore Kumar song at Delhi hotel
+*Trends Desk · legal*
+
+Attending the BRICS Summit in Delhi, Malaysian Prime Minister Anwar Ibrahim delighted netizens by singing the iconic 1965 Hindi song "Khwab Ho Tum Ya Koi Haqeeqat"
+
+[Read full article](https://indianexpress.com/article/trending/trending-globally/malaysian-pm-anwar-ibrahim-sings-kishore-kumar-song-brics-summit-10875889/)
+
+---
+
+### How an introvert from Bengaluru cracked JEE and found a second family at IIT Guwahati | Life in an IIT
+*Deepto Banerjee · legal*
+
+Naga Jeshwanth Sreeram is a final-year student in Electronics and Electrical Engineering at IIT Guwahati.
+
+[Read full article](https://indianexpress.com/article/education/life-in-an-iit-guwahati-naga-sreeram-jee-main-advanced-ranks-class-toppers-bengaluru-introvert-second-family-10875155/)
+
+---
+
+### Top AMOLED Display Phones Under Rs. 50,000: Motorola Edge 70 Pro+ and More
+*Dhruv Raghav · technology, mobile*
+
+Motorola Edge 70 Pro+ is equipped with a 1.5K resolution Extreme AMOLED display.
+
+[Read full article](https://www.gadgets360.com/mobiles/features/best-amoled-display-phones-under-rs-50000-from-motorola-edge-70-pro-plus-nothing-phone-4a-pro-and-more-12030305)
+
+---
+
+### Before 9/11, Osama bin Laden eyed India for terror attacks, CIA documents show
+*India Today World Desk · general*
+
+## A declassified CIA brief from 1998 said Al-Qaida founder Osama bin Laden intended to conduct attacks in India and several other countries. The release offers a fresh look at the reach of al-Qaida's network before 9/11, but names no specific target in India.
+
+Supporters of al-Qaida founder Osama bin Laden shout anti-American slogans, after the news of his death, during a rally in Pakistan's Quetta in 2011. (Photo: Reuters)
+
+Al-Qaida founder Osama bin Laden was considering carrying out attacks in India years before the September 11, 2001, terror attacks in the US, according to a declassified CIA intelligence brief from 1998. The revelation is part of a major release of declassified CIA presidential briefing material marking the 25th anniversary of the September 11, 2001 attacks.
+
+The CIA has released more than 100 pages of material across dozens of intelligence briefs prepared for former US Presidents Bill Clinton and George W Bush.
+
+A presidential daily brief dated August 28, 1998, titled 'Bin Laden terrorist network still a threat', listed India among several countries where Osama bin Laden intended to conduct attacks. “Bin Laden intends to conduct attacks in Egypt, the Arabian Peninsula, especially Kuwait, Saudi Arabia, and Yemen, India, Pakistan, Uganda, and possibly Nigeria,” the brief said.
+
+The document does not identify any specific target in India, an intended date or details of an operational plan. The source of the intelligence has also been redacted.
+
+(Credits: CIA)
+
+It also said Osama bin Laden could call on a network of individuals and allied groups in at least 60 countries to carry out attacks.
+
+Osama bin Laden was looking at options for further attacks against the US and UK, the brief said, although he had not indicated precise targets or timing.
+
+The assessment also noted that US officials had assisted in the arrest of Osama bin Laden operatives preparing attacks in Tirana and possibly Baku.
+
+Osama bin Laden's established infrastructure in North America, Europe and East Asia also lent credibility to reports that he could target US interests in those regions, the CIA said.
+
+The CIA brief said that Osama bin Laden and other terrorist leaders based in Afghanistan had survived US missile strikes and that their communications network remained intact. Training had resumed at some camps, while other camps were being moved.
+
+The brief came shortly after the US launched missile strikes against suspected al-Qaida targets in Afghanistan and Sudan in August 1998, following the bombings of two US embassies in Kenya and Tanzania.
+
+### NEARLY 3,000 KILLED IN 9/11 ATTACKS
+
+Three years after the CIA documents surfaced, on September 11, 2001, 19 al-Qaida operatives hijacked four passenger planes in the US.
+
+Two planes crashed into the World Trade Center's Twin Towers in New York, bringing down both skyscrapers. A third struck the Pentagon in Arlington, Virginia.
+
+The fourth plane, United Airlines Flight 93, crashed into a field in Pennsylvania after passengers fought back against the hijackers. It is believed to have been headed towards a major target in Washington, potentially the White House or the US Capitol.
+
+Nearly 3,000 people were killed in the attacks, including the 19 hijackers. The 9/11 attacks led to the US invasion of Afghanistan, where the Taliban had allowed Osama bin Laden and other al-Qaida leaders to operate.
+
+Osama bin Laden was eventually killed on May 2, 2011, in a US helicopter raid on a compound in Pakistan's Abbottabad, about 60 km from Islamabad. His death brought an end to the almost decade-long hunt for the 9/11 mastermind.
+
+The newly released CIA documents offer an insight into the scale and reach of Osama bin Laden's network more than three years before 9/11. Its reference to India shows that the country was among those considered for potential attacks as early as 1998, though the document contains no evidence of a specific plot or target in India.
+
+\- Ends
+
+Prateek Chakraborty
+
+Sep 13, 2026 09:58 IST
+
+---
+
+### Sunday Motivation Quote by Usain Bolt: ‘I'm focused on what I want to do, I know what I need to do to be a champion, so…’ - Why internal focus beats outside noise; Legendary sprinter’s powerful words of wisdom
+*Divyadeep Singh · business*
+
+Sunday mornings set the tone for the entire week ahead in a unique way. Traditionally weekends are meant for relaxation and rest; they also offer a quiet window to clear your mind and reset your goals. It is the perfect moment to reflect on where you are spending your energy and prepare for the opportunities waiting for you in the coming days.
+
+Imagine yourself sitting with a hot mug of coffee on Sunday morning, your mind dragging last week behind you, and yet contemplating what tomorrow might be having in store. As you sit and ponder upon the plethora of tasks, including the looming deadlines awaiting you at work. It is so easy to get overwhelmed and lost in an endless loop of noise, outside pressures, and competing priorities.
+
+These situations raise a volley of questions. How many times have you sat there comparing your snail-pace progress to someone else’s? How many more times have you worked and worked without really knowing your final destination? What could happen if you dimmed all the outside noise and channeled every measure of your effort into your own personal race?
+
+  
+
+**Sunday Motivation Quote of the Day by Usain Bolt:** _**“For me, I know what I want to do. I know what it takes to be a champion, and that‘s what I‘m doing.”**_ This quote by the legendary Jamaican sprinter highlights the value of focus and determination and how the recent shift in attitudes towards has given rise to a more positive outlook.
+
+This has to be one of the simplest but yet most ambitious definitions of dedication. In such an immersive mind sleep, success can only follow, not come from a lucky strike. May be, success arises from the silent clearness, incessant labor, and stable internal attention. This quote on its face is about self-control, a clear sense of purpose, and a final margin. The first half of that statement about you taking control of your own direction. It's about picking your own goals—rather than allowing others’ opinions or distractions to determine your path.
+
+The second half is to bring the aspirations down to the ground. To aspire to be a champion is one thing, yet to know what precisely needs to be done to get there requires a thorough knowing of oneself. By saying you are working towards that, it is a way of taking out any scope of excuses. It takes away opportunity from that of a potential to one of a being that relentlessly does consciously every day.
+
+  
+  
+
+## Why Quote Matters Today
+
+Let’s face it, we are surrounded by a digital hum, comparisons between others all over the place, and notifications at every turn. You can lose track of your own main goals by staying “connected” to what others are doing. Too many people focus more energy on how they appear outside than on actually mastering inside.
+
+The quote remains highly relevant in the modern world and today’s day and age because it requires you to take a deliberate and conscious change of mental focus. It demands that you stop looking at the lanes next to you and begin to fully focus on your racing line. When you come to Sunday and you prepare yourself for the week to come, this is the mental program you need to switch off everything else and focus solely on the important tasks.
+
+### Who is Usain Bolt?
+
+Popularly known as the fastest human to walk this earth, Usain Bolt completely transformed the sport of track and field with his record-breaking performance, which completely changed the landscape of the sport of track and field. He dominated the sport for almost a decade, winning eight Olympic gold medals in three successive Olympics in 2008, 2012, and 2016, to setting the world record for the 100-meter as well as the 200-meter.
+
+---
+
+### Maratha quota activist Manoj Jarange Patil to reach Mumbai on Sept 20 with protesters
+*Express News Service · legal*
+
+Manoj Jarange Patil says Maratha quota protesters will reach Mumbai on September 20, with scheduled halts before the agitation at Azad Maidan.
+
+[Read full article](https://indianexpress.com/article/cities/mumbai/manoj-jarange-patil-maratha-quota-protest-mumbai-september-20-10875831/)
+
+---
+
+### Why RBI wants Tata Sons to list, and why the Tata group wants to stay private
+*India Today Business Desk · general*
+
+The Reserve Bank of India's decision to reject Tata Sons' request to surrender its registration as a Core Investment Company (CIC) has brought an old question back into focus. Will the holding company of the Tata group finally have to go public?
+
+Tata Sons has been trying to avoid that outcome. The company had approached the central bank to surrender its registration as a CIC, arguing that it should no longer be treated as a regulated non-banking financial company after repaying its debt.
+
+The RBI has now rejected that request, leaving Tata Sons with the listing requirement that comes with its classification as an upper-layer NBFC.
+
+The dispute may sound technical, but at its heart it is about a simple question: Why should the holding company of one of India's biggest business groups have to list on the stock market when it is not a conventional lender?
+
+The answer lies in how Tata Sons is classified by the RBI. So, what exactly is a Core Investment Company, why does Tata Sons fall under this category, and how did that classification lead to a mandatory listing?
+
+### WHAT IS A CORE INVESTMENT COMPANY?
+
+A Core Investment Company is essentially a holding company for a corporate group.
+
+Unlike a conventional NBFC, which lends money to individuals or businesses, a CIC's principal business is holding investments in other companies belonging to the same group. RBI's rules require such companies to put at least 90% of their net assets into group companies, with at least 60% invested in equity shares of those companies.
+
+Tata Sons fits this description because its principal role is to hold stakes in Tata group companies.
+
+It owns significant interests in businesses spread across sectors such as information technology, automobiles, steel, consumer products, aviation and hospitality. Tata Sons is therefore less like a finance company that deals directly with borrowers and more like the financial holding company at the centre of a large corporate group.
+
+But the fact that a CIC is primarily a holding company does not mean it falls outside the RBI's financial regulatory framework.
+
+The reason is the potential financial impact of such a company on the wider group.
+
+A holding company at the centre of a large corporate structure can be closely connected to companies that borrow from banks, raise money through bonds or issue commercial paper. Trouble at the holding-company level can therefore have consequences beyond the company itself.
+
+This is why the RBI has a separate regulatory framework for CICs.
+
+### THE LISTING RULE BEHIND RBI'S DECISION
+
+The immediate issue for Tata Sons stems from the RBI's scale-based framework for NBFCs.
+
+Introduced in 2021, the framework divides NBFCs into four layers — Base, Middle, Upper and Top. The Upper Layer includes the largest and more systemically important NBFCs and comes with stricter regulatory requirements.
+
+Tata Sons was placed in this Upper Layer in September 2022.
+
+That classification came with an important consequence. RBI rules require NBFCs placed in the Upper Layer to be listed on a stock exchange within three years of their identification.
+
+For Tata Sons, the original deadline was September 30, 2025. But the company did not get listed. Instead, it sought to remove the regulatory basis for the listing requirement by asking the RBI to allow it to surrender its CIC registration.
+
+That application has now been rejected.
+
+### WHY TATA SONS SOUGHT DEREGISTRATION AS CIC
+
+Tata Sons sought deregistration after repaying more than Rs 20,000 crore of debt in 2024. In March that year, it approached the RBI to surrender its registration as a CIC.
+
+The company argued that, after repaying its debt, it should no longer be treated as a registered NBFC and therefore should not be subject to the listing requirement attached to its Upper Layer classification.
+
+RBI rules allow certain CICs that meet specific conditions to remain unregistered. One of those conditions is that they should not access public funds.
+
+This is where the Tata Sons case becomes more complicated.
+
+### THE PUBLIC FUNDS QUESTION
+
+Being debt-free at the standalone level does not necessarily settle the question of public funds.
+
+RBI rules cover various forms of funding, including bank finance, commercial paper, debentures and other market-based borrowings. They also take into account the indirect receipt of public funds through associates and group entities.
+
+That distinction matters for Tata Sons because it sits at the centre of a large corporate group whose companies raise money from banks and financial markets.
+
+So, the fact that Tata Sons itself has repaid its debt does not necessarily mean that its financial links with the rest of the group cease to matter under the RBI's rules.
+
+Tata Sons also faces the question of size. Under the RBI's revised framework, an NBFC with assets of Rs 1 lakh crore or more qualifies for the Upper Layer. Tata Sons had assets of about Rs 2 lakh crore as of March 2026, according to recent reports.
+
+This makes it harder for Tata Sons to move outside the Upper Layer framework by surrendering its CIC registration.
+
+### WHY TATA SONS WANTS TO AVOID LISTING
+
+The obvious question is why Tata Sons is so keen to avoid a listing.
+
+After all, a stock market listing can give a company access to capital and provide investors with an easily visible valuation.
+
+But raising money is not the main issue for Tata Sons.
+
+The company is the holding entity at the centre of the Tata group and is already backed by valuable businesses. What a listing would fundamentally change is the degree of public scrutiny it faces.
+
+A listed Tata Sons would have to make regular disclosures to the market and comply with the requirements that come with being a publicly traded company. Its financial performance, investments, 
+
+The market would also begin putting a daily value on Tata Sons itself.
+
+At present, investors can track the share prices of listed Tata companies, but Tata Sons itself does not have a publicly traded share price. Its value as a holding company is therefore not determined every day by the stock market.
+
+A listing would change that.
+
+Investors would begin looking at the value of Tata Sons' holdings and asking whether the holding company deserves to trade at a premium or discount to the value of those investments.
+
+That could bring a new level of scrutiny to decisions that are currently made within a closely held structure.
+
+### THE SHAREHOLDER ANGLE
+
+There is another reason the listing question matters. Tata Sons is majority-owned by Tata Trusts, which holds around 66% of the company. The Shapoorji Pallonji Group owns roughly 18%.
+
+For the latter, a public listing could provide something that is difficult to obtain from a stake in a privately held company: liquidity and a transparent market valuation.
+
+A listed Tata Sons would create a publicly determined value for the shares held by its existing shareholders and could eventually make it easier for them to monetise part of their holdings.
+
+For Tata Trusts and the Tata group, however, remaining private preserves the existing ownership structure and avoids exposing the holding company itself to continuous stock market scrutiny.
+
+That difference in interests makes the RBI's decision significant for Tata Sons' shareholders as well.
+
+To sum up, the RBI's decision has effectively shut down Tata Sons' preferred route to remaining a private holding company. And Tata Sons continues to fall within the Upper Layer of the RBI's NBFC framework and therefore has to address the listing requirement.
+
+That does not necessarily mean an IPO is around the corner. The exact structure and timeline for compliance will be important, particularly because the original three-year listing period has already passed.
+
+\- Ends
+
+Koustav Das
+
+Sep 13, 2026 09:57 IST
+
+---
+
+### Al-Qaeda Regroups In Afghanistan 25 Years After 9/11, Camps Using AI To Train Terrorists: Report
+*Meemansa Shekhawat · general*
+
+Al-Qaeda and its offshoots have built at least eight bases in Afghanistan over the past three years, according to The Washington Post. Why is it a wake-up call for India?
+
+[Read full article](https://www.news18.com/world/al-qaeda-regroups-in-afghanistan-25-years-after-9-11-camps-using-ai-to-train-terrorists-report-ws-l-10326019.html)
+
+---
+
+### West Asia Crisis, BRICS Payment Mechanism & Shifting Global Order Discussed
+*India Today Video Desk · general*
+
+## Iran-UAE Diplomatic Meeting, PM Modi's Global Outreach And West Asia Dynamics
+
+Diplomatic discussions between UAE Crown Prince Sheikh Khaled bin Mohamed bin Zayed Al Nahyan and Iranian President Masoud Pezeshkian highlight regional dynamics in West Asia. In an interview, Iranian President Masoud Pezeshkian reflected on bilateral relations between India and Iran, noting that ties with Prime Minister Narendra Modi have been developing consistently based on historical and cultural foundations. The talks also focused on broader regional engagement, including upcoming deliberations involving GCC member nations and Iran in Oman. Strategic experts and diplomats analysed the multilateral context of the meeting, discussing sovereignty, the United Nations Charter, and diplomatic engagement. The panel assessed the scope of providing platforms for bilateral dialogue, the dynamics of regional conflict resolution, and the strategic positioning of partner nations amid evolving diplomatic alignments in the Middle East.
+
+## India Achieves BRICS Consensus, New Delhi Declaration Adopted Amid Iran-UAE Thaw
+
+At the 2026 BRICS summit in New Delhi, India secured the unanimous adoption of the New Delhi Declaration following overnight negotiations to resolve geopolitical gridlock between Iran and the United Arab Emirates. The final declaration voiced serious concern over tensions in West Asia and urged restraint without naming specific nations. India also facilitated a sideline meeting between Iranian President Masoud Pezeshkian and Crown Prince of Abu Dhabi Sheikh Khaled bin Mohammed bin Zayed Al Nahyan. The declaration prioritised conflict prevention, peaceful dispute resolution, multilateralism, and adherence to international law. It raised concerns regarding unilateral tariff barriers violating World Trade Organization regulations, the risk of nuclear confrontation, and advocated for cross-border trade settlements in local BRICS currencies. The BRICS chair underscored the necessity of institutional reform in representation, responsiveness, and rule-making, calling for equal Global South participation in future technology regulation. Former diplomat Anil Trigunayat highlighted India's established capacity as a diplomatic bridge builder.
+
+## West Asia War, Trump Midterm Strategy, Iran Conflict: Key Takeaways
+
+US President Donald Trump stated that the West Asia war will conclude very soon, indicating it may end right after the midterm elections in the United States. Speaking on the ongoing conflict, he claimed that Tehran is attempting to prolong the situation to complicate the upcoming electoral process. He also reiterated that Iran cannot be permitted to possess nuclear weapons and projected that global oil prices would decrease following the cessation of hostilities. Meanwhile, Iranian President Masoud Pezeshkian, in an exclusive conversation with India Today, blamed Washington for driving the conflict, accusing the United States of targeting civilian infrastructure inside Iran. Channel reporters highlighted that US domestic political concerns ahead of the midterms, damage to American naval assets, and escalating confrontations involving regional groups such as the Houthis are influencing the current strategic outlook and presidential rhetoric.
+
+## Border Peace, Boundary Settlement And Trade Ties Focus In India-China Bilateral Talks
+
+Delegation-level bilateral talks between India and China took place on the sidelines of the BRICS summit in New Delhi, marking the first such bilateral meeting held on Indian soil in seven years. The discussions focused on reviewing bilateral ties following the 2020 border clashes. Both sides welcomed steady progress in relations and called for a strategic long-term perspective, agreeing that differences should not become disputes. Key discussions centered on the three mutual principles of mutual respect, mutual sensitivity, and mutual interest. Both nations emphasized that maintaining peace and tranquility along border areas remains essential for stable ties, backing efforts towards a fair and mutually acceptable boundary settlement. The meeting also addressed structural trade imbalances, supply chain disruptions, and the need for predictable market access. In addition, the two nations agreed to expand people-to-people exchanges, enhance cultural and business cooperation, and widen common ground on regional, global, and multilateral issues.
+
+
+---
+
 ## 12 September 2026
 
 ### Bajaj Pulsar 125 and 150 review, first ride: Bringing back the classics
