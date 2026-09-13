@@ -1,8 +1,130 @@
 # Editorials
 
-_Last updated: 2026-09-12 06:17 UTC_
+_Last updated: 2026-09-13 06:39 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 13 September 2026
+
+### CCTV footage in police stations: Should it be a sarkari secret?
+*Deccan Herald · Opinion*
+
+Last week, a reputable journalist commented with cautious optimism on the recent crop of bold judgments and the emanation of brave noises from the judges’ corner, which are not accommodating of the ruling establishment’s partisan interests. He cites examples: the Allahabad High Court’s rebuke of a District Magistrate for illegally detaining a young woman activist under the draconian National Security Act (NSA) and its order to recover the Rs 5 lakh compensation awarded to her from the former’s salary; the Punjab and Haryana High Court Chief Justice’s remarks about the importance of the rule of law; the Chief Justice of India’s verbal support for the expression of popular dissent in a peaceful manner.
+
+However, has the ‘judicial worm turned’ perceptibly to protect people’s right to know? Earlier this month, another bench of the Allahabad High Court upheld the State Information Commission’s decision to deny a citizen access to CCTV footage recorded at a local police station. The court approved the government’s claim that the footage has sensitive contents barred from disclosure under Section 8(1)(g) of the RTI Act. This exemption clause was crafted only to prevent endangerment of a person’s life or physical safety or disclosure of the identity of intelligence informants. Nothing in the court’s order indicates that the judges examined the footage themselves to ascertain the truth. The court ruled that CCTV footage may be provided only to a competent court or a human rights commission (HRC), and only if a requester files a complaint about police behaviour with either of them.
+
+‘Darkfield Police Station’ in Whitefield area: Karnataka HC raps Whitefield police for repeated illegal arrests The installation of CCTV cameras in various parts of a police station, except washrooms, and the preservation of the recordings for up to 18 months has become mandatory as a preventive measure against custodial torture. In December 2020, a three-judge bench of the Supreme Court issued detailed directions for this purpose in the Paramvir Singh Saini case. Last September, a prominent Hindi-language daily reported several custodial deaths in Rajasthan within less than a year, and the police’s alleged denial of CCTV footage to the victims’ families under RTI. Within a few days, an alert apex court initiated suo motu proceedings to ascertain compliance with its 2020 directions. Discussions are on between the court-appointed amicus curiae and the central and state governments on the manner of funding available to implement these directions and for creating a public dashboard that will disclose, in real time, which CCTV camera has died in which police station.
+
+Interestingly, three days ago, the Karnataka Information Commission reportedly imposed penalties in the Rs 15,000-25,000 range on three police officers for failing to act on its earlier direction to supply CCTV footage to an RTI applicant. The Kalaburagi-based Information Commissioner also recommended the initiation of disciplinary action against them.
+
+In 2024, I collaborated with City Core Group – a community-level collective of human rights activists in Mumbai, mostly comprising women – to ascertain the status of compliance with the apex court’s directions. They walked into 33 of the 91 police stations without seeking any official permission, telling the police that those are public offices and that they have every right to ascertain compliance with court directions issued for their benefit. They also successfully obtained CCTV footage covering the duration of their presence in the stations from five of them, through RTI.
+
+These contrasting realities beg the question: should CCTV camera footage become a sarkari secret, accessible only to courts and HRCs? Section 33(2) of Kerala’s 2011 Police Act states: “No Police Officer shall prevent any member of the public from lawfully making any audio or video or electronic record of any Police action or activity carried out in a public or private place.” Since 2022, the Bombay High Court has ruled more than once that a citizen cannot be prosecuted under the 1923 Official Secrets Act for recording his/her interactions with the police using a mobile phone, because a police station is not a notified ‘prohibited area’. If this is increasingly becoming the standard for police-public interactions, there is no reason why CCTV footage recorded by the police themselves should be denied to those who ask, unless the disclosure causes harm to any of the public interests protected by the RTI Act.
+
+Readers might ask: how will CCTV cameras help when torture or extra-judicial killings occur in the field? Is it time to make body cameras an essential part of the outfits of our law enforcement personnel?
+
+The writer wakes up every morning thinking someone somewhere is hiding something.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+Write to us at: theprism@deccanherald.co.in
+
+[Read full article](https://www.deccanherald.com/opinion/cctv-footage-in-police-stations-should-it-be-a-sarkari-secret-4144602)
+
+---
+
+### Persons of forest, prisoners of men: How orangutans turn up in India
+*Deccan Herald · Opinion*
+
+In December 2014, as a graduate student, I was trekking through the humid forests of Borneo to the limestone caves of Gomantong. Through my fogged-up glasses, I could see the outline of a primate high up in the canopy. Through my binoculars, I could see a pair of infant orangutans playing on the branches. The mothers were taking a siesta in two different trees. They threw a lazy glance at me and went back to sleep. The young ones were as playful as human children. One of them got curious, broke off a twig and swung it at me. Then, it moved directly overhead and emptied its bladder. Reading the signs of disapproval, I stepped back. Eventually, the mothers awoke, and the young went to suckle before moving out of sight. Seeing them on a hot tropical afternoon, the 3% difference in our DNA felt made-up.
+
+Today, orangutans are in the news in India and for all the wrong reasons. Five baby orangutans were sighted in Odisha. Their native range is the tropical lowland forests of Malaysia and Indonesia, and their presence is an unmistakable case of illegal wildlife trade. Orangutans are among the long list of endangered and exotic species showing up in India. We share nearly 97% of our DNA with them and are one of their closest living relatives. Yet, it was not this kinship that led to the smuggling of the infant orangutans but likely the vanity of possessing a private menagerie of exotic animals.
+
+Relaxed to anxious to playful: Rescued baby orangutans show range of emotions at Odisha zooEvery few days, exotic wildlife ranging from birds to reptiles is seized when being brought into the country or Indian wildlife being smuggled out. Reports have detailed the seizure of kangaroos across the country, including in Bengaluru, where one animal unfortunately died in transit. Only a few months ago, a movie star stoked online debates and prompted authorities to investigate after posting a video of himself with a Lar gibbon, an endangered lesser ape from Southeast Asia. All of this points to rampant wildlife trade.
+
+The orangutans – ‘Orang Hutans’ in Bahasa, which translates to “persons of the forest” – spend their time on treetops, feeding on fruits, leaves, bark, or flowers. They rest for the night in temporary shelters made of leaves. Mothers care for them for several years and typically give birth to a young one every 8-10 years. Across their native range, they are threatened by the destruction of primary rainforests. Forest land is cleared for illegal logging, conversion to oil palm, as well as for mining and infrastructure projects. Poaching, wildlife trade, hunting for meat, and traditional medicine make things worse. The five infants were likely snatched from their protective mothers and transported for several days in cramped and inhumane conditions. The mothers were likely killed, as they are not the kind to simply part with their infants.
+
+Trafficking is unethical and inhumane, causing unjustifiable trauma to the animal. India has been a party to the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) since 1976, placing all three orangutan species under Appendix I to strictly ban commercial trade. CITES rules are enforced by the Ministry of Environment, Forests, and Climate Change (MoEFCC) through the Wildlife Crime Control Bureau (WCCB). This statutory body operates on a meagre annual budget of around Rs 13 crore and with a little over 100 staff, resulting in poor intelligence-gathering and action.
+
+At our ports, evaluating the revenue from smuggled live animals is hard. Seizing the shipment comes with logistical challenges of safety, quarantine, feeding, and care. Added to this is the burden of keeping abreast of the CITES lists. Yet, our alert customs officers regularly seize such shipments, exposing a thriving illegal wildlife trade.
+
+The CITES rules mandate that seized wildlife must be repatriated to the country of origin. Incarcerating these five infants for the rest of their lives in a zoo or a privately owned rescue centre is a dead end. They must be sent back to their native range, where the animals can learn the ways of the forest in a semi-wild setting. That’s their best chance of survival.
+
+In 2024, I was back in Gomantong. We stumbled into a family of three orangutans. The baby was clinging to its mother, and the male was on the ground foraging. For a moment, I got close to themother. She stopped foraging, yanked a branch down, and protected her child from my sight. The mothers of the five orangutans must have done so, too; only the men had guns instead of a camera. We owe the orphan infants and their fast-declining habitats the same, fierce protective instinct their mothers died trying to give them.
+
+The writer is an ecologist and believes there is profound wisdom to be found in paying attention to the overlooked and the mundane.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+Write to us at: theprism@deccanherald.co.in
+
+[Read full article](https://www.deccanherald.com/opinion/persons-of-forest-prisoners-of-men-how-orangutans-turn-up-in-india-4144588)
+
+---
+
+### Modi mix of huglomacy and booklomacy
+*The New Indian Express · Opinion*
+
+Books have seldom altered the arc of treaties. Interests write the fine print, not verses. Yet Modi has demonstrated that objects made in Indian village workshops and printed in Indian languages can carry scholarship into foreign palaces. Indira Gandhi first sent handicrafts abroad decades ago, guided by protocol officers working quietly. Modi has made the ritual public and personal, choreographing each handover so that the photograph becomes part of the visit’s memory for posterity.
+
+The choices of books as gifts trace a clear timeline and motivation. In December 2024 in Moscow, Modi gave Putin a Russian translation of the Bhagavad Gita, invoking St Petersburg’s old appetite for Sanskrit thought. In Bishkek in 2019,he presented Kyrgyz President Sadyr Japarov,the late economist’s Bibek Debroy’s 10-volume English Mahabharata, an epic of statecraft placed beside Kyrgyzstan’s own Manas cycle.In 2023, during his Washington visit, Modi gave President Joe Biden a first edition of The Ten Principal Upanishads, translated by Purohit Swami and W B Yeats, because Yeats himself had once been captivated by these Vedic texts.
+
+To Elon Musk’s family, he offered a set of books which included Tagore’s Crescent Moon, R K Narayan’s stories of ordinary Indian life, and an illustrated Panchatantra. Modi expanded his literary gifting to include much more history and Indian diversity. Devotional and scientific texts followed a similar pattern. Slovak parliamentarians received the Charaka Samhita and Sushruta Samhita, ancient treatises on the body. Kazakhstan’s then-president Nursultan Nazarbayev was given a set representing India’s plural faiths: the Guru Granth Sahib, Jain and Buddhist manuscripts, and a Persian-language Ramayana.
+
+Even the craft gifts followed the same chronology and character. At the 2022 G20 in Bali, Biden received Kangra miniature paintings in the shringar, or romantic, style; Britain’s Rishi Sunak received Mata ni Pachedi, sacred cloth painted by Gujarat’s Waghri community; Australia’s Anthony Albanese received a Pithora ritual painting from Rathwa artisans; and Italy’s Giorgia Meloni received double-ikat Patan Patola silk in a Sadeli mosaic box. At the 2022 G7 summit, Modi gave Biden a gulabi meenakari brooch and cufflinks, pink enamelwork on Varanasi silver; he gave Germany’s Olaf Scholz a nickel-coated Marodi brass vessel from Moradabad; and he gave France’s Emmanuel Macron attar perfume flasks wrapped in Lucknow zardozi embroidery and stitched in French tricolour threads. During the 2023 American State visit, Biden received a sandalwood chest from Jaipur containing a silver Ganesha idol and ceremonial items from Punjab, Jharkhand and Uttarakhand, while First Lady Jill Biden received a lab-grown green diamond set in Kashmiri papier-mâché.
+
+Since Modi is a compulsive idea-smith, he added regional variety during a few visits. Meloni received Assam’s golden Muga silk; Dutch officials received Jaipur blue pottery; Norwegians received Odisha silver filigree boats; Iceland’s Prime Minister received a replica of Tenzing Norgay’s 1953 Everest ice axe; and the UAE received Kesar mangoes and Manipur’s black Chak-hao rice. Canada’s Mark Carney received a Bihari brass Bodhi tree, and Mexico’s president received a Warli tribal drawing from Maharashtra.
+
+Each object mapped India’s regions onto its diplomacy. Other global leaders give gifts to visiting dignitaries as well. But the grammar of the gesture differs sharply from Modi’s. American presidents typically give gifts drawn from home: a pair of cowboy boots, a leather-bound biography of Lincoln, a piece of American crystal, or a framed photograph signed by the President. These gifts are simple, mass-producible and largely interchangeable from one visit to the next. British royal protocol favours a similar understatement. A gift from the sovereign is typically a signed photograph in a silver frame. The object is deliberately modest, so the relationship, not the item, carries the weight.
+
+Chinese State visits favour matched pairs and porcelain instead. These gifts are chosen by protocol committees for their symmetry. They are rarely explained afterward, since the State speaks rather than the leader. Gulf monarchs favour extravagance, measured in carats and horses. Their gifts signal abundance rather than making an argument.
+
+Modi’s method inverts this discretion entirely. Where other statecraft treats the gift as incidental, he treats it as both a statement and a message. He and his aides pick up gifts with enough specificity that they invoke curiosity and debate. A silver-framed photograph conveys hardly anything. But a Russian Thirukkural or an English Mahabharata provokes the recipient, with everyone watching, to sit with an idea for a moment.
+
+Modi’s gifts are built around the guests’ own biography—Yeats for Upanishad, the Manas epic for the Mahabharata, a mountaineering memory for the ice axe. Where other traditions bury the exchange in archival footnotes, Modi amplifies for massive visibility, ensuring the object’s afterlife is public rather than curatorial. He has created a new style of diplomacy. In this style, the gift is not a courtesy; it is the message itself.
+
+Earlier leaders treated cultural gifts as decoration. Modi treats them as strategy. He uses handicrafts and ancient texts to project a picture of India. This is a picture of a civilisation older than the modern State. It is also a picture that, in Modi’s telling, will outlast the modern State. Each book he gives carries more than literary value. A Thirukkural or a Mahabharata also carries a quiet political message. That message is rooted in cultural nationalism. It is wrapped inside the language of normal diplomatic protocol.
+
+The hug offers warmth in the moment. The gift offers a longer-lasting claim. That claim is that Indian heritage is not confined to the past. It is a living force in the present. Modi wants world leaders to hold this idea in their hands, not just hear about it in a speech. By fusing golden tradition with strategy so precisely, he has changed what a diplomatic gift can do. It now dictates a worldview.
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/pc/2026/Sep/12/modi-mix-of-huglomacy-and-booklomacy)
+
+---
+
+### From Trump to Yogi: Populist right turns left
+*The New Indian Express · Opinion*
+
+Updated on: 12 Sep 2026, 6:57 pm4 min readCopiedWhen in doubt, turn left. The old trick to exit from a maze is now the go-to hack of the political right. From Washington to London to Lucknow, parties that built their identity on conservatism, free markets and small government are the ones expanding the State’s role and writing out cheques. They call the payouts dividends, income support, enterprise capital—anything but welfare.
+
+On Wednesday, US President Donald J Trump promised to “issue a dividend to every adult citizen in the US for $5,000—if Republicans hold both chambers of Congress in November”. No details on the funding mechanism. No legislative draft—just a figure and a condition. Roughly 14,000 km away, in Lucknow, UP Chief Minister Yogi Adityanath announced the rollout of a scheme entitling one crore women Rs 1 lakh credit without interest under the Mahila Udyami Credit Yojana.
+
+Trump and Yogi are not an odd couple. Earlier this week, Reform UK chief Nigel Farage promised Britons tax-free personal allowance to £15,000 and a £250 cut in energy bills. He also proposed to launch a Britannia Card that billionaires can buy at £250,000 for a 10-year residency permit. It would guarantee no tax on foreign income and the card fees will be used to pay low-income British workers £600 to £1,000 a year.
+
+Same week, different hemispheres, different currencies, different promises, similar vocabulary—dividend in one capital, capital in the other and tax cut in the third. The same instinct: the State as benefactor, arriving with a cheque, a credit card and a rebate coupon as the electorate gears up to decide who will take charge of the till.
+
+In Europe, the ultra-right is rail-roading traditional parties with leftist policies. French far-right leader Marine Le Pen has promised to reverse Emmanuel Macron’s pension reforms. Poland’s budget deficit reached 7.3 percent of GDP in 2025, more than double the EU average of 3.1 percent. Yet the country’s Law and Justice (PiS) party, which ruled Poland till 2023, lowered the retirement age, expanded universal child benefit and added pension benefits loading costs on the exchequer.
+
+In Germany, the rising popularity of AfD owes a major share of its success to welfare chauvinism. It has argued against immigration and pointed out that a large portion of Germany’s Bürgergeld (citizen allowance) goes to foreign nationals burdening the working class. Effectively, it doesn’t fight welfare but wants to control who gets it.
+
+In Italy, Georgia Meloni’s government is running welfare nationalism inside fiscal discipline. Deploying identity clause for sops, it has offered a €1,000 tax-free bonus for every child born or adopted, and allowance for working mothers.
+
+The idea of democratisation of cost and personalisation of power is not new. Otto Von Bismarck, who introduced Europe’s first social insurance, accident insurance and old age pensions, apparently said those who are dependent on government pension are far easier to handle than those who have no such prospect. It is believed Bismarck even invented government-run retirement. Mussolini broadened dependence by ramping up public employment over a decade, apparently to put intellectuals on the public payroll so that they would have incentives to praise him endlessly.
+
+Political promises are akin to the retail trade’s buy-now-pay-later schemes. The costs manifest first in cost of capital and then in the balance sheets of governments. Trump, for instance, may have skipped past the arithmetic of his promise but the consequence manifests soon enough. The $5,000 ‘Trump Dividend’, as DJT calls it, will cost the US government over $1.2 trillion—and the gift transfer of $5,000 at current interest rates will eventually cost Americans $8,000.
+
+By Friday, the bond markets rang the alarm as yields went up—the 10-year at 4.97 percent and the 30-year at 5.35 percent, the consumer price index is up and the market is betting on an interest rate hike by the US Federal Reserve next week.
+
+The BJP-led NDA has repeatedly campaigned against the promise of “freebies” by opposition parties. In 2014, the party promised fiscal discipline and efficient allocation of resources. In 2026, the government of India runs the world’s largest welfare programmes—free food covering over 81 crore people, rural employment dole, health insurance and farmer income support. BJP-ruled states have patented the concept of cash transfers as Ladli Behna or Ladki Bahin schemes for women voters.
+
+Worldwide, government debt has climbed over $111 trillion. More than 3.4 billion people live in countries spending more on interest than on health or education. The price of political sops is visible on the books of India’s central and state governments, too. The Union government’s gross borrowings for 2026-27 are at Rs 17.20 lakh crore, or Rs 4,712 crore a day. The interest cost: Rs 14.03 lakh crore or Rs 3,846 crore a day.
+
+RBI data shows outstanding liabilities of all states amounts to Rs 104.28 lakh crore. The liabilities of Adityanath-ruled Uttar Pradesh are Rs 8.83 lakh crore. The Devendra Fadnavis-led BJP government of Maharashtra has outstanding liabilities of over Rs 9.37 lakh crore. Tamil Nadu, now under superstar Joseph Vijay, tops the rank at Rs 10.42 lakh crore. The context is critical. The upending of familiar economic models—thanks to ageing demography, climate change and accelerated retrenchment of human interface by technology—demands a new social contract between the State and the citizen.
+
+Frédéric Bastiat—French economist and legislator, and someone who knew how the trick looks from inside—framed it succinctly in 1848: “The State is the great fictitious entity by which everybody endeavours to live at the expense of everyone else.” What has changed is not the fiction. It is who has learned to tell it best. When in doubt, the political right no longer turns right. It turns left, hands out cheques and leaves the mess to whoever inherits the maze.
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/Sep/12/from-trump-to-yogi-populist-right-turns-left)
+
+---
 
 ## 12 September 2026
 
@@ -124,6 +246,64 @@ Since Andy Burnham replaced Keir Starmer as PM, the Labour Party has experienced
 
 ---
 
+### Of Artifice, Artificial Imbecility & Midlife Joy
+*Deccan Chronicle · Opinion*
+
+AI (or eh-aye as Boris Johnson says it, almost like an endearment) is dangerous in ways we are only beginning to realise. Not only does it steal our sweat, blood, tears, and inspiration, it muddles our identity.
+
+As everyone knows, especially creatives, the stealing of one’s hard-wrought work by AI has absolutely no upsides, as seductive as its promises to ameliorate might seem. It ravages human imagination and agency, even as it decimates jobs, and ultimately, the global economy, leading to the bleakest future for humanity, the darkening of which we can already see.
+
+I recently uncovered another tentacle of AI’s insidious incursion into our lives, which left me as unsettled as does its untrammelled appropriation of our creative output. What shook me particularly were the creeping changes it’s been making to my identity.
+
+Alerted by a friend that it had changed my age online, I had a peek, and discovered it had added a couple of years. If you think it was my vanity that was knocked, it was, but mildly. The real worry was that this was just the tip of the iceberg, and that AI is sneaking in further misinformation about us all, like its routine replacement of well-established historical facts with hogwash. And sure enough, I found it had been hard at work on my bio.
+
+It claimed my parents were Amartya and Suchitra Sen! Which only amused me till a second go on Google produced a different set of parents with the same surname, though the wrong ones again! Amartya is a distant cousin of my paternal grandfather’s I’m told, but Suchitra I haven’t the remotest ties to (unless you’re playing Six Degrees of Kevin Bacon, and count having interviewed her daughter and granddaughters for television as a link). Also, whilst my knowledge of society gossip is negligible, S&A have never been romantically connected as far as I know! Fake news, eh? Aye, it is!
+
+Most of all, although funny on the face of it, AI’s attempt to erase my lineage, sweeping from view my recently deceased and much-missed father, not to mention my mother’s still vital presence (and both a generation younger than S&A), is no joke.
+
+I suspect the confusion over my age arose from a column in which I’d written about approaching 50 when I was two years away, though I’d clearly indicated it wasn’t imminent.
+
+But AI, in its assumption of superiority, and feeble grasp of both facts and language, either misunderstood what I’d said, or simply not read far enough into it (of that, humans are now equally culpable, our attention span so miniscule, blink and you miss it).
+
+But why dish out such tosh about my heritage? Quite possibly because it hasn’t any Sens(e)! And how could it, when it isn’t sentient? Yet the sentient can be immeasurably stupid too, and when we have such a surfeit of it, why artificially induce more? Not Artificial INTELLIGENCE then, Artificial Imbecility is what it should be named!
+
+Musing over a second childhood, as was the plan for this article, will undoubtedly also be misconstrued (which means I’m either cocking a snook at AI, or cutting my nose off to spite my face)! Be assured that if I’m Googled following the publishing of this column, you’ll find me exponentially matured, like a reverse Dorian Gray, with decades added to my age online while advancing a year at a time — as one does — in real life. I’ll take that risk, however, as I want to explore our rowing back to infancy, with the rewards of an early wallowing, even as I run out of column space!
+
+When we say someone is in their second childhood, we’re generally disapproving; suggesting they are skittish, self-absorbed and unschooled in social niceties, like a toddler let loose in a cake factory, embracing the sugar rush overtaking him. But to me it implies a return to an uninhibited, wide-eyed, and effusive state, drilled out of most of us by later childhood.
+
+Yet, why wait to reclaim it till our dotage, if we can sink back in, in middle-age, when society shifts its scrutiny (especially if you’re a woman and a non-celeb like me — not being S&A’s progeny actually!). And on our own terms, naturally, not impelled by brain disease. If we could all revive an unconstrained yet socially responsible avatar of ourselves as children, besotted with life’s wonders and not afraid to show it, wouldn’t that be a boon, not merely to us, but our artificially constricted world? Hadn’t Will Wordsworth espoused exactly this? I myself have seen signs of a second childhood dawning, in my own increasing emotionality, and I welcome it.
+
+In London to celebrate my birthday last week, I felt my high spirits rebounding. At a superb staging of Paddington the Musical, I laughed and cried openly (though quietly, not wanting to draw the attention of fellow spectators just after achieving invisibility)! Thereafter, I messily, and with great enjoyment (in the mess as much as the taste), ate some oozingly delicious pastry (a marmalade sandwich would’ve been more in keeping, I agree). Dazzled by the vibrancy of the ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/of-artifice-artificial-imbecility-midlife-joy-1987027)
+
+---
+
+### The Corrupt Collapse Of India’s ‘World-class’ Cities
+*Deccan Chronicle · Opinion*
+
+What is happening to our cities? To my mind, beyond the glitz of skyscrapers, flashy malls and hype of smart cities, the stark truth is that India’s urban infrastructure is on the verge of collapse, and nobody seems to care. Roads crumble, drains overflow, flooding is common, unauthorised colonies proliferate, pollution kills, power and water supply is uncertain, and manholes and potholes periodically take innocent lives. This is the nightmare an ordinary citizen has to go through daily in a city.
+
+The recent collapse of a five-storey PG hostel building in Delhi’s Satya Niketan is a grim illustration. The building, reportedly around five decades old, collapsed on September 6, killing seven people and injuring others. Preliminary reports establish structural weaknesses, unauthorised alterations, and criminal complicity by supervising authorities. The tragedy is that lakhs of students live in such PGs in Delhi alone. We praise our young, but let them die from neglect. Nor are these failures restricted only to the metropolises. Our second- and third-tier cities are urbanising rapidly, but in the most haphazard manner, without planning institutions, technical personnel or financial resources required to cope with the transformation.
+
+This is our pathetic state when, ironically, India has, compared to international standards, a minimum urban load. According to World Bank data based on UN urbanisation estimates, about 35.7 per cent of India's population lived in urban areas in 2025. China, by comparison, was already at 66.3 per cent. The contrast with developed countries is even more striking: the corresponding figure is around 80 per cent in the United States, 82 per cent in Canada, 78 per cent in Germany, and 85 per cent in the United Kingdom. The basic point is that India is much less urbanised than China and the developed world, but its urban infrastructure even at this level of urbanisation is in shambles.
+
+India is, therefore, confronted with a peculiar challenge. We have a relatively low level of urbanisation, but an enormous absolute urban population. Even at roughly 36 per cent urbanisation, this translates into hundreds of millions of people living in towns and cities. And the proportion will continue to rise. Before the country becomes predominantly urban, we can still build institutions capable of managing the transition. If we fail, today's potholes and overflowing drains will become tomorrow’s systemic crisis.
+
+China provides an instructive contrast. It crossed the 50 per cent urbanisation mark more than a decade ago and is now about two-thirds urban. India has not yet reached that threshold. But China’s experience also demonstrates what happens when urbanisation takes place on an enormous scale: Cities require massive investment in transport, water, sewage, housing, waste management and municipal governance.
+
+Apart from policy neglect, pervasive and persistently unchecked corruption is the root cause of what our cities have become. An entire chain of near institutionalised bribes — extending from municipal officials, the police, contractors and the political class — is a fact of life. Moreover, there is little incentive for policymakers to change things. Under the system of civic apartheid that we have, the powerful live in meticulously pampered conclaves, like Lutyens’ Delhi. Those with money increasingly live in gated communities, luxury apartment complexes and carefully maintained neighbourhoods. They can supplement public infrastructure with private security, generators, water tankers, housekeeping, landscaping and waste management. Essentially, they can purchase protection from municipal failure. It is the vast majority of those outside this privileged circle of power and money who are the real victims. The result is a vicious circle. Those with the power to change the system are insulated from its consequences, while those who suffer have little power to do anything about it.
+
+We often speak of the ‘Smart Cities Mission’, digital governance, artificial intelligence and technology-driven administration. But there is something faintly absurd about calling a city smart when its most elementary civic systems do not work. What is the intelligence of a city where a child has no safe pavement on which to walk to school? What is the sophistication of a city where a citizen can fall into an uncovered manhole? What is the modernity of a city where a building can be altered, overcrowded and structurally compromised until it becomes a death trap?
+
+Technology cannot substitute for municipal competence. A smart city is not one with the largest number of sensors or the most impressive command centre. It is one in which basic services work predictably. It is a city where roads are safe, water is reliable, sewage is properly treated, garbage is collected, buildings are inspected, traffic is manageable, air is breathable and public spaces are accessible.
+
+If we want to make our cities more liveable, we have ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/the-corrupt-collapse-of-indias-world-class-cities-1987044)
+
+---
+
 ### Will Delhi Dare Call Out America On Iran At Brics?
 *Deccan Chronicle · Opinion*
 
@@ -148,6 +328,25 @@ On Russia, Mr Trump has suddenly been unusually accommodative and appreciative o
 Now to the Sino-US Summit of September 24. There is no doubt that Beijing-Washington is the most consequential bilateral of the 21st century owing to the geoeconomics and repercussions thereof. Aside the set agenda of trade, tariff, tech, commerce, investment, banking, “opening of market”, buying more American goods and agriculture product and artificial intelligence, what needs to be kept in mind is the Financial Times, London, report of August 26: “Beijing threatens to strike back if US sanctions on Iran hit China’s interests”. If Chinese companies are included in any expansion of Mr Trump’s new secondary...
 
 [Read full article](https://www.deccanchronicle.com/opinion/columnists/will-delhi-dare-call-out-america-on-iran-at-brics-1986879)
+
+---
+
+### Will Pilot Treat Randhawa Right? Yogi Gains Edge From Saharanpur
+*Deccan Chronicle · Opinion*
+
+The Congress leadership’s decision to hand over charge of poll-bound Punjab to Sachin Pilot has a side story which has set tongues wagging in the party. In his new capacity, Mr Pilot will necessarily have to deal with Gurdaspur MP and former Punjab deputy chief minister Sukhjinder Singh Randhawa. There is a history to Mr Pilot’s relationship with Mr Randhawa. As Rajasthan in-charge four years ago, Mr Randhawa had openly supported Mr Pilot’s bete noire Ashok Gehlot, going to the extent of lauding his governance record and declaring him to be the best chief minister. Mr Pilot and his supporters had then complained that the state in charge played a partisan role in his handling of their ongoing feud with Mr Gehlot. Congress insiders are wondering how the dynamic between the two leaders will work out as their roles have now been reversed. Mr Randhawa is positioning himself as a contender for the chief minister’s post in case the Congress wins Punjab. So, will it be payback time for Mr Pilot or will he bury the past and move on?
+
+With Bahujan Samaj Party chief Mayawati declaring that she was releasing her nephew and one-time heir apparent Akash Anand from the party, a section in the Congress is suggesting that the party leadership reach out to him with an eye on next year’s Uttar Pradesh Assembly polls. Mr Anand, it is argued, would prove to be an asset on the campaign trail as he is a forceful speaker, makes rousing speeches and does not hesitate to take on the Modi government which resonates with Dalit youth. The Samajwadi Party is also said to favour the proposed outreach to Mr Anand by the Congress. It is believed Mr Anand can help the Congress consolidate the Dalit vote in its favour. However, it’s still too early to predict if Mr Anand will be amenable to shift loyalties to the Congress though there are indications that he is not giving up on a career in politics and could explore other options if the break with BSP is final this time.
+
+The Bharatiya Janata Party leadership was hoping to rein in Uttar Pradesh chief minister Yogi Adityanath by denying him a free hand in the distribution of tickets in next year’s Assembly election. This has been an ongoing effort ever since Yogi emerged as a leader in his own right and is even seen as Prime Minister Narendra Modi’s successor. But Yogi has always been a step ahead of his detractors. The chief minister set the tone for the coming election with the demolition of a century-old mosque in Saharanpur in an obvious attempt to polarise the state ahead of the election, a move which can hardly be objected to by the party bosses in Delhi. If the BJP is seen to be gaining from this move as it believes it will, the party will find it increasingly difficult to deny Yogi a role in ticket distribution which is critical in any election.
+
+There was a time when Congress leaders lobbied hard to be appointed general secretary in the organisation as the post earned them a seat in the party’s working committee and, often, charge of a state. While general secretaries belonged to the party’s top echelons, the secretaries attached to them functioned in anonymity. They were barely seen or heard and given little responsibility. But there’s a sea change now as the party is currently witnessing a race for the relatively junior post of secretary. This shift in attitude follows the appointments made by the Congress leadership in the last few months. A number of secretaries have been promoted and given charge of a state. For instance, Srivella Prasad has been given charge of Maharashtra, P.V. Mohan is entrusted with the responsibility of Andhra Pradesh affairs, Sukhdeo Bhagat is in charge of Chhattisgarh, Sanjay Dutt has been given Haryana and Prakash Joshi West Bengal. They were all secretaries but have now got independent charge. In addition, Rahul Gandhi has been interviewing candidates from the states for induction as party secretaries as there is a view that the large talent pool of secretaries had not been tapped and given the due they deserved.
+
+There was all-round surprise in the Congress when senior leader Mukul Wasnik was retained as general secretary without portfolio even after being divested of the charge of the state of Gujarat in the latest round of appointments announced recently.
+
+The only other general secretary without any charge is Priyanka Gandhi Vadra. As always, there is considerable speculation about Mr Wasnik’s staying power and longevity. One view is that Rahul Gandhi was not in favour of sacking Mr Wasnik as he is a Dalit and removing him would send out a wrong message when the Congress is actively wooing the Scheduled Castes. There are others who believe that Mr Wasnik could take over as general secretary in charge of party organisation, a position currently held by K.C. Venugopal as and when Rahul Gandhi finds an appropriate posting for him. There is also a buzz in the party that the long-awaited election management department could finally be set up next month...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/will-pilot-treat-randhawa-right-yogi-gains-edge-from-saharanpur-1987039)
 
 ---
 
@@ -19342,74 +19541,6 @@ There are many causes and consequences; and remedial steps are easier said than 
 A historical question, “What’s in a name?”, embellishes William Shakespeare’s magnum opus Romeo and Juliet, and this phrase has been utilised countless times, both seriously and in jest, depending upon the user’s inclination to give it the colour or meaning they warrant. Most people employ this phrase lightly as they feel that, irrespective of the name or title given to an individual or institution, the true worth of an individual or institution lies far beyond its mere name.Anyway, names do carry ample cultural and symbolic significance, and the above-mentioned phrase is followed in Shakespeare’s play by another famous line: “A rose by any other name would smell as sweet.”Extending this expression to the recent geopolitical churn and the catastrophic wars taking place around the world, some changes in military and economic alliances between nations are currently underway. The renaming of the erstwhile US “Indo-Pacific Command” the other day is an example of shifting geopolitical and strategic considerations. The current lack of warmth in India-US relations would perhaps also be a reason for this name change.The Pentagon has officially announced that the name of the US Indo-Pacific Command (USINDOPACOM) has been restored to its legacy name, the US Pacific Command (USPACOM), which had been changed earlier in 2018 to include the word “Indo” to signify the growing strategic importance of the Indian Ocean and its linkages to the Pacific Ocean and, importantly, India’s emerging geopolitical role.Additionally, the Pentagon has stated that the “reversion honours the command’s deep historical roots, fostering a sense of pride for the oldest and largest unified command”, which was established in 1947.The question now engaging the minds of many Indian servicemembers and strategic analysts is: What was the reason for this so-called name change? The Americans, not all though, would naturally ask the Indians: “What’s in a name?” Our reply could be: a lot. Our fading, one-sided friendship, engineered by the mercurial US President Donald Trump, may be the reason.The US has eleven combat commands, which include seven geographic commands. USPACOM was the designation for the oldest and largest geographic unified combatant command. Its operational boundaries extend from the US West Coast to the western border of India. It is manned by over 375,000 personnel from the US armed forces.Though US officials insist that removing the word “Indo” does not dilute their established operational missions, including their commitment to a free and open Indo-Pacific region, many strategic analysts argue that it unequivocally conveys a strategic message to the global community, especially to India.It requires no emphasis to state that, since the last couple of years, especially during the Trump administration 2.0, relations between the so-called strategic allies, India and the US, have plummeted owing to President Trump’s policies of imposing very high tariffs on India and making the grant of US H-1B visas grossly unaffordable.As we fathom the reason for this unwarranted change in name, the China factor positively has to be reckoned with. It is a well-known fact worldwide that the military and economic gap between the United States and China is narrowing by the year. The US, for reasons best known to Washington, even under an over-talkative and policy-shifting President, appears to be trying to keep China in good humour.President Trump’s recent visit to China was a diplomatic setback for the US. Even during the US-Israel combined war with Iran, at the Strait of Hormuz water bottleneck, the US targeted no Russian or Chinese cargo-carrying ships. On the contrary, three Indian flag-bearing commercial ships were targeted by the US Navy, resulting in the death of three Indian soldiers. Surprisingly, no apology from the US establishment was forthcoming. Unfortunately, the Indian government did not take up this case forcefully with the US government.Coming back to the Chinese angle in the renaming of the US Indo-Pacific Command, the US, since the early years of this century, has encouraged the formation of the Japan-sponsored Quad, comprising India, the US, Japan and Australia, and AUKUS — a trilateral military alliance comprising Australia, the UK and the US — to keep the international waters of the Indian and Pacific Oceans free for maritime traffic, as China is widely viewed as a maritime bully in this region.Though little headway has been made in further energising these alliances, there is merit in forging closer cooperation among the member nations, as China will remain a long-term strategic military and economic threat.However, it is also a fact that, without the US taking strong enough measures, both these alliances will remain merely talking shops, as China and Pakistan — America’s current favourite — would wish. US officials, however, continue to harp on the post-World War II maritime architecture being carried forward under its original...
 
 [Read full article](https://www.deccanchronicle.com/opinion/columnists/kamal-davar-whats-in-a-name-why-indo-pacific-has-reverted-to-us-pacific-command-1966026)
-
----
-
-## 14 June 2026
-
-### Awesome foursome rattles BJP
-*The New Indian Express · Opinion*
-
-Not one of their governments belongs to the ruling dispensation at the Centre. What they brought to Delhi was not a list of grievances, but individual structural diagnoses delivered with authority. It was the deliberate construction of leverage. For decades, Indian opposition politics has mistaken noise for power. Regional leaders have often confused visibility with influence, treating protest as an end rather than a means. During their first meeting, the southern quartet has broken that pattern. By appearing as an ideologically opposed bloc rather than four separate petitioners, they have rendered southern solidarity legible to the national imagination.
-
-The grievance they have placed on the national table is both real and self-inflicted by the constitutional order. Southern states have behaved as model federal citizens by every technocratic metric. They curbed population growth when it mattered most for national development. They built human-capital foundations through education and health. They created export-oriented economies that now feed the Union’s redistributive machinery.
-
-Their reward, under the delimitation exercise scheduled after the next census, is a diminished share of parliamentary representation. The current formula prizes raw population numbers above all else. They feel success in governance is penalised; demographic expansion is rewarded. For the South, this is not an administrative footnote. It is a constitutional contradiction that turns federal equity on its head.
-
-Revanth Reddy, 56, has given this contradiction its sharpest national articulation. His proposed hybrid formula—half the seats allocated by population, half by economic contribution—does not invent new principles. It lifts that recognition from budgetary arithmetic into the architecture of the Lok Sabha itself. In doing so, he has transformed a regional anxiety into a constitutional question that any serious federal democracy must eventually confront. He has become the public face of the delimitation argument and possesses both the stamina and the political runway to sustain it across cycles.
-
-Each leader supplies a capability the others cannot replicate. At 62, Satheesan functions as the bloc’s intellectual and moral anchor. A practising lawyer and six-time legislator who rebuilt the Congress in Kerala through patient, principled work rather than inherited advantage, he carries the authority of demonstrated clean governance. Satheesan supplies the steady calibration of principle.
-
-Shivakumar, at 64, is the indispensable organisational engine. An eight-time legislator with unmatched command of booth-level mobilisation and alliance arithmetic, he rescued the Congress in Karnataka from near-extinction and converted survival into stable governance. Karnataka is not merely another southern state; it is the physical and political bridge to the peninsula. Any formation that aspires to national consequence must pass through that gateway. Shivakumar guards it with institutional memory, personal relationships and the unglamorous machinery of power.
-
-Joseph Vijay, at 51, remains the most disruptive element. He entered politics without dynasty, without prolonged apprenticeship inside an established party and without the ideological scaffolding that usually organises Tamil Nadu’s contests. He converted a cultural phenomenon into a governing majority that now controls the South’s largest economy and largest parliamentary contingent—39 Lok Sabha seats. His presence at the Niti Aayog table in his first term signals that Tamil Nadu’s historic ambivalence toward active engagement with national structures has shifted. More importantly, he commands a cross-community base that conventional categories struggle to contain. These four capabilities are not interchangeable.
-
-They form a functional whole: moral legitimacy, galvanising issue-framing, organisational muscle and mass disruptive appeal. When aligned, they produce something Indian opposition politics has repeatedly failed to manufacture, a coherent southern position on representation and resources that carries electoral consequences rather than mere rhetorical force. The BJP’s organisational footprint remains thin across most of the southern theatre. In Telangana, Tamil Nadu and Kerala, its electoral ceiling is structurally constrained. Karnataka is the sole genuine contest. This asymmetry grants the quartet strategic breathing room their Hindi-belt counterparts rarely enjoy.
-
-The real adversary, however, is not the BJP. It is entropy. Regional coalitions in India have a well-documented habit of fracturing under the pressures of personal ambition, competing state interests and the centrifugal pull of immediate political calculations. Converting a moment of impressive solidarity into a durable institution is a harder task than any single election, and history offers more examples of failure than success. Yet the structural conditions favouring persistence are stronger than in previous regional experiments. The bloc’s economic weight and parliamentary numbers create objective leverage that sentiment alone cannot generate. The delimitation question supplies a durable constitutional grievance around which coordination can crystallise over time.
-
-Given that none of the four leaders is past the conventional peak of an Indian political career means the human capital exists to sustain the project across a decade. If that discipline holds, the implications extend far beyond the next election cycle. A southern formation commanding such economic and parliamentary leverage could, over successive electoral cycles, force a renegotiation of the terms of federalism.
-
-National coalition arithmetic would shift permanently from One Nation, One Election and One Party to any party or a combination of many aspiring to govern at the Centre. The old binary of national party versus regional formation would give way to a more genuinely multiple polity.
-
-What the southern quartet has already achieved is the first, and perhaps hardest, step. They have compelled a Centre long accustomed to managing regional dissent through selective concession to treat their argument as structural rather than episodic. Whether this becomes the opening chapter of a lasting reordering or merely an impressive season of solidarity will be decided by what these four men do next. The South has found leaders who appear to recognise the stakes.
-
-The centre of political gravity is already beginning to tilt—not through demographic accident, but through deliberate organisation. In that emerging reality, the old assumption that numerical superiority somewhere guarantees national dominance no longer holds as an unchallenged premise. The conversation has changed. The structure of power may yet follow.
-
-[Read full article](https://www.newindianexpress.com/opinion/columns/pc/2026/Jun/13/awesome-foursome-rattles-bjp)
-
----
-
-### The Algo Raj: Political risks of tech oligarchy
-*The New Indian Express · Opinion*
-
-Warren Buffett observed that neither he nor anyone else could have dreamt of the fortunes now attainable. “It has been mind-blowing—beyond the imaginations of Ford, Carnegie, Morgan or even Rockefeller. Billions became the new millions.” A trillion, it would seem, is the new billion.
-
-SpaceX clocked $2.1 trillion in market cap to join sibling Tesla in the pantheon of a dozen tech hegemons who together command about $25 trillion. Twelve stocks—Nvidia, Google, Apple, Microsoft, Amazon, SpaceX, TSMC, Broadcom, Tesla, Micron, Meta, Samsung—account for over 40 percent of all US-listed stocks. The SpaceX IPO was oversubscribed four times notwithstanding caveats like only CEO Musk can sack CEO Musk and, warnings about markets that did not exist.
-
-SpaceX will be followed by Anthropic valued at $965 billion and Open AI at $852 billion. The rise of Algo Raj, the expansion of moneycracy amid inadequate guardrails, represents a political risk for democracies. Already, the tech hegemon complex is larger than the GDP of Europe and China individually, and even more than the combined GDP of Japan, India and the UK. The cumulative wealth of the Big Tech founders is nearly $3 trillion, which would rank eighth among global GDPs.
-
-History shows that empires are built on tangible assets—J P Morgan consolidated railroads and even once bailed out the US government, John Rockefeller founded Standard Oil, Henry Ford transformed mobility and Sam Walton created Walmart. The new hegemons leverage intangible algorithms. SpaceX was valued at $1.77 trillion despite dismal revenues of $18.7 billion—less than low-cost retailer Dollar Tree’s $19.3 billion, though that company has a market cap of $21 billion. Legendary investor James Chanos calls the gap between revenues and valuation a rush of hopes and dreams.
-
-As with the barons from the Gilded Age, the new hegemons also operate at the choke-points of the economy. The architecture of the tech oligarchy illustrates this. Google dominates nearly 90 percent of global search, Nvidia commands 80 percent of the AI chips market, Meta’s platforms reach 3.3 billion or roughly half of humanity, Amazon’s AWS has a third of the global cloud storage clientele, Apple captures half of global smartphone revenues, Microsoft owns the largest enterprise operating system. The hegemons do not compete in the market. They are the market.
-
-Big tech is dictating the contours of the fourth industrial revolution, influencing new business models and expanding into new domains. It is also amassing shadow market power through smart forward-looking strategies. Nvidia’s investment in Thinking Machines Lab, Google’s active support to 400 companies through Google Ventures alongside big-tag venture capital funds like Sequoia, and Meta’s ‘acquihires’ gobbling start-ups for talent.
-
-AI is Manhattan Project 2.0 for the US government—but unlike the publicly-funded 1940s’ project, this one is funded and operated by the private sector. Microsoft, Amazon, Google work with the military and intelligence agencies on billion-dollar projects. Oracle, Microsoft, Google and Amazon are on Pentagon’s joint warfighting cloud capability. OpenAI, Anthropic, Google and xAI have been contracted by the US war department for AI solutions. SpaceX enables satellite launches, secure communications and missile tracking. It is moot if the State dependent on these hegemons can check their advance.
-
-Algo Raj grants the tech oligarchy unprecedented power. Governments across the globe court them, but can scarcely command them. Jensen Huang, Sundar Pichai, Sam Altman, Dario Amodei and others receive red-carpet treatment when they meet heads of State. Apple sources components from 43 countries. Tim Cook, the diplomat-in-chief, carved a reputation navigating the minefields of geopolitics.
-
-Digital dominance is an existential call for countries, companies and individuals. It demands algo-allegiance—who gets heard and what gets seen, or what gets buried, is determined by algorithm. The leaders of governments that find their voice drowned—the UK, for instance—are keeling. At the high table of geopolitics, digital domination dictates the flow of sentiments and plays a critical role in bending outcomes. In modern warfare—as visible in Ukraine and West Asia—digital superiority is critical, both for messaging and on the battle ground.
-
-In democracies, the contest between the incumbent and the challenger has an unseen player today, called the algorithm—imagine a blend of hegemonic wealth and algorithms to game the rules, as witnessed in the US. As tech hegemons own the biggest social media platforms, decibels on the public square are controlled in private C-suites.
-
-This new hegemony is verily the Algo Raj. The algorithm can herd voices and orchestrate events to achieve desired outcomes. History has chapters on the perils of untrammelled power, of merchant outfits who dominated the State. The crackdown on Big Tech in China by President Xi Jinping had a lot of method and some madness. It was about constraining their power, influence and disorderly growth as much as it was about ideology. At the other end of the spectrum, Donald J Trump, who converted a pledge for a 9.9 percent stake in Intel, is now pushing for government stakes in AI giants. Is the objective profit or proactive constraint?
-
-The question is not about tech’s utility, but regulating the utilisation. The question before every democracy—including the oldest and the largest—is whether it will write the rules or allow the Algo Raj to write them.
-
-Author of The Gated Republic, Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India
-
-[Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/Jun/13/the-algo-raj-political-risks-of-tech-oligarchy)
 
 ---
 
