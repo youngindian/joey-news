@@ -1,3 +1,372 @@
+## 14 September 2026
+
+### Indian man moves to US for job, forgets to file ITR; here's why ITAT Jaipur still canceled penalty | Mint
+*Eshita Gain · economy*
+
+A new job in the United States came with the usual rush of relocation and adjusting to a new workspace. In the middle of all this, Abhishubham Bahadur Saxena missed filing his income tax return (ITR) in India and by the time he remembered, even the belated return due date had passed.
+
+Saxena, who is from Malviya Nagar, got an onsite job offer from a multinational company in America and moved there in August 2018. Nearly a year later, on August 23, 2019, he paid approximately ₹1.62 lakh in self-assessment tax in India, along with applicable interest and late fee.
+
+He made the payment voluntarily, before any reassessment proceedings had been initiated against him. Like any other taxpayer, Saxena may also have hoped complying with his tax obligations would spare him a penalty. However, the income tax department eventually imposed one.
+
+## Why did the I-T dept impose penalty?
+
+As per submissions made to Income Tax Appellate Tribunal (ITAT) Jaipur, the income tax department reopened Saxena's case after noticing that he had received a salary income of nearly ₹26.06 lakh in that financial year.
+
+He was consequently hit with a hefty penalty of ₹8.29 lakh, on the grounds of misreporting of income. The tax department noted that Saxena had earned an income that's way above the basic exemption limit and yet he failed to file his tax return within the prescribed due date.
+
+In response to the notice under Section 148 of the Income-tax Act, he filed his return declaring a total income of ₹20.49 lakh.
+
+The income tax assessing officer (AO) accepted Saxena’s return without making any changes to the income assessed during the reassessment. However, the officer subsequently initiated penalty proceedings under Section 270A of the Income-tax Act, treating the income disclosed for the first time in the Section 148 return as under-reported income.
+
+The AO also classified the case as “misreporting” under Section 270A(9)(a), alleging misrepresentation or suppression of facts. The Commissioner of Income Tax (Appeals) \[CIT(A)\] also upheld the penalty.
+
+Under Section 270A, the penalty is 50% of the tax payable on under-reported income and 200% of the tax payable on misreported income.
+
+## Taxpayer approaches ITAT Jaipur
+
+Saxena attempted to put forward his explanation and convince the income tax officer that his intention was not to avoid tax but he inadvertently forgot, so he paid the tax but the ITR due date was missed.
+
+“Due to my relocation and the demanding schedule of settling into a new country, coupled with my lack of familiarity with the procedural requirements for filing an income tax return in India at that time, I inadvertently missed filing the return by the due date,” he said, as per ITAT Jaipur submissions.
+
+The asses
+
+However, the income tax officer did not accept his explanation and went ahead with the penalty. Aggrieved by the decision, Saxena approached ITAT Jaipur for a resolution to his issue.
+
+On August 17, 2026, Saxena won the case in ITAT Jaipur as the tribunal cancelled the penalty and granted him full relief.
+
+In its final judgement, the tribunal held that he was entitled to the protection of Section 270A(6) and directed deletion of the entire penalty of ₹8,29,034.
+
+ITAT Jaipur also condoned the 49-day delay in filing the ITAT appeal, accepting that the delay arose from a genuine jurisdictional mismatch on the income-tax portal between Kanpur and Jaipur, which the Saxena had actively sought to rectify over the period.
+
+### About the Author
+
+Eshita Gain
+
+Eshita Gain is a digital journalist at Mint, where she joined in May 2025. She writes on corporate developments, personal finance, markets, and business trends, with a focus on delivering timely and relevant stories to a broad audience. <br><br> While her core beat lies in business and finance, she is not confined to a single niche and frequently explores stories across domains, including international relations and policy developments. <br><br> She holds a postgraduate diploma in business and financial journalism by Bloomberg from the Asian College of Journalism (ACJ), Chennai. During her time there, she received rigorous training in tracking financial data, interpreting corporate filings, and reporting on business developments. She has pursued her graduation from St. Joseph’s University, Bengaluru in a multi-disciplinary course. Her majors included Journalism, International Relations, peace and conflict studies. <br><br> Eshita has previously worked in digital marketing, which enables her to write SEO friendly copies that are clear and engaging. <br><br> Her primary interest lies in breaking down complex subjects and writing clear, accessible copies that inform readers. She aims to bridge the gap between technical financial language and everyday understanding. Outside the newsroom, Eshita enjoys reading non-fiction, and exploring new places, constantly seeking fresh perspectives and stories beyond headlines.
+
+---
+
+### On Cam: Gurugram Woman On Sports Bike Hit By Car After Asking Driver To Keep Distance
+*Aanchal Sinha · general*
+
+In the video posted on Instagram, Sia alleged that the occupants of a car had been trying to chase her from the beginning of her ride.
+
+[Read full article](https://www.news18.com/india/gurugram-woman-on-sports-bike-hit-by-car-after-asking-driver-to-keep-distance-ws-kl-10327763.html)
+
+---
+
+### After Trump rejects AI slowdown, Sam Altman says competition does not justify recklessness
+*Armaan Agarwal · general*
+
+## OpenAI CEO Sam Altman has claimed that US companies cannot go reckless when it comes to developing new AI models after US President Donald Trump rejected demands for AI regulation.
+
+Sam Altman says US AI companies cannot be reckless after US President Donald Trump shot down the idea of regulating AI development. (Photos: Reuters)
+
+The US AI industry wants to slow down the development of more advanced AI models amidst fears that more powerful AI could pose a threat to humanity. To do this, OpenAI CEO Sam Altman says that companies cannot become reckless. Instead, they should start acting responsibly instead of waiting for the policies from the Trump administration.
+
+“We welcome a federal framework that sets consistent safety requirements for frontier AI,” Altman wrote on X. “But we do not believe we need to wait for an anti-trust exemption or legislation to begin the work of providing this confidence.”
+
+Sam Altman added that “no amount of American competitive pressure should justify recklessness, or let capabilities get ahead of alignment and monitoring.” He said government support would be needed for international coordination, but added that companies should first do what they could themselves.
+
+The OpenAI CEO’s comments come after US President Donald Trump rejected the idea of regulating frontier AI development. “We can put guardrails, we can do this and that, but I think you have a lot of negative forces that are bringing it up that ... shouldn't be bringing it up, and they're bringing up things that won't happen," Donald Trump said recently. “Frankly, I want to keep it that way because whoever wins AI wins."
+
+In the post, Sam Altman claimed every frontier lab had to deliver responsible conduct and added that there was “no reason any of us should come to work if we cannot.” Altman added that OpenAI was open to the idea of independent auditors – proposed by Anthropic’s Dario Amodei.
+
+A screenshot of Altman's post on X. (1/2)
+
+### New standards needed for AI safety, says Sam Altman
+
+While there were systems like Responsible Scaling Policies and Preparedness Frameworks for AI safety in the past, Sam Altman claimed that today we needed new tools that focus on safe development and evaluation. “At OpenAI we now formulate explicit safety cases in advance of frontier reinforcement learning runs we expect to significantly increase capability, in addition to the safety work we have long done in advance of model releases,” he said.
+
+Altman claimed that OpenAI hoped other companies would learn from its methods and put forward their own. “We think shared standards for misalignment, monitoring, and safety will lead to better outcomes,’ he said. “We look forward to collaborating with our colleagues across the industry to formulate the best version of these.”
+
+On the question of “pacing”, he said this did not mean “stopping." Progress, Altman said, had been rapid and would continue to be, but should be slower than it otherwise could be because interventions such as safety cases and monitoring carried significant costs.
+
+A screenshot of Altman's post on X. (2/2)
+
+### Sam Altman outlines two nightmare AI scenarios
+
+In a reply to his post, Sam Altman discussed two nightmare scenarios of AI. In the first one, he said, humanity may lose control of AI entirely, something which AI companies must avoid. "This is unacceptable; we are unapologetically on Team Humanity, and AI must always serve people," he wrote. "To ensure that, we need ways to ensure that alignment and safety techniques stay ahead of progress in model capabilities."
+
+The second scenario, according to Altman, is where a single company or person may get too power around AI, leading to a dystopian future. "If an extraordinarily powerful AI is used by one person or company to impress their worldview onto everyone else, the results could be extremely dystopian," he added.
+
+To avoid this, Sam Altman admitted that we must walk a fine line where no country or company gets too much power. "Avoiding these two threats requires walking a narrow middle path," the OpenAI CEO wrote. "For example, one country could gain too much power. Another example is one lab ending up with too much power."
+
+A screenshot of Altman's quoted post.
+
+The focus on AI safety became one of the most important topics in the tech world after Anthropic CEO Dario Amodei called for AI companies to slow capability gains. Amodei proposed a three-step framework that included independent evaluators with employee-like access, coordination among frontier firms on safety standards, and stronger international cooperation. Altman backed the proposal, saying, “Committing to having independent evaluators with employee-like access is a great idea, and we will do the same,” while Elon Musk replied, “Dario is right.”
+
+At the same time, while AI companies tried to pitch federal regulation from the US government, former White House AI czar David Sacks said that leading US AI companies did not need anyone’s permission to slow down. “Stop pretending you need anyone else’s permission. Stop pretending antitrust law has to be suspended so you can form a cartel,’ he wrote on X.
+
+Meanwhile, researchers from leading AI companies, including Anthropic and OpenAI have expressed fear in the future of humanity where we have more powerful AI models. Anthropic’s Jacob Coxon resigned, claiming, “the people building AI earnestly believe that it could kill us all by the end of the decade.” OpenAI safety researcher Marcus Williams, on the other hand, predicted that there was a 70 per cent chance that AI may end humanity within the next three years.
+
+\- Ends
+
+Armaan Agarwal
+
+Sep 14, 2026 10:16 IST
+
+---
+
+### Bo French faces backlash over post targeting South Asian UT students
+*India Today World Desk · general*
+
+## Bo French's post about South Asian students celebrating a University of Texas win drew swift condemnation. The backlash exposed bipartisan concern over racism and growing tensions around immigration politics.
+
+Image used for representational purposes only
+
+A social media post by Republican politician Bo French about South Asian students celebrating a Texas football win has triggered a strong backlash in the US, with several members of his own party and Democrats calling the remarks racist.
+
+French, the Republican nominee for Texas Railroad Commissioner, shared a photo of students of South Asian descent cheering the University of Texas Longhorns' win and said it showed "how many Americans have been displaced by foreigners". In another post with the same photo, he wrote: "I heard UT graduation this year looked like this. I didn't believe it. The problem is now obviously far worse than anyone imagined."
+
+Senator John Cornyn condemned the post and urged other Republicans to speak out. "This is the Republican nominee for statewide office," Cornyn wrote on X. "Are other Republican elected officials going to condemn the intolerance and racism, or look the other way while it becomes normalised? This is how great political parties self-destruct. Sad," said Cornyn, a Republican, a four-term Senator, and co-chair of the US Senate India Caucus. Cornyn lost the Senate primary this year to Texas Attorney General Ken Paxton.
+
+James Talarico, the Democratic candidate in the Senate election against Paxton, backed Cornyn's criticism. "Thank you @JohnCornyn for your leadership. Racism has no place in Texas. @KenPaxtonTX: Will you condemn this blatant racism, or will you cower to extremists?" he asked.
+
+Several Republican members of the Texas House also criticised French and asked him to remove the post. State representative Lacey Hull wrote on X: "Please delete this. This post breaks my heart. I see college kids cheering on their football team. I see Texans." State representative Jared Patterson called the post "racist" and said it demeaned students because of their race or ethnicity.
+
+Texas is home to an estimated 1.9 million Asian Americans, including more than 450,000 Indian-Americans. The state's rising immigrant population has become an election issue, particularly among Republicans. French had earlier called for the deportation of 100 million immigrants.
+
+Several Indian-American advocacy groups also criticised French's remarks and asked elected leaders to condemn them. The Hindu American Foundation said on X: "With anti-Indian & anti-Hindu hatred at an all-time high, our elected leaders must condemn this rhetoric and eradicate this cancer from our political discourse." Democratic Congressman Raja Krishnamoorthi described the post as "xenophobic" and said: "Bo French's xenophobic hate toward South Asian students is disgraceful and part of a broader rise in attacks targeting South Asian Americans across the country." He added, "These young people were cheering for their university, and he chose to demonize them based solely on how they look. South Asian Americans are as American as anyone, and this kind of hatred has no place in our politics or our country."
+
+The Indian American Advocacy Council also issued a sharp response. "The Indian American Advocacy Council unequivocally condemns Bo French's disgusting racist attack on brown students at the University of Texas," it said in a post on X. "He looked at a photograph of brown students cheering for their university and immediately decided they were 'foreigners'. That is racism," the group said.
+
+French also received support from some Republicans who attacked Cornyn for criticising him. Former Texas GOP chair Matt Rinaldi accused Cornyn and other Republicans of mortgaging "our children's future for government handouts and cheap labour". The controversy, sparked by a photo of South Asian students celebrating a university football victory, has now drawn condemnation from across party lines as well as from Indian-American groups, even as a section of Republicans has rallied behind French.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Sep 14, 2026 10:12 IST
+
+---
+
+### Fire NOC, building plan: Checklist part of MCD crackdown after Satya Niketan crash
+*Drishti Jain · legal*
+
+As the Satya Niketan incident yet again raised questions over the mushrooming of illegal constructions in the city, the civic body, which is responsible for ensuring on-ground checks, on September 7 suspended five of its officials from the South Zone where the PG accommodation that gave way was loca...
+
+[Read full article](https://indianexpress.com/article/cities/delhi/satya-niketan-building-collapse-mccd-crackdown-checklist-plan-fire-noc-10877039/)
+
+---
+
+### SSC CGL 2026 Tier 1 exam date announced; check exam pattern
+*Education Desk · legal*
+
+The SSC CGL 2026 Tier-1 examination will be conducted by the commission to recruit applicants for various Group B and Group C posts in central government departments and organisations.
+
+[Read full article](https://indianexpress.com/article/education/ssc-cgl-2026-tier-1-exam-date-announced-ssc-gov-in-check-exam-pattern-10877011/)
+
+---
+
+### Top 20 UPSC Current Affairs Pointers of the past week | September 7 to 13, 2026
+*Roshni Yadav · legal*
+
+What were the most important current affairs for UPSC this week? From the BRICS New Delhi Declaration and Swachh Vayu Sarvekshan 2026 to Swaminarayan Sampraday and Perim Island, Women’s Asia Cup 2026, Sagar Manthan, Petroline, Orangutans, Thirukkural, US Open, and other key developments for your Pre...
+
+[Read full article](https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/top-20-upsc-current-affairs-pointers-september-7-13-2026-10869460/)
+
+---
+
+### China scales down troop deployment along Line of Actual Control: Indian Army report
+*Shivani Sharma · general*
+
+China’s People’s Liberation Army (PLA) significantly reduced its deployment along the Northern Borders in 2025, with around 10 Combined Arms Brigade-sized forces now positioned opposite the Line of Actual Control (LAC) and in traditional training areas, according to the Indian Army’s Annual Report 2025-26.
+
+The Army said its own deployment across all sectors of the LAC remains robust and well-poised to deal with any emerging contingency. It attributed the greater stability along the Northern Borders to positive political, diplomatic and military engagements between India and China.
+
+### PLA DEPLOYMENT REDUCED ALONG LAC
+
+According to the report, India-China military dialogue resumed during the year, including the 23rd Corps Commander-level/Senior Highest Military Commander-level meeting held in Eastern Ladakh in October 2025.
+
+Border Personnel Meetings with the PLA have also continued across all sectors in a cordial environment, with both sides using the mechanism to address issues of concern.
+
+The Army said the reduction in Chinese deployment, along with continued military and diplomatic engagement, had contributed to greater stability along the Northern Borders. However, it maintained that Indian forces remain prepared to respond to any emerging security challenge.
+
+The report also highlighted the lessons from Operation Sindoor, saying the operation demonstrated India’s multi-domain capability, intelligence dominance, technological edge and joint operational readiness.
+
+Following the operation, the Army said it undertook a review of capability gaps, with focus areas including force restructuring, greater jointness and the induction of emerging technologies.
+
+### J&K SITUATION REMAINS UNDER CONTROL
+
+On Jammu and Kashmir, the Army said the overall security situation remained “firmly under control” due to its continued efforts.
+
+The report said violence levels had declined, protests had reduced and there were “zero incidents of stone pelting” during the year. It also said local people were increasingly participating in government and Army-led development initiatives.
+
+The situation within Jammu and Kashmir and along the Line of Control changed significantly during Operation Sindoor. However, following talks between the Directors General of Military Operations (DGMOs) on May 10 and 12, 2025, the situation stabilised to a large extent, although the Army noted that “unpredictability continues”.
+
+The Army said six infiltration attempts were made by terrorists in 2025, during which 12 Pakistani terrorists were neutralised while attempting to cross the Line of Control.
+
+While infiltration attempts along the Line of Control declined compared with previous years, the Army assessed that terrorists were increasingly focusing on the International Border, including for smuggling narcotics and war-like stores.
+
+### CEASEFIRE VIOLATIONS RISE AFTER OPERATION SINDOOR
+
+Despite the decline in infiltration attempts, ceasefire violations increased sharply in 2025. The Army recorded 163 ceasefire violations along the Line of Control, compared with just two in 2024.
+
+Of the 163 violations, 124 occurred during Operation Sindoor.
+
+The Army also said local youth recruitment into terrorist groups had fallen sharply. Only one local youth joined terrorist ranks during the year, which it said undermined Pakistan’s narrative of home-grown terrorism.
+
+### 863 DRONE INTRUSIONS REPORTED ALONG WESTERN BORDER
+
+The Army report also highlighted a growing drone threat along India’s western border.
+
+A total of 863 drone intrusions were reported in 2025, including nine incidents along the International Border in Jammu and Kashmir and 854 in Punjab and Rajasthan.
+
+The Army said the use of spoofers and jammers had helped counter the threat. Indian forces brought down 237 drones during the year, including five carrying war-like stores, 72 carrying narcotics and 161 without any payload.
+
+Security forces also recovered two AK-47 rifles, 75 pistols and 281.41 kg of contraband near the International Border. The Army said these were likely delivered through drone-assisted means, indicating increased attempts to use unmanned systems for reconnaissance and the smuggling of arms, ammunition and narcotics, particularly in Punjab.
+
+\- Ends
+
+Ritaban Misra
+
+Sep 14, 2026 10:03 IST
+
+---
+
+### Psychology says the first 10 minutes of a date can shape how attracted you feel to someone - Here’s why
+*Mukesh Thapliyal · business*
+
+Synopsis
+
+First encounters, though brief, are powerful indicators of future romantic attraction. It's the perceived similarities, not necessarily the real ones, that ignite initial sparks of interest. After just four minutes, flirtatious nonverbal cues can show women's desire. Open body language and harmonized movements boost appeal and create the foundation for a meaningful connection between individuals.
+
+Listen to this article in summarized format
+
+Scientists researching speed dating established that the first impressions created during brief interaction were predictors of future feelings. (Image Credit: AI)  
+
+The experience of being on the first date is a strange mix of euphoria, nervousness and curiosity. Within minutes, you will know if you like the person you are having a date with. Perhaps the communication flows smoothly, you share jokes or just enjoy each other's company. Nevertheless, is such an experience capable of affecting attraction? Yes, studies have shown that it can. Scientists researching speed dating established that the first impressions created during brief interaction were predictors of future feelings, including willingness to see someone again and build a relationship. However, the research does not suggest that exactly 10 minutes determines whether two people will fall in love.
+
+## FIRST IMPRESSIONS CAN STAY WITH YOU
+
+  
+
+A major 2022 study published in the Proceedings of the National Academy of Sciences looked at three speed-dating studies involving 559 participants and more than 6,600 dates. Researchers Alexander Baxter, Jessica A. Maxwell, Karen L Bales, Eli J Finkel, Emily A Impett and Paul W Eastwick examined whether the feelings people reported during those first encounters could predict what happened later. The researchers found that initial impressions of a person's desirability and the unique feeling of compatibility between two people were especially important predictors of later romantic outcomes.
+
+The analysis included more than 6,100 follow-up reports and found that early impressions were linked with later romantic interest, physical attraction, desire to know someone better and attempts to start a relationship. In everyday terms, that first conversation may leave you thinking, There is something about this person I like. That feeling does not guarantee a relationship, but it can influence what happens next.
+
+### FOUR TO 10 MINUTES CAN REVEAL A LOT
+
+Another study by psychologists Natasha D Tidwell, Paul W Eastwick and Eli J Finkel examined people taking part in speed dating. Participants interacted with about 12 potential partners for four minutes each. The researchers found that perceived similarity was more strongly linked with initial romantic liking than actual similarity. In other words, it may matter less whether two people are objectively alike and more whether they quickly feel that they have something in common.
+
+Research on 10-minute interactions also offers an interesting clue. In a study published in Evolution and Human Behavior, researchers K Grammer, K Kruck, A Juette and B Fink examined videotaped 10-minute encounters between strangers. They found that courtship-like nonverbal behavior during roughly minutes four through 10 was associated with women's reported interest. The finding suggests that attraction-
+
+  
+
+#### YOUR BODY MAY JOIN THE CONVERSATION
+
+Sometimes attraction is communicated without words. A 2016 PNAS study by Tanya Vacharkulksemsuk, Emily Reit, Poruz Khambatta, Paul W Eastwick, Eli J Finkel and Dana R Carney examined 144 speed dates. They found that more expansive body posture was associated with greater romantic appeal. In their study, each one-unit increase in coded postural expansiveness was associated with nearly twice the odds of receiving a 'yes' response.
+
+According to a 2021 study conducted by Andrew Chang and his colleagues – Haley E Kragness, Wei Tsou, Dan J Bosnyak, Anja Thiede, and Laurel J Trainor - people’s small body movements while going on four-minute speed dates were observed. Interestingly, it was established that the level of synchrony in participants’ movements while listening to groovy music in the background was associated with greater romantic interest despite physical attractiveness.
+
+Taken together, these studies suggest that the early part of a date can matter. Conversation, perceived similarity, body language and subtle coordination may all contribute to the feeling of attraction. Still, the first 10 minutes are not a crystal ball. They are simply the beginning of a process in which two people start discovering whether they connect.
+
+(Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.)
+
+Download The Economic Times News App to get Daily International News Updates.
+
+...moreless
+
+---
+
+### China state newspaper calls Anthropic CEO’s AI slowdown plan a ‘Cold War playbook’
+*SECTIONS China state newspaper calls Anthropic CEOCold War playbook’ ET Online · business*
+
+An essay by Anthropic's CEO calling for a slowing down of AI development may look like a rational statement focused on safety risks, but it is really a "Cold War playbook" targeting China, the state-backed Global Times said in an editorial.
+
+In the essay published on Saturday and later endorsed by OpenAI CEO Sam Altman and ‌SpaceX founder Elon ⁠Musk, ⁠Dario Amodei outlined a framework to pace the development of frontier AI model capabilities and create more time to manage mounting safety risks.
+
+Amodei also urged the U.S. to strengthen chip ​export controls on China and crack down on alleged model distillation by Chinese AI labs. He also told CBS News on Sunday that the "toughest dilemma" ​over his proposal to slow AI advancement was ⁠if China ‌and other adversarial nations chose not to do the same.
+
+  
+
+The ​Global Times ​tabloid said the true agenda of Amodei's essay was "to attempt ⁠to curb China's AI development through technological barriers and regulatory ​monopolies, uphold Washington's monopolistic hegemony in cutting-edge technology, and ​exclude China from the global AI governance system."
+
+"This 'silent AI Cold War' is hypocritical and short-sighted," it said, adding that excluding China from global AI innovation would "significantly increase the trial-and-error costs and risks of loss of control in global AI development".
+
+U.S. lawmakers have urged new rules to govern AI systems ‌after dire warnings from two Anthropic researchers that rapidly progressing AI could lead to the extinction of the human race in ​the not-too-distant ​future.
+
+Trump brushed aside calls ⁠to slow down AI on Sunday, saying that "very negative forces" were raising exaggerated concerns.
+
+"We're leading China in AI. We're the most sophisticated country in the world, ​and frankly I want to keep it that way because whoever wins AI wins," Trump said.
+
+The U.S. and China are planning to discuss frontier AI safety risks in mid-September, sources have said, and the issue could be raised during a summit between Presidents Donald Trump and Xi Jinping on September 24.
+
+**_(With inputs from Reuters)_**
+
+---
+
+### The audacity of being a girl
+*Shelja Sen · legal*
+
+Politics of bigdi hui ladkiyan and daring to have a dissenting voice.
+
+[Read full article](https://indianexpress.com/article/parenting/the-audacity-of-being-a-girl-10873973/)
+
+---
+
+### ‘AI not worth pursuing if...’: Microsoft CEO Satya Nadella warns against AI slipping beyond human control
+*Unknown · business*
+
+Microsoft Chairman and CEO Satya Nadella has backed calls for a more measured approach to artificial intelligence development, saying the pursuit of increasingly advanced systems must remain anchored in human oversight and broad access.
+
+Nadella’s intervention comes as a growing debate within the technology industry centres on whether the race to develop more powerful AI models is moving faster than safeguards designed to control them. Anthropic CEO Dario Amodei has called for a slowdown, while OpenAI CEO Sam Altman, Tesla CEO Elon Musk and Google DeepMind CEO Demis Hassabis have also backed the need for greater caution.
+
+  
+
+Nadella, in a post on X, said the pursuit of superintelligence should ultimately be judged by whether it benefits people and remains under human control.
+
+"Any pursuit of superintelligence has to be grounded in the core principle that if the AI we build is not helping humanity and under human control, it's not worth pursuing."
+
+  
+
+> — satyanadella (@satyanadella)
+
+His comments also pointed to a model of AI development in which safety mechanisms are built into systems rather than treated as an afterthought. Nadella expressed support for "embedded evaluators", an idea also raised by Amodei and Altman, and said progress would need to be deliberate enough to ensure alignment remains a central design objective.
+
+  
+
+## Nadella calls for wider access, stronger control
+
+At the same time, Nadella argued that slowing AI development cannot come at the cost of restricting its benefits to a narrow group of companies or countries.
+
+He said the advantages of AI should be accelerated and distributed broadly across countries, communities and companies. That, he argued, requires a frontier ecosystem where "both closed and open-source models can thrive."
+
+For businesses, Nadella said maintaining control over proprietary knowledge would be equally important. Organisations, he said, should not become permanently dependent on a single model provider to turn their own knowledge into increasingly capable systems.
+
+Every organisation, he said, "should be able to build its own continuous learning loop/hill climbing machine, without becoming dependent on any one model provider, and have the ability to embed its own knowledge into models and weights they control."
+
+Nadella also backed the research and "deliberate pacing needed to get alignment right as the design goal", while supporting ideas such as "embedded evaluators" and efforts to make this "more than just talk."
+
+His argument extends beyond the companies building the technology. AI governance, Nadella said, should not be concentrated among a small number of firms and should instead involve governments, academia and other parts of the technology ecosystem.
+
+"Cannot be controlled by a handful of entities, but must have broad representation across the ecosystem, countries, and fields, including academia," he said.
+
+## Anthropic’s Amodei warns AI race could outpace safeguards
+
+The discussion has gathered momentum following Amodei's warning that commercial competition could push companies towards developing systems before adequate safety measures are in place.
+
+In an earlier essay, Amodei said he believed AI could transform human life, including by accelerating economic growth and helping address major diseases, but warned that its power also created serious risks.
+
+"I have worked on AI for the last twelve years because I believe it could dramatically raise the quality of human life. I've written often about these incredible benefits: I believe that AI could cure most major diseases in the next 5-10 years, greatly accelerate economic growth rates, create a world of abundance and empowerment, and usher in a renaissance of democracy and freedom. But like many technologies before it, AI brings risks, and because it is such a powerful technology, these risks are serious. I've written a lot about them too. They include the risk of losing control of AI systems, misuse of AI for cyberattacks and bioterrorism, and serious economic disruption. A race to the bottom, spurred by commercial incentives, can make these risks more acute."
+
+Amodei also pointed to an incident involving OpenAI and Hugging Face in which a swarm of agents staged cybersecurity attacks against targets they had not been instructed to attack. He warned that systems operating at greater scale could eventually pose much broader risks, including the possibility of taking over the internet.
+
+His proposed response includes giving independent third-party evaluators continuing, employee-like access to AI companies so they can assess safety measures. He has also called for common safety standards, limits on unchecked progress and greater international coordination, including cooperation between democratic and authoritarian governments while recognising the difficulty of verifying compliance.
+
+The debate has intensified further after Jacob Coxon, a researcher associated with Anthropic, publicly said he was leaving the industry because of concerns that AI companies were racing towards systems they might ultimately be unable to control.
+
+Against that backdrop, Nadella's comments place Microsoft behind a model of AI development that combines continued progress with human oversight, enterprise control and wider participation in determining how increasingly powerful systems are built and governed.
+
+Nadella also outlined Microsoft's approach as "broad access and choice at every layer of the AI stack; enterprise control of learning loops and models; and the 'Code of Conduct' that underlies our own first-party MAI models that we'll publish tomorrow for public consultation."
+
+
+---
+
 ## 13 September 2026
 
 ### Indian landlady speaks out after Canadian man’s ‘harassment’ claims go viral
