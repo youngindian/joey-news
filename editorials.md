@@ -1,8 +1,39 @@
 # Editorials
 
-_Last updated: 2026-09-14 06:51 UTC_
+_Last updated: 2026-09-15 06:32 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 15 September 2026
+
+### BRICS 2026 | India must be wary of China’s and Russia’s push for ‘global governance’
+*Deccan Herald · Opinion*
+
+The 140-paragraph BRICS New Delhi Declaration has ensured that no person in a reasonable frame of mind will bother to read it. Not even the mandarins in the Ministry of External Affairs (MEA), as several of its officers privately told this author. Many of them had read only portions of this 17,385-word Declaration, which refer to their specialisations or work domains. One Minister in the Narendra Modi government said he had the 45-page Declaration read out to him by his personal assistant (PA) and had trouble staying awake while the PA did so.
+
+The growing wordiness of BRICS documents is a fallback to Soviet-style diplomacy, where volume, instead of substance — whether in the number of agreements signed or in documentary wordage — mattered most. The 2022 BRICS Summit Declaration had only 75 paragraphs, reasonable for a plurilateral document and the following year’s Summit had only 94 paragraphs. An increase of nearly 60, long, paragraphs in the 2024 Declaration in Kazan, Russia, made a huge and insufferable difference. Especially when many of these paragraphs were like old wine in new bottles — regurgitations of old positions with nominal updates. India must bear a big responsibility for such regurgitations because its diplomats enjoy stellar reputations as excellent document drafters in English language.
+
+BRICS Summit 2026: New Delhi Declaration pushes for UNSC reforms, Global South unity BRICS’ detractors will argue that the increase in verbiage in documents reflects the influence of Russia’s President Vladimir Putin, who holds three to four-hour press conferences every year-end. And that of post-2025 Partner Country Cuba, whose legendary leader, Fidel Castro, made speeches that went on for four or five hours. Hopefully, China will bring some proportion to this unmanageable wordiness when it inherits the BRICS Chair next year and restores a 75-paragraph ceiling it brought to bear on the Beijing Declaration four years ago.
+
+Verbiage apart — and its consequent distancing of BRICS from being people-centric as a committed objective — its 18th Summit was a success by Indian parameters. India set out to host the Summit by seeking to bury hatchets among the organisation’s member countries, which are many. MEA’s Secretary for Economic Relations and BRICS Sherpa Sudhakar Dalela creditably succeeded in doing so despite impossible odds which paved his way ever since the gavel was passed on to India by Brazil after its Rio de Janeiro Summit. The fireworks between Iran and its Arab Gulf rivals, which marked a BRICS Foreign Ministers’ meeting in May and prevented a joint statement, was avoided through creative back and forth and a consensus enabled the passage of the New Delhi Declaration.
+
+New Delhi Declaration on AI Impact adopted; US, UK, China among 88 nations to endorse vision for collaborative AI The jury will be out until the Gulf conflict situation stabilises whether this uneasy consensus strengthens BRICS or weakens it. Whatever, at the moment this unanimity does credit to Indian diplomacy.
+
+Brevity in procedures would have eliminated opacity and brought forth an important aspect of the 17th and18th Summits that BRICS has changed, primarily, since Donald Trump became United States President for the second time and tried to impose the force of his personality on international relations.
+
+In February, when the first meeting of BRICS Sherpas took place under Indian Chair, Dalela’s Chinese counterpart, Vice Foreign Minister Ma Zhaoxu, set out in some detail the changes China wants to see in BRICS to retain the organisation’s relevance. The key phrase Ma used was “to keep to the right positioning” of the 11-member body. In doing so, Ma drew upon Chinese President Xi Jinping’s ideas of “high-quality development of greater BRICS cooperation.” China, along with Russia, has since suggested that maintaining the ‘rule of law’ as a BRICS mission should be jettisoned because it has already been torpedoed by Trump and the current government of Israel. There is no more any point in beating this dead horse in global engagement.
+
+China and Russia want the rule of law to be replaced by ‘global governance’ as a BRICS objective. There was some surprise, therefore, in Prime Minister Narendra Modi’s forceful plea on global governance when he addressed the Summit on its opening plenary. Even more surprising was his call for a 10-point roadmap for global governance by the time BRICS leaders convene in China a year from now. Although he strongly enunciated India’s stakes in the proposed roadmap, caution is called for to prevent China from hijacking the organisation next year for its ends, using India’s wholesale endorsement of the Sino-Russian moves to diminish the importance of ‘rule of law’ and its replacement by ‘global governance’. Governance in Russia and China is very different from governance in democracies like India. Unchecked, it could become a replica of Trump’s high-handedness.
+
+That is why Modi, in his opening address on September 12, proposed “a BRICS Continuity and Implementation Mechanism” and a troika of previous, current and succeeding Chairs to manage the affairs of this growing organisation. Whether these steps will be enough to maintain BRICS’ internal democracy is the big question as we look back on its just-concluded deliberations.
+
+K P Nayar has extensively covered West Asia and reported from Washington as a foreign correspondent for 15 years.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/brics-2026-india-must-be-wary-of-chinas-and-russias-push-for-global-governance-4146528)
+
+---
 
 ## 14 September 2026
 
