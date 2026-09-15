@@ -1,3 +1,302 @@
+## 15 September 2026
+
+### Keralite vlogger, who claimed arrest by Mujahideen, now says she escaped arrest threat in Afghanistan
+*PTI · legal*
+
+The authorities in Bamyan told the vlogger that she had violated the law and would be arrested, the vlogger claimed.
+
+[Read full article](https://indianexpress.com/article/india/kerala-vlogger-arrest-threat-afghanistan-mujahideen-backpacker-arunima-10878373/)
+
+---
+
+### ‘Weird that frontier AI tech companies begging….’: US Vice President JD Vance on AI regulation
+*ET Online · business*
+
+US Vice President JD Vance questioned the growing calls for AI regulation from leading frontier AI companies, calling it “weird” that technology firms are asking governments to regulate them. His remarks highlight the ongoing debate over artificial intelligence governance, innovation, safety and how...
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/weird-that-frontier-ai-tech-companies-begging-us-vice-president-jd-vance-on-ai-regulation/videoshow/134252123.cms)
+
+---
+
+### Steamhouse IPO allotment likely today: GMP signals 30% listing gain; here’s how to check status
+*Ritesh Presswala · finance, ipo*
+
+Investors in the Steamhouse IPO could receive the much-awaited allotment update today, September 15, after the Rs 414 crore public issue was subscribed nearly 32 times. Investors are now awaiting the basis of allotment and turning their attention to the company’s stock-market debut.
+
+The IPO is expected to finalise its share allotment today, allowing investors to check online whether they have received shares. Steamhouse is scheduled to list on both the BSE and NSE on September 17, 2026.
+
+Adding to investor interest, Steamhouse’s grey market premium (GMP) is currently around 30%, indicating expectations of a potentially strong listing gain. However, GMP is an unofficial indicator and can fluctuate before listing.
+
+The IPO opened for subscription on September 9 and closed on September 11, 2026. The issue was subscribed around 32 times overall. The retail investor portion was subscribed 18 times, while the Non-Institutional Investors (NIIs) category saw 46.60 times subscription. Qualified Institutional Buyers (QIBs) subscribed 46.19 times their allotted portion.
+
+The IPO comprises a fresh issue of Rs 353 crore and an Offer for Sale (OFS) worth Rs 61 crore. The company had fixed the price band at Rs 77–Rs 81 per equity share.
+
+Equirus Capital Ltd. is the book-running lead manager for the issue, while Kfin Technologies Ltd. is acting as the registrar.
+
+  
+
+## Investors can check their allotment status through any of the following platforms:
+
+## 1\. KFin Technologies (Registrar)
+
+-   Visit the Steamhouse IPO allotment page (https://ipostatus.kfintech.com/)  
+    
+-   Select Steamhouse from the drop-down menu.
+-   Enter your PAN, application number, or DP/Client ID.
+-   Click Submit to view your allotment status.
+
+## 2\. NSE
+
+-   Visit the NSE IPO allotment page. (https://www.nseindia.com/invest/check-trades-bids-verify-ipo-bids)  
+    
+-   Select Equity.
+-   Choose Steamhouse from the list.
+-   Enter your application number and PAN to check the status.
+
+## 3\. BSE
+
+-   Visit BSE IPO allotment link: https://www.bseindia.com/investors/appli\_check
+-   Now tick Equity under issue type.
+-   Choose Steamhouse from the dropdown menu.
+-   Enter your application number or PAN.
+-   Complete the captcha verification and click Search to view your allotment details.
+
+## Steamhouse IPO GMP today
+
+The Steamhouse IPO Grey Market Premium (GMP) currently stands at Rs 23, indicating a 28% premium over the IPO’s upper price band of Rs 81.
+
+At the current GMP, the estimated listing price works out to around Rs 104 per share, pointing to a potential 28% listing gain for investors if the grey market trend translates into the actual market debut.
+
+## IPO objects of the issue
+
+The company plans to use the IPO proceeds primarily to repay or prepay Rs 180 crore of its outstanding borrowings, helping reduce its debt burden. A portion of the funds will also be directed towards capacity expansion at its Ankleshwar and Panoli facilities, with Rs 37.98 crore earmarked for each project.
+
+Another Rs 38.17 crore will be used to set up a manufacturing facility for steam generation at Dahej SEZ. The remaining proceeds will be utilised for general corporate purposes, taking the total estimated utilisation of the net proceeds to Rs 294.13 crore.
+
+## Financial performance
+
+Steamhouse India Ltd. reported a 24% year-on-year increase in total income, rising from Rs 398.53 crore in FY25 to Rs 494.97 crore in FY26. The growth was driven by higher revenue during the latest financial year.
+
+Profitability also improved, with profit after tax (PAT) climbing 24% from Rs 31.16 crore in FY25 to Rs 38.64 crore in FY26. The rise in both income and profit reflects an improvement in the company’s financial performance in FY26.
+
+## About Steamhouse India Ltd.
+
+Incorporated in June 2015, SteamHouse India Ltd. is an industrial gas company engaged in the generation and centralised distribution of steam and nitrogen through its pipeline network. Its systems offer industrial customers an alternative to setting up and maintaining their own infrastructure.
+
+The company operates a pipeline network spanning more than 45 km across key industrial hubs such as Sachin, Vapi, Ankleshwar, Sarigam, Panoli and Nadesari.
+
+Its business includes steam generation and distribution, steam procurement and distribution, nitrogen separation, compression and supply, as well as coal trading. SteamHouse serves clients including Aether Industries, Anupam Rasayan India, Globe Enviro Care, Gujarat Polysol Chemicals and other industrial customers.
+
+As of July 31, 2026, the company had 229 employees and 276 contract workers.
+
+_(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)_
+
+---
+
+### Gurgaon Bike accident case: Why this case is being highlighted so much, says man accused of hitting the female biker, claims he didn't know she was a woman
+*Trending Desk · business*
+
+Kalyan Bainsla, accused of chasing and hitting a woman biker with his car in Gurugram on Sunday, has denied deliberately ramming her motorcycle, saying he did not know a woman was riding the bike at the time of the collision. In an interview with India Today TV, Bainsla also questioned why the incident was being highlighted and urged police to examine the complete video before reaching a conclusion.
+
+In an interview with India Today TV, Bainsla denied deliberately ramming his car into the motorcycle and said the incident occurred on Sunday morning while he was travelling with his cousin. He claimed two bikers repeatedly overtook his car from the side, moved ahead and then slowed down.
+
+“I did not hit them intentionally,” Bainsla said, while expressing regret that the woman was injured.
+
+  
+
+## ‘I did not know there was a girl on the bike’
+
+Bainsla said he was unaware that the rider was a woman when the collision took place.
+
+“I am sorry that a mistake happened. I did not know that there was a girl on it,” he said.
+
+His statement comes after videos recorded by cameras mounted on the bikers’ motorcycles went viral on social media. The woman has alleged that the occupants of the car followed her and that the driver drove aggressively before ramming into her motorcycle.
+
+Bainsla disputed that account and said the viral footage did not show the entire sequence of events.
+
+Bainsla questioned why the incident had received particular attention and asked what made the case different from other road collisions.
+
+He said he had spoken to the DSP and requested that the entire video be examined before a conclusion was reached. Bainsla maintained that the footage circulating online did not provide the complete context of what happened before the collision.
+
+“They were repeatedly coming in front of me and then slowing down the bike,” he said. “Am I going around hitting everyone? You can check the CCTV.”
+
+He also claimed that the bikers turned their motorcycle without looking into the car’s mirror and lost control, resulting in the collision.
+
+“Let’s assume that the collision happened accidentally. I accept that a mistake happened,” Bainsla said.
+
+## Bainsla says he thought of stopping after crash
+
+When questioned about why he did not remain at the scene after the collision, Bainsla said he had considered stopping and did stop at a red light.
+
+He said he rolled down the car window at the traffic signal but eventually drove away after people travelling with him insisted that he leave.
+
+The woman’s video released on social media shows one of her fellow bikers confronting Bainsla at the traffic light. The footage shows the rider speaking to him before the sedan drives away.
+
+Bainsla said he had been asking the bikers to ride more slowly rather than attempting to hit them.
+
+“I was also saying in the video that you are riding well, but ride slowly. Don’t keep troubling me repeatedly,” he said.
+
+He reiterated that the complete footage and CCTV footage should be examined to establish the sequence of events.
+
+## Police registered FIR after viral videos
+
+The incident prompted Gurugram Police to take suo motu cognisance after videos of the alleged collision circulated online. Police registered an FIR against an unidentified person.
+
+The injured biker has also said she would file an FIR with her lawyer and pursue legal action.
+
+Bainsla’s account differs sharply from the woman’s allegations. She has claimed that the car followed her and was being driven aggressively before swerving into her motorcycle. A fellow biker’s helmet camera also captured events after the collision, including the confrontation at the traffic signal before the sedan drove away.
+
+## Bainsla denies deliberately hitting motorcycle
+
+Bainsla said the sequence shown in the viral videos should not be viewed in isolation. He claimed that the bikers repeatedly moved in front of his car and slowed down, and that he was asking them to maintain a slower pace.
+
+He said he was sorry the woman was hurt but maintained that he had not intentionally struck the motorcycle.
+
+Bainsla also said there had never previously been a criminal case against him.
+
+“There has never been a case against me in my name,” he said.
+
+He added that he would respond to allegations if they affected his family, saying he would speak up if claims about the incident were extended to his relatives.
+
+---
+
+### Six must-watch Malayalam movies on OTT if you loved Bethlehem Kudumba Unit: Premalu to Ohm Shanti Oshaana
+*Sushmita Dey · business*
+
+Two weeks after its release, we went for a late-night show of Bethlehem Kudumba Unit and, surprisingly, the theatre was houseful on a weekday. That pretty much summed up the craze around Nivin Pauly and Mamitha Baiju's romantic comedy. The film has continued its strong run at the box office and has now achieved a major milestone, becoming the highest-grossing Malayalam film ever. It has surpassed recent blockbusters including Lokah Chapter 1: Chandra, Thudarum and L2: Empuraan.
+
+If you enjoyed Bethlehem Kudumba Unit for its romance, humour, moments and chemistry, there are several Malayalam films on OTT that can give you a similar feel. From Gen-Z romance to old-school love stories, here are six movies to add to your watchlist.
+
+**Premalu - JioHotstar**
+
+  
+
+If the youthful romance and comedy in Bethlehem Kudumba Unit worked for you, Premalu is an easy recommendation. Directed by Girish A.D., the 2024 romantic comedy follows Sachin, played by Naslen K. Gafoor, who moves to Hyderabad and falls for Reenu, played by Mamitha Baiju. The film also features Sangeeth Prathap and Shyam Mohan and became a huge commercial success with its relatable humour, awkward romance and memorable characters.
+
+The story keeps things light without making the romance feel overly dramatic. It makes Premalu a fun weekend watch.
+
+**Ohm Shanti Oshaana - JioHotstar**
+
+For viewers looking for another Nivin Pauly film, Ohm Shanti Oshaana is a perfect throwback. Directed by Jude Anthany Joseph, the 2014 romantic comedy follows Pooja Mathew, played by Nazriya Nazim, as she grows up and finds herself falling for Giri, played by Nivin Pauly.
+
+The cast also includes Vineeth Sreenivasan, Renji Panicker and Aju Varghese. Told largely from Pooja's perspective, the film brings together romance, comedy and family emotions. Nazriya's lively performance and the film's breezy storytelling have helped it remain a favourite among Malayalam cinema fans.
+
+**Thanneer Mathin Dinangal - Prime Video**
+
+Want something that takes you back to school days? Thanneer Mathin Dinangal is worth adding to the list. Directed by Girish A.D., the 2019 coming-of-age romantic comedy follows Jaison, played by Mathew Thomas, as he deals with teenage crushes, friendships and the usual complications of school life.
+
+Anaswara Rajan plays Keerthy, while Vineeth Sreenivasan plays Ravi Sir, a teacher who gets involved in Jaison's increasingly complicated life. The film became a sleeper hit.
+
+**Premam - JioHotstar**
+
+No Malayalam romance list feels complete without Premam. Alphonse Puthren's 2015 film follows George David, played by Nivin Pauly, through three stages of his romantic life.
+
+The film stars Anupama Parameswaran, Sai Pallavi and Madonna Sebastian as the three women who become important parts of George's journey. Soubin Shahir, Vinay Forrt and Krishna Shankar are also part of the cast.
+
+From first love and college romance to adulthood, Premam explores how people change as they grow older. Its music, performances and emotional moments turned it into a cult favourite.
+
+**Thattathin Marayathu - Sun NXT**
+
+For those who prefer a simple love story, Thattathin Marayathu is another strong pick. Written and directed by Vineeth Sreenivasan, the 2012 romantic musical stars Nivin Pauly as Vinod and Isha Talwar as Aisha.
+
+The story follows Vinod, a Hindu man, who falls for Aisha, a Muslim woman from an influential family. Their relationship faces opposition because of religious and family differences. With its memorable songs, scenic locations and emotional romance, the film became a major Malayalam hit.
+
+**Salt N' Pepper - Prime Video**
+
+If food, comedy and romance are your favourite combination, Salt N' Pepper should be on your list. Directed by Aashiq Abu, the 2011 romantic comedy stars Lal, Shweta Menon, Asif Ali and Mythili.
+
+The story revolves around Kalidasan and Maya, two food lovers who begin talking after a wrong-number phone call. Their connection gradually turns romantic, but things become complicated when younger people are sent to meet on their behalf.
+
+Meanwhile, Bethlehem Kudumba Unit continues its impressive box-office journey. According to Sacnilk, the film had earned ₹304.95 crore worldwide by the end of Sunday. It has therefore moved ahead of Lokah Chapter 1: Chandra, which reportedly earned around ₹302 crore, as well as Mohanlal's L2: Empuraan and Thudarum.
+
+---
+
+### Vadodara: Rs 21,000 Ganpati 'Chanda' Demand Ends In FIR — But Not Against Those Who Asked
+*Sumedha Kirti · general*
+
+A viral video alleges youths vandalised a Vadodara shop after a Rs 21,000 Ganpati 'chanda' was refused. But the FIR registered with police names the shopkeeper and his family.
+
+[Read full article](https://www.news18.com/cities/vadodara/vadodara-rs-21000-ganpati-chanda-demand-ends-in-fir-but-not-against-those-who-asked-10329656.html)
+
+---
+
+### HDFC shares rise over 2%: Why is the private lender's stock rising today?
+*India Today Business Desk · general*
+
+## HDFC Bank submitted two names to the Reserve Bank of India for its next chief executive. The move has sharpened investor focus on the succession process as Sashidhar Jagdishan's term ends on October 26.
+
+HDFC bank's board has submitted two names to the RBI for the next MD and CEO. (Photo: REUTERS/Rupak De Chowdhuri)
+
+HDFC Bank shares rose more than 2% in early trade on Tuesday after the lender moved ahead with its succession process for MD and CEO Sashidhar Jagdishan, sending two names to the Reserve Bank of India for approval.
+
+The development has brought greater clarity to a closely watched leadership transition at India's largest private-sector lender.
+
+At 9:27 am, HDFC Bank shares were trading at Rs 724.40, up 2.32%. The stock was among the biggest gainers on the Sensex and provided support to the benchmark index, which was also trading higher in early deals.
+
+The bank's board has submitted two names to the RBI for the next MD and CEO.
+
+Deputy managing director Kaizad Bharucha has emerged as the strongest internal candidate, while one external candidate is also in contention, reported The Economic Times. The identity of the external candidate submitted to the RBI has not been independently ascertained.
+
+### KAIZAD BHARUCHA LEADS INTERNAL CONTENDERS
+
+Bharucha has been with HDFC Bank since 1995 and joined its board as an executive director in 2014. He currently oversees several key parts of the bank's business, including retail assets, mortgages, corporate banking, emerging corporates, business banking and rural lending.
+
+His long association with the bank could provide continuity at a time when HDFC Bank is still integrating the erstwhile HDFC Ltd business while preparing for a change at the top.
+
+There is, however, a regulatory issue around Bharucha's candidature. RBI rules cap the continuous tenure of a managing director, CEO or whole-time director at a private bank at 15 years.
+
+Bharucha would reach that limit in June 2029, and HDFC Bank has sought a relaxation of around six months from the RBI. If granted, that would allow him to complete a full three-year term as MD and CEO if selected.
+
+### EXTERNAL CANDIDATE ALSO IN THE RACE
+
+HDFC Bank had reportedly received more than 150 applications for the top job, with around 50 candidates shortlisted and fewer than 10 eventually interviewed.
+
+Among the strongest external contenders were Anup Bagchi, CEO of ICICI Prudential Life, and K Balasubramanian, CEO of Citi India, reported ET. Bagchi has more than three decades of experience with the ICICI Group, while Balasubramanian has a strong corporate and institutional banking background and had also spent a brief period at HDFC Bank in 2016-17.
+
+The choice therefore appears to have narrowed to continuity through an experienced HDFC Bank insider or an external appointment. The final decision will depend on the bank's board process and RBI approval.
+
+Jagdishan is due to step down when his current term ends on October 26, making the succession process particularly important for investors.
+
+The key positive for investors is that the uncertainty around the leadership transition is beginning to reduce.
+
+Dr V K Vijayakumar, Chief Investment Strategist, Geojit Investments Limited, said, "A positive for market is that there is clarity emerging on the choice of HDFC Bank MD and CEO. A quick acceptance of the name of the successor by the RBI can influence the benchmark index significantly. The continuing boom in the IPO market and outperformance of the broader market are positives."
+
+Given HDFC Bank's large weight in the benchmark indices, a sustained recovery in the stock could also provide support to the Sensex and Nifty. Investors will now watch the RBI's decision on the proposed candidates and whether the succession process progresses smoothly.
+
+\- Ends
+
+Sep 15, 2026 09:54 IST
+
+---
+
+### CBSE commences month-long support programme for Class 10th, 12th Ladakh students
+*Education Desk · legal*
+
+CBSE has introduced the programme with an aim to strengthen students' subject understanding and prepare them for the upcoming Class 10 and 12 board examinations, as stated by the board.
+
+[Read full article](https://indianexpress.com/article/education/cbse-commences-month-long-support-programme-class-10-12-ladakh-students-10878323/)
+
+---
+
+### Fresh 100% Trump Tariff Threat Looms Over India As US Russia Sanctions Bill Advances
+*Shuddhanta Patra · general*
+
+An amendment introduced by US lawmaker seeks to name China, India, Turkiye, Azerbaijan, UAE as countries eligible for 100 per cent duties.
+
+[Read full article](https://www.news18.com/world/fresh-100-trump-tariff-threat-looms-over-india-as-us-russia-sanctions-bill-advances-10329754.html)
+
+---
+
+### Engineers’ Day 2026: Women’s intake at IITs up 52% since 2019, share rises modestly
+*Education Desk · legal*
+
+Data suggests that the intervention had its most immediate effect in bringing the IITs closer to the 20% mark. In 2019, the female share ranged from 16.67% at IIT Goa to 20.68% at IIT Indore. By 2025, every IIT in the dataset was at or above roughly 19%, with the highest share at IIT Tirupati.
+
+[Read full article](https://indianexpress.com/article/education/national-engineers-day-2026-iit-admissions-jee-mains-advanced-intake-ratio-male-female-jic-report-10878062/)
+
+
+---
+
 ## 14 September 2026
 
 ### Indian man moves to US for job, forgets to file ITR; here's why ITAT Jaipur still canceled penalty | Mint
