@@ -1,3 +1,537 @@
+## 16 September 2026
+
+### Saudi Arabia downs Houthi drone near Mecca as Yemen conflict escalates
+*Reuters · general*
+
+## Saudi Arabia said it intercepted a Houthi drone south of Mecca before it entered the kingdom's restricted airspace. The drone was the second Houthi attempt to target Mecca after a ballistic missile launch in July 2017.
+
+Iran-aligned Houthi fighters move next to a destroyed vehicle following an attack by Saudi-backed forces in al Jawf governorate, Yemen. (Photo: Reuters)
+
+Saudi Arabia's air defences destroyed a Houthi drone south of Mecca before it entered prohibited airspace over the holy city, a spokesperson for the Saudi-led military coalition in Yemen said on Wednesday, as fighting spreads in the Middle East.
+
+The drone, intercepted on Tuesday evening, was the second Houthi attempt to target Mecca after a ballistic missile launch in July 2017, spokesperson Turki al-Malki said in a statement, and follows a week of attacks from Iran-aligned Houthi fighters that have drawn Saudi Arabia deeper into the war.
+
+Mecca is home to some of the holiest sites in Islam and the focal point of the annual hajj pilgrimage, and its security was a "red line," the coalition spokesperson al-Malki said in the statement.
+
+Houthi officials have denied targeting Mecca.
+
+The attacks on Saudia Arabia have shocked global energy markets roiled by the six-month US-Iran war, which has slowed shipping through the Strait of Hormuz to a trickle.
+
+The Houthis have seized control of parts of Yemen's Red Sea coast in recent days overlooking the Bab el-Mandeb, one of the world's most important shipping straits, threatening Saudi Arabia's oil exports rerouted from the Strait of Hormuz.
+
+Saudi Arabia issued security alerts for Mecca on Tuesday, but Houthi political bureau member Mohammed al-Farah denied the group had targeted the city, calling the allegation "an outright lie" in comments carried by the Houthi-run SABA news agency.
+
+The Houthis have announced several major attacks on Saudi Arabia over the past week, including attacks on an air base on Monday, which they said were in retaliation for airstrikes on Yemen. The air base attack wounded 13 civilians, Saudi-led military coalition officials said.
+
+Saudi Arabia has blamed a separate pro-Iranian movement, based in Iraq, for an attack on Friday that knocked out one of the kingdom's most important oil transport routes, the East-West Pipeline across the Arabian desert.
+
+The 1,200-km East-West Pipeline linking Saudi Arabia's Gulf oil fields to the Red Sea has been the kingdom's principal export route while shipping through the Strait of Hormuz has been disrupted by nearly seven months of war, which has killed thousands of people across the region.
+
+Since the pipeline was shut after Friday's attack, traders say a prolonged closure could cut off as much as 4 per cent of global oil supply.
+
+Saudi Arabia has not said when operations might resume.
+
+But US Energy Secretary Chris Wright told CNBC on Tuesday that crude oil should be flowing through the pipeline within days.
+
+Saudi Arabia has led a coalition battling the Houthis since 2015. The conflict had largely quietened under a ceasefire in recent years, but reignited when the Houthis pushed back forces aligned with the Yemeni government this month.
+
+Saudi Arabia's Crown Prince Mohammed bin Salman phoned US President Donald Trump last week seeking military support, which so far has been limited to intelligence aid.
+
+\- Ends
+
+Prateek Chakraborty
+
+Sep 16, 2026 10:17 IST
+
+---
+
+### Giant crocodile wanders into Bihar village, forest team captures it in tense rescue
+*India Today Trending Desk · general*
+
+## A massive crocodile wandered onto a road in Bihar's Khontaha village and was captured after a difficult rescue. The incident renewed villagers' concerns over recurring sightings and the need for stronger surveillance.
+
+Giant crocodile wanders into Bihar village, forest team captures it in tense rescue
+
+A massive crocodile strayed into a residential area of Bihar’s Khontaha village near the Nepal border, leaving villagers startled after the giant reptile was spotted moving along a road in the middle of the settlement.
+
+The incident took place in Supaul district, where residents spotted the crocodile near a house. News of the sighting quickly spread through the village, attracting a large crowd to the area.
+
+Rather than attempting to handle the reptile themselves, villagers alerted the Dial-112 emergency service and the forest department. A forest department team, along with personnel from Bhimnagar police, soon reached the spot and began an operation to capture the crocodile.
+
+The reptile’s enormous size made the rescue difficult. After considerable effort, the forest department team managed to place a net around it, with villagers also helping during the operation. The crocodile was eventually captured safely, bringing relief to residents who had gathered at the scene.
+
+Watch the video here:
+
+A forest department official said the team had reached the village after receiving information from residents and managed to safely capture the crocodile after a significant struggle. The reptile was being kept in a safe location and would subsequently be released into the Kosi River.
+
+The sighting was particularly concerning for the largely farming-dependent community. Residents said they regularly travel to their fields, and the presence of crocodiles around agricultural areas and residential zones has become a potential danger.
+
+Villagers recalled that several crocodiles were washed into the region from Nepal during the devastating Kosi floods of 2008. Since then, residents said, crocodile sightings have been reported periodically in the area.
+
+They also claimed that there had been several previous instances in which people narrowly escaped encounters with crocodiles. Following the latest incident, villagers urged the forest department to find a permanent solution and increase surveillance in areas considered vulnerable.
+
+They also called for adequate resources to be made available for future rescue operations.
+
+_**(With inputs from Ramchandra Mehta)**_
+
+\- Ends
+
+Yashna Talwar
+
+Sep 16, 2026 10:12 IST
+
+---
+
+### Rs 11 product, Rs 325 MRP: Tukaram Mundhe flags huge hospital pricing gap
+*India Today News Desk · general*
+
+Maharashtra Food and Drug Administration (FDA) chief Tukaram Mundhe has flagged huge margins on hospital products and medicines, saying patients could be paying hundreds or even thousands of per cent more than the trade price of products used during treatment, without knowing their actual cost.
+
+In a social media post, Mundhe, under whom a massive FDA crackdown is underway in the state, said the most expensive part of a hospital bill may never touch the hospital at all.
+
+"The most expensive part of a hospital bill may never touch the hospital at all. A patient admitted for care has no way of knowing whether the price on a medical consumable reflects its actual cost or a markup fixed long before it ever reached the ward. That gap in information is, at its core, a public health issue," the IAS officer wrote.
+
+He cited findings from a survey of hospital consumables in Maharashtra, which found significant differences between the trade prices of certain products and their printed maximum retail prices (MRP), resulting in massive markups.
+
+According to the figures shared by Mundhe, an IV infusion set with a trade price of Rs 11.05 carried an MRP of Rs 325, representing a markup of 2,841 per cent. A syringe procured at Rs 6.75 had an MRP of Rs 57.20, while a catheter bought for Rs 29.41 carried an MRP of Rs 310.
+
+"These are not elective purchases," Mundhe said, pointing out that patients receiving medical care often cannot compare prices, seek alternatives or question the price printed on a medical product.
+
+He said the MRP is often fixed upstream by manufacturers and distributors and can remain disconnected from the trade price, creating what he described as an “unexplained margin”.
+
+“The result is a system where the party bearing the cost has the least information to evaluate it,” Mundhe, under whose remit drug pricing and medicine-
+
+The officer also pointed to what he described as a structural regulatory gap in medical consumable pricing. He said scheduled medicines are subject to price ceilings under the Drugs (Prices Control) Order, 2013, while most medical devices and consumables are not subject to similar controls.
+
+He said this leaves both their pricing and the information available to patients "almost entirely unmonitored".
+
+Explaining the action taken, Mundhe said a review of the findings, along with clear guidelines on the permissible gap between the trade procurement price and the declared MRP, has been recommended to the Department of Pharmaceuticals and the National Pharmaceutical Pricing Authority (NPPA).
+
+He said such measures could help address not only the pricing gap but also the information gap patients are left to bear alone.
+
+Under Mundhe, the FDA has been conducting a widespread food safety crackdown across Maharashtra. Several hotels, restaurants, clubs and other facilities have been raided and issued notices, while some have been shut down over violations. The strict enforcement has earned him widespread applause from several quarters.
+
+\- Ends
+
+Sep 16, 2026 10:11 IST
+
+---
+
+### How agentic AI could reshape the way we make digital payments
+*Akash Mandal · legal*
+
+Agentic AI may pave the way for agentic commerce, but fragmented payment data keeps institutions at the pilot stage
+
+[Read full article](https://indianexpress.com/article/explained/explained-ai/agentic-ai-payments-commerce-india-10879886/)
+
+---
+
+### Mecca on air raid alert for first time in history as Houthis launch attack on Saudi Arabia
+*Manisha Chauhan · general*
+
+## Mecca on air raid alert for first time in history as Houthis launch attack on Saudi Arabia
+
+Saudi Arabia issued an air raid alert in Mecca for the first time as Houthi attacks intensified, with warnings also issued in Jeddah, Taif and other areas along the western coast.
+
+Saudi Arabia issued an air raid alert in the holy city of Mecca on Tuesday amid a fresh wave of attacks by Yemen’s Houthi rebels. It was reportedly the first time that an air raid warning had been issued in the city.
+
+Alerts were also issued in several locations along Saudi Arabia’s western coast, including Jeddah and Taif. The warnings were lifted shortly afterwards after authorities said the immediate threat had passed. Saudi authorities asked residents to continue following Civil Defence instructions, avoid gatherings and not record or share footage of security operations.
+
+**Missile and drone attacks raise tensions**
+
+The alert came after Saudi Arabia faced several missile and drone attacks allegedly launched by the Iran-backed Houthis in recent days. Reports also said air traffic heading towards Prince Mohammad bin Abdulaziz International Airport in Medina was halted amid the heightened security situation.
+
+Earlier, Saudi-backed Yemeni government forces, along with Saudi forces, carried out strikes against targets near Taiz in Yemen.
+
+A day before the latest alert, a Houthi attack on Saudi Arabia reportedly left 13 people injured. The group has also claimed responsibility for a major attack involving ballistic missiles and drones aimed at King Khalid Air Base in Khamis Mushait in southern Saudi Arabia.
+
+**Houthis deny targeting Mecca**
+
+The Houthis have rejected Saudi-led coalition claims that the group targeted Mecca. Houthi political bureau member Hezam Al-Assad dismissed the allegation, saying that claims about the holy city being targeted were false.
+
+The development comes as fighting between the Houthis and Saudi-backed government forces continues to intensify in Yemen.
+
+**Red Sea security concerns grow**
+
+The latest escalation has also raised concerns over the safety of the Red Sea and the Bab el-Mandeb Strait, an important maritime route linking the Red Sea with the Gulf of Aden.
+
+Qatar has warned that any closure of the Bab el-Mandeb Strait could have serious consequences for the global economy because of its importance to international shipping and energy supplies.
+
+**Trump reportedly rejects Saudi request**
+
+Meanwhile, US President Donald Trump has reportedly rejected a request from Saudi Crown Prince Mohammed bin Salman to intervene in the conflict.
+
+Trump has also claimed that the Houthis contacted Washington and asked the US not to get involved.
+
+With attacks continuing and fighting escalating in Yemen, Saudi Arabia is facing renewed security concerns along its southern and western fronts.
+
+---
+
+### Hero Motors IPO opens today with Rs 19 GMP. Should investors subscribe?
+*India Today Business Desk · general*
+
+Hero Motors IPO opens for subscription today, September 16, with the company looking to raise Rs 1,000 crore from the public issue.
+
+The IPO will remain open until September 18, with the shares proposed to be listed on both the NSE and BSE on September 23.
+
+The Hero Motors IPO price band has been fixed at Rs 79-84 per share. The lot size is 178 shares, which means a retail investor will need a minimum of Rs 14,952 to apply for one lot at the upper end of the price band. The issue comprises a fresh issue of shares worth Rs 600 crore and an offer for sale of Rs 400 crore. The IPO is a book-built issue.
+
+### HERO MOTORS IPO GMP TODAY
+
+The grey market premium, or GMP, for Hero Motors IPO stood at Rs 19 as of 7:55 am on September 16, according to the data shared.
+
+At the upper price band of Rs 84, a GMP of Rs 19 implies an estimated listing price of around Rs 103. That indicates a potential listing premium of 22.62% over the issue price.
+
+However, GMP is an unofficial market indicator and does not guarantee the actual listing price or returns.
+
+The GMP has also moderated from Rs 24 on September 12 and 13 to Rs 23 on September 14 and Rs 19 on September 15 and 16. The trend therefore shows that the grey market premium has cooled in the days leading up to the IPO opening.
+
+### WHAT IS HERO MOTORS' BUSINESS?
+
+Hero Motors is an automotive technology company that designs, develops and manufactures engineered powertrain solutions for global original equipment manufacturers across the US, Europe, India and ASEAN.
+
+Its portfolio covers electric vehicles, internal combustion engine and hybrid vehicles across two-wheelers, e-bikes, performance vehicles, off-road vehicles, heavy-duty vehicles and eVTOL vehicles. Its customers include BMW, Ducati, enviolo, Formula Motorsport, Hummingbird EV and HWA.
+
+The company operates through its Powertrain Solutions and Alloys & Metallics businesses. It has expertise in CVTs, EV transmissions, electric motors, integrated drive units and gear sets, while the company also highlights its first-mover position in e-bike powertrains.
+
+As of March 31, 2026, Hero Motors had six manufacturing facilities across India, the UK and Thailand, along with technology centres in the UK and Gautam Buddha Nagar, Uttar Pradesh. It is also setting up additional facilities in Ludhiana and Bengaluru.
+
+### HERO MOTORS IPO: THE NUMBERS
+
+Hero Motors has shown improvement in its financial performance over the last three financial years.
+
+Revenue from operations increased from Rs 1,064.39 crore in FY24 to Rs 1,089.59 crore in FY25 and Rs 1,188.35 crore in FY26. EBITDA rose from Rs 86.28 crore in FY24 to Rs 114 crore in FY25 and Rs 147.78 crore in FY26.
+
+The EBITDA margin also improved from 8.11% in FY24 to 10.46% in FY25 and 12.44% in FY26.
+
+Profit after tax increased from Rs 17.04 crore in FY24 to Rs 32.80 crore in FY25 and Rs 41.17 crore in FY26.
+
+The company generated operating cash flow of Rs 144.04 crore in FY26, compared with Rs 48.34 crore in FY25. Total borrowings stood at Rs 400.79 crore as of FY26.
+
+### WHAT ARE THE RISKS FOR HERO MOTORS IPO?
+
+There are several factors investors need to consider before subscribing.
+
+Hero Motors has significant exposure to overseas markets, with Europe accounting for 29.33% of revenue in FY24, 28.45% in FY25 and 33.59% in FY26.
+
+Customer concentration is another risk. Its top 10 customers contributed 72.89% of revenue in FY26, compared with 78.03% in FY25 and 76.96% in FY24.
+
+The company is also exposed to fluctuations in the cost and availability of steel, its primary raw material. The report also flags limited suppliers and the absence of firm supply agreements as potential risks to raw material availability and operations.
+
+The Rs 600 crore fresh issue will provide funds for several purposes, including repayment or prepayment of certain borrowings, capital expenditure for capacity expansion at the Gautam Buddha Nagar facility, inorganic growth through unidentified acquisitions and other strategic initiatives, along with general corporate purposes.
+
+### SHOULD YOU SUBSCRIBE TO HERO MOTORS IPO?
+
+There is no single answer for every investor, but the IPO has a mix of positive factors and risks that need to be weighed before applying.
+
+The positives include Hero Motors' exposure to both traditional and electric powertrain technologies, relationships with global OEMs, expanding manufacturing footprint and improving financial performance.
+
+"Hero Motors Limited is well positioned to benefit from both trends through its Powertrain Solutions and Alloys & Metallics (A&M) segments. Its Powertrain Solutions business, comprising Gears & Transmissions (G&T) and Bike Powertrain (BPT), offers expertise in continuously variable transmissions, electric vehicle transmissions, electric motors, integrated drive units and gear sets, providing exposure to both ICE and EV platforms," said Master Capital Services Limited.
+
+"Its first-mover advantage in e-bike powertrains further strengthens its positioning in the rapidly expanding electric mobility segment. Investors may consider the IPO as a potential long-term investment opportunity," the report further said.
+
+Hero Motors IPO opens on September 16 and closes on September 18. The basis of allotment is expected on September 21, refunds are scheduled for September 22 and shares are expected to be credited to demat accounts on September 22. The tentative listing date is September 23.
+
+The issue has a 50% reservation for qualified institutional buyers, 15% for non-institutional investors and 35% for retail investors.
+
+_**(Disclaimer: The views, opinions, recommendations, and suggestions expressed by experts/brokerages in this article are their own and do not reflect the views of the India Today Group. It is advisable to consult a qualified broker or financial advisor before making any actual investment or trading choices.)**_
+
+\- Ends
+
+Sep 16, 2026 10:06 IST
+
+---
+
+### ‘Discretionary service charge’ of Rs 80 costs Connaught Place restaurant Rs 10,000 fine
+*Dipak K Dash · regional*
+
+The Central Consumer Protection Authority imposed a penalty on a restaurant (File Photo)
+
+NEW DELHI: Central Consumer Protection Authority (CCPA) has imposed a Rs 10,000 penalty on a restaurant in Connaught Place for adding "discretionary service charge" of Rs 80 to a consumer's food bill.
+
+The country's apex consumer rights protection watchdog has also directed the restaurant to discontinue the practice immediately.Taking suo-motu cognisance of the grievance of one Akshay Malhotra, CCPA investigated the matter. The complainant had alleged that the restaurant gave him a bill of Rs 924, which included the discretionary service charge in addition to GST. He had submitted the bill in question.CCPA found that the restaurant had levied service charge on the bill despite Delhi High Court's upholding the guidelines against including any service charge in the bill.During the probe, the restaurant had submitted that the issue was resolved as it refunded the discretionary service charge to the customer, and there was no active dispute left to settle. The restaurant also stated that it has ceased operations since Nov 2025.However, while acknowledging the restaurant's closure and the prompt refund as mitigating factors, CCPA held that the automatic billing mechanism violated statutory guidelines upheld by the high court and directed the restaurant to pay the penalty and ensure software compliance within 15 days.
+
+---
+
+### James Dyson Award: How a question inspired this BTech student to invent voice-enabled Braille printer
+*Education Desk · legal*
+
+Himaja' project 'Rudhra' converts spoken words into Braille and print the pattern in a way that allows users to sense the characters in their actual form instead of reversing it and learning the corresponding pattern.
+
+[Read full article](https://indianexpress.com/article/education/himaja-lingampalli-project-rudhra-won-james-dyson-award-india-2026-10869843/)
+
+---
+
+### Riding in India is unpredictable. Here’s how to stay safe on a two-wheeler
+*Saumya Shubham Jha · general*
+
+## We ride and drive in an extremely unpredictable environment, where wrong-side drivers, sudden lane cuts, missing indicators and reckless manoeuvres can cause crashes even when we do everything right ourselves.
+
+From wearing the right gear to riding defensively, these simple habits can help you stay safer when the unexpected happens. (Photo: AI-generated for representation)
+
+We ride and drive in an extremely unpredictable environment. People come from the wrong side, cut across lanes, rarely use indicators, often do not fear the law and drive as if they own the road. At times, you can get into an accident even when you have done nothing wrong.
+
+In a car, multiple airbags, seatbelts, crumple zones and a strong safety structure can offer a significant layer of protection. Modern cars also undergo safety tests that give buyers an indication of how well they can protect occupants in a crash. On a motorcycle, however, things get far more complicated. There is no airbag, no crumple zone and no protective cabin around the rider. The motorcycle itself may have ABS and other safety features, but ultimately, the rider is exposed.
+
+That does not mean there is nothing you can do. While you cannot control what another road user does, you can reduce your own risk by adopting a few basic habits.
+
+### Wear riding gear every time
+
+Riding gear should not be treated as something reserved for highway rides or long-distance trips. If you are getting on a motorcycle, wear the right gear, even if you are riding a few kilometres to work or to the neighbourhood market.
+
+A good helmet is the most important piece of protective equipment. It should fit properly, be securely fastened and meet the applicable safety standards. An expensive helmet that does not fit correctly is of little use if it comes off during a crash.
+
+A riding jacket with impact protectors can help protect the shoulders, elbows and back, while riding gloves provide protection for the hands, one of the first things a rider may instinctively use to break a fall. Riding trousers or riding-specific protective pants can offer additional protection to the hips and knees, while proper riding boots can protect the feet and ankles.
+
+The key is consistency. Protective gear only works if you are wearing it when something goes wrong. A crash does not wait for you to put on your jacket, gloves or boots.
+
+Ride defensively
+
+Being a good rider is not just about controlling a motorcycle at speed. It is also about anticipating what other road users might do.
+
+Keep a safe distance from the vehicle ahead and avoid sitting in another vehicle's blind spot for extended periods. When approaching intersections, junctions or gaps in traffic, assume that someone could emerge from a position you cannot see. This does not mean riding in constant fear; it means giving yourself enough time and space to react.
+
+Look beyond the vehicle immediately in front of you. Reading the traffic several vehicles ahead can help you identify a sudden brake, lane change or obstruction before it becomes an emergency.
+
+### Do not ride faster than the situation allows
+
+Speed itself is not the only issue; the problem is the amount of time and distance available to react when something unexpected happens.
+
+A familiar road can be particularly deceptive. You may know every turn, but you cannot know what another road user is going to do around that turn. Adjust your speed according to traffic, visibility, road surface, weather and the possibility of pedestrians, animals or vehicles entering your path.
+
+### Make yourself visible
+
+Being seen is an important part of staying safe on a motorcycle. Use your indicators, especially when changing lanes or turning, and avoid abrupt movements.
+
+At night or in poor visibility, make sure your motorcycle's lights are working properly. Reflective elements on riding gear can also make the rider easier to spot.
+
+But never assume that an indicator or horn guarantees that another road user has seen you. Look for confirmation before making a manoeuvre.
+
+### Use the motorcycle's safety systems properly
+
+Modern motorcycles come with features such as ABS, traction control and riding modes, depending on the model. These systems can provide an additional safety net, but they cannot overcome the laws of physics.
+
+ABS, for example, can help prevent wheel lock during hard braking, but it does not mean you can brake from any speed and stop instantly. Understand what your motorcycle's electronic and mechanical safety systems can and cannot do.
+
+Tyres are equally important. Check tyre pressures regularly, inspect them for damage and monitor tread wear. Brakes, lights, mirrors, suspension and the chain should also be maintained properly.
+
+### Avoid distractions
+
+A motorcycle demands your attention every second you are moving. Do not use your phone while riding, and avoid anything that takes your eyes or attention away from the road.
+
+Music, navigation and communication should be set up before you start riding. If you need to interact with your phone, pull over somewhere safe rather than attempting to do it while moving.
+
+### Riding safely starts before the engine starts
+
+Riding in India is a challenge in itself. You can be an extremely capable rider, follow every rule and still find yourself in trouble because of one mistake made by someone else. This is especially true on busy roads and highways around cities such as Gurgaon, where traffic can change rapidly and vehicles often make sudden manoeuvres.
+
+You cannot control every person sharing the road with you. What you can control is your speed, your attention, your motorcycle's condition and, most importantly, the gear you wear. You may not be able to prevent every crash, but being prepared can make a significant difference when the unexpected happens.
+
+****Subscribe to Auto Today Magazine****
+
+\- Ends
+
+Sep 16, 2026 10:00 IST
+
+---
+
+### Govt move on MDR important for long-term growth, sustainability of UPI: PhonePe Founder Sameer Nigam
+*ET Online · business*
+
+Karnataka: PhonePe Founder & CEO Sameer Nigam explains the new UPI Merchant Discount Rate (MDR) policy, saying the 0.4% MDR on large-value merchant transactions will help make the digital payments ecosystem more sustainable. He says around 96% of UPI transactions will remain free, while the addition...
+
+[Read full article](https://economictimes.indiatimes.com/tech/technology/govt-move-on-mdr-important-for-long-term-growth-sustainability-of-upi-phonepe-founder-sameer-nigam/videoshow/134278070.cms)
+
+---
+
+### What Will Devotees See At Lalbaugcha Raja On Day 3? Here's What Days 1 And 2 Suggest
+*Sumedha Kirti · lifestyle*
+
+Ganpati 2026: Queues, 'Kalesh' & Fleeting Darshan — Days 1-2 at Lalbaugcha Raja saw hours-long waits, VIP rows and viral crowd clashes. Here's what Day 3 devotees can expect.
+
+[Read full article](https://www.news18.com/cities/mumbai-news/what-will-devotees-see-at-lalbaugcha-raja-on-day-3-heres-what-days-1-and-2-suggest-10333055.html)
+
+---
+
+### Los Angeles news helicopter crashes while covering fatal bus accident
+*India Today World Desk · world*
+
+## An NBC4 news helicopter crashed in Chatsworth while covering a fatal bus collision nearby. Federal agencies are now investigating as questions remain over the death toll and those on board.
+
+Image used for representational purposes only
+
+At least three people were killed after a news helicopter crashed in a Los Angeles neighbourhood on Tuesday evening and caught fire while covering an earlier road accident, officials said. The helicopter went down near the scene where an SUV had slammed into a city bus in a separate crash that left at least two people dead and six others injured.
+
+The helicopter crashed around 7 pm near a one-storey commercial building in Chatsworth in the San Fernando Valley, according to the Los Angeles Fire Department. An NBC4 Los Angeles anchor confirmed during a live broadcast that the station's helicopter had gone down shortly before 7 pm.
+
+Capt. Branden Silverman, a spokesperson for the Los Angeles Fire Department, said during a news conference that at least one of those killed in the helicopter crash was outside in the parking lot next to the commercial building. It was not immediately clear whether the other two people who died were on the ground or inside the aircraft.
+
+One person was taken to hospital, but there was no immediate word on their condition. "We're trying to determine how many patients were inside the helicopter," Silverman said. He described the helicopter as "pretty well destroyed" and said officials would sort through the rubble to determine how many victims had been on board.
+
+Officials said at least four cars and two storage containers on the ground caught fire after the helicopter crashed. The blaze was quickly put out. The fire department said more than 50 firefighters responded to the helicopter crash.
+
+About two hours before the helicopter went down, an SUV had slammed into the middle of a city bus, killing at least two people and injuring six others. Photos and videos posted online showed half of the SUV lodged into the side of an MTA bus. The helicopter crashed about one-and-a-half miles from the bus accident site.
+
+The National Transportation Safety Board and the Federal Aviation Administration said they would investigate the cause of the helicopter crash. The two incidents unfolded within hours of each other, with the helicopter going down while news crews were covering the fatal bus crash.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Sep 16, 2026 09:58 IST
+
+---
+
+### Bernie Sanders, Steve Bannon find rare common ground in warning over AI risks
+*SECTIONS Bernie Sanders · business*
+
+Synopsis
+
+Senator Bernie Sanders and Steve Bannon shared concerns about artificial intelligence dangers. They both criticized powerful technology companies for rapid development and urged greater human oversight. Decisions about AI should involve the public, not just a few wealthy executives. This unusual alliance highlights growing worries over AI's pace and concentrated power. Safeguards are needed to ensure a human-centered approach to this emerging technology.
+
+Reuters
+
+Senator Bernie Sanders and Steve Bannon shared concerns about artificial intelligence dangers. They both criticized powerful technology companies for rapid development and urged greater human oversight.
+
+Senator Bernie Sanders and former Donald Trump adviser Steve Bannon delivered a rare shared warning about the dangers of artificial intelligence on Tuesday, with the ideological opposites accusing powerful technology companies of moving too quickly and calling for greater human control over AI.
+
+Sanders, an independent senator from Vermont who caucuses with Democrats, and Bannon spoke back-to-back at the Pro-Human Assembly in Washington, organised by the Future of Life Institute, a nonprofit focused on reducing existential risks from powerful technologies. The event brought together voices from across the political spectrum to push for a more human-centred approach to AI.
+
+  
+
+The two did not share the stage, but their appearances highlighted an unusual area of convergence in a deeply polarised Washington: concern over the pace of AI development and the concentration of power in the hands of a small number of technology companies.
+
+The warnings come as concern over the safety of advanced AI has intensified. Recent incidents involving autonomous AI agents, along with calls from some AI researchers and industry leaders for greater safeguards, have fuelled a broader debate over whether development is moving faster than systems to control the technology.
+
+Sanders said decisions about AI should not be left to wealthy technology executives, naming Elon Musk, Mark Zuckerberg and Jeff Bezos among those with significant influence over its development.
+
+"The people of this country must make the decisions about AI, and not just a handful of oligarchs," Sanders said.
+
+Sanders has said he plans to introduce legislation with Democratic Rep. Greg Casar that would permanently ban the development and deployment of artificial superintelligence — systems that could surpass human capabilities — while temporarily pausing advanced AI development until safety rules are established.
+
+"Like nuclear weapons, artificial superintelligence is a threat to humanity, and it must be treated as such," Sanders said.
+
+## Bannon attacks AI industry
+
+Bannon, who served as a White House strategist during Trump's first term, also turned his criticism on the technology industry's executives, questioning their credibility when they call for caution over AI.
+
+"We can never trust what an oligarch says because all they do -- they're disingenuous and they lie," Bannon said.
+
+He argued that AI companies lacked a viable business model and could ultimately seek government support while retaining the financial gains from the technology.
+
+Bannon also mocked the argument that slowing AI development would undermine US competitiveness against China.
+
+"If you're not an accelerationist, you're anti-American...you're pro-Chinese Communist Party," Bannon said.
+
+He described the issue as a moment when political differences needed to be put aside, pointing to his unexpected alignment with Sanders.
+
+"I don't think you could find any two harder partisans than Bernie Sanders on the left and \[me\] on the right," Bannon said. "We have to rise above it. This is a hinge in history."
+
+While Sanders and Bannon broadly agreed that AI development requires greater safeguards, their wider approaches to the technology and US-China competition differ. The event nevertheless illustrated how concerns over AI are creating unusual political alliances in Washington.
+
+President Trump has taken a more permissive position on AI development, dismissing some warnings about the technology as a "hoax" and pushing back against calls for tighter oversight.
+
+---
+
+### US military says it destroyed 2 small Iranian boats trying to steal a sea drone
+*SECTIONS US military says it destroyed · business*
+
+Synopsis
+
+The US military destroyed two Iranian boats attempting to seize a drone ship. This incident occurred in waters off Iran, escalating recent tensions between the two nations. Global oil markets face further pressure from increased attacks by Houthi rebels in Yemen. The conflict has significantly impacted oil prices and poses political challenges. The war's cost to the Pentagon has exceeded thirty-eight billion dollars.
+
+File Photo: US-Iran tensions rise as military clashes and Houthi attacks threaten oil markets, while Pentagon war costs surpass $38 billion.
+
+Washington: The US military said Tuesday that it opened fire and destroyed two small Iranian boats this week that were trying to steal a drone ship in the waters off Iran, the latest back-and-forth fire in the stalemated war.
+
+Capt. Tim Hawkins, US Central Command spokesman, said the Iranian boats "recently attempted to take possession of a US unmanned surface vessel" but failed after the military "forcefully responded."
+
+Iranian state media reported Monday that a pair of fishing boats came under attack in Hormozgan province on Iran's southern coast and that several fishermen were reported missing, citing a provincial official.
+
+  
+
+It is the latest volley of fire in the more than 6-month-old war as both sides seek control over the Strait of Hormuz, where the US has succeeded in recent weeks in loosening Iran's grip over the critical energy shipping corridor. But the impact of the unpopular conflict has driven up the cost of oil and gasoline prices, posing political problems for President Donald Trump and his Republican Party ahead of November's congressional midterm elections.
+
+"Oil will drop like a rock as soon as the Military Conflict with Iran is over, and that will not be long," Trump asserted in a social media post Monday.
+
+Secretary of State Marco Rubio on Tuesday called the foreign minister of Oman to discuss the Gulf Arab country's efforts to deescalate tensions and reopen the Strait of Hormuz, the State Department said.
+
+Escalating Houthi-Saudi conflict puts more pressure on oil prices
+
+Global oil markets have been further roiled by increased attacks from Iranian-backed Houthi rebels in Yemen against Saudi Arabia's shipping and infrastructure.
+
+The new front in the Middle East conflict has cut off or hindered alternate routes for Saudi Arabia to get its oil to the world, including an attack days ago that damaged its biggest pipeline and advances that strengthened the Houthis' ability to choke off Saudi oil exports out of the Red Sea.
+
+Besides the hit to the global economy, new reports out of Washington have detailed the US costs for the war against Iran, the reduction to stockpiles of advanced missile interceptors, and the damage that has been inflicted on American aircraft, bases and diplomatic outposts.
+
+The nonpartisan Congressional Budget Office said Tuesday that the war has cost the Pentagon more than $38 billion through Aug. 1 and will cost up to $3 billion a month or more depending on the intensity of the conflict. That figure largely aligns with what Defense Secretary Pete Hegseth has told Congress that the fighting has cost so far.
+
+The CBO said the war is expected to contribute to inflation into the first quarter of next year.
+
+Iranian strikes also have damaged and destroyed hundreds of buildings and other structures at US bases in the Middle East as well as dozens of American aircraft and drones, according to a report from the Pentagon inspector general released Monday.
+
+Iran and the US have clashed over sea drones
+
+Hawkins said Tuesday the sea drone involved in the latest clash is a "Saildrone" - a small, roughly 25-foot (8-meter) craft - which can operate by itself. US Central Command has been using them in the region for several years to surveil maritime traffic.
+
+Hawkins said all of the command's surface drones "remain fully accounted for." The military has long asserted that the technology on the Saildrones is commercially available and not sensitive in nature.
+
+Ahmad Nafisi, Hormozgan's deputy governor, told the Islamic Republic News Agency that the two boats came under attack Monday evening from what he described as an "enemy drone" in the Persian Gulf. The IRNA report did not mention an attempt by Iranian forces to seize a US drone.
+
+The latest incident, which was reported earlier by Axios, comes a week after Iranian state television reported that the country's navy captured one of the US military's underwater drones at the entrance to the Strait of Hormuz.
+
+Hawkins said then that an Anduril Dive-LD drone had malfunctioned while it was surveying the waters in the region and the US military no longer had possession of it. He stressed that the drone was defective and noted that it was also an "older model that neither collected sensitive data nor carried any classified sonar or radar equipment."
+
+---
+
+### Students protest against alleged irregularities in Daroga recruitment, BPSC 70th exam; demand probe
+*ET Online · business*
+
+Students staged a protest over alleged irregularities in Daroga recruitment and the BPSC 70th examination, demanding a thorough probe. The protesters raised concerns over the recruitment and examination process and called for transparency and accountability. The demonstration reflects ongoing studen...
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/students-protest-against-alleged-irregularities-in-daroga-recruitment-bpsc-70th-exam-demand-probe/videoshow/134278024.cms)
+
+---
+
+### US FTC chair suspicious of calls for AI antitrust exemptions
+*Karan Mahadik · legal*
+
+Anthropic CEO Dario Amodei called for an intentional slowdown of AI development, and for an exemption to usual prohibitions on competitors working together.
+
+[Read full article](https://indianexpress.com/article/technology/tech-news-technology/us-ftc-chair-suspicious-of-calls-for-ai-antitrust-exemptions-10879831/)
+
+---
+
+### Stock Market LIVE: Sensex up 300 pts, Nifty tops 23,200; Nifty FMCG rises over 1%
+*Unknown · business, entrepreneur, finance*
+
+Sensex Today | Stock Market LIVE Updates Wednesday: Paytm and MobiKwik shares gained after the introduction of merchant discount rate (MDR) on certain transactions
+
+[Read full article](https://www.business-standard.com/markets/news/stock-market-live-september-16-nse-bse-sensex-today-nifty-gift-nifty-crude-oil-price-today-kanohar-electricals-ipo-listing-126091600091_1.html)
+
+---
+
+### Disha Salian case: Nitesh Rane slams UBT leaders over alleged pressure on investigation
+*ET Online · business*
+
+The Disha Salian death case has returned to focus after the Bombay High Court directed a CBI probe. Maharashtra Minister Nitesh Rane has questioned Shiv Sena (UBT) leaders and said the CBI investigation will bring out the facts surrounding the case. Rane also alleged that evidence was destroyed and ...
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/disha-salian-case-nitesh-rane-slams-ubt-leaders-over-alleged-pressure-on-investigation/videoshow/134278004.cms)
+
+---
+
+### Police search former DMK minister Anbil Mahesh’s home in private school fraud case
+*Express Web Desk · politics*
+
+Veteran DMK leader and former minister K N Nehru was denied permission to enter Poyyamozhi’s residence as the search was in progress.
+
+[Read full article](https://indianexpress.com/article/india/police-search-former-dmk-minister-anbil-maheshs-home-in-private-school-fraud-case-10879882/)
+
+
+---
+
 ## 15 September 2026
 
 ### Keralite vlogger, who claimed arrest by Mujahideen, now says she escaped arrest threat in Afghanistan
