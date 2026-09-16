@@ -1,10 +1,242 @@
 # Editorials
 
-_Last updated: 2026-09-15 06:32 UTC_
+_Last updated: 2026-09-16 06:31 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
 
+## 16 September 2026
+
+### AI cooperation: On Artificial Intelligence at a crossroads
+*The Hindu · Editorial*
+
+Artificial Intelligence is at a strange crossroads, with the United States government disregarding frontier AI developers’ own call for a global development slowdown of models due to hacking risks and misalignment and the BRICS Summit offering an alternative view of how geopolitics should respond to this rapidly evolving situation. The AI firms and the U.S. government have long framed the astronomical sums being funnelled into data centres and other associated investments as key to holding their ground in a U.S.-China competition. During the Summit, Prime Minister Narendra Modi warned against the “weaponisation” of technology and minerals, while Chinese President Xi Jinping touted the potential of a “BRICS AI open source community” that would challenge any one country’s dominance in the sector. India has taken the middle path, not joining any protest against U.S.-led models, while underscoring the need to keep AI development insulated from national rivalries. While some of this approach is informed by the fact that India’s AI ecosystem is relatively fledgling, it is also a nod to the reality that this is a technology that may radically reshape the global economy, and participating even in its deployment may have dividends across time.
+
+And yet, the Global South finds itself wedged occasionally in great power rivalry dynamics, for instance suffering from a global pull out of Anthropic’s powerful Fable and Mythos models. A world of trade disputes spilling into supply chains cannot and should not impact the proliferation of AI capabilities, as timely and comprehensive access to these technologies is key to national security. It is encouraging that the BRICS Summit’s joint initiatives on AI are building more avenues for cooperation among middle powers to combat this concentration. Open source and collaborative approaches can insulate nations from belligerent and unpredictable policymaking on AI from the U.S. While such models lag behind in capabilities from the frontier proprietary ones, they continue to improve at a rapid clip, a heartening prospect for deployment-heavy economies where AI development is not at such an advanced stage. This is especially true as AI systems show signs of defying instructions and going to great lengths — even hacking into vulnerable systems — to achieve a given task. The weaponisation of such capabilities, which can be supercharged or minimised depending on who is in control, raises concerns for countries with weakened cyber defences. Proliferation of defensive capabilities against such evolving risks is only possible when nations collaborate on making them broadly and cheaply available. BRICS should be one such forum. AI brings up the biggest known unknowns of history, and considering the dangers to humanity therein, it should not fall into the geopolitics and hierarchies of haves and have-nots that guide the thinking of the hawks at the frontier.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/ai-cooperation-on-artificial-intelligence-at-a-crossroads/article71468418.ece)
+
+---
+
+### Stability at the top: On the tennis and the U.S. Open
+*The Hindu · Editorial*
+
+In recent times, men’s tennis has had a heavy dose of predictability while the women’s game has been in a state of perpetual flux. If Carlos Alcaraz and Jannik Sinner cornered 11 of the 13 Majors starting Wimbledon 2023, there were nine different winners among women in the same period. But at the recently concluded U.S. Open, this pattern flipped. Alexander Zverev won his second men’s singles Slam trophy and first at Flushing Meadows after finishing atop an airy field that lost Sinner before the tournament and Alcaraz in the quarterfinal. In the ladies category, Elena Rybakina secured her third Major — also her first in New York — after beating top seed and two-time defending champion Aryna Sabalenka, and No. 4 and 2023 U.S. Open winner Coco Gauff, back to back. Among the last four of Zverev, Ben Shelton, Frances Tiafoe and Karen Khachanov, the tall German was the only one with Slam-winning experience, having grabbed his maiden top prize at the 2026 French Open, a similarly open competition where Alcaraz was missing and Sinner exited early. On the other hand, the WTA top-four reached the semifinals, and it was only fitting that Rybakina’s splendid run ended with her being crowned the new World No. 1, ending Sabalenka’s reign of 99 straight weeks at the pinnacle.
+
+The absence of a strong field, however, should not diminish Zverev’s accomplishment. While it is true that the 29-year-old faced just one top-10 opponent — Shelton in the final on Sunday — across his two triumphs at Roland-Garros and the U.S. Open, he is indisputably among the three best players in the world along with Alcaraz and Sinner. Sandwiched between his two title successes was a Wimbledon final appearance, where he fought Sinner tooth and nail. In fact, Zverev’s ascent reinforces the idea of a new Big Three in men’s tennis, and has neatly coincided with 24-time Major winner Novak Djokovic losing in the first round and tumbling out of the ATP top 10. For the first time since the early 2000s, none of Roger Federer, Rafael Nadal and Djokovic — the previous era’s Big Three — is ranked in the top 10, and the setback leaves the 39-year-old Serbian great facing an existential threat. Sabalenka, despite being a worthy runner-up to Rybakina, would have also left the U.S. with more questions than answers. The 28-year-old Belarusian has lost four of her last five Slam finals, and all of them as World No. 1, calling into question her big-match temperament. Worryingly, she only has a 50% success rate in all finals while being the top-ranked woman (7-7), an anomaly that requires a quick correction.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/stability-at-the-top-on-the-tennis-and-the-us-open/article71468463.ece)
+
+---
+
+### Youth discontent and the changing face of protest
+*The Hindu · Opinion*
+
+Across the world, India included, new forms of rebellion and revolt by the masses are emerging. Gen Z, in particular, is embracing new forms of protest, in the belief that disruption is essential to destroy an old order that is proving unequal to deal with newer kinds of problems. Anger is, however, the dominant impulse. History has witnessed many authoritarian regimes being overthrown through students’ protests and replaced by democratic forces, but this is not inevitable or necessarily true. There are many variations of Immanuel Kant’s “democratic peace theory” that are available.
+
+Nevertheless, safeguarding democracy is a common thread connecting many of today’s protests, some of which have taken on the character of a rebellion against the existing order. Not all protests., however, reach this point, though in India’s neighbourhood, student and youth upheavals in Nepal and Bangladesh resulted in the ouster of long-established regimes. The usual tactic — as seen in Nepal and Bangladesh — is to brand all those rebelling against existing regimes as “foreign agents” or worse, with a pliant media whipping up a frenzy against such elements and labelling them “anti-national” or “traitors”. It is imperative that those who believe in democracy, recognise the tell-tale signs (well in time) before matters get out of hand.
+
+Signal of growing discontentUnfortunately, warning signs are seldom heeded by those in authority. Even established democracies are not exempt from this malaise. Often enough, it is the impression rather than the reality that matters, leading to protests. Even as the media and other institutions — which normally act as checks and balances — fail to discharge their responsibilities, today’s Gen Z is beginning to take matters into its own hands to try and achieve results. This is true even of established democracies where recognised political parties and systems do exist. In this sense, unencumbered sovereignty tends to become the proverbial “poisoned chalice”.
+
+Cockroach Janta Party protests | Collection of The Hindu’s ground reportsRecent agitations by the Cockroach Janta Party (CJP), and more specifically the Jantar Mantar “sit-in protest”, are pointers to what could well happen. Their agitation may not quite approach, in size or tenor, the kind of protests seen in Bangladesh and Nepal, but must not, nevertheless, be ignored. The CJP protest was, by far, more spontaneous and less structured than many others, but the pent-up fury among students over the mismanagement of examinations (such as the National Eligibility cum Entrance Test), and the perception of implicit collusion between those in charge and the authorities, was a signal of what could happen and should not be ignored. Protests by students in Jharkhand, Chhattisgarh and Bihar, and the tendency of those in authority to resort to mindless violence to contain such protests, do not augur well, either for the present or for the future.
+
+The need for understandingThere are few signs, however, that authorities across the nation have properly comprehended the true nature of recent agitations and the lessons to be learnt from them. What is worse is the tendency of State governments, by and large, to use indiscriminate force against students — force that is meant to be employed against unruly and violent mobs. This could not only prove self-defeating but also have far graver consequences, triggering a backlash against all forms of authority. Already, some individuals in Jharkhand are drawing comparisons between the students’ protests over recruitment irregularities and the “eponymous tribal uprising” led by the legendary Birsa Munda. Comparisons such as these could act as tinder for a serious conflagration when the occasion arises.
+
+Jantar Mantar protests: Were we seeing reality or only what we liked seeing?Today, the availability of digital platforms and social media enhances the reach of protests of every kind, especially when they involve students and youth. The situation in Jharkhand certainly demands careful handling, more so since the agitators have a recognisable leader, Devendranath Mahato, who went on a hunger strike and was subsequently hospitalised. Jharkhand Chief Minister Hemant Soren’s response to the agitation — scrapping the examinations — almost seems like throwing the baby out with the bathwater, reflecting both the anguish and the inability of those in authority to understand the nature of the new kinds of protests.
+
+What is even less understood, however, is the true nature of the anger that pervades the minds of young people. Repeated assertions by those in authority that “Naxalism is dead”, for example, are a case in point. Most individuals miss the point that, from its small beginnings, Naxalism grew into a major thorn in India’s flesh. The movement, depicted as “spring thunder over India” in the late 1960s, was transformed from its very small beginnings in Naxalbari (North Bengal) into a grave threat, as Home Minister Amit Shah constantly points out. At one time, large parts of India’s landmass was convulsed by Naxalite violence. Worse, many of India’s best and brightest were inveigled into becoming part of the movement. Not only tribals, but also vast segments of the rural peasantry, the working class, and the intelligentsia were influenced by the malaise of Naxalism. The relevance of this here is that a “single spark” can cause a “prairie fire”. Keeping an eye on protests is, hence, vital, even as other threats, such as pandemics and cyber threats, may increasingly engage the minds of those in authority. Today, the CJP is hardly a political entity or party, but it does signify the anger among the youth, and the movement must not be brushed aside as irrelevant or insignificant. Leading political figures, hence, need to keep their eyes firmly on the ball and take note of the several protests being organised by students and young people across the nation. The recent arc of protests does not necessarily signify an erosion of public trust, for the middle ground of Indian politics remains relatively intact. Nevertheless, failing to recognise the simmering anger among large sections of the youth over aspects of public performance and the quality of governance could be dangerous. It behoves those in authority to ensure that these different forms of protest do not coalesce into a mighty river. The recent reference to “dimagi Naxals”, for example, has the potential to be exploited, leading to yet another round of protests with uncertain outcomes.
+
+Related StoriesReclaiming universities through trust, student voice
+
+The stark reality of the missing jobs for India’s Gen Z
+
+India’s unemployment data dilemma
+
+Gen Z’s voice must lead to a humane education system
+
+What is most important at this stage is to prevent any rekindling of the atmosphere of protest that has convulsed the nation in recent months and to determine how best to bring down the surcharged atmosphere that has prevailed for some time. The lull following the CJP’s Delhi protest needs to be sustained and maintained, as there is little room for complacency. Additional protests could coalesce into a far more significant wave of unrest, given the residual anger among young people in different parts of the country. Another round of protests could well target not merely corruption in the educational sphere but develop into a broader movement against authority per se. The warning signs are already clear: the spokesperson for the ‘dimagi Naxals’ is already referring to the CJP as their sibling.
+
+The perception of institutional failureA final word. Ragtag parties or not, anger is writ large across the faces of the youth in different corners of the country. There is a widespread belief that deals are being struck at various levels, at the expense of the country’s youth, and that something needs to be done — but those in authority appear to have no answer to this poser. India’s political institutions today give the impression that they have reduced salience in dealing with situations of this kind. Hence, the baton has been taken over by the youth.
+
+Related StoriesHow women protesters became targets after the Jantar Mantar protest
+
+Watch: Inside the Jantar Mantar cleanup after the 36-day NEET protest
+
+From protest to crackdown? Inside the Jantar Mantar clashes | Ground Report
+
+Watch: ‘We are here for our future’: Voices from CJP protest at Jantar Mantar
+
+Watch: Inside the Jantar Mantar protest: Why hundreds gathered in Delhi
+
+The growing centralisation of power and authority is aggravating this situation. Rightly or wrongly, many segments of the youth are tending to believe that institutional safeguards are being systematically undermined. They feel there is a need to reset the compass. It behoves every political party, the Opposition, and those in authority to adopt measures that would help stem the sharp decline in faith in the political system among the youth. India’s domestic political scene is, to say the least, possibly entering an era of “variable geometry”, and it is vital that those in charge recognise the signs and deal with the many problems that have surfaced.
+
+M.K. Narayanan is a former Director, Intelligence Bureau, a former National Security Adviser, and a former Governor of West Bengal
+
+[Read full article](https://www.thehindu.com/opinion/lead/youth-discontent-and-the-changing-face-of-protest/article71469171.ece)
+
+---
+
+### BRICS and the test of strategic balance
+*Deccan Herald · Editorial*
+
+The BRICS summit in New Delhi delivered a 45-page declaration, rightly hailed as a success for India. Reconciling Iran with Saudi Arabia and the United Arab Emirates and securing consensus on the West Asia conflict was no small feat. Differences within the bloc on the issue did not fracture BRICS or push it towards a more aggressive anti-United States posture. The New Delhi Declaration called for “maximum restraint” and dialogue, while expressing concern over attacks on civilian infrastructure and IAEA-safeguarded facilities – an indirect criticism of Israel and the US for carrying out strikes on Iran’s nuclear facilities. On Palestine, it largely carried forward last year’s language, while citing proceedings at the International Court of Justice and reminding Israel of its obligation to let aid reach Gaza.
+
+BRICS has built institutions such as the New Development Bank and trade and finance mechanisms. However, its challenge to the dollar-based financial order remains modest. The declaration acknowledges the impracticality of a one-size-fits-all approach even while promoting local-currency investment and trade settlements. India and the newer members are not keen to dismantle the US’s economic dominance. The 11-nation bloc seeks autonomy without breaking with the system it seeks to reform. During its BRICS chairship, India focused on practical deliverables under the four pillars of resilience, innovation, cooperation, and sustainability. This resulted in initiatives spanning early-warning systems, AI use, geospatial intelligence and data analytics in agriculture, startups, MSMEs, research, energy, and digital public infrastructure. They underlined that politically divergent members can still cooperate. BRICS seeks resilient supply chains, but vulnerabilities exist within the grouping. India’s dependence on China for technology, equipment, and critical minerals is an example. Collective resilience cannot lead to dependence on a stronger member.
+
+BRICS 2026 | India must be wary of China’s and Russia’s push for ‘global governance’New Delhi wants to champion Global South interests and seeks greater representation in world institutions, but not a new geopolitical divide. BRICS gives India space to engage China and Russia while preserving partnerships with the US, Europe, and Japan. It expands India’s choices, but the harder test comes next year when China hosts the summit. President Xi Jinping has proposed a BRICS Special Economic Zone, a services-trade forum, and an AI open-source zone, while calling for integrated industrial and supply chains. India must ensure that BRICS does not become a China-centred alignment. Prime Minister Narendra Modi, who joined G7 leaders in France earlier this year, will attend the G20 summit in the US in December. India wants neither to abandon the existing order nor to join a China-led one, but to have a voice in both.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/brics-and-the-testof-strategic-balance-4147451)
+
+---
+
+### Fiscal federalism under strain
+*Deccan Herald · Editorial*
+
+Karnataka’s decision to move the Supreme Court over the Centre’s withholding of Rs 2,186.2 crore due to gram panchayats under the 15th Finance Commission is the second such confrontation in two years. In 2024, the state approached the court over drought relief, seeking Rs 18,171 crore, and the Centre eventually released Rs 3,454 crore. Such repeated recourse to the courts highlights a troubling strain in Centre-state relations. Rural Development and Panchayat Raj Minister Eshwar Khandre says the Centre has failed to release Karnataka’s “rightful share”, particularly when the state is facing drought-like conditions due to deficient rainfall. More than 710 villages face acute drinking water scarcity, while farmers are concerned about seeds failing to germinate. Under such circumstances, withholding funds meant for local bodies constrains the state’s ability to respond to distress. States should not have to approach the Supreme Court for their legitimate entitlements. They are not New Delhi’s appendages. The Constitution describes India as a “Union of States”, while the Supreme Court has recognised federalism as part of the basic structure of the Constitution in the Kesavananda Bharati (1973) and S R Bommai (1994) judgments.
+
+Fiscal transfers by the Centre necessarily involve redistribution. The Finance Commission’s formula prioritises socio-economic equity, directing resources towards less-developed states to ensure balanced national growth. But Karnataka has a valid question: how long can high-performing states be expected to subsidise inefficiency in the name of balanced national growth? It has long pointed out that for every rupee it contributes to the national direct tax pool, it receives back only 13 to 15 paise. The introduction of GST further reduced fiscal autonomy, with states surrendering several indirect taxes. Compounding this, the Centre has increasingly imposed cesses and surcharges which fall outside the divisible pool, further reducing states’ revenue. The grievance is not against redistribution itself, but against a formula that insufficiently rewards efficiency. Karnataka has consistently advocated a recalibrated architecture that does not penalise states for their economic performance.
+
+Karnataka issues order allowing ‘Er’ prefix for names of engineers in statePolitical differences should not turn fiscal federalism into a contest of attrition. Former chief minister Siddaramaiah has often described the Centre’s approach as “coercive federalism”. The Union government must recognise that strong states make a stronger country. Cooperative federalism cannot mean states having to approach courts whenever funds are withheld. The Centre should ensure that constitutionally mandated transfers and approved grants reach states and local bodies on time. Redistribution is essential, but so are fiscal fairness and respect for the constitutional balance.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/fiscal-federalism-under-strain-4147430)
+
+---
+
+### Weaponised interdependence: How nations turn trade into strategic leverage
+*Deccan Herald · Opinion*
+
+The era of globalisation, which took shape after 1945 and accelerated after the end of the Cold War, ushered in economic interdependence among nations. Global trade multiplied, supply chains stretched across continents, and countries increasingly relied on one another for energy, commodities, technology, finance, and markets. The underlying assumption was that such interdependence would make conflict more costly and therefore less likely.
+
+That assumption is now under strain. The rise of China, the return of great-power rivalry and the growing strategic competition between the United States and its rivals have made interdependence increasingly frightening. Under the emerging geoeconomic order, countries are beginning to see resources, infrastructure, geography, and technological capabilities not merely as economic assets, but as instruments of State power. Oil, minerals, food, water, technology, shipping routes, ports, financial systems, supply chains, and even outer space are increasingly being viewed through the prism of national security. The world may therefore be entering an era of weaponised interdependence.
+
+The world has moved from a relatively benign interdependence to insecure interdependence. Nations still need each other and cannot realistically decouple completely. Instead, countries, while trying to remain interconnected, are making that interconnection politically controllable.
+
+This produces a paradox. The more countries weaponise interdependence, the more insecure everyone becomes. China is concerned about semiconductor controls. The US worries about its dependence on Chinese rare-earth processing. Europe is alarmed about Russian energy. India frets about dependence on imported energy and critical technologies. The Gulf is stressed about external security guarantees. Developing countries are anxious about access to food, fertiliser, finance, and technology. So every country begins building its own insurance policy. But when everyone does this simultaneously, the global system becomes less efficient, more fragmented, and more expensive. And ironically, that fragmentation produces even greater insecurity, encouraging still more weaponisation, thus becoming a geopolitical vicious circle.
+
+Anthropic access row rekindles self-reliance debate; Sridhar Vembu says ‘Globalisation Is Dead’Why is this happening? The fundamental reason is that countries have realised that dependence itself can be a strategic vulnerability. The Ukraine war fundamentally challenged the assumption that interdependence would reduce the likelihood of conflict. Countries discovered that what they depend upon can potentially be withheld from them or turned against them. Russia demonstrated the strategic leverage inherent in energy dependence. China’s dominance in critical-mineral processing highlighted the power embedded in control over supply chains. The US demonstrated the extraordinary reach of technology controls, financial sanctions, and access to the dollar-based financial system. India, too, acquired strategic importance through its geography, pharmaceuticals, and technological capabilities.
+
+No country wants to allow another country to possess an indispensable lever over it, because such a lever becomes a source of strategic power over time. That represents a profound change in the way economic relationships are perceived.
+
+Security is increasingly replacing efficiency as the core principle of international economics. The old economic question was: Where can a product be obtained at the lowest price? The emerging question is: Is it still possible to procure when relations with the supplier deteriorate? That is why governments are now willing to pay more for domestic manufacturing, alternative supply chains, strategic stockpiles, energy diversification, food security, semiconductor capacity, defence production, etc. Globalisation and efficiency are giving way to resilience, friend-shoring, de-risking, and strategic autonomy. The economic cost has become secondary to strategic security. This does not mean that globalisation is disappearing, but that its underlying logic is changing.
+
+Another reason for the rise of weaponisation is the growing distrust of the pre-1945 institutions created to manage interdependence. They were built on the premise that disputes would be managed through institutions and rules. But today, major powers increasingly believe that rules are useful only as long as they serve their national interests. The World Trade Organization (WTO) is weaker, and the United Nations Security Council (UNSC) is paralysed on major geopolitical questions. Sanctions have become normalised. Export controls are expanding. Investment screening is increasing. Tariffs have returned as instruments of strategy.
+
+The Ukraine war didn’t create weaponisation, but dramatically accelerated it. Before the war, the US-China technology competition and the semiconductor rivalry were already ongoing. After 2022, governments suddenly saw what geopolitical rupture could do to an interconnected economy. Food, fertiliser, energy and technology became strategic, shipping became uncertain and expensive, banking became pivotal, and technology tactical. Even currency reserves became strategic after Russia’s foreign reserve was frozen, leaving many to conclude that financial interdependence itself could be weaponised.
+
+When geography is capital
+
+A country sitting astride a shipping corridor, pipeline route, mineral belt, or energy choke point can potentially exercise enormous influence. The Red Sea illustrates the point. The Houthis only needed to make a major commercial route sufficiently risky to alter the behaviour of shipping companies. Likewise, the disruption of the Strait of Hormuz has affected energy prices, insurance premiums, shipping decisions, and military calculations. This is the new economics of choke points. Geography itself is becoming a form of geopolitical capital.
+
+Climate change could make the next phase of weaponisation even more consequential. Water, food, arable land, and critical minerals are likely to become increasingly strategic as environmental pressures intensify. Countries controlling important river basins, food-producing regions, mineral deposits, or energy resources could acquire bargaining power that goes far beyond conventional military strength. This creates what could be called geopolitical scarcity premiums.
+
+Governments are under enormous pressure to demonstrate that they can protect their populations from external shocks. A government that says it is securing energy or food in the name of national security is on much stronger political ground. The result is a powerful political incentive to bring strategic dependencies under domestic control, even when doing so is economically inefficient. The tragedy is that the weaponisation of interdependence may ultimately destroy some of the very benefits that interdependence created.
+
+The writer is a former diplomat
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/weaponised-interdependence-how-nations-turn-trade-into-strategic-leverage-4147450)
+
+---
+
 ## 15 September 2026
+
+### DC Edit | Debate UCC, Don’t Enforce It To ‘Otherise’ Minorities
+*Deccan Chronicle · Editorial*
+
+Implementation of a uniform civil code is part of the long term agenda of the BJP, and the party has been unequivocal in its objective ever since its inception. It has not yet spelt out the details of its idea behind such a code but the adoption of such codes in some states points to the direction in which the party is taking its avowed objective.
+
+It is in this background that Union home minister Amit Shah has declared that the National Democratic Alliance (NDA) which the BJP leads would make efforts to implement the UCC in all 21 NDA-ruled states before 2029 when the Lok Sabha elections are due. Thus, Mr Shah has given away one of the main poll planks of his party to seek a record fourth term for it and the alliance when it goes back to the people in three years.
+
+It is true that the directive principles of the Constitution (in Article 44) promise that “the State shall endeavor to secure a uniform civil code for citizens throughout the territory of India”. It is an ideal that the founding fathers of the republic placed before its future generations to aim for, knowing full well that reconciling the differences that exist among various segments of the people so that they willingly adopt a uniform code calls for humungous efforts. The target cannot be a mechanical implementation of the idea but an uplift of every section of society to the best possible civil law that ensures justice to every person under the protection of the Constitution.
+
+How far the country has travelled in that direction is anybody’s guess but the BJP sees in this move an opportunity to find an “other” that will nourish its divisive politics. The party has not learnt much from the dismal dividend it harvested after implementing two top items on its agenda, the construction of a Ram temple in Ayodhya and the scrapping of Article 370, in the last parliamentary election. However, such empirical data need not stop it from furthering its Hindutva goals.
+
+Implementation of a UCC at the national level calls for an amendment of the Constitution, which the NDA cannot undertake given its numbers in Parliament. So the ruling party is trying to keep spirits high by this piecemeal adoption of such a code in states where it is in majority and runs the government. Such individual codes may carry their limited social points but can hardly make a positive impact on the lives of the people.
+
+But the BJP may find the going tough if it thinks it can steamroll its pet project as differences have already cropped up among its powerful allies in the states. The Janata Dal (United) in Bihar has made it clear that it will not allow its implementation though it supports UCC as a concept. The Telugu Desam Party that rules Andhra Pradesh is confused: While it says it is committed to the idea, it wants more discussions. It is the hard politics that comes in the way of these two parties — which together helped the NDA command a majority in the Lok Sabha — raising their hands unconditionally to the suggestion of Mr Shah.
+
+The BJP will be doing a service to the nation if it can launch a national debate on this topic and let all come to a consensus instead of taking a circuitous route.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-debate-ucc-dont-enforce-it-to-otherise-minorities-1987663)
+
+---
+
+### DC Edit | Retail Inflation Rises, Act Now
+*Deccan Chronicle · Editorial*
+
+The rise in retail inflation to 4.82 per cent in August has finally confirmed that the combined impact of the US-Iran war induced fuel crisis and El Nino-related weather disruptions on household budgets. Though the retail inflation, which the Reserve Bank of India tracks for its monetary policy, remains within its tolerance band of two to six per cent, the price rise could exert pressure on the Central bank to act to contain inflationary expectations.
+
+Food items, which have one-third of weight in retail inflation, remain the most visible source of distress. Onion prices surged 48.27 per cent, garlic 43.6 per cent and ginger nearly 74 per cent because of an uneven monsoon. Though the prices of tomato, potato and a few other vegetable prices have contracted, they offered limited comfort for keeping the retail inflation anchored.
+
+The impact of food prices appears greater on wholesale inflation, which accelerated to 9.92 per cent. Fuel and power inflation climbed to 22.93 per cent, while manufactured product inflation hit a series high of 8.37 per cent. Rural inflation was considerably higher at 5.23 per cent than the 4.31 per cent recorded in urban areas.
+
+The RBI is likely to take the August inflation figures seriously when its Monetary Policy Committee meets from October 5 to 7, even though both retail and wholesale inflation are to be driven by supply factors, which interest rate hikes cannot fix.
+
+Analysts expect a 25 basis point increase in October, followed by another in December if inflation persists, would help anchor inflation expectations and preserve the rupee’s real-rate credibility.
+
+Nevertheless, the heavy lifting needs to be done by Central and state government officials. Instead of waiting for inflation to cross six per cent, they need to intervene to improve food supplies, release buffer stocks where necessary and limit avoidable fuel-price transmission.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-retail-inflation-rises-act-now-1987697)
+
+---
+
+### A Seasoned Modi’s Brics Balancing Act
+*Deccan Chronicle · Opinion*
+
+The 18th Brics Summit held in New Delhi with India in the chair has been the most un-Modi-like international conference of the last 12 years. It served as a contrast to the G-20 Summit that India and Prime Minister Narendra Modi hosted in September 2023. This summit did not reverberate with the empty rhetoric of “vasudhaiva kutumbakam” that has been the signature of Mr Modi. The Prime Minister’s speech at the Summit was sober in tone, and matter of fact. It carried substantial suggestions, including that of creating a permanent implementation structure because the presidency rotates annually, and decisions taken in one summit need to be carried forward. The pyramid simile was effective where he compared the Global South placed at the base of the pyramid and the decision-makers with power and pelf at the top, and how the structure needs to be modified. There was no hint that the pyramidal structure needs to be replaced. The diplomatese is impressive.
+
+There was also not much fanfare surrounding the summit even as the leaders of the many countries flew into the Indian capital. Life went on, with a few traffic diversions, as usual. There were the customary hoardings announcing the summit and a few featuring the Prime Minister. But it was not in-your-face stuff. Twelve years in power seems to have mellowed the PM and the government. The Rameswaram temple corridor which served as the background at the entrance where Mr Modi welcomed the guests remained an inconspicuous backdrop. There was no effort to flaunt India’s cultural riches.
+
+Psychologists of power will have much work to do explaining the change in the Modi style, which leaned a little too much on vulgar pomp. It never reached the heights of grandeur. Political analysts might suggest that the Gen Z rebellion has been a pushback to the overconfidence and swagger of the Prime Minister and his aides, and he is not riding his hobbyhorse of India, the vishwaguru. Perhaps the most relevant factor about the Brics Summit this time round is that the war in West Asia has turned pretty grim on both the battlefront as well as the economic front. Iran, Saudi Arabia and the United Arab Emirates, who are on opposite sides of the conflict, were present at the summit, and what was needed was a balancing act. Mr Modi had reached out to Iranian President Masoud Pezeshkian with respect and friendliness. Though the Indian media juxtaposed Mr Modi’s greetings to his friend and Israeli Prime Minister Benjamin Netanyahu on the occasion of the Jewish New Year with its coverage of the summit, it did not in any way cast a shadow on the Modi-Pezeshkian meeting.
+
+Mr Modi and India showed diplomatic restraint in including the condemnation of Israel over the violence in Gaza, and also support for South Africa’s move against Israel in the International Criminal Court. It must have been a bitter pill to swallow for Mr Modi and the pro-Israel lobby in the government, but it must have been felt that in a large grouping like that of Brics, there is need to accommodate views and positions that India does not like. The omission of the Russia-Ukraine war is a clear signal that Brics, including India, consider the Russia-Ukraine as a European war. The situation in West Asia is something that impacts most members of Brics, including Russia because of Moscow’s ties with Tehran.
+
+India and Mr Modi had to do a difficult balancing act because the presence of rivals at the summit was quite prominent. Apart from Iran, Saudi Arabia and the UAE, Egypt and Ethiopia were not on the same page either. China was in many ways the Big Brother in the room with its gargantuan economy but it was held in its place. The Modi-Xi Jinping bilateral did not overshadow the summit unlike the case with the India-Pakistan bilateral at the Saarc summit in Islamabad in 2004. Even the mention of the Pahalgam terror attack in the joint declaration did not overshadow it in the Indian media.
+
+It was a skillful conducting of the Brics orchestra this time. There were different notes from the different corners, and they all had to be fitted in if not integrated. Mr Modi and India handled the challenge successfully. To do so, India had to be less dominant and also predominant. Given Mr Modi’s penchant for the personalised diplomacy, it was against the grain for him to maintain a relatively subdued profile. Mr Modi was quieter, dignified, yet quite firm and articulate about the agenda. The agenda was not about India, but the role India is to play in Brics by showing the way. The focus was on Brics, and the Prime Minister pulled it off.
+
+He played the quiet host and not the role of the prominent man in the room. So much so, that the Chinese President Xi recalled his first visit to India when Mr Modi took him to his hometown, Ahmedabad, which had coincided with his birthday. Of course, Mr Xi is a shrewd leader and he does not let praise escape his lips lightly. He knows that China would need to keep India humoured on the trade...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/a-seasoned-modis-brics-balancing-act-1987731)
+
+---
+
+### Cabinet Reshuffle Faces Two More Deadlines; Which Of Them Will Hold?
+*Deccan Chronicle · Opinion*
+
+Several deadlines have come and gone including the Parliament’s Monsoon session in July, and Independence Day. The expectation is that the much-expected reshuffle of the 71-member Union Cabinet may happen either before the Shradh begins on September 26 or around Dussehra (October 20). The timing may be uncertain but there is a surety that it will happen. Three broad features, more in terms of tactics rather than strategy, will define the reshuffle. These include — a new unexpected face to handle the finance portfolio, political diversity to enhance representation within the BJP and BJP-led coalition, and trimming of the multiple posts being handled by several ministers.
+
+There is a visible urgency. A concrete indicator is the initiative by the Prime Minister’s Office to undertake a 360-degree performance review of the Cabinet members. Stung by the Gen Z protests, there is pressure within the ruling party, and from the RSS to change things around. The Union Council of ministers comprises 30 ministers with Cabinet rank, five ministers of state with independent charge, and 36 ministers of state. The Indian Constitution caps the figure at 15 per cent of the strength of the Lok Sabha, or 81 of the existing 543 members. There is scope to add a maximum of 10 new faces.
+
+In the finance slot, a civil servant or technocrat may be inducted. The move will introduce a non-political face as the head of a crucial ministry. There is a growing concern that many handle multiple portfolios. These include: Amit Shah (Home; cooperation); J.P. Nadda (health and family welfare; chemicals and fertilisers); Shivraj Singh Chouhan (agriculture and farmer welfare; rural development); Manohar Lal (housing and urban affairs; power); H.D. Kumaraswamy (heavy industries; steel); Lalan Singh (panchayati raj; fisheries, animal husbandry and dairying); Pralhad Joshi (education; consumer affairs, food and public distribution; new and renewable energy); Ashwini Vaishnaw (railways; information and broadcasting; and electronics and information technology); and Jyotiraditya Scindia (communications; development of the Northeastern region). A trimming is necessary.
+
+Mohan Yadav’s survival strategy
+
+Why does Mohan Yadav continue to survive as chief minister of Madhya Pradesh amid storms? Two factors stand out: patron Suresh Soni and a competent civil-service team.
+
+Politicians often rise not merely through capability or electoral victories, but by serving top leadership. Geography creates opportunity. Ujjain, home to Mahakaleshwar, gave Mr Yadav such a platform. His rise involved coordinating senior RSS and BJP visits to the shrine, helping him build rapport, particularly Suresh Soni. He is widely regarded as Mr Soni’s protégé.
+
+That protection matters amid controversy. An investigative report alleged that Mr Yadav’s extended family members and associated entities acquired 137 plots, covering 168 acres, valued around ₹45 crore, around Ujjain after December 2023. Yet he remains.
+
+Administratively, Ashok Barnwal, the chief secretary, remains the overall boss. Under him, Mr Yadav relies on his “ratnas” in the secretariat. At the centre is Neeraj Mandloi, 1993-batch IAS and additional chief secretary to the chief minister. He took charge in August 2026, replacing Rajesh Rajora, and is regarded as Mr Yadav’s Man Friday, the gateway for decisions.
+
+Dr Sudam Khade, 2006-batch IAS, serves as secretary to the CM, handling files, coordination and welfare programmes. Dr Ilayaraja T., 2009 batch, manages coordination and grievance. Kaushlendra Vikram Singh, 2010 batch, is seen as a fast-tracked younger bureaucrat. Chandrashekhar Walimbe, also 2010 batch, handles bureaucratic strategy, legislative documentation and workflows.
+
+Another significant official is Anshuman Yadav, 1998-batch IPS and ADG Intelligence. He took over after A. Sai Manohar retired on August 31, 2026. Intelligence provides inputs on law and order, political agitation, communal tensions, organised crime and VVIP security. He is the fourth intelligence chief in roughly three years of the Mohan Yadav government.
+
+RSS insiders suggest Mr Yadav’s political fate may finally be decided after the 2027 Uttar Pradesh Assembly elections.
+
+Independent thinker or disgruntled insider?
+
+Subhash Chandra Garg’s transformation into one of the establishment’s persistent critics has an intriguing backstory.
+
+A 1983-batch Rajasthan cadre IAS officer, Mr Garg became finance secretary in March 2019. He was regarded as a protégé of then principal secretary to the Prime Minister, Nripendra Mishra, at the very top of government. Insiders suggested that Mr Mishra played an important role in bringing Mr Garg to the finance ministry.
+
+It was during this period that the telecom battle was gathering momentum. According to reports circulating within government, Mr Garg had argued in the Telecom Commission, now Digital Commission, that the government should recover the principal adjusted gross revenue dues — around...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/cabinet-reshuffle-faces-two-more-deadlines-which-of-them-will-hold-1987674)
+
+---
 
 ### BRICS 2026 | India must be wary of China’s and Russia’s push for ‘global governance’
 *Deccan Herald · Opinion*
