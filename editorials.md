@@ -1,8 +1,169 @@
 # Editorials
 
-_Last updated: 2026-09-16 06:31 UTC_
+_Last updated: 2026-09-17 06:32 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 17 September 2026
+
+### Currency conundrum: On the BRICS New Delhi Declaration
+*The Hindu · Editorial*
+
+The BRICS New Delhi Declaration shows that progress in enhancing local currency trade has been incremental. The paragraph pertaining to local currency trade acknowledges the efforts of various task forces and committees but falls short of offering any concrete proposals. Recently, the Commerce Ministry indicated that India’s rupee trade with its BRICS partners was limited, with only the UAE and Russia engaged in it. Even those volumes are relatively small. Until recently, Russia had struggled to dispose of the rupees it was accumulating from its exports to India. Some avenues have now opened, with Russia being forced to import petroleum products from India due to Ukraine’s attacks. But that is a trickle. Another option is to treat any BRICS currency as ‘local’. India has already been using the UAE Dirham to pay for Russian oil. However, the latest Declaration’s mention of promoting BRICS local currency trade “while respecting national priorities and acknowledging that there is no one-size-fits-all approach” is telling. Clearly, there are some intra-BRICS issues that need to be addressed. The deliberations are not public, but it would not be surprising if it was India that had emphasised national priorities and raised problems with a “one-size-fits-all” approach. Local currency trade involves several strategic considerations for India.
+
+On the one hand, India would prefer to continue being paid for its exports in dollars. A depreciating rupee ensures that every dollar paid to India results in a higher amount of rupees. As a country looking to boost exports, India would want to retain this advantage. On the other hand, India is also a major importer and would like to pay in relatively cheaper local currencies. It will eventually have to choose. Then there is the fact that China accounts for about two-thirds of all BRICS exports. BRICS local currency trade will largely be trade in the yuan. Relations with China might be thawing now, but India would still be loath to conduct its business in the yuan. It is also important to distinguish between local currency trade and a BRICS currency. While India has so far been cautiously supportive of the former, it has been vocal in opposing a BRICS currency, largely because of China’s likely dominance of such a currency. Then there is U.S. President Donald Trump’s threat of 100% tariffs on countries adopting a BRICS currency. India has displayed a pragmatic approach to dealing with Mr. Trump, and it will not court such tariff threats lightly. Countries such as Iran and Russia have pressing reasons to move away from the dollar. So far, India does not have a convincing enough one, and the New Delhi Declaration reflects that.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/currency-conundrum-on-the-brics-new-delhi-declaration/article71472831.ece)
+
+---
+
+### Hog in the limelight: On Assam’s pygmy hog programme
+*The Hindu · Editorial*
+
+The decline of the pygmy hog — the sole surviving species of the genus Porcula and the world’s smallest wild suid — is a narrative about the decline of India’s alluvial floodplains. The pygmy hog depends significantly on dense grasslands to feed, conceal itself, and reproduce, so distress among these animals is an indicator of the floodplain suffering degradation. Protecting the pygmy hog can also extend protections to threatened species such as the Bengal florican, hispid hare, hog deer, and greater one-horned rhinoceros. The Assam government was recently right to laud the efforts of a captive breeding programme that increased the pygmy hog population in the State 32-fold in the last three decades. Breeding from a small founder stock while preventing diseases — suids are highly susceptible to swine diseases — and inbreeding requires conservationists to track pedigree, follow biosafety protocols, and condition individuals before release. That said, the species’ survival in the wild depends on the survival of specific ecosystems, and the latter remains a work in progress. The pygmy hog was believed to be extinct by the mid-20th century as floodplains were converted for farms, tea plantations, and flood control infrastructure and were degraded by invasive plants and altered flood cycles, with the unscientific burning of grasslands further fragmenting habitats. A few individuals were rediscovered in 1971, prompting one conservation effort. The current efforts are due to the Pygmy Hog Conservation Programme from 1995.
+
+Even now, the difficulty of spotting and counting these animals means that it is hard to say how many exist in the wild; per the Durrell Wildlife Conservation Trust, there were some 250 individuals in early 2025, with the last surviving natural population in the Panbari grasslands area of the Manas National Park. Since they continue to be threatened, the captive individuals form the insurance group, but even so, the group’s long-term evolutionary fitness is still not guaranteed. Researchers are also alert to the accumulation of harmful gene variants in the population and low genetic diversity, and thus look forward to the pygmy hog’s natural habitats being restored. Alluvial floodplains are dynamic ecosystems; in addition to threats such as land conversion, efforts to ‘save’ them, such as widespread dry-season fires, can still destroy the dense cover the pygmy hog needs. On the other hand, suppressing ecological processes can leave trees and shrubs to turn grassland into woodland. Given the plan to increase the wild pygmy hog population to 300 by 2040, Assam needs to revert the fragmentation of its protected grasslands, especially in Rupahi and Kanchanbari, and to restore buffer zones around the Manas and Orang National Parks and the Sonai Rupai Wildlife Sanctuary.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/hog-in-the-limelight-on-assams-pygmy-hog-programme/article71472854.ece)
+
+---
+
+### Nationalism beyond borders, the question of loyalty
+*The Hindu · Opinion*
+
+A section of Hindu nationalists in India has long questioned the national loyalty of its religious minorities. Under attack, Muslims and Christians have often sought to affirm their loyalty to the nation. But in a curious turn of history, the Rashtriya Swayamsevak Sangh (RSS), a key platform of Hindu nationalism, is now explaining to the world that loyalty to a nation is not determined by the faith traditions of its citizens.
+
+“There is no conflict in being Indian and being a citizen of another country for a Hindu,” RSS chief Mohan Bhagwat said. At an event titled Celebrate Oneness/Celebration of Oneness in London, on September 6, 2026, Mr. Bhagwat said: “If British Hindus are good, committed, and true Hindus, there will never be a conflict between British and Bharat interests. If at all that happens, it is obvious that British Hindus will go with Britain. Exceptions may happen, but Hindutva is clear on this. Your Karmabhoomi is where your loyalties lie. Your Janmabhoomi, or land of your origin or your birthplace, Punyabhoomi or Janmabhoomi, is where you get your values, and you have to live those values in your Karmabhoomi, serving the Karmabhoomi. So, Hindutva never asks you to betray your Karmabhoomi. You are living there, you are earning there, you are living there,” he said.
+
+[Read full article](https://www.thehindu.com/opinion/lead/nationalism-beyond-borders-the-question-of-loyalty/article71473424.ece)
+
+---
+
+### AI alarm is a call to slow down
+*Deccan Herald · Editorial*
+
+Science has always seen the cheer around its progress tempered with grim predictions on what could go wrong. Some of these have come true. Writers of science fiction have dabbled with extreme scenarios – from time travel to the eradication of the human race. These projections, typically set in distant time and worlds, have stayed closer to fiction than verifiable truth. But what Jacob Coxon, a former Anthropic researcher, says – that AI could kill us all by the end of the decade – is a threat that is real and immediate. AI scientists have in the past raised concerns about the consequences of their work and felt morally culpable for them. Nobel laureate and the ‘Godfather of AI’, Geoffrey Hinton, has expressed regret over his work.
+
+Since Coxon issued his warning, Dario Amodei, the CEO of Anthropic, has sought a slower pace for AI model development. He termed the associated risks serious and said companies and governments should be given time to address the evolving risks. Sam Altman of OpenAI and Elon Musk of SpaceX have since agreed with Amodei. Altman also said OpenAI would not go for its Initial Public Offering (IPO) this year because of safety concerns over AI. He said even a 10% risk of human extinction was serious enough for AI companies to act. Anthropic also revealed last week that it had stopped attempts by malicious actors to exploit its AI models for cyberattacks, surveillance, and the development of biological weapons.
+
+Rubrik unveils AI-powered Code Guardian to detect complex security flawsCoxon’s warning concerns companies testing self-improving models which could go out of control and act against their creators. The threat has parallels in the story of Bhasmasura and other fables about the perils of unchecked power. Every advance in technology has been followed by discussions about the potential for misuse. There were serious warnings about the destructive power of nuclear energy. However, the worries about AI are of a different scale. While in the other cases, the threat emanated from humans abusing the science or technology, by design or accident, Coxon’s words point to the possibility of technology taking control of humans. It is difficult to see companies competing in business slowing down or governments trying to wield ever more dangerous weapons controlling the companies. The projections of rapidly improving AI capabilities make a case for a comprehensive regulatory framework. However, considering the competitive and sensitive nature of AI work, it is difficult to imagine a consensus on who can regulate it and how.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/ai-alarm-is-a-call-to-slow-down-4148736)
+
+---
+
+### Conservation must follow the elephants
+*Deccan Herald · Editorial*
+
+Karnataka, home to more than 6,000 elephants – their largest population in India – is witnessing a persistent human-elephant conflict over space. A Wildlife Institute of India (WII) study of major elephant-bearing forest divisions between 2000 and 2025 recorded 755 conflict incidents, claiming 522 human lives and injuring many others. Elephant deaths linked to human activity numbered 216, including 144 from electrocution and 41 from poaching. The toll underlines how costly these encounters are for both people and wildlife. The study’s significance lies in its rejection of a one-size-fits-all approach. Conflict is concentrated in identifiable landscapes and hotspots, with Hassan recording the highest human casualties, followed by Kodagu. Incidents occur throughout the year, peaking during the monsoon, with crop cycles, water availability, and elephant movement shaping the seasonal pattern.
+
+The causes are not difficult to identify. Reduction of natural feeding areas due to fragmentation and degradation of forests, obstruction of traditional corridors, and expanding road and rail networks force herds into farms and settlements, while irrigated cultivation at forest edges draws them further out of the woods. As human habitation expands and elephant populations remain high, competition for space and resources intensifies. WII has therefore recommended mapping conflict landscapes and tailoring responses to local conservation and co-existence needs. Areas of concentrated elephant deaths require inspection and modification of power lines and fences, removal of illegal connections, securing of open wells and drains, and greater attention to infrastructure development. Human-casualty hotspots need reliable early-warning systems, rapid communication with forest personnel, and safer methods of guarding crops. Habitat restoration and protection of elephant corridors must form the long-term response. Improving food and water availability within forests can reduce the incentive for elephants to venture into farms. Tracking, radio-collaring, and specialised intervention may have a role in chronic hotspots.
+
+Karnataka: 2 wild elephants in Kodagu get radio collars The proposed five-year regional action plan covering Andhra Pradesh, Karnataka, Kerala, and Tamil Nadu, with an outlay of Rs 999.87 crore, recognises the larger reality of a problem rooted in landscape fragmentation. Mapping movement routes, removing bottlenecks, strengthening alerts, involving communities, and improving scientific monitoring will require coordination across state boundaries. Regular coordination can help ensure elephants are managed according to their natural range, not administrative borders. Karnataka cannot eliminate conflict. The sustainable answer is to reduce encounters by giving elephants secure space to move and communities the means to stay safe. Conservation and human safety need not compete if policy follows the landscape rather than the map.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/conservation-must-follow-the-elephants-4148735)
+
+---
+
+### Are India’s engineering colleges ready for technological self-reliance?
+*Deccan Herald · Opinion*
+
+Fifty years ago, engineering students used drafting boards and T-squares; hands-on skills in carpentry and machining were prized. Today, students need to get into quantum computing, machine learning, and cyber systems.
+
+An important question arises: are our academic institutions keeping up with technologies that are being constantly upgraded? Progress has mistakenly been perceived by institutions as a mix of science, engineering, technology, and manufacturing. However, technology and engineering are distinct from pure science, but at the same time equally important for national growth.
+
+While pure sciences explore the question of why, engineering needs to focus on the question of ‘how do we build this for social utility?’ Engineering is an integral component of technology, and must be distinguished from manufacturing, which, in turn, involves replication and supply chain optimisation, with a focus on consistently producing a pre-designed object. India's ambition to become technologically sovereign will fall short if it merely assembles electronic components designed elsewhere. This is especially true in semiconductors, where local companies put together components manufactured elsewhere.
+
+India promised 6% of GDP for education. Six years after NEP 2020, spending is still stuckSophisticated digital manual labourers
+
+Indian classrooms remain stuck in mid-20th-century paradigms. Because of the huge increase in the number of sub-standard engineering colleges, quality has been compromised. These colleges and institutions have shifted their focus from education to certification, relying on rote learning that stifles curiosity and prioritises grades over critical thinking. Laboratories often serve as static environments for rote experiments rather than fostering genuine exploration.
+
+The best minds produced by our ‘premier’ institutions are routinely shunted into back-office software maintenance, outsourced IT services, and routine coding for multinational corporations. We have converted our brightest talent into highly sophisticated digital manual labourers, in other words, computer coolies, optimising software written elsewhere rather than inventing core architectures, developing impactful algorithms and physical infrastructure that the nation desperately requires.
+
+In this context, it is instructive to note that in the June address on ‘The State of Science 2025’, by the president of the National Academy of Sciences of the United States identified 64 emerging and disruptive technologies that spanned advanced manufacturing, quantum computing, and biotechnology. China led in 57 of these 64 technologies, with the US trailing as a distant second. India was nowhere in this list.
+
+A radical restructure
+
+To reverse this institutional decay, engineering colleges in India must radically restructure both what they teach and how they teach it. Artificial Intelligence (AI) cannot be relegated to a single, isolated course; it must be integral to every single engineering discipline. However, such integration demands new pedagogy.
+
+Students cannot be allowed to passively consume AI-generated outputs. If a civil engineering student asks an AI model to design a building, it will generate something immediately. The student's task is then to rigorously verify the AI result — a task that can be done only by a human. AI accelerates the workflow, but it does not replace the human component of reasoning in any creative task. It cannot be treated as a replacement for human intellect; but rather as a bicycle for the mind, accelerating capability under strict human direction and control.
+
+Engineers’ Day 2026: AI is changing engineering education and jobs. Are students prepared?Moving to the practical, cloud computing and AI require physical infrastructure that is highly resource-intensive. Building massive data centres that consume millions of litres of water in water-stressed regions is a failure of engineering ethics. The demand for copper metal will rise inexorably because the flux of electricity needed for even moderate AI servers is very large. Where will India get all this copper, and at what price, given the scale involved?
+
+Refashioning technology for India
+
+Colleges must teach students to evaluate holistic impact, encourage them to engage with policymakers and question policy decisions, and to design decentralised, lower-consumption models. Technical education must bridge the gap between innovation and governance. If engineering research cannot translate into a scalable policy intervention that addresses localised healthcare, clean drinking water distribution, sustainable agriculture, and decentralised energy in tier-two and tier-three cities and rural areas, it will fail the test of national utility.
+
+How do we make this transformation a uniquely Indian experience? Refashioning technology for India necessitates radical structural and conceptual changes tailored to our national ethos. The bedrock of any world-class institution rests on three non-negotiable principles: Truth, Trust, and Integrity.
+
+A uniquely Indian educational model must dismantle the stifling, hierarchical administrative structures of the past. Academic leaders must empower faculty and scholars rather than seeking personal aggrandisement. When transparent, trust-embedded governance ecosystems are established — enforcing uncompromising standards of research integrity and swift action against academic misconduct, faculty and students will be empowered to undertake bold, high-risk research.
+
+What is required now is a fundamental mindset shift. Policymakers have wrongly clubbed ‘Science’ and ‘Technology’ together under a single ‘S & T’ label. This has been a fundamental error. Technology and Science are independent silos that establish separate frameworks that reward creation over memorisation while instilling an uncompromising culture of academic integrity.
+
+Only by making several course corrections can India provide its aspirational millions with the appropriate opportunities to construct a sovereign technological future.
+
+Gautam Desiraju is Professor Emeritus, Indian Institute of Science and Dean, SASTech School of Technology, Rishihood University, Sonipat.
+
+Mirle Surappa is at NIAS, Bengaluru and a founder Director of IIT Ropar and former Vice–Chancellor, Anna University.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/are-indias-engineering-colleges-ready-for-technological-self-reliance-4149139)
+
+---
+
+### India’s EV grid needs a common language
+*Deccan Herald · Opinion*
+
+Imagine an EV driver pulling into a highway charging plaza with a critically low battery, only to find five vacant fast chargers they cannot use because they lack the right app, wallet, or RFID card.
+
+This friction stands in contrast to India’s rapid infrastructure expansion. According to the Ministry of Heavy Industries, India had installed 29,151 public EV charging stations as of February.
+
+It points to an important shift. The next phase of EV adoption will depend not only on how many chargers India installs, but on how easily drivers can use them. Interoperability can turn scattered charging points into a reliable network that works across brands, operators, and locations.
+
+Three pillars of a frictionless grid
+
+EV charging needs the kind of simplicity USB Type-C charging brought to personal devices: plug in without having to think about compatibility. But for EVs, that experience requires more than a universal plug. A genuinely interoperable network must work across three layers: physical connection, digital communication, and cross-network access and payment.
+
+While hardware standardisation is progressing, the bigger friction has shifted to software and payment access. Many Charge Point Operators (CPOs) continue to operate within closed ecosystems, forcing drivers to manage multiple apps across networks. This reduces convenience for drivers, creates billing complexity for fleets, lowers charger utilisation for operators, and can weaken confidence in EV ownership.
+
+The goal, therefore, is not simply a common plug. It is a charging experience in which the vehicle, charger, network, and payment systems can work together with minimal effort from the driver.
+
+Learning from global markets
+
+Some global markets are already moving toward this experience. The EU’s Alternative Fuels Infrastructure Regulation (AFIR), for example, requires ad hoc payment options at public charging points, reducing dependence on operator-specific apps or subscriptions.
+
+The principle is similar to mobile roaming. When people travel, their phones can connect to partner networks without requiring a new SIM card. EV charging should become just as predictable: arrive, connect, pay, and continue the journey regardless of who operates the station.
+
+India is investing heavily in charging infrastructure. Under the PM E-DRIVE scheme, Rs 2,000 crore has been allocated toward public charging infrastructure, with plans for more than 72,000 chargers. The Ministry of Power has also classified EV charging as an unlicensed activity, helping lower barriers for new operators.
+
+But expanding supply is only part of the challenge. Drivers also need to know where chargers are, whether they are available, and whether they can access and pay for them easily.
+
+The BHEL-led unified EV ‘Super App’ is one effort to bring charger availability and payment access across networks into a common interface. Standards such as OCPI can help charging networks share data, while Unified Bharat e-Charge, built on the Beckn Protocol, aims to make discovery and transactions across networks easier. OCPP supports charger-to-system communication, while ISO 15118 supports communication between vehicles and charging infrastructure.
+
+For drivers, however, the technology underneath should become almost invisible. What matters is whether charging simply works.
+
+The critical role of AI
+
+As more vehicles, chargers, operators, and systems connect, keeping the network reliable becomes harder. This is where AI can help.
+
+AI does not create interoperability, standards and network agreements do that. But AI can help operators detect faults, predict maintenance needs, anticipate demand, manage electricity loads, and identify patterns behind failed charging sessions.
+
+In simple terms, interoperability connects the ecosystem; AI can help keep it running reliably.
+
+Early EV adopters may have accepted multiple apps, cards, and charging networks as part of trying new technology. Mass-market users will expect charging to be simple, reliable, and convenient.
+
+That is why adding more chargers alone will not be enough. True interoperability is what turns separate charging points into a network people can trust and use with confidence.
+
+The standards, technology, and investment are already taking shape. What remains is for regulators and the industry to bring charging networks closer together, so drivers can move seamlessly between them without juggling different apps, accounts, or payment methods.
+
+Arun Kumar Ravi Kumar is director - Automotive & Smart Mobility Solutions, Experion Technologies.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/indias-ev-grid-needs-a-common-language-4149140)
+
+---
 
 ## 16 September 2026
 
