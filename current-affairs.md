@@ -1,3 +1,590 @@
+## 17 September 2026
+
+### 'Every Blessing Strengthens My Resolve': PM Modi Hails 'Aashirwad Ka Diya' Campaign On His 76th Birthday
+*Prisha Vibhavari · general*
+
+PM Modi praised BJP's Aashirwad Ka Diya campaign on his 76th birthday, calling it an "expression of affection" that strengthened his resolve to serve India.
+
+[Read full article](https://www.news18.com/india/every-blessing-strengthens-my-resolve-pm-modi-hails-aashirwad-ka-diya-campaign-on-his-76th-birthday-ws-l-10335428.html)
+
+---
+
+### 'Energy Security Of 1.4 Billion Remains Priority': India After US Passes Russia Sanctions Bill
+*Apoorva Misra · general*
+
+MEA said the issue had been discussed at a high level with several US interlocutors in recent months, with India articulating the possible implications of the proposed measures
+
+[Read full article](https://www.news18.com/india/energy-security-of-1-4-billion-remains-priority-india-after-us-passes-russia-sanctions-bill-10335405.html)
+
+---
+
+### Free Train Travel For Life: New Railway Benefit For Gallantry Award Winners From November 1 | How To Register
+*Parishmita Saikia · general*
+
+A new railway benefit will give gallantry awardees lifelong free train travel. Their eligible family members will also be covered under the scheme
+
+[Read full article](https://www.news18.com/photogallery/india/free-train-travel-for-life-new-railway-benefit-for-gallantry-award-winners-from-november-1-how-to-register-ws-l-10335315.html)
+
+---
+
+### PM Modi Turns 76: BJP Begins ‘Seva Sankalp Abhiyan’ To Mark 25 Years Of Public Service
+*Aanchal Sinha · general*
+
+The nationwide campaign is expected to feature various public outreach and service-oriented programmes throughout the month.
+
+[Read full article](https://www.news18.com/india/pm-modi-turns-76-bjp-begins-seva-sankalp-abhiyan-to-mark-25-years-of-public-service-ws-kl-10335379.html)
+
+---
+
+### NASA discovers Colosseum-sized Moon crater from once-in-132-year impact
+*SECTIONS NASA discovers Colosseum-sized Moon crater · world*
+
+Scientists have uncovered a massive, steep-sided crater on the moon resulting from a powerful impact two years ago that initially went undetected. Measuring approximately 728 feet across and up to 141 feet deep, a size larger than the Roman Colosseum, the hole represents the solar system's largest known impact crater formed in recent times.
+
+Researchers estimate that a large-scale event of this magnitude occurs only once every 132 years.
+
+“This event constitutes a statistically rare, effectively once-in-a-lifetime observation,” the scientists wrote in one of two studies appearing on the subject Wednesday in the journal Science Advances.
+
+  
+
+NASA's Lunar Reconnaissance Orbiter (LRO) first captured the formation in May 2024, shortly after an incoming fragment of an asteroid or comet struck the lunar surface. The collision escaped real-time detection by telescopes both on Earth and in space. LRO's wide-angle images were not identified in the initial crush of data until August 2025. The spacecraft gathered higher-resolution imagery last fall, leading to formal confirmation of the discovery early this year.
+
+It is named after the late Thomas McGetchin, a former director of Houston's Lunar and Planetary Institute, is three times larger than the previous record-holder discovered by the LRO a decade ago. While the moon features ancient formations stretching up to 2,400 kilometres across, this recent strike churned the surface across an area exceeding 100 kilometres.
+
+According to Mark Robinson, chief scientist for the LRO's cameras at Intuitive Machines and lead author of one study, dust and rocky soil were thrown outward at a higher angle than anticipated.
+
+A companion study documented a 7-kilometre-wide "cold spot" encircling the crater, caused by the loosening of the topsoil. Co-author David Paige of the University of California, Los Angeles, compared the phenomenon to agricultural soil preparation.
+
+“We're now thinking of impacts as a way to garden the regolith, churning the sediments and putting stuff above that's usually below the surface,” Paige said in a statement.
+
+Data gathered by the LRO since its 2009 launch indicates that ejected material overturns the top inch (2 cm) of lunar soil every 80,000 years, a rate significantly faster than past estimates.
+
+Contrary to the popular belief that the Apollo moonwalkers' dusty lunar footprints will last forever, they will “definitely be long gone in that time frame,” Robinson said in an email.
+
+The immediate priority for researchers is calculating the risk posed by high-velocity impact debris to planned lunar infrastructure.
+
+“That information will help engineers harden structures so one won't have to worry about damage, or maybe worry less,” Robinson added.
+
+_(With inputs from agency)_
+
+---
+
+### 'Ashirwad Ka Diya': Artists Dedicate Special Song To PM Modi On 76th Birthday
+*Pragati Ratti · general*
+
+The track comes as the BJP has also launched its ‘Ashirwad Ka Diya’ initiative as part of the birthday celebrations.
+
+[Read full article](https://www.news18.com/india/ashirwad-ka-diya-artists-dedicate-special-song-to-pm-modi-on-76th-birthday-ws-l-10335420.html)
+
+---
+
+### Determined to protect trade, economic interests: India on US Russia sanctions bill
+*India Today News Desk · general*
+
+## Reacting to the US Congress passing the sweeping Russia sanctions bill, the government said that it remained committed to ensuring energy security for 1.4 billion people and would continue to pursue it through diversified sourcing and based on evolving market dynamics.
+
+India has reacted to the US Congress passing a Russia sanctions bill that could impose 100% tariffs on India. (PTI Photo)
+
+India on Thursday said it was determined to protect its trade and economic interests after the US House of Representatives passed a sweeping Russia sanctions bill that will impose tariffs of up to 100% on countries including India and China over their purchases of Russian oil and gas.
+
+In a statement, the External Affairs Ministry said the government remained committed to ensuring energy security for 1.4 billion people and would continue to pursue it through diversified sourcing and based on evolving market dynamics.
+
+It said the issue had been discussed at high levels with various US interlocutors in recent months, with India clearly articulating the potential implications of the legislation for both bilateral ties and the international energy market.
+
+“The Indian side has also made clear its determination to take all necessary measures to protect its trade and economic interests,” the ministry said, adding that it would work closely with trade and industry bodies to deal with the implications of the US move.
+
+On Wednesday, the US House passed the legislation, formally called the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, by a 262-159 vote.
+
+It allows tariffs of up to 100 per cent on countries that continue buying Russian oil and gas, with India and China specifically identified during the House debate as major buyers that could be affected.
+
+The bill had already cleared the US Senate by an 86-11 vote last month and it now heads to the White House, where US President Donald Trump is expected to sign it into law.
+
+The legislation seeks to increase economic pressure on Moscow over its war in Ukraine by targeting Russia's energy and defence sectors as well as its so-called “shadow fleet” of tankers accused of helping Moscow evade existing sanctions.
+
+It also provides for additional sanctions on Iran.
+
+### HOW THE BILL COULD AFFECT INDIA
+
+India’s inclusion in the legislation does not mean that a 100 per cent tariff has been imposed on Indian goods. The bill would instead give Trump the authority to impose tariffs of up to 100 per cent on countries that continue to buy Russian oil and gas, if the relevant provisions are triggered.
+
+The provision is still significant for India because it remains a major buyer of Russian crude.
+
+Russian oil became increasingly important to Indian refiners after Western sanctions following the war in Ukraine reshaped global energy flows.
+
+The US has sought to put economic pressure on countries purchasing Russian energy, arguing that oil and gas revenues provide Moscow with a key source of funding for the war.
+
+If Washington were to use the authority provided under the legislation against India, the impact would primarily be felt through Indian exports to the US.
+
+A tariff of up to 100 per cent could sharply raise the cost of Indian products in the American market, potentially affecting their competitiveness.
+
+\- Ends
+
+Sep 17, 2026 10:08 IST
+
+---
+
+### Dhol, DJ and Ganpati processions: How much noise is too much for your ears?
+*Smarica Pant · general*
+
+## Dhols, DJ music, loudspeakers and firecrackers can expose people to very high levels of sound during festive processions. An ENT specialist explains why ringing, muffled hearing and blocked ears after a procession should not be ignored.
+
+Close-up of a female doctor examines the patient's ear with an otoscope
+
+Ganpati processions are known for their music, dancing and celebrations, with loud dhols, DJ music, loudspeakers and sometimes firecrackers becoming a major part of the festivities. While these sounds add to the excitement, spending several hours in a very noisy environment can put considerable stress on the ears.
+
+The risk does not depend only on how loud the sound is. The distance from the sound source and the amount of time a person spends around it also matter. Someone standing directly next to a DJ speaker or a group of dhol players can be exposed to much higher sound levels than someone standing farther away.
+
+Dr KVSSRK Sastry, Consultant Endoscopic ENT Surgeon, Yashoda Hospitals, Hyderabad, said people should pay attention to changes in their hearing after being exposed to loud sounds. Temporary ringing, buzzing or muffled hearing can be early signs that the ears have been exposed to excessive noise.
+
+### RINGING IN THE EARS CAN BE AN EARLY WARNING SIGN
+
+One of the common symptoms after exposure to loud music or other intense sounds is temporary ringing or buzzing in the ears. Some people may also feel that their hearing has become muffled or that sounds are not as clear as they normally are.
+
+These symptoms may improve after a person moves away from the noisy environment. However, they indicate that the ears have been exposed to more noise than they are comfortable with.
+
+If such symptoms occur frequently after attending processions, concerts or other loud events, they should not simply be ignored.
+
+### REPEATED LOUD NOISE CAN DAMAGE THE INNER EAR
+
+The inner ear contains tiny sensory hair cells that play an important role in hearing. Repeated exposure to very loud sounds can damage these delicate cells.
+
+Once permanently damaged, these sensory cells do not naturally regenerate. Continued exposure to loud noise can therefore contribute to noise induced hearing loss and persistent tinnitus, where a person continues to hear ringing or buzzing even when there is no external sound.
+
+Hearing loss can be partial or complete, and it may be temporary or permanent. If hearing problems are not assessed and treated at the earliest when medical intervention is needed, the condition may become more difficult to manage.
+
+### DISTANCE FROM THE SOUND SOURCE MATTERS
+
+People do not have to avoid Ganpati celebrations to protect their hearing. One of the simplest precautions is to maintain a safe distance from the loudest sources of sound.
+
+Dr Sastry advised people to avoid standing too close to DJ speakers, dhol groups and large loudspeakers. The closer a person is to the source, the greater the intensity of sound reaching the ears.
+
+People who remain part of a procession for several hours should also take regular breaks. Moving to a quieter area allows the ears to get a break from continuous loud noise.
+
+### CHILDREN NEED EXTRA PROTECTION
+
+Children can also be vulnerable to loud sounds during festive celebrations. Parents should avoid keeping children close to DJs, large speakers, dhol groups or firecrackers for long periods.
+
+For particularly loud events, earplugs or other suitable hearing protection can provide additional protection. Parents should also watch for signs such as children complaining that sounds are unclear, experiencing ringing in their ears or showing discomfort after prolonged exposure to noise.
+
+### DO NOT IGNORE PERSISTENT HEARING PROBLEMS
+
+Ringing or muffled hearing immediately after exposure to loud noise may improve after leaving the environment. But if the symptoms continue, they should not be dismissed as a normal reaction to the noise.
+
+According to Dr Sastry, people should seek help from an ENT specialist if they continue to experience ringing, muffled hearing, ear pain or a feeling of blocked ears after leaving a noisy environment.
+
+The message is not to stay away from celebrations, but to reduce unnecessary exposure to extremely loud sounds. Keeping a safe distance from speakers and dhols, taking breaks in quieter areas and using appropriate hearing protection when required can help people enjoy Ganpati celebrations while also protecting their hearing.
+
+\- Ends
+
+Smarica Pant
+
+Sep 17, 2026 10:04 IST
+
+---
+
+### Onion prices remain near Rs 70 despite govt intervention. What’s keeping them high?
+*India Today Business Desk · general*
+
+## The government is releasing onions at Rs 35 a kg, yet many households are paying almost twice that. So why isn't the intervention bringing prices down?
+
+The all-India average retail price of onion stood at Rs 53.84 per kg on September 16, up nearly 94% from Rs 27.71 a year ago.
+
+The government is selling onions from its buffer stock at Rs 35 a kg, but consumers in several parts of the country are still paying around Rs 60-70 a kg, and prices could be even higher in some markets.
+
+The all-India average retail price of onion stood at Rs 53.84 per kg on September 16, up nearly 94% from Rs 27.71 a year ago, according to the Department of Consumer Affairs. The average wholesale price was Rs 45.65 per kg.
+
+The sharp gap between the government's Rs 35 onion and the price many households are paying highlights the challenge of getting buffer stocks from producing centres to consumers at scale.
+
+The government began releasing onions from its Price Stabilisation Fund buffer on August 24. It has been using NCCF, NAFED, Kendriya Bhandar and mobile vans to sell onions at Rs 35 a kg, while railway rakes and trucks are being used to move supplies from producing regions to major consumption centres.
+
+The government says the intervention is already having an impact in some markets. It has expanded the buffer-stock operation to 19 cities, using the Kanda Express railway service and more than 30 trucks to move onions to consumption centres.
+
+But the pressure has not disappeared.
+
+The government itself has identified the rabi-to-kharif transition as a period when onion prices typically rise. Stored rabi onions gradually run down before the next crop arrives, creating a temporary supply squeeze. It may be noted that the government's own guidelines say buffer onions are released during the lean season, typically from September to December, to help keep prices affordable.
+
+This year, the transition has been complicated by delayed kharif sowing in some major producing regions. In July, the government said kharif sowing in the Nashik region was around 15 days behind schedule, while sowing in the Chitradurga-Challakere belt of Karnataka was estimated at around 60% of normal.
+
+Weather has added to the uncertainty. The government had earlier flagged the effect of delayed monsoon conditions and said speculative buying by some traders was also contributing to market sentiment around onion prices.
+
+The government, however, maintains that India does not have an overall onion shortage. Its 2025-26 production estimate stands at 307.37 lakh tonnes, broadly unchanged from 307.67 lakh tonnes the previous year. It had also said stocks in Maharashtra, Madhya Pradesh and Gujarat were adequate when it assessed the situation in July.
+
+It had set a target of procuring 2 lakh tonnes of rabi onions for the 2026-27 buffer and had procured around 1.21 lakh tonnes. The buffer is meant to provide supplies during lean months and prevent sharp seasonal price spikes.
+
+The government has also raised the procurement price paid for onions entering the buffer from Rs 1,875 to Rs 2,125 per quintal, or Rs 21.25 a kg, to provide farmers better returns while strengthening buffer procurement.
+
+There is therefore a delicate balancing act underway. Release too little and consumers continue to feel the pinch; release too much and the government has less buffer to rely on during the remaining lean period.
+
+For now, the government's intervention is visible, but so is the price gap. A household able to access a government outlet can buy onions at Rs 35 a kg. A household shopping in the open market may pay nearly twice that.
+
+The next big test will be fresh kharif arrivals. If supplies begin reaching mandis in larger quantities, prices should get some relief. Until then, shrinking rabi stocks, delayed arrivals and uneven distribution of buffer onions could keep the humble kitchen staple unusually expensive.
+
+\- Ends
+
+Koustav Das
+
+Sep 17, 2026 10:03 IST
+
+---
+
+### LCC Projects IPO Lists At 29% Premium; Shares Debut At Rs 189 Against Issue Price of Rs 146
+*Unknown · business*
+
+
+
+[Read full article](https://www.news18.com/business/markets/lcc-projects-ipo-lists-at-29-premium-shares-debut-at-rs-189-against-issue-price-of-rs-146-10335344.html)
+
+---
+
+### EPF calculation: Rs 50,000 basic salary, 6% annual hike, 8.25% interest — how much will you get after 30 years? - How you can build Rs 2.52 cr corpus
+*ET Online · finance*
+
+Sep 17, 2026, 10:03:04 AM IST
+
+1/4
+
+## How you can build Rs 2.52 cr corpus
+
+The Employees’ Provident Fund (EPF) is the key scheme for a large number of organised sector employees to build a retirement corpus. With the government approving the increase of the EPF wage ceiling from Rs 15,000 to Rs 25,000, lakhs of new employees are estimated to benefit from the decision. But how can the EPF help employees build a substantial retirement fund that can take care of their expenses in retirement. If a 30-year-old employee has a basic salary of Rs 50,000 and wants to contribute to their EPF account till the age of 60, is it possible for them to build a Rs 2.52 crore retirement corpus?  
+
+ET Online
+
+2/4
+
+## How much can an employee build a Rs 2.52 crore corpus through the EPF?
+
+The EPF offers an 8.25% interest rate compounded yearly to its subscribers. The government reviews the rate every year, and has changed it many times in the past. However, for the retirement corpus calculation, we are considering that the rate will remain constant at 8.25% for the next 30 years. We are also assuming that the 30-year-old employee who has a basic pay of Rs 50,000 will see their payout increase by 6% annually, and hence, their annual EPF contribution will also increase by the same percentage.
+
+The employee will contribute 12% of their basic pay to their EPF corpus, while the employer’s contribution will be 3.67% of the employee’s basic pay.
+
+ET Online
+
+3/4
+
+## EPF retirement corpus calculation
+
+**Particulars Details**  
+Basic salaryRs 50,000 per month  
+EPF interest rate 8.25%  
+Employee EPF contribution 12%  
+Investment period 30 years  
+Annual salary increase 6%  
+EPF maturity amount Rs 2,52,73,251  
+Total EPF contributions Rs 79,73,251  
+Total interest earned Rs 1,73,00,000
+
+Hence, you can see that an employee may build an over-Rs 2.52 crore retirement corpus in 30 years.
+
+ET Online
+
+4/4
+
+## Can employees make an EPF contribution in excess of the statutory rate of 12%?
+
+Yes. In addition to their regular contribution of 12% of Rs 15,000, an EPF member may make voluntary contributions. The monthly total contribution, which includes both required and voluntary contributions, can reach Rs 15,000. The statutory rate may be the limit of the employer's own share.  
+
+ET Online
+
+---
+
+### Russia starts Duma vote as war and drone strikes strain economy
+*India Today World Desk · general*
+
+## Russia has opened three days of parliamentary voting with United Russia expected to retain control. The poll is meant to project backing for the war even as drone strikes, economic strain and repression deepen unease.
+
+Stock photo used for illustration
+
+Russia begins three days of voting for its parliamentary election on Friday, with the result widely seen as decided in advance but the political backdrop far more difficult than in recent years. The war in Ukraine and repeated drone attacks have hurt the economy, damaged oil refineries and logistics hubs, and deepened public anxiety, even as the Kremlin moves to keep a tight grip on the first State Duma election since the 2022 invasion.
+
+United Russia, the main Kremlin party, is expected to retain its overwhelming hold on the lower house of parliament, along with a few other parties that vote in line with President Vladimir Putin. Analysts say the Kremlin sees the election as a way to show public backing for the war and to legitimise its actions. In an address before the vote, Putin said: "Your choice and resolve will once again demonstrate that millions of people stand behind our fighters, that we are a united people, bound by shared values, historical memory, and love for the Motherland."
+
+The Kremlin moved to crush even limited dissent before the vote. The only party that openly criticised the war, Yabloko, was first cleared by the Central Election Commission in July along with 10 other parties, but was later removed from the ballot by the Supreme Court after an appeal by the nationalist Motherland party. The appeal argued that Yabloko's anti-war stand was similar to calling for the violation of Russia's territorial integrity.
+
+Kremlin watchers said the move pointed to tensions within the system between those who wanted some appearance of competition to lift turnout and those who feared open criticism of the war. Tatyana Stanovaya of the Carnegie Russia Eurasia Center said, "The risks that the campaign would turn into a struggle for and against peace - that is, a dispute about the war - were quite high, and this clearly was not part of the plan." Anti-war politicians have also faced jail or exile. Yabloko deputy chairman Maxim Kruglov was sentenced in June to seven years in prison for spreading false information about the Russian army. Last month, a court in the Pskov region sentenced Yabloko member Lev Shlosberg to more than 11 years in prison for speaking out against the war. Authorities have also barred many Yabloko members from running in single-seat races for the Duma and regional legislatures. Liberal politician Boris Nadezhdin, who tried to challenge Putin in the 2024 presidential election, left Russia last month after being labelled a "foreign agent", barred from office and fined for displaying "extremist symbols".
+
+The pressure on the Kremlin has also grown because of a summer of Ukrainian long-range drone strikes that brought the war closer to daily life for many Russians. The attacks worsened economic problems as military spending lost its earlier boost. The government raised taxes and increased domestic borrowing to manage a growing budget deficit. Strikes on oil refineries triggered a serious fuel crisis that peaked in June, eased for a few weeks and then returned in August. Attacks on warehouses of online retailers Wildberries and Ozon added to the disruption, with hundreds of thousands of sellers losing their goods.
+
+That has affected public mood. The independent Levada Center put Putin's approval rating at 76 per cent in August, down from 87 per cent in September 2025, though it remained high. Some senior figures also voiced concern. Andrei Klepach, chief economist at the state VEB.RF bank, warned at a seminar: "We won't win the competition in this war of attrition. Our costs are mounting. I'm almost sure that we will come to face a social crisis." He was dismissed a day after his comments were published.
+
+Putin has acknowledged that attacks on oil refineries and logistics hubs caused significant damage, but said the economy could withstand it. He said Ukraine, by striking such infrastructure, had opened a "Pandora's box" and invited massive retaliation. Russia has since stepped up attacks on Kyiv and other cities with missiles and new jet-powered drones, taking advantage of Ukraine's shortage of defensive interceptors. It has also sharply increased strikes on Odesa and other Black Sea ports, disrupting exports of grain and other farm products.
+
+As the impact of the attacks spread across Russia, fears grew that the Kremlin could order a new large-scale mobilisation. A partial mobilisation of 300,000 reservists in 2022 led hundreds of thousands of Russians to leave the country. Since then, the Kremlin has relied on volunteers, offering relatively high wages and other benefits, though military experts have warned that the flow of volunteers has slowed while losses remain heavy. Ukrainian President Volodymyr Zelenskyy has repeatedly said the Kremlin is considering a post-election mobilisation, but Putin has dismissed that as "nonsense". At a Sept. 5 Kremlin meeting with US envoys Steve Witkoff and Jared Kushner and in a later call with President Donald Trump, Putin said Russia had the upper hand on the battlefield, suggesting he would stick to his maximalist demands in any peace deal.
+
+Even with public fatigue over the war and a worsening economy, United Russia, which holds more than two-thirds of the Duma's 450 seats, is expected to remain dominant. Some Russian reports say the Kremlin has slightly lowered its target for the party, but still expects it to keep full control. Analyst Mark Galeotti, who heads the Mayak Intelligence consultancy, said, "United Russia may be allowed to slip a little to bring its actual sort of declared results more in line with probably its real results," but added that the Kremlin would make sure it "is still absolutely dominant within the Duma." He said the elections were meant to serve as "legitimating rituals to give the impression that mass consensus is behind the Kremlin".
+
+The other parties in the so-called systemic opposition — the Communist Party, the Liberal-Democratic Party and A Just Russia — are also expected to keep their place in parliament while continuing to support Putin's line and the war. Galeotti said the drone attacks could also produce calls for a tougher response to Kyiv, "as long as they don't have to be involved in it". Chris Weafer, chief executive of Macro-Advisory Ltd., said the attacks had affected public morale but posed no immediate threat to the Kremlin's hold on power. "There has been a rally around the flag anyway since the start of conflict and the opinion polls consistently show the very high level of support," he said. He added that while the result was predetermined, "the public narrative and particularly the turnout" mattered most to the Kremlin so it could present the vote as proof of broad backing for its actions.
+
+The election, then, is set to confirm United Russia's dominance, but it is taking place amid economic strain, tighter political controls, and a war that is being felt more sharply inside Russia.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Sep 17, 2026 09:58 IST
+
+---
+
+### iqoo 16 launch date in India, price, camera, features and specs: What Indian buyers should know
+*Trending Desk · business*
+
+iQOO is preparing to unveil its next flagship, the iQOO 16, but buyers in India will have to wait for clarity on the local launch. The company has confirmed the China launch for September 29, 2026, while an India launch date has not yet been officially announced. Here is what we know so far about the iQOO 16, including its expected price, camera, display, processor, battery and other specifications.
+
+## iQOO 16 launch date in India
+
+The iQOO 16 will launch in China on September 29. The launch event is scheduled for 7pm local time, or 4:30pm IST. iQOO has also revealed three colour options for the Chinese market: Chasing Light, Legendary and Racing Track. For India, there is no confirmed launch date yet. Earlier reports have suggested that the phone could make its way to the Indian market after its China debut. An IMEI database listing had also reportedly pointed towards an India and global version, although that does not amount to an official launch confirmation.
+
+  
+
+## iQOO 16 expected price in India
+
+iQOO has not announced the India price of the iQOO 16. Reports and leaks suggest that the phone could be positioned above the previous generation in terms of pricing. One report has suggested that the price could cross Rs 85,000, although this remains an estimate and should not be treated as the official price.
+
+  
+
+For comparison, the iQOO 15 was launched in India at Rs 72,999, while its reported current price has moved higher. The final iQOO 16 price will likely depend on the Indian configuration, storage options and the company's launch strategy.
+
+## iQOO 16 camera specifications
+
+The camera setup is expected to be one of the major upgrades on the iQOO 16. The phone is tipped to feature three 50-megapixel rear cameras:
+
+  
+
+-   50MP primary camera
+-   50MP ultra-wide camera
+-   50MP periscope telephoto camera
+
+A leak cited by Gadgets 360 claims that the primary sensor could have a 1/1.3-inch size and an f/1.68 aperture. The periscope camera is reportedly based on a 1/1.95-inch sensor and could support long-range zoom photography. iQOO has also officially teased the redesigned rear camera module. Images of the phone show a triple-camera arrangement and branding referring to **100x zoom**, although the exact optical and digital zoom capabilities for the final model need to be confirmed.
+
+For selfies and video calls, current listings suggest a 50MP front camera, although some earlier leaks have mentioned a 32MP sensor. The final specification should therefore be confirmed at launch.
+
+## iQOO 16 display
+
+The iQOO 16 is expected to feature a large 6.85-inch Samsung AMOLED display with a 2K-class resolution and a 165Hz refresh rate. The high refresh rate is particularly relevant for gaming, where smoother animations and touch response can make a difference.
+
+Reports also point to LTPO OLED technology, high brightness and high-frequency PWM dimming. These details, however, are based on leaks and listings rather than a complete official specification sheet.
+
+## iQOO 16 processor and gaming features
+
+Performance is expected to remain at the centre of the iQOO 16. The smartphone is tipped to use Qualcomm's Snapdragon 8 Elite Gen 6 Pro chipset. Reports also mention a dedicated gaming chip and iQOO's next-generation Monster Super Engine. The company has teased gaming-focused capabilities including console-like ray tracing effects and improved graphics. The combination could make the iQOO 16 particularly relevant to users looking for flagship-level gaming performance, although actual performance figures will only be clear after independent testing.
+
+## iQOO 16 battery and charging
+
+Battery capacity is another area where leaks have pointed to a substantial upgrade. Current reports put the battery somewhere between 7,500mAh and 8,500mAh, depending on the source and reported configuration. Gadgets 360 currently lists 7,500mAh, while other reports have pointed to an 8,500mAh battery. The phone is expected to support 100W wired fast charging. Wireless charging has also been mentioned in some reports, but its availability and specifications remain unconfirmed.
+
+## iQOO 16 expected specifications
+
+Feature
+
+Expected iQOO 16 specifications
+
+Display
+
+6.85-inch AMOLED/LTPO OLED
+
+Resolution
+
+2K-class
+
+Refresh rate
+
+Up to 165Hz
+
+Processor
+
+Snapdragon 8 Elite Gen 6 Pro
+
+Rear camera
+
+Triple 50MP setup
+
+Telephoto
+
+Periscope lens
+
+Front camera
+
+50MP, according to current listings
+
+Battery
+
+7,500mAh to 8,500mAh, depending on report
+
+Charging
+
+100W wired
+
+Operating system
+
+Android 17/OriginOS
+
+Connectivity
+
+5G
+
+Water resistance
+
+IP68/IP69 reported
+
+India launch
+
+Not officially confirmed
+
+China launch
+
+September 29, 2026
+
+Several specifications above are based on leaks or preliminary listings and can change before the official launch.
+
+## iQOO 16: What Indian buyers should know
+
+For Indian buyers, the biggest unanswered question is not the China launch but whether the iQOO 16 will actually arrive in India and at what price. The China launch is confirmed for September 29, but iQOO has yet to announce an India launch date or India pricing. Meanwhile, the leaked specifications point towards a flagship built around a high-refresh-rate 2K display, Snapdragon's next-generation processor, triple 50MP cameras and a large battery.
+
+Until iQOO officially confirms the Indian model, the India price, launch date and some hardware specifications should be treated as expected rather than final.
+
+---
+
+### Google should relax ad tech rules, appoint antitrust monitor, US judge finds
+*Karan Mahadik · legal*
+
+Annual global digital advertising spending could grow to $605 billion next year from $424 billion in 2023, according to the judge's decision.
+
+[Read full article](https://indianexpress.com/article/technology/tech-news-technology/google-should-relax-ad-tech-rules-appoint-antitrust-monitor-us-judge-finds-10881536/)
+
+---
+
+### Guterres says BRICS New Delhi Declaration reassures on global multilateralism
+*India Today World Desk · general*
+
+## Antonio Guterres said the BRICS New Delhi Declaration shows major powers can still find consensus. He called it reassuring for multilateralism and for the UN's central role in tackling crises.
+
+Stock photo used for illustration
+
+United Nations Secretary-General Antonio Guterres has said it is “reassuring” that “important powers” believe global crises can be addressed through multilateralism, days after the BRICS Summit adopted the New Delhi Declaration by consensus under India’s chairship.
+
+Speaking at a press conference on Wednesday, Guterres said the declaration reflected a strong commitment to multilateralism and to the United Nations. His remarks came in response to a question by PTI on the adoption of the declaration at a time when the UN Security Council remains deeply divided on major geopolitical crises.
+
+“...what is important is to say that the common declaration that was produced is a common declaration with a strong commitment of all of them to multilateralism and by all of them to the United Nations,” Guterres said.
+
+“So from that point of view, it is reassuring that a large number of the important powers that exist in the world believe that multilateralism is the way to address crises and that the UN must be at the centre of those efforts,” he said.
+
+Guterres was responding to a question on how he viewed the bridging of differences that led to consensus on the New Delhi Declaration against the backdrop of a polarised Security Council that has struggled to bring countries together on major global crises. The BRICS grouping adopted the joint declaration by consensus on September 12 after overcoming sharp divisions between Iran and the UAE over the West Asia conflict following a series of back-channel negotiations.
+
+Guterres also noted that not all Security Council members were present at the BRICS meeting. He attended the summit hosted in New Delhi on September 12 and 13 and addressed its Open Session on “Resilience, Innovation, Cooperation and Sustainability: Shaping the Future for Inclusive Global Growth”. He also met Prime Minister Narendra Modi.
+
+Guterres, whose second five-year term as UN chief ends in December 2026, had also travelled to India in February this year to attend the India–AI Impact Summit 2026 in New Delhi. His latest comments linked the BRICS declaration to a wider push for multilateralism and a central role for the UN in addressing global crises.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Sep 17, 2026 09:54 IST
+
+---
+
+### PM Modi a symbol of national service and dedication: BJP on his 76th birthday
+*SECTIONS PM Modi a symbol · business*
+
+New Delhi: Union ministers and senior BJP leaders on Thursday extended birthday greetings to Prime Minister Narendra Modi, highlighting his 25 years in public life and his contribution to development, welfare and governance.
+
+Born on September 17, 1950, in Gujarat's Vadnagar, Modi turned 76 on Thursday.
+
+Union Home Minister Amit Shah described Modi as a symbol of tireless hard work, sacrifice and foresight, saying his life is an "epic tale of penance, sacrifice, and unwavering resolve".
+
+  
+
+"The life of Modi ji, who has made karma his sadhana and national service the aim of his life, is an epic tale of penance, sacrifice, and unwavering resolve. His journey, filled with service and dedication, is an inspiration for millions of countrymen," Shah said on X.
+
+BJP president Nitin Nabin described Modi as a symbol of national service and dedication and a leader of 140 crore countrymen, saying India is scaling new heights of development and self-reliance under his guidance.
+
+"With the resolve of 'nation first', your journey has been an inspiring saga of service, good governance, and public welfare. This journey is not of any one individual, but also of the collective dream of the countrymen, which you have given direction through your actions and penance," Nabin said in a post on X.
+
+  
+
+> — NitinNabin (@NitinNabin)
+
+He said India is forging new dimensions of development and self-reliance and is continuously advancing on the global stage with its new identity and strength.
+
+Defence Minister Rajnath Singh said India is marching forward with full confidence towards the goal of 'Viksit Bharat' under Modi's leadership, with progress in infrastructure, digital connectivity, welfare, innovation and entrepreneurship.
+
+"Modi ji has placed good governance and public service at the centre of the nation's development journey, making the administration more transparent, accountable, and citizen-centric. Under his leadership, India's cultural consciousness and heritage have gained a new identity and prestige on the global stage," Singh said.
+
+> — rajnathsingh (@rajnathsingh)
+
+Commerce and Industry Minister Piyush Goyal described Modi as a "karma yogi" who has dedicated every moment of his life to national service and public welfare.
+
+"Under your leadership, positive changes have come into the lives of 140 crore Indians. Your public welfare policies have created new opportunities for the youth, empowered women, made farmers self-reliant, lifted crores of people above the poverty line, and connected deprived sections to the mainstream of development while giving them a life of dignity," Goyal said.
+
+> — PiyushGoyal (@PiyushGoyal)
+
+Union minister Kiren Rijiju expressed hope that Modi continues to lead the country towards the goal of Viksit Bharat 2047.
+
+"Birthday greetings to Prime Minister of India, Narendra Modi. May you continue to lead us towards Viksit Bharat 2047," Rijiju said.
+
+> — KirenRijiju (@KirenRijiju)
+
+Union minister C R Patil said Modi's commitment to public service, good governance and development, while placing national interests above all else, has infused new momentum and a broader vision into India's progress.
+
+"The ongoing efforts under your leadership toward building a self-reliant and developed India strengthen the resolve for a bright future for every citizen of the country," Patil said.
+
+BJP chief spokesperson and MP Anil Baluni said Modi has dedicated his entire life to public service, national service and the welfare of every individual.
+
+"This year, along with his birthday, 25 years of his public life are also being completed -- this journey of service, dedication, and nation-building is an inspiration for all of us," Baluni wrote on X.
+
+BJP MP Sambit Patra said Modi's journey from an ordinary family to the position of prime minister is an inspiring story of struggle, hard work, discipline, and dedication to national service.
+
+"Under your leadership, India has confidently embraced its culture, traditions, and heritage while also advancing toward modern technology, innovation, and development. India's voice and global participation have gained a new identity on international platforms," Patra said.
+
+---
+
+### Modi Turns 76: Blood Camps, A Free 'Hanuman Ansh' Screening — 5 Things Happening In PM's 'Karmabhoomi' Today
+*Sumedha Kirti · general*
+
+From a Ganga jalabhishek and a 500-bike yatra to a free 'Hanuman Ansh' screening and a Gen Z blood drive — here's what's on in PM Modi's Varanasi on his 76th birthday.
+
+[Read full article](https://www.news18.com/cities/varanasi/modi-turns-76-blood-camps-a-free-hanuman-ansh-screening-5-things-happening-today-10335296.html)
+
+---
+
+### Registration of Births and Deaths (Amendment) Act to come into force on Oct 1
+*SECTIONS Registration · business*
+
+New Delhi: The provisions of a newly enacted law that tightens regulations for delayed registration of births and deaths will come into force on October 1, Registrar General of India Mrityunjay Kumar Narayan said on Wednesday.
+
+The Registration of Births and Deaths (Amendment) Bill, 2026, passed by both Houses of Parliament, became the law after the President's assent last month.
+
+In a gazette notification, Narayan said, "In exercise of the powers conferred by sub-section (2) of section 1 of the Registration of Births and Deaths (Amendment) Act, 2026 (12 of 2026), the Central Government hereby appoints the 1st day of October, 2026, as the date on which the provisions of the said Act shall come into force."
+
+  
+
+The law tightens regulations for delayed registration of births and deaths and requires judicial intervention for applications filed more than two years after the event.
+
+The new law amended Section 13(3) of the Registration of Births and Deaths Act, 1969 (as amended in 2023), "in order to make provisions of delayed registration more stringent".
+
+"This will encourage timely reporting of event of birth and death," the Bill had said.
+
+Applications seeking registration after one year but within two years of birth or death will still require an order from a DM, SDM or an authorised executive magistrate, according to the new law.
+
+The official must verify the correctness of the event before the registration can proceed upon payment of a prescribed fee, it says.
+
+The law introduces a higher level of judicial scrutiny for reports made after two years, mandating an order from a judicial magistrate (first class).
+
+The Registration of Births and Deaths Act, 1969, was enacted to provide for the regulation of registration of births and deaths and for matters connected therewith.
+
+The registration of births and deaths is mandatory under the Act, and the certificate issued under the law provides legal identity.
+
+A certificate of birth or death is admissible in evidence for proving the birth or death of a person.
+
+The Act was amended in 2023, and the provisions of the amended law came into force from October 1 that year.
+
+The government said that these amendments are intended to "encourage timely reporting" of vital events.
+
+
+---
+
 ## 16 September 2026
 
 ### Saudi Arabia downs Houthi drone near Mecca as Yemen conflict escalates
