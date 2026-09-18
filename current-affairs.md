@@ -1,3 +1,721 @@
+## 18 September 2026
+
+### CBDT removes arrest and imprisonment as prescribed route for tax recovery
+*Anuradha Shukla · business*
+
+Tax defaulters will no longer face arrest and detention as a prescribed recovery route to recover tax. The central board of direct taxes(CBDT) has amended Rule 225, deleting the provision that empowered tax recovery authorities to use arrest and imprisonment for recovery of outstanding dues.
+
+In a September 17 notification, the board also removed the corresponding reference to arrest from the police-assistance provision and deleted several other Rule 225 clauses.
+
+Attachment and sale of movable and immovable property and appointment of a receiver remain available recovery mechanisms.
+
+  
+
+The change marks a clear shift in the prescribed recovery toolkit away from personal detention and towards property-based recovery.
+
+The amendment, however, does not by itself extinguish any separate arrest power that may exist elsewhere under the Income-tax Act.
+
+The department has also significantly tightens the gatekeeping for valuers, requiring far more granular disclosure before registration. Under the revised Form 169, applicants must disclose their qualifications, professional history and valuation work, including details of assets valued or works executed during the preceding three years.
+
+Registration is sought separately for each asset class, with the form covering categories ranging from land, buildings and plantations to mines, securities, business assets, machinery, jewellery and works of art.
+
+The tax department has given valuers and authorised income-tax practitioners six more months, until March 31, 2027, to complete their transition to the registration framework under the new Income-tax Act.
+
+---
+
+### India, Bhutan sign Rs 4,000 crore Line of Credit for energy projects during Jaishankar visit
+*SECTIONS India · business*
+
+New Delhi \[India\], September 18 (ANI): India and Bhutan welcomed the signing of an agreement on a concessional Line of Credit of INR 4,000 crore for energy projects in Bhutan during External Affairs Minister S Jaishankar's official visit to the country, according to a joint press release issued by the Ministry of External Affairs (MEA).
+
+As per the official press release issued on Friday, Jaishankar paid an official visit to Bhutan from September 16 to 18 at the invitation of Bhutanese Foreign Affairs and External Trade Minister DN Dhungyel.
+
+During the visit, the two ministers reviewed all aspects of bilateral cooperation as well as regional and international issues of mutual importance and expressed satisfaction with progress in the India-Bhutan energy partnership.
+
+  
+
+The two sides recalled recent developments in energy cooperation, including the inauguration of the 1020 MW Punatsangchhu-II Hydroelectric Project and the signing of its Tariff Protocol, as well as the resumption of dam construction of the 1200 MW Punatsangchhu-I Hydroelectric Project.
+
+They also welcomed the active engagement of Indian companies in hydropower projects in Bhutan, which the two sides said was adding dynamism to existing energy cooperation.
+
+The two ministers jointly inaugurated or launched several development projects, including the 65-bedded Gyaltsuen Jetsun Pema Mother and Child Hospital in Mongar, the Jaganathan Bridge on the Samdrup Jongkhar-Trashigang Highway and the 500 kW Lunana Hydropower Project.
+
+The two sides also welcomed the handing over of 54 electric vehicles to the Royal Government of Bhutan and the transfer of 43 Jersey cows from India to the National Cattle Breeding Centre in Bumthang, the MEA said.
+
+Jaishankar reaffirmed India's support for Bhutan's developmental goals and priorities, while Bhutan appreciated India's support for programmes under its 13th Five Year Plan (2024-29).
+
+The two sides also discussed the Gelephu Mindfulness City, trade and transit, cross-border connectivity, digital payments and space cooperation.
+
+India reaffirmed its commitment to establish an Immigration Check Post at Hatisar in Assam to facilitate movement of investors and visitors to Gelephu. The two sides also noted progress on the Gelephu-Kokrajhar and Samtse-Banarhat cross-border rail links.
+
+The ministers welcomed the operationalisation of a UPI-based facility enabling Bhutanese nationals to make digital payments in India using Bhutanese mobile applications.
+
+They also welcomed cooperation in education, including doubling the number of Bhutanese students eligible under the Indian Council for Cultural Relations scholarship from 30 to 60 and increasing seats under the Nalanda University Scholarship Scheme from 30 to 55.
+
+India thanked Bhutan for its support for India's candidature for a non-permanent seat on the United Nations Security Council for the 2028-2029 term, while India welcomed Bhutan's ratification of the Framework Agreement of the International Big Cat Alliance.
+
+Jaishankar also invited the Bhutanese Foreign Affairs and External Trade Minister to visit India at his earliest convenience.
+
+---
+
+### Delhi Teen Gang-Raped, Killed; Decomposed Body, Severed Hand Found In Field, Parts Eaten By Stray Dogs
+*Vani Mehrotra · general*
+
+A 17-year-old girl was raped and stabbed to death in Delhi. Her decomposed body was found in an open field with one hand separated and parts eaten by stray dogs.
+
+[Read full article](https://www.news18.com/india/delhi-teen-raped-stabbed-to-death-body-decomposed-eaten-by-stray-dogs-4-arrested-ws-el-10338066.html)
+
+---
+
+### Guterres warns divided world must unite on AI, climate and inequality
+*India Today World Desk · world*
+
+## Antonio Guterres urged world leaders to cooperate on conflicts, AI, climate change and inequality before the UN General Assembly. He said Security Council paralysis and unchecked violations of international law are deepening global instability.
+
+UN Secretary-General Antonio Guterres has said the world is facing deep divisions, a paralysed Security Council and a growing sense of impunity, but he believes there is still a way forward if governments work together. In an interview ahead of the annual UN General Assembly meeting, Guterres said cooperation is essential to curb conflict, reduce inequality and deal with the fast-growing challenge of artificial intelligence.
+
+Guterres, who will leave office at the end of the year after nearly a decade in the job, said he still sees hope in the years ahead. "I believe in a number of fundamental things that need to be done, and need to happen for the world to be better - and I'm determined to fight to make those things happen," he said.
+
+His message to leaders and ministers from the UN's 193 member nations was direct. He said they must "very seriously analyse" the fact that the world is facing "at least three existential problems -- runaway artificial intelligence, galloping climate change, and escalating inequality that is becoming a serious driver of instability and conflict".
+
+Guterres said a "huge geopolitical divide" and paralysis in the Security Council have created an atmosphere in which powerful countries can ignore international law and the UN Charter. He cited Russia's invasion of Ukraine and US attacks on Iran, both involving permanent Security Council members with veto power. "Many countries say, 'If superpowers can violate the law, why can't we?'" he said. "And so what we are seeing around the world is more and more situations in which countries simply do not care. They do whatever they want, knowing that there will be total impunity."
+
+He said these violations have caused death and widespread destruction, and that the war in Ukraine and the wider Middle East conflict are having "a dramatic impact" on the global economy. Food and energy prices are rising, interest rates are going up and developing countries are finding it harder to meet the needs of their people. Guterres said he hopes these pressures will make countries realise that such problems cannot be solved alone and require international cooperation.
+
+He also called for reforms to institutions created after World War II, including the UN, especially the Security Council, and the International Monetary Fund and World Bank. He said they must be overhauled to reflect the realities of the 21st century, including the rise of emerging economies and powers. Guterres said that as UN chief he has no army, no intelligence service and limited money, but he does have "two powers" - to speak out on global issues and to convene the world's nations.
+
+Because of geopolitical divisions, Guterres said the UN has "no leverage" in promoting peace in Ukraine and the Middle East. Still, he said he has been firm in defending the UN Charter, the territorial integrity of countries and in condemning "horrible violations of human rights". He condemned Hamas' "intolerable" attack in southern Israel on October 7, 2023, and also condemned "the horrible situation that Israel has created in Gaza with levels of death and destruction that have no parallel in the history of the United Nations". He added that the UN is not "in a transactional approach to politics" and must remain "a reference of values and principles for the whole world, because someone must affirm that the law of force cannot prevail over the force of law".
+
+Guterres said artificial intelligence will be a major issue at this year's UN gathering. He repeated his call for international cooperation and guardrails for AI, calling it "a universal problem". He said countries with "a higher capacity" in AI should share information, create transparency mechanisms, put guardrails in place and help build a multilateral system to ensure risks are avoided.
+
+On the UN's finances, Guterres said the organisation is under strain largely because the US has not paid billions of dollars due to the regular budget and the peacekeeping budget. Even so, he said the UN has avoided a financial meltdown and is carrying out major reforms that the Trump administration has pushed for. He said the organisation has continued its work with fewer resources and added, "I think we demonstrated that we have the best control of public expenditure in any organisation of any country in the world."
+
+Guterres, who has worked with US President Donald Trump for nearly six of his 10 years at the UN, said the US-UN relationship has at times been difficult and at times easier. He said the UN is now cooperating with the US on peace negotiations in Western Sahara and elsewhere. When he meets Trump on Tuesday, the opening day of the UN gathering, he plans to raise peace in Ukraine and the Middle East, adding: "I hope that these two objectives might be able to unite the efforts of not only the US and the UN but the whole of the international community." In essence, Guterres' message before the world leaders' meeting is that global crises, institutional reform, AI and the rule of law all require countries to act together.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Sep 18, 2026 10:04 IST
+
+---
+
+### NSE IPO impact on BSE explained: How the mega listing may benefit a rival
+*Kumar Gaurav · finance*
+
+Shares of the National Stock Exchange of India (NSE) are slated to list on its rival and the country’s only other listed equity exchange, BSE, on Thursday, September 24, 2026, following the successful completion of its initial public offering (IPO), which opened for subscription on September 17.
+
+Through its maiden share sale, NSE is set to raise Rs 22,561.57 crore through an offer for sale (OFS), with 23 shareholders offering up to 12.64 crore shares.
+
+**For detailed NSE IPO action,** click here
+
+The NSE listing, analysts said, could be strategically positive for BSE by improving its visibility and creating additional opportunities through trading, clearing, settlement and listing-
+
+The bigger potential benefit, analysts believe, could come from increased investor attention, index inclusion, derivatives activity and institutional flows.
+
+  
+
+## NSE listing could benefit BSE beyond trading revenue
+
+Rahul Sharma, Head of Research at Equity99, said the NSE listing could benefit BSE beyond the direct revenue generated from trading in NSE shares.
+
+“The NSE listing is strategically positive for BSE, but I would separate the opportunity into direct volume/revenue impact and the much more important valuation/market-structure impact.”
+
+Sharma believes BSE could gain greater visibility as the exchange hosting the public listing of the country’s largest exchange company. Potential benefits could also come from derivatives-
+
+“Definitely greater visibility for BSE as the exchange hosting the country's largest exchange company's public listing, potential derivatives-
+
+However, Sharma expects the direct revenue opportunity from the NSE listing to remain limited unless NSE shares see exceptionally high trading volumes.
+
+“But still, I would characterize the direct NSE-listing revenue opportunity as modest, unless NSE shares become exceptionally heavily traded. Therefore, I see the NSE IPO as potentially acting as a catalyst for investor attention around the entire exchange industry, rather than simply creating trading revenue from NSE shares.”
+
+## Direct revenue opportunity likely to be limited
+
+Harshal Dasani, Business Head at INVasset PMS, said the benefit to BSE is real but needs to be viewed in the context of the exchange’s existing revenue base.
+
+“The benefit is real but should be sized before it is celebrated. Because SEBI's rules bar an exchange from listing on its own platform, every trade in NSE shares after the September 24 debut clears on BSE, and BSE collects the listing fee.”
+
+Dasani said BSE’s revenue in FY26 stood at Rs 4,834 crore, with transaction charges of Rs 3,795 crore driven overwhelmingly by index options rather than cash equities. Cash-market transaction charges are levied in rupees per crore of turnover.
+
+He said that even assuming Rs 2,000 crore a day of trading in NSE shares, the annual revenue contribution would amount to tens of crores, while listing fees would be smaller.
+
+“Even on a generous assumption of Rs 2,000 crore a day of trading in NSE shares, which would make it one of the most active stocks in the country, the annual revenue adds up to tens of crores. Listing fees are capped and smaller still.”
+
+“Set against Rs 4,834 crore, the direct contribution is well under 1% of revenue, and it is less than the volume BSE already adds in a normal quarter, with cash average daily turnover at a record Rs 9,955 crore in June.”
+
+According to Dasani, the more meaningful opportunity could come from the secondary effects of the NSE listing, including potential index inclusion, single-stock derivatives and institutional flows.
+
+“The more meaningful levers are second order: whether NSE shares enter BSE's indices and the single-stock derivatives that follow, and whether the prestige of hosting the country's largest financial listing brings institutional cash flow that stays.”
+
+He also pointed to the MSCI index derivatives agreement signed in August as a potentially larger volume opportunity for BSE than the NSE listing.
+
+## Can NSE listing trigger a re-rating for BSE?
+
+On whether the NSE listing could trigger a re-rating of BSE’s shares, Dasani said the listing alone would not be sufficient and could initially put pressure on BSE’s valuation multiple.
+
+“Not on its own, and in the near term the listing works against BSE's multiple more than for it.”
+
+Dasani pointed to the NSE IPO’s anchor book, where Rs 6,746 crore was placed at Rs 1,785 across 98 mutual fund schemes, while foreign investors held 43%. According to Dasani, institutional investors that already own BSE will also hold NSE, providing a direct basis for comparison between the two exchanges.
+
+“The anchor book tells you why: Rs 6,746 crore placed at Rs 1,785 across 98 mutual fund schemes and foreign investors holding 43% means the institutions that own BSE now also own the dominant exchange at roughly low-forties times FY26 earnings, against BSE's multiple near 53 times.”
+
+Dasani said BSE’s premium valuation would need to be supported by its growth differential. He pointed to BSE’s June-quarter profit growth of 62.2% and a 96% increase in derivatives premium turnover, compared with a 15% decline in NSE’s FY26 profit.
+
+“Every fund manager will run that comparison the day NSE settles, and BSE's premium has to be defended by its growth differential, which is substantial: June-quarter profit up 62.2% and derivatives premium turnover up 96% while NSE's FY26 profit fell 15%.”
+
+“That differential is the re-rating case, and it existed before NSE filed.”
+
+Dasani also highlighted a potential overhang for BSE if NSE eventually receives regulatory approval to trade its own shares on its platform through a “permitted to trade” route.
+
+“The overhang that could hurt is the August report that NSE may later seek to trade its shares on its own platform under a ‘permitted to trade’ route, which would take back even the modest volume benefit; it needs SEBI approval under rules that currently bar it.”
+
+Further, Dasani believes BSE’s potential re-rating would ultimately depend more on its ability to increase derivatives market share and capitalise on new products than on NSE shares being traded on its platform.
+
+“The framework: BSE re-rates if it keeps taking derivatives share and the MSCI products launch, not because NSE's shares tick on its screen. Where NSE trades after September 24 sets the benchmark; BSE's own quarterly market-share prints decide the premium,” said Dasani.
+
+_Disclosure: This article has been written by Kumar Gaurav, who is not a SEBI-registered Research Analyst or an investment advisor. Gaurav does not hold any financial interest in the company as of the date of publication. The views/recommendations mentioned in this article, wherever applicable, are those of the respective SEBI-registered Research Analyst/brokerage and have been reproduced/reported with due attribution. They should not be construed as the views or recommendations of the EconomicTimes Digital or the journalist. Readers are advised to consider the original research report and make their investment decisions based on their own assessment._
+
+---
+
+### Asian Games 2026: Check dates, live streaming, TV telecast in India and other key details
+*Trending Desk · business*
+
+India will look to build on its record-breaking medal haul from the previous edition in Hangzhou as the Asian Games 2026 officially get underway in Aichi-Nagoya, Japan, on Saturday.
+
+The Asian Games are the biggest multi-sport competition in Asia and are held once every four years. Organised by the Olympic Council of Asia (OCA), the Games bring together athletes from 45 countries and regions.
+
+The first Asian Games were held in New Delhi in 1951, with 489 athletes from 11 countries taking part. Since then, the continental showpiece has been held 19 times.
+
+  
+
+The upcoming edition will feature 45 countries and regions competing across 43 sports. It will be the 20th edition of the Games and the third time Japan has hosted the continental sporting event, after Tokyo in 1958 and Hiroshima in 1994.
+
+India heads into the Asian Games looking to better its record-breaking campaign at Hangzhou 2023, where it won 107 medals, including 28 gold.
+
+India are the defending champions in both men's and women's cricket and kabaddi, while the men's hockey team enters the tournament as the reigning champion.
+
+PV Sindhu will spearhead India's badminton campaign, while Mirabai Chanu will lead the weightlifting contingent. Manu Bhaker will be among India's leading names in shooting, while Aman Sehrawat will take the mat in wrestling. In boxing, Lovlina Borgohain will be among the country's key medal contenders.
+
+Athletics will feature more than 75 Indian track and field athletes, with Gulveer Singh, Tejaswin Shankar, Murali Sreeshankar, Jyothi Yarraji and Parul Chaudhary among the country's leading medal prospects. Tajinderpal Singh Toor will enter Aichi-Nagoya as the two-time defending champion in men's shot put.
+
+Olympic qualification quotas will also be available in sports including archery, sailing, squash, surfing and tennis.
+
+### Asian Games 2026 live streaming and telecast details
+
+**When will the Asian Games 2026 opening ceremony take place?**
+
+The Asian Games 2026 opening ceremony will be held on September 19 in Aichi-Nagoya, Japan.
+
+**Where to watch the live telecast of Asian Games 2026 in India?**
+
+The live telecast of the Asian Games 2026 will be available on Sony Sports 1 and Sony Sports 5 in India. The Games will also be broadcast in regional languages on Sony Sports 3 in Hindi and Sony Sports 4 in Tamil, Telugu and Kannada.
+
+**Where to watch the live streaming of Asian Games 2026 in India?**
+
+The Asian Games 2026 will be available for live streaming on SonyLIV through its app and website in India.
+
+---
+
+### Deeper than the Mariana Trench, near its border with Norway, the Soviet Union spent 20 years drilling 7.6 miles into Earth; in 1992, the deepest borehole on Earth was abandoned in a region industrialization had turned into one of the most ‘poisoned spots on Earth’
+*Rana Sarkar · business*
+
+Earth has its own vertical world. Above us is the sky; below it are layers of rock accumulated over billions of years, holding fossils, minerals, heat and secrets that humans can reach only by cutting into the ground.
+
+On the Kola Peninsula, near Russia's border with Norway, the Soviet Union tried to go farther down than anyone had gone before. In 1970, the Cold War was pushing the superpowers upward into space, but the mighty Soviets also wanted to conquer what lay beneath their feet. As the country celebrated the centenary of Vladimir Lenin's birth, engineers began drilling into the Earth's crust.
+
+For almost 20 years, the drill descended through ancient rock. The result was the Kola Superdeep Borehole, a man-made crevasse that eventually reached 12,262 meters, or about 7.6 miles, beneath the surface, deeper than the Mariana Trench's Challenger Deep, which reaches about 10,994 meters (6.8 miles).
+
+  
+
+But the Soviet Union's achievement of drilling the deepest artificial hole in human history came with a lesson few could have anticipated: the deeper humans went, the less Earth behaved as engineers expected.
+
+## The Soviet race to reach Earth's depths
+
+Drilling began on May 24, 1970, on the Kola Peninsula, a remote stretch of land that borders Norway and lies far above the Arctic Circle. At that time, the peninsula was part of the Soviet Union, which was once the domain of the indigenous semi-nomadic Sami people.
+
+The Kola project was part of a much larger Cold War competition. The Soviet Union and the United States were already competing in space, nuclear technology and military power. Beneath the surface, scientists and engineers were also trying to understand how far humans could penetrate Earth's crust.
+
+The ambition was extraordinary: drill deep enough to study the Earth's crust directly and, ultimately, approach the boundary between the crust and mantle, a solid layer of hot silicate rock that lies directly beneath it.
+
+The Earth's internal structure is divided into four main layers from the outside to the center: the crust, the mantle, the outer core, and the inner core. (USGS)  
+
+For almost two decades, the drill kept going. By the time the project ended in 1992, the Kola Superdeep Borehole had reached 12,262 meters. That was still only a fraction of the distance to Earth's core and, importantly, the drill had not reached even the mantle.
+
+Yet the hole had already produced an unprecedented look at the planet's continental crust, rarely seen by any species.
+
+## What scientists found underground
+
+The deeper the Soviet drill traveled, the older the rocks became. According to Orion Magazine, the borehole passed through deposits containing copper, nickel and magnetite before reaching rocks resembling samples recovered from the Moon. Eventually, scientists encountered rocks estimated at about 2.5 billion years old, containing ‘microscopic plankton fossils.’
+
+But the greatest obstacle was not simply distance; it was heat. A 2026 scientific review published in Communications Earth & Environment found that temperatures at the bottom of the borehole reached about 212 degrees Celsius. At such depths, the rock behaved differently from what drilling engineers had anticipated, producing a “plastic rock flow that repeatedly sealed the hole.”
+
+“The SG-3 well fundamentally reshaped understanding of continental crustal structure and deep geologic processes,” the researchers wrote. “Despite not penetrating the Moho \[boundary between Earth’s crust and mantle\], SG-3 yielded the most extensive direct dataset on the crystalline continental crust.”
+
+## The hole that outlasted the Soviet Union and open a new energy source
+
+Physical, technological and financial constraints eventually brought drilling to an end in 1992, a few months after the Union disintegrated. The hole remained, however, as a record of how far humans had managed to reach into solid Earth.
+
+Its importance has not entirely disappeared. Scientists are now looking again at the extreme heat beneath Earth's surface for a very different reason: geothermal energy.
+
+The Kola superdeep borehole was welded shut. _(Image courtesy: X)_  
+
+Enhanced geothermal systems can use deep wells and high-pressure water to extract heat from hot rocks and bring that energy back to the surface. The deeper the drilling, the greater the potential access to high-temperature rock that could potentially be used for power generation.
+
+## Then Kola Superdeep Borehole region becomes a poisoned landscape
+
+But the story of Kola cannot be separated from the landscape surrounding it. The borehole was located in a region already heavily shaped by mining and heavy industry. By the 1990s, the wider Kola Peninsula had become synonymous with severe industrial pollution.
+
+A picture of the Kola Superdeep Borehole in 2012. _(Image courtesy: Wikimedia Commons)_  
+
+A 1994 New York Times report described the region as one of the most “poisoned spots on Earth,” documenting extensive environmental damage around its mining and metal-processing centres. The report described forests damaged by industrial pollution, contaminated waterways and serious concerns about the health of people living and working in the region.
+
+The contrast was striking. The same remote northern landscape that had become a showcase for Soviet scientific ambition was also carrying the consequences of decades of industrial activity.
+
+The Kola Superdeep Borehole itself was eventually abandoned. What remains is less a visible monument than a hole sealed deep underground and a scientific record of a moment when the Soviet Union tried to push through Earth's crust simply to discover what was there.
+
+---
+
+### Psychology explains why some women stick to one perfume for years - How a 'signature scent' becomes part of identity and memory
+*Mukesh Thapliyal · business*
+
+Perfume is a very personal choice. While for some women selecting a scent is all about the newest trend or having a variety of bottles in her wardrobe, one special scent is the choice made by others, a scent that becomes their own, which their friends know, which their boyfriend remembers, and which they choose without even thinking about it. Research done in psychology indicates that there is a link between scent and such phenomena as memory and emotions. A specific scent might remind of someone's period in life, of some particular relation, place, and maybe even self-image. However, wearing one special scent does not necessarily mean that all women, wearing this particular perfume, reveal the same personality trait. Research on the connection between perfume choice and personality reveals quite a weak one. But the science of smell offers clues about why a familiar fragrance can become deeply meaningful - and why some people may find it difficult to let go of a scent they have worn for years.
+
+## A FAMILIAR SCENT CAN BECOME PART OF YOUR IDENTITY
+
+  
+
+Perfume becomes a part of the individual’s self-presentation when she wears the same perfume through many years. This becomes more than an application of cosmetic products since it becomes a kind of personal brand after many years of using the same perfume. There is evidence to support the claim that perfume preferences are a matter of personal preferences although the association between preferences and personality does not seem clear. In a study carried out in 2009 and published in the 'International Journal of Market Research', Wim Janssens and Patrick De Pelsmacker analyzed real perfume purchase and answers of a questionnaire by 348 participants.
+
+The significance of this result lies in the fact that it opposes the common belief that a person can just detect your perfume and understand what kind of person you are. On the contrary, a signature perfume could be more based on personal choice and the accumulation of experience than personality itself. With time, the perfume may become an integral part of one’s lifestyle. It could be the scent which one wears to work, for dates, on vacation, or during significant events.
+
+## WHY PERFUME CAN UNLOCK POWERFUL MEMORIES
+
+  
+
+Probably the most convincing reason for this phenomenon is linked to the connection between smell and autobiographical memories. Scientists Johan Willander and Maria Larsson have explored how smells can induce memories of one's own past experiences. The 2006 study by these two scientists focused on the correlation between olfaction, emotions, and autobiographical memory, whereas the later analysis found that the memories evoked by the odor were often emotionally-charged and could evoke a sense of transportation to the past. Imagine yourself suddenly smelling a fragrance associated with a person who you used to know.
+
+Similarly, wearing signature perfume may help create that connection. If a person regularly uses the same scent during significant moments in life, it will be possible for that person to associate the odor with the particular occasions. According to a 2012 research conducted by Gesualdo M Zucco, Lara Aiello, Laura Turuani and Egon Köster in Chemical Senses, the smell is able to invoke autobiographical memory and women tend to encode the smell autobiographically more often than men. However, it must be remembered that the effects differ from one individual to another depending on his/her age and gender. Of course, this doesn’t mean that women tend to be attached to perfumes.
+
+## THE EMOTION BEHIND A 'SIGNATURE SCENT'
+
+Aromas are often not about their pleasant odor alone. The scent might be associated with emotions linked to a certain episode in one's life. For instance, the odor might have been selected for a new job, an occasion of marriage, a new love affair, or a phase when one experienced a lot of self-confidence. Every time the odor appears again, all the emotions associated with it are evoked at once. Recent studies also support the connection between smells and autobiographical memories. In a study from 2023, Carina Schlintl, Saša Zorjan and Anne Schienle investigated olfactory and visual imagery in 296 women aged 18 to 35 years old.
+
+And that is why the switch from an old favorite scent can come across as strange. The individual is not just abandoning a particular perfume; she is also letting go of the comforting sensory link to routine, relations and memories. Obviously, people evolve. A perfume which used to perfectly match their personality or needs might no longer fit. Other individuals like to try out new scents during each season. However, for an individual who repeatedly reaches out to the same bottle, there is one very compelling explanation: the scent is a part of her story.
+
+## WHY ONE PERFUME CAN FEEL LIKE 'YOU'
+
+The signature scent becomes an effortless way of expressing oneself. It follows through in the course of our daily activities without demanding our conscious effort while making certain associations for those around us. According to the study, the choice of any one scent is not indicative of one's personality. The study suggests something more fascinating about our connection to scents – they can be determined by memory and emotional connections and experiences. This could be the reason why certain scents provide a sense of comfort even after years of being used. They are predictable, recognizable and associated with important moments in life.
+
+A signature scent can become much more than a fragrance. According to olfactory memory research, scents have been proven capable of provoking highly evocative and vivid autobiographical memories and emotions. However, according to perfume selection studies, the assumption that scent is enough to reveal a person's personality should be taken with caution. Some ladies choose the same perfume for years and years because it is the right one for them. It can also become a part of their life stories and habits. In this case, the bottle of the perfume on their dresser is associated with something that cannot be explained in terms of rose, vanilla, or musk scent. Basically, it's a small, invisible connection to the life someone has lived.
+
+---
+
+### US early voting opens in Virginia as Trump renews doubts over ballots
+*India Today World Desk · world*
+
+## Early voting has opened in Virginia and is rolling out across other US states ahead of the November 3 election. The contest will test control of Congress as Donald Trump keeps questioning voting methods and officials urge public confidence.
+
+Image used for representational purposes only
+
+In-person voting for this year's US midterm elections begins on Friday, starting the final six weeks before voters decide who they trust to lead Congress through a cost-of-living crisis, the prolonged war in Iran and other major issues.
+
+Election administrators say they are prepared and confident the vote will be accurate and secure. Even so, President Donald Trump has continued efforts to cast doubt on some voting methods and reshape how US elections are run through court challenges, a wide federal search for non-citizen voters and pressure on election officials to share sensitive voter data.
+
+Friday marks the start of early voting in Virginia. Voters in a few other states, including Idaho, Minnesota and South Dakota, can also cast absentee ballots in person, usually at a local election office or voting centre. Wider early voting is due to begin in those and other states over the coming weeks.
+
+The November 3 election includes votes for governor and state legislatures in most states and will decide whether Republicans keep their majorities in the US House and Senate. If Democrats win back Congress, it would change the course of the final two years of Trump's term and likely lead to investigations and other oversight efforts.
+
+The start of early voting comes at a time of deep anxiety among many Americans over rising petrol and grocery prices, the war in Iran, the risks linked to artificial intelligence technology and Trump's tough immigration enforcement campaign. It also follows an unusual wave of mid-decade redistricting for the US House, which began after Trump urged the Republican-controlled legislature in Texas to redraw its congressional map to help the party. California and other states later followed. Research shows that 1 in 10 Americans this autumn lives in a different congressional district than in 2024. Those partisan efforts are expected to continue before the 2028 elections after a landmark Supreme Court ruling earlier this year weakened the federal Voting Rights Act's protections against racially discriminatory redistricting.
+
+As early voting approached, Trump remained focused on efforts to assert federal control over election administration, even though the Constitution gives states and, in some cases, Congress the power to run elections. The Supreme Court this week rejected Trump's bid to restrict mail ballots, but several other administration efforts to influence the voting process and examine state voter rolls for illegitimate voters are continuing. Trump has for years raised the spectre of widespread non-citizen voting in US elections, and he has done so again this year. However, even as his administration says hundreds of thousands of people are illegally on voter rolls across the country, research continues to show that non-citizen voting is exceptionally rare.
+
+David Becker, executive director and founder of the Center for Election Innovation and Research, said he would not be surprised if the president continued "his disinformation campaign and his attack on election officials". But, he added, despite that and other challenges, "ultimately the process will hold as it has in past years." Voting rights advocates have urged people to cast mail ballots early this year, partly because of concerns that recent changes in US Postal Service operations could delay postmarks being applied to ballots. "Voting early, whether in person or by mail, is good for all of our communities because it gives voters options, eases lines on Election Day and can even mean faster results," said Hannah Fried, co-founder and chief executive of the voting rights group All Voting Is Local. At a press briefing on Thursday, Minnesota Secretary of State Steve Simon urged people not to be influenced by stories that raise doubts about election operations. People would be able to vote "just like they always have," he said. "I just want to reaffirm that Minnesota's elections are fundamentally free, fair, accurate, honest and secure," he added.
+
+With early voting now beginning in some states and set to expand in others, the US election campaign has entered its final stretch, with control of Congress, state offices and confidence in the voting process all at the centre of the contest.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Sep 18, 2026 09:52 IST
+
+---
+
+### 10 SME IPOs that have declined up to 82% in 2026. Do you have any in your portfolio? - IPO Tracker
+*Agencies · finance*
+
+Sep 18, 2026, 09:58:56 AM IST
+
+While SME IPOs have delivered eye-catching returns this year, others have declined as much as 82% in 2026. From weak post-listing selloffs to an extended downturn since their debut, these stocks have emerged as the worst performers in the SME segment. Here are the top SME IPOs that have witnessed a sharp selloff this year.  
+
+Agencies
+
+UHM Vacation listed at a 20% discount to its issue price and has since delivered an 81.9% decline YTD. The company operates a business-to-business (B2B) travel and tourism aggregation platform that connects travel service providers with travel agents and corporate clients
+
+ETMarkets.com
+
+Yajur Fibres listed at a 20% discount to its issue price and has recorded a 77.3% decline YTD. processes and manufactures sustainable bast fibers—such as flax (linen), jute, and hemp—into short-staple, cotton-like fibers through a specialized process called cottonization.  
+
+Kiaasa Retail listed at a 3.1% discount to its issue price, while its stock has declined 76.7% YTD. It is an Indian fashion retailer that designs, manufactures, and sells affordable women's ethnic and fusion wear.  
+
+ETMarkets.com
+
+Aritas Vinyl listed at its issue price, while the stock has fallen 73.7% YTD. It manufactures technical textiles, specifically artificial leather, including PU (polyurethane) synthetic leather and PVC-coated leather.
+
+ETMarkets.com
+
+Liotech Industries listed at a 19.9% discount to its issue price and has declined 72.8% YTD. It manufactures and trades precision architectural hardware, door and window accessories, and engineering components.  
+
+QT Foods listed at its issue price, but the stock has nevertheless declined 70.9% year-to-date. The company manufactures, markets, and sells a wide variety of bakery products across the country.
+
+ETMarkets.com
+
+Armour Security listed at a 20% discount to its issue price and has recorded a 70.9% decline YTD. It provides professional manned guarding, facility management, and security personnel deployment across India.  
+
+ETMarkets.com
+
+Fascinate Textiles listed at a 20% discount to its issue price, while its stock has fallen 69.8% YTD. It manufactures readymade knitted and woven garments for men, women, and children, with a strong focus on childrenswear and infant.
+
+10/11
+
+## Skytech Infinite Platform
+
+Skytech Infinite Platform listed at a 3.9% discount to its issue price and has declined 68.8% YTD. The company provides industrial automation and turnkey control solutions across the country.  
+
+Gulf Lloyds listed at its issue price, while the stock has declined 68.3% YTD. It is an independent industrial services and conformity assessment company that provides third-party inspection, testing, verification, auditing, training, and certification services.
+
+_(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)_  
+
+ETMarkets.com
+
+---
+
+### R K Puram viral video shows car dragging bike for several metres on New Delhi roads, police respond
+*Trending Desk · business*
+
+A video showing a blue sedan dragging a motorcycle along a road in the national capital, with sparks flying as the two-wheeler remained trapped underneath the car, went viral on social media. Taking cognisance of the video, Delhi Police initiated action, registered an FIR, seized the car and apprehended its driver, ANI reports.
+
+The incident took place at around 10 pm on September 17 on Africa Avenue Road, on the stretch from Bhikaji Cama Place towards RK Puram Metro Station. During the enquiry, police found that 21-year-old Tanish Tokas, a resident of Munirka Village, was sitting on his parked black motorcycle on the roadside when the two-wheeler was hit by a blue-coloured car driven by 73-year-old Venu Gopal, a resident of Vasant Kunj.
+
+Due to the impact, Tokas fell from the motorcycle. The car subsequently dragged the motorcycle for some distance. Police clarified that Tokas himself was not dragged by the vehicle.
+
+  
+  
+
+Tokas underwent a medical examination after the incident, and police said he did not suffer any serious injuries.
+
+  
+
+## **FIR registered, driver apprehended**
+
+An FIR has been registered at RK Puram police station under Sections 281 and 125(a) of the Bharatiya Nyaya Sanhita (BNS) in connection with the incident.
+
+During the investigation, police seized the blue-coloured car allegedly involved in the incident and apprehended its driver, Venu Gopal.
+
+  
+
+The accused driver was also medically examined following his apprehension. Delhi Police said no alcohol was detected during the examination.
+
+Delhi Police told ANI that the action followed a viral video from the RK Puram area showing the motorcycle trapped underneath the car and being dragged for a few metres as the vehicle continued moving.
+
+---
+
+### Global oil prices slip 1% for third day on hopes of limited supply disruptions
+*Prisha Patnaik · business*
+
+Oil stays above $100 despite 1% drop as Saudi alternate routes ease supply fears (AI-generated image)
+
+Oil prices fell about 1% for a third straight session on Friday, but remained above $100 a barrel, as hopes of alternative routes for Middle Eastern crude reaching global markets outweighed concerns over fresh strikes between Saudi Arabia and Yemen's Iran-backed Houthis.Brent crude futures fell $1.01, or 1%, to $103.77 a barrel by 0020 GMT, while US West Texas Intermediate futures fell $1.03, or 1%, to $100.88 a barrel. Both benchmarks had closed about 1% lower on Thursday.Markets largely shrugged off fresh supply concerns as Saudi Arabia and the Houthis exchanged strikes across their border on Thursday, widening the Middle East war front.Oil prices had climbed to around four-month highs earlier this week after crude loadings at Saudi Arabia's Red Sea export hub of Yanbu were suspended and Riyadh cancelled some deliveries to Europe following damage to its East-West pipeline in an attack last week.Three pumping stations along the pipeline were damaged, according to satellite imagery and industry sources. A prolonged shutdown could cut off as much as 4% of global oil supply, according to traders, although estimates on how quickly the pipeline can be restored have varied.Saudi Arabia is now seeking to restore about half of the pipeline's capacity within days, while also offering more crude cargoes to Asian refiners through ship-to-ship transfers off Oman's Sohar port.
+
+The additional shipments could offset some of the disruption caused by the pipeline damage. US energy secretary Chris Wright has also said crude should begin flowing through the pipeline within days.The easing supply concerns have helped pull oil prices lower despite continued geopolitical risks. On Thursday, Brent settled at $104.82 a barrel and WTI at $101.91, after both contracts had fallen sharply earlier in the session.At the same time, Iran's Revolutionary Guards Navy said a Togo-flagged oil tanker was struck while attempting an "illegal passage" through the Strait of Hormuz, according to Iranian state media.The latest tanker incident adds another layer of uncertainty to an already fragile oil market. JPMorgan said on Thursday it had no clear baseline view for oil markets for the first time since the start of the US-Israeli war on Iran.The US and Iran have not held peace talks since an interim agreement reached in June collapsed within weeks. The conflict is expected to feature in discussions at the UN General Assembly next week, with an Iranian delegation set to attend, according to the US State Department.For now, however, markets are focusing on whether Saudi Arabia can restore disrupted flows and reroute enough crude to limit the impact of the damage. That has helped keep Brent and WTI above $100 while easing some of the immediate supply fears
+
+---
+
+### Safer chemotherapy for penile cancer: Tata Memorial trial finds new treatment
+*Purnima Sah · legal*
+
+A small randomised trial found fewer serious side effects and higher treatment-completion rates with paclitaxel than with a commonly used chemotherapy combination
+
+[Read full article](https://indianexpress.com/article/health-wellness/safer-chemotherapy-penile-cancer-tata-memorial-trial-finds-new-treatment-10882956/)
+
+---
+
+### Zomato delivery worker shot dead near police post in Amritsar, 2 attackers flee
+*Amit Sharma · general*
+
+## According to preliminary information, two men riding an Activa opened fire at the victim, identified as Sahil Gill, while he was on his way from home to buy vegetables.
+
+Zomato delivery worker shot dead in Amritsar (Photo: ITG)
+
+A 25-year-old Zomato delivery worker was shot dead by two unidentified men in Punjab's Amritsar on Thursday night. The incident occurred barely 50 metres from a police post.
+
+According to preliminary information, two men riding an Activa opened fire at the victim, identified as Sahil Gill, while he was on his way from home to buy vegetables. The assailants fired two shots, one of which struck Sahil near his chest.
+
+The firing took place around 40 steps from the victim's house, on the road leading towards the Kot Khalsa police post.
+
+Panic soon gripped the area following the attack. With the help of residents, Sahil was taken to a nearby hospital in critical condition. However, he succumbed to his injuries while undergoing treatment.
+
+Meanwhile, some residents reached Sahil's house and informed his family about the shooting around 10 minutes after it took place. His family members then rushed to the hospital after being informed.
+
+Sahil had been married for around two years and had a six-month-old child.
+
+The residents also informed the police about the incident. A team of officers, including the station house officer and the Assistant Commissioner of Police, soon reached the spot. They inspected the crime scene and launched an investigation.
+
+The Assistant Commissioner of Police said efforts were underway to identify and arrest the accused.
+
+Police are also trying to ascertain the motive behind the shooting and gather more information about the attackers.
+
+Further details in the case are awaited.
+
+\- Ends
+
+Akash Chatterjee
+
+Sep 18, 2026 09:46 IST
+
+---
+
+### N Chandrasekaran reappointed by Tata Sons board. Why his third term may not be final yet
+*India Today Business Desk · general*
+
+N Chandrasekaran has been reappointed as Tata Sons chairman for another five-year term, but the decision may not be the final word on his continuation at the helm of the Tata Group's holding company. The reason lies in how the reappointment vote was decided.
+
+Tata Trusts and its affiliated trusts hold around 66% of Tata Sons' equity and have two nominee directors on the company's board. At the board meeting on Thursday, Tata Trusts chairman Noel Tata voted against Chandrasekaran's reappointment, while the other Trusts nominee, Venu Srinivasan, voted in favour.
+
+This left the two Tata Trusts nominees divided on the resolution. The deadlock was then broken by independent director Harish Manwani, who was chairing the meeting and exercised his casting vote in favour of the reappointment.
+
+So, while the Tata Sons board has passed the resolution, a question remains: can the casting vote of an independent director settle a matter where the Tata Trusts' two nominee directors themselves did not have majority support?
+
+This is where the legal challenge to Chandrasekaran's third term comes in.
+
+A legal opinion obtained by Tata Trusts from former Chief Justice of India D Y Chandrachud has reportedly taken the view that the affirmative vote of a majority of the Trusts' nominee directors is a separate requirement.
+
+Chandrachud's opinion is that Manwani's casting vote cannot be used to override that requirement, reported Times of India.
+
+That does not mean a court has declared Chandrasekaran's reappointment invalid. The Chandrachud opinion is a legal opinion obtained by Tata Trusts, not a judicial ruling. But it gives the Trusts a legal basis to question whether Thursday's board resolution was sufficient to complete the reappointment.
+
+WHY THE TATA TRUSTS' ROLE MATTERS
+
+The starting point is Tata Sons' unusual ownership structure.
+
+The Tata Trusts and affiliated trusts together hold around 66% of the equity of Tata Sons. The Trusts are therefore the company's majority shareholders and have two nominee directors on the board. Noel Tata is one of those nominee directors.
+
+But the fact that the Trusts hold a majority of the shares does not, by itself, mean that Noel Tata can simply overturn a board decision.
+
+The important question is different: what voting rights do the Trusts' nominee directors have under the Articles of Association of Tata Sons, and what happens when those two nominee directors do not agree?
+
+That is the point at the heart of the current dispute.
+
+On Thursday, Noel Tata voted against Chandrasekaran's reappointment. Venu Srinivasan voted in favour. With the two nominee directors split, Manwani's casting vote was used to break the deadlock and the resolution went through.
+
+The legal opinion cited by Tata Trusts reportedly takes the view that this is not enough because the requirement for support from a majority of the Trusts' nominee directors is separate from the general voting process of the board.
+
+In simple terms, the question is whether the board can say that the resolution passed because the overall vote, including the casting vote, was in favour, or whether it first needs the required level of support from the Trusts' nominee directors.
+
+That distinction could determine whether Chandrasekaran's third term is fully settled.
+
+WHAT EXACTLY HAPPENED AT THE BOARD MEETING
+
+The board's decision came after months of uncertainty over Chandrasekaran's continuation.
+
+At Thursday's meeting, the reappointment resolution was put to a vote. Noel Tata opposed it, while Venu Srinivasan supported it.
+
+The disagreement among the Trusts nominees meant the board faced a deadlock. Manwani, as the director chairing the meeting, then exercised his casting vote.
+
+The resolution was consequently approved.
+
+But the subsequent legal question is whether a casting vote can resolve only a tie in the board's overall voting process, or whether it can also overcome a separate requirement relating to the Trusts' nominee directors.
+
+According to the report, Chandrachud's legal opinion says these are two different things. The opinion reportedly holds that the affirmative vote of a majority of the Trusts' nominee directors is an independent requirement, while the casting vote is meant to resolve a tie among the directors more generally.
+
+This is why the board's approval does not necessarily end the matter.
+
+WHAT HAS NOEL TATA SAID ABOUT CHANDRASEKARAN?
+
+Noel Tata's detailed statement to the Tata Sons board does not itself set out the legal argument that Chandrasekaran's reappointment is invalid. His statement is largely focused on the process followed by Tata Sons and, in particular, the dispute over whether the company should remain unlisted.
+
+However, it does provide important context on his position towards Chandrasekaran and the company's future.
+
+Noel said that at a February 2026 board discussion on Chandrasekaran's reappointment, he had asked Chandrasekaran to state his personal determination and desire to keep Tata Sons private. He also asked whether all necessary steps had been taken to ensure that outcome.
+
+According to Noel's statement, Chandrasekaran reiterated that all necessary steps had been taken. Noel said he accepted that assurance but wanted a full briefing on the options explored, the company's engagement with the regulator and the possible way forward. He also said Tata Sons and the Trusts should arrive at their position together.
+
+This is significant because keeping Tata Sons unlisted has been one of the central areas of disagreement between the company and the Trusts.
+
+THE BIGGER TATA SONS LISTING DISPUTE
+
+The question over Chandrasekaran's reappointment comes against the backdrop of a much larger dispute over the future structure of Tata Sons.
+
+The Tata Sons board had unanimously decided in March 2024 that the company should remain unlisted. As part of that decision, the company applied to the Reserve Bank of India to voluntarily surrender its certificate of registration. Noel's statement says the resolution has never subsequently been placed before the board for reconsideration. No director, he said, had moved a proposal to revisit it.
+
+The Tata Trusts separately reiterated their position in 2025.
+
+In May 2025, the trustees of the Sir Dorabji Tata Trust and Sir Ratan Tata Trust unanimously agreed that listing Tata Sons would have far-reaching implications. In July, both Trusts unanimously resolved that Tata Sons should remain unlisted and asked the chairman to explore all avenues and engage with the RBI.
+
+Noel has maintained that this position has not changed.
+
+The Tata Trusts' argument goes beyond simply wanting Tata Sons to remain private. The Trusts say the existing structure, under which they own the majority of Tata Sons and dividends from operating companies ultimately support charitable activities, is central to the Tata model.
+
+In his statement, Noel said the structure has allowed Tata Sons to take decisions that may not always be justified by a narrow commercial calculation. He pointed to the group's long-term investments and commitments, including areas such as semiconductors, electronics and civil aviation.
+
+He argued that a listed holding company would have to answer to institutional and other shareholders whose primary legitimate interest would be financial returns. According to Noel, that could affect the ability of Tata Sons to support distressed businesses or undertake long-gestation projects.
+
+In a separate Tata Trusts statement, Noel said a listing would change the character of Tata Sons and affect the principle on which the group had operated for more than a century.
+
+WHY THE RBI DECISION HAS MADE THE ISSUE MORE URGENT
+
+The listing dispute became more complicated after the RBI's latest decision.
+
+Tata Sons had sought to voluntarily surrender its certificate of registration in March 2024. The RBI's communication of September 11 said the request could not be accepted and advised Tata Sons to comply with the regulations applicable to an upper-layer NBFC.
+
+Noel, however, pointed out that the communication did not itself mention listing and did not prescribe a particular step that Tata Sons must take.
+
+He has therefore argued that the company should examine all legally permissible alternatives before moving towards a public listing. His statement calls for a detailed examination of options, legal advice and further engagement with the regulator.
+
+For the Trusts, this makes their involvement in any structural decision particularly important.
+
+Noel said the Trusts should be involved before a structural step towards listing is taken, before advisers are appointed and before decisions on the structure or timing of any such transaction are made.
+
+He also said that if the question of listing were to come back to the board, it should first be considered by the Trusts in their capacity as the majority shareholder.
+
+SP GROUP'S RS 25,000 CRORE PROPOSAL
+
+At the same September 17 board meeting, Noel also tabled a separate proposal from the Shapoorji Pallonji Group that could provide liquidity to the SP Group without Tata Sons itself necessarily going for an immediate public listing.
+
+The proposal involves monetising a portion of the Tata Sons shares held by Sterling Investments Corporation Pvt Ltd and Cyrus Investments Pvt Ltd, two investment companies of the SP Group.
+
+The proposal envisages selling enough Tata Sons shares to generate at least Rs 25,000 crore, based on the minimum valuation determined under Rule 11UA of the Income Tax Rules. The transaction would be structured in two tranches over 18 months. It would also involve Tata Sons initiating a selective capital reduction through the NCLT.
+
+Noel proposed that the liquidity requirement could be supported through a combination of Tata Sons' internal cash flows, sale of listed shares, bringing investors into newer businesses and potentially listing some businesses through an offer for sale.
+
+The proposal is important in the current context because it offers another possible route to address the SP Group's liquidity needs. But it remains a proposal placed before the board and does not mean that Tata Sons has approved a transaction or decided to list the holding company.
+
+Chandrasekaran's third term is therefore getting caught up in two separate but connected questions.
+
+The first is whether the board's voting process was sufficient to approve his reappointment.
+
+The second is the larger disagreement between Tata Trusts and the Tata Sons board over the company's future structure, including the question of listing and the role of the Trusts in such decisions.
+
+The Noel Tata statement shows that the Trusts want to be involved before major structural decisions are taken. It also records Noel's earlier questions to Chandrasekaran over his commitment to keeping Tata Sons private.
+
+At the same time, the legal opinion reported by the Times of India brings the nominee-director voting mechanism directly into the reappointment question.
+
+That is why Thursday's board vote does not necessarily close the matter.
+
+There are now likely to be questions over the legal validity and effectiveness of the board resolution, particularly around the rights of the Tata Trusts' nominee directors.
+
+The Trusts' position will be important because of both their majority ownership and their nominee representation on the Tata Sons board. But whether those rights can actually prevent or invalidate the reappointment is a matter of the company's Articles, applicable law and, if challenged, potentially the courts.
+
+For now, the factual position is straightforward: the Tata Sons board has voted to give Chandrasekaran another five-year term, with the resolution passing after an independent director used his casting vote.
+
+The unresolved issue is whether that vote completed the reappointment process or whether the separate requirement concerning the Tata Trusts' nominee directors means the matter needs to be reconsidered.
+
+And that is the reason Chandrasekaran's third term, despite the board's approval, may not yet be the final word.
+
+\- Ends
+
+Sep 18, 2026 09:46 IST
+
+---
+
+### Garena Free Fire MAX Redeem codes today, September 18, 2026: Check full list of codes, free rewards and how to redeem
+*Trending Desk · business*
+
+Garena Free Fire MAX players in India have a new opportunity to claim redeem codes on September 18, 2026. Depending on availability, these codes can provide free in-game rewards such as diamonds, weapon skins, outfits, character items and other collectibles. For regular players, redeem codes can be a useful way to collect additional items without spending money in the game.
+
+## Garena Free Fire MAX redeem codes for September 18, 2026
+
+-   P3LX6V9TM2QH
+-   ​FFWCTKX2P5NQ
+-   ​TX4SC2VUNPKF
+-   ​RHTG9VOLTDWP
+-   ​N7QK5L3MRP9J
+-   ​J2QP8M1KVL6V
+-   ​E9QH6K4LNP7V
+-   ​S5PL7M2LRV8K
+-   ​Q8M4K7L2VR9J
+-   ​RD3TZK7WME65
+-   ​ZRW3J4N8VX56
+-   ​TFX9J3Z2RP64
+-   ​WD2ATK3ZEA55
+-   ​FFPLUFBVSLOT
+-   ​MCPW3D28VZD6
+-   ​ZZZ76NT3PDSH
+-   ​V427K98RUCHZ
+-   ​J3ZKQ57Z2P2P
+
+## How to Redeem Free Fire MAX Codes
+
+Step 1: Visit the official Garena Rewards Redemption website.
+
+Step 2: Log in using the account linked to your Free Fire MAX profile.
+
+  
+
+Step 3: Enter the redeem code in the designated field.
+
+Step 4: Carefully check the code to ensure all letters and characters are entered correctly.
+
+Step 5: Click on the submit option to complete the redemption process.
+
+Step 6: If the code is valid and active, the reward will be sent to your Free Fire MAX in-game account.
+
+## Why Free Fire Redeem Codes May Not Be Working?
+
+Free Fire redeem codes may fail to work for several reasons. A code could have expired, reached its maximum redemption limit, or been issued for a specific region or server. Entering a character incorrectly can also cause the redemption to fail. Garena frequently introduces new promotional rewards through in-game events, partnerships and collaborations, so fresh redeem codes may be released periodically.
+
+## Redeem Free Fire MAX Codes Before They Expire
+
+Free Fire MAX redeem codes are usually available for a limited period and may not stay active indefinitely. Some codes can also come with a specific redemption limit, after which they may no longer work. If you want to try the latest redeem codes, it is better to use them as soon as possible instead of waiting until later in the day.
+
+---
+
+### NSE IPO: Can the large supply of shares and all-OFS structure limit listing gains?
+*Akash Podishetti · finance*
+
+The NSE's Rs 22,569 crore IPO has opened for subscription, but the absence of a fresh issue and a cooling grey market premium have raised some doubts over how much room the stock may have for listing-day gains. The IPO is entirely an offer for sale, with existing shareholders selling up to 12.64 crore shares at an upper price band of Rs 1,785 apiece.
+
+NSE will not receive any proceeds from the issue. The offer opened on September 17 and received about 40% subscription. It will remain open for investors till September 21 with the shares expected to list on the BSE on September 24. State Bank of India, Bank of Baroda, Canada Pension Plan Investment Board and other existing investors are among the selling shareholders.
+
+For detailed NSE IPO action, click here
+
+The grey market, however, has turned less enthusiastic as the issue moved closer to opening. NSE's GMP has fallen from around Rs 192 when the price band was announced to about Rs 148 currently. At the upper price of Rs 1,785, the current GMP implies a listing price of roughly Rs 1,933, or an upside of just over 8%.
+
+The decline has put the spotlight on whether NSE's all-OFS structure could limit listing gains, particularly as more than Rs 22,000 crore worth of existing shares come into the public market at once.
+
+Analysts, however, are divided on how much weight investors should give to the OFS tag. Anish Maheshwari, CEO and MD of VSure Investment Affairs, said the structure by itself should not be seen as an overhang because NSE is already a mature and highly cash-generative company.
+
+"I also wouldn’t see the 100% OFS as an overhang by itself. NSE is already a mature, cash-generating business, so fresh capital is not the central investment thesis here," Maheshwari said.
+
+For a mature exchange such as NSE, the argument for raising fresh capital is also less compelling than for a young company that needs money to build factories, repay debt or fund expansion. Listing performance, Maheshwari said, will ultimately depend more on the entry valuation, earnings visibility and demand for the shares.
+
+Shruti Jain, Chief Strategy Officer at Arihant Capital Markets, also said the distinction between a fresh issue and an OFS is unlikely to determine NSE’s listing performance.
+
+"Historically also, several OFS, including BSE itself which is the closest competitor, listed with strong gains despite being an OFS," Jain said, adding that pricing, valuation, demand and prevailing market conditions would matter more.
+
+There is, however, a supply argument against expecting a very large listing pop. Prathamesh Kadival, Research Analyst at Bonanza, said existing investors selling shares without any capital going into NSE could act as a restraint on near-term gains.
+
+"The catch lies in the structure, because the entire issue is an Offer for Sale," Kadival said. With shareholders such as SBI and Bank of Baroda trimming their stakes, the large supply of shares may cap the gains on listing, he added.
+
+The size of the IPO could also make it harder to reproduce the sharp listing gains sometimes seen in smaller issues where relatively limited share supply chases heavy demand. Avinash Gorakshakar, Founder and Head of Research at Avinash Mentor Research Services, expects the listing to remain positive but said expectations should be tempered.
+
+"The grey market and structural hype indicate a positive listing outlook. However, manage expectations due to the massive size and lack of a fresh-issue growth engine," Gorakshakar said. He expects the immediate upside to be more measured than in smaller, high-growth IPOs.
+
+## Brokerages positive on the IPO
+
+At Rs 1,785, LKP Securities values NSE at around 42.9 times FY26 earnings and has recommended subscribing to the IPO. YES Securities has also given a subscribe call, saying NSE is available at about a 21% discount to BSE on a P/E basis, with BSE trading at roughly 54.3 times FY26 diluted earnings.
+
+Angel One has also recommended subscribing, arguing that NSE’s market leadership, profitability and long-term exposure to the growth of Indian capital markets support the valuation despite regulatory risks around derivatives volumes.
+
+_Disclosure: This article has been written by Podishetti Akash, who is not a SEBI-registered Research Analyst or an Investment Adviser. Podishetti Akash and her ‘relative(s)’ (as defined under Section 2(77) of the Companies Act, 2013) do not hold any financial interest in the companies mentioned in this article as of the date of publication. The views/recommendations mentioned in this article, wherever applicable, are those of the respective SEBI-registered Research Analyst/brokerage and have been reproduced/reported with due attribution. They should not be construed as the views or recommendations of The Economic Times Digital or the journalist. Readers are advised to consider the original research report and make their investment decisions based on their own assessment. Brokerage disclourses here_.__
+
+
+---
+
 ## 17 September 2026
 
 ### 'Every Blessing Strengthens My Resolve': PM Modi Hails 'Aashirwad Ka Diya' Campaign On His 76th Birthday
