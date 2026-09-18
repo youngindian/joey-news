@@ -1,8 +1,106 @@
 # Editorials
 
-_Last updated: 2026-09-17 06:32 UTC_
+_Last updated: 2026-09-18 06:27 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 18 September 2026
+
+### Complex priorities: On UPI transactions, MDR charges
+*The Hindu · Editorial*
+
+The Merchant Discount Rate (MDR) charges announced for UPI transactions show how political considerations can dilute economic benefits. In a quest to preempt political attacks, the rate structure announced by the National Payments Corporation of India has been made overly complex. From October 15, the new rates will apply only to UPI payments of ₹2,000 or more made at merchants. As such, the charge is limited to only about 2.5% of all UPI transactions, which is a welcome limitation. Yet, within this, the rules have created different gradations. UPI payments made at small merchants earning less than ₹1 lakh a month are exempt. Those made to merchants operating in certain essential sectors will attract a flat MDR charge instead of the 0.4% applicable on other sectors. Capital market payments above ₹2,000 will attract a different MDR. These are clearly designed keeping political backlash in mind. However, they raise some important doubts among merchants, and could potentially slow the adoption of UPI in India. For example, the rules are not clear on what happens to a small merchant who crosses the ₹1 lakh a month turnover threshold, which is a low limit at today’s prices. Who is monitoring their incomes? This will either increase the compliance burden on small merchants, or involve a new mechanism for real-time transaction-checking that banks will have to develop. In the short run, it will likely result in small merchants simply refusing to accept UPI until greater clarity emerges.
+
+The government has also instructed banks to make sure that merchants do not pass on this charge to customers. But it has not specified how banks are expected to check whether merchants tweak their prices to absorb this additional charge. A back-of-the-envelope calculation based on past trends suggests that the MDR will yield an upper limit of ₹2,400 crore of monthly revenue for the payments ecosystem. The sector-wise flat rates and reduced rates will likely result in a lower amount. The government has denied any U.S. pressure to bring these rates to favour American credit card companies. Yet, the data suggest that the benefit will largely accrue to private banks and U.S.-owned UPI apps. There is still an argument to be made for the Reserve Bank of India to foot this bill from the vast surpluses it generates every year. Maintaining vital payment infrastructure is surely a good use of these funds. However, if the government persists in implementing this charge, it should certainly simplify the structure. There is still time before its rollout. The Goods and Services Tax experience shows that rate complexity hits small businesses the hardest.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/complex-priorities-on-upi-transactions-mdr-charges/article71476513.ece)
+
+---
+
+### New fault lines: On Manipur’s Kuki-Zo–Naga conflict
+*The Hindu · Editorial*
+
+In the three years since the conflagration of May 2023 hardened into a fault line between the Meitei and Kuki-Zo communities, Manipur has traversed a slow path towards peace between them. After nearly a year of President’s Rule gave way in February 2026 to a Bharatiya Janata Party-led government under a new Chief Minister, Yumnam Khemchand Singh, attempts to engineer a thaw gathered pace with the everyday violence between the communities abating. Yet, many of those displaced in 2023 remain in relief camps; an RTI reply puts those dead in these camps at over 700, many due to the lack of access to basic health care and adequate nutrition. Even so, there have been tentative and encouraging openings towards rebuilding normalcy. On September 2, two Kuki-Zo MLAs attended the Assembly session — the first time since legislators from the community began boycotting it following the attacks in Imphal at the start of the ethnic conflict. In doing so they defied a directive from the Kuki-Zo civil society organisation, the Kuki Inpi Manipur, to continue the boycott until there was a concession on the demand for a separate administration. The two MLAs seem to acknowledge that it is time to reopen the political space even if differences persist, and for this, their presence in the Assembly must be welcomed.
+
+Yet, these moves have coincided with a new ethnic fault line in Manipur. Since February, violence between the Naga and Kuki-Zo communities — which began as localised disputes — has spread across the hill districts. Till July, at least 15 Kuki-Zo people, 11 Nagas, three security personnel and a truck driver were killed; more have died in the last two months. Houses in Naga and Kuki-Zo villages have been burnt down and the newly displaced have moved into camps. Blockades imposed by partisans of the communities against the other have held up essentials and medicines, with the smaller Kuki-Zo community the worse affected. Health centres in the hills have been left dysfunctional. This echoes the Naga-Kuki violence of the 1990s, now revived by armed groups claiming to act on behalf of their respective communities and resurrecting arguments over who controls the hills and whose customary laws prevail there. With its tenure ending soon and Assembly elections due next year, the State government must move quickly to contain this outbreak of hostilities. It must work with civil society to lower the rhetoric — reportage from the ground suggests a weariness with the violence across communities – while acting against the armed groups with the help of the security forces. Those imposing blockades must be deterred by the force of law. Criminal law must apply equally across communities in the hills, and the safety and welfare of civilians must be guaranteed irrespective of ethnicity.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/new-fault-lines-on-manipurs-kuki-zonaga-conflict/article71476964.ece)
+
+---
+
+### The crucial Uttar Pradesh test of the BJP’s hegemony
+*The Hindu · Opinion*
+
+The political dominance of the Bharatiya Janata Party (BJP), which appeared almost unassailable after 2014, is beginning to show cracks. The 2024 general election was an important setback: the party lost its parliamentary majority and had to depend on its allies to form the government. Since then, disillusionment has acquired greater political salience through youth protests, rising prices, unemployment and failures of governance, particularly irregularities in the education and examination systems. To these can be added the defeat of the Constitutional Amendment Bill on delimitation and women’s reservation in April, the Cockroach Janta Party (CJP) protests that led to the resignation of the then Union Education Minister and the complete washout of the monsoon session of Parliament, as both the Prime Minister and Home Minister stayed away. Questions over accountability for the excessive police action against student protesters on July 20, compounded by the absence of the two leaders from Parliament, reinforced the impression of a government unwilling to answer for its actions.
+
+But these setbacks do not by themselves amount to an erosion of hegemony. The BJP remains a formidable political force, retaining a substantial electoral base and considerable ideological appeal. What is now at issue is whether the forces that produced the BJP’s dominance are beginning to encounter limits. Uttar Pradesh is where this can be most clearly tested.
+
+[Read full article](https://www.thehindu.com/opinion/lead/the-crucial-uttar-pradesh-test-of-the-bjps-hegemony/article71477301.ece)
+
+---
+
+### Karnataka’s anti-conversion law must go
+*Deccan Herald · Editorial*
+
+When Archbishop of Bengaluru Peter Machado led a delegation of bishops to meet Congress president Mallikarjun Kharge seeking the repeal of Karnataka’s anti-conversion law, they reminded the party of a pledge made on the eve of the assembly elections. The Karnataka Protection of Right to Freedom of Religion Act, 2022, enacted under the Basavaraj Bommai government, remains on the statute book despite the Siddaramaiah cabinet deciding in June 2023 to repeal it. At the time, the government cited the lack of a majority in the legislative council for not moving the repeal bill, a hurdle that no longer exists. The Act prohibits conversion through force, fraud, coercion, undue influence or allurement. But its procedures raise serious concerns about liberty. A person intending to convert must give 30 days’ notice to the District Magistrate, triggering a public notice, police inquiry, and a post-conversion appearance before authorities. Relatives and associates may also lodge complaints. Such provisions expose consenting adults, particularly interfaith couples, to unwarranted intervention.
+
+The constitutional position is nuanced. Article 25 guarantees freedom of conscience and the right to profess, practise, and propagate religion, subject to public order, morality, and health. In Rev. Stainislaus v. State of Madhya Pradesh (1977), the Supreme Court held that propagation does not confer a right to convert another person by force or fraud. Coercive conversion can therefore be restrained. The question is whether voluntary change of faith by an adult should be subjected to extensive prior disclosure and official oversight. In later rulings, the Court has emphasised autonomy, dignity, and privacy in intimate personal choices. In a 2025 judgment on Uttar Pradesh’s conversion law, it cautioned against unrelated third parties using such statutes to intrude upon individual decisions of faith.
+
+'Repeal anti-conversion law, provide 1% quota': Christian delegation urges Congress chief Mallikarjun KhargeThe contrast with Karnataka’s recently enacted Eva Nammava Eva Nammava law is instructive because both laws concern adults making personal choices. That legislation protects adults choosing inter-caste marriages and penalises violence, intimidation, and social or economic boycott aimed at obstructing such choices. This principle should guide the debate on conversion. There is also a deeper social dimension. Conversions cannot be debated without acknowledging the discrimination that drives sections of Dalits to seek dignity and equality elsewhere. The state has a legitimate duty to prevent force, fraud, and coercion, but that duty cannot justify surveillance of voluntary choices. Adults must be free to choose their faith without being treated as suspects. The government must repeal the law and uphold individual liberty.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/karnatakas-anti-conversion-law-must-go-4150028)
+
+---
+
+### MDR regime should not dilute UPI promise
+*Deccan Herald · Editorial*
+
+The Union government’s decision to set a Merchant Discount Rate (MDR) for person-to-merchant Unified Payments Interface (UPI) transactions above Rs 2,000 was expected after Parliament passed an amendment to the Payment and Settlement Systems Act, 2007, last month. Individual consumers are exempt from the MDR of 0.4%, and there will be no fee on person-to-person transactions. For transactions of Rs 75,000 and above, the MDR has been capped at Rs 300, which will be paid by the merchants. Through a notification, the government has restricted the imposition of direct or indirect charges on people making or receiving payments through electronic modes such as RuPay-enabled debit cards and UPI transactions up to Rs 2,000.
+
+UPI has been a major success story and has revolutionised payments in the country. A transaction value of Rs 0.07 lakh crore in 2016-17 has grown to around Rs 314 lakh crore in 2025-26. Volumes have increased at a compound annual growth rate of 188%, and the average transaction value has increased by 155% since the system’s inception. On average, the interface handles 660 million daily transactions. It has reached the poorest sections of society. Around 96% of the transactions are below the Rs-2,000 threshold. It is necessary to protect the overwhelming majority of everyday payments made by small vendors and consumers.
+
+No US pressure in UPI MDR decision; NPCI circular offers no advantage to foreign credit cards: Finance MinistryThe argument for imposing a cost on the transactions is that such a large payment system will not be sustainable solely on subsidies. A parliamentary committee observed that the government incentive to UPI covered only 11% of the operational costs. Investments are necessary to ensure security and prevent fraud. The infrastructure needs to be constantly upgraded. The MDR regime, as it is designed now, can help meet these objectives. A viable business model is also necessary to attract new players. However, there is an element of unfairness in imposing a new cost on a facility that the users have grown accustomed to. It must be ensured that the merchants do not pass on the MDR costs to the consumers. Continuous monitoring is required to ensure that platform fees or hidden charges are not levied on the consumers. The system should continue to be simple and affordable to the vast majority of users. The goal of a cashless system will be defeated if the UPI – a digital public good – loses its attraction. The new payment policy should be open to review if the changes become counterproductive.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/mdr-regime-should-not-dilute-upi-promise-4150029)
+
+---
+
+### BRICS has set the compass for global politics
+*Deccan Herald · Opinion*
+
+A mega event in international diplomacy such as the BRICS Summit 2026, which took place in New Delhi last weekend, inevitably generated a lot of clutter. But if one were to cut out the diplomatic gibberish that BRICS is evolving as a bridge-builder, what stood out is that the grouping has taken a significant step forward aimed at reshaping the world order after a long period of hibernation, meandering through by-lanes and ensuring balance of power and maintaining peace. This trajectory returns the grouping unambiguously to its original mooring, pivoted on the concept of multipolarity as expounded by one of the great visionaries of 20th century statecraft Yevgeny Primakov.
+
+Russia’s Foreign Minister Sergey Lavrov recently noted, “Many people saw the early 1990s as ‘the end of history’ and an irreversible turn to unipolarity. But it was in that period that Yevgeniy Primakov formulated the concept of multipolarity.”
+
+To be sure, the evolution of BRICS was not easy, as Primakov was ahead of his time. The West could grasp the import of what he prophesied, namely, multipolarity and its explosive potential to reorder the international system that was dominated by the Western world through the past 4-5 centuries. Much of the non-Western world, including India and the bulk of the ‘Global South’, was entrapped in the ‘unipolar predicament’. Unsurprisingly, the West first tried to ignore the BRICS and the potential of its espousal of multipolarity, but gradually began realising that no amount of debunking and derisive laughter was helping matters, and the grouping was here to stay. Meanwhile, the BRICS itself took time to get its act together.
+
+Addressing the opening session of the Summit in New Delhi on Saturday, Prime Minister Narendra Modi said BRICS “has arrived at its ‘coming of age’ moment. Over the past 20 years, BRICS has established a distinct identity on the global stage.” China’s President Xi Jinping amplified that estimation in a forward-looking direction when he called on BRICS nations to take on a ‘peacemaking role’.
+
+Modi shared warm moments with Russia’s President Vladimir Putin and Xi, greeting both leaders together, holding their hands, and sharing smiles. A Reuters report noted that the ‘images reflected personal camaraderie and convergence among the three leaders as the expanded BRICS entered its third decade.’ Later, on Sunday, while summing up Xi’s two-day visit to Delhi, China’s Foreign Minister Wang Yi told Chinese official media that the ‘most important consensus’ Xi and Modi reached at their bilateral meeting was that China and India should be partners.
+
+According to Wang, Xi said China and India can draw on each other's strengths, support one another, help each other succeed, and pursue common development. Wang underscored that the Modi-Xi meeting drew widespread international attention. A Chinese foreign ministry readout said that under the strategic guidance of the two countries’ leaders, China-India relations have gradually emerged from a low point, progressing from a ‘restart’ to a ‘renewed elevation’.
+
+Indeed, areas of co-operation between the two countries keep expanding, trade volume has hit record highs, and people-to-people exchanges are growing more dynamic. There is no question that the ‘renewed elevation’ of India-China relations can be expected to create synergy for the BRICS processes, which, in turn, will collaterally hold profound significance for the Global South and the wider non-Western world.
+
+BRICS turns 20: What India gains from staying inside the blocSuffice to say, the Western attempts to deride or downplay the BRICS bloc won’t fly. Notably, Western commentaries have moved away from studiously ignoring BRICS as an artificial marketing acronym coined by Goldman Sachs to a shift in the coverage of the group to often focus heavily on its internal divisions, structural economic flaws, and potential to fail. Equally, a frequent point of criticism in Western media centred on exacerbating the incipient geopolitical and economic rivalries within the bloc that are endemic to any international grouping. The New Delhi Declaration issued after the summit will compel a rethink in this respect.
+
+Interestingly, Modi proposed in his speech a ‘Troika-like arrangement’ for BRICS to carry forward its agenda in the period between the annual summits. It essentially entails India and China (which holds the chairmanship next year) working together. This signifies a radical shift in New Delhi’s perception of BRICS as a vehicle that potentially brings together India and China as partners. Simply put, BRICS lubricates the India-China normalisation and puts it on a trajectory of co-operation that adds to the gravitas. True, a good beginning has been made to take matters also to the next level of an RIC summit (Russia-India-China) — incidentally, a platform that Primakov originally proposed in the late nineties.
+
+The international situation is positioning BRICS to play a pivotal role. The decline of the West is accelerating, and the major European economies such as Germany, Britain, and France are looking into the abyss of recession. For the US economy too, the staggering debt problem exceeding $40 trillion has become an albatross. A vicious cycle is playing out in the US bond crisis — a surge in Treasury yields and falling bond prices driven by rising national debt, high interest rates, inflation fears, and geopolitical tensions, creating stress in the government debt market.
+
+According to Bloomberg, the US is experiencing significant bond market turmoil reflecting investor concerns over fiscal sustainability and inflation pressures. Meanwhile, there is no end in sight for the US’ war with Iran. The quagmire in the Persian Gulf prompted US President Donald Trump to turn down a request for US help from the Saudi Crown Prince Mohammed bin Salman to counter the Houthis of Yemen — although the closure of the Red Sea will block the Suez Canal and deepen the crisis in the Strait of Hormuz.
+
+The defeat of the West in the Ukraine war will mark the return of a resurgent Russia to the world stage, which is, of course, good news for India and the BRICS. New Delhi has learned the hard way the pitfalls of putting all its eggs in the US basket. An equal relationship based on mutual interests and mutual respect is way too much to expect from Washington.
+
+Alas, there are still interest groups in India espousing co-habitation with the West, overlooking the grim reality of the West’s agenda of global hegemony. But such delusional thinking has no future. The BRICS has set its compass.
+
+M K Bhadrakumar is a former diplomat.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/brics-has-set-the-compass-for-global-politics-4150485)
+
+---
 
 ## 17 September 2026
 
