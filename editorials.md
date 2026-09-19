@@ -1,8 +1,156 @@
 # Editorials
 
-_Last updated: 2026-09-18 06:27 UTC_
+_Last updated: 2026-09-19 06:24 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 19 September 2026
+
+### Continental glory: On the Asian Games 2026
+*The Hindu · Editorial*
+
+Even as Japan, known for efficiency, welcomes its third Asian Games and the first in 32 years, on Saturday, the Aichi-Nagoya Games have already earned the ‘worst ever’ tag because of accommodation and logistical issues. A country that successfully hosted two Olympics — in 1964, within two decades of suffering atomic bombings, and in 2021, behind closed doors amid the unprecedented COVID-19 pandemic — is now strangely struggling to accommodate more than 17,000 athletes and officials from 45 nations in hotels, containers and a cruise ship. Despite these issues, 501 of India’s athletes, including 267 men and 234 women, across 36 disciplines, will try to keep its flag flying high. At the previous Hangzhou Asiad, India had an impressive tally of 106 medals and was placed fourth behind China, Japan and South Korea. There is a significant drop in the number of Indian athletes, from 650-plus in 40 disciplines three years ago, following rationalisation, discouraging a mad rush because of the perks and money associated with the Asiad. Nevertheless, Indian sports authorities expect around 100 medals, which may noticeably improve the athlete-to-medal ratio.
+
+The presence of 310 debutants in the contingent signals a brighter future for the country, which has spent nearly ₹800 crore on Asian Games preparations in the last cycle. Shooting and athletics, which together field 105 athletes, should continue to be the major contributors to India’s medals tally, followed by archery, boxing, badminton, squash and wrestling. Stars including Manu Bhaker, Mirabai Chanu, Lovlina Borgohain, P.V. Sindhu, Aman Sehrawat, Tajinderpal Singh Toor, Gulveer Singh, Harmanpreet Singh, Smriti Mandhana and Jasprit Bumrah will lead India’s campaign. At 39, squash player Joshna Chinappa will be the first Indian to compete in seven consecutive Asian Games. The youngest athlete, 15-year-old cricketer Vaibhav Sooryavanshi, and the oldest, 55-year-old rider Shruti Vora, are the other attractions. Some attention will also be devoted to Indian men’s and women’s hockey teams, which will aim to win gold medals and secure berths at the 2028 Los Angeles Olympics. While India can take pride in fielding athletes in debut-making disciplines, such as mixed martial arts and teqball, it should ponder over its poor representation in swimming, gymnastics and cycling, which offer more medals and open avenues for Olympic glory. Meanwhile, the Indian men and women’s teams would be watched closely in cricket. In pushing for continental excellence, India should also remain vigilant about its deteriorating global reputation due to the sharply rising doping graph.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/continental-glory-on-the-asian-games-2026/article71480936.ece)
+
+---
+
+### No hard ceilings: On the revision to EPFO wage ceiling
+*The Hindu · Editorial*
+
+The Union Cabinet’s approval to raise the wage ceiling for mandatory coverage under the Employees’ Provident Fund Organisation (EPFO) from ₹15,000 to ₹25,000, though belated, is commendable. The BJP-led government has finally responded to this long-standing demand of workers in the organised sector. Around 51 lakh additional employees may be brought under the PF fold, which has around 7.98 crore contributing members. Those in the wage slab of ₹15,000-₹25,000 will now be covered under the Employees’ Pension Scheme (EPS), 2026. Although Union Labour Minister Mansukh Mandaviya cited a government survey as the basis for the increase, the 12-year delay in implementing it should have been avoided. The Minister, who said that the average salary in private establishments was ₹23,000, should also make the survey’s findings public for a better understanding of the country’s overall wage situation. With some concerns having been raised that not every employer may be willing to make the additional contributions required after the revision, the government must ensure that all employers comply with the law.
+
+So far, the government has been silent on revising the EPS minimum pension of ₹1,000, fixed in September 2014 alongside the previous revision in the PF wage ceiling. EPFO pensioners have been demanding the hike in the minimum pension amount. Before it assumed office at the Centre in 2014, the BJP had urged the Congress-led UPA government to keep the minimum pension at ₹3,000 and index it to inflation. Yet, it has not made even a symbolic beginning towards the indexation of pension to inflation. Moreover, about 45% of the nearly 82 lakh pensioners receive ₹1,000 or less. In March 2026, the Joint Parliamentary Standing Committee on Labour reminded the government that “the existing minimum pension amount is inadequate to meet even the basic needs of pensioners particularly in the ... scenario marked by ... rising healthcare and living expenses”. Also, little is known about the follow-up to the panel’s recommendation for “an urgent and comprehensive review of the minimum pension”. The EPFO must release the findings of actuarial assessment, made by valuers in recent years. This should also be beneficial to the PF body, as EPFO CEO Ramesh Krishnamurthi observed in an interview with The Hindu in August that “there is a misconception that the [pension] fund has unlimited resources”, while ruling out the reopening of the window for higher pensions. Even if the government is unwilling to restore the pre-2014 coverage, under which all employees were covered regardless of their wages, it should consider relaxation of the restriction on the coverage. Else, many pensioners will be pushed below the poverty line.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/no-hard-ceilings-on-the-revision-to-epfo-wage-ceiling/article71480865.ece)
+
+---
+
+### A homegrown innovation ecosystem is taking root
+*The Hindu · Opinion*
+
+Technologies that once arrived in India through imports are increasingly being invented at home through local research institutions, industry, and startups. Three institutional foundations of an innovation economy are now advancing together: public research, corporate research and development (R&D), and deep-tech entrepreneurship. The transformation is yet incomplete, but the architecture is finally visible. Gallium Nitride (GaN) semiconductor technologies, critical for advanced radar, space systems, and next-generation communications, are increasingly being developed domestically, helping close a strategic gap in a tightly regulated, export-controlled field. At the same time, affordable immunotherapies developed in India are expanding access to advanced cancer care and demonstrating the country’s growing capacity for biomedical innovation.
+
+Patent filings are often cited as a ready indicator of innovation. The filing numbers continue to show impressive growth. From just over 1,10,000 patent filings in 2024-25, the number grew to more than 1,43,000 in 2025-26, a 30.2% increase. Moreover, domestic applicants now account for almost seven in 10 filings.
+
+However, the sheer volume of applications does not tell the complete story. Even a modest enquiry reveals an innovation story that begins to fray at the edges. The number of patents in force in India (just over 2,40,000 in 2025) is a fraction of those in China (5.7 million), the United States (3.5 million), and Japan (2.1 million); all these are 2024 data.
+
+Related StoriesPreparing India for a true innovation-led economy
+
+India’s next challenge — from invention to global scale
+
+Deep-Tech, AI, Innovation to shape India’s future: Dr. Mashelkar
+
+This suggests low grant rates, high abandonment rates, or a combination of both. Add to this meagre commercialisation, low R&D spending — India still spends just under 1% of GDP on research and development, against about 2.4% in China and 3.5% in the U.S. — and we see how far we are from a truly technology-driven, innovation-led economy.
+
+The emerging pillarsHowever, there lies a resilient core, and shaping it are three strong and vital strands that promise to anchor India’s future. Public institutions with government support have made vital breakthroughs in long-gestation innovation. Private R&D spending exceeded that of all levels of government combined for the first time in 2024. This is expected to climb and account for 55% through 2025-26. Domestic industrial houses are beginning to reap rewards from focused and committed R&D. A maturing startup ecosystem is finding its feet beyond low-hanging service platforms, actively showcasing deep tech and complex manufacturing. That all three strands are coming of age together bodes well for India.
+
+Editorial | Innovate or be eaten: On India and an innovative ecosystem
+
+In March 2023, Defence Research and Development Organisation (DRDO) scientists at the Solid State Physics Laboratory (SSPL) in Delhi and the Gallium Arsenide Enabling Technology Centre (GAETEC) in Hyderabad announced a breakthrough in making gallium nitride (GaN) monolithic microwave integrated circuits (MMICs). The technical know-how to make these circuits, which are critical for military and defence applications, was, by widely reported accounts, refused to India under the offset provisions of the Rafale fighter jet purchase from France. The DRDO is now actively transferring the technology for GaN High Electron Mobility Transistors (HEMTs)-based MMICs to be used in 5G/6G wireless infrastructure, electric vehicles on-board chargers, and renewable energy inverter systems. India is now one of seven countries to have mastered this technology, alongside China, France, Germany, Russia, South Korea and the U.S. AGNIT Semiconductors, a spin-off from the Centre for Nano Science and Engineering (CeNSE) at the Indian Institute of Science, Bengaluru is translating homegrown GaN technology to real-world commercial applications.
+
+From implementer to innovatorWhile long-gestation R&D at public institutions is starting to pay off, there is growing optimism from academia and domestic industry-led R&D as well. The Bharat 6G Alliance (B6GA) is making rapid progress in its stated aim of contributing 10% of the global 6G patents by 2030. According to a review meeting by Union Minister for Communications Jyotiraditya Scindia, B6GA members have made more than 7,700 patent filings across 5G and 6G technologies, including over 4,400 foreign filings. But, these are applications, not yet grants or declared standard-essential patents, and their true impact remains to be seen. However, taken together with almost 3,000 technical contributions to 3GPP last year, a 15-fold increase from 2020, these figures point in the right direction. The World Intellectual Property Organization’s 2025 Patent Cooperation Treaty rankings showed that Jio Platforms Limited had broken into the top 20 international patent filers for the first time, rising more than 300 places to be placed 19th overall.
+
+Related StoriesIndia has a research blindspot: its own science system
+
+From job seekers to job creators: experts stress on innovation shift India needs
+
+Why Indian healthcare cannot function in silos: leaders weigh in
+
+While patent numbers are only a part of the story, participation in standards bodies and intellectual property ownership increasingly determine who captures value from future communication networks. India is securing ownership of critical digital infrastructure and is moving from being a standard-implementer to a standard-setting innovator.
+
+There is also a marked shift in India’s startup ecosystem. Buoyed by the government’s commitment to Research, Development, and Innovation (RDI) and private capital matched by initiatives such as the more than $2.5 billion in deep-tech commitments made by members of the India Deep Tech Alliance (IDTA), Indian startups are aiming farther and higher than before. Pixxel Space, founded by two Birla Institute of Technology and Science (BITS) Pilani alumni, is carving a niche in hyperspectral imaging technology with six satellites in orbit and a full constellation of 18 to 24 planned. The Vikram-1 low earth orbit launch by Skyroot Aerospace and the IIT Madras nurtured Agnikul Cosmos’s parallel push towards fully reusable launch vehicles promise to strengthen India’s role as a frugal space technology leader.
+
+Startups such as ImmunoACT, incubated at IIT Bombay in partnership with the Tata Memorial Centre, are expanding access to advanced and affordable health care. NexCAR19, India’s first indigenous CAR-T cell therapy, has delivered effective cancer treatment at a tenth of typical treatment costs. Leveraging the Biotechnology Industry Research Assistance Council (BIRAC) early-stage support, Bengaluru-based Remidio Innovative Solutions is at the forefront in the fight against preventable blindness, such as diabetic retinopathy and glaucoma, through smartphone enabled retinal imaging systems and AI.
+
+The direction is clearThese examples do not by themselves make India an innovation superpower but demonstrate that the three strands are coming together to weave an enduring innovation ecosystem. The GaN story illustrates the emerging innovation pipeline. Government laboratories developed the foundational capability, academic institutions nurtured the talent and research ecosystem, and startups such as AGNIT are now carrying the technology into commercial markets.
+
+However, sustaining these three strands will demand more work, from standardising tech-transfer terms for publicly funded IP and expanding examiner capacity at the patent office, to funding the translational gap between a granted patent and a first paying customer. Yet, as we look through the innovation lens, the direction is clear. India is gradually shedding its identity as a back-office service provider and strengthening the institutions that enable nations to generate their own technology, intellectual property, and industrial capabilities. The journey remains unfinished, but the contours of an innovation economy are beginning to form.
+
+Mukundan Chakrapani holds a PhD in science and a law degree and is an academic; Gaurav Jain is the founder of Hastin Research and an intellectual property rights expert helping enterprises, startups, and universities transform ideas into intellectual property. The views expressed are personal
+
+[Read full article](https://www.thehindu.com/opinion/lead/a-homegrown-innovation-ecosystem-is-taking-root/article71481820.ece)
+
+---
+
+### Politics on the pitch dims title shine
+*Deccan Herald · Editorial*
+
+India’s women cricketers set a record on Sunday by winning the Asia Cup for the eighth time. However, some of the title’s sheen was taken away when Harmanpreet Kaur’s side decided to skip the presentation ceremony after the final against Sri Lanka.
+
+The team’s refusal to accept the trophy from Asian Cricket Council (ACC) chairman Mohsin Naqvi, who is also Pakistan’s Interior Minister, was a replay of what the men’s team led by Suryakumar Yadav did after winning the 2025 Asia Cup.
+
+It was then described as an expression of national sentiment following the Pahalgam terror attack. The Board of Control for Cricket in India (BCCI) has described the decision on Sunday as “institutional” and “collective”, taken in view of the prevailing political tensions. It said the women’s team was expressing solidarity with the men’s side.
+
+The Indian side has also avoided post-match handshakes with Pakistani players. India plays Pakistan in multi-nation events to avoid disqualification under the International Cricket Council (ICC) rules and in consideration of the financial stakes involved in these highly popular fixtures. If the national sentiment is to be respected, as claimed, India should avoid playing against
+
+Pakistan and be ready to pay the price for the decision. The current policy and the conduct of the players veered towards theatrics, turning a sporting triumph into an unnecessary show of bitterness.
+
+Pakistan will go to 'any extent' to defend Saudi Arabia: Army spokesman amid Houthi attacks The team earned the victory and the trophy, and to deny them the right to claim it is unjust. Coach Amol Mazumdar said the trophy did not matter because the team were champions anyway. That is a rhetorical line for public consumption and does not carry conviction.
+
+Sport is expected to unite people, not to divide them. The friction that played out in Dubai was dictated by narrow political interests. It was aimed to appease certain sections of people and is of a piece with the divisive policies practised in other areas.
+
+Sporting relations between India and Pakistan have seen better times; the politics were also in tune with those ties. When the Indian team set out for the Pakistan tour in 2004, the then Prime Minister Atal Bihari Vajpayee presented captain Sourav Ganguly a signed cricket bat with a written message: khel hi nahi, dil bhi jeetiye – shubhkamnaye (win not only the game, but the hearts too). The team did both. The dominant policy and thinking are different now, and the message is the opposite of what it was.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/politics-on-the-pitch-dims-title-shine-4151295)
+
+---
+
+### A train to nostalgia: The long-haired girl on the train led me to an unforgettable school reunion
+*Deccan Herald · Opinion*
+
+On a train journey from Bengaluru to Chennai over 35 years ago, I got talking to a lady sitting opposite me. Her daughter wore her long hair in two braids. Commenting on the girl’s hair became our icebreaker, and we chatted.
+
+The lady said she was returning from Pune, where her husband was the principal of a Kendriya Vidyalaya, while she, a KV teacher herself, was posted in Chennai. So I mentioned that I had studied at the Avadi Central School in Chennai from 1965 to 1968.
+
+When I mentioned my maiden name, she got so excited and mentioned she was Saroja Miss. Oh, what joy! We would never have recognised each other under any other circumstances! I remembered her very vividly. She was our Girl Guides teacher, and immediately her image in the blue sari, with the long, collared white blouse tucked into her petticoat, came to mind. We couldn’t stop exchanging news.
+
+Growing up in those years, our thoughts never went to our teachers falling in love and marrying. Actually, I don’t know if it was a marriage arranged by their colleagues or by their family members or if these two planned it on their own.
+
+In our Avadi school, we had a maths teacher whose getup stood out, but we students never talked about it and accepted it very naturally. He always wore white pants and a grey coat and a turban (a la President Radhakrishnan).
+
+Going back to 1980s? How viral nostalgia comes with a hidden priceSome hair, neatly cut straight, peeped out at the nape of his neck. He wore ruby earrings on both lobes and the sacred ash on his forehead. He always carried an umbrella. He was a brilliant teacher and totally old school in his attire.
+
+Saroja Miss mentioned that Mr Mahadevan, the maths teacher, was her husband. Noticing my astonished look, she immediately clarified that before they got married, he got himself a normal haircut and stopped wearing his turban, and he gifted her his ruby earrings.
+
+Mr Mahadevan was perhaps a trendsetter, and I wonder if he realises that his man bun is a fashion statement of some young men today. I wonder if he grew bald or let his grey hair grow back long and if he ever wore a man bun again!
+
+Thinking of this couple fondly this morning, I hoped that life is treating them well, that they always have enough and are content with their life’s journey.
+
+[Read full article](https://www.deccanherald.com/opinion/a-train-to-nostalgia-the-long-haired-girl-on-the-train-led-me-to-an-unforgettable-school-reunion-4151297)
+
+---
+
+### Don’t mess with the Machher Jhol: Why food politics may backfire in Bengal
+*Deccan Herald · Opinion*
+
+Bengalis are known all over the world for their love of fish, pujo, and politics. Several fish sellers in Kolkata courier vacuum-sealed fish to their dedicated NRI clientele, who wait for their padmar ilish (Hilsa) sitting in New York, London, or Frankfurt.
+
+So, when the Bharatiya Janata Party (BJP) stormed to power in May this year, ending Mamata Banerjee’s 15-year run at the helm, the question on many Bengalis’ lips was not about GST or governance. It was simpler, and far more urgent: how will the BJP acclimatise itself in a land where vegetarianism constituted less than 2% of the community? The doubts were not unfounded, given the BJP’s national image as a party of assertive and sometimes moralising vegetarianism, cultivated over decades by leaders who wouldn’t touch an egg, let alone ilish.
+
+If anyone doubted how seriously West Bengal took this gastro-political anxiety, the campaign trail before the elections settled the matter. Mamata Banerjee toured the state, warning that the BJP would snatch fish, meat, and eggs off every plate, turning ilish, mutton, and chingri into instruments of psychological warfare.
+
+The BJP answered the charges with a fish basket, quite literally, which was carried through the election rallies for the cameras, vouching to adapt itself to the pescatarian state. Anurag Thakur posed over a plate of fish and rice in Kolkata; Amit Shah personally vouched that nobody could tell Bengalis to change their palates. And Narendra Modi, a lifelong vegetarian, found himself accusing the outgoing government of failing Bengal’s fisheries. The Prime Minister is, perhaps, the only politician on record to campaign for someone else’s fish.
+
+BJP intensifies social media push, Nitin Nabin reviews leaders' digital outreachHowever, within a few months of the BJP coming to power in the state, a call by Bageshwar Baba for Bengalis to turn vegetarian during the annual Durga Puja created a furore. The Baba’s provocation of the Bengali psyche seemed to have backfired spectacularly, with senior leaders distancing themselves from the sentiment. The outcry from Bengalis led the state BJP president Samik Bhattacharya to publicly reject the Baba’s appeal and reaffirm that Bengalis will eat what they always have and nobody can tell them otherwise.
+
+The politicisation of food in Bengal might prove costly for its proponents because that idea fails to engage the state’s distinct religious and gastronomical landscape, where the divine is worshipped not as an entity separate from the people, but rather as one embedded in their ordinary lives. The current controversy around food choices has an allied context – an ongoing project to reposition an inclusive, cultural festival as an event with stronger religious bearings.
+
+The Shakta-Tantra religious landscape of Bengal is unique, both in terms of its practices and belief systems. If one looks at Bengal’s ancient goddess traditions, one can easily notice that the gods and goddesses chose to live amidst the people, intricately involving themselves in the lives of these people, rather than retreating to some distant, separate plane.
+
+In that sense, food is also a medium that connects the human and the divine, thereby retaining the bonds of filiality and devotion for millennia. Furthermore, the goddesses of Bengal are known to throw tantrums if their favourite foods go unserved – tantrums that, tradition warns, could lead to consequences. In such a scenario, Bageshwar Baba’s call is not only ridiculous but also deeply insensitive.
+
+Bengal’s festivals are carnivalesque in their origin and nature. And like the festivals in the state, the food is not defined by categories. It does not tether itself to the binaries of purity and profanity, vegetarian and non-vegetarian. Bengalis believe their goddesses first cleanse their palate with the bitter shukto before they sink their fingers into macch and mangsho (fish and mutton). Bengalis and their goddesses do not discriminate on the basis of food. Rather, they cook fish with spinach and vegetables, and serve it as chocchori; they cook daal with fish-head and relish it as machher-matha diye moong daal; they can even turn a modest pulao into the fish-infused murighonto.
+
+Any political or ideological narrative that comes between a Bengali and their fish is set for certain failure. Ideologies may rise and fall in the state, chief ministers may come and go, but the machher jhol will simmer on regardless. And any party foolish enough not to see this will find itself, sooner or later, thoroughly cooked.
+
+(The writer is an assistant professor at Amity University, Bengaluru. She extensively works on the religious, folk, and oral traditions of West Bengal) (Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/dont-mess-with-the-machher-jhol-why-food-politics-may-backfire-in-bengal-4151289)
+
+---
 
 ## 18 September 2026
 
@@ -36,6 +184,108 @@ The political dominance of the Bharatiya Janata Party (BJP), which appeared almo
 But these setbacks do not by themselves amount to an erosion of hegemony. The BJP remains a formidable political force, retaining a substantial electoral base and considerable ideological appeal. What is now at issue is whether the forces that produced the BJP’s dominance are beginning to encounter limits. Uttar Pradesh is where this can be most clearly tested.
 
 [Read full article](https://www.thehindu.com/opinion/lead/the-crucial-uttar-pradesh-test-of-the-bjps-hegemony/article71477301.ece)
+
+---
+
+### DC Edit | India’s Non-Alignment Redux
+*Deccan Chronicle · Editorial*
+
+India’s response to the passage by the US House of Representatives of the Sanctioning Russia and Iran Act that authorises President Donald Trump to impose up to 100 per cent tariffs on countries such as India and China for buying Russian oil was defiant, sharp and non-reconciliatory in its tone, reflecting a newly acquired confidence in its own strengths and the reliability of the network it has of late woven around its neighbours and long-time friends.
+
+The Indian note contained references which do not conform to the usual pattern of its communication with the US. The government said it is “firmly committed to ensuring energy security for its 1.4 billion people through diversified sourcing”; US imposition of high tariffs could affect bilateral ties, and that the government will work closely with Indian trade and industry bodies to deal with the implications. It’s an assertion of its independence, a warning to an overbearing global partner and an announcement about its plans to deal with it once it comes to such a pass.The Trump administration has discovered a powerful weapon in tariffs ever since it assumed office last year and has been using it with abandon. The US government offered no logic or reason why it hiked or lowered the tariffs, even on its friendly countries. There was no policy stability, which is a necessary ingredient for countries to plan their transnational trade and commerce. Most nations gave up fighting the bulldozer raj of Mr Trump and scrambled for ways to propitiate the US. India was also among those nations.It was perhaps the success of the back-to-back summits of the Shanghai Cooperation Organisation and the BRICS, in which some of the leading and emerging economies of the world, sans the US and Western Europe, were part of that emboldened the Indian stand. Non-alignment was a nuanced response of Indian foreign policy during the Cold War, and India is perhaps discovering a timely version of it in the changed global political theatre.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-indias-non-alignment-redux-1988616)
+
+---
+
+### DC Edit | Noel Concerns Legitimate, Tatas Must Resolve Them
+*Deccan Chronicle · Editorial*
+
+A public fight between the directors of Tata Sons, which indirectly controls over 100 companies and is the largest corporate conglomerate, and its difference of opinion with its promoter Tata Trusts is unfortunate.After the Reserve Bank of India (RBI) rejected its request to surrender an NBFC licence, the Tata Sons Board in a majority decision, reappointed incumbent chairman N. Chandrasekaran for another five years. The decision split two nominee directors of Tata Trusts, with Noel Tata opposing it, while Venu Srinivasan approved it. Since any major decision at Tata Sons needs approval from the majority nominee members of Tata Trusts, the promoter of Tata Sons called the decision illegal. Noel Tata also opposes the public listing of Tata Sons and wants the board to explore all options available to protect its unique charity-led ownership structure. Other directors of Tata Sons, however, appear to have accepted the inevitability of listing and want Mr Chandrasekaran to lead it.Mr Chandrasekaran is one of the best corporate leaders in India. As Tata Sons argued, he is the best person to lead the historic transformation of 108-year-old Tata Sons. However, Noel Tata questioned Mr Chandrasekaran’s appointment as chairman because the company’s general body, where Tata Trusts holds the majority, had not yet convened to renew his directorship. This statement raises an important legal contention that Tata Sons must address.Tata Sons, incorporated on November 11, 1917, is owned by an extremely close-knit group, with the largest beneficiary being the charitable trusts. Nine charitable trusts, collectively known as Tata Trusts, own a 64.53 per cent stake. The Shapoorji Pallonji Group owns 74,352 shares, or an 18.40 per cent stake. Ten Tata Group companies own 60,851 shares, or a 15.05 per cent shareholding. Eight members of the Tata family hold 8,129 shares, or a 2.01 per cent stake.Given the Tata Group’s unique character, Noel Tata believes Tata Sons should not be listed on stock exchanges as listing will increase pressure on the board to meet profit-linked goals — a stance that is logical and plausible.In March 2024, the Tata Sons board under the guidance of Ratan Tata unanimously resolved to remain unlisted. The incumbent directors must, therefore, explain why they abandoned their previous resolution when options were available to seek a legal remedy.Since Tata Sons is not owned by an individual or a family and has been a vehicle for the country’s largest philanthropic initiative, the RBI should not use the same yardstick it uses for individual or family-run companies. Regarding transparency and public accountability, all major Tata companies are already listed on exchanges.The Tata Group is one of the most respected conglomerates in the country, having contributed immensely to Indian industry. Its board members and the representatives of the Tata Trusts and Tata family, therefore, must protect its respect and its brand by resolving their differences internally, without washing dirty linen in public.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-noel-concerns-legitimate-tatas-must-resolve-them-1988610)
+
+---
+
+### Farrukh Dhondy | How Hard Can It Possibly Be To Reactivate a Bank Account?
+*Deccan Chronicle · Opinion*
+
+Years ago I took all the bank notes from under my mattress and opened a bank account in the Bandra, Mumbai branch of Standard Chartered Bank. Deter the thieves?
+
+The bank gave me a debit card. And then disaster. My own trusting, naïve idiocy? I flew to Majorca for work and was at the baggage carousel hall, sitting, waiting for the bags to be loaded. My passport, OCI card and the wretched Standard Chartered debit card were in a shoulder bag which I left on my seat as I saw my bag arriving. And went to fetch it.
+
+As I started towards the exit I went for my shoulder bag. Gone! Removed? No! Stolen! Back in London after my workshop stint, I applied for all three documents — passport, OCI card and the Standard Chartered hole-in-the-wall debit card. The passport and the OCI card arrived without much stress — a form to fill, and they both came by post in reasonable time. No word from Standard Chartered and no card. I wrote again and then again. Still no card after three months. Four, then six… But yes, finally some communication, and the card was sent by post to my niece’s address in Mumbai, an address which I must have given the bank at some point, even though all my requests for a card came from my London address, where I wanted it delivered. Taat pis! My niece will keep it safe (I hope)… And then last month, gentle reader, I get an e-mail from the very paper you are reading, saying that the monthly cheque they tried to deposit in my Standard Chartered account had been sent back. The account was not accepting payments into it. What??? Why? Molest a duck? Some months ago, I’d received an e-mail from a Standard Chartered official saying that she was assigned to be my customer support. At that point I wished that this offer of support had come before I had all those shenanigans and unexplained delays about my replacement debit card. Kher! I would now email this generous person assigned to look after my interests and ask why the cheque into my account had been rejected.Yes, gentle reader, I received a prompt reply saying my account had been put on ‘hold’. No explanation why! I asked the obvious question. Why after all these years? Some suspicion of illegal activity? I thought to myself, the only laundering I do is of my clothes. I have absolutely no clue about ‘laundering’ money and would certainly not put any £20 or even a Rs 5 note in the washing machine with my clothes.I naturally asked why my account had suffered this ‘hold’. Answer came there none — at first — and then my liaison contact said it was because I hadn’t filled in KYC forms. I didn’t know what KYC meant and said so in my next email. The liaison carer sent me six forms to fill in, without saying what KYC was and with other abbreviations I didn’t understand. I did my best filling the forms, spending hours affixing photographs of myself, my passport, my OCI card, my motor car insurance, my driving licence, etc. I sent these off to Standard Chartered — the person who was looking after my interests (?). I got a reply saying I was to present copies of the same form to the Standard Chartered office in London.Gentle reader, I traced the address and went to Moorgate with the documents and proof that I existed. The official dealing with ‘verifications’ was not in the office that day. I was asked to ring her the next day and make an appointment. I did and, yes, I took my six forms and all my identity stuff. The lady was polite and thorough and even told me what KYC and the other obscure abbreviations meant. Sorted? No! This is Standard Chartered. I got an email a few days later saying two forms were missing. I said I had filled all the forms I had received. They sent me two more forms which I had never seen before. I filled these and sent them to the
+
+verifier at the London office. Was my account reinstated? No chance. Even as I write this, I get three phone calls from India saying that the eight forms I have filled don’t have my initials in the right places. My custom-‘carer’ tells me about other things I have to fill in. I don’t have the forms to so do and ask her to email them to me. She says she will courier them. An hour later she emails, asking for my postal address. Still no indication or explanation for why my account was put on ‘hold’.
+
+have to (still) go through this tedious, boring, unexplained, unnecessary procedure. Will I be told? Likely? Will the Pope convert to Zoroastrianism?And of course, I want Standard Chartered to pay me three days wages for wasting my time. Like wanting Trump to voluntarily resign and confess? I’ve been seriously thinking of restoring the new, much larger sum to under the mattress?
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/farrukh-dhondy-how-hard-can-it-possibly-be-to-reactivate-a-bank-account-1988589)
+
+---
+
+### Papers Missing, But Not Overly Worried About Passing SIR Test
+*Deccan Chronicle · Opinion*
+
+“Attendance at the hearing is mandatory. Please treat this as urgent and make the necessary arrangements to attend without fail.”
+
+I had meant to ignore the SIR notice which came over WhatsApp and had decided against going. But then my wife went the day before me. The notice-issuing official seemed upset, she said, that I hadn’t even responded to his WhatsApp message.
+
+Noblesse oblige, and so I appeared before him with the raggedy file of papers I have to prove that I exist and that I am qualified to elect those we euphemistically call public servants.
+
+The place was overrun with anxious people, as is to be expected in a place where uncertainty and chaos are usually the norm and into which this government has gratuitously injected more uncertainty.
+
+The tech set is fond of the word ‘disruption’ and use it in the positive sense but it is actually a violent term. Disruption of whose lives and to what end? That is not considered, if it is thought of at all. The poor and the marginalised have no real vote in how their existence is unsettled.
+
+Anyway, the official turned out to be a teacher who would be doing this well into October rather than teaching. He was pleasant, polite and competent and finished off the process in a few minutes. This is often the case and I have found that those at the business end of government are like this, even when asked to do things that are absurd. I include many of the officials who have raided our office and have been told to book me and so on. It is further up the chain of command that we have malice and incompetence and, as is the case in these present times, a certain absurdity.
+
+My file of documents is raggedy because of acts of god and acts of man. More precisely acts of man who thinks he is god. The birth certificate (Nanavati Hospital in Bombay) and the school leaving certificate (Sir JJ English School) were washed away in the Surat flood of 2006. Minimum government had allowed water to accumulate in the dam upstream and then maximum governance released it without warning or preparation, flooding the banks of the city.
+
+My parents spent four days on their terrace, alone and without assistance, losing most of what they had. What else is there to produce? My passport of course is with a court, impounded. It occurs to me that the state insists I am Indian when taxing me and filing cases against me, but suspects I am not when it comes to voting. I wonder how my fellow criminals around the country are dealing with this paradox.
+
+Anyway I still had some documentation — bank statement, property papers, etc. — to submit and these were accepted. Perhaps they will be sufficient, perhaps not. We shall find out. It would be more exciting to be struck off the rolls and be moved along the line of torture. In Assam, those unable to prove citizenship to the satisfaction of the malevolent state have been jailed in addition to being disenfranchised.
+
+Consider what happens to people who are told one day that their bank accounts, licenses, passports are no longer valid.
+
+Then of course there are all these deportation stories. I am hoping to be sent to some civilised nation, perhaps in Southeast Asia. I would not mind China either, the rising star of humanity, though in all honesty it is in another South Asian nation that I would be really at home by way of culture and diet.
+
+Knowing my luck, and knowing this government, that will likely not happen. I will instead be kept here, disenfranchised but told to stand through six stanzas of Vande Mataram. The mother of democracy demands respect and adoration but it is a one-sided relationship. You have to prove you are her child, which is a strange position if we think of it.
+
+The presumption of guilt has been baked into many laws in New India. It existed for the laws on terror and narcotics. In 2015 it was extended to the possession of beef. It was for the accused to prove that they were not guilty. In 2018 it was extended to the love jihad laws. Assam showed us the way for doing it on citizenship and here we are.
+
+Wasn’t the BJP only some time ago talking of passing a law on compulsory voting? Wonder what happened to that and why the position went from “everyone must vote” to “nobody can vote unless they pass this purity test”. To expect consistency of principle from them is the same as to expect humanity or civility.
+
+At an earlier time I would be deeply upset by both this process and the thought of being deprived the right to vote (I used to queue up at the booth at the crack of dawn). Now I am more relaxed about it and frankly I don’t care. I have great affection for the people who comprise this nation; I have little and perhaps none for the rest of what comprises it.
+
+The New York city mayor in his magical campaign last year spoke of meeting a constituent for whom all romance about home had vanished. “I used to love New York,” she said to him, “now it’s just where I live.”
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/papers-missing-but-not-overly-worried-about-passing-sir-test-1988322)
+
+---
+
+### Shobhaa De | No Women or Ukraine, but Trump Is Smarting
+*Deccan Chronicle · Opinion*
+
+Guess who dropped the biggest Bric? Now that the fun and games are over (…are they?), we can all sit back and get a giggle out of the sideshows that go hand in hand with ambitious global events and are invariably more instructive than the official main act. Take the optics. Hello uncles!Where were the women?? They exist! In case you haven’t noticed! Where was the missing colour? But there you were — so many of you — in dead boring attire, playing mine is bigger than yours. It was so exaggeratedly and comically Alpha, someone should have kept smelling salts handy for the faint-hearted. BRICS 2026 has been declared a gigantic diplomatic coup for India — mainly in India and by Indians.Theek hai. Even the most strident critics readily admitted it was a casting coup if not a geo-political one. Imagine getting 11 A-List Hollywood Actors to come up on stage and share an Oscar awarded to a multi-star cast ensemble blockbuster. Prime Minister Narendra Modi’s magnum opus was described as a ‘’coming of age moment for Brics@20.” The agenda was strictly vegetarian - American Turkey was pointedly missing. So what? World leaders rushed back to their suites to order Room Service.Will come to the Shudh Shakahari banquet menu later. First off, let’s talk entertainment. Two world leaders broke into song, and no, they did not croon music from their own countries. Plus, it wasn’t a duet.
+
+Instead, both men picked Punjabi and Urdu/Hindi popular songs from India. Indonesian President Prabow Subianto attempted “Gallan Goodiyan” which loosely translates to “sweet talk, loving chatter, friendly conversation”, possibly to send out a lovey-dovey message to the host (India’s Prime Minister Narendra Modi). Malaysian PM Anwar Ibrahim was more direct. He sang a Kishore Kumar classic, “Khwaab ho tum ya koi haqqeeqat”. Errr… here’s the literal translation — “Are you a dream or are you a reality?” Modiji may have blushed… disappointingly enough, he didn’t respond with his favourite Gujarati song.While the watching world tried to make a song and dance out of the tightly orchestrated summit, with its inbuilt implications and complications, the “New Delhi Declaration”, was a huge hit with the Big Boys backing it. Global South solidarity got further strengthened as leaders negotiated a delicate diplomatic tightrope walk, making sure not to tread on each other’s toes. Given the presence of top dogs representing nations engaged in active hostilities (Iran and the United Arab Emirates), this indeed was the icing on PM Modi’s eggless cake.Ooops, that reminds me of the banquet which started with khandvi (besan roll, ok?)
+
+and ended with shahtoot phirni (doodh pudding, ya!). Chef Sanjeev Kapoor defended the almost “sattvic” menu by saying something like, “Vegetarians do not consume non-vegetarian food, but all non-vegetarians eat vegetarian food.” Sorry, Boss, but a good host thoughtfully caters to the palate of his honoured guests. What if the next host, Chinese President Xi Jinping, offers succulent Peking duck and a strictly non-vegetarian Chinese menu to his mehmaan in 2027? A jelly fish starter in place of khandvi, and sliced roast pork instead of carrot bean poriyal and millet pulao? Well, I am sure our delegation will come armed with packets of methi theplas…The tree-planting photo ops? Good touch. Putinji shovelling dirt. Modiji rearranging the world’s most feared leaders into a neat file, grabbing a hand here, nudging a shoulder there. Boys will be boys.Especially when there are so many cameras around. Ten saplings of the great banyan tree, symbolising deep roots, longevity and strength, were planted by the mighty leaders.It irks that women were all but invisible throughout the summit while a bunch of men planned and plotted the future of the new world. Deftly excluded? Women and Ukraine — same-same but different. Both rendered inconsequential, non-existent while these men focused on real stuff that’s far more important — war, arms, ammunition, bombs, planes, war heads, nukes. Donald Trump was given the biggest thappad. So… at least some good came out of the Summit. Now, let’s wait for Yellow Hair’s backlash.Then comes a far weightier issue than the Brics 2026 Summit and the Bharat Mandapam gathering of the greats. Let’s call it the Fat Shaming of India. Followed by the fat shaming of prominent female personalities. Both are interlinked. The world has recognised one incontrovertible fact: India will never go back to being Size Zero.India was once visibly anorexic… and not fashionably so. It wasn’t out of choice. India was not bulimic. India was poor. There wasn’t enough food for its people. Today’s India is visibly prosperous and is happy to flaunt its Plus Size. Our people are not just well-fed; some are clearly overfed. This is a sharp response to food deprivation, which defined the earlier generation. Some political rivals insist India has become obese and needs to go on a diet. But that’s not happening.We can’t get over the psychological ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/shobhaa-de-no-women-or-ukraine-but-trump-is-smarting-1988598)
+
+---
+
+### 0.4% UPI charge for some merchants: Could this push India back towards cash?
+*Deccan Herald · Editorial*
+
+The Union government’s decision to set a Merchant Discount Rate (MDR) for person-to-merchant Unified Payments Interface (UPI) transactions above Rs 2,000 was expected after Parliament passed an amendment to the Payment and Settlement Systems Act, 2007, last month. Individual consumers are exempt from the MDR of 0.4%, and there will be no fee on person-to-person transactions. For transactions of Rs 75,000 and above, the MDR has been capped at Rs 300, which will be paid by the merchants. Through a notification, the government has restricted the imposition of direct or indirect charges on people making or receiving payments through electronic modes such as RuPay-enabled debit cards and UPI transactions up to Rs 2,000.
+
+UPI has been a major success story and has revolutionised payments in the country. A transaction value of Rs 0.07 lakh crore in 2016-17 has grown to around Rs 314 lakh crore in 2025-26. Volumes have increased at a compound annual growth rate of 188%, and the average transaction value has increased by 155% since the system’s inception. On average, the interface handles 660 million daily transactions. It has reached the poorest sections of society. Around 96% of the transactions are below the Rs-2,000 threshold. It is necessary to protect the overwhelming majority of everyday payments made by small vendors and consumers.
+
+No US pressure in UPI MDR decision; NPCI circular offers no advantage to foreign credit cards: Finance MinistryThe argument for imposing a cost on the transactions is that such a large payment system will not be sustainable solely on subsidies. A parliamentary committee observed that the government incentive to UPI covered only 11% of the operational costs. Investments are necessary to ensure security and prevent fraud. The infrastructure needs to be constantly upgraded. The MDR regime, as it is designed now, can help meet these objectives. A viable business model is also necessary to attract new players. However, there is an element of unfairness in imposing a new cost on a facility that the users have grown accustomed to. It must be ensured that the merchants do not pass on the MDR costs to the consumers. Continuous monitoring is required to ensure that platform fees or hidden charges are not levied on the consumers. The system should continue to be simple and affordable to the vast majority of users. The goal of a cashless system will be defeated if the UPI – a digital public good – loses its attraction. The new payment policy should be open to review if the changes become counterproductive.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/04-upi-charge-for-some-merchants-could-this-push-india-back-towards-cash-4150029)
 
 ---
 
