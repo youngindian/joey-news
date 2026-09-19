@@ -1,3 +1,423 @@
+## 19 September 2026
+
+### 2 men buy 36 iPhones worth Rs 1 crore in Dubai: ‘Orders from friends in India’
+*Trends Desk · legal*
+
+Dubai residents Raihan and Muhammed Shabeeb spent the night in the parking lot of Dubai Mall so they could be among the first customers at the store.
+
+[Read full article](https://indianexpress.com/article/trending/trending-in-india/dubai-men-spend-1-crore-buy-36-iphones-overnight-queue-apple-store-viral-video-10884658/)
+
+---
+
+### Dollar advances vs yen as BOJ dissent clouds rate-hike outlook
+*Reuters · economy*
+
+Synopsis
+
+Following the Bank of Japan's decision to increase interest rates, the dollar saw a rise against the yen. Some policymakers expressed skepticism regarding further hikes, while Japanese officials monitored exchange rates, hinting at possible intervention. Additionally, the US Federal Reserve's assertive approach contributed to the dollar's strength, with energy prices and Fed communications attracting significant market attention.
+
+The dollar jumped against the yen on Friday after two policymakers at the Bank of Japan dissented from a widely expected decision to raise interest rates, raising doubt among traders about the likelihood of further hikes.
+
+The dollar pared gains after Japanese authorities conducted rate checks in the currency market - considered a preliminary step before intervention - the Nikkei newspaper reported.
+
+The BOJ pushed rates to their highest level in 31 years at 1.25%, yet the move did not boost the Japanese currency as traders felt there was a lack of explicitly hawkish guidance.
+
+The decision, coming on the heels of the Fed's hawkish message from earlier this week, clears the way for further dollar strength, strategists said.
+
+"(The) lack of hiking punch makes it easier for USD to go higher," Steven Englander, head of G10 FX research at Standard Chartered, said.
+
+"The USD strength that we have been forecasting for the medium to long term may finally be here," Englander said.
+
+The US dollar was 0.5% higher at 156.725 yen, after rising as much as 1.3% to a two-week high of 158.05 yen.
+
+It was set for its largest weekly rally since October 2025.
+
+"They've just clearly underwhelmed versus expectations here," said Ray Attrill, head of FX strategy at National Australia Bank in Sydney.
+
+"And I think that one of the more staggering aspects of it was that they couldn't even get the unanimous vote for that," he said. "That really raised eyebrows in the market."
+
+Traders remained alert to the risk of intervention to prop up the currency after Finance Minister Satsuki Katayama said Tokyo won't hesitate to conduct further coordinated action, following a joint US-Japan move to boost the yen in late July.
+
+"A hike that weakens the currency is an uncomfortable outcome for policymakers and gives the Ministry of Finance a stronger case to push back against one-sided price action," Kevin Ford, FX and macro strategist at Convera, said.
+
+The yen rallied sharply in early September to its highest since February as traders bet the BOJ would embark on multiple rate hikes, although those wagers came into question on Friday.
+
+## Energy Prices In Focus
+
+FX market participants remained focused on energy prices and the US Federal Reserve.
+
+The dollar index, which tracks the currency against six major peers, was up 1.2% for the week to around a seven-week high after the US Federal Reserve hiked interest rates on Wednesday and signalled more increases could be coming.
+
+Traders see a roughly 55% chance of a quarter-point hike at the Fed's next two-day meeting next month, up from 27% a week ago, according to the CME Group's FedWatch tool.
+
+Oil prices slipped to their lowest levels in around a week on signs of easing supply pressures in Saudi Arabia.
+
+China has asked Tehran to help rein in the Iran-aligned Houthis after their military blitz on Saudi Arabia over the past week, three Iranian sources familiar with the matter told Reuters.
+
+The euro rose 0.5% to $1.1481 and was set to end the week 1% lower after the Fed's rate hike.
+
+The British pound was 0.3% higher at $1.3391, after retail sales data beat expectations on Friday. The Bank of England held interest rates on Thursday but also suggested it could raise borrowing costs.
+
+In cryptocurrencies, bitcoin rose 5.9% to $81,000 on Friday - its third straight day of gains - as it extended a rebound from Tuesday's sharp selloff, when the US Senate failed to advance comprehensive cryptocurrency legislation in a setback for digital-asset companies.
+
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+...moreless
+
+_(You can now subscribe to our ETMarkets WhatsApp channel)  
+_
+
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+...moreless
+
+---
+
+### Rs 1 Lakh Crore Land Row: KTR Challenges Revanth Reddy, Offers To Transfer Family’s Assets
+*Karishma Jain · general*
+
+KTR has hit back at Revanth Reddy’s allegation that the KCR family owns land worth Rs 1 lakh crore, calling the claim baseless.
+
+[Read full article](https://www.news18.com/india/rs-1-lakh-crore-land-row-ktr-challenges-revanth-reddy-offers-to-transfer-familys-assets-ws-l-10340298.html)
+
+---
+
+### Bengaluru techie arrested after accident reveals boy’s body in car boot
+*Atiya Firdos · legal*
+
+Bhaskar Reddy, who was arrested on kidnapping and murder charges, allegedly lured 13-year-old Prajwal, saying they would buy crackers for Ganpati celebrations and that he would allow him to drive his car.
+
+[Read full article](https://indianexpress.com/article/cities/bangalore/bengaluru-techie-arrested-boy-kidnapped-murdered-ransom-plot-10884638/)
+
+---
+
+### Two-year yield hits highest since 2024 as investors weigh outlook for rate hikes
+*SECTIONS Two-year yield hits highest since · economy*
+
+US Treasury yields were higher on Friday, with two-year yields hitting their highest since July 2024, as investors evaluated the outlook for interest rates following the Federal Reserve's first rate hike in three years this week.
+
+Investors are eyeing the prospect of a new global rate-tightening cycle as worries about inflation have mounted.
+
+On Friday, the Bank of Japan raised interest rates to a 31-year high and its governor signaled the central bank has entered a new phase focused on preventing inflation from overshooting its target.
+
+Two-year yield hits highest since 2024 as investors weigh outlook for rate hikes
+
+On Friday, US Treasury yields experienced an upward movement as investors expressed concerns regarding inflation. The Federal Reserve's recent increases in interest rates and indications of more hikes in the future contribute to this shift. With traders predicting additional adjustments in upcoming meetings, there is a growing focus on global central banks tightening their monetary policies to address escalating price pressures.
+
+The Fed on Wednesday raised rates and flagged more hikes in the coming months, while Fed Chairman Kevin Warsh delivered hawkish comments.
+
+"The two-year is going to be moving in tandem with hike pricing," said Molly Brooks, US rates strategist at TD Securities.
+
+"There's more risk (of) pricing in more hikes than pricing out hikes at this point."
+
+Traders see a more than 55% chance of another increase when the US central bank next meets in October, according to CME FedWatch. That expectation was at 53% late Thursday.
+
+The yield curve between 2- and 10-year notes was last at 25.5 basis points, after earlier reaching 23.8 bps, the flattest since June 25.
+
+The two-year yield has been driven higher faster than the 10-year yield, in part because of expectations of more hikes, while longer-dated debt has been relatively kept in check by the Fed's apparent willingness to control inflation.
+
+"The Fed meeting was able to kind of calm market nerves a little bit in terms of the long end," Brooks said.
+
+Investors will weigh upcoming data for clues about the US economic outlook.
+
+Yields mostly held gains after data on Friday, including a report showing US factory production unexpectedly fell in August after seven straight monthly increases.
+
+Spikes in oil prices tied to the US-Israeli war on Iran have been behind some of the inflation concern.
+
+But oil prices eased on Friday after China, acting on a request from Saudi Arabia, quietly asked Iran to limit attacks by Houthi rebels on Saudi oil infrastructure.
+
+The yield on the benchmark U.S. 10-year Treasury note was last up 5.3 basis points at 5%. It reached 5.041% on Tuesday, the highest since 2007.
+
+The two-year US Treasury yield, which typically moves in step with interest rate expectations for the Fed, was last up 5.3 basis points at 4.743%. It earlier reached 4.7475%, the highest since July 2024.
+
+The yield on the 30-year bond was up 3.6 basis points at 5.332%.
+
+---
+
+### Europe's STOXX600 falls as autos, telecoms lead broad sell-off
+*Reuters · economy*
+
+Europe's STOXX 600 tumbled on Friday in broad-based losses led by automobile and telecom shares, while also logging a weekly decline in a week marked by retreating oil prices and interest-rate decisions by major central banks.
+
+The pan-European index fell 1.1% to 635.45 points, giving up almost all the gains made in the last two sessions. It was down 0.6% for the week.
+
+Regional bourses also ended the session in the red, with London's FTSE 100 and Germany's DAX down 1.5% and 1.6%, respectively.
+
+The automobile and parts sector fell 3.4%, with Volkswagen leading the losses in its biggest one-day drop since September 2025, down 5.6%.
+
+The company slashed its outlook, flagging €10 billion ($11.5 billion) in one-off items 
+
+Porsche shares fell 4.9%.
+
+Telecommunication stocks were down 3.3%, posting their biggest single-day fall since April 2025, with Airtel Africa dropping 11.3% to become the STOXX's top decliner after Bloomberg News reported that its unit Airtel Money is considering downsizing its London IPO.
+
+Food and beverages lost 1.9%, with Nestle down 2.6% after Russia seized control of the Swiss food giant's local assets.
+
+Oil prices pared earlier losses on Friday as markets assessed Saudi supply alongside concerns about a widening Middle East conflict. Still, energy shares shed 0.7% and fell 0.5% for the week.
+
+A respite in the selloff in the bond market, along with receding crude prices, helped risk sentiment this week. The moves came even as the US Federal Reserve increased rates, while the Bank of England left rates unchanged but warned that further tightening may be needed if the war in Iran drags on.
+
+The central banks' headlines added to the sense that the policymakers were now getting the jump on inflation.
+
+"The focus for next week will be whether this month's rate hikes represent insurance against an energy-driven inflation shock or the beginning of a lengthy global tightening cycle," said Daniela Hathorn, a senior market analyst at Capital.com.
+
+"If yields stabilise and oil continues lower, equities could find some breathing room."
+
+Meanwhile, the European healthcare sector was the best performer this week, followed by insurance, while banks and automobiles were the worst hit.
+
+Also on the radar are developments ahead of next week's meeting between US President Donald Trump and his Chinese counterpart Xi Jinping.
+
+Among other stocks, Orange dipped 5.8% after Morgan Stanley downgraded the French telecoms company to "underweight."
+
+LPP climbed 8% after Poland's largest fashion retailer reported a 64% rise in second-quarter net profit.
+
+---
+
+### Amreli man kills 5-year-old daughter, stuffs body in fridge, ends life: Police
+*Brendan Dabhi · legal*
+
+Multiple suicide notes recovered from the spot linked the man's step to 'severe financial constraints', police said
+
+[Read full article](https://indianexpress.com/article/cities/ahmedabad/multiple-suicide-notes-recovered-spot-linked-mans-step-severe-financial-constraints-police-10884625/)
+
+---
+
+### Gold rises to one-week high, heads for weekly gain on easing oil prices
+*SECTIONS Gold rises · economy*
+
+Gold prices rose to a one-week high on Friday, and were on track for their first weekly gain in four, as lower oil prices eased concerns about prolonged inflationary pressures, though a stronger dollar limited gains.
+
+Spot gold was up 0.3% at $4,352.39 per ounce by 11:17 a.m. EDT (1517 GMT), after hitting its highest level since September 11 earlier in the session. Bullion has gained 0.2% so far this week.
+
+US gold futures edged 0.2% lower to $4,390.30.
+
+"Easing of oil prices reduces inflation pressures as oil has been the main driver of overall inflation... Precious metal investors had expected a (US) rate hike and piled into short positions to take advantage of the expected selloff in gold. These positions have been rapidly unwound," said Chris Gaffney, president of world markets at EverBank.
+
+Brent crude oil prices extended losses for a third straight session as easing concerns over Saudi supply disruptions outweighed anxiety about a widening of conflict across the Middle East.
+
+Lower oil prices offered some relief from inflation worries, but the risk of a Middle East supply shock remains a key concern.
+
+The dollar rose to a more than seven-week high, making greenback-priced bullion expensive for holders of other currencies.
+
+The Federal Reserve raised interest rates by a quarter of a percentage point to the 3.75%-4% range on Wednesday and flagged more hikes in the coming months.
+
+Traders now see a 58% chance of another US rate hike when the central bankers meet next in October, according to the CME FedWatch tool.
+
+Although gold is traditionally viewed as an inflation hedge, higher interest rates can diminish its appeal by making yield-bearing assets more attractive.
+
+Additionally, the Bank of Japan raised interest rates to a 31-year high and signalled its readiness to keep pushing up borrowing costs.
+
+Meanwhile, gold demand in India was subdued this week as buyers held back purchases in anticipation of lower prices, while premiums in China remained steady, supported by robust investment demand.
+
+"Gold is currently testing resistance near the $4,400 to $4,440 range and a move above this resistance level could clear a path higher for gold prices," said Gaffney.
+
+Spot silver rose 1.8% to $66.37, platinum gained 1.7% to $1,798.30 and palladium added 1% at $1,303.46. All metals were headed for weekly gains.
+
+---
+
+### Delhi Confidential: Nitin Nabin’s solemn Punjab welcome, ministries prepare to leave Krishi Bhawan
+*Express News Service · legal*
+
+A subdued welcome marked Nitin Nabin’s Punjab visit, while government ministries prepare for relocation as Krishi Bhawan is set to be vacated.
+
+[Read full article](https://indianexpress.com/article/delhi-confidential/nitin-nabin-punjab-krishi-bhawan-relocation-10884592/)
+
+---
+
+### Rupee snaps losing streak on RBI support, oil retreat
+*SECTIONS Rupee snaps losing streak · economy*
+
+The Indian rupee Friday broke its week-long losing streak amid reported dollar sales by the Reserve Bank of India (RBI) and a mild retreat in oil prices.
+
+The currency closed at 95.87, versus its previous close of 95.93, while Brent crude oil prices fell to nearly $101 per barrel during the day, according to Reuters.
+
+The currency traded in the range of 95.91 and 95.70, while a firm dollar index at 101.3 and importer demand for the US currency prevented the rupee from gaining significantly, traders said.
+
+  
+
+The currency has weakened 1.05% so far this fiscal, and the pace of its decline has drastically slowed following the near-10% retreat in FY26.
+
+---
+
+### Garena Free Fire MAX Redeem codes today, September 19, 2026: Check full list of codes, free rewards and how to redeem
+*Trending Desk · business*
+
+Garena Free Fire MAX players in India have a new opportunity to claim redeem codes on September 19, 2026. Depending on availability, these codes can provide free in-game rewards such as diamonds, weapon skins, outfits, character items and other collectibles. For regular players, redeem codes can be a useful way to collect additional items without spending money in the game.
+
+## Garena Free Fire MAX redeem codes for September 19, 2026
+
+-   ZZZ76NT3PDSH
+-   RHTG9VOLTDWP
+-   FFPLUFBVSLOT
+-   J3ZKQ57Z2P2P
+-   N7QK5L3MRP9J
+-   TX4SC2VUNPKF
+-   MCPW3D28VZD6
+-   P3LX6V9TM2QH
+-   WD2ATK3ZEA55
+-   Q8M4K7L2VR9J
+-   FFWCTKX2P5NQ
+-   V427K98RUCHZ
+-   S5PL7M2LRV8K
+-   RD3TZK7WME65
+-   E9QH6K4LNP7V
+-   TFX9J3Z2RP64
+-   ZRW3J4N8VX56
+-   J2QP8M1KVL6V
+
+## How to Redeem Free Fire MAX Codes
+
+Step 1: Visit the official Garena Rewards Redemption website.
+
+Step 2: Log in using the account linked to your Free Fire MAX profile.  
+Step 3: Enter the redeem code in the designated field.
+
+Step 4: Carefully check the code to ensure all letters and characters are entered correctly.  
+Step 5: Click on the submit option to complete the redemption process.  
+Step 6: If the code is valid and active, the reward will be sent to your Free Fire MAX in-game account.
+
+## Why Free Fire Redeem Codes May Not Be Working?
+
+Free Fire redeem codes may fail to work for several reasons. A code could have expired, reached its maximum redemption limit, or been issued for a specific region or server. Entering a character incorrectly can also cause the redemption to fail. Garena frequently introduces new promotional rewards through in-game events, partnerships and collaborations, so fresh redeem codes may be released periodically.
+
+  
+
+## Redeem Free Fire MAX Codes Before They Expire
+
+Free Fire MAX redeem codes are usually available for a limited period and may not stay active indefinitely. Some codes can also come with a specific redemption limit, after which they may no longer work. If you want to try the latest redeem codes, it is better to use them as soon as possible instead of waiting until later in the day.
+
+---
+
+### Wall Street Week Ahead: Investors focus on rate path, AI slowdown after Fed hike
+*Reuters · economy*
+
+US stock investors will focus next week on the trajectory of interest rates, tensions in the Middle East and fresh calls to slow AI advancement as they weigh whether equity indexes can make new all-time highs.
+
+Markets will continue to digest Wednesday's decision by the Federal Reserve to hike interest rates for the first time in three years, in an effort to tamp down above-target inflation. While the rate increase was widely expected, investors were left uncertain about how many hikes the US central bank might eventually implement and the implications for already-climbing Treasury yields.
+
+Stocks have taken cues in recent weeks from rising Treasury yields and surging oil prices amid the escalating conflict in the Middle East. A 5% level on the benchmark 10-year Treasury yield and $100 a barrel for oil posed "psychological lines in the sand," said Art Hogan, chief market strategist at B. Riley Wealth.
+
+Below those levels "lets market participants breathe a brief sigh of relief and get more involved," Hogan said. When they have been rising above those levels, "what's happened over the course of the last four or five weeks, the market just finds those headwinds to be insurmountable," he said.
+
+Indeed, stocks rose on Thursday as oil prices and yields fell, with US crude dropping to $101 a barrel and the 10-year yield falling to 4.93% late in the session.
+
+  
+
+## Fed Speakers, Rate Clues In Focus
+
+Thursday's gains left the benchmark S&P 500 stock index up more than 11% for the year and about 2% below its mid-August record high.
+
+Rate hikes, which stand to raise borrowing costs and slow the economy, pose potential challenges for stocks. But Wednesday's move was largely priced in to markets ahead of the meeting. The decision was also seen by investors as a credibility test for new Fed Chair Kevin Warsh, to gauge whether the central bank would raise rates despite President Donald Trump's repeated calls to cut rates. Trump picked Warsh as Fed chief.
+
+"We got through a significant hurdle" with the meeting, said Joe Mazzola, head trading strategist at Charles Schwab.
+
+Investors are now watching for signs of when the Fed might raise rates again. Fed funds futures late on Thursday suggested roughly even odds that the central bank hikes at its next meeting in October, just before the US midterm elections.
+
+In the wake of Wednesday's meeting, a number of Fed policymakers are expected to speak next week. Any insight into the central bank's plans for this hiking cycle could be especially valuable, given Warsh's own stated desire to avoid forward guidance about the path of rates.
+
+"With lack of guidance, which really is the new normal here with Chair Warsh, I think it becomes more important to pick the brains of the folks that are willing to speak," Hogan said.
+
+## Trump-Xi Meeting Eyed For Tech Talks
+
+Surveys on manufacturing and services activity, as well as on consumer sentiment, also could offer information about inflation trends in a relatively light week of economic data.
+
+Investors next week will monitor an anticipated visit by Chinese President Xi Jinping to the US, including a meeting with Trump expected on Thursday.
+
+Among issues between the two countries, investors said the AI development race and restrictions involving semiconductors could impact markets, especially technology shares. The tech sector accounts for 38% of the S&P 500, and although it has gained over 20% in 2026, it has lost ground since the start of June.
+
+"Tech needs to get back in that pole position for us to see those new all-time highs," Mazzola said.
+
+AI is also in focus after industry leaders called for a slowdown in development following dire warnings about the dangers of the emerging technology. Slowdown worries modestly weighed on shares of semiconductor companies at the center of the AI boom.
+
+Investors were looking for more concrete signs before declaring trouble for the AI spending theme that has boosted equities this year, including potential moves to more heavily regulate the industry.
+
+Any stock weakness from such developments could be a buying opportunity, said Jeff Schulze, head investment strategist at the Franklin Templeton Institute. "I doubt that regulation is going to come that really curtails the investment and the pace of the model development going forward," he said.
+
+The S&P 500 has been generally unchanged over the past few months, despite strong overall corporate earnings, which is "ultimately going to provide a good valuation base for the market to melt higher," Schulze said.
+
+"It's a pretty positive setup for risk assets, especially if we can continue to get some drop of long bond yields," he said.
+
+---
+
+### ‘Echo Of Lies’ Vs ‘Chhatron Ki Goonj’: Rahul Gandhi’s Indore Visit Triggers Poster War
+*Mallika Soni · general*
+
+The posters were reported in several parts of Indore, including Geeta Bhawan, Palasia, World Cup, MR9, Vijay Nagar and Bhanwarkuan.
+
+[Read full article](https://www.news18.com/india/echo-of-lies-vs-chhatron-ki-goonj-rahul-gandhis-indore-visit-triggers-poster-war-ws-l-10340279.html)
+
+---
+
+### Drone owners rush to offload devices ahead of Beijing ban
+*SECTIONS Drone owners rush · business*
+
+Beijing: Drone owners in Beijing flocked to designated buy-back sites this week, looking to sell their devices for as much as possible ahead of an impending citywide ban.
+
+New rules in the Chinese capital ban not just the flying of unmanned aerial vehicles but the possession or storage of them, meaning owners have until November 15 to get rid of their drones.
+
+At several authorised buyer sites across the city, AFP witnessed queues of people waiting for staff to appraise their drones and negotiate prices.
+
+  
+
+All sites had a visible police presence, indicating the sensitivity of the new laws, and most people there did not want to talk to AFP.
+
+At the flagship store for the world's largest drone maker DJI in Beijing's business district, around a dozen people queued on Thursday morning hoping to sell their drones back for a reasonable price.
+
+Users can sell devices at approved buy-back points and receive a government subsidy of 30 percent of the resale value -- up to a maximum of 3,000 yuan (nearly $450) -- before October 31, and of 15 percent until November 14.
+
+Alternatively, they can recycle them for a subsidy of 200 yuan, or ship them out of Beijing free of charge.
+
+"I think (the ban) is reasonable. I can understand why the government wants to ensure safety and manage the airspace," a 48-year-old drone owner surnamed Wu told AFP as he sat in a queue in a DJI store waiting to sell his device.
+
+"After all, Beijing is the capital," said Wu, who bought his drone six years ago for around 6,000 yuan.
+
+He was hoping to get at least 1,000 yuan for the sale, which was what he had been given as a preliminary estimate on the official re-selling app.
+
+Some were not satisfied.
+
+Zhu, 60, who called himself a drone hobbyist, said the buy-back scheme was "robbery".
+
+"It's made me lose a lot of money. This is my private property," he said, adding that he had sold five drones back, losing thousands on the original prices.
+
+"Of course I'm not happy... I'm helpless and furious".
+
+Zhu added that the large number of drones being bought back had sent prices plummeting as much as 40 percent.
+
+## Security fears
+
+Airspace safety fears were raised in June when a light aircraft smashed into Beijing's tallest building, killing the pilot and injuring 13 others -- as well as briefly disrupting the flight path into one of the capital's international airports.
+
+The incident, which was heavily censored, seems to have unsettled Beijing authorities, happening just a few kilometres (miles) from the seat of the Chinese government.
+
+Beijing cited a need to "safeguard the security of the capital" when it announced the complete ban on drone possession inside the city.
+
+Meanwhile, a "low-altitude" expo scheduled to open Thursday in Beijing was abruptly cancelled, with organisers citing control measures from the city government.
+
+Drone owner Wu said he was pleased that the buy-back plan meant he could easily sell his drone -- which he said he no longer used much anyway -- for a reasonable amount.
+
+"I checked some online selling platforms and found that without the subsidy it would sell for maybe half the price", he said.
+
+It is difficult to know how many drones will be affected by the move.
+
+There were 3.285 million drones registered nationwide at the end of 2025, according to the Civil Aviation Administration, but it is not necessary to register drone ownership in most of the country.
+
+Online, many Beijingers posted farewells to their drone collections.
+
+"There's nothing I can do, thanks for your company," wrote one user on social media platform Xiaohongshu, known as RedNote abroad.
+
+"I hope you can keep roaming the skies in the future."
+
+
+---
+
 ## 18 September 2026
 
 ### CBDT removes arrest and imprisonment as prescribed route for tax recovery
