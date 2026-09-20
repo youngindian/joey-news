@@ -1,8 +1,253 @@
 # Editorials
 
-_Last updated: 2026-09-19 06:24 UTC_
+_Last updated: 2026-09-20 06:47 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 20 September 2026
+
+### An AI-free Ode To The Eighties
+*Deccan Chronicle · Opinion*
+
+I found the recent trend of almost everyone on social media doing their ’80s look most perturbing. For me, the high point of the ’80s was that it was gloriously free of this bunch.
+
+I present below a moving anecdote about what the real ’80s was like for those who actually lived it, you wannabes.
+
+One of the greatest boons of the ’80s — other than the fact that vanity wasn’t as widespread — was that there were no mobile phones. (Come to think of it, it’s the latter that created the epidemic of the former.) Unless, of course, you were Krishna or Chiranjeevi, and had a make-believe one made of a cigarette pack and a transistor aerial, into which you kept shouting ‘over’ over and over.
+
+I speak of a Saturday night — and Saturday Nights were big back then — when we were all gathered at the usual friend’s place. That a large group made up exclusively of hormonal young men meant that we had each — surreptitiously — tried to take a girl to the discotheque and failed. And were now hanging out together like this was our first choice. All of us except one, that is.
+
+As we wondered where the crowd favourite was — secretly burning up that he may have found a date and gone off to the disco — the phone rang. (And this was a real telephone, mind you. One that did the only job it was meant to do.)
+
+It was our missing friend.
+
+“Hello, it’s me, come immediately, I’m being beaten...” was his short, clear, and not entirely surprising message. (Because our friend — let’s call him DB — had a reputation in the city for being a fairly regular beatee.)
+
+That’s all we needed.
+
+All adrenaline-pumped seven of us left our drinks as is, rushed out, jumped into the lone Premier Padmini (with floor-shift gears and a multi-branch exhaust, mind you) and vroomed off to our friend’s rescue. As the owner/driver of the car, made a screechy left turn on to the main road, his newly installed radial tyres showing impressive grip, we realized we had a tiny problem. We didn’t know where MB was. In our enthusiasm to swing into action, we had forgotten to ask him where he was being beaten (as in the location, not which parts of his body, which by his tone we had gathered were being covered comprehensively). And our very efficiency that had resulted in the coordinated fireman-style-double-quick response, had, alas, resulted in no one being around to pick up MB’s second call in which he had hoped to tell us where he could be located. (Of this, we knew only later, as you can understand.)
+
+Our friend’s accosters, a considerate group for people who beat up people, had granted him permission for a second call and even lent him a fifty-paise coin to make it. And waited patiently outside the telephone booth for him to finish his call, so they could take a breather before resuming the old-style Madras thulping that had been halted to facilitate the call.
+
+Obviously, we didn’t find our friend that night. What we lacked in direction, we did make up in intensity, though, driving round and round Nungambakkam High Road, Chamiers Road and Dr Radhakrishnan Road, which, to our mind seemed like the most likely venues for our friend’s beating.
+
+We searched in vain. We even bought some more rum on the way. We couldn’t find any cola that late. But we drank the rum anyway. We cried. We spoke of our friend’s bravery, good looks, his many exploits and how, like a cat, he had nine lives of which only seven, by our count, had been used up, and how therefore there was no cause for worry. And finally, exhausted, we went to an all-night café and ate kheema dosa.
+
+Our friend did make it.
+
+When we visited him the following evening (we needed time for our hangovers to dissipate), though he wasn’t his usual ebullient self, which was to be expected, his body didn’t show any concerning signs of wear and tear. We had a bit of rum on his terrace and he was as good as new.
+
+‘I am meeting those fellows for a compromise tomorrow,’ he said, as we were leaving.
+
+Why would someone who had been beaten want a compromise, we wondered.
+
+Apparently, by compromise, what the guys meant — we found out a couple of days later –was another light, top-up beating. Because, as opposed to showing the requisite remorse after the first beating, DB, while leaving — as was his wont — had abused the gang in choicest Tamil.
+
+DB is around, by the way. He has proved beyond doubt that he has far more than nine lives. Hasn’t changed much, either.
+
+Now, thanks to the magic of mobile communication, he sends us pics on WhatsApp when he is being thulped in exotic locations across the globe. We each respond with a heart, a thumbs-up or a smiley-with-hat-and-shades emoji depending on our mood.
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/an-ai-free-ode-to-the-eighties-1988916)
+
+---
+
+### Equal Earth, Unequal Lines: UN Remapped Sovereignty
+*Deccan Chronicle · Opinion*
+
+In India, where a boundary drawn out of line can carry a prison sentence, cartography has never been about neutral geography, it is an uncompromising assertion of national sovereignty written in solid ink.
+
+On September 4, 2026, the United Nations General Assembly voted 164 to 1, with six abstentions, to accept something cartographers have known for two centuries and everyone else preferred not to notice, that the standard world map is economical with the truth about Africa’s size.
+
+The lone vote against came from Washington DC, which dismissed the whole exercise as rather unnecessary. Yaryna Ferencevych, the US deputy representative to the UN Economic and Social Council, labelled the initiative as part of a broader “radical ideological project” being pursued by the United Nations when it should be focused on “genuine problems of international peace, prosperity, or good relations”. “Resolutions like this and the ideological agenda they promote are barnacles on our work here and the reason this institution is losing its credibility,” she articulated vehemently.
+
+Nobody in the hall that Friday seemed especially worried about India, Japan or Ukraine.
+
+They should have looked carefully two months ago.
+
+The resolution, titled “Correct the Map,” was moved by Togo on behalf of the African Union, and catechises governments, schools and technology firms to retire the 1569 Mercator projection, which inflates everything far from the equator until Greenland looks the size of a continent it could fit inside 14 times over.
+
+In its place it recommends Equal Earth, a projection three cartographers built in 2018 specifically to preserve true relative area of the respective continents. This is a genuine fix. What actually upset India, Japan and Ukraine two months later was a different, quieter document.
+
+That document is the UN’s own “Map of the World,” a reference sheet that UN agencies and much of the multilateral system treat as gospel. Its Geospatial Information Section quietly issued a new edition on July 1, 2026, two months before the vote. The secretariat’s own cartographers have leaned on Robinson, Winkel Tripel and Eckert IV for decades. The resolution that set out to slay Mercator, in other words, slew a strawman, while the map that actually matters changed underneath everyone, boundaries and all.
+
+Every UN map carries the same legend as an absolution. Nothing shown on it, the legend insists, implies “any opinion whatsoever on the part of the secretariat of the United Nations” about a territory’s legal status or the frontiers drawn around it. It is a tidy sentence to keep at the foot of the world’s most contested borders, all of which the secretariat has, in practice, drawn with considerable specificity, in a particular colour, with a particular kind of line.
+
+India has been arguing with its own maps longer than most. Government maps published in July 1948 and February 1950 showed the McMahon Line as India’s settled eastern boundary, and left the entire western and middle sectors, Aksai Chin among them, marked simply undefined.
+
+Two months after the Panchsheel agreement, on July 1, 1954, Nehru ordered and perhaps rightly so, given the flavour of those times, that every old frontier map be withdrawn. The boundary, he held, was “defined chiefly by long usage and custom.” The new maps, his directive added, “should not state that there is any un-demarcated territory.” A line that had been undefined for six years and a McMahon Line that had run as a dashed, not yet delimitated, delineated and demarcated boundary, both thence turned solid overnight converting frontiers of an erstwhile empire into borders of a sovereign nation.
+
+Parliament followed up seven years later. The Criminal Law Amendment Act, 1961, made it an offence, punishable by up to three years, to question India’s “territorial integrity or frontiers” by word, sign or picture, in a manner prejudicial to the country’s safety. A 1990 amendment sharpened this further, criminalising specifically the publication of any map of India that departs from the Survey of India’s own.
+
+The original 1961 Act, worth noting, did not even extend to Jammu and Kashmir. Within 13 years, then, India moved from an undefined frontier, to a solid one sanctified by a legal diktat making it jailable offence for drawing it any other way.
+
+The new UN map has revived most of these old anxieties, and handed out a few fresh ones. Ukraine abstained from the September vote over a separate grievance: Equal Earth’s own base map shades Russian-occupied Crimea a colour closer to Russia’s mainland than to Ukraine’s. Its ambassador warned the resolution risked becoming “a Pandora’s box” for other states to exploit. Japan voted yes, yet noted that same map colouring the Kuril Islands, which President Putin visited in August to Tokyo’s fury, the identical shade as the Russian mainland that administers them. Taiwan did not even earn a complaint for it figures as a pseudonymous entity of the coast...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/equal-earth-unequal-lines-un-remapped-sovereignty-1988920)
+
+---
+
+### The Advanced Maths Behind Bangladesh’s Mecca Gambit
+*Deccan Chronicle · Opinion*
+
+History sometimes returns not as repetition, but as irony. Nearly half a century after Bangladeshi President Ziaur Rahman sought to repair ties with Pakistan while loosening Dhaka’s strategic dependence on India, his son, Prime Minister Tarique Rahman, now stands at the threshold of an extraordinary reversal — the possible alignment of Bangladesh with Pakistan through the Makkah Agreement (Mecca Pact). The generational symmetry is striking. Ziaur Rahman, who helped consolidate Bangladesh’s post-1971 sovereignty, reached back toward Pakistan in search of strategic space; his son, in a transformed South Asia, appears poised to give that instinct for diversification a formal security dimension.
+
+Yet there is a deeper irony, perhaps even a deliberate provocation, in Bangladesh’s apparent turn toward Pakistan. Pakistan’s military excesses remain an indelible chapter in Bangladesh’s history, and Ziaur Rahman himself, whose son now leads Bangladesh, fought on the Bangladeshi side of that liberation struggle. Yet as President, Zia subsequently reached back toward Pakistan in pursuit of strategic distance from India. If Tarique now takes that inheritance further through a Pakistan-linked security arrangement, the gesture cannot easily be dismissed as diplomatic housekeeping. It carries political symbolism — the son of a man who fought for Bangladesh’s liberation appearing to turn towards the country from which Bangladesh wrested its independence, while sending a pointed message to the neighbour whose intervention made that independence possible.
+
+Tarique also inherits this strategic template from his mother, Khaleda Zia, whose political tradition combined warmer relations with Pakistan and a stronger Islamic identity with an effort to distinguish Bangladesh from the India-centric orientation of the Awami League. Seen through that lineage, the Makkah Agreement acquires additional resonance. Its immediate value is unlikely to lie primarily in military intervention. The geographic distance separating Bangladesh from Turkey, Saudi Arabia and Pakistan, coupled with the logistical difficulties of conventional intervention, makes such a scenario difficult to envisage. The agreement’s value may, therefore, lie more in what it communicates than what it enables militarily.
+
+Internationally, it signals that Dhaka has strategic options beyond New Delhi. Regionally, it tells India that Bangladesh is prepared to cultivate relationships capable of altering the strategic balance. Domestically, it allows Tarique to present himself as heir to both parents’ political legacies: a nationalist resisting perceived Indian overreach while reaffirming Bangladesh’s place within the wider Muslim world. Makkah Agreement may thus be less a military shield than a geopolitical flag i.e., an act of positioning Bangladesh’s complicated history with India, Pakistan and the Muslim world.
+
+For Bangladesh, joining the agreement could provide greater bargaining leverage vis-à-vis India. By bringing Pakistan, Saudi Arabia and Turkey into its diplomatic and security calculus, Tarique could diversify Bangladesh’s strategic options and reduce the asymmetry inherent in its geography and economic dependence on India. The objective need not be an anti-India alignment, but to demonstrate that Dhaka has alternatives and that its cooperation on water, borders, trade, transit and energy cannot be taken for granted.
+
+There may be another calculation — that greater leverage against India could elicit greater generosity from China. Logic is triangular. If Dhaka demonstrates to New Delhi that it has alternatives, Beijing may see an opportunity to deepen its embrace of Bangladesh through financing, infrastructure, defence cooperation, technology and political support. This becomes especially relevant if Washington, distracted by competing global priorities, is less capable of providing the strategic and economic counterweight it once represented. Bangladesh may be calculating that competition among India, China and other partners is itself an asset, the more indispensable Dhaka becomes, the greater the concessions it can potentially extract.
+
+Tarique’s calculation, therefore, may be less about choosing Pakistan over India or China over the US than about creating enough geopolitical competition to make each major power compete harder for Bangladesh’s favour. Makkah Agreement could become a bargaining chip not only against New Delhi but also an inducement to Beijing i.e., Bangladesh is open to partnership, but expects something in return.
+
+This may be the most consequential dimension of the unfolding story. Pakistan, once the source of Bangladesh’s deepest national trauma could now become an instrument through which Dhaka asserts precisely the strategic autonomy for which it fought in 1971. Ziaur Rahman’s doctrine of diversification may thus be returning in a second-generation form, reinforced by Khaleda Zia’s political inheritance. It need not represent a rejection of...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/the-advanced-maths-behind-bangladeshs-mecca-gambit-1988918)
+
+---
+
+### So, will AI kill us all in 10 years?
+*Deccan Herald · Opinion*
+
+Everyone is asking this question right now because a warning from inside the AI labs just went viral. Jacob Coxon, a researcher at Anthropic, resigned, announcing that the people building the systems “earnestly believe that AI could kill us all”.
+
+Surprisingly, Anthropic’s own alignment leader publicly supported him. He placed the odds at over 10% that AI could wipe out humanity within 10 years. There is still no plan for reliably aligning superintelligence to human safety.
+
+But weren’t we just here? In July 2024, India hosted the Global IndiaAI Summit. Sovereign nations signed the ‘Delhi Declaration’, promising safe and trustworthy AI. The headlines trumpeted that the problem was being handled. It wasn’t. These were nothing but external rules that countries could sign and quietly ignore while the development race continued.
+
+Coxon’s warning is hard to dismiss because of what he gave up. When you work at a company like Anthropic, a part of your pay is in shares of the company, and these only become yours after you’ve stayed long enough, a process called vesting. Coxon left before his shares vested. Anthropic has a future public listing at a valuation exceeding a trillion dollars, so Coxon’s shares were worth a literal fortune. He walked away from it because he no longer wanted to be morally part of the machinery.
+
+There is an echo of Peter Gabriel here, who did much the same in 1977, quitting Genesis at the precise moment that the band was on the threshold of fortune and fame. Gabriel wrote about his decision in the classic song ‘Solsbury Hill’.
+
+‘I was feeling part of the scenery/ I walked right out of the machinery/ My heart going, “Boom-boom-boom”/ “Hey,” he said/ “Grab your things, I’ve come to take you home”’.
+
+Coxon left AI development because he saw the trap everyone was in. Game theorists call this trap the Prisoner’s Dilemma: a situation where each player is tempted to do what helps them individually, even if everyone would be safer if they all held back. In AI, that means every company has a reason to keep racing ahead. If one lab pauses to be safe while another keeps going, the cautious lab falls behind. Thus, no one pauses first. Each company’s choice may make sense on its own, but together those choices push us all to ruin.
+
+AI has changed the job. Now it is changing what makes you employable‘When illusion spin her net/ I’m never where I wanna be/ And liberty, she pirouette/ When I think that I am free’.
+
+Coxon quit, but quitting isn’t enough. Anthropic builds without him. Stepping away to clear your conscience doesn’t solve our collective Prisoner’s Dilemma. What we need is to jailbreak this prison itself.
+
+Jailbreaking is the hacker term for stripping the safety guardrails off an AI system so it does what you want instead of what its makers intended. We need to strip the guardrails off the game itself. Better rules won’t do, nor will stronger incentives, nor will dozens more safety researchers quitting in protest. The payoff matrix (that is, the set of rewards and punishments that shapes every prisoner’s choice) has to change. And that only happens when the prisoners themselves change the way that rational decisions get made.
+
+‘Today, I don’t need a replacement/ I’ll tell them what the smile on my face meant/ My heart going, “Boom-boom-boom”/ “Hey,” I said, “You can keep my things, they’ve come to take me home”’.
+
+Rules are external. They are written, enforceable, and always bendable. A lab can sign a safety pledge and then reinterpret the clause to keep racing forward. The Delhi Declaration did the same thing on a global scale: nations agreed to words about safety, then went right back to building. The Prisoner’s Dilemma thrives in every rulebook scenario because the rules sit outside of the players.
+
+I suggest something completely different: an AI ethics of care. Unlike traditional AI ethics, an ethics of care works from the inside out. It starts from vulnerability – the fact that no one, human or machine, is self-sufficient – and from the relationships that hold us all together. Instead of asking, ‘What am I permitted to do?’, it asks: ‘What do I owe everyone affected by my actions?’ That question cannot be loopholed. It is an internal disposition, not an external rule.
+
+This is the jailbreak. Whereas rules are the guardrails on the game, care rewrites the game itself. When the players are constituted by care rather than by competition, the payoff matrix changes. And that, my fellow prisoners, is one of the challenges I fleshed out in my book, Will AI Murder Us All?, published, eerily, on the very day that Coxon’s viral warning escaped the deadly AI labs and into public view.
+
+The writer, as Dr Jekyll, is a Professor of Philosophy, Politics and Law, author and editor of over 20 books and counting, and as Mr Hyde, one of India’s top-ranking Ironman triathletes.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+Write to us at: theprism@deccanherald.co.in
+
+[Read full article](https://www.deccanherald.com/opinion/so-will-ai-kill-us-all-in-10-years-4152450)
+
+---
+
+### Tulu’s moment arrives in Dakshina Kannada, Udupi, finally
+*Deccan Herald · Opinion*
+
+The Karnataka government’s decision to accord Tulu the status of an additional official language for administration in Dakshina Kannada and Udupi districts marks the culmination of requests and representations made over decades.
+
+For those who don’t understand the language or cannot comprehend why this moment matters, it is important to reiterate the history of Tulu. First, it is not a dialect. It is a language. Noted British linguist Robert Caldwell called it one of the most highly developed Dravidian languages. Tamil Sangam literature from the 2nd century CE mentions Tuluvas as a race with a language all their own.
+
+The Greek play Charition mime (2nd century CE) has Tulu words spoken by coastal characters delineated in it. The locale is somewhere close to Malpe. This is a 2,000-plus-year-old language with a fast-vanishing set of about 20 lakh speakers. The decision by the D K Shivakumar-led government offers Tulu a fresh lease of life.
+
+Language evokes passion. Language knits the diversities of its speakers together into a whole. In more ways than one, language is a secular expression – it forgets the religion of its speakers and irons out their multiple inherent differences. Of course, language divides, too. It is a boundary wall that binds and separates at the same time.
+
+Linguistic passions continue to fuel intense, polarised debates in India. The south of the country objects to the imposition of Hindi and follows, by and large, a three-language policy with the local language of the state holding primacy, followed by English and Hindi. Politically driven attempts to push Hindi into the region have repeatedly run into staunch opposition. Any tampering with the existing linguistic order causes resentment and resistance. Rightly so. Karnataka has witnessed this many times, most recently in the agitations around erasing billboards in Hindi and the native-migrant friction.
+
+Karnataka Cabinet recognises Tulu as second official language in Dakshina Kannada and Udupi districts Organised campaigns seeking greater recognition for Tulu began in the 1950s, following the unification of the state. Speakers of Tulu and many other languages in the state, such as Kodava, felt subsumed and neglected. Tulu’s inclusion in the 8th Schedule of the Constitution of India has been a long-pending demand.
+
+The acceptance as an administrative language lends momentum to ongoing efforts to enhance the reach of the language. This opens a pathway for speakers in the two districts to submit applications, receive notices, and document their land records in Tulu. The potential for expanding the scope of this move is immense. No, I can’t write the UPSC exam in Tulu as yet, but there is new hope for this beautiful language to live on with some degree of robustness.
+
+As Tulu gets onto the state’s official dashboard, it is time to get a few other things moving. First, we need more schools teaching Tulu. A language survives through bottom-up action and not top-down diktats. The campaign must now focus on school learning, which will provide a crucial impetus and complement the use of the language in matters of governance.
+
+This is most certainly not an emotional closure to the decades-long demand for the language to be included in the 8th Schedule. However, recognition at this level will surely generate important conversations in Mangaluru, Dakshina Kannada, and Udupi.
+
+The official stamp opens possibilities for the language, which UNESCO has listed as endangered. These are times when the world is looking at the past with renewed appreciation. As we go back to discover foods of the past as wholesome and real, as we go back to dress the way we did in the past, it is also time to go back to the languages that gave us our early identity. This is pride, in all its hyper-local elements.
+
+Cheers to Tulu, then. Cheers to a future with a lot more Tulu in our lives than ever before. A big cheer to all the men and women who worked towards this for decades, and to all the doyens who led the campaigns for this recognition.
+
+This “official” status should not end up as “Enku Panamburugu poyi leka” (loosely translated as a long, arduous walk that ends up futile). Enku, in Mangaluru folklore, is a worker. The story is that he woke up at midnight and walked all the way to the Panambur port because his master had told him they should go there tomorrow. Enku came back with nothing; his effort was wasted. One hopes the state’s backing for Tulu produces a different result.
+
+The writer is an ambassador of brands and a corporate keynote speaker with more than 18,000 hours to date.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+Write to us at: theprism@deccanherald.co.in
+
+[Read full article](https://www.deccanherald.com/opinion/tulus-moment-arrives-in-dakshina-kannada-udupi-finally-4152448)
+
+---
+
+### Trump using tariff as truncheon
+*The New Indian Express · Opinion*
+
+This was the Trumpian technique laid bare. It also symbolised a mauling of its 250-year-old genealogy. The US was created to protect democratic values and ensure sovereignty. But the bipartisan resolve to punish rest of the world was not only a defiance of the popular American disapproval of the war against Iran and to save Ukraine, it was an attempt to impose its own terms for global business and strategic engagement.
+
+It wasn’t aimed at seizing a territory. It wrote the terms of an invoice. A presidential mood swing can now achieve what gunboats once did, or missiles and drones are doing now. The sanctions were no more exceptional tools aimed at genuine offenders. The new code treats interdependence itself as a weapon. It means the one who controls the dollar and the world’s largest consumer market can convert another nation’s necessity into leverage. Choosing energy trade with Russia is just an example. Tomorrow, America will pick up something else to enforce its expansionist designs.
+
+India’s vulnerability is the most pronounced. Russian crude accounted for roughly 30 percent of India’s oil imports last fiscal. After the Hormuz disruption thinned out Gulf supplies, that share climbed to nearly 48 percent by June. This was never a political gesture; it was arithmetic. India imports most of what it burns, and when one sea lane tightens, whatever cargo still reaches Jamnagar and Vadinar gets bought regardless of its origin. The cost of that oil has already climbed. In June, even with lower volumes moving through, the crude import cost ran some 40 percent above the previous year.
+
+If Trump uses his newly acquired powers, Indian exports to the US would be under tremendous pressure. Goods exports to America exceeded $90 billion in 2025. Pharmaceuticals alone were worth nearly $10 billion, gems and jewellery close to $7 billion, and apparel and textiles added several billions. These figures translate into livelihoods and bottomlines of businesses in Tiruppur, Surat and Bhiwandi—not abstractions on a ledger. Their woes can amplify massively if the White House links Russian oil purchases, a BRICS communiqué, or simply a bad week in Washington to Indian trade.
+
+It seems the New Delhi BRICS declaration has been read in Washington as a provocation, but it was really only a symptom. When one country treats the global payment system as its private instrument, other nations start looking for alternative doors. The Global South is not shielding Moscow. It is defending its own sovereign right to purchase fuel without seeking anyone’s permission. Surprisingly, Europe has accepted the American justification. In the bargain, it escaped from becoming its principal casualty. So, the intended target is the large Asian buyer and not whatever remains of Europe.
+
+India’s external affairs ministry responded correctly and judiciously. It reiterated that energy security for 1.4 billion people will rest on diversified sourcing and prevailing market conditions. That formulation was necessary but insufficient. India should keep in mind that the next shock will not originate in South Block. It will trigger the moment a buyer in New Jersey cancels an order because Trump altered the list overnight.
+
+In order to torpedo Trumpian traipses, India must arm herself with concrete armoury. A large number of stakeholders feel that the government should forge a permanent institutional framework rather than panic-driven initiatives after each crisis. To start with, the central government may consider constituting a high-powered commission to deal with economic security and sanctions within the Prime Minister’s Office.
+
+Instead of leaving it the individual silos to deal with any emergency, the commission should include ministers from the external affairs, finance, commerce, petroleum and shipping ministries, and the Governor of the Reserve Bank. Even giant corporates dealing with international trade and finance should be made permanent members. Their collective wisdom and might can be used to counter any sudden move as most of them are very well-connected. If America doesn’t see reason, can Indian investors be persuaded to keep their investment plans on hold?
+
+In addition, keeping in view the fast-changing world order, India should adopt multi-sourcing of oil needs as a policy. A thicker strategic reserve would also help, ensuring that a 30-day political deadline set in Washington does not translate into panic in Indian fuel markets. An abrupt, forced reduction in Russian supply would push up the price of every alternative barrel and stoke domestic inflation. Diversification is the sound response; theatrical gestures are not.
+
+Finally, India should minimise the number of choke points through which American jurisdiction can freeze an entire supply chain. That requires accelerating work on non-dollar settlement mechanisms and rupee trade corridors that see genuine use rather than mere announcement. The dollar-based system will remain dominant for years to come. India does not need a fully parallel financial architecture immediately.
+
+None of these preemptive actions amount to a direct confrontation with the US. Unfortunately, America remains one of India’s largest and most valuable export markets. The real choice facing New Delhi is not between defying Washington and submitting to it. But it is definitely between treating each one of Trump’s tirades as a passing diplomatic episode or recognising it as the new operating challenge. Secondary tariffs and discretionary sanctions are no longer rare instruments; they define a standing and coercive method of statecraft. Middle powers that respond only with statements will keep being caught off-guard. Those that build the institutional machinery to anticipate the next salvo will retain more control over their own choices.
+
+India, as the fastest growing economy, possesses the means to do this. It has weathered earlier shocks, from technology-denial regimes after the nuclear tests to oil price spikes and previous tariff rounds, without mistaking any single blow for the end of the story. Resilience, however, is not simply a mood or a talking point. The war room ought to exist before the next punitive measures are announced. Otherwise, the truncheon will hit you hard again.
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/pc/2026/Sep/19/trump-using-tariff-as-truncheon)
+
+---
+
+### Trump stages tariffs in the theatre of endless wars
+*The New Indian Express · Opinion*
+
+Updated on: 19 Sep 2026, 7:07 pm4 min readCopiedDonald J Trump’s diary is its own theatre of war. Last week, the US President called Russia’s President Vladimir Putin. The “frank” exchange, held soon after American envoys had flown back from Moscow with a truce plan, lasted about an hour. The truce lasted only the weekend; fighting resumed on Monday. Trump has priorities—discussions on his ‘big ballroom’, banning media, demolishing the Kennedy Center, Taiwan, oil in Venezuela and shutting down the AI scare. There is also the task of managing the narrative at rallies for the midterms.
+
+His diary says September 24 is set for a meeting with Chinese President Xi Jinping in Washington. He has not called Modi recently. Perception has it that at the Oval Office, India is more talked about than talked to. In this curious triangle of three men on three continents, Trump is apparently trying to end wars—one that he promised to end in a day and a new one he promised he wouldn’t start.
+
+By Friday, one more entry closed on his diary: HR 5334, the Lindsey O Graham Sanctioning Russia and Iran Act of 2026. The Act, named for a senator who died before he could sign his idea, passed the US House on September 16 by 262-159 votes. The law, which the President signed on Friday evening, has 200-plus sections providing for punitive action and some delectable exceptions. Section 114 curiously says it shall not apply on import of low-enriched uranium into the US.
+
+The Graham law sanctions Russia. It extends the Iran Sanctions Act by five years. It authorises tariffs of up to 100 percent on the five countries buying the most Russian oil, India one of them. China, on the same shipping data, is the other—usually the bigger one. The crowning assumption is that barrels need no passport, whereas tariffs can be targeted. Read as a Russia law, it is a blunt instrument. Read as three-way triangulation, it becomes a possible weapon of peace.
+
+On the face of it, the US Congress has armed the President with an economic weapon designed for extraction. The question is: can the threat of tariffs bend Russia’s will or China’s? The record thus far is far from inspiring. The week Trump spoke with Putin, China and Russia vetoed the US at the UN Security Council on a move that would have authorised UN experts to keep monitoring sanctions on Iran.
+
+There is much discussion about the impact of the Graham law on India’s imports from Russia. Thus far, India maintained its strategic autonomy navigating past sanctions, exploring the geographies of hydrocarbons—from Venezuela to Iran and Russia to Venezuela—all in the interest of an economy hosting over 1.4 billion people. Can the US force China, the largest customer of Russia and Iran, to stop buying oil or gas from either? Beijing clearly qualifies ahead of Delhi for action under the Graham law.
+
+Context is critical for the design of objectives and divining outcomes. The law stipulates that the President impose the levies within 30 days of enactment. In theory, much is possible. In reality, the spectrum of possibilities is vividly vast. You could argue China holds over $600 billion of American debt, that China can choke production lines across sectors—from rare earths to medicine inputs. It is true that China has the cards. It is equally clear that China will not have to play them.
+
+Threats and decisions are defined by circumstance and availability of choices. There is the economic context—and then there is the geopolitical framework. The data points on the economic landscape are flashing red and amber. The biggest economic indicator is also political. Consider prices at gas stations across the US—gasoline is averaging above $4.2 a gallon and diesel over $6.2. The rising tag is showing up in opinion polls in the run to midterms—in one, 84 percent of Democrats, 73 percent independents and 66 percent of Republicans concurred Trump’s tariffs have raised prices. A Cato Fall 2026 survey finds 75 percent say tariffs will matter.
+
+Prices are determined by supply and demand. This week, Brent nudged towards $110 a barrel as attacks on pipelines by the Houthis forced Saudi Arabia to cut production and cancel shipments to Europe. Shrinking supply has consequences. India has explained that if it had ceased to buy from Russia, global crude prices would have shot up to $200. India is one of the largest refiners and suppliers of diesel to Europe—any coercive threat will cut output and drive global prices higher.
+
+The geopolitical context, particularly after the BRICS Summit in New Delhi, suggests the US will walk the pebbles gingerly. The published agenda for the Xi-Trump meeting is about extension of the Busan and Beijing détente—trade truce, rare earths, Taiwan and AI. What isn’t on the agenda matters more than what is. The US would like an off-ramp to end the war with Iran and also the war in Ukraine. The pathway to any breakthrough will be paved with the presidential authority for waivers under the Graham law. And China has the heft—material and political—to influence Iran and Russia.
+
+None of this lands in a vacuum. This week, the US Fed—under new Chair Kevin Warsh—hiked interest rates to 3.75-4 percent the day the House voted. The national debt passed $40 trillion in August, growing near $7.35 billion a day. A government fighting political risks of inflation does not get to squeeze the global oil trade for free. It is choosing to pay for this law twice—once at the pump, once at the ballot.
+
+Author of The Gated Republic, Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/Sep/19/trump-stages-tariffs-in-the-theatre-of-endless-wars)
+
+---
 
 ## 19 September 2026
 
