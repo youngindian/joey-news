@@ -1,3 +1,358 @@
+## 20 September 2026
+
+### 250+ job applications, zero callbacks: IIM Kozhikode MBA grad asks if anyone is hiring
+*India Today Education Desk · general*
+
+## An IIM Kozhikode MBA graduate with three years' experience said more than 250 job applications brought no interview call, despite outreach across platforms and recruiters. The Reddit post drew similar accounts from professionals, highlighting how referrals, niche experience and a crowded market can shape hiring outcomes.
+
+250+ job applications, zero callbacks: IIM Kozhikode MBA grad asks if anyone is hiring (AI generated image)
+
+An IIM Kozhikode MBA, three years of data analytics experience and more than 250 job applications, yet not a single interview call. For this management graduate, the job search has become a frustrating cycle of applications, rejections and silence.
+
+The candidate recently turned to Reddit seeking career advice and possible job leads, sharing the efforts made to find a new role. From cold-emailing recruiters and hiring managers to applying through LinkedIn, Naukri and iimjobs, the graduate said every major route had been tried. Still, more than 250 applications had not resulted in a single interview call so far.
+
+### FROM DATA ANALYTICS TO AN MBA, BUT NO INTERVIEW CALLS
+
+The graduate comes from an engineering background and has three years of experience in data analytics, followed by an MBA from IIM Kozhikode, which was recently completed.
+
+After graduating from IIM Kozhikode, the student began actively searching for a new opportunity, citing dissatisfaction with the current company, Genman. Despite the MBA and professional experience, landing even an initial interview has remained a challenge.
+
+“I've been throwing everything at the wall,” the candidate wrote, describing efforts that included cold-emailing recruiters and hiring managers and applying for roles through several job platforms.
+
+Yet, despite crossing the 250-application mark, the candidate said there had been no breakthrough. “Mostly straight up rejected, and for a good chunk of them I just... never hear back. Not one callback in all this,” they wrote.
+
+### 250 APPLICATIONS, BUT NOT A SINGLE CALLBACK
+
+The post highlights a familiar frustration in today's hiring process: submitting hundreds of applications does not necessarily lead to an interview.
+
+The candidate asked fellow Reddit users for advice on improving their chances and also sought potential hiring leads. Their experience prompted several professionals to share their own struggles with switching jobs, even with considerable experience and prestigious MBA degrees.
+
+### ‘THE MARKET IS HARSH’: PROFESSIONALS SHARE SIMILAR EXPERIENCES
+
+Several Reddit users echoed concerns about the job market. One user, with more than eight years of experience and a Tier-1 MBA, said they had been trying to switch jobs for over a year despite being willing to take a pay cut.
+
+“Market is harsh,” the user wrote, saying an MBA alone may not help candidates stand out in non-technical roles and that professional connections can be important. Others described the market as “really tough” and “crazy”, while one raised concerns about AI’s impact on hiring.
+
+Another commenter said employers may value depth of experience over broad qualifications and suggested using alumni referrals and exploring roles beyond consulting and product, including EIR and Founder’s Office positions at Series A/B startups. The original poster thanked them for the advice.
+
+### WHAT THE POST SAYS ABOUT TODAY'S JOB SEARCH
+
+The Reddit discussion does not establish broader hiring trends on its own, but it does offer a snapshot of the frustration some experienced professionals and recent MBA graduates are reporting online.
+
+For the IIM Kozhikode graduate, the immediate challenge is not a lack of applications. It is getting noticed among hundreds of candidates competing for the same roles. The bigger question is no longer simply how many applications a candidate can send, but how to make one application stand out enough to earn that first call.
+
+\- Ends
+
+Apoorva Anand
+
+Sep 20, 2026 10:27 IST
+
+---
+
+### Aadhaar authentication mandatory for subsidised LPG refills from Oct 1
+*India Today Information Desk · general*
+
+## Domestic LPG consumers must complete biometric Aadhaar authentication to book subsidised refills from October 1, 2026. The government says the move is meant to target subsidies better while allowing non-authenticated users to buy LPG at market price.
+
+Domestic LPG consumers must complete biometric Aadhaar authentication to book subsidised refills from October 1, 2026(File Photo)
+
+Domestic LPG consumers will need to complete Biometric Aadhaar Authentication (BAA) to book refills at the regulated Retail Selling Price (RSP) with applicable subsidy from October 1, 2026.
+
+According to the government, 27.43 crore active domestic LPG consumers, or 89.9 per cent, had already completed the authentication as of September 19.
+
+Consumers who have completed the process do not need to authenticate again.
+
+### WHAT CHANGES FROM OCTOBER 1
+
+From October 1, consumers who have completed BAA can continue booking subsidised LPG refills as before.
+
+Those who have not completed the authentication will be able to book refills at the RSP with subsidy after completing the process.
+
+The government has said the process is aimed at ensuring that subsidised LPG reaches eligible households and preventing duplicate or ineligible connections.
+
+### HOW TO COMPLETE AADHAAR AUTHENTICATION
+
+Consumers who have not completed BAA can use multiple channels.
+
+The authentication can be completed during LPG delivery, at the distributor's showroom or through the respective Oil Marketing Company (OMC) mobile app.
+
+During delivery, the delivery person can complete the process using the OMC mobile application.
+
+Consumers can also visit their LPG distributor and complete the authentication at the showroom.
+
+### AUTHENTICATION THROUGH MOBILE APPS
+
+Consumers can complete the process themselves through the mobile apps of their respective LPG providers.
+
+-   IndianOil ONE for Indane customers
+    
+-   HelloBPCL for Bharatgas customers
+    
+-   HP PAY for HP Gas customers
+    
+-   Video tutorials on completing self e-KYC are also available on the PMUY portal.
+    
+
+### WHAT IF YOU DO NOT WANT TO COMPLETE BAA
+
+Consumers who do not wish to complete the authentication can still receive LPG.
+
+However, they will need to register their choice through their OMC's digital channels. These include the consumer web portal, mobile app, WhatsApp chatbot, IVRS or other available channels.
+
+Such consumers will receive LPG at the applicable market price without subsidy, in 5 kg or 10 kg cylinders, subject to local availability with the OMC.
+
+### HOW MANY CONSUMERS HAVE COMPLETED IT
+
+As of September 19, 2026, 27.43 crore active domestic LPG consumers had completed BAA.
+
+This represents 89.9 per cent of active domestic LPG consumers.
+
+Consumers were initially asked to complete the process by June 30. The deadline was subsequently extended several times, with September 14 being the final extended deadline.
+
+### GOVERNMENT'S OUTREACH DRIVE
+
+Oil Marketing Companies have been running a nationwide outreach drive since October 2023 to encourage consumers to complete the authentication.
+
+According to the government, more than 12 crore SMS and WhatsApp messages have been sent to consumers.
+
+Distributors and delivery staff have also followed up with consumers who had not completed authentication. Camps have been organised at distributorships, high-footfall locations and rural areas.
+
+### WHY THE GOVERNMENT IS MAKING THE CHANGE
+
+The government says biometric Aadhaar authentication is intended to link each domestic LPG connection to an authenticated consumer.
+
+According to the government, this is aimed at preventing diversion of subsidised domestic LPG for commercial and industrial use, removing duplicate and ineligible connections, and making subsidy delivery more targeted.
+
+The government has also said the process is not intended to deny LPG to genuine households.
+
+### WHAT CONSUMERS SHOULD DO
+
+Consumers who have already completed BAA do not need to take any further action.
+
+Those who have not completed it should complete the authentication before October 1 through delivery staff, their distributor's showroom or the relevant OMC mobile app.
+
+Consumers who do not wish to complete BAA can register their choice through their OMC's available digital channels and receive LPG at the applicable market price without subsidy.
+
+\- Ends
+
+Chaitanya Dhawan
+
+Sep 20, 2026 10:14 IST
+
+---
+
+### Delhi woman vandalises auto, abuses driver outside metro station. Video goes viral
+*India Today Trending Desk · general*
+
+## A woman was seen vandalising an auto-rickshaw and confronting its driver outside a metro station in north-west Delhi. Several social media users tagged Delhi Police in the comments to report the matter.
+
+A woman was seen vandalising an auto in Delhi. (Photos: @vishal\_ji1570/Instagram)
+
+A road-rage incident outside a metro station in north-west Delhi has gone viral after a woman was filmed vandalising an auto-rickshaw during a heated confrontation with its driver. The video also captured her claiming that no action would be taken against her because she was “from staff”.
+
+The incident took place outside Haiderpur Badli Mor Metro Station. The video was shared on Instagram by a Rapido driver named Vishal, who was passing the spot when he noticed the commotion.
+
+The clip began with the woman standing in front of the auto-rickshaw and trying to damage its headlight. She tried to hit it repeatedly but failed to break it. Then she turned her attention to the vehicle’s wiper and bent it while continuing to argue with the driver.
+
+The situation soon became more heated as the woman was heard hurling abuse at the auto driver. At one point, she was also heard saying that no action would be taken against her as she was “from staff”.
+
+Vishal continued recording the incident from a distance. Towards the end of the video, he also showed the registration number of the car in which the woman had arrived.
+
+**Watch the clip:**
+
+The video has since circulated widely on social media, with users questioning the woman’s behaviour and calling for action over the damage to the auto-rickshaw.
+
+Several people also tagged the official Delhi Police handle while sharing the clip. However, at the time of publishing, it was unclear whether a police complaint had been filed or if any action had been taken in connection with the incident.
+
+The video has also left users debating how disputes on the road can quickly escalate into vandalism and verbal abuse.
+
+\- Ends
+
+Srimoyee Chowdhury
+
+Sep 20, 2026 10:08 IST
+
+---
+
+### TMC, Left, Congress out of action, how BJP has invented its biggest rival in Bengal
+*Akash Chatterjee · general*
+
+## As the BJP faces little political resistance in West Bengal, a row over non-vegetarian food during Durga Puja and Navratri has caused unease. The problem for the BJP is that the distinction between the party and the larger Hindu-right ecosystem is increasingly becoming irrelevant to people in Bengal.
+
+"When the rest of India fasts (for Navratri), Bengalis feast (for Durga Puja)."
+
+Three years ago, Instagram Reels and images with this message went viral ahead of Durga Puja. That was when West Bengal stood at a crossroads. Although the Trinamool Congress looked comfortable in power, the BJP was spreading its wings, while several other Hindu right-wing outfits were making inroads into the social and cultural space. Many Bengalis, for the first time in their lives, were encountering a Navratri-versus-Durga Puja debate. Many argued that Durga Puja had lost its religious essence after decades of Communist and Trinamool Congress rule, while some even questioned whether feasting on non-vegetarian dishes when several non-Bengali citizens were observing strict vegetarianism during Navratri was appropriate.
+
+In this context, the Instagram catchline was an attempt by Bengalis to counter the uncomfortable questions that had been spreading across several social media platforms. It wasn't a powerful statement, but it reflected a socio-cultural practice and loosely underlined a political undercurrent that many failed to read.
+
+The Bengal unit of the BJP might have been among those who failed to read it. Fulfilling a longstanding quest, the party finally came to power in 2026, pushing the Trinamool Congress to the margins of Bengal's politics.
+
+Four months in power, the BJP does not face a significant political threat on the ground. After a two-way split in the party, the TMC is nowhere near challenging the BJP at this moment. The Congress does not have organisational strength, and the Left is largely surviving on its past glory. For the moment, the BJP seems to be the invincible force in Bengal's political arena.
+
+Nonetheless, the reality is far removed from this perception. Despite its political advantages and grassroots penetration across West Bengal, a sense of unease is slowly taking root in Bengali society about the ruling party. It is not overtly political, but it touches something that shapes the socio-cultural and political life of the state.
+
+The consumption of non-vegetarian food has long been embedded in Bengal’s civilisational and cultural history, and it is suddenly being subjected to jibes from several prominent right-wing organisations and leaders. The BJP might have to pay for it, as people hardly distinguish between these organisations and the saffron party.
+
+To understand this contradiction, we need to look at two things: the political scenario in Bengal and the BJP’s rise as an unprecedented force, and the growing discomfort beneath that political dominance.
+
+### WHAT'S COOKING IN BENGAL'S KITCHEN?
+
+Unimaginable scenes unfolded after the election results were declared on May 4 in West Bengal. The Trinamool Congress, once seen as invincible in Bengal, was not only reduced to just 80 Assembly seats of the total 294, compared with the BJP's whopping 208, but also witnessed a rapid decline amid a wave of factionalism.
+
+The first blood was drawn by Ritabrata Banerjee, the present Leader of the Opposition in the Bengal Assembly. Accusing the Trinamool Congress of alleged signature forgery when the party nominated veteran leader Sovandeb Chattopadhyay as the Leader of the Opposition, Ritabrata, along with Sandipan Saha, lodged a complaint that led to an investigation by the Bengal CID. The Trinamool Congress soon expelled the two leaders. However, instead of resolving the **crisis, the decision deepened it**. The majority of the TMC MLAs, including staunch Mamata loyalists like Firhad Hakim and Madan Mitra, as well as leaders like Aroop Biswas and Anubrata Mondal, soon joined Ritabrata, and the faction now **claims to represent the real Trinamool Congress**.
+
+As a rebellion was unfolding inside the party in Bengal, led by someone who had once hailed Mamata Banerjee as one of the strongest Leftist leaders in the country, a parallel split was being orchestrated in Delhi. Twenty of the party’s 28 elected MPs, led by Kakoli Ghosh Dastidar, another Mamata Banerjee loyalist, announced their merger **with the obscure Tripura-based Nationalist Citizens Party of India** (NCPI) and also extended their support to the ruling NDA coalition.
+
+Somewhere, the developments made Suvendu Adhikari smile. Not because the NCPI is supporting the NDA coalition, or because a leader with almost zero mass connect had become the Leader of the Opposition, but because he knew that these developments would keep Mamata Banerjee busy, barely allowing her to focus on taking the opposition against the BJP government to the streets. And four months after the BJP came to power, the script is playing out almost perfectly.
+
+Until the **Trinamool symbol and bypoll candidates row**, Mamata Banerjee was barely seen on the ground, appearing increasingly detached and addressing her supporters mostly through Facebook Live. Her nephew, after he was egged and attacked in West Bengal’s Sonarpur, is busy with foreign trips for his treatment, while the rest of the apparatus is occupied either criticising the Ritabrata faction or fighting court cases.
+
+So, in the grand Bengal political kitchen, the TMC is cooked. The Left is still confused about whom to consider its primary enemy — the Trinamool, both the Mamata and Ritabrata factions, or the BJP — while the Congress simply does not have the ground-level strength to present itself as a viable alternative to the BJP. It seems, therefore, to be a complete win-win situation for the BJP.
+
+And there comes the twist.
+
+### THE RISE OF DISCOMFORT OVER NON-VEGETARIAN FOOD
+
+Eggs have become a serious matter in Bengal politics after May 4.
+
+First, the highly nutritious food item was thrown at Abhishek Banerjee, and later, at a section of TMC leaders accused of corruption and extortion. But transcending mere political rivalries, eggs soon became a point of contention between the ruling BJP, the feeble opposition forces and civil society when Chief Minister Suvendu Adhikari announced that midday meals in schools across the Kolkata Municipal Corporation (KMC) area would be served by ISKCON. The meals would be vegetarian, with eggs dropped from the menu.
+
+As the decision triggered a political storm, the Suvendu government was quick to course-correct. In the first week of August, the West Bengal government announced that it would provide eggs to students twice a week through a separate government scheme, alongside the vegetarian midday meals prepared by ISKCON.
+
+The discomfort with non-vegetarian food had begun to take root. It only deepened after some other incidents.
+
+### A VEGETARIAN DURGA PUJA?
+
+A large pandal, built around a theme reflecting some of the socio-economic and political problems of modern times, stands illuminated. Inside sits a large idol of Devi Durga. Outside, a long row of food stalls waits, serving mouth-watering egg, chicken and mutton rolls, along with a host of other non-vegetarian delicacies. A long queue of people moves towards the stalls, not merely to fill their stomachs, but to indulge in a culinary tradition that has become inseparable from Bengal's biggest festival.
+
+What has been a celebrated tradition during Bengal's Durga Puja for decades could come under threat this year. The theme-based pandals and the feast of non-vegetarian food have drawn the ire, first from the Vishva Hindu Parishad (VHP), a Hindu right-wing organisation affiliated with the Rashtriya Swayamsevak Sangh, and then from Dhirendra Krishna Shastri, the head of Baba Bageshwar Dham.
+
+In an appeal to the people of Bengal, the **VHP urged them not to compromise with the religious essence of Durga Puja** and also asked people not to sell non-vegetarian food items in and around the pandals. The remarks triggered a massive controversy, with many Bengalis criticising the organisation and the Suvendu government over the statements.
+
+Although the VHP later made a volte-face, saying that its advisory did not mean to restrict people from practising their food preferences, Dhirendra Shastri, popularly known as Baba Bageshwar, called upon Bengalis to avoid non-vegetarian food during Navratri. He even described non-vegetarian food as dirty and used the term _pakhandi_ (religious hypocrites) for those who eat non-vegetarian food during Navratri.
+
+"I am appealing to the Hindus of Bengal that during Navratri, even if you don't keep the idols of the Goddess, do not sell non-veg near the idols," said Shastri.
+
+A political storm spread like wildfire. Several content creators, internet users, **opposition leaders and even some BJP lawmakers openly criticised Baba Bageshwar**. The BJP quickly distanced itself from his comments, with the party's state president Samik Bhattacharya saying that he would eat mutton on the day of Nabami, the second-last day of Durga Puja.
+
+Although the BJP has not made any direct remark on people’s food choices, the statements by the VHP and later Baba Bageshwar could hurt the party, especially at a time when the municipal elections are approaching.
+
+The discomfort with non-vegetarian food had begun to take root. It would subsequently deepen through a handful of other incidents.
+
+### WHY NON-VEG MATTERS IN BENGAL?
+
+On Vijaya Dashami, before the immersion, many Bengali families offer a pair of _puti macch_ (swamp barb) or ilish (hilsa) to Devi Durga.
+
+I heard an interesting story from my grandmother while growing up. Once, Devi Durga came to her maternal home and had a grand feast. On her last day, before returning to her in-laws, her mother asked her what she would like to have as her last meal. As Devi Durga was suffering from indigestion, she asked for rice and _puti macch_.
+
+Since then, it has become a tradition to offer that fish. In Bengali families, there is a saying: "_Barir meyeke macch na khaiye bidaye janate nei_ (Do not send our daughter to her in-laws without feeding her fish)."
+
+It is a mythological story. However, what is documented is Swami Vivekananda's remarks about non-vegetarian food. The monk, who once ate the 'prohibited' fowl cutlet, wrote in his book __Prachyo and Paschatta__, “_Oi buro Shiv domru bajaben_, _Ma Kali patha khaben, ar Krishna banshi bajaben — ei deshe chirokal_ (Old Shiva will keep playing the damru, Maa Kali will eat the sacrificial goat, and Krishna will keep playing the flute — that is how it will always be in this country)."
+
+Even his guru, Swami Ramakrishna Paramahamsa, said, "If one can keep one's mind steadfast upon God after partaking of beef or pork, these things are as good as Havishyanna \[pure sanctified food\]. But vegetables eaten by a man engrossed in worldliness are no better than pork or beef."
+
+For Bengalis, the consumption of non-vegetarian food goes far beyond a mere dietary preference. From everyday conversations to literature, cinema and music, food — particularly fish and meat — has been woven into Bengal’s cultural imagination for centuries. It is part of what gives Bengali identity its distinct character.
+
+Perhaps that is why the remarks made by Baba Bageshwar, and the appeal made by the VHP, triggered a major storm across the state, with people opposing him cutting across party lines. The Congress filed a complaint against Baba Bageshwar. Some Congress party members even protested by hitting his picture with shoes. The CPI(M) also criticised Baba Bageshwar, while some BJP legislators and spiritual gurus too opposed his remarks.
+
+It is undeniable that the BJP came to power with a huge majority, a mandate that even some of the party’s most ardent supporters might not have anticipated.
+
+Yet, in the four months since taking office, governing Bengal has been far from a cakewalk. The controversy over hawker evictions, protests over delays in receiving benefits under the Annapurna Scheme, the absence of any major investment announcements and, now, the comments over the consumption of non-vegetarian food have all given the opposition and civil society reasons to question the new government.
+
+Over the past few years, Bengal has witnessed several silent political undercurrents that eventually dented Mamata Banerjee’s electoral prospects. It may be too early to draw a parallel, but history can repeat itself if the BJP fails to recognise the cultural sensitivities that define Bengali society — particularly when larger Hindu organisations begin commenting on people's food choices.
+
+While the BJP has no political rival strong enough as of now, it has invented one by being seen on the wrong side of the veg-non-veg debate.
+
+And for the BJP, the problem isn't necessarily that it is asking or not asking Bengalis to give up meat. It isn't. Its problem is that, in Bengal, the distinction between the BJP and the larger Hindu-right ecosystem is becoming irrelevant to ordinary people.
+
+\- Ends
+
+Akash Chatterjee
+
+Sep 20, 2026 10:00 IST
+
+---
+
+### Police chase ends with murder accused jumping off Sonipat flyover, survives
+*India Today News Desk · general*
+
+A man wanted in connection with the killing of a toll plaza employee earlier this year was severely injured after he jumped off a flyover in an attempt to evade police in Haryana's Sonipat, an official said.
+
+The scene – something straight out of an action thriller – unfolded as Manoj alias Filmy and his associate encountered a team of the Haryana Special Task Force (STF).
+
+The accused were travelling in a car from Panipat towards Delhi on National Highway 44 (NH 44) when the police team, which had been following them, intercepted the vehicle near a flyover.
+
+According to the police, as the STF personnel surrounded the car and moved in to take the duo into custody, Manoj jumped off the flyover in an attempt to escape.
+
+The fall caused serious injuries, and he was subsequently rushed to a hospital for treatment. His alleged accomplice, Sachin, was caught by the STF team at the spot.
+
+The STF also recovered the vehicle and an illegal pistol from the scene.
+
+This comes months after Sanjay Shukla, a manager at a toll booth in Hisar, was run over by a car there in June this year.
+
+Both Manoj and Sachin are accused in his murder. The duo had been absconding since the incident.
+
+Investigators are questioning Sachin to gather further information about the case, in-charge of Haryana STF's Sonipat unit, Ajay Dhankhar, said.
+
+Manoj already has a criminal record, and details of his previous cases are being examined as part of the investigation, per the police.
+
+Officials are also looking into Sachin's criminal history.
+
+\- Ends
+
+(Based on inputs from Pawan Kumar)
+
+Sep 20, 2026 09:59 IST
+
+---
+
+### ‘Spent extra 15 months in jail’: Punjab man says Indian Embassy ignored pleas, sought money in Saudi
+*Anju Agnihotri Chaba · legal*
+
+Rajinderpal, a resident of Tarn Taran district, returned to India on August 31 after spending nearly 10 years away from home, including almost three years in a Saudi Arabian jail.
+
+[Read full article](https://indianexpress.com/article/cities/chandigarh/punjab-man-saudi-arabia-jail-indian-embassy-10885810/)
+
+---
+
+### Used friend's Range Rover with permission: Keralam minister defends amid row
+*India Today News Desk · general*
+
+## Kerala minister KM Shaji defended using his friend's Range Rover as his official vehicle, saying he had permission and drove the car for many years. The row has intensified scrutiny over propriety, despite Shaji's claim that no public money was used.
+
+Keralam minister KM Shaji said he would not claim even a rupee from the government for travelling in his friend's Range Rover. (Photo: Facebook)
+
+Keralam minister KM Shaji on Sunday defended his use of a friend’s Range Rover as his official vehicle, saying he had used it for several years after obtaining the necessary permissions.
+
+The Indian Union Muslim League (IUML) leader, who holds the Local Self-Government Department portfolio, had also said he would not claim even a rupee from the government for travelling in the vehicle.
+
+The issue drew sharp criticism from the opposition LDF, which alleged that the arrangement was a “violation of the oath of office”. Shaji said he had used the vehicle because the government-provided one was not suitable for long-distance travel, and maintained that there was nothing improper in the arrangement.
+
+In a Facebook post, Shaji said the vehicle was not something he began using after becoming a minister. He said he had been using it occasionally for several years, including during the past five years when he held no official position. He added that he had several good friendships and that many of his friends owned expensive vehicles.
+
+Shaji said he did not see anything wrong in using their vehicles after following the prescribed procedures. “If there are any legal issues in this matter, everyone has the right to point them out,” he said. He added that he had used the vehicle after obtaining the necessary permissions and that it was not one he used regularly.
+
+He also urged the media and the public to examine whether any of his friends who provided him with food, accommodation or vehicles had received any undue benefits from the government because of their association with him.
+
+“If you find anything like that, tell me and the public without any hesitation,” he said, adding that if he was found to have done anything improper for such friendships, he should be exposed without any consideration.
+
+Shaji also hit out at CPI(M) cyber workers, former ministers and his political critics, saying he had never been afraid of them and had no intention of being so in the future.
+
+Responding to those who had threatened to block vehicles used by him, he said any vehicle he travelled in would continue to be used as long as it was legally eligible to be driven on the road. “There is no ‘fake banana bunch’ in my vehicle to stop it,” he said. He also said he would make an important announcement at 11.30 am on Monday.
+
+The Range Rover belonged to his friend Yakoob, a native of Thillankeri in Kannur district who works in Saudi Arabia. Following the controversy, the minister returned the car, which was seen parked in the courtyard of Yakoob’s house on Saturday without the official number plate allotted to the minister.
+
+There are reports that Shaji returned the car before travelling abroad, and he has not decided whether to use the same vehicle after his return.
+
+\- Ends
+
+India Today Web Desk
+
+Sep 20, 2026 09:56 IST
+
+
+---
+
 ## 19 September 2026
 
 ### 2 men buy 36 iPhones worth Rs 1 crore in Dubai: ‘Orders from friends in India’
