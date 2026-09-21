@@ -1,10 +1,243 @@
 # Editorials
 
-_Last updated: 2026-09-20 06:47 UTC_
+_Last updated: 2026-09-21 06:54 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
 
+## 21 September 2026
+
+### Serious escalation: On the U.S., Russia Sanctions Act and India
+*The Hindu · Editorial*
+
+The U.S. Russia Sanctions Act, now signed into law by President Donald Trump, and its resultant impending tariffs, present a new and substantially different escalation of tensions between the U.S. and India. The law provides the U.S. President the authority to levy tariffs of up to 100% on countries such as India that import large quantities of Russian oil and gas. This is more serious than the penal tariffs that Mr. Trump had levied earlier. The escalation last year of reciprocal tariffs to 50% on India’s import of Russian oil was based on an Executive Order, and could be rescinded through the same method. This latest Act has been passed by the U.S. Congress and so carries a higher order of legal permanence and authority. Mr. Trump will have to justify in writing to Congress any waiver he wants to provide. The 50% tariffs hit Indian exports to the U.S. hard, but the impact was somewhat mitigated by exporters sharing the cost with their American customers. That was, however, a financially devastating and unsustainable bid to retain customers. Sharing a 100% tariff will be impossible for India’s largely micro, small and medium enterprises (MSME) exporters. The 100% tariffs are also over and above the 10% ‘forced labour’ tariffs and the 50% Section 232 tariffs on steel and aluminium. Indian exports to the U.S. will simply become too uncompetitive should these new tariffs come to pass. India has three options before it: cut Russian oil imports, retain those imports and bear the tariffs, or convince the U.S. to implement a low tariff using the “up to 100%” phrasing of the law.
+
+Continuing with Russian oil imports and bearing the tariffs would be a significant blow to India’s export ambitions and MSMEs. The U.S. is India’s largest export destination, accounting for about 20% of its total goods exports. In any case, historical data have shown that India has usually complied with U.S. pressure to cut oil imports from particular countries, including from Russia, vocal claims of strategic autonomy aside. Finding other sources will be difficult. Russia accounted for more than 51% of India’s oil imports as of July 2026, while supplies through the Strait of Hormuz remain constrained. India will have to chivvy countries such as Oman to hasten their expansion of alternative ports. The price of oil remains well above $100 a barrel, meaning finding favourable deals with new suppliers will be increasingly difficult. Union Commerce Minister Piyush Goyal will have much to do during his planned trip to the U.S. at the end of this month for the G-20 Trade Ministerial. There are still 30 days before the U.S. can levy its tariffs. India’s ability to secure a low rate will be a true test of Prime Minister Narendra Modi’s friendship with Mr. Trump.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/serious-escalation-on-the-us-russia-sanctions-act-and-india/article71488040.ece)
+
+---
+
+### India’s NGOs at a new funding crossroads
+*The Hindu · Opinion*
+
+When the first Foreign Contribution Regulation Act (FCRA) was passed in 1976, a government of a different political hue was in power from the one that has now proposed the more fierce FCRA Amendment Bill, 2026. But the underlying political apprehensions were similar — the fear that foreign powers could destabilise the country by funding civil society organisations (non-governmental organisations or NGOs). In the present case, there is also an unstated fear of religious conversions by Christians and other religious minorities. The Bill is yet to be enacted because of strong reactions by the Opposition parties and several civil society groups, particularly Christian organisations.
+
+What are the concerns over the FCRA Bill?The government claims that the flow of foreign funds into India’s NGO sector operates as a vast, intricate and opaque web. Under the banners of development, human rights and social welfare, thousands of crores of unmonitored capital pour into the country every year. Much of this money deliberately bypasses state accounting mechanisms and finds its way into politically charged campaigns, highly selective local advocacy, and aggressive proselytisation and religious conversion networks.
+
+Proposed legislation, the concernsUnder the proposed legislation, if an FCRA certificate is cancelled, surrendered or automatically lapses, foreign contributions and all assets created from them would vest in a government-appointed “designated authority”. The organisation can recover the assets if registration is restored within the prescribed period. Permanent vesting will occur only if registration is not restored within that period. The Bill also provides for revision and an appeal to the District Judge.
+
+If a fresh certificate is not obtained within the prescribed period, the assets could be sold or transferred to a government department, with the proceeds going to the Consolidated Fund of India. However, during the provisional-vesting period, restoration of registration results in the return of assets and unused foreign contribution.
+
+Constitutional faultlines in FCRA BillNGOs, especially Christian organisations, which the government says receive a larger proportion of the funds among religions associations, are worried that the legislation may not be religion-neutral and that, ultimately, the real sufferers would be the beneficiaries served by such charitable organisations, which have established and operate numerous schools, hospitals, old-age care homes and similar institutions. As some leaders from the northeast and tribal areas have pointed out, such institutions are sometimes the largest or only providers of these services in many areas.
+
+Already, the FCRA registrations of 22,496 NGOs have been cancelled since 2015, leaving about 14,466 active registered associations eligible to receive foreign contributions (Ministry of Home Affairs data, September 2026). In fact, the amounts received are larger than those in 2006-07 (₹12,289.6 crore from private international donors), the last year for which data were available when this writer wrote the book, Foreign Aid for Indian NGOs: Problem or Solution? (2010).
+
+So why the protests? The fact is that different sources of funding have a differential impact on organisations and their effectiveness because, as the saying goes, “He who pays the piper calls the tune”.
+
+Though in total, the volume of foreign aid to NGOs is small compared with government budgets, and only a small proportion of NGOs receive such aid, it is highly valued because it is not only an alternative source of funding but also more flexible than government funding, with fewer restrictions on how it can be used. It is generally tailored to an NGO’s needs through discussions between the NGO and the donor.
+
+The book, Foreign Aid for Indian NGOs, which is based desk research and interviews with several NGOs, large and small, suggests that while a few organisations felt that foreign aid had adverse consequences, such as encouraging the adoption of ideas and practices from abroad that were unsuited to Indian conditions, most felt that foreign funds had contributed to India’s development and, in particular, to the growth of the voluntary sector. They had brought in new ideas, techniques, technologies and organisational improvements. In the absence of adequate government funding and private philanthropy, foreign aid had played a positive role.
+
+Need for funding diversityToday, however, given political events in neighbouring countries and elsewhere in the world, and without being privy to the secret sources of information that the government has about the destabilisation role played by foreign money, it is difficult to pass a definitive judgment on the need for and value of foreign aid today.
+
+Opinion | FCRA Bill 2026, a threat to civil society organisations
+
+There can be no doubt that a vibrant and independent civil society is necessary for a healthy democracy and for preventing the abuse of unrestrained political power by any one section of society. Plural sources of funding are also necessary to ensure that civil society is not dependent on any one source.
+
+But equally, one can question whether foreign funds are the only answer to the needs of civil society today. First, the voluntary sector is more developed now. Second, the situation regarding foreign aid itself has changed. Bona fide foreign donors are themselves moving away from giving to India because of their own economic difficulties and the perception that India, which is aiming to become the world’s third-largest economy, no longer needs aid from them.
+
+Third, the domestic non-government funding environment has also improved. According to the Forbes 2026 list, there are 3,332 billionaires in the world, of whom 229 are in India, giving it the third-largest number after the United States and China. The amount they donate to philanthropy has also increased. According to the India Philanthropy Report by Bain & Company, private philanthropy was projected to reach ₹1.43 lakh crore ($16 billion) in FY 2025. In addition, there is retail giving of about ₹37,000 crore annually.
+
+The downside is that, according to the same report, demand is growing faster than supply, with projections indicating that the gap could reach ₹18 lakh crore ($210 billion) by 2030.
+
+Moreover, new philanthropists, especially entrepreneurs and technology leaders, are shifting away from traditional areas towards ecosystem building, scientific research, higher education and complex institutional support.
+
+This is undoubtedly good news for social and economic change, but bad news for NGOs delivering traditional education, health and social welfare services.
+
+A glimmer of hope for such NGOs is that, following the Companies Act, 2013, which made corporate social responsibility (CSR) spending compulsory for companies above a certain size, CSR spending by such listed companies was ₹22,563 crore in FY25, up 17.5% (latest CRISIL report).
+
+Since many companies do not have the internal competency to undertake social development, they rely on NGOs as partners. Although many companies are moving into environmental and other emerging areas, many still find the traditional areas of health, education and rural development more meaningful.
+
+A new opportunitySo if, in the ultimate analysis, the government does decide to limit foreign funding, the future need not be bleak if Indian domestic philanthropy steps up to fill the gap.
+
+However, indigenous donors, and the government in particular, must become more responsive to the needs of NGOs, learn from foreign donors some of the practices that made their aid so sought after, and engage in more serious dialogue on funding practices, as distinct from development issues, to improve those practices and address the dissatisfaction on both sides. Ultimately, it is the innate generosity that is dormant in hundreds of dedicated Indians that will change the dynamics of development in India, not foreign aid, which at best can be the cherry on the cake.
+
+Pushpa Sundar is the author of several books on philanthropy, with the latest title being ‘Giving with A Thousand Hands: The Changing Face of Indian Philanthropy’.
+
+[Read full article](https://www.thehindu.com/opinion/lead/indias-ngos-at-a-new-funding-crossroads/article71488462.ece)
+
+---
+
+### DC Edit | Campus Evils: Cheating, Caste
+*Deccan Chronicle · Editorial*
+
+The death by suicide of a student at IIT Bombay, one of India’s premier education institutions, has once again brought allegations of caste discrimination into focus. The tragedy deserves a thorough and impartial investigation, since the student’s family has accused the invigilator of making a casteist slur.
+
+However, the circumstances of the case are important. The student was allegedly caught using a mobile phone during an examination and uploading the question paper to ChatGPT — an examination fraud. According to IIT Bombay, faculty members counselled him after the incident and assured him that his academic career would not be jeopardised. Yet, the student ended his life by suicide. His family has alleged that he had been subjected to caste discrimination for months, leading to the police registering a case that includes provisions of the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act.
+
+This incident brings to the fore two issues — caste discrimination and examination fraud. It is important that the country acts against one of them. Caste prejudice has been one of the major problems at premier institutions.
+
+It is real enough to demand institutional attention, and it cannot and should not be an excuse for examination fraud. Students entering IITs through reservation — typically with lower ranks — have regularly been socially excluded on campuses, defeating the very purpose of affirmative action.
+
+At the same time, equality cannot mean different standards of academic conduct. Cheating, plagiarism or unauthorised use of artificial intelligence during examinations must invite the same disciplinary process irrespective of a student’s caste, religion, gender or economic background. The death at IIT Bombay should not induce fear among examination invigilators, as it will give a death blow to education in India.
+
+The IITs must, therefore, ensure robust and independent mechanisms through which students can report caste discrimination without fear of retaliation. If any student requires remedial classes, IITs must offer them.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-campus-evils-cheating-caste-1989150)
+
+---
+
+### DC Edit | How Regional Parties Are Being Wiped Out
+*Deccan Chronicle · Editorial*
+
+The reports that have been coming out of several states, the latest being West Bengal, for some time now will cause consternation and deep distress in the minds of all those who believe in electoral democracy in the country. They show a disturbing pattern of administrative arbitrariness and ad-hocism, irreverence to basic norms of electoral practices and a concerted effort to discredit, dismember and disarm political parties which do not conform to the ideals of the party in power at the Centre.
+
+The events that are unfolding ahead of the October 6 byelections to the West Bengal Assembly are disturbing. The split in the All-India Trinamul Congress with rebel MPs joining a political non-entity and later parading themselves along with the NDA members form part of a script which is not very familiar in the Indian political theatre. But if that is not enough, the Election Commission has now frozen the name and election symbol of the Trinamul Congress and allotted new names and symbols to the factions led, respectively, by party founder Mamata Banerjee and the rebels. The basis for the Election Commission’s decision is not known. The Supreme Court had only last week asked the EC why it chose to recognise one faction of the Shiv Sena and allot the symbol “bow and arrow” to it instead of freezing it. It appears that the EC has different criteria for deciding similar cases in different states.
+
+The fast-paced developments related to the byelections send a more menacing signal. The Trinamul Congress candidate in the Nandigram Assembly bypoll withdrew his nomination once the time for filing nomination papers was over, leaving the party no time to field another. Left with little options, the Trinamul Congress then opted to support the Congress candidate. Yet by no stretch of imagination could one anticipate that the Congress candidate would then be arrested in a 19-year-old case and remanded to judicial custody till October 3, but these indeed happened. Unless the higher courts intervene, they will have little or no time to campaign in the election.
+
+If the Congress candidate for Nandigram was arrested, the Trinamul Congress candidate for Rejinagar bypoll announced his withdrawal from the contest alleging, among many things, that the police were terrorising his supporters. He, however, later decided to stay in the fray.
+
+Finally, the Leader of the Opposition in the Lok Sabha summed up this trend that is being seen across the country when he said, “First the Shiv Sena, then NCP, and now Trinamul Congress. Every time, the same pattern — the BJP and the Election Commission join forces to split a party. Then its election symbol is snatched away.” This trend, if sustained, and repeated successfully, has the potential to end electoral democracy in the country.
+
+The elections to the West Bengal Legislative Assembly were held this year after deleting the names of about 90 lakh people from the voters’ list after a special intensive revision (SIR) conducted by the EC. It was revealed only recently that over 37 lakh appeals against deletion or inclusion of names in those rolls under the SIR remain pending. The poll panel told the Supreme Court last week that tribunals have disposed of only about 1.02 lakh of the 38.20 lakh appeals filed so far.
+
+It’s a testing time for Indian democracy. It is also time for its stakeholders to wake up and stand up for it.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-how-regional-parties-are-being-wiped-out-1989139)
+
+---
+
+### Fake cancer drugs expose dangerous gaps in healthcare system
+*Deccan Herald · Editorial*
+
+The seizure of fake, expired, and mislabelled cancer drugs and ICU injections in Bengaluru has exposed a disturbing vulnerability in the healthcare system: medicines meant to save lives can enter hospitals through apparently legitimate channels.
+
+The racket, allegedly spread across more than 90 hospitals, clinics, and pharmacies, involved repackaging cheap or expired formulations, counterfeit labels, and discounts of up to 50%.
+
+The drugs were sourced or manufactured across states — Telangana, Himachal Pradesh, Haryana, and Maharashtra — before being processed at a secret hub and distributed across Bengaluru.
+
+Such a network points to a serious failure of inter-state regulatory co-ordination. A rigorous probe into every link in the chain must now follow the arrests and seizures.
+
+The immediate concern is the patients who may have received these medicines. For a cancer patient coping with fear, pain, and uncertainty, discovering that a life-saving drug may have been counterfeit can inflict a second trauma.
+
+An ineffective or contaminated injection can allow the disease to progress or cause unexpected toxicity and infection. The consequences can also be indirect. If a patient fails to respond to treatment, doctors may wrongly conclude that the disease has become resistant, and prescribe stronger, more intense therapies. Hospitals must urgently identify all patients who received the affected batches and arrange clinical evaluation.
+
+Truth about blood cancer remission: Why relapse happens and how to monitor it?Those requiring corrective treatment must not be left to bear the consequences of a failure they did not cause. Equally important is to establish how institutional safeguards were defeated.
+
+A discount of 50% on expensive cancer or ICU medicines should have triggered scrutiny, not procurement. Yet forged invoices and licences, professional packaging, and off-channel procurement reportedly enabled supplies to pass routine checks.
+
+The episode raises questions about whether hospitals verify batch numbers with manufacturers, restrict purchases to authorised distributors and independently authenticate high-value medicines.
+
+The Centre has mandated QR codes or barcodes on critical drugs. The failure of hospitals to scan them — a step that could have exposed fraud at the purchase stage — points to negligence or even collusion that warrants a thorough investigation.
+
+Patients and families who have suffered harm also need legal assistance to pursue claims and seek appropriate compensation.
+
+The investigation must be meticulous enough to withstand judicial scrutiny. Every person who manufactured, repackaged, financed, transported, supplied or knowingly enabled the distribution of counterfeit medicines must be identified and prosecuted.
+
+This is not merely a drug-control failure. It is a breach of the trust on which medical treatment rests. Restoring that trust requires accountability, patient care, and safeguards that make it far harder for profit-driven criminal networks to turn vulnerable patients into victims.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/fake-cancer-drugs-expose-dangerous-gaps-in-healthcare-system-4153175)
+
+---
+
+### India denounces US’ ‘blackmail’ law
+*Deccan Herald · Editorial*
+
+India has responded strongly to the passage of the Sanctioning Russia and Iran Bill, known as the Lindsey O Graham Bill, by the United States Congress.
+
+The legislation authorises US President Donald Trump to impose tariffs of up to 100% on countries such as India and China for buying Russian oil. The External Affairs Ministry said the Bill could have implications for bilateral ties and asserted that India will take all necessary measures to protect its trade and economic interests.
+
+The government said it is “firmly committed to ensuring energy security for its 1.4 billion people through diversified sourcing” and will work closely with industry bodies to mitigate the fallout. The statement also flagged the Bill’s impact on global energy markets.
+
+The Trump administration has weaponised tariffs against other countries, including allies, to serve its own ends. India has faced such measures before, and its responses were cautious and carefully worded to avoid offence, even attempting to placate the US for fear of escalation.
+
+Iran warns against new escalation by US and alliesUS President Donald Trump signs Russia sanctions Act; India, China could face 100% tariffs With the trade deal under negotiation, the US a major partner, a large Indian diaspora in the US, and a strong security relationship, New Delhi may have felt compelled to tread lightly. But, the Trump administration has shown little regard for policy stability or niceties, preferring to dictate terms with arrogance and an assumed right to lead the world and impose its will on others, right or wrong.
+
+The proposal to punish other countries for buying oil from Russia is a flagrant violation of international norms and conduct. If Russia attacked Ukraine, why should other countries be blamed and made to pay the price? Ironically, this is being done when the US has attacked Iran and is waging a war with bigger consequences for the world, and has exempted itself from the working of the new law.
+
+For the last many decades, the US has been among the world’s biggest aggressors and violators of international laws. The Graham Bill is not an aberration; it had bipartisan support in Congress and is US law now.
+
+India should stand its ground and refuse to succumb to US pressure and blackmail. It has clearly articulated the implications and consequences of the US move. It should stick to the words and protect its interests. If there is no resistance, it can lead to more pressure and demands.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/india-denounces-us-blackmail-law-4153170)
+
+---
+
+### Dara Singh’s remission drama and the burning that still scars India’s conscience
+*Deccan Herald · Opinion*
+
+The Dara Singh remission saga ended in an anti-climax. Just when everything seemed set for the premature release of the man sentenced to life for burning alive Australian missionary Graham Staines and his sons in 1999, came the surprise decision against his release.
+
+The official reason for the turnaround seems flimsy. Provocative slogans were raised on August 15 by his supporters outside the jail where Singh is lodged, making the Sentence Review Board uneasy about the effect of his release on the communal situation.
+
+Did the Odisha government need this demonstration to gauge the impact of the premature release of a man whose name will forever be synonymous with the burning alive of children aged 10 and six, along with their father, only because the latter was a Christian missionary? It’s far more likely that the Odisha government either didn’t care about the message sent out by his release, or it wanted to signal support for Singh. After all, Chief Minister Mohan Charan Majhi had joined the dharna by TV producer Sudarshan Chavhanke (whose programmes have been stopped by courts for promoting communal hatred), after the latter was prevented from meeting Singh in jail.
+
+Odisha rejects Dara Singh’s remission plea in Staines murder case, Supreme Court informed This was in 2022, when Majhi was in the Opposition. It’s no coincidence that in less than a month of Majhi becoming chief minister, Singh approached the Supreme Court for remission of his sentence, which had been denied five times earlier.
+
+In his petition, Singh expressed regret at his crimes, describing them as arising out of “the fervour of youth”, as he was “overwhelmed by distress at the barbaric deeds inflicted upon India by the Mughals and the British.”
+
+Can Singh’s claim be taken seriously? Not only was he almost 40 when he committed the three crimes for which he is undergoing concurrent life sentences, but two of the three were a result of careful planning. The Justice Wadhwa Commission of Inquiry into the Staines’ murder revealed that after deciding to kill Staines for his alleged missionary work among tribals, Singh mobilised villagers to help him. He instructed them to prevent local residents from interfering, and even bought red forehead bands for his team. After setting fire to the van in which Staines and his sons were sleeping, Singh and his men stood there, pushing the victims back when they tried to get out of the burning jeep. Only when they were completely charred did Singh blow his whistle and the team disappeared.
+
+Father Arul Doss’ killing was similarly planned and executed. Hunted down while he slept, the priest was shot with arrows and the church in which he’d been sleeping burnt.
+
+'You can’t keep it lingering': Supreme Court raps Odisha govt over delay in Dara Singh’s remission pleaIt was only the third murder, of cloth trader S K Rahaman, that could be described as having arisen out of rage. But Rahaman’s only fault was that he refused to give a donation demanded by two Hindus. That was enough for Singh to attack him with an axe. The postmortem recorded six fatal blows; he was then set on fire.
+
+This is the man for whom the Supreme Court told the Odisha government: “Let him also celebrate Independence Day.” Upholding his life sentence in 2011, the same court tried to explain Singh’s deed as being motivated by Staines’ conversion activity, remarks that led to such outrage that the Bench had to expunge them.
+
+The inquiry commission report of their fellow judge, Justice D P Wadhwa, clearly mentioned that though Staines preached the Gospel, he did not convert anyone. He was more involved in curing tribals afflicted with leprosy. His efforts resulted in the stigma of leprosy being removed to such an extent that locals began buying milk from the leprosy ashram. Moreover, Justice Wadhwa, then a sitting Supreme Court judge, found no evidence of either mass or forced conversion in the district where Staines worked. Whatever conversions had taken place had been a result of sick tribals getting cured by prayer after medicines had failed.
+
+Ironically, a juvenile convicted along with Singh, released after nine years in a juvenile home, voluntarily converted to Christianity two years back ‘for inner peace’.
+
+When he killed Staines, Justice Wadhwa noted, Singh had 10 cases against him, mostly for attacking Hindu and Muslim cattle traders. Even after the Staines’ murder, described by then President K R Narayanan as “belong(ing) to the world’s inventory of black deeds”, the police took a year to catch him, while he went around giving TV interviews and committing two more murders.
+
+Such was the protection this Bajrang Dal member enjoyed under a Congress government. Now there’s an RSS-led government at the state and Centre. One can only hope that Dara Singh continues to remain behind bars.
+
+Jyoti Punwani is a senior journalist.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/dara-singhs-remission-drama-and-the-burning-that-still-scars-indias-conscience-4153551)
+
+---
+
 ## 20 September 2026
+
+### Antidote to drugs: On the counterfeit medicine racket in Bengaluru, Karnataka
+*The Hindu · Editorial*
+
+With the recent bust of a counterfeit medicine racket in Bengaluru, a public policy issue with broad ramifications for health care in the State has emerged. Centered around Bengaluru, relabelled or fake drugs, including cancer drugs, injections used in the ICU, were supplied to more than 90 hospitals and clinics across the State. The lid was blown off this elaborate scam after incidental raids, near Bidadi in Karnataka on August 18, found suspected fake drugs and expired drugs at a farmhouse which was an unlicensed unit. The consignment had a label value of ₹5 crore. Investigators said that the farmhouse was used in an illicit drug operation — involving the repacking of fake and expired drugs as fresh consignments, with altered expiry dates, and as expensive, imported branded drugs — which were then sold at massive discounts. The State later formed a Special Investigation Team to trace the wider network. While exploring the distribution mechanism, investigators found that the network had been supplying these drugs to over 90 hospitals in the State, in cahoots with a pharmacy in Bengaluru, indicating that a network was thriving well before the bust. A few persons have been arrested and the police are on the tail of another who is not in the country at present. The impunity with which the scamsters were operating is an indication of the unreliable scrutiny of the quality of drugs in the market. The biggest concern, however, is patient safety, given that these are drugs that can save lives and are marked out for time-sensitive usage. Also being examined are possible inter-State links, as investigators have launched a complete review of the supply chain. The illicit channels through which private hospitals bought and used these drugs, including possible complicity in the private hospital network, are under scrutiny.
+
+With alarming regularity, issues to do with poor quality, spurious, fake or expired drugs hit the headlines in India. For a nation that zealously aspires to become the ‘pharmacy of the world’, India struggles to match its ambition with adequate and stringent monitoring and quality control systems. The question of drug quality is particularly significant as fake or spurious drugs can cause immediate adverse reactions, lead to severe disabilities, and even death. Recent incidents of contaminated cough syrups causing deaths, not only in India, but across the world, have further highlighted these woefully inadequate systems and consistently dented the pride of the “Make in India” campaign. Irrespective of whether India becomes the pharmacy of the world, there is a pressing need to make sure that drugs and medical supplies made in the country fulfil the highest quality standards.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/antidote-to-drugs-on-the-counterfeit-medicine-racket-in-bengaluru-karnataka/article71480878.ece)
+
+---
+
+### A Poster, A Probe And IIT Mandi’s Golden Chance To Define A Standard
+*Deccan Chronicle · Opinion*
+
+IIT Mandi has ordered an inquiry into a poster displayed on campus during Janmashtami celebrations on September 4. The poster described the four varnas in functional terms. Brahmanas were to spread God’s message. Kshatriyas were to protect society and spirituality. Vaishyas were to drive the economy and support others. Shudras were to serve the higher classes. The institute has since confiscated the poster and decided to refer the matter to the police after its fact-finding exercise. The nine-member committee, headed by Prof. Viswanath Balakrishna, includes six members from the institute’s reservation cell. It has not yet identified the student who put up the poster.
+
+Director Laxmidhar Behera has said the poster was a student-led initiative and that he had not seen it before the controversy. He has also said that the institute stands firmly against caste discrimination. He has pointed to his long association with the Bhagavad Gita and Iskcon, which he says strongly opposes caste discrimination, and explained varna in terms of guna and karma rather than birth. That defence deserves to be considered. The guna-karma reading of varna is a genuine Gaudiya Vaishnava position. If varna is understood as temperament and vocation rather than hereditary rank, the poster could be defended as theology rather than bigotry.
+
+However, that defence has a real limit. Whatever the tradition intends, the poster did not present a claim about temperament. It presented a claim about class, in the language of “higher classes” and who must “serve” them, tied to birth categories that Indian law and Indian social memory treat as a hierarchy of status rather than a distribution of aptitude. A theological reading available to a scholar is not automatically the reading a poster communicates to students walking past it. In other words, the institute’s defence explains what the tradition can mean. It does not establish what the poster, as displayed, did mean.
+
+That brings us to the more useful question. In January 2026, the UGC notified regulations requiring higher education institutions to establish Equity Committees and formal mechanisms for addressing discrimination. The Supreme Court subsequently put the regulations in abeyance, and the Centre later told the Court that they were being reconsidered. The legal position, therefore, remains unsettled. Even so, that uncertainty does not make the underlying institutional responsibility disappear. Caste discrimination in higher education is not a hypothetical concern. The regulatory push itself emerged from wider concerns about discrimination and exclusion on campuses. A public institution cannot reasonably wait for every regulatory question to be settled before deciding what standards of equality, dignity, and non-discrimination it should apply to its own campus.
+
+Indeed, IIT Mandi’s own reservation cell serves as a redressal mechanism for SC, ST, OBC, and PwD students and employees, including complaints of caste-based harassment, humiliation, and discriminatory behaviour. Its chairperson, Prof. Viswanath Balakrishnan, is also heading the current fact-finding committee. Against this background, the present inquiry becomes particularly important. The institute has moved beyond distancing itself from the poster. It has confiscated the material, begun a fact-finding exercise, and decided to involve the police. That is a significant response. However, identifying the person responsible is only one part of the problem.
+
+The first question, therefore, is who created and approved the poster before it was printed and displayed, and whether any existing approval process for student events was followed. The preliminary finding that the Janmashtami programme was organised by students rather than by an institute department is relevant. However, it does not by itself settle the question of institutional responsibility.
+
+The next question is whether any faculty member was consulted about, or aware of, the poster’s content before it was displayed. This is a fair question to ask, not an accusation to presume the answer to. It should be answered by the inquiry rather than left to public speculation.
+
+More broadly, the institute needs to establish whether this was an isolated lapse or whether its procedures allow potentially discriminatory material to appear in student activities without adequate oversight. This does not mean students should be prevented from discussing controversial ideas. A university must allow such discussion. The real issue is whether there is a meaningful distinction between discussing a contested idea in an academic setting and presenting a formulation that appears to assign different social worth and obligations to people based on caste.
+
+That distinction becomes even more relevant because IIT Mandi has faced another controversy in recent months over a conference involving the Bhagavad Gita, Ayurveda, and reincarnation. The institute denied allegations that students were compelled...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/a-poster-a-probe-and-iit-mandis-golden-chance-to-define-a-standard-1989126)
+
+---
 
 ### An AI-free Ode To The Eighties
 *Deccan Chronicle · Opinion*
@@ -106,6 +339,41 @@ Tarique’s calculation, therefore, may be less about choosing Pakistan over Ind
 This may be the most consequential dimension of the unfolding story. Pakistan, once the source of Bangladesh’s deepest national trauma could now become an instrument through which Dhaka asserts precisely the strategic autonomy for which it fought in 1971. Ziaur Rahman’s doctrine of diversification may thus be returning in a second-generation form, reinforced by Khaleda Zia’s political inheritance. It need not represent a rejection of...
 
 [Read full article](https://www.deccanchronicle.com/opinion/columnists/the-advanced-maths-behind-bangladeshs-mecca-gambit-1988918)
+
+---
+
+### The Lion In Winter: Modi Politics At 76
+*Deccan Chronicle · Opinion*
+
+Narendra Modi, who turned 76 on September 17, remains Prime Minister in his third term, but the nature of his authority has changed and his aura is not what it was in 2014 and 2019. He remains formidable but is increasingly like the Lion in Winter, confronted by age, public fatigue, succession speculation and the limits of power.
+
+Millions of oil lamps lit by BJP state governments in Delhi, Madhya Pradesh, Gujarat, Odisha, Bihar and West Bengal cannot bring back that aura. That the party resorts to such state-sponsored gimmicks, a first for any Indian Prime Minister, shows the anxiety involved in preserving it.
+
+The inflection point came in 2024, when the BJP lost its single-party majority and needed allies to form a government. Modi remained central, but the arithmetic of power changed.
+
+Fatigue with Mr Modi, within both the public and BJP, stems firstly from his longevity. He himself set an informal retirement age of 75 for his predecessors, to allow generational change. However, it has kept his age in focus now that he has crossed it. Public fatigue shows in gradually sliding approval ratings. A long-term national tracking poll showed Mr Modi’s popularity falling from 70 per cent in 2021 to 58% in 2026. A separate 2026 survey put approval at 49%, with younger voters cooler, and showed it could have been lower but for the BJP’s win in West Bengal.
+
+Fatigue among supporters stems from his personalisation of the BJP. The question for the BJP or its parent organisation, the RSS, is not whether Mr Modi is good or bad; neither seems tired of him. But since his success rests on an unusually centralised and personalised leadership model, the question is how the vast structure of Hindutva built around cadre, ideology and institutional continuity will manage a political system increasingly identified with an individual in his absence.
+
+This centralised leadership model has paid electoral dividends but troubles the RSS, whose institutional culture is older than Mr Modi’s age, yet his indispensability raises questions about sustainability. The RSS’s long-term interest is to preserve the BJP rather than defeat Mr Modi or prolong his tenure. The RSS would not only be asking who can replace Mr Modi, but also whether the Modi-era political machine can reproduce itself without him at its centre.
+
+It would be erroneous to portray Mr Modi as powerless: he retains enormous institutional power despite the inevitable decline of his personal charisma. Yet the longer the lion makes himself indispensable, the harder it is for the pride to show it can survive without him.
+
+Mr Modi’s weaknesses are becoming evident. India can boast high GDP growth (though economists question it, as with the latest 7.8% claims), but it is a kind of growth that has failed even after 12 years to convert aggregate growth into abundant, productive and reasonably paid employment.
+
+The ILO’s India Employment Report 2024 shows youth unemployment rising with educational achievement, especially among technically qualified youth, and substantially higher among disadvantaged groups. One can reform the examination system, but without adequate jobs after graduation, what use is that education? Even if the lion still has teeth, the same roar is unlikely to persuade young India that he has the blueprint for its future.
+
+“Make in India” and “Atmanirbhar Bharat” promised to make India a major manufacturing hub next only to China, creating millions of industrial jobs. That transformation remains incomplete: India’s dependence on Chinese supply chains is enormous, underlining the gap between rhetoric and achievement.
+
+If economic criticism of Mr Modi arises from the yawning gap between growth claims and structural transformation, his diplomatic failures show a similar gap between India’s projected global stature and his inability to deliver any concrete strategic outcomes. After two decades of rhetoric and orchestrated NRI events, photo-opportunities with world leaders have not increased India’s influence. Clearly, visibility alone does not guarantee leverage.
+
+The China problem remains unresolved: its structural advantage over India has neither disappeared nor reduced. Mr Modi’s strategy of isolating Pakistan has not worked and rather awkwardly for him, major powers are courting Pakistan today, puncturing India’s claims of regional supremacy.
+
+Despite leaning towards the US, the India-US relationship has become more transactional than Mr Modi might have imagined. His government repeats the mantra of strategic autonomy, yet India will not displease Washington and bends at every command of Donald Trump. To get privileged access to the US market and technology, it must accommodate Washington’s strategic interests. None of these developments correspond to the high standards expected from a “Vishwaguru”.
+
+In governance, Mr Modi has been extraordinarily successful in centralising decision making in the PMO. This may have brought speed, but it has reduced ministers to...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/the-lion-in-winter-modi-politics-at-76-1989063)
 
 ---
 
