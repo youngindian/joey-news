@@ -1,3 +1,643 @@
+## 21 September 2026
+
+### Lucknow biryani stall owner brutally beaten, police seize meat for test
+*Manish Sahu · legal*
+
+Police said an FIR has been filed against three men, they are yet to be arrested
+
+[Read full article](https://indianexpress.com/article/cities/lucknow/lucknow-biryani-stall-owner-brutally-beaten-three-men-police-seize-meat-10886913/)
+
+---
+
+### Rs 1,850 crore for 12.5 acres: Why Noida’s Sector 108 is drawing big developers
+*Drishti Jain · legal*
+
+Officials said the sector is surrounded by premium residential projects, commercial developments, institutional areas and green spaces.
+
+[Read full article](https://indianexpress.com/article/cities/delhi/noida-sector-108-big-developers-10886908/)
+
+---
+
+### ‘Repeated threats’: Comedian Pulkit Mani cancels Noida, Lucknow, Kanpur shows amid Rahul Gandhi event mimicry row
+*Shreedhar Rathi · regional*
+
+Comedian Pulkit Mani cancelled shows in three cities after a political controversy arose
+
+NEW DELHI: Stand-up comedian Pulkit Mani on Sunday announced the cancellation of his shows in Noida, Lucknow and Kanpur amid a political controversy over his mimicry of PM Narendra Modi at Congress leader Rahul Gandhi’s ‘Chhatron Ki Goonj’ event in Indore.Mani first announced the cancellation of his Noida show in an Instagram story, citing “unforeseen circumstances” and apologising to his audience for the inconvenience.In next story, he said his shows in Lucknow and Kanpur had also been cancelled, alleging that he had received repeated threats from “goon activists”.
+
+The cancellations came a day after Mani performed at the ‘Chhatron Ki Goonj’ programme organised by Gandhi in Indore.
+
+During the event, the comedian mimicked Modi, triggering criticism from BJP leaders, who alleged that the performance contained references to and was disrespectful towards Modi’s late mother.Union minister Arjun Ram Meghwal criticised the performance and questioned the intent behind the remarks. BJP leaders including Satish Poonia, Brij Bhushan Sharan Singh, Devendra Fadnavis, Sanjay Saraogi, Ramchander Rao and Shazia Ilmi also attacked Gandhi over the controversy and demanded an apology.
+
+Congress leaders, however, rejected the allegations. Madhya Pradesh Congress chief Jitu Patwari said Modi’s late mother was not mocked, while Congress leaders Bhupesh Baghel, Sajjan Singh Verma and Raashid Alvi defended the performance as humour and mimicry. Alvi said Gandhi was merely laughing along with the audience.The ‘Chhatron Ki Goonj’ programme was centred on issues concerning students and young people, with Congress leaders saying education, employment and other youth-
+
+---
+
+### West Bengal Class 12 Semester 3 Exams 2027 begin today: Check guidelines and Exam Timetable
+*Business Standard · business*
+
+The West Bengal Council of Higher Secondary Education (WBCHSE) has released the Class 12 Semester 3 board exam timetable for 2027. The exams begin today and will continue until October 14
+
+[Read full article](https://www.business-standard.com/education/news/west-bengal-class-12-semester-3-exams-2027-start-today-know-guidelines-nc-126092100179_1.html)
+
+---
+
+### Do Rs 10,000 crore IPOs reward investors? Rs 1 lakh crore history has a warning for NSE bulls
+*Akash Podishetti · finance, ipo*
+
+India's Rs 10,000 crore-plus IPOs have not exactly been a safe money-making club for investors. Six such large issues in the recent cycle together raised about Rs 1.06 lakh crore, but four of them are still trading below their issue price. NSE, which is raising Rs 22,562 crore through the IPO, is set to become India's second biggest public listing.
+
+According to Ace Equity data, Hyundai India, which came up with the largest IPO in the country by raising Rs 27,870 crore, is up 11% from its issue price. Tata Capital, which raised Rs 15,511 crore, is up 8%. These are the only two positive names.
+
+The rest have hurt investors. LIC, which raised Rs 20,557 crore, is down 57% from its issue price. Paytm, with an Rs 18,300 crore issue, is down 15%. HDB Financial, which raised Rs 12,500 crore, is down 6%, while LG Electronics, which raised Rs 11,607 crore, is down 49%.
+
+In simple terms, four of the six Rs 10,000 crore-plus IPOs have given negative returns. The average return from the issue price is about minus 18%. On an issue-size weighted basis, the return is also negative at about 16%. That makes the mega-IPO track record a warning for investors chasing size alone.
+
+  
+
+## What's ahead for NSE?
+
+NSE is now entering this club with a much stronger brand than most IPOs, but also with similar challenges that come with a large offer. The issue is entirely an offer for sale, which means NSE will not receive fresh money from the IPO.
+
+Existing shareholders are selling about 12.64 crore shares. The price band is Rs 1,700-1,785 per share, and the IPO size at the upper band is Rs 22,561.57 crore. The issue opened on September 17 and closes on September 21, with listing planned on BSE on September 24.
+
+The grey market is already sending a cautious signal. NSE GMP, which was around Rs 192 when the price band was announced, has fallen to about Rs 58. At the upper price band of Rs 1,785, that implies just a little over 3% listing premium. A 3% GMP does not point to a failed IPO, but it clearly shows that the earlier expectation of a strong listing pop has faded.
+
+Subscription has also been decent rather than euphoric. The IPO was subscribed 42% on the first day. By the end of the second day, it was subscribed 1.15 times, with QIBs at 1.32 times, NIIs at 1.44 times and retail at 0.68 times.
+
+NSE is a rare business, but not a cheap IPO. At the upper price band, the exchange is valued at about Rs 4.42 lakh crore, or around 43 times FY26 earnings. The valuation is higher than many global exchanges, but analysts have argued that investors are paying for NSE’s dominance and India’s long-term capital market growth.
+
+Shruti Jain, Chief Strategy Officer at Arihant Capital Markets, said NSE is a dominant market leader with strong operating margins, but investors need to remain aware of its sensitivity to volumes.
+
+"NSE is a high-quality business for long-term investors, but you need to maintain a degree of caution given its sensitivity to market volumes," she said earlier. However, nearly 79% of its revenue comes from transaction charges, leaving earnings vulnerable to market volatility and regulatory tightening on derivatives.
+
+That is one of the biggest questions for investors. NSE's dominance in India’s capital markets is not in doubt, but a large part of its earnings has been driven by the post-Covid options boom. If derivatives volumes cool because of tighter Sebi rules, the earnings engine could slow.
+
+Dr Ravi Singh, Chief Research Officer at Master Capital Services, had also flagged the same risk. He said NSE is a strong business, but investors should watch the valuation and its dependence on derivatives.
+
+The other issue is size. Large IPOs need sustained institutional demand to deliver strong listings. Avinash Gorakshakar, Founder and Head Research at Avinash Mentor Research Services, said NSE issue could still attract institutional and HNI money because of its scale and visibility. But he also warned that because of the massive size and lack of a fresh-issue growth engine, upside on listing may be more measured than in smaller, high-growth IPOs.
+
+Data also shows the same. Big IPOs do not automatically become big winners. In many cases, heavy supply, rich valuation and limited listing scarcity have capped returns. LIC and Paytm showed that even high-profile names can disappoint if pricing and investor expectations are not aligned. Hyundai and Tata Capital show that mega IPOs can work, but the gains so far have been modest.
+
+_Disclosure: This article has been written by Podishetti Akash, who is not a SEBI-registered Research Analyst or an Investment Adviser. Podishetti Akash and her ‘relative(s)’ (as defined under Section 2(77) of the Companies Act, 2013) do not hold any financial interest in the companies mentioned in this article as of the date of publication. The views/recommendations mentioned in this article, wherever applicable, are those of the respective SEBI-registered Research Analyst/brokerage and have been reproduced/reported with due attribution. They should not be construed as the views or recommendations of The Economic Times Digital or the journalist. Readers are advised to consider the original research report and make their investment decisions based on their own assessment. Brokerage disclourses here_.__
+
+---
+
+### Trump attacks Democrats as communists while preparing to host Xi
+*India Today World Desk · general*
+
+## Trump is escalating his communist attacks on Democrats even as he prepares to host Xi Jinping. The contrast is fuelling criticism that his China outreach and economic interventions weaken his own political message.
+
+Stock photo used for illustration
+
+US President Donald Trump has said communism is "the greatest threat the US has ever faced", and he has sharpened that message ahead of the November midterm elections. But even as he attacks Democrats as communists, Trump is preparing to host Chinese President Xi Jinping, the leader of the world’s most powerful communist country, for a state visit this week.
+
+The contrast has become more pronounced after Trump’s primetime address this summer, in which he accused China of "sinister election meddling" in 2020 and revived his long-running effort to dispute his loss in that election. At the same time, his administration has secured government stakes in more than 30 private companies, prompting criticism that the White House is muddying its own attack line against the left. "I do think that we’re not offering a clear contrast," said Marc Short, who was chief of staff to former Vice President Mike Pence and worked in Trump’s White House in his first term.
+
+At the recent Republican midterm convention in Dallas, Trump repeatedly described Democrats as communists. "It’s going to be a communist country if they win," he said. "In state after state, the Democrat establishment has been overthrown and replaced by crazed lunatics and radicals," he added, before saying, "America has beaten communism before, and we will beat it again." The remarks referred to candidates aligned with democratic socialists who won Democratic primaries in Michigan, Colorado, New York, Florida and Pennsylvania, which Republicans say shows the party has moved too far left.
+
+That message is also coming as Trump and his party deal with political pressures before Election Day, including an increasingly unpopular war in Iran, concerns about inflation staying high and Trump’s approval ratings falling back towards historic lows.
+
+Meanwhile, the White House has secured agreements giving the federal government stakes in more than 30 companies, including nuclear power producer Westinghouse, metals and minerals firms, and chipmaker Intel. The administration has brushed aside criticism that such a strategy looks closer to a centrally planned economy than a capitalist one. "If socialism is government owning the means of production, wouldn’t the government owning part of Intel be a step toward socialism?" Senator Rand Paul, a Kentucky Republican and frequent Trump critic, wrote on X.
+
+At a recent House committee hearing, Democratic Representative Jim Himes of Connecticut told Treasury Secretary Scott Bessent, "I can think of no administration in the last 50 years that is quite as communist as the Trump administration." Trump has said more such agreements are on the way, posting, "I will make deals like that for our Country all day long." The White House did not answer questions on whether it saw any gap between Trump denouncing Democrats as communists, expressing warmth towards Xi and taking large government stakes in private companies.
+
+Short said Republicans were pursuing "very legitimate attack lines" by arguing that Democrats have moved too far left. But he also said the administration risked "picking winners and losers in the economy" through its company stakes, Trump’s proposal to send USD 5,000 to every adult American if the Republicans keep control of Congress after November, and his push for price controls on goods such as pharmaceuticals. "I think those policies, you know, lead to enormous, enormous intervention from the government into the economy," Short said, while adding that he did not believe they came close to turning the US into a socialist economy like China.
+
+Trump has also spoken openly about his rapport with Xi, despite presenting China as a political threat. After visiting Beijing in May, he spoke warmly about what "an amazing time" he had there. He has also said he rushed work on a helicopter landing pad on the White House south lawn, calling it a "work of art", to impress Xi, while lamenting that a White House ballroom would not be ready in time. "I can tell you this: It’s too bad we don’t have the ballroom open," Trump said on Friday. He has also recalled visiting the Great Hall of the People in China and suggested the ballroom could become the "Great Hall of the United States".
+
+Marc Selverstone, director of presidential studies at the University of Virginia’s Miller Center of Public Affairs, said Trump’s praise for Xi reflects a broader pattern. Trump has also spoken of warm ties with North Korea’s Kim Jong Un, Hungary’s Viktor Orbn and Russian President Vladimir Putin. "His interest in strongmen who are communist and strongmen who are not communists," Selverstone said. "That’s constant, and playing to them is not unfamiliar to Trump."
+
+Trump took a very different line in 2015, when then-President Barack Obama was preparing to host Xi at the White House and Trump was running for president for the first time. "Just take them to McDonald’s and go back to the negotiating table," Trump said at a rally in South Carolina. He later told Fox News that Xi might at least deserve "probably a double-size Big Mac". After entering the White House, however, Trump’s tone shifted. By 2018, he was marvelling at Xi’s position in China, saying at a Republican fundraiser at Mar-a-Lago, "He’s now president for life."
+
+Trump appeared to take a harder line in July when he announced the declassification of documents that he said showed a pattern of Chinese interference in US elections. "Our elections were left vulnerable to being rigged and stolen," he said, though he did not criticise Xi directly or call for penalties against China. The documents did not reveal much new information or support Trump’s claims. He later played down the issue, saying, "It took place a long time ago. I think China is maybe a little bit different today than it was then." Senior administration officials declined to say whether the allegations of Chinese meddling in the 2020 election would come up in Trump’s talks with Xi.
+
+Ali Wyne, a senior research and advocacy adviser on US-China relations at the International Crisis Group, said domestic politics was unlikely to shape the summit in any major way. "President Trump was very quick, in the aftermath of the (July) speech, to focus his ire on the mainstream media, Democrats. He didn’t condemn President Xi," Wyne said, adding that Trump had made it "clear that the US relationship was still on track". As Trump heads into the summit and the midterm campaign, his attacks on Democrats, his government intervention in the economy and his handling of Xi remain closely intertwined.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Sep 21, 2026 10:10 IST
+
+---
+
+### ‘That’s my husband’: Proud wife Taylor Swift points to wedding ring as Travis Kelce scores first NFL touchdown of 2026
+*Unknown · business*
+
+Taylor Swift drew attention during the Kansas City Chiefs’ game against the Indianapolis Colts on Sunday after cameras captured her pointing to her wedding ring while celebrating husband Travis Kelce’s first touchdown of the 2026 NFL season.
+
+Swift was watching from a suite at Arrowhead Stadium on September 20 when Kelce scored in the first quarter of the primetime game.
+
+  
+
+Clips shared on social media showed the 36-year-old singer standing up and pointing towards her wedding ring as the Chiefs tight end reached the end zone. She appeared to mouth, “That’s my husband.”
+
+The touchdown was Kelce’s first of the season. Swift, who wore a Chiefs camisole for the game, married Kelce in July.
+
+  
+
+## Swift makes second Arrowhead appearance in a week
+
+Sunday’s game marked Swift’s second appearance at Arrowhead Stadium in less than a week.
+
+She had earlier attended the Chiefs’ 31-10 Monday Night Football victory over the Denver Broncos, where she watched alongside her parents, Scott and Andrea Swift, and Kelce’s mother, Donna Kelce.
+
+Actor Tom Cruise was also present at the game and was seen speaking with Swift in the stands.
+
+Cruise later discussed their interaction during an appearance with Jimmy Fallon. Asked what they had spoken about, he said, “She was schooling me on football.”
+
+When Fallon asked whether he was serious, Cruise replied, “For real.”
+
+Cruise also spoke about Swift’s knowledge of the sport, saying, “She was bringing the football. First of all, she’s a genius.”
+
+He also praised her work across music, writing and directing.
+
+“She’s funny. She’s got such a great sense of humour. A brilliant writer also, by the way. Brilliant musician and director. Very skilled,” Cruise said.
+
+## Kelce climbs NFL receiving list
+
+The game against Denver had also seen Kelce reach another career milestone.
+
+The 36-year-old moved into second place on the NFL’s all-time receiving-yards list for tight ends, overtaking former Dallas Cowboys player Jason Witten.
+
+Kelce made a 59-yard catch that moved him into second place, with Swift and her family seen celebrating from the stands. He finished the game with 71 receiving yards but did not score a touchdown.
+
+Kelce, now in his 14th NFL season, trails former Chiefs tight end Tony Gonzalez on the all-time list. Gonzalez remains 2,054 yards ahead of him.
+
+## Swift and Kelce married in July
+
+Swift and Kelce began dating in 2023 and announced their engagement in August 2025.
+
+They married on July 3, 2026, at Madison Square Garden in New York.
+
+The ceremony was attended by family, friends and guests from the entertainment and sporting worlds. Actor Adam Sandler officiated, while Swift’s brother Austin served as her “man of honor” and Kelce’s brother Jason Kelce was his best man.
+
+Stevie Nicks performed at the reception, while members of the Kansas City Chiefs and several of Swift’s celebrity friends were among those in attendance.
+
+The couple have kept several details of the ceremony private and have not publicly released a complete set of wedding photographs.
+
+Sunday’s game brought Swift’s wedding ring back into focus as she celebrated Kelce ending his wait for a touchdown in the 2026 season.
+
+---
+
+### Travis Kelce makes NFL history as Kansas City Chiefs edge Colts 33-30 in overtime; Mahomes, Walker deliver
+*Unknown · business*
+
+Travis Kelce made NFL history while Patrick Mahomes and Kenneth Walker III helped set up Harrison Butker's decisive 40-yard field goal as the Kansas City Chiefs beat the Indianapolis Colts 33-30 in overtime on Sunday night at Arrowhead Stadium.
+
+The victory moved the Chiefs to 2-0, while the Colts fell to 0-2. Mahomes threw for 382 yards and three touchdowns, Walker rushed for 117 yards and Kelce finished with nine receptions for 101 yards and a touchdown.
+
+  
+
+Kelce's landmark moment came before the game was even over. He entered the night with 6,221 career yards after the catch, just nine behind former Rams and Colts running back and Pro Football Hall of Famer Marshall Faulk, who had 6,230.
+
+## Kelce moves to No. 1 in NFL history
+
+Kelce added 18 yards after the catch in the first half, taking his career total to 6,239 and moving him past Faulk for the most yards after the catch in NFL history.
+
+The Chiefs tight end also extended another remarkable streak. Kelce has now caught a pass in 193 career games, the most among active NFL players and the fourth-longest streak in league history. Hall of Fame wide receiver Jerry Rice holds the record with a catch in 274 consecutive games.
+
+Kelce's nine catches for 101 yards and a touchdown capped a performance that helped Kansas City survive a dramatic finish against Indianapolis.
+
+The Chiefs initially appeared to have secured the win in overtime when Butker hit a 31-yard field goal. The Colts answered when Daniel Jones found Laquon Treadwell deep after Treadwell had beaten L'Jarius Snead.
+
+Treadwell appeared to bobble the ball as he hit the ground before getting up, completing the catch and then losing possession as the Chiefs recovered. The play was initially ruled a fumble, but a review determined that Treadwell was down by contact.
+
+## Mahomes, Walker set up Butker's winning kick
+
+The ruling gave Indianapolis an opportunity to take the lead, but the Colts settled for Spencer Shrader's 38-yard field goal to tie the game.
+
+Kansas City took possession again with 3:11 remaining in overtime. The Chiefs handed the ball to Walker on three consecutive plays, taking them to midfield.
+
+The decisive play came when Mahomes connected with Walker for a 22-yard gain, putting Kansas City in position for Butker.
+
+Butker then drilled the 40-yard field goal as time expired to seal the 33-30 victory.
+
+For Indianapolis, Jones finished with 210 passing yards, one touchdown and one interception, while Jonathan Taylor rushed for 92 yards and two touchdowns.
+
+---
+
+### Automotive major Stellantis takes full control of India manufacturing JV
+*Business Standard · business, entrepreneur, finance*
+
+Plans to nearly triple output from TN plant by 2027
+
+[Read full article](https://www.business-standard.com/companies/news/stellantis-takes-full-control-of-india-jv-to-nearly-triple-output-by-2027-126092000617_1.html)
+
+---
+
+### Cindy Crawford’s son, model Presley Gerber, dies at 27
+*SECTIONS Cindy Crawford’s son · business*
+
+Cindy Crawford’s son and model Presley Gerber has died at the age of 27, CNN reported, citing his representative. The Los Angeles County Medical Examiner’s office said Gerber died Sunday at a rehabilitation facility. A cause of death has not been listed.
+
+Crawford’s publicist confirmed the death to CNN and said the family was asking for privacy “during this very difficult and painful time.”
+
+Gerber, the son of Crawford and businessman Rande Gerber, followed his mother and sister Kaia Gerber into modelling. Born in California in 1999, he made his runway debut for Italian fashion label Moschino at 16 and later walked for brands including Burberry, Dolce & Gabbana, Bottega Veneta, Tommy Hilfiger and Ralph Lauren.
+
+  
+
+He also featured in campaigns for Calvin Klein, Celine, Pepsi and Omega, and appeared in publications including GQ Style and The New York Times Style Magazine. According to his agency DNA Model Management, Gerber also worked as an investor and entrepreneur.
+
+In recent years, Gerber had spoken publicly about his struggles with mental health and drug use. In a 2023 appearance on the Studio 22 podcast, he discussed his efforts to raise awareness around mental health, describing it as “such a big part of my life”. He also ran a “Mental Health Mondays” initiative and worked with organisations including Los Angeles homelessness charity A Sense of Home, CNN reported.
+
+Gerber had spoken about his use of prescription medication in a video posted on Instagram last December. In the since-removed video, he referred to experiencing significant loss and discussed taking antidepressants and Xanax for panic attacks.
+
+Crawford had responded to that post by writing, “Presley — we love you and you are not alone.” In July, she marked her son’s 27th birthday on Facebook, writing that she was proud of the man he had become while saying she would always see him as her “little boy”.
+
+Gerber’s struggles had also been discussed publicly by his sister. Earlier this month, Kaia Gerber spoke about her brother’s addiction in an interview for American Vogue’s September issue.
+
+Kaia said the experience had affected the entire family and described her brother as someone who was willing to be open about his struggles. “I’m gonna be very human for everyone,” she recalled him saying, according to the magazine.
+
+---
+
+### Nagaland Minister amused by monkey’s rather lavish barbershop spa day
+*India Today Trending Desk · general*
+
+## Nagaland Minister Temjen Imna Along shared a video of a monkey calmly receiving a massage at a barbershop. The musing scene has gone viral.
+
+A monkey's massage session has amused Temjen Imna Along. (Photos: TemjnImnaAlong/X)
+
+A monkey walked into a barbershop and apparently decided he deserved some pampering. He climbed onto the chair, settled in and let the barber work his magic with a relaxing massage.
+
+The amusing video was shared by Nagaland Minister Temjen Imna Along, showing the monkey comfortably perched on the barber’s chair as the barber gave him a relaxing body massage.
+
+With his eyes closed and body completely at ease, the monkey looked like he had arrived at the shop with just one thing on his mind: some serious relaxation.
+
+The barber, meanwhile, seemed more than happy to oblige. He continued massaging the monkey as the animal sat calmly on the chair, enjoying every bit of the unexpected spa treatment.
+
+Along shared the video with a playful caption that read, “Monkesh bhai is enjoying his massage time. Do Not Disturb.”
+
+And judging by the video, Monkesh bhai was taking that instruction very seriously.
+
+**Watch the video here:**
+
+The clip soon went viral, with viewers amused by the sight of the monkey enjoying a treatment that many humans would happily book for themselves after a long day. The animal's remarkably relaxed expression only made the scene funnier.
+
+Social media users also had one important question: who was going to pay for all this?
+
+Several viewers joked that Monkesh bhai had managed to get a full-body massage without spending a single rupee. Others simply enjoyed watching the monkey sit back and soak up the attention like a regular customer.
+
+From walking into a barbershop to getting a complimentary massage, this monkey certainly seemed to have figured out the art of getting pampered without lifting a finger.
+
+And if the barber was hoping for a tip, well, he may have to wait for Monkesh bhai to come back with his wallet.
+
+\- Ends
+
+Srimoyee Chowdhury
+
+Sep 21, 2026 10:02 IST
+
+---
+
+### Jindal Supreme IPO allotment likely today: GMP signals 31% listing gain. Here’s how to check status
+*Ritesh Presswala · finance, ipo*
+
+Investors in the Jindal Supreme IPO could receive the much-awaited allotment update today. After the issue was subscribed a staggering 181.07 times, investors are now awaiting the basis of allotment and looking ahead to the company’s stock-market debut.
+
+The Rs 124.88 crore Jindal Supreme IPO is expected to finalise its allotment today, allowing investors to check online whether they have been allotted shares. The company’s shares are scheduled to make their debut on both the BSE and NSE on September 23, 2026.
+
+Adding to investor interest, the IPO’s grey market premium (GMP) is currently around 31%, pointing to expectations of a potentially strong listing gain.
+
+The IPO, which opened on September 16, 2026, and closed on September 18, 2026, was subscribed 181.07 times overall. Retail investors subscribed 149.34 times, non-institutional investors (NIIs) 327.99 times, and qualified institutional buyers (QIBs) 126.41 times.
+
+The Rs 124.88 crore Jindal Supreme IPO comprises a fresh issue of 1.07 crore shares worth Rs 99.89 crore and an offer for sale (OFS) of 26.87 lakh shares aggregating to Rs 24.99 crore. Jindal Supreme has fixed the IPO price band at Rs 88–Rs 93 per share. The lot size is 161 shares, meaning retail investors need to invest a minimum of Rs 14,973 when applying at the upper end of the price band.
+
+Sarthi Capital Advisors Pvt. Ltd. is the book-running lead manager for the issue, while Bigshare Services Pvt. Ltd. is the registrar.
+
+  
+
+## Investors can verify their allotment through either of the following platforms:
+
+1\. Registrar’s Website - Bigshare Services
+
+Visit the Jindal Supreme Allotment page (https://ipo.bigshareonline.com/ipo\_status.html)
+
+Select Skyways Air from the drop-down menu.
+
+Enter your PAN, application number, or DP/Client ID to view allotment details.
+
+2\. NSE Website (https://www.nseindia.com/invest/check-trades-bids-verify-ipo-bids)
+
+Go to the NSE IPO Allotment page
+
+Select Equity
+
+Choose Jindal Supreme
+
+Enter your application number and PAN.
+
+3\. BSE Website ( https://www.bseindia.com/investors/appli\_check)
+
+Select Equity under issue type.
+
+Select Jindal Supreme from the dropdown.
+
+Enter your application number OR PAN number.
+
+Then fill the captcha and click Search to view allotment.
+
+## Jindal Supreme IPO GMP today
+
+The Jindal Supreme IPO GMP (Grey Market Premium) currently stands at Rs 29 per share, or around 31%, based on the upper end of the IPO price band of Rs 93 per share. At the prevailing GMP, the estimated listing price of Jindal Supreme shares works out to approximately Rs 122 per share.
+
+The Grey Market Premium (GMP) is an unofficial market indicator and is neither regulated nor guaranteed. GMP levels can fluctuate significantly before listing, and the actual listing price may differ from the estimated price based on grey market trends.
+
+## Objects of the issue
+
+The company proposes to utilise the Rs 71 crore net IPO proceeds primarily towards the repayment or pre-payment of certain outstanding borrowings, either in full or in part. The remaining amount, if any, will be used for general corporate purposes.
+
+## Financial performance
+
+Jindal Supreme (India) total income increased by 12% from Rs 605 crore in FY25 to Rs 676 crore in FY26. Despite the growth in revenue, profit after tax (PAT) declined by 7% from Rs 24 crore in FY25 to Rs 23 crore in FY26.
+
+## About Jindal Supreme (India) Ltd.
+
+Jindal Supreme (India) Limited is a steel products manufacturer with over five decades of experience. The Company manufactures MS black pipes and tubes, galvanised pipes, metal crash barriers and GI tubular poles for infrastructure and industrial applications. Its products are used across water supply and plumbing, construction, roads and highways, bridges, oil & gas, agriculture and rural electrification. The Company expanded into W-beam and Three-beam crash barriers in FY2025 and GI tubular poles in FY2026.
+
+The Company operates primarily through a B2B model, serving institutional and industrial customers, infrastructure contractors and dealers. Its manufacturing facility is located in Hisar, Haryana, with in-house mills, welding and galvanising plants, maintenance and testing facilities. As of June 30, 2026, the Company had 53 dealers and 242 employees, with a strong dealer presence across northern India.
+
+Disclaimer: The views/recommendations mentioned in this article, wherever applicable, are those of the respective SEBI-registered Research Analyst/brokerage and have been reproduced/reported with due attribution. They should not be construed as the views or recommendations of The Economic Times Digital or the journalist. Readers are advised to consider the original research report and make their investment decisions based on their own assessment. Brokerage disclaimers here
+
+---
+
+### NEET PG Answer Key 2026: Check response sheet release time, direct link, official sites and how to download
+*Trending Desk · business*
+
+**NBEMS NEET PG Answer Key 2026:** Candidates who appeared for the National Eligibility-cum-Entrance Test Postgraduate (NEET PG) 2026 are waiting for the provisional answer key and their recorded response sheets. The National Board of Examinations in Medical Sciences (NBEMS) is expected to release both documents soon.
+
+As of September 21, however, NBEMS has not announced the exact date or time for releasing the NEET PG 2026 answer key and response sheet. Candidates should therefore be careful about social media posts claiming that the key will be released at a particular hour. Recent reports also confirm that the release time has not been officially notified. The NEET PG 2026 examination was conducted on August 30. According to reports, 2,73,096 candidates registered for the examination and 2,65,980 appeared for the test.
+
+  
+
+## NEET PG Answer Key 2026: Is it released?
+
+No. The NEET PG 2026 provisional answer key and candidate response sheet have not been released yet as of September 21. NBEMS is expected to publish the documents before announcing the NEET PG 2026 result. The result is scheduled to be declared by September 30, 2026, according to information reported on the examination timeline. The answer key will allow candidates to compare the answers recorded during the examination with the provisional answers issued by NBEMS.
+
+  
+  
+
+## NEET PG Answer Key 2026 release time
+
+NBEMS has not announced an official release time. This means candidates should not rely on claims such as "answer key at 10 am" or "response sheet at 5 pm" unless the information appears on an official NBEMS notice. The board's official website carries examination notices and updates, including the dedicated NEET PG section.
+
+## NEET PG 2026 answer key direct link
+
+Once the answer key and response sheet are released, candidates will be able to access them through the official NBEMS website.
+
+**Official NBEMS website:** natboard.edu.in
+
+**NEET PG section:** NBEMS NEET PG official page
+
+The NEET PG section on the NBEMS website provides access to examination information, application-
+
+## How to download NEET PG 2026 answer key and response sheet
+
+Once the link becomes active, candidates can follow these steps:
+
+1.  Visit the official NBEMS website at natboard.edu.in.
+2.  Open the NEET-PG section.
+3.  Look for the link 
+4.  Click on the relevant link.
+5.  Enter the required login credentials.
+6.  Submit the details.
+7.  The provisional answer key and recorded response sheet will appear on the screen, if released.
+8.  Download the document and keep a copy for reference.
+
+Candidates should check the question IDs and the answers recorded against them carefully.
+
+## What will be available in the NEET PG response sheet?
+
+The response sheet is expected to show the answers recorded against the questions attempted by the candidate. The provisional answer key will provide the answers against which candidates can compare their responses. This will give candidates an opportunity to make a preliminary assessment of their performance before the final result.
+
+Reports on the 2026 examination indicate that NBEMS is releasing the answer key and recorded responses in line with transparency requirements following a Supreme Court order.
+
+## NEET PG 2026 result date
+
+The NEET PG 2026 result is expected to be declared by September 30, 2026. However, candidates should distinguish this result timeline from the answer-key release schedule because NBEMS has not announced a specific release time for the provisional key and response sheet.
+
+## NEET PG 2026: What candidates should do now
+
+Candidates waiting for the answer key should keep their application details and login credentials ready. They should also regularly check the official NBEMS website instead of depending on forwarded messages or social media posts.
+
+The official NBEMS website currently lists NEET PG 2026 among its entrance examinations and provides a dedicated section for examination-
+
+If the answer key is released, candidates can use their response sheet and the provisional key to check their answers. Any further process, including the procedure and deadline for raising objections, should be followed strictly according to the official NBEMS notification.
+
+---
+
+### Suchika Tariyal: Asian Games medalist who was eve-teased at 12 in a salon; 24 years later at 36, she makes history as India’s first-ever MMA medalist
+*Trending Desk · business*
+
+At the age of 12, an incident of eve-teasing prompted Suchika Tariyal to learn judo so she could defend herself. What started as a self-defence decision eventually developed into a remarkable career spanning judo, Ju-Jitsu and mixed martial arts.
+
+As a 12-year-old, Suchika picked up judo after an eve-teasing incident at a unisex salon left her helpless. “I went to a unisex salon and the barber touched me inappropriately,”. “I felt that I should have something for my own defence. I should have some fighting skills with which I can fight back.”, according to The Indian Express.
+
+On Sunday, the 36-year-old Rohtak-born fighter created history at the Aichi-Nagoya Asian Games by becoming the first Indian athlete to win an Asian Games medal in MMA.
+
+  
+
+Tariyal defeated Mongolia’s Altanchimeg Baigalmaa 2-0 in the women’s traditional -60kg quarterfinal, booking her place in the semifinals and assuring India of at least a bronze medal. MMA is making its debut at the Asian Games this year.
+
+## From Self-Defence To International Combat Sports
+
+Tariyal’s decision to take up judo after the incident at 12 was not initially made with the intention of building an international sporting career. However, over the years, she developed into one of India’s most experienced and versatile combat-sports athletes.
+
+She started her journey with judo before moving into Ju-Jitsu and eventually making her MMA debut in 2017.
+
+Her judo career was decorated with eight national titles and several international achievements. She won gold at the 2019 Commonwealth Judo Championships and the 2019 South Asian Games, besides claiming silver at the 2018 Commonwealth Judo Championships.
+
+Tariyal also represented India at multiple Asian championships and competed in the women’s -57kg category at the 2022 Commonwealth Games in Birmingham, where she narrowly missed out on a medal.
+
+## Ju-Jitsu Success And MMA Comeback
+
+Tariyal continued to expand her combat-sports career by moving into Ju-Jitsu. Her transition brought another significant achievement when she won gold in the adults Ju-Jitsu Contact Female -63kg category at the 2024 JJIF Ju-Jitsu World Championships.
+
+She had made her MMA debut with a victory in 2017 but subsequently took a seven-year break from the sport while continuing her judo and Ju-Jitsu journey.
+
+In December 2024, Tariyal returned to professional MMA after signing with BRAVE Combat Federation. She marked her comeback with a victory at BRAVE CF 92 in Bahrain.
+
+Explaining how her judo experience helped her transition into MMA, she said:
+
+“Judo set me up for MMA, which for me is the ultimate level of combat sports. Because of judo, I was skilful in ground fighting and grappling. I only had to learn the standing game and striking skills for MMA. Switching from judo was not difficult. MMA is a test of all-round skills, and one has to be a complete combat athlete,” she said.
+
+## A Second Chance At The Asian Games
+
+The Aichi-Nagoya Games have given Tariyal an opportunity to rewrite her Asian Games story.
+
+At the 2022 Hangzhou Games, she competed in kurash but was unable to achieve the result she had hoped for. This time, she entered the competition with a dedicated MMA preparation and greater experience in the discipline.
+
+“Life has given me a second chance at the Asian Games. In Hangzhou, it did not go the way I wanted because kurash was not popular in India and my preparation was not adequate. This time, I am fully prepared for MMA,” Suchika told SAI Media.
+
+Tariyal was supported by the sports ministry’s Target Asian Games Group (TAGG) scheme as she prepared for the Aichi-Nagoya Games. Her recent form also included back-to-back bronze medals at the Asian MMA Championships in January and May this year.
+
+## Her Popularity Extends Beyond Combat Sports
+
+Tariyal has also built a sizeable following outside the competitive combat-sports circuit. She has more than 300,000 followers on Instagram and has appeared on shows such as MTV Roadies and Prime Video’s India’s Ultimate Warrior.
+
+Her achievements on the international stage and contribution towards women’s empowerment have also earned her recognition from the President and Prime Minister.
+
+## Tariyal Wants To Inspire More Women To Take Up MMA
+
+For Tariyal, her journey is about more than medals. She hopes her experiences will encourage young women to take up MMA and other combat sports, while also encouraging parents to support their children in such disciplines.
+
+“I really want to inspire young women to take up MMA. I will be very happy even if one girl looks at me and says, ‘If Suchika can, I can too.’ In modern times, women need to defend themselves, and parents must let their children take up combat sports. MMA gives you that complete package. And women have a strong mindset to play combat sports. They can bear pain and can be more focused. If a woman can bear the pain of childbirth, MMA is nothing,” she said.
+
+## ‘I Just Want To Give My 100% For India’
+
+With a medal already assured, Tariyal is now turning her attention towards the upcoming semifinal rather than dwelling on the historic achievement.
+
+She acknowledged that the remaining bouts would not be easy but said she does not want to burden herself with expectations about the final result.
+
+“There will be no easy fights. I am not thinking of results now. I don’t want to put myself under the pressure of expectation. I just want to give my 100% for India. For any fighter, a medal is the ultimate achievement, and I am no different,” she said.
+
+---
+
+### India wants to launch 50 rockets a year to space by 2030. But, is Isro even ready?
+*Sibu Tripathi · general*
+
+## India has set a target of 50 space launches a year by 2030, backed by Isro and IN-SPACe. Meeting it will require private industry, more pads, faster clearances and a scalable launch system.
+
+Getting from three to 50 in four years will require a fundamental change at Isro. (Photo: Isro)
+
+India has set itself an ambitious space target: 50 launches every year by 2030. But with just three Indian orbital launches so far in 2026, two by Isro and one by private company Skyroot, the scale of expansion required over the next four years is enormous.
+
+The target was set out by Isro Chief Dr V Narayanan and supported by IN-SPACe Chairman Pawan Goenka, who said India would need government and private industry to build launch capacity together because the scale cannot be achieved by one organisation alone.
+
+The numbers underline the challenge.
+
+Isro has conducted two orbital launches in 2026 so far. The first, PSLV-C62 carrying EOS-N1, encountered an anomaly during the third stage on January 12 and the mission was not accomplished.
+
+The second, GSLV-F17 carrying EOS-05, launched successfully on September 4. That means Isro currently stands at one successful orbital launch out of two attempts this year.
+
+But India's launch count also includes a historic third mission: Skyroot Aerospace's Vikram-I, which successfully reached orbit on July 18 in the country's first private orbital launch from Indian soil.
+
+Getting from three to 50 in four years will require a fundamental change in how India builds, integrates, authorises and launches rockets.
+
+### FROM BUILDING ROCKETS TO BUILDING A LAUNCH SYSTEM
+
+The biggest challenge may not simply be the number of rockets India can manufacture. A high launch cadence requires an entire ecosystem to operate simultaneously.
+
+That means rockets being manufactured while another vehicle is undergoing integration, a third is undergoing testing and a fourth is already on the launch pad.
+
+An industry executive familiar with launch operations told IndiaToday.in that the operational side of launches will have to become significantly more seamless.
+
+At present, every launch involves coordination across multiple agencies dealing with air traffic, maritime traffic, safety, logistics and other clearances. For a handful of launches, such a system can function. But a cadence approaching one launch a week requires these processes to be handled in bulk.
+
+"If you think of launch itself, there is an operational aspect to it and there is a production aspect of it," the executive said requesting not to disclose his name.
+
+The production side will require a similar transformation.
+
+India will need multiple launch vehicles available at different stages of readiness rather than building one rocket at a time for a specific mission.
+
+One possible approach would be to maintain a pool of 10-15 launch vehicles at various stages of production, testing and integration, allowing missions to move through the pipeline without waiting for the previous rocket to complete its entire cycle.
+
+The objective would be to build an ecosystem in which multiple rockets are designed, manufactured, tested and integrated simultaneously.
+
+Every launch involves coordination across multiple agencies. (Photo: Isro)
+
+That also means expanding the supplier base.
+
+Fuel availability, transportation, safety systems, satellite logistics, testing facilities and specialised vendors will all have to operate at a much higher frequency.
+
+"If the vehicles are there on the pad, vendor support is required — ready availability of fuel, safety support, logistics, getting the rockets there and getting the satellites there," the executive said.
+
+### LAUNCH PADS COULD BECOME THE NEXT BOTTLENECK
+
+India currently operates two major orbital launch pads at Satish Dhawan Space Centre, Sriharikota.
+
+The First Launch Pad primarily supports PSLV and SSLV missions, while the Second Launch Pad supports heavier vehicles including GSLV and LVM3 and is also being prepared for Gaganyaan.
+
+The government has already approved a Third Launch Pad at Sriharikota, with an estimated cost of 3,984.86 crore. It is designed to support Next Generation Launch Vehicles as well as LVM3 variants and is intended to increase launch capacity.
+
+A high launch cadence requires an entire ecosystem to operate simultaneously. (Photo: Isro)
+
+Separately, India is developing the SSLV Launch Complex at Kulasekarapattinam in Tamil Nadu, its second spaceport. The facility is intended primarily for SSLV launches and missions by non-government entities, with industry participation built into the infrastructure. The launchpad will also support private company launches like that of Skyroot and Agnikul.
+
+But for a 50-launch-a-year target, merely adding one more pad may not be enough.
+
+An industry assessment is that India could eventually need at least four launch pads, with three configured for near-continuous, all-year operations. The fourth could provide redundancy for maintenance, delays, weather or vehicle-specific requirements.
+
+A western launch site could also provide geographical flexibility. A launch facility on India's western coast could complement the existing east and south-oriented infrastructure, although establishing such a facility would require significant investment and regulatory planning.
+
+The basic principle is simple: a launch pad cannot be allowed to become a single point of failure for an entire national launch programme.
+
+### PERMISSIONS WILL HAVE TO MATCH THE LAUNCH CADENCE
+
+Another bottleneck could emerge in the regulatory system.
+
+IN-SPACe is already India's independent, single-window agency for authorising and supervising space activities by non-government entities, including launch vehicles and satellites.
+
+But 50 launches annually would require authorisation processes designed for repetition rather than individual missions.
+
+The US offers one example. The Federal Aviation Administration's streamlined launch and re-entry licensing framework allows operators to use a single licence for multiple launches from multiple launch sites, specifically to support higher launch cadence.
+
+A similar philosophy could become important in India, with appropriate safety and national-security safeguards.
+
+The challenge becomes even more complicated when reusable rockets are introduced. Agnikul Cosmos, based out of Chennai, is developing a reusable launch vehicle that will have sea-based landings. Isro itself is working on a design for a future reusable rocket.
+
+A reusable vehicle returning to Earth could involve airspace authorities, maritime agencies, the Navy, Coast Guard, environmental authorities and other government departments.
+
+"If a vehicle lands outside India's exclusive economic zone, additional permissions and recovery procedures could be required," Srinath Ravichandran, Co-Founder & CEO at AgniKul told IndiaToday.in.
+
+Skyroot's Vikram-1 ahead of maiden flight at Sriharikota. (Photo: Skyroot)
+
+The industry view is that these processes eventually need to work through a single nodal framework, rather than forcing launch operators to coordinate separately with multiple ministries and departments.
+
+### SATELLITES MUST MOVE AS FAST AS ROCKETS
+
+There is another less visible part of the equation: customers.
+
+India cannot launch 50 rockets a year unless there are enough satellites to put on them.
+
+That includes Indian government, defence and commercial spacecraft, but also international customers.
+
+Foreign satellites can already be launched from India. Historically, international customers have used Isro's commercial arm, NewSpace India Limited (NSIL), with government-level processes involving agencies such as the Ministry of External Affairs and import procedures.
+
+The challenge will be making this process predictable and scalable rather than treating every foreign satellite as a one-off case.
+
+If India wants to become a launch hub for satellite constellations from countries such as Singapore, Japan, Australia or European nations, satellites must be able to enter the country, undergo processing and reach the launch site without becoming the bottleneck.
+
+### ISRO CANNOT DO THIS ALONE
+
+The most important change may therefore be institutional rather than technological.
+
+India's space sector has moved from an Isro-dominated model to one involving hundreds of private companies.
+
+IN-SPACe says its role is to facilitate private participation and enable sharing of government space infrastructure with non-government entities.
+
+Isro chief Dr V Narayanan and IN-SPACe Chairman Dr Pawan Goenka during the Bengaluru Space Expo. (Photo: PTI)
+
+Skyroot's Vikram-I mission demonstrated that private Indian companies can now move beyond components and prototypes to orbital launch operations.
+
+The next step is to make that capability repeatable and scalable.
+
+That means Isro continuing to develop advanced technologies while private companies manufacture vehicles at scale, operate launch services and develop their own rockets.
+
+It also means stronger coordination among the Department of Space, IN-SPACe, Isro, defence agencies, aviation authorities, maritime agencies, ports, logistics providers and other ministries.
+
+The model has parallels elsewhere in the global space industry, where government agencies provide infrastructure, regulation and major programmes while commercial companies increasingly build and operate launch systems.
+
+For India, therefore, the question is not simply whether Isro can launch 50 rockets a year.
+
+It is whether India can build a system capable of launching 50 rockets a year.
+
+At the current rate, the gap is substantial. But the 2030 target was never designed around Isro alone. It represents a shift towards a multi-vehicle, multi-company and multi-launch-pad ecosystem.
+
+The next four years will determine whether India's space programme can make that transition from mission-by-mission launches to an industrial-scale launch cadence.
+
+\- Ends
+
+Sibu Kumar Tripathi
+
+Sep 21, 2026 10:00 IST
+
+
+---
+
 ## 20 September 2026
 
 ### 250+ job applications, zero callbacks: IIM Kozhikode MBA grad asks if anyone is hiring
