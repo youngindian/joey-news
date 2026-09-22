@@ -1,8 +1,272 @@
 # Editorials
 
-_Last updated: 2026-09-21 06:54 UTC_
+_Last updated: 2026-09-22 06:39 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 22 September 2026
+
+### Presumed ineligible: On the Election Commission of India’s SIR process
+*The Hindu · Editorial*
+
+Not one eligible elector should be left out of the electoral rolls. This statement appears in nearly every document released by the Election Commission of India (ECI) as part of the ongoing SIR process, and the Supreme Court of India, which is hearing petitions challenging the SIR, has also used this refrain. Yet, according to an ECI counter-affidavit filed in the Court, by early September 2026, out of more than 38 lakh appeals submitted to SIR appellate tribunals in West Bengal, just over 1,22,000 appeals were disposed of (a disposal rate of just 3.2%) and 1,13,943 electors were added back to the rolls (an inclusion rate of nearly 93%). This suggests that the claims/corrections phase in the West Bengal SIR — during which judicial officers deployed for verification deemed 27 lakh of the 60 lakh electors flagged for “logical discrepancies” to be ineligible — was deeply flawed. More than 22 lakh of those found ineligible have since appealed, and ECI data show that more than nine in 10 cases decided by the tribunals have ended with the electors back on the rolls. If these “inclusion” and “disposal” rates hold, the majority of the 27 lakh electors should not have been ineligible in the first place and are now struggling to get back on the rolls — an indication that massive disenfranchisement preceded the West Bengal Assembly polls. With municipal elections in the State approaching, the ECI must speed up the appellate process and restore eligible electors to the rolls.
+
+In Phase 3 of the SIR, The Hindu’s analysis found that in 24 out of Delhi’s 70 constituencies, the draft roll now records fewer electors than those who voted in the February 2025 Assembly election. Such large-scale deletion cannot hold unless there was a major migration process in the capital region or large numbers of voters were never ordinarily resident in Delhi. A more plausible answer is that the enumeration itself has struck off actual voters. The process puts the onus of proving eligibility on the elector, and the ECI’s dropping of enumeration forms at homes has not translated into full enumeration. Requiring electors to link themselves to rolls drawn in the early 2000s then manufactures “discrepancies” even when documents are valid. In Delhi, this “mapping” has put 13.79 lakh electors under notice with a further 19.33 lakh flagged for “logical discrepancies” on undefined grounds. While hearing the Bihar SIR petitions, the Court had intervened sharply to stop eligible voters from being struck off. Its permissiveness in the year since, towards an insouciant ECI has allowed disenfranchisement on a scale that will remain a black mark on the jurisprudence of universal adult franchise in India. As the Court hears petitions on Delhi and West Bengal, it must compel the ECI to reverse course.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/presumed-ineligible-on-the-election-commission-of-indias-sir-process/article71491681.ece)
+
+---
+
+### Unsafe space: On the U.S. and ‘on-orbit space control weapons‘
+*The Hindu · Editorial*
+
+Although the U.S. military doctrine was openly considering offensive and defensive space control by 2025, the admission on September 14 by U.S. Air Force Secretary Troy Meink, and confirmed by Space Force chief Gen. Douglas Schiess, that the country has deployed “on-orbit space control weapons” to “defend against hostile adversary action” is cause for concern. Satellite systems increasingly underpin communications, energy, and financial networks and many commercial systems serve civilian and military users. To that end, the U.S., Russia, China, and India, among others, have been developing counter-space capabilities while contributing to the technological and strategic environment rendering earth orbit the next major battlefield. The increasing military use of commercial satellites can endanger the protections they enjoy under international humanitarian law even as this law is underprepared for satellites being highly interconnected and often dual-use. That said, the details that justify the need for orbital defence systems also make poorly specified weapons a potential cause of instability. Mr. Meink described the weapon as defensive, but U.S. military doctrine defines “space control” as encompassing both offensive and defensive operations.
+
+Compounding the consequences of confusion when two steerable satellites approach each other without understanding the other’s intentions — including due to future autonomous satellites running artificial intelligence models onboard — is the lack of policy details. What constitutes “hostile action” and what the weapon can do remain unclear. While the Outer Space Treaty does not ban weapons in orbit per se, Article IV prohibits nuclear weapons or other weapons of mass destruction in orbit — a fluid line considering the centrality of satellite-based networks for contemporary society and the ability of conventional weapons to render damage en masse; its Article III also requires space activities to comply with international law. But when an autonomous, dual-use orbital asset operated by a commercial entity initiates an unwanted defensive strike, the existing rules, including the Liability Convention, cannot be applied straightforwardly to determine accountability. The rules have become too coarse for what contemporary technologies, and the declining esteem for a rules-based world order, warrant. The U.N. Open-Ended Working Group on the ‘Prevention of an Arms Race in Outer Space’ should offer governments an opportunity to address the disclosure. The U.S. government should also reveal the particulars of the weapons it has deployed, and enter into a multilateral governance arrangement that defines exact thresholds of action and escalation.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/unsafe-space-on-the-us-and-on-orbit-space-control-weapons/article71476527.ece)
+
+---
+
+### The arithmetic of Tamil Nadu’s growth ambition
+*The Hindu · Opinion*
+
+At the NITI Aayog meeting on June 11, 2026, Tamil Nadu Chief Minister C. Joseph Vijay announced the goal of transforming Tamil Nadu into a $1.5 trillion economy by 2035-36. A similar view has also been expressed by others.
+
+Tamil Nadu’s Gross State Domestic Product (GSDP) was ₹35.29 lakh crore in 2025-26. To achieve the target of $1.5 trillion in 10 years, Tamil Nadu would have to increase the size of its economy to ₹172.56 lakh crore by 2035-36, registering a 4.9-fold increase. This calculation is based on the assumption that the exchange rate of one dollar in terms of rupees will appreciate by 2% per annum from its present level, touching ₹115.38 per dollar in 2035-36. This implies that achieving the target would require a nominal growth rate of 17.2% and, assuming inflation of 5%, a real growth rate of 12.2% per annum continuously for 10 years.
+
+[Read full article](https://www.thehindu.com/opinion/lead/the-arithmetic-of-tamil-nadus-growth-ambition/article71492353.ece)
+
+---
+
+### DC Edit | Athletes All At Sea In Japan’s Asiad
+*Deccan Chronicle · Editorial*
+
+Japan is known for all things high-tech — automobiles, electronics, management and their clockwork precision — over the years. This time though, the watch seems to have slipped a bit at the 20th Asian Games currently on Aichi-Nagoya.
+
+From accommodation for participating athletes and officials to mixing up of national anthems (especially those of arch-rivals North and South Korea) to logistics, the issues have been more than a handful. And the organisers can’t seem to get a grip while grappling with them.
+
+With a view to cutting costs/ cots, they decided to put players up in containers and a cruise ship, which were termed “worst ever” by officials of the South Korean contingent and deemed “a little tighter” by none other than International Olympic Committee president Kirsty Coventry.
+
+Athletes, more so the basketballers have been complaining of beds being short at the temporary accommodation, which also witnessed leaking sinks and soaked floors. Then there is a cruise ship docked in Nagoya, on which around 4,000 athletes and officials are housed. It’s reportedly 300 metres long, weighs over one lakh tonnes and has 1,500 cabins. Many of these athletes feel they have been thrown into the sea.
+
+That sinking feeling and sea sickness spilled onto the field of play and claimed its first victim. India’s Mixed Martial Arts fighter Varun Sanyal was forced to withdraw from the Games without competing after exhaustion and dehydration caused him to pass out during a sauna session at his cruise ship accommodation.
+
+Japan surely could’ve done better. These are the third Asian Games it is organising — after Tokyo (1958) and Hiroshima (1994). Japan has also hosted five Olympic Games — three summer, including one during the Covid years, and two winter editions — so far. Apart from these big ticket events, the country co-hosted the 2002 Football World Cup alongside South Korea, which was a smashing success.
+
+Three days into the fortnight-long Asiad, Japan still has time to summon the spirit and expertise of the Games gone by, infuse fresh energy into Nagoya and win itself a medal on the organisational front.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-athletes-all-at-sea-in-japans-asiad-1989457)
+
+---
+
+### DC Edit | Voters Cannot Be Termed Discrepancies, EC Must Act
+*Deccan Chronicle · Editorial*
+
+An election commissioner, a former deputy prime minister, a chief minister and a former chief minister and a mass of people who hold or have held responsible constitutional positions in the country and have voted in several elections in Delhi have now joined crores of other Indians across the country who have been asked to explain the reason why their names should not be deleted from the electoral rolls. This is a reflection of the callous and mechanical way the Election Commission of India (ECI) has gone about conducting the special intensive revision of the electoral rolls, striking at the roots of democracy and constitutional principles.
+
+The EC has invented a new tool called ‘discrepancies’ (it was ‘logical discrepancies’ in West Bengal) to deny people their basic right as citizens of this country: the right to vote. The Supreme Court itself had once remarked that some of the ‘discrepancies’ the EC talks about, such as minor variations in the spellings in surnames or age differences between parents and children, are very normal and natural in Indian conditions. But the EC, out on creating an electoral roll on diet, would cut the names for reasons that are valid as well as ridiculous. It is on the EC to ensure that all names which belong to the category of absent, shifted, dead, and duplicate (ASDD) are removed from the voters’ lists but it has gone far beyond its brief in pruning the document.
+
+About six crore names have been removed from the electoral roll in the first year of the SIR. In Delhi, one in every three voters has been made to look like non-Indian, despite the assurance by the officials that system-generated notices were being issued to voters with discrepancies to correct their data and that no name can be deleted without giving the voter an opportunity to be heard and a proper speaking and appealable order. “The (Election) Commission reiterates its firm commitment to a transparent, participative and inclusive revision process, ensuring that ‘no eligible citizen is left out while no ineligible person is included in the electoral roll’.” The principle and position behind the action sound reasonable and logical but the actions that followed the reiterations do not.
+
+The name of a person gains an entry into the electoral roll following a prescription mandated by law. The EC can decline an application if the applicant does not satisfy the conditions. That is, every entry has been vetted through a process in which the EC and the applicant was a part. Hence it must be incumbent on the EC to explain why a person’s name should not be on the list, and not for the voter to explain why her name should be there. A contrarian view is undemocratic, but unfortunately, the EC has taken such a position.
+
+Whether a chief minister gets to vote or not does matter; so do the cases with very ordinary people whose only stake in the process is that they are all citizens of this country. The country belongs to them and they belong to this country. The EC should not be allowed to play nasty games in that organic and natural bond.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-voters-cannot-be-termed-discrepancies-ec-must-act-1989442)
+
+---
+
+### Beyond Bengaluru: Can CM Shivakumar turn Cabinet outreach into delivery?
+*Deccan Herald · Editorial*
+
+The recent Cabinet meeting in Mangaluru is a welcome assertion that governance cannot be confined to Bengaluru. Cabinet meetings have been held in places such as Belagavi, Kalaburagi, and Male Mahadeshwara Hills.
+
+Taking the Cabinet to the districts matters because it signals that regional aspirations deserve a hearing at the highest level, rather than occasional attention from the capital.
+
+Chief Minister D K Shivakumar’s plan to hold 10 to 12 such meetings across the state is significant because it would make regional needs a more integral part of decision-making. The Mangaluru meeting has given fresh impetus to the idea of ‘Beyond Bengaluru’.
+
+The Cabinet approved projects worth Rs 32,611 crore, with substantial allocations for coastal infrastructure, rural development, and public services.
+
+The package includes a 343-km coastal ferry system, the Rs 6,925-crore Manki multipurpose port and shipyard, a feasibility study for a Mangaluru water metro, and expansion of the Karwar airport. Healthcare also received attention, with proposals for Kidwai and Jayadeva facilities in Mangaluru and Rs 425 crore for the Puttur Medical College.
+
+A new Coastal-Malnad Karnataka Tourism Policy and the proposed fisheries and blue economy university point to the coast’s wider economic potential. The decision to recognise Tulu as an additional administrative language in Dakshina Kannada and Udupi responds to a long-standing cultural demand.
+
+'Cabinet meeting in Bengaluru doesn't serve the purpose': DK Shivakumar visits Malnad region, speaks to locals on Kasturirangan panel reportThe proposal to rename Dakshina Kannada as Mangaluru district will now go through public consultation. Both decisions have political significance.
+
+The run-up to the Cabinet meeting itself became a political spectacle, with a roadshow through Mangaluru in a region where the Congress has struggled electorally. It won only two of the 13 Assembly seats in Dakshina Kannada and Udupi in 2023, while the Bharatiya Janata Party (BJP) cornered 11; both Lok Sabha seats are also held by the BJP. With the next Assembly election due in 2028, the outreach has an electoral dimension.
+
+The coast was once celebrated for its enterprise, trading networks, and entrepreneurial energy, with the potential to rival Mumbai in economic dynamism.
+
+Its association in recent years with communal tensions and vigilantism has damaged some of that inheritance. Investment needs confidence and social stability; a reputation for conflict can deter both investors and talent.
+
+The government has put forward an ambitious package.
+
+But announcements are only the beginning; the real test will be their implementation. It is now up to the people of coastal Karnataka to demand delivery and ensure that the region’s future is not held hostage to divisive politics.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/beyond-bengaluru-can-cm-shivakumar-turn-cabinet-outreach-into-delivery-4154528)
+
+---
+
+### UCC rollout: A code for discord
+*Deccan Herald · Editorial*
+
+Union Home Minister Amit Shah’s announcement that all 21 states governed by the National Democratic Alliance (NDA) will have a Uniform Civil Code (UCC) before the next Lok Sabha election is notable for its timing.
+
+Implementation of the UCC has been one of the Bharatiya Janata Party (BJP)’s stated objectives, along with the construction of the Ram Temple in Ayodhya and the abrogation of Article 370.
+
+The code is likely to be an important electoral plank in 2029, alongside contentious projects such as the delimitation of parliamentary constituencies.
+
+The UCC, which proposes a single set of laws for personal matters such as marriage, inheritance, and property rights – irrespective of religion, caste, or gender – has remained an ideal ever since the Constitution was framed. It envisages a uniform and secular code based on equality and social justice, making a compelling case for its rollout.
+
+However, the UCC envisaged by the BJP and implemented by the party’s governments in some states is not secular in its intent and threatens to emerge as a majoritarian assertion masked by broad narratives about uniformity.
+
+The code is not uniform, as the BJP governments in different states have enacted laws with different provisions. Uttarakhand was the first state to implement the UCC.
+
+BJP’s allies on board on UCC in UPSubsequently, Gujarat, Assam, and Madhya Pradesh passed the relevant legislation. It could be argued that the Centre opted for state-enacted laws because it lacked the parliamentary majority to pass a national law.
+
+The provisions in force and awaiting implementation have another feature that contradicts their stated spirit of uniformity – they leave out large segments of tribal populations, many of whom follow their own customs and practices. This exemption is the BJP’s way of avoiding a political alienation of these groups. The code, which criminalises violations, cannot be termed civil. It also comes with stipulations that impinge on the right to equality and the freedom of choice.
+
+A legal framework that is neither uniform nor civil and violates the constitutional rights of large sections of people will not promote justice, unity, or other ideals. Opposition parties and bodies, including the All India Muslim Personal Law Board (AIMPLB), have criticised the move, raising many credible concerns.
+
+Even NDA allies such as the Janata Dal (U) and the Telugu Desam Party (TDP) have reservations about the rollout. The possibility of the Narendra Modi government, which is on the back foot, deploying a polarising administrative tool to offset its electoral anxieties is real.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/ucc-rollout-a-code-for-discord-4154527)
+
+---
+
+### IIT Bombay | A student gone, a teacher accused, an institution in doubt
+*Deccan Herald · Opinion*
+
+On September 18, a professor at IIT Bombay was invigilating a midsemester exam for a course he teaches. He noticed a student using a phone and reported it, which is what anyone who has sat through IIT exams would expect an invigilator to do. By that evening, the student was found dead.
+
+What followed has been hard to keep up with. On September 19, the student’s parents alleged that their son had faced caste harassment for months, and the professor was named in an FIR under the SC/ST (Prevention of Atrocities) Act. Around one in the morning, with students gathered outside, the director told them he would resign. Then on September 21, the Board of Governors met. The institute said the director had not resigned. It apologised for parts of its own earlier statement about how the student died. It removed the professor from his post as dean of administrative affairs while the investigation goes on. It also accepted an 18-point list of demands from the students.
+
+Student suicide: IIT-Bombay Prof was only discharging his duties, says IIT-Delhi Faculty Forum The obvious thing first. A 20-year-old student is gone, and his parents will carry that for the rest of their lives. Their allegations deserve a proper investigation. The professor deserves the presumption of innocence that any of us would want. There’s no reason why saying both should put one in a tight spot.
+
+But something shifted on September 21 that should make everyone a little more careful. The institute's first account of what happened, the one many of us quoted over the weekend, has now been partly withdrawn by the institute itself. Today we know less than we thought we did. That alone should slow down the verdicts, whichever way people are leaning.
+
+The bigger question is about the institution.
+
+India has spent 70 years building a handful of institutions that the world takes seriously. The IITs are among them. What holds them together isn't the campus or the budget. It's an unwritten understanding. Teachers set the standards and enforce them. Students accept those standards as fair. The government and the street give the institution room to run its affairs. That understanding only lasts till people trust the institution to handle a crisis fairly on its own. This week, that trust was tested.
+
+In some ways IIT Bombay handled it well. The director's future went to the board, which is where it belongs, and wasn't decided by something said to a crowd in the middle of the night. Moving someone out of an administrative role while a police investigation is on is what most serious organisations would do. It was limited to the deanship, and the institute said anything further would wait for the investigation.
+
+IIT Bombay student suicide | Director has not resigned, clarifies institute; apologises for earlier statement amid row In other ways it didn't. When an institution must take back its account of a student's death within three days, people stop believing what it says. Autonomy runs entirely on being believed. The suspension came as an email to students in the middle of a protest, with no reasons attached. Some will read that as giving in. Others will read it as an admission of guilt. It is probably just what happens when there is no clear process that anyone can see and trust.
+
+That gap costs everyone. If a teacher can end up in an FIR and out of a job within days of reporting a phone in an exam hall, many teachers will simply stop reporting. Nobody will announce it. They'll look away, mark a little more generously, and let the borderline cases go. That won't make campuses fairer. It will make the degree mean less. A degree that means less hurts most the students who are counting on it to open doors that their family background couldn't.
+
+Autonomy must be earned. Four students have died on that campus in a single year. Whatever this investigation finds, that is a failure. Think of a young person who topped their district, arrives at an IIT, and suddenly finds themselves 287th in a class of 300. That is a very lonely place to be, and our system has never done enough to catch people when they fall. Much of the students’ demands are what the institute should have offered without being asked: a psychiatrist available round the clock, an interim investigation report by September 30 and a final one by October 15, and a real say in the committees that affect them. It should not have taken days of protest to get there.
+
+What we need right now, more than verdicts, is some empathy in both directions. A student from a small town who feels invisible, and a teacher who is now afraid that doing their job could end their career, are not enemies. Both have been let down by an institution that couldn't reassure either of them.
+
+Let's hold IIT Bombay to its own deadlines. Make the inquiry independent, bring in people from outside, and publish what it finds. Give the professor a fair process and give the student’s family real answers. Don't punish students for protesting peacefully. Build a system for complaints and discipline that works so that next time they turn to it first.
+
+We don't have many institutions like this. It took decades to build, and they are a part of India’s higher education system that the world genuinely respects. We can afford to lose an argument. We can't afford to lose them.
+
+Pravin Kaushal is a tech and social entrepreneur and Programme Director (Eastern India) at WHEELS Global Foundation. X: @ipravinkaushal.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/iit-bombay-a-student-gone-a-teacher-accused-an-institution-in-doubt-4154835)
+
+---
+
+### UPI MDR row is a case of mispricing and making the wrong party pay
+*Deccan Herald · Opinion*
+
+The government believed it had smartly killed two birds with one stone.
+
+Customers, buyers, and transferors (P2P, P2M, all) were not to pay any MDR charges.
+
+A cocktail of MDR charges on merchants/service providers was intended to protect small and public businesses — no charge on transactions up to Rs 2,000, a flat Rs 5 on essential services like fuel, railways, 0.2 per cent on mutual funds, brokers etc., and 0.4 per cent on remaining transactions. Small vendors were given additional protection — no MDR charge if transactions above Rs 2,000 did not exceed Rs 1 lakh a month.
+
+An MDR on UPI transactions (similar to debit card payments) is a valid levy for the service providers (fintech pay applications, infrastructure providers, etc.) to recover their costs. That said, a lot of people are up in arms against this move. Customers fear that the MDR charges would be passed on to them by sellers through higher prices on goods. Retailers, share brokers, and others protest being saddled with additional costs which cannot be legally recovered.
+
+Given this, it’s worth looking at whether the MDR charge of 0.4% is a correct levy. Should it be imposed on merchants? Is there a better alternative?
+
+MDR charges are excessive
+
+The MDR charge will be shared among four parties. The issuing bank (the bank holding the customer’s UPI account) gets 40 per cent. The acquiring bank (which sets up the merchant’s QR/payment gateway and processes the UPI payment) gets 30 per cent. Together, the banks take 70 per cent of the MDR charges — 0.28 per cent out of 0.4 per cent.
+
+The UPI app providers (PhonePe, Paytm, GPay, and others) who run the interface between the customer’s smartphone and the bank account) will get 20 per cent (or 0.08 per cent of the MDR charge). Finally, the infrastructure service providers (who oversee the technology, fraud prevention, and related functions) will get 10 per cent (or 0.04 per cent of the MDR charge).
+
+Much of the political uproar has been directed against the UPI app interface providers, as about 78% of the total volume of UPI transactions go through foreign-owned companies, like Walmart (owns PhonePe) and Google (owns GPay). The allegations of succumbing to pressure from the United States, however, are disingenuous. These service providers get only 0.08 per cent MDR, which is justified for enabling them to recover their costs. Likewise, 0.04 per cent MDR paid to infrastructure and service providers is also justified.
+
+The issuing and receiving banks have been given the bigger chunk. The issuing banks don’t incur an expense while a debit is made electronically from the accounts held by them. Additionally, they hold deposits of customers, which gives them a good positive carry (difference between interest they pay to account holders and interest they receive on lending these funds). Thus, there is no justification for the issuing bank to be paid any MDR charge. The receiving banks that receive the funds and benefit from a positive carry would be more than compensated if they get 0.04% of the MDR (i.e. 10 per cent of the levy of 0.4 per cent for setting up the transaction system at the merchant end).
+
+RBI absorbs Rs 2.90 lakh crore via two VRRR auctions amid surplus liquidityThe government, the RBI, and the NPCI could justifiably reduce the MDR charges by 60 per cent, eliminating the 40 per cent share of the issuing bank and 20 per cent share of the receiving bank, thereby lowering the levy from 0.4 per cent, 0.2 per cent or Rs 5 to 0.16 per cent, 0.08 per cent or Rs 2 respectively.
+
+From October 15, the MDR charges will fall on the merchants, though they incur no cost if the same transaction is in cash.
+
+The cash system operates without the customer or the merchant bearing any cost. The financial cost of the cash system (printing of currency notes, minting of coins, paying to custody bank branches for storing and issuing) is borne by the RBI. In FY2025, the printing and distribution of currency notes cost Rs 6,373 crore. In FY2026, it was Rs 4,875 crore.
+
+The UPI digital payment system is an alternative to the cash system. Today, the RBI bears no cost of the digital payment system. The MDR is the cost of maintaining the rupee digital payment infrastructure, and the RBI must bear this cost.
+
+Industry estimates suggest that the total MDR collections at rates made applicable by the NCPI are likely to be between Rs 15,000 crore and Rs 21,000 crore annually; let us take it at an average of Rs 18,000 crore.
+
+By reducing the MDR by 60%, the total cost could be brought down to Rs 7,200 crore. The RBI, which annually earns more than Rs 2.5 lakh-crore in surplus and bears the cost of the cash system of about Rs 6,000 crore, can easily bear this cost of Rs 7,200 crore.
+
+This will relieve all merchants of not only the financial burden of MDR but also of accounting hassles of maintaining transaction records to determine whether receipts from transactions above Rs 2,000 exceed Rs 1 lakh in a month or not, and other associated hassles.
+
+The UPI has been a grand success in India, though the cash system also thrives. Excessive MDR charges will put the burden wrongly on small retailers and service providers, which will not only stymie UPI’s progress but also revive cash. Reduce MDR to 0.16 per cent and let the RBI bear it.
+
+Subhash Chandra Garg is former Finance & Economic Affairs Secretary, and author of ‘The Ten Trillion Dream Dented’, ‘Commentary on Budget 2026-2027’, and ‘We Also Make Policy’.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/upi-mdr-row-is-a-case-of-mispricing-and-making-the-wrong-party-pay-4154858)
+
+---
+
+### Will Himachal and Kashmir’s apple industry survive FTAs, bitter harvest?
+*Deccan Herald · Opinion*
+
+Barely days after the India–New Zealand and India–United Kingdom Free Trade Agreements (FTAs) came into force from September 16 and July 15, respectively, a serious concern has begun spreading across Himachal Pradesh and Jammu and Kashmir’s apple orchards.
+
+While New Delhi views the pacts as a milestone for trade and strategic partnership, orchardists see it as the latest in a series of agreements steadily exposing them to foreign competition.
+
+New Zealand Prime Minister Christopher Luxon said Parliament’s approval of the India–New Zealand FTA on September 16 fulfilled a key government promise. The agreement was signed in April, and the India–European Union pact, which reduced import duty on apples to 20% with quotas and a minimum import price, had already heightened anxiety.
+
+The proposed trade deal with the United States, covering apple imports, could add to the woes of domestic growers. American apples are generally perceived as superior in quality, presentation and consistency, giving them a strong competitive advantage over locally produced varieties. Any surge in imports could, therefore, put further pressure on prices and growers’ incomes.
+
+The issue is not opposition to free trade. It is whether India can pursue global economic ambitions without undermining the livelihoods of nearly 1.5 lakh apple-growing families in Himachal. Similar anxieties have also been raised in Jammu & Kashmir, India’s largest apple-producing region, which produces foodstuffs worth 18–20 lakh metric tonnes annually and supports nearly 3.5 lakh orchardist families.
+
+Apple cultivation is the backbone of Himachal’s rural economy. The state produces six–eight lakh metric tonnes annually, contributes nearly one-fourth of India’s apple output and generates around Rs 6,000 crore, accounting for almost 85% of horticultural income.
+
+Entire districts such as Shimla, Kinnaur, Kullu, Mandi and Chamba depend heavily on the crop, making any sustained decline in prices a direct blow to the hill economy.
+
+According to officials, 51,03,496 boxes of apples reached various markets during the first week of September, compared with 93,71,485 boxes during the corresponding period last year—a sharp decline of 45.5%.
+
+Apprehensions have also emerged in Jammu & Kashmir, India’s largest apple-producing region, where nearly 3.5 lakh orchardist families depend on the crop. The apple economy is estimated to be around Rs 10,000–12,000 crore annually, making horticulture a vital pillar of the region’s rural economy.
+
+Production was around 21 lakh tonnes last year and is estimated at 21–23 lakh tonnes this year. Any fall in prices, rising input costs, inadequate storage and transport bottlenecks could significantly squeeze growers’ incomes and increase their financial vulnerability.
+
+Explained | From luxury cars and Scotch whisky to medical equipment: Here's what gets cheaper as India-UK FTA comes into effectFTAs are only one part of the problem. Climate change has become an even bigger threat. Declining snowfall, reduced chilling hours, hailstorms, and erratic rainfall have reduced productivity, while apple cultivation is steadily shifting to higher altitudes.
+
+Another challenge pertains to production costs that have risen sharply due to expensive labour, cartons, fertilisers, pesticides, and transport. The shortage of controlled-atmosphere stores, grading facilities, pack houses and cold-chain infrastructure often forces growers into distress sales immediately after harvest.
+
+Himachal Pradesh: The crop situation is grave this year, with growers facing a weak market, depressed prices, and mounting input and harvesting costs. Poor returns are threatening the livelihoods of thousands of apple growers, many of whom are struggling to recover production expenses.
+
+Jammu & Kashmir: The situation is equally worrying, as growers confront a sluggish market and subdued prices despite a substantial crop. Rising costs, storage constraints, and uncertain demand are further eroding growers’ margins, adding to concerns over the sustainability of the region’s apple economy.
+
+The cumulative impact of FTAs is the real concern. Imported apples from New Zealand, Europe and the UK enjoy advantages in mechanisation, post-harvest technology, packaging, logistics, and shelf life. As tariff barriers decline, their presence in India’s premium markets is expected to increase.
+
+The issue can potentially reshape Kashmir and Himachal’s political narrative. If farm-gate prices weaken over the next two seasons, the buck will stop at the Bharatiya Janata Party-led central government for sacrificing the interests of farmers in pursuit of global trade agreements.
+
+The BJP, in turn, may defend the FTAs by highlighting their broader economic benefits while arguing that horticultural infrastructure and marketing are primarily the state’s responsibility. Whether apples become a major election issue in future Assembly polls in the two states will depend less on political rhetoric than on what growers actually receive in the mandis.
+
+Free trade is practical and desirable for any growing economy like India. Himachal and Jammu and Kashmir, therefore, must become more competitive. The states should press the Centre for seasonal safeguards so imported apples do not enter during the domestic marketing season. Simultaneously, investment in high-density plantations, climate-resilient varieties, modern storage, grading, packaging, processing and farmer producer organisations must be accelerated.
+
+India needs FTAs to expand exports and strengthen strategic partnerships. But trade liberalisation cannot succeed if politically sensitive sectors are left vulnerable. The real challenge before New Delhi is to ensure that India’s global ambitions do not come at the cost of the orchards that sustain the economy of Himachal Pradesh and Jammu and Kashmir.
+
+The writer is a strategic affairs columnist and senior political analyst based in Shimla.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/will-himachal-and-kashmirs-apple-industry-survive-ftas-bitter-harvest-4154524)
+
+---
 
 ## 21 September 2026
 
@@ -105,6 +369,74 @@ The elections to the West Bengal Legislative Assembly were held this year after 
 It’s a testing time for Indian democracy. It is also time for its stakeholders to wake up and stand up for it.
 
 [Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-how-regional-parties-are-being-wiped-out-1989139)
+
+---
+
+### Iran, Not Arch, Will Become Donald Trump’s Lasting Legacy
+*Deccan Chronicle · Opinion*
+
+Work on Donald Trump’s arch begins in Washington DC this month. Fashioned on Paris’s Arc de Triomphe, this 250-foot structure is ostensibly meant to mark the 250th year of American independence from England, but it is really a monument to Trump.
+
+He fancies himself as the greatest American President in history and there are two reasons why. The first is political. Trump was an outsider who captured the Republican Party 10 years ago and has retained his grip on it. America’s two parties choose their candidates based on internal elections called primaries. Individuals publicly endorsed by Trump have a higher than 90% chance of defeating their Republican rivals. It is not their policy positions or their background that matter to Republican voters as much as their publicly expressed loyalty to Trump. This is what has given him ownership of that party.
+
+This is a remarkable achievement because the Republicans fancy themselves as ideological and as conservative, neither of which Trump is. One could argue that under this ideological facade they were always bigots and Trump merely took away the facade. This is likely true but let us credit him with the achievement because it is real. The Republican Party today is the party of Trump.
+
+Astride this organisation, Trump contested three elections and won two. The second victory of 2024 was truly astonishing given how thoroughly and justly he had been demonised after stoking violence at the end of his first term. This is the first of his achievements.
+
+He does not offer it necessarily as a reason for his greatness but Trump has survived one assassination attempt and two other failed attacks. This also likely feeds into his sense of being a man of history.
+
+The second reason he offers concerns governance. He points to what he sees as his success on immigration and on the economy. Indians are familiar with his actions on the former: jailing, shackling and deporting undocumented people, unleashing the entity known as ICE on American cities and attacking the institution of the H-1B visa.
+
+On the economy his claim rests on a record high stock market, his tariff policy, the sustained investments by the largest companies in AI, and the low levels of unemployment. Here the record is less settled but will become clearer with time. He still has two years in office.
+
+If we limit his achievements to these, it is possible that he comes out as one of the more successful figures of American politics. A maverick who dominated a major party like nobody before him and who was in office at the time of the most extraordinary technology revolution. In that sense, having a Trump monument in the capital like Washington, Jefferson and Lincoln have, may not be outlandish.
+
+Unfortunately, none of the above will be what his legacy will be first associated with and he already knows that. Trump will be linked forever with his murder of Ayatollah Khamenei and the global chaos that has since followed. The war in Iran is a strategic failure of the sort that Afghanistan was not and even Vietnam was not. Limping home from both those defeats, America’s legions returned to a country whose power and influence was undiminished.
+
+This is different. I am not referring to the damage done to the economy of the world by this war of stupidity, which is separate. The price of energy will likely eventually come down, if nothing else because of the fact that renewables are becoming as convenient as fossil fuels. China and its innovations will force the world away from petroleum products over this decade and the next. That is clear.
+
+It is the American grand strategy that Trump has unwittingly taken his hammer to. America’s physical presence in the Gulf is one casualty. The visuals, published in America’s media, of its bases shattered by Iranian missiles and drones, revealed to the world what the Gulf nations already know. Saudi Arabia, Bahrain, Kuwait, Qatar and the UAE will not in future depend on a military power that cannot protect itself against Iran. Jordan is currently being battered.
+
+The Gulf basing network allowed America to efficiently resupply its navy in a way it now cannot. It relies on an island thousands of kilometres away to fuel ships blockading Iran.
+
+Allies in the Pacific have noted the failure in the Gulf also. America’s carriers meant to protect Taiwan, Japan, Philippines and Korea have been redeployed away from China’s geography.
+
+Trump’s threats to withdraw forces from Europe have not yet materialised. But the mere expression of that intent has changed the relationship permanently. For the entire world and its nations, America’s word carries less weight now. A peace treaty signed by its President himself was violated almost immediately. He cannot concede defeat and he doesn’t know how to win. There are only bad and worse options before him.
+
+None of this is visible in Trump’s language, as may be expected from a charlatan. “The war is very complete, pretty much,” he said on 10 March. It ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/iran-not-arch-will-become-donald-trumps-lasting-legacy-1989422)
+
+---
+
+### Operationally, It’s Already Tata Sons Sans The Tatas!
+*Deccan Chronicle · Opinion*
+
+Warfare experts cite a minimum differential in conventional firepower of three times for an attacker to overwhelm a defender. New versions of defensive warfare evolving in Ukraine have increased this differential to 20 times in favour of the defender. Corporate wars are different. Cash is king. But the laws of collegiality, relationships and voting power matter more.
+
+Consider the curious case of the Tatas. Despite holding majority shares in Tata Sons, via two Tata Trusts, board incumbents from the Ratan Tata years have revolted against the only Tata presently on the board of this holding company, which controls publicly listed Tata group companies with a market value of Rs 26 trillion.
+
+Ratan Tata’s anointed heir is Noel Tata, his half-brother — same father but different mothers. Noel, like Ratan, chairs both Tata Trusts. But he is only one of the two Tata Trusts nominees in Tata Sons. The other is Venu Srinivasan. Tata Sons, founded in 1868, when India was still a British colony, became a symbol of national pride, taking Indian capital overseas by acquiring Corus Steel and Jaguar Land Rover in the UK under Ratan Tata — an early case of reverse capital flow. Today, Noel Tata’s eminence in the group aligns with the frequently seen phenomenon of Indian “turtles” returning to a globalised India. Noel is an Irish national whose karmabhoomi is India.
+
+“Revolt of the subalterns.” How does one explain the happenings in the September 17, 2026, board meeting of Tata Sons? Two propositions were put to vote.
+
+First, reappointing chairman N. Chandrasekaran for a further five years after his term ends in February 2027.
+
+Second, listing the company as directed by the Reserve Bank of India way back in 2022 and reiterated on September 11 this year by rejecting the Tata Sons’ three-pronged argument as to why Tata Sons should be exempt from the regulatory requirements for an upper-level NBFC and core investment company.
+
+First, there are no public funds invested in it. Second, it invests only in Tata Group companies. Third, the dividend income earned is used to fund the charitable activities of the Trusts which own Tata Sons. All three distinguish it from a normal investment company.
+
+The “revolt within” might have been precipitated by the RBI’s public rebuff of Tata Sons’ representation against listing. Alternatively, it might have been incited by the undue haste shown by Noel in trying to gain the upper hand within Tata Sons, less than two years after Ratan Tata’s death in October 2024. Noel is at the cusp of his 70s and time is not on his side. The Tata Group companies have a history of powerful “satraps” outside the Tata family managing them. Ratan Tata succeeded JRD Tata in 1991. He spent six years consolidating his control over the Group companies — replacing ageing “satraps” like Rusi Modi, the larger-than-life chairman of Tata Steel, and Darbari Seth, the legendary chairman of Tata Chemicals, and establishing uniform governance systems across Group companies.
+
+Noel is also less institutionally empowered than Ratan Tata was. The latter was chairman of both Tata Trusts and chairman of Tata Sons. When he retired in 2012 from Tata Sons chairmanship, he retained control of both Tata Trusts with a 66 per cent share in Tata Sons, ensuring that the new Tata Sons chair — Cyrus Mistry — would remain sufficiently collaborative. This was not to be and differences arose. In 2022 the articles of association were amended to require compulsory separation between the chairpersons of Tata Sons and the Tata Trusts.
+
+Noel inherited a depleted “empire”. He is chairperson of both Tata Trusts but only jointly represents the Tata Trusts as a nominee director in Tata Sons with Venu Srinivasan. If they vote differently, effectively cancelling each other’s votes, the casting vote rests with the chairperson Tata Sons.
+
+In the September 17, 2026, Board meeting of Tata Sons, Noel Tata was isolated. Chairperson N. Chandrasekaran abstained (aptly) from the proposal for his own re-appointment. Four other directors voted for reappointment. Noel Tata voted against. He reasoned that this matter had already been decided earlier when the chairman said he was not available for reappointment. Second, Noel pointed out that the appointment process required that the board appoints a committee which recommends appointment of a chairperson to the board. This procedure, mandatory even for reappointment, was not followed.
+
+On whether Tata Sons should go public and list — as directed by the RBI — reports differ on whether chairperson N. Chandrasekaran abstained or voted for the proposal. If the chairperson voted for listing, it would automatically overrule the tie between the two nominees of Tata Sons — Venu Srinivasan for and Noel Tata against — in line with the Tata Trusts resolution that Tata Sons must remain private. Noel feels fresh resolutions from Tata Trusts, supporting listing are necessary before the matter is reconsidered. If the chairman abstained, ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/operationally-its-already-tata-sons-sans-the-tatas-1989406)
 
 ---
 
