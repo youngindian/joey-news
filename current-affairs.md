@@ -1,3 +1,770 @@
+## 22 September 2026
+
+### Noel Tata suggests Tata Sons split to avoid RBI-mandated listing
+*India Today Business Desk · general*
+
+Tata Trusts Chairman Noel Tata has proposed exploring a restructuring of Tata Sons, including the possibility of splitting the holding company into multiple entities, as an alternative to listing it to meet regulatory requirements, reported Economic Times.
+
+The proposal was made at the Tata Sons board meeting on September 17, the report said, citing people familiar with the matter. It was not immediately clear whether the board would take up the proposal for consideration.
+
+Tata Trusts, the majority shareholder in Tata Sons, has maintained that the holding company should remain unlisted and has been exploring alternatives after the Reserve Bank of India (RBI) rejected Tata Sons' application to surrender its registration.
+
+### WHAT DOES THE PROPOSAL INVOLVE?
+
+The restructuring could potentially take different forms, including a demerger, moving assets into subsidiaries, a merger or a broader scheme of arrangement, the ET report said.
+
+Given the size of Tata Sons and its wide portfolio of businesses, such a restructuring could involve regulatory, commercial and tax complexities.
+
+Tata Sons is the holding company for several major group businesses, including Tata Consultancy Services, Tata Motors, Tata Steel, Tata Capital, Tata Communications, Tata Consumer Products, Tata Investment Corporation, Air India, Tata Digital, Tata Electronics and Agratas.
+
+The proposal comes as Tata Sons faces a regulatory requirement after being classified as an upper-layer non-banking finance company. The company had sought to surrender its registration after repaying its debt, but the RBI rejected the application.
+
+### LISTING VS RESTRUCTURING
+
+The proposal comes amid a wider disagreement within Tata Sons over its future structure.
+
+At the September 17 board meeting, the board voted to reappoint N Chandrasekaran as Tata Sons chairman for another five years. Noel Tata opposed the reappointment as well as the move towards a listing, according to the eport.
+
+The holding company is understood to have started preparing for a potential public listing after the RBI's decision, with February 2027 emerging as an approximate internal target for a possible market debut, ET had reported earlier.
+
+Noel's latest proposal offers another route that could potentially allow Tata Sons to address the regulatory issue without listing the existing holding company.
+
+However, the proposal itself does not mean that Tata Sons has decided to split or restructure the company.
+
+### SP GROUP'S EXIT REMAINS AN ISSUE
+
+A restructuring could also have implications for the Shapoorji Pallonji Group, which owns around 18.37% of Tata Sons and has been backing a listing.
+
+The SP Group's Tata Sons stake is held through Sterling Investments Corporation and Cyrus Investments and has been pledged against borrowings. The group completed a Rs 21,500-crore refinancing in July and had indicated plans to monetise part of its Tata Sons holding through a listing or share sale within 18 months, according to the ET report.
+
+A restructuring that avoids a listing may therefore leave open the question of how the SP Group would monetise its stake.
+
+The ET report quoted Harshal Anjaria, founder of Shreeyam Advisors, as saying that even if splitting Tata Sons is legally possible and avoids a listing, it may not provide a clear route for the SP Group to exit its investment. He also said any reorganisation or change in control would require prior RBI approval.
+
+### IMPACT ON TATA GROUP'S CAPITAL FLOWS
+
+A restructuring could also change how Tata Sons deploys cash across the group.
+
+The holding company currently uses dividends from TCS to fund businesses that require capital. Separating businesses into different entities could disrupt that mechanism and could also lead lenders and rating agencies to reassess the level of support available to individual group companies, the ET report said.
+
+The development comes as Tata Sons' consolidated FY26 revenue rose 17% to Rs 6.61 lakh crore, while net profit fell 35.7% to Rs 17,923 crore, partly weighed down by losses at unlisted businesses including Air India, Tata Digital and Tata Electronics.
+
+For now, Noel Tata's proposal is an option being explored within the wider debate over how Tata Sons can meet RBI requirements while retaining its existing unlisted structure.
+
+SEO/AEO keywords: Noel Tata, Tata Sons, Tata Sons listing, Tata Trusts, RBI Tata Sons, Tata Sons restructuring, Tata Sons split, N Chandrasekaran, Tata Sons chairman, Tata Group, SP Group, Tata Sons IPO, Tata Sons RBI rules, Tata Sons demerger, Tata Sons news
+
+\- Ends
+
+Sep 22, 2026 10:28 IST
+
+---
+
+### Larry Page's Powerful Tuesday Motivation Quote: 'If you're not doing some things that are crazy, then you're doing the...' - Google co-founder's timeless lesson on why bold ideas matter
+*Mukesh Thapliyal · world*
+
+Larry Page’s motivational quote, "If you’re not doing some things that are crazy, then you’re doing the wrong things," is a great reminder that significant achievements are hardly made by being consistently cautious. The co-founder of Google does not encourage recklessness with this saying. Rather, it inspires the listener to think outside the box, experiment with bold ideas and take risks, since the goal might be perceived by others as unreasonable at first. A number of discoveries started with the idea which seemed to be too complicated, strange or even 'crazy' for many other people. Besides, there is a message about the necessity of failing in Page's quote. When trying out bold ideas, one has to be ready for failure. At the same time, being excessively cautious all the time could limit the opportunity to gain new knowledge, come up with innovations and make something really unique. The main idea of this quote could be summarized in one phrase: do not dismiss the idea only because it is too ambitious.
+
+Among the technology entrepreneurs of the internet age, Page holds a very prominent position. He co-founded Google, an organization that transformed an ambitious research project into a company that revolutionized the search and accessibility of information through the internet. He was born in Michigan in 1973. Having been exposed to the world of technology from a young age due to his parents being computer science professors, Page gained a lot of interest in computers and technology early in life. Page studied computer engineering at the University of Michigan, but eventually, he pursued graduate studies at Stanford University where he first met Sergey Brin, who was also a graduate student and shared his interest in organizing the rapidly expanding World Wide Web.
+
+  
+  
+
+Google was invented by Page and Brin; it was the name of their project, previously named The BackRub, which was initially a search technology which would analyze connections between webpages and find out which ones were more relevant. The search engine was incorporated in 1998. The fast growth of Google is due to the fact that it provided the simplest user interface and relevant information. Later on, Google grew from just being a search engine to providing a wide range of products and applications that became part of everyday digital life, including Gmail, Google Maps, Android and YouTube.
+
+Page acted as the first CEO of Google from 1998 to 2001 and then again took up the post in 2011. In 2015, there was a significant restructuring of the business, resulting in the formation of a parent company called Alphabet Inc., which would manage the Google company as well as several other projects. Page was appointed as the CEO of Alphabet Inc. until he resigned from the post in 2019.
+
+  
+  
+
+Beyond Google, Page has long shown an interest in ambitious technologies that may take years to reach their full potential. His work and investments have touched areas ranging from artificial intelligence and autonomous vehicles to aviation and other experimental technologies.
+
+Thinking big was more than just a motivational phrase for Page. The example of his life proves that a strange experiment at the university could turn into technology that is used by millions of people around the globe.
+
+---
+
+### CBSE Class 10, 12 sample papers 2027 out. Direct link to check here
+*India Today Education Desk · general*
+
+## CBSE has released Class 10 and Class 12 sample question papers and marking schemes for the 2027 board exams on its Academic website. The material gives students and teachers an official template for exam pattern, evaluation and preparation.
+
+CBSE Class 10, 12 sample papers 2027 released (Image Courtersy: Getty Images) (representative image)
+
+The Central Board of Secondary Education, CBSE, has released the sample papers and marking schemes for the Class 10 and Class 12 board exams 2027. All the candidates can check the CBSE subject-wise sample papers and marking schemes through the official CBSE academic website, the link for which is cbseacademic.nic.in .
+
+Moreover, CBSE is expected to release the tentative datesheet for the Class 10 and Class 12 board exams anytime soon. Last year too, the Board released the tentative datesheet in September.
+
+Candidates are advised to keep a close check on the official CBSE website for the latest updates regarding the board examination schedule.
+
+### CBSE BOARD EXAM 2027: WHY SAMPLE PAPERS ARE IMPORTANT
+
+The sample papers can help students become familiar with the structure and format of the board examination before the actual tests. They can use the papers to practise answering questions within the stipulated time and identify topics that need further revision.
+
+The marking schemes are equally important as they provide an indication of how answers are evaluated. Students can use them to understand the key points expected in answers and assess their performance while practising the sample papers.
+
+**CBSE BOARD CLASS 10 BOARD EXAM 2027 SAMPLE PAPERS DIRECT LINK**
+
+**CBSE BOARD CLASS 12 BOARD EXAM 2027 SAMPLE PAPERS DIRECT LINK**
+
+With the release of the SQPs and marking schemes, students now have access to an official reference for understanding the board exam pattern and planning their preparation. Regular practice with the sample papers, along with careful analysis of the marking schemes, can help students become familiar with the expected format before the examinations. Candidates should also regularly check the official CBSE website for updates on the upcoming datesheet and other board exam announcements.
+
+\- Ends
+
+Apoorva Anand
+
+Sep 22, 2026 10:26 IST
+
+---
+
+### ₹71,438 a night to stay at Ajinkya Rahane’s Igatpuri villa: Infinity pool, memorabilia room and more | Mint
+*Anjali Thakur · industry, economy*
+
+## Ajinkya Rahane’s Raaya Estate in Igatpuri, Maharashtra, is now available to guests through StayVista. The five-bedroom villa can accommodate up to 15 people and includes an infinity pool, in-house bar and a memorabilia room featuring items from Rahane’s cricket career.
+
+Want to stay at Ajinkya Rahane’s holiday villa? It costs ₹71,438 a night**(Stay Vista)**
+
+Ajinkya Rahane's Igatpuri holiday home is now open to guests, with a stay at the former India cricketer's Raaya Estate priced at ₹71,438 per night for five rooms, plus taxes. The property is being offered through StayVista, a luxury villa rental and holiday-home platform.
+
+Located in Maharashtra's Igatpuri, the villa can accommodate up to 15 people and features five king-size bedrooms, an infinity pool, an in-house bar and several outdoor spaces.
+
+## What does Ajinkya Rahane's villa offer?
+
+Rahane and his wife, Radhika Dhopavkar, recently gave a look inside the property in a video shared by StayVista on YouTube on September 11, 2026.
+
+Set against the Sahyadri mountains and overlooking Vaitarna Lake, Raaya Estate was designed as a family getaway. The property includes a gazebo, landscaped gardens, multiple balconies, a children's play area and an in-house bar.
+
+The villa was built after the Covid pandemic, with Rahane opting for open spaces and elevated living areas. The design was partly inspired by his childhood visits to his grandmother's home, where he spent his summer holidays.
+
+Rahane said the idea was to recreate a similar environment for his children, with open areas where they could play and spend time outdoors.
+
+## Inside the five-bedroom Raaya Estate
+
+The main living room sits on the elevated first floor and is divided into two sections. One area is used by the family for morning tea or coffee while taking in views of Vaitarna Lake and the mountains. The other is designed as a more relaxed sitting area.
+
+The interiors use largely neutral and earthy tones, while the bedrooms open onto balconies overlooking the surrounding landscape.
+
+## Guests can access Rahane's cricket memorabilia
+
+One of the property's distinctive features is a room dedicated to Rahane's cricket career.
+
+The memorabilia room houses bats, balls, caps and team jerseys collected during his years as a cricketer. It also includes photographs of Rahane with his teammates.
+
+Rahane played 85 Tests, 90 ODIs and 20 T20Is during his international career. Each item in the room is linked to a different memory from his time as a cricketer.
+
+According to the account of the property tour, Rahane said revisiting the collection is an emotional experience and that he gets goosebumps whenever he enters the room.
+
+## How much does it cost?
+
+The Raaya Estate is listed at ₹71,438 per night for five rooms, plus taxes. With accommodation for up to 15 people, the villa is positioned as a group and family holiday option rather than an individual stay.
+
+View full Image
+
+Ajinkya Rahane’s Igatpuri villa is now available for stays
+
+**(Stay Vista)**
+
+The property combines Rahane's personal connection to the space with the facilities of a private luxury villa, while giving guests access to memorabilia from his cricket career.
+
+### About the Author
+
+Anjali Thakur
+
+Anjali Thakur is a Senior Assistant Editor with Mint, reporting on trending news, entertainment and health, with a focus on stories driving digital conversations. Her work involves spotting early signals across news cycles and social media, sharpening stories for SEO and Google Discover, and mentoring young editors in digital-first newsroom practices. She is known for turning fast-moving developments—whether news-driven or culture-led—into clear, tightly edited journalism without compromising editorial rigour.<br><br> Before joining Mint, she was Deputy News Editor at NDTV.com, where she led the Trending section and covered viral news, breaking developments and human-interest stories. She has also worked as Chief Sub-Editor at India.com (Zee Media) and as Senior Correspondent with Exchange4media and Hindustan Times’ HT City, reporting on media, advertising, entertainment, health, lifestyle and popular culture.<br><br> Anjali holds a Bachelor of Arts degree from Miranda House, and is currently pursuing an MBA, strengthening her understanding of business strategy and digital media economics. Her writing balances newsroom discipline with a clear instinct for what resonates with readers.
+
+---
+
+### No govt info on ChatGPT, no Reels in uniform: MP Police's new social media rules
+*Ravish Pal Singh · general*
+
+Madhya Pradesh Police personnel have been barred from uploading government, confidential or sensitive information to ChatGPT and other artificial intelligence (AI) platforms, and from creating or posting Instagram Reels while in uniform, under new and strict 24-point social media guidelines.
+
+The guidelines prohibit police personnel from making or posting Reels while on duty or while wearing their police uniform, whether on or off duty. Violations could invite disciplinary action ranging from a show-cause notice to suspension under relevant police regulations and civil service conduct rules.
+
+The new rules, issued on the basis of Union Home Ministry directions, lay down rules on social media use, media communication, handling of sensitive information and the use of AI platforms by police personnel.
+
+Police officers posted in sensitive roles have also been directed not to disclose details about the nature of their duties, workplaces or 
+
+The guidelines prescribe caution while sharing information about arrests, raids and criminal investigations. Police personnel have been advised to limit such posts to essential facts and not disclose details of investigative processes or future actions that could affect an ongoing probe.
+
+They have also been directed to avoid social media posts that could suggest an accused has already been found guilty, keeping in mind the investigation and judicial process.
+
+The restrictions also extend to personal social media accounts. Police personnel have been asked not to express views on government policies and schemes through their personal accounts or make political and religious statements on public platforms.
+
+If a personal post appears to represent the government's official position, the department may issue a clarification, while serious violations could lead to disciplinary action.
+
+The guidelines also prohibit police personnel from using department-issued CUG SIM cards to create social media accounts.
+
+They further bar the use of government vehicles, offices, residences, uniforms and other official resources for personal branding or publicity. Officers have been cautioned against presenting departmental achievements as their own personal accomplishments.
+
+The 24-point guidelines are aimed at keeping police duties and personal social media activity separate while regulating how personnel handle official information online.
+
+\- Ends
+
+Prateek Chakraborty
+
+Sep 22, 2026 10:20 IST
+
+---
+
+### Key issues for this week's Trump-Xi summit in Washington
+*SECTIONS Key issues · world*
+
+U.S. President Donald Trump will welcome Chinese leader Xi Jinping this week for their second meeting this year, as the two leaders seek stability in a relationship under pressure over issues ranging from trade to Taiwan and Iran, as well as global worries about artificial intelligence.
+
+Xi arrives in Washington on Wednesday for the first time in more than a decade. In the four months since the leaders of the two superpowers met in Beijing in May, Xi has overseen a surge in China's trade with the world, while Trump - mired in the Iran war and with low approval ratings - is looking for economic wins he can tout to Americans unhappy with rising prices.
+
+  
+
+Here are some of the key issues for their summitat the White House on Thursday:
+
+## TRADE TRUCE OR BACK TO TRADE WAR?
+
+Markets will watch for signs of an extension of a tariff truce announced after a Trump-Xi summit in South Korea last October and set to expire on November 10. That deal paused a trade war in which the world's two largest economies threatened global supply chains with tit-for-tat tariffs that topped 100%.
+
+U.S. Trade Representative Jamieson Greer said this month the countries will make "some ‌announcements on agriculture and non-tariff barriers" and traders will be watching for progress on an agreed mutual tariff reduction covering $30 billion in goods - a step China could most easily take by cutting duties on U.S. agricultural imports.
+
+## JETS, FARM PRODUCE
+
+Trump will be looking to announce trade wins ahead of November midterm congressional elections, including by locking in high-profile purchases of Boeing aircraft and agricultural products.
+
+Greer said on Monday China is making progress on a commitment to buy 200 Boeings but gave no indication that any additional orders are near.
+
+Trump said in May that China could potentially boost its Boeing order, the manufacturer's first major Chinese deal in nearly a decade, to as many as 750 planes.
+
+However, Boeing CEO Kelly Ortberg last week played down some expectations among industry analysts that China ⁠could make another Boeing order around the Trump-Xi talks.
+
+"I think there'll be an increment of orders going forward," he told an investor conference. "They're going to be announced by the airlines at their pace, however they want to announce those."
+
+Industry sources say a larger deal has been stalled for years as Trump has threatened to cut off China's access to critical spare engine parts.
+
+The White House ‌said after the May summit that China had committed to purchasing at least $17 billion per year of US agricultural products in 2026, 2027 and 2028.
+
+US Senator Pete Ricketts, Republican chair of the Senate Foreign Relations subcommittee on East Asia, said last week Trump should press Xi to honor those commitments and follow through on pledges to open its market to more US beef exports.
+
+## CHINA GRIP ON RARE EARTHS
+
+Beijing has been pressing the US to further delay a rule that would bar thousands of Chinese firms from receiving advanced US technology, while Washington wants Beijing to ease shipments of rare earths and critical mineralsvital for high-tech applications spanning automobile to aerospace manufacturing, as well as defense.
+
+Experts say Trump has taken a less combative approach than usual ahead of his meeting with Xi because of China's growing power thanks to critical minerals. China controls up to 70% of global rare-earth mining, 85% of refining capacity, and about 90% of rare-earth metal alloy and magnet production, according to consultancy AlixPartners.
+
+The Trump administration has so far not threatened to slap steep tariffs on Chinese imports or to ban exports of US technology, in contrast to the aggressive stances that preceded previous summits. Last year, in retaliation against Trump's tariffs, China curbed rare earth exports and sent shockwaves through world markets.
+
+## TAIWAN
+
+US allies in Asia have grown increasingly concerned that in order to lock in economic wins, Trump may be tempted to soften Washington's support for Taiwan, the democratically governed island claimed by China.
+
+Taiwan strongly objects to the sovereignty claims.
+
+While the US, like most ‌countries, has no formal diplomatic relations with Taiwan, it is its most important international backer and arms supplier.
+
+Trump said Xi pressed him on US arms sales to Taiwan during the May visit, with the US president later describing a pending package worth up to $14 billion as a "negotiating chip".
+
+As well as arms, people familiar with Chinese efforts told Reuters that Beijing also hopes to persuade Trump to state publicly that the US opposes Taiwan's independence instead of saying only that it does not support independence, which has been Washington's formulation for decades.
+
+Any US shift on Taiwan would be highly controversial, raising questions about Washington's resolve to defend the island and provoking opposition in Congress.
+
+On Monday, US Secretary of State Marco Rubio met with his counterparts from Japan and South Korea and reiterated the US commitment to the defense of those key Asian allies, and the three nations expressed support for Taiwan.
+
+In a letter to Trump on Friday, John Moolenaar, Republican chairman of the House Select Committee on China, wrote in a reference to Taiwan and US allies in Asia that Chinese objections to US arms sales and security cooperation should be "rejected out of hand."
+
+## IRAN WAR
+
+China maintains close ties to Tehran and is by far the world's biggest buyer of Iranian oil exports. Washington sees Xi as uniquely able to exert pressure on Tehran, but he has shown little inclination to do so.
+
+Treasury Secretary Scott Bessent has said Trump and Xi would continue discussions on China's financial ties to Tehran during the summit. But despite US frustration with Beijing, Bessent stopped short of imposing penalties on Chinese banks when he unveiled an "economic onslaught" against Iran last month and warned countries to cut business ties with the country.
+
+Last week, Trump brushed aside a report ​that Iran acquired satellite images of a base in Jordan from Chinese ‌entities before an attack that killed three US troops there in July.
+
+Reuters reported last month that Beijing is selling billions of dollars' worth of goods to Iran through a sanctions-evasion scheme. China's foreign ministry says it is not aware of this.
+
+## ARTIFICIAL INTELLIGENCE
+
+Analysts see artificial intelligence as a potential area for cooperation, given its implications for national security, economic competitiveness and military capabilities, and shared US and Chinese concerns about misuse. However, experts say intense competition in the field between the countries is likely to limit the scope for anything beyond symbolic agreements.
+
+Bessent said after talks with Chinese Vice Premier He Lifeng at the weekend that the two sides discussed setting up a new US-China AI dialogue. This would include a notification system for common goals and common threats that would cover AI-
+
+Dario Amodei, chief executive of US AI firm Anthropic, warned this month that Chinese dominance in AI could pose security risks to the United States.
+
+Chinese state media dismissed this warning as coming from a "Cold War playbook," while Trump has brushed aside calls to slow AI development, saying that "very negative forces" were raising exaggerated concerns.
+
+---
+
+### Trump hosts Xi in Washington as US-China AI and trade rivalry deepens
+*India Today World Desk · general*
+
+## Donald Trump will host Xi Jinping in Washington this week as both sides try to stabilise ties. The summit is set to manage rivalry over AI, trade, Iran and Taiwan rather than deliver a breakthrough.
+
+US President Donald Trump will host Chinese President Xi Jinping in Washington this week at a time when competition between the world’s two biggest economies is deepening, especially on trade and artificial intelligence. The visit comes even as both sides are trying to steady a fragile relationship and avoid a wider breakdown in ties.
+
+No grand bargain is expected from the summit, but both leaders are likely to keep the engagement cordial in what will be their third meeting since Trump returned to the White House. Even as they seek stability, the US and China remain locked in a contest over AI, trade and influence on issues such as Iran and Taiwan.
+
+Senator Steve Daines, a Montana Republican who advises Trump on China and recently travelled there to help prepare for the summit, said, "The fact that they are meeting, and there’s dialogue occurring and building that relationship, is probably as important as outcomes from the meeting." Cui Tiankai, a former Chinese ambassador to the US, said at a recent forum in Beijing that there are "always problems, sometimes very big problems" between the two countries, but added, "we’ll make our best efforts to maintain overall stability."
+
+Xi’s visit, which begins on Wednesday, will be his first to Washington in 10 years. The meeting comes after both countries stepped back from last year’s trade war, when they imposed tit-for-tat high tariffs that threatened the global economy. China had also cut off supplies of critical minerals used in products ranging from electric cars to fighter jets. The US is trying not only to balance trade but also to protect its technological lead for national security and global leadership, while China is seeking to strengthen its place in the global order after building up its economic, technological and military power.
+
+Evan Medeiros, a senior adviser at consultancy The Asia Group, said the stability both sides want is "for deeply competitive reasons" and added, "This is basically two geopolitical strongmen circling each other on the playground, trying to determine what their next move may be." Da Wei, director of the Centre for International Security and Strategy at Tsinghua University in Beijing, said the two countries appeared to be entering a "new normal" of "overall stability" despite blacklisting each other’s companies and limiting the flow of high-tech products. He said the leaders now should produce deals their governments can carry out, adding that "we need to move fast".
+
+AI has become a major battleground in the relationship, with neither side showing any sign of slowing down. Trump has repeatedly said, "Whoever wins AI wins." On social media on Monday, he said the US was ahead of China and that he was "not going to stifle Growth, of something that will be bigger than the Industrial Revolution, or the Internet, itself." In China, Chen Yixin, who heads the Ministry of State Security, warned in a rare blunt essay that AI poses a direct threat to Communist Party rule if foreign and hostile forces gain superior capabilities.
+
+The US is already blocking exports of the most powerful AI chips to China and has accused Chinese developers of using American AI models at an industrial scale to extract their capabilities. Beijing says the practice, known as distillation, is widely used, including by American companies, and has criticised Washington for trying to monopolise the industry. China is also unhappy with US efforts to build an alliance that leaves it out, and is trying to shape new global AI guardrails by appealing to developing countries. At the same time, there has been a small move towards cooperation. Treasury Secretary Scott Bessent said on Sunday after meeting Chinese Vice Premier He Lifeng in New York that the US had proposed a new "notification mechanism" for AI incidents that could affect national security. "We think that just like any cross-border activity, that moving from opaque to more transparency between the No. 1 and the No. 2 AI powers in the world is very important," Bessent said.
+
+Even without broad punitive action that could damage the trade truce, both countries have continued to compete through targeted measures. Mira Rapp-Hooper, a visiting fellow at the Brookings Institution’s Centre for Asia Policy Studies, said, "What we’ve seen is kind of testing and probing by both sides to understand what can be done competitively, while still keeping that leader-level rapprochement on track." The US has recently targeted Chinese telecommunications and surveillance equipment, companies accused of using forced labour in Xinjiang, and China’s advanced robots and drones. The Pentagon has also barred Alibaba, BYD, Baidu and other major Chinese businesses from getting US defence contracts. Beijing responded with export controls on drones and 
+
+Tariffs remain another difficult issue. After the Supreme Court struck down Trump’s tariffs on trade partners this year, his administration began trying other ways to impose them. In July, the White House announced a 12.5 per cent tariff on imports from 60 trading partners, including China, saying they had failed to do enough to stop the import of goods made with forced labour. The US is also planning an additional 7.5 per cent tariff on China, accusing it of producing far more goods than it can reasonably consume. Analysts say the current tariff levels are acceptable to both sides, but warn that any major increase could raise tensions again.
+
+Iran and Taiwan are also expected to remain sensitive issues. The Trump administration has been trying to isolate Iran from its remaining economic partners, but Beijing has insisted on its right to trade with Tehran. So far, Washington has done little to punish China, partly to avoid harming the summit, while also losing leverage because China, Iran’s biggest oil buyer and largest trading partner, has been developing ways to make payments outside the US-led financial system, according to Alicia Garcia Herrero, an Asia-Pacific economist at French investment bank Natixis. On Taiwan, which Beijing claims as its own territory, Trump paused a large weapons package after his May trip to Beijing, though US law requires Washington to provide the island with enough hardware and technology for self-defence. Analysts say Xi is likely to press Trump to delay arms sales further in an effort to raise doubts in Taiwan about Washington’s commitment.
+
+The summit is therefore expected to focus less on a breakthrough and more on keeping the relationship from worsening. Even as the US and China try to preserve overall stability, their rivalry over AI, trade, Iran and Taiwan continues to shape the agenda before Trump and Xi meet in Washington.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Sep 22, 2026 10:16 IST
+
+---
+
+### September Bank Strike: Which Banks Will Be Open Or Closed For 5 Days (Sept 26-30)?
+*Mohammad Haris · business*
+
+Bank Strike September 2026: Check which banks may remain closed from September 26 to 30, strike dates, bank holiday schedule, ATM, UPI and net banking services.
+
+[Read full article](https://www.news18.com/business/banking-finance/september-bank-strike-which-banks-will-be-open-or-closed-for-5-days-sept-26-30-10345132.html)
+
+---
+
+### H-1B shock continues: $100,000 fee extended through September 2027
+*Business Standard · business, entrepreneur, finance*
+
+H-1B $100,000 fee requirement extended through September 2027 amid ongoing court challenges
+
+[Read full article](https://www.business-standard.com/immigration/h-1b-shock-continues-100-000-fee-extended-through-september-2027-126092200230_1.html)
+
+---
+
+### IIT Bombay student suicide: CCTV footage shows Sahil being asked to leave exam hall
+*India Today Education Desk · general*
+
+## Fresh CCTV shows Sahil Wakode being questioned and taken out of an IIT Bombay examination hall. The footage is now central to the Crime Branch probe into his movements and the circumstances surrounding his death.
+
+IIT Bombay death probe examines CCTV of Sahil Wakode leaving exam hall
+
+Fresh CCTV footage has emerged in the IIT Bombay student suicide case, showing 22-year-old Sahil Wakode being questioned and later taken out of the examination hall after he was allegedly found using a mobile phone during an exam. The Mumbai Crime Branch is examining the footage as part of its probe into the circumstances surrounding his death.
+
+The footage, recorded by cameras installed inside the examination hall and in nearby corridors, covers the period between around 12:30 pm and 12:45 pm on September 18, when the examination was nearing its end, according to ANI.
+
+Investigators are examining the sequence of events during and immediately after the examination as part of the probe.
+
+### CRIME BRANCH TRACKS SAHIL'S MOVEMENTS
+
+The Crime Branch is also examining CCTV footage from different parts of the IIT Bombay campus to trace Sahil's movements after he left the examination hall.
+
+According to the investigation reported so far, Sahil reached his hostel room at around 1:25 pm. CCTV footage from the campus and hostel is being reviewed to establish his movements between the examination venue and his room.
+
+### SAHIL'S DEATH AND THE ONGOING PROBE
+
+Sahil, a second-year BTech student in IIT Bombay's Department of Energy Science and Engineering, was found dead in his hostel room on September 18.
+
+His death has triggered protests on the IIT Bombay campus, along with allegations by his family of caste-based harassment. Mumbai Police registered a case following the family's complaint, including provisions of the SC/ST (Prevention of Atrocities) Act. The investigation was subsequently transferred to the Crime Branch. The allegations made by the family have not been established.
+
+IIT Bombay had initially said Sahil was found using a mobile phone during the examination and had allegedly uploaded the question paper to ChatGPT to seek answers. The institute later apologised for its earlier communication, saying it was inappropriate to characterise the circumstances preceding his death before they had been established through an investigation.
+
+### FACULTY FORUM BACKS PROFESSOR DOOLLA
+
+Meanwhile, the IIT Bombay Faculty Forum has come out in support of Professor Suryanarayana Doolla, who was the invigilator during the examination.
+
+The Faculty Forum said Doolla was performing his duties as an invigilator and had followed the institute's prescribed procedure after allegedly detecting academic malpractice. It also said he was temporarily relieved of his responsibilities as Dean (Administrative Affairs) to facilitate an independent and unbiased inquiry into the circumstances surrounding Sahil's death.
+
+The Forum has also defended Doolla's academic record and announced a campus march in his support. The development comes amid continuing student protests over the handling of the case.
+
+### STUDENTS SUBMIT 18-POINT CHARTER
+
+The protests have also led to an 18-point charter of demands being submitted to IIT Bombay Director Professor Shireesh Kedare.
+
+The demands include an independent investigation into the circumstances surrounding Sahil's death, reforms to disciplinary procedures, greater student representation, improved counselling and mental-health services, faculty sensitisation programmes, and the creation of a task force involving students, faculty members, mental-health professionals and external experts.
+
+Student representatives have sought an interim report by September 30 and a final report by October 15.
+
+The Crime Branch is continuing to examine CCTV footage from the examination hall, campus and hostel to reconstruct the sequence of events on September 18. The investigation is ongoing, and authorities are yet to establish the circumstances surrounding Sahil's death.
+
+\- Ends
+
+Apoorva Anand
+
+Sep 22, 2026 10:10 IST
+
+---
+
+### Delhi govt launches PM Surya Ghar portal; NDMC clears EVs, Ayush hospital, civic projects
+*SECTIONS Delhi govt launches PM Surya Ghar portal · business*
+
+Delhi Chief Minister Rekha Gupta on Monday launched the ‘Delhi PM Surya Ghar’ registration portal under the PM Surya Ghar: Muft Bijli Yojana, an initiative designed to streamline rooftop solar installations for city residents, according to an official release.
+
+The newly launched portal, solar.delhi.gov.in, serves as a single window for consumers to register for rooftop solar power systems, check available subsidies, view lists of authorised vendors, and lodge grievances. Applications will be processed on a first-come, first-served basis.
+
+Under the scheme, the Union Government offers a financial subsidy of up to ₹78,000 for rooftop solar setups up to 3 kW capacity. The Delhi Government will match this amount with an additional subsidy of ₹78,000, raising the total assistance to ₹1.56 lakh per eligible installation.
+
+  
+
+**Key benefits and coverage details include:**
+
+  
+
+-   Domestic consumers using up to 400 units of electricity per month can get rooftop solar systems of up to 3 kW installed with zero upfront payment.
+-   To accommodate homes with smaller roof areas, the government is encouraging compact installations of up to 2 kW.
+-   Coverage extends to Group Housing Societies, where the common-area solar subsidy has been raised from ₹2,000 per kW to ₹11,000 per kW.
+-   Low-use consumers in the 0–200 unit bracket will receive an additional financial incentive linked to lowering their grid power consumption post-installation.
+-   Authorised vendors will handle full operation and maintenance of the installed systems for the first five years.
+-   The Delhi Government targets equipping approximately 2.30 lakh families with rooftop solar capabilities to accelerate clean energy adoption across the capital.
+
+Power Minister Ashish Sood noted that the initiative would help transition Delhi toward becoming a “Solar Capital,” enabling households to lower their monthly power bills and potentially generate additional income by supplying solar power back to the grid.
+
+**NDMC approves electric vehicles, Ayush hospital and civic infrastructure measures**
+
+Separately,The New Delhi Municipal Council (NDMC) on Monday passed 28 key agendas focused on infrastructure, green mobility, healthcare, and administrative reforms. The key decisions include a one-time amnesty scheme on late payment surcharges for pending water bills, mandatory electric vehicle (EV) procurement for all new council vehicles, and in-principle approval for a 50-bedded Ayush hospital in Sarojini Nagar, according to NDMC Vice-Chairman Kuljeet Chahal.
+
+Speaking to ANI after the council meeting, Chahal emphasized that the measures align with Prime Minister Narendra Modi's vision of a 'Viksit Bharat' by upgrading civic facilities across Delhi and New Delhi.
+
+“A meeting of the NDMC Council was held, and we passed a total of 28 agendas. Fulfilling the Honorable Prime Minister’s vision for a 'Viksit Bharat' (specifically a developed Delhi and New Delhi), we passed 28 agendas today,” Chahal said.
+
+**Key decisions & civic relief measures**
+
+The council approved a one-time amnesty scheme targeting pending water bills, waiving the Late Payment Surcharge (LPSC) to ease financial burdens on residents.
+
+Power billing for Dhobi Ghats will shift from commercial to residential meter rates. “In the social welfare department, for the Dhobi Ghats where our colleagues had been incurring high charges due to commercial electricity meters, we have approved charging them at residential meter rates,” Chahal noted.
+
+To address newly identified unlit zones caused by tree growth and modern developments, the council approved a budget of ₹18.5 to ₹19 crore. “Following observations around the time of the BRICS summit, it was noted that new areas have been developed in NDMC (also through NBCC) and trees have grown, resulting in new dark spots at various locations. To ensure that no dark spots remain, a budget of approximately Rs 18.5 to Rs 19 crore has been approved. New poles with heights ranging between 6 metres and 11 metres will be installed, including foundation work, laying of cables, earthing, and other necessary electrical infrastructure,” Chahal said.
+
+The council resolved to restrict all future vehicle acquisitions to electric models while offering a 50% discount on parking fees for EVs across NDMC-managed lots.
+
+“In line with the Prime Minister's vision to curb pollution, all new vehicles being procured by the NDMC will be electric vehicles. Additionally, we confirmed the decision to provide a 50 per cent discount on parking charges for electric vehicles at our parking lots to encourage green transport and a pollution-free environment,” Chahal explained.
+
+**Healthcare, education, and commercial upgrades**
+
+-   **Rs 55-Crore Ayush Hospital:** The council granted in-principle approval for a 50-bedded Ayush Hospital in Sarojini Nagar, to be jointly funded on a 50:50 basis by the NDMC and the Ministry of Housing and Urban Affairs (MoHUA). “In the health sector, discussions regarding an Ayush Hospital,” Chahal said, adding that detailed plans will be presented shortly.
+-   **Model Examination Centre:** Plans were greenlit for a tech-enabled 'Palika Adarsh Pariksha Kendra' in Moti Bagh, following recommendations by a high-level task force led by Nandan Nilekani. "To ensure transparency, reliability, and tech-driven efficiency with zero scope for malpractice, it will be executed through an open tender/RFP," Chahal added.
+-   **Intelligent Parking Tenders:** Request for Proposals (RFPs) were cleared for three parking clusters expected to bring in over ₹7 crore in monthly revenue through an Intelligent Integrated Parking System. “Parking is a major issue in the NDMC area. The RFP for parking tenders across three clusters (Cluster 1, Cluster 2, and Cluster 3) has been approved. This will generate a minimum monthly revenue of over Rs 7 crore,” he said.
+-   **Connaught Place Escalators:** The council gave in-principle approval to replace aging and faulty escalators throughout Connaught Place with modern units.
+
+The meeting was chaired by Delhi Public Works Department (PWD) Minister Parvesh Sahib Singh. Key attendees included Member of Parliament Bansuri Swaraj, NDMC Chairman Manoj Dwivedi, Vice-Chairperson Kuljeet Chahal, MLA and NDMC member Virender Singh Kadian, council members Dinesh Pratap Singh, Anil Valmiki, and Sarita Tomar, alongside NDMC Secretary Rahul Singh.
+
+---
+
+### These three credit cards can earn upto 10% cashback on UPI spends | Mint
+*Shipra Singh · economy*
+
+UPI credit cards are changing the landscape of digital payments by transforming them into a rewarding experience. **(Pixabay)**
+
+Summary
+
+UPI-linked credit cards are making everyday QR payments more rewarding, but higher cashback often comes with app restrictions, spending thresholds, caps and exclusions.
+
+UPI credit cards are turning everyday QR-code payments into an opportunity to earn credit card rewards.
+
+This category started with banks allowing RuPay credit cards to be linked to Unified Payments Interface (UPI). It has since expanded, with fintechs such as Jupiter, Kiwi, Kredit.Pe and super.money tying up with banks to offer cards that reward UPI payments through their apps. Rewards are typically cashback or in-app currency redeemable for purchases and benefits on those platforms.
+
+Most UPI credit cards have eligibility criteria suited to low-income professionals. Basrani said banks consider income, existing debt obligations and credit history. “Some banks also issue cards to new-to-credit customers after assessing additional income documents such as salary slips or income tax returns,” he said.
+
+They can be a good choice for first-time cardholders, who can route day-to-day UPI spends through the card, pay bills on time and build a credit history.
+
+Those seeking rewards can choose cards offering cashback or other rewards on UPI spends. But most are offered with fintechs and require payments through their apps to earn higher rewards, rather than through the UPI app you already use.
+
+“Most highly rewarding credit cards on UPI spends are co-branded cards with fintechs. Users can maximize rewards only by directing eligible UPI spends through their respective apps and maximizing redemption options offered on the same app,” said Sumanta Mandal, founder, TechnoFino.
+
+For instance, HDFC Bank’s Tata Neu Infinity card rewards UPI payments made using the Tata Neu UPI ID as well as spends on Tata brands such as BigBasket, Croma, Westside, Tata 1mg, Tata Cliq, Titan and IHCL hotels.
+
+## **Most rewarding cards**
+
+_Mint_ spoke to companies that review cards and narrowed the choice to these three options— Jupiter's Edge+ CSB Bank RuPay card, The Kredit.Pe Yes Bank ACE card and Kiwi Klick cards. All three carry no joining or annual fee.
+
+Jupiter's Edge+ CSB Bank RuPay card has one of the highest potential reward rates, but higher rewards are restricted to shopping and travel bookings through the app and have spending thresholds and caps.
+
+From 10 October, the card will give 50% back in Jupiter Jewels (in-app currency) on shopping with brands such as Amazon, Flipkart, Myntra, Tata Cliq and Croma, among others, if total spends during the billing cycle exceeds ₹15,000. If the threshold is not met, users will get only 5% Jewels. All other UPI spends too get 5% Jewels.
+
+One Jewel is worth ₹0.20 when redeemed on the app to buy digital gold, brand vouchers or book flights. At this value, 50% Jewels translates into a maximum 10% return. The value is lower for statement credit or cash, where one Jewel is worth ₹0.14. Further, shopping rewards are capped at 10,000 Jewels per statement cycle, 3,000 Jewels per merchant and 1,000 Jewels per transaction. Depending on spending and redemption category, you can expect up to 10% reward on shopping-
+
+The Kredit.Pe Yes Bank ACE card is simpler for users seeking UPI cashback. The card is currently offering 3% cashback on UPI payments made through the Kredit.Pe app, with no caps. The reward rate bumps up to 5% for spending over ₹10,000 in a month. The cashback is credited in the Kredit.Pe wallet, which can be used to buy gift cards of different e-commerce, food delivery and other lifestyle spending platforms. If you want to use the cashback for essential spending, you can get Amazon Pay vouchers and use them to pay utility bills.
+
+The third option is the Kiwi Klick card, offered with Yes Bank, AU bank and PnB bank. It gives 1.5% cashback on eligible scan and pay UPI transactions through the Kiwi app. You can increase the reward rate by buying a Kiwi Neon membership, which costs ₹1,179 annually (including GST). Neon gives 2% on scan and pay transactions, which goes up with annual milestone rewards— 3% after ₹50,000 of eligible annual spending, 4% after ₹1 lakh and 5% after ₹1.5 lakh.
+
+Users who naturally cross these milestones will get more value from Neon. However, there is little reason to spend extra to reach a milestone because additional cashback can be offset by unnecessary purchases.
+
+The monthly cashback is limited to 1% of your credit limit. While there is no fee on Yes bank and AU bank linked cards, PnB linked cards may charge an annual fee.
+
+Kiwi Klick and Jupiter's Edge+ card do not earn rewards on several spending categories, including utilities, insurance, education, government payments, fuel and financial institutions, among others.
+
+The card you pick should match your existing spending pattern. Shetty suggested tracking spending for a month before choosing a card and checking the reward structure, spending caps and how cashback is credited. Most importantly, do not change how you spend just to maximize rewards. A 3%, 5% or even 10% return will not compensate for credit-card interest if the bill is not paid in full by the due date.
+
+### About the Author
+
+Shipra Singh
+
+Shipra joined Mint’s personal finance team in September 2021, and writes on tax, credit cards, banking, estate planning and investments. She began her career in personal finance as an intern with Outlook Money magazine in 2017, and has since worked with The Economic Times and Entrepreneur India as a business journalist covering fintech and emerging financial services.<br><br>Over the years, she has reported on key aspects of household finance, tracking regulatory changes, market trends and evolving consumer behaviour. Shipra’s main beats are tax and banking products, with a focus on compliance gaps and their real-world impact for readers navigating complex financial decisions. Her reporting on GST and personal tax, particularly foreign asset disclosures and NRI taxation, has contributed to wider policy discussions and subsequent changes.<br><br>She also interviews market experts for the Mint Money podcast, covering topics ranging from stock market investing to how credit scores shape financial outcomes and access to credit.<br><br>Shipra has a keen interest in data-driven analysis and writing human-centric features that explore how people’s habits around spending, investing and wealth creation are evolving. Her work focuses on helping readers make informed financial decisions in an increasingly complex economic landscape.<br><br>Shipra holds a Bachelor’s degree (Honours) and a Master’s in English Literature from Delhi University.
+
+## Topics
+
+-   #upi
+-   #credit cards
+-   #Credit card reward points
+-   #personal finance
+
+---
+
+### Trump heads to UN as Iran war and oil jitters darken global outlook
+*India Today World Desk · general*
+
+## Donald Trump will address the UN General Assembly as the Iran war and oil turmoil dominate the agenda. His speech and meetings will test US diplomacy on security, energy and strained alliances.
+
+Image used for representational purposes only
+
+US President Donald Trump is set to address the UN General Assembly on Tuesday at a difficult moment for both the world and his presidency. The global economy has been shaken by his decision to launch a war against Iran, concern is rising over the social impact of artificial intelligence, and questions remain over the future of the United Nations after Trump scaled back US financial support for the body.
+
+After his speech to the annual gathering of world leaders, Trump is expected to hold talks with new British Prime Minister Andy Burnham, Japanese Prime Minister Sanae Takaichi and Venezuela's acting president Delcy Rodrguez. He is also due to meet leaders and senior officials from Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and the United Arab Emirates to discuss the war in Iran and concern over recent attacks on Saudi Arabia by Iran-backed rebels. Even as the war has hurt Republican hopes before the midterm elections, administration officials say Trump will argue that the world is better off under his leadership.
+
+Ambassador Mike Waltz, Trump's chief envoy to the international body, said: "We expect the president will highlight how he has and his administration have confronted complex problems head-on around the world." Waltz also suggested Trump may return to some of his long-running criticism of the UN. The president has described the organisation as ineffectual on issues of war and peace, said it is pushing a "con job" by stressing the need to address global warming, and claimed it has encouraged the "invasion" of migrants into Europe.
+
+The war in Iran is expected to dominate much of the backdrop to Trump's speech. In last year's address, he said the US had "completely demolished" Iran's nuclear capabilities after ordering the June 2025 bombardment of three key facilities. He returns to the General Assembly with the war nearing its seventh month, insisting it is necessary to deal with a nuclear threat from Iran. The conflict has, however, become more complicated even though US and Israeli strikes have killed much of Iran's top leadership and destroyed its air force and navy, while a US blockade of Iranian oil has left Tehran in economic trouble.
+
+Oil shipments from other Gulf countries through the Strait of Hormuz have improved in recent weeks, with the US Navy helping guide commercial vessels through the narrow waterway. Even so, the flow remains well below pre-war levels, and Brent crude is still hovering around USD 100 per barrel, up from about USD 70 in the weeks before the war began. The energy market remains uneasy. Saudi Arabia shut a key pipeline earlier this month after it came under attack from Iran-backed militants in Iraq, while advances by Yemen-based Houthi rebels near the Bab al-Mandab Strait have made the Red Sea shipping route dangerous for oil carriers.
+
+Majed al-Ansari, chief spokesman for the Qatari Foreign Ministry, said on Monday that Qatar and other mediators were trying to bridge a "deep deficit of trust" between the US and Iran and get both sides back to negotiations. Speaking at the Concordia Annual Summit during the UN's high-level week, he said: "What we're trying to say is that, Listen, this will end at the negotiating table. Either we sign a deal now or sign a deal 10 months away. The only difference is the number of dead and destruction that we see."
+
+On the sidelines of the General Assembly, the Trump administration is also set to sign an agreement with Danish and Greenlandic leaders on expanding the US military's footprint on Greenland. The deal was announced last week after Trump repeatedly threatened to "take over" Greenland, a territory of NATO ally Denmark, by military force if necessary. Under the agreement, Greenland will remain part of Denmark. Danish Prime Minister Mette Frederiksen said: "I'm looking forward to the meeting tomorrow. I think we have reached a good agreement."
+
+Trump could also refer to Russia's war against Ukraine, a conflict he had said during the 2024 campaign would be resolved on the first day of his second term. He has increasingly voiced frustration over Ukraine's strikes on Russia's diesel refineries and Russia's attacks on Ukraine's energy grid. Last week, Trump said he had secured agreement from both sides not to target each other's energy infrastructure. Ukrainian President Volodymyr Zelenskyy said he was willing to accept the plan if Russia followed it, while Russia said it could do so only if Western energy sanctions on Moscow were lifted. The strikes have continued. Before leaving for New York on Monday, Trump posted: "Russia has unfortunately lost control of its Diesel Oil Industry due to its War with Ukraine." He added: "This ridiculous and never ending War with Ukraine must be ended."
+
+Trump's meetings in New York are also being closely watched. His talks with Burnham will be their first face-to-face meeting since the Labour leader became prime minister in July. With high oil prices weighing on the British economy, Burnham may also want to discuss ways to fully reopen the Strait of Hormuz. He announced on Monday that he would send a Royal Air Force plane to the Middle East to help Saudi Arabia repel Houthi attacks, with the aircraft set to refuel Saudi planes during "defensive" missions. Trump's meeting with Takaichi comes ahead of Chinese President Xi Jinping's state visit to Washington later this week. Tensions between Japan and China have sharpened after Takaichi said last year that Japan's military could intervene if China moved against Taiwan, affecting the wider economic relationship. Trump's engagement with Rodrguez will be their first meeting since he ordered a US military operation in January to capture former Venezuelan President Nicols Maduro and take him to New York to face federal narco-terrorism and drug trafficking charges.
+
+Trump's UN visit, therefore, comes with the Iran war, energy market worries, the Greenland agreement, the Russia-Ukraine conflict and a series of leader-level meetings all in focus, as he makes his case to world leaders at a tense moment in global affairs.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Sep 22, 2026 10:08 IST
+
+---
+
+### A Bangladeshi garment maker is stitching its way through the Middle East energy crunch
+*Reuters · business*
+
+Savar, Bangladesh: A gas and power crisis has hit production at most Bangladeshi garment makers, but at 4A Yarn Dyeing, a supplier to Walmart, Gap and Next, workers stitch hoodies and attach brand logos uninterrupted, at least for now.
+
+Since 2019, 4A has generated its own power, including through solar panels, making it an exception in Bangladesh's garment industry, the world's second-biggest exporter after China. The Middle East crisis has worsened energy shortages in the country where much of the electricity is generated using natural gas, furnace oil and diesel.
+
+A recent survey of 134 knitwear factories found that 55% had seen buyers cancel or cut orders because of gas and power shortages since late August, and 78% had partially halted production. The factories also reported shipment delays and discounted orders to buyers.
+
+  
+
+But that's not yet the case at 4A, whose factory on Dhaka's outskirts employs nearly 7,500 workers and meets around 40% of its electricity needs through solar, the rest mainly through its own gas and diesel generation.
+
+"We never stayed at a single-source energy dependency. We had backups for everything," said company co-owner Abdullah Hil Nakib. "We need some sort of certainty. But the cost of doing business has increased. First there was a shortage of oil, then a shortage of gas."
+
+Costlier diesel has pushed 4A's production costs up by 2% to 3%, adding up to 5 million taka ($40,950) to its monthly fuel bill, he said.
+
+The pressure on factories intensified on Monday after Bangladesh raised fuel prices by up to 17.4%, a move the government said was necessary because of soaring global prices and higher shipping costs due to the Middle East conflict triggered by US-Israeli attacks on Iran in February.
+
+To reduce future disruptions, 4A plans to install an industrial-scale battery system that would allow operations to continue for several hours if power sources fail.
+
+"We've been able to absorb the extra costs, but not every factory can afford to do that," said Nakib, whose factory roofs are nearly covered in solar panels.
+
+## STEEP FUEL PRICE HIKE TO PILE MORE PRESSURE
+
+Soaring gas import costs are slowing the country's industrial growth, causing electricity outages and hurting spending on development projects due to higher gas subsidies, Bangladesh's power minister said last week.
+
+Bangladesh's ready-made garment sector accounts for more than 80% of export earnings, employs about 4 million workers and contributes around 10% to gross domestic product.
+
+Some manufacturers have incurred additional costs by shipping goods by air or offering discounts to meet delivery deadlines after energy-
+
+"Our margins are already very thin, and the fuel price hike will squeeze them further," said garment exporter Shahidullah Azim. "It is becoming increasingly difficult for us to absorb higher production and transportation costs while remaining competitive."
+
+Azim said a Canadian buyer that had been expected to order 25,000 pieces ultimately placed an order for only 8,000, which he attributed to declining buyer confidence amid Bangladesh's economic and energy challenges.
+
+Companies may be able to pay higher fuel costs, but gas shortages and power cuts are more worrying for some, given that those problems are not as intense in competitors like Vietnam and India, said Mohiuddin Rubel, additional managing director of Denim Expert Ltd, which supplies to brands including H&M.
+
+"Whether we hold our position against other sourcing countries or lose ground to them depends on how well we manage it," he said.
+
+($1 = 122 taka)
+
+---
+
+### Kiran Mazumdar-Shaw has a career lesson from 3 Nobel prize winners as AI forces layoffs and changes jobs across the world
+*Trending Desk · business*
+
+As artificial intelligence changes the nature of jobs and companies continue to restructure their workforces, Biocon chairperson Kiran Mazumdar-Shaw has shared a simple career message inspired by three Nobel Prize winners. Mazumdar-Shaw shared a post from the official Nobel Prize account featuring 2023 laureates Katalin Karikó, Claudia Goldin and Anne L’Huillier discussing failure and persistence. Along with the video, she wrote: “Never give up. You may have a thousand reasons to let go but always find that one reason to hold on.”
+
+The message comes at a time when workers across industries are dealing with rapid changes brought by AI, automation and shifting business requirements. For some, that has meant learning new skills. For others, it has meant changing roles or dealing with layoffs.
+
+  
+
+## What the three Nobel winners said about failure
+
+The Nobel Prize video features Karikó, Goldin and L’Huillier reflecting on their experiences with setbacks and the need to continue pursuing their work. One of the messages in the video is: “When you fail, be obstinate… never give up.”
+
+  
+  
+
+Karikó's career provides a notable example of persistence. Her work on mRNA technology faced years of rejection and setbacks before the technology became an important part of the development of COVID-19 vaccines.
+
+Goldin and L’Huillier also speak about challenges and failures they encountered during their careers. Their message is not about avoiding setbacks but about continuing to work through them.
+
+  
+
+## Mazumdar-Shaw’s post amid AI changing jobs
+
+The workplace has changed significantly in recent years. AI tools are being introduced into writing, coding, customer service, research, marketing and several other functions. Companies are also reviewing which tasks need people, which can be automated and what skills employees will need next.
+
+That has created uncertainty for many workers. A job that looks secure today may involve very different responsibilities tomorrow. Some employees are being asked to work with AI tools, while others are having to acquire new skills to remain relevant as businesses change.
+
+Against that backdrop, Mazumdar-Shaw's message takes on a wider career meaning. Her post does not specifically mention AI or layoffs, but the timing makes the idea of persistence relevant to workers navigating an uncertain job market.
+
+## Mazumdar-Shaw faced challenges in building business
+
+Mazumdar-Shaw's own professional journey has involved building a biotechnology business in India at a time when the sector was still developing. Biocon grew from a small beginning into a major biopharmaceutical company, and Mazumdar-Shaw has spoken over the years about the challenges involved in building a business in a field that was not widely established in India when she started.
+
+For a scientist, persistence can mean continuing an experiment after repeated failures. For an entrepreneur, it can mean staying with a business through difficult years. For an employee facing workplace disruption, it could mean learning a new skill or finding a different role. There is also a practical side to the message. Never giving up does not necessarily mean staying in the same job, company or career path. In a changing workplace, continuing may sometimes require changing direction.
+
+That is what makes the message from the Nobel laureates relevant beyond science. Mazumdar-Shaw's post was brief, but its timing has given the message a wider context. As AI reshapes jobs and workers face uncertainty about what comes next, the lesson she chose to share was straightforward: setbacks can be a reason to rethink the path, but they do not have to be a reason to stop moving forward.
+
+---
+
+### Only 5 large & mid-cap funds cross 7% in 1 year, while category average stays at 0.04%; here're the top performers | Mint
+*Kirti Jha · economy*
+
+## Large & mid-cap funds delivered an average return of just 0.04% in the past year, but individual fund performance varied widely. Only five of 32 schemes returned more than 7%, while seven funds ended the year in negative territory.
+
+The difference between the best and worst-performing funds was substantial. HSBC Large and Mid Cap Fund gained 9.15% in one year, while Samco Large & Mid Cap Fund fell 6.29%. (AI-generated image used for representational purpose.)
+
+Large & mid-cap mutual funds have delivered almost no return on average over the past year, with the category average standing at just 0.04%. However, the headline average masks a wide gap in performance across individual schemes.
+
+Only five of the 32 funds in the category delivered returns of more than 7% over the past one year. HSBC Large and Mid Cap Fund topped the list with a 9.15% return, followed by Quant Large and Mid Cap Fund at 8.74%. Motilal Oswal Large and Midcap Fund, Sundaram Large and Mid Cap Fund and Invesco India Large & Mid Cap Fund were the other three schemes to cross the 7% mark.
+
+At the other end, seven funds delivered negative returns over the same period, with Samco Large & Mid Cap Fund declining 6.29%.
+
+## Only five funds crossed the 7% mark
+
+HSBC Large and Mid Cap Fund delivered the highest one-year return in the category at 9.15%, while Quant Large and Mid Cap Fund followed at 8.74%.
+
+Motilal Oswal Large and Midcap Fund returned 7.44%, Sundaram Large and Mid Cap Fund delivered 7.21% and Invesco India Large & Mid Cap Fund returned 7.04%.
+
+**Fund**
+
+**1-year return**
+
+HSBC Large and Mid Cap Fund
+
+9.15%
+
+Quant Large and Mid Cap Fund
+
+8.74%
+
+Motilal Oswal Large and Midcap Fund
+
+7.44%
+
+Sundaram Large and Mid Cap Fund
+
+7.21%
+
+Invesco India Large & Mid Cap Fund
+
+7.04%
+
+Source: Value Research. Data as of 21st September 2026.
+
+The difference between the category average and the top-performing fund is significant. HSBC Large and Mid Cap Fund's 9.15% return was more than nine percentage points above the category average of 0.04%.
+
+However, returns fell below 7% quickly after the top five. Bank of India Large & Mid Cap Fund delivered 6.01%, followed by Helios Large & Mid Cap Fund at 5.20% and Axis Large & Mid Cap Fund at 4.92%.
+
+## How did the largest funds perform?
+
+The largest schemes by net assets were not among the top five performers.
+
+Mirae Asset Large & Midcap Fund, the largest fund in the category with ₹45,811 crore in net assets, delivered a 1.87% return over one year. SBI Large & Midcap Fund, with ₹42,336 crore, returned 0.94%.
+
+ICICI Prudential Large & Mid Cap Fund, with ₹33,592 crore in assets, delivered 0.17%, while Kotak Large & Mid Cap Fund returned 0.87%. HDFC Large & Mid Cap Fund, with ₹30,294 crore, was down 0.29%.
+
+**Fund**
+
+**1-year return**
+
+**Net assets**
+
+Mirae Asset Large & Midcap Fund
+
+1.87%
+
+₹45,811 crore
+
+SBI Large & Midcap Fund
+
+0.94%
+
+₹42,336 crore
+
+ICICI Prudential Large & Mid Cap Fund
+
+0.17%
+
+₹33,592 crore
+
+Kotak Large & Mid Cap Fund
+
+0.87%
+
+₹32,325 crore
+
+HDFC Large & Mid Cap Fund
+
+\-0.29%
+
+₹30,294 crore
+
+Canara Robeco Large and Mid Cap Fund
+
+\-2.66%
+
+₹26,331 crore
+
+Bandhan Large & Mid Cap Fund
+
+3.66%
+
+₹21,020 crore
+
+Motilal Oswal Large & Midcap Fund
+
+7.44%
+
+₹20,159 crore
+
+Source: Value Research. Data as of 21st September 2026.
+
+The numbers show that a larger asset base did not necessarily translate into a higher one-year return. Several of the category's biggest funds delivered returns below 2%, while some smaller schemes were among the better performers.
+
+## A wide gap between the best and worst performers
+
+The difference between the best and worst-performing funds was substantial. HSBC Large and Mid Cap Fund gained 9.15% in one year, while Samco Large & Mid Cap Fund fell 6.29%. That represents a 15.44 percentage-point gap between the two ends of the category.
+
+Seven of the 32 funds delivered negative returns. These included HDFC Large & Mid Cap Fund at -0.29%, PGIM India Large and Mid Cap Fund at -0.30%, Nippon India Vision Large & Mid Cap Fund at -1.32%, DSP Large & Mid Cap Fund at -1.64%, Franklin India Large & Mid Cap Fund at -2.64%, Canara Robeco Large and Mid Cap Fund at -2.66% and Samco Large & Mid Cap Fund at -6.29%.
+
+The one-year data therefore presents a very different picture from the category average alone. While the large & mid-cap category was almost flat at 0.04%, individual fund returns ranged from a gain of 9.15% to a loss of 6.29%.
+
+For investors, the numbers highlight the extent of performance dispersion within the category. However, a one-year return alone does not establish whether a fund is suitable for an investor or whether it should be switched.
+
+### About the Author
+
+Kirti jha
+
+Kirti Jha is a Senior Content Producer at Mint, where she writes on mutual funds, taxation, personal finance and macroeconomic developments. Her reporting focuses on helping readers understand complex financial developments through data-driven, research-backed stories that explain how policy changes, market trends and regulatory decisions affect investors and households. <br><br> Before joining Mint, Kirti worked at ET Money, where she specialised in mutual fund research and investment analysis. She tracked portfolio disclosures, fund manager strategies, sectoral allocation shifts and investment trends, distilling large datasets into investor-focused insights. Her work combined quantitative analysis with consumer-centric storytelling, enabling readers to better understand fund positioning, portfolio changes and long-term investment opportunities.<br><br> Kirti holds a Bachelor's degree in Economics from Indraprastha College for Women, University of Delhi, and a Master's in Finance from the Jindal School of Banking & Finance at O.P. Jindal Global University. Her academic training emphasised analytical thinking, quantitative research and financial decision-making, providing a strong foundation in understanding capital markets, financial systems and economic policy. With a combined experience in investment research and financial journalism, she is committed to producing accurate, accessible and insightful journalism that empowers readers to make well-informed financial decisions.
+
+
+---
+
 ## 21 September 2026
 
 ### Lucknow biryani stall owner brutally beaten, police seize meat for test
