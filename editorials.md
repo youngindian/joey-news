@@ -1,8 +1,234 @@
 # Editorials
 
-_Last updated: 2026-09-22 06:39 UTC_
+_Last updated: 2026-09-23 06:28 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 23 September 2026
+
+### Freezing democracy: On the Election Commission of India and West Bengal
+*The Hindu · Editorial*
+
+Almost 28 years after Mamata Banerjee set up the All India Trinamool Congress and designed its symbol of ‘grass and flowers’, the Election Commission of India (ECI) on September 17, 2026, froze the party’s name and symbol. The 14-page order stated that since two rival groups — one led by Ms. Banerjee and the other by Arup Roy — are now claiming to be the party, the matter requires “substantive determination”, and neither group can use the party’s name or symbol. The ECI has allotted new names and symbols to both groups. The ECI’s move has effectively denied Ms. Banerjee of her party’s name and symbol. For nearly three decades, crores of voters have placed their faith in the party’s name and symbol, elected Ms. Banerjee as Chief Minister of West Bengal three times, and sent scores as its MPs to Parliament. Even in the April 2026 West Bengal Assembly polls, 41% of the electorate, or more than 2.60 crore voters, voted for Ms. Banerjee’s party, while the margin between it and the Bharatiya Janata Party was only about 32 lakh votes. Opposition parties, including the Congress, have said that similar attempts to freeze the name and symbol were made in the case of the Shiv Sena, calling such action of freezing the name and the symbol as “party theft” and a case of democratic decline.
+
+Political parties are organic entities that keep democracy vibrant and alive and any attempts to engineer their dissolution is an attack on the very foundations of India’s democracy. If a political party has to wither away, it should happen only through the determination of the people. Serious questions have been raised about the role of the ECI, which held the West Bengal Assembly polls in 2026 after a hurriedly organised Special Intensive Revision (SIR) of the electoral rolls that left lakhs of voters out, and is now freezing the name and symbol of the principal Opposition party. Free and fair elections form the bedrock of the republic. When political parties, which are engines for ensuring that the will of the electorate is reflected through free and fair elections, are dismantled and stripped of their names and symbols, the ECI cannot absolve itself of responsibility or hide behind processes and practices. The BJP leadership in West Bengal has repeatedly claimed that, after the Assembly polls, there would be no existence of the Trinamool Congress as a party. The ECI’s acts of omission and commission clearly suggest that it is acting in tandem with the interests of the BJP.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/freezing-democracy-on-the-eci-and-west-bengal/article71495672.ece)
+
+---
+
+### Water wealth: On groundwater exploitation in Punjab
+*The Hindu · Editorial*
+
+That Punjab is over-extracting groundwater is not news. According to the 2025-26 Dynamic Groundwater Assessment, its groundwater extraction rate was 152%. While interventions reduced the number of ‘over-exploited’ blocks by five over the last two assessments, 72% of its 153 blocks are in the ‘red zone’, the highest among States. The principal consumer is irrigation for rice and wheat, amounting to nearly 25 billion cubic metres a year in the latest estimate. Data also show that the fraction of observation wells with water below 40 metres in the post-monsoon period grew by two percentage points between 2022 and 2025. What began as a strategy to improve food security eventually yielded a concentrated rice-wheat cropping system, in which assured procurement, subsidised electricity and access to groundwater made high-yield varieties, intensive irrigation and fertilizer use and mechanisation less risky than alternative modes of cultivation. In the same vein, the reluctance of the region’s farmers to pursue other crops due to uncertainties in storage options, prices, processing infrastructure, and supply chains has gone relatively unaddressed. But as the water crisis persists, the wealth gap among farmers is also widening. A recent study in the Economic and Political Weekly noted that while farmers with marginal landholdings use water more efficiently, wealthier farmers are better equipped to access lower water tables as well as draw higher volumes. So, as the water table drops, those unable to afford the requisite tube wells are forced to buy water, transferring their wealth to larger landowners and creating unregulated dependencies. A different study by two members of the same team, published in Discover Sustainability, reported that in Sangrur and Barnala, larger farms earned higher returns but recorded lower groundwater productivity vis-à-vis paddy, than smaller farms. Effectively, groundwater depletion raises the capital required for irrigation, which systematically privileges those farmers with better access to finance.
+
+State governments continue to attempt to address the demand pressure in multiple ways even as the scale continues to overwhelm the resulting gains in efficiency. At this juncture, together with those efforts, the State should also endeavour to protect farmers’ incomes and access to irrigation while rendering the cost of additional extraction prohibitive. The ‘Pani Bachao, Paisa Kamao’ scheme, in which farmers are entitled to cash for every unused kilowatt-hour (for pumping) under a threshold, is already promising, albeit with low enrolment. Broadly, the State should use part of the electricity subsidy bill to directly support smallholder farmers, help collectivise irrigation infrastructure, and/or support farmers’ transition to other crops. When benefits follow the cultivator, including tenants, rather than owners of the land or pumps, welfare can subsidise access to water rather than groundwater extraction.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/water-wealth-on-groundwater-exploitation-in-punjab/article71495725.ece)
+
+---
+
+### Haifa — a century-old battle, the politics of memory
+*The Hindu · Opinion*
+
+The September 23, 1918 Battle of Haifa occupies a curious place in the intertwined histories of India, Israel, and Palestine. What was, in military terms, a small but tactically significant cavalry action in the final phase of the First World War has, over the past century, become a site of layered remembrance, celebrated, contested, reclaimed, and reinterpreted by different communities for different purposes. Remembering Haifa today requires navigating not only the battlefield itself but also the shifting terrain of postcolonial identity, diplomatic symbolism, and the moral ambiguities of imperial history.
+
+For India, Haifa is often invoked as a symbol of the extraordinary global footprint of Indian soldiers during the First World War. More than a million Indians served overseas, from Flanders to Mesopotamia, and over 74,000 died in a war not of their own making. The cavalry charge at Haifa, executed by the Jodhpur, Mysore, and Hyderabad Lancers, stands out as one of the most dramatic episodes of Indian valour abroad. Contemporary British war diaries describe the action as decisive in securing the port city and enabling the Allied advance northwards to Damascus. It was also, for military buffs, one of the last great cavalry charges, and featured the 15th Imperial Service Cavalry Brigade which overcame principally Ottoman forces. The complication is that the Indian forces were under British command — and many Palestinian Arabs were on the side of the Ottomans.
+
+Related StoriesHaifa day: Deterioration of memorial in Basra distresses families of martyrs
+
+Haifa Liberation Day: Over a century-old war memorabilia rests in a family home connected with erstwhile Mysore royals
+
+Tales of war: Family members share stories of Mysore Lancers from Battle of Haifa
+
+Saluting soldiers of yore: remembering the Battle of Haifa
+
+Mysore Lancers’ tryst with Haifa
+
+Reclaiming military historyIn the decades since Independence, Haifa has become part of a broader effort to reclaim India’s military history from the shadow of the empire. The soldiers who fought there were colonial subjects, but their courage and sacrifice belong to India’s national story. Commemorating Haifa thus becomes an act of historical recovery: an assertion that Indian agency existed even within the constraints of imperial command.
+
+Related StoriesThe Haifa narrative also illustrates how postcolonial nations reinterpret their pasts to assert dignity and continuity. For India, celebrating the battle (and renaming a First World War memorial as “Teen Murti Haifa Chowk”) is a way of acknowledging that its soldiers shaped world events long before the country became a sovereign republic. For Israel, the memory of Indian cavalry “liberating” Haifa has been woven into a narrative of gratitude and friendship, symbolised by memorials and annual ceremonies. These commemorations serve diplomatic purposes, but they also reflect a genuine historical connection.
+
+Yet, this reclamation of agency is complicated by the fact that the soldiers themselves had no say in the political consequences of their actions. They fought bravely, but they fought under a flag not their own, in a war whose outcomes would reshape West Asia in ways that continue to reverberate.
+
+This is where the moral ambiguity of Haifa becomes unavoidable. The Indian cavalry’s victory helped secure British control over Palestine, enabling the implementation of the Balfour Declaration and the subsequent political transformations that led to the creation of Israel. For many Palestinians, this is not a story of liberation but of dispossession. When Palestinian representatives say to Indians celebrating the Battle of Haifa, “We did not ask you to liberate us,” they are not questioning the bravery of Indian soldiers but the imperial project in which that bravery was embedded.
+
+Unseen, unsung, unheralded: the monument of the fallenThis tension highlights a broader challenge in remembering colonial-era military history. Acts of courage can coexist with outcomes that later generations view with discomfort or regret. The soldiers who charged up the slopes of Mount Carmel did not choose the geopolitical consequences of their victory. Yet, those consequences shape how different communities remember the battle today.
+
+As a diplomatic bridgeIn recent decades, Haifa has acquired new significance as a symbol of India-Israel friendship. Indian leaders have visited the Haifa memorial; Israeli officials have spoken warmly of the Indian role in the city’s history. These gestures reflect the deepening strategic partnership between the two countries, but they also demonstrate how historical memory can be mobilised to strengthen contemporary ties.
+
+At the same time, this diplomatic embrace has sparked debate among historians. Some Israeli scholars argue that the Indian role has been overstated, and that the real credit should go to the British and Australian soldiers, a view that partially reflects their discomfort at “owing” much to colonised brown-skinned cavalrymen. Meanwhile, Indian military historians point to British war records that clearly credit the Indian cavalry with the decisive breakthrough. These disagreements are not merely academic; they reflect the politics of national pride and the desire to shape historical narratives in ways that reinforce present-day identities.
+
+The Palestinian critique of the Haifa narrative adds another layer of complexity. For Palestinians, the 1918 campaign is part of a longer story of foreign domination and displacement. From their perspective, the Indian cavalry’s victory facilitated British rule and the subsequent transformations that reshaped their homeland. This view does not diminish the bravery of Indian soldiers, but it challenges celebratory narratives that ignore the lived experience of those who were “liberated”. To many Palestinians, Indians should not be celebrating their role in a colonial project that eventually led to the “naqba” that displaced so many and uprooted them from their homeland.
+
+“For Palestinians,” says their Ambassador to India, Abdullah Mohammed Abu Shawesh, “history is …a tool for affirming roots and shaping the future, particularly in the face of an ongoing campaign against the Palestinian narrative led by the Zionist movement. … It is therefore natural that we, as Palestinians, are highly sensitive to any attempt to manipulate history, as such attempts directly affect our right to exist and to determine our future.” In a letter to this writer, he sees “a clear Israeli effort to link contemporary India with the history of the establishment of Israel”, and questions India’s embrace of the “Israeli narrative”, arguing that the Indian soldiers were not heroes or valorous “martyrs” but “victims” of British colonial exploitation.
+
+Indians, too, have their own ambivalence. Many feel pride in the courage of the soldiers but discomfort at the idea that Indian blood was shed in service of an imperial project that contributed to the dispossession of another people. This tension reflects a broader challenge in postcolonial memory: how to honour the sacrifices of those who served without endorsing the political aims of the empire they served under.
+
+A site of contested memoryThe challenge is that remembering Haifa today requires holding multiple truths at once. There is no denying that Indian soldiers fought with extraordinary courage. But they fought under colonial command, without agency over the political consequences, and their bravery had nothing to do with any Indian national ambitions. Their victory is celebrated in Israel and resented in parts of Palestine.
+
+The battle of Haifa is a symbol of India’s global military legacy, but also a reminder of the moral ambiguities of the empire. It is a diplomatic bridge between India and Israel, but its role in India’s relations with the Palestinian people is morally ambiguous. Haifa, in other words, is many things, but it is above all a site of contested memory.
+
+A mature historical consciousness does not demand choosing one narrative over another. It requires acknowledging the full complexity of the past: the bravery and the burden, the pride and the pain, the honour of the soldiers and the ambivalence of the outcomes. Haifa endures not because it offers a transcendent story, but because it forces us to confront the layered realities of history: that courage can serve causes not chosen by those who display it, that memory can unite and divide, and that the past can illuminate the present only when we are willing to face it in all its complexity.
+
+Shashi Tharoor is the fourth-term Member of Parliament (Lok Sabha) for Thiruvananthapuram (Congress party), the Chairman of the Parliamentary Standing Committee on External Affairs and the Sahitya Akademi Award-winning author of 29 books, including An Era of Darkness: The British Empire in India
+
+[Read full article](https://www.thehindu.com/opinion/lead/haifa-a-century-old-battle-the-politics-of-memory/article71496489.ece)
+
+---
+
+### DC Edit | Manipur: Centre Must Intervene
+*Deccan Chronicle · Editorial*
+
+The situation in Manipur remains a mess. It has been three-and-a-half years since the violent conflict between the Meiteis and the Kukis started. The fires may have died down but the embers continue to snuff out lives.The skirmishes between the Kukis and Nagas that started in February this year in the state continue to flare up leaving the state government exhausted. It is time the country woke up to the simmering discontent among various communities that has the potential to send lives in the border state into a bottomless pit of violence.The Supreme Court was so shocked last week when it was told about the conditions in the relief camps that accommodate the refugees of the Meitei-Kuki conflict that it ordered the chief secretary to update it on the happenings. Estimates say that more than 700 persons died in the camps in the last three years. There were 30-odd unnatural deaths, too. In some cases, people took their own lives in the camps unable to bear the distress. The stark reality is that, while the riots that began on May 3, 2023, took the lives of about 200 people, their impact has caused the death of over three times that number.The Naga-Kuki conflict is the latest to consume the state. More than 30 people belonging to either community besides security personnel have died. The latest in the series are the murders of two Kuki women and a Naga teen.The state government, despite its best efforts, has not been able to address either of the conflicts on its own. The suspected presence of armed rebels who have been part of the decades-old strife makes the situation more complex. It is time the Union government and its agencies who have an understanding of the region come to the aid of the state. Manipur’s mess has deteriorated much; the state alone cannot handle it.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-manipur-centre-must-intervene-1989763)
+
+---
+
+### DC Edit | Xi’s US Visit Signals a Rising US-China Duopoly
+*Deccan Chronicle · Editorial*
+
+Chinese President Xi Jinping’s three-day state visit to the United States this week, barely four months after President Donald Trump travelled to Beijing, is one of the rare gestures by the Communist nation and indicates China's desire to keep the relation between two powerful countries stable.Beijing has described the reciprocal presidential visits within six months as a milestone, while the White House is according Xi a full state welcome. Trump had visited China on May 13. Trump’s visit to Beijing in May followed Xi’s journey to Washington in September 2025.The regular engagement between the two Presidents is part of Trump’s new policy to engage with China, rather than contain it through a web of alliances. This marks a shift towards a US-China bilateral duopoly, sidelining traditional multilateral alliances, and gives it the respect that China demands for its global heft.The timing of the visit is also important as it comes merely days after the US Congress empowered US President Donald Trump to impose up to 100 per cent tariff on any country which trades with Russia and Iran. China is the biggest trade partner of both Russia and Iran. The Chinese President’s visit also comes weeks before the year-long bilateral trade truce, which was struck at Busan in South Korea, is going to end.The bilateral talks between Mr Xi and Mr Trump are expected to focus on trade, technology, Taiwan, strategic minerals and several questions related to global security. The Chinese President is travelling with business leaders, just as Mr Trump took American chief executives with him to Beijing in May. Commercial engagement between both countries could provide ballast to a relationship increasingly dominated by strategic mistrust.Artificial intelligence has emerged as another arena, where the United States and China are competing fiercely. Washington wants to preserve its technological advantage, while Beijing tries to expand its influence in technology. As part of this strategy, Mr Xi proposed to create an Open-Source AI Community for the global south during the recent BRICS summit.Though Taiwan remains the most difficult issue between the US and China, Mr Trump appears keen to introduce realism to avoid confrontation with Beijing. However, Washington continues to maintain its longstanding policy framework and its legal commitments under the Taiwan Relations Act.There is also a wider global dimension to these talks. The United States and China together contribute roughly 42 per cent of the global economy. If they deal with each other at the cost of others, it will create a global duopoly which will be harmful to the global order and strike at the root of the global order, which was created after World War 2.The Trump policy has already forced the members of the Western alliance to close ranks to confront the US, whose demands violate the dharma of the multilateral alliance and violate their national sovereignty. Given the emergence of the G2, the middle powers, including India, Japan, Canada, Australia and the European Union, should coordinate with each other more closely to protect themselves from global bullies.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-xis-us-visit-signals-a-rising-us-china-duopoly-1989768)
+
+---
+
+### Bengaluru PGs: A roof over your head, but is it safe?
+*Deccan Herald · Editorial*
+
+The Greater Bengaluru Authority (GBA)’s submission before the Karnataka High Court that nearly half of the 5,000-odd paying guest (PG) accommodations in Bengaluru East are operating illegally should set alarm bells ringing. The scale across the city and state could be far larger.
+
+The warning acquires added urgency after the recent collapse of a five-storey boys hostel in Delhi’s Satya Niketan, which claimed seven lives. A subsequent survey found that 99% of PGs in the national capital operate without mandatory fire clearances, and less than 30% have approved building plans. Against this backdrop, Justice Suraj Govindaraj issued an 80-point set of directions, noting that existing guidelines were inadequate.
+
+The court has rightly moved away from treating licensing as a one-time exercise and prescribed a continuing, risk-based system of identification, inspection, compliance, and enforcement. Authorities must regulate establishments according to their actual use – irrespective of whether they are called PGs, hostels, co-living spaces, or service apartments – and create a unified digital database of their premises and compliance status.
+
+The directions insist on adherence to sanctioned plans and prohibit unauthorised conversion of parking areas, balconies, staircases, and terraces into living spaces. The stipulated minimum area of 70 sq ft per occupant must be verified. Fire extinguishers, smoke detectors, emergency lighting, clear evacuation routes, and access for fire tenders must be ensured. CCTV is required at entrances, exits, and common corridors.
+
+VTU offers PG courses in Quantum Technology & Electric Vehicle TechnologyPGs for women must have controlled entry, night security, and adequate lighting. Operators cannot suppress criminal complaints, including those relating to sexual harassment or assault, through internal settlements. Violations are to be categorised according to risk, with immediate threats such as blocked fire exits receiving the highest priority.
+
+Depending on the violations, authorities can proceed with closure, sealing, or demolition according to statutory procedures. Importantly, the court has warned that officials who fail to act could be held liable if an untoward incident occurs. The real test is not the breadth of the court’s directions but whether the enforcement machinery has the will and capacity to implement them.
+
+A city that has allowed thousands of establishments to function without basic approvals cannot treat this merely as another compliance exercise.
+
+At stake are the lives of residents, many of them young people who have little ability to judge whether the building they live in is safe. Regulation, however, should not become an excuse for harassment or arbitrary action, nor should procedural delays become a shield for unsafe premises.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/bengalurus-pgs-a-roof-over-your-head-but-is-it-safe-4155831)
+
+---
+
+### Manipur’s camps were meant to offer refuge. They have become another crisis
+*Deccan Herald · Editorial*
+
+Unnatural deaths reported in Manipur’s state-run relief camps extend the trauma for the strife-torn state. Last week, a three-judge bench of the Supreme Court comprising Chief Justice Surya Kant, Justice Joymalya Bagchi, and Justice V Mohana expressed deep concern over the deaths in camps that were set up for the internally displaced persons (IDP) following the Kuki-Meitei clashes in 2023.
+
+The apex court has sought a comprehensive report from the Chief Secretary of the state on 25 recorded deaths and an alleged sexual assault reported from the camps, and measures initiated to address the incidents. Questions have also been raised on the limited number of post-mortems held in connection with the deaths and the meagre compensation – Rs 20,000 to Rs 30,000 – awarded. The Court has directed the State Legal Services Authority to file a status report on the issue.
+
+Ground reports have exposed abysmal living conditions in Manipur’s relief camps, underlining inadequate nutrition, poor sanitation, a shortage of drinking water, and an acute lack of healthcare facilities. Thousands are crowded into temporary shelters, and many families with multiple members are living in cramped spaces. Some camps housing hundreds of residents reportedly have only a few crude toilets. More than 60,000 people were reported displaced after the clashes broke out.
+
+Woman battling gun injuries dies in ManipurThe government estimates that about 24,000 IDPs still reside in relief camps across the state. Violence pushed them out of their homes because the government failed to provide them security. The spate of deaths and the unsafe, unhygienic conditions in the camps have made it clear that the state has also failed in providing any sense of relief to the displaced thousands.
+
+The state government’s inability to curb the initial spurt of clashes caused the violence to escalate. By adopting a position favourable to the Meiteis, the government also complicated the reconciliation process, which remains shaky even after three years. The recent rise in Kuki-Naga tensions has added a layer of uncertainty. The Central government also abdicated its responsibility to the state and its people. There cannot be any justification for a Union government letting a state deteriorate under cycles of violence and lawlessness for over three years.
+
+What the relief camps have exposed is a humanitarian crisis, triggered by an inefficient and apathetic State. Court directives can help set things right, but the larger responsibility to bring normalcy back to the state and fast-track rehabilitation rests with the governments and the political leadership.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/manipurs-camps-were-meant-to-offer-refuge-they-have-become-another-crisis-4155830)
+
+---
+
+### Diwali 2026: Why India needs cleaner, renewable festive lighting
+*Deccan Herald · Opinion*
+
+As Diwali draws near, India begins its annual transformation. Towns and cities slip into a familiar glow, and the country’s rhythms change almost imperceptibly. During long night drives between Bengaluru and Chennai, the highway often feels like a moving festival – arches of high-wattage decorative lights appear suddenly out of the darkness, market squares shimmer, and wedding venues blaze with colour.
+
+In rural Punjab, strings of lights drape over village lanes as if marking a shared national heartbeat. The spectacle is indeed joyous, yet it masks a growing strain on an already stressed electricity grid. What seems harmless at a single celebration becomes a heavy national load when multiplied across thousands of evening events. As illumination peaks, distribution companies must ramp up fossil-fuel thermal plants – a reminder that India’s festive glow must eventually draw from cleaner sources.
+
+Across India, small-scale experiments already show that this transition is not only possible but practical. Solar micro-grids light up parks and night bazaars; portable PV towers power community gatherings; biofuel lamps glow in craft markets. These are functioning models scattered across states, proving that clean illumination can also be reliable and affordable. What India lacks is not technology, but a coordinated national push.
+
+A Diwali-timed call to action – similar in spirit to earlier behavioural campaigns, such as the Prime Minister’s appeal to moderate household gold consumption – could reframe sustainable lighting as an act of civic responsibility rather than personal inconvenience.
+
+For this cultural shift to take hold, national policy must provide clear direction. Lower GST on solar decorative lights, portable batteries, micro-inverters, and biofuel lamps would make clean options affordable for households and small vendors. Accelerated depreciation for event companies can speed up private investment in off-grid systems. These fiscal signals create the first push, making renewable illumination economically sensible rather than aspirational. But policy alone cannot carry the transition; it must be matched by visible and ground-level adoption.
+
+Govt doubles sugar stockholding limit for bulk users to ease festive demandThis is where local governance becomes pivotal. Urban local bodies and panchayats already manage street lighting and public event spaces; extending this mandate to renewable-first norms would turn national policy into everyday practice. When municipalities require market associations to maintain shared solar-battery clusters or mandate clean-energy lighting for civic festivals, they create steady and predictable demand that manufacturers can rely on. Such institutional anchoring lowers the costs for households and small vendors and ensures that clean illumination becomes a routine civic standard rather than an isolated experiment.
+
+The wedding and event industry, long associated with energy-intensive practices, offers an ideal commercial showcase for this shift. Across venues, planners adopting modular solar-storage hybrids are already phasing out noisy diesel generators, cutting emissions and improving local air quality. Evening street markets can rely on shared solar banks, shielding small traders from volatile fuel costs and frequent power disruptions. These decentralised systems also create new economic opportunities, driving demand for trained technicians and green-tech service providers across tier-two and tier-three towns.
+
+Yet scaling portable clean-energy systems brings structural challenges that policy must anticipate. Solar panels, lithium batteries, and electronic components used in festive lighting have finite lifespans. Without strict recycling frameworks, extended producer-responsibility standards, and community repair networks, clean illumination could inadvertently create a new e-waste burden. And because festive lighting is used only after dark, overcoming night-time intermittency demands robust off-grid battery hybrids designed for short, high-load events.
+
+Demonstrable sustainability
+
+Renewable hardware must also harmonise with the country’s artistic traditions. Supporting local artisans and engineers to embed clean technology within traditional visual motifs ensures that sustainability enhances, rather than dilutes, the spirit of celebration.
+
+Equally important is the cultural narrative surrounding festive illumination. Recasting renewable lighting as a marker of contemporary pride – a conscious choice that reflects care for community and environment – can reshape public expectations. Schools, youth clubs, and cultural organisations can anchor this shift by championing “green celebration weeks” to promote a larger message for sustainable models of festivity.
+
+As these innovations gain traction, they signal a wider shift India can no longer postpone. Rethinking festive lighting is not about dimming celebration; it is about giving it a contemporary purpose. With sharper fiscal incentives, stronger local institutions, and a clear circular-economy framework, India can align cultural tradition with climate responsibility.
+
+The writer is a retired member of the Indian Forest Service and an international member of the Forest Stewardship Council.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/diwali-2026-why-india-needs-cleaner-renewable-festive-lighting-4155827)
+
+---
+
+### ‘Learn Kannada in a month’: A non-Kannadiga’s long, funny journey
+*Deccan Herald · Opinion*
+
+It was a classic case of exaggeration in advertisement, bordering on puffery. The book proudly proclaimed in bold colourful letters Learn Kannada in a Month. And this book has been staring at me for a long time now. My Kannada, however, has proceeded only swalpa far.
+
+I opened the book; it was the page about gender. Jaana arasanu jaane arasiyannu maduve adanu — ‘the clever king married the clever queen’ was the meaning, it said. I remembered Dostoevsky, who said that true love needs one idiot. And wondered if they had asked rapid-fire questions, KBC style, to ascertain the cleverness of their prospective partner.
+
+Anyway, it left me no cleverer apart from knowing that there are three genders in Kannada. WALS (World Atlas of Language Structures) tells me that there are only 26 languages that have three genders. Well, I thought I wanted to learn to speak and perhaps read the ‘SIR’vival form, which I could fill only thanks to the guide published in this lovely newspaper.
+
+India, Dakshina Kannada have potential to become global medical hubs: Union Minister Pralhad JoshiI thought I better start listening to Kannada FM radio and RJs Rapid Rashmi, Shruti and Pragathi; that could help me learn the language faster. But then you realise they intersperse the language with so much English that even I could get the hang of what was being said. Communication is not a problem in cosmopolitan Bengaluru. Which reminded me of when we were first posted to the Hindi heartland, Indore. I knew Hindi but was stumped with the sheer, very shudh bhasha I had to encounter there. I struggled to understand. And very soon in my posting there, a high-profile dreaded committee, known as the Parliamentary Standing Committee on Official Language set up to promote the use of Hindi, turned up.
+
+I wondered why they would want to visit Indore, where Hindi is spoken so very well – if at all a committee had to come, it should have been a parliamentary committee headed by that champion of English, Shashi Tharoor. They also wanted to know how many files were being disposed of in Hindi. There is this most convenient provision whereby a file written completely in English but signed in Hindi is deemed to have been disposed of in Hindi — and I could sign in Hindi with a flourish. The visit went off well.
+
+Let me not, like the dancer who kept blaming the stage for her poor performance, blame the books. Let me become from a Non- Kannadiga to Naanu Kannadiga as yet another book proclaims, of course in 30 days!
+
+[Read full article](https://www.deccanherald.com/opinion/learn-kannada-in-a-month-a-non-kannadigas-long-funny-journey-4155826)
+
+---
+
+### Tata Sons boardroom battle: What changed between August 12 and September 17?
+*Deccan Herald · Opinion*
+
+Recent developments at the Tata group will leave many with a distinct sense of unease. At the centre, headlining a deeper divide, are two dates, an uncomfortable turn, and an obvious question: What transpired between August 12 and September 17 for the Chairman of Tata Sons, N Chandrasekaran, to take a dramatic U-turn on continuing as Chairman for another five-year term?
+
+The first date records Chandrasekaran as saying he would not offer himself for reappointment as Chairman after his current term because his continuation did not enjoy unanimous support. The second date marks an ugly, public acceptance of a new term in the face of continued, and vociferous, opposition from the principal shareholder. The opposition comes from Noel N Tata, Chairman of the Tata Trusts, which owns about 66% of Tata Sons.
+
+Simply put, this is a professional chairman holding on despite the majority owner asking him to go. That owner is not a family but a set of charitable trusts, whose widely celebrated model funds hospitals, research, and relief from the dividends they receive.
+
+Chandrasekaran’s turn carries at least the whiff of a power grab, riding on what is feared to be partisan political meddling from the highest quarters. Such events would be a sign of disaster for any institution. But when this transpires at Tata Sons, the principal investment holding company and promoter of the Tata companies, the stakes are larger.
+
+There is a second Tata Trusts nominee on the Tata Sons board, the industrialist Venu Srinivasan, who is also Vice-Chairman of the Tata Trusts, and voted in favour of Chandrasekaran getting an extension. But Noel Tata’s ‘no’ is significant because under the Tata Sons Articles of Association (AoA), a majority of the Tata Trusts nominees on the Tata Sons board must approve any decision of that board.
+
+What happens when the two Tata Trusts nominees vote differently? On a plain reading of the Articles, the resolution must fail because one out of two is not a majority. But the resolution is now said to have passed and holds, framing a boardroom battle that will have its deleterious impact on the entire group.
+
+The battle will be bitterly fought. On Sunday (September 20), the Tata Trusts issued a statement that said the appointment of Chandrasekaran was void ab initio because these decisions cannot be taken by a simple headcount of the board. The rules “provide that no decision can be taken unless it has the affirmative support of at least a majority of the Directors nominated by the Tata Trusts,” the statement said.
+
+That the Trusts have chosen to call out Chandrasekaran publicly shows how far relations have broken down: “It is unfortunate that the Chairman of Tata Sons, a company renowned for setting high standards of corporate governance, is contending reappointment on such an untenable interpretation of the Articles.”
+
+Sharad Pawar’s Tata intervention: What he said about Noel Tata, Chandrasekaran and the TrustsChandrasekaran’s supporters will likely argue that the board majority has spoken, that one Trusts nominee backed him, and that his record at the helm has been strong. None of this settles the question. His record is not what is in dispute; the rules are. A protection written into the AoA precisely for situations such as these has, on the Trusts’ reading, been overridden by the Tata Sons board.
+
+An untenable extension?
+
+The dispute is tied to listing requirements. RBI rules require an “upper layer NBFC” to list, and the central bank has classified Tata Sons as one, even though the company has paid off its debts and therefore applied to deregister as an NBFC. Being allowed to deregister means Tata Sons faces no compulsion to list, which is what the Tata Trusts seeks. However, the RBI rejected this application to deregister in September, after inaction for over two years, days before the crucial September 17 board meeting. It also filed a caveat in the court asking to be heard if its decision was challenged, a highly unusual move, leading to fears that someone from New Delhi might be pulling the strings. The regulator owes an explanation for this timing.
+
+Supporters of the listing argue that it will mean tighter supervision and more open governance. Yet there is something unseemly about lecturing the Tatas when the group has long been prized for its leadership in governance and charity, whatever its lapses. More to the point, the listing rule exists to contain systemic risk from large finance companies that run on borrowed money. Tata Sons has repaid its debt. Forcing it to list applies a rule to an entity it no longer fits. The Trusts say that “pulling apart a hundred-year-old structure to fill an imaginary gap is taking a sledgehammer to crack a nut.”
+
+This is not the first time that the Tata group has faced a crisis. In 2016, when the Trusts under Ratan Tata lost confidence in Cyrus Mistry, the board removed him as Chairman. This time, the board has sided with a Chairman against the controlling shareholder. Would events have played out this way without a nod from political circles backing the side opposed to the majority owner? The government must resist the temptation to pick sides here.
+
+The Tata group is a national icon, a picture of enterprise, growth, and service packed into a business model that many Indians cherish and hold as an exemplar. That model, in which the bulk of a great enterprise’s profits flows to charitable trusts for the public good, is rare anywhere in the world. It should not be dismantled by regulatory overreach without a clear, stated reason. Nor should its future turn on a chairman’s reading of rules that his principal shareholder rejects. On August 12, Chandrasekaran said he would not continue without unanimous support. He should hold to that word.
+
+The writer is a journalist and faculty member at SPJIMR; Syndicate: The Billion Press.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/tata-sons-boardroom-battle-what-changed-between-august-12-and-september-17-4155828)
+
+---
 
 ## 22 September 2026
 
@@ -74,6 +300,56 @@ The name of a person gains an entry into the electoral roll following a prescrip
 Whether a chief minister gets to vote or not does matter; so do the cases with very ordinary people whose only stake in the process is that they are all citizens of this country. The country belongs to them and they belong to this country. The EC should not be allowed to play nasty games in that organic and natural bond.
 
 [Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-voters-cannot-be-termed-discrepancies-ec-must-act-1989442)
+
+---
+
+### 13 Crore Lamps  Of ‘Blessings’,  But Who Bore The Expenses?
+*Deccan Chronicle · Opinion*
+
+Decades ago, before India’s Independence, a Hollywood movie Gaslight captured the imagination of the masses. It was a story about the dimming of the lamps in an American household that allowed a husband to fool his wife. On September 17, 2026, as the nation celebrated the 76th birthday of Prime Minister Narendra Modi through ‘Aaashirwad Ka Diya’, or lighting of the lamps, there was no fooling around. It was an attempt to convince the masses, or the loyalists, that the BJP’s stranglehold was intact. It started as the party’s campaign, a call by the BJP’s president Nitin Nabin to light 25 crore diyas to mark Mr Modi’s 25 years in public life, from being Gujarat’s chief minister to an undisputed national leader. It quickly transformed into a mass event that was pushed and pulled by dozens of important civil servants across the nation.
+
+Chief secretaries, district collectors, district magistrates and deputy commissioners led the campaign in several states. There were reports of 13 crore diyas that were lit nationally. Of these, 5.9 crore were ignited in Uttar Pradesh in its 75 districts, 1.5 crore in Chhattisgarh, and nearly 80 lakh in Haryana. Four chief secretaries in Assam (Ravi Kota), Bihar (Pratyaya Amrit, Haryana (Anurag Rastogi), and West Bengal (Manoj Agarwal) reportedly reviewed the event, and later communicated the successes to the upper echelons. Gorakhpur DM Deepak Meena, Rajnandgaon collector Jitendra Yadav, Thane collector Krishna Panchal, and Sonipat’s DC Neha Singh were involved. The cost of the diyas, ₹1 each, as well as the expenses due to oil, wicks, transport, mobilisation, publicity, venues, and official manpower, may total up to ₹50-75 crore. These are unofficial estimates, and no one knows who bore the costs, Centre or states. This lack of information may turn out to be brighter than the collective flames of the diyas.
+
+Yogi’s trusted civil servants
+
+For decades, the bureaucracy in Uttar Pradesh was scripted through the narratives of caste, cadre, and proximity to power. Under chief minister Yogi Adityanath, another layer was added, i.e., the concentration of key responsibilities with a small group of trusted senior civil servants. Chief secretary Shashi Prakash Goyal is the senior-most serving IAS officer and principal coordinating authority. With him is Sanjay Prasad, additional chief secretary, information and public relations, who is also identified by the state’s prosecution department as additional chief secretary, Home. Deepak Kumar is the infrastructure and industrial development commissioner. He is aided by Alok Kumar, additional chief secretary, and the duo together complement roles that enables the CM to fulfil his economic priorities.
+
+When it comes to law and order, Rajeev Krishna is the director general of police, and is aided by senior officers such as Dhruva Kant Thakur, Jai Narayan Singh, Alok Singh, and Binod Kumar Singh. The latter occupy commands of Home Guards, economic offences, PAC, CID, cybercrime, and emergency response. The IPS state structure was drastically changed on September 19, 2026, when 35 officers were transferred across Commissionerate, districts, and specialised units, in cities such as Lucknow, Kanpur, Agra, Prayagraj, Gautam Buddh Nagar, and Varanasi. Tongues have started wagging that there is undue concentration of the Thakur community at the operational command level of the police force, particularly in the SHO/CO chain. Some astute observers link the changes, and concentration to the forthcoming assembly elections that are likely to be held in February-March 2027.
+
+Who is the ‘Shah’ of Delhi’s bureaucracy?
+
+Delhi has grappled with an unusual administrative paradox. It has an elected government, which is headed by the chief minister, BJP’s Rekha Gupta today. Yet, the bureaucracy answers to the Union Home ministry, which controls the bureaucratic cadre. Hence, in January 2026, it moved MCD commissioner Ashwani Kumar to Jammu and Kashmir, and inculcated Sanjeev Khirwar and Santosh D. Vaidya in Delhi. Chief electoral officer R. Alice Vaz was moved to Jammu and Kashmir, as was the case with IPS officer Mangesh Kashyap. On 24 February, 2026, the Home ministry shifted Sushil Singh to Mizoram, K.C. Surender to Puducherry, and Pranjal J. Hazarika to Jammu and Kashmir. This led to a Centre-Delhi confrontation, and the event happened days after Rekha Gupta took oath as the new CM. When the officers were not relieved by Delhi, the Home ministry declared them as “stand relieved” on April 15, and ordered them to join the new postings. A pertinent message went across. The AGMUT cadre, or the joint All-India Services cadre comprising Arunachal Pradesh, Goa, Mizoram, and Union Territories (including Delhi), reported to the home ministry. Thus, May 2026 witnessed a larger bureaucratic shuffle of 42 officers from Delhi — Ashish Chandra Verma, ACS finance and revenue, went to Jammu and Kashmir; Anil Kumar Singh, ACS environment and forest, followed him; Sudhir...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/13-crore-lamps-of-blessings-but-who-bore-the-expenses-1989742)
+
+---
+
+### All Hail Modi’s New Pain-for-gain Plan!
+*Deccan Chronicle · Opinion*
+
+Willingly or reluctantly, light the lamps, the light of which dispels darkness to reveal the menace and the majesty of the helmsman. The pan-India coordinated celebration of the Prime Minister Narendra Modi’s birthday ( hope he has a certificate that can be verified by the Election Commission’s army of functionaries), is the anti-thesis of the coordinated darkness called by Rabindranath Tagore on October 16, 1905, as a collective public rebuke to the plan to divide Bengal.
+
+Praying for the longevity of the Prime Minister is a signal in code; crucial elections in Uttar Pradesh, Gujarat, Punjab, Uttarakhand, Himachal Pradesh, Goa and Manipur are due within the next five months. Organised and coordinated lighting of lamps is part of voter engagement, signifying the role of Modi as the guardian spirit who can repel the “Bharat Todo Gang,” a rather ugly euphemism for parties in Opposition to the Bharatiya Janata Party.
+
+Such slogans — Nonstop UP, Yaad Rakhega UP — are spreading fast on social media, with new influencers and a new media cell of the party hard at work. The combination of a barrage of positive messages for the BJP and negative ones that demonise the Opposition —
+
+from the Samajwadi Party to the Congress and everyone else in-between in UP, and versions of this in other states — means the BJP is leaving no stone unturned and nothing chancy will be allowed to happen, to turn curated victory into unexpected defeat.
+
+There are good reasons for the BJP to work harder on its victories in the election-bound states than ever before; the Cockroach Janta Party, which is not a political party at all, delivered a challenge to the political establishment, specifically the BJP and Mr Modi’s regime, by stripping off all the layers of obfuscation that hid the abysmal governance and its failures for all to see, nationally and globally. The young men and women and their older supporters, travelled to Jantar Mantar in July mostly from the Hindi heartland.
+
+Unemployment, joblessness, depressed wages, exploitative contracts on the one hand, an education system that had been rigged by money and policy failure to cheat merit and hard work of access to opportunities, recruitment scams, quota scams and many more killer maladies have turned a section of Gen Z into spontaneously igniting in protest. The little explosions, across mostly North India, are also signals that the BJP and its helmsman have failed the 18 years to 29 years youth bulge or the demographic dividend.
+
+That the little insurrections have not turned into a prarie fire of the fast moving, uncontrolled kind is no reason for the BJP to be sanguine that the immediate danger of a Gen Z eruption is over. Across the world, there is a growing awareness that the uncategorised Gen Z is politically active and needs special attention.
+
+That being the case, it is inexplicable by the usual standards of rationality, of why the Modi regime has decided to inflict more pain on the pettiest of retailers and smallest of businesses by setting new rules for UPI transactions from October 15. It is also mystifying why the Modi regime has turned an already functioning system of subsidised LPG cylinders to certain categories of people into a race to renew credentials that qualify the recepient for the discount, including a large number of women beneficiaries, brought under Mr Modi’s flagship, albeit malfunctioning, Ujjwala Yojana.
+
+Could it be because the Modi regime or the BJP’s think tanks and masterminds have rediscovered one of Utilitarian sage Jeremy Bentham’s principles that run along the “No pain-No gain” axis? The negative utilitarian argument, simplified, is that governments sometimes need to inflict pain, like demonetisation, or setting limits and adding taxes on UPI transactions, or renewal of KYCs but only electronically, and Special Intensive Revisions of electoral lists that question the status of New Delhi’s chief minister Rekha Gupta and ex-chief minister Arvind Kejriwal and about 15 crore other Indians. The reason for inflicting pain, or compelling voters to endure the chaos is justified by the outcomes, namely that a “much worse catastrophe” awaits “down the line”.
+
+Viewed from the BJP’s perspective the “much worse” part of Bentham’s theory is obvious. The Opposition is the avoidable “catastrophe.” In the run-up to the election, in UP, the narrative is being developed of the Congress being “Muslim League 2.0”, an epithet that was lobbed against it by Mr Modi in February labelling it “Muslim League-Maoist Congress”. He explained the branding; “Just as the Muslim League hated India and was responsible for Partition, the Congress is acting in the same manner. Like the Maoists who have hatred for democracy, the Congress trespasses anywhere.”
+
+The Congress is not the punching bag and unifying spectre it was in 2014. It has re-emerged as an alternative site for taking up issues that have riled the nation. From being the butt of BJP-Modi’s crude jibes — “Pappu”,...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/all-hail-modis-new-pain-for-gain-plan-1989728)
 
 ---
 
