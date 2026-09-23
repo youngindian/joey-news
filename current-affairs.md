@@ -1,3 +1,373 @@
+## 23 September 2026
+
+### Udupi Man Murdered in Sharjah: Body Chopped into Pieces, Wife & Son Missing
+*India Today Video Desk · general*
+
+UPDATED: Sep 23, 2026 10:22 IST
+
+A man from Kundapur in Karnataka's Udupi district, identified as Alvin Prakash Kundar, was allegedly murdered in Sharjah, with the details emerging nearly two months later. Kundar, an employee at Sharjah Airport for around 14 years, lived there with his wife and teenage son. His disappearance raised suspicion when his brother received atypical text messages instead of voice calls. Following inquiries with company authorities, police discovered his dismembered body cut into nine pieces in a car near Oman. Kundar's wife and son are currently missing. A police complaint has been lodged in Udupi, and investigations by UAE and local police are currently underway.
+
+### VIDEOS FROM OTHER SECTIONS
+
+### LATEST VIDEOS
+
+## Delhi Gang-Rape: Accused Repeat Offender, Police Probe Past Record, DDA Park Safety Under Scanner
+
+A gang-rape incident has been reported near the Kalkaji Temple in Delhi, where three men allegedly posed as police officials and assaulted a woman who had visited the temple on her birthday with her friend. According to Delhi Police investigations, one of the accused is a repeat offender who had previously been expelled from a gym over harassment allegations. While one accused worked as a vegetable vendor, the other two claimed to be students. Police have seized mobile phones and are examining digital chats and past records to ascertain previous offences. Meanwhile, questions have emerged over safety measures and lighting at the adjacent DDA-managed park.
+
+## Markets Open Flat, S&P Ups GDP Target & SC Flags Medicine Pricing
+
+Indian equity markets opened on a steady note above 23,400 levels, supported by gains in financial and banking stocks alongside broad-based sector participation. S&P raised India's FY27 GDP growth forecast by 40 basis points to 7 per cent, citing robust industrial activity, strong exports, and government spending, while projecting a repo rate hike by the Reserve Bank of India. Meanwhile, the Supreme Court raised serious concerns over the significant gap between the price to retailer (PTR) and the maximum retail price (MRP) of essential and life-saving medicines, questioning why more drugs are not covered under the drug price control order. Pharma companies, represented in court, cited research and development alongside marketing expenses for the variance in pricing. Additionally, global geopolitical developments remained in focus as Donald Trump highlighted sweeping tariff authorities and expressed support for the India-Middle East-Europe Economic Corridor.
+
+## Tata Sons Boardroom Battle: Noel Tata, Chandrasekaran Reappointment & IPO Tussle
+
+A major boardroom conflict has emerged within the Tata Group over corporate governance, leadership, and the proposed stock market listing of Tata Sons. Tata Trusts Chairman Noel Tata opposed the Tata Sons board's four-to-one resolution to reappoint N. Chandrasekaran as chairman for another five-year term from February 2027, and also rejected the proposed listing. In contrast, trust nominee Venu Srinivasan backed the board's decision, while the Shapoorji Pallonji Group favored a listing to unlock share value. The conflict involves regulatory scrutiny after the Reserve Bank of India rejected Tata Sons' request to exit its core investment company status. Amid the escalating corporate dispute heading for legal evaluation, Finance Minister Nirmala Sitharaman highlighted the necessity of professionalisation and separating ownership from management in businesses, while veteran politician Sharad Pawar advocated for dialogue, due process, and upholding the affirmative rights and ownership role of Tata Trusts under its articles of association.
+
+## IIT Bombay Student Death: Crime Branch Probe, Caste Harassment Allegation & Campus Split
+
+Tensions have flared across the Indian Institute of Technology Bombay following the death of twenty-year-old student Sahil Wakhure, triggering a sharp divide on campus. Sahil's parents have alleged sustained caste-based harassment, slurs, and threats, demanding the arrest of Professor Surya Narayan Dula and Director Shirish Khedare. In contrast, the IIT Bombay faculty forum has supported Professor Dula, maintaining that he was only carrying out his duties after detecting exam malpractice and that no evidence of caste discrimination exists. IIT Bombay management has constituted a ten-member committee to investigate the matter within a week and sent Professor Dula on leave. Meanwhile, the case has been transferred to the Mumbai Crime Branch, which has recorded statements from Sahil's parents, friends, and exam hall witnesses, and summoned Professor Dula for questioning. Official parliamentary data cited in the bulletin indicates that forty-five student suicides were reported across twenty-three IITs between 2020 and 2025.
+
+---
+
+### Carney pushes middle powers bloc at UN amid US pressure on Canada
+*India Today World Desk · general*
+
+## At the UN, Mark Carney urged middle powers to coordinate more closely as Canada widened its diplomatic outreach. The push signals Ottawa's effort to reduce dependence on the US while keeping a values-driven foreign policy.
+
+Stock photo used for illustration
+
+Canada is using this year's UN General Assembly to push a bigger role for what Prime Minister Mark Carney calls the world's "middle powers". Carney has urged such countries to work together to protect their interests and help update the international order at a time of growing pressure from the United States and other major powers.
+
+The shift follows a tougher Canadian approach to Washington under Carney, who has pushed back against President Donald Trump's tariffs, insults and talk of annexation. Last month, Carney said no to what he described as unacceptable US trade demands and walked away from talks, while also looking to deepen ties elsewhere, including with the European Union.
+
+At a news conference at the UN on Tuesday, Carney said, "Partners are working with Canada because Canada's predictable, reliable and principled in a world that's anything but." He said the gathering of world leaders was a chance to present Canada's approach of "values-based realism" that is "both principled and pragmatic". The approach, he said, combines commitments to freedom, human rights and sustainability with "calibrated alliances" with partners that may not agree on every issue.
+
+Canada and six other countries on Monday launched a new grouping aimed at supporting economic cooperation and UN-style international collaboration. Carney missed the launch event on Monday night because of disruption caused by air traffic problems at New York airports, but on Tuesday he held meetings with Jordan's king, the presidents of Chile and Angola, and an Emirati cabinet minister. He also co-hosted a meeting on the long-stalled two-state solution to the Israeli-Palestinian conflict and announced 100 million Canadian dollars in humanitarian and security funding for Palestinians. Canada last year joined more than 150 countries that have recognised a Palestinian state, despite objections from Israel and the US.
+
+Asked whether he had interacted with Trump or members of his administration, Carney said he saw the summit as a chance to "meet those whom you don't normally see". He did attend Trump's address to the General Assembly, in which the US president made no mention of Canada despite the worsening trade dispute between the two neighbours. After speaking on Wednesday at a UN meeting on oceans, Carney is due to return to Canada, while Foreign Minister Anita Anand is scheduled to deliver the country's UN speech on Saturday.
+
+Anand said the address "will be very much about implementing the middle power strategy" set out by Carney, including his World Economic Forum line that "middle powers must act together, because if we're not at the table, we're on the menu". University of Ottawa professor Srdjan Vucetic said Carney's message was finding support, "particularly those in the global North". He also said Carney's leadership was resonating in Canada, where the prime minister, who took office in March 2025, has strong approval ratings. Many Canadians have reacted angrily to Trump's remarks about making Canada the US's "51st state", his use of "Lake America" for Lake Ontario, and his trade policy.
+
+Carney, 61, a former central bank chief with a doctorate in economics, wants to double Canada's non-US trade within a decade. He brought together hundreds of executives from international investment firms at a Canadian investment summit last week and is aiming for a trade deal with India, among others, by the end of the year. His government has highlighted security, defence and economic agreements with several countries over the past year, and he has spoken of Canada potentially serving as an economic bridge between the EU and Pacific Rim countries.
+
+His outreach has also drawn scrutiny, including over his visit in July to Saudi Arabia, the first by a Canadian prime minister in more than 25 years. Justin Trudeau's government had sharply criticised Saudi Arabia's human rights record, leading to a five-year diplomatic split before full ties were restored in 2023. Carney said at the time that he cared deeply about human rights, but there was no point in "lecturing countries from afar", and that engagement did not amount to approval of everything they did. Repeating the broader idea at the UN on Tuesday, he said his approach "means actively, actively taking on the world as it is, not passively waiting for a world we wish to be" and added, "We have a strategy that, I believe, has already made our country stronger, but we've only just begun."
+
+Canada's message at the UN this week has been that it wants to work with other middle powers, widen its trade and diplomatic options beyond the US, and pursue what Carney calls a practical but values-driven foreign policy.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Sep 23, 2026 10:22 IST
+
+---
+
+### POCSO is 14 years old. What's changed?
+*Unknown · general*
+
+POCSO is  years old Whats changed
+
+[Read full article](https://www.indiatoday.in/newsmo/short-videos/pocso-is-14-years-old-whats-changed-3000821-2026-09-23)
+
+---
+
+### IIT Bombay faculty question SC/ST charges, seek legal action against Sahil's parents
+*India Today Education Desk · general*
+
+## With the investigation into Sahil Wakode's death underway, faculty bodies across several IITs have backed Professor Suryanarayana Doolla and called for due process. Some faculty members have questioned the SC/ST Act charges in the case and sought legal action against Wakode's parents.
+
+IIT Bombay student suicide: Faculty question SC/ST charges, seek legal action against parents
+
+Amid the controversy over IIT Bombay BTech student Sahil Wakode's death by suicide, faculty forums at IITs have backed Professor Suryanarayana Doolla, while some members have questioned the SC/ST Act charges and sought legal action against Wakode's parents, as reported by The Times of India.
+
+Meanwhile, IIT Bombay's Board of Governors has sent Professor Doolla on leave and constituted a 10-member panel to examine the circumstances surrounding the student's death.
+
+The developments come amid differing views over the allegations against Doolla. While Wakode's family has alleged caste-based harassment, faculty members have called for a fair and impartial investigation into the matter.
+
+### IIT BOMBAY SENDS PROF DOOLLA ON LEAVE
+
+The IIT Bombay Board of Governors has asked Professor Suryanarayana Doolla to go on leave and constituted a 10-member panel to examine the circumstances surrounding Sahil's death.
+
+The panel, headed by Professor Ramesh Venkateswaran, Chairman of the Board of Governors at IIT Palakkad, includes students and other members and has been asked to submit its report within a week.
+
+Meanwhile, faculty forums at IIT Bombay, IIT Delhi and IIT Madras have expressed support for Doolla and called for due process in the matter. IIT Bombay Faculty Forum president Professor Rajkumar S Pant has said there is no confirmed evidence of casteist remarks by Doolla and that the inquiry should be allowed to establish the facts.
+
+### FAMILY ALLEGES CASTE-BASED HARASSMENT
+
+Sahil's parents have alleged that their son faced caste-based harassment and mental pressure at IIT Bombay. His father has demanded the arrest of Doolla and other institute officials named in the case.
+
+The allegations are being investigated by the Mumbai Crime Branch.
+
+### WHAT HAPPENED DURING THE EXAMINATION?
+
+Sahil, a second-year BTech student, died by suicide on September 18, hours after an incident during a mid-semester examination. IIT Bombay had initially said that he was caught using a mobile phone during the examination.
+
+The institute later apologised for its communication, saying it was inappropriate to characterise the circumstances surrounding the student's death before the facts had been established through an investigation.
+
+The Mumbai Crime Branch is investigating the circumstances surrounding Sahil's death and has recorded statements from his parents. Investigators are also examining CCTV footage and other evidence to reconstruct the events leading up to his death.
+
+The police investigation and IIT Bombay's internal inquiry are both underway. The allegations of caste-based harassment, the examination incident and the circumstances preceding Sahil's death are yet to be conclusively established.
+
+\- Ends
+
+Apoorva Anand
+
+Sep 23, 2026 10:20 IST
+
+---
+
+### Qualcomm launches Snapdragon 8 Elite Gen 6, fastest chip for Android phones with agentic AI tech
+*Divya Bhati · general*
+
+## Qualcomm has launched the Snapdragon 8 Elite Extreme Gen 6 and Snapdragon 8 Elite Gen 6. The new 2nm chips bring faster on-device AI, along with upgrades for gaming, cameras and connectivity, to the next generation of premium Android phones.
+
+Qualcomm has unveiled its new generation of flagship mobile platforms, the Snapdragon 8 Elite Extreme Gen 6 and Snapdragon 8 Elite Gen 6. Both new chips are designed to deliver faster performance and more advanced on-device AI to the next generation of premium Android smartphones. The chips were announced at the Snapdragon Summit in Maui on September 23, 2026, with Qualcomm positioning them at the centre of what it calls the agentic AI era.
+
+Both new Snapdragon platforms are built on a 2nm process and combine Qualcomm's custom Oryon CPU, Adreno GPU and Hexagon NPU. Qualcomm says the Snapdragon 8 Elite Extreme Gen 6 is its most powerful mobile platform, while the regular Snapdragon 8 Elite Gen 6 brings many of the same capabilities to a broader range of premium smartphones.
+
+### Agentic AI takes centre stage with new Snapdragon processors
+
+Qualcomm is putting a major focus on agentic AI with its new Snapdragon platforms. The company says the chips are designed to enable everyday AI agents that can deliver faster, more personalised and adaptive experiences based on users' needs throughout the day. According to Qualcomm, the goal is to make AI on phones more context-aware and useful, rather than simply responding to individual commands.
+
+### Inside Snapdragon 8 Elite Extreme Gen 6
+
+The Snapdragon 8 Elite Extreme Gen 6 is the more powerful of the two new chips and comes with several upgrades focused on gaming, AI and cameras. For gaming, Qualcomm's new Adreno Neural Fusion uses AI to improve graphics and visuals, while also helping phones deliver longer gaming sessions.
+
+For cameras, the chip supports Advanced Professional Video (APV) and Intelligent Pixel Control. Qualcomm says these features can help the phone better understand a scene, improve image quality and produce more natural-looking photos and videos.
+
+The Extreme Gen 6 also has a CPU that can reach 5.0GHz, which Qualcomm calls the world's fastest mobile CPU. The chip combines this CPU with a new Adreno GPU and Hexagon NPU to handle demanding AI, gaming and camera tasks.
+
+### Inside Snapdragon 8 Elite Gen 6
+
+The Snapdragon 8 Elite Gen 6 uses the same 2nm process and Qualcomm's Oryon CPU, Adreno GPU and Hexagon NPU as the Extreme version. It brings many of the same AI, gaming, camera and connectivity features to more premium Android phones, although the Extreme Gen 6 remains the more powerful option.
+
+### What phones will support the new Snapdragon chips?
+
+Qualcomm says the new Snapdragon 8 Elite Extreme Gen 6 and Snapdragon 8 Elite Gen 6 will debut in flagship smartphones from HONOR, iQOO, Motorola, OnePlus, OPPO, REDMI, RedMagic, vivo and Xiaomi. The company has not specified the exact phone models in the announcement.
+
+\- Ends
+
+Divya Bhati
+
+Sep 23, 2026 10:15 IST
+
+---
+
+### Difficult day for those leaving: Xbox lays off employees, read full memo here
+*Armaan Agarwal · general*
+
+## Microsoft's Xbox division has announced that it has laid off hundreds of employees. This is the second round of layoffs at Xbox within a few months. Here is the full memo sent to the staff regarding the job cuts.
+
+Xbox has just cut hundreds of roles as part of a new round of layoffs. (Photo: Reuters)
+
+Xbox has announced a second round of lay-offs within a few months as the Microsoft gaming continues an “Xbox reset” under CEO Asha Sharma. In a memo shared on the Xbox website under the title Continuing the reset, Xbox chief operating officer Matt Booty confirmed that the company was cutting 268 jobs.
+
+The job cuts affect employees across several studios under the Xbox banner. “I am deeply grateful for what our colleagues have built, and I know how difficult today will be for those leaving and the teams around them," Matt Booty told employees.
+
+The latest cuts follow the 1,600 Xbox lay offs announced in July. These cuts are part of the 3,200 roles Microsoft had already said would be affected during its 2027 financial year, which ends in June 2027. The wider shake-up also includes studio mergers, expanded responsibilities for Activision, Bethesda and King. Before the July lay-offs, Xbox was said to have roughly 16,000 workers globally.
+
+Xbox will also hold a town hall on October 6, where employees can discuss the division’s progress in recent months.
+
+**You can read Matt Booty’s full memo to Xbox employees below:**
+
+“Team,
+
+I’m writing to share several updates as part of the XBOX reset outlined earlier this year.
+
+First, we are eliminating 268 roles across Halo Studios, other first-party studios, and the XGS management and central functions layer. The actions completed since July, inclusive of the studio divestitures, bring us roughly three-quarters of the way through previously announced restructuring. I am deeply grateful for what our colleagues have built, and I know how difficult today will be for those leaving and the teams around them.
+
+Second, we are reorganising our studios. The goal is to strengthen our franchises and games by operating fewer business units, aligning groups that already work closely together, and focusing our publishing expertise.
+
+Activision will expand its remit to World’s Edge, as well as Rare. Activision will also be developing the next Halo title, led by a new, purpose-built team that is separate from ongoing development and plans for Call of Duty. A small team at Halo Studios will continue supporting the Halo community and games in-market.
+
+Bethesda will expand its remit to include Obsidian, which will continue its current projects, including Grounded, as well as the new Fallout project made in collaboration with Bethesda Game Studios.
+
+King will expand its remit to include Microsoft Casual Games, uniting our two global leaders in casual game design and live operations.
+
+Playground and Turn 10 will come together as one studio focused on the Forza and Fable franchises. These two studios have been creative and franchise partners for over a decade, and today’s changes will formally move their work into one team.
+
+Third, an update on our studio divestitures: In August, Compulsion and Double Fine returned to management with their IP, back catalogs, and runway funding. Undead Labs has now successfully transitioned on similar terms and, with a new publisher, will release State of Decay 3 day one on Game Pass. Unfortunately, two separate agreements for Ninja Theory fell through. We will now begin consultation with employees on a proposed closure while continuing to explore other paths forward. Consultation with Arkane remains underway and is expected to continue through the end of the year.
+
+Today, our focus should be on supporting those affected and treating one another with care and respect. I will spend time with our studios over the next week. At our October 6 town hall, we will come together as an ALL-XBOX team to reflect on our progress and look ahead to one of the strongest game lineups in our history.
+
+Matt”
+
+\- Ends
+
+Armaan Agarwal
+
+Sep 23, 2026 10:09 IST
+
+---
+
+### A ritual to ‘cure’ farmer ends in 4 murders and an encounter in UP
+*Manish Sahu · legal*
+
+The incident took place in Azamgarh, where a man allegedly killed his wife and two priests before a seven-hour standoff with police.
+
+[Read full article](https://indianexpress.com/article/cities/lucknow/shambhupur-uttar-pradesh-farmer-murders-encounter-ritual-10890066/)
+
+---
+
+### NBEMS reduces qualifying percentile for NEET SS 2025; check group-wise cut-off score here
+*Education Desk · legal*
+
+As per the revisions announced by the board on Tuesday, candidates who have achieved 30th percentile or above in their respective NEET-SS 2025 question paper groups have been declared as qualified and can now apply for the counselling process.
+
+[Read full article](https://indianexpress.com/article/education/nbems-reduces-qualifying-percentile-for-neet-ss-2025-check-group-wise-cut-off-score-here-10890003/)
+
+---
+
+### What makes Hinduism in Bengal distinctive? A history of Shaktism, Tantra and Bhakti
+*Adrija Roychowdhury · legal*
+
+Bengal’s Hindu traditions have been shaped by goddess worship, the influence of Tantra and the later spread of Gaudiya Vaishnavism. Together, they created a distinctive religious culture where fierce goddesses could also be loving mothers, while local deities became part of the wider Hindu tradition...
+
+[Read full article](https://indianexpress.com/article/research/what-makes-hinduism-in-bengal-distinctive-a-history-of-shaktism-tantra-and-bhakti-10890022/)
+
+---
+
+### IPO Listing Today: SS Retail Sees 47% Premium, Jindal Supreme 29%; Hero Motors At Discount
+*Mohammad Haris · business*
+
+IPO Listing Today: SS Retail, Jindal Supreme and Hero Motors make market debut today. Check their prices, IPO issue price, listing gains and subscription levels.
+
+[Read full article](https://www.news18.com/business/ipo/ipo-listing-today-ss-retail-sees-47-premium-jindal-supreme-29-hero-motors-at-discount-10347490.html)
+
+---
+
+### Jaishankar says Global South bears crises but lacks a voice in key decisions
+*India Today World Desk · general*
+
+## S Jaishankar told Global South nations at the UN that they must unite against overlapping global crises. He said UN reform and fairer decision-making are essential to protect developing countries' interests.
+
+Stock photo used for illustration
+
+External Affairs Minister S Jaishankar has said the Global South is facing the worst effects of multiple global crises while remaining excluded from key decisions, and called for stronger solidarity among developing countries. Speaking at a high-level meeting of like-minded Global South countries and friends on the sidelines of the 81st United Nations General Assembly on Tuesday, he said the current moment demanded a united response.
+
+Jaishankar said the world was going through "considerable global uncertainty", marked by conflicts, geopolitical tensions, supply chain disruptions, rising trade barriers, fragmented investment flows, climate shocks and pressure on international law and rules. He said reform of the UN and multilateralism was essential so that the priorities of the Global South were properly addressed.
+
+"The Global South today may be in the front row of the global crisis, but is in the back row of decision-making," Jaishankar said, adding that institutions created for a different era still reflected the power structures of that time. "The Global South needs to be part of decision-making structures that deliberate on issues that directly pertain to our future," he said.
+
+He said the number of active conflicts had risen over the past year and this posed a significant risk to the global economy, especially for developing countries. "At a time when we needed to turn to multilateralism, we actually witnessed its dismantling. International organisations that we hope would deliver solutions have instead become a problem for us to solve," he said, stressing that there had never been a more critical moment for solidarity among Global South countries.
+
+Jaishankar outlined a set of priorities for cooperation. He said Global South countries must "not accept or legitimise" chokepoints in supply chains, finance or connectivity. "Energy security is at the heart of development. Availability and prices should not be manipulated for political ends," he said. He added that food security was a shared goal and that challenges 
+
+Referring to the ongoing conflict in West Asia, Jaishankar said maritime commons must be secured, international law observed, and the safety and security of seafarers and commercial shipping guaranteed. On Artificial Intelligence, he cautioned that the transformation driven by the technology must not create new divides. India also called on Global South nations to use existing platforms to "highlight the concerns of the Global South, with a view to ensure that our concerns do not get deprioritised". He said closer economic cooperation among Global South countries was needed to shield developing nations from the effects of overlapping crises.
+
+On AI, Jaishankar said, "we should share indigenous-developed tools and frameworks for the benefit of Global South members and ensure that AI remains human-centric." He also said that, rather than relying only on the Global North, frameworks such as the International Solar Alliance and the Coalition for Disaster Resilient Infrastructure could help deliver needed progress on climate action.
+
+Jaishankar, who is leading the Indian delegation for the high-level UNGA session, also held a series of bilateral and multilateral meetings on the first day of his engagements in New York and continued them on Tuesday. He described his first meeting with Uganda Foreign Minister Adonia Ayebare as "cordial", saying they agreed to "cooperate closely to strengthen our bilateral relations, focusing on development partnership, capacity building, defence training and agriculture. Appreciate our close multilateral cooperation." He said his talks with Italy's Deputy Prime Minister and Foreign Minister Antonio Tajani "focused on the Gulf situation, IMEC, and the Ukraine conflict", referring to the India-Middle East-Europe Economic Corridor.
+
+Jaishankar also said he was privileged to meet Trinidad and Tobago Prime Minister Kamla Persad-Bissessar. He said they noted progress on commitments made during Prime Minister Narendra Modi's visit, including laptop supply, limb fitments, academic chairs, solarisation and Quick Impact Projects, and discussed deepening the development partnership. He also appreciated the close cooperation in the multilateral domain. Modi had paid an official visit to Trinidad and Tobago in July last year.
+
+In his UN remarks and meetings on the sidelines of the session, Jaishankar underlined India's call for a stronger voice for the Global South, greater cooperation among developing countries, and reforms in global institutions, while also reviewing bilateral ties with several partner nations.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Sep 23, 2026 09:56 IST
+
+---
+
+### Big Setback For India As Manu Bhaker Misses Medal, Finishes Fifth In Asian Games 10m Air Pistol Final
+*Unknown · sports*
+
+Indian shooter Manu Bhaker finished fifth in the women's 10m air pistol individual final at the Asian Games 2026 on Wednesday, scoring 181.1 points before being eliminated after the 18th shot.
+
+[Read full article](https://sports.ndtv.com/shooting/big-setback-for-india-as-manu-bhaker-misses-medal-finishes-fifth-in-asian-games-10m-air-pistol-final-12084578)
+
+---
+
+### Cyclone 'Arnab' Live Updates: Deep Depression Near Odisha-Andhra Coast, Landfall Likely Tonight; Heavy Rain Alert Issued
+*Shuddhanta Patra · general*
+
+Cyclone Arnab Live Updates: Heavy rainfall, strong winds are predicted for West Bengal, Odisha and Andhra Pradesh with possible landfall expected between September 23 and 24.
+
+[Read full article](https://www.news18.com/india/cyclone-arnab-live-updates-imd-forecast-deep-depression-heavy-rain-odisha-andhra-pradesh-weather-schools-closed-liveblog-10347497.html)
+
+---
+
+### Dixon eyes world's top 5 electronics makers within a decade, bets on components beyond phones
+*SECTIONS Dixon eyes world's top · general*
+
+Dixon Technologies is aiming to break into the ranks of the world's five largest electronics contract manufacturers within a decade, betting on components, IT hardware and data centre equipment to lift margins beyond its mainstay smartphone assembly business, Chairman and founder Sunil Vachani told Bloomberg Television.
+
+The Noida-based company, which currently ranks outside the global top 10 in an industry led by Taiwan's Foxconn, wants to enter the top 10 within five years, Vachani said in an interview in Mumbai.
+
+  
+
+"The vision is very clear," Vachani, 57, said. "We need to be in the top ten EMS global rankings in the next five years and the top five in the next 10 years," he added, referring to electronics manufacturing services.
+
+**Push into components**
+
+Dixon is looking to make higher-margin components such as camera modules while expanding its smartphone and laptop production, Vachani told Bloomberg.
+
+Dixon's management said on the company's earnings call that it plans to scale annual camera module capacity through its subsidiary Q Tech from 70 million units to 180-190 million units over the next 15 to 18 months. Trials at its display facility are slated to begin in the third quarter of FY27, with mass production expected in the fourth quarter, the management added.
+
+**IT hardware and data centres**
+
+Dixon is also moving into servers and defence manufacturing, Vachani told Bloomberg. The company has partnered with a Taiwanese firm to manufacture optical equipment used in data centres and will open a second IT hardware plant in late November, he said.
+
+"India imports IT hardware worth almost $15 billion," Vachani said. "That's going to be a huge area for growth for the company."
+
+**Vivo venture cleared**
+
+Smartphones account for over 90% of Dixon's revenue. The company this year won government approval for a smartphone manufacturing venture with the Indian unit of China's Vivo.
+
+According to the company, Dixon will hold 51% in the venture and Vivo the remaining 49%. The approval came after a review under Press Note 3, which governs investments from countries sharing a land border with India. The venture is scheduled to begin operations in the third quarter of FY27, the company said.
+
+Excluding the Vivo venture, Dixon expects FY27 mobile volumes to remain flat to positive at 32-33 million units, despite a double-digit contraction in the domestic smartphone market, its management said.
+
+**Margins under pressure**
+
+The expansion comes as Dixon's core business faces margin pressure. In its results for the quarter ended June 30, 2026, filed with the stock exchanges on July 31, the company reported a 21% year-on-year rise in revenue from operations to ₹15,547.66 crore, while net profit attributable to owners rose to ₹663.42 crore from ₹225 crore a year earlier.
+
+The profit jump was largely one-off. According to Dixon's investor presentation, the quarter included a fair value gain of ₹519 crore on its 2.38% stake in Aditya Infotech. Excluding this, EBITDA fell 2% to ₹472 crore and the margin narrowed 80 basis points to 3%. The company attributed the margin pressure in its mobile business partly to the end of benefits under the first mobile PLI scheme.
+
+Dixon's shares surged after its 2017 listing but have lost momentum as investors weigh its ability to compete with larger global rivals. The stock has fallen 28% over the past year.
+
+**From rented shed to 'India's Foxconn'**
+
+Vachani founded Dixon three decades ago with borrowed money in a rented shed on the outskirts of New Delhi. The company now manufactures smartphones, washing machines and televisions for brands including Motorola, Xiaomi, HP and Samsung, earning it the label of India's Foxconn.
+
+Its ambitions mirror the government's push to draw manufacturing to India through production-linked subsidies. While the country has made early gains in attracting brands such as Apple and Samsung, it still trails manufacturing powerhouses China and Taiwan.
+
+---
+
+### Countries still way behind on UN biodiversity targets, research shows
+*Reuters · business*
+
+Singapore: Governments are set to fall well short of meeting a major UN target to protect and conserve biodiversity in at least 30% of the world's land and seas by 2030, research published on Wednesday showed.
+
+As part of the Kunming-Montreal Global Biodiversity Framework agreed in late 2022, nearly 200 countries signed on to the "30 by 30" goal and pledged to mobilise at least $200 billion a year to reverse decades of biodiversity loss.
+
+But while another 1.3 million sq km of land and 6 million sq km of marine areas have come under formal protection since the agreement went into effect, total coverage is still only 20% and 10% respectively, according to research by several environmental groups led by the US-based Campaign for Nature.
+
+  
+
+The findings are in line with an official progress report due to be submitted to the UN Convention on Biological Diversity conference in Yerevan, Armenia, next month.
+
+A draft released in July warned that none of the 23 goals in the agreement would be reached by 2030 "unless collective implementation accelerates rapidly".
+
+"Progress is being made clearly, but it is uneven, and it is clearly also not at the pace and scale required to achieve the Framework's 23 targets by 2030," Astrid Schomaker, executive secretary of the UNCBD, said at a briefing this month.
+
+The Campaign for Nature report said around 26% of terrestrial and inland water areas would be protected if all existing government pledges were fulfilled by 2030, but only 13% of marine ecosystems would be covered.
+
+The annual funding shortfall is approximately $75 billion to $150 billion, with spending on marine protection standing at just $1.8 billion, well below the $16 billion required, it said.
+
+Even if the "30x30" targets were achieved, more efforts were needed to ensure that ecosystems were genuinely protected, it said, noting that of the 10% of the ocean currently covered by protection plans, only 3.5% was considered "effectively" protected.
+
+"There's a significant gap between protection on paper and protection in practice. A line on a map does not mean protection in the water," said Pauli Merriman, senior director for oceans at WWF International.
+
+
+---
+
 ## 22 September 2026
 
 ### Noel Tata suggests Tata Sons split to avoid RBI-mandated listing
