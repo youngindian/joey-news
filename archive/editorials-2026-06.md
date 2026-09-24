@@ -1,5 +1,191 @@
 # Editorials archive — 2026-06
 
+## 25 June 2026
+
+### Beyond tax cuts, a closer read of the Union Budget
+*The Hindu · Opinion*
+
+The Union Finance Minister, Nirmala Sitharaman’s presentation of the Union Budget on Saturday, February 1, was against the backdrop of pressing macroeconomic challenges — persistently high taxes and unemployment squeezing the middle-income class, subdued private investment, mounting external vulnerabilities that threaten to derail the growth story, and a looming fiscal overhang. While the Finance Minister laid out an ambitious road map for Viksit Bharat, spanning agriculture, manufacturing, micro, small and medium enterprises (MSME), social welfare, and infrastructure, the Budget’s policy announcements and fiscal plans need closer scrutiny.
+
+Politically-patronised private investment crowding out broad-based private investment: Congress
+
+Targets that raise questionsFirst, the fiscal consolidation target of 4.4% of GDP in FY26 is a key highlight of the Budget. However, achieving this target hinges on ambitious revenue projections, including a 11.2% growth in total tax revenues and a 14.4% increase in income tax revenues compared to FY25 estimates. These assumptions appear overly optimistic given the significant tax cuts announced in the Budget and the prevailing economic headwinds such as softening domestic consumption and weakening external demand. Much will also depend on the success of the second asset monetisation plan (2025-30), announced in the Budget. The underperformance of the previous asset monetisation programme raises valid concerns. Furthermore, the estimated ₹11.54 lakh crore in net market borrowings risks crowding out private capital at a critical juncture when credit demand remains tepid. Achieving the ambitious revenue targets will require improved tax buoyancy, more efficient tax administration, and realistic asset monetisation strategies to ensure that the fiscal consolidation plan remains on track.
+
+Related StoriesUnion Budget 2025: A force multiplier, will fulfil the dreams and aspirations of 140 crore Indians, says PM Modi
+
+FM trudging on ‘worn-out’ path; tax cuts after decade of high rates: Congress
+
+Union Budget 2025: BJP finally speaks to middle class base, goodies for Bihar too
+
+Union Budget 2025: Budget brings in plenty for poll-bound Bihar; RJD flags lack of special package
+
+Budget has no steps to address structural challenges economy is facing: Opposition
+
+Second, the revisions in personal income-tax rates and slabs under the new tax regime, exempting incomes up to ₹12 lakh from tax (after factoring in the rebate benefit), and significantly reducing tax liabilities across various income brackets, offer welcome relief to middle-income taxpayers.
+
+However, while these changes are likely to boost disposable income, they shall come at a cost — of ₹1 lakh crore in foregone direct tax revenue, which, in turn, could constrain the government’s ability to fund critical developmental initiatives. The tax-base erosion also comes when household savings have shown a structural decline over the past decade, dropping to 18.4% of GDP in FY23 (Economic Survey 2024-25). This raises pressing questions about the long-term sustainability of these tax cuts, particularly when public investments in infrastructure and social welfare remain critical to drive inclusive economic growth.
+
+Third, on the manufacturing front, the Budget reiterates India’s ambition to emerge as a global manufacturing powerhouse. The Economic Survey 2024-25 flagged India’s underperformance in manufacturing, which accounts for a mere 17% of GDP. While production-linked incentives (PLIs) have shown moderate success in sectors such as electronics, their scalability and long-term impact remain uncertain. In that light, the Budget announcements on enhanced credit facilities for MSMEs and the launch of a National Manufacturing Mission aimed at improving ease of doing business, to foster a future-ready workforce, and promote clean-tech manufacturing, are important steps. The revision of MSME classification criteria — increasing investment limits by 2.5x and doubling turnover thresholds— may improve scale economies. However, the measures fall short of addressing core competitiveness issues such as regulatory inefficiencies, infrastructure gaps, and low innovation capacity. The absence of concrete measures to boost industrial research and development — currently at a dismal 0.64% of GDP — undermines India’s ability to compete with innovation-driven economies such as China and Germany. While the Budget’s focus on manufacturing is a step in the right direction, achieving global competitiveness will require deeper structural reforms and sustained investment in innovation and infrastructure.
+
+Related StoriesUnion Budget 2025: Infrastructure
+
+Union Budget 2025: Data
+
+Union Budget 2025: Taxes
+
+Union Budget 2025: Economy
+
+The gaps remain in agricultureFourth, agriculture, a key pillar of the economy, received significant attention through initiatives such as the Prime Minister Dhan-Dhaanya Krishi Yojana and the National Mission on High-Yielding Seeds. These measures are with the aim of enhancing productivity and climate resilience, which are critical for food security. The increase in the Kisan Credit Card (KCC) loan limit from ₹3 lakh to ₹5 lakh, along with targeted interventions in 100 low-productivity districts, signals a strategic pivot from blanket subsidies to precision support, empowering farmers with greater financial flexibility. However, the measures fall short of addressing systemic inefficiencies in agricultural markets. The Budget lays an emphasis on credit enhancements, yet the focus on short-term loans perpetuates the dependency of farmers on debt without addressing the issues of price volatility or market access. Moreover, the absence of concrete measures to promote agricultural exports — particularly as India eyes leadership in millets and natural farming — represents a missed opportunity.
+
+Fifth, while the Budget introduces some promising measures for the external sector, significant gaps remain unaddressed. Services exports, particularly in IT and business process outsourcing, continue to grow at a robust 10.5% CAGR, but budgetary efforts to diversify the export portfolio remain insufficient. Trade facilitation initiatives such as Bharat Trade Net (BTN) and export credit support for MSMEs, which were announced in the Budget, are positive steps but lack the scale required to tackle India’s persistent trade deficits. Moreover, the challenges posed by the depreciation of the rupee and declining forex reserves require a more ambitious export strategy. The fiscal push to value-added sectors such as pharmaceuticals, electronics, renewable energy, and high-value agricultural products could have strengthened India’s position in global supply chains and enhanced export competitiveness.
+
+Not a transformative pushFinally, while the Budget signals intent on climate action and clean energy, its financial commitments reveal a cautious, incremental approach rather than a transformative push. The Budget’s focus on supply-chain resilience — through incentives for lithium-ion battery recycling, duty exemptions on critical minerals, and support for domestic solar photovoltaic and battery manufacturing — is a pragmatic move to reduce import dependence. However, without a parallel investment in grid modernisation, energy storage, and industrial decarbonisation, the transition to a low-carbon economy will remain fragmented.
+
+Related StoriesWatch: Union Budget 2025 | Key Highlights
+
+Union Budget 2025: What’s in it for women and children?
+
+Union Budget 2025: What’s in it for Defence sector
+
+Watch: Union Budget 2025: What’s in it for energy sector?
+
+Watch: Union Budget 2025: What’s in it for agriculture?
+
+Watch: Union Budget 2025 | What’s in it for health sector?
+
+Watch: Union Budget 2025: What’s in it for aviation?
+
+Union Budget 2025 | What’s in it for textile, apparel, footwear and leather sectors?
+
+The Budget’s fiscal outlays will eventually be judged by how effectively they address the fundamental trade-offs of Indian growth: how to unleash private enterprise while ensuring inclusive development; how to boost consumption without compromising savings, and how to accelerate growth while maintaining macroeconomic stability. Ultimately, the credibility of execution and the government’s willingness to course-correct where necessary will matter.
+
+Amarendu Nandy is an Assistant Professor (Economics Area) at the Indian Institute of Management (IIM) Ranchi. The views expressed are personal
+
+[Read full article](https://www.thehindu.com/opinion/lead/beyond-tax-cuts-a-closer-read-of-the-union-budget/article69173394.ece)
+
+---
+
+### PACOM, the deeper meaning behind a dropped prefix
+*The Hindu · Opinion*
+
+The decision by the United States military to change the name of its unified combatant command in the region from “US INDOPACOM” to “US PACOM” — United States Indo-Pacific Command to United States Pacific Command — reverting to its original name that was changed in 2018 can be dismissed as superficial, even trivial. Many have already responded with the Shakespearean “What’s in a name?”, even as the U.S. Department of War pointed out that US PACOM’s area of responsibility, from “the waters off the West Coast of the United States to the western border of India” or what had once been described as “Hollywood to Bollywood, from polar bears to penguins”, has never changed. In 2018, U.S. Defence Secretary Jim Mattis said that the name INDOPACOM was a recognition of the “growing significance” of the Indian Ocean, the Indian subcontinent, and India itself, and the U.S. dropped the term “Asia-Pacific” to “Indo-Pacific”.
+
+Current U.S. Secretary of War Pete Hegseth gave the signal, on May 30, that this understanding has now changed, at his speech at the annual Shangri-La Dialogue in Singapore — compared to more than 30 references to the “Indo-Pacific” in his speech in 2025, his speech this year contained not a single reference to the Indo-Pacific region or strategy.
+
+Given the centre stage that the U.S.’s Indo-Pacific policy has had in India’s strategic calculus since 2018, it is necessary, therefore, to go beyond the superficial to the subterranean or submarine, in this case. New Delhi must study how broader trends in U.S. policy are attempting to recast both the region and India’s position within it in terms of three broader geographies.
+
+ALSO WATCH Watch: India & U.S. | Did Rubio’s visit mend ties? | Worldview
+
+U.S.-China ties and the QuadThe first, is the U.S.’s outreach to China, and concurrently diminishing salience of the Quad (India, Japan, Australia, the U.S.), which Beijing has always protested as an “exclusive clique” or derisively as “ocean foam”. In the long term, the U.S. and China cannot shy away from the fierce rivalry between them, but it is clear that in the immediate term, Trump 2.0 has decided to play nice.
+
+Related StoriesQuad FMs announce maritime, energy initiatives amidst Hormuz chokehold, tense South China Sea
+
+No clarity on next Quad leaders summit, sparking questions about the group’s future
+
+China asks Quad to stop meddling in maritime affairs in its neighbourhood
+
+U.S. President Donald Trump’s visit to Beijing in May 2026 and Chinese President Xi Jinping’s upcoming visit to the U.S. on September 24, indicate that the two sides do not want their differences to overcome the relationship, and the U.S. is tiptoeing around the Taiwan issue. Mr. Trump’s references to a “G-2”, including during a press availability with Mr. Modi on the sidelines of the 52nd G-7 summit in France (June 15 to 17), are an early warning of a plan to recast the world into “spheres of influence”, where China would be the predominant power in the continent, not as one pole in a multipolar Asia, as India envisions.
+
+As a result, the Quad, rebuilt in Trump 1.0 as a counter to China in the region, appears to be floundering. The U.S.’s National Defense Strategy released in January 2026 does not mention the Quad even once. In terms of substance, the Quad’s combined agenda has been pared down to four areas of cooperation — maritime security, economic prosperity, critical and emerging minerals technology and disaster responses. Even within these limited objectives, there have been setbacks, such as over Artificial Intelligence cooperation. Despite Quad countries signing on to Pax Silica, and Critical Minerals Initiative Framework with the U.S., the Trump administration ordered Anthropic to end access to its latest models for all non-Americans.
+
+Another question concerns the Quad Summit, which India has unsuccessfully sought to host since January 2024. During U.S. Secretary of State Marco Rubio’s visit to Delhi in May 2026, he offered no firm commitment that Mr. Trump would visit Delhi this year, amid indications that the Quad may be relegated to a Foreign Ministers’ level grouping. The U.S. Navy’s reported actions involving Iranian ship IRIS Dena (March 2026) and recent attacks on three ships in which three Indians were killed underscore maritime security and domain awareness concerns within the Quad framework. In July, when he hosts Japanese Prime Minister Sanae Takaichi and travels to Indonesia, Australia and New Zealand, Prime Minister Narendra Modi must discuss alternative maritime coalitions and revive the Australia-India-Japan trilateral.
+
+The U.S.-Iran MoU and West AsiaThe second geography of concern is West Asia. The U.S. ceasefire with Iran, after just a few months of a surprisingly badly planned war, is indicative of a general fatigue in Trump 2.0 with U.S. friends and allies in the region. The situation is even more volatile today than it was prior to February 28, especially given the short shrift Israel has received in negotiations with Iran, and Prime Minister Benjamin Netanyahu’s defiance over the ceasefire for Lebanon.
+
+A closer look at the 14-paragraph “Islamabad MoU” released by Iran reveals several signals for the region. Paragraph four states that the U.S. commits to “remove its forces from the proximity of the Islamic Republic of Iran” within 30 days after the final deal. Paragraph five says that, after the Hormuz Strait is demined, Iran and Oman will define the Strait’s future administration in consultation with Persian Gulf littoral states.
+
+Paragraph 6 stipulates that the U.S., along with regional allies, will provide at least $300 billion for Iran’s reconstruction. These provisions imply commitments on behalf of the Cooperation Council for the Arab States of the Gulf (GCC) states while giving Iran leverage on key issues — military, connectivity, and economic security. Oman and Qatar are now closer to Iran than before and have been part of the Pakistan-led mediation process, while countries such as Saudi Arabia are seeking new security arrangements with Türkiye, Pakistan, and Ukraine.
+
+India’s policy towards the region requires a rapid revision in light of the post-war, post-deal power structure. What was once a finely balanced approach now appears tilted towards Israel and the United Arab Emirates. New Delhi must also urgently reconsider its compliance with U.S. sanctions on Iranian oil and the Chabahar port, given Washington’s shifting positions.
+
+The U.S. and South AsiaFinally, India must study the implications of U.S. foreign policy decisions in its neighbourhood. The appointment of Sergio Gor as both U.S. Ambassador to India and Special Envoy for South and Central Asia signals Washington’s growing regional ambitions. New Delhi has pushed back on attempts by the U.S. to become a supra entity in South Asia, as well as its efforts to resolve intra-regional conflicts between India and Pakistan. This ambition was hinted at during Operation Sindoor (May 2025), and repeated by Mr. Trump over the past year, especially as he met the Pakistani leadership many times in this period.
+
+Mr. Gor’s recent travels to Kathmandu, Thimphu, Dhaka, Colombo and Male indicate that the U.S. is keen to broaden its efforts across the region. In the absence of effective pan-regional frameworks such as the South Asian Association for Regional Cooperation (SAARC) and the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC) — both are constrained by New Delhi’s political tensions with Islamabad and Dhaka — it is clear that the U.S. is entering into competition with China for influence in South Asia.
+
+Beijing has already built several mechanisms for cooperation with South Asia, and both powers side-stepping India. India, as chair of the Indian Ocean Rim Association, and with Mr. Modi due to attend the planned BIMSTEC summit in Bangladesh and the Shanghai Cooperation Organisation (SCO) summit in Pakistan next year, has an opportunity to reassert its regional leadership. Given the opportunities, a revival of the SAARC grouping and other pan-regional initiatives must be considered.
+
+Concerns over the U.S.’s moves across India’s geographies may seem contrary to the bonhomie at the Modi-Trump meeting at the G-7 meet in France, and the red carpet for Mr. Rubio’s India visit. Shorn of the rhetoric, however, the trends in U.S. policy are clear, and New Delhi must plan accordingly, acknowledging that the shifts run far deeper than the ripples on the surface caused by a dropped prefix.
+
+[Read full article](https://www.thehindu.com/opinion/lead/pacom-the-deeper-meaning-behind-a-dropped-prefix/article71142634.ece)
+
+---
+
+### DC Edit | Take Steps To Allay Stress Of El Nino-hit Monsoon
+*Deccan Chronicle · Editorial*
+
+El Nino — Spanish may be one of the most distant languages for the sub-continent, but the two words strung together in the 16th century by Peruvians are no strangers to India and Indians. With this year's El Nino set to be one of the strongest in history and expected to leave scars on India — the beginnings of some which are already becoming visible in the form of deficient rainfall across large swathes of the country — the phenomenon of a tongue of warming water welling up in the Central Pacific Ocean could well become the most talked about weather phenomenon in the country.
+
+For a country driven by the summer monsoon rain, the sub-par rainy season that the Indian Meteorological Department had predicted is nothing short of a punch in the solar plexus. The challenge may not be as much as meeting the drinking water needs of the people, despite rivers expected not to be in full flow as they have been the past several years. What’s most concerning is that around 51 per cent of the country's net sown area of 1,410 lakh hectares of cropland depends on rain.
+
+The even greater challenge is the ability, or willingness, of the Central and state governments to take the people into confidence, speak openly about what might happen if the IMD predictions hold true or take a turn for the worse which appears to be the case as of now. The question is not about hitting the panic button, but preparing people for what might come, especially with the El Nino expected to last till around February 2027.
+
+While it is too early to say what might happen with next year's rainy season, what needs to be borne in mind is that India's rivers will have to work double time to make up for this year's deficits next year which means even a normal monsoon season in 2027 could still pose some challenges.
+
+There appears to be a distant silver lining in that the Indian Ocean Dipole — a sea condition that can act as a countervailing factor that can mitigate El Nino's impact — may turn positive, but this for now remains in the realm of meteorological speculation. If it does happen, it might just be too late to save the summer monsoon season.
+
+Governments, as a rule, are wary, or even downright reluctant to share bad news with the people. But there comes a time in every country's life when the truth must be spoken, and people must be prepared for the worst.
+
+No one wants a poor, or even worse, a bad monsoon, but the signs are already there. The agriculture ministry has placed 315 districts in the country on a poor monsoon watch list. This number alone does not tell the whole truth as it appears to be small for a country as vast as India. But 315 represents 39 per cent of Indian landmass and the prospect of more than a third of the country being brought to its knees is a thought that should send shudders through the rank and file of the country’s planners.
+
+When rivers start running dry, existing inter-state battles over river water sharing will likely turn more intense as states seek drinking water supplies. What the skies are set to do this year has been predicted. What remains to be seen is what those on the ground will do now.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-take-steps-to-allay-stress-of-el-nino-hit-monsoon-1966262)
+
+---
+
+### DC Edit | TN Power Mess: Shockwaves
+*Deccan Chronicle · Editorial*
+
+It’s shocking. Some of the revelations made by Tamil Nadu minister for electricity C.T.R. Nirmal Kumar through a White Paper on Thursday were more shocking than touching a live high voltage electric wire. Apart from the Electricity Board accumulating a debt of Rs 2,47,130 crore over the years, which has already come to light, the White Paper revealed that electricity infrastructure had not improved in proportion to the money spent on it.
+
+Another startling revelation was that 65,921 vacancies in the department have not been filled over the years and when 9,136 employees retired between 2021 and 2026 only 343 recruitments were made in lieu of that. Since the White Paper traces a 25-year financial trajectory of the department, it will be preposterous to say that the present TVK government, led by C. Joseph Vijay, was trying to besmirch the image of the previous regime. Still, a plethora of touchy questions arises: Why were the vacancies that rose due to the retirement of 9,136 employees not filled in full? Was it financial constraints or someone was waiting for some quid pro quo from potential recruits, as gossip suggests?
+
+Whatever it was, it was nothing but gross mismanagement since an essential service like electricity cannot be provided without the requisite manpower. Then, it is troubling to note that the department has been purchasing power from the Centre, other states and private companies to offset its peak hour demand of 21,307 MW at exorbitant rates. But, transcending the blame game, the present government has promised to cut down the amount spent on the power purchase through short term agreements and save Rs 215 crore every month by entering into long term contracts.
+
+And, too, the new government has assured it shall fill up 20,000 job vacancies in the department this year and regularise the employment of 5,391 gangmen appointed in 2021, which are all efforts that would go into improving the board’s services.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-tn-power-mess-shockwaves-1966268)
+
+---
+
+### Abhijit Bhattacharyya | Currency Stability Basis Of A Nation’s Economy
+*Deccan Chronicle · Opinion*
+
+One doesn’t have to be a Nobel laureate in Economics like Dr Amartya Sen or Dr Abhijit Banerjee or a Nasa rocket scientist to state that no continent-like nation of India, with 1.42 billion people, will ever find a place under the sun with a chronic unstable, weak and depreciating currency. Not even if a GDP upswing puts India in the company of ultra-rich members of the global elite club.
+
+Let us, therefore, explore the contours of the Indian rupee as in June 2026 it silently completed the “diamond jubilee” of the first major devaluation on June 6, 1966. Six decades ago, when the rupee was 4.76 to a dollar, it was devalued to 7.50 to a dollar by the government of Prime Minister Indira Gandhi, who had been catapulted into office just four months earlier, on January 25, 1966, following the death of Lal Bahadur Shastri.
+
+India’s first woman PM got deep into an all-round mess of two wars (the 1962 treachery by the Chinese and the aggression of Pakistani dictator Ayub Khan in 1965). A combination of drought, an adverse trade balance, a mounting current account deficit and acute foreign exchange crisis led to India facing potential economic collapse. The nail in coffin was due to the stringent loan/aid conditions imposed by the World Bank and International Monetary Fund.
+
+While a country’s GDP is not the only factor to measure a nation’s economic strength, the other factors also didn’t work in India’s favour, right from the 1950s. A major pressure point on India’s Budget of fiscal deficit, trade imbalance and rickety foreign currency basket was India always had a trade deficit from 1950 till now (2026), and there are no signs that it will improve in the foreseeable future.
+
+Yet, India’s “forward movement” originated from the sheer size of India’s population rather than the per-capita value as an economic parameter. Thus, if the GDP of the UK, France or Germany is overtaken by India it must be understood that while the sheer number of people in these three European nations are just a fraction of India’s population, New Delhi’s per capita will reveal the reality of wide hiatus between the South Asian giant and the combo of London, Paris and Berlin.
+
+However, it must be appreciated that while the exchange rate of one Indian rupee was one US dollar in 1947, it declined to 4.76 to the US dollar by 1949. Then, for 17 long years, the rupee’s rate was fixed and stable till June 1966, as it was pegged under the Bretton Woods system. It looks remarkable in retrospect when we experience the daily turbulence of the volatile Indian currency, endlessly nose-diving in the last six decades. However, the question is: how did the rupee’s rate remain steady for 17 long years, all through the Jawaharlal Nehru era, till 1963, and beyond -- till 1966?
+
+Whatever be the views of both critics and admirers of Nehru, it is an indisputable fact that despite the “slow speed”, India had showed visible signs of growth in the Nehru era, sowing the seeds of indigenous industrialisation and steady macro-economic policy. This currency stability of India can only be seen in the context of post-1945 era Japan as an example of economic growth. The war left Japan vanquished and its economy ravaged. Japan was in ruins and nothing seemed possible due to debilitating inflation. Yet there emerged an unlikely saviour from America: Joseph Dodge, former president of Detroit Bank for 19 years. Dodge believed in the banker’s conservative philosophy: “Sound currency, balanced budget and financial stability”. In one stroke, Dodge had “arbitrarily decided” on a single exchange rate -- 360 yen to a dollar -- in 1949. Initially, what seemed to be a Japanese currency massacre by an American, remained rock steady for 22 years till 1971. Tokyo’s devalued currency made Japanese goods dirt cheap in global markets, which laid the foundation of the “Japanese economic miracle” in the next few decades.
+
+Yesterday’s (1949) 360 yen to a dollar is now 160 yen to one dollar. The yen gained strength in 77 years. During the same time, however, the Indian currency plunged -- from 4.76 to the dollar in 1949 to around Rs 95-96 to the dollar in the foreign exchange markets. Japan’s yen rose. India’s rupee fell, and continues to fall, or keep fluctuating, virtually every day.
+
+The irreversible reality is that India’s trade deficit continues as it is unable to take advantage of its “weak” currency to push the export of its goods, commodities and services.
+
+After 1966, the depreciation of the rupee and the imbalance in trade ran hand-in-hand. In 1976, the rupee stood at 8.96 to the dollar; in 1986 it was 12.61; in 1996 it shot up to 35.43; in 2006 it became 45.31; in 2014 it's 62.33. In 2026, it’s fluctuating in the mid-90s, with uncertainty all around. Thus, the currency depreciation and trade imbalance are in tandem, causing severe damage to India’s economy.
+
+There are many causes and consequences; and remedial steps are easier said than done. Some powerful corporations and...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/abhijit-bhattacharyya-currency-stability-basis-of-a-nations-economy-1966253)
+
+---
+
+### Kamal Davar | What’s in a name… Why ‘Indo-Pacific’ has Reverted to US ‘Pacific’ Command?
+*Deccan Chronicle · Opinion*
+
+A historical question, “What’s in a name?”, embellishes William Shakespeare’s magnum opus Romeo and Juliet, and this phrase has been utilised countless times, both seriously and in jest, depending upon the user’s inclination to give it the colour or meaning they warrant. Most people employ this phrase lightly as they feel that, irrespective of the name or title given to an individual or institution, the true worth of an individual or institution lies far beyond its mere name.Anyway, names do carry ample cultural and symbolic significance, and the above-mentioned phrase is followed in Shakespeare’s play by another famous line: “A rose by any other name would smell as sweet.”Extending this expression to the recent geopolitical churn and the catastrophic wars taking place around the world, some changes in military and economic alliances between nations are currently underway. The renaming of the erstwhile US “Indo-Pacific Command” the other day is an example of shifting geopolitical and strategic considerations. The current lack of warmth in India-US relations would perhaps also be a reason for this name change.The Pentagon has officially announced that the name of the US Indo-Pacific Command (USINDOPACOM) has been restored to its legacy name, the US Pacific Command (USPACOM), which had been changed earlier in 2018 to include the word “Indo” to signify the growing strategic importance of the Indian Ocean and its linkages to the Pacific Ocean and, importantly, India’s emerging geopolitical role.Additionally, the Pentagon has stated that the “reversion honours the command’s deep historical roots, fostering a sense of pride for the oldest and largest unified command”, which was established in 1947.The question now engaging the minds of many Indian servicemembers and strategic analysts is: What was the reason for this so-called name change? The Americans, not all though, would naturally ask the Indians: “What’s in a name?” Our reply could be: a lot. Our fading, one-sided friendship, engineered by the mercurial US President Donald Trump, may be the reason.The US has eleven combat commands, which include seven geographic commands. USPACOM was the designation for the oldest and largest geographic unified combatant command. Its operational boundaries extend from the US West Coast to the western border of India. It is manned by over 375,000 personnel from the US armed forces.Though US officials insist that removing the word “Indo” does not dilute their established operational missions, including their commitment to a free and open Indo-Pacific region, many strategic analysts argue that it unequivocally conveys a strategic message to the global community, especially to India.It requires no emphasis to state that, since the last couple of years, especially during the Trump administration 2.0, relations between the so-called strategic allies, India and the US, have plummeted owing to President Trump’s policies of imposing very high tariffs on India and making the grant of US H-1B visas grossly unaffordable.As we fathom the reason for this unwarranted change in name, the China factor positively has to be reckoned with. It is a well-known fact worldwide that the military and economic gap between the United States and China is narrowing by the year. The US, for reasons best known to Washington, even under an over-talkative and policy-shifting President, appears to be trying to keep China in good humour.President Trump’s recent visit to China was a diplomatic setback for the US. Even during the US-Israel combined war with Iran, at the Strait of Hormuz water bottleneck, the US targeted no Russian or Chinese cargo-carrying ships. On the contrary, three Indian flag-bearing commercial ships were targeted by the US Navy, resulting in the death of three Indian soldiers. Surprisingly, no apology from the US establishment was forthcoming. Unfortunately, the Indian government did not take up this case forcefully with the US government.Coming back to the Chinese angle in the renaming of the US Indo-Pacific Command, the US, since the early years of this century, has encouraged the formation of the Japan-sponsored Quad, comprising India, the US, Japan and Australia, and AUKUS — a trilateral military alliance comprising Australia, the UK and the US — to keep the international waters of the Indian and Pacific Oceans free for maritime traffic, as China is widely viewed as a maritime bully in this region.Though little headway has been made in further energising these alliances, there is merit in forging closer cooperation among the member nations, as China will remain a long-term strategic military and economic threat.However, it is also a fact that, without the US taking strong enough measures, both these alliances will remain merely talking shops, as China and Pakistan — America’s current favourite — would wish. US officials, however, continue to harp on the post-World War II maritime architecture being carried forward under its original...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/kamal-davar-whats-in-a-name-why-indo-pacific-has-reverted-to-us-pacific-command-1966026)
+
+---
+
 ## 14 June 2026
 
 ### Awesome foursome rattles BJP
