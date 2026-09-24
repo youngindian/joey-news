@@ -1,3 +1,342 @@
+## 24 September 2026
+
+### Rahul Gandhi speaks to IIT-B student Sahil Wakode’s parents, assures all help
+*Aryan Singh · general*
+
+Rahul Gandhi held a video call with Sahil Wakode's parents to offer support after their son's death.
+
+Congress leader Rahul Gandhi spoke to the parents of deceased IIT Bombay student Sahil Wakode and assured them of all possible help in their fight to seek justice for their son, party sources said told PTI on Thrusday.Rahul Gandhi made a video call to Ravindra and Sonali Wakode while they were travelling to Mumbai from Washim district, the sources told PTI. During the nearly 17 minute call, Gandhi told the couple that he was with them and assured them of all help.Indian Youth Congress president Uday Bhanu Chib and Maharashtra unit chief Shivraj More were also present with Sahil’s parents during the call.The conversation comes amid growing protests and demands for an independent probe into Sahil’s death.
+
+His parents have alleged that their son faced caste based discrimination and mental harassment at IIT Bombay and have sought action against those they hold responsible.Sahil, a second year BTech student at IIT Bombay, was found hanging in his hostel room on the evening of September 18. His death occurred hours after he was allegedly caught using a mobile phone to access ChatGPT during a mid semester examination.The examination incident became a key focus of the case after Sahil was allegedly stopped by a professor and taken out of the examination hall.
+
+CCTV footage from the hall, aired by some television channels on Wednesday, reportedly shows Sahil’s movements before the professor approaches him and leads him away.The Mumbai Police Crime Branch is investigating the death. An FIR has been registered alleging abetment to suicide on grounds of caste discrimination. Faculty member Suryanarayan Doolla, who has been named in the FIR, has been sent on leave to facilitate an impartial investigation.
+
+IIT Bombay has maintained that its SC/ST cell had not received a complaint from Sahil before his death. The institute has also constituted a 10 member committee to examine the circumstances surrounding the incident.Sahil’s parents have announced that they will begin an indefinite hunger strike outside the IIT Bombay gate from 11 am on Thursday. Their demands include a thorough investigation into the circumstances preceding their son’s death and action based on the findings of the probe.
+
+---
+
+### NSE IPO Listing: Shares List At Rs 1,800; Stock Rises Over 3% After Flat Market Debut
+*Mohammad Haris · business*
+
+NSE IPO Listing Price: After listing at Rs 1,800, shares of NSE jumped and were trading at Rs 1,842.95, up Rs 57.95 or 3.25% from the issue price.
+
+[Read full article](https://www.news18.com/business/ipo/nse-ipo-listing-price-today-nse-share-price-bse-listing-live-updates-ws-l-10349889.html)
+
+---
+
+### Election Commissioners Law: SC Judge Says PM's Cabinet Pick, Not CJI's Exclusion, Is Sticking Point
+*Apoorva Misra · general*
+
+A cabinet member is bound by collective responsibility under Article 75(3), the judge said, and is unlikely to cross the PM who put him on the panel, Justice Dipankar Datta said
+
+[Read full article](https://www.news18.com/india/election-commissioners-law-sc-judge-says-pms-cabinet-pick-not-cjis-exclusion-is-sticking-point-ws-l-10349890.html)
+
+---
+
+### 8 sailors attempted suicide amid prolonged USS Lincoln deployment: US Navy
+*Express Global Desk · legal*
+
+The disclosure comes after families of sailors raised concerns about deteriorating mental health of the sailors and difficult living conditions during the lengthy mission.
+
+[Read full article](https://indianexpress.com/article/world/uss-abraham-lincoln-carrier-sailors-attempt-suicide-us-navy-deployment-10891637/)
+
+---
+
+### Who is Roshibina Devi: How Manipur's Asian Games silver medallist fought last minute Injury replacement, mental harassment to win a medal
+*Trending Desk · business*
+
+Roshibina Devi, an Indian wushu star, bagged the silver medal in the 60 kg sanda event category in Asian Games on Thursday. Roshibina Devi lost to China’s Zhang Xiaoyu 2-0. She is also the first Indian, a wushu athlete to win back to back three consecutive medals in the Asian Games edition.
+
+## Who is Roshibina Devi?
+
+Roshibina Devi was born on December 3, 2000. She is from Kwasiphai Mayai Leikai in Manipur’s Bishnupur district and competes in sanda, a wushu combat discipline that combines striking and throwing techniques.
+
+  
+
+## Roshibina Devi’s Family
+
+Devi’s father, Naorem Damu, works as a farmer, while her mother, Naorem Romila, helps with agricultural activities. She has two siblings, an elder sister and a younger brother. Devi started her wushu journey in 2012 after enrolling at a Sports Authority of India (SAI) centre.
+
+  
+  
+
+## Roshibina Devi Asian Games Journey
+
+Devi made her Asian Games debut at the 2018 Jakarta-Palembang edition, competing in the women’s 60kg sanda category. She defeated Pakistan’s Mubashra Akhtar in the quarterfinal to assure herself of a medal, but lost to China’s Cai Yingying in the semifinals, finishing with bronze.
+
+At the 2023 Hangzhou Asian Games, Devi went a step further by reaching the women’s 60kg sanda final. She secured the silver medal after being defeated by China’s Wu Xiaowei in the title bout.
+
+  
+
+## Divyanshi Initially Named In India’s Wushu Squad
+
+Divyanshi Choudhary was initially included in India’s seven-member wushu squad announced by the Sports Ministry on August 22. She was selected to compete in the women’s 60kg Sanda category. She was later replaced by Roshibina after the Wushu Association of India (WAI) reported that Divyanshi had suffered an injury.
+
+  
+
+## WAI Cites ACL Injury As Reason For Replacement
+
+According to the WAI, an MRI scan found that Divyanshi had sustained a partial high-grade ACL tear. Based on medical advice, she was asked to stay away from competitive events and full training until she recovered.
+
+The federation said Divyanshi suffered the injury while competing at the 2026 SCO Wushu Sanda Championship in Hubei, China, in June. She returned to the national camp at NIS Patiala on August 10 after spending around a month at home.
+
+Divyanshi reportedly experienced pain during training after returning to the camp. As her condition worsened, she underwent an MRI at Manipal Hospital in Patiala on August 23.
+
+## Medical Review Recommended Rest And Surgery
+
+The WAI said the MRI findings were subsequently reviewed by medical personnel from the Sports Authority of India and an orthopaedic doctor. They advised Divyanshi to avoid competitive activity and full training until she recovered.
+
+According to the federation, surgery was also recommended as part of her treatment.
+
+## Divyanshi Alleges Mental Harassment
+
+In a video, Divyanshi alleged that she had faced prolonged mental harassment and claimed that Roshibina wanted to compete at the Asian Games in her place.
+
+"I am really fed up. I have been harassed so much mentally from June, July to now, it's September, I am being harassed, because she (Roshibina) wanted to go (to the Asian Games)," Divyanshi said in the video.
+
+The WAI rejected the allegation that Divyanshi was removed to make way for Roshibina. The federation maintained that the replacement was made solely because of Divyanshi’s medical condition.
+
+## Divyanshi Accepts Decision, Plans Asian Games Return
+
+Divyanshi later said she understood the federation’s decision and acknowledged that her health needed to take priority. She also expressed her intention to return stronger and target the 2030 Asian Games.
+
+However, she continued to allege that Roshibina had harassed her and her family. These allegations have not been independently established.
+
+## Sports Ministry Approves Roshibina’s Replacement
+
+The Sports Ministry subsequently approved Roshibina’s inclusion in the squad as Divyanshi’s replacement under the injury-replacement process.
+
+---
+
+### Tesla's supervised self-driving system often misreads speed limits, Belgian safety group finds
+*Reuters · business*
+
+Tesla's FSD automated-driving system frequently exceeded speed limits and attempted to overtake cyclists on streets where it's prohibited, a road-safety advocacy group said, citing tests it conducted in Belgium.
+
+The Belgian group Johanna.be - which advocates for pedestrian and cyclist safety - tested Tesla's system over three days in July, covering about 400 km (249 miles). It found that FSD often exceeded speed limits in 20 km/h and 30 km/h zones, and incorrectly displayed higher speed limits to drivers, potentially misleading them about how fast the vehicle should travel.
+
+  
+
+Tesla's FSD driver-assistance feature can perform most driving tasks but requires drivers to pay strict attention. Dutch regulator RDW approved the system in April, with Belgium and a handful of other countries following suit. An EU-wide vote could happen on October 6.
+
+Several EU countries, including Sweden, have expressed concerns about FSD exceeding speed limits, while countries that approved it say drivers remain responsible for complying with traffic laws.
+
+Tesla and RDW did not respond to Reuters requests for comment.
+
+Tesla released a study earlier this month saying that FSD-enabled Teslas do not speed excessively and drive at speeds matching surrounding traffic.
+
+Xavier Lesenne, spokesperson for the Flemish government's transportation ministry, which approved FSD in Belgium earlier this year, said it is "a learning system that continuously processes new and additional information" and adapts over time. Lesenne said the driver "remains 100% responsible" and must be ready to intervene "should the system make an error or fail to correctly apply a traffic rule."
+
+Lesenne said data from Tesla shows the technology "holds significant potential for accident prevention today."
+
+Johanna.be found that FSD exceeded the limit in the majority of the tested 30 km/h road segments around Brussels, averaging 44 km/h.
+
+Even though the vehicle's screen showed the system recognised 30 km/h speed-limit signs on the roadside, it often displayed an incorrect speed limit of 50 km/h.
+
+"It is akin to a passenger constantly reassuring the driver that the speed limit is 50 km/h in nearly every 30-zone through which they pass," the report said.
+
+Videos collected by the group show the FSD-enabled Tesla attempting to overtake cyclists on streets where doing so is not allowed.
+
+The European Transport Safety Council has previously raised concerns about whether FSD can comply with differing road rules across Europe.
+
+The Johanna.be report also noted positive aspects of the system, saying it "behaved cautiously and courteously around pedestrians and cyclists, often yielding proactively."
+
+But those benefits "do not offset the documented failures to comply with speed limits and cycle-street regulations."
+
+The NGO said it sent the report to the Flemish ministry and RDW, urging both to reassess the approvals.
+
+---
+
+### "Reel Banane Ke Chakkr Mai...": Bihar CM Samrat Choudhary’s response on Jamui incident
+*ET Online · business*
+
+Bihar Chief Minister Samrat Choudhary reacted to the Jamui incident, referring to the accused’s social-media video and the growing “reel culture.” He said that if the accused had not made the reel, police may not have been able to identify and arrest him, while stressing that criminals cannot become...
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/reel-banane-ke-chakkr-mai-bihar-cm-samrat-choudharys-response-on-jamui-incident/videoshow/134451450.cms)
+
+---
+
+### NTA debars NEET UG aspirant for 2 years in paper leak case, bars 2027 attempt
+*India Today Education Desk · general*
+
+The National Testing Agency (NTA) has debarred Aditya Motegaonkar, the son of Latur-based coaching centre owner Shivraj Motegaonkar, from appearing for the NEET UG examination for two years in connection with this year's paper leak case. His result for the examination held earlier this year has been withheld, and he has also been declared ineligible to appear for NEET UG 2027, according to an NTA communication dated September 19.
+
+Shivraj Motegaonkar, who was arrested by the Central Bureau of Investigation in the NEET UG paper leak case, is currently in judicial custody. According to the CBI, he allegedly paid Rs 5 lakh to procure chemistry questions from P V Kulkarni, who was on the NTA panel that set the questions for the examination. The agency also alleged that his son attended Kulkarni's coaching classes where the questions were provided.
+
+### NEET UG 2026 RESULT PUT ON HOLD FOR THIS ASPIRANT
+
+After conducting the NEET UG retest on June 21, the NTA put Aditya Motegaonkar's result on hold and sought his explanation over the alleged irregularities. In his response, he denied having used any unfair means during the examination. He also said the notice issued to him 
+
+The National Eligibility cum Entrance Test (Undergraduate), or NEET UG, is conducted by the NTA for medical aspirants. On May 12, the NTA cancelled the NEET UG held on May 3 for admissions to medical courses following allegations of a paper leak. A re-examination was then conducted on June 21.
+
+Last month, the CBI submitted its final report before the designated fast-track court in Delhi dealing with "criminal cases arising from paper leaks as well as the use of other unfair means in public examinations". The latest NTA action means Aditya Motegaonkar's result remains withheld and he cannot appear for NEET UG 2027.
+
+\- Ends
+
+India Today Web Desk
+
+Sep 24, 2026 09:54 IST
+
+---
+
+### Odisha declares Puri 'red zone,' bans fishing and sea bathing
+*Ani · business*
+
+Puri: In view of the heavy rainfall forecast, Puri has been placed under a "red zone" alert for the next two days following the formation of a deep depression that has severely disrupted regional weather and marine conditions.
+
+With the sea remaining rough, the district administration has alerted tourists by hoisting red flags and has banned tourists from bathing in the sea. Lifeguards have been deployed in various sectors along the beach.
+
+Assistant Station Officer Ananta Prasad Biswal emphasised the severity of the crisis, noting that conditions are hazardous and expected to deteriorate further.
+
+  
+
+"Given the current situation, specifically the deep depression, Puri has been designated a 'red zone,' a status expected to remain in effect for the next two days... We have deployed 98 lifeguards from the Odisha Fire Service to raise awareness. The situation in Puri is dangerous today and is expected to worsen tomorrow; a deep depression has already formed, causing the sea to become extremely turbulent with high waves. Anything could happen at any moment," Ananta Prasad Biswal told ANI.
+
+In response to the escalating danger, the district administration has enforced a strict, official ban on sea bathing.
+
+Biswal said, "Red flags have already been hoisted, and lifeguards are continuously issuing warnings via loudspeakers. The government has provided lifeguards, ATV bikes, and megaphones, and the Puri administration has officially banned bathing in the sea. I urge tourists not to enter the water for the next two days."
+
+According to a Fire Services official, the collector has advised lifeguards to ensure that no tourist enters the sea for bathing, as the sea will remain turbulent with high tides. The administration is laying special emphasis on zero drowning.
+
+Amid the high tides, leave of all officers and employees has been cancelled. Fishermen who had gone out to sea for fishing have returned to the coast. Fisheries Department officials have directed fishermen to keep all their boats, nets and machines safe.
+
+Similarly, in Thoothukudi, Tamil Nadu, mechanised boat fishermen stayed ashore for the third consecutive day due to a weather alert and have been advised against venturing into the sea following warnings of strong winds over the Bay of Bengal amid prevailing weather conditions.
+
+---
+
+### Gulf nations have found ways to keep oil flowing through the Iran war, but the costs are mounting
+*SECTIONS Gulf nations have found ways · business*
+
+Germany: When Iran shut down the Strait of Hormuz at the start of the war, choking off sea passage for some 15 million barrels of oil a day, many feared that prices would skyrocket, cratering the world economy.
+
+Instead, nearly seven months on, oil is expensive but not exorbitant, and analysts say the supply is pretty much sufficient to meet current global needs, even as the higher prices cause political problems for U.S. President Donald Trump and others.
+
+  
+
+That's because Saudi Arabia and other Gulf producers quickly found alternative routes and reached for unused pipeline capacity. When Iran and its militant allies targeted those, the oil exporters and the U.S. military found others - workarounds for the workarounds - in an often clandestine game of whack-a-mole.
+
+With oil now at around $100 a barrel - higher than before the war but not as bad as feared - Iran has diminished leverage, while a U.S. naval blockade and tightened sanctions smother its own economy.
+
+But the workarounds are expensive and may not be sustainable. The drawing down of existing commercial oil stocks - especially by China - has also helped keep prices in check, but cannot continue indefinitely. And Iran could yet gain an edge with continued attacks on key oil facilities.
+
+**Pipeline backups were ready**
+
+Iran began attacking ships in the Strait of Hormuz in response to the U.S.-Israeli bombardment that started the war. In response, the Saudis turned to their East-West pipeline that carries oil to their Red Sea port of Yanbu.
+
+From there, tankers headed out through the Bab el-Mandeb Strait toward Asia. Likewise, the United Arab Emirates used its pipeline cutting across neighboring Oman to Fujairah - a route that skirts the strait.
+
+Both pipelines had spare capacity, and the UAE's state oil company ADNOC and Saudi Aramco used it to keep exports from collapsing completely during the first weeks of the war.
+
+Meanwhile, some oil leaked out of the Strait of Hormuz. In May, ship operators willing to risk Iranian attack started taking advantage of a U.S.-supervised route near Oman, defying Iran's demands to use its own vetted route. They shuttled back and forth at night with location systems and mobile phones turned off, and offloaded to tankers waiting outside the strait. Flows from Kuwait, Iraq, and the UAE started to rise again.
+
+But Iranian-backed Houthi rebels in Yemen disrupted the Yanbu workaround in July by declaring a blockade of Saudi oil shipments, threatening the Bab el-Mandeb - a repeat of the Hormuz disruption.
+
+In response, the Saudis redirected Asia shipments northwest to the Mediterranean, either through the Suez Canal or - for tankers too big to use it - a pipeline across Egypt to another tanker. The oil then made a huge detour as it was shipped around Africa and back to Asia.
+
+Then the East-West pipeline was attacked earlier this month and forced to shut down, potentially for weeks.
+
+The Saudis shift to the US-protected dark shuttle through Hormuz
+
+With oil loading halted at Yanbu from Sept. 11, the Saudis shifted again, joining other Gulf producers sending oil through the U.S.-guided corridor in the Strait of Hormuz. On Monday, six supertankers loaded 12 million barrels at Saudi terminals on the Persian Gulf, according to shipping data company Kpler.
+
+U.S. officials have touted the role of the southern corridor in keeping energy flowing while their blockade increases pressure on Iran. Adm. Brad Cooper, head of U.S. Central Command, said in a video on social media Saturday that U.S. forces had assisted 2,000 commercial ship transits and the transport of more than 1 billion barrels of oil from Gulf partner nations over "the past couple of months."
+
+Analysts estimate some 6 million barrels of oil per day or more have been passing through the Strait of Hormuz on the dark shuttle route on average - some 40% or more of prewar flows.
+
+**The workarounds keep the economy supplied, for now**
+
+Rahul Choudhary, vice president of upstream research at energy data firm Rystad Energy, did the math as follows: with 6 million or 7 million barrels per day now flowing through the southern route, plus 2 million barrels through the pipeline to Fujairah, fully 8 million or so of the blocked 15 million barrels per day from before the war have been restored.
+
+That still leaves roughly 7 million barrels per day missing from prewar flows.
+
+But wait: about 3.5 million barrels per day are being drawn down from the globe's abundant oil inventories. Meanwhile, demand has fallen by perhaps another 5 million barrels per day, due to the higher price and sluggish economic growth in key markets. Add in 500,000 to 700,000 barrels per day from other suppliers such as the U.S., and that pretty much evens out the global oil market.
+
+"Our take is that the market is very tightly balanced," Choudhary said. "That is why you are not seeing exceptionally high prices for crude; they are still in the $100 range, and they have not touched $140-$150 per barrel - which could have been the case if there was a deficit of 5-6 million barrels."
+
+In fact, Rystad foresees oil at $85-$90 per barrel in the last three months of the year, and falling to $80-$82 next year if Hormuz is reopened.
+
+But the workarounds are costly - and not a permanent fix
+
+The workarounds are time-consuming and expensive.
+
+Sending oil to Asia through the Suez Canal instead of the Red Sea can add as much as a month to the voyage. Meanwhile the Hormuz shuttle trade involves expensive tankers waiting at least a day and a half in the Gulf of Oman for the ship-to-ship transfer.
+
+The demand for supertankers has sent charter rates - normally $30,000 to $50,000 per day - through the roof. Spot charter rates for Hormuz transits reached $1 million per day on Sept. 11, according to maritime data company Windward, equivalent to roughly $26 per barrel. That means shipping is a quarter of the cost, instead of the usual 1% to 3%.
+
+And markets are braced for further disruption. The attack on the East-West pipeline has shown pipelines can be vulnerable. Iran could try to disrupt the US route through the Strait of Hormuz or target areas near the Omani coast where the ship-to-ship transfers are taking place.
+
+If that happens, the workaround would be to do the transfers farther away - taking more time and running up even bigger bills.
+
+---
+
+### FAA says Trump arch with signal flame got no special treatment in review
+*SECTIONS FAA says Trump arch · business*
+
+Washington: The head of the US Federal Aviation Administration said on Wednesday there was no political interference in the agency's air safety review of President Donald Trump's proposed triumphal arch that will include an eternal flame for visibility.
+
+"We put the process through the same obstruction evaluation that our career (employees) do for any project," Bedford told reporters on the sidelines of an event, adding the project did not get any special consideration.
+
+The proposed 250-foot (76-meter) arch would be 3,000 feet from Reagan Washington National Airport and within the airport's main approach and departure corridors.
+
+  
+
+The FAA determination last week requires the arch to be marked with the flame ⁠atop the structure and floodlight projectors pointed at it to make it noticeable for pilots. Some aviation experts have raised safety concerns given its proximity to the airport's main approach and departure corridor.
+
+The FAA dropped an earlier requirement for ​red obstruction lights, which it generally mandates on buildings more than 200 feet (61 meters) tall near airports, such as ​the nearby 555-foot (169-meter) Washington Monument.
+
+On Tuesday, US Representative Don Beyer said Trump's plan to ​base military drones at the arch would ‌require the FAA to conduct a new safety analysis. Bedford did not directly address the Democratic lawmaker's question.
+
+On Sunday, Trump said he would convert the arch into a military complex ​capable of deploying drones and positioning snipers. The FAA review did not contemplate drone operations at the site.
+
+The arch is part of Trump's ​broader push to remake ​Washington, including renovating ⁠the Lincoln Memorial Reflecting Pool, redeveloping a golf course in East Potomac Park and adding his name to the John ​F. Kennedy Center for the Performing Arts. Preservationists say the ​projects would ⁠alter some of the capital's most prominent historic landmarks.
+
+Veterans have sued to block the arch, arguing it would destroy the historic sightline between the Lincoln Memorial and ⁠Arlington National ​Cemetery.
+
+---
+
+### Pakistan says it struck 10 Afghan sites after attempted cross-border drone attack
+*India Today World Desk · general*
+
+## Pakistan said it carried out precision strikes on 10 locations in Afghanistan after intercepting eight drones. The action sharpens tensions with the Afghan Taliban as Islamabad cites self-defence and warns of stronger retaliation.
+
+Stock photo used for illustration
+
+Pakistan said on Thursday that it had carried out precision aerial and drone strikes on 10 locations in Afghanistan in response to attempted drone attacks from across the border a day earlier. Information Minister Atauallah Tarar said the action was taken after Pakistan shot down eight drones that had entered its airspace from Afghanistan, according to security sources.
+
+In a statement, Tarar said the strikes were "deliberate, precise, calibrated and proportionate and strictly limited to identified military objectives directly linked to the attempted attacks against Pakistan". He said Pakistan acted "in exercise of its sovereign right to self-defence" and targeted 10 locations in Afghanistan that were being used to launch and store the drones.
+
+The minister said Pakistan would neither accept nor tolerate attacks launched from Afghan territory, whether by terrorist groups or by the Afghan Taliban regime itself, and said any violation of Pakistan's sovereignty would draw an immediate and decisive response. "Threats, denials or attempts to deflect responsibility by Afghan Taliban will neither alter the facts nor constrain Pakistan's inherent right to defend its territory, its people and its national security," he said.
+
+Tarar said Pakistan condemned "in the strongest possible terms the deliberate and unlawful incursion into Pakistan by drones on September 23, launched from Afghan territory", calling it "a blatant violation of Pakistan's sovereignty and territorial integrity and is a grave and unacceptable act of aggression". He said Pakistan had for years repeatedly conveyed its concerns to the Afghan Taliban regime and its interlocutors over the continued presence of terrorist sanctuaries and support networks on Afghan soil.
+
+"Instead of dismantling these networks and taking credible and verifiable action against those using Afghan territory to perpetrate terrorism against Pakistan, the Afghan Taliban regime has chosen to escalate the situation through hostile drone operations against Pakistan," he said. Tarar added that Pakistan's air defence systems had detected, tracked and neutralised all the intruding drones before they could reach their intended targets, and had comprehensively thwarted the attempted attack.
+
+Pakistan has called on the Afghan Taliban regime to immediately stop all hostile activity against it and fulfil its international obligations by taking effective, concrete, verifiable and sustained action against terrorist entities operating from Afghan soil, the statement said. "Afghan territory must not be used to launch attacks or conduct hostile operations against Pakistan," it added.
+
+Tarar said Pakistan did not seek escalation and remained committed to regional peace, dialogue and constructive engagement, but said this should not be mistaken for weakness or unlimited tolerance of hostile actions. "Pakistan will defend its sovereignty, territorial integrity and the lives of its citizens with full resolve and will take all necessary measures to protect them. Any further provocative act by Afghan Taliban will be responded with firm and resolute response," he said.
+
+Relations between the Afghan Taliban and Pakistan have deteriorated over Pakistan's allegations that Kabul is not acting against Tehreek-i-Taliban Pakistan militants who allegedly use Afghan territory for training and attacks in Pakistan. The strikes came after a major attack in the old Police Lines area in KP's Kohat that killed 23 people and injured about 100, after which eight terrorists were killed in an overnight clearance operation. Overall, Pakistan said the strikes in Afghanistan were a direct response to the attempted drone attacks and part of its stated effort to counter threats originating from across the border.
+
+With PTI Inputs
+
+\- Ends
+
+India Today Web Desk
+
+Sep 24, 2026 09:48 IST
+
+---
+
+### “Take care of your citizens”: Ukraine’s Zelenskyy names India in warning over Russia war
+*ET Online · business*
+
+Ukrainian President Volodymyr Zelenskyy named India among 47 countries whose citizens, he alleged, are being used by Russia in the Ukraine war. Addressing the UN General Assembly, he urged governments to protect their nationals and said, “Take care of them,” warning against allowing Russia to draw m...
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/take-care-of-your-citizens-ukraines-zelenskyy-names-india-in-warning-over-russia-war/videoshow/134451297.cms)
+
+
+---
+
 ## 23 September 2026
 
 ### Udupi Man Murdered in Sharjah: Body Chopped into Pieces, Wife & Son Missing
