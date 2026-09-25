@@ -1,8 +1,308 @@
 # Editorials
 
-_Last updated: 2026-09-24 06:35 UTC_
+_Last updated: 2026-09-25 06:28 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 25 September 2026
+
+### A chance to retreat: On Donald Trump, the Greenland agreement
+*The Hindu · Editorial*
+
+President Donald Trump first raised the possibility of acquiring Greenland, a Danish territory, during his first term in office. After his return to the White House in January 2025, he doubled down on his threat, saying that he would make the island American territory one way or the other. This incensed Denmark, a founding member of NATO, as well as America’s other allies in Europe. Denmark reasserted its sovereignty over the island but, as a compromise, promised to let the U.S. expand its military presence. On September 22, the leaders of the U.S., Denmark and Greenland signed a new security deal, which, according to Mr. Trump, would allow the U.S. to do “what is necessary in Greenland”. For Mr. Trump, who had even raised the possibility of using force to take over the territory, the deal is a retreat from his acquisition demand. But at the same time, it re-endorses the U.S. role as the primary security provider — it already stations some 150 troops in Greenland at its Pituffik Space Base. Under the agreement, Washington would build military facilities in Narsarsuaq in the south, where the U.S. had an airfield during the Second World War, and in Mestersvig in the east, along the Norwegian Sea.
+
+The 1951 U.S.-Denmark security agreement provides Washington the broad rights to build military bases in the ice-covered island. During the Second World War and the Cold War, the U.S. had more than 30 bases and installations on the island. Most were shut down over the years, particularly after the Cold War. In recent years, Trump administration officials raised concerns about the growing activities of China and Russia in the Arctic, including alleged espionage. As the Arctic region’s strategic profile is rising — partly because melting ice opens up previously impassable regions — the U.S. wants to consolidate its position and believes that Greenland would play a key role in that strategy. The agreement says that even if Greenland, which has a population of around 50,000, becomes independent, it would respect the deal with the U.S. and stay in NATO. In other words, this provides the U.S. indefinite access to the island’s military facilities. The deal also stipulates that no hostile power (non-NATO countries) can establish military facilities in Greenland or invest in its sensitive areas (mainly rare earths). Denmark has already blocked Chinese investments in the territory and the deal effectively formalises that restriction. So, on paper, Greenland could remain a self-governing, autonomous territory within the Kingdom of Denmark, while the U.S. would be its strategic patron with greater control — a diplomatic arrangement acceptable to Washington, NATO and Denmark.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/a-chance-to-retreat-on-donald-trump-the-greenland-agreement/article71504247.ece)
+
+---
+
+### A nation’s song: On Vande Mataram’s rendition
+*The Hindu · Editorial*
+
+Patriotism is not just reverence for a territory or a flag but is the embodiment of solidarity with fellow citizens in a nation-state. The idea of a nation as a bond transcends family, community or faith, uniting citizens through common values and a pursuit of prosperity. National symbols and anthems exist to hone that bond. When they are changed or modified to compel citizens to accept a majoritarian version, their purpose is defeated. India’s freedom fighting generation understood this. Which is why, in 1937, the Congress Working Committee resolved that only the first two stanzas of Bankim Chatterjee’s Vande Mataram should be sung at national gatherings, since the later stanzas invoke the motherland as Hindu deities. When Jana Gana Mana was adopted as the National Anthem on January 24, 1950, India’s first President Rajendra Prasad said that Vande Mataram, even though there is no mention of a “national song” in the Constitution, would be “honoured equally”. Since then, the two-stanza version has allowed citizens of all faiths to partake in a song that stirred the freedom struggle and popularised by artistes such as Lata Mangeshkar and A.R. Rahman.
+
+In the last year or so, the BJP-led Union government has sought to unsettle this inclusive compact. Since the song’s 150th anniversary in 2025, it has pushed for all six stanzas to be recited. The Ministry of Home Affairs (MHA) issued directions and circulars in 2026 and Parliament passed the Prevention of Insults to National Honour (Amendment) Act, 2026 with little debate — actions that are in line with the BJP’s habit of imposing uniformity and majoritarian preference on all citizens. The amendment extends Section 3 of the 1971 Act, which punishes anyone who intentionally prevents the singing of the National Anthem or disturbs an assembly engaged in such singing, to the National Song. Per se it does not compel anyone to sing or define the National Song or its stanzas. But read alongside the MHA orders, which prescribe an official version of all six stanzas, mandate mass singing at public functions, and place the song before the anthem, it amounts to compulsion, as a petition by T.M. Krishna in the Supreme Court has argued. The Court has rightly observed that the state may decide what the National Song is, but cannot penalise conscientious objectors in line with Bijoe Emmanuel (1986). This judgment held that no law obliges anyone to sing the Anthem, standing in respectful silence is no offence and executive instructions without statutory backing cannot curtail fundamental rights. The Court must apply Bijoe Emmanuel in full, set aside the MHA’s orders and make it clear that silence cannot be read as “disturbance”. By reverting to the vision of the freedom generation, the Court will do justice to the idea of unity in diversity.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/a-nations-song-on-vande-matarams-rendition/article71504906.ece)
+
+---
+
+### The murky world of political party finance
+*The Hindu · Opinion*
+
+One of the enduring ironies of the Indian political system is that political parties, which are considered the principal stakeholders of electoral democracy, do not find a mention in the Constitution, except in the Tenth Schedule. They exist as “associations” in furtherance of the fundamental rights under Article 19. No effort has been made to define and straitjacket their legal character to conform to being a company, trust, society, firm or a not-for-profit company. Even so, they continue to enjoy the benefit of income-tax exemption in an unprecedented and unparalleled manner, sometimes becoming mysterious receptacles of inexplicable monies. Just as there are shell companies that fulfil unstated purposes, there are shell political parties that serve an insidious intent. And thereby hangs a tale.
+
+The mystery of political fundingThat tale was partially unravelled by a recent BBC investigation that revealed extraordinary donations received by six Registered Unrecognised Political Parties (RUPPs). A well-known yet intriguing aspect of Indian politics — ugly and ubiquitous — stands exposed. Political parties and their benefactors thrive in this system, even if it appears reprehensible, unlawful and disturbing.
+
+Earlier, the Association for Democratic Reforms (ADR) released a report on July 18, 2025, which found a 223% rise in the declared income of RUPPs in FY2022-23. It noted that, of the 2,764 RUPPs, only 739 had submitted their financial records for the year to the Election Commission of India (ECI), the sole custodian, under the law, of the fate and fortunes of political parties.
+
+Related StoriesRegional parties saw an 85% surge in number of donations above ₹20,000 in 2024-25: ADR
+
+BJP spent more than half of its April-May election funds on Bengal polls
+
+BJP got highest donations in 2024-25, over 10 times all other national parties combined: ADR report
+
+In a press note, “Cleaning up the Electoral System” (August 9, 2025), the ECI said it had ‘delisted’ 334 RUPPs out of 2,854 “as part of a comprehensive and continuous strategy…to clean up the electoral system.” It would be interesting to see whether the six parties in question are part of the ECI’s “continuous strategy”.
+
+On October 16, 1994, T.N. Seshan, then Chief Election Commissioner of India, issued an order under the Election Symbols (Reservation and Allotment) Order, 1968, in which he highlighted the “adhocism” and the “sorry state of affairs prevailing in almost all political parties in the country, whether recognised National or State parties or registered-unrecognised parties”. He observed, “I have yet to come across any party whose affairs are being run in accordance with the provisions of its constitution or rules and regulations.” Through the order, T.N. Seshan put all political parties on “notice” to set their house in order, declaring that the ECI would not remain a “mute spectator”. In subsequent guidelines prescribing the format for registration under Section 29A of the Representation of the People Act (RPA), 1951, the ECI stated in paragraph 3(xxiii) that a party seeking registration must declare in its constitution that it will contest elections within five years of registration and that, if it does not “contest elections continuously for six years”, it shall “be automatically taken off the list of recognised parties”.
+
+Related StoriesBJP received ₹6,088 crore in donations in 2024-25, nearly 12 times more than the Congress
+
+In 2023-24, BJP got ₹2,604 crore in donations, 9 times more than Congress
+
+Electoral bonds data | 55 firms’ purchase exceeded 7.5% cap in 2022-24, lion’s share went to BJP
+
+33 loss-making firms donated electoral bonds worth ₹582 crore, 75% went to BJP | Data
+
+‘Taking off’ or ‘delisting’ does not mean deregistration, as the ECI is not generally empowered to deregister political parties. Similarly, even if RUPPs are ‘unrecognised’, they remain eligible to receive contributions under Section 29B of the RPA, while their tax treatment is governed by Section 13A of the Income-tax Act. “Recognition” is governed by Order 6 of the Election Symbols Order, which distinguishes between ‘recognized’ and ‘unrecognized’ political parties for the purpose of allotting symbols and lays down the criteria for their classification. T.N. Seshan amended the Symbols Order and introduced Order 16A, which empowers the ECI to “suspend or withdraw recognition of a recognised political party for its failure to observe MCC [Model Code of Conduct] or follow lawful directions and instructions of the Commission”. That provision sits, rather harmlessly, in the statute book, empowering an ECI that has generally been reluctant to strike.
+
+Hence, whether ‘delisted’ or ‘unrecognized’, the parties remain eligible to receive contributions. It is a matter for investigation whether such donations continued to qualify for tax exemptions, given that the intent behind the delisting was to disqualify them.
+
+The scale of ‘political wealth’A paper published by Venkatesh Nayak, a senior researcher at the Commonwealth Human Rights Initiative (which was also reported by a leading media site), revealed that 22 political parties collectively had ₹18,742.31 crore at their disposal for the 2024 general election. This included funds in their kitty when the election was announced and ₹7,416.31 crore in donations raised between the announcement and the completion of the election. After the election, these parties had ₹14,848.46 crore remaining in their custody, including cash in hand, money held in bank accounts and fixed deposits, after incurring ₹3,861.57 crore in election-related expenditure during the campaign period, according to the accounts submitted to the ECI.
+
+Related StoriesWhy did the Supreme Court strike down the electoral bonds scheme? | Explained
+
+BJP received nearly 90% of all corporate donations to national parties in 2022-23
+
+BRS got over 70% of all donations to regional parties in 2022-23: ADR report
+
+Almost 60% of the funds received by national political parties are from ‘unknown’ sources
+
+54% of BJP’s total income came from electoral bonds
+
+The legality of the electoral bonds scheme | Explained
+
+Electoral Bonds chief source of donations for political parties: Report
+
+The study found that, over the last decade, the exchequer ‘lost’ ₹11,813 crore in taxes due to exemptions for political donations, with individual donors and Hindu Undivided Families overtaking corporates in donating to political parties. In FY2022-23, individual donors claimed exemptions worth ₹2,275.85 crore, dwarfing corporate claims of ₹514.4 crore and those of firms and associations, at ₹115.71 crore. Declared donations to political parties increased from ₹714 crore (43 parties) in 2015-16 to ₹7,203 crore (27 parties) in 2023-24. Yet, only 41.76% of total donations, amounting to ₹28,287 crore over nine years, were claimed as tax-exempt, raising questions about the remaining 58%. Mr. Nayak asks: “What incentives are driving them to donate without tax relief? The lack of transparency obscures answers.”
+
+What added the thickest layer of secrecy was the so-called reform of electoral bonds introduced by the ruling party in 2018, which made the entire business of political finance murky. Although the scheme was declared unconstitutional by the Supreme Court of India in 2024, the details of the donations subsequently disclosed raised questions that remain unanswered. Most RUPPs were not eligible to receive electoral bonds, as they were restricted to parties that had “secured at least 1% of the votes in the latest Lok Sabha or State Legislative Assembly elections”. Who, then, made these contributions, and why?
+
+The top court and ECI must actPolitical parties have shown scant interest in transparency. They united in resisting the 2013 order of the Central Information Commission (CIC) bringing them under the Right to Information Act. Interestingly, besides the CIC, neither the ECI nor the Supreme Court has shown any inclination to enforce it. The Income-Tax Department and the Enforcement Directorate might not consider it a priority to scrutinise the accounts of political parties as they do those of ordinary taxpayers. The ECI lacks the mandate, intent or wherewithal to question the accounts mechanically submitted by political parties. Submission of the accounts is enough to comply with the letter of the law, even if its spirit gasps. How will that spirit be revived, and who will revive it?
+
+It is incumbent upon the Court to order a court-monitored probe into the saga of electoral bonds and the alleged quid pro quo in the petitions pending before it. The probe should also examine the phenomenon of ‘insignificant’ RUPPs receiving and spending huge contributions without participating in the electoral process in any substantial manner. Surely, such “shell” parties cannot justify spending crores as “administrative expenses”.
+
+Exercising its powers under Article 324 — described by the Court in the landmark judgment of Kanhiya Lal Omar vs R.K. Trivedi and Others as a “reservoir of authority” for the ECI — the ECI should order political parties to have their accounts audited by the Comptroller and Auditor General of India or its nominee. It should also consider imposing a limit on expenditure by political parties during elections, a measure it has recommended repeatedly. Tax exemptions on donations should be limited to the prescribed expenditure limit. All other donations that enrich the parties should be fully taxed.
+
+The ECI should establish an automatic procedure to ‘deregister’ any RUPP that does not contest elections in accordance with its guidelines and develop a centralised digital portal where all registered parties can upload their financial data in standardised formats.
+
+Let the ECI spend its energy and authority on ‘purifying’ the electoral environment rather than on chasing genuine electors off the electoral rolls. Until then, ‘We the People’ must continue to scream “Hami yaha chhau (we are here”).
+
+Ashok Lavasa is a former Election Commissioner of India and a former Union Finance Secretary
+
+[Read full article](https://www.thehindu.com/opinion/lead/the-murky-world-of-political-party-finance/article71504827.ece)
+
+---
+
+### DC Edit | India Stands Firm; US Must Reconsider
+*Deccan Chronicle · Editorial*
+
+The meeting between external affairs minister S. Jaishankar and US secretary of state Marco Rubio in New York on the sidelines of the United Nations General Assembly meeting on Wednesday was a significant one that could guide Indo-US relations in the near term.
+
+Mr Jaishankar reportedly raised India’s concerns about the new US law, which levies tariffs of up to 100 per cent on countries having economic dealings with Russia and Iran, and explained India’s economic compulsions. Mr Rubio emphasised the strategic partnership and coordination on regional priorities.
+
+While Washington sees sanctions as a means of advancing its objectives in two conflicts, New Delhi’s relations with Russia are guided by its own energy security, longstanding defence ties and the costs borne by Indian households and industry.
+
+Though India wants the war between Russia and Ukraine to end and West Asia to return to normalcy, it cannot end its exceptionally stable and dependable relationship with Russia, which has lasted more than six decades. Yet, prodded by US interlocutors since the early 2000s, successive governments in New Delhi have taken steps to reduce their dependence on Russia in the belief that the United States would be India’s natural and strategic partner.
+
+However, the Trump administration’s decision to impose a penal tariff on India for its Russian oil purchases, while turning a blind eye to China, Moscow’s largest trading partner, has shattered New Delhi’s trust in Washington. Trump’s dalliance with Pakistan’s Army chief and equating Islamabad with India are insults that New Delhi cannot accept.
+
+The Trump administration, which is dominated by billionaires from the old economy, may find China attractive. But its members should not forget that India is not a pushover. It accounts for one-sixth of the world’s population. It is one of the top three markets for US consumer technology companies and a key source of technology talent. Fraying India-US ties may hurt New Delhi more, but it will not be without consequences for Washington either.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-india-stands-firm-us-must-reconsider-1990384)
+
+---
+
+### DC Edit | Trust Eroded, EC Needs A Complete Overhaul
+*Deccan Chronicle · Editorial*
+
+Reports of a constitutional body tasked to conduct free and fair elections in the world’s largest democracy indulging in undemocratic practices both within and outside it, impacting the democratic rights of the very people it is built to serve, are perhaps the worst blow India can suffer in these times. This is a historic moment demanding resolute action from all those people and institutions with a responsibility to keep the flame of constitutional democracy burning in this country.
+
+Chief election commissioner (CEC) Gyanesh Kumar is in the dock for one too many reasons, and each of them needs a thorough investigation. Reports have said the two other commissioners in the panel questioned the decision of the CEC 14 times in 10 months; and the topics were of lasting import to a fair electoral process.
+
+The arbitrary and undemocratic way the special intensive revision (SIR) of the voters’ lists was conducted across India resulting in the deletion of crores of voters exposed the fragile nature of our system: there was no one to help out the thousands of legitimate voters in several states whose names were struck off the list for no fault of theirs. There are many who believe elections were in fact stolen in the process. The EC and its backers may call it a coincidence but the fact remains that the difference in the number of votes polled by the victorious BJP in West Bengal Assembly elections and the Trinamul Congress is about 33 lakhs and the number of voters who have contested the deletion of their names after SIR is 22 lakhs in an election in which 6.3 crore votes were cast. The BJP swept the elections by a tiny margin in the popular vote. It appears that both the election commissioners had objected to such massive deletions, but were overruled.
+
+The concentration of the data on state electoral rolls in Delhi instead of decentralising it in the constituencies casts a shadow on the motive of the Election Commission. Inventing a questionable premise dubbed logical discrepancies and then using it to strike off names in their lakhs with software very few people have access to is not the way to go. But the commission under CEC Gyanesh Kumar went ahead with it; and the courts remained mute spectators, and thereby, became collaborators in the whole enterprise. There were questions on how and why orders were issued without the concurrence of the commission, how changes were made in Form 6 which is used to enrol new voters and how the agenda and minutes of the meeting were not made available to the other commissioners.
+
+Disagreements are healthy signs in a robust democracy and the BJP is right in interpreting the whole controversy in that direction. But the real question is not how interpretation goes but instead how even this adds to the mockery of the electoral process that was made by the EC in the country. It is not that as if these issues were not flagged earlier. But they were not given the focus they ought to have been.
+
+An immediate and urgent relook at the way the EC functions is imperative if democracy is to survive in India. As Justice Dipankar Datta of the Supreme Court said while questioning the law that gave the government of the day a decisive say in the formation of the EC, “If free and fair elections are to be ensured, it is axiomatic that the ECI must not only be an independent body but also be seen to act independently.” The first step in this direction will be to make the CEC leave his office. Parliament and the Supreme Court must then rise to the occasion and do whatever it takes to restore the credibility of the institution.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-trust-eroded-ec-needs-a-complete-overhaul-1990388)
+
+---
+
+### Dev 360 | How Tiruppur Is Coping Under Shadow Of Tariffs
+*Deccan Chronicle · Opinion*
+
+Tiruppur, India’s knitwear capital, is famous as the “Dollar City” for its thousands of export-oriented garment and hosiery units, the migrant workers who power them, and the dollars they bring in.
+
+Last year, the threat of a 50 per cent US tariff on Indian goods set off alarms in Tiruppur, which accounts for nearly 60 per cent of India’s knitwear exports. Orders were cancelled. Exporters feared losing their biggest market.
+
+During the peak tariff shocks, migrant contract labourers were among the first to feel the pain. Many were laid off, forced to pack their bedding and board north-bound trains because factories could no longer afford to pay wages to idle workers. Many units in this textile hub on the banks of the Noyyal River in western Tamil Nadu shut or scaled back.
+
+The crisis stretched from August to December 2025 following the sudden US tariff hikes. While the situation saw a temporary recovery in early 2026, export units are still restructuring their workforces.
+
+A year later, the shadow of sanctions and tariffs is back.
+
+On September 18, when President Donald Trump signed the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 into law, he opened the way to tariffs of up to 100 per cent on countries importing Russian oil and gas. The penalties will not kick in immediately. But China and India, as major buyers of Russia’s oil, have been put on notice: This does not automatically impose a 100 per cent tariff on all Indian exports to the US. And the rate, targets and implementation are yet to be decided. But the threat is now backed by law rather than relying solely on executive action.
+
+If a 100 per cent tariff is imposed, the impact will hit Tiruppur and export hubs across India whose businesses depend heavily on the US market. Arguably, with Mr Trump, anything can happen. For Tiruppur, where around 35 per cent of exports went to the US last year, uncertainty looms again.
+
+But, as I spoke to several people in Tiruppur this week, the mood seemed calmer.
+
+“The last one year has been a roller-coaster ride — tariff threats, geopolitical turmoil, orders being put on hold and cancelled. But I am optimistic,” says Dinesh Babu Ravikrishnan, executive secretary of the Tiruppur Exporters’ Association (TEA).
+
+“Because we have now accepted geopolitical turmoil and uncertainties and tariffs as part of the new normal, new business reality,” he told me.
+
+Tiruppur exporters have learnt to look beyond a single export destination. Their new markets include the UK and Europe.
+
+They are concerned about the new US law targeting major buyers of Russian oil, but they have learnt how to absorb shocks. Last year’s shocks offered a masterclass in adapting to a geopolitically turbulent world where tariffs can strike any time. Exporters are diversifying markets and products, bringing orders forward and preparing for a world in which disruption is no longer an exception. Some export units are automating to improve productivity and reduce costs.
+
+News reports flag a “pull-forward” scramble among India’s apparel exporters, with manufacturers racing to accelerate production and ship out Spring 2027 orders early. Businesses are trying to get ahead of geopolitical decisions they cannot control.
+
+The changes are visible in what they make as well as where they sell. Tiruppur’s knitwear industry has traditionally depended heavily on cotton. Ravikrishnan says exporters are now trying to diversify towards a mix of cotton and man-made fibre (MMF) products to tap emerging global export opportunities.
+
+D. Elango, a hosiery and knitwear manufacturer and exporter, told me business has been slower over the past six months. His company caters heavily to the US. “We were happy when the Supreme Court (of the US) struck down the tariff. Now the threat is back, and it is in the form of a law, not an executive order. No one knows what will happen,” he says.
+
+The essence of his survival strategy, like that of so many others in the age of sanctions, is anchored in diversification. Most exporters I spoke to are hopeful that the Modi and Trump governments would eventually work out something to avoid the worst-case scenario.
+
+Meanwhile, Tiruppur’s experience shows how a geopolitical decision travels through an economy.
+
+Its garment industry employs about one million workers, around half of them migrants. Many experienced workers — both local Tamils and north Indian migrants — leave, tired of the repetitive work. Some export units face labour shortages.
+
+But migrant workers from northern India are still arriving, despite the new tariff threat, says A. Aloysius, a Tiruppur-based labour rights activist. A large number are from Bihar. Increasingly, they are bringing their families, including children, he points out.
+
+Aloysius says his organisation is now trying to arrange schooling for these migrant children, even if in informal classes. Young single women from the Northeast and Odisha also continue to arrive for work and live in factory...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/dev-360-how-tiruppur-is-coping-under-shadow-of-tariffs-1990394)
+
+---
+
+### Why India Needs ‘Slow Medicine’ And Not Aggressive Medical Care
+*Deccan Chronicle · Opinion*
+
+Nearly two years ago, when my clinic used to be open on Sunday mornings as well, a father brought his 10-year-old son with complaints of fever and cough. He was anxious and wanted urgent treatment. I took a careful history, examined the child and found no signs of bacterial infection or serious respiratory illness. I explained that antibiotics were not required, discussed the danger signs that, if they developed, might need immediate attention, and said that cough syrups were unlikely to help. Fluids, rest and observation were enough, and these were advised. I suggested that he call me and return the next day, or earlier if anything worsened.
+
+The same evening, only hours later, the father felt that the child was “not recovering”. Partly unsatisfied that I had not agreed with his perception that the child was very sick and had not prescribed medicines, he took him to another facility. There, the child underwent a CT scan of the chest, which was used by the doctor to justify admission, although the family was not provided with a written report. He was given intravenous antibiotics and fluids. Understandably, the child recovered over the next few days.
+
+A few days later, the father called me. He was polite but firm: “Doctor sahib, you had missed the diagnosis. The baby was very serious. He needed admission.”
+
+I have remembered that conversation.
+
+There is no doubt that doctors can miss diagnoses, and second opinions are useful when families remain worried or unconvinced. But this episode captures something increasingly common in healthcare: our discomfort with waiting, watching and allowing the body time to recover. We are living in the era of fast medicine.
+
+Patients want rapid recovery, forgetting how healing from illness or metabolic conditions actually happens. They want quick investigations and “serious medicines”. They arrive with the urgency of “do whatever it takes”. Doctors, under pressure and fearful of missing disease, respond with tests, prescriptions, scans and referrals. A mild illness becomes a battery of investigations. A risk factor becomes a disease. A borderline value becomes a reason for a lifelong pill. A symptom lasting two days feels intolerable because we expect it to disappear by evening.
+
+Yet biology rarely works at that speed. Many metabolic diseases develop slowly over years. Weight gain, insulin resistance, fatty liver, hypertension and declining fitness do not appear overnight. They emerge over time. It is unrealistic to expect reversal in days or weeks. Many self-limiting infections are similar: the body needs time, while good medicine supports, monitors and intervenes when warning signs appear.
+
+This distinction matters when interpreting laboratory reports. Not every abnormal value represents a disease requiring immediate treatment. There is also a difference between deficiency and insufficiency. Vitamin D is a familiar example. A clearly deficient level may justify supplementation. A mildly insufficient level should not automatically trigger prolonged supplementation. It should prompt questions about sunlight exposure, diet, physical activity and overall health. Numbers need context.
+
+The same principle applies to risk factors. High blood pressure, raised blood sugar, abnormal lipids and excess weight deserve attention because they predict future disease. But a risk factor is not always the same as established disease. Some people genuinely need medicines, sometimes urgently and for life. Others may benefit from weight loss, better food, exercise, improved sleep, reduced alcohol consumption, smoking cessation and stress management. Treating risk should not mean medicalising every risk factor before attempting to reverse the causes that produced it.
+
+Fast medicine has recognisable features: investigations before conversation, prescriptions before explanation, specialist visits before primary-care assessment, intravenous lines when oral treatment would suffice, admission when observation may be enough, and testing without asking whether the result will change management.
+
+Slow medicine looks different. It begins with a good general physician or family doctor. It values clinical history, family history and physical examination. It asks what has changed before ordering tests. It uses medicines when needed but combines them with advice on food, movement, sleep, stress and daily habits. It accepts that some decisions can wait, some illnesses can be observed, and some treatments can be reduced rather than added.
+
+Slow medicine does not mean delayed medicine. It does not mean ignoring red flags, refusing scans, avoiding specialists or romanticising lifestyle when a patient needs urgent treatment. A heart attack needs speed. Sepsis needs speed. Stroke needs speed. Severe asthma, meningitis and trauma demand immediate action. The point is not that all medicine should be slow. The point is that not every medical problem is an emergency. Nor does every risk require medication.
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/why-india-needs-slow-medicine-and-not-aggressive-medical-care-1990397)
+
+---
+
+### The CEC must go and it’s time to abandon SIR
+*Deccan Herald · Editorial*
+
+Investigative reports in the media exposing serious discrepancies in the functioning of the Election Commission of India (ECI) make the tenure of the Chief Election Commissioner (CEC) Gyanesh Kumar untenable, and the Special Intensive Revision (SIR) of electoral rolls, the ECI’s main preoccupation over the past 15 months, an illegal exercise. The Commission has been criticised in the past for its actions, but this week’s revelations are of a different order. The Indian Express has reported that many contentious decisions of the ECI did not follow due process and were implemented by the CEC without involving the other election commissioners. Over 10 months, election commissioners Sukhbir Singh Sandhu and Vivek Joshi recorded at least 14 formal notes of dissent against the CEC’s decisions; four of them came on a single day.
+
+The issues raised by the two commissioners are serious. They relate to important functions of the ECI involving registration and deletion of voters, restoration of names on the voter lists, the prescribed format of Form 6 to be submitted by new voters, appeals in cases about deletion or addition of voters, and control over the digital architecture of the rolls. Form 6 was altered, requiring applicants to declare whether they or their parents were recorded on the previous SIR roll. This should have been done only after amending the existing rules. Both Sandhu and Joshi noted that this alteration was illegal and wanted it revoked. ECI rules demand that its decisions be taken by consensus or by the majority of the members. The CEC is only the first among equals. Objections raised by two commissioners make the decision illegal, rendering all applications done on the amended Form 6 invalid.
+
+Joshi’s concerns about ECINet becoming a centralised system controlled by the ECI’s office are significant. The state-level Electoral Registration Officer (ERO) is the statutory authority for additions, deletions, and corrections in the voter list. The two commissioners repeatedly sought safeguards against the centralised model of functioning, including an independent technical audit of the system. In Goa, 97 people were reportedly found eligible by their EROs, but the software did not permit their restoration. In West Bengal, 38.31 lakh appeals were filed before tribunals; 22.21 lakh of these were filed by those whose names were deleted, while 16.1 lakh were reportedly filed by the ECI seeking the deletion of voters. Notably, even the two commissioners were unable to find who authorised the appeals on the ECI’s behalf.
+
+The reports reveal that the CEC took arbitrary decisions without consulting the other commissioners and ignored their reservations and objections. They point to a larger plan and deliberate execution. The SIR has been under scrutiny over its exclusion of millions from the electoral rolls. A significant section of the disenfranchised belongs to weaker and marginalised communities, including the minorities and Dalits. Elections were held in many states based on the revised lists, and serious complaints have been raised about the revision affecting the electoral process and possibly the poll outcomes. It now turns out that the SIR is not just procedurally faulty, but is an illegal process. In light of the revelations, the SIR should be scrapped in states where it has been conducted, and all procedures associated with the exercise should be discontinued. The SIR, as currently implemented, is fundamentally wrong because it is built on an exclusionary idea, while the Commission should have aimed for greater voter inclusion. The elections held with the revised voter lists have now come under a cloud.
+
+It may be argued that the two commissioners could have gone public with their reservations. They did write about the situation to the Cabinet Secretary, who has no authority to intervene in the functioning of the ECI, which is an independent constitutional body. However, it is to their credit that they recorded their views and objections to what they saw as clear violations of the Commission’s procedural integrity. It is their dissent that has eventually validated long-held apprehensions about the undemocratic exercise.
+
+The ECI has issued a response that is misleading and unconvincing. It has claimed that differences of opinion and dissent are normal in the Commission, and all final decisions were unanimous. It also said the written notes from the two commissioners were part of the system's checks and balances. This is not borne out by the contents of the notes, the way the two commissioners articulated their differences, and the larger circumstances in which they should be seen. That the explanation came from an unnamed official in the Commission, rather than the CEC, is important.
+
+A demand for the CEC’s impeachment has been raised again. It will not happen. He should resign. The Supreme Court of India must ensure that his actions are thoroughly examined and the illegal deletions and additions are audited. The Court has failed in the past in keeping the ECI on the right path. It made observations and asked many questions, but ultimately failed in halting the Commission on its illegal course. The revelations are enough for quashing many of the Commission’s actions and a severe reprimand of its chief. Last year, Gyanesh Kumar told the Leader of the Opposition, Rahul Gandhi, to apologise to the nation over the latter’s charges against the Commission. Now, it is for him and those who appointed and kept him in his position to apologise to the nation for the damage they have caused to the institution, its credibility, and to democracy.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/the-cec-must-go-and-its-time-to-abandon-sir-4159081)
+
+---
+
+### The CEC must go and it’s time to abandon SIR
+*Deccan Herald · Editorial*
+
+Investigative reports in the media exposing serious discrepancies in the functioning of the Election Commission of India (ECI) make the tenure of the Chief Election Commissioner (CEC) Gyanesh Kumar untenable, and the Special Intensive Revision (SIR) of electoral rolls, the ECI’s main preoccupation over the past 15 months, an illegal exercise. The Commission has been criticised in the past for its actions, but this week’s revelations are of a different order. The Indian Express has reported that many contentious decisions of the ECI did not follow due process and were implemented by the CEC without involving the other election commissioners. Over 10 months, election commissioners Sukhbir Singh Sandhu and Vivek Joshi recorded at least 14 formal notes of dissent against the CEC’s decisions; four of them came on a single day.
+
+The issues raised by the two commissioners are serious. They relate to important functions of the ECI involving registration and deletion of voters, restoration of names on the voter lists, the prescribed format of Form 6 to be submitted by new voters, appeals in cases about deletion or addition of voters, and control over the digital architecture of the rolls. Form 6 was altered, requiring applicants to declare whether they or their parents were recorded on the previous SIR roll. This should have been done only after amending the existing rules. Both Sandhu and Joshi noted that this alteration was illegal and wanted it revoked. ECI rules demand that its decisions be taken by consensus or by the majority of the members. The CEC is only the first among equals. Objections raised by two commissioners make the decision illegal, rendering all applications done on the amended Form 6 invalid.
+
+Joshi’s concerns about ECINet becoming a centralised system controlled by the ECI’s office are significant. The state-level Electoral Registration Officer (ERO) is the statutory authority for additions, deletions, and corrections in the voter list. The two commissioners repeatedly sought safeguards against the centralised model of functioning, including an independent technical audit of the system. In Goa, 97 people were reportedly found eligible by their EROs, but the software did not permit their restoration. In West Bengal, 38.31 lakh appeals were filed before tribunals; 22.21 lakh of these were filed by those whose names were deleted, while 16.1 lakh were reportedly filed by the ECI seeking the deletion of voters. Notably, even the two commissioners were unable to find who authorised the appeals on the ECI’s behalf.
+
+'Vote chori, kanoon chori & sanstha chori': Rahul says CEC Gyanesh Kumar should turn 'approver' amid EC rowThe reports reveal that the CEC took arbitrary decisions without consulting the other commissioners and ignored their reservations and objections. They point to a larger plan and deliberate execution. The SIR has been under scrutiny over its exclusion of millions from the electoral rolls. A significant section of the disenfranchised belongs to weaker and marginalised communities, including the minorities and Dalits. Elections were held in many states based on the revised lists, and serious complaints have been raised about the revision affecting the electoral process and possibly the poll outcomes. It now turns out that the SIR is not just procedurally faulty, but is an illegal process. In light of the revelations, the SIR should be scrapped in states where it has been conducted, and all procedures associated with the exercise should be discontinued. The SIR, as currently implemented, is fundamentally wrong because it is built on an exclusionary idea, while the Commission should have aimed for greater voter inclusion. The elections held with the revised voter lists have now come under a cloud.
+
+It may be argued that the two commissioners could have gone public with their reservations. They did write about the situation to the Cabinet Secretary, who has no authority to intervene in the functioning of the ECI, which is an independent constitutional body. However, it is to their credit that they recorded their views and objections to what they saw as clear violations of the Commission’s procedural integrity. It is their dissent that has eventually validated long-held apprehensions about the undemocratic exercise.
+
+Petition against CEC Gyanesh Kumar filed in Kolhapur court, seeks SIR stay in MaharashtraThe ECI has issued a response that is misleading and unconvincing. It has claimed that differences of opinion and dissent are normal in the Commission, and all final decisions were unanimous. It also said the written notes from the two commissioners were part of the system's checks and balances. This is not borne out by the contents of the notes, the way the two commissioners articulated their differences, and the larger circumstances in which they should be seen. That the explanation came from an unnamed official in the Commission, rather than the CEC, is important.
+
+A demand for the CEC’s impeachment has been raised again. It will not happen. He should resign. The Supreme Court of India must ensure that his actions are thoroughly examined and the illegal deletions and additions are audited. The Court has failed in the past in keeping the ECI on the right path. It made observations and asked many questions, but ultimately failed in halting the Commission on its illegal course. The revelations are enough for quashing many of the Commission’s actions and a severe reprimand of its chief. Last year, Gyanesh Kumar told the Leader of the Opposition, Rahul Gandhi, to apologise to the nation over the latter’s charges against the Commission. Now, it is for him and those who appointed and kept him in his position to apologise to the nation for the damage they have caused to the institution, its credibility, and to democracy.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/the-cec-must-go-and-its-time-to-abandonsir-4158603)
+
+---
+
+### Indore laughter and ECI leaks are signs of breaches in Narendra Modi’s fortress
+*Deccan Herald · Opinion*
+
+The Narendra Modi regime, carefully constructed as an unassailable fortress of absolute power, has suddenly begun to look permeable.
+
+Two new developments challenge the desired image of seamless centralisation. One is the weakening of social prohibitions against mocking Modi in public, and the other is information leaks from within the system.
+
+The inability of the regime to handle public lampooning of the prime minister or respond credibly to the leaks in the Election Commission of India (ECI) reveals cracks in a system that was supposed to be in complete control of the political narrative. Even journalists seem to no longer be afraid of writing critically of the regime’s reactions to these events.
+
+Public mocking signals people questioning the psychological control the leader may have exercised over their behaviour. By having fun at his expense, they make him laughable, and render his foibles all too familiar.
+
+The material dimension of Modi’s authority has begun to erode with officials leaking information about internal contestation and questioning of policy decisions, as they believe it to be in the public interest. As institutional disagreements make their way into the public domain, the aura of unanimity is punctured.
+
+Rahul Gandhi merely trying to create hype over media report on differences within EC: BJPThe Bharatiya Janata Party (BJP) reacted in a hypersensitive way to comedian-satirist Pulkit Mani impersonating Narendra Modi at Rahul Gandhi’s Chhatron Ki Goonj event in Indore. BJP leaders were less disturbed by someone daring to mimic Modi yet again — and more by the fact that the spoof of Modi was enacted before a large and appreciative youth audience, on a public stage, and with the Leader of the Opposition also laughing alongside.
+
+The comic’s miming and impersonation of Modi’s gestures, vocal mannerisms, use of catchphrases, and clumsiness with English made it different from ordinary political criticism. The effectiveness of his act lay in making Modi, a powerful figure, into someone laughable and familiar — and a fair target to boot. No wonder the BJP slammed the Congress as a party of “comedians and jokers”, and beat their breasts about deterioration in public discourse.
+
+Had Mani performed in a comedy club, the BJP cadre might have attacked only him (he has been threatened and his shows cancelled). However, Rahul Gandhi’s presence and the laughter of the audience made his act politically consequential. It underlines Modi’s uneasy relationship with youth culture, especially galling as the incident stripped him of the deference he expects as prime minister.
+
+Modi’s public persona rests on the contradictory claim of at once being an ‘ordinary Joe’ (chai seller, humble origins, mother working as a domestic help, and familiar with an informal and youthful vocabulary) and also simultaneously being an extraordinary leader (a decisive commander, a world statesman or Vishwaguru, having a mystical origin, and indispensable as prime minister). For a long time, he has convincingly bridged the gap between the two.
+
+'Asanskari naaraz fufa': Piyush Goyal on Rahul over PM Modi mimicry; Fadnavis says quit Congress, turn comedianPublic ridicule, however, collapses this contradiction, suggesting that he is ordinary enough to imitate. Against media adulation, those ridiculing him say he is mockable. Their disrespect arises from a shared experience of ‘fixed’ examinations, exorbitant fees, a deteriorating education system, and joblessness.
+
+The BJP’s attempt to occupy the high moral ground in political discourse is deceitful, as Modi’s own record of jeering at opponents from public platforms has forcefully introduced a new abrasive element into national political discourse. He has routinely used sarcasm as a political weapon and caricatured rivals for their body language, their speech patterns, and coined insulting names for them. Can he afford to be thin-skinned now?
+
+What makes mockery a political danger to Modi is that it has provided a common language for the electorate — the youth in particular, to represent their grievances, and what they perceive as the indifference of the State. Ridiculing Modi is no longer just entertainment; it is an articulation of political dissent.
+
+The surfacing of disagreements within the government shows a weakening of his command over State institutions. While public ridicule undermines the psychological basis of his rule, the dissent within erodes the material aspect (control over government machinery, police, the power to reward and punish, etc.) of his rule.
+
+Ashish Joshi, a retired civil servant, was picked up during a morning walk and questioned for nine hours over his claim of rifts between the home minister and home secretary on the use of police force against student protestors. The government’s unwarranted over-reaction to a social media post shows how the possibility of any erosion in the cultivated image of internal discipline and control can reduce it to panic.
+
+The ECI episode is far more consequential. The Indian Express reported 14 instances over 10 months in which two of the three election commissioners recorded objections to decisions of the chief election commissioner. These disagreements concerned voter registration and deletion, electoral roll management, unilateral changes in Form 6 that created hurdles for new eligible voters, and alleged blocking and manipulation of software for unauthorised ends.
+
+The differences within the constitutional body have been recorded in official proceedings. Despite having been handpicked by the government, the two election commissioners opposed what they considered procedural wrongs. Such differences could not have reached the public domain unless leaked by an insider.
+
+The ECI insists there is no institutional rupture, claiming decisions were ultimately unanimous. Yet the Special Intensive Revision (SIR) controversy added another layer of failure. One election commissioner himself found his name flagged for discrepancy, though later validated. The credibility of the system — meant to demonstrate administrative precision — has also been questioned by the Supreme Court, which noted that notices of “logical discrepancies” in the SIR process in the national capital, Delhi, were issued “mechanically”.
+
+Thus, the ECI’s procedures are being questioned both internally and externally. The ECI leak incident shows that centralised control over the bureaucracy may be weakening, with officials being less willing to maintain silence in the face of decisions they consider wrong.
+
+Taken together with the irreverent laughter at Indore, where youth in the audience refused to be taken in by the choreographed pantomime of Modi the great leader, it may well be that the regime’s tough seams are fraying.
+
+The Modi system was designed to be impermeable. But public ridicule and internal leaks show that even the most tightly controlled regimes cannot weather the forces when social energy and institutional conscience begin to seep through.
+
+Bharat Bhushan is a New Delhi-based journalist.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/indore-laughter-and-eci-leaks-are-signs-of-breaches-in-narendra-modis-fortress-4159110)
+
+---
 
 ## 24 September 2026
 
@@ -21241,351 +21541,6 @@ Replacing modesty with dignity is a fundamental change in the kind of subject th
 (The writer is a professor of law at the Jindal Global University)
 
 [Read full article](https://www.deccanherald.com/opinion/clothe-the-law-not-the-statue-why-modesty-of-a-woman-must-go-4053596)
-
----
-
-## 26 June 2026
-
-### Fragmented accountability: On the Taratala warehouse collapse in Kolkata
-*The Hindu · Editorial*
-
-In light of the Taratala warehouse collapse in Kolkata on June 24, the ability to erect a structure based on a reportedly flawed plan is reminiscent of West Bengal’s infamous Syndicate Raj. As per the Kolkata Municipal Corporation, an empanelled architect and a structural engineer must certify building plans. The corruption ranges from local cartels, some backed by political heavyweights, allegedly forcing developers to buy subpar construction materials at premium prices to licensed surveyors allegedly delegating the task of signing off on designs not of their doing to unlicensed persons. Early reports of the warehouse collapse — which has now claimed 11 lives while several of the injured are critical — have already found that the contractor used corrugated tin sheets to support the much heavier load of the concrete roof cast — a shortcut cartels have been known to take to cut costs. Eyewitnesses described sudden shaking, a loud sound, and the rapid pancaking of floors; one account also reported visible shaking hours before the collapse following heavy rains. While West Bengal Chief Minister Suvendu Adhikari has suspended all Trinamool Congress-era projects in and around Kolkata as part of a bid to eliminate corruption, migrant labourers will continue to bear the brunt of flawed construction approval and activities if the State does not rein in the informal subcontracting chain. This need is also informed by India expecting to have more migrant labourers with time as environmental degradation undermines many rural livelihoods.
-
-Several structural failures such as this have displayed fragmented accountability, and given the tragic spate of similar ‘accidents’ around India over the last few years, the time has come to reckon with the fragmentation per se. At least some of these failures may have been the result of an anachronistic model of governance that has failed to keep up with the speed of modern construction and complexities in the private sector. An accountability gap thus arises due to land ownership, especially if it involves Centre-State uncertainties, as at Taratala, and/or due to legal systems catering to a paradigm in which the State was the primary builder. Persistent loopholes in existing licensing procedures may also allow the ultimate owners of capital to stay away from ‘dirty work’ at the construction site, allow impugned engineers to claim ignorance of day-to-day lapses, and give way to jurisdictional ping-pong. At Taratala, reports indicated there were no records of who was on site when the structure collapsed, forcing authorities to rely on accounts from residents and family members, even as blame centred on the local contractor. While he is likely liable, he is only one rung of the ladder.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/fragmented-accountability-on-the-taratala-warehouse-collapse-in-kolkata/article71146060.ece)
-
----
-
-### Onerous rules: On the amended FCRA Rules, the fallout
-*The Hindu · Editorial*
-
-Civil society organisations play a vital role in areas such as health, education, disaster relief, and civil liberties and rights, stepping in where the state falls short. Yet, the Indian state has treated NGOs with suspicion, using the Foreign Contribution (Regulation) Act (FCRA), 2010, to impose stringent restrictions on their functioning. Earlier this week, the FCRA Amendment Rules, 2026 were notified, which require all NGOs registered under the FCRA, 2010, to confine their work to activities specified for their category and to the States and Union Territories named in their registration. They must also disclose their social media handles, websites and publications and are barred from carrying “political content”. The new rules impose stringent penalties for using funds for unapproved purposes and require NGOs to pay separate fees for each category of work and to each State or Union Territory in which they operate, replacing the earlier system of a single registration fee. These increase compliance costs and paperwork. While the government argues that such measures promote transparency, even-handedness and national security, the rules are clearly meant to stifle the work of NGOs. The operation of the FCRA regime has been far from transparent. As CPI(M) MP John Brittas recently complained, parliamentary questions on FCRA cancellations and non-renewals have been disallowed as “secret”, even though more than 20,000 registrations have reportedly been revoked over the past decade on opaque grounds. Far from improving transparency, the new rules burden NGOs with greater barriers and commitments, raising concerns that the Centre intends to create a chilling effect.
-
-In Noel Harper (2022), the Supreme Court upheld the stringent 2020 FCRA amendments, accepting the state’s invocation of sovereignty and national security. Yet, in in 2020, the Court had read down rules that would have classified the rights activism of civil society bodies, including protests and demonstrations as work “of a political nature”, drawing a distinction between party politics and the everyday work of social and economic betterment. The new Rules seek to treat advocacy and “political content” as grounds for disqualification. In March 2026, the Centre had proposed amendments allowing a government-appointed authority to take over the assets of NGOs whose registrations were cancelled, surrendered, or not renewed. Following strong protests, particularly from minority institutions, it put the proposal on hold. Now, the newly notified rules seem another way of throttling NGOs that utilise foreign funding for civil society work. The Centre should withdraw the punitive provisions, particularly those on multiple fees and political content, and adopt fairer rules.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/onerous-rules-on-the-amended-fcra-rules-the-fallout/article71145372.ece)
-
----
-
-### Keeping humanity at the centre of the AI revolution
-*The Hindu · Opinion*
-
-At the peak of human history, the Artificial Intelligence (AI) revolution stands out as a transformative moment, harnessing the infinite potential of science and innovation in the service of humankind. The endless possibilities of AI in every sphere of human activity and its empowering potential to deal with the unprecedented challenges of our times, is a tribute to mankind’s collective ingenuity that validates the boast of accomplishments of which ‘even the gods might be envious’. The automating of tedious tasks involving repetitive work and freeing time for leisure, expanding access to essential services, breakthroughs in medicine, ensuring longevity and better health care including cancer screening and prediction of terminal illnesses, robotic nursing of the sick, a more effective targeting of economic aid to the marginalised, enhanced accessibility of education and knowledge to all and its vast contribution to environmental sustainability in several ways including disaster management and weather forecasting are some of the crowning contributions of AI toward a more inclusive development agenda.
-
-Technology and human valuesEven so, questions about the future of human society and the ‘destiny of intelligence’ are most vigorously debated by philosophers, scientists, statesmen and the technology czars, some of whom have pleaded for a pause in the further development and deployment of AI that could hijack our idea of humanity. The claims of the AI protagonists about the ‘amazing abundance’ of goods and services and the caution against slowing down of scientific progress through regulation must contend with the compelling questions about the necessity of ethical guardrails warranted by humanitarian considerations and emotions embedded in the deepest recesses of our being through a cultural evolution spanning the millennia. The question of who we are, and whether we are ready for a new narrative of humanity in which functional efficiency and promised material abundance prevail over the yearnings of the human soul and the dignity of emotion, is an unavoidable and larger inquiry that has resisted the seduction of technological wonders. This is particularly important given that AI is able to replicate, and in some cases even outperform, cognitive skills, including the ability to understand human emotions and intuition.
-
-Are we ready for an endless technological disruption and a ‘global epidemic of stress’ caused by a prolonged volatility in the job market and a predicted ‘useless’ class of millions caused by an unmanageable stress in coping with the effects of technological disruption? Whether we have new social and economic models that protect individual self-worth and ensure for all a life of belonging and emotional well-being are larger philosophical questions arising from a humanist perspective founded on the sacrosanctity of the values we carry as a badge of humanity.
-
-Clearly, the fact that passionate propounders of AI have cautioned against ‘summoning the devil without a kill switch’, must awaken us to the urgency of serious reflection on how to preserve ‘the hidden realm of the mind from which emotions emerge, from which inspiration flows, from which our desires pulse — the subjective part of the human spirit that makes each of us ineluctably who we are’.
-
-Data privacy vulnerabilities, proliferation of misinformation, electoral manipulations, the possibility of super intelligent weapons systems going rogue, AI-enabled phishing campaigns, and surveillance and censorship are some of the ominous portends that can cause social upheavals without effective global regulation.
-
-Preserving the digital sovereignty of nation-states remains a challenge, given that control over data is intrinsically linked to national security and the strategic autonomy of nations. The establishment of a global regulatory regime that respects national sovereignty and ensures effective enforcement can no longer be postponed.
-
-A moral compassThe world of AI that could rewrite the code of humanity, therefore, needs a moral vision that can harmonise technological advancement with the preconditions of a virtuous and happy society. Terry Eagleton’s caution in relation to a sense of seductive self-assurance is eloquent and I quote: ‘An inflated self- belief can earn its calamitous comeuppance, which caused the ancient Greeks to shudder and look fearfully to the skies’.
-
-Spanish philosopher José Ortega y Gasset reminded us that ‘we live at a time when man believes himself fabulously capable of creation, but he does not know what to create. Lord of all things, he is not Lord of himself. He feels lost amid his own abundance. With more means at its disposal, more knowledge, more technique than ever, it turns out that the world today goes the same way as the worst of worlds that have been; it simply drifts’.
-
-The encyclical letter of His Holiness, Pope Leo XIV on ‘Safeguarding the Human Person in the Time of Artificial Intelligence’, clinches the moral debate on the humanist dilemmas in relation to AI. Recognising that technology is not antagonistic to humanity, the Pope has stressed the duty to remain ‘profoundly human’ in an era of AI when ‘human dignity is threatened by new forms of dehumanization’.
-
-Emphasising the need to establish standards of ethical discernment based on the dignity of the individual, His Holiness has warned against the ‘illusion’ of ‘self assertion’ and cautioned against progress that exacerbates inequalities and is incapable of healing peoples’ wounds. He has called for a rejection of the ‘idolatry of profit that sacrifices the weak, a uniformity that neutralizes differences and the pretense that a single language — even a digital one — can translate everything, including the mystery of the person into data and performance’. These assertions by the Pontiff are moral injunctions in a world that needed a reminder of the ‘splendour and grandeur of humanity’ beyond its creations and of the limitations of AI in terms of its ‘affective, relational or spiritual capabilities’.
-
-The moral code propounded by the Pope, a product of an encounter between lived experiences, spiritual consciousness and historical memory, asserts that humanity flourishes in the ‘fragility and finitude’ of the human person and in its limitations.
-
-Ethical AI governanceThus viewed in the framework of core human values anchored in the dignity of man, global leaders are expected to opt for a ‘humanist centric’ approach in the deployment and regulation of AI for the larger good of humanity with the individual at the centre of their decisions. Prime Minister Narendra Modi has stressed at both the VivaTech 2026 conference in Paris (June 2026) and the India-AI Impact Summit 2026 in New Delhi (February 2026) that such an approach would require a robust and enforceable regulatory framework, rather than voluntary and non-binding commitments, to govern the use of AI. Such a framework could democratise access to frontier AI and help build a shared, trustworthy AI ecosystem in an age that ‘levels everything and reveres nothing’. How nations deal with this epochal challenge will define the quality of political leadership and our commitment to inclusive democracy anchored in equality and human dignity as the ultimate civilisational aspiration.
-
-Ashwani Kumar is Senior Advocate, Supreme Court of India, an author and a former Union Minister for Law and Justice. The views expressed are personal
-
-[Read full article](https://www.thehindu.com/opinion/lead/keeping-humanity-at-the-centre-of-the-ai-revolution/article71146740.ece)
-
----
-
-### DC Edit | An Indian Passport Shows You're Indian: Or Doesn't It?
-*Deccan Chronicle · Editorial*
-
-The confusion created by the clarification issued by the ministry of external affairs that Indian passports are primarily travel documents to prove identity of the person abroad and that they are not conclusive proof for citizenship is unsettling for a large section of people in the country. The time, the cause and the aim of the statement about the document when citizenship does not appear to be a point of debate in the country do not help clear the confusion either.
-
-Indian citizenship by birth, naturalisation and descent are governed by Articles 4 to 11 of the Constitution and the Citizenship Act, 1955. While the Constitution primarily defines citizenship immediately after the formation of the Republic, the Citizenship Act governs it ever since it has come into force.
-
-While the Constitution and the law define citizenship and the conditions thereof, they do not expressly talk of a “document” which “conclusively” establishes the citizenship of a person. While there are legal provisions in India for the acquisition of several documents such as passport, driving licence, PAN card, Aadhaar card and voter identity card which specify the nationality of the holder as Indian, none of them require the person concerned to present a document to prove their citizenship to acquire them.
-
-There appears to be a certain urgency in certain sections of the administration to put an unusual focus on citizenship and the documents to prove them. The RSS and the Sangh Parivar organisations including the BJP have been talking about a national register of citizens (NRC) in India. Home minister Amit Shah has talked about it as a real possibility and a tool to identify non-citizens and get rid of them. He is on record talking about the Citizenship (Amendment) Bill, 2019, as a precursor to the NRC. Those who read the intent of the government warned against its passage as it has all the ingredients of being used as a tool to target sections of people who do not exactly fall in the demographic groups right wingers would approve of.
-
-It may be recalled that a routine special intensive revision (SIR) of the electoral roll has put crores of Indians into hardship. The legal requirements to remain on the roll were next to impossible for many; in fact the Supreme Court observed that it would be tough even for a judge to procure them at a short notice. It must not be forgotten that the apex court, however, approved the patently unjust exercise which still has several lakh people externed from the roll for no fault of theirs. Reports say the West Bengal government is using the exclusion from the roll as an excuse to delete their names from the list of ration-card holders.
-
-Right wing governments have a penchant for putting ‘citizenship’ on a high pedestal. There are many around who applaud the use of the Immigration and Customs Enforcement (ICE) agency by the Donald Trump administration in the US to target people who do not form part of the national mainstream. That even American Indians have fallen prey to the tactics of the agency has not deterred them. India with crores of people who cannot even prove their right to be on the electoral roll will not be able to withstand such a special intensive revision of it.
-
-The government better employ transparent and inclusive rules that will cover every Indian as an Indian citizen. It should be incumbent on it to provide everyone who has the eligibility to be an Indian citizen with a document should a need be felt for one, and not the other way around. After all, the Constitution was adopted, enacted, and given to ourselves not by “we, the citizens of India”, but by “we, the people of India”.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-an-indian-passport-shows-youre-indian-or-doesnt-itdc-1966485)
-
----
-
-### DC Edit | Crude Falls: But Where's The Relief?
-*Deccan Chronicle · Editorial*
-
-Nearly four months after the United States and Israel launched unprovoked attacks on Iran, forcing the world, especially India, to scramble for oil and gas, crude oil price has crawled back to the pre-war levels of $73 a barrel. The fall in the crude oil price offers great respite to the general public and the global economy.
-
-Though oil marketing companies (OMCs) did not hike prices initially, they hiked retail prices of domestic LPG cylinder, commercial LPG cylinder, compressed natural gas, petrol and diesel to partially offset the rising crude oil price, which went up to nearly $120 a barrel at the peak of hostility.
-
-Now that the global prices have returned to the pre-war levels, there is a growing demand for the reduction in the prices of petroleum products. However, the OMCs are unlikely to revise prices immediately as they seek to recoup losses that they suffered due to underrecoveries for the last 120 days. Before the prices were hiked, they lost around Rs 1,000 every day, and after the hike, they lost Rs 600 crore a day — taking the aggregate underrecoveries to the tune of around Rs 80,000 crore.
-
-Apart from underrecoveries, the government will have to take into consideration the future oil supply scenario before restoring the fuel price to the pre-war levels. Currently, the fall in crude oil appears to be partially led by a glut in the oil market caused by the opening up of the Strait of Hormuz and the oil that hundreds of ships stuck for weeks are bringing into the market.
-
-Though the peace appears to have returned to the Persian Gulf, some oil and gas facilities could take at least over six months to resume their production. The government, therefore, must continue to be vigilant about the energy market, restore its emergency oil reserves and diversify its oil sources and make moves towards energy independence by promoting non-fossil fuel alternatives.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-crude-falls-but-wheres-the-relief-1966471)
-
----
-
-### Dilip Cherian | How Justice Cannot Keep Looking Away From The Case Of Sanjiv Chaturvedi
-*Deccan Chronicle · Opinion*
-
-The Uttarakhand government’s decision to clear whistleblower forest officer Sanjiv Chaturvedi for a possible deputation to the Lokpal is noteworthy. But an even bigger story lies elsewhere: the extraordinary reluctance of courts to hear his cases.
-
-Over the years, judge after judge has recused from matters involving Mr Chaturvedi. The numbers are startling enough to raise a simple question: At what point does recusal stop being a safeguard and start becoming a problem?
-
-Last week, the Supreme Court appeared to recognise exactly that. After four judges of the Punjab and Haryana high court recused themselves from hearing a case involving Mr Chaturvedi, the apex court directed that a bench be constituted where there was no scope for further recusals. That should never have required a reminder from the Supreme Court.
-
-Recusal is important when there is a genuine conflict of interest. Nobody wants judges hearing matters in which they have a personal stake. But recusal cannot become the judicial equivalent of passing the file to someone else's desk. Every recusal pushes the case further down the road, increases delays and leaves litigants trapped in a maze with no exit.
-
-Whether one agrees with Mr Chaturvedi or not is beside the point. Some see him as a courageous whistleblower. Others view him as a combative officer who has spent years fighting institutions. Neither perception changes the core issue. Every citizen is entitled to have a court hear and decide a case within a reasonable time.
-
-Courts earn public trust by deciding difficult matters, not by avoiding them. Justice cannot be allowed to disappear into an endless chain of recusals.
-
-The missing piece in lateral entry
-
-The Modi Sarkar’s lateral entry experiment has always generated more heat than light. Now, Union minister Jitendra Singh has acknowledged what many critics have been saying for years: there is still no workable model for providing reservation in lateral-entry appointments. The admission has exposed the central contradiction in the debate.
-
-Few would disagree that the government needs specialised talent. Running a modern state is no longer just about file work and administrative experience. Policymakers today grapple with artificial intelligence, cybersecurity, climate change, financial regulation and energy transitions. It is only logical to bring domain experts into government when required. In fact, lateral entry is hardly a revolutionary idea. Governments across the world routinely tap outside talent for specialised roles.
-
-The trouble begins when expertise appears to come at the cost of representation.
-
-Reservation in public employment was designed to ensure that historically disadvantaged communities have a seat at the table. Unsurprisingly, any recruitment mechanism that seems to bypass that framework is bound to attract scrutiny.
-
-The government argues that implementing reservations in a small number of highly specialised posts is easier said than done. But after years of experimentation, “it’s complicated” is beginning to sound less like an explanation and more like an excuse.
-
-The real question is not whether India needs lateral entry but whether the government can design a system that combines expertise with inclusiveness. After all, diversity and competence are not mutually exclusive goals.
-
-The politics surrounding lateral entry will not disappear anytime soon. Every new recruitment exercise will revive the same controversy until the government addresses the reservation question head-on.
-
-India’s first FATF leadership role
-
-India’s election to the vice-presidency of the Financial Action Task Force (FATF) signals how far the country has come in shaping the global conversation on financial integrity, money laundering and terror financing. For years, New Delhi has argued that terrorism cannot be fought effectively unless its financial lifelines are dismantled. It has pushed for tougher scrutiny of terror-financing networks, greater accountability from states that shelter them, and stronger international cooperation against illicit money flows. With senior IAS officer Vivek Aggarwal set to become FATF vice-president, India now has a greater opportunity to shape that conversation from within.
-
-FATF is the world’s most influential anti-money laundering and counter-terror financing body. Its assessments can affect a country's access to global capital, investor confidence and financial credibility. In an era where financial crime moves faster than regulators and terror networks exploit increasingly sophisticated channels, FATF’s role has only become more consequential.
-
-The appointment also reflects India’s growing stature in global governance. Whether at the G20, climate negotiations or multilateral institutions, India is increasingly being viewed not just as a participant but as a stakeholder whose views carry weight. Securing a leadership position in FATF for the first time is part of that broader trajectory.
-
-There is also a larger...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/dilip-cherian-how-justice-cannot-keep-looking-away-from-the-case-of-sanjiv-chaturvedi-1966275)
-
----
-
-### OF CABBAGES AND KINGS | As Starmer, Finally, Decides To Go…  Ill Burnham’s Rise Be UK’s Sign Of Hope? | Farrukh Dhondy
-*Deccan Chronicle · Opinion*
-
-“Sleeping dogs never lie
-
-So why do we say ‘let them’?
-
-They never laugh, they never cry
-
-Not even when you pet them…
-
-The horse was proud to win the race
-
-But as it won, it fell
-
-These proverbs have to keep apace
-
-With technology to sell.”
-
-From Silly Cone Sally, by BachchooAfter repeatedly asserting that he won’t jump ship, Prime Minister Sir Keir Starmer had, as is the traditional practice, the lectern set outside the doors of No. 10 Downing Street on Monday. He stood behind it and announced his resignation.
-
-With characteristic dignity he said he had taken note of the opinion of Labour MPs and of his Cabinet and concluded that the honourable course was to go.
-
-The precipitating factor for his decision was the victory of the ex-mayor of Manchester, Andy Burnham, in the byelection in Makerfield. Mr Burnham resigned his mayoralty when Josh Simons, his supporter for the leadership of the Labour Party and consequently the country, stood down to make way for him. Mr Burnham has now entered Parliament as a Labour MP with almost guaranteed support from the majority of Labour MPs to project him into the leadership and thence into No. 10.
-
-Mr Burnham won 55 per cent of the vote of the Makerfield constituency, beating the two far-right parties, Reform and Restore, whose surge in the public polls and victories in the local elections in May is categorically attributable to their “policies” of anti-immigration, deportations, surreptitious anti-Islam, anti-Europe and fervent, one might even say un-British, nationalism.
-
-Mr Burnham’s vote exceeded that of the combined votes of Restore and Reform, which adds an optimistic twist to the country’s decades-long obsession with xenophobia of one sort or the other.
-
-Reform, the “party” led by Nigel Farage, inherited it’s guiding directions from the fact that Mr Farage was one of the main advocates of Brexit, arguing to keep Johnny European out of the UK. (The name Farage means he is the descendant of Huguenot refugees from France!)
-
-After Brexit, Mr Farage joined the Reform Party and formulated its strong anti-immigrant, anti-asylum-seeker and pro-deportation policies.
-
-Yes, the world is divided into rich and poor, relatively peaceful and factionally, ideologically or war-torn territories. People inevitably try and move from the poor to the rich, from the troubled to the relatively peaceful. They perhaps rely on traditions of welcome.
-
-Having watched American films through my teenaged years, I am convinced that the native inhabitants of America weren’t overjoyed when Europeans decided to flood in and claim their lands. These immigrants now claim to be “natives” and now their Orangebooby President and his Make-America-Gaga-Again supporters are anti-immigrant and even impertinently venture to voice support for anti-immigration parties and trends in countries which are none of their fandango-ing business!
-
-I don’t know what Mrs J.D. Vance’s opinions are on immigration and deportation. We do know that she is the daughter of Indian immigrants to the United States and that her husband, the vice-president, supports Orangeboob’s policies, which are stridently for building walls along American borders and expelling people from the country on very feeble grounds.
-
-Then in Britain there is a famous quintet (maybe more) of recent descendants of immigrants, formulating and advocating anti-immigrant and deportation policies. The parents of former Tory office-holders, Priti Patel, Rishi Sunak and Suella Braverman are all immigrants to the UK. So too are the African and West Indian-origin Tories Kwasi Kwarteng and James Cleverly. They all supported a failed Tory policy to deport would-be immigrants and asylum-seekers to Rwanda.
-
-Of these, Suella Braverman has defected from the Tories and joined Nigel Farage’s Reform Party. She was photographed in the newspapers hugging him and declaring that she felt she had “come home”. Where from? Not Rwanda!
-
-Apart from these politicians there are the journalists with the same phobias -- xeno, Islamo, and other “isms”.
-
-A lady called Lionel trilling regularly writes diatribes -- I expect she calls them columns -- against immigrants in a right-wing weekly called the Spectator edited now by the ex-Tory minister Michael Gove. These anti-immigrant diatribes sometimes descend into Islamophobia. This lady is an American and so an immigrant to the UK, though she recently said she has been compelled (by the imagined influx of immigrants?) to move to Portugal. I believe Ms Trilling is also a writer of fiction, though I don’t know her books. Now it has been my firm conviction that writers of fiction should be endowed with a strong sense of irony -- but alas!
-
-There are others with perhaps more justification for being anti-immigrant. One such, in the same publication, is a person called Douglas Murray who is, from his name, Scottish.
-
-Both Ms Trilling and Mr Murray quote in these diatribes the horrific crimes of non-white, or in some cases specifically Muslim,...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/of-cabbages-and-kings-as-starmer-finally-decides-to-go-ill-burnhams-rise-be-uks-sign-of-hope-farrukh-dhondy-1966466)
-
----
-
-### Shobhaa De | Shaadi Power: Big Fat Weddings Alive & Well
-*Deccan Chronicle · Opinion*
-
-One thing is for sure. Political shaadis are far more challenging than organising a G-7 summit. So much avian activity… baap re baap!
-
-Birds of a feather flock together at a grand venue wondering about the pecking order: will it be enforced strictly by the hosts? Or will kites and eagles flit freely around the ballroom to fake-mingle with kabootars and sparrows? How many fair-weather friends will pose for the paps: hugging, kissing, feet-touching for the benefit of onlookers?
-
-Will the knives be visibly out for rivals daring to display proximity to bigwigs? Who will be neatly stabbed in the back? Ousted? Which luminary will win the Chief Chamcha Award at the function? The brazen opportunist jumping from one camp to the next, pretending to be everybody’s best friend? Or the discreet networker, nudging reticent powerbrokers to meet and greet the next VVIP who was making a grand entrance?
-
-All this and much more was happening at this season’s most watched wedding -- the opulent shaadi of Revati Sule (daughter of Supriya and Sadanand Sule) to Sarang (son of Arun Lakhani). Since it was a large public function attended by thousands, very little can be considered off-limits by attendees: what with dozens of presswallahs swarming around. Such is the inherent nature of political alliances -- nothing can be camouflaged and everything is out there in full public view. But the one thing that was noted and widely commented on in the media was the impressive turnout of political bigwigs who came from a wide spectrum of dramatically divergent ideologies. Why the surprise?
-
-Let’s start with the Big Daddy of them all.
-
-Presiding over the beautifully put together nuptials of his beloved grand-daughter was the stately grand old man of politics himself -- Sharad Pawar, seated on a comfortable sofa, receiving a long line of invitees, nodding and smiling at a few, ignoring most, while his gracious wife Pratibha looked on expressionlessly.
-
-Guests speculated: Will Prime Minister Narendra Modi put in an appearance? Will Melody toffees be distributed? What about the Union home minister, Amit Shah?
-
-That didn’t happen. And as a cynic commented later: “Why would they even bother? They don’t need Sharad Pawar any longer.” This is a totally galat observation. Everybody needs Sharad Pawar. And there are no exceptions.
-
-Others of his age may have retired sensibly and blended into the woodwork. Not Sharad Pawar. He’s right there: destined to outlive rivals and adversaries half his age. God bless him! It’s naïve to underestimate Pawar’s power in India’s constantly shifting political scenario.
-
-Loyalties change faster than soiled bedsheets. But Sharad Pawar goes on, undeterred by the political blows that could destroy a lesser person. He has weathered devastating storms stoically and survived countless political battles. Going forward, no matter how his fragile health holds up, Sharad Pawar will be there: a political force nobody can afford to ignore.
-
-That much was undisputedly evident at the wedding.
-
-People chattered about the presence of RSS supremo Mohan Bhagwat seated near the stage. But why? The groom’s family is from Nagpur. The groom’s father is a seasoned politician with his businesses in Nagpur. Nagpur protects its own.
-
-Ummmm… Rahul Gandhi attended. Significant? Yes and no. But a cute guy in a white tee definitely stands out in a grandiose setting filled with men in Swarovski-studded sherwanis.
-
-But the asli show stoppers were the Paithani saree-clad Vahinis.
-
-Maharashtra loves its feisty vahinis (brother’s wives) -- those amazing, ambitious ladies who don’t allow anything or anyone to stop them from achieving their political goals: not even personal tragedies. Apart from the gorgeously dressed Vahinis, there were lovely young Tais (sisters) in becoming designer lehengas. There was also an army of Bhau-log (brothers) and Dadas (older brothers), but the Bro Code was sadly absent: each one was hustling and jostling solo. Some had brought personal video-graphers as a part of their entourage, and were busy throwing their arms around startled strangers as the cameras whirred to capture every moment.
-
-Good strategy! If the paps and social media ignore your presence -- no worries.
-
-Shoot your own Insta reels with celebrities and circulate them widely.
-
-Back home, gullible, awestruck mandali will be impressed enough to believe you are best friends with Mukesh Ambani, Gautam Adani and many others. Of course, the Poonawalas attended. But where was Lakshmi Mittal? Did anyone spot the Birlas? No? That’s okay. The Delhi crowd was definitely under-represented… No Shobhana? But Kashmir was visible: thanks to Farooq Abdullah.
-
-Musical chairs anyone?
-
-Socio-political gatherings that cross party lines are choreographed with the precision of a Bolshoi ballet. There’s nothing accidental about any of the arrangements. From the seating plan to the entrances and exits of VVIPs, an enormous amount of strategic plotting is at play. Who to avoid! Which...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/shobhaa-de-shaadi-power-big-fat-weddings-alive-well-1966529)
-
----
-
-### A test of integrity and transparency
-*Deccan Herald · Editorial*
-
-With the preliminary report of a Special Investigation Team (SIT) reportedly confirming irregularities in the management of donations at the Ram Temple in Ayodhya, the temple’s functioning has come under the scanner.
-
-The temple’s administrators – the Shri Ram Janmabhoomi Teerth Kshetra Trust – face a tough task explaining the alleged embezzlement involving jewellery and crores of rupees.
-
-After the charges became public, ornaments and cash valued at about Rs 2 crore have been reportedly recovered. The final report of the three-member SIT, set up by the Uttar Pradesh government, is expected to reveal the real scale of the misappropriation.
-
-Ayodhya Ram Mandir bomb plot terror suspect sent to 10-day police custodyThe disclosures carry significant political implications because the Ram Temple has been integral to the Bharatiya Janata Party (BJP)’s ideological and electoral narratives, with its construction framed by leaders, including Prime Minister Narendra Modi, as an act of nation-building.
-
-The temple has since been elevated beyond a religious institution into a symbol of national pride.
-
-Allegations of financial misappropriation and administrative lapses, therefore, risk tarnishing not only the temple’s management but also those politically associated with it. With Uttar Pradesh heading into Assembly elections next year, the controversy is particularly uncomfortable for the ruling party.
-
-While Opposition leaders have accused the establishment of shielding the culprits, the BJP has dismissed the allegations as an attempt to defame the temple and hurt religious sentiments. Chief Minister Yogi Adityanath has urged devotees to await the SIT’s findings.
-
-Ayodhya Ram mandir row | FIR lodged in 'embezzlement of donations' case as SIT probe continuesYet questions have been raised about the credibility and scope of the ongoing inquiry. Samajwadi Party (SP) leader Akhilesh Yadav questioned the rationale of an SIT investigation in the absence of a First Information Report (FIR).
-
-On Thursday, two days after the preliminary report, an FIR was registered against eight people in connection with the allegations. The concerns are compounded by the composition of the investigation team. The SIT is headed by Lucknow Divisional Commissioner Vijay Vishwas Pant. Its preliminary report was submitted to Additional Chief Secretary (Home) Sanjay Prasad, who also serves as the state government’s ex officio representative on the temple trust.
-
-This official structuring of the probe has invited allegations of a conflict of interest. The charges call for a credible and independent investigation that must lead to a full public disclosure of the temple’s accounts. Built through donations from the devotees, the temple owes its supporters complete transparency.
-
-The issue extends far beyond allegations of theft or administrative lapses. It concerns the integrity, accountability, and sanctity of one of the country’s most revered religious institutions.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/a-test-of-integrity-and-transparency-4052508)
-
----
-
-### Expendable lives, preventable deaths
-*Deccan Herald · Editorial*
-
-The deaths of two workers at a Bangalore Water Supply and Sewerage Board (BWSSB)-owned sewage treatment plant (STP) in Varthur demand accountability beyond the contractor’s negligence.
-
-While the police have booked the contractor, Va Tech Wabag Ltd, BWSSB officers responsible for ensuring that mandatory safety protocols were followed at a facility under their control cannot be allowed to go scot-free.
-
-The circumstances of their deaths are shocking. Brijesh Kumar, 27, slipped while standing on steps inside a wet well. His supervisor, Agilan Mohan, 30, was attempting to secure him by holding onto his belt. When Kumar fell, Mohan was dragged in too.
-
-Preliminary investigations have revealed that mandatory protocols, including basic safeguards such as body harnesses designed precisely to prevent such incidents, were bypassed.
-
-Varthur STP accident: No safety harness used, sewage not divertedThese are not isolated incidents. At least 15 workers have died in similar accidents in apartment complexes and commercial establishments across Karnataka over the past decade, apart from numerous fatalities during manual sewer and manhole cleaning.
-
-Consistent with the Prohibition of Employment as Manual Scavengers and their Rehabilitation Act, 2013, the Supreme Court has repeatedly held that human entry into such systems should occur only in exceptional circumstances and under stringent safeguards, including protective gear, gas detection equipment, ventilation systems, harnesses, and rescue mechanisms.
-
-The persistence of such deaths also reflects a deeper social injustice. According to the National Commission for Safai Karamcharis, the overwhelming majority of those engaged in hazardous sanitation work belong to the Scheduled Castes, highlighting how caste and occupational risk remain closely intertwined.
-
-Data tabled by the Union government in the Lok Sabha reveal that 622 sanitation workers died while cleaning sewers and septic tanks across India between 2017 and 2025. Equally disturbing is the disclosure that the families of 52 victims received no compensation.
-
-Varthur STP drowning: Firm booked for death by negligence; one worker still missingThe recurring loss of life is not the result of a lack of technology but of a systemic preference for cheap human labour over safe mechanised alternatives. Robotic cleaning systems and other technologies are available and manufactured in India.
-
-The barrier is enforcement. Contractors who ignore safety norms must face prosecution, but so too must officers who fail to ensure compliance. Until mechanisation replaces hazardous manual work and accountability becomes certain, such deaths will continue.
-
-No civilised society can treat the life of a sanitation worker as expendable, nor accept that the lives of those drawn overwhelmingly from historically marginalised communities are somehow less worthy of protection.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/expendable-lives-preventable-deaths-4052509)
-
----
-
-### Ram mandir theft | Faith looted, Trust protected?
-*Deccan Herald · Opinion*
-
-The Ayodhya Ram temple theft case has shaken a large section of India’s people, especially among the donors to the temple.
-
-Temple theft cases are common in India. The pattern is broadly similar: the theft involves insiders under-recording of donations, substituting gold, diamonds and gems with fakes, reporting valuables as ‘missing’ with patchy or non-existent paper trails. Executive-controlled enquiries on these occasions never reach the top.
-
-Prominent cases include Tirumala Tirupati Devasthanam, where an employee embezzled more than Rs 100 crore; Sabarimala Sri Ayyappa Temple, where 4.54 kg of gold went missing in-transit for electro-plating; and Sri Padmanabhaswamy Temple, where police found gold bars and coins missing from five of the six vaults, and a replica substituting for a multi-tiered golden lamp and a sanctum ornament sent for repair.
-
-Although the modus operandi is similar, a major difference is that those cases were controlled by state-government-appointed Devasthanam (in the case of Tirupati in Andhra Pradesh) and Devaswom boards (Kerala). The Ram Janmabhoomi Trust is a private trust not controlled by the government, but by people associated with the BJP and the RSS. So, the same generic modes of theft carry higher stakes here.
-
-Ayodhya controversy: A headache BJP did not need in Uttar PradeshThe Ayodhya Ram temple is not an administered shrine but the crowning achievement of a four-decade movement by the BJP-RSS and affiliates like the VHP and Bajrang Dal. The theft is not about mismanagement of an inherited temple; the Ram temple was projected as a civilisational milestone, with Prime Minister Narendra Modi leading its consecration.
-
-This time the accusers are insiders — reflecting a factional war within the Sangh parivar. Worryingly for the RSS, those demanding the disbanding of the Trust and a police investigation include people who are aligned with the VHP and those once accused in the Babri masjid demolition case. Hindutva’s foot-soldiers and its aligned organisations are, therefore, pointing fingers at the RSS appointees helming the temple trust.
-
-The size of donors who are disturbed by the theft is hard to estimate, but it will certainly include a mass of small donors who are emotionally invested in the temple. By design, the donor base is not institutional or elite. A mass movement mobilised through crowdfunding built the temple. The theft is, thus, a betrayal of the trust and sacrifice of lakhs of small donors who believed they were part of a movement righting a historical wrong. The sense of betrayal is far more personal than at any other shrine.
-
-The scandal damages the foundational story of the temple as a shrine to Ram, the Maryada Purushottam — the embodiment of honour, morality, and righteousness under all circumstances. Where the devotees will ask is the propriety or moral code, the maryada of those entrusted with the temple’s management?
-
-Unlike in Tirupati, where political rivals traded accusations over temple administration, the blame-game is unavailable here. Ayodhya is unambiguously a BJP/RSS/VHP/Modi project, built under BJP governments at the state and Centre, both of which endlessly claim credit for building it. The trust that heads it is drawn from the Sangh parivar and Hindutva-aligned figures and three serving IAS officers, including the district magistrate of Ayodhya.
-
-Does the absence of rivals mean that the trust will not be able to deflect responsibility? Lower-level functionaries can always be blamed. This is suggested by the way the Uttar Pradesh government set up the so-called Special Investigation Team (SIT). Although it has submitted its initial report, such an SIT does not amount to much.
-
-The Supreme Court has ruled that the police must register an FIR when available information discloses a cognisable offence, such as embezzlement or criminal breach of trust; no preliminary inquiry is necessary for doing that. There are sufficient grounds for an FIR. Santosh Dubey, a former Babri masjid demolition accused, has filed a formal complaint against the trustees, and the SIT's own findings suggest cognizable offences occurred. There is also a PIL pending for ordering a CBI inquiry into the theft with the Allahabad High Court. This means that as long as there is no formal case before a magistrate, no charge-sheet, and, therefore, no prosecution can begin.
-
-Even though media reports say over 20 individuals have been named, and about half a dozen are being questioned, no one can be legally arrested based on the SIT's reports alone. The SIT has triggered FIRs against low-level functionaries over cash recovered from them, but an FIR recognising systemic, trust-level embezzlement is absent. Evidence gathered by the SIT without an FIR to begin with may also lack the legal standing of evidence collected through a properly registered case.
-
-It is also problematic that the SIT was requested by the trust itself, and it will report to the executive rather than the judiciary. Its findings will have no prosecutorial power. An executive-controlled and FIR-less administrative inquiry can reach a dead end and merely turn into a damage-limitation exercise.
-
-Two days after the SIT submitted its initial report, the UP police, as expected, has finally lodged an FIR but only against eight low-level employees of the temple. However, events would have unfolded differently under an independent judicial supervision from the very beginning.
-
-The BJP might hope that limiting the responsibility of theft to cash counters and clerks will protect the prestige of the temple. But if people perceive that low-level functionaries are being sacrificed while those at the helm escape unscathed, there will be political, moral, and organisational costs for the BJP and RSS.
-
-While hardcore supporters may stay loyal, fence-sitters may doubt the BJP’s already eroding corruption-free governance model. The RSS’ image as an austere, disciplined, incorruptible organisation will also suffer if those in charge of the trust go unpunished, potentially fracturing the RSS ecosystem.
-
-Already, Hindu religious leaders are questioning the reputation of the RSS. The temple has received at least Rs 4,575 crore in donations since 2020, and these published figures may be an underestimate. So exemplary punishment will be asked for those in supervising roles, and an overhaul of temple management. Without it, donations could decline, and the Opposition will gain a powerful line of attack against the BJP.
-
-Bharat Bhushan is a Delhi-based journalist.
-
-Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
-
-[Read full article](https://www.deccanherald.com/opinion/ram-mandir-theft-faith-looted-trust-protected-4052843)
 
 ---
 
