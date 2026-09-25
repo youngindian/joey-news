@@ -1,3 +1,581 @@
+## 25 September 2026
+
+### Society bars EWS residents' park, pathways access, administration lifts restrictions
+*Neeraj Vashistha · general*
+
+## A Gurugram housing society dispute over EWS residents' access to parks, pathways and other common facilities has led the district administration to order the immediate removal of restrictions.
+
+The RWA, which cites separate conveyance deeds and maintenance contributions, has questioned the order. (Representative image)
+
+Gurugram,Sep 25, 2026 10:28 IST
+
+A dispute over access to common facilities at a Gurugram housing society has exposed a sharp divide between residents of the main towers and those living in Economically Weaker Section (EWS) flats.
+
+The district administration has now ordered the removal of restrictions on EWS residents' access to the society's central park, internal pathways and other common facilities.
+
+The dispute involves 141 EWS flat holders and 799 owners in the main towers at Mahindra Aura in Sector 110A, Gurugram.
+
+The District Registrar (Firms and Societies), Gurugram, directed the Residents' Welfare Association (RWA) to remove the restrictions with immediate effect.
+
+### HOW THE DISPUTE STARTED
+
+The matter reached the district administration after 70-year-old EWS resident Kashmir Singh complained about restrictions on his access to the society's central park and other common facilities.
+
+Singh said the restrictions had forced him and his ailing wife to stay inside their room for three days.
+
+The dispute grew last month when Singh was removed from an area near one of the towers and accused of "unauthorised entry".
+
+The issue has since turned into a larger dispute over the rights of EWS residents in society.
+
+The RWA had put up a board around two years ago restricting EWS residents from using the central park and sports facilities.
+
+According to the EWS residents, they were also denied RWA membership, power backup and car parking rights.
+
+The EWS residents said they were not asking for special privileges. They said they wanted basic access and the freedom to move around the society. They also said they were willing to pay additional maintenance charges.
+
+### WHY ARE THE RESIDENTS DIVIDED
+
+Residents of the main towers have argued that their conveyance deeds do not give EWS residents access to certain common areas and facilities.
+
+They have also pointed to the difference in maintenance payments. Residents of the main towers pay around Rs 11,000 a month, while the EWS block is charged around Rs 705 a month, according to the RWA.
+
+### THE RWA HAS DENIED ALLEGATIONS OF CLASS DISCRIMINATION
+
+RWA president and former BSF officer SS Gill and former general secretary and advocate Rajesh Arora said they also came from ordinary backgrounds and had worked hard to progress in life. They denied having any ill will towards disadvantaged sections.
+
+Gill said a gated society has large expenses, including more than 80 private security personnel, cleaning staff and swimming pool operations that cost around Rs 3,000 a day.
+
+He alleged that EWS residents wanted access to the same facilities without making similar financial contributions.
+
+Arora also pointed to maintenance dues. He claimed the EWS block had around Rs 7 lakh in outstanding dues, despite being charged a monthly fee of around Rs 705.
+
+### ADMINISTRATION ORDERS RESTRICTIONS REMOVED
+
+The District Registrar ruled in favour of the EWS residents and directed the RWA to remove the restrictions immediately.
+
+The registrar said private agreements or conveyance deeds could not take away citizens' right to safe movement and basic access.
+
+The administration directed that EWS residents should have unrestricted access to parks and internal pathways. It cited their need for fresh air, health and peaceful walks.
+
+The order described the denial of access to parks and pathways to elderly and sick residents as "harassment and systematic discrimination."
+
+Officials have also warned that restricting the movement of EWS residents despite the order could lead to legal action under the Haryana Registration and Regulation of Societies Act.
+
+### RWA QUESTIONS ORDER, PLANS APPEAL
+
+Residents of the main towers and RWA office-bearers have questioned the District Registrar's decision and called it one-sided.
+
+Colonel Ved Prakash, 75, and retired senior audit officer Rakesh Chadha, 75, said they had lived peacefully in the society for around eight years and that such demands had never been raised earlier.
+
+They also said their side was not heard before the order was issued.
+
+The RWA has questioned the legal validity of the decision. It argued that the District Registrar is not a court and cannot decide property rights mentioned in conveyance deeds.
+
+According to the RWA, the conveyance deeds clearly state that rights to certain internal roads and parks were not sold to EWS residents.
+
+After the order, the RWA held a meeting and decided to appeal against the decision in Chandigarh. It also decided to collect signatures from residents in support of the appeal.
+
+### EARLIER ACTION INVOLVING EWS BLOCK
+
+The latest dispute comes after earlier regulatory action involving the EWS block.
+
+In June, the District Town Planner (Enforcement) issued a show-cause notice to the RWA over the closure of a gate on the emergency fire tender route near the EWS tower.
+
+The notice also raised the issue of alleged encroachment on the 5% mandatory parking reserved for EWS residents.
+
+The latest order has now brought the issue of access to common areas back into focus.
+
+At the centre of the dispute is a simple question. Can residents living in different parts of the same housing society have different rights to common facilities?
+
+For now, the district administration has ordered the restrictions on EWS residents to be removed. The RWA, however, plans to challenge the decision.
+
+\- Ends
+
+---
+
+### Bihar students caught using mobile phones during exam, school headmistress faces action
+*India Today Education Desk · general*
+
+## A viral video showed students using mobile phones during a half-yearly examination at an upgraded secondary school in Begusarai's Mokhtiyarpur. The footage prompted a notice to the headmistress, salary withholding and an inquiry into invigilation lapses.
+
+Students were seen using mobile phones to answer the question paper (Screenshot from viral video/ AI-enhanced)
+
+New Delhi,Sep 25, 2026 10:30 IST
+
+Several students were seen using mobile phones while appearing for their half-yearly examination at an upgraded secondary school in Begusarai's Bhagwanpur block. A video showing the students using phones inside the examination hall has gone viral on social media.
+
+The incident took place on September 22 at the Upgraded Secondary School in Mokhtiyarpur.
+
+The video shows several students sitting in the examination hall with mobile phones while attempting their question papers. No invigilator is seen in the examination hall in the viral video.
+
+Following the circulation of the video, Begusarai District Education Officer Manoj Kumar said the headmistress had been issued a show-cause notice and her salary had been withheld.
+
+"This is from Mokhtiyarpur. It is an upgraded secondary school. We also saw it yesterday. We immediately issued a notice to the HM and withheld her salary. An inquiry will be conducted and we are getting it done immediately. We will find out who was performing invigilation duty there and who was responsible," Manoj Kumar said.
+
+He added that those responsible would be identified after the inquiry and action would be taken against them.
+
+### HEADMISTRESS CITES SHORTAGE OF TEACHERS
+
+School headmistress Lucy Kumari said there was a shortage of teachers as examinations for multiple classes were being held simultaneously.
+
+She said exams for Classes 9, 10, 11 and 12 were underway, while only three teachers were working in the Plus Two section.
+
+"There was a lot of crowd yesterday as the examinations for Classes 9, 10 and 11 were also going on. There was a shortage of teachers. It is possible that the teachers were busy elsewhere with paperwork, during which a student may have taken out a mobile phone," she said.
+
+Lucy Kumari said students should not be allowed to carry mobile phones into the examination hall and admitted that a mistake had occurred.
+
+"Teachers had been deputed, but there are only three teachers working in Plus Two and examinations were being held for four classes. The teachers may have been busy making attendance or with some paperwork, and this happened during that time," she said.
+
+She added that the school was responsible for the lapse and assured that it would not happen again.
+
+"We accept that there was a mistake. Taking a mobile phone into the examination and giving the exam is not right. If such a mistake has happened, it will not happen again. We will pay attention to this going forward," she said.
+
+**_(With inputs from Sourabh Kumar)_**
+
+\- Ends
+
+---
+
+### ‘New substance to strategic stability’: Xi, Trump signal new chapter in China-US ties at WH dinner
+*ET Online · business*
+
+At the White House state dinner, Chinese President Xi Jinping said his talks with US President Donald Trump had produced a ‘common understanding on many issues’ and offered ‘new strategic guidance’ for bilateral ties. Trump said the two countries represent different systems, but that ties between their people endure and can help promote prosperity and security. Their remarks come as Washington and Beijing manage competition and areas of disagreement. For India, the tone and direction of US-China relations matter to its wider diplomatic and economic environment.
+
+---
+
+### Schools Shut, Over 8,000 People Evacuated: Deep Depression Triggers Heavy Rain In Odisha, Andhra Pradesh
+*Aanchal Sinha · general*
+
+Train operations were also affected after landslides occurred between Maligura and Chhatariput stations.
+
+[Read full article](https://www.news18.com/india/schools-shut-over-8000-people-evacuated-deep-depression-triggers-heavy-rain-in-odisha-andhra-pradesh-ws-klt-10351846.html)
+
+---
+
+### After firing 30,000 employees, Amazon wants to hire some of them back for AI
+*Armaan Agarwal · general*
+
+The past year has been a difficult one for the job market, particularly for tech roles. Tech companies like Amazon, Microsoft, and Meta have fired thousands of workers. But it appears that Amazon – which laid off over 30,000 employees – is now changing course, and asking some of its fired staff to consider coming back.
+
+As per a report from Business Insider, Amazon is reaching out to former employees, including ones that were impacted by recent layoffs. The company is reportedly informing these employees about open roles in its AI and cloud divisions.
+
+The report adds that one such outreach is being done by Amazon’s AI agent organisation, led by Amazon Web Services (AWS) vice-president Swami Sivasubramanian. This outreach, described as “Swami’s Boomerang Reengagement Initiative” by one recruiter, invites former employees in AI and machine learning to discuss new roles. “A lot has changed since you were here, and there’s some really compelling work happening across AI/ML right now,” the email reads.
+
+### Amazon says rehiring staff is normal
+
+This comes at a time amid growing competition in the AI race. It is possible that Amazon is tapping into its former staff. This process of bringing back former company staff is often called boomerang hiring.
+
+According to Amazon spokesperson Haley Silva, rehiring former employees is a normal, longstanding companywide practice and not a new programme limited to AI or cloud computing. “We’re always interested in connecting with talented people — both new candidates and former Amazonians — for open roles,” Silva said. “Rehiring former employees is a normal, longstanding part of how we recruit, and our rehire and interview practices are consistent across the company.”
+
+This comes after Amazon cut more than 30,000 jobs in multiple rounds over the past year, among the biggest reductions in its history. Those cuts included about 14,000 corporate roles in October 2025 and a further 16,000 in January 2026. The company had also laid off staff from its AGI, or artificial general intelligence, team.
+
+Though the report adds that AI may not be the only field where it is hiring former staff. An AWS Finance recruiter reportedly contacted a former employee who had left in good standing. The recruiter offered the person a faster track back to the company too.
+
+### Other cases of boomerang hirings
+
+This is not the first time Amazon has considered rehiring workers. In 2023, AWS human resources VP Ian Wilson told employees that many workers affected by job cuts were eligible for rehire.
+
+Apart from Amazon, other tech companies have also looked to bring former staff onboard in the past. After buying Twitter (now X) in 2022, Elon Musk fired nearly 50 per cent of its staff, or about 3,700 workers. The platform then began reaching out to many of the laid-off employees, asking them to come back.
+
+Similarly, Salesforce opened up about 3,300 new roles in 2023, just weeks after it laid off about 8,000 employees. At the time, Salesforce CEO Marc Benioff addressed “boomerang” employees, stating, “it’s okay, come back.”
+
+\- Ends
+
+---
+
+### Eight injured in drone attack in Russia's Ulyanovsk region, one killed in Belgorod region
+*SECTIONS Eight injured · business*
+
+Moscow: Eight people, including a child, were injured in a Ukrainian drone attack on Russia's Ulyanovsk region on Friday morning, Governor Alexei Russkikh said.
+
+Russkikh said on Telegram that industrial and civilian infrastructure in the region had been damaged in the attack.
+
+In Russia's Belgorod region, one civilian was killed and another wounded when a Ukrainian drone struck a truck overnight, the regional operational headquarters said.
+
+  
+
+Voronezh region Governor Alexander Gusev said air defence forces had destroyed 88 drones overnight over the regional capital and at least six districts. Four people were injured in Voronezh, while residential buildings, vehicles and industrial facilities were damaged, he said.
+
+Separately, Perm region Governor Dmitry Makhonin said on Telegram that air defence units and mobile fire groups were repelling a "massive" drone attack on the region. He said an industrial facility had been targeted but that there were no preliminary reports of casualties, with emergency services working at the scene.
+
+Reuters could not independently verify the reports.
+
+---
+
+### INS Sudarshini reaches Egypt's Alexandria port during Lokayan 26 transoceanic expedition
+*SECTIONS INS Sudarshini reaches Egypt's Alexandria port during Lokayan · business*
+
+Cairo \[Egypt\]: Indian Navy's Sail Training Ship INS Sudarshini arrived at the historic port city of Alexandria, Egypt, on Wednesday (September 23), as part of her ongoing Lokayan 26 transoceanic expedition. The port call marks the ship's second visit to Alexandria during the deployment.
+
+As per the release, the 10-month expedition commenced from Kochi on January 20, with INS Sudarshini scheduled to cover approximately 22,000 nautical miles across 18 ports in 13 countries.
+
+During the ongoing voyage, the trainees have gained extensive exposure to long-range ocean navigation and traditional seamanship. The Mediterranean passage has provided further hands-on experience in open-sea manoeuvring, sail handling and traditional seamanship.
+
+  
+
+On arrival at Alexandria, INS Sudarshini was received by Rear Admiral Mohamed Abdel Aziz, Commander, Alexandria Naval Base, along with representatives of the Embassy of India. The port call will include courtesy calls, cross-deck visits and professional interactions with the Egyptian Navy, providing opportunities for professional exchange and further strengthening the maritime ties between India and Egypt, the release said.
+
+Since embarking on the voyage, the three-masted barque has traversed the Arabian Sea, Red Sea and Mediterranean, undertaken a transit of the Suez Canal and participated in the prestigious Escale a Sete maritime festival in France. The ship subsequently undertook the historic first Atlantic crossing by INS Sudarshini, arriving at Antigua on May 27 after a 19-day passage from Cape Verde.
+
+During the passage, the ship crossed the milestone of 10,000 nautical miles since departing Kochi. The ship subsequently sailed to the Azores and Portugal, with her arrival at Lisbon on August 22 marking her 15th port visit in seven months.
+
+Lokayan 26 represents the Indian Navy's continued commitment to professional training, maritime outreach and strengthening bonds of friendship and cooperation with partner nations. Through the deployment, INS Sudarshini has served as a floating ambassador of India's rich seafaring heritage, carrying the message of Vasudhaiva Kutumbakam and the vision of MAHASAGAR across the oceans.
+
+---
+
+### ‘Ignoramus and a bigot’: Roseanne Barr blasts former ‘Roseanne’ co-star Michael Fishman; revisits 8-year-old tweet comparing Obama’s advisor to apes that led to show's cancellation
+*Rana Sarkar · business*
+
+Comedian and actress Roseanne Barr has tears into her former co-star, Michael Fishman, calling him a "brainwashed bigot." In an appearance on the "Can't Be Censored" podcast, the controversial Emmy Award-winning comedian hit back at her former "Roseanne" co-star, after he defended the show’s cancellation in 2018 for a reboot.
+
+"He f\*\*\*ing doesn’t even f\*\*\*ing know what I said, even though I’ve explained it 10,000 times for nine years on the internet," Barr said on the show. "He hasn’t even taken the time to listen to what I say because he’s a bigot. And he’s a brainwashed bigot."
+
+  
+
+The reboot of the hit '90s show was a major success when it premiered in 2018, but was canceled just a couple of months later after Barr tweeted a racist remark about Valerie Jarrett, a businesswoman and former advisor to former President Obama.
+
+  
+
+“Muslim brotherhood & planet of the apes had a baby=vj,” Barr tweeted at that time, which received huge backlash from fellow cast members, crew and network executives for comparing a Black woman to an ape.
+
+Barr, who is till date critical of the Muslim Brotherhood, has since apologized many times and claimed she was not referring to Jarrett’s race, but was being critical of her for brokering a nuclear deal with Iran.
+
+  
+
+However, ABC, the original broadcaster of the show, fired her and canceled it. A month later, the network announced a new spin-off called "The Connors." They bought back the majority of the "Roseanne" cast, including 44 year old Michael Fishman but not Barr.
+
+During the appearance on the podcast, the 73 year old comedian revealed that Fishman asked her about her comments "9,000" times before she told him to "go and f\*\*\* yourself and stay f\*\*\*ed ‘till the day you die."
+
+"You are an ignoramus and a bigot, and you have no idea what I said because it contradicts the Democratic Party platform that you’ve had shoved down your throat and up your a\*\*. So, just f\*\*\* you. You have no geopolitical context whatsoever to discuss what I said."
+
+In August, Fishman shared an Instagram video addressing the conversation about the cancellation of Roseanne revival following Barr's infamous tweet.
+
+“The brilliant comedians help us laugh at the darkest, darkest topics,” Fishman said in the video.
+
+“Sadly, in this case, there was no joke. And the show was rightfully cancelled. It’s the last time I’m really gonna go into this.”
+
+In The Conners, Fishman reprised his role alongside original cast members John Goodman, Laurie Metcalf and Sara Gilbert. The show addressed the sudden death of Barr’s character, Roseanne Conner, written out as an accidental opioid overdose. The spin‑off ran until April last year, after 93 episodes across seven seasons, though Fishman was let go before the fifth season.
+
+“And I’m glad they fired you, because I was the only reason you were ever on that show,” Barr said on Can’t Be Censored. “They wanted to get rid of you in the reboot, and I made them take you back. F\*\*\* you, you little f\*\*\*ing putz.”
+
+---
+
+### PB Fintech Shares Fall 2.5% To Lose Early Gains A Day After 36% Bloodbath
+*Mohammad Haris · business*
+
+Shares of PB Fintech reverse early gains and slip as much as 2.5%, extending the selling pressure a day after the stock suffered its biggest-ever single-day fall of 36%.
+
+[Read full article](https://www.news18.com/business/markets/pb-fintech-shares-fall-2-5-to-lose-early-gains-a-day-after-36-bloodbath-ws-l-10351858.html)
+
+---
+
+### Your home test for fake khoya catches starch. It won't catch what actually harms you
+*Radifah Kabir · general*
+
+A small bottle of iodine sits in the kitchen cabinet of more Indian homes than any food safety regulator could ever hope to visit. It comes out once a year, around Diwali, brought down alongside the good china and the strings of lights.
+
+A piece of _khoya_ goes into a pan of water, boils, cools, and receives a few careful drops from that bottle. What happens next, a colour that stays gold or turns to ink, decides whether the sweets get made or the whole batch gets quietly thrown away.
+
+This ritual belongs to millions of households now, inherited the way a recipe is inherited, from a mother or an aunt who learnt it from someone before her.
+
+It is not folklore. It is genuine chemistry, and it works precisely as advertised. I think that is exactly what makes it dangerous to trust completely.
+
+### WHY DO WE ALL SUDDENLY BECOME CHEMISTS EVERY DIWALI?
+
+Because the raids give us no reason not to. This September alone, Maharashtra’s Food and Drug Administration seized 32,023 kilograms of suspected adulterated, substandard or misbranded food across the state in a single four-day drive, worth Rs 1,36,20,735 (Rs 1.36 crore).
+
+The stock was overwhelmingly _khoya, mawa, peda, ghee_ and edible oil, precisely the ingredients that fill a festival sweet box. Twelve food licences were suspended on the spot.
+
+Maharashtra's FDA seized 32,023 kg of adulterated food worth over Rs 1.36 crore in a single four-day drive this September. (Photo: Unsplash)
+
+A family reading that figure does not have a laboratory on standby, and I do not think it should be expected to. So it reaches for what it has: an iodine bottle bought for a few rupees, a pair of palms, a match. I understand the instinct completely.
+
+What worries me is how far that instinct is being asked to carry us.
+
+### DOES THE IODINE TEST ACTUALLY WORK?
+
+Genuinely, yes, and I want to say that plainly before I say anything critical. Iodine reacts with starch to produce that unmistakable blue-black colour, a piece of chemistry so reliable it is taught in every school laboratory in the country.
+
+Adulterators often bulk out _khoya_ with _maida_ or _suji_, refined wheat flour or semolina, simply to add cheap weight. Boil a sample, cool it, add the drops, and if starch is hiding inside, there is no ambiguity left to argue with.
+
+The palm rub carries its own small, satisfying theatre. Rub pure _khoya_ between warm hands for a minute, and it should feel smooth, releasing a faint, milky warmth.
+
+Iodine turns deep blue-black in the presence of starch, a reliable and simple piece of school-level chemistry. (Photo: Pexels)
+
+A sample cut with detergent or synthetic filler tends to feel grainy or leave behind something you cannot quite name, a residue that sits wrong against the skin.
+
+Burnt over a flame, genuine _khoya_ gives off the scent of scorched milk. The adulterated version, more often than not, smells faintly of plastic, a difference most people notice within seconds, sometimes before they have consciously registered why.
+
+None of this is superstition dressed up as science. These are simplified versions of tests food scientists themselves use, and I think they deserve real credit for reliably catching the crudest, cheapest forms of adulteration: starch, added water, detergent-based bulking.
+
+### SO WHAT ARE THESE TESTS ACTUALLY MISSING?
+
+The adulterants that do not announce themselves through texture or smell, and I think this is the part of the story we tell ourselves least often.
+
+Formalin, a preservative solution containing formaldehyde, is sometimes added to extend a product's shelf life during transport, precisely the kind of long-distance movement Maharashtra's own raids have exposed this season. In Chhatrapati Sambhajinagar this September, officers acting on intelligence about incoming transport trucks intercepted a consignment of adulterated _khoya-based_ sweets travelling in from Gujarat, manufactured using palm oil and _vanaspati_ rather than dairy.
+
+A consignment of adulterated khoya intercepted in Chhatrapati Sambhajinagar this September had travelled in by truck from Gujarat. (Photo: Unsplash)
+
+Formalin poses a different order of danger altogether. It is a known toxin linked to organ damage with repeated exposure, and unlike starch, it leaves nothing behind for a palm or a flame to notice.
+
+A kitchen test for formalin does technically exist, mixing a sample with concentrated sulphuric acid and watching for a violet or blue ring. In practice, almost nobody performs it, and I do not think anybody should be expected to. The chemical is corrosive, genuinely hazardous without proper equipment, and entirely unsuited to a home kitchen. The same is true of hydrogen peroxide and textile-grade dyes, sometimes used to whiten or brighten a product, neither of which a palm rub or a burn test was ever built to catch.
+
+### SO WHY DOES THE MYTH THAT WE ARE PROTECTED PERSIST?
+
+Because the tests that do work are visible and satisfying, and the ones that matter more are neither of those things, and I think that asymmetry is doing more damage than any single adulterant could.
+
+There is a real, if entirely unintentional, piece of safety theatre at play in that kitchen ritual. A household performs a genuine test, gets a genuine result, and reasonably concludes the _khoya_ is safe. The test was not wrong. It was simply never built to answer the question that matters most: is this product carrying an industrial preservative or a bleach, rather than simply being padded with flour?
+
+I do not think that distinction is academic. Starch adulteration cheats a buyer's wallet.
+
+Formalin and hydrogen peroxide, at the concentrations sometimes found in adulterated food, threaten a buyer's health, and it is precisely this second, more dangerous category that a kitchen test is least equipped to see.
+
+### WHAT SHOULD AN ORDINARY FESTIVAL SHOPPER ACTUALLY DO?
+
+Keep the iodine bottle. Keep the palm rub, the burn test, the whole quiet ritual, since it still catches a meaningful share of adulteration and costs nothing but a few minutes of attention. What I would ask is that a clean result be treated as partial reassurance rather than a certificate of safety, because that is all it was ever able to offer.
+
+The far more reliable signal, I think, requires no chemistry at all: where the _khoya_ actually came from, and how it got to the shelf in front of you. A known, established shop that mills or sources locally carries less risk than an unbranded seller offering festival sweets at a price that seems too good to explain. Maharashtra's raids this month make that point starkly.
+
+Where khoya comes from, and how far it travelled, may be a more reliable signal than any home test. (Photo: Pexels)
+
+The product intercepted near Shahnoor Dargah had travelled from Gujarat by truck before it ever reached a shelf, moved specifically because it could be produced and sold more cheaply than anything made honestly, close to home, from real milk.
+
+A drop of iodine will tell a household tonight whether its _khoya_ has been padded with flour. It will tell them nothing about the truck it arrived in, or the preservative that kept it looking fresh along the way. This festival season, I think that gap, between what a home test can see and what can actually endanger a family, is worth carrying into the shop with you, before the sweet box is ever opened.
+
+\- Ends
+
+---
+
+### Maharashtra To Revive Student Council Elections After 30 Years, Panel To Study Implementation
+*Abhro Banerjee · general*
+
+Maharashtra had considered reviving campus elections a few years ago when Vinod Tawde was the higher education minister, but the plan did not take off at the time.
+
+[Read full article](https://www.news18.com/india/maharashtra-to-revive-student-council-elections-after-30-years-panel-to-study-implementation-ws-l-10351927.html)
+
+---
+
+### Trump says CNN, MSNBC's refusal to cover Xi's arrival at White House shows how 'fake news they are'
+*SECTIONS Trump says CNN · business*
+
+Washington, DC \[US\]: US President Donald Trump on Thursday (local time) criticised CNN and MSNBC over their coverage of Chinese President Xi Jinping's White House visit, alleging that the networks had lost credibility and accusing them of refusing to cover Xi's arrival to avoid giving him credit.
+
+He alleged that the two networks did not cover the arrival of Xi Jinping and his wife, Madam Peng, at the White House, despite calling it a major event.
+
+  
+
+In a post on Truth Social, Trump wrote, "CNN and MSDNC's Ratings have dropped considerably. The primary reason is NO CREDIBILITY! They only write badly about a man who won the Election IN A GIANT LANDSLIDE, winning all 7 Swing States, the Popular Vote, and 86% of the Counties, etc., and whose Popularity has grown because of the unprecedented SUCCESS our Country is having on both the World Stage, and at home."
+
+Trump further said that the White House state dinner for Xi Jinping would be a major event and that media organisations would attend it.
+
+"CNN and MSDNC, to show you how fake they are, today refused to cover one of the Biggest and Most Beautiful Events to take place in many years, the arrival at the White House of the Highly Respected President of China, Xi Jinping, and his beautiful wife, Madam Peng. The event was magnificent - Actually made for Television but, because they're Fake News, and because they knew how good it would be, they didn't want credit to be given to "TRUMP," they refused to be there. That's why they have such poor Ratings. Tonight's State Dinner at the White House, for President Xi, will be spectacular! The Media will be in attendance," the post read.
+
+Earlier, a US federal judge ordered the Trump administration to restore White House access for journalists from CNN, MS NOW and Politico, ruling that the restrictions were likely unconstitutional, Reuters reported.
+
+US District Judge Timothy Kelly, a Trump appointee, issued the order in a lawsuit filed by the three media organisations challenging Trump's decision to bar them from the White House.
+
+The ruling came amid an ongoing dispute between the Trump administration and media organisations over access to the White House.
+
+---
+
+### Broken bones, ripped-out hair, one facing execution: Iranian twins in jail over protests
+*India Today World Desk · general*
+
+For four months, Marzieh Nourmohammadi searched hospitals, government offices, courts and prisons across Isfahan for her twin daughters, not knowing whether the then 19-year-old high school students were alive.
+
+The sisters had been taken from their beds by masked men after joining anti-government protests in Isfahan in January, along with nearly 1.8 crore others. The men were later identified as members of Iran’s Islamic Revolutionary Guard Corps. The twins were taken away with bags over their heads and their family was given no explanation about where they had been taken.
+
+Months later, a phone call finally came. "We have your girls, come to see them at the prison," the family was told, according to their US-based cousin Masoud Nourmohammadi.
+
+When their mother was finally allowed to see them at Dowlatabad prison in Isfahan in May, she could barely recognise her own children.
+
+"She did not recognise her own children," Nourmohammadi said. "She could only tell it was them when they started talking and she recognised their voice".
+
+The sisters' faces were swollen and bruised. Their elbows, knuckles and feet were injured, while patches of hair were missing from their scalps, according to the family's account. Nourmohammadi said guards had allegedly dragged the women from one cell to another by their hair.
+
+"They had swollen faces and bodies, broken knuckles and elbows and they didn't even have hair because the guards would drag them by the hair when they were in prison,” he told The Washington Post.
+
+Now, the family is facing a still more devastating prospect.
+
+Taraneh has been sentenced to death over her participation in the January protests, while Romina has received a 27-year prison sentence.
+
+The sisters' family has appealed and has now turned to the United Nations, asking for intervention before Taraneh's execution can be carried out.
+
+Taraneh Rahimi posing in Chadegan in the Iranian province of Isfahan. (Photo: AFP)
+
+A formal "submission of information" concerning the case was submitted to the UN through its special procedures by British human rights lawyers acting for the family. Such a submission can lead to a formal request by the UN to a member state for an explanation and action if the case is found to involve human rights violations.
+
+"Turning to the United Nations is not something I ever wanted to have to do," Nourmohammadi said.
+
+"I am simply asking the international community to help ensure that Taraneh and Romina receive the basic rights that every human being is entitled to a fair process, protection from torture and abuse, access to medical care and legal counsel and the right to have their cases genuinely reviewed.
+
+"Taraneh is facing the death penalty and Romina is facing decades in prison. They are young women who should be thinking about their futures, not whether one sister will be executed and the other will spend the best years of her life behind bars.
+
+"They are my family and I will continue to use every peaceful and legal avenue available. I ask the United Nations to stand with them before it is too late – especially for Taraneh," he told The Guardian.
+
+### FROM HIGH SCHOOL TO A PRISON CELL
+
+Taraneh and Romina had been students when they joined protests that swept across Iran in January.
+
+According to their relatives, they took part in demonstrations in Isfahan on January 8 and 9, chanting anti-government slogans around Shohada Square. They had not previously participated in protests, the family says.
+
+The protests had spread across Iranian cities, with demonstrators calling for political change amid wider economic and social grievances.
+
+The twins were among 16 defendants later detained in connection with unrest around Shohada Square. During the protest there, two people died -- a member of the Revolutionary Guard and a homeless man.
+
+The defendants were accused of involvement in making Molotov cocktails and attacking Iranian security forces. They were also charged with _moharebeh_, or "waging war against God", a capital offence in Iran.
+
+The family disputes the allegations against the sisters and says there was no evidence that either woman had participated in violence.
+
+> A video of Taraneh Rahimi, a 20-year-old imprisoned protester from Isfahan and a horse training and equestrian instructor, has been circulated on social media.  
+> Taraneh Rahimi is one of the twin sisters arrested in the case known as the "Shohada Square" (Martyrs' Square), who has pic.twitter.com/SDfTAo4L21— IranWire (@IranWireEnglish) September 2, 2026
+
+In July, the twins and the other defendants were brought before a court set up inside an Isfahan prison. At the end of August, Taraneh was sentenced to death along with nine others.
+
+"There is no evidence against them and they didn't even let their lawyers read the case until two weeks after they were sentenced. They are just looking for people to hang. All \[my cousins\] did was protest and chant along with millions. They didn't do anything wrong," Nourmohammadi added.
+
+According to human rights activists, before the trial, lawyers for the defendants had not been given access to a substantial portion of the case file and had objected that they had insufficient time to review documents and evidence.
+
+Nourmohammadi said the family feared the normal appeal process might not protect Taraneh.
+
+### CONFESSION EXTRACTED THROUGH TORTURE
+
+The most disturbing allegations surrounding the case concern how the sisters were treated during their detention.
+
+According to their family and people familiar with the case, the twins were held separately in solitary confinement. Despite being isolated from each other, they were able to hear each other screaming and crying as they were tortured.
+
+The sisters spent their first three months in a detention centre run by the intelligence arm of the IRGC, according reports.
+
+Relatives and lawyers familiar with the case alleged that the torture included severe beatings, psychological abuse and sexual assault. They said the women were made to watch male prisoners being tortured and were tortured separately while being kept close enough to hear one another.
+
+Taraneh suffered particularly serious injuries, her family says.
+
+According to lawyers and relatives, she was repeatedly beaten with a baton on her leg, knee, hand and arm. Her knee, which had previously undergone surgery, was allegedly subjected to deliberate pressure during interrogation.
+
+"They tortured her knee, elbow and knuckles," Nourmohammadi said.
+
+"What went beyond even this is that the kids (arrested in the protests) were tortured in front of each other. They would torture one person after another. They made sure that Taraneh could hear Romina's screams while she was being tortured," he added.
+
+Her mother claims prison guards threatened to sexually assault Romina in front of Taraneh if she refused to sign a confession. Lawyers for Taraneh said she later told the court that admissions attributed to her had been extracted under torture.
+
+The family also alleges that the sisters were subjected to sexual abuse while in detention. Taraneh was punished by prison staff by being denied normal meals and being given leftovers from other prisoners.
+
+"She was told, 'It does not matter how you die, you will be hanged anyway', her family told news agency AFP, describing what he said was continuing physical and psychological torture.
+
+Romina and Taraneh Rahimi. (Photo: X/Alex kennedy)
+
+For their mother Marzieh, the case began not with a courtroom or a death sentence, but with a frantic search for two daughters who had simply disappeared.
+
+She had raised the twins alone.
+
+After the sisters were taken, their mother went from hospitals to courts and government offices trying to find them. The family did not know where they were being held. And when the reunion happened in prison, it was devastating for her.
+
+Before their arrest, the sisters' lives were far removed from the prison cells where they now face dramatically different futures.
+
+Nourmohammadi described Taraneh as kind-hearted, an athlete and someone deeply passionate about horses. She rode competitively and trained horses and dreamed of eventually opening her own horse-training centre or stable.
+
+Romina, meanwhile, was described by her cousin as fiercely independent, brave and intelligent.
+
+The sisters had worked part-time at a shoe shop near Shohada Square, the area where the protests erupted.
+
+Their lives reflected the aspirations of many young Iranians seeking greater freedom. Romina was interested in fashion, had bleached streaks in her hair and often wore it uncovered. She also posted about smoking on social media.
+
+Nourmohammadi believes the severity of Taraneh's sentence is intended not only to punish the young woman but also to send a warning to others who might protest. He accused the Iranian authorities of using his cousins to instil fear as the government continues its crackdown on dissent.
+
+The family now waits for the appeal process while fearing that Taranehs execution could be carried out before it is completed.
+
+\- Ends
+
+---
+
+### Goa's 97 Voters, Internal EC Objections, Rahul Gandhi’s 'Vote Chori' Attack: SIR Storm Intensifies
+*Pragati Ratti · general*
+
+Rahul Gandhi has yet again accused the poll body of enabling what he calls “vote chori”, demanded the resignation of Chief Election Commissioner Gyanesh Kumar
+
+[Read full article](https://www.news18.com/india/goas-97-voters-internal-ec-objections-rahul-gandhis-vote-chori-attack-sir-storm-intensifies-ws-lr-10351902.html)
+
+---
+
+### Suruchi Singh grew up in Manu Bhaker's hometown, trained at same shooting academy, learnt under her former coach and has now won gold in 10m air pistol mixed team event
+*Unknown · business*
+
+Suruchi Singh has added another major milestone to her fast-rising shooting career, winning gold in the 10m air pistol mixed team event at the 2026 Asian Games alongside Kamaljeet. The 20-year-old shooter helped India secure its second gold medal of the Games after the women’s cricket team had won the country’s first.
+
+Suruchi’s latest achievement carries an interesting connection to another of India’s biggest shooting names, Manu Bhaker. Suruchi grew up in Jhajjar, Haryana, the same town associated with Bhaker, trained at the same shooting academy and had the guidance of a coach who also trained Bhaker.
+
+The two shooters, however, have followed different paths at different stages of their careers. While Bhaker has already established herself as an Olympic medallist, Suruchi has emerged as one of India’s promising young shooters and is now making her mark on the Asian stage.
+
+  
+  
+
+### From Jhajjar to the shooting range
+
+Suruchi’s journey into shooting began when she was around 13. Her father, Inder Singh, a retired Army havildar, had initially wanted his daughter to take up wrestling. His cousin Virender Singh, popularly known as Goonga Pehalwan, had won multiple Deaflympics gold medals and inspired the idea.
+
+Suruchi was not interested in wrestling. Her father then took her to Bhiwani, where she tried shooting and eventually enrolled at the Guru Dronacharya Shooting Academy.
+
+Before training in Bhiwani, Suruchi had also spent time at the Kargil Shooting Academy in Sasroli, close to her home. The range was run by Anil Jakhar, a Kargil war veteran and former Army marksman.
+
+Jakhar has said he trained Suruchi from a young age. He also had a connection with Bhaker, who had trained at the academy.
+
+That shared link gave Suruchi a connection to the same shooting ecosystem that had also helped Bhaker develop as a young shooter.
+
+### Training continued during COVID
+
+The pandemic could have disrupted Suruchi’s progress, but her family found a way to keep her training going.
+
+When shooting academies were closed during the COVID-19 lockdowns, Suruchi continued practising at Jakhar’s range in Sasroli. The facility was close to her home, allowing her to continue training without travelling to Bhiwani.
+
+Her father has recalled how important the village range was during that period. Once the pandemic restrictions eased, Suruchi returned to Bhiwani and resumed training.
+
+She later began working closely with coach Suresh Singh at Guru Dronacharya Shooting Academy. Suresh focused heavily on discipline, match preparation and controlling her pace.
+
+### Coach helped change her approach
+
+Suresh has recalled that Suruchi initially had a problem with controlling her shooting time. She could practise for long periods but struggled to finish competitions properly.
+
+The coach decided to keep her away from competitions for the first few months and focus on training instead.
+
+The process was gradual. After two months of training, she entered one competition. She then returned to practice before competing again.
+
+Suresh said the aim was to slowly get her comfortable with handling matches regularly rather than rushing her development.
+
+Suruchi was initially impatient with the approach. But the training eventually helped her improve her control and concentration.
+
+The coach has also described her as extremely determined during practice. If she set herself a target of 150 shots and the final shot was not a perfect 10, she would keep going until she achieved it.
+
+### From national medals to world records
+
+The hard work began producing results at the national level. Suruchi won medals at the 2022 and 2023 Nationals before enjoying a breakthrough in 2024.
+
+She won seven gold medals at the Delhi Nationals and later added two more gold medals at the National Games in Uttarakhand.
+
+Her progress then moved to the international circuit.
+
+Suruchi won individual 10m air pistol gold medals at ISSF World Cup events in Peru and Argentina and also collected medals in mixed team events.
+
+At the ISSF World Cup Final in Doha, she produced one of the biggest performances of her young career. Suruchi scored 245.1 in the final to win gold and break the junior world record.
+
+The previous junior benchmark of 241.7 had been set by Bhaker in 2019.
+
+### Now an Asian Games gold medallist
+
+Suruchi’s latest achievement has come at the Asian Games, where she teamed up with Kamaljeet in the 10m air pistol mixed team event.
+
+The Indian pair dominated the final from the beginning. They opened with 103.0 in the first series and continued extending their advantage through the next stages.
+
+India reached 424.9 after 18 shots and carried a seven-point lead into the final stage. Suruchi and Kamaljeet eventually finished with 484.6 points to secure gold, while South Korea took silver and Iran won bronze.
+
+For Suruchi, the medal adds another major achievement at just 20.
+
+Her story now connects several stages of Indian shooting, from a village shooting range in Jhajjar and training under a Kargil war veteran to the same academy associated with Manu Bhaker, national titles, World Cup victories and a junior world record.
+
+The Asian Games gold gives the young shooter another landmark to add to that journey.
+
+
+---
+
 ## 24 September 2026
 
 ### Rahul Gandhi speaks to IIT-B student Sahil Wakode’s parents, assures all help
