@@ -1,3 +1,457 @@
+## 26 September 2026
+
+### ‘Daily time limits, filter controls, and account privacy’: TikTok agrees to ‘platform-level changes’ for teens, settles lawsuit with Alabama for $100 million days before trial
+*Divyadeep Singh · world*
+
+## ‘Daily time limits, filter controls, and account privacy’: TikTok agrees to ‘platform-level changes’ for teens, settles lawsuit with Alabama for $100 million days before trial
+
+Synopsis
+
+TikTok has agreed to pay Alabama $100 million following claims about its harmful impact on youth mental health. The settlement involves implementing safety features for teens to reduce negative effects from the platform. These features will include limiting daily usage and banning cosmetic filters for young users. Additionally, Alabama may receive further funds if other states reach similar arrangements.
+
+TikTok agrees to ‘platform-level changes’ for teens, settles lawsuit with Alabama  
+
+TikTok and its parent company ByteDance reached a settlement agreement with the state of Alabama just days before the case was set to go on trial. As a part of the out-of-court deal, it will pay Alabama at least $100 million. The social media company has also agreed to implement a slew of safety features for teens in the state as part of the agreement. If the lawsuit went in front of the jury, Alabama would have been the first state to argue its claims against TikTok, and the trial was scheduled to begin Monday (September 28, 2026). The state sued the social media company in 2025, claiming that the platform had negative effects on the mental well-being of youths.
+
+The lawsuit argued that TikTok's “addictive properties," namely its algorithm that curates highly specific content catered to users' interests, were harmful to children and that the company knew of those harms, according to news agency AP.
+
+  
+  
+
+Now with the settlement in place, TikTok will introduce several platform-level changes for teen users in Alabama. The set of changes agreed upon as part of the settlement includes the option for teens to select a non-personalized content feed.
+
+Other changes that the platform will implement include barring cosmetic procedure filters for teens, implementing a two-hour daily time limit, and banning nighttime use from midnight to 6 a.m. All the young TikTok users will now be prompted to take a “productive pause” after 15 minutes of continuous use, and again at 60 and 90 minutes.
+
+  
+  
+
+### TikTok to pay Alabama $100 million
+
+Besides all the changes, TikTok will pay the state of Alabama $100 million in restitution and remediation. This amount will likely go toward funding youth mental health services and other programs, AP reported. If enough other states reach qualifying settlements with TikTok within a specific time frame, Alabama could receive up to an additional $183.8 million.
+
+**TikTok suit mirrors Meta’s settlement**
+
+The platform-level changes outlined in the settlement agreement share a similarity in terms of changes that Meta agreed to make when it reached a settlement during summer this year to resolve similar claims that were filed by nearly every state, including Alabama. Meta had called on TikTok and its other chief competitor, YouTube, to join it in adopting similar standards, but TikTok had not publicly responded.
+
+The settlement also outlines more robust and user-friendly parental controls, stronger age verification measures TikTok must take, and stronger content moderation protocols. Teen accounts will also be set to private by default.
+
+**TikTok issues statement**
+
+In a statement on Friday, a spokesperson for the TikTok USDS Joint Venture said that the social media platform’s priority has “always been fostering a safe and positive space where people can be creative, discover what they love, and connect with their community, according to AP. This builds on our commitment and core objective to continually enhance our robust safety tools to protect teens.”
+
+(Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.)
+
+Download The Economic Times News App to get Daily International News Updates.
+
+...moreless
+
+---
+
+### Trump administration uses rare authority to claw back nearly $1B in spending approved by Congress
+*SECTIONS Trump administration uses rare authority · world*
+
+Washington: President Donald Trump is canceling nearly $1 billion in spending approved by Congress, the White House announced on Friday, using a rare and contested power to axe funding for immigrant services and diversity-focused initiatives.
+
+Trump's Office of Management and Budget described the funding cut as focused on "the most harmful government spending."
+
+Most of the cuts are focused on Health and Human Services programs that serve refugees and unaccompanied minors accused of being in the country illegally. The administration says the funds are no longer necessary because illegal border crossings have diminished considerably.
+
+  
+
+Also targeted for cuts were a Department of Education program for migrant students, a Department of Justice office focused on reducing racial tensions, a business development initiative for minority entrepreneurs, housing counseling services from the Housing and Urban Development Department and a series of grants from the Health and Human Services Department that the administration called "outright harmful and blatantly ideological."
+
+A White House press release announcing the funding rescissions notes that some of the organizations are led by people who worked in the administration of Democratic President Barack Obama.
+
+Trump's move was condemned by Sen. Susan Collins of Maine, a Republican in a tough reelection campaign and chair of the Senate Appropriations Committee.
+
+Collins said in a statement that the action came without warning or consultation. She also said she would work to address with colleagues "these illegal actions."
+
+"Not only is the delay itself an impoundment that was not reported to Congress, but also it is a usurpation of Congress's appropriations powers," Collins said. "OMB is an agency of the executive branch. It does not get to decide which programs are worth funding."
+
+Under federal law, Congress has 45 days to review the president's proposed spending cuts before they take effect. But Trump made that all but impossible by announcing them with just five days left in the federal fiscal year and the House out of session through the November election. The Government Accountability Office, which is an arm of Congress, says the maneuver known as a "pocket rescission" is illegal.
+
+Collins called it the latest attempt by OMB to "undermine Congress's Constitutional power of the purse."
+
+A year ago, Trump issued a pocket rescission for the first time in nearly 50 years by blocking $4.9 billion in congressionally approved foreign aid. The U.S. Supreme Court declined to block those rescissions, saying that Trump's authority over foreign affairs weighed heavily in its decision. This year, Trump is targeting domestic spending.
+
+The use of a "pocket rescission" fits into a broader pattern by the Trump administration to exert greater control over the U.S. government, eroding Congress's power.
+
+What was essentially the last pocket rescission occurred in 1977 when then-Democratic President Jimmy Carter rescinded it, and the Trump administration argues it's a legally permissible tool, despite some murkiness, since Carter had initially proposed the clawback well ahead of the 45-day deadline.
+
+The administration has also fired federal workers, imposed a historic increase in tariffs, and started the war in Iran without going through Congress, putting the burden on the judicial branch to determine the limits of presidential power.
+
+Sen. Patty Murray of Washington, the lead Democrat on the Senate Appropriations Committee, described the White House action as "theft from the American people, plain and simple."
+
+"These are funds Congress has delivered on a bipartisan basis and should be helping people-not cut off by a president more focused on building a ballroom than investing in families," Murray said.
+
+Murray said that in recent spending negotiations, Democrats fought to include language to prevent the administration from usurping Congress' power on spending decisions, but Republicans have declined to go along.
+
+"While Trump spends tax dollars on ads promoting himself, Congress needs to reassert its powers to help people, and it's past time Republicans join us in that fight," she said.
+
+In addition to immigrant services, the White House said it was rescinding $70 million for what it called "woke" international education programs, $28 million in grant funding for Health and Human Services research programs, and $9 million in debt relief for foreign countries that fund climate change policies. Another $10 million was being withheld from a minority business development program.
+
+---
+
+### EAM Jaishankar signs UN Convention against Cybercrime on UNGA sidelines
+*SECTIONS EAM Jaishankar signs UN Convention against Cybercrime · business*
+
+New York: External Affairs Minister S Jaishankar on Friday (local time) signed the United Nations Convention against Cybercrime on the sidelines of the 81st United Nations General Assembly (UNGA), saying the pact would strengthen international cooperation for a safer digital future.
+
+In a post on X, EAM Jaishankar wrote, "Signed the UN Convention against Cybercrime today on the sidelines of #UNGA81. This Convention strengthens international cooperation for a safer digital future."
+
+He also held a meeting with his Russian counterpart Sergey Lavrov on the sidelines of the High-Level Week of the 81st session of the United Nations General Assembly (UNGA).
+
+  
+
+Sharing details of the meeting, Jaishankar said the two leaders exchanged views on several ongoing issues and reviewed India-Russia bilateral ties as well as cooperation under BRICS.
+
+In a post on X, Jaishankar wrote, "A good meeting with FM Sergey Lavrov of Russia today #UNGA81. Exchanged views on a number of ongoing issues. Also took stock of our bilateral and BRICS cooperation."
+
+The Ministry of Foreign Affairs of Russia also shared details of the meeting, stating that "Russia's FM Lavrov & External Affairs Minister of India @DrSJaishankar hold a meeting on the sidelines of the High-Level Week of the 81st Session of the UN General Assembly."
+
+Further, Jaishankar co-chaired the India-Gulf Cooperation Council Troika Ministerial Meeting in New York on the margins of UNGA81.
+
+He said the meeting reviewed the progress of the India-GCC Joint Action Plan 2024-28 and discussed ways to further strengthen the partnership between the two sides.
+
+In a post on X, Jaishankar wrote, "Glad to co-chair the India-Gulf Cooperation Council Troika Ministerial Meeting in New York on the margins of #UNGA81. Reviewed the progress of the India-GCC Joint Action Plan 2024-28 and discussed ways to further advance our partnership."
+
+He also welcomed the launch of India-GCC Free Trade Agreement (FTA) negotiations and said the partnership would be further expanded in areas including trade, investment, energy, food security, health, new technologies, culture and people-to-people exchanges.
+
+"Welcomed the launch of India-GCC FTA negotiations. Look forward to strengthening ties in the areas of trade, investment, energy, food security, health, new technologies, culture and people-to-people exchanges," he said.
+
+---
+
+### Super El Nino: The methodology behind '15,800 excess deaths' in India estimate
+*SECTIONS Super El Nino The methodology behind ' · business*
+
+New Delhi: The University of Chicago's Energy Policy Institute's report that claimed that the 'super El Nino' might cause around 15,800 additional heat-
+
+Nearly 451,000 additional deaths are projected globally in the next six months due to the prevailing 'super El Nino', compared to a normal year, according to the study released on Wednesday.
+
+  
+
+Emily Grover-Kopec, a co-author, told PTI that temperature-mortality relationships were assessed using "one of the most commonly referenced seasonal forecasts" from the European Centre for Medium-Range Weather Forecasts (ECMWF SEAS5).
+
+The recently published report claimed that the climate phenomenon could push global land temperatures 1.2 degrees Celsius above normal in the coming months, resembling the higher temperatures that climate change is projected to deliver in the next 20 years.
+
+"When considering a wide suite of seasonal forecasts that are available, the ECMWF SEAS sits in the middle in terms of the projected temperature anomalies, so this presents a relatively moderate view. We also used temperature-mortality relationships that were peer-reviewed and published in one of the most rigorous economics journals, the Quarterly Journal of Economics in November, 2022," Grover-Kopec, who is also a director at the climate and energy practice at the Rhodium Group, said.
+
+She said that the earlier study used the same formula to predict deaths far into the future based on climate models, adding that this time it was used differently for shorter-term seasonal forecasts.
+
+Asked why a specific window of 1996 to 2025 was chosen for the report, she said that the goal was to keep the numbers relevant to how decision-makers currently plan and act, as the projections are meant to inform how resources are used, and when early action is taken to save lives.
+
+"Using a long baseline period of 30 years in climate science is common and often considered best practice. We therefore referenced the most recent 30-year period as our baseline: 1996-2025," Grover-Kopec told PTI.
+
+Speaking about the findings in the report, Abhiyant Tiwari, who leads the climate resilience and health team at Natural Resources Defense Council (NRDC) in India, noted that it is a useful early warning and underlines the call to action.
+
+"The study is a useful early warning, but its mortality estimates should be treated cautiously as model-based projections, with the full methodology yet to undergo peer review. The findings nevertheless underline the call to action," Tiwari said.
+
+He said that India's experience with Heat Action Plans (HAPs) and stronger institutional frameworks offer a foundation to scale sustained preparedness, protect vulnerable communities, and share valuable lessons with the Global South and the wider world.
+
+Meanwhile, Harshal Ramesh Salve, a public health professional and faculty at the All India Institute of Medical Sciences (AIIMS), stressed that the report provides an opportunity to act swiftly with clear intention for mitigation strategies such as implementing HAPs at all levels.
+
+"The report further cements the current knowledge regarding heat impact on human health in the form of mortality and morbidity. As expected, the South Asia region is getting one of the worst estimates of mortality. However, it also provides us an opportunity to act swiftly with clear intention for mitigation strategies such as implementing HAPs at all levels, data driven policy making, and developing data-sharing mechanisms at national and local levels," Salve told PTI.
+
+According to the public health professional, an equity-driven approach focusing on the most vulnerable, such as the elderly, people with comorbidities, children, pregnant women and occupational workers, is essential to tackle the situation.
+
+---
+
+### Non-recovery of train ticket from deceased passenger can't defeat compensation claim: SC
+*SECTIONS Non-recovery · business*
+
+New Delhi: The Supreme Court has said the absence of recovery of a train ticket from a deceased passenger cannot result in defeating the compensation claim, as it restored the payout awarded to the parents of a man who died after falling from a moving train in Gujarat in 2017.
+
+A bench of Justices Ujjal Bhuyan and AS Chandurkar set aside the order of the Gujarat High Court rejecting the compensation awarded to the parents of Maheshbhai, who died falling off the general compartment following a sudden jerk and jolt while travelling to Surat via Ahmedabad on September 27, 2017.
+
+  
+
+The bench on Friday said, "The high court gave undue importance to the absence of the railway ticket without taking into consideration the statement made on oath by the victim's father and the fact that the victim had been hospitalised for a period of more than one month. On the preponderance of probabilities, it can be concluded that the victim was a bona fide passenger and that absence of recovery of his ticket cannot result in defeating the claim for compensation."
+
+On June 17, 2022, the Railways Claim Tribunal held that Maheshbhai was the victim of an 'untoward incident' and suffered an accidental fall, and his parents, who are the claimants, were held entitled to compensation of Rs 8 lakh along with interest at the rate of nine per cent per annum from the date of the incident till the date of the order.
+
+The bench said the incident occurred on September 27, 2017, which left the victim with grievous injuries and was thereafter hospitalised for a period of over a month.
+
+"He, however, succumbed to his injuries on October 31, 2017. In normal course, when the victim was undergoing medical treatment, it is quite unlikely that the railway ticket would have been preserved by the claimants," it said.
+
+The bench said the railways failed to discharge the burden that shifted on them in view of the claimant's statement on oath and taking an overall view of the matter, the tribunal proceeded to hold that the victim was a bona fide passenger and that absence of the ticket could not be held against the claimants.
+
+It said the parents of the deceased had pleaded that the victim's ticket, handkerchief, wristwatch, comb and cash of Rs 800-900 were lost, and the victim's father, having deposed on oath that his son had purchased the ticket, resulted in the initial burden being discharged by the claimants and it was up to the Railways to rebut the same.
+
+"The witnesses examined by the railways failed to check the pockets of the victim. In these circumstances, we are of the view that the Tribunal was justified in concluding that the victim was a bona fide passenger," it said.
+
+The bench noted that after the parents of the deceased filed the claim application before the tribunal, the authorities prepared the investigation report.
+
+"This report was ultimately prepared on May 17, 2018, which is about seven months from the untoward incident. Delay in conducting the inquiry could not be attributed to the claimants and the Railways cannot seek to take advantage of the delay on their part in preparing the investigation report," it said.
+
+The bench said the court is inclined to ignore the said investigation report and it cannot come in the way of the claimants in receiving compensation.
+
+"Thus, considering the entire material on record, we are satisfied that the Tribunal had rightly granted compensation to the claimants under Section 124-A of the Act of 1989. The high court was not justified in reversing the said award on the ground that the claimants could not produce the ticket on which the claimant was travelling," it said.
+
+It directed that the Rs 8 lakh award given by the Railways Claim Tribunal dated June 17, 2022 be restored to the parents of the deceased and be given to them within thirty days.
+
+---
+
+### 'Unacceptable': Qatar PM says Strait of Hormuz situation 'very difficult, very challenging'
+*Ani · world*
+
+New York: Qatar Prime Minister and Minister of Foreign Affairs Mohammed bin Abdulrahman bin Jassim Al-Thon Friday (local time) said that the situation in the Strait of Hormuz is "very difficult and challenging", while calling for an end to the "manipulation and blackmailing" of waterways.
+
+In an interview with CNN news anchor Christiane Amanpour, Al-Thani said, "The situation in the Strait of Hormuz is very difficult, very challenging. This is unacceptable. The strait has been always an international waterway... We should put an end to this manipulation and this blackmailing of the waterways."
+
+  
+
+The Qatar PM also gave updates on the ongoing diplomacy, informing of "some positive progress"
+
+He also said, "We've been in the past few weeks... trying our best to bring back diplomacy on track between Iran and the US", adding that this week's indirect talks had "some positive progress... We are really hopeful that diplomacy can prevail and that we can find a solution."
+
+Meanwhile, on the sidelines of the 81st UN General Assembly, Al-Thani also met Iranian President Masoud Pezeshkian in New York on Friday (local time), Qatar's Ministry of Foreign Affairs said in a post on X.
+
+  
+
+> — MofaQatar\_EN (@MofaQatar\_EN)
+
+The ministry said Pezeshkian met Al-Thani at his residence in New York. Discussions during the meeting focused on the latest developments in the region, along with efforts to de-escalate tensions and create a conducive environment for dialogue, thereby contributing to the enhancement of regional security and stability.
+
+All these meetings and remarks come as Qatar plays one of the key negotiators amid the ongoing conflict involving Iran, the US and Israel.
+
+Meanwhile, in a development that will put the world and West Asia on tenterhooks, the Wall Street Journal has reported that President Trump has rejected Iran's proposal for a seven-day ceasefire.
+
+According to the report, which quoted US officials, the US President has told aides he expects to resume bombing Iran after the November midterms. This follows his open threat of annihilating Iran made during his speech to the UN General Assembly earlier this week.
+
+"I have a big decision to make. Will a deal be made with Iran that lets them rebuild and create a far greater country than it ever was before? Maybe one of the greatest in the Middle East or even the world. Or do I annihilate the Islamic Republic, and do it quickly, never giving them a chance to kill and destroy people and countries again? But I believe we'll make a deal right after the election, because it doesn't make sense for them not to," he told the Assembly on September 22.
+
+On Thursday, Iran's foreign Minister Syed Abbas Araghchi said that Iran has offered a seven-day plan to end the conflict in West Asia. The plan would also seek to reopen the Strait of Hormuz and then begin comprehensive talks on Iran's nuclear program.
+
+Araghchi told reporters at the United Nations General Assembly that the proposal was similar to the MoU reached between the US and Iran in June this year.
+
+"We have introduced a plan to the United States through the intermediators that if certain conditions are met, the Strait of Hormuz would be open on the end of the seventh day and talks would restart...it would be better, if a deal was reached before the U.S. midterm elections," he said.
+
+In his meeting with German Foreign Minister Johann Wadephul, Araghchi stressed that the Islamic Republic of Iran has conveyed to the American side its reasonable conditions and requirements for advancing diplomacy, emphasising that restoring security to the region requires an end to US interventionist and aggressive actions against Iran.
+
+The Iranian foreign minister underscored Iran's commitment to pursuing diplomacy regarding its peaceful nuclear program, stressing that no party can ignore Iran's good faith in the negotiations, as well as the US and Israeli military aggression against Iran in the midst of the talks, while portraying Iran as responsible for insecurity in the Strait of Hormuz.
+
+Meanwhile, in an interview with Fox News, Iran President Masoud Pezeshkian blamed US President Donald Trump and the American side for the failure to implement the negotiated settlement that both sides had reached in June this year.
+
+Now, with Trump rejecting a peace overture from the Iranians, the heat in West Asia is likely to get more intense once the US mid-term elections are done and dusted.
+
+---
+
+### 'A terrorist country is asking me that question, come on': Jaishankar's blunt retort to Pakistani reporter at UN briefing in New York
+*Unknown · business*
+
+External Affairs Minister S Jaishankar delivered a pointed rebuff to a Pakistani journalist who attempted to raise a question on terrorism during a press briefing at the United Nations headquarters in New York on Friday.
+
+Jaishankar was addressing the press alongside Liberia's Minister for Foreign Affairs, Sara Beysolow Nyanti, on the Group of Friends on Safety and Security of Shipping and Seafarers, on the sidelines of the 81st session of the UN General Assembly. The briefing had been announced as remarks-only before it began.
+
+  
+
+Towards the end of the event, a Pakistani reporter interrupted and sought to raise a question, asking, "When will your government stop sponsoring terrorism in Pakistan?"
+
+Jaishankar responded firmly, "A terrorist country is asking me that question. Come on."
+
+India's Permanent Representative to the UN, Harish Parvathaneni, stepped in immediately after, telling the reporter, "You have heard your reply. You have heard your response, loud and clear."
+
+The exchange came a day after an Indian journalist had confronted Pakistan Prime Minister Shehbaz Sharif as he entered the UN building, asking him, "When will you stop harbouring terrorists?"
+
+Jaishankar is in New York leading the Indian delegation for the High-Level Week of the UNGA's 81st session. He is scheduled to address the High-Level Session on Saturday and has held a series of bilateral and plurilateral meetings during the visit.
+
+**India's position on cross-border terrorism**
+
+India has repeatedly accused Pakistan of allowing terrorist groups to operate from its territory and has called on Islamabad to take credible and verifiable action against cross-border terrorism.
+
+New Delhi has maintained that its military response following the April 22, 2025, Pahalgam terror attack, which killed 26 civilians, was an exercise of its right to self-defence. India subsequently launched Operation Sindoor, targeting terrorist infrastructure in Pakistan and Pakistan-occupied Jammu and Kashmir.
+
+References to the Pahalgam attack and terrorism have featured in outcome documents at multiple multilateral forums, including a UN Security Council press statement issued in April 2025.
+
+The Resistance Front (TRF), which India has described as a proxy of the Pakistan-based Lashkar-e-Taiba, was designated a Foreign Terrorist Organisation and Specially Designated Global Terrorist by the United States on July 18, 2025.
+
+India has maintained that TRF was involved in the Pahalgam attack. The 36th monitoring report of the UN Security Council's 1267 Sanctions Committee, issued in July last year, also referred to TRF's links to the attack.
+
+**Pakistan and FATF scrutiny**
+
+Pakistan was placed on the Financial Action Task Force's grey list three times, with its most recent period of enhanced monitoring running from June 2018 to October 2022. During that period, Pakistan was required to strengthen measures to identify and disrupt terrorist financing and prosecute individuals involved in funding terrorist organisations.
+
+India has argued that FATF scrutiny forced Pakistan to act against several known terrorists and terrorist-financing networks, including individuals linked to the 2008 Mumbai attacks.
+
+_**(With inputs from ANI)**_
+
+---
+
+### NDA ally Jitan Ram Manjhi seeks more speaking time for SC/ST MPs in Parliament
+*Kanchan Yadav · general*
+
+Union minister Jitan Ram Manjhi asked the Speaker to issue necessary directions to the concerned authorities.
+
+NEW DELHI: Union minister and NDA ally Jitan Ram Manjhi has written to Lok Sabha Speaker Om Birla seeking action on a request for adequate speaking time for MPs from the Scheduled Caste (SC) and Scheduled Tribe (ST) communities during parliamentary discussions on important bills.In his letter, Manjhi said BJP MP Gajendra Singh Patel, who represents Khargone in Madhya Pradesh, had raised the issue during an “NDA MPs Group Dialogue Meeting” held at Manjhi’s Delhi residence on August 5.Patel had specifically requested that SC/ST MPs be given sufficient opportunity to raise issues concerning their communities on the floor of the House, Manjhi said.The Union minister has asked the Speaker to take further action on Patel’s request and issue necessary directions to the concerned authorities.Speaking to PTI, Patel confirmed that he had raised the issue and said the time allocated to SC/ST MPs should be increased further, as the speaking time allotted to each political party is divided among its MPs.“It is not that we do not get time, but we should get more time. More issues concerning SC/ST communities should be raised,” he said.Patel said the request was aimed at ensuring that issues concerning SC/ST communities receive adequate space during parliamentary discussions, while acknowledging that MPs from these communities do get opportunities to speak.
+
+NDA differences over SC/ST reservationEarlier last month, differences within the NDA came to the fore over the contentious issue of sub-categorisation of SC/ST reservations, with Manjhi and fellow Bihar-based Union minister Chirag Paswan taking divergent positions on the question of reviewing the reservation system.The debate intensified after HAM(S) president and Bihar minister Santosh Kumar Suman reiterated his party’s demand for sub-categorisation of SC/ST reservations, arguing that the most deprived communities should receive a greater share of the benefits.The Supreme Court’s August 1, 2024 Constitution Bench judgment allowing states to create sub-categories within SC and ST reservations has added a new dimension to the debate.Chirag strongly opposed any review of reservation and said Manjhi and his son should resign if they supported such measures.“The constitutional provision of SC/ST reservation is based on social discrimination and not economic status. If they want to change the Constitution, then debate the issue in Parliament.
+
+Those who talk or think about reviewing reservation should first resign, as they actually want to completely end it and reduce its scope,” Chirag said.He maintained that reservation was in place yesterday, is in place today and would continue in the future.Reacting to Chirag’s demand, Suman said he was ready to resign. “As far as resignations go, we are ready. My younger brother’s party is the bigger one; they have more numbers than us and are politically third-generation too — so let them take the lead.
+
+Let him step forward by resigning and we are prepared to resign alongside him,” he said.Suman maintained that reviewing reservation did not mean abolishing it. He said HAM(S) was seeking sub-categorisation, or a “quota within a quota”, so that communities at the bottom of the social and economic hierarchy could benefit.
+
+He cited Musahar, Bhuiyan, Dom, Halkhor and Nat communities as groups that continue to face deprivation and discrimination.JD(U) national general secretary and MLA Shyam Rajak, meanwhile, opposed any discussion on reviewing reservation and warned that tampering with the system could create serious social tensions. He said reservation was a constitutional right, not charity.The reservation debate has particular political significance in Bihar, where Dalit communities are socially diverse. The Nitish Kumar government introduced the Mahadalit category in 2007 to identify the most deprived Dalit communities.
+
+---
+
+### Congress accuses CEC of law violation over Form 6 changes, urges SC to hold him accountable
+*SECTIONS Congress accuses CEC · business*
+
+New Delhi: The Congress on Saturday accused Chief Election Commissioner Gyanesh Kumar of knowingly breaking the law and Constitutional practices by "unilaterally" changing Form 6 and called on the Supreme Court to take suo motu cognisance and hold him accountable.
+
+In a post on X, Congress general secretary Jairam Ramesh said Kumar's continued tenure is an affront to the people of India and that he must resign, as suggested by Lok Sabha Leader of the Opposition Rahul Gandhi.
+
+  
+
+Ramesh stated that late at night on Friday, a "panicked" Election Commission directed officers to organise special enrolment camps for young voters and give them "wide publicity" through social media.
+
+> — Jairam\_Ramesh (@Jairam\_Ramesh)
+
+"But the CEC himself had earlier made it virtually impossible to add young voters through a blatantly illegal and unconstitutional change to Form 6. A new mandatory section was added that asks if your parents/grandparents were in the previous SIR, creating a barrier for first-time Gen Z voters.
+
+"The change is completely illegal. -- Violation 1: In early July 2026, the online form was stealthily changed with no official notification," the Congress leader said.
+
+Pointing out the second violation, he said the ECI does not have the power to amend Form 6. "This power is only held by the Union Government as per The Representation Of The People Act, 1950. This is clearly a huge overreach by the Election Commission," Ramesh said.
+
+"Violation 3: The form was changed without any amendment to the Rules that govern it under the Registration of Electors Rules, 1960. That can only be done by the Union Government with proper intimation to Parliament. A statutory form, defined by the law, was unilaterally changed by the CEC Gyanesh at the instance of the rattled PM-HM duo," he added.
+
+Ramesh claimed that incidentally, the two election commissioners had called for this "illegal and unauthorised" change to be reversed "so young and first-time voters can register without any harassment".
+
+"The CEC has broken not just Constitutional conventions and practices but has also knowingly broken the law as passed by Parliament. His continuation in office is an affront to the people of India.
+
+"A confirmed law-breaker in charge of implementing laws -- what has Indian democracy degenerated to. The Supreme Court must immediately take suo motu cognisance and hold him accountable," the Congress general secretary said.
+
+He asserted that Kumar can still redeem himself by resigning and turning approver, a suggestion by Rahul Gandhi, adding that the youth will approve this move.
+
+Amid a row over the Election Commission adding a declaration to the form for new voters seeking to enrol in the electoral rolls and making the registration process difficult, poll panel officials said on Friday that as many as 2.37 crore electors in the 18-28 years age bracket were added since the Special Intensive Revision (SIR) exercise was rolled out in Bihar last June.
+
+After the change in the online form, it's not only the existing voters who must show details of their parents in the SIR to remain on the electoral rolls; those seeking inclusion in the voter list also have to cite details of the exercise.
+
+By issuing instructions, the Election Commission has made it mandatory to attach SIR details of parents for new voters filling Form 6 for inclusion in the electoral rolls.
+
+A poll panel functionary underlined that the declaration was added through instructions and that Form 6 has not been amended.
+
+If a person fills out Form 6 online, he or she cannot proceed further till the declaration is filled.
+
+---
+
+### US says India can diversify energy as Trump gets new Russia sanctions tool
+*India Today World Desk · general*
+
+## A senior US official said Washington wants to help meet India's vast energy needs as it diversifies supplies. The outreach comes as Trump's new Russia sanctions law raises uncertainty but leaves room for waivers.
+
+Stock photo used for illustration
+
+Newyork,Sep 26, 2026 10:06 IST
+
+India, which has large energy needs, has for long been looking to diversify its energy sources, and the United States wants to help meet that demand, a senior US State Department official has said. The remarks come after US President Donald Trump last week signed into law the 'Lindsey O. Graham Sanctioning Russia and Iran Act of 2026', which authorises him to impose tariffs of up to 100 per cent on countries buying Russian oil and gas, including India and China.
+
+Responding to questions on the law and India’s concerns over its possible impact on bilateral ties, the official said the US Congress had taken a tough public line, but added that India’s response was understood. The official also said the measure gives Trump an additional option, though it is not clear how or when it will be used, and pointed to a broad national security waiver in the law.
+
+"India has been looking for a long time to diversify its energy sources. They're a country that has massive energy needs," the official said. Referring to criticism from US lawmakers, the official said, "You had members of Congress calling out India in particular, so of course India has to respond. We understand that. They have a domestic constituency, as do we. Like, there is no sort of hard feelings on any of that kind of activity."
+
+The official said Congress had passed a bill that gave Trump "a new tool in his toolbox". "That doesn't necessarily mean he deploys it tomorrow, but he has the opportunity to. His focus is on ending this war. It's been something he campaigned on and something he's been dedicated to from the beginning," the official said.
+
+"We're looking for our friends, especially like India, to help support that effort. But I think you'll have to stay tuned on how the bill gets implemented. But there is a broad national security waiver, so you can imagine also the president, there's a scenario, the president uses that as well," the official added.
+
+The law is named after late Senator Lindsey Graham, who had earlier proposed a sanctions bill calling for 500 per cent tariffs on countries buying Russian oil. The official said that for a long time, supplies from Venezuela and Iran had been cut off, leaving limited options. "Now, with President Trump's incredibly successful operation in Venezuela, we are moving into a better position that countries like India are going to be able to get access to that market," the official said.
+
+Saying that "the Indians are very interested", the official said India used to have refineries in Venezuela, but getting them running again was complicated because of the damage done to the industry by the Nicols Maduro regime. The official added, "We are looking to also become a huge source of India's energy needs. We're increasing our hydrocarbon exports," and said the US is now the largest exporter of LPG and the second-largest exporter of LNG.
+
+"The demands are great, and the needs for oil are there. We are looking for alternatives," the official said, adding that such discussions happen frequently, including between External Affairs Minister S Jaishankar and Secretary Marco Rubio, and would continue. The official said India had been trying to diversify its energy basket even before the war, and the current focus was on speeding up that process.
+
+In sum, the official said India’s push to widen its energy options is not new, the US is seeking to position itself as one of those alternatives, and questions over the new law’s impact will depend on how the Trump administration chooses to implement it.
+
+With PTI Inputs
+
+\- Ends
+
+---
+
+### Iran president says Tehran wants return to memorandum with US
+*SECTIONS Iran president says Tehran wants return · world*
+
+Tehran: Iranian President Masoud Pezeshkian said on Friday that his country wanted to return to the memorandum of understanding agreed with the United States in June, days after saying his country would not bend to Washington.
+
+He welcomed China saying it wanted the agreement to be revived, posting on X that "Iran shares this approach and underscores the importance of returning to that understanding".
+
+Diplomatic efforts to bring an end to the Middle East war, launched by the US and Israel with surprise attacks on Iran in late February, have faltered for months.
+
+  
+
+The June deal aimed to lay the ground for a full peace deal but it quickly unravelled.
+
+There had been optimism that talks might be revived during the UN General Assembly this week, but in a defiant speech to the world body on Wednesday, Pezeshkian said Iran would not "bend at the knee" to the US.
+
+A day later he told Fox News that Iran did "not wish to continue" the war but it was up to Washington to end it.
+
+Iranian Foreign Minister Abbas Araghchi took part in a meeting with US envoy Steve Witkoff and presidential son-in-law Jared Kushner on the sidelines of the General Assembly, but their talks did not immediately yield a breakthrough.
+
+---
+
+### 'Truth finally out in open': BJP slams Telangana CM's 'Gandhi parivar vs Sangh parivar' remarks
+*Rohitashwa Ranjan · general*
+
+NEW DELHI: Bharatiya Janata Party on Saturday latched on to Telangana chief minister Revanth Reddy's "Gandhi parivar vs Sangh parivar" remark to mount an attack on Congress, saying that the grand-old party's only objective is to bring the Gandhi family back to power.In a social media post on X, BJP spokesperson Pradeep Bhandari said that Reddy's remarks were an open admission that Congress has nothing to do with “Vote Chori,” the Election Commission, the Constitution or democracy."Congress has now openly admitted that its battle is solely about bringing the Gandhi family back to power. The truth is finally out in the open," Bhandari said."This has nothing to do with “Vote Chori,” the Election Commission, the Constitution or democracy.
+
+Congress’s only objective is to restore the Gandhi-Vadra family to power. For Congress: Parivarwad first, parivarwad only," he added.This comes after Reddy on Friday said that the fight for the future of India is between the two families - Gandhi parivar and Sangh parivar.
+
+"Gandhi Parivar stands for sacrifice: Mahatma Gandhi, Indira Gandhi and Rajiv Gandhi gave up their lives for the country. Sonia Gandhi, Rahul Gandhi and Priyanka Gandhi sacrificed post, power and position.
+
+Sangh Parivar is dividing India based on religion, caste, region, and language. The fight for India is between two parivars," Reddy said."I have no ambition left for myself - only dedicated to making Rahul Gandhi the Prime Minister of India. Let us all unite behind Gandhi Parivar to protect India, democracy, secularism, and freedom," Revanth added.Calling Kerala a “bellwether state”, Revanth said the Congress wave should spread “like a tsunami” across every village, town and State, paving the way for a Congress-led govt at the Centre and for Rahul Gandhi to “fly the national flag high on the Red Fort”.
+
+---
+
+### Manipur CM announces financial aid for women street vendors at Seva Sankalp Abhiyan 2026
+*Bikash Singh · business*
+
+Guwahati: Manipur Chief Minister Yumnam Khemchand Singh attended the Seva Sankalp Abhiyan, 2026 at Indian National Army (INA) Martyr’s Memorial Complex Hall, Moirang, Bishnupur District.
+
+Singh announced that a special financial assistance scheme would be introduced for the women street vendors of the State before the Ningol Chakouba, 2026 which to meet daily needs of their family. He added that those who have not yet registered themselves may do so through their respective Members of the Legislative Assembly (MLAs).
+
+  
+
+The Chief Minister maintained that the month-long Seva Sankalp Abhiyan campaign is being observed across the country to acknowledge the 25 years of public service of Prime Minister Shri Narendra Modi and to carry forward the spirit of public service and good governance.
+
+The Chief Minister maintained that the unprecedented crisis that took place in the State in 2023 had a drastic impact on the State’s economy. He added that the crisis incurred a huge loss in Goods and Services Tax (GST) revenue to the State. He added that frequent bandhs and blockades called in the State have resulted in a loss of around Rs 25 to Rs 30 crore per day in tax revenue to the State Government.
+
+Singh stressed that any differences can always be settled through dialogue and appealed not to resort to agitations, which affects the normal day-to-day activities.
+
+Recalling his visit to Jiribam district, the Chief Minister stated that the trust deficit among the different communities residing in the in the aftermath of the crisis has been substantially bridged. He added that the communities are now living together in peace and harmony.
+
+Expressing his deep anguish over the tragic incident at Tronglaobi, that occurred just after his visit to Jiribam district which claimed the lives of two innocent siblings, he added that certain vested interests continue to work against the State’s government’s efforts for the restoration of lasting peace and normalcy in the State.
+
+Singh informed the gathering that public transport services along National Highway-2, connecting Imphal with Guwahati via Dimapur, have been resumed and that the public is actively availing the service.
+
+The Chief Minister expressed that merely raising one’s voice in the valley in the name of love for Manipur, without willing to climb the hills, would not be sufficient. He stated that people who advocate for protecting Manipur but are unwilling to go to the hills should not be followed merely on the basis of their words. The Chief Minister encouraged such people to visit the hills. He continued that Manipur is inhabited by 36 different communities, who have safeguarded the integrity of the State and must continue to uphold and protect it.
+
+Singh stated that the crisis has severely affected families dependent on daily wages for their livelihood. He stated that, following discussions during the recently concluded 8th Session of the 12th Manipur Legislative Assembly, the State Government has decided to extend financial assistance of Rs 10,000 each to around 3,00,050 families. He added that the necessary budgetary provision has been earmarked for implementation of the assistance.
+
+The Chief Minister appealed to the people of the State to make concerted efforts towards preserving the unity and integrity of Manipur. He urged all sections of society to keep aside differences and work together in the larger interest of the State, united by a shared love and commitment towards Manipur.
+
+During the programme the Chief Minister distributed various government scheme benefits to the eligible beneficiaries to the people of the district under various departments. The Chief Minister also visited and interacted with more than 25 service counters and stalls showcasing various schemes and services of various government departments and institutions.
+
+---
+
+### Best Gaming Phones Under Rs. 50,000 in India
+*Nithya P Nair · technology*
+
+Here are some of the best gaming smartphones you can buy under Rs. 50,000 in India.
+
+[Read full article](https://www.gadgets360.com/mobiles/features/best-gaming-phones-under-rs-50000-india-poco-x8-pro-max-redmi-turbo-5-12077343)
+
+---
+
+### What Is J&K’s 2000 Autonomy Resolution That Has Sparked A Fresh Political Row?
+*Karishma Jain · general*
+
+BJP MLAs protested after Omar Abdullah’s statehood resolution referred to the 2000 proposal seeking greater autonomy for J&K.
+
+[Read full article](https://www.news18.com/india/what-is-jks-2000-autonomy-resolution-that-has-sparked-a-fresh-political-row-ws-lr-10353836.html)
+
+
+---
+
 ## 25 September 2026
 
 ### Society bars EWS residents' park, pathways access, administration lifts restrictions
