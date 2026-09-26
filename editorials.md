@@ -1,8 +1,132 @@
 # Editorials
 
-_Last updated: 2026-09-25 06:28 UTC_
+_Last updated: 2026-09-26 06:30 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 26 September 2026
+
+### Narrowed posture: On Karnataka and the Kasturirangan Report
+*The Hindu · Editorial*
+
+The Kasturirangan Report bears a pro-development attitude that allows human occupation and a range of economic activity across the Western Ghats, yet the Karnataka Assembly unanimously repudiated its recommendations. A grievance concerned the accuracy of the remote-sensing and satellite data from 2012 that the Report uses to distinguish natural from human-dominated landscapes. Another concern was its recommendation that an entire revenue village be placed within an ‘ecologically sensitive area’ (ESA) if at least 20% of its area is sensitive. This could bring farmland and human settlements within the ESA even when sensitive areas occupy only a fraction of the village. Following the Centre’s directive to States in 2013-14 to begin ground-truthing the Report’s recommendations, Karnataka faced bipartisan opposition centered on concerns about livelihoods, with vested interests, including stakeholders of activities both the Gadgil and the Kasturirangan Reports restrict/ban such as mining, allegedly fanning fears of displacement. The State thus elected to resist the ESA framework. Although the Assembly’s resolution proposes returning to the unfinished task of producing an alternative map, the government’s posture also faces a wider challenge.
+
+The Centre’s interim directions in 2013 preserve some protection for the ecosystems that the State stewards, but for the government and the businesses within potential ESAs, the delay may prolong uncertainty over what forms of planned development will ultimately be permitted. Broadly, particular States confront the economic and political consequences of local resistance and foregone development while the country as a whole will capture much of the national benefit of conserving the Ghats, so States have an incentive to negotiate the ESAs’ extent down. However, as of mid-2026, Gujarat was reportedly close to an agreement with the Centre, Tamil Nadu had no substantive disagreement, Kerala wanted to reduce its already ground-truthed 9,993 sq. km to 8,805 sq. km, and Maharashtra and Goa wanted 378 and 21 villages omitted, respectively. These instances of progress (such as they are), the Ghats’ continuity across six States, and the Centre’s 2024 decision to allow ESAs in the region to be notified State by State increase pressure on Karnataka without legally binding it to its neighbours’ choices. Specifically, Karnataka’s ability to continue rejecting the framework as a whole becomes harder to sustain if it does not also produce an equally considered alternative. Karnataka needs to reconcile the apprehensions of its farmers and workers with the responsibilities accruing to the State with the largest share (by area) of the proposed ESAs.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/narrowed-posture-on-karnataka-and-the-kasturirangan-report/article71508916.ece)
+
+---
+
+### Overweight and weak: On the UN, the 81st session of the UN General Assembly
+*The Hindu · Editorial*
+
+The 81st session of the United Nations General Assembly (UNGA) could have been written off as just another year, with another set of speeches delivered on the global multilateral stage. However, this year, the UN’s annual Summit has a unique sense of urgency. This is UN Secretary-General (UNSG) António Guterres’s final session, after a tenure marked by a record number of global crises, conflicts, pandemics, climate disasters and the advent of a dangerous age of Artificial Intelligence. Not since the Second World War have there been so many conflicts; one study recorded more than 65 conflicts across 35 countries in 2025, the highest since 1946. Growing polarisation on every major issue, wars by global superpowers in violation of the UN charter, nuclear threats and the imposition of unilateral and illegitimate sanctions have weakened the UN, which at 81 seems overweight, weak and unrepresentative of the world. This makes it an important year for the world to unite in favour of a strengthened and reformed UN while choosing the next UNSG to guide that process over the next decade. This is an important year for South Asia too, with the election of Bangladesh’s Foreign Minister Khalilur Rahman as the President of the UNGA’s 81st session; he will oversee the UNSG’s selection. It was disappointing that the world’s most powerful leaders and those at the heart of the conflicts in Ukraine, Gaza and the Persian Gulf failed to suggest solutions for the future. U.S. President Donald Trump spoke about the possible “annihilation” of Iran, and defended U.S. actions in Venezuela. Much to India’s chagrin, he again claimed to have negotiated peace in conflicts including the 2025 India-Pakistan four-day war. Iranian President Masoud Pezeshkian referred to the U.S. and Israel as “murderers, terrorists and assassins”. The Russian President skipped the session, while the U.S. denied visas to the Palestinian delegation. An initiative led by the European Union and a few other countries, co-sponsored by India, to build a Partnership for Multilateralism (P4M) beyond superpower hegemony is well-meaning, but was drowned out by the rancour at this year’s UNGA.
+
+For India, this year was significant as the Narendra Modi government launched a campaign for a second two-year non-permanent term in the UN Security Council in 2028-29. It was therefore surprising that Mr. Modi decided to skip the UNGA speech this year, and the multilateral summits on the side-lines, fresh from his hosting of the Delhi BRICS Summit. India’s voice, of a balancing power that speaks for a rules-based international order based on the UN Charter, diplomacy and dialogue, is needed more than ever amidst the global warmongering.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/overweight-and-weak-on-the-un-the-81st-session-of-the-un-general-assembly/article71508880.ece)
+
+---
+
+### The case for accountable lottery regulation in India
+*The Hindu · Opinion*
+
+Urged to ban tobacco, Napoleon III, Emperor of France (1852-70), replied, “This vice brings in one hundred million francs in taxes every year. I will certainly forbid it at once — as soon as you can name a virtue that brings in as much revenue.” His uncle, Napoleon Bonaparte, is also credited with calling vices “very good patriots” (though the attribution is uncertain), while Ralph Waldo Emerson observed that “tobacco could cheerfully carry the load of armies”. Different voices, one hard-headed insight: vices are fiscally invaluable.
+
+Yet, every age has moral crusaders whose puritanical zeal to ban tobacco, alcohol, or lotteries rests on the misconception — and conceit — that the state can extinguish persistent demand simply by declaring an activity unlawful. Pragmatists know better: a prohibition may be morally appealing yet administratively futile — or, worse, positively counterproductive.
+
+The United States learnt this lesson the hard way. Following a sustained temperance campaign, it imposed prohibition through the Eighteenth Amendment and the Volstead Act, from 1920 to 1933. While suppressing legal supply, prohibition left demand intact, fuelling a lucrative black market controlled by violent syndicates such as Al Capone’s. Bootlegging corrupted public institutions, deprived governments of excise revenue and imposed heavy enforcement costs. The Twenty-First Amendment repealed prohibition, recognising that a regulated and taxed market could cause fewer harms than an unenforceable ban. States in India that have experimented with prohibition have faced similar challenges.
+
+The argument for regulationLotteries are undoubtedly a vice, though arguably less pernicious than tobacco or alcohol. They disproportionately burden poorer households, encouraging them to stake scarce income on remote chances of reward. Rapid draws and instant games can encourage compulsive play and loss-chasing, while giant jackpots distort risk perception. Credit sales, opaque odds and manipulative advertising compound these harms. These are powerful arguments for stringent regulation, not necessarily prohibition.
+
+Related StoriesRecord sales for Thiruvonam bumper lottery, says Lotteries Directorate; draw on September 26
+
+Lottery bans can push players towards smuggled tickets, matka, satta, single-digit rackets and offshore portals. Operating through cash agents and mule accounts, these enterprises lack audits and age restrictions, secure prize funds and effective remedies against fraud. Governments lose lottery surpluses and GST revenue, while legitimate vendors, many of them poor or disabled, lose livelihoods and enforcement costs rise. In seeking to protect the vulnerable, the state may instead leave them at the mercy of unaccountable operators.
+
+The state’s paternalism is not class-neutral. Affluent citizens can day-trade, use leveraged derivatives or speculate in crypto-assets despite the risk of ruinous losses. Securities trading involves skill and derivatives facilitate hedging and price discovery. Yet, the state does not test competence before admitting retail traders to these markets. The Securities and Exchange Board of India found that the vast majority of day traders and futures-and-options traders incurred losses. Financial markets are legal not because everyone acts wisely, but because risks are disclosed, intermediaries regulated and fraud punished, while adult choice is preserved. Lotteries can follow the same principle, with more stringent safeguards appropriate to games of chance.
+
+The international normLotteries are legal in nearly four-fifths of countries. Blanket prohibition survives mainly in countries enforcing strict Sharia-based gambling prohibitions, such as Saudi Arabia, Iran and Brunei, and in closed ideological regimes such as Cuba.
+
+Lure of lucre: when lottery ticket trade flourished in Tamil NaduAcross diverse political and economic systems, the norm is controlled legality, with lottery surpluses allocated transparently to education, health care, sports, welfare or infrastructure. Nearly 70% of lottery jurisdictions follow the public-operator model, in which a government body, statutory authority or State-owned company runs the lottery while private firms provide retail and technology services. Under the concession model, the State regulates the lottery but grants operating rights to a private concessionaire.
+
+Federal countries generally entrust lotteries to their constituent units while permitting voluntary cooperation across borders. Lotteries operate in 45 of the 50 U.S. States and Washington DC; all 10 Canadian provinces and three territories; all six Australian States and both mainland territories; and all 16 German Länder. Authorisation in one jurisdiction does not confer the right to sell in another. Cross-border sales require the destination jurisdiction’s consent or participation in a cooperative arrangement. The U.S.’s Powerball, Canada’s Lotto 6/49, Australian lottery blocs and Germany’s DLTB allow participating jurisdictions to pool players and prizes while retaining regulatory autonomy.
+
+A Lok Sabha reply of March 14, 2023, identified only nine States operating lotteries: Arunachal Pradesh, Goa, Keralam, Maharashtra, Mizoram, Nagaland, Punjab, Sikkim and West Bengal. Amid persistent State fiscal stress, the widespread preference for prohibition deserves reconsideration. Government-organised lotteries fall under Entry 40 of the Union List. The Lotteries (Regulation) Act, 1998, permits States to organise lotteries subject to Section 4 conditions, while Sections 5 and 6 empower States and the Union Government, respectively, to prohibit lotteries that violate Sections 4 and 5.
+
+Two necessary amendmentsSettled Supreme Court jurisprudence treats gambling, including State-organised lotteries, as res extra commercium, outside the protections of Articles 19(1)(g) — fundamental right to trade — and 301 — freedom of trade across India. Section 5 of the Lotteries (Regulation) Act, 1998, reflects this principle by allowing States to prohibit outside lotteries. A parallel doctrine applies to potable alcohol, allowing States to restrict or prohibit out-of-State consignments.
+
+Yet, in B.R. Enterprises vs State of U.P. (1999), the Court read Section 5 down: a State may exclude other States’ lotteries only by abandoning its own and becoming wholly lottery-free.
+
+This all-or-nothing rule is difficult to justify. While a State directly oversees its own lottery administration, its oversight of another State’s operations within its territory is necessarily indirect, even as it bears the local enforcement burden. This disparity in regulatory control underpins the case for excluding other States’ lotteries. Faced with this revenue-regulation trade-off, Tamil Nadu (2003) and Karnataka (2007) chose total prohibition, thereby forfeiting the option of running accountable public lotteries of their own.
+
+Parliament should amend Section 5 to clarify that the provision applies “whether or not the prohibiting State organises a lottery of its own”. Destination-State consent should be decisive, subject to uniform treatment: a State must either admit all outside lotteries or exclude them all.
+
+Smaller States, especially in the northeast, may fear exclusion from larger markets, but compulsory access is no remedy. A new Section 4A should authorise two or more States to establish a common lottery by agreement, pooling players, prizes, technology and costs, as in successful multi-State lotteries elsewhere.
+
+Transparent regulation offers a more accountable alternative to prohibition. Section 4 permits States to sell tickets directly or through distributors or agents. While marketing agents may provide guaranteed revenue, departmental operation can be more transparent and enable retail distribution through small vendors, persons with disabilities, women’s self-help groups and cooperatives, broadening livelihood opportunities and limiting intermediary capture.
+
+Kerala follows this model. In FY 2023-24, it earned ₹2,883.80 crore — ₹1,129.71 crore in net lottery revenue (or surplus) and ₹1,754.09 crore in State GST. It channels lottery surpluses into health care and welfare. Kerala’s public-operator model offers a useful, though not exclusive, template for reform.
+
+K. Ashok Vardhan Shetty is a retired IAS officer, a former Vice-Chancellor of the Indian Maritime University, Chennai, and Member, The Justice Kurian Joseph Committee on Union-State Relations
+
+[Read full article](https://www.thehindu.com/opinion/lead/the-case-for-accountable-lottery-regulation-in-india/article71509817.ece)
+
+---
+
+### Rights must anchor the rules of arrest
+*Deccan Herald · Editorial*
+
+The Supreme Court has done well to reiterate the fundamental principles of arrest and affirm the need to protect individual freedom from State overreach. Invoking Article 22(1) of the Constitution, the Court asserted the right of an arrested person to be told the grounds of arrest and that a failure to do so would entitle the arrested person to immediate release. It is mandatory to communicate the reasons for arrest in writing in a language the arrested person understands. The Court said it was a “non-negotiable” right that applies “across the spectrum, including offences under the BNS or under special enactments”. Non-compliance violates the fundamental rights of the accused, so investigating agencies must be careful not to breach Article 22(1). The bench comprising Justices Ujjal Bhuyan and A S Chandurkar also laid down strict procedures for rearrest.
+
+Police often rearrest people released by courts, frequently as an assertion of power or to harass those individuals, forcing them to undergo the entire process again. In most cases, the rearrest beats the letter and spirit of the court’s order. As the Court pointed out, it also violates the fundamental right of the individual. The bench noted that the investigating agency is required to file an application for custody before the magistrate who had released the person, explaining what necessitated the rearrest. The Court has prescribed a procedure involving a superior authority in the agency and the magistrate, which should be concluded expeditiously. It has also directed disciplinary action against erring police officers involved in the initial arrest.
+
+SIR and electoral rights: The unequal burden of proving you belong on the voter rollMuch of the procedure elaborated by the Court would not need explicit articulation in a system where the police adhere to sound investigative principles and fully respect citizens’ constitutional rights. The apex court rejected the government’s argument that the police have more room for action when the charges against the arrested person are serious. It noted that the idea of liberty does not diminish when the charges framed against a person are made more severe. This is an important principle. It rightly said the release after an unconstitutional arrest should not be treated as bail because the detention was illegal to begin with, and directed high courts to award suitable compensation for violations of Article 22 in cases of arrest. With the top court’s guidelines in place, the police and the courts must now uphold the framework without room for breaches.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/rights-must-anchor-the-rules-of-arrest-4160042)
+
+---
+
+### Soujanya case: Justice is in the truth
+*Deccan Herald · Editorial*
+
+On October 9, 2012, 17-year-old Soujanya stepped off a bus near Dharmasthala and never reached home. She was raped and murdered, and her body was found the next day in a wooded patch. Fourteen years later, the Supreme Court has ordered what should have happened at the start: an honest investigation. Rejecting the Karnataka High Court’s view that the “golden hour” for forensic evidence had passed, the apex court held that while biological traces may degrade, material leads and witness testimonies do not simply disappear. Its order is a damning indictment of the shoddy manner in which the Belthangady police, the CID, and later the CBI handled the case, failing to pursue forensic and technical evidence with the rigour demanded by a crime of such gravity. Describing the earlier investigation as one that “shocks the very conscience of the court”, the bench has ordered a de novo probe by a Special Investigation Team (SIT), to be completed within three months. In effect, the case will be investigated afresh, unburdened by earlier conclusions, biases, or procedural lapses.
+
+Perhaps the most scathing rebuke is the Court’s direction that none of the officers previously associated with the investigation be involved in the fresh probe. This is not the first judicial censure of the investigation. The designated CBI court had earlier identified serious lapses and directed that action be initiated against the officers concerned, but successive governments ignored the directive. Such institutional indifference inevitably raises an uncomfortable question: have the governments been more interested in protecting the perpetrators than in securing justice for Soujanya? The Court, while observing that the possibility of the real culprits manipulating the case could not be ruled out, noted that the investigations, instead of bringing them to book, had caused “injustice to the victim”.
+
+Soujanya case: Government forms SIT after Supreme Court orderSoujanya’s family has alleged the involvement of influential persons in Dharmasthala, but the Court has clarified that its judgment should not be construed as a prima facie finding against individuals named in the appeal. Nonetheless, every credible lead must be examined without fear or favour. In addition, police and CBI officers who derailed the investigation, whether through negligence or design, must be identified and held accountable. The government must ensure that the SIT inquiry does not become another perfunctory exercise undertaken merely to comply with a judicial order. Soujanya can never be compensated for what she suffered. The door to the truth has reopened. It must not close again.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/soujanya-case-justice-is-in-the-truth-4160043)
+
+---
+
+### Food is more affordable in India. So why is nutrition still failing?
+*Deccan Herald · Opinion*
+
+The United Nations Food and Agriculture Organization's State of Food Security and Nutrition in the World 2026, released on July 21, contains a telling footnote: India is the reason global affordability numbers look as good as they do. Discussing the falling number of people unable to afford a healthy diet among the lower-middle-income countries, the report notes that this improvement is driven mainly by India. That means if we remove India from the group, the trend reverses. The report states that the share of India's population unable to afford a healthy diet fell from 59.8% in 2017 to 35.5% in 2025, from 813 million people to 520 million, even as the cost of a healthy diet rose 48% over the same period. It is among the sharpest sustained improvements recorded anywhere.
+
+Closer to home, however, barely nine days after the report's release, Karnataka's midday meal scheme, which promises six eggs a week to two-thirds of the state's 47 lakh school students, was buckling under an egg price that crossed Rs 8 against a government allocation of Rs 6. This forced schools into alternate-day rationing, and one headmaster to pay Rs 15,000 from his own pocket to keep it running. Telangana and Odisha reported a similar strain this July. If affordability were the entire story, a single egg, the most inexpensive source of animal protein and the staple that nutrition policy relies on most heavily for children, should be the easiest standard to maintain.
+
+National Family Health Survey (NFHS-6) 2023-24 data is not very encouraging. While stunting has fallen from 35.5% to 29.3%, wasting and underweight have barely moved, while women's overweight or obesity prevalence has risen from 24% to 30.7% and men's from 22.9% to 27.3%. FAO's regional data show that anaemia, unlike weight gain, is squarely a dietary-diversity problem rising among South Asian women. India is now living with all three forms of malnutrition at once: undernutrition, micronutrient deficiency, and rising obesity in the same population. Affordability measures whether people can pay for food, not what they eat.
+
+Karnataka to host National food safety conclave in October: U T KhaderThe FAO report explains why diet quality lags diet quantity: starchy staples, rice and wheat, distributed through PDS, make up only about a sixth of a healthy diet's cost. The expensive five-sixths are animal-source food, fruit, and vegetables. India's food security law is built almost entirely around the cheap sixth: the National Food Security Act, 2013 (NFSA) defines its core entitlement as five kilograms of grain per person per month – just a calorie standard, not a nutritional one.
+
+Schedule II of the NFSA prescribes nutritional norms for children under six, school-age children, and pregnant or lactating women. But the implementation of these norms remains a goal yet to be achieved. For working-age adults and the elderly, who carry most of the rising obesity and anaemia burden, the law offers no nutritional instrument at all. Even in the case of nutritional entitlements for children and women, the adequacy of food has remained in question. The Comptroller and Auditor General's audit of Odisha's nutrition programmes found spoiled meals, infested ration bags, and diverted funds. July's egg shortfall shows that even when an item is written in the menu for schoolchildren, delivering it depends on a reimbursement rate that keeps pace with the market, something no state is obliged to do.
+
+A legislative opportunity
+
+A live opportunity exists to address part of this gap. The government has circulated a draft National Food Security (Amendment) Bill, 2026, modifying the Antyodaya Anna Yojana (AAY) entitlement from a flat 35 kg per household to 7 kg per person, capped at 35 kg. But it touches only quantity, not composition, and there is still no provision for pulses or oils. AAY households, the poorest of the poor, are precisely the population least able to buy their way into a better diet, as rising incomes allow others to do. Writing a diversification requirement into this bill, for the AAY and priority households, while it is still open, is the most concrete opening available.
+
+Explained | Raids, shutdowns, warning labels: India's unprecedented food safety pushBeyond that bill, three changes matter most. First, nutrition budgets should be indexed to inflation, the way India already indexes minimum wages against the Consumer Price Index, a mechanism run since 1991, never applied to what a ration or an egg reimbursement is worth. Karnataka's egg crisis is the argument for this. Second, food production must also be diverse for the food on the table to be nutritious. Small and marginal farmers must be supported to grow varieties of crops, including pulses, oilseeds, fruits, and vegetables, and must be covered by the decentralised procurement system.
+
+India has earned the right to call its affordability numbers a genuine achievement, and the FAO's report recognises this. But the report stops just at affordability, that too without taking cognisance of the need for nutritious and healthy diets. Making staples affordable and making diverse, nutritious diets accessible were never the same task, and the latter cannot be reached simply by scaling up the instruments built for the former. While food security explains whether people can get enough to eat, nutrition security asks what is on the plate and for whom, across every age and group. India has answered the first question decisively. A state government struggling to keep a single egg on a child's plate is the clearest sign of how much of the second answer is still owed.
+
+(The writer leads the Programme on Right to Food at the Centre for Child and the Law, National Law School of India University)
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/food-is-more-affordable-in-india-so-why-is-nutrition-still-failing-4160037)
+
+---
 
 ## 25 September 2026
 
@@ -114,6 +238,46 @@ The Trump administration, which is dominated by billionaires from the old econom
 
 ---
 
+### DC Edit | Safety Checks Vital For All AC Buses
+*Deccan Chronicle · Editorial*
+
+India has seen two air-conditioned sleeper buses catch fire within 12 hours of each other in two states — Uttar Pradesh and Maharashtra. Nine people died when a bus travelling from Delhi to Mahoba caught fire near Greater Noida in Uttar Pradesh late on September 23, while everyone on board a bus in Pune escaped unhurt when it caught fire early on September 24.
+
+While the fires reportedly originated in the air-conditioning units, the response of the bus crews made a difference. Survivors of the Delhi bus fire alleged that they had drawn the crew’s attention to a burning smell before the fire spread, but the crew paid no heed. On the Pune bus, however, an attentive conductor noticed smoke and alerted the driver, who promptly pulled over to the left side of the road, allowing all passengers to escape.
+
+The three crew members of the Delhi bus were arrested. Prime Minister Narendra Modi and Uttar Pradesh chief minister Yogi Adityanath expressed condolences and announced ex-gratia payments to the victims’ families. But does the responsibility of the state and Central governments end with perfunctory condolences and paltry compensation? Who should take responsibility for hiring crew members who could say to passengers, “If you want to die, die then. We won’t stop the bus”?
+
+While bus owners may be blamed for hiring the wrong people, officials in all states are also at fault for lax regulation. Many sleeper buses are not originally manufactured for that purpose. Because of high demand for sleeper buses on long journeys and a shortage of trains, many operators purchase seater buses and retrofit them as sleeper coaches. To save costs, operators may omit factory-grade multiplex wiring and proper circuit breakers, leaving the buses more susceptible to fires. The Centre should, therefore, order an annual electric safety audit of all AC buses in India and defaulting buses should be confiscated.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-safety-checks-vital-for-all-ac-buses-1990590)
+
+---
+
+### DC Edit | Trump-Xi Summit Delivers Very Little Beyond Optics
+*Deccan Chronicle · Editorial*
+
+The extension of a fragile truce keeping at bay an intense trade war is all that was achieved during the high-profile visit of Chinese President Xi Jinping to the United States. The spectacle the pomp and pageantry in Washington provided may have given the Chinese supremo the impression that the US President Donald Trump has granted China an equal place as a superpower, including in his personally welcoming Mr and Mrs Xi on the tarmac at Joint Base Andrews.
+
+In concrete terms, all that has been delivered is a two-month extension given to the trade truce that was to expire on Nov. 10. Even then, the threat hangs of an imposition of 100 per cent tariff over purchase of Russian crude that would be equally applicable to China as India. It remains to be seen if Mr Trump, who is a master at delivering personal friendship optics in lieu of granting any ground to a super-competitive rival for world power, has done it again.
+
+China’s Xi may believe he has found a way to manage the world’s most capricious leader, but it is too well-known that Mr Trump has perennially reserved a soft corner for the authoritarians of the world, a privilege he does not grant leaders of fellow democracies. To what extent that will translate into giving some ground in an already vastly unequal trade to a global competitor remains to be seen as China’s global trade surplus ticked up a healthy $1.2 trillion last year.
+
+There has been little for the world racked by two to three major wars in the sensitive West Asia region and Ukraine-Russia to draw any hope from the much-hyped meeting of the leaders of the two most powerful countries militarily and economically.
+
+But then expectations were always low considering nothing much happened during Mr Trump’s visit to Beijing earlier this year either.
+
+The Iran war was said to have come up in discussions again, but not even Mr Xi Jinping may have been in any position to suggest a way for Mr Trump to extricate himself from what he has gotten the US and its Middle Eastern allies into in waging war against Iran or said he could do anything about Russia’s continuing aggression against Kyiv.
+
+This might be a mere assumption, but it does appear as if Mr Trump may be increasingly inclined to leave the regional affairs of Asia to be led and managed by the Asian countries themselves while the USA takes more interest in what is happening nearer home in Central and South America and the Caribbean. Mr Xi would certainly feel China’s sphere of influence would be more complete if the US declines to get involved in Asian affairs.
+
+The building anxieties over the existential threats artificial intelligence could pose may have represented the biggest common ground even as the US’s arms supply to Taiwan may have been the point of highest disparity. Here too, China may have been quietly covering the gap in AI development in ripping off US models while agreeing to talk about the possible dangers posed by the technology.
+
+It is open to question what actions nations can take as AI is developing in leaps and bounds in a free America and in a more controlled environment in China. The seeking of a “coexistence in peace” is, however, the one promising call that came from China even as Mr Trump has his own battles to fight on home turf as the midterm polls are nearing.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-trump-xi-summit-delivers-very-little-beyond-optics-1990576)
+
+---
+
 ### DC Edit | Trust Eroded, EC Needs A Complete Overhaul
 *Deccan Chronicle · Editorial*
 
@@ -177,6 +341,104 @@ But migrant workers from northern India are still arriving, despite the new tari
 Aloysius says his organisation is now trying to arrange schooling for these migrant children, even if in informal classes. Young single women from the Northeast and Odisha also continue to arrive for work and live in factory...
 
 [Read full article](https://www.deccanchronicle.com/opinion/columnists/dev-360-how-tiruppur-is-coping-under-shadow-of-tariffs-1990394)
+
+---
+
+### Has The Tank A Future In 21st Century Land Wars?
+*Deccan Chronicle · Opinion*
+
+Let it be known that each and every bit of information on military hardware is gleaned from open-source publications of international repute and credibility for more than five decades, like annual armament and tech journals Jane’s Armour & Artillery, Jane’s Land Warfare Platforms 2026-2027, Jane’s Infantry Weapons and Jane’s World Armies 2025; besides Stockholm International Peace Research Institute (SIPRI) and Military Balance of International Institute for Strategic Studies 2026 (IISS), London.
+
+In 2010, one wrote, “Has the tank a future?” It’s time to revisit the issue owing to the latest scenario unfolding across battlefields with ripples felt by all main battle tank (MBT) stake holders, from producer and seller to user. Today the issue needs fresh analysis and reassessment in light of several land wars and experience gained from loss, failures and success in the 21st century.
+
+In 2010, one wrote that “the MBT continues to adorn the stage and inventory of virtually all major armies of the world and produced by 31 countries”. And “out of 166 nations’ armed forces, except 41, rest 125 user-states had various types of MBTs in their military inventories”. Nevertheless, the main producer-cum-distributers to the 2010 arms bazaar numbered five only, viz., France, Germany, Russia, the UK and the US, notwithstanding the machine being produced by a total of 31 countries.
+
+Today, the number of actual indigenous MBT producers has dwindled to just 14: the US, Russia, China, Germany, North Korea, South Korea, France, UK, Japan, India, Iran, Israel, Turkey and Pakistan. And some traditional manufacturers like Italy and Spain have switched over to joint ventures with German and American tank makers, respectively. Poland and Romania, too, have gone for US-made Abrams and South Korea’s K2 MBT and Egypt co-assembling American M1 Abrams. Why? Is it owing to threat perception calculation and economics? Not exactly, the major reason is shrinking industrial base resulting from high-cost production preceded by equally high, if not higher research and development economics.
+
+Be that as it may, Military Balance 2026 IISS, London, shows that out of the armed forces of 173 countries, 110 have MBTs and 63 countries do not have a single tank. Hence, the increasing numbers of MBTs in some countries’ land forces do reconfirm the faith in MBT to play a decisive role in battlefields. The conventional belief and thinking that the MBT can be of use in high-intensity military operations like the epic tank battles in western Europe and protracted wars of attrition resulting in colossal loss of men and machines inside Russia where the weather god turned to be one of the principal players in destroying the marauding tank armada of Hitler, the Fuehrer of the Third Reich, in 1941-1944 is still alive.
+
+The question, therefore, comes back to the possible reason behind this undying infatuation for MBT in militaries across the globe. Can the MBT still be “invincible” and “impenetrable” owing to its “mobility, fire power and protection” in comparison to other fighting units of an army? Not exactly, as 20th century warfare clearly shows. While technically and theoretically, the MBT has been an extremely attractive, imposing and formidable proposition, it has nevertheless posted a performance of mixed fortunes in World War 2. All MBTs do have the main gun (105 mm to 125 mm rifled or smoothbore) with a fiery long barrel protruding out of the turret, capable of firing between 35 to 50 lethal shells along with a co-axial machine gun and a turret-mounted 7.62 or 12.7 mm gun, but anyone hoping to make an outright victory out of a standalone tank-versus-tank battle would do well to closely relook at three conflicts of the 21st century, Afghanistan, Iraq and Ukraine, when engaging in long-term perspective planning for the countries concerned.
+
+Thus, US invasions of Afghanistan, lasting 20 years from 2001 to 2021, and the eight-year (2003-2011) occupation of Iraq beginning 2003 with typical aggression of the Western country’s need and greed for resources, camouflaged under politico-diplomatic sloganeering, saw American MBTs in action.
+
+The two-decade Afghan story needs no reminder. The US fought a protracted battle against vastly inferior quality ammo used first by Kabul and then by Baghdad. “Human bombers” constituted the most formidable threat to America, and they considered its troops as adversaries hailing from an opulent but distant land.
+
+In Iraq, the US MBT had better luck owing to a smoother urban terrain. It faced ambush, suicide bombers and improvised explosive devices but still came out relatively unscathed. Americans faced a situation akin to a 65-ton heavy-weight Israeli Merkava MBT dealing with urban non-Israeli adversaries in Gaza, West Bank and densely populated Levant land.
+
+The myth of the MBT as the ultimate strategic weapon in land war was, however, burst in the ongoing 55-month Russia-Ukraine conflict on vast open terrain....
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/has-the-tank-a-future-in-21st-century-land-wars-1990599)
+
+---
+
+### Shifting Tides: AfD’s Rise Versus British Political Counter-currents
+*Deccan Chronicle · Opinion*
+
+“For aeons there were night and day
+
+Then something entered mud and clay
+
+And chemicals turned into trees.
+
+Then the oceans bred amoebae
+
+And soon, by some odd miracle,
+
+Earth experienced the spectacle
+
+Of creatures that could swim or walk
+
+Or brandish teeth and tentacle
+
+And even now I find it strange
+
+Observing the infinite range
+
+Of creatures evolution bred —
+
+Or was it God who did arrange
+
+For Adam, Eve and dinosaurs
+
+Who were destroyed by meteors —
+
+My brain tells me that this is crap
+
+But, good believer, what says yours??”
+
+—From The Rubaiyat of Aesop’s Goal by BachchooThe success of the Alternative for Deutschland (AfD) in the small German state of Saxony-Anhalt is certainly one of the symptoms of the rise of the far right in Europe. Their election, short of the governing 50 per cent compels them to negotiate with smaller parties to form a coalition which they would control.
+
+They are clearly a resurgent nationalist and far-right party. The Jewish leadership in Saxon-Anhalt, and in mainstream Germany, reacted with dismay, at their success. Why? AfD campaigned to alter the school curriculum, abandon holocaust studies and concentrate not on the atrocities of Nazism but the triumphs of Germany:
+
+Less Hitler and more Bismark?
+
+Their central policy, one that is embraced by every far-right party and group in Europe, is their pledge to restrict the rights of ‘non-white Germans’ which means minorities in the state, long-resident and recent immigrants, asylum seekers, refugees…
+
+It isn’t yet quite clear how they would enforce this pledge which even extends to expulsion and ethnic cleansing, but 43% of Saxony-Anhalt’s voters endorsed it.
+
+To one or other degree, the parties of the far-right in Europe, for instance that of Marie Le Pen in France and Reform, led by Nigel Farage and Restore led by Rupert Lowe in Britain, echo these policies of ethnic cleansing through deportations, closing borders, getting rid of human-rights statutes that protect genuinely desperate refugees, withdrawing from institutions such as the European Court of Human Rights (ECHR) and affording substantive opposition to some regulations of the European Union.
+
+What is startlingly disturbing, if entirely predictable, is that the Orangebooby, Aka Trump, has congratulated AfD on their elections result. What a small state of Germany has to do with Orangyboob, remains a mystery. Not to most of us, of course, as we know he sees the appeal of AfD as being anti-immigrant and supportive of all the causes of his bigoted and demented egotistical policies.
+
+Again, not so surprising, is the congratulations and jubilation received by AfD’s leader from the Hitler-saluting billionaire Elongated Tusk (a la Pinocchio?) as he has always said that he is “aspirationally Jewish” as he went to a Jewish preparatory school and professes to have many Jewish friends.
+
+I hope he gets some abusive texts on X from Saxony-Anhalt’s Jewish community. And then again what-the-flabbergasticuck has master Hitler-salute to do with elections in a minor state of Germany?
+
+Yes, no prizes for guessing — anti-immigrant affinity — especially anti-Muslims!
+
+Question: How seriously should we, gentle reader, take this popular rise of the far right in Europe? I confess I have no avenue of evidence, or even instinct, to provide an answer to the question in any part of Europe apart from the UK.
+
+My previous riposte to any concern about the rise of the right-wing in Britain is now, perhaps, sanguine and outdated. I used to point to the abject failure of Oswald Mosely who started the British fascist movement in the 1930s and was humiliatingly defeated, by a resistance group of Jewish and left-wing Brits, at what has come to be known as the Battle of Cable Street in London’s East End. The bulk of Brits, despite support from one of the famous Mitford sisters, I’d argue, were not inclined to support Mosely. He disappeared from the political spectrum.
+
+And so with Enoch Powell, a Tory who made a bid for the leadership of the Party with a speech in 1968 which came to be known as the “Rivers of Blood” speech in which he attacked immigrants to Britain as invaders who would cause an internal civil war through which, presumably, they would overwhelm the country.
+
+He expected huge public support. None came. A few meat-porters from a market in London and a fragment of the Docker’s Union marched in his favour, but he had to abandon his parliamentary seat in Wolverhampton and seek political refuge and virtual exile in a Northern Ireland protestant constituency.
+
+Those were my arguments, but perhaps times have changed.
+
+Even the very narrow victory for those advocating leaving the European Union so as to stop Johny foreigner coming and working here, began the slide down the slippery slope. Now the Reform Party, headed by prime EU-leaver Nigel Farage, is promising military action against refugees from war, terror, prejudice — and yes some simply seeking a better life — who arrive on...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/shifting-tides-afds-rise-versus-british-political-counter-currents-1990566)
 
 ---
 
@@ -21280,267 +21542,6 @@ India needs to end this democratic disgrace. It must issue like the US and Germa
 Other nations resolved this long ago. India has spent decades and vast sums building fragmented systems that the State itself can declare hollow at will. Until that single card exists, crores of Indians will continue to clutch their documents like charms, only to be told they are nothing more than scraps of plastic. The cruellest truth remains. After 79 years of freedom, the question of who is an Indian still drifts unanswered, haunting the very idea of India. As of now, I am a voter. But what about the future?
 
 [Read full article](https://www.newindianexpress.com/opinion/columns/pc/2026/Jun/27/are-you-and-i-indian-citizens)
-
----
-
-## 27 June 2026
-
-### ​Tragic evening: On the earthquake in Venezuela
-*The Hindu · Editorial*
-
-On Wednesday two earthquakes, of magnitudes 7.1 and 7.5, struck seconds apart, levelling large parts of Caracas, Venezuela. On Friday, Jorge Rodriguez, the president of the country’s National Assembly, put the dead at 920 and the injured at 3,360. In La Guaira, the worst-hit State, over a hundred buildings crumpled to rubble. Geologically speaking, such destruction is, in Venezuela, an aberration. The country sits where the South American and Caribbean plates grind past one another, a boundary that slips sideways rather than thrusting upward — unlike the frequent quakes along the Pacific’s Ring of Fire. Strain here accumulates quietly, over generations, before the ground settles its accounts in a single afternoon. It is early days, but seismologists have explained the twin quakes as a ‘doublet,’ what the US Geological Survey (USGS) calls a “complex rupture-interaction”. Northern Venezuela saw a smaller doublet last year; the Türkiye-Syria earthquakes of 2023, which killed over 55,000 people, were of the same provenance. Their shallowness — under 30 kilometres — drove the fury straight into the streets above. The USGS has flagged a plausible toll exceeding 10,000, and the past is proof that such fears are likely to bear out rather than be refuted.
-
-India, which has already offered help, should make relief its first duty — search teams, medical supplies, and the unglamorous logistics of a disaster zone. But there is a lesson here that it ought not to file away and forget. This year the Bureau of Indian Standards withdrew a decade’s worth of commissioned work that found seismic hazard along the Himalayan front badly underestimated — a revision that nearly doubled design forces in the highest zones and added a sixth zone to a map that stopped at five. It was shelved after a Cabinet Secretariat order warned the standards “materially affected” ongoing infrastructure, metro projects among them. India’s Zone V still designs for 0.36g, where g measures for how much the ground can shake. Pakistan and Nepal, on the same colliding front, reckon on nearly 0.75g, the United States and Japan on a full g or more. Nearly 79% of Indians live under moderate to severe seismic threat, and 95% of earthquake deaths occur in the one- to three-storey houses that no code ever reaches. Venezuela is a portent of the implicit danger that exists. The science of prediction will remain, for the foreseeable future, hope filling the gaps of uncertainty. What can be done is build structures that hold and keep their inhabitants safe. The earth follows its rhythm; the only choice is whether or not to be ready.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/tragic-evening-on-the-earthquake-in-venezuela/article71150773.ece)
-
----
-
-### Whites on green: On Wimbledon 2026
-*The Hindu · Editorial*
-
-No tournament marries old world charm with new age freshness quite like Wimbledon. This will be on display yet again when the year’s third Major gets underway on Monday. If the pristine grass courts and all-white attire are reminders of tennis’s origins and traditions, the introduction of video review technology from 2026 is the latest example of the event marching with the times. Another throwback to the old days will be the return of Serena Williams, a seven-time singles champion at the All England Club. She is 44, and has not played competitively in nearly four years, but appears leaner and fitter, thanks in large measure to modern-day weight-reduction medication. The legendary American is a wildcard entrant in doubles as well, where she will partner her illustrious sister and five-time Wimbledon singles winner Venus, with the duo looking for their seventh doubles crown at SW19. But unranked as Serena is, the probability of meeting high-profile opponents from the get-go is high. Women’s tennis is also a crowded market-place, with as many as five Slam champions and three others with runner-up finishes among the top-10 seeds. Chief among them are World No. 1 Aryna Sabalenka, 2022 winner Elena Rybakina, defending champion Iga Swiatek and the teenaged Mirra Andreeva, who clinched her maiden Major at Roland-Garros recently.
-
-The men’s section will be equally intriguing. Carlos Alcaraz, a two-time Wimbledon titlist and a fan-favourite in south-west London, is absent because of a wrist injury. Reigning champion Jannik Sinner suffered a dispiriting second-round loss at the French Open and has had no competitive matches since then. The defeat in Paris came under extremely hot conditions, and with western Europe in the midst of a heatwave, it will be interesting to see how the Italian World No. 1 copes. Second seed Alexander Zverev will look to cash in, like he did at Roland-Garros, but grass is his weakest surface. This presents Novak Djokovic with his best chance to claim a record-extending 25th Slam. At 39, the lush green lawn is where the Serb is most comfortable. With four trophies, two finals and one semifinal appearance in his last seven visits to Wimbledon, he is also the most pedigreed. However, for a second straight Major, there is likely to be an unpleasant backdrop with leading players set to expand their protest at what they deem as an inadequate increase in prize money (less than 22% of the tournament revenue). Actions at the biggest competitions do garner attention but they also benefit the elite players more than the rank and file. Tennis needs an equitable solution for the betterment of all. If the argument of the top players is that the organisers keep most of the revenue, then it can also be said that they earn disproportionately more than their lower-ranked peers. The gap between the haves and have-nots is only widening.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/whites-on-green-on-wimbledon-2026/article71150801.ece)
-
----
-
-### The cracks beneath the peddled story of India’s growth
-*The Hindu · Opinion*
-
-For over a decade, the Narendra Modi government has projected India as the world’s fastest-growing major economy, an emerging manufacturing hub, a Vishwaguru, a global power, a preferred destination for global capital, and a Viksit Bharat on track for 2047. Yet, behind this carefully crafted narrative lies a more troubling reality. The economy faces multiple external shocks while carrying deep structural weaknesses that threaten its long-term prospects.
-
-The warning signs are unmistakable. But instead of addressing them, the ruling establishment appears more focused on manufactured controversies, communal polarisation and divisive politics. As television studios debate temples, mosques, medieval rulers and invented enemies, the economy’s foundations continue to weaken.
-
-Imported energy, growing risksThe most immediate challenge is India’s growing vulnerability to external shocks. The country imports nearly 90% of its crude oil and about half of its natural gas requirements. Every rise in global energy prices is quickly transmitted to the domestic economy. The recent rise in fuel prices underscores a stark reality: despite the rhetoric of renewable energy, self-reliance and global leadership, India remains heavily dependent on imported energy.
-
-The consequences are severe. Rising oil and liquefied natural gas prices widen the trade deficit, weaken the rupee and raise production costs across the economy. In FY2025-26, the Reserve Bank of India sold over $53 billion in the foreign exchange market to support the rupee — its largest intervention in more than a decade. Foreign exchange reserves have fallen from over $720 billion to around $681 billion. An economy with strong fundamentals should not have to spend such vast sums merely to slow its currency’s decline. The issue is politically significant as well. Narendra Modi, as Gujarat Chief Minister, often linked the rupee’s value to national pride. Today, despite that rhetoric, the rupee has fallen to a historic low of about ₹95 against the U.S. dollar.
-
-Compounding the problem is the uncertainty surrounding fertilizers and agriculture. Again, India’s apparent strength in manufacturing fertilizers masks a dangerous vulnerability. Domestic urea production depends heavily on imported LNG. Almost all the fertilizers India produce are linked to heavy imports such as LNG and potash. Any disruption in global gas supplies, any sharp increase in LNG prices or supply chain disruption immediately threatens fertilizer availability and affordability.
-
-The challenge is compounded by the monsoon outlook. A weak monsoon affects far more than agriculture. Lower crop yields reduce rural incomes, weaken consumption, fuel food inflation. They also increase the need for government spending on relief, procurement and subsidies, which is unlikely under the Bharatiya Janata Party’s rule. These risks reinforce one another. Rising fuel costs, expensive fertilizers and a weak monsoon together create a vicious cycle that suppresses demand when the economy needs stronger domestic consumption.
-
-Weakening rural safety netsA responsible government would respond by strengthening employment guarantees and social protection. Instead, the Modi government abolished the Planning Commission and has steadily weakened MGNREGA, one of the country’s most effective rural safety nets. As a result, millions of rural households now face greater economic uncertainty with fewer protections than they had a decade ago.
-
-Beyond these immediate pressures lies a deeper structural concern. India’s external sector remains heavily dependent on services exports and remittances. The record $135 billion in remittances received in FY2024-25 has been a key factor in financing the current account deficit.
-
-Even this strength carries a warning. Increasingly, India’s remittances come not from migrant workers in West Asia but from highly skilled professionals in the United States, the United Kingdom and other advanced economies. The rise of right-wing politics and anti-immigration sentiment — championed by leaders such as U.S. President Donald Trump and echoed across much of the West — poses a growing threat to this model. At the same time, artificial intelligence (AI) is transforming software, data processing and other professional services in which Indian workers have traditionally excelled.
-
-The danger is not that remittances will disappear overnight, but that one of the pillars supporting India’s external balance could gradually weaken. If remittance growth slows while energy imports remain high, pressure on the current account and the rupee will intensify.
-
-International investors are already turning cautious. Foreign portfolio investors have withdrawn over ₹2.2 lakh crore from Indian equities this year, while India has slipped from sixth to seventh in global market-capitalisation rankings. Domestic retail investors have limited the damage, but the message is clear: global investors are becoming less convinced by India’s growth story.
-
-Even more worrying is India’s position in the technological transformation currently reshaping the global economy. Mr. Modi’s hollow guarantees have not only weakened what was built earlier but also his diversionary politics has prevented a discussion on what the future would be like and what India’s role in it would be.
-
-The 21st century will be defined by AI, semiconductors, advanced manufacturing, robotics and frontier science. Yet, India remains largely absent from these strategic sectors. Although the country has a vibrant startup ecosystem, much of it is concentrated in digital intermediation rather than technological innovation. Food delivery, ride-hailing and quick-commerce platforms may create high valuations, but they do not build technological sovereignty. Many of India’s celebrated startups still depend on organising abundant low-cost labour through digital platforms rather than developing globally competitive technologies.
-
-The contrast with global leaders here is striking. Taiwan dominates advanced semiconductor manufacturing through TSMC. South Korea commands critical positions through Samsung. The U.S. and China lead in AI, advanced chips and foundational technologies. India possesses immense engineering talent but remains heavily dependent on imported semiconductors, imported technology and imported capital equipment. Despite years of slogans about innovation and self-reliance, the country remains a marginal player in the industries that will define the future.
-
-Scant transformationThis is perhaps the most serious indictment of the Modi decade. The promised manufacturing revolution has not materialised. The demographic dividend remains unutilised. Millions of young people continue to confront precarious employment, stagnant wages and shrinking opportunities.
-
-Every failure has been passed on to ordinary people with a dose of hyper-nationalism. Wealth and opportunity continue to concentrate in fewer hands. The burden is socialised; the benefits are privatised.
-
-Electoral victories should not be mistaken for economic success. A government can win elections while pursuing policies that weaken the long-term foundations of economic development.
-
-The tragedy of contemporary India is that while the economy sends increasingly urgent distress signals, public attention is repeatedly diverted towards communal polarisation and manufactured controversies. Citizens are encouraged to fear one another rather than question policies that affect their livelihoods.
-
-India possesses the resources, talent and productive capacity to chart a different path. But doing so requires confronting the policies that have brought the country to this point. It requires defending public investment, strengthening social protection, rebuilding employment generation, investing in science and technology, reducing external dependence and restoring economic priorities to the centre of public life.
-
-Above all, it requires a resolute and united struggle against policies that enrich a few corporates while burdening millions with poverty. The choice before the country is stark: continue down the present path of division and economic fragility, or build a broad democratic movement with left-of-centre economics, capable of defending livelihoods, jobs and the future itself. The time to wake up is now, before it is too late.
-
-D. Raja is General Secretary, Communist Party of India (CPI)
-
-[Read full article](https://www.thehindu.com/opinion/lead/the-cracks-beneath-the-peddled-story-of-indias-growth/article71151549.ece)
-
----
-
-### Anita Anand | How More Indians Are Feeling Lonely: Is There Anything That Can Be Done?
-*Deccan Chronicle · Opinion*
-
-Every now and then, we all feel lonely and sad. Why does this happen, and what does it mean for us, as individuals and as a society?
-
-Loneliness is an unpleasant emotional response to perceived or actual isolation, as social pain, and a psychological mechanism that motivates individuals to seek social connections. It can be caused by multiple interrelated factors, including genetic inheritance, cultural influences, a lack of meaningful relationships, a significant loss, an excessive reliance on passive technologies (particularly the Internet in the 21st century), and a self-perpetuating mindset.
-
-Research shows that loneliness is pervasive in society, affecting people in marriages, in other strong relationships, and those with successful careers. Most people experience loneliness at some point in their lives, and some experience it frequently.
-
-In 2018, more than 46,000 volunteers from 237 countries, aged 16 to 99, participated in the BBC Loneliness Experiment, making it the most diverse study in loneliness research at the time. The study found that 40% of people aged 16-24 and 27% of those aged 75 and over reported feeling lonely. Middle-aged people were lonelier than older people, and young people were lonelier than middle-aged people. Men reported loneliness more often than women.
-
-People living in individualistic societies (such as the United States), where individual success is an important life goal, reported more frequent loneliness than those in more collectivistic societies (such as Guatemala), where the needs and goals of a larger group, such as the family, are prioritised over individual success. This effect was stronger among men and older people.
-
-We often think of loneliness as a problem affecting people who live alone, have few friends, or lack social interaction. But a new global study suggests that the reality is far more complex.
-
-Despite a world connected by smartphones, social media, instant messaging, and video calls, millions still struggle with isolation and emotional emptiness.
-
-The 2026 Global Loneliness Study, published by the digital platform JB.com and conducted across 36 countries, ranked countries on parameters such as loneliness, isolation, sadness, and household composition. The worrying finding: some of the most socially connected societies are experiencing significant emotional disconnection.
-
-One such example is India, known for its family-oriented culture, multi-generational households, and strong community traditions, which prides itself on its core belief in family structures. Yet, it ranked as the second loneliest country in the world and scored significantly higher on the loneliness index than typically individualistic Western societies such as Canada.
-
-According to the JB.com study, India recorded a loneliness score of 89 out of 100, trailing Turkey, which topped the list with 100. The report found that nearly 58% of Indians experience loneliness, while 34% of respondents felt isolated. Furthermore, 37% of Indians answered “yes” when asked whether they felt “frequently sad”.
-
-Loneliness and sadness often reinforce each other. People who feel disconnected may experience emotional distress, while those struggling emotionally may find it harder to maintain meaningful relationships. Loneliness is increasingly recognised as a key factor in overall well-being and mental health.
-
-Experts who prepared the report noted that loneliness in India is emotional rather than physical, given that the average family size in the country is at least four people. This raises the question: why is India still so lonely?
-
-The Swiss psychiatrist and psychoanalyst Carl Jung viewed loneliness not as the absence of people, but as the inability to communicate what truly matters to oneself. He emphasised that loneliness arises from emotional disconnection rather than physical isolation. A person can be surrounded by friends, family or colleagues and still feel profoundly alone if they cannot express their inner thoughts, feelings, or beliefs that are important to them, or if those beliefs are not accepted by others.
-
-Over the last three decades, across classes, Indian society has witnessed a gradual shift from the family as the central core of existence to greater individualisation. Young people want to follow their passion rather than live out their parents’ and their family’s expectations. Often economically and emotionally dependent on their parents, they feel responsible for their elders, often at the expense of their own aspirations. This creates a chasm in their personalities.
-
-Additionally, hierarchical and patriarchal family structures do not allow for genuine communication across generations beyond a superficial level. Young and old alike feel judged and withdraw, leading to sadness and loneliness.
-
-Jung believed that healing loneliness involves learning to communicate what matters most.
-
-This requires self-reflection, which means identifying thoughts, feelings, and truths that remain...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/anita-anand-how-more-indians-are-feeling-lonely-is-there-anything-that-can-be-done-1966723)
-
----
-
-### Manish Tewari | How Close Was Iran To A Nuclear Bomb?
-*Deccan Chronicle · Opinion*
-
-How close was Iran to a nuclear bomb when the US and Israel decided to bomb it in June 2025 and then again February 2026 onwards? Was it yet another red herring like myriad others before this over the course of the United States’ tortured and convoluted history in the Middle East and Israel’s forever wars in the region since 1948?
-
-Alternatively, was it an attempt to nip in the bud, preemptively proscribe, a portentous situation that could have ominously manifested itself in the not-too-distant future?
-
-In a report published on the website scientificamerican.com 11 days after the US-Israel attack, Jeffery Lewis, director of the James Martin Centre for Non-proliferation Studies and a professor at the Middlebury Institute of International Studies, was quoted as saying, “There was no evidence that Iran was close to a nuclear weapon.”
-
-His observations were endorsed by other independent experts. These assessments are broadly in sync with the earlier determination of the International Atomic Energy Agency (IAEA) in June 2025.
-
-These assessments were also concurred by periodic estimates of
-
-US intelligence agencies too, according to open-source reporting on the Iranian Nuclear conundrum.
-
-An IAEA estimate of June 2025 suggested that Iran possessed 441 kilograms of 60 per cent enriched uranium, where the percentage refers to the share of the isotope uranium 235 (U-235) found in the material. That material
-
-could be enough for ten
-
-nuclear weapons if it could
-
-be enriched further to full ninety percent weapons-grade concentrations.
-
-Moreover, a 90% enrichment is easier said than done and even if achieved still does not constitute a “breakout situation” because Iran would have had to secure and enrich the gas to 90% in centrifuges, extract and chemically segregate it back to solid uranium, then cast it into spheres of uranium metal, and finally craft explosive devices around it.
-
-That further enrichment could perhaps have happened in a “matter of weeks” provided Iran had a fully operational nuclear industrial complex which clearly was not the case even back in June 2025 courtesy the stiff sanctions imposed on Iran going all the way back to 1979.
-
-To recap a bit of history, Iran has been pursuing a nuclear quest since 1957 thanks to the Atoms for Peace programme of US President Eisenhower. This was back in the day when Iran was an American ally during the reign of Shah Reza Mohmmad Pahlavi. The Shah was toppled in the 1979 Islamic Revolution and the following year on September 22, 1980, Saddam Hussein-ruled Iraq invaded Iran.
-
-Over the next decade, an entire generation of Iranian strategic thinkers internalised a very vital strategic lesson as the West supplied weapons to Iraq and global organisations including the United Nations turned a Nelson’s eye as Saddam Hussein unleashed chemical and other sophisticated weapons on Iranian troops and civilians.
-
-The learning was that as long as long as Iran lacked nuclear weapons, any dictator in the neighbourhood or a hegemon far away could transgress upon its sovereignty. Thus began Iran’s clandestine march for
-
-nuclear weapons to acquire that strategic autonomy and a credible deterrent .
-
-This is where the Pakistan connection came in. A.Q. Khan, who lorded it over the “Walmart of Nuclear Proliferation” started supplying nuclear material to Pakistan. This Pakistani-Iranian nuclear relationship had the consent and blessings of the then Pakistani military dictator, Gen. Zia-ul-Haq, and his military successors, a fact publicly confirmed by former Iranian President Akbar Hashemi Rafsanjani in 2015.
-
-The Pakistani military, in turn, successfully kept successive civilian governments in the dark about this dynamic. Prime Minister Benazir Bhutto stumbled upon this by chance when Mr Rafsanjani asked her to confirm the agreement between the two countries on “special defence matters” during a visit to Tehran in 1989. By that time scores of Iranian scientists had already been trained in various institutes in Pakistan.
-
-On August 14, 2002, National Council of Resistance of Iran, an umbrella organisation consisting of Iranian dissident groups, made public the location of two nuclear sites that Iran had ostensibly concealed from the IAEA, thereby triggering a perennial endeavour to cap Iranian nuclear capability. The current round is the latest episode in that saga.
-
-However, it still does not provide an answer to the question posed earlier: Exactly how many screw turns and months or years away is/was Iran from a usable nuclear device capable of being delivered from a plane or mated to a missile delivery system?
-
-This question becomes all the more germane because of another red herring that became the cause celebre for the 2003 American Invasion of Iraq. On September 12, 2002, the then US President George W. Bush told the United Nations General Assembly (UNGA) to cull Iraq’s decade of defiance to UN demands. On February 5, 2003, US secretary of state Colin Powell briefed the...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/manish-tewari-how-close-was-iran-to-a-nuclear-bomb-1966737)
-
----
-
-### Ranjona Banerji | 27, Don’t Be Scared Of 70!
-*Deccan Chronicle · Opinion*
-
-“Can you imagine us years from today/Sharing a park bench quietly?/How terribly strange to be 70.” Paul Simon and Art Garfunkel’s album Bookends, which contains the song ‘Old Friends’, was released in 1968. They were 27 at the time. At 27, anything above 40 seems terribly strange and old. That’s the age of your grandparents.
-
-Which is why these old friends are sitting on park benches, surrounded by flying newspapers, dust, sunset and a city trembling all around but far away from them.
-
-That’s how much things have changed from 1968.
-
-At 70 today, you might still be working, in some form or manner. You probably ought to be doing something, not just believing rubbish on the Internet and forwarded to your phone. If so many of the global politicians who rule our lives and make us miserable can be over 70, no reason for the average citizen not to be out and about as well. Not making everyone miserable, obviously. There are better things to do.
-
-The first is to break the old mould of the old person. The knitting grandma, soft and cuddly. The pipe-smoking grandpa, gruff but find. Across cultures there are variations of this trope. Which used to be sort of true at some point in time. But today’s 70-year-olds are the Internet generation. Tim Berners-Lee who invented the World Wide Web is 71. Today, anyone with a smartphone, regardless of their age, uses the Internet.
-
-But this is not a lecture. I should start where I wanted to start. With a story. A story about how you can rediscover friends, as you grow older and as your life settles down to new routines. So many, caught in the large net of life, family, work, obligations, lose touch with those first friends who saw you through your early days. Who knew your first grazed knee and wiped the tears caused by first crush. Old friends, in fact.
-
-There are so many stories of how old school friends have found each other, often through social media platforms. And it happened a bit like that for me as well. Some of us met after years, since we left school over 40 years ago. And for some of us, it was like we had never been apart. We picked up where we left off. Gathering threads, retelling stories, laughing uncontrollably and sharing the life we had lived in the interim.
-
-There is a comfort like no other in old friends. They’ve seen you shine and at your most vulnerable. There is the mutual contempt for the bad teachers, and the recounting of all the crazy things teachers did to us and we did to them. No one else can understand those tales and there’re not half as funny without context and the feeling of being there.
-
-Some of us travel together, a perk of growing older and being free of responsibility. It’s wonderful the way we all find our levels. A massive plan of endless sightseeing sounds exciting when you make and frighteningly tiring as you get closer to setting your alarm for some unearthly hour. Not all grandmas like to wake up at the crack of dawn any more. Maybe they never did and just had to be forced to conform to stereotypes. Mine hated waking up early, actually.
-
-So as the thrill of ancient architecture wanes and one fantastic sculpture starts to merge into every other, you offset the history lesson with a little retail therapy. Suddenly, no one’s that tired anymore and even the person who swore they’d never buy anything has succumbed. A busy day turns into a long evening of food and conversation. Comforting and sustaining, till you have to get back to the real world.
-
-If you’ve not yet remade these old connections, don’t leave it too late. Although, on the other hand, my late father, when he was in his 80s, reconnected with friends from his bachelor days, when they had all started working and used to share rooms and chummeries. The gales of laughter as they looked back on the vagaries of youth were enough to thrill even the stoniest heart. So, maybe any time is a good time.
-
-Let’s not forget new old friends, who seem like you’ve known them all your life. These too add to the spice of your life and you can give two hoots to anyone who thinks you’re too old to have fun. That’s another form of comfort, where you just fit into the crannies and edges of each other’s life. And make new discoveries about each other and yourselves, without the burden of old encrusted preconceived notions.
-
-I do have one friend though, my closest, and she’s not given to large group outings and hectic holidays. We planned together our old age as bookends, sitting on our park bench like the song says. The trouble was when we embarked upon it some 15 years ago, we laughed at the older people in the park until we realised they were all younger than us. It was an eye-opener even though we laughed even more. Judgmental of us it was, because our dress sense had not yet matched our age. Even if our hair and wrinkles gave us away!
-
-So maybe she and I will find ourselves “silently sharing the same fears”. Although neither she nor I are very silent. And while 70 is not that far away...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/ranjona-banerji-27-dont-be-scared-of-70-1966730)
-
----
-
-### Rule of compliance: Amend, restrain
-*Deccan Herald · Editorial*
-
-The amendment to the Foreign Contribution (Regulation) Act [FCRA] rules, notified by the Union government this week, has made the law’s provisions more stringent, constraining the activities of NGOs and other organisations that fall under the law’s purview.
-
-This is the 10th amendment to these rules since 2011. Questions arise on the risks of repeated amendments altering the law’s character and eventually diluting its original purpose. Earlier this year, the government brought forward an FCRA Amendment Bill ahead of Assembly elections in some states, but shelved it following public criticism, especially from minorities groups. The question of legislative propriety is relevant, given that the latest amendment is seen as a revival of this aborted intent.
-
-According to the new rules, all associations seeking foreign funding must register for a specific field of work, ending the broad permissions previously available under the law. NGOs are now required to disclose their social media accounts, websites, publications, and other activities, significantly expanding the obligations of compliance. While foreign contributions may still support social, educational, religious, economic, and cultural programmes, organisations must clearly specify both the purpose and location of fund utilisation; violations attract penalties. The rules identify 105 permitted activities but do not specifically include health, despite it being a major area of work for many NGOs. While religious education, documentation of faith traditions, and preservation of indigenous beliefs remain permissible, proselytisation is prohibited. Minority organisations fear that legitimate religious or cultural activities could nevertheless be interpreted as attempts at conversion, exposing them to scrutiny. By confining organisations to narrowly defined fields, the regulations may force many to curtail their work or seek multiple registrations, increasing costs without guaranteeing approval. Mandatory disclosure of publications is seen as restricting freedom of expression and undermining an organisation's right to communicate its work.
-
-The cumulative impact of these restrictions is to shrink the operational space of NGOs while raising the risk of penalties for actions that authorities may interpret as rule violations. The regulations also grant the government greater scope to monitor, influence, and potentially control the functioning of civil society organisations. Critics fear the rules could extend beyond minority organisations to target citizen rights groups, environmental organisations, research institutions, and other bodies that challenge official policies. The broad scope for interpretation raises concerns that dissent and criticism may be selectively suppressed. Reflecting these anxieties over the amended rules, some Christian organisations have called for June 28 to be observed as a Day of Prayer.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/rule-of-compliance-amend-restrain-4053600)
-
----
-
-### Step one on the promised path
-*Deccan Herald · Editorial*
-
-Bengaluru Development Minister Krishna Byre Gowda’s announcement of a city-wide ‘Safe Footpath Campaign’ beginning on July 1 is a long-overdue intervention. In a city where pedestrians are treated as an afterthought, the decision to reclaim footpaths and prioritise walking infrastructure addresses one of Bengaluru’s most neglected civic concerns. Footpaths are not a luxury. They are a basic component of urban life and a fundamental right. Every day, thousands of schoolchildren, senior citizens, office-goers, and ordinary residents are forced onto busy roads because pavements are broken, encroached upon or converted into parking lots.
-
-The consequences are visible: pedestrians account for nearly 30% of Bengaluru’s annual road fatalities. The government’s focus on clearing encroachments, towing vehicles parked on walkways, and repairing damaged pavements along 2,000 kilometres of major roads is, therefore, both necessary and overdue. The allocation of Rs 70 crore to fix uneven surfaces, broken slabs, and other structural deficiencies is equally welcome. If implemented sincerely, these measures could significantly improve safety and restore a measure of dignity to daily commuting. Yet Bengalureans have reasons to remain sceptical. Successive governments have unveiled grand visions of transforming Bengaluru into a global metropolis while failing to provide basic civic infrastructure. Residents no longer seek futuristic dreams; they simply want footpaths they can walk on, roads free of potholes, efficient garbage collection, and streets that do not flood after every heavy shower. If Byre Gowda succeeds in ensuring uninterrupted, safe, and accessible footpaths, citizens will gladly judge the campaign a success. The public must also become active participants. Authorities should establish a dedicated platform through which residents can upload photographs and videos of broken pavements, illegal parking, construction debris, and other obstructions. Citizen monitoring can help officials quickly identify problem areas.
-
-Street vendors may pose the toughest challenge. Previous clearance drives failed because authorities often neglected the requirements of the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014. Any lasting solution must balance pedestrians’ rights with vendors’ livelihoods through surveys, Town Vending Committees, and demarcated vending zones. Without legal rehabilitation mechanisms, eviction drives are unlikely to endure. The true test of the ‘Safe Footpath Campaign’ will be its longevity. Bengaluru’s pedestrians have heard enough promises. They now deserve results.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/step-one-on-the-promised-path-4053595)
-
----
-
-### Clothe the law, not the statue: Why 'Modesty of a Woman' must go
-*Deccan Herald · Opinion*
-
-In a Class 9 arts textbook, the National Council of Educational Research and Training (NCERT) presented students with a familiar image. The Dancing Girl of Mohenjo-daro from approximately 4,500 years ago appeared with her torso shaded from the shoulders downward, her nudity covered, her body effectively clothed.
-
-The backlash was swift. Historians called it censorship. NCERT, to its credit, reversed the decision. But the reversal does not undo the meaning of the act. Someone, at some institutional level, looked at a pre-Vedic civilisational artefact and decided that its nude female form required covering. No policy was cited. No explanation was offered. The instinct simply operated, but the law has a name for this instinct. It is called “modesty of a woman”.
-
-The phrase entered criminal law through the Indian Penal Code (IPC) of 1860, which penalised the “outraging” of a woman’s modesty without defining the term. Courts filled the gap by treating modesty as a natural feminine attribute requiring no elaboration. In practice, the protectable woman was implicitly upper-caste, middle-class, domestically confined, and behaviourally deferential. Women outside this norm found their claims to protection structurally weakened by the very framework that claimed to protect them.
-
-When Parliament enacted the Bharatiya Nyaya Sanhita (BNS) in 2023, it was presented as a historic rupture with colonial criminal law. BNS Section 79 penalises actions intended to insult the “modesty of a woman”. The language is almost verbatim from the IPC. The colonial concept survived the decolonising reform. This is not a minor drafting oversight. It is a substantive failure.
-
-The NCERT episode illustrates this framework’s logical endpoint. The Dancing Girl was made in a time that predates the textual traditions of female modesty as a Brahminical virtue and the Victorian sexual morality carried in the IPC. She stands in a posture that the archaeologist who named her in 1926 associated with nautch girls: professional female entertainers who, in the colonial-Brahminical social order of their time, occupied the category of the “immodest woman”. The naming was itself an act of gendered-colonial classification, projecting anachronistic social hierarchy onto an object.
-
-To now clothe her – in textbooks, in 2026 – is to extend the modesty framework across four and a half millennia, to a time and place where it may not have existed. The absurdity of this move is the argument: when a legal-cultural reflex reaches back across millennia to dress a statue, it reveals its incoherence.
-
-Consider the recent invocation of Sections 75 and 79 of the BNS, that is, sexual harassment and intent to insult the modesty of a woman, in connection with social media posts describing women journalists as prostitutes.
-
-Here, publicly visible and professionally assertive women are reaching for the “modesty” provision because it is the closest available instrument to what they need: a legal recognition that their dignity as persons – not their conformity to behavioural norms – has been violated. The modesty framework cannot deliver this. Modesty, as constructed in the law, is precisely what women who refuse domestic confinement are presumed to lack. To invoke it against those who publicly degrade them is to use a framework against its own logic.
-
-Protection by hierarchy
-
-This is not a new problem. In 1979, in the Mathura rape case, the Supreme Court infamously held that a young Adivasi woman's prior sexual history rendered her consent to intercourse with two policemen plausible (Tukaram v. State of Maharashtra). The Court's reasoning reproduced the modesty framework's deepest assumption: that a woman already classified as immodest has no further modesty to protect.
-
-In its landmark decisions, such as Navtej Singh Johar (2018), the Supreme Court has progressively articulated dignity as a constitutional value – one that belongs to the person and cannot be made conditional on behavioural conformity. Dignity does not require a woman to be modest to be protectable.
-
-The law reform argument is, therefore, not merely that modesty is a colonial residue. It is that the concept actively produces a hierarchy of protectable and unprotectable women. Women who conform to the Brahminical-Victorian template of femininity receive its protection. Women who do not – by virtue of caste, profession, gender non-conformity, or simply the refusal to be silent – are disadvantaged by the very provision that claims to protect them.
-
-Replacing modesty with dignity is a fundamental change in the kind of subject the law recognises as deserving protection. The BNS had the opportunity to make that change in 2023. It did not. The next reform effort must.
-
-(The writer is a professor of law at the Jindal Global University)
-
-[Read full article](https://www.deccanherald.com/opinion/clothe-the-law-not-the-statue-why-modesty-of-a-woman-must-go-4053596)
 
 ---
 
