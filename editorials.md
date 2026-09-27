@@ -1,8 +1,101 @@
 # Editorials
 
-_Last updated: 2026-09-26 06:30 UTC_
+_Last updated: 2026-09-27 06:57 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
+
+## 27 September 2026
+
+### Can dominant firms still offer discounts? Supreme Court’s Schott ruling explained
+*Deccan Herald · Opinion*
+
+In the 1980s, philosopher Michael Walzer published a book titled Spheres of Justice. One of its many provocative ideas was that a person’s dominance in one sphere (say, acquisition of wealth) was by itself not very significant; it’s the use of domination in one sphere (wealth) to dominate other spheres (say, politics) that was problematic. I am reminded of this whenever I see cases in competition law.
+
+The public perception of competition law in India is still based on the old Monopolies and Restrictive Trade Practices (MRTP) Act that regulated businesses in the country before liberalisation. The MRTP Act treated corporate domination of an industry as suspect in itself, whereas the new Competition Act, 2002, has a more nuanced approach towards dominance. One of its primary concerns is abuse of dominance. The question of when dominance becomes abusive was in contention in the Supreme Court case of Competition Commission of India v. Schott Glass India Pvt Ltd, decided last year.
+
+Schott supplied glass tubes to businesses called converters who, in turn, transformed these tubes into containers (ampoules, vials, cartridges, and syringes) for the pharmaceutical industry. Schott, a major player in the tubing sector, entered the downstream converter market through a 50% joint venture with another Indian entity. Schott started giving discounts on bulk orders to its customers, including its JV partner, under a separate agreement between the two firms.
+
+Performance first: A real measure of public monopolyThe other converter companies were alarmed by the development – their main grouse was that the JV company was receiving special treatment and they were being crowded out of the market. Through a long appeals process, the case reached the Supreme Court, which decided in favour of Schott, while laying down some clear markers of competition law.
+
+Indian competition law legislation recognises abuse of a dominant position as a key requirement for the law to apply. The statute gives certain examples of abusive dominance, such as discriminatory discounts (for example, discounts to favoured suppliers), or using power in one market to muscle into another. The Supreme Court considered these examples as illustrative of an important economic philosophy that it put forth in this manner: “On the one hand, markets must remain contestable: no undertaking may extinguish rivalry by stratagems foreign to fair, merit-based competition. On the other hand, genuine achievement, whether expressed in scale, efficiency, or technological advance, must be rewarded and not punished, for it is the impetus for investment, innovation, and consumer welfare. The Competition Act, 2002, is the charter that secures both pledges.”
+
+In the Schott case, the Supreme Court balanced the principles stated above by asking if the bulk discounts and additional discounts provided to the JV company were discriminatory in effect. It concluded that since the other converters had the option to avail the discounts, and virtually all the converters improved their profitability rather than being adversely harmed by the discounts, there was dominance but not abuse of dominance. Most importantly, the Court considered the JV company as an independent entity and not part of Schott. It concluded by stating that “Competition law is not designed to humble the successful or to clip the wings of enterprises that have, through industry and innovation, secured a commanding share of the market.”
+
+A roly-poly doll, Russian chocolate and a market test in New DelhiIn reaching its decision, the Supreme Court made two important observations. First, competition law is not interested in the conduct per se of dominant enterprises but the effects of such conduct. There is no point targeting supposedly dodgy business practices unless these practices have resulted in a stifling of competition. This sounds like an obvious point, but until this decision, there was some doubt about whether anti-competitive regulation focused on conduct or its effect. However, effects-based regulation is more difficult to prove, especially when we move beyond the more obvious practices of discriminatory rebates or predatory pricing. The jurisprudence on effects-based regulation is sure to develop further.
+
+Second, since competition law is applied by the Competition Commission of India, headed by bureaucrats, the Court made it clear that the normal rules of natural justice will apply. Schott was not allowed to cross-examine witnesses; this was especially galling since many of these witnesses were commercially opposed to the firm. The Supreme Court was of the opinion that this anomaly alone was enough to let Schott off the hook. Competition law draws the rights and responsibilities of firms in interesting ways. While every firm has the right to conduct its business with a view to dominating the market, it also has the responsibility to ensure that its practices do not unfairly stifle competitors. It’s this tightrope walk that makes this area of law interesting, both from a theoretical and a practical perspective.
+
+The writer is a law professor who thinks that the law is too important to be left to the lawyers.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/opinion/can-dominant-firms-still-offer-discounts-supreme-courts-schott-ruling-explained-4161126)
+
+---
+
+### Donald Trump-Xi Jinping meet: Little was achieved, but one big thing was avoided
+*Deccan Herald · Opinion*
+
+In the end, it felt like an anticlimax. The summit between the two most powerful men on the planet, US President Donald Trump and Chinese President Xi Jinping, flattered to deceive. Nothing much of substance was accomplished, but crucially, nothing got out of hand. That may have been the summit's most important achievement.
+
+First off, the power dynamics between the two men. It was hard not to think of Trump as the suitor and Xi Jinping as the person being wooed. Trump pulled out all the stops, including showing up at Joint Base Andrews to receive Xi Jinping personally. It is true that Trump had done the same thing with Russian President Putin, but the Chinese will perceive this as a non-reciprocal favour since Xi Jinping did not receive Trump at the airport when the latter met him in China in May.
+
+Second, the Chinese will interpret all of the above as the US now treating China as its sovereign equal. This is of enormous interest to Xi Jinping for his domestic audience back home.
+
+China, US should be partners, not rivals, President Xi Jinping says on arrival in WashingtonIn an extraordinary move, the Chinese Ambassador to the US, Xie Feng, in an op-ed published in the Chinese People's Daily ahead of the Trump-Xi Jinping meeting, stated bluntly that China's sovereignty, security and development interests cannot be compromised. He had specific advice for the American negotiators about four things that were "non-negotiable": the Taiwan question, democracy and human rights, the pathway to development and the fundamental right to development. This was unusual from a diplomatic perspective, especially since it came from a serving Chinese ambassador. This is an indication of how confident the Chinese were going into this meeting. And while details of the closed-door meeting are still trickling out, there is little doubt that the Chinese side will feel satisfied that their red lines, specified above, have been met in substantial measure.
+
+If trade was expected to occupy centre stage, the results were meagre. The existing tariff truce was merely extended by two months, thereby indicating that talks were either incomplete or infructuous. The Chinese may have committed to buying more soybeans (a promise made at the last summit meeting in May), but they are reportedly dragging their feet on the purchase of other agricultural products from the US. AI figured in the talks as expected, but fundamental differences remained in the way the two countries approached the issue. Xi Jinping stated that AI must eventually be controlled by humans, but this may also be a tactical move to slow down American advancement in this area. After all, China wants to catch up in this important tech battle. A dialogue appears to have been agreed upon, with early warning systems to be put in place to avoid catastrophic miscalculations.
+
+Trump says he does not want to 'integrate' with China on AIThe Chinese have made it clear that Taiwan is at the core of their interests. Xi urged prudence on the part of the US, even while warning of the "Thucydides trap". One litmus test will be whether or not Trump goes ahead with the $14 billion arms transfer to Taiwan, which will certainly draw a strong negative reaction from the Chinese. Indeed, Xi Jinping's attendance at the G20 summit meeting in Miami in December will partly hinge on this matter. Trump is under pressure from the Senate Democrats caucus, which called after the summit meeting for the arms package to be delivered to Taiwan as approved by Congress. Trump may also use this arms package as leverage to get China to put pressure on Iran for a deal.
+
+The Chinese readout attempted to define what it meant by "constructive strategic stability". There is mention of three tracks, as it were: the cooperation track, which includes trade; the healthy competition track, which includes things like AI; and the track comprising red lines, such as Taiwan — all of them finally leading to possible peace between the two countries. Easier said than done!
+
+Xi says US-China relationship will be one of strategic stabilityOne can be sure that the entire world was watching this summit meeting to draw appropriate conclusions about how to deal with the US and China. Europe, Japan and South Korea can be forgiven for thinking that the thing that matters most in dealing with the US is whether or not one has leverage. China has successfully demonstrated this by using its enormous advantage with regard to rare earths. It remains to be seen whether there was any deal in this regard. One thing seems clear: transatlantic allies must now cope with an aggressive China without the guarantee of the US necessarily rushing to their side. Europe will feel the heat much more than others.
+
+What then are the strategic implications for India? On the one hand, a long-term and permanent rapprochement between the US and China, something that looks improbable at this point, will diminish the strategic space available for India, at least vis-à-vis the US. On the other hand, it will equally enhance the strategic options that India may have with regard to Europe and other partners who may find the vital need to diversify their own risks.
+
+The Trump-Xi Jinping summit demonstrates a few home truths. There are two great powers with rough strategic parity in the global order, and then there are others. China is absolutely convinced that the US seeks to thwart what it considers its legitimate place in the comity of nations. China sees its own rise as unstoppable in this regard and is warning of a Thucydides trap if its core interests are threatened. That said, China knows it needs time to catch up and emerge as the pre-eminent power in the world, and wishes to avoid confrontation at this stage, a point reiterated by Xi Jinping to Trump. The trouble is that the US knows this as much as anyone else and is seeking to restrain China without provoking a conflict with it, not least because it is already stretched from a military perspective. The summit meeting portends the fact that this is a long game, and both sides will play it for the foreseeable future.
+
+The writer is a former Indian Ambassador to France and currently Dean/ Professor at OP Jindal Global University.
+
+(Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
+
+[Read full article](https://www.deccanherald.com/world/us/donald-trump-xi-jinping-meet-little-was-achieved-but-one-big-thing-was-avoided-4161173)
+
+---
+
+### Why is BJP in defensive mode?
+*The New Indian Express · Opinion*
+
+The BJP’s long advantage was never simply the vote. It was command of the argument. Prime Minister Narendra Modi’s popularity, a complete compendium of welfare and development medals, and his mighty machine faster than any rival’s facilitated the BJP decide what the country discussed. Around it grew a climate of sympathetic television, retired officials offering public praise, fading celebrities discovering sudden conviction and corporate voices that changed colour with the occupant of power. Criticism existed, but rarely set the terms.
+
+That mechanism wasn’t built for post-2014 India. Unlike the voters who rode the first Modi wave, the first-time voters today are driven by memes and algorithms; they have scant patience for sermons about Nehru or the pedigree of an expressway. They do not reject the past as much as they refuse to be moved by it either. Praise for the new dispensation, that once travelled as energy, has frozen.
+
+The reversal can be validated. A top judicial functionary likening unemployed young activists to cockroaches became, almost overnight, a name, a costume and a crowd. The Cockroach Janta Party began as a satire and then walked onto the street. The trigger was a leaked medical entrance test and the demand that the Union education minister resign.
+
+But the ammunition like an examination system that felt purchasable and a job market unable to absorb the graduates it certified. Satire achieved what conventional opposition briefings had not, turning an insult into a uniform and marching it to Jantar Mantar.
+
+The party’s first response was predictable one. For the BJP, the movement was a meme, a proxy, a passing pest. It still believed that the dialect worked against a dynastic opponent with a familiar surname. In reality, it died against students in insect masks quoting the Constitution and filming a classroom without a roof. Only after a protest camp, a hunger strike, a march on Parliament dispersed with tear gas and a Congress demonstration outside the Prime Minister’s residence did the government change course.
+
+Talks, a resignation, a tougher law on paper leaks and a purge at the testing agency followed. These were concessions extracted by pressure, not a communications triumph. Perhaps, during the past 12 years the party just forgot to encourage constructive and corrective disagreement to deal with the mobile-driven motivated crowd. Now its own allies are questioning the abominable demeanour of Chief Election Commissioner Gyanesh Kumar, a major source of embarrassment for the ruling party.
+
+A handful of ministers can still fight on this terrain. They occasionally concede a fact before disputing a motive. The party’s public faces just cannot. Too many spokespersons are late arrivals from other parties or from TV studios, who know how to shout. But fail to offer a logical counterpoint. Personal ridicule does not answer a 19-year-old who couldn’t appear in a competitive exam.
+
+Nor does a charge of bad faith answer draft electoral rolls from which a vast numbers of names have vanished, while reports of dissent within the commission itself spill into the open. The commission calls the revision hygiene; much of the young public hears an umpire leaning towards the government. Rather than looking at the system passionately, the BJP is defending the referee when it once chose the sport.
+
+The leadership has been slow to grasp this perceptive shift. For over 10 years, the charge against Rahul Gandhi was that he was not enough. The generation behind the CJP, with Congress hurrying to stand where the cameras already point has changed the indictment. Perhaps the BJP hadn’t geared itself to effectively win the battles of perception.
+
+The argument now concerns the institutions meant to guard the vote, the exam, the school and the promise of work. When those fail, young voters hear not a debate about 1955 or 1975, but serious damage done to the institutions that were supposed to give them a fair chance. Young India needs to know who will stand for a clean examination, a safe school, work that is more than a slogan, and an Election Commission that looks independent even to those who voted against the government.
+
+The party already holds a stronger favourable narrative than the one it deploys. Twenty-five years of the Prime Minister’s Executive life can be offered as unfinished service by a leader who will be judged by the next decade rather than embalmed by the last. Weak defence of a disreputable commission, a failing delivery system, a sycophantic bureaucracy and turncoats would only amplify the opposition’s noise. Such defence thrills a studio, but never reassures a young voter who suspects those who are demolishing institutions to retain their plum posts.
+
+The BJP can still win the war after losing small battles. It can’t be won through the imported spokesperson, but through the ideological foot-soldier. The BJP’s historic gift was the worker who knew the lane, the booth, the grievance and the face behind it. The cadre must set the environment and stop the leadership from asking the booth-worker to defend at a tea stall what cannot be defended in public. While in opposition, the BJP never waited to be handed an agenda. It turned inflation, graft and captured institutions into short public debate and forced the government to yield. Now the power has made it forget the craft. But the craft can be reclaimed without nostalgia or surrender.
+
+Rahul and the CJP did not invent this anger. They have simply been quicker to occupy the ground created by dissatisfaction. The BJP’s trouble is not a shortage of talent to invoke, but that invocation has replaced listening. Its loudspeakers still work; they no longer decide the pitch. Bliss, in politics, is the luxury of not learning. The BJP needs to adopt the humility to hear contrarian voices from within. The party can still seize the initiative on delivery, on reform and on institutions that look like institutions. If it chooses accusatory rebuttal alone, the blisters will teach the rest.
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/pc/2026/Sep/26/why-is-bjp-in-defensive-mode)
+
+---
 
 ## 26 September 2026
 
@@ -73,6 +166,97 @@ K. Ashok Vardhan Shetty is a retired IAS officer, a former Vice-Chancellor of th
 
 ---
 
+### Gyanesh Ouster Divides Opposition; Kanhaiya, Rahul Have A Falling Out
+*Deccan Chronicle · Opinion*
+
+The latest media revelations about the functioning of the Election Commission of India and the manner in which the Special Intensive Revision of electoral rolls is being conducted has set off a race among Opposition parties to organise protests and claim credit for the campaign. It was expected that the Congress, the Samajwadi Party and the Trinamul Congress would use the ammunition provided by the media expose to collectively demand the resignation of chief election commissioner Gyanesh Kumar. But the Opposition parties have shown no signs of battling it together. Instead of holding a meeting of the INDIA bloc parties to chart out a joint action plan, the Congress and the five Left parties have made separate announcements about their respective nationwide protest marches. The Samajwadi Party and the Trinamul Congress have yet to announce their plans. And now the Opposition has fresh competition with a new player throwing its hat in the ring. The fledgling Cockroach Janta Party, which has so far focused on student issues and the education sector, has shifted gears and is taking on the Election Commission. Its leaders have issued a 48-hour ultimatum for the CEC’s resignation failing which they will launch a nationwide agitation. The question is who will claim ownership of the outcome if Gyanesh Kumar does resign.
+
+He was known to be Congress leader Rahul Gandhi’s favourite but after the party’s defeat in the recent Delhi University Students’ Union election, Kanhaiya Kumar is no longer the blue-eyed boy that he once was. As AICC-in charge of the National Students Union of India, Mr Kumar is facing flak as he was responsible for the selection of candidates for the DUSU polls. He has also been working closely with Rahul Gandhi’s team in organising the Chhatron Ki Goonj events.
+
+According to Congress insiders, an angry Rahul Gandhi has decided to distance himself from Kanhaiya Kumar and the buzz is that he will no longer be involved in the forthcoming Chhatron Ki Goonj programmes. Besides being furious over the handling of the DUSU elections, Rahul Gandhi is also learnt to be uncomfortable sharing the stage with influencers and has made it known that he would rather that students are given preference.
+
+The Bharatiya Janata Party has always prided itself on its robust organisational structure and tradition of encouraging internal consultations. But, of late, the frequency of these intra-party deliberations has declined. For instance, a full meeting of the party’s national executive has not been convened since 2023 although its constitution stipulates that the body should ordinarily meet once every three months. The national executive is considered the party’s highest authority. Its meetings are attended by leaders from across the country, providing them a platform for collective deliberation on political and organisational matters. For instance, the last meeting, attended by over 300 senior leaders from the party’s state units, was held ahead of elections in nine state Assemblies and the 2024 Lok Sabha polls. It proved to be a useful exercise as the discussions and the various resolutions adopted provided a political direction to the participants. Several Assembly polls have been held since then and another set of state elections are due next year but there is no word on the long overdue meeting of the national executive. In fact, the BJP president is yet to constitute the national executive and the party’s parliamentary board.
+
+Senior Congress leader Digvijaya Singh has not been seen or heard in Delhi for some months as he is no longer a Rajya Sabha member and holds no position in the party. He has, however, been active in his home state Madhya Pradesh. Mr Singh now plans to undertake a padayatra from the Mahakal Temple in Ujjain to the Ram Temple in Ayodhya, starting October 20. Mr Singh maintains this is a “non-political” activity, meant to highlight the theft of donations at the Ram Temple. But there are few takers for this explanation as Mr Singh and politics are synonymous. Currently out in the cold, Mr Singh hopes to use the yatra to remain relevant with an eye on securing his son Jaivardhan Singh’s political future. Mr Singh appears to be following in the footsteps of his mentor Congress stalwart Arjun Singh who maintained that irrespective of what it takes, a politician must always remain in the news and never out of the public eye. Like his Narmada Yatra, Digvijaya Singh is clearly depending on his forthcoming foot march to ensure his visibility.
+
+Azad Samaj Party leader Chandra Shekhar Azad has made his base in Uttar Pradesh and is currently busy preparing for next year’s state Assembly elections. It was, therefore, intriguing to learn that he has been trying to get in touch with Tamil Nadu chief minister C. Joseph Vijay. His aides recently made discreet enquiries with Tamil journalists about the chief minister’s contact numbers and his office staff handling political appointments. It is not clear...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/gyanesh-ouster-divides-opposition-kanhaiya-rahul-have-a-falling-out-1990814)
+
+---
+
+### No Work, No Vote: The Power Voters Must Use
+*Deccan Chronicle · Opinion*
+
+Recently, during a visit to his constituency in Guna, Madhya Pradesh, a citizen stopped the convoy of Union minister Jyotiraditya Scindia and complained about a long-pending road. His demand did not invoke caste, religion, nationalism or any of the other vocabulary with which Indian politics is so adept at distracting attention from everyday governance. His simple message was: Build the road, or we will not vote for you.
+
+The viral video shows Mr Scindia objecting to the manner in which the demand was made and asking the citizen to make a request rather than threaten. Yet what happened almost immediately afterwards is revealing: an allocation of about Rs 3 crore for the road was announced, with instructions for the necessary process to be expedited.
+
+Mr Scindia is a long-standing friend of mine, a responsive public servant, and a competent minister. This incident is, therefore, not about him, but about the larger lesson to be derived from this incident. Moreover, one should not draw the simplistic conclusion that the road was sanctioned because of the threat. In fact, reports say that its DPR had been prepared. Mr Scindia’s intentions may, therefore, not be in question.
+
+But the episode nevertheless illustrates something fundamental about democracy which is applicable to all politicians and political parties: the voter is not a supplicant. The politician is not doing the citizen a personal favour by providing a road. The road is not charity. It is public expenditure, financed ultimately by the citizen. The elected representative is an intermediary between the public purse and the public good. The relationship should therefore be one of accountability, not gratitude.
+
+Yet, over time, we have created a political culture in which the citizen frequently approaches the politician with folded hands, as though asking for a favour, while the politician approaches the citizen at election time with folded hands asking for another five years of power. The Guna incident, therefore, raises a larger question: What would happen if Indians systematically adopted a simple principle — no work, no vote?
+
+Not as a slogan of anger. Not as a threat of violence. Not as partisan politics. But as a constitutional democratic instrument of accountability.
+
+Imagine a constituency in which citizens prepare a list of 10 basic commitments made by their representatives: the road, the drainage system, the government school, the hospital, the water supply, the streetlights, the public transport, the pollution-control measures, the repair of bridges and the removal of encroachments. Imagine further that each commitment has a deadline, a responsible agency and a publicly verifiable status.
+
+And then imagine the electorate saying: we shall judge you on this record. That would be democracy working in an effective manner because a mature and vigilant electorate would be rightly demanding performance as a precondition for votes.
+
+There is, however, an uncomfortable problem. Research suggests that Indian voters have not consistently behaved in this manner. A major study examining roughly 1,80,000 rural roads constructed under the Pradhan Mantri Gram Sadak Yojana found that the provision of roads did not translate into greater electoral support for the ruling party. Roads are highly visible public goods and are important to voters, yet their delivery did not produce the electoral support that democratic theory might predict.
+
+Why? The answer cannot simply be that Indians are foolish or gullible. That would be both condescending and wrong. Indian voters are perfectly capable of making sophisticated political calculations. They frequently punish governments and overturn governments. The problem is that performance is only one of the currencies of Indian politics.
+
+Identity is another. Caste matters. Religion matters. Community loyalties matter. National leadership matters. Welfare benefits matter. Political narratives matter. Emotional issues matter. And once elections become a contest between identities and narratives, the broken road outside one’s house can strangely disappear from the ballot box.
+
+This is the great paradox of the Indian voter. We complain furiously as citizens and vote differently as electors. We may curse the pothole every morning and then vote in an election on an entirely different consideration. We may spend hours discussing pollution, corruption or failing civic infrastructure and then allow the electoral conversation to be hijacked by issues that have little connection with the quality of our daily lives. Perhaps politicians have understood this better than citizens have.
+
+There is another difficulty. The task of the citizen is doubly challenging because responsibility is often deliberately fragmented. Who is responsible for the road — the municipality, the MLA, the MP, the state government, the PWD, the development authority? When the drain overflows, who is accountable? When the streetlight does not work, who should be...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/no-work-no-vote-the-power-voters-must-use-1990818)
+
+---
+
+### Spice, Spite And Sharing, The New Retirement Dream
+*Deccan Chronicle · Opinion*
+
+It’s such a cliché now. A group of friends in their 50s, or if they’re very forward-thinking then in their 40s, get into a discussion about what to do when they retire. And from there, you invariably discuss a dream about all living together in a shared space.
+
+Fear not, if you haven’t had this chat yet, you probably will at some stage.
+
+The first take is that this is, in India at least, a change in the family dynamic and a step away from traditional ideas of familial responsibility. Joint families are increasingly vanishing. Parents no longer want to be dependent on their children. And children who live away from home, or in other countries, get tied down by logistics, their children and their own lives.
+
+In the old system, there was a lot of judgment at this stage and there is a bit of judgment still. How much is it the responsibility of the child to give up its life to care for a parent? If there are several children, how can the primary caretaker be fairly chosen? If one child provides the money — if that is required — and the other the time and space, is that an equitable division? And what about the parents themselves? Did they bring up their children with this expectation? Or did they send them out to find fulfilling lives, maybe in distant locations, only to pull on the heartstrings when they want?
+
+There is of course no right answer. My generation did and still does fulfil that expectation of looking after our parents, for the most part. There are always issues between siblings of shared responsibilities and of course, with the parents themselves. Who moves home? How are the finances shared? In a house full of adults, where dependencies have changed and evolved, who calls the shots?
+
+The big change is that people of my generation do not necessarily want to be looked after by our children or our families when we need that help.
+
+We no longer feel that expectation. Thus, the need to gather friends together and discover old age together, as we once discovered youth.
+
+I want to make it clear that there is no value judgment in my thoughts, nor is there any geographical and societal value judgment. Across the world, children and parents grapple with this “problem” or “dilemma” or reality if you will. It is just that in some societies, the need for independent living as a senior citizen was realised faster than others. In many cases, this came from financial stability and both government and social understanding.
+
+Here in the East, especially in India, we are quick to judge others as we “virtue signal” our tendency to look after each other in times of trouble and otherwise, as if only we feel love. And yet, we also know that many monsters lurk within the home, of patriarchy and exploitation. We are not special and nor is anyone else. A society which cherishes individual hopes over societal obligations has also been through a process to reach there.
+
+I am making an exception here for debilitating diseases which need constant medical attention and for palliative care. These require special efforts, and one which society will increasingly struggle to deal with as we live longer as a species. Money is important, very important, but it is not enough.
+
+But if you are blessed with reasonable health, then you have an expectation that the last days of your life will end with relaxation, comfort and very important, fun. This cannot come from your children and grandchildren alone. You need to envisage and prepare for a life of your own, with your own moments of joy and satisfaction. Which are not dependent on family alone.
+
+And this is where that dream of living with friends comes in. Because you know each other’s foibles and think you can deal with them. Where you can come together when required and yet make allowances for distance and the need for solitude.
+
+How much of this is a pipe dream and how much is feasible?
+
+I would hazard that it is not that tough. Just anecdotally, I see people gathering into groups. Sometimes, they are “like-minded”. Sometimes they have the right amount of money, even if they have nothing in common. Sometimes, they move into a congregation hoping they will find a few friends and shared common interests.
+
+Often, the last option can work better than the other two. Some people like community living and planned activities and entertainment. A space tailored to senior interests is perfect for them. But others — actually I mean too many — get easily drawn into the politics of building societies and thrive on internal intrigue and endless squabbles. This aspect of human behaviour has nothing to do with being senior and can be seen in communities across the world. So much potential for excellent murder mystery books, movies and serials!
+
+Have I provided any answers? Of course not! But for my money, the grouping with old friends is my best resort for what lies ahead. There is affection, there is common ground and there is understanding. And all that adds up to a support system, which is at the...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/spice-spite-and-sharing-the-new-retirement-dream-1990824)
+
+---
+
 ### Rights must anchor the rules of arrest
 *Deccan Herald · Editorial*
 
@@ -125,6 +309,41 @@ India has earned the right to call its affordability numbers a genuine achieveme
 (Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.)
 
 [Read full article](https://www.deccanherald.com/opinion/food-is-more-affordable-in-india-so-why-is-nutrition-still-failing-4160037)
+
+---
+
+### Growth up, taxes up, but market down
+*The New Indian Express · Opinion*
+
+Updated on: 26 Sep 2026, 6:35 pm4 min readCopiedTwo years ago this week, the Nifty50 closed at 26,004, a record. On Friday, it closed at 23,140. The household that bought into an index-linked fund in September is down 8.8 percent on its investment even after accounting for dividends. Citizen Janardhan, who put the same money into an SBI fixed deposit—the dullest instrument in Indian markets—saw it compounded at more than 9 percent, given an appropriate tenor.
+
+Those who bet on equity are beyond disappointed. The Sensex is below its 200-week moving average and the Nifty has slid for seven consecutive weeks, its longest downhill streak since 2020. Infosys has fallen for eight straight sessions. Reliance Industries has hit a fresh 52-week low. For the equity investor, the only good news is that there is no tax—since there is no gain.
+
+The spectre turns surreal if we look at the numbers the economy has been printing. The latest reading says real GDP is up 7.8 percent. Household spending: up 9.9 percent. Net direct tax collections: up 13 percent. Gross GST: up 14.8 percent. So here’s the India paradox: output rising, spending rising, direct and indirect tax collections rising—and stocks falling.
+
+The distance between output and consumption is vivid. Equipment makers Amber Enterprises and Dixon Technologies are up 8.8 percent and 10.2 percent, whereas the brands they build are down—Voltas -22.3 percent, Havells -21.4 percent, Blue Star -15.7 percent, Crompton -9.9 percent.
+
+The contradiction is manifest in sales and profits data. Consumer goods volumes are up barely 4-5 percent in an economy growing at 7-8 percent. Maruti, down 25 percent since last year, sold more but disappointed in terms of profits. Consumption is skewed in a K-shape of haves and have-nots. Premium products are doing better than mass-market goods.
+
+In packaged food, Nestlé is up 7.2 percent, whereas Patanjali is at -34.1 percent. Nykaa is up 25.4 percent and Titan up 18.4 percent, whereas the shares of Trent and Aditya Birla Fashion are in negative territory. IndiaMART, which connects producers with buyers, fell 24.4 percent, while Eternal, which delivers to upwardly-mobile households, rose 15 percent.
+
+The bottomline is that while the GDP counts volume, the market prices profit. And this year, the two parted company. Nifty, which slid 9 percent between September and Christmas of 2024, spent all of 2025 rising 10.5 percent. This year, it has slid 14.5 percent since March. The war in West Asia pushed up oil, leading to the rupee’s fall and foreign investors’ exodus. Foreign institutions have pulled Rs 2.4 lakh crore out of Indian markets this calendar year, as against Rs 1.66 lakh crore in the whole of 2025. BSE’s Dollex 30, the dollar-denominated version of the Sensex, is down 25 percent over a two-year period and the BSE500 around 20 percent in dollar terms. The sliding rupee is the tax nobody legislated.
+
+The returns table of indices presents an intriguing bifurcation. Between January 2 and September 25, the Nifty50 fell 12.3 percent, the Nifty100 10.1 percent and the Nifty500 6.6 percent. The picture reverses down the market cap ladder: Nifty Midcap 100 is flat, while Small Cap 100 is up 10.4 percent, and Microcap 250 is up about 17 percent. The explanation: foreign investors sold large caps, so the Nifty50 is down. Captive Indian investors primed small caps loading up on systematic investment plans.
+
+Last September, the government unveiled GST 2.0, collapsing the frame into two slabs and cutting the tax rates of what Indians buy. Gross collections surged as per the headline figure. But the devil is in the details. Refunds are up, apparently because the frame taxes inputs at a higher rate and output at a lower one. Import GST is running at 27+ percent, while domestic GST revenue growth is in single-digits. The signal is not the index—the weaker rupee is both the cause and the consequence. But it ain’t the rupee’s fault alone.
+
+The Indian household took three different approaches to spending. John Jani Janardhan postponed consumption. The consumer is down at heel, and which is showing up literally in the stock performances of Bata, Campus and Metro—all walking backwards, year-to-date. Paint-makers are also in the red—Asian Paints at -11.6 percent YTD, Berger -12.5 percent, Nerolac -23.7 percent. Home and personal care, too, took a hit, with some shine off Colgate, Lever and Godrej Consumer. Not everything can be deferred—for instance, healthcare. Dr Lal Path Labs is up 28.7 percent, Apollo Hospitals 25.5 percent and Medanta 23 percent. Jewellery went up as India married its youth and chose gold to save money.
+
+There is also substitution. More than 30 million Indians travel abroad annually. As the currency dipped and costs rose, Indian arrivals in Vietnam touched 6.12 lakh—up 45.6 percent. The reason: a premium hotel night in Hanoi or Kuala Lumpur costs less than in Goa or Udaipur. Unsurprisingly, hotel stocks are sliding—Indian Hotels (which owns the Taj brand) is down 2 percent, Oberoi 13 percent and mid-market player Lemon Tree is down 31 percent. Those who could did not stop travelling; they just chose somewhere cheaper and better.
+
+Beyond the external factors, there is a structural faultline in India’s consumption profile. The Union finance minister said this week that consumption depends on upward mobility. And mobility depends on a rise in income and in the number of income earners. Charles Dickens put the household ledger in perspective. Micawber’s arithmetic in David Copperfield says on an income of £20 a year, a sixpence surplus is happiness. Spend sixpence more and that is misery. India’s household is still on the right side of that sixpence. It got there by not buying things.
+
+The gap between ability and desire defines consumption. The K-shaped economy is poised at an intersection. Indians, like Micawber, tend to wait “until something turns up”.
+
+Author of The Gated Republic, Aadhaar: A Biometric History of India’s 12 Digit Revolution, and Accidental India
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/shankkar-aiyar/2026/Sep/26/growth-up-taxes-up-but-market-down)
 
 ---
 
@@ -21282,266 +21501,6 @@ Going from “maybe one day” to “this is happening” rewires something in y
 Whether the universe is listening or your own mind is simply performing at its best when it has a clear target, that question may miss the point entirely. Believe in it enough and you will find a way. That has probably always been true.
 
 [Read full article](https://www.deccanherald.com/opinion/the-real-work-of-manifestation-4055420)
-
----
-
-## 28 June 2026
-
-### The Transgender Persons Amendment Bill is a flawed fix
-*The Hindu · Opinion*
-
-The Transgender Persons (Protection of Rights) Amendment Bill, 2026 (Bill No. 79 of 2026), introduced in the Lok Sabha on March 13, 2026 — and now passed by the Rajya Sabha on March 25, 2026 — makes several sharp changes to the 2019 Act. It narrows the definition of “transgender person” to only specific socio-cultural identities such as kinner, hijra, aravani, jogta, eunuch, or biologically-defined intersex variations, or persons forcibly compelled into such an identity through mutilation, castration, amputation, or any surgical, chemical or hormonal procedure. It explicitly excludes persons with different sexual orientations and non-heteronormative gender fluid identities.
-
-The Bill removes the right to “self-perceived gender identity” from Section 4(2), replaces the simple District Magistrate process with a medical board “authority” headed by a Chief Medical Officer, and mandates hospitals to report every transgender surgery to the District Magistrate and the authority.
-
-Self-identification no more: the mental health ramifications of the Trans Amendment Act
-
-Perpetuating structural problemsThe government claims that the new amendments fix the vagueness and implementation failures of the 2019 Act. Every year, thousands of intersex infants are killed or undergo medically unethical, non-consensual sex-selective surgeries that mutilate their bodies without regard for lifelong physical and psychological trauma, all in pursuit of a false “normalcy”. Millions of intersex individuals remain ghosts in our Census systems, their births and deaths unregistered, rendering them invisible to legal protections and social services.
-
-Related StoriesWhat are the changes being proposed to Transgender Persons (Protection of Rights) Act, 2019 | Explained
-
-Two members from National Council for Transgender Persons resign, citing ‘regressive’ Amendment Bill
-
-Activists condemn Transgender Bill passage in Lok Sabha, says haste in Rajya Sabha 'scary'
-
-Supreme Court-appointed panel asks Centre to withdraw Transgender Bill that removes right to gender self-determination
-
-Four queer voices explain the impact of the Trans Amendment Bill 2026
-
-Transgender rights Bill: Minister ‘skips’ key meeting with NCTP members
-
-Even the highest authorities fail to grasp the fundamental distinctions between sex identity and gender identity, or between intersex variations and transgender identities, which fuels rampant discrimination. The Bill itself refers to male and female as “gender identity”, which is fundamentally wrong — male and female are sex identities. By clubbing sex identity under the gender column, the Bill creates new problems where it is meant to solve existing ones.
-
-The government does not have reliable data on transgender and intersex persons in India. They want to grant us rights but do not know who we are. Separating sex and gender identity as different categories on official documents would address the root causes of this problem.
-
-Despite the new wording, the Bill still lumps “persons with intersex variations” inside the definition of a “transgender person.” The term “transgender persons” often conflates distinct identities. The Trans Act’s definition includes persons with intersex variations under “transgender”, which erases intersex-specific needs. Intersex is a natural biological spectrum (recorded 1%-2% globally). Transgender identity is a psychological and social construct.
-
-Fighting a looming threat of erasure: The outrage over amendments to trans rights lawRetaining this conflation under one label violates rights under Article 21 to bodily integrity and privacy. It leaves out intersex infants without any specific ban on “normalising” surgeries and ignores repeated calls for separate intersex legislation.
-
-The Bill’s definition also contradicts established international standards: the United Nations and the World Health Organization define intersex as innate variations in sex characteristics that do not fit typical male or female binaries, requiring distinct legal recognition and explicit protections against non-consensual medical interventions. By forcing intersex persons into a transgender category, the Bill undermines these global definitions and erodes the very human rights framework that India has committed to uphold.
-
-The Bill leaves the outdated title, National Council for Transgender Persons, and all State Welfare Boards unchanged. It ignores the long-standing proposal to rebrand them as a National GIESC Welfare Council and State GIESC Welfare Boards (GIESC is Gender Identity/Expression and Sex Characteristics). This keeps the entire policy architecture trapped under the problematic “transgender” umbrella instead of creating a scientifically accurate, inclusive framework. The government continues to promote a single identity at the national level.
-
-This heteronormative bill erases the reality that GIESC communities, including transgender persons, may have diverse sexual orientations such as transgay, translesbian, transbisexual, or queer.
-
-Legally empowering exploitative structuresNew clauses in Section 18 introduce rigorous imprisonment (between five to 14 years) for forcing adults or children into “transgender presentation” plus begging or servitude. Yet, the Bill does nothing to regulate or dismantle the colonial hijra jamath-gharana system. By targeting only external perpetrators while leaving internal hierarchies untouched, the amendment effectively legitimises and empowers the long-standing hijra jamath-gharana system, codifying it into law. These structures are not inherently traditional; earlier Indic frameworks were more inclusive and rooted in a broader, affirmative understanding of diverse identities, free from later external influences.
-
-At present, chief hijra nayaks control chelas’ earnings from begging and prostitution, trapping gender non-conforming children (often abandoned) in bonded labour. Meanwhile, thousands of gender non-conforming children, abandoned or rejected by families, are thrust into exploitative hijra jamath gharanas, havelis, and dayars, where education is a distant dream; instead, and forced into begging and prostitution.
-
-State police often refuse to register missing child complaints for gender non-conforming children, and there are no dedicated policies to address their vulnerability to trafficking and abuse. There is also no framework for reform, rehabilitation, or protection of minors within these systems. By protecting these colonial-era identities without evidence-based safeguards, the government is undermining earlier inclusive traditions.
-
-The Bill contains no requirement for genetic counselling by medical geneticists before certification, intersex surgeries and health management. It offers no mandate for India-specific longitudinal studies on “affirming surgeries” and raises serious privacy concerns due to inadequate safeguards.
-
-In Focus podcast | Why was the National Transgender Council kept in the dark about the 2026 Amendment Bill?Instead of addressing the problems faced by diverse GIESC communities such as administrative barriers and unregulated medical practices which include gender-affirming surgeries and hormone therapies (Government of India promotes freely despite severe health risks) the Bill offers only superficial measures with little relevance to their needs. Despite the 2019 UN CRPD recommendations to prioritise intersex welfare and dignity, these concerns remain largely neglected.
-
-No intersectionalityThe Bill contains no intersectional lens for caste, disability, poverty or religion. Transgender persons from Scheduled Caste/Scheduled Tribe or disabled backgrounds will continue to face compounded discrimination with zero targeted remedies. It also fails to protect India’s family-dependent societal structures by skipping any requirement for rigorous, evidence-based research before policy changes. Most critically, the Bill is completely silent on civil and marriage rights of diverse GIESC identities. It offers no provisions for marriage, adoption, inheritance, divorce, or succession for transgender persons, leaving them without full legal recognition in family law, and perpetuating their exclusion from the very institutions that define citizenship and dignity in Indian society.
-
-ALSO WATCH Lok Sabha passes Transgender Rights Amendment Bill amid opposition uproar
-
-The 2026 Amendment Bill tightens some definitions and increases penalties for forced exploitation, but leaves every core structural flaw untouched — the hetero-normative erasure of diverse SOGIESC identities, the complete neglect of civil and marriage rights, the legal entrenchment of colonial hijra structures at the expense of ancient Indic heritage. India needs a scientific, culturally grounded approach that separates biological sex characteristics from gender identity, prioritises evidence over ideology, bans non-consensual intersex surgeries, ensures equal rights, dismantles exploitative systems, and protects the dignity of intersex persons and gender non-conforming children. The Constitution demands nothing less.
-
-Gopi Shankar Madurai is a Special Monitor for Sexual orientation, gender identity and expression and sexual characteristics (SOGIESC) Rights, National Human Rights Commission of India
-
-[Read full article](https://www.thehindu.com/opinion/lead/the-transgender-persons-amendment-bill-is-a-flawed-fix/article70784907.ece)
-
----
-
-### DC Edit | SIT Must Get To Bottom Of Ayodhya Temple Theft
-*Deccan Chronicle · Editorial*
-
-The arrest of eight people associated with the Ram temple in Ayodhya and the resignations of the Shri Ram Janmabhoomi Teerth Kshetra Trust secretary Champat Rai and trustee Anil Mishra amid the ongoing controversy over the alleged embezzlement of donations at the temple raise more questions about the running of the temple than they seek to answer. The BJP which built its political foundation on the temple movement and the government it runs in Uttar Pradesh will also be required to explain what went wrong. The whole episode will also trigger discussions on the handling of the public money that lay with religious institutions and places of worship and the urgency to set up mechanisms to ensure accountability by those who run them.
-
-The theft at the temple shocked not only those who believed in the temple, the deity and the movement that led to its construction after razing a mosque that was standing there for centuries but also those who attached a certain amount of integrity with the people who ran it. Allegations of wrongdoing had been raised against those who are associated with the temple earlier, too, but they pale in front of the latest ones. The special investigation team (SIT) the state government has appointed to investigate it is yet to quantify the theft of donations that belonged to the deity and the temple but reports say they run into thousands of crores of rupees. Valuables and embellishments of the deity which are considered sacred by the devotees are in the list of stolen properties. It is important that the SIT get to the bottom of it and bring before the law all those who are involved in it.
-
-The BJP will be made to answer questions starting from the commitment it has to the deity and its believers. The temple was not the project of the believers; it was that of the Hindutva pracharaks for several decades. It was a tool which the party used to divide Indian society and catapult itself to power. The gamble paid off. This is the time of reckoning for the party as to investigate how genuine its concern was for the cause and what it did to ensure that the interests of the temple and the devotees were protected. Uttar Pradesh chief minister Yogi Adityanath’s attempts to portray the demands for proper investigation as an attack on the temple and the deity are unlikely to succeed.
-
-The Hindutva forces often complain about the control of the secular government over temple properties across the country, especially in southern India. They point out that the affairs of the places of worship of other religions are under the total control of the people who belong to those religions. The Ayodhya episode must now force a rethink for them. It has come to the fore because it has an element of public representation in the trust. The larger society must also look into the possibility of instituting similar arrangements for the other religions, too, where handling of funds donated by devotees, who are essentially part of the general public, is subjected to public scrutiny. Transparency in financial matters of their shrines will in no way affect the power of the gods who reside there. It will be a model that can be rolled out across the country covering all religions and their various denominations.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-sit-must-get-to-bottom-of-ayodhya-temple-theft-1966923)
-
----
-
-### DC Edit | Venezuela Worst Hit In Quake Season
-*Deccan Chronicle · Editorial*
-
-This appears to be the season of earthquakes and, as Nature expresses its fury periodically, typhoons too. A series of earthquakes struck parts of Indonesia, China and Japan last week, with the shifting of different tectonic plates on successive days. This was just a couple of days after a set of two ‘doublet’ earthquakes had struck the northeastern coastal region of Venezuela June 24-26 and caused untold damage to people and housing infra.
-
-Japan and Indonesia sit along the Pacific Ring of Fire — one of the world’s most active earthquake belts. However, the loss of human lives was minimal — less than 10 in Indonesia, one in China and possibly none in Japan. It can be said that Japan, an industrially advanced nation, is accustomed to earthquakes and its civil engineering is structured around buildings being able to withstand up to a point the effect of temblors.
-
-The story is not the same with Venezuela. There a twin quake had caused so much damage that there is not even an accurate count so far of loss of human lives. With more than 125 buildings flattened in the coastal state of La Guaira, the human toll is expected to be anywhere from an undercounted 1,400 so far to several tens of thousands.
-
-The human tragedy unfolding in La Guaira is of a far higher dimension with people still thought to be buried under the debris of apartment complexes. Usually, a powerful earthquake can be followed by a series of smaller afterquakes but a powerful ‘doublet’ can cause far more damage, and shallow ones like those that hit Venezuela would invariably lead to buildings shaking like leaves.
-
-An outpouring of support in times of tragedy reflects human empathy that goes beyond boundaries and borders. More than two dozen nations have rushed aid, water, medicines and men to help, but this may have led to a suffusion of traffic too so as to obstruct relief work along the only narrow highway leading to the coastal areas. It appears there is no end to human suffering because there is no wherewithal to withstand the force and fury of Nature.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-venezuela-worst-hit-in-quake-season-1966929)
-
----
-
-### Bharat Bhushan | Clueless in Dhaka: Polite Tweet Hits Major Tripwire
-*Deccan Chronicle · Opinion*
-
-On the day India’s incoming high commissioner to Bangladesh Dinesh Trivedi presented his credentials in Dhaka, he received friendly “warm wishes” from US ambassador to India Sergio Gor. In his X post, Mr Gor said: “As the US special envoy for South and Central Asia, I look forward to working closely with him.” Mr Trivedi reciprocated by saying: “I too look forward to working closely with you.”
-
-This has caused quite a stir.
-
-US ambassadors to India normally confine themselves to bilateral matters and do not reach out to Indian envoys in third countries such as Bangladesh -- such correspondence usually goes through the US embassy in Dhaka. Mr Gor, however, holds two titles -- ambassador to India, which New Delhi acknowledges, and special envoy for South and Central Asia, which it finds problematic.
-
-Former foreign secretary Kanwal Sibal publicly admonished Mr Trivedi on X, saying that he saw no issues on which the US ambassador to India should “work closely” with Indian envoys elsewhere in South Asia, including Bangladesh. Mr Sibal said: “For anything relating to India’s dealings with other South Asian countries, the point of contact is Delhi. By reaching out to you the US ambassador is asserting his wider mandate of coordinating relations within the subcontinent.”
-
-While recognising that Mr Trivedi had replied to Mr Gor as a matter of courtesy, Mr Sibal was making a substantive point: that there was a structural problem when Mr Gor addressed Mr Trivedi as the “US Envoy to South Asia”. It was an assertion that his job description covered India’s relations with its neighbours, including Bangladesh.
-
-Mr Sibal likened this to the 2009 “(Richard) Holbrooke mandate” for Afghanistan and Pakistan, which India had successfully resisted being included in, fearing it would invite outside interference in Kashmir. India had at that point warned that such a mandate covering India would be deeply unpopular. Mr Trivedi, perhaps unaware of this history, had effectively agreed to work with Mr Gor in his disputed capacity.
-
-The government has offered no rebuttal, apparently hoping to let the matter fade -- just as it was former diplomats, not the ministry of external affairs, who objected when Mr Gor was first given his dual title. This leaves the episode framed by the MEA’s own structural ambiguity. Mr Sibal, a known supporter of the Narendra Modi government, was not attacking Mr Trivedi but flagging the nuance, asking pointedly: “On what issues does our new HC in BD intends to work closely with the US ambassador to India?”
-
-Mr Trivedi, reacting with surprise, offered only a courteous non-answer to Mr Sibal -- largely a non-sequitur about global cooperation during Covid and disasters. Mr Trivedi’s reply neither engaged nor rebutted Mr Sibal's actual point about titles and mandates. Mr Trivedi seemed to have misunderstood it as a dig about being too friendly with the US ambassador rather than as a substantive diplomatic point.
-
-Mr Sibal was right about there being little scope for the US ambassador to India and India’s high commissioner to Bangladesh to usefully coordinate. There’s no looming “disaster” in Bangladesh for the two to avert jointly. Some observers note that since the US welcomed Sheikh Hasina's ouster and backed the Muhammad Yunus interim government, the possibility of joint US-India work in Bangladesh is prima facie questionable. India also worked hard ahead of Bangladesh’s February 2026 election to prevent the Jamaat-e-Islami-aligned Islamic forces gaining power. So?
-
-Even with closer coordination, India and the United States could not have prevented Bangladesh from signing 13 agreements with China following Bangladesh PM Tarique Rahman's Beijing visit -- including the Mongla Port modernisation project, the Chattogram economic zone, and the Teesta River management project. India was not a contender for Mongla, and its own Teesta cooperation was undercut by internal political disputes, especially with West Bengal.
-
-Neither the Indian high commissioner nor the US ambassador has any institutional standing to win Bangladesh projects for India. Neither controls financing decisions, the role of Indian states in river-sharing politics, or Bangladesh's sovereign choice of partners. This reinforces Mr Sibal's core point: that India's Bangladesh policy runs through New Delhi, not through Mr Trivedi's personal rapport with a US envoy. No social-media-coordinated push between the two could produce so much as a single project contract.
-
-Mr Trivedi's appointment illustrates the risks of installing retired politicians as envoys to neighbouring countries. They are opportunists riding the gravy train. Mr Trivedi, for example, has the dubious distinction of moving from the Congress to V.P. Singh’s Jan Morcha and the Janata Dal, then to the Trinamul Congress, and finally the BJP, never letting ideology stand in the way of opportunity.
-
-Political appointments to diplomatic posts are not new: Jawaharlal Nehru and later PMs made...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/bharat-bhushan-clueless-in-dhaka-polite-tweet-hits-major-tripwire-1966916)
-
----
-
-### Parsa Venkateshwar Rao Jr | India Needs To Urgently Review Israel’s Current Military Power
-*Deccan Chronicle · Opinion*
-
-The US-Israel war against Iran hurt the Indian economy, and this is evident from the government’s assessments as well as the remarks of the RBI’s Monetary Policy Committee meeting last month. The war hasn’t triggered a crisis or a sharp slide in the growth figures, though the estimate for 2026-27 was reduced to 6.6 per cent, compared to 7.8 per cent in 2025-26.
-
-But there is another aspect Indian experts must assess, though it doesn’t directly impact the country. The strategy and security pundits must re-examine the military aspect of the months-long war to understand the balance of power in a region of utmost economic and strategic importance to India.
-
-The war hasn’t yet ended, and it can’t be deemed to have ended until US and Iran reach a final agreement in Switzerland, with Pakistan and Qatar playing mediators. But the hostilities that lasted between February 28 and April 6 do reveal the strengths and weaknesses of the combatants.
-
-It was evident from the start that Israel can’t take on Iran on its own, and needed the help of the US. This was proved in June 2025 when Israel’s bombers hit Iran’s nuclear installations, and President Trump said Israel couldn’t do it alone and needed America’s B-52 bombers to complete the job. When the B-52s joined the fray, they damaged the installations a little more, but not much.
-
-It was no surprise when the second attack was planned in February, the US and Israel decided to do it together. But this time too, the results didn’t match the intent. Iran still seems to possess enriched uranium. Mr Trump wants Iran to surrender it. In one of his exaggerated outbursts, Mr Trump declared that the Americans would enter Iran and whisk away the enriched uranium. Israeli PM Benjamin Netanyahu’s assertions imply that the nuclear threat Iran posed to Israel has been countered by the attacks, though he doesn’t claim the enriched uranium has been blocked. Of course, the claim was that Iran was not far away from making the nuclear bomb, and somehow the US-Israel attacks on Iran have disabled Iran from doing so. One of the terms of the MoU is that the International Atomic Energy Agency (IAEA), the UN nuclear regulator, should resume the inspection of the Iranian nuclear facilities. The contradictions in the Trump and Netanyahu statements are quite explicit.
-
-US vice-president J.D. Vance, in a media interview, has made it plain that Israel is not in a position to take on bigger countries, though he did not specifically mention Iran. He reminded the hawks in Mr Netanyahu’s government that Israel has a population of just nine million people, and it can’t pick up wars with all in the neighbourhood. It was a clear US reminder that Israel can’t fight Iran without America by its side; and that the US would not fight Iran just for the sake of Israel’s national interests. The US has to reckon with its own national interests in fighting Iran, and it does not lend to a war-to-the-finish. The US would only wage war to compel Iran to come to the negotiating table. Also, the US can’t overlook its own economic interests. The rise in gas prices at the pump in America is something that no administration can ignore.
-
-While the US joined hands with Israel for a war with Iran, the policy motivations were different for the two. Israel thus can’t look to the US for unqualified support in its war against Iran. Are there enough security compulsions for Israel to counter Iran’s military buildup?
-
-There seem to be sufficient reasons to do so. Iran’s support for Hezbollah in Lebanon poses a danger to northern Israel. Israel can handle the Hezbollah challenge without help from the US, but the military price it must pay for it is too high. Israeli soldiers occupying Lebanon does not ensure peace. And it is the same in Gaza. Israel has not been able to overwhelm Hamas in Gaza. So, Israel’s overwhelming military power against Hezbollah and Hamas is not sufficient to make Israel safe. The point is clear. Israel cannot hope to resolve its security concerns through the military option alone.
-
-So, Israel can tackle Hamas and Hezbollah in a manner of speaking, because of its military superiority, but its military power is not enough to check the security threat posed by Iran.
-
-The general perception in India’s security and strategy circles is that Israel is a pre-eminent military power in the region, and that it is even an exemplary one. But the war in Gaza since October 7, 2023 and its war with Iran and with Hezbollah in Lebanon indicate the limits of Israel’s military prowess. The assumption has been that Israel can militarily overrun all its neighbours because of its technologically advanced war machine. These wars don’t bear out the presumption. India can benefit from an Israeli defence partnership in importing technologically advanced equipment.
-
-But it would be wiser to be clear-eyed that Israel is not the monarch of all it surveys on the battlefield. At the political level, the ruling BJP has been starry-eyed about ...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/parsa-venkateshwar-rao-jr-india-needs-to-urgently-review-israels-current-military-power-1966902)
-
----
-
-### Defending digital India: Why technology alone will not protect us
-*Deccan Herald · Opinion*
-
-India’s digital transformation has been one of its great public policy successes. Aadhaar, UPI, digital governance platforms and the digitisation of banking, education, healthcare, and commerce have created an ecosystem of unprecedented scale that is now integral to India’s economic and social life. Yet, the very success of this digital revolution has created a new strategic vulnerability.
-
-The World Economic Forum’s Global Risks Report identifies cybersecurity as one of the most immediate and significant risks facing India. Cyber-attacks are no longer isolated incidents; they represent a systemic threat to economic stability, national security, and public trust. India’s digital infrastructure has outpaced the capabilities needed to secure it. The numbers are striking. Industry reports indicate millions of cyber-attack attempts against Indian systems annually, and CERT-In has reported handling large numbers of cyber incidents.
-
-Education, healthcare, manufacturing, financial services, and government institutions have emerged as targets. More concerning is the changing nature of the threat. Cyber-attacks are no longer the work of isolated hackers seeking notoriety. They are increasingly conducted by criminal enterprises, state-sponsored groups, and organised networks. Ransomware groups have evolved into agile, distributed operations capable of attacking entire supply chains.
-
-In an earlier era, a disruption of physical infrastructure required military force. Today, a well-executed cyber operation can potentially disrupt financial transactions, interrupt electricity supply, compromise government databases, or undermine confidence in digital institutions. Cybersecurity has therefore become not merely an IT concern but a matter of national resilience. Just as nations invest in military academies to prepare for conventional threats, they must now invest in cyber academies to prepare for conflicts in the digital domain. The Government of India has recognised the challenge through increased investments, an expanded role for CERT-In, stronger sectoral frameworks, and initiatives such as the Financial Fraud Risk Indicator and the national cyber fraud helpline. These initiatives are necessary and commendable.
-
-However, a critical question that receives insufficient attention is: who will operate, manage, and continuously improve these defensive systems? Technology can be purchased. Human expertise cannot. India today faces a significant shortage of highly skilled cybersecurity professionals. While many institutions offer cybersecurity courses, most focus on theory, compliance or basic network administration. What is urgently needed is advanced, specialised training capable of producing professionals who can operate at the highest levels of cyber defence.
-
-The cybersecurity workforce required by India over the next decade cannot consist solely of security analysts monitoring dashboards. The country needs cyber threat hunters, digital forensics experts, industrial control systems specialists, cloud security architects, cyber intelligence analysts, cryptography experts, and specialists capable of defending critical infrastructure against state-sponsored attacks. Such expertise requires cyber ranges, live attack simulations, advanced laboratories, and collaboration with defence organisations, intelligence agencies, technology companies, and critical infrastructure operators. It also requires continuous upskilling because the threat landscape evolves faster than traditional curricula.
-
-This is where policy must shift from awareness to capability building. What might such a capability-building agenda look like? First, India should establish a National Cyber Workforce Mission on the lines of the Skill India and Digital India initiatives. The objective should be to create a pipeline of cybersecurity professionals at multiple levels: from technicians and SOC analysts to elite cyber operators capable of defending critical infrastructure. The mission should bring together government, industry, universities, defence establishments, and technology firms for training, certification and deployment.
-
-India needs a network of advanced cybersecurity academies equipped with cyber ranges, digital forensics laboratories, malware analysis centres, and simulated critical infrastructure environments. These academies should provide specialised programmes for defence, law enforcement, public-sector, and critical infrastructure personnel. Their purpose should not merely be education but the creation of operational readiness.
-
-Several practical measures can be undertaken immediately. Critical infrastructure operators should be required to conduct annual cyber resilience exercises and independent red-team assessments. Sector-specific Cyber Security Operations Centres should be established for power, healthcare, transportation, and manufacturing.
-
-Universities should introduce interdisciplinary cybersecurity programmes combining computer science, law, public policy, and intelligence studies. A national cyber scholarship programme should support talented students entering specialised fields such as cryptography, digital forensics, and AI security. Structured public-private threat intelligence-sharing mechanisms should be institutionalised to enable faster detection and response to emerging threats.
-
-India’s digital economy is expected to become one of the largest in the world. Our aspirations in AI, semiconductor manufacturing, defence technology, and digital public infrastructure depend on trust in digital systems. That trust cannot be maintained through software alone. The question before India is not whether cyber-attacks will occur, but whether we will possess the institutional capacity and specialised talent required to anticipate, withstand, and recover from them.
-
-India has demonstrated its ability to build world-class digital infrastructure. The next national mission must be to build world-class cyber defenders.
-
-The writer is the former civil servant enjoys traversing the myriad spaces of ideas, thinkers, and books.
-
-Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
-
-[Read full article](https://www.deccanherald.com/opinion/defending-digital-india-why-technology-alone-will-not-protect-us-4054642)
-
----
-
-### Nothing is delivered
-*Deccan Herald · Opinion*
-
-Bob Dylan’s 1967 song from The Basement Tapes, ‘Nothing Was Delivered’, is a classic American folk parable, falling somewhere between a prophecy and a joke. Someone was promised something. Someone waited. Nothing came. Isn’t that more or less the entire economic, ecological, and psychic condition of Gen Z today?
-
-‘Nothing was delivered/ And I tell this truth to you/ Not out of spite or anger/ But simply because it’s true’.
-
-For those who haven’t yet heard, there is a South Korean website called FoodNeverComes. It looks and behaves exactly like a food-delivery app. You browse dishes, add them to your cart, proceed to checkout, and track a rider as he approaches your doorstep. The familiar theatre of anticipation: the icon moving, the countdown shrinking, the delicious illusion of imminence. But no money is charged. No kitchen is alerted. No food arrives. Nothing gets delivered. That is the point.
-
-Adults are aghast, yet again, at the depths of absurdity that Gen Z turns to. But I disagree completely. I don’t see FoodNeverComes as a fake delivery simulator. I see it as a training module for the future, preparing the young for a world in which the forms of satisfaction remain while the substance disappears. The button remains. The tracking map remains. The dopamine hit remains. What vanishes is the food, the wage, the house, the secure job, the stable climate, the plausible adulthood. Our generation promised them a lot. Nothing will be delivered.
-
-These platforms are called “dopamine sites”, digital spaces that simulate rewarding behaviours without real-world consumption. A fake shopping site lets you fill a cart without buying. A fake smoking-break site lets you take a cigarette break without a cigarette. The apparatus of desire is preserved; the object of desire is removed. This is supposed to be the therapeutic part.
-
-One can see the appeal. A 25-year-old, hungry at 2 am and trying not to waste half a day’s wages on noodles, opens the site, clicks, tracks, waits, and somehow feels relieved. It is pathetic to us adults only if we pretend that the real delivery economy is better. But what is so noble about the “real” version? A hungry worker summons another hungry worker, through an app owned by investors, to deliver overpriced food cooked by underpaid labour, while all parties are algorithmically monitored and none is happy. The real transaction is already a simulation of abundance built on scarcity. FoodNeverComes merely removes the food and, in doing so, accidentally reveals the truth.
-
-‘Now you must provide some answers/ For what you sell has not been received’.
-
-The hunger was never only for food. It was for agency; for the tiny sovereignty of saying: I want this, and therefore I shall have it. As young people lose control over the major architecture of their lives, consumer choice is the last toy kingdom left to them. You may not be able to buy a house, breathe clean air, or retire. But you can choose between biryani, ramen, shawarma, and molten chocolate cake at 1:37 am.
-
-This is why FoodNeverComes feels less like a novelty than a parable. It belongs to a generation that was promised education as mobility; they inherited it as debt. They were promised the internet as liberation; they inherited surveillance, addiction, and the monetisation of hate. They were promised meritocracy; they met entry-level positions demanding three years of experience and gratitude for exploitation.
-
-So, what is Gen Z asked to do? Work harder for jobs that may not exist. Study longer for professions that may be automated. Save in economies designed to extract. Build lives on a planet whose weather is deranged. Stay optimistic while doomscrolling through ecological collapse, war footage, rent inflation, and billionaires discussing Mars as though Earth were an old gf they plan to ghost. Under these circumstances, FoodNeverComes is not escapism, but realism.
-
-Still, there is something oddly hopeful in its absurdity. The joke knows it is a joke. It does not confuse simulation with nourishment. The website states plain and clear what most institutions conceal: “this will not feed you”. The fake app is more truthful than the real economy. It does not take your money. It does not pretend to love you. It says: here is the ritual, here is the craving, here is the little hit, here is the nothing at the end.
-
-‘Nothing was delivered/ But I can’t say I sympathise/ With what your fate is going to be’...
-
-The writer, as Dr Jekyll, is a Professor of Philosophy, Politics and Law, author and editor of over 20 books and counting, and as Mr Hyde, one of India’s top-ranking Ironman triathletes.
-
-Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
-
-[Read full article](https://www.deccanherald.com/opinion/nothing-is-delivered-4054649)
-
----
-
-### Are you and I Indian citizens?
-*The New Indian Express · Opinion*
-
-The torment began from there. If these tokens of belonging collapse under legal scrutiny, then what remains of the India Bharatiyas thought they were part of? That wound has now been ripped open wider by the ministry of external affairs. On Passport Seva Divas, it announced that the Indian passport is nothing more than a travel document and carries no conclusive weight as proof of citizenship. The very ministry that issues this document under the Passports Act has chosen to publicly detach it from the citizenship the Act was written to protect.
-
-The torment deepens because this is not some distant legal quibble. It is the State reaching into the pocket of every citizen who has ever queued at a Passport Seva Kendra, submitted biometrics, and walked out believing the blue booklet affirmed their place in the nation. The Passports Act itself was framed in the language of belonging. Its preamble categorically states that passports would be given to those who are citizens of India.
-
-These opening words make this purpose unmistakable. Yet, the MEA now tells ordinary Indians that the passport they carry as the face of the nation proves nothing about who they are. This is not evolution of law. It is escalation of the same betrayal the courts exposed a year ago.
-
-Then, plastic and digital tokens were stripped of meaning. Now, India’s most solemn travel document is added to the pile of hollow proofs. The torture is not abstract. It lives in the quiet panic of families whose roots reach back to undivided India, whose papers vanished with Partition and time, and who now wonder whether even the passport they renewed last year will survive the next verification drive.
-
-The contradictions cut deeper than any courtroom observation. When the same MEA appoints heads of missions to represent India in foreign capitals, it hands them diplomatic passports on the strength of service records and the ordinary Indian passports it now disowns. Foreign governments accept these credentials without asking for extra proof of nationality.
-
-Elected members of Parliament and state Assemblies declare their citizenship through nomination papers backed mainly by voter registration certificates. No separate citizenship certificate is demanded or produced. If neither the passport nor the voter ID can establish that someone is Indian, how do these officials qualify to speak for the country or make its laws? The State extends quiet presumptions to those who govern while demanding ever more elusive proof from those who are governed. This asymmetry leaves ordinary citizens exposed while shielding the political class.
-
-Political reactions have only sharpened the divide. Opposition leaders have seized on the MEA statement as proof of deliberate confusion. Congress leader Rahul Gandhi described it as “an attempt to create an atmosphere of suspicion against every Indian so that the government can justify its voter-list purges”. West Bengal’s former Chief Minister Mamata Banerjee went further, calling the clarification “a dangerous game that questions the very identity of citizens who have lived here for generations”. Leaders from the INDIA bloc have echoed this, arguing that the timing is no coincidence.
-
-With voter-list revisions active in Bihar and West Bengal, they see the MEA intervention as a way to soften public resistance to stricter scrutiny by first undermining faith in existing documents. Government and BJP voices have pushed back with equal force, insisting the clarification is nothing new. A BJP spokesperson dismissed the outrage as “opposition mischief” aimed at distracting from the government’s efforts to clean electoral rolls of illegal entries.
-
-However, a section of the BJP leadership has privately echoed that the MEA’s “elitist” framing has created unnecessary domestic trouble, damaging the government’s image at a time it is performing strongly on other fronts. They believe the statement should have come from the home ministry, which actually handles citizenship, rather than from diplomats who do not understand the political sensitivities involved. These competing narratives have left citizens caught in the crossfire.
-
-The numbers reveal the scale of the confusion. Only about 2.5 percent of Indians hold passports. The government spent over Rs 12,000 crore building Aadhaar as the ultimate biometric link to existence. It is mandatory for banking, taxation and travel. Yet when the question turns to citizenship, the same system is dismissed as irrelevant.
-
-The Register of Citizens, the one document prepared after systematic government diligence every decade, remains frozen since 2011. A young professional applying for a job abroad now wonders whether her or his passport will be enough. The impact travels beyond borders. When India’s own government signals that its passport does not prove nationality, foreign immigration authorities gain fresh licence to demand extra verification from Indian travellers, students and professionals.
-
-Identity has been turned into perpetual interrogation. Citizenship has been reduced to suspicion. The latest blow has turned private anxiety into public policy. It arrives at a moment when the home ministry remains silent on the larger question of what actually constitutes proof of citizenship. The result is a system that demands evidence it knows millions cannot easily produce and then dismisses the evidence it has itself created. The motive appears less about doctrinal purity and more about manufacturing ambiguity at a politically charged juncture.
-
-India needs to end this democratic disgrace. It must issue like the US and Germany, a single, sovereign citizen card under the Citizenship Act that conclusively establishes nationality, voter eligibility and identity in one secure document.
-
-Other nations resolved this long ago. India has spent decades and vast sums building fragmented systems that the State itself can declare hollow at will. Until that single card exists, crores of Indians will continue to clutch their documents like charms, only to be told they are nothing more than scraps of plastic. The cruellest truth remains. After 79 years of freedom, the question of who is an Indian still drifts unanswered, haunting the very idea of India. As of now, I am a voter. But what about the future?
-
-[Read full article](https://www.newindianexpress.com/opinion/columns/pc/2026/Jun/27/are-you-and-i-indian-citizens)
 
 ---
 

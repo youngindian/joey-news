@@ -1,5 +1,265 @@
 # Editorials archive — 2026-06
 
+## 28 June 2026
+
+### The Transgender Persons Amendment Bill is a flawed fix
+*The Hindu · Opinion*
+
+The Transgender Persons (Protection of Rights) Amendment Bill, 2026 (Bill No. 79 of 2026), introduced in the Lok Sabha on March 13, 2026 — and now passed by the Rajya Sabha on March 25, 2026 — makes several sharp changes to the 2019 Act. It narrows the definition of “transgender person” to only specific socio-cultural identities such as kinner, hijra, aravani, jogta, eunuch, or biologically-defined intersex variations, or persons forcibly compelled into such an identity through mutilation, castration, amputation, or any surgical, chemical or hormonal procedure. It explicitly excludes persons with different sexual orientations and non-heteronormative gender fluid identities.
+
+The Bill removes the right to “self-perceived gender identity” from Section 4(2), replaces the simple District Magistrate process with a medical board “authority” headed by a Chief Medical Officer, and mandates hospitals to report every transgender surgery to the District Magistrate and the authority.
+
+Self-identification no more: the mental health ramifications of the Trans Amendment Act
+
+Perpetuating structural problemsThe government claims that the new amendments fix the vagueness and implementation failures of the 2019 Act. Every year, thousands of intersex infants are killed or undergo medically unethical, non-consensual sex-selective surgeries that mutilate their bodies without regard for lifelong physical and psychological trauma, all in pursuit of a false “normalcy”. Millions of intersex individuals remain ghosts in our Census systems, their births and deaths unregistered, rendering them invisible to legal protections and social services.
+
+Related StoriesWhat are the changes being proposed to Transgender Persons (Protection of Rights) Act, 2019 | Explained
+
+Two members from National Council for Transgender Persons resign, citing ‘regressive’ Amendment Bill
+
+Activists condemn Transgender Bill passage in Lok Sabha, says haste in Rajya Sabha 'scary'
+
+Supreme Court-appointed panel asks Centre to withdraw Transgender Bill that removes right to gender self-determination
+
+Four queer voices explain the impact of the Trans Amendment Bill 2026
+
+Transgender rights Bill: Minister ‘skips’ key meeting with NCTP members
+
+Even the highest authorities fail to grasp the fundamental distinctions between sex identity and gender identity, or between intersex variations and transgender identities, which fuels rampant discrimination. The Bill itself refers to male and female as “gender identity”, which is fundamentally wrong — male and female are sex identities. By clubbing sex identity under the gender column, the Bill creates new problems where it is meant to solve existing ones.
+
+The government does not have reliable data on transgender and intersex persons in India. They want to grant us rights but do not know who we are. Separating sex and gender identity as different categories on official documents would address the root causes of this problem.
+
+Despite the new wording, the Bill still lumps “persons with intersex variations” inside the definition of a “transgender person.” The term “transgender persons” often conflates distinct identities. The Trans Act’s definition includes persons with intersex variations under “transgender”, which erases intersex-specific needs. Intersex is a natural biological spectrum (recorded 1%-2% globally). Transgender identity is a psychological and social construct.
+
+Fighting a looming threat of erasure: The outrage over amendments to trans rights lawRetaining this conflation under one label violates rights under Article 21 to bodily integrity and privacy. It leaves out intersex infants without any specific ban on “normalising” surgeries and ignores repeated calls for separate intersex legislation.
+
+The Bill’s definition also contradicts established international standards: the United Nations and the World Health Organization define intersex as innate variations in sex characteristics that do not fit typical male or female binaries, requiring distinct legal recognition and explicit protections against non-consensual medical interventions. By forcing intersex persons into a transgender category, the Bill undermines these global definitions and erodes the very human rights framework that India has committed to uphold.
+
+The Bill leaves the outdated title, National Council for Transgender Persons, and all State Welfare Boards unchanged. It ignores the long-standing proposal to rebrand them as a National GIESC Welfare Council and State GIESC Welfare Boards (GIESC is Gender Identity/Expression and Sex Characteristics). This keeps the entire policy architecture trapped under the problematic “transgender” umbrella instead of creating a scientifically accurate, inclusive framework. The government continues to promote a single identity at the national level.
+
+This heteronormative bill erases the reality that GIESC communities, including transgender persons, may have diverse sexual orientations such as transgay, translesbian, transbisexual, or queer.
+
+Legally empowering exploitative structuresNew clauses in Section 18 introduce rigorous imprisonment (between five to 14 years) for forcing adults or children into “transgender presentation” plus begging or servitude. Yet, the Bill does nothing to regulate or dismantle the colonial hijra jamath-gharana system. By targeting only external perpetrators while leaving internal hierarchies untouched, the amendment effectively legitimises and empowers the long-standing hijra jamath-gharana system, codifying it into law. These structures are not inherently traditional; earlier Indic frameworks were more inclusive and rooted in a broader, affirmative understanding of diverse identities, free from later external influences.
+
+At present, chief hijra nayaks control chelas’ earnings from begging and prostitution, trapping gender non-conforming children (often abandoned) in bonded labour. Meanwhile, thousands of gender non-conforming children, abandoned or rejected by families, are thrust into exploitative hijra jamath gharanas, havelis, and dayars, where education is a distant dream; instead, and forced into begging and prostitution.
+
+State police often refuse to register missing child complaints for gender non-conforming children, and there are no dedicated policies to address their vulnerability to trafficking and abuse. There is also no framework for reform, rehabilitation, or protection of minors within these systems. By protecting these colonial-era identities without evidence-based safeguards, the government is undermining earlier inclusive traditions.
+
+The Bill contains no requirement for genetic counselling by medical geneticists before certification, intersex surgeries and health management. It offers no mandate for India-specific longitudinal studies on “affirming surgeries” and raises serious privacy concerns due to inadequate safeguards.
+
+In Focus podcast | Why was the National Transgender Council kept in the dark about the 2026 Amendment Bill?Instead of addressing the problems faced by diverse GIESC communities such as administrative barriers and unregulated medical practices which include gender-affirming surgeries and hormone therapies (Government of India promotes freely despite severe health risks) the Bill offers only superficial measures with little relevance to their needs. Despite the 2019 UN CRPD recommendations to prioritise intersex welfare and dignity, these concerns remain largely neglected.
+
+No intersectionalityThe Bill contains no intersectional lens for caste, disability, poverty or religion. Transgender persons from Scheduled Caste/Scheduled Tribe or disabled backgrounds will continue to face compounded discrimination with zero targeted remedies. It also fails to protect India’s family-dependent societal structures by skipping any requirement for rigorous, evidence-based research before policy changes. Most critically, the Bill is completely silent on civil and marriage rights of diverse GIESC identities. It offers no provisions for marriage, adoption, inheritance, divorce, or succession for transgender persons, leaving them without full legal recognition in family law, and perpetuating their exclusion from the very institutions that define citizenship and dignity in Indian society.
+
+ALSO WATCH Lok Sabha passes Transgender Rights Amendment Bill amid opposition uproar
+
+The 2026 Amendment Bill tightens some definitions and increases penalties for forced exploitation, but leaves every core structural flaw untouched — the hetero-normative erasure of diverse SOGIESC identities, the complete neglect of civil and marriage rights, the legal entrenchment of colonial hijra structures at the expense of ancient Indic heritage. India needs a scientific, culturally grounded approach that separates biological sex characteristics from gender identity, prioritises evidence over ideology, bans non-consensual intersex surgeries, ensures equal rights, dismantles exploitative systems, and protects the dignity of intersex persons and gender non-conforming children. The Constitution demands nothing less.
+
+Gopi Shankar Madurai is a Special Monitor for Sexual orientation, gender identity and expression and sexual characteristics (SOGIESC) Rights, National Human Rights Commission of India
+
+[Read full article](https://www.thehindu.com/opinion/lead/the-transgender-persons-amendment-bill-is-a-flawed-fix/article70784907.ece)
+
+---
+
+### DC Edit | SIT Must Get To Bottom Of Ayodhya Temple Theft
+*Deccan Chronicle · Editorial*
+
+The arrest of eight people associated with the Ram temple in Ayodhya and the resignations of the Shri Ram Janmabhoomi Teerth Kshetra Trust secretary Champat Rai and trustee Anil Mishra amid the ongoing controversy over the alleged embezzlement of donations at the temple raise more questions about the running of the temple than they seek to answer. The BJP which built its political foundation on the temple movement and the government it runs in Uttar Pradesh will also be required to explain what went wrong. The whole episode will also trigger discussions on the handling of the public money that lay with religious institutions and places of worship and the urgency to set up mechanisms to ensure accountability by those who run them.
+
+The theft at the temple shocked not only those who believed in the temple, the deity and the movement that led to its construction after razing a mosque that was standing there for centuries but also those who attached a certain amount of integrity with the people who ran it. Allegations of wrongdoing had been raised against those who are associated with the temple earlier, too, but they pale in front of the latest ones. The special investigation team (SIT) the state government has appointed to investigate it is yet to quantify the theft of donations that belonged to the deity and the temple but reports say they run into thousands of crores of rupees. Valuables and embellishments of the deity which are considered sacred by the devotees are in the list of stolen properties. It is important that the SIT get to the bottom of it and bring before the law all those who are involved in it.
+
+The BJP will be made to answer questions starting from the commitment it has to the deity and its believers. The temple was not the project of the believers; it was that of the Hindutva pracharaks for several decades. It was a tool which the party used to divide Indian society and catapult itself to power. The gamble paid off. This is the time of reckoning for the party as to investigate how genuine its concern was for the cause and what it did to ensure that the interests of the temple and the devotees were protected. Uttar Pradesh chief minister Yogi Adityanath’s attempts to portray the demands for proper investigation as an attack on the temple and the deity are unlikely to succeed.
+
+The Hindutva forces often complain about the control of the secular government over temple properties across the country, especially in southern India. They point out that the affairs of the places of worship of other religions are under the total control of the people who belong to those religions. The Ayodhya episode must now force a rethink for them. It has come to the fore because it has an element of public representation in the trust. The larger society must also look into the possibility of instituting similar arrangements for the other religions, too, where handling of funds donated by devotees, who are essentially part of the general public, is subjected to public scrutiny. Transparency in financial matters of their shrines will in no way affect the power of the gods who reside there. It will be a model that can be rolled out across the country covering all religions and their various denominations.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-sit-must-get-to-bottom-of-ayodhya-temple-theft-1966923)
+
+---
+
+### DC Edit | Venezuela Worst Hit In Quake Season
+*Deccan Chronicle · Editorial*
+
+This appears to be the season of earthquakes and, as Nature expresses its fury periodically, typhoons too. A series of earthquakes struck parts of Indonesia, China and Japan last week, with the shifting of different tectonic plates on successive days. This was just a couple of days after a set of two ‘doublet’ earthquakes had struck the northeastern coastal region of Venezuela June 24-26 and caused untold damage to people and housing infra.
+
+Japan and Indonesia sit along the Pacific Ring of Fire — one of the world’s most active earthquake belts. However, the loss of human lives was minimal — less than 10 in Indonesia, one in China and possibly none in Japan. It can be said that Japan, an industrially advanced nation, is accustomed to earthquakes and its civil engineering is structured around buildings being able to withstand up to a point the effect of temblors.
+
+The story is not the same with Venezuela. There a twin quake had caused so much damage that there is not even an accurate count so far of loss of human lives. With more than 125 buildings flattened in the coastal state of La Guaira, the human toll is expected to be anywhere from an undercounted 1,400 so far to several tens of thousands.
+
+The human tragedy unfolding in La Guaira is of a far higher dimension with people still thought to be buried under the debris of apartment complexes. Usually, a powerful earthquake can be followed by a series of smaller afterquakes but a powerful ‘doublet’ can cause far more damage, and shallow ones like those that hit Venezuela would invariably lead to buildings shaking like leaves.
+
+An outpouring of support in times of tragedy reflects human empathy that goes beyond boundaries and borders. More than two dozen nations have rushed aid, water, medicines and men to help, but this may have led to a suffusion of traffic too so as to obstruct relief work along the only narrow highway leading to the coastal areas. It appears there is no end to human suffering because there is no wherewithal to withstand the force and fury of Nature.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-venezuela-worst-hit-in-quake-season-1966929)
+
+---
+
+### Bharat Bhushan | Clueless in Dhaka: Polite Tweet Hits Major Tripwire
+*Deccan Chronicle · Opinion*
+
+On the day India’s incoming high commissioner to Bangladesh Dinesh Trivedi presented his credentials in Dhaka, he received friendly “warm wishes” from US ambassador to India Sergio Gor. In his X post, Mr Gor said: “As the US special envoy for South and Central Asia, I look forward to working closely with him.” Mr Trivedi reciprocated by saying: “I too look forward to working closely with you.”
+
+This has caused quite a stir.
+
+US ambassadors to India normally confine themselves to bilateral matters and do not reach out to Indian envoys in third countries such as Bangladesh -- such correspondence usually goes through the US embassy in Dhaka. Mr Gor, however, holds two titles -- ambassador to India, which New Delhi acknowledges, and special envoy for South and Central Asia, which it finds problematic.
+
+Former foreign secretary Kanwal Sibal publicly admonished Mr Trivedi on X, saying that he saw no issues on which the US ambassador to India should “work closely” with Indian envoys elsewhere in South Asia, including Bangladesh. Mr Sibal said: “For anything relating to India’s dealings with other South Asian countries, the point of contact is Delhi. By reaching out to you the US ambassador is asserting his wider mandate of coordinating relations within the subcontinent.”
+
+While recognising that Mr Trivedi had replied to Mr Gor as a matter of courtesy, Mr Sibal was making a substantive point: that there was a structural problem when Mr Gor addressed Mr Trivedi as the “US Envoy to South Asia”. It was an assertion that his job description covered India’s relations with its neighbours, including Bangladesh.
+
+Mr Sibal likened this to the 2009 “(Richard) Holbrooke mandate” for Afghanistan and Pakistan, which India had successfully resisted being included in, fearing it would invite outside interference in Kashmir. India had at that point warned that such a mandate covering India would be deeply unpopular. Mr Trivedi, perhaps unaware of this history, had effectively agreed to work with Mr Gor in his disputed capacity.
+
+The government has offered no rebuttal, apparently hoping to let the matter fade -- just as it was former diplomats, not the ministry of external affairs, who objected when Mr Gor was first given his dual title. This leaves the episode framed by the MEA’s own structural ambiguity. Mr Sibal, a known supporter of the Narendra Modi government, was not attacking Mr Trivedi but flagging the nuance, asking pointedly: “On what issues does our new HC in BD intends to work closely with the US ambassador to India?”
+
+Mr Trivedi, reacting with surprise, offered only a courteous non-answer to Mr Sibal -- largely a non-sequitur about global cooperation during Covid and disasters. Mr Trivedi’s reply neither engaged nor rebutted Mr Sibal's actual point about titles and mandates. Mr Trivedi seemed to have misunderstood it as a dig about being too friendly with the US ambassador rather than as a substantive diplomatic point.
+
+Mr Sibal was right about there being little scope for the US ambassador to India and India’s high commissioner to Bangladesh to usefully coordinate. There’s no looming “disaster” in Bangladesh for the two to avert jointly. Some observers note that since the US welcomed Sheikh Hasina's ouster and backed the Muhammad Yunus interim government, the possibility of joint US-India work in Bangladesh is prima facie questionable. India also worked hard ahead of Bangladesh’s February 2026 election to prevent the Jamaat-e-Islami-aligned Islamic forces gaining power. So?
+
+Even with closer coordination, India and the United States could not have prevented Bangladesh from signing 13 agreements with China following Bangladesh PM Tarique Rahman's Beijing visit -- including the Mongla Port modernisation project, the Chattogram economic zone, and the Teesta River management project. India was not a contender for Mongla, and its own Teesta cooperation was undercut by internal political disputes, especially with West Bengal.
+
+Neither the Indian high commissioner nor the US ambassador has any institutional standing to win Bangladesh projects for India. Neither controls financing decisions, the role of Indian states in river-sharing politics, or Bangladesh's sovereign choice of partners. This reinforces Mr Sibal's core point: that India's Bangladesh policy runs through New Delhi, not through Mr Trivedi's personal rapport with a US envoy. No social-media-coordinated push between the two could produce so much as a single project contract.
+
+Mr Trivedi's appointment illustrates the risks of installing retired politicians as envoys to neighbouring countries. They are opportunists riding the gravy train. Mr Trivedi, for example, has the dubious distinction of moving from the Congress to V.P. Singh’s Jan Morcha and the Janata Dal, then to the Trinamul Congress, and finally the BJP, never letting ideology stand in the way of opportunity.
+
+Political appointments to diplomatic posts are not new: Jawaharlal Nehru and later PMs made...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/bharat-bhushan-clueless-in-dhaka-polite-tweet-hits-major-tripwire-1966916)
+
+---
+
+### Parsa Venkateshwar Rao Jr | India Needs To Urgently Review Israel’s Current Military Power
+*Deccan Chronicle · Opinion*
+
+The US-Israel war against Iran hurt the Indian economy, and this is evident from the government’s assessments as well as the remarks of the RBI’s Monetary Policy Committee meeting last month. The war hasn’t triggered a crisis or a sharp slide in the growth figures, though the estimate for 2026-27 was reduced to 6.6 per cent, compared to 7.8 per cent in 2025-26.
+
+But there is another aspect Indian experts must assess, though it doesn’t directly impact the country. The strategy and security pundits must re-examine the military aspect of the months-long war to understand the balance of power in a region of utmost economic and strategic importance to India.
+
+The war hasn’t yet ended, and it can’t be deemed to have ended until US and Iran reach a final agreement in Switzerland, with Pakistan and Qatar playing mediators. But the hostilities that lasted between February 28 and April 6 do reveal the strengths and weaknesses of the combatants.
+
+It was evident from the start that Israel can’t take on Iran on its own, and needed the help of the US. This was proved in June 2025 when Israel’s bombers hit Iran’s nuclear installations, and President Trump said Israel couldn’t do it alone and needed America’s B-52 bombers to complete the job. When the B-52s joined the fray, they damaged the installations a little more, but not much.
+
+It was no surprise when the second attack was planned in February, the US and Israel decided to do it together. But this time too, the results didn’t match the intent. Iran still seems to possess enriched uranium. Mr Trump wants Iran to surrender it. In one of his exaggerated outbursts, Mr Trump declared that the Americans would enter Iran and whisk away the enriched uranium. Israeli PM Benjamin Netanyahu’s assertions imply that the nuclear threat Iran posed to Israel has been countered by the attacks, though he doesn’t claim the enriched uranium has been blocked. Of course, the claim was that Iran was not far away from making the nuclear bomb, and somehow the US-Israel attacks on Iran have disabled Iran from doing so. One of the terms of the MoU is that the International Atomic Energy Agency (IAEA), the UN nuclear regulator, should resume the inspection of the Iranian nuclear facilities. The contradictions in the Trump and Netanyahu statements are quite explicit.
+
+US vice-president J.D. Vance, in a media interview, has made it plain that Israel is not in a position to take on bigger countries, though he did not specifically mention Iran. He reminded the hawks in Mr Netanyahu’s government that Israel has a population of just nine million people, and it can’t pick up wars with all in the neighbourhood. It was a clear US reminder that Israel can’t fight Iran without America by its side; and that the US would not fight Iran just for the sake of Israel’s national interests. The US has to reckon with its own national interests in fighting Iran, and it does not lend to a war-to-the-finish. The US would only wage war to compel Iran to come to the negotiating table. Also, the US can’t overlook its own economic interests. The rise in gas prices at the pump in America is something that no administration can ignore.
+
+While the US joined hands with Israel for a war with Iran, the policy motivations were different for the two. Israel thus can’t look to the US for unqualified support in its war against Iran. Are there enough security compulsions for Israel to counter Iran’s military buildup?
+
+There seem to be sufficient reasons to do so. Iran’s support for Hezbollah in Lebanon poses a danger to northern Israel. Israel can handle the Hezbollah challenge without help from the US, but the military price it must pay for it is too high. Israeli soldiers occupying Lebanon does not ensure peace. And it is the same in Gaza. Israel has not been able to overwhelm Hamas in Gaza. So, Israel’s overwhelming military power against Hezbollah and Hamas is not sufficient to make Israel safe. The point is clear. Israel cannot hope to resolve its security concerns through the military option alone.
+
+So, Israel can tackle Hamas and Hezbollah in a manner of speaking, because of its military superiority, but its military power is not enough to check the security threat posed by Iran.
+
+The general perception in India’s security and strategy circles is that Israel is a pre-eminent military power in the region, and that it is even an exemplary one. But the war in Gaza since October 7, 2023 and its war with Iran and with Hezbollah in Lebanon indicate the limits of Israel’s military prowess. The assumption has been that Israel can militarily overrun all its neighbours because of its technologically advanced war machine. These wars don’t bear out the presumption. India can benefit from an Israeli defence partnership in importing technologically advanced equipment.
+
+But it would be wiser to be clear-eyed that Israel is not the monarch of all it surveys on the battlefield. At the political level, the ruling BJP has been starry-eyed about ...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/parsa-venkateshwar-rao-jr-india-needs-to-urgently-review-israels-current-military-power-1966902)
+
+---
+
+### Defending digital India: Why technology alone will not protect us
+*Deccan Herald · Opinion*
+
+India’s digital transformation has been one of its great public policy successes. Aadhaar, UPI, digital governance platforms and the digitisation of banking, education, healthcare, and commerce have created an ecosystem of unprecedented scale that is now integral to India’s economic and social life. Yet, the very success of this digital revolution has created a new strategic vulnerability.
+
+The World Economic Forum’s Global Risks Report identifies cybersecurity as one of the most immediate and significant risks facing India. Cyber-attacks are no longer isolated incidents; they represent a systemic threat to economic stability, national security, and public trust. India’s digital infrastructure has outpaced the capabilities needed to secure it. The numbers are striking. Industry reports indicate millions of cyber-attack attempts against Indian systems annually, and CERT-In has reported handling large numbers of cyber incidents.
+
+Education, healthcare, manufacturing, financial services, and government institutions have emerged as targets. More concerning is the changing nature of the threat. Cyber-attacks are no longer the work of isolated hackers seeking notoriety. They are increasingly conducted by criminal enterprises, state-sponsored groups, and organised networks. Ransomware groups have evolved into agile, distributed operations capable of attacking entire supply chains.
+
+In an earlier era, a disruption of physical infrastructure required military force. Today, a well-executed cyber operation can potentially disrupt financial transactions, interrupt electricity supply, compromise government databases, or undermine confidence in digital institutions. Cybersecurity has therefore become not merely an IT concern but a matter of national resilience. Just as nations invest in military academies to prepare for conventional threats, they must now invest in cyber academies to prepare for conflicts in the digital domain. The Government of India has recognised the challenge through increased investments, an expanded role for CERT-In, stronger sectoral frameworks, and initiatives such as the Financial Fraud Risk Indicator and the national cyber fraud helpline. These initiatives are necessary and commendable.
+
+However, a critical question that receives insufficient attention is: who will operate, manage, and continuously improve these defensive systems? Technology can be purchased. Human expertise cannot. India today faces a significant shortage of highly skilled cybersecurity professionals. While many institutions offer cybersecurity courses, most focus on theory, compliance or basic network administration. What is urgently needed is advanced, specialised training capable of producing professionals who can operate at the highest levels of cyber defence.
+
+The cybersecurity workforce required by India over the next decade cannot consist solely of security analysts monitoring dashboards. The country needs cyber threat hunters, digital forensics experts, industrial control systems specialists, cloud security architects, cyber intelligence analysts, cryptography experts, and specialists capable of defending critical infrastructure against state-sponsored attacks. Such expertise requires cyber ranges, live attack simulations, advanced laboratories, and collaboration with defence organisations, intelligence agencies, technology companies, and critical infrastructure operators. It also requires continuous upskilling because the threat landscape evolves faster than traditional curricula.
+
+This is where policy must shift from awareness to capability building. What might such a capability-building agenda look like? First, India should establish a National Cyber Workforce Mission on the lines of the Skill India and Digital India initiatives. The objective should be to create a pipeline of cybersecurity professionals at multiple levels: from technicians and SOC analysts to elite cyber operators capable of defending critical infrastructure. The mission should bring together government, industry, universities, defence establishments, and technology firms for training, certification and deployment.
+
+India needs a network of advanced cybersecurity academies equipped with cyber ranges, digital forensics laboratories, malware analysis centres, and simulated critical infrastructure environments. These academies should provide specialised programmes for defence, law enforcement, public-sector, and critical infrastructure personnel. Their purpose should not merely be education but the creation of operational readiness.
+
+Several practical measures can be undertaken immediately. Critical infrastructure operators should be required to conduct annual cyber resilience exercises and independent red-team assessments. Sector-specific Cyber Security Operations Centres should be established for power, healthcare, transportation, and manufacturing.
+
+Universities should introduce interdisciplinary cybersecurity programmes combining computer science, law, public policy, and intelligence studies. A national cyber scholarship programme should support talented students entering specialised fields such as cryptography, digital forensics, and AI security. Structured public-private threat intelligence-sharing mechanisms should be institutionalised to enable faster detection and response to emerging threats.
+
+India’s digital economy is expected to become one of the largest in the world. Our aspirations in AI, semiconductor manufacturing, defence technology, and digital public infrastructure depend on trust in digital systems. That trust cannot be maintained through software alone. The question before India is not whether cyber-attacks will occur, but whether we will possess the institutional capacity and specialised talent required to anticipate, withstand, and recover from them.
+
+India has demonstrated its ability to build world-class digital infrastructure. The next national mission must be to build world-class cyber defenders.
+
+The writer is the former civil servant enjoys traversing the myriad spaces of ideas, thinkers, and books.
+
+Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
+
+[Read full article](https://www.deccanherald.com/opinion/defending-digital-india-why-technology-alone-will-not-protect-us-4054642)
+
+---
+
+### Nothing is delivered
+*Deccan Herald · Opinion*
+
+Bob Dylan’s 1967 song from The Basement Tapes, ‘Nothing Was Delivered’, is a classic American folk parable, falling somewhere between a prophecy and a joke. Someone was promised something. Someone waited. Nothing came. Isn’t that more or less the entire economic, ecological, and psychic condition of Gen Z today?
+
+‘Nothing was delivered/ And I tell this truth to you/ Not out of spite or anger/ But simply because it’s true’.
+
+For those who haven’t yet heard, there is a South Korean website called FoodNeverComes. It looks and behaves exactly like a food-delivery app. You browse dishes, add them to your cart, proceed to checkout, and track a rider as he approaches your doorstep. The familiar theatre of anticipation: the icon moving, the countdown shrinking, the delicious illusion of imminence. But no money is charged. No kitchen is alerted. No food arrives. Nothing gets delivered. That is the point.
+
+Adults are aghast, yet again, at the depths of absurdity that Gen Z turns to. But I disagree completely. I don’t see FoodNeverComes as a fake delivery simulator. I see it as a training module for the future, preparing the young for a world in which the forms of satisfaction remain while the substance disappears. The button remains. The tracking map remains. The dopamine hit remains. What vanishes is the food, the wage, the house, the secure job, the stable climate, the plausible adulthood. Our generation promised them a lot. Nothing will be delivered.
+
+These platforms are called “dopamine sites”, digital spaces that simulate rewarding behaviours without real-world consumption. A fake shopping site lets you fill a cart without buying. A fake smoking-break site lets you take a cigarette break without a cigarette. The apparatus of desire is preserved; the object of desire is removed. This is supposed to be the therapeutic part.
+
+One can see the appeal. A 25-year-old, hungry at 2 am and trying not to waste half a day’s wages on noodles, opens the site, clicks, tracks, waits, and somehow feels relieved. It is pathetic to us adults only if we pretend that the real delivery economy is better. But what is so noble about the “real” version? A hungry worker summons another hungry worker, through an app owned by investors, to deliver overpriced food cooked by underpaid labour, while all parties are algorithmically monitored and none is happy. The real transaction is already a simulation of abundance built on scarcity. FoodNeverComes merely removes the food and, in doing so, accidentally reveals the truth.
+
+‘Now you must provide some answers/ For what you sell has not been received’.
+
+The hunger was never only for food. It was for agency; for the tiny sovereignty of saying: I want this, and therefore I shall have it. As young people lose control over the major architecture of their lives, consumer choice is the last toy kingdom left to them. You may not be able to buy a house, breathe clean air, or retire. But you can choose between biryani, ramen, shawarma, and molten chocolate cake at 1:37 am.
+
+This is why FoodNeverComes feels less like a novelty than a parable. It belongs to a generation that was promised education as mobility; they inherited it as debt. They were promised the internet as liberation; they inherited surveillance, addiction, and the monetisation of hate. They were promised meritocracy; they met entry-level positions demanding three years of experience and gratitude for exploitation.
+
+So, what is Gen Z asked to do? Work harder for jobs that may not exist. Study longer for professions that may be automated. Save in economies designed to extract. Build lives on a planet whose weather is deranged. Stay optimistic while doomscrolling through ecological collapse, war footage, rent inflation, and billionaires discussing Mars as though Earth were an old gf they plan to ghost. Under these circumstances, FoodNeverComes is not escapism, but realism.
+
+Still, there is something oddly hopeful in its absurdity. The joke knows it is a joke. It does not confuse simulation with nourishment. The website states plain and clear what most institutions conceal: “this will not feed you”. The fake app is more truthful than the real economy. It does not take your money. It does not pretend to love you. It says: here is the ritual, here is the craving, here is the little hit, here is the nothing at the end.
+
+‘Nothing was delivered/ But I can’t say I sympathise/ With what your fate is going to be’...
+
+The writer, as Dr Jekyll, is a Professor of Philosophy, Politics and Law, author and editor of over 20 books and counting, and as Mr Hyde, one of India’s top-ranking Ironman triathletes.
+
+Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
+
+[Read full article](https://www.deccanherald.com/opinion/nothing-is-delivered-4054649)
+
+---
+
+### Are you and I Indian citizens?
+*The New Indian Express · Opinion*
+
+The torment began from there. If these tokens of belonging collapse under legal scrutiny, then what remains of the India Bharatiyas thought they were part of? That wound has now been ripped open wider by the ministry of external affairs. On Passport Seva Divas, it announced that the Indian passport is nothing more than a travel document and carries no conclusive weight as proof of citizenship. The very ministry that issues this document under the Passports Act has chosen to publicly detach it from the citizenship the Act was written to protect.
+
+The torment deepens because this is not some distant legal quibble. It is the State reaching into the pocket of every citizen who has ever queued at a Passport Seva Kendra, submitted biometrics, and walked out believing the blue booklet affirmed their place in the nation. The Passports Act itself was framed in the language of belonging. Its preamble categorically states that passports would be given to those who are citizens of India.
+
+These opening words make this purpose unmistakable. Yet, the MEA now tells ordinary Indians that the passport they carry as the face of the nation proves nothing about who they are. This is not evolution of law. It is escalation of the same betrayal the courts exposed a year ago.
+
+Then, plastic and digital tokens were stripped of meaning. Now, India’s most solemn travel document is added to the pile of hollow proofs. The torture is not abstract. It lives in the quiet panic of families whose roots reach back to undivided India, whose papers vanished with Partition and time, and who now wonder whether even the passport they renewed last year will survive the next verification drive.
+
+The contradictions cut deeper than any courtroom observation. When the same MEA appoints heads of missions to represent India in foreign capitals, it hands them diplomatic passports on the strength of service records and the ordinary Indian passports it now disowns. Foreign governments accept these credentials without asking for extra proof of nationality.
+
+Elected members of Parliament and state Assemblies declare their citizenship through nomination papers backed mainly by voter registration certificates. No separate citizenship certificate is demanded or produced. If neither the passport nor the voter ID can establish that someone is Indian, how do these officials qualify to speak for the country or make its laws? The State extends quiet presumptions to those who govern while demanding ever more elusive proof from those who are governed. This asymmetry leaves ordinary citizens exposed while shielding the political class.
+
+Political reactions have only sharpened the divide. Opposition leaders have seized on the MEA statement as proof of deliberate confusion. Congress leader Rahul Gandhi described it as “an attempt to create an atmosphere of suspicion against every Indian so that the government can justify its voter-list purges”. West Bengal’s former Chief Minister Mamata Banerjee went further, calling the clarification “a dangerous game that questions the very identity of citizens who have lived here for generations”. Leaders from the INDIA bloc have echoed this, arguing that the timing is no coincidence.
+
+With voter-list revisions active in Bihar and West Bengal, they see the MEA intervention as a way to soften public resistance to stricter scrutiny by first undermining faith in existing documents. Government and BJP voices have pushed back with equal force, insisting the clarification is nothing new. A BJP spokesperson dismissed the outrage as “opposition mischief” aimed at distracting from the government’s efforts to clean electoral rolls of illegal entries.
+
+However, a section of the BJP leadership has privately echoed that the MEA’s “elitist” framing has created unnecessary domestic trouble, damaging the government’s image at a time it is performing strongly on other fronts. They believe the statement should have come from the home ministry, which actually handles citizenship, rather than from diplomats who do not understand the political sensitivities involved. These competing narratives have left citizens caught in the crossfire.
+
+The numbers reveal the scale of the confusion. Only about 2.5 percent of Indians hold passports. The government spent over Rs 12,000 crore building Aadhaar as the ultimate biometric link to existence. It is mandatory for banking, taxation and travel. Yet when the question turns to citizenship, the same system is dismissed as irrelevant.
+
+The Register of Citizens, the one document prepared after systematic government diligence every decade, remains frozen since 2011. A young professional applying for a job abroad now wonders whether her or his passport will be enough. The impact travels beyond borders. When India’s own government signals that its passport does not prove nationality, foreign immigration authorities gain fresh licence to demand extra verification from Indian travellers, students and professionals.
+
+Identity has been turned into perpetual interrogation. Citizenship has been reduced to suspicion. The latest blow has turned private anxiety into public policy. It arrives at a moment when the home ministry remains silent on the larger question of what actually constitutes proof of citizenship. The result is a system that demands evidence it knows millions cannot easily produce and then dismisses the evidence it has itself created. The motive appears less about doctrinal purity and more about manufacturing ambiguity at a politically charged juncture.
+
+India needs to end this democratic disgrace. It must issue like the US and Germany, a single, sovereign citizen card under the Citizenship Act that conclusively establishes nationality, voter eligibility and identity in one secure document.
+
+Other nations resolved this long ago. India has spent decades and vast sums building fragmented systems that the State itself can declare hollow at will. Until that single card exists, crores of Indians will continue to clutch their documents like charms, only to be told they are nothing more than scraps of plastic. The cruellest truth remains. After 79 years of freedom, the question of who is an Indian still drifts unanswered, haunting the very idea of India. As of now, I am a voter. But what about the future?
+
+[Read full article](https://www.newindianexpress.com/opinion/columns/pc/2026/Jun/27/are-you-and-i-indian-citizens)
+
+---
+
 ## 27 June 2026
 
 ### ​Tragic evening: On the earthquake in Venezuela
