@@ -1,3 +1,224 @@
+## 27 September 2026
+
+### Nepal rain triggers fresh floods as death toll stays above 1,450
+*India Today World Desk · general*
+
+## Fresh rain has triggered new floods, landslides and evacuations across several districts in Nepal. The renewed damage has deepened a month-old disaster, keeping rivers high and communities on alert.
+
+Stock photo used for illustration
+
+Kathmandu,Sep 27, 2026 10:36 IST
+
+Relentless rain across Nepal since Thursday has triggered fresh floods and landslides, swept away houses and disrupted road traffic, according to a media report. The fresh damage has come as the Himalayan country continues to deal with a disaster that has killed at least 1,453 people, while more than 5,000 remain missing.
+
+The National Disaster Risk Reduction and Management Authority said 1,451 bodies had been recovered till Saturday, a month after flash floods originating near the Nepal-Tibet border devastated towns and villages in northern and central Nepal. Two others died while undergoing treatment. A total of 13,795 people had been rescued till Saturday, the authority said.
+
+In Rupandehi district in Lumbini province, floodwaters from the Tinau River swept away six houses along the riverbank in Butwal on Saturday night after the river rose above its danger level, the Kathmandu Post reported. A police official was quoted as saying that around 200 houses along the riverbank in Butwal were at risk, and security personnel evacuated about 1,000 people overnight after the Tinau and nearby streams swelled amid continued rain.
+
+Authorities first moved around 500 residents from Majhuwa, a high-risk area in Butwal Metropolitan City-13, to the Durga Temple holding centre, the report said. They were later shifted to safer places in various schools in Butwal-11. The Tinau crossed its danger mark at around 8 pm on Saturday, prompting rescue and evacuation operations. The Rupandehi district administration has urged people living near rivers and streams to stay alert and move to safer areas if water levels rise further.
+
+In Chitwan district of Bagmati province, the Narayani River and the Riu stream crossed their danger levels early on Sunday as rain continued. At the Devghat gauge station, the Narayani reached 9.23 metres at around 5.15 am, according to the Department of Hydrology and Meteorology. The warning level there is 7.3 metres and the danger level is 9 metres. The Riu, which flows along the boundary of Madi and Chitwan National Park, reached 3.92 metres. Its warning level is 3.4 metres and its danger level is 3.8 metres, the Kathmandu Post reported. The Riu flows through southern Chitwan before joining the Rapti River near Meghauli and eventually draining into the Narayani.
+
+Heavy rain also triggered landslides and mudslides at several points in Chitwan, disrupting road traffic. At Dharapani in Ichchhakamana Rural Municipality-4, part of the road subsided further and a mud-laden landslide blocked traffic in both directions, a police official said. A landslide at Simaldhara in the same municipality also blocked the road in both directions.
+
+Flood and landslide risks also remained high in Karnali, where river levels continued to rise. The Thuli Bheri River in Dolpa reached 3.46 metres, just below its 3.56-metre warning level and 3.76-metre danger level, with the water level still rising. In Humla, the Karnali River at Sarkegad stood at 2.74 metres, below its 4-metre warning level, but was rising. The river level at Biunhidhanda was 2.42 metres. The Mugu Karnali stood at 5.1 metres, below its 7.5-metre warning level and 9-metre danger level, with the water level rising.
+
+A landslide blocked the Nagna-Gamgadhi road at Jharikhola in Mugu, the report said. In Kalikot, a mudslide at Gagne Khola in Shubhakalika Rural Municipality-1 blocked the Karnali Highway. The Tila Karnali there stood at 3.27 metres, below its 5-metre warning level and 5.45-metre danger level, with the river level falling. Landslides also disrupted traffic along the Karnali Corridor at Khaccha in Sarkegad-1, Gopchegauda in Kharpunath-1 and Yalwang in Namkha-4 in Humla. In Jumla, water levels in the Tila Karnali and Sija rivers remained stable at 3.74 metres and 2.86 metres respectively.
+
+With rain continuing, authorities across the affected districts have urged residents in flood- and landslide-prone areas to remain alert and move to safety when needed. On Saturday, flooding from the Narayani and Saptakoshi rivers inundated 389 houses in Nawalparasi West and Saptari districts, forcing hundreds of families to move to safer locations.
+
+With PTI Inputs
+
+\- Ends
+
+---
+
+### Jaishankar at UNGA highlights AI, says nations should shape own technology paths
+*SECTIONS Jaishankar · business*
+
+External Affairs Minister S Jaishankar said every nation has the right to shape its own artificial intelligence ecosystem, including through the development of domestic models and deployment strategies aligned with its national goals and priorities.
+
+Addressing the 81st United Nations General Assembly (UNGA), Jaishankar said India sees AI as an important part of its partnership agenda with the Global South.
+
+He described AI as a transformational driver for human empowerment, economic prosperity and population-scale problem solving, while underlining the importance of democratising technology and promoting cultural understanding.
+
+  
+
+“An issue central to current global conversations, is that of AI. India hosted the AI Impact Summit this February, gathering together the best minds on that subject. We view AI as a transformational driver, for human empowerment, economic prosperity and population-scale problem solving,” he said.
+
+“We believe in the right of each nation, to shape its eco-system, with the development of its own models, and deployment strategies, consistent with its national goals and priorities. AI will be very much part of our partnership agenda, with the Global South,” Jaishankar added.
+
+Jaishankar also stressed the importance of mutual respect as access to technology expands, saying consideration for the interests and viewpoints of others can strengthen the prospects for peace.
+
+He further highlighted the role of culture and heritage in fostering international understanding in a globalised world. Economic and political rebalancing is already underway, he said, while cultural rebalancing also needs to be advanced.
+
+“As technology is democratized, this process is greatly facilitated, by an ethos of mutual respect. Indeed, care and consideration for the interests, and viewpoints of others, reinforces even the prospects of peace,” he said.
+
+“In a globalized world, we must continuously and vigorously, promote international understanding. Economic rebalancing is well underway; the political one is also visible, and the third facet, cultural rebalancing, must now be taken forward,” he said.
+
+Jaishankar also highlighted the challenges confronting the Global South, including crises involving food, fuel, fertilizer and finance. He said the misuse of AI was adding to concerns and weakening mutual respect.
+
+"The predicament of the Global South, is particularly acute. It faces a 4F crisis, of the security of food, fuel, fertilizer and finance. The combined impact of a Super El Nino, compounding fertilizer shortages and now impediments to grain movements, all these are cause for alarm. Moreover, SDG progress is under increasing pressure. The Global South’s right to industrialize is also undermined by non-market practices and market denial. The march of technology, that was meant to instill hope, has now become a source of anxiety. Misuse of AI is sharpening bias, and diluting mutual respect. These directions bode ill for the aims and objectives of the United Nations," he said.
+
+---
+
+### Maharashtra earthquake: 3.6 magnitude tremor hits Palghar, no injuries or damage reported
+*SECTIONS Maharashtra earthquake · business*
+
+A tremor measuring 3.6 on the Richter scale struck Maharashtra’s Palghar district on Saturday night, officials said on Sunday. The earthquake was recorded at around 10:33 pm, with its epicentre located in the Talasari area at a depth of approximately 5 kilometres, according to officials.
+
+## No Injuries Or Property Damage Reported
+
+"There is no case of any injury or damage to houses," district Disaster Management Cell chief Vivekanand Kadam said.
+
+Officials said there were no reports of injuries or damage to buildings following the tremor.
+
+  
+  
+
+## Authorities Monitor Situation
+
+Local authorities are keeping a watch on the situation and monitoring the area following the earthquake.
+
+Palghar, located in coastal Maharashtra, has recorded several low-intensity tremors over the years. Authorities have urged residents to remain calm and follow standard earthquake safety precautions.
+
+\[With PTI inputs\]
+
+---
+
+### ‘How do you look at borders?’: Bangladesh envoy recalls young girl's striking question in Srinagar
+*ET Online · business*
+
+Recalling his tenure in India, Bangladesh High Commissioner Riaz Hamidullah shared a memorable visit to DPS Srinagar, where Class 12 student Fatima, a student radio jockey, asked him an unexpected question: “How do you look at borders?” Hamidullah said the interaction made him reflect on how people ...
+
+[Read full article](https://economictimes.indiatimes.com/news/india/how-do-you-look-at-borders-bangladesh-envoy-recalls-young-girls-striking-question-in-srinagar/videoshow/134514843.cms)
+
+---
+
+### Gyanesh Kumar BJP Ticket Claim: Ex-Kerala Chief Secretary’s Allegation | CEC Under Scanner | News18
+*Unknown · general*
+
+Chief Election Commissioner Gyanesh Kumar is facing fresh political scrutiny after former Kerala Chief Secretary Jiji Thomson alleged that Kumar, while serving as an IAS officer in 2016, asked him to consider contesting the 2019 Lok Sabha election as a BJP candidate from Pathanamthitta.Thomson said ...
+
+[Read full article](https://www.news18.com/videos/breaking-news/gyanesh-kumar-bjp-ticket-claim-ex-kerala-chief-secretary-s-allegation-cec-under-scanner-news18-10355205.html)
+
+---
+
+### AI taking jobs? Techie warns how long-term EMIs could become a financial burden for software engineers
+*Trending Desk · business*
+
+With the fear of AI taking jobs, a software engineer has raised concerns about long term EMIs. An Instagram user Princi Vershwal posted a video saying getting laid off is stressful. She wrote “getting laid off is stressful. Getting laid off with EMIs to pay is another level.’
+
+**AI Could Change The Software Engineering Job Market**
+
+In the video, Vershwal said professionals should consider how quickly AI is developing while making major financial decisions. She argued that a software engineer's current package, whether Rs 40 lakh, Rs 50 lakh or Rs 1 crore, may not necessarily remain at the same level throughout the tenure of a long-term loan.
+
+  
+  
+
+She then continued in the video by say “If you are a software engineer, no matter what your package is, whether it's 40 lakh, 50 lakh, or 1 crore rupees, do not take any long-term loan, because AI is very real. And unless you have a very solid plan, you cannot bet the financial security of your family on software engineering in 2026. This is very real. I'm not spreading fear here; I'm just telling you what I am seeing happening with my friends. Getting laid off with an EMI, with an EMI coming up next month, is super, super stressful. And it’s possible your job might not go this year, or next year, but software engineering after 15 years, while your loan is still ongoing, a lot will have changed. So be very careful of your financial decisions right now,”
+
+## ‘I Am Not Saying Software Engineering Jobs Would Disappear’
+
+She then also clarified in her Instagram caption that “I am not saying software engineering jobs would disappear. I am saying 15 years is a very long time to assume our jobs, salaries and skills will stay the same.”
+
+  
+
+## How social media users react
+
+The video prompted several users to discuss the risks associated with long-term EMIs and uncertain job markets.
+
+“This is a much-needed reality check," one user wrote.
+
+Another user commented, “Long-term EMIs can become a huge burden.”
+
+**Disclaimer:** _This article is based on a user-generated post on Instagram. ET.com has not independently verified the claims made in the post and does not vouch for their accuracy. The views expressed are those of the individual and do not necessarily reflect the views of ET.com. **Reader discretion is advised.**_
+
+---
+
+### NEET PG 2026 candidates allege score discrepancies, AIMSA writes to health minister
+*India Today Education Desk · general*
+
+## NEET PG 2026 candidates have raised concerns over alleged score discrepancies and the evaluation process. AIMSA has written to Health Minister JP Nadda, seeking the official question paper, answer key, and individual recorded responses.
+
+NEET PG 2026 candidates raise result concerns, AIMSA writes to health minister JP Nadda seeking answer key (representative image)
+
+New Delhi,Sep 27, 2026 10:18 IST
+
+The NEET PG 2026 results were declared on September 24, 2026. Within three days of the result announcement, several candidates alleged discrepancies and inconsistencies in their scores and sought clarity on the evaluation process.
+
+A significant number of medical aspirants submitted representations to the All India Medical Students' Association (AIMSA), seeking its intervention over the perceived discrepancies. Following the requests, AIMSA wrote to Union Health Minister JP Nadda, urging the government to direct the release of the official answer key and candidates' recorded responses so that aspirants can independently verify their performance.
+
+The official notice reads, ‘On behalf of the All India Medical Students Association (AIMSA), we respectfully wish to bring to your kind attention the concerns being raised by numerous NEET-PG 2026 aspirants regarding perceived discrepancies and inconsistencies in their examination results.
+
+A considerable number of candidates have approached AIMSA expressing concerns regarding the marks obtained in their results and seeking clarity on the evaluation process. In view of these representations, we respectfully request that the official answer key and recorded responses be released at the earliest, enabling candidates to independently verify their performance.’
+
+All India Medical Students' Association's tweet.
+
+In the official letter, AIMSA has urged the Health Minister to make the following available to NEET PG 2026 candidates:
+
+-   The official NEET PG 2026 question paper
+-   The official answer key for all questions
+-   The individual response sheet or recorded responses of each candidate who appeared for the examination
+
+### NEET PG 2026 CUT-OFF LOWEST IN 6 YEARS
+
+The NEET PG 2026 qualifying cut-off has dropped to its lowest level in six years across categories. The threshold is 262 marks for General/EWS candidates, 244 for General PwBD and 226 for SC, ST and OBC candidates, though the qualifying percentiles remain unchanged.
+
+Experts say the lower score should not be interpreted as an easier path to postgraduate medical education. They point to factors including exam difficulty, score distribution, changing preparation patterns, dependence on coaching and the availability of PG seats. More than 18,000 PG seats were reportedly vacant during the previous counselling cycle, adding another dimension to the fall in the qualifying cut-off.
+
+\- Ends
+
+---
+
+### Wound that doesn't heal: A year on, CM Vijay remembers Karur stampede victims
+*Nagarjun Dwarakanath · general*
+
+Tamil Nadu Chief Minister and TVK chief Vijay on Sunday remembered the 41 people who died in the Karur stampede a year ago, saying the tragedy remains “a wound that does not heal” and “a pain that does not fade."
+
+Marking the first anniversary of the September 27, 2025 tragedy, Vijay said the day remained etched in the lives of the victims’ families, his supporters and the wider TVK family. He said those mourning the deaths continued to carry an “unspeakable grief.”
+
+“Last year. This same day. That is, September 27, 2025,” Vijay said in a post on X, recalling the day the stampede occurred during a TVK rally in Karur.
+
+He described the tragedy as a “sorrowful event” that had left a lasting wound in the lives of the victims’ relatives and the party’s supporters.
+
+“To us, grieving the loss of the relations we carried in our hearts, we ourselves will be comfort, support, and refuge,” Vijay said, adding that the victims continued to live on in memory.
+
+He ended his message with a tribute to those who died in the stampede, saying, “Our heartfelt tribute to all the relations who live on in memory.”
+
+### WHAT HAPPENED IN KARUR?
+
+The Karur stampede took place on September 27, 2025, during a TVK political rally at Veluswamypuram in Karur district, where a massive crowd had gathered for Vijay's address. A crowd surge turned deadly, killing 41 people and injuring dozens of others.
+
+The incident led to an investigation into the circumstances surrounding the tragedy. The Tamil Nadu government initially constituted a Special Investigation Team, but the Supreme Court later transferred the probe to the Central Bureau of Investigation, saying the incident warranted an independent and impartial investigation.
+
+The CBI has since examined aspects including permissions granted for the event, crowd-management measures, police deployment and the emergency response. Several TVK functionaries have also been questioned by the agency.
+
+The CBI later summoned Vijay to appear before the agency in connection with the case.
+
+\- Ends
+
+---
+
+### India news Live Updates, 27 September 2026: Kerala Vigilance and Anti-Corruption Bureau seizes unaccounted cash of Rs 14.10 lakh, USD 788 from GST official’s residence
+*Express Web Desk · legal*
+
+Kerala VACB seized Rs 14.10 lakh and USD 788 during raids linked to a probe into alleged disproportionate assets of GST Joint Commissioner Prajani Rajan.
+
+[Read full article](https://indianexpress.com/article/india/india-news-live-updates-27-september-2026-kerala-vigilance-bureau-gst-lpu-protests-raid-delhi-sir-deadline-extension-realtime-updates-10895778/)
+
+---
+
+### 'Abused Me, Poured Urine Outside My House': Bengaluru Woman Alleges Harassment By Rapido Driver | Video
+*Meemansa Shekhawat · general*
+
+The woman alleged that the driver attempted to forcibly open the door of her residence before pouring urine outside and sending her an abusive voice note on WhatsApp
+
+[Read full article](https://www.news18.com/india/abused-me-poured-urine-outside-my-house-bengaluru-woman-alleges-harassment-by-rapido-driver-video-ws-l-10355172.html)
+
+
+---
+
 ## 26 September 2026
 
 ### ‘Daily time limits, filter controls, and account privacy’: TikTok agrees to ‘platform-level changes’ for teens, settles lawsuit with Alabama for $100 million days before trial
