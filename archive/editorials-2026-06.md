@@ -1,5 +1,239 @@
 # Editorials archive — 2026-06
 
+## 29 June 2026
+
+### Buyer beware: On the QR code-based drug traceability framework
+*The Hindu · Editorial*
+
+The Health Ministry’s notification to expand Schedule H2 drugs to entire therapeutic classes now from a curated list of brands earlier is a commendable change from regulating based on revenue to regulating based on risk. The government had introduced Schedule H2 in 2022-23, which required a barcode or QR code on each pack of specific drugs to verify the pack’s authenticity. It is part of a framework that also touches on regulating active pharmaceutical ingredients and export-oriented pharmaceutical compliance. Now, with the additional symbols encoding a product identifier, the manufacturing licence number, batch number, and other details, authorities hope to better track down defective batches. Counterfeit networks have long targeted vaccines, cancer medicines and antimicrobials, with WHO flagging high volumes of fake antimicrobials in low- and middle-income countries. India has one of the world’s highest antimicrobial resistance rates, and substandard antimicrobials can lead to sub-therapeutic dosing, exerting selection pressure on resistant strains. The Narcotics Control Bureau has also expressed concerns about medicinal opioids and psychotropic substances ‘leaking’ into illicit markets. The government will hope that the new system addresses the U.S. FDA’s and the European Medicines Agency’s recurring concerns about quality control, an issue on which India has found itself on the back foot over contaminated cough syrups. The U.S. Trade Representative has also repeatedly identified India as a leading source of counterfeit medicines, with many fake pharmaceuticals seized at the U.S. border originating from or transiting through India.
+
+Together with policy changes effected by the Jan Vishwas Act 2026, the new framework finally distinguishes between procedural non-compliance and substantial non-compliance, considering only the latter constitutes meaningful enforcement. In the long term, the government should rationalise the compliance burden and eliminate the risk of corruption associated with discretionary enforcement. The government must also recognise that the QR code system will only be effective if backed by a state-managed database that pharmacists and regulators can access in real time, supported by interoperable software and scanning infrastructure across States. Second, pharmacists and consumers must develop a habit of verifying medicines before a sale. Third, the compliance needs imposed by new packaging requirements and the IT integration will strain MSME manufacturers in particular. Finally, prescription data on controlled substances is sensitive information and will need to be handled with a digital governance layer that does not yet exist. Thus, whether the new framework will improve India’s reputation as a pharmacy comes down to its implementation.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/buyer-beware-on-the-qr-code-based-drug-traceability-framework/article71158371.ece)
+
+---
+
+### Sharing waters: On the Tungabhadra model
+*The Hindu · Editorial*
+
+The coming together of the Chief Ministers of Karnataka (D.K. Shivakumar), Telangana (A. Revanth Reddy) and Andhra Pradesh (N. Chandrababu Naidu), along with Union Jal Shakti Minister C.R. Patil, at the inauguration of the 33 spillway gates of the Tungabhadra dam on June 25 was significant beyond the optics. The three leaders pledged greater inter-State cooperation, which is welcome given that the dam has largely remained free of major disputes due to an established water-sharing formula and the Tungabhadra Board’s regulation of releases. Located in Karnataka’s Koppal district, the dam is considered to be the lifeline of the three southern States, providing irrigation to about 16.4 lakh acres — 9.26 lakh in Karnataka, 6.25 lakh in Andhra Pradesh, and 87,000 in Telangana. It hit the headlines in August 2024 when a crest gate was washed away during heavy inflows — which also happened when the dam was full with 105 thousand million cubic feet (tmc ft) of water. The damaged gate was replaced with a temporary one, but with much water wasted, the authorities, who did not want to take chances with the other 32 gates, chose to install high-grade steel gates, at ₹51 crore and which are expected to last 60 years.
+
+Notwithstanding the bonhomie, the differences among the leaders on some issues concerning the larger Tungabhadra project cannot be brushed aside. The Upper Bhadra project, a major lift irrigation scheme under implementation in the central region of Karnataka and upstream of the Tungabhadra dam, has emerged as an irritant for Andhra Pradesh and Telangana. At one stage, the BJP-led Union government had made a provision of ₹5,300 crore in its budget for 2023-24, a few months before the Karnataka Assembly elections. However, the Centre later chose not to include it under any of its schemes, but this is being implemented by a Karnataka government undertaking. It remains to be seen whether the spirit of camaraderie will help the three neighbours to overcome their differences on the Upper Bhadra issue. The Tungabhadra dam is also facing excessive siltation, which has reduced its storage capacity from the original 133 tmc ft to about 106 tmc ft. Mr. Patil has assured the Chief Ministers about the Centre’s plan to remove silt from water reservoirs across the country including the Tungabhadra. More importantly, the Union government should closely monitor and expedite, wherever required, the execution of dam rehabilitation and improvement projects being taken up in 19 States. Any laxity with regard to dam safety may have disastrous consequences. The focus must be on prevention, not reparation.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/sharing-waters-on-the-tungabhadra-model/article71158393.ece)
+
+---
+
+### The new digital slavery needs constitutional guardrails
+*The Hindu · Opinion*
+
+In his profound encyclical, Magnifica Humanitas, Pope Leo XIV grounds the contemporary crisis of technology in elemental theology, reminding humanity that the individual stands at the absolute centre of divine creation. Yet, this sacred human dignity faces an unprecedented challenge. The Holy Father warns that artificial intelligence (AI), left unchecked, threatens to turn the ownership of our personal data into a new form of digital slavery — a subjugation as cruel as human bondage. Because the stakes are so inherently tied to human dignity, the Pontiff insists that the governance of AI cannot rely on vague good intentions, nor can it be left to the private consciences of the engineers who build these systems. Instead, he issues an urgent call for robust, binding law over abstract ethics, independent public oversight over the empty promises of Silicon Valley’s modern pharaohs — and a clear requirement that a human being remains accountable whenever an automated system decides who gets a loan, a job, a medical bed, or an education. Pope Leo XIV’s core demand is that this new electronic Curia be strictly regulated rather than quietly surrendered to a handful of private tech monopolies whose reach and resources already outstrip most sovereign governments. He even goes so far as to commend the courage to deliberately slow down the development of AI.
+
+Also Read | The science of AI and the AI of science
+
+When regulation lagsHowever, a fundamental problem remains: AI and morality do not observe the same time. AI is developed at the breakneck speed of the start-up culture, driven by an ethos to move fast and run perpetual beta tests on society in the guise of progress. This velocity is fuelled not just by commercial rivalries, but by relentless mathematical innovation spanning from Silicon Valley to Shenzhen. It presents a deeper hurdle for lawmakers worldwide: parliament can govern what a person does, but it can never forbid a mathematical theorem, a discovery, or an equation from being made. How do lawmakers fulfil the Pope’s wishes?
+
+Power politics in the age of AILaw in most democracies moves slowly. By the time landmark legislation such as the European Union’s Artificial Intelligence Act or the United Kingdom’s Online Safety Act were painstakingly debated and passed, the specific technical harms they were built to combat had already mutated, leaving an entire generation to grow up inside unaddressed digital vulnerabilities. Policymakers have historically been behind the innovation curve, and under current paradigms, we will be again.
+
+If legislation is fated to lag behind innovation, the consequences for democratic societies are not merely regulatory; they are existential. Democracy cannot function if citizens cannot distinguish reality from fabrication. At its core, democratic governance relies on a shared epistemic foundation: a collective agreement on basic facts from which public debate, policy, and electoral choices can flow. When that foundation is systematically undermined, the entire democratic project is threatened. Today, AI-generated disinformation and advanced synthetic media (“deepfakes”) have advanced to a level of fidelity where the human eye and ear can no longer reliably detect forgery. This is already our reality. Highly convincing audio and video duplications of political leaders are deployed strategically during sensitive electoral cycles to depress voter turnout, fabricate scandals out of thin air, and instantly shatter public trust in legitimate state institutions.
+
+Related StoriesWhy has the government issued a directive on deepfake? | Explained
+
+War, deepfakes and the fragility of truth
+
+Deepfakes and the death of truth
+
+This vulnerability is hyper-charged by algorithmic manipulation. Big Tech platforms operate on business models engineered exclusively to maximise user engagement. Because outrage, fear, and sensationalism generate the highest click-through rates, platform algorithms systematically prioritise and amplify hyper-partisan content, driving radicalisation. By trapping citizens within hyper-customised echo chambers, these systems normalise online hate and accelerate social fragmentation. In doing so, private platforms exert an unprecedented form of unaccountable power, effectively rewriting the rules of the public square to optimise quarterly corporate profits at the expense of social cohesion.
+
+Democracy’s digital vulnerabilityWhen a society is deeply polarised and stripped of a shared reality, it becomes a soft target for foreign interference. Adversarial nation-states and non-state actors have weaponised these platform vulnerabilities, transforming them into a theatre for sophisticated information warfare. Foreign information manipulation operations are no longer clumsy, bot-driven spam campaigns; they are highly targeted, AI-driven psychological operations designed to covertly exploit pre-existing religious, ethnic, or socioeconomic fault lines within a target nation. By covertly funding, generating, and amplifying divisive narratives, hostile foreign actors can destabilise a democracy from within, turning its own citizens against one another. These coordinated campaigns represent nothing less than a direct, strategic threat to democratic sovereignty itself. As the world’s largest democracy and a global technology hub, India stands at the absolute epicentre of this crisis. In an environment where digital adoption outpaces structural digital literacy, the weaponisation of synthetic media and algorithmic polarisation poses a unique threat to India’s pluralistic society.
+
+If traditional, reactive legislation is doomed to always trail behind mathematical innovation, India cannot rely on standard, backward-looking regulatory frameworks. Instead, an enduring law and policy framework for India must be anchored in five foundational pillars that operate concurrently.
+
+First, AI governance must adopt a strictly rights-based framework that prioritises individual human dignity and digital autonomy, ensuring citizens possess unalienable rights over their personal data, strict consent protocols, and clear protections against algorithmic discrimination in critical sectors such as employment, credit, and health care. Second, platforms must be subjected to genuine democratic accountability; large technology firms can no longer hide behind absolute safe-harbour immunities while their algorithms profit from the viral spread of destabilising disinformation. They must be legally compelled to introduce structural transparency, allowing independent audits of their recommendation engines and forcing them to accept systemic liability for algorithmic amplification that results in real-world violence.
+
+Third, even as these frameworks are constructed, free speech protections must remain fully intact. The power to define and combat disinformation must never devolve into a tool for state-sponsored censorship or the silencing of political dissent. The focus of regulation must remain strictly on structural platform mechanics, such as automated bot networks and deepfake originators, rather than the heavy-handed policing of individual ideological speech.
+
+Fourth, because technical fixes are entirely insufficient without building cognitive resilience within the populace, India must launch a massive, state-backed educational initiative focused on media literacy and digital citizenship. This curriculum must be integrated across schools, universities, and rural community centres to train citizens to critically evaluate digital sources and identify emotional manipulation tactics. Finally, to defend national sovereignty, India must establish sophisticated, cross-sector early-warning systems capable of detecting coordinated misinformation operations in real-time. By leveraging advanced detection tools and fostering deep collaboration between state security apparatuses, independent fact-checking networks, and ethical hackers, the nation can identify and neutralise foreign information warfare campaigns before they achieve viral velocity.
+
+A constitutional imperativeUltimately, the lesson of our era is clear: AI governance cannot remain merely regulatory or technical. It is a profound mistake to treat the manipulation of the information ecosystem as a series of isolated technical glitches to be patched with minor corporate updates or narrow statutory tweaks. Because these technologies possess the unique capability to distort truth, polarise societies, and erode the sovereign choice of voters, AI governance must rise to the level of a constitutional imperative. The right to an unmanipulated information ecosystem, where reality can be clearly distinguished from corporate or state fabrication, must be viewed as an indispensable extension of the fundamental right to life, liberty, and free expression.
+
+Furthermore, this governance must be thoroughly democratic. It cannot be quietly negotiated behind closed doors between Silicon Valley executives and our bureaucracy. The rules that govern the digital public square must be forged through open parliamentary debate, public participation, and transparent institutional oversight, ensuring that technology serves the collective will of the people rather than the financial interests of any corporate oligarchy. And AI governance must be explicitly geopolitically conscious. Information space is the new frontline of global warfare. For sovereign India, maintaining a hands-off approach to algorithmic manipulation is equivalent to unilateral disarmament. Democratic states must recognize that the code running our public square is just as critical to national security as physical border infrastructure. Only by elevating AI governance into a constitutional shield, a democratic mandate, and a core pillar of national sovereignty can India’s democracy hope to survive the storms of the digital age.
+
+Shashi Tharoor is the fourth-term Member of Parliament (Lok Sabha) for Thiruvananthapuram (Congress party), the Chairman of the Parliamentary Standing Committee on External Affairs and the Sahitya Akademi Award-winning author of 29 books, including, most recently, ‘The Sage Who Reimagined Hinduism: The Life, Lessons and Legacy of Sree Narayana Guru’
+
+[Read full article](https://www.thehindu.com/opinion/lead/the-new-digital-slavery-needs-constitutional-guardrails/article71158538.ece)
+
+---
+
+### DC Edit | India, Seychelles Bond Stronger
+*Deccan Chronicle · Editorial*
+
+With a landmass of 460 sq km, the Seychelles archipelago of 115 islands may be small in territory, but it put on a mega show of welcoming India as a defence, security and valuable technology, development and social partner. In laying out the red carpet for Prime Minister Narendra Modi, the country was celebrating its deep ties with India, built over the last 50 years after it gained independence, whose jubilee was celebrated with gusto, with the Indian Army and Navy bands also participating.
+
+The islands, widely perceived in India as primarily a holiday paradise for sun seekers, were not feting India’s leader for its economic heft so much as the crucial maritime partnership over decades that has given Seychelles a sense of security as it presides over wide sea lanes on one of the world’s busiest routes. India’s help with maritime capacity in patrolling vessels and boats for Seychelles’ security has been a model in regional cooperation.
+
+Mr Modi’s assurance on behalf of India that the partnership is not to be defined by size is a telling comment that should have pleased Seychelles whose aspirations to build a sustainable Blue Economy remain high. Along with the pledge also comes umbrella aid and an economic package of $175 million plus crucial materials like cement and rice.
+
+It is a sign of the times that apart from all the marine capabilities that India has helped bolster as the island-nation guards its economic zone in the Indian Ocean that Seychelles wishes to improve its AI architecture, cybersecurity which is assuming huge importance these days and outer space as well, towards which India has promised to help.
+
+India may not be among the world’s largest powers in chasing AI for the future as the USA and China are currently, but it has the human resources to help everyone develop to enjoy the positive fruits of the new technology.
+
+The India-architected UPI payment system, also a tool that is serving the present while welcoming the future, is also a crucial element in a growing partnership that will straddle nine areas of well-defined cooperation, including in crime prevention.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-india-seychelles-bond-stronger-1967146)
+
+---
+
+### DC Edit | Twilight Time For DMK As TN’s Politics In Flux?
+*Deccan Chronicle · Editorial*
+
+The last straw was perhaps the acrimonious exit of Marumalarchi Dravida Munnetra Kazhagam (MDMK) founded by veteran Parliamentarian and octogenarian politician, Vaiko, from the Secular Progressive Alliance (SPA) on Sunday. Ahead of that, every other prominent ally of the DMK had bid adieu to the coalition after contesting the April 23 elections to the Tamil Nadu Assembly together. The disintegration of the secular grouping after its humiliating debacle caused by the sudden upsurge of the Tamilaga Vetri Kazhagam (TVK), led by C. Joseph Vijay, in the political sweepstakes began with the Congress quietly walking out to join the triumphant party and even getting berths in the Cabinet.What was a major blow for the 77-year-old DMK, electorally and politically, was followed by other long-time allies like the VCK, IUML, CPI and CPM, too, drifting towards the TVK. Keeping with the trend, the MDMK snapped ties with the DMK by making the announcement at its general council meeting in Chennai, which left many wondering what was left of the SPA and what was so terribly wrong with the DMK, against whom almost all former allies were turning their ire.
+
+The apparent isolation of DMK, which earlier had held a dominant position in the I.N.D.I.A. (Indian National Developmental Inclusive Alliance) coalition spearheaded by the Congress, gave rise to a plethora of questions: What exactly was wrong with the party that has been dominating the state politics like a colossus since its maiden ascension to the throne in 1967; what caused its latest fall from grace and will it be able to recover from the catastrophe. To know what went wrong with the party, one must just listen to the lament of the allies who had snapped ties now and those who voted enthusiastically for the TVK.
+
+A wide range of allegations like corruption and favouritism towards the family members of DMK chief M.K. Stalin dominate the reasons for widespread anger and resentment. Even party functionaries were reportedly peeved over the importance given to relatives of the former chief minister in party affairs overtly and in state administrative matters covertly. The open charges of corruption and favouritism levelled by traditional Opposition leaders like Edappadi K. Palaniswami to newbies like Vijay added credence to the popular perception of irregularities burgeoning in various departments, turning the tables against the DMK.
+
+But more than anything else, it was the glamour and cinema popularity of the rising star Vijay that evoked an interest in politics among the youth and adolescent film fans, for whom nothing mattered more than what he said. When he told children to put pressure on elders to vote for TVK, they did it and the elders too obliged nonchalantly, leading to the electoral defeat of the DMK, which was thoroughly vilified in the hustings.
+
+History teaches us that nothing is permanent in Tamil Nadu politics and the DMK can reverse the trend, given its long experience in electoral politics where it had bitten the dust several times and emerged like a phoenix. Its suspected role in cobbling an alliance with AIADMK to snatch power from the first public choice, which is the TVK, has not helped its image either. It is doubtful if it could regain its self-assumed role as the guardian angel of Tamil identity when the TVK is just reiterating the harangue of Dravidian politics and aping the actions of Dravidian majors.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-twilight-time-for-dmk-as-tns-politics-in-flux-1967151)
+
+---
+
+### Aakar Patel | New ‘Rules’ Are Brought In To Keep All NGOs On A Tight Leash
+*Deccan Chronicle · Opinion*
+
+What cannot be passed in Parliament as a new law can be brought into effect through a change in the rules. The practical effect is almost the same and the object is achieved. This is not what democratic nations ought to be doing, but then there is a real good reason why India is now, so many years after 1947, classified as being “partly free” and not a real democracy.
+
+This March, the government introduced a bill to attack, yet again, non-governmental organisations. This is a sector to which, it must be clarified, at the outset, the RSS does not belong because it is not a registered entity and does not therefore exist. The bill could not pass after the Opposition did what it should do more often: Oppose. The Prime Minister, with his 240 MPs, took his bill and went home. And then he reintroduced its essence as a change in the “rules” under the existing law, that does not require any parliamentary assent.
+
+Exactly like the introduction of the Special Intensive Revision, which did the job of disenfranchisement through “rules” that the National Register of Citizens could not do through law.
+
+The current attack on the NGOs continues the effort to shut the entire sector down. It is aimed at those who receive foreign funding and the familiar tropes of national security and “foreign hand” and the rest have been invoked. At the outset, it must be clarified that “PM Cares” is not covered here because it is neither a government entity — and therefore outside the purview of the RTI — nor is it an NGO — and therefore can’t be held to the same standard. It is a mythical creature.
+
+Anyway, the new rules say a few things to hamper NGO work. Some of them are as follows: NGOs can only conduct those activities that are in a schedule provided by the government. The government will also meddle in where an NGO can function. An NGO’s “chief functionary” is not just its chief functionary, but also all of its trustees and office-bearers, and foreigners are not eligible.
+
+They must declare their social media accounts and not publish things the government considers to be political. And so on and on. Why are these rules not applied to the rest of the private sector (which is what “non-government” means)? This is hard to say. Corporates can bring in as much foreign investment as they want and are lauded for this. They can hire foreign CEOs, and our own Indian CEOs in America are heroes.
+
+There are other very obvious hypocrisies also. In January 2013, a public interest litigation was filed in Delhi high court claiming that the BJP and the Congress had received donations from the same foreign company, Vedanta/Sterlite, which were in violation of the FCRA Act. On March 28, 2014, the court held that the BJP and Congress were guilty of FCRA violation and, in May, asked the Narendra Modi government and the EC to act against the two parties.
+
+By October 2015, the Modi government had figured a way out. A change in the law would define any company registered in India, regardless of who owned it, as an Indian company. In essence, “foreign” was redefined as “Indian”, which was a fraud on the Indian people, but because both major parties were complicit in the fraud, it passed without resistance.
+
+For the rest of us, the rules are different. In 2020, the government introduced more of them. First, that the 23,000-odd NGOs which had a licence to receive foreign money could receive funds only in a single branch of the State Bank of India — the one at Sansad Marg in New Delhi. Only 1,488 NGOs were registered in Delhi, and so the rest would have to come to the city to open an account. The branch would report to the home ministry the details of the remittance, the sources and manner in which it was received.
+
+The second change was that the NGO could spend only 20 per cent of the money it received on “administrative expenses”. Salaries, travel expenses, the cost of hiring individuals, consumables like electricity and water charges, telephone charges, postal and courier charges, repairs to the office, stationery and printing charges, transport, the cost of accounting for and administering funds, running and maintenance of vehicles, cost of writing and filing reports, legal and professional charges and rent were all classified as administrative expenses.
+
+No more than 20 per cent of their foreign funding could be spent on these things (keep in mind that such restrictions are not applicable to any other sector in India). This would affect those organisations whose work concerned research and advocacy and other things that required hiring professionals such as lawyers and academics, and were unrelated to pure brick-and-mortar activity, such as building hospitals and schools. Third, the law now prevented an NGO from redistribution of funds it had received to other NGOs even if they were FCRA-compliant. This would hit the sector because NGOs do not compete with one another as the rest of the private sector does; they operate as networks. This change...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/aakar-patel-new-rules-are-brought-in-to-keep-all-ngos-on-a-tight-leash-1967137)
+
+---
+
+### Gurjit Singh | ‘Act East’ 2026: Strategic Rejig In A Turbulent World
+*Deccan Chronicle · Opinion*
+
+Significant trends are occurring in India’s diplomatic approach to the Indo-Pacific. If you see one visit at a time, you may miss the strategic significance of the overall trajectory that India seeks in the face of unstable crisis situations, as well as the approaches of China and the United States to the region.
+
+The annual summit between Prime Minister Narendra Modi and Japanese PM Sanai Takaichi, now to be held in New Delhi from July 1, should be seen alongside Mr Modi’s return visits to Indonesia and Australia and the first visit by an Indian PM to New Zealand in 40 years.
+
+These four engagements collectively present more than a busy schedule of diplomatic visits. They are an elaboration of India’s “Act East” policy.
+
+This emerges from the evident realities of an unstable order, in which India seeks greater stability in the Indo-Pacific. Twelve years after the launch of the AEP, its logic has been accepted, and it has shown sufficient flexibility to address contextual changes in the region.
+
+The US-led liberal order, stable global supply chains, and the role of multilateral institutions have diminished at a speed and in a manner that was incomprehensible even when Covid-19 struck. The disruption of supply chains caused by Covid, the Ukraine and Iran crises was accentuated by Trump 2.0’s harsh trade attitudes towards friends.
+
+The Trump administration’s approach to seeking a “G-2” with China, acknowledging its rise and pivoting away from the Indo-Pacific in a strategic sense, gives India, Japan, Australia and Asean much to think about regarding their future trajectories. This transition is neither minuscule nor temporary.
+
+Australia and Japan have felt the obliteration of the distinction between partners and rivals, as has India. Despite efforts, tariff issues remain paramount, unsettling the institutional frameworks that guided the Indo-Pacific for a while.
+
+In this, Mr Modi’s Indo-Pacific engagements with partners are timely. India is no longer waiting for Washington to show enthusiasm. Instead, India is building on its own partnerships, economic architecture, and supply chain expectations at a faster pace than anticipated.
+
+The Japan PM’s visit remains the core of this strategy now. The presence of nearly 200 businessmen from about 100 companies underscores the Japanese preference for economic security as the core of the partnership. Investment, resilient supply chains and enhanced interaction on semiconductors, renewable energy, EVs, defence electronics, critical minerals and an expanded automobile partnership will buttress this relationship.
+
+Japan was committed to doubling its investment between 2022 and 2027 to 5 trillion yen. Since 2025, it has enhanced its target to 10 trillion yen by 2035.
+
+The continuum established by annual summits aligns India’s Act East policy and Japan’s “Free and Open Indo-Pacific” vision. This bilateral engagement is likely to intensify, allowing it to influence and bolster the Quad and other regional initiatives that are being diminished by the lack of American enthusiasm.
+
+If India, Japan and Australia can rekindle the India-Japan-Australia Supply Chain Resilience Initiative, it will show good momentum among themselves. It could very well be the institutionalized manifestation of a common understanding that none of the partners can have their critical supply chains run through China as a major hub, whose ability to create vulnerabilities in our supply chains is evident.
+
+Mr Modi’s three-nation tour of Jakarta, Australia and New Zealand will present a regional picture of engagement as well.
+
+In Jakarta, the Modi-Prabowo talks will follow up on Mr Prabowo’s Republic Day visit in 2025. Maritime security, defence cooperation, enhanced trade and supply chain development will be important, besides people-to-people and educational linkages. Indonesia could finalize its order for the BrahMos missile systems, which have taken long to fructify. Bilateral trade, currently at $25 billion, can easily reach its $50 billion target with better market access.
+
+Greater avenues of cooperation in health, tourism and military exercises could bring Indonesia, the world’s largest archipelago, which is close to the important Straits of Malacca, Lombok and Sunda, and become a strategic partner in the growing Indian interest in the area, as seen in the Great Nicobar project emerging soon. Closer strategic alignment between India and Indonesia needs to be kindled in a way that advances essential goals, and Mr Modi’s visit is likely to do so.
+
+To New Zealand, Mr Modi’s visit will be the first by an Indian PM in 40 years. It comes soon after India and New Zealand concluded an FTA that removes tariffs on Indian exports while reducing duties on most of New Zealand’s exports.
+
+The symbolism here is manifest. India is covering the gaps in its high-level visits to friendly countries at a rapid pace.
+
+With Australia, the engagement is a mature partnership. Prime Ministers Modi and Albanese have met...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/gurjit-singh-act-east-2026-strategic-rejig-in-a-turbulent-world-1967131)
+
+---
+
+### Glitches catch BMRCL flat-footed yet again
+*Deccan Herald · Editorial*
+
+Before the dust had settled on one disruption, Bengaluru’s Namma Metro Purple Line suffered another. Two major interruptions in three days have again exposed the fragility of the city’s most vital transport corridor — not merely because failures occurred, but because no effective plan existed to manage their consequences.
+
+The first, an electrical fault, halted services near Cubbon Park station during the evening rush hour, stranding thousands as operations were curtailed across the central section. Barely two days later, another train bound for Challaghatta was immobilised at the same station when a passenger’s metal chain jammed a door. Though not a system failure, safety protocols required evacuation, delaying subsequent services.
+
+Bengaluru (South) MP Tejasvi Surya has claimed that these are part of nearly 21 disruptions since 2024, with the Purple Line accounting for most of them. Given this, his demand for an independent safety audit deserves consideration. The Bangalore Metro Rail Corporation Limited (BMRCL) is a joint venture of the Union and Karnataka governments, making this a shared responsibility. No metro system in the world is immune to technical glitches. What distinguishes a well-run network is not the absence of failures but the efficiency with which it responds. Here, the BMRCL fell short. Passengers received little useful information. Poor mobile connectivity inside underground stations left many confused about alternatives, while outside, auto-rickshaw drivers demanded exorbitant fares as commuters scrambled for transport.
+
+This is where contingency planning becomes indispensable. The government should have immediately deployed BMTC buses to shuttle passengers. During such exigencies, the response must extend beyond buses to include temporarily capping surge pricing on ride-hailing apps and strictly enforcing auto-rickshaw fares to prevent the exploitation of stranded citizens.
+
+Station staff must have clearly rehearsed standard operating procedures to guide commuters, make frequent public announcements and co-ordinate with traffic police and civic agencies — something that was missing in the recent instance. Such protocols should be tested through periodic mock drills, rather than improvised during emergencies. Mumbai faced similar criticism after a recent glitch, highlighting that as India’s metro systems expand, emergency preparedness must match engineering advancement.
+
+For Bengaluru, the repeated disruptions are a reminder that the Purple Line's central corridor is operating at or near its structural capacity. Routine maintenance must be complemented by technical audits and predictive monitoring to identify vulnerabilities before they escalate. In short, Namma Metro must become proactive rather than reactive. A world-class metro is judged not by whether it breaks down, but by how confidently it carries its passengers through the unexpected.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/glitches-catch-bmrcl-flat-footed-yet-again-4055413)
+
+---
+
+### Now the spotlight is on citizenship
+*Deccan Herald · Editorial*
+
+The statement made by an official of the Ministry of External Affairs that a passport is only a travel document and not conclusive proof of Indian citizenship has raised questions and created confusion. Strictly speaking, the statement is not news.
+
+It does not lay down any new policy. Passports are issued under the Passports Act, and citizenship is governed by the Citizenship Act,1955. Although passports are generally issued after confirming citizenship, in special cases, they can be issued to non-citizens. The courts have also affirmed that it is a travel document. The Constitution defines citizenship, but does not mention a document that conclusively establishes it. Even procedures for obtaining voter IDs or PAN cards do not demand proof of citizenship.
+
+The statement about the passport may, therefore, not be about it, but about citizenship. It might be meant to create uncertainties about citizenship, and to show that citizenship needs to be proved afresh. By law, citizenship may be acquired through birth, descent, registration, naturalisation or incorporation of territory. The citizenship of all those who are now citizens, or deem themselves to be citizens, may be seen as valid only on any of those grounds. The MEA statement on the passport’s inadequacy suggests that citizenship must be established in the way the government wants it to be proved.
+
+The situation could be like the demand made by the Election Commission of India (ECI) to the voters that they prove their status as voters. Millions of names have been removed from the voters’ rolls, and lakhs of people are waiting for a decision on their voting status. The ECI asked for a clutch of documents to prove that a person is a voter. Many could not provide them because it was practically not possible for them to procure them. The names of many who produced the documents were also removed. It could be much worse in the case of citizenship.
+
+The only document that could prove citizenship is the birth certificate, that too with conditions relating to the year of birth or parentage attached to it. Many people do not have it and can’t get it even if they try because the original records may not exist.
+
+So, the situation in India will be much worse than the SIR of the electoral rolls if there is a special intensive revision of citizenship. There has been talk about a National Register of Citizens (NRC) and a Citizenship (Amendment) Bill. The reference to passports has caused concern that it might lead to a citizenship survey, with all its consequences.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/now-the-spotlight-is-on-citizenship-4055415)
+
+---
+
+### The real work of manifestation
+*Deccan Herald · Opinion*
+
+We all want something. A promotion that feels long overdue. A relationship that finally clicks. A life that, even just a little, resembles the one we dreamed of when we were younger, when the world still felt wide open. Ask anyone what they hope for, and they will tell you straight away. Wanting has never been the difficult part. The real question is whether truly believing in something can help bring it closer.
+
+That is what manifestation is really about. Not daydreaming or crossing your fingers and hoping for the best, but something far more intentional. It is about holding what you want not as some distant maybe, but as something already on its way to you.
+
+The Law of Attraction puts it this way: what you consistently pour into yourself, you eventually draw toward you. Many people will tell you it genuinely changed things for them.
+
+Others think it is not true. But most who give it a real try will quietly admit that something inside them shifts. It is not the world and it is not immediate, but it is them.
+
+They live their lives, knowing better what they want. They do not waste time on things that never would have taken them where they wanted to go. They begin to see possibilities they would have just passed by before. And something that once seemed like a dream begins to feel like a destination.
+
+Honestly, this might be the most real thing anyone can say about manifestation. Life will wear you down. The small let-downs, the waiting, the moments when giving up feels like the smartest thing you could do. Believing in something will not stop any of that from happening. But it keeps you from falling apart when it does. It brings you back to why you started. And sometimes that is all you need to show up one more time.
+
+Going from “maybe one day” to “this is happening” rewires something in you. The way you think, the chances you are willing to take, the effort you show up with, even on the flat and unremarkable days when nothing feels worth it.
+
+Whether the universe is listening or your own mind is simply performing at its best when it has a clear target, that question may miss the point entirely. Believe in it enough and you will find a way. That has probably always been true.
+
+[Read full article](https://www.deccanherald.com/opinion/the-real-work-of-manifestation-4055420)
+
+---
+
 ## 28 June 2026
 
 ### The Transgender Persons Amendment Bill is a flawed fix

@@ -1,10 +1,280 @@
 # Editorials
 
-_Last updated: 2026-09-27 06:57 UTC_
+_Last updated: 2026-09-28 07:26 UTC_
 
 Aggregated daily editorial / opinion feed for the Joey app's `joey.editorials` plugin. Regenerated daily at 7 AM IST by `.github/workflows/fetch-editorials.yml`.
 
+## 28 September 2026
+
+### In need of an overhaul: on the Election Commission of India’s press note
+*The Hindu · Editorial*
+
+The Election Commission of India’s (ECI) press note on Saturday, following revelations that Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi had recorded 14 objections to decisions under Chief Election Commissioner Gyanesh Kumar, reads like damage control to manage perceptions. It concedes their complaints, but only administrative ones. Agenda will be circulated before meetings, and the minutes afterwards, while officers’ foreign trips will require the ECI’s approval. It also implicitly admits the flawed implementation of the Special Intensive Revision (SIR). Electoral Registration Officers (EROs) are to launch a “special drive” to enrol anyone “whose name has got left out”. But there is no remorse for an exercise that struck lakhs of genuine electors off the rolls in West Bengal and has marauded from State to State. Those deleted are simply asked to reapply as though they were new applicants. There is no answer to Mr. Sandhu’s question on who authorised 16.1 lakh appeals to remove voters whom judicial officers had included in West Bengal.
+
+India’s institutions have largely held, except in dark periods such as the Emergency, when an executive emboldened by legislative strength ran roughshod over the Constitution and a shamelessly permissive judiciary let it do so via ADM Jabalpur. The ECI under Mr. Kumar has overseen the removal of more than 13 crore names from draft rolls through the SIR which, as this daily has repeatedly argued, shifts the onus of enrolment from the state to the elector, deletes names before it verifies and imposes onerous conditions for re-entry. It got away with this because the Supreme Court declined for months to decide whether the exercise was constitutional. When it finally ruled on May 27, the SIR was already a settled fact in Bihar, West Bengal and other Phase 2 States. The judgment, reminiscent of ADM Jabalpur’s deference to the state, engaged the SIR in theory and not in practice. It read a provision for exceptional, targeted revisions as a licence for a State-wide sweep. While it assured voters already on the rolls that they were still presumed eligible, the SIR made them prove it all over again. And it brushed aside its 1995 ruling that every removal must be individually reasoned. Events since then indicate the damage done — over nine in 10 appeals decided by West Bengal’s tribunals have restored deleted voters months after the Assembly polls; and in one third of Delhi’s seats, the draft rolls have fewer electors than those who voted in 2025. The ECI’s press note changes very little. The ECI must be reconstituted by a selection committee that does not give the government an overriding majority. Anything less would be a travesty of institutional democracy.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/in-need-of-an-overhaul-on-the-election-commission-of-indias-press-note/article71516004.ece)
+
+---
+
+### New equilibrium: on the recalibration of U.S.-China ties
+*The Hindu · Editorial*
+
+On the surface, Chinese President Xi Jinping’s Washington visit appeared to be more about ceremony than substance. President Donald Trump rolled out the red carpet, personally welcoming the Chinese leader at the base where he landed. The last time that a U.S. President accorded such an honour to a foreign leader was when John F. Kennedy welcomed British Prime Minister Harold MacMillan in 1962. Mr. Trump also laid out a grand state dinner at the White House, inviting some of the biggest names in tech and business in the U.S. Beyond the optics, the concrete outcomes from the Trump-Xi talks were modest. The most immediate one was an agreement for both leaders to meet twice this year at the APEC summit in Shenzhen and the G-20 in Miami, marking an unusual four meetings in one year, with Mr. Trump having visited Beijing in May. Both sides also agreed to operationalise a board of trade and investment. No new trade agreement was reached, although both have extended for another two months the trade truce agreed to at Busan last year as well as an arrangement for a $30 billion reciprocal tariff reduction. China reaffirmed its commitment to buy $17 billion worth of agricultural products annually, but offered no new ones. Other long pending issues such as semiconductors, rare earths and U.S. arms sales to Taiwan appear deferred for now. Both did, however, announce the establishment of a new dialogue on Artificial Intelligence and the opening of a channel for incidents, amid growing concerns over the consequences of an unregulated AI race.
+
+The modest outcomes from the Xi visit should not obscure the broader shift that recent U.S.-China engagement has underlined. The agreement between the world’s two biggest powers to pursue what they call a constructive relationship of strategic stability based on fairness, respect and reciprocity points to a new equilibrium. Their relationship certainly remains beset by serious structural challenges and will remain one marked by rivalry. At the same time, both sides appear eager to set a floor to ensure a rivalry that is more managed, stable and predictable. Countries in the region will be watching closely how this may temper an “America First” Washington’s appetite to push back against China in waters far from home. New Delhi will need to carefully watch this evolving new equilibrium. The recent U.S. tariff threats aimed at India have offered a stark contrast to the measured language with which Washington has been engaging Beijing. For long, a strand of Indian strategic thinking has been predicated on the assumption that U.S. strategy in the region was centred on the idea of a relationship with India as a bulwark against Chinese influence. That assumption increasingly appears open to question.
+
+[Read full article](https://www.thehindu.com/opinion/editorial/new-equilibrium-on-the-recalibration-of-us-china-ties/article71515985.ece)
+
+---
+
+### Kashmir as India’s gateway to Eurasian opportunity
+*The Hindu · Opinion*
+
+India stands at a critical demographic crossroads. With one of the world’s largest youth populations, the country possesses an immense economic advantage. Yet, a youthful population becomes a genuine demographic dividend only when young citizens are educated, skilled, gainfully employed and provided with meaningful opportunities. Otherwise, that demographic promise risks turning into social disillusionment.
+
+China, despite its comparable population, is moving in the opposite demographic direction. Decades of low fertility have accelerated the ageing of its population. India, by contrast, possesses an extraordinary reservoir of young people entering the workforce. The central question is whether the country can create the economic opportunities and infrastructure needed to harness this potential.
+
+[Read full article](https://www.thehindu.com/opinion/lead/kashmir-as-indias-gateway-to-eurasian-opportunity/article71516745.ece)
+
+---
+
+### Measure success in enforcement, not speed
+*Deccan Herald · Editorial*
+
+The promise of a 30-minute building-plan approval under Nambike Nakshe 2.0 is an attractive proposition for a city where obtaining civic permissions has meant long delays, paperwork, and repeated visits to government offices. Launched by Bengaluru Development Minister Krishna Byre Gowda, the system uses automated checks to approve eligible residential plans without routine manual scrutiny. It currently covers sites up to 50x80 feet, with up to four dwelling units, in select areas of the Greater Bengaluru Authority (GBA). The underlying principle is sound. For standard residential buildings, several requirements — setbacks, floor area, height and coverage — are rule-based calculations that software can verify far faster than a file moving from desk to desk. Integration with e-Khata and property databases should also reduce paperwork. The larger promise is that fewer human touchpoints will mean reduced opportunities for discretion, middlemen, and corruption.
+
+But reform must not create more problems than it solves. Homeowners may accept a reasonable wait if the process is predictable, transparent, and free of unnecessary hurdles. The experience of e-Khata is a warning. Intended to simplify property transactions, the digital system instead became a harrowing experience for citizens, plagued by delays and complaints of bribery that also prompted Lokayukta raids. Many government e-services suffer from server downtime and captcha mismatches that frustrate users. The trouble with Permanent Residence Certificates during the SIR exercise is a recent reminder. Technology should ease governance, not complicate it.
+
+Bengaluru: ‘Nambike Nakshe’ rolled out across city Nambike Nakshe 2.0 must, therefore, be backed by a robust system, an effective grievance mechanism, and an auditable trail explaining why any application was rejected or delayed. Otherwise, a scheme meant to eliminate a physical queue could simply create a longer digital one. More importantly, sanctioning a plan is only the beginning, as Bengaluru’s larger problem is deviation from approved plans. The’“trust, but verify’ model will work only if verification is real. The government should link every auto-approved plan to mandatory inspections at appropriate stages of construction and make compliance a condition for the Occupancy Certificate. A unique QR code displayed at every such construction site could allow residents and inspectors to access the sanctioned plan and verify whether construction conforms to it. Speed is welcome, but without enforcement it will only accelerate violations. Nambike Nakshe 2.0 should be judged not by how quickly a sanction is issued, but by whether it delivers lawful buildings, cleaner administration, and fewer avenues for corruption. For Bengaluru, that would be the truer measure of success.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/measure-success-in-enforcement-not-speed-4161880)
+
+---
+
+### SC draws the line between faith and fiat
+*Deccan Herald · Editorial*
+
+The Supreme Court’s ruling on the singing of Vande Mataram underlines the importance of freedom of conscience and of religion guaranteed by Article 25 of the Constitution. The petition, filed by Carnatic vocalist T M Krishna, challenged the 2026 amendment to the Prevention of Insults to National Honour Act, which prescribed penalties for preventing or obstructing the singing of Vande Mataram, or disturbing a gathering singing it. A bench led by Chief Justice of India Surya Kant said that those who refused to sing the song because it went against their conscience could not be punished. The Union government has made singing all six stanzas of the song mandatory at official and ceremonial functions. While accepting the first two stanzas as the National Song in 1937, the Congress had left out the last four as they were invocations to Hindu deities. The governments after Independence have continued this scheme.
+
+Referring to its 1986 judgment in Bijoe Emmanuel vs State of Kerala, which protected schoolchildren who declined to sing the National Anthem on religious grounds while standing respectfully, the apex court reiterated that freedom of religion and expression includes the right to remain silent. It ruled that those who refuse to sing the song on grounds of conscience should not face criminal prosecution. It said that the new law would be governed by that judgment. The question was whether the State can force a person to demonstrate patriotism by prescribing a standard and tools for it. The government extended the song knowing that the extended section would hurt the religious sentiments of the minorities, and made its rendition a test of patriotism.
+
+Vande Mataram row: SC says its status stands, but ‘you can’t thrust’ itThere is a difference between the refusal to sing the song and preventing its singing or causing disturbance at the function where it is sung. The law must recognise this difference, and it should not be lost in its implementation. The refusal to sing should not be construed as disturbance. The court said it would not rule on the decision to declare the full Vande Mataram as the National Song, which it said is in the domain of the executive and the legislature, but only on the imposition of the penalty. While it has done well to order that there should not be any penalty for not singing the song, it should also address the question of whether the National Song of a secular State should contain words that hurt the religious sentiments of some citizens. National symbols should embody shared values of a nation, and should not be used to target sections of the people.
+
+[Read full article](https://www.deccanherald.com/opinion/editorial/sc-draws-the-line-between-faith-and-fiat-4161843)
+
+---
+
+### Battle for reality | Why power wants to bury the news
+*Deccan Herald · Opinion*
+
+There is a curious thing about journalism: Everyone seeking power calls us dead but still wants to control it.
+
+Authoritarians attack it, oligarchs try to buy it, propagandists mimic it. Powerful tech platforms filter the news you read to build their $-billion empires, simultaneously making journalism look insignificant and small.
+
+Not to be left behind, governments intimidate, sue, sometimes jail, and spy on the people trying to bring you the facts. They also shut publishers and their publications down.
+
+If journalism and independent truth were so truly irrelevant, so very much dead, why would so much money, political energy, and fury be spent trying to bury it? It is an important question.
+
+The rich were always more powerful than the poor. Governments abused their authority. Businesses bought influence over institutions; courts failed to protect the unprotected. Even the Fourth Estate was balancing its act. Journalism was never as pure as journalists sometimes like to remember it. But the system was at least recognisable.
+
+Power had physical addresses. Governments existed inside (mostly) recognised borders. Newspapers had editors. Companies had owners. Laws could, at least theoretically, be enforced within jurisdictions.
+
+Then Big Tech happened. The balance changed faster than our institutions could adapt. A new uber-class with galactic wealth and power, some of them greater than the overwhelming majority of governments on Earth, run the show. They shape communication between billions of people, determine which information will travel and which information will disappear into the void. A true operating system of our modern world, they built infrastructure that underpins politics, commerce, culture, knowledge, and pretty much everything else. If they stop, our modern world stops.
+
+How newsrooms can fight the climate crisisWe should not be surprised by the collision of power happening right now. These systems, old and new, were created in different centuries, according to profoundly different rules.
+
+These indeed are extraordinarily chaotic times — and the news media appear to be the prize trophy every power badly wants.
+
+This friction is only starting and will likely cause huge conflicts and suffering. The battlefield on which much of this struggle is being fought is the information environment itself.
+
+The very people declaring journalism dead or irrelevant understand something that parts of our own industry often forget: Information is the most powerful technology ever invented by our human race.
+
+The battle for humanity’s future is quickly recognised as a battle over perceived reality. Control what people know, and you influence what they believe. Influence what they believe, and you shape what they fear, whom they trust, how they vote, what they buy, whom they hate, and, ultimately, what kind of power they will accept as legitimate.
+
+This is why repeated declarations that the news media are dead should make journalists ready for the fight of our lifetime. The trust crisis is real and wasn't just inflicted on journalism. Although we, journalists, editors, and publishers were, and are, subject of an extraordinarily broad and powerful attack, there is no running away from the fact that our own industry helped create the crisis.
+
+Long before Big Tech captured the advertising market, too many news outlets forgot about the essence of public service. Readers were treated like metrics, coverage was turned into content, and outrage became the business model.
+
+It was our own mistakes that allowed Big Tech to exploit them.
+
+Our future depends on our ability to explain to our communities that a modern information society needs reliable journalism in much the same way it needs functioning courts, schools, electricity grids, and clean water systems. You notice infrastructure most clearly when it stops working. And we are already beginning to discover what happens when the information infrastructure fails.
+
+Power and the press: What a summer of dissent tells IndiaOur self-evident truths remain:
+
+Truthful, verified information in the public interest cannot be negotiable. Independence from political and commercial power cannot be a slogan used only when convenient. Our relationship with the communities we exist to serve must sit at the foundation of everything we do.
+
+We must strive to become radically better at explaining how we know what we know. We must find inner strength to acknowledge errors, show evidence where possible, to listen more and to listen very carefully.
+
+Trust is not something we are entitled to inherit from previous generations of journalists. Every generation must keep renewing it.
+
+Technology itself is not our enemy. That would be both foolish and hypocritical — we use it every hour of every day of our modern lives. Technology has allowed journalism to reach audiences we could never have imagined. AI will transform reporting, analysis, translation, investigation, and distribution in ways we have only begun to understand.
+
+The question is not whether technology will shape journalism — of course it will. The question is whether the power created by technology will remain contestable, and whether we, the media, can rise to that challenge of keeping this power in check, for the benefit of everyone.
+
+We may have to change our form, the way we function and the way we reach audiences, but we cannot abandon our purpose.
+
+It is not about us, the news media, possessing an unchecked power; quite the opposite. The purpose of our existence is to ensure that nobody does.
+
+News platforms will come and go. Business models will come and go. But will there still be someone whose job it is to find out what is true — and tell everybody else, regardless of who would rather they didn’t — that is the question on which so much of our reality depends.
+
+On World News Day, amid all the anxiety about our future, perhaps that is the promise journalism needs to make again.
+
+Not that we are always right, not that we deserve to survive because we have existed for a long time, and not that people should simply trust us.
+
+We believe it is much more demanding of us: We will stand with the communities we serve rather than above them. We will do the work. We will show how we did it. We will correct ourselves when we fail.
+
+And, above all, we will strive to keep the light of shared reality on.
+
+(This opinion piece was commissioned as part of the World News Day, a worldwide campaign highlighting the essential role of journalism in providing facts and clarity.)
+
+Branko Brkic is Founder, Project Kontinuum and Tina Brown is editor, author, and founder of Truth Tellers, the Sir Harry Evans global journalism summit.
+
+[Read full article](https://www.deccanherald.com/opinion/battle-for-reality-why-power-wants-to-bury-the-news-4162212)
+
+---
+
+### Football's enduring controversies show why journalism matters
+*Deccan Herald · Opinion*
+
+It was thanks to journalists, initially from The Times and Financial Times, that FIFA President Gianni Infantino’s proposal to sell off the World Cup was revealed. Valued at $20 billion, the FIFA Forward Enterprise (FFE) subsidiary envisaged managing commercial and operational rights for all FIFA competitions. Aiming to raise 20% of the company’s value ($4.2 billion) from investors, the plan would have effectively handed over the beautiful game to private interests.
+
+Only a small inner circle knew about the idea; FIFA had made no public announcement, and even some of the organisation's top officials only learned of it through media coverage. Within days of it becoming public, and with mounting pressure from all corners of the footballing world (including many of FIFA’s own member associations), the plan was scrapped.
+
+But the story is not going away.
+
+Scrapped is not the same as gone — and neither have the governance failures that made such a damaging attempt possible.
+
+Given the wider criticism of Infantino’s proximity to the US administration — in the build up to the World Cup (see the December 2025 FIFA Peace Prize), during the tournament (the US president personally called Infantino to rescind a US player’s red card), and after (one of the leading figures in the FFE scheme was Joshua Kushner, brother of the US president’s son-in-law) — scrutiny will surely continue.
+
+Journalists don't give up easily. They will keep probing the secrecy around FIFA's affairs because it is the public's right to know how, and in whose interest, football’s future is being designed and where the game's billions of dollars in revenue are ending up.
+
+Would you like your news with or without hallucinations?Yet almost none of that persistence made the headlines. The reporting that brought the plan to light, much like the work that will keep the story alive, goes almost entirely unnoticed.
+
+News organisations are very good at telling other people's stories, yet we have not been even remotely as good at telling our own. That is one reason why, on September 28 each year, news organisations across the globe come together to mark World News Day — to make visible the work that is poured into every story.
+
+The FIFA investigation is a case in point. Having spent most of my life in journalism, I know how much effort goes into such a story, and how rarely audiences get to see behind the curtain.
+
+Someone had to notice, investigate, verify, and then publish the facts. Journalists have been doing this kind of diligent work on FIFA for years, one investigation building on the last. It’s what makes a level of scrutiny like this possible.
+
+And while football may offer a rather vivid example that interests billions of people, the need for verified information now reaches into literally every challenge society faces.
+
+This is a time of polycrisis where wars, climate change, pressure on democracy, and technological disruption overlap, reinforce, and energise one another. People need more than an endless supply of information. They need facts they can trust, context that helps them understand what is happening, and journalism that holds power to account — whether that power sits in government or the offices of a sports federation.
+
+The growth of artificial intelligence makes that task ever more urgent. AI does not produce trusted information, it inherits it. Behind every reliable AI-generated answer, someone first had to discover, verify, and take personal and legal responsibility for the information. The FIFA story is a clear example: no algorithm broke that story, because there was nothing yet to summarise. No pundit, content creator or influencer either. Someone had to go looking before anyone had confirmed there was even a story there at all. No machine, no commentator can do that for us — that is the job of a journalist.
+
+I will not pretend our industry has always deserved the public's trust, or that we have earned it equally everywhere. We get things wrong. We are sometimes slow to correct ourselves. But nobody else was going to tell you about FIFA's plan, and I suggest that is worth remembering the next time you weigh up whether journalism deserves your confidence and support.
+
+Of course, good journalism also extends far beyond the world of sport. And a family deciding what to do in the face of a devastating wildfire is relying on the same basic element football fans relied on before the FIFA story broke: that someone, somewhere, checked before publishing. That difference, between a fact someone verified and one that nobody did, shapes what we believe and often how we act — about a warning to evacuate, an announcement of a ceasefire, the calling of an election, or a vaccine to counter the spread of a new pandemic, etc.
+
+World News Day exists because that difference is worth explaining plainly and out loud, not to ask for your loyalty, but to show you the work behind the headlines that usually stays invisible. The action on the pitch was there for everyone to see, but journalists opened doors behind which the real decisions were being made, far from the public interest. It’s why I ask you to think about this now, before the next crisis arrives and you feel there is nowhere to turn. Journalism exists to give you the facts that shape what matters. To better understand the world, choose trusted journalism.
+
+(This article is shared to mark World News Day, a worldwide campaign highlighting the essential role of journalism in providing facts and clarity.)
+
+Stig Ørskov is CEO, World Association of News Publishers (WAN-IFRA).
+
+[Read full article](https://www.deccanherald.com/opinion/footballs-enduring-controversies-show-why-journalism-matters-4162184)
+
+---
+
 ## 27 September 2026
+
+### The RTI’s shift to a ‘right to deny information’
+*The Hindu · Opinion*
+
+The Right to Information (RTI) Act is founded on the principle that in a democracy, which is defined as “rule of the people, by the people, for the people”, all information held by the government inherently belongs to the citizens. The government acts as a custodian of this information on behalf of the populace. Citizens legitimise their representatives by electing them, who in turn legitimise the bureaucracy. Therefore, the default mode under the RTI is that all information must be shared with citizens.
+
+However, the Act always included specific exemptions to protect certain interests, such as national sovereignty. One crucial exemption is the Act’s Section 8(1)(j), which is on “personal information”.
+
+[Read full article](https://www.thehindu.com/opinion/lead/the-rtis-shift-to-a-right-to-deny-information/article70042967.ece)
+
+---
+
+### DC Edit | Righting Wrongs Welcome But SIR Was Abominable
+*Deccan Chronicle · Editorial*
+
+The communiqué issued by the Election Commission of India (EC) after a meeting attended by all the three members is a welcome note in that it lists all that has gone wrong since it rolled out the special intensive revision of the electoral rolls across the country and also has words on how it plans to correct it. However, the correction process unanimously agreed to by the three cannot undo the grave threat the EC is posing to representative democracy in India through its calculated actions that disenfranchises a large number of people. In fact, it makes it all the more evident as to how untenable the continuation of the men who oversaw it is, especially that of chief election commissioner Gyanesh Kumar who orchestrated it all.
+
+The only relief is the decision that booth level officers will now visit the homes of persons “to whom notice has been issued during the ongoing SIR, for being unmapped or for logical discrepancies” for collection of documents. Only in exceptional circumstances, as decided by the ERO, will the hearing be held, preferably online. The elector can also authorise an adult member of the family to attend the hearing on their behalf. This is the right thing to do. An entry of an elector on the electoral roll is made by the EC after it is satisfied that the elector meets the conditions stipulated by the law. If the commission feels the person is no longer eligible to be there, then it is for the commission to convince the elector, and not vice-versa. This should have been the approach taken by the EC from the beginning. One can only hope that the EC has the manpower and logistical prowess to undertake the mission as it has put crores of people in this predicament.
+
+While the EC returns to its legitimate ways of functioning by correcting itself, the question of the victims of its wrongs cannot be left unaddressed. There were lakhs of people in states such as Bihar and West Bengal who were denied an opportunity to participate in the elections. West Bengal is the worst case in point where 90 lakh people were removed from the list and 22 lakh of them have moved the tribunals. What justification does the EC have to offer them for the denial of their right? As per EC’s own admission, the tribunals will take more than 12 years to decide all the cases. Its political import cannot be lost sight of: the tribunals have allowed 93 per cent of the petitions and the BJP swept the state polls scoring 33 lakh more votes over its main rival Trinamul Congress.
+
+The EC has now said the requirement of a statement linking a new voter-applicant to her parents/grandparents/spouse has no sanction of the law; its claim is that the Supreme Court has cleared it. That is not the way constitutional democracy functions. The Supreme Court is called to lay down the law when there is a perceptible urgency for it; the court ratifying an illegality cannot be an excuse for gross misuse of power. Forming an “independent panel” to ensure that the ECINet, the mobile application that serves as a centralised digital platform of the EC, is run professionally and is accessible is an admission of guilt over how it was being run earlier.
+
+The answer to a possible question as to how undemocratic the way the EC was functioning was is contained in a statement that “for all Commission’s meetings, agenda will be circulated in advance and minutes will be issued”. This is an open admission by the CEC that he was running the institution that conducts the world’s largest exercise to pick a country’s rulers in the most undemocratic manner. The earlier it changes, the better.
+
+And, too, since the questions involved in the SIR process are about foundational elements of Indian democracy, those who sought to tinker with it cannot be allowed to go scot-free.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-righting-wrongs-welcome-but-sir-was-abominable-1991071)
+
+---
+
+### DC Edit | UNGA: All Talk And Zero Action
+*Deccan Chronicle · Editorial*
+
+They came, they spoke and they left as the United Nations General Assembly once again offered the floor to leaders to vent their feelings over where the world is headed. It might make no difference to what lies ahead for an increasingly multipolar world that had long ago failed in giving real authority to the international forum which has progressively been reduced to a talking shop.
+
+The one tangible outcome of one of the weakest general assembly sessions held — which also marks the last in the tenure of Secretary-General Guterres — was the meeting between the foreign ministers of Russia and Germany. Their meeting when there is so much turmoil around the Ukraine war that threats are being perceived even against Nato countries in possible Russian action was significant.
+
+The Chinese President Xi Jinping skipped the session because he would not have wanted the focus on his Washington visit to be diluted. USA’s Donald Trump made a speech peppered with boasts, including an old saw about how he stopped the India and Pakistan conflict in 2025, a year which saw a record number of conflicts around the world. And he also repeated the threat of annihilating Iran.
+
+The beauty of talking shops where conflicting views can be aired freely is that Emmanuel Macron could tell the world that it must stand up to the US, Russia and Israel who were acting as if might is right. While India spent more time, perhaps in a futile way, in publicising Pakistan’s preference for sponsoring cross-border terror, it also tried to help the building of a partnership for multilateralism along with the EU, which seems quite determined to stress that the influence of the US as the world’s lone superpower was rapidly diminishing.
+
+It is moot whether Prime Minister Narendra Modi’s presence would have lent India’s arguments greater weight. But as a country that helps technology rule the world because of a large Indian presence in governance of global companies, India may have needed to say something about the dangers of a runaway artificial intelligence that is bothering the world now. Even then, it would have been all talk anyway as AI charts its own path with little government control.
+
+[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-unga-all-talk-and-zero-action-1991064)
+
+---
+
+### Let Manipur, Our Sporting Capital, Finally Find Peace
+*Deccan Chronicle · Opinion*
+
+Manipur today presents one of India’s most difficult governance and reconciliation challenges. The violence that began between Meitei and Kuki-Zo communities in May 2023 has not fully subsided; in 2026, an older Naga-Kuki-Zo fault line also re-emerged, although, to begin with, it was only a drunken brawl. The latest cycle began in Ukhrul district in February, when clashes led to arson and displacement. By September 18, at least 42 civilians were killed in Naga-Kuki-Zo violence since March, while officials subsequently said more than 40 people had died since clashes began in February. The figures may be revised, but the scale is unmistakable: Manipur has moved from one communal confrontation into overlapping cycles of violence.
+
+This explains why governing Manipur is so difficult. The state is home to many communities, but contemporary politics is shaped principally by three broad constituencies, Meitei, Naga and Kuki-Zo; each with its own historical memories, territorial concerns and political aspirations. A gesture towards one community is often interpreted by another as a concession made at its expense. Even security deployment, road access, land policy or rehabilitation can acquire an ethnic meaning. Governance, therefore, repeatedly assumes the character of a zero-sum game.
+
+Yet conflict is only one part of Manipur’s story. The state has given India a remarkable cultural inheritance: Sagol Kangjei, the indigenous form from which modern polo evolved. Ras Leela, Lai Haraoba, Thabal Chongba, Pung Cholom, Thang-Ta, Sarit-Sarak, Luivat Pheizak, Lam-Kut-Lam are all cultural extravaganzas which rest of India should know. The distinctive GI-tagged Chak-Hao black rice is unique in its aroma and taste. Together they represent a cultural richness far greater than the state’s physical size.
+
+Sport is perhaps the strongest expression of a shared Manipuri identity. Mary Kom, Mirabai Chanu, Dingko Singh, Kunjarani Devi, Laishram Sarita Devi, Oinam Bembem Devi and Bala Devi are the most familiar names from a deeper sporting ecosystem. Sports is a way of everyday life across communities. More than a thousand small, largely community-supported sports clubs exist across the state, with no state support. The results in 2026 again underline this extraordinary phenomenon. At the Glasgow Commonwealth Games, Manipuri athletes won four medals: Mirabai Chanu took gold in weightlifting, Rishikanta Singh won silver in weightlifting, Jadumani Singh won silver in boxing; and Bindyarani Devi won bronze in weightlifting. At the ongoing Aichi-Nagoya Asian Games, 36 sportspersons and three coaches from Manipur are part of India’s 499-member contingent — more than seven per cent of the national team from a state with only 0.22% of India’s population. Mirabai Chanu has already won silver in the women’s 49-kg event, ending India’s 28-year Asian Games medal drought in weightlifting, while Naorem Roshibina Devi won silver in wushu, becoming the first Indian wushu athlete to win a medal at three successive Asian Games.
+
+These numbers strengthen Manipur’s claim to be called India’s sporting capital. Haryana remains one of India’s great sporting states and has a far larger population and resource base. There is no uniform national dataset that permits a precise comparison of medals per rupee of state expenditure. But measured by international representation, medals, range of disciplines and elite athletes produced relative to population, Manipur’s output is exceptional. The Khuman Lampak Sports Complex and National Sports University provide institutional depth, but the real advantage lies in the community club, the village field and the social prestige attached to sport. In sporting return from a small demographic and resource base, few Indian states compare.
+
+That sporting culture can also become an instrument of reconciliation. Football, boxing, weightlifting, wushu, hockey and athletics cut across ethnic identities. Joint tournaments, youth exchanges and even civic activities such as “plogging” — jogging while collecting litter—can bring young people together around fitness, public service and shared spaces. People who train, compete and work together find it harder to see one another only through conflict.
+
+Manipur’s tourism potential offers another route towards normalcy. Loktak Lake and its floating phumdis, Keibul Lamjao National Park, Kangla, Moirang and its INA heritage, Ukhrul and the Shirui Hills, forests, waterfalls and tribal cultures should make the state a major destination. Yet, repeated highway blockades and counter-blockades by organisations representing different communities at different moments in recent history have imposed an economic and psychological chokehold. They have disrupted essentials, discouraged tourism and limited the rest of India’s familiarity with Manipur itself.
+
+Breaking this cycle requires more than government action. Civil society bodies such as COCOMI, ITLF, CoTU, the Kuki-Zo Council, the United Naga...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/let-manipur-our-sporting-capital-finally-find-peace-1991055)
+
+---
+
+### Managing US, China In An Rising Bi-multipolar World
+*Deccan Chronicle · Opinion*
+
+The world’s two biggest powers are seeking a new balance of power based on what has been termed as a “Constructive Strategic and Stable Relationship”. After meeting in Beijing in May this year and in Washington last week, the two plan to meet again in November, in China, and in December, in the US. This is historically unprecedented.
+
+It should be clear to all strategic affairs analysts that a serious attempt is being made to arrive at some sort of condominium between the two big powers. This is not to suggest that their relationship would in fact be “strategic” or “stable” but their engagement could potentially be constructive if they are able to end the on-going wars in Europe and West Asia, revive multilateralism and manage the global power transition under way. But then, que sera sera! The future’s not ours to see.
+
+President Trump was forthright when he spoke of an idea that had first been proposed by an American scholar, Fred Bergsten in 2000, when he suggested that the US and China form a “Group of Two” (G2) to be able to jointly manage world affairs. China has officially dismissed the idea of a G2 stating that it believes the global system is headed towards “multipolarity”, with dispersed centres of power. Russia, the third big power, has long advocated the idea of multipolarity suggesting that apart from the “big three”, the European Union, Brazil, India, Iran, Japan, South Africa and so on are also important players in the global system.
+
+The debate about the structure of power among nation states and the global influence and capability of various states will continue. It is true that through centuries the power of states has been dispersed with no one power capable of asserting its interests over all others. The British Empire enjoyed that kind of power through the 19th century and lost it by the middle of the 20th. The United States has enjoyed a sort of monopoly over global power for less than a century now but it no longer does. There was a brief moment after the Soviet Union imploded when analysts suggested that the global system was ‘unipolar’ with no country in a position to challenge the US.
+
+The Harvard historian Samuel Huntington, famous for his theory of the “clash of civilisations”, questioned the notion of “unipolarity” in a paper he published in 1999. The post-Cold War global system was in fact “Uni-multipolar”, suggested Huntington, because a group of “regional” powers would come together to prevent any single nation from becoming the hegemon of a unipolar power system. “The superpower’s efforts to create a unipolar system stimulate greater effort by the major powers to move toward a multipolar one.” Huntington suggested, adding: “Virtually all major regional powers are increasingly asserting themselves to promote their own distinct interests, which often conflict with those of the United States. Global politics has thus moved from the bipolar system of the Cold War through a unipolar moment — highlighted by the Gulf War — and is now passing through one or two uni-multipolar decades before it enters a truly multipolar 21st century.”
+
+The question today is whether between uni-multipolarity and multipolarity there is going to be a phase of “bi-multipolarity”? Of course, one can reject all such theoretical constructs saying the reality is more complex than any attempt to fit it into intellectual straitjackets and paradigms. Yet, I persist. If indeed one were to accept Huntington’s formulation that what came after the brief “unipolar moment” of the 1990s was a long phase of “uni-multipolarity” then it stands to reason to define the current phase as one of “bi-multipolarity”.
+
+Neither the US nor China have any peers in their respective hemispheres. Russia has weakened itself after its misadventure in Ukraine. China has so far played its cards well, especially in Asia. Both the US and China are facing resistance within their respective hemispheric spaces, yet they have been able to take unilateral actions that have not yet met with much resistance.
+
+The US has toppled a regime in Venezuela. However, it is still not sure if it can topple the Cuban regime so easily. China has consolidated its position in West and South-east Asia, and in much of South Asia, but it will be a long time before it can claim victory across the Taiwan Straits. There are checks and balances at work and India has been at the forefront of strengthening these checks and balances.
+
+Indian diplomacy has, in recent months, woken up to the challenge at hand after wasting years investing more than required in a relationship with the United States. It required some plain speaking by President Trump for those who have been sleepwalking through the corridors of power and think tanks in New Delhi to wake up and smell the coffee.
+
+The challenge for India is in front of us in plain sight. Either we understand and deal with the world as it is or continue to remain in a world of our own making. It is India’s legitimate...
+
+[Read full article](https://www.deccanchronicle.com/opinion/columnists/managing-us-china-in-an-rising-bi-multipolar-world-1991042)
+
+---
 
 ### Can dominant firms still offer discounts? Supreme Court’s Schott ruling explained
 *Deccan Herald · Opinion*
@@ -21267,240 +21537,6 @@ The NTA can learn from the best practices used by other agencies to conduct cred
 Disclaimer: The views expressed above are the author's own. They do not necessarily reflect the views of DH.
 
 [Read full article](https://www.deccanherald.com/opinion/neet-retest-nta-must-learn-from-upsc-ib-4056916)
-
----
-
-## 29 June 2026
-
-### Buyer beware: On the QR code-based drug traceability framework
-*The Hindu · Editorial*
-
-The Health Ministry’s notification to expand Schedule H2 drugs to entire therapeutic classes now from a curated list of brands earlier is a commendable change from regulating based on revenue to regulating based on risk. The government had introduced Schedule H2 in 2022-23, which required a barcode or QR code on each pack of specific drugs to verify the pack’s authenticity. It is part of a framework that also touches on regulating active pharmaceutical ingredients and export-oriented pharmaceutical compliance. Now, with the additional symbols encoding a product identifier, the manufacturing licence number, batch number, and other details, authorities hope to better track down defective batches. Counterfeit networks have long targeted vaccines, cancer medicines and antimicrobials, with WHO flagging high volumes of fake antimicrobials in low- and middle-income countries. India has one of the world’s highest antimicrobial resistance rates, and substandard antimicrobials can lead to sub-therapeutic dosing, exerting selection pressure on resistant strains. The Narcotics Control Bureau has also expressed concerns about medicinal opioids and psychotropic substances ‘leaking’ into illicit markets. The government will hope that the new system addresses the U.S. FDA’s and the European Medicines Agency’s recurring concerns about quality control, an issue on which India has found itself on the back foot over contaminated cough syrups. The U.S. Trade Representative has also repeatedly identified India as a leading source of counterfeit medicines, with many fake pharmaceuticals seized at the U.S. border originating from or transiting through India.
-
-Together with policy changes effected by the Jan Vishwas Act 2026, the new framework finally distinguishes between procedural non-compliance and substantial non-compliance, considering only the latter constitutes meaningful enforcement. In the long term, the government should rationalise the compliance burden and eliminate the risk of corruption associated with discretionary enforcement. The government must also recognise that the QR code system will only be effective if backed by a state-managed database that pharmacists and regulators can access in real time, supported by interoperable software and scanning infrastructure across States. Second, pharmacists and consumers must develop a habit of verifying medicines before a sale. Third, the compliance needs imposed by new packaging requirements and the IT integration will strain MSME manufacturers in particular. Finally, prescription data on controlled substances is sensitive information and will need to be handled with a digital governance layer that does not yet exist. Thus, whether the new framework will improve India’s reputation as a pharmacy comes down to its implementation.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/buyer-beware-on-the-qr-code-based-drug-traceability-framework/article71158371.ece)
-
----
-
-### Sharing waters: On the Tungabhadra model
-*The Hindu · Editorial*
-
-The coming together of the Chief Ministers of Karnataka (D.K. Shivakumar), Telangana (A. Revanth Reddy) and Andhra Pradesh (N. Chandrababu Naidu), along with Union Jal Shakti Minister C.R. Patil, at the inauguration of the 33 spillway gates of the Tungabhadra dam on June 25 was significant beyond the optics. The three leaders pledged greater inter-State cooperation, which is welcome given that the dam has largely remained free of major disputes due to an established water-sharing formula and the Tungabhadra Board’s regulation of releases. Located in Karnataka’s Koppal district, the dam is considered to be the lifeline of the three southern States, providing irrigation to about 16.4 lakh acres — 9.26 lakh in Karnataka, 6.25 lakh in Andhra Pradesh, and 87,000 in Telangana. It hit the headlines in August 2024 when a crest gate was washed away during heavy inflows — which also happened when the dam was full with 105 thousand million cubic feet (tmc ft) of water. The damaged gate was replaced with a temporary one, but with much water wasted, the authorities, who did not want to take chances with the other 32 gates, chose to install high-grade steel gates, at ₹51 crore and which are expected to last 60 years.
-
-Notwithstanding the bonhomie, the differences among the leaders on some issues concerning the larger Tungabhadra project cannot be brushed aside. The Upper Bhadra project, a major lift irrigation scheme under implementation in the central region of Karnataka and upstream of the Tungabhadra dam, has emerged as an irritant for Andhra Pradesh and Telangana. At one stage, the BJP-led Union government had made a provision of ₹5,300 crore in its budget for 2023-24, a few months before the Karnataka Assembly elections. However, the Centre later chose not to include it under any of its schemes, but this is being implemented by a Karnataka government undertaking. It remains to be seen whether the spirit of camaraderie will help the three neighbours to overcome their differences on the Upper Bhadra issue. The Tungabhadra dam is also facing excessive siltation, which has reduced its storage capacity from the original 133 tmc ft to about 106 tmc ft. Mr. Patil has assured the Chief Ministers about the Centre’s plan to remove silt from water reservoirs across the country including the Tungabhadra. More importantly, the Union government should closely monitor and expedite, wherever required, the execution of dam rehabilitation and improvement projects being taken up in 19 States. Any laxity with regard to dam safety may have disastrous consequences. The focus must be on prevention, not reparation.
-
-[Read full article](https://www.thehindu.com/opinion/editorial/sharing-waters-on-the-tungabhadra-model/article71158393.ece)
-
----
-
-### The new digital slavery needs constitutional guardrails
-*The Hindu · Opinion*
-
-In his profound encyclical, Magnifica Humanitas, Pope Leo XIV grounds the contemporary crisis of technology in elemental theology, reminding humanity that the individual stands at the absolute centre of divine creation. Yet, this sacred human dignity faces an unprecedented challenge. The Holy Father warns that artificial intelligence (AI), left unchecked, threatens to turn the ownership of our personal data into a new form of digital slavery — a subjugation as cruel as human bondage. Because the stakes are so inherently tied to human dignity, the Pontiff insists that the governance of AI cannot rely on vague good intentions, nor can it be left to the private consciences of the engineers who build these systems. Instead, he issues an urgent call for robust, binding law over abstract ethics, independent public oversight over the empty promises of Silicon Valley’s modern pharaohs — and a clear requirement that a human being remains accountable whenever an automated system decides who gets a loan, a job, a medical bed, or an education. Pope Leo XIV’s core demand is that this new electronic Curia be strictly regulated rather than quietly surrendered to a handful of private tech monopolies whose reach and resources already outstrip most sovereign governments. He even goes so far as to commend the courage to deliberately slow down the development of AI.
-
-Also Read | The science of AI and the AI of science
-
-When regulation lagsHowever, a fundamental problem remains: AI and morality do not observe the same time. AI is developed at the breakneck speed of the start-up culture, driven by an ethos to move fast and run perpetual beta tests on society in the guise of progress. This velocity is fuelled not just by commercial rivalries, but by relentless mathematical innovation spanning from Silicon Valley to Shenzhen. It presents a deeper hurdle for lawmakers worldwide: parliament can govern what a person does, but it can never forbid a mathematical theorem, a discovery, or an equation from being made. How do lawmakers fulfil the Pope’s wishes?
-
-Power politics in the age of AILaw in most democracies moves slowly. By the time landmark legislation such as the European Union’s Artificial Intelligence Act or the United Kingdom’s Online Safety Act were painstakingly debated and passed, the specific technical harms they were built to combat had already mutated, leaving an entire generation to grow up inside unaddressed digital vulnerabilities. Policymakers have historically been behind the innovation curve, and under current paradigms, we will be again.
-
-If legislation is fated to lag behind innovation, the consequences for democratic societies are not merely regulatory; they are existential. Democracy cannot function if citizens cannot distinguish reality from fabrication. At its core, democratic governance relies on a shared epistemic foundation: a collective agreement on basic facts from which public debate, policy, and electoral choices can flow. When that foundation is systematically undermined, the entire democratic project is threatened. Today, AI-generated disinformation and advanced synthetic media (“deepfakes”) have advanced to a level of fidelity where the human eye and ear can no longer reliably detect forgery. This is already our reality. Highly convincing audio and video duplications of political leaders are deployed strategically during sensitive electoral cycles to depress voter turnout, fabricate scandals out of thin air, and instantly shatter public trust in legitimate state institutions.
-
-Related StoriesWhy has the government issued a directive on deepfake? | Explained
-
-War, deepfakes and the fragility of truth
-
-Deepfakes and the death of truth
-
-This vulnerability is hyper-charged by algorithmic manipulation. Big Tech platforms operate on business models engineered exclusively to maximise user engagement. Because outrage, fear, and sensationalism generate the highest click-through rates, platform algorithms systematically prioritise and amplify hyper-partisan content, driving radicalisation. By trapping citizens within hyper-customised echo chambers, these systems normalise online hate and accelerate social fragmentation. In doing so, private platforms exert an unprecedented form of unaccountable power, effectively rewriting the rules of the public square to optimise quarterly corporate profits at the expense of social cohesion.
-
-Democracy’s digital vulnerabilityWhen a society is deeply polarised and stripped of a shared reality, it becomes a soft target for foreign interference. Adversarial nation-states and non-state actors have weaponised these platform vulnerabilities, transforming them into a theatre for sophisticated information warfare. Foreign information manipulation operations are no longer clumsy, bot-driven spam campaigns; they are highly targeted, AI-driven psychological operations designed to covertly exploit pre-existing religious, ethnic, or socioeconomic fault lines within a target nation. By covertly funding, generating, and amplifying divisive narratives, hostile foreign actors can destabilise a democracy from within, turning its own citizens against one another. These coordinated campaigns represent nothing less than a direct, strategic threat to democratic sovereignty itself. As the world’s largest democracy and a global technology hub, India stands at the absolute epicentre of this crisis. In an environment where digital adoption outpaces structural digital literacy, the weaponisation of synthetic media and algorithmic polarisation poses a unique threat to India’s pluralistic society.
-
-If traditional, reactive legislation is doomed to always trail behind mathematical innovation, India cannot rely on standard, backward-looking regulatory frameworks. Instead, an enduring law and policy framework for India must be anchored in five foundational pillars that operate concurrently.
-
-First, AI governance must adopt a strictly rights-based framework that prioritises individual human dignity and digital autonomy, ensuring citizens possess unalienable rights over their personal data, strict consent protocols, and clear protections against algorithmic discrimination in critical sectors such as employment, credit, and health care. Second, platforms must be subjected to genuine democratic accountability; large technology firms can no longer hide behind absolute safe-harbour immunities while their algorithms profit from the viral spread of destabilising disinformation. They must be legally compelled to introduce structural transparency, allowing independent audits of their recommendation engines and forcing them to accept systemic liability for algorithmic amplification that results in real-world violence.
-
-Third, even as these frameworks are constructed, free speech protections must remain fully intact. The power to define and combat disinformation must never devolve into a tool for state-sponsored censorship or the silencing of political dissent. The focus of regulation must remain strictly on structural platform mechanics, such as automated bot networks and deepfake originators, rather than the heavy-handed policing of individual ideological speech.
-
-Fourth, because technical fixes are entirely insufficient without building cognitive resilience within the populace, India must launch a massive, state-backed educational initiative focused on media literacy and digital citizenship. This curriculum must be integrated across schools, universities, and rural community centres to train citizens to critically evaluate digital sources and identify emotional manipulation tactics. Finally, to defend national sovereignty, India must establish sophisticated, cross-sector early-warning systems capable of detecting coordinated misinformation operations in real-time. By leveraging advanced detection tools and fostering deep collaboration between state security apparatuses, independent fact-checking networks, and ethical hackers, the nation can identify and neutralise foreign information warfare campaigns before they achieve viral velocity.
-
-A constitutional imperativeUltimately, the lesson of our era is clear: AI governance cannot remain merely regulatory or technical. It is a profound mistake to treat the manipulation of the information ecosystem as a series of isolated technical glitches to be patched with minor corporate updates or narrow statutory tweaks. Because these technologies possess the unique capability to distort truth, polarise societies, and erode the sovereign choice of voters, AI governance must rise to the level of a constitutional imperative. The right to an unmanipulated information ecosystem, where reality can be clearly distinguished from corporate or state fabrication, must be viewed as an indispensable extension of the fundamental right to life, liberty, and free expression.
-
-Furthermore, this governance must be thoroughly democratic. It cannot be quietly negotiated behind closed doors between Silicon Valley executives and our bureaucracy. The rules that govern the digital public square must be forged through open parliamentary debate, public participation, and transparent institutional oversight, ensuring that technology serves the collective will of the people rather than the financial interests of any corporate oligarchy. And AI governance must be explicitly geopolitically conscious. Information space is the new frontline of global warfare. For sovereign India, maintaining a hands-off approach to algorithmic manipulation is equivalent to unilateral disarmament. Democratic states must recognize that the code running our public square is just as critical to national security as physical border infrastructure. Only by elevating AI governance into a constitutional shield, a democratic mandate, and a core pillar of national sovereignty can India’s democracy hope to survive the storms of the digital age.
-
-Shashi Tharoor is the fourth-term Member of Parliament (Lok Sabha) for Thiruvananthapuram (Congress party), the Chairman of the Parliamentary Standing Committee on External Affairs and the Sahitya Akademi Award-winning author of 29 books, including, most recently, ‘The Sage Who Reimagined Hinduism: The Life, Lessons and Legacy of Sree Narayana Guru’
-
-[Read full article](https://www.thehindu.com/opinion/lead/the-new-digital-slavery-needs-constitutional-guardrails/article71158538.ece)
-
----
-
-### DC Edit | India, Seychelles Bond Stronger
-*Deccan Chronicle · Editorial*
-
-With a landmass of 460 sq km, the Seychelles archipelago of 115 islands may be small in territory, but it put on a mega show of welcoming India as a defence, security and valuable technology, development and social partner. In laying out the red carpet for Prime Minister Narendra Modi, the country was celebrating its deep ties with India, built over the last 50 years after it gained independence, whose jubilee was celebrated with gusto, with the Indian Army and Navy bands also participating.
-
-The islands, widely perceived in India as primarily a holiday paradise for sun seekers, were not feting India’s leader for its economic heft so much as the crucial maritime partnership over decades that has given Seychelles a sense of security as it presides over wide sea lanes on one of the world’s busiest routes. India’s help with maritime capacity in patrolling vessels and boats for Seychelles’ security has been a model in regional cooperation.
-
-Mr Modi’s assurance on behalf of India that the partnership is not to be defined by size is a telling comment that should have pleased Seychelles whose aspirations to build a sustainable Blue Economy remain high. Along with the pledge also comes umbrella aid and an economic package of $175 million plus crucial materials like cement and rice.
-
-It is a sign of the times that apart from all the marine capabilities that India has helped bolster as the island-nation guards its economic zone in the Indian Ocean that Seychelles wishes to improve its AI architecture, cybersecurity which is assuming huge importance these days and outer space as well, towards which India has promised to help.
-
-India may not be among the world’s largest powers in chasing AI for the future as the USA and China are currently, but it has the human resources to help everyone develop to enjoy the positive fruits of the new technology.
-
-The India-architected UPI payment system, also a tool that is serving the present while welcoming the future, is also a crucial element in a growing partnership that will straddle nine areas of well-defined cooperation, including in crime prevention.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-india-seychelles-bond-stronger-1967146)
-
----
-
-### DC Edit | Twilight Time For DMK As TN’s Politics In Flux?
-*Deccan Chronicle · Editorial*
-
-The last straw was perhaps the acrimonious exit of Marumalarchi Dravida Munnetra Kazhagam (MDMK) founded by veteran Parliamentarian and octogenarian politician, Vaiko, from the Secular Progressive Alliance (SPA) on Sunday. Ahead of that, every other prominent ally of the DMK had bid adieu to the coalition after contesting the April 23 elections to the Tamil Nadu Assembly together. The disintegration of the secular grouping after its humiliating debacle caused by the sudden upsurge of the Tamilaga Vetri Kazhagam (TVK), led by C. Joseph Vijay, in the political sweepstakes began with the Congress quietly walking out to join the triumphant party and even getting berths in the Cabinet.What was a major blow for the 77-year-old DMK, electorally and politically, was followed by other long-time allies like the VCK, IUML, CPI and CPM, too, drifting towards the TVK. Keeping with the trend, the MDMK snapped ties with the DMK by making the announcement at its general council meeting in Chennai, which left many wondering what was left of the SPA and what was so terribly wrong with the DMK, against whom almost all former allies were turning their ire.
-
-The apparent isolation of DMK, which earlier had held a dominant position in the I.N.D.I.A. (Indian National Developmental Inclusive Alliance) coalition spearheaded by the Congress, gave rise to a plethora of questions: What exactly was wrong with the party that has been dominating the state politics like a colossus since its maiden ascension to the throne in 1967; what caused its latest fall from grace and will it be able to recover from the catastrophe. To know what went wrong with the party, one must just listen to the lament of the allies who had snapped ties now and those who voted enthusiastically for the TVK.
-
-A wide range of allegations like corruption and favouritism towards the family members of DMK chief M.K. Stalin dominate the reasons for widespread anger and resentment. Even party functionaries were reportedly peeved over the importance given to relatives of the former chief minister in party affairs overtly and in state administrative matters covertly. The open charges of corruption and favouritism levelled by traditional Opposition leaders like Edappadi K. Palaniswami to newbies like Vijay added credence to the popular perception of irregularities burgeoning in various departments, turning the tables against the DMK.
-
-But more than anything else, it was the glamour and cinema popularity of the rising star Vijay that evoked an interest in politics among the youth and adolescent film fans, for whom nothing mattered more than what he said. When he told children to put pressure on elders to vote for TVK, they did it and the elders too obliged nonchalantly, leading to the electoral defeat of the DMK, which was thoroughly vilified in the hustings.
-
-History teaches us that nothing is permanent in Tamil Nadu politics and the DMK can reverse the trend, given its long experience in electoral politics where it had bitten the dust several times and emerged like a phoenix. Its suspected role in cobbling an alliance with AIADMK to snatch power from the first public choice, which is the TVK, has not helped its image either. It is doubtful if it could regain its self-assumed role as the guardian angel of Tamil identity when the TVK is just reiterating the harangue of Dravidian politics and aping the actions of Dravidian majors.
-
-[Read full article](https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-twilight-time-for-dmk-as-tns-politics-in-flux-1967151)
-
----
-
-### Aakar Patel | New ‘Rules’ Are Brought In To Keep All NGOs On A Tight Leash
-*Deccan Chronicle · Opinion*
-
-What cannot be passed in Parliament as a new law can be brought into effect through a change in the rules. The practical effect is almost the same and the object is achieved. This is not what democratic nations ought to be doing, but then there is a real good reason why India is now, so many years after 1947, classified as being “partly free” and not a real democracy.
-
-This March, the government introduced a bill to attack, yet again, non-governmental organisations. This is a sector to which, it must be clarified, at the outset, the RSS does not belong because it is not a registered entity and does not therefore exist. The bill could not pass after the Opposition did what it should do more often: Oppose. The Prime Minister, with his 240 MPs, took his bill and went home. And then he reintroduced its essence as a change in the “rules” under the existing law, that does not require any parliamentary assent.
-
-Exactly like the introduction of the Special Intensive Revision, which did the job of disenfranchisement through “rules” that the National Register of Citizens could not do through law.
-
-The current attack on the NGOs continues the effort to shut the entire sector down. It is aimed at those who receive foreign funding and the familiar tropes of national security and “foreign hand” and the rest have been invoked. At the outset, it must be clarified that “PM Cares” is not covered here because it is neither a government entity — and therefore outside the purview of the RTI — nor is it an NGO — and therefore can’t be held to the same standard. It is a mythical creature.
-
-Anyway, the new rules say a few things to hamper NGO work. Some of them are as follows: NGOs can only conduct those activities that are in a schedule provided by the government. The government will also meddle in where an NGO can function. An NGO’s “chief functionary” is not just its chief functionary, but also all of its trustees and office-bearers, and foreigners are not eligible.
-
-They must declare their social media accounts and not publish things the government considers to be political. And so on and on. Why are these rules not applied to the rest of the private sector (which is what “non-government” means)? This is hard to say. Corporates can bring in as much foreign investment as they want and are lauded for this. They can hire foreign CEOs, and our own Indian CEOs in America are heroes.
-
-There are other very obvious hypocrisies also. In January 2013, a public interest litigation was filed in Delhi high court claiming that the BJP and the Congress had received donations from the same foreign company, Vedanta/Sterlite, which were in violation of the FCRA Act. On March 28, 2014, the court held that the BJP and Congress were guilty of FCRA violation and, in May, asked the Narendra Modi government and the EC to act against the two parties.
-
-By October 2015, the Modi government had figured a way out. A change in the law would define any company registered in India, regardless of who owned it, as an Indian company. In essence, “foreign” was redefined as “Indian”, which was a fraud on the Indian people, but because both major parties were complicit in the fraud, it passed without resistance.
-
-For the rest of us, the rules are different. In 2020, the government introduced more of them. First, that the 23,000-odd NGOs which had a licence to receive foreign money could receive funds only in a single branch of the State Bank of India — the one at Sansad Marg in New Delhi. Only 1,488 NGOs were registered in Delhi, and so the rest would have to come to the city to open an account. The branch would report to the home ministry the details of the remittance, the sources and manner in which it was received.
-
-The second change was that the NGO could spend only 20 per cent of the money it received on “administrative expenses”. Salaries, travel expenses, the cost of hiring individuals, consumables like electricity and water charges, telephone charges, postal and courier charges, repairs to the office, stationery and printing charges, transport, the cost of accounting for and administering funds, running and maintenance of vehicles, cost of writing and filing reports, legal and professional charges and rent were all classified as administrative expenses.
-
-No more than 20 per cent of their foreign funding could be spent on these things (keep in mind that such restrictions are not applicable to any other sector in India). This would affect those organisations whose work concerned research and advocacy and other things that required hiring professionals such as lawyers and academics, and were unrelated to pure brick-and-mortar activity, such as building hospitals and schools. Third, the law now prevented an NGO from redistribution of funds it had received to other NGOs even if they were FCRA-compliant. This would hit the sector because NGOs do not compete with one another as the rest of the private sector does; they operate as networks. This change...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/aakar-patel-new-rules-are-brought-in-to-keep-all-ngos-on-a-tight-leash-1967137)
-
----
-
-### Gurjit Singh | ‘Act East’ 2026: Strategic Rejig In A Turbulent World
-*Deccan Chronicle · Opinion*
-
-Significant trends are occurring in India’s diplomatic approach to the Indo-Pacific. If you see one visit at a time, you may miss the strategic significance of the overall trajectory that India seeks in the face of unstable crisis situations, as well as the approaches of China and the United States to the region.
-
-The annual summit between Prime Minister Narendra Modi and Japanese PM Sanai Takaichi, now to be held in New Delhi from July 1, should be seen alongside Mr Modi’s return visits to Indonesia and Australia and the first visit by an Indian PM to New Zealand in 40 years.
-
-These four engagements collectively present more than a busy schedule of diplomatic visits. They are an elaboration of India’s “Act East” policy.
-
-This emerges from the evident realities of an unstable order, in which India seeks greater stability in the Indo-Pacific. Twelve years after the launch of the AEP, its logic has been accepted, and it has shown sufficient flexibility to address contextual changes in the region.
-
-The US-led liberal order, stable global supply chains, and the role of multilateral institutions have diminished at a speed and in a manner that was incomprehensible even when Covid-19 struck. The disruption of supply chains caused by Covid, the Ukraine and Iran crises was accentuated by Trump 2.0’s harsh trade attitudes towards friends.
-
-The Trump administration’s approach to seeking a “G-2” with China, acknowledging its rise and pivoting away from the Indo-Pacific in a strategic sense, gives India, Japan, Australia and Asean much to think about regarding their future trajectories. This transition is neither minuscule nor temporary.
-
-Australia and Japan have felt the obliteration of the distinction between partners and rivals, as has India. Despite efforts, tariff issues remain paramount, unsettling the institutional frameworks that guided the Indo-Pacific for a while.
-
-In this, Mr Modi’s Indo-Pacific engagements with partners are timely. India is no longer waiting for Washington to show enthusiasm. Instead, India is building on its own partnerships, economic architecture, and supply chain expectations at a faster pace than anticipated.
-
-The Japan PM’s visit remains the core of this strategy now. The presence of nearly 200 businessmen from about 100 companies underscores the Japanese preference for economic security as the core of the partnership. Investment, resilient supply chains and enhanced interaction on semiconductors, renewable energy, EVs, defence electronics, critical minerals and an expanded automobile partnership will buttress this relationship.
-
-Japan was committed to doubling its investment between 2022 and 2027 to 5 trillion yen. Since 2025, it has enhanced its target to 10 trillion yen by 2035.
-
-The continuum established by annual summits aligns India’s Act East policy and Japan’s “Free and Open Indo-Pacific” vision. This bilateral engagement is likely to intensify, allowing it to influence and bolster the Quad and other regional initiatives that are being diminished by the lack of American enthusiasm.
-
-If India, Japan and Australia can rekindle the India-Japan-Australia Supply Chain Resilience Initiative, it will show good momentum among themselves. It could very well be the institutionalized manifestation of a common understanding that none of the partners can have their critical supply chains run through China as a major hub, whose ability to create vulnerabilities in our supply chains is evident.
-
-Mr Modi’s three-nation tour of Jakarta, Australia and New Zealand will present a regional picture of engagement as well.
-
-In Jakarta, the Modi-Prabowo talks will follow up on Mr Prabowo’s Republic Day visit in 2025. Maritime security, defence cooperation, enhanced trade and supply chain development will be important, besides people-to-people and educational linkages. Indonesia could finalize its order for the BrahMos missile systems, which have taken long to fructify. Bilateral trade, currently at $25 billion, can easily reach its $50 billion target with better market access.
-
-Greater avenues of cooperation in health, tourism and military exercises could bring Indonesia, the world’s largest archipelago, which is close to the important Straits of Malacca, Lombok and Sunda, and become a strategic partner in the growing Indian interest in the area, as seen in the Great Nicobar project emerging soon. Closer strategic alignment between India and Indonesia needs to be kindled in a way that advances essential goals, and Mr Modi’s visit is likely to do so.
-
-To New Zealand, Mr Modi’s visit will be the first by an Indian PM in 40 years. It comes soon after India and New Zealand concluded an FTA that removes tariffs on Indian exports while reducing duties on most of New Zealand’s exports.
-
-The symbolism here is manifest. India is covering the gaps in its high-level visits to friendly countries at a rapid pace.
-
-With Australia, the engagement is a mature partnership. Prime Ministers Modi and Albanese have met...
-
-[Read full article](https://www.deccanchronicle.com/opinion/columnists/gurjit-singh-act-east-2026-strategic-rejig-in-a-turbulent-world-1967131)
-
----
-
-### Glitches catch BMRCL flat-footed yet again
-*Deccan Herald · Editorial*
-
-Before the dust had settled on one disruption, Bengaluru’s Namma Metro Purple Line suffered another. Two major interruptions in three days have again exposed the fragility of the city’s most vital transport corridor — not merely because failures occurred, but because no effective plan existed to manage their consequences.
-
-The first, an electrical fault, halted services near Cubbon Park station during the evening rush hour, stranding thousands as operations were curtailed across the central section. Barely two days later, another train bound for Challaghatta was immobilised at the same station when a passenger’s metal chain jammed a door. Though not a system failure, safety protocols required evacuation, delaying subsequent services.
-
-Bengaluru (South) MP Tejasvi Surya has claimed that these are part of nearly 21 disruptions since 2024, with the Purple Line accounting for most of them. Given this, his demand for an independent safety audit deserves consideration. The Bangalore Metro Rail Corporation Limited (BMRCL) is a joint venture of the Union and Karnataka governments, making this a shared responsibility. No metro system in the world is immune to technical glitches. What distinguishes a well-run network is not the absence of failures but the efficiency with which it responds. Here, the BMRCL fell short. Passengers received little useful information. Poor mobile connectivity inside underground stations left many confused about alternatives, while outside, auto-rickshaw drivers demanded exorbitant fares as commuters scrambled for transport.
-
-This is where contingency planning becomes indispensable. The government should have immediately deployed BMTC buses to shuttle passengers. During such exigencies, the response must extend beyond buses to include temporarily capping surge pricing on ride-hailing apps and strictly enforcing auto-rickshaw fares to prevent the exploitation of stranded citizens.
-
-Station staff must have clearly rehearsed standard operating procedures to guide commuters, make frequent public announcements and co-ordinate with traffic police and civic agencies — something that was missing in the recent instance. Such protocols should be tested through periodic mock drills, rather than improvised during emergencies. Mumbai faced similar criticism after a recent glitch, highlighting that as India’s metro systems expand, emergency preparedness must match engineering advancement.
-
-For Bengaluru, the repeated disruptions are a reminder that the Purple Line's central corridor is operating at or near its structural capacity. Routine maintenance must be complemented by technical audits and predictive monitoring to identify vulnerabilities before they escalate. In short, Namma Metro must become proactive rather than reactive. A world-class metro is judged not by whether it breaks down, but by how confidently it carries its passengers through the unexpected.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/glitches-catch-bmrcl-flat-footed-yet-again-4055413)
-
----
-
-### Now the spotlight is on citizenship
-*Deccan Herald · Editorial*
-
-The statement made by an official of the Ministry of External Affairs that a passport is only a travel document and not conclusive proof of Indian citizenship has raised questions and created confusion. Strictly speaking, the statement is not news.
-
-It does not lay down any new policy. Passports are issued under the Passports Act, and citizenship is governed by the Citizenship Act,1955. Although passports are generally issued after confirming citizenship, in special cases, they can be issued to non-citizens. The courts have also affirmed that it is a travel document. The Constitution defines citizenship, but does not mention a document that conclusively establishes it. Even procedures for obtaining voter IDs or PAN cards do not demand proof of citizenship.
-
-The statement about the passport may, therefore, not be about it, but about citizenship. It might be meant to create uncertainties about citizenship, and to show that citizenship needs to be proved afresh. By law, citizenship may be acquired through birth, descent, registration, naturalisation or incorporation of territory. The citizenship of all those who are now citizens, or deem themselves to be citizens, may be seen as valid only on any of those grounds. The MEA statement on the passport’s inadequacy suggests that citizenship must be established in the way the government wants it to be proved.
-
-The situation could be like the demand made by the Election Commission of India (ECI) to the voters that they prove their status as voters. Millions of names have been removed from the voters’ rolls, and lakhs of people are waiting for a decision on their voting status. The ECI asked for a clutch of documents to prove that a person is a voter. Many could not provide them because it was practically not possible for them to procure them. The names of many who produced the documents were also removed. It could be much worse in the case of citizenship.
-
-The only document that could prove citizenship is the birth certificate, that too with conditions relating to the year of birth or parentage attached to it. Many people do not have it and can’t get it even if they try because the original records may not exist.
-
-So, the situation in India will be much worse than the SIR of the electoral rolls if there is a special intensive revision of citizenship. There has been talk about a National Register of Citizens (NRC) and a Citizenship (Amendment) Bill. The reference to passports has caused concern that it might lead to a citizenship survey, with all its consequences.
-
-[Read full article](https://www.deccanherald.com/opinion/editorial/now-the-spotlight-is-on-citizenship-4055415)
-
----
-
-### The real work of manifestation
-*Deccan Herald · Opinion*
-
-We all want something. A promotion that feels long overdue. A relationship that finally clicks. A life that, even just a little, resembles the one we dreamed of when we were younger, when the world still felt wide open. Ask anyone what they hope for, and they will tell you straight away. Wanting has never been the difficult part. The real question is whether truly believing in something can help bring it closer.
-
-That is what manifestation is really about. Not daydreaming or crossing your fingers and hoping for the best, but something far more intentional. It is about holding what you want not as some distant maybe, but as something already on its way to you.
-
-The Law of Attraction puts it this way: what you consistently pour into yourself, you eventually draw toward you. Many people will tell you it genuinely changed things for them.
-
-Others think it is not true. But most who give it a real try will quietly admit that something inside them shifts. It is not the world and it is not immediate, but it is them.
-
-They live their lives, knowing better what they want. They do not waste time on things that never would have taken them where they wanted to go. They begin to see possibilities they would have just passed by before. And something that once seemed like a dream begins to feel like a destination.
-
-Honestly, this might be the most real thing anyone can say about manifestation. Life will wear you down. The small let-downs, the waiting, the moments when giving up feels like the smartest thing you could do. Believing in something will not stop any of that from happening. But it keeps you from falling apart when it does. It brings you back to why you started. And sometimes that is all you need to show up one more time.
-
-Going from “maybe one day” to “this is happening” rewires something in you. The way you think, the chances you are willing to take, the effort you show up with, even on the flat and unremarkable days when nothing feels worth it.
-
-Whether the universe is listening or your own mind is simply performing at its best when it has a clear target, that question may miss the point entirely. Believe in it enough and you will find a way. That has probably always been true.
-
-[Read full article](https://www.deccanherald.com/opinion/the-real-work-of-manifestation-4055420)
 
 ---
 
