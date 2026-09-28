@@ -1,3 +1,540 @@
+## 28 September 2026
+
+### Why do pirates really wear an eyepatch? Hollywood keeps it a secret
+*Radifah Kabir · general*
+
+Cannons roar across the Caribbean as Captain Jack Sparrow's ragtag crew, sailing the _Interceptor_, a stolen Royal Navy ship, fires whatever comes to hand at the _Black Pearl_, the black-sailed ship of the cursed pirate, Captain Barbossa. Captain Sparrow's crew also fires forks. One fork clips a _Black Pearl_ pirate's wooden eye clean out of its socket and sends it rolling across the deck. The one-eyed pirate drops to his knees and scrambles after it, like a man chasing a lost coin.
+
+This is _Pirates of the Caribbean: The Curse of the Black Pearl (2003)_, Johnny Depp's swashbuckling debut as Captain Sparrow, and the unlucky pirate is Ragetti, played by Mackenzie Crook. He wears a wooden eye in that scene, and later swaps it for an eyepatch. Nobody in the cinema questions it, because films have taught us that a pirate without a missing eye or a patch is barely a pirate at all. Captain Sparrow himself is the exception, since he wears no eyepatch in the films. But science suggests the patch had little to do with a lost eye, and a great deal to do with the dark.
+
+### WHY DID PIRATES WEAR AN EYEPATCH?
+
+The popular answer is injury. Sailors and soldiers did lose eyes in an age before modern surgery, and patches were common among them. Yet pirates rarely wore them aboard ships, and there is no firm evidence of patch-wearing pirates before several popular 19th-century novels.
+
+Exceptions exist, such as _Rahmah ibn Jabir al-Jalhami_, a well-known pirate of the Persian Gulf who wore one after losing an eye in battle. The pirate in a patch, it seems, owes more to storybooks than to ship logs.
+
+### WHAT IS DARK ADAPTATION, AND WHY DOES IT TAKE SO LONG?
+
+Step from a sunlit street into a dark cinema hall and you are briefly blind. That fumbling wait is dark adaptation, the eye's slow switch from day vision to night vision.
+
+At the back of your eye sits the retina, a thin layer of cells that catch light and turn it into signals for your brain. It has two kinds of cells. Cones work in bright light and give you colour and sharp detail. Rods work in dim light, which is why the world looks grey at night. Each rod contains a light-sensitive chemical called rhodopsin. Bright light breaks it down, and the rods stop working until the chemical is rebuilt. That rebuilding takes time, and it is why your eyes need a while to adjust after you step into the dark.
+
+A 2022 review in _The Journal of Physiology_ notes that full night-time sensitivity can take over 30 minutes to return after a near-total bleach.
+
+### HOW CAN A SINGLE EYEPATCH HELP YOU SEE IN THE DARK?
+
+Picture a pirate ship mid-raid. On deck, the sun glares. Below deck, it is nearly black. A pirate charging down the stairs with sunlit eyes would be half-blind for minutes, exactly when he can least afford it.
+
+Now cover one eye on deck. It stays in darkness, its rhodopsin undisturbed and its rods primed. Each eye adapts on its own, so flip the patch to the other eye on the way down and the brain simply relies on the one that is ready. In 1934, Charles Sheard of the Mayo Foundation described this very idea in the _Minnesota Academy of Sciences Journal_, calling it the pirate's patch. Pilots have used the same trick, closing one eye to protect night vision while flying over bright cities.
+
+### HAS ANYONE ACTUALLY TESTED THE PIRATE EYEPATCH THEORY?
+
+Yes. The television show MythBusters tested it in 2007 and found it plausible. Researchers at the University of St Thomas in Minnesota then took it into a lab. They recruited 70 undergraduates, and half wore a patch for 20 minutes. Each student was then blindfolded and sent into a completely dark room to find a table, solve a toddler's puzzle and find the door again.
+
+The patched pirates finished overwhelmingly faster, the university reported. They also showed a marked drop in cortisol, the body's stress hormone, after the task. One caution: this was a student project presented at a psychology conference, with the team planning to submit it to a journal, so treat it as a fascinating clue rather than a final verdict.
+
+### SO IS THE PIRATE EYEPATCH MYTH BUSTED OR CONFIRMED?
+
+Neither, exactly. The science holds up, since a covered eye really does stay ready for darkness. The history does not, because no historical naval manual documents pirates using it.
+
+So the next time a film pirate squints beneath a patch, spare a thought for the retina underneath. Perhaps it was never a wound. Perhaps it was a plan.
+
+\- Ends
+
+---
+
+### Classes suspended amid unrest, LPU students leave campus; CM Mann vows action
+*Kamaljit Kaur Sandhu · general*
+
+Regular classes at Lovely Professional University (LPU) in Punjab's Phagwara have been suspended for 10 days following Sunday's violent protests over allegations that a female student was raped by an outsider. Chief Minister Bhagwant Mann has vowed strict action against those responsible for the violence.
+
+In the wake of the flare-up, the university has also postponed its mid-term examinations until further notice. Mobile internet has been suspended on the LPU campus and surrounding areas since midnight.
+
+Amid heavy police deployment at all campus gates, students have started leaving for their hometowns, many of them from outside Punjab.
+
+> #WATCH | Phagwara, Punjab | Latest visuals from Lovely Professional University (LPU) where heavy Police deployment has been made and students are leaving for their homes. Regular classes have been suspended here for 10 days from 28th September; mid-term examinations have also pic.twitter.com/zvYhcgLvrn— ANI (@ANI) September 28, 2026
+
+> #WATCH | Lovely Professional University (LPU) matter | Phagwara, Punjab: Heavy Police deployment at Lovely Professional University (LPU) following the protest by students that turned violent yesterday. Punjab DGP Gaurav Yadav has also reached here. pic.twitter.com/SZwNxTwXUk— ANI (@ANI) September 28, 2026
+
+According to a statement from his office, Chief Minister Mann has ordered strict action against those responsible for Sunday's violence and directed DGP Gaurav Yadav to visit the campus and assess the situation.
+
+SP (Investigation) Harinder Gill said the situation had remained peaceful since Sunday night.
+
+“There is no protesting or anything as of now. We have made a large-scale deployment of police at all gates of the campus,” he said.
+
+### WHAT HAPPENED ON SUNDAY
+
+The protest began near Girls' Hostel-3 around 1 am on Sunday after students alleged that a female student had been raped by a plumber three days earlier and claimed the hostel warden had been informed, but no action was taken.
+
+Students later blocked NH-44 outside the university from around 8 am, severely disrupting traffic. The standoff continued through the day and escalated in the evening when police moved to clear the highway.
+
+Students threw water bottles, stones at the police, and also attacked their vehicles, prompting the authorities to resort to amild lathi charges.
+
+Two police vehicles were set on fire and several police personnel were injured, officials said.
+
+Additional forces were called in from nearby districts and the situation was eventually brought under control.
+
+Police said an FIR has been registered against an unknown person based on the students' statement regarding the alleged rape. An SIT has also been formed to investigate the allegation.
+
+DIG (Jalandhar Range) Naveen Singla said forensic samples, CCTV footage and call records would be examined as part of the probe.
+
+### UNIVERSITY REACTION
+
+The university, however, has maintained that there was no truth in the rape allegation.
+
+LPU Registrar Monica Gulati said certain anti-social elements were spreading “false, baseless and fabricated” allegations and creating confusion among students.
+
+The university also released a video statement of three female students from Room No. 504 of the hostel, who claimed that no rape incident had taken place.
+
+\- Ends
+
+---
+
+### Trump’s big remarks on Fairford terror plot, meeting with Anthropic CEO and Xi Jinping’s US visit
+*ET Online · business*
+
+US President Donald Trump said on Sunday (September 27) that information regarding the five men arrested near a US-used air base in Britain will be released "very soon". "We know all about them and you will be hearing about them very soon. We caught them," Trump told reporters at Joint Base Andrews ...
+
+[Read full article](https://economictimes.indiatimes.com/news/international/world-news/trumps-big-remarks-on-fairford-terror-plot-meeting-with-anthropic-ceo-and-xi-jinpings-us-visit/videoshow/134532768.cms)
+
+---
+
+### 2026 MTV VMAs: Taylor Swift steals the show, surpasses Beyoncé to enter history books with most ‘Moon Person' trophies, dedicates top prize to Dolly Parton
+*Divyadeep Singh · business*
+
+The 2026 MTV Video Music Awards (VMAs) night was one to remember for global pop icon Taylor Swift, who entered record books in style as she took home three ‘Moon Person' trophies on Sunday (September 27, 2026), including the inaugural Artist Director Honors, becoming the most-awarded artist in VMAs history.
+
+With the inaugural Artist Director Honors, she surpassed Beyoncé, whom she was tied with 30 VMAs each, to officially claim the title of the most awarded artist in VMA history. The new award is meant to recognize artists “whose work behind the camera has expanded the possibilities of music video and advanced the art of visual storytelling," as quoted by news agency AP.
+
+“I got to start making music videos and being a part of music videos 20 years ago,” Swift said in her speech, adding that she's been involved in making roughly 60 music videos, 18 of which she wrote and directed. “You, the fans, make it so much fun,” she said.
+
+  
+
+During the award night, she also bagged two more awards: the top prize of the night, “video of the year," for “The Fate of Ophelia" from her album “The Life of a Showgirl," and Best Direction for "Opalite." She used this opportunity to dedicate that award to the “ultimate showgirl,” the late Dolly Parton. “I think we were all very lucky to share this planet with Dolly Parton for a time," Swift said.
+
+The MTV VMAs were broadcast live on CBS from the Peacock Theater in Los Angeles. The award night was opened by Madonna. She opened the star-studded award night with her 2026 single “Bring Your Love" alongside her collaborator Sabrina Carpenter.
+
+The show saw a delay of 20 minutes due to a tight NFL game between the Baltimore Ravens and Dallas Cowboys. Snoop Dogg, a 13-time VMAs a nominee and three-time winner, he emerged as host shortly thereafter.
+
+---
+
+### IIT Madras extends GATE 2027 registration deadline till October 5
+*India Today Education Desk · general*
+
+## IIT Madras has extended the GATE 2027 registration deadline to October 5 without a late fee. Candidates can apply with a late fee until October 12, while the correction window will open from October 14 to 21.
+
+GATE 2027 registration deadline without late fee extended to October 5
+
+New Delhi,Sep 28, 2026 10:44 IST
+
+The Indian Institute of Technology (IIT) Madras has extended the registration deadline for the Graduate Aptitude Test in Engineering (GATE) 2027. Candidates can now apply for GATE 2027 without paying a late fee until October 5, 2026. The earlier deadline was September 27, 2026.
+
+The registration deadline has been extended after the exam-conducting body received several requests from candidates seeking more time to complete the application process.
+
+As per the revised schedule, candidates can submit their GATE 2027 applications with a late fee until October 12, 2026. Following the closure of the application window, the correction window will remain open from October 14 to 21, 2026.
+
+### IMPORTANT DATES
+
+Candidates should keep the following dates in mind:
+
+-   Registration begins: September 2, 2026
+-   Regular registration deadline: October 5, 2026
+-   Registration with late fee: October 12, 2026
+-   Application rectification: October 14 to 21, 2026
+-   City allotment notification: January 4, 2027
+-   GATE 2027 examination: February 6, 7, 13, 14, 20 and 21, 2027
+-   GATE 2027 result: March 19, 2027
+
+### WHO CAN APPLY?
+
+GATE 2027 is open to eligible undergraduate students and graduates from disciplines including engineering, technology, architecture, science, commerce, arts and humanities. There is no age limit for appearing in the examination, and candidates can attempt GATE any number of times.
+
+GATE 2027 will be conducted as a computer-based test across 30 papers. Candidates can appear for one paper or choose up to two papers from the permitted combinations.
+
+The application fee is Rs 1,000 for female candidates and candidates belonging to the SC, ST, and PwD categories. For all other candidates, the fee is Rs 2,000. Candidates can pay online through UPI, net banking, or credit and debit cards.
+
+\- Ends
+
+---
+
+### EAM Jaishankar at UN: 'After 8 decades of UN, world seeing weaponisation of everything'
+*ET Online · business*
+
+External Affairs Minister S. Jaishankar, addressing the 81st UN General Assembly in New York, said that after eight decades of the United Nations, the world is instead witnessing the “weaponisation of everything.” He pointed to finance, market access, supply chains, technology, resources and connect...
+
+[Read full article](https://economictimes.indiatimes.com/news/short-videos/eam-jaishankar-at-un-after-8-decades-of-un-world-seeing-weaponisation-of-everything/videoshow/134532655.cms)
+
+---
+
+### Bank Strike: Will banks remain closed on all Saturdays? Latest update on bank five days working week
+*Trending Desk · business*
+
+Synopsis
+
+Bank five days working: The nationwide bank strike planned for September 28–30, 2026, has been deferred after talks between the Indian Banks' Association and the United Forum of Bank Unions. A high-level committee will examine the demand for a five-day banking week and holidays on all Saturdays. However, banks have not yet officially shifted to a five-day workweek, and the second and fourth Saturdays remain the regular bank holidays.
+
+Agencies
+
+Bank strike cancelled or deferred? Check the latest update on five-day banking week demand and whether banks will close on all Saturdays.
+
+As cancelled bank strike may bring relief to customers who were worried about delays in banking services. But a separate question continues to concern bank employees and customers alike: Will banks in India finally move to a five-day workweek, with branches remaining closed on every Saturday? The demand for a five-day workweek has been the main issue behind the strike and a long-running issue between bank employee unions and the Indian Banks' Association (IBA).
+
+  
+
+  
+
+## Bank strike latest update: What has been decided?
+
+The three-day nationwide bank strike scheduled for September 28, 29 and 30, 2026, has been deferred after last-minute talks between the Indian Banks' Association (IBA) and the United Forum of Bank Unions (UFBU) on Sunday night, September 27. The decision followed a meeting between the two sides at 9:30 pm. The unions agreed to defer their planned strike after receiving assurances on their outstanding demands, including the long-pending proposal to introduce a five-day banking week.
+
+Here is what customers and bank employees need to know:
+
+-   September 28–30 strike: Deferred following the IBA-UFBU discussions.
+-   Five-day banking week: The demand is still under consideration. A high-level committee will examine the proposal.
+-   All Saturdays as holidays: No official implementation date has been announced.
+
+The development means customers can plan their branch visits without expecting the three-day strike to go ahead as scheduled. However, the decision does not introduce a new weekly holiday arrangement.
+
+  
+
+## Will banks remain closed on all Saturdays?
+
+As of September 28, 2026, banks in India have not officially shifted to a five-day working week. Under the existing arrangement, bank branches remain closed on the second and fourth Saturdays of every month. They operate on the first and third Saturdays and, where applicable, the fifth Saturday. Sundays are weekly holidays.
+
+The IBA and UFBU have agreed to form a high-level committee with representatives from both sides. The committee will examine the proposal to declare the remaining Saturdays as holidays, consider possible alternatives and consult stakeholders, including bank customers, before working towards a mutually acceptable solution. The committee will discuss how a five-day banking week could be implemented. Customers should not assume that the first and third Saturdays will immediately become holidays.
+
+  
+
+## Why are bank employees demanding a five-day workweek?
+
+The five-day banking week has been one of the main demands of bank employee unions for more than two years. The Indian Banks' Association had agreed to the proposal and forwarded it to the government for approval. However, the arrangement has not been implemented, leaving bank unions pressing for a formal decision.
+
+The unions want all Saturdays and Sundays to be declared holidays, bringing bank employees' weekly schedule in line with a five-day workweek. They have also argued that working hours on weekdays could be adjusted to compensate for the additional holidays. The September 28–30 strike was part of a larger programme of protests over five-day banking, the performance-linked incentive (PLI) scheme and other pending service-
+
+## What happens to the proposed October bank strike?
+
+Before the latest agreement, the UFBU had also proposed an indefinite nationwide strike from October 26, 2026, if its demands remained unresolved. However, following the September 27 discussions, the union forum agreed to defer its proposed agitation and strike actions. The two sides will continue discussions on the remaining issues, including Saturday holidays and changes to the PLI scheme for senior officers.
+
+The October 26 action was part of the earlier protest programme. Customers should follow fresh announcements from their banks and the UFBU for any subsequent strike dates or changes in banking schedules.
+
+## What should bank customers know?
+
+For customers, the immediate development is that the planned three-day strike has been deferred. Branch banking is expected to follow normal schedules, although individual bank notices and local holidays may apply.
+
+Customers should keep the following points in mind:
+
+-   Regular Saturday holidays continue to apply. The second and fourth Saturdays remain bank holidays under the existing arrangement.
+-   The first, third and applicable fifth Saturdays remain working days for branches unless a separate holiday or bank-specific notice applies.
+-   UPI, mobile banking, internet banking and ATM services are separate from branch working hours. Their availability should be checked with the respective bank, particularly during any future strike or technical disruption.
+
+---
+
+### LPU Row: CM Bhagwant Mann orders strict action, internet suspended near campus
+*Varsha Agarwal · general*
+
+Punjab CM Bhagwant Mann ordered strict action against culprits responsible for violent protests at LPU in Phagwara, as internet services were suspended and classes halted for 10 days.
+
+LPU Row: CM Bhagwant Mann orders strict action, internet suspended near campus (ANI)
+
+Amid ongoing protests at Phagwara's Lovely Professional University, Punjab chief minister Bhagwant Mann ordered strict action against the culprits. He directed Director General of Police Gaurav Yadav to visit the spot and assess the situation, news agency ANI reported, citing the Punjab CMO. 
+
+## **Punjab CM orders strict action**
+
+According to the Punjab Chief Minister's Office, Mann has taken a tough stance on the LPU matter and instructed the DGP to personally assess the situation at the university.“Lovely Professional University (LPU) matter | Punjab CM Bhagwant Mann has ordered strict action against the culprits. He has directed DGP Gaurav Yadav to go to the spot and assess the situation,” the Punjab CMO said.
+
+Internet services have been suspended as a precautionary measure to maintain calm and prevent any further escalation. The authorities continue to monitor the situation, with further updates expected as developments unfold.
+
+Taking note of the violent situation, LPU authorities have suspended classes for 10 days from 28th September and postponed Mid-Term Examinations, following a protest by students that turned violent. Students have begun to leave for home, wth one of them telling ANI that "Everything is peaceful inside the campus... Exams have been postponed, and the regular classes were suspended. If everything goes well, normalcy might return within 1-2 weeks..." 
+
+> #WATCH | Phagwara, Punjab | Latest visuals from Lovely Professional University (LPU) where heavy Police deployment has been made and students are leaving for their homes. Regular classes have been suspended here for 10 days from 28th September; mid-term examinations have also… pic.twitter.com/zvYhcgLvrn
+> 
+> — ANI (@ANI) September 28, 2026
+
+Another student said, "According to the interaction we had with the administration, we were told that amid the ruckus last night, the main buildings of Computer Science on the campus were vandalised and set on fire, which is why we were granted a 10-day holiday. Boys entered the girls' hostel last night, and a lot of vandalism and scuffles broke out in the university park... We are feeling safe right now, but we are not sure if everything will be normal after 10 days, or if online classes will be held because the classes were vandalised to a great extent last night..."
+
+> #WATCH | Phagwara, Punjab | A student, Vishal Kumar, says, "Until yesterday morning, the situation was normal; students were protesting. But as night fell, a large number of people came from outside wearing masks and it turned violent. Vandalism occurred on the campus, they were… pic.twitter.com/7mMViXuaMF
+> 
+> — ANI (@ANI) September 28, 2026
+
+## **LPU campus violence: what happened**
+
+Massive student protests erupted on Sunday after rumours about the alleged rape of a university student inside the campus premises spread like wildfire. The protests later turned violent, prompting the deployment of a large police force. The situation at LPU remained peaceful on Monday morning. Speaking to ANI, Superintendent of Police (Investigation) Harinder Gill said there were no protests on the campus at present and that police had made large-scale deployments at all gates.
+
+Police have said the investigation into the alleged incident is underway to ascertain the facts. Authorities have not yet confirmed whether a student was raped inside the university campus, while the identity of the accused is also yet to be established. An FIR has been registered against multiple unknown persons.
+
+(With ANI inputs)
+
+---
+
+### Can't help but draw parallels to Nirbhaya case: Supreme Court takes note of Delhi rapes
+*Aneesha Mathur · general*
+
+The Supreme Court on Monday pulled up the Delhi Police and the Delhi government over a spate of rape cases in Delhi, saying such incidents “starkly underlined a systematic failure” to guarantee basic public safety. The court’s strong remarks came as the capital reported four rape cases involving minors in the past two weeks.
+
+Taking note of the cases, a bench led by Justice JB Pardiwala said public spaces such as parks and buses cannot become “zones of high risk” because of inadequate lighting, surveillance and other administrative facilities.
+
+The court said the incidents raised serious concerns about law enforcement and public administration and stressed that the right to live with dignity and free from fear is part of fundamental rights. “One cannot help but draw painful parallels to the Nirbhaya incident of 2012,” the bench said.
+
+It also criticised statements by public representatives expressing concern over the incidents, saying that expressions of solidarity without accountability were not enough. “Expressing solidarity is not a solution. What is required is a measurable response,” the court observed.
+
+_This is a developing story. It will be updated._
+
+\- Ends
+
+---
+
+### Ashok Singhal was a great personality committed to nation building, writes PM Modi
+*Narendra Modi · general*
+
+## Whenever any part of the nation was affected by a natural disaster, Shri Ashok Singhal Ji was either among the first to reach there himself or among those guiding Karyakartas to help those affected, PM Narendra Modi writes.
+
+PM Narendra Modi recalls Ashok Singhal's dedication towards organisation and contribution to the Ram Mandir movement.
+
+New Delhi,Sep 28, 2026 10:54 IST
+
+There is a beautiful saying, "_Vriksh kabahun nahin phal bhakhai, nadi na sanchai neer. Paramaarath ke kaarane, saadhun dhara shareer."_ It means the tree does not consume its own fruit, nor does the river retain its waters. Both exist for the benefit of others. Our saints and seers have long taught us that a life devoted to the welfare of those around us acquires a meaning far greater than individual achievement.
+
+If there is one person in whom this spirit was constantly reflected, it was Shri Ashok Singhal Ji. Starting 27th September, we mark his birth centenary to celebrate an outstanding personality who brought together spiritual pursuit, cultural awakening and decades of dedicated organisational work. I consider it a privilege that I had innumerable opportunities to interact with Ashok Ji and receive his affection.
+
+One of the earliest instances dates back to 1981, when I was a young _Karyakarta_ going about the organisational duties given to me. I received a handwritten letter from him. Naturally, it was a noteworthy moment for me. He talked about an important upcoming programme and gave a few tasks to be done.
+
+Over several decades, I saw him work day and night. He would undertake long and often difficult travels to the remotest of areas. He was particularly passionate about travelling across tribal areas of Gujarat. His mind was constantly running, thinking about what more one can do for those on the margins of society.
+
+Whenever any part of the nation was affected by a natural disaster, Ashok Ji was either among the first to reach there himself or among those guiding _Karyakartas_ to help those affected. My own experience with him in the aftermath of the 2001 Kutch earthquake was unforgettable.
+
+This spirit of compassion and care for others is something that came to Ashok Ji very early in his life. He hailed from a very illustrious and prosperous family. His father, Shri Mahavir Ji, was a distinguished administrator. One of his brothers, Shri BP Singhal Ji, went on to become a police officer and later a Member of Parliament.
+
+Another brother, Shri VP Singhal Ji, was the Chief Secretary of Tripura when the state was just formed. Other family members succeeded in the world of commerce and agriculture. But from a young age, Ashok Ji was attracted to something else altogether: the revival of Bharat and bringing glory to Maa Bharti’s children.
+
+Growing up in Prayagraj, Ashok Ji would sit for hours on the banks of the Sangam. The river naturally interested him, but so did the people who came, such as saints, seers and devotees. It nurtured an understanding of India’s cultural ethos and strengthened his intention to do something for society.
+
+This desire to live for others drew him to the RSS. He embraced every responsibility that came his way with enthusiasm, discipline and a sense of duty. Shri Ashok Singhal Ji nurtured institutions and movements through persistence and hard work. He was blessed with a formidable voice and an oratory that could hold an entire gathering in its spell.
+
+Equally noteworthy was his care for fellow _Karyakartas_. Anyone who came into contact with him could not help but marvel at his remarkable simplicity. He shared a deep bond with the _Sant Samaj_ and commanded immense respect among saints and seers across the country. They valued his counsel and listened to him with great regard.
+
+My mind goes back to two instances which brought out the legendary persona of Shri Ashok Singhal Ji. The first was in 1993, when the Vishwa Hindu Parishad organised a convention in the USA to mark 100 years since Swami Vivekananda’s Chicago address. The vision to host such a conference overseas, the planning and the bringing together of diverse stakeholders revealed the organisational genius of Ashok Ji.
+
+The second instance is from the year 2000. The World Hindu Conference was organised in Port of Spain in Trinidad and Tobago. I could see how his presence ignited so much enthusiasm among other delegates. After my address, his words of appreciation were a very moving experience for me. I saw yet again how his encouragement filled every _Karyakarta_ with so much energy.
+
+No mention of Shri Ashok Singhal Ji is complete without recalling his pivotal role in the Ram Janmabhoomi Movement. Who can forget his address at the Boat Club Rally in 1991? Or the defining image of an injured and bleeding Ashok Ji at the peak of the movement.
+
+Today, if there is a grand Ram Mandir in Ayodhya, it is because of stalwarts like him who selflessly immersed themselves in the effort to make it possible. He would have been the happiest person on seeing the Ram Mandir take shape in Ayodhya.
+
+Shri Ashok Singhal Ji was blessed with remarkable clarity of thought and one area where it was clearly seen was his belief that our society needs to be harmonious, that the message of brotherhood has to be reaffirmed. He worked towards strengthening social unity and equality.
+
+He firmly believed that there could be no distinction of any kind in society and that every individual deserved equal dignity and respect. It was his thought that the first brick of the Ram Mandir in Ayodhya would be laid by Shri Kameshwar Choupal Ji, a grassroots VHP Karyakarta from Bihar who hailed from the marginalised sections of society.
+
+At a _Dharm Sansad_ in Kashi, he decided that the Dom Raja would be honoured and went on to work with him as part of various community efforts.
+
+Beyond nation-building, Shri Ashok Singhal Ji had two areas that were very close to his heart: education (especially Vedic education) and music. As the MP from Varanasi, I feel very proud that the city I represent, the eternal Kashi, has played its part in Shri Ashok Singhal Ji’s life.
+
+He was educated at BHU and was also known to be a good student. He was closely associated with the Ekal Vidyalaya initiative, which worked to extend basic education to remote villages, especially among tribal communities. He was a voracious reader as well as a good listener, and he always told younger Karyakartas to read as much as possible.
+
+Those who knew Ashok Ji closely knew how well he sang! I recall meetings in Nagpur, where he would sing the _Ekal Geet_, leaving everyone mesmerised and setting the tone for the meeting. A video of him surprising everyone and singing _"Hey Matribhoomi Meri, Hey Pitrabhoomi Meri"_ during his 90th birthday celebrations in 2015 went viral.
+
+On his birth centenary, let us ensure that more youngsters know about his greatness. And let us renew our pledge to realise his dreams for our nation and our people.
+
+\- Ends
+
+---
+
+### Garena Free Fire MAX Redeem codes today, September 28, 2026: Check full list of codes, free rewards and how to redeem
+*Trending Desk · business*
+
+Garena Free Fire MAX players in India can try their luck with redeem codes available on September 28, 2026. Depending on availability and validity, the codes may unlock free in-game rewards, including diamonds, weapon skins, outfits, character items and other collectibles.
+
+## Garena Free Fire MAX redeem codes for September 28, 2026
+
+-   FFWCTKX2P5NQ
+-   6KWMFJVMQQYG
+-   J3ZKQ57Z2P2P
+-   FZ5X1C7V9B2N
+-   RD3TZK7WME65
+-   FM6N1B8V3C4X
+-   BR43FMAPYEZZ
+-   FE2R8T6Y4U1I
+-   FFPLUFBVSLOT
+-   UPQ7X5NMJ64V
+-   FK3J9H5G1F7D
+-   WD2ATK3ZEA55
+-   FP9O1I5U3Y2T
+-   ZRW3J4N8VX56
+-   FA3S7D5F1G9H
+-   FFR4G3HM5YJN
+-   P3LX6V9TM2QH
+-   FU1I5O3P7A9S
+-   F7F9A3B2K6G8
+-   FT4E9Y5U1I3O
+-   S9QK2L6VP3MR
+
+## How to Redeem Free Fire MAX Codes
+
+Step 1: Visit the official Garena Rewards Redemption website.
+
+Step 2: Log in using the account linked to your Free Fire MAX profile  
+Step 3: Enter the redeem code in the designated field.
+
+Step 4: Carefully check the code to ensure all letters and characters are entered correctly.  
+Step 5: Click on the submit option to complete the redemption process.  
+Step 6: If the code is valid and active, the reward will be sent to your Free Fire MAX in-game account.
+
+## Why Free Fire Redeem Codes May Not Be Working?
+
+Free Fire redeem codes may fail to work for several reasons. A code could have expired, reached its maximum redemption limit, or been issued for a specific region or server. Entering a character incorrectly can also cause the redemption to fail. Garena frequently introduces new promotional rewards through in-game events, partnerships and collaborations, so fresh redeem codes may be released periodically.
+
+  
+
+## Redeem Free Fire MAX Codes Before They Expire
+
+Free Fire MAX redeem codes are usually available for a limited period and may not stay active indefinitely. Some codes can also come with a specific redemption limit, after which they may no longer work. If you want to try the latest redeem codes, it is better to use them as soon as possible instead of waiting until later in the day.
+
+---
+
+### One answer to HR’s salary question can cost you the job or result in underpayment. Career coach says, 'Never say…'
+*Unknown · business*
+
+Questions about expected salary are inevitable in an interview. One mistake job candidates make is giving a definite figure when asked what salary they want. Taking to X, career coach Simon Ingari explained that quoting a specific number when asked about your salary might cost you the job. The coach explained why the candidate is asked about salary – it is for various reasons; the HR officer wants to know whether the candidate’s salary expectations fit their budget. The company wants to identify candidates they can afford or not. The organisation wants to know how you evaluate your experience and skills. Last but not least, they want to discover if they can make the candidate settle for a sum at the lower end of their budget.
+
+Ingari suggested that candidates should start by understanding the job thoroughly, figure out what the role involves, find out what the employer is offering in terms of pay, check what others in the industry are being paid, and then talk about their own expectations.
+
+Before talking about pay, candidates should make sure they understand the main job responsibilities, what a normal workday is like, when the busiest times might be, and what results they are expected to achieve. They should also check if the job requires managing other workers, if it has tasks that are normally done by someone else, and if there are extra requirements like working longer hours, travelling, or being available outside normal times.
+
+  
+
+Once the details are clear, candidates can ask the employer about the salary range that has been set for the job.
+
+Ingari also explained why some usual answers can make salary talks less effective. Telling someone just one number, like 50,000, right away makes that number the starting point for talking about what they can expect. If the employer has set aside between 70,000 and 90,000, the applicant might have capped their income potential before realising the actual budget available.
+
+Giving a range like 50,000 to 70,000 can also cause issues. If the candidate says they're okay with 50,000, the employer might start talking about that number, which means the applicant's lowest expectation becomes the first offer they make.
+
+On the other hand, using a very wide range, like 50,000 to 100,000, might give a different feeling. A big gap in someone's work history might suggest they didn't thoroughly research the job or aren't confident about how their skills and experience relate to the role. The two figures show very different amounts of pay, which could make it seem like the candidate's expectations are not clear.
+
+### How Should You Answer The Salary Question?
+
+Ingari said the candidate should want to know about the responsibilities of the job and the current market value of the role. "I'm flexible depending on the overall responsibilities and compensation package. At this stage, I'm mainly interested in understanding whether we're within the same general range. What range has the company allocated for the role?" he wrote.
+
+If your previous salary was 50,000 but professionals with similar skills, experience, and responsibilities are currently earning around 80,000, using your old compensation as the starting point could simply carry forward an earlier pay gap.
+
+The more useful question is how much the position is worth in the present market rather than what you were earning previously.
+
+### Look Beyond The Job Title
+
+Pay close attention to the responsibilities listed for the position. A company may advertise a role as a marketing officer, while the actual duties cover social media management, graphic design, video editing, copywriting, paid advertising, website administration, event coordination, and public relations.
+
+In such cases, the position may effectively combine responsibilities from several different functions.
+
+Therefore, compensation negotiations should not be based solely on the designation. Instead, consider the complete range of responsibilities, expectations, and workload attached to the role when determining what the position is worth.
+
+He warned that the salary you ask for should never be based on your previous salary, as the underpayment would follow you to your new job as well, but should be based on the responsibilities of the role, your scope, and the market rates for the job position, as well as the budget for this position.
+
+Ingari said, "Don't give a random salary because HR demands an immediate answer. Don't use your current salary as the only benchmark.
+
+Don't give an enormous range just to avoid committing.
+
+Don't assume the job title tells you everything about the workload. Don't ignore benefits, bonuses, allowances, working hours, remote-work arrangements, leave, and other compensation. Don't lie about your current salary. Don't bluff about competing offers. Don't keep dodging once you've learned enough about the position to have a reasonable salary discussion.”
+
+Your salary should not be based on the salary you are drawing in your current job, said Ingari. It should rather be based on the job, the overall responsibilities, the workload, the employer’s budget, and the market rates.
+
+---
+
+### Gold Rate Today, September 28: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
+*Aanya Mehta · legal*
+
+Today's 18, 22 and 24 Carat Gold Prices in Chennai, Bangalore, Hyderabad, Mumbai, Delhi: The gold price in India today stands at Rs 15,017 per gram for 24 carat gold, Rs 13,765 per gram for 22 carat gold and Rs 11,263 per gram for 18 carat gold, as per Good Returns.
+
+[Read full article](https://indianexpress.com/article/india/gold-rate-today-september-28-check-18-22-and-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10897022/)
+
+---
+
+### 'Bhai, PS 5 Le Aaye Hain': LPU Students Loot University Mall Amid Violent Protests | Video
+*Meemansa Shekhawat · general*
+
+The unrest at LPU, one of the most renowned universities in Punjab, was triggered by unverified reports that a female student had been sexually assaulted and later died by suicide
+
+[Read full article](https://www.news18.com/india/bhai-ps-5-le-aaye-hain-lpu-students-loot-university-mall-amid-violent-protests-video-ws-lt-10356374.html)
+
+---
+
+### Shahi Masjid demolition: Ujjain residents and police clash; stones pelted, tear gas fired
+*Anand Mohan J · legal*
+
+Members of the Muslim community gathered at the mosque site overnight on Sunday, opposing the proposed demolition
+
+[Read full article](https://indianexpress.com/article/india/ujjain-protesters-clash-with-cops-over-mosque-demolition-after-overnight-sit-in-10897048/)
+
+---
+
+### RRB Paramedical Recruitment 2026: Applications open for 590 posts; check details here
+*Education Desk · legal*
+
+According to the notification, the dates for the Computer-based Test (CBT) and other exam-related announcements will be shared in due course through the aforementioned website. A total of 590 vacancies have been announced for the current recruitment drive across various RRBs
+
+[Read full article](https://indianexpress.com/article/education/rrb-paramedical-recruitment-2026-applications-open-rrb-indianrailways-gov-in-590-posts-10896986/)
+
+---
+
+### Karan Johar lives in 8,000-square-foot Pali Hill duplex in Mumbai worth Rs 32 crore designed by Gauri Khan that has a wraparound terrace, a bedroom-turned-closet, a glam room and a spacious living area
+*Trending Desk · business*
+
+Karan Johar’s home in Bandra’s Pali Hill was renovated by designer Gauri Khan, who transformed the approximately 5,500-square-foot penthouse extension into a functional family space. The home, which features a wraparound terrace, was used by Johar, his mother Hiroo and his twins Roohi and Yash during the Covid-19 lockdown.
+
+  
+
+## A grand living room with a statement chandelier
+
+Karan Johar has offered glimpses of his home in several videos, including an interaction with Asian Paints. His living room features a collection of plush sofas, mostly in different shades of beige. To break the neutral palette, Johar added green and blue sofas, giving the space a pop of colour.
+
+  
+
+A grand chandelier takes centre stage, adding to the room’s luxurious yet inviting atmosphere. The living area opens into a spacious dining space, where a large wood-and-marble dining table doubles up as a meeting spot. Johar has revealed that several professional discussions take place around the table. In fact, he, Alia Bhatt and Ranveer Singh discussed _Rocky Aur Rani Kii Prem Kahaani_ at the same spot.
+
+### Gauri Khan designed the entire apartment
+
+The filmmaker has credited his close friend Gauri Khan with designing the interiors of his home. Interestingly, Johar revealed that he had not seen the apartment before she completed the interiors.
+
+  
+
+“I have no contribution to it. This is Gauri Khan’s baby. The night we called really close friends for dinner was the night I saw the house for the first time, so when I was showing it, I was also seeing it,” he told Architectural Digest India.
+
+  
+
+### An entire bedroom turned into a luxury closet
+
+One of the most striking features of Johar’s home is his enormous wardrobe. The filmmaker, known for his love of luxury fashion and brands such as Balenciaga, Gucci and Prada, has converted an entire bedroom into a dedicated closet.
+
+The expansive space houses his collection of designer jackets, shoes, bags and accessories. His bedroom itself has a more relaxed feel, with a cosy bed, while a separate glam room features a large illuminated mirror and a vintage-style chair reminiscent of classic Hollywood dressing rooms.
+
+### A deck that feels like an Amazonian jungle
+
+Johar’s home also features a spacious deck filled with greenery. Furnished with white and blue patio furniture, the outdoor space is surrounded by tall plants, creating a lush and secluded atmosphere.
+
+Describing the space, Johar said it felt like “some kind of Amazonian jungle” with greenery coming at him from every direction.
+
+### The lower level doubles up as his office
+
+In an episode of Farah Khan’s YouTube vlog, Johar also offered a glimpse of the lower level of his duplex apartment, which functions as his office.
+
+The space features a bar, large leather sofas and an area where the filmmaker listens to scripts and holds meetings. Connecting the two levels is a wooden staircase with a glass railing and brass-toned details, adding another sophisticated touch to the interiors.
+
+### Karan Johar’s Bandra home: Cost and location
+
+Johar’s sprawling 8,000-square-foot apartment is located on Carter Road in Bandra, Mumbai. According to MagicBricks, the property is estimated to be worth around Rs 30-32 crore, with an approximate rate of Rs 40,000 per square foot. Johar purchased the apartment in 2010.
+
+## Karan Johar hosts Prince William
+
+Karan Johar will become the first Indian to host The Earthshot Prize Awards Night when the global environmental ceremony is held in Mumbai on November 17, 2026. The event will mark the first time that The Earthshot Prize, founded by HRH Prince William, is held in India. It will recognise environmental innovators working on solutions to protect and restore the planet. Johar, a filmmaker and producer, has worked across cinema, television and streaming. He is also known for hosting Koffee with Karan and the Indian adaptation of The Traitors.
+
+## Karan Johar announces new project
+
+Filmmaker Karan Johar has announced a new project based on Rameshwar Nath Kao, the founding chief of R&AW, India’s external intelligence agency. The announcement was made on social media to mark the agency’s 58th anniversary.
+
+Johar described Kao as a figure who worked “in the shadows” while laying the foundation for R&AW and said the upcoming film will focus on the organisation’s first mission.
+
+The film is based on journalist and strategic affairs analyst Nitin Gokhale’s 2019 book _R.N. Kao: Gentleman Spymaster_. The book traces Kao’s career and his role in the early years of India’s external intelligence apparatus, offering an account of how R&AW was established and evolved under its first chief.
+
+
+---
+
 ## 27 September 2026
 
 ### Nepal rain triggers fresh floods as death toll stays above 1,450
