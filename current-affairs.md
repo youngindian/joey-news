@@ -1,3 +1,572 @@
+## 29 September 2026
+
+### How high crude oil prices are hurting Dalal Street investors
+*India Today Business Desk · general*
+
+## Rising crude oil prices are emerging as one of the biggest threats to the market because they can hit several parts of the economy at the same time, from oil marketing companies and the rupee to inflation, corporate margins and India's current account.
+
+Sustained oil rise hurts corporate margins, resulting in foreign investors taking money out of the market.
+
+New Delhi,Sep 29, 2026 11:11 IST
+
+Dalal Street was under renewed pressure on Tuesday, with benchmark indices sliding towards their lowest levels in nearly six months. But this is not just another bout of foreign selling or profit-taking.
+
+Rising crude oil prices are emerging as one of the biggest threats to the market because they can hit several parts of the economy at the same time, from oil marketing companies and the rupee to inflation, corporate margins and India's current account.
+
+Around 10:10 am, the Sensex was down nearly 650 points at around 72,100, while the Nifty was struggling to stay above 22,500. Both indices entered the session at their lowest levels in roughly six months after the Sensex plunged 1,124 points and the Nifty fell 1.56% on Monday.
+
+The sell-off was broad-based. 14 of the 16 major sectoral indices were in the red in early trade on Tuesday, with banking, financial and IT stocks among those under pressure.
+
+Foreign portfolio investors are certainly part of the problem. FPIs sold Indian equities worth Rs 5,353 crore on Monday, their biggest single-day outflow in September, while domestic institutional investors bought Rs 5,189 crore.
+
+But crude oil is increasingly becoming the bigger macroeconomic worry.
+
+### CRUDE IS BACK ABOVE $100. WHY DOES THAT MATTER?
+
+Brent crude rose to around $107 a barrel on Tuesday as concerns over oil supplies from West Asia intensified. India, being one of the world's largest crude importers, is particularly vulnerable to such a sustained increase.
+
+India's crude oil import dependence stood at 88.7% in FY26, according to government data. That means a sustained rise in global oil prices quickly translates into a higher import bill and greater demand for dollars.
+
+The pressure is already visible in the currency market. The rupee slipped past the Rs 96-per-dollar mark on Tuesday, with Reuters attributing the move partly to the latest jump in oil prices.
+
+There is a simple reason why markets dislike this combination. More expensive crude means India needs to spend more on imports, which can widen the trade deficit and put pressure on the rupee. A weaker rupee, in turn, makes dollar-denominated crude imports even more expensive.
+
+The impact can become particularly painful if oil stays elevated for months rather than days.
+
+An IMF assessment citing RBI estimates has previously found that a sustained $10-per-barrel increase in crude prices can add about 0.4 percentage point of GDP to India's current account deficit.
+
+India's oil exposure is therefore not limited to petrol and diesel prices. It affects the country's external balance, currency and inflation outlook — all of which matter to equity investors.
+
+### OMCs ARE ALREADY FEELING THE PAIN
+
+This is where the impact is becoming particularly visible.
+
+Retail petrol and diesel prices have not fully adjusted to the rise in crude oil prices. That leaves state-owned oil marketing companies — Indian Oil, BPCL and HPCL — absorbing part of the shock through weaker marketing margins.
+
+According to ICRA, OMCs are currently losing around Rs 8 per litre on petrol and Rs 9 per litre on diesel, while under-recoveries on domestic LPG have risen to around Rs 300 per cylinder. Taken together, the three state-run OMCs are estimated to be facing a financial hit of around Rs 530 crore a day.
+
+The numbers show why investors are worried.
+
+If Brent averages between $105 and $115 a barrel for the rest of FY27 and domestic retail fuel prices remain unchanged, ICRA estimates that OMCs could face around Rs 64,000 crore in under-recoveries on petrol and diesel during the full financial year.
+
+That creates a difficult choice.
+
+Either consumers eventually face higher fuel prices, which can feed into inflation and weaken consumption, or OMCs continue absorbing the shock, which hurts their earnings and cash flows.
+
+Neither outcome is particularly comforting for equity investors.
+
+### PROBLEM GOES BEYOND OIL STOCKS
+
+This is perhaps the most important part of the story.
+
+High crude prices do not hurt only oil companies. They can squeeze margins across the economy.
+
+Airlines face higher fuel costs. Paint and chemical companies face higher input costs. Tyres, plastics and packaging companies can also feel the pressure because many of their inputs are linked to crude derivatives. Logistics costs can rise as well.
+
+Companies may try to pass these higher costs on to consumers, but their ability to do so depends on demand. If they cannot fully pass on the increase, profit margins take the hit.
+
+That is why sustained crude prices above $100 can become an earnings problem for India Inc.
+
+And this comes at a time when investors are already worried about global interest rates.
+
+Dr V K Vijayakumar, Chief Investment Strategist at Geojit Investments, said, “With Brent crude above $106 and the US 10-year at 5.23%, the global macro construct continues to be unfavourable for equity markets. The emerging macro scenario in the US appears to be one of high growth and high inflation.”
+
+He also pointed to the pressure on India's fiscal and growth outlook if crude prices remain elevated.
+
+“Therefore, if crude prices remain elevated, the fiscal strain can impact India’s GDP growth and corporate earnings growth for FY27. This concern, too, is weighing on the market,” Vijayakumar said.
+
+### WHY FIIs ARE SELLING?
+
+It would therefore be wrong to blame the entire market decline on crude oil.
+
+Foreign investors have been selling heavily, while elevated US Treasury yields are making emerging-market equities less attractive. The US 10-year yield was around 5.24% on Tuesday morning, adding another layer of pressure on global risk assets.
+
+FPIs have pulled out Rs 17,131 crore from Indian equities in September so far, according to depository data cited by News On AIR.
+
+But crude makes the FPI problem worse because it adds another reason for global investors to be cautious about India.
+
+Higher oil prices can weaken the rupee, raise inflation expectations and increase concerns over India's current account and fiscal position. For foreign investors, that means greater currency and macroeconomic risk.
+
+So, while FPI selling may be the immediate trigger behind some of the market's sharp moves, crude is increasingly becoming part of the deeper macro story.
+
+For investors, the important question is not whether crude is at $106 or $107 on any particular day. The bigger question is how long prices stay elevated.
+
+A short-lived spike can be absorbed. A prolonged period of $100-plus crude is far more difficult because it can progressively affect inflation, the rupee, government finances, corporate margins and economic growth.
+
+For now, Vijayakumar believes investors should focus on large-cap stocks and avoid rushing into decisions amid the volatility.
+
+That may be particularly relevant because the market is dealing with several pressures simultaneously: elevated crude prices, heavy foreign selling, high US bond yields and geopolitical uncertainty.
+
+In other words, the problem facing Dalal Street is not simply that oil has become expensive. It is that expensive oil can spread through the economy — and eventually show up in corporate earnings and stock valuations.
+
+_**(Disclaimer: The views, opinions, recommendations, and suggestions expressed by experts/brokerages in this article are their own and do not reflect the views of the India Today Group. It is advisable to consult a qualified broker or financial advisor before making any actual investment or trading choices.)**_
+
+\- Ends
+
+---
+
+### Millions of Jan-Dhan Accounts Are Inactive. How Inclusive is Modi Govt’s Scheme?
+*Subhash Chandra Garg · regional*
+
+The Narendra Modi government celebrated 12 years of Pradhan Mantri Jan-Dhan Yojana (PMJDY) last month, lauding itself for 59.09 crore jan-dhan accounts (JDAs) opened as of 19 August, with "32.92 crore female beneficiaries". The government also highlighted an approximate 20 times surge in deposits—from Rs 15,670 crore in March 2015 to Rs 3.16 lakh crore on 19 August 2026.
+
+In a press release, the government claimed that PMJDY had transformed financial inclusion into a "lived reality for millions of Indians" by providing "expanded access to banking", strengthening "financial security", and connecting "unconnected citizens with credit, insurance, pensions, and digital payments".
+
+**The inactive JDAs (which had no customer-induced financial or non-financial transaction for a continuous period of 24 months), however, are rising menacingly. Most JDAs are not being used for UPI payments as well.**
+
+While the government calls PMJDY a "game-changer", it publishes no information on inactive JDAs and their use for UPI.
+
+The government runs many schemes for disbursing cash through the JDAs to numerous types of beneficiaries, including PM KISAN (Rs 6,000 a year to about 10 crore farmers) and the Viksit Bharat-Guarantee for Rozgar & Ajeevika Mission (Gramin) (VB-G RAM G).
+
+> A large number of JDA holders do not even withdraw cash disbursed in their accounts. Many only withdraw the cash deposited while not carrying out any other transaction.
+
+So, do JDAs only serve the purpose of receiving direct cash disbursement from the government? Do large number of inactive accounts indicate cash transfers to non-existing and fake beneficiaries? Are increasing JDA deposits trapped government funds? Is PMJDY and the JDAs stunted and in need of a redo?
+
+## Jan-Dhan Accounts are Weaklings
+
+The JDAs, under the Reserve Bank of India (RBI) rules, require no minimum deposit to open and maintain the account (or they are zero balance accounts). These accounts earn interest at normal savings bank interest rate.
+
+A RuPay debit card is almost always issued with the JDA (41.29 crore RuPay debit cards as of 19 August). There is also an accident insurance cover of Rs 2 lakh for these accounts (and Rs 1 lakh for accounts opened before 28 August 2018). An overdraft facility of up to Rs 10,000 is also provided to eligible households after six months of satisfactory performance.
+
+However, there are some restrictions. The JDA holders cannot maintain another regular saving bank in the same bank (they can do in other banks).
+
+> Many JDAs, categorised as "small accounts" (actual number not disclosed) as their KYC hasn't been completed, are subject to additional restrictions: maximum balance cannot exceed Rs 50,000 at any point, annual credits cannot exceed Rs 1 lakh, and monthly withdrawal/transfers capped at Rs 10,000 per month.
+
+The PMJDY progress report, published by the Department of Financial Services (DFS), informs that of 59.3 crore JDAs as on 16 September:
+
+-   46.71 crore (or 79 percent) accounts are in public sector banks
+    
+-   11.13 crore (or 19 percent) are in regional rural banks
+    
+-   0.19 crore (0.03 percent) in rural cooperative banks
+    
+-   Private sector banks had only 2.26 crore (4 percent) accounts
+    
+
+Almost all JDAs are in the government-owned banks. Most JDA holders maintain a regular saving bank account in private sector banks or in other public sector banks.
+
+The JDAs are quite a weakling functionally. They are being used largely to receive the government cash transfers—and not for doing banking transactions or their financial inclusion.
+
+## Inactive Accounts
+
+The RBI compiles all kinds of banking data. It also collects the data relating to total and inactive JDAs. However, it does not publish the data of inactive JDAs. Such information has to be painstakingly accessed by the people through parliamentary questions or the Right To Information (RTI) applications.
+
+In response to unstarred Lok Sabha question no 2304—answered on 3 August 2026—**the government admitted that there were 15.32 crore (about 26 percent) inactive JDAs with no customer-induced transaction, including withdrawal of benefit in previous two years.**
+
+The government also informed that the RBI had advised the banks to undertake a regular review of inactive accounts—and "to take steps to trace the customers of these accounts/deposits".
+
+> The number of JDAs inactive for more than one year would be much higher. Even if we assume that inactive JDAs of more than a year are another 10 percent, more than one-third of the JDAs are of those beneficiaries who are untraceable (fake?). This is nothing short of scandalising.
+
+The problem of untraceable/non-existent beneficiaries' JDAs is far more acute in the "cow belt" states. In response to an RTI application (the data has been blacked out by the DFS and the RBI from public portals), it was informed that, **in Uttar Pradesh, out of 10.51 crore, as many as 3.23 crore or 31 percent of JDAs were inactive.**
+
+The problem is humungous. The government and the RBI must publish state-wise data on inactive JDAs by widening the definition of inactive JDAs to one year or six months with no customer-induced transactions.
+
+## Zero Balance JDAs
+
+The zero balance JDAs speak loudly that such beneficiaries use these accounts only to receive and immediately withdraw government cash benefits. They leave no balance in the account as they do not want to conduct any other transaction through the JDAs.
+
+Again, the RBI and the DFS do not publish the data relating to zero and small balances in JDAs. The people have to again get this information through RTI. As per a RTI reply furnished by the DFS, as many as 5.72 crore JDAs were zero balance accounts as of 12 August 2026 (nearly 10 percent of total JDAs). **If one excludes the inactive accounts, nearly 14 percent of active accounts are zero balance accounts.**
+
+To know whether JDAs are used only for receiving and withdrawing government cash transfer, one need to know how many JDA accounts maintain less than Rs 500 balance, as most people don’t want to run down their accounts to zero balance. If this criterion is adopted, it might turn out that about 25 percent of JDAs are either zero or near zero balance accounts.
+
+**Zero balance JDAs also do not serve the cause of real banking inclusion of the poor people.**
+
+## Poor UPI Linkage
+
+Total deposits of Rs 3.15 lakh crore (in about 59 crore JDAs) mean that average balance is about Rs 5,350.
+
+> Neither the RBI or the DFS, which manage the JDAs, nor the National Payment Council of India (NPCI) which manages the UPI, provide data relating to JDAs with UPI linkage. The NPCI not providing this data also hides the inconvenient truth about JDAs.
+
+The NPCI informs that there were roughly 55.49 crore unique UPI users in the country. The NPCI does not provide the break-up of UPI users even in urban, semi-urban, and rural classification. The industry estimates suggest that roughly 70 percent of total active UPI users reside outside Tier-1 metro cities (but that is not rural areas, where most of jan-dhan beneficiaries are).
+
+The Confederation of Indian Industry and other industry estimates suggest that roughly 38-40 percent of individuals in rural and semi-urban India use UPI. The lack of sunlight on data relating to JDAs and UPI linkage in rural areas and the state of inactive and zero balance JDAs suggest that very small proportion of rural JDAs have the UPI linkage.
+
+## Clean Up JDAs or Abolish Them
+
+It is time the government stops highlighting only the total number of JDAs and the deposits accumulated and sell the PMJDY as the poster child of financial inclusion of the poor in India.
+
+**The data of inactive JDAs (by bringing the criterion to more than 6 months) and zero/near zero JDAs (by taking Rs 500 balance as cut-off) and JDA-UPA linkage need to be published in all granular details to bring the actual status of PMJDY out transparently.**
+
+JDAs have become stunted. Either make these sturdy by remedying the problem of inactive, zero/near zero balance, and poor UPI linkage or simply convert them into normal saving bank accounts.
+
+_(Subhash Chandra Garg is the Chief Policy Advisor, SUBHANJALI, and Former Finance and Economic Affairs Secretary, Government of India. He's the author of many books, including_ 'The $10 Trillion Dream Dented, 'We Also Make Policy', and 'Explanation and Commentary on Budget 2025-26'_. This is an opinion piece, and the views expressed above are the author’s own._ **The Quint** _neither endorses nor is responsible for the same.)_
+
+---
+
+### Boeing to launch Starliner again after thruster failure stranded Sunita Williams
+*India Today Science Desk · general*
+
+## Nasa and Boeing will send Starliner-1 on an uncrewed ISS mission to test spacecraft fixes. The flight is meant to clear the way for astronauts to return after the thruster failure that left Sunita Williams and Butch Wilmore in orbit for months.
+
+The mission could take place as early as December 2026 or January 2027. (Photo: Nasa)
+
+Boeing's Starliner spacecraft is set to return to space on an uncrewed test flight in 2027, as Nasa and the aerospace company work to fix technical problems that forced astronauts Sunita Williams and Butch Wilmore to remain aboard the International Space Station (ISS) for eight months in 2024.
+
+Nasa and Boeing announced plans to fly Starliner-1 to the space station without astronauts, using the mission to validate improvements to the spacecraft's propulsion system before attempting another crewed flight.
+
+The mission could take place as early as December 2026 or January 2027, depending on the completion of testing and certification requirements.
+
+Nasa plans to use the mission to collect critical flight data and evaluate whether Starliner is safe to carry astronauts again. The agency currently plans to return astronauts to the spacecraft on Starliner-2 by 2028.
+
+"We are starting with an uncrewed Starliner-1 mission to the International Space Station to validate the improvements made to the spacecraft and gather the flight data we need," Nasa Administrator Jared Isaacman said.
+
+### WHAT WENT WRONG WITH SUNITA WILLIAMS'S STARLINER FLIGHT?
+
+Starliner's problems emerged during its first crewed flight in June 2024, when Williams and Wilmore travelled to the ISS aboard the spacecraft.
+
+The mission was initially expected to last around eight days. However, problems with the spacecraft's reaction control system thrusters raised concerns about its ability to safely return the astronauts to Earth.
+
+Nasa eventually decided to bring Starliner back without its crew in September 2024. Williams and Wilmore returned to Earth in March 2025 aboard a SpaceX Crew Dragon spacecraft after spending approximately nine months in space.
+
+A Nasa investigation identified 61 recommendations to address technical and programme management issues that contributed to the failure.
+
+The investigation found that Starliner's service module thrusters operated outside their engineering qualification limits. Thermal conditions and design-
+
+### NEW FIXES BEFORE ASTRONAUTS RETURN
+
+Boeing has introduced thermal modifications to the spacecraft's service module, which Nasa will evaluate during the uncrewed flight.
+
+The company will also implement changes to thruster valves to address seal extrusion, which affected propulsion performance.
+
+Additional improvements include new crew module thrusters, upgraded batteries and modifications to the parachute system.
+
+Nasa also plans to certify United Launch Alliance's Vulcan rocket for crewed Starliner missions after the Atlas V rocket's final flight.
+
+The agency intends to exercise options for a fifth and sixth Starliner mission to the ISS, maintaining an alternative to SpaceX for transporting astronauts to low Earth orbit.
+
+\- Ends
+
+---
+
+### Supreme Court agrees to early hearing of plea against poll panel functioning
+*Express Web Desk · legal*
+
+Senior advocate Vikas Singh mentions the matter before a bench headed by Chief Justice of India Surya Kant for early listing of the case, saying the statutory scheme requires decisions of the multi-member Commission to be unanimous or by majority.
+
+[Read full article](https://indianexpress.com/article/legal-news/supreme-court-hearing-challenging-election-commission-functioning-gyanesh-kumar-10898603/)
+
+---
+
+### Nvidia CEO admits kids are forgetting basic maths because of AI, says it doesn’t matter
+*Armaan Agarwal · general*
+
+Using AI tools may make your life easy, but this convenience may be at a cost. But this cost, Nvidia CEO Jensen Huang says, may be worth it, even if it hampers the math skills of children today.
+
+During a conversation on The Ezra Klein Show, Jensen Huang was asked about the effect AI was having on students. A study of 26,000 students in China found that while children were able to do homework quicker with AI, their exam scores dropped by as much as 20 percent within six months.
+
+Jensen Huang agreed that children were starting to rely less on their own skills. “Try to get a kid to do long division right now. The multiplication table is starting to be forgotten,” he said. “Doing square roots, my goodness. Basic math is being forgotten.”
+
+But Huang insisted that even if children today were starting to forget basic math, it was not really going to be an issue for an AI world. “Does it matter?... I don’t think it does.” The Nvidia CEO was then asked if there were some skills that still would matter. Huang claimed that while that would be the case, math skills like long division were likely not important anymore. “Oh yeah. But maybe not those. We’re going to discover new ones. Just maybe not those,” he explained.
+
+### Jensen Huang doesn’t know his address
+
+In fact, Jensen Huang made an interesting confession. He claimed that he actually didn’t know the address of his house. “There are a lot of skills that don’t matter. My first confession, I actually don’t know my address,” Huang said. The show’s host, Ezra Klein, was surprised to hear this from the CEO of one of the world’s most valuable companies. He replied, “I don’t really believe that to be true.”
+
+But Jensen Huang insisted that it really was the case. He said that his personal assistant, Janine Paul, and his wife, Lori Huang, could confirm this. “One day I had to pump gas — it was a few years ago. They needed my ZIP code, and I panicked,” Huang added. “I didn’t know my ZIP code.”
+
+The Nvidia boss went further, claiming that not just his address, he didn't even know his phone number. “I don’t know my telephone number. I forget these things. I can live with it,” he said.
+
+However, Jensen Huang pointed out that while we may see the younger generation forget some skills, they may acquire newer ones that may be more useful. “I think that we’re going to lose some finer intellectual dexterity, but we’re going to be better systems thinkers,” he added. System thinkers, Huang says, would be able to visualise large systems or computers, rather than doing mundane things that we had to remember before.
+
+Though the internet did not seem so convinced by Huang’s vision for children today. One user took a dig at the Nvidia CEO for not remembering his address. “Guy who literally can't find his own house without his driver: ‘yeah, I dunno, I think your kids can get by without knowing how to do math and stuff,’” the user wrote on X.
+
+Some mocked Huang over his comments.
+
+On a more serious note, though, some pointed out that if your children didn’t focus on basic math, they would rely more on AI tools. “These people want a stupid population who are reliant on their products to function,” one person said. Another user added, “They want you completely dependent on their products, that's it.”
+
+Others found the whole idea to be quite alarming.
+
+There have been others who have made similar comments around the impact of AI on thinking skills. Previously, OpenAI CEO Sam Altman claimed that his company wants a future where people would buy intelligence on a meter, just like how we use electricity today. Meanwhile, Anthropic's product head for Claude Code and Claude Cowork, Cat Wu, said in May that Claude may soon think on your behalf.
+
+We have also seen more studies around the impact of AI tools. Studies suggest that using AI chatbots for even 10 to 15 minutes may reduce independent thinking. A separate study says that AI may quietly alter your opinion too.
+
+\- Ends
+
+---
+
+### A 2,400-year-old ancient school where Aristotle taught Alexander the Great has been unearthed by archaeologists in Greece
+*TOI Science Desk · science*
+
+Among some of the great philosophers of the world was Aristotle and among some of the great conquerors of the world was his student, Alexander the Great. History takes both of their names with great reverence and passes on their tales through generations.
+
+But have you ever wondered exactly where this iconic duo shared their knowledge? The vast halls or lavish seats where they may have sat as teacher and student?During ongoing excavation in northern Greece, archaeologists have unearthed something that sheds light on the early years and education of Alexander the Great and his mentor, Aristotle. In a recent statement, Greek officials announced that archaeologists working at the historical site of the royal gymnasium of Mieza have uncovered ornate, mosaic-decorated halls that may have formed part of Alexander's school.The recent discoveries are the latest in a three-year project that has been peeling back the layers of Mieza, where scholars claim Aristotle taught a teenage Alexander, according to a report by La Brújula Verde. Previous excavations revealed that the 30-acre gymnasium complex housed a palaestra or wrestling ring; a stadium; arcades and a xystus, a covered, 200-meter-long running track where athletes could train regardless of the weather.
+
+However, their most recent discovery may have been the most revealing yet, offering a previously unknown insight into the specifics of Alexander the Great's education. In the first century C.E., the ancient writer Plutarch wrote in his biography The Life of Alexander that Alexander’s father, the ruling king Philip II, had a school built for his son and other nobles in the Macedonian town of Mieza. Although the complex is called a gymnasium, the ancient Greeks used these buildings for much more than just physical training, according to a report by Live Science.A team of archaeologists led by Angeliki Kottaridi, director emerita of antiquities with the Hellenic Ministry of Culture, has uncovered a large area called the Didaskaleion, or “place of teaching,” where students learned using styluses and stone desks, according to La Brújula Verde.Archaeologists also uncovered two banquet halls adjacent to the teaching area: lavish rooms with mosaic tile floors and intricate finishes that mirror those of Philip II's palace at Aigai.
+
+Kottaridi said that she believes these similarities are no coincidence; rather, they confirm that the complex at Mieza was expressly built by Philip II “for the education of his son Alexander and the children of the noble Macedonians.
+
+”The school’s layout also offers a glimpse into the structure and values of elite Macedonian education during the fourth century B.C.E., as per a report by the Greek Reporter. It said the complex’s size and structure—combining athletic and instructional spaces—reveal the Mieza gymnasium’s status as a Macedonian educational institution.
+
+The formal nature of the banquet halls, once fitted with reclining couches, suggests that social education played a central role in the schooling of Alexander and his peers, La Brújula Verde reported.
+
+As they prodded the limits of Aristotelian logic and pushed the boundaries of physical strength, they also practised the refined mores necessary to host and attend “symposia,” the dining parties of the Macedonian elite.Earlier discoveries at the complex found pieces of pottery, old coins and assorted antiquities along with four bronze writing styluses that may have been used by Aristotle's students, potentially even by Alexander himself. Archaeologists also found fragments of containers meant to hold sacred olive oil from Athens, suggesting that students at the Mieza complex had access to one of the most valuable products in the Hellenic world.While the findings may not conclusively prove that the gymnasium is where Alexander learned his lessons, researchers are confident in the clues archaeologists have already amassed and hope more of such will turn up soon. “All the evidence suggests this is the school Philip provided for Aristotle to tutor the young Alexander and his fellow students,” Jeanne Reames, director of the ancient Mediterranean studies program at the University of Nebraska at Omaha, who was not involved in the research, told Live Science.
+
+As the excavation continues, she believes it will “shed more light on elite education in Macedonia in the second half of the fourth century B.C.E.”
+
+---
+
+### Amid calls for ‘pacing,’ a new Nvidia safety tool to stop AI agents from going rogue
+*Soumyarendra Barik · legal*
+
+Nvidia’s new platform adds software and hardware guardrails to control what AI agents can access and do. Here’s how OpenShell and Sentry work together to monitor, contain and stop agents when they cross defined boundaries.
+
+[Read full article](https://indianexpress.com/article/explained/explained-ai/nvidia-open-agent-safety-platform-openshell-sentry-10898569/)
+
+---
+
+### Former IAS Divya Mittal to enter politics, wants to fix education and jobs
+*India Today Education Desk · general*
+
+## Former IAS officer Divya Mittal has announced her political plans, raising concerns about artificial intelligence, youth employment and examination paper leaks. She says her experience in the administration has shown her how delays and gaps in the system can affect young people and their futures.
+
+Former Uttar Pradesh cadre IAS officer Divya Mittal has announced her political plans, months after stepping down from the service. (Photo: Screengrab/X/divyamittal\_IAS)
+
+New Delhi,Sep 29, 2026 11:15 IST
+
+“As a mother of two daughters, it is natural for me to worry about their future,” former IAS officer Divya Mittal said in a video released on September 29.
+
+She announced that she would now enter politics, but would not join any political party. Among her priorities are education, examination irregularities and the uncertain employment future facing young people.
+
+“I want to be the voice of those whose voices are unable to reach government offices, and even when they do, are often not heard,” she said.
+
+As artificial intelligence (AI) continues to develop, Mittal wants to know what the future holds for young people entering the workforce. “AI could change many jobs in the future,” she said, questioning why there was not enough public discussion about the world today's children would grow up in.
+
+For Mittal, who resigned from the Indian Administrative Service after 13 years, these questions are among the reasons she has decided to enter politics.
+
+### ‘WHAT FUTURE ARE WE BUILDING FOR OUR CHILDREN?’
+
+Mittal's concerns about employment are closely linked to the challenges students face even before they enter the job market.
+
+Speaking about paper leaks and examination irregularities, she pointed out that young people spend years preparing for competitive examinations. When the process is disrupted, their hard work and future plans are affected.
+
+“As a girl from an ordinary family, I got the opportunity to move ahead through education,” she said.
+
+Her own journey took her from IIT Delhi and IIM Bangalore to a job in London, before she returned to India to prepare for the civil services.
+
+She said today's young people face a different set of challenges, from the uncertainty surrounding examinations to questions about what AI could mean for their careers.
+
+### A VILLAGE SCHOOL THAT COULD NOT MOVE BEYOND CLASS 5
+
+Her concerns about education also come from her time in the administration.
+
+Recalling an inspection in the Lahuriyadah area of Mirzapur, Mittal said she met a woman who asked for the next grade to be introduced at the village school.
+
+The school offered classes only up to Class 5, making it difficult for children to continue their education.
+
+Mittal said she checked the rules and approvals and found that the school had been approved. Yet, even after three years, construction had not begun.
+
+The experience left her questioning why a project could remain stalled despite the necessary approvals. For her, the incident highlighted how administrative delays can stand between children and access to education.
+
+### ‘WE NEED PEOPLE’S POWER’
+
+Mittal said her decision to enter politics was not about securing a position, but about raising issues that often go unheard.
+
+She described Uttar Pradesh as her “karmabhoomi” and said she wanted to begin her political journey in the state. She also made it clear that she would not join a political party, adding that the shape of her political platform would be decided with the people.
+
+Mittal announced her resignation on August 30, with the decision taking effect on September 15, 2026.
+
+Now, as she prepares for a new chapter, education, examination reforms and the future of young people's employment are among the issues she wants to bring into public discussion.
+
+\- Ends
+
+---
+
+### Nifty Below 22,600: Is Your SIP Losing Due To Oil? How $107 Crude Is Dragging Markets, And What Investors Should Do Now
+*Mohammad Haris · business*
+
+The latest fall comes amid sustained selling pressure in domestic equities, with concerns over US-Iran war and disruptions to global energy supplies keeping oil prices elevated.
+
+[Read full article](https://www.news18.com/business/markets/nifty-below-22600-is-your-sip-losing-due-to-oil-how-107-crude-is-dragging-markets-and-what-investors-should-do-now-ws-l-10358609.html)
+
+---
+
+### Jaishankar says India-China ties improve as border situation moves towards normalcy
+*India Today World Desk · general*
+
+## S Jaishankar said India-China ties are better now as border conditions improve. He said full normalcy in relations depends on sustained calm along the frontier.
+
+Image used for representational purposes only
+
+Newyork,Sep 29, 2026 10:52 IST
+
+External Affairs Minister S Jaishankar has said India-China ties are "better" today than they were a couple of years ago, adding that the relationship returns to normalcy as border issues are resolved. He was speaking during a conversation hosted by Asia Society in New York on Monday.
+
+Responding to a question on India-China relations, which have improved in recent times, including after Chinese President Xi Jinping's recent visit to India for the BRICS Leaders' Summit in New Delhi, Jaishankar said, "If you asked me, compared to where you were in 2025, is the relationship better today? I would say yes. Compared to 2024, even more so."
+
+He said this was not so much a "structural change", but that ties had improved partly because they had gone "so much off-track" after the 2020 border standoff. "The moment you stabilised it, it was going to improve, because after what happened in 2020 and the long standoff that we had on the border, the relationship had really been impacted," he said.
+
+Jaishankar said that after the 2020 standoff, all "normal contacts" between the two countries had stopped. While trade continued, official exchanges, visa issuance and flights were affected. "So once the border standoff was resolved, it was natural that this would start to improve," he said.
+
+He said Delhi had long conveyed to Beijing that a standoff and a dip in ties did not help either side and instead benefited others. "We also maintained consistently a very elementary principle of statecraft - don't get locked into a problem which benefits others," he said. He added that it took time for the Chinese side to agree, but said the long standoff did not serve the interests of either country. "To the extent there is an improvement in our relations, I think it certainly helps our position," he said, not only vis-a-vis China but also vis-a-vis the rest of the world. "Because I don't want to get totally focused to my disadvantage on one particular relationship and issue. If I can find a solution which works for me, I would rather do that," he said.
+
+Jaishankar said India and China had come down to a basic principle: "the state of the border determines the state of the relationship". "You can't have tension...on the border and say the relationship should be normal. So what we've had is, as the border comes back more towards normalcy, the relationship comes back more towards normalcy, and if the relationship comes back more towards normalcy, it helps both of us," he said.
+
+In his remarks to an audience that included prominent members of the Indian-American community, Jaishankar also said the world was moving "quite visibly" towards greater multipolarity. He said the most powerful country in the world, which has been "the ballast" or "the shaper of the system as we know it currently", was seeing "an erosion in alliances" and "a tendency to do it alone", which was affecting the thinking of the rest of the world.
+
+Referring to the 'G2' summit meeting between US President Donald Trump and Chinese President Xi Jinping in Washington last week, he said that when the second most consequential or weightiest economy joins the first, "while they may have their points of convergence, overall they are in a competitive mode". "There are limits to what the two of them can agree upon vis-a-vis the rest of the world. And that then leaves the rest of us and the rest of us are coming to terms today with a very different America, with the fact that there is also today a certain conversation taking place between America and China," he said.
+
+He said countries were now making their own arrangements and looking for "optimal solutions". "How do we de-risk? How do we diversify? Which are the new partners? Where do we get more value out of an existing partnership?" he said. Calling the global situation difficult, Jaishankar said countries calculate, adjust and find new accommodations and solutions, and that this shift was reflected in the conversations and meetings held during the just-concluded high-level UNGA week. Overall, he said improved border conditions have helped stabilise India-China ties even as countries adapt to a changing global order.
+
+With PTI Inputs
+
+\- Ends
+
+---
+
+### Why not Har Har Mahadev? Revanth Reddy slams BJP's Ram politics, party hits back
+*Abdul Basheer · general*
+
+Telangana Chief Minister Revanth Reddy has accused the BJP of turning Lord Ram into a political symbol and questioned the party's frequent use of the slogan "Jai Shri Ram", contrasting it with what he described as the Dravidian tradition of worshipping Lord Shiva.
+
+The remarks drew a sharp response from the BJP, which accused the Congress leader of creating political divisions between Lord Ram and Lord Shiva.
+
+Speaking at a private event in Delhi, Reddy said on Monday, "We are Dravidians, and we have our own traditions and beliefs. We are devotees of Lord Shiva, while they identify more with Lord Ram."
+
+"The BJP has, in a way, appropriated Lord Ram and turned him into a political symbol. It is an emotion and a sentiment," he said.
+
+Reddy questioned why BJP leaders did not use the slogan "Har Har Mahadev" on public platforms as frequently as they used "Jai Shri Ram".
+
+"Why don't they say 'Har Har Mahadev'? Prime Minister Modi and BJP leaders are always seen saying 'Jai Shri Ram'. Have you ever seen them say 'Har Har Mahadev' on a public platform?" Reddy asked at the event organised by Pratidin Media Network.
+
+He further claimed that BJP leaders did not appear to like it when "Har Har Mahadev" was raised. He also sought to draw a distinction between the social imagery associated with Lord Shiva and Lord Ram.
+
+"Lord Shiva is seen as the god of the poor, while Lord Ram is portrayed as the god of the rich. The BJP is a party of the rich. That is the simple logic behind it," he said.
+
+### BJP HITS BACK AT REDDY
+
+Responding to Reddy's remarks, BJP leader Bandi Sanjay Kumar accused the Chief Minister of creating political boundaries between Lord Ram and Lord Shiva.
+
+"CM Revanth Reddy, who says 'Muslim is Congress, Congress is Muslim'’, is now drawing political boundaries between Lord Ram & Lord Shiva," Sanjay Kumar said in a social media post.
+
+He said Reddy should be aware of the religious significance of temples associated with both Lord Shiva and Lord Ram in Telangana.
+
+"Being the CM of Telangana that has 'dakshina Kashi' at Vemulawada and 'Dakshina Ayodhya' at Bhadrachalam, Revanth Reddy should know better than to divide Lord Rama and Lord Shiva into North and South," he said.
+
+Sanjay Kumar also invoked the Hindu tradition of Lord Shiva consuming Halahala, or poison, and accused the Congress of creating divisions.
+
+"Today, Congress is brewing its own Halahala: caste against caste, North against South, and now Shiva against Rama," he added.
+
+Responding specifically to Reddy's question about BJP leaders using the slogan “Har Har Mahadev”, Sanjay Kumar referred to Prime Minister Narendra Modi's association with Varanasi and the Kashi Vishwanath temple.
+
+"Hon'ble PM Shri Narendra Modi ji represents Varanasi. Who is at the spiritual heart of Varanasi? Kashi Vishwanath, Lord Shiva," he said..
+
+Sanjay Kumar also accused Reddy of invoking gods during elections and subsequently using them to create divisions.
+
+“And when you ask whether BJP leaders ever say 'Har Har Mahadev', here is Hon'ble Prime Minister Shri Narendra Modi ji himself saying it," he said.
+
+The BJP leader also urged Hindus to recognise what he described as the Congress's politics of division.
+
+\- Ends
+
+---
+
+### Orient Cables IPO Day 3: GMP at 27%; subscription crosses 8 times. key details inside
+*Ritesh Presswala · finance, ipo*
+
+The Orient Cables IPO entered its third and final day of bidding on Tuesday, with the issue witnessing strong demand so far. In the grey market, the IPO is currently commanding a GMP of 27%, indicating that the shares are being traded at a premium to the issue price in the unofficial market.
+
+On Day 2, the IPO was subscribed 8.32 times overall, with bids received against 1.49 crore shares on offer. The Retail Individual Investors (RIIs) category was subscribed 9.16 times, against 74.88 lakh shares reserved for the segment.
+
+The Rs 552-crore Orient Cables IPO is a book-built issue comprising a fresh issue of 1.18 crore shares worth Rs 320 crore and an offer for sale (OFS) of 85.29 lakh shares worth Rs 232 crore.
+
+The allotment is expected to be finalised on September 30, while the shares are likely to list on the NSE and BSE on October 5, 2026, subject to the applicable timelines.
+
+The company has fixed the IPO price band at Rs 258–272 per share, with a lot size of 55 shares. At the upper end of the price band, retail investors will need a minimum investment of Rs 14,960 for one lot.
+
+IIFL Capital Services Ltd. and JM Financial Ltd. are the book-running lead managers to the issue, while KFin Technologies Ltd. is the registrar.
+
+  
+
+## Orient Cables IPO Subscription Status
+
+On the second day of bidding, the Orient Cables IPO was subscribed 8.32 times overall, with bids received against 1.49 crore shares on offer.
+
+The Retail Individual Investors (RIIs) category was subscribed 9.16 times, against 74.88 lakh shares reserved for the segment.
+
+The Non-Institutional Investors (NIIs) category saw stronger demand, with the issue subscribed 17.37 times, against 32.09 lakh shares on offer.
+
+The Qualified Institutional Buyers (QIBs) category was subscribed 6%, against 32.09 lakh shares offered.
+
+## Orient Cables IPO GMP Today
+
+The latest grey market premium (GMP) for the Orient Cables IPO stands at Rs 72 per share, or around 27%, over the upper price band of Rs 272 per share.
+
+Based on the current GMP, the estimated listing price is around Rs 344 per share. However, GMP is an unofficial and unregulated market indicator and does not guarantee the actual listing price of the IPO. It can fluctuate before listing depending on market conditions and investor sentiment.
+
+## IPO Objects of the Issue
+
+The Orient Cables (India) IPO plans to use the net proceeds to fund its capital expenditure requirements, including purchasing machinery and equipment and civil works at its manufacturing facilities. Around Rs 91.50 crore has been earmarked for this purpose.
+
+The company also proposes to utilise Rs 155.50 crore towards the repayment or prepayment of certain outstanding borrowings, either fully or partially. The remaining proceeds will be used for general corporate purposes.
+
+## Financial Performance
+
+Orient Cables (India) Ltd.’s total income increased 42% to Rs 1,182 crore in FY26, compared with Rs 832 crore in FY25. Meanwhile, profit after tax (PAT) remained largely stable at Rs 54 crore, versus Rs 53 crore in the previous financial year.
+
+## About Orient Cables (India) Ltd.
+
+Incorporated in September 2005, Orient Cables (India) Limited manufactures networking cables and passive networking equipment. The Company has nearly two decades of experience in the networking cables and passive networking equipment industry and caters to industries including broadband, telecommunications, data centres, renewable energy, smart building automation and security, system integration, FMEG and automotive.
+
+As of June 30, 2026, the Company had 613 permanent employees and 1,327 contractual employees.
+
+_Disclaimer: The views/recommendations mentioned in this article, wherever applicable, are those of the respective SEBI-registered Research Analyst/brokerage and have been reproduced/reported with due attribution. They should not be construed as the views or recommendations of The Economic Times Digital or the journalist. Readers are advised to consider the original research report and make their investment decisions based on their own assessment. Brokerage disclaimers here_
+
+---
+
+### Karnataka weather forecast: Light rain likely in Bengaluru; Yellow alert in Agumbe, Mysuru
+*Express Web Desk · legal*
+
+The IMD has issued a yellow alert for Agumbe, Hassan, and Mysuru as Karnataka braces for heavy rain and thunderstorms amid a severe 67% September monsoon deficit.
+
+[Read full article](https://indianexpress.com/article/weather/karnataka-bengaluru-rain-september-forecast-imd-10898505/)
+
+---
+
+### MPSC defers State Services Main exam 2026 scheduled for October 3
+*Education Desk · legal*
+
+The developments come amid aspirants-led protests over the alleged question paper leak of the drug inspector exam and the overall structure of carrying out examinations by the commission.
+
+[Read full article](https://indianexpress.com/article/education/maharashtra-public-service-commission-defers-state-services-main-exam-2026-scheduled-october-3-10898524/)
+
+---
+
+### US bans nearly $1 billion in Canadian imports, escalating trade tensions
+*India Today World Desk · general*
+
+## The United States has enforced a ban on nearly USD 1 billion of Canadian goods, including alcohol, dairy and motorcycles. The move deepens a trade standoff with Ottawa and complicates wider North American trade talks.
+
+Washington,Sep 29, 2026 10:45 IST
+
+The United States has moved ahead with a ban on nearly USD 1 billion worth of Canadian imports, including alcoholic beverages, some dairy products and motorcycles, in the latest escalation of trade tensions between the two countries. The measure took effect at 12.01 am Eastern time on Tuesday and is expected to further strain relations that were already under pressure.
+
+While the ban affects only a small part of the roughly USD 880 billion in annual two-way trade between the neighbours, it marks another step in President Donald Trump's second-term trade battle with a longstanding US ally. The dispute is also casting a shadow over efforts to renew the US-Mexico-Canada Agreement, the North American trade pact that Trump once described as "the most modern, up-to-date, and balanced trade agreement in the history of our country".
+
+The latest round of friction began over the summer, when Trump used a law dating back to the Great Depression to impose 50 per cent tariffs on about USD 20 billion worth of Canadian imports, accusing Canada of discriminating against US dairy, automobile and alcoholic beverage producers. Canada responded with tariffs of 15 per cent, 25 per cent or 50 per cent on US goods, matching the US action dollar for dollar. Trump then decided to ban a list of Canadian products in response to that retaliation.
+
+Trade attorney Patrick Childress, a partner at Holland & Knight and a former US trade official, said the import ban "certainly won't do anything to help the trade tensions between the United States and Canada". He also said the immediate economic impact was likely to be limited because many of the products were already facing Trump's tariffs. "For a lot of these goods, the 50 per cent was already acting as a de facto ban by making importation from Canada into the United States uneconomical," he said.
+
+Jacob Jensen, director of trade policy at the centre-right American Action Forum think tank, estimated that the ban covers USD 967 million worth of Canadian imports, based on 2025 figures. Of that, 87 per cent is alcoholic beverages, which the US targeted after some Canadian provinces removed US alcohol from shop shelves in response to Trump's measures. The ban also includes some dairy products, including whey, an area where the two countries have long disagreed because Canada protects its dairy sector with steep tariffs once imports rise beyond fixed quotas.
+
+Motorcycles are also covered by the ban. Bombardier Recreational Products in Quebec said its three-wheel Can-Am Spyder and Canyon motorcycles "will be excluded from importation into the US". However, the company said the effect was unlikely to be felt until next year because most production and shipments for the current season had already been completed.
+
+Jensen said, "This marks yet another escalation in the trade war that may result in further retaliation on the Canadian side." He added that Canadian exporters and US importers "impacted by these bans will be highly motivated" to push trade officials on both sides to find a "resolution of this whole ordeal".
+
+The standoff comes at a sensitive time for regional trade. Although the USMCA allowed most goods to move across North American borders duty-free, Trump's return to the White House last year has brought a new series of tariffs that have raised fresh uncertainty. Much of Trump's criticism has been aimed at Canada, and he has openly sought to draw Canadian manufacturing into the United States. His repeated suggestion that Canada should become America's 51st state has also inflamed public opinion there.
+
+Canadian Prime Minister Mark Carney, who came to power last year on a promise to stand up to Trump, has responded by trying to reduce Canada's dependence on the United States, which took more than 70 per cent of Canadian exports last year. "There is now a price to be paid for access to the United States market," Carney said earlier this month. He wants to double Canada's trade outside the US over the next decade, has backed the idea of Canada becoming the European Union's first associate member, and said last week that trade talks with India were making "good progress" with both sides aiming to finish by the G20 summit in mid-December. Earlier this year, Carney also broke with Washington by reaching a deal with China to allow a limited number of Chinese electric vehicles into Canada at a sharply reduced tariff in return for China lowering tariffs on Canadian canola.
+
+Gabriel Brunet, a spokesman for Canada-US Trade Minister Dominic LeBlanc, said, "We take note of the coming into force of the Administration's previously announced trade measures. Our first priority remains on protecting and supporting Canadian workers, farmers, families, and businesses from these unjustified actions. Our core focus is on what we can control: building strength at home, diversifying our partnerships abroad, and building Canada strong for all Canadians."
+
+Trump, however, said he believed Canada would back down. "They're gonna come in and they're gonna say, Sir, we are sorry," he told reporters on Monday. "They've treated the United States very, very badly. I think a deal will be made but it's gonna be fair." Childress said the dispute was likely to drag on for months rather than weeks, adding that the tariffs and import bans so far "probably won't cause enough economic upheaval to force either party back to the negotiating table". For now, the latest US ban adds another layer to a trade fight that is widening even as its immediate economic impact remains limited.
+
+With PTI Inputs
+
+\- Ends
+
+
+---
+
 ## 28 September 2026
 
 ### Why do pirates really wear an eyepatch? Hollywood keeps it a secret
